@@ -131,22 +131,6 @@ jobs:
           });
         }
         
-        // Funkcja do konwersji punktów na paragrafy HTML
-        function convertBulletsToHtmlParagraphs(text) {
-          if (!text) return '';
-          
-          // Podziel tekst na części według kropek •
-          const parts = text.split('•').filter(part => part.trim().length > 0);
-          
-          // Jeśli nie ma kropek, zwróć normalny paragraf
-          if (parts.length <= 1) {
-            return `<p>${text.trim()}</p>`;
-          }
-          
-          // Przekształć każdą część na osobny paragraf z kropką
-          return parts.map(part => `<p>• ${part.trim()}</p>`).join('');
-        }
-        
         // Ulepszona funkcja do wywołania Groq API
         async function enhanceDescriptionWithGroq(title, originalDescription) {
           const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową wszystkich informacji.\n\n" +
@@ -214,11 +198,8 @@ jobs:
                     console.log(`Tekst zbyt podobny (${Math.round(similarity * 100)}%), pozostawiam oryginalny...`);
                     resolve(originalDescription);
                   } else {
-                    // TUTAJ DODAJEMY KONWERSJĘ NA PARAGRAFY HTML
-                    const htmlFormattedText = convertBulletsToHtmlParagraphs(enhancedText);
                     console.log(`Enhanced (${Math.round(similarity * 100)}% podobieństwo): ${enhancedText.substring(0, 50)}...`);
-                    console.log(`HTML formatted: ${htmlFormattedText.substring(0, 100)}...`);
-                    resolve(htmlFormattedText);
+                    resolve(enhancedText);
                   }
                 } catch (error) {
                   console.log('JSON parse error:', error);
@@ -401,7 +382,7 @@ jobs:
                 // Czekamy między requestami
                 await delay(1500);
                 
-                // Potem ulepszamy opis (teraz z konwersją na HTML)
+                // Potem ulepszamy opis
                 const enhancedDescription = await enhanceDescriptionWithGroq(
                   article.title,
                   article.description
