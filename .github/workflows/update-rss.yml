@@ -91,9 +91,9 @@ jobs:
             }
           }
           
-          // Konwertuj paragrafy na HTML z justowaniem do lewej i kropkami
+          // Konwertuj paragrafy na HTML
           const htmlDescription = paragraphs
-            .map(paragraph => `<p style="text-align: left;">• ${paragraph}</p>`)
+            .map(paragraph => `<p>${paragraph}</p>`)
             .join('\n');
           
           return {
@@ -165,7 +165,7 @@ jobs:
                     console.log(`Groq API error ${res.statusCode}:`, data);
                     resolve({
                       enhancedTitle: title,
-                      htmlDescription: `<p style="text-align: left;">• ${originalDescription}</p>`
+                      htmlDescription: `<p>${originalDescription}</p>`
                     });
                     return;
                   }
@@ -187,7 +187,7 @@ jobs:
                     console.log(`Tekst zbyt podobny (${Math.round(similarity * 100)}%), pozostawiam oryginalny...`);
                     resolve({
                       enhancedTitle: title,
-                      htmlDescription: `<p style="text-align: left;">• ${originalDescription}</p>`
+                      htmlDescription: `<p>${originalDescription}</p>`
                     });
                   } else {
                     console.log(`Enhanced (${Math.round(similarity * 100)}% podobieństwo):`);
@@ -199,7 +199,7 @@ jobs:
                   console.log('JSON parse error:', error);
                   resolve({
                     enhancedTitle: title,
-                    htmlDescription: `<p style="text-align: left;">• ${originalDescription}</p>`
+                    htmlDescription: `<p>${originalDescription}</p>`
                   });
                 }
               });
@@ -209,7 +209,7 @@ jobs:
               console.log('Groq request error:', error);
               resolve({
                 enhancedTitle: title,
-                htmlDescription: `<p style="text-align: left;">• ${originalDescription}</p>`
+                htmlDescription: `<p>${originalDescription}</p>`
               });
             });
         
@@ -402,7 +402,7 @@ jobs:
               } else {
                 console.log(`Pomijam artykuł ${i + 1} - brak opisu`);
                 // Dodaj podstawowe HTML dla brakującego opisu
-                articles[i].description = '<p style="text-align: left;">• Brak opisu</p>';
+                articles[i].description = '<p>Brak opisu</p>';
                 articles[i].enhancedWithGroq = false;
               }
             }
