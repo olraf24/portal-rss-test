@@ -1,106 +1,106 @@
 // Ulepszona funkcja do wywołania Groq API
-async function enhanceDescriptionWithGroq(title, originalDescription) {
-  const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową wszystkich informacji.\n\n" +
-    "WYMAGANIA:\n" +
-    "- Wypunktuj WSZYSTKIE informacje z opisu\n" +
-    "- Każdy punkt w nowej linii z • na początku\n" +
-    "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\n" +
-    "- Nie skracaj ani nie pomijaj żadnych danych\n" +
-    "- NIE DUPLIKUJ informacji z tytułu w punktach\n" +
-    "- Nie dodawaj własnych komentarzy\n" +
-    "- Tylko faktyczne informacje z tekstu opisu\n\n" +
-    "Opis artykułu: " + originalDescription + "\n\n" +
-    "LISTA PUNKTOWA:";
-
-  const requestData = JSON.stringify({
-    messages: [
-      {
-        role: "system",
-        content: "Jesteś ekspertem od strukturyzowania informacji. Zawsze przekształcasz tekst w przejrzystą listę punktową zachowując wszystkie szczegóły."
-      },
-      {
-        role: "user",
-        content: prompt
-      }
-    ],
-    model: "llama-3.3-70b-versatile",
-    temperature: 0.2,
-    max_tokens: 500,
-    top_p: 0.9
-  });
-
-  return new Promise((resolve, reject) => {
-    const options = {
-      hostname: 'api.groq.com',
-      path: '/openai/v1/chat/completions',
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${GROQ_API_KEY}`,
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(requestData)
-      },
-      timeout: 15000
-    };
-
-    const req = https.request(options, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          if (res.statusCode !== 200) {
-            console.log(`Groq API error ${res.statusCode}:`, data);
-            resolve(originalDescription); // Fallback do oryginalnego
-            return;
-          }
-          
-          const response = JSON.parse(data);
-          let enhancedText = response.choices[0].message.content.trim();
-          
-          // Usuń ewentualne cudzysłowy na początku/końcu
-          enhancedText = enhancedText.replace(/^["']|["']$/g, '');
-          
-          // NOWA FUNKCJONALNOŚĆ: Przekształć punkty w paragrafy HTML
-          // Rozdziel tekst na linie i przetwórz każdą zaczynającą się od •
-          const lines = enhancedText.split('\n');
-          const htmlParagraphs = lines
-            .filter(line => line.trim().length > 0) // Usuń puste linie
-            .map(line => {
-              // Usuń • z początku i przygotuj jako paragraf
-              const cleanLine = line.replace(/^[•\-\*]\s*/, '').trim();
-              return cleanLine.length > 0 ? `<p>${cleanLine}</p>` : '';
-            })
-            .filter(para => para.length > 0) // Usuń puste paragrafy
-            .join('');
-          
-          // Sprawdź czy tekst się różni od oryginału
-          const similarity = calculateSimilarity(originalDescription, enhancedText);
-          if (similarity > 0.8) {
-            console.log(`Tekst zbyt podobny (${Math.round(similarity * 100)}%), pozostawiam oryginalny...`);
-            resolve(originalDescription);
-          } else {
-            console.log(`Enhanced (${Math.round(similarity * 100)}% podobieństwo): ${htmlParagraphs.substring(0, 50)}...`);
-            resolve(htmlParagraphs);
-          }
-        } catch (error) {
-          console.log('JSON parse error:', error);
-          resolve(originalDescription);
+        async function enhanceDescriptionWithGroq(title, originalDescription) {
+          const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową wszystkich informacji.\\n\\n" +
+            "WYMAGANIA:\\n" +
+            "- Wypunktuj WSZYSTKIE informacje z opisu\\n" +
+            "- Każdy punkt w nowej linii z • na początku\\n" +
+            "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\\n" +
+            "- Nie skracaj ani nie pomijaj żadnych danych\\n" +
+            "- NIE DUPLIKUJ informacji z tytułu w punktach\\n" +
+            "- Nie dodawaj własnych komentarzy\\n" +
+            "- Tylko faktyczne informacje z tekstu opisu\\n\\n" +
+            "Opis artykułu: " + originalDescription + "\\n\\n" +
+            "LISTA PUNKTOWA:";
+        
+          const requestData = JSON.stringify({
+            messages: [
+              {
+                role: "system",
+                content: "Jesteś ekspertem od strukturyzowania informacji. Zawsze przekształcasz tekst w przejrzystą listę punktową zachowując wszystkie szczegóły."
+              },
+              {
+                role: "user",
+                content: prompt
+              }
+            ],
+            model: "llama-3.3-70b-versatile",
+            temperature: 0.2,
+            max_tokens: 500,
+            top_p: 0.9
+          });
+        
+          return new Promise((resolve, reject) => {
+            const options = {
+              hostname: 'api.groq.com',
+              path: '/openai/v1/chat/completions',
+              method: 'POST',
+              headers: {
+                'Authorization': \`Bearer \${GROQ_API_KEY}\`,
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(requestData)
+              },
+              timeout: 15000
+            };
+        
+            const req = https.request(options, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => {
+                try {
+                  if (res.statusCode !== 200) {
+                    console.log(\`Groq API error \${res.statusCode}:\`, data);
+                    resolve(originalDescription); // Fallback do oryginalnego
+                    return;
+                  }
+                  
+                  const response = JSON.parse(data);
+                  let enhancedText = response.choices[0].message.content.trim();
+                  
+                  // Usuń ewentualne cudzysłowy na początku/końcu
+                  enhancedText = enhancedText.replace(/^["']|["']\$/g, '');
+                  
+                  // NOWA FUNKCJONALNOŚĆ: Przekształć punkty w paragrafy HTML
+                  // Rozdziel tekst na linie i przetwórz każdą zaczynającą się od •
+                  const lines = enhancedText.split('\\n');
+                  const htmlParagraphs = lines
+                    .filter(line => line.trim().length > 0) // Usuń puste linie
+                    .map(line => {
+                      // Usuń • z początku i przygotuj jako paragraf
+                      const cleanLine = line.replace(/^[•\\-\\*]\\s*/, '').trim();
+                      return cleanLine.length > 0 ? \`<p>\${cleanLine}</p>\` : '';
+                    })
+                    .filter(para => para.length > 0) // Usuń puste paragrafy
+                    .join('');
+                  
+                  // Sprawdź czy tekst się różni od oryginału
+                  const similarity = calculateSimilarity(originalDescription, enhancedText);
+                  if (similarity > 0.8) {
+                    console.log(\`Tekst zbyt podobny (\${Math.round(similarity * 100)}%), pozostawiam oryginalny...\`);
+                    resolve(originalDescription);
+                  } else {
+                    console.log(\`Enhanced (\${Math.round(similarity * 100)}% podobieństwo): \${htmlParagraphs.substring(0, 50)}...\`);
+                    resolve(htmlParagraphs);
+                  }
+                } catch (error) {
+                  console.log('JSON parse error:', error);
+                  resolve(originalDescription);
+                }
+              });
+            });
+        
+            req.on('error', (error) => {
+              console.log('Groq request error:', error);
+              resolve(originalDescription);
+            });
+        
+            req.on('timeout', () => {
+              console.log('Groq request timeout');
+              req.destroy();
+              resolve(originalDescription);
+            });
+        
+            req.setTimeout(15000);
+            req.write(requestData);
+            req.end();
+          });
         }
-      });
-    });
-
-    req.on('error', (error) => {
-      console.log('Groq request error:', error);
-      resolve(originalDescription);
-    });
-
-    req.on('timeout', () => {
-      console.log('Groq request timeout');
-      req.destroy();
-      resolve(originalDescription);
-    });
-
-    req.setTimeout(15000);
-    req.write(requestData);
-    req.end();
-  });
-}
