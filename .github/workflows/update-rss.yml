@@ -406,7 +406,7 @@ jobs:
               });
             }
             
-            if (articles.length >= 8) break; // Zwiększamy z powrotem do 8 artykułów (mniej requestów)
+            if (items.length >= 8) break; // Zwiększamy z powrotem do 8 artykułów (mniej requestów)
           }
           
           return items;
