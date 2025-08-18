@@ -133,17 +133,21 @@ jobs:
         
         // Ulepszona funkcja do wywołania Groq API
         async function enhanceDescriptionWithGroq(title, originalDescription) {
-          const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową wszystkich informacji.\n\n" +
+          const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową.\n\n" +
             "WYMAGANIA:\n" +
             "- Wypunktuj WSZYSTKIE informacje z opisu\n" +
-            "- Każdy punkt w nowej linii z • na początku\n" +
+            "- KAŻDY PUNKT W OSOBNEJ LINII\n" +
+            "- Zacznij każdy punkt od: •\n" +
             "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\n" +
-            "- Nie skracaj ani nie pomijaj żadnych danych\n" +
-            "- NIE DUPLIKUJ informacji z tytułu w punktach\n" +
-            "- Nie dodawaj własnych komentarzy\n" +
-            "- Tylko faktyczne informacje z tekstu opisu\n\n" +
-            "Opis artykułu: " + originalDescription + "\n\n" +
-            "LISTA PUNKTOWA:";
+            "- NIE DUPLIKUJ informacji z tytułu\n" +
+            "- Nie dodawaj własnych komentarzy\n\n" +
+            "PRZYKŁAD FORMATU:\n" +
+            "• Pierwszy fakt\n" +
+            "• Drugi fakt\n" +
+            "• Trzeci fakt\n\n" +
+            "TYTUŁ (NIE DUPLIKUJ): " + title + "\n" +
+            "OPIS DO PRZEPISANIA: " + originalDescription + "\n\n" +
+            "LISTA PUNKTOWA (każdy punkt w nowej linii):";
         
           const requestData = JSON.stringify({
             messages: [
