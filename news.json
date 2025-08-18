@@ -1,15 +1,24 @@
 {
-  "lastUpdate": "2025-08-18T15:46:10.984Z",
+  "lastUpdate": "2025-08-18T15:54:54.802Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "totalArticles": 10,
   "enhancedArticles": 10,
   "articles": [
     {
-      "title": "Pożary w Delvinie - Zwierzęta Cierpią: Dramatyczna Walka o Przetrwanie",
+      "title": "Ulewy zagrażają części kraju - sprawdź, gdzie jest najgroźniej według prognozy IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-ulewy-w-polsce-w-czwartek-21-08-mocno-popada-st8603398?source=rss",
+      "pubDate": "Mon, 18 Aug 2025 04:48:48 GMT",
+      "description": "<p>Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał prognozę zagrożeń.</p>\n<p>Zgodnie z prognozą, w czwartek mogą wystąpić obfite opady deszczu.</p>\n<p>Prognoza wskazuje, że aura może być groźna w pewnych regionach kraju.</p>",
+      "originalTitle": "Ulewy w części kraju. IMGW wydał prognozę zagrożeń",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń. Wynika z niej, że w czwartek mogą wystąpić obfite opady deszczu. Sprawdź, gdzie aura może być groźna.",
+      "enhancedWithGroq": true
+    },
+    {
+      "title": "\"Klacz walczy o życie\", \"nie udało nam się odpiąć krowy\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-w-albanii-ofiarami-sa-takze-zwierzeta-klacz-walczy-o-zycie-nie-udalo-nam-sie-odpiac-krowy-st8604638?source=rss",
       "pubDate": "Mon, 18 Aug 2025 15:31:12 GMT",
-      "description": "<p>W pożarach, które miały miejsce w albańskim mieście Delvina, ucierpieli nie tylko ludzie, lecz także zwierzęta.</p>\n<p>Wiele zwierząt zostało poparzonych w wyniku pożarów.</p>\n<p>Jednym z poszkodowanych zwierząt jest klacz, która otrzymała opiekę od Szwajcarki Marii Cristiny Medina.</p>",
+      "description": "<p>W pożarach, które siały spustoszenie w albańskim mieście Delvina, ucierpieli nie tylko ludzie, lecz także zwierzęta. Wiele z nich zostało poparzonych - na przykład klacz, którą zaopiekowała się Szwajcarka Maria Cristina Medina.</p>",
       "originalTitle": "\"Klacz walczy o życie\", \"nie udało nam się odpiąć krowy\"",
       "originalDescription": "W pożarach, które siały spustoszenie w albańskim mieście Delvina, ucierpieli nie tylko ludzie, lecz także zwierzęta. Wiele z nich zostało poparzonych - na przykład klacz, którą zaopiekowała się Szwajcarka Maria Cristina Medina.",
       "enhancedWithGroq": true
@@ -84,15 +93,6 @@
       "description": "<p>Na wąskiej drodze w okolicach Łoziny (Dolnośląskie) pod kołami auta zginął pies Doron. Według jego właściciela został potrącony umyślnie. Biegł luzem, bez smyczy. Sprawą zajmuje się policja.</p>",
       "originalTitle": "Doron zginął pod kołami auta. \"Nie miał szans uciec\"",
       "originalDescription": "Na wąskiej drodze w okolicach Łoziny (Dolnośląskie) pod kołami auta zginął pies Doron. Według jego właściciela został potrącony umyślnie. Biegł luzem, bez smyczy. Sprawą zajmuje się policja.",
-      "enhancedWithGroq": true
-    },
-    {
-      "title": "Co się będzie działo w Waszyngtonie? Plan godzina po godzinie",
-      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-w-waszyngtonie-harmonogram-spotkania-z-donaldem-trumpem-i-europejskimi-przywodcami-st8603386?source=rss",
-      "pubDate": "Mon, 18 Aug 2025 03:25:41 GMT",
-      "description": "<p>W poniedziałek prezydent Ukrainy Wołodymyr Zełenski spotka się z prezydentem USA Donaldem Trumpem w Waszyngtonie. Dołączą do nich również europejscy przywódcy. Biały Dom przekazał szczegóły dotyczące planu przebiegu rozmów.</p>",
-      "originalTitle": "Co się będzie działo w Waszyngtonie? Plan godzina po godzinie",
-      "originalDescription": "W poniedziałek prezydent Ukrainy Wołodymyr Zełenski spotka się z prezydentem USA Donaldem Trumpem w Waszyngtonie. Dołączą do nich również europejscy przywódcy. Biały Dom przekazał szczegóły dotyczące planu przebiegu rozmów.",
       "enhancedWithGroq": true
     }
   ]
