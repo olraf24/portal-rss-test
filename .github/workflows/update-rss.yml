@@ -52,49 +52,73 @@ jobs:
         
         // Funkcja do parsowania odpowiedzi Groq i rozdzielania na tytuł + paragrafy
         function parseGroqResponse(groqResponse) {
+          console.log('PARSOWANIE ODPOWIEDZI GROQ:', groqResponse.substring(0, 200) + '...');
+          
           const lines = groqResponse.split('\n').filter(line => line.trim() !== '');
           
           let enhancedTitle = '';
           let paragraphs = [];
+          let foundTitle = false;
+          let foundDesc = false;
           
-          // Szukaj linii zaczynającej się od "TYTUŁ:" lub podobnie
-          const titleLineIndex = lines.findIndex(line => 
-            line.toLowerCase().includes('tytuł:') || 
-            line.toLowerCase().includes('nagłówek:') ||
-            line.toLowerCase().includes('title:')
-          );
-          
-          if (titleLineIndex !== -1) {
-            // Wyciągnij tytuł
-            enhancedTitle = lines[titleLineIndex]
-              .replace(/^.*?(tytuł|nagłówek|title):\s*/i, '')
-              .trim()
-              .replace(/^["']|["']$/g, ''); // Usuń cudzysłowy
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
             
-            // Reszta linii to paragrafy
-            const descriptionLines = [
-              ...lines.slice(0, titleLineIndex),
-              ...lines.slice(titleLineIndex + 1)
-            ];
+            // Szukaj tytułu
+            if (line.toLowerCase().includes('tytuł:') && !foundTitle) {
+              enhancedTitle = line
+                .replace(/^.*?(tytuł|title):\s*/i, '')
+                .trim()
+                .replace(/^["']|["']$/g, ''); // Usuń cudzysłowy
+              foundTitle = true;
+              console.log('ZNALEZIONY TYTUŁ:', enhancedTitle);
+              continue;
+            }
             
-            paragraphs = descriptionLines
-              .filter(line => line.trim() !== '')
-              .map(line => line.replace(/^[•\-\*]\s*/, '').trim()) // Usuń punktory
-              .filter(line => line.length > 0);
-          } else {
-            // Jeśli nie ma oznaczonego tytułu, pierwszy punkt to tytuł
-            if (lines.length > 0) {
-              enhancedTitle = lines[0].replace(/^[•\-\*]\s*/, '').trim();
-              paragraphs = lines.slice(1)
-                .map(line => line.replace(/^[•\-\*]\s*/, '').trim())
-                .filter(line => line.length > 0);
+            // Szukaj sekcji opisu
+            if (line.toLowerCase().includes('opis:') && !foundDesc) {
+              foundDesc = true;
+              console.log('ZNALEZIONA SEKCJA OPISU');
+              continue;
+            }
+            
+            // Jeśli już znaleźliśmy tytuł i sekcję opisu, zbieraj punkty
+            if (foundTitle && foundDesc) {
+              if (line.startsWith('•') || line.startsWith('-') || line.startsWith('*')) {
+                const point = line.replace(/^[•\-\*]\s*/, '').trim();
+                if (point.length > 0) {
+                  paragraphs.push(point);
+                  console.log('DODANY PUNKT:', point.substring(0, 50) + '...');
+                }
+              }
+            }
+            
+            // Fallback: jeśli nie ma struktury, ale są punkty
+            if (!foundDesc && (line.startsWith('•') || line.startsWith('-') || line.startsWith('*'))) {
+              const point = line.replace(/^[•\-\*]\s*/, '').trim();
+              if (point.length > 0) {
+                paragraphs.push(point);
+              }
             }
           }
           
+          // Jeśli nie znaleziono tytułu w strukturze, użyj pierwszej linii
+          if (!enhancedTitle && lines.length > 0) {
+            enhancedTitle = lines[0].replace(/^[•\-\*]\s*/, '').trim();
+            paragraphs = lines.slice(1)
+              .map(line => line.replace(/^[•\-\*]\s*/, '').trim())
+              .filter(line => line.length > 0);
+          }
+          
           // Konwertuj paragrafy na HTML
-          const htmlDescription = paragraphs
-            .map(paragraph => `<p>${paragraph}</p>`)
-            .join('\n');
+          const htmlDescription = paragraphs.length > 0 
+            ? paragraphs.map(paragraph => `<p>${paragraph}</p>`).join('\n')
+            : '';
+          
+          console.log('WYNIK PARSOWANIA:');
+          console.log('- Tytuł:', enhancedTitle);
+          console.log('- Liczba paragrafów:', paragraphs.length);
+          console.log('- HTML opis:', htmlDescription.substring(0, 100) + '...');
           
           return {
             enhancedTitle: enhancedTitle || '',
@@ -102,35 +126,38 @@ jobs:
           };
         }
         
-        // Ulepszona funkcja do wywołania Groq API - teraz dla tytułu + opisu razem
+        // Ulepszona funkcja do wywołania Groq API - łączy tytuł + opis, potem rozdziela
         async function enhanceArticleWithGroq(title, originalDescription) {
-          const prompt = "ZADANIE: Przekształć ten artykuł (tytuł + opis) w ulepszony format.\n\n" +
+          // KROK 1: Połącz tytuł i opis w jeden tekst
+          const combinedText = `${title}. ${originalDescription}`;
+          
+          const prompt = "ZADANIE: Przekształć ten połączony tekst (tytuł + opis) w ulepszony artykuł.\n\n" +
             "WYMAGANIA:\n" +
-            "1. TYTUŁ: Napisz ulepszony, bardziej angażujący tytuł\n" +
-            "2. OPIS: Przekształć opis w listę punktową wszystkich informacji\n" +
-            "- Wypunktuj WSZYSTKIE informacje z opisu\n" +
+            "1. Przeanalizuj cały tekst jako jedną całość\n" +
+            "2. Stwórz nowy, lepszy tytuł na podstawie wszystkich informacji\n" +
+            "3. Przekształć wszystkie informacje w punkty opisujące fakty\n" +
+            "- Wypunktuj WSZYSTKIE informacje z całego tekstu\n" +
             "- Każdy punkt to osobna informacja/fakt\n" +
             "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\n" +
             "- Nie skracaj ani nie pomijaj żadnych danych\n" +
-            "- Format: • punkt 1 • punkt 2 • punkt 3\n" +
             "- Nie dodawaj własnych komentarzy\n" +
             "- Tylko faktyczne informacje z tekstu\n\n" +
-            "FORMAT ODPOWIEDZI:\n" +
-            "TYTUŁ: [ulepszony tytuł]\n" +
-            "• [pierwszy punkt opisu]\n" +
-            "• [drugi punkt opisu]\n" +
-            "• [trzeci punkt opisu]\n" +
-            "...\n\n" +
-            "ARTYKUŁ DO PRZETWORZENIA:\n" +
-            "Oryginalny tytuł: " + title + "\n" +
-            "Oryginalny opis: " + originalDescription + "\n\n" +
-            "ULEPSZONY FORMAT:";
+            "FORMAT ODPOWIEDZI (OBOWIĄZKOWY):\n" +
+            "TYTUŁ: [nowy ulepszony tytuł]\n" +
+            "OPIS:\n" +
+            "• [pierwszy punkt z faktami]\n" +
+            "• [drugi punkt z faktami]\n" +
+            "• [trzeci punkt z faktami]\n" +
+            "• [dalsze punkty...]\n\n" +
+            "TEKST DO PRZETWORZENIA:\n" +
+            combinedText + "\n\n" +
+            "PRZETWÓRZ NA FORMAT POWYŻEJ:";
         
           const requestData = JSON.stringify({
             messages: [
               {
                 role: "system",
-                content: "Jesteś ekspertem od strukturyzowania i ulepszania treści newsowych. Zawsze przekształcasz artykuły w bardziej angażujący tytuł i przejrzystą listę punktową zachowując wszystkie szczegóły."
+                content: "Jesteś ekspertem od przetwarzania newsów. ZAWSZE używaj dokładnie tego formatu: najpierw 'TYTUŁ: [nowy tytuł]', potem 'OPIS:', potem lista punktów z '•'. Nigdy nie odbiegaj od tego formatu."
               },
               {
                 role: "user",
