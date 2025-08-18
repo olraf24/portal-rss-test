@@ -76,7 +76,7 @@ jobs:
                 content: prompt
               }
             ],
-            model: "llama-3.1-70b-versatile",
+            model: "llama-3.3-70b-versatile",
             temperature: 0.8,
             max_tokens: 100,
             top_p: 0.9
@@ -265,8 +265,12 @@ jobs:
         async function main() {
           try {
             if (!GROQ_API_KEY) {
+              console.log('BŁĄD: GROQ_API_KEY nie jest ustawiony!');
               throw new Error('GROQ_API_KEY nie jest ustawiony');
             }
+            
+            console.log('GROQ_API_KEY jest ustawiony:', GROQ_API_KEY ? 'TAK' : 'NIE');
+            console.log('Długość klucza:', GROQ_API_KEY ? GROQ_API_KEY.length : 0);
             
             console.log('Pobieranie RSS...');
             const xml = await fetchRSS();
@@ -274,39 +278,66 @@ jobs:
             
             console.log(`Pobrano ${articles.length} artykułów, ulepszanie opisów...`);
             
+            // TEST: Sprawdź pierwszy artykuł przed przetwarzaniem
+            if (articles.length > 0) {
+              console.log('PRZED GROQ - Pierwszy artykuł:');
+              console.log('Tytuł:', articles[0].title);
+              console.log('Opis:', articles[0].description);
+              console.log('Długość opisu:', articles[0].description.length);
+            }
+            
             // Ulepszanie opisów z Groq (sekwencyjnie z opóźnieniem)
             for (let i = 0; i < articles.length; i++) {
               const article = articles[i];
               
               if (article.description && article.description !== 'Brak opisu') {
-                console.log(`Ulepszanie ${i + 1}/${articles.length}: ${article.title.substring(0, 30)}...`);
+                console.log(`\\n=== PRZETWARZANIE ${i + 1}/${articles.length} ===`);
+                console.log(`Tytuł: ${article.title.substring(0, 50)}...`);
+                console.log(`Oryginalny opis: ${article.description.substring(0, 100)}...`);
                 
                 const enhancedDescription = await enhanceDescriptionWithGroq(
                   article.title,
                   article.description
                 );
                 
+                console.log(`Nowy opis: ${enhancedDescription.substring(0, 100)}...`);
+                console.log(`Czy się zmienił: ${enhancedDescription !== article.description ? 'TAK' : 'NIE'}`);
+                
                 articles[i].originalDescription = article.description;
                 articles[i].description = enhancedDescription;
                 
                 // Opóźnienie między requestami (rate limiting)
                 if (i < articles.length - 1) {
-                  await delay(1000); // 1 sekunda między requestami
+                  console.log('Czekam 2 sekundy...');
+                  await delay(2000); // Zwiększone opóźnienie
                 }
+              } else {
+                console.log(`Pomijam artykuł ${i + 1} - brak opisu`);
               }
             }
             
             const data = {
               lastUpdate: new Date().toISOString(),
               enhancedWithGroq: true,
+              groqApiKeyExists: !!GROQ_API_KEY,
               articles: articles
             };
             
             fs.writeFileSync('news.json', JSON.stringify(data, null, 2));
-            console.log(`Zapisano ${articles.length} artykułów z ulepszonymi opisami`);
+            console.log(`\\nZAPISANO ${articles.length} artykułów z ulepszonymi opisami`);
             
           } catch (error) {
-            console.error('Błąd:', error);
+            console.error('BŁĄD W MAIN:', error);
+            
+            // Zapisz przynajmniej podstawowe dane bez Groq
+            const fallbackData = {
+              lastUpdate: new Date().toISOString(),
+              enhancedWithGroq: false,
+              error: error.message,
+              articles: []
+            };
+            
+            fs.writeFileSync('news.json', JSON.stringify(fallbackData, null, 2));
             process.exit(1);
           }
         }
