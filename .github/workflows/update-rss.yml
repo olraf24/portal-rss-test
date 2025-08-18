@@ -27,45 +27,83 @@ jobs:
         
     - name: Fetch and parse RSS
       run: |
-        # Pobierz RSS używając curl (bardziej niezawodne)
-        curl -s -L "https://www.tvn24.pl/najnowsze.xml" > rss.xml
-        
         cat > fetch-rss.js << 'EOF'
+        const https = require('https');
         const fs = require('fs');
         
+        const RSS_URL = 'https://www.tvn24.pl/najnowsze.xml';
+        
         function fetchRSS() {
-          return fs.readFileSync('rss.xml', 'utf8');
+          return new Promise((resolve, reject) => {
+            https.get(RSS_URL, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => resolve(data));
+            }).on('error', reject);
+          });
         }
         
         function parseRSS(xml) {
-          const items = [];
-          const itemRegex = /<item>(.*?)<\/item>/gs;
-          let match;
+          console.log('Długość pobranego XML:', xml.length);
+          console.log('Pierwsze 500 znaków:', xml.substring(0, 500));
           
-          while ((match = itemRegex.exec(xml)) !== null) {
-            const item = match[1];
+          const items = [];
+          
+          // Najprostszy możliwy split - dzielimy na <item>
+          const itemParts = xml.split('<item>');
+          console.log('Znaleziono części item:', itemParts.length - 1);
+          
+          for (let i = 1; i < itemParts.length; i++) {
+            const item = itemParts[i].split('</item>')[0];
             
-            const title = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/)?.[1] || 
-                         item.match(/<title>(.*?)<\/title>/)?.[1] || '';
+            // Bardzo prosty regex bez skomplikowanych grup
+            let title = '';
+            let link = '';
+            let pubDate = '';
+            let description = '';
             
-            const link = item.match(/<link>(.*?)<\/link>/)?.[1] || '';
+            // Tytuł
+            const titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/);
+            if (titleMatch) title = titleMatch[1];
             
-            const pubDate = item.match(/<pubDate>(.*?)<\/pubDate>/)?.[1] || '';
+            // Link
+            const linkMatch = item.match(/<link>(.*?)<\/link>/);
+            if (linkMatch) link = linkMatch[1];
             
-            const description = item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/)?.[1] || 
-                               item.match(/<description>(.*?)<\/description>/)?.[1] || '';
+            // Data
+            const dateMatch = item.match(/<pubDate>(.*?)<\/pubDate>/);
+            if (dateMatch) pubDate = dateMatch[1];
+            
+            // Opis
+            const descMatch = item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/);
+            if (descMatch) {
+              let rawDesc = descMatch[1];
+              console.log('Surowy opis (pierwsze 200 znaków):', rawDesc.substring(0, 200));
+              
+              // Usuń tagi HTML
+              description = rawDesc.replace(/<[^>]*>/g, '').trim();
+              
+              // Usuń nadmierne białe znaki
+              description = description.replace(/\s+/g, ' ');
+              
+              console.log('Czysty opis:', description.substring(0, 100));
+            }
             
             if (title && link) {
               items.push({
                 title: title.trim(),
                 link: link.trim(),
                 pubDate: pubDate.trim(),
-                description: description.trim().replace(/<[^>]*>/g, '').substring(0, 200) + '...'
+                description: description || 'Brak opisu'
               });
+              
+              console.log(`Znaleziono artykuł: ${title.substring(0, 50)}...`);
             }
+            
+            if (items.length >= 20) break;
           }
           
-          return items.slice(0, 20); // Pierwszych 20 artykułów
+          return items;
         }
         
         async function main() {
@@ -81,6 +119,10 @@ jobs:
             
             fs.writeFileSync('news.json', JSON.stringify(data, null, 2));
             console.log(`Pobrano ${articles.length} artykułów`);
+            
+            if (articles.length > 0) {
+              console.log('Pierwszy artykuł:', articles[0].title);
+            }
           } catch (error) {
             console.error('Błąd:', error);
             process.exit(1);
