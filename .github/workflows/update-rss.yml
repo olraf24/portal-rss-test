@@ -37,6 +37,72 @@ jobs:
         const GROQ_API_KEY = process.env.GROQ_API_KEY;
         
         // Funkcja do sprawdzania podobieństwa tekstów
+        async function callGroqWithRetry(requestData, maxRetries = 3) {
+          for (let attempt = 1; attempt <= maxRetries; attempt++) {
+            try {
+              console.log(`Próba ${attempt}/${maxRetries} wywołania Groq API...`);
+              
+              const result = await new Promise((resolve, reject) => {
+                const options = {
+                  hostname: 'api.groq.com',
+                  path: '/openai/v1/chat/completions',
+                  method: 'POST',
+                  headers: {
+                    'Authorization': 'Bearer ' + GROQ_API_KEY,
+                    'Content-Type': 'application/json',
+                    'Content-Length': Buffer.byteLength(requestData)
+                  },
+                  timeout: 20000
+                };
+            
+                const req = https.request(options, (res) => {
+                  let data = '';
+                  res.on('data', chunk => data += chunk);
+                  res.on('end', () => {
+                    if (res.statusCode === 429) {
+                      console.log(`Rate limit hit (429), próba ${attempt}`);
+                      reject(new Error('Rate limit'));
+                      return;
+                    }
+                    
+                    if (res.statusCode !== 200) {
+                      console.log(`API error ${res.statusCode}:`, data);
+                      reject(new Error(`HTTP ${res.statusCode}`));
+                      return;
+                    }
+                    
+                    resolve(data);
+                  });
+                });
+            
+                req.on('error', reject);
+                req.on('timeout', () => {
+                  req.destroy();
+                  reject(new Error('Timeout'));
+                });
+            
+                req.setTimeout(20000);
+                req.write(requestData);
+                req.end();
+              });
+              
+              return result; // Sukces - zwracamy wynik
+              
+            } catch (error) {
+              console.log(`Próba ${attempt} nieudana:`, error.message);
+              
+              if (attempt === maxRetries) {
+                console.log('Wszystkie próby wyczerpane, używam fallback');
+                return null; // Wszystkie próby nieudane
+              }
+              
+              // Czekaj przed kolejną próbą (exponential backoff)
+              const waitTime = Math.pow(2, attempt) * 2000; // 4s, 8s, 16s
+              console.log(`Czekam ${waitTime/1000}s przed kolejną próbą...`);
+              await delay(waitTime);
+            }
+          }
+        }
         function calculateSimilarity(text1, text2) {
           const words1 = text1.toLowerCase().split(/\s+/);
           const words2 = text2.toLowerCase().split(/\s+/);
@@ -417,7 +483,11 @@ jobs:
               lastUpdate: new Date().toISOString(),
               enhancedWithGroq: true,
               groqApiKeyExists: !!GROQ_API_KEY,
-              articles: articles
+              articles: articles.map(article => ({
+                ...article,
+                // Dodaj wersję z <br> dla HTML
+                descriptionHtml: article.description ? article.description.replace(/\\n/g, '<br>') : article.description
+              }))
             };
             
             fs.writeFileSync('news.json', JSON.stringify(data, null, 2));
