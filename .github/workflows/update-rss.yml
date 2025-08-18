@@ -1,0 +1,106 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '*/3 * * * *'  # Co 3 minuty
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # Umożliwia manualne uruchomienie
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Fetch and parse RSS
+      run: |
+        cat > fetch-rss.js << 'EOF'
+        const https = require('https');
+        const fs = require('fs');
+        
+        const RSS_URL = 'https://www.tvn24.pl/najnowsze.xml';
+        
+        function fetchRSS() {
+          return new Promise((resolve, reject) => {
+            https.get(RSS_URL, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => resolve(data));
+            }).on('error', reject);
+          });
+        }
+        
+        function parseRSS(xml) {
+          const items = [];
+          const itemRegex = /<item>(.*?)<\/item>/gs;
+          let match;
+          
+          while ((match = itemRegex.exec(xml)) !== null) {
+            const item = match[1];
+            
+            const title = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/)?.[1] || 
+                         item.match(/<title>(.*?)<\/title>/)?.[1] || '';
+            
+            const link = item.match(/<link>(.*?)<\/link>/)?.[1] || '';
+            
+            const pubDate = item.match(/<pubDate>(.*?)<\/pubDate>/)?.[1] || '';
+            
+            const description = item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/)?.[1] || 
+                               item.match(/<description>(.*?)<\/description>/)?.[1] || '';
+            
+            if (title && link) {
+              items.push({
+                title: title.trim(),
+                link: link.trim(),
+                pubDate: pubDate.trim(),
+                description: description.trim().replace(/<[^>]*>/g, '').substring(0, 200) + '...'
+              });
+            }
+          }
+          
+          return items.slice(0, 20); // Pierwszych 20 artykułów
+        }
+        
+        async function main() {
+          try {
+            console.log('Pobieranie RSS...');
+            const xml = await fetchRSS();
+            const articles = parseRSS(xml);
+            
+            const data = {
+              lastUpdate: new Date().toISOString(),
+              articles: articles
+            };
+            
+            fs.writeFileSync('news.json', JSON.stringify(data, null, 2));
+            console.log(`Pobrano ${articles.length} artykułów`);
+          } catch (error) {
+            console.error('Błąd:', error);
+            process.exit(1);
+          }
+        }
+        
+        main();
+        EOF
+        
+        node fetch-rss.js
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add news.json
+        if git diff --staged --quiet; then
+          echo "Brak zmian"
+        else
+          git commit -m "Aktualizacja RSS $(date)"
+          git push
+        fi
