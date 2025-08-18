@@ -51,22 +51,27 @@ jobs:
           while ((match = itemRegex.exec(xml)) !== null) {
             const item = match[1];
             
-            const title = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/)?.[1] || 
-                         item.match(/<title>(.*?)<\/title>/)?.[1] || '';
+            // Poprawiony regex dla CDATA i zwykłych tagów
+            const title = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/s)?.[1] || 
+                         item.match(/<title[^>]*>(.*?)<\/title>/s)?.[1] || '';
             
-            const link = item.match(/<link>(.*?)<\/link>/)?.[1] || '';
+            const link = item.match(/<link[^>]*>(.*?)<\/link>/s)?.[1] || '';
             
-            const pubDate = item.match(/<pubDate>(.*?)<\/pubDate>/)?.[1] || '';
+            const pubDate = item.match(/<pubDate[^>]*>(.*?)<\/pubDate>/s)?.[1] || '';
             
-            const description = item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/)?.[1] || 
-                               item.match(/<description>(.*?)<\/description>/)?.[1] || '';
+            const description = item.match(/<description[^>]*><!\[CDATA\[(.*?)\]\]><\/description>/s)?.[1] || 
+                               item.match(/<description[^>]*>(.*?)<\/description>/s)?.[1] || '';
             
             if (title && link) {
+              // Czyść opis z HTML i skróć
+              const cleanDesc = description.replace(/<[^>]*>/g, '').trim();
+              const shortDesc = cleanDesc.length > 200 ? cleanDesc.substring(0, 200) + '...' : cleanDesc;
+              
               items.push({
                 title: title.trim(),
                 link: link.trim(),
                 pubDate: pubDate.trim(),
-                description: description.trim().replace(/<[^>]*>/g, '').substring(0, 200) + '...'
+                description: shortDesc || 'Brak opisu'
               });
             }
           }
