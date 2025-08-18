@@ -79,23 +79,21 @@ jobs:
             
             paragraphs = descriptionLines
               .filter(line => line.trim() !== '')
-              .map(line => line.replace(/^[•\-\*]\s*/, '').trim()) // Usuń oryginalne punktory
-              .filter(line => line.length > 0)
-              .map(line => line.endsWith('.') ? line : line + '.'); // Dodaj kropkę jeśli brak
+              .map(line => line.replace(/^[•\-\*]\s*/, '').trim()) // Usuń punktory
+              .filter(line => line.length > 0);
           } else {
             // Jeśli nie ma oznaczonego tytułu, pierwszy punkt to tytuł
             if (lines.length > 0) {
               enhancedTitle = lines[0].replace(/^[•\-\*]\s*/, '').trim();
               paragraphs = lines.slice(1)
                 .map(line => line.replace(/^[•\-\*]\s*/, '').trim())
-                .filter(line => line.length > 0)
-                .map(line => line.endsWith('.') ? line : line + '.'); // Dodaj kropkę jeśli brak
+                .filter(line => line.length > 0);
             }
           }
           
-          // Konwertuj paragrafy na HTML z justowaniem i bulletpoints
+          // Konwertuj paragrafy na HTML
           const htmlDescription = paragraphs
-            .map(paragraph => `<p style="text-align: justify;">• ${paragraph}</p>`)
+            .map(paragraph => `<p>${paragraph}</p>`)
             .join('\n');
           
           return {
