@@ -1,4 +1,4 @@
-name: Update RSS Feed with Groq
+name: Update RSS Feed with Groq Enhanced
 
 on:
   schedule:
@@ -50,10 +50,64 @@ jobs:
           return intersection.size / union.size;
         }
         
-        // Ulepszona funkcja do wywołania Groq API
-        async function enhanceDescriptionWithGroq(title, originalDescription) {
-          const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową wszystkich informacji.\n\n" +
+        // Funkcja do parsowania odpowiedzi Groq i rozdzielania na tytuł + paragrafy
+        function parseGroqResponse(groqResponse) {
+          const lines = groqResponse.split('\n').filter(line => line.trim() !== '');
+          
+          let enhancedTitle = '';
+          let paragraphs = [];
+          
+          // Szukaj linii zaczynającej się od "TYTUŁ:" lub podobnie
+          const titleLineIndex = lines.findIndex(line => 
+            line.toLowerCase().includes('tytuł:') || 
+            line.toLowerCase().includes('nagłówek:') ||
+            line.toLowerCase().includes('title:')
+          );
+          
+          if (titleLineIndex !== -1) {
+            // Wyciągnij tytuł
+            enhancedTitle = lines[titleLineIndex]
+              .replace(/^.*?(tytuł|nagłówek|title):\s*/i, '')
+              .trim()
+              .replace(/^["']|["']$/g, ''); // Usuń cudzysłowy
+            
+            // Reszta linii to paragrafy
+            const descriptionLines = [
+              ...lines.slice(0, titleLineIndex),
+              ...lines.slice(titleLineIndex + 1)
+            ];
+            
+            paragraphs = descriptionLines
+              .filter(line => line.trim() !== '')
+              .map(line => line.replace(/^[•\-\*]\s*/, '').trim()) // Usuń punktory
+              .filter(line => line.length > 0);
+          } else {
+            // Jeśli nie ma oznaczonego tytułu, pierwszy punkt to tytuł
+            if (lines.length > 0) {
+              enhancedTitle = lines[0].replace(/^[•\-\*]\s*/, '').trim();
+              paragraphs = lines.slice(1)
+                .map(line => line.replace(/^[•\-\*]\s*/, '').trim())
+                .filter(line => line.length > 0);
+            }
+          }
+          
+          // Konwertuj paragrafy na HTML
+          const htmlDescription = paragraphs
+            .map(paragraph => `<p>${paragraph}</p>`)
+            .join('\n');
+          
+          return {
+            enhancedTitle: enhancedTitle || '',
+            htmlDescription: htmlDescription || ''
+          };
+        }
+        
+        // Ulepszona funkcja do wywołania Groq API - teraz dla tytułu + opisu razem
+        async function enhanceArticleWithGroq(title, originalDescription) {
+          const prompt = "ZADANIE: Przekształć ten artykuł (tytuł + opis) w ulepszony format.\n\n" +
             "WYMAGANIA:\n" +
+            "1. TYTUŁ: Napisz ulepszony, bardziej angażujący tytuł\n" +
+            "2. OPIS: Przekształć opis w listę punktową wszystkich informacji\n" +
             "- Wypunktuj WSZYSTKIE informacje z opisu\n" +
             "- Każdy punkt to osobna informacja/fakt\n" +
             "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\n" +
@@ -61,16 +115,22 @@ jobs:
             "- Format: • punkt 1 • punkt 2 • punkt 3\n" +
             "- Nie dodawaj własnych komentarzy\n" +
             "- Tylko faktyczne informacje z tekstu\n\n" +
-            "ARTYKUŁ:\n" +
-            "Tytuł: " + title + "\n" +
-            "Opis: " + originalDescription + "\n\n" +
-            "LISTA PUNKTOWA WSZYSTKICH INFORMACJI:";
+            "FORMAT ODPOWIEDZI:\n" +
+            "TYTUŁ: [ulepszony tytuł]\n" +
+            "• [pierwszy punkt opisu]\n" +
+            "• [drugi punkt opisu]\n" +
+            "• [trzeci punkt opisu]\n" +
+            "...\n\n" +
+            "ARTYKUŁ DO PRZETWORZENIA:\n" +
+            "Oryginalny tytuł: " + title + "\n" +
+            "Oryginalny opis: " + originalDescription + "\n\n" +
+            "ULEPSZONY FORMAT:";
         
           const requestData = JSON.stringify({
             messages: [
               {
                 role: "system",
-                content: "Jesteś ekspertem od strukturyzowania informacji. Zawsze przekształcasz tekst w przejrzystą listę punktową zachowując wszystkie szczegóły."
+                content: "Jesteś ekspertem od strukturyzowania i ulepszania treści newsowych. Zawsze przekształcasz artykuły w bardziej angażujący tytuł i przejrzystą listę punktową zachowując wszystkie szczegóły."
               },
               {
                 role: "user",
@@ -78,8 +138,8 @@ jobs:
               }
             ],
             model: "llama-3.3-70b-versatile",
-            temperature: 0.2,
-            max_tokens: 500,
+            temperature: 0.3,
+            max_tokens: 800,
             top_p: 0.9
           });
         
@@ -103,7 +163,10 @@ jobs:
                 try {
                   if (res.statusCode !== 200) {
                     console.log(`Groq API error ${res.statusCode}:`, data);
-                    resolve(originalDescription); // Fallback do oryginalnego
+                    resolve({
+                      enhancedTitle: title,
+                      htmlDescription: `<p>${originalDescription}</p>`
+                    });
                     return;
                   }
                   
@@ -113,31 +176,50 @@ jobs:
                   // Usuń ewentualne cudzysłowy na początku/końcu
                   enhancedText = enhancedText.replace(/^["']|["']$/g, '');
                   
-                  // Sprawdź czy tekst się różni od oryginału
-                  const similarity = calculateSimilarity(originalDescription, enhancedText);
+                  // Parsuj odpowiedź i rozdziel na tytuł + paragrafy HTML
+                  const parsed = parseGroqResponse(enhancedText);
+                  
+                  // Sprawdź czy tekst się różni od oryginału (porównaj tylko opis bez HTML)
+                  const plainDescription = parsed.htmlDescription.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+                  const similarity = calculateSimilarity(originalDescription, plainDescription);
+                  
                   if (similarity > 0.8) {
                     console.log(`Tekst zbyt podobny (${Math.round(similarity * 100)}%), pozostawiam oryginalny...`);
-                    resolve(originalDescription);
+                    resolve({
+                      enhancedTitle: title,
+                      htmlDescription: `<p>${originalDescription}</p>`
+                    });
                   } else {
-                    console.log(`Enhanced (${Math.round(similarity * 100)}% podobieństwo): ${enhancedText.substring(0, 50)}...`);
-                    resolve(enhancedText);
+                    console.log(`Enhanced (${Math.round(similarity * 100)}% podobieństwo):`);
+                    console.log(`- Nowy tytuł: ${parsed.enhancedTitle.substring(0, 50)}...`);
+                    console.log(`- Nowy opis: ${plainDescription.substring(0, 50)}...`);
+                    resolve(parsed);
                   }
                 } catch (error) {
                   console.log('JSON parse error:', error);
-                  resolve(originalDescription);
+                  resolve({
+                    enhancedTitle: title,
+                    htmlDescription: `<p>${originalDescription}</p>`
+                  });
                 }
               });
             });
         
             req.on('error', (error) => {
               console.log('Groq request error:', error);
-              resolve(originalDescription);
+              resolve({
+                enhancedTitle: title,
+                htmlDescription: `<p>${originalDescription}</p>`
+              });
             });
         
             req.on('timeout', () => {
               console.log('Groq request timeout');
               req.destroy();
-              resolve(originalDescription);
+              resolve({
+                enhancedTitle: title,
+                htmlDescription: `<p>${originalDescription}</p>`
+              });
             });
         
             req.setTimeout(15000);
@@ -277,43 +359,51 @@ jobs:
             const xml = await fetchRSS();
             const articles = parseRSS(xml);
             
-            console.log(`Pobrano ${articles.length} artykułów, ulepszanie opisów...`);
+            console.log(`Pobrano ${articles.length} artykułów, ulepszanie tytułów i opisów...`);
             
             // TEST: Sprawdź pierwszy artykuł przed przetwarzaniem
             if (articles.length > 0) {
               console.log('PRZED GROQ - Pierwszy artykuł:');
               console.log('Tytuł:', articles[0].title);
               console.log('Opis:', articles[0].description);
-              console.log('Długość opisu:', articles[0].description.length);
             }
             
-            // Ulepszanie opisów z Groq (sekwencyjnie z opóźnieniem)
+            // Ulepszanie artykułów z Groq (sekwencyjnie z opóźnieniem)
             for (let i = 0; i < articles.length; i++) {
               const article = articles[i];
               
               if (article.description && article.description !== 'Brak opisu') {
                 console.log(`\\n=== PRZETWARZANIE ${i + 1}/${articles.length} ===`);
-                console.log(`Tytuł: ${article.title.substring(0, 50)}...`);
+                console.log(`Oryginalny tytuł: ${article.title.substring(0, 50)}...`);
                 console.log(`Oryginalny opis: ${article.description.substring(0, 100)}...`);
                 
-                const enhancedDescription = await enhanceDescriptionWithGroq(
+                const enhanced = await enhanceArticleWithGroq(
                   article.title,
                   article.description
                 );
                 
-                console.log(`Nowy opis: ${enhancedDescription.substring(0, 100)}...`);
-                console.log(`Czy się zmienił: ${enhancedDescription !== article.description ? 'TAK' : 'NIE'}`);
+                console.log(`Nowy tytuł: ${enhanced.enhancedTitle.substring(0, 50)}...`);
+                console.log(`Nowy opis HTML: ${enhanced.htmlDescription.substring(0, 100)}...`);
                 
+                // Zachowaj oryginały
+                articles[i].originalTitle = article.title;
                 articles[i].originalDescription = article.description;
-                articles[i].description = enhancedDescription;
+                
+                // Zastąp ulepszonymi wersjami
+                articles[i].title = enhanced.enhancedTitle || article.title;
+                articles[i].description = enhanced.htmlDescription || `<p>${article.description}</p>`;
+                articles[i].enhancedWithGroq = true;
                 
                 // Opóźnienie między requestami (rate limiting)
                 if (i < articles.length - 1) {
                   console.log('Czekam 2 sekundy...');
-                  await delay(2000); // Zwiększone opóźnienie
+                  await delay(2000);
                 }
               } else {
                 console.log(`Pomijam artykuł ${i + 1} - brak opisu`);
+                // Dodaj podstawowe HTML dla brakującego opisu
+                articles[i].description = '<p>Brak opisu</p>';
+                articles[i].enhancedWithGroq = false;
               }
             }
             
@@ -321,11 +411,15 @@ jobs:
               lastUpdate: new Date().toISOString(),
               enhancedWithGroq: true,
               groqApiKeyExists: !!GROQ_API_KEY,
+              totalArticles: articles.length,
+              enhancedArticles: articles.filter(a => a.enhancedWithGroq).length,
               articles: articles
             };
             
             fs.writeFileSync('news.json', JSON.stringify(data, null, 2));
-            console.log(`\\nZAPISANO ${articles.length} artykułów z ulepszonymi opisami`);
+            console.log(`\\nZAPISANO ${articles.length} artykułów:`);
+            console.log(`- Ulepszonych: ${data.enhancedArticles}`);
+            console.log(`- Z HTML paragrafami: ${articles.filter(a => a.description.includes('<p>')).length}`);
             
           } catch (error) {
             console.error('BŁĄD W MAIN:', error);
@@ -356,6 +450,6 @@ jobs:
         if git diff --staged --quiet; then
           echo "Brak zmian"
         else
-          git commit -m "Aktualizacja RSS z Groq enhancement $(date)"
+          git commit -m "Aktualizacja RSS z Groq enhancement - tytuły + HTML paragrafy $(date)"
           git push
         fi
