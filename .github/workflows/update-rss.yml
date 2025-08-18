@@ -52,24 +52,25 @@ jobs:
         
         // Ulepszona funkcja do wywołania Groq API
         async function enhanceDescriptionWithGroq(title, originalDescription) {
-          const prompt = "ZADANIE: Przepisz całkowicie od nowa ten opis artykułu informacyjnego.\n\n" +
+          const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową wszystkich informacji.\n\n" +
             "WYMAGANIA:\n" +
-            "- Maksymalnie 100 znaków\n" +
-            "- Użyj innych słów niż w oryginale\n" +
-            "- Zachowaj główne fakty\n" +
-            "- Stwórz nagłówkowy styl (jak tytuł w gazecie)\n" +
-            "- Dodaj emocjonalny wydźwięk\n" +
-            "- BEZ cudzysłowów i bez 'napisał'\n\n" +
+            "- Wypunktuj WSZYSTKIE informacje z opisu\n" +
+            "- Każdy punkt to osobna informacja/fakt\n" +
+            "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\n" +
+            "- Nie skracaj ani nie pomijaj żadnych danych\n" +
+            "- Format: • punkt 1 • punkt 2 • punkt 3\n" +
+            "- Nie dodawaj własnych komentarzy\n" +
+            "- Tylko faktyczne informacje z tekstu\n\n" +
             "ARTYKUŁ:\n" +
             "Tytuł: " + title + "\n" +
             "Opis: " + originalDescription + "\n\n" +
-            "NOWY OPIS (maksymalnie 100 znaków):";
+            "LISTA PUNKTOWA WSZYSTKICH INFORMACJI:";
         
           const requestData = JSON.stringify({
             messages: [
               {
                 role: "system",
-                content: "Jesteś ekspertem od pisania chwytliwych nagłówków i opisów prasowych. Zawsze przepisujesz tekst całkowicie innymi słowami."
+                content: "Jesteś ekspertem od strukturyzowania informacji. Zawsze przekształcasz tekst w przejrzystą listę punktową zachowując wszystkie szczegóły."
               },
               {
                 role: "user",
@@ -77,8 +78,8 @@ jobs:
               }
             ],
             model: "llama-3.3-70b-versatile",
-            temperature: 0.8,
-            max_tokens: 100,
+            temperature: 0.2,
+            max_tokens: 500,
             top_p: 0.9
           });
         
