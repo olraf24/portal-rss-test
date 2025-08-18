@@ -52,21 +52,18 @@ jobs:
         
         // Ulepszona funkcja do wywołania Groq API
         async function enhanceDescriptionWithGroq(title, originalDescription) {
-          const prompt = `ZADANIE: Przepisz całkowicie od nowa ten opis artykułu informacyjnego.
-
-WYMAGANIA:
-- Maksymalnie 100 znaków
-- Użyj innych słów niż w oryginale
-- Zachowaj główne fakty
-- Stwórz nagłówkowy styl (jak tytuł w gazecie)
-- Dodaj emocjonalny wydźwięk
-- BEZ cudzysłowów i bez "napisał"
-
-ARTYKUŁ:
-Tytuł: ${title}
-Opis: ${originalDescription}
-
-NOWY OPIS (maksymalnie 100 znaków):`;
+          const prompt = "ZADANIE: Przepisz całkowicie od nowa ten opis artykułu informacyjnego.\n\n" +
+            "WYMAGANIA:\n" +
+            "- Maksymalnie 100 znaków\n" +
+            "- Użyj innych słów niż w oryginale\n" +
+            "- Zachowaj główne fakty\n" +
+            "- Stwórz nagłówkowy styl (jak tytuł w gazecie)\n" +
+            "- Dodaj emocjonalny wydźwięk\n" +
+            "- BEZ cudzysłowów i bez 'napisał'\n\n" +
+            "ARTYKUŁ:\n" +
+            "Tytuł: " + title + "\n" +
+            "Opis: " + originalDescription + "\n\n" +
+            "NOWY OPIS (maksymalnie 100 znaków):";
         
           const requestData = JSON.stringify({
             messages: [
