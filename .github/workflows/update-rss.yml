@@ -1,178 +1,515 @@
-// Zastąp obie funkcje enhanceTitleWithGroq i enhanceDescriptionWithGroq tą jedną:
+name: Update RSS Feed with Groq
 
-async function enhanceTitleAndDescriptionWithGroq(originalTitle, originalDescription) {
-  const prompt = `ZADANIE: Przepisz tytuł i opis artykułu informacyjnego.
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Co 30 minut (było 15)
+  push:
+    branches: [ main ]
+  workflow_dispatch:
 
-WYMAGANIA DLA TYTUŁU:
-- Usuń clickbaitowe elementy
-- Zachowaj wszystkie fakty
-- Napisz w stylu informacyjnym, nie sensacyjnym  
-- Bez cudzysłowów i wykrzykników
-- Maksymalnie 80 znaków
-- Precyzyjny i merytoryczny ton
+permissions:
+  contents: write
 
-WYMAGANIA DLA OPISU:
-- Przekształć w listę punktową
-- Wypunktuj WSZYSTKIE informacje z opisu
-- KAŻDY PUNKT W OSOBNEJ LINII
-- Zacznij każdy punkt od: •
-- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)
-- NIE DUPLIKUJ informacji z tytułu
-- Nie dodawaj własnych komentarzy
-
-ORYGINALNY TYTUŁ:
-${originalTitle}
-
-ORYGINALNY OPIS:
-${originalDescription}
-
-ODPOWIEDŹ W FORMACIE JSON:
-{
-  "title": "przepisany neutralny tytuł",
-  "description": "• Pierwszy punkt\\n• Drugi punkt\\n• Trzeci punkt"
-}
-
-WAŻNE: Odpowiedz TYLKO kodem JSON, bez żadnych innych tekstów!`;
-
-  const requestData = JSON.stringify({
-    messages: [
-      {
-        role: "system",
-        content: "Jesteś redaktorem prasowym specjalizującym się w pisaniu neutralnych, informacyjnych tytułów i strukturyzowaniu informacji w listy punktowe. Zawsze odpowiadasz tylko kodem JSON."
-      },
-      {
-        role: "user",
-        content: prompt
-      }
-    ],
-    model: "llama-3.3-70b-versatile",
-    temperature: 0.2,
-    max_tokens: 600,
-    top_p: 0.9
-  });
-
-  return new Promise((resolve, reject) => {
-    const options = {
-      hostname: 'api.groq.com',
-      path: '/openai/v1/chat/completions',
-      method: 'POST',
-      headers: {
-        'Authorization': 'Bearer ' + GROQ_API_KEY,
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(requestData)
-      },
-      timeout: 15000
-    };
-
-    const req = https.request(options, (res) => {
-      // DODAJ: Sprawdzenie rate limit headers
-      console.log('=== GROQ RATE LIMIT INFO ===');
-      console.log('Status:', res.statusCode);
-      console.log('TPM remaining:', res.headers['x-ratelimit-remaining-tokens']);
-      console.log('RPM remaining:', res.headers['x-ratelimit-remaining-requests']);
-      
-      if (res.statusCode === 429) {
-        const retryAfter = res.headers['retry-after'];
-        console.log('🚨 RATE LIMIT EXCEEDED! Retry after:', retryAfter, 'seconds');
-        resolve({
-          title: originalTitle,
-          description: originalDescription
-        });
-        return;
-      }
-
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          if (res.statusCode !== 200) {
-            console.log('Groq API error for combined processing:', res.statusCode);
-            resolve({
-              title: originalTitle,
-              description: originalDescription
-            });
-            return;
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Fetch RSS and enhance with Groq
+      env:
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      run: |
+        cat > fetch-rss-groq.js << 'EOF'
+        const https = require('https');
+        const fs = require('fs');
+        
+        const RSS_URL = 'https://www.tvn24.pl/najnowsze.xml';
+        const GROQ_API_KEY = process.env.GROQ_API_KEY;
+        
+        // Funkcja do sprawdzania podobieństwa tekstów
+        async function callGroqWithRetry(requestData, maxRetries = 3) {
+          for (let attempt = 1; attempt <= maxRetries; attempt++) {
+            try {
+              console.log(`Próba ${attempt}/${maxRetries} wywołania Groq API...`);
+              
+              const result = await new Promise((resolve, reject) => {
+                const options = {
+                  hostname: 'api.groq.com',
+                  path: '/openai/v1/chat/completions',
+                  method: 'POST',
+                  headers: {
+                    'Authorization': 'Bearer ' + GROQ_API_KEY,
+                    'Content-Type': 'application/json',
+                    'Content-Length': Buffer.byteLength(requestData)
+                  },
+                  timeout: 20000
+                };
+            
+                const req = https.request(options, (res) => {
+                  let data = '';
+                  res.on('data', chunk => data += chunk);
+                  res.on('end', () => {
+                    if (res.statusCode === 429) {
+                      console.log(`Rate limit hit (429), próba ${attempt}`);
+                      reject(new Error('Rate limit'));
+                      return;
+                    }
+                    
+                    if (res.statusCode !== 200) {
+                      console.log(`API error ${res.statusCode}:`, data);
+                      reject(new Error(`HTTP ${res.statusCode}`));
+                      return;
+                    }
+                    
+                    resolve(data);
+                  });
+                });
+            
+                req.on('error', reject);
+                req.on('timeout', () => {
+                  req.destroy();
+                  reject(new Error('Timeout'));
+                });
+            
+                req.setTimeout(20000);
+                req.write(requestData);
+                req.end();
+              });
+              
+              return result; // Sukces - zwracamy wynik
+              
+            } catch (error) {
+              console.log(`Próba ${attempt} nieudana:`, error.message);
+              
+              if (attempt === maxRetries) {
+                console.log('Wszystkie próby wyczerpane, używam fallback');
+                return null; // Wszystkie próby nieudane
+              }
+              
+              // Czekaj przed kolejną próbą (exponential backoff)
+              const waitTime = Math.pow(2, attempt) * 2000; // 4s, 8s, 16s
+              console.log(`Czekam ${waitTime/1000}s przed kolejną próbą...`);
+              await delay(waitTime);
+            }
           }
+        }
+        function calculateSimilarity(text1, text2) {
+          const words1 = text1.toLowerCase().split(/\s+/);
+          const words2 = text2.toLowerCase().split(/\s+/);
           
-          const response = JSON.parse(data);
-          let enhancedText = response.choices[0].message.content.trim();
+          const set1 = new Set(words1);
+          const set2 = new Set(words2);
           
-          // Usuń ewentualne markdown backticks
-          enhancedText = enhancedText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+          const intersection = new Set([...set1].filter(x => set2.has(x)));
+          const union = new Set([...set1, ...set2]);
           
-          // Parsuj JSON odpowiedź
-          const enhancedData = JSON.parse(enhancedText);
-          
-          console.log('Enhanced title:', enhancedData.title);
-          console.log('Enhanced description:', enhancedData.description.substring(0, 100) + '...');
-          
-          // Sprawdź czy się zmieniło
-          const titleChanged = enhancedData.title !== originalTitle;
-          const descChanged = enhancedData.description !== originalDescription;
-          
-          console.log(`Title changed: ${titleChanged ? 'YES' : 'NO'}`);
-          console.log(`Description changed: ${descChanged ? 'YES' : 'NO'}`);
-          
-          resolve({
-            title: enhancedData.title || originalTitle,
-            description: enhancedData.description || originalDescription
+          return intersection.size / union.size;
+        }
+        
+        // Funkcja do przekształcania tytułu przez Groq
+        async function enhanceTitleWithGroq(originalTitle) {
+          const prompt = "ZADANIE: Przepisz tytuł artykułu informacyjnego na bardziej neutralny i faktyczny.\n\n" +
+            "WYMAGANIA:\n" +
+            "- Usuń clickbaitowe elementy\n" +
+            "- Zachowaj wszystkie fakty\n" +
+            "- Napisz w stylu informacyjnym, nie sensacyjnym\n" +
+            "- Bez cudzysłowów i wykrzykników\n" +
+            "- Maksymalnie 80 znaków\n" +
+            "- Precyzyjny i merytoryczny ton\n\n" +
+            "ORYGINALNY TYTUŁ:\n" +
+            originalTitle + "\n\n" +
+            "PRZEPISANY TYTUŁ:";
+        
+          const requestData = JSON.stringify({
+            messages: [
+              {
+                role: "system",
+                content: "Jesteś redaktorem prasowym specjalizującym się w pisaniu neutralnych, informacyjnych tytułów bez clickbaitu."
+              },
+              {
+                role: "user",
+                content: prompt
+              }
+            ],
+            model: "llama-3.3-70b-versatile",
+            temperature: 0.3,
+            max_tokens: 100,
+            top_p: 0.9
           });
-          
-        } catch (error) {
-          console.log('Combined processing error:', error);
-          resolve({
-            title: originalTitle,
-            description: originalDescription
+        
+          return new Promise((resolve, reject) => {
+            const options = {
+              hostname: 'api.groq.com',
+              path: '/openai/v1/chat/completions',
+              method: 'POST',
+              headers: {
+                'Authorization': 'Bearer ' + GROQ_API_KEY,
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(requestData)
+              },
+              timeout: 15000
+            };
+        
+            const req = https.request(options, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => {
+                try {
+                  if (res.statusCode !== 200) {
+                    console.log('Groq API error for title:', res.statusCode);
+                    resolve(originalTitle);
+                    return;
+                  }
+                  
+                  const response = JSON.parse(data);
+                  let enhancedTitle = response.choices[0].message.content.trim();
+                  enhancedTitle = enhancedTitle.replace(/^["']|["']$/g, '');
+                  
+                  console.log('Enhanced title:', enhancedTitle);
+                  resolve(enhancedTitle);
+                  
+                } catch (error) {
+                  console.log('Title enhancement error:', error);
+                  resolve(originalTitle);
+                }
+              });
+            });
+        
+            req.on('error', () => resolve(originalTitle));
+            req.on('timeout', () => {
+              req.destroy();
+              resolve(originalTitle);
+            });
+        
+            req.setTimeout(15000);
+            req.write(requestData);
+            req.end();
           });
         }
-      });
-    });
-
-    req.on('error', () => resolve({
-      title: originalTitle,
-      description: originalDescription
-    }));
-    
-    req.on('timeout', () => {
-      req.destroy();
-      resolve({
-        title: originalTitle,
-        description: originalDescription
-      });
-    });
-
-    req.setTimeout(15000);
-    req.write(requestData);
-    req.end();
-  });
-}
-
-// ZMIEŃ główną pętlę w main():
-for (let i = 0; i < articles.length; i++) {
-  const article = articles[i];
-  
-  if (article.description && article.description !== 'Brak opisu') {
-    console.log(`\n=== PRZETWARZANIE ${i + 1}/${articles.length} ===`);
-    console.log(`Oryginalny tytuł: ${article.title}`);
-    console.log(`Oryginalny opis: ${article.description.substring(0, 100)}...`);
-    
-    // JEDEN REQUEST zamiast dwóch
-    const enhanced = await enhanceTitleAndDescriptionWithGroq(
-      article.title,
-      article.description
-    );
-    
-    articles[i].originalTitle = article.title;
-    articles[i].originalDescription = article.description;
-    articles[i].title = enhanced.title;
-    articles[i].description = enhanced.description;
-    
-    // Opóźnienie między artykułami (teraz tylko jedno!)
-    if (i < articles.length - 1) {
-      console.log('Czekam 3 sekundy...');
-      await delay(3000); // Można zmniejszyć bo mniej requestów
-    }
-  } else {
-    console.log(`Pomijam artykuł ${i + 1} - brak opisu`);
-  }
-}
+        
+        // Ulepszona funkcja do wywołania Groq API
+        async function enhanceDescriptionWithGroq(title, originalDescription) {
+          const prompt = "ZADANIE: Przekształć ten opis artykułu w listę punktową.\n\n" +
+            "WYMAGANIA:\n" +
+            "- Wypunktuj WSZYSTKIE informacje z opisu\n" +
+            "- KAŻDY PUNKT W OSOBNEJ LINII\n" +
+            "- Zacznij każdy punkt od: •\n" +
+            "- Zachowaj wszystkie szczegóły (liczby, miejsca, osoby)\n" +
+            "- NIE DUPLIKUJ informacji z tytułu\n" +
+            "- Nie dodawaj własnych komentarzy\n\n" +
+            "PRZYKŁAD FORMATU:\n" +
+            "• Pierwszy fakt\n" +
+            "• Drugi fakt\n" +
+            "• Trzeci fakt\n\n" +
+            "TYTUŁ (NIE DUPLIKUJ): " + title + "\n" +
+            "OPIS DO PRZEPISANIA: " + originalDescription + "\n\n" +
+            "LISTA PUNKTOWA (każdy punkt w nowej linii):";
+        
+          const requestData = JSON.stringify({
+            messages: [
+              {
+                role: "system",
+                content: "Jesteś ekspertem od strukturyzowania informacji. Zawsze przekształcasz tekst w przejrzystą listę punktową zachowując wszystkie szczegóły."
+              },
+              {
+                role: "user",
+                content: prompt
+              }
+            ],
+            model: "llama-3.3-70b-versatile",
+            temperature: 0.2,
+            max_tokens: 500,
+            top_p: 0.9
+          });
+        
+          return new Promise((resolve, reject) => {
+            const options = {
+              hostname: 'api.groq.com',
+              path: '/openai/v1/chat/completions',
+              method: 'POST',
+              headers: {
+                'Authorization': `Bearer ${GROQ_API_KEY}`,
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(requestData)
+              },
+              timeout: 15000
+            };
+        
+            const req = https.request(options, (res) => {
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => {
+                try {
+                  if (res.statusCode !== 200) {
+                    console.log(`Groq API error ${res.statusCode}:`, data);
+                    resolve(originalDescription); // Fallback do oryginalnego
+                    return;
+                  }
+                  
+                  const response = JSON.parse(data);
+                  let enhancedText = response.choices[0].message.content.trim();
+                  
+                  // Usuń ewentualne cudzysłowy na początku/końcu
+                  enhancedText = enhancedText.replace(/^["']|["']$/g, '');
+                  
+                  // Sprawdź czy tekst się różni od oryginału
+                  const similarity = calculateSimilarity(originalDescription, enhancedText);
+                  if (similarity > 0.8) {
+                    console.log(`Tekst zbyt podobny (${Math.round(similarity * 100)}%), pozostawiam oryginalny...`);
+                    resolve(originalDescription);
+                  } else {
+                    console.log(`Enhanced (${Math.round(similarity * 100)}% podobieństwo): ${enhancedText.substring(0, 50)}...`);
+                    resolve(enhancedText);
+                  }
+                } catch (error) {
+                  console.log('JSON parse error:', error);
+                  resolve(originalDescription);
+                }
+              });
+            });
+        
+            req.on('error', (error) => {
+              console.log('Groq request error:', error);
+              resolve(originalDescription);
+            });
+        
+            req.on('timeout', () => {
+              console.log('Groq request timeout');
+              req.destroy();
+              resolve(originalDescription);
+            });
+        
+            req.setTimeout(15000);
+            req.write(requestData);
+            req.end();
+          });
+        }
+        
+        // Funkcja opóźnienia (rate limiting)
+        function delay(ms) {
+          return new Promise(resolve => setTimeout(resolve, ms));
+        }
+        
+        // Istniejąca funkcja fetchRSS (bez zmian)
+        function fetchRSS() {
+          return new Promise((resolve, reject) => {
+            const options = {
+              hostname: 'tvn24.pl',
+              path: '/najnowsze.xml',
+              method: 'GET',
+              headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': 'application/rss+xml, application/xml, text/xml',
+                'Accept-Language': 'pl-PL,pl;q=0.9,en;q=0.8',
+                'Cache-Control': 'no-cache'
+              },
+              timeout: 10000
+            };
+            
+            const req = https.request(options, (res) => {
+              if (res.statusCode === 301 || res.statusCode === 302) {
+                const location = res.headers.location;
+                if (location) {
+                  const url = new URL(location);
+                  const newOptions = {
+                    hostname: url.hostname,
+                    path: url.pathname + url.search,
+                    method: 'GET',
+                    headers: options.headers,
+                    timeout: 10000
+                  };
+                  
+                  const redirectReq = https.request(newOptions, (redirectRes) => {
+                    if (redirectRes.statusCode !== 200) {
+                      reject(new Error(`HTTP ${redirectRes.statusCode}`));
+                      return;
+                    }
+                    
+                    let data = '';
+                    redirectRes.on('data', chunk => data += chunk);
+                    redirectRes.on('end', () => resolve(data));
+                  });
+                  
+                  redirectReq.on('error', reject);
+                  redirectReq.setTimeout(10000);
+                  redirectReq.end();
+                  return;
+                }
+              }
+              
+              if (res.statusCode !== 200) {
+                reject(new Error(`HTTP ${res.statusCode}`));
+                return;
+              }
+              
+              let data = '';
+              res.on('data', chunk => data += chunk);
+              res.on('end', () => resolve(data));
+            });
+            
+            req.on('error', reject);
+            req.on('timeout', () => {
+              req.destroy();
+              reject(new Error('Request timeout'));
+            });
+            
+            req.setTimeout(10000);
+            req.end();
+          });
+        }
+        
+        // Istniejąca funkcja parseRSS (bez zmian)
+        function parseRSS(xml) {
+          const items = [];
+          const itemParts = xml.split('<item>');
+          
+          for (let i = 1; i < itemParts.length; i++) {
+            const item = itemParts[i].split('</item>')[0];
+            
+            let title = '';
+            let link = '';
+            let pubDate = '';
+            let description = '';
+            
+            const titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/);
+            if (titleMatch) title = titleMatch[1];
+            
+            const linkMatch = item.match(/<link>(.*?)<\/link>/);
+            if (linkMatch) link = linkMatch[1];
+            
+            const dateMatch = item.match(/<pubDate>(.*?)<\/pubDate>/);
+            if (dateMatch) pubDate = dateMatch[1];
+            
+            const descMatch = item.match(/<description>\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*<\/description>/);
+            if (descMatch) {
+              let rawDesc = descMatch[1];
+              description = rawDesc.replace(/<[^>]*>/g, '').trim();
+              description = description.replace(/\s+/g, ' ').trim();
+            }
+            
+            if (title && link) {
+              items.push({
+                title: title.trim(),
+                link: link.trim(),
+                pubDate: pubDate.trim(),
+                description: description || 'Brak opisu'
+              });
+            }
+            
+            if (articles.length >= 8) break; // Zwiększamy z powrotem do 8 artykułów (mniej requestów)
+          }
+          
+          return items;
+        }
+        
+        async function main() {
+          try {
+            if (!GROQ_API_KEY) {
+              console.log('BŁĄD: GROQ_API_KEY nie jest ustawiony!');
+              throw new Error('GROQ_API_KEY nie jest ustawiony');
+            }
+            
+            console.log('GROQ_API_KEY jest ustawiony:', GROQ_API_KEY ? 'TAK' : 'NIE');
+            console.log('Długość klucza:', GROQ_API_KEY ? GROQ_API_KEY.length : 0);
+            
+            console.log('Pobieranie RSS...');
+            const xml = await fetchRSS();
+            const articles = parseRSS(xml);
+            
+            console.log(`Pobrano ${articles.length} artykułów, ulepszanie opisów...`);
+            
+            // TEST: Sprawdź pierwszy artykuł przed przetwarzaniem
+            if (articles.length > 0) {
+              console.log('PRZED GROQ - Pierwszy artykuł:');
+              console.log('Tytuł:', articles[0].title);
+              console.log('Opis:', articles[0].description);
+              console.log('Długość opisu:', articles[0].description.length);
+            }
+            
+            // Ulepszanie tytułów i opisów z Groq (JEDEN REQUEST na artykuł)
+            for (let i = 0; i < articles.length; i++) {
+              const article = articles[i];
+              
+              if (article.description && article.description !== 'Brak opisu') {
+                console.log(`\\n=== PRZETWARZANIE ${i + 1}/${articles.length} ===`);
+                console.log(`Oryginalny tytuł: ${article.title}`);
+                console.log(`Oryginalny opis: ${article.description.substring(0, 100)}...`);
+                
+                // JEDEN REQUEST dla tytułu i opisu jednocześnie
+                console.log('Przetwarzanie tytułu i opisu jednocześnie...');
+                const enhanced = await enhanceBothWithGroq(article.title, article.description);
+                
+                console.log(`Nowy tytuł: ${enhanced.title}`);
+                console.log(`Nowy opis: ${enhanced.description.substring(0, 100)}...`);
+                
+                articles[i].originalTitle = article.title;
+                articles[i].originalDescription = article.description;
+                articles[i].title = enhanced.title;
+                articles[i].description = enhanced.description;
+                
+                // Krótsze opóźnienie - tylko jeden request na artykuł
+                if (i < articles.length - 1) {
+                  console.log('Czekam 3 sekundy przed następnym artykułem...');
+                  await delay(3000);
+                }
+              } else {
+                console.log(`Pomijam artykuł ${i + 1} - brak opisu`);
+              }
+            }
+            
+            const data = {
+              lastUpdate: new Date().toISOString(),
+              enhancedWithGroq: true,
+              groqApiKeyExists: !!GROQ_API_KEY,
+              articles: articles.map(article => ({
+                ...article,
+                // Dodaj wersję z <br> dla HTML - napraw błąd z \n
+                descriptionHtml: article.description ? article.description.replace(/\\n/g, '<br>') : article.description
+              }))
+            };
+            
+            fs.writeFileSync('news.json', JSON.stringify(data, null, 2));
+            console.log(`\\nZAPISANO ${articles.length} artykułów z ulepszonymi opisami`);
+            
+          } catch (error) {
+            console.error('BŁĄD W MAIN:', error);
+            
+            // Zapisz przynajmniej podstawowe dane bez Groq
+            const fallbackData = {
+              lastUpdate: new Date().toISOString(),
+              enhancedWithGroq: false,
+              error: error.message,
+              articles: []
+            };
+            
+            fs.writeFileSync('news.json', JSON.stringify(fallbackData, null, 2));
+            process.exit(1);
+          }
+        }
+        
+        main();
+        EOF
+        
+        node fetch-rss-groq.js
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add news.json
+        if git diff --staged --quiet; then
+          echo "Brak zmian"
+        else
+          git commit -m "Aktualizacja RSS z Groq enhancement $(date)"
+          git push
+        fi
