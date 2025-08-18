@@ -35,11 +35,55 @@ jobs:
         
         function fetchRSS() {
           return new Promise((resolve, reject) => {
-            https.get(RSS_URL, (res) => {
+            const options = {
+              hostname: 'www.tvn24.pl',
+              path: '/najnowsze.xml',
+              method: 'GET',
+              headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                'Accept': 'application/rss+xml, application/xml, text/xml',
+                'Accept-Language': 'pl-PL,pl;q=0.9,en;q=0.8',
+                'Cache-Control': 'no-cache'
+              },
+              timeout: 10000
+            };
+            
+            console.log('Łączenie z:', `https://${options.hostname}${options.path}`);
+            
+            const req = https.request(options, (res) => {
+              console.log('Status odpowiedzi:', res.statusCode);
+              console.log('Nagłówki odpowiedzi:', res.headers);
+              
+              if (res.statusCode !== 200) {
+                reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
+                return;
+              }
+              
               let data = '';
-              res.on('data', chunk => data += chunk);
-              res.on('end', () => resolve(data));
-            }).on('error', reject);
+              res.on('data', chunk => {
+                data += chunk;
+                console.log('Otrzymano chunk, łączna długość:', data.length);
+              });
+              
+              res.on('end', () => {
+                console.log('Pobieranie zakończone, łączna długość:', data.length);
+                resolve(data);
+              });
+            });
+            
+            req.on('error', (error) => {
+              console.error('Błąd żądania:', error);
+              reject(error);
+            });
+            
+            req.on('timeout', () => {
+              console.error('Timeout żądania');
+              req.destroy();
+              reject(new Error('Request timeout'));
+            });
+            
+            req.setTimeout(10000);
+            req.end();
           });
         }
         
