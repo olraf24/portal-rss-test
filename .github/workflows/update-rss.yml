@@ -36,7 +36,7 @@ jobs:
         function fetchRSS() {
           return new Promise((resolve, reject) => {
             const options = {
-              hostname: 'www.tvn24.pl',
+              hostname: 'tvn24.pl',  // Bez www!
               path: '/najnowsze.xml',
               method: 'GET',
               headers: {
@@ -52,7 +52,49 @@ jobs:
             
             const req = https.request(options, (res) => {
               console.log('Status odpowiedzi:', res.statusCode);
-              console.log('Nagłówki odpowiedzi:', res.headers);
+              
+              // Obsługa przekierowań
+              if (res.statusCode === 301 || res.statusCode === 302) {
+                const location = res.headers.location;
+                console.log('Przekierowanie do:', location);
+                
+                if (location) {
+                  // Rekurencyjne wywołanie z nowym URL
+                  const url = new URL(location);
+                  const newOptions = {
+                    hostname: url.hostname,
+                    path: url.pathname + url.search,
+                    method: 'GET',
+                    headers: options.headers,
+                    timeout: 10000
+                  };
+                  
+                  const redirectReq = https.request(newOptions, (redirectRes) => {
+                    console.log('Status po przekierowaniu:', redirectRes.statusCode);
+                    
+                    if (redirectRes.statusCode !== 200) {
+                      reject(new Error(`HTTP ${redirectRes.statusCode}: ${redirectRes.statusMessage}`));
+                      return;
+                    }
+                    
+                    let data = '';
+                    redirectRes.on('data', chunk => {
+                      data += chunk;
+                      console.log('Otrzymano chunk, łączna długość:', data.length);
+                    });
+                    
+                    redirectRes.on('end', () => {
+                      console.log('Pobieranie zakończone, łączna długość:', data.length);
+                      resolve(data);
+                    });
+                  });
+                  
+                  redirectReq.on('error', reject);
+                  redirectReq.setTimeout(10000);
+                  redirectReq.end();
+                  return;
+                }
+              }
               
               if (res.statusCode !== 200) {
                 reject(new Error(`HTTP ${res.statusCode}: ${res.statusMessage}`));
