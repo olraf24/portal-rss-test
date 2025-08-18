@@ -160,17 +160,17 @@ jobs:
             const dateMatch = item.match(/<pubDate>(.*?)<\/pubDate>/);
             if (dateMatch) pubDate = dateMatch[1];
             
-            // Opis
-            const descMatch = item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/);
+            // Opis - nowy regex obsługujący wieloliniowy format
+            const descMatch = item.match(/<description>\s*<!\[CDATA\[([\s\S]*?)\]\]>\s*<\/description>/);
             if (descMatch) {
               let rawDesc = descMatch[1];
               console.log('Surowy opis (pierwsze 200 znaków):', rawDesc.substring(0, 200));
               
-              // Usuń tagi HTML
+              // Usuń tagi HTML (łącznie z img)
               description = rawDesc.replace(/<[^>]*>/g, '').trim();
               
-              // Usuń nadmierne białe znaki
-              description = description.replace(/\s+/g, ' ');
+              // Usuń nadmierne białe znaki i nowe linie
+              description = description.replace(/\s+/g, ' ').trim();
               
               console.log('Czysty opis:', description.substring(0, 100));
             }
