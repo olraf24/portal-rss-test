@@ -19,7 +19,7 @@
         }
         
         .container {
-            max-width: 800px;
+            max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
         }
@@ -42,6 +42,51 @@
         .last-update {
             color: #7f8c8d;
             font-size: 0.9rem;
+        }
+        
+        /* Zakładki */
+        .tabs {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            overflow: hidden;
+        }
+        
+        .tab-buttons {
+            display: flex;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .tab-button {
+            flex: 1;
+            background: none;
+            border: none;
+            padding: 15px 20px;
+            cursor: pointer;
+            font-size: 1rem;
+            color: #7f8c8d;
+            transition: all 0.3s;
+            border-bottom: 3px solid transparent;
+        }
+        
+        .tab-button:hover {
+            background: #f8f9fa;
+        }
+        
+        .tab-button.active {
+            color: #2c3e50;
+            border-bottom-color: #3498db;
+            background: #f8f9fa;
+        }
+        
+        .tab-content {
+            display: none;
+            padding: 20px;
+        }
+        
+        .tab-content.active {
+            display: block;
         }
         
         .loading {
@@ -90,7 +135,44 @@
             font-size: 0.95rem;
         }
         
-        @media (max-width: 600px) {
+        /* Vis dnia */
+        .vis-dnia {
+            text-align: center;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .vis-dnia h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+        
+        .vis-dnia img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            margin-bottom: 15px;
+        }
+        
+        .vis-date {
+            color: #7f8c8d;
+            font-size: 0.9rem;
+        }
+        
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border-left: 4px solid #c33;
+        }
+        
+        @media (max-width: 768px) {
             .container {
                 padding: 10px;
             }
@@ -99,8 +181,23 @@
                 font-size: 1.5rem;
             }
             
+            .tab-buttons {
+                flex-wrap: wrap;
+            }
+            
+            .tab-button {
+                flex: 1 1 50%;
+                min-width: 120px;
+            }
+            
             .article {
                 padding: 15px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .tab-button {
+                flex: 1 1 100%;
             }
         }
     </style>
@@ -112,24 +209,95 @@
             <div class="last-update" id="lastUpdate">Ładowanie...</div>
         </header>
         
-        <div id="articles" class="loading">
-            Pobieranie najnowszych wiadomości...
+        <div class="tabs">
+            <div class="tab-buttons">
+                <button class="tab-button active" onclick="switchTab('news')">Wiadomości</button>
+                <button class="tab-button" onclick="switchTab('security')">Bezpieczeństwo</button>
+                <button class="tab-button" onclick="switchTab('science')">Nauka</button>
+                <button class="tab-button" onclick="switchTab('vis')">Vis Dnia</button>
+            </div>
+            
+            <div id="news" class="tab-content active">
+                <div id="news-articles" class="loading">
+                    Pobieranie najnowszych wiadomości...
+                </div>
+            </div>
+            
+            <div id="security" class="tab-content">
+                <div id="security-articles" class="loading">
+                    Pobieranie wiadomości o bezpieczeństwie...
+                </div>
+            </div>
+            
+            <div id="science" class="tab-content">
+                <div id="science-articles" class="loading">
+                    Pobieranie wiadomości naukowych...
+                </div>
+            </div>
+            
+            <div id="vis" class="tab-content">
+                <div id="vis-content" class="vis-dnia">
+                    <h2>Obraz Dnia</h2>
+                    <div id="vis-image">Ładowanie obrazu dnia...</div>
+                </div>
+            </div>
         </div>
     </div>
 
     <script>
+        let currentTab = 'news';
+        
+        function switchTab(tabName) {
+            // Ukryj wszystkie zakładki
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Usuń aktywny stan z przycisków
+            document.querySelectorAll('.tab-button').forEach(button => {
+                button.classList.remove('active');
+            });
+            
+            // Pokaż wybraną zakładkę
+            document.getElementById(tabName).classList.add('active');
+            
+            // Aktywuj przycisk
+            event.target.classList.add('active');
+            
+            currentTab = tabName;
+            
+            // Załaduj dane dla zakładki jeśli nie były jeszcze ładowane
+            loadTabData(tabName);
+        }
+        
+        function loadTabData(tabName) {
+            switch(tabName) {
+                case 'news':
+                    loadNews();
+                    break;
+                case 'security':
+                    loadSecurity();
+                    break;
+                case 'science':
+                    loadScience();
+                    break;
+                case 'vis':
+                    loadVisDnia();
+                    break;
+            }
+        }
+        
         async function loadNews() {
             try {
                 const response = await fetch('news.json?t=' + Date.now());
                 const data = await response.json();
                 
-                document.getElementById('lastUpdate').textContent = 
-                    'Ostatnia aktualizacja: ' + new Date(data.lastUpdate).toLocaleString('pl-PL');
+                updateLastUpdate(data.lastUpdate);
                 
-                const articlesContainer = document.getElementById('articles');
+                const container = document.getElementById('news-articles');
                 
                 if (data.articles && data.articles.length > 0) {
-                    articlesContainer.innerHTML = data.articles.map(article => `
+                    container.innerHTML = data.articles.map(article => `
                         <article class="article">
                             <a href="${article.link}" target="_blank" rel="noopener">
                                 <h2>${article.title}</h2>
@@ -141,20 +309,107 @@
                         </article>
                     `).join('');
                 } else {
-                    articlesContainer.innerHTML = '<div class="loading">Brak dostępnych artykułów</div>';
+                    container.innerHTML = '<div class="loading">Brak dostępnych artykułów</div>';
                 }
             } catch (error) {
-                console.error('Błąd ładowania:', error);
-                document.getElementById('articles').innerHTML = 
-                    '<div class="loading">Błąd ładowania wiadomości</div>';
+                console.error('Błąd ładowania wiadomości:', error);
+                document.getElementById('news-articles').innerHTML = 
+                    '<div class="error">Błąd ładowania wiadomości</div>';
             }
         }
         
-        // Ładuj wiadomości przy starcie
-        loadNews();
+        async function loadSecurity() {
+            try {
+                const response = await fetch('security.json?t=' + Date.now());
+                const data = await response.json();
+                
+                const container = document.getElementById('security-articles');
+                
+                if (data.articles && data.articles.length > 0) {
+                    container.innerHTML = data.articles.map(article => `
+                        <article class="article">
+                            <a href="${article.link}" target="_blank" rel="noopener">
+                                <h2>${article.title}</h2>
+                            </a>
+                            <div class="article-meta">
+                                ${new Date(article.pubDate).toLocaleString('pl-PL')}
+                            </div>
+                            <p>${article.description}</p>
+                        </article>
+                    `).join('');
+                } else {
+                    container.innerHTML = '<div class="loading">Brak dostępnych artykułów</div>';
+                }
+            } catch (error) {
+                console.error('Błąd ładowania bezpieczeństwa:', error);
+                document.getElementById('security-articles').innerHTML = 
+                    '<div class="error">Błąd ładowania artykułów o bezpieczeństwie</div>';
+            }
+        }
         
-        // Odświeżaj co 30 sekund
-        setInterval(loadNews, 30000);
+        async function loadScience() {
+            try {
+                const response = await fetch('science.json?t=' + Date.now());
+                const data = await response.json();
+                
+                const container = document.getElementById('science-articles');
+                
+                if (data.articles && data.articles.length > 0) {
+                    container.innerHTML = data.articles.map(article => `
+                        <article class="article">
+                            <a href="${article.link}" target="_blank" rel="noopener">
+                                <h2>${article.title}</h2>
+                            </a>
+                            <div class="article-meta">
+                                ${new Date(article.pubDate).toLocaleString('pl-PL')}
+                            </div>
+                            <p>${article.description}</p>
+                        </article>
+                    `).join('');
+                } else {
+                    container.innerHTML = '<div class="loading">Brak dostępnych artykułów</div>';
+                }
+            } catch (error) {
+                console.error('Błąd ładowania nauki:', error);
+                document.getElementById('science-articles').innerHTML = 
+                    '<div class="error">Błąd ładowania artykułów naukowych</div>';
+            }
+        }
+        
+        function loadVisDnia() {
+            const today = new Date();
+            const dayOfMonth = today.getDate();
+            const dateStr = today.toLocaleDateString('pl-PL');
+            
+            const container = document.getElementById('vis-image');
+            const imgPath = `img/${dayOfMonth}.jpg`;
+            
+            container.innerHTML = `
+                <img src="${imgPath}" 
+                     alt="Obraz dnia ${dayOfMonth}" 
+                     onerror="this.parentElement.innerHTML='<div class=\\"error\\">Brak obrazu na dzień ${dayOfMonth}</div>'"
+                     onload="this.style.opacity=1"
+                     style="opacity:0; transition: opacity 0.3s;">
+                <div class="vis-date">Dzień ${dayOfMonth} • ${dateStr}</div>
+            `;
+        }
+        
+        function updateLastUpdate(timestamp) {
+            if (currentTab === 'news') {
+                document.getElementById('lastUpdate').textContent = 
+                    'Ostatnia aktualizacja: ' + new Date(timestamp).toLocaleString('pl-PL');
+            }
+        }
+        
+        // Ładuj dane przy starcie
+        loadTabData('news');
+        
+        // Odświeżaj aktywną zakładkę co 30 sekund
+        setInterval(() => {
+            if (currentTab !== 'vis') { // Vis dnia nie wymaga odświeżania
+                loadTabData(currentTab);
+            }
+        }, 30000);
     </script>
 </body>
 </html>
