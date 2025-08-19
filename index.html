@@ -158,6 +158,17 @@
             margin-bottom: 15px;
         }
         
+        .vis-description {
+            color: #555;
+            font-size: 1rem;
+            margin-top: 15px;
+            text-align: left;
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 4px solid #3498db;
+        }
+        
         .vis-date {
             color: #7f8c8d;
             font-size: 0.9rem;
@@ -376,22 +387,41 @@
             }
         }
         
-        function loadVisDnia() {
-            const today = new Date();
-            const dayOfMonth = today.getDate();
-            const dateStr = today.toLocaleDateString('pl-PL');
-            
-            const container = document.getElementById('vis-image');
-            const imgPath = `img/${dayOfMonth}.jpg`;
-            
-            container.innerHTML = `
-                <img src="${imgPath}" 
-                     alt="Obraz dnia ${dayOfMonth}" 
-                     onerror="this.parentElement.innerHTML='<div class=\\"error\\">Brak obrazu na dzień ${dayOfMonth}</div>'"
-                     onload="this.style.opacity=1"
-                     style="opacity:0; transition: opacity 0.3s;">
-                <div class="vis-date">Dzień ${dayOfMonth} • ${dateStr}</div>
-            `;
+        async function loadVisDnia() {
+            try {
+                // Pobierz dane o obrazach z pliku JSON
+                const response = await fetch('vis-images.json?t=' + Date.now());
+                const visData = await response.json();
+                
+                const today = new Date();
+                const dayOfMonth = today.getDate();
+                const dateStr = today.toLocaleDateString('pl-PL');
+                
+                const container = document.getElementById('vis-image');
+                
+                // Znajdź dane dla aktualnego dnia
+                const dayData = visData.days.find(day => day.day === dayOfMonth);
+                
+                if (dayData) {
+                    const imgPath = `img/${dayData.filename}`;
+                    
+                    container.innerHTML = `
+                        <img src="${imgPath}" 
+                             alt="Obraz dnia" 
+                             onerror="this.parentElement.innerHTML='<div class=\\"error\\">Brak obrazu na dzisiaj</div>'"
+                             onload="this.style.opacity=1"
+                             style="opacity:0; transition: opacity 0.3s;">
+                        <div class="vis-description">${dayData.description}</div>
+                    `;
+                } else {
+                    container.innerHTML = '<div class="error">Brak danych dla dzisiejszego dnia</div>';
+                }
+                
+            } catch (error) {
+                console.error('Błąd ładowania vis dnia:', error);
+                document.getElementById('vis-image').innerHTML = 
+                    '<div class="error">Błąd ładowania obrazu dnia</div>';
+            }
         }
         
         function updateLastUpdate(timestamp) {
