@@ -408,7 +408,7 @@
                     container.innerHTML = `
                         <img src="${imgPath}" 
                              alt="Obraz dnia" 
-                             onerror="this.parentElement.innerHTML='<div class=\\"error\\">Brak obrazu na dzisiaj</div>'"
+                             onerror="this.parentElement.innerHTML='<div class=&quot;error&quot;>Brak obrazu na dzisiaj</div>'"
                              onload="this.style.opacity=1"
                              style="opacity:0; transition: opacity 0.3s;">
                         <div class="vis-description">${dayData.description}</div>
