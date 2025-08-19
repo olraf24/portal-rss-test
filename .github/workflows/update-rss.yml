@@ -2,7 +2,7 @@ name: Update RSS Feed with Groq
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Co 10 minut (żeby nie przekroczyć limitów API)
+    - cron: '*/30 * * * *'  # Co 10 minut (żeby nie przekroczyć limitów API)
   push:
     branches: [ main ]
   workflow_dispatch:
