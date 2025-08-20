@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zen-info.pl</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --bg-light: #ffffff;
+            --text-light: #000000;
+            --accent-light: #f8f9fa;
+            --border-light: #e9ecef;
+            --secondary-light: #6c757d;
+            
+            --bg-dark: #000000;
+            --text-dark: #ffffff;
+            --accent-dark: #111111;
+            --border-dark: #333333;
+            --secondary-dark: #999999;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif;
+            background: var(--bg-light);
+            color: var(--text-light);
+            line-height: 1.7;
+            transition: all 0.3s ease;
+            font-size: 16px;
+        }
+        
+        body.dark {
+            background: var(--bg-dark);
+            color: var(--text-dark);
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+        
+        /* Header */
+        header {
+            border-bottom: 1px solid var(--border-light);
+            padding: 48px 0;
+            margin-bottom: 0;
+        }
+        
+        body.dark header {
+            border-color: var(--border-dark);
+        }
+        
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin: 0;
+        }
+        
+        .subtitle {
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            font-size: 0.875rem;
+            color: var(--secondary-light);
+            margin-top: 8px;
+            font-weight: 400;
+        }
+        
+        body.dark .subtitle {
+            color: var(--secondary-dark);
+        }
+        
+        .theme-toggle {
+            background: none;
+            border: 1px solid var(--border-light);
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+            color: var(--text-light);
+        }
+        
+        body.dark .theme-toggle {
+            border-color: var(--border-dark);
+            color: var(--text-dark);
+        }
+        
+        .theme-toggle:hover {
+            background: var(--accent-light);
+        }
+        
+        body.dark .theme-toggle:hover {
+            background: var(--accent-dark);
+        }
+        
+        /* Navigation */
+        nav {
+            border-bottom: 1px solid var(--border-light);
+            position: sticky;
+            top: 0;
+            background: var(--bg-light);
+            z-index: 100;
+            backdrop-filter: blur(10px);
+        }
+        
+        body.dark nav {
+            border-color: var(--border-dark);
+            background: var(--bg-dark);
+        }
+        
+        .nav-content {
+            padding: 24px 0;
+            overflow-x: auto;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        
+        .nav-content::-webkit-scrollbar {
+            display: none;
+        }
+        
+        .nav-tabs {
+            display: flex;
+            gap: 32px;
+            min-width: max-content;
+        }
+        
+        .nav-tab {
+            background: none;
+            border: none;
+            color: var(--secondary-light);
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            font-size: 0.875rem;
+            cursor: pointer;
+            padding: 0;
+            position: relative;
+            transition: color 0.2s ease;
+            white-space: nowrap;
+        }
+        
+        body.dark .nav-tab {
+            color: var(--secondary-dark);
+        }
+        
+        .nav-tab:hover,
+        .nav-tab.active {
+            color: var(--text-light);
+        }
+        
+        body.dark .nav-tab:hover,
+        body.dark .nav-tab.active {
+            color: var(--text-dark);
+        }
+        
+        .nav-tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: -24px;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: var(--text-light);
+        }
+        
+        body.dark .nav-tab.active::after {
+            background: var(--text-dark);
+        }
+        
+        /* Main Content */
+        main {
+            padding: 48px 0;
+            min-height: 60vh;
+        }
+        
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.3s ease;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* Loading State */
+        .loading {
+            text-align: center;
+            padding: 80px 0;
+            color: var(--secondary-light);
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            font-size: 0.875rem;
+        }
+        
+        body.dark .loading {
+            color: var(--secondary-dark);
+        }
+        
+        /* Article Cards */
+        .article {
+            padding: 40px 0;
+            border-bottom: 1px solid var(--border-light);
+            transition: opacity 0.2s ease;
+        }
+        
+        body.dark .article {
+            border-color: var(--border-dark);
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+        }
+        
+        .article:hover {
+            opacity: 0.8;
+        }
+        
+        .article-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            font-size: 0.75rem;
+            color: var(--secondary-light);
+        }
+        
+        body.dark .article-meta {
+            color: var(--secondary-dark);
+        }
+        
+        .article-category {
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        
+        .article-source {
+            opacity: 0.7;
+        }
+        
+        .article h2 {
+            font-size: 1.5rem;
+            font-weight: 500;
+            line-height: 1.4;
+            margin-bottom: 16px;
+            letter-spacing: -0.01em;
+        }
+        
+        .article a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        
+        .article p {
+            color: var(--secondary-light);
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+        
+        body.dark .article p {
+            color: var(--secondary-dark);
+        }
+        
+        .article-date {
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            font-size: 0.75rem;
+            color: var(--secondary-light);
+            opacity: 0.7;
+        }
+        
+        body.dark .article-date {
+            color: var(--secondary-dark);
+        }
+        
+        /* Vis Dnia */
+        .vis-dnia {
+            text-align: center;
+        }
+        
+        .vis-dnia h2 {
+            font-size: 1.75rem;
+            font-weight: 400;
+            margin-bottom: 32px;
+            letter-spacing: -0.01em;
+        }
+        
+        .vis-image {
+            margin-bottom: 32px;
+        }
+        
+        .vis-image img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid var(--border-light);
+            transition: opacity 0.3s ease;
+        }
+        
+        body.dark .vis-image img {
+            border-color: var(--border-dark);
+        }
+        
+        .vis-description {
+            background: var(--accent-light);
+            padding: 32px;
+            border: 1px solid var(--border-light);
+            text-align: left;
+            font-size: 0.9375rem;
+            line-height: 1.7;
+            margin-top: 32px;
+        }
+        
+        body.dark .vis-description {
+            background: var(--accent-dark);
+            border-color: var(--border-dark);
+        }
+        
+        /* Footer */
+        footer {
+            border-top: 1px solid var(--border-light);
+            padding: 48px 0;
+            text-align: center;
+        }
+        
+        body.dark footer {
+            border-color: var(--border-dark);
+        }
+        
+        footer p {
+            font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+            font-size: 0.75rem;
+            color: var(--secondary-light);
+            opacity: 0.7;
+        }
+        
+        body.dark footer p {
+            color: var(--secondary-dark);
+        }
+        
+        /* Error State */
+        .error {
+            background: #fef2f2;
+            border: 1px solid #fecaca;
+            color: #dc2626;
+            padding: 24px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+            font-size: 0.875rem;
+        }
+        
+        body.dark .error {
+            background: #1f1f1f;
+            border-color: #333;
+            color: #ff6b6b;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 16px;
+            }
+            
+            header {
+                padding: 32px 0;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .header-content {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 16px;
+            }
+            
+            .nav-content {
+                padding: 16px 0;
+            }
+            
+            .nav-tabs {
+                gap: 24px;
+            }
+            
+            main {
+                padding: 32px 0;
+            }
+            
+            .article {
+                padding: 32px 0;
+            }
+            
+            .article h2 {
+                font-size: 1.25rem;
+            }
+        }
+        
+        /* Selection */
+        ::selection {
+            background: var(--text-light);
+            color: var(--bg-light);
+        }
+        
+        body.dark ::selection {
+            background: var(--text-dark);
+            color: var(--bg-dark);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div>
+                    <h1>zen-info.pl</h1>
+                    <div class="subtitle" id="lastUpdate">ładowanie...</div>
+                </div>
+                <button class="theme-toggle" onclick="toggleTheme()" title="przełącz motyw">
+                    <svg id="theme-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                </button>
+            </div>
+        </header>
+        
+        <nav>
+            <div class="nav-content">
+                <div class="nav-tabs">
+                    <button class="nav-tab active" onclick="switchTab('news')">wiadomości</button>
+                    <button class="nav-tab" onclick="switchTab('security')">bezpieczeństwo</button>
+                    <button class="nav-tab" onclick="switchTab('science')">nauka</button>
+                    <button class="nav-tab" onclick="switchTab('vis')">vis dnia</button>
+                </div>
+            </div>
+        </nav>
+        
+        <main>
+            <div id="news" class="tab-content active">
+                <div id="news-articles" class="loading">
+                    pobieranie najnowszych wiadomości...
+                </div>
+            </div>
+            
+            <div id="security" class="tab-content">
+                <div id="security-articles" class="loading">
+                    pobieranie wiadomości o bezpieczeństwie...
+                </div>
+            </div>
+            
+            <div id="science" class="tab-content">
+                <div id="science-articles" class="loading">
+                    pobieranie wiadomości naukowych...
+                </div>
+            </div>
+            
+            <div id="vis" class="tab-content">
+                <div class="vis-dnia">
+                    <h2>vis dnia</h2>
+                    <div id="vis-image">ładowanie obrazu dnia...</div>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>automatycznie agregowane • interia, tvn24, defence24, dzienniknaukowy</p>
+        </footer>
+    </div>
+
+    <script>
+        let currentTab = 'news';
+        let darkMode = false;
+        
+        // Initialize theme
+        function initTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            
+            darkMode = savedTheme === 'dark' || (!savedTheme && prefersDark);
+            updateTheme();
+        }
+        
+        function toggleTheme() {
+            darkMode = !darkMode;
+            updateTheme();
+            localStorage.setItem('theme', darkMode ? 'dark' : 'light');
+        }
+        
+        function updateTheme() {
+            document.body.classList.toggle('dark', darkMode);
+            const icon = document.getElementById('theme-icon');
+            
+            if (darkMode) {
+                // Sun icon for dark mode
+                icon.innerHTML = '<circle cx="12" cy="12" r="5"></circle><path d="M12 1v2m0 18v2M4.22 4.22l1.42 1.42m12.72 12.72l1.42 1.42M1 12h2m18 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"></path>';
+            } else {
+                // Moon icon for light mode
+                icon.innerHTML = '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>';
+            }
+        }
+        
+        function switchTab(tabName) {
+            // Hide all tabs
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Remove active state from nav tabs
+            document.querySelectorAll('.nav-tab').forEach(button => {
+                button.classList.remove('active');
+            });
+            
+            // Show selected tab
+            document.getElementById(tabName).classList.add('active');
+            
+            // Activate nav button
+            event.target.classList.add('active');
+            
+            currentTab = tabName;
+            loadTabData(tabName);
+        }
+        
+        function loadTabData(tabName) {
+            switch(tabName) {
+                case 'news':
+                    loadNews();
+                    break;
+                case 'security':
+                    loadSecurity();
+                    break;
+                case 'science':
+                    loadScience();
+                    break;
+                case 'vis':
+                    loadVisDnia();
+                    break;
+            }
+        }
+        
+        async function loadNews() {
+            try {
+                const response = await fetch('news.json?t=' + Date.now());
+                const data = await response.json();
+                
+                updateLastUpdate(data.lastUpdate);
+                
+                const container = document.getElementById('news-articles');
+                
+                if (data.articles && data.articles.length > 0) {
+                    container.innerHTML = data.articles.map(article => `
+                        <article class="article">
+                            <a href="${article.link}" target="_blank" rel="noopener">
+                                <div class="article-meta">
+                                    <span class="article-category">wiadomości</span>
+                                    <span class="article-source">${getSourceName(article.source || 'TVN24')}</span>
+                                </div>
+                                <h2>${article.title}</h2>
+                                <p>${article.description}</p>
+                                <div class="article-date">
+                                    ${formatDate(article.pubDate)}
+                                </div>
+                            </a>
+                        </article>
+                    `).join('');
+                } else {
+                    container.innerHTML = '<div class="loading">brak dostępnych artykułów</div>';
+                }
+            } catch (error) {
+                console.error('Błąd ładowania wiadomości:', error);
+                document.getElementById('news-articles').innerHTML = 
+                    '<div class="error">nie udało się załadować wiadomości</div>';
+            }
+        }
+        
+        async function loadSecurity() {
+            try {
+                const response = await fetch('security.json?t=' + Date.now());
+                const data = await response.json();
+                
+                const container = document.getElementById('security-articles');
+                
+                if (data.articles && data.articles.length > 0) {
+                    container.innerHTML = data.articles.map(article => `
+                        <article class="article">
+                            <a href="${article.link}" target="_blank" rel="noopener">
+                                <div class="article-meta">
+                                    <span class="article-category">bezpieczeństwo</span>
+                                    <span class="article-source">${getSourceName(data.source)}</span>
+                                </div>
+                                <h2>${article.title}</h2>
+                                <p>${article.description}</p>
+                                <div class="article-date">
+                                    ${formatDate(article.pubDate)}
+                                </div>
+                            </a>
+                        </article>
+                    `).join('');
+                } else {
+                    container.innerHTML = '<div class="loading">brak dostępnych artykułów</div>';
+                }
+            } catch (error) {
+                console.error('Błąd ładowania bezpieczeństwa:', error);
+                document.getElementById('security-articles').innerHTML = 
+                    '<div class="error">nie udało się załadować artykułów o bezpieczeństwie</div>';
+            }
+        }
+        
+        async function loadScience() {
+            try {
+                const response = await fetch('science.json?t=' + Date.now());
+                const data = await response.json();
+                
+                const container = document.getElementById('science-articles');
+                
+                if (data.articles && data.articles.length > 0) {
+                    container.innerHTML = data.articles.map(article => `
+                        <article class="article">
+                            <a href="${article.link}" target="_blank" rel="noopener">
+                                <div class="article-meta">
+                                    <span class="article-category">nauka</span>
+                                    <span class="article-source">${getSourceName(data.source)}</span>
+                                </div>
+                                <h2>${article.title}</h2>
+                                <p>${article.description}</p>
+                                <div class="article-date">
+                                    ${formatDate(article.pubDate)}
+                                </div>
+                            </a>
+                        </article>
+                    `).join('');
+                } else {
+                    container.innerHTML = '<div class="loading">brak dostępnych artykułów</div>';
+                }
+            } catch (error) {
+                console.error('Błąd ładowania nauki:', error);
+                document.getElementById('science-articles').innerHTML = 
+                    '<div class="error">nie udało się załadować artykułów naukowych</div>';
+            }
+        }
+        
+        async function loadVisDnia() {
+            try {
+                const response = await fetch('vis-images.json?t=' + Date.now());
+                const visData = await response.json();
+                
+                const today = new Date();
+                const dayOfMonth = today.getDate();
+                
+                const container = document.getElementById('vis-image');
+                
+                const dayData = visData.days.find(day => day.day === dayOfMonth);
+                
+                if (dayData) {
+                    const imgPath = `img/${dayData.filename}`;
+                    
+                    container.innerHTML = `
+                        <div class="vis-image">
+                            <img src="${imgPath}" 
+                                 alt="vis dnia" 
+                                 onerror="this.parentElement.parentElement.innerHTML='<div class=&quot;error&quot;>brak obrazu na dzisiaj</div>'"
+                                 onload="this.style.opacity=1"
+                                 style="opacity:0; transition: opacity 0.3s;">
+                        </div>
+                        <div class="vis-description">${dayData.description}</div>
+                    `;
+                } else {
+                    container.innerHTML = '<div class="error">brak danych dla dzisiejszego dnia</div>';
+                }
+                
+            } catch (error) {
+                console.error('Błąd ładowania vis dnia:', error);
+                document.getElementById('vis-image').innerHTML = 
+                    '<div class="error">nie udało się załadować obrazu dnia</div>';
+            }
+        }
+        
+        function updateLastUpdate(timestamp) {
+            if (currentTab === 'news' && timestamp) {
+                const date = new Date(timestamp);
+                const now = new Date();
+                const diffMinutes = Math.floor((now - date) / (1000 * 60));
+                
+                let timeStr;
+                if (diffMinutes < 1) {
+                    timeStr = 'przed chwilą';
+                } else if (diffMinutes < 60) {
+                    timeStr = `${diffMinutes} min temu`;
+                } else if (diffMinutes < 1440) {
+                    const hours = Math.floor(diffMinutes / 60);
+                    timeStr = `${hours}h temu`;
+                } else {
+                    timeStr = date.toLocaleDateString('pl-PL');
+                }
+                
+                document.getElementById('lastUpdate').textContent = `ostatnia aktualizacja ${timeStr}`;
+            }
+        }
+        
+        function getSourceName(source) {
+            const sourceMap = {
+                'DziennikNaukowy.pl': 'dziennik naukowy',
+                'Defence24.pl': 'defence24',
+                'TVN24': 'tvn24',
+                'Interia': 'interia'
+            };
+            return sourceMap[source] || source.toLowerCase();
+        }
+        
+        function formatDate(dateString) {
+            if (!dateString) return '';
+            
+            const date = new Date(dateString);
+            const now = new Date();
+            const diffMinutes = Math.floor((now - date) / (1000 * 60));
+            
+            if (diffMinutes < 60) {
+                return `${diffMinutes} min`;
+            } else if (diffMinutes < 1440) {
+                const hours = Math.floor(diffMinutes / 60);
+                return `${hours}h`;
+            } else {
+                const days = Math.floor(diffMinutes / 1440);
+                return `${days}d`;
+            }
+        }
+        
+        // Initialize
+        initTheme();
+        loadTabData('news');
+        
+        // Auto-refresh every 30 seconds
+        setInterval(() => {
+            if (currentTab !== 'vis') {
+                loadTabData(currentTab);
+            }
+        }, 30000);
+        
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'd' && e.metaKey) {
+                e.preventDefault();
+                toggleTheme();
+            }
+        });
+    </script>
+</body>
+</html>
