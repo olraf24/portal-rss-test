@@ -1,29 +1,61 @@
 {
-  "lastUpdate": "2025-08-21T15:37:01.626Z",
+  "lastUpdate": "2025-08-21T16:06:33.963Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Lampy w warszawskich parkach",
+      "title": "Zmiany w podatku bankowym",
+      "link": "https://tvn24.pl/biznes/z-kraju/wyzszy-podatek-dla-bankow-szykuje-sie-spora-podwyzka-st8610249?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 16:02:58 GMT",
+      "description": "• Ministerstwo Finansów zamierza zwiększyć stawkę podatku dochodowego od banków.\n• Zapowiedź ta wynika z wypowiedzi wiceministra finansów Jarosława Nenemana.\n• W 2026 roku stawka podatku dochodowego od banków wyniesie 30 procent.\n• Obecnie stawka podatku dochodowego od banków wynosi 19 procent.",
+      "originalTitle": "Wyższy podatek dla banków. Szykuje się spora podwyżka",
+      "originalDescription": "Ministerstwo Finansów zamierza zwiększyć stawkę podatku dochodowego od banków - wynika z zapowiedzi wiceministra finansów Jarosława Nenemana. W 2026 roku wyniesie ona 30 procent. Obecnie to 19 procent."
+    },
+    {
+      "title": "Guardian\" informuje o planie Trumpa dotyczącym Ukrainy",
+      "link": "https://tvn24.pl/swiat/negocjacje-w-sprawie-ukrainy-donald-trump-tymczasowo-wycofuje-sie-czeka-na-spotkanie-guardian-st8610033?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 15:44:36 GMT",
+      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump chce, aby najpierw porozmawiali ze sobą Wołodymyr Zełenski i Władimir Putin.\n• Dopiero później ma dojść do trójstronnego spotkania z udziałem Donalda Trumpa.\n• Informację tę podaje brytyjski dziennik \"Guardian\".\n• \"Guardian\" powołuje się na urzędników z amerykańskiej administracji.\n• Wołodymyr Zełenski i Władimir Putin mają porozmawiać ze sobą przed trójstronnym spotkaniem.\n• Trójstronne spotkanie ma obejmować Donalda Trumpa, Wołodymyra Zełenskiego i Władimira Putina.",
+      "originalTitle": "\"Poczekamy, zobaczymy\". \"Guardian\" o planie Trumpa w sprawie Ukrainy",
+      "originalDescription": "Prezydent USA Donald Trump chce, aby najpierw porozmawiali ze sobą Wołodymyr Zełenski i Władimir Putin, a dopiero później, żeby doszło do trójstronnego spotkania z jego udziałem - pisze brytyjski dziennik \"Guardian\", powołując się na urzędników z amerykańskiej administracji."
+    },
+    {
+      "title": "Ustawa nie wymaga budowy wiatraków",
+      "link": "https://tvn24.pl/biznes/z-kraju/magda-lucyan-ta-ustawa-nie-narzuca-nikomu-postawienia-wiatraka-st8610125?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 15:42:06 GMT",
+      "description": "• Ustawa nie narzuca nikomu postawienia wiatraka.\n• Ustawa zwiększa przestrzeń w kraju, w której wiatraki mogłyby powstać.\n• Przestrzeń, o której mowa, jest bardzo niewielka.\n• Magda Łucyan jest prowadzącą program \"Rozmowy o Końcu Świata\" na antenie TVN24.\n• Magda Łucyan wypowiedziała się na ten temat na antenie TVN24.\n• Szymon Kowalski jest wiceprezesem Polskiego Stowarzyszenia Energetyki Wiatrowej.\n• Szymon Kowalski podkreślił znaczenie wiatraków dla taniej i zielonej energii.\n• Wiatraki są kluczowe dla polskiej transformacji energetycznej.",
+      "originalTitle": "\"Ta ustawa nie narzuca nikomu postawienia wiatraka\"",
+      "originalDescription": "Ta ustawa nie narzuca nikomu postawienia wiatraka, ona zwiększa przestrzeń w naszym kraju, w której takie wiatraki mogłyby powstać. Nadal jest to bardzo niewielka przestrzeń - mówiła na antenie TVN24 Magda Łucyan, prowadząca program \"Rozmowy o Końcu Świata\". Szymon Kowalski, wiceprezes Polskiego Stowarzyszenia Energetyki Wiatrowej, podkreślił z kolei znaczenie wiatraków dla taniej i zielonej energii, wskazując, że są one kluczowe dla polskiej transformacji energetycznej."
+    },
+    {
+      "title": "Nocą lokalnie mogą pojawić się zalania",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-22-08-lokalnie-moga-pojawic-sie-zalania-st8610011?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 15:41:45 GMT",
+      "description": "Pogoda na jutro. Nocą w części kraju spodziewany jest intensywny deszcz, który może powodować lokalne zalania. W piątek również może popadać, chociaż opady okażą się mniejsze. Termometry pokażą do 23 stopni.",
+      "originalTitle": "Nocą lokalnie mogą pojawić się zalania",
+      "originalDescription": "Pogoda na jutro. Nocą w części kraju spodziewany jest intensywny deszcz, który może powodować lokalne zalania. W piątek również może popadać, chociaż opady okażą się mniejsze. Termometry pokażą do 23 stopni."
+    },
+    {
+      "title": "Nowe lampy rozświetlą warszawskie parki",
       "link": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-nowe-lampy-rozswietla-parki-st8610140?source=rss",
       "pubDate": "Thu, 21 Aug 2025 15:22:51 GMT",
-      "description": "• Zarząd Dróg Miejskich rozstrzygnął przetarg na dostawę opraw ledowych latarni.\n• Liczba opraw ledowych latarni to 2,6 tysiąca.\n• Oprawy ledowe latarni zostaną zamontowane w parkach.\n• Koszt nowych lamp to niemal 3,8 mln zł.",
+      "description": "Zarząd Dróg Miejskich rozstrzygnął przetarg na dostawę 2,6 tysiąca opraw ledowych latarni, które zostaną zamontowane w parkach. Koszt nowych lamp to niemal 3,8 mln zł.",
       "originalTitle": "Nowe lampy rozświetlą warszawskie parki",
       "originalDescription": "Zarząd Dróg Miejskich rozstrzygnął przetarg na dostawę 2,6 tysiąca opraw ledowych latarni, które zostaną zamontowane w parkach. Koszt nowych lamp to niemal 3,8 mln zł."
     },
     {
-      "title": "Wypadek radiowozu podczas interwencji",
+      "title": "Jechali \"do pilnej interwencji\". Radiowóz wylądował na boku",
       "link": "https://tvn24.pl/olsztyn/olsztyn-wypadek-radiowozu-ranna-policjantka-st8610212?source=rss",
       "pubDate": "Thu, 21 Aug 2025 15:17:21 GMT",
-      "description": "• Jadący na sygnale radiowóz zderzył się w Olsztynie z innym samochodem.\n• Radiowóz przewrócił się na bok.\n• Do szpitala na badania trafiła policjantka.",
+      "description": "Jadący na sygnale radiowóz zderzył się w Olsztynie z innym samochodem, przewracając się na bok. Do szpitala na badania trafiła policjantka.",
       "originalTitle": "Jechali \"do pilnej interwencji\". Radiowóz wylądował na boku",
       "originalDescription": "Jadący na sygnale radiowóz zderzył się w Olsztynie z innym samochodem, przewracając się na bok. Do szpitala na badania trafiła policjantka."
     },
     {
-      "title": "Trump komentuje politykę Bidena wobec Ukrainy",
+      "title": "Trump krytykuje poprzednika. \"Biden nie pozwolił Ukrainie na to\"",
       "link": "https://tvn24.pl/swiat/donald-trump-krytykuje-joe-bidena-nie-pozwolil-ukrainie-na-to-by-oddawala-ciosy-st8610166?source=rss",
       "pubDate": "Thu, 21 Aug 2025 15:05:46 GMT",
-      "description": "• Rażąco niekompetentny Joe Biden nie pozwolił Ukrainie na to, by oddawała ciosy, lecz tylko, by się broniła.\n• Krytykę tę wyraził prezydent USA Donald Trump.\n• Donald Trump skrytykował swojego poprzednika.\n• Joe Biden jest poprzednikiem Donalda Trumpa.\n• Donald Trump powtórzył, że nie doszłoby do wojny w Ukrainie, gdyby to on był głową państwa.",
+      "description": "Rażąco niekompetentny Joe Biden nie pozwolił Ukrainie na to, by oddawała ciosy, lecz tylko, by się broniła - skrytykował swojego poprzednika prezydent USA Donald Trump. Powtórzył również to, że nie doszłoby do wojny w Ukrainie, gdyby to on był głową państwa.",
       "originalTitle": "Trump krytykuje poprzednika. \"Biden nie pozwolił Ukrainie na to\"",
       "originalDescription": "Rażąco niekompetentny Joe Biden nie pozwolił Ukrainie na to, by oddawała ciosy, lecz tylko, by się broniła - skrytykował swojego poprzednika prezydent USA Donald Trump. Powtórzył również to, że nie doszłoby do wojny w Ukrainie, gdyby to on był głową państwa."
     },
@@ -50,38 +82,6 @@
       "description": "Do władz Zakopanego trafiła petycja w sprawie rezygnacji z modlitw na sesjach rady miasta. Modlitwa księdza Piotra Skargi odmawiana jest na początku każdego zebrania radnych - to nie tylko tradycja, ale też jeden z punktów oficjalnego statutu Zakopanego. - Wiara na Podhalu jest bardzo istotna. Sam mam w gabinecie krzyż - powiedział tvn24.pl burmistrz miasta Łukasz Filipowicz.",
       "originalTitle": "\"Przez Chrystusa, Pana naszego, amen\". To nie msza, to sesja rady miasta. Jest petycja",
       "originalDescription": "Do władz Zakopanego trafiła petycja w sprawie rezygnacji z modlitw na sesjach rady miasta. Modlitwa księdza Piotra Skargi odmawiana jest na początku każdego zebrania radnych - to nie tylko tradycja, ale też jeden z punktów oficjalnego statutu Zakopanego. - Wiara na Podhalu jest bardzo istotna. Sam mam w gabinecie krzyż - powiedział tvn24.pl burmistrz miasta Łukasz Filipowicz."
-    },
-    {
-      "title": "Trener ze Stężycy uniewinniony. Dlaczego? Nie wiemy. Uzasadnienie wyroku niejawne",
-      "link": "https://tvn24.pl/trojmiasto/wyrok-sadu-w-sprawie-trenera-ze-stezycy-st8609446?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 14:44:02 GMT",
-      "description": "Sąd uniewinnił Michała C., byłego trenera Raduni Stężyca, którego zachowania wobec młodych piłkarzy opisaliśmy w tvn24.pl. Dlaczego zapadł taki wyrok? Nie wiadomo. Sprawa toczyła się za zamkniętymi drzwiami, sąd odmówił nam wglądu do akt.",
-      "originalTitle": "Trener ze Stężycy uniewinniony. Dlaczego? Nie wiemy. Uzasadnienie wyroku niejawne",
-      "originalDescription": "Sąd uniewinnił Michała C., byłego trenera Raduni Stężyca, którego zachowania wobec młodych piłkarzy opisaliśmy w tvn24.pl. Dlaczego zapadł taki wyrok? Nie wiadomo. Sprawa toczyła się za zamkniętymi drzwiami, sąd odmówił nam wglądu do akt."
-    },
-    {
-      "title": "Droga zapadła się pod jadącą ciężarówką",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/meksyk-droga-zapadla-sie-pod-jadaca-ciezarowka-st8609911?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 14:40:26 GMT",
-      "description": "Ciężarówka z naczepą jechała jedną z dróg w stolicy Meksyku. W pewnym momencie pod pojazdem zapadła się ziemia, a w jezdni powstała dość pokaźnych rozmiarów dziura.",
-      "originalTitle": "Droga zapadła się pod jadącą ciężarówką",
-      "originalDescription": "Ciężarówka z naczepą jechała jedną z dróg w stolicy Meksyku. W pewnym momencie pod pojazdem zapadła się ziemia, a w jezdni powstała dość pokaźnych rozmiarów dziura."
-    },
-    {
-      "title": "\"Wybór, przed którym stoją światowi przywódcy\". Ekspertka ostrzega przed planem Trumpa",
-      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-wybor-przed-ktorym-stoja-swiatowi-przywodcy-ekspertka-ostrzega-przed-planem-prezydenta-usa-st8610010?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 14:31:34 GMT",
-      "description": "Sztuczna inteligencja to projekt ideologiczny administracji Donalda Trumpa. Kierunkiem jest hegemonia technologiczna - ostrzega w \"Financial Times\" Marietje Schaake. Jej zdaniem prezydent USA dąży do \"amerykańskiego kolonializmu AI\".",
-      "originalTitle": "\"Wybór, przed którym stoją światowi przywódcy\". Ekspertka ostrzega przed planem Trumpa",
-      "originalDescription": "Sztuczna inteligencja to projekt ideologiczny administracji Donalda Trumpa. Kierunkiem jest hegemonia technologiczna - ostrzega w \"Financial Times\" Marietje Schaake. Jej zdaniem prezydent USA dąży do \"amerykańskiego kolonializmu AI\"."
-    },
-    {
-      "title": "Chciał być taksówkarzem. Pokazał fałszywe dokumenty, czeka go deportacja",
-      "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-chcial-byc-taksowkarzem-w-urzedzie-pokazal-falszywe-dokumenty-st8610004?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 14:13:55 GMT",
-      "description": "Policjanci z warszawskich Bielan interweniowali w urzędzie dzielnicy wobec obcokrajowca, który posługiwał się fałszywymi dokumentami. Okazało się, że 24-latek chciał zostać taksówkarzem, ale nigdy nie przystępował do egzaminu na prawo jazdy.",
-      "originalTitle": "Chciał być taksówkarzem. Pokazał fałszywe dokumenty, czeka go deportacja",
-      "originalDescription": "Policjanci z warszawskich Bielan interweniowali w urzędzie dzielnicy wobec obcokrajowca, który posługiwał się fałszywymi dokumentami. Okazało się, że 24-latek chciał zostać taksówkarzem, ale nigdy nie przystępował do egzaminu na prawo jazdy."
     }
   ]
 }
