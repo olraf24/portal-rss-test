@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-08-21T08:40:02.528Z",
+  "lastUpdate": "2025-08-21T09:06:34.575Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Prokuratura zgłasza wątpliwość w sprawie Manowskiej",
+      "title": "Wypadek drogowy zaistniał, uczestniczył w nim sędzia",
+      "link": "https://tvn24.pl/wroclaw/luban-kamperem-uszkodzil-dwa-auta-sedzia-za-kierownica-jest-reakcja-ministra-i-sledztwo-prokuratury-st8607738?source=rss",
+      "pubDate": "Wed, 20 Aug 2025 11:55:43 GMT",
+      "description": "• Sędzia był zaangażowany w \"aferę hejterską\".\n• Sędzia miał prowadzić kampera i uderzyć w zaparkowane samochody.\n• Minister sprawiedliwości podjął decyzję o miesięcznej \"przerwie sędziego w czynnościach służbowych\".\n• Sędzia jest na zwolnieniu lekarskim od ponad roku.\n• Wynik badania sędziego alkomatem to dwa promile.\n• Pobrano krew sędziemu do badań.\n• Wszczęto śledztwo w sprawie.\n• Rzeczniczka Sądu Apelacyjnego we Wrocławiu przekazała informację o wyniku badania alkomatem.",
+      "originalTitle": "Kamperem uszkodził dwa auta, za kierownicą sędzia z \"afery hejterskiej\". Reakcja ministra i śledztwo",
+      "originalDescription": "Znany z \"afery hejterskiej\" sędzia miał prowadzić kampera i uderzyć w zaparkowane samochody. Minister sprawiedliwości podjął decyzję o miesięcznej \"przerwie sędziego w czynnościach służbowych\". W praktyce niewiele to zmienia, bo od ponad roku jest on na zwolnieniu lekarskim. Według informacji przekazanej przez rzeczniczkę Sądu Apelacyjnego we Wrocławiu wynik badania sędziego alkomatem to dwa promile. Pobrano mu krew do badań. W sprawie wszczęto śledztwo."
+    },
+    {
+      "title": "Mężczyzna gasi pożar, który sam spowodował",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/podpalil-las-ale-wrocil-by-gasic-pozar-st8608919?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 08:48:15 GMT",
+      "description": "• Podłożył ogień w lesie\n• Potem pomagał gasić pożar\n• Został zatrzymany\n• Tłumaczył, że działał pod wpływem alkoholu\n• Okazało się, że ma na koncie więcej podpaleń\n• Został tymczasowo aresztowany",
+      "originalTitle": "Podpalił las, ale wrócił, by gasić pożar",
+      "originalDescription": "Podłożył ogień w lesie, a potem pomagał gasić pożar. Po zatrzymaniu tłumaczył, że działał pod wpływem alkoholu. Okazało się, że ma na koncie więcej podpaleń. Został tymczasowo aresztowany."
+    },
+    {
+      "title": "Osoba nieprzytomna na ulicy, prowadzona akcja ratunkowa",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-lezal-na-ulicy-i-nagle-przestal-oddychac-uratowali-go-policjanci-st8608893?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 08:46:31 GMT",
+      "description": "Na ulicy Foksal leżał mężczyzna, który nagle przestał oddychać. Z pomocą ruszyli śródmiejscy policjanci. Podczas reanimacji udało im się przywrócić funkcje życiowe 41-latka. Jeden z funkcjonariuszy na początku sierpnia uczestniczył w podobnej interwencji przy stacji metra Centrum.",
+      "originalTitle": "Leżał na ulicy, \"nagle przestał oddychać\". Dramatyczna akcja ratunkowa",
+      "originalDescription": "Na ulicy Foksal leżał mężczyzna, który nagle przestał oddychać. Z pomocą ruszyli śródmiejscy policjanci. Podczas reanimacji udało im się przywrócić funkcje życiowe 41-latka. Jeden z funkcjonariuszy na początku sierpnia uczestniczył w podobnej interwencji przy stacji metra Centrum."
+    },
+    {
+      "title": "Jest szansa na powrót upału",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-kiedy-wroci-upal-jest-szansa-ze-na-sam-koniec-wakacji-st8609056?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 08:43:38 GMT",
+      "description": "Przełom sierpnia i września może przynieść ciepłe, a miejscami upalne dni. Przedtem czeka nas jednak wyjątkowa chłodna końcówka obecnego tygodnia.",
+      "originalTitle": "Jest szansa na powrót upału",
+      "originalDescription": "Przełom sierpnia i września może przynieść ciepłe, a miejscami upalne dni. Przedtem czeka nas jednak wyjątkowa chłodna końcówka obecnego tygodnia."
+    },
+    {
+      "title": "Pies zagryzł psa w centrum miasta",
+      "link": "https://tvn24.pl/poznan/poznan-pies-zagryzl-psa-w-centrum-miasta-st8608997?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 08:37:59 GMT",
+      "description": "W Poznaniu pod Starym Browarem doszło do pogryzienia się dwóch psów. Właściciele prowadzili je na smyczach. Mniejszy z czworonogów nie przeżył.",
+      "originalTitle": "Pies zagryzł psa w centrum miasta",
+      "originalDescription": "W Poznaniu pod Starym Browarem doszło do pogryzienia się dwóch psów. Właściciele prowadzili je na smyczach. Mniejszy z czworonogów nie przeżył."
+    },
+    {
+      "title": "Ma rozpatrywać sprawę Manowskiej. Prokuratura zgłasza \"uzasadnioną wątpliwość\"",
       "link": "https://tvn24.pl/polska/immunitet-malgorzaty-manowskiej-prokuratura-chce-wylaczenia-sedziego-marka-motuka-z-rozpatrywania-sprawy-st8609034?source=rss",
       "pubDate": "Thu, 21 Aug 2025 08:35:03 GMT",
-      "description": "• Prokuratura Krajowa chce wyłączenia neosędziego, który ma rozpatrywać sprawę immunitetu pierwszej prezes Sądu Najwyższego.\n• Wniosek trafił do prezesa Izby Odpowiedzialności Zawodowej SN, która rozstrzyga sprawy immunitetowe.\n• Istnieje wątpliwo��ć co do bezstronności sędziego sprawozdawcy Marka Motuka.\n• Sędzią sprawozdawcą w tej sprawie jest Marek Motuk.\n• Sprawa dotyczy immunitetu pierwszej prezes Sądu Najwyższego Małgorzaty Manowskiej.",
+      "description": "Prokuratura Krajowa chce wyłączenia neosędziego, który ma rozpatrywać sprawę immunitetu pierwszej prezes Sądu Najwyższego Małgorzaty Manowskiej. Wniosek trafił do prezesa Izby Odpowiedzialności Zawodowej SN, która rozstrzyga sprawy immunitetowe. Zdaniem prokuratury istnieje wątpliwość co do bezstronności sędziego sprawozdawcy Marka Motuka.",
       "originalTitle": "Ma rozpatrywać sprawę Manowskiej. Prokuratura zgłasza \"uzasadnioną wątpliwość\"",
       "originalDescription": "Prokuratura Krajowa chce wyłączenia neosędziego, który ma rozpatrywać sprawę immunitetu pierwszej prezes Sądu Najwyższego Małgorzaty Manowskiej. Wniosek trafił do prezesa Izby Odpowiedzialności Zawodowej SN, która rozstrzyga sprawy immunitetowe. Zdaniem prokuratury istnieje wątpliwość co do bezstronności sędziego sprawozdawcy Marka Motuka."
     },
     {
-      "title": "35-latek zmarł po bijatyce",
+      "title": "Po bójce z nastolatkami trafił do szpitala. 35-latek nie żyje",
       "link": "https://tvn24.pl/poznan/nowy-tomysl-po-bojce-z-nastolatkami-trafil-do-szpitala-35-latek-nie-zyje-st8609052?source=rss",
       "pubDate": "Thu, 21 Aug 2025 08:31:31 GMT",
-      "description": "• Zmarł 35-letni mieszkaniec Nowego Tomyśla.\n• Mieszkaniec pochodził z Wielkopolski.\n• Mężczyzna wszczął bójkę, w której brało udział trzech nastolatków.\n• Podczas bójki mężczyzna upadł na chodnik.\n• Mężczyzna uderzył głową o beton.\n• Prokuratura zapowiada zmianę zarzutów dla uczestników bójki.",
+      "description": "Zmarł 35-letni mieszkaniec Nowego Tomyśla (Wielkopolska), który według ustaleń śledczych wszczął bójkę, w której brało udział trzech nastolatków. Mężczyzna po jednym z uderzeń upadł na chodnik i uderzył głową o beton. Prokuratura zapowiada zmianę zarzutów dla uczestników bójki.",
       "originalTitle": "Po bójce z nastolatkami trafił do szpitala. 35-latek nie żyje",
       "originalDescription": "Zmarł 35-letni mieszkaniec Nowego Tomyśla (Wielkopolska), który według ustaleń śledczych wszczął bójkę, w której brało udział trzech nastolatków. Mężczyzna po jednym z uderzeń upadł na chodnik i uderzył głową o beton. Prokuratura zapowiada zmianę zarzutów dla uczestników bójki."
     },
     {
-      "title": "Lewandowski wraca do zespołu",
+      "title": "Lewandowski wróci. Ale czy powinien jako kapitan?",
       "link": "https://tvn24.pl/polska/lewandowski-wroci-ale-czy-powinien-jako-kapitan-st8608139?source=rss",
       "pubDate": "Thu, 21 Aug 2025 08:28:22 GMT",
-      "description": "• Robert Lewandowski wróci do reprezentacji Polski.\n• Reprezentację Polski dowodzi selekcjoner Jan Urban.\n• Pytanie, czy Robert Lewandowski wróci jako kapitan reprezentacji.\n• Alternatywą dla Roberta Lewandowskiego na stanowisku kapitana jest Piotr Zieliński.\n• W rozmowie z TVN24+ odpowiedzi na pytania próbowali szukać Jacek Bąk, Tomasz Wałdoch i Grzegorz Lato.\n• Jacek Bąk, Tomasz Wałdoch i Grzegorz Lato nosili opaskę w biało-czerwonych barwach na ramieniu.",
+      "description": "To w zasadzie przesądzone, że Robert Lewandowski wróci do reprezentacji Polski, dowodzonej już przez selekcjonera Jana Urbana. Pytanie, czy jako jej kapitan, czy nie, ustępując na dobre miejsca Piotrowi Zielińskiemu. W rozmowie z TVN24+ odpowiedzi próbowali szukać Jacek Bąk, Tomasz Wałdoch i Grzegorz Lato, którzy nosili opaskę w biało-czerwonych barwach na ramieniu.",
       "originalTitle": "Lewandowski wróci. Ale czy powinien jako kapitan?",
       "originalDescription": "To w zasadzie przesądzone, że Robert Lewandowski wróci do reprezentacji Polski, dowodzonej już przez selekcjonera Jana Urbana. Pytanie, czy jako jej kapitan, czy nie, ustępując na dobre miejsca Piotrowi Zielińskiemu. W rozmowie z TVN24+ odpowiedzi próbowali szukać Jacek Bąk, Tomasz Wałdoch i Grzegorz Lato, którzy nosili opaskę w biało-czerwonych barwach na ramieniu."
     },
@@ -42,46 +82,6 @@
       "description": "Przeciętne wynagrodzenie brutto w lipcu 2025 roku wyniosło 8905,63 złotego, co oznacza wzrost o 7,6 procent rok do roku - podał Główny Urząd Statystyczny. Dane dotyczą firm zatrudniających powyżej dziewięciu osób.",
       "originalTitle": "Nowe dane w sprawie wynagrodzeń",
       "originalDescription": "Przeciętne wynagrodzenie brutto w lipcu 2025 roku wyniosło 8905,63 złotego, co oznacza wzrost o 7,6 procent rok do roku - podał Główny Urząd Statystyczny. Dane dotyczą firm zatrudniających powyżej dziewięciu osób."
-    },
-    {
-      "title": "\"Produkcja przemysłowa zaskoczyła\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/produkcja-przemyslowa-w-lipcu-2025-nowe-dane-gus-st8609051?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 08:01:23 GMT",
-      "description": "Produkcja przemysłowa w lipcu 2025 podskoczyła o 2,9 procent rok do roku, a w porównaniu z poprzednim miesiącem wzrosła o 0,2 procent - podał Główny Urząd Statystyczny (GUS).",
-      "originalTitle": "\"Produkcja przemysłowa zaskoczyła\"",
-      "originalDescription": "Produkcja przemysłowa w lipcu 2025 podskoczyła o 2,9 procent rok do roku, a w porównaniu z poprzednim miesiącem wzrosła o 0,2 procent - podał Główny Urząd Statystyczny (GUS)."
-    },
-    {
-      "title": "Zełenski wskazał możliwe miejsce spotkania z Putinem",
-      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-o-spotkaniu-z-wladimirem-putinem-i-zaoferowanej-usa-umowie-na-produkcje-dronow-st8609008?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 07:46:19 GMT",
-      "description": "Prezydent Ukrainy Wołodymyr Zełenski oświadczył, że oczekuje \"zdecydowanej reakcji\" ze strony Stanów Zjednoczonych, jeśli rosyjski przywódca Władimir Putin nie będzie skłonny do dwustronnego spotkania w sprawie zakończenia wojny. Przekazał też, że Ukraina przygotowała i zaproponowała USA umowę dotyczącą produkcji dronów.",
-      "originalTitle": "Zełenski wskazał możliwe miejsce spotkania z Putinem",
-      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski oświadczył, że oczekuje \"zdecydowanej reakcji\" ze strony Stanów Zjednoczonych, jeśli rosyjski przywódca Władimir Putin nie będzie skłonny do dwustronnego spotkania w sprawie zakończenia wojny. Przekazał też, że Ukraina przygotowała i zaproponowała USA umowę dotyczącą produkcji dronów."
-    },
-    {
-      "title": "Największe opady od 18 lat. Dziesiątki alarmów przed powodzią",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/australia-sydney-najwieksze-opady-od-18-lat-dziesiatki-alarmow-przed-powodzia-st8608932?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 07:41:16 GMT",
-      "description": "Mieszkańcy australijskiego stanu Nowa Południowa Walia zmagają się ze skutkami ekstremalnych ulew. W wielu miejscach doszło do zalań i podtopień. W Sydney odnotowano największe opady deszczu w ciągu 24 godzin od 2007 roku.",
-      "originalTitle": "Największe opady od 18 lat. Dziesiątki alarmów przed powodzią",
-      "originalDescription": "Mieszkańcy australijskiego stanu Nowa Południowa Walia zmagają się ze skutkami ekstremalnych ulew. W wielu miejscach doszło do zalań i podtopień. W Sydney odnotowano największe opady deszczu w ciągu 24 godzin od 2007 roku."
-    },
-    {
-      "title": "Bójka podczas meczu trzeciej ligi. Pseudokibice z zarzutami",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-bojka-podczas-meczu-trzeciej-ligi-pseudokibice-z-zarzutami-st8608968?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 07:40:18 GMT",
-      "description": "Dziewięciu mężczyzn zostało zatrzymanych po bójce podczas meczu trzeciej ligi w Radomiu. Według policji doszło do konfliktu pomiędzy pseudokibicami obu drużyn. Wszyscy usłyszeli zarzuty. Grozi im do pięciu lat więzienia.",
-      "originalTitle": "Bójka podczas meczu trzeciej ligi. Pseudokibice z zarzutami",
-      "originalDescription": "Dziewięciu mężczyzn zostało zatrzymanych po bójce podczas meczu trzeciej ligi w Radomiu. Według policji doszło do konfliktu pomiędzy pseudokibicami obu drużyn. Wszyscy usłyszeli zarzuty. Grozi im do pięciu lat więzienia."
-    },
-    {
-      "title": "Nowe informacje po eksplozji drona. \"Wysokie prawdopodobieństwo\"",
-      "link": "https://tvn24.pl/polska/osiny-prokuratura-wysokie-prawdopodobienstwo-ze-obiekt-nadlecial-z-bialorusi-st8608971?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 07:11:39 GMT",
-      "description": "Istnieje bardzo wysokie prawdopodobieństwo, ale to będzie weryfikowane w dalszym toku postępowania, że obiekt nadleciał z terenu Białorusi - przekazał w czwartek Grzegorz Trusiewicz, prokurator okręgowy w Lublinie. W sprawie obiektu, który spadł w środę w Osinach, trwa śledztwo.",
-      "originalTitle": "Nowe informacje po eksplozji drona. \"Wysokie prawdopodobieństwo\"",
-      "originalDescription": "Istnieje bardzo wysokie prawdopodobieństwo, ale to będzie weryfikowane w dalszym toku postępowania, że obiekt nadleciał z terenu Białorusi - przekazał w czwartek Grzegorz Trusiewicz, prokurator okręgowy w Lublinie. W sprawie obiektu, który spadł w środę w Osinach, trwa śledztwo."
     }
   ]
 }
