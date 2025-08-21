@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-08-21T20:06:10.276Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-08-21T20:37:05.784Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Koszt wycieczki równy wadze śniegu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/antarktyda-jedna-wycieczka-tam-kosztuje-sto-ton-lodu-st8610527?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 19:55:17 GMT",
+      "description": "Ruch turystyczny przekłada się na coraz większe zanieczyszczenie Antarktydy. Najnowsze badania pokazują, że wysokie stężenie metali ciężkich pochodzących ze spalania paliw przyspiesza topnienie pokrywy śnieżnej. Wizyta jednego turysty może wiązać się z utratą nawet stu ton śniegu.",
+      "originalTitle": "Jedna wycieczka tam kosztuje sto ton śniegu",
+      "originalDescription": "Ruch turystyczny przekłada się na coraz większe zanieczyszczenie Antarktydy. Najnowsze badania pokazują, że wysokie stężenie metali ciężkich pochodzących ze spalania paliw przyspiesza topnienie pokrywy śnieżnej. Wizyta jednego turysty może wiązać się z utratą nawet stu ton śniegu."
+    },
+    {
+      "title": "Przygotowania do przyjęcia euro",
+      "link": "https://tvn24.pl/biznes/ze-swiata/bulgaria-szykuje-sie-do-wdrozenia-euro-ruszyla-kampania-informacyjna-st8610585?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 19:54:43 GMT",
+      "description": "W Bułgarii ruszyła kampania informacyjna dotycząca przejścia z lewa na euro, które zaplanowano na 1 stycznia 2026 roku. Wprowadzenie w Bułgarii euro wywołuje mieszane reakcje społeczeństwa.",
+      "originalTitle": "Szykują się do przyjęcia euro. \"Nie ma podstaw do obaw\"",
+      "originalDescription": "W Bułgarii ruszyła kampania informacyjna dotycząca przejścia z lewa na euro, które zaplanowano na 1 stycznia 2026 roku. Wprowadzenie w Bułgarii euro wywołuje mieszane reakcje społeczeństwa."
+    },
+    {
+      "title": "Spotkanie prezydenta z papieżem",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-spotka-sie-z-papiezem-jest-data-st8610557?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 19:39:04 GMT",
+      "description": "• Prezydent Karol Nawrocki 5 września będzie przebywał z wizytą w Watykanie.\n• Spotka się z papieżem Leonem XIV.\n• Szef gabinetu prezydenta to Paweł Szefernaker.\n• To on poinformował o wizycie prezydenta w Watykanie.",
+      "originalTitle": "Prezydent spotka się z papieżem. Jest data",
+      "originalDescription": "Prezydent Karol Nawrocki 5 września będzie przebywał z wizytą w Watykanie, gdzie spotka się z papieżem Leonem XIV - poinformował szef gabinetu prezydenta Paweł Szefernaker."
+    },
+    {
+      "title": "Dwie dzielnice Warszawy sprzeciwiają się prohibicji",
+      "link": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-ursus-i-rembertow-nie-chca-nocnej-prohibicji-st8610516?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 19:25:06 GMT",
+      "description": "Radni dzielnicy Ursus negatywnie zaopiniowali projekt uchwały dotyczący wprowadzenia nocnej prohibicji. Podobną decyzję podjęli dzień wcześniej radni Rembertowa.",
+      "originalTitle": "Dwie warszawskie dzielnice nie chcą nocnej prohibicji",
+      "originalDescription": "Radni dzielnicy Ursus negatywnie zaopiniowali projekt uchwały dotyczący wprowadzenia nocnej prohibicji. Podobną decyzję podjęli dzień wcześniej radni Rembertowa."
+    },
+    {
+      "title": "Rosja testuje naszą obronność",
+      "link": "https://tvn24.pl/polska/eksplozja-drona-w-osinach-rosja-nas-testowala-nastepstwo-braku-strategicznego-podejscia-st8610349?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 19:07:16 GMT",
+      "description": "• Test wykazał brak zdolności obrony przeciwdronowej w Polsce.\n• Brak wiedzy o dronie był powodem tego stanu rzeczy.\n• Generał Stanisław Koziej, były szef Biura Bezpieczeństwa Narodowego, skomentował zdarzenie w Osinach w programie \"Faktach po Faktach\".\n• Generał Roman Polko uważa, że Polska powinna \"uruchomić przemysł\", aby wzmocnić system obrony powietrznej.\n• Goście TVN24 dyskutowali o ostatnich działaniach Donalda Trumpa wobec Ukrainy.\n• Zdarzenie, o którym mowa, miało miejsce w Osinach.",
+      "originalTitle": "Rosyjski test naszych zdolności obrony. \"Wskazał, że ich nie mamy\"",
+      "originalDescription": "Test ten najwyraźniej wskazał, że nie mamy zdolności obrony przeciwdronowej, bo w ogóle o tym dronie nie wiedzieliśmy - powiedział w \"Faktach po Faktach\" były szef Biura Bezpieczeństwa Narodowego, generał Stanisław Koziej, komentując zdarzenie w Osinach. W ocenie generała Romana Polko Polska powinna \"uruchomić przemysł\", który pozwoliłby na wzmocnienie naszego systemu obrony powietrznej. Goście TVN24 odnosili się także do ostatnich działań Donalda Trumpa wobec Ukrainy."
+    },
+    {
+      "title": "Alarmy IMGW w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ulewy-i-burze-w-polsce-ostrzezenia-imgw-wydano-alarmy-nawet-drugiego-stopnia-st8607120?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 04:25:00 GMT",
+      "description": "• IMGW ostrzega przed intensywnymi opadami deszczu.\n• Opady deszczu wystąpią w nocy i piątek rano.\n• Deszcz będzie padał w części południowej Polski.\n• Miejscami ulewom mogą towarzyszyć wyładowania.\n• W mocy są alarmy nawet drugiego stopnia.",
+      "originalTitle": "Niebezpieczna noc. Alarmy IMGW w części kraju",
+      "originalDescription": "IMGW ostrzega przed intensywnymi opadami deszczu. W nocy i piątek rano w części południowej Polski ma silnie lać, a miejscami ulewom towarzyszyć mogą wyładowania. W mocy są alarmy nawet drugiego stopnia."
+    },
+    {
+      "title": "Rosja proponuje nową architekturę bezpieczeństwa",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-zadania-rosji-katarzyna-pisarska-komentuje-st8610400?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 18:48:19 GMT",
+      "description": "Rozgrywka Władimira Putina nie dotoczy tylko tego, co się wydarzy w przyszłości na Ukrainie - mówiła w \"Faktach po Faktach\" w TVN24 profesor Katarzyna Pisarska, przewodnicząca Rady Fundacji Kazimierza Pułaskiego. Dodała, że Rosja \"gra o nową architekturę bezpieczeństwa Europy\".",
+      "originalTitle": "\"Rosja gra o nową architekturę bezpieczeństwa Europy\"",
+      "originalDescription": "Rozgrywka Władimira Putina nie dotoczy tylko tego, co się wydarzy w przyszłości na Ukrainie - mówiła w \"Faktach po Faktach\" w TVN24 profesor Katarzyna Pisarska, przewodnicząca Rady Fundacji Kazimierza Pułaskiego. Dodała, że Rosja \"gra o nową architekturę bezpieczeństwa Europy\"."
+    },
+    {
+      "title": "Atak na amerykański zakład. \"Rosjanie dokładnie wiedzieli, gdzie uderzają\"",
+      "link": "https://tvn24.pl/swiat/ukraina-atak-rosjan-na-amerykanski-zaklad-w-mukaczewie-zelenski-rosjanie-wiedzieli-gdzie-uderzaja-st8610430?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 18:43:14 GMT",
+      "description": "Rosja celowo zaatakowała amerykańską firmę w obwodzie zakarpackim - oświadczył w czwartek prezydent Ukrainy Wołodymyr Zełenski. - Atak nastąpił w chwili, gdy świat oczekuje od Moskwy odpowiedzi w sprawie negocjacji dotyczących zakończenia wojny - dodał Zełenski.",
+      "originalTitle": "Atak na amerykański zakład. \"Rosjanie dokładnie wiedzieli, gdzie uderzają\"",
+      "originalDescription": "Rosja celowo zaatakowała amerykańską firmę w obwodzie zakarpackim - oświadczył w czwartek prezydent Ukrainy Wołodymyr Zełenski. - Atak nastąpił w chwili, gdy świat oczekuje od Moskwy odpowiedzi w sprawie negocjacji dotyczących zakończenia wojny - dodał Zełenski."
+    },
+    {
+      "title": "Wóz strażacki stanął w płomieniach. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/portugalia-woz-strazacki-stanal-w-plomieniach-nagranie-st8610386?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 18:34:22 GMT",
+      "description": "Ogień pochłonął wóz strażacki podczas akcji gaśniczej w północnej Portugalii. Strażak został ciężko ranny. To jeden z najgorszych sezonów pożarowych w historii kraju.",
+      "originalTitle": "Wóz strażacki stanął w płomieniach. Nagranie",
+      "originalDescription": "Ogień pochłonął wóz strażacki podczas akcji gaśniczej w północnej Portugalii. Strażak został ciężko ranny. To jeden z najgorszych sezonów pożarowych w historii kraju."
+    },
+    {
+      "title": "Netanjahu zapowiada negocjacje, jednocześnie rusza ofensywa Izraela",
+      "link": "https://tvn24.pl/swiat/strefa-gazy-benjamin-netanjahu-zapowiada-negocjacje-gdy-rusza-nowa-izraelska-ofensywa-st8610385?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 18:25:13 GMT",
+      "description": "Premier Izraela Benjamin Netanjahu oznajmił, że jego kraj rozpocznie natychmiastowe negocjacje w sprawie uwolnienia wszystkich zakładników przetrzymywanych w Strefie Gazy i dotyczących zakończenia wojny na warunkach akceptowalnych dla Izraela. Jego wypowiedź padła w czasie, gdy jednocześnie rusza nowa ofensywa na miasto Gaza.",
+      "originalTitle": "Netanjahu zapowiada negocjacje, jednocześnie rusza ofensywa Izraela",
+      "originalDescription": "Premier Izraela Benjamin Netanjahu oznajmił, że jego kraj rozpocznie natychmiastowe negocjacje w sprawie uwolnienia wszystkich zakładników przetrzymywanych w Strefie Gazy i dotyczących zakończenia wojny na warunkach akceptowalnych dla Izraela. Jego wypowiedź padła w czasie, gdy jednocześnie rusza nowa ofensywa na miasto Gaza."
+    }
+  ]
 }
