@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-08-21T17:36:43.727Z",
+  "lastUpdate": "2025-08-21T18:07:50.163Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Minister komentuje spór o ustawę wiatrakową",
+      "title": "Stanowisko Pełczyńskiej-Nałęcz w sprawie wiatraków",
+      "link": "https://tvn24.pl/biznes/z-kraju/ustawa-wiatrakowa-paulina-hennig-kloska-nawet-elektorat-pis-jest-w-wiekszym-stopniu-za-st8610366?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 18:02:47 GMT",
+      "description": "• Nawen elektorat Prawa i Sprawiedliwości jest w większym stopniu za niż przeciw.\n• To jest w ogóle wbrew oczekiwaniu ludzi.\n• To jest w ogóle wbrew potrzebie rozwojowej Polski.\n• Katarzyna Pełczyńska-Nałęcz wypowiadała się w \"Faktach po Faktach\".\n• Katarzyna Pełczyńska-Nałęcz odnosiła się do weta prezydenta w sprawie ustawy wiatrakowej.",
+      "originalTitle": "Pełczyńska-Nałęcz: nawet elektorat PiS jest za a nie przeciw wiatrakom",
+      "originalDescription": "Nawet elektorat Prawa i Sprawiedliwości jest w większym stopniu za niż przeciw. To jest w ogóle wbrew oczekiwaniu ludzi i wbrew potrzebie rozwojowej Polski - mówiła w \"Faktach po Faktach\" ministra Katarzyna Pełczyńska-Nałęcz odnosząc się do weta prezydenta w sprawie ustawy wiatrakowej."
+    },
+    {
+      "title": "Pożar samochodu na Wale Miedzeszyńskim",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-samochod-splonal-na-wale-miedzeszynskim-st8610337?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 17:59:04 GMT",
+      "description": "W czwartek wieczorem na Wale Miedzeszyńskim zapalił się samochód osobowy. Pożar próbowali gasić przejeżdżający w pobliżu kierowcy. Nikt nie został poszkodowany.",
+      "originalTitle": "Samochód spłonął na Wale Miedzeszyńskim",
+      "originalDescription": "W czwartek wieczorem na Wale Miedzeszyńskim zapalił się samochód osobowy. Pożar próbowali gasić przejeżdżający w pobliżu kierowcy. Nikt nie został poszkodowany."
+    },
+    {
+      "title": "Pożar na lotnisku, ewakuacja pasażerów",
+      "link": "https://tvn24.pl/swiat/portugalia-pozar-na-lotnisku-w-lizbonie-ewakuowano-pasazerow-z-hali-odlotow-st8610345?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 17:45:39 GMT",
+      "description": "• Z powodu pożaru, jaki w czwartek wybuchł w lokalu gastronomicznym na lotnisku w Lizbonie, z hali odlotów ewakuowano kilkaset osób.\n• Pożar nie doprowadził do wstrzymania startów samolotów.\n• Informację o pożarze i ewakuacji podała telewizja SIC.",
+      "originalTitle": "Pożar na lotnisku, z hali odlotów ewakuowano kilkuset pasażerów",
+      "originalDescription": "Z powodu pożaru, jaki w czwartek wybuchł w lokalu gastronomicznym na lotnisku w Lizbonie, z hali odlotów ewakuowano kilkaset osób. Pożar nie doprowadził do wstrzymania startów samolotów - podała telewizja SIC."
+    },
+    {
+      "title": "Chcą odstrzelić 20 procent populacji niedźwiedzi",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/szwecja-chca-odstrzelic-20-procent-populacji-niedzwiedzi-st8610285?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 17:44:00 GMT",
+      "description": "Sezon polowań na niedźwiedzie rozpoczął się w Szwecji. W tym roku zezwoleniem na odstrzał objęte zostało około 20 procent krajowej populacji ssaków. Liczba ta niepokoi organizacje ochrony przyrody, które obawiają się, że tak nasilone polowania mogą spowodować szkody w populacji.",
+      "originalTitle": "Chcą odstrzelić 20 procent populacji niedźwiedzi",
+      "originalDescription": "Sezon polowań na niedźwiedzie rozpoczął się w Szwecji. W tym roku zezwoleniem na odstrzał objęte zostało około 20 procent krajowej populacji ssaków. Liczba ta niepokoi organizacje ochrony przyrody, które obawiają się, że tak nasilone polowania mogą spowodować szkody w populacji."
+    },
+    {
+      "title": "Co dalej z ekshumacjami? \"Jesteśmy w bezpośrednim dialogu z Polakami\"",
+      "link": "https://tvn24.pl/polska/ekshumacje-w-ukrainie-andrij-nadzos-jestesmy-w-bezposrednim-dialogu-z-polakami-st8610269?source=rss",
+      "pubDate": "Thu, 21 Aug 2025 17:37:27 GMT",
+      "description": "O żadnych oznakach zatrzymania czy zawieszenia poszukiwań i ekshumacji nie może być mowy - oświadczył wiceminister kultury Ukrainy Andrij Nadżos. Nawiązał on do słów rzecznika polskiego prezydenta Rafała Leśkiewicza, który stwierdził, że Ukrainy nie wysyła \"poważnych sygnałów\" w sprawie zgody na ekshumacje.",
+      "originalTitle": "Co dalej z ekshumacjami? \"Jesteśmy w bezpośrednim dialogu z Polakami\"",
+      "originalDescription": "O żadnych oznakach zatrzymania czy zawieszenia poszukiwań i ekshumacji nie może być mowy - oświadczył wiceminister kultury Ukrainy Andrij Nadżos. Nawiązał on do słów rzecznika polskiego prezydenta Rafała Leśkiewicza, który stwierdził, że Ukrainy nie wysyła \"poważnych sygnałów\" w sprawie zgody na ekshumacje."
+    },
+    {
+      "title": "\"Prezydent wysokich rachunków\". Minister o sporze w sprawie ustawy wiatrakowej",
       "link": "https://tvn24.pl/biznes/z-kraju/prezydent-wysokich-rachunkow-minister-milosz-motyka-o-sporze-w-sprawie-ustawy-wiatrakowej-st8610307?source=rss",
       "pubDate": "Thu, 21 Aug 2025 17:19:17 GMT",
-      "description": "• Prezydent nie rozumie, że więcej taniej energii to niższe rachunki.\n• Była ustawa odległościowa, o odnawialnych źródłach energii.\n• Ustawa zawierała komponenty związane z biogazem.\n• Ustawa zawierała komponenty związane ze spółdzielniami energetycznymi.\n• Ustawa zawierała komponenty związane z ułatwieniem przyłączy.\n• Minister energii to Miłosz Motyka.\n• Miłosz Motyka wypowiedział się w programie \"Tak jest\".",
+      "description": "Prezydent wysokich rachunków nie rozumie, że więcej taniej energii to niższe rachunki. To była ustawa odległościowa, o odnawialnych źródłach energii, która zawierała komponenty związane z biogazem, spółdzielniami energetycznymi i ułatwieniem przyłączy - powiedział w \"Tak jest\" minister energii Miłosz Motyka.",
       "originalTitle": "\"Prezydent wysokich rachunków\". Minister o sporze w sprawie ustawy wiatrakowej",
       "originalDescription": "Prezydent wysokich rachunków nie rozumie, że więcej taniej energii to niższe rachunki. To była ustawa odległościowa, o odnawialnych źródłach energii, która zawierała komponenty związane z biogazem, spółdzielniami energetycznymi i ułatwieniem przyłączy - powiedział w \"Tak jest\" minister energii Miłosz Motyka."
     },
     {
-      "title": "Kogia zmarła z powodu połknięcia plastikowej torby",
+      "title": "Kogia połknęła plastikową torbę, konała w męczarniach",
       "link": "https://tvn24.pl/tvnmeteo/swiat/hondruas-kogia-polknela-plastikowa-torbe-konala-w-meczarniach-st8610228?source=rss",
       "pubDate": "Thu, 21 Aug 2025 16:50:07 GMT",
-      "description": "• Na plaży w Hondurasie znaleziono kogię krótkogłową.\n• Kogia krótkogłowa to rzadki gatunek ssaka morskiego.\n• Zwierzę było ciężko chore.\n• W żołądku kogii znaleziono foliową torbę.\n• Mimo wysiłków służb nie udało się uratować zwierzęcia.",
+      "description": "Na plaży w Hondurasie znaleziono kogię krótkogłową, rzadki gatunek ssaka morskiego. Zwierzę było ciężko chore - w jego żołądku zalegała foliowa torba. Mimo wysiłków służb nie udało się go uratować.",
       "originalTitle": "Kogia połknęła plastikową torbę, konała w męczarniach",
       "originalDescription": "Na plaży w Hondurasie znaleziono kogię krótkogłową, rzadki gatunek ssaka morskiego. Zwierzę było ciężko chore - w jego żołądku zalegała foliowa torba. Mimo wysiłków służb nie udało się go uratować."
     },
     {
-      "title": "Wypadek radiowozu podczas interwencji",
+      "title": "Jechali \"do pilnej interwencji\". Radiowóz wylądował na boku",
       "link": "https://tvn24.pl/olsztyn/olsztyn-wypadek-radiowozu-ranna-policjantka-st8610212?source=rss",
       "pubDate": "Thu, 21 Aug 2025 15:17:21 GMT",
-      "description": "• Jadący na sygnale radiowóz zderzył się z innym samochodem.\n• Miejsce zdarzenia to Olsztyn.\n• Radiowóz przewrócił się na bok.\n• Do szpitala na badania trafiła policjantka.",
+      "description": "Jadący na sygnale radiowóz zderzył się w Olsztynie z innym samochodem, przewracając się na bok. Do szpitala na badania trafiła policjantka.",
       "originalTitle": "Jechali \"do pilnej interwencji\". Radiowóz wylądował na boku",
       "originalDescription": "Jadący na sygnale radiowóz zderzył się w Olsztynie z innym samochodem, przewracając się na bok. Do szpitala na badania trafiła policjantka."
     },
@@ -42,46 +82,6 @@
       "description": "Jednostki straży pożarnej w całym kraju włączyły w czwartek o godzinie 18 sygnały świetlne i dźwiękowe w hołdzie tragicznie zmarłemu strażakowi OSP. Ciało druha z Sierakowic zostało znalezione w pogorzelisku spalonej hali w Kawlach w powiecie kartuskim (Pomorskie) po tygodniu poszukiwań.",
       "originalTitle": "W całej Polsce zawyły syreny. Ku czci poległego strażaka",
       "originalDescription": "Jednostki straży pożarnej w całym kraju włączyły w czwartek o godzinie 18 sygnały świetlne i dźwiękowe w hołdzie tragicznie zmarłemu strażakowi OSP. Ciało druha z Sierakowic zostało znalezione w pogorzelisku spalonej hali w Kawlach w powiecie kartuskim (Pomorskie) po tygodniu poszukiwań."
-    },
-    {
-      "title": "Dwie ofiary śmiertelne wypadku ciężarówek. Zginął młody kierowca i jego pasażerka",
-      "link": "https://tvn24.pl/bialystok/netta-pierwsza-wypadek-ciezarowek-dwie-ofiary-smiertelne-st8610281?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 16:37:22 GMT",
-      "description": "21-letni kierowca i jego pasażerka zginęli w wypadku dwóch ciężarówek w miejscowości Netta Pierwsza (woj. podlaskie). Według ustaleń policji kierowca drugiego pojazdu nie ustąpił pierwszeństwa 21-latkowi.",
-      "originalTitle": "Dwie ofiary śmiertelne wypadku ciężarówek. Zginął młody kierowca i jego pasażerka",
-      "originalDescription": "21-letni kierowca i jego pasażerka zginęli w wypadku dwóch ciężarówek w miejscowości Netta Pierwsza (woj. podlaskie). Według ustaleń policji kierowca drugiego pojazdu nie ustąpił pierwszeństwa 21-latkowi."
-    },
-    {
-      "title": "Reuters: takie żądania stawia Władimir Putin",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-zadania-wladimira-putina-donbas-nato-i-neutralnosc-reuters-st8610241?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 16:31:35 GMT",
-      "description": "Władimir Putin żąda, aby Ukraina zrezygnowała z całego Donbasu, z ambicji członkostwa w NATO, zachowała neutralność i nie wpuszczała wojsk zachodnich na swoje terytorium – przekazała agencja Reutera, powołując się na trzy źródła na Kremlu.",
-      "originalTitle": "Reuters: takie żądania stawia Władimir Putin",
-      "originalDescription": "Władimir Putin żąda, aby Ukraina zrezygnowała z całego Donbasu, z ambicji członkostwa w NATO, zachowała neutralność i nie wpuszczała wojsk zachodnich na swoje terytorium – przekazała agencja Reutera, powołując się na trzy źródła na Kremlu."
-    },
-    {
-      "title": "Akcyza na alkohol w górę. Już od stycznia będzie drożej",
-      "link": "https://tvn24.pl/biznes/najnowsze/akcyza-i-podatek-cukrowy-w-gore-komunikat-ministerstwa-finansow-st8610263?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 16:22:33 GMT",
-      "description": "Od stycznia 2026 roku akcyza na wyroby alkoholowe ma wzrosnąć o 15 procent, a od 2027 roku o 10 procent - przekazało w czwartek Ministerstwo Finansów. W planach jest także zwiększenie opłaty cukrowej.",
-      "originalTitle": "Akcyza na alkohol w górę. Już od stycznia będzie drożej",
-      "originalDescription": "Od stycznia 2026 roku akcyza na wyroby alkoholowe ma wzrosnąć o 15 procent, a od 2027 roku o 10 procent - przekazało w czwartek Ministerstwo Finansów. W planach jest także zwiększenie opłaty cukrowej."
-    },
-    {
-      "title": "Przebił ogrodzenie, ściął słup. Pasażerka w ciężkim stanie",
-      "link": "https://tvn24.pl/opole/gola-samochod-przebil-ogrodzenie-scial-slup-powazny-wypadek-st8610253?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 16:16:48 GMT",
-      "description": "Poważny wypadek w miejscowości Goła na Opolszczyźnie. Samochód osobowy zjechał z drogi, staranował ogrodzenie i uderzył w słup, zatrzymując się na prywatnej posesji. Ciężko ranną pasażerkę zabrał śmigłowiec LPR.",
-      "originalTitle": "Przebił ogrodzenie, ściął słup. Pasażerka w ciężkim stanie",
-      "originalDescription": "Poważny wypadek w miejscowości Goła na Opolszczyźnie. Samochód osobowy zjechał z drogi, staranował ogrodzenie i uderzył w słup, zatrzymując się na prywatnej posesji. Ciężko ranną pasażerkę zabrał śmigłowiec LPR."
-    },
-    {
-      "title": "Media: po ataku dronów wyłączono reaktor elektrowni jądrowej w Rosji",
-      "link": "https://tvn24.pl/swiat/rosja-wylaczono-reaktor-elektrowni-jadrowej-po-ataku-dronow-ukrainskich-media-st8610220?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 16:16:48 GMT",
-      "description": "Reaktor numer siedem elektrowni jądrowej w pobliżu Nowoworoneża został wyłączony po ataku dronów ukraińskich - przekazał niezależny rosyjskojęzyczny portal Moscow Times. Lokalne władze potwierdziły wyłączenie reaktora, jako przyczynę podając jednak \"usterkę\".",
-      "originalTitle": "Media: po ataku dronów wyłączono reaktor elektrowni jądrowej w Rosji",
-      "originalDescription": "Reaktor numer siedem elektrowni jądrowej w pobliżu Nowoworoneża został wyłączony po ataku dronów ukraińskich - przekazał niezależny rosyjskojęzyczny portal Moscow Times. Lokalne władze potwierdziły wyłączenie reaktora, jako przyczynę podając jednak \"usterkę\"."
     }
   ]
 }
