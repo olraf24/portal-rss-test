@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-08-22T13:39:59.219Z",
+  "lastUpdate": "2025-08-22T14:05:45.646Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Przewidywane ochłodzenie i burze",
+      "title": "Gołębie z Grubej Kaśki przenoszone",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-przed-remontem-grubej-kaski-przeprowadza-mieszkajace-tam-golebie-st8611854?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 14:00:51 GMT",
+      "description": "• Drogowcy otworzyli oferty w przetargu na remont zabytkowego wodozbioru \"Grubej Kaśki\" pod koniec lipca.\n• Zabytkowy wodozbiór \"Grubej Kaśki\" znajduje się między jezdniami alei \"Solidarności\".\n• W zabytkowym wodozbiorem \"Grubej Kaśki\" żyją gołębie, o których bezpieczeństwo muszą zadbać drogowcy przed remontem.",
+      "originalTitle": "Gołębie z \"Grubej Kaśki\" czeka przeprowadzka",
+      "originalDescription": "Drogowcy pod koniec lipca otworzyli oferty w przetargu na remont zabytkowego wodozbioru \"Grubej Kaśki\", która znajduje się między jezdniami alei \"Solidarności\". Wcześniej jednak muszą zadbać o bezpieczeństwo żyjących tam gołębi."
+    },
+    {
+      "title": "Zatrzymano sprawcę ataku w Chorzowie",
+      "link": "https://tvn24.pl/katowice/atak-nozownika-w-chorzowie-sprawca-zatrzymany-st8611879?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 13:56:26 GMT",
+      "description": "Na ulicy Siemianowickiej w Chorzowie doszło do ataku nożownika. Został zatrzymany. Medycy walczą o życie ciężko rannego mężczyzny.",
+      "originalTitle": "Atak nożownika w Chorzowie, sprawca zatrzymany",
+      "originalDescription": "Na ulicy Siemianowickiej w Chorzowie doszło do ataku nożownika. Został zatrzymany. Medycy walczą o życie ciężko rannego mężczyzny."
+    },
+    {
+      "title": "Loteria zniżki podatkowej dla 100 tysięcy osób",
+      "link": "https://tvn24.pl/biznes/ze-swiata/norwegia-100-tysiecy-osob-bedzie-moglo-wygrac-na-loterii-mniejsze-podatki-st8611810?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 13:52:15 GMT",
+      "description": "Rząd w Oslo wymyślił nietypowy sposób na zachęcenie młodych osób do pracy. Na początku 2026 roku spośród Norwegów w wieku od 20 do 35 lat wylosuje tych, którzy będą mogli zmniejszyć swój podatek dochodowy.",
+      "originalTitle": "100 tysięcy osób będzie mogło wygrać na loterii mniejszy podatek",
+      "originalDescription": "Rząd w Oslo wymyślił nietypowy sposób na zachęcenie młodych osób do pracy. Na początku 2026 roku spośród Norwegów w wieku od 20 do 35 lat wylosuje tych, którzy będą mogli zmniejszyć swój podatek dochodowy."
+    },
+    {
+      "title": "Uszkodzony gazociąg. Ewakuowali kilkadziesiąt osób",
+      "link": "https://tvn24.pl/wroclaw/jelenia-gora-uszkodzenie-gazociagu-ewakuowano-61-osob-st8611886?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 13:44:40 GMT",
+      "description": "Podczas prac ziemnych na jednej z jeleniogórskich budów doszło najprawdopodobniej do uszkodzenia gazociągu średniego ciśnienia. Ewakuowano 61 osób.",
+      "originalTitle": "Uszkodzony gazociąg. Ewakuowali kilkadziesiąt osób",
+      "originalDescription": "Podczas prac ziemnych na jednej z jeleniogórskich budów doszło najprawdopodobniej do uszkodzenia gazociągu średniego ciśnienia. Ewakuowano 61 osób."
+    },
+    {
+      "title": "Sekretarz generalny NATO w Kijowie. Rozległ się alarm",
+      "link": "https://tvn24.pl/swiat/alarm-powietrzny-w-czasie-wizyty-sekretarza-generalnego-nato-w-kijowie-st8611851?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 13:43:46 GMT",
+      "description": "W czasie wizyty w Kijowie sekretarza generalnego NATO Marka Ruttego przez kilkadziesiąt minut brzmiał alarm powietrzny. Został ogłoszony w związku z zagrożeniem wystrzelenia rosyjskich rakiet balistycznych.",
+      "originalTitle": "Sekretarz generalny NATO w Kijowie. Rozległ się alarm",
+      "originalDescription": "W czasie wizyty w Kijowie sekretarza generalnego NATO Marka Ruttego przez kilkadziesiąt minut brzmiał alarm powietrzny. Został ogłoszony w związku z zagrożeniem wystrzelenia rosyjskich rakiet balistycznych."
+    },
+    {
+      "title": "W weekend zrobi się chłodno i burzowo",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-w-weekend-zrobi-sie-chlodno-i-burzowo-czy-jest-szansa-na-upal-st8611766?source=rss",
       "pubDate": "Fri, 22 Aug 2025 13:38:40 GMT",
-      "description": "• W sobotę nad Polskę zacznie napływać chłodne, arktyczne powietrze.\n• Przyniesie ono zdecydowane ochłodzenie.\n• Wraz z ochłodzeniem nastąpi deszcz.\n• Wraz z ochłodzeniem nastąpią burze.\n• Wraz z ochłodzeniem może wystąpić grad.\n• W drugiej połowie przyszłego tygodnia czeka nas wyraźne ocieplenie.\n• W drugiej połowie przyszłego tygodnia jest możliwy powrót upałów.",
+      "description": "W sobotę nad Polskę zacznie napływać chłodne, arktyczne powietrze. Przyniesie ono zdecydowane ochłodzenie, a wraz z nim deszcz, burze, a nawet grad. W drugiej połowie przyszłego tygodnia czeka nas wyraźne ocieplenie, a nawet możliwy powrót upałów.",
       "originalTitle": "W weekend zrobi się chłodno i burzowo",
       "originalDescription": "W sobotę nad Polskę zacznie napływać chłodne, arktyczne powietrze. Przyniesie ono zdecydowane ochłodzenie, a wraz z nim deszcz, burze, a nawet grad. W drugiej połowie przyszłego tygodnia czeka nas wyraźne ocieplenie, a nawet możliwy powrót upałów."
     },
     {
-      "title": "Mężczyzna wyciągnięty z Odry",
+      "title": "Podczas ucieczki skoczył do Odry, wyciągnęli go w ostatniej chwili",
       "link": "https://tvn24.pl/wroclaw/wroclaw-36-latek-wskoczyl-do-odry-uciekajac-przed-policja-st8611647?source=rss",
       "pubDate": "Fri, 22 Aug 2025 13:32:36 GMT",
-      "description": "• Mężczyzna ma 36 lat.\n• Mężczyzna próbował uniknąć zatrzymania przez policję.\n• Mężczyzna wskoczył w ubraniu do Odry.\n• Zdarzenie miało miejsce we Wrocławiu.\n• Mężczyzna chciał przepłynąć na drugi brzeg.\n• Mężczyzna był już wycieńczony.\n• Ratownicy wyciągnęli mężczyznę z wody.",
+      "description": "36-letni mężczyzna, próbując uniknąć zatrzymania przez policję, wskoczył w ubraniu do Odry we Wrocławiu. Chciał przepłynąć na drugi brzeg. Był już wycieńczony, gdy z wody wyciągnęli go ratownicy.",
       "originalTitle": "Podczas ucieczki skoczył do Odry, wyciągnęli go w ostatniej chwili",
       "originalDescription": "36-letni mężczyzna, próbując uniknąć zatrzymania przez policję, wskoczył w ubraniu do Odry we Wrocławiu. Chciał przepłynąć na drugi brzeg. Był już wycieńczony, gdy z wody wyciągnęli go ratownicy."
     },
     {
-      "title": "Minister Błaszczak i przeprosiny",
+      "title": "\"Najwyższa pora, aby minister Błaszczak przeprosił\"",
       "link": "https://tvn24.pl/polska/general-stanislaw-koziej-najwyzsza-pora-aby-minister-mariusz-blaszczak-przeprosil-st8611735?source=rss",
       "pubDate": "Fri, 22 Aug 2025 13:25:05 GMT",
-      "description": "• Wszędzie jedna dziedzina wojska jest objęta najściślejszą tajemnicą, a mianowicie są to plany operacyjne.\n• Były szef Biura Bezpieczeństwa Narodowego, generał Stanisław Koziej, wypowiedział się na ten temat w TVN24.\n• Generał Stanisław Koziej mówił o \"kilku wymiarach karygodności\" ujawnienia przez byłego szefa MON tajnych planów wojskowych.\n• Byłym szefem MON, który ujawnił tajne plany wojskowe, jest Mariusz Błaszczak.",
+      "description": "Wszędzie jedna dziedzina wojska jest objęta najściślejszą tajemnicą, a mianowicie są to plany operacyjne - powiedział w TVN24 były szef Biura Bezpieczeństwa Narodowego, generał Stanisław Koziej. Mówił o \"kilku wymiarach karygodności\" ujawnienia przez byłego szefa MON Mariusza Błaszczaka tajnych planów wojskowych.",
       "originalTitle": "\"Najwyższa pora, aby minister Błaszczak przeprosił\"",
       "originalDescription": "Wszędzie jedna dziedzina wojska jest objęta najściślejszą tajemnicą, a mianowicie są to plany operacyjne - powiedział w TVN24 były szef Biura Bezpieczeństwa Narodowego, generał Stanisław Koziej. Mówił o \"kilku wymiarach karygodności\" ujawnienia przez byłego szefa MON Mariusza Błaszczaka tajnych planów wojskowych."
     },
@@ -42,46 +82,6 @@
       "description": "\"Niech to będzie przestroga dla wszystkich polityków, aby dla korzyści partyjnej żaden nie śmiał grać bezpieczeństwem Polski\" - tak wicepremier, szef MSZ Radosław Sikorski skomentował akt oskarżenia wobec między innymi Mariusza Błaszczaka. Poseł Lewicy Tomasz Trela ocenił, że były szef MON \"powinien się spalić ze wstydu, przeprosić i powiedzieć, że już nigdy więcej tak nie zrobi\".",
       "originalTitle": "Akt oskarżenia w sprawie ujawnienia planu obronnego. \"Niech to będzie przestroga\"",
       "originalDescription": "\"Niech to będzie przestroga dla wszystkich polityków, aby dla korzyści partyjnej żaden nie śmiał grać bezpieczeństwem Polski\" - tak wicepremier, szef MSZ Radosław Sikorski skomentował akt oskarżenia wobec między innymi Mariusza Błaszczaka. Poseł Lewicy Tomasz Trela ocenił, że były szef MON \"powinien się spalić ze wstydu, przeprosić i powiedzieć, że już nigdy więcej tak nie zrobi\"."
-    },
-    {
-      "title": "Rząd likwiduje najstarszy podatek w tym kraju",
-      "link": "https://tvn24.pl/biznes/ze-swiata/dania-rzad-likwiduje-najstarszy-podatek-w-tym-kraju-st8611760?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 13:06:28 GMT",
-      "description": "Podatkowe zmiany w Danii. Zerowy VAT na książki, likwidacja podatków od czekolady i kawy, a także skokowe obniżenie podatku od zużycia prądu - takie działania zapowiedział rząd w Kopenhadze.",
-      "originalTitle": "Rząd likwiduje najstarszy podatek w tym kraju",
-      "originalDescription": "Podatkowe zmiany w Danii. Zerowy VAT na książki, likwidacja podatków od czekolady i kawy, a także skokowe obniżenie podatku od zużycia prądu - takie działania zapowiedział rząd w Kopenhadze."
-    },
-    {
-      "title": "ONZ po raz pierwszy ogłosiła, że w Strefie Gazy panuje głód",
-      "link": "https://tvn24.pl/swiat/sytuacja-w-strefie-gazy-onz-w-rejonie-miasta-gazy-trwa-glod-st8611436?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:57:46 GMT",
-      "description": "Na terenie Strefy Gazy panuje głód - ogłosiła w piątek po raz pierwszy Organizacja Narodów Zjednoczonych w badaniu dotyczącym sytuacji w regionie ogarniętym wojną. Według ONZ, klęska głodu została sztucznie wywołana i wymaga natychmiastowej reakcji.",
-      "originalTitle": "ONZ po raz pierwszy ogłosiła, że w Strefie Gazy panuje głód",
-      "originalDescription": "Na terenie Strefy Gazy panuje głód - ogłosiła w piątek po raz pierwszy Organizacja Narodów Zjednoczonych w badaniu dotyczącym sytuacji w regionie ogarniętym wojną. Według ONZ, klęska głodu została sztucznie wywołana i wymaga natychmiastowej reakcji."
-    },
-    {
-      "title": "Odkryto nowy księżyc Urana",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/odkryto-nowy-ksiezyc-urana-st8610995?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:56:01 GMT",
-      "description": "Naukowcy za pomocą Kosmicznego Teleskopu Jamesa Webba odkryli kolejny księżyc, który krąży wokół Urana. Jak donoszą badacze z NASA, tym samym zwiększyła się liczba znanych naturalnych satelitów tego lodowego giganta do 29.",
-      "originalTitle": "Odkryto nowy księżyc Urana",
-      "originalDescription": "Naukowcy za pomocą Kosmicznego Teleskopu Jamesa Webba odkryli kolejny księżyc, który krąży wokół Urana. Jak donoszą badacze z NASA, tym samym zwiększyła się liczba znanych naturalnych satelitów tego lodowego giganta do 29."
-    },
-    {
-      "title": "Porwanie 26-latka. Dwie osoby w areszcie, za trzecią wystawili list gończy",
-      "link": "https://tvn24.pl/poznan/konin-jest-podejrzany-o-pozbawienie-wolnosci-ze-szczegolnym-udreczeniem-list-gonczy-za-alanem-bartczakiem-st8611741?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:50:34 GMT",
-      "description": "Konińska policja poszukuje Alana Bartczaka. Mężczyzna jest podejrzany między innymi o pozbawienie wolności ze szczególnym udręczeniem 26-latka. W sprawie wcześniej zatrzymano dwie osoby, w tym byłą partnerkę poszkodowanego.",
-      "originalTitle": "Porwanie 26-latka. Dwie osoby w areszcie, za trzecią wystawili list gończy",
-      "originalDescription": "Konińska policja poszukuje Alana Bartczaka. Mężczyzna jest podejrzany między innymi o pozbawienie wolności ze szczególnym udręczeniem 26-latka. W sprawie wcześniej zatrzymano dwie osoby, w tym byłą partnerkę poszkodowanego."
-    },
-    {
-      "title": "Kupowali zestawy dla kart Pokémon, wyrzucali jedzenie. Sieć przeprasza za akcję promocyjną",
-      "link": "https://tvn24.pl/biznes/ze-swiata/japonia-kupowali-zestawy-dla-kart-pokemon-wyrzucali-jedzenie-siec-przeprasza-za-akcje-promocyjna-st8611416?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:46:00 GMT",
-      "description": "Sieć McDonald's w Japonii ogłosiła, że przekłada promocję, w której miały być wykorzystane zabawki związane z serią popularnych komiksów \"One Piece\". Powodem są skargi odnośnie do niedawnej akcji marketingowej z Pokémonami. Internet zalały wówczas zdjęcia wyrzucanego jedzenia, część kupujących była bowiem zainteresowana wyłącznie dodawanymi do zestawów kartami. Wiele z nich było potem odsprzedawanych na aukcjach, osiągając wysokie ceny.",
-      "originalTitle": "Kupowali zestawy dla kart Pokémon, wyrzucali jedzenie. Sieć przeprasza za akcję promocyjną",
-      "originalDescription": "Sieć McDonald's w Japonii ogłosiła, że przekłada promocję, w której miały być wykorzystane zabawki związane z serią popularnych komiksów \"One Piece\". Powodem są skargi odnośnie do niedawnej akcji marketingowej z Pokémonami. Internet zalały wówczas zdjęcia wyrzucanego jedzenia, część kupujących była bowiem zainteresowana wyłącznie dodawanymi do zestawów kartami. Wiele z nich było potem odsprzedawanych na aukcjach, osiągając wysokie ceny."
     }
   ]
 }
