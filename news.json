@@ -1,37 +1,77 @@
 {
-  "lastUpdate": "2025-08-22T12:46:56.272Z",
+  "lastUpdate": "2025-08-22T13:13:02.472Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Sieć sklepów wycofuje akcję promocyjną",
+      "title": "Akt oskarżenia w sprawie ujawnienia planu",
+      "link": "https://tvn24.pl/polska/akt-oskarzenia-wobec-miedzy-innymi-mariusza-blaszczaka-politycy-komentuja-st8611474?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 13:06:35 GMT",
+      "description": "• Wicepremier, szef MSZ Radosław Sikorski skomentował akt oskarżenia wobec między innymi Mariusza Błaszczaka.\n• Radosław Sikorski stwierdził, że akt oskarżenia powinien być przestrogą dla wszystkich polityków, aby nie grali bezpieczeństwem Polski dla korzyści partyjnej.\n• Poseł Lewicy Tomasz Trela ocenił sytuację związaną z Mariuszem Błaszczakiem.\n• Tomasz Trela uważa, że były szef MON Mariusz Błaszczak powinien się spalić ze wstydu.\n• Tomasz Trela uważa, że Mariusz Błaszczak powinien przeprosić.\n• Tomasz Trela uważa, że Mariusz Błaszczak powinien powiedzieć, że już nigdy więcej nie zrobi czegoś podobnego.",
+      "originalTitle": "Akt oskarżenia w sprawie ujawnienia planu obronnego. \"Niech to będzie przestroga\"",
+      "originalDescription": "\"Niech to będzie przestroga dla wszystkich polityków, aby dla korzyści partyjnej żaden nie śmiał grać bezpieczeństwem Polski\" - tak wicepremier, szef MSZ Radosław Sikorski skomentował akt oskarżenia wobec między innymi Mariusza Błaszczaka. Poseł Lewicy Tomasz Trela ocenił, że były szef MON \"powinien się spalić ze wstydu, przeprosić i powiedzieć, że już nigdy więcej tak nie zrobi\"."
+    },
+    {
+      "title": "Rząd znosi podatek od 1920 roku",
+      "link": "https://tvn24.pl/biznes/ze-swiata/dania-rzad-likwiduje-najstarszy-podatek-w-tym-kraju-st8611760?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 13:06:28 GMT",
+      "description": "• Podatkowe zmiany zostały zapowiedziane w Danii.\n• Zerowy VAT zostanie wprowadzony na książki.\n• Likwidacja podatków od czekolady jest planowana.\n• Likwidacja podatków od kawy również jest planowana.\n• Skokowe obniżenie podatku od zużycia prądu zostanie wprowadzone.\n• Rząd w Kopenhadze jest odpowiedzialny za te zapowiedzi.",
+      "originalTitle": "Rząd likwiduje najstarszy podatek w tym kraju",
+      "originalDescription": "Podatkowe zmiany w Danii. Zerowy VAT na książki, likwidacja podatków od czekolady i kawy, a także skokowe obniżenie podatku od zużycia prądu - takie działania zapowiedział rząd w Kopenhadze."
+    },
+    {
+      "title": "ONZ po raz pierwszy ogłosiła, że w Strefie Gazy panuje głód",
+      "link": "https://tvn24.pl/swiat/sytuacja-w-strefie-gazy-onz-w-rejonie-miasta-gazy-trwa-glod-st8611436?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 12:57:46 GMT",
+      "description": "Na terenie Strefy Gazy panuje głód - ogłosiła w piątek po raz pierwszy Organizacja Narodów Zjednoczonych w badaniu dotyczącym sytuacji w regionie ogarniętym wojną. Według ONZ, klęska głodu została sztucznie wywołana i wymaga natychmiastowej reakcji.",
+      "originalTitle": "ONZ po raz pierwszy ogłosiła, że w Strefie Gazy panuje głód",
+      "originalDescription": "Na terenie Strefy Gazy panuje głód - ogłosiła w piątek po raz pierwszy Organizacja Narodów Zjednoczonych w badaniu dotyczącym sytuacji w regionie ogarniętym wojną. Według ONZ, klęska głodu została sztucznie wywołana i wymaga natychmiastowej reakcji."
+    },
+    {
+      "title": "Odkryto nowy księżyc Urana",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/odkryto-nowy-ksiezyc-urana-st8610995?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 12:56:01 GMT",
+      "description": "Naukowcy za pomocą Kosmicznego Teleskopu Jamesa Webba odkryli kolejny księżyc, który krąży wokół Urana. Jak donoszą badacze z NASA, tym samym zwiększyła się liczba znanych naturalnych satelitów tego lodowego giganta do 29.",
+      "originalTitle": "Odkryto nowy księżyc Urana",
+      "originalDescription": "Naukowcy za pomocą Kosmicznego Teleskopu Jamesa Webba odkryli kolejny księżyc, który krąży wokół Urana. Jak donoszą badacze z NASA, tym samym zwiększyła się liczba znanych naturalnych satelitów tego lodowego giganta do 29."
+    },
+    {
+      "title": "Porwanie 26-latka. Dwie osoby w areszcie, za trzecią wystawili list gończy",
+      "link": "https://tvn24.pl/poznan/konin-jest-podejrzany-o-pozbawienie-wolnosci-ze-szczegolnym-udreczeniem-list-gonczy-za-alanem-bartczakiem-st8611741?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 12:50:34 GMT",
+      "description": "Konińska policja poszukuje Alana Bartczaka. Mężczyzna jest podejrzany między innymi o pozbawienie wolności ze szczególnym udręczeniem 26-latka. W sprawie wcześniej zatrzymano dwie osoby, w tym byłą partnerkę poszkodowanego.",
+      "originalTitle": "Porwanie 26-latka. Dwie osoby w areszcie, za trzecią wystawili list gończy",
+      "originalDescription": "Konińska policja poszukuje Alana Bartczaka. Mężczyzna jest podejrzany między innymi o pozbawienie wolności ze szczególnym udręczeniem 26-latka. W sprawie wcześniej zatrzymano dwie osoby, w tym byłą partnerkę poszkodowanego."
+    },
+    {
+      "title": "Kupowali zestawy dla kart Pokémon, wyrzucali jedzenie. Sieć przeprasza za akcję promocyjną",
       "link": "https://tvn24.pl/biznes/ze-swiata/japonia-kupowali-zestawy-dla-kart-pokemon-wyrzucali-jedzenie-siec-przeprasza-za-akcje-promocyjna-st8611416?source=rss",
       "pubDate": "Fri, 22 Aug 2025 12:46:00 GMT",
-      "description": "• Sieć McDonald's w Japonii ogłosiła, że przekłada promocję, w której miały być wykorzystane zabawki związane z serią popularnych komiksów \"One Piece\".\n• Powodem przekładania promocji są skargi odnośnie do niedawnej akcji marketingowej z Pokémonami.\n• W trakcie akcji marketingowej z Pokémonami internet zalały zdjęcia wyrzucanego jedzenia.\n• Część kupujących była zainteresowana wyłącznie dodawanymi do zestawów kartami z Pokémonami.\n• Wiele kart z Pokémonami było potem odsprzedawanych na aukcjach.\n• Karty z Pokémonami osiągały wysokie ceny na aukcjach.",
+      "description": "Sieć McDonald's w Japonii ogłosiła, że przekłada promocję, w której miały być wykorzystane zabawki związane z serią popularnych komiksów \"One Piece\". Powodem są skargi odnośnie do niedawnej akcji marketingowej z Pokémonami. Internet zalały wówczas zdjęcia wyrzucanego jedzenia, część kupujących była bowiem zainteresowana wyłącznie dodawanymi do zestawów kartami. Wiele z nich było potem odsprzedawanych na aukcjach, osiągając wysokie ceny.",
       "originalTitle": "Kupowali zestawy dla kart Pokémon, wyrzucali jedzenie. Sieć przeprasza za akcję promocyjną",
       "originalDescription": "Sieć McDonald's w Japonii ogłosiła, że przekłada promocję, w której miały być wykorzystane zabawki związane z serią popularnych komiksów \"One Piece\". Powodem są skargi odnośnie do niedawnej akcji marketingowej z Pokémonami. Internet zalały wówczas zdjęcia wyrzucanego jedzenia, część kupujących była bowiem zainteresowana wyłącznie dodawanymi do zestawów kartami. Wiele z nich było potem odsprzedawanych na aukcjach, osiągając wysokie ceny."
     },
     {
-      "title": "NATO i Polska omawiają incydent z dronem",
+      "title": "Szef NATO: jesteśmy w kontakcie z Polską w sprawie incydentu z dronem",
       "link": "https://tvn24.pl/swiat/szef-nato-jestesmy-w-kontakcie-z-polska-w-sprawie-incydentu-z-dronem-st8611796?source=rss",
       "pubDate": "Fri, 22 Aug 2025 12:41:52 GMT",
-      "description": "• NATO pozostaje w kontakcie z Polską w sprawie ostatniego incydentu z dronem.\n• Polska powinna w jakiś sposób zareagować na tę sytuację.\n• Oświadczenie zostało złożone przez sekretarza generalnego Sojuszu.\n• Sekretarzem generalnym Sojuszu jest Mark Rutte.\n• Oświadczenie zostało złożone w piątek.",
+      "description": "NATO pozostaje w kontakcie z Polską w sprawie ostatniego incydentu z dronem; Polska powinna w jakiś sposób zareagować na tę sytuację - oświadczył w piątek sekretarz generalny Sojuszu Mark Rutte.",
       "originalTitle": "Szef NATO: jesteśmy w kontakcie z Polską w sprawie incydentu z dronem",
       "originalDescription": "NATO pozostaje w kontakcie z Polską w sprawie ostatniego incydentu z dronem; Polska powinna w jakiś sposób zareagować na tę sytuację - oświadczył w piątek sekretarz generalny Sojuszu Mark Rutte."
     },
     {
-      "title": "Pożar lasu",
+      "title": "Fajerwerki i pożar w lesie",
       "link": "https://tvn24.pl/opole/kedzierzyn-kozle-fajerwerki-doprowadzily-do-pozaru-w-lesie-zatrzymano-28-latka-st8611444?source=rss",
       "pubDate": "Fri, 22 Aug 2025 12:37:53 GMT",
-      "description": "• Zabawa fajerwerkami zakończyła się pożarem lasu w Kędzierzynie-Koźlu.\n• Pożar lasu wystąpił w województwie Opolskim.\n• Ogień objął około siedmiu arów młodnika.\n• Policja zatrzymała 28-latka w związku z pożarem.\n• Zatrzymany miał odpalać materiały pirotechniczne w lesie.",
+      "description": "Zabawa fajerwerkami zakończyła się pożarem lasu w Kędzierzynie-Koźlu (Opolskie). Kilka dni temu ogień objął około siedmiu arów młodnika. Policja zatrzymała 28-latka, który miał odpalać materiały pirotechniczne w lesie.",
       "originalTitle": "Fajerwerki i pożar w lesie",
       "originalDescription": "Zabawa fajerwerkami zakończyła się pożarem lasu w Kędzierzynie-Koźlu (Opolskie). Kilka dni temu ogień objął około siedmiu arów młodnika. Policja zatrzymała 28-latka, który miał odpalać materiały pirotechniczne w lesie."
     },
     {
-      "title": "Wprowadzono ścieżkę pacjenta kardiologicznego",
+      "title": "Koniec kolejek do kardiologa? Wytyczono ścieżkę pacjenta",
       "link": "https://tvn24.pl/zdrowie/krajowa-siec-kardiologiczna-nowa-organizacja-opieki-kto-dostanie-skierowanie-a-kto-zostanie-w-poz-st8611344?source=rss",
       "pubDate": "Fri, 22 Aug 2025 12:37:46 GMT",
-      "description": "• Maksymalnie 90 dni od wystawienia skierowania do wizyty u kardiologa.\n• Większa liczba lekarzy lekarzy POZ dla osób z chorobami układu krążenia.\n• Projekt nowego rozporządzenia Ministerstwa Zdrowia dotyczy opieki kardiologicznej.",
+      "description": "Maksymalnie 90 dni od wystawienia skierowania do wizyty u kardiologa, większa liczba lekarzy lekarzy POZ dla osób z chorobami układu krążenia. Takie zmiany zakłada między innymi projekt nowego rozporządzenia Ministerstwa Zdrowia dotyczący opieki kardiologicznej. Co jeszcze przewiduje?",
       "originalTitle": "Koniec kolejek do kardiologa? Wytyczono ścieżkę pacjenta",
       "originalDescription": "Maksymalnie 90 dni od wystawienia skierowania do wizyty u kardiologa, większa liczba lekarzy lekarzy POZ dla osób z chorobami układu krążenia. Takie zmiany zakłada między innymi projekt nowego rozporządzenia Ministerstwa Zdrowia dotyczący opieki kardiologicznej. Co jeszcze przewiduje?"
     },
@@ -42,46 +82,6 @@
       "description": "Kotka Blue w Olkuszu zakradła się do samochodu sąsiada i przypadkowo pojechała z nim do Chorwacji. Po kilku dniach nad Adriatykiem wróci do Polski.",
       "originalTitle": "Ukryła się w zderzaku auta. Tak Blue pojechała z Olkusza nad Adriatyk",
       "originalDescription": "Kotka Blue w Olkuszu zakradła się do samochodu sąsiada i przypadkowo pojechała z nim do Chorwacji. Po kilku dniach nad Adriatykiem wróci do Polski."
-    },
-    {
-      "title": "Na Kurylach brakuje benzyny. Wprowadzono limity na stacjach",
-      "link": "https://tvn24.pl/swiat/w-rosji-brakuje-paliwa-powodem-ataki-dronow-ukrainskich-st8610374?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:24:15 GMT",
-      "description": "Wyspy Kurylskie są kolejnym regionem w Rosji, gdzie zaczyna brakować benzyny - poinformowały rosyjskie media. Podały, że w tym miesiącu cztery krajowe rafinerie wstrzymały produkcję z powodu ataków dronów ukraińskich.",
-      "originalTitle": "Na Kurylach brakuje benzyny. Wprowadzono limity na stacjach",
-      "originalDescription": "Wyspy Kurylskie są kolejnym regionem w Rosji, gdzie zaczyna brakować benzyny - poinformowały rosyjskie media. Podały, że w tym miesiącu cztery krajowe rafinerie wstrzymały produkcję z powodu ataków dronów ukraińskich."
-    },
-    {
-      "title": "Prace w czterech dzielnicach. Będą zmiany w organizacji ruchu",
-      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-prace-drogowe-w-przedostatni-weekend-wakacji-lista-utrudnien-st8608805?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:10:55 GMT",
-      "description": "Przedostatni weekend wakacji drogowcy wykorzystają na układanie nowej nawierzchni na wyjeździe z osiedla Nowy Rembertów. Asfaltowanie planują też na ostatnim odcinku Jana III Sobieskiego i na Kijowskiej. Utrudnienia pojawią się także w Wawrze, gdzie powstało nowe rondo. Będą objazdy i zmiany w kursowaniu komunikacji miejskiej.",
-      "originalTitle": "Prace w czterech dzielnicach. Będą zmiany w organizacji ruchu",
-      "originalDescription": "Przedostatni weekend wakacji drogowcy wykorzystają na układanie nowej nawierzchni na wyjeździe z osiedla Nowy Rembertów. Asfaltowanie planują też na ostatnim odcinku Jana III Sobieskiego i na Kijowskiej. Utrudnienia pojawią się także w Wawrze, gdzie powstało nowe rondo. Będą objazdy i zmiany w kursowaniu komunikacji miejskiej."
-    },
-    {
-      "title": "Spotkanie Zełenskiego z Putinem. Ławrow o tym, co stoi na przeszkodzie",
-      "link": "https://tvn24.pl/swiat/ukraina-rosja-spotkanie-zelenskiego-z-putinem-lawrow-o-tym-co-stoi-na-przeszkodzie-st8611626?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:03:56 GMT",
-      "description": "Spotkanie rosyjskiego przywódcy Władimira Putina i prezydenta Ukrainy Wołodymyra Zełenskiego nie zostało zaplanowane - oznajmił szef rosyjskiej dyplomacji Siergiej Ławrow. Jak dodał, Putin jest gotowy spotkać się z Zełenskim, gdy będzie gotowy porządek obrad na szczyt. \"Rosja robi wszystko, aby uniemożliwić spotkanie\" - skomentował Zełenski.",
-      "originalTitle": "Spotkanie Zełenskiego z Putinem. Ławrow o tym, co stoi na przeszkodzie",
-      "originalDescription": "Spotkanie rosyjskiego przywódcy Władimira Putina i prezydenta Ukrainy Wołodymyra Zełenskiego nie zostało zaplanowane - oznajmił szef rosyjskiej dyplomacji Siergiej Ławrow. Jak dodał, Putin jest gotowy spotkać się z Zełenskim, gdy będzie gotowy porządek obrad na szczyt. \"Rosja robi wszystko, aby uniemożliwić spotkanie\" - skomentował Zełenski."
-    },
-    {
-      "title": "Na schodach leżała zakrwawiona kobieta. Jej partner uciekł",
-      "link": "https://tvn24.pl/katowice/myslowice-na-schodach-lezala-zakrwawiona-kobieta-jej-partner-z-zarzutem-usilowania-zabojstwa-st8611271?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 12:01:59 GMT",
-      "description": "41-latek z Mysłowic usłyszał zarzut usiłowania zabójstwa swojej partnerki. Kobieta została ugodzona kilkakrotnie nożem, do szpitala trafiła w ciężkim stanie. Podejrzany o atak został tymczasowo aresztowany.",
-      "originalTitle": "Na schodach leżała zakrwawiona kobieta. Jej partner uciekł",
-      "originalDescription": "41-latek z Mysłowic usłyszał zarzut usiłowania zabójstwa swojej partnerki. Kobieta została ugodzona kilkakrotnie nożem, do szpitala trafiła w ciężkim stanie. Podejrzany o atak został tymczasowo aresztowany."
-    },
-    {
-      "title": "Pytania o Świątek przed US Open. \"To on robi najlepszą robotę w jej teamie\"",
-      "link": "https://tvn24.pl/eurosport/iga-swiatek-gotowa-do-startu-w-us-open-2025-jej-szanse-ocenia-lech-sidor-st8611270?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 11:52:44 GMT",
-      "description": "W niedzielę rusza US Open, ostatni wielkoszlemowy turniej tenisowy w sezonie. Jedną z faworytek będzie odradzająca się po słabszym okresie Iga Świątek, ale uwagę polskich kibiców zwróci na siebie także Naomi Osaka. Dla Japonki to pierwszy start w Wielkim Szlemie pod wodzą Tomasza Wiktorowskiego. - Trener zadanie ma niełatwe, bo cały czas będzie na cenzurowanym - twierdzi Lech Sidor.",
-      "originalTitle": "Pytania o Świątek przed US Open. \"To on robi najlepszą robotę w jej teamie\"",
-      "originalDescription": "W niedzielę rusza US Open, ostatni wielkoszlemowy turniej tenisowy w sezonie. Jedną z faworytek będzie odradzająca się po słabszym okresie Iga Świątek, ale uwagę polskich kibiców zwróci na siebie także Naomi Osaka. Dla Japonki to pierwszy start w Wielkim Szlemie pod wodzą Tomasza Wiktorowskiego. - Trener zadanie ma niełatwe, bo cały czas będzie na cenzurowanym - twierdzi Lech Sidor."
     }
   ]
 }
