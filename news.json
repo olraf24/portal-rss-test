@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-08-22T11:05:17.975Z",
+  "lastUpdate": "2025-08-22T11:34:28.609Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Stanowisko Trumpa w sprawie Rosji",
+      "title": "Awaria rurociągu, Węgry bez dostaw ropy",
+      "link": "https://tvn24.pl/swiat/ukraina-atak-dronow-na-rosyjski-rurociag-jest-nagranie-st8611368?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 11:25:01 GMT",
+      "description": "• Dowódca ukraińskich Sił Systemów Bezzałogowych to Robert Broudi.\n• Robert Broudi opublikował nagranie z ataku na przepompownię ropy naftowej Uniecza.\n• Przepompownia ropy naftowej Uniecza znajduje się w obwodzie briańskim.\n• Przepompownia ropy naftowej Uniecza jest kluczowym elementem rurociągu Przyjaźń.\n• Rurociąg Przyjaźń służy do transportu ropy z Rosji na Węgry i Słowację.",
+      "originalTitle": "Atak na rurociąg, Węgry bez ropy. Ukraińcy chwalą się nagraniem",
+      "originalDescription": "Dowódca ukraińskich Sił Systemów Bezzałogowych Robert Broudi opublikował nagranie z ataku na przepompownię ropy naftowej Uniecza w obwodzie briańskim. Jest ona kluczowym elementem rurociągu Przyjaźń, którym z Rosji ropa płynie na Węgry i Słowację."
+    },
+    {
+      "title": "Wypadek w Hucie Katowice",
+      "link": "https://tvn24.pl/katowice/dabrowa-gornicza-wypadek-w-hucie-katowice-sa-ranni-st8611405?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 11:21:50 GMT",
+      "description": "Trzy osoby zostały poparzone parą wodną na terenie Huty Katowice w Dąbrowie Górniczej. Najciężej ranny mężczyzna trafił do Centrum Leczenia Oparzeń w Siemianowicach Śląskich.",
+      "originalTitle": "Wypadek w Hucie Katowice. Są ranni",
+      "originalDescription": "Trzy osoby zostały poparzone parą wodną na terenie Huty Katowice w Dąbrowie Górniczej. Najciężej ranny mężczyzna trafił do Centrum Leczenia Oparzeń w Siemianowicach Śląskich."
+    },
+    {
+      "title": "NBP informuje o potencjalnej stracie związanej z kursem złotego",
+      "link": "https://tvn24.pl/biznes/najnowsze/nbp-ostrzega-przed-ogromna-strata-wszystko-przez-zlotego-st8611431?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 11:16:49 GMT",
+      "description": "• Narodowy Bank Polski ostrzega w swoim komunikacie przed ujemnym wynikiem finansowym.\n• Przyczyną ujemnego wyniku finansowego jest umocnienie złotego.\n• NBP podał w piątek w komunikacie, że strata może przekroczyć nawet 30 mld zł, jeśli kursy walut utrzymałyby się na poziomie z czerwca.",
+      "originalTitle": "NBP ostrzega przed ogromną stratą. Wszystko przez złotego",
+      "originalDescription": "Narodowy Bank Polski ostrzega w swoim komunikacie przed ujemnym wynikiem finansowym. Wszystko przez umocnienie złotego. \"Jeśli kursy walut utrzymałyby się na poziomie z czerwca, strata może przekroczyć nawet 30 mld zł\" - podał w piątek NBP w komunikacie."
+    },
+    {
+      "title": "Zalane drogi, ewakuacje, stan wyjątkowy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/huragan-erin-zalane-drogi-ewakuacje-stan-wyjatkowy-st8611233?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 11:15:30 GMT",
+      "description": "Huragan Erin oddala się powoli od wschodniego wybrzeża Stanów Zjednoczonych, gdzie wywołał powodzie. Wysokie fale spowodowały, że zalane zostały wyspy w Karolinie Północnej. Pod wodą znalazły się też ulice w New Jersey.",
+      "originalTitle": "Zalane drogi, ewakuacje, stan wyjątkowy",
+      "originalDescription": "Huragan Erin oddala się powoli od wschodniego wybrzeża Stanów Zjednoczonych, gdzie wywołał powodzie. Wysokie fale spowodowały, że zalane zostały wyspy w Karolinie Północnej. Pod wodą znalazły się też ulice w New Jersey."
+    },
+    {
+      "title": "Zaginął pięciomiesięczny Borys. Komunikat policji",
+      "link": "https://tvn24.pl/katowice/gliwice-zaginal-pieciomiesieczny-borys-komunikat-policji-st8611415?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 11:15:02 GMT",
+      "description": "Policjanci z Gliwic poszukują pięciomiesięcznego Borysa Pierzchały z Pryszowic. Jak przekazali, dziecko zostało zabrane przez 17-letnią matkę z pieczy zastępczej, \"gdzie oboje przebywali\".",
+      "originalTitle": "Zaginął pięciomiesięczny Borys. Komunikat policji",
+      "originalDescription": "Policjanci z Gliwic poszukują pięciomiesięcznego Borysa Pierzchały z Pryszowic. Jak przekazali, dziecko zostało zabrane przez 17-letnią matkę z pieczy zastępczej, \"gdzie oboje przebywali\"."
+    },
+    {
+      "title": "Po intensywnych opadach woda zalewa działkowców. Urzędnicy mają plan",
+      "link": "https://tvn24.pl/szczecin/szczecin-zalewanie-rodzinnych-ogrodow-dzialkowych-gorki-ustowskie-urzednicy-maja-plan-st8611057?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 11:04:36 GMT",
+      "description": "Problematyczny niedrożny przepust, który powoduje zalewanie działek na terenie szczecińskich Rodzinnych Ogrodów Działkowych \"Górki Ustowskie\", zostanie usunięty i odtworzony. Podczas ostatnich ulew kilkadziesiąt działek zostało zalanych.",
+      "originalTitle": "Po intensywnych opadach woda zalewa działkowców. Urzędnicy mają plan",
+      "originalDescription": "Problematyczny niedrożny przepust, który powoduje zalewanie działek na terenie szczecińskich Rodzinnych Ogrodów Działkowych \"Górki Ustowskie\", zostanie usunięty i odtworzony. Podczas ostatnich ulew kilkadziesiąt działek zostało zalanych."
+    },
+    {
+      "title": "Trump \"zrozumiał, że Rosja nie chce pokoju\"",
       "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-donald-trump-zrozumial-ze-rosja-nie-chce-pokoju-st8611043?source=rss",
       "pubDate": "Fri, 22 Aug 2025 10:57:38 GMT",
-      "description": "• Donald Trump zrozumiał, że Rosja nie chce pokoju, a jedynie przedłużenia niestabilności.\n• Wypowiedź ta została złożona w wywiadzie dla \"Le Parisien\".\n• Osobą, która wyraziła tę opinię, jest doradca ukraińskiego prezydenta Wołodymyra Zełenskiego, Mychajło Podolak.\n• Mychajło Podolak poruszył również temat niebezpiecznego scenariusza, którego trzeba uniknąć.\n• Wywiad, w którym wypowiedział się Mychajło Podolak, dotyczył sytuacji związanej z Rosją i Ukrainą.",
+      "description": "Donald Trump zrozumiał, że Rosja nie chce pokoju, a jedynie przedłużenia niestabilności - powiedział w wywiadzie dla \"Le Parisien\" doradca ukraińskiego prezydenta Wołodymyra Zełenskiego, Mychajło Podolak. Mówił również o niebezpiecznym scenariuszu, którego trzeba uniknąć.",
       "originalTitle": "Trump \"zrozumiał, że Rosja nie chce pokoju\"",
       "originalDescription": "Donald Trump zrozumiał, że Rosja nie chce pokoju, a jedynie przedłużenia niestabilności - powiedział w wywiadzie dla \"Le Parisien\" doradca ukraińskiego prezydenta Wołodymyra Zełenskiego, Mychajło Podolak. Mówił również o niebezpiecznym scenariuszu, którego trzeba uniknąć."
     },
     {
-      "title": "Polityka USA za rządów Trumpa",
+      "title": "(Nie)skończone wojny Trumpa. Jak mówi prezydent USA, a jak jest naprawdę",
       "link": "https://tvn24.pl/swiat/nie-skonczone-wojny-trumpa-jak-mowi-prezydent-usa-a-jak-jest-naprawde-st8610320?source=rss",
       "pubDate": "Fri, 22 Aug 2025 10:57:19 GMT",
-      "description": "• Prezydent USA Donald Trump powtarza wielokrotnie, że \"zakończyłem sześć wojen\" podczas rozmów z szefami różnych państw.\n• Analiza sytuacji w krajach wskazywanych przez Trumpa pokazuje, że jego deklaracje są na wyrost.\n• Prezydentowi Stanów Zjednoczonych nie można odmówić świadomości posiadania narzędzi globalnej polityki jako szef supermocarstwa.",
+      "description": "\"Zakończyłem sześć wojen\" - powtarza wielokrotnie prezydent USA Donald Trump podczas rozmów z szefami różnych państw. Analiza sytuacji w krajach wskazywanych przez Trumpa pokazuje jednak, że jego deklaracje są na wyrost. Lecz obecnemu prezydentowi Stanów Zjednoczonych nie można odmówić tego, że jako szef supermocarstwa ma świadomość posiadania narzędzi globalnej polityki.",
       "originalTitle": "(Nie)skończone wojny Trumpa. Jak mówi prezydent USA, a jak jest naprawdę",
       "originalDescription": "\"Zakończyłem sześć wojen\" - powtarza wielokrotnie prezydent USA Donald Trump podczas rozmów z szefami różnych państw. Analiza sytuacji w krajach wskazywanych przez Trumpa pokazuje jednak, że jego deklaracje są na wyrost. Lecz obecnemu prezydentowi Stanów Zjednoczonych nie można odmówić tego, że jako szef supermocarstwa ma świadomość posiadania narzędzi globalnej polityki."
     },
     {
-      "title": "List Orbana do Trumpa ws. Ukrainy",
+      "title": "Orban napisał do Trumpa w sprawie ukraińskich ataków",
       "link": "https://tvn24.pl/swiat/viktor-orban-napisal-do-donalda-trumpa-w-sprawie-ukrainskich-atakow-na-rurociag-st8611351?source=rss",
       "pubDate": "Fri, 22 Aug 2025 10:52:44 GMT",
       "description": "Premier Węgier Viktor Orban skierował list do prezydenta USA w sprawie ukraińskich ataków na rurociąg Przyjaźń - przekazał dziennik \"Magyar Nemzet\". Donald Trump odpowiedział, że jest \"bardzo zły\".",
@@ -31,57 +79,9 @@
       "title": "Pięciolatek niezauważony wyszedł z przedszkola. \"Dziecko nie powinno opuścić placówki, ale to się zdarzyło\"",
       "link": "https://tvn24.pl/bialystok/augustow-pieciolatek-wyszedl-z-przedszkola-personel-tego-nie-zauwazyl-st8609165?source=rss",
       "pubDate": "Thu, 21 Aug 2025 09:42:48 GMT",
-      "description": "Do policji w krótkim czasie wpłynęło kilka zgłoszeń. Po Augustowie (Podlaskie) chodził samotny pięcioletni chłopiec. Okazało się, że wyszedł z przedszkola, a nikt z personelu tego nie zauważył. Pracownicy zorientowali się, że nie ma dziecka dopiero, kiedy przyszli po niego rodzice.",
+      "description": "Do policji w krótkim czasie wpłynęło kilka zgłoszeń. Po Augustowie (Podlaskie) chodził samotny pięcioletni chłopiec. Okazało się, że wyszedł z przedszkola, a nikt z personelu tego nie zauważył. Pracownicy zorientowali się, że dziecka nie ma, dopiero kiedy przyszli po niego rodzice.",
       "originalTitle": "Pięciolatek niezauważony wyszedł z przedszkola. \"Dziecko nie powinno opuścić placówki, ale to się zdarzyło\"",
-      "originalDescription": "Do policji w krótkim czasie wpłynęło kilka zgłoszeń. Po Augustowie (Podlaskie) chodził samotny pięcioletni chłopiec. Okazało się, że wyszedł z przedszkola, a nikt z personelu tego nie zauważył. Pracownicy zorientowali się, że nie ma dziecka dopiero, kiedy przyszli po niego rodzice."
-    },
-    {
-      "title": "Jest akt oskarżenia wobec Błaszczaka, Cenckiewicza i dwóch innych osób",
-      "link": "https://tvn24.pl/polska/jest-akt-oskarzenia-wobec-blaszczaka-cenckiewicza-i-dwoch-innych-osob-st8610986?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 09:58:44 GMT",
-      "description": "Prokuratura skierowała do sądu akt oskarżenia przeciwko Mariuszowi Błaszczakowi, Sławomirowi Cenckiewiczowi oraz dwójce byłych współpracowników byłego szefa MON - potwierdził portal tvn24.pl. Warszawska prokuratura okręgowa wydała niedługo później komunikat w tej sprawie.",
-      "originalTitle": "Jest akt oskarżenia wobec Błaszczaka, Cenckiewicza i dwóch innych osób",
-      "originalDescription": "Prokuratura skierowała do sądu akt oskarżenia przeciwko Mariuszowi Błaszczakowi, Sławomirowi Cenckiewiczowi oraz dwójce byłych współpracowników byłego szefa MON - potwierdził portal tvn24.pl. Warszawska prokuratura okręgowa wydała niedługo później komunikat w tej sprawie."
-    },
-    {
-      "title": "Samica muflona w tarapatach. Utknęła w pniu drzewa",
-      "link": "https://tvn24.pl/wroclaw/walbrzych-samica-muflona-utknela-w-pniu-drzewa-pomogli-strazacy-st8611159?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 10:43:41 GMT",
-      "description": "Wałbrzyscy strażacy interweniowali w lesie w okolicach Zamku Książ, gdzie samica muflona utknęła w pustym pniu drzewa. Dzięki szybkiej akcji ratunkowej zwierzę zostało uwolnione. Bez obrażeń wróciło do naturalnego środowiska.",
-      "originalTitle": "Samica muflona w tarapatach. Utknęła w pniu drzewa",
-      "originalDescription": "Wałbrzyscy strażacy interweniowali w lesie w okolicach Zamku Książ, gdzie samica muflona utknęła w pustym pniu drzewa. Dzięki szybkiej akcji ratunkowej zwierzę zostało uwolnione. Bez obrażeń wróciło do naturalnego środowiska."
-    },
-    {
-      "title": "\"Kolejna próba wciągnięcia nas w wojnę\". Słowacja i Węgry pozbawione dostaw",
-      "link": "https://tvn24.pl/biznes/najnowsze/kolejna-proba-wciagniecia-nas-w-wojne-slowacja-i-wegry-pozbawione-dostaw-st8610936?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 07:30:05 GMT",
-      "description": "Siły Systemów Bezzałogowych Ukrainy ponownie zaatakowały rurociąg Przyjaźń, którym Rosja przesyła ropę naftową na Węgry i Słowację. To kolejna przerwa w dostawie surowca. Dostawy ropy będą wstrzymane przez co najmniej pięć dni - poinformowały w piątek Węgry i Słowacja, wzywając Komisję Europejską do zagwarantowania im bezpieczeństwa dostaw.",
-      "originalTitle": "\"Kolejna próba wciągnięcia nas w wojnę\". Słowacja i Węgry pozbawione dostaw",
-      "originalDescription": "Siły Systemów Bezzałogowych Ukrainy ponownie zaatakowały rurociąg Przyjaźń, którym Rosja przesyła ropę naftową na Węgry i Słowację. To kolejna przerwa w dostawie surowca. Dostawy ropy będą wstrzymane przez co najmniej pięć dni - poinformowały w piątek Węgry i Słowacja, wzywając Komisję Europejską do zagwarantowania im bezpieczeństwa dostaw."
-    },
-    {
-      "title": "Co z nowelizacją budżetu? Resort odpowiada",
-      "link": "https://tvn24.pl/biznes/najnowsze/nowelizacja-budzetu-w-2025-roku-jest-odpowiedz-ministerstwa-finansow-st8611273?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 10:32:58 GMT",
-      "description": "Ministerstwo Finansów nie pracuje obecnie nad nowelizacją tegorocznego budżetu - ogłosił w piątek resort. W 2025 roku, zgodnie z założeniami, dochody budżetowe nie przekroczą 632,84 miliardów złotych, natomiast wydatki mają być niższe niż 921,62 miliardów złotych.",
-      "originalTitle": "Co z nowelizacją budżetu? Resort odpowiada",
-      "originalDescription": "Ministerstwo Finansów nie pracuje obecnie nad nowelizacją tegorocznego budżetu - ogłosił w piątek resort. W 2025 roku, zgodnie z założeniami, dochody budżetowe nie przekroczą 632,84 miliardów złotych, natomiast wydatki mają być niższe niż 921,62 miliardów złotych."
-    },
-    {
-      "title": "Kim Dzong Un czuje \"ból serca i gorycz\". CNN: rzadkie przyznanie się do strat militarnych",
-      "link": "https://tvn24.pl/swiat/korea-polnocna-kim-dzong-un-czuje-bol-serca-i-gorycz-cnn-rzadkie-przyznanie-sie-do-strat-militarnych-st8610868?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 10:29:04 GMT",
-      "description": "Kim Dzong Un złożył hołd poległym północnokoreańskim żołnierzom, którzy walczyli w wojnie Rosji przeciw Ukrainie. Powiedział, że czuje \"ból serca i gorycz\". Jak komentuje CNN, jest to rzadkie w przypadku przywódcy Korei Północnej przyznanie się do poniesionych strat militarnych. Tymczasem wywiad Korei Południowej podaje, że władze w Pjongjangu planują przerzucenie do Rosji kolejnych jednostek.",
-      "originalTitle": "Kim Dzong Un czuje \"ból serca i gorycz\". CNN: rzadkie przyznanie się do strat militarnych",
-      "originalDescription": "Kim Dzong Un złożył hołd poległym północnokoreańskim żołnierzom, którzy walczyli w wojnie Rosji przeciw Ukrainie. Powiedział, że czuje \"ból serca i gorycz\". Jak komentuje CNN, jest to rzadkie w przypadku przywódcy Korei Północnej przyznanie się do poniesionych strat militarnych. Tymczasem wywiad Korei Południowej podaje, że władze w Pjongjangu planują przerzucenie do Rosji kolejnych jednostek."
-    },
-    {
-      "title": "Jedna osoba nie żyje, szukali mężczyzny ze zdjęcia",
-      "link": "https://tvn24.pl/katowice/czestochowa-jedna-osoba-nie-zyje-szukali-mezczyzny-ze-zdjecia-st8610900?source=rss",
-      "pubDate": "Fri, 22 Aug 2025 07:42:58 GMT",
-      "description": "Policjanci z Częstochowy - w związku ze śledztwem w sprawie nieumyślnego spowodowania śmierci - szukali mężczyzny. Opublikowano jego wizerunek i poproszono o pomoc w jego namierzeniu. Poszukiwania nie trwały długo. Jak podali funkcjonariusze, mężczyzna sam się do nich zgłosił.",
-      "originalTitle": "Jedna osoba nie żyje, szukali mężczyzny ze zdjęcia",
-      "originalDescription": "Policjanci z Częstochowy - w związku ze śledztwem w sprawie nieumyślnego spowodowania śmierci - szukali mężczyzny. Opublikowano jego wizerunek i poproszono o pomoc w jego namierzeniu. Poszukiwania nie trwały długo. Jak podali funkcjonariusze, mężczyzna sam się do nich zgłosił."
+      "originalDescription": "Do policji w krótkim czasie wpłynęło kilka zgłoszeń. Po Augustowie (Podlaskie) chodził samotny pięcioletni chłopiec. Okazało się, że wyszedł z przedszkola, a nikt z personelu tego nie zauważył. Pracownicy zorientowali się, że dziecka nie ma, dopiero kiedy przyszli po niego rodzice."
     }
   ]
 }
