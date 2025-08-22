@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2025-08-21T23:34:46.396Z",
+  "lastUpdate": "2025-08-22T00:22:29.541Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Pogoda na dziś",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-22-08-w-czesci-kraju-moze-popadac-st8610415?source=rss",
+      "pubDate": "Fri, 22 Aug 2025 00:00:00 GMT",
+      "description": "• Dzień tygodnia to piątek.\n• Data to 22.08.\n• W części kraju może wystąpić słaby opad deszczu.\n• Większość Polski będzie miała pogodę.\n• Temperatura ma wynieść do 23 stopni.",
+      "originalTitle": "Pogoda na dziś - piątek, 22.08. W części kraju może popadać",
+      "originalDescription": "Pogoda na dziś. Piątek 22.08 w części kraju może przynieść słabe opady deszczu. W większości Polski dzień zapowiada się jednak na ogół pogodnie. Termometry pokażą do 23 stopni."
+    },
     {
       "title": "Archiwalny wywiad ze Stanisławem Soyką",
       "link": "https://tvn24.pl/kultura-i-styl/archiwalny-wywiad-ze-stanislawem-soyka-st8610662?source=rss",
@@ -23,7 +31,7 @@
       "title": "Koncert ku czci Stanisława Soyki",
       "link": "https://tvn24.pl/kultura-i-styl/hold-dla-stanislawa-soyki-tolerancja-w-wyjatkowym-wykonaniu-st8610628?source=rss",
       "pubDate": "Thu, 21 Aug 2025 21:10:18 GMT",
-      "description": "Artyści obecni podczas ostatniego dnia Top of the Top Sopot Festival 2025 oddali hołd zmarłemu Stanisławowi Soyce. Wspólnie wykonali \"Tolerancję\", jeden z największych przebojów Soyki, który z biegiem lat stał się hymnem akceptacji i otwartości.",
+      "description": "• Artyści obecni podczas ostatniego dnia Top of the Top Sopot Festival 2025 oddali hołd zmarłemu Stanisławowi Soyce.\n• Wspólnie wykonali \"Tolerancję\", jeden z największych przebojów Soyki.\n• \"Tolerancja\" Soyki stała się hymnem akceptacji i otwartości z biegiem lat.",
       "originalTitle": "Hołd dla Stanisława Soyki. \"Tolerancja\" w wyjątkowym wykonaniu",
       "originalDescription": "Artyści obecni podczas ostatniego dnia Top of the Top Sopot Festival 2025 oddali hołd zmarłemu Stanisławowi Soyce. Wspólnie wykonali \"Tolerancję\", jeden z największych przebojów Soyki, który z biegiem lat stał się hymnem akceptacji i otwartości."
     },
@@ -36,7 +44,7 @@
       "originalDescription": "W wieku 66 lat zmarł Stanisław Soyka, popularny wokalista jazzowy, skrzypek, pianista, gitarzysta, kompozytor i poeta. Artysta miał wystąpić podczas kończącego się w czwartek Top of the Top Sopot Festival 2025."
     },
     {
-      "title": "Jedna wycieczka tam kosztuje sto ton śniegu",
+      "title": "Koszt wycieczki równy wadze śniegu",
       "link": "https://tvn24.pl/tvnmeteo/swiat/antarktyda-jedna-wycieczka-tam-kosztuje-sto-ton-lodu-st8610527?source=rss",
       "pubDate": "Thu, 21 Aug 2025 19:55:17 GMT",
       "description": "Ruch turystyczny przekłada się na coraz większe zanieczyszczenie Antarktydy. Najnowsze badania pokazują, że wysokie stężenie metali ciężkich pochodzących ze spalania paliw przyspiesza topnienie pokrywy śnieżnej. Wizyta jednego turysty może wiązać się z utratą nawet stu ton śniegu.",
@@ -74,14 +82,6 @@
       "description": "Test ten najwyraźniej wskazał, że nie mamy zdolności obrony przeciwdronowej, bo w ogóle o tym dronie nie wiedzieliśmy - powiedział w \"Faktach po Faktach\" były szef Biura Bezpieczeństwa Narodowego, generał Stanisław Koziej, komentując zdarzenie w Osinach. W ocenie generała Romana Polko Polska powinna \"uruchomić przemysł\", który pozwoliłby na wzmocnienie naszego systemu obrony powietrznej. Goście TVN24 odnosili się także do ostatnich działań Donalda Trumpa wobec Ukrainy.",
       "originalTitle": "Rosyjski test naszych zdolności obrony. \"Wskazał, że ich nie mamy\"",
       "originalDescription": "Test ten najwyraźniej wskazał, że nie mamy zdolności obrony przeciwdronowej, bo w ogóle o tym dronie nie wiedzieliśmy - powiedział w \"Faktach po Faktach\" były szef Biura Bezpieczeństwa Narodowego, generał Stanisław Koziej, komentując zdarzenie w Osinach. W ocenie generała Romana Polko Polska powinna \"uruchomić przemysł\", który pozwoliłby na wzmocnienie naszego systemu obrony powietrznej. Goście TVN24 odnosili się także do ostatnich działań Donalda Trumpa wobec Ukrainy."
-    },
-    {
-      "title": "Niebezpieczna noc. Alarmy IMGW w części kraju",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ulewy-i-burze-w-polsce-ostrzezenia-imgw-wydano-alarmy-nawet-drugiego-stopnia-st8607120?source=rss",
-      "pubDate": "Thu, 21 Aug 2025 04:25:00 GMT",
-      "description": "IMGW ostrzega przed intensywnymi opadami deszczu. W nocy i piątek rano w części południowej Polski ma silnie lać, a miejscami ulewom towarzyszyć mogą wyładowania. W mocy są alarmy nawet drugiego stopnia.",
-      "originalTitle": "Niebezpieczna noc. Alarmy IMGW w części kraju",
-      "originalDescription": "IMGW ostrzega przed intensywnymi opadami deszczu. W nocy i piątek rano w części południowej Polski ma silnie lać, a miejscami ulewom towarzyszyć mogą wyładowania. W mocy są alarmy nawet drugiego stopnia."
     }
   ]
 }
