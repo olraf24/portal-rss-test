@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-08-25T13:40:46.253Z",
+  "lastUpdate": "2025-08-25T14:05:30.033Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Historyczny strzał Apache w Polsce",
+      "link": "https://defence24.pl/sily-zbrojne/historyczny-strzal-apache-w-polsce",
+      "pubDate": "Mon, 25 Aug 2025 15:47:36 +0200",
+      "description": "W środę 27 sierpnia na poligonie w Ustce odbędzie się pierwsze w historii strzelanie pociskiem Spike NLOS ze śmigłowca Apache na terenie Europy. Zastosowanie tych pocisków oznacza zwielokrotnienie zasięgu rażenia śmigłowców AH-64E Apache Guardian. Przed ich integracją śmigłowce Apache Guardian były uzbrojone w pociski kierowane o zasięgu nieprzekraczającym 10 km. Z kolei śmigłowce Spike NLOS w obecnej wersji mają zasięg do 32 km."
+    },
     {
       "title": "Ukraińscy żołnierze szkolą się na Gepardach",
       "link": "https://defence24.pl/sily-zbrojne/ukrainscy-zolnierze-szkola-sie-na-gepardach",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/legislacja/unia-szykuje-kolejne-sankcje-na-rosje",
       "pubDate": "Mon, 25 Aug 2025 08:12:32 +0200",
       "description": "Szefowa unijnej dyplomacji Kaja Kallas zapowiedziała prace nad wdrożeniem kolejnego, już 19. pakietu sankcji wymierzonych w Federację Rosyjską."
-    },
-    {
-      "title": "Ukraina i Szwecja rozpoczną wspólną produkcję broni",
-      "link": "https://defence24.pl/przemysl/ukraina-i-szwecja-rozpoczna-wspolna-produkcje-broni",
-      "pubDate": "Mon, 25 Aug 2025 08:04:25 +0200",
-      "description": "[Jak czytamy w oświadczeniu szwedzkiego ministerstwa obrony](https://www.regeringen.se/pressmeddelanden/2025/08/ukraina-och-sverige-oppnar-for-gemensam-produktion-av-forsvarsmateriel/), decyzja ma się przyczynić do zachowania do stabilnych łańcuchów dostaw i koncentracji zasobów przemysłu obronnego zarówno w Szwecji, jak i na Ukrainie. „Dokument aktualizuje nasze wspólne wysiłki w tym obszarze, stwarza warunki do realizacji wspólnych projektów w przemyśle obronnym, a także zapewni trwałość i wzajemność współpracy między naszymi krajami. Będziemy nadal wymieniać się technologiami i doświadczeniami w produkcji broni i sprzętu wojskowego, aby wzmocnić odporność i samowystarczalność naszych przemysłów obronnych” – powiedział szef resortu obrony Ukrainy Denys Szmyhal."
     }
   ]
 }
