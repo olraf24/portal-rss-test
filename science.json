@@ -1,56 +1,8 @@
 {
-  "lastUpdate": "2025-08-26T06:07:49.186Z",
+  "lastUpdate": "2025-08-26T06:42:59.399Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
-    {
-      "title": "Nowa era w produkcji czekolady",
-      "link": "https://dzienniknaukowy.pl/nowa-era-w-produkcji-czekolady",
-      "pubDate": "Thu, 21 Aug 2025 08:42:53 +0000",
-      "description": "Badania nad fermentacją ziaren kakaowca zaowocowały odkryciem dziewięciu gatunków grzybów i bakterii, które wpływają na smak czekolady. Manipulowanie tymi społecznościami mikroorganizmów może sprawić, że czekolada będzie jeszcze smaczniejsza. Odkrycie to daje producentom nowe narzędzie do wytwarzania czekolady o wysokiej jakości i bogatym smaku"
-    },
-    {
-      "title": "Terapia uzależnień – gdzie szukać pomocy i jak wygląda leczenie?",
-      "link": "https://dzienniknaukowy.pl/terapia-uzaleznien-gdzie-szukac-pomocy-i-jak-wyglada-leczenie",
-      "pubDate": "Thu, 21 Aug 2025 08:33:00 +0000",
-      "description": "Osoby uzależnione często mierzą się z ostracyzmem społecznym. Tracą pracę, partnerzy życiowi ich opuszczają, rodzina się od nich odwraca, przyjaciele i znajomi odchodzą. Samotność i brak zrozumienia sprawiają, że nałóg staje się jedynym sposobem na radzenie sobie z trudną rzeczywistością. W każdym momencie można jednak zawrócić z tej drogi i rozpocząć walkę o normalne życie. Sprawdź, gdzie można szukać pomocy i na czym polega leczenie uzależnień."
-    },
-    {
-      "title": "Szansa na lek chroniący przed niemal każdym rodzajem infekcji wirusowej",
-      "link": "https://dzienniknaukowy.pl/szansa-na-lek-chroniacy-przed-niemal-kazdym-rodzajem-infekcji-wirusowej",
-      "pubDate": "Wed, 20 Aug 2025 12:22:11 +0000",
-      "description": "Naukowcy pracują nad uniwersalnym lekiem mRNA, który mógłby chronić nas niemal przed każdym wirusem, poprzez aktywację kluczowych elementów naszego układu odpornościowego. W testach na gryzoniach eksperymentalna terapia zapobiegała replikacji wirusa grypy i SARS-CoV-2 oraz łagodziła przebieg choroby"
-    },
-    {
-      "title": "Odkryto nowy księżyc Urana",
-      "link": "https://dzienniknaukowy.pl/odkryto-nowy-ksiezyc-urana",
-      "pubDate": "Wed, 20 Aug 2025 10:31:47 +0000",
-      "description": "Astronomowie przy pomocy Kosmicznego Teleskopu Jamesa Webba odkryli nieznany dotąd księżyc krążący wokół Urana. To mały obiekt o szacowanej średnicy zaledwie 10 kilometrów. Prawdopodobnie jego niewielkie rozmiary sprawiły, że był do tej pory niewidoczny dla teleskopów."
-    },
-    {
-      "title": "Wypalenie zawodowe w biurze? 10 zadań, które możesz oddać AI",
-      "link": "https://dzienniknaukowy.pl/wypalenie-zawodowe-w-biurze-10-zadan-ktore-mozesz-oddac-ai",
-      "pubDate": "Wed, 20 Aug 2025 08:31:00 +0000",
-      "description": "Wyobraź sobie biuro, w którym nie każda minuta musi być spędzona na odpisywaniu na maile, tworzeniu notatek, robieniu raportów czy pilnowaniu kalendarza. Brzmi jak utopia? A jednak nią nie jest. Coraz więcej firm odkrywa, że część powtarzalnych zadań można z powodzeniem powierzyć sztucznej inteligencji. W tym artykule pokażemy Ci 10 zadań biurowych, które spokojnie możesz oddać AI, aby odzyskać czas na kreatywne projekty."
-    },
-    {
-      "title": "Z długości palców można wyczytać, jak szybko się zestarzejemy",
-      "link": "https://dzienniknaukowy.pl/z-dlugosci-palcow-mozna-wyczytac-jak-szybko-sie-zestarzejemy",
-      "pubDate": "Tue, 19 Aug 2025 14:34:29 +0000",
-      "description": "Mężczyźni z tzw. żeńskim wzorcem długości palców lewej dłoni, oznaczającym wyższy stosunek długości drugiego do czwartego palca (2D:4D), mają szybsze tempo starzenia epigenetycznego - ustalili naukowcy z Polski. Stosunek ten zależy od proporcji hormonów płciowych oddziałujących na organizm w życiu płodowym"
-    },
-    {
-      "title": "Orientarium ZOO Łódź gospodarzem EAZA Annual Conference 2025",
-      "link": "https://dzienniknaukowy.pl/orientarium-zoo-lodz-gospodarzem-eaza-annual-conference-2025",
-      "pubDate": "Tue, 19 Aug 2025 12:48:50 +0000",
-      "description": "W dniach 9-13 września w Łodzi odbędzie się konferencja EAZA 2025 a gospodarzem wydarzenia będzie Orientarium Zoo Łódź. W planach wykłady, warsztaty i szkolenia dotyczące problemów i wyzwań związanych z dobrostanem zwierząt w ogrodach zoologicznych i poza nimi. Uczestnicy będą mogli również wziąć udział w prezentacjach i dyskusjach na temat ochrony przyrody czy zagrożonych gatunków. Organizatorzy zaplanowali także dla uczestników wizytę w łódzkim ogrodzie zoologicznym"
-    },
-    {
-      "title": "Pasta z włosów może odbudować uszkodzone zęby",
-      "link": "https://dzienniknaukowy.pl/pasta-z-wlosow-moze-odbudowac-uszkodzone-zeby",
-      "pubDate": "Tue, 19 Aug 2025 10:42:35 +0000",
-      "description": "Pasta do zębów z własnych włosów? Jak wynika z niedawnych badań, może to być skuteczny sposób ochrony i naprawy uszkodzonych zębów. Naukowcy odkryli, że keratyna, białko występujące skórze, ale także we włosach, może odbudować szkliwo zębów i powstrzymać wczesne stadia próchnicy"
-    },
     {
       "title": "Atmosfera pod lupą naukowców",
       "link": "https://dzienniknaukowy.pl/atmosfera-pod-lupa-naukowcow",
@@ -62,6 +14,54 @@
       "link": "https://dzienniknaukowy.pl/arktyczne-delty-jak-gabki-polacy-badaja-skutki-zmian-klimatu-za-kolem-podbiegunowym",
       "pubDate": "Thu, 14 Aug 2025 07:48:11 +0000",
       "description": "Ponad 300 km za kołem podbiegunowym, w delcie kanadyjskiej rzeki Mackenzie, polscy naukowcy prowadzą analizy dotyczące zmian klimatycznych i ich wpływu na wody powierzchniowe. Badania transportu osadów, zmian morfologii hydrologicznej i wpływu ocieplenia na procesy sedymentacyjne pozwolą lepiej zrozumieć dynamikę arktycznych ekosystemów i ich podatność na skutki globalnego ocieplenia. To pomoże wyjaśnić jak zmiany klimatu wpływają nie tylko na środowisko Arktyki, ale i przyszłość innych ekosystemów, kluczowych dla życia ludzi i naszej planety."
+    },
+    {
+      "title": "Defibrylacja, czyli reset serca",
+      "link": "https://dzienniknaukowy.pl/defibrylacja-czyli-reset-serca",
+      "pubDate": "Wed, 13 Aug 2025 10:42:11 +0000",
+      "description": "Zatrzymać chaotyczny rytm serca i przywrócić jego prawidłową pracę – to cel defibrylacji serca. Kiedy i jak należy przeprowadzić taką interwencję, wyjaśnia dr n. med. Agnieszka Wojdyła-Hordyńska z Oddziału Kardiologii Uniwersyteckiego Szpitala Klinicznego w Opolu."
+    },
+    {
+      "title": "W drzewach aż roi się od bakterii",
+      "link": "https://dzienniknaukowy.pl/w-drzewach-az-roi-sie-od-bakterii",
+      "pubDate": "Wed, 13 Aug 2025 09:36:02 +0000",
+      "description": "W niedawnych badaniach naukowcy ustalili, że w drewnie drzew żyje prężna społeczność różnorodnych mikroorganizmów. W jednym drzewie może bytować nawet około biliona bakterii. Jednak to, co zamieszkuje w drzewach, pozostaje w dużej mierze niezbadane"
+    },
+    {
+      "title": "Rośliny mogą pomóc tam, gdzie zawodzą antybiotyki",
+      "link": "https://dzienniknaukowy.pl/rosliny-moga-pomoc-tam-gdzie-zawodza-antybiotyki",
+      "pubDate": "Tue, 12 Aug 2025 13:48:33 +0000",
+      "description": "Gdy zawodzą terapie standardowo stosowane w medycynie, natura może mieć odpowiedź. Berberyna, sanguinaryna i chelerytryna to trzy związki roślinne, które coraz częściej trafiają pod mikroskopy naukowców jako potencjalne wsparcie w interwencji w przypadku groźnych zakażeń jelitowych"
+    },
+    {
+      "title": "Polacy odkryli najstarsze ślady poruszania się kręgowców po lądzie",
+      "link": "https://dzienniknaukowy.pl/polacy-odkryli-najstarsze-slady-poruszania-sie-kregowcow-po-ladzie",
+      "pubDate": "Tue, 12 Aug 2025 12:59:15 +0000",
+      "description": "Najstarsze ślady poruszania się kręgowców na lądzie zidentyfikowali Polacy w Górach Świętokrzyskich. Liczące ponad 400 mln lat skamieniałości dowodzą, że pierwsze próby wyjścia z wody na ląd podjęły ryby dwudyszne. Było to o 10 mln lat przed tetrapodami, najstarszymi w pełni lądowymi czworonogami."
+    },
+    {
+      "title": "Nowe dowody na istnienie planety wokół Alfa Centauri A",
+      "link": "https://dzienniknaukowy.pl/nowe-dowody-na-istnienie-planety-wokol-alfa-centauri-a",
+      "pubDate": "Tue, 12 Aug 2025 11:08:47 +0000",
+      "description": "Wykorzystując Kosmiczny Teleskop Jamesa Webba astronomowie znaleźli mocne dowody na istnienie dużej planety krążącej wokół Alfa Centauri A. Nowo odkryty świat to prawdopodobnie gazowy olbrzym, który krąży w tzw. ekosferze, czyli na orbicie, w której obrębie mogą panować warunki umożliwiające występowanie wody w stanie ciekłym"
+    },
+    {
+      "title": "Konsultacje lekarskie online po pandemii wciąż chętnie wybierane – jak korzystają z nich Polacy?",
+      "link": "https://dzienniknaukowy.pl/konsultacje-lekarskie-online-po-pandemii-wciaz-chetnie-wybierane-jak-korzystaja-z-nich-polacy",
+      "pubDate": "Tue, 12 Aug 2025 08:07:00 +0000",
+      "description": "Pandemia COVID-19 w 2020 roku znacząco przyspieszyła rozwój telemedycyny w Polsce. Choć czas lockdownów i obostrzeń mamy już za sobą, zdalne wizyty lekarskie na stałe wpisały się w system opieki zdrowotnej. Z najnowszego badania wynika, że aż 69 proc. dorosłych Polaków miało kiedykolwiek kontakt z lekarzem online, a 39 proc. odbyło taką konsultację w ciągu ostatnich 12 miesięcy"
+    },
+    {
+      "title": "Neolityczni kanibale. Naukowcy znaleźli ślady konfliktu, w którym zabito i zjedzono 11 osób",
+      "link": "https://dzienniknaukowy.pl/neolityczni-kanibale-naukowcy-znalezli-slady-konfliktu-w-ktorym-zabito-i-zjedzono-11-osob",
+      "pubDate": "Fri, 08 Aug 2025 13:48:27 +0000",
+      "description": "Hiszpańscy archeolodzy znaleźli ślady konfliktu między dwoma społecznościami z późnego neolitu. W jego wyniku co najmniej 11 osób – w tym dzieci – zostało obdartych ze skóry, pozbawionych tkanek, rozczłonkowanych, ugotowanych i zjedzonych przez innych ludzi. Do zdarzenia doszło około 5700 lat temu w północnej Hiszpanii"
+    },
+    {
+      "title": "Nowe zdjęcia z teleskopu Hubble&#8217;a pozwoliły dokładniej oszacować rozmiar komety 3I/ATLAS",
+      "link": "https://dzienniknaukowy.pl/nowe-zdjecia-z-teleskopu-hubblea-pozwolily-dokladniej-oszacowac-rozmiar-komety-3i-atlas",
+      "pubDate": "Fri, 08 Aug 2025 10:29:40 +0000",
+      "description": "Astronomowie, wykorzystując Kosmiczny Teleskop Hubble'a, wykonali nowe zdjęcia międzygwiezdnej komety 3I/ATLAS. Fotografie te pozwoliły nieco lepiej scharakteryzować przybysza spoza Układu Słonecznego - oszacować jego rozmiar i poznać więcej jego właściwości fizycznych"
     }
   ]
 }
