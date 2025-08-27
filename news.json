@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-08-27T17:05:00.871Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-08-27T17:35:49.764Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dyskusja na temat CPK i przystanku w Kaliszu",
+      "link": "https://tvn24.pl/polska/cpk-predkosc-pociagow-polaczenia-miedzy-miastami-arkadiusz-marchewka-i-bartlomiej-pejo-komentuja-st8618994?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 17:31:40 GMT",
+      "description": "• Wiceminister infrastruktury to Arkadiusz Marchewka.\n• Arkadiusz Marchewka wypowiedział się w programie \"Tak jest\" w TVN24.\n• Tematem wypowiedzi Arkadiusza Marchewki były pociągi w ramach Centralnego Portu Komunikacyjnego.\n• Pociągi w ramach Centralnego Portu Komunikacyjnego będą mogły jeździć z prędkością 350 kilometrów na godzinę.\n• W dyskusji z Arkadiuszem Marchewką uczestniczył Bartłomiej Pejo z Konfederacji.\n• Bartłomiej Pejo stwierdził, że pociągi nie będą się zatrzymywały w mniejszych miastach z powodu dużej prędkości.\n• Między Arkadiuszem Marchewką a Bartłomiejem Pejo rozgorzała gorąca dyskusja.",
+      "originalTitle": "Gorąca dyskusja o CPK. \"Będzie przystanek w Kaliszu, panie ministrze?\"",
+      "originalDescription": "Wiceminister infrastruktury Arkadiusz Marchewka mówił w \"Tak jest\" w TVN24, że pociągi w ramach Centralnego Portu Komunikacyjnego będę mogły jeździć z prędkością 350 kilometrów na godzinę. Bartłomiej Pejo z Konfederacji odpowiedział mu, że przez to nie będą się zatrzymywały w mniejszych miastach. Między politykami rozgorzała gorąca dyskusja."
+    },
+    {
+      "title": "Zakończenie remontów dróg",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-koniec-wakacji-i-remontow-na-drogach-te-ulice-beda-przejezdne-st8618956?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 17:28:41 GMT",
+      "description": "• To już ostatnie dni do końca największych letnich remontów.\n• Od poniedziałku, 1 września dla kierowców znów dostępne będą obie nitki Wisłostrady.\n• Wyremontowana jezdnia ulicy Marsa będzie dostępna od poniedziałku, 1 września.\n• Nowe przedłużenie Człuchowskiej będzie dostępne od poniedziałku, 1 września.\n• Od piątku przejezdna będzie wyremontowana ulica Kąty Grodziskie.",
+      "originalTitle": "Koniec wakacji i remontów na drogach. Te ulice będą przejezdne",
+      "originalDescription": "To już ostatnie dni do końca największych letnich remontów. Od poniedziałku, 1 września dla kierowców znów dostępne będą obie nitki Wisłostrady, wyremontowana jezdnia ulicy Marsa, ale też nowe przedłużenie Człuchowskiej. Od piątku przejezdna będzie wyremontowana ulica Kąty Grodziskie."
+    },
+    {
+      "title": "Tramwaje wracają na stałe trasy",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-tramwaje-na-woli-i-mokotowie-wracaja-na-stale-trasy-st8619029?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 17:28:05 GMT",
+      "description": "• W najbliższych dniach i tygodniach tramwaje między Śródmieściem a Mokotowem i Wolą wrócą na swoje stałe trasy.\n• Tramwaje Warszawskie zapowiadają powrót tramwajów na stałe trasy.\n• 1 września składy wrócą na Wolską.\n• 1 września składy wrócą na aleję Niepodległości.\n• 1 września składy wrócą na Rakowiecką.\n• 1 września składy wrócą na Wołoską.",
+      "originalTitle": "Tramwaje na Woli i Mokotowie wracają na stałe trasy",
+      "originalDescription": "W najbliższych dniach i tygodniach tramwaje między Śródmieściem a Mokotowem i Wolą wrócą na swoje stałe trasy - zapowiadają Tramwaje Warszawskie. Już 1 września składy wrócą na Wolską, aleję Niepodległości, Rakowiecką i Wołoską."
+    },
+    {
+      "title": "Apel do premiera Tuska w sprawie kryzysu",
+      "link": "https://tvn24.pl/biznes/z-kraju/apel-do-premiera-donalda-tuska-stoimy-przed-dramatyczna-sytuacja-st8619005?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 17:12:14 GMT",
+      "description": "• Przedstawiciele branży rozlewniczej apelują do premiera Donalda Tuska w sprawie systemu kaucyjnego.\n• Wdrożenie nowych zasad może spowodować utratę konkurencyjności.\n• Nowe zasady systemu kaucyjnego mogą mieć wpływ na konsumpcję.\n• Wprowadzenie nowych zasad może spowodować spadek poszczególnych kategorii napojów.",
+      "originalTitle": "Apel do premiera Donalda Tuska. \"Stoimy przed dramatyczną sytuacją\"",
+      "originalDescription": "Przedstawiciele branży rozlewniczej apelują do premiera Donalda Tuska w sprawie systemu kaucyjnego. Alarmują, że wdrożenie nowych zasad może spowodować utratę konkurencyjności, a także mieć wpływ na konsumpcję i spadek poszczególnych kategorii napojów."
+    },
+    {
+      "title": "Pogoda na 28.08: noc chłodna, dzień cieplejszy",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-28-08-noc-okaze-sie-chlodna-ale-dzien-nam-to-wynagrodzi-st8618917?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 16:52:31 GMT",
+      "description": "• Noc zapowiada się pogodnie.\n• Lokalnie mogą pojawić się niewielkie opady.\n• Czwartek 28.08 przyniesie sporo słońca.\n• W czwartek 28.08 będzie ryzyko burz.\n• Na termometrach w cieniu zobaczymy ponad 30 stopni.",
+      "originalTitle": "Pogoda na jutro - czwartek, 28.08. Noc okaże się chłodna, ale dzień nam to wynagrodzi",
+      "originalDescription": "Pogoda na jutro. Noc zapowiada się pogodnie, choć lokalnie mogą pojawić się niewielkie opady. Czwartek 28.08 przyniesie sporo słońca, ale i ryzyko burz. Na termometrach w cieniu zobaczymy ponad 30 stopni."
+    },
+    {
+      "title": "Planowane otwarcie przejścia podziemnego",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-kiedy-otworza-przejscie-podziemne-na-dworcu-zachodnim-jest-data-st8619004?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 16:51:31 GMT",
+      "description": "Podróżni będą mogli w końcu skorzystać z przejścia podziemnego na Dworcu Zachodnim, które z powodu remontu zostało zamknięte. Obecnie, żeby przejść na odpowiedni peron, trzeba pokonać drogę schodami lub windą.",
+      "originalTitle": "Otworzą przejście podziemne na Dworcu Zachodnim",
+      "originalDescription": "Podróżni będą mogli w końcu skorzystać z przejścia podziemnego na Dworcu Zachodnim, które z powodu remontu zostało zamknięte. Obecnie, żeby przejść na odpowiedni peron, trzeba pokonać drogę schodami lub windą."
+    },
+    {
+      "title": "\"Wielka piękna twarz\" Trumpa i pochwały bez końca. Tak obradował gabinet",
+      "link": "https://tvn24.pl/swiat/wielka-piekna-twarz-donalda-trumpa-osobliwe-posiedzenie-gabinetu-trwalo-trzy-godziny-st8618914?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 16:47:45 GMT",
+      "description": "Podczas wtorkowego posiedzenia gabinetu Donalda Trumpa jego członkowie - jak pisze \"Washington Post\" - \"prześcigali się\" w wychwalaniu prezydenta. Specjalny wysłannik na Bliski Wschód Steve Witkoff powiedział, że Trump jest \"najlepszym kandydatem\" do Pokojowej Nagrody Nobla \"od początku jej istnienia\". Szefowa Departamentu Pracy Lori Chavez-DeRemer zachwalała baner z \"wielką, piękną twarzą\" Trumpa.",
+      "originalTitle": "\"Wielka piękna twarz\" Trumpa i pochwały bez końca. Tak obradował gabinet",
+      "originalDescription": "Podczas wtorkowego posiedzenia gabinetu Donalda Trumpa jego członkowie - jak pisze \"Washington Post\" - \"prześcigali się\" w wychwalaniu prezydenta. Specjalny wysłannik na Bliski Wschód Steve Witkoff powiedział, że Trump jest \"najlepszym kandydatem\" do Pokojowej Nagrody Nobla \"od początku jej istnienia\". Szefowa Departamentu Pracy Lori Chavez-DeRemer zachwalała baner z \"wielką, piękną twarzą\" Trumpa."
+    },
+    {
+      "title": "Przebudują Warszawę Wschodnią. \"Zmiana będzie radykalna\"",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-wschodnia-wielki-remont-przetarg-termin-zakres-prac-st8618827?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 16:36:53 GMT",
+      "description": "Kolejarze ogłosili przetarg na modernizację stacji Warszawa Wschodnia. Perony zyskają zadaszenie, windy i ruchome schody. Powstanie nowy łącznik między tunelami. W ramach kontraktu pobliski przystanek Warszawa Stadion zostanie połączony podziemnym przejściem ze stacją drugiej linii metra.",
+      "originalTitle": "Przebudują Warszawę Wschodnią. \"Zmiana będzie radykalna\"",
+      "originalDescription": "Kolejarze ogłosili przetarg na modernizację stacji Warszawa Wschodnia. Perony zyskają zadaszenie, windy i ruchome schody. Powstanie nowy łącznik między tunelami. W ramach kontraktu pobliski przystanek Warszawa Stadion zostanie połączony podziemnym przejściem ze stacją drugiej linii metra."
+    },
+    {
+      "title": "Śmierć 20-latka po policyjnej interwencji. Jest prokuratorskie śledztwo",
+      "link": "https://tvn24.pl/olsztyn/elblag-smierc-20-latka-po-policyjnej-interwencji-jest-prokuratorskie-sledztwo-st8618955?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 16:29:09 GMT",
+      "description": "Prokuratura zbada, czy nie doszło do przekroczenia obowiązków służbowych policjantów z Elbląga. Chodzi o interwencję, do której doszło na ulicy Robotniczej wobec awanturującego się dwudziestolatka. Mężczyzna trafił do szpitala, gdzie zmarł.",
+      "originalTitle": "Śmierć 20-latka po policyjnej interwencji. Jest prokuratorskie śledztwo",
+      "originalDescription": "Prokuratura zbada, czy nie doszło do przekroczenia obowiązków służbowych policjantów z Elbląga. Chodzi o interwencję, do której doszło na ulicy Robotniczej wobec awanturującego się dwudziestolatka. Mężczyzna trafił do szpitala, gdzie zmarł."
+    },
+    {
+      "title": "Wicepremier: o tym jest to weto",
+      "link": "https://tvn24.pl/biznes/z-kraju/wladyslaw-kosiniak-kamysz-o-tym-jest-to-weto-prezydenta-karola-nawrockiego-st8618932?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 16:19:43 GMT",
+      "description": "Wkład Polski w Starlinki to jedne z najlepiej wydanych pieniędzy na wsparcie Ukrainy - stwierdził wicepremier i minister spraw zagranicznych Radosław Sikorski. Z kolei wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz wskazał, że zawetowanie ustawy o pomocy obywatelom Ukrainy przez prezydenta Karola Nawrockiego jest \"przeciwko bezpieczeństwu Polski\".",
+      "originalTitle": "Wicepremier: o tym jest to weto",
+      "originalDescription": "Wkład Polski w Starlinki to jedne z najlepiej wydanych pieniędzy na wsparcie Ukrainy - stwierdził wicepremier i minister spraw zagranicznych Radosław Sikorski. Z kolei wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz wskazał, że zawetowanie ustawy o pomocy obywatelom Ukrainy przez prezydenta Karola Nawrockiego jest \"przeciwko bezpieczeństwu Polski\"."
+    }
+  ]
 }
