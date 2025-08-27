@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-08-27T06:41:05.539Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-08-27T07:06:11.683Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "90-letnia pasażerka nie żyje, 79-letni kierowca w szpitalu",
+      "link": "https://tvn24.pl/katowice/kobior-zderzenie-dwoch-aut-nie-zyje-90-letnia-pasazerka-st8617569?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:59:09 GMT",
+      "description": "Wypadek na drodze krajowej numer 1 w Kobiórze (Śląskie). W zderzeniu dwóch aut zginęła 90-letnia kobieta, jedna osoba trafiła do szpitala.",
+      "originalTitle": "90-letnia pasażerka nie żyje, 79-letni kierowca w szpitalu",
+      "originalDescription": "Wypadek na drodze krajowej numer 1 w Kobiórze (Śląskie). W zderzeniu dwóch aut zginęła 90-letnia kobieta, jedna osoba trafiła do szpitala."
+    },
+    {
+      "title": "Ministrowie i premier już u prezydenta. Dzisiaj Rada Gabinetowa",
+      "link": "https://tvn24.pl/polska/posiedzenie-rady-gabinetowej-rzad-chce-wyprowadzic-z-bledu-prezydenta-st8617463?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 04:26:07 GMT",
+      "description": "W środę rano odbędzie się Rada Gabinetowa zwołana przez prezydenta Karola Nawrockiego. Członkowie rządu przyjechali już do Pałacu Prezydenckiego. Zgodnie z zapowiedziami zarówno prezydent, jak i szef rządu mają zabrać głos w części otwartej dla mediów.",
+      "originalTitle": "Ministrowie i premier już u prezydenta. Dzisiaj Rada Gabinetowa",
+      "originalDescription": "W środę rano odbędzie się Rada Gabinetowa zwołana przez prezydenta Karola Nawrockiego. Członkowie rządu przyjechali już do Pałacu Prezydenckiego. Zgodnie z zapowiedziami zarówno prezydent, jak i szef rządu mają zabrać głos w części otwartej dla mediów."
+    },
+    {
+      "title": "\"Powinniśmy się nimi zająć bezzwłocznie\". Apel do marszałka Sejmu",
+      "link": "https://tvn24.pl/biznes/z-kraju/bogucki-chce-by-sejm-bez-zwloki-zajal-sie-prezydenckimi-projektami-ws-cen-pradu-i-ukraincow-st8617516?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:35:29 GMT",
+      "description": "Szef Kancelarii Prezydenta Zbigniew Bogucki zaapelował do marszałka Sejmu o pilne zajęcie się projektami ustaw dotyczącymi mrożenia cen prądu i pomocy dla Ukraińców. Uznał, że w tym przypadku można ograniczyć konsultacje.",
+      "originalTitle": "\"Powinniśmy się nimi zająć bezzwłocznie\". Apel do marszałka Sejmu",
+      "originalDescription": "Szef Kancelarii Prezydenta Zbigniew Bogucki zaapelował do marszałka Sejmu o pilne zajęcie się projektami ustaw dotyczącymi mrożenia cen prądu i pomocy dla Ukraińców. Uznał, że w tym przypadku można ograniczyć konsultacje."
+    },
+    {
+      "title": "SpaceX ogłasza sukces. Przełomowy lot Starshipa",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/spacex-oglasza-sukces-przelomowy-lot-starshipa-st8617491?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:29:38 GMT",
+      "description": "Dziesiąty lot testowy Starshipa zakończył się sukcesem. W nocy z wtorku na środę megarakieta od firmy SpaceX wzbiła się w powietrze i po nieco ponad godzinie wylądowała w wodach Oceanu Indyjskiego. Poprzednie próby kończyły się nieoczekiwanymi eksplozjami.",
+      "originalTitle": "SpaceX ogłasza sukces. Przełomowy lot Starshipa",
+      "originalDescription": "Dziesiąty lot testowy Starshipa zakończył się sukcesem. W nocy z wtorku na środę megarakieta od firmy SpaceX wzbiła się w powietrze i po nieco ponad godzinie wylądowała w wodach Oceanu Indyjskiego. Poprzednie próby kończyły się nieoczekiwanymi eksplozjami."
+    },
+    {
+      "title": "Zamiast narzędzi w skrzynce były ludzkie włosy",
+      "link": "https://tvn24.pl/rzeszow/malhowice-przemyt-ludzkich-wlosow-w-skrzynce-na-narzedzia-st8617517?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:29:16 GMT",
+      "description": "Przemyt ludzkich włosów udaremnili funkcjonariusze Służby Celno-Skarbowej z podkarpackiej Krajowej Administracji Skarbowej. Kierowca ukrył je w skrzyni narzędziowej.",
+      "originalTitle": "Zamiast narzędzi w skrzynce były ludzkie włosy",
+      "originalDescription": "Przemyt ludzkich włosów udaremnili funkcjonariusze Służby Celno-Skarbowej z podkarpackiej Krajowej Administracji Skarbowej. Kierowca ukrył je w skrzyni narzędziowej."
+    },
+    {
+      "title": "Przeszukał tony odpadów na wysypisku, by znaleźć obrączkę",
+      "link": "https://tvn24.pl/swiat/kanada-przeszukal-tony-odpadow-na-wysypisku-by-znalezc-obraczke-st8616525?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:26:38 GMT",
+      "description": "Steve Van Ysseldyk z Kanady przeszukał tony odpadów na wysypisku śmieci po tym, jak jego żona zgubiła obrączkę i pierścionek. Mężczyzna postanowił odnaleźć biżuterię, choć zadanie wydawało się niemożliwe. O jego \"romantycznym wyczynie\" piszą media w kraju i za granicą.",
+      "originalTitle": "Przeszukał tony odpadów na wysypisku, by znaleźć obrączkę",
+      "originalDescription": "Steve Van Ysseldyk z Kanady przeszukał tony odpadów na wysypisku śmieci po tym, jak jego żona zgubiła obrączkę i pierścionek. Mężczyzna postanowił odnaleźć biżuterię, choć zadanie wydawało się niemożliwe. O jego \"romantycznym wyczynie\" piszą media w kraju i za granicą."
+    },
+    {
+      "title": "Z wersalki do więzienia. Za rozboje i kradzieże",
+      "link": "https://tvn24.pl/lublin/gmina-ruda-huta-z-wersalki-do-wiezienia-za-rozboje-i-kradzieze-st8617485?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:20:02 GMT",
+      "description": "Policjanci zatrzymali poszukiwanego dwoma listami gończymi 39-latka. Mężczyzna przed funkcjonariuszami ukrył się w wersalce. Najbliższe dziewięć lat spędzi w więzieniu.",
+      "originalTitle": "Z wersalki do więzienia. Za rozboje i kradzieże",
+      "originalDescription": "Policjanci zatrzymali poszukiwanego dwoma listami gończymi 39-latka. Mężczyzna przed funkcjonariuszami ukrył się w wersalce. Najbliższe dziewięć lat spędzi w więzieniu."
+    },
+    {
+      "title": "Były ambasador o Izraelu: jestem przerażony, zbliżyli się do granicy",
+      "link": "https://tvn24.pl/swiat/wojna-w-strefie-gazy-byly-ambasador-polski-marek-magierowski-o-izraelu-st8617534?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 06:19:52 GMT",
+      "description": "Zawsze zatrzymuję się o krok przed nazywaniem tego, co czyni armia izraelska w Strefie Gazy, czy jakie decyzje podejmuje premier Benjamin Netanjahu, ludobójstwem, czy zbrodniami wojennymi. Ale myślę, że w ostatnim czasie Netanyahu i dowódcy, bardzo się do tej granicy zbliżyli - powiedział w \"Rozmowie Piaseckiego\" w TVN24 były ambasador Polski w Izraelu Marek Magierowski.",
+      "originalTitle": "Były ambasador o Izraelu: jestem przerażony, zbliżyli się do granicy",
+      "originalDescription": "Zawsze zatrzymuję się o krok przed nazywaniem tego, co czyni armia izraelska w Strefie Gazy, czy jakie decyzje podejmuje premier Benjamin Netanjahu, ludobójstwem, czy zbrodniami wojennymi. Ale myślę, że w ostatnim czasie Netanyahu i dowódcy, bardzo się do tej granicy zbliżyli - powiedział w \"Rozmowie Piaseckiego\" w TVN24 były ambasador Polski w Izraelu Marek Magierowski."
+    },
+    {
+      "title": "Magierowski: decyzja Nawrockiego będzie miała długofalowe konsekwencje",
+      "link": "https://tvn24.pl/polska/weto-karola-nawrockiego-dla-pomocy-ukrainie-marek-magierowski-decyzja-bedzie-miala-bardzo-duze-dlugofalowe-konsekwencje-st8617488?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 05:52:04 GMT",
+      "description": "Mam wrażenie, że kancelaria prezydenta nie do końca była przygotowana na ten zmasowany atak - powiedział w \"Rozmowie Piaseckiego\" były ambasador RP w Izraelu i Stanach Zjednoczonych Marek Magierowski. Komentował reakcje na weto Karola Nawrockiego wobec ustawy o pomocy dla Ukraińców. Dodał, że decyzja ta już \"wpływa w sposób dość intensywny\" na relacje z Kijowem.",
+      "originalTitle": "Magierowski: decyzja Nawrockiego będzie miała długofalowe konsekwencje",
+      "originalDescription": "Mam wrażenie, że kancelaria prezydenta nie do końca była przygotowana na ten zmasowany atak - powiedział w \"Rozmowie Piaseckiego\" były ambasador RP w Izraelu i Stanach Zjednoczonych Marek Magierowski. Komentował reakcje na weto Karola Nawrockiego wobec ustawy o pomocy dla Ukraińców. Dodał, że decyzja ta już \"wpływa w sposób dość intensywny\" na relacje z Kijowem."
+    },
+    {
+      "title": "Bus wypełniony Labubu i Lafufu zatrzymany na granicy",
+      "link": "https://tvn24.pl/lubuskie/bus-wypelniony-labubu-i-lafufu-zatrzymany-na-granicy-akcja-krajowej-administracji-skarbowej-st8617501?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 05:35:18 GMT",
+      "description": "39 kartonów i dziewięć jutowych worków wypełnionych charakterystycznymi maskotkami znaleźli w kontrolowanym busie funkcjonariusze lubuskiej Krajowej Administracji Skarbowej. Część z pluszowych figurek była podrobiona, a część legalna. W sumie znaleziono 9360 sztuk Labubu i Lafufu.",
+      "originalTitle": "Bus wypełniony Labubu i Lafufu zatrzymany na granicy",
+      "originalDescription": "39 kartonów i dziewięć jutowych worków wypełnionych charakterystycznymi maskotkami znaleźli w kontrolowanym busie funkcjonariusze lubuskiej Krajowej Administracji Skarbowej. Część z pluszowych figurek była podrobiona, a część legalna. W sumie znaleziono 9360 sztuk Labubu i Lafufu."
+    }
+  ]
 }
