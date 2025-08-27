@@ -1,18 +1,50 @@
 {
-  "lastUpdate": "2025-08-27T14:06:08.199Z",
+  "lastUpdate": "2025-08-27T14:37:41.108Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Poważny wypadek na krajowej \"12\". Pięć osób rannych, w tym dwoje dzieci",
+      "title": "Pożar w trakcie remontu katedry, ewakuacja 35 osób",
+      "link": "https://tvn24.pl/wroclaw/legnica-pozar-podczas-remontu-katedry-ewakuowano-35-osob-st8618758?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 14:28:17 GMT",
+      "description": "• Podczas prac remontowych na wieży katedry w Legnicy doszło do pożaru.\n• Prace remontowe odbywały się w województwie dolnośląskim.\n• Dzięki szybkiej reakcji pracowników i sprawnej akcji strażaków udało się zapobiec tragedii.\n• Ewakuowano 35 osób.",
+      "originalTitle": "Pożar podczas remontu katedry. Ewakuowano 35 osób",
+      "originalDescription": "Podczas prac remontowych na wieży katedry w Legnicy (woj. dolnośląskie) doszło do pożaru. Dzięki szybkiej reakcji pracowników i sprawnej akcji strażaków udało się zapobiec tragedii. Ewakuowano 35 osób."
+    },
+    {
+      "title": "Remont szkoły w trakcie, część budynku zamknięta",
+      "link": "https://tvn24.pl/krakow/krakow-wakacje-sie-koncza-remont-trwa-czesc-szkoly-podstawowej-nr-93-bedzie-zamknieta-st8617707?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 14:20:04 GMT",
+      "description": "• Część szkoły to \"teren budowy\", więc dzieci nie wrócą z początkiem września do sal lekcyjnych.\n• W Szkole Podstawowej nr 93 w Krakowie trwa modernizacja systemu ogrzewania.\n• Klasy 4-8 będą uczyć się zdalnie i w salach wyższych uczelni.\n• Niektóre klasy wyjadą na wycieczki.\n• Magistrat obwinia za sytuację dyrektora placówki.\n• Dyrektorowi placówki \"brakuje doświadczenia\" według magistratu.\n• Dyrekcja zwraca uwagę, że problemem są zapisy umowy.\n• Umowę podpisywało miasto.\n• Sprawie przygląda się kuratorium.",
+      "originalTitle": "Wakacje się kończą, remont trwa. Część szkoły będzie zamknięta",
+      "originalDescription": "Część szkoły to \"teren budowy\", więc dzieci nie wrócą z początkiem września do sal lekcyjnych. W Szkole Podstawowej nr 93 w Krakowie trwa modernizacja systemu ogrzewania, więc klasy 4-8 będą uczyć się zdalnie i w salach wyższych uczelni, a niektóre wyjadą na wycieczki. Magistrat obwinia za sytuację dyrektora placówki, któremu \"brakuje doświadczenia\". A dyrekcja zwraca uwagę, że problemem są zapisy umowy - a tę podpisywało miasto. Sprawie przygląda się kuratorium."
+    },
+    {
+      "title": "Odkryto żuchwę z epoki 1,8 mln lat temu",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/gruzja-odnalezli-zuchwe-sprzed-1-8-miliona-lat-st8618704?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 14:16:44 GMT",
+      "description": "• W Gruzji na stanowisku archeologicznym Orozmani odkryto ludzką żuchwę.\n• Żuchwa pochodzi sprzed 1,8 miliona lat.\n• Znalezisko rzuca nowe światło na ewolucję.\n• Znalezisko rzuca nowe światło na migracje naszych przodków.\n• Migracje naszych przodków dotyczą obszaru poza Afrykę.",
+      "originalTitle": "Odnaleźli żuchwę sprzed 1,8 miliona lat",
+      "originalDescription": "W Gruzji na stanowisku archeologicznym Orozmani odkryto ludzką żuchwę sprzed 1,8 miliona lat. Znalezisko rzuca nowe światło na ewolucję i migracje naszych przodków poza Afrykę."
+    },
+    {
+      "title": "Spadek wartości waluty i giełdy w Indiach",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-i-cla-na-indie-mocne-uderzenie-w-gospodarke-waluta-rupia-i-gielda-w-bombaju-na-minusie-st8618624?source=rss",
+      "pubDate": "Wed, 27 Aug 2025 14:05:06 GMT",
+      "description": "• Weszły w życie podwyższone do 50 procent cła na towary eksportowe z Indii do USA.\n• Indyjska gospodarka zareagowała na nie negatywnie.\n• Rupia spadła wobec dolara.\n• Giełda w Bombaju również odnotowała spadek, przechodząc na czerwono.\n• Władze obydwu krajów zapewniły, że szukają sposobu wyjścia z tej sytuacji.",
+      "originalTitle": "Mocne uderzenie w gospodarkę Indii. Waluta i giełda na czerwono",
+      "originalDescription": "Weszły w życie podwyższone do 50 procent cła na towary eksportowe z Indii do USA. Indyjska gospodarka zareagowała na nie negatywnie - rupia spadła wobec dolara, giełda w Bombaju też na czerwono. Władze obydwu krajów zapewniły jednak, że szukają sposobu wyjścia z tej sytuacji."
+    },
+    {
+      "title": "Wypadek na drodze krajowej 12, 5 osób rannych",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/gielniow-dk-12-zderzenie-auta-i-ciezarowki-wsrod-rannych-dzieci-st8618744?source=rss",
       "pubDate": "Wed, 27 Aug 2025 13:47:10 GMT",
-      "description": "Do groźnego wypadku doszło na drodze krajowej numer 12 w Gielniowie (Mazowieckie). Samochód osobowy zderzył się tam z ciężarówką. Pięć osób trafiło do szpitala. Wśród rannych są dzieci.",
+      "description": "• Do groźnego wypadku doszło na drodze krajowej numer 12.\n• Wypadek miał miejsce w Gielniowie.\n• Gielniów znajduje się na terenie województwa Mazowieckiego.\n• W wypadku uczestniczył samochód osobowy.\n• Samochód osobowy zderzył się z ciężarówką.\n• W wyniku wypadku pięć osób trafiło do szpitala.\n• Wśród rannych są dzieci.",
       "originalTitle": "Poważny wypadek na krajowej \"12\". Pięć osób rannych, w tym dwoje dzieci",
       "originalDescription": "Do groźnego wypadku doszło na drodze krajowej numer 12 w Gielniowie (Mazowieckie). Samochód osobowy zderzył się tam z ciężarówką. Pięć osób trafiło do szpitala. Wśród rannych są dzieci."
     },
     {
-      "title": "Brutalna napaść na 13-latkę w parku. Jest akt oskarżenia",
+      "title": "Napaść na 13-latkę w parku",
       "link": "https://tvn24.pl/krakow/rabka-zdroj-brutalna-napasc-na-13-latke-w-parku-jest-akt-oskarzenia-st8617776?source=rss",
       "pubDate": "Wed, 27 Aug 2025 13:40:05 GMT",
       "description": "Prokuratura skierowała do sądu akt oskarżenia przeciwko 20-letniemu Filipowi W., który w Rabce-Zdroju (Małopolska) miał próbować zgwałcić 13-latkę, która szła do szkoły. Młody mężczyzna jest też oskarżony o naruszenie nietykalności innej dziewczynki. Grozi mu dożywocie.",
@@ -36,11 +68,11 @@
       "originalDescription": "W najbliższych dniach w Polsce wystąpią zmienne warunki pogodowe. Mimo że w większości kraju spodziewana jest pogodna aura, to lokalnie pojawią się przelotne opady, silne porywy wiatru i burze. Gorące powietrze zostanie z nami na dłużej."
     },
     {
-      "title": "Przemilczana przyczyna niskiego stanu wody w Wiśle. \"Miasto nie ma z tego żadnych korzyści\"",
+      "title": "\"Przemilczana przyczyna\" niskiego stanu wody w Wiśle. \"Miasto nie ma z tego żadnych korzyści\"",
       "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-kopalnie-piasku-jedna-z-przyczyn-niskiego-stanu-wody-w-wisle-st8616894?source=rss",
       "pubDate": "Wed, 27 Aug 2025 13:29:18 GMT",
       "description": "Za niski stan wody w Wiśle odpowiedzialna jest nie tylko susza hydrologiczna, ale również komercyjne wydobycie piasku z jej dna - uważa radny Warszawy Jan Mencwel. Następuje erozja koryta rzeki. Wisła płynie głębiej i szybciej odprowadza wodę z sąsiednich cieków.",
-      "originalTitle": "Przemilczana przyczyna niskiego stanu wody w Wiśle. \"Miasto nie ma z tego żadnych korzyści\"",
+      "originalTitle": "\"Przemilczana przyczyna\" niskiego stanu wody w Wiśle. \"Miasto nie ma z tego żadnych korzyści\"",
       "originalDescription": "Za niski stan wody w Wiśle odpowiedzialna jest nie tylko susza hydrologiczna, ale również komercyjne wydobycie piasku z jej dna - uważa radny Warszawy Jan Mencwel. Następuje erozja koryta rzeki. Wisła płynie głębiej i szybciej odprowadza wodę z sąsiednich cieków."
     },
     {
@@ -50,38 +82,6 @@
       "description": "Agresywny mężczyzna zaatakował dwie osoby na stacji metra Marymont. Jedną z nich uderzył w twarz, wobec drugiej kierował groźby. Wcześniej miał też uszkodzić żółty telefon alarmowy, znajdujący się na peronie. Został zatrzymany przez policję i usłyszał zarzuty.",
       "originalTitle": "Na stacji metra uderzył mężczyznę i groził kobiecie",
       "originalDescription": "Agresywny mężczyzna zaatakował dwie osoby na stacji metra Marymont. Jedną z nich uderzył w twarz, wobec drugiej kierował groźby. Wcześniej miał też uszkodzić żółty telefon alarmowy, znajdujący się na peronie. Został zatrzymany przez policję i usłyszał zarzuty."
-    },
-    {
-      "title": "\"Ci, co przysnęli, zaczęli podnosić głowy\". \"Kosiniak się odpalił\", a Domański starł z prezydentem",
-      "link": "https://tvn24.pl/polska/ci-co-przysneli-zaczeli-podnosic-glowy-kosiniak-sie-odpalil-a-domanski-starl-z-prezydentem-st8618538?source=rss",
-      "pubDate": "Wed, 27 Aug 2025 13:15:52 GMT",
-      "description": "Jak przebiegała Rada Gabinetowa w części niejawnej? Autorzy \"Podcastu politycznego\" rozmawiali z jej uczestnikami i zdradzają szczegóły. - Władysław Kosiniak-Kamysz się odpalił - relacjonowała Arleta Zalewska. Z kolei Konrad Piasecki mówił o spięciu ministra finansów Andrzeja Domańskiego z prezydentem Karolem Nawrockim.",
-      "originalTitle": "\"Ci, co przysnęli, zaczęli podnosić głowy\". \"Kosiniak się odpalił\", a Domański starł z prezydentem",
-      "originalDescription": "Jak przebiegała Rada Gabinetowa w części niejawnej? Autorzy \"Podcastu politycznego\" rozmawiali z jej uczestnikami i zdradzają szczegóły. - Władysław Kosiniak-Kamysz się odpalił - relacjonowała Arleta Zalewska. Z kolei Konrad Piasecki mówił o spięciu ministra finansów Andrzeja Domańskiego z prezydentem Karolem Nawrockim."
-    },
-    {
-      "title": "Na jednym kole i na jednej nodze. Szokująca jazda motocyklisty na nagraniu",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-motocyklista-na-jednym-kole-nagranie-st8618350?source=rss",
-      "pubDate": "Wed, 27 Aug 2025 13:14:53 GMT",
-      "description": "Niebezpieczna sytuacja na jednej z ulic we Wrocławiu. W sieci pojawił się filmik, na którym widać, jak kierujący motocyklem jedzie na jednym kole, chwilami stojąc na jednej nodze. Sprawą zajmuje się policja.",
-      "originalTitle": "Na jednym kole i na jednej nodze. Szokująca jazda motocyklisty na nagraniu",
-      "originalDescription": "Niebezpieczna sytuacja na jednej z ulic we Wrocławiu. W sieci pojawił się filmik, na którym widać, jak kierujący motocyklem jedzie na jednym kole, chwilami stojąc na jednej nodze. Sprawą zajmuje się policja."
-    },
-    {
-      "title": "Awaria systemu informatycznego pogotowia ratunkowego. Podano przyczynę",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nie-dziala-system-informatyczny-pogotowia-ratunkowego-st8617895?source=rss",
-      "pubDate": "Wed, 27 Aug 2025 10:52:15 GMT",
-      "description": "W środę rano nastąpiła przerwa w działaniu Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego. Po południu Ministerstwo Zdrowia podało, że przyczyną awarii był problem techniczny. Problem dotyczył całego kraju.",
-      "originalTitle": "Awaria systemu informatycznego pogotowia ratunkowego. Podano przyczynę",
-      "originalDescription": "W środę rano nastąpiła przerwa w działaniu Systemu Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego. Po południu Ministerstwo Zdrowia podało, że przyczyną awarii był problem techniczny. Problem dotyczył całego kraju."
-    },
-    {
-      "title": "Zmiany w zarządzie Orlenu",
-      "link": "https://tvn24.pl/biznes/z-kraju/orlen-zmiany-w-zarzadzie-spolki-st8618593?source=rss",
-      "pubDate": "Wed, 27 Aug 2025 13:05:23 GMT",
-      "description": "Rada nadzorcza Orlenu odwołała dwóch członków zarządu spółki - podano w komunikacie. Dodano, że chodzi o Magdalenę Bartoś oraz Artura Osuchowskiego.",
-      "originalTitle": "Zmiany w zarządzie Orlenu",
-      "originalDescription": "Rada nadzorcza Orlenu odwołała dwóch członków zarządu spółki - podano w komunikacie. Dodano, że chodzi o Magdalenę Bartoś oraz Artura Osuchowskiego."
     }
   ]
 }
