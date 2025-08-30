@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-08-30T06:39:09.547Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-08-30T07:05:25.007Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Łosie nadziewają się na ogrodzenie posesji, mieszkańcy apelują. \"Umierają w ogromnych męczarniach\"",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/osiek-nad-wisla-losie-umieraja-w-meczarniach-przez-ogrodzenie-czy-smiertelna-pulapka-zniknie-st8621211?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 06:59:40 GMT",
+      "description": "Już czwarty łoś zginął na ogrodzeniu prywatnej działki w Osieku nad Wisłą (Kujawsko-Pomorskie). Mieszkańcy twierdzą, że właściciel nieruchomości nic nie robi, by poprawiać bezpieczeństwo. Ten z kolei odpiera zarzuty i zapewnia, że będzie bezpieczniej. - Łosie umierają w ogromnych męczarniach - mówi jedna z mieszkanek Osieka nad Wisłą.",
+      "originalTitle": "Łosie nadziewają się na ogrodzenie posesji, mieszkańcy apelują. \"Umierają w ogromnych męczarniach\"",
+      "originalDescription": "Już czwarty łoś zginął na ogrodzeniu prywatnej działki w Osieku nad Wisłą (Kujawsko-Pomorskie). Mieszkańcy twierdzą, że właściciel nieruchomości nic nie robi, by poprawiać bezpieczeństwo. Ten z kolei odpiera zarzuty i zapewnia, że będzie bezpieczniej. - Łosie umierają w ogromnych męczarniach - mówi jedna z mieszkanek Osieka nad Wisłą."
+    },
+    {
+      "title": "Spadł śnieg, dzieci lepiły bałwany",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/snieg-w-australii-spadl-snieg-dzieci-lepily-balwany-st8623019?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 06:55:22 GMT",
+      "description": "Śnieg pojawił się w niektórych rejonach południowo-wschodniej Australii. Jak przekazali meteorolodzy, miejscami spadło nawet 40 centymetrów białego puchu.",
+      "originalTitle": "Spadł śnieg, dzieci lepiły bałwany",
+      "originalDescription": "Śnieg pojawił się w niektórych rejonach południowo-wschodniej Australii. Jak przekazali meteorolodzy, miejscami spadło nawet 40 centymetrów białego puchu."
+    },
+    {
+      "title": "Bliska mijanka i kontroler, który nie wie, z kim rozmawia. Ujawniamy nagrania z Radomia",
+      "link": "https://tvn24.pl/polska/ujawniamy-nagrania-z-radomia-rozmowa-pilota-z-wieza-bliska-mijanka-i-kontroler-ktory-nie-wie-z-kim-rozmawia-st8622918?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 06:36:31 GMT",
+      "description": "W trakcie ostatnich prób do Air Show w Radomiu, w dniu, w którym rozbił się F-16, doszło do groźnej sytuacji w powietrzu. Myśliwiec, którym leciał major Maciej \"Slab\" Krakowian, znalazł się w niebezpiecznej bliskości samolotu szkolno-bojowego FA-50. Z nagrań radiowych wynika, że kontroler ruchu lotniczego pomylił maszyny i przekazywał błędne informacje pilotom. Korespondencja radiowa była źle prowadzona przez obie strony i nastąpiła utrata świadomości sytuacyjnej.",
+      "originalTitle": "Bliska mijanka i kontroler, który nie wie, z kim rozmawia. Ujawniamy nagrania z Radomia",
+      "originalDescription": "W trakcie ostatnich prób do Air Show w Radomiu, w dniu, w którym rozbił się F-16, doszło do groźnej sytuacji w powietrzu. Myśliwiec, którym leciał major Maciej \"Slab\" Krakowian, znalazł się w niebezpiecznej bliskości samolotu szkolno-bojowego FA-50. Z nagrań radiowych wynika, że kontroler ruchu lotniczego pomylił maszyny i przekazywał błędne informacje pilotom. Korespondencja radiowa była źle prowadzona przez obie strony i nastąpiła utrata świadomości sytuacyjnej."
+    },
+    {
+      "title": "Radosław Sikorski: Polska gotowa do ubezpieczenia Belgii na wypadek rosyjskich pozwów",
+      "link": "https://tvn24.pl/swiat/radoslaw-sikorski-polska-gotowa-do-ubezpieczenia-belgii-na-wypadek-rosyjskich-pozwow-st8623025?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 06:27:34 GMT",
+      "description": "Polska jest gotowa do wzięcia udziału w ubezpieczeniu Belgii na wypadek rosyjskich pozwów w związku z wykorzystaniem zamrożonych aktywów rosyjskiego banku centralnego - oświadczył wicepremier i minister spraw zagranicznych Radosław Sikorski.",
+      "originalTitle": "Radosław Sikorski: Polska gotowa do ubezpieczenia Belgii na wypadek rosyjskich pozwów",
+      "originalDescription": "Polska jest gotowa do wzięcia udziału w ubezpieczeniu Belgii na wypadek rosyjskich pozwów w związku z wykorzystaniem zamrożonych aktywów rosyjskiego banku centralnego - oświadczył wicepremier i minister spraw zagranicznych Radosław Sikorski."
+    },
+    {
+      "title": "Rosyjskie drony i rakiety spadły na Ukrainę. Jedna osoba zginęła",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-najwazniejsze-informacje-podsumowanie-co-warto-wiedziec-30-sierpnia-st8622988?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 04:22:44 GMT",
+      "description": "Zbrojna inwazja Rosji na Ukrainę rozpoczęła się 1283 dni temu. Rosja dokonała w nocy z piątku na sobotę zmasowanego ataku na obwód dniepropietrowski i zaporoski. Departament Stanu USA poinformował o zgodzie na sprzedaż amunicji Ukrainie. Wołodymyr Zełenski zapowiada kolejne rozmowy w sprawie gwarancji bezpieczeństwa. Oto najważniejsze wydarzenia minionej doby skupione wokół Ukrainy.",
+      "originalTitle": "Rosyjskie drony i rakiety spadły na Ukrainę. Jedna osoba zginęła",
+      "originalDescription": "Zbrojna inwazja Rosji na Ukrainę rozpoczęła się 1283 dni temu. Rosja dokonała w nocy z piątku na sobotę zmasowanego ataku na obwód dniepropietrowski i zaporoski. Departament Stanu USA poinformował o zgodzie na sprzedaż amunicji Ukrainie. Wołodymyr Zełenski zapowiada kolejne rozmowy w sprawie gwarancji bezpieczeństwa. Oto najważniejsze wydarzenia minionej doby skupione wokół Ukrainy."
+    },
+    {
+      "title": "Tak będzie wędrować strefa opadów. Gdzie spadnie deszcz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/tak-bedzie-wedrowac-strefa-opadow-gdzie-spadnie-deszcz-st8622999?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 05:26:03 GMT",
+      "description": "W sobotę nad Polską przemieszczać się będzie strefa opadów deszczu. Wędrować ma ona z zachodu na wschód. Jak przekazała synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, miejscami opady mogą być intensywne.",
+      "originalTitle": "Tak będzie wędrować strefa opadów. Gdzie spadnie deszcz",
+      "originalDescription": "W sobotę nad Polską przemieszczać się będzie strefa opadów deszczu. Wędrować ma ona z zachodu na wschód. Jak przekazała synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, miejscami opady mogą być intensywne."
+    },
+    {
+      "title": "40-kilometrowa strefa. Pomysł na zawieszenie broni",
+      "link": "https://tvn24.pl/swiat/politico-europejscy-przywodcy-rozwazaja-utworzenie-strefy-buforowej-wzdluz-linii-frontu-w-ukrainie-st8622672?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 04:36:00 GMT",
+      "description": "Utworzenie 40-kilometrowej strefy buforowej wzdłuż linii frontu w Ukrainie jest jednym z kilku rozważanych scenariuszy zawieszenia broni - poinformował portal Politico. Ocenił, że fakt rozmów o takiej strefie wskazuje na desperację sojuszników z NATO w poszukiwaniu rozwiązania dla wojny.",
+      "originalTitle": "40-kilometrowa strefa. Pomysł na zawieszenie broni",
+      "originalDescription": "Utworzenie 40-kilometrowej strefy buforowej wzdłuż linii frontu w Ukrainie jest jednym z kilku rozważanych scenariuszy zawieszenia broni - poinformował portal Politico. Ocenił, że fakt rozmów o takiej strefie wskazuje na desperację sojuszników z NATO w poszukiwaniu rozwiązania dla wojny."
+    },
+    {
+      "title": "Niebezpieczne ulewy. IMGW ostrzega też przed upałem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/upal-silny-deszcz-z-burzami-ostrzezenia-imgw-ulewy-w-polsce-st8619186?source=rss",
+      "pubDate": "Thu, 28 Aug 2025 04:30:04 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia pierwszego i drugiego stopnia. Obowiązują alarmy przed silnym deszczem z burzami i upałem.",
+      "originalTitle": "Niebezpieczne ulewy. IMGW ostrzega też przed upałem",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia pierwszego i drugiego stopnia. Obowiązują alarmy przed silnym deszczem z burzami i upałem."
+    },
+    {
+      "title": "Prezydent zdecydował w sprawie polskich żołnierzy w Libanie",
+      "link": "https://tvn24.pl/polska/co-dalej-z-polskim-kontyngentem-wojskowym-w-libanie-prezydent-zdecydowal-w-sprawie-polskich-zolnierzy-st8622964?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 04:30:32 GMT",
+      "description": "Prezydent Karol Nawrocki zdecydował o przedłużeniu stacjonowania Polskiego Kontyngentu Wojskowego w Libanie do przyszłego roku. Oddział 250 żołnierzy realizuje zadania misji pokojowej w ramach Tymczasowych Sił Organizacji Narodów Zjednoczonych (UNIFIL), na granicy izraelsko-libańskiej.",
+      "originalTitle": "Prezydent zdecydował w sprawie polskich żołnierzy w Libanie",
+      "originalDescription": "Prezydent Karol Nawrocki zdecydował o przedłużeniu stacjonowania Polskiego Kontyngentu Wojskowego w Libanie do przyszłego roku. Oddział 250 żołnierzy realizuje zadania misji pokojowej w ramach Tymczasowych Sił Organizacji Narodów Zjednoczonych (UNIFIL), na granicy izraelsko-libańskiej."
+    },
+    {
+      "title": "Indie spuszczają wodę, by chronić się przed powodzią. Pakistan: to pogłębia klęskę żywiołu",
+      "link": "https://tvn24.pl/swiat/powodz-w-pakistanie-rzad-reaguje-na-decyzje-indii-o-spuszczeniu-wody-z-tam-w-kaszmirze-st8622966?source=rss",
+      "pubDate": "Sat, 30 Aug 2025 04:07:16 GMT",
+      "description": "Władze Pakistanu negatywnie zareagowały na decyzję Indii o spuście wody z tam na rzece Dźhelam w kontrolowanej przez Delhi części Kaszmiru. W ostatnich dniach oba kraje zmagają się ze skutkami ulewnych deszczy, które doprowadziły do powodzi w rejonie pięciorzecza. W Pakistanie ewakuowano już ponad milion osób.",
+      "originalTitle": "Indie spuszczają wodę, by chronić się przed powodzią. Pakistan: to pogłębia klęskę żywiołu",
+      "originalDescription": "Władze Pakistanu negatywnie zareagowały na decyzję Indii o spuście wody z tam na rzece Dźhelam w kontrolowanej przez Delhi części Kaszmiru. W ostatnich dniach oba kraje zmagają się ze skutkami ulewnych deszczy, które doprowadziły do powodzi w rejonie pięciorzecza. W Pakistanie ewakuowano już ponad milion osób."
+    }
+  ]
 }
