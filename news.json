@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-09-01T09:37:38.039Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-09-01T10:06:51.278Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Spadek liczby mieszkańców",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wiecej-polakow-wyjezdza-z-niemiec-niz-przyjezdza-st8625259?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 10:04:09 GMT",
+      "description": "• Po raz pierwszy od 1989 roku więcej Polaków wyjechało z Niemiec niż do nich przyjechało.\n• \"The Times\" poinformował o tej sytuacji.\n• Jednym z powodów tej zmiany jest dynamiczny rozwój gospodarczy Polski.\n• Dynamiczny rozwój gospodarczy Polski skłania obywateli do powrotu.",
+      "originalTitle": "Polacy nie chcą już tam mieszkać? Pierwsza taka sytuacja od 36 lat",
+      "originalDescription": "Po raz pierwszy od 1989 roku więcej Polaków wyjechało z Niemiec niż do nich przyjechało - poinformował \"The Times\". Brytyjski dziennik wskazuje, że jednym z powodów tej zmiany jest dynamiczny rozwój gospodarczy Polski, który skłania obywateli do powrotu."
+    },
+    {
+      "title": "Stanowisko Nowackiej w sprawie edukacji dzieci",
+      "link": "https://tvn24.pl/polska/nowacka-zachecam-do-refleksji-chcemy-dla-dzieci-dobra-czy-ideologii-st8625353?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:58:53 GMT",
+      "description": "• Od września do szkół podstawowych i ponadpodstawowych wchodzi przedmiot edukacji zdrowotnej.\n• Ministra edukacji to Barbara Nowacka.\n• Barbara Nowacka odpowiadała w poniedziałek na krytykę wobec przedmiotu.\n• Barbara Nowacka zachęca do zapoznania się z podstawą programową przedmiotu.\n• Barbara Nowacka zachęca do własnej refleksji.\n• Barbara Nowacka stwierdziła: \"Czego my chcemy dla dzieci? Dobra czy ideologii?\"\n• Barbara Nowacka stwierdziła, że chce dobra dla dzieci.",
+      "originalTitle": "Nowacka: Zachęcam do refleksji. Chcemy dla dzieci dobra czy ideologii?",
+      "originalDescription": "Od września do szkół podstawowych i ponadpodstawowych wchodzi przedmiot edukacji zdrowotnej. Ministra edukacji Barbara Nowacka odpowiadała w poniedziałek na krytykę wobec przedmiotu. - Zachęcam do zapoznania się z podstawą programową przedmiotu i też własnej refleksji. Czego my chcemy dla dzieci? Dobra czy ideologii? Ja chcę dobra - stwierdziła."
+    },
+    {
+      "title": "Kasia zbliża się do Wielkiej Brytanii",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wybrano-imiona-burz-kasia-moze-zagrozic-wielkiej-brytanii-i-nie-tylko-st8625177?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:51:46 GMT",
+      "description": "• 1 września rozpoczęła się meteorologiczna jesień\n• wraz z nią rozpoczął się sezon burz na północnym Atlantyku\n• państwowe agencje pogodowe Wielkiej Brytanii ogłosiły, jakie imiona nadadzą burzom\n• państwowe agencje pogodowe Irlandii ogłosiły, jakie imiona nadadzą burzom\n• państwowe agencje pogodowe Niderlandów ogłosiły, jakie imiona nadadzą burzom",
+      "originalTitle": "Kasia może zagrozić Wielkiej Brytanii i nie tylko",
+      "originalDescription": "1 września rozpoczęła się meteorologiczna jesień, a wraz z nią sezon burz na północnym Atlantyku. Z tej okazji państwowe agencje pogodowe Wielkiej Brytanii, Irlandii i Niderlandów ogłosiły, jakie imiona nadadzą burzom."
+    },
+    {
+      "title": "Lądowanie szefowej KE opóźnione z powodu awarii systemów lotniska",
+      "link": "https://tvn24.pl/swiat/bulgaria-rosyjski-cyberatak-na-lotnisko-samolot-z-ursula-von-der-leyen-zmuszony-do-ladowania-bez-systemow-st8625291?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:40:33 GMT",
+      "description": "• Cyberatak został przeprowadzony ze strony Rosji.\n• Atak uszkodził system GPS na bułgarskim lotnisku.\n• Samolot, na którym znajdowała się przewodnicząca Komisji Europejskiej Ursula von der Leyen, został zmuszony do lądowania przy użyciu papierowych map.\n• Informację o cyberataku podał \"Financial Times\".",
+      "originalTitle": "Utrudnione lądowanie szefowej KE. Media: przez rosyjski cyberatak na lotnisko",
+      "originalDescription": "Cyberatak ze strony Rosji uszkodził system GPS na bułgarskim lotnisku i zmusił samolot z przewodniczącą Komisji Europejskiej Ursulą von der Leyen na pokładzie do lądowania przy użyciu papierowych map - podał \"Financial Times\"."
+    },
+    {
+      "title": "Danuta Wałęsa skontrolowana przez funkcjonariusza, SOP przeprosiła",
+      "link": "https://tvn24.pl/polska/gdansk-danuta-walesa-skontrolowana-przez-sop-jest-oswiadczenie-st8625249?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:23:56 GMT",
+      "description": "Danuta Wałęsa, żona Lecha Wałęsy, została skontrolowana przed wejściem na teren obchodów 45. rocznicy podpisania Porozumień Sierpniowych w Gdańsku. Służba Ochrony Państwa wydała w tej sprawie oświadczenie, w którym poinformowano, że \"funkcjonariusze rozmawiali z byłą Pierwszą Damą i przeprosili za zaistniałą sytuację\".",
+      "originalTitle": "Danuta Wałęsa skontrolowana przez funkcjonariusza. SOP: przeprosiliśmy",
+      "originalDescription": "Danuta Wałęsa, żona Lecha Wałęsy, została skontrolowana przed wejściem na teren obchodów 45. rocznicy podpisania Porozumień Sierpniowych w Gdańsku. Służba Ochrony Państwa wydała w tej sprawie oświadczenie, w którym poinformowano, że \"funkcjonariusze rozmawiali z byłą Pierwszą Damą i przeprosili za zaistniałą sytuację\"."
+    },
+    {
+      "title": "Rekrutacja testerów tiramisu",
+      "link": "https://tvn24.pl/ciekawostki/wlochy-poszukiwani-testerzy-tiramisu-beda-oceniac-deser-na-mistrzostwach-swiata-cukiernikow-st8625267?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:21:53 GMT",
+      "description": "• We włoskim Treviso trwają poszukiwania testerów tiramisu.\n• Będą oni oceniać ten deser podczas mistrzostw świata cukierników.\n• Zadanie powierzone zostanie osobom, którzy zdadzą test z znajomości słynnego specjału.\n• Organizatorem wydarzenia jest Tiramisu World Cup.",
+      "originalTitle": "Poszukiwani testerzy tiramisu. Te warunki trzeba spełnić",
+      "originalDescription": "We włoskim Treviso trwają poszukiwania testerów tiramisu. Będą oni oceniać ten deser podczas mistrzostw świata cukierników. Jak wyjaśnili organizatorzy Tiramisu World Cup, zadanie powierzone zostanie osobom, którzy zdadzą test z znajomości słynnego specjału."
+    },
+    {
+      "title": "Rok szkolny rozpoczęty",
+      "link": "https://tvn24.pl/biznes/z-kraju/nowy-rok-szkolny-2025-2026-rozpoczety-najwazniejsze-daty-st8625268?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:12:20 GMT",
+      "description": "• W poniedziałek rozpoczął się nowy rok szkolny 2025/2026.\n• Rok szkolny potrwa do 26 czerwca.\n• Dwutygodniowe ferie zimowe odbędą się w trzech terminach.\n• Dotychczas ferie zimowe odbywały się w czterech terminach.\n• Egzamin ósmoklasisty odbędzie się w dniach 11-13 maja.\n• Egzaminy maturalne potrwają od 4 do 30 maja 2026 roku.",
+      "originalTitle": "Nowy rok szkolny rozpoczęty. Najważniejsze daty",
+      "originalDescription": "W poniedziałek rozpoczął się nowy rok szkolny 2025/2026. Potrwa on do 26 czerwca. Dwutygodniowe ferie zimowe odbędą się w trzech terminach, a nie, jak dotychczas, w czterech. Egzamin ósmoklasisty odbędzie się w dniach 11-13 maja, a egzaminy maturalne potrwają od 4 do 30 maja 2026 roku. Przedstawiamy najważniejsze daty."
+    },
+    {
+      "title": "Sędzia wstrzymał deportację dzieci",
+      "link": "https://tvn24.pl/swiat/usa-wstrzymano-deportacje-setek-dzieci-z-gwatemali-decyzja-sadu-podjeta-w-ostatniej-chwili-st8625153?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:02:50 GMT",
+      "description": "Sąd w Waszyngtonie zdecydował o wstrzymaniu deportacji setek gwatemalskich dzieci z USA. Decyzję podjęto w ostatniej chwili - niektóre z nich były już na pokładach samolotów. Sędzia Sparkle Sooknanan, aby zająć się sprawą, została obudzona około wpół do trzeciej nad ranem. - Rząd próbuje deportować dzieci z kraju wczesnym rankiem w długi weekend. To zaskakujące - zauważyła w czasie rozprawy.",
+      "originalTitle": "Wstrzymana deportacja setek dzieci. Sędzię obudzono o wpół do trzeciej nad ranem",
+      "originalDescription": "Sąd w Waszyngtonie zdecydował o wstrzymaniu deportacji setek gwatemalskich dzieci z USA. Decyzję podjęto w ostatniej chwili - niektóre z nich były już na pokładach samolotów. Sędzia Sparkle Sooknanan, aby zająć się sprawą, została obudzona około wpół do trzeciej nad ranem. - Rząd próbuje deportować dzieci z kraju wczesnym rankiem w długi weekend. To zaskakujące - zauważyła w czasie rozprawy."
+    },
+    {
+      "title": "Spadki cen mieszkań",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/spadek-sprzedazy-mieszkan-w-sierpniu-hustawka-ktora-zatrzymala-sie-w-polowie-st8625228?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 09:01:06 GMT",
+      "description": "W sierpniu sprzedaż mieszkań w największych polskich miastach spadła o ponad 14 procent - wynika z raportu platformy Tabelaofert. Autorzy raportu wskazują, że choć średnie ceny mieszkań pozostają stabilne, ich realna wartość maleje dzięki większej sile nabywczej kupujących, którzy zarabiają więcej niż kilka miesięcy temu.",
+      "originalTitle": "\"Huśtawka, która zatrzymała się w połowie\". Spadki na rynku mieszkań",
+      "originalDescription": "W sierpniu sprzedaż mieszkań w największych polskich miastach spadła o ponad 14 procent - wynika z raportu platformy Tabelaofert. Autorzy raportu wskazują, że choć średnie ceny mieszkań pozostają stabilne, ich realna wartość maleje dzięki większej sile nabywczej kupujących, którzy zarabiają więcej niż kilka miesięcy temu."
+    },
+    {
+      "title": "Incydent na Westerplatte podczas rocznicy",
+      "link": "https://tvn24.pl/polska/obrazliwe-hasla-na-westerplatte-polskie-piekielko-nawet-w-wazna-rocznice-st8625132?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 08:57:49 GMT",
+      "description": "Dla mnie to też było bolesne. W tych okolicznościach 1 września nagle słyszymy, widzimy to polskie piekiełko - mówiła w TVN24 Katarzyna Skrzydłowska-Kalukin z \"Kultury Liberalnej\", odnosząc się do przebiegu uroczystości 86. rocznicy wybuchu II wojny światowej na Westerplatte. W trakcie obchodów grupa osób wykrzykiwała obraźliwe hasła w kierunku premiera Donalda Tuska.",
+      "originalTitle": "Obraźliwe hasła na Westerplatte. \"Polskie piekiełko\" nawet w ważną rocznicę",
+      "originalDescription": "Dla mnie to też było bolesne. W tych okolicznościach 1 września nagle słyszymy, widzimy to polskie piekiełko - mówiła w TVN24 Katarzyna Skrzydłowska-Kalukin z \"Kultury Liberalnej\", odnosząc się do przebiegu uroczystości 86. rocznicy wybuchu II wojny światowej na Westerplatte. W trakcie obchodów grupa osób wykrzykiwała obraźliwe hasła w kierunku premiera Donalda Tuska."
+    }
+  ]
 }
