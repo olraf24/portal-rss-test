@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-09-01T00:52:10.010Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-09-01T01:34:56.354Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na 1.09: ciepło i lokalne opady",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-1-09-bedzie-cieplo-lokalnie-popada-deszcz-st8624825?source=rss",
+      "pubDate": "Mon, 01 Sep 2025 00:00:00 GMT",
+      "description": "• W poniedziałek 1.09 termometry pokażą maksymalnie 28 stopni.\n• Warunki biometeo przeważnie będą korzystne.",
+      "originalTitle": "Pogoda na dziś - poniedziałek 1.09. Będzie ciepło, lokalnie popada deszcz",
+      "originalDescription": "Pogoda na dziś. W poniedziałek 1.09 termometry pokażą maksymalnie 28 stopni. Warunki biometeo przeważnie będą korzystne."
+    },
+    {
+      "title": "Zabójstwo we Lwowie, zatrzymany podejrzany",
+      "link": "https://tvn24.pl/swiat/zabojstwo-andrija-parubija-wolodymyr-zelenski-podejrzany-zatrzymany-st8624851?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 22:25:21 GMT",
+      "description": "• Prezydent Ukrainy to Wołodymyr Zełenski.\n• Wołodymyr Zełenski poinformował o zatrzymaniu podejrzanego o zabójstwo.\n• Zabójstwo miało miejsce we Lwowie.\n• Ofiarą zabójstwa był były przewodniczący Rady Najwyższej Andrija Parubija.\n• Prezydent stwierdził, że wszystkie okoliczności tego morderstwa muszą zostać wyjaśnione.\n• Wołodymyr Zełenski wyraził swoje stanowisko w formie pisemnej.",
+      "originalTitle": "Szokujące zabójstwo we Lwowie. Zełenski: zatrzymano podejrzanego",
+      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski poinformował o zatrzymaniu podejrzanego o zabójstwo we Lwowie byłego przewodniczącego Rady Najwyższej Andrija Parubija. \"Wszystkie okoliczności tego makabrycznego morderstwa muszą zostać wyjaśnione\" - napisał."
+    },
+    {
+      "title": "Trzęsienie ziemi w Afganistanie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/silne-trzesienie-ziemi-w-afganistanie-st8624833?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 19:50:51 GMT",
+      "description": "• Trzęsienie ziemi nawiedziło w niedzielę wschodnią część Afganistanu.\n• Miało magnitudę 6.\n• Informację o trzęsieniu ziemi podało Niemieckie Centrum Badań Geologicznych (GFZ).",
+      "originalTitle": "Silne trzęsienie ziemi w Afganistanie",
+      "originalDescription": "Trzęsienie ziemi nawiedziło w niedzielę wschodnią część Afganistanu. Miało magnitudę 6 - podało Niemieckie Centrum Badań Geologicznych (GFZ)."
+    },
+    {
+      "title": "Sytuacja w Pałacu Prezydenckim",
+      "link": "https://tvn24.pl/polska/trzecie-spotkanie-donalda-tuska-z-nawrockim-oczekiwania-wobec-wizyty-w-usa-st8624823?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 19:29:37 GMT",
+      "description": "• Jeszcze przed wyjazdem Karola Nawrockiego do Stanów Zjednoczonych odbędzie się kolejne spotkanie prezydenta z premierem Donaldem Tuskiem.\n• Politycy mają odbyć rozmowę w poniedziałek.\n• Spotkanie odbędzie się w Gdańsku.\n• Informację o spotkaniu podała Agata Adamek w programie \"W kuluarach\".\n• Agata Adamek opowiadała też o oczekiwaniach wobec wizyty Nawrockiego w Białym Domu.",
+      "originalTitle": "\"Realna obawa\" w Pałacu Prezydenckim. \"Żeby za dużo się nie wydarzyło\"",
+      "originalDescription": "Jeszcze przed wyjazdem Karola Nawrockiego do Stanów Zjednoczonych odbędzie się kolejne spotkanie prezydenta z premierem Donaldem Tuskiem. Politycy mają odbyć rozmowę w poniedziałek w Gdańsku - powiedziała w programie \"W kuluarach\" Agata Adamek. Opowiadała też o oczekiwaniach wobec wizyty Nawrockiego w Białym Domu."
+    },
+    {
+      "title": "Młodzi inżynierowie testują łaziki w Krakowie",
+      "link": "https://tvn24.pl/fakty-artykuly/marsjanskie-laziki-na-torze-w-krakowie-25-zespolow-rywalizowalo-w-replice-valles-marineris-st8624818?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 19:09:06 GMT",
+      "description": "• Ma 5000 kilometrów długości\n• Ma 200 kilometrów szerokości\n• Ma 11 kilometrów głębokości\n• Jest największym kanionem w Układzie Słonecznym\n• Nosi nazwę Valles Marineris\n• Znajduje się na Marsie\n• Istnieje możliwość zobaczenia go na Marsie\n��� Istnieje możliwość zobaczenia jego kopii w Krakowie\n• W Krakowie przetestowano marsjańskie łaziki",
+      "originalTitle": "Młodzi inżynierowie testowali w Krakowie marsjańskie łaziki. \"To są najlepsi z najlepszych\"",
+      "originalDescription": "Ma 5000 kilometrów długości, 200 kilometrów szerokości, 11 kilometrów głębokości. To Valles Marineris, największy kanion w Układzie Słonecznym. Są dwa sposoby, by go zobaczyć. Albo polecieć na Marsa, gdzie naprawdę się znajduje, albo pojechać do Krakowa, gdzie powstała jego trochę mniejsza kopia. Przetestowano tam marsjańskie łaziki."
+    },
+    {
+      "title": "Odkryto szczelinę na dnie oceanu związaną z trzęsieniami ziemi",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/na-dnie-oceanu-odkryto-szczeline-to-ona-wywolala-niszczycielskie-trzesienia-ziemi-st8624811?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 18:57:35 GMT",
+      "description": "• Na dnie Oceanu Atlantyckiego odkryto szczelinę.\n• Szczelina jest odpowiedzialna za niszczycielskie trzęsienia ziemi w Portugalii.\n• Badacze donoszą, że szczelina powstawała przez co najmniej pięć milionów lat.",
+      "originalTitle": "Na dnie oceanu odkryto szczelinę. To ona wywołała niszczycielskie trzęsienia ziemi",
+      "originalDescription": "Na dnie Oceanu Atlantyckiego odkryto szczelinę, która jest odpowiedzialna za niszczycielskie trzęsienia ziemi w Portugalii. Jak donoszą badacze, powstawała przez co najmniej pięć milionów lat."
+    },
+    {
+      "title": "Pismo MSZ dotyczące prezydenta",
+      "link": "https://tvn24.pl/polska/ujawnienie-pisma-z-msz-prezydent-karol-nawrocki-dyskredytuje-sam-siebie-st8624779?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 18:44:46 GMT",
+      "description": "• Nikt poważnie i w sposób poufny z taką osobą, która na to pozwala, rozmawiać nie będzie - ocenił europoseł KO Andrzej Halicki.\n• Ocena europosła KO Andrzej Halicki została wygłoszona w programie \"Faktach po Faktach\" w TVN24.\n• Europoseł KO Andrzej Halicki komentował niedawne ujawnienie w mediach treści pisma z MSZ.\n• Pismo z MSZ zostało otrzymane przez Karola Nawrockiego przed wizytą w USA.\n• Eurodeputowany PSL Adam Jarubas wypowiedział się na temat \"złej tradycji PiS traktowania polityki zagranicznej\".",
+      "originalTitle": "Ujawnienie pisma z MSZ. Prezydent \"dyskredytuje sam siebie\"",
+      "originalDescription": "Nikt poważnie i w sposób poufny z taką osobą, która na to pozwala, rozmawiać nie będzie - ocenił w \"Faktach po Faktach\" w TVN24 europoseł KO Andrzej Halicki. Komentował w ten sposób niedawne ujawnienie w mediach treści pisma z MSZ, które Karol Nawrocki otrzymał przed wizytą w USA. Eurodeputowany PSL Adam Jarubas mówił natomiast o \"złej tradycji PiS traktowania polityki zagranicznej\"."
+    },
+    {
+      "title": "\"Dość precyzyjny\" plan Europy. \"Bardzo wątpliwy scenariusz\"",
+      "link": "https://tvn24.pl/swiat/dosc-precyzyjny-plan-europy-bardzo-watpliwy-scenariusz-st8624796?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 18:40:25 GMT",
+      "description": "Plany mogą być na papierze, ale nie ma żadnej perspektywy na to, aby wojska państw europejskich znalazły się za zgodą Rosjan w Ukrainie - stwierdził w \"Faktach po Faktach\" doktor Adam Eberhardt, odnosząc się do wywiadu Ursuli von der Leyen. Szefowa KE powiedziała, że Europa ma już plan wysłania wojsk do Ukrainy po zakończeniu walk. Według Anny Marii Dyner \"to bardzo wątpliwy\" scenariusz.",
+      "originalTitle": "\"Dość precyzyjny\" plan Europy. \"Bardzo wątpliwy scenariusz\"",
+      "originalDescription": "Plany mogą być na papierze, ale nie ma żadnej perspektywy na to, aby wojska państw europejskich znalazły się za zgodą Rosjan w Ukrainie - stwierdził w \"Faktach po Faktach\" doktor Adam Eberhardt, odnosząc się do wywiadu Ursuli von der Leyen. Szefowa KE powiedziała, że Europa ma już plan wysłania wojsk do Ukrainy po zakończeniu walk. Według Anny Marii Dyner \"to bardzo wątpliwy\" scenariusz."
+    },
+    {
+      "title": "Nowe prawo ma zwiększyć ochronę danych osobowych i wizerunków dzieci w szkołach",
+      "link": "https://tvn24.pl/fakty-artykuly/sharenting-to-problem-takze-w-szkolach-nowe-regulacje-maja-to-zmienic-st8624800?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 18:36:55 GMT",
+      "description": "Podzielenie się szczęściem, sukcesami albo po prostu dobrym dniem naszych dzieci może mieć dramatyczne skutki. Czasem po wielu dniach albo latach. Jest zapowiedź ustawy, która ma to zacząć jakoś porządkować. Przynajmniej w szkołach.",
+      "originalTitle": "Nowe prawo ma zwiększyć ochronę danych osobowych i wizerunków dzieci w szkołach",
+      "originalDescription": "Podzielenie się szczęściem, sukcesami albo po prostu dobrym dniem naszych dzieci może mieć dramatyczne skutki. Czasem po wielu dniach albo latach. Jest zapowiedź ustawy, która ma to zacząć jakoś porządkować. Przynajmniej w szkołach."
+    },
+    {
+      "title": "Stał w oknie z bronią. Policjanci otoczyli dom",
+      "link": "https://tvn24.pl/katowice/klobuck-akcja-policji-przy-ul-mickiewicza-w-tle-przedmiot-przypominajacy-bron-st8624697?source=rss",
+      "pubDate": "Sun, 31 Aug 2025 18:12:15 GMT",
+      "description": "Akcja policji przy ulicy Mickiewicza w Kłobucku (Śląskie). W oknie jednego z domów widziany był mężczyzna z przedmiotem przypominającym broń palną. Na widok policjantów schował się w budynku. Policja otoczyła dom. Mężczyzna został zatrzymany.",
+      "originalTitle": "Stał w oknie z bronią. Policjanci otoczyli dom",
+      "originalDescription": "Akcja policji przy ulicy Mickiewicza w Kłobucku (Śląskie). W oknie jednego z domów widziany był mężczyzna z przedmiotem przypominającym broń palną. Na widok policjantów schował się w budynku. Policja otoczyła dom. Mężczyzna został zatrzymany."
+    }
+  ]
 }
