@@ -1,10 +1,58 @@
 {
-  "lastUpdate": "2025-09-03T13:12:13.351Z",
+  "lastUpdate": "2025-09-03T13:38:59.829Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Więcej lekarzy to lepsza opieka? Zależy, gdzie mieszkasz",
+      "title": "Obniżka rat kredytowych",
+      "link": "https://tvn24.pl/biznes/z-kraju/kredyty-tansze-we-wrzesniu-stopy-procentowe-w-dol-raty-nizsze-st8628769?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 13:31:32 GMT",
+      "description": "• Nadchodzi ulga dla kredytobiorców.\n• Niższe stopy prowadzą do niższych rat.\n• Niższe stopy prowadzą do większej zdolności kredytowej.\n• Możliwe są realne oszczędności sięgające nawet kilkuset złotych miesięcznie.\n• Analiza została przeprowadzona przez dyrektora departamentu analiz Rankomat.pl.\n• Autorem analizy jest Jarosław Sadowski.",
+      "originalTitle": "Ulga dla kredytobiorców. O tyle spadają raty",
+      "originalDescription": "Nadchodzi ulga dla kredytobiorców. Niższe stopy to niższe raty, większa zdolność kredytowa i realne oszczędności sięgające nawet kilkuset złotych miesięcznie - wynika z analizy dyrektora departamentu analiz Rankomat.pl Jarosława Sadowskiego."
+    },
+    {
+      "title": "Dziecko postrzelone podczas incydentu",
+      "link": "https://tvn24.pl/lodz/skierniewice-podczas-awantury-postrzelil-siedmiolatke-35-latek-byl-pijany-st8629930?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 13:30:29 GMT",
+      "description": "Policjanci ze Skierniewic (Łódzkie) zatrzymali 35-letniego mężczyznę, który podczas awantury domowej postrzelił z wiatrówki siedmioletnią córkę swojej partnerki. Dziewczynka trafiła do szpitala w Łodzi.",
+      "originalTitle": "Podczas awantury postrzelił siedmiolatkę",
+      "originalDescription": "Policjanci ze Skierniewic (Łódzkie) zatrzymali 35-letniego mężczyznę, który podczas awantury domowej postrzelił z wiatrówki siedmioletnią córkę swojej partnerki. Dziewczynka trafiła do szpitala w Łodzi."
+    },
+    {
+      "title": "Skład delegacji z Nawrockim w USA",
+      "link": "https://tvn24.pl/polska/sklad-delegacji-karola-nawrockiego-na-wizyte-w-usa-i-spotkanie-z-donaldem-trumpem-st8629419?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 13:26:46 GMT",
+      "description": "• Karol Nawrocki jest już w USA.\n• Odbędzie spotkanie z prezydentem Donaldem Trumpem.\n• Towarzyszy mu kilkuosobowy zespół.\n• Zespół składa się przede wszystkim ze współpracowników z kancelarii.\n• Do oficjalnej delegacji dołączył europoseł PiS Adam Bielan.",
+      "originalTitle": "To oni towarzyszą Nawrockiemu w USA. Skład delegacji",
+      "originalDescription": "Karol Nawrocki jest już w USA, gdzie odbędzie spotkanie z prezydentem Donaldem Trumpem. Towarzyszy mu kilkuosobowy zespół, złożony przede wszystkim ze współpracowników z kancelarii. Do oficjalnej delegacji dołączył też europoseł PiS Adam Bielan."
+    },
+    {
+      "title": "Nastolatek w wypadku rowerowym trafił do szpitala",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/przasnysz-wypadek-nastolatka-na-hulajnodze-trafil-do-szpitala-st8629883?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 13:25:41 GMT",
+      "description": "• Wiek osoby, która uległa wypadkowi, to 15 lat.\n• Osoba poruszała się hulajnogą elektryczną.\n• Osoba straciła panowanie nad pojazdem.\n• Osoba upadła na jezdnię.\n• Osoba nie miała kasku.\n• Osoba trafiła do szpitala.",
+      "originalTitle": "15-latek jechał bez kasku, upadł i trafił do szpitala",
+      "originalDescription": "15-latek, jadąc hulajnogą elektryczną, stracił panowanie nad pojazdem i upadł na jezdnię. Nie miał kasku. Trafił do szpitala."
+    },
+    {
+      "title": "Chiny mają najwyższy wskaźnik zakażeń",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-upaly-a-zmiana-klimatu-niechlubny-rekord-pobity-w-chinach-st8629503?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 13:21:00 GMT",
+      "description": "• Lato 2025 było najcieplejszym w historii pomiarów Chin.\n• Chińska Administracja Meteorologiczna (CMA) przekazała tę informację w środę.\n• Inne kraje Azji Wschodniej doświadczyły ekstremalnie wysokiej temperatury.",
+      "originalTitle": "Chiny pobiły niechlubny rekord",
+      "originalDescription": "Lato 2025 było najcieplejszym w historii pomiarów Chin - przekazała w środę Chińska Administracja Meteorologiczna (CMA). Również inne kraje Azji Wschodniej doświadczyły ekstremalnie wysokiej temperatury."
+    },
+    {
+      "title": "Rozbudowa kampusu WUM na Ochocie",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-rozbudowa-kampusu-wum-na-ochocie-ruszyly-konsultacje-planu-miejscowego-st8629873?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 13:11:55 GMT",
+      "description": "Warszawski Uniwersytet Medyczny zamierza rozbudować kampus na Ochocie. Władze uczelni chciałyby wznieść nowy budynek szpitala i zmodernizować obiekty dydaktyczne. W tym celu ma powstać nowy plan miejscowy dla tej części dzielnicy. Ruszyły konsultacje społeczne.",
+      "originalTitle": "Chcą rozbudować kampus WUM na Ochocie, ma powstać nowy szpital",
+      "originalDescription": "Warszawski Uniwersytet Medyczny zamierza rozbudować kampus na Ochocie. Władze uczelni chciałyby wznieść nowy budynek szpitala i zmodernizować obiekty dydaktyczne. W tym celu ma powstać nowy plan miejscowy dla tej części dzielnicy. Ruszyły konsultacje społeczne."
+    },
+    {
+      "title": "Liczba lekarzy a jakość opieki zdrowotnej",
       "link": "https://tvn24.pl/zdrowie/wiecej-lekarzy-w-polsce-to-lepsza-opieka-ekspertka-tlumaczy-st8629111?source=rss",
       "pubDate": "Wed, 03 Sep 2025 13:03:44 GMT",
       "description": "W Polsce przybywa lekarzy - wynika z najnowszych danych Głównego Urzędu Statystycznego. Więcej niż w ubiegłych latach jest specjalistów w wieku 30-39 lat i studentów na kierunkach lekarskich. To dobre wiadomości dla pacjentów, ale czy większa liczba specjalistów to remedium na bolączki systemu ochrony zdrowia? Zapytaliśmy ekspertkę.",
@@ -34,54 +82,6 @@
       "description": "Film \"Szczęki\" w reżyserii Stevena Spilberga dziś należy do kultowych. Choć od premiery minęło 50 lat, to Jeffrey Voorhees, który wcielił się w rolę \"dziecka zabitego przez rekina\", do dziś zarabia dzięki minucie, podczas której zagościł na ekranie - pisze \"The Independent\".",
       "originalTitle": "Był \"drugim dzieckiem zabitym przez rekina\". Dobrze na tym zarabia",
       "originalDescription": "Film \"Szczęki\" w reżyserii Stevena Spilberga dziś należy do kultowych. Choć od premiery minęło 50 lat, to Jeffrey Voorhees, który wcielił się w rolę \"dziecka zabitego przez rekina\", do dziś zarabia dzięki minucie, podczas której zagościł na ekranie - pisze \"The Independent\"."
-    },
-    {
-      "title": "Będą \"destabilizować Polskę\". Ukraińcy znowu na celowniku",
-      "link": "https://tvn24.pl/polska/beda-destabilizowac-polske-ukraincy-znowu-na-celowniku-st8625131?source=rss",
-      "pubDate": "Wed, 03 Sep 2025 12:52:34 GMT",
-      "description": "Jedni przekonują: im dajemy pieniądze, a nasz deficyt rośnie. Inni straszą: tysiące kolejnych forsują granice. Kolejni alarmują: to taki sam wróg jak Niemcy czy Putin. W ostatnich tygodniach migranci z Ukrainy są w Polsce znowu na celowniku. Jak to się stało, że antyukraińskie przekazy znane głównie w kręgach skrajnej prawicy wdarły się ostatnio do mainstreamu? Powodów jest kilka.",
-      "originalTitle": "Będą \"destabilizować Polskę\". Ukraińcy znowu na celowniku",
-      "originalDescription": "Jedni przekonują: im dajemy pieniądze, a nasz deficyt rośnie. Inni straszą: tysiące kolejnych forsują granice. Kolejni alarmują: to taki sam wróg jak Niemcy czy Putin. W ostatnich tygodniach migranci z Ukrainy są w Polsce znowu na celowniku. Jak to się stało, że antyukraińskie przekazy znane głównie w kręgach skrajnej prawicy wdarły się ostatnio do mainstreamu? Powodów jest kilka."
-    },
-    {
-      "title": "Mikrofony zarejestrowały fragment rozmowy Putina z Xi. O czym mówili?",
-      "link": "https://tvn24.pl/swiat/chiny-parada-wojskowa-w-pekinie-mikrofony-zarejestrowaly-fragment-rozmowy-putina-z-xi-st8629735?source=rss",
-      "pubDate": "Wed, 03 Sep 2025 12:50:43 GMT",
-      "description": "Mikrofony zarejestrowały fragment rozmowy Władimira Putina z Xi Jinpingiem, kiedy zmierzali na paradę wojskową w Pekinie - podaje Reuters. Obaj liderzy rozmawiali między innymi o nieśmiertelności.",
-      "originalTitle": "Mikrofony zarejestrowały fragment rozmowy Putina z Xi. O czym mówili?",
-      "originalDescription": "Mikrofony zarejestrowały fragment rozmowy Władimira Putina z Xi Jinpingiem, kiedy zmierzali na paradę wojskową w Pekinie - podaje Reuters. Obaj liderzy rozmawiali między innymi o nieśmiertelności."
-    },
-    {
-      "title": "\"To nie nauka, to propaganda\". Raport administracji Trumpa pod ostrzałem",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/to-nie-nauka-to-propaganda-raport-administracji-trumpa-pod-ostrzalem-st8629009?source=rss",
-      "pubDate": "Wed, 03 Sep 2025 12:45:42 GMT",
-      "description": "Grupa badaczy zajmujących się zmianą klimatu ostro skrytykowała raport Departamentu Energii w administracji Donalda Trumpa dotyczący regulacji emisji zanieczyszczeń. Zdaniem ekspertów bagatelizuje on zagrożenia związane ze zmianami klimatu i przedstawia je jako rzekomo korzystne zjawiska.",
-      "originalTitle": "\"To nie nauka, to propaganda\". Raport administracji Trumpa pod ostrzałem",
-      "originalDescription": "Grupa badaczy zajmujących się zmianą klimatu ostro skrytykowała raport Departamentu Energii w administracji Donalda Trumpa dotyczący regulacji emisji zanieczyszczeń. Zdaniem ekspertów bagatelizuje on zagrożenia związane ze zmianami klimatu i przedstawia je jako rzekomo korzystne zjawiska."
-    },
-    {
-      "title": "To u Nawrockiego \"może stworzyć możliwość współpracy\" z Donaldem Trumpem",
-      "link": "https://tvn24.pl/polska/spotkanie-donalda-trumpa-i-karola-nawrockiego-to-moze-stworzyc-mozliwosc-dobrej-wspolpracy-z-donaldem-trumpem-st8628986?source=rss",
-      "pubDate": "Wed, 03 Sep 2025 12:36:28 GMT",
-      "description": "Donald Trump widzi relacje z innymi krajami poprzez to, jaką relację ma z przywódcą kraju - powiedział w TVN24 dyrektor warszawskiego biura Atlantic Council Aaron Korewa. Mówił między innymi o tym, dlaczego Polska jest istotnym sojusznikiem dla USA i co sprawia, że Karol Nawrocki może mieć szansę na udaną współpracę z Trumpem.",
-      "originalTitle": "To u Nawrockiego \"może stworzyć możliwość współpracy\" z Donaldem Trumpem",
-      "originalDescription": "Donald Trump widzi relacje z innymi krajami poprzez to, jaką relację ma z przywódcą kraju - powiedział w TVN24 dyrektor warszawskiego biura Atlantic Council Aaron Korewa. Mówił między innymi o tym, dlaczego Polska jest istotnym sojusznikiem dla USA i co sprawia, że Karol Nawrocki może mieć szansę na udaną współpracę z Trumpem."
-    },
-    {
-      "title": "Była pod wpływem narkotyków i odwiozła dziecko do szkoły",
-      "link": "https://tvn24.pl/trojmiasto/bytow-kierowala-pod-wplywem-narkotykow-i-odwiozla-dziecko-do-szkoly-st8629184?source=rss",
-      "pubDate": "Wed, 03 Sep 2025 12:32:01 GMT",
-      "description": "Bytowscy policjanci zatrzymali do kontroli 37-letnią kierującą, u której test wykazał obecność amfetaminy w organizmie. Kobieta zdążyła wcześniej odwieźć dziecko do szkoły.",
-      "originalTitle": "Była pod wpływem narkotyków i odwiozła dziecko do szkoły",
-      "originalDescription": "Bytowscy policjanci zatrzymali do kontroli 37-letnią kierującą, u której test wykazał obecność amfetaminy w organizmie. Kobieta zdążyła wcześniej odwieźć dziecko do szkoły."
-    },
-    {
-      "title": "\"To może być pierwsza okazja do uzyskania komentarza od Trumpa\"",
-      "link": "https://tvn24.pl/swiat/usa-spotkanie-karola-nawrockiego-z-donaldem-trumpem-swiatowe-media-komentuja-st8629179?source=rss",
-      "pubDate": "Wed, 03 Sep 2025 12:23:52 GMT",
-      "description": "Co Karol Nawrocki powie Donaldowi Trumpowi w sprawie Ukrainy? Czy przekona go, że \"Putinowi nie można ufać\"? Czy wojska amerykańskie pozostaną w Polsce? Światowe media stawiają między innymi te pytania w dniu wizyty prezydenta Polski w Stanach Zjednoczonych. Piszą o oczekiwaniach i stawce zbliżających się rozmów.",
-      "originalTitle": "\"To może być pierwsza okazja do uzyskania komentarza od Trumpa\"",
-      "originalDescription": "Co Karol Nawrocki powie Donaldowi Trumpowi w sprawie Ukrainy? Czy przekona go, że \"Putinowi nie można ufać\"? Czy wojska amerykańskie pozostaną w Polsce? Światowe media stawiają między innymi te pytania w dniu wizyty prezydenta Polski w Stanach Zjednoczonych. Piszą o oczekiwaniach i stawce zbliżających się rozmów."
     }
   ]
 }
