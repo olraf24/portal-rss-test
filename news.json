@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-09-04T04:36:58.872Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-09-04T05:06:17.066Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Burza nadchodzi, grzmoty słyszalne od rana",
+      "link": "https://tvn24.pl/tvnmeteo/pogoda/gdzie-jest-burza-sprawdz-gdzie-grzmi-w-czwartek-4-09-radar-opadow-i-mapa-burz-pogoda-w-polsce-st8630701?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 04:57:43 GMT",
+      "description": "• W czwartek 4.09 w niektórych regionach Polski już od rana pojawiają się burze.\n• Wyładowaniom towarzyszą opady deszczu.\n• Wyładowaniom towarzyszą silne porywy wiatru.\n• Aktualną sytuację pogodową w kraju można śledzić w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmoty słychać już od rana",
+      "originalDescription": "Gdzie jest burza? W czwartek 4.09 w niektórych regionach Polski już od rana pojawiają się burze. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w kraju w tvnmeteo.pl."
+    },
+    {
+      "title": "Banki po obniżeniu stóp",
+      "link": "https://tvn24.pl/biznes/z-kraju/reakcja-bankow-na-obnizke-stop-banki-szykuja-podwyzki-oplat-dla-klientow-st8630707?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 04:57:20 GMT",
+      "description": "• Banki dotychczas chroniły marże odsetkowe przed skutkami obniżek stóp procentowych.\n• To się zmieni.\n• Informację tę podaje czwartkowy \"Puls Biznesu\".\n• \"Puls Biznesu\" podkreśla, że sektor stawia na wyższe dochody prowizyjne.",
+      "originalTitle": "Co zrobią banki po cięciu stóp? Czas na podwyżki opłat",
+      "originalDescription": "Banki dotychczas chroniły marże odsetkowe przed skutkami obniżek stóp procentowych, ale to się zmieni - podaje czwartkowy \"Puls Biznesu\", podkreślając, że sektor stawia na wyższe dochody prowizyjne."
+    },
+    {
+      "title": "Katastrofa kolejki, ogłoszono żałobę narodową",
+      "link": "https://tvn24.pl/swiat/portugalia-lizbona-wypadek-popularnej-wsrod-turystow-kolejki-gloria-zabici-i-ranni-st8630454?source=rss",
+      "pubDate": "Wed, 03 Sep 2025 18:15:53 GMT",
+      "description": "Co najmniej 15 osób zginęło w wypadku kolejki Gloria w Lizbonie. Jest wielu rannych. - To tragiczny dzień dla naszego miasta - powiedział burmistrz miasta Carlos Moedas. Rząd Portugalii ogłosił, że czwartek będzie dniem żałoby narodowej.",
+      "originalTitle": "\"Tragiczny dzień dla miasta\". Żałoba narodowa po katastrofie popularnej kolejki",
+      "originalDescription": "Co najmniej 15 osób zginęło w wypadku kolejki Gloria w Lizbonie. Jest wielu rannych. - To tragiczny dzień dla naszego miasta - powiedział burmistrz miasta Carlos Moedas. Rząd Portugalii ogłosił, że czwartek będzie dniem żałoby narodowej."
+    },
+    {
+      "title": "Ofiary ostrzału w Donbasie",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-podsumowanie-ostatniej-doby-wladze-zabici-w-wyniku-rosyjskich-ostrzalow-w-konstantynowce-st8630692?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 04:40:52 GMT",
+      "description": "Zbrojna inwazja Rosji na Ukrainę rozpoczęła się 1287 dni temu. Dziewięć osób cywilnych zginęło, a siedem zostało rannych w wyniku rosyjskich ostrzałów w mieście Konstantynówka w obwodzie donieckim - poinformował przewodniczący donieckiej obwodowej administracji wojskowej, Wadym Fiłaszkin. Oto najważniejsze wydarzenia minionej doby wokół wojny w Ukrainie.",
+      "originalTitle": "Zabici po rosyjskich ostrzałach w kluczowym mieście w Donbasie",
+      "originalDescription": "Zbrojna inwazja Rosji na Ukrainę rozpoczęła się 1287 dni temu. Dziewięć osób cywilnych zginęło, a siedem zostało rannych w wyniku rosyjskich ostrzałów w mieście Konstantynówka w obwodzie donieckim - poinformował przewodniczący donieckiej obwodowej administracji wojskowej, Wadym Fiłaszkin. Oto najważniejsze wydarzenia minionej doby wokół wojny w Ukrainie."
+    },
+    {
+      "title": "Ostrzeżenie IMGW dla części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-geste-mgly-ostrzezenia-imgw-w-czwartek-4-09-st8624894?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 04:30:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed trudnymi i niebezpiecznymi warunkami.\n• W części kraju obowiązują żółte alarmy.\n• Alarmy dotyczą gęstej mgły.\n• Alarmy dotyczą burz.\n• Zalecane jest sprawdzenie, gdzie należy uważa��.",
+      "originalTitle": "Niebezpiecznie w części kraju. IMGW ostrzega",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed trudnymi i niebezpiecznymi warunkami. W części kraju obowiązują żółte alarmy przed gęstą mgłą oraz burzami. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "Wielka Brytania i Unia Europejska zawarły porozumienie",
+      "link": "https://tvn24.pl/najnowsze/byl-brexit-teraz-jest-porozumienie-wielka-brytania-i-hiszpania-znowu-parterami-st8630693?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 04:25:05 GMT",
+      "description": "• Premier Hiszpanii to Pedro Sanchez\n• Szef rządu Wielkiej Brytanii to Keir Starmer\n• Spotkanie odbyło się w Londynie\n• Podpisano porozumienie o politycznej współpracy obu państw\n• Porozumienie jest pierwszym od czasu brexitu\n• Zobowiązano się do corocznych dialogów\n• Celem dialogów jest zacieśnianie relacji między państwami",
+      "originalTitle": "Był brexit, teraz jest porozumienie. Oba państwa znowu parterami",
+      "originalDescription": "Premier Hiszpanii Pedro Sanchez i szef rządu Wielkiej Brytanii Keir Starmer w czasie spotkania w Londynie podpisali pierwsze od czasu brexitu porozumienie o politycznej współpracy obu państw. Zobowiązano się między innymi co corocznych dialogów w celu zacieśniania relacji."
+    },
+    {
+      "title": "Rosyjscy opozycjoniści apelują o deportowanych",
+      "link": "https://tvn24.pl/swiat/kanada-julia-nawalna-i-inni-rosyjscy-opozycjonisci-prosza-o-azyl-dla-rosjan-deportowanych-z-usa-st8630685?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 03:56:11 GMT",
+      "description": "Setki Rosjan zaangażowanych w działalność antywojenną mogą zostać deportowane z USA. W związku z tym rosyjscy opozycjoniści, Julia Nawalna, Władimir Kara-Murza oraz Ilja Jaszyn, zwrócili się do premiera Kanady Marka Carneya o przyznanie im azylu.",
+      "originalTitle": "Nawalna i inni rosyjscy opozycjoniści apelują w sprawie deportowanych z USA",
+      "originalDescription": "Setki Rosjan zaangażowanych w działalność antywojenną mogą zostać deportowane z USA. W związku z tym rosyjscy opozycjoniści, Julia Nawalna, Władimir Kara-Murza oraz Ilja Jaszyn, zwrócili się do premiera Kanady Marka Carneya o przyznanie im azylu."
+    },
+    {
+      "title": "Kobieta przyznaje się do winy w sprawie śmierci aktora",
+      "link": "https://tvn24.pl/swiat/usa-krolowa-ketaminy-przyznala-sie-do-winy-w-sprawie-smierci-aktora-matthew-perry-ego-st8630688?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 03:49:14 GMT",
+      "description": "Jasveen Sangha przyznała się do zarzutów federalnych związanych ze śmiertelnym przedawkowaniem narkotyków przez aktora Matthew Perry'ego w 2023 roku. Kobiecie grozi jej kara do 65 lat więzienia.",
+      "originalTitle": "\"Królowa Ketaminy\" przyznała się do winy w sprawie śmierci Matthew Perry'ego",
+      "originalDescription": "Jasveen Sangha przyznała się do zarzutów federalnych związanych ze śmiertelnym przedawkowaniem narkotyków przez aktora Matthew Perry'ego w 2023 roku. Kobiecie grozi jej kara do 65 lat więzienia."
+    },
+    {
+      "title": "Tusk w Paryżu będzie rozmawiał z koalicją chętnych",
+      "link": "https://tvn24.pl/polska/premier-donald-tusk-bedzie-rozmawial-w-paryzu-z-koalicja-chetnych-st8630680?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 03:42:05 GMT",
+      "description": "Premier Donald Tusk w Paryżu weźmie udział w rozmowach koalicji chętnych między innymi na temat gwarancji bezpieczeństwa dla Ukrainy. Szef polskiego rządu spotka się też z prezydentem Francji Emmanuelem Macronem. Rzecznik niemieckiego rządu sygnalizował, że \"trwają rozmowy o połączeniu się\" z Donaldem Trumpem.",
+      "originalTitle": "Tusk w Paryżu będzie rozmawiał z koalicją chętnych",
+      "originalDescription": "Premier Donald Tusk w Paryżu weźmie udział w rozmowach koalicji chętnych między innymi na temat gwarancji bezpieczeństwa dla Ukrainy. Szef polskiego rządu spotka się też z prezydentem Francji Emmanuelem Macronem. Rzecznik niemieckiego rządu sygnalizował, że \"trwają rozmowy o połączeniu się\" z Donaldem Trumpem."
+    },
+    {
+      "title": "Śledztwo w sprawie syna Jacka Kurskiego. Zdzisław K. usłyszy zarzut zgwałcenia",
+      "link": "https://tvn24.pl/polska/sledztwo-w-sprawie-syna-jacka-kurskiego-zdzislaw-k-uslyszy-zarzut-zgwalcenia-st8629874?source=rss",
+      "pubDate": "Thu, 04 Sep 2025 03:29:56 GMT",
+      "description": "Zdzisław K. miał wielokrotnie zgwałcić nieletnią Magdalenę - twierdzi prokuratura. Synowi byłego prezesa TVP grozi do 12 lat więzienia. Został już wezwany na przesłuchanie w charakterze podejrzanego.",
+      "originalTitle": "Śledztwo w sprawie syna Jacka Kurskiego. Zdzisław K. usłyszy zarzut zgwałcenia",
+      "originalDescription": "Zdzisław K. miał wielokrotnie zgwałcić nieletnią Magdalenę - twierdzi prokuratura. Synowi byłego prezesa TVP grozi do 12 lat więzienia. Został już wezwany na przesłuchanie w charakterze podejrzanego."
+    }
+  ]
 }
