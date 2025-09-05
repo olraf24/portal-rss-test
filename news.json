@@ -1,13 +1,61 @@
 {
-  "lastUpdate": "2025-09-05T10:06:46.101Z",
+  "lastUpdate": "2025-09-05T10:37:51.552Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Wyniki sondażu partyjnego",
+      "link": "https://tvn24.pl/polska/polska-nowy-sondaz-partyjny-opinia-24-st8633441?source=rss",
+      "pubDate": "Fri, 05 Sep 2025 10:29:19 GMT",
+      "description": "Koalicja Obywatelska i Prawo i Sprawiedliwość mogą liczyć po równo na poparcie wynoszące 28,6 procent - wynika z nowego sondażu Opinia24.",
+      "originalTitle": "Nowy sondaż partyjny",
+      "originalDescription": "Koalicja Obywatelska i Prawo i Sprawiedliwość mogą liczyć po równo na poparcie wynoszące 28,6 procent - wynika z nowego sondażu Opinia24."
+    },
+    {
+      "title": "Uczeń zaatakował nauczycielkę nożem",
+      "link": "https://tvn24.pl/swiat/niemcy-uczen-zaatakowal-nauczycielke-nozem-i-uciekl-st8633227?source=rss",
+      "pubDate": "Fri, 05 Sep 2025 10:27:48 GMT",
+      "description": "• Uczeń szkoły w Essen w zachodnich Niemczech zaatakował nożem nauczycielkę\n• Zdarzenie to miało miejsce w szkole w Essen \n• Essen znajduje się w zachodnich Niemczech\n• O zdarzeniu poinformował dziennik \"Bild\"\n• Dziennik \"Bild\" poinformował o tym w piątek",
+      "originalTitle": "Uczeń zaatakował nauczycielkę nożem i uciekł",
+      "originalDescription": "Uczeń szkoły w Essen w zachodnich Niemczech zaatakował nożem nauczycielkę - poinformował w piątek dziennik \"Bild\"."
+    },
+    {
+      "title": "Leon XIV przyjął prezydenta z rodziną. Prezent dla papieża",
+      "link": "https://tvn24.pl/swiat/prezydent-karol-nawrocki-z-dziecmi-i-zona-na-audiencji-u-papieza-leona-xiv-st8633226?source=rss",
+      "pubDate": "Fri, 05 Sep 2025 09:28:44 GMT",
+      "description": "Prezydent Karol Nawrocki z rodziną przybył w piątek do Watykanu, gdzie zostali przyjęci na audiencji przez papieża Leona XIV. Ojciec święty otrzymał od prezydenta podarunek.",
+      "originalTitle": "Leon XIV przyjął prezydenta z rodziną. Prezent dla papieża",
+      "originalDescription": "Prezydent Karol Nawrocki z rodziną przybył w piątek do Watykanu, gdzie zostali przyjęci na audiencji przez papieża Leona XIV. Ojciec święty otrzymał od prezydenta podarunek."
+    },
+    {
+      "title": "Tusk o możliwości koalicji z Konfederacją",
+      "link": "https://tvn24.pl/polska/tusk-o-mozliwosci-koalicji-z-konfederacja-st8633355?source=rss",
+      "pubDate": "Fri, 05 Sep 2025 10:24:18 GMT",
+      "description": "Premier Donald Tusk stwierdził w piątek na konferencji w Łomży, że nie planuje i nie zakłada, aby wchodziła w grę \"egzotyczna koalicja\" Koalicji Obywatelskiej i Konfederacji. Ocenił również, że politycy Konfederacji mocno różnią się od siebie w poglądach, a część z nich idzie zbyt daleko w kierunku radykalnego liberalizmu.",
+      "originalTitle": "Tusk o możliwości koalicji z Konfederacją",
+      "originalDescription": "Premier Donald Tusk stwierdził w piątek na konferencji w Łomży, że nie planuje i nie zakłada, aby wchodziła w grę \"egzotyczna koalicja\" Koalicji Obywatelskiej i Konfederacji. Ocenił również, że politycy Konfederacji mocno różnią się od siebie w poglądach, a część z nich idzie zbyt daleko w kierunku radykalnego liberalizmu."
+    },
+    {
+      "title": "Nietrzeźwa babcia wiozła dwulatkę do żłobka",
+      "link": "https://tvn24.pl/szczecin/stargard-nietrzezwa-i-bez-prawa-jazdy-chciala-zawiezc-wnuczke-do-zlobka-st8632866?source=rss",
+      "pubDate": "Fri, 05 Sep 2025 10:24:00 GMT",
+      "description": "Nietrzeźwa kierująca została zatrzymana przez stargardzkich policjantów, gdy została zatrzymana do kontroli drogowej. Kobieta tłumaczyła, że wiozła swoją dwuletnią wnuczkę do żłobka. Wyszło na jaw, że nie powinna wsiadać za kierownicę.",
+      "originalTitle": "Nietrzeźwa babcia wiozła dwulatkę do żłobka",
+      "originalDescription": "Nietrzeźwa kierująca została zatrzymana przez stargardzkich policjantów, gdy została zatrzymana do kontroli drogowej. Kobieta tłumaczyła, że wiozła swoją dwuletnią wnuczkę do żłobka. Wyszło na jaw, że nie powinna wsiadać za kierownicę."
+    },
+    {
+      "title": "Wypadek autokaru, ofiary śmiertelne",
+      "link": "https://tvn24.pl/swiat/sri-lanka-wypadek-autokaru-z-turystami-sa-ofiary-smiertelne-st8633283?source=rss",
+      "pubDate": "Fri, 05 Sep 2025 10:12:16 GMT",
+      "description": "Co najmniej 15 osób zginęło w wypadku autokaru na Sri Lance - informują media. Pojazdem podróżowali turyści. Rannych zostało 16 osób.",
+      "originalTitle": "Wypadek autokaru z turystami. Są ofiary śmiertelne",
+      "originalDescription": "Co najmniej 15 osób zginęło w wypadku autokaru na Sri Lance - informują media. Pojazdem podróżowali turyści. Rannych zostało 16 osób."
+    },
+    {
       "title": "To najpiękniejszy szlak rowerowy na świecie",
       "link": "https://tvn24.pl/biznes/turystyka/francja-trasa-la-loire-a-velo-to-najpiekniejszy-szlak-rowerowy-na-swiecie-st8632816?source=rss",
       "pubDate": "Fri, 05 Sep 2025 10:01:00 GMT",
-      "description": "• Trasa La Loire a Velo położona jest w malowniczej Dolinie Loary.\n• Trasa ta zdobyła tytuł najpiękniejszej trasy rowerowej na świecie.\n• Tytuł ten wynika z zestawienia magazynu \"Time Out\".\n• Region, w którym znajduje się trasa, kusi wyśmienitą kuchnią.\n• Region ten oferuje również piękne krajobrazy.\n• Krajobrazy te mogą oczarować każdego miłośnika rowerowych podróży.",
+      "description": "Trasa La Loire a Velo w malowniczej Dolinie Loary zdobyła tytuł najpiękniejszej trasy rowerowej na świecie - wynika z zestawienia magazynu \"Time Out\". Ten francuski region kusi nie tylko wyśmienitą kuchnią, ale także pięknymi krajobrazami, które oczarują każdego miłośnika rowerowych podróży.",
       "originalTitle": "To najpiękniejszy szlak rowerowy na świecie",
       "originalDescription": "Trasa La Loire a Velo w malowniczej Dolinie Loary zdobyła tytuł najpiękniejszej trasy rowerowej na świecie - wynika z zestawienia magazynu \"Time Out\". Ten francuski region kusi nie tylko wyśmienitą kuchnią, ale także pięknymi krajobrazami, które oczarują każdego miłośnika rowerowych podróży."
     },
@@ -20,7 +68,7 @@
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia drugiego stopnia przed burzami. Wyładowaniom towarzyszyć będą obfite opady i silny wiatr. Obowiązują też żółte alarmy przed ulewami i upałem. Sprawdź, gdzie należy zachować szczególną ostrożność."
     },
     {
-      "title": "Koszty zakwaterowania w tenisie",
+      "title": "Bez trenera, w pokoju z innym zawodnikiem. Za co płaci się w tenisie?",
       "link": "https://tvn24.pl/eurosport/pieniadze-na-korcie-ile-w-rzeczywistosci-zarabiaja-tenisistki-i-tenisisci-st8631888?source=rss",
       "pubDate": "Fri, 05 Sep 2025 09:51:53 GMT",
       "description": "Wysiłek - ogromny, zarobki - zawrotne, to drugie dla nielicznych, wybrańców, którzy na szczyt lub w jego okolice docierają. Ile z tej góry pieniędzy zostaje dla tenisisty/tenisistki? Jak często sięgać muszą do kieszeni? - Nie chcę przesadzać, ale myślę, że 80 procent grających na koniec kariery finansowo wychodzi na zero - mówi Katarzyna Strączy. Z czym mierzy się Maks Kaśnikowski, w Wielkie Szlemy dopiero celujący?",
@@ -28,60 +76,12 @@
       "originalDescription": "Wysiłek - ogromny, zarobki - zawrotne, to drugie dla nielicznych, wybrańców, którzy na szczyt lub w jego okolice docierają. Ile z tej góry pieniędzy zostaje dla tenisisty/tenisistki? Jak często sięgać muszą do kieszeni? - Nie chcę przesadzać, ale myślę, że 80 procent grających na koniec kariery finansowo wychodzi na zero - mówi Katarzyna Strączy. Z czym mierzy się Maks Kaśnikowski, w Wielkie Szlemy dopiero celujący?"
     },
     {
-      "title": "Bruce Willis nie mieszka z rodziną. Żona wyjaśnia powody \"najcięższej decyzji\"",
-      "link": "https://tvn24.pl/swiat/bruce-willis-nie-mieszka-z-rodzina-zona-wyjasnia-powody-najciezszej-decyzji-st8633063?source=rss",
+      "title": "Bruce Willis mieszka oddzielnie od rodziny",
+      "link": "https://tvn24.pl/swiat/bruce-willis-nie-mieszka-z-rodzina-zona-wyjasnia-powody-najtrudniejszej-decyzji-st8633063?source=rss",
       "pubDate": "Fri, 05 Sep 2025 09:48:12 GMT",
       "description": "Rodzina Bruce'a Willisa mierzyła się z falą krytyki po tym, jak poinformowano, że aktor nie mieszka już w domu z rodziną. Emma Heming Willis wyjaśniła w rozmowie z magazynem \"People\" powody tej decyzji. Jak przyznała, jej mąż \"wymaga spokojnej i pogodnej atmosfery\" i taką ma w znajdującym się nieopodal domu.",
-      "originalTitle": "Bruce Willis nie mieszka z rodziną. Żona wyjaśnia powody \"najcięższej decyzji\"",
+      "originalTitle": "Bruce Willis nie mieszka z rodziną. Żona wyjaśnia powody \"najtrudniejszej decyzji\"",
       "originalDescription": "Rodzina Bruce'a Willisa mierzyła się z falą krytyki po tym, jak poinformowano, że aktor nie mieszka już w domu z rodziną. Emma Heming Willis wyjaśniła w rozmowie z magazynem \"People\" powody tej decyzji. Jak przyznała, jej mąż \"wymaga spokojnej i pogodnej atmosfery\" i taką ma w znajdującym się nieopodal domu."
-    },
-    {
-      "title": "34-latek oskarżony o usiłowanie zabójstwa",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/kajetany-nadarzyn-sprzeczka-i-atak-nozem-zatrzymano-podejrzanego-st8633289?source=rss",
-      "pubDate": "Fri, 05 Sep 2025 09:46:26 GMT",
-      "description": "Sprzeczka między 34-latkiem a 36-latkiem zakończyła się tym, że pierwszy wyciągnął nóż i zranił drugiego. Po wszystkim wsiadł w samochód i uciekł. Kilka godzin później podejrzany został trzymany. Odpowie za usiłowanie zabójstwa.",
-      "originalTitle": "Sprzeczka poszła za daleko. 34-latek odpowie za usiłowanie zabójstwa",
-      "originalDescription": "Sprzeczka między 34-latkiem a 36-latkiem zakończyła się tym, że pierwszy wyciągnął nóż i zranił drugiego. Po wszystkim wsiadł w samochód i uciekł. Kilka godzin później podejrzany został trzymany. Odpowie za usiłowanie zabójstwa."
-    },
-    {
-      "title": "Kamil zmarł po długiej chorobie",
-      "link": "https://tvn24.pl/polska/kamil-umieral-w-meczarniach-i-nikomu-nie-zaswiecila-sie-czerwona-lampka-nowe-informacje-w-sprawie-st8632664?source=rss",
-      "pubDate": "Fri, 05 Sep 2025 09:42:37 GMT",
-      "description": "• Ośmioletni Kamilek był pod opieką wielu instytucji.\n• Mimo tego nikt nie zauważył niewyobrażalnego cierpienia dziecka.\n• Reporter \"Uwagi!\" TVN to Marcin Jakóbczyk.\n• Marcin Jakóbczyk prześledził ostatnie chwile chłopca.\n• Marcin Jakóbczyk dotar�� do kolejnych informacji w sprawie śmierci Kamilka.",
-      "originalTitle": "Kamil umierał w męczarniach i \"nikomu nie zaświeciła się czerwona lampka\"",
-      "originalDescription": "Ośmioletni Kamilek był pod opieką wielu instytucji. Mimo tego nikt nie zauważył niewyobrażalnego cierpienia dziecka. Reporter \"Uwagi!\" TVN Marcin Jakóbczyk prześledził ostatnie chwile chłopca i dotarł do kolejnych informacji w sprawie jego śmierci."
-    },
-    {
-      "title": "Paraliż miasta po przejściu huraganu",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/meksyk-paraliz-miasta-po-przejsciu-huraganu-st8633174?source=rss",
-      "pubDate": "Fri, 05 Sep 2025 09:38:02 GMT",
-      "description": "Deszcz, błoto i sparaliżowane ulice - miasto Los Cabos w północno-zachodnim Meksyku zmaga się ze skutkami huraganu Lorena, który przyniósł ulewy i silny wiatr, mimo że ominął miasto o kilkaset kilometrów.",
-      "originalTitle": "Paraliż miasta po przejściu huraganu",
-      "originalDescription": "Deszcz, błoto i sparaliżowane ulice - miasto Los Cabos w północno-zachodnim Meksyku zmaga się ze skutkami huraganu Lorena, który przyniósł ulewy i silny wiatr, mimo że ominął miasto o kilkaset kilometrów."
-    },
-    {
-      "title": "Prezydent z rodziną u papieża Leona XIV",
-      "link": "https://tvn24.pl/swiat/prezydent-karol-nawrocki-z-dziecmi-i-zona-na-audiencji-u-papieza-leona-xiv-st8633226?source=rss",
-      "pubDate": "Fri, 05 Sep 2025 09:28:44 GMT",
-      "description": "Prezydent Karol Nawrocki oraz pierwsza dama Marta Nawrocka przybyli w piątek do Watykanu, gdzie zostali przyjęci na audiencji przez papieża Leona XIV. W Pałacu Apostolskim parze prezydenckiej towarzyszą ich dzieci.",
-      "originalTitle": "Prezydent z rodziną u papieża Leona XIV",
-      "originalDescription": "Prezydent Karol Nawrocki oraz pierwsza dama Marta Nawrocka przybyli w piątek do Watykanu, gdzie zostali przyjęci na audiencji przez papieża Leona XIV. W Pałacu Apostolskim parze prezydenckiej towarzyszą ich dzieci."
-    },
-    {
-      "title": "Awarie chemiczna w gdańskiej fabryce lodów",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-wyciek-amoniaku-w-zakladach-produkcji-lodow-st8632811?source=rss",
-      "pubDate": "Fri, 05 Sep 2025 09:21:43 GMT",
-      "description": "Na terenie zakładów LODMOR przy skrzyżowaniu ulic Długa Grobla i Wiesława w Gdańsku doszło do wycieku amoniaku. Jedna osoba wymagała pomocy medycznej. Gaz był wyczuwalny na zewnątrz, jednak nie stanowił zagrożenia dla okolicznych mieszkańców.",
-      "originalTitle": "Wyciek amoniaku w zakładach produkcji lodów w Gdańsku",
-      "originalDescription": "Na terenie zakładów LODMOR przy skrzyżowaniu ulic Długa Grobla i Wiesława w Gdańsku doszło do wycieku amoniaku. Jedna osoba wymagała pomocy medycznej. Gaz był wyczuwalny na zewnątrz, jednak nie stanowił zagrożenia dla okolicznych mieszkańców."
-    },
-    {
-      "title": "Kradzież w kościele. Dwa razy włamał się do skarbonek. Za pierwszym razem ksiądz mu odpuścił",
-      "link": "https://tvn24.pl/lublin/powiat-bialski-kradziez-w-kosciele-dwa-razy-wlamal-sie-do-skarbonek-za-pierwszym-razem-ksiadz-mu-odpuscil-st8633027?source=rss",
-      "pubDate": "Fri, 05 Sep 2025 09:18:21 GMT",
-      "description": "Policja zatrzymała 22-latka, który przyznał się do tego, że dwukrotnie włamał się do skarbonek znajdujących się w jednym z sanktuariów na terenie powiatu bialskiego (woj. lubelskie). Za pierwszym razem ksiądz nie wzywał służb. Łącznie zniknęło niemal 7 tys. zł. Okazało się też, że mężczyzna jest poszukiwany.",
-      "originalTitle": "Kradzież w kościele. Dwa razy włamał się do skarbonek. Za pierwszym razem ksiądz mu odpuścił",
-      "originalDescription": "Policja zatrzymała 22-latka, który przyznał się do tego, że dwukrotnie włamał się do skarbonek znajdujących się w jednym z sanktuariów na terenie powiatu bialskiego (woj. lubelskie). Za pierwszym razem ksiądz nie wzywał służb. Łącznie zniknęło niemal 7 tys. zł. Okazało się też, że mężczyzna jest poszukiwany."
     }
   ]
 }
