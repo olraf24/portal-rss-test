@@ -1,42 +1,58 @@
 {
-  "lastUpdate": "2025-09-06T18:06:25.056Z",
+  "lastUpdate": "2025-09-06T18:37:45.337Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Lubelskie. Niezidentyfikowany obiekt spadł na pole",
+      "title": "Rośliny świecące w ciemności",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/rosliny-jak-z-avatara-swieca-w-ciemnosci-roznymi-kolorami-st8626073?source=rss",
+      "pubDate": "Sat, 06 Sep 2025 18:20:51 GMT",
+      "description": "Chińscy naukowcy stworzyli rośliny, które są w stanie ładować się światłem słonecznym i świecić w ciemności przez kilka godzin. Badacze uważają, że mogą one w przyszłości zastąpić małe lampki ogrodowe.",
+      "originalTitle": "Rośliny jak z \"Avatara\". Świecą w ciemności różnymi kolorami",
+      "originalDescription": "Chińscy naukowcy stworzyli rośliny, które są w stanie ładować się światłem słonecznym i świecić w ciemności przez kilka godzin. Badacze uważają, że mogą one w przyszłości zastąpić małe lampki ogrodowe."
+    },
+    {
+      "title": "Dubois skomentował działania wobec Trybunału Stanu",
+      "link": "https://tvn24.pl/polska/awantura-w-trybunale-stanu-jacek-dubois-o-dzialaniu-majacym-na-celu-sparalizowanie-trybunalu-stanu-st8635631?source=rss",
+      "pubDate": "Sat, 06 Sep 2025 18:18:45 GMT",
+      "description": "• To było pewne zaplanowane działanie mające na celu sparaliżowanie Trybunału Stanu.\n• Celem działania było doprowadzenie do tego, żeby zgodnie z ustawą Trybunał Stanu nie mógł się zająć kwestią immunitetu prezes Małgorzaty Manowskiej.\n• Mecenas Jacek Dubois, wiceprzewodniczący Trybunału Stanu, wypowiedział się na ten temat w programie \"Faktach po Faktach\" w TVN24.\n• Jacek Dubois odniósł się do awantury, która miała miejsce w czasie obrad Trybunału Stanu.\n• Zachowanie wiceprezesa Piotra Andrzejewskiego było jednym z tematów, do których odniósł się Jacek Dubois.",
+      "originalTitle": "Dubois o \"działaniu mającym na celu sparaliżowanie Trybunału Stanu\"",
+      "originalDescription": "To było pewne zaplanowane działanie mające na celu sparaliżowanie Trybunału Stanu, czyli doprowadzenie do tego, żeby zgodnie z ustawą nie mógł się zająć kwestią immunitetu prezes Małgorzaty Manowskiej - mówił w \"Faktach po Faktach\" w TVN24 mecenas Jacek Dubois, wiceprzewodniczący TS. Odniósł się w ten sposób do awantury w czasie obrad i zachowania wiceprezesa Piotra Andrzejewskiego."
+    },
+    {
+      "title": "Obiekt spadł na pole w Lubelskiem",
       "link": "https://tvn24.pl/najnowsze/lubelskie-niezidentyfikowany-obiekt-spadl-na-pola-st8635630?source=rss",
       "pubDate": "Sat, 06 Sep 2025 17:24:19 GMT",
-      "description": "Niezidentyfikowany obiekt spadł na pole w miejscowości Majdan-Sielec (woj. lubelskie). Na miejscu pracują służby. Nikomu nic się nie stało. Według rzecznika MON \"nie nosił cech wojskowych\".",
+      "description": "• Niezidentyfikowany obiekt spadł na pole w miejscowości Majdan-Sielec.\n• Miejscowość Majdan-Sielec znajduje się w województwie lubelskim.\n• Na miejscu zdarzenia pracują służby.\n• Nikomu nic się nie stało w wyniku zdarzenia.\n• Według rzecznika MON, obiekt nie nosił cech wojskowych.",
       "originalTitle": "Lubelskie. Niezidentyfikowany obiekt spadł na pole",
       "originalDescription": "Niezidentyfikowany obiekt spadł na pole w miejscowości Majdan-Sielec (woj. lubelskie). Na miejscu pracują służby. Nikomu nic się nie stało. Według rzecznika MON \"nie nosił cech wojskowych\"."
     },
     {
-      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "title": "Prognoza pogody: burza wieczorem",
       "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-sprawdz-gdzie-grzmi-w-sobote-6-wrzesnia-radar-opadow-i-mapa-burz-st8634765?source=rss",
       "pubDate": "Sat, 06 Sep 2025 05:44:02 GMT",
-      "description": "Gdzie jest burza? W sobotę 6.09 wieczorem grzmi w części kraju. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w Polsce w tvnmeteo.pl.",
+      "description": "• W sobotę 6.09 wieczorem występują wyładowania w części kraju.\n• Wyładowaniom towarzyszą opady deszczu.\n• Wyładowaniom towarzyszy silny wiatr.\n• Można śledzić aktualną sytuację pogodową w Polsce w tvnmeteo.pl.",
       "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
       "originalDescription": "Gdzie jest burza? W sobotę 6.09 wieczorem grzmi w części kraju. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w Polsce w tvnmeteo.pl."
     },
     {
-      "title": "Uwaga na burze. W mocy żółte alarmy IMGW",
+      "title": "Żółte alarmy IMGW dla burz",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-burze-w-polsce-w-sobote-6-09-st8624894?source=rss",
       "pubDate": "Sat, 06 Sep 2025 04:53:00 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed burzami. Wyładowaniom towarzyszyć mają obfite opady deszczu i silny wiatr. Sprawdź gdzie aura będzie groźna.",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed burzami.\n• Wyładowaniom towarzyszyć mają obfite opady deszczu.\n• Wyładowaniom towarzyszyć mają silny wiatr.\n• Aura będzie groźna w określonych miejscach, które można sprawdzić.",
       "originalTitle": "Uwaga na burze. W mocy żółte alarmy IMGW",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed burzami. Wyładowaniom towarzyszyć mają obfite opady deszczu i silny wiatr. Sprawdź gdzie aura będzie groźna."
     },
     {
-      "title": "Atak \"ostrym narzędziem\" w parku. 17-latek aresztowany",
+      "title": "17-latek aresztowany po zdarzeniu w parku",
       "link": "https://tvn24.pl/olsztyn/paslek-atak-w-parku-dwoch-nastolatkow-rannych-zatrzymano-17-latka-st8633698?source=rss",
       "pubDate": "Fri, 05 Sep 2025 11:55:00 GMT",
-      "description": "Dwóch nastolatków zostało zaatakowanych \"ostrym narzędziem\" w parku w Pasłęku (województwo warmińsko-mazurskie). Ranni chłopcy trafili do szpitala. Podejrzany w sprawie 17-latek został aresztowany.",
+      "description": "• Dwóch nastolatków zostało zaatakowanych \"ostrym narzędziem\" w parku w Pasłęku.\n• Atak miał miejsce w województwie warmińsko-mazurskim.\n• Ranni chłopcy trafili do szpitala.\n• Podejrzany w sprawie to 17-latek.\n• Podejrzany został aresztowany.",
       "originalTitle": "Atak \"ostrym narzędziem\" w parku. 17-latek aresztowany",
       "originalDescription": "Dwóch nastolatków zostało zaatakowanych \"ostrym narzędziem\" w parku w Pasłęku (województwo warmińsko-mazurskie). Ranni chłopcy trafili do szpitala. Podejrzany w sprawie 17-latek został aresztowany."
     },
     {
-      "title": "Pogoda na jutro - niedziela, 7.09. Mgły spowiją część kraju",
+      "title": "Pogoda na 7.09: mgły w części kraju",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-7-09-mgly-spowija-czesc-kraju-st8635515?source=rss",
       "pubDate": "Sat, 06 Sep 2025 17:18:24 GMT",
       "description": "Pogoda na jutro, czyli na niedzielę 7.09. W nocy w niektórych rejonach kraju popada i zagrzmi, w innych pojawią się zamglenia i mgły. Dzień przyniesie pochmurną aurę.",
@@ -66,22 +82,6 @@
       "description": "Międzynarodowy Festiwal Filmowy w Wenecji zbliża się ku końcowi. Przewodniczący tegorocznego jury Konkursu Głównego Alexander Payne ogłosi w sobotni wieczór tytuł filmu, który zdobył Złotego Lwa.",
       "originalTitle": "Złoty Lew 2025. Ceremonia zamknięcia 82. MFF w Wenecji",
       "originalDescription": "Międzynarodowy Festiwal Filmowy w Wenecji zbliża się ku końcowi. Przewodniczący tegorocznego jury Konkursu Głównego Alexander Payne ogłosi w sobotni wieczór tytuł filmu, który zdobył Złotego Lwa."
-    },
-    {
-      "title": "Narodowe Czytanie z parą prezydencką. \"Literatura jest kapsułą czasu\"",
-      "link": "https://tvn24.pl/polska/narodowe-czytanie-poezji-jana-kochanowskiego-z-para-prezydencka-w-ogrodach-saskich-st8635573?source=rss",
-      "pubDate": "Sat, 06 Sep 2025 16:39:15 GMT",
-      "description": "Prezydent Karol Nawrocki z małżonką Martą Nawrocką wzięli w sobotę udział w finale Narodowego Czytania poezji Jana Kochanowskiego. - Sięgamy do poezji mistrza, która mimo upływu 500 lat jest ciągle z nami - mówił prezydent. W wydarzeniu uczestniczyło również grono aktorów i zespół muzyczny.",
-      "originalTitle": "Narodowe Czytanie z parą prezydencką. \"Literatura jest kapsułą czasu\"",
-      "originalDescription": "Prezydent Karol Nawrocki z małżonką Martą Nawrocką wzięli w sobotę udział w finale Narodowego Czytania poezji Jana Kochanowskiego. - Sięgamy do poezji mistrza, która mimo upływu 500 lat jest ciągle z nami - mówił prezydent. W wydarzeniu uczestniczyło również grono aktorów i zespół muzyczny."
-    },
-    {
-      "title": "W niedzielę czeka nas spektakularne zjawisko",
-      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/zacmienie-ksiezyca-2025-krwawy-ksiezyc-2025-przed-nami-wyjatkowe-zjawisko-astronomiczne-bedzie-widoczne-w-polsce-st8625908?source=rss",
-      "pubDate": "Sat, 06 Sep 2025 16:34:00 GMT",
-      "description": "W niedzielę dojdzie do całkowitego zaćmienia Księżyca. To jedno z najciekawszych zjawisk astronomicznych tego roku. Sprawdź, kiedy warto spojrzeć w niebo.",
-      "originalTitle": "W niedzielę czeka nas spektakularne zjawisko",
-      "originalDescription": "W niedzielę dojdzie do całkowitego zaćmienia Księżyca. To jedno z najciekawszych zjawisk astronomicznych tego roku. Sprawdź, kiedy warto spojrzeć w niebo."
     }
   ]
 }
