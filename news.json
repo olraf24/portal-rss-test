@@ -1,18 +1,58 @@
 {
-  "lastUpdate": "2025-09-08T05:06:26.098Z",
+  "lastUpdate": "2025-09-08T05:36:25.425Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Olbrzymie straty gospodarki",
+      "title": "Planeta ma czerwoną barwę",
+      "link": "https://tvn24.pl/tvnmeteo/polska/zacmienie-ksiezyca-2025-krwawy-ksiezyc-2025-w-oczach-reporterow24-st8636536?source=rss",
+      "pubDate": "Sun, 07 Sep 2025 17:31:38 GMT",
+      "description": "W niedzielę mogliśmy podziwiać wyjątkowe zjawisko astronomiczne - zaćmienie Księżyca. Było ono widoczne w Polsce. Zdjęcia otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Srebrny Glob? Nie, czerwony",
+      "originalDescription": "W niedzielę mogliśmy podziwiać wyjątkowe zjawisko astronomiczne - zaćmienie Księżyca. Było ono widoczne w Polsce. Zdjęcia otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Zatrzymano 900 osób podczas protestu",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-londyn-policja-zatrzymala-prawie-900-demonstrantow-wspierajacych-palestine-action-st8636992?source=rss",
+      "pubDate": "Mon, 08 Sep 2025 05:15:08 GMT",
+      "description": "• W Londynie w czasie sobotniej demonstracji wspierającej grupę Palestine Action zatrzymano 890 protestujących.\n• Zatrzymania dokonano w czasie demonstracji wspierającej grupę Palestine Action.\n• Demonstracja odbyła się w sobotę.\n• Policja metropolitarna poinformowała o zatrzymaniach.\n• W lipcu brytyjski rząd podjął decyzję o zdelegalizowaniu grupy Palestine Action.",
+      "originalTitle": "Prawie 900 osób zatrzymanych w czasie protestu",
+      "originalDescription": "W Londynie w czasie sobotniej demonstracji wspierającej grupę Palestine Action zatrzymano 890 protestujących - poinformowała policja metropolitarna. W lipcu brytyjski rząd podjął decyzję o zdelegalizowaniu grupy."
+    },
+    {
+      "title": "Nowy wiadukt zyskuje nawierzchnię",
+      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-budowa-wiaduktu-w-rembertowie-ukladaja-nawierzchnie-kiedy-koniec-prac-st8636504?source=rss",
+      "pubDate": "Mon, 08 Sep 2025 05:07:32 GMT",
+      "description": "W Rembertowie nad linią kolejową Warszawa - Terespol powstaje wiadukt. Na plac budowy wjechały walce. Na samym obiekcie i dojazdach do niego układana jest nawierzchnia. Prace mają zakończyć się jeszcze w tym roku.",
+      "originalTitle": "Rozściełacze i walce w akcji. Pierwsze warstwy nawierzchni na nowym wiadukcie",
+      "originalDescription": "W Rembertowie nad linią kolejową Warszawa - Terespol powstaje wiadukt. Na plac budowy wjechały walce. Na samym obiekcie i dojazdach do niego układana jest nawierzchnia. Prace mają zakończyć się jeszcze w tym roku."
+    },
+    {
+      "title": "Alarmy IMGW drugiego stopnia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-poniedzialek-8-09-burze-geste-mgly-alarmy-pierwszego-i-drugiego-stopnia-uwazajmy-st8637125?source=rss",
+      "pubDate": "Mon, 08 Sep 2025 05:05:14 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed burzami. Synoptycy wydali ostrzeżenia pierwszego i drugiego stopnia. W mocy są też ostrzeżenia przed gęstymi mgłami. Sprawdź, gdzie aura będzie groźna.",
+      "originalTitle": "Alarmy IMGW, miejscami nawet drugiego stopnia. Uważajmy",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed burzami. Synoptycy wydali ostrzeżenia pierwszego i drugiego stopnia. W mocy są też ostrzeżenia przed gęstymi mgłami. Sprawdź, gdzie aura będzie groźna."
+    },
+    {
+      "title": "Edukacja zdrowotna i jej wpływ",
+      "link": "https://tvn24.pl/polska/edukacja-zdrowotna-polityka-wplywa-na-szkole-st8633044?source=rss",
+      "pubDate": "Mon, 08 Sep 2025 05:04:33 GMT",
+      "description": "• Kłótnie mają miejsce w pokojach nauczycielskich.\n• Kłótnie mają miejsce przy rodzinnych stołach.\n• Nauczycielki nowego przedmiotu są obcesowo traktowane w sklepach.\n• Rodzice odczuwają niepokój.\n• Spór o edukację zdrowotną zaczął się w Sejmie.\n• Spór o edukację zdrowotną wyszedł poza debaty polityków i polityczek.\n• Kłótnie dotyczą seksualności.\n• Kłótnie dotyczą diety.",
+      "originalTitle": "\"To chore\". Co z ludźmi robi edukacja zdrowotna?",
+      "originalDescription": "Kłótnie w pokojach nauczycielskich i przy rodzinnych stołach. Nauczycielki nowego przedmiotu obcesowo traktowane w sklepach i rodzice pełni niepokoju. Spór o edukację zdrowotną zaczął się w Sejmie, ale właśnie wyszedł daleko poza debaty polityków i polityczek. Kłócimy się już nie tylko o seksualność, ale nawet o dietę."
+    },
+    {
+      "title": "Straty gospodarcze",
       "link": "https://tvn24.pl/biznes/dlafirm/olbrzymie-straty-gospodarki-st8637087?source=rss",
       "pubDate": "Mon, 08 Sep 2025 04:43:59 GMT",
-      "description": "Polskie firmy coraz częściej rezygnują z transakcji, które mogłyby przynieść im zyski - donosi w poniedziałek \"Rzeczpospolita\". Powodem są obawy przed nieuczciwymi kontrahentami.",
+      "description": "• Polskie firmy coraz częściej rezygnują z transakcji, które mogłyby przynieść im zyski.\n• Powodem są obawy przed nieuczciwymi kontrahentami.\n• Informację tę podaje w poniedziałek \"Rzeczpospolita\".",
       "originalTitle": "Olbrzymie straty gospodarki",
       "originalDescription": "Polskie firmy coraz częściej rezygnują z transakcji, które mogłyby przynieść im zyski - donosi w poniedziałek \"Rzeczpospolita\". Powodem są obawy przed nieuczciwymi kontrahentami."
     },
     {
-      "title": "\"Kreml ponownie kpi z dyplomacji\", \"pogrąża się w logice wojny\"",
+      "title": "Rosja zmienia podejście do dyplomacji",
       "link": "https://tvn24.pl/swiat/kreml-ponownie-kpi-z-dyplomacji-pograza-sie-w-logice-wojny-liderzy-o-najwiekszym-rosyjskim-ataku-na-kijow-st8636981?source=rss",
       "pubDate": "Mon, 08 Sep 2025 04:40:21 GMT",
       "description": "Te tchórzliwe ataki pokazują, że Władimir Putin wierzy, że może działać bezkarnie. Nie traktuje pokoju poważnie - ocenił brytyjski premier Keir Starmer. On i inni europejscy liderzy potępili największy do tej pory zmasowany rosyjski atak na Ukrainę.",
@@ -20,68 +60,28 @@
       "originalDescription": "Te tchórzliwe ataki pokazują, że Władimir Putin wierzy, że może działać bezkarnie. Nie traktuje pokoju poważnie - ocenił brytyjski premier Keir Starmer. On i inni europejscy liderzy potępili największy do tej pory zmasowany rosyjski atak na Ukrainę."
     },
     {
-      "title": "\"Putin będzie musiał zasiąść do stołu\". USA \"są gotowe\"",
+      "title": "Stany Zjednoczone gotowe do rozmów z Rosją",
       "link": "https://tvn24.pl/swiat/putin-bedzie-musial-zasiasc-do-stolu-usa-sa-gotowe-st8636984?source=rss",
       "pubDate": "Mon, 08 Sep 2025 04:21:39 GMT",
-      "description": "Jeśli USA i Unia Europejska będą mogły nałożyć więcej sankcji i ceł wtórnych na kraje kupujące rosyjską ropę, rosyjska gospodarka znajdzie się w stanie całkowitego załamania - powiedział minister finansów USA Scott Bessent. W niedzielnym wywiadzie mówił o tym, co sprawi, że Władimir Putin \"będzie musiał zasiąść do stołu\".",
+      "description": "• USA i Unia Europejska mogą nałożyć więcej sankcji i ceł wtórnych na kraje kupujące rosyjską ropę.\n• Rosyjska gospodarka znajdzie się w stanie całkowitego załamania, jeśli sankcje i cła zostaną nałożone.\n• Minister finansów USA to Scott Bessent.\n• Scott Bessent wyraził swoje opinie w niedzielnym wywiadzie.\n• W wywiadzie mówił o tym, co sprawi, że Władimir Putin \"będzie musiał zasiąść do stołu\".",
       "originalTitle": "\"Putin będzie musiał zasiąść do stołu\". USA \"są gotowe\"",
       "originalDescription": "Jeśli USA i Unia Europejska będą mogły nałożyć więcej sankcji i ceł wtórnych na kraje kupujące rosyjską ropę, rosyjska gospodarka znajdzie się w stanie całkowitego załamania - powiedział minister finansów USA Scott Bessent. W niedzielnym wywiadzie mówił o tym, co sprawi, że Władimir Putin \"będzie musiał zasiąść do stołu\"."
     },
     {
-      "title": "Alert RCB na południu kraju. \"Słuchaj poleceń służb\"",
+      "title": "Ostrzeżenie RCB na południu kraju",
       "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-poniedzialek-8-09-intensywne-opady-deszczu-burze-sluchaj-polecen-sluzb-st8637066?source=rss",
       "pubDate": "Mon, 08 Sep 2025 04:19:15 GMT",
-      "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało alert RCB w związku z prognozowanymi intensywnymi opadami deszczu i burzami. SMS-owe ostrzeżenia otrzymały osoby przebywające na terenie dwóch powiatów.",
+      "description": "• Rządowe Centrum Bezpieczeństwa wysłało alert RCB.\n• Alert został wysłany w związku z prognozowanymi intensywnymi opadami deszczu i burzami.\n• Ostrzeżenia zostały wysłane w formie SMS-ów.\n• Ostrzeżenia otrzymały osoby przebywające na terenie dwóch powiatów.",
       "originalTitle": "Alert RCB na południu kraju. \"Słuchaj poleceń służb\"",
       "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało alert RCB w związku z prognozowanymi intensywnymi opadami deszczu i burzami. SMS-owe ostrzeżenia otrzymały osoby przebywające na terenie dwóch powiatów."
     },
     {
-      "title": "Nawrocki przyleciał do Wilna. Rozpoczyna kolejną wizytę",
+      "title": "Nawrocki w Wilnie rozpoczyna wizytę",
       "link": "https://tvn24.pl/swiat/prezydent-karol-nawrocki-przylecial-do-wilna-rozpoczyna-kolejna-zagraniczna-wizyte-st8637021?source=rss",
       "pubDate": "Mon, 08 Sep 2025 04:06:27 GMT",
       "description": "Prezydent Karol Nawrocki w nocy z niedzieli na poniedziałek wylądował w Wilnie, stolicy Litwy. Spotka się tam z prezydentem Gitanasem Nausedą oraz przedstawicielami litewskiej Polonii.",
       "originalTitle": "Nawrocki przyleciał do Wilna. Rozpoczyna kolejną wizytę",
       "originalDescription": "Prezydent Karol Nawrocki w nocy z niedzieli na poniedziałek wylądował w Wilnie, stolicy Litwy. Spotka się tam z prezydentem Gitanasem Nausedą oraz przedstawicielami litewskiej Polonii."
-    },
-    {
-      "title": "Mała wpadka Leona XIV. \"Przepraszam\"",
-      "link": "https://tvn24.pl/swiat/watykan-mala-wpadka-papieza-leona-xiv-przepraszam-st8636982?source=rss",
-      "pubDate": "Mon, 08 Sep 2025 04:00:06 GMT",
-      "description": "Papież Leon XIV przypadkowo trącił operatora kamery watykańskich mediów, gdy próbował złapać prezent rzucony przez jednego z wiernych. Wcześniej odbyła się pierwsza msza kanonizacyjna nowego pontyfikatu, na którą przybyły dziesiątki tysięcy wiernych z całego świata.",
-      "originalTitle": "Mała wpadka Leona XIV. \"Przepraszam\"",
-      "originalDescription": "Papież Leon XIV przypadkowo trącił operatora kamery watykańskich mediów, gdy próbował złapać prezent rzucony przez jednego z wiernych. Wcześniej odbyła się pierwsza msza kanonizacyjna nowego pontyfikatu, na którą przybyły dziesiątki tysięcy wiernych z całego świata."
-    },
-    {
-      "title": "Niepokojące odkrycie na Lubelszczyźnie. Przy granicy znaleziono szczątki latającego obiektu",
-      "link": "https://tvn24.pl/polska/lubelskie-przy-granicy-znaleziono-szczatki-latajacego-obiektu-st8637026?source=rss",
-      "pubDate": "Mon, 08 Sep 2025 03:53:01 GMT",
-      "description": "W rejonie przejścia granicznego w Terespolu (woj. lubelskie) znaleziono szczątki niezidentyfikowanego obiektu latającego - poinformowała w nocy miejscowa policja. To kolejne takie odkrycie w ostatnim czasie.",
-      "originalTitle": "Niepokojące odkrycie na Lubelszczyźnie. Przy granicy znaleziono szczątki latającego obiektu",
-      "originalDescription": "W rejonie przejścia granicznego w Terespolu (woj. lubelskie) znaleziono szczątki niezidentyfikowanego obiektu latającego - poinformowała w nocy miejscowa policja. To kolejne takie odkrycie w ostatnim czasie."
-    },
-    {
-      "title": "\"Pewni europejscy przywódcy\" przylecą do USA. \"Trzeba to zakończyć\"",
-      "link": "https://tvn24.pl/swiat/donald-trump-pewni-europejscy-przywodcy-przyleca-do-usa-by-omowic-zakonczenie-wojny-w-ukrainie-st8637024?source=rss",
-      "pubDate": "Mon, 08 Sep 2025 03:41:06 GMT",
-      "description": "Donald Trump zapowiedział, że na początku tego tygodnia do Waszyngtonu przybędą europejscy przywódcy, by omówić zakończenie wojny w Ukrainie. Nie podał nazwisk. Prezydent USA poinformował też, że w najbliższych dniach przeprowadzi rozmowę z Władimirem Putinem.",
-      "originalTitle": "\"Pewni europejscy przywódcy\" przylecą do USA. \"Trzeba to zakończyć\"",
-      "originalDescription": "Donald Trump zapowiedział, że na początku tego tygodnia do Waszyngtonu przybędą europejscy przywódcy, by omówić zakończenie wojny w Ukrainie. Nie podał nazwisk. Prezydent USA poinformował też, że w najbliższych dniach przeprowadzi rozmowę z Władimirem Putinem."
-    },
-    {
-      "title": "Dron rozbił się \"w poczekalni dla pasażerów\"",
-      "link": "https://tvn24.pl/swiat/izrael-lotnisko-ramon-dron-rozbil-sie-w-poczekalni-dla-pasazerow-dwie-osoby-ranne-st8636980?source=rss",
-      "pubDate": "Mon, 08 Sep 2025 03:28:57 GMT",
-      "description": "Dron wystrzelony z Jemenu trafił w port lotniczy Ramon położony niedaleko kurortu Ejlat nad Morzem Czerwonym - poinformowała armia Izraela. W zdarzeniu ranne zostały dwie osoby, a port lotniczy wstrzymał na krótko pracę.",
-      "originalTitle": "Dron rozbił się \"w poczekalni dla pasażerów\"",
-      "originalDescription": "Dron wystrzelony z Jemenu trafił w port lotniczy Ramon położony niedaleko kurortu Ejlat nad Morzem Czerwonym - poinformowała armia Izraela. W zdarzeniu ranne zostały dwie osoby, a port lotniczy wstrzymał na krótko pracę."
-    },
-    {
-      "title": "Ewakuacja, ważna wygrana, nowi święci",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-8-wrzesnia-2025-najwazniejsze-wydarzenia-st8636907?source=rss",
-      "pubDate": "Mon, 08 Sep 2025 03:11:33 GMT",
-      "description": "W mieszkaniu rannych w sobotnim wybuchu na poligonie wojskowym w Rembertowie znaleziono materiały wybuchowe. Służby zdecydowały o ewakuacji mieszkających w pobliżu osób. W Kijowie po raz pierwszy Rosja zaatakowała budynek ukraińskiego rządu. Wielkie zwycięstwo Polskiej reprezentacji z Finlandią w meczu eliminacji mistrzostw świata. Oto pięć rzeczy, które warto wiedzieć w niedzielę 8 września.",
-      "originalTitle": "Ewakuacja, ważna wygrana, nowi święci",
-      "originalDescription": "W mieszkaniu rannych w sobotnim wybuchu na poligonie wojskowym w Rembertowie znaleziono materiały wybuchowe. Służby zdecydowały o ewakuacji mieszkających w pobliżu osób. W Kijowie po raz pierwszy Rosja zaatakowała budynek ukraińskiego rządu. Wielkie zwycięstwo Polskiej reprezentacji z Finlandią w meczu eliminacji mistrzostw świata. Oto pięć rzeczy, które warto wiedzieć w niedzielę 8 września."
     }
   ]
 }
