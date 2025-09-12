@@ -1,26 +1,58 @@
 {
-  "lastUpdate": "2025-09-12T16:37:04.600Z",
+  "lastUpdate": "2025-09-12T17:05:33.477Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zatrzymany za przemyt papierosów",
+      "title": "Przyciski SOS w Łodzi działają",
+      "link": "https://tvn24.pl/fakty-artykuly/lodz-przyciski-sos-wzywajace-straz-miejska-doprowadzily-juz-do-udanych-interwencji-st8645216?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 16:59:16 GMT",
+      "description": "• Z jednej strony przycisku znajduje się przycisk i kamera.\n• Z drugiej strony przycisku znajduje się operator systemu SOS.\n• W Łodzi jest już 26 takich przycisków.\n• Przyciski zostały zamontowane w miejscach, gdzie jest niebezpiecznie.\n• Istnieją przykłady potwierdzające, że system działa.",
+      "originalTitle": "Przyciski SOS w Łodzi sprawdzają się. \"W dzisiejszych czasach jest to potrzebne\"",
+      "originalDescription": "Z jednej strony są przycisk i kamera, a z drugiej strony - operator systemu SOS. W Łodzi takich przycisków jest już 26 i nie zamontowano ich w przypadkowych miejscach, ale tam, gdzie jest niebezpiecznie. Są przykłady na to, że ten system działa."
+    },
+    {
+      "title": "Tusk apeluje do polskich partii politycznych",
+      "link": "https://tvn24.pl/polska/drony-nad-polska-nato-uruchamia-wschodnia-straz-premier-donald-tusk-komentuje-st8646967?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 16:57:56 GMT",
+      "description": "• Kluczową polityczną sprawą jest, aby wszyscy sojusznicy przyjęli polską interpretację zdarzeń z tej nocy.\n• Interpretacja ta jest zgodna z faktami.\n• Celem jest, aby nie było żadnych wątpliwości, kto jest w tej sytuacji agresorem.\n• Donald Tusk wypowiedział się na ten temat w Sejmie.\n• Donald Tusk powiedział, że wszystkie siły polityczne w Polsce powinny być zjednoczone w kwestii zagrożenia rosyjskiego.\n• Premier chce, aby wszystkie siły polityczne w Polsce były zjednoczone także w kwestii zdolności obronnych Polski.\n• Donald Tusk użył sformułowania \"jeden pięść\", aby opisać sposób, w jaki wszystkie siły polityczne powinny działać w tych kwestiach.",
+      "originalTitle": "Tusk \"wzywa wszystkie siły polityczne w Polsce\". \"Od tego zależy reakcja naszych sojuszników\"",
+      "originalDescription": "Kluczową polityczną sprawą jest, aby wszyscy sojusznicy przyjęli polską, bo ona jest zgodna z faktami, interpretację zdarzeń z tej nocy. Żeby nie było żadnych wątpliwości, kto jest w tej sytuacji agresorem - powiedział w Sejmie Donald Tusk. Premier wezwał wszystkie siły polityczne w Polsce, aby w kwestii zagrożenia rosyjskiego i zdolności obronnych Polski, były jak \"jedna pięść\"."
+    },
+    {
+      "title": "Poszukiwania drona w Wesołej",
+      "link": "https://tvn24.pl/tvnwarszawa/wesola/warszawa-wojsko-szuka-drona-w-wesolej-st8646776?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 15:07:19 GMT",
+      "description": "Wojska Obrony Terytorialnej poszukują drona w Wesołej w Warszawie. Jak zapewnił, minister obrony narodowej informacje w tym zakresie są weryfikowane przez służby. Władysław Kosiniak-Kamysz poinformował, że \"na razie nie ma informacji o związku z naruszeniami przestrzeni powietrznej\", do których doszło w nocy z 9 na 10 września. Dotychczas na Mazowszu znaleziono dwa drony, kilkadziesiąt kilometrów od Warszawy.",
+      "originalTitle": "Wojsko szuka drona w Wesołej",
+      "originalDescription": "Wojska Obrony Terytorialnej poszukują drona w Wesołej w Warszawie. Jak zapewnił, minister obrony narodowej informacje w tym zakresie są weryfikowane przez służby. Władysław Kosiniak-Kamysz poinformował, że \"na razie nie ma informacji o związku z naruszeniami przestrzeni powietrznej\", do których doszło w nocy z 9 na 10 września. Dotychczas na Mazowszu znaleziono dwa drony, kilkadziesiąt kilometrów od Warszawy."
+    },
+    {
+      "title": "Sikorski odniósł się do incydentu z dronami",
+      "link": "https://tvn24.pl/swiat/kilka-dronow-z-kursem-na-baze-nato-radoslaw-sikorski-nie-moge-potwierdzic-ani-zaprzeczyc-st8646118?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 12:11:47 GMT",
+      "description": "Nie jestem w stanie tego potwierdzić ani zaprzeczyć - powiedział szef MSZ Radosław Sikorski, pytany o doniesienia, że kilka dronów miało lecieć w kierunku bazy NATO w Polsce. Podkreślił, że nie może tego stwierdzić, bo \"zostały zestrzelone\".",
+      "originalTitle": "Kilka dronów z kursem na bazę NATO? Sikorski: nie mogę potwierdzić ani zaprzeczyć",
+      "originalDescription": "Nie jestem w stanie tego potwierdzić ani zaprzeczyć - powiedział szef MSZ Radosław Sikorski, pytany o doniesienia, że kilka dronów miało lecieć w kierunku bazy NATO w Polsce. Podkreślił, że nie może tego stwierdzić, bo \"zostały zestrzelone\"."
+    },
+    {
+      "title": "Przemycał papierosy. Wiózł je pod workami z marchwią",
       "link": "https://tvn24.pl/bialystok/budzisko-przemycal-papierosy-wiozl-je-pod-workami-z-marchwia-st8646807?source=rss",
       "pubDate": "Fri, 12 Sep 2025 16:34:21 GMT",
-      "description": "• 28-letni obywatel Azerbejdżanu przewoził nielegalne papierosy pod workami z marchwią.\n• Ciężarówka została zatrzymana w Budzisku (Podlaskie).\n• W akcji brał udział pies Luna.\n• Użyto skanera RTG.\n• Szacunkowa wartość kontrabandy to 750 tysięcy z��otych.",
+      "description": "28-letni obywatel Azerbejdżanu przewoził nielegalne papierosy pod workami z marchwią. Ciężarówka został zatrzymana w Budzisku (Podlaskie). W akcji brał udział pies Luna, użyto też skanera RTG. Szacunkowa wartość kontrabandy to 750 tysięcy złotych.",
       "originalTitle": "Przemycał papierosy. Wiózł je pod workami z marchwią",
       "originalDescription": "28-letni obywatel Azerbejdżanu przewoził nielegalne papierosy pod workami z marchwią. Ciężarówka został zatrzymana w Budzisku (Podlaskie). W akcji brał udział pies Luna, użyto też skanera RTG. Szacunkowa wartość kontrabandy to 750 tysięcy złotych."
     },
     {
-      "title": "Obiekt krąży od 50 lat, odkryty w sierpniu",
+      "title": "Krąży w pobliżu Ziemi od ponad pół wieku, odkryto ją w sierpniu",
       "link": "https://tvn24.pl/tvnmeteo/nauka/asteroida-2025-pn7-krazy-w-poblizu-ziemi-od-ponad-pol-wieku-odkryto-ja-w-sierpniu-st8646821?source=rss",
       "pubDate": "Fri, 12 Sep 2025 16:28:36 GMT",
-      "description": "• Ziemia może mieć kolejnego satelitę - przynajmniej częściowo.\n• Astronomowie z obserwatorium na Hawajach odkryli asteroidę 2025 PN7.\n• Orbita asteroidy 2025 PN7 wskazuje, że jest ona quasi-księżycem Ziemi.\n• Według naukowców, asteroida 2025 PN7 ma towarzyszyć naszej planecie już od wielu dekad.",
+      "description": "Ziemia może mieć kolejnego satelitę - przynajmniej częściowo. Astronomowie z obserwatorium na Hawajach odkryli asteroidę 2025 PN7, której orbita wskazuje, że jest ona quasi-księżycem Ziemi. Co ciekawe, według naukowców ma towarzyszyć naszej planecie już od wielu dekad.",
       "originalTitle": "Krąży w pobliżu Ziemi od ponad pół wieku, odkryto ją w sierpniu",
       "originalDescription": "Ziemia może mieć kolejnego satelitę - przynajmniej częściowo. Astronomowie z obserwatorium na Hawajach odkryli asteroidę 2025 PN7, której orbita wskazuje, że jest ona quasi-księżycem Ziemi. Co ciekawe, według naukowców ma towarzyszyć naszej planecie już od wielu dekad."
     },
     {
-      "title": "Zanieczyszczenie wody przez enterokoki",
+      "title": "Część mieszkańców bez dostępu do wody. Przez enterokoki",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/gmina-brudzen-duzy-problemy-z-woda-wykryto-enterokoki-st8646896?source=rss",
       "pubDate": "Fri, 12 Sep 2025 16:19:47 GMT",
       "description": "W gminie Brudzeń Duży niedaleko Płocka (Mazowieckie) mieszkańcy kilkunastu miejscowości nie mają dostępu do wody pitnej. Powodem są bakterie wykryte w tamtejszych stacjach uzdatniania.",
@@ -50,38 +82,6 @@
       "description": "Uwolnieni więźniowie polityczni reżimu Aleksandra Łukaszenki wzięli udział w spotkaniu ze Swiatłaną Cichanouską, dzieląc się swoimi dramatycznymi doświadczeniami z białoruskich więzień. Opisywali nieludzkie warunki - przepełnione cele, brak miejsca do spania, więzienną anarchię oraz psychiczne dręczenie.",
       "originalTitle": "\"Na moich oczach ludzie tracili zmysły\". Relacje uwolnionych więźniów z Białorusi",
       "originalDescription": "Uwolnieni więźniowie polityczni reżimu Aleksandra Łukaszenki wzięli udział w spotkaniu ze Swiatłaną Cichanouską, dzieląc się swoimi dramatycznymi doświadczeniami z białoruskich więzień. Opisywali nieludzkie warunki - przepełnione cele, brak miejsca do spania, więzienną anarchię oraz psychiczne dręczenie."
-    },
-    {
-      "title": "Ceny paliw w nadchodzącym tygodniu. Czekają nas \"lekkie spadki\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliw-pb98-pb95-i-oleju-napedowego-we-wrzesniu-2025-ceny-na-stacjach-benzynowych-raport-st8646802?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 15:52:09 GMT",
-      "description": "W tym tygodniu średnie ceny paliw na stacjach, według danych Refleksu, spadły o około 1–3 grosze na litrze. I ta tendencja będzie kontynuowana w przyszłym tygodniu. Analitycy zwracają uwagę, że na rynku ropy od sześciu tygodni obserwujemy stabilizację notowań.",
-      "originalTitle": "Ceny paliw w nadchodzącym tygodniu. Czekają nas \"lekkie spadki\"",
-      "originalDescription": "W tym tygodniu średnie ceny paliw na stacjach, według danych Refleksu, spadły o około 1–3 grosze na litrze. I ta tendencja będzie kontynuowana w przyszłym tygodniu. Analitycy zwracają uwagę, że na rynku ropy od sześciu tygodni obserwujemy stabilizację notowań."
-    },
-    {
-      "title": "\"Ludzie, mieszkam na tej wsi\". Nie mieszka. Trolle Kremla uderzają w ofiary",
-      "link": "https://konkret24.tvn24.pl/polska/ludzie-mieszkam-na-tej-wsi-nie-mieszka-trolle-kremla-uderzaja-w-ofiary-st8646113?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 15:50:36 GMT",
-      "description": "Nie maleje natężenie fałszywych przekazów na temat rosyjskich dronów nad Polską. Prorosyjskie trolle zaprzeczają wręcz udokumentowanym faktom i podważają relacje ofiar uderzenia dronami. Małżeństwo, którego dom zniszczył jeden z wystrzelonych obiektów, czuje się zaszczute falą kłamstw i manipulacji. Celem tej akcji Kremla jest też podważanie wiarygodności profesjonalnych mediów.",
-      "originalTitle": "\"Ludzie, mieszkam na tej wsi\". Nie mieszka. Trolle Kremla uderzają w ofiary",
-      "originalDescription": "Nie maleje natężenie fałszywych przekazów na temat rosyjskich dronów nad Polską. Prorosyjskie trolle zaprzeczają wręcz udokumentowanym faktom i podważają relacje ofiar uderzenia dronami. Małżeństwo, którego dom zniszczył jeden z wystrzelonych obiektów, czuje się zaszczute falą kłamstw i manipulacji. Celem tej akcji Kremla jest też podważanie wiarygodności profesjonalnych mediów."
-    },
-    {
-      "title": "Gdzie jest burza? Zjawiska przemieszczają się na wschód",
-      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-sprawdz-gdzie-grzmi-w-piatek-12-wrzesnia-radar-opadow-i-mapa-burz-st8646596?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 13:45:33 GMT",
-      "description": "Gdzie jest burza? W piątek 12.09 grzmi w części kraju. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w Polsce w tvnmeteo.pl.",
-      "originalTitle": "Gdzie jest burza? Zjawiska przemieszczają się na wschód",
-      "originalDescription": "Gdzie jest burza? W piątek 12.09 grzmi w części kraju. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w Polsce w tvnmeteo.pl."
-    },
-    {
-      "title": "Został zatrzymany, jest podejrzany o ataki na polskich żołnierzy na granicy",
-      "link": "https://tvn24.pl/tvnwarszawa/najnowsze/areszt-dla-obywatela-afganistanu-jest-podejrzany-o-ataki-na-polskich-zolnierzy-na-granicy-st8646887?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 15:40:57 GMT",
-      "description": "Straż Graniczna i Żandarmeria Wojskowa zatrzymały obywatela Afganistanu, który - jak podała prokuratura - jest podejrzany o ataki na polskich żołnierzy pełniących służbę na granicy z Białorusią. Mężczyzna miał wielokrotnie strzelać do wojskowych z procy metalowymi kulkami i rzucać kamieniami. Grozi mu do 30 lat więzienia.",
-      "originalTitle": "Został zatrzymany, jest podejrzany o ataki na polskich żołnierzy na granicy",
-      "originalDescription": "Straż Graniczna i Żandarmeria Wojskowa zatrzymały obywatela Afganistanu, który - jak podała prokuratura - jest podejrzany o ataki na polskich żołnierzy pełniących służbę na granicy z Białorusią. Mężczyzna miał wielokrotnie strzelać do wojskowych z procy metalowymi kulkami i rzucać kamieniami. Grozi mu do 30 lat więzienia."
     }
   ]
 }
