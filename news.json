@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-09-12T11:05:29.398Z",
+  "lastUpdate": "2025-09-12T11:34:19.675Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy: trzy ofiary, prokuratura wnioskuje o karę",
+      "title": "Wypadek w lesie śmiertelny dla traktorzysty",
+      "link": "https://tvn24.pl/krakow/lachowice-wypadek-w-lesie-nie-zyje-traktorzysta-st8645835?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 11:23:18 GMT",
+      "description": "• 75-latek z Lachowic (Małopolska) zwoził drewno z lasu\n• Część ładunku uderzyła go\n• Mężczyzna zmarł na miejscu\n• Policja apeluje o ostrożność",
+      "originalTitle": "Wypadek w lesie. Nie żyje traktorzysta",
+      "originalDescription": "75-latek z Lachowic (Małopolska) zwoził drewno z lasu, gdy część ładunku uderzyła go, zabijając na miejscu. Policja apeluje o ostrożność."
+    },
+    {
+      "title": "Wypadek z udziałem pojazdu Straży Granicznej",
+      "link": "https://tvn24.pl/szczecin/szczecin-przewozil-migrantow-wjechal-w-pojazd-strazy-granicznej-i-uciekl-list-gonczy-za-obywatelem-uzbekistanu-st8645981?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 11:20:47 GMT",
+      "description": "Prokuratura wydała list gończy za 40-letnim obywatelem Uzbekistanu Turgunboyem Ortikovem. Mężczyzna miał nie zatrzymać się do kontroli drogowej w pobliżu Szczecina, koło granicy z Niemcami. Według śledczych, celowo wjechał w oznakowany samochód Straży Granicznej, a kiedy wypadł z drogi, porzucił samochód i uciekł pieszo. Wiózł trzech migrantów.",
+      "originalTitle": "Przewoził migrantów, wjechał w pojazd Straży Granicznej i uciekł",
+      "originalDescription": "Prokuratura wydała list gończy za 40-letnim obywatelem Uzbekistanu Turgunboyem Ortikovem. Mężczyzna miał nie zatrzymać się do kontroli drogowej w pobliżu Szczecina, koło granicy z Niemcami. Według śledczych, celowo wjechał w oznakowany samochód Straży Granicznej, a kiedy wypadł z drogi, porzucił samochód i uciekł pieszo. Wiózł trzech migrantów."
+    },
+    {
+      "title": "Plac i ogród w planach",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-tak-zmieni-sie-plac-powstancow-warszawy-wizualizacje-szczegoly-kiedy-koniec-prac-st8645808?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 11:12:44 GMT",
+      "description": "Po budowie parkingu pod placem Powstańców Warszawy pozostało klepisko. To się zmieni. Powstanie plac pod pergolami. Wrócą również instrumenty, tworząc ogród muzyki. Posadzonych zostanie prawie 60 drzew, krzewy i byliny. Prace zakończą się wiosną 2026 roku.",
+      "originalTitle": "Jest klepisko. Będzie plac pod pergolami i ogród muzyki",
+      "originalDescription": "Po budowie parkingu pod placem Powstańców Warszawy pozostało klepisko. To się zmieni. Powstanie plac pod pergolami. Wrócą również instrumenty, tworząc ogród muzyki. Posadzonych zostanie prawie 60 drzew, krzewy i byliny. Prace zakończą się wiosną 2026 roku."
+    },
+    {
+      "title": "Kusili zarobkiem, potem zabierali paszporty i grozili. Usłyszeli zarzuty handlu ludźmi",
+      "link": "https://tvn24.pl/krakow/handel-ludzmi-polak-i-obywatel-turkmenistanu-zatrzymani-st8645832?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 11:11:57 GMT",
+      "description": "Kilkanaście zarzutów dotyczących handlu ludźmi i oszustw usłyszeli 32-letni Polak i 36-letni obywatel Turkmenistanu, których zatrzymała w województwie łódzkim Straż Graniczna. Jak informuje prokuratura w Nowym Sączu, mężczyźni mieli kusić cudzoziemców legalnym pobytem i zarobkiem w Polsce. Zamiast tego zabierali im paszporty, więzili i wykorzystywali do nielegalnie świadczonej pracy.",
+      "originalTitle": "Kusili zarobkiem, potem zabierali paszporty i grozili. Usłyszeli zarzuty handlu ludźmi",
+      "originalDescription": "Kilkanaście zarzutów dotyczących handlu ludźmi i oszustw usłyszeli 32-letni Polak i 36-letni obywatel Turkmenistanu, których zatrzymała w województwie łódzkim Straż Graniczna. Jak informuje prokuratura w Nowym Sączu, mężczyźni mieli kusić cudzoziemców legalnym pobytem i zarobkiem w Polsce. Zamiast tego zabierali im paszporty, więzili i wykorzystywali do nielegalnie świadczonej pracy."
+    },
+    {
+      "title": "Łódź ratunkowa się wywróciła. Zginęło dziewięć osób",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-pakistanie-lodz-ratunkowa-wywrocila-sie-zginelo-dziewiec-osob-st8645653?source=rss",
+      "pubDate": "Fri, 12 Sep 2025 11:08:55 GMT",
+      "description": "W Pakistanie trwa ewakuacja osób z terenów dotkniętych przez powodzie. Podczas jednej z akcji ratunkowych wywróciła się łódź.",
+      "originalTitle": "Łódź ratunkowa się wywróciła. Zginęło dziewięć osób",
+      "originalDescription": "W Pakistanie trwa ewakuacja osób z terenów dotkniętych przez powodzie. Podczas jednej z akcji ratunkowych wywróciła się łódź."
+    },
+    {
+      "title": "Wjechał na chodnik, zginęły trzy osoby. Prokuratura chce kary w zawieszeniu",
       "link": "https://tvn24.pl/kielce/bieliny-prokuratura-domaga-sie-kary-wiezienia-w-zawieszeniu-po-smiertelnym-potraceniu-pieszych-st8645456?source=rss",
       "pubDate": "Fri, 12 Sep 2025 10:44:16 GMT",
-      "description": "• Kielecka prokuratura domaga się kary pozbawienia wolności w zawieszeniu dla 19-latka.\n• 19-latek wjechał samochodem w pieszych w Bielinach pod Kielcami.\n• W wypadku zginęły trzy osoby.\n• 19-latek kierował fordem.\n• 19-latek wyraził skruchę.\n• 19-latek ma dobrą opinię.\n• Śledczy uważają, że w więzieniu 19-latek nie zarobi na zadośćuczynienie.",
+      "description": "Kielecka prokuratura domaga się kary pozbawienia wolności w zawieszeniu dla 19-latka, który w Bielinach pod Kielcami wjechał samochodem w pieszych. W wypadku zginęły trzy osoby. Śledczy tłumaczą, że 19-latek, który kierował fordem, wyraził skruchę i ma dobrą opinię, a w więzieniu nie zarobi na zadośćuczynienie.",
       "originalTitle": "Wjechał na chodnik, zginęły trzy osoby. Prokuratura chce kary w zawieszeniu",
       "originalDescription": "Kielecka prokuratura domaga się kary pozbawienia wolności w zawieszeniu dla 19-latka, który w Bielinach pod Kielcami wjechał samochodem w pieszych. W wypadku zginęły trzy osoby. Śledczy tłumaczą, że 19-latek, który kierował fordem, wyraził skruchę i ma dobrą opinię, a w więzieniu nie zarobi na zadośćuczynienie."
     },
     {
-      "title": "Pracownicy Hyundaia powrócili do pracy",
+      "title": "\"Wróciłem, jestem wolny\". Tak powitano pracowników Hyundaia",
       "link": "https://tvn24.pl/biznes/ze-swiata/zatrzymani-pracownicy-hyundaia-w-usa-wrocili-do-kraju-st8645552?source=rss",
       "pubDate": "Fri, 12 Sep 2025 10:38:10 GMT",
-      "description": "• Ponad 300 Koreańczyków z Południa zostało zatrzymanych podczas masowej obławy imigracyjnej.\n• Obława miała miejsce w fabryce Hyundaia.\n• Fabryka Hyundaia, w której miała miejsce obława, znajduje się w amerykańskim stanie Georgia.\n• Zatrzymani Koreańczycy wrócili do swojego kraju.\n• Incydent miał wpływ na stosunki pomiędzy USA i Koreą Południową.\n• Stosunki pomiędzy USA i Koreą Południową zostały mocno zachwiane przez ten incydent.\n• O incydencie informowała BBC.",
+      "description": "Ponad 300 Koreańczyków z Południa, zatrzymanych podczas masowej obławy imigracyjnej w fabryce Hyundaia w amerykańskim stanie Georgia, wróciło do kraju. BBC zwraca uwagę, że incydent mocno zachwiał stosunkami pomiędzy USA i Koreą Południową.",
       "originalTitle": "\"Wróciłem, jestem wolny\". Tak powitano pracowników Hyundaia",
       "originalDescription": "Ponad 300 Koreańczyków z Południa, zatrzymanych podczas masowej obławy imigracyjnej w fabryce Hyundaia w amerykańskim stanie Georgia, wróciło do kraju. BBC zwraca uwagę, że incydent mocno zachwiał stosunkami pomiędzy USA i Koreą Południową."
     },
     {
-      "title": "Rosja uruchamia kampanię w sieci",
+      "title": "Rosjanie uruchomili \"farmy trolli\". Mają \"obwiniać Ukrainę\"",
       "link": "https://tvn24.pl/swiat/rosjanie-uruchomili-farmy-trolli-maja-obwiniac-ukraine-st8645737?source=rss",
       "pubDate": "Fri, 12 Sep 2025 10:30:51 GMT",
       "description": "Rosjanie nakazali swoim farmom trolli obwinianie Ukrainy w sprawie dronów i zagrożeń dla Polski - napisał Andrij Kowałenko, dyrektor ukraińskiego rządowego Centrum Przeciwdziałania Dezinformacji (CPD). Zdaniem analityka, celem działań Moskwy jest destabilizacja polskiego społeczeństwa.",
@@ -28,7 +68,7 @@
       "originalDescription": "Rosjanie nakazali swoim farmom trolli obwinianie Ukrainy w sprawie dronów i zagrożeń dla Polski - napisał Andrij Kowałenko, dyrektor ukraińskiego rządowego Centrum Przeciwdziałania Dezinformacji (CPD). Zdaniem analityka, celem działań Moskwy jest destabilizacja polskiego społeczeństwa."
     },
     {
-      "title": "Polskie wojsko przygotowuje się do ćwiczeń Zapad-2025",
+      "title": "Polskie wojsko \"rozgrzewa się\"? Manipulacja w związku z Zapad-2025",
       "link": "https://konkret24.tvn24.pl/polska/polskie-wojsko-rozgrzewa-sie-manipulacja-w-zwiazku-z-zapad-2025-st8644853?source=rss",
       "pubDate": "Fri, 12 Sep 2025 10:28:41 GMT",
       "description": "Niemal milion wyświetleń zyskał anglojęzyczny post pokazujący rzekome ruchy polskich wojsk tuż przed rosyjsko-białoruskimi ćwiczeniami Zapad-2025. To kolejny przykład jak dezinformacja podsyca emocje i buduje narrację o eskalacji napięć.",
@@ -42,46 +82,6 @@
       "description": "Nikogo nie trzeba już przekonywać, że trzeba inwestować w schrony. To dobra wiadomość. Złych jest więcej - w czwartym roku wojny toczonej za miedzą ciągle nie wiadomo, jak mają wyglądać nowe. Te stare, odziedziczone po PRL-u, wciąż są sprawdzane. Na domiar złego pojawiają się wątpliwości, czy samorządom uda się sprawnie kupić podstawowy asortyment, na przykład stacje uzdatniania wody. Pół roku temu alarmowaliśmy, że jest źle. Niewiele się zmieniło.",
       "originalTitle": "Nowe schrony nawet nie na papierze, stare pozostają zagadką",
       "originalDescription": "Nikogo nie trzeba już przekonywać, że trzeba inwestować w schrony. To dobra wiadomość. Złych jest więcej - w czwartym roku wojny toczonej za miedzą ciągle nie wiadomo, jak mają wyglądać nowe. Te stare, odziedziczone po PRL-u, wciąż są sprawdzane. Na domiar złego pojawiają się wątpliwości, czy samorządom uda się sprawnie kupić podstawowy asortyment, na przykład stacje uzdatniania wody. Pół roku temu alarmowaliśmy, że jest źle. Niewiele się zmieniło."
-    },
-    {
-      "title": "Ucieczka więźnia. Trwają poszukiwania",
-      "link": "https://tvn24.pl/lubuskie/krzywaniec-ucieczka-wieznia-trwaja-poszukiwania-st8645888?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 10:22:27 GMT",
-      "description": "Więzień Zakładu Karnego w Krzywańcu nieopodal Zielonej Góry (woj. lubuskie) uciekł z miejsca wykonywania pracy. Służba więzienna uruchomiła grupy pościgowe.",
-      "originalTitle": "Ucieczka więźnia. Trwają poszukiwania",
-      "originalDescription": "Więzień Zakładu Karnego w Krzywańcu nieopodal Zielonej Góry (woj. lubuskie) uciekł z miejsca wykonywania pracy. Służba więzienna uruchomiła grupy pościgowe."
-    },
-    {
-      "title": "Ministra zdrowia: system jest poplątany i chaotyczny, a pacjent w nim zagubiony",
-      "link": "https://tvn24.pl/zdrowie/ministra-zdrowia-system-jest-poplatany-i-chaotyczny-jak-chce-go-naprawiac-st8645554?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 10:15:22 GMT",
-      "description": "- Chciałabym, by z ochroną zdrowia było w Polsce jak z obronnością, która jest traktowana jako priorytet i wyjęta spoza najostrzejszego politycznego sporu - powiedziała Jolanta Sobierańska-Grenda w pierwszym wywiadzie po objęciu teki ministra zdrowia. Ministra stwierdziła, że w ochronie zdrowia \"jest dużo do zrobienia\". Czym zajmie się w pierwszej kolejności i kiedy efekty tych działań odczują pacjenci?",
-      "originalTitle": "Ministra zdrowia: system jest poplątany i chaotyczny, a pacjent w nim zagubiony",
-      "originalDescription": "- Chciałabym, by z ochroną zdrowia było w Polsce jak z obronnością, która jest traktowana jako priorytet i wyjęta spoza najostrzejszego politycznego sporu - powiedziała Jolanta Sobierańska-Grenda w pierwszym wywiadzie po objęciu teki ministra zdrowia. Ministra stwierdziła, że w ochronie zdrowia \"jest dużo do zrobienia\". Czym zajmie się w pierwszej kolejności i kiedy efekty tych działań odczują pacjenci?"
-    },
-    {
-      "title": "Kanadyjczyk fałszywie wskazany w sieci jako zabójca Charliego Kirka. Był \"w szoku\"",
-      "link": "https://tvn24.pl/swiat/zabojstwo-charliego-kirka-zdjecia-77-latka-z-kanady-obiegly-siec-jako-domniemanego-zabojcy-mezczyzna-przyznaje-ze-byl-w-szoku-st8645338?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 10:09:44 GMT",
-      "description": "Michael Mallinson, 77-latek mieszkający w Kanadzie, otrzymał telefon od córki z informacją, że jego zdjęcie krąży w sieci jako osoby podejrzanej o zabójstwo Charliego Kirka. Amerykański prawicowy aktywista został śmiertelnie postrzelony w środę 10 września podczas wystąpienia na uniwersytecie w Utah. Kanadyjczyk, który znalazł się w środku \"politycznej burzy\", w rozmowie z mediami przyznał, że był \"w szoku\".",
-      "originalTitle": "Kanadyjczyk fałszywie wskazany w sieci jako zabójca Charliego Kirka. Był \"w szoku\"",
-      "originalDescription": "Michael Mallinson, 77-latek mieszkający w Kanadzie, otrzymał telefon od córki z informacją, że jego zdjęcie krąży w sieci jako osoby podejrzanej o zabójstwo Charliego Kirka. Amerykański prawicowy aktywista został śmiertelnie postrzelony w środę 10 września podczas wystąpienia na uniwersytecie w Utah. Kanadyjczyk, który znalazł się w środku \"politycznej burzy\", w rozmowie z mediami przyznał, że był \"w szoku\"."
-    },
-    {
-      "title": "Premier: jeszcze dziś dowiemy się, jakie będą działania NATO",
-      "link": "https://tvn24.pl/polska/premier-jeszcze-dzis-dowiemy-sie-jakie-beda-dzialania-nato-st8645750?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 10:06:06 GMT",
-      "description": "Premier Donald Tusk poinformował w piątek, że jest w kontakcie z sekretarzem NATO w związku z atakiem dronowym Rosji na Polskę. - Jeszcze dziś dowiemy się, jakie będą dalsze działania NATO, jeśli chodzi o wschodnią flankę - zapowiedział. Szef rządu mówił także o współpracy z Brytyjczykami przy produkcji kluczowych pocisków kalibru 155 mm w polskich zakładach zbrojeniowych.",
-      "originalTitle": "Premier: jeszcze dziś dowiemy się, jakie będą działania NATO",
-      "originalDescription": "Premier Donald Tusk poinformował w piątek, że jest w kontakcie z sekretarzem NATO w związku z atakiem dronowym Rosji na Polskę. - Jeszcze dziś dowiemy się, jakie będą dalsze działania NATO, jeśli chodzi o wschodnią flankę - zapowiedział. Szef rządu mówił także o współpracy z Brytyjczykami przy produkcji kluczowych pocisków kalibru 155 mm w polskich zakładach zbrojeniowych."
-    },
-    {
-      "title": "Jak wygląda droga do uzależnienia? \"Łatwo przejść z jednej fazy w drugą\"",
-      "link": "https://tvn24.pl/zdrowie/jak-wyglada-droga-do-uzaleznienia-najpierw-jest-faza-towarzyska-potem-ostrzegawcza-st8645346?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 10:05:01 GMT",
-      "description": "Droga do uzależnienia zwykle zaczyna się niewinnie. Od picia albo zażywania narkotyków na imprezie. Początkowo łatwo się powstrzymać, jeśli na przykład następnego dnia jest ważne spotkanie w pracy. Jednak im częściej się to robi, tym trudniej powiedzieć \"nie\". - Przyjmuje się daną substancję coraz częściej, w coraz większych ilościach i za coraz większe pieniądze, co ma coraz bardziej dotkliwe konsekwencje - ostrzega terapeutka uzależnień.",
-      "originalTitle": "Jak wygląda droga do uzależnienia? \"Łatwo przejść z jednej fazy w drugą\"",
-      "originalDescription": "Droga do uzależnienia zwykle zaczyna się niewinnie. Od picia albo zażywania narkotyków na imprezie. Początkowo łatwo się powstrzymać, jeśli na przykład następnego dnia jest ważne spotkanie w pracy. Jednak im częściej się to robi, tym trudniej powiedzieć \"nie\". - Przyjmuje się daną substancję coraz częściej, w coraz większych ilościach i za coraz większe pieniądze, co ma coraz bardziej dotkliwe konsekwencje - ostrzega terapeutka uzależnień."
     }
   ]
 }
