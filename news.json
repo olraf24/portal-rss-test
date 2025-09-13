@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2025-09-12T23:34:21.369Z",
+  "lastUpdate": "2025-09-13T00:20:18.193Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Pogoda na dziś: deszcz w wielu regionach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-13-09-deszczowo-w-wielu-regionach-moze-zagrzmiec-st8647210?source=rss",
+      "pubDate": "Sat, 13 Sep 2025 00:00:00 GMT",
+      "description": "• Dziś jest sobota 13.09.\n• Nie będzie dużo słońca.\n• W wielu rejonach będzie padać.\n• Deszcz będzie miejscami ulewny.\n• Możliwe są burze.\n• Burze będą miały silny wiatr.\n• Termometry wskażą do 25 stopni.",
+      "originalTitle": "Pogoda na dziś - sobota, 13.09. Deszczowo w wielu regionach, może zagrzmieć",
+      "originalDescription": "Pogoda na dziś. Sobota 13.09 nie da nam za wiele słońca. Co gorsza, w wielu rejonach będzie padać, miejscami ulewnie, możliwe są także burze z silnym wiatrem. Termometry wskażą do 25 stopni."
+    },
     {
       "title": "Rosja w konflikcie z innymi krajami",
       "link": "https://tvn24.pl/swiat/marcin-bosacki-po-posiedzeniu-rady-bezpieczenstwa-onz-st8647325?source=rss",
@@ -12,7 +20,7 @@
       "originalDescription": "Wszyscy podkreślali, że to co się stało, to była eskalacja konfliktu ukraińskiego, na czym nikomu nie zależy - powiedział Marcin Bosacki podczas konferencji po posiedzeniu Rady Bezpieczeństwa ONZ. Wskazał też na \"duży sukces polskiej dyplomacji\"."
     },
     {
-      "title": "Oświadczenie ambasadora Ukrainy ws. Rosji",
+      "title": "Oświadczenie ambasadora Ukrainy w sprawie Rosji",
       "link": "https://tvn24.pl/swiat/ambasador-ukrainy-rosja-pluje-nam-w-twarz-a-my-udajemy-ze-pada-deszcz-st8647314?source=rss",
       "pubDate": "Fri, 12 Sep 2025 21:16:00 GMT",
       "description": "• Wysyłając drony na Ukrainę, a teraz do Polski, Rosja nie tylko kpi z Rady.\n• Rosja pluje nam w twarz, a my grzecznie udajemy, że pada deszcz.\n• Ambasador Ukrainy przy ONZ to Andrij Melnyk.\n• Andrij Melnyk wypowiedział się w trakcie posiedzenia Rady Bezpieczeństwa.\n• Posiedzenie Rady Bezpieczeństwa zostało zwołane na wniosek Polski.\n• Powodem zwołania posiedzenia Rady Bezpieczeństwa było przekroczenie polskiej przestrzeni powietrznej przez rosyjskie drony.",
@@ -23,12 +31,12 @@
       "title": "Rosja naruszyła przestrzeń powietrzną Polski",
       "link": "https://tvn24.pl/swiat/marcin-bosacki-podczas-posiedzenia-rady-bezpieczenstwa-onz-st8647289?source=rss",
       "pubDate": "Fri, 12 Sep 2025 20:27:56 GMT",
-      "description": "- Po raz pierwszy integralność terytorialna Polski została celowo naruszona. Wiemy, że to nie była pomyłka - oświadczył Marcin Bosacki podczas posiedzenia Rady Bezpieczeństwa ONZ. Oskarżył przy tym Rosję o \"neoorwellowskie\" kłamstwa.",
+      "description": "• Po raz pierwszy integralność terytorialna Polski została celowo naruszona.\n• Marcin Bosacki wypowiedział się podczas posiedzenia Rady Bezpieczeństwa ONZ.\n• Marcin Bosacki oświadczył, że to nie była pomyłka.\n• Marcin Bosacki oskarżył Rosję o \"neoorwellowskie\" kłamstwa.",
       "originalTitle": "\"Niebo nad Polską zostało celowo pogwałcone przez Rosję\"",
       "originalDescription": "- Po raz pierwszy integralność terytorialna Polski została celowo naruszona. Wiemy, że to nie była pomyłka - oświadczył Marcin Bosacki podczas posiedzenia Rady Bezpieczeństwa ONZ. Oskarżył przy tym Rosję o \"neoorwellowskie\" kłamstwa."
     },
     {
-      "title": "Samolot lecący do Warszawy zderzył się z ptakami",
+      "title": "Samolot do Warszawy miał kolizję z ptakami",
       "link": "https://tvn24.pl/swiat/holandia-samolot-lecacy-do-warszawy-zderzyl-sie-z-ptakami-zawrocil-do-amsterdamu-st8647281?source=rss",
       "pubDate": "Fri, 12 Sep 2025 20:20:30 GMT",
       "description": "Samolot Polskich Linii Lotniczych LOT z Amsterdamu do Warszawy zawrócił do stolicy Holandii po tym, jak zderzył się z ptakami. - Przez konieczność inspekcji rejs do Warszawy został odwołany - poinformował rzecznik prasowy PLL LOT Krzysztof Moczulski.",
@@ -36,7 +44,7 @@
       "originalDescription": "Samolot Polskich Linii Lotniczych LOT z Amsterdamu do Warszawy zawrócił do stolicy Holandii po tym, jak zderzył się z ptakami. - Przez konieczność inspekcji rejs do Warszawy został odwołany - poinformował rzecznik prasowy PLL LOT Krzysztof Moczulski."
     },
     {
-      "title": "Działania Rosji \"świadczą o ogromnym braku szacunku\" dla wysiłków USA",
+      "title": "Stosunek Rosji do wysiłków USA",
       "link": "https://tvn24.pl/swiat/camille-shea-na-posiedzeniu-rady-bezpieczenstwa-onz-o-wtargnieciu-do-polski-rosyjskich-dronow-st8647271?source=rss",
       "pubDate": "Fri, 12 Sep 2025 20:08:21 GMT",
       "description": "- Stany Zjednoczone stoją po stronie naszych sojuszników z NATO w obliczu alarmujących naruszeń przestrzeni powietrznej - zapewniła pełniąca obowiązki ambasadora USA przy ONZ Camille Shea, komentując wtargnięcie rosyjskich dronów do Polski.",
@@ -74,14 +82,6 @@
       "description": "Śmierć Giorgio Armaniego oznacza początek nowego etapu dla założonego przez niego domu mody. W testamencie projektant zobowiązał spadkobierców do sprzedaży udziałów lub rozważenia debiutu giełdowego firmy. Decyzja ta, zaskakująca w świetle jego dotychczasowej obrony niezależności marki, może mieć znaczący wpływ na przyszły układ sił w globalnym sektorze dóbr luksusowych.",
       "originalTitle": "Niespodziewany zwrot. Testament Armaniego otwiera nowy rozdział",
       "originalDescription": "Śmierć Giorgio Armaniego oznacza początek nowego etapu dla założonego przez niego domu mody. W testamencie projektant zobowiązał spadkobierców do sprzedaży udziałów lub rozważenia debiutu giełdowego firmy. Decyzja ta, zaskakująca w świetle jego dotychczasowej obrony niezależności marki, może mieć znaczący wpływ na przyszły układ sił w globalnym sektorze dóbr luksusowych."
-    },
-    {
-      "title": "Gdzie jest burza? Wieczorem wciąż słychać grzmoty",
-      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-sprawdz-gdzie-grzmi-w-piatek-12-wrzesnia-radar-opadow-i-mapa-burz-st8646596?source=rss",
-      "pubDate": "Fri, 12 Sep 2025 13:45:33 GMT",
-      "description": "Gdzie jest burza? W piątek 12.09 wieczorem wciąż grzmi w części kraju. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w Polsce w tvnmeteo.pl.",
-      "originalTitle": "Gdzie jest burza? Wieczorem wciąż słychać grzmoty",
-      "originalDescription": "Gdzie jest burza? W piątek 12.09 wieczorem wciąż grzmi w części kraju. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w Polsce w tvnmeteo.pl."
     }
   ]
 }
