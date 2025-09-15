@@ -1,8 +1,72 @@
 {
-  "lastUpdate": "2025-09-15T12:09:34.679Z",
+  "lastUpdate": "2025-09-15T12:47:08.557Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Jest decyzja rządu w sprawie płacy minimalnej",
+      "link": "https://tvn24.pl/biznes/pieniadze/placa-minimalna-2026-jest-decyzja-rzadu-st8650599?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:36:50 GMT",
+      "description": "Minimalne wynagrodzenie za pracę od 1 stycznia 2026 roku wyniesie 4806 złotych brutto. Rozporządzenie w tej sprawie zostało opublikowane w Dzienniku Ustaw.",
+      "originalTitle": "Jest decyzja rządu w sprawie płacy minimalnej",
+      "originalDescription": "Minimalne wynagrodzenie za pracę od 1 stycznia 2026 roku wyniesie 4806 złotych brutto. Rozporządzenie w tej sprawie zostało opublikowane w Dzienniku Ustaw."
+    },
+    {
+      "title": "Sukces w pierwszym \"tramwajowym mundialu\". Poznańscy motorniczy wicemistrzami świata",
+      "link": "https://tvn24.pl/poznan/wieden-mistrzostwa-swiata-motorniczych-polska-na-drugim-miejscu-st8650219?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:36:05 GMT",
+      "description": "Zbijali tramwajem kręgle, hamowali na gwizdek, mijali na centymetry tańczącą parę. Monika Bocian i Dariusz Graj z Miejskiego Przedsiębiorstwa Komunikacyjnego w Poznaniu zajęli drugie miejsce w Mistrzostwach Świata Motorniczych. W zawodach rozgrywanych pod wiedeńskim ratuszem przegrali tylko z gospodarzami, którym pomagały \"ściany\" i własny tabor.",
+      "originalTitle": "Sukces w pierwszym \"tramwajowym mundialu\". Poznańscy motorniczy wicemistrzami świata",
+      "originalDescription": "Zbijali tramwajem kręgle, hamowali na gwizdek, mijali na centymetry tańczącą parę. Monika Bocian i Dariusz Graj z Miejskiego Przedsiębiorstwa Komunikacyjnego w Poznaniu zajęli drugie miejsce w Mistrzostwach Świata Motorniczych. W zawodach rozgrywanych pod wiedeńskim ratuszem przegrali tylko z gospodarzami, którym pomagały \"ściany\" i własny tabor."
+    },
+    {
+      "title": "\"Ważny dokument dostarczony przez ZUS? Nie\"",
+      "link": "https://tvn24.pl/biznes/tech/wazny-dokument-dostarczony-przez-zus-nie-st8650623?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:35:25 GMT",
+      "description": "CERT Polska ostrzega przed wiadomościami, w których oszuści podszywają się pod Zakład Ubezpieczeń Społecznych (ZUS). To może być \"złośliwe oprogramowanie sprytnie ukryte w wiadomości e-mail\" - podkreśla zespół.",
+      "originalTitle": "\"Ważny dokument dostarczony przez ZUS? Nie\"",
+      "originalDescription": "CERT Polska ostrzega przed wiadomościami, w których oszuści podszywają się pod Zakład Ubezpieczeń Społecznych (ZUS). To może być \"złośliwe oprogramowanie sprytnie ukryte w wiadomości e-mail\" - podkreśla zespół."
+    },
+    {
+      "title": "\"Franz Kafka\" Agnieszki Holland polskim kandydatem do Oscara",
+      "link": "https://tvn24.pl/kultura-i-styl/franz-kafka-agnieszki-holland-polskim-kandydatem-do-oscara-st8639938?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:35:06 GMT",
+      "description": "Polskim kandydatem do Oscara 2026 w kategorii najlepszy film międzynarodowy został \"Franz Kafka\" - poinformowała Kamila Dorbach, członkini tegorocznej komisji oscarowej. Wybierano spośród siedmiu filmów.",
+      "originalTitle": "\"Franz Kafka\" Agnieszki Holland polskim kandydatem do Oscara",
+      "originalDescription": "Polskim kandydatem do Oscara 2026 w kategorii najlepszy film międzynarodowy został \"Franz Kafka\" - poinformowała Kamila Dorbach, członkini tegorocznej komisji oscarowej. Wybierano spośród siedmiu filmów."
+    },
+    {
+      "title": "Zniknął krzyż z kopuły cerkwi. Jest śledztwo",
+      "link": "https://tvn24.pl/wroclaw/legnica-zniknal-krzyz-z-kopuly-cerkwi-sledztwo-w-sprawie-obrazy-uczuc-religijnych-st8650286?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:34:38 GMT",
+      "description": "Prokuratura Okręgowa w Legnicy wszczęła śledztwo w sprawie kradzieży krzyża z kopuły cerkwi greckokatolickiej pw. Zaśnięcia Najświętszej Marii Panny. Postępowanie dotyczy obrazy uczuć religijnych oraz zniszczenia mienia. Straty sięgają 40 tysięcy złotych.",
+      "originalTitle": "Zniknął krzyż z kopuły cerkwi. Jest śledztwo",
+      "originalDescription": "Prokuratura Okręgowa w Legnicy wszczęła śledztwo w sprawie kradzieży krzyża z kopuły cerkwi greckokatolickiej pw. Zaśnięcia Najświętszej Marii Panny. Postępowanie dotyczy obrazy uczuć religijnych oraz zniszczenia mienia. Straty sięgają 40 tysięcy złotych."
+    },
+    {
+      "title": "Chciałby być \"pierwszym polskim burmistrzem Nowego Jorku\", ale Trump wypomina mu koty",
+      "link": "https://tvn24.pl/swiat/nowy-jork-curtis-sliwa-moglby-byc-pierwszym-polskim-burmistrzem-kim-jest-st8650179?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:25:50 GMT",
+      "description": "W wyścigu o fotel burmistrza Nowego Jorku pojawia się polsko brzmiące nazwisko. Curtis Sliwa może długo opowiadać o swoich związkach z Polską i Polakami. Jest kandydatem republikanów, ale raczej nie może liczyć na poparcie Donalda Trumpa. Jakie ma szanse?",
+      "originalTitle": "Chciałby być \"pierwszym polskim burmistrzem Nowego Jorku\", ale Trump wypomina mu koty",
+      "originalDescription": "W wyścigu o fotel burmistrza Nowego Jorku pojawia się polsko brzmiące nazwisko. Curtis Sliwa może długo opowiadać o swoich związkach z Polską i Polakami. Jest kandydatem republikanów, ale raczej nie może liczyć na poparcie Donalda Trumpa. Jakie ma szanse?"
+    },
+    {
+      "title": "Żurek odwołał kolejnych prezesów i wiceprezesów sądów. Z pominięciem KRS",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-odwolal-kolejnych-prezesow-i-wiceprezesow-sadow-z-pominieciem-krs-st8650335?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:14:08 GMT",
+      "description": "Minister sprawiedliwości Waldemar Żurek odwołał kolejnych 25 prezesów i wiceprezesów sądów. Zdecydował tak, mimo że kolegia sądów wydały w tej kwestii negatywne opinie - poinformował resort. Żurek ocenił, że obecna Krajowa Rada Sądownictwa \"nie jest w stanie wydać bezstronnej opinii\" w sprawie odwołań.",
+      "originalTitle": "Żurek odwołał kolejnych prezesów i wiceprezesów sądów. Z pominięciem KRS",
+      "originalDescription": "Minister sprawiedliwości Waldemar Żurek odwołał kolejnych 25 prezesów i wiceprezesów sądów. Zdecydował tak, mimo że kolegia sądów wydały w tej kwestii negatywne opinie - poinformował resort. Żurek ocenił, że obecna Krajowa Rada Sądownictwa \"nie jest w stanie wydać bezstronnej opinii\" w sprawie odwołań."
+    },
+    {
+      "title": "Autobus wjechał na uszkodzony most. Nie żyje panna młoda i jej goście",
+      "link": "https://tvn24.pl/swiat/nigeria-wypadek-autobusu-z-panna-mloda-zginelo-co-najmniej-17-osob-st8650058?source=rss",
+      "pubDate": "Mon, 15 Sep 2025 12:09:48 GMT",
+      "description": "Tragiczny bilans wypadku w północnej Nigerii. Co najmniej 17 osób zginęło, a dwie uznawane są za zaginione po tym, jak autobus przewożący pannę młodą i gości weselnych wpadł do rzeki, próbując przejechać przez uszkodzony most - poinformował w niedzielę Isah Aliyu ze stanowej policji drogowej.",
+      "originalTitle": "Autobus wjechał na uszkodzony most. Nie żyje panna młoda i jej goście",
+      "originalDescription": "Tragiczny bilans wypadku w północnej Nigerii. Co najmniej 17 osób zginęło, a dwie uznawane są za zaginione po tym, jak autobus przewożący pannę młodą i gości weselnych wpadł do rzeki, próbując przejechać przez uszkodzony most - poinformował w niedzielę Isah Aliyu ze stanowej policji drogowej."
+    },
     {
       "title": "Zmiany w szkołach. Będzie \"program szkoleń prowadzonych przez wojsko\"",
       "link": "https://tvn24.pl/polska/zmiany-w-szkolach-bedzie-program-szkolen-prowadzonych-przez-wojsko-st8650065?source=rss",
@@ -18,70 +82,6 @@
       "description": "Nowa, najbardziej obszerna w historii, lista leków refundowanych, która wejdzie w życie 1 października, ucieszy różne grupy pacjentów, nie tylko onkologicznych. Rodzice dzieci z ciężką postacią hemofilii A doczekali się rozszerzenia refundacji leku podawanego podskórnie, a nie dożylnie, do 18. roku życia. Natomiast pacjentki z endometriozą otrzymały wyczekiwaną refundację trójskładnikowego leku Ryeqo.",
       "originalTitle": "Historyczna lista refundacyjna. Spełniono ważne postulaty lekarzy i pacjentów",
       "originalDescription": "Nowa, najbardziej obszerna w historii, lista leków refundowanych, która wejdzie w życie 1 października, ucieszy różne grupy pacjentów, nie tylko onkologicznych. Rodzice dzieci z ciężką postacią hemofilii A doczekali się rozszerzenia refundacji leku podawanego podskórnie, a nie dożylnie, do 18. roku życia. Natomiast pacjentki z endometriozą otrzymały wyczekiwaną refundację trójskładnikowego leku Ryeqo."
-    },
-    {
-      "title": "Zmiany w ruchu na Bemowie. Ulica Bolimowska zyska nowy asfalt",
-      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-ulica-na-bemowie-zyska-nowy-asfalt-ruszaja-prace-na-bolimowskiej-st8650090?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:58:38 GMT",
-      "description": "W poniedziałek rozpoczęły się prace związane z wymianą nawierzchni na ul. Bolimowskiej. Zarząd Dróg Miejskich ostrzega przed utrudnieniami.",
-      "originalTitle": "Zmiany w ruchu na Bemowie. Ulica Bolimowska zyska nowy asfalt",
-      "originalDescription": "W poniedziałek rozpoczęły się prace związane z wymianą nawierzchni na ul. Bolimowskiej. Zarząd Dróg Miejskich ostrzega przed utrudnieniami."
-    },
-    {
-      "title": "\"The PITT\" najlepszym serialem dramatycznym roku. O czym jest i gdzie go obejrzeć",
-      "link": "https://tvn24.pl/kultura-i-styl/the-pitt-z-nagroda-emmy-medyczny-dramat-najlepszym-serialem-dramatycznym-roku-gdzie-obejrzec-st8649971?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:48:53 GMT",
-      "description": "Serial \"The PITT\" został w niedzielę nagrodzony statuetką Emmy, nazywaną \"telewizyjnym Oscarem\", jako najlepszy serial dramatyczny roku. Zdobył nie tylko uznanie krytyków. Każdy odcinek przyciągał przed ekrany miliony widzów. Dlaczego ta opowieść o oddziale ratunkowym zdobyła ich serca?",
-      "originalTitle": "\"The PITT\" najlepszym serialem dramatycznym roku. O czym jest i gdzie go obejrzeć",
-      "originalDescription": "Serial \"The PITT\" został w niedzielę nagrodzony statuetką Emmy, nazywaną \"telewizyjnym Oscarem\", jako najlepszy serial dramatyczny roku. Zdobył nie tylko uznanie krytyków. Każdy odcinek przyciągał przed ekrany miliony widzów. Dlaczego ta opowieść o oddziale ratunkowym zdobyła ich serca?"
-    },
-    {
-      "title": "Trump w końcu nazwał Rosję agresorem",
-      "link": "https://tvn24.pl/swiat/politico-donald-trump-w-koncu-nazwal-rosje-agresorem-st8650091?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:46:14 GMT",
-      "description": "Prezydent Stanów Zjednoczonych Donald Trump w końcu nazwał Rosję \"agresorem\" w wojnie z Ukrainą - podał portal Politico. Dziennikarze zwracają uwagę na zaostrzenie stanowiska amerykańskiego przywódcy wobec Moskwy.",
-      "originalTitle": "Trump w końcu nazwał Rosję agresorem",
-      "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump w końcu nazwał Rosję \"agresorem\" w wojnie z Ukrainą - podał portal Politico. Dziennikarze zwracają uwagę na zaostrzenie stanowiska amerykańskiego przywódcy wobec Moskwy."
-    },
-    {
-      "title": "Pomarańczowe alarmy IMGW w części kraju",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-w-poniedzialek-15-09-zolte-alarmy-przed-burzami-st8647399?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 04:43:16 GMT",
-      "description": "IMGW opublikował ostrzeżenia meteorologiczne na poniedziałek. Początek tygodnia ma przynieść gwałtowne zjawiska atmosferyczne w zachodniej i południowej Polsce. Sprawdź, na jakie niebezpieczeństwa się przygotować.",
-      "originalTitle": "Pomarańczowe alarmy IMGW w części kraju",
-      "originalDescription": "IMGW opublikował ostrzeżenia meteorologiczne na poniedziałek. Początek tygodnia ma przynieść gwałtowne zjawiska atmosferyczne w zachodniej i południowej Polsce. Sprawdź, na jakie niebezpieczeństwa się przygotować."
-    },
-    {
-      "title": "\"W Polsce dokonał się przełom\". Wiceminister o dopłatach do elektryków",
-      "link": "https://tvn24.pl/biznes/moto/rozszerzenia-doplat-na-zakup-samochodow-elektrycznych-od-pazdziernika-2025-zapowiedz-wiceministra-st8649924?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:42:32 GMT",
-      "description": "Rozszerzenie programu dopłat do zakupu aut elektrycznych \"NaszEauto\" może wejść w życie w październiku - poinformował wiceminister klimatu i środowiska Krzysztof Bolesta. Dodał, że do 10 września wpłynęły wnioski na ponad 400 milionów złotych.",
-      "originalTitle": "\"W Polsce dokonał się przełom\". Wiceminister o dopłatach do elektryków",
-      "originalDescription": "Rozszerzenie programu dopłat do zakupu aut elektrycznych \"NaszEauto\" może wejść w życie w październiku - poinformował wiceminister klimatu i środowiska Krzysztof Bolesta. Dodał, że do 10 września wpłynęły wnioski na ponad 400 milionów złotych."
-    },
-    {
-      "title": "Alert RCB. \"Zabezpiecz rzeczy, które może porwać wiatr\"",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/alert-rcb-deszcz-i-burze-w-poniedzialek-15-09-burze-silny-wiatr-i-lokalnie-grad-st8650278?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:34:40 GMT",
-      "description": "Alert RCB został wysłany w poniedziałek do odbiorców w zachodniej Polsce. Eksperci ostrzegają przed silnym wiatrem i lokalnymi opadami gradu. Gwałtowne podmuchy mogą porwać niezabezpieczone przedmioty.",
-      "originalTitle": "Alert RCB. \"Zabezpiecz rzeczy, które może porwać wiatr\"",
-      "originalDescription": "Alert RCB został wysłany w poniedziałek do odbiorców w zachodniej Polsce. Eksperci ostrzegają przed silnym wiatrem i lokalnymi opadami gradu. Gwałtowne podmuchy mogą porwać niezabezpieczone przedmioty."
-    },
-    {
-      "title": "Polska powołała wojska medyczne. Szef MON tłumaczy ich zadania",
-      "link": "https://tvn24.pl/polska/polska-powolala-wojska-medyczne-szef-mon-tlumaczy-ich-zadania-st8650079?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 10:43:41 GMT",
-      "description": "Dzisiaj trzeba uczynić wszystko, żeby trzymać wojska Federacji Rosyjskiej, jak najdalej od polskiej granicy. Każdy dzień \"zużywania Rosji\" na froncie ukraińskim to jest jeden dzień więcej dany nam, żeby być lepiej przygotowanym - powiedział wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz w trakcie uroczystości powołania Dowództwa Wojsk Medycznych w Krakowie.",
-      "originalTitle": "Polska powołała wojska medyczne. Szef MON tłumaczy ich zadania",
-      "originalDescription": "Dzisiaj trzeba uczynić wszystko, żeby trzymać wojska Federacji Rosyjskiej, jak najdalej od polskiej granicy. Każdy dzień \"zużywania Rosji\" na froncie ukraińskim to jest jeden dzień więcej dany nam, żeby być lepiej przygotowanym - powiedział wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz w trakcie uroczystości powołania Dowództwa Wojsk Medycznych w Krakowie."
-    },
-    {
-      "title": "Strzały na parkingu. Poszło o źle zaparkowany samochód",
-      "link": "https://tvn24.pl/krakow/podleze-a4-strzaly-na-parkingu-poszlo-o-zle-zaparkowany-samochod-st8650249?source=rss",
-      "pubDate": "Mon, 15 Sep 2025 11:28:54 GMT",
-      "description": "Na parkingu przy autostradzie A4 doszło do sprzeczki o źle zaparkowany samochód. Konflikt szybko eskalował, padły strzały z broni pneumatycznej. Policja zatrzymała jednego z kierowców i jego pasażerów.",
-      "originalTitle": "Strzały na parkingu. Poszło o źle zaparkowany samochód",
-      "originalDescription": "Na parkingu przy autostradzie A4 doszło do sprzeczki o źle zaparkowany samochód. Konflikt szybko eskalował, padły strzały z broni pneumatycznej. Policja zatrzymała jednego z kierowców i jego pasażerów."
     }
   ]
 }
