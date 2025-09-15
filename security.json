@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-09-15T11:05:10.154Z",
+  "lastUpdate": "2025-09-15T11:33:49.101Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Nowy-stary czołg wróci do produkcji?",
+      "link": "https://defence24.pl/przemysl/nowy-stary-czolg-wroci-do-produkcji",
+      "pubDate": "Mon, 15 Sep 2025 13:15:00 +0200",
+      "description": "W toku prowadzonej wojny z Ukrainą Rosjanie ponownie zaczęli doceniać turbinę gazową jako jednostkę napędową czołgów, stąd od dłuższego czasu mowa o wznowieniu produkcji czołgów T-80 napędzanych przez tego typu silniki."
+    },
     {
       "title": "Rosja: nowe bombowce i zapowiedź kolejnych",
       "link": "https://defence24.pl/przemysl/rosja-nowe-bombowce-i-zapowiedz-kolejnych",
@@ -19,7 +25,7 @@
       "title": "Dziś ruszają wojska medyczne",
       "link": "https://defence24.pl/sily-zbrojne/dzis-ruszaja-wojska-medyczne",
       "pubDate": "Mon, 15 Sep 2025 11:24:01 +0200",
-      "description": "Przypomnijmy, że w połowie sierpnia wicepremier, szef MON Władysław Kosiniak-Kamysz zapowiedział, że we wrześniu działalność rozpoczną Wojska Medyczne: „Będziemy niebawem tworzyć dowództwo wojsk medycznych. To będzie wielka odpowiedzialność spoczywająca na tych, którzy podejmą się zadania zbudowania od podstaw czegoś zupełnie nowego – czegoś, czego nigdy w Polsce nie było. Nie nazywamy tego nawet komponentem, ale Wojskami Medycznymi, podnosząc rangę i wartość, jaka towarzyszy temu przedsięwzięciu (…)”."
+      "description": "AKTUALIZACJAW poniedziałek w Krakowie minister obrony Władysław Kosiniak-Kamysz ogłosił powołanie nowej formacji - Wojsk Medycznych, na czele których stanie płk. Mariusz Kiszka.Jak powiedział szef MON, celem powołania wojsk medycznych jest „rozwój całej medycyny pola walki. Możliwość rozwoju naszego personelu, zarówno żołnierzy, jak i cywilów”.Siedzibą Dowództwa Wojsk Medycznych będzie Kraków."
     },
     {
       "title": "Wszystkie błędy Netanjahu. Jak zaprzepaścił szansę na pokonanie Hamasu?",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/rumunia-kupi-bwp-za-pieniadze-z-safe",
       "pubDate": "Sun, 14 Sep 2025 11:59:32 +0200",
       "description": "Rumunia jest w trakcie modernizacji swoich sił zbrojnych, jednym z ważniejszych programów modernizacji, jest wymiana bojowych wozów piechoty."
-    },
-    {
-      "title": "Wyrzutnia w kontenerze – nowe oblicze systemu HIMARS?",
-      "link": "https://defence24.pl/technologie/wyrzutnia-w-kontenerze-nowe-oblicze-systemu-himars",
-      "pubDate": "Sun, 14 Sep 2025 11:45:08 +0200",
-      "description": "Rakiety GLSDB (Ground Launched Small Diameter Bomb), prezentowane przez koncern SAAB na MSPO 2025 w Kielcach to tak naprawdę „zwykłe” bomby lotnicze GBU-39B SDB I (Small Diameter Bomb Increment I) o masie 110 kg. Nie są one jednak zrzucane przez samolot, ale wynoszone w powietrze przez silniki rakietowe od pocisków „ziemia - ziemia” M26 kalibru 227 mm (używanych m.in. przez systemy M142 HIMARS i M270 MLRS). Dzięki temu uzyskano rozwiązanie stosunkowo tanie, które poprzez zastosowanie istniejących już i sprawdzonych elementów powstało bardzo szybko i bez większego ryzyka."
     }
   ]
 }
