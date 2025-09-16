@@ -1,15 +1,23 @@
 {
-  "lastUpdate": "2025-09-16T20:06:14.733Z",
+  "lastUpdate": "2025-09-16T20:36:24.458Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Pożar w hali produkcyjnej Czeladzi",
+      "link": "https://tvn24.pl/katowice/slaskie-pozar-hali-produkcyjnej-w-czeladzi-st8653319?source=rss",
+      "pubDate": "Tue, 16 Sep 2025 20:16:39 GMT",
+      "description": "We wtorek wieczorem w Czeladzi doszło do pożaru zakładu produkcyjnego. Do walki z płomieniami zadysponowano 13 zastępów Państwowej Straży Pożarnej. Brak informacji, czy w wyniku tego zdarzenia ktoś ucierpiał.",
+      "originalTitle": "Płonie hala produkcyjna w Czeladzi",
+      "originalDescription": "We wtorek wieczorem w Czeladzi doszło do pożaru zakładu produkcyjnego. Do walki z płomieniami zadysponowano 13 zastępów Państwowej Straży Pożarnej. Brak informacji, czy w wyniku tego zdarzenia ktoś ucierpiał."
+    },
+    {
       "title": "Włodzimierz Czarzasty komentuje stanowisko prezydenta",
       "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-bez-wzgledu-na-to-co-bedziemy-robili-karol-nawrocki-i-tak-z-tego-nie-bedzie-zadowolony-st8653236?source=rss",
       "pubDate": "Tue, 16 Sep 2025 19:59:19 GMT",
-      "description": "Wicemarszałek Sejmu Włodzimierz Czarzasty wierzy w zapewnienia ministra obrony narodowej, że zastępca szefa BNN otrzymał wszystkie informacje i wnioski w sprawie wtargnięcia rosyjskich dronów do Polski. Przyznał, że rząd musi nauczyć się lepszej komunikacji, ale \"bez względu na to, co będzie robić, (...) pan prezydent i tak z tego nie będzie zadowolony\".",
+      "description": "Wicemarszałek Sejmu Włodzimierz Czarzasty wierzy w zapewnienia ministra obrony narodowej, że zastępca szefa BBN otrzymał wszystkie informacje i wnioski w sprawie wtargnięcia rosyjskich dronów do Polski. Przyznał, że rząd musi nauczyć się lepszej komunikacji, ale ocenił, że \"bez względu na to, co będzie robić, (...) pan prezydent i tak z tego nie będzie zadowolony\".",
       "originalTitle": "Włodzimierz Czarzasty: pan prezydent i tak nie będzie zadowolony",
-      "originalDescription": "Wicemarszałek Sejmu Włodzimierz Czarzasty wierzy w zapewnienia ministra obrony narodowej, że zastępca szefa BNN otrzymał wszystkie informacje i wnioski w sprawie wtargnięcia rosyjskich dronów do Polski. Przyznał, że rząd musi nauczyć się lepszej komunikacji, ale \"bez względu na to, co będzie robić, (...) pan prezydent i tak z tego nie będzie zadowolony\"."
+      "originalDescription": "Wicemarszałek Sejmu Włodzimierz Czarzasty wierzy w zapewnienia ministra obrony narodowej, że zastępca szefa BBN otrzymał wszystkie informacje i wnioski w sprawie wtargnięcia rosyjskich dronów do Polski. Przyznał, że rząd musi nauczyć się lepszej komunikacji, ale ocenił, że \"bez względu na to, co będzie robić, (...) pan prezydent i tak z tego nie będzie zadowolony\"."
     },
     {
       "title": "Prognoza: silne wiatry i opady deszczu",
@@ -20,10 +28,10 @@
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia. W części kraju obowiązują alarmy przed silnym wiatrem oraz ulewami z burzami. Sprawdź, gdzie mieć się na baczności."
     },
     {
-      "title": "Komisje Rady Warszawy opiniują projekty dotyczące nocnego zakazu sprzedaży alkoholu",
+      "title": "Nocny zakaz sprzedaży alkoholu. Komisje Rady Warszawy zaopiniowały projekty",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-radni-odrzucili-projekty-uchwal-dotyczace-nocnej-prohibicji-st8653266?source=rss",
       "pubDate": "Tue, 16 Sep 2025 19:30:14 GMT",
-      "description": "• Radni negatywnie zaopiniowali projekty uchwał wprowadzających nocny zakaz sprzedaży alkoholu w Warszawie.\n• Pomysł wprowadzenia nocnego zakazu sprzedaży alkoholu popiera większość warszawiaków.\n• Poparcie dla pomysłu wynika z konsultacji społecznych i Barometru Warszawskiego.\n• Rządząca stolicą Koalicja Obywatelska jest przeciwna wprowadzeniu nocnego zakazu sprzedaży alkoholu.",
+      "description": "Radni negatywnie zaopiniowali projekty uchwał wprowadzających nocny zakaz sprzedaży alkoholu w Warszawie. Pomysłowi, który - według wniosków płynących z konsultacji społecznych i Barometru Warszawskiego - popiera większość warszawiaków, sprzeciwia się rządząca stolicą Koalicja Obywatelska.",
       "originalTitle": "Nocny zakaz sprzedaży alkoholu. Komisje Rady Warszawy zaopiniowały projekty",
       "originalDescription": "Radni negatywnie zaopiniowali projekty uchwał wprowadzających nocny zakaz sprzedaży alkoholu w Warszawie. Pomysłowi, który - według wniosków płynących z konsultacji społecznych i Barometru Warszawskiego - popiera większość warszawiaków, sprzeciwia się rządząca stolicą Koalicja Obywatelska."
     },
@@ -74,14 +82,6 @@
       "description": "Decyzją zarządu partii Polska 2050 zostałam odwołana ze stanowiska podsekretarza stanu w Ministerstwie Spraw Zagranicznych - poinformowała Anna Radwan-Röhrenschef.",
       "originalTitle": "Odwołano wiceszefową MSZ",
       "originalDescription": "Decyzją zarządu partii Polska 2050 zostałam odwołana ze stanowiska podsekretarza stanu w Ministerstwie Spraw Zagranicznych - poinformowała Anna Radwan-Röhrenschef."
-    },
-    {
-      "title": "Pogoda na jutro - środa, 17.09. Chłodna noc z opadami i silnym wiatrem",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-17-09-chlodna-noc-z-opadami-i-silnym-wiatrem-st8653118?source=rss",
-      "pubDate": "Tue, 16 Sep 2025 18:01:53 GMT",
-      "description": "Pogoda na jutro, czyli na środę, 17.09. Przed nami noc z dużym zachmurzeniem, pojawi się też deszcz. W dzień chmury i opady nie odpuszczą, a temperatura będzie zbliżona w całym kraju.",
-      "originalTitle": "Pogoda na jutro - środa, 17.09. Chłodna noc z opadami i silnym wiatrem",
-      "originalDescription": "Pogoda na jutro, czyli na środę, 17.09. Przed nami noc z dużym zachmurzeniem, pojawi się też deszcz. W dzień chmury i opady nie odpuszczą, a temperatura będzie zbliżona w całym kraju."
     }
   ]
 }
