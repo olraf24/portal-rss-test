@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-09-17T16:39:10.595Z",
+  "lastUpdate": "2025-09-17T17:05:46.367Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Projekt nowelizacji ulgi podatkowej",
+      "title": "Pogoda na jutro - czwartek, 18.09. Nocą i za dnia może popadać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-18-09-noca-i-za-dnia-moze-popadac-st8654881?source=rss",
+      "pubDate": "Wed, 17 Sep 2025 16:58:52 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek, 18.09. Nocą w części kraju pojawią się przelotne opady deszczu. Dzień przyniesie pochmurną aurę i temperaturę nieprzekraczającą 20 stopni.",
+      "originalTitle": "Pogoda na jutro - czwartek, 18.09. Nocą i za dnia może popadać",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 18.09. Nocą w części kraju pojawią się przelotne opady deszczu. Dzień przyniesie pochmurną aurę i temperaturę nieprzekraczającą 20 stopni."
+    },
+    {
+      "title": "Po Krakowie skakał kangur. Nagranie z obławy",
+      "link": "https://tvn24.pl/krakow/po-krakowie-skakal-kangur-nagranie-z-oblawy-st8654923?source=rss",
+      "pubDate": "Wed, 17 Sep 2025 15:00:45 GMT",
+      "description": "W środę po ulicach Krakowa biegał kangur. Torbacz był widziany w różnych częściach miasta w dzielnicy Nowa Huta. W poszukiwaniach brała udział policja i właściciel zwierzęcia. Po południu udało się złapać torbacza. Nagranie z obławy otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Po Krakowie skakał kangur. Nagranie z obławy",
+      "originalDescription": "W środę po ulicach Krakowa biegał kangur. Torbacz był widziany w różnych częściach miasta w dzielnicy Nowa Huta. W poszukiwaniach brała udział policja i właściciel zwierzęcia. Po południu udało się złapać torbacza. Nagranie z obławy otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Krok kandydata na ambasadora USA w Polsce ku zatwierdzeniu",
+      "link": "https://tvn24.pl/swiat/usa-tom-rose-kandydat-na-ambasadora-usa-w-polsce-z-poparciem-komisji-st8655069?source=rss",
+      "pubDate": "Wed, 17 Sep 2025 16:53:18 GMT",
+      "description": "Tom Rose uzyskał poparcie senackiej komisji spraw zagranicznych, choć nie poparł go żaden polityk demokratów. Nominacja ambasadora USA w Polsce wciąż musi uzyskać większość głosów w Senacie.",
+      "originalTitle": "Krok kandydata na ambasadora USA w Polsce ku zatwierdzeniu",
+      "originalDescription": "Tom Rose uzyskał poparcie senackiej komisji spraw zagranicznych, choć nie poparł go żaden polityk demokratów. Nominacja ambasadora USA w Polsce wciąż musi uzyskać większość głosów w Senacie."
+    },
+    {
+      "title": "Wjechał teslą w sklep? \"Co tu się wydarzyło\"",
+      "link": "https://konkret24.tvn24.pl/polska/wjechal-tesla-w-sklep-co-tu-sie-wydarzylo-st8654304?source=rss",
+      "pubDate": "Wed, 17 Sep 2025 16:46:17 GMT",
+      "description": "Setki tysięcy wyświetleń ma post z nagraniem pokazującym rzekomo, jak rozpędzona tesla uderza w sklep sieci Biedronka. Jedni twierdzą, że to zapis z monitoringu; inni podejrzewają komputerową symulację. Faktem jest, że do podobnego zdarzenia doszło.",
+      "originalTitle": "Wjechał teslą w sklep? \"Co tu się wydarzyło\"",
+      "originalDescription": "Setki tysięcy wyświetleń ma post z nagraniem pokazującym rzekomo, jak rozpędzona tesla uderza w sklep sieci Biedronka. Jedni twierdzą, że to zapis z monitoringu; inni podejrzewają komputerową symulację. Faktem jest, że do podobnego zdarzenia doszło."
+    },
+    {
+      "title": "Superdron w polskiej przestrzeni powietrznej w \"newralgicznym momencie\"",
+      "link": "https://tvn24.pl/polska/amerykanski-superdron-rq-4-global-hawka-nad-polska-obserwowal-rosyjskie-manewry-st8654942?source=rss",
+      "pubDate": "Wed, 17 Sep 2025 16:42:03 GMT",
+      "description": "Nad Polską operował amerykański dron rozpoznawczy RQ-4 Global Hawk. Zdaniem Macieja Milczanowskiego, kierownika Zakładu Studiów nad Wojną Uniwersytetu Rzeszowskiego, jego operowanie nie było przypadkowe i mogło mieć związek z ostatnim dniem odbywających się na Białorusi manewrów Zapad 2025.",
+      "originalTitle": "Superdron w polskiej przestrzeni powietrznej w \"newralgicznym momencie\"",
+      "originalDescription": "Nad Polską operował amerykański dron rozpoznawczy RQ-4 Global Hawk. Zdaniem Macieja Milczanowskiego, kierownika Zakładu Studiów nad Wojną Uniwersytetu Rzeszowskiego, jego operowanie nie było przypadkowe i mogło mieć związek z ostatnim dniem odbywających się na Białorusi manewrów Zapad 2025."
+    },
+    {
+      "title": "Rewolucja w uldze podatkowej. Jest projekt",
       "link": "https://tvn24.pl/biznes/pieniadze/rewolucja-w-uldze-mieszkaniowej-jest-projekt-st8655052?source=rss",
       "pubDate": "Wed, 17 Sep 2025 16:23:14 GMT",
-      "description": "• Ulga mieszkaniowa umożliwia niepłacenie podatku przy sprzedaży mieszkania przed upływem pięciu lat od jego zakupu.\n• Ulga mieszkaniowa zostanie ograniczona.\n• Projekt w tej sprawie przygotował resort finansów.",
+      "description": "Ulga mieszkaniowa, umożliwiająca niepłacenie podatku przy sprzedaży mieszkania przed upływem pięciu lat od jego zakupu, zostanie ograniczona. Projekt w tej sprawie przygotował resort finansów.",
       "originalTitle": "Rewolucja w uldze podatkowej. Jest projekt",
       "originalDescription": "Ulga mieszkaniowa, umożliwiająca niepłacenie podatku przy sprzedaży mieszkania przed upływem pięciu lat od jego zakupu, zostanie ograniczona. Projekt w tej sprawie przygotował resort finansów."
     },
     {
-      "title": "Odkryto wodę pod Atlantykiem",
+      "title": "Pod Atlantykiem może znajdować się woda zdatna do picia",
       "link": "https://tvn24.pl/tvnmeteo/nauka/pod-atlantykiem-moze-znajdowac-sie-woda-zdatna-do-picia-st8654952?source=rss",
       "pubDate": "Wed, 17 Sep 2025 16:08:44 GMT",
-      "description": "• Pod Atlantykiem znajdują się złoża słodkiej wody potencjalnie nadającej się do picia.\n• Naukowcy badają obecnie jej skład mikrobiologiczny.\n• Naukowcy badają, czy zasób wody jest odnawialny.\n• Obecnie wydobycie wody spod Atlantyku byłoby bardzo trudne ze względów technologicznych.\n• W przyszłości woda spod Atlantyku może być wydobywana na powierzchnię.",
+      "description": "Pod Atlantykiem znajdują się złoża słodkiej wody potencjalnie nadającej się do picia. Naukowcy badają obecnie jej skład mikrobiologiczny oraz to, czy zasób jest odnawialny. Jak wyjaśniają, chociaż obecnie byłoby to bardzo trudne ze względów technologicznych, w przyszłości woda spod Atlantyku może być wydobywana na powierzchnię.",
       "originalTitle": "Pod Atlantykiem może znajdować się woda zdatna do picia",
       "originalDescription": "Pod Atlantykiem znajdują się złoża słodkiej wody potencjalnie nadającej się do picia. Naukowcy badają obecnie jej skład mikrobiologiczny oraz to, czy zasób jest odnawialny. Jak wyjaśniają, chociaż obecnie byłoby to bardzo trudne ze względów technologicznych, w przyszłości woda spod Atlantyku może być wydobywana na powierzchnię."
     },
     {
-      "title": "Oświadczenie szefa MON w sprawie wypowiedzi Zełenskiego",
+      "title": "Szef MON o \"niepotrzebnych i nieprawdziwych\" słowach Zełenskiego",
       "link": "https://tvn24.pl/polska/szef-mon-skomentowal-slowa-zelenskiego-niepotrzebne-i-nieprawdziwe-st8654974?source=rss",
       "pubDate": "Wed, 17 Sep 2025 16:05:22 GMT",
-      "description": "• Słowa Wołodymyra Zełenskiego były \"niepotrzebne i nieprawdziwe\" - ocenił wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz.\n• Ocena ta została wygłoszona w środę.\n• Ukraiński prezydent Wołodymyr Zełenski stwierdził, że Polska \"nie zdoła uratować ludzi\" w przypadku zmasowanego ataku Rosji.\n• Wypowiedź dotyczyła potencjalnego zmasowanego ataku Rosji.",
+      "description": "Słowa Wołodymyra Zełenskiego były \"niepotrzebne i nieprawdziwe\" - ocenił w środę wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz. Ukraiński prezydent stwierdził, że Polska \"nie zdoła uratować ludzi\" w przypadku zmasowanego ataku Rosji.",
       "originalTitle": "Szef MON o \"niepotrzebnych i nieprawdziwych\" słowach Zełenskiego",
       "originalDescription": "Słowa Wołodymyra Zełenskiego były \"niepotrzebne i nieprawdziwe\" - ocenił w środę wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz. Ukraiński prezydent stwierdził, że Polska \"nie zdoła uratować ludzi\" w przypadku zmasowanego ataku Rosji."
     },
@@ -36,52 +76,12 @@
       "originalDescription": "W Warszawie pożegnano Katarzynę Stoparczyk. Ceniona dziennikarka radiowa i telewizyjna zginęła w wypadku samochodowym. Żałobnicy wspominali w szczególności jej oddanie na rzecz dzieci."
     },
     {
-      "title": "Po Krakowie skakał kangur. Udało się go złapać",
-      "link": "https://tvn24.pl/krakow/po-krakowie-skakal-kangur-udalo-sie-go-zlapac-st8654923?source=rss",
-      "pubDate": "Wed, 17 Sep 2025 15:00:45 GMT",
-      "description": "W środę po ulicach Krakowa biegał kangur. Torbacz był widziany w różnych częściach miasta w dzielnicy Nowa Huta. W poszukiwaniach brała udział policja i właściciel zwierzęcia. Po południu udało się złapać torbacza.",
-      "originalTitle": "Po Krakowie skakał kangur. Udało się go złapać",
-      "originalDescription": "W środę po ulicach Krakowa biegał kangur. Torbacz był widziany w różnych częściach miasta w dzielnicy Nowa Huta. W poszukiwaniach brała udział policja i właściciel zwierzęcia. Po południu udało się złapać torbacza."
-    },
-    {
       "title": "Dziki Trener, Pejo, Wyrzykowski.... Rozważania o dronach na rosyjską nutę",
       "link": "https://konkret24.tvn24.pl/polska/dziki-trener-pejo-wyrzykowski-rozwazania-o-dronach-na-rosyjska-nute-st8653052?source=rss",
       "pubDate": "Wed, 17 Sep 2025 15:36:22 GMT",
       "description": "Mający milionowe zasięgi influencer rozważa w nagranym filmie, \"czy sytuacja z dronami to było celowe działanie Rosji\". Polityk Konfederacji zastanawia się, \"skąd ta pewność\", że drony były rosyjskie. Polscy eurodeputowani oskarżają Unię Europejską, że \"nakręca prowojenną histerię w Polsce\" i że zagrożenie ze strony Rosji to wina Zachodu. Oto jakie echa rosyjskich narracji znajdujemy w popularnych teraz nagraniach na Facebooku.",
       "originalTitle": "Dziki Trener, Pejo, Wyrzykowski.... Rozważania o dronach na rosyjską nutę",
       "originalDescription": "Mający milionowe zasięgi influencer rozważa w nagranym filmie, \"czy sytuacja z dronami to było celowe działanie Rosji\". Polityk Konfederacji zastanawia się, \"skąd ta pewność\", że drony były rosyjskie. Polscy eurodeputowani oskarżają Unię Europejską, że \"nakręca prowojenną histerię w Polsce\" i że zagrożenie ze strony Rosji to wina Zachodu. Oto jakie echa rosyjskich narracji znajdujemy w popularnych teraz nagraniach na Facebooku."
-    },
-    {
-      "title": "Opłata za wstęp do miasta. Jest zapowiedź",
-      "link": "https://tvn24.pl/biznes/turystyka/wenecja-zapowiedz-powrotu-oplaty-za-wstep-do-miasta-w-2026-roku-st8654936?source=rss",
-      "pubDate": "Wed, 17 Sep 2025 15:34:26 GMT",
-      "description": "Wenecja w przyszłym roku ponownie wprowadzi opłatę za wstęp do miasta w przypadku jednodniowych wizyt turystów. Pobierana ona będzie przez 60 dni w roku.",
-      "originalTitle": "Opłata za wstęp do miasta. Jest zapowiedź",
-      "originalDescription": "Wenecja w przyszłym roku ponownie wprowadzi opłatę za wstęp do miasta w przypadku jednodniowych wizyt turystów. Pobierana ona będzie przez 60 dni w roku."
-    },
-    {
-      "title": "Co dalej z pracami domowymi dla uczniów? \"Rąbka tajemnicy mogę uchylić\"",
-      "link": "https://tvn24.pl/polska/debata-szkola-do-poprawki-w-tvn24-co-z-pracami-domowymi-st8654828?source=rss",
-      "pubDate": "Wed, 17 Sep 2025 15:24:01 GMT",
-      "description": "- Do końca września trwa ewaluacja w sprawie nieobowiązkowych prac domowych. Opinie nie są takie pozytywne - przekazał w debacie \"Szkoła do poprawki?\" w TVN24+ doktor Maciej Jakubowski z Państwowego Instytutu Badawczego. Justyna Suchecka z tvn24.pl zauważyła, że opinie rodziców są tu podzielone, ale \"jest mnóstwo dorosłych, którzy są bardzo rozczarowani tą zmianą\". Danuta Kozakiewicz, dyrektorka jednej z warszawskich szkół, przyznała, że dziura między dziećmi uczącymi się dobrze i słabiej \"jeszcze bardziej się powiększyła\".",
-      "originalTitle": "Co dalej z pracami domowymi dla uczniów? \"Rąbka tajemnicy mogę uchylić\"",
-      "originalDescription": "- Do końca września trwa ewaluacja w sprawie nieobowiązkowych prac domowych. Opinie nie są takie pozytywne - przekazał w debacie \"Szkoła do poprawki?\" w TVN24+ doktor Maciej Jakubowski z Państwowego Instytutu Badawczego. Justyna Suchecka z tvn24.pl zauważyła, że opinie rodziców są tu podzielone, ale \"jest mnóstwo dorosłych, którzy są bardzo rozczarowani tą zmianą\". Danuta Kozakiewicz, dyrektorka jednej z warszawskich szkół, przyznała, że dziura między dziećmi uczącymi się dobrze i słabiej \"jeszcze bardziej się powiększyła\"."
-    },
-    {
-      "title": "Mieli obrazić prezydenta na TikToku. Za wideo z tańcem trafili do aresztu",
-      "link": "https://tvn24.pl/swiat/somalia-obrazili-prezydenta-na-tiktoku-trafili-do-aresztu-policja-ostrzega-st8654883?source=rss",
-      "pubDate": "Wed, 17 Sep 2025 15:19:05 GMT",
-      "description": "Somalijska policja zatrzymała czterech użytkowników TikToka za rzekome znieważenie prezydenta Hassana Sheikha Mohamuda w nagraniu wideo z tańcem. Znalazła się w nim przerobiona piosenka z ostatniej kampanii prezydenckiej.",
-      "originalTitle": "Mieli obrazić prezydenta na TikToku. Za wideo z tańcem trafili do aresztu",
-      "originalDescription": "Somalijska policja zatrzymała czterech użytkowników TikToka za rzekome znieważenie prezydenta Hassana Sheikha Mohamuda w nagraniu wideo z tańcem. Znalazła się w nim przerobiona piosenka z ostatniej kampanii prezydenckiej."
-    },
-    {
-      "title": "Przedłużenie kontroli na granicach. Jest projekt MSWiA",
-      "link": "https://tvn24.pl/polska/przedluzenie-kontroli-na-granicy-z-niemcami-i-litwa-jest-projekt-mswia-st8655003?source=rss",
-      "pubDate": "Wed, 17 Sep 2025 15:16:32 GMT",
-      "description": "Ministerstwo Spraw Wewnętrznych i Administracji chce przedłużenia kontroli na granicy z Niemcami i Litwą do 4 kwietnia 2026 roku - wynika z projektu rozporządzenia resortu. W jego uzasadnieniu wskazano między innymi na utrzymującą się presję migracyjną na granicy polsko-białoruskiej.",
-      "originalTitle": "Przedłużenie kontroli na granicach. Jest projekt MSWiA",
-      "originalDescription": "Ministerstwo Spraw Wewnętrznych i Administracji chce przedłużenia kontroli na granicy z Niemcami i Litwą do 4 kwietnia 2026 roku - wynika z projektu rozporządzenia resortu. W jego uzasadnieniu wskazano między innymi na utrzymującą się presję migracyjną na granicy polsko-białoruskiej."
     }
   ]
 }
