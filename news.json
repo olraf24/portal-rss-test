@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-09-18T10:05:53.046Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-09-18T10:37:18.494Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Miasto wygrało proces przeciwko Skarbowi Państwa",
+      "link": "https://tvn24.pl/szczecin/szczecinek-miasto-wygralo-proces-ze-skarbem-panstwa-st8655921?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:35:35 GMT",
+      "description": "Sąd Okręgowy w Szczecinie wydał wyrok w sprawie wieloletniej batalii gminy Szczecinek ze Skarbem Państwa. Powodem procesu były niewystarczające pieniądze na realizację zadań zleconych przez wojewodę. Wyrok jest nieprawomocny.",
+      "originalTitle": "Miasto wygrało proces ze Skarbem Państwa",
+      "originalDescription": "Sąd Okręgowy w Szczecinie wydał wyrok w sprawie wieloletniej batalii gminy Szczecinek ze Skarbem Państwa. Powodem procesu były niewystarczające pieniądze na realizację zadań zleconych przez wojewodę. Wyrok jest nieprawomocny."
+    },
+    {
+      "title": "Berlina komentuje propozycję Nawrockiego",
+      "link": "https://tvn24.pl/swiat/reparacje-za-bezpieczenstwo-media-o-reakcji-berlina-na-propozycje-karola-nawrockiego-st8655940?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:31:04 GMT",
+      "description": "• Niemieckie media komentują wizytę prezydenta Karola Nawrockiego w Berlinie.\n• Wizyta prezydenta Karola Nawrockiego odbyła się w Berlinie.\n• Prezydent Karol Nawrocki odbył rozmowę z Frankiem-Walterem Steinmeierem.\n• Rozmowa odbyła się między prezydentem Karolem Nawrockim a prezydentem Niemiec Frankiem-Walterem Steinmeierem.\n• Niemieckie media powołują się na źródła w sprawie wizyty i rozmowy.\n• Źródła informują o propozycji, którą miał złożyć prezydent Karol Nawrocki.\n• Propozycja została złożona przez prezydenta Karola Nawrockiego.\n• Prezydent Niemiec Frankie-Walter Steinmeier zareagował na propozycję.\n• Niemieckie media piszą o reakcji prezydenta Niemiec Frankie-Waltera Steinmeiera na propozycję prezydenta Karola Nawrockiego.",
+      "originalTitle": "Reparacje za bezpieczeństwo? Media o reakcji Berlina na propozycję Karola Nawrockiego",
+      "originalDescription": "Niemieckie media komentują wizytę prezydenta Karola Nawrockiego w Berlinie i jego rozmowę z Frankiem-Walterem Steinmeierem. Powołując się na źródła, piszą o propozycji, którą miał złożyć Nawrocki i reakcji prezydenta Niemiec."
+    },
+    {
+      "title": "Finansowanie psychiatrii",
+      "link": "https://tvn24.pl/zdrowie/co-z-finansowaniem-psychiatrii-i-centrami-zdrowia-psychicznego-ministerstwo-zdrowia-odpowiada-st8656043?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:29:00 GMT",
+      "description": "• Plan finansowania psychiatrii nie uwzględnia Centrów Zdrowia Psychicznego z przyczyn formalnych.\n• Ministerstwo Zdrowia informuje o tym fakcie.\n• Trwają prace nad opracowaniem mechanizmu, który pozwoli na utrzymanie Centrów Zdrowia Psychicznego.\n• Zdrowie psychiczne jest jednym z priorytetów rządu.\n• Ogólnopolskie Stowarzyszenie Centrów Zdrowia Psychicznego (OSCZP) zgłaszało obawy dotyczące finansowania psychiatrii.\n• W przyszłym roku psychiatria ma otrzymać o 1,2 miliarda złotych mniej, niż w obecnym roku.",
+      "originalTitle": "Co z finansowaniem psychiatrii? Resort zdrowia uspokaja",
+      "originalDescription": "Plan finansowania psychiatrii nie uwzględnia Centrów Zdrowia Psychicznego z przyczyn formalnych - informuje Ministerstwo Zdrowia. Zapewnia też, że dobiegają końca prace nad opracowaniem mechanizmu, który pozwoli je utrzymać, a zdrowie psychiczne jest jednym z priorytetów rządu. To reakcja na obawy zgłaszane przez Ogólnopolskie Stowarzyszenie Centrów Zdrowia Psychicznego (OSCZP), które alarmowało, że w przyszłym roku psychiatria otrzyma o 1,2 miliarda złotych mniej, niż w obecnym."
+    },
+    {
+      "title": "Musk pyta o osiągnięcia",
+      "link": "https://tvn24.pl/biznes/ze-swiata/elon-musk-znow-zaskakuje-co-osiagneliscie-w-ciagu-ostatnich-czterech-tygodni-st8655950?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:25:02 GMT",
+      "description": "• Elon Musk po odejściu z administracji prezydenta Donalda Trumpa wrócił do zarządzania swoimi firmami.\n• Informacje o powyższych działaniach zostały podane przez CNN.\n• Elon Musk rozesłał do pracowników firmy xAI e-maile.\n• W e-mailach zawarta była prośba o przedstawienie swoich osiągnięć.\n• W e-mailach zawarta była prośba o przedstawienie swoich planów.",
+      "originalTitle": "Musk znów zaskakuje. \"Co osiągnęliście w ciągu ostatnich czterech tygodni\"",
+      "originalDescription": "Elon Musk, po odejściu z administracji prezydenta Donalda Trumpa, w pełni wrócił do zarządzania swoimi firmami. Jak donosi CNN, w ostatnich dniach rozesłał do pracowników firmy xAI e-maile z prośbą o przedstawienie swoich osiągnięć i planów."
+    },
+    {
+      "title": "AI przewiduje choroby na przyszłość",
+      "link": "https://tvn24.pl/zdrowie/ai-potrafi-przewidziec-choroby-10-lat-wczesniej-z-jaka-dokladnoscia-st8656059?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:22:35 GMT",
+      "description": "• Nowy model sztucznej inteligencji potrafi oszacować długoterminowe ryzyko wystąpienia ponad tysiąca chorób.\n• Model przewiduje zmiany stanu zdrowia człowieka z ponad dziesięcioletnim wyprzedzeniem.\n• Informacje o nowym modelu sztucznej inteligencji zostały opublikowane przez duńskich i niemieckich naukowców w magazynie \"Nature\".\n• Model szczególnie dobrze radzi sobie z przewidywaniem ryzyka wystąpienia niektórych nowotworów.\n• Model dobrze radzi sobie również z przewidywaniem ryzyka wystąpienia chorób serca.\n• Model radzi sobie gorzej z problemami zdrowia psychicznego.\n• Model radzi sobie gorzej z powikłaniami w okresie ciąży.",
+      "originalTitle": "Na co zachorujesz za 10 lub 20 lat? AI już potrafi to przewidzieć",
+      "originalDescription": "Nowy model sztucznej inteligencji potrafi oszacować długoterminowe ryzyko wystąpienia ponad tysiąca chorób i przewiduje zmiany stanu zdrowia człowieka z ponad dziesięcioletnim wyprzedzeniem - informują duńscy i niemieccy naukowcy w magazynie \"Nature\". Szczególnie dobrze radzi sobie z przewidywaniem ryzyka wystąpienia niektórych nowotworów czy chorób serca. Gorzej - z problemami zdrowia psychicznego czy powikłaniami w okresie ciąży."
+    },
+    {
+      "title": "Utworzono zespół prokuratorów ds. neosędziów",
+      "link": "https://tvn24.pl/polska/powstal-specjalny-zespol-prokuratorow-do-spraw-neosedziow-st8656045?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:18:00 GMT",
+      "description": "Powołałem zespół prokuratorów do spraw działania nesosędziów w Sądzie Najwyższym i Naczelnym Sądzie Administracyjnym - poinformował na czwartkowej konferencji minister sprawiedliwości Waldemar Żurek.",
+      "originalTitle": "Powstał specjalny zespół prokuratorów do spraw neosędziów",
+      "originalDescription": "Powołałem zespół prokuratorów do spraw działania nesosędziów w Sądzie Najwyższym i Naczelnym Sądzie Administracyjnym - poinformował na czwartkowej konferencji minister sprawiedliwości Waldemar Żurek."
+    },
+    {
+      "title": "Samochód uderzył w drzewo. Nie żyje niemowlę i 30-latek, w aucie byli też kobieta i trzylatek",
+      "link": "https://tvn24.pl/olsztyn/gorowo-ilaweckie-w-wypadku-zgineli-niemowle-i-mezczyzna-w-samochodzie-byli-tez-kobieta-i-trzylatek-st8655880?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 09:15:46 GMT",
+      "description": "Nissan z nieznanych przyczyn uderzył w drzewo. W środku byli dorośli i dwoje dzieci. Mimo reanimacji 30-letni kierowca zginął na miejscu. Ponad dwie godziny po wypadku służby przekazały, że nie udało się też uratować trzymiesięcznego niemowlęcia. Nieprzytomny jest również trzylatek.",
+      "originalTitle": "Samochód uderzył w drzewo. Nie żyje niemowlę i 30-latek, w aucie byli też kobieta i trzylatek",
+      "originalDescription": "Nissan z nieznanych przyczyn uderzył w drzewo. W środku byli dorośli i dwoje dzieci. Mimo reanimacji 30-letni kierowca zginął na miejscu. Ponad dwie godziny po wypadku służby przekazały, że nie udało się też uratować trzymiesięcznego niemowlęcia. Nieprzytomny jest również trzylatek."
+    },
+    {
+      "title": "\"Nie dało się tego nie zauważyć\". Media o sukniach Melanii Trump i królowej Kamili",
+      "link": "https://tvn24.pl/swiat/nie-dalo-sie-tego-nie-zauwazyc-media-o-sukniach-melanii-trump-i-krolowej-kamili-st8655844?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:01:48 GMT",
+      "description": "Gdy stały obok siebie, nie dało się tego nie zauważyć, że mają na sobie kolory Ukrainy, a niektórzy sugerowali, że był to subtelny pokaz poparcia dla rozdartego wojną narodu - komentuje brytyjski dziennik \"The Mirror\" i zwraca uwagę na kreacje królowej Kamili i pierwszej damy USA Melanii Trump w trakcie bankietu na zamku Windsor.",
+      "originalTitle": "\"Nie dało się tego nie zauważyć\". Media o sukniach Melanii Trump i królowej Kamili",
+      "originalDescription": "Gdy stały obok siebie, nie dało się tego nie zauważyć, że mają na sobie kolory Ukrainy, a niektórzy sugerowali, że był to subtelny pokaz poparcia dla rozdartego wojną narodu - komentuje brytyjski dziennik \"The Mirror\" i zwraca uwagę na kreacje królowej Kamili i pierwszej damy USA Melanii Trump w trakcie bankietu na zamku Windsor."
+    },
+    {
+      "title": "Powodzie błyskawiczne zmyły tysiące schronień",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/jemen-powodzie-blyskawiczne-zmyly-tysiace-schronien-st8655968?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 10:00:54 GMT",
+      "description": "Jemen nawiedziły ulewne deszcze, które doprowadziły do powodzi błyskawicznych. Woda zalała tymczasowe schronienia, które służyły osobom przesiedlonym w wyniku działań wojennych.",
+      "originalTitle": "Powodzie błyskawiczne zmyły tysiące schronień",
+      "originalDescription": "Jemen nawiedziły ulewne deszcze, które doprowadziły do powodzi błyskawicznych. Woda zalała tymczasowe schronienia, które służyły osobom przesiedlonym w wyniku działań wojennych."
+    },
+    {
+      "title": "Nie żyje podpułkownik Konrad Barnaś. Szef Sztabu 12. Bazy Bezzałogowych Statków Powietrznych miał 45 lat",
+      "link": "https://tvn24.pl/szczecin/pplk-konrad-barnas-nie-zyje-szef-sztabu-12-bazy-bezzalogowych-statkow-powietrznych-w-miroslawcu-mial-45-lat-st8655886?source=rss",
+      "pubDate": "Thu, 18 Sep 2025 09:44:05 GMT",
+      "description": "Zmarł podpułkownik Konrad Barnaś, szef Sztabu 12. Bazy Bezzałogowych Statków Powietrznych w Mirosławcu, spadochroniarz w przeszłości pełniący służbę również w Afganistanie. O jego śmierci poinformowała jednostka, w której służył.",
+      "originalTitle": "Nie żyje podpułkownik Konrad Barnaś. Szef Sztabu 12. Bazy Bezzałogowych Statków Powietrznych miał 45 lat",
+      "originalDescription": "Zmarł podpułkownik Konrad Barnaś, szef Sztabu 12. Bazy Bezzałogowych Statków Powietrznych w Mirosławcu, spadochroniarz w przeszłości pełniący służbę również w Afganistanie. O jego śmierci poinformowała jednostka, w której służył."
+    }
+  ]
 }
