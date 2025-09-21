@@ -1,58 +1,74 @@
 {
-  "lastUpdate": "2025-09-21T16:06:05.149Z",
+  "lastUpdate": "2025-09-21T16:37:36.608Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Pogoda na 22.09: chmury nad częścią kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-22-09-chmury-spowija-niebo-nad-czescia-kraju-st8660823?source=rss",
+      "pubDate": "Sun, 21 Sep 2025 16:25:37 GMT",
+      "description": "W nocy w części kraju będzie pochmurno, a miejscami deszczowo. W poniedziałek na południu i wschodzie kraju utrzyma się słoneczna pogoda, podczas gdy na pozostałych obszarach dominować będzie duże zachmurzenie z opadami deszczu.",
+      "originalTitle": "Pogoda na jutro - poniedziałek, 22.09. Chmury spowiją niebo nad częścią kraju",
+      "originalDescription": "W nocy w części kraju będzie pochmurno, a miejscami deszczowo. W poniedziałek na południu i wschodzie kraju utrzyma się słoneczna pogoda, podczas gdy na pozostałych obszarach dominować będzie duże zachmurzenie z opadami deszczu."
+    },
+    {
+      "title": "Wypadek drogowy na A2, 2 osoby hospitalizowane",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/a2-baranow-zderzenie-czterech-aut-dwie-osoby-ranne-st8660759?source=rss",
+      "pubDate": "Sun, 21 Sep 2025 13:18:04 GMT",
+      "description": "Na autostradzie A2 na wysokości Baranowa (Mazowieckie) doszło do zderzenia czterech aut. Służby podały, że poszkodowane zostały dwie osoby. Autostrada w tym miejscu była nieprzejezdna przez kilka godzin.",
+      "originalTitle": "Zderzenie czterech aut na A2, dwie osoby w szpitalu",
+      "originalDescription": "Na autostradzie A2 na wysokości Baranowa (Mazowieckie) doszło do zderzenia czterech aut. Służby podały, że poszkodowane zostały dwie osoby. Autostrada w tym miejscu była nieprzejezdna przez kilka godzin."
+    },
+    {
       "title": "Prom w Gassach zakończył działalność",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/koniec-promu-w-gassach-st8660735?source=rss",
       "pubDate": "Sun, 21 Sep 2025 15:57:29 GMT",
-      "description": "• Niski stan wody był jednym z problemów w tym sezonie.\n• Problemy techniczne również wystąpiły w tym sezonie.\n• Odwołane kursy były skutkiem trudności.\n• Sezon był trudny dla właściciela promu.\n• Sezon był trudny dla obsługi promu.\n• Prom kursował między Gassami a Karczewem.\n• Ten sezon okazał się ostatnim dla promu.",
+      "description": "• Niski stan wody był jednym z problemów w tym sezonie.\n• Problemy techniczne również wystąpiły w tym sezonie.\n• W tym sezonie odwołano kursy.\n• Sezon okazał się trudny dla właściciela promu.\n• Sezon okazał się trudny dla obsługi promu.\n• Prom kursował między Gassami a Karczewem.\n• Ten sezon był ostatnim dla promu.",
       "originalTitle": "Prom w Gassach zakończył działalność. \"Wielka strata\"",
       "originalDescription": "Niski stan wody, problemy techniczne i odwołane kursy. Ten sezon był trudny dla właściciela i obsługi promu między Gassami a Karczewem. Okazał się także ostatnim."
     },
     {
-      "title": "Wypowiedź Trumpa na temat Polski i sojuszników w NATO",
+      "title": "Trump o Polsce i sojusznikach w NATO. \"Zrobiłbym to\"",
       "link": "https://tvn24.pl/swiat/donald-trump-odpowiedzial-na-pytanie-o-pomoc-polsce-i-krajom-baltyckim-st8660847?source=rss",
       "pubDate": "Sun, 21 Sep 2025 15:24:53 GMT",
-      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump zadeklarował pomoc w niedzielę.\n• Pomoc ma być udzielona Polsce.\n• Pomoc ma być udzielona państwom bałtyckim.\n• Pomoc ma być udzielona w przypadku eskalacji ze strony Rosji.\n• Donald Trump odniósł si�� do naruszenia estońskiego nieba.\n• Estońskie niebo zostało naruszone przez rosyjskie myśliwce.",
+      "description": "Prezydent USA Donald Trump zadeklarował w niedzielę, że pomógłby Polsce i państwom bałtyckim bronić się w przypadku eskalacji ze strony Rosji. Odniósł się też do naruszenia estońskiego nieba przez rosyjskie myśliwce.",
       "originalTitle": "Trump o Polsce i sojusznikach w NATO. \"Zrobiłbym to\"",
       "originalDescription": "Prezydent USA Donald Trump zadeklarował w niedzielę, że pomógłby Polsce i państwom bałtyckim bronić się w przypadku eskalacji ze strony Rosji. Odniósł się też do naruszenia estońskiego nieba przez rosyjskie myśliwce."
     },
     {
-      "title": "Lato w Polsce: podsumowanie klimatyczne",
+      "title": "Jakie było lato w Polsce? Podsumowanie klimatologa",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/zmiana-klimatu-i-globalne-ocieplenie-jakie-bylo-lato-w-polsce-podsumowanie-klimatologa-st8660819?source=rss",
       "pubDate": "Sun, 21 Sep 2025 15:24:43 GMT",
-      "description": "• Tegoroczne lato w Polsce było normalne.\n• Zmiana klimatu się nie zatrzymała.\n• W krajach nordyckich odnotowano rekordowo wysokie temperatury.\n• Profesorem, który wypowiedział się na temat tegorocznego lata w Polsce, jest Bogdan Chojnicki.\n• Bogdan Chojnicki jest klimatologiem.",
+      "description": "Jakie było tegoroczne lato w Polsce? Według klimatologa profesora Bogdana Chojnickiego normalne, ale to nie znaczy, że zmiana klimatu się zatrzymała. - W krajach nordyckich odnotowano rekordowo wysokie temperatury - powiedział ekspert.",
       "originalTitle": "Jakie było lato w Polsce? Podsumowanie klimatologa",
       "originalDescription": "Jakie było tegoroczne lato w Polsce? Według klimatologa profesora Bogdana Chojnickiego normalne, ale to nie znaczy, że zmiana klimatu się zatrzymała. - W krajach nordyckich odnotowano rekordowo wysokie temperatury - powiedział ekspert."
     },
     {
-      "title": "Obiekty o nieznanej funkcji w 4 lokalizacjach",
+      "title": "Tajemnicze obiekty w czterech miejscach kraju",
       "link": "https://tvn24.pl/polska/dron-wabik-znaleziony-w-lubelskiem-na-mazowszu-w-dwoch-miejscach-szczatki-przypominajace-drona-w-malopolsce-prawdopodobnie-czesc-zdalnie-sterowanego-modelu-samolotu-st8660312?source=rss",
       "pubDate": "Sun, 21 Sep 2025 09:25:02 GMT",
-      "description": "• Policja poinformowała w niedzielę o odnalezieniu łącznie czterech \"obiektów przypominających drony\" w całym kraju.\n• Żandarmeria Wojskowa przekazała informację o znalezionych obiektach.\n• Obiekt znaleziony w województwie lubelskim to dron Gerbera.\n• Szczątki przypominające bezzałogowce odnaleziono w województwie małopolskim.\n• Szczątki przypominające bezzałogowce odnaleziono na terenie dwóch powiatów w województwie mazowieckim.",
+      "description": "Policja poinformowała w niedzielę o odnalezieniu łącznie czterech \"obiektów przypominających drony\" w całym kraju. Jak przekazała Żandarmeria Wojskowa, obiekt znaleziony w województwie lubelskim to dron Gerbera. Szczątki przypominające bezzałogowce odnaleziono też w województwie małopolskim i na terenie dwóch powiatów w województwie mazowieckim.",
       "originalTitle": "Tajemnicze obiekty w czterech miejscach kraju",
       "originalDescription": "Policja poinformowała w niedzielę o odnalezieniu łącznie czterech \"obiektów przypominających drony\" w całym kraju. Jak przekazała Żandarmeria Wojskowa, obiekt znaleziony w województwie lubelskim to dron Gerbera. Szczątki przypominające bezzałogowce odnaleziono też w województwie małopolskim i na terenie dwóch powiatów w województwie mazowieckim."
     },
     {
-      "title": "Lekarze zachęcają mężczyzn do wizyt",
+      "title": "\"Wciąż wielu mężczyzn unika wizyt\". Lekarze na zachętę grają rocka i biegają",
       "link": "https://tvn24.pl/krakow/wciaz-wielu-mezczyzn-unika-wizyt-lekarze-na-zachete-graja-rocka-i-biegaja-st8660777?source=rss",
       "pubDate": "Sun, 21 Sep 2025 15:08:18 GMT",
-      "description": "• Rockowe brzmienia odbywają się w Krakowie\n• Sportowe emocje występują w Szczecinie\n• Dwa różne wydarzenia mają jeden cel\n• Celem jest przełamanie tabu\n• Celem jest przypomnienie, że profilaktyka urologiczna może uratować życie",
+      "description": "Rockowe brzmienia w Krakowie, sportowe emocje w Szczecinie. Dwa różne wydarzenia i jeden cel: przełamać tabu i przypomnieć, że profilaktyka urologiczna może uratować życie.",
       "originalTitle": "\"Wciąż wielu mężczyzn unika wizyt\". Lekarze na zachętę grają rocka i biegają",
       "originalDescription": "Rockowe brzmienia w Krakowie, sportowe emocje w Szczecinie. Dwa różne wydarzenia i jeden cel: przełamać tabu i przypomnieć, że profilaktyka urologiczna może uratować życie."
     },
     {
-      "title": "Wypadek na zawodach strzeleckich",
+      "title": "Wypadek podczas zawodów strzeleckich. Mężczyzna raniony w plecy",
       "link": "https://tvn24.pl/krakow/dabrowka-gorzycka-wypadek-na-strzelnicy-mezczyzna-raniony-w-plecy-rykoszet-st8660779?source=rss",
       "pubDate": "Sun, 21 Sep 2025 14:54:44 GMT",
-      "description": "• Podczas zawodów strzeleckich w Dąbrówce Gorzyckiej doszło do groźnego wypadku.\n• Zawody strzeleckie odbywały się w województwie małopolskim.\n• 37-latek został ranny w plecy.\n• Ranny mężczyzna najprawdopodobniej został postrzelony wskutek rykoszetu.\n• Mężczyzna został przetransportowany śmigłowcem do szpitala.\n• Policja ustaliła okoliczności wypadku.",
+      "description": "Podczas zawodów strzeleckich w Dąbrówce Gorzyckiej (woj. małopolskie) doszło do groźnego wypadku. Jak ustaliła policja, 37-latek został ranny w plecy, najprawdopodobniej wskutek rykoszetu. Mężczyzna został przetransportowany śmigłowcem do szpitala.",
       "originalTitle": "Wypadek podczas zawodów strzeleckich. Mężczyzna raniony w plecy",
       "originalDescription": "Podczas zawodów strzeleckich w Dąbrówce Gorzyckiej (woj. małopolskie) doszło do groźnego wypadku. Jak ustaliła policja, 37-latek został ranny w plecy, najprawdopodobniej wskutek rykoszetu. Mężczyzna został przetransportowany śmigłowcem do szpitala."
     },
     {
-      "title": "Pole w ogniu, dym widoczny z autostrady. Pożar pod Warszawą",
+      "title": "Pożar pola pod Warszawą",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-pozar-pola-pod-warszawa-dym-widac-z-autostrady-a2-st8660818?source=rss",
       "pubDate": "Sun, 21 Sep 2025 14:43:19 GMT",
       "description": "Niedaleko Pruszkowa ogień zajął ściernisko. Dym unoszący się z pożaru widać było między innymi z autostrady A2.",
@@ -66,22 +82,6 @@
       "description": "Publiczne dezawuowanie przedstawiciela Polski w Waszyngtonie podczas podróży w USA jest nieprofesjonalne i szkodliwe - zauważył wicepremier i minister spraw zagranicznych Radosław Sikorski. Tak ocenił słowa Marcina Przydacza, szefa Biura Polityki Międzynarodowej w prezydenckiej kancelarii, który określił ambasadorską nominację Bogdana Klicha jako \"złą\".",
       "originalTitle": "Sikorski z prośbą do prezydenta o \"przywoływanie swoich współpracowników do porządku\"",
       "originalDescription": "Publiczne dezawuowanie przedstawiciela Polski w Waszyngtonie podczas podróży w USA jest nieprofesjonalne i szkodliwe - zauważył wicepremier i minister spraw zagranicznych Radosław Sikorski. Tak ocenił słowa Marcina Przydacza, szefa Biura Polityki Międzynarodowej w prezydenckiej kancelarii, który określił ambasadorską nominację Bogdana Klicha jako \"złą\"."
-    },
-    {
-      "title": "\"Północny Pacyfik ma gorączkę\"",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/morska-fala-upalow-zamiana-klimatu-polnocny-pacyfik-ma-goraczke-st8660399?source=rss",
-      "pubDate": "Sun, 21 Sep 2025 13:58:45 GMT",
-      "description": "Największa w historii morska fala upałów objęła Pacyfik od Japonii po wybrzeże Stanów Zjednoczonych. To zjawisko, potęgowane przez globalne ocieplenie, wpływa znacząco na pogodę zarówno nad oceanem, jak i na lądzie.",
-      "originalTitle": "\"Północny Pacyfik ma gorączkę\"",
-      "originalDescription": "Największa w historii morska fala upałów objęła Pacyfik od Japonii po wybrzeże Stanów Zjednoczonych. To zjawisko, potęgowane przez globalne ocieplenie, wpływa znacząco na pogodę zarówno nad oceanem, jak i na lądzie."
-    },
-    {
-      "title": "Rosyjski Ił nad Bałtykiem odeskortowany przez samoloty państw NATO",
-      "link": "https://tvn24.pl/swiat/rosyjski-samolot-il-20m-nad-morzem-baltyckim-odeskortowany-przez-lotnictwo-niemiec-i-szwecji-st8660765?source=rss",
-      "pubDate": "Sun, 21 Sep 2025 13:40:17 GMT",
-      "description": "Niemieckie myśliwce Eurofigher zostały wysłane do odeskortowania rosyjskiego samolotu Ił-20M, który przelatywał nad Morzem Bałtyckim - przekazała agencja Reutera, powołując się na niemieckie siły powietrzne.",
-      "originalTitle": "Rosyjski Ił nad Bałtykiem odeskortowany przez samoloty państw NATO",
-      "originalDescription": "Niemieckie myśliwce Eurofigher zostały wysłane do odeskortowania rosyjskiego samolotu Ił-20M, który przelatywał nad Morzem Bałtyckim - przekazała agencja Reutera, powołując się na niemieckie siły powietrzne."
     }
   ]
 }
