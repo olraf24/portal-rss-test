@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2025-09-22T12:47:14.166Z",
+  "lastUpdate": "2025-09-22T13:13:47.570Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek przy pracy: operator walca zmarł",
+      "title": "Pożar w przedszkolu, placówka zamknięta",
+      "link": "https://tvn24.pl/krakow/zabierzow-bochenski-pozar-przedszkola-budynek-nie-nadaje-sie-do-przyjecia-dzieci-st8662302?source=rss",
+      "pubDate": "Mon, 22 Sep 2025 13:03:59 GMT",
+      "description": "Przedszkole w Zabierzowie Bocheńskim pod Krakowem nie nadaje się do użytku po pożarze, który wybuchł w poniedziałek rano przed rozpoczęciem zajęć. Ogień gasiło prawie 40 strażaków. Burmistrz Niepołomic poinformował, że dzieci zostaną tymczasowo przyjęte przez dom kultury i szkołę podstawową.",
+      "originalTitle": "Ogień pojawił się przed przyjściem dzieci, przedszkole zamknięte",
+      "originalDescription": "Przedszkole w Zabierzowie Bocheńskim pod Krakowem nie nadaje się do użytku po pożarze, który wybuchł w poniedziałek rano przed rozpoczęciem zajęć. Ogień gasiło prawie 40 strażaków. Burmistrz Niepołomic poinformował, że dzieci zostaną tymczasowo przyjęte przez dom kultury i szkołę podstawową."
+    },
+    {
+      "title": "Początek jesieni 2025",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/pierwszy-dzien-jesieni-jesien-2025-kiedy-zaczyna-sie-kalendarzowa-i-astronomiczna-jesien-st8657266?source=rss",
+      "pubDate": "Mon, 22 Sep 2025 12:56:00 GMT",
+      "description": "• Lato dobiega końca.\n• Niedługo powitamy jesień.\n• Jesień będzie miała miejsce najpierw astronomiczną.\n• Później nastąpi jesień kalendarzowa.",
+      "originalTitle": "Pierwszy dzień jesieni. Jesień 2025. Kiedy zaczyna się kalendarzowa i astronomiczna jesień?",
+      "originalDescription": "Lato dobiega końca. Już niedługo powitamy jesień - najpierw astronomiczną, potem kalendarzową. Kiedy się zaczną?"
+    },
+    {
+      "title": "Otyłość a poziom testosteronu u mężczyzn",
+      "link": "https://tvn24.pl/zdrowie/otylosc-obniza-testosteron-u-mezczyzn-jakie-ma-to-konsekwencje-tlumaczy-ekspert-st8661371?source=rss",
+      "pubDate": "Mon, 22 Sep 2025 12:55:25 GMT",
+      "description": "Mężczyźni z otyłością zgłaszają się na leczenie później niż kobiety, którym przez społeczną presję bardziej zależy na szczupłej sylwetce. Panowie przychodzą do specjalistów często z wyższym BMI i licznymi powikłaniami otyłości takimi jak bezdech senny, nadciśnienie tętnicze, cukrzyca typu 2, a także zaburzenia erekcji. Otyłość obniża poziom testosteronu, dodatkowo pogarszając ich samopoczucie. Co jeszcze powoduje?",
+      "originalTitle": "Otyłość obniża testosteron u mężczyzn. To ma szereg konsekwencji",
+      "originalDescription": "Mężczyźni z otyłością zgłaszają się na leczenie później niż kobiety, którym przez społeczną presję bardziej zależy na szczupłej sylwetce. Panowie przychodzą do specjalistów często z wyższym BMI i licznymi powikłaniami otyłości takimi jak bezdech senny, nadciśnienie tętnicze, cukrzyca typu 2, a także zaburzenia erekcji. Otyłość obniża poziom testosteronu, dodatkowo pogarszając ich samopoczucie. Co jeszcze powoduje?"
+    },
+    {
+      "title": "Przyjechał na urlop, spędził miesiąc w więzieniu. Władze \"pomyliły go\" z przestępcą",
+      "link": "https://tvn24.pl/swiat/wlochy-rumunski-turysta-aresztowany-podczas-urlopu-wladze-wziely-go-za-poszukiwanego-przestepce-st8661900?source=rss",
+      "pubDate": "Mon, 22 Sep 2025 12:52:09 GMT",
+      "description": "• Ovidiu Andronache pochodzi z Rumunii.\n• Ovidiu Andronache przybył z rodziną do Włoch.\n• Celem podróży było spędzenie kilkudniowego urlopu na weneckim wybrzeżu.\n• Ovidiu Andronache został aresztowany przez karabinierzy na plaży w Caorle.\n• W momencie aresztowania Ovidiu Andronache budował zamki z piasku z córkami.\n• Władze były przekonane, że namierzyły groźnego przestępcę, jak podaje \"La Stampa\".\n• Ovidiu Andronache został przewieziony prosto do więzienia.\n• Ovidiu Andronache przebywał w więzieniu prawie miesiąc.",
+      "originalTitle": "Przyjechał na urlop, spędził miesiąc w więzieniu. Władze \"pomyliły go\" z przestępcą",
+      "originalDescription": "Ovidiu Andronache z Rumunii przybył z rodziną do Włoch, by spędzić kilkudniowy urlop na weneckim wybrzeżu. Karabinierzy aresztowali go na plaży w Caorle, gdy z córkami budował zamki z piasku. Władze były przekonane, że namierzyły groźnego przestępcę, podaje \"La Stampa\". Mężczyzna został przewieziony prosto do więzienia, gdzie przebywał prawie miesiąc."
+    },
+    {
+      "title": "Lało jak z cebra. Woda porwała auto, zginęła kobieta",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/francja-intensywne-opady-na-poludniu-i-polnocnym-zachodzie-woda-porwala-auto-st8662236?source=rss",
+      "pubDate": "Mon, 22 Sep 2025 12:50:05 GMT",
+      "description": "W niedzielę wieczorem południową i północno-zachodnią Francję nawiedziły ulewy, które doprowadziły do podtopień. W wyniku załamania pogody zginęła jedna osoba.",
+      "originalTitle": "Lało jak z cebra. Woda porwała auto, zginęła kobieta",
+      "originalDescription": "W niedzielę wieczorem południową i północno-zachodnią Francję nawiedziły ulewy, które doprowadziły do podtopień. W wyniku załamania pogody zginęła jedna osoba."
+    },
+    {
+      "title": "Zginął operator walca drogowego. Został przygnieciony",
       "link": "https://tvn24.pl/wroclaw/zawada-smiertelny-wypadek-zginal-operator-walca-drogowego-st8662226?source=rss",
       "pubDate": "Mon, 22 Sep 2025 12:42:35 GMT",
-      "description": "• Podczas prac związanych z utwardzaniem pobocza na drodze Zawada - Drołtowice doszło do tragicznego zdarzenia.\n• Prace te odbywały się w województwie dolnośląskim.\n• 52-letni operator walca zjechał zbyt blisko rowu.\n• Operator próbował wyskoczyć z maszyny, ale nie zdążył.\n• Mężczyzna został przygnieciony przez walec.\n• Ofiara zginęła na miejscu zdarzenia.",
+      "description": "Podczas prac związanych z utwardzaniem pobocza na drodze Zawada - Drołtowice (woj. dolnośląskie) doszło do tragicznego zdarzenia. 52-letni operator walca zjechał zbyt blisko rowu, próbował wyskoczyć z maszyny, ale nie zdążył - został przez nią przygnieciony. Mężczyzna zginął na miejscu.",
       "originalTitle": "Zginął operator walca drogowego. Został przygnieciony",
       "originalDescription": "Podczas prac związanych z utwardzaniem pobocza na drodze Zawada - Drołtowice (woj. dolnośląskie) doszło do tragicznego zdarzenia. 52-letni operator walca zjechał zbyt blisko rowu, próbował wyskoczyć z maszyny, ale nie zdążył - został przez nią przygnieciony. Mężczyzna zginął na miejscu."
     },
     {
-      "title": "Uczelnia zgłasza nieprawidłowości w sprawie powodzi",
+      "title": "Nowe zawiadomienie w sprawie powodzi. Uczelnia wskazuje na nieprawidłowości",
       "link": "https://tvn24.pl/opole/nysa-nowe-zawiadomienie-ws-powodzi-w-nysie-uczelnia-wskazuje-na-nieprawidlowosci-st8662290?source=rss",
       "pubDate": "Mon, 22 Sep 2025 12:42:16 GMT",
-      "description": "• Prokuratura Okręgowa w Opolu rozpatrzy zawiadomienie Uniwersytetu Przyrodniczego we Wrocławiu.\n• Zawiadomienie dotyczy możliwych nieprawidłowości w działaniu urządzeń hydrotechnicznych na Jeziorze Nyskim.\n• Sprawa ma związek z powodzią, która nawiedziła Nysę we wrześniu 2024 roku.\n• Powódź miała miejsce w Nysie.\n• Rok, w którym miała miejsce powódź, to 2024.\n• Miesiąc, w którym miała miejsce powódź, to wrzesień.",
+      "description": "Prokuratura Okręgowa w Opolu rozpatrzy zawiadomienie Uniwersytetu Przyrodniczego we Wrocławiu dotyczące możliwych nieprawidłowości w działaniu urządzeń hydrotechnicznych na Jeziorze Nyskim. Sprawa ma związek z powodzią, która nawiedziła Nysę we wrześniu 2024 roku.",
       "originalTitle": "Nowe zawiadomienie w sprawie powodzi. Uczelnia wskazuje na nieprawidłowości",
       "originalDescription": "Prokuratura Okręgowa w Opolu rozpatrzy zawiadomienie Uniwersytetu Przyrodniczego we Wrocławiu dotyczące możliwych nieprawidłowości w działaniu urządzeń hydrotechnicznych na Jeziorze Nyskim. Sprawa ma związek z powodzią, która nawiedziła Nysę we wrześniu 2024 roku."
     },
     {
-      "title": "Unijna agencja skomentowała sytuację na lotniskach",
+      "title": "Chaos na lotniskach. Unijna agencja zabrała głos",
       "link": "https://tvn24.pl/biznes/ze-swiata/chaos-na-lotniskach-unijna-agencja-o-przyczynach-st8661901?source=rss",
       "pubDate": "Mon, 22 Sep 2025 12:39:34 GMT",
-      "description": "• Agencja Unii Europejskiej do spraw Cyberbezpieczeństwa (ENISA) poinformowała o zakłóceniu w funkcjonowaniu systemów.\n• Zakłócenia wystąpiły w systemach automatycznej odprawy pasażerów.\n• Zakłócenia miały miejsce na kilku lotniskach w Europie.\n• Przyczyną zakłóceń był cyberatak.\n• Cyberatak został przeprowadzony z użyciem oprogramowania typu ransomware.\n• Informacja o zakłóceniu została podana w poniedziałek.",
+      "description": "Agencja Unii Europejskiej do spraw Cyberbezpieczeństwa (ENISA) poinformowała w poniedziałek, że zakłócenia w funkcjonowaniu systemów automatycznej odprawy pasażerów na kilku lotniskach w Europie spowodowane były cyberatakiem z użyciem oprogramowania typu ransomware.",
       "originalTitle": "Chaos na lotniskach. Unijna agencja zabrała głos",
       "originalDescription": "Agencja Unii Europejskiej do spraw Cyberbezpieczeństwa (ENISA) poinformowała w poniedziałek, że zakłócenia w funkcjonowaniu systemów automatycznej odprawy pasażerów na kilku lotniskach w Europie spowodowane były cyberatakiem z użyciem oprogramowania typu ransomware."
     },
     {
-      "title": "Mężczyzna podejrzany o gwałty na nieletnich",
+      "title": "Spotykali się tylko w sieci, 21-latek odpowie za gwałty na nieletnich",
       "link": "https://tvn24.pl/krakow/pedofilia-zarzuty-za-gwalty-na-dzieciach-popelniane-przez-internet-st8662233?source=rss",
       "pubDate": "Mon, 22 Sep 2025 12:38:12 GMT",
       "description": "Zarzuty popełnienia siedmiu przestępstw pedofilskich, w tym gwałtów ze szczególnym okrucieństwem, postawiła 21-letniemu Szymonowi K. tarnowska prokuratura. Śledczy ustalili, że mężczyzna mógł skrzywdzić nawet kilkadziesiąt dzieci.",
@@ -42,46 +82,6 @@
       "description": "Pies ze schroniska, który był na spacerze z opiekunem, zerwał się ze smyczy i zaatakował siedmioletnią dziewczynkę. Do zdarzenia doszło w Wałbrzychu (woj. dolnośląskie). Dziecko z ranami klatki piersiowej i ramienia trafiło do szpitala, a potem na szczepienia przeciw wściekliźnie. Kierownictwo schroniska przeprasza i zapowiada zmiany w procedurach.",
       "originalTitle": "Siedmiolatka pogryziona przez psa. Zwierzę wyszło ze schroniska z opiekunem",
       "originalDescription": "Pies ze schroniska, który był na spacerze z opiekunem, zerwał się ze smyczy i zaatakował siedmioletnią dziewczynkę. Do zdarzenia doszło w Wałbrzychu (woj. dolnośląskie). Dziecko z ranami klatki piersiowej i ramienia trafiło do szpitala, a potem na szczepienia przeciw wściekliźnie. Kierownictwo schroniska przeprasza i zapowiada zmiany w procedurach."
-    },
-    {
-      "title": "Jechały na jednej hulajnodze, 12-latka trafiła do szpitala",
-      "link": "https://tvn24.pl/lublin/ryki-jechaly-razem-na-jednej-hulajnodze-12-latka-trafila-do-szpitala-st8661887?source=rss",
-      "pubDate": "Mon, 22 Sep 2025 12:08:30 GMT",
-      "description": "Hulajnogą elektryczną kierowała 13-latka, z tyłu stała jej o rok młodsza koleżanka. Przewróciły się, młodsza z dziewczynek trafiła do szpitala. Nie miała kasku, a jej koleżanka karty rowerowej.",
-      "originalTitle": "Jechały na jednej hulajnodze, 12-latka trafiła do szpitala",
-      "originalDescription": "Hulajnogą elektryczną kierowała 13-latka, z tyłu stała jej o rok młodsza koleżanka. Przewróciły się, młodsza z dziewczynek trafiła do szpitala. Nie miała kasku, a jej koleżanka karty rowerowej."
-    },
-    {
-      "title": "Pojechał usunąć gniazdo os. Po ośmiu dniach strażak zmarł w szpitalu",
-      "link": "https://tvn24.pl/kielce/strazak-ochotnik-slawomir-nocun-nie-zyje-mial-usunac-gniazdo-os-zostal-uzadlony-st8661111?source=rss",
-      "pubDate": "Mon, 22 Sep 2025 11:54:29 GMT",
-      "description": "Nie żyje Sławomir Nocuń z Ochotniczej Straży Pożarnej w Michałowie. Stracił przytomność podczas służby i trafił do szpitala. Miał usunąć w mieszkaniu gniazdo os, lekarze rozpoznali wstrząs anafilaktyczny po użądleniu. Walczył o życie w szpitalu osiem dni. Nikt nie zawiadomił prokuratury ani inspekcji pracy.",
-      "originalTitle": "Pojechał usunąć gniazdo os. Po ośmiu dniach strażak zmarł w szpitalu",
-      "originalDescription": "Nie żyje Sławomir Nocuń z Ochotniczej Straży Pożarnej w Michałowie. Stracił przytomność podczas służby i trafił do szpitala. Miał usunąć w mieszkaniu gniazdo os, lekarze rozpoznali wstrząs anafilaktyczny po użądleniu. Walczył o życie w szpitalu osiem dni. Nikt nie zawiadomił prokuratury ani inspekcji pracy."
-    },
-    {
-      "title": "Samochód kontra dwa tramwaje. Jeden wypadł z torów",
-      "link": "https://tvn24.pl/krakow/krakow-samochod-zderzyl-sie-z-dwoma-tramwajami-przy-moscie-pilsudskiego-st8661958?source=rss",
-      "pubDate": "Mon, 22 Sep 2025 11:52:11 GMT",
-      "description": "Kierująca samochodem osobowym zderzyła się z dwoma tramwajami i utknęła na środku torowiska w Krakowie. Jeden z pojazdów się wykoleił, a oba zostały nieznacznie uszkodzone. Nikomu nic się nie stało.",
-      "originalTitle": "Samochód kontra dwa tramwaje. Jeden wypadł z torów",
-      "originalDescription": "Kierująca samochodem osobowym zderzyła się z dwoma tramwajami i utknęła na środku torowiska w Krakowie. Jeden z pojazdów się wykoleił, a oba zostały nieznacznie uszkodzone. Nikomu nic się nie stało."
-    },
-    {
-      "title": "Korea Południowa: żądania Trumpa mogą pogrążyć nas w głębokim kryzysie",
-      "link": "https://tvn24.pl/swiat/korea-poludniowa-zadania-trumpa-moga-wywolac-w-kraju-kryzys-ostrzega-prezydent-li-dze-mjung-st8661668?source=rss",
-      "pubDate": "Mon, 22 Sep 2025 11:52:01 GMT",
-      "description": "Południowokoreańska gospodarka może pogrążyć się w kryzysie, jeśli rząd zaakceptuje żądania administracji Donalda Trumpa - ostrzegł prezydent tego kraju Li Dze Mjung. Ten potencjalny kryzys prezydent porównał do krachu z 1997 roku, który wstrząsnął wówczas wszystkimi azjatyckimi gospodarkami.",
-      "originalTitle": "Korea Południowa: żądania Trumpa mogą pogrążyć nas w głębokim kryzysie",
-      "originalDescription": "Południowokoreańska gospodarka może pogrążyć się w kryzysie, jeśli rząd zaakceptuje żądania administracji Donalda Trumpa - ostrzegł prezydent tego kraju Li Dze Mjung. Ten potencjalny kryzys prezydent porównał do krachu z 1997 roku, który wstrząsnął wówczas wszystkimi azjatyckimi gospodarkami."
-    },
-    {
-      "title": "Muzyczna odpowiedź Putina na Eurowizję. Uczestnik prosi, by na niego nie głosować",
-      "link": "https://tvn24.pl/kultura-i-styl/rosja-konkurs-interwizji-kto-wygral-impreze-reaktywowana-dekretem-putina-st8661417?source=rss",
-      "pubDate": "Mon, 22 Sep 2025 11:48:55 GMT",
-      "description": "W Rosji zakończył się reaktywowany po latach dekretem prezydenta Konkurs Piosenki Interwizji. W wydarzeniu, która ma być alternatywą dla Eurowizji, udział wzięli wyłącznie piosenkarze z krajów, które Kreml uznaje za przyjazne. Wycofanie się jedynej uczestniczki z kraju zachodniego organizatorzy ogłosili już w trakcie konkursu.",
-      "originalTitle": "Muzyczna odpowiedź Putina na Eurowizję. Uczestnik prosi, by na niego nie głosować",
-      "originalDescription": "W Rosji zakończył się reaktywowany po latach dekretem prezydenta Konkurs Piosenki Interwizji. W wydarzeniu, która ma być alternatywą dla Eurowizji, udział wzięli wyłącznie piosenkarze z krajów, które Kreml uznaje za przyjazne. Wycofanie się jedynej uczestniczki z kraju zachodniego organizatorzy ogłosili już w trakcie konkursu."
     }
   ]
 }
