@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-09-23T15:36:26.632Z",
+  "lastUpdate": "2025-09-23T16:07:57.723Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Incydent z samolotem nad Moskwą",
+      "title": "Projekt dotyczący ochrony konsumentów",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/dosc-naciagania-ludzi-na-pseudometry-jest-projekt-st8664654?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 16:03:08 GMT",
+      "description": "• Deweloperzy doliczają powierzchnię pod ścianami do ceny mieszkań.\n• Katarzyna Pełczyńska-Nałęcz jest szefową resortu funduszy.\n• Katarzyna Pełczyńska-Nałęcz napisała o tej praktyce w serwisie X we wtorek.\n• Polska 2050 złożyła projekt ustawy we wtorek.\n• Projekt ustawy ma na celu zakazanie praktyki doliczania powierzchni pod ścianami do ceny mieszkań.",
+      "originalTitle": "\"Dość naciągania ludzi na pseudometry\". Jest projekt",
+      "originalDescription": "Według deweloperów można mieszkać nawet pod ścianami. Bo trudno inaczej wytłumaczyć to, że powierzchnię pod nimi doliczają klientom do ceny - napisała we wtorek w serwisie X Katarzyna Pełczyńska-Nałęcz, szefowa resortu funduszy. Poinformowała jednocześnie, że Polska 2050 złożyła we wtorek projekt ustawy mający zakazać takiej praktyki."
+    },
+    {
+      "title": "Drużyna zdobywa srebro mistrzostw świata",
+      "link": "https://tvn24.pl/plus/najpierw-odmowil-po-roku-maja-srebro-mistrzostw-swiata-czulem-ze-cos-moze-sie-wydarzyc-st8664439?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 15:54:27 GMT",
+      "description": "• Masza podeszła i zadała zadziwiające pytanie, zaczęło się właśnie tak.\n• Nie zgodził się, odmówił, obawiał się, że podejmowane przez niego decyzje wpływać będą na życie zawodniczki tak dobrej i perspektywicznej.\n• Po roku współpracy Maria Żodzik i Paweł Wyszyński są duetem na medal.\n• Medal, który zdobyli, to srebro wicemistrzostw świata.\n• Maria Żodzik jest skoczkinią wzwyż.\n• Paweł Wyszyński jest trenerem Marii Żodzik.\n• Sukces, który osiągnęli, jest gigantyczny.",
+      "originalTitle": "Najpierw odmówił, po roku mają srebro mistrzostw świata. \"Czułem, że coś może się wydarzyć\"",
+      "originalDescription": "Masza podeszła i zadała zadziwiające pytanie, zaczęło się właśnie tak. Nie zgodził się, odmówił, obawiał się, że podejmowane przez niego decyzje wpływać będą na życie zawodniczki tak dobrej i perspektywicznej. Teraz, zaledwie po roku współpracy, są duetem na medal, na srebro wicemistrzostw świata - skoczkini wzwyż Maria Żodzik i jej trener Paweł Wyszyński. Jak osiągnęli sukces tak gigantyczny?"
+    },
+    {
+      "title": "Tajfun Ragasa się zbliża",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/supertajfun-ragasa-jest-w-trakcie-swojej-zabojczej-wedrowki-st8663095?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 07:15:52 GMT",
+      "description": "Supertajfun Ragasa przyniósł kolejne ofiary śmiertelne i zniszczenia. Na Tajwanie w wyniku powodzi zginęły dwie osoby, a kilkadziesiąt uznaje się za zaginione. Wcześniej burza nękała Filipiny, gdzie także odnotowano ofiary śmiertelne. Żywioł ma na swojej drodze kolejne regiony i kraje.",
+      "originalTitle": "Supertajfun Ragasa jest w trakcie swojej zabójczej wędrówki",
+      "originalDescription": "Supertajfun Ragasa przyniósł kolejne ofiary śmiertelne i zniszczenia. Na Tajwanie w wyniku powodzi zginęły dwie osoby, a kilkadziesiąt uznaje się za zaginione. Wcześniej burza nękała Filipiny, gdzie także odnotowano ofiary śmiertelne. Żywioł ma na swojej drodze kolejne regiony i kraje."
+    },
+    {
+      "title": "Potrawa a ryzyko chorób",
+      "link": "https://tvn24.pl/zdrowie/nauka-ramen-moze-zwiekszac-ryzyko-chorob-i-przedwczesnej-smierci-badanie-st8664477?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 15:47:14 GMT",
+      "description": "Częste spożywanie ramenu może wiązać się z poważnym ryzykiem dla zdrowia, a nawet przedwczesną śmiercią - wynika z nowego japońskiego badania. Choć ryzyko wydaje się nieznaczne, to ustalenia naukowców rzucają nowe światło na tę niezwykle popularną, również w Polsce, potrawę.",
+      "originalTitle": "Ciemna strona słynnej potrawy. \"Może zwiększać ryzyko chorób\"",
+      "originalDescription": "Częste spożywanie ramenu może wiązać się z poważnym ryzykiem dla zdrowia, a nawet przedwczesną śmiercią - wynika z nowego japońskiego badania. Choć ryzyko wydaje się nieznaczne, to ustalenia naukowców rzucają nowe światło na tę niezwykle popularną, również w Polsce, potrawę."
+    },
+    {
+      "title": "Brejza pyta o \"człowieka zapodającego środki odurzające\". Zgłosił się sam",
+      "link": "https://tvn24.pl/polska/krzysztof-brejza-pyta-kto-dawal-prezydentowi-srodki-odurzajace-jakub-nadstawny-zglosil-sie-sam-st8664572?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 15:46:30 GMT",
+      "description": "Kamery uchwyciły, jak prezydent Karol Nawrocki w ONZ wykonuje podobny gest do tych, kiedy przyjmował woreczki nikotynowe. Charakterystyczne pudełko podał mu młody współpracownik. Europoseł KO Krzysztof Brejza przekazał, że kieruje do prezydenckiej kancelarii interwencję, aby poznać funkcję tego mężczyzny. Odpowiedział mu sam zainteresowany.",
+      "originalTitle": "Brejza pyta o \"człowieka zapodającego środki odurzające\". Zgłosił się sam",
+      "originalDescription": "Kamery uchwyciły, jak prezydent Karol Nawrocki w ONZ wykonuje podobny gest do tych, kiedy przyjmował woreczki nikotynowe. Charakterystyczne pudełko podał mu młody współpracownik. Europoseł KO Krzysztof Brejza przekazał, że kieruje do prezydenckiej kancelarii interwencję, aby poznać funkcję tego mężczyzny. Odpowiedział mu sam zainteresowany."
+    },
+    {
+      "title": "\"Strażnik ogromnej części światowych danych\" może przejąć TikToka w USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/larry-ellison-moze-przejac-tiktoka-w-usa-st8664667?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 15:45:54 GMT",
+      "description": "Założyciel Oracle - Larry Ellison - może wkrótce przejąć kontrolę nad TikTokiem w USA. To jeden z najbogatszych ludzi na świecie i pionier rozwoju sztucznej inteligencji. Jego majątek w ostatnim czasie znacznie się powiększył dzięki rosnącemu zapotrzebowaniu na przechowywanie danych.",
+      "originalTitle": "\"Strażnik ogromnej części światowych danych\" może przejąć TikToka w USA",
+      "originalDescription": "Założyciel Oracle - Larry Ellison - może wkrótce przejąć kontrolę nad TikTokiem w USA. To jeden z najbogatszych ludzi na świecie i pionier rozwoju sztucznej inteligencji. Jego majątek w ostatnim czasie znacznie się powiększył dzięki rosnącemu zapotrzebowaniu na przechowywanie danych."
+    },
+    {
+      "title": "Samolot leciał tuż nad wieżowcami w Moskwie przez atak  ukraińskich drony? Co wiadomo o filmiku",
       "link": "https://konkret24.tvn24.pl/swiat/samolot-lecial-tuz-nad-wiezowcami-w-moskwie-przez-atak-ukrainskich-drony-co-wiadomo-o-filmiku-st8663921?source=rss",
       "pubDate": "Tue, 23 Sep 2025 15:20:38 GMT",
-      "description": "• Samolot bardzo nisko przelatuje nad budynkami mieszkalnymi.\n• Zdarzenie to ma być wynik zagrożenia ze strony ukraińskich dronów.\n• Ukraińskie drony atakowały Moskwę.\n• Internauci interpretują krążące w sieci nagrania tego zdarzenia w ten sposób.",
+      "description": "Samolot bardzo nisko przelatuje nad budynkami mieszkalnymi, a to jakoby miał być wynik zagrożenia ze strony ukraińskich dronów, które wtedy atakowały Moskwę. Tak część internautów interpretuje krążące w sieci nagrania. Co wiemy o tym zdarzeniu.",
       "originalTitle": "Samolot leciał tuż nad wieżowcami w Moskwie przez atak  ukraińskich drony? Co wiadomo o filmiku",
       "originalDescription": "Samolot bardzo nisko przelatuje nad budynkami mieszkalnymi, a to jakoby miał być wynik zagrożenia ze strony ukraińskich dronów, które wtedy atakowały Moskwę. Tak część internautów interpretuje krążące w sieci nagrania. Co wiemy o tym zdarzeniu."
     },
     {
-      "title": "Problemy techniczne Trumpa na ONZ",
+      "title": "Jak nie schody, to prompter. Problemy techniczne Donalda Trumpa w ONZ",
       "link": "https://tvn24.pl/swiat/jak-nie-schody-to-prompter-problemy-techniczne-donalda-trumpa-w-onz-st8664554?source=rss",
       "pubDate": "Tue, 23 Sep 2025 15:19:21 GMT",
-      "description": "• Na początku wystąpienia Donalda Trumpa na 80. Sesji Zgromadzenia Ogólnego ONZ wystąpiły małe problemy techniczne.\n• Wystąpienie miało miejsce w Nowym Jorku.\n• Prezydent USA, Donald Trump, komentował problemy techniczne w swoim stylu.",
+      "description": "Na początku wystąpienia Donalda Trumpa na 80. Sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku wystąpiły małe problemy techniczne. Prezydent USA komentował to w swoim stylu.",
       "originalTitle": "Jak nie schody, to prompter. Problemy techniczne Donalda Trumpa w ONZ",
       "originalDescription": "Na początku wystąpienia Donalda Trumpa na 80. Sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku wystąpiły małe problemy techniczne. Prezydent USA komentował to w swoim stylu."
     },
     {
-      "title": "Pies maltretowany, właściciel tłumaczy się stresem",
+      "title": "Szarpanie, krzyki, kopnięcie. Pies cierpiał, właściciel tłumaczył się stresem",
       "link": "https://tvn24.pl/wroclaw/swidnica-szarpanie-krzyki-kopniecie-pies-cierpial-wlasciciel-tlumaczyl-sie-stresem-st8664589?source=rss",
       "pubDate": "Tue, 23 Sep 2025 15:18:08 GMT",
       "description": "W Świdnicy (woj. dolnośląskie) mężczyzna szarpał psa za smycz, krzyczał, tupał, a w końcu kopnął zwierzę. Jeden ze świadków nagrał zdarzenie i zawiadomił policję. Sprawca został zatrzymany i usłyszał zarzut znęcania się. Pies trafił do schroniska.",
@@ -34,54 +82,6 @@
       "description": "Litewskie siły zbrojne będą mogły szybciej reagować na naruszenia przestrzeni powietrznej przez drony. Tamtejszy parlament uchwalił we wtorek zmiany w prawie, które są odpowiedzią na rosnącą liczbę incydentów z udziałem bezzałogowych statków powietrznych z Rosji.",
       "originalTitle": "Sąsiad polski zmienia prawo, by bronić się przed dronami",
       "originalDescription": "Litewskie siły zbrojne będą mogły szybciej reagować na naruszenia przestrzeni powietrznej przez drony. Tamtejszy parlament uchwalił we wtorek zmiany w prawie, które są odpowiedzią na rosnącą liczbę incydentów z udziałem bezzałogowych statków powietrznych z Rosji."
-    },
-    {
-      "title": "W środę powołanie nowego szefa stołecznej policji",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nowy-szef-komendy-stolecznej-policji-st8664595?source=rss",
-      "pubDate": "Tue, 23 Sep 2025 15:13:03 GMT",
-      "description": "Nowy komendant stołecznej policji zostanie powołany w środę. Nieoficjalnie wiadomo, że zostanie nim mł. insp. Krzysztof Ogroński. Zastąpi na stanowisku dotychczasowego komendanta insp. Dariusza Walichnowskiego.",
-      "originalTitle": "W środę powołanie nowego szefa stołecznej policji",
-      "originalDescription": "Nowy komendant stołecznej policji zostanie powołany w środę. Nieoficjalnie wiadomo, że zostanie nim mł. insp. Krzysztof Ogroński. Zastąpi na stanowisku dotychczasowego komendanta insp. Dariusza Walichnowskiego."
-    },
-    {
-      "title": "Popularne linie lotnicze wprowadzają zakaz",
-      "link": "https://tvn24.pl/biznes/turystyka/emirates-nowe-zasady-dotyczace-powerbankow-st8664359?source=rss",
-      "pubDate": "Tue, 23 Sep 2025 15:05:03 GMT",
-      "description": "Korzystanie z jakichkolwiek powerbanków na pokładzie samolotów Emirates będzie zabronione od 1 października 2025 roku. Pasażerowie podróżujący tymi liniami nadal będą mogli mieć na pokładzie jeden powerbank, ale trzeba spełnić kilka warunków.",
-      "originalTitle": "Popularne linie lotnicze wprowadzają zakaz",
-      "originalDescription": "Korzystanie z jakichkolwiek powerbanków na pokładzie samolotów Emirates będzie zabronione od 1 października 2025 roku. Pasażerowie podróżujący tymi liniami nadal będą mogli mieć na pokładzie jeden powerbank, ale trzeba spełnić kilka warunków."
-    },
-    {
-      "title": "Kierowca \"się zagapił\", zginęła kobieta. Zapadł wyrok",
-      "link": "https://tvn24.pl/lublin/lublin-wyrok-w-sprawie-kierowcy-ktory-smiertelnie-potracil-kobiete-z-wozkiem-st8664590?source=rss",
-      "pubDate": "Tue, 23 Sep 2025 15:01:29 GMT",
-      "description": "Przechodząca przez przejście dla pieszych kobieta z dziecięcym wózkiem została potrącona. Dwulatkowi nic się nie stało, jednak opiekunka w wyniku odniesionych obrażeń zmarła dziesięć dni później w szpitalu. Kierowca, który w nią uderzył, usłyszał wyrok.",
-      "originalTitle": "Kierowca \"się zagapił\", zginęła kobieta. Zapadł wyrok",
-      "originalDescription": "Przechodząca przez przejście dla pieszych kobieta z dziecięcym wózkiem została potrącona. Dwulatkowi nic się nie stało, jednak opiekunka w wyniku odniesionych obrażeń zmarła dziesięć dni później w szpitalu. Kierowca, który w nią uderzył, usłyszał wyrok."
-    },
-    {
-      "title": "Butelkowa turystyka, bilety na przejazd, loteria z nagrodami. Tak działają systemy kaucyjne",
-      "link": "https://tvn24.pl/biznes/ze-swiata/butelkowa-turystyka-bilety-na-przejazd-loteria-z-nagrodami-tak-dzialaja-systemy-kaucyjne-st8663867?source=rss",
-      "pubDate": "Tue, 23 Sep 2025 14:44:32 GMT",
-      "description": "Przed Polską systemy kaucyjne wprowadziły między innymi Niemcy, Szwecja czy Holandia. Z kolei we Francji model ten działa częściowo - jedynie w niektórych regionach państwa.",
-      "originalTitle": "Butelkowa turystyka, bilety na przejazd, loteria z nagrodami. Tak działają systemy kaucyjne",
-      "originalDescription": "Przed Polską systemy kaucyjne wprowadziły między innymi Niemcy, Szwecja czy Holandia. Z kolei we Francji model ten działa częściowo - jedynie w niektórych regionach państwa."
-    },
-    {
-      "title": "Dua Lipa miała zwolnić swojego agenta. W tle kontrowersyjny zespół i Palestyna",
-      "link": "https://tvn24.pl/kultura-i-styl/dua-lipa-miala-zwolnic-swojego-agenta-za-chec-usuniecia-kneecap-z-festiwalu-glastonbury-st8664340?source=rss",
-      "pubDate": "Tue, 23 Sep 2025 14:41:52 GMT",
-      "description": "Wokalistka Dua Lipa miała zwolnić swojego agenta za to, że ten rzekomo chciał usunięcia zespołu Kneecap z programu słynnego festiwalu Glastonbury. Kneecap budzi kontrowersje z powodu otwarcie wyrażanego poparcia dla Palestyny. Sympatię wobec sprawy palestyńskiej wyrażała wcześniej także Dua Lipa.",
-      "originalTitle": "Dua Lipa miała zwolnić swojego agenta. W tle kontrowersyjny zespół i Palestyna",
-      "originalDescription": "Wokalistka Dua Lipa miała zwolnić swojego agenta za to, że ten rzekomo chciał usunięcia zespołu Kneecap z programu słynnego festiwalu Glastonbury. Kneecap budzi kontrowersje z powodu otwarcie wyrażanego poparcia dla Palestyny. Sympatię wobec sprawy palestyńskiej wyrażała wcześniej także Dua Lipa."
-    },
-    {
-      "title": "Trump o wojnie w Ukrainie: myślałem, że zakończenie jej będzie najłatwiejsze",
-      "link": "https://tvn24.pl/swiat/80-sesja-onz-donald-trump-o-onz-wojnie-w-ukrainie-palestynie-i-innych-tematach-st8664304?source=rss",
-      "pubDate": "Tue, 23 Sep 2025 13:17:59 GMT",
-      "description": "Jeśli Rosja nie będzie gotowa do zawarcia porozumienia kończącego wojnę w Ukrainie, Stany Zjednoczone są w pełni gotowe nałożyć bardzo surowe cła, które, jak sądzę, bardzo szybko powstrzymałyby rozlew krwi - powiedział prezydent USA Donald Trump podczas 80. sesji Zgromadzenia Ogólnego ONZ. Przyznał też, że sądził wcześniej, iż doprowadzenie do końca tej wojny będzie \"najłatwiejsze\". W krytycznych słowach skomentował również działanie samego ONZ.",
-      "originalTitle": "Trump o wojnie w Ukrainie: myślałem, że zakończenie jej będzie najłatwiejsze",
-      "originalDescription": "Jeśli Rosja nie będzie gotowa do zawarcia porozumienia kończącego wojnę w Ukrainie, Stany Zjednoczone są w pełni gotowe nałożyć bardzo surowe cła, które, jak sądzę, bardzo szybko powstrzymałyby rozlew krwi - powiedział prezydent USA Donald Trump podczas 80. sesji Zgromadzenia Ogólnego ONZ. Przyznał też, że sądził wcześniej, iż doprowadzenie do końca tej wojny będzie \"najłatwiejsze\". W krytycznych słowach skomentował również działanie samego ONZ."
     }
   ]
 }
