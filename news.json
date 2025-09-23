@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-09-23T04:37:02.607Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-09-23T05:06:12.817Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nowi członkowie zarządu Orlenu",
+      "link": "https://tvn24.pl/biznes/najnowsze/zmiany-w-zarzadzie-orlenu-jedrzejczyk-i-staszak-nowymi-czlonkami-zarzadu-st8663049?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:56:04 GMT",
+      "description": "• Zmiany w zarządzie Orlenu dotyczą powołania nowych członków.\n• Sławomir Jędrzejczyk został powołany do zarządu Orlenu.\n• Sławomir Staszak również został powołany do zarządu Orlenu.\n• Spółka poinformowała o tych zmianach w komunikacie.\n• Komunikat w sprawie powołań do zarządu Orlenu został wydany w poniedziałek.",
+      "originalTitle": "Transfer w Orlenie. Dwóch nowych członków zarządu",
+      "originalDescription": "Zmiany w zarządzie Orlenu. Sławomir Jędrzejczyk i Sławomir Staszak zostali powołani do zarządu Orlenu - poinformowała spółka w komunikacie w poniedziałek."
+    },
+    {
+      "title": "Ruch promowy kończy działalność po 11 latach",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/po-11-latach-koncza-dzialalnosc-promu-nie-bedzie-ruch-nalezy-do-samorzadow-st8662369?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:52:27 GMT",
+      "description": "Niemal 11 lat działała przeprawa promowa między miejscowościami Gassy i Karczew na Mazowszu. Właściciele, po długich problemach z finansowaniem, postanowili zamknąć działalność. Wcześniej wielokrotnie proponowali przekazanie promu samorządom.",
+      "originalTitle": "Po 11 latach kończą działalność, promu nie będzie. Ruch należy do samorządów",
+      "originalDescription": "Niemal 11 lat działała przeprawa promowa między miejscowościami Gassy i Karczew na Mazowszu. Właściciele, po długich problemach z finansowaniem, postanowili zamknąć działalność. Wcześniej wielokrotnie proponowali przekazanie promu samorządom."
+    },
+    {
+      "title": "Nowe fotoradary zainstalowane",
+      "link": "https://tvn24.pl/polska/glowny-inspektorat-transportu-drogowego-stawia-kolejne-fotoradary-st8662994?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:47:11 GMT",
+      "description": "Nowy odcinkowy pomiar prędkości na A4 na Dolnym Śląsku już pracuje pełną parą. W październiku ruszy kolejny - na obwodnicy Wrocławia. Potem następne - na drogach od Gorzowa po Tarnów. W sumie w ciągu kilku miesięcy przybędą 42 odcinkowe pomiary prędkości. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Dziesiątki nowych fotoradarów. \"To sposób, żeby było mniej wypadków\"",
+      "originalDescription": "Nowy odcinkowy pomiar prędkości na A4 na Dolnym Śląsku już pracuje pełną parą. W październiku ruszy kolejny - na obwodnicy Wrocławia. Potem następne - na drogach od Gorzowa po Tarnów. W sumie w ciągu kilku miesięcy przybędą 42 odcinkowe pomiary prędkości. Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Policja zatrzymała 16-latka, matka wezwana",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-policjanci-zatrzymali-pijanego-nastolatka-wracal-rowerem-z-imprezy-do-domu-st8662769?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:41:15 GMT",
+      "description": "Policjanci stanęli na drodze nastolatka wracającego rowerem z imprezy do domu. Przyczyną był jego styl jazdy. Okazało się, że 16-latek miał w organizmie ponad 1,5 promila alkoholu. Na miejsce wezwano jego matkę.",
+      "originalTitle": "Zatrzymali 16-latka wracającego z urodzin i wezwali jego matkę",
+      "originalDescription": "Policjanci stanęli na drodze nastolatka wracającego rowerem z imprezy do domu. Przyczyną był jego styl jazdy. Okazało się, że 16-latek miał w organizmie ponad 1,5 promila alkoholu. Na miejsce wezwano jego matkę."
+    },
+    {
+      "title": "Rosja zwiększa przygotowania wojskowe",
+      "link": "https://tvn24.pl/swiat/instytut-studiow-nad-wojna-rosja-moze-przygotowywac-sie-do-konfliktu-z-nato-st8662998?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:39:19 GMT",
+      "description": "• Amerykański Instytut Studiów nad Wojną (ISW) podał informacje o działaniach Rosji.\n• Wedle doniesień Rosja buduje rezerwę strategiczną.\n• Rezerwa strategiczna Rosji jest oparta na rekrutach.\n• Zdaniem think tanku ISW, Kreml nie jest zainteresowany zako��czeniem wojny w Ukrainie.\n• Kreml może przygotowywać się do konfliktu z NATO.",
+      "originalTitle": "Rosja \"może przygotowywać się do konfliktu z NATO\"",
+      "originalDescription": "Amerykański Instytut Studiów nad Wojną (ISW) podał, że wedle doniesień Rosja buduje rezerwę strategiczną, opartą na rekrutach. Zdaniem think tanku wynika z tego, że Kreml nie jest zainteresowany zakończeniem wojny w Ukrainie i może przygotowywać się do konfliktu z NATO."
+    },
+    {
+      "title": "Izrael: ostrzega przed dopłynięciem do Gazy",
+      "link": "https://tvn24.pl/swiat/izrael-zapowiada-blokade-flotylli-z-greta-thunberg-ktora-plynie-do-strefy-gazy-st8662948?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:27:25 GMT",
+      "description": "• Flotylla aktywistów płynie do Strefy Gazy, wioząc pomoc humanitarną.\n• Inicjatywa napotkała sprzeciw Izraela.\n• Nie pozwolimy, by flotylla przełamała blokadę morską – oświadczyło MSZ Izraela.\n• Na pokładzie jednej z łodzi znajduje się między innymi Greta Thunberg.\n• Flotylla składa się z 20 łodzi.",
+      "originalTitle": "Izrael: nie pozwolimy flotylli dopłynąć do Strefy Gazy. Stawiają ultimatum",
+      "originalDescription": "Flotylla aktywistów płynie do Strefy Gazy, wioząc pomoc humanitarną. Inicjatywa napotkała sprzeciw Izraela. Nie pozwolimy, by flotylla przełamała blokadę morską – oświadczyło MSZ tego kraju. Na pokładzie jednej z 20 łodzi jest między innymi Greta Thunberg."
+    },
+    {
+      "title": "Młodzi ludzie w sytuacji Julii Wieniawy",
+      "link": "https://tvn24.pl/polska/wykluczenie-komunikacyjne-uczniow-a-prawo-jazdy-dla-17-latkow-st8657801?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:17:39 GMT",
+      "description": "• Długie, uciążliwe i codzienne podróże do szkoły są powszechnym doświadczeniem wielu nastolatków w Polsce.\n• Wykluczenie komunikacyjne poważnie ogranicza ich wybory.\n• Wykluczenie komunikacyjne ogranicza wybory nie tylko te szkolne, ale również towarzyskie.\n• Prawo jazdy dla 17-latków jest rozważane jako potencjalne rozwiązanie problemu.",
+      "originalTitle": "Tysiące nastolatków jak Julia Wieniawa. Ale nie wszyscy z wyboru i równie uśmiechnięci",
+      "originalDescription": "Długie, uciążliwe i codzienne podróże do szkoły są powszechnym doświadczeniem wielu nastolatków w Polsce. Wykluczenie komunikacyjne poważnie jednak ogranicza ich wybory - nie tylko te szkolne, ale również towarzyskie. Czy prawo jazdy dla 17-latków to adekwatne rozwiązanie problemu?"
+    },
+    {
+      "title": "Łotwa wzmocni wschodnią flankę",
+      "link": "https://tvn24.pl/swiat/lotwa-ma-sposob-na-wzmocnienie-wschodniej-flanki-naturalna-bariera-st8663023?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 04:14:29 GMT",
+      "description": "• Siły Zbrojne Łotwy chcą odbudować miejsca wydobycia torfu na wschodniej granicy kraju.\n• Torfowiska i mokradła są naturalną barierą graniczną.\n• Odbudowa torfowisk i mokradeł zwiększy bezpieczeństwo państwa.",
+      "originalTitle": "Łotwa ma sposób na wzmocnienie wschodniej flanki. \"Naturalna bariera\"",
+      "originalDescription": "Siły Zbrojne Łotwy chcą odbudować miejsca wydobycia torfu na wschodniej granicy kraju. Zdaniem wojska torfowiska i mokradła są naturalną barierą graniczną, a ich odbudowa zwiększy bezpieczeństwo państwa."
+    },
+    {
+      "title": "Status państwa Palestyny",
+      "link": "https://tvn24.pl/swiat/onz-guterres-rozwiazanie-dwupanstwowe-jedyna-droga-do-pokoju-na-bliskim-wschodzie-st8663010?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 03:57:23 GMT",
+      "description": "Rozwiązanie dwupaństwowe, zakładające utworzenie obok Izraela niepodległej Palestyny, jest jedyną drogą do rozwiązania konfliktu między tymi narodami – oświadczył sekretarz generalny ONZ Antonio Guterres.",
+      "originalTitle": "\"Państwowość Palestyny nie jest nagrodą, ale prawem\"",
+      "originalDescription": "Rozwiązanie dwupaństwowe, zakładające utworzenie obok Izraela niepodległej Palestyny, jest jedyną drogą do rozwiązania konfliktu między tymi narodami – oświadczył sekretarz generalny ONZ Antonio Guterres."
+    },
+    {
+      "title": "Spotkanie prezydenta z sekretarzem ONZ",
+      "link": "https://tvn24.pl/polska/usa-prezydent-karol-nawrocki-spotkal-sie-z-sekretarzem-generalnym-onz-antonio-guterresem-st8663007?source=rss",
+      "pubDate": "Tue, 23 Sep 2025 03:43:32 GMT",
+      "description": "W Nowym Jorku doszło do spotkania prezydenta Karola Nawrockiego z sekretarzem generalnym ONZ Antonio Guterresem. Wcześniej polski prezydent spotkał się z prezydentami Litwy, Estonii i Łotwy.",
+      "originalTitle": "Prezydent Nawrocki spotkał się z sekretarzem generalnym ONZ",
+      "originalDescription": "W Nowym Jorku doszło do spotkania prezydenta Karola Nawrockiego z sekretarzem generalnym ONZ Antonio Guterresem. Wcześniej polski prezydent spotkał się z prezydentami Litwy, Estonii i Łotwy."
+    }
+  ]
 }
