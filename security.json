@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-09-25T14:37:59.825Z",
+  "lastUpdate": "2025-09-25T15:05:58.712Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "USA: Rosyjskie bombowce przechwycone nad Alaską",
+      "link": "https://defence24.pl/polityka-obronna/usa-rosyjskie-bombowce-przechwycone-nad-alaska",
+      "pubDate": "Thu, 25 Sep 2025 16:42:26 +0200",
+      "description": "NORAD (North American Aerospace Defense Command, czyli Dowództwo Obrony Północnoamerykańskiej Przestrzeni Powietrznej i Kosmicznej) poinformowało o odnotowaniu przelotu przez strefę identyfikacji obrony powietrznej Alaski (Alaskan Air Defense Identification Zone) dwóch bombowców strategicznych oraz dwóch myśliwców należących do Federacji Rosyjskiej."
+    },
     {
       "title": "Między Bugiem a prawdą: lekcja i kierunkowskaz dla polityki wschodniej",
       "link": "https://defence24.pl/geopolityka/miedzy-bugiem-a-prawda-lekcja-i-kierunkowskaz-dla-polityki-wschodniej",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/przebuduja-stare-t-72-na-bojowe-wozy-wsparcia",
       "pubDate": "Thu, 25 Sep 2025 10:31:08 +0200",
       "description": "W zasobach Federacji Rosyjskiej, oprócz czołgów T-72B, znajdują się także [starsze T-72 Ural, T-72 Ural-1, T-72A i T-72AW](https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosja-ruszaja-remonty-starych-t-72). Maszyny te mogą zostać wyremontowane i zmodernizowane przed przywróceniem do aktywnej służby, ale istnieje także alternatywne rozwiązanie wykorzystania przynajmniej części tych maszyn."
-    },
-    {
-      "title": "Laserowy system zakończył testy. Rozwiązanie na drony?",
-      "link": "https://defence24.pl/przemysl/laserowy-system-zakonczyl-testy-rozwiazanie-na-drony",
-      "pubDate": "Thu, 25 Sep 2025 10:00:02 +0200",
-      "description": "W komunikacie firmy czytamy, że wspomniany system zakończył pomyślnie kilkutygodniowe testy, za które odpowiadała spółka Rafael Advanced Defense Systems, jednostka badawczo-rozwojowa Dyrekcji Badań i Rozwoju (DDR&D) Ministerstwa Obrony Izraela oraz siły powietrzne tego kraju. Badania odbywały się na terenie ośrodka badawczego w południowej części kraju i zostały zakończone demonstracją zdolności Iron Beam 450 do rażenia kilku typów celów."
     }
   ]
 }
