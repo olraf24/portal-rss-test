@@ -1,8 +1,32 @@
 {
-  "lastUpdate": "2025-09-27T14:05:29.199Z",
+  "lastUpdate": "2025-09-27T14:34:35.209Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Maraton Warszawski w niedzielę",
+      "link": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-w-niedziele-startuje-maraton-warszawski-trasa-biegu-zamkniete-ulice-st8671337?source=rss",
+      "pubDate": "Sat, 27 Sep 2025 14:28:23 GMT",
+      "description": "• W niedzielę ulice stolicy opanują biegacze.\n• O godzinie 9 wystartuje 47. edycja Nationale-Nederlanden Maratonu Warszawskiego.\n• Utrudnienia w ruchu wystąpią na terenie siedmiu dzielnic.\n• Dzielnicami, na których wystąpią utrudnienia, są: Śródmieście, Praga-Południe, Praga-Północ, Wola, Bemowo, Bielany i Żoliborz.",
+      "originalTitle": "W niedzielę Maraton Warszawski. Trasa biegu, zamknięte ulice",
+      "originalDescription": "W niedzielę ulice stolicy opanują biegacze. O godzinie 9 wystartuje 47. edycja Nationale-Nederlanden Maratonu Warszawskiego. Utrudnienia w ruchu wystąpią na terenie siedmiu dzielnic: Śródmieścia, Pragi-Południe, Pragi-Północ, Woli, Bemowa, Bielan i Żoliborza."
+    },
+    {
+      "title": "Policja szuka sprawców zniszczenia samochodów",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-wandale-zniszczyli-kilkanascie-samochodow-szuka-ich-policja-st8671643?source=rss",
+      "pubDate": "Sat, 27 Sep 2025 14:20:24 GMT",
+      "description": "• W nocy z piątku na sobotę doszło do zdarzenia.\n• Nieznani sprawcy uszkodzili kilkanaście samochodów.\n• Samochody były zaparkowane na parkingu.\n• Parking znajduje się na osiedlu Stegny.\n• Osiedle Stegny położone jest w Warszawie.\n• Straty są szacowane.\n• Policja szuka wandali.",
+      "originalTitle": "Wandale zniszczyli kilkanaście samochodów, szuka ich policja",
+      "originalDescription": "W nocy z piątku na sobotę nieznani sprawcy uszkodzili kilkanaście samochodów zaparkowanych na parkingu na osiedlu Stegny w Warszawie. Straty są szacowane. Wandali szuka policja."
+    },
+    {
+      "title": "Zełenski podaje liczbę dronów skierowanych ku Polsce",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-w-nocy-z-9-na-10-wrzesnia-na-polske-lecialy-92-drony-st8671622?source=rss",
+      "pubDate": "Sat, 27 Sep 2025 14:20:02 GMT",
+      "description": "• W nocy z 9 na 10 września na Polskę leciały 92 drony.\n• Większość z nich została zestrzelona przez Ukrainę.\n• 19 dronów dotarło za granicę.\n• Prezydent Ukrainy Wołodymyr Zełenski poinformował o tych wydarzeniach.\n• Ukraińscy urzędnicy w najbliższym czasie odwiedzą Stany Zjednoczone.\n• Dyskusje w Stanach Zjednoczonych mają dotyczyć gospodarki i uzbrojenia.\n• Rozpoczęły się \"wstępne rozmowy\" na temat dwustronnej umowy o wolnym handlu między Ukrainą a Stanami Zjednoczonymi.",
+      "originalTitle": "Zełenski podał liczbę dronów, które zmierzały w kierunku Polski",
+      "originalDescription": "W nocy z 9 na 10 września na Polskę leciały 92 drony. Większość z nich została zestrzelona przez Ukrainę, jednak 19 dotarło za granicę - poinformował prezydent Ukrainy Wołodymyr Zełenski. Przekazał też, że ukraińscy urzędnicy w najbliższym czasie odwiedzą Stany Zjednoczone, a dyskusje mają dotyczyć gospodarki i uzbrojenia. Poinformował też, że rozpoczęły się \"wstępne rozmowy\" na temat dwustronnej umowy o wolnym handlu między oboma krajami."
+    },
     {
       "title": "25 ofiar śmiertelnych po zatruciu alkoholem metylowym w Rosji",
       "link": "https://tvn24.pl/swiat/rosja-25-osob-zmarlo-w-wyniku-zatrucia-alkoholem-metylowym-w-obwodzie-leningradzkim-st8671628?source=rss",
@@ -23,7 +47,7 @@
       "title": "Wypadek autobusu i tramwaju, jedna osoba ranna",
       "link": "https://tvn24.pl/lodz/lodz-zderzenie-autobusu-z-tramwajem-pasazerka-trafila-do-szpitala-st8671616?source=rss",
       "pubDate": "Sat, 27 Sep 2025 13:32:42 GMT",
-      "description": "• Jedna z pasażerek trafiła do szpitala po wypadku.\n• Wypadek nastąpił po zderzeniu autobusu z tramwajem.\n• Miejsce wypadku to Łódź.\n• Po wypadku występują utrudnienia w komunikacji miejskiej.\n• Występują opóźnienia w komunikacji miejskiej.",
+      "description": "• Jedna z pasażerek trafiła do szpitala po wypadku.\n• Autobus zderzył się z tramwajem.\n• Wypadek miał miejsce w Łodzi.\n• Po wypadku są utrudnienia w komunikacji miejskiej.\n• Po wypadku są opóźnienia w komunikacji miejskiej.",
       "originalTitle": "Zderzenie autobusu z tramwajem. Pasażerka trafiła do szpitala",
       "originalDescription": "Jedna z pasażerek trafiła do szpitala po tym, jak autobus zderzył się z tramwajem w Łodzi. Po wypadku są utrudnienia i opóźnienia w komunikacji miejskiej."
     },
@@ -31,12 +55,12 @@
       "title": "Odpowiedź na zawiadomienie Święczkowskiego dotyczące sądów",
       "link": "https://tvn24.pl/polska/reakcja-sadu-na-zawiadomienie-bogdana-swieczkowskiego-swieczkowskiego-proba-wplywania-na-niezawisle-sady-st8671590?source=rss",
       "pubDate": "Sat, 27 Sep 2025 13:30:28 GMT",
-      "description": "• Prezes Trybunału Konstytucyjnego to Bogdan Święczkowski.\n• Bogdan Święczkowski nie jest władny wypowiadać się o zasadności lub bezzasadności orzeczenia niezawisłego sądu.\n• Rzeczniczka prasowa do spraw karnych Sądu Okręgowego w Warszawie to sędzia Anna Ptaszek.\n• Sędzia Anna Ptaszek stwierdziła, że Prezes Trybunału Konstytucyjnego nie jest władny wypowiadać się o zasadności lub bezzasadności orzeczenia niezawisłego sądu.\n• Stwierdzenie sędzi Anny Ptaszek zostało podane w sobotę.",
+      "description": "• Prezes Trybunału Konstytucyjnego to Bogdan Święczkowski.\n• Bogdan Święczkowski nie jest władny wypowiadać się o zasadności lub bezzasadności orzeczenia niezawisłego sądu.\n• Rzeczniczka prasowa do spraw karnych Sądu Okręgowego w Warszawie to sędzia Anna Ptaszek.\n• Sędzia Anna Ptaszek stwierdziła, że Prezes Trybunału Konstytucyjnego nie jest władny wypowiadać się o zasadności lub bezzasadności orzeczenia niezawisłego sądu.\n• Stwierdzenie sędzi Anny Ptaszek miało miejsce w sobotę.",
       "originalTitle": "Reakcja na zawiadomienie Święczkowskiego. \"Próba wpływania na orzecznictwo niezawisłych sądów\"",
       "originalDescription": "Prezes Trybunału Konstytucyjnego Bogdan Święczkowski nie jest władny wypowiadać się o zasadności lub bezzasadności orzeczenia niezawisłego sądu - stwierdziła w sobotę rzeczniczka prasowa do spraw karnych Sądu Okręgowego w Warszawie sędzia Anna Ptaszek."
     },
     {
-      "title": "Zamknięcie stacji pogotowia po rozlaniu substancji",
+      "title": "Zamknięcie stacji pogotowia po wycieku substancji",
       "link": "https://tvn24.pl/wroclaw/wroclaw-zamknieto-podstacje-pogotowia-po-rozlaniu-nieznanej-substancji-st8671588?source=rss",
       "pubDate": "Sat, 27 Sep 2025 13:03:42 GMT",
       "description": "• Podstacja Pogotowia Ratunkowego znajduje się we Wrocławiu przy Jantarowej 20.\n• Podstacja została czasowo wyłączona.\n• Powodem wyłączenia było rozlanie nieznanej substancji.\n• Na miejscu pracowali strażacy z grupy chemicznej.",
@@ -58,30 +82,6 @@
       "description": "• Przed nami drastyczne ochłodzenie.\n• Temperatura maksymalna będzie oscylować miejscami wokół 10 stopni Celsjusza.\n• Popada deszcz.\n• W górach pada śnieg.",
       "originalTitle": "Pogoda na 5 dni. Miejscami będzie maksymalnie tylko 10 stopni",
       "originalDescription": "Przed nami drastyczne ochłodzenie. Po weekendzie temperatura maksymalna będzie oscylować miejscami wokół 10 stopni Celsjusza. Poza tym popada deszcz, a w górach śnieg."
-    },
-    {
-      "title": "Wypadek ciężarówki, dwie ofiary śmiertelne",
-      "link": "https://tvn24.pl/wroclaw/olesnica-karambol-na-drodze-s8-ofiary-smiertelne-i-ranni-st8671171?source=rss",
-      "pubDate": "Sat, 27 Sep 2025 10:01:07 GMT",
-      "description": "• Dwie osoby zginęły \n• Cztery osoby zostały ranne \n• Wypadek miał miejsce na trasie S8 \n• Zdarzenie miało miejsce w okolicy zjazdu Oleśnica Zachód \n• Oleśnica Zachód znajduje się na Dolnym Śląsku \n• Droga jest zablokowana",
-      "originalTitle": "Kierowca ciężarówki \"prawdopodobnie zasnął\", dwie osoby nie żyją",
-      "originalDescription": "Dwie osoby zginęły, a cztery zostały ranne po zderzeniu na trasie S8 w okolicy zjazdu Oleśnica Zachód (Dolny Śląsk). Droga jest zablokowana."
-    },
-    {
-      "title": "Ceny mieszkań w miastach",
-      "link": "https://tvn24.pl/biznes/nieruchomosci/ceny-mieszkan-w-tych-miastach-jest-najdrozej-st8671068?source=rss",
-      "pubDate": "Sat, 27 Sep 2025 12:07:38 GMT",
-      "description": "• W sierpniu Gdańsk okazał się najdroższym miastem pod względem wysokości mediany cen mieszkań.\n• Za metr kwadratowy trzeba było zapłacić średnio 17,6 tysiąca złotych.\n• Dane pochodzą z portalu Rynekpierwotny.pl.",
-      "originalTitle": "Ceny mieszkań. W tych miastach jest najdrożej",
-      "originalDescription": "W sierpniu Gdańsk okazał się najdroższym miastem pod względem wysokości mediany cen mieszkań - za metr kwadratowy trzeba było zapłacić średnio 17,6 tysiąca złotych - wynika z danych portalu Rynekpierwotny.pl."
-    },
-    {
-      "title": "Incydent podczas spożywania alkoholu",
-      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-mezczyzna-raniony-ostrym-narzedziem-policja-zatrzymala-jedna-osobe-st8671428?source=rss",
-      "pubDate": "Sat, 27 Sep 2025 12:06:37 GMT",
-      "description": "• W sobotę wieczorem na warszawskiej Białołęce miało miejsce zdarzenie.\n• Zdarzenie miało miejsce podczas libacji alkoholowej.\n• 52-letni mężczyzna został kilkukrotnie raniony ostrym narzędziem.\n• Mężczyzna trafił do szpitala.\n• Po kilkunastu godzinach policjanci zatrzymali podejrzanego o atak.\n• Podejrzanym o atak jest 38-letni mężczyzna.",
-      "originalTitle": "\"Usiłowanie zabójstwa podczas libacji alkoholowej\"",
-      "originalDescription": "W sobotę wieczorem na warszawskiej Białołęce podczas libacji alkoholowej 52-letni mężczyzna został kilkukrotnie raniony ostrym narzędziem. Trafił do szpitala. Po kilkunastu godzinach policjanci zatrzymali podejrzanego o atak 38-latka."
     }
   ]
 }
