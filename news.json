@@ -1,14 +1,30 @@
 {
-  "lastUpdate": "2025-09-29T21:05:57.517Z",
+  "lastUpdate": "2025-09-29T21:34:27.749Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Alert RCB dla powiatu",
+      "link": "https://tvn24.pl/polska/woda-niezdatna-do-picia-w-powiecie-lubinskim-w-wojewodztwie-dolnoslaskim-alert-rcb-st8674577?source=rss",
+      "pubDate": "Mon, 29 Sep 2025 21:11:01 GMT",
+      "description": "• W wodociągu sieciowym w powiecie lubińskim znajduje się woda niezdatna do spożycia.\n• Ostrzegło w poniedziałek wieczorem Rządowe Centrum Bezpieczeństwa.",
+      "originalTitle": "Woda niezdatna do picia. Alert RCB dla jednego powiatu",
+      "originalDescription": "W wodociągu sieciowym w powiecie lubińskim znajduje się woda niezdatna do spożycia - ostrzegło w poniedziałek wieczorem Rządowe Centrum Bezpieczeństwa."
+    },
+    {
+      "title": "Wynik wyborów w Polsce 2050 z niewielką przewagą",
+      "link": "https://tvn24.pl/polska/starcie-w-polsce-2050-nieoficjalnie-zdecydowaly-dwa-glosy-st8674579?source=rss",
+      "pubDate": "Mon, 29 Sep 2025 21:06:36 GMT",
+      "description": "• Na poniedziałkowym posiedzeniu klub Polski 2050 ustalił, że będzie rekomendował Katarzynę Pełczyńską-Nałęcz na wicepremiera.\n• Dowiedziała się o tym reporterka TVN24 Maja Wójcikowska.\n• Wcześniej była pewna, że Katarzyna Pełczyńska-Nałęcz zostanie rekomendowana na wicepremiera.\n• Ostatecznie decyzja ta miała zapaść zaledwie dwoma głosami.",
+      "originalTitle": "Starcie w Polsce 2050. Nieoficjalnie: zdecydowały dwa głosy",
+      "originalDescription": "Na poniedziałkowym posiedzeniu klub Polski 2050 ustalił, że będzie rekomendował Katarzynę Pełczyńską-Nałęcz na wicepremiera - dowiedziała się reporterka TVN24 Maja Wójcikowska. Choć wcześniej była tego pewna, ostatecznie miały o tym zdecydować zaledwie dwa głosy."
+    },
     {
       "title": "Naukowcy w Gdańsku badają szczepionki przeciwnowotworowe",
       "link": "https://tvn24.pl/fakty-artykuly/uniwersytet-gdanski-opracowuje-nowoczesne-leki-na-raka-chodzi-o-szczepionki-przeciwnowotworowe-st8674568?source=rss",
       "pubDate": "Mon, 29 Sep 2025 20:55:31 GMT",
       "description": "• To miejsce, w którym powstają leki przyszłości.\n• Mieści się w Międzynarodowym Centrum Badań nad Szczepionkami Przeciwnowotworowymi.\n• Centrum znajduje się w Gdańsku.\n• W centrum pracuje kilkunastu naukowców.\n• Naukowcy pochodzą z całego świata.\n• Jednym z obszarów badań jest celowany lek na raka płuc.\n• Na horyzoncie są badania kliniczne.",
-      "originalTitle": "Międzynarodowy zespół naukowców w Gdańsku opracowuje szczepionki przeciwnowotworowe",
+      "originalTitle": "Międzynarodowy zespół naukowców opracowuje w Gdańsku szczepionki przeciwnowotworowe",
       "originalDescription": "To miejsce, w którym powstają leki przyszłości - Międzynarodowe Centrum Badań nad Szczepionkami Przeciwnowotworowymi w Gdańsku. Kilkunastu naukowców z całego świata pracuje między innymi nad celowanym lekiem na raka płuc. Na horyzoncie są badania kliniczne."
     },
     {
@@ -39,7 +55,7 @@
       "title": "Przydacz spotkał się z przedstawicielem administracji Trumpa",
       "link": "https://tvn24.pl/polska/marcin-przydacz-rozmawial-z-wyslannikiem-usa-keithem-kellogiem-o-sytuacji-w-regionie-st8674556?source=rss",
       "pubDate": "Mon, 29 Sep 2025 20:06:35 GMT",
-      "description": "Prezydencki minister Marcin Przydacz spotkał się w piątek ze specjalnym wysłannikiem prezydenta USA do spraw Ukrainy generałem Keithem Kellogiem. Ich rozmowa dotyczyła między innymi relacji polsko-amerykańskich.",
+      "description": "• Prezydencki minister Marcin Przydacz spotkał się w piątek ze specjalnym wysłannikiem prezydenta USA do spraw Ukrainy.\n• Specjalnym wysłannikiem prezydenta USA do spraw Ukrainy jest generał Keith Kellogg.\n• Ich rozmowa dotyczyła między innymi relacji polsko-amerykańskich.",
       "originalTitle": "Przydacz rozmawiał z wysłannikiem Trumpa. O \"sytuacji w regionie\"",
       "originalDescription": "Prezydencki minister Marcin Przydacz spotkał się w piątek ze specjalnym wysłannikiem prezydenta USA do spraw Ukrainy generałem Keithem Kellogiem. Ich rozmowa dotyczyła między innymi relacji polsko-amerykańskich."
     },
@@ -60,28 +76,12 @@
       "originalDescription": "Chiński inwestor nazywany \"kryptowalutowym baronem\" przejął dwa największe centra danych w Norwegii - podał magazyn ekonomiczny E24. Zaznaczył przy tym, że kopalnie kryptowalut zużywają olbrzymie ilości prądu i z tego powodu w regionie Finnmark zaczyna go brakować. Rząd nie wyklucza zakazania tej działalności."
     },
     {
-      "title": "Brejza składa wniosek ws Ziobry",
+      "title": "Brejza składa wniosek w sprawie Ziobry",
       "link": "https://tvn24.pl/polska/krzysztof-brejza-chce-konfrontacji-ze-zbigniewem-ziobra-zlozyl-wniosek-st8674472?source=rss",
       "pubDate": "Mon, 29 Sep 2025 19:11:30 GMT",
-      "description": "• Wnoszę do komisji śledczej o konfrontację ze Zbigniewem Ziobro, by patrząc mu w oczy zmiażdżyć wszystkie kłamstwa, manipulacje i oszczerstwa, do których się dziś posunął.\n• Napisał to europoseł Krzysztof Brejza.\n• Krzysztof Brejza miał być jedną z osób inwigilowanych Pegasusem w przeszłości.",
+      "description": "• Wnoszę do komisji śledczej o konfrontację ze Zbigniewem Ziobro, by patrząc mu w oczy zmiażdżyć wszystkie kłamstwa, manipulacje i oszczerstwa, do których się dziś posunął.\n• Oświadczenie złożył europoseł Krzysztof Brejza.\n• Krzysztof Brejza miał być w przeszłości jedną z osób inwigilowanych Pegasusem.",
       "originalTitle": "Brejza chce \"konfrontacji\" z Ziobrą. Złożył wniosek",
       "originalDescription": "\"Wnoszę do komisji śledczej o konfrontację ze Zbigniewem Ziobro, by patrząc mu w oczy zmiażdżyć wszystkie kłamstwa, manipulacje i oszczerstwa, do których się dziś posunął\" - napisał europoseł Krzysztof Brejza. W przeszłości miał być jedną z osób inwigilowanych Pegasusem."
-    },
-    {
-      "title": "Przesłuchanie Ziobry: wyniki",
-      "link": "https://tvn24.pl/polska/czego-dowiedzielismy-sie-z-przesluchania-ziobry-padly-wazne-slowa-st8674418?source=rss",
-      "pubDate": "Mon, 29 Sep 2025 19:06:04 GMT",
-      "description": "- Miałem takie nieodparte wrażenie, że do Zbigniewa Ziobry dotarło, że ta sprawa może mieć bardzo daleko idące konsekwencje dla niego - ocenił senator Koalicji Obywatelskiej Krzysztof Kwiatkowski w \"Kropce nad i\" w TVN24. Tak komentował przebieg przesłuchania Zbigniewa Ziobry przed sejmową komisją do spraw Pegasusa. Z kolei poseł PiS Michał Wójcik odniósł się do pewnej \"rozmowy na schodach\".",
-      "originalTitle": "Czego dowiedzieliśmy się z przesłuchania Ziobry? \"Padły ważne słowa\"",
-      "originalDescription": "- Miałem takie nieodparte wrażenie, że do Zbigniewa Ziobry dotarło, że ta sprawa może mieć bardzo daleko idące konsekwencje dla niego - ocenił senator Koalicji Obywatelskiej Krzysztof Kwiatkowski w \"Kropce nad i\" w TVN24. Tak komentował przebieg przesłuchania Zbigniewa Ziobry przed sejmową komisją do spraw Pegasusa. Z kolei poseł PiS Michał Wójcik odniósł się do pewnej \"rozmowy na schodach\"."
-    },
-    {
-      "title": "Imelda zwiększa siłę",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-burza-tropikalna-imelda-rosnie-w-sile-ma-stac-sie-huraganem-st8674396?source=rss",
-      "pubDate": "Mon, 29 Sep 2025 19:02:24 GMT",
-      "description": "Burza tropikalna Imelda zbliżyła się do Stanów Zjednoczonych. Żywioł niebawem może stać się huraganem. Południowo-wschodnie stany przygotowują się na niesprzyjającą pogodę.",
-      "originalTitle": "Imelda rośnie w siłę. Ma stać się huraganem",
-      "originalDescription": "Burza tropikalna Imelda zbliżyła się do Stanów Zjednoczonych. Żywioł niebawem może stać się huraganem. Południowo-wschodnie stany przygotowują się na niesprzyjającą pogodę."
     }
   ]
 }
