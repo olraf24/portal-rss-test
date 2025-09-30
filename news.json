@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-09-30T11:34:12.847Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-09-30T12:09:50.136Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Policja identyfikuje uczestników incydentu drogowego",
+      "link": "https://tvn24.pl/szczecin/szczecin-bojka-kierowcow-na-srodku-drogi-dzieki-nagraniu-policja-znalazla-mezczyzn-st8673058?source=rss",
+      "pubDate": "Mon, 29 Sep 2025 09:09:13 GMT",
+      "description": "• Policjanci ustalili tożsamość dwóch mężczyzn, którzy pobili się na środku drogi w Szczecinie.\n• Zdarzenie zarejestrowała kamera w samochodzie innego kierowcy.\n• Film z zdarzenia trafił do sieci.\n• Mężczyźni pogodzili się w komisariacie.\n• Mę��czyźni nie uniknęli kary.",
+      "originalTitle": "Bójka kierowców na środku drogi. Dzięki nagraniu policja znalazła mężczyzn",
+      "originalDescription": "Policjanci ustalili tożsamość dwóch mężczyzn, którzy pobili się na środku drogi w Szczecinie. Zdarzenie zarejestrowała kamera w samochodzie innego kierowcy, a film trafił do sieci. Mężczyźni pogodzili się w komisariacie, ale kar nie uniknęli."
+    },
+    {
+      "title": "Dwa zabójstwa w związku z długiem",
+      "link": "https://tvn24.pl/lodz/lodz-podwojne-zabojstwo-i-pozar-dla-zatarcia-sladow-st8672325?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 12:00:00 GMT",
+      "description": "• Dożywocie grozi 35-latkowi podejrzanemu o zabicie dwóch kobiet na łódzkim Teofilowie.\n• Mężczyzna początkowo nie przyznawał się do winy.\n• Mężczyzna sam poprosił o nocne spotkanie z prokuratorem.\n• Podczas spotkania z prokuratorem mężczyzna opowiedział, że najpierw zabił nożem 63-latkę.\n• Następnie mężczyzna udusił mieszkającą obok 88-letnią sąsiadkę.\n• Mężczyzna wywołał pożar, żeby zatrzeć ślady.",
+      "originalTitle": "Pierwsze zabójstwo z powodu długu, drugie żeby nie było świadków",
+      "originalDescription": "Dożywocie grozi 35-latkowi podejrzanemu o zabicie dwóch kobiet na łódzkim Teofilowie. Mężczyzna, który początkowo nie przyznawał się do winy sam poprosił o nocne spotkanie z prokuratorem, któremu opowiedział, że najpierw zabił nożem 63-latkę, a potem udusił mieszkającą obok 88-letnią sąsiadkę i wywołał pożar, żeby zatrzeć ślady."
+    },
+    {
+      "title": "Szef NATO krytykuje koszty zestrzeliwania dronów",
+      "link": "https://tvn24.pl/swiat/szef-nato-nie-mozemy-wydawac-milionow-euro-na-zestrzeliwanie-tanich-dronow-st8675341?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 11:50:46 GMT",
+      "description": "• Sekretarz generalny NATO to Mark Rutte.\n• Sojusz nie może wydawać milionów euro lub dolarów na pociski.\n• Pociski mają zestrzeliwać drony.\n• Drony kosztują kilka tysięcy dolarów.\n• Bezpieczeństwo ma zapewnić inne rozwiązanie.",
+      "originalTitle": "Szef NATO: nie możemy wydawać milionów euro na zestrzeliwanie tanich dronów",
+      "originalDescription": "Sekretarz generalny NATO Mark Rutte podkreślił, że Sojusz nie może wydawać milionów euro lub dolarów na pociski, aby zestrzeliwać drony, które kosztują kilka tysięcy dolarów. Bezpieczeństwo ma zapewnić inne rozwiązanie."
+    },
+    {
+      "title": "Sikorski komentuje sytuację w Strefie Gazy",
+      "link": "https://tvn24.pl/swiat/radoslaw-sikorski-o-sytuacji-w-strefie-gazy-nie-wypelnia-mojego-zrozumienia-slowa-ludobojstwo-st8675135?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 11:47:43 GMT",
+      "description": "• To, co się dzieje w Strefie Gazy, jest straszliwą tragedią.\n• Radosław Sikorski jest szefem dyplomacji.\n• Radosław Sikorski wypowiedział się na temat sytuacji w Strefie Gazy.\n• Według Radosława Sikorskiego, sytuacja w Strefie Gazy nie wypełnia jego zrozumienia słowa ludobójstwo.\n• Radosław Sikorski podkreślił, że \"słowa trzeba ważyć\".",
+      "originalTitle": "Sikorski o sytuacji w Strefie Gazy: nie wypełnia mojego zrozumienia słowa ludobójstwo",
+      "originalDescription": "To, co tam się dzieje, jest straszliwą tragedią, ale nie wypełnia mojego zrozumienia słowa ludobójstwo - powiedział szef dyplomacji Radosław Sikorski na temat sytuacji w Strefie Gazy. Zaznaczył, że \"słowa trzeba ważyć\"."
+    },
+    {
+      "title": "Cechy narcyzmu",
+      "link": "https://tvn24.pl/zdrowie/dla-narcyza-partner-to-trofeum-potwierdzajace-jego-wartosc-czy-da-sie-i-jak-zyc-z-narcyzem-st8674580?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 11:45:58 GMT",
+      "description": "• Narcyzm to złożone zaburzenie osobowości o dwóch głównych obliczach.\n• Częściej bywa przypisywany mężczyznom, ale w rzeczywistości nie ma dużej różnicy między płciami.\n• W rozmowie z psycholożką Natalią Ziopają wyjaśniamy, czym różni się narcyzm wielkościowy od wrażliwego.\n• Można omówić, co może przyczynić się do rozwoju tego zaburzenia.\n• Można wyjaśnić, jak nie pomylić narcyza z wysoko wrażliwą osobą.",
+      "originalTitle": "\"Wysoka samoocena, a w środku kruche ego\". Paradoks narcyzmu",
+      "originalDescription": "Narcyzm to więcej niż powierzchowne ego i pragnienie uwagi. To złożone zaburzenie osobowości o dwóch głównych obliczach. Częściej bywa przypisywany mężczyznom, ale w rzeczywistości nie ma dużej różnicy między płciami. W rozmowie z psycholożką Natalią Ziopają wyjaśniamy, czym różni się narcyzm wielkościowy od wrażliwego, co może przyczynić się do rozwoju tego zaburzenia i jak nie pomylić narcyza z wysoko wrażliwą osobą."
+    },
+    {
+      "title": "Mężczyzna usłyszał zarzuty za włamanie do szkoły",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/wlamal-sie-do-szkoly-na-ursynowie-uslyszal-osiem-zarzutow-st8675356?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 11:44:19 GMT",
+      "description": "• Mężczyzna jest podejrzany o włamanie do jednej ze szkół na warszawskim Ursynowie.\n• Mężczyzna usłyszał osiem zarzutów.\n• Odpowie on m.in. za kradzież z włamaniem.\n• Odpowie on m.in. za zniszczenie mienia.\n• Włamywacz zdemolował automat z przekąskami.\n• Włamywacz zdemolował łazienkę.\n• Wybite zostały szyby w oknie.\n• Wybite zostały szyby w drzwiach.",
+      "originalTitle": "Włamał się do szkoły na Ursynowie. Usłyszał osiem zarzutów",
+      "originalDescription": "Mężczyzna podejrzany o włamanie do jednej ze szkół na warszawskim Ursynowie usłyszał osiem zarzutów. Odpowie m.in. za kradzież z włamaniem oraz zniszczenie mienia. Włamywacz zdemolował automat z przekąskami i łazienkę, wybite zostały szyby w oknie i drzwiach."
+    },
+    {
+      "title": "Samolot do Barcelony zawrócił po starcie",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/nad-ranem-samolot-lecacy-z-warszawy-do-barcelony-zawrocil-na-lotnisko-chopina-niedlugo-po-starcie-powodem-byla-usterka-techniczna-st8674696?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 06:16:16 GMT",
+      "description": "• Nad ranem samolot lecący z Warszawy do Barcelony zawrócił na Lotnisko Chopina niedługo po starcie.\n• Powodem zawrócenia byłaby usterka techniczna.\n• Na Kontakt24 otrzymaliśmy kilkusekundowe wideo.\n• Na wideo widać iskry błyskające z silnika.",
+      "originalTitle": "Samolot lecący do Barcelony wrócił na lotnisko zaraz po starcie. Niepokojące nagranie",
+      "originalDescription": "Nad ranem samolot lecący z Warszawy do Barcelony zawrócił na Lotnisko Chopina niedługo po starcie. Powodem była usterka techniczna. Na Kontakt24 otrzymaliśmy kilkusekundowe wideo, na którym widać iskry błyskające z silnika."
+    },
+    {
+      "title": "Pogoda: porywy wiatru do 100 km/h",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-pogoda-na-weekend-i-5-dni-ekshuragan-namiesza-w-pogodzie-porywy-moga-przekraczac-100-km-h-st8675235?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 11:36:14 GMT",
+      "description": "Pogoda. Do Polski wciąż napływa arktyczne powietrze. Przez nie temperatura maksymalna nie przekroczy miejscami 9 stopni. Pod koniec tygodnia na aurę wpłynie były huragan Humberto.",
+      "originalTitle": "Pogoda. Ekshuragan namiesza w pogodzie. Porywy mogą przekraczać 100 km/h",
+      "originalDescription": "Pogoda. Do Polski wciąż napływa arktyczne powietrze. Przez nie temperatura maksymalna nie przekroczy miejscami 9 stopni. Pod koniec tygodnia na aurę wpłynie były huragan Humberto."
+    },
+    {
+      "title": "Ukraińcy atakują rosyjski system S-400 na Krymie",
+      "link": "https://tvn24.pl/swiat/ukraincy-uderzyli-w-rosyjski-system-s-400-triumf-na-krymie-st8675254?source=rss",
+      "pubDate": "Tue, 30 Sep 2025 11:33:05 GMT",
+      "description": "• Siły Operacji Specjalnych Ukrainy poinformowały o uderzeniu w stację radarową rosyjskiego systemu obrony powietrznej S-400 Triumf.\n• Uderzenie miało miejsce na zaanektowanym Krymie.\n• Stacja radarowa została \"zneutralizowana przez drony\".",
+      "originalTitle": "Ukraińcy uderzyli w rosyjski system S-400 Triumf na Krymie",
+      "originalDescription": "Siły Operacji Specjalnych Ukrainy poinformowały o uderzeniu w stację radarową rosyjskiego systemu obrony powietrznej S-400 Triumf na zaanektowanym Krymie. Podały, że został on \"zneutralizowany przez drony\"."
+    },
+    {
+      "title": "Mężczyzna oślepił laserem pilotów, tłumaczy się",
+      "link": "https://tvn24.pl/poznan/nowy-tomysl-37-latek-oslepial-laserem-pilotow-zostal-zatrzymany-st8673186?source=rss",
+      "pubDate": "Mon, 29 Sep 2025 11:05:42 GMT",
+      "description": "• W okolicach Nowego Tomyśla doszło do zdarzenia, w którym 37-latek oślepiał laserem pilotów.\n• Zdarzenie miało miejsce podczas nocnych lotów treningowych.\n• Policjanci dotarli do sprawcy zdarzenia.\n• Mężczyzna przyznał się do winy.\n• Sprawca wyjaśnił policjantom powód użycia lasera.\n• Mężczyzna będzie musiał się wytłumaczyć przed sądem.",
+      "originalTitle": "Oślepiał laserem pilotów. Powiedział dlaczego",
+      "originalDescription": "W okolicach Nowego Tomyśla 37-latek oślepiał laserem pilotów podczas nocnych lotów treningowych. Policjanci dotarli do sprawcy. Mężczyzna przyznał się do winy i powiedział policjantom, dlaczego użył lasera. Teraz będzie musiał się też wytłumaczyć przed sądem."
+    }
+  ]
 }
