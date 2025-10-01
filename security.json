@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2025-10-01T05:35:54.888Z",
+  "lastUpdate": "2025-10-01T06:08:03.442Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Niemcy chcą kupić wozy wsparcia dla Leopardów 2 [ANALIZA]",
+      "link": "https://defence24.pl/sily-zbrojne/niemcy-chca-kupic-wozy-wsparcia-dla-leopardow-2-analiza",
+      "pubDate": "Wed, 01 Oct 2025 07:48:37 +0200",
+      "description": "Niemieckie wojska lądowe bazują dziś w kwestii wozów zabezpieczenia technicznego na ponad 75 Bergepanzerach 3 (odpowiednio 69 wersji A0A2 oraz 6 A1). Nie jest wiadome, czy dalej wykorzystywane są starsze Bergepanzery 2 (w roku 2021 Berlin deklarował posiadanie 82 takich pojazdów), a jeżeli tak, to nie wiemy jakiej liczbie. Są to jednak konstrukcje obecnie przestarzałe jako wsparcie dla np. czołgów Leopard 2A5-A8 lub gąsienicowych armatohaubic PzH 2000, a Berlin od pewnego czasu chce pozyskać ich następcę."
+    },
+    {
+      "title": "Francuski pocisk przeciwpancerny ulepszony ze wsparciem AI",
+      "link": "https://defence24.pl/przemysl/francuski-pocisk-przeciwpancerny-ulepszony-ze-wsparciem-ai",
+      "pubDate": "Wed, 01 Oct 2025 07:40:43 +0200",
+      "description": "[W informacji opublikowanej 19 czerwca przez serwis Defence Industry Europe](https://defence-industry.eu/mbdas-neode-systems-secures-first-french-army-contract-for-ai-enhanced-akeron-mp) czytamy, że założony przez europejski koncern zbrojeniowy MBDA start-up NEODE Systems będzie odpowiedzialny za integrację oraz zademonstrowanie ulepszonych możliwości przeciwpancernego pocisku kierowanego Akeron MP. Mają one objąć skupiać się na zasięgu efektora poza linią wzroku (BLOS), z wykorzystaniem opracowanego przez MBDA systemu decyzyjnego Ground Warden, który to bazuje na sztucznej inteligencji (AI). Jest to tym samym pierwszy kontrakt od DGA jaki otrzymał wspomniany start-up, który został założony w styczniu 2024 roku."
+    },
     {
       "title": "Szwedzki system antydronowy debiutuje w Polsce",
       "link": "https://defence24.pl/przemysl/szwedzki-system-antydronowy-debiutuje-w-polsce",
@@ -80,18 +92,6 @@
       "link": "https://defence24.pl/przemysl/amerykanie-zamawiaja-odpowiednik-polskiego-baobaba-k-beda-minowac-narzutowo",
       "pubDate": "Tue, 30 Sep 2025 13:32:26 +0200",
       "description": "Wojska lądowe USA zawarły dwie umowy na zakupy systemów minowania, w tym narzutowego."
-    },
-    {
-      "title": "Wojsko Polskie ochroni liderów UE",
-      "link": "https://defence24.pl/sily-zbrojne/wojsko-polskie-ochroni-liderow-ue",
-      "pubDate": "Tue, 30 Sep 2025 13:17:37 +0200",
-      "description": "„Na prośbę rządu Danii polscy żołnierze będą współuczestniczyli w ochronie szczytów europejskich liderów. To pokazuje, jak wysoko jest cenione Wojsko Polskie” - powiedział premier Tusk przed rozpoczęciem posiedzenia Rady Ministrów."
-    },
-    {
-      "title": "Leonidas neutralizuje roje dronów",
-      "link": "https://defence24.pl/przemysl/leonidas-neutralizuje-roje-dronow",
-      "pubDate": "Tue, 30 Sep 2025 12:30:02 +0200",
-      "description": "Amerykańska firma Epirus rozwija emiter mikrofal o nazwie Leonidas, służący do zwalczania bezzałogowców. W ostatnim teście udało się zneutralizować rój kilkudziesięciu dronów."
     }
   ]
 }
