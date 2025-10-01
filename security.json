@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-10-01T11:05:21.219Z",
+  "lastUpdate": "2025-10-01T11:33:53.458Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Niemcy: drony nad stoczniami i bazami floty",
+      "link": "https://defence24.pl/polityka-obronna/niemcy-drony-nad-stoczniami-i-bazami-floty",
+      "pubDate": "Wed, 01 Oct 2025 13:20:00 +0200",
+      "description": "[O zdarzeniu poinformował niemiecki „Bild”](https://www.bild.de/politik/inland/drohnen-alarm-in-kiel-brisanter-als-gedacht-thyssenkrupp-und-uni-klinik-betroffen-68dcc14412c5eba0ff76163a?t_ref=https%3A%2F%2Ft.co%2F). W miniony czwartek dwa małe bezzałogowce krążyły nad stocznią Thyssenkrupp. Później ich liczba wzrosła. Z poczynionych obserwacji ruchu dronów wynikało, że mogły one dokonywać pomiarów oraz zbierać informacje na temat tamtejszej infrastruktury. Kolejny incydent miał miejsce nad Kanałem Kilońskim (łączącym Bałtyk z Morzem Północnym) oraz nad elektrownią Küstenkraftwerk."
+    },
     {
       "title": "Apache zabójcą dronów. Wojsko wdraża plan",
       "link": "https://defence24.pl/przemysl/apache-zabojca-dronow-wojsko-wdraza-plan",
@@ -19,7 +25,7 @@
       "title": "Polskie F-35 nad Arkansas",
       "link": "https://defence24.pl/sily-zbrojne/polskie-f-35-nad-arkansas-2",
       "pubDate": "Wed, 01 Oct 2025 12:45:02 +0200",
-      "description": "Akrobacje powietrzne ma małej wysokości samolot��w o kodach wywoławczych WOLF1 i WOLF2 zarejestrowano telefonami komórkowymi, a ich autorami były zapewne przypadkowe osoby."
+      "description": "Akrobacje powietrzne ma małej wysokości samolotów o kodach wywoławczych WOLF1 i WOLF2 zarejestrowano telefonami komórkowymi, a ich autorami były zapewne przypadkowe osoby."
     },
     {
       "title": "Zapad 2025: Rosja i Białoruś prężą muskuły. Jakie wnioski dla Polski? [ANALIZA]",
@@ -67,7 +73,7 @@
       "title": "Rosja głównym dostawcą paliwa nuklearnego dla USA",
       "link": "https://defence24.pl/geopolityka/rosja-glownym-dostawca-paliwa-nuklearnego-dla-usa",
       "pubDate": "Wed, 01 Oct 2025 09:23:22 +0200",
-      "description": "Dostawy były kontynuowane pomimo wprowadzenia przepisów wstrzymujących import rosyjskiego paliwa do reaktor��w po pełnoskalowej inwazji Kremla na Ukrainę w 2022 roku - przypomniała agencja."
+      "description": "Dostawy były kontynuowane pomimo wprowadzenia przepisów wstrzymujących import rosyjskiego paliwa do reaktorów po pełnoskalowej inwazji Kremla na Ukrainę w 2022 roku - przypomniała agencja."
     },
     {
       "title": "Wschodnia flanka pod nadzorem: walka z dronami",
@@ -79,19 +85,13 @@
       "title": "Brytyjczycy wzmacniają flotę. Pierwsze próby pocisków NSM",
       "link": "https://defence24.pl/sily-zbrojne/brytyjczycy-wzmacniaja-flote-pierwsze-proby-pociskow-nsm",
       "pubDate": "Wed, 01 Oct 2025 08:15:47 +0200",
-      "description": "yrzutni lądowych. Próby odbyły się w norweskim ośrodku testowym Andøya na północy kraju i były częścią szerszych ćwiczeń AEGIR 25. Do dyspozycji sojuszników były dwa wycofane już ze służby norweskie okręty: kuter rakietowo-torpedowy KNM „Terne” o długości 36 m oraz dawna fregata KNM „Trondheim”, mierząca 96 m.."
+      "description": "Test rakiety Brytyjczycy przeprowadzili we współpracy z Polakami i Norwegami - którzy również odpalili pociski NSM tyle, że z wyrzutni lądowych. Próby odbyły się w norweskim ośrodku testowym Andøya na północy kraju i były częścią szerszych ćwiczeń AEGIR 25. Do dyspozycji sojuszników były dwa wycofane już ze służby norweskie okręty: kuter rakietowo-torpedowy KNM „Terne” o długości 36 m oraz dawna fregata KNM „Trondheim”, mierząca 96 m."
     },
     {
       "title": "Niemcy chcą kupić wozy wsparcia dla Leopardów 2 [ANALIZA]",
       "link": "https://defence24.pl/sily-zbrojne/niemcy-chca-kupic-wozy-wsparcia-dla-leopardow-2-analiza",
       "pubDate": "Wed, 01 Oct 2025 07:48:37 +0200",
       "description": "Niemieckie wojska lądowe bazują dziś w kwestii wozów zabezpieczenia technicznego na ponad 75 Bergepanzerach 3 (odpowiednio 69 wersji A0A2 oraz 6 A1). Nie jest wiadome, czy dalej wykorzystywane są starsze Bergepanzery 2 (w roku 2021 Berlin deklarował posiadanie 82 takich pojazdów), a jeżeli tak, to nie wiemy w jakiej liczbie. Są to jednak konstrukcje obecnie przestarzałe jako wsparcie dla np. czołgów Leopard 2A5-A8 lub gąsienicowych armatohaubic PzH 2000, a Berlin od pewnego czasu chce pozyskać ich następcę."
-    },
-    {
-      "title": "Francuski pocisk przeciwpancerny ulepszony ze wsparciem AI",
-      "link": "https://defence24.pl/przemysl/francuski-pocisk-przeciwpancerny-ulepszony-ze-wsparciem-ai",
-      "pubDate": "Wed, 01 Oct 2025 07:40:43 +0200",
-      "description": "[W informacji opublikowanej 19 czerwca przez serwis Defence Industry Europe](https://defence-industry.eu/mbdas-neode-systems-secures-first-french-army-contract-for-ai-enhanced-akeron-mp) czytamy, że założony przez europejski koncern zbrojeniowy MBDA start-up NEODE Systems będzie odpowiedzialny za integrację oraz zademonstrowanie ulepszonych możliwości przeciwpancernego pocisku kierowanego Akeron MP. Mają one objąć skupiać się na zasięgu efektora poza linią wzroku (BLOS), z wykorzystaniem opracowanego przez MBDA systemu decyzyjnego Ground Warden, który to bazuje na sztucznej inteligencji (AI). Jest to tym samym pierwszy kontrakt od DGA jaki otrzymał wspomniany start-up, który został założony w styczniu 2024 roku."
     }
   ]
 }
