@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-04T10:05:14.171Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-04T10:35:24.485Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "81-latka na hulajnodze elektrycznej uderzyła w ciężarówkę",
+      "link": "https://tvn24.pl/szczecin/koszalin-81-latka-na-hulajnodze-elektrycznej-uderzyla-w-ciezarowke-st8682596?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:27:39 GMT",
+      "description": "81-letnia kobieta jadąc na elektrycznej hulajnodze nie wyhamowała i uderzyła w ciężarówkę na jednym ze skrzyżowań w Koszalinie (Zachodniopomorskie). Na szczęście, nie odniosła poważnych obrażeń.",
+      "originalTitle": "81-latka na hulajnodze elektrycznej uderzyła w ciężarówkę",
+      "originalDescription": "81-letnia kobieta jadąc na elektrycznej hulajnodze nie wyhamowała i uderzyła w ciężarówkę na jednym ze skrzyżowań w Koszalinie (Zachodniopomorskie). Na szczęście, nie odniosła poważnych obrażeń."
+    },
+    {
+      "title": "Auto po wypadku się rozpadło, zginął 27-latek. Szukają świadków",
+      "link": "https://tvn24.pl/olsztyn/bartoszyce-smiertelny-wypadek-pod-bartoszycami-nie-zyje-27-latek-kierujacy-audi-st8682564?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:25:12 GMT",
+      "description": "Tragiczny wypadek na drodze z Galin do Kos w województwie warmińsko-mazurskim. Zginął tam 27-letni kierowca audi. Mężczyzna jechał sam. Policja pod nadzorem prokuratora ustala przyczyny zdarzenia i apeluje do świadków o kontakt.",
+      "originalTitle": "Auto po wypadku się rozpadło, zginął 27-latek. Szukają świadków",
+      "originalDescription": "Tragiczny wypadek na drodze z Galin do Kos w województwie warmińsko-mazurskim. Zginął tam 27-letni kierowca audi. Mężczyzna jechał sam. Policja pod nadzorem prokuratora ustala przyczyny zdarzenia i apeluje do świadków o kontakt."
+    },
+    {
+      "title": "Obiecywali zarobek za lajkowanie postów, skończyło się wielką stratą",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-miala-lajkowac-posty-29-latka-stracila-majatek-st8682531?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:14:44 GMT",
+      "description": "Ofiarą oszustów padła 29-letnia mieszkanka powiatu płońskiego. Kobieta miała zarobić na lajkowaniu filmów i postów oraz założyć konto na wskazanej stronie. Straciła prawie 55 tysięcy złotych.",
+      "originalTitle": "Obiecywali zarobek za lajkowanie postów, skończyło się wielką stratą",
+      "originalDescription": "Ofiarą oszustów padła 29-letnia mieszkanka powiatu płońskiego. Kobieta miała zarobić na lajkowaniu filmów i postów oraz założyć konto na wskazanej stronie. Straciła prawie 55 tysięcy złotych."
+    },
+    {
+      "title": "Reakcja na zmiany w sądach. Rzecznik rządu: potwierdza, że idziemy w dobrym kierunku",
+      "link": "https://tvn24.pl/najnowsze/zmiany-w-sadach-adam-szlapka-idziemy-w-dobrym-kierunku-st8682420?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:11:29 GMT",
+      "description": "Rzecznik rządu Adam Szłapka odniósł się do krytyki rozporządzenia ministra Waldemara Żurka, nowelizującego regulamin sądów, podkreślając, że \"to dobry kierunek\", choć \"boli tych, którzy latami demolowali system prawny\". Żurek, pytany w piątek w TVN24 o wycofanie rozporządzenia, zapewnił, że jest ono zgodne z prawem i konstytucją.",
+      "originalTitle": "Reakcja na zmiany w sądach. Rzecznik rządu: potwierdza, że idziemy w dobrym kierunku",
+      "originalDescription": "Rzecznik rządu Adam Szłapka odniósł się do krytyki rozporządzenia ministra Waldemara Żurka, nowelizującego regulamin sądów, podkreślając, że \"to dobry kierunek\", choć \"boli tych, którzy latami demolowali system prawny\". Żurek, pytany w piątek w TVN24 o wycofanie rozporządzenia, zapewnił, że jest ono zgodne z prawem i konstytucją."
+    },
+    {
+      "title": "Rosjanie uderzyli w dworzec i pociąg",
+      "link": "https://tvn24.pl/swiat/ukraina-rosja-zaatakowala-dworzec-i-pociag-w-obwodzie-sumskim-sa-ranni-st8682535?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:03:37 GMT",
+      "description": "Rosyjskie wojska uderzyły w dworzec kolejowy i pociąg pasażerski w mieście Szostka, w obwodzie sumskim na północnym wschodzie Ukrainy - przekazał szef władz wojskowych regionu. Poszkodowanych zostało około 30 osób.",
+      "originalTitle": "Rosjanie uderzyli w dworzec i pociąg",
+      "originalDescription": "Rosyjskie wojska uderzyły w dworzec kolejowy i pociąg pasażerski w mieście Szostka, w obwodzie sumskim na północnym wschodzie Ukrainy - przekazał szef władz wojskowych regionu. Poszkodowanych zostało około 30 osób."
+    },
+    {
+      "title": "Dwa ciała znalezione w górach. Policja podejrzewa niedźwiedzie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/dwa-ciala-znalezione-w-gorach-w-japonii-policja-podejrzewa-niedzwiedzie-st8682368?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:03:24 GMT",
+      "description": "Japońskie media poinformowały o dwóch ciałach znalezionych w lasach na wyspie Honsiu. Policja podejrzewa, że za ich śmierć mogą odpowiadać niedźwiedzie. Ponadto jedna osoba uważana jest za zaginioną.",
+      "originalTitle": "Dwa ciała znalezione w górach. Policja podejrzewa niedźwiedzie",
+      "originalDescription": "Japońskie media poinformowały o dwóch ciałach znalezionych w lasach na wyspie Honsiu. Policja podejrzewa, że za ich śmierć mogą odpowiadać niedźwiedzie. Ponadto jedna osoba uważana jest za zaginioną."
+    },
+    {
+      "title": "Historyczny wybór. \"Japońska Margaret Thatcher\" może zostać premierem",
+      "link": "https://tvn24.pl/swiat/japonia-doczeka-sie-pierwszej-kobiety-premiera-wiadomo-kto-nia-moze-zostac-st8682439?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 10:03:01 GMT",
+      "description": "Sanae Takaichi została przewodniczącą rządzącej Japonią Partii Liberalno-Demokratycznej (PLD). Tym samym polityczka, nazywana \"japońską Margaret Thatcher\", jako pierwsza kobieta w kraju może objąć stanowisko premiera.",
+      "originalTitle": "Historyczny wybór. \"Japońska Margaret Thatcher\" może zostać premierem",
+      "originalDescription": "Sanae Takaichi została przewodniczącą rządzącej Japonią Partii Liberalno-Demokratycznej (PLD). Tym samym polityczka, nazywana \"japońską Margaret Thatcher\", jako pierwsza kobieta w kraju może objąć stanowisko premiera."
+    },
+    {
+      "title": "Zatrzymanie flotylli \"obnażyło prawdziwe intencje Izraela\"",
+      "link": "https://tvn24.pl/swiat/strefa-gazy-i-dzialania-izraela-anna-blaszczak-banasiak-dyrektorka-amnesty-international-polska-komentuje-st8682272?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 09:46:56 GMT",
+      "description": "Bez wątpienia chodzi o to, żeby naród palestyński w Strefie Gazy po prostu przestał istnieć - powiedziała w TVN24 Anna Błaszczak-Banasiak dyrektorka Amnesty International w Polsce. Ekspertka zaznaczyła, że premier Izreala Benjamin Netanjahu dąży do \"trwania wojny\".",
+      "originalTitle": "Zatrzymanie flotylli \"obnażyło prawdziwe intencje Izraela\"",
+      "originalDescription": "Bez wątpienia chodzi o to, żeby naród palestyński w Strefie Gazy po prostu przestał istnieć - powiedziała w TVN24 Anna Błaszczak-Banasiak dyrektorka Amnesty International w Polsce. Ekspertka zaznaczyła, że premier Izreala Benjamin Netanjahu dąży do \"trwania wojny\"."
+    },
+    {
+      "title": "Czterogodzinne wystąpienie Władimira Putina i wątek Polski. Ekspert: to nie przypadek",
+      "link": "https://tvn24.pl/swiat/czterogodzinne-wystapienie-wladimira-putina-i-watek-polski-ekspert-to-nie-przypadek-st8682179?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 09:38:48 GMT",
+      "description": "Polskie wydatki na zbrojenia oraz aktywność na polu dyplomatycznym, zrobiły na Kremlu wrażenie i dlatego Polska staje się jednym z priorytetów polityki rosyjskiej - ocenia doktor Witold Rodkiewicz, analityk OSW. Ekspert dodaje, że każde zdanie Władimira Putina z wystąpienia w Soczi trzeba by dekonstruować, bo nawet w terminach przez niego użytych zawarte są kłamstwa.",
+      "originalTitle": "Czterogodzinne wystąpienie Władimira Putina i wątek Polski. Ekspert: to nie przypadek",
+      "originalDescription": "Polskie wydatki na zbrojenia oraz aktywność na polu dyplomatycznym, zrobiły na Kremlu wrażenie i dlatego Polska staje się jednym z priorytetów polityki rosyjskiej - ocenia doktor Witold Rodkiewicz, analityk OSW. Ekspert dodaje, że każde zdanie Władimira Putina z wystąpienia w Soczi trzeba by dekonstruować, bo nawet w terminach przez niego użytych zawarte są kłamstwa."
+    },
+    {
+      "title": "Była strażniczka graniczna z zarzutami za przeglądanie bazy PESEL",
+      "link": "https://tvn24.pl/rzeszow/rzeszow-byla-funkcjonariuszka-strazy-granicznej-z-zarzutami-st8682444?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 09:26:57 GMT",
+      "description": "Prokuratura Okręgowa w Rzeszowie prowadzi śledztwo przeciwko byłej funkcjonariuszce Straży Granicznej Edycie W., która - według ustaleń śledczych - miała bez uprawnień przeglądać dane osobowe setek osób w systemie PESEL. Kobieta nie przyznała się do winy. Grozi jej do trzech lat więzienia.",
+      "originalTitle": "Była strażniczka graniczna z zarzutami za przeglądanie bazy PESEL",
+      "originalDescription": "Prokuratura Okręgowa w Rzeszowie prowadzi śledztwo przeciwko byłej funkcjonariuszce Straży Granicznej Edycie W., która - według ustaleń śledczych - miała bez uprawnień przeglądać dane osobowe setek osób w systemie PESEL. Kobieta nie przyznała się do winy. Grozi jej do trzech lat więzienia."
+    }
+  ]
 }
