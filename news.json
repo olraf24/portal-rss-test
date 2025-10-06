@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-06T10:06:50.972Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-06T10:38:10.337Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Na drogę wybiegły dwa konie. Nie żyje kierowca",
+      "link": "https://tvn24.pl/lodz/strzalkow-na-droge-wybiegly-dwa-konie-doszlo-do-zderzenia-nie-zyje-kierowca-st8682343?source=rss",
+      "pubDate": "Sat, 04 Oct 2025 08:01:15 GMT",
+      "description": "W Strzałkowie pod Radomskiem (Łódzkie) na drogę wybiegły dwa konie. W jednego z nich uderzył jadący samochodem osobowym 75-latek. Mężczyznę przy użyciu narzędzi hydraulicznych wydobyli z pojazdu strażacy, z obrażeniami trafił do szpitala, gdzie po kilku dniach zmarł.",
+      "originalTitle": "Na drogę wybiegły dwa konie. Nie żyje kierowca",
+      "originalDescription": "W Strzałkowie pod Radomskiem (Łódzkie) na drogę wybiegły dwa konie. W jednego z nich uderzył jadący samochodem osobowym 75-latek. Mężczyznę przy użyciu narzędzi hydraulicznych wydobyli z pojazdu strażacy, z obrażeniami trafił do szpitala, gdzie po kilku dniach zmarł."
+    },
+    {
+      "title": "Kierowca dodał gazu, ciągnąc po jezdni policjanta",
+      "link": "https://tvn24.pl/szczecin/szczecinek-poscig-za-bmw-21-latek-uderzyl-w-radiowoz-ciagnal-policjanta-po-jezdni-i-potracil-funkcjonariuszke-st8684647?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:29:56 GMT",
+      "description": "Podczas policyjnego pościgu 21-letni kierowca bmw uderzył w radiowóz. Jeden z policjantów podbiegł do uciekającego, otworzył drzwi jego auta i chciał wyciągnąć kluczyki ze stacyjki. 21-latek dodał wtedy gazu, ciągnąc funkcjonariusza za sobą. Uciekający kierowca bmw potrącił też policjantkę. Został w końcu zatrzymany.",
+      "originalTitle": "Kierowca dodał gazu, ciągnąc po jezdni policjanta",
+      "originalDescription": "Podczas policyjnego pościgu 21-letni kierowca bmw uderzył w radiowóz. Jeden z policjantów podbiegł do uciekającego, otworzył drzwi jego auta i chciał wyciągnąć kluczyki ze stacyjki. 21-latek dodał wtedy gazu, ciągnąc funkcjonariusza za sobą. Uciekający kierowca bmw potrącił też policjantkę. Został w końcu zatrzymany."
+    },
+    {
+      "title": "Ciała trzech osób w domu jednorodzinnym",
+      "link": "https://tvn24.pl/lublin/pulawy-zatrucie-tlenkiem-wegla-trzy-osoby-nie-zyja-st8684716?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:28:29 GMT",
+      "description": "Ciała trzech osób - dwóch kobiet i mężczyzny znaleziono w domu jednorodzinnym w Puławach. Jak przekazała nam straż pożarna, najprawdopodobniej zatruły się tlenkiem węgla, którego obecność stwierdzono w powietrzu.",
+      "originalTitle": "Ciała trzech osób w domu jednorodzinnym",
+      "originalDescription": "Ciała trzech osób - dwóch kobiet i mężczyzny znaleziono w domu jednorodzinnym w Puławach. Jak przekazała nam straż pożarna, najprawdopodobniej zatruły się tlenkiem węgla, którego obecność stwierdzono w powietrzu."
+    },
+    {
+      "title": "Rusza przebudowa Okrzei. Zmiany do wiosny",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-przebudowa-ulicy-okrzei-zmiany-w-organizacji-ruchu-zakaz-parkowania-objazdy-szczegoly-prac-st8684323?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:25:25 GMT",
+      "description": "Zmienia się ulica Okrzei, będąca przedłużeniem kładki pieszo-rowerowej przez Wisłę. Ruszają pierwsze prace. Na początek zostanie zwężony odcinek od Panieńskiej do Jagiellońskiej. Staną tu też znaki zakazu parkowania. Taki stan potrwa do wiosny.",
+      "originalTitle": "Rusza przebudowa Okrzei. Zmiany do wiosny",
+      "originalDescription": "Zmienia się ulica Okrzei, będąca przedłużeniem kładki pieszo-rowerowej przez Wisłę. Ruszają pierwsze prace. Na początek zostanie zwężony odcinek od Panieńskiej do Jagiellońskiej. Staną tu też znaki zakazu parkowania. Taki stan potrwa do wiosny."
+    },
+    {
+      "title": "Atak na Lwów. Polski gigant odzieżowy o stratach",
+      "link": "https://tvn24.pl/biznes/ze-swiata/atak-na-lwow-towar-lpp-zniszczony-st8684503?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:20:52 GMT",
+      "description": "Towar należący do polskiej spółki odzieżowej LPP został zniszczony w wyniku ataku na Lwów, do którego doszło w nocy z soboty na niedzielę. \"W magazynie zdeponowane były małe ilości naszego towaru. Dla obsługi rynku ukraińskiego nie miało to dla nas dużego znaczenia\" - przekazała nam firma.",
+      "originalTitle": "Atak na Lwów. Polski gigant odzieżowy o stratach",
+      "originalDescription": "Towar należący do polskiej spółki odzieżowej LPP został zniszczony w wyniku ataku na Lwów, do którego doszło w nocy z soboty na niedzielę. \"W magazynie zdeponowane były małe ilości naszego towaru. Dla obsługi rynku ukraińskiego nie miało to dla nas dużego znaczenia\" - przekazała nam firma."
+    },
+    {
+      "title": "Nie wszystkie bociany odleciały. Co robić, gdy się na nie natkniemy?",
+      "link": "https://tvn24.pl/tvnmeteo/polska/bociany-widywane-jesienia-w-polsce-nie-wszystkie-odlecialy-co-robic-gdy-sie-na-nie-natkniemy-st8683955?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:20:15 GMT",
+      "description": "Już w sierpniu wiele bocianów odlatuje z Polski do ciepłych krajów. Niektóre osobniki pozostają jednak w naszym kraju dłużej. Kilka z nich uchwycił na zdjęciach jeden z naszych czytelników.",
+      "originalTitle": "Nie wszystkie bociany odleciały. Co robić, gdy się na nie natkniemy?",
+      "originalDescription": "Już w sierpniu wiele bocianów odlatuje z Polski do ciepłych krajów. Niektóre osobniki pozostają jednak w naszym kraju dłużej. Kilka z nich uchwycił na zdjęciach jeden z naszych czytelników."
+    },
+    {
+      "title": "Użyli radiowozu, by zatrzymać uciekającego 20-latka",
+      "link": "https://tvn24.pl/rzeszow/mielec-20-latek-za-kierownica-bmw-uciekal-przed-policja-grozi-mu-do-pieciu-lat-wiezienia-st8684597?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:06:12 GMT",
+      "description": "Policjanci z Mielca przerwali niebezpieczną jazdę 20-letniemu kierowcy bmw, który nie zatrzymał się do kontroli i uciekał ulicami miasta. Funkcjonariusze użyli radiowozu, by bezpiecznie zakończyć pościg.",
+      "originalTitle": "Użyli radiowozu, by zatrzymać uciekającego 20-latka",
+      "originalDescription": "Policjanci z Mielca przerwali niebezpieczną jazdę 20-letniemu kierowcy bmw, który nie zatrzymał się do kontroli i uciekał ulicami miasta. Funkcjonariusze użyli radiowozu, by bezpiecznie zakończyć pościg."
+    },
+    {
+      "title": "Osiem pytań o polskich noblistów. Sprawdź się",
+      "link": "https://tvn24.pl/quizy/quiz-osiem-pytan-o-polskich-noblistow-sprawdz-sie-st8679601?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:04:00 GMT",
+      "description": "W najbliższych dniach poznamy laureatów Nagrody Nobla 2025. Czy będą wśród nich Polacy? Tego nie wiemy. Wiemy natomiast, że tydzień noblowski to doskonała okazja do sprawdzenia swojej wiedzy o polskich zdobywcach tej prestiżowej nagrody.",
+      "originalTitle": "Osiem pytań o polskich noblistów. Sprawdź się",
+      "originalDescription": "W najbliższych dniach poznamy laureatów Nagrody Nobla 2025. Czy będą wśród nich Polacy? Tego nie wiemy. Wiemy natomiast, że tydzień noblowski to doskonała okazja do sprawdzenia swojej wiedzy o polskich zdobywcach tej prestiżowej nagrody."
+    },
+    {
+      "title": "Miliarder zabiera głos. \"Korzyści będą gigantyczne\"",
+      "link": "https://tvn24.pl/biznes/tech/jeff-bezos-o-sztucznej-inteligencji-korzysci-beda-gigantyczne-st8684558?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:02:00 GMT",
+      "description": "Jeff Bezos, założyciel Amazona, podczas Italian Tech Week w Turynie stwierdził, że rozwój sztucznej inteligencji przypomina obecnie bańkę. Dodał jednak, że sama technologia jest realna i przyniesie \"gigantyczne\" korzyści dla społeczeństwa i zmieni wszystkie sektory gospodarki.",
+      "originalTitle": "Miliarder zabiera głos. \"Korzyści będą gigantyczne\"",
+      "originalDescription": "Jeff Bezos, założyciel Amazona, podczas Italian Tech Week w Turynie stwierdził, że rozwój sztucznej inteligencji przypomina obecnie bańkę. Dodał jednak, że sama technologia jest realna i przyniesie \"gigantyczne\" korzyści dla społeczeństwa i zmieni wszystkie sektory gospodarki."
+    },
+    {
+      "title": "Ktoś postawił drewnianą sławojkę w lesie. Grzybiarze: szacuneczek się należy",
+      "link": "https://tvn24.pl/lodz/zgierz-ktos-postawil-slawojke-na-wejsciu-do-lasu-grzybiarze-szacuneczek-sie-nalezy-st8684509?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 10:01:01 GMT",
+      "description": "Na niecodzienny widok trafił nasz dziennikarz spacerujący po lesie Krogulec w Zgierzu. Na jednej z dróg wjazdowych do lasu ktoś ustawił drewnianą sławojkę. Grzybiarze komentowali żartem, że to zapewne z myślą o nich. Z kolei komendant miejscowej straży miejskiej jest przekonany, że to podrzucony śmieć. Szef nadleśnictwa Grotniki, do którego należy las, był zaskoczony całą sytuacją i zapewnił, że sławojka zostanie usunięta.",
+      "originalTitle": "Ktoś postawił drewnianą sławojkę w lesie. Grzybiarze: szacuneczek się należy",
+      "originalDescription": "Na niecodzienny widok trafił nasz dziennikarz spacerujący po lesie Krogulec w Zgierzu. Na jednej z dróg wjazdowych do lasu ktoś ustawił drewnianą sławojkę. Grzybiarze komentowali żartem, że to zapewne z myślą o nich. Z kolei komendant miejscowej straży miejskiej jest przekonany, że to podrzucony śmieć. Szef nadleśnictwa Grotniki, do którego należy las, był zaskoczony całą sytuacją i zapewnił, że sławojka zostanie usunięta."
+    }
+  ]
 }
