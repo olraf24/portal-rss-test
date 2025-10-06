@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-06T14:05:45.054Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-06T14:37:55.870Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Chemiczna substancja rozpylona w szkole, siedmioro uczniów w szpitalu",
+      "link": "https://tvn24.pl/lodz/uszczyn-woj-lodzkie-chemiczna-substancja-rozpylona-w-szkole-siedmioro-uczniow-w-szpitalu-st8685969?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 14:26:04 GMT",
+      "description": "Siedmioro uczniów Szkoły Podstawowej w Uszczynie (Łódzkie) trafiło karetkami do szpitala po tym, jak w placówce ktoś rozpylił chemiczną substancję o nieprzyjemnym zapachu. Z klasy ewakuowano 25 osób, uczniów w wieku 13 i 14 lat.",
+      "originalTitle": "Chemiczna substancja rozpylona w szkole, siedmioro uczniów w szpitalu",
+      "originalDescription": "Siedmioro uczniów Szkoły Podstawowej w Uszczynie (Łódzkie) trafiło karetkami do szpitala po tym, jak w placówce ktoś rozpylił chemiczną substancję o nieprzyjemnym zapachu. Z klasy ewakuowano 25 osób, uczniów w wieku 13 i 14 lat."
+    },
+    {
+      "title": "Seria zgłoszeń o wycieku gazu, na miejscu znaleźli duriany",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/niemcy-wezwania-o-wycieku-gazu-przyczyna-byly-duriany-st8685811?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 14:20:46 GMT",
+      "description": "Straż pożarna w Wiesbaden aż czterokrotnie interweniowała w sobotę z powodu zawiadomień o wycieku gazu. Jak się jednak okazało, za charakterystyczny zapach, na który skarżyli się mieszkańcy, odpowiadały egzotyczne owoce.",
+      "originalTitle": "Seria zgłoszeń o wycieku gazu, na miejscu znaleźli duriany",
+      "originalDescription": "Straż pożarna w Wiesbaden aż czterokrotnie interweniowała w sobotę z powodu zawiadomień o wycieku gazu. Jak się jednak okazało, za charakterystyczny zapach, na który skarżyli się mieszkańcy, odpowiadały egzotyczne owoce."
+    },
+    {
+      "title": "\"Od pierwszego wniosku minęło 16 lat\". Ważna decyzja w sprawie pociągu do lotniska w Modlinie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/modlin-wojewoda-podpisal-decyzje-lokalizacyjna-dla-linii-kolejowej-do-lotniska-w-modlinie-st8684732?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 14:10:37 GMT",
+      "description": "Wojewoda mazowiecki Mariusz Frankowski podpisał decyzję lokalizacyjną dla linii kolejowej do lotnika Warszawa-Modlin. Kolejarze podali wstępny harmonogram prac. Nowe połączenie ma być gotowe za cztery lata.",
+      "originalTitle": "\"Od pierwszego wniosku minęło 16 lat\". Ważna decyzja w sprawie pociągu do lotniska w Modlinie",
+      "originalDescription": "Wojewoda mazowiecki Mariusz Frankowski podpisał decyzję lokalizacyjną dla linii kolejowej do lotnika Warszawa-Modlin. Kolejarze podali wstępny harmonogram prac. Nowe połączenie ma być gotowe za cztery lata."
+    },
+    {
+      "title": "Co naprawdę powiedziała Angela Merkel o Polsce i wojnie Putina",
+      "link": "https://tvn24.pl/swiat/co-naprawde-powiedziala-angela-merkel-o-polsce-i-wojnie-putina-st8685467?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 14:09:28 GMT",
+      "description": "Angela Merkel udzieliła wywiadu węgierskiemu kanałowi Partizan, w którym mówiła między innymi o wojnie w Ukrainie wywołanej przez Władimira Putina i jej przyczynach. Jej wypowiedź o Polsce, nieprecyzyjnie sparafrazowana przez niemiecki \"Bild\", wywołała spore emocje. Co tak naprawdę powiedziała była kanclerz Niemiec?",
+      "originalTitle": "Co naprawdę powiedziała Angela Merkel o Polsce i wojnie Putina",
+      "originalDescription": "Angela Merkel udzieliła wywiadu węgierskiemu kanałowi Partizan, w którym mówiła między innymi o wojnie w Ukrainie wywołanej przez Władimira Putina i jej przyczynach. Jej wypowiedź o Polsce, nieprecyzyjnie sparafrazowana przez niemiecki \"Bild\", wywołała spore emocje. Co tak naprawdę powiedziała była kanclerz Niemiec?"
+    },
+    {
+      "title": "Zapowiedzieli zaskakującą inwestycję. Kurs ostro w górę",
+      "link": "https://tvn24.pl/biznes/tech/sztuczna-inteligencja-ai-openai-zapowiada-inwestycje-kurs-amd-wystrzelil-st8685687?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 14:01:09 GMT",
+      "description": "Akcje Advanced Micro Devices (AMD) wzrosły o około 35 procent w handlu przedsesyjnym. To efekt ogłoszenia umowy z OpenAI - firma Sama Altmana planuje zainwestować w AMD i między innymi kupić do 10 procent udziałów.",
+      "originalTitle": "Zapowiedzieli zaskakującą inwestycję. Kurs ostro w górę",
+      "originalDescription": "Akcje Advanced Micro Devices (AMD) wzrosły o około 35 procent w handlu przedsesyjnym. To efekt ogłoszenia umowy z OpenAI - firma Sama Altmana planuje zainwestować w AMD i między innymi kupić do 10 procent udziałów."
+    },
+    {
+      "title": "W centrum Łodzi tramwaj wypadł z torów",
+      "link": "https://tvn24.pl/lodz/lodz-tramwaj-wypadl-z-torow-utrudnienia-w-centrum-miasta-st8685809?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 14:00:16 GMT",
+      "description": "Tramwaj linii numer 12 w Łodzi wypadł z torów podczas skręcania z ulicy Kilińskiego w Piłsudskiego. - Z torowiska wypadł drugi z wagonów w składzie - precyzuje Piotr Wasiak, rzecznik Miejskiego Przedsiębiorstwa Komunikacyjnego w Łodzi. W związku z wypadkiem zaburzony został ruch komunikacji miejskiej w centrum miasta.",
+      "originalTitle": "W centrum Łodzi tramwaj wypadł z torów",
+      "originalDescription": "Tramwaj linii numer 12 w Łodzi wypadł z torów podczas skręcania z ulicy Kilińskiego w Piłsudskiego. - Z torowiska wypadł drugi z wagonów w składzie - precyzuje Piotr Wasiak, rzecznik Miejskiego Przedsiębiorstwa Komunikacyjnego w Łodzi. W związku z wypadkiem zaburzony został ruch komunikacji miejskiej w centrum miasta."
+    },
+    {
+      "title": "Pobili właściciela młotkiem i łomem, splądrowali dom. Usłyszeli wyroki",
+      "link": "https://tvn24.pl/katowice/pobili-wlasciciela-mlotkiem-i-lomem-spladrowali-dom-uslyszeli-wyroki-st8685693?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 13:53:17 GMT",
+      "description": "Kary od 10 lat i czterech miesięcy do 14 lat i dwóch miesięcy więzienia wymierzył katowicki sąd pięciu oskarżonym w sprawie rozboju w Czechowicach-Dziedzicach. Sprawcy młotkiem i łomem pobili właściciela do nieprzytomności, po czym splądrowali dom i uciekli.",
+      "originalTitle": "Pobili właściciela młotkiem i łomem, splądrowali dom. Usłyszeli wyroki",
+      "originalDescription": "Kary od 10 lat i czterech miesięcy do 14 lat i dwóch miesięcy więzienia wymierzył katowicki sąd pięciu oskarżonym w sprawie rozboju w Czechowicach-Dziedzicach. Sprawcy młotkiem i łomem pobili właściciela do nieprzytomności, po czym splądrowali dom i uciekli."
+    },
+    {
+      "title": "Zeszła lawina w Słowenii. Zginęły trzy osoby",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/zeszla-lawina-w-slowenii-zginely-trzy-osoby-st8685209?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 13:27:48 GMT",
+      "description": "Lawina zeszła u podnóża szczytu Tosc położonego w Alpach Julijskich w Słowenii. Zginęło trzech turystów.",
+      "originalTitle": "Zeszła lawina w Słowenii. Zginęły trzy osoby",
+      "originalDescription": "Lawina zeszła u podnóża szczytu Tosc położonego w Alpach Julijskich w Słowenii. Zginęło trzech turystów."
+    },
+    {
+      "title": "Niemcy i Włochy apelują do Brukseli \"o natychmiastową zmianę kursu\"",
+      "link": "https://tvn24.pl/biznes/moto/zielony-lad-niemcy-i-wlochy-apeluja-do-brukseli-o-natychmiastowa-zmiane-kursu-st8685411?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 13:23:30 GMT",
+      "description": "Włoskie i niemieckie resorty apelują do Brukseli o pilne przemyślenie polityki Zielonego Ładu w branży motoryzacyjnej. Zdaniem ministerstw gospodarki obu państw transformacja musi być zrównoważona.",
+      "originalTitle": "Niemcy i Włochy apelują do Brukseli \"o natychmiastową zmianę kursu\"",
+      "originalDescription": "Włoskie i niemieckie resorty apelują do Brukseli o pilne przemyślenie polityki Zielonego Ładu w branży motoryzacyjnej. Zdaniem ministerstw gospodarki obu państw transformacja musi być zrównoważona."
+    },
+    {
+      "title": "Przebrani za żołnierzy zaatakowali więzienie, sześciogodzinna walka",
+      "link": "https://tvn24.pl/swiat/somalia-atak-na-wiezienie-przez-bojownikow-al-szabab-przebranych-za-zolnierzy-st8685006?source=rss",
+      "pubDate": "Mon, 06 Oct 2025 13:01:31 GMT",
+      "description": "Przebrani za żołnierzy bojownicy organizacji terrorystycznej Asz-Szabab zaatakowali najważniejsze więzienie w stolicy Somalii. W trakcie sześciogodzinnej wymiany ognia zginęło siedmiu z nich.",
+      "originalTitle": "Przebrani za żołnierzy zaatakowali więzienie, sześciogodzinna walka",
+      "originalDescription": "Przebrani za żołnierzy bojownicy organizacji terrorystycznej Asz-Szabab zaatakowali najważniejsze więzienie w stolicy Somalii. W trakcie sześciogodzinnej wymiany ognia zginęło siedmiu z nich."
+    }
+  ]
 }
