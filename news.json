@@ -1,8 +1,40 @@
 {
-  "lastUpdate": "2025-10-09T19:05:38.062Z",
+  "lastUpdate": "2025-10-09T19:34:19.684Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Leczenie niskorosłości dzieci we Wrocławiu",
+      "link": "https://tvn24.pl/fakty-artykuly/uniwersytecki-szpital-kliniczny-we-wroclawiu-leczy-dzieci-z-niskorosloscia-na-kredyt-jest-obawa-czy-nfz-zaplaci-st8692016?source=rss",
+      "pubDate": "Thu, 09 Oct 2025 19:29:28 GMT",
+      "description": "Dzieci z niskorosłością leczą się w szpitalu we Wrocławiu. Kontrakt z Narodowym Funduszem Zdrowia był tylko na pół miliona złotych, szpital już wydał cztery miliony. Dyrekcja się boi, czy otrzymają pieniądze za nadwykonania. NFZ musi z kolei liczyć na państwo.",
+      "originalTitle": "Istnieje lek na niskorosłość dzieci, ale dużo kosztuje. Szpital we Wrocławiu leczy na kredyt",
+      "originalDescription": "Dzieci z niskorosłością leczą się w szpitalu we Wrocławiu. Kontrakt z Narodowym Funduszem Zdrowia był tylko na pół miliona złotych, szpital już wydał cztery miliony. Dyrekcja się boi, czy otrzymają pieniądze za nadwykonania. NFZ musi z kolei liczyć na państwo."
+    },
+    {
+      "title": "Wiceminister skomentował prace po debacie",
+      "link": "https://tvn24.pl/biznes/z-kraju/60-dni-zwolnienia-to-za-malo-wiceministra-aleksandra-gajewska-zapowiada-zmiany-dla-rodzicow-ktorych-dzieci-walcza-z-nowotworami-st8692006?source=rss",
+      "pubDate": "Thu, 09 Oct 2025 19:18:13 GMT",
+      "description": "W programie \"Kropka nad i\" na antenie TVN24 wiceministra rodziny, pracy i polityki społecznej Aleksandra Gajewska odniosła się kwestii zbyt krótkich zwolnień dla rodziców, których dzieci walczą z nowotworami. - Od razu, natychmiast przystąpiliśmy do tych prac - przekazała Gajewska.",
+      "originalTitle": "\"Od razu, natychmiast przystąpiliśmy do tych prac\". Deklaracja wiceministry po \"Debacie\" w TVN24+",
+      "originalDescription": "W programie \"Kropka nad i\" na antenie TVN24 wiceministra rodziny, pracy i polityki społecznej Aleksandra Gajewska odniosła się kwestii zbyt krótkich zwolnień dla rodziców, których dzieci walczą z nowotworami. - Od razu, natychmiast przystąpiliśmy do tych prac - przekazała Gajewska."
+    },
+    {
+      "title": "Oświadczenie noblisty ws. polityki Orbana",
+      "link": "https://tvn24.pl/swiat/wegry-laszlo-krasznahorkai-krytykuje-viktora-orbana-i-jego-polityke-premier-mu-pogratulowal-ten-odpowiedzial-st8691870?source=rss",
+      "pubDate": "Thu, 09 Oct 2025 17:41:27 GMT",
+      "description": "Viktor Orban pogratulował Laszlo Krasznahorkaiowi otrzymania Literackiej Nagrody Nobla. Węgierski pisarz, który dał się poznać jako krytyk rządów Orbana, odpowiedział mu w mediach społecznościowych. Napiał, że \"dziekuje\" premierowi, ale \"nadal będzie jednak przeciwny jego politycznym działaniom i ideom\".",
+      "originalTitle": "Noblista dziękuje za gratulacje. Ale \"nadal będzie przeciwny\" polityce Orbana",
+      "originalDescription": "Viktor Orban pogratulował Laszlo Krasznahorkaiowi otrzymania Literackiej Nagrody Nobla. Węgierski pisarz, który dał się poznać jako krytyk rządów Orbana, odpowiedział mu w mediach społecznościowych. Napiał, że \"dziekuje\" premierowi, ale \"nadal będzie jednak przeciwny jego politycznym działaniom i ideom\"."
+    },
+    {
+      "title": "\"Wybrałaby się pani na wakacje do Gazy?\". Dyskusja po słowach Grabca",
+      "link": "https://tvn24.pl/polska/aleksandra-gajewska-i-anna-maria-zukowska-komentuja-slowa-jana-grabca-o-flotylli-humanitarnej-st8691923?source=rss",
+      "pubDate": "Thu, 09 Oct 2025 19:10:54 GMT",
+      "description": "Aleksandra Gajewska z Koalicji Obywatelskiej i Anna Maria Żukowska z Lewicy komentowały słowa szefa KPRM Jana Grabca o tym, że wyprawa flotylli humanitarnej do Strefy Gazy \"bardziej przypominała wakacje niż misję\". - Ja bym takich sprzeciwów nie nazywała wakacjami - powiedziała posłanka KO. - Wybrałaby się pani na wakacje do Gazy? - zapytała ją Żukowska.",
+      "originalTitle": "\"Wybrałaby się pani na wakacje do Gazy?\". Dyskusja po słowach Grabca",
+      "originalDescription": "Aleksandra Gajewska z Koalicji Obywatelskiej i Anna Maria Żukowska z Lewicy komentowały słowa szefa KPRM Jana Grabca o tym, że wyprawa flotylli humanitarnej do Strefy Gazy \"bardziej przypominała wakacje niż misję\". - Ja bym takich sprzeciwów nie nazywała wakacjami - powiedziała posłanka KO. - Wybrałaby się pani na wakacje do Gazy? - zapytała ją Żukowska."
+    },
     {
       "title": "Płoną maszyny za miliony. Winny grzyb",
       "link": "https://tvn24.pl/biznes/ze-swiata/kanada-plona-maszyny-za-miliony-winny-grzyb-st8691939?source=rss",
@@ -15,20 +47,20 @@
       "title": "Prognoza zagrożeń IMGW. Tu może być niebezpiecznie",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-tu-moze-byc-niebezpiecznie-st8692003?source=rss",
       "pubDate": "Thu, 09 Oct 2025 18:39:31 GMT",
-      "description": "W piątek w części kraju może mocno wiać. Instytut Meteorologii i Gospodarki Wodnej planuje wydać ostrzeżenia pierwszego stopnia. Sprawdź, gdzie aura może być groźna.",
+      "description": "• W piątek w części kraju może mocno wiać.\n• Instytut Meteorologii i Gospodarki Wodnej planuje wydać ostrzeżenia pierwszego stopnia.\n• Aura może być groźna w niektórych miejscach.",
       "originalTitle": "Prognoza zagrożeń IMGW. Tu może być niebezpiecznie",
       "originalDescription": "W piątek w części kraju może mocno wiać. Instytut Meteorologii i Gospodarki Wodnej planuje wydać ostrzeżenia pierwszego stopnia. Sprawdź, gdzie aura może być groźna."
     },
     {
-      "title": "Belgijskie władze zatrzymały trzech mężczyzn. Mieli planować zamach na premiera Belgii",
+      "title": "Belgijska policja zatrzymała trzech mężczyzn podejrzanych o planowanie zamachu",
       "link": "https://tvn24.pl/swiat/belgia-trzech-mezczyzn-zatrzymanych-w-zwiazku-z-planowaniem-zamachu-na-premiera-st8691959?source=rss",
       "pubDate": "Thu, 09 Oct 2025 18:38:18 GMT",
-      "description": "Trzech młodych mężczyzn w wieku od 17 do 24 lat zostało zatrzymanych w Antwerpii. Według prokuratury mieli planować \"dżihadystyczny\" zamach terrorystyczny na premiera Belgii.",
+      "description": "• Trzech młodych mężczyzn w wieku od 17 do 24 lat zostało zatrzymanych w Antwerpii.\n• Zatrzymani mieli planować \"dżihadystyczny\" zamach terrorystyczny.\n• Celem zamachu miał być premier Belgii.\n• Zatrzymania dokonano przy współpracy z prokuraturą.",
       "originalTitle": "Belgijskie władze zatrzymały trzech mężczyzn. Mieli planować zamach na premiera Belgii",
       "originalDescription": "Trzech młodych mężczyzn w wieku od 17 do 24 lat zostało zatrzymanych w Antwerpii. Według prokuratury mieli planować \"dżihadystyczny\" zamach terrorystyczny na premiera Belgii."
     },
     {
-      "title": "\"W muzyce Chopina wszystko jest trudne\"",
+      "title": "Muzyka Chopina jest złożona",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/w-muzyce-chopina-wszystko-jest-trudne-st8691994?source=rss",
       "pubDate": "Thu, 09 Oct 2025 18:28:51 GMT",
       "description": "Pianista Kevin Chen powiedział w czwartek po swoim występie w II etapie Konkursu Chopinowskiego, że Chopin jest jednym z najbardziej uniwersalnych kompozytorów, a jego muzyka rezonuje w emocje zarówno pianistów, jak i słuchaczy.",
@@ -36,7 +68,7 @@
       "originalDescription": "Pianista Kevin Chen powiedział w czwartek po swoim występie w II etapie Konkursu Chopinowskiego, że Chopin jest jednym z najbardziej uniwersalnych kompozytorów, a jego muzyka rezonuje w emocje zarówno pianistów, jak i słuchaczy."
     },
     {
-      "title": "Szef KPRM o flotylli humanitarnej: to bardziej przypominało wakacje",
+      "title": "Szef KPRM skomentował flotyllę humanitarną",
       "link": "https://tvn24.pl/polska/szef-kprm-jan-grabiec-o-flotylli-humanitarnej-to-bardziej-przypominalo-wakacje-niz-misje-st8691953?source=rss",
       "pubDate": "Thu, 09 Oct 2025 18:14:06 GMT",
       "description": "Szef KPRM Jan Grabiec komentował w \"Faktach po Faktach\" w TVN24 udział posła Koalicji Obywatelskiej Franciszka Sterczewskiego we flotylli humanitarnej, która zmierzała do Strefy Gazy. Powiedział, że to bardziej \"przypominało wakacje niż misję\". - Sprawa jest ważna, natomiast trzeba do niej podchodzić z powagą, a nie traktować jako okazję do jakiejś publicznej autopromocji - dodał.",
@@ -44,44 +76,12 @@
       "originalDescription": "Szef KPRM Jan Grabiec komentował w \"Faktach po Faktach\" w TVN24 udział posła Koalicji Obywatelskiej Franciszka Sterczewskiego we flotylli humanitarnej, która zmierzała do Strefy Gazy. Powiedział, że to bardziej \"przypominało wakacje niż misję\". - Sprawa jest ważna, natomiast trzeba do niej podchodzić z powagą, a nie traktować jako okazję do jakiejś publicznej autopromocji - dodał."
     },
     {
-      "title": "Poseł Sterczewski o tym, dlaczego wziął udział we flotylli do Strefy Gazy",
+      "title": "Poseł Sterczewski bierze udział w flotylli do Strefy Gazy",
       "link": "https://tvn24.pl/polska/franciszek-sterczewski-czescia-flotylli-do-strefy-gazy-posel-ko-o-powodach-dolaczenia-do-rejsu-humanitarnego-st8691834?source=rss",
       "pubDate": "Thu, 09 Oct 2025 18:08:52 GMT",
       "description": "Uznałem, że trzeba zrobić wszystko, co w naszej mocy, żeby doprowadzić do zakończenia tego ludobójstwa - powiedział w \"Faktach po Faktach\" poseł KO Franciszek Sterczewski, wyjaśniając powody dołączenia do flotylli humanitarnej do Strefy Gazy.",
       "originalTitle": "Poseł Sterczewski o tym, dlaczego wziął udział we flotylli do Strefy Gazy",
       "originalDescription": "Uznałem, że trzeba zrobić wszystko, co w naszej mocy, żeby doprowadzić do zakończenia tego ludobójstwa - powiedział w \"Faktach po Faktach\" poseł KO Franciszek Sterczewski, wyjaśniając powody dołączenia do flotylli humanitarnej do Strefy Gazy."
-    },
-    {
-      "title": "Donald Trump miał na niego chrapkę. Teraz bije rekordy",
-      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-mial-na-niego-chrapke-kanal-panamski-bije-teraz-rekordy-st8691842?source=rss",
-      "pubDate": "Thu, 09 Oct 2025 18:07:15 GMT",
-      "description": "Kanał Panamski zanotował rekordowe 5,7 miliarda dolarów przychodu - o 14,4 procent więcej niż rok wcześniej, a ruch statków wzrósł o 19,3 procent. Wcześniej prezydent USA Donald Trump zapowiadał, że chce \"odzyskać\" ten strategiczny szlak.",
-      "originalTitle": "Donald Trump miał na niego chrapkę. Teraz bije rekordy",
-      "originalDescription": "Kanał Panamski zanotował rekordowe 5,7 miliarda dolarów przychodu - o 14,4 procent więcej niż rok wcześniej, a ruch statków wzrósł o 19,3 procent. Wcześniej prezydent USA Donald Trump zapowiadał, że chce \"odzyskać\" ten strategiczny szlak."
-    },
-    {
-      "title": "Pogoda na jutro - piątek, 10.10. Przed nami deszczowa noc z zamgleniem, w dzień do 15 stopni",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-10-10-przed-nami-deszczowa-noc-z-zamgleniem-w-dzien-do-15-stopni-st8691892?source=rss",
-      "pubDate": "Thu, 09 Oct 2025 18:02:30 GMT",
-      "description": "Pogoda na jutro, czyli na piątek, 10.10. W nocy będzie pochmurno i deszczowo, możliwe są zamglenia i mgły. W dzień na termometrach zobaczymy maksymalnie 15 stopni.",
-      "originalTitle": "Pogoda na jutro - piątek, 10.10. Przed nami deszczowa noc z zamgleniem, w dzień do 15 stopni",
-      "originalDescription": "Pogoda na jutro, czyli na piątek, 10.10. W nocy będzie pochmurno i deszczowo, możliwe są zamglenia i mgły. W dzień na termometrach zobaczymy maksymalnie 15 stopni."
-    },
-    {
-      "title": "Uczniowie z Kielc będą uczyć się zdalnie. W szkole marzli",
-      "link": "https://tvn24.pl/kielce/uczniowie-z-kielc-beda-uczyc-sie-zdalnie-w-szkole-marzli-st8691929?source=rss",
-      "pubDate": "Thu, 09 Oct 2025 17:54:35 GMT",
-      "description": "Uczniowie z dwóch kieleckich placówek będą uczyć się zdalnie. W szkołach trwa termomodernizacja, w budynkach panowały zbyt niskie temperatury, by przebywały w nich dzieci.",
-      "originalTitle": "Uczniowie z Kielc będą uczyć się zdalnie. W szkole marzli",
-      "originalDescription": "Uczniowie z dwóch kieleckich placówek będą uczyć się zdalnie. W szkołach trwa termomodernizacja, w budynkach panowały zbyt niskie temperatury, by przebywały w nich dzieci."
-    },
-    {
-      "title": "Orban gratuluje węgierskiemu nobliście. Swojemu krytykowi",
-      "link": "https://tvn24.pl/swiat/wegry-laszlo-krasznahorkai-krytykuje-viktora-orbana-i-jego-polityke-ten-cytuje-jego-ksiazke-st8691870?source=rss",
-      "pubDate": "Thu, 09 Oct 2025 17:41:27 GMT",
-      "description": "Laszlo Krasznahorkai mówił, że \"w dzisiejszych Węgrzech nie ma już żadnej nadziei\" i twierdził, że kraj ten w ostatnich latach coraz bardziej oddalał się od Zachodu. W wywiadach laureat Literackiej Nagrody Nobla nie raz krytykował rządy Viktora Orbana. Premier tymczasem niedawno cytował jego powieść, by podkreślić pozytywne, jego zdaniem, zmiany na Węgrzech.",
-      "originalTitle": "Orban gratuluje węgierskiemu nobliście. Swojemu krytykowi",
-      "originalDescription": "Laszlo Krasznahorkai mówił, że \"w dzisiejszych Węgrzech nie ma już żadnej nadziei\" i twierdził, że kraj ten w ostatnich latach coraz bardziej oddalał się od Zachodu. W wywiadach laureat Literackiej Nagrody Nobla nie raz krytykował rządy Viktora Orbana. Premier tymczasem niedawno cytował jego powieść, by podkreślić pozytywne, jego zdaniem, zmiany na Węgrzech."
     }
   ]
 }
