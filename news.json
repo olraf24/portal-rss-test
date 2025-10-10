@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-10T16:07:04.859Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-10T16:38:56.322Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ta opłata pójdzie w górę. Jest zapowiedź ministerstwa",
+      "link": "https://tvn24.pl/biznes/z-kraju/ta-oplata-pojdzie-w-gore-jest-zapowiedz-ministerstwa-st8693661?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 16:09:46 GMT",
+      "description": "Ministerstwo Finansów szykuje wzrost tak zwanej opłaty cukrowej – wynika z informacji opublikowanej na stronie kancelarii premiera. W planach jest też podwyżka podatku od wygranej i akcyzy na alkohol.",
+      "originalTitle": "Ta opłata pójdzie w górę. Jest zapowiedź ministerstwa",
+      "originalDescription": "Ministerstwo Finansów szykuje wzrost tak zwanej opłaty cukrowej – wynika z informacji opublikowanej na stronie kancelarii premiera. W planach jest też podwyżka podatku od wygranej i akcyzy na alkohol."
+    },
+    {
+      "title": "Kraj nawiedzał cyklon, niektórzy jeździli na kawę",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/australia-kraj-nawiedzal-cyklon-niektorzy-jezdzili-na-kawe-st8693735?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:46:34 GMT",
+      "description": "Jak jeździmy podczas trudnych warunków pogodowych? Australijski naukowiec postanowił to sprawdzić. Wyniki jego badania pokazują, że wiele osób zachowuje rozsądek, ale niektórzy narażają zdrowie i życie z dość błahych powodów.",
+      "originalTitle": "Kraj nawiedzał cyklon, niektórzy jeździli na kawę",
+      "originalDescription": "Jak jeździmy podczas trudnych warunków pogodowych? Australijski naukowiec postanowił to sprawdzić. Wyniki jego badania pokazują, że wiele osób zachowuje rozsądek, ale niektórzy narażają zdrowie i życie z dość błahych powodów."
+    },
+    {
+      "title": "Mistrz i rekordzista o chorobie. \"Tam na dole przerw nie ma\"",
+      "link": "https://tvn24.pl/polska/marek-plawgo-o-chorobie-tam-na-dole-przerw-nie-ma-st8693460?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:41:38 GMT",
+      "description": "Niezniszczalny. Wszechmocny. Tak o sobie myślał, kiedy błyszczał na lekkoatletycznych stadionach, raz za razem stając na podium. Potem? Runęło wszystko, równia pochyła, droga do piekła. - Dzięki leczeniu wiem, jak się zachowywać w określonych sytuacjach, co robić, żeby stres nie był ogonem, który merda psem - mówi Marek Plawgo. 10 października to Światowy Dzień Zdrowia Psychicznego.",
+      "originalTitle": "Mistrz i rekordzista o chorobie. \"Tam na dole przerw nie ma\"",
+      "originalDescription": "Niezniszczalny. Wszechmocny. Tak o sobie myślał, kiedy błyszczał na lekkoatletycznych stadionach, raz za razem stając na podium. Potem? Runęło wszystko, równia pochyła, droga do piekła. - Dzięki leczeniu wiem, jak się zachowywać w określonych sytuacjach, co robić, żeby stres nie był ogonem, który merda psem - mówi Marek Plawgo. 10 października to Światowy Dzień Zdrowia Psychicznego."
+    },
+    {
+      "title": "\"O mój Boże\". Tego telefonu się nie spodziewała. Zobacz i posłuchaj",
+      "link": "https://tvn24.pl/swiat/pokojowa-nagroda-nobla-tak-maria-corina-machado-zareagowala-na-telefon-z-instytutu-noblowskiego-st8693742?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:39:58 GMT",
+      "description": "Liderka demokratycznej opozycji w Wenezueli Maria Corina Machado została Laureatką Pokojowej Nagrody Nobla w 2025 roku. Dyrektor Norweskiego Instytutu Noblowskiego Kristian Berg Harpviken zadzwonił do niej o piątej rano, by ją o tym powiadomić. Opublikowano nagranie tej rozmowy. Reakcja noblistki była wzruszająca.",
+      "originalTitle": "\"O mój Boże\". Tego telefonu się nie spodziewała. Zobacz i posłuchaj",
+      "originalDescription": "Liderka demokratycznej opozycji w Wenezueli Maria Corina Machado została Laureatką Pokojowej Nagrody Nobla w 2025 roku. Dyrektor Norweskiego Instytutu Noblowskiego Kristian Berg Harpviken zadzwonił do niej o piątej rano, by ją o tym powiadomić. Opublikowano nagranie tej rozmowy. Reakcja noblistki była wzruszająca."
+    },
+    {
+      "title": "2400 złotych plus do rachunku. Zmiana przepisów uderzy po kieszeni",
+      "link": "https://tvn24.pl/biznes/pieniadze/ets2-ogrzewanie-gazowe-olej-opalowy-nawet-2400-zlotych-plus-do-rachunku-wyliczenia-st8693655?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:29:43 GMT",
+      "description": "Roczny rachunek za ogrzewanie gazowe po wdrożeniu ETS2 może wzrosnąć o 141 do 257 euro (600-1100 złotych) w zależności od rynkowej ceny emisji CO2 - wynika z analizy JP Morgan. W przypadku ogrzewania piecem olejowym koszty rosną o dodatkowe 311-566 euro (1300-2400 złotych). Do tego należy doliczyć wzrost kosztów tankowania, sięgający nawet 164 euro rocznie (700 złotych).",
+      "originalTitle": "2400 złotych plus do rachunku. Zmiana przepisów uderzy po kieszeni",
+      "originalDescription": "Roczny rachunek za ogrzewanie gazowe po wdrożeniu ETS2 może wzrosnąć o 141 do 257 euro (600-1100 złotych) w zależności od rynkowej ceny emisji CO2 - wynika z analizy JP Morgan. W przypadku ogrzewania piecem olejowym koszty rosną o dodatkowe 311-566 euro (1300-2400 złotych). Do tego należy doliczyć wzrost kosztów tankowania, sięgający nawet 164 euro rocznie (700 złotych)."
+    },
+    {
+      "title": "\"Trzęsie i warunki są trochę spartańskie, ale to jest naprawdę fantastyczne\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-chopinowski-tramwaj-kursuje-po-stolicy-st8693745?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:28:14 GMT",
+      "description": "Jeszcze przez cały kolejny tydzień po Warszawie kursować będzie specjalny tramwaj z pianinem i muzykami grającymi utwory Chopina. Jechaliśmy tym pojazdem z kamerą. - Jak rano wstawałem z łóżka, zastanawiałem się, czy warto tutaj przyjść, ale zdecydowanie warto i polecam każdemu - mówi reporterowi TVN24 jeden z pasażerów.",
+      "originalTitle": "\"Trzęsie i warunki są trochę spartańskie, ale to jest naprawdę fantastyczne\"",
+      "originalDescription": "Jeszcze przez cały kolejny tydzień po Warszawie kursować będzie specjalny tramwaj z pianinem i muzykami grającymi utwory Chopina. Jechaliśmy tym pojazdem z kamerą. - Jak rano wstawałem z łóżka, zastanawiałem się, czy warto tutaj przyjść, ale zdecydowanie warto i polecam każdemu - mówi reporterowi TVN24 jeden z pasażerów."
+    },
+    {
+      "title": "Były wiceminister stanie przed sądem. Chodzi o wyjazd na wakacje służbowym autem",
+      "link": "https://tvn24.pl/wroclaw/bartlomiej-ciazynski-z-lewicy-byly-wiceminister-sprawiedliwosci-stanie-przed-sadem-chodzi-o-wyjazd-na-wakacje-sluzbowym-autem-st8693747?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:27:23 GMT",
+      "description": "Samorządowiec i polityk Lewicy Bartłomiej Ciążyński jest oskarżony o to, że jako funkcjonariusz publiczny pojechał służbową limuzyną na zagraniczne wakacje. Tłumaczył się, że jest mu wstyd, oddał pieniądze i chciał sprawę umorzyć. Sąd postanowił inaczej.",
+      "originalTitle": "Były wiceminister stanie przed sądem. Chodzi o wyjazd na wakacje służbowym autem",
+      "originalDescription": "Samorządowiec i polityk Lewicy Bartłomiej Ciążyński jest oskarżony o to, że jako funkcjonariusz publiczny pojechał służbową limuzyną na zagraniczne wakacje. Tłumaczył się, że jest mu wstyd, oddał pieniądze i chciał sprawę umorzyć. Sąd postanowił inaczej."
+    },
+    {
+      "title": "\"Polska wykluczona z Jedwabnego Szlaku\"? Kto rysuje te kreski na mapie",
+      "link": "https://konkret24.tvn24.pl/swiat/polska-wykluczona-z-jedwabnego-szlaku-kto-rysuje-te-kreski-na-mapie-st8692509?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:19:56 GMT",
+      "description": "Mimo że Polska otwarła już przejścia graniczne z Białorusią, to Chiny wykluczyły ją z kolejowego Jedwabnego Szlaku - twierdzą internauci, którzy obejrzeli krążące w sieci nagranie. Film jest spreparowaną fałszywką, w którą uwierzą osoby nie rozumiejące, czym naprawdę jest obecnie Jedwabny Szlak.",
+      "originalTitle": "\"Polska wykluczona z Jedwabnego Szlaku\"? Kto rysuje te kreski na mapie",
+      "originalDescription": "Mimo że Polska otwarła już przejścia graniczne z Białorusią, to Chiny wykluczyły ją z kolejowego Jedwabnego Szlaku - twierdzą internauci, którzy obejrzeli krążące w sieci nagranie. Film jest spreparowaną fałszywką, w którą uwierzą osoby nie rozumiejące, czym naprawdę jest obecnie Jedwabny Szlak."
+    },
+    {
+      "title": "Problem z diagnozowaniem FASD wciąż nierozwiązany. \"Dostęp jest praktycznie niemożliwy\"",
+      "link": "https://tvn24.pl/zdrowie/problem-z-diagnozowaniem-fasd-wciaz-nierozwiazany-dostep-jest-praktycznie-niemozliwy-st8692889?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 15:06:51 GMT",
+      "description": "Diagnoz jest zbyt mało w stosunku do potrzeb. Tak o jednym z najważniejszych problemów związanych z pomocą dzieciom z zespołami płodowych zaburzeń alkoholowych mówi w reportażu \"Mamo, dlaczego piłaś? W TVN24+\" Małgorzata Klecka, założycielka i prezeska organizacji FAStryga. W ramach umowy z NFZ takie diagnozy stawia tylko jeden szpital w Polsce. W Sejmie pojawiały się apele o utworzenie przynajmniej jednego takiego ośrodka w każdym województwie. Resort zdrowia takiej potrzeby jednak nie widzi. - Ten system, jaki jest w tej chwili, działa - ocenia rzecznik Ministerstwa Zdrowia.",
+      "originalTitle": "Problem z diagnozowaniem FASD wciąż nierozwiązany. \"Dostęp jest praktycznie niemożliwy\"",
+      "originalDescription": "Diagnoz jest zbyt mało w stosunku do potrzeb. Tak o jednym z najważniejszych problemów związanych z pomocą dzieciom z zespołami płodowych zaburzeń alkoholowych mówi w reportażu \"Mamo, dlaczego piłaś? W TVN24+\" Małgorzata Klecka, założycielka i prezeska organizacji FAStryga. W ramach umowy z NFZ takie diagnozy stawia tylko jeden szpital w Polsce. W Sejmie pojawiały się apele o utworzenie przynajmniej jednego takiego ośrodka w każdym województwie. Resort zdrowia takiej potrzeby jednak nie widzi. - Ten system, jaki jest w tej chwili, działa - ocenia rzecznik Ministerstwa Zdrowia."
+    },
+    {
+      "title": "Zoo ma nową mieszkankę. \"Najbardziej zagrożony wyginięciem gatunek ssaków drapieżnych\"",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawskie-zoo-ma-nowa-mieszkanke-st8693668?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 14:56:02 GMT",
+      "description": "W warszawskim zoo zamieszkała samica lamparta amurskiego o imieniu Auckley. Jest to gatunek jeden z najbardziej zagrożonych wyginięciem. Zwierzę przybyło do stołecznego ogrodu zoologicznego z Wielkiej Brytanii.",
+      "originalTitle": "Zoo ma nową mieszkankę. \"Najbardziej zagrożony wyginięciem gatunek ssaków drapieżnych\"",
+      "originalDescription": "W warszawskim zoo zamieszkała samica lamparta amurskiego o imieniu Auckley. Jest to gatunek jeden z najbardziej zagrożonych wyginięciem. Zwierzę przybyło do stołecznego ogrodu zoologicznego z Wielkiej Brytanii."
+    }
+  ]
 }
