@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-11T06:06:40.660Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-11T06:39:14.468Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kim Dzong Un pokazał nową broń. \"Wyraźnie ostrzeżenie\"",
+      "link": "https://tvn24.pl/najnowsze/kim-dzong-un-pokazal-nowa-bron-wyraznie-ostrzezenie-st8694207?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 06:31:39 GMT",
+      "description": "Armia Korei Północnej pokazała nowe pociski jądrowe, określane przez tamtejszą agencję KCNA jako \"najpotężniejszy nuklearny strategiczny system uzbrojenia\". W uroczystości wzięli udział także przedstawiciele Chin, Rosji i Wietnamu. Ekspert Uniwersytetu Harvarda mówi o \"wyraźnym ostrzeżeniu\" dla sojuszu Seulu z Waszyngtonem.",
+      "originalTitle": "Kim Dzong Un pokazał nową broń. \"Wyraźnie ostrzeżenie\"",
+      "originalDescription": "Armia Korei Północnej pokazała nowe pociski jądrowe, określane przez tamtejszą agencję KCNA jako \"najpotężniejszy nuklearny strategiczny system uzbrojenia\". W uroczystości wzięli udział także przedstawiciele Chin, Rosji i Wietnamu. Ekspert Uniwersytetu Harvarda mówi o \"wyraźnym ostrzeżeniu\" dla sojuszu Seulu z Waszyngtonem."
+    },
+    {
+      "title": "Woda ciskała pojazdami o domy. Nie żyje 29 osób",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/meksyk-wody-porywaly-pojazdy-mieszkancy-uciekali-na-dachy-sa-ofiary-smiertelne-st8694190?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 06:27:54 GMT",
+      "description": "29 osób zginęło na skutek powodzi i osuwisk w Meksyku. Ulewne opady sparaliżowały transport w czterech stanach na wschodzie kraju, a w stolicy stanęło metro. W mieście Poza Rica mieszkańcy musieli uciekać na dachy najwyższych budynków po tym, jak przez ulice przetoczyła się ogromna fala powodziowa.",
+      "originalTitle": "Woda ciskała pojazdami o domy. Nie żyje 29 osób",
+      "originalDescription": "29 osób zginęło na skutek powodzi i osuwisk w Meksyku. Ulewne opady sparaliżowały transport w czterech stanach na wschodzie kraju, a w stolicy stanęło metro. W mieście Poza Rica mieszkańcy musieli uciekać na dachy najwyższych budynków po tym, jak przez ulice przetoczyła się ogromna fala powodziowa."
+    },
+    {
+      "title": "Badanie na 90 tysiącach pracowników. \"Pokazuje prawdę, o której lekarze i pielęgniarki mówią od lat\"",
+      "link": "https://tvn24.pl/polska/badanie-na-90-tysiacach-pracownikow-pokazuje-prawde-o-ktorej-lekarze-i-pielegniarki-mowia-od-lat-st8694174?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 06:12:45 GMT",
+      "description": "Światowa Organizacja Zdrowia opublikowała raport, według którego jedna trzecia lekarzy i pielęgniarek w Europie deklaruje depresję, a na Litwie i w Polsce blisko 50 procent. Zdaniem prezesa Naczelnej Rady Lekarskiej Łukasza Jankowskiego, system, który miał chronić zdrowie, staje się dla swoich pracowników źródłem cierpienia.",
+      "originalTitle": "Badanie na 90 tysiącach pracowników. \"Pokazuje prawdę, o której lekarze i pielęgniarki mówią od lat\"",
+      "originalDescription": "Światowa Organizacja Zdrowia opublikowała raport, według którego jedna trzecia lekarzy i pielęgniarek w Europie deklaruje depresję, a na Litwie i w Polsce blisko 50 procent. Zdaniem prezesa Naczelnej Rady Lekarskiej Łukasza Jankowskiego, system, który miał chronić zdrowie, staje się dla swoich pracowników źródłem cierpienia."
+    },
+    {
+      "title": "Kilkanaście nowych myśliwców i inwestycje warte miliardy euro",
+      "link": "https://tvn24.pl/swiat/dania-rzad-zapowiedzial-kupno-16-dodatkowych-mysliwcow-f-35-oraz-inwestycje-obronne-na-grenlandii-st8694175?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 06:00:23 GMT",
+      "description": "Rząd w Kopenhadze ogłosił zakup dodatkowych 16 myśliwców F-35. Duńskie władze, po osiągnięciu porozumienia z opozycją, zapowiadają również kolejne inwestycje w obronność na Grenlandii.",
+      "originalTitle": "Kilkanaście nowych myśliwców i inwestycje warte miliardy euro",
+      "originalDescription": "Rząd w Kopenhadze ogłosił zakup dodatkowych 16 myśliwców F-35. Duńskie władze, po osiągnięciu porozumienia z opozycją, zapowiadają również kolejne inwestycje w obronność na Grenlandii."
+    },
+    {
+      "title": "Potężne wstrząsy na granicy kontynentów. Wydano czerwony alert",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chile-potezne-wstrzasy-na-granicy-kontynentow-wydano-czerwony-alert-st8694187?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 04:58:55 GMT",
+      "description": "Potężne trzęsienie ziemi zarejestrowano na morzu między Ameryką Południową a Antarktydą. Wstrząsy o magnitudzie 7,6 doprowadziły do wydania czerwonego alertu przed możliwym tsunami dla południowego Chile. Po kilku godzinach ostrzeżenie zostało odwołane.",
+      "originalTitle": "Potężne wstrząsy na granicy kontynentów. Wydano czerwony alert",
+      "originalDescription": "Potężne trzęsienie ziemi zarejestrowano na morzu między Ameryką Południową a Antarktydą. Wstrząsy o magnitudzie 7,6 doprowadziły do wydania czerwonego alertu przed możliwym tsunami dla południowego Chile. Po kilku godzinach ostrzeżenie zostało odwołane."
+    },
+    {
+      "title": "Wybuchy w fabryce amunicji. Zabici i zaginieni",
+      "link": "https://tvn24.pl/swiat/usa-potezna-eksplozja-w-fabryce-amunicji-w-tennessee-kilka-osob-zginelo-st8693967?source=rss",
+      "pubDate": "Fri, 10 Oct 2025 17:46:39 GMT",
+      "description": "W fabryce amunicji w stanie Tennessee w USA doszło w piątek do wielkiej eksplozji. Według szeryfa hrabstwa Humphreys Chrisa Davisa, 19 osób wciąż jest zaginionych. Siła wybuchu była tak wielka, że zniszczony został cały budynek, a fale uderzeniowe odczuwalne były nawet w promieniu około 25 kilometrów.",
+      "originalTitle": "Wybuchy w fabryce amunicji. Zabici i zaginieni",
+      "originalDescription": "W fabryce amunicji w stanie Tennessee w USA doszło w piątek do wielkiej eksplozji. Według szeryfa hrabstwa Humphreys Chrisa Davisa, 19 osób wciąż jest zaginionych. Siła wybuchu była tak wielka, że zniszczony został cały budynek, a fale uderzeniowe odczuwalne były nawet w promieniu około 25 kilometrów."
+    },
+    {
+      "title": "Ostatni raz zdarzyło się to 10 lat temu. Wyjątkowy dzień w Wenecji",
+      "link": "https://tvn24.pl/swiat/wlochy-w-szpitalu-w-wenecji-urodzilo-sie-jednego-dnia-szescioro-dzieci-ostatni-raz-mialo-to-miejsce-10-lat-temu-st8694183?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 04:42:20 GMT",
+      "description": "Jednego dnia w szpitalu w Wenecji urodziło się sześcioro dzieci - przekazały lokalne media. Włoskie miasto od lat zmaga się ze spadkiem liczby mieszkańców. To pierwsze takie wydarzenie od 10 lat.",
+      "originalTitle": "Ostatni raz zdarzyło się to 10 lat temu. Wyjątkowy dzień w Wenecji",
+      "originalDescription": "Jednego dnia w szpitalu w Wenecji urodziło się sześcioro dzieci - przekazały lokalne media. Włoskie miasto od lat zmaga się ze spadkiem liczby mieszkańców. To pierwsze takie wydarzenie od 10 lat."
+    },
+    {
+      "title": "Pszczoły pomogą wyleczyć ten nowotwór? \"Mają ogromny potencjał\"",
+      "link": "https://tvn24.pl/zdrowie/pszczoly-pomoga-w-leczeniu-raka-jezyka-obiecujace-wyniki-badan-st8693515?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 04:18:42 GMT",
+      "description": "Jad pszczeli w odpowiednich dawkach niszczy komórki raka języka, osłabia ich wzrost i hamuje rozsiew. Jednocześnie nie wpływa negatywnie na komórki zdrowe. Do takich wniosków doszedł zespół polskich badaczy, kierowany przez profesora Mirosława Szczepańskiego z Warszawskiego Uniwersytetu Medycznego. Do zastosowania jadu w leczeniu nowotworów droga wprawdzie daleka, ale naukowcy widzą w nim szansę. - Produkty pszczele mają ogromny potencjał - twierdzi profesor.",
+      "originalTitle": "Pszczoły pomogą wyleczyć ten nowotwór? \"Mają ogromny potencjał\"",
+      "originalDescription": "Jad pszczeli w odpowiednich dawkach niszczy komórki raka języka, osłabia ich wzrost i hamuje rozsiew. Jednocześnie nie wpływa negatywnie na komórki zdrowe. Do takich wniosków doszedł zespół polskich badaczy, kierowany przez profesora Mirosława Szczepańskiego z Warszawskiego Uniwersytetu Medycznego. Do zastosowania jadu w leczeniu nowotworów droga wprawdzie daleka, ale naukowcy widzą w nim szansę. - Produkty pszczele mają ogromny potencjał - twierdzi profesor."
+    },
+    {
+      "title": "To miała być prywatna wiadomość. Media o pomyłce Donalda Trumpa",
+      "link": "https://tvn24.pl/swiat/to-miala-byc-prywatna-wiadomosc-media-o-pomylce-donalda-trumpa-st8694180?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 04:11:53 GMT",
+      "description": "Prezydent USA miał naciskać na prokurator generalną o postawienie zarzutów jego politycznym przeciwnikom. Wpis Donalda Trumpa do Pam Bondi został opublikowany publicznie. NBC News ujawnia, że \"miał być prywatną wiadomością\".",
+      "originalTitle": "To miała być prywatna wiadomość. Media o pomyłce Donalda Trumpa",
+      "originalDescription": "Prezydent USA miał naciskać na prokurator generalną o postawienie zarzutów jego politycznym przeciwnikom. Wpis Donalda Trumpa do Pam Bondi został opublikowany publicznie. NBC News ujawnia, że \"miał być prywatną wiadomością\"."
+    },
+    {
+      "title": "Władimir Putin o nowej broni nuklearnej. \"Zawsze istnieje pokusa\"",
+      "link": "https://tvn24.pl/swiat/tadzykistan-wladimir-putin-rosja-rozwija-nowa-strategiczna-bron-nuklearna-st8694173?source=rss",
+      "pubDate": "Sat, 11 Oct 2025 03:43:02 GMT",
+      "description": "Rosja rozwija nową strategiczną broń nuklearną - powiedział rosyjski przywódca Władimir Putin na szczycie Azja Środkowa - Rosja w stolicy Tadżykistanu Duszanbe. Ocenił, że dla Moskwy nie będzie problemem, jeśli USA nie zgodzą się na przedłużenie traktatu nuklearnego New START.",
+      "originalTitle": "Władimir Putin o nowej broni nuklearnej. \"Zawsze istnieje pokusa\"",
+      "originalDescription": "Rosja rozwija nową strategiczną broń nuklearną - powiedział rosyjski przywódca Władimir Putin na szczycie Azja Środkowa - Rosja w stolicy Tadżykistanu Duszanbe. Ocenił, że dla Moskwy nie będzie problemem, jeśli USA nie zgodzą się na przedłużenie traktatu nuklearnego New START."
+    }
+  ]
 }
