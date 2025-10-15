@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-15T13:14:23.658Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-15T13:42:24.852Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zakończenie wsparcia systemu",
+      "link": "https://tvn24.pl/biznes/tech/microsoft-zakonczyl-wsparcie-dla-windows-10-co-powinni-zrobic-uzytkownicy-st8701238?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 13:31:53 GMT",
+      "description": "• Od 14 października 2025 roku firma Microsoft zakończyła darmowe wsparcie dla systemu Windows 10.\n• Komputery nadal będą działać pomimo zakończenia darmowego wsparcia.\n• Użytkownicy pozostający przy systemie Windows 10 narażą się na coraz większe ryzyko cyberataków.\n• Użytkownicy pozostający przy systemie Windows 10 narażą się na utratę danych.\n• Informacje o zakończeniu darmowego wsparcia podaje \"The Guardian\".",
+      "originalTitle": "Koniec wsparcia dla popularnego systemu. Co powinni zrobić użytkownicy?",
+      "originalDescription": "Od 14 października 2025 roku firma Microsoft zakończyła darmowe wsparcie dla systemu Windows 10. Choć komputery nadal będą działać, użytkownicy pozostający przy tym systemie narażą się na coraz większe ryzyko cyberataków i utraty danych - podaje \"The Guardian\"."
+    },
+    {
+      "title": "Nagroda Best Stream Audio Awards 2025 dla podcastu",
+      "link": "https://tvn24.pl/polska/podcast-polityczny-z-nagroda-best-stream-audio-awards-2025-st8701271?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 13:28:08 GMT",
+      "description": "• Podcast \"Podcast Polityczny\" zwyciężył w tegorocznej edycji Best Stream Audio Awards 2025.\n• Prowadzącymi podcast są Arleta Zalewska i Konrad Piasecki.\n• Podcast wygrał w kategorii \"premium/original\".\n• Podcast jest dostępny na platformie TVN24+.",
+      "originalTitle": "\"Podcast polityczny\" nagrodzony Best Stream Audio Awards 2025",
+      "originalDescription": "\"Podcast Polityczny\" Arlety Zalewskiej i Konrada Piaseckiego zwycięża w tegorocznej edycji Best Stream Audio Awards 2025. Podcast wygrał w kategorii \"premium/original\", a dostępny jest na TVN24+."
+    },
+    {
+      "title": "Polak ofiarował papieżowi konia arabskiego",
+      "link": "https://tvn24.pl/swiat/watykan-polak-podarowal-papiezowi-leonowi-konia-czystej-krwi-arabskiej-protona-st8701276?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 13:13:09 GMT",
+      "description": "• Papież Leon XIV otrzymał białego konia czystej krwi arabskiej.\n• Konia otrzymał ze stadniny w Kołobrzegu-Budzistowie.\n• Andrzej Michalski ofiarował konia Papieżowi.\n• Andrzej Michalski umówił się z Ojcem Świętym na wspólną jazdę konną.\n• Wspólna jazda konna ma się odbyć w Castel Gandolfo.",
+      "originalTitle": "Polak podarował papieżowi konia czystej krwi arabskiej",
+      "originalDescription": "Papież Leon XIV otrzymał białego konia czystej krwi arabskiej ze stadniny w Kołobrzegu-Budzistowie. Andrzej Michalski, który ofiarował konia, powiedział, że umówił się z Ojcem Świętym na wspólną jazdę konną w Castel Gandolfo."
+    },
+    {
+      "title": "Łososie uciekły z hodowli po burzy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/szkocja-dziesiatki-tysiecy-lososi-uciekly-z-hodowli-po-burzy-moga-byc-zagrozeniem-dla-swoich-dzikich-krewniakow-st8700773?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 13:02:07 GMT",
+      "description": "Po silnej burzy dziesiątki tysięcy łososi ze szkockich hodowli dostały się na otwarte wody. Może to stanowić problem dla lokalnej populacji gatunków ryb dziko żyjących.",
+      "originalTitle": "Łososie uciekły z hodowli po burzy. To nie wróży nic dobrego",
+      "originalDescription": "Po silnej burzy dziesiątki tysięcy łososi ze szkockich hodowli dostały się na otwarte wody. Może to stanowić problem dla lokalnej populacji gatunków ryb dziko żyjących."
+    },
+    {
+      "title": "Zygmunt Solorz odwołany",
+      "link": "https://tvn24.pl/biznes/z-kraju/zygmunt-solorz-i-justyna-kulka-odwolani-z-rady-nadzorczej-ze-pak-st8701235?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 12:59:54 GMT",
+      "description": "• W środę odbyło się nadzwyczajne walne zgromadzenie wspólników ZE PAK.\n• Podczas zgromadzenia odwołano Zygmunta Solorza z rady nadzorczej spółki.\n• Odwołano również Justynę Kulkę z rady nadzorczej spółki.\n• Decyzja ta spotkała się ze sprzeciwem przedstawicieli Radosława Kwaśnickiego.\n• Radosław Kwaśnicki jest akcjonariuszem spółki.\n• Radosław Kwaśnicki jest bliskim współpracownikiem Zygmunta Solorza.",
+      "originalTitle": "Zygmunt Solorz odwołany. Jest decyzja",
+      "originalDescription": "W środę nadzwyczajne walne zgromadzenie wspólników ZE PAK odwołało Zygmunta Solorza oraz Justynę Kulkę z rady nadzorczej spółki. Decyzja ta spotkała się ze sprzeciwem przedstawicieli Radosława Kwaśnickiego, akcjonariusza i bliskiego współpracownika Solorza."
+    },
+    {
+      "title": "Kobieta wygrała konkurs piękności po nagraniu wideo",
+      "link": "https://tvn24.pl/swiat/indie-postawila-sie-mezczyznie-probujacemu-przerwac-konkurs-i-zostala-miss-st8700212?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 12:49:41 GMT",
+      "description": "23-letnia Muskan Sharma wystartowała w wyborach Miss Rishikeshu. Na czołówki mediów trafiła jednak nie z tego powodu. Do sieci wyciekło nagranie, na którym kłóci się z mężczyzną, który wtargnął na próby dzień przed konkursem.",
+      "originalTitle": "Wygrała konkurs piękności, ale świat usłyszał o niej za sprawą wideo nagranego dzień wcześniej",
+      "originalDescription": "23-letnia Muskan Sharma wystartowała w wyborach Miss Rishikeshu. Na czołówki mediów trafiła jednak nie z tego powodu. Do sieci wyciekło nagranie, na którym kłóci się z mężczyzną, który wtargnął na próby dzień przed konkursem."
+    },
+    {
+      "title": "Kaczyński jednym słowem, Nawrocki o swoich obietnicach. Ocenili dwa lata koalicji",
+      "link": "https://tvn24.pl/polska/dwa-lata-koalicji-15-pazdziernika-jaroslaw-kaczynski-i-karol-nawrocki-oceniaja-rzad-st8700798?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 11:22:36 GMT",
+      "description": "Prezes PiS Jarosław Kaczyński w Sejmie jednym słowem odpowiedział na pytanie o to, jak ocenia rząd koalicji 15 października. Prezydent Karol Nawrocki skrytykował rząd za niezrealizowane obietnice wyborcze.",
+      "originalTitle": "Kaczyński jednym słowem, Nawrocki o swoich obietnicach. Ocenili dwa lata koalicji",
+      "originalDescription": "Prezes PiS Jarosław Kaczyński w Sejmie jednym słowem odpowiedział na pytanie o to, jak ocenia rząd koalicji 15 października. Prezydent Karol Nawrocki skrytykował rząd za niezrealizowane obietnice wyborcze."
+    },
+    {
+      "title": "Prokuratura o psach, które śmiertelnie pogryzły 46-latka i ich właścicielu",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-prokuratura-o-ustaleniach-ws-smierci-pogryzionego-46-latka-st8700861?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 12:34:45 GMT",
+      "description": "Prokuratura Okręgowa w Zielonej Górze zapowiada, że przyjrzy się temu, jak działała strzelnica w Raculi. Prawnym opiekunem trzech psów, które w niedzielę dotkliwie pogryzły 46-latka, jest właśnie właściciel tego obiektu. Prokurator Ewa Antonowicz potwierdziła, że mężczyzna jest byłym policjantem. - Dlatego postępowanie zostało przejęte przez prokuraturę okręgową, aby całkowicie wyeliminować ewentualne obawy co do obiektywizmu śledczych - powiedziała.",
+      "originalTitle": "Prokuratura o psach, które śmiertelnie pogryzły 46-latka i ich właścicielu",
+      "originalDescription": "Prokuratura Okręgowa w Zielonej Górze zapowiada, że przyjrzy się temu, jak działała strzelnica w Raculi. Prawnym opiekunem trzech psów, które w niedzielę dotkliwie pogryzły 46-latka, jest właśnie właściciel tego obiektu. Prokurator Ewa Antonowicz potwierdziła, że mężczyzna jest byłym policjantem. - Dlatego postępowanie zostało przejęte przez prokuraturę okręgową, aby całkowicie wyeliminować ewentualne obawy co do obiektywizmu śledczych - powiedziała."
+    },
+    {
+      "title": "Tendencje na rynku pracy",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/sygnal-ostrzegawczy-na-rynku-pracy-st8700829?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 12:29:05 GMT",
+      "description": "Znalezienie pracy staje się coraz trudniejsze - tak uważa ponad 40 procent uczestników badania \"Barometr Polskiego Rynku Pracy\" firmy Personnel Service. W porównaniu z sytuacją sprzed dwóch, trzech lat proces rekrutacji wydłużył się, szczególnie w opinii kobiet. Objawy ochłodzenia na rynku pracy potwierdzają również dane Głównego Urzędu Statystycznego.",
+      "originalTitle": "\"Sygnał ostrzegawczy\" na rynku pracy",
+      "originalDescription": "Znalezienie pracy staje się coraz trudniejsze - tak uważa ponad 40 procent uczestników badania \"Barometr Polskiego Rynku Pracy\" firmy Personnel Service. W porównaniu z sytuacją sprzed dwóch, trzech lat proces rekrutacji wydłużył się, szczególnie w opinii kobiet. Objawy ochłodzenia na rynku pracy potwierdzają również dane Głównego Urzędu Statystycznego."
+    },
+    {
+      "title": "Próbowano wodą gasić płonący olej, zginęło pięć osób. Decyzja prokuratury",
+      "link": "https://tvn24.pl/katowice/w-pozarze-zginelo-piec-osob-ruch-prokuratury-st8701175?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 12:27:37 GMT",
+      "description": "Śledczy z Prokuratury Rejonowej w Wodzisławiu Śląskim umorzyli śledztwo w sprawie pożaru budynku, do którego doszło w kwietniu w Pszowie. Zginęło w nim pięć osób. Pożar wybuchł po zapaleniu się oleju na kuchence i próbie gaszenia go wodą.",
+      "originalTitle": "Próbowano wodą gasić płonący olej, zginęło pięć osób. Decyzja prokuratury",
+      "originalDescription": "Śledczy z Prokuratury Rejonowej w Wodzisławiu Śląskim umorzyli śledztwo w sprawie pożaru budynku, do którego doszło w kwietniu w Pszowie. Zginęło w nim pięć osób. Pożar wybuchł po zapaleniu się oleju na kuchence i próbie gaszenia go wodą."
+    }
+  ]
 }
