@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-15T18:07:41.377Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-15T18:42:21.012Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wystąpienie przerwane, nawiązanie do Bąkiewicza",
+      "link": "https://tvn24.pl/lodz/piotrkow-trybunalski-emocje-na-spotkaniu-z-donaldem-tuskiem-wypowiedz-premiera-przerwala-aktywistka-st8701622?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 16:30:18 GMT",
+      "description": "W trakcie przemówienia Donalda Tuska w Piotrkowie Trybunalskim doszło do incydentu. Wystąpienie premiera przerwała grupa przebywająca tam z aktywistką klimatyczną Dominiką Lasotą. Doszło do słownego starcia z premierem. Niedługo później grupa miała szansę zadać Tuskowi pytania. - Usłyszałyśmy porównanie naszych emocji do emocji Bąkiewicza i jego ekipy. Tylko różnica jest taka, że my głosowałyśmy na pana koalicję - mówiła jedna z kobiet. Padły też słowa o rozczarowaniu rządem.",
+      "originalTitle": "Przerwane wystąpienie, nawiązanie do Bąkiewicza i pytanie: \"ile jeszcze mamy czekać?\"",
+      "originalDescription": "W trakcie przemówienia Donalda Tuska w Piotrkowie Trybunalskim doszło do incydentu. Wystąpienie premiera przerwała grupa przebywająca tam z aktywistką klimatyczną Dominiką Lasotą. Doszło do słownego starcia z premierem. Niedługo później grupa miała szansę zadać Tuskowi pytania. - Usłyszałyśmy porównanie naszych emocji do emocji Bąkiewicza i jego ekipy. Tylko różnica jest taka, że my głosowałyśmy na pana koalicję - mówiła jedna z kobiet. Padły też słowa o rozczarowaniu rządem."
+    },
+    {
+      "title": "Filmy Warner Bros. Discovery na EDUKINO",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-11-filmow-produkcji-warner-bros-discovery-zostanie-zaprezentowanych-na-festiwalu-edukino-st8701686?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 18:32:30 GMT",
+      "description": "Rusza 15. edycja EDUKINO Empowering Film Festival - Siła życia. Podczas festiwalu zaprezentowanych zostanie aż 11 tytułów autorstwa dziennikarzy i dziennikarek TVN24 oraz TVN. Niektóre już dziś można je zobaczyć w TVN24+.",
+      "originalTitle": "11 filmów produkcji Warner Bros. Discovery na festiwalu EDUKINO",
+      "originalDescription": "Rusza 15. edycja EDUKINO Empowering Film Festival - Siła życia. Podczas festiwalu zaprezentowanych zostanie aż 11 tytułów autorstwa dziennikarzy i dziennikarek TVN24 oraz TVN. Niektóre już dziś można je zobaczyć w TVN24+."
+    },
+    {
+      "title": "Elektryki zyskują na popularności, rozważane jest stopniowe wycofywanie przywilejów",
+      "link": "https://tvn24.pl/biznes/moto/norwegia-tu-kroluja-elektryki-czas-by-wycofywac-przywileje-st8701767?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 18:26:18 GMT",
+      "description": "• Norwegia szykuje zmiany w sprawie VAT od aut elektrycznych.\n• Nadszedł czas, by stopniowo wycofywać przywileje.\n• Minister finansów to Jens Stoltenberg.",
+      "originalTitle": "Tu królują elektryki. \"Nadszedł czas, by stopniowo wycofywać przywileje\"",
+      "originalDescription": "Norwegia szykuje zmiany w sprawie VAT od aut elektrycznych. - Nadszedł czas, by stopniowo wycofywać przywileje - stwierdził minister finansów Jens Stoltenberg."
+    },
+    {
+      "title": "Ustawa o związkach partnerskich",
+      "link": "https://tvn24.pl/polska/ustawa-o-zwiazkach-partnerskich-jakie-beda-w-niej-zapisy-ustalenia-reportera-faktow-tvn-michala-tracza-st8701531?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 18:07:58 GMT",
+      "description": "• Reporter \"Faktów\" TVN to Michał Tracz.\n• Michał Tracz dotarł do założeń ustawy dotyczącej związków partnerskich.\n• Umowa związku partnerskiego będzie zawierana przed notariuszem.\n• Partnerzy będą mogli po sobie dziedziczyć.\n• Partnerzy zyskają dostęp do zasiłku pogrzebowego.\n• Partnerzy będą mieli prawo do pochówku partnera.\n• Partnerzy będą mieli prawo do renty wdowiej.\n• Z ustawy usunięto zapisy dotyczące dzieci żyjących z parami jednopłciowymi.",
+      "originalTitle": "Co w ustawie o związkach partnerskich? Ustalenia \"Faktów\" TVN",
+      "originalDescription": "Reporter \"Faktów\" TVN Michał Tracz dotarł do założeń ustawy dotyczącej związków partnerskich. Według niej umowa zawierana będzie przed notariuszem. Partnerzy będą mogli po sobie dziedziczyć oraz zyskają dostęp do zasiłku pogrzebowego, prawo pochówku partnera i rentę wdowią. Z ustawy wyrzucono natomiast zapisy dotyczące dzieci żyjących z parami jednopłciowymi."
+    },
+    {
+      "title": "Pogoda na 16.10: deszcz i mgła",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-16-10-noc-pod-znakiem-deszczu-i-mgiel-st8701721?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 17:49:42 GMT",
+      "description": "• Pogoda opisana jest na dzień jutrzejszy, czyli na czwartek.\n• Data tego dnia to 16.10.\n• Noc zapowiada się pochmurno.\n• W większości kraju ma padać.\n• Nad ranem lokalnie będą snuć się mgły.\n• W dzień na termometrach zobaczymy maksymalnie 14 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - czwartek 16.10. Noc pod znakiem deszczu i mgieł",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek 16.10. Noc zapowiada się pochmurno, a w większości kraju ma padać. Nad ranem lokalnie będą snuć się mgły. W dzień na termometrach zobaczymy maksymalnie 14 stopni Celsjusza."
+    },
+    {
+      "title": "Rząd i opinia publiczna",
+      "link": "https://tvn24.pl/polska/realizacja-najwazniejszych-obietnic-wyborczych-rzadu-co-sadza-polacy-sondaz-dla-faktow-tvn-i-tvn24-st8701739?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 17:46:15 GMT",
+      "description": "Jak rząd wywiązuje się z najważniejszych obietnic z kampanii wyborczej? O to zapytano w sondażu pracowni Opinia24 dla \"Faktów\" TVN i TVN24.",
+      "originalTitle": "Rząd dowozi w najważniejszych kwestiach? Co sądzą Polacy",
+      "originalDescription": "Jak rząd wywiązuje się z najważniejszych obietnic z kampanii wyborczej? O to zapytano w sondażu pracowni Opinia24 dla \"Faktów\" TVN i TVN24."
+    },
+    {
+      "title": "MFW komentuje poziom długu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/miedzynarodowy-fundusz-walutowy-alarmuje-w-sprawie-dlugu-st8701573?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 17:37:41 GMT",
+      "description": "Prognozy wskazują, że globalny dług publiczny przekroczy do 2029 roku 100 procent PKB, co byłoby najwyższym poziomem od 1948 roku - ostrzegł w środę Międzynarodowy Fundusz Walutowy.",
+      "originalTitle": "Międzynarodowy Fundusz Walutowy alarmuje w sprawie długu",
+      "originalDescription": "Prognozy wskazują, że globalny dług publiczny przekroczy do 2029 roku 100 procent PKB, co byłoby najwyższym poziomem od 1948 roku - ostrzegł w środę Międzynarodowy Fundusz Walutowy."
+    },
+    {
+      "title": "Priorytety Polaków",
+      "link": "https://tvn24.pl/polska/co-jest-priorytetem-dla-obywateli-na-kolejne-dwa-lata-rzadu-sondaz-dla-faktow-tvn-i-tvn24-st8701693?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 17:21:01 GMT",
+      "description": "Respondenci sondażu Opinia24 dla \"Faktów\" TVN i TVN24 wskazali na główne priorytety dla obywateli na następne dwa lata. Pytani byli między innymi o to, jak istotna jest dla nich kwestia polityki migracyjnej czy aborcji. Ale nie tylko.",
+      "originalTitle": "Czego oczekują Polacy? Dwa wyraźne priorytety",
+      "originalDescription": "Respondenci sondażu Opinia24 dla \"Faktów\" TVN i TVN24 wskazali na główne priorytety dla obywateli na następne dwa lata. Pytani byli między innymi o to, jak istotna jest dla nich kwestia polityki migracyjnej czy aborcji. Ale nie tylko."
+    },
+    {
+      "title": "Osiem miejscowości bez wody pitnej. Mieszkańcy dostali alert RCB",
+      "link": "https://tvn24.pl/wroclaw/powiat-zabkowicki-osiem-miejscowosci-bez-pitnej-wody-wyslano-alert-rcb-st8701694?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 16:56:22 GMT",
+      "description": "Mieszkańcy powiatu ząbkowickiego (woj. dolnośląskie) otrzymali alert RCB z informacją o wodzie niezdatnej do spożycia. Komunikat dotyczy mieszkańców ośmiu miejscowości.",
+      "originalTitle": "Osiem miejscowości bez wody pitnej. Mieszkańcy dostali alert RCB",
+      "originalDescription": "Mieszkańcy powiatu ząbkowickiego (woj. dolnośląskie) otrzymali alert RCB z informacją o wodzie niezdatnej do spożycia. Komunikat dotyczy mieszkańców ośmiu miejscowości."
+    },
+    {
+      "title": "Z gruszki na taśmę. Tunele metra nabierają kształtów",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-prace-na-ostatnim-odcinku-drugiej-linii-metra-st8699476?source=rss",
+      "pubDate": "Wed, 15 Oct 2025 16:35:32 GMT",
+      "description": "Trwają prace przy tunelu ostatniego odcinka drugiej linii metra. Specjalistyczna maszyna pomaga w tworzeniu murków oporowych.",
+      "originalTitle": "Z gruszki na taśmę. Tunele metra nabierają kształtów",
+      "originalDescription": "Trwają prace przy tunelu ostatniego odcinka drugiej linii metra. Specjalistyczna maszyna pomaga w tworzeniu murków oporowych."
+    }
+  ]
 }
