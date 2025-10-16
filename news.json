@@ -1,10 +1,74 @@
 {
-  "lastUpdate": "2025-10-16T14:38:39.171Z",
+  "lastUpdate": "2025-10-16T15:06:36.745Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wyzwania na TikToku i bezpieczeństwo dzieci",
+      "title": "Zmiany w 800 plus a liczba uczniów z Ukrainy",
+      "link": "https://konkret24.tvn24.pl/polska/mniej-ukrainskich-uczniow-przez-zmiany-w-800-plus-podwojna-manipulacja-st8702495?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 15:00:26 GMT",
+      "description": "Były miejski radny z Poznania twierdzi, że przez ograniczenie prawa do świadczenia 800 plus dla cudzoziemców, ukraińskie dzieci przestają chodzić do polskich szkół. Jednak dwa fakty przeczą temu, by zmiana prawa już wpłynęła na ilość uczniów z Ukrainy.",
+      "originalTitle": "Mniej ukraińskich uczniów przez zmiany w 800 plus? Podwójna manipulacja",
+      "originalDescription": "Były miejski radny z Poznania twierdzi, że przez ograniczenie prawa do świadczenia 800 plus dla cudzoziemców, ukraińskie dzieci przestają chodzić do polskich szkół. Jednak dwa fakty przeczą temu, by zmiana prawa już wpłynęła na ilość uczniów z Ukrainy."
+    },
+    {
+      "title": "Umorzenie śledztwa w sprawie byłego prezydenta",
+      "link": "https://tvn24.pl/krakow/krakow-korupcja-w-urzedzie-miasta-umorzone-sledztwo-wobec-jacka-majchrowskiego-przed-sadem-stanie-elzbieta-k-st8626137?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 14:56:37 GMT",
+      "description": "• Koniec śledztwa w sprawie korupcji w krakowskim magistracie.\n• Prokuratura umorzyła postępowanie przeciwko byłemu prezydentowi Krakowa Jackowi Majchrowskiemu.\n• Polityk podejrzany był o przekroczenie uprawnień przy przyznaniu dotacji firmie należącej do rodziny jego byłej zastępczyni, Elżbiety K.\n• Wobec byłej wiceprezydent i kilku innych osób prokuratura skieruje do sądu akty oskarżenia.\n• Śledztwo dotyczyło byłego prezydenta Krakowa Jacka Majchrowskiego.\n• Była zastępczyni prezydenta to Elżbieta K.",
+      "originalTitle": "Umorzone śledztwo wobec byłego prezydenta. Przed sądem stanie ktoś inny",
+      "originalDescription": "Koniec śledztwa w sprawie korupcji w krakowskim magistracie. Prokuratura umorzyła postępowanie przeciwko byłemu prezydentowi Krakowa Jackowi Majchrowskiemu. Polityk podejrzany był o przekroczenie uprawnień przy przyznaniu dotacji firmie należącej do rodziny jego byłej zastępczyni, Elżbiety K. Jak ustaliliśmy nieoficjalnie, wobec byłej wiceprezydent i kilku innych osób prokuratura skieruje do sądu akty oskarżenia."
+    },
+    {
+      "title": "25-latek usłyszy zarzuty w sprawie zabójstwa trzech osób",
+      "link": "https://tvn24.pl/krakow/barcice-25-latek-w-prokuraturze-ma-uslyszec-zarzuty-po-potrojnym-zabojstwie-st8702802?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 11:00:21 GMT",
+      "description": "W czwartek po południu policja przetransportowała do gmachu Prokuratury Rejonowej w Nowym Sączu 25-latka podejrzewanego o potrójne zabójstwo. Wcześniej śledczy dostali wstępnie wyniki sekcji trzech osób, których ciała znaleziono w jednym z domów w Barcicach Górnych niedaleko Starego Sącza.",
+      "originalTitle": "Tragedia w Barcicach. 25-latek w prokuraturze. Ma usłyszeć zarzuty po potrójnym zabójstwie",
+      "originalDescription": "W czwartek po południu policja przetransportowała do gmachu Prokuratury Rejonowej w Nowym Sączu 25-latka podejrzewanego o potrójne zabójstwo. Wcześniej śledczy dostali wstępnie wyniki sekcji trzech osób, których ciała znaleziono w jednym z domów w Barcicach Górnych niedaleko Starego Sącza."
+    },
+    {
+      "title": "Pogoda. Wielki wir niżowy przyniesie deszcz ze śniegiem i śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-bedzie-zimno-wielki-wir-nizowy-przyniesie-deszcz-ze-sniegiem-i-snieg-st8702815?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 14:52:43 GMT",
+      "description": "W najbliższych dniach Polskę czeka zauważalne ochłodzenie. O ile w piątek w części kraju będzie nawet 14 stopni, o tyle w weekend słupki rtęci wskażą sporo mniej. Odczucie zimna pogłębi silny wiatr. Spodziewamy się też opadów - miejscami zimowych.",
+      "originalTitle": "Pogoda. Wielki wir niżowy przyniesie deszcz ze śniegiem i śnieg",
+      "originalDescription": "W najbliższych dniach Polskę czeka zauważalne ochłodzenie. O ile w piątek w części kraju będzie nawet 14 stopni, o tyle w weekend słupki rtęci wskażą sporo mniej. Odczucie zimna pogłębi silny wiatr. Spodziewamy się też opadów - miejscami zimowych."
+    },
+    {
+      "title": "Media: Trump ma rozmawiać z Putinem",
+      "link": "https://tvn24.pl/swiat/media-donald-trump-ma-rozmawiac-w-czwartek-z-wladimirem-putinem-st8703511?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 14:48:47 GMT",
+      "description": "Prezydent USA Donald Trump ma w czwartek rozmawiać telefonicznie z przywódcą Rosji Władimirem Putinem - podał portal Axios, powołując się na wtajemniczone źródło. Biały Dom dotąd nie potwierdził tej informacji. Trump wcześniej zapowiadał, że musi porozmawiać z Putinem, zanim zdecyduje się przekazać Ukrainie rakiety Tomahawk.",
+      "originalTitle": "Media: Trump ma rozmawiać z Putinem",
+      "originalDescription": "Prezydent USA Donald Trump ma w czwartek rozmawiać telefonicznie z przywódcą Rosji Władimirem Putinem - podał portal Axios, powołując się na wtajemniczone źródło. Biały Dom dotąd nie potwierdził tej informacji. Trump wcześniej zapowiadał, że musi porozmawiać z Putinem, zanim zdecyduje się przekazać Ukrainie rakiety Tomahawk."
+    },
+    {
+      "title": "200 milionów na budowę hali sportowej. Są kontrowersje",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-sa-pieniadze-na-budowe-hali-sportowej-na-skrze-st8701962?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 14:47:05 GMT",
+      "description": "Rada Warszawy zapisała 200 milionów złotych w prognozie finansowej miasta na budowę hali sportowej na Skrze. Obiekt przeznaczony na mecze koszykówki i siatkówki pomieści sześć tysięcy widzów. Inwestycja budzi sprzeciw części mieszkańców i władz dzielnicy.",
+      "originalTitle": "200 milionów na budowę hali sportowej. Są kontrowersje",
+      "originalDescription": "Rada Warszawy zapisała 200 milionów złotych w prognozie finansowej miasta na budowę hali sportowej na Skrze. Obiekt przeznaczony na mecze koszykówki i siatkówki pomieści sześć tysięcy widzów. Inwestycja budzi sprzeciw części mieszkańców i władz dzielnicy."
+    },
+    {
+      "title": "Spór o fabrykę aut. Władze postawiły ultimatum",
+      "link": "https://tvn24.pl/biznes/moto/spor-o-fabryke-aut-w-kanadzie-wladze-postawily-ultimatum-koncernowi-stellantis-st8703489?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 14:42:32 GMT",
+      "description": "Kanadyjski rząd zagroził podjęciem działań prawnych przeciwko globalnemu gigantowi motoryzacyjnemu Stellantis w związku z planami przeniesienia produkcji modelu Jeep Compass z Kanady do Stanów Zjednoczonych - podał w czwartek portal BBC.",
+      "originalTitle": "Spór o fabrykę aut. Władze postawiły ultimatum",
+      "originalDescription": "Kanadyjski rząd zagroził podjęciem działań prawnych przeciwko globalnemu gigantowi motoryzacyjnemu Stellantis w związku z planami przeniesienia produkcji modelu Jeep Compass z Kanady do Stanów Zjednoczonych - podał w czwartek portal BBC."
+    },
+    {
+      "title": "\"To uderza w autorytet służb\". Kierwiński apeluje do posłanki i wiceministry",
+      "link": "https://tvn24.pl/polska/marcin-kierwinski-apeluje-do-klaudii-jachiry-i-urszuli-zielinskiej-o-wycofanie-oskarzen-wobec-policjanta-to-sprawa-sprzed-lat-z-granicy-z-bialorusia-st8703364?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 14:36:48 GMT",
+      "description": "Szef MSWiA Marcin Kierwiński zaapelował do posłanki Klaudii Jachiry oraz wiceministry klimatu i środowiska Urszuli Zielińskiej o wycofanie oskarżenia przeciwko policjantowi, który w 2022 roku odmówił im wjazdu do strefy zamkniętej przy granicy z Białorusią. Według Kierwińskiego działał on \"zgodnie z prawem\", a oskarżenie \"uderza w autorytet służb mundurowych\".",
+      "originalTitle": "\"To uderza w autorytet służb\". Kierwiński apeluje do posłanki i wiceministry",
+      "originalDescription": "Szef MSWiA Marcin Kierwiński zaapelował do posłanki Klaudii Jachiry oraz wiceministry klimatu i środowiska Urszuli Zielińskiej o wycofanie oskarżenia przeciwko policjantowi, który w 2022 roku odmówił im wjazdu do strefy zamkniętej przy granicy z Białorusią. Według Kierwińskiego działał on \"zgodnie z prawem\", a oskarżenie \"uderza w autorytet służb mundurowych\"."
+    },
+    {
+      "title": "Wyzwania na TikToku niebezpieczne dla dzieci. Eksperci wyjaśniają",
       "link": "https://tvn24.pl/zdrowie/wyzwania-na-tiktoku-niebezpieczne-dla-dzieci-eksperci-wyjasniaja-st8701965?source=rss",
       "pubDate": "Thu, 16 Oct 2025 14:22:12 GMT",
       "description": "Nieustanne korzystanie z mediów społecznościowych może prowadzić u dzieci między innymi do depresji, ostrzegają psychiatrzy i działacze organizacji pozarządowych. - WHO i UNICEF alarmują, że rośnie liczba depresji, lęków i samookaleczeń u młodych. W Danii planowany jest zakaz mediów społecznościowych dla osób poniżej 15. roku życia. We Francji obowiązuje zakaz telefonów w szkołach - relacjonowała w Sejmie Anna Czarnowska, członkini Rady przy Marszałku Województwa Pomorskiego ds. Zdrowia Psychicznego Dzieci i Młodzieży.",
@@ -12,76 +76,12 @@
       "originalDescription": "Nieustanne korzystanie z mediów społecznościowych może prowadzić u dzieci między innymi do depresji, ostrzegają psychiatrzy i działacze organizacji pozarządowych. - WHO i UNICEF alarmują, że rośnie liczba depresji, lęków i samookaleczeń u młodych. W Danii planowany jest zakaz mediów społecznościowych dla osób poniżej 15. roku życia. We Francji obowiązuje zakaz telefonów w szkołach - relacjonowała w Sejmie Anna Czarnowska, członkini Rady przy Marszałku Województwa Pomorskiego ds. Zdrowia Psychicznego Dzieci i Młodzieży."
     },
     {
-      "title": "Remonty torów w dwóch dzielnicach",
+      "title": "Weekendowe remonty torów w dwóch dzielnicach. Objazdy i zmiany w ruchu",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-remonty-torow-w-dwoch-dzielnicach-objazdy-i-zmiany-w-ruchu-st8702628?source=rss",
       "pubDate": "Thu, 16 Oct 2025 14:16:47 GMT",
       "description": "W najbliższy weekend pracownicy Tramwajów Warszawskich będą prowadzić prace na torowiskach na ulicy Kijowskiej oraz w Alei \"Solidarności\". W związku z tym wprowadzone zostaną zmiany w kursowaniu tramwajów, a komunikację uzupełnią specjalne linie autobusowe",
       "originalTitle": "Weekendowe remonty torów w dwóch dzielnicach. Objazdy i zmiany w ruchu",
       "originalDescription": "W najbliższy weekend pracownicy Tramwajów Warszawskich będą prowadzić prace na torowiskach na ulicy Kijowskiej oraz w Alei \"Solidarności\". W związku z tym wprowadzone zostaną zmiany w kursowaniu tramwajów, a komunikację uzupełnią specjalne linie autobusowe"
-    },
-    {
-      "title": "13 miejscowości z niedostateczną jakością wody",
-      "link": "https://tvn24.pl/wroclaw/gmina-przeworno-13-miejscowosci-bez-biezacej-czystej-wody-st8703480?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 14:16:45 GMT",
-      "description": "• Urząd Gminy Przeworno poinformował o problemie z wodą.\n• Problem dotyczy trzynastu miejscowości.\n• Miejscowości te znajdują się w województwie Dolnośląskim.\n• Powodem problemu są wykryte w wodociągu bakterie coli.\n• Woda w tych miejscowościach nie nadaje się do picia.",
-      "originalTitle": "13 miejscowości bez wody zdatnej do picia",
-      "originalDescription": "Urząd Gminy Przeworno (Dolnośląskie) poinformował, że woda w trzynastu miejscowościach nie nadaje się do picia. Powodem są wykryte w wodociągu bakterie coli."
-    },
-    {
-      "title": "Dziennikarze dostali \"tajne wojskowe dokumenty\". \"Wygląda na prowokację\"",
-      "link": "https://tvn24.pl/polska/dziennikarze-dostali-tajne-wojskowe-dokumenty-wyglada-na-prowokacje-st8703188?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:52:49 GMT",
-      "description": "Żandarmeria Wojskowa prowadzi postępowanie o możliwości popełnienia przestępstwa w sprawie dokumentów dostarczonych do redakcji Onetu. Miały one zostać znalezione na wysypisku śmieci. Dziennikarze opisali, że to \"tajne wojskowe dokumenty\". Źródło zbliżone do MON mówi o prowokacji.",
-      "originalTitle": "Dziennikarze dostali \"tajne wojskowe dokumenty\". \"Wygląda na prowokację\"",
-      "originalDescription": "Żandarmeria Wojskowa prowadzi postępowanie o możliwości popełnienia przestępstwa w sprawie dokumentów dostarczonych do redakcji Onetu. Miały one zostać znalezione na wysypisku śmieci. Dziennikarze opisali, że to \"tajne wojskowe dokumenty\". Źródło zbliżone do MON mówi o prowokacji."
-    },
-    {
-      "title": "Cesarskie cięcie może prowadzić do zaburzeń snu? Naukowcy sprawdzili",
-      "link": "https://tvn24.pl/zdrowie/cesarskie-ciecie-moze-prowadzic-do-zaburzen-snu-naukowcy-sprawdzili-st8702817?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:52:33 GMT",
-      "description": "Kobiety, które dochodzą do siebie po cesarskim cięciu, powinny zadbać o odpowiednie leczenie bólu, ponieważ ból nieleczony może pogorszyć jakość snu - stwierdzili badacze ze Stanford University Center for Academic Medicine w Palo Alto. W Polsce \"cesarki\" stanowią blisko 50 proc. wszystkich porodów. Co może pomóc w przypadku problemów ze snem?",
-      "originalTitle": "Cesarskie cięcie może prowadzić do zaburzeń snu? Naukowcy sprawdzili",
-      "originalDescription": "Kobiety, które dochodzą do siebie po cesarskim cięciu, powinny zadbać o odpowiednie leczenie bólu, ponieważ ból nieleczony może pogorszyć jakość snu - stwierdzili badacze ze Stanford University Center for Academic Medicine w Palo Alto. W Polsce \"cesarki\" stanowią blisko 50 proc. wszystkich porodów. Co może pomóc w przypadku problemów ze snem?"
-    },
-    {
-      "title": "Łuk triumfalny według Trumpa. \"Dlaczego jesteście zaskoczeni?\"",
-      "link": "https://tvn24.pl/swiat/usa-prezydent-donald-trump-chce-wybudowac-luk-triumfalny-w-waszyngtonie-st8703217?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:50:36 GMT",
-      "description": "Gdy jedzie się w stronę pomnika Lincolna, dosłownie czuć, że czegoś tam brakuje - mówił Donald Trump, prezentując makiety łuku triumfalnego, jaki chce wybudować w Waszyngtonie. Do tej pory o planach Trumpa mówiło się w kategorii spekulacji, lecz teraz prezydent USA sam się do nich odniósł.",
-      "originalTitle": "Łuk triumfalny według Trumpa. \"Dlaczego jesteście zaskoczeni?\"",
-      "originalDescription": "Gdy jedzie się w stronę pomnika Lincolna, dosłownie czuć, że czegoś tam brakuje - mówił Donald Trump, prezentując makiety łuku triumfalnego, jaki chce wybudować w Waszyngtonie. Do tej pory o planach Trumpa mówiło się w kategorii spekulacji, lecz teraz prezydent USA sam się do nich odniósł."
-    },
-    {
-      "title": "Nauczyciel dotykał i podglądał dziewczynki. Usłyszał wyrok",
-      "link": "https://tvn24.pl/rzeszow/sanok-krosno-nauczyciel-i-trener-podgladal-i-dotykal-dziewczynki-sad-skazal-go-na-wiezienie-st8702093?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:49:44 GMT",
-      "description": "Sąd skazał nauczyciela wychowania fizycznego i trenera lekkoatletyki Ryszarda D. z Sanoka na cztery lata więzienia za doprowadzenie małoletnich poniżej 15. roku życia do poddania się czynnościom o charakterze seksualnym oraz utrwalanie wizerunku nagich dziewczynek. Oskarżony ma również dziesięcioletni zakaz pracy z dziećmi i młodzieżą.",
-      "originalTitle": "Nauczyciel dotykał i podglądał dziewczynki. Usłyszał wyrok",
-      "originalDescription": "Sąd skazał nauczyciela wychowania fizycznego i trenera lekkoatletyki Ryszarda D. z Sanoka na cztery lata więzienia za doprowadzenie małoletnich poniżej 15. roku życia do poddania się czynnościom o charakterze seksualnym oraz utrwalanie wizerunku nagich dziewczynek. Oskarżony ma również dziesięcioletni zakaz pracy z dziećmi i młodzieżą."
-    },
-    {
-      "title": "Malezja. Wiało tak mocno, że motocykliści tracili równowagę",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/malezja-silna-burza-wialo-tak-mocno-ze-motocyklisci-tracili-rownowage-st8703261?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:48:22 GMT",
-      "description": "W czwartek Malezję nawiedziła silna burza. Żywioł uszkodził wiele budynków, w tym dach szkoły. Były także osoby ranne.",
-      "originalTitle": "Malezja. Wiało tak mocno, że motocykliści tracili równowagę",
-      "originalDescription": "W czwartek Malezję nawiedziła silna burza. Żywioł uszkodził wiele budynków, w tym dach szkoły. Były także osoby ranne."
-    },
-    {
-      "title": "Ta ruina to \"dwór rodzinny Chopina\"? Oto jego historia",
-      "link": "https://konkret24.tvn24.pl/polska/ta-ruina-to-dwor-rodzinny-chopina-oto-jego-historia-st8699904?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:35:06 GMT",
-      "description": "Zdjęcia zrujnowanego dworu mającego być rzekomo domem rodzinnym Fryderyka Chopina wywołały w sieci burzę komentarzy. Tylko że rozpowszechniane są z błędnym opisem.",
-      "originalTitle": "Ta ruina to \"dwór rodzinny Chopina\"? Oto jego historia",
-      "originalDescription": "Zdjęcia zrujnowanego dworu mającego być rzekomo domem rodzinnym Fryderyka Chopina wywołały w sieci burzę komentarzy. Tylko że rozpowszechniane są z błędnym opisem."
-    },
-    {
-      "title": "Jest akt oskarżenia przeciwko Kamińskiemu i Wąsikowi",
-      "link": "https://tvn24.pl/polska/jest-akt-oskarzenia-przeciwko-kaminskiemu-i-wasikowi-st8703371?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 13:22:02 GMT",
-      "description": "Stołeczna prokuratura okręgowa skierowała w czwartek do Sądu Rejonowego dla Warszawy - Śródmieścia akt oskarżenia przeciwko Mariuszowi Kamińskiemu i Maciejowi Wąsikowi - poinformował rzecznik Prokuratury Okręgowej w Warszawie Piotr Antoni Skiba.",
-      "originalTitle": "Jest akt oskarżenia przeciwko Kamińskiemu i Wąsikowi",
-      "originalDescription": "Stołeczna prokuratura okręgowa skierowała w czwartek do Sądu Rejonowego dla Warszawy - Śródmieścia akt oskarżenia przeciwko Mariuszowi Kamińskiemu i Maciejowi Wąsikowi - poinformował rzecznik Prokuratury Okręgowej w Warszawie Piotr Antoni Skiba."
     }
   ]
 }
