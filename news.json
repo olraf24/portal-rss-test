@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-10-16T05:06:44.413Z",
+  "lastUpdate": "2025-10-16T05:36:07.395Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Postępowanie w sprawie kradzieży e-papierosów",
+      "title": "Carrefour w Polsce: stanowisko firmy",
+      "link": "https://tvn24.pl/biznes/z-kraju/co-z-carrefourem-w-polsce-nie-komentujemy-plotek-st8702002?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 05:30:38 GMT",
+      "description": "• Ukraińska grupa handlowa Fozzy Group jest właścicielem sieci supermarketów Silpo.\n• Fozzy Group może odegrać rolę w procesie sprzedaży polskich aktywów Carrefour.\n• Informację o potencjalnej roli Fozzy Group w procesie sprzedaży polskich aktywów Carrefour podaje branżowy portal Wiadomości Handlowe.\n• Francuska sieć Carrefour nie komentuje plotek rynkowych w odpowiedzi na pytania tvn24.pl.",
+      "originalTitle": "Co z Carrefourem w Polsce? \"Nie komentujemy plotek\"",
+      "originalDescription": "Ukraińska grupa handlowa Fozzy Group, właściciel sieci supermarketów Silpo, może odegrać rolę w procesie sprzedaży polskich aktywów Carrefour - informuje branżowy portal Wiadomości Handlowe. \"Nie komentujemy plotek rynkowych\" - podkreśla francuska sieć w odpowiedzi na pytania tvn24.pl."
+    },
+    {
+      "title": "Miejsca odcięte od świata",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wiele-miejsc-odcietych-od-swiata-sytuacja-jest-okropna-st8702000?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 05:28:39 GMT",
+      "description": "• W centralnym i wschodnim Meksyku trwa walka ze skutkami katastrofalnej powodzi.\n• Powódź objęła aż pięć stanów Meksyku.\n• Zginęło co najmniej 66 osób.\n• 75 osób jest zaginionych.\n• Wiele regionów nadal jest odciętych od świata.\n• Mieszkańcy apelują o pomoc.",
+      "originalTitle": "Wiele miejsc odciętych od świata. \"Sytuacja jest okropna\"",
+      "originalDescription": "W centralnym i wschodnim Meksyku od wielu dni trwa walka ze skutkami katastrofalnej powodzi, która objęła aż pięć stanów tego kraju. Zginęło co najmniej 66 osób, a 75 jest zaginionych. Wiele regionów nadal jest odciętych od świata, a mieszkańcy apelują o pomoc."
+    },
+    {
+      "title": "Sąd uchylił decyzję o ekstradycji w sprawie ataku na Nord Stream",
+      "link": "https://tvn24.pl/swiat/wlochy-sad-najwyzszy-zablokowal-przekazanie-niemcom-ukrainca-podejrzanego-o-atak-na-nord-stream-st8701971?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 05:21:52 GMT",
+      "description": "• Postanowienie sądu o przekazaniu Niemcom Ukraińca Serhija K. zostało uchylone przez włoski Sąd Najwyższy.\n• Serhij K. jest podejrzany o atak na gazociąg Nord Stream.\n• Sprawa została skierowana do ponownego rozpatrzenia.",
+      "originalTitle": "Chcą go osądzić za atak na Nord Stream. Ale sąd uchylił decyzję o ekstradycji",
+      "originalDescription": "Postanowienie sądu o przekazaniu Niemcom Ukraińca Serhija K., podejrzanego o atak na gazociąg Nord Stream, zostało uchylone przez włoski Sąd Najwyższy. Sprawa została skierowana do ponownego rozpatrzenia."
+    },
+    {
+      "title": "Zakazać alkoholu w budynkach Sejmu? Sondaż",
+      "link": "https://tvn24.pl/polska/zakazac-alkoholu-w-budynkach-sejmu-sondaz-st8702007?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 05:13:55 GMT",
+      "description": "Zdecydowana większość Polaków uważa, że w budynkach Sejmu nie powinno być miejsca na sprzedaż alkoholu. Aż ośmiu na dziesięciu badanych chce całkowitego zakazu - wynika z najnowszego sondażu Opinia24 dla \"Faktów\" TVN i TVN24.",
+      "originalTitle": "Zakazać alkoholu w budynkach Sejmu? Sondaż",
+      "originalDescription": "Zdecydowana większość Polaków uważa, że w budynkach Sejmu nie powinno być miejsca na sprzedaż alkoholu. Aż ośmiu na dziesięciu badanych chce całkowitego zakazu - wynika z najnowszego sondażu Opinia24 dla \"Faktów\" TVN i TVN24."
+    },
+    {
+      "title": "Dzieci ze Strefy Gazy czekają na ewakuację. Ich sytuacja \"bardziej niż tragiczna\"",
+      "link": "https://tvn24.pl/swiat/dzieci-ze-strefy-gazy-czekaja-na-ewakuacje-ich-sytuacja-bardziej-niz-tragiczna-st8701985?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 05:12:56 GMT",
+      "description": "Liczba dzieci ze Strefy Gazy, które doznały amputacji kończyn jest przeolbrzymia i te dzieciaki są pozostawione samym sobie - powiedział w programie \"Dzień na świecie\" w TVN24 BiS ordynator w szpitalu w Trzebnicy dr n. med. Ahmed Elsaftawy. - Liczba dzieci, które nie doczekają ewakuacji, będzie coraz większa - obawia się Polak z Palestyny.",
+      "originalTitle": "Dzieci ze Strefy Gazy czekają na ewakuację. Ich sytuacja \"bardziej niż tragiczna\"",
+      "originalDescription": "Liczba dzieci ze Strefy Gazy, które doznały amputacji kończyn jest przeolbrzymia i te dzieciaki są pozostawione samym sobie - powiedział w programie \"Dzień na świecie\" w TVN24 BiS ordynator w szpitalu w Trzebnicy dr n. med. Ahmed Elsaftawy. - Liczba dzieci, które nie doczekają ewakuacji, będzie coraz większa - obawia się Polak z Palestyny."
+    },
+    {
+      "title": "Zarzuty po kradzieży e-papierosów",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-zarzuty-po-kradziezy-e-papierosow-st8701990?source=rss",
       "pubDate": "Thu, 16 Oct 2025 04:59:53 GMT",
-      "description": "• Zatrzymania miały miejsce po włamaniu do pawilonu z e-papierosami.\n• Włamanie miało miejsce w Piasecznie.\n• Jeden z mężczyzn usłyszał sześć zarzutów.\n• Mężczyzna został objęty policyjnym dozorem.",
+      "description": "Zatrzymania po włamaniu do pawilonu z e-papierosami w Piasecznie. Jeden z mężczyzn usłyszał sześć zarzutów i został objęty policyjnym dozorem.",
       "originalTitle": "Zarzuty po kradzieży e-papierosów",
       "originalDescription": "Zatrzymania po włamaniu do pawilonu z e-papierosami w Piasecznie. Jeden z mężczyzn usłyszał sześć zarzutów i został objęty policyjnym dozorem."
     },
     {
-      "title": "USA kupują walutę",
+      "title": "Donald Trump ratuje sojusznika. USA kupują walutę",
       "link": "https://tvn24.pl/biznes/ze-swiata/argentyna-donald-trump-pomaga-sojusznikowi-usa-kupuja-walute-st8702006?source=rss",
       "pubDate": "Thu, 16 Oct 2025 04:55:05 GMT",
-      "description": "• Stany Zjednoczone znów kupiły argentyńskie peso.\n• Amerykańskie władze współpracują z prywatnymi funduszami.\n• Celem współpracy jest stworzenie instrumentu o wartości 20 miliardów dolarów.\n• Instrument będzie inwestował w argentyński dług państwowy.\n��� O współpracy poinformował minister finansów USA Scott Bessent.",
+      "description": "Stany Zjednoczone znów kupiły argentyńskie peso. Amerykańskie władze współpracują z prywatnymi funduszami w celu stworzenia instrumentu o wartości 20 miliardów dolarów, który będzie inwestował w argentyński dług państwowy - przekazał minister finansów USA Scott Bessent.",
       "originalTitle": "Donald Trump ratuje sojusznika. USA kupują walutę",
       "originalDescription": "Stany Zjednoczone znów kupiły argentyńskie peso. Amerykańskie władze współpracują z prywatnymi funduszami w celu stworzenia instrumentu o wartości 20 miliardów dolarów, który będzie inwestował w argentyński dług państwowy - przekazał minister finansów USA Scott Bessent."
     },
     {
-      "title": "Ograniczenia podróży do Kambodży",
+      "title": "Seria uprowadzeń. Władze zakazały podróży do części Kambodży",
       "link": "https://tvn24.pl/swiat/korea-poludniowa-wladze-oglosily-zakaz-podrozy-do-czesci-kambodzy-w-zwiazku-z-uprowadzeniami-st8701963?source=rss",
       "pubDate": "Thu, 16 Oct 2025 04:45:32 GMT",
-      "description": "• Agencja Yonhap podała informację o wprowadzeniu zakazu podróży do części Kambodży.\n• Zakaz podróży został wprowadzony w związku z narastającym kryzysem dotyczącym porwań i zmuszania Koreańczyków do pracy.\n• Korea Południowa dąży do repatriacji swoich obywateli.\n• W związku z procederem zatrzymano 60 obywateli Korei Południowej.\n• Zatrzymani obywatele Korei Południowej mają zostać repatriowani do Seulu.",
+      "description": "Agencja Yonhap podała, że Korea Południowa wprowadza zakaz podróży do części Kambodży w związku z narastającym kryzysem dotyczącym porwań i zmuszania Koreańczyków do pracy. Jednocześnie Seul dąży do repatriacji 60 obywateli zatrzymanych w związku z procederem.",
       "originalTitle": "Seria uprowadzeń. Władze zakazały podróży do części Kambodży",
       "originalDescription": "Agencja Yonhap podała, że Korea Południowa wprowadza zakaz podróży do części Kambodży w związku z narastającym kryzysem dotyczącym porwań i zmuszania Koreańczyków do pracy. Jednocześnie Seul dąży do repatriacji 60 obywateli zatrzymanych w związku z procederem."
     },
@@ -42,46 +82,6 @@
       "description": "Największe amerykańskie lotniska nie chcą odtwarzać nagrania Kristi Noem, na którym sekretarz bezpieczeństwa krajowego oskarża demokratów o shutdown i wiążące się z tym skutki dla portów lotniczych.",
       "originalTitle": "Mieli odtwarzać nagranie współpracowniczki Trumpa. Lotniska odmawiają",
       "originalDescription": "Największe amerykańskie lotniska nie chcą odtwarzać nagrania Kristi Noem, na którym sekretarz bezpieczeństwa krajowego oskarża demokratów o shutdown i wiążące się z tym skutki dla portów lotniczych."
-    },
-    {
-      "title": "Ukraińska delegacja u producenta Tomahawków. Media: Pentagon przygotował plan",
-      "link": "https://tvn24.pl/swiat/usa-ukrainska-delegacja-spotkala-sie-z-producentem-rakiet-tomahawk-st8701964?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 04:17:42 GMT",
-      "description": "Szef biura prezydenta Ukrainy Andrij Jermak poinformował, że przebywająca z wizytą w USA delegacja wysokich rangą urzędników z Ukrainy spotkała się z przedstawicielami firmy Raytheon, która produkuje rakiety Tomahawk. \"New York Times\" donosi, że Pentagon przygotował plany sprzedaży albo przekazania Ukrainie tych pocisków manewrujących.",
-      "originalTitle": "Ukraińska delegacja u producenta Tomahawków. Media: Pentagon przygotował plan",
-      "originalDescription": "Szef biura prezydenta Ukrainy Andrij Jermak poinformował, że przebywająca z wizytą w USA delegacja wysokich rangą urzędników z Ukrainy spotkała się z przedstawicielami firmy Raytheon, która produkuje rakiety Tomahawk. \"New York Times\" donosi, że Pentagon przygotował plany sprzedaży albo przekazania Ukrainie tych pocisków manewrujących."
-    },
-    {
-      "title": "Był we Włoszech, ktoś użył jego karty w Wielkiej Brytanii",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/oszustwo-byl-we-wloszech-gdy-ktos-uzyl-jego-karty-w-wielkiej-brytanii-st8701981?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 04:05:57 GMT",
-      "description": "44-letni mieszkaniec powiatu płońskiego był we Włoszech w czasie, gdy ktoś w Wielkiej Brytanii wypłacił pieniądze z jego konta. Policjanci podejrzewają, że padł ofiarą skimmingu.",
-      "originalTitle": "Był we Włoszech, ktoś użył jego karty w Wielkiej Brytanii",
-      "originalDescription": "44-letni mieszkaniec powiatu płońskiego był we Włoszech w czasie, gdy ktoś w Wielkiej Brytanii wypłacił pieniądze z jego konta. Policjanci podejrzewają, że padł ofiarą skimmingu."
-    },
-    {
-      "title": "Dzieci i rodzice głosu nie mają. Przynajmniej w tej sprawie",
-      "link": "https://tvn24.pl/polska/zadania-domowe-co-o-nich-sadza-nauczyciele-mamy-badania-st8699924?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 04:03:25 GMT",
-      "description": "Obowiązkowych prac domowych nie ma w podstawówkach od półtora roku. Dzieci mają więcej czasu na odpoczynek, zabawę i aktywność fizyczną. Kto tak twierdzi? Nie dzieci, nie rodzice, bo ich o zdanie nikt nie zapytał. Resort edukacji o głos w tej sprawie poprosił tylko nauczycieli i dyrektorów szkół. Czego się w ten sposób (nie) dowiedział? Sprawdzamy.",
-      "originalTitle": "Dzieci i rodzice głosu nie mają. Przynajmniej w tej sprawie",
-      "originalDescription": "Obowiązkowych prac domowych nie ma w podstawówkach od półtora roku. Dzieci mają więcej czasu na odpoczynek, zabawę i aktywność fizyczną. Kto tak twierdzi? Nie dzieci, nie rodzice, bo ich o zdanie nikt nie zapytał. Resort edukacji o głos w tej sprawie poprosił tylko nauczycieli i dyrektorów szkół. Czego się w ten sposób (nie) dowiedział? Sprawdzamy."
-    },
-    {
-      "title": "Nocna prohibicja w dwóch dzielnicach. Dziś decyzja",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nocna-prohibicja-w-srodmiesciu-i-na-pradze-polnoc-od-kiedy-st8701818?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 04:00:03 GMT",
-      "description": "Zakaz sprzedaży alkoholu nocą w Śródmieściu i na Pradze Północ może stać się faktem już w listopadzie. Obie dzielnice pozytywnie zaopiniowały projekty uchwał w tej sprawie. Ostateczna decyzja leży w rękach Rady Warszawy, która spotyka się dziś.",
-      "originalTitle": "Nocna prohibicja w dwóch dzielnicach. Dziś decyzja",
-      "originalDescription": "Zakaz sprzedaży alkoholu nocą w Śródmieściu i na Pradze Północ może stać się faktem już w listopadzie. Obie dzielnice pozytywnie zaopiniowały projekty uchwał w tej sprawie. Ostateczna decyzja leży w rękach Rady Warszawy, która spotyka się dziś."
-    },
-    {
-      "title": "Nowy ambasador USA w Polsce zaprzysiężony",
-      "link": "https://tvn24.pl/polska/usa-thomas-rose-zaprzysiezony-na-ambasadora-w-polsce-st8701992?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 03:54:49 GMT",
-      "description": "Thomas Rose został we wtorek zaprzysiężony w Departamencie Stanu na nowego ambasadora USA w Polsce - poinformowała ambasada Stanów Zjednoczonych w Warszawie. W ubiegłym tygodniu nominację Rose'a zatwierdził Senat USA.",
-      "originalTitle": "Nowy ambasador USA w Polsce zaprzysiężony",
-      "originalDescription": "Thomas Rose został we wtorek zaprzysiężony w Departamencie Stanu na nowego ambasadora USA w Polsce - poinformowała ambasada Stanów Zjednoczonych w Warszawie. W ubiegłym tygodniu nominację Rose'a zatwierdził Senat USA."
     }
   ]
 }
