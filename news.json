@@ -1,10 +1,50 @@
 {
-  "lastUpdate": "2025-10-16T12:09:56.893Z",
+  "lastUpdate": "2025-10-16T12:47:23.196Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Dane o wzroście cen",
+      "title": "Mejza zrzeka się immunitetu",
+      "link": "https://tvn24.pl/polska/mejza-zrzekam-sie-immunitetu-st8702702?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 10:37:01 GMT",
+      "description": "• Łukasz Mejza zrzekł się immunitetu w sprawie przekroczenia prędkości na S3.\n• Wcześniej wniosek o uchylenie immunitetu posła wpłynął do Komendy Głównej Policji.\n• Chodzi o jazdę posła z prędkością 200 kilometrów na godzinę.",
+      "originalTitle": "Mejza: zrzekam się immunitetu",
+      "originalDescription": "- Tak jak obiecałem, natychmiast zrzekam się immunitetu w sprawie przekroczenia prędkości na S3 - przekazał Łukasz Mejza. Wcześniej wniosek o uchylenie immunitetu posła wpłynął do Komendy Głównej Policji. Chodzi o jazdę posła 200 kilometrów na godzinę."
+    },
+    {
+      "title": "Były prezes Intela mówi o rozwoju AI",
+      "link": "https://tvn24.pl/biznes/tech/byly-szef-intela-pat-gelsinger-ostrzega-zyjemy-w-bance-ai-st8702689?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 12:43:24 GMT",
+      "description": "• Pat Gelsinger, były prezes Intela, stwierdził, że jesteśmy w bańce AI.\n• Stwierdził, że pompowanie ogromnej gotówki w ten sektor w którymś momencie skończy się załamaniem.\n• To kolejny głos z USA, który ostrzega przed tą \"bańką\".",
+      "originalTitle": "Były prezes Intela: żyjemy w bańce AI. To pęknie",
+      "originalDescription": "Czy jesteśmy w bańce AI? Oczywiście, że jesteśmy - stwierdził Pat Gelsinger, były prezes Intela. I stwierdził, że pompowanie ogromnej gotówki w ten sektor w którymś momencie skończy się załamaniem. To kolejny głos z USA, który ostrzega przed tą \"bańką\"."
+    },
+    {
+      "title": "Sąd wydał wyrok w sprawie banków",
+      "link": "https://tvn24.pl/biznes/pieniadze/banki-nie-maja-prawa-tego-robic-wyrok-sadu-st8703233?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 12:32:42 GMT",
+      "description": "Naczelny Sąd Administracyjny podtrzymał decyzje UODO w sprawach przeciwko Alior Bankowi i SKOK-owi Stefczyka. Uznał, że instytucje finansowe nie mają prawa przetwarzać danych osób, które złożyły wniosek o kredyt, ale ostatecznie nie zawarły umowy - poinformował UODO w czwartkowym komunikacie.",
+      "originalTitle": "Banki nie mają prawa tego robić. Wyrok sądu",
+      "originalDescription": "Naczelny Sąd Administracyjny podtrzymał decyzje UODO w sprawach przeciwko Alior Bankowi i SKOK-owi Stefczyka. Uznał, że instytucje finansowe nie mają prawa przetwarzać danych osób, które złożyły wniosek o kredyt, ale ostatecznie nie zawarły umowy - poinformował UODO w czwartkowym komunikacie."
+    },
+    {
+      "title": "Ministerstwo wysyła pismo ws PZU i Pekao",
+      "link": "https://tvn24.pl/biznes/z-kraju/polaczenie-pzu-i-pekao-ministerstwo-wysyla-pismo-st8703214?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 12:26:50 GMT",
+      "description": "• Ministerstwo Finansów wnosi o wznowienie prac nad projektem ustawy umożliwiającej połączenie PZU z Pekao.\n• Ministerstwo Finansów składa autopoprawkę.\n• Ministerstwo Finansów prosi o rozpatrzenie na najbliższym posiedzeniu komitetu stałego.\n• Pismo z prośbą i autopoprawką zostało skierowane do sekretarza Stałego Komitetu Rady Ministrów.",
+      "originalTitle": "Połączenie PZU i Pekao. Ministerstwo wysyła pismo",
+      "originalDescription": "Ministerstwo Finansów wnosi o wznowienie prac nad projektem ustawy umożliwiającej połączenie PZU z Pekao, składa autopoprawkę i prosi o rozpatrzenie na najbliższym posiedzeniu komitetu stałego - podano w piśmie resortu do sekretarza Stałego Komitetu Rady Ministrów."
+    },
+    {
+      "title": "Julia Roberts o tym, co sprawiło, że jej córka nie chciała używać telefonu",
+      "link": "https://tvn24.pl/kultura-i-styl/julia-roberts-o-tym-co-sprawilo-ze-jej-corka-nie-chciala-uzywac-telefonu-st8702602?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 12:22:48 GMT",
+      "description": "Julia Roberts w wywiadzie dla \"New York Timesa\" mówiła m.in. o tym, jak bardzo ludziom obecnie brakuje rozmów. Winę za to ponosi w jej opinii rozwój technologii. Aktorka wspominała, że jej córka Hazel będąc dzieckiem oddała swój telefon, prosząc mamę, by go zatrzymała. Na jej decyzję wpłynęło obejrzenie kultowego filmu dla młodzieży z lat 80.",
+      "originalTitle": "Julia Roberts o tym, co sprawiło, że jej córka nie chciała używać telefonu",
+      "originalDescription": "Julia Roberts w wywiadzie dla \"New York Timesa\" mówiła m.in. o tym, jak bardzo ludziom obecnie brakuje rozmów. Winę za to ponosi w jej opinii rozwój technologii. Aktorka wspominała, że jej córka Hazel będąc dzieckiem oddała swój telefon, prosząc mamę, by go zatrzymała. Na jej decyzję wpłynęło obejrzenie kultowego filmu dla młodzieży z lat 80."
+    },
+    {
+      "title": "Najnowsze dane o wzroście cen",
       "link": "https://tvn24.pl/biznes/z-kraju/inflacja-bazowa-dane-nbp-z-wrzesnia-2025-najnowsze-dane-o-wzroscie-cen-st8702857?source=rss",
       "pubDate": "Thu, 16 Oct 2025 12:01:41 GMT",
       "description": "We wrześniu 2025 roku inflacja bazowa, liczona po wyłączeniu cen żywności i energii, wyniosła 3,2 procent rok do roku - podał Narodowy Bank Polski. Ceny towarów i usług, czyli inflacja CPI, wzrosły we wrześniu o 2,9 procent rok do roku.",
@@ -12,7 +52,7 @@
       "originalDescription": "We wrześniu 2025 roku inflacja bazowa, liczona po wyłączeniu cen żywności i energii, wyniosła 3,2 procent rok do roku - podał Narodowy Bank Polski. Ceny towarów i usług, czyli inflacja CPI, wzrosły we wrześniu o 2,9 procent rok do roku."
     },
     {
-      "title": "Zimoch i Śliz kontynuują spór",
+      "title": "Zimoch nie wybacza, Śliz nie rezygnuje",
       "link": "https://tvn24.pl/polska/tomasz-zimoch-nie-wybacza-pawel-sliz-nie-rezygnuje-st8702800?source=rss",
       "pubDate": "Thu, 16 Oct 2025 11:53:02 GMT",
       "description": "Paweł Śliz powinien natychmiast złożyć dymisję i zrzec się funkcji przewodniczącego sejmowej komisji sprawiedliwości - powiedział poseł Tomasz Zimoch. Wulgarne słowa szefa klubu Polski 2050 w czasie środowego posiedzenia określił jako \"niedopuszczalne\". Śliz nie zamierza jednak rezygnować.",
@@ -20,20 +60,20 @@
       "originalDescription": "Paweł Śliz powinien natychmiast złożyć dymisję i zrzec się funkcji przewodniczącego sejmowej komisji sprawiedliwości - powiedział poseł Tomasz Zimoch. Wulgarne słowa szefa klubu Polski 2050 w czasie środowego posiedzenia określił jako \"niedopuszczalne\". Śliz nie zamierza jednak rezygnować."
     },
     {
-      "title": "Sąd podjął decyzję w sprawie rozwodu",
+      "title": "\"Rozwód stulecia\" miał go kosztować miliard. Jest decyzja sądu",
       "link": "https://tvn24.pl/biznes/ze-swiata/korea-poludniowa-chey-tae-won-rozwod-stulecia-mial-go-kosztowac-miliard-jest-decyzja-sadu-st8702470?source=rss",
       "pubDate": "Thu, 16 Oct 2025 11:43:00 GMT",
-      "description": "• Sprawa rozwodowa miliardera Cheya Tae-wona ponownie trafiła na wokandę.\n• Sąd Najwyższy Korei Południowej uchylił wcześniejszy wyrok.\n• Wcześniejszy wyrok nakazywał biznesmenowi wypłatę byłej żonie rekordowego odszkodowania.\n• Wysokość odszkodowania wynosiła 1,38 biliona wonów.\n• 1,38 biliona wonów to około miliarda dolarów.",
+      "description": "Sprawa rozwodowa miliardera Cheya Tae-wona ponownie trafiła na wokandę. Sąd Najwyższy Korei Południowej uchylił wcześniejszy wyrok, który nakazywał biznesmenowi wypłatę byłej żonie rekordowego odszkodowania w wysokości 1,38 biliona wonów, czyli około miliarda dolarów.",
       "originalTitle": "\"Rozwód stulecia\" miał go kosztować miliard. Jest decyzja sądu",
       "originalDescription": "Sprawa rozwodowa miliardera Cheya Tae-wona ponownie trafiła na wokandę. Sąd Najwyższy Korei Południowej uchylił wcześniejszy wyrok, który nakazywał biznesmenowi wypłatę byłej żonie rekordowego odszkodowania w wysokości 1,38 biliona wonów, czyli około miliarda dolarów."
     },
     {
-      "title": "Policja zatrzymała właściciela psów atakujących osobę",
+      "title": "Zatrzymano właściciela psów, które zagryzły 46-latka. Apel prokuratury",
       "link": "https://tvn24.pl/lubuskie/zielona-gora-sledztwo-w-sprawie-pogryzionego-przez-psy-46-latka-nowe-ustalenia-st8702839?source=rss",
       "pubDate": "Thu, 16 Oct 2025 11:40:34 GMT",
-      "description": "Prokuratura Okręgowa w Zielonej Górze poinformowała o zatrzymaniu właściciela strzelnicy i psów, które pogryzły 46-letniego kierowcę. Nie udało się uratować życia mężczyzny.",
-      "originalTitle": "Zatrzymano właściciela psów, które zagryzły 46-latka",
-      "originalDescription": "Prokuratura Okręgowa w Zielonej Górze poinformowała o zatrzymaniu właściciela strzelnicy i psów, które pogryzły 46-letniego kierowcę. Nie udało się uratować życia mężczyzny."
+      "description": "Prokuratura Okręgowa w Zielonej Górze poinformowała o zatrzymaniu właściciela strzelnicy i psów, które pogryzły 46-letniego kierowcę. Nie udało się uratować życia mężczyzny. Prokuratorzy apelują o zgłaszanie się wszystkich osób, które zostały pokrzywdzone przez te psy lub były świadkami tych zdarzeń.",
+      "originalTitle": "Zatrzymano właściciela psów, które zagryzły 46-latka. Apel prokuratury",
+      "originalDescription": "Prokuratura Okręgowa w Zielonej Górze poinformowała o zatrzymaniu właściciela strzelnicy i psów, które pogryzły 46-letniego kierowcę. Nie udało się uratować życia mężczyzny. Prokuratorzy apelują o zgłaszanie się wszystkich osób, które zostały pokrzywdzone przez te psy lub były świadkami tych zdarzeń."
     },
     {
       "title": "Ruszyła rejestracja sztabów 34. Finału WOŚP",
@@ -42,46 +82,6 @@
       "description": "Szef Wielkiej Orkiestry Świątecznej Pomocy Jerzy Owsiak ogłosił, że rozpoczęła się rejestracja sztabów na 34. Finał WOŚP. Odbędzie się on 25 stycznia 2026 roku. Za kilka dni poznamy cel zbiórki.",
       "originalTitle": "Ruszyła rejestracja sztabów 34. Finału WOŚP",
       "originalDescription": "Szef Wielkiej Orkiestry Świątecznej Pomocy Jerzy Owsiak ogłosił, że rozpoczęła się rejestracja sztabów na 34. Finał WOŚP. Odbędzie się on 25 stycznia 2026 roku. Za kilka dni poznamy cel zbiórki."
-    },
-    {
-      "title": "Nocny zakaz sprzedaży alkoholu w dwóch dzielnicach przegłosowany",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nocna-prohibicja-w-dwoch-dzielnicach-st8701818?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 04:00:03 GMT",
-      "description": "Zakaz sprzedaży alkoholu nocą w Śródmieściu i na Pradze Północ stanie się faktem. Taką decyzję podjęła w czwartek Rada Warszawy, po uzyskaniu pozytywnej opinii z rad dzielnic.",
-      "originalTitle": "Nocny zakaz sprzedaży alkoholu w dwóch dzielnicach przegłosowany",
-      "originalDescription": "Zakaz sprzedaży alkoholu nocą w Śródmieściu i na Pradze Północ stanie się faktem. Taką decyzję podjęła w czwartek Rada Warszawy, po uzyskaniu pozytywnej opinii z rad dzielnic."
-    },
-    {
-      "title": "Wszedł do lombardu z kijem baseballowym i zażądał kosztowności",
-      "link": "https://tvn24.pl/kujawsko-pomorskie/chelmza-wszedl-do-lombardu-z-kijem-baseballowym-i-zaczal-uderzac-w-witryne-st8702824?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 11:14:33 GMT",
-      "description": "Policjanci z komisariatu w Chełmży (woj. kujawsko-pomorskie) zatrzymali 30-latka, podejrzanego, który wszedł z kijem baseballowym do lombardu i uderzając nim w witrynę, zażądał od pracownika wydania kosztowności. Jak się okazało, jest wielokrotnym recydywistą, grozi mu nawet 20 lat więzienia.",
-      "originalTitle": "Wszedł do lombardu z kijem baseballowym i zażądał kosztowności",
-      "originalDescription": "Policjanci z komisariatu w Chełmży (woj. kujawsko-pomorskie) zatrzymali 30-latka, podejrzanego, który wszedł z kijem baseballowym do lombardu i uderzając nim w witrynę, zażądał od pracownika wydania kosztowności. Jak się okazało, jest wielokrotnym recydywistą, grozi mu nawet 20 lat więzienia."
-    },
-    {
-      "title": "Jeździli po Polsce i okradali sklepy z elektroniką",
-      "link": "https://tvn24.pl/wroclaw/legnica-zatrzymano-trzech-podejrzanych-o-kradzieze-sprzetu-rtv-i-agd-st8702499?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 11:11:08 GMT",
-      "description": "Rozbita została zorganizowana grupa przestępcza, która okradała sklepy ze sprzętem RTV i AGD na terenie całej Polski. Funkcjonariusze zatrzymali trzech obywateli Gruzji, a straty spowodowane ich działalnością sięgają co najmniej 60 tysięcy złotych.",
-      "originalTitle": "Jeździli po Polsce i okradali sklepy z elektroniką",
-      "originalDescription": "Rozbita została zorganizowana grupa przestępcza, która okradała sklepy ze sprzętem RTV i AGD na terenie całej Polski. Funkcjonariusze zatrzymali trzech obywateli Gruzji, a straty spowodowane ich działalnością sięgają co najmniej 60 tysięcy złotych."
-    },
-    {
-      "title": "Tragedia w Barcicach. Sekcje ofiar trwają, przesłuchanie 25-latka jeszcze dziś",
-      "link": "https://tvn24.pl/krakow/barcice-25-latek-ma-uslyszec-zarzuty-po-potrojnym-zabojstwie-st8702802?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 11:00:21 GMT",
-      "description": "Sekcje zwłok ofiar jeszcze trwają, ich wstępne wyniki będą bardzo istotne w kontekście przesłuchania 25-latka podejrzewanego o potrójne zabójstwo. - Na czynności procesowe mamy czas do piątkowego poranka, ale przesłuchanie w charakterze podejrzanego odbędzie się jeszcze dziś - przekazuje rzeczniczka Prokuratury Okręgowej w Nowym Sączu Justyna Rataj-Mykietyn.",
-      "originalTitle": "Tragedia w Barcicach. Sekcje ofiar trwają, przesłuchanie 25-latka jeszcze dziś",
-      "originalDescription": "Sekcje zwłok ofiar jeszcze trwają, ich wstępne wyniki będą bardzo istotne w kontekście przesłuchania 25-latka podejrzewanego o potrójne zabójstwo. - Na czynności procesowe mamy czas do piątkowego poranka, ale przesłuchanie w charakterze podejrzanego odbędzie się jeszcze dziś - przekazuje rzeczniczka Prokuratury Okręgowej w Nowym Sączu Justyna Rataj-Mykietyn."
-    },
-    {
-      "title": "Braki w Rosji, wstrzymują remonty. \"Dodatkowe działania\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/rosja-braki-paliw-wstrzymuja-remonty-dodatkowe-dzialania-st8702717?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 11:00:00 GMT",
-      "description": "W Rosji odczuwalne są braki paliw po ukraińskich atakach na rafinerie. Jak informuje rosyjski minister energetyki Siergiej Cywiliow, zakłady petrochemiczne przełożą planowane wcześniej remonty, aby nie przerywać pracy i zapewnić odpowiednie dostawy paliw.",
-      "originalTitle": "Braki w Rosji, wstrzymują remonty. \"Dodatkowe działania\"",
-      "originalDescription": "W Rosji odczuwalne są braki paliw po ukraińskich atakach na rafinerie. Jak informuje rosyjski minister energetyki Siergiej Cywiliow, zakłady petrochemiczne przełożą planowane wcześniej remonty, aby nie przerywać pracy i zapewnić odpowiednie dostawy paliw."
     }
   ]
 }
