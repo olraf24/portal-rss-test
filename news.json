@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-10-16T13:14:31.758Z",
+  "lastUpdate": "2025-10-16T13:42:01.069Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Spadek wartości akcji polskiej firmy",
+      "title": "Dwór rodzinny Chopina",
+      "link": "https://konkret24.tvn24.pl/polska/ta-ruina-to-dwor-rodzinny-chopina-oto-jego-historia-st8699904?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 13:35:06 GMT",
+      "description": "Zdjęcia zrujnowanego dworu mającego być rzekomo domem rodzinnym Fryderyka Chopina wywołały w sieci burzę komentarzy. Tylko że rozpowszechniane są z błędnym opisem.",
+      "originalTitle": "Ta ruina to \"dwór rodzinny Chopina\"? Oto jego historia",
+      "originalDescription": "Zdjęcia zrujnowanego dworu mającego być rzekomo domem rodzinnym Fryderyka Chopina wywołały w sieci burzę komentarzy. Tylko że rozpowszechniane są z błędnym opisem."
+    },
+    {
+      "title": "Akt oskarżenia przeciwko Kamińskiemu i Wąsikowi",
+      "link": "https://tvn24.pl/polska/jest-akt-oskarzenia-przeciwko-mariuszowi-kaminskiemu-i-maciejowi-wasikowi-st8703371?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 13:22:02 GMT",
+      "description": "• Stołeczna prokuratura okręgowa skierowała w czwartek do Sądu Rejonowego dla Warszawy - Śródmieścia akt oskarżenia.\n• Akt oskarżenia został skierowany przeciwko Mariuszowi Kamińskiemu i Maciejowi Wąsikowi.\n• Informację o skierowaniu aktu oskarżenia podał rzecznik Prokuratury Okręgowej w Warszawie Piotr Antoni Skiba.",
+      "originalTitle": "Jest akt oskarżenia przeciwko Mariuszowi Kamińskiemu i Maciejowi Wąsikowi",
+      "originalDescription": "Stołeczna prokuratura okręgowa skierowała w czwartek do Sądu Rejonowego dla Warszawy - Śródmieścia akt oskarżenia przeciwko Mariuszowi Kamińskiemu i Maciejowi Wąsikowi - poinformował rzecznik Prokuratury Okręgowej w Warszawie Piotr Antoni Skiba."
+    },
+    {
+      "title": "Koncert przerwany kaszlem",
+      "link": "https://tvn24.pl/tvnwarszawa/kultura/konkurs-chopinowski-gdy-muzyka-milknie-na-sali-rozbrzmiewa-kaszel-tradycyjna-konkurencja-st8702645?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 13:17:57 GMT",
+      "description": "Trwa XIX Konkurs Chopinowski. Poczynania wirtuozów fortepianów bacznie śledzą doświadczeni melomani i ci, którzy wcześniej nie przysłuchiwali się uważnie występom pianistów. I to zazwyczaj tych drugich dziwi to, co dzieje się w przerwach między występami, gdy słychać... kaszel. \"Momentami ma się wrażenie, że znaleźliśmy się w szpitalu pulmonologicznym\" - stwierdziła jedna z internautek.",
+      "originalTitle": "Gdy muzyka milknie, na sali rozbrzmiewa kaszel. \"Tradycyjna konkurencja\"",
+      "originalDescription": "Trwa XIX Konkurs Chopinowski. Poczynania wirtuozów fortepianów bacznie śledzą doświadczeni melomani i ci, którzy wcześniej nie przysłuchiwali się uważnie występom pianistów. I to zazwyczaj tych drugich dziwi to, co dzieje się w przerwach między występami, gdy słychać... kaszel. \"Momentami ma się wrażenie, że znaleźliśmy się w szpitalu pulmonologicznym\" - stwierdziła jedna z internautek."
+    },
+    {
+      "title": "Mężczyzna zatrzymany z kartami Pokémon",
+      "link": "https://tvn24.pl/ciekawostki/singapur-wiozl-cenna-kolekcje-kart-pokemon-zatrzymali-go-celnicy-st8703153?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 13:14:22 GMT",
+      "description": "Pokémony znów cieszą się popularnością, a rzadkie okazy kart potrafią być wiele warte. Nie wziął tego pod uwagę 25-latek, który z cenną kolekcją wylądował w Singapurze. I został zatrzymany na lotnisku przez celników.",
+      "originalTitle": "Miał cenne karty Pokémon, zatrzymały go służby",
+      "originalDescription": "Pokémony znów cieszą się popularnością, a rzadkie okazy kart potrafią być wiele warte. Nie wziął tego pod uwagę 25-latek, który z cenną kolekcją wylądował w Singapurze. I został zatrzymany na lotnisku przez celników."
+    },
+    {
+      "title": "Komisja Europejska ogłasza mapę drogową dla obronności. Oto priorytety",
+      "link": "https://tvn24.pl/swiat/komisja-europejska-oglasza-mape-drogowa-dla-obronnosci-oto-priorytety-st8703155?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 13:12:23 GMT",
+      "description": "Komisja Europejska przedstawiła mapę drogową dotyczącą zwiększania unijnych zdolności obronnych. Zaproponowała, by inicjatywa dronowa i Straż Wschodniej Flanki zostały uznane za projekty priorytetowe. Mają zostać uruchomione w pierwszym kwartale 2026 roku.",
+      "originalTitle": "Komisja Europejska ogłasza mapę drogową dla obronności. Oto priorytety",
+      "originalDescription": "Komisja Europejska przedstawiła mapę drogową dotyczącą zwiększania unijnych zdolności obronnych. Zaproponowała, by inicjatywa dronowa i Straż Wschodniej Flanki zostały uznane za projekty priorytetowe. Mają zostać uruchomione w pierwszym kwartale 2026 roku."
+    },
+    {
+      "title": "Akcje polskiego giganta mocno w dół. Firma odpiera zarzuty",
       "link": "https://tvn24.pl/biznes/rynki/ccc-reaguje-na-raport-ningi-research-jest-czysta-manipulacja-st8703277?source=rss",
       "pubDate": "Thu, 16 Oct 2025 13:01:41 GMT",
-      "description": "• W czwartek kurs CCC zareagował mocnym spadkiem na raport Ningi Research.\n• Autorzy raportu uznali, że CCC to \"fasada zbudowana na agresywnych zagrywkach księgowych, nieujawnionych transakcjach z podmiotami powiązanymi oraz zakrojonym na szeroką skalę programie sztucznego zwiększania sprzedaży\".\n• Spółka rozważa podjęcie kroków prawnych w związku z rozpowszechnianiem nieprawdziwych informacji.\n• Nieprawdziwe informacje mają manipulować kursem akcji - jak podała firma w oświadczeniu.",
+      "description": "W czwartek kurs CCC zareagował mocnym spadkiem na raport Ningi Research. Według jego autorów, CCC to \"fasada zbudowana na agresywnych zagrywkach księgowych, nieujawnionych transakcjach z podmiotami powiązanymi oraz zakrojonym na szeroką skalę programie sztucznego zwiększania sprzedaży\". Spółka rozważa podjęcie kroków prawnych w związku z rozpowszechnianiem nieprawdziwych informacji, które manipulują kursem akcji - podała firma w oświadczeniu.",
       "originalTitle": "Akcje polskiego giganta mocno w dół. Firma odpiera zarzuty",
       "originalDescription": "W czwartek kurs CCC zareagował mocnym spadkiem na raport Ningi Research. Według jego autorów, CCC to \"fasada zbudowana na agresywnych zagrywkach księgowych, nieujawnionych transakcjach z podmiotami powiązanymi oraz zakrojonym na szeroką skalę programie sztucznego zwiększania sprzedaży\". Spółka rozważa podjęcie kroków prawnych w związku z rozpowszechnianiem nieprawdziwych informacji, które manipulują kursem akcji - podała firma w oświadczeniu."
     },
     {
-      "title": "Brak wolnych miejsc",
+      "title": "\"Jeszcze niedawno mieliśmy wolne miejsca. Dziś sytuacja się odwróciła\"",
       "link": "https://tvn24.pl/biznes/z-kraju/praca-na-studiach-i-akademiki-jeszcze-niedawno-mielismy-wolne-miejsca-dzis-sytuacja-sie-odwrocila-st8702943?source=rss",
       "pubDate": "Thu, 16 Oct 2025 12:56:59 GMT",
-      "description": "Wcześniej były wolne miejsca w akademikach, bo studentom bardziej opłacało się wynająć mieszkanie w kilka osób. Dziś sytuacja się odwróciła - mówił profesor Marcin Dornowski z Akademii Wychowania Fizycznego i Sportu w Gdańsku. Podczas Debaty rektorów w TVN24+ dyskutowano także o dorabianiu podczas studiów, mobbingu i wsparciu psychologicznym na uczelniach.",
+      "description": "Wcześniej były wolne miejsca w akademikach, bo studentom bardziej opłacało się wynająć mieszkanie w kilka osób. Dziś sytuacja się odwróciła - mówił profesor Marcin Dornowski z Akademii Wychowania Fizycznego i Sportu w Gdańsku. Podczas Debaty rektorów TVN24+ dyskutowano także o dorabianiu podczas studiów, mobbingu i wsparciu psychologicznym na uczelniach.",
       "originalTitle": "\"Jeszcze niedawno mieliśmy wolne miejsca. Dziś sytuacja się odwróciła\"",
-      "originalDescription": "Wcześniej były wolne miejsca w akademikach, bo studentom bardziej opłacało się wynająć mieszkanie w kilka osób. Dziś sytuacja się odwróciła - mówił profesor Marcin Dornowski z Akademii Wychowania Fizycznego i Sportu w Gdańsku. Podczas Debaty rektorów w TVN24+ dyskutowano także o dorabianiu podczas studiów, mobbingu i wsparciu psychologicznym na uczelniach."
+      "originalDescription": "Wcześniej były wolne miejsca w akademikach, bo studentom bardziej opłacało się wynająć mieszkanie w kilka osób. Dziś sytuacja się odwróciła - mówił profesor Marcin Dornowski z Akademii Wychowania Fizycznego i Sportu w Gdańsku. Podczas Debaty rektorów TVN24+ dyskutowano także o dorabianiu podczas studiów, mobbingu i wsparciu psychologicznym na uczelniach."
     },
     {
-      "title": "Leczenie anemii z żelazem",
+      "title": "Przełom w leczeniu anemii? Chodzi o żelazo",
       "link": "https://tvn24.pl/zdrowie/przelom-w-leczeniu-anemii-chodzi-o-zelazo-st8702913?source=rss",
       "pubDate": "Thu, 16 Oct 2025 12:54:22 GMT",
       "description": "Naukowcy z Indii odkryli, że suplement żelaza z dodatkiem probiotyków i prebiotyków mógłby pomóc osobom cierpiącym na anemię, nie szkodząc ich układowi pokarmowemu. To ważne, bo doustne preparaty żelaza mogą czasem powodować jego nadmiar, a to grozi podrażnieniem i/lub stanem zapalnym jelit.",
@@ -42,46 +82,6 @@
       "description": "- Tak jak obiecałem, natychmiast zrzekam się immunitetu w sprawie przekroczenia prędkości na S3 - przekazał Łukasz Mejza. Wcześniej do Komendy Głównej Policji wpłynął policyjny wniosek o uchylenie jego immunitetu. Chodzi o jazdę posła z prędkością 200 kilometrów na godzinę.",
       "originalTitle": "Mejza: zrzekam się immunitetu",
       "originalDescription": "- Tak jak obiecałem, natychmiast zrzekam się immunitetu w sprawie przekroczenia prędkości na S3 - przekazał Łukasz Mejza. Wcześniej do Komendy Głównej Policji wpłynął policyjny wniosek o uchylenie jego immunitetu. Chodzi o jazdę posła z prędkością 200 kilometrów na godzinę."
-    },
-    {
-      "title": "Były prezes Intela: żyjemy w bańce AI. To pęknie",
-      "link": "https://tvn24.pl/biznes/tech/byly-szef-intela-pat-gelsinger-ostrzega-zyjemy-w-bance-ai-st8702689?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 12:43:24 GMT",
-      "description": "Czy jesteśmy w bańce AI? Oczywiście, że jesteśmy - stwierdził Pat Gelsinger, były prezes Intela. I stwierdził, że pompowanie ogromnej gotówki w ten sektor w którymś momencie skończy się załamaniem. To kolejny głos z USA, który ostrzega przed tą \"bańką\".",
-      "originalTitle": "Były prezes Intela: żyjemy w bańce AI. To pęknie",
-      "originalDescription": "Czy jesteśmy w bańce AI? Oczywiście, że jesteśmy - stwierdził Pat Gelsinger, były prezes Intela. I stwierdził, że pompowanie ogromnej gotówki w ten sektor w którymś momencie skończy się załamaniem. To kolejny głos z USA, który ostrzega przed tą \"bańką\"."
-    },
-    {
-      "title": "Oskarżono ich o przywłaszczenie blisko 3 mln zł KUL. Jest prawomocny wyrok",
-      "link": "https://tvn24.pl/lublin/lublin-prawnicy-skazani-za-przywlaszczenie-pieniedzy-kul-zostali-ostatecznie-uniewinnieni-st8703192?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 12:40:00 GMT",
-      "description": "Sąd Apelacyjny w Lublinie uniewinnił troje prawników skazanych w pierwszej instancji za przywłaszczenie blisko 3 mln zł. Zgodnie z wolą zmarłych darczyńców pieniądze te miały zostać przekazane na realizację projektów naukowych na Katolickim Uniwersytecie Lubelskim. Wyrok jest prawomocny.",
-      "originalTitle": "Oskarżono ich o przywłaszczenie blisko 3 mln zł KUL. Jest prawomocny wyrok",
-      "originalDescription": "Sąd Apelacyjny w Lublinie uniewinnił troje prawników skazanych w pierwszej instancji za przywłaszczenie blisko 3 mln zł. Zgodnie z wolą zmarłych darczyńców pieniądze te miały zostać przekazane na realizację projektów naukowych na Katolickim Uniwersytecie Lubelskim. Wyrok jest prawomocny."
-    },
-    {
-      "title": "Banki nie mają prawa tego robić. Wyrok sądu",
-      "link": "https://tvn24.pl/biznes/pieniadze/banki-nie-maja-prawa-tego-robic-wyrok-sadu-st8703233?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 12:32:42 GMT",
-      "description": "Naczelny Sąd Administracyjny podtrzymał decyzje UODO w sprawach przeciwko Alior Bankowi i SKOK-owi Stefczyka. Uznał, że instytucje finansowe nie mają prawa przetwarzać danych osób, które złożyły wniosek o kredyt, ale ostatecznie nie zawarły umowy - poinformował UODO w czwartkowym komunikacie.",
-      "originalTitle": "Banki nie mają prawa tego robić. Wyrok sądu",
-      "originalDescription": "Naczelny Sąd Administracyjny podtrzymał decyzje UODO w sprawach przeciwko Alior Bankowi i SKOK-owi Stefczyka. Uznał, że instytucje finansowe nie mają prawa przetwarzać danych osób, które złożyły wniosek o kredyt, ale ostatecznie nie zawarły umowy - poinformował UODO w czwartkowym komunikacie."
-    },
-    {
-      "title": "Połączenie PZU i Pekao. Ministerstwo wysyła pismo",
-      "link": "https://tvn24.pl/biznes/z-kraju/polaczenie-pzu-i-pekao-ministerstwo-wysyla-pismo-st8703214?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 12:26:50 GMT",
-      "description": "Ministerstwo Finansów wnosi o wznowienie prac nad projektem ustawy umożliwiającej połączenie PZU z Pekao, składa autopoprawkę i prosi o rozpatrzenie na najbliższym posiedzeniu komitetu stałego - podano w piśmie resortu do sekretarza Stałego Komitetu Rady Ministrów.",
-      "originalTitle": "Połączenie PZU i Pekao. Ministerstwo wysyła pismo",
-      "originalDescription": "Ministerstwo Finansów wnosi o wznowienie prac nad projektem ustawy umożliwiającej połączenie PZU z Pekao, składa autopoprawkę i prosi o rozpatrzenie na najbliższym posiedzeniu komitetu stałego - podano w piśmie resortu do sekretarza Stałego Komitetu Rady Ministrów."
-    },
-    {
-      "title": "Julia Roberts o tym, co sprawiło, że jej córka nie chciała używać telefonu",
-      "link": "https://tvn24.pl/kultura-i-styl/julia-roberts-o-tym-co-sprawilo-ze-jej-corka-nie-chciala-uzywac-telefonu-st8702602?source=rss",
-      "pubDate": "Thu, 16 Oct 2025 12:22:48 GMT",
-      "description": "Julia Roberts w wywiadzie dla \"New York Timesa\" mówiła m.in. o tym, jak bardzo ludziom obecnie brakuje rozmów. Winę za to ponosi w jej opinii rozwój technologii. Aktorka wspominała, że jej córka Hazel będąc dzieckiem oddała swój telefon, prosząc mamę, by go zatrzymała. Na jej decyzję wpłynęło obejrzenie kultowego filmu dla młodzieży z lat 80.",
-      "originalTitle": "Julia Roberts o tym, co sprawiło, że jej córka nie chciała używać telefonu",
-      "originalDescription": "Julia Roberts w wywiadzie dla \"New York Timesa\" mówiła m.in. o tym, jak bardzo ludziom obecnie brakuje rozmów. Winę za to ponosi w jej opinii rozwój technologii. Aktorka wspominała, że jej córka Hazel będąc dzieckiem oddała swój telefon, prosząc mamę, by go zatrzymała. Na jej decyzję wpłynęło obejrzenie kultowego filmu dla młodzieży z lat 80."
     }
   ]
 }
