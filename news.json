@@ -1,39 +1,79 @@
 {
-  "lastUpdate": "2025-10-17T07:34:46.451Z",
+  "lastUpdate": "2025-10-17T08:08:15.596Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Prokurator krajowy: przygotowano akty oskarżenia",
+      "title": "Zabójstwo w Barcicach, 25-latek podejrzany",
+      "link": "https://tvn24.pl/krakow/barcice-25-latek-z-zarzutami-po-potrojnym-zabojstwie-st8702802?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 11:00:21 GMT",
+      "description": "• 25-latek zatrzymany w związku z potrójnym zabójstwem w Barcicach Górnych niedaleko Starego Sącza usłyszał zarzuty.\n• Prokuratura poinformowała w piątek, że mężczyzna jest podejrzany o zabójstwo swoich krewnych.\n• Ofiarami są: 52-letnia kobieta i dwóch mężczyzn w wieku 45 i 66 lat.\n• Zabójstwo miało miejsce w Barcicach Górnych niedaleko Starego Sącza.",
+      "originalTitle": "Potrójne zabójstwo w Barcicach. 25-latek z zarzutami",
+      "originalDescription": "25-latek zatrzymany w związku z potrójnym zabójstwem w Barcicach Górnych niedaleko Starego Sącza usłyszał zarzuty. Prokuratura poinformowała w piątek, że mężczyzna jest podejrzany o zabójstwo swoich krewnych: 52-letniej kobiety i dwóch mężczyzn w wieku 45 i 66 lat."
+    },
+    {
+      "title": "Rosja: 18-latka skazana za śpiewanie piosenki",
+      "link": "https://tvn24.pl/swiat/rosja-petersburg-diana-loginowa-spiewala-na-ulicy-zakazana-piosenke-i-zostala-skazana-st8704131?source=rss",
+      "pubDate": "Fri, 17 Oct 2025 07:59:30 GMT",
+      "description": "• Nastoletnia rosyjska artystka Diana Loginowa została skazana na 13 dni więzienia.\n• Powodem skazania było nagranie ze śpiewania antykremlowskiej piosenki na centralnej alei Petersburga.\n• Władze zapowiadają, że Diana Loginowa zostanie oskarżona również o inne administracyjne przestępstwo.\n• To przestępstwo polega na \"zdyskredytowaniu\" rosyjskiego wojska.",
+      "originalTitle": "Diana śpiewała \"niech starzec drży\". 18-latka skazana w Rosji",
+      "originalDescription": "Nastoletnia rosyjska artystka Diana Loginowa została skazana na 13 dni więzienia po tym, jak internet obiegło nagranie ze śpiewania antykremlowskiej piosenki na centralnej alei Petersburga. Władze zapowiadają, że zostanie oskarżona również o inne administracyjne przestępstwo, polegające na \"zdyskredytowaniu\" rosyjskiego wojska."
+    },
+    {
+      "title": "Zatrzymano właściciela psów atakujących osobę",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-sledztwo-w-sprawie-pogryzionego-przez-psy-46-latka-nowe-ustalenia-st8702839?source=rss",
+      "pubDate": "Thu, 16 Oct 2025 11:40:34 GMT",
+      "description": "• Prokurator krajowy Dariusz Korneluk poinformował w TVN24 o planowanych czynnościach.\n• Czynności zostaną przeprowadzone w piątek.\n• Czynności będą przeprowadzane z udziałem właściciela strzelnicy.\n• Czynności będą przeprowadzane z udziałem psów, które pogryzły kierowcę.\n• Kierowca, który został pogryziony przez psy, miał 46 lat.\n• Nie udało się uratować dotkliwie pogryzionego kierowcy.\n• Prokuratorzy apelują o zgłaszanie się wszystkich osób, które zostały pokrzywdzone przez te psy.\n• Prokuratorzy apelują o zgłaszanie się wszystkich osób, które były świadkami zdarzeń związanych z tymi psami.",
+      "originalTitle": "Zatrzymano właściciela psów, które zagryzły 46-latka. \"Zaplanowano czynności z jego udziałem\"",
+      "originalDescription": "Prokurator krajowy Dariusz Korneluk poinformował w TVN24, że w piątek zostaną przeprowadzone czynności z udziałem właściciela strzelnicy i psów, które pogryzły 46-letniego kierowcę. Dotkliwie pogryzionego kierowcy nie udało się uratować. Prokuratorzy apelują o zgłaszanie się wszystkich osób, które zostały pokrzywdzone przez te psy lub były świadkami takich zdarzeń."
+    },
+    {
+      "title": "Dachowanie busa pod Grójcem. 11 osób w szpitalu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/dachowanie-busa-pod-grojcem-11-osob-w-szpitalu-st8704182?source=rss",
+      "pubDate": "Fri, 17 Oct 2025 07:13:17 GMT",
+      "description": "Na trasie S7 pod Grójcem dachował samochód typu bus. Policja informuje o 11 osobach poszkodowanych. Jezdnie w obydwu kierunkach są całkowicie zablokowane.",
+      "originalTitle": "Dachowanie busa pod Grójcem. 11 osób w szpitalu",
+      "originalDescription": "Na trasie S7 pod Grójcem dachował samochód typu bus. Policja informuje o 11 osobach poszkodowanych. Jezdnie w obydwu kierunkach są całkowicie zablokowane."
+    },
+    {
+      "title": "Polski autokar zderzył się z ciężarówką na austriackiej autostradzie. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/swiat/austria-polski-autokar-zderzyl-sie-z-ciezarowka-na-austriackiej-autostradzie-jedna-osoba-nie-zyje-st8704235?source=rss",
+      "pubDate": "Fri, 17 Oct 2025 07:40:43 GMT",
+      "description": "Na autostradzie A5 w pobliżu Drasenhofen w Austrii polski autokar zderzył się z ciężarówką. W wyniku wypadku jedna osoba zginęła, jest też wielu rannych.",
+      "originalTitle": "Polski autokar zderzył się z ciężarówką na austriackiej autostradzie. Jedna osoba nie żyje",
+      "originalDescription": "Na autostradzie A5 w pobliżu Drasenhofen w Austrii polski autokar zderzył się z ciężarówką. W wyniku wypadku jedna osoba zginęła, jest też wielu rannych."
+    },
+    {
+      "title": "\"To przerażające. Czujesz się, jakby samolot leciał prosto na ciebie\"",
+      "link": "https://tvn24.pl/biznes/turystyka/plaza-maho-na-saint-martin-raj-dla-milosnikow-lotnictwa-st8704120?source=rss",
+      "pubDate": "Fri, 17 Oct 2025 07:36:11 GMT",
+      "description": "Plaża Maho na karaibskiej wyspie Saint Martin to raj dla miłośników lotnictwa i poszukiwaczy mocnych wrażeń. Ze względu na niewielkie rozmiary wyspy i jej wyjątkowe położenie, pas startowy na tutejszym lotnisku jest oddzielony od plaży jedynie wąską drogą. W szczycie sezonu dziennie ląduje tu nawet 70 samolotów, których można niemal dotknąć.",
+      "originalTitle": "\"To przerażające. Czujesz się, jakby samolot leciał prosto na ciebie\"",
+      "originalDescription": "Plaża Maho na karaibskiej wyspie Saint Martin to raj dla miłośników lotnictwa i poszukiwaczy mocnych wrażeń. Ze względu na niewielkie rozmiary wyspy i jej wyjątkowe położenie, pas startowy na tutejszym lotnisku jest oddzielony od plaży jedynie wąską drogą. W szczycie sezonu dziennie ląduje tu nawet 70 samolotów, których można niemal dotknąć."
+    },
+    {
+      "title": "Prokurator krajowy: będą akty oskarżenia dla Mateckiego i Wosia",
       "link": "https://tvn24.pl/polska/fundusz-sprawiedliwosci-prokurator-krajowy-zapowiada-akty-oskarzenia-wobec-dariusza-mateckiego-i-michala-wosia-st8704181?source=rss",
       "pubDate": "Fri, 17 Oct 2025 07:25:28 GMT",
-      "description": "• W ciągu dwóch tygodni zostaną skierowane do sądu kolejne dwa akty oskarżenia.\n• Akty oskarżenia dotyczą posłów PiS Dariusza Mateckiego i Michała Wosia.\n• Informację przekazał prokurator krajowy Dariusz Korneluk.\n• Dariusz Korneluk przekazał informację w programie \"Jeden na jeden\" w TVN24.\n• Chodzi o sprawę Funduszu Sprawiedliwości.",
+      "description": "W ciągu dwóch tygodni zostaną skierowane do sądu kolejne dwa akty oskarżenia dotyczące posłów PiS Dariusza Mateckiego i Michała Wosia - przekazał w \"Jeden na jeden\" w TVN24 prokurator krajowy Dariusz Korneluk. Chodzi o sprawę Funduszu Sprawiedliwości.",
       "originalTitle": "Prokurator krajowy: będą akty oskarżenia dla Mateckiego i Wosia",
       "originalDescription": "W ciągu dwóch tygodni zostaną skierowane do sądu kolejne dwa akty oskarżenia dotyczące posłów PiS Dariusza Mateckiego i Michała Wosia - przekazał w \"Jeden na jeden\" w TVN24 prokurator krajowy Dariusz Korneluk. Chodzi o sprawę Funduszu Sprawiedliwości."
     },
     {
-      "title": "Administracja Trumpa pozwana w sprawie wiz",
+      "title": "Administracja Trumpa pozwana. Chodzi o wizy",
       "link": "https://tvn24.pl/biznes/dla-pracownika/usa-izba-handlowa-usa-pozywa-administracje-trumpa-za-nowa-oplate-wizowa-h-1b-st8704140?source=rss",
       "pubDate": "Fri, 17 Oct 2025 07:22:15 GMT",
-      "description": "• Amerykańska Izba Handlowa pozwała administrację Donalda Trumpa.\n• Powodem pozwu jest wprowadzenie nowej opłaty.\n• Wysokość nowej opłaty wynosi 100 tysięcy dolarów.\n• Równowartość 100 tysięcy dolarów to 360 tysięcy złotych.\n• Nowa opłata dotyczy wiz H-1B.\n• Wizy H-1B są przeznaczone dla wysoko wykwalifikowanych pracowników.\n• Pracownicy, dla których są przeznaczone wizy H-1B, pochodzą z zagranicy.",
+      "description": "Amerykańska Izba Handlowa pozwała administrację Donalda Trumpa w związku z wprowadzeniem nowej opłaty w wysokości 100 tysięcy dolarów (równowartość 360 tysięcy złotych) za wizy H-1B dla wysoko wykwalifikowanych pracowników z zagranicy.",
       "originalTitle": "Administracja Trumpa pozwana. Chodzi o wizy",
       "originalDescription": "Amerykańska Izba Handlowa pozwała administrację Donalda Trumpa w związku z wprowadzeniem nowej opłaty w wysokości 100 tysięcy dolarów (równowartość 360 tysięcy złotych) za wizy H-1B dla wysoko wykwalifikowanych pracowników z zagranicy."
     },
     {
-      "title": "Lasy i ich rola w katastrofach środowiskowych",
+      "title": "Te lasy miały chronić nas przed katastrofą. Zaczęły ją napędzać",
       "link": "https://tvn24.pl/tvnmeteo/swiat/te-lasy-mialy-chronic-nas-przed-katastrofa-zaczely-ja-napedzac-st8704078?source=rss",
       "pubDate": "Fri, 17 Oct 2025 07:21:03 GMT",
       "description": "Lasy deszczowe Australii emitują więcej dwutlenku węgla, niż go pochłaniają. Od kilku dekad drzewa obumierają szybciej, niż odrastają, co powoduje zwiększoną emisję. Zjawisko jest sygnałem ostrzegawczym dla innych lasów deszczowych na świecie i dla badaczy, którzy w modelach klimatycznych traktują je jako pochłaniacze węgla.",
       "originalTitle": "Te lasy miały chronić nas przed katastrofą. Zaczęły ją napędzać",
       "originalDescription": "Lasy deszczowe Australii emitują więcej dwutlenku węgla, niż go pochłaniają. Od kilku dekad drzewa obumierają szybciej, niż odrastają, co powoduje zwiększoną emisję. Zjawisko jest sygnałem ostrzegawczym dla innych lasów deszczowych na świecie i dla badaczy, którzy w modelach klimatycznych traktują je jako pochłaniacze węgla."
-    },
-    {
-      "title": "Wypadek busa pod Grójcem, 7 osób poszkodowanych",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/dachowanie-busa-pod-grojcem-siedem-osob-poszkodowanych-trasa-zablokowana-st8704182?source=rss",
-      "pubDate": "Fri, 17 Oct 2025 07:13:17 GMT",
-      "description": "Na trasie S7 dachował samochód typu bus. Siedem osób zostało poszkodowanych. Jezdnia w kierunku Warszawy jest całkowicie zablokowana.",
-      "originalTitle": "Dachowanie busa pod Grójcem. Siedem osób poszkodowanych, trasa zablokowana",
-      "originalDescription": "Na trasie S7 dachował samochód typu bus. Siedem osób zostało poszkodowanych. Jezdnia w kierunku Warszawy jest całkowicie zablokowana."
     },
     {
       "title": "Nożem uderzał w klatkę piersiową, głowę i bark. Poszło o kobietę",
@@ -42,46 +82,6 @@
       "description": "Policjanci z Łodzi zatrzymali 27-latka, który zaatakował nożem partnera swojej byłej dziewczyny. Napastnik zadał ciosy w klatkę piersiową, głowę i bark. Usłyszał zarzuty usiłowania zabójstwa.",
       "originalTitle": "Nożem uderzał w klatkę piersiową, głowę i bark. Poszło o kobietę",
       "originalDescription": "Policjanci z Łodzi zatrzymali 27-latka, który zaatakował nożem partnera swojej byłej dziewczyny. Napastnik zadał ciosy w klatkę piersiową, głowę i bark. Usłyszał zarzuty usiłowania zabójstwa."
-    },
-    {
-      "title": "Afera RARS. Twórca Red is Bad \"małym świadkiem koronnym\"",
-      "link": "https://tvn24.pl/polska/afera-rars-tworca-red-is-bad-malym-swiadkiem-koronnym-st8704152?source=rss",
-      "pubDate": "Fri, 17 Oct 2025 06:40:15 GMT",
-      "description": "Prokurator krajowy Dariusz Korneluk poinformował w TVN24, że w śledztwie dotyczącym Rządowej Agencji Rezerw Strategicznych twórca marki Red is Bad korzysta z instytucji małego świadka koronnego. Składa wyjaśnienia \"zbieżne ze zgromadzonym materiałem dowodowym\" - powiedział.",
-      "originalTitle": "Afera RARS. Twórca Red is Bad \"małym świadkiem koronnym\"",
-      "originalDescription": "Prokurator krajowy Dariusz Korneluk poinformował w TVN24, że w śledztwie dotyczącym Rządowej Agencji Rezerw Strategicznych twórca marki Red is Bad korzysta z instytucji małego świadka koronnego. Składa wyjaśnienia \"zbieżne ze zgromadzonym materiałem dowodowym\" - powiedział."
-    },
-    {
-      "title": "\"Obiecujące możliwości\". Minister finansów o rozmowach w USA",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-andrzej-domanski-rozmawial-z-ministrem-energii-usa-o-malych-reaktorach-atomowych-st8704102?source=rss",
-      "pubDate": "Fri, 17 Oct 2025 06:18:01 GMT",
-      "description": "Minister finansów Andrzej Domański poinformował, że w czwartek rozmawiał z ministrem energii Stanów Zjednoczonych o rozwoju małych reaktorów modułowych, dostawach LNG oraz postępach przy budowie pierwszej polskiej elektrowni jądrowej. Jak dodał, przedstawiciele Banku Gospodarstwa Krajowego prowadzili równolegle rozmowy z Bankiem Światowym na temat zaangażowania tej instytucji we wsparcie polskiej energetyki jądrowej.",
-      "originalTitle": "\"Obiecujące możliwości\". Minister finansów o rozmowach w USA",
-      "originalDescription": "Minister finansów Andrzej Domański poinformował, że w czwartek rozmawiał z ministrem energii Stanów Zjednoczonych o rozwoju małych reaktorów modułowych, dostawach LNG oraz postępach przy budowie pierwszej polskiej elektrowni jądrowej. Jak dodał, przedstawiciele Banku Gospodarstwa Krajowego prowadzili równolegle rozmowy z Bankiem Światowym na temat zaangażowania tej instytucji we wsparcie polskiej energetyki jądrowej."
-    },
-    {
-      "title": "Kolejka w sklepie? Wychodzą. Prysznic rano? Odpada. Życie z POTS",
-      "link": "https://tvn24.pl/zdrowie/kolejka-w-sklepie-wychodza-prysznic-rano-odpada-zycie-z-pots-st8701769?source=rss",
-      "pubDate": "Fri, 17 Oct 2025 06:12:31 GMT",
-      "description": "\"Byłam normalną, zdrową osobą, a nagle stałam się wrakiem człowieka\" - mówi 33-letnia Patrycja. \"Dzień, w którym zaczęła się infekcja, był ostatnim dniem mojego względnie normalnego funkcjonowania\" - wspomina 28-letnia Tasia. Obie chorują na zespół posturalnej tachykardii ortostatycznej (POTS), jedną z form dysautonomii. Długo trwało, zanim dowiedziały się, co sprawia, że codzienne czynności takie jak podróż komunikacją miejską, zakupy, czesanie i prysznic powodują u nich duszności, kołatania serca, zawroty głowy i szereg innych objawów.",
-      "originalTitle": "Kolejka w sklepie? Wychodzą. Prysznic rano? Odpada. Życie z POTS",
-      "originalDescription": "\"Byłam normalną, zdrową osobą, a nagle stałam się wrakiem człowieka\" - mówi 33-letnia Patrycja. \"Dzień, w którym zaczęła się infekcja, był ostatnim dniem mojego względnie normalnego funkcjonowania\" - wspomina 28-letnia Tasia. Obie chorują na zespół posturalnej tachykardii ortostatycznej (POTS), jedną z form dysautonomii. Długo trwało, zanim dowiedziały się, co sprawia, że codzienne czynności takie jak podróż komunikacją miejską, zakupy, czesanie i prysznic powodują u nich duszności, kołatania serca, zawroty głowy i szereg innych objawów."
-    },
-    {
-      "title": "Zabójstwo w Barcicach. Komentarze prokuratury i ekspertów",
-      "link": "https://tvn24.pl/polska/zabojstwo-w-barcicach-komentarze-prokuratury-i-ekspertow-st8704012?source=rss",
-      "pubDate": "Fri, 17 Oct 2025 06:08:51 GMT",
-      "description": "W Barcicach w Małopolsce doszło do potrójnego zabójstwa - głównym podejrzewanym jest 25-letni syn jednej z ofiar. Mężczyzna został zatrzymany. Pojawiają się pytania, czy tragedii można było zapobiec, bo domniemany sprawca miał być agresywny od dawna. Sąsiedzi od dłuższego czasu wiedzieli, że w tej rodzinie dzieje się coś złego - dochodziło tam do awantur i były policyjne interwencje. Materiał magazynu \"Polska i Świat\".",
-      "originalTitle": "Zabójstwo w Barcicach. Komentarze prokuratury i ekspertów",
-      "originalDescription": "W Barcicach w Małopolsce doszło do potrójnego zabójstwa - głównym podejrzewanym jest 25-letni syn jednej z ofiar. Mężczyzna został zatrzymany. Pojawiają się pytania, czy tragedii można było zapobiec, bo domniemany sprawca miał być agresywny od dawna. Sąsiedzi od dłuższego czasu wiedzieli, że w tej rodzinie dzieje się coś złego - dochodziło tam do awantur i były policyjne interwencje. Materiał magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Sprawa Collegium Humanum. \"Przygotowywany jest akt oskarżenia dotyczący 29 osób\"",
-      "link": "https://tvn24.pl/polska/sprawa-collegium-humanum-przygotowywany-jest-akt-oskarzenia-dotyczacy-29-osob-st8704079?source=rss",
-      "pubDate": "Fri, 17 Oct 2025 05:57:07 GMT",
-      "description": "W tej chwili jest przygotowywany akt oskarżenia dotyczący 29 osób w sprawie Collegium Humanum - powiedział w \"Jeden na jeden\" w TVN24 prokurator krajowy Dariusz Korneluk. Przekazał też, że w śledztwie dotyczącym Rządowej Agencji Rezerw Strategicznych twórca marki Red is Bad korzysta z instytucji małego świadka koronnego.",
-      "originalTitle": "Sprawa Collegium Humanum. \"Przygotowywany jest akt oskarżenia dotyczący 29 osób\"",
-      "originalDescription": "W tej chwili jest przygotowywany akt oskarżenia dotyczący 29 osób w sprawie Collegium Humanum - powiedział w \"Jeden na jeden\" w TVN24 prokurator krajowy Dariusz Korneluk. Przekazał też, że w śledztwie dotyczącym Rządowej Agencji Rezerw Strategicznych twórca marki Red is Bad korzysta z instytucji małego świadka koronnego."
     }
   ]
 }
