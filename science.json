@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-10-17T08:39:15.310Z",
+  "lastUpdate": "2025-10-17T09:06:07.642Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Kwantowa komunikacja nowej generacji",
+      "link": "https://dzienniknaukowy.pl/kwantowa-komunikacja-nowej-generacji",
+      "pubDate": "Fri, 17 Oct 2025 08:41:20 +0000",
+      "description": "Fizycy z Uniwersytetu Warszawskiego opracowali i przetestowali w miejskiej infrastrukturze nowatorski system kwantowej dystrybucji klucza kryptograficznego (QKD), oparty na kodowaniu wysokowymiarowym. Układ jest prostszy w budowie i skalowaniu niż dotychczasowe rozwiązania."
+    },
     {
       "title": "Polacy współautorami nowej metody badania reakcji chemicznych",
       "link": "https://dzienniknaukowy.pl/polacy-wspolautorami-nowej-metody-badania-reakcji-chemicznych",
@@ -31,7 +37,7 @@
       "title": "Eksperci: terapia celowana przełomem w leczeniu glejaka",
       "link": "https://dzienniknaukowy.pl/eksperci-terapia-celowana-przelomem-w-leczeniu-glejaka",
       "pubDate": "Wed, 15 Oct 2025 08:58:03 +0000",
-      "description": "Przełomem w leczeniu glejaka jest leczenie ukierunkowane molekularnie, nazywane terapią celowaną – twierdzą eksperci. Podstawą leczenia tego guza mózgu nadal jest jednak zabieg operacyjny. Na ogół można go wykonać jedynie w ograniczonym zakresie."
+      "description": "Przełomem w leczeniu glejaka jest leczenie ukierunkowane molekularnie, nazywane terapią celowan�� – twierdzą eksperci. Podstawą leczenia tego guza mózgu nadal jest jednak zabieg operacyjny. Na ogół można go wykonać jedynie w ograniczonym zakresie."
     },
     {
       "title": "Syrop na kaszel suchy – jak wybrać odpowiedni dla dziecka?",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/paleolityczni-lowcy-z-tatrzanskich-jaskin-byli-zapobiegliwymi-przybyszami-z-zachodu",
       "pubDate": "Tue, 14 Oct 2025 09:10:06 +0000",
       "description": "Około 15 tys. lat temu szczyty Tatr przyciągnęły łowców najlepiej znanych z terenów Hiszpanii i Francji. Zapobiegliwie przynieśli oni ze sobą zapas kamiennych ostrzy broni i narzędzi, dzięki którym m.in. polowali na zwierzęta. Ślady tej ludności odnajdują w Jaskini nad Huczawą polscy archeolodzy."
-    },
-    {
-      "title": "Jak języki obce wpływają na naszą pamięć i zdolności poznawcze?",
-      "link": "https://dzienniknaukowy.pl/jak-jezyki-obce-wplywaja-na-nasza-pamiec-i-zdolnosci-poznawcze",
-      "pubDate": "Thu, 09 Oct 2025 14:52:39 +0000",
-      "description": "Nauka języków obcych to coś znacznie więcej niż tylko możliwość porozumienia się podczas podróży czy zdobycie lepszej pracy. To proces, który angażuje nasz mózg w wyjątkowy sposób – ćwiczy pamięć, wspiera koncentrację i rozwija zdolności poznawcze. Co ciekawe, wpływ ten odczuwają zarówno dzieci, jak i osoby dorosłe, a nawet seniorzy. Mózg pracuje intensywniej, gdy uczymy się nowych słów, struktur gramatycznych czy brzmienia obcego języka, a efekty tej pracy odczuwamy na wielu płaszczyznach."
     }
   ]
 }
