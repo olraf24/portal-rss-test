@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-10-17T09:06:07.642Z",
+  "lastUpdate": "2025-10-17T09:35:39.978Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Prozdrowotne właściwości nasion dyni",
+      "link": "https://dzienniknaukowy.pl/prozdrowotne-wlasciwosci-nasion-dyni",
+      "pubDate": "Fri, 17 Oct 2025 09:17:23 +0000",
+      "description": "Dynia kojarzy się przede wszystkim z jesiennymi potrawami – zupą, ciastem czy dekoracjami na Halloween. Tymczasem jej nasiona kryją w sobie bogactwo składników, które mogą wspierać zdrowie i znaleźć zastosowanie we współczesnej dietetyce oraz suplementacji. Nasiona dyni mają właściwości przeciwzapalne, antyoksydacyjne, mogą obniżać poziom cholesterolu i chronić układ krążenia."
+    },
     {
       "title": "Kwantowa komunikacja nowej generacji",
       "link": "https://dzienniknaukowy.pl/kwantowa-komunikacja-nowej-generacji",
       "pubDate": "Fri, 17 Oct 2025 08:41:20 +0000",
       "description": "Fizycy z Uniwersytetu Warszawskiego opracowali i przetestowali w miejskiej infrastrukturze nowatorski system kwantowej dystrybucji klucza kryptograficznego (QKD), oparty na kodowaniu wysokowymiarowym. Układ jest prostszy w budowie i skalowaniu niż dotychczasowe rozwiązania."
+    },
+    {
+      "title": "Rola diety w profilaktyce i leczeniu zapalenia zatok – co jeść, by szybciej wyzdrowieć?",
+      "link": "https://dzienniknaukowy.pl/rola-diety-w-profilaktyce-i-leczeniu-zapalenia-zatok-co-jesc-by-szybciej-wyzdrowiec",
+      "pubDate": "Fri, 17 Oct 2025 08:20:00 +0000",
+      "description": "Zapalenie zatok to częsty problem, zwłaszcza jesienią i zimą, gdy infekcje górnych dróg oddechowych są na porządku dziennym. Choć podstawą leczenia są dobrze dobrane do objawów preparaty, dieta również odgrywa w nim ważną rolę. Co jeść, aby szybciej dojść do siebie po infekcji i rzadziej chorować?"
     },
     {
       "title": "Polacy współautorami nowej metody badania reakcji chemicznych",
@@ -37,7 +49,7 @@
       "title": "Eksperci: terapia celowana przełomem w leczeniu glejaka",
       "link": "https://dzienniknaukowy.pl/eksperci-terapia-celowana-przelomem-w-leczeniu-glejaka",
       "pubDate": "Wed, 15 Oct 2025 08:58:03 +0000",
-      "description": "Przełomem w leczeniu glejaka jest leczenie ukierunkowane molekularnie, nazywane terapią celowan�� – twierdzą eksperci. Podstawą leczenia tego guza mózgu nadal jest jednak zabieg operacyjny. Na ogół można go wykonać jedynie w ograniczonym zakresie."
+      "description": "Przełomem w leczeniu glejaka jest leczenie ukierunkowane molekularnie, nazywane terapią celowaną – twierdzą eksperci. Podstawą leczenia tego guza mózgu nadal jest jednak zabieg operacyjny. Na ogół można go wykonać jedynie w ograniczonym zakresie."
     },
     {
       "title": "Syrop na kaszel suchy – jak wybrać odpowiedni dla dziecka?",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/prawne-aspekty-transformacji-cyfrowej-i-ai",
       "pubDate": "Tue, 14 Oct 2025 09:32:04 +0000",
       "description": "Transformacja cyfrowa oraz rozwój sztucznej inteligencji to zjawiska, które w coraz większym stopniu wpływają na społeczeństwa, gospodarki i systemy prawne na całym świecie. W centrum dyskusji znajdują się pytania o równowagę między innowacją, ochroną praw jednostki a zbiorową odpowiedzialnością. Kluczowe jest, by człowiek – a nie maszyna – pozostawał w centrum podejmowania decyzji."
-    },
-    {
-      "title": "Kolonoskopia może uratować życie. Kiedy i dlaczego warto się przebadać?",
-      "link": "https://dzienniknaukowy.pl/kolonoskopia-moze-uratowac-zycie-kiedy-i-dlaczego-warto-sie-przebadac",
-      "pubDate": "Tue, 14 Oct 2025 09:22:13 +0000",
-      "description": "Zachorowalność na raka jelita grubego w Polsce utrzymuje się na wysokim poziomie, mimo prowadzonych programów profilaktycznych. Kolonoskopia stanowi podstawową procedurę diagnostyczną, która pozwala na wczesne wykrycie chorób dolnego odcinka układu pokarmowego. Pomimo tego wiele osób nie poddaje się temu badaniu regularnie lub w momencie pojawienie się niepokojących objawów. Winne temu są powtarzane mity na temat kolonoskopii, które powodują obawy związane z bólem, wstydem i dyskomfortem"
-    },
-    {
-      "title": "Paleolityczni łowcy z tatrzańskich jaskiń byli zapobiegliwymi przybyszami z zachodu",
-      "link": "https://dzienniknaukowy.pl/paleolityczni-lowcy-z-tatrzanskich-jaskin-byli-zapobiegliwymi-przybyszami-z-zachodu",
-      "pubDate": "Tue, 14 Oct 2025 09:10:06 +0000",
-      "description": "Około 15 tys. lat temu szczyty Tatr przyciągnęły łowców najlepiej znanych z terenów Hiszpanii i Francji. Zapobiegliwie przynieśli oni ze sobą zapas kamiennych ostrzy broni i narzędzi, dzięki którym m.in. polowali na zwierzęta. Ślady tej ludności odnajdują w Jaskini nad Huczawą polscy archeolodzy."
     }
   ]
 }
