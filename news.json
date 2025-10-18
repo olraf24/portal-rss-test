@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2025-10-18T11:34:16.010Z",
+  "lastUpdate": "2025-10-18T12:08:50.725Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Stany Zjednoczone wprowadzają cła na samochody",
+      "title": "Odkryto nowy gatunek bakterii na uczelni",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/podczas-zajec-na-uczelni-odkryto-nowy-gatunek-bakterii-st8706388?source=rss",
+      "pubDate": "Sat, 18 Oct 2025 11:54:58 GMT",
+      "description": "• Naukowcy pochodzą z hawajskiej uczelni University of Hawaiʻi at Mānoa.\n• Odkryli nieznany dotąd gatunek bakterii.\n• Gatunek bakterii został zidentyfikowany w wodzie morskiej.\n• Woda morska, w której zidentyfikowano bakterie, pochodzi z południowego wybrzeża wyspy Oʻahu.",
+      "originalTitle": "Podczas zajęć na uczelni odkryto nowy gatunek bakterii",
+      "originalDescription": "Naukowcy z hawajskiej uczelni University of Hawaiʻi at Mānoa odkryli nieznany dotąd gatunek bakterii. Zidentyfikowali go w wodzie morskiej pobranej u południowego wybrzeża wyspy Oʻahu."
+    },
+    {
+      "title": "Obniżenie ratingu Francji",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rating-kredytowy-francji-w-dol-niepewnosc-co-do-finansow-publicznych-pozostaje-podwyzszona-st8706628?source=rss",
+      "pubDate": "Sat, 18 Oct 2025 11:46:43 GMT",
+      "description": "• Agencja Standard & Poor’s obniżyła w piątek rating kredytowy Francji z AA- do A+.\n• Perspektywa ratingu została zmieniona z negatywnej na stabilną.\n• Decyzja ta wynika z prognoz wskazujących, że w nadchodzących latach zadłużenie kraju wzrośnie bardziej niż wcześniej przewidywano.",
+      "originalTitle": "Rating Francji w dół. \"Niepewność co do finansów publicznych pozostaje podwyższona\"",
+      "originalDescription": "Agencja Standard & Poor’s obniżyła w piątek rating kredytowy Francji z AA- do A+, jednocześnie zmieniając perspektywę z negatywnej na stabilną. Decyzja ta wynika z prognoz wskazujących, że w nadchodzących latach zadłużenie kraju wzrośnie bardziej niż wcześniej przewidywano."
+    },
+    {
+      "title": "Wypadek drogowy z udziałem rowerzysty i samochodów",
+      "link": "https://tvn24.pl/lodz/lodz-rajd-pijanego-kierowcy-po-piotrkowskiej-rowerzysta-powaznie-ranny-st8706646?source=rss",
+      "pubDate": "Sat, 18 Oct 2025 11:45:17 GMT",
+      "description": "• Pijany 27-latek pędził po ulicy Piotrkowskiej, głównym deptaku Łodzi.\n• Mężczyzna uciekał przed goniącą go strażą miejską.\n• Mężczyzna miał 1,3 promila alkoholu w organizmie.\n• W czasie jazdy uszkodził dwa samochody.\n• Potrącił rowerzystę.\n• Rowerzysta z poważnymi obrażeniami został przewieziony do szpitala.",
+      "originalTitle": "Uciekał przed strażnikami miejskimi, uderzył w rowerzystę i dwa samochody",
+      "originalDescription": "Pijany 27-latek pędził po ulicy Piotrkowskiej, głównym deptaku Łodzi i uciekał przed goniącą go strażą miejską. Mężczyzna, który w organizmie miał 1,3 promila alkoholu, uszkodził w czasie jazdy dwa samochody i potrącił rowerzystę, który z poważnymi obrażeniami został przewieziony do szpitala."
+    },
+    {
+      "title": "Ponad milion ofiar, ucieczki Rosjan",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rosyjskie-straty-ponad-milion-ludzi-zolnierze-uciekaja-na-rozne-sposoby-st8706523?source=rss",
+      "pubDate": "Sat, 18 Oct 2025 11:38:12 GMT",
+      "description": "Żołnierze rosyjskiej armii dezerterują w olbrzymich liczbach - podaje wywiad wojskowy w Kijowie. Boją się śmierci, ale nie tylko jej. Według Ukraińców, straty Rosjan od ich ataku w lutym 2022 roku to już ponad 1,1 miliona zabitych, rannych, zaginionych i wziętych w niewolę.",
+      "originalTitle": "Straty w ludziach: ponad milion. Rosjanie uciekają na różne sposoby",
+      "originalDescription": "Żołnierze rosyjskiej armii dezerterują w olbrzymich liczbach - podaje wywiad wojskowy w Kijowie. Boją się śmierci, ale nie tylko jej. Według Ukraińców, straty Rosjan od ich ataku w lutym 2022 roku to już ponad 1,1 miliona zabitych, rannych, zaginionych i wziętych w niewolę."
+    },
+    {
+      "title": "Cła Trumpa. Prezydent stara się ochronić przemysł motoryzacyjny",
       "link": "https://tvn24.pl/biznes/moto/cla-trumpa-przedluzenie-ulg-celnych-dla-czesci-amerykanskich-producentow-samochodow-st8706477?source=rss",
       "pubDate": "Sat, 18 Oct 2025 11:21:02 GMT",
       "description": "Biały Dom poinformował w piątek o przedłużeniu obowiązujących ulg celnych dla wybranych największych producentów samochodów w USA. Administracja prezydenta Donalda Trumpa przedstawiła także szczegóły planowanych nowych ceł na ciężarówki i autobusy.",
@@ -12,18 +44,18 @@
       "originalDescription": "Biały Dom poinformował w piątek o przedłużeniu obowiązujących ulg celnych dla wybranych największych producentów samochodów w USA. Administracja prezydenta Donalda Trumpa przedstawiła także szczegóły planowanych nowych ceł na ciężarówki i autobusy."
     },
     {
-      "title": "Prognoza sztormu na Bałtyku",
+      "title": "Sztorm na Bałtyku. Ryzyko gwałtownego wezbrania wody",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-sztorm-na-baltyku-ryzyko-gwaltownego-wezbrania-wody-st8706579?source=rss",
       "pubDate": "Sat, 18 Oct 2025 11:19:11 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed sztormem.\n• Synoptycy ostrzegają przed gwałtownym wzrostem stanów wody na części wybrzeża.\n• Synoptycy ostrzegają przed gwałtownym wzrostem stanów wody w zlewniach.",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed sztormem. Synoptycy ostrzegają także przed gwałtownym wzrostem stanów wody na części wybrzeża oraz w zlewniach.",
       "originalTitle": "Sztorm na Bałtyku. Ryzyko gwałtownego wezbrania wody",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed sztormem. Synoptycy ostrzegają także przed gwałtownym wzrostem stanów wody na części wybrzeża oraz w zlewniach."
     },
     {
-      "title": "Samochód wjechał na tory kolejowe",
+      "title": "Wjechał na tory, zablokował przejazd. Nagranie",
       "link": "https://tvn24.pl/opole/tulowice-wjechal-na-tory-zablokowal-przejazd-nagranie-st8706586?source=rss",
       "pubDate": "Sat, 18 Oct 2025 11:16:15 GMT",
-      "description": "• Wjechał na przejazd kolejowy mimo opadających rogatek i utknął.\n• Nadjeżdżający pociąg musiał się zatrzymać i zaczekać, aż kierowca przestawi swój pojazd.\n• Świadek zdarzenia skomentował: \"Jeśli naprawdę tego nie zauważył, nie wiem, czy dalej powinien mieć prawo jazdy\".\n• Świadek zdarzenia nagranie przesłał na Kontakt24.",
+      "description": "Wjechał na przejazd kolejowy mimo opadających rogatek i utknął. Nadjeżdżający pociąg musiał się zatrzymać i zaczekać, aż kierowca przestawi swój pojazd. - Jeśli naprawdę tego nie zauważył, nie wiem, czy dalej powinien mieć prawo jazdy - komentuje świadek zdarzenia, który nagranie przesłał na Kontakt24.",
       "originalTitle": "Wjechał na tory, zablokował przejazd. Nagranie",
       "originalDescription": "Wjechał na przejazd kolejowy mimo opadających rogatek i utknął. Nadjeżdżający pociąg musiał się zatrzymać i zaczekać, aż kierowca przestawi swój pojazd. - Jeśli naprawdę tego nie zauważył, nie wiem, czy dalej powinien mieć prawo jazdy - komentuje świadek zdarzenia, który nagranie przesłał na Kontakt24."
     },
@@ -50,38 +82,6 @@
       "description": "Największy krater na Księżycu powstał inaczej, niż myśleliśmy - uważają naukowcy. Ma to poważne konsekwencje dla misji Artemis, pierwszej załogowej wyprawy na naszego naturalnego satelitę od ponad 50 lat.",
       "originalTitle": "Jak powstał największy krater na Księżycu? Inaczej, niż myśleliśmy",
       "originalDescription": "Największy krater na Księżycu powstał inaczej, niż myśleliśmy - uważają naukowcy. Ma to poważne konsekwencje dla misji Artemis, pierwszej załogowej wyprawy na naszego naturalnego satelitę od ponad 50 lat."
-    },
-    {
-      "title": "Atak agresywnego psa. Kobieta została pogryziona, jej czworonóg nie żyje",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-atak-agresywnego-psa-na-saskiej-kepie-kobieta-zostala-pogryziona-jej-czworonog-nie-zyje-st8706319?source=rss",
-      "pubDate": "Sat, 18 Oct 2025 10:26:00 GMT",
-      "description": "Agresywny pies zaatakował kobietę spacerującą ze swoim czworonogiem na Saskiej Kępie. Leoś nie przeżył, a sama właścicielka została pogryziona, gdy próbowała go ratować. Ma połamane i poranione palce. Agresywne zwierzę zostało przegonione dopiero po interwencji świadków. Według mieszkańców nie jest to pierwsza taka sytuacja z jego udziałem.",
-      "originalTitle": "Atak agresywnego psa. Kobieta została pogryziona, jej czworonóg nie żyje",
-      "originalDescription": "Agresywny pies zaatakował kobietę spacerującą ze swoim czworonogiem na Saskiej Kępie. Leoś nie przeżył, a sama właścicielka została pogryziona, gdy próbowała go ratować. Ma połamane i poranione palce. Agresywne zwierzę zostało przegonione dopiero po interwencji świadków. Według mieszkańców nie jest to pierwsza taka sytuacja z jego udziałem."
-    },
-    {
-      "title": "Właściciele stacji benzynowych ostrzegają: zamknięcia albo podwyżki",
-      "link": "https://tvn24.pl/biznes/prawo/wlasciciele-stacji-benzynowych-ostrzegaja-zamkniecia-albo-podwyzki-st8706313?source=rss",
-      "pubDate": "Sat, 18 Oct 2025 10:24:03 GMT",
-      "description": "Polski rząd wrócił do prac nad wprowadzeniem zakazu sprzedaży alkoholu na stacjach paliw. - Może okazać się, że w niektórych lokalizacjach, zwłaszcza w mniejszych miejscowościach, utrzymanie stacji paliw bez sklepu mającego w ofercie alkohol może okazać się nieopłacalne. W innych będzie oznaczało wzrost ceny paliw - ocenił prezes Polskiej Organizacji Przemysłu i Handlu Naftowego Leszek Wiwała.",
-      "originalTitle": "Właściciele stacji benzynowych ostrzegają: zamknięcia albo podwyżki",
-      "originalDescription": "Polski rząd wrócił do prac nad wprowadzeniem zakazu sprzedaży alkoholu na stacjach paliw. - Może okazać się, że w niektórych lokalizacjach, zwłaszcza w mniejszych miejscowościach, utrzymanie stacji paliw bez sklepu mającego w ofercie alkohol może okazać się nieopłacalne. W innych będzie oznaczało wzrost ceny paliw - ocenił prezes Polskiej Organizacji Przemysłu i Handlu Naftowego Leszek Wiwała."
-    },
-    {
-      "title": "Osuszyli staw przy domu Karoliny Wróbel. 24-latka zaginęła na początku roku",
-      "link": "https://tvn24.pl/katowice/czechowice-dziedzice-osuszyli-staw-przy-domu-karoliny-wrobel-24-latka-zaginela-na-poczatku-roku-st8706404?source=rss",
-      "pubDate": "Sat, 18 Oct 2025 10:08:14 GMT",
-      "description": "Śledczy mają osobę podejrzaną o zabójstwo Karoliny Wróbel, ale nie znaleźli jej ciała. W tym celu spuszczono w sobotę częściowo wodę ze stawu w pobliżu miejsca zamieszkania kobiety. Dno przeszukuje w sobotę 150 policjantów i strażaków z pomocą psów wyszkolonych do poszukiwania martwych osób.",
-      "originalTitle": "Osuszyli staw przy domu Karoliny Wróbel. 24-latka zaginęła na początku roku",
-      "originalDescription": "Śledczy mają osobę podejrzaną o zabójstwo Karoliny Wróbel, ale nie znaleźli jej ciała. W tym celu spuszczono w sobotę częściowo wodę ze stawu w pobliżu miejsca zamieszkania kobiety. Dno przeszukuje w sobotę 150 policjantów i strażaków z pomocą psów wyszkolonych do poszukiwania martwych osób."
-    },
-    {
-      "title": "Ruszyły zdjęcia do \"Lalki\", Smutniak zagra u Gibsona, będzie druga część filmu \"Minecraft\"",
-      "link": "https://tvn24.pl/kultura-i-styl/kadr-na-kino-program-eweliny-witenberg-ruszyly-zdjecia-do-lalki-smutniak-zagra-u-gibsona-st6430598?source=rss",
-      "pubDate": "Sat, 27 Sep 2025 09:15:00 GMT",
-      "description": "W najnowszym \"Kadrze na kino\" Ewelina Witenberg opowiedziała między innymi o trwających zdjęciach do filmu \"Lalka\" na Krakowskim Przedmieściu w Warszawie. W programie podsumowała również najważniejsze wydarzenia ze świata filmu i muzyki, w tym przygotowania do musicalu duńskiego zespołu \"Aqua\".",
-      "originalTitle": "Ruszyły zdjęcia do \"Lalki\", Smutniak zagra u Gibsona, będzie druga część filmu \"Minecraft\"",
-      "originalDescription": "W najnowszym \"Kadrze na kino\" Ewelina Witenberg opowiedziała między innymi o trwających zdjęciach do filmu \"Lalka\" na Krakowskim Przedmieściu w Warszawie. W programie podsumowała również najważniejsze wydarzenia ze świata filmu i muzyki, w tym przygotowania do musicalu duńskiego zespołu \"Aqua\"."
     }
   ]
 }
