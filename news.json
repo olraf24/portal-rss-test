@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-19T11:33:53.926Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-19T12:08:50.409Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Włamanie trwało siedem minut",
+      "link": "https://tvn24.pl/swiat/francja-napad-na-luwr-st8707481?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 09:25:44 GMT",
+      "description": "Francuska minister kultury poinformowała o włamaniu do Luwru. Słynne muzeum w centrum Paryża zostało zamknięte. Minister spraw wewnętrznych potwierdził, że doszło do kradzieży biżuterii, a cała akcja trwała siedem minut. Trwają poszukiwania sprawców.",
+      "originalTitle": "Weszli przez okno. Wszystko trwało \"siedem minut\"",
+      "originalDescription": "Francuska minister kultury poinformowała o włamaniu do Luwru. Słynne muzeum w centrum Paryża zostało zamknięte. Minister spraw wewnętrznych potwierdził, że doszło do kradzieży biżuterii, a cała akcja trwała siedem minut. Trwają poszukiwania sprawców."
+    },
+    {
+      "title": "Przekazane kwoty przez Polaków za granicą",
+      "link": "https://tvn24.pl/biznes/najnowsze/emigranci-zarobkowi-w-ii-kwartale-2025-r-przeslali-do-polski-5-3-mld-zl-dane-polskiego-instytutu-ekonomicznego-st8707566?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 11:49:09 GMT",
+      "description": "Polacy zarabiający poza granicami kraju w drugim kwartale 2025 roku przesłali do ojczyzny łącznie 5,3 miliarda złotych. To wynik wyższy od średniej z ostatnich lat – wynika z danych przedstawionych w \"Tygodniku Gospodarczym PIE\".",
+      "originalTitle": "Tyle pieniędzy przekazali do kraju Polacy pracujący za granicą",
+      "originalDescription": "Polacy zarabiający poza granicami kraju w drugim kwartale 2025 roku przesłali do ojczyzny łącznie 5,3 miliarda złotych. To wynik wyższy od średniej z ostatnich lat – wynika z danych przedstawionych w \"Tygodniku Gospodarczym PIE\"."
+    },
+    {
+      "title": "Odkryto rośliny na młodej wyspie",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/surtsey-na-tej-wyspie-odkryto-rosliny-ktorych-nie-powinno-tam-byc-st8707484?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 11:41:40 GMT",
+      "description": "Na wyspie Surtsey odkryto gatunki roślin, które z naukowego punktu widzenia nie powinny się tam znaleźć. Jak się okazało, zostały przeniesione bez bezpośredniej ingerencji człowieka. Badania nad tym, jak tworzą się nowe ekosystemy, mogą pomóc nam w zrozumieniu ich przyszłości w dobie zmian klimatycznych.",
+      "originalTitle": "Na młodej wyspie odkryto rośliny, których nie powinno tam być",
+      "originalDescription": "Na wyspie Surtsey odkryto gatunki roślin, które z naukowego punktu widzenia nie powinny się tam znaleźć. Jak się okazało, zostały przeniesione bez bezpośredniej ingerencji człowieka. Badania nad tym, jak tworzą się nowe ekosystemy, mogą pomóc nam w zrozumieniu ich przyszłości w dobie zmian klimatycznych."
+    },
+    {
+      "title": "Mężczyzna porwany we własnym aucie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ciechanow-zostal-porwany-we-wlasnym-aucie-dreczyli-go-i-strzelali-do-niego-z-pistoletu-na-kulki-st8707546?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 11:17:39 GMT",
+      "description": "Trzech młodych mężczyzn zostało zatrzymanych w związku z uprowadzeniem 21-latka. Według policji przez kilka godzin dręczyli go i strzelali do niego z pistoletu na kulki. Mieli też zmusić poszkodowanego do wypłacenia pieniędzy z bankomatu.",
+      "originalTitle": "Został porwany we własnym aucie. Dręczyli go i strzelali do niego z pistoletu na kulki",
+      "originalDescription": "Trzech młodych mężczyzn zostało zatrzymanych w związku z uprowadzeniem 21-latka. Według policji przez kilka godzin dręczyli go i strzelali do niego z pistoletu na kulki. Mieli też zmusić poszkodowanego do wypłacenia pieniędzy z bankomatu."
+    },
+    {
+      "title": "Żołnierz z Północnej Korei przekroczył linię demarkacyjną",
+      "link": "https://tvn24.pl/swiat/korea-polnocna-zolnierz-rezimu-kima-zdezerterowal-i-przedarl-sie-przez-linie-demarkacyjna-st8707625?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:49:42 GMT",
+      "description": "• Żołnierz Korei Północnej zdezerterował i uciekł na terytorium Korei Południowej.\n• Informację o dezercji przekazało południowokoreańskie wojsko.\n• Mężczyzna musiał przedrzeć się przez silnie ufortyfikowaną strefę zdemilitaryzowaną, aby dostać się na teren Korei Południowej.",
+      "originalTitle": "Północnokoreański żołnierz przedarł się przez linię demarkacyjną. Jest już w Korei Południowej",
+      "originalDescription": "Żołnierz Korei Północnej zdezerterował i uciekł na terytorium Korei Południowej - przekazało południowokoreańskie wojsko. Mężczyzna, zanim znalazł się na terenie demokratycznego sąsiada, musiał przedrzeć się przez silnie ufortyfikowaną strefę zdemilitaryzowaną."
+    },
+    {
+      "title": "Ćwiczenia służb w tunelu pod Martwą Wisłą",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-sluzby-cwiczyly-w-tunelu-pod-martwa-wisla-st8707562?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:45:06 GMT",
+      "description": "• Strażacy uczestniczyli w ćwiczeniach.\n• Policjanci uczestniczyli w ćwiczeniach.\n• Ratownicy medyczni uczestniczyli w ćwiczeniach.\n• Ćwiczenia zostały zorganizowane w nocy z soboty na niedzielę.\n• Ćwiczenia odbyły się w tunelu pod Martwą Wisła.\n• Miejsce ćwiczeń to Gdańsk.\n• Działaniom przyglądali się operatorzy kamery.",
+      "originalTitle": "Scenariusz: wypadek masowy i duży pożar. Służby ćwiczyły w tunelu pod Martwą Wisłą",
+      "originalDescription": "Strażacy, policjanci i ratownicy medyczni uczestniczyli w ćwiczeniach zorganizowanych w nocy z soboty na niedzielę w tunelu pod Martwą Wisła w Gdańsku. Działaniom przyglądaliśmy się z naszą kamerą."
+    },
+    {
+      "title": "Zniknęło 150 ton ziemniaków",
+      "link": "https://tvn24.pl/polska/nie-widzieli-a-uwierzyli-dzis-z-pola-zniknelo-150-ton-ziemniakow-a-jutro-st8700637?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:44:09 GMT",
+      "description": "Można tę historię komentować, że jest \"jak z filmu Barei\" - lecz nikomu nie było do śmiechu. Bo nie chodzi tylko o 150 ton ziemniaków i straty materialne. W tym zdarzeniu jak w soczewce widać, czym skutkuje bezrefleksyjna wiara w każdy przekaz i jak łatwo od takiej wiary przejść do działania. To klasyczna historia-chwast. Oto jak ją rozsiewano.",
+      "originalTitle": "Nie widzieli, a uwierzyli. Dziś z pola zniknęło 150 ton ziemniaków, a jutro?",
+      "originalDescription": "Można tę historię komentować, że jest \"jak z filmu Barei\" - lecz nikomu nie było do śmiechu. Bo nie chodzi tylko o 150 ton ziemniaków i straty materialne. W tym zdarzeniu jak w soczewce widać, czym skutkuje bezrefleksyjna wiara w każdy przekaz i jak łatwo od takiej wiary przejść do działania. To klasyczna historia-chwast. Oto jak ją rozsiewano."
+    },
+    {
+      "title": "Chciał wyprzedzać, skończył na dachu. Kierowca pijany i z zakazem",
+      "link": "https://tvn24.pl/wroclaw/legnica-kostkowice-chcial-wyprzedzac-dachowal-kierowca-pijany-pasazer-rowniez-st8707565?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:29:38 GMT",
+      "description": "Zjechał z drogi, uderzył w drzewo i dachował. A zaczęło się od tego, że kierowca na trasie z Legnicy do Koskowic chciał wyprzedzić jadące przed nim auto. Kiedy zorientował się, że nie da rady, próbował wrócić na swój pas. Był pijany, tak samo zresztą jak pasażer.",
+      "originalTitle": "Chciał wyprzedzać, skończył na dachu. Kierowca pijany i z zakazem",
+      "originalDescription": "Zjechał z drogi, uderzył w drzewo i dachował. A zaczęło się od tego, że kierowca na trasie z Legnicy do Koskowic chciał wyprzedzić jadące przed nim auto. Kiedy zorientował się, że nie da rady, próbował wrócić na swój pas. Był pijany, tak samo zresztą jak pasażer."
+    },
+    {
+      "title": "\"Na północnym Pacyfiku z całą pewnością dzieje się coś niezwykłego\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/na-polnocnym-pacyfiku-z-cala-pewnoscia-dzieje-sie-cos-niezwyklego-st8706940?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:27:11 GMT",
+      "description": "Wody północnego Pacyfiku były tego lata wyjątkowo gorące - alarmują naukowcy. Anomalia ma ogromny wpływ na pogodę w wielu regionach świata. Są różne hipotezy dotyczące pochodzenia tego zjawiska.",
+      "originalTitle": "\"Na północnym Pacyfiku z całą pewnością dzieje się coś niezwykłego\"",
+      "originalDescription": "Wody północnego Pacyfiku były tego lata wyjątkowo gorące - alarmują naukowcy. Anomalia ma ogromny wpływ na pogodę w wielu regionach świata. Są różne hipotezy dotyczące pochodzenia tego zjawiska."
+    },
+    {
+      "title": "Ten kraj zyskuje popularność wśród Polaków. Zwłaszcza zimą",
+      "link": "https://tvn24.pl/biznes/turystyka/oman-kraj-ktory-zyskuje-popularnosc-wsrod-polakow-zwlaszcza-zima-st8707515?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:22:48 GMT",
+      "description": "Oman cieszy się coraz większą popularnością wśród polskich turystów. Od stycznia do końca lipca tego roku kraj ten odwiedziło ponad 33,7 tysiąca osób z Polski, czyli o blisko 9,5 tysiąca więcej niż w tym samym okresie ubiegłego roku - poinformowało Ministerstwo Dziedzictwa i Turystyki Omanu. Trend wzrostowy utrzymuje się nieprzerwanie od 2022 roku.",
+      "originalTitle": "Ten kraj zyskuje popularność wśród Polaków. Zwłaszcza zimą",
+      "originalDescription": "Oman cieszy się coraz większą popularnością wśród polskich turystów. Od stycznia do końca lipca tego roku kraj ten odwiedziło ponad 33,7 tysiąca osób z Polski, czyli o blisko 9,5 tysiąca więcej niż w tym samym okresie ubiegłego roku - poinformowało Ministerstwo Dziedzictwa i Turystyki Omanu. Trend wzrostowy utrzymuje się nieprzerwanie od 2022 roku."
+    }
+  ]
 }
