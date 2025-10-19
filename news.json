@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-10-19T10:05:59.413Z",
+  "lastUpdate": "2025-10-19T10:35:55.136Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy, zderzenie ciężarówki z autem",
+      "title": "Wypadek drogowy, kierowca pijany i bez uprawnień",
+      "link": "https://tvn24.pl/wroclaw/legnica-kostkowice-chcial-wyprzedzac-dachowal-kierowca-pijany-pasazer-rowniez-st8707565?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:29:38 GMT",
+      "description": "• Zjechał z drogi, uderzył w drzewo i dachował.\n• Kierowca jechał trasą z Legnicy do Koskowic.\n• Kierowca chciał wyprzedzić jadące przed nim auto.\n• Kierowca zorientował się, że nie da rady wyprzedzić i próbował wrócić na swój pas.\n• Kierowca był pijany.\n• Pasażer również był pijany.",
+      "originalTitle": "Chciał wyprzedzać, skończył na dachu. Kierowca pijany i z zakazem",
+      "originalDescription": "Zjechał z drogi, uderzył w drzewo i dachował. A zaczęło się od tego, że kierowca na trasie z Legnicy do Koskowic chciał wyprzedzić jadące przed nim auto. Kiedy zorientował się, że nie da rady, próbował wrócić na swój pas. Był pijany, tak samo zresztą jak pasażer."
+    },
+    {
+      "title": "Zmiany na północnym Pacyfiku",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/na-polnocnym-pacyfiku-z-cala-pewnoscia-dzieje-sie-cos-niezwyklego-st8706940?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:27:11 GMT",
+      "description": "• Wody północnego Pacyfiku były tego lata wyjątkowo gorące.\n• Naukowcy alarmują o tym zjawisku.\n• Anomalia ma ogromny wpływ na pogodę w wielu regionach świata.\n• Istnieją różne hipotezy dotyczące pochodzenia tego zjawiska.",
+      "originalTitle": "\"Na północnym Pacyfiku z całą pewnością dzieje się coś niezwykłego\"",
+      "originalDescription": "Wody północnego Pacyfiku były tego lata wyjątkowo gorące - alarmują naukowcy. Anomalia ma ogromny wpływ na pogodę w wielu regionach świata. Są różne hipotezy dotyczące pochodzenia tego zjawiska."
+    },
+    {
+      "title": "Popularność turystyki zimowej w Norwegii wśród Polaków rośnie",
+      "link": "https://tvn24.pl/biznes/turystyka/oman-kraj-ktory-zyskuje-popularnosc-wsrod-polakow-zwlaszcza-zima-st8707515?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:22:48 GMT",
+      "description": "• Oman cieszy się coraz większą popularnością wśród polskich turystów.\n• Od stycznia do końca lipca tego roku kraj ten odwiedziło ponad 33,7 tysiąca osób z Polski.\n• W tym samym okresie ubiegłego roku odwiedziło go o blisko 9,5 tysiąca osób mniej.\n• Ministerstwo Dziedzictwa i Turystyki Omanu poinformowało o tych danych.\n• Trend wzrostowy utrzymuje się nieprzerwanie od 2022 roku.",
+      "originalTitle": "Ten kraj zyskuje popularność wśród Polaków. Zwłaszcza zimą",
+      "originalDescription": "Oman cieszy się coraz większą popularnością wśród polskich turystów. Od stycznia do końca lipca tego roku kraj ten odwiedziło ponad 33,7 tysiąca osób z Polski, czyli o blisko 9,5 tysiąca więcej niż w tym samym okresie ubiegłego roku - poinformowało Ministerstwo Dziedzictwa i Turystyki Omanu. Trend wzrostowy utrzymuje się nieprzerwanie od 2022 roku."
+    },
+    {
+      "title": "Pijany kierowca wracał z synem z zakupów. Wpadł przez nadmierną prędkość",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-wracal-z-synem-z-zakupow-wpadl-przez-nadmierna-predkosc-byl-pijany-st8707342?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 10:16:19 GMT",
+      "description": "W Bogusławicach (woj. mazowieckie) policjanci drogówki zatrzymali nietrzeźwego kierowcę. Mężczyzna przekroczył dozwoloną prędkość, gdy wracał z 12-letnim synem z zakupów do domu. Okazało się, że miał ponad półtora promila alkoholu w organizmie.",
+      "originalTitle": "Pijany kierowca wracał z synem z zakupów. Wpadł przez nadmierną prędkość",
+      "originalDescription": "W Bogusławicach (woj. mazowieckie) policjanci drogówki zatrzymali nietrzeźwego kierowcę. Mężczyzna przekroczył dozwoloną prędkość, gdy wracał z 12-letnim synem z zakupów do domu. Okazało się, że miał ponad półtora promila alkoholu w organizmie."
+    },
+    {
+      "title": "Płonęło składowisko odpadów",
+      "link": "https://tvn24.pl/lublin/lublin-plonelo-skladowisko-odpadow-w-akcji-kilkudziesieciu-strazakow-st8707359?source=rss",
+      "pubDate": "Sun, 19 Oct 2025 07:50:57 GMT",
+      "description": "Zakończyła się akcja gaśnicza na składowisku odpadów przy ulicy Metalurgicznej w Lublinie. Na miejscu pracowało kilkudziesięciu strażaków. Trwa ustalanie przyczyn wybuchu pożaru.",
+      "originalTitle": "Płonęło składowisko odpadów",
+      "originalDescription": "Zakończyła się akcja gaśnicza na składowisku odpadów przy ulicy Metalurgicznej w Lublinie. Na miejscu pracowało kilkudziesięciu strażaków. Trwa ustalanie przyczyn wybuchu pożaru."
+    },
+    {
+      "title": "Zatrzymał się, bo złapał \"kapcia\". W jego auto uderzyła ciężarówka",
       "link": "https://tvn24.pl/lodz/lodzkie-kolizja-na-s8-w-stojacy-samochod-uderzyla-ciezarowka-st8707519?source=rss",
       "pubDate": "Sun, 19 Oct 2025 09:58:02 GMT",
-      "description": "• Zderzenie miało miejsce na drodze ekspresowej S8.\n• Zderzenie nastąpiło na wysokości miejscowości Nowa Wieś.\n• Miejscowość Nowa Wieś położona jest w województwie łódzkim.\n• W zderzeniu uczestniczył samochód ciężarowy.\n• W zderzeniu uczestniczył r��wnież samochód osobowy.\n• Zderzenie miało miejsce pomiędzy węzłami Złoczew i Sieradz Południe.\n• O zderzeniu informuje straż pożarna.",
+      "description": "Niebezpieczne zderzenie na drodze ekspresowej S8, na wysokości miejscowości Nowa Wieś (woj. łódzkie). - Pomiędzy węzłami Złoczew i Sieradz Południe doszło do zderzenia samochodu ciężarowego i osobowego - informuje straż pożarna.",
       "originalTitle": "Zatrzymał się, bo złapał \"kapcia\". W jego auto uderzyła ciężarówka",
       "originalDescription": "Niebezpieczne zderzenie na drodze ekspresowej S8, na wysokości miejscowości Nowa Wieś (woj. łódzkie). - Pomiędzy węzłami Złoczew i Sieradz Południe doszło do zderzenia samochodu ciężarowego i osobowego - informuje straż pożarna."
     },
     {
-      "title": "Ataki w Strefie Gazy po zawieszeniu broni",
+      "title": "Doniesienia o atakach w Strefie Gazy. \"Rażące naruszenie\" zawieszenia broni",
       "link": "https://tvn24.pl/swiat/doniesienia-o-atakach-w-strefie-gazy-razace-naruszenie-zawieszenia-broni-st8707479?source=rss",
       "pubDate": "Sun, 19 Oct 2025 09:51:33 GMT",
-      "description": "• Uzbrojone jednostki Hamasu przeprowadziły atak na siły izraelskie w Rafah, na południu Strefy Gazy.\n• Atak nastąpił przed odpowiedzią Sił Obronnych Izraela.\n• Siły Obronne Izraela (IDF) odpowiedziały nalotami na ten obszar.\n• Zdarzenie miało miejsce w Rafah, na południu Strefy Gazy.\n• Informację o zdarzeniu przekazały portal The Times of Israel i agencja Reuters.\n• Zdarzenie miało miejsce w niedzielę.",
+      "description": "Izraelskie wojsko podało, że bojownicy Hamasu przeprowadzili \"wielokrotne ataki\" na siły izraelskie poza strefą buforową \"żółtej linii\", nazywając to \"rażącym naruszeniem\" zawieszenia broni - powiadomił Reuters. Izrael odpowiedział nalotami.",
       "originalTitle": "Doniesienia o atakach w Strefie Gazy. \"Rażące naruszenie\" zawieszenia broni",
-      "originalDescription": "Uzbrojone jednostki Hamasu przeprowadziły atak na siły izraelskie w Rafah, na południu Strefy Gazy, po czym nalotami na ten obszar odpowiedziały Siły Obronne Izraela (IDF) - przekazały w niedzielę portal The Times of Israel i agencja Reuters."
+      "originalDescription": "Izraelskie wojsko podało, że bojownicy Hamasu przeprowadzili \"wielokrotne ataki\" na siły izraelskie poza strefą buforową \"żółtej linii\", nazywając to \"rażącym naruszeniem\" zawieszenia broni - powiadomił Reuters. Izrael odpowiedział nalotami."
     },
     {
-      "title": "Kometą zbliża się do Ziemi",
+      "title": "Jasna kometa zbliża się do Ziemi. Zobaczymy ją w Polsce",
       "link": "https://tvn24.pl/tvnmeteo/ciekawostki/kometa-c-2025-a6-lemmon-moze-byc-widoczna-golym-okiem-kiedy-jej-wypatrywac-jak-obserwowac-komety-st8707376?source=rss",
       "pubDate": "Sun, 19 Oct 2025 09:50:33 GMT",
-      "description": "• Kometa C/2025 A6 (Lemmon) leci w stronę Ziemi.\n• We wtorek kometa znajdzie się najbliżej Ziemi.\n• Warto poszukać komety na niebie.\n• Kometa może być widoczny gołym okiem.",
+      "description": "Kometa C/2025 A6 (Lemmon) leci w stronę Ziemi. We wtorek znajdzie się ona najbliżej nas. Warto poszukać tego obiektu na niebie, ponieważ może być widoczny gołym okiem.",
       "originalTitle": "Jasna kometa zbliża się do Ziemi. Zobaczymy ją w Polsce",
       "originalDescription": "Kometa C/2025 A6 (Lemmon) leci w stronę Ziemi. We wtorek znajdzie się ona najbliżej nas. Warto poszukać tego obiektu na niebie, ponieważ może być widoczny gołym okiem."
     },
@@ -42,46 +82,6 @@
       "description": "Francuska minister kultury poinformowała o włamaniu do Luwru w centrum Paryża. Muzeum zostało zamknięte z \"nadzwyczajnego powodu\" - podała placówka we wpisie na X. Według francuskich mediów złodzieje ukradli biżuterię.",
       "originalTitle": "Napad na Luwr, muzeum zamknięte",
       "originalDescription": "Francuska minister kultury poinformowała o włamaniu do Luwru w centrum Paryża. Muzeum zostało zamknięte z \"nadzwyczajnego powodu\" - podała placówka we wpisie na X. Według francuskich mediów złodzieje ukradli biżuterię."
-    },
-    {
-      "title": "Zmarł Janusz Bugajski, politolog i ekspert Departamentu Obrony USA",
-      "link": "https://tvn24.pl/najnowsze/zmarl-janusz-bugajski-politolog-i-ekspert-departamentu-obrony-usa-st8707478?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 09:24:51 GMT",
-      "description": "W USA w wieku 71 lat zmarł Janusz Bugajski, politolog, analityk i ekspert Departamentu Obrony USA, International Republican Institute i The Jamestown Foundation w kwestiach obszarów postsowieckich.",
-      "originalTitle": "Zmarł Janusz Bugajski, politolog i ekspert Departamentu Obrony USA",
-      "originalDescription": "W USA w wieku 71 lat zmarł Janusz Bugajski, politolog, analityk i ekspert Departamentu Obrony USA, International Republican Institute i The Jamestown Foundation w kwestiach obszarów postsowieckich."
-    },
-    {
-      "title": "\"Patrzymy na przywództwo i zarządzanie z bardzo praktycznej perspektywy\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/trzecia-edycja-bcc-for-the-future-liderzy-jutra-2025-startuje-20-pazdziernika-st8707403?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 09:19:23 GMT",
-      "description": "W poniedziałek startuje trzecia edycja konferencji \"BCC For The Future. Liderzy Jutra 2025\". Wezmą w niej udział eksperci ze świata nauki, zarządzania i doradztwa biznesowego, a także liderzy odnoszących sukcesy przedsiębiorstw - poinformowali organizatorzy. Będą rozmawiać o wizjonerskim przywództwie, kompetencjach przyszłości oraz strategiach zarządzania przedsiębiorstwem w okresie niepewności. - Patrzymy na przywództwo i zarządzanie z bardzo praktycznej perspektywy - przekazał Jacek Goliszewski, prezes BCC.",
-      "originalTitle": "\"Patrzymy na przywództwo i zarządzanie z bardzo praktycznej perspektywy\"",
-      "originalDescription": "W poniedziałek startuje trzecia edycja konferencji \"BCC For The Future. Liderzy Jutra 2025\". Wezmą w niej udział eksperci ze świata nauki, zarządzania i doradztwa biznesowego, a także liderzy odnoszących sukcesy przedsiębiorstw - poinformowali organizatorzy. Będą rozmawiać o wizjonerskim przywództwie, kompetencjach przyszłości oraz strategiach zarządzania przedsiębiorstwem w okresie niepewności. - Patrzymy na przywództwo i zarządzanie z bardzo praktycznej perspektywy - przekazał Jacek Goliszewski, prezes BCC."
-    },
-    {
-      "title": "Tyle zajęłoby Rosji zajęcie Ukrainy. Analiza \"The Economist\"",
-      "link": "https://tvn24.pl/swiat/tyle-zajeloby-rosji-zajecie-ukrainy-analiza-the-economist-st8707402?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 09:17:03 GMT",
-      "description": "Brytyjski \"The Economist\" ocenił, że w tempie obecnych postępów na polu walki zajęcie regionów Ukrainy, które Putin ogłosił rosyjskimi, zajęłoby 103 lata. Według tygodnika \"jeśli nie nastąpią jakieś dramatyczne zmiany, Władimir Putin nie będzie w stanie wygrać wojny na polu bitwy\".",
-      "originalTitle": "Tyle zajęłoby Rosji zajęcie Ukrainy. Analiza \"The Economist\"",
-      "originalDescription": "Brytyjski \"The Economist\" ocenił, że w tempie obecnych postępów na polu walki zajęcie regionów Ukrainy, które Putin ogłosił rosyjskimi, zajęłoby 103 lata. Według tygodnika \"jeśli nie nastąpią jakieś dramatyczne zmiany, Władimir Putin nie będzie w stanie wygrać wojny na polu bitwy\"."
-    },
-    {
-      "title": "Auto rosyjskiej ambasady dachowało na Wisłostradzie. Jedna osoba ranna",
-      "link": "https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-auto-rosyjskiej-ambasady-dachowalo-na-wislostradzie-jedna-osoba-ranna-st8707443?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 09:13:43 GMT",
-      "description": "Na żoliborskim odcinku Wisłostrady doszło do dachowania auta, należącego do Ambasady Federacji Rosyjskiej. Pojazd przebił bariery energochłonne i zderzył się z innym samochodem. Jedna osoba została ranna.",
-      "originalTitle": "Auto rosyjskiej ambasady dachowało na Wisłostradzie. Jedna osoba ranna",
-      "originalDescription": "Na żoliborskim odcinku Wisłostrady doszło do dachowania auta, należącego do Ambasady Federacji Rosyjskiej. Pojazd przebił bariery energochłonne i zderzył się z innym samochodem. Jedna osoba została ranna."
-    },
-    {
-      "title": "Wjechał w ogrodzenie posesji i uderzył w skrzynkę gazową",
-      "link": "https://tvn24.pl/lublin/biala-podlaska-wjechal-w-ogrodzenie-posesji-i-uderzyl-w-skrzynke-zaczal-ulatniac-sie-gaz-st8707418?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 09:09:01 GMT",
-      "description": "W Białej Podlaskiej (woj. lubelskie) kierowca zjechał z drogi i uderzył w ogrodzenie posesji. Uszkodził też skrzynkę gazową, z której zaczął ulatniać się gaz. Badanie alkomatem wykazało, że 31-latek był pijany.",
-      "originalTitle": "Wjechał w ogrodzenie posesji i uderzył w skrzynkę gazową",
-      "originalDescription": "W Białej Podlaskiej (woj. lubelskie) kierowca zjechał z drogi i uderzył w ogrodzenie posesji. Uszkodził też skrzynkę gazową, z której zaczął ulatniać się gaz. Badanie alkomatem wykazało, że 31-latek był pijany."
     }
   ]
 }
