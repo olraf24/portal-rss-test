@@ -1,26 +1,58 @@
 {
-  "lastUpdate": "2025-10-20T04:39:16.236Z",
+  "lastUpdate": "2025-10-20T05:06:49.210Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Mgła na drogach",
+      "title": "Finał Konkursu Chopinowskiego",
+      "link": "https://tvn24.pl/kultura-i-styl/warszawa-ostatni-dzien-finalu-konkursu-chopinowskiego-st8708307?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 05:03:22 GMT",
+      "description": "• Poniedziałek to ostatni dzień finału XIX Konkursu Chopinowskiego\n• Wyniki finału poznamy w nocy z poniedziałku na wtorek\n• W niedzielę wystąpił jedyny Polak w finale - Piotr Alexewicz",
+      "originalTitle": "Ostatni dzień finału Konkursu Chopinowskiego. Zagra troje pianistów, potem jury ogłosi wyniki",
+      "originalDescription": "Poniedziałek to ostatni dzień finału XIX Konkursu Chopinowskiego, którego wyniki poznamy w nocy z poniedziałku na wtorek. W niedzielę wystąpił jedyny Polak w finale - Piotr Alexewicz."
+    },
+    {
+      "title": "Kierowca prowadził pojazd pod wpływem alkoholu",
+      "link": "https://tvn24.pl/polska/proces-o-tragiczny-wypadek-pod-gora-kalwaria-st8693941?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 05:02:02 GMT",
+      "description": "• Z rozbitego bmw wyszedł o własnych siłach.\n• Stał obok wraku i patrzył na akcję ratowniczą.\n• Potem przeskoczył płot i zniknął.\n• Policjanci zatrzymali go kilka kilometrów od miejsca wypadku.\n• Pasażer, którego wiózł, już wtedy nie żył.\n• Kierowca, Maciej, był pod wpływem alkoholu.\n• Maciej pojechał na stację benzynową po wódkę.\n• Zrobił to trzykrotnie.",
+      "originalTitle": "\"Możemy mieć wszyscy współudział. Pozwoliliśmy mu jechać, a pił\"",
+      "originalDescription": "Z rozbitego bmw wyszedł o własnych siłach. Stał obok wraku i patrzył na akcję ratowniczą. Potem przeskoczył płot i zniknął. Policjanci zatrzymali go kilka kilometrów od miejsca wypadku. Pasażer, którego wiózł, już wtedy nie żył. Ale zanim to się stało, Maciej, będąc pod wpływem alkoholu, pojechał na stację benzynową po wódkę. Trzykrotnie."
+    },
+    {
+      "title": "Policja zabezpieczyła duży ładunek",
+      "link": "https://tvn24.pl/swiat/portugalia-policja-przejela-jeden-z-najwiekszych-ladunkow-w-historii-st8708322?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 04:51:42 GMT",
+      "description": "W podlizbońskiej miejscowości Seixal funkcjonariusze policji przejęli ponad sześć ton haszyszu od jednej ze zorganizowanych grup przestępczych. Siedmiu członków grupy zostało zatrzymanych.",
+      "originalTitle": "Policja przejęła \"jeden z największych ładunków w historii\"",
+      "originalDescription": "W podlizbońskiej miejscowości Seixal funkcjonariusze policji przejęli ponad sześć ton haszyszu od jednej ze zorganizowanych grup przestępczych. Siedmiu członków grupy zostało zatrzymanych."
+    },
+    {
+      "title": "Muzeum Powstania Warszawskiego zostanie rozbudowane",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-rozbudowa-muzeum-powstania-warszawskiego-przetarg-st8706025?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 04:45:12 GMT",
+      "description": "Muzeum Powstania Warszawskiego wybrało najlepszą ofertę w przetargu na rozbudowę swojej siedziby. Prace pochłoną prawie 140 milionów złotych i potrwają ponad trzy lata.",
+      "originalTitle": "Pieniądze zapewnione, oferta wybrana. Rozbudują Muzeum Powstania Warszawskiego",
+      "originalDescription": "Muzeum Powstania Warszawskiego wybrało najlepszą ofertę w przetargu na rozbudowę swojej siedziby. Prace pochłoną prawie 140 milionów złotych i potrwają ponad trzy lata."
+    },
+    {
+      "title": "Gęsta mgła. Uważajmy na drogach",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-poniedzialek-20-10-gesta-mgla-w-polsce-ograniczona-widzialnosc-st8707732?source=rss",
       "pubDate": "Sun, 19 Oct 2025 14:33:59 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed gęstymi mgłami.\n• Gęste mgły mogą ograniczać widzialność.\n• Warunki mogą być trudne w miejscach, gdzie występują gęste mgły.",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed gęstymi mgłami, które mogą ograniczać widzialność. Sprawdź, gdzie warunki mogą być trudne.",
       "originalTitle": "Gęsta mgła. Uważajmy na drogach",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed gęstymi mgłami, które mogą ograniczać widzialność. Sprawdź, gdzie warunki mogą być trudne."
     },
     {
-      "title": "Brytyjscy żołnierze otrzymają nowe uprawnienia",
+      "title": "\"Opcja kinetyczna\". Brytyjscy żołnierze dostaną nowe uprawnienia",
       "link": "https://tvn24.pl/swiat/brytyjscy-zolnierze-dostana-nowe-uprawnienia-chodzi-o-drony-st8708319?source=rss",
       "pubDate": "Mon, 20 Oct 2025 04:24:37 GMT",
-      "description": "• Drony, które zagrażają brytyjskim bazom wojskowym, będą zestrzeliwane.\n• Wojsko otrzyma nowe uprawnienia.\n• Informacje o planowanym wystąpieniu w tej sprawie pochodzą z dziennika \"The Telegraph\".\n• Ministrem obrony, który ma wystąpić w tej sprawie, jest John Healey.",
+      "description": "Drony, które zagrażają brytyjskim bazom wojskowym, będą zestrzeliwane. Wojsko otrzyma nowe uprawnienia - poinformował dziennik \"The Telegraph\", powołując się na uzyskane informacje o planowanym wystąpieniu w tej sprawie ministra obrony Johna Healeya.",
       "originalTitle": "\"Opcja kinetyczna\". Brytyjscy żołnierze dostaną nowe uprawnienia",
       "originalDescription": "Drony, które zagrażają brytyjskim bazom wojskowym, będą zestrzeliwane. Wojsko otrzyma nowe uprawnienia - poinformował dziennik \"The Telegraph\", powołując się na uzyskane informacje o planowanym wystąpieniu w tej sprawie ministra obrony Johna Healeya."
     },
     {
-      "title": "Izrael przywraca zawieszenie broni",
+      "title": "Izrael wraca do zawieszenia broni \"zgodnie z zapisami porozumienia\"",
       "link": "https://tvn24.pl/swiat/strefa-gazy-izrael-oglosil-ze-wraca-do-zawieszenia-broni-st8708262?source=rss",
       "pubDate": "Mon, 20 Oct 2025 03:57:38 GMT",
       "description": "Portal Axios poinformował, że Izrael kontaktował się z USA przed odpowiedzią na ostrzał żołnierzy w Strefie Gazy. USA miały naciskać, aby reakcja była \"proporcjonalna, ale powściągliwa\" - powiedział portalowi jeden z amerykańskich urzędników. W niedzielę wieczorem Izrael przekazał, że wraca do zawieszenia broni. Do starć odniósł się prezydent USA Donald Trump.",
@@ -50,38 +82,6 @@
       "description": "W niedzielę rano doszło do włamania do Luwru. W okolicach miasta Rafah na południu Strefy Gazy izraelska armia została zaatakowana przez \"terrorystów\" i odpowiedziała ogniem. Ludzie prezydenta zapowiedzieli, że ten nie zgodzi się na \"alternatywę dla małżeństwa\". Oto pięć rzeczy, które warto wiedzieć w poniedziałek 20 października.",
       "originalTitle": "Włamanie do Luwru, walki w Strefie Gazy, Nawrocki o \"alternatywie dla małżeństwa\"",
       "originalDescription": "W niedzielę rano doszło do włamania do Luwru. W okolicach miasta Rafah na południu Strefy Gazy izraelska armia została zaatakowana przez \"terrorystów\" i odpowiedziała ogniem. Ludzie prezydenta zapowiedzieli, że ten nie zgodzi się na \"alternatywę dla małżeństwa\". Oto pięć rzeczy, które warto wiedzieć w poniedziałek 20 października."
-    },
-    {
-      "title": "Samolot zjechał z pasa i wpadł do morza. Są zabici",
-      "link": "https://tvn24.pl/swiat/hongkong-samolot-zjechal-z-pasa-i-wpadl-do-morza-sa-zabici-st8708311?source=rss",
-      "pubDate": "Mon, 20 Oct 2025 03:15:38 GMT",
-      "description": "Samolot transportowy zjechał z pasa startowego i wpadł do morza na lotnisku w Hongkongu. Lokalne media poinformowały, że zginęły dwie osoby, które znajdowały się niedaleko pasa.",
-      "originalTitle": "Samolot zjechał z pasa i wpadł do morza. Są zabici",
-      "originalDescription": "Samolot transportowy zjechał z pasa startowego i wpadł do morza na lotnisku w Hongkongu. Lokalne media poinformowały, że zginęły dwie osoby, które znajdowały się niedaleko pasa."
-    },
-    {
-      "title": "Pogoda na dziś - poniedziałek, 20.10. Taki będzie pierwszy dzień tygodnia",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-20-10-taki-bedzie-pierwszy-dzien-tygodnia-st8708190?source=rss",
-      "pubDate": "Mon, 20 Oct 2025 00:00:00 GMT",
-      "description": "Pogoda na dziś. Poniedziałek 20.10 przyniesie sporo słońca w całym kraju. Termometry pokażą do 14 stopni Celsjusza. Lokalnie silniej powieje.",
-      "originalTitle": "Pogoda na dziś - poniedziałek, 20.10. Taki będzie pierwszy dzień tygodnia",
-      "originalDescription": "Pogoda na dziś. Poniedziałek 20.10 przyniesie sporo słońca w całym kraju. Termometry pokażą do 14 stopni Celsjusza. Lokalnie silniej powieje."
-    },
-    {
-      "title": "Po cmentarzu we Wrocławiu kursuje autonomiczny minibus",
-      "link": "https://tvn24.pl/fakty-artykuly/wroclaw-na-cmentarzu-osobowickim-kursuje-autonomiczny-minibus-st8708270?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 20:50:37 GMT",
-      "description": "Na Cmentarzu Osobowickim, największej wrocławskiej nekropolii, pojawił się autonomiczny minibus. Kursy są co pół godziny, sprzed bramy głównej, całkowicie bezpłatne.",
-      "originalTitle": "Po cmentarzu we Wrocławiu kursuje autonomiczny minibus",
-      "originalDescription": "Na Cmentarzu Osobowickim, największej wrocławskiej nekropolii, pojawił się autonomiczny minibus. Kursy są co pół godziny, sprzed bramy głównej, całkowicie bezpłatne."
-    },
-    {
-      "title": "Samorządy i obywatele szykują się na \"W\". Do wydania są 34 miliardy złotych",
-      "link": "https://tvn24.pl/fakty-artykuly/na-obrone-cywilna-sa-34-miliardy-zlotych-samorzady-kupuja-agregaty-i-cysterny-obywatele-sie-szkola-st8708260?source=rss",
-      "pubDate": "Sun, 19 Oct 2025 20:33:33 GMT",
-      "description": "Polskie samorządy szykują się na wypadek czarnych scenariuszy. Jedni już kupują agregaty i śpiwory, inni na razie planują - co można zamienić w schrony i gdzie zbudować nowe. Są pieniądze - w sumie 34 miliardy na ten i kolejny rok. Całkiem sporo. Problem w tym, że czasu na ich wydanie jest mało.",
-      "originalTitle": "Samorządy i obywatele szykują się na \"W\". Do wydania są 34 miliardy złotych",
-      "originalDescription": "Polskie samorządy szykują się na wypadek czarnych scenariuszy. Jedni już kupują agregaty i śpiwory, inni na razie planują - co można zamienić w schrony i gdzie zbudować nowe. Są pieniądze - w sumie 34 miliardy na ten i kolejny rok. Całkiem sporo. Problem w tym, że czasu na ich wydanie jest mało."
     }
   ]
 }
