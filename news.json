@@ -1,34 +1,58 @@
 {
-  "lastUpdate": "2025-10-20T08:08:19.453Z",
+  "lastUpdate": "2025-10-20T08:40:08.382Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Średnie zarobki w Polsce",
+      "title": "Problemy z dostępem do internetu",
+      "link": "https://tvn24.pl/biznes/tech/globalna-awaria-internetu-nie-dziala-wiele-stron-i-aplikacji-st8708656?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 08:31:39 GMT",
+      "description": "• Trwa poważna awaria internetu.\n• Nie działają między innymi Snapchat, Ring, Zoom, Roblox, Fortnite, Duolingo i inne aplikacje.\n• Awaria jest relacjonowana przez \"The Independent\".\n• Informacje o awarii pochodzą z danych serwisu DownDetector.",
+      "originalTitle": "Globalna awaria internetu. Nie działa wiele stron i aplikacji",
+      "originalDescription": "Trwa poważna awaria internetu. Nie działają między innymi Snapchat, Ring, Zoom, Roblox, Fortnite, Duolingo i inne aplikacje - relacjonuje \"The Independent\", powołując się na dane serwisu DownDetector."
+    },
+    {
+      "title": "Dane z przemysłu pokazują wzrost",
+      "link": "https://tvn24.pl/biznes/z-kraju/produkcja-przemyslowa-wrzesien-2025-dane-gus-st8708588?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 08:15:17 GMT",
+      "description": "• Produkcja przemysłowa we wrześniu 2025 roku wzrosła o 7,4 procent rok do roku.\n• Produkcja przemysłowa we wrześniu 2025 roku wzrosła o 16 procent w ujęciu miesięcznym.\n• Informacje o produkcji przemysłowej podał Główny Urząd Statystyczny.\n• Dane zostały podane w poniedziałek.",
+      "originalTitle": "Nowe dane z przemysłu. \"Solidny wzrost\"",
+      "originalDescription": "Produkcja przemysłowa we wrześniu 2025 roku wzrosła o 7,4 procent rok do roku, a w ujęciu miesięcznym wzrosła o 16 procent - podał w poniedziałek Główny Urząd Statystyczny."
+    },
+    {
+      "title": "Andrzej Duda z nowym stanowiskiem",
+      "link": "https://tvn24.pl/biznes/z-kraju/andrzej-duda-ma-nowa-prace-st8708546?source=rss",
+      "pubDate": "Mon, 20 Oct 2025 08:07:52 GMT",
+      "description": "• Andrzej Duda został członkiem rady nadzorczej firmy z sektora technologii finansowej.\n• Firma, w której Andrzej Duda został członkiem rady nadzorczej, to Zen.com.\n• Andrzej Duda przyjął na siebie współodpowiedzialność za nadzór nad tym, by Zen.com był instytucją maksymalnie bezpieczną dla konsumentów.\n• Andrzej Duda nie wykluczył pojawienia się w radach nadzorczych innych instytucji.\n• Informację o powołaniu Andrzeja Dudy do rady nadzorczej podał \"Puls Biznesu\".",
+      "originalTitle": "Andrzej Duda ma nową pracę",
+      "originalDescription": "Andrzej Duda został członkiem rady nadzorczej firmy z sektora technologii finansowej - podał \"Puls Biznesu\". - Przyjmuję na siebie współodpowiedzialność za nadzór nad tym, by Zen.com był instytucją maksymalnie bezpieczną dla konsumentów - stwierdził w rozmowie z dziennikiem były prezydent, który jednocześnie nie wykluczył pojawienia się w radach nadzorczych innych instytucji."
+    },
+    {
+      "title": "Tyle przeciętnie zarabiają Polacy",
       "link": "https://tvn24.pl/biznes/pieniadze/przecietne-wynagrodzenia-w-polsce-we-wrzesniu-2025-roku-najnowsze-dane-st8708418?source=rss",
       "pubDate": "Mon, 20 Oct 2025 08:02:15 GMT",
-      "description": "• Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw we wrześniu 2025 roku wyniosło 8750,34 złotego.\n• Wzrost wynagrodzenia wyniósł 7,5 procent rok do roku.\n• Zatrudnienie w sektorze przedsiębiorstw spadło o 0,8 procent w ujęciu rocznym.\n• Dane te zostały podane przez Główny Urząd Statystyczny.",
+      "description": "Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw we wrześniu 2025 roku wyniosło 8750,34 złotego, co oznacza wzrost 7,5 procent rok do roku - podał Główny Urząd Statystyczny. Zatrudnienie w tym sektorze spadło o 0,8 procent w ujęciu rocznym.",
       "originalTitle": "Tyle przeciętnie zarabiają Polacy",
       "originalDescription": "Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw we wrześniu 2025 roku wyniosło 8750,34 złotego, co oznacza wzrost 7,5 procent rok do roku - podał Główny Urząd Statystyczny. Zatrudnienie w tym sektorze spadło o 0,8 procent w ujęciu rocznym."
     },
     {
-      "title": "Ratownicy GOPR udzielają pomocy w jaskini",
+      "title": "Utknęła w jaskini. Na pomoc ruszyli ratownicy GOPR",
       "link": "https://tvn24.pl/katowice/gory-sokole-utknela-w-jaskini-studnisko-na-pomoc-ruszyli-ratownicy-gopr-st8708474?source=rss",
       "pubDate": "Mon, 20 Oct 2025 07:52:09 GMT",
-      "description": "• Ratownicy Grupy Jurajskiej Górskiego Ochotniczego Pogotowia Ratunkowego uratowali kobietę.\n• Kobieta utknęła na dnie Jaskini Studnisko.\n• Jaskinia Studnisko znajduje się w Górach Sokolich.\n• Dzięki sprawnej akcji poszkodowana trafiła na powierzchnię w dobrym stanie.",
+      "description": "Ratownicy Grupy Jurajskiej Górskiego Ochotniczego Pogotowia Ratunkowego uratowali kobietę, która utknęła na dnie Jaskini Studnisko w Górach Sokolich. Dzięki sprawnej akcji poszkodowana w dobrym stanie trafiła na powierzchnię.",
       "originalTitle": "Utknęła w jaskini. Na pomoc ruszyli ratownicy GOPR",
       "originalDescription": "Ratownicy Grupy Jurajskiej Górskiego Ochotniczego Pogotowia Ratunkowego uratowali kobietę, która utknęła na dnie Jaskini Studnisko w Górach Sokolich. Dzięki sprawnej akcji poszkodowana w dobrym stanie trafiła na powierzchnię."
     },
     {
-      "title": "Mężczyzna udawał policjanta i zatrzymał kierowcę",
+      "title": "Udawał policjanta i zatrzymał kierowcę, bo \"jechał za szybko\"",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-udawal-policjanta-i-zatrzymal-kierowce-bo-jechal-za-szybko-st8708426?source=rss",
       "pubDate": "Mon, 20 Oct 2025 07:50:59 GMT",
-      "description": "• Policja z Piaseczna zatrzymała 59-letniego mieszkańca.\n• Zatrzymany udawał funkcjonariusza drogówki.\n• Wykorzystywał niebieskie światło błyskowe.\n• Wykorzystywał biało-czerwonego lizaka.",
+      "description": "Policja z Piaseczna zatrzymała 59-letniego mieszkańca, który udawał funkcjonariusza drogówki. Wykorzystywał niebieskie światło błyskowe i biało-czerwonego lizaka.",
       "originalTitle": "Udawał policjanta i zatrzymał kierowcę, bo \"jechał za szybko\"",
       "originalDescription": "Policja z Piaseczna zatrzymała 59-letniego mieszkańca, który udawał funkcjonariusza drogówki. Wykorzystywał niebieskie światło błyskowe i biało-czerwonego lizaka."
     },
     {
-      "title": "Policjant spowodował kolizję pod wpływem alkoholu",
+      "title": "Policjant spowodował kolizję po alkoholu. Ma zostać wydalony ze służby",
       "link": "https://tvn24.pl/kujawsko-pomorskie/znin-policjant-spowodowal-kolizje-po-alkoholu-ma-zostac-wydalony-ze-sluzby-st8708466?source=rss",
       "pubDate": "Mon, 20 Oct 2025 07:41:08 GMT",
       "description": "W Żninie (Kujawsko-Pomorskie) doszło do kolizji z udziałem trzech pojazdów. Sprawcą okazał się nietrzeźwy 40-letni policjant, który na co dzień pracuje w miejscowej komendzie powiatowej. Komendant zawiesił go w czynnościach służbowych. Wszczęto również procedurę zmierzającą do wydalenia funkcjonariusza ze służby.",
@@ -58,30 +82,6 @@
       "description": "W mieście Minakami, które położone jest w prefekturze Gunma na wyspie Honsiu, doszło do dwóch ataków niedźwiedzi na ludzi - poinformowała japońska telewizja NHK.",
       "originalTitle": "Japonia. Dwa ataki niedźwiedzi w jednym mieście",
       "originalDescription": "W mieście Minakami, które położone jest w prefekturze Gunma na wyspie Honsiu, doszło do dwóch ataków niedźwiedzi na ludzi - poinformowała japońska telewizja NHK."
-    },
-    {
-      "title": "\"Odbijał się kołami od krawężników\", powstrzymał go świadek. Kierowca miał prawie cztery promile",
-      "link": "https://tvn24.pl/wroclaw/cieszkow-swiadek-powstrzymal-kierowce-ktory-mial-prawie-cztery-promile-alkoholu-w-organizmie-st8708445?source=rss",
-      "pubDate": "Mon, 20 Oct 2025 07:20:39 GMT",
-      "description": "30-latek na terenie powiatu milickiego (Dolny Śląsk) jechał całą szerokością jezdni. Styl jego jazdy zaniepokoił innego kierowcę. Mężczyzna zajechał 30-latkowi drogę i zmusił go do zatrzymania się. Policja sprawdziła, że kierowca miał niemal cztery promile alkoholu w organizmie. Miał też odebrane prawo jazdy.",
-      "originalTitle": "\"Odbijał się kołami od krawężników\", powstrzymał go świadek. Kierowca miał prawie cztery promile",
-      "originalDescription": "30-latek na terenie powiatu milickiego (Dolny Śląsk) jechał całą szerokością jezdni. Styl jego jazdy zaniepokoił innego kierowcę. Mężczyzna zajechał 30-latkowi drogę i zmusił go do zatrzymania się. Policja sprawdziła, że kierowca miał niemal cztery promile alkoholu w organizmie. Miał też odebrane prawo jazdy."
-    },
-    {
-      "title": "Kontrkandydata zostawił daleko w tyle. Opalenica ma nowego burmistrza",
-      "link": "https://tvn24.pl/poznan/opalenica-pawel-jakubowski-nowym-burmistrzem-st8708399?source=rss",
-      "pubDate": "Mon, 20 Oct 2025 07:17:00 GMT",
-      "description": "Mieszkańcy Opalenicy (Wielkopolska) wybrali w niedzielę nowego burmistrza. Poprzedni stracił mandat po tym, jak nie złożył oświadczenia majątkowego w wymaganym prawem terminie. W wyborach startowało dwóch kandydatów. Bezkonkurencyjny okazał się Paweł Jakubowski.",
-      "originalTitle": "Kontrkandydata zostawił daleko w tyle. Opalenica ma nowego burmistrza",
-      "originalDescription": "Mieszkańcy Opalenicy (Wielkopolska) wybrali w niedzielę nowego burmistrza. Poprzedni stracił mandat po tym, jak nie złożył oświadczenia majątkowego w wymaganym prawem terminie. W wyborach startowało dwóch kandydatów. Bezkonkurencyjny okazał się Paweł Jakubowski."
-    },
-    {
-      "title": "\"Dzisiaj straciliśmy brata\". Nie żyje basista znanego zespołu",
-      "link": "https://tvn24.pl/kultura-i-styl/nie-zyje-basista-limp-bizkit-sam-rivers-zmarl-w-wieku-48-lat-st8708387?source=rss",
-      "pubDate": "Mon, 20 Oct 2025 07:13:35 GMT",
-      "description": "Sam Rivers, basista i współzałożyciel Limp Bizkit, zmarł w wieku 48 lat. Członkowie zespołu przekazali tę informację w mediach społecznościowych. \"Jego duch będzie żył wiecznie w każdym rytmie, na każdej scenie, w każdym wspomnieniu\", wspomnieli kolegę.",
-      "originalTitle": "\"Dzisiaj straciliśmy brata\". Nie żyje basista znanego zespołu",
-      "originalDescription": "Sam Rivers, basista i współzałożyciel Limp Bizkit, zmarł w wieku 48 lat. Członkowie zespołu przekazali tę informację w mediach społecznościowych. \"Jego duch będzie żył wiecznie w każdym rytmie, na każdej scenie, w każdym wspomnieniu\", wspomnieli kolegę."
     }
   ]
 }
