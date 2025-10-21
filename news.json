@@ -1,24 +1,8 @@
 {
-  "lastUpdate": "2025-10-21T11:05:52.851Z",
+  "lastUpdate": "2025-10-21T11:34:36.600Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
-    {
-      "title": "Bakteriofagi w leczeniu raka",
-      "link": "https://tvn24.pl/zdrowie/bakteriofagi-w-walce-z-rakiem-jak-wirusy-pomagaja-w-terapii-nowotworow-st8710937?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 11:00:48 GMT",
-      "description": "• Wirusy atakujące bakterie mogą być wykorzystywane jako \"koń trojański\" - nośniki leków lub fragmentów przeciwciał, kierowanych bezpośrednio do komórek rakowych.\n• Na bakteriofagach mogą też być oparte szczepionki przeciwnowotworowe.\n• Biotechnologia potrafi czynić cuda - uważa prof. Alicja Węgrzyn.\n• Prof. Alicja Węgrzyn jest związana z Centrum Terapii Fagowych w Gdańsku.\n• Trwają najnowsze badania naukowe, związane z wirusami atakującymi bakterie.",
-      "originalTitle": "Bakteriofagi pomogą w leczeniu raka? \"To może być przyszłość\"",
-      "originalDescription": "Wirusy atakujące bakterie mogą być wykorzystywane jako \"koń trojański\" - nośniki leków lub fragmentów przeciwciał, kierowanych bezpośrednio do komórek rakowych. Na bakteriofagach mogą też być oparte szczepionki przeciwnowotworowe. - Biotechnologia potrafi czynić cuda - uważa prof. Alicja Węgrzyn z Centrum Terapii Fagowych w Gdańsku. Na czym skupiają się najnowsze badania naukowe, związane z tymi wirusami?"
-    },
-    {
-      "title": "Brak ogrzewania w szkole w Chociwlu",
-      "link": "https://tvn24.pl/szczecin/chociwel-szkola-bez-ogrzewania-uczniowie-mieli-lekcje-w-kurtkach-st8710273?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:54:45 GMT",
-      "description": "• Uczniowie szkoły w Chociwlu (woj. zachodniopomorskie) uczą się w budynku, w którym nie działa ogrzewanie.\n• Sytuacja jest efektem opóźnień przy termomodernizacji placówki.\n• Uczniowie siedzieli w klasach w kurtkach przez ostatnie dni.\n• Gmina zapewnia, że wdrożyła rozwiązania tymczasowe.\n• Rodzice wciąż zgłaszają trudne warunki nauki.\n• Rodzice zastanawiają się nad organizacją strajku.",
-      "originalTitle": "Szkoła w Chociwlu bez ogrzewania. Uczniowie siedzą w kurtkach",
-      "originalDescription": "Uczniowie szkoły w Chociwlu (woj. zachodniopomorskie) uczą się w budynku, w którym nie działa ogrzewanie. Sytuacja jest efektem opóźnień przy termomodernizacji placówki. Przez ostatnie dni uczniowie siedzieli w klasach w kurtkach. Gmina zapewnia, że wdrożyła rozwiązania tymczasowe, jednak rodzice wciąż zgłaszają trudne warunki nauki i zastanawiają się nad organizacją strajku."
-    },
     {
       "title": "Poszukiwany uciekinier z mini zoo",
       "link": "https://tvn24.pl/krakow/rybna-jezozwierz-uciekl-z-mini-zoo-st8711043?source=rss",
@@ -28,60 +12,76 @@
       "originalDescription": "Z mini zoo pod Krakowem uciekł jeżozwierz. W dzień śpi, w nocy się przemieszcza. Był widziany na drodze, jak biegł przed samochodem. Poszukiwania trwają."
     },
     {
+      "title": "Funkcja śluzu w ochronie przed infekcjami",
+      "link": "https://tvn24.pl/zdrowie/to-sluz-chroni-nas-przed-infekcjami-jak-dziala-i-co-warto-o-nim-wiedziec-st8705402?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:25:59 GMT",
+      "description": "• W przypadku infekcji ważne jest nawodnienie, które dba o śluz obecny w drogach oddechowych i przewodzie pokarmowym.\n• Śluz można porównać do selektywnej bariery, która przepuszcza substancje obojętne lub potrzebne, a zatrzymuje patogeny i alergeny.\n• Emilia Cesarek-Ejzemberg jest dietetyczką kliniczną specjalizującą się w chorobach przewodu pokarmowego.\n• Emilia Cesarek-Ejzemberg wyjaśnia znaczenie nawodnienia w kontekście odporności organizmu.",
+      "originalTitle": "To śluz chroni nas przed infekcjami. Jak działa i co warto o nim wiedzieć?",
+      "originalDescription": "Co robić, gdy \"bierze nas\" infekcja? Dlaczego tak ważne jest nawodnienie? Bo w ten sposób dbamy o smart-transporter naszej odporności, czyli śluz obecny między innymi w drogach oddechowych i przewodzie pokarmowym. - Można go porównać do selektywnej bariery - przepuszcza substancje obojętne lub potrzebne, a zatrzymuje patogeny i alergeny - wyjaśnia Emilia Cesarek-Ejzemberg, dietetyczka kliniczna specjalizująca się w chorobach przewodu pokarmowego."
+    },
+    {
+      "title": "Śmierć półrocznego chłopca, prokuratura bada sprawę",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/gasawa-nie-zyje-polroczny-chlopiec-sprawe-bada-prokuratura-dziecko-moglo-dostac-przeterminowana-szczepionke-st8711075?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:20:00 GMT",
+      "description": "Półrocznemu chłopcu podano w niepublicznej przychodni w Gąsawie (Kujawsko-Pomorskie) obowiązkową szczepionkę. W miejscu ukłucia pojawił się stan zapalny, a stan zdrowia dziecka gwałtownie się pogorszył. Chłopiec zmarł po kilku dniach w szpitalu. Prokuratura wszczęła śledztwo. Istnieje prawdopodobieństwo, że chłopcu podano przeterminowaną szczepionkę. Śledczy czekają na wyniki sekcji.",
+      "originalTitle": "Nie żyje półroczny chłopiec. Prokuratura wszczęła śledztwo",
+      "originalDescription": "Półrocznemu chłopcu podano w niepublicznej przychodni w Gąsawie (Kujawsko-Pomorskie) obowiązkową szczepionkę. W miejscu ukłucia pojawił się stan zapalny, a stan zdrowia dziecka gwałtownie się pogorszył. Chłopiec zmarł po kilku dniach w szpitalu. Prokuratura wszczęła śledztwo. Istnieje prawdopodobieństwo, że chłopcu podano przeterminowaną szczepionkę. Śledczy czekają na wyniki sekcji."
+    },
+    {
+      "title": "Konkurs Chopinowski w mediach światowych",
+      "link": "https://tvn24.pl/kultura-i-styl/konkurs-chopinowski-swiatowe-media-o-konkursie-i-chopinie-st8710728?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:18:05 GMT",
+      "description": "XIX Konkurs Chopinowski dobiegł końca. W ciągu ostatnich kilku tygodni to prestiżowe wydarzenie muzyczne przyciąga uwagę nie tylko w Polsce. Rozpisują się o nim media w odległych zakątkach świata. Piszą nie tylko o dokonaniach pianistów, ale i znaczeniu samego konkursu i muzyki Chopina.",
+      "originalTitle": "\"Igrzyska Olimpijskie w muzyce klasycznej\". Światowe media o Konkursie Chopinowskim",
+      "originalDescription": "XIX Konkurs Chopinowski dobiegł końca. W ciągu ostatnich kilku tygodni to prestiżowe wydarzenie muzyczne przyciąga uwagę nie tylko w Polsce. Rozpisują się o nim media w odległych zakątkach świata. Piszą nie tylko o dokonaniach pianistów, ale i znaczeniu samego konkursu i muzyki Chopina."
+    },
+    {
+      "title": "Tuż przed lotem straciła walizkę z dokumentami",
+      "link": "https://tvn24.pl/rzeszow/rzeszow-policjanci-odzyskali-walizke-skradziona-turystce-z-rzeszowa-zatrzymali-kobiete-i-mezczyzne-st8711103?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:16:38 GMT",
+      "description": "Policjanci z Rzeszowa zatrzymali kobietę i mężczyznę podejrzewanych o kradzież walizki należącej do 55-letniej obywatelki Szwajcarii. W bagażu były między innymi dokumenty i paszport, a poszkodowana za kilka godzin miała zaplanowany lot.",
+      "originalTitle": "Tuż przed lotem straciła walizkę z dokumentami",
+      "originalDescription": "Policjanci z Rzeszowa zatrzymali kobietę i mężczyznę podejrzewanych o kradzież walizki należącej do 55-letniej obywatelki Szwajcarii. W bagażu były między innymi dokumenty i paszport, a poszkodowana za kilka godzin miała zaplanowany lot."
+    },
+    {
+      "title": "Jak uzdrowić system ochrony zdrowia? \"Musi być coś za coś\"",
+      "link": "https://tvn24.pl/zdrowie/jak-uzdrowic-system-ochrony-zdrowia-kto-jest-za-podniesieniem-skladki-zdrowotnej-st8710909?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:11:13 GMT",
+      "description": "System finansowania ochrony zdrowia wymaga zmian. Potrzebne jest wprowadzenie maksymalnego wynagrodzenia dla medyków, a część szpitali powinna zmienić charakter działania i na przykład połączyć się. Minister zdrowia Jolanta Sobierańska-Grenda i doradca prezydenta prof. Piotr Czauderna w tych kwestiach są zgodni. - Doszliśmy do miejsca, w którym to się po prostu nie daje spiąć - powiedziała szefowa resortu zdrowia podczas Forum Rynku Zdrowia.",
+      "originalTitle": "Jak uzdrowić system ochrony zdrowia? \"Musi być coś za coś\"",
+      "originalDescription": "System finansowania ochrony zdrowia wymaga zmian. Potrzebne jest wprowadzenie maksymalnego wynagrodzenia dla medyków, a część szpitali powinna zmienić charakter działania i na przykład połączyć się. Minister zdrowia Jolanta Sobierańska-Grenda i doradca prezydenta prof. Piotr Czauderna w tych kwestiach są zgodni. - Doszliśmy do miejsca, w którym to się po prostu nie daje spiąć - powiedziała szefowa resortu zdrowia podczas Forum Rynku Zdrowia."
+    },
+    {
+      "title": "Podwyżki pensji i \"rekordowy\" czas szukania pracy",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/podwyzki-pensji-i-rekordowy-czas-szukania-pracy-wyniki-badania-randstad-st8710995?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:06:45 GMT",
+      "description": "Średni czas poszukiwania nowej pracy w Polsce wyniósł w 2025 roku prawie 4,5 miesiąca – wynika z Monitora Rynku Pracy Instytutu Badawczego Randstad. Ponad połowa badanych otrzymała podwyżki, jednak ich skala była mniejsza niż we wcześniejszych latach.",
+      "originalTitle": "Podwyżki pensji i \"rekordowy\" czas szukania pracy",
+      "originalDescription": "Średni czas poszukiwania nowej pracy w Polsce wyniósł w 2025 roku prawie 4,5 miesiąca – wynika z Monitora Rynku Pracy Instytutu Badawczego Randstad. Ponad połowa badanych otrzymała podwyżki, jednak ich skala była mniejsza niż we wcześniejszych latach."
+    },
+    {
+      "title": "Bakteriofagi pomogą w leczeniu raka? \"To może być przyszłość\"",
+      "link": "https://tvn24.pl/zdrowie/bakteriofagi-w-walce-z-rakiem-jak-wirusy-pomagaja-w-terapii-nowotworow-st8710937?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 11:00:48 GMT",
+      "description": "Wirusy atakujące bakterie mogą być wykorzystywane jako \"koń trojański\" - nośniki leków lub fragmentów przeciwciał, kierowanych bezpośrednio do komórek rakowych. Na bakteriofagach mogą też być oparte szczepionki przeciwnowotworowe. - Biotechnologia potrafi czynić cuda - uważa prof. Alicja Węgrzyn z Centrum Terapii Fagowych w Gdańsku. Na czym skupiają się najnowsze badania naukowe, związane z tymi wirusami?",
+      "originalTitle": "Bakteriofagi pomogą w leczeniu raka? \"To może być przyszłość\"",
+      "originalDescription": "Wirusy atakujące bakterie mogą być wykorzystywane jako \"koń trojański\" - nośniki leków lub fragmentów przeciwciał, kierowanych bezpośrednio do komórek rakowych. Na bakteriofagach mogą też być oparte szczepionki przeciwnowotworowe. - Biotechnologia potrafi czynić cuda - uważa prof. Alicja Węgrzyn z Centrum Terapii Fagowych w Gdańsku. Na czym skupiają się najnowsze badania naukowe, związane z tymi wirusami?"
+    },
+    {
+      "title": "Szkoła w Chociwlu bez ogrzewania. Uczniowie siedzą w kurtkach",
+      "link": "https://tvn24.pl/szczecin/chociwel-szkola-bez-ogrzewania-uczniowie-mieli-lekcje-w-kurtkach-st8710273?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 10:54:45 GMT",
+      "description": "Uczniowie szkoły w Chociwlu (woj. zachodniopomorskie) uczą się w budynku, w którym nie działa ogrzewanie. Sytuacja jest efektem opóźnień przy termomodernizacji placówki. Przez ostatnie dni uczniowie siedzieli w klasach w kurtkach. Gmina zapewnia, że wdrożyła rozwiązania tymczasowe, jednak rodzice wciąż zgłaszają trudne warunki nauki i zastanawiają się nad organizacją strajku.",
+      "originalTitle": "Szkoła w Chociwlu bez ogrzewania. Uczniowie siedzą w kurtkach",
+      "originalDescription": "Uczniowie szkoły w Chociwlu (woj. zachodniopomorskie) uczą się w budynku, w którym nie działa ogrzewanie. Sytuacja jest efektem opóźnień przy termomodernizacji placówki. Przez ostatnie dni uczniowie siedzieli w klasach w kurtkach. Gmina zapewnia, że wdrożyła rozwiązania tymczasowe, jednak rodzice wciąż zgłaszają trudne warunki nauki i zastanawiają się nad organizacją strajku."
+    },
+    {
       "title": "65 przestępstw, 40 o charakterze seksualnym. \"Łowca nastolatek\" z Trójmiasta znów przed sądem",
       "link": "https://tvn24.pl/trojmiasto/gdansk-krystek-znow-przed-sadem-ruszyl-proces-odwolawczy-krystiana-w-lowcy-nastolatek-z-trojmiasta-st8710237?source=rss",
       "pubDate": "Tue, 21 Oct 2025 10:51:48 GMT",
       "description": "Przed Sądem Okręgowym w Gdańsku ruszył proces odwoławczy przeciwko Krystianowi W., ps. \"Krystek\". Mężczyzna, nazwany przez media \"łowcą nastolatek\", w 2024 roku został nieprawomocnie skazany na 15 lat więzienia. Według śledczych dopuścił się gwałtów oraz współżycia z dziewczętami poniżej 15. roku życia. Pokrzywdzone zostały co najmniej 33 kobiety, z czego większość nie była pełnoletnia, a pięć nie miało nawet ukończonych 15 lat.",
       "originalTitle": "65 przestępstw, 40 o charakterze seksualnym. \"Łowca nastolatek\" z Trójmiasta znów przed sądem",
       "originalDescription": "Przed Sądem Okręgowym w Gdańsku ruszył proces odwoławczy przeciwko Krystianowi W., ps. \"Krystek\". Mężczyzna, nazwany przez media \"łowcą nastolatek\", w 2024 roku został nieprawomocnie skazany na 15 lat więzienia. Według śledczych dopuścił się gwałtów oraz współżycia z dziewczętami poniżej 15. roku życia. Pokrzywdzone zostały co najmniej 33 kobiety, z czego większość nie była pełnoletnia, a pięć nie miało nawet ukończonych 15 lat."
-    },
-    {
-      "title": "Październikowy skwar. Na horyzoncie burze i huraganowy wiatr",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/pazdziernikowy-skwar-na-horyzoncie-burze-i-huraganowy-wiatr-st8710826?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:42:00 GMT",
-      "description": "Australia zmaga się z upałami. W wielu miejscach padają rekordowe temperatury jak na październik. Na horyzoncie są nie tylko kolejne dni skwaru, ale również inne groźne zjawiska pogodowe.",
-      "originalTitle": "Październikowy skwar. Na horyzoncie burze i huraganowy wiatr",
-      "originalDescription": "Australia zmaga się z upałami. W wielu miejscach padają rekordowe temperatury jak na październik. Na horyzoncie są nie tylko kolejne dni skwaru, ale również inne groźne zjawiska pogodowe."
-    },
-    {
-      "title": "Zjechał z drogi i uderzył w przepust, nie żyje",
-      "link": "https://tvn24.pl/rzeszow/wola-mielecka-zjechal-z-drogi-i-uderzyl-w-przepust-nie-zyje-st8711025?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:37:31 GMT",
-      "description": "Tragiczny wypadek w Woli Mieleckiej na Podkarpaciu. 57-latek kierujący fiatem zjechał z drogi i uderzył w betonowy przepust. Mężczyzna zginął na miejscu.",
-      "originalTitle": "Zjechał z drogi i uderzył w przepust, nie żyje",
-      "originalDescription": "Tragiczny wypadek w Woli Mieleckiej na Podkarpaciu. 57-latek kierujący fiatem zjechał z drogi i uderzył w betonowy przepust. Mężczyzna zginął na miejscu."
-    },
-    {
-      "title": "Osiem milionów zgłoszeń, awaria tysięcy usług i stron. \"Bardzo kruchy może być internet\"",
-      "link": "https://tvn24.pl/biznes/tech/globalna-awaria-internetu-osiem-milionow-zgloszen-awaria-tysiecy-uslug-i-stron-bardzo-kruchy-moze-byc-internet-st8710804?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:30:52 GMT",
-      "description": "20 października 2025 roku doszło do globalnej awarii usług chmurowych Amazon Web Services (AWS). Zakłócenia dotknęły tysiące usług, aplikacji, stron i serwisów internetowych na całym świecie. Firma AWS poinformowała o przywróceniu większości usług, choć część z nich wciąż wymaga dodatkowego czasu na odzyskanie pełnej sprawności.",
-      "originalTitle": "Osiem milionów zgłoszeń, awaria tysięcy usług i stron. \"Bardzo kruchy może być internet\"",
-      "originalDescription": "20 października 2025 roku doszło do globalnej awarii usług chmurowych Amazon Web Services (AWS). Zakłócenia dotknęły tysiące usług, aplikacji, stron i serwisów internetowych na całym świecie. Firma AWS poinformowała o przywróceniu większości usług, choć część z nich wciąż wymaga dodatkowego czasu na odzyskanie pełnej sprawności."
-    },
-    {
-      "title": "30 kilometrów od granicy z Białorusią na pole spadł balon",
-      "link": "https://tvn24.pl/lublin/30-kilometrow-od-granicy-z-bialorusia-na-pole-spadl-balon-st8710953?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:28:39 GMT",
-      "description": "Balon z kontrabandą papierosów znaleziono we wtorek we wsi Koszoły (Lubelskie). W ten sposób sprawcy chcieli przemycić tysiąc czterysta paczek papierosów.",
-      "originalTitle": "30 kilometrów od granicy z Białorusią na pole spadł balon",
-      "originalDescription": "Balon z kontrabandą papierosów znaleziono we wtorek we wsi Koszoły (Lubelskie). W ten sposób sprawcy chcieli przemycić tysiąc czterysta paczek papierosów."
-    },
-    {
-      "title": "Chciał zdetonować ładunek wybuchowy na terenie miejskiego lasu. Usłyszał zarzuty",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-chcial-zdetonowac-ladunek-wybuchowy-na-terenie-miejskiego-lasu-uslyszal-zarzuty-st8710775?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:27:56 GMT",
-      "description": "Prokuratura postawiła zarzuty Adrianowi D., który usiłował zdetonować ładunek wybuchowy domowej roboty na terenie leśnym Olszynki Grochowskiej. Mężczyzna został zatrzymany po interwencji przechodnia. Grozi mu do ośmiu lat więzienia.",
-      "originalTitle": "Chciał zdetonować ładunek wybuchowy na terenie miejskiego lasu. Usłyszał zarzuty",
-      "originalDescription": "Prokuratura postawiła zarzuty Adrianowi D., który usiłował zdetonować ładunek wybuchowy domowej roboty na terenie leśnym Olszynki Grochowskiej. Mężczyzna został zatrzymany po interwencji przechodnia. Grozi mu do ośmiu lat więzienia."
-    },
-    {
-      "title": "Znamy cel 34. Finału WOŚP",
-      "link": "https://tvn24.pl/polska/wosp-2026-jurek-owsiak-oglosil-cel-34-finalu-wosp-st8710730?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 10:17:27 GMT",
-      "description": "W ramach 34. Finału Wielka Orkiestra Świątecznej Pomocy będzie zbierać pieniądze na leczenie chorób układu pokarmowego dzieci - poinformował Jerzy Owsiak we wtorek. \"Zdrowe brzuszki naszych dzieci\" - tak brzmi \"podtytuł\" przyszłorocznej edycji.",
-      "originalTitle": "Znamy cel 34. Finału WOŚP",
-      "originalDescription": "W ramach 34. Finału Wielka Orkiestra Świątecznej Pomocy będzie zbierać pieniądze na leczenie chorób układu pokarmowego dzieci - poinformował Jerzy Owsiak we wtorek. \"Zdrowe brzuszki naszych dzieci\" - tak brzmi \"podtytuł\" przyszłorocznej edycji."
     }
   ]
 }
