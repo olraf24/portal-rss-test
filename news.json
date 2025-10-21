@@ -1,31 +1,71 @@
 {
-  "lastUpdate": "2025-10-21T14:06:43.957Z",
+  "lastUpdate": "2025-10-21T14:36:50.806Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Prognoza pogody na 5 dni",
+      "title": "Polski bank udostępnia środki",
+      "link": "https://tvn24.pl/biznes/ze-swiata/tanzania-kraj-podwyzszonego-ryzyka-bgk-daje-srodki-na-rozbudowe-kolei-st8711744?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 14:32:00 GMT",
+      "description": "Bank Gospodarstwa Krajowego (BGK) udzielił Tanzanii kredytu w wysokości 76,5 miliona dolarów na budowę arterii kolejowej. Warunkiem udziału BGK w finansowaniu projektu było zaangażowanie polskich podwykonawców i dostawców.",
+      "originalTitle": "Kraj podwyższonego ryzyka. Polski bank daje środki",
+      "originalDescription": "Bank Gospodarstwa Krajowego (BGK) udzielił Tanzanii kredytu w wysokości 76,5 miliona dolarów na budowę arterii kolejowej. Warunkiem udziału BGK w finansowaniu projektu było zaangażowanie polskich podwykonawców i dostawców."
+    },
+    {
+      "title": "Wyrok za pobicie i kradzież",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-bil-kobiete-mlotkiem-po-dloniach-by-ukrasc-bizuterie-uslyszal-wyrok-st8711962?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 14:21:49 GMT",
+      "description": "Na sześć lat więzienia skazał Sąd Okręgowy w Olsztynie Rustama A. oskarżonego o napad na sklep jubilerski w Dobrym Mieście (Warmia i Mazury). Podczas śledztwa tłumaczył, że potrzebował pieniędzy na leczenie zębów. Wyrok jest nieprawomocny.",
+      "originalTitle": "Bił kobietę młotkiem po dłoniach, by ukraść biżuterię. Wyrok",
+      "originalDescription": "Na sześć lat więzienia skazał Sąd Okręgowy w Olsztynie Rustama A. oskarżonego o napad na sklep jubilerski w Dobrym Mieście (Warmia i Mazury). Podczas śledztwa tłumaczył, że potrzebował pieniędzy na leczenie zębów. Wyrok jest nieprawomocny."
+    },
+    {
+      "title": "35 tysięcy pensji utajnionych",
+      "link": "https://tvn24.pl/biznes/z-kraju/doradcy-prezesa-nbp-35-tysiecy-pensji-i-milczenie-w-sprawie-nazwisk-st8710914?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 14:18:14 GMT",
+      "description": "• W ubiegłym roku \"przeciętne zatrudnienie\" na stanowisku doradcy prezesa Narodowego Banku Polskiego Adama Glapińskiego wynosiło pięć etatów.\n• Dane te pochodzą z informacji opublikowanych przez bank centralny.\n• W sumie w skali roku doradcy zarobili ponad 2,1 miliona złotych.\n• W przeliczeniu na miesiąc doradcy zarabiali ponad 35 tysięcy złotych.\n• NBP nie udziela informacji na temat liczby doradców obecnie zatrudnionych, ich zajęć oraz wynagrodzenia.",
+      "originalTitle": "35 tysięcy pensji i milczenie w sprawie nazwisk",
+      "originalDescription": "W ubiegłym roku \"przeciętne zatrudnienie\" na stanowisku doradcy prezesa Narodowego Banku Polskiego Adama Glapińskiego wynosiło pięć etatów - wynika z danych, które opublikował bank centralny. W sumie w skali roku zarobili oni ponad 2,1 miliona złotych, czyli w przeliczeniu ponad 35 tysięcy złotych miesięcznie. Ilu doradców jest obecnie, czym się zajmują i ile zarabiają? NBP w tej sprawie milczy."
+    },
+    {
+      "title": "Z Białorusi lecą balony z papierosami. Zatrzymano już 25 osób",
+      "link": "https://tvn24.pl/bialystok/podlaskie-zatrzymano-kolejne-osoby-podejrzane-o-przemyt-papierosow-balonami-meteorologicznymi-st8711928?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 14:17:35 GMT",
+      "description": "Podlaska Straż Graniczna zatrzymała cztery kolejne osoby, obywateli Ukrainy i Białorusi, podejrzanych o przemyt balonami meteorologicznymi przez granicę polsko-białoruską. Mężczyźni przewozili w aucie 1500 paczek papierosów bez polskich znaków akcyzy. Od początku roku zatrzymano już 25 osób.",
+      "originalTitle": "Z Białorusi lecą balony z papierosami. Zatrzymano już 25 osób",
+      "originalDescription": "Podlaska Straż Graniczna zatrzymała cztery kolejne osoby, obywateli Ukrainy i Białorusi, podejrzanych o przemyt balonami meteorologicznymi przez granicę polsko-białoruską. Mężczyźni przewozili w aucie 1500 paczek papierosów bez polskich znaków akcyzy. Od początku roku zatrzymano już 25 osób."
+    },
+    {
+      "title": "Atak na biuro PO. 44-latek usłyszał dwa zarzuty",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-atak-na-biuro-po-przy-wiejskiej-przesluchanie-zarzuty-st8711049?source=rss",
+      "pubDate": "Tue, 21 Oct 2025 14:08:50 GMT",
+      "description": "W siedzibie prokuratury zakończyło się przesłuchanie Krzysztofa B., zatrzymanego w związku z próbą podpalenia biura Platformy Obywatelskiej przy ulicy Wiejskiej w Warszawie. Po południu mężczyzna usłyszał dwa zarzuty.",
+      "originalTitle": "Atak na biuro PO. 44-latek usłyszał dwa zarzuty",
+      "originalDescription": "W siedzibie prokuratury zakończyło się przesłuchanie Krzysztofa B., zatrzymanego w związku z próbą podpalenia biura Platformy Obywatelskiej przy ulicy Wiejskiej w Warszawie. Po południu mężczyzna usłyszał dwa zarzuty."
+    },
+    {
+      "title": "Pogoda na pięć dni. Nadciąga załamanie pogody",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-i-5-dni-cyklon-joshua-przyniesie-ocieplenie-nadciaga-zalamanie-pogody-st8711572?source=rss",
       "pubDate": "Tue, 21 Oct 2025 13:48:44 GMT",
-      "description": "• Jeszcze przez kilka dni będzie można cieszyć się dość wysoką temperaturą.\n• Nadciąga załamanie pogody.\n• Weekend przyniesie deszcz.\n• Weekend przyniesie ochłodzenie.\n• Weekend przyniesie bardzo silny wiatr.\n• Wiatr w porywach może lokalnie rozpędzać się nawet do 100 kilometrów na godzinę.",
+      "description": "Pogoda w Polsce. Jeszcze przez kilka dni będzie można cieszyć się dość wysoką temperaturą, bo nadciąga załamanie pogody. Weekend przyniesie deszcz, ochłodzenie i bardzo silny wiatr, który w porywach może lokalnie rozpędzać się nawet do 100 kilometrów na godzinę.",
       "originalTitle": "Pogoda na pięć dni. Nadciąga załamanie pogody",
       "originalDescription": "Pogoda w Polsce. Jeszcze przez kilka dni będzie można cieszyć się dość wysoką temperaturą, bo nadciąga załamanie pogody. Weekend przyniesie deszcz, ochłodzenie i bardzo silny wiatr, który w porywach może lokalnie rozpędzać się nawet do 100 kilometrów na godzinę."
     },
     {
-      "title": "Projekt dotyczący wieku emerytalnego i dzietności",
+      "title": "Bezdzietne Polki i \"praca do 65. roku życia\". To nie projekt prezydencki",
       "link": "https://konkret24.tvn24.pl/polska/bezdzietne-polki-i-praca-do-65-roku-zycia-to-nie-projekt-prezydencki-st8711573?source=rss",
       "pubDate": "Tue, 21 Oct 2025 13:44:09 GMT",
-      "description": "• W sieci od kilku dni internauci komentują pomysł, by bezdzietne Polki pracowały do 65. roku życia tak jak mężczyźni.\n• Jedni wskazują plusy takiego rozwiązania.\n• Inni wskazują minusy takiego rozwiązania.\n• Projekt dotyczy opóźnienia wieku emerytalnego dla bezdzietnych kobiet.\n• Wieku emerytalnego dla bezdzietnych kobiet ma być 65 lat, tak jak dla mężczyzn.\n• Projekt miałby dotyczyć bezdzietnych Polek.",
+      "description": "W sieci od kilku dni internauci komentują pomysł, by bezdzietne Polki pracowały do 65. roku życia tak jak mężczyźni. Jedni wskazują plusy, inni minusy takiego rozwiązania. Czy jednak projekt opóźnienia wieku emerytalnego dla bezdzietnych kobiet powstał w kancelarii prezydenta?",
       "originalTitle": "Bezdzietne Polki i \"praca do 65. roku życia\". To nie projekt prezydencki",
       "originalDescription": "W sieci od kilku dni internauci komentują pomysł, by bezdzietne Polki pracowały do 65. roku życia tak jak mężczyźni. Jedni wskazują plusy, inni minusy takiego rozwiązania. Czy jednak projekt opóźnienia wieku emerytalnego dla bezdzietnych kobiet powstał w kancelarii prezydenta?"
     },
     {
-      "title": "NIK krytycznie o wydatkach IPN",
+      "title": "Zastrzeżenia do niemal połowy wydatków. NIK negatywnie o IPN",
       "link": "https://tvn24.pl/polska/najwyzsza-izba-kontroli-negatywnie-o-instytucie-pamieci-narodowej-zastrzezenia-do-niemal-polowy-wydatkow-st8711756?source=rss",
       "pubDate": "Tue, 21 Oct 2025 13:34:58 GMT",
-      "description": "Najwyższa Izba Kontroli wydała raport na temat zarządzania majątkiem i rozporządzania środkami publicznymi przez Instytutu Pamięci Narodowej. Przyjrzano się działaniom w tym zakresie z lat 2022-2025. NIK poinformowała między innymi o niezgodnych z prawem zmianach struktury organizacyjnej, niegospodarnym wynajmowaniu nieruchomości oraz pieniądzach, jakie wydano na przygotowania do budowy placówki za granicą, która ostatecznie nie powstała. Prezesem IPN od lipca 2021 do sierpnia 2025 był obecny prezydent Karol Nawrocki.",
+      "description": "Najwyższa Izba Kontroli wydała raport na temat zarządzania majątkiem i rozporządzania środkami publicznymi przez Instytut Pamięci Narodowej. Przyjrzano się działaniom w tym zakresie z lat 2022-2025. NIK poinformowała między innymi o niezgodnych z prawem zmianach struktury organizacyjnej, niegospodarnym wynajmowaniu nieruchomości oraz pieniądzach, jakie wydano na przygotowania do budowy placówki za granicą, która ostatecznie nie powstała. Prezesem IPN od lipca 2021 do sierpnia 2025 był obecny prezydent Karol Nawrocki.",
       "originalTitle": "Zastrzeżenia do niemal połowy wydatków. NIK negatywnie o IPN",
-      "originalDescription": "Najwyższa Izba Kontroli wydała raport na temat zarządzania majątkiem i rozporządzania środkami publicznymi przez Instytutu Pamięci Narodowej. Przyjrzano się działaniom w tym zakresie z lat 2022-2025. NIK poinformowała między innymi o niezgodnych z prawem zmianach struktury organizacyjnej, niegospodarnym wynajmowaniu nieruchomości oraz pieniądzach, jakie wydano na przygotowania do budowy placówki za granicą, która ostatecznie nie powstała. Prezesem IPN od lipca 2021 do sierpnia 2025 był obecny prezydent Karol Nawrocki."
+      "originalDescription": "Najwyższa Izba Kontroli wydała raport na temat zarządzania majątkiem i rozporządzania środkami publicznymi przez Instytut Pamięci Narodowej. Przyjrzano się działaniom w tym zakresie z lat 2022-2025. NIK poinformowała między innymi o niezgodnych z prawem zmianach struktury organizacyjnej, niegospodarnym wynajmowaniu nieruchomości oraz pieniądzach, jakie wydano na przygotowania do budowy placówki za granicą, która ostatecznie nie powstała. Prezesem IPN od lipca 2021 do sierpnia 2025 był obecny prezydent Karol Nawrocki."
     },
     {
       "title": "\"Gorsza jakość i odkładanie snu na później\". Winne jest nocne scrollowanie telefonu",
@@ -42,46 +82,6 @@
       "description": "Prokuratura Rejonowa w Krośnie wszczęła śledztwo w sprawie nieumyślnego spowodowania śmierci mężczyzny, którego ciało znaleziono w samochodzie w miejscowości Zalesie na Podkarpaciu.",
       "originalTitle": "Ciało mężczyzny w zamkniętym samochodzie",
       "originalDescription": "Prokuratura Rejonowa w Krośnie wszczęła śledztwo w sprawie nieumyślnego spowodowania śmierci mężczyzny, którego ciało znaleziono w samochodzie w miejscowości Zalesie na Podkarpaciu."
-    },
-    {
-      "title": "To ma być \"obsesja Trumpa\". \"Nie spodziewają się inwazji wojskowej\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/grenlandia-i-donald-trump-to-ma-byc-obsesja-prezydenta-usa-nie-spodziewaja-sie-inwazji-wojskowej-st8711691?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 13:27:34 GMT",
-      "description": "Na północy bez zmian. Przynajmniej tak się wydaje. Minęło kilka miesięcy, od kiedy Donald Trump ostatni raz chwalił się zamiarem przejęcia Grenlandii \"w ten czy inny sposób\". \"Ta cisza jest myląca, bo obsesja prezydenta USA na punkcie ogromnego lodowego terytorium nie zmalała\" - podkreśla portal Politico.",
-      "originalTitle": "To ma być \"obsesja Trumpa\". \"Nie spodziewają się inwazji wojskowej\"",
-      "originalDescription": "Na północy bez zmian. Przynajmniej tak się wydaje. Minęło kilka miesięcy, od kiedy Donald Trump ostatni raz chwalił się zamiarem przejęcia Grenlandii \"w ten czy inny sposób\". \"Ta cisza jest myląca, bo obsesja prezydenta USA na punkcie ogromnego lodowego terytorium nie zmalała\" - podkreśla portal Politico."
-    },
-    {
-      "title": "Norwedzy przechwycili rosyjski samolot. Przekroczyli barierę dźwięku, ludzie myśleli, że to eksplozja",
-      "link": "https://tvn24.pl/swiat/norwedzy-przechwycili-rosyjski-samolot-przekroczyli-bariere-dzwieku-ludzie-mysleli-ze-to-eksplozja-st8711732?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 13:15:26 GMT",
-      "description": "Norweskie myśliwce F-35 przechwyciły rosyjski samolot rozpoznawczy Ił-20, który leciał nad Morzem Barentsa. To trzeci taki incydent z udziałem rosyjskich jednostek w tym roku.",
-      "originalTitle": "Norwedzy przechwycili rosyjski samolot. Przekroczyli barierę dźwięku, ludzie myśleli, że to eksplozja",
-      "originalDescription": "Norweskie myśliwce F-35 przechwyciły rosyjski samolot rozpoznawczy Ił-20, który leciał nad Morzem Barentsa. To trzeci taki incydent z udziałem rosyjskich jednostek w tym roku."
-    },
-    {
-      "title": "Barcelona ograniczy dostęp do jednej z głównych atrakcji miasta",
-      "link": "https://tvn24.pl/biznes/turystyka/wladze-barcelony-ogranicza-o-pol-miliona-liczbe-odwiedzajacych-park-guell-st8711753?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 12:58:23 GMT",
-      "description": "Liczba turystów odwiedzających słynny park Guell w Barcelonie zostanie zmniejszona o około 500 tysięcy osób rocznie - wynika z porozumienia partii Esquerra Republicana (ERC) z władzami stolicy Katalonii.",
-      "originalTitle": "Barcelona ograniczy dostęp do jednej z głównych atrakcji miasta",
-      "originalDescription": "Liczba turystów odwiedzających słynny park Guell w Barcelonie zostanie zmniejszona o około 500 tysięcy osób rocznie - wynika z porozumienia partii Esquerra Republicana (ERC) z władzami stolicy Katalonii."
-    },
-    {
-      "title": "Joe Biden zakończył cykl radioterapii",
-      "link": "https://tvn24.pl/swiat/usa-joe-biden-zakonczyl-cykl-radioterapii-byly-prezydent-ma-raka-prostaty-st8711057?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 12:52:41 GMT",
-      "description": "Joe Biden zakończył cykl radioterapii - poinformował jego rzecznik. U byłego prezydenta zdiagnozowano raka prostaty.",
-      "originalTitle": "Joe Biden zakończył cykl radioterapii",
-      "originalDescription": "Joe Biden zakończył cykl radioterapii - poinformował jego rzecznik. U byłego prezydenta zdiagnozowano raka prostaty."
-    },
-    {
-      "title": "Agata Kornhauser-Duda. Dotychczasowa kariera byłej pierwszej damy",
-      "link": "https://tvn24.pl/polska/agata-kornhauser-duda-dotychczasowa-kariera-bylej-pierwszej-damy-st8710640?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 12:47:45 GMT",
-      "description": "Zaraz po studiach zatrudniona w prywatnej firmie, później przez kilkanaście lat była nauczycielką niemieckiego w liceum. Agata Kornhauser-Duda od 2015 roku przez dekadę pełniła funkcję pierwszej damy, a teraz - jak dowiedział się nieoficjalnie TVN24 - jej nazwisko pojawiło się w bazie mailowej Narodowego Banku Polskiego. Kim jest i jak przebiegała droga zawodowa byłej pierwszej damy?",
-      "originalTitle": "Agata Kornhauser-Duda. Dotychczasowa kariera byłej pierwszej damy",
-      "originalDescription": "Zaraz po studiach zatrudniona w prywatnej firmie, później przez kilkanaście lat była nauczycielką niemieckiego w liceum. Agata Kornhauser-Duda od 2015 roku przez dekadę pełniła funkcję pierwszej damy, a teraz - jak dowiedział się nieoficjalnie TVN24 - jej nazwisko pojawiło się w bazie mailowej Narodowego Banku Polskiego. Kim jest i jak przebiegała droga zawodowa byłej pierwszej damy?"
     }
   ]
 }
