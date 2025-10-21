@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2025-10-21T17:35:19.793Z",
+  "lastUpdate": "2025-10-21T18:07:27.730Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Paleontolodzy opisali okaz ichtiozaura z kolekcji UJ, o którym sądzono, że był gipsowym odlewem",
-      "link": "https://dzienniknaukowy.pl/paleontolodzy-opisali-okaz-ichtiozaura-z-kolekcji-uj-o-ktorym-sadzono-ze-byl-gipsowym-odlewem",
-      "pubDate": "Tue, 21 Oct 2025 10:53:27 +0000",
-      "description": "Żył około 180 mln lat temu, budową ciała przypominał współczesne delfiny i należał do gatunku Stenopterygius quadriscissus – paleontolodzy zbadali i opisali okaz ichtiozaura z kolekcji Uniwersytetu Jagiellońskiego, o którym przez lata sądzono, że był gipsowym odlewem"
-    },
-    {
-      "title": "Małopolscy naukowcy odkryli, co się dzieje zanim dojrzeje tRNA",
-      "link": "https://dzienniknaukowy.pl/malopolscy-naukowcy-odkryli-co-sie-dzieje-zanim-dojrzeje-trna",
-      "pubDate": "Tue, 21 Oct 2025 10:11:40 +0000",
-      "description": "Naukowcy z Małopolskiego Centrum Biotechnologii Uniwersytetu Jagiellońskiego w Krakowie odkryli, jak mały chemiczny znacznik dołącza się do transportowego RNA, zanim ten jest gotowy do działania. Ich badania rzucają nowe światło na sposób koordynacji procesów związanych z tRNA podczas jego dojrzewania w komórkach."
-    },
-    {
-      "title": "Jak skutecznie przygotować się do napisania pracy magisterskiej?",
-      "link": "https://dzienniknaukowy.pl/jak-skutecznie-przygotowac-sie-do-napisania-pracy-magisterskiej",
-      "pubDate": "Tue, 21 Oct 2025 08:17:00 +0000",
-      "description": "Zdobądź praktyczne porady i wskazówki, które pomogą Ci przejść przez proces pisania pracy magisterskiej. Dowiedz się, jak efektywnie zarządzać czasem, przeprowadzać badania i tworzyć strukturyzowane teksty"
-    },
-    {
-      "title": "Ryby zdetronizowały głowonogi i zdominowały oceany na przełomie kredy i jury",
-      "link": "https://dzienniknaukowy.pl/ryby-zdetronizowaly-glowonogi-i-zdominowaly-oceany-na-przelomie-kredy-i-jury",
-      "pubDate": "Mon, 20 Oct 2025 10:48:09 +0000",
-      "description": "Morza w okresie jurajskim nie przypominały tych dzisiejszych, ponieważ wtedy dominowały głowonogi, których najbliżsi dzisiejsi krewniacy to kałamarnice i mątwy. Zmiana nastąpiła na przełomie jury i kredy, kiedy to ryby zaczęły przejmować oceany – wykazały badania paleontologów m.in. z PAN."
-    },
-    {
-      "title": "Czym różni się tomografia od rezonansu?",
-      "link": "https://dzienniknaukowy.pl/czym-rozni-sie-tomografia-od-rezonansu",
-      "pubDate": "Mon, 20 Oct 2025 10:38:41 +0000",
-      "description": "Obrazowanie medyczne stanowi fundament współczesnej diagnostyki, pozwalając na ocenę stanu zdrowia pacjentów w sposób precyzyjny i nieinwazyjny. Wśród najczęściej stosowanych metod znajdują się tomografia komputerowa oraz rezonans magnetyczny, które, choć pozornie mogą wydawać się podobne, różnią się zarówno zasadą działania, jak i zakresem zastosowań klinicznych"
-    },
-    {
-      "title": "Oczyszczalnie słabo radzą sobie z pozostałościami wielu leków",
-      "link": "https://dzienniknaukowy.pl/oczyszczalnie-slabo-radza-sobie-z-pozostalosciami-wielu-lekow",
-      "pubDate": "Mon, 20 Oct 2025 10:32:05 +0000",
-      "description": "Pozostałości leków stosowanych w domach, szpitalach czy w weterynarii trafiają do ścieków. Konwencjonalne oczyszczalnie nie radzą sobie jednak z oczyszczaniem wód z tych wszystkich związków. Zanieczyszczona farmaceutykami woda bywa szkodliwa dla organizmów wodnych, co potwierdziły analizy ekspertów z Instytutu Ochrony Środowiska - PIB."
-    },
-    {
-      "title": "Prozdrowotne właściwości nasion dyni",
-      "link": "https://dzienniknaukowy.pl/prozdrowotne-wlasciwosci-nasion-dyni",
-      "pubDate": "Fri, 17 Oct 2025 09:17:23 +0000",
-      "description": "Dynia kojarzy się przede wszystkim z jesiennymi potrawami – zupą, ciastem czy dekoracjami na Halloween. Tymczasem jej nasiona kryją w sobie bogactwo składników, które mogą wspierać zdrowie i znaleźć zastosowanie we współczesnej dietetyce oraz suplementacji. Nasiona dyni mają właściwości przeciwzapalne, antyoksydacyjne, mogą obniżać poziom cholesterolu i chronić układ krążenia."
-    },
-    {
-      "title": "Kwantowa komunikacja nowej generacji",
-      "link": "https://dzienniknaukowy.pl/kwantowa-komunikacja-nowej-generacji",
-      "pubDate": "Fri, 17 Oct 2025 08:41:20 +0000",
-      "description": "Fizycy z Uniwersytetu Warszawskiego opracowali i przetestowali w miejskiej infrastrukturze nowatorski system kwantowej dystrybucji klucza kryptograficznego (QKD), oparty na kodowaniu wysokowymiarowym. Układ jest prostszy w budowie i skalowaniu niż dotychczasowe rozwiązania."
-    },
-    {
-      "title": "Rola diety w profilaktyce i leczeniu zapalenia zatok – co jeść, by szybciej wyzdrowieć?",
-      "link": "https://dzienniknaukowy.pl/rola-diety-w-profilaktyce-i-leczeniu-zapalenia-zatok-co-jesc-by-szybciej-wyzdrowiec",
-      "pubDate": "Fri, 17 Oct 2025 08:20:00 +0000",
-      "description": "Zapalenie zatok to częsty problem, zwłaszcza jesienią i zimą, gdy infekcje górnych dróg oddechowych są na porządku dziennym. Choć podstawą leczenia są dobrze dobrane do objawów preparaty, dieta również odgrywa w nim ważną rolę. Co jeść, aby szybciej dojść do siebie po infekcji i rzadziej chorować?"
-    },
-    {
-      "title": "Polacy współautorami nowej metody badania reakcji chemicznych",
-      "link": "https://dzienniknaukowy.pl/polacy-wspolautorami-nowej-metody-badania-reakcji-chemicznych",
-      "pubDate": "Thu, 16 Oct 2025 10:32:37 +0000",
-      "description": "Nową metodę badania reakcji chemicznych, która może odmienić sposób pracy w laboratoriach na całym świecie, opracował międzynarodowy zespół badaczy, w którym znalazło się kilku Polaków. Wyniki swoich prac naukowcy opublikowali w czasopiśmie „Nature”."
-    }
-  ]
+  "articles": []
 }
