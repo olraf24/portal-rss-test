@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-10-22T13:15:10.158Z",
+  "lastUpdate": "2025-10-22T13:42:15.210Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Wojsko sprawdza nowy system minowania",
+      "link": "https://defence24.pl/sily-zbrojne/wojsko-sprawdza-nowy-system-minowania",
+      "pubDate": "Wed, 22 Oct 2025 15:30:00 +0200",
+      "description": "Temat minowania narzutowego w naszym kraju skupiony jest wokół [programu Baobab-K](https://defence24.pl/przemysl/miliard-na-nowoczesne-minowanie-dla-wojska-polskiego-baobab-k-zamowiony), który to pozwoli naszej armii na uzyskanie cennych zdolności spowalniania lub zatrzymywania wrogich sił pancernych ([co można jeszcze zwiększyć, pozyskując jego gąsienicową wersję](https://defence24.pl/sily-zbrojne/baobab-trafi-na-gasienice-ruszaja-konsultacje)). Nie tak dawno pojawiła się konstrukcja, która mogłaby stanowić jego uzupełnienie, dzieląc z nim wykorzystywane środki bojowe oraz wyrzucający je miotacz. Mowa tutaj o [bezzałogowo-załogowym pojeździe minowania narzutowego Bluszcz](https://defence24.pl/technologie/bezzalogowy-bluszcz-zaminuje-granice)."
+    },
     {
       "title": "Wargaming, a współczesne pole walki [WIDEO]",
       "link": "https://defence24.pl/polityka-obronna/wargaming-a-wspolczesne-pole-walki-wideo",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/nowe-rysie-dla-bundeswehry",
       "pubDate": "Wed, 22 Oct 2025 09:05:06 +0200",
       "description": "Umowa opiewa na kwotę około 3 mld euro i dotyczy dostaw 274 bojowych wozów rozpoznawczych o nazwie Spähfahrzeugen der Neuen Generation Luchs 2 (Ryś 2), co nawiązuje do użytkowanych w latach 1975-2009 wozów Spähpanzer Luchs. Luchs 2 bazuje na wozie Piranha 6x6."
-    },
-    {
-      "title": "Czy AK-47 zastąpią algorytmy – nowa wizja wojny asymetrycznej",
-      "link": "https://defence24.pl/polityka-obronna/czy-ak-47-zastapia-algorytmy-nowa-wizja-wojny-asymetrycznej",
-      "pubDate": "Wed, 22 Oct 2025 08:32:02 +0200",
-      "description": "Z tej racji współczesne analizy prowadzenia wojny opisują to nową parą pojęć: syntetyczna asymetria i inteligentyzacja. Ta pierwsza oznacza projektowanie całych środowisk walki, w których przewaga nie wynika z jednej cudownej broni, ale z połączenia wszystkiego w całość: technologii, danych i procedur. Druga — inteligentyzacja — to krok dalej: chodzi o uczenie maszyn i systemów adaptacji, by same potrafiły rozpoznawać sytuację, reagować i doskonalić swoje decyzje. W efekcie przewaga nie rodzi się już z siły ognia, lecz z umiejętności myślenia szybciej i szerzej niż przeciwnik. Na ten fakt zwraca uwagę Dave Venable były oficer NSA autor tekstu *Forget Guerrillas and IEDs – The Next Asymmetric War Will Be Engineered* (The Cipher Brief, (2025)). Jego zdaniem kończy się epoka klasycznej wojny asymetrycznej, którego ikoną od połowy dwudziestego wieku byli partyzanci, rebelianci ,czy terroryści z AK-47 – broni taniej, prostej i skutecznej w sianiu chaosu. Według niego nadchodzi czas syntetycznej asymetrii, w której zwycięża ten, kto potrafi połączyć dane, algorytmy i decyzje w jeden, samouczący się ekosystem. Dawniej dowódca szukał „okazji” w terenie. Dziś projektuje się całe sekwencje zdarzeń – nie tylko na polu walki, ale w gospodarce, sieci i przestrzeni informacyjnej."
     }
   ]
 }
