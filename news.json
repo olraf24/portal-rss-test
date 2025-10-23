@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-10-23T17:06:06.072Z",
+  "lastUpdate": "2025-10-23T17:36:14.183Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Nagranie z kradzieży w Luwrze",
+      "title": "Rosja naruszyła litewską przestrzeń powietrzną",
+      "link": "https://tvn24.pl/swiat/dwa-rosyjskie-samoloty-nad-niebem-litwy-czlonka-nato-st8716532?source=rss",
+      "pubDate": "Thu, 23 Oct 2025 17:29:43 GMT",
+      "description": "• Dwa rosyjskie samoloty wojskowe naruszyły litewską przestrzeń powietrzną.\n• Ministerstwo obrony narodowej podało informację o naruszeniu przestrzeni powietrznej.\n• Siły litewskie zareagowały szybko na incydent.\n• Myśliwce NATO patrolowały niebo w odpowiedzi na naruszenie przestrzeni powietrznej.",
+      "originalTitle": "Dwa rosyjskie samoloty naruszyły litewską przestrzeń",
+      "originalDescription": "Dwa rosyjskie samoloty wojskowe naruszyły litewską przestrzeń powietrzną - podało tamtejsze ministerstwo obrony narodowej. \"Nasze siły szybko zareagowały, a myśliwce NATO patrolowały niebo\" - dodano w komunikacie."
+    },
+    {
+      "title": "Pożar kamienicy w Katowicach",
+      "link": "https://tvn24.pl/katowice/katowice-pozar-kamienicy-przy-ulicy-francuskiej-to-pustostan-st8716544?source=rss",
+      "pubDate": "Thu, 23 Oct 2025 17:28:46 GMT",
+      "description": "• Ogień pojawił się w czwartek.\n• Ogień pojawił się w kamienicy przy ulicy Francuskiej.\n• Kamienica znajduje się w Katowicach.\n• Budynek, w którym pojawił się ogień, to pustostan.\n• Ewakuowano mieszkańców sąsiedniego budynku.\n• Informację o pożarze przekazali strażacy.",
+      "originalTitle": "Pożar kamienicy w centrum Katowic. Ogień na wszystkich piętrach",
+      "originalDescription": "Ogień pojawił się w czwartek w kamienicy przy ulicy Francuskiej w Katowicach. Jak przekazali strażacy, to pustostan. Ewakuowano mieszkańców sąsiedniego budynku."
+    },
+    {
+      "title": "Odkryto ciało po powodzi",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-walencji-rok-pozniej-znaleziono-cialo-jednej-z-ofiar-st8716462?source=rss",
+      "pubDate": "Thu, 23 Oct 2025 17:24:28 GMT",
+      "description": "Rok po powodzi, do jakiej doszło we wspólnocie autonomicznej Walencji na wschodzie Hiszpanii, znaleziono ciało jednej z ofiar. Zostało ono odkryte podczas prac ziemnych. Sąd wciąż prowadzi dochodzenie w sprawie ostrzeżeń, które dotarły do mieszkańców zbyt późno.",
+      "originalTitle": "Rok po powodzi w Walencji znaleziono ciało",
+      "originalDescription": "Rok po powodzi, do jakiej doszło we wspólnocie autonomicznej Walencji na wschodzie Hiszpanii, znaleziono ciało jednej z ofiar. Zostało ono odkryte podczas prac ziemnych. Sąd wciąż prowadzi dochodzenie w sprawie ostrzeżeń, które dotarły do mieszkańców zbyt późno."
+    },
+    {
+      "title": "Potężny pożar kurników. W środku 40 tysięcy sztuk drobiu",
+      "link": "https://tvn24.pl/opole/gmina-pokoj-potezny-pozar-kurnikow-w-srodku-40-tysiecy-kur-st8716519?source=rss",
+      "pubDate": "Thu, 23 Oct 2025 17:08:32 GMT",
+      "description": "Pożar kurników w gminie Pokój niedaleko Namysłowa (Opolskie). W płonącym budynku znajdowało się 40 tysięcy kur. Na miejscu działa 26 zastępów straży pożarnej.",
+      "originalTitle": "Potężny pożar kurników. W środku 40 tysięcy sztuk drobiu",
+      "originalDescription": "Pożar kurników w gminie Pokój niedaleko Namysłowa (Opolskie). W płonącym budynku znajdowało się 40 tysięcy kur. Na miejscu działa 26 zastępów straży pożarnej."
+    },
+    {
+      "title": "Trump ułaskawił miliardera",
+      "link": "https://tvn24.pl/biznes/ze-swiata/trump-ulaskawil-changpenga-zhao-wspolzalozyciela-i-bylego-prezesa-binance-st8716429?source=rss",
+      "pubDate": "Thu, 23 Oct 2025 17:03:25 GMT",
+      "description": "Prezydent USA Donald Trump ułaskawił Changpenga Zhao, współzałożyciela i byłego prezesa największej na świecie giełdy kryptowalut Binance - poinformował Biały Dom. Zhao został skazany na cztery miesiące więzienia w kwietniu 2024 roku po tym, jak przyznał się do naruszenia amerykańskich przepisów dotyczących prania pieniędzy.",
+      "originalTitle": "Trump ułaskawił miliardera",
+      "originalDescription": "Prezydent USA Donald Trump ułaskawił Changpenga Zhao, współzałożyciela i byłego prezesa największej na świecie giełdy kryptowalut Binance - poinformował Biały Dom. Zhao został skazany na cztery miesiące więzienia w kwietniu 2024 roku po tym, jak przyznał się do naruszenia amerykańskich przepisów dotyczących prania pieniędzy."
+    },
+    {
+      "title": "Staranował kilka aut i odjechał. Zostawił za sobą ślad. Nagranie",
+      "link": "https://tvn24.pl/lubuskie/droga-s3-kierowca-ciezarowki-staranowal-kilka-aut-i-odjechal-gubiac-towar-nagranie-st8716404?source=rss",
+      "pubDate": "Thu, 23 Oct 2025 17:02:26 GMT",
+      "description": "Zderzył się z innym pojazdem i odjechał, gubiąc na długości kilku kilometrów opakowania z naczepy. Kierowcę ciężarówki zatrzymano na parkingu przy trasie S3 niedaleko Sulechowa (Lubuskie). Był pijany.",
+      "originalTitle": "Staranował kilka aut i odjechał. Zostawił za sobą ślad. Nagranie",
+      "originalDescription": "Zderzył się z innym pojazdem i odjechał, gubiąc na długości kilku kilometrów opakowania z naczepy. Kierowcę ciężarówki zatrzymano na parkingu przy trasie S3 niedaleko Sulechowa (Lubuskie). Był pijany."
+    },
+    {
+      "title": "Nowe nagranie z kradzieży w Luwrze",
       "link": "https://tvn24.pl/swiat/kradziez-w-luwrze-zrabowali-klejnoty-i-uciekli-nowe-wideo-st8716433?source=rss",
       "pubDate": "Thu, 23 Oct 2025 16:54:55 GMT",
-      "description": "• Francuskie media opublikowały nowe nagranie.\n• Nagranie ma przedstawiać złodziei klejnotów z Luwru.\n• Na nagraniu widać dwie osoby.\n• Osoby te zjeżdżają na podnośniku.\n• Następnie uciekają.",
+      "description": "Francuskie media opublikowały nowe nagranie, które ma przedstawiać złodziei klejnotów z Luwru. Przedstawia ono dwie osoby, które zjeżdżają na podnośniku, a następnie uciekają.",
       "originalTitle": "Nowe nagranie z kradzieży w Luwrze",
       "originalDescription": "Francuskie media opublikowały nowe nagranie, które ma przedstawiać złodziei klejnotów z Luwru. Przedstawia ono dwie osoby, które zjeżdżają na podnośniku, a następnie uciekają."
     },
     {
-      "title": "Awaria wodna spowodowała głośny hałas",
+      "title": "Usłyszeli wybuch, myśleli, że to gaz, a to była woda",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-interwencja-strazy-pozarnej-dostali-zgloszenie-o-wybuchu-gazu-st8716465?source=rss",
       "pubDate": "Thu, 23 Oct 2025 16:39:49 GMT",
-      "description": "• W czwartek w godzinach wieczornych strażacy zostali wezwani do jednego z budynków.\n• Miejsce zdarzenia to Grodzisku Mazowieckim.\n• Doszło do gwałtownego rozszczelnienia się instalacji centralnego ogrzewania.",
+      "description": "W czwartek w godzinach wieczornych strażacy zostali wezwani do jednego z budynków w Grodzisku Mazowieckim, gdzie miało miejsce gwałtowne rozszczelnienie się instalacji centralnego ogrzewania.",
       "originalTitle": "Usłyszeli wybuch, myśleli, że to gaz, a to była woda",
       "originalDescription": "W czwartek w godzinach wieczornych strażacy zostali wezwani do jednego z budynków w Grodzisku Mazowieckim, gdzie miało miejsce gwałtowne rozszczelnienie się instalacji centralnego ogrzewania."
     },
     {
-      "title": "Dokumenty wojskowe znalezione w śmieciach w Suwałkach",
+      "title": "Wojskowe dokumenty w śmieciach w Suwałkach. Jest postępowanie",
       "link": "https://tvn24.pl/polska/suwalki-zandarmeria-wojskowa-rozpoczela-postepowanie-w-sprawie-wojskowych-dokumentow-znalezionych-w-stercie-smieci-st8716414?source=rss",
       "pubDate": "Thu, 23 Oct 2025 16:31:35 GMT",
-      "description": "• Żandarmeria Wojskowa prowadzi czynności procesowe w Białymstoku.\n• Czynności procesowe są związane ze znalezieniem dokumentów wojskowych.\n• Dokumenty wojskowe zostały znalezione w stercie śmieci.\n• Sterta śmieci, w której znaleziono dokumenty, znajduje się na prywatnej działce.\n• Prywatna działka, na której znaleziono dokumenty, położona jest w Suwałkach.\n• Szef MON to Władysław Kosiniak Kamysz.\n• Władysław Kosiniak Kamysz zapowiedział, że każda osoba łamiąca ustawę o ochronie informacji zostanie ukarana.",
+      "description": "Żandarmeria Wojskowa w Białymstoku prowadzi czynności procesowe w związku ze znalezieniem dokumentów wojskowych w stercie śmieci na prywatnej działce w Suwałkach. Szef MON Władysław Kosiniak Kamysz zapowiedział, że każda osoba, łamiąca ustawę o ochronie informacji, zostanie ukarana.",
       "originalTitle": "Wojskowe dokumenty w śmieciach w Suwałkach. Jest postępowanie",
       "originalDescription": "Żandarmeria Wojskowa w Białymstoku prowadzi czynności procesowe w związku ze znalezieniem dokumentów wojskowych w stercie śmieci na prywatnej działce w Suwałkach. Szef MON Władysław Kosiniak Kamysz zapowiedział, że każda osoba, łamiąca ustawę o ochronie informacji, zostanie ukarana."
     },
@@ -34,54 +82,6 @@
       "description": "Piorun trafił w dwóch wspinaczy znajdujących się na najwyższej górze Arizony. Mężczyznom udało się wezwać pomoc, ale niekorzystna pogoda utrudniła ratownikom dotarcie na miejsce.",
       "originalTitle": "Piorun trafił dwóch mężczyzn znajdujących się na szczycie góry",
       "originalDescription": "Piorun trafił w dwóch wspinaczy znajdujących się na najwyższej górze Arizony. Mężczyznom udało się wezwać pomoc, ale niekorzystna pogoda utrudniła ratownikom dotarcie na miejsce."
-    },
-    {
-      "title": "Rafał Blechacz gościem programu \"Monika Olejnik. Otwarcie\"",
-      "link": "https://tvn24.pl/polska/rafal-blechacz-gosciem-programu-monika-olejnik-otwarcie-st8716376?source=rss",
-      "pubDate": "Thu, 23 Oct 2025 16:10:53 GMT",
-      "description": "Gościem najnowszego odcinka programu \"Monika Olejnik. Otwarcie\" będzie Rafał Blechacz, który 20 lat temu zachwycił świat i został zwycięzcą Konkursu Chopinowskiego. - Myślę, że Chopinowi trudno byłoby wygrać ten konkurs w naszych czasach, w naszej erze - przyznał. Cała rozmowa z Blechaczem będzie dostępna od piątkowego poranka w TVN24+.",
-      "originalTitle": "Rafał Blechacz gościem programu \"Monika Olejnik. Otwarcie\"",
-      "originalDescription": "Gościem najnowszego odcinka programu \"Monika Olejnik. Otwarcie\" będzie Rafał Blechacz, który 20 lat temu zachwycił świat i został zwycięzcą Konkursu Chopinowskiego. - Myślę, że Chopinowi trudno byłoby wygrać ten konkurs w naszych czasach, w naszej erze - przyznał. Cała rozmowa z Blechaczem będzie dostępna od piątkowego poranka w TVN24+."
-    },
-    {
-      "title": "\"Musieli czekać na posiłki w długich kolejkach\". Jest wyrok TSUE",
-      "link": "https://tvn24.pl/biznes/turystyka/musieli-czekac-na-posilki-w-dlugich-kolejkach-jest-wyrok-tsue-st8716405?source=rss",
-      "pubDate": "Thu, 23 Oct 2025 16:01:36 GMT",
-      "description": "Trybunał Sprawiedliwości Unii Europejskiej, odpowiadając na pytanie sądu w sprawie dwóch polskich turystów, orzekł w czwartek, że podróżnemu przysługuje zwrot całości zapłaconej ceny za wycieczkę, nawet jeśli częściowo z niej skorzystał. Polacy wybrali się na wypoczynek all-inclusive do Albanii.",
-      "originalTitle": "\"Musieli czekać na posiłki w długich kolejkach\". Jest wyrok TSUE",
-      "originalDescription": "Trybunał Sprawiedliwości Unii Europejskiej, odpowiadając na pytanie sądu w sprawie dwóch polskich turystów, orzekł w czwartek, że podróżnemu przysługuje zwrot całości zapłaconej ceny za wycieczkę, nawet jeśli częściowo z niej skorzystał. Polacy wybrali się na wypoczynek all-inclusive do Albanii."
-    },
-    {
-      "title": "Śnieg na górze Fuji znów pojawił się późno",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-snieg-na-gorze-fuji-pojawil-sie-niepokojaco-pozno-st8715727?source=rss",
-      "pubDate": "Thu, 23 Oct 2025 15:55:11 GMT",
-      "description": "Na szczycie Fuji pojawił się śnieg, stało się to jednak znacznie później niż powinno. Eksperci wskazują, że późne opady śniegu na górze Fuji są związane ze zmianami klimatu.",
-      "originalTitle": "Śnieg na górze Fuji znów pojawił się późno",
-      "originalDescription": "Na szczycie Fuji pojawił się śnieg, stało się to jednak znacznie później niż powinno. Eksperci wskazują, że późne opady śniegu na górze Fuji są związane ze zmianami klimatu."
-    },
-    {
-      "title": "Szczecin walczy o 111 milionów złotych od Skarbu Państwa",
-      "link": "https://tvn24.pl/polska/pensje-nauczycieli-szczecin-chce-pieniedzy-od-skarbu-panstwa-wladze-miasta-ida-do-sadu-st8716121?source=rss",
-      "pubDate": "Thu, 23 Oct 2025 15:54:30 GMT",
-      "description": "Piotr Krzystek, prezydent Szczecina, będzie zeznawał 24 października przed warszawskim sądem okręgowym. Jego miasto to pierwszy samorząd w Polsce, który postanowił taką drogą domagać się pieniędzy z budżetu państwa na pokrycie kosztów nauczycielskich pensji.",
-      "originalTitle": "Szczecin walczy o 111 milionów złotych od Skarbu Państwa",
-      "originalDescription": "Piotr Krzystek, prezydent Szczecina, będzie zeznawał 24 października przed warszawskim sądem okręgowym. Jego miasto to pierwszy samorząd w Polsce, który postanowił taką drogą domagać się pieniędzy z budżetu państwa na pokrycie kosztów nauczycielskich pensji."
-    },
-    {
-      "title": "Wysłał zdjęcie ze szczytu i zaginął. \"Źle to się skończyło\"",
-      "link": "https://tvn24.pl/krakow/tatry-wyslal-zdjecie-ze-szczytu-i-zaginal-znaleziono-cialo-turysty-st8711066?source=rss",
-      "pubDate": "Tue, 21 Oct 2025 11:36:35 GMT",
-      "description": "Ciało 55-letniego turysty z Nowego Sącza zostało znalezione w Dolinie Gaborowej - poinformowali słowaccy ratownicy górscy. Mężczyzna był poszukiwany od poniedziałku, kiedy po zdobyciu najwyższego szczytu Tatr Zachodnich - Bystrej - stracił kontakt z rodziną. - Musiał ulec poślizgnięciu i w wyniku upadku doznał obrażeń - powiedział TVN24 ratownik TOPR Grzegorz Kubicki.",
-      "originalTitle": "Wysłał zdjęcie ze szczytu i zaginął. \"Źle to się skończyło\"",
-      "originalDescription": "Ciało 55-letniego turysty z Nowego Sącza zostało znalezione w Dolinie Gaborowej - poinformowali słowaccy ratownicy górscy. Mężczyzna był poszukiwany od poniedziałku, kiedy po zdobyciu najwyższego szczytu Tatr Zachodnich - Bystrej - stracił kontakt z rodziną. - Musiał ulec poślizgnięciu i w wyniku upadku doznał obrażeń - powiedział TVN24 ratownik TOPR Grzegorz Kubicki."
-    },
-    {
-      "title": "Ciężarówką zahaczył o autobus, siedem osób poszkodowanych",
-      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-wypadek-autobusu-siedem-osob-rannych-st8716418?source=rss",
-      "pubDate": "Thu, 23 Oct 2025 15:49:17 GMT",
-      "description": "U zbiegu Wołoskiej i Wilanowskiej doszło do zderzenia ciężarówki z autobusem miejskim. Siedem osób zostało poszkodowanych.",
-      "originalTitle": "Ciężarówką zahaczył o autobus, siedem osób poszkodowanych",
-      "originalDescription": "U zbiegu Wołoskiej i Wilanowskiej doszło do zderzenia ciężarówki z autobusem miejskim. Siedem osób zostało poszkodowanych."
     }
   ]
 }
