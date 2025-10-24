@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-10-24T14:38:21.434Z",
+  "lastUpdate": "2025-10-24T15:06:16.443Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Doradca Putina w Waszyngtonie spotka się z przedstawicielem Białego Domu",
+      "title": "Krakowskie Przedmieście straci status deptaka",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-krakowskie-przedmiescie-przestanie-byc-deptakiem-to-juz-ostatni-weekend-st8718332?source=rss",
+      "pubDate": "Fri, 24 Oct 2025 14:48:49 GMT",
+      "description": "• Najbliższy weekend będzie ostatnim w tym sezonie, gdy Krakowskie Przedmieście stanie się deptakiem.\n• Stołeczny ratusz poinformował o tym fakcie.\n• W tym czasie zmieni się kursowanie autobusów komunikacji miejskiej.",
+      "originalTitle": "Krakowskie Przedmieście przestanie być deptakiem. To już ostatni weekend",
+      "originalDescription": "Najbliższy weekend będzie ostatnim w tym sezonie, gdy Krakowskie Przedmieście stanie się deptakiem – poinformował stołeczny ratusz. Zmieni się w tym czasie kursowanie autobusów komunikacji miejskiej."
+    },
+    {
+      "title": "Problemy z mediami społecznościowymi",
+      "link": "https://tvn24.pl/biznes/tech/media-spolecznosciowe-ta-wizja-sie-zalamala-do-gry-wszedl-wielki-kapital-st8717107?source=rss",
+      "pubDate": "Fri, 24 Oct 2025 14:48:00 GMT",
+      "description": "Dziś nie ma już mediów społecznościowych, są za to media atencyjne, funkcjonujące tylko po to, by przyciągać naszą uwagę, zatrzymywać użytkownika jak najdłużej. A że od wielu miesięcy nie widzieliśmy wpisu nikogo znajomego? Nie mamy czasu się nad tym zastanawiać - mówi Magdalena Bigaj, prezeska Instytutu Cyfrowego Obywatelstwa. \"Financial Times\" stawia tezę, że era największego wpływu mediów społecznościowych dobiegła końca. Symptomów kryzysu nie brakuje.",
+      "originalTitle": "Media antyspołecznościowe. Co poszło nie tak?",
+      "originalDescription": "Dziś nie ma już mediów społecznościowych, są za to media atencyjne, funkcjonujące tylko po to, by przyciągać naszą uwagę, zatrzymywać użytkownika jak najdłużej. A że od wielu miesięcy nie widzieliśmy wpisu nikogo znajomego? Nie mamy czasu się nad tym zastanawiać - mówi Magdalena Bigaj, prezeska Instytutu Cyfrowego Obywatelstwa. \"Financial Times\" stawia tezę, że era największego wpływu mediów społecznościowych dobiegła końca. Symptomów kryzysu nie brakuje."
+    },
+    {
+      "title": "Odkrycia we Włoszech ujawniają spożywanie mięsa słoni",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/setki-tysiecy-lat-temu-na-terenie-wloch-jedzono-mieso-sloni-st8718169?source=rss",
+      "pubDate": "Fri, 24 Oct 2025 14:47:20 GMT",
+      "description": "O takim składniku włoskiej diety prawdopodobnie nigdy byście nie pomyśleli. Prehistoryczni ludzie zamieszkujący Półwysep Apeniński setki tysięcy lat temu żywili się mięsem wymarłych krewnych słoni.",
+      "originalTitle": "Setki tysięcy lat temu na terenie Włoch jedzono mięso słoni",
+      "originalDescription": "O takim składniku włoskiej diety prawdopodobnie nigdy byście nie pomyśleli. Prehistoryczni ludzie zamieszkujący Półwysep Apeniński setki tysięcy lat temu żywili się mięsem wymarłych krewnych słoni."
+    },
+    {
+      "title": "Rosjanie monitorują wrak promu Estonia",
+      "link": "https://tvn24.pl/swiat/baltyk-rosjanie-zamontowali-urzadzenia-szpiegowskie-na-wraku-promu-estonia-media-st8718091?source=rss",
+      "pubDate": "Fri, 24 Oct 2025 14:42:11 GMT",
+      "description": "Rosjanie zamontowali urządzenia umożliwiające precyzyjną nawigację podwodnych dronów na wraku promu \"Estonia\" - informują niemieckie media. Wrak znajduje się w strategicznie ważnym miejscu u wejścia do Zatoki Fińskiej.",
+      "originalTitle": "Media: Rosjanie szpiegują z wraku promu \"Estonia\"",
+      "originalDescription": "Rosjanie zamontowali urządzenia umożliwiające precyzyjną nawigację podwodnych dronów na wraku promu \"Estonia\" - informują niemieckie media. Wrak znajduje się w strategicznie ważnym miejscu u wejścia do Zatoki Fińskiej."
+    },
+    {
+      "title": "Najmniej w Europie. Dlaczego polscy seniorzy nie szczepią się na grypę?",
+      "link": "https://tvn24.pl/zdrowie/grypa-a-seniorzy-65-dlaczego-w-polsce-szczepi-sie-tak-malo-osob-starszych-st8718354?source=rss",
+      "pubDate": "Fri, 24 Oct 2025 14:38:30 GMT",
+      "description": "Poziom zaszczepienia przeciw grypie wśród osób w wieku 65+ w Polsce jest jednym z najniższych w Europie. Dlaczego seniorzy nie korzystają z takiej formy ochrony zdrowia? Problemem wcale nie jest postawa antyszczepionkowa, mówią eksperci. Chodzi o tak zwaną \"lukę biograficzną\". Co to takiego?",
+      "originalTitle": "Najmniej w Europie. Dlaczego polscy seniorzy nie szczepią się na grypę?",
+      "originalDescription": "Poziom zaszczepienia przeciw grypie wśród osób w wieku 65+ w Polsce jest jednym z najniższych w Europie. Dlaczego seniorzy nie korzystają z takiej formy ochrony zdrowia? Problemem wcale nie jest postawa antyszczepionkowa, mówią eksperci. Chodzi o tak zwaną \"lukę biograficzną\". Co to takiego?"
+    },
+    {
+      "title": "Doradca Putina przyjechał do Waszyngtonu. Spotka się z wysłannikiem Trumpa",
       "link": "https://tvn24.pl/swiat/doradca-putina-w-waszyngtonie-spotka-sie-z-nim-witkoff-st8718279?source=rss",
       "pubDate": "Fri, 24 Oct 2025 14:31:41 GMT",
-      "description": "• Amerykański wysłannik do spraw misji pokojowych to Steve Witkoff.\n• Steve Witkoff ma spotkać się w sobotę z doradcą ekonomicznym Władimira Putina.\n• Doradcą ekonomicznym Władimira Putina jest Kiriłł Dmitrijew.\n• Spotkanie odbędzie się dwa dni po nałożeniu przez Stany Zjednoczone sankcji na rosyjskie koncerny naftowe.\n• Informację o spotkaniu podał portal Axios.\n• Sankcje na rosyjskie koncerny naftowe zostały nałożone przez Stany Zjednoczone.",
+      "description": "Amerykański wysłannik do spraw misji pokojowych Steve Witkoff ma spotkać się w sobotę z doradcą ekonomicznym Władimira Putina Kiriłłem Dmitrijewem - podał portal Axios. Do spotkania dojdzie dwa dni po nałożeniu przez Stany Zjednoczone sankcji na rosyjskie koncerny naftowe.",
       "originalTitle": "Doradca Putina przyjechał do Waszyngtonu. Spotka się z wysłannikiem Trumpa",
       "originalDescription": "Amerykański wysłannik do spraw misji pokojowych Steve Witkoff ma spotkać się w sobotę z doradcą ekonomicznym Władimira Putina Kiriłłem Dmitrijewem - podał portal Axios. Do spotkania dojdzie dwa dni po nałożeniu przez Stany Zjednoczone sankcji na rosyjskie koncerny naftowe."
     },
     {
-      "title": "Sprawa Trump: zarzuty o oszustwo",
+      "title": "Trump: oszukała i została przyłapana",
       "link": "https://tvn24.pl/biznes/ze-swiata/trump-oszukala-i-zostala-przylapana-st8718247?source=rss",
       "pubDate": "Fri, 24 Oct 2025 14:24:41 GMT",
-      "description": "• Prezydent Stanów Zjednoczonych to Donald Trump.\n• Zarzut dotyczy \"nielegalnego wywierania wpływu na Sąd Najwyższy\".\n• Zarzut został zgłoszony w piątek.\n• Posiedzenie Sądu Najwyższego ma się odbyć w listopadzie.\n• Posiedzenie dotyczy legalno��ci większości ceł wprowadzonych z inicjatywy Donalda Trumpa.\n• Zarzut jest odpowiedzią na spot reklamowy zawierający wypowiedź Ronalda Reagana o polityce celnej.\n• Spot reklamowy został sfinansowany przez władze kanadyjskiej prowincji Ontario.",
+      "description": "Prezydent Stanów Zjednoczonych Donald Trump zarzucił w piątek Kanadzie \"nielegalne wywieranie wpływu na Sąd Najwyższy\" przed listopadowym posiedzeniem dotyczącym legalności większości ceł wprowadzonych z jego inicjatywy. To kolejna odpowiedź Trumpa na spot reklamowy zawierający wypowiedź Ronalda Reagana o polityce celnej, sfinansowany przez władze kanadyjskiej prowincji Ontario.",
       "originalTitle": "Trump: oszukała i została przyłapana",
       "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump zarzucił w piątek Kanadzie \"nielegalne wywieranie wpływu na Sąd Najwyższy\" przed listopadowym posiedzeniem dotyczącym legalności większości ceł wprowadzonych z jego inicjatywy. To kolejna odpowiedź Trumpa na spot reklamowy zawierający wypowiedź Ronalda Reagana o polityce celnej, sfinansowany przez władze kanadyjskiej prowincji Ontario."
     },
     {
-      "title": "S7 od Czosnowa do Modlina z trzema pasami",
+      "title": "Zamiast dwóch, trzy pasy. Szersza S7 od Czosnowa do Modlina",
       "link": "https://tvn24.pl/tvnwarszawa/najnowsze/trasa-s7-do-ruchu-oddano-odcinek-od-czosnowa-do-modlina-st8718235?source=rss",
       "pubDate": "Fri, 24 Oct 2025 14:17:49 GMT",
-      "description": "• Kierowcy mogą korzystać z oddanego do ruchu trzypasmowego odcinka S7 od piątkowego popołudnia.\n• Odcinek S7 jest zlokalizowany od Czosnowa do Modlina.\n• Długość odcinka wynosi 9,7 km.\n• Odcinek jest jednym z trzech realizowanych fragmentów drogi pomiędzy Płońskiem a Czosnowem.",
+      "description": "Pod piątkowego popołudnia kierowcy mogą już korzystać z oddanego do ruchu trzypasmowego odcinka S7 od Czosnowa do Modlina. Ma 9,7 km, to jeden z trzech realizowanych fragmentów drogi pomiędzy Płońskiem a Czosnowem.",
       "originalTitle": "Zamiast dwóch, trzy pasy. Szersza S7 od Czosnowa do Modlina",
       "originalDescription": "Pod piątkowego popołudnia kierowcy mogą już korzystać z oddanego do ruchu trzypasmowego odcinka S7 od Czosnowa do Modlina. Ma 9,7 km, to jeden z trzech realizowanych fragmentów drogi pomiędzy Płońskiem a Czosnowem."
     },
@@ -42,46 +82,6 @@
       "description": "Policjanci w jednym mieszkaniu zatrzymali dwóch mężczyzn poszukiwanych listami gończymi. Jeden próbował się jeszcze ukryć za łóżkiem, drugi w łazience.",
       "originalTitle": "Dwaj poszukiwani listami gończymi w jednym mieszkaniu",
       "originalDescription": "Policjanci w jednym mieszkaniu zatrzymali dwóch mężczyzn poszukiwanych listami gończymi. Jeden próbował się jeszcze ukryć za łóżkiem, drugi w łazience."
-    },
-    {
-      "title": "\"Dłuższa dniówka\" dla części osób. Inspekcja pracy komentuje",
-      "link": "https://tvn24.pl/biznes/dla-pracownika/zmiana-czasu-2025-dluzsza-dniowka-dla-czesci-osob-inspekcja-pracy-komentuje-st8718152?source=rss",
-      "pubDate": "Fri, 24 Oct 2025 14:00:05 GMT",
-      "description": "W najbliższy weekend, w nocy z soboty na niedzielę, nastąpi zmiana czasu z letniego na zimowy. Oznacza to dłuższą dniówkę w przypadku niektórych osób. W takiej sytuacji, jak przypomniał w piątek Główny Inspektor Pracy Marcin Stanecki, pracownikowi należy się wynagrodzenie wraz z dodatkiem za pracę w godzinach nadliczbowych oraz dodatkiem za pracę w porze nocnej.",
-      "originalTitle": "\"Dłuższa dniówka\" dla części osób. Inspekcja pracy komentuje",
-      "originalDescription": "W najbliższy weekend, w nocy z soboty na niedzielę, nastąpi zmiana czasu z letniego na zimowy. Oznacza to dłuższą dniówkę w przypadku niektórych osób. W takiej sytuacji, jak przypomniał w piątek Główny Inspektor Pracy Marcin Stanecki, pracownikowi należy się wynagrodzenie wraz z dodatkiem za pracę w godzinach nadliczbowych oraz dodatkiem za pracę w porze nocnej."
-    },
-    {
-      "title": "Przyznał, że \"źle zrobił\", mandatu nie przyjął",
-      "link": "https://tvn24.pl/lubuskie/zielona-gora-wyprzedzanie-na-przejsciu-dla-pieszych-przyznal-ze-zle-zrobil-ale-mandatu-nie-przyjal-st8718088?source=rss",
-      "pubDate": "Fri, 24 Oct 2025 13:57:22 GMT",
-      "description": "Kierujący samochodem osobowym zdecydował się na ryzykowny manewr wyprzedzania na przejściu dla pieszych. Zatrzymany przez policjantów mężczyzna przyznał, że \"źle zrobił\", ale powiedział, iż nie może powiedzieć, dlaczego i nie przyjął mandatu. Sprawą zajmie się sąd.",
-      "originalTitle": "Przyznał, że \"źle zrobił\", mandatu nie przyjął",
-      "originalDescription": "Kierujący samochodem osobowym zdecydował się na ryzykowny manewr wyprzedzania na przejściu dla pieszych. Zatrzymany przez policjantów mężczyzna przyznał, że \"źle zrobił\", ale powiedział, iż nie może powiedzieć, dlaczego i nie przyjął mandatu. Sprawą zajmie się sąd."
-    },
-    {
-      "title": "W lesie zastawiał pułapki, nielegalnie hodował chronione gatunki ptaków",
-      "link": "https://tvn24.pl/opole/strzelce-opolskie-w-lesie-zastawial-pulapki-nielegalnie-hodowal-chronione-gatunki-ptakow-st8718027?source=rss",
-      "pubDate": "Fri, 24 Oct 2025 13:51:01 GMT",
-      "description": "Podczas patrolu strażnicy leśnicy zauważyli mężczyznę, który na ich widok zaczął uciekać w głąb lasu. Zatrzymali go. Jak się okazało, 68-latek prowadził nielegalną hodowlę chronionych ptaków. Chwytał je w lesie.",
-      "originalTitle": "W lesie zastawiał pułapki, nielegalnie hodował chronione gatunki ptaków",
-      "originalDescription": "Podczas patrolu strażnicy leśnicy zauważyli mężczyznę, który na ich widok zaczął uciekać w głąb lasu. Zatrzymali go. Jak się okazało, 68-latek prowadził nielegalną hodowlę chronionych ptaków. Chwytał je w lesie."
-    },
-    {
-      "title": "Śmiertelne potrącenie rowerzysty pod Radomiem",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-smiertelne-potracenie-rowerzysty-st8718154?source=rss",
-      "pubDate": "Fri, 24 Oct 2025 13:49:25 GMT",
-      "description": "Do tragedii doszło na terenie gminy Wierzbica. Rowerzysta został potrącony przez kierowcę samochodu osobowego. Mimo reanimacji kierujący jednośladem zmarł.",
-      "originalTitle": "Śmiertelne potrącenie rowerzysty pod Radomiem",
-      "originalDescription": "Do tragedii doszło na terenie gminy Wierzbica. Rowerzysta został potrącony przez kierowcę samochodu osobowego. Mimo reanimacji kierujący jednośladem zmarł."
-    },
-    {
-      "title": "Były kierownik schroniska dla zwierząt skazany za znęcanie się nad nimi",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-byly-kierownik-schroniska-skazany-zakaz-posiadania-zwierzat-przedluzony-do-10-lat-st8718050?source=rss",
-      "pubDate": "Fri, 24 Oct 2025 13:28:37 GMT",
-      "description": "Rafał J., były kierownik schroniska dla zwierząt w Kościerzynie został już prawomocnie skazany na osiem miesięcy ograniczenia wolności. Ma też 10-letni zakaz posiadania zwierząt oraz wykonywania zawodów związanych z opieką nad nimi.",
-      "originalTitle": "Były kierownik schroniska dla zwierząt skazany za znęcanie się nad nimi",
-      "originalDescription": "Rafał J., były kierownik schroniska dla zwierząt w Kościerzynie został już prawomocnie skazany na osiem miesięcy ograniczenia wolności. Ma też 10-letni zakaz posiadania zwierząt oraz wykonywania zawodów związanych z opieką nad nimi."
     }
   ]
 }
