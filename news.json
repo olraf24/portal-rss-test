@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-25T20:34:56.717Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-25T21:05:46.250Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Irlandia wybiera prezydenta",
+      "link": "https://tvn24.pl/swiat/wybory-w-irlandii-2025-catherine-connolly-nowa-prezydentka-kraju-st8719794?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 21:01:17 GMT",
+      "description": "Niezależna kandydatka popierana przez partie lewicowe Catherine Connolly wygrała wybory prezydenckie w Irlandii. Zapowiedziała, że będzie bronić neutralności kraju i reprezentować wszystkich obywateli.",
+      "originalTitle": "Irlandia wybrała prezydentkę",
+      "originalDescription": "Niezależna kandydatka popierana przez partie lewicowe Catherine Connolly wygrała wybory prezydenckie w Irlandii. Zapowiedziała, że będzie bronić neutralności kraju i reprezentować wszystkich obywateli."
+    },
+    {
+      "title": "Flotylla i obywatelskie nieposłuszeństwo",
+      "link": "https://tvn24.pl/najnowsze/tomasz-terlikowski-i-karolina-wigura-o-wyprawie-flotylli-do-strefy-gazy-i-o-nieposluszenstwie-obywatelskim-st8719695?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 20:46:16 GMT",
+      "description": "• W programie \"Dwie strony\" w TVN24 Tomasz Terlikowski rozmawiał z Karoliną Wigurą.\n• Tematem rozmowy była wyprawa flotylli z pomocą humanitarną do Strefy Gazy.\n• Rozmowa dotyczyła również tego, czy postawę uczestników wyprawy można określić jako obywatelskie nieposłuszeństwo.\n• Karolina Wigura stwierdziła, że przeszkadza jej, że w dyskusji na ten temat są \"dwie nierozmawiające ze sobą strony sporu\".\n• Tomasz Terlikowski zastanawiał się, czy ta akcja nie stała się \"zbyt jednoznacznym opowiedzeniem się po jednej ze stron\".",
+      "originalTitle": "Flotylla i obywatelskie nieposłuszeństwo? \"Nie wiem, czy kiedykolwiek odpowiemy na to pytanie\"",
+      "originalDescription": "W programie \"Dwie strony\" w TVN24 Tomasz Terlikowski rozmawiał z Karoliną Wigurą o wyprawie flotylli z pomocą humanitarną do Strefy Gazy i o tym, czy postawę jej uczestników można określić jako obywatelskie nieposłuszeństwo. Wigura mówiła, że przeszkadza jej, że w dyskusji na ten temat są \"dwie nierozmawiające ze sobą strony sporu\". Terlikowski zastanawiał się, czy ta akcja nie stała się \"zbyt jednoznacznym opowiedzeniem się po jednej ze stron\"."
+    },
+    {
+      "title": "Pożar sortowni odpadów",
+      "link": "https://tvn24.pl/polska/elblag-duzy-pozar-hali-sortowni-odpadow-st8719798?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 19:59:32 GMT",
+      "description": "W Elblągu strażacy gaszą pożar w hali sortowni odpadów. Służby apelują do mieszkańców o zamknięcie okien.",
+      "originalTitle": "Duży pożar sortowni odpadów. Apel do mieszkańców",
+      "originalDescription": "W Elblągu strażacy gaszą pożar w hali sortowni odpadów. Służby apelują do mieszkańców o zamknięcie okien."
+    },
+    {
+      "title": "Ostrzeżenia IMGW dla 10 województw",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-wiatr-ostrzezenia-imgw-powrot-wichur-gdzie-sie-ich-spodziewac-st8718669?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 04:42:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia meteorologiczne. Alarmy przed silnym wiatrem obowiązują w dziesięciu województwach. Miejscami będą one w mocy aż do nocy z niedzieli na poniedziałek.",
+      "originalTitle": "Alarmy IMGW dla dziesięciu województw. Uwaga na silny wiatr",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia meteorologiczne. Alarmy przed silnym wiatrem obowiązują w dziesięciu województwach. Miejscami będą one w mocy aż do nocy z niedzieli na poniedziałek."
+    },
+    {
+      "title": "Lotnisko zawiesiło działalność z powodu balonów z Białorusi",
+      "link": "https://tvn24.pl/swiat/lotnisko-w-wilnie-zamkniete-przez-balony-z-bialorusi-czwarty-taki-incydent-w-tym-miesiacu-st8719782?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 19:48:38 GMT",
+      "description": "• W sobotę zamknięto lotnisko w Wilnie.\n• Zamknięcie lotniska nastąpiło po tym, jak w przestrzeń powietrzną Litwy z terytorium Białorusi wleciały balony meteorologiczne.\n• Informację o incydencie podało Narodowe Centrum Zarządzania Kryzysowego.\n• Był to już czwarty taki incydent w tym miesiącu.",
+      "originalTitle": "Lotnisko sparaliżowane przez balony z Białorusi",
+      "originalDescription": "W sobotę zamknięto lotnisko w Wilnie po tym, jak w przestrzeń powietrzną Litwy z terytorium Białorusi wleciały balony meteorologiczne - podało Narodowe Centrum Zarządzania Kryzysowego. To już czwarty taki incydent w tym miesiącu."
+    },
+    {
+      "title": "Pomyłka na konwencji PiS-u",
+      "link": "https://tvn24.pl/polska/pomylka-doroty-kani-na-konwencji-pis-u-st8719755?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 19:41:43 GMT",
+      "description": "• Dorota Kania była w przeszłości związana z propisowskimi mediami.\n• Dorota Kania brała udział w panelu dotyczącym mediów publicznych podczas konwencji PiS-u.\n• Dorota Kania przekonywała, że w Polsce powinien powstać Narodowy Holding Mediów Publicznych.\n• Dorota Kania wyliczała, co powinno się znaleźć w składzie Narodowego Holdingu Mediów Publicznych.\n• Dorota Kania \"wymownie\" się przejęzyczyła podczas wyliczania składu Narodowego Holdingu Mediów Publicznych.",
+      "originalTitle": "\"Zabawna, acz wymowna pomyłka\" na konwencji PiS-u",
+      "originalDescription": "Związana w przeszłości z propisowskimi mediami Dorota Kania podczas konwencji PiS-u brała udział w panelu dotyczącym mediów publicznych. Przekonywała między innymi, że w Polsce powinien powstać Narodowy Holding Mediów Publicznych. Wyliczając, co powinno się znaleźć w jego składzie, \"wymownie\" się przejęzyczyła."
+    },
+    {
+      "title": "Gdzie się podziały dziki z Krynicy Morskiej? \"Przyroda nie lubi pustki\"",
+      "link": "https://tvn24.pl/trojmiasto/co-sie-stalo-z-dzikami-z-krynicy-morskiej-przyroda-nie-lubi-pustki-st8711862?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 19:11:30 GMT",
+      "description": "Od kilku lat jest maskotką tego miasta, w kilku miejscach postawiono nawet małe lub większe posągi z pojedynczym okazem lub całą rodziną. Mowa o Krynicy Morskiej i dzikach, których od lat w mieście nie brakowało. Zwierzęta spacerowały całymi stadami ulicami i deptakami, pojawiały się na plaży, a obecność turystów zdawała się im w ogóle nie przeszkadzać. Jak się jednak okazuje, w mieście pozostały już tylko rzeźby tych zwierząt. Dzików już nie ma.",
+      "originalTitle": "Gdzie się podziały dziki z Krynicy Morskiej? \"Przyroda nie lubi pustki\"",
+      "originalDescription": "Od kilku lat jest maskotką tego miasta, w kilku miejscach postawiono nawet małe lub większe posągi z pojedynczym okazem lub całą rodziną. Mowa o Krynicy Morskiej i dzikach, których od lat w mieście nie brakowało. Zwierzęta spacerowały całymi stadami ulicami i deptakami, pojawiały się na plaży, a obecność turystów zdawała się im w ogóle nie przeszkadzać. Jak się jednak okazuje, w mieście pozostały już tylko rzeźby tych zwierząt. Dzików już nie ma."
+    },
+    {
+      "title": "Turysta wpadł do tatrzańskiego potoku. Nie żyje",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/slowacja-turysta-wpadl-do-tatrzanskiego-potoku-nie-zyje-st8719734?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 18:14:41 GMT",
+      "description": "Turysta z Węgier zginął w Tatrach Wysokich. Mężczyzna próbował przekroczyć wezbrany potok po słowackiej stronie gór, ale poślizgnął się i porwała go woda. Warunki pogodowe utrudniły ratownikom prowadzenie akcji - pomogli im także koledzy z TOPR.",
+      "originalTitle": "Turysta wpadł do tatrzańskiego potoku. Nie żyje",
+      "originalDescription": "Turysta z Węgier zginął w Tatrach Wysokich. Mężczyzna próbował przekroczyć wezbrany potok po słowackiej stronie gór, ale poślizgnął się i porwała go woda. Warunki pogodowe utrudniły ratownikom prowadzenie akcji - pomogli im także koledzy z TOPR."
+    },
+    {
+      "title": "Jarosław Kaczyński o \"pierwszym zadaniu\". \"Proszę o to\"",
+      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-na-konwencji-pis-w-katowicach-o-pierwszym-zadaniu-prosze-o-to-st8719673?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 18:14:39 GMT",
+      "description": "Polska wymaga dzisiaj naprawdę wielkiej zmiany - powiedział prezes PiS Jarosław Kaczyński na zakończenie dwudniowej konwencji tej partii w Katowicach. Jak dodał, \"pierwszym zadaniem\" jest wygranie wyborów. Tu zaapelował do działaczy swojej partii o to, aby \"napięli muskuły\" i przekonywali wyborców do głosowania na nich.",
+      "originalTitle": "Jarosław Kaczyński o \"pierwszym zadaniu\". \"Proszę o to\"",
+      "originalDescription": "Polska wymaga dzisiaj naprawdę wielkiej zmiany - powiedział prezes PiS Jarosław Kaczyński na zakończenie dwudniowej konwencji tej partii w Katowicach. Jak dodał, \"pierwszym zadaniem\" jest wygranie wyborów. Tu zaapelował do działaczy swojej partii o to, aby \"napięli muskuły\" i przekonywali wyborców do głosowania na nich."
+    },
+    {
+      "title": "Marcin Kierwiński: jeżeli będę mógł skorzystać z uprawnień, zrobię to bez wahania",
+      "link": "https://tvn24.pl/polska/marcin-kierwinski-o-zajeciu-rosyjskiego-majatku-jezeli-bede-mogl-skorzystac-z-uprawnien-zrobie-to-bez-wahania-st8719701?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 18:06:25 GMT",
+      "description": "Na dziś nie ma żadnych twardych dokumentów pokazujących, że ta spółka odprowadza te zyski gdzieś poza granicę Polski - mówił w \"Faktach po Faktach\" Marcin Kierwiński. Odniósł się do doniesień reportażu \"Warszawski biznes kancelarii Putina\". Ocenił także dwudniową konwencję PiS.",
+      "originalTitle": "Marcin Kierwiński: jeżeli będę mógł skorzystać z uprawnień, zrobię to bez wahania",
+      "originalDescription": "Na dziś nie ma żadnych twardych dokumentów pokazujących, że ta spółka odprowadza te zyski gdzieś poza granicę Polski - mówił w \"Faktach po Faktach\" Marcin Kierwiński. Odniósł się do doniesień reportażu \"Warszawski biznes kancelarii Putina\". Ocenił także dwudniową konwencję PiS."
+    }
+  ]
 }
