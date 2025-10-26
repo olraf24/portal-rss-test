@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-26T12:46:18.866Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-26T13:10:17.683Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Burza występuje w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-sprawdz-gdzie-grzmi-w-niedziele-26-pazdziernika-radar-opadow-i-mapa-burz-st8720501?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 13:03:27 GMT",
+      "description": "• W niedzielę 26.10 w różnych częściach Polski grzmi.\n• Wyładowaniom towarzyszą opady deszczu.\n• Wyładowaniom towarzyszy silny wiatr.\n• Można śledź aktualną sytuację pogodową w kraju w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi w części kraju",
+      "originalDescription": "Gdzie jest burza? W niedzielę 26.10 w różnych częściach Polski grzmi, a wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w kraju w tvnmeteo.pl."
+    },
+    {
+      "title": "Mężczyzna zaatakował żonę nożem",
+      "link": "https://tvn24.pl/poznan/leszno-atak-na-taksowkarke-maz-zadal-jej-kilka-ciosow-nozem-i-z-nia-odjechal-uciekla-gdy-stali-na-swiatlach-st8720492?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:59:22 GMT",
+      "description": "• W centrum Leszna (Wielkopolskie) doszło do ataku 44-letniego mężczyzny na jego żonę.\n• Ofiarą ataku była taksówkarka.\n• Mężczyzna zadał swojej żonie kilka ciosów nożem.\n• Następnie wsiadł za kierownicę jej auta i odjechał razem z ranioną kobietą.\n• Rannej kobiecie udało się uciec, gdy auto zatrzymało się na światłach.\n• Mężczyzna pojechał dalej bez swojej żony.\n• Policja zatrzymała mężczyznę 15 kilometrów dalej od miejsca zdarzenia.\n• Mężczyzna ukrywał się w trzcinach przy jeziorze w Gołanicach.",
+      "originalTitle": "Atak na taksówkarkę. Mąż zadał jej kilka ciosów nożem i z nią odjechał",
+      "originalDescription": "W centrum Leszna (Wielkopolskie) 44-latek zaatakował swoją żonę - taksówkarkę. Zadał kilka ciosów nożem, wsiadł za kierownicę jej auta i razem z nią odjechał. Rannej kobiecie udało się uciec, gdy stali na światłach. Mężczyzna pojechał dalej. Policja złapała go 15 kilometrów dalej. Ukrywał się w trzcinach przy jeziorze w Gołanicach."
+    },
+    {
+      "title": "Kandydatka na Warszawiankę Roku",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/hejt-po-nominacji-na-warszawianke-roku-robie-duzo-dla-warszawy-lubie-tu-wracac-st8717045?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:43:21 GMT",
+      "description": "• Kira Sukhoboichenko jest aktywistką społeczną pochodzącą z Ukrainy.\n• Została nominowana do tytułu Warszawianki Roku 2025.\n• Od lat mieszka w stolicy.\n• Działa na rzecz lokalnej społeczności.\n• Jej nominacja wywołała falę hejtu w sieci.\n• Kira Sukhoboichenko powiedziała: \"Nie przyszło mi do głowy, że ktoś pomyśli, iż nie jestem warszawianką\".",
+      "originalTitle": "Hejt po nominacji na Warszawiankę Roku. \"Robię dużo dla Warszawy, lubię tu wracać\"",
+      "originalDescription": "Kira Sukhoboichenko, aktywistka społeczna pochodząca z Ukrainy, została nominowana do tytułu Warszawianki Roku 2025. Choć od lat mieszka w stolicy i działa na rzecz lokalnej społeczności, jej nominacja wywołała falę hejtu w sieci. - Nie przyszło mi do głowy, że ktoś pomyśli, iż nie jestem warszawianką - mówi nam Kira."
+    },
+    {
+      "title": "Wypadek motocyklisty, ofiara śmiertelna",
+      "link": "https://tvn24.pl/szczecin/tragiczny-wypadek-motocyklisty-miedzy-slawnem-a-korzybiem-nie-zyje-53-letni-mezczyzna-st8720419?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:33:53 GMT",
+      "description": "• Tragiczny wypadek miał miejsce między Sławnem a Korzybiem.\n• Wypadek ten zdarzył się w województwie zachodniopomorskim.\n• Ofiarą wypadku był 53-letni kierowca motocykla.\n• Kierowca motocykla zjechał z drogi.\n• Kierowca uderzył w drzewo.\n• Nie udało się uratować życia kierowcy motocykla.",
+      "originalTitle": "Motocyklista zjechał z drogi i uderzył w drzewo. Nie żyje",
+      "originalDescription": "Tragiczny wypadek między Sławnem a Korzybiem (woj. zachodniopomorskie). Nie udało się uratować życia 53-letniego kierowcy motocykla, który zjechał z drogi i uderzył w drzewo."
+    },
+    {
+      "title": "Kurdyjscy bojownicy wycofali się z Turcji",
+      "link": "https://tvn24.pl/swiat/kurdyjscy-bojownicy-opuscili-turcje-st8720029?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:32:48 GMT",
+      "description": "• Kurdyjscy bojownicy opuścili terytorium Turcji.\n• Wycofali się w góry Kandil na północy Iraku.\n• Władze struktur kurdyjskich ogłosiły ten fakt.\n• Jest to kontynuacja procesu pokojowego.\n• Proces pokojowy nastąpił po samorozwiązaniu Partii Pracuj��cych Kurdystanu (PKK).",
+      "originalTitle": "Kurdyjscy bojownicy opuścili Turcję",
+      "originalDescription": "Kurdyjscy bojownicy opuścili terytorium Turcji i wycofali się w góry Kandil na północy Iraku - ogłosiły władze struktur kurdyjskich. Podkreślono, że jest to kontynuacja procesu pokojowego po samorozwiązaniu Partii Pracujących Kurdystanu (PKK)."
+    },
+    {
+      "title": "Zatrzymano podejrzanego o napaść w pociągu",
+      "link": "https://tvn24.pl/swiat/francja-zatrzymano-podejrzanego-po-nagraniu-proby-gwaltu-st8719879?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:27:54 GMT",
+      "description": "• Podejrzany mężczyzna został zatrzymany po tym, jak w sieci opublikowano nagranie.\n• Nagranie według mediów przedstawia próbę gwałtu na kobiecie.\n• Próba gwałtu miała miejsce w pociągu.\n• Pociąg, w którym miała miejsce próba gwałtu, znajdował się pod Paryżem.",
+      "originalTitle": "Nagrała próbę gwałtu w pociągu pod Paryżem. Zatrzymano podejrzanego",
+      "originalDescription": "Podejrzany mężczyzna został zatrzymany po tym, jak w sieci opublikowano nagranie, które - według mediów - przedstawia próbę gwałtu na kobiecie w pociągu pod Paryżem."
+    },
+    {
+      "title": "Donald Tusk o nowej inwestycji. \"Decyzja zapadła dzisiaj\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/donald-tusk-o-nowej-inwestycji-centrum-operacji-satelitarnych-decyzja-zapadla-dzisiaj-st8720469?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:27:37 GMT",
+      "description": "W Polsce powstanie Centrum Operacji Satelitarnych - przekazał premier Donald Tusk. Szef rządu podał także, że decyzja o nowej inwestycji zapadła w niedzielę. - To jest naprawdę coś, co mnie ekscytuje - podkreślił Tusk.",
+      "originalTitle": "Donald Tusk o nowej inwestycji. \"Decyzja zapadła dzisiaj\"",
+      "originalDescription": "W Polsce powstanie Centrum Operacji Satelitarnych - przekazał premier Donald Tusk. Szef rządu podał także, że decyzja o nowej inwestycji zapadła w niedzielę. - To jest naprawdę coś, co mnie ekscytuje - podkreślił Tusk."
+    },
+    {
+      "title": "Wojsko i policja pomogły w transporcie organów do przeszczepu",
+      "link": "https://tvn24.pl/rzeszow/policyjne-smiglowce-w-akcji-lotnicy-dostarczyli-serce-i-watrobe-do-przeszczepu-st8719980?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:20:00 GMT",
+      "description": "Policyjni i wojskowi lotnicy po raz kolejny pomogli w transporcie organów do przeszczepu. Dostarczono serce i wątrobę dla pacjentów czekających na pilne operacje w szpitalach we Wrocławiu i Warszawie.",
+      "originalTitle": "Wojsko i policja pomogły w transporcie organów do przeszczepu",
+      "originalDescription": "Policyjni i wojskowi lotnicy po raz kolejny pomogli w transporcie organów do przeszczepu. Dostarczono serce i wątrobę dla pacjentów czekających na pilne operacje w szpitalach we Wrocławiu i Warszawie."
+    },
+    {
+      "title": "Politycy PiS próbowali wejść na konwencję KO. \"Chcieli posłuchać mądrych osób\"",
+      "link": "https://tvn24.pl/polska/warszawa-politycy-pis-chcieli-wejsc-na-konwencje-ko-mieli-100-konkretow-o-ktorych-w-kampanii-mowil-tusk-st8720246?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:12:24 GMT",
+      "description": "Trzech polityków PiS - Tobiasz Bocheński, Mateusz Kurzejewski i Jan Kanthak - chciało w niedzielę (26 października) w Centrum Nauki Kopernik w Warszawie wejść na konwencję Koalicji Obywatelskiej. Mieli ze sobą 100 konkretów, o których dwa lata temu mówił w kampanii wyborczej premier Donald Tusk. Senator KO Krzysztof Kwiatkowski, komentował z przekąsem, że politycy PiS chcieli widocznie posłuchać trochę mądrzejszych od siebie, bo na konwencji PiS w Katowicach można było słuchać \"jedynie głupot i dyrdymałów\".",
+      "originalTitle": "Politycy PiS próbowali wejść na konwencję KO. \"Chcieli posłuchać mądrych osób\"",
+      "originalDescription": "Trzech polityków PiS - Tobiasz Bocheński, Mateusz Kurzejewski i Jan Kanthak - chciało w niedzielę (26 października) w Centrum Nauki Kopernik w Warszawie wejść na konwencję Koalicji Obywatelskiej. Mieli ze sobą 100 konkretów, o których dwa lata temu mówił w kampanii wyborczej premier Donald Tusk. Senator KO Krzysztof Kwiatkowski, komentował z przekąsem, że politycy PiS chcieli widocznie posłuchać trochę mądrzejszych od siebie, bo na konwencji PiS w Katowicach można było słuchać \"jedynie głupot i dyrdymałów\"."
+    },
+    {
+      "title": "Co dalej z reformą sądownictwa? \"Prezydent przedstawi w najbliższych tygodniach kolejne ustawy\"",
+      "link": "https://tvn24.pl/polska/co-dalej-ze-zmianami-w-sadownictwie-jest-zapowiedzi-kancelarii-prezydenta-st8720097?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 12:11:16 GMT",
+      "description": "Jarosław Kaczyński przyznał, że Zbigniew Ziobro nie przeprowadził żadnej dobrej ustawy - powiedziała w \"Kawie na ławę\" posłanka PSL Urszula Pasławska, odnosząc się do reformy wymiaru sprawiedliwości. - To rząd odpowiada za chaos bezprawia - przekonywał szef kancelarii prezydenta Zbigniew Bogucki. - Jesteście w formacji, która chciała zniszczyć polskie sądy (...) to marzenie Kaczyńskiego, żeby nadzorować system sprawiedliwości - odpowiedział mu senator KO Grzegorz Schetyna.",
+      "originalTitle": "Co dalej z reformą sądownictwa? \"Prezydent przedstawi w najbliższych tygodniach kolejne ustawy\"",
+      "originalDescription": "Jarosław Kaczyński przyznał, że Zbigniew Ziobro nie przeprowadził żadnej dobrej ustawy - powiedziała w \"Kawie na ławę\" posłanka PSL Urszula Pasławska, odnosząc się do reformy wymiaru sprawiedliwości. - To rząd odpowiada za chaos bezprawia - przekonywał szef kancelarii prezydenta Zbigniew Bogucki. - Jesteście w formacji, która chciała zniszczyć polskie sądy (...) to marzenie Kaczyńskiego, żeby nadzorować system sprawiedliwości - odpowiedział mu senator KO Grzegorz Schetyna."
+    }
+  ]
 }
