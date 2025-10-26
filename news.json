@@ -1,29 +1,53 @@
 {
-  "lastUpdate": "2025-10-26T15:05:42.228Z",
+  "lastUpdate": "2025-10-26T15:34:37.058Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Prognozy dla Polski w 2050",
-      "link": "https://tvn24.pl/plus/polska-2050-co-sie-dzieje-w-partii-szymona-holowni-st8712108?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 15:00:35 GMT",
-      "description": "• Byłem przekonany, że wystartuje.\n• Cała nasza organizacja była oparta rzeczywiście na jednym człowieku.\n• Decyzja Szymona Hołowni w sprawie szefowania partii spowodowała, że klub Polski 2050 znalazł się w punkcie zwrotnym.\n• W partii istnieją \"szymonici\", blisko związani z marszałkiem Sejmu.\n• W partii istnieją również ci, którzy \"zacierają ręce\", aby przejąć przywództwo.\n• Pojawia się pytanie, czy lider sygnalizował swoją decyzję już wcześniej.\n• Pojawia się pytanie, jak decyzja lidera została przyjęta w partii.\n• Pojawia się pytanie, czy \"olbrzymia machina\" dalej będzie działać.",
-      "originalTitle": "Pizza, \"szymonici\" i \"wulkan\". Co się dzieje w Polsce 2050?",
-      "originalDescription": "\"Byłem przekonany, że wystartuje\". \"Cała nasza organizacja była oparta rzeczywiście na jednym człowieku\"... Po decyzji Szymona Hołowni w sprawie szefowania partii klub Polski 2050 znalazł się w punkcie zwrotnym. Z jednej strony są \"szymonici\", blisko związani z marszałkiem Sejmu, z drugiej ci, którzy \"zacierają ręce\", aby przejąć przywództwo. Czy lider sygnalizował swoją decyzję już wcześniej? Jak ją przyjęto w partii? I czy \"olbrzymia machina\" dalej będzie działać?"
+      "title": "120 nieuprawnionych wypłat z kont w dwóch województwach",
+      "link": "https://tvn24.pl/poznan/dwa-wojewodztwa-i-120-nieuprawnionych-wyplat-z-kont-banku-santander-st8720640?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 15:27:41 GMT",
+      "description": "• Policjanci województwa wielkopolskiego i kujawsko-pomorskiego badają przypadki nieuprawnionych wypłat z kont w banku Santander.\n• Klienci otrzymywali powiadomienie SMS o wypłacie, w kwocie od kilkuset do kilku tysięcy złotych.\n• Młodszy inspektor Andrzej Borowiak z Komendy Wojewódzkiej w Poznaniu informuje o tych przypadkach.\n• W Poznaniu doszło do 70 incydentów.\n• Na terenie sąsiedniego województwa (kujawsko-pomorskiego) doszło do 50 bliźniaczo podobnych incydentów.",
+      "originalTitle": "Jeden bank, dwa województwa i 120 nieuprawnionych wypłat z kont",
+      "originalDescription": "Policjanci województwa wielkopolskiego i kujawsko-pomorskiego badają przypadki nieuprawnionych wypłat z kont w banku Santander. - Klienci otrzymywali powiadomienie SMS o wypłacie, w kwocie od kilkuset do kilku tysięcy złotych - mówi młodszy inspektor Andrzej Borowiak z Komendy Wojewódzkiej w Poznaniu, gdzie doszło do 70 incydentów. Do 50 bliźniaczo podobnych - na terenie sąsiedniego województwa."
     },
     {
-      "title": "Burza nadchodzi z wyładowaniami",
+      "title": "Huragan zbliża się do wybrzeża",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/karaiby-huragan-melissa-jamajka-i-kuba-nie-ma-miejsca-ktore-uniknie-gniewu-tej-burzy-st8719889?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 06:50:31 GMT",
+      "description": "• Huragan Melissa bardzo wolno przesuwa się w kierunku Jamajki.\n• Żywioł niesie wiatr przekraczający prędkość 200 kilometrów na godzinę.\n• Żywioł niesie ogromne opady deszczu.\n• Władze zalecają najwyższą ostrożność.\n• Mieszkańcy gromadzą zapasy.\n• Mieszkańcy szykują się na najgorsze.",
+      "originalTitle": "Nadciąga największy huragan w historii. \"Szukajcie schronienia - teraz\"",
+      "originalDescription": "Huragan Melissa bardzo wolno przesuwa się w kierunku Jamajki. Żywioł niesie wiatr przekraczający prędkość 200 kilometrów na godzinę oraz ogromne opady deszczu. Władze zalecają najwyższą ostrożność, a mieszkańcy gromadzą zapasy i szykują się na najgorsze."
+    },
+    {
+      "title": "Wypadek drogowy w Łodzi z ofiarą śmiertelną",
+      "link": "https://tvn24.pl/lodz/lodz-smiertelny-wypadek-na-al-600-lecia-narkotest-dal-wynik-pozytywny-st8720610?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 15:20:56 GMT",
+      "description": "Na alei 600-lecia w Łodzi doszło do czołowego zderzenia dwóch samochodów osobowych. - Kierowca mercedesa zjechał na przeciwległy pas ruchu i doprowadził do czołowego zderzenia z prawidłowo jadącym oplem z naprzeciwka - opowiada komisarz Edyta Machnik z łódzkiej policji. Test wykazał, że 47-letni sprawca tragedii był pod wpływem narkotyków.",
+      "originalTitle": "Śmiertelny wypadek w Łodzi. \"Narkotest dał wynik pozytywny\"",
+      "originalDescription": "Na alei 600-lecia w Łodzi doszło do czołowego zderzenia dwóch samochodów osobowych. - Kierowca mercedesa zjechał na przeciwległy pas ruchu i doprowadził do czołowego zderzenia z prawidłowo jadącym oplem z naprzeciwka - opowiada komisarz Edyta Machnik z łódzkiej policji. Test wykazał, że 47-letni sprawca tragedii był pod wpływem narkotyków."
+    },
+    {
+      "title": "Gdzie jest burza? Wyładowania wędrują nad krajem",
       "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-sprawdz-gdzie-grzmi-w-niedziele-26-pazdziernika-radar-opadow-i-mapa-burz-st8720501?source=rss",
       "pubDate": "Sun, 26 Oct 2025 13:03:27 GMT",
-      "description": "• W niedzielę 26.10 w różnych częściach Polski grzmi\n• Wyładowaniom towarzyszą opady deszczu\n• Wyładowaniom towarzyszy silny wiatr\n• Można śledzić aktualną sytuację pogodową w kraju w tvnmeteo.pl",
+      "description": "Gdzie jest burza? W niedzielę 26.10 w różnych częściach Polski grzmi, a wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w kraju w tvnmeteo.pl.",
       "originalTitle": "Gdzie jest burza? Wyładowania wędrują nad krajem",
       "originalDescription": "Gdzie jest burza? W niedzielę 26.10 w różnych częściach Polski grzmi, a wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w kraju w tvnmeteo.pl."
     },
     {
-      "title": "Wycofanie milion kilogramów suszonej wieprzowiny",
+      "title": "Pizza, \"szymonici\" i \"wulkan\". Co się dzieje w Polsce 2050?",
+      "link": "https://tvn24.pl/polska/polska-2050-co-sie-dzieje-w-partii-szymona-holowni-st8712108?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 15:00:35 GMT",
+      "description": "\"Byłem przekonany, że wystartuje\". \"Cała nasza organizacja była oparta rzeczywiście na jednym człowieku\"... Po decyzji Szymona Hołowni w sprawie szefowania partii klub Polski 2050 znalazł się w punkcie zwrotnym. Z jednej strony są \"szymonici\", blisko związani z marszałkiem Sejmu, z drugiej ci, którzy \"zacierają ręce\", aby przejąć przywództwo. Czy lider sygnalizował swoją decyzję już wcześniej? Jak ją przyjęto w partii? I czy \"olbrzymia machina\" dalej będzie działać?",
+      "originalTitle": "Pizza, \"szymonici\" i \"wulkan\". Co się dzieje w Polsce 2050?",
+      "originalDescription": "\"Byłem przekonany, że wystartuje\". \"Cała nasza organizacja była oparta rzeczywiście na jednym człowieku\"... Po decyzji Szymona Hołowni w sprawie szefowania partii klub Polski 2050 znalazł się w punkcie zwrotnym. Z jednej strony są \"szymonici\", blisko związani z marszałkiem Sejmu, z drugiej ci, którzy \"zacierają ręce\", aby przejąć przywództwo. Czy lider sygnalizował swoją decyzję już wcześniej? Jak ją przyjęto w partii? I czy \"olbrzymia machina\" dalej będzie działać?"
+    },
+    {
+      "title": "Wycofują milion kilogramów suszonej wieprzowiny",
       "link": "https://tvn24.pl/biznes/ze-swiata/usa-wycofuja-milion-kilogramow-suszonej-wieprzowiny-st8720586?source=rss",
       "pubDate": "Sun, 26 Oct 2025 14:36:38 GMT",
-      "description": "• Firma pochodzi z Dakoty Południowej.\n• Firma wycofuje z rynku około milion kilogramów suszonej wieprzowiny.\n• Produkt może być zanieczyszczony kawałkami metalu.\n• Informację o wycofaniu produktu podał CNN.\n• CNN powołał się na komunikat federalnego urzędu.",
+      "description": "Firma z Dakoty Południowej wycofuje z rynku około milion kilogramów suszonej wieprzowiny. Produkt może być zanieczyszczony kawałkami metalu - podał CNN, powołując się na komunikat federalnego urzędu.",
       "originalTitle": "Wycofują milion kilogramów suszonej wieprzowiny",
       "originalDescription": "Firma z Dakoty Południowej wycofuje z rynku około milion kilogramów suszonej wieprzowiny. Produkt może być zanieczyszczony kawałkami metalu - podał CNN, powołując się na komunikat federalnego urzędu."
     },
@@ -58,30 +82,6 @@
       "description": "W nocy z soboty na niedzielę doszło do pożaru auta w okolicy stacji paliw przy ulicy Hynka. Strażacy przekazali, że nie było osób poszkodowanych.",
       "originalTitle": "Wybuch i pożar auta na wjeździe do stacji paliw. Nagranie",
       "originalDescription": "W nocy z soboty na niedzielę doszło do pożaru auta w okolicy stacji paliw przy ulicy Hynka. Strażacy przekazali, że nie było osób poszkodowanych."
-    },
-    {
-      "title": "Zabytkowy pałac do remontu, obok stanie hotel. Ale drzew nie wytną",
-      "link": "https://tvn24.pl/krakow/krakow-palac-lasockich-do-remontu-obok-stanie-hotel-ale-drzew-nie-wytna-st8709730?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 13:58:13 GMT",
-      "description": "Zaczęło się od petycji, w której mieszkańcy sprzeciwili się planowanemu usunięciu drzew pod nowe skrzyżowanie. Inwestycja ułatwiłaby dojazd do XIX-wiecznego pałacu Lasockich, który miał być częściowo zamieniony na hotel. Po krytyce urzędnicy dogadali się z inwestorem, by nie budować skrzyżowania i nie wycinać drzew. Plany co do dworku też się zmieniły - ma być wyremontowany. Hotel powstanie obok.",
-      "originalTitle": "Zabytkowy pałac do remontu, obok stanie hotel. Ale drzew nie wytną",
-      "originalDescription": "Zaczęło się od petycji, w której mieszkańcy sprzeciwili się planowanemu usunięciu drzew pod nowe skrzyżowanie. Inwestycja ułatwiłaby dojazd do XIX-wiecznego pałacu Lasockich, który miał być częściowo zamieniony na hotel. Po krytyce urzędnicy dogadali się z inwestorem, by nie budować skrzyżowania i nie wycinać drzew. Plany co do dworku też się zmieniły - ma być wyremontowany. Hotel powstanie obok."
-    },
-    {
-      "title": "Zostawiają hulajnogi w przypadkowych miejscach. Burmistrz Woli chce to ograniczyć",
-      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-burmistrz-woli-chce-ograniczyc-parkowanie-hulajnog-st8720163?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 13:56:56 GMT",
-      "description": "Burmistrz warszawskiej Woli Krzysztof Strzałkowski zapowiedział, że będzie starał się o ograniczenie możliwości pozostawiania hulajnóg elektrycznych na terenie dzielnicy. Chodzi głównie o parki, skwery czy osiedlowe podwórka. Zakończenie wypożyczenia i pozostawienie pojazdu możliwe byłoby jedynie w wyznaczonych obszarach.",
-      "originalTitle": "Zostawiają hulajnogi w przypadkowych miejscach. Burmistrz Woli chce to ograniczyć",
-      "originalDescription": "Burmistrz warszawskiej Woli Krzysztof Strzałkowski zapowiedział, że będzie starał się o ograniczenie możliwości pozostawiania hulajnóg elektrycznych na terenie dzielnicy. Chodzi głównie o parki, skwery czy osiedlowe podwórka. Zakończenie wypożyczenia i pozostawienie pojazdu możliwe byłoby jedynie w wyznaczonych obszarach."
-    },
-    {
-      "title": "\"Samotny przybysz z okolic Jowisza\" nad Polską. Nagranie",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/kula-ognia-rozswietlila-niebo-nad-polska-samotny-przybysz-z-okolic-jowisza-nagranie-st8720475?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 13:53:55 GMT",
-      "description": "Niebo nad północną Polską rozświetlił w sobotni poranek efektownie lecący bolid. Zjawisko uchwycono na nagraniu. Jak wyjaśnili eksperci, jasny gość przyleciał do nas z niezwykłych regionów Układu Słonecznego.",
-      "originalTitle": "\"Samotny przybysz z okolic Jowisza\" nad Polską. Nagranie",
-      "originalDescription": "Niebo nad północną Polską rozświetlił w sobotni poranek efektownie lecący bolid. Zjawisko uchwycono na nagraniu. Jak wyjaśnili eksperci, jasny gość przyleciał do nas z niezwykłych regionów Układu Słonecznego."
     }
   ]
 }
