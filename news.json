@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-10-26T05:06:20.898Z",
+  "lastUpdate": "2025-10-26T05:36:15.527Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Poseł uczestniczył w gali z Putinem",
+      "title": "Pożar sortowni odpadów",
+      "link": "https://tvn24.pl/olsztyn/elblag-duzy-pozar-hali-sortowni-odpadow-st8719798?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 19:59:32 GMT",
+      "description": "Pożar w hali sortowni odpadów w Elblągu wybuchł w sobotę wieczorem. Wojewoda warmińsko-mazurski Mateusz Szauer przekazał, że nie ma ofiar. Prezydent Elbląga Michał Missan mówił, że \"zła wiadomość jest taka, że właściwie sortownię trzeba będzie odtworzyć\".",
+      "originalTitle": "Duży pożar sortowni odpadów. \"Zła wiadomość\" prezydenta",
+      "originalDescription": "Pożar w hali sortowni odpadów w Elblągu wybuchł w sobotę wieczorem. Wojewoda warmińsko-mazurski Mateusz Szauer przekazał, że nie ma ofiar. Prezydent Elbląga Michał Missan mówił, że \"zła wiadomość jest taka, że właściwie sortownię trzeba będzie odtworzyć\"."
+    },
+    {
+      "title": "Tajwan omawia plany powrotu do ojczyzny",
+      "link": "https://tvn24.pl/swiat/chiny-obchodza-dzien-powrotu-tajwanu-do-ojczyzny-wedlug-tajpej-to-pretekst-do-aneksji-st8719824?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 05:25:00 GMT",
+      "description": "Pekin ogłosił 25 października \"Dniem Powrotu Tajwanu do Ojczyzny\". Tajpej odpowiada, że to element propagandowej kampanii i dowód na rosnące ambicje autorytarnego reżimu Xi Jinpinga.",
+      "originalTitle": "\"Dzień Powrotu do Ojczyzny\". Tajwan mówi o \"prawdziwym celu\"",
+      "originalDescription": "Pekin ogłosił 25 października \"Dniem Powrotu Tajwanu do Ojczyzny\". Tajpej odpowiada, że to element propagandowej kampanii i dowód na rosnące ambicje autorytarnego reżimu Xi Jinpinga."
+    },
+    {
+      "title": "Wiatr w 10 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-wiatr-w-polsce-w-niedziele-26-10-pogoda-ostrzezenia-imgw-w-dziesieciu-wojewodztwach-st8718669?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 05:24:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed silnym wiatrem w 10 województwach. Porywy mogą osiągać prędkość nawet do 75 kilometrów na godzinę. Miejscami alarmy będą w mocy aż do nocy z niedzieli na poniedziałek.",
+      "originalTitle": "Silny wiatr w Polsce. Alarmy w 10 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed silnym wiatrem w 10 województwach. Porywy mogą osiągać prędkość nawet do 75 kilometrów na godzinę. Miejscami alarmy będą w mocy aż do nocy z niedzieli na poniedziałek."
+    },
+    {
+      "title": "Dziennikarz TVN24 Artur Molęda nagrodzony",
+      "link": "https://tvn24.pl/polska/dziennikarz-tvn24-artur-moleda-nagrodzony-na-science-and-technology-film-festival-za-reportaz-dalej-tylko-rosja-st8719858?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 05:19:15 GMT",
+      "description": "Dziennikarz TVN24 Artur Molęda został uhonorowany nagrodą na Science and Technology Film Festival w Krakowie za swój reportaż \"Dalej tylko Rosja\", który zwyciężył w kategorii najlepszy krótkometrażowy film dokumentalny.",
+      "originalTitle": "Dziennikarz TVN24 Artur Molęda nagrodzony",
+      "originalDescription": "Dziennikarz TVN24 Artur Molęda został uhonorowany nagrodą na Science and Technology Film Festival w Krakowie za swój reportaż \"Dalej tylko Rosja\", który zwyciężył w kategorii najlepszy krótkometrażowy film dokumentalny."
+    },
+    {
+      "title": "\"Czerwone\" samochody wysłane do Europy na chwałę komunizmu",
+      "link": "https://tvn24.pl/swiat/chinskie-samochody-pekin-ratuje-gospodarke-nadprodukcja-i-eksportem-ponizej-wartosci-st8697406?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 05:05:00 GMT",
+      "description": "Najpierw pojawiły się chińskie samochody, potem ruszyła machina reklamowa. Wielkie agencje robią wszystko, by przy pomocy influencerów i manipulacji pojazdy te jak najszybciej zdobyły nasz rynek. Milczą tylko o jednym - że chińskie samochody to broń, którą komunistyczny reżim w Pekinie chce walczyć z Zachodem, a siebie utrzymać przy władzy.",
+      "originalTitle": "\"Czerwone\" samochody wysłane do Europy na chwałę komunizmu",
+      "originalDescription": "Najpierw pojawiły się chińskie samochody, potem ruszyła machina reklamowa. Wielkie agencje robią wszystko, by przy pomocy influencerów i manipulacji pojazdy te jak najszybciej zdobyły nasz rynek. Milczą tylko o jednym - że chińskie samochody to broń, którą komunistyczny reżim w Pekinie chce walczyć z Zachodem, a siebie utrzymać przy władzy."
+    },
+    {
+      "title": "Lotnisko sparaliżowane przez balony z Białorusi",
+      "link": "https://tvn24.pl/swiat/lotnisko-w-wilnie-zamkniete-przez-balony-z-bialorusi-czwarty-taki-incydent-w-tym-miesiacu-st8719782?source=rss",
+      "pubDate": "Sat, 25 Oct 2025 19:48:38 GMT",
+      "description": "W sobotę na kilka godzin zamknięto lotnisko w Wilnie po tym, jak w przestrzeń powietrzną Litwy z terytorium Białorusi wleciały balony meteorologiczne. Utrudnienia objęły około 3500 pasażerów. To już czwarty taki incydent w tym miesiącu.",
+      "originalTitle": "Lotnisko sparaliżowane przez balony z Białorusi",
+      "originalDescription": "W sobotę na kilka godzin zamknięto lotnisko w Wilnie po tym, jak w przestrzeń powietrzną Litwy z terytorium Białorusi wleciały balony meteorologiczne. Utrudnienia objęły około 3500 pasażerów. To już czwarty taki incydent w tym miesiącu."
+    },
+    {
+      "title": "Poseł na gali z Putinem. Chwalił reżimowe media",
       "link": "https://tvn24.pl/swiat/slowacki-posel-na-gali-rt-w-moskwie-przemawial-tam-wladimir-putin-st8719836?source=rss",
       "pubDate": "Sun, 26 Oct 2025 04:36:00 GMT",
-      "description": "• Słowacki dziennik SME podał informację o udziale Richarda Glücka w moskiewskiej gali.\n• Richard Glück jest posłem partii Smer.\n• Richard Glück jest przewodniczącym komisji obrony w parlamencie.\n• Gala odbyła się z okazji 20-lecia rosyjskiej państwowej telewizji RT.\n• W wydarzeniu wziął udział Władimir Putin.",
+      "description": "Słowacki dziennik SME podał, że Richard Glück, poseł partii Smer i przewodniczący komisji obrony w parlamencie, wziął udział w moskiewskiej gali z okazji 20-lecia rosyjskiej państwowej telewizji RT. W wydarzeniu wziął udział Władimir Putin.",
       "originalTitle": "Poseł na gali z Putinem. Chwalił reżimowe media",
       "originalDescription": "Słowacki dziennik SME podał, że Richard Glück, poseł partii Smer i przewodniczący komisji obrony w parlamencie, wziął udział w moskiewskiej gali z okazji 20-lecia rosyjskiej państwowej telewizji RT. W wydarzeniu wziął udział Władimir Putin."
     },
     {
-      "title": "Wybory w sojuszniczym kraju",
+      "title": "Test skuteczności Trumpa. To kluczowe wybory dla sojusznika",
       "link": "https://tvn24.pl/swiat/argentyna-javier-milei-wybory-parlamentarne-kluczowe-dla-prezydenta-wspieranego-przez-donalda-trumpa-st8719808?source=rss",
       "pubDate": "Sun, 26 Oct 2025 04:27:00 GMT",
-      "description": "• Niedzielne wybory w Argentynie zdecydują, czy prezydent Javier Milei utrzyma wsparcie dla swoich reform.\n• Prezydent Javier Milei jest libertarianinem.\n• Prezydent Javier Milei chce dalej liberalizować gospodarkę.\n• Działania prezydenta Javier Milei popiera administracja Donalda Trumpa.",
+      "description": "Niedzielne wybory w Argentynie zdecydują, czy prezydent Javier Milei utrzyma wsparcie dla swoich reform. Libertarianin chce dalej liberalizować gospodarkę, a jego działania popiera administracja Donalda Trumpa.",
       "originalTitle": "Test skuteczności Trumpa. To kluczowe wybory dla sojusznika",
       "originalDescription": "Niedzielne wybory w Argentynie zdecydują, czy prezydent Javier Milei utrzyma wsparcie dla swoich reform. Libertarianin chce dalej liberalizować gospodarkę, a jego działania popiera administracja Donalda Trumpa."
     },
     {
-      "title": "Sikorski odpowiada Kaczyńskiemu",
+      "title": "Polityczny weekend, Sikorski odpowiada Kaczyńskiemu, rzadki wyrok w szokującej kraj sprawie",
       "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-niedziele-26-pazdziernika-najwazniejsze-informacje-st8719854?source=rss",
       "pubDate": "Sun, 26 Oct 2025 04:09:00 GMT",
-      "description": "• Za nami konwencja programowa i zjednoczenie się ugrupowań pod nazwą Koalicja Obywatelska.\n• Za nami dwudniowa programowa konwencja PiS.\n• Minister obrony Pakistanu ostrzegł przed \"otwartą wojną\" z Afganistanem.\n• We Francji ogłoszono rzadko spotykany wyrok.\n• Warto wiedzieć o tych wydarzeniach w niedzielę 26 października.",
+      "description": "Za nami konwencja programowa i zjednoczenie się ugrupowań pod nazwą Koalicja Obywatelska, a także dwudniowa programowa konwencja PiS. Minister obrony Pakistanu ostrzegł przed \"otwartą wojną\" z Afganistanem. We Francji ogłoszono rzadko spotykany wyrok. Oto pięć rzeczy, które warto wiedzieć w niedzielę 26 października.",
       "originalTitle": "Polityczny weekend, Sikorski odpowiada Kaczyńskiemu, rzadki wyrok w szokującej kraj sprawie",
       "originalDescription": "Za nami konwencja programowa i zjednoczenie się ugrupowań pod nazwą Koalicja Obywatelska, a także dwudniowa programowa konwencja PiS. Minister obrony Pakistanu ostrzegł przed \"otwartą wojną\" z Afganistanem. We Francji ogłoszono rzadko spotykany wyrok. Oto pięć rzeczy, które warto wiedzieć w niedzielę 26 października."
     },
@@ -34,54 +82,6 @@
       "description": "Pogoda na dziś. Niedziela 26.10 przyniesie nam niezbyt przyjemną aurę - w całym kraju będzie chłodno i pochmurno, lokalnie popada. Miejscami spodziewany jest również silny wiatr. Termometry pokażą od 8 do 12 stopni Celsjusza.",
       "originalTitle": "Pogoda na dziś - niedziela 26.10. Przed nami chłodny, wietrzny i deszczowy dzień",
       "originalDescription": "Pogoda na dziś. Niedziela 26.10 przyniesie nam niezbyt przyjemną aurę - w całym kraju będzie chłodno i pochmurno, lokalnie popada. Miejscami spodziewany jest również silny wiatr. Termometry pokażą od 8 do 12 stopni Celsjusza."
-    },
-    {
-      "title": "Irlandia wybrała prezydentkę",
-      "link": "https://tvn24.pl/swiat/wybory-w-irlandii-2025-catherine-connolly-nowa-prezydentka-kraju-st8719794?source=rss",
-      "pubDate": "Sat, 25 Oct 2025 21:01:17 GMT",
-      "description": "Niezależna kandydatka popierana przez partie lewicowe Catherine Connolly wygrała wybory prezydenckie w Irlandii. Zapowiedziała, że będzie bronić neutralności kraju i reprezentować wszystkich obywateli.",
-      "originalTitle": "Irlandia wybrała prezydentkę",
-      "originalDescription": "Niezależna kandydatka popierana przez partie lewicowe Catherine Connolly wygrała wybory prezydenckie w Irlandii. Zapowiedziała, że będzie bronić neutralności kraju i reprezentować wszystkich obywateli."
-    },
-    {
-      "title": "Flotylla i obywatelskie nieposłuszeństwo? \"Nie wiem, czy kiedykolwiek odpowiemy na to pytanie\"",
-      "link": "https://tvn24.pl/najnowsze/tomasz-terlikowski-i-karolina-wigura-o-wyprawie-flotylli-do-strefy-gazy-i-o-nieposluszenstwie-obywatelskim-st8719695?source=rss",
-      "pubDate": "Sat, 25 Oct 2025 20:46:16 GMT",
-      "description": "W programie \"Dwie strony\" w TVN24 Tomasz Terlikowski rozmawiał z Karoliną Wigurą o wyprawie flotylli z pomocą humanitarną do Strefy Gazy i o tym, czy postawę jej uczestników można określić jako obywatelskie nieposłuszeństwo. Wigura mówiła, że przeszkadza jej, że w dyskusji na ten temat są \"dwie nierozmawiające ze sobą strony sporu\". Terlikowski zastanawiał się, czy ta akcja nie stała się \"zbyt jednoznacznym opowiedzeniem się po jednej ze stron\".",
-      "originalTitle": "Flotylla i obywatelskie nieposłuszeństwo? \"Nie wiem, czy kiedykolwiek odpowiemy na to pytanie\"",
-      "originalDescription": "W programie \"Dwie strony\" w TVN24 Tomasz Terlikowski rozmawiał z Karoliną Wigurą o wyprawie flotylli z pomocą humanitarną do Strefy Gazy i o tym, czy postawę jej uczestników można określić jako obywatelskie nieposłuszeństwo. Wigura mówiła, że przeszkadza jej, że w dyskusji na ten temat są \"dwie nierozmawiające ze sobą strony sporu\". Terlikowski zastanawiał się, czy ta akcja nie stała się \"zbyt jednoznacznym opowiedzeniem się po jednej ze stron\"."
-    },
-    {
-      "title": "Duży pożar sortowni odpadów. Apel do mieszkańców",
-      "link": "https://tvn24.pl/polska/elblag-duzy-pozar-hali-sortowni-odpadow-st8719798?source=rss",
-      "pubDate": "Sat, 25 Oct 2025 19:59:32 GMT",
-      "description": "W Elblągu strażacy gaszą pożar w hali sortowni odpadów. Służby apelują do mieszkańców o zamknięcie okien.",
-      "originalTitle": "Duży pożar sortowni odpadów. Apel do mieszkańców",
-      "originalDescription": "W Elblągu strażacy gaszą pożar w hali sortowni odpadów. Służby apelują do mieszkańców o zamknięcie okien."
-    },
-    {
-      "title": "Alarmy IMGW dla dziesięciu województw. Uwaga na silny wiatr",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-wiatr-ostrzezenia-imgw-powrot-wichur-gdzie-sie-ich-spodziewac-st8718669?source=rss",
-      "pubDate": "Sat, 25 Oct 2025 04:42:00 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia meteorologiczne. Alarmy przed silnym wiatrem obowiązują w dziesięciu województwach. Miejscami będą one w mocy aż do nocy z niedzieli na poniedziałek.",
-      "originalTitle": "Alarmy IMGW dla dziesięciu województw. Uwaga na silny wiatr",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia meteorologiczne. Alarmy przed silnym wiatrem obowiązują w dziesięciu województwach. Miejscami będą one w mocy aż do nocy z niedzieli na poniedziałek."
-    },
-    {
-      "title": "Lotnisko sparaliżowane przez balony z Białorusi",
-      "link": "https://tvn24.pl/swiat/lotnisko-w-wilnie-zamkniete-przez-balony-z-bialorusi-czwarty-taki-incydent-w-tym-miesiacu-st8719782?source=rss",
-      "pubDate": "Sat, 25 Oct 2025 19:48:38 GMT",
-      "description": "W sobotę zamknięto lotnisko w Wilnie po tym, jak w przestrzeń powietrzną Litwy z terytorium Białorusi wleciały balony meteorologiczne - podało Narodowe Centrum Zarządzania Kryzysowego. To już czwarty taki incydent w tym miesiącu.",
-      "originalTitle": "Lotnisko sparaliżowane przez balony z Białorusi",
-      "originalDescription": "W sobotę zamknięto lotnisko w Wilnie po tym, jak w przestrzeń powietrzną Litwy z terytorium Białorusi wleciały balony meteorologiczne - podało Narodowe Centrum Zarządzania Kryzysowego. To już czwarty taki incydent w tym miesiącu."
-    },
-    {
-      "title": "\"Zabawna, acz wymowna pomyłka\" na konwencji PiS-u",
-      "link": "https://tvn24.pl/polska/pomylka-doroty-kani-na-konwencji-pis-u-st8719755?source=rss",
-      "pubDate": "Sat, 25 Oct 2025 19:41:43 GMT",
-      "description": "Związana w przeszłości z propisowskimi mediami Dorota Kania podczas konwencji PiS-u brała udział w panelu dotyczącym mediów publicznych. Przekonywała między innymi, że w Polsce powinien powstać Narodowy Holding Mediów Publicznych. Wyliczając, co powinno się znaleźć w jego składzie, \"wymownie\" się przejęzyczyła.",
-      "originalTitle": "\"Zabawna, acz wymowna pomyłka\" na konwencji PiS-u",
-      "originalDescription": "Związana w przeszłości z propisowskimi mediami Dorota Kania podczas konwencji PiS-u brała udział w panelu dotyczącym mediów publicznych. Przekonywała między innymi, że w Polsce powinien powstać Narodowy Holding Mediów Publicznych. Wyliczając, co powinno się znaleźć w jego składzie, \"wymownie\" się przejęzyczyła."
     }
   ]
 }
