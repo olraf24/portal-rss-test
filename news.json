@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-10-26T13:36:26.206Z",
+  "lastUpdate": "2025-10-26T14:05:28.082Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy, auto spadło z wiaduktu",
+      "title": "Planowany remont pałacu i budowa hotelu",
+      "link": "https://tvn24.pl/krakow/krakow-palac-lasockich-do-remontu-obok-stanie-hotel-ale-drzew-nie-wytna-st8709730?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 13:58:13 GMT",
+      "description": "Zaczęło się od petycji, w której mieszkańcy sprzeciwili się planowanemu usunięciu drzew pod nowe skrzyżowanie. Inwestycja ułatwiłaby dojazd do XIX-wiecznego pałacu Lasockich, który miał być częściowo zamieniony na hotel. Po krytyce urzędnicy dogadali się z inwestorem, by nie budować skrzyżowania i nie wycinać drzew. Plany co do dworku też się zmieniły - ma być wyremontowany. Hotel powstanie obok.",
+      "originalTitle": "Zabytkowy pałac do remontu, obok stanie hotel. Ale drzew nie wytną",
+      "originalDescription": "Zaczęło się od petycji, w której mieszkańcy sprzeciwili się planowanemu usunięciu drzew pod nowe skrzyżowanie. Inwestycja ułatwiłaby dojazd do XIX-wiecznego pałacu Lasockich, który miał być częściowo zamieniony na hotel. Po krytyce urzędnicy dogadali się z inwestorem, by nie budować skrzyżowania i nie wycinać drzew. Plany co do dworku też się zmieniły - ma być wyremontowany. Hotel powstanie obok."
+    },
+    {
+      "title": "Burmistrz Woli proponuje ograniczenia dla hulajnóg",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-burmistrz-woli-chce-ograniczyc-parkowanie-hulajnog-st8720163?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 13:56:56 GMT",
+      "description": "Burmistrz warszawskiej Woli Krzysztof Strzałkowski zapowiedział, że będzie starał się o ograniczenie możliwości pozostawiania hulajnóg elektrycznych na terenie dzielnicy. Chodzi głównie o parki, skwery czy osiedlowe podwórka. Zakończenie wypożyczenia i pozostawienie pojazdu możliwe byłoby jedynie w wyznaczonych obszarach.",
+      "originalTitle": "Zostawiają hulajnogi w przypadkowych miejscach. Burmistrz Woli chce to ograniczyć",
+      "originalDescription": "Burmistrz warszawskiej Woli Krzysztof Strzałkowski zapowiedział, że będzie starał się o ograniczenie możliwości pozostawiania hulajnóg elektrycznych na terenie dzielnicy. Chodzi głównie o parki, skwery czy osiedlowe podwórka. Zakończenie wypożyczenia i pozostawienie pojazdu możliwe byłoby jedynie w wyznaczonych obszarach."
+    },
+    {
+      "title": "Obiekt z okolic Jowisza nad Polską",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/kula-ognia-rozswietlila-niebo-nad-polska-samotny-przybysz-z-okolic-jowisza-nagranie-st8720475?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 13:53:55 GMT",
+      "description": "Niebo nad północną Polską rozświetlił w sobotni poranek efektownie lecący bolid. Zjawisko uchwycono na nagraniu. Jak wyjaśnili eksperci, jasny gość przyleciał do nas z niezwykłych regionów Układu Słonecznego.",
+      "originalTitle": "\"Samotny przybysz z okolic Jowisza\" nad Polską. Nagranie",
+      "originalDescription": "Niebo nad północną Polską rozświetlił w sobotni poranek efektownie lecący bolid. Zjawisko uchwycono na nagraniu. Jak wyjaśnili eksperci, jasny gość przyleciał do nas z niezwykłych regionów Układu Słonecznego."
+    },
+    {
+      "title": "Chce zbadać związki AfD z Rosją. To \"niemiecka partia Putina\"",
+      "link": "https://tvn24.pl/swiat/szef-msw-niemiec-o-zwiazkach-afd-z-rosja-musza-to-wyjasnic-organy-sledcze-st8720525?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 13:47:07 GMT",
+      "description": "Alternatywa dla Niemiec otwarcie pokazuje swoją bliskość wobec Putina - powiedział szef niemieckiego Ministerstwa Spraw Wewnętrznych Alexander Dobrindt w wywiadzie dla dziennika \"Handelsblatt\". Jego zdaniem populistyczno-prawicowe ugrupowanie zachowuje się jak \"niemiecka partia Putina\". Minister chce, aby organy śledcze zbadały powiązania działaczy partii z Kremlem.",
+      "originalTitle": "Chce zbadać związki AfD z Rosją. To \"niemiecka partia Putina\"",
+      "originalDescription": "Alternatywa dla Niemiec otwarcie pokazuje swoją bliskość wobec Putina - powiedział szef niemieckiego Ministerstwa Spraw Wewnętrznych Alexander Dobrindt w wywiadzie dla dziennika \"Handelsblatt\". Jego zdaniem populistyczno-prawicowe ugrupowanie zachowuje się jak \"niemiecka partia Putina\". Minister chce, aby organy śledcze zbadały powiązania działaczy partii z Kremlem."
+    },
+    {
+      "title": "Problemy Viktora Orbana. \"To był zły tydzień\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/viktor-orban-problemy-premiera-wegier-to-byl-zly-tydzien-dla-wegierskiego-przywodcy-st8720231?source=rss",
+      "pubDate": "Sun, 26 Oct 2025 13:46:55 GMT",
+      "description": "Viktor Orban znalazł się w trudnej sytuacji po odwołaniu szczytu Donalda Trumpa i Władimira Putina. Co więcej, USA nałożyły sankcje na rosyjskie koncerny naftowe. To cios w węgierską gospodarkę - podał CNN. Portal dodał, że słabnie pozycja balansującego między Wschodem a Zachodem lidera Węgier.",
+      "originalTitle": "Problemy Viktora Orbana. \"To był zły tydzień\"",
+      "originalDescription": "Viktor Orban znalazł się w trudnej sytuacji po odwołaniu szczytu Donalda Trumpa i Władimira Putina. Co więcej, USA nałożyły sankcje na rosyjskie koncerny naftowe. To cios w węgierską gospodarkę - podał CNN. Portal dodał, że słabnie pozycja balansującego między Wschodem a Zachodem lidera Węgier."
+    },
+    {
+      "title": "18-latka straciła panowanie nad autem i spadła z wiaduktu",
       "link": "https://tvn24.pl/wroclaw/jelenia-gora-auto-spadlo-z-wiaduktu-za-kierownica-siedziala-18-latka-st8720527?source=rss",
       "pubDate": "Sun, 26 Oct 2025 13:27:50 GMT",
-      "description": "• W Jeleniej Górze miał miejsce groźny wypadek.\n• Wypadek dotyczył 18-latki kierującej oplem.\n• Samochód spadł z wiaduktu nad torami.\n• Wiadukt znajduje się przy ulicy 1 Maja.\n• Kierująca niczego się nie stało.\n• Policja apeluje o ostrożno��ć.\n• Jesienne warunki są wyjątkowo zdradliwe.",
+      "description": "Groźny wypadek w Jeleniej Górze. 18-latka kierująca oplem spadła z wiaduktu nad torami przy ul. 1 Maja. Na szczęście nic jej się nie stało. Policja apeluje o ostrożność - jesienne warunki są wyjątkowo zdradliwe.",
       "originalTitle": "18-latka straciła panowanie nad autem i spadła z wiaduktu",
       "originalDescription": "Groźny wypadek w Jeleniej Górze. 18-latka kierująca oplem spadła z wiaduktu nad torami przy ul. 1 Maja. Na szczęście nic jej się nie stało. Policja apeluje o ostrożność - jesienne warunki są wyjątkowo zdradliwe."
     },
     {
-      "title": "Tusk komentuje konwencję PiS",
+      "title": "Tusk o konwencji PiS: Kaczyński przygotował swoją stypę polityczną",
       "link": "https://tvn24.pl/polska/donald-tusk-o-konwencji-pis-kaczynski-przygotowal-swoja-stype-polityczna-st8720478?source=rss",
       "pubDate": "Sun, 26 Oct 2025 13:08:54 GMT",
-      "description": "• Widzieliśmy wyraźnie spektakl, jak PiS i Kaczyński staczają się po równi pochyłej \n• To jest komentarz premiera Donalda Tuska \n• Komentarz dotyczy ostatniej konwencji programowej Prawa i Sprawiedliwości \n• Konwencja była związana z partią Prawo i Sprawiedliwość (PiS) \n• Partią PiS kieruje Kaczyński",
+      "description": "Widzieliśmy wyraźnie spektakl, jak PiS i Kaczyński staczają się po równi pochyłej - tak premier Donald Tusk skomentował ostatnią konwencję programową Prawa i Sprawiedliwości.",
       "originalTitle": "Tusk o konwencji PiS: Kaczyński przygotował swoją stypę polityczną",
       "originalDescription": "Widzieliśmy wyraźnie spektakl, jak PiS i Kaczyński staczają się po równi pochyłej - tak premier Donald Tusk skomentował ostatnią konwencję programową Prawa i Sprawiedliwości."
     },
     {
-      "title": "Ekspertyza na temat teorii o zawłaszczaniu Polski",
+      "title": "\"Zawłaszczają Polskę\". Teoria absurdalna? Ekspertów jakoś nie śmieszy",
       "link": "https://tvn24.pl/polska/ukraincy-zawlaszczaja-polske-teoria-absurdalna-ekspertow-nie-smieszy-st8714073?source=rss",
       "pubDate": "Sun, 26 Oct 2025 13:08:10 GMT",
       "description": "Najpierw będą przejmować polskie firmy, a potem zajmą nasze miejsca - takie teorie o Ukraińcach coraz częściej docierają do Polaków, nie tylko przez internet. Wielu mogą się wydawać śmieszne czy wręcz absurdalne, ale ekspertów od dezinformacji nie śmieszą. Oni przestrzegają: \"słowa kształtują naszą wizję świata\".",
@@ -42,46 +82,6 @@
       "description": "W centrum Leszna (Wielkopolskie) 44-latek zaatakował swoją żonę - taksówkarkę. Zadał kilka ciosów nożem, wsiadł za kierownicę jej auta i razem z nią odjechał. Rannej kobiecie udało się uciec, gdy stali na światłach. Mężczyzna pojechał dalej. Policja złapała go 15 kilometrów dalej. Ukrywał się w trzcinach przy jeziorze w Gołanicach.",
       "originalTitle": "Atak na taksówkarkę. Mąż zadał jej kilka ciosów nożem i z nią odjechał",
       "originalDescription": "W centrum Leszna (Wielkopolskie) 44-latek zaatakował swoją żonę - taksówkarkę. Zadał kilka ciosów nożem, wsiadł za kierownicę jej auta i razem z nią odjechał. Rannej kobiecie udało się uciec, gdy stali na światłach. Mężczyzna pojechał dalej. Policja złapała go 15 kilometrów dalej. Ukrywał się w trzcinach przy jeziorze w Gołanicach."
-    },
-    {
-      "title": "Hejt po nominacji na Warszawiankę Roku. \"Robię dużo dla Warszawy, lubię tu wracać\"",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/hejt-po-nominacji-na-warszawianke-roku-robie-duzo-dla-warszawy-lubie-tu-wracac-st8717045?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 12:43:21 GMT",
-      "description": "Kira Sukhoboichenko, aktywistka społeczna pochodząca z Ukrainy, została nominowana do tytułu Warszawianki Roku 2025. Choć od lat mieszka w stolicy i działa na rzecz lokalnej społeczności, jej nominacja wywołała falę hejtu w sieci. - Nie przyszło mi do głowy, że ktoś pomyśli, iż nie jestem warszawianką - mówi nam Kira.",
-      "originalTitle": "Hejt po nominacji na Warszawiankę Roku. \"Robię dużo dla Warszawy, lubię tu wracać\"",
-      "originalDescription": "Kira Sukhoboichenko, aktywistka społeczna pochodząca z Ukrainy, została nominowana do tytułu Warszawianki Roku 2025. Choć od lat mieszka w stolicy i działa na rzecz lokalnej społeczności, jej nominacja wywołała falę hejtu w sieci. - Nie przyszło mi do głowy, że ktoś pomyśli, iż nie jestem warszawianką - mówi nam Kira."
-    },
-    {
-      "title": "Motocyklista zjechał z drogi i uderzył w drzewo. Nie żyje",
-      "link": "https://tvn24.pl/szczecin/tragiczny-wypadek-motocyklisty-miedzy-slawnem-a-korzybiem-nie-zyje-53-letni-mezczyzna-st8720419?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 12:33:53 GMT",
-      "description": "Tragiczny wypadek między Sławnem a Korzybiem (woj. zachodniopomorskie). Nie udało się uratować życia 53-letniego kierowcy motocykla, który zjechał z drogi i uderzył w drzewo.",
-      "originalTitle": "Motocyklista zjechał z drogi i uderzył w drzewo. Nie żyje",
-      "originalDescription": "Tragiczny wypadek między Sławnem a Korzybiem (woj. zachodniopomorskie). Nie udało się uratować życia 53-letniego kierowcy motocykla, który zjechał z drogi i uderzył w drzewo."
-    },
-    {
-      "title": "Kurdyjscy bojownicy opuścili Turcję",
-      "link": "https://tvn24.pl/swiat/kurdyjscy-bojownicy-opuscili-turcje-st8720029?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 12:32:48 GMT",
-      "description": "Kurdyjscy bojownicy opuścili terytorium Turcji i wycofali się w góry Kandil na północy Iraku - ogłosiły władze struktur kurdyjskich. Podkreślono, że jest to kontynuacja procesu pokojowego po samorozwiązaniu Partii Pracujących Kurdystanu (PKK).",
-      "originalTitle": "Kurdyjscy bojownicy opuścili Turcję",
-      "originalDescription": "Kurdyjscy bojownicy opuścili terytorium Turcji i wycofali się w góry Kandil na północy Iraku - ogłosiły władze struktur kurdyjskich. Podkreślono, że jest to kontynuacja procesu pokojowego po samorozwiązaniu Partii Pracujących Kurdystanu (PKK)."
-    },
-    {
-      "title": "Nagrała próbę gwałtu w pociągu pod Paryżem. Zatrzymano podejrzanego",
-      "link": "https://tvn24.pl/swiat/francja-zatrzymano-podejrzanego-po-nagraniu-proby-gwaltu-st8719879?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 12:27:54 GMT",
-      "description": "Podejrzany mężczyzna został zatrzymany po tym, jak w sieci opublikowano nagranie, które - według mediów - przedstawia próbę gwałtu na kobiecie w pociągu pod Paryżem.",
-      "originalTitle": "Nagrała próbę gwałtu w pociągu pod Paryżem. Zatrzymano podejrzanego",
-      "originalDescription": "Podejrzany mężczyzna został zatrzymany po tym, jak w sieci opublikowano nagranie, które - według mediów - przedstawia próbę gwałtu na kobiecie w pociągu pod Paryżem."
-    },
-    {
-      "title": "Donald Tusk o nowej inwestycji. \"Decyzja zapadła dzisiaj\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/donald-tusk-o-nowej-inwestycji-centrum-operacji-satelitarnych-decyzja-zapadla-dzisiaj-st8720469?source=rss",
-      "pubDate": "Sun, 26 Oct 2025 12:27:37 GMT",
-      "description": "W Polsce powstanie Centrum Operacji Satelitarnych - przekazał premier Donald Tusk. Szef rządu podał także, że decyzja o nowej inwestycji zapadła w niedzielę. - To jest naprawdę coś, co mnie ekscytuje - podkreślił Tusk.",
-      "originalTitle": "Donald Tusk o nowej inwestycji. \"Decyzja zapadła dzisiaj\"",
-      "originalDescription": "W Polsce powstanie Centrum Operacji Satelitarnych - przekazał premier Donald Tusk. Szef rządu podał także, że decyzja o nowej inwestycji zapadła w niedzielę. - To jest naprawdę coś, co mnie ekscytuje - podkreślił Tusk."
     }
   ]
 }
