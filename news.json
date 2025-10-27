@@ -1,13 +1,29 @@
 {
-  "lastUpdate": "2025-10-27T13:14:46.261Z",
+  "lastUpdate": "2025-10-27T13:42:41.075Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Pozew w sprawie cen",
+      "link": "https://tvn24.pl/biznes/tech/australia-pozew-przeciw-microsoftowi-st8721703?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 13:34:15 GMT",
+      "description": "• Australijska Komisja do spraw Konkurencji i Konsumentów (ACCC) pozwała Microsoft.\n• Powodem pozwu jest zarzut, że Microsoft wprowadziła w błąd około 2,7 miliona klientów.\n• Klienci zostali wprowadzeni w błąd, sugerując im konieczność przejścia na droższe plany Microsoft 365.\n• Powodem sugerowania przejścia na droższe plany była informacja o dodaniu narzędzia sztucznej inteligencji Copilot.\n• Informację o pozwie podała agencja Reuters.",
+      "originalTitle": "Pozew przeciw gigantowi w sprawie cen",
+      "originalDescription": "Australijska Komisja do spraw Konkurencji i Konsumentów (ACCC) pozwała Microsoft, zarzucając firmie, że wprowadziła w błąd około 2,7 miliona klientów, sugerując im konieczność przejścia na droższe plany Microsoft 365 po dodaniu narzędzia sztucznej inteligencji Copilot - podał Reuters."
+    },
+    {
+      "title": "Incydent w szkole, pracownik zaatakowany",
+      "link": "https://tvn24.pl/lodz/blaszki-agresywny-mezczyzna-wtargnal-na-teren-szkoly-zaatakowal-pracownika-st8721420?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 13:29:26 GMT",
+      "description": "• W czwartek przed południem policjanci z Błaszek (woj. łódzkie) zostali wezwani do jednej ze szkół w powiecie sieradzkim.\n• Agresywny mężczyzna zaatakował pracownika szkoły.\n• Pracownik szkoły poprosił mężczyznę, by opuścił teren placówki.",
+      "originalTitle": "Wszedł do szkoły i zaatakował pracownika. Groził mu śmiercią",
+      "originalDescription": "W czwartek przed południem policjanci z Błaszek (woj. łódzkie) zostali wezwani do jednej ze szkół w powiecie sieradzkim. Agresywny mężczyzna zaatakował pracownika, który poprosił, by opuścił teren placówki."
+    },
+    {
       "title": "Działka sprzedana, sprawa w prokuraturze",
       "link": "https://tvn24.pl/biznes/z-kraju/strategiczna-dzialka-sprzedana-maciej-lasek-sprawa-trafila-do-prokuratury-st8721795?source=rss",
       "pubDate": "Mon, 27 Oct 2025 12:54:43 GMT",
-      "description": "• Sprawa nabycia przez spółkę Dawtona działki znajdującej się w pobliżu powstającego Centralnego Portu Komunikacyjnego, została przekazana do prokuratury.\n• Wiceminister infrastruktury Maciej Lasek poinformował o tym w poniedziałek.",
+      "description": "Sprawa nabycia przez spółkę Dawtona działki znajdującej się w pobliżu powstającego Centralnego Portu Komunikacyjnego, została przekazana do prokuratury - poinformował w poniedziałek wiceminister infrastruktury Maciej Lasek.",
       "originalTitle": "Strategiczna działka sprzedana. Wiceminister: sprawa trafiła do prokuratury",
       "originalDescription": "Sprawa nabycia przez spółkę Dawtona działki znajdującej się w pobliżu powstającego Centralnego Portu Komunikacyjnego, została przekazana do prokuratury - poinformował w poniedziałek wiceminister infrastruktury Maciej Lasek."
     },
@@ -20,10 +36,10 @@
       "originalDescription": "Młody ryś został potrącony przez samochód. Do zdarzenia doszło w słowackim Tatrzańskim Parku Narodowym. Przyrodnicy zaapelowali do kierowców o zachowanie ostrożności jesienią, gdy zwierzęta te migrują."
     },
     {
-      "title": "Ministerstwo zawarło umowę z amerykańską firmą",
+      "title": "Ministerstwo ma umowę z amerykańską firmą. \"Krok milowy\"",
       "link": "https://tvn24.pl/biznes/tech/umowa-mon-z-firma-palantir-krok-milowy-st8721734?source=rss",
       "pubDate": "Mon, 27 Oct 2025 12:40:59 GMT",
-      "description": "• Wicepremier i minister obrony narodowej to Władysław Kosiniak-Kamysz.\n• Dyrektor generalny Palantir Technologies INC to Alexander Karp.\n• Podpisanie listu intencyjnego o współpracy odbyło się w poniedziałek.\n• Miejscem podpisania listu intencyjnego była Warszawa.\n• Zakres współpracy obejmuje dziedziny sztucznej inteligencji.\n• Zakres współpracy obejmuje technologię informacyjną.\n• Zakres współpracy obejmuje cyberbezpieczeństwo.",
+      "description": "Wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz oraz dyrektor generalny Palantir Technologies INC Alexander Karp podpisali w poniedziałek w Warszawie list intencyjny o współpracy w dziedzinach sztucznej inteligencji, technologii informacyjnych i cyberbezpieczeństwa.",
       "originalTitle": "Ministerstwo ma umowę z amerykańską firmą. \"Krok milowy\"",
       "originalDescription": "Wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz oraz dyrektor generalny Palantir Technologies INC Alexander Karp podpisali w poniedziałek w Warszawie list intencyjny o współpracy w dziedzinach sztucznej inteligencji, technologii informacyjnych i cyberbezpieczeństwa."
     },
@@ -66,22 +82,6 @@
       "description": "Polscy transplantolodzy testują urządzenie, które pozwala utrzymać wątrobę w żywym stanie poza organizmem nawet do 40 godzin. To ponad trzykrotnie dłużej, niż w standardowej procedurze. W tym czasie narząd metabolizuje i wytwarza żółć, dzięki czemu lekarze mogą sprawdzić, czy nadaje się do przeszczepienia. Korzystając z tej technologii można zwiększyć liczbę przeszczepień nawet o jedną trzecią. - To rozwiązanie może uratować dziesiątki istnień - mówi prof. Michał Grąt, krajowy konsultant w dziedzinie transplantologii klinicznej.",
       "originalTitle": "Pozwala wątrobie \"żyć\" poza ciałem. Czy to przyszłość transplantologii?",
       "originalDescription": "Polscy transplantolodzy testują urządzenie, które pozwala utrzymać wątrobę w żywym stanie poza organizmem nawet do 40 godzin. To ponad trzykrotnie dłużej, niż w standardowej procedurze. W tym czasie narząd metabolizuje i wytwarza żółć, dzięki czemu lekarze mogą sprawdzić, czy nadaje się do przeszczepienia. Korzystając z tej technologii można zwiększyć liczbę przeszczepień nawet o jedną trzecią. - To rozwiązanie może uratować dziesiątki istnień - mówi prof. Michał Grąt, krajowy konsultant w dziedzinie transplantologii klinicznej."
-    },
-    {
-      "title": "\"Dramatyczna sytuacja\" w Niemczech",
-      "link": "https://tvn24.pl/biznes/ze-swiata/dramatyczna-sytuacja-w-niemczech-st8721717?source=rss",
-      "pubDate": "Mon, 27 Oct 2025 12:25:17 GMT",
-      "description": "W czasie gdy wydatki rządowe stale rosną, ilość prywatnych inwestycji spada, co niekorzystnie odbije się na wzroście gospodarczym, wpływach budżetowych oraz usługach publicznych - ostrzegł Clemens Fuest, szef Instytutu Badań Ekonomicznych (IFO). Dodał, że obecna sytuacja gospodarcza w Niemczech jest \"dramatyczna\".",
-      "originalTitle": "\"Dramatyczna sytuacja\" w Niemczech",
-      "originalDescription": "W czasie gdy wydatki rządowe stale rosną, ilość prywatnych inwestycji spada, co niekorzystnie odbije się na wzroście gospodarczym, wpływach budżetowych oraz usługach publicznych - ostrzegł Clemens Fuest, szef Instytutu Badań Ekonomicznych (IFO). Dodał, że obecna sytuacja gospodarcza w Niemczech jest \"dramatyczna\"."
-    },
-    {
-      "title": "Szczere słowa żony sprawiły, że poddał się leczeniu. Wraca \"pokorny i wdzięczny\"",
-      "link": "https://tvn24.pl/kultura-i-styl/jon-bon-jovi-szczere-slowa-zony-sprawily-ze-poddal-sie-leczeniu-wraca-pokorny-i-wdzieczny-st8721318?source=rss",
-      "pubDate": "Mon, 27 Oct 2025 12:12:57 GMT",
-      "description": "Jon Bon Jovi zapowiedział powrót na scenę w przyszłym roku wraz ze swoim zespołem. Wokalista podziękował fanom \"za cierpliwość\". Trzy lata temu z powodu problemów zdrowotnych jego dalsza kariera po ponad 40 latach stanęła pod znakiem zapytania. Szczere słowa żony sprawiły, że poddał się leczeniu. Przeszedł poważną operację.",
-      "originalTitle": "Szczere słowa żony sprawiły, że poddał się leczeniu. Wraca \"pokorny i wdzięczny\"",
-      "originalDescription": "Jon Bon Jovi zapowiedział powrót na scenę w przyszłym roku wraz ze swoim zespołem. Wokalista podziękował fanom \"za cierpliwość\". Trzy lata temu z powodu problemów zdrowotnych jego dalsza kariera po ponad 40 latach stanęła pod znakiem zapytania. Szczere słowa żony sprawiły, że poddał się leczeniu. Przeszedł poważną operację."
     }
   ]
 }
