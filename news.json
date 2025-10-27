@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-27T11:34:37.206Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-27T12:10:03.372Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Premiera serialu w HBO Max",
+      "link": "https://tvn24.pl/kultura-i-styl/hbo-max-premiera-serialu-to-witajcie-w-derry-kiedy-nowe-odcinki-st8721194?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 12:00:15 GMT",
+      "description": "• Od poniedziałku w HBO Max można oglądać nowy serial.\n• Nowy serial nazywa się \"To: Witajcie w Derry\".\n• Jest to prequel filmowych hitów.\n• Serial jest oparty na kanwie powieści Stephena Kinga.\n• Serial już zbiera entuzjastyczne recenzje.",
+      "originalTitle": "\"To\" powraca. Witajcie w Derry - dziś premiera w HBO Max",
+      "originalDescription": "Pennywise znów straszy. Od poniedziałku w HBO Max możemy oglądać nowy serial - \"To: Witajcie w Derry\". Prequel filmowych hitów, na kanwie powieści Stephena Kinga, już zbiera entuzjastyczne recenzje."
+    },
+    {
+      "title": "Zatrzymano 11 osób z grupy przestępczej",
+      "link": "https://tvn24.pl/wroclaw/jawor-zatrzymano-11-czlonkow-grupy-przestepczej-powiazanej-z-pseudokibicami-st8721435?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:55:46 GMT",
+      "description": "• 11 członków zorganizowanej grupy przestępczej powiązanej ze środowiskiem pseudokibiców zatrzymała dolnośląska policja.\n• Podczas akcji znaleziono narkotyki.\n• Podczas akcji znaleziono broń.\n• Podczas akcji znaleziono amunicję.\n• Podczas akcji znaleziono nielegalne automaty do gier.\n• Trzech podejrzanych zostało tymczasowo aresztowanych.",
+      "originalTitle": "Zatrzymano 11 członków grupy przestępczej powiązanej z pseudokibicami",
+      "originalDescription": "11 członków zorganizowanej grupy przestępczej powiązanej ze środowiskiem pseudokibiców zatrzymała dolnośląska policja. Podczas akcji znaleziono narkotyki, broń, amunicję oraz nielegalne automaty do gier. Trzech podejrzanych ostało tymczasowo aresztowanych."
+    },
+    {
+      "title": "Ochrona konta przed nieautoryzowanymi transakcjami",
+      "link": "https://tvn24.pl/biznes/tech/skimming-pieniadze-znikajace-z-konta-tak-sie-mozna-ochronic-st8721369?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:55:23 GMT",
+      "description": "• Skimming to oszustwo polegające na skopiowaniu danych z paska magnetycznego karty płatniczej.\n• Oszustwo najczęściej odbywa się za pomocą nakładek montowanych przez przestępców w bankomatach.\n• Istnieją sposoby, aby się przed tym bronić.\n• Należy wiedzieć, co zrobić, jeśli odkryjemy podejrzane transakcje na naszym koncie.",
+      "originalTitle": "Pieniądze znikające z konta. Tak się można ochronić",
+      "originalDescription": "Skimming to oszustwo polegające na skopiowaniu danych z paska magnetycznego karty płatniczej. Najczęściej odbywa się to za pomocą nakładek montowanych przez przestępców w bankomatach. Jak się przed tym bronić i co zrobić, jeśli odkryjemy podejrzane transakcje na naszym koncie? Wyjaśniamy."
+    },
+    {
+      "title": "Policjant podejrzany o nieprawidłowości podczas służby",
+      "link": "https://tvn24.pl/swiat/usa-policjant-pojechal-na-pizze-zamiast-na-interwencje-w-strzelaninie-zginely-dwie-osoby-st8721348?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:52:51 GMT",
+      "description": "• Policjant pochodzi ze stanu New Jersey.\n• Policjant usłyszał zarzuty.\n• Zarzuty zostały postawione po tym, jak policjant zamiast pojechać na zgłoszenie dotyczące strzelaniny, udał się do pobliskiej pizzerii.\n• W strzelaninie zginęły dwie osoby.",
+      "originalTitle": "Zamiast na interwencję pojechał na pizzę. Policjant z zarzutami",
+      "originalDescription": "Policjant ze stanu New Jersey usłyszał zarzuty po tym, jak zamiast pojechać na zgłoszenie dotyczące strzelaniny udał się do pobliskiej pizzerii. Jak się później okazało, w strzelaninie tej zginęły dwie osoby."
+    },
+    {
+      "title": "Ukraiński na maturze i stanowisko Czarneckiego",
+      "link": "https://konkret24.tvn24.pl/polska/ukrainski-na-maturze-co-wspolnego-ma-z-tym-czarnek-st8718210?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:50:24 GMT",
+      "description": "• Minister edukacji to Barbara Nowacka.\n• Internauci nazywają ją \"Wierną służącą Ukrainy\".\n• Powodem tego określenia jest rzekoma decyzja wprowadzenia języka ukraińskiego na maturę.\n• To nie Barbara Nowacka podpisała rozporządzenie dotyczące wprowadzenia języka ukraińskiego na maturę.\n• Istnieją przekłamania dotyczące reformy wprowadzającej język ukraiński na maturę.\n• Jednym z przekłamań jest to, że to Barbara Nowacka podpisała stosowne rozporządzenie.",
+      "originalTitle": "Ukraiński na maturze? Co wspólnego ma z tym Czarnek",
+      "originalDescription": "\"Wierna służąca Ukrainy\" - piszą o minister edukacji Barbarze Nowackiej internauci, komentując jej rzekomą decyzję wprowadzenia języka ukraińskiego na maturę. Jednak to nie ona podpisała stosowne rozporządzenie - i nie jest to jedyne przekłamanie dotyczące tej reformy."
+    },
+    {
+      "title": "Pożar w hali",
+      "link": "https://tvn24.pl/lubuskie/w-gminie-slonsk-hala-stanela-w-plomieniach-to-nie-byl-przypadek-st8721200?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:49:44 GMT",
+      "description": "• Policjanci ustalili, kto odpowiada za pożar hali w Słońsku (Lubuskie) wypełnionej balotami słomy.\n• Pożar hali w Słońsku (Lubuskie) był podpaleniem, co nie budziło żadnych wątpliwości.\n• Funkcjonariusze zabezpieczyli auto, w którym znale��li kanister z pozostałościami po łatwopalnej substancji.\n• Podejrzanemu grozi nawet 10 lat więzienia.",
+      "originalTitle": "Hala stanęła w płomieniach. To nie był przypadek",
+      "originalDescription": "Policjanci ustalili, kto odpowiada za pożar hali w Słońsku (Lubuskie) wypełnionej balotami słomy. To, że to podpalenie nie budziło żadnych wątpliwości. Funkcjonariusze zabezpieczyli auto, w którym znaleźli kanister z pozostałościami po łatwopalnej substancji. Podejrzanemu grozi nawet 10 lat więzienia."
+    },
+    {
+      "title": "Korki na A2",
+      "link": "https://tvn24.pl/tvnwarszawa/ulice/wyscigi-sloni-na-a2-st8721575?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:47:19 GMT",
+      "description": "Policjanci z siedleckiej drogówki prowadzili kontrole na autostradzie A2 z wykorzystaniem drona. Zwracali szczególną uwagę na przestrzeganie zakazu wyprzedzania przez pojazdy ciężarowe. Kilku kierowców ciężarówek otrzymało wysokie mandaty za \"wyścig słoni\", czyli niebezpieczne i utrudniające ruch manewry wyprzedzania.",
+      "originalTitle": "\"Wyścigi słoni\" na A2",
+      "originalDescription": "Policjanci z siedleckiej drogówki prowadzili kontrole na autostradzie A2 z wykorzystaniem drona. Zwracali szczególną uwagę na przestrzeganie zakazu wyprzedzania przez pojazdy ciężarowe. Kilku kierowców ciężarówek otrzymało wysokie mandaty za \"wyścig słoni\", czyli niebezpieczne i utrudniające ruch manewry wyprzedzania."
+    },
+    {
+      "title": "Kluczowa działka dla CPK sprzedana w ostatnich dniach rządów PiS",
+      "link": "https://tvn24.pl/biznes/z-kraju/kluczowa-dzialka-pdla-cpk-sprzedana-w-ostatnich-dniach-rzadow-pis-st8721534?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:40:37 GMT",
+      "description": "W ostatnich tygodniach rządów Prawa i Sprawiedliwości Ministerstwo Rolnictwa i Rozwoju Wsi zatwierdziło sprzedaż 160-hektarowej działki w Zabłotni, kluczowej dla Centralnego Portu Komunikacyjnego (CPK). Nieruchomość nabył Piotr Wielgomas, wiceprezes firmy Dawtona, mimo sprzeciwu władz CPK, które planowały tam tory szybkiej kolei i miasteczko przemysłowo-usługowe - ustaliła Wirtualna Polska. Wkrótce wartość działki, sprzedanej za niemal 30 milionów złotych, może wzrosnąć nawet do 400 milionów złotych.",
+      "originalTitle": "Kluczowa działka dla CPK sprzedana w ostatnich dniach rządów PiS",
+      "originalDescription": "W ostatnich tygodniach rządów Prawa i Sprawiedliwości Ministerstwo Rolnictwa i Rozwoju Wsi zatwierdziło sprzedaż 160-hektarowej działki w Zabłotni, kluczowej dla Centralnego Portu Komunikacyjnego (CPK). Nieruchomość nabył Piotr Wielgomas, wiceprezes firmy Dawtona, mimo sprzeciwu władz CPK, które planowały tam tory szybkiej kolei i miasteczko przemysłowo-usługowe - ustaliła Wirtualna Polska. Wkrótce wartość działki, sprzedanej za niemal 30 milionów złotych, może wzrosnąć nawet do 400 milionów złotych."
+    },
+    {
+      "title": "Jest wniosek o uchylenie immunitetu sędziego Jakuba Iwańca",
+      "link": "https://tvn24.pl/polska/jest-wniosek-o-uchylenie-immunitetu-sedziego-jakuba-iwanca-st8721558?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:39:54 GMT",
+      "description": "Do Sądu Najwyższego skierowano wniosek o uchylenie immunitetu sędziego Jakuba Iwańca w związku z podejrzeniem popełnienia przestępstwa prowadzenia pojazdu w stanie nietrzeźwości. Sprawa dotyczy kolizji z pierwszej połowy października w Rejowcu Fabrycznym.",
+      "originalTitle": "Jest wniosek o uchylenie immunitetu sędziego Jakuba Iwańca",
+      "originalDescription": "Do Sądu Najwyższego skierowano wniosek o uchylenie immunitetu sędziego Jakuba Iwańca w związku z podejrzeniem popełnienia przestępstwa prowadzenia pojazdu w stanie nietrzeźwości. Sprawa dotyczy kolizji z pierwszej połowy października w Rejowcu Fabrycznym."
+    },
+    {
+      "title": "Pijany 26-latek uderzył autem w ogrodzenie",
+      "link": "https://tvn24.pl/rzeszow/jablon-pijany-26-latek-uderzyl-mercedesem-w-ogrodzenie-system-ecall-sam-zawiadomil-sluzby-st8721431?source=rss",
+      "pubDate": "Mon, 27 Oct 2025 11:39:48 GMT",
+      "description": "System eCall zarejestrował kolizję mercedesa w miejscowości Jabłoń (woj. lubelskie). Za kierownicą siedział 26-latek, który - jak się okazało - był pijany. Mężczyzna uderzył w betonowe ogrodzenie jednej z posesji, a w jego aucie policjanci znaleźli środki odurzające. Teraz odpowie przed sądem.",
+      "originalTitle": "Pijany 26-latek uderzył autem w ogrodzenie",
+      "originalDescription": "System eCall zarejestrował kolizję mercedesa w miejscowości Jabłoń (woj. lubelskie). Za kierownicą siedział 26-latek, który - jak się okazało - był pijany. Mężczyzna uderzył w betonowe ogrodzenie jednej z posesji, a w jego aucie policjanci znaleźli środki odurzające. Teraz odpowie przed sądem."
+    }
+  ]
 }
