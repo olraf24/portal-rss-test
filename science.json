@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2025-10-28T13:41:16.272Z",
+  "lastUpdate": "2025-10-28T14:05:54.443Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Polacy współautorami narzędzia kryminalistycznego, które odczytuje wiek z DNA",
-      "link": "https://dzienniknaukowy.pl/polacy-wspolautorami-narzedzia-kryminalistycznego-ktore-odczytuje-wiek-z-dna",
-      "pubDate": "Fri, 24 Oct 2025 09:50:44 +0000",
-      "description": "Polscy badacze współtworzyli jedno z najbardziej zaawansowanych narzędzi kryminalistycznych, które na podstawie próbki DNA potrafi oszacować wiek człowieka z dokładnością do kilku lat. Opracowane przez nich modele są obecnie testowane w laboratoriach na całym świecie."
-    },
-    {
-      "title": "Trauma z dzieciństwa przekazywana w mleku matki",
-      "link": "https://dzienniknaukowy.pl/trauma-z-dziecinstwa-przekazywana-w-mleku-matki",
-      "pubDate": "Fri, 24 Oct 2025 09:29:53 +0000",
-      "description": "Naukowcy z wrocławskiego instytutu badawczego Łukasiewicz – PORT odkryli biologiczne powiązania między negatywnymi doświadczeniami z dzieciństwa kobiet a molekularnym składem ich mleka po porodzie."
-    },
-    {
-      "title": "Terapeutyczna moc płaczu",
-      "link": "https://dzienniknaukowy.pl/terapeutyczna-moc-placzu",
-      "pubDate": "Fri, 24 Oct 2025 08:03:00 +0000",
-      "description": "Płacz to jedna z najbardziej naturalnych reakcji emocjonalnych. Dziecko płacze zanim nauczy się mówić. Dorosły płacze, gdy brakuje mu słów. To uniwersalny sposób na zakomunikowanie swoich emocji, ale też wewnętrzne oczyszczenie. Płacz ma swoje konkretne funkcje fizjologiczne, psychologiczne i społeczne. Jesteś ciekaw jakie?"
-    },
-    {
-      "title": "Oddziaływania między atomami mogą wzmocnić emisję światła",
-      "link": "https://dzienniknaukowy.pl/oddzialywania-miedzy-atomami-moga-wzmocnic-emisje-swiatla",
-      "pubDate": "Thu, 23 Oct 2025 09:05:57 +0000",
-      "description": "Polscy i amerykańscy fizycy wykazali, że bezpośrednie oddziaływania między atomami mogą wzmocnić nadpromienistość – efekt optyczny, polegający na zbiorowym rozbłysku światła. Odkrycie może być w przyszłości wykorzystane w technologiach kwantowych."
-    },
-    {
-      "title": "Transport drogowy i zdrowie najmłodszych. Czym oddychają polscy uczniowie?",
-      "link": "https://dzienniknaukowy.pl/transport-drogowy-i-zdrowie-najmlodszych-czym-oddychaja-polscy-uczniowie",
-      "pubDate": "Thu, 23 Oct 2025 08:45:11 +0000",
-      "description": "Lokalizacja szkół oraz charakter ich najbliższego otoczenia, w tym gęstość dróg i poziom emisji zanieczyszczeń z transportu, może istotnie oddziaływać na rozwój dzieci oraz ich funkcje poznawcze – przyznał dr inż. Krzysztof Skotak, kierownik Zakładu Monitoringu Środowiska w Instytucie Ochrony Środowiska – Państwowym Instytucie Badawczym (IOŚ-PIB). Przypomniał też, że transport drogowy jest jednym z kluczowych źródeł zanieczyszczeń powietrza w Polsce."
-    },
-    {
-      "title": "Jak uczy się mózg, gdy nie ma dzwonka? O nowym podejściu do edukacji domowej",
-      "link": "https://dzienniknaukowy.pl/jak-uczy-sie-mozg-gdy-nie-ma-dzwonka-o-nowym-podejsciu-do-edukacji-domowej",
-      "pubDate": "Thu, 23 Oct 2025 08:26:00 +0000",
-      "description": "Edukacja domowa zyskuje na popularności jako alternatywa dla tradycyjnego modelu szkolnictwa. W świecie, gdzie tempo życia nieustannie rośnie, coraz więcej rodziców decyduje się na nauczanie swoich dzieci w domu. Ale jak właściwie uczy się mózg, gdy nie ma dzwonka na lekcje? Jakie korzyści i wyzwania wiążą się z takim podejściem do edukacji?"
-    },
-    {
-      "title": "Paleontolodzy opisali okaz ichtiozaura z kolekcji UJ, o którym sądzono, że był gipsowym odlewem",
-      "link": "https://dzienniknaukowy.pl/paleontolodzy-opisali-okaz-ichtiozaura-z-kolekcji-uj-o-ktorym-sadzono-ze-byl-gipsowym-odlewem",
-      "pubDate": "Tue, 21 Oct 2025 10:53:27 +0000",
-      "description": "Żył około 180 mln lat temu, budową ciała przypominał współczesne delfiny i należał do gatunku Stenopterygius quadriscissus – paleontolodzy zbadali i opisali okaz ichtiozaura z kolekcji Uniwersytetu Jagiellońskiego, o którym przez lata sądzono, że był gipsowym odlewem"
-    },
-    {
-      "title": "Małopolscy naukowcy odkryli, co się dzieje zanim dojrzeje tRNA",
-      "link": "https://dzienniknaukowy.pl/malopolscy-naukowcy-odkryli-co-sie-dzieje-zanim-dojrzeje-trna",
-      "pubDate": "Tue, 21 Oct 2025 10:11:40 +0000",
-      "description": "Naukowcy z Małopolskiego Centrum Biotechnologii Uniwersytetu Jagiellońskiego w Krakowie odkryli, jak mały chemiczny znacznik dołącza się do transportowego RNA, zanim ten jest gotowy do działania. Ich badania rzucają nowe światło na sposób koordynacji procesów związanych z tRNA podczas jego dojrzewania w komórkach."
-    },
-    {
-      "title": "Jak skutecznie przygotować się do napisania pracy magisterskiej?",
-      "link": "https://dzienniknaukowy.pl/jak-skutecznie-przygotowac-sie-do-napisania-pracy-magisterskiej",
-      "pubDate": "Tue, 21 Oct 2025 08:17:00 +0000",
-      "description": "Zdobądź praktyczne porady i wskazówki, które pomogą Ci przejść przez proces pisania pracy magisterskiej. Dowiedz się, jak efektywnie zarządzać czasem, przeprowadzać badania i tworzyć strukturyzowane teksty"
-    },
-    {
-      "title": "Ryby zdetronizowały głowonogi i zdominowały oceany na przełomie kredy i jury",
-      "link": "https://dzienniknaukowy.pl/ryby-zdetronizowaly-glowonogi-i-zdominowaly-oceany-na-przelomie-kredy-i-jury",
-      "pubDate": "Mon, 20 Oct 2025 10:48:09 +0000",
-      "description": "Morza w okresie jurajskim nie przypominały tych dzisiejszych, ponieważ wtedy dominowały głowonogi, których najbliżsi dzisiejsi krewniacy to kałamarnice i mątwy. Zmiana nastąpiła na przełomie jury i kredy, kiedy to ryby zaczęły przejmować oceany – wykazały badania paleontologów m.in. z PAN."
-    }
-  ]
+  "articles": []
 }
