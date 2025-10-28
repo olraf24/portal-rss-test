@@ -1,13 +1,21 @@
 {
-  "lastUpdate": "2025-10-28T04:07:24.504Z",
+  "lastUpdate": "2025-10-28T04:38:25.541Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pogoda na 28.10: chłodno i deszczowo",
+      "title": "Dziennikarz z Wielkiej Brytanii zatrzymany w USA",
+      "link": "https://tvn24.pl/swiat/usa-brytyjski-dziennikarz-sami-hamdi-zatrzymany-przez-sluzby-migracyjne-st8722851?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 04:15:00 GMT",
+      "description": "• Amerykańskie władze imigracyjne zatrzymały brytyjskiego dziennikarza i komentatora Samiego Hamdi.\n• Zapowiedziano, że Sami Hamdi zostanie deportowany.\n• Wizę Samiego Hamdi unieważniono.\n• Unieważnienie wizy nastąpiło w związku z wypowiedziami Samiego Hamdi na temat Bliskiego Wschodu.",
+      "originalTitle": "Brytyjski dziennikarz zatrzymany w USA przez służby migracyjne, ma zostać wyrzucony z kraju",
+      "originalDescription": "Amerykańskie władze imigracyjne zatrzymały brytyjskiego dziennikarza i komentatora Samiego Hamdi i zapowiedziały, że zostanie deportowany. Według źródła wizę mężczyzny unieważniono w związku z jego wypowiedziami na temat Bliskiego Wschodu."
+    },
+    {
+      "title": "Pogoda na dziś: chłodno i deszczowo",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-wtorek-28-10-chlodno-i-deszczowo-moze-zagrzmiec-st8722628?source=rss",
       "pubDate": "Tue, 28 Oct 2025 01:00:00 GMT",
-      "description": "• Dziś jest wtorek.\n• Data to 28.10.\n• Pogoda będzie pochmurna.\n• Spodziewany jest deszcz.\n• Będzie wiać wiatr.\n• Miejscami mogą wystąpić burze.",
+      "description": "• Dzień tygodnia to wtorek.\n• Data to 28.10.\n• Pogoda będzie pochmurna.\n• Spodziewany jest deszcz.\n• Będzie wiało.\n• Miejscami mogą wystąpić burze.",
       "originalTitle": "Pogoda na dziś - wtorek 28.10. Chłodno i deszczowo, może zagrzmieć",
       "originalDescription": "Pogoda na dziś - wtorek 28.10. Czeka nas pochmurny dzień z deszczem, wiatrem, a miejscami niewykluczone są burze."
     },
@@ -15,12 +23,12 @@
       "title": "Wniosek o uchylenie immunitetu sędziego Jakuba Iwańca",
       "link": "https://tvn24.pl/polska/wniosek-o-uchylenie-immunitetu-sedziego-jakuba-iwanca-waldemar-zurek-ukrecil-sobie-bicz-na-wlasna-skore-st8721558?source=rss",
       "pubDate": "Mon, 27 Oct 2025 11:39:54 GMT",
-      "description": "• Do Sądu Najwyższego skierowano wniosek o uchylenie immunitetu sędziego Jakuba Iwańca.\n• Wniosek dotyczy podejrzenia popełnienia przestępstwa prowadzenia pojazdu w stanie nietrzeźwości.\n• Sprawa dotyczy kolizji z pierwszej połowy października.\n• Kolizja miała miejsce w Rejowcu Fabrycznym.\n• W sprawie wypowiedział się Waldemar Żurek.\n• Zdaniem Waldemara Żurka \"lepiej byłoby dla sędziego Iwańca, gdyby milczał\".",
+      "description": "• Do Sądu Najwyższego skierowano wniosek o uchylenie immunitetu sędziego Jakuba Iwańca.\n• Wniosek dotyczy podejrzenia popełnienia przestępstwa prowadzenia pojazdu w stanie nietrzeźwości.\n• Sprawa dotyczy kolizji z pierwszej połowy października.\n• Kolizja miała miejsce w Rejowcu Fabrycznym.\n• Waldemar Żurek uważa, że \"lepiej byłoby dla sędziego Iwańca, gdyby milczał\".",
       "originalTitle": "Wniosek o uchylenie immunitetu sędziego Jakuba Iwańca. Żurek: ukręcił sobie bicz na własną skórę",
       "originalDescription": "Do Sądu Najwyższego skierowano wniosek o uchylenie immunitetu sędziego Jakuba Iwańca w związku z podejrzeniem popełnienia przestępstwa prowadzenia pojazdu w stanie nietrzeźwości. Sprawa dotyczy kolizji z pierwszej połowy października w Rejowcu Fabrycznym. Zdaniem Waldemara Żurka \"lepiej byłoby dla sędziego Iwańca, gdyby milczał\"."
     },
     {
-      "title": "Mark Carney omawia negocjacje",
+      "title": "Mark Carney: negocjacje trwały aż do chwili, gdy pojawiły się te reklamy",
       "link": "https://tvn24.pl/biznes/ze-swiata/kanada-mark-carney-negocjacje-trwaly-az-do-chwili-gdy-pojawily-sie-te-reklamy-st8722670?source=rss",
       "pubDate": "Mon, 27 Oct 2025 20:35:32 GMT",
       "description": "Negocjacje handlowe między Kanadą a USA przerwała kampania reklamowa rządu Ontario - przekazał premier Kanady Mark Carney. Władze Kolumbii Brytyjskiej zapowiedziały rozpoczęcie własnej kampanii dotyczącej skutków amerykańskich ceł. \"Nasze drewno ma wyższe cła niż Rosja. Absurd\" - stwierdził premier prowincji David Eby.",
@@ -74,14 +82,6 @@
       "description": "W ocenie ministra Waldemara Żurka sposób używania przez poprzednią władzę systemu Pegasus to \"klasyczny przykład szukania haków\". Pytany w \"Faktach po Faktach\" w TVN24 o listę inwigilowanych tym narzędziem, powiedział, że są tam \"nazwiska zadziwiające\".",
       "originalTitle": "\"Zadziwiające nazwiska\" na liście Pegasusa. Żurek: to była hakownia",
       "originalDescription": "W ocenie ministra Waldemara Żurka sposób używania przez poprzednią władzę systemu Pegasus to \"klasyczny przykład szukania haków\". Pytany w \"Faktach po Faktach\" w TVN24 o listę inwigilowanych tym narzędziem, powiedział, że są tam \"nazwiska zadziwiające\"."
-    },
-    {
-      "title": "Żurek: mamy zapowiedzi, jak szybko, jak zdecydowanie będą \"obcinać głowy\"",
-      "link": "https://tvn24.pl/polska/waldemar-zurek-st8722589?source=rss",
-      "pubDate": "Mon, 27 Oct 2025 19:30:41 GMT",
-      "description": "Te zapowiedzi nie są bezcelowe, one mają zastraszyć sędziów i prokuratorów, którzy walczyli, żeby konstytucja działała w Polsce. Teraz mają być zastraszeni - mówił minister sprawiedliwości Waldemar Żurek w \"Faktach po Faktach\" w TVN24. Stwierdził, że \"na konwencji partii opozycyjnej (...) mamy zapowiedzi, jak szybko, jak zdecydowanie będą 'obcinać głowy'\".",
-      "originalTitle": "Żurek: mamy zapowiedzi, jak szybko, jak zdecydowanie będą \"obcinać głowy\"",
-      "originalDescription": "Te zapowiedzi nie są bezcelowe, one mają zastraszyć sędziów i prokuratorów, którzy walczyli, żeby konstytucja działała w Polsce. Teraz mają być zastraszeni - mówił minister sprawiedliwości Waldemar Żurek w \"Faktach po Faktach\" w TVN24. Stwierdził, że \"na konwencji partii opozycyjnej (...) mamy zapowiedzi, jak szybko, jak zdecydowanie będą 'obcinać głowy'\"."
     }
   ]
 }
