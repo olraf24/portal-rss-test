@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-10-29T01:33:55.225Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-10-29T02:37:14.023Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś: rozpogodzenia i wiatr",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sroda-29-10-rozpogodzenia-slaby-deszcz-i-silny-wiatr-st8724305?source=rss",
+      "pubDate": "Wed, 29 Oct 2025 01:00:00 GMT",
+      "description": "• Dziś jest środa.\n• Data to 29.10.\n• Opady deszczu będą osuwać się znad kraju.\n• Miejscami jeszcze wystąpią opady deszczu.\n• Będzie wietrznie.\n• Na termometrach będziemy obserwować jakiś wynik temperatury.",
+      "originalTitle": "Pogoda na dziś - środa, 29.10. Rozpogodzenia, słaby deszcz i silny wiatr",
+      "originalDescription": "Pogoda na dziś, czyli na środę 29.10. Opady deszczu będą osuwać się znad kraju, jednak miejscami jeszcze wystąpią. Poza tym będzie wietrznie. A ile stopni zobaczymy na termometrach?"
+    },
+    {
+      "title": "Wypadek cysterny z azotem na drodze krajowej",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/skuszew-wyszkow-cysterna-z-azotem-na-boku-dk62-zablokowana-st8724679?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 22:56:44 GMT",
+      "description": "We wtorek w nocy pod Wyszkowem (Mazowieckie) cysterna z ciekły azotem przewróciła na bok i wylądowała w rowie. Droga krajowa numer 62 jest zablokowana.",
+      "originalTitle": "Cysterna z azotem na boku. Droga krajowa zablokowana",
+      "originalDescription": "We wtorek w nocy pod Wyszkowem (Mazowieckie) cysterna z ciekły azotem przewróciła na bok i wylądowała w rowie. Droga krajowa numer 62 jest zablokowana."
+    },
+    {
+      "title": "Huragan Melissa dotknął Jamajkę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/huragan-melissa-uderzyl-w-jamajke-relacja-polaka-mieszkajacego-w-kingston-st8724645?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 21:16:41 GMT",
+      "description": "• Na naszym osiedlu są połamane drzewa i latają gałęzie.\n• Mieszkaniec powiedział, że on i jego bliscy są bezpieczni.\n• Wypowiedź została zarejestrowana w rozmowie z TVN24.\n• Osoba, która wypowiedziała się, jest Polakiem mieszkającym na Jamajce.\n• Potężny huragan nazywa się Melissa.\n• Huragan Melissa dotarł do wyspy we wtorek.",
+      "originalTitle": "Huragan Melissa uderzył w Jamajkę. Relacja Polaka mieszkającego w Kingston",
+      "originalDescription": "- Na naszym osiedlu są połamane drzewa i latają gałęzie, ale my jesteśmy bezpieczni - powiedział w rozmowie z TVN24 Polak mieszkający na Jamajce. Potężny huragan Melissa dotarł we wtorek do wyspy."
+    },
+    {
+      "title": "Firmy z krajów bałtyckich zaangażowane w flotę",
+      "link": "https://tvn24.pl/swiat/firmy-dzialajace-w-litwie-lotwie-i-estonii-potajemnie-napedzaja-flote-cieni-st8724583?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 21:03:24 GMT",
+      "description": "• Sieć firm operuje z Litwy, Łotwy i Estonii.\n• Sieć ta potajemnie zaopatruje statki należące do rosyjskiej \"floty cieni\".\n• Informacje te wynikają z dziennikarskiego śledztwa.\n• Portal litewskiego publicznego nadawcy LRT wskazał na ten proceder.\n• Morze Bałtyckie nie jest jedynym akwenem, na którym odbywa się podobny proceder.",
+      "originalTitle": "Firmy z krajów bałtyckich potajemnie napędzają \"flotę cieni\"",
+      "originalDescription": "Sieć firm operująca z Litwy, Łotwy i Estonii potajemnie zaopatruje statki należące do rosyjskiej \"floty cieni\" - wynika z dziennikarskiego śledztwa. Portal litewskiego publicznego nadawcy LRT wskazał, że Morze Bałtyckie nie jest jedynym akwenem, na którym odbywa się podobny proceder."
+    },
+    {
+      "title": "Kwota w Eurojackpot rośnie",
+      "link": "https://tvn24.pl/biznes/pieniadze/wyniki-eurojackpot-z-28-10-2025-liczby-i-wygrane-z-ostatniego-losowania-st8724615?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 20:50:59 GMT",
+      "description": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. W efekcie kumulacja rośnie do 140 milionów złotych. Oto wyniki losowania z 28 października 2025 roku.",
+      "originalTitle": "Kumulacja w Eurojackpot rośnie",
+      "originalDescription": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. W efekcie kumulacja rośnie do 140 milionów złotych. Oto wyniki losowania z 28 października 2025 roku."
+    },
+    {
+      "title": "Zmiany w składzie rady nadzorczej Orlenu",
+      "link": "https://tvn24.pl/biznes/rynki/roszady-w-radzie-nadzorczej-orlenu-st8724604?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 20:35:58 GMT",
+      "description": "• Nadzwyczajne Walne Zgromadzenie (NWZ) Orlenu odwołało we wtorek trzech członków rady nadzorczej.\n• Jednym z odwołanych członków rady nadzorczej był przewodniczący Wojciech Popiołek.\n• Na nowego szefa rady powołało Przemysława Ciszaka.\n• Zmiany w radzie nadzorczej były wnioskowane przez Skarb Państwa jako akcjonariusz.",
+      "originalTitle": "Roszady w radzie nadzorczej Orlenu",
+      "originalDescription": "Nadzwyczajne Walne Zgromadzenie (NWZ) Orlenu odwołało we wtorek trzech członków rady nadzorczej, w tym przewodniczącego Wojciecha Popiołka. Na nowego szefa rady powołało Przemysława Ciszaka. O takie zmiany wnioskował jako akcjonariusz Skarb Państwa."
+    },
+    {
+      "title": "Huragan Melissa nad Jamajką powoduje szkody",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/jamajka-huragan-melissa-najsilniejsza-burza-na-planecie-uderza-w-malutki-punkt-na-mapie-swiata-st8722874?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 07:30:51 GMT",
+      "description": "• Melissa osłabła i jest huraganem czwartej kategorii \n• Skala jest pięciostopniowa \n• Skala jest rosnąca \n• Skala nazywa się Saffira-Simpsona \n• Żywioł doprowadził do rozległych zniszczeń",
+      "originalTitle": "Huragan Melissa nad Jamajką. \"Szkody są rozległe\"",
+      "originalDescription": "Melissa osłabła i jest huraganem czwartej kategorii w pięciostopniowej, rosnącej skali Saffira-Simpsona. Żywioł doprowadził do rozległych zniszczeń."
+    },
+    {
+      "title": "Wręczono nagrodę POLIN 2025",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-nagroda-polin-2025-wreczona-wyroznieni-i-finalisci-st8724515?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 20:10:00 GMT",
+      "description": "• Laureatem 11. edycji Nagrody POLIN został Marek Chmielewski.\n• Marek Chmielewski jest sołtysiem wsi Orla.\n• Marek Chmielewski jest działaczem samorządowym.\n• Nagroda POLIN jest przyznawana osobom lub organizacjom.\n• Nagroda POLIN jest przyznawana za ochronę pamięci o historii polskich Żydów.",
+      "originalTitle": "Nagroda POLIN 2025 wręczona",
+      "originalDescription": "Laureatem 11. edycji Nagrody POLIN został Marek Chmielewski - sołtys wsi Orla i działacz samorządowy. Nagroda ta jest przyznawana osobom lub organizacjom, chroniącym pamięć o historii polskich Żydów."
+    },
+    {
+      "title": "Kasy samoobsługowe w sieciach handlowych",
+      "link": "https://tvn24.pl/biznes/z-kraju/ekspertka-sieci-handlowe-sa-w-rozkroku-z-powodu-duzej-liczby-kradziezy-w-kasach-samoobslugowych-st8724407?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 19:59:29 GMT",
+      "description": "• Kasy samoobsługowe generują wyższe straty.\n• Edyta Kochlewska z portalu dlahandlu.pl przyznała to na antenie TVN24 BiS.\n• Klienci chcą robić zakupy szybko i płacić bezgotówkowo.\n• Kasy samoobsługowe stały się koniecznością.\n�� Sieci handlowe są w pewnego rodzaju rozkroku z powodu kasy samoobsługowe.",
+      "originalTitle": "Problematyczne kasy samoobsługowe. Ekspertka: sieci handlowe są w rozkroku",
+      "originalDescription": "- Kasy samoobsługowe generują wyższe straty - przyznała na antenie TVN24 BiS Edyta Kochlewska z portalu dlahandlu.pl. Jednak, jak zaznacza, \"stały się koniecznością, bo klienci chcą robić zakupy szybko i płacić bezgotówkowo\", dlatego też sieci handlowe \"są w pewnego rodzaju rozkroku\"."
+    },
+    {
+      "title": "Wiceszef MON o przestępczości zorganizowanej",
+      "link": "https://tvn24.pl/polska/zbigniew-ziobro-podejrzany-o-popelnienie-26-przestepstw-wiceszef-mon-cezary-tomczyk-komentuje-st8724503?source=rss",
+      "pubDate": "Tue, 28 Oct 2025 19:42:53 GMT",
+      "description": "• Każda mafia ma jakiegoś herszta i ktoś stoi na jej czele.\n• Cezary Tomczyk wypowiedział się w \"Kropce nad i\".\n• Cezary Tomczyk komentował wtorkowy wniosek o uchylenie immunitetu Zbigniewowi Ziobrze.\n• Wiceminister obrony narodowej to Zbigniew Ziobro.\n• Zbigniew Ziobro ma wniosek o uchylenie immunitetu.\n• Cezary Tomczyk zapowiedział, jak zagłosuje nad wnioskiem.",
+      "originalTitle": "Wiceszef MON w \"Kropce nad i\": z ludzi, którzy mieli ścigać mafie, zrobiła się mafia",
+      "originalDescription": "- Każda mafia ma jakiegoś herszta i ktoś stoi na jej czele - powiedział w \"Kropce nad i\" Cezary Tomczyk, komentując wtorkowy wniosek o uchylenie immunitetu Zbigniewowi Ziobrze. Wiceminister obrony narodowej zapowiedział też, jak zagłosuje nad wnioskiem."
+    }
+  ]
 }
