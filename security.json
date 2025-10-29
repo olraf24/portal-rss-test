@@ -1,10 +1,22 @@
 {
-  "lastUpdate": "2025-10-29T08:07:28.596Z",
+  "lastUpdate": "2025-10-29T08:40:34.343Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
     {
-      "title": "Dowództwo Operacyjne: przechwyciliśmy rosyjski samolot nad Bałtykiem",
+      "title": "Wojsko bez obiecanych pojazdów do działań na granicy [KOMENTARZ]",
+      "link": "https://defence24.pl/sily-zbrojne/wojsko-bez-obiecanych-pojazdow-do-dzialan-na-granicy-komentarz",
+      "pubDate": "Wed, 29 Oct 2025 09:18:26 +0100",
+      "description": "[W lipcu 2024 roku sekretarze stanu MON Cezary Tomczyk oraz Paweł Bejda](https://defence24.pl/polityka-obronna/rewolucja-na-granicy-tarcza-wschod-i-bezpieczne-podlasie) na konferencji prasowej dotyczącej planów rządu na wzmocnienie wschodniej granicy Rzeczypospolitej poinformowali, że w związku z istniejącymi brakami planuje się pozyskać dla wojska 150 nowych pojazdów opancerzonych (na stronie MON określonych jako „opancerzone pojazdy wojskowe”) w ramach pilnej potrzeby operacyjnej. Miały one trafić wyłącznie do żołnierzy prowadzących działania na granicy polsko-białoruskiej i zapewnić im odpowiedni poziom ochrony podczas realizowania działań."
+    },
+    {
+      "title": "Ewolucja pod ogniem. Jak Ukraina buduje obronę terytorialną [ANALIZA]",
+      "link": "https://defence24.pl/sily-zbrojne/ewolucja-pod-ogniem-jak-ukraina-buduje-obrone-terytorialna-analiza",
+      "pubDate": "Wed, 29 Oct 2025 09:08:07 +0100",
+      "description": "Dyskusja o przydatności obrony terytorialnej na współczesnym polu walki trwa praktycznie od zakończenia drugiej wojny światowej. Tylko niektóre państwa utrzymują takie siły, a intensywność ich rozwoju zmienia się w zależności od bieżących uwarunkowań polityczno-militarnych."
+    },
+    {
+      "title": "Polskie MiG-29 przechwyciły rosyjski samolot",
       "link": "https://defence24.pl/polityka-obronna/dowodztwo-operacyjne-przechwycilismy-rosyjski-samolot-nad-baltykiem",
       "pubDate": "Wed, 29 Oct 2025 08:40:23 +0100",
       "description": "Jak dodało Dowództwo, rosyjska maszyna realizowała misję rozpoznawczą w międzynarodowej przestrzeni powietrznej, bez złożonego planu lotu i z wyłączonym transponderem. Maszyna nie naruszyła polskiej przestrzeni powietrznej."
@@ -13,7 +25,7 @@
       "title": "Wywiad USA: Putin coraz bardziej zdeterminowany, by kontynuować wojnę",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/wywiad-usa-putin-coraz-bardziej-zdeterminowany-by-kontynuowac-wojne",
       "pubDate": "Wed, 29 Oct 2025 08:15:21 +0100",
-      "description": "Według oceny amerykańskiego wywiadu Władimir Putin jest bardziej niż kiedykolwiek wcześniej zdeterminowany, aby kontynuować wojnę w Ukrainie i mieć przewagę na polu bitwy - podała we wtorek stacja NBC News, powołując się na źródław Kongresie."
+      "description": "Analiza, którą przekazano członkom Kongresu w tym miesiącu, wykazała, że według wywiadu nie ma oznak świadczących o tym, że Rosja jest gotowa do kompromisu w sprawie Ukrainy."
     },
     {
       "title": "Ukraina mocniej uderzy w rosyjskie rafinerie?",
@@ -80,18 +92,6 @@
       "link": "https://defence24.pl/sily-zbrojne/bumar-z-technologia-produkcji-k2pl-czolgowa-umowa-podpisana",
       "pubDate": "Tue, 28 Oct 2025 15:44:29 +0100",
       "description": "Umowa określa zasady, na podstawie których Zakłady Mechaniczne „Bumar-Łabędy”, należące do Polskiej Grupy Zbrojeniowej, otrzymają od południowokoreańskiego koncernu Hyundai Rotem technologię, a także narzędzia i wyposażenie do produkcji i późniejszego serwisowania czołgów K2PL i pojazdów towarzyszących na ich bazie oraz serwisowania czołgów K2GF, które już znajdują się na wyposażeniu Sił Zbrojnych RP. [Podpisanie tego porozumienia jest następstwem umowy pomiędzy Agencją Uzbrojenia a Hyundai Rotem z 1 sierpnia.](https://defence24.pl/sily-zbrojne/czarne-pantery-z-gliwic-ida-do-wojska-k2pl-podpisany)"
-    },
-    {
-      "title": "Gen. Gromadziński: wargaming między wojskiem a sektorem cywilnym",
-      "link": "https://defence24.pl/przemysl/gen-gromadzinski-wargaming-miedzy-wojskiem-a-sektorem-cywilnym",
-      "pubDate": "Tue, 28 Oct 2025 15:30:00 +0100",
-      "description": "Generał podkreśla, że symulacje strategiczne, pierwotnie opracowane z myślą o zastosowaniach wojskowych, coraz częściej znajdują praktyczne wykorzystanie w administracji publicznej, instytucjach bezpieczeństwa oraz w firmach prywatnych. Wspólne gry decyzyjne pozwalają na lepsze zrozumienie mechanizmów kryzysowych, usprawnienie współpracy między różnymi podmiotami oraz rozwijanie zdolności reagowania w sytuacjach niepewności."
-    },
-    {
-      "title": "Czym jest Piorun i czym będzie Piorun 2?",
-      "link": "https://defence24.pl/przemysl/czym-jest-piorun-i-czym-bedzie-piorun-2",
-      "pubDate": "Tue, 28 Oct 2025 15:00:01 +0100",
-      "description": "Krótka relacja z targów BALTEXPO 2025 w Gdańsku pokazująca, czym jest przenośny przeciwlotniczy zestaw rakietowy Piorun oraz dlaczego jest on uważany za najlepszy system uzbrojenia w swojej klasie na świecie."
     }
   ]
 }
