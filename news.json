@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-10-30T08:40:32.961Z",
+  "lastUpdate": "2025-10-30T09:07:07.582Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Limit prędkości na chodnikach",
+      "title": "Kara do 10 tysięcy euro za brak zimówek",
+      "link": "https://tvn24.pl/biznes/ze-swiata/austria-opony-zimowe-nawet-10-tysiecy-euro-kary-za-brak-zimowek-st8726879?source=rss",
+      "pubDate": "Thu, 30 Oct 2025 09:02:57 GMT",
+      "description": "W Austrii od 1 listopada kierowcy muszą mieć w samochodach założone opony zimowe lub - pod pewnymi warunkami - całoroczne. Za złamanie przepisów i brak odpowiedniego ogumienia grożą bardzo wysokie kary.",
+      "originalTitle": "Nawet 10 tysięcy euro kary za brak zimówek",
+      "originalDescription": "W Austrii od 1 listopada kierowcy muszą mieć w samochodach założone opony zimowe lub - pod pewnymi warunkami - całoroczne. Za złamanie przepisów i brak odpowiedniego ogumienia grożą bardzo wysokie kary."
+    },
+    {
+      "title": "Prokuratura skieruje akt oskarżenia przeciwko Mateckiemu -> Prokuratura: akt oskarżenia przeciwko Mateckiemu",
+      "link": "https://tvn24.pl/polska/prokuratura-skieruje-akt-oskarzenia-przeciwko-dariuszowi-mateckiemu-z-pis-st8726919?source=rss",
+      "pubDate": "Thu, 30 Oct 2025 08:55:54 GMT",
+      "description": "• Prokuratura Krajowa skieruje jeszcze dziś do Sądu Okręgowego w Szczecinie akt oskarżenia przeciwko Dariuszowi Mateckiemu.\n• Dowiedział się o tym reporter \"Czarno na Białym\" Artur Warcholiński.\n• Dariusz Matecki jest politykiem Prawa i Sprawiedliwości.\n• Dariuszowi Mateckiemu postawiono sześć zarzutów.",
+      "originalTitle": "Prokuratura skieruje akt oskarżenia przeciwko Mateckiemu",
+      "originalDescription": "Prokuratura Krajowa skieruje jeszcze dziś do Sądu Okręgowego w Szczecinie akt oskarżenia przeciwko Dariuszowi Mateckiemu - dowiedział się reporter \"Czarno na Białym\" Artur Warcholiński. Polityk Prawa i Sprawiedliwości ma postawionych sześć zarzutów."
+    },
+    {
+      "title": "Ukraina zamyka ambasadę na Kubie",
+      "link": "https://tvn24.pl/swiat/ukraina-szef-msz-zamykamy-ambasade-na-kubie-andrij-sybiha-podal-przyczyny-st8726631?source=rss",
+      "pubDate": "Thu, 30 Oct 2025 08:55:09 GMT",
+      "description": "Ukraina podjęła decyzję o zamknięciu ambasady na Kubie - przekazał szef ukraińskiej dyplomacji Andrij Sybiha. Wyjaśnił, że powodem jest popieranie przez Hawanę wojny Rosji przeciwko Ukrainie oraz \"bezczynność władz Kuby wobec masowego werbowania obywateli tego kraju do rosyjskiej armii okupacyjnej\".",
+      "originalTitle": "Ukraina zamyka ambasadę na Kubie. Dwa powody",
+      "originalDescription": "Ukraina podjęła decyzję o zamknięciu ambasady na Kubie - przekazał szef ukraińskiej dyplomacji Andrij Sybiha. Wyjaśnił, że powodem jest popieranie przez Hawanę wojny Rosji przeciwko Ukrainie oraz \"bezczynność władz Kuby wobec masowego werbowania obywateli tego kraju do rosyjskiej armii okupacyjnej\"."
+    },
+    {
+      "title": "Spotkanie Orbana i Trumpa zaplanowane",
+      "link": "https://tvn24.pl/swiat/viktor-orban-spotka-sie-z-donaldem-trumpem-w-waszyngtonie-jest-data-st8726932?source=rss",
+      "pubDate": "Thu, 30 Oct 2025 08:48:57 GMT",
+      "description": "Viktor Orban spotka się z Donaldem Trumpem w Waszyngtonie 7 listopada - przekazał szef kancelarii węgierskiego premiera Gergely Gulyas. Mają rozmawiać między innymi na temat działań wobec Ukrainy i sankcjach na rosyjskie firmy energetyczne.",
+      "originalTitle": "Orban spotka się z Trumpem. Jest data",
+      "originalDescription": "Viktor Orban spotka się z Donaldem Trumpem w Waszyngtonie 7 listopada - przekazał szef kancelarii węgierskiego premiera Gergely Gulyas. Mają rozmawiać między innymi na temat działań wobec Ukrainy i sankcjach na rosyjskie firmy energetyczne."
+    },
+    {
+      "title": "Sikorski o \"Wielkim Bu\". \"Nie mógł poprosić o azyl w Budapeszcie?\"",
+      "link": "https://tvn24.pl/polska/radoslaw-sikorski-o-wielkim-bu-ktory-zlozyl-wniosek-o-przyznanie-mu-azylu-politycznego-w-niemczech-st8726911?source=rss",
+      "pubDate": "Thu, 30 Oct 2025 08:44:48 GMT",
+      "description": "Kibolski patriota Wielki Bu uznał, że Polska przestała być bezpieczna dla porywaczy, sutenerów i złodziei - napisał szef polskiej dyplomacji Radosław Sikorski. Zapytał przy tym, czy Patryk M. \"nie mógł poprosić o azyl w Budapeszcie?\".",
+      "originalTitle": "Sikorski o \"Wielkim Bu\". \"Nie mógł poprosić o azyl w Budapeszcie?\"",
+      "originalDescription": "Kibolski patriota Wielki Bu uznał, że Polska przestała być bezpieczna dla porywaczy, sutenerów i złodziei - napisał szef polskiej dyplomacji Radosław Sikorski. Zapytał przy tym, czy Patryk M. \"nie mógł poprosić o azyl w Budapeszcie?\"."
+    },
+    {
+      "title": "Co zmieni ustawa o psychoterapii? Krajowy konsultant tłumaczy",
+      "link": "https://tvn24.pl/zdrowie/nowe-przepisy-dla-psychoterapeutow-co-zawiera-projekt-ustawy-o-psychoterapii-w-polsce-st8726237?source=rss",
+      "pubDate": "Thu, 30 Oct 2025 08:39:55 GMT",
+      "description": "W Sejmie trwają prace nad ustawą o zawodzie psychoterapeuty, na którą środowisko psychologiczne czeka od lat. Co zmieni w tym zawodzie? Wyjaśnia dr n. med. Łukasz Mueldner‑Nieckowski, konsultant krajowy w dziedzinie psychoterapii. Jednak wielu ekspertów ma wątpliwości, czy ustawa spełni ich oczekiwania.",
+      "originalTitle": "Co zmieni ustawa o psychoterapii? Krajowy konsultant tłumaczy",
+      "originalDescription": "W Sejmie trwają prace nad ustawą o zawodzie psychoterapeuty, na którą środowisko psychologiczne czeka od lat. Co zmieni w tym zawodzie? Wyjaśnia dr n. med. Łukasz Mueldner‑Nieckowski, konsultant krajowy w dziedzinie psychoterapii. Jednak wielu ekspertów ma wątpliwości, czy ustawa spełni ich oczekiwania."
+    },
+    {
+      "title": "Sześć kilometrów na godzinę. Będzie limit prędkości na chodnikach",
       "link": "https://tvn24.pl/biznes/ze-swiata/slowacja-limit-predkosci-na-chodniku-tez-dla-pieszych-jak-oni-to-beda-monitorowac-st8726838?source=rss",
       "pubDate": "Thu, 30 Oct 2025 08:33:38 GMT",
-      "description": "• Piesi na Słowacji od nowego roku będą musieli uważać, z jaką prędkością się poruszają w terenie zabudowanym.\n• Słowaccy posłowie zdecydowali o wprowadzeniu ograniczenia prędkości na chodnikach.\n• Ograniczenie prędkości na chodnikach wynosi sześć kilometrów na godzinę.",
+      "description": "Piesi na Słowacji od nowego roku będą musieli uważać, z jaką prędkością się poruszają w terenie zabudowanym. Słowaccy posłowie zdecydowali o wprowadzeniu ograniczenia prędkości na chodnikach do sześciu kilometrów na godzinę.",
       "originalTitle": "Sześć kilometrów na godzinę. Będzie limit prędkości na chodnikach",
       "originalDescription": "Piesi na Słowacji od nowego roku będą musieli uważać, z jaką prędkością się poruszają w terenie zabudowanym. Słowaccy posłowie zdecydowali o wprowadzeniu ograniczenia prędkości na chodnikach do sześciu kilometrów na godzinę."
     },
     {
-      "title": "Minister finansów o sytuacji finansów publicznych",
+      "title": "Minister finansów: nie ma żadnego kryzysu finansów publicznych",
       "link": "https://tvn24.pl/biznes/pieniadze/minister-finansow-nie-ma-zadnego-kryzysu-finansow-publicznych-st8726805?source=rss",
       "pubDate": "Thu, 30 Oct 2025 08:33:14 GMT",
-      "description": "• Andrzej Domański, minister finansów, wypowiedział się na temat kryzysu finansów publicznych w czwartek na antenie TVN24.\n• Andrzej Domański odniósł się do słów prezesa PiS, Jarosława Kaczyńskiego, wygłoszonych na sobotniej konwencji.\n• Jarosław Kaczyński mówił o konieczności naprawy budżetu.\n• Andrzej Domański określił Jarosława Kaczyńskiego jako \"skrajnie niewiarygodnego\".\n• Powodem tej oceny jest fakt, że Jarosław Kaczyński wyraża troskę o deficyt i dług publiczny, a jednocześnie przedstawia propozycje programowe, które mogą kosztować setki miliardów złotych.\n• Jarosław Kaczyński przedstawił swoje propozycje programowe na swoim kongresie.",
+      "description": "- Nie ma żadnego kryzysu finansów publicznych - powiedział w czwartek na antenie TVN24 Andrzej Domański minister finansów, odnosząc się do słów prezesa PiS, Jarosława Kaczyńskiego z sobotniej konwencji o konieczności naprawy budżetu. - Jest skrajnie niewiarygodny, bo z jednej strony mówi o finansach publicznych, wyraża taką troskę o deficyt, o dług publiczny, a z drugiej strony na swoim kongresie przedstawia propozycje programowe, pewne idee idące w setki miliardów złotych - stwierdził szef resortu finansów.",
       "originalTitle": "Minister finansów: nie ma żadnego kryzysu finansów publicznych",
       "originalDescription": "- Nie ma żadnego kryzysu finansów publicznych - powiedział w czwartek na antenie TVN24 Andrzej Domański minister finansów, odnosząc się do słów prezesa PiS, Jarosława Kaczyńskiego z sobotniej konwencji o konieczności naprawy budżetu. - Jest skrajnie niewiarygodny, bo z jednej strony mówi o finansach publicznych, wyraża taką troskę o deficyt, o dług publiczny, a z drugiej strony na swoim kongresie przedstawia propozycje programowe, pewne idee idące w setki miliardów złotych - stwierdził szef resortu finansów."
     },
     {
-      "title": "Lotniska w Radomiu i Lublinie nieczynne",
+      "title": "Lotniska w Radomiu i Lublinie czasowo zamknięte",
       "link": "https://tvn24.pl/polska/lotniska-w-radomiu-i-lublinie-czasowo-zamkniete-komunikat-polskiej-agencji-zeglugi-powietrznej-st8726731?source=rss",
       "pubDate": "Thu, 30 Oct 2025 06:19:05 GMT",
       "description": "Lotniska w Radomiu i Lublinie wznowiły operacje lotnicze po tym, gdy zostały czasowo zamknięte. Wcześniej tego dnia - w związku z atakami Rosji na Ukrainę - poderwano polskie i sojusznicze samoloty.",
@@ -34,54 +82,6 @@
       "description": "Na trasie S61 w miejscowości Kuków na wysokości Suwałk (Podlaskie) doszło zderzenia lawety i trzech ciężarówek. Jedna osoba zginęła. Droga w kierunku Litwy jest zablokowana.",
       "originalTitle": "Zderzenie lawety i trzech ciężarówek. Trwa akcja ratunkowa",
       "originalDescription": "Na trasie S61 w miejscowości Kuków na wysokości Suwałk (Podlaskie) doszło zderzenia lawety i trzech ciężarówek. Jedna osoba zginęła. Droga w kierunku Litwy jest zablokowana."
-    },
-    {
-      "title": "Alert RCB. Silny wiatr. \"Zachowaj ostrożność podczas aktywności na zewnątrz\"",
-      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-30-31-10-silny-wiatr-nie-parkuj-pod-drzewami-st8726899?source=rss",
-      "pubDate": "Thu, 30 Oct 2025 08:27:10 GMT",
-      "description": "Alert RCB. W czwartek i piątek na terenie dwóch województw spodziewane są niebezpieczne podmuchy wiatru. Eksperci apelują o zachowanie ostrożności.",
-      "originalTitle": "Alert RCB. Silny wiatr. \"Zachowaj ostrożność podczas aktywności na zewnątrz\"",
-      "originalDescription": "Alert RCB. W czwartek i piątek na terenie dwóch województw spodziewane są niebezpieczne podmuchy wiatru. Eksperci apelują o zachowanie ostrożności."
-    },
-    {
-      "title": "Co ustalili Trump i Xi podczas \"niesamowitego spotkania\"?",
-      "link": "https://tvn24.pl/biznes/ze-swiata/spotkanie-donald-trump-z-xi-jinpingiem-w-korei-poludniowej-co-ustalono-st8726857?source=rss",
-      "pubDate": "Thu, 30 Oct 2025 08:10:29 GMT",
-      "description": "\"Niesamowite\", \"w skali od zera do dziesięciu, gdzie 10 to ocena najwyższa, powiedziałbym, że spotkanie oceniam na 12\" - tak Donald Trump podsumował spotkanie z chińskim przywódcą. Prezydent USA poinformował w czwartek, że uzgodnił z Xi Jinpingiem obniżenie ceł nałożonych na Chiny w zamian za zdecydowane ukrócenie nielegalnego handlu fentanylem, wznowienie zakupów amerykańskiej soi i utrzymanie eksportu pierwiastków ziem rzadkich.",
-      "originalTitle": "Co ustalili Trump i Xi podczas \"niesamowitego spotkania\"?",
-      "originalDescription": "\"Niesamowite\", \"w skali od zera do dziesięciu, gdzie 10 to ocena najwyższa, powiedziałbym, że spotkanie oceniam na 12\" - tak Donald Trump podsumował spotkanie z chińskim przywódcą. Prezydent USA poinformował w czwartek, że uzgodnił z Xi Jinpingiem obniżenie ceł nałożonych na Chiny w zamian za zdecydowane ukrócenie nielegalnego handlu fentanylem, wznowienie zakupów amerykańskiej soi i utrzymanie eksportu pierwiastków ziem rzadkich."
-    },
-    {
-      "title": "Była bliżej Ziemi niż Księżyc. Zauważono ją tuż przed przelotem",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/byla-blizej-ziemi-niz-ksiezyc-zauwazono-ja-tuz-przed-przelotem-st8726820?source=rss",
-      "pubDate": "Thu, 30 Oct 2025 08:09:42 GMT",
-      "description": "W środę obok Ziemi, w odległości bliższej Księżyc przeleciała asteroida o średnicy kilkudziesięciu metrów - wynika z danych NASA. Tego samego dnia naszą planetę minęły także co najmniej dwie jeszcze mniejsze asteroidy.",
-      "originalTitle": "Była bliżej Ziemi niż Księżyc. Zauważono ją tuż przed przelotem",
-      "originalDescription": "W środę obok Ziemi, w odległości bliższej Księżyc przeleciała asteroida o średnicy kilkudziesięciu metrów - wynika z danych NASA. Tego samego dnia naszą planetę minęły także co najmniej dwie jeszcze mniejsze asteroidy."
-    },
-    {
-      "title": "Zderzenie się z łosiem. Kierowca trafił do szpitala",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/pomiechowek-auto-zderzylo-sie-z-losiem-kierowca-trafil-do-szpitala-st8726840?source=rss",
-      "pubDate": "Thu, 30 Oct 2025 08:04:53 GMT",
-      "description": "Kierowca auta osobowego został poszkodowany w wyniku zderzenia z łosiem. Do zdarzenia doszło o poranku na jednej z lokalnych dróg powiatu nowodworskiego. Zwierzę nie przeżyło.",
-      "originalTitle": "Zderzenie się z łosiem. Kierowca trafił do szpitala",
-      "originalDescription": "Kierowca auta osobowego został poszkodowany w wyniku zderzenia z łosiem. Do zdarzenia doszło o poranku na jednej z lokalnych dróg powiatu nowodworskiego. Zwierzę nie przeżyło."
-    },
-    {
-      "title": "Rosjanie uderzyli w internat i bloki. \"Wśród rannych jest sześcioro dzieci\"",
-      "link": "https://tvn24.pl/swiat/ukraina-rosjanie-zaatakowali-na-zachodzie-kraju-sa-ranni-st8726815?source=rss",
-      "pubDate": "Thu, 30 Oct 2025 08:04:04 GMT",
-      "description": "Rosjanie zaatakowali internat i uszkodzili kilka bloków mieszkalnych w Zaporożu - przekazały władze. Rannych zostało co najmniej kilkanaście osób, w tym dzieci. Celem rosyjskich rakiet i ciężkich dronów uderzeniowych były też obiekty energetyczne.",
-      "originalTitle": "Rosjanie uderzyli w internat i bloki. \"Wśród rannych jest sześcioro dzieci\"",
-      "originalDescription": "Rosjanie zaatakowali internat i uszkodzili kilka bloków mieszkalnych w Zaporożu - przekazały władze. Rannych zostało co najmniej kilkanaście osób, w tym dzieci. Celem rosyjskich rakiet i ciężkich dronów uderzeniowych były też obiekty energetyczne."
-    },
-    {
-      "title": "Małpy uciekły z rozbitej ciężarówki. Niemal wszystkie zostały uśmiercone",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-malpy-uciekly-z-rozbitej-ciezarowki-niemal-wszystkie-zostaly-usmiercone-st8726864?source=rss",
-      "pubDate": "Thu, 30 Oct 2025 08:00:54 GMT",
-      "description": "Ciężarówka przewożąca makaki królewskie z Uniwersytetu Tulane w Nowym Orleanie rozbiła się na autostradzie, a zwierzęta uciekły z roztrzaskanych klatek. Policja błędnie poinformowano, że są \"agresywne i chore\". Niemal wszystkie zostały uśmiercone. Trzy pozostają na wolności, są poszukiwane.",
-      "originalTitle": "Małpy uciekły z rozbitej ciężarówki. Niemal wszystkie zostały uśmiercone",
-      "originalDescription": "Ciężarówka przewożąca makaki królewskie z Uniwersytetu Tulane w Nowym Orleanie rozbiła się na autostradzie, a zwierzęta uciekły z roztrzaskanych klatek. Policja błędnie poinformowano, że są \"agresywne i chore\". Niemal wszystkie zostały uśmiercone. Trzy pozostają na wolności, są poszukiwane."
     }
   ]
 }
