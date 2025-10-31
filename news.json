@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-10-31T16:07:21.064Z",
+  "lastUpdate": "2025-10-31T16:40:09.185Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Nowy lek w leczeniu glejaków",
+      "title": "Dwaj chłopcy zniknęli z placu zabaw",
+      "link": "https://tvn24.pl/krakow/krakow-z-placu-zabaw-zniknely-dzieci-ogloszono-alarm-skakaly-po-kanapie-w-galerii-st8730498?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 16:32:36 GMT",
+      "description": "• 140 policjantów szukało w czwartek wieczorem dwóch sześciolatków.\n• Chłopcy uciekli spod opieki dorosłej osoby w Krakowie.\n• Chłopcy oddalili się \"dla żartu\".\n• Znaleziono ich w galerii handlowej.\n• Chłopcy skakali po kanapie w galerii handlowej.",
+      "originalTitle": "Z placu zabaw zniknęli dwaj chłopcy, \"ogłoszono alarm\"",
+      "originalDescription": "140 policjantów szukało w czwartek wieczorem dwóch sześciolatków, którzy uciekli spod opieki dorosłej osoby w Krakowie. Jak przekazała policja, chłopcy oddalili się \"dla żartu\". Znaleziono ich w galerii handlowej, gdzie skakali po kanapie."
+    },
+    {
+      "title": "Zimowe warunki na Islandii utrudniają jazdę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/atak-zimy-na-islandii-reykjavik-rekordowe-opady-kierowcy-porzucali-auta-st8730377?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 16:27:19 GMT",
+      "description": "Islandia doświadczyła w ostatnich dniach ataku zimy. W stolicy kraju zaobserwowano największe opady śniegu dla października w historii. Pogoda zakłóciła transport drogowy i lotniczy.",
+      "originalTitle": "Atak zimy na Islandii. Kierowcy porzucali auta",
+      "originalDescription": "Islandia doświadczyła w ostatnich dniach ataku zimy. W stolicy kraju zaobserwowano największe opady śniegu dla października w historii. Pogoda zakłóciła transport drogowy i lotniczy."
+    },
+    {
+      "title": "Policjant zginął w wypadku",
+      "link": "https://tvn24.pl/opole/brzeg-policjant-zginal-w-wypadku-jechal-rowerem-st8730577?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 16:20:33 GMT",
+      "description": "• Nie żyje 56-letni policjant.\n• Policjant zderzył się z samochodem osobowym.\n• Wypadek nastąpił podczas jazdy na rowerze.\n• Miejsce wypadku to Brzeg.\n• Brzeg położony jest w województwie Opolskim.",
+      "originalTitle": "Tragiczny wypadek, nie żyje policjant",
+      "originalDescription": "Nie żyje 56-letni policjant, który w Brzegu (Opolskie) podczas jazdy na rowerze zderzył się z samochodem osobowym."
+    },
+    {
+      "title": "Strażnicy zaskoczeni zachowaniem",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-wezwali-straz-miejska-furtka-byla-pod-pradem-st8729840?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 16:15:36 GMT",
+      "description": "Na niespodziewane przeszkody natrafili warszawscy strażnicy miejscy wezwani do wyjaśnienia sprawy nieobyczajnych wybryków na jednej z posesji. Furtka była pod prądem.",
+      "originalTitle": "Wezwanie dotyczyło \"nieobyczajnych wybryków\". Strażników poraziło co innego",
+      "originalDescription": "Na niespodziewane przeszkody natrafili warszawscy strażnicy miejscy wezwani do wyjaśnienia sprawy nieobyczajnych wybryków na jednej z posesji. Furtka była pod prądem."
+    },
+    {
+      "title": "Piły herbatę, potem zabijała. 30 lat więzienia za śmierć dwóch kobiet",
+      "link": "https://tvn24.pl/poznan/poznan-pily-herbate-potem-zabijala-30-lat-wiezienia-za-smierc-dwoch-kobiet-st8730565?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 16:11:33 GMT",
+      "description": "55-letnia Małgorzata R., oskarżona o dokonanie zabójstw dwóch seniorek w 2012 i 2013 roku, skazana została na 30 lat więzienia. Na jej trop wpadli po latach policjanci z wielkopolskiego Archiwum X. Wyrok nie jest prawomocny.",
+      "originalTitle": "Piły herbatę, potem zabijała. 30 lat więzienia za śmierć dwóch kobiet",
+      "originalDescription": "55-letnia Małgorzata R., oskarżona o dokonanie zabójstw dwóch seniorek w 2012 i 2013 roku, skazana została na 30 lat więzienia. Na jej trop wpadli po latach policjanci z wielkopolskiego Archiwum X. Wyrok nie jest prawomocny."
+    },
+    {
+      "title": "Jesse Eisenberg odda nerkę nieznajomej osobie. \"Jestem podekscytowany\"",
+      "link": "https://tvn24.pl/kultura-i-styl/aktor-jesse-eisenberg-przekaze-nerke-nieznajomej-osobie-st8729527?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 16:08:33 GMT",
+      "description": "Aktor Jesse Eisenberg podzielił się niezwykłą wiadomością. Opowiedział o planach przekazania nerki nieznajomej osobie. Zaznaczył, że myślał o tym od dekady.",
+      "originalTitle": "Jesse Eisenberg odda nerkę nieznajomej osobie. \"Jestem podekscytowany\"",
+      "originalDescription": "Aktor Jesse Eisenberg podzielił się niezwykłą wiadomością. Opowiedział o planach przekazania nerki nieznajomej osobie. Zaznaczył, że myślał o tym od dekady."
+    },
+    {
+      "title": "Przełom w leczeniu glejaków. Lek atakuje \"piętę achillesową komórek nowotworowych\"",
       "link": "https://tvn24.pl/zdrowie/przelom-w-leczeniu-glejakow-lek-worasydenib-atakuje-piete-achillesowa-komorek-nowotworowych-st8730517?source=rss",
       "pubDate": "Fri, 31 Oct 2025 15:50:51 GMT",
-      "description": "• Europejska Agencja Leków (EMA) zatwierdziła nowy lek przeznaczony do leczenia glejaków.\n• To pierwsza taka terapia od ponad 20 lat.\n• Glejaki są jedną z najtrudniejszych do leczenia grup nowotworów mózgu.\n• Prof. Sergiusz Nawrocki jest kierownikiem Katedry Onkologii i Kliniki Radioterapii Uniwersytetu Warmińsko-Mazurskiego w Olsztynie.\n• Prof. Sergiusz Nawrocki podkreśla, że nowy lek to długo wyczekiwany przełom.\n• Nowy lek dotyczy jednak wybranej grupy pacjentów.",
+      "description": "Europejska Agencja Leków (EMA) zatwierdziła nowy lek przeznaczony do leczenia glejaków. To pierwsza taka terapia od ponad 20 lat. Glejaki są jedną z najtrudniejszych do leczenia grup nowotworów mózgu. Jak podkreśla prof. Sergiusz Nawrocki, kierownik Katedry Onkologii i Kliniki Radioterapii Uniwersytetu Warmińsko-Mazurskiego w Olsztynie, to długo wyczekiwany przełom. Póki co dotyczy jednak wybranej grupy pacjentów.",
       "originalTitle": "Przełom w leczeniu glejaków. Lek atakuje \"piętę achillesową komórek nowotworowych\"",
       "originalDescription": "Europejska Agencja Leków (EMA) zatwierdziła nowy lek przeznaczony do leczenia glejaków. To pierwsza taka terapia od ponad 20 lat. Glejaki są jedną z najtrudniejszych do leczenia grup nowotworów mózgu. Jak podkreśla prof. Sergiusz Nawrocki, kierownik Katedry Onkologii i Kliniki Radioterapii Uniwersytetu Warmińsko-Mazurskiego w Olsztynie, to długo wyczekiwany przełom. Póki co dotyczy jednak wybranej grupy pacjentów."
     },
     {
-      "title": "Wypadek tira w Holandii",
+      "title": "Co robił kierowca tira? Wstrząsające nagranie z Holandii",
       "link": "https://tvn24.pl/swiat/holandia-pociag-uderzyl-w-ciezarowke-co-robil-kierowca-tira-st8730349?source=rss",
       "pubDate": "Fri, 31 Oct 2025 15:47:26 GMT",
-      "description": "• Pociąg uderzył w ciężarówkę na przejeździe kolejowym niedaleko miejscowości Meteren w Holandii.\n• Pięć osób zostało rannych.\n• Skład się wykoleił.\n• Naprawa torów może trochę potrwać.",
+      "description": "Pociąg uderzył w ciężarówkę na przejeździe kolejowym niedaleko miejscowości Meteren w Holandii. Pięć osób zostało rannych, skład się wykoleił, a naprawa torów może trochę potrwać.",
       "originalTitle": "Co robił kierowca tira? Wstrząsające nagranie z Holandii",
       "originalDescription": "Pociąg uderzył w ciężarówkę na przejeździe kolejowym niedaleko miejscowości Meteren w Holandii. Pięć osób zostało rannych, skład się wykoleił, a naprawa torów może trochę potrwać."
     },
     {
-      "title": "D66 wygrywa, lider partii zyskuje",
+      "title": "Wygrana D66 i szansa dla lidera partii. \"Populistyczna fala nie jest czymś stałym\"",
       "link": "https://tvn24.pl/swiat/wybory-w-holandii-anp-demokraci-66-na-czele-tuz-za-nia-uplasowala-sie-skrajnie-prawicowa-partia-wolnosci-st8729799?source=rss",
       "pubDate": "Fri, 31 Oct 2025 15:42:02 GMT",
-      "description": "• Wyniki z niemal wszystkich gmin wskazują na zwycięstwo Demokratów 66 w holenderskich wyborach.\n• Agencja prasowa ANP podała informację o zwycięstwie Demokratów 66.\n• Partia Demokratów 66 od czasu ostatniego głosowania w 2023 roku potroiła swoje poparcie.\n• Lider Demokratów 66, Rob Jetten, ma szansę zostać najmłodszym premierem w historii Holandii.\n• W niższej izbie parlamentu znajdzie się kilkanaście innych ugrupowań poza Demokratami 66.",
+      "description": "Wyniki z niemal wszystkich gmin wskazują na zwycięstwo Demokratów 66 w holenderskich wyborach - podała agencja prasowa ANP. Od czasu ostatniego głosowania w 2023 roku partia potroiła swoje poparcie, a jej lider Rob Jetten ma szansę zostać najmłodszym premierem w historii Holandii. Poza nią D66 w niższej izbie parlamentu znajdzie się jeszcze kilkanaście innych ugrupowań.",
       "originalTitle": "Wygrana D66 i szansa dla lidera partii. \"Populistyczna fala nie jest czymś stałym\"",
       "originalDescription": "Wyniki z niemal wszystkich gmin wskazują na zwycięstwo Demokratów 66 w holenderskich wyborach - podała agencja prasowa ANP. Od czasu ostatniego głosowania w 2023 roku partia potroiła swoje poparcie, a jej lider Rob Jetten ma szansę zostać najmłodszym premierem w historii Holandii. Poza nią D66 w niższej izbie parlamentu znajdzie się jeszcze kilkanaście innych ugrupowań."
     },
@@ -34,54 +82,6 @@
       "description": "Szkoła podstawowa we Włodarach (Opolskie) została w czwartek rano ewakuowana po tym, jak w kierunku budynku padły strzały. Dzieci zostały odebrane przez rodziców. 38-latek podejrzany o ostrzelanie szkoły usłyszał zarzuty i został tymczasowo aresztowany.",
       "originalTitle": "Strzelał w kierunku szkoły, zarzuty i areszt",
       "originalDescription": "Szkoła podstawowa we Włodarach (Opolskie) została w czwartek rano ewakuowana po tym, jak w kierunku budynku padły strzały. Dzieci zostały odebrane przez rodziców. 38-latek podejrzany o ostrzelanie szkoły usłyszał zarzuty i został tymczasowo aresztowany."
-    },
-    {
-      "title": "Pięć ważnych rzeczy z wniosku w sprawie Ziobry",
-      "link": "https://tvn24.pl/polska/wniosek-prokuratury-w-sprawie-zbigniewa-ziobry-piec-waznych-elementow-st8730337?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 15:33:33 GMT",
-      "description": "Z bardzo obszernego, liczącego blisko 160 stron, wniosku o uchylenie immunitetu Zbigniewowi Ziobrze, wyłuskaliśmy pięć elementów. Pokazują one rzeczywistą rolę byłego ministra sprawiedliwości w procederze wyciągania pieniędzy z Funduszu Sprawiedliwości na polityczne potrzeby jego partii. Ziobro nadzorował fundusz, który miał służyć ofiarom przestępstw.",
-      "originalTitle": "Pięć ważnych rzeczy z wniosku w sprawie Ziobry",
-      "originalDescription": "Z bardzo obszernego, liczącego blisko 160 stron, wniosku o uchylenie immunitetu Zbigniewowi Ziobrze, wyłuskaliśmy pięć elementów. Pokazują one rzeczywistą rolę byłego ministra sprawiedliwości w procederze wyciągania pieniędzy z Funduszu Sprawiedliwości na polityczne potrzeby jego partii. Ziobro nadzorował fundusz, który miał służyć ofiarom przestępstw."
-    },
-    {
-      "title": "Utrudnienia w bankach. \"Wystąpią przerwy w dostępie do usług\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/utrudnienia-i-prace-serwisowe-w-bankach-ing-bank-slaski-bnp-paribas-bank-pocztowy-st8730346?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 15:29:40 GMT",
-      "description": "ING Bank Śląski, BNP Paribas oraz Bank Pocztowy - te instytucje finansowe zapowiedziały prace serwisowe w najbliższych dniach. W związku z tym klienci mogą mieć problemy w dostępie do niektórych usług.",
-      "originalTitle": "Utrudnienia w bankach. \"Wystąpią przerwy w dostępie do usług\"",
-      "originalDescription": "ING Bank Śląski, BNP Paribas oraz Bank Pocztowy - te instytucje finansowe zapowiedziały prace serwisowe w najbliższych dniach. W związku z tym klienci mogą mieć problemy w dostępie do niektórych usług."
-    },
-    {
-      "title": "Wyciągnęli kobietę z szamba, nie przeżyła. Obok było wychłodzone dziecko",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolomin-cialo-kobiety-w-szambie-prokuratura-wszczyna-sledztwo-st8730366?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 15:27:53 GMT",
-      "description": "W miejscowości Chrzęsne niedaleko Warszawy z szamba wyłowiono ciało 44-letniej kobiety. Obok studni znajdowało się 7-letnie dziecko, które było wychłodzone i wymagało pomocy medycznej. Prokuratura poinformowała o wszczęciu śledztwa w tej sprawie.",
-      "originalTitle": "Wyciągnęli kobietę z szamba, nie przeżyła. Obok było wychłodzone dziecko",
-      "originalDescription": "W miejscowości Chrzęsne niedaleko Warszawy z szamba wyłowiono ciało 44-letniej kobiety. Obok studni znajdowało się 7-letnie dziecko, które było wychłodzone i wymagało pomocy medycznej. Prokuratura poinformowała o wszczęciu śledztwa w tej sprawie."
-    },
-    {
-      "title": "Blackout na Jamajce. Te zdjęcia pokazują siłę huraganu",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/huragan-melissa-blackout-na-jamajce-te-zdjecia-pokazuja-skale-zniszczen-st8730204?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 15:23:35 GMT",
-      "description": "Huragan Melissa spowodował znaczne zniszczenia w infrastrukturze energetycznej Jamajki. Skalę przerw w dostawie prądu widać na zdjęciach satelitarnych.",
-      "originalTitle": "Blackout na Jamajce. Te zdjęcia pokazują siłę huraganu",
-      "originalDescription": "Huragan Melissa spowodował znaczne zniszczenia w infrastrukturze energetycznej Jamajki. Skalę przerw w dostawie prądu widać na zdjęciach satelitarnych."
-    },
-    {
-      "title": "Paulina Młynarska wspomina ojca we wzruszającym wpisie",
-      "link": "https://tvn24.pl/polska/paulina-mlynarska-hume-we-wzruszajacym-wpisie-wspomina-ojca-st8730146?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 15:18:33 GMT",
-      "description": "Córka Wojciecha Młynarskiego - poety, autora tekstów i wykonawcy wielu wielkich przebojów - podzieliła się wzruszającym wspomnieniem ojca z okazji zbliżającego się dnia Wszystkich Świętych. Opublikowała także wspólne zdjęcie. \"Tato, pamiętam, tęsknię\".",
-      "originalTitle": "Paulina Młynarska wspomina ojca we wzruszającym wpisie",
-      "originalDescription": "Córka Wojciecha Młynarskiego - poety, autora tekstów i wykonawcy wielu wielkich przebojów - podzieliła się wzruszającym wspomnieniem ojca z okazji zbliżającego się dnia Wszystkich Świętych. Opublikowała także wspólne zdjęcie. \"Tato, pamiętam, tęsknię\"."
-    },
-    {
-      "title": "Wybuch gazu, trzy osoby poparzone",
-      "link": "https://tvn24.pl/lodz/rawa-mazowiecka-wybuch-gazu-trzy-osoby-poparzone-st8730402?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 15:08:21 GMT",
-      "description": "Do wybuchu gazu doszło w domu w Rawie Mazowieckiej. Budynek częściowo się zawalił, trzy osoby zostały poparzone.",
-      "originalTitle": "Wybuch gazu, trzy osoby poparzone",
-      "originalDescription": "Do wybuchu gazu doszło w domu w Rawie Mazowieckiej. Budynek częściowo się zawalił, trzy osoby zostały poparzone."
     }
   ]
 }
