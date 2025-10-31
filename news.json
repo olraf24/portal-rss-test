@@ -1,21 +1,61 @@
 {
-  "lastUpdate": "2025-10-31T17:36:39.648Z",
+  "lastUpdate": "2025-10-31T18:08:11.645Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wody Polskie skierowały zawiadomienie do prokuratury",
+      "title": "Prognoza pogody na 1 listopada",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobote-1-11-prognoza-na-wszystkich-swietych-czeka-nas-pogodna-ale-chlodna-noc-st8730558?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 18:02:05 GMT",
+      "description": "• Pogoda jest opisana na jutro, który jest sobotą.\n• Data jutrzejsza to 1.11.\n• Noc będzie chłodna, ale pogodna.\n• Temperatura w ciągu dnia Wszystkich Świętych może sięgać nawet 18 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - sobotę, 1.11. Prognoza na Wszystkich Świętych",
+      "originalDescription": "Pogoda na jutro - sobota, 1.11, Przed nami chłodna, ale pogodna noc. Temperatura w ciągu dnia Wszystkich Świętych sięgnie nawet 18 stopni Celsjusza."
+    },
+    {
+      "title": "Stanowisko USA wobec Wenezueli",
+      "link": "https://tvn24.pl/swiat/usa-wenezuela-stany-zjednoczone-zaatakuja-donald-trump-odpowiedzial-jednym-slowem-st8730649?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 17:52:40 GMT",
+      "description": "Donald Trump zaprzeczył w piątek doniesieniom, jakoby rozważał przeprowadzenie ataków na terytorium lądowym Wenezueli. Wcześniej media podały, że administracja prezydenta USA podjęła już taką decyzję.",
+      "originalTitle": "USA zaatakują w Wenezueli? Donald Trump odpowiedział jednym słowem",
+      "originalDescription": "Donald Trump zaprzeczył w piątek doniesieniom, jakoby rozważał przeprowadzenie ataków na terytorium lądowym Wenezueli. Wcześniej media podały, że administracja prezydenta USA podjęła już taką decyzję."
+    },
+    {
+      "title": "Zmiana wyroku w sprawie potrójnego zabójstwa",
+      "link": "https://tvn24.pl/poznan/poznan-uchylone-dozywocie-za-potrojne-zabojstwo-nowe-ustalenia-st8730630?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 17:49:23 GMT",
+      "description": "• Sędzia Henryk Komisarski uchylił wyrok dla Serhija T. za potrójne zabójstwo.\n• Sędzia Henryk Komisarski opiniował pracę \"neosędziego\" Daniela Jurkiewicza w przeszłości.\n• Daniel Jurkiewicz w pierwszej instancji skazał oskarżonego na dożywocie.\n• Część prawników twierdzi, że Komisarski napisał Jurkiewiczowi \"bardzo dobrą opinię\".\n• Rzeczniczka poznańskiego sądu apelacyjnego stwierdziła, że Krajowa Rada Sądownictwa potraktowała ją \"wybiórczo\".",
+      "originalTitle": "Uchylone dożywocie za potrójne zabójstwo. Nowe ustalenia",
+      "originalDescription": "Sędzia Henryk Komisarski, który uchylił wyrok dla Serhija T. za potrójne zabójstwo, w przeszłości opiniował pracę \"neosędziego\" Daniela Jurkiewicza. To on w pierwszej instancji skazał oskarżonego na dożywocie. Część prawników podnosi, że Komisarski miał mu napisać \"bardzo dobrą opinię\". Zdaniem rzeczniczki poznańskiego sądu apelacyjnego Krajowa Rada Sądownictwa potraktowała ją jednak \"wybiórczo\"."
+    },
+    {
+      "title": "\"Ameryka\" do kupienia. Cena zwala z nóg",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zloty-sedes-ameryka-maurizio-cattelana-do-kupienia-cena-wywolawcza-zwala-z-nog-st8730631?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 17:44:41 GMT",
+      "description": "Dom aukcyjny Sotheby's wystawia na aukcję złoty sedes włoskiego artysty Maurizio Cattelana. Rzeźba ma tytuł \"Ameryka\". Cena wywoławcza to 10 milionów dolarów, a aukcja odbędzie się 18 listopada w Nowym Jorku - podała agencja AP.",
+      "originalTitle": "\"Ameryka\" do kupienia. Cena zwala z nóg",
+      "originalDescription": "Dom aukcyjny Sotheby's wystawia na aukcję złoty sedes włoskiego artysty Maurizio Cattelana. Rzeźba ma tytuł \"Ameryka\". Cena wywoławcza to 10 milionów dolarów, a aukcja odbędzie się 18 listopada w Nowym Jorku - podała agencja AP."
+    },
+    {
+      "title": "Tomahawki dla Ukrainy? CNN: jest decyzja Pentagonu",
+      "link": "https://tvn24.pl/swiat/tomahawki-dla-ukrainy-cnn-jest-decyzja-pentagonu-st8730692?source=rss",
+      "pubDate": "Fri, 31 Oct 2025 17:34:01 GMT",
+      "description": "Pentagon wyraził zgodę na przekazanie Ukrainie pocisków Tomahawk - poinformował w piątek CNN, powołując się na źródła w USA i Europie. Ostateczna decyzja należy teraz do Donalda Trumpa.",
+      "originalTitle": "Tomahawki dla Ukrainy? CNN: jest decyzja Pentagonu",
+      "originalDescription": "Pentagon wyraził zgodę na przekazanie Ukrainie pocisków Tomahawk - poinformował w piątek CNN, powołując się na źródła w USA i Europie. Ostateczna decyzja należy teraz do Donalda Trumpa."
+    },
+    {
+      "title": "Wody Polskie zawiadomiły prokuraturę w sprawie działki pod CPK",
       "link": "https://tvn24.pl/biznes/z-kraju/cpk-wody-polskie-zawiadomily-prokurature-w-sprawie-dzialki-w-zablotni-st8730679?source=rss",
       "pubDate": "Fri, 31 Oct 2025 17:21:48 GMT",
-      "description": "• Prezes Wód Polskich złożył do prokuratury zawiadomienie o możliwości popełnienia przestępstwa.\n• Zawiadomienie dotyczy sprawy działki w Zabłotni.\n• W sprawie są podejrzani były prezes i wiceprezes Wód Polskich.\n• Chodzi o rozstrzygnięcie, czy na działce był rów melioracyjny czy ciek naturalny.\n• Na działce ma być linia kolejowa do Centralnego Portu Komunikacyjnego (CPK).\n• Informacja o zawiadomieniu została podana w komunikacie.",
+      "description": "Prezes Wód Polskich złożył do prokuratury zawiadomienie o możliwości popełnienia przestępstwa w sprawie działki w Zabłotni przez byłego prezesa i wiceprezesa tej instytucji - podano w komunikacie. Chodzi o rozstrzygnięcie, czy na działce, gdzie ma być linia kolejowa do Centralnego Portu Komunikacyjnego (CPK), był rów melioracyjny czy ciek naturalny.",
       "originalTitle": "Wody Polskie zawiadomiły prokuraturę w sprawie działki pod CPK",
       "originalDescription": "Prezes Wód Polskich złożył do prokuratury zawiadomienie o możliwości popełnienia przestępstwa w sprawie działki w Zabłotni przez byłego prezesa i wiceprezesa tej instytucji - podano w komunikacie. Chodzi o rozstrzygnięcie, czy na działce, gdzie ma być linia kolejowa do Centralnego Portu Komunikacyjnego (CPK), był rów melioracyjny czy ciek naturalny."
     },
     {
-      "title": "Mus owocowy i faktura Roberta Telusa",
+      "title": "Mus owocowy ze zdjęciem Roberta Telusa i faktura. \"Nie zgadza się nic\"",
       "link": "https://tvn24.pl/polska/mus-owocowy-ze-zdjeciem-roberta-telusa-kupilem-zaplacilem-wp-nic-na-fakturach-sie-nie-zgadza-st8728847?source=rss",
       "pubDate": "Fri, 31 Oct 2025 05:05:07 GMT",
-      "description": "• Spółka Dawtona wyprodukowała specjalnie dla polityków PiS serię tubek z musami owocowymi.\n• Wiceprezes spółki Dawtona kupił działkę przeznaczoną na cele Centralnego Portu Komunikacyjnego.\n• Wirtualna Polska napisała o tym w piątek.\n• Na fakturach za te kampanijne gadżety \"nie zgadza się nic\".\n• Były minister rolnictwa Robert Telus został zapytany przez dziennikarza redakcji Radia Nowy Świat o \"gadżet kampanijny\".\n• Gadżet kampanijny, o który został zapytany Robert Telus, to mus owocowy z jego zdjęciem.\n• Robert Telus odpowiedział, że \"Kupiłem, zapłaciłem i wszystko rozliczyłem\" na pytanie o mus owocowy.\n• Zapytanie Roberta Telusa przez dziennikarza redakcji Radia Nowy Świat nastąpiło w czwartek.",
+      "description": "Spółka Dawtona, której wiceprezes kupił działkę przeznaczoną na cele Centralnego Portu Komunikacyjnego, wyprodukowała specjalnie dla polityków PiS serię tubek z musami owocowymi - napisała w piątek Wirtualna Polska. Podała, że na fakturach za te kampanijne gadżety \"nie zgadza się nic\". W czwartek były minister rolnictwa Robert Telus został zapytany przez dziennikarza redakcji Radia Nowy Świat o \"gadżet kampanijny\", czyli mus owocowy z jego zdjęciem. \"Kupiłem, zapłaciłem i wszystko rozliczyłem\" - odpowiedział.",
       "originalTitle": "Mus owocowy ze zdjęciem Roberta Telusa i faktura. \"Nie zgadza się nic\"",
       "originalDescription": "Spółka Dawtona, której wiceprezes kupił działkę przeznaczoną na cele Centralnego Portu Komunikacyjnego, wyprodukowała specjalnie dla polityków PiS serię tubek z musami owocowymi - napisała w piątek Wirtualna Polska. Podała, że na fakturach za te kampanijne gadżety \"nie zgadza się nic\". W czwartek były minister rolnictwa Robert Telus został zapytany przez dziennikarza redakcji Radia Nowy Świat o \"gadżet kampanijny\", czyli mus owocowy z jego zdjęciem. \"Kupiłem, zapłaciłem i wszystko rozliczyłem\" - odpowiedział."
     },
@@ -42,46 +82,6 @@
       "description": "Chiński prezydent Xi Jinping i premier Kanady Mark Carney zapowiedzieli odnowienie i wzmocnienie relacji po okresie wieloletniego ochłodzenia. Jak podkreślił Carney, to spotkanie jest \"punktem zwrotnym\" w napiętych stosunkach między Ottawą a Pekinem.",
       "originalTitle": "Mark Carney o Chinach: to punkt zwrotny",
       "originalDescription": "Chiński prezydent Xi Jinping i premier Kanady Mark Carney zapowiedzieli odnowienie i wzmocnienie relacji po okresie wieloletniego ochłodzenia. Jak podkreślił Carney, to spotkanie jest \"punktem zwrotnym\" w napiętych stosunkach między Ottawą a Pekinem."
-    },
-    {
-      "title": "Z placu zabaw zniknęli dwaj chłopcy, \"ogłoszono alarm\"",
-      "link": "https://tvn24.pl/krakow/krakow-z-placu-zabaw-zniknely-dzieci-ogloszono-alarm-skakaly-po-kanapie-w-galerii-st8730498?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 16:32:36 GMT",
-      "description": "140 policjantów szukało w czwartek wieczorem dwóch sześciolatków, którzy uciekli spod opieki dorosłej osoby w Krakowie. Jak przekazała policja, chłopcy oddalili się \"dla żartu\". Znaleziono ich w galerii handlowej, gdzie skakali po kanapie.",
-      "originalTitle": "Z placu zabaw zniknęli dwaj chłopcy, \"ogłoszono alarm\"",
-      "originalDescription": "140 policjantów szukało w czwartek wieczorem dwóch sześciolatków, którzy uciekli spod opieki dorosłej osoby w Krakowie. Jak przekazała policja, chłopcy oddalili się \"dla żartu\". Znaleziono ich w galerii handlowej, gdzie skakali po kanapie."
-    },
-    {
-      "title": "Atak zimy na Islandii. Kierowcy porzucali auta",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/atak-zimy-na-islandii-reykjavik-rekordowe-opady-kierowcy-porzucali-auta-st8730377?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 16:27:19 GMT",
-      "description": "Islandia doświadczyła w ostatnich dniach ataku zimy. W stolicy kraju zaobserwowano największe opady śniegu dla października w historii. Pogoda zakłóciła transport drogowy i lotniczy.",
-      "originalTitle": "Atak zimy na Islandii. Kierowcy porzucali auta",
-      "originalDescription": "Islandia doświadczyła w ostatnich dniach ataku zimy. W stolicy kraju zaobserwowano największe opady śniegu dla października w historii. Pogoda zakłóciła transport drogowy i lotniczy."
-    },
-    {
-      "title": "Tragiczny wypadek, nie żyje policjant",
-      "link": "https://tvn24.pl/opole/brzeg-policjant-zginal-w-wypadku-jechal-rowerem-st8730577?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 16:20:33 GMT",
-      "description": "Nie żyje 56-letni policjant, który w Brzegu (Opolskie) podczas jazdy na rowerze zderzył się z samochodem osobowym.",
-      "originalTitle": "Tragiczny wypadek, nie żyje policjant",
-      "originalDescription": "Nie żyje 56-letni policjant, który w Brzegu (Opolskie) podczas jazdy na rowerze zderzył się z samochodem osobowym."
-    },
-    {
-      "title": "Wezwanie dotyczyło \"nieobyczajnych wybryków\". Strażników poraziło co innego",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-wezwali-straz-miejska-furtka-byla-pod-pradem-st8729840?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 16:15:36 GMT",
-      "description": "Na niespodziewane przeszkody natrafili warszawscy strażnicy miejscy wezwani do wyjaśnienia sprawy nieobyczajnych wybryków na jednej z posesji. Furtka była pod prądem.",
-      "originalTitle": "Wezwanie dotyczyło \"nieobyczajnych wybryków\". Strażników poraziło co innego",
-      "originalDescription": "Na niespodziewane przeszkody natrafili warszawscy strażnicy miejscy wezwani do wyjaśnienia sprawy nieobyczajnych wybryków na jednej z posesji. Furtka była pod prądem."
-    },
-    {
-      "title": "Piły herbatę, potem zabijała. 30 lat więzienia za śmierć dwóch kobiet",
-      "link": "https://tvn24.pl/poznan/poznan-pily-herbate-potem-zabijala-30-lat-wiezienia-za-smierc-dwoch-kobiet-st8730565?source=rss",
-      "pubDate": "Fri, 31 Oct 2025 16:11:33 GMT",
-      "description": "55-letnia Małgorzata R., oskarżona o dokonanie zabójstw dwóch seniorek w 2012 i 2013 roku, skazana została na 30 lat więzienia. Na jej trop wpadli po latach policjanci z wielkopolskiego Archiwum X. Wyrok nie jest prawomocny.",
-      "originalTitle": "Piły herbatę, potem zabijała. 30 lat więzienia za śmierć dwóch kobiet",
-      "originalDescription": "55-letnia Małgorzata R., oskarżona o dokonanie zabójstw dwóch seniorek w 2012 i 2013 roku, skazana została na 30 lat więzienia. Na jej trop wpadli po latach policjanci z wielkopolskiego Archiwum X. Wyrok nie jest prawomocny."
     }
   ]
 }
