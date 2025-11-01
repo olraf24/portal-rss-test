@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2025-11-01T16:37:12.699Z",
+  "lastUpdate": "2025-11-01T17:05:23.606Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Pogoda na Zaduszki",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-na-zaduszki-2-listopada-pogoda-na-5-dni-szykuje-sie-zalamanie-pogody-st8731586?source=rss",
+      "pubDate": "Sat, 01 Nov 2025 16:36:07 GMT",
+      "description": "• W niedzielę, czyli w Zaduszki, do kraju wkroczy chłodny front\n• Chłodny front przyniesie opady deszczu w części kraju\n• Na początku tygodnia możemy się spodziewać ochłodzenia\n• Ochłodzenie nie potrwa długo",
+      "originalTitle": "Prognoza na Zaduszki. Szykuje się załamanie pogody",
+      "originalDescription": "W niedzielę, czyli w Zaduszki, do kraju wkroczy chłodny front, który przyniesie opady deszczu w części kraju. Na początku tygodnia możemy się spodziewać ochłodzenia, ale nie potrwa ono długo."
+    },
     {
       "title": "30 ofiar w starożytnym mieście",
       "link": "https://tvn24.pl/tvnmeteo/swiat/chaos-w-starozytnym-miescie-prawie-30-osob-nie-zyje-st8731562?source=rss",
@@ -74,14 +82,6 @@
       "description": "Na cudze jedzenie, zostawione na klatce schodowej jednego z bloków w Kielcach, połasił się 41-latek. Mężczyzna wykorzystał fakt, że chwilę wcześniej przed drzwiami mieszkania przesyłkę zostawił dostawca. Gdy trafił w ręce policji, okazało się, że ma do odsiadki 10 dni w więzieniu. Co więcej, znaleziono przy nim narkotyki.",
       "originalTitle": "Połasił się na cudze jedzenie i trafił prosto do policyjnej celi",
       "originalDescription": "Na cudze jedzenie, zostawione na klatce schodowej jednego z bloków w Kielcach, połasił się 41-latek. Mężczyzna wykorzystał fakt, że chwilę wcześniej przed drzwiami mieszkania przesyłkę zostawił dostawca. Gdy trafił w ręce policji, okazało się, że ma do odsiadki 10 dni w więzieniu. Co więcej, znaleziono przy nim narkotyki."
-    },
-    {
-      "title": "Drony nad belgijskim lotniskiem wojskowym",
-      "link": "https://tvn24.pl/swiat/drony-nad-belgijskim-lotniskiem-wojskowym-st8731534?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 14:46:50 GMT",
-      "description": "Nad belgijskim lotniskiem wojskowym Kleine Brogel zarejestrowano kilka dronów - przekazał w sobotę minister obrony narodowej Belgii Theo Francken. Trwa dochodzenie.",
-      "originalTitle": "Drony nad belgijskim lotniskiem wojskowym",
-      "originalDescription": "Nad belgijskim lotniskiem wojskowym Kleine Brogel zarejestrowano kilka dronów - przekazał w sobotę minister obrony narodowej Belgii Theo Francken. Trwa dochodzenie."
     }
   ]
 }
