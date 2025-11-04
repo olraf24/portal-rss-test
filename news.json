@@ -1,10 +1,58 @@
 {
-  "lastUpdate": "2025-11-04T13:16:39.498Z",
+  "lastUpdate": "2025-11-04T13:42:56.905Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kaczyński skomentował sprawę Ziobry",
+      "title": "Minister edukacji zatrzymany w związku z opóźnieniem w dostawie podręczników",
+      "link": "https://tvn24.pl/swiat/libia-minister-edukacji-zatrzymany-nie-dostarczono-uczniom-podrecznikow-na-czas-st8734935?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 13:31:36 GMT",
+      "description": "• Minister edukacji Libii to Ali al-Abed.\n• Ali al-Abed został zatrzymany w sprawie dotyczącej niezapewnienia uczniom podręczników szkolnych na czas.\n• W Libii podręczniki szkolne są bezpłatne.\n• Procedura zamawiania podręczników szkolnych w Libii od lat towarzyszy korupcja.",
+      "originalTitle": "Minister edukacji zatrzymany, bo uczniowie nie dostali podręczników na czas",
+      "originalDescription": "Minister edukacji Libii - Ali al-Abed został zatrzymany w sprawie dotyczącej niezapewnienia uczniom podręczników szkolnych na czas. W kraju podręczniki są bezpłatne, ale procedurze ich zamawiania od lat towarzyszy korupcja."
+    },
+    {
+      "title": "Burmistrz przeprasza za słowa o dzieciach ze wsi",
+      "link": "https://tvn24.pl/olsztyn/rodzice-dzieci-ze-wsi-oburzeni-po-slowach-burmistrza-ten-przeprasza-st8734940?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 13:31:22 GMT",
+      "description": "• Burza wybuchła po słowach burmistrza Korsz (Warmińsko-Mazurskie) Jana Adamowicza.\n• Burmistrz wypowiedział się na sesji rady gminy.\n• Mówił o dzieciach ze wsi i ich ubiorze.\n• Stwierdził, że \"widać po nich, z jakiego środowiska pochodzą\".\n• Natychmiast zareagowali rodzice.\n• Burmistrz przeprosił.",
+      "originalTitle": "Rodzice dzieci ze wsi oburzeni po słowach burmistrza. Ten przeprasza",
+      "originalDescription": "Burza po słowach burmistrz Korsz (Warmińsko-Mazurskie) Jana Adamowicza. Na sesji rady gminy mówił on o dzieciach ze wsi i ich ubiorze, a także o tym, że \"widać po nich, z jakiego środowiska pochodzą\". Natychmiast zareagowali rodzice. Burmistrz przeprosił."
+    },
+    {
+      "title": "Branża spodziewa się wzrostu cen",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-jaj-pojda-w-gore-branza-ostrzega-st8735358?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 13:30:17 GMT",
+      "description": "Na rynkach w Polsce oraz w Europie zaczyna brakować jaj, efektem tej sytuacji jest wzrost cen w handlu hurtowym; zdaniem analityków, zwyżki cen nie ominą także handlu detalicznego - informuje Krajowa Izba Producentów Drobiu i Pasz (KIPDiP).",
+      "originalTitle": "Ceny pójdą w górę. Branża ostrzega",
+      "originalDescription": "Na rynkach w Polsce oraz w Europie zaczyna brakować jaj, efektem tej sytuacji jest wzrost cen w handlu hurtowym; zdaniem analityków, zwyżki cen nie ominą także handlu detalicznego - informuje Krajowa Izba Producentów Drobiu i Pasz (KIPDiP)."
+    },
+    {
+      "title": "Zgwałcił i udusił Lizę w centrum Warszawy. Prawomocny wyrok",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zabojstwo-lizy-wyrok-na-doriana-s-st8734690?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 13:22:50 GMT",
+      "description": "W Sądzie Apelacyjnym w Warszawie zapadł wyrok w sprawie Doriana S. skazanego za gwałt i zabójstwo 25-letniej Lizy w 2024 roku w centrum stolicy. Sąd niższej instancji wydał wyrok dożywocia w systemie terapeutycznym. We wtorek to orzeczenie zostało podtrzymane.",
+      "originalTitle": "Zgwałcił i udusił Lizę w centrum Warszawy. Prawomocny wyrok",
+      "originalDescription": "W Sądzie Apelacyjnym w Warszawie zapadł wyrok w sprawie Doriana S. skazanego za gwałt i zabójstwo 25-letniej Lizy w 2024 roku w centrum stolicy. Sąd niższej instancji wydał wyrok dożywocia w systemie terapeutycznym. We wtorek to orzeczenie zostało podtrzymane."
+    },
+    {
+      "title": "Pogoda na 5 dni. Nadchodzą ładne i ciepłe dni. W weekend przyjdzie zmiana",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-5-dni-nadchodza-ladne-i-cieple-dni-w-weekend-przyjdzie-zmiana-st8735116?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 13:20:14 GMT",
+      "description": "Pogoda w Polsce. Dzięki wpływowi rozległego wyżu w nadchodzących dniach będzie pogodnie i ciepło. Korzystanie z przyjemnej aury jedynie miejscami nieco utrudni silny wiatr. Zmiana pogody czeka nas dopiero w weekend.",
+      "originalTitle": "Pogoda na 5 dni. Nadchodzą ładne i ciepłe dni. W weekend przyjdzie zmiana",
+      "originalDescription": "Pogoda w Polsce. Dzięki wpływowi rozległego wyżu w nadchodzących dniach będzie pogodnie i ciepło. Korzystanie z przyjemnej aury jedynie miejscami nieco utrudni silny wiatr. Zmiana pogody czeka nas dopiero w weekend."
+    },
+    {
+      "title": "Plan B w portfelu. Ile warto mieć gotówki",
+      "link": "https://tvn24.pl/biznes/pieniadze/plan-b-w-portfelu-ile-warto-miec-gotowki-st8735059?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 13:17:33 GMT",
+      "description": "Na wypadek awarii lub innych problemów z płatnościami elektronicznymi warto mieć gotówkę, najlepiej na trzy dni - mówi w rozmowie z tvn24.pl Piotr Maszczyk ze Szkoły Głównej Handlowej. Jego zdaniem konkretną kwotę trudno wskazać, ponieważ każdy ma inny poziom wydatków.",
+      "originalTitle": "Plan B w portfelu. Ile warto mieć gotówki",
+      "originalDescription": "Na wypadek awarii lub innych problemów z płatnościami elektronicznymi warto mieć gotówkę, najlepiej na trzy dni - mówi w rozmowie z tvn24.pl Piotr Maszczyk ze Szkoły Głównej Handlowej. Jego zdaniem konkretną kwotę trudno wskazać, ponieważ każdy ma inny poziom wydatków."
+    },
+    {
+      "title": "\"To jest równoznaczne z wyrokiem śmierci\". Kaczyński o sprawie Ziobry",
       "link": "https://tvn24.pl/polska/sledczy-chca-tymczasowo-aresztowac-zbigniewa-ziobre-jaroslaw-kaczynski-komentuje-st8734957?source=rss",
       "pubDate": "Tue, 04 Nov 2025 12:57:20 GMT",
       "description": "Prezes PiS Jarosław Kaczyński skomentował wniosek o uchylenie immunitetu i tymczasowe aresztowanie byłego ministra sprawiedliwości, posła PiS Zbigniewa Ziobry. Ocenił, że jeśli ktoś żąda aresztowania \"bardzo ciężko chorego człowieka, któremu zagraża po prostu śmierć, żąda jego uwięzienia, sam jest przestępcą\". Był też pytany, czy jeśli Ziobro jest poza Polską, to powinien wrócić.",
@@ -12,15 +60,15 @@
       "originalDescription": "Prezes PiS Jarosław Kaczyński skomentował wniosek o uchylenie immunitetu i tymczasowe aresztowanie byłego ministra sprawiedliwości, posła PiS Zbigniewa Ziobry. Ocenił, że jeśli ktoś żąda aresztowania \"bardzo ciężko chorego człowieka, któremu zagraża po prostu śmierć, żąda jego uwięzienia, sam jest przestępcą\". Był też pytany, czy jeśli Ziobro jest poza Polską, to powinien wrócić."
     },
     {
-      "title": "Firma wycofuje lalki po protestach",
+      "title": "Gigant wycofuje wszystkie lalki erotyczne po protestach. Miały \"dziecięcy wygląd\"",
       "link": "https://tvn24.pl/biznes/ze-swiata/francja-kontrowersyjne-lalki-erotyczne-o-dzieciecym-wygladzie-shein-usunelo-je-z-oferty-st8735013?source=rss",
       "pubDate": "Tue, 04 Nov 2025 12:52:34 GMT",
-      "description": "• Na popularnej platformie sprzedażowej Shein pojawiły się lalki erotyczne, których wygląd wywołał protesty.\n• Lalki te wywołały protesty aktywistów.\n• Aktywiści twierdzą, że lalki przypominały dzieci.\n• Francja zagroziła odci��ciem giganta dostępu do rynku.\n• Shein zdecydował się wycofać lalki ze sprzedaży po groźbach Francji.",
+      "description": "Na popularnej platformie sprzedażowej Shein pojawiły się lalki erotyczne, których wygląd wywołał protesty. Według aktywistów, lalki przypominały dzieci. Gdy Francja zagroziła odcięciem gigantowi dostępu do rynku, Shein zdecydował się wycofać je ze sprzedaży.",
       "originalTitle": "Gigant wycofuje wszystkie lalki erotyczne po protestach. Miały \"dziecięcy wygląd\"",
       "originalDescription": "Na popularnej platformie sprzedażowej Shein pojawiły się lalki erotyczne, których wygląd wywołał protesty. Według aktywistów, lalki przypominały dzieci. Gdy Francja zagroziła odcięciem gigantowi dostępu do rynku, Shein zdecydował się wycofać je ze sprzedaży."
     },
     {
-      "title": "Kierowca autobusu skazany za zabójstwo rodziców",
+      "title": "Kierowcy autobusu powiedział, że zabił rodziców. Wyrok sądu",
       "link": "https://tvn24.pl/katowice/sosnowiec-prawomocny-wyrok-dozywocia-dla-piotra-b-zabojcy-rodzicow-st8735019?source=rss",
       "pubDate": "Tue, 04 Nov 2025 12:51:00 GMT",
       "description": "33-letni Piotr B. z Sosnowca został skazany prawomocnie na dożywocie za zabójstwo rodziców. Zabił ich nożem, gdy spali. Wsiadł do auta ojca i ruszył w kierunku granicy z Czechami. Zmienił jednak decyzję, porzucił auto, pojechał autostopem do Warszawy i tam przyznał się do zbrodni kierowcy autobusu.",
@@ -34,52 +82,6 @@
       "description": "Osób zmagających się z nieswoistymi zapaleniami jelit (choroba Leśniowskiego-Crohna i wrzodziejące zapalenie jelita grubego - WZJG) jest w całym kraju około 100 tysięcy. Niestety tylko 10 procent pacjentów z chorobą Crohna i jeszcze mniej (ok. 2-3 procent) z WZJG otrzymuje nowoczesne leczenie. Problemem są późne diagnozy i nierówny dostęp do ośrodków prowadzących programy lekowe. Skutkiem - ciężkie powikłania.",
       "originalTitle": "Crohn i WZJG. Walka o życie, które pozornie wygląda normalnie",
       "originalDescription": "Osób zmagających się z nieswoistymi zapaleniami jelit (choroba Leśniowskiego-Crohna i wrzodziejące zapalenie jelita grubego - WZJG) jest w całym kraju około 100 tysięcy. Niestety tylko 10 procent pacjentów z chorobą Crohna i jeszcze mniej (ok. 2-3 procent) z WZJG otrzymuje nowoczesne leczenie. Problemem są późne diagnozy i nierówny dostęp do ośrodków prowadzących programy lekowe. Skutkiem - ciężkie powikłania."
-    },
-    {
-      "title": "Zderzenie ciężarówek na A1. Trasa w kierunku Gdańsk zablokowana",
-      "link": "https://tvn24.pl/lodz/natolin-304-kilometr-a1-zderzenie-ciezarowek-droga-zablokowana-w-kierunku-gdanska-st8735012?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 12:40:46 GMT",
-      "description": "W Natolinie (Łódzkie) na autostradzie A1 zderzyły się dwie ciężarówki. Droga w kierunku Gdańska jest całkowicie zablokowana.",
-      "originalTitle": "Zderzenie ciężarówek na A1. Trasa w kierunku Gdańsk zablokowana",
-      "originalDescription": "W Natolinie (Łódzkie) na autostradzie A1 zderzyły się dwie ciężarówki. Droga w kierunku Gdańska jest całkowicie zablokowana."
-    },
-    {
-      "title": "Sześć osób zmarło po spożyciu dań z makaronem. Chodzi o dziewięć produktów",
-      "link": "https://tvn24.pl/swiat/usa-bakterie-listeria-w-gotowych-daniach-z-makaronem-ostrzezenie-od-sluzb-st8734717?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 12:35:18 GMT",
-      "description": "Sześć osób zmarło po spożyciu gotowych dań z makaronem, które trafiły do amerykańskich sieci supermarketów - informują służby. W produktach wykryto obecność bakterii Listeria monocytogenes.",
-      "originalTitle": "Sześć osób zmarło po spożyciu dań z makaronem. Chodzi o dziewięć produktów",
-      "originalDescription": "Sześć osób zmarło po spożyciu gotowych dań z makaronem, które trafiły do amerykańskich sieci supermarketów - informują służby. W produktach wykryto obecność bakterii Listeria monocytogenes."
-    },
-    {
-      "title": "Tusk do Ziobry: chyba nie chce pan przejść do historii jako fujara",
-      "link": "https://tvn24.pl/polska/donald-tusk-do-zbigniewa-ziobry-chyba-nie-chce-pan-przejsc-do-historii-jako-fujara-i-miekiszon-st8735035?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 12:31:12 GMT",
-      "description": "Brak opisu"
-    },
-    {
-      "title": "Polska z największym spadkiem ofiar śmiertelnych wypadków drogowych",
-      "link": "https://tvn24.pl/biznes/z-kraju/wypadki-drogowe-polska-z-najwiekszym-spadkiem-ofiar-smiertelnych-w-ue-st8734862?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 12:26:21 GMT",
-      "description": "W Polsce odnotowano największy spadek liczby ofiar śmiertelnych w wypadkach drogowych w UE - informuje Komisja Europejska. Z najnowszych danych wynika, że choć polskie drogi wciąż nie należą do najbezpieczniejszych, to w 2024 roku zginęło na nich o 35 procent mniej osób niż pięć lat wcześniej.",
-      "originalTitle": "Polska z największym spadkiem ofiar śmiertelnych wypadków drogowych",
-      "originalDescription": "W Polsce odnotowano największy spadek liczby ofiar śmiertelnych w wypadkach drogowych w UE - informuje Komisja Europejska. Z najnowszych danych wynika, że choć polskie drogi wciąż nie należą do najbezpieczniejszych, to w 2024 roku zginęło na nich o 35 procent mniej osób niż pięć lat wcześniej."
-    },
-    {
-      "title": "Kolejne ofiary tajfunu. \"Woda jest po prostu niszczycielska\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/filipiny-tajfun-kalmaegi-uderzyl-mieszkancy-zmagaja-sie-z-powodziami-st8734220?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 06:36:40 GMT",
-      "description": "Już co najmniej 26 osób zginęło w wyniku dotarcia tajfunu Kalmaegi do Filipin. W wielu miejscach kraju występują powodzie błyskawiczne, wieje bardzo silny wiatr. Akcję ratunkową utrudniają zagrażające życiu warunki.",
-      "originalTitle": "Kolejne ofiary tajfunu. \"Woda jest po prostu niszczycielska\"",
-      "originalDescription": "Już co najmniej 26 osób zginęło w wyniku dotarcia tajfunu Kalmaegi do Filipin. W wielu miejscach kraju występują powodzie błyskawiczne, wieje bardzo silny wiatr. Akcję ratunkową utrudniają zagrażające życiu warunki."
-    },
-    {
-      "title": "\"Widzimy dezinformację, która ma skłonić prezydenta do zawetowania ustawy\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/kolejne-weto-prezydenta-widzimy-dezinformacje-st8734944?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 12:19:00 GMT",
-      "description": "Prezydenckie weto byłoby korzystne dla części firm, które nie zamierzają się rejestrować w Polsce, a które chciałyby mieć dostęp do polskich obywateli - powiedział we wtorek wiceminister finansów Jurand Drop. Dodał, że wierzy, iż prezydent Karol Nawrocki podpisze ustawę dotyczącą kryptowalut.",
-      "originalTitle": "\"Widzimy dezinformację, która ma skłonić prezydenta do zawetowania ustawy\"",
-      "originalDescription": "Prezydenckie weto byłoby korzystne dla części firm, które nie zamierzają się rejestrować w Polsce, a które chciałyby mieć dostęp do polskich obywateli - powiedział we wtorek wiceminister finansów Jurand Drop. Dodał, że wierzy, iż prezydent Karol Nawrocki podpisze ustawę dotyczącą kryptowalut."
     }
   ]
 }
