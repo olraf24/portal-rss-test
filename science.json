@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-11-05T09:37:26.808Z",
+  "lastUpdate": "2025-11-05T10:06:38.804Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Bakteriofagi kontra rak. Wirusy, które mogą pomóc w walce z nowotworami",
+      "link": "https://dzienniknaukowy.pl/bakteriofagi-kontra-rak-wirusy-ktore-moga-pomoc-w-walce-z-nowotworami",
+      "pubDate": "Wed, 05 Nov 2025 09:37:36 +0000",
+      "description": "Bakteriofagi to wirusy, będące jednym z najbardziej obiecujących narzędzi biotechnologicznych w diagnostyce, terapii i profilaktyce chorób nowotworowych. O ich niezwykłych możliwościach opowiada prof. dr hab. Alicja Węgrzyn, dyrektorka Centrum Terapii Fagowych Uniwersytetu Gdańskiego"
+    },
     {
       "title": "Nowy impuls dla terapii wzroku. Co dzieje się w mózgu, gdy stymulujemy oko prądem?",
       "link": "https://dzienniknaukowy.pl/nowy-impuls-dla-terapii-wzroku-co-dzieje-sie-w-mozgu-gdy-stymulujemy-oko-pradem",
       "pubDate": "Wed, 05 Nov 2025 09:19:23 +0000",
       "description": "Nowe badania przeprowadzone we współpracy naukowców ICTER ujawniają, jak bardzo różnią się odpowiedzi mózgu na bodźce świetlne i elektryczne. Odkrycia te mogą przyczynić się do rozwoju bardziej precyzyjnych terapii przywracających wzrok, w tym terapii z użyciem przezrogówkowej stymulacji elektrycznej (tACS)."
+    },
+    {
+      "title": "Jak fotopolimery przedłużają paznokcie? Naukowe spojrzenie na trwały manicure",
+      "link": "https://dzienniknaukowy.pl/jak-fotopolimery-przedluzaja-paznokcie-naukowe-spojrzenie-na-trwaly-manicure",
+      "pubDate": "Wed, 05 Nov 2025 08:08:00 +0000",
+      "description": "Stylizacja paznokci nie jest wyłącznie elementem kosmetycznym – to także fascynujący przykład zastosowania chemii i fizyki w praktyce. Współczesne preparaty żelowe, wykorzystywane w manicure hybrydowym i modelowaniu płytki, działają dzięki reakcji fotopolimeryzacji, czyli procesowi utwardzania pod wpływem światła"
     },
     {
       "title": "Komórkowe trytytki i ich rola w dojrzewaniu i specjalizacji komórek",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/zwalczanie-gwiazdnicy-pospolitej-w-uprawach-skuteczne-metody-i-porady",
       "pubDate": "Thu, 30 Oct 2025 12:39:00 +0000",
       "description": "Gwiazdnica pospolita (Stellaria media) to jeden z najczęściej występujących chwastów w Polsce. Choć na pierwszy rzut oka wygląda niepozornie, potrafi poważnie obniżyć plony warzyw, zbóż czy roślin ozdobnych. W tym artykule wyjaśniamy, jak rozpoznać ten gatunek, dlaczego jest groźny oraz jakie są najskuteczniejsze sposoby zwalczania gwiazdnicy pospolitej"
-    },
-    {
-      "title": "Bezpieczeństwo żywnościowe i klimat. Wyzwania współczesnego świata",
-      "link": "https://dzienniknaukowy.pl/bezpieczenstwo-zywnosciowe-i-klimat-wyzwania-wspolczesnego-swiata",
-      "pubDate": "Wed, 29 Oct 2025 17:38:22 +0000",
-      "description": "Jak powstaje żywność, jak z niej korzystamy i jak wiele zasobów wymaga jej produkcja? Każdy bochenek chleba, owoc czy warzywo to efekt złożonego procesu, wymagającego wody, gleby, energii i pracy ludzkiej. Produkcja żywności jest jednym z filarów gospodarki, ale też jednym z najbardziej zasobochłonnych sektorów świata"
-    },
-    {
-      "title": "Nanowłókniste katody wzmacniają ogniwa paliwowe",
-      "link": "https://dzienniknaukowy.pl/nanowlokniste-katody-wzmacniaja-ogniwa-paliwowe",
-      "pubDate": "Wed, 29 Oct 2025 17:15:27 +0000",
-      "description": "Mikrododatek materiału o ujemnej rozszerzalności cieplnej (NTE) oraz nanowłóknista budowa katody znacząco podnoszą sprawność i trwałość stałotlenkowych ogniw paliwowych. Nowatorski pomysł powstał na Akademii Górniczo-Hutniczej w Krakowie, a w pracach brały udział także zespoły z Danii i Chin"
     }
   ]
 }
