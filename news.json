@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-11-05T11:05:32.033Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-11-05T11:35:03.865Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wąż znaleziony w szkolnej bursie",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-waz-pelzal-po-szkolnej-bursie-st8736435?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 11:21:04 GMT",
+      "description": "• Strażnicy miejscy z Gdańska interweniowali w jednej ze szkół średnich.\n• Interwencja była spowodowana zgłoszeniem o wężu.\n• Wąż pojawił się w budynku bursy.\n• Udało się schwytać węża.",
+      "originalTitle": "Wąż pełzał po szkolnej bursie",
+      "originalDescription": "Strażnicy miejscy z Gdańska interweniowali w jednej ze szkół średnich po zgłoszeniu o wężu, który pojawił się w budynku bursy. Gada udało się schwytać."
+    },
+    {
+      "title": "Nowy mural w Szczecinie przedstawia kota Gacka",
+      "link": "https://tvn24.pl/szczecin/szczecin-kot-gacek-bohaterem-nowego-muralu-st8736653?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 11:15:05 GMT",
+      "description": "Mural z wizerunkiem dawnego, lokalnego kociego celebryty Gacka ozdobił budynek przy ulicy Rugiańskiej w Szczecinie. To jedna z realizacji projektu ekologicznych murali, które mają łączyć sztukę z ochroną środowiska.",
+      "originalTitle": "Kot Gacek bohaterem nowego muralu w Szczecinie",
+      "originalDescription": "Mural z wizerunkiem dawnego, lokalnego kociego celebryty Gacka ozdobił budynek przy ulicy Rugiańskiej w Szczecinie. To jedna z realizacji projektu ekologicznych murali, które mają łączyć sztukę z ochroną środowiska."
+    },
+    {
+      "title": "Pożar supermarketu w Grodzisku Mazowieckim",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-nocny-pozar-supermarketu-st8736216?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 06:03:16 GMT",
+      "description": "W nocy z wtorku na środę w Grodzisku Mazowieckim spłonął się sklep wielkopowierzchniowy. W akcji gaśniczej brało udział kilkanaście zastępów straży pożarnej. Nie ma informacji o osobach poszkodowanych. Supermarket uległ całkowitemu zniszczeniu.",
+      "originalTitle": "Nocny pożar w Grodzisku Mazowieckim. Spłonął duży supermarket",
+      "originalDescription": "W nocy z wtorku na środę w Grodzisku Mazowieckim spłonął się sklep wielkopowierzchniowy. W akcji gaśniczej brało udział kilkanaście zastępów straży pożarnej. Nie ma informacji o osobach poszkodowanych. Supermarket uległ całkowitemu zniszczeniu."
+    },
+    {
+      "title": "Meteoroid widziany nad Polską",
+      "link": "https://tvn24.pl/tvnmeteo/polska/kula-ognia-przeleciala-nad-polska-nagranie-st8736562?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 11:12:43 GMT",
+      "description": "We wtorek nad Polską pojawił się bolid, czyli jasny meteor. Jego przelot zarejestrowały kamery projektu Skytinel. Mknąca po niebie kula ognia była widoczna między innymi w województwach mazowieckim i świętokrzyskim.",
+      "originalTitle": "Kula ognia przeleciała nad Polską",
+      "originalDescription": "We wtorek nad Polską pojawił się bolid, czyli jasny meteor. Jego przelot zarejestrowały kamery projektu Skytinel. Mknąca po niebie kula ognia była widoczna między innymi w województwach mazowieckim i świętokrzyskim."
+    },
+    {
+      "title": "Oświadczenie premiera",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ets2-z-rocznym-opoznieniem-premier-komentuje-st8736793?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 11:11:54 GMT",
+      "description": "• Dwa tygodnie temu premier Donald Tusk mówił, że rozbroimy ETS2, czyli opłaty za ogrzewanie i transport, na które zgodził się Morawiecki.\n• Premier Donald Tusk napisał o tym na platformie X.\n• W środę ministrowie środowiska krajów Unii Europejskiej uzgodnili nowy cel klimatyczny na rok 2040.\n• Polsce i innym przeciwnikom systemu ETS2 udało się opóźnić jego wejście w życie o rok.\n• Morawiecki zgodził się na rozbrojenie ETS2.\n• Premier Donald Tusk ogłosił, że rozbrojenie ETS2 się stało.",
+      "originalTitle": "Premier: dziś to się stało",
+      "originalDescription": "\"Dwa tygodnie temu mówiłem, że rozbroimy ETS2, czyli opłaty za ogrzewanie i transport, na które zgodził się Morawiecki. Dziś to się stało\" - napisał na platformie X premier Donald Tusk. W środę ministrowie środowiska krajów Unii Europejskiej uzgodnili nowy cel klimatyczny na rok 2040. Polsce i innym przeciwnikom systemu ETS2 udało się opóźnić jego wejście w życie o rok."
+    },
+    {
+      "title": "Zakończenie utrudnień w metrze",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-utrudnienia-w-metrze-zamknieto-siedem-stacji-st8736409?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 08:24:00 GMT",
+      "description": "Na stacji Centrum doszło do wypadku. Metro kilka godzin nie kursowało w Śródmieściu i na Mokotowie. Uruchomiono komunikację zastępczą.",
+      "originalTitle": "Koniec utrudnień w metrze",
+      "originalDescription": "Na stacji Centrum doszło do wypadku. Metro kilka godzin nie kursowało w Śródmieściu i na Mokotowie. Uruchomiono komunikację zastępczą."
+    },
+    {
+      "title": "Oszuści wyłudzają pieniądze za pomocą zdjęć",
+      "link": "https://tvn24.pl/lublin/lublin-trzech-mezczyzn-podejrzanych-o-pranie-pieniedzy-z-szantazu-seksualnego-st8736679?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 10:57:22 GMT",
+      "description": "Prokuratura Okręgowa w Lublinie zarzuciła trzem mężczyznom pranie pieniędzy pochodzących z przestępstw polegających na szantażu seksualnym. Jak informuje policja, podejrzani transferowali środki na różne konta bankowe. Ustalono, że pokrzywdzonych zostało 70 osób.",
+      "originalTitle": "Ofiary zaczepiali w sieci, słały im intymne zdjęcia. Później żądali pieniędzy",
+      "originalDescription": "Prokuratura Okręgowa w Lublinie zarzuciła trzem mężczyznom pranie pieniędzy pochodzących z przestępstw polegających na szantażu seksualnym. Jak informuje policja, podejrzani transferowali środki na różne konta bankowe. Ustalono, że pokrzywdzonych zostało 70 osób."
+    },
+    {
+      "title": "Milion aut do naprawy. Gigant wzywa do warsztatów",
+      "link": "https://tvn24.pl/biznes/moto/milion-aut-do-naprawy-toyota-wzywa-do-serwisow-st8736684?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 10:53:07 GMT",
+      "description": "Toyota wzywa do serwisów ponad milion aut w Stanach Zjednoczonych. Przyczyną jest usterka kamery cofania, która może przestać działać i zwiększyć ryzyko kolizji - poinformowała amerykańska Krajowa Administracja Bezpieczeństwa Ruchu Drogowego (NHTSA).",
+      "originalTitle": "Milion aut do naprawy. Gigant wzywa do warsztatów",
+      "originalDescription": "Toyota wzywa do serwisów ponad milion aut w Stanach Zjednoczonych. Przyczyną jest usterka kamery cofania, która może przestać działać i zwiększyć ryzyko kolizji - poinformowała amerykańska Krajowa Administracja Bezpieczeństwa Ruchu Drogowego (NHTSA)."
+    },
+    {
+      "title": "Sikorski do protestujących studentek UW: w Sudanie zginęło więcej osób niż w Gazie",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-sikorski-do-protestujacych-studentek-uw-w-sudanie-zginelo-wiecej-osob-niz-w-gazie-st8736704?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 10:50:48 GMT",
+      "description": "W trakcie wystąpienia Radosława Sikorskiego na Uniwersytecie Warszawskim na scenę weszły dwie studentki z flagą Palestyny i zarzuciły politykowi wspieranie ludobójstwa w Strefie Gazy. Szef MSZ od razu odpowiedział na te zarzuty.",
+      "originalTitle": "Sikorski do protestujących studentek UW: w Sudanie zginęło więcej osób niż w Gazie",
+      "originalDescription": "W trakcie wystąpienia Radosława Sikorskiego na Uniwersytecie Warszawskim na scenę weszły dwie studentki z flagą Palestyny i zarzuciły politykowi wspieranie ludobójstwa w Strefie Gazy. Szef MSZ od razu odpowiedział na te zarzuty."
+    },
+    {
+      "title": "Ciężki sprzęt na karkonoskich szlakach. Trwają prace remontowe",
+      "link": "https://tvn24.pl/wroclaw/karkonosze-remonty-na-szlakach-st8736593?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 10:43:16 GMT",
+      "description": "W Karkonoszach ruszyły prace remontowe na kilku popularnych szlakach turystycznych. Choć trasy pozostają otwarte, turyści muszą liczyć się z utrudnieniami i zachować szczególną ostrożność - w terenie pracuje ciężki sprzęt. Inwestycje obejmują m.in. naprawę nawierzchni oraz przepustów.",
+      "originalTitle": "Ciężki sprzęt na karkonoskich szlakach. Trwają prace remontowe",
+      "originalDescription": "W Karkonoszach ruszyły prace remontowe na kilku popularnych szlakach turystycznych. Choć trasy pozostają otwarte, turyści muszą liczyć się z utrudnieniami i zachować szczególną ostrożność - w terenie pracuje ciężki sprzęt. Inwestycje obejmują m.in. naprawę nawierzchni oraz przepustów."
+    }
+  ]
 }
