@@ -1,18 +1,58 @@
 {
-  "lastUpdate": "2025-11-05T13:15:10.654Z",
+  "lastUpdate": "2025-11-05T13:42:31.545Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kobieta przyznaje się do zabójstwa męża",
+      "title": "Zatrzymany bus, znaleziono nielegalny ładunek",
+      "link": "https://tvn24.pl/kielce/staporkow-konskie-zatrzymali-busa-do-kontroli-w-srodku-53-skrzynie-z-mchem-st8737345?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 13:36:31 GMT",
+      "description": "• Niecodzienna interwencja policjantów ze Stąporkowa (Świętokrzyskie) miała miejsce.\n• Policjanci zatrzymali do kontroli volkswagena.\n• W zatrzymanym volkswagenie znaleźli 53 skrzynie.\n• Skrzynie były wypełnione leśnym mchem.",
+      "originalTitle": "Zatrzymali busa do kontroli, takiego ładunku się nie spodziewali",
+      "originalDescription": "Niecodzienna interwencja policjantów ze Stąporkowa (Świętokrzyskie). W volkswagenie zatrzymanym do kontroli znaleźli 53 skrzynie z leśnym mchem."
+    },
+    {
+      "title": "Znaleziono szczeniaki w pudle",
+      "link": "https://tvn24.pl/katowice/czyzowice-szczenieta-porzucone-w-lesie-policja-szuka-sprawcy-st8737048?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 13:25:03 GMT",
+      "description": "Na leśnej drodze w Czyżowicach (Śląskie) ktoś porzucił kartonowe pudło z kilkoma wygłodzonymi szczeniakami. Znalazł je przechodzień. Osobie, która porzuciła szczeniaki grozi do nawet pięciu lat więzienia.",
+      "originalTitle": "\"Usłyszał ciche skomlenie\". W kartonowym pudle na drodze były szczeniaki",
+      "originalDescription": "Na leśnej drodze w Czyżowicach (Śląskie) ktoś porzucił kartonowe pudło z kilkoma wygłodzonymi szczeniakami. Znalazł je przechodzień. Osobie, która porzuciła szczeniaki grozi do nawet pięciu lat więzienia."
+    },
+    {
+      "title": "Poszukiwania mężczyzny",
+      "link": "https://tvn24.pl/katowice/bielsko-biala-policja-prosi-o-pomoc-w-poszukiwaniach-seniora-st8737305?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 13:16:49 GMT",
+      "description": "Policja w Bielsku-Białej szuka 85-letniego Krystiana Grobosza. Mężczyzna wyszedł ze swojego mieszkania w nocy z poniedziałku na wtorek. Był w samych skarpetkach, bez butów. Dotąd nie skontaktował się z rodziną.",
+      "originalTitle": "Pan Krystian wyszedł w nocy z domu bez butów, szukają go drugi dzień",
+      "originalDescription": "Policja w Bielsku-Białej szuka 85-letniego Krystiana Grobosza. Mężczyzna wyszedł ze swojego mieszkania w nocy z poniedziałku na wtorek. Był w samych skarpetkach, bez butów. Dotąd nie skontaktował się z rodziną."
+    },
+    {
+      "title": "Urząd zawiadamia prokuraturę po głosowaniu",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-nieprawidlowosci-w-glosowaniu-w-budzecie-obywatelskim-wroclaw-sklada-zawiadomienie-do-prokuratury-st8736971?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 13:14:42 GMT",
+      "description": "Władze Wrocławia złożyły zawiadomienie do prokuratury o możliwości popełnienia przestępstwa w związku z anomaliami w czasie głosowania na projekty w ramach Wrocławskiego Budżetu Obywatelskiego. Mogły one wpłynąć na wyniki.",
+      "originalTitle": "Po głosowaniu w budżecie obywatelskim urzędnicy zawiadamiają prokuraturę",
+      "originalDescription": "Władze Wrocławia złożyły zawiadomienie do prokuratury o możliwości popełnienia przestępstwa w związku z anomaliami w czasie głosowania na projekty w ramach Wrocławskiego Budżetu Obywatelskiego. Mogły one wpłynąć na wyniki."
+    },
+    {
+      "title": "Miliardowe straty na Jamajce. Premier o skali zniszczeń",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/huragan-melissa-miliardowe-straty-na-jamajce-premier-o-skali-zniszczen-st8736869?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 13:10:38 GMT",
+      "description": "Straty dokonane przez huragan Melissa na Jamajce mogą sięgać nawet jednej trzeciej produktu krajowego brutto tego kraju - powiedział premier Andrew Holness. Jeden z najsilniejszych huraganów ostatnich lat szalał na Karaibach pod koniec października. Na Jamajce oraz Haiti zginęło co najmniej 75 osób.",
+      "originalTitle": "Miliardowe straty na Jamajce. Premier o skali zniszczeń",
+      "originalDescription": "Straty dokonane przez huragan Melissa na Jamajce mogą sięgać nawet jednej trzeciej produktu krajowego brutto tego kraju - powiedział premier Andrew Holness. Jeden z najsilniejszych huraganów ostatnich lat szalał na Karaibach pod koniec października. Na Jamajce oraz Haiti zginęło co najmniej 75 osób."
+    },
+    {
+      "title": "Przyznała się do zabicia męża, ale nie do podpalenia ciała",
       "link": "https://tvn24.pl/krakow/krakow-zabila-meza-miala-podpalic-jego-cialo-ruszyl-proces-st8737039?source=rss",
       "pubDate": "Wed, 05 Nov 2025 13:04:35 GMT",
-      "description": "• Marta O. jest oskarżona o zabójstwo męża.\n• Marta O. jest oskarżona o znieważenie zwłok.\n• Marta O. jest oskarżona o oszustwo na szkodę ZUS.\n• Marta O. przyznała się do zabójstwa.\n• Córką Marty O. miała pomagać jej w zacieraniu śladów zbrodni.\n• Znajomy Marty O. miał pomagać jej w zacieraniu śladów zbrodni.\n• Córkę oraz znajomego Marty O. oskarża się za zacieranie śladów zbrodni.\n• Córkę oraz znajomego Marty O. sądzi się przed sądem za zacieranie śladów zbrodni.",
+      "description": "Marta O. jest oskarżona o zabójstwo męża, znieważenie zwłok i oszustwo na szkodę ZUS. Przyznała się do zabójstwa. Pomagać jej mieli córka oraz znajomy, którzy odpowiadają przed sądem za zacieranie śladów zbrodni.",
       "originalTitle": "Przyznała się do zabicia męża, ale nie do podpalenia ciała",
       "originalDescription": "Marta O. jest oskarżona o zabójstwo męża, znieważenie zwłok i oszustwo na szkodę ZUS. Przyznała się do zabójstwa. Pomagać jej mieli córka oraz znajomy, którzy odpowiadają przed sądem za zacieranie śladów zbrodni."
     },
     {
-      "title": "Wybory burmistrza w Nowym Jorku",
+      "title": "Nowojorczycy wybrali burmistrza",
       "link": "https://tvn24.pl/swiat/usa-zohran-mamdani-zwyciezca-wyborow-na-burmistrza-nowego-jorku-st8736157?source=rss",
       "pubDate": "Wed, 05 Nov 2025 04:15:27 GMT",
       "description": "Kandydat demokratów Zohran Mamdani wygrał wybory na burmistrza Nowego Jorku. Było to jedno z wielu wyborczych zwycięstw demokratów w całym kraju. Reelekcję wywalczyli burmistrzowie między innymi Atlanty, Pittsburgha i Cincinnati. Wybory skomentował w swoim stylu Donald Trump.",
@@ -20,10 +60,10 @@
       "originalDescription": "Kandydat demokratów Zohran Mamdani wygrał wybory na burmistrza Nowego Jorku. Było to jedno z wielu wyborczych zwycięstw demokratów w całym kraju. Reelekcję wywalczyli burmistrzowie między innymi Atlanty, Pittsburgha i Cincinnati. Wybory skomentował w swoim stylu Donald Trump."
     },
     {
-      "title": "Rama Duwaji: historia małżeństwa",
+      "title": "Zohrana Mamdaniego poznała na aplikacji randkowej, sesję ślubną mieli w metrze. Kim jest Rama Duwaji?",
       "link": "https://tvn24.pl/swiat/kim-jest-rama-duwaji-zona-burmistrza-zohrana-mamdaniego-i-pierwsza-dama-nowego-jorku-st8736588?source=rss",
       "pubDate": "Wed, 05 Nov 2025 12:58:03 GMT",
-      "description": "• Rama nie jest tylko żoną, ale także niesamowitą artystką, która zasługuje na to, by być znana na własnych zasadach.\n• Mąż Ramy, Zohran Mamdani, został wybrany na burmistrza Nowego Jorku.\n• Rama Duwaji ma 28 lat.\n• Rama jest nazywana pierwszą damą generacji Z.",
+      "description": "\"Rama nie jest tylko moją żoną, jest niesamowitą artystką, która zasługuje na to, by być znana na własnych zasadach\" - tak o Ramie Duwaji mówi jej mąż, Zohran Mamdani, wybrany właśnie na burmistrza Nowego Jorku. Kim jest 28-latka nazywana pierwszą damą generacji Z?",
       "originalTitle": "Zohrana Mamdaniego poznała na aplikacji randkowej, sesję ślubną mieli w metrze. Kim jest Rama Duwaji?",
       "originalDescription": "\"Rama nie jest tylko moją żoną, jest niesamowitą artystką, która zasługuje na to, by być znana na własnych zasadach\" - tak o Ramie Duwaji mówi jej mąż, Zohran Mamdani, wybrany właśnie na burmistrza Nowego Jorku. Kim jest 28-latka nazywana pierwszą damą generacji Z?"
     },
@@ -42,46 +82,6 @@
       "description": "Mieszkańcy kilku województw - między innymi śląskiego i świętokrzyskiego - zauważyli we wtorek wieczorem na niebie niezidentyfikowane obiekty przypominające kule. Inni widzieli z kolei przelatujący obiekt, który się spalił. W sieci od razu zaczęło roić się od domysłów, że to drony, meteoryty lub UFO. O sprawę zapytaliśmy wojsko, policję, planetarium w Chorzowie i lotnisko w Katowicach.",
       "originalTitle": "Cztery kule i nagły rozbłysk. Co się działo na niebie?",
       "originalDescription": "Mieszkańcy kilku województw - między innymi śląskiego i świętokrzyskiego - zauważyli we wtorek wieczorem na niebie niezidentyfikowane obiekty przypominające kule. Inni widzieli z kolei przelatujący obiekt, który się spalił. W sieci od razu zaczęło roić się od domysłów, że to drony, meteoryty lub UFO. O sprawę zapytaliśmy wojsko, policję, planetarium w Chorzowie i lotnisko w Katowicach."
-    },
-    {
-      "title": "Jest zgoda na ekstradycję. Kiedy \"Wielki Bu\" trafi do Polski?",
-      "link": "https://tvn24.pl/lublin/hamburg-jest-zgoda-na-ekstradycje-kiedy-wielki-bu-trafi-do-polski-st8736985?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 12:53:13 GMT",
-      "description": "\"Wielki Bu\" trafi w ręce polskich służb już w czwartek - informuje jego adwokat. Sąd w Hamburgu wydał zgodę na ekstradycję Patryka M. do Polski. W kraju grozi mu wyrok wieloletniego więzienia w związku z zarzutami o działalność w zorganizowanej grupie przestępczej specjalizującej się w przemycie i handlu narkotykami.",
-      "originalTitle": "Jest zgoda na ekstradycję. Kiedy \"Wielki Bu\" trafi do Polski?",
-      "originalDescription": "\"Wielki Bu\" trafi w ręce polskich służb już w czwartek - informuje jego adwokat. Sąd w Hamburgu wydał zgodę na ekstradycję Patryka M. do Polski. W kraju grozi mu wyrok wieloletniego więzienia w związku z zarzutami o działalność w zorganizowanej grupie przestępczej specjalizującej się w przemycie i handlu narkotykami."
-    },
-    {
-      "title": "\"Celowo\" wjeżdżał w ludzi, 10 osób rannych",
-      "link": "https://tvn24.pl/swiat/francja-35-latek-celowo-wjezdzal-w-ludzi-10-osob-rannych-st8736866?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 12:42:20 GMT",
-      "description": "Dziesięć osób zostało rannych po tym, jak w środę rano na wyspie Oléron we Francji 35-letni kierowca potrącił pieszych i rowerzystów. Sprawca został aresztowany. Jest znany służbom \"z licznych incydentów\". Prokuratura w La Rochelle wszczęła śledztwo.",
-      "originalTitle": "\"Celowo\" wjeżdżał w ludzi, 10 osób rannych",
-      "originalDescription": "Dziesięć osób zostało rannych po tym, jak w środę rano na wyspie Oléron we Francji 35-letni kierowca potrącił pieszych i rowerzystów. Sprawca został aresztowany. Jest znany służbom \"z licznych incydentów\". Prokuratura w La Rochelle wszczęła śledztwo."
-    },
-    {
-      "title": "Ostre słowa prezesa NRL: MZ szczuje na lekarzy zamiast naprawiać system",
-      "link": "https://tvn24.pl/zdrowie/ostre-slowa-prezesa-nrl-mz-szczuje-na-lekarzy-zamiast-naprawiac-system-st8736893?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 12:34:29 GMT",
-      "description": "Żądamy dialogu i poważnego potraktowania. O lekarzach nie można rozmawiać bez lekarzy - powiedział prezes Naczelnej Rady Lekarskiej Łukasz Jankowski podczas dzisiejszego briefingu prasowego. Samorząd lekarski twierdzi, że Ministerstwo Zdrowia konsekwentnie nie spotyka się z jego środowiskiem, podczas gdy pomysły optymalizacji systemu ochrony zdrowia dotyczą bezpośrednio właśnie tej grupy zawodowej. Chodzi przede wszystkim o propozycję wprowadzenia limitu wynagrodzeń.",
-      "originalTitle": "Ostre słowa prezesa NRL: MZ szczuje na lekarzy zamiast naprawiać system",
-      "originalDescription": "Żądamy dialogu i poważnego potraktowania. O lekarzach nie można rozmawiać bez lekarzy - powiedział prezes Naczelnej Rady Lekarskiej Łukasz Jankowski podczas dzisiejszego briefingu prasowego. Samorząd lekarski twierdzi, że Ministerstwo Zdrowia konsekwentnie nie spotyka się z jego środowiskiem, podczas gdy pomysły optymalizacji systemu ochrony zdrowia dotyczą bezpośrednio właśnie tej grupy zawodowej. Chodzi przede wszystkim o propozycję wprowadzenia limitu wynagrodzeń."
-    },
-    {
-      "title": "\"Tak trzeba bronić ludzi, którzy uzyskali azyl\". Matecki o \"odstrzeleniu\" funkcjonariusza",
-      "link": "https://tvn24.pl/polska/dariusz-matecki-o-sprawie-zbigniewa-ziobry-mowi-o-odstrzeleniu-przez-sluzby-wegierskie-funkcjonariusza-st8736705?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 12:30:36 GMT",
-      "description": "Taki \"łowca cieni\" powinien być po prostu odstrzelony przez służby węgierskie. Inaczej tego nie da się określić - powiedział poseł PiS Dariusz Matecki. Odniósł się do sprawy Zbigniewa Ziobry i możliwości zaangażowania w ewentualne zatrzymanie byłego ministra sprawiedliwości grupy \"łowców cieni\", gdyby Ziobro dostał azyl na Węgrzech.",
-      "originalTitle": "\"Tak trzeba bronić ludzi, którzy uzyskali azyl\". Matecki o \"odstrzeleniu\" funkcjonariusza",
-      "originalDescription": "Taki \"łowca cieni\" powinien być po prostu odstrzelony przez służby węgierskie. Inaczej tego nie da się określić - powiedział poseł PiS Dariusz Matecki. Odniósł się do sprawy Zbigniewa Ziobry i możliwości zaangażowania w ewentualne zatrzymanie byłego ministra sprawiedliwości grupy \"łowców cieni\", gdyby Ziobro dostał azyl na Węgrzech."
-    },
-    {
-      "title": "Ciało kobiety w walizce, syn w areszcie. Decyzja sądu",
-      "link": "https://tvn24.pl/bialystok/suwalki-cialo-kobiety-w-walizce-syn-trafi-na-obserwacje-psychiatryczna-st8736846?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 12:18:01 GMT",
-      "description": "Sąd Rejonowy w Suwałkach zarządził obserwację 50-letniego mężczyzny zatrzymanego w śledztwie dotyczącym znalezionych w walizce zwłok kobiety. Przedłużył też areszt wobec podejrzanego.",
-      "originalTitle": "Ciało kobiety w walizce, syn w areszcie. Decyzja sądu",
-      "originalDescription": "Sąd Rejonowy w Suwałkach zarządził obserwację 50-letniego mężczyzny zatrzymanego w śledztwie dotyczącym znalezionych w walizce zwłok kobiety. Przedłużył też areszt wobec podejrzanego."
     }
   ]
 }
