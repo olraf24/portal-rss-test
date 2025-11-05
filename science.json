@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-11-05T09:06:33.253Z",
+  "lastUpdate": "2025-11-05T09:37:26.808Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Nowy impuls dla terapii wzroku. Co dzieje się w mózgu, gdy stymulujemy oko prądem?",
+      "link": "https://dzienniknaukowy.pl/nowy-impuls-dla-terapii-wzroku-co-dzieje-sie-w-mozgu-gdy-stymulujemy-oko-pradem",
+      "pubDate": "Wed, 05 Nov 2025 09:19:23 +0000",
+      "description": "Nowe badania przeprowadzone we współpracy naukowców ICTER ujawniają, jak bardzo różnią się odpowiedzi mózgu na bodźce świetlne i elektryczne. Odkrycia te mogą przyczynić się do rozwoju bardziej precyzyjnych terapii przywracających wzrok, w tym terapii z użyciem przezrogówkowej stymulacji elektrycznej (tACS)."
+    },
     {
       "title": "Komórkowe trytytki i ich rola w dojrzewaniu i specjalizacji komórek",
       "link": "https://dzienniknaukowy.pl/komorkowe-trytytki-i-ich-rola-w-dojrzewaniu-i-specjalizacji-komorek",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/nanowlokniste-katody-wzmacniaja-ogniwa-paliwowe",
       "pubDate": "Wed, 29 Oct 2025 17:15:27 +0000",
       "description": "Mikrododatek materiału o ujemnej rozszerzalności cieplnej (NTE) oraz nanowłóknista budowa katody znacząco podnoszą sprawność i trwałość stałotlenkowych ogniw paliwowych. Nowatorski pomysł powstał na Akademii Górniczo-Hutniczej w Krakowie, a w pracach brały udział także zespoły z Danii i Chin"
-    },
-    {
-      "title": "Gospodarka o obiegu zamkniętym a ślad węglowy &#8211; kiedy recykling i ponowne użycie naprawdę zmniejszają emisje?",
-      "link": "https://dzienniknaukowy.pl/gospodarka-o-obiegu-zamknietym-a-slad-weglowy-kiedy-recykling-i-ponowne-uzycie-naprawde-zmniejszaja-emisje",
-      "pubDate": "Wed, 29 Oct 2025 08:01:00 +0000",
-      "description": "Gospodarka o obiegu zamkniętym stała się jednym z najważniejszych trendów w strategiach zrównoważonego rozwoju. Firmy chwalą się programami recyklingu, projektowaniem produktów z myślą o ponownym użyciu i zamykaniem pętli materiałowych. Ale czy każde działanie w ramach gospodarki cyrkularnej automatycznie przekłada się na niższy ślad węglowy?"
     }
   ]
 }
