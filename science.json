@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-11-06T10:39:10.851Z",
+  "lastUpdate": "2025-11-06T11:05:14.254Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Śmierć komórki, czyli jak nasze ciało uczy się umierać i odnawiać",
+      "link": "https://dzienniknaukowy.pl/smierc-komorki-czyli-jak-nasze-cialo-uczy-sie-umierac-i-odnawiac",
+      "pubDate": "Thu, 06 Nov 2025 10:43:44 +0000",
+      "description": "Śmierć zaczyna się już w życiu płodowym. Dr Paulina Łopatniuk, lekarka, patomorfolożka, autorka bloga „Patolodzy na klatce”, opowiada, jak komórki umierają, odnawiają się i dlaczego zrozumienie tych procesów jest kluczowe w walce z chorobami – także nowotworami."
+    },
     {
       "title": "W NCBJ powstał nowy model komputerowy do badań wysokoenergetycznych fotonów",
       "link": "https://dzienniknaukowy.pl/w-ncbj-powstal-nowy-model-komputerowy-do-badan-wysokoenergetycznych-fotonow",
       "pubDate": "Thu, 06 Nov 2025 10:15:49 +0000",
       "description": "Naukowcy z Narodowego Centrum Badań Jądrowych, Uniwersytetu Wiedeńskiego i Uniwersytetu Jagiellońskiego opracowali nowy model komputerowy pozwalający badać zjawiska kwantowe w świecie wysokoenergetycznych fotonów – cząstek światła o energiach milion razy większych niż te, które widzimy gołym okiem"
+    },
+    {
+      "title": "Metody makrofotografii we współczesnych badaniach biologicznych",
+      "link": "https://dzienniknaukowy.pl/metody-makrofotografii-we-wspolczesnych-badaniach-biologicznych",
+      "pubDate": "Thu, 06 Nov 2025 08:45:00 +0000",
+      "description": "Makrofotografia — to nie jest zwykłe „robienie zdjęć z bliska”. To patrzenie tam, gdzie świat staje się niemal abstrakcyjny. Dla biologów – to nie tylko estetyka, to narzędzie, które zmienia sposób patrzenia na życie. Dosłownie. Bo kiedy zbliżasz się do poziomu owada, pyłku czy struktury komórki, nagle widzisz, że wszystko, co wydawało się proste, ma swoje warstwy, kształty, logikę."
     },
     {
       "title": "Bakteriofagi kontra rak. Wirusy, które mogą pomóc w walce z nowotworami",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/dlaczego-studia-z-ai-w-biznesie-to-inwestycja-w-kariere-odpowiadamy",
       "pubDate": "Tue, 04 Nov 2025 08:05:00 +0000",
       "description": "Sztuczna inteligencja nie jest już przyszłością – to teraźniejszość, która zmienia sposób, w jaki funkcjonują firmy i całe branże. Od analizy danych, przez automatyzację procesów, po personalizację oferty – AI w firmie staje się fundamentem nowoczesnego zarządzania. Jeśli chcesz nie tylko rozumieć te zmiany, ale także aktywnie w nich uczestniczyć, warto przyjrzeć się nowemu kierunkowi, który oferuje Politechnika Lubelska – Sztuczna inteligencja w biznesie."
-    },
-    {
-      "title": "I Konferencja Weterynarii Egzotycznej w Orientarium ZOO Łódź",
-      "link": "https://dzienniknaukowy.pl/i-konferencja-weterynarii-egzotycznej-w-orientarium-zoo-lodz",
-      "pubDate": "Mon, 03 Nov 2025 10:19:00 +0000",
-      "description": "Zanurz się w fascynujący świat weterynarii egzotycznej. Już 7–8 marca 2026 roku w unikalnej scenerii Orientarium ZOO Łódź odbędzie się pierwsza edycja Konferencji Akademii Weterynarii Egzotycznej."
-    },
-    {
-      "title": "Światło zamiast pieca w procesie wytwarzania formaldehydu",
-      "link": "https://dzienniknaukowy.pl/swiatlo-zamiast-pieca-w-procesie-wytwarzania-formaldehydu",
-      "pubDate": "Thu, 30 Oct 2025 17:37:54 +0000",
-      "description": "Materiał, który pod wpływem światła widzialnego zamienia surowiec chemiczny w gotowy produkt – w temperaturze pokojowej i pod zwykłym ciśnieniem. To polska koncepcja zielonej alternatywy dla gorących, energochłonnych procesów przemysłowych wytwarzania formaldehydu."
     }
   ]
 }
