@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2025-11-06T21:05:45.637Z",
+  "lastUpdate": "2025-11-06T21:34:57.342Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Dyrektor firmy farmaceutycznej stracił przytomność w Białym Domu",
+      "link": "https://tvn24.pl/swiat/dyrektor-firmy-farmaceutycznej-zemdlal-w-gabinecie-owalnym-st8740205?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 21:17:05 GMT",
+      "description": "• Dyrektor do spraw opieki zdrowotnej w firmie farmaceutycznej Novo Nordisk to Gordon Findlay.\n• Gordon Findlay zemdlał w Gabinecie Owalnym.\n• Zemdlenie Gordona Findlaya nastąpiło w czasie wystąpienia na temat leków na odchudzanie.",
+      "originalTitle": "Dyrektor firmy farmaceutycznej zemdlał w Gabinecie Owalnym",
+      "originalDescription": "Dyrektor do spraw opieki zdrowotnej w firmie farmaceutycznej Novo Nordisk Gordon Findlay zemdlał w Gabinecie Owalnym w czasie wystąpienia na temat leków na odchudzanie."
+    },
     {
       "title": "Nawrocki zawetował ustawę o zmianach w ubezpieczeniach",
       "link": "https://tvn24.pl/biznes/pieniadze/nawrocki-zawetowal-ustawe-o-zmianach-w-ubezpieczeniach-oslabienie-ochrony-obywateli-st8740169?source=rss",
@@ -15,12 +23,12 @@
       "title": "Ostrzeżenia IMGW przed mgłą",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-gesta-mgla-ograniczona-widzialnosc-alarmy-w-12-wojewodztwach-st8739577?source=rss",
       "pubDate": "Thu, 06 Nov 2025 15:07:25 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed gęstą mgłą.\n• Ostrzeżenia dotyczą mgły, która może ograniczać widzialność.\n• Zalecane jest zachowanie szczególnej ostrożności w miejscach, gdzie mgła jest najgęstsza.",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed gęstą mgłą.\n• Ostrzeżenia dotyczą mgły, która może ograniczać widzialność.\n• Zalecane jest zachowanie szczególnej ostrożności w miejscach, gdzie mgła występuje.",
       "originalTitle": "Gęsta mgła. Wiele regionów objętych ostrzeżeniami IMGW",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed gęstą mgłą, która może ograniczać widzialność. Sprawdź, gdzie należy zachować szczególną ostrożność."
     },
     {
-      "title": "Protest na Starym Żoliborzu przeciw likwidacji miejsc parkingowych",
+      "title": "Na Starym Żoliborzu protestują przeciwko likwidacji miejsc parkingowych",
       "link": "https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-mieszkancy-starego-zoliborza-przeciwko-likwidacji-miejsc-parkingowych-st8739642?source=rss",
       "pubDate": "Thu, 06 Nov 2025 20:38:37 GMT",
       "description": "Mieszkańcy Starego Żoliborza twierdzą, że trwający remont ulic pozbawi ich 40 miejsc parkingowych. Zarzucają dzielnicy, że o pracach nie zostali wcześniej poinformowani. Żoliborski urząd zaprzecza likwidacji takiej liczby miejsc postojowych i tłumaczy, dlaczego musiał wprowadzić zmiany.",
@@ -28,7 +36,7 @@
       "originalDescription": "Mieszkańcy Starego Żoliborza twierdzą, że trwający remont ulic pozbawi ich 40 miejsc parkingowych. Zarzucają dzielnicy, że o pracach nie zostali wcześniej poinformowani. Żoliborski urząd zaprzecza likwidacji takiej liczby miejsc postojowych i tłumaczy, dlaczego musiał wprowadzić zmiany."
     },
     {
-      "title": "Komisja opowiada się za odebraniem immunitetu Ziobrze",
+      "title": "Komisja za odebraniem immunitetu Ziobrze",
       "link": "https://tvn24.pl/polska/zbigniew-ziobro-komisja-zdecydowala-o-jego-immunitecie-byly-minister-sie-nie-pojawil-st8739688?source=rss",
       "pubDate": "Thu, 06 Nov 2025 15:36:15 GMT",
       "description": "Komisja regulaminowa poparła wniosek o uchylenie immunitetu Zbigniewowi Ziobrze - poinformował jej przewodniczący poseł KO Jarosław Urbaniak. Opowiedziała się też za jego zatrzymaniem i tymczasowym aresztowaniem. Decyzja należy teraz do Sejmu.",
@@ -74,14 +82,6 @@
       "description": "- To jest człowiek, który jest pozerem, on jest tchórzem - mówił Krzysztof Brejza o Zbigniewie Ziobrze w \"Kropce nad i\" w TVN24. Zdaniem europosła KO, były minister sprawiedliwości pokazał również, że nie szanuje organów państwa prawa.",
       "originalTitle": "Krzysztof Brejza w \"Kropce nad i\": Zbigniew Ziobro nie szanuje Polski",
       "originalDescription": "- To jest człowiek, który jest pozerem, on jest tchórzem - mówił Krzysztof Brejza o Zbigniewie Ziobrze w \"Kropce nad i\" w TVN24. Zdaniem europosła KO, były minister sprawiedliwości pokazał również, że nie szanuje organów państwa prawa."
-    },
-    {
-      "title": "Niemiecki przemysł stalowy \"w kryzysie zagrażającym jego istnieniu\"",
-      "link": "https://tvn24.pl/biznes/najnowsze/kanclerz-niemiec-friedrich-merz-o-problemach-niemieckiej-branzy-stalowej-na-stalowym-szczycie-w-berlinie-st8740125?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 19:44:09 GMT",
-      "description": "Niemiecki przemysł stalowy w tarapatach. Jak ocenił kanclerz Friedrich Merz, jest w \"kryzysie zagrażającym jego istnieniu\". - Nie mówimy tu o abstrakcyjnych danych gospodarczych, lecz o losie kluczowej branży, o losie pracowników i ich rodzin - zastrzegł szef rządu.",
-      "originalTitle": "Niemiecki przemysł stalowy \"w kryzysie zagrażającym jego istnieniu\"",
-      "originalDescription": "Niemiecki przemysł stalowy w tarapatach. Jak ocenił kanclerz Friedrich Merz, jest w \"kryzysie zagrażającym jego istnieniu\". - Nie mówimy tu o abstrakcyjnych danych gospodarczych, lecz o losie kluczowej branży, o losie pracowników i ich rodzin - zastrzegł szef rządu."
     }
   ]
 }
