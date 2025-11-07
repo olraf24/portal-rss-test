@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2025-11-07T09:35:57.718Z",
+  "lastUpdate": "2025-11-07T10:06:13.060Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Świecące nanocząstki PersL ułatwią śledzenie drogi leków w organizmie",
+      "link": "https://dzienniknaukowy.pl/swiecace-nanoczastki-persl-ulatwia-sledzenie-drogi-lekow-w-organizmie",
+      "pubDate": "Fri, 07 Nov 2025 10:06:11 +0000",
+      "description": "Zamiast świecić tylko pod lampą, nanocząstki PersL jarzą się długo po jej wyłączeniu - i to w podczerwieni, która lepiej przenika przez tkanki. Badania fizyków z Wrocławia pokazują, że ich sygnał pozostaje czytelny w kontakcie z białkami krwi, a dobrana powłoka powierzchniowa pozwala bezpieczniej śledzić drogę leków."
+    },
+    {
+      "title": "Metale ciężkie i pestycydy w warzywach i owocach z działek miejskich",
+      "link": "https://dzienniknaukowy.pl/metale-ciezkie-i-pestycydy-w-warzywach-i-owocach-z-dzialek-miejskich",
+      "pubDate": "Fri, 07 Nov 2025 09:48:15 +0000",
+      "description": "Marchew z działki, sałata z miejskiego ogródka czy truskawki z własnej uprawy – to symbole zdrowej, lokalnej żywności. Jednak najnowsze badania wskazują, że nawet warzywa i owoce pochodzące z upraw prowadzonych w warunkach amatorskich w miejskich ogrodach działkowych mogą kumulować metale ciężkie, pestycydy, a także pozostałości antybiotyków. Eksperci ostrzegają, że w środowisku miejskim produkcja żywności może być obarczona ryzykiem chemicznego zanieczyszczenia, niewidocznym gołym okiem"
+    },
     {
       "title": "Śmierć komórki, czyli jak nasze ciało uczy się umierać i odnawiać",
       "link": "https://dzienniknaukowy.pl/smierc-komorki-czyli-jak-nasze-cialo-uczy-sie-umierac-i-odnawiac",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/komorkowe-trytytki-i-ich-rola-w-dojrzewaniu-i-specjalizacji-komorek",
       "pubDate": "Tue, 04 Nov 2025 09:57:10 +0000",
       "description": "Podczas rozwoju embrionalnego komórki coraz bardziej się specjalizują, co wiąże się z dojrzewaniem trójwymiarowej struktury DNA i zacieśnianiem pętli chromatyny. Mechanizm ten – na przykładzie komórek nerwowych – opisał zespół prof. Aleksandry Pękowskiej, przy wsparciu matematyków."
-    },
-    {
-      "title": "Wczesna ekspozycja na dwutlenek azotu negatywnie wpływa na strukturę mózgu dzieci",
-      "link": "https://dzienniknaukowy.pl/wczesna-ekspozycja-na-dwutlenek-azotu-negatywnie-wplywa-na-strukture-mozgu-dzieci",
-      "pubDate": "Tue, 04 Nov 2025 09:35:38 +0000",
-      "description": "Ekspozycja na dwutlenek azotu we wczesnym dzieciństwie i okresie prenatalnym może mieć negatywny wpływ na strukturę istoty białej w mózgu - pokazuje badanie, kierowane przez psychologów UJ. Istota biała pełni kluczowe funkcje w komunikacji między obszarami mózgu i odgrywa istotną rolę w procesie uczenia."
-    },
-    {
-      "title": "Dlaczego studia z AI w biznesie to inwestycja w karierę? Odpowiadamy",
-      "link": "https://dzienniknaukowy.pl/dlaczego-studia-z-ai-w-biznesie-to-inwestycja-w-kariere-odpowiadamy",
-      "pubDate": "Tue, 04 Nov 2025 08:05:00 +0000",
-      "description": "Sztuczna inteligencja nie jest już przyszłością – to teraźniejszość, która zmienia sposób, w jaki funkcjonują firmy i całe branże. Od analizy danych, przez automatyzację procesów, po personalizację oferty – AI w firmie staje się fundamentem nowoczesnego zarządzania. Jeśli chcesz nie tylko rozumieć te zmiany, ale także aktywnie w nich uczestniczyć, warto przyjrzeć się nowemu kierunkowi, który oferuje Politechnika Lubelska – Sztuczna inteligencja w biznesie."
     }
   ]
 }
