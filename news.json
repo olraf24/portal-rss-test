@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2025-11-07T08:07:54.788Z",
+  "lastUpdate": "2025-11-07T08:40:55.770Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Quiz na temat mięsożerności",
+      "title": "NBP aktualizuje prognozy gospodarcze",
+      "link": "https://tvn24.pl/biznes/z-kraju/nbp-zmienia-prognozy-dla-polskiej-gospodarki-st8740565?source=rss",
+      "pubDate": "Fri, 07 Nov 2025 08:38:29 GMT",
+      "description": "• Narodowy Bank Polski przedstawił najnowszy \"Raport o inflacji\".\n• W raporcie NBP zrewidował swoje prognozy gospodarcze.\n• Według NBP inflacja w przyszłym roku spadnie poniżej 3 procent.\n• Tempo wzrostu gospodarczego przyspieszy.",
+      "originalTitle": "NBP zmienia prognozy dla polskiej gospodarki",
+      "originalDescription": "Narodowy Bank Polski przedstawił najnowszy \"Raport o inflacji\", w którym zrewidował swoje prognozy gospodarcze. Według NBP inflacja w przyszłym roku spadnie poniżej 3 procent, a tempo wzrostu gospodarczego przyspieszy."
+    },
+    {
+      "title": "Chiny uruchomiły nowy lotniskowiec",
+      "link": "https://tvn24.pl/swiat/chiny-najwiekszy-lotniskowiec-fujian-oddany-do-sluzby-potencjalny-przelom-komentarze-ekspertow-st8740406?source=rss",
+      "pubDate": "Fri, 07 Nov 2025 08:36:51 GMT",
+      "description": "Chiny oddały do służby swój największy lotniskowiec - Fujian. To pierwszy zbudowany całkowicie w Chinach lotniskowiec, który ma otwierać nowy rozdział w wysiłkach państwa na rzecz modernizacji sił zbrojnych. Zdaniem ekspertów jego możliwości pozostają jednak na razie ograniczone.",
+      "originalTitle": "Największy lotniskowiec Chin oddany do służby. \"Potencjalny przełom\"",
+      "originalDescription": "Chiny oddały do służby swój największy lotniskowiec - Fujian. To pierwszy zbudowany całkowicie w Chinach lotniskowiec, który ma otwierać nowy rozdział w wysiłkach państwa na rzecz modernizacji sił zbrojnych. Zdaniem ekspertów jego możliwości pozostają jednak na razie ograniczone."
+    },
+    {
+      "title": "COP30: Stany Zjednoczone nieobecne, Chiny apelują o współpracę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/cop30-usa-wielkim-nieobecnym-chiny-nikt-nie-moze-sobie-pozwolic-na-pozostanie-w-tyle-st8740421?source=rss",
+      "pubDate": "Fri, 07 Nov 2025 08:30:29 GMT",
+      "description": "10 listopada w Brazylii rozpocznie się COP30 - kolejna edycja konferencji ONZ dotyczącej zmian klimatu. Już wcześniej na miejscu spotkali się przywódcy krajów i padły pierwsze ustalenia. Wielkim nieobecnym szczytu są Stany Zjednoczone.",
+      "originalTitle": "COP30. USA wielkim nieobecnym. Chiny: nikt nie może sobie pozwolić na pozostanie w tyle",
+      "originalDescription": "10 listopada w Brazylii rozpocznie się COP30 - kolejna edycja konferencji ONZ dotyczącej zmian klimatu. Już wcześniej na miejscu spotkali się przywódcy krajów i padły pierwsze ustalenia. Wielkim nieobecnym szczytu są Stany Zjednoczone."
+    },
+    {
+      "title": "Brzoska: możliwość wygrania i stworzenia precedensu",
+      "link": "https://tvn24.pl/biznes/tech/rafal-brzoska-ktos-musi-to-wygrac-i-stworzyc-precedens-st8740415?source=rss",
+      "pubDate": "Fri, 07 Nov 2025 08:11:18 GMT",
+      "description": "Ktoś musi wygrać z amerykańskim koncernem Meta w sprawie deepfejkowych reklam, inaczej dajemy milczące przyzwolenie na łamanie prawa – stwierdził w rozmowie z \"Pulsem Biznesu\" prezes InPostu Rafał Brzoska.",
+      "originalTitle": "Brzoska: ktoś musi to wygrać i stworzyć precedens",
+      "originalDescription": "Ktoś musi wygrać z amerykańskim koncernem Meta w sprawie deepfejkowych reklam, inaczej dajemy milczące przyzwolenie na łamanie prawa – stwierdził w rozmowie z \"Pulsem Biznesu\" prezes InPostu Rafał Brzoska."
+    },
+    {
+      "title": "Nie jesteś miękiszonem? Udowodnij to w naszym quizie",
       "link": "https://tvn24.pl/quizy/nie-jestes-miekiszonem-udowodnij-to-w-naszym-quizie-st8739458?source=rss",
       "pubDate": "Fri, 07 Nov 2025 08:02:19 GMT",
       "description": "Śpiewać każdy może, to i my spróbujemy. Zapraszamy na całkiem nowy quiz tygodniowy.",
@@ -12,20 +44,20 @@
       "originalDescription": "Śpiewać każdy może, to i my spróbujemy. Zapraszamy na całkiem nowy quiz tygodniowy."
     },
     {
-      "title": "Powrót śledczego po sprawie Gudzowatego",
+      "title": "Tropił neonazistów i losy spadku po Gudzowatym. Teraz wraca",
       "link": "https://tvn24.pl/polska/sprawa-prokuratora-grzegorza-maslowskiego-jest-decyzja-sadu-st8736707?source=rss",
       "pubDate": "Fri, 07 Nov 2025 07:54:09 GMT",
-      "description": "• Po sześciu miesiącach zawieszenia sąd dyscyplinarny pozwolił wrócić do pracy prokuratorowi Grzegorzowi Masłowskiemu.\n• Prokurator Grzegorz Masłowski prowadził głośne śledztwa między innymi przeciwko gangowi wołomińskiemu.\n• Prokurator Grzegorz Masłowski prowadził głośne śledztwa między innymi przeciwko mafijnym układom w branży hazardowej.\n• Prokurator Grzegorz Masłowski prowadził głośne śledztwa między innymi przeciwko środowiskom faszystowskim.\n• W tle tego zawieszenia są śledztwa dotyczące majątku, jaki po sobie pozostawił miliarder Aleksander Gudzowaty.",
+      "description": "Po sześciu miesiącach zawieszenia sąd dyscyplinarny pozwolił wrócić do pracy prokuratorowi Grzegorzowi Masłowskiemu, który prowadził głośne śledztwa między innymi przeciwko gangowi wołomińskiemu, mafijnym układom w branży hazardowej oraz środowiskom faszystowskim. W tle tego zawieszenia są śledztwa dotyczące majątku, jaki po sobie pozostawił miliarder Aleksander Gudzowaty.",
       "originalTitle": "Tropił neonazistów i losy spadku po Gudzowatym. Teraz wraca",
       "originalDescription": "Po sześciu miesiącach zawieszenia sąd dyscyplinarny pozwolił wrócić do pracy prokuratorowi Grzegorzowi Masłowskiemu, który prowadził głośne śledztwa między innymi przeciwko gangowi wołomińskiemu, mafijnym układom w branży hazardowej oraz środowiskom faszystowskim. W tle tego zawieszenia są śledztwa dotyczące majątku, jaki po sobie pozostawił miliarder Aleksander Gudzowaty."
     },
     {
-      "title": "Zgłoszenie o spadającym obiekcie na Dolnym Śląsku",
+      "title": "Zgłoszenia o spadającym obiekcie na Dolnym Śląsku. Akcja służb",
       "link": "https://tvn24.pl/wroclaw/dolny-slask-zgloszenia-o-spadajacym-niezidentyfikowanym-obiekcie-akcja-sluzb-st8740451?source=rss",
       "pubDate": "Fri, 07 Nov 2025 07:52:10 GMT",
-      "description": "• Trzy niezależne zgłoszenia o niezidentyfikowanym, spadającym obiekcie wpłynęły do służb na Dolnym Śląsku.\n• Tomasz Jankowski, rzecznik prasowy Dolnośląskiego Urzędu Wojewódzkiego, poinformował o tych zgłoszeniach.\n• W okolicach Kątów Wrocławskich nie znaleziono żadnych śladów.\n• W Magnicach wciąż trwa akcja służb.\n• W Kowarach wciąż trwa akcja służb.",
+      "description": "Trzy niezależne zgłoszenia o niezidentyfikowanym, spadającym obiekcie wpłynęły do służb na Dolnym Śląsku - poinformował Tomasz Jankowski, rzecznik prasowy Dolnośląskiego Urzędu Wojewódzkiego. Choć w okolicach Kątów Wrocławskich nie znaleziono żadnych śladów, w Magnicach i Wilkanowie wciąż trwa akcja służb.",
       "originalTitle": "Zgłoszenia o spadającym obiekcie na Dolnym Śląsku. Akcja służb",
-      "originalDescription": "Trzy niezależne zgłoszenia o niezidentyfikowanym, spadającym obiekcie wpłynęły do służb na Dolnym Śląsku - poinformował Tomasz Jankowski, rzecznik prasowy Dolnośląskiego Urzędu Wojewódzkiego. Choć w okolicach Kątów Wrocławskich nie znaleziono żadnych śladów, w Magnicach i Kowarach wciąż trwa akcja służb."
+      "originalDescription": "Trzy niezależne zgłoszenia o niezidentyfikowanym, spadającym obiekcie wpłynęły do służb na Dolnym Śląsku - poinformował Tomasz Jankowski, rzecznik prasowy Dolnośląskiego Urzędu Wojewódzkiego. Choć w okolicach Kątów Wrocławskich nie znaleziono żadnych śladów, w Magnicach i Wilkanowie wciąż trwa akcja służb."
     },
     {
       "title": "Informacja o dronie, zamknięto lotnisko. \"Każde zgłoszenie musimy traktować poważnie\"",
@@ -50,38 +82,6 @@
       "description": "Policjanci z Bielska-Białej odnaleźli 85-latka, który wyszedł ze swojego mieszkania w nocy z poniedziałku na wtorek. Był w samych skarpetkach, bez butów. Funkcjonariusze znaleźli mężczyznę po kilkudziesięciu godzinach poszukiwań. Jak się okazało, był w mieszkaniu obcej mu wcześniej osoby.",
       "originalTitle": "85-latek wyszedł w nocy z domu bez butów, znaleźli go w mieszkaniu obcej osoby",
       "originalDescription": "Policjanci z Bielska-Białej odnaleźli 85-latka, który wyszedł ze swojego mieszkania w nocy z poniedziałku na wtorek. Był w samych skarpetkach, bez butów. Funkcjonariusze znaleźli mężczyznę po kilkudziesięciu godzinach poszukiwań. Jak się okazało, był w mieszkaniu obcej mu wcześniej osoby."
-    },
-    {
-      "title": "Pocisk przeleciał 700 kilometrów. Reżim Kima znów testuje rakiety",
-      "link": "https://tvn24.pl/swiat/korea-polnocna-kolejny-test-rakiety-pocisk-przelecial-700-kilometrow-st8740399?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:18:37 GMT",
-      "description": "Korea Północna wystrzeliła rakietę balistyczną w kierunku Morza Wschodniego - poinformowało wojsko w Seulu. Pocisk przeleciał kilkaset kilometrów. Wystrzelenie zostało potwierdzone także przez japońską straż przybrzeżną.",
-      "originalTitle": "Pocisk przeleciał 700 kilometrów. Reżim Kima znów testuje rakiety",
-      "originalDescription": "Korea Północna wystrzeliła rakietę balistyczną w kierunku Morza Wschodniego - poinformowało wojsko w Seulu. Pocisk przeleciał kilkaset kilometrów. Wystrzelenie zostało potwierdzone także przez japońską straż przybrzeżną."
-    },
-    {
-      "title": "Bodnar o sprawie Ziobry. \"Retoryka, która moim zdaniem jest niedopuszczalna\"",
-      "link": "https://tvn24.pl/polska/adam-bodnar-o-sprawie-zbigniewa-ziobry-retoryka-ktora-moim-zdaniem-jest-niedopuszczalna-st8740390?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:12:57 GMT",
-      "description": "Wszystko jest robione zgodnie z procedurami, aby społeczeństwo widziało, że nie chodzi o żadne osiągnięcie pozapolitycznych celów - powiedział w \"Jeden na jeden\" w TVN24 senator KO i były minister sprawiedliwości Adam Bodnar. Komentował w ten sposób oskarżenia opozycji, że kroki podejmowane wobec Zbigniewa Ziobry są zemstą.",
-      "originalTitle": "Bodnar o sprawie Ziobry. \"Retoryka, która moim zdaniem jest niedopuszczalna\"",
-      "originalDescription": "Wszystko jest robione zgodnie z procedurami, aby społeczeństwo widziało, że nie chodzi o żadne osiągnięcie pozapolitycznych celów - powiedział w \"Jeden na jeden\" w TVN24 senator KO i były minister sprawiedliwości Adam Bodnar. Komentował w ten sposób oskarżenia opozycji, że kroki podejmowane wobec Zbigniewa Ziobry są zemstą."
-    },
-    {
-      "title": "Złamał zakaz, nie ma prawa jazdy, poprosił, by nic nie mówili szefowi",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zlamal-zakaz-nie-mial-prawa-jazdy-prosil-straznikow-o-dyskrecje-st8740439?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:12:51 GMT",
-      "description": "W rejonie placu Pięciu Rogów strażnicy miejscy skontrolowali kierowcę, który złamał zakaz poruszania się w tym miejscu. Okazało się, że mężczyzna nie ma prawa jazdy. Poprosił funkcjonariuszy, by o sprawie nie informowali jego szefa.",
-      "originalTitle": "Złamał zakaz, nie ma prawa jazdy, poprosił, by nic nie mówili szefowi",
-      "originalDescription": "W rejonie placu Pięciu Rogów strażnicy miejscy skontrolowali kierowcę, który złamał zakaz poruszania się w tym miejscu. Okazało się, że mężczyzna nie ma prawa jazdy. Poprosił funkcjonariuszy, by o sprawie nie informowali jego szefa."
-    },
-    {
-      "title": "Ofiary śmiertelne w Wietnamie. Niszczycielski tajfun wcześniej nawiedził Filipiny",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/ofiary-smiertelne-w-wietnamie-niszczycielski-tajfun-wczesniej-nawiedzil-filipiny-st8740378?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:06:40 GMT",
-      "description": "Tajfun Kalmaegi uderzył w Wietnam. Władze poinformowały o pierwszych ofiarach śmiertelnych i zniszczeniach. Wzrosła także liczba osób zabitych przez żywioł na Filipinach, które przygotowują się na kolejny tajfun.",
-      "originalTitle": "Ofiary śmiertelne w Wietnamie. Niszczycielski tajfun wcześniej nawiedził Filipiny",
-      "originalDescription": "Tajfun Kalmaegi uderzył w Wietnam. Władze poinformowały o pierwszych ofiarach śmiertelnych i zniszczeniach. Wzrosła także liczba osób zabitych przez żywioł na Filipinach, które przygotowują się na kolejny tajfun."
     }
   ]
 }
