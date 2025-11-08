@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-11-08T10:05:47.863Z",
+  "lastUpdate": "2025-11-08T10:36:46.813Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Nowe filmy i wydarzenia w świecie rozrywki",
+      "title": "Pożar w Słupsku, jedna ofiara śmiertelna",
+      "link": "https://tvn24.pl/trojmiasto/slupsk-mezczyzna-zginal-w-pozarze-bloku-st8742624?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 10:31:33 GMT",
+      "description": "• Strażacy interweniowali w sobotę rano w Słupsku.\n• Doszło do pożaru mieszkania w bloku.\n• Jedna osoba nie przeżyła.\n• Inna osoba została ewakuowana z lokalu.\n• Ewakuowana osoba została przewieziona do szpitala.",
+      "originalTitle": "Tragiczny pożar w Słupsku, jedna osoba nie przeżyła",
+      "originalDescription": "Strażacy interweniowali w sobotę rano w Słupsku, gdzie doszło do pożaru mieszkania w bloku. Jedna osoba nie przeżyła, a inna, ewakuowana z lokalu została przewieziona do szpitala."
+    },
+    {
+      "title": "Zmiany w rozkładach jazdy komunikacji miejskiej",
+      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-komunikacja-miejska-w-dlugi-weekend-zmiany-w-rozkladach-jazdy-st8742562?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 10:23:40 GMT",
+      "description": "W długi weekend listopadowy komunikacja miejska będzie kursować według zmienionych rozkładów jazdy. W sobotę i niedzielę zmiany są niewielkie. W poniedziałek większość tramwajów i autobusów pojedzie według sobotniego rozkładu, a w Święto Niepodległości według świątecznego.",
+      "originalTitle": "Długi weekend w komunikacji miejskiej, nowe rozkłady jazdy",
+      "originalDescription": "W długi weekend listopadowy komunikacja miejska będzie kursować według zmienionych rozkładów jazdy. W sobotę i niedzielę zmiany są niewielkie. W poniedziałek większość tramwajów i autobusów pojedzie według sobotniego rozkładu, a w Święto Niepodległości według świątecznego."
+    },
+    {
+      "title": "Sytuacja Ziobry wyjaśniona przez prawnika",
+      "link": "https://tvn24.pl/polska/co-dalej-z-ziobra-prawnik-tlumaczy-st8742430?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 10:23:27 GMT",
+      "description": "Prokuratura wydała postanowienie o zatrzymaniu i przymusowym doprowadzeniu Zbigniewa Ziobry do siedziby Prokuratury Krajowej. Mecenas Łukasz Chojniak w rozmowie z TVN24 mówił o tym, jakie następne kroki powinny być podejmowane w tej sprawie. Ocenił, że to, jak potoczy się sprawa ewentualnego wydania Ziobry stronie polskiej przez Węgry, pozostaje zależne od politycznej woli Budapesztu.",
+      "originalTitle": "Co dalej z Ziobrą? Prawnik tłumaczy",
+      "originalDescription": "Prokuratura wydała postanowienie o zatrzymaniu i przymusowym doprowadzeniu Zbigniewa Ziobry do siedziby Prokuratury Krajowej. Mecenas Łukasz Chojniak w rozmowie z TVN24 mówił o tym, jakie następne kroki powinny być podejmowane w tej sprawie. Ocenił, że to, jak potoczy się sprawa ewentualnego wydania Ziobry stronie polskiej przez Węgry, pozostaje zależne od politycznej woli Budapesztu."
+    },
+    {
+      "title": "Rozproszyła się, ale wróci. Nad tymi miejscami rozciągnie się gęsta mgła",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/rozproszyla-sie-ale-wroci-nad-tymi-miejscami-rozciagnie-sie-gesta-mgla-ostrzezenia-imgw-na-9-11-st8739577?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 05:30:00 GMT",
+      "description": "W ostatnich dniach w Polsce panowała mglista pogoda. W sobotę rano ostrzeżenia IMGW obowiązywały w niemal wszystkich województwach. Mgły spodziewane są także w niedzielę.",
+      "originalTitle": "Rozproszyła się, ale wróci. Nad tymi miejscami rozciągnie się gęsta mgła",
+      "originalDescription": "W ostatnich dniach w Polsce panowała mglista pogoda. W sobotę rano ostrzeżenia IMGW obowiązywały w niemal wszystkich województwach. Mgły spodziewane są także w niedzielę."
+    },
+    {
+      "title": "Próbował wjechać terenówką na stok narciarski",
+      "link": "https://tvn24.pl/wroclaw/boguszow-gorce-chcial-wjechac-terenowka-na-stok-narciarski-auto-stoczylo-sie-ze-zbocza-kierowca-ranny-st8742596?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 10:12:30 GMT",
+      "description": "40-letni mężczyzna w Boguszowie-Gorcach (woj. dolnośląskie) próbował wjechać samochodem terenowym na stok narciarski. Auto koziołkowało i stoczyło się około 200 metrów w dół zbocza. Poszkodowanego śmigłowcem zabrało Lotnicze Pogotowie Ratunkowe.",
+      "originalTitle": "Próbował wjechać terenówką na stok narciarski",
+      "originalDescription": "40-letni mężczyzna w Boguszowie-Gorcach (woj. dolnośląskie) próbował wjechać samochodem terenowym na stok narciarski. Auto koziołkowało i stoczyło się około 200 metrów w dół zbocza. Poszkodowanego śmigłowcem zabrało Lotnicze Pogotowie Ratunkowe."
+    },
+    {
+      "title": "Najnowszy film Smarzowskiego, Meghan Markle wraca do aktorstwa, tarapaty Guns N' Roses",
       "link": "https://tvn24.pl/kultura-i-styl/najciekawsze-nowosci-na-duzym-i-malym-ekranie-co-warto-obejrzec-kadr-na-kino-w-tvn24-st6430598?source=rss",
       "pubDate": "Sat, 08 Nov 2025 09:52:00 GMT",
-      "description": "• W kolejnym \"Kadrze na kino\" Ewelina Witenberg opowiedziała o premierze najnowszego filmu Wojciecha Smarzowskiego \"Dom dobry\".\n• Problemy legendarnego zespołu Guns N' Roses były jednym z tematów poruszonych przez Ewelina Witenberg.\n• Ewelina Witenberg opowiedziała również o powrocie Meghan Markle na wielki ekran.\n• Najnowszy film Wojciecha Smarzowskiego to \"Dom dobry\".\n• Reżyserem filmu \"Dom dobry\" jest Wojciech Smarzowski.\n• Ewelina Witenberg była osobą, która opowiedziała o tych wydarzeniach w \"Kadrze na kino\".\n• \"Kadra na kino\" to program, w którym Ewelina Witenberg opowiedziała o tych wydarzeniach.",
+      "description": "W kolejnym \"Kadrze na kino\" Ewelina Witenberg opowiedziała o premierze najnowszego filmu Wojciecha Smarzowskiego \"Dom dobry\", problemach legendarnego zespołu Guns N' Roses oraz powrocie Meghan Markle na wielki ekran.",
       "originalTitle": "Najnowszy film Smarzowskiego, Meghan Markle wraca do aktorstwa, tarapaty Guns N' Roses",
       "originalDescription": "W kolejnym \"Kadrze na kino\" Ewelina Witenberg opowiedziała o premierze najnowszego filmu Wojciecha Smarzowskiego \"Dom dobry\", problemach legendarnego zespołu Guns N' Roses oraz powrocie Meghan Markle na wielki ekran."
     },
     {
-      "title": "Mężczyzna zatrzymany za posiadanie narkotyków",
+      "title": "Przeszedł w niedozwolonym miejscu, w aptece zostawił narkotyki",
       "link": "https://tvn24.pl/bialystok/hajnowka-przeszedl-w-niedozwolonym-miejscu-w-aptece-zostawil-narkotyki-st8742547?source=rss",
       "pubDate": "Sat, 08 Nov 2025 09:45:10 GMT",
-      "description": "• Hajnowski dzielnicowy zatrzymał 34-latka podejrzanego o posiadanie narkotyków.\n• Mężczyzna zwrócił na siebie uwagę policjanta, bo przeszedł przez jezdnię w miejscu niedozwolonym.\n• Gdy zauważył funkcjonariusza, wszedł do pobliskiej apteki.\n• W aptece mężczyzna zostawił marihuanę.",
+      "description": "Hajnowski dzielnicowy zatrzymał 34-latka podejrzanego o posiadanie narkotyków. Mężczyzna zwrócił na siebie uwagę policjanta, bo przeszedł przez jezdnię w miejscu niedozwolonym. Gdy zauważył funkcjonariusza, wszedł do pobliskiej apteki, gdzie – jak się później okazało – zostawił marihuanę.",
       "originalTitle": "Przeszedł w niedozwolonym miejscu, w aptece zostawił narkotyki",
       "originalDescription": "Hajnowski dzielnicowy zatrzymał 34-latka podejrzanego o posiadanie narkotyków. Mężczyzna zwrócił na siebie uwagę policjanta, bo przeszedł przez jezdnię w miejscu niedozwolonym. Gdy zauważył funkcjonariusza, wszedł do pobliskiej apteki, gdzie – jak się później okazało – zostawił marihuanę."
     },
     {
-      "title": "Porozumienie ws zakazu mediów dla dzieci",
+      "title": "Chcą zakazu mediów społecznościowych dla dzieci. Jest porozumienie",
       "link": "https://tvn24.pl/swiat/dania-chca-zakazu-korzystania-z-platform-spolecznosciowych-przez-dzieci-jest-porozumienie-st8742353?source=rss",
       "pubDate": "Sat, 08 Nov 2025 09:13:25 GMT",
       "description": "Rząd Danii uzgodnił z opozycją wprowadzenie zakazu korzystania z platform społecznościowych przez dzieci i młodzież do lat 15. Ustalono, że nieletni w wieku 13-15 lat będą mogli używać aplikacji za zgodą rodziców. Zakaz powinien zostać uchwalony jeszcze w tej kadencji parlamentu, czyli do jesieni przyszłego roku.",
@@ -42,46 +82,6 @@
       "description": "Tomasz Siemoniak, minister koordynator służb specjalnych, odniósł się do zarzutów prezydenta Karola Nawrockiego dotyczących tego, że \"szefowie służb specjalnych mają zakaz spotykania się\" z nim. \"To nieprawda, że służby specjalne nie przekazują informacji prezydentowi RP\" - napisał na X. Do wpisu dołączył pewien dokument. Sprawę skomentował w sobotę także prezydencki minister Marcin Przydacz.",
       "originalTitle": "Spór Tuska z Nawrockim. Wkracza Siemoniak, pokazał dokument",
       "originalDescription": "Tomasz Siemoniak, minister koordynator służb specjalnych, odniósł się do zarzutów prezydenta Karola Nawrockiego dotyczących tego, że \"szefowie służb specjalnych mają zakaz spotykania się\" z nim. \"To nieprawda, że służby specjalne nie przekazują informacji prezydentowi RP\" - napisał na X. Do wpisu dołączył pewien dokument. Sprawę skomentował w sobotę także prezydencki minister Marcin Przydacz."
-    },
-    {
-      "title": "Loty czasowo wstrzymane. Giganci reagują na katastrofę",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-loty-czasowo-wstrzymane-ups-i-fedex-reaguja-na-katastrofe-st8742502?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 08:49:36 GMT",
-      "description": "Dwa amerykańskie koncerny kuriersko-logistyczne, UPS i FedEx, tymczasowo uziemiły całą flotę samolotów McDonnell Douglas MD-11. Decyzja ta została podjęta po wtorkowej katastrofie jednej z tych maszyn w Louisville (Kentucky), w której zginęło co najmniej 14 osób.",
-      "originalTitle": "Loty czasowo wstrzymane. Giganci reagują na katastrofę",
-      "originalDescription": "Dwa amerykańskie koncerny kuriersko-logistyczne, UPS i FedEx, tymczasowo uziemiły całą flotę samolotów McDonnell Douglas MD-11. Decyzja ta została podjęta po wtorkowej katastrofie jednej z tych maszyn w Louisville (Kentucky), w której zginęło co najmniej 14 osób."
-    },
-    {
-      "title": "W południe zamykają Dworzec Centralny, co czeka pasażerów",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zamkna-dworzec-centralny-jak-pojada-pociagi-st8740821?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:17:58 GMT",
-      "description": "Od 8 do 16 listopada na stacji Warszawa Centralna nie będą zatrzymywały się pociągi. Prace torowe nie wiążą się jednak z wyłączeniem z użytku całego dworca - będzie można korzystać z części handlowej, nadziemnej i podziemnej. W tych dniach obowiązywać będzie wzajemne honorowanie biletów pomiędzy przewoźnikami.",
-      "originalTitle": "W południe zamykają Dworzec Centralny, co czeka pasażerów",
-      "originalDescription": "Od 8 do 16 listopada na stacji Warszawa Centralna nie będą zatrzymywały się pociągi. Prace torowe nie wiążą się jednak z wyłączeniem z użytku całego dworca - będzie można korzystać z części handlowej, nadziemnej i podziemnej. W tych dniach obowiązywać będzie wzajemne honorowanie biletów pomiędzy przewoźnikami."
-    },
-    {
-      "title": "Samotność po polsku. \"Popłakałam się nad jajecznicą\"",
-      "link": "https://tvn24.pl/zdrowie/samotnosc-po-polsku-moze-nas-dopasc-w-kazdym-wieku-st8739595?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 08:35:21 GMT",
-      "description": "Angelika do dziś odczuwa emocjonalne skutki pandemii, rozpoczynała wtedy studia. Michał niedawno rozstał się z dziewczyną, w pustym domu chce mu się czasem wyć. Paulina tęskni za synem, który wyjechał na studia, a Jacek od trzech lat jest wdowcem. Wszystkich łączy ciągłe poczucie samotności. Według badań najbardziej samotni czują się w Polsce młodzi ludzie w wieku 18-34 lat. - Przewlekła samotność to dla nas sygnał podobny do odczuwania bólu - mówi psycholog Mirosław Brejwo.",
-      "originalTitle": "Samotność po polsku. \"Popłakałam się nad jajecznicą\"",
-      "originalDescription": "Angelika do dziś odczuwa emocjonalne skutki pandemii, rozpoczynała wtedy studia. Michał niedawno rozstał się z dziewczyną, w pustym domu chce mu się czasem wyć. Paulina tęskni za synem, który wyjechał na studia, a Jacek od trzech lat jest wdowcem. Wszystkich łączy ciągłe poczucie samotności. Według badań najbardziej samotni czują się w Polsce młodzi ludzie w wieku 18-34 lat. - Przewlekła samotność to dla nas sygnał podobny do odczuwania bólu - mówi psycholog Mirosław Brejwo."
-    },
-    {
-      "title": "\"Obraz, który nie odpowiada rzeczywistości\". Ambasador Niemiec o słowach Kaczyńskiego",
-      "link": "https://tvn24.pl/swiat/ambasador-niemiec-w-polsce-miguel-berger-o-relacjach-miedzy-oboma-krajami-i-slowach-jaroslawa-kaczynskiego-st8742324?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 08:08:27 GMT",
-      "description": "Czuję, że nadal istnieje pewien poziom braku zaufania między Polską a Niemcami - mówił w rozmowie z TVN24 BiS ambasador Niemiec w Polsce Miguel Berger. - Mam nadzieję, że przez relacje osobiste obywatele, politycy uzyskają prawdziwy obraz tego, jak wyglądają dzisiaj Niemcy - dodał. Odniósł się też do niedawnych słów Jarosława Kaczyńskiego na temat naszego zachodniego sąsiada.",
-      "originalTitle": "\"Obraz, który nie odpowiada rzeczywistości\". Ambasador Niemiec o słowach Kaczyńskiego",
-      "originalDescription": "Czuję, że nadal istnieje pewien poziom braku zaufania między Polską a Niemcami - mówił w rozmowie z TVN24 BiS ambasador Niemiec w Polsce Miguel Berger. - Mam nadzieję, że przez relacje osobiste obywatele, politycy uzyskają prawdziwy obraz tego, jak wyglądają dzisiaj Niemcy - dodał. Odniósł się też do niedawnych słów Jarosława Kaczyńskiego na temat naszego zachodniego sąsiada."
-    },
-    {
-      "title": "\"Ten budynek ciągle nas zaskakuje, w środku podziurawiony jak ser\"",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-remont-siedziby-bgk-budynek-podziurawiony-jak-ser-st8741970?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 08:07:06 GMT",
-      "description": "Budynek Banku Gospodarstwa Krajowego na rogu Alej Jerozolimskich i Nowego Światu był jednym z symboli odradzającej się II Rzeczpospolitej. Od 1935 roku nie przeszedł poważniejszego remontu, dlatego ten, który trwa, wiąże się z wieloma wyzwaniami. Władze banku i wykonawca prac zapewniają, że za trzy lata gmach znów będzie zachwycał.",
-      "originalTitle": "\"Ten budynek ciągle nas zaskakuje, w środku podziurawiony jak ser\"",
-      "originalDescription": "Budynek Banku Gospodarstwa Krajowego na rogu Alej Jerozolimskich i Nowego Światu był jednym z symboli odradzającej się II Rzeczpospolitej. Od 1935 roku nie przeszedł poważniejszego remontu, dlatego ten, który trwa, wiąże się z wieloma wyzwaniami. Władze banku i wykonawca prac zapewniają, że za trzy lata gmach znów będzie zachwycał."
     }
   ]
 }
