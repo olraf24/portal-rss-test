@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2025-11-08T02:32:06.084Z",
+  "lastUpdate": "2025-11-08T03:20:06.165Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Świecące nanocząstki PersL ułatwią śledzenie drogi leków w organizmie",
-      "link": "https://dzienniknaukowy.pl/swiecace-nanoczastki-persl-ulatwia-sledzenie-drogi-lekow-w-organizmie",
-      "pubDate": "Fri, 07 Nov 2025 10:06:11 +0000",
-      "description": "Zamiast świecić tylko pod lampą, nanocząstki PersL jarzą się długo po jej wyłączeniu - i to w podczerwieni, która lepiej przenika przez tkanki. Badania fizyków z Wrocławia pokazują, że ich sygnał pozostaje czytelny w kontakcie z białkami krwi, a dobrana powłoka powierzchniowa pozwala bezpieczniej śledzić drogę leków."
-    },
-    {
-      "title": "Metale ciężkie i pestycydy w warzywach i owocach z działek miejskich",
-      "link": "https://dzienniknaukowy.pl/metale-ciezkie-i-pestycydy-w-warzywach-i-owocach-z-dzialek-miejskich",
-      "pubDate": "Fri, 07 Nov 2025 09:48:15 +0000",
-      "description": "Marchew z działki, sałata z miejskiego ogródka czy truskawki z własnej uprawy – to symbole zdrowej, lokalnej żywności. Jednak najnowsze badania wskazują, że nawet warzywa i owoce pochodzące z upraw prowadzonych w warunkach amatorskich w miejskich ogrodach działkowych mogą kumulować metale ciężkie, pestycydy, a także pozostałości antybiotyków. Eksperci ostrzegają, że w środowisku miejskim produkcja żywności może być obarczona ryzykiem chemicznego zanieczyszczenia, niewidocznym gołym okiem"
-    },
-    {
-      "title": "Pompa ciepła czy ogrzewanie elektryczne – co wybrać w 2026 roku?",
-      "link": "https://dzienniknaukowy.pl/pompa-ciepla-czy-ogrzewanie-elektryczne-co-wybrac-w-2026-roku",
-      "pubDate": "Fri, 07 Nov 2025 08:07:00 +0000",
-      "description": "Rosnące ceny prądu i gazu, zmieniające się przepisy dotyczące emisji oraz coraz większa świadomość ekologiczna sprawiają, że właściciele domów jednorodzinnych coraz częściej stają przed wyborem: pompa ciepła czy ogrzewanie elektryczne?"
-    },
-    {
-      "title": "Śmierć komórki, czyli jak nasze ciało uczy się umierać i odnawiać",
-      "link": "https://dzienniknaukowy.pl/smierc-komorki-czyli-jak-nasze-cialo-uczy-sie-umierac-i-odnawiac",
-      "pubDate": "Thu, 06 Nov 2025 10:43:44 +0000",
-      "description": "Śmierć zaczyna się już w życiu płodowym. Dr Paulina Łopatniuk, lekarka, patomorfolożka, autorka bloga „Patolodzy na klatce”, opowiada, jak komórki umierają, odnawiają się i dlaczego zrozumienie tych procesów jest kluczowe w walce z chorobami – także nowotworami."
-    },
-    {
-      "title": "W NCBJ powstał nowy model komputerowy do badań wysokoenergetycznych fotonów",
-      "link": "https://dzienniknaukowy.pl/w-ncbj-powstal-nowy-model-komputerowy-do-badan-wysokoenergetycznych-fotonow",
-      "pubDate": "Thu, 06 Nov 2025 10:15:49 +0000",
-      "description": "Naukowcy z Narodowego Centrum Badań Jądrowych, Uniwersytetu Wiedeńskiego i Uniwersytetu Jagiellońskiego opracowali nowy model komputerowy pozwalający badać zjawiska kwantowe w świecie wysokoenergetycznych fotonów – cząstek światła o energiach milion razy większych niż te, które widzimy gołym okiem"
-    },
-    {
-      "title": "Metody makrofotografii we współczesnych badaniach biologicznych",
-      "link": "https://dzienniknaukowy.pl/metody-makrofotografii-we-wspolczesnych-badaniach-biologicznych",
-      "pubDate": "Thu, 06 Nov 2025 08:45:00 +0000",
-      "description": "Makrofotografia — to nie jest zwykłe „robienie zdjęć z bliska”. To patrzenie tam, gdzie świat staje się niemal abstrakcyjny. Dla biologów – to nie tylko estetyka, to narzędzie, które zmienia sposób patrzenia na życie. Dosłownie. Bo kiedy zbliżasz się do poziomu owada, pyłku czy struktury komórki, nagle widzisz, że wszystko, co wydawało się proste, ma swoje warstwy, kształty, logikę."
-    },
-    {
-      "title": "Bakteriofagi kontra rak. Wirusy, które mogą pomóc w walce z nowotworami",
-      "link": "https://dzienniknaukowy.pl/bakteriofagi-kontra-rak-wirusy-ktore-moga-pomoc-w-walce-z-nowotworami",
-      "pubDate": "Wed, 05 Nov 2025 09:37:36 +0000",
-      "description": "Bakteriofagi to wirusy, będące jednym z najbardziej obiecujących narzędzi biotechnologicznych w diagnostyce, terapii i profilaktyce chorób nowotworowych. O ich niezwykłych możliwościach opowiada prof. dr hab. Alicja Węgrzyn, dyrektorka Centrum Terapii Fagowych Uniwersytetu Gdańskiego"
-    },
-    {
-      "title": "Nowy impuls dla terapii wzroku. Co dzieje się w mózgu, gdy stymulujemy oko prądem?",
-      "link": "https://dzienniknaukowy.pl/nowy-impuls-dla-terapii-wzroku-co-dzieje-sie-w-mozgu-gdy-stymulujemy-oko-pradem",
-      "pubDate": "Wed, 05 Nov 2025 09:19:23 +0000",
-      "description": "Nowe badania przeprowadzone we współpracy naukowców ICTER ujawniają, jak bardzo różnią się odpowiedzi mózgu na bodźce świetlne i elektryczne. Odkrycia te mogą przyczynić się do rozwoju bardziej precyzyjnych terapii przywracających wzrok, w tym terapii z użyciem przezrogówkowej stymulacji elektrycznej (tACS)."
-    },
-    {
-      "title": "Jak magazynowanie energii w akumulatorach zwiększa samowystarczalność i zmniejsza zależność od sieci energetycznej",
-      "link": "https://dzienniknaukowy.pl/jak-magazynowanie-energii-w-akumulatorach-zwieksza-samowystarczalnosc-i-zmniejsza-zaleznosc-od-sieci-energetycznej",
-      "pubDate": "Wed, 05 Nov 2025 08:59:00 +0000",
-      "description": "W dzisiejszym zmieniającym się krajobrazie energetycznym wielu właścicieli domów i firm poszukuje sposobów na zwiększenie niezależności energetycznej i zmniejszenie zależności od niestabilnych systemów sieciowych. Nawet po zainstalowaniu paneli słonecznych pojawia się powszechny problem: znaczna część energii wytwarzanej w ciągu dnia jest eksportowana do sieci lub pozostaje niewykorzystana, podczas gdy w godzinach szczytu wieczornego nadal pobierana jest z niej energia elektryczna."
-    },
-    {
-      "title": "Jak fotopolimery przedłużają paznokcie? Naukowe spojrzenie na trwały manicure",
-      "link": "https://dzienniknaukowy.pl/jak-fotopolimery-przedluzaja-paznokcie-naukowe-spojrzenie-na-trwaly-manicure",
-      "pubDate": "Wed, 05 Nov 2025 08:08:00 +0000",
-      "description": "Stylizacja paznokci nie jest wyłącznie elementem kosmetycznym – to także fascynujący przykład zastosowania chemii i fizyki w praktyce. Współczesne preparaty żelowe, wykorzystywane w manicure hybrydowym i modelowaniu płytki, działają dzięki reakcji fotopolimeryzacji, czyli procesowi utwardzania pod wpływem światła"
-    }
-  ]
+  "articles": []
 }
