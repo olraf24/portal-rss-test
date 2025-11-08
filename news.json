@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-11-08T06:40:48.211Z",
+  "lastUpdate": "2025-11-08T07:05:35.578Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kobieta zastrzelona po pomyłce adresu",
+      "title": "Radiolodzy krytykują płytki z opisem",
+      "link": "https://tvn24.pl/zdrowie/miedzynarodowy-dzien-radiologii-niektore-badania-robi-sie-niepotrzebnie-na-opisy-czeka-sie-dlugo-st8740773?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 06:57:44 GMT",
+      "description": "• W Polsce radiolodzy nie mają dostępu do platformy, która gromadziłaby wszystkie wcześniejsze badania obrazowe danej osoby.\n• Brak dostępu do takiej platformy utrudnia im pracę.\n• Brak dostępu do takiej platformy wydłuża czas oczekiwania pacjentów na opis tomografii komputerowej.\n• Brak dostępu do takiej platformy wydłuża czas oczekiwania pacjentów na opis rezonansu magnetycznego.\n• Chory chodzi od lekarza do lekarza z płytą i opisem.\n• Chory jest \"nośnikiem swojej informacji medycznej\".\n• Specjaliści apelują o zakończenie sytuacji, w której chory jest \"nośnikiem swojej informacji medycznej\".\n• Specjaliści chcieliby, żeby powstały oddziały radiologii interwencyjnej.",
+      "originalTitle": "Od gabinetu do gabinetu z płytką i opisem. Radiolodzy: tak nie może być",
+      "originalDescription": "W Polsce radiolodzy nie mają dostępu do platformy, która gromadziłaby wszystkie wcześniejsze badania obrazowe danej osoby. To utrudnia im pracę i wydłuża czas oczekiwania pacjentów na opis tomografii komputerowej czy rezonansu magnetycznego. Chory chodzi od lekarza do lekarza z płytą i opisem, będąc \"nośnikiem swojej informacji medycznej\". - Powinniśmy z tym skończyć - apelują specjaliści. Chcieliby też, żeby powstały oddziały radiologii interwencyjnej."
+    },
+    {
+      "title": "Milion ptaków przelatuje przez Polskę dziennie",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mierzeja-wislana-w-tym-miejscu-w-polsce-jednego-dnia-przelatuje-nawet-milion-ptakow-st8742367?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 06:55:08 GMT",
+      "description": "• Mierzeja Wiślana jest jednym z najważniejszych korytarzy migracji ptaków w Europie.\n• Prezes Stowarzyszenia \"Drapolicz\" to Gerard Bela.\n• W tym roku otwarto pierwszy w Polsce stały punkt Obserwacji Ptaków Morskich.\n• Punkt Obserwacji Ptaków Morskich ułatwia podziwianie ptaków.\n• Stowarzyszenie \"Drapolicz\" jest zaangażowane w działania związane z punktem obserwacji ptaków.",
+      "originalTitle": "W tym miejscu w Polsce jednego dnia przelatuje do miliona ptaków",
+      "originalDescription": "Mierzeja Wiślana jest jednym z najważniejszych korytarzy migracji ptaków w Europie - uważa prezes Stowarzyszenia \"Drapolicz\" Gerard Bela. Ich podziwianie ułatwia otwarty w tym roku, pierwszy w Polsce, stały punkt Obserwacji Ptaków Morskich."
+    },
+    {
+      "title": "Startuje Inside Seaside. Muzycy z całego świata, orkiestra filharmoników i dużo różnorodnej sztuki",
+      "link": "https://tvn24.pl/kultura-i-styl/festiwal-inside-seaside-trzecia-edycja-startuje-w-gdansku-st8742302?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 06:53:00 GMT",
+      "description": "W gdańskim AmberExpo w sobotę 8 listopada startuje festiwal Inside Seaside. To już trzecia edycja imprezy, a w tym roku zobaczymy na niej zarówno wielkie gwiazdy, jak i muzyczne eksperymenty. Do tego sztuka, kino, warsztaty.",
+      "originalTitle": "Startuje Inside Seaside. Muzycy z całego świata, orkiestra filharmoników i dużo różnorodnej sztuki",
+      "originalDescription": "W gdańskim AmberExpo w sobotę 8 listopada startuje festiwal Inside Seaside. To już trzecia edycja imprezy, a w tym roku zobaczymy na niej zarówno wielkie gwiazdy, jak i muzyczne eksperymenty. Do tego sztuka, kino, warsztaty."
+    },
+    {
+      "title": "Trump interweniuje. \"Nie powinni opuszczać miasta\"",
+      "link": "https://tvn24.pl/swiat/usa-donald-trump-senatorowie-powinni-zostac-w-miescie-dopoki-nie-zakoncza-shutdown-st8742352?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 06:52:38 GMT",
+      "description": "Prezydent USA Donald Trump oświadczył, że amerykańscy senatorowie powinni zostać w Waszyngtonie, dopóki nie porozumieją się w sprawie zakończenia shutdownu, czyli paraliżu budżetowego. Wyższa izba amerykańskiego parlamentu obraduje w budynku na Kapitolu.",
+      "originalTitle": "Trump interweniuje. \"Nie powinni opuszczać miasta\"",
+      "originalDescription": "Prezydent USA Donald Trump oświadczył, że amerykańscy senatorowie powinni zostać w Waszyngtonie, dopóki nie porozumieją się w sprawie zakończenia shutdownu, czyli paraliżu budżetowego. Wyższa izba amerykańskiego parlamentu obraduje w budynku na Kapitolu."
+    },
+    {
+      "title": "Była siatkarka Katarzyna Mroczkowska zwiedziła z plecakiem pół świata",
+      "link": "https://tvn24.pl/polska/katarzyna-mroczkowska-zwiedzila-z-plecakiem-pol-swiata-byla-reprezentantka-polski-w-siatkowce-pracuje-w-biurze-podrozy-st8728342?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 06:51:21 GMT",
+      "description": "Była reprezentantka Polski w siatkówce Katarzyna Mroczkowska już w trakcie kariery sportowej odkryła, że uwielbia podróżować. Lista magicznych miejsc, które odwiedziła z plecakiem, jest imponująca. W rozmowie z TVN24+ opowiedziała o swojej wielkiej pasji i przygodach, jakie ją spotkały na krańcach świata.",
+      "originalTitle": "Była siatkarka Katarzyna Mroczkowska zwiedziła z plecakiem pół świata",
+      "originalDescription": "Była reprezentantka Polski w siatkówce Katarzyna Mroczkowska już w trakcie kariery sportowej odkryła, że uwielbia podróżować. Lista magicznych miejsc, które odwiedziła z plecakiem, jest imponująca. W rozmowie z TVN24+ opowiedziała o swojej wielkiej pasji i przygodach, jakie ją spotkały na krańcach świata."
+    },
+    {
+      "title": "Znikają z ulic polskich miast jeden po drugim. \"Zjadły mnie opłaty, utargi nie rosły\"",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/znikaja-z-ulic-polskich-miast-jeden-po-drugim-zjadly-mnie-oplaty-utargi-nie-rosly-st8702376?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 06:41:57 GMT",
+      "description": "Często znajdowały się tuż za rogiem, można było w nich kupić prasę, papierosy czy kosmetyki. W latach 90. i na początku XXI wieku było ich najwięcej. Dziś po kioskach nie ma już prawie śladu. Znikają z miejskiego krajobrazu. Te, które zostały, robią wszystko, by nie podzielić losu poprzedników. - Opłaca się to tylko tym, którzy prowadzą ten biznes od 20-30 lat - przyznaje pan Maciej, kioskarz z Torunia. Pani Anita z kolei musiała zamknąć swój biznes przed dwoma laty. Jak mówi, \"zjadły ją opłaty\". - Przede wszystkim ZUS, inne jakoś do zniesienia były. Utargi nie rosły, a opłaty galopowały - zaznacza była właścicielka.",
+      "originalTitle": "Znikają z ulic polskich miast jeden po drugim. \"Zjadły mnie opłaty, utargi nie rosły\"",
+      "originalDescription": "Często znajdowały się tuż za rogiem, można było w nich kupić prasę, papierosy czy kosmetyki. W latach 90. i na początku XXI wieku było ich najwięcej. Dziś po kioskach nie ma już prawie śladu. Znikają z miejskiego krajobrazu. Te, które zostały, robią wszystko, by nie podzielić losu poprzedników. - Opłaca się to tylko tym, którzy prowadzą ten biznes od 20-30 lat - przyznaje pan Maciej, kioskarz z Torunia. Pani Anita z kolei musiała zamknąć swój biznes przed dwoma laty. Jak mówi, \"zjadły ją opłaty\". - Przede wszystkim ZUS, inne jakoś do zniesienia były. Utargi nie rosły, a opłaty galopowały - zaznacza była właścicielka."
+    },
+    {
+      "title": "Pomyliła adres. Została zastrzelona na oczach męża",
       "link": "https://tvn24.pl/swiat/usa-pomylila-adres-zostala-zastrzelona-na-oczach-meza-st8742363?source=rss",
       "pubDate": "Sat, 08 Nov 2025 06:09:06 GMT",
-      "description": "• 32-letnia kobieta została uznana za włamywaczkę.\n• Kobieta została śmiertelnie postrzelona na oczach męża.\n• Zdarzenie miało miejsce w amerykańskim stanie Indiana.\n• Para, której przynależy kobieta, była ekipą sprzątającą.\n• Ekipa sprzątająca przyjechała pod zły adres przez pomyłkę.",
+      "description": "32-letnia kobieta została uznana za włamywaczkę i śmiertelnie postrzelona na oczach męża w amerykańskim stanie Indiana. Okazało się, że para to ekipa sprzątająca, która przez pomyłkę przyjechała pod zły adres.",
       "originalTitle": "Pomyliła adres. Została zastrzelona na oczach męża",
       "originalDescription": "32-letnia kobieta została uznana za włamywaczkę i śmiertelnie postrzelona na oczach męża w amerykańskim stanie Indiana. Okazało się, że para to ekipa sprzątająca, która przez pomyłkę przyjechała pod zły adres."
     },
     {
-      "title": "Andrzej Duda wydał książkę",
+      "title": "\"Powinien zmienić nazwę swojej książki na: To ja - Andrzej Duda. Przepraszam'\"",
       "link": "https://tvn24.pl/polska/andrzej-duda-zycie-po-prezydenturze-jak-oceniaja-go-politycy-pis-u-st8737755?source=rss",
       "pubDate": "Sat, 08 Nov 2025 05:35:16 GMT",
-      "description": "• Andrzej Duda wkroczył w świat biznesu i mediów po zakończeniu prezydenckiej emerytury.\n• Andrzej Duda był także związany ze sportem.\n• Jeden z posłów PiS stwierdził, że nie widzi dla Andrzeja Dudy miejsca w powrocie do polityki.\n��� Członkowie partii PiS mają różne reakcje na nową pracę Andrzeja Dudy, w tym zdziwienie i gorycz.\n• Część członków partii PiS ocenia zakończoną niedawno prezydenturę Andrzeja Dudy z goryczą.\n• Ktoś sugerował, że Andrzej Duda powinien zmienić nazwę swojej książki na \"To ja - Andrzej Duda. Przepraszam\".",
+      "description": "Na prezydenckiej emeryturze Andrzej Duda wkroczył w świat biznesu i mediów, chociaż na radarze był też sport. A co z powrotem do polityki? - Nie widzę dla niego miejsca - mówi jeden z posłów PiS. Niektórzy członkowie tej partii ze zdziwieniem przyjmują jego nową pracę, a część z goryczą ocenia zakończoną niedawno prezydenturę. Powinien zmienić nazwę swojej książki na \"To ja - Andrzej Duda. Przepraszam\" - słyszymy.",
       "originalTitle": "\"Powinien zmienić nazwę swojej książki na: To ja - Andrzej Duda. Przepraszam'\"",
       "originalDescription": "Na prezydenckiej emeryturze Andrzej Duda wkroczył w świat biznesu i mediów, chociaż na radarze był też sport. A co z powrotem do polityki? - Nie widzę dla niego miejsca - mówi jeden z posłów PiS. Niektórzy członkowie tej partii ze zdziwieniem przyjmują jego nową pracę, a część z goryczą ocenia zakończoną niedawno prezydenturę. Powinien zmienić nazwę swojej książki na \"To ja - Andrzej Duda. Przepraszam\" - słyszymy."
     },
     {
-      "title": "Ostrzeżenia IMGW przed mgłą",
+      "title": "Widzialność jest bardzo słaba. Ostrzeżenia IMGW przed gęstą mgłą",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-gesta-mgla-ograniczona-widzialnosc-alarmy-w-wielu-wojewodztwach-st8739577?source=rss",
       "pubDate": "Sat, 08 Nov 2025 05:30:00 GMT",
-      "description": "• Rano w wielu rejonach kraju jest mgliście\n• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia\n• Ostrzeżenia zostały wydane w związku z mglistą pogodą\n• Zalecane jest mieć się na baczności w miejscach, gdzie obowiązuj�� ostrzeżenia",
+      "description": "Rano w wielu rejonach kraju jest mgliście, w związku z czym Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia. Sprawdź, gdzie mieć się na baczności.",
       "originalTitle": "Widzialność jest bardzo słaba. Ostrzeżenia IMGW przed gęstą mgłą",
       "originalDescription": "Rano w wielu rejonach kraju jest mgliście, w związku z czym Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia. Sprawdź, gdzie mieć się na baczności."
     },
@@ -34,54 +82,6 @@
       "description": "To miały być pieniądze dla ofiar przestępstw, a miliony szły na propagandę. Telewizja Republika dostała z Funduszu Sprawiedliwości ponad dwa miliony złotych. Inna firma medialna, o dziwo nazywająca się \"Słowo Niezależne\", dostała prawie trzy miliony złotych. To partyjny biznes medialny Tomasza Sakiewicza zasilony pięcioma milionami z tego funduszu. Tak sięgano po pieniądze w medialnej służbie PiS. Materiał Macieja Warsińskiego z magazynu \"Polska i Świat\".",
       "originalTitle": "Fundusz Sprawiedliwości w medialnej służbie PiS. Tak sięgano po miliony",
       "originalDescription": "To miały być pieniądze dla ofiar przestępstw, a miliony szły na propagandę. Telewizja Republika dostała z Funduszu Sprawiedliwości ponad dwa miliony złotych. Inna firma medialna, o dziwo nazywająca się \"Słowo Niezależne\", dostała prawie trzy miliony złotych. To partyjny biznes medialny Tomasza Sakiewicza zasilony pięcioma milionami z tego funduszu. Tak sięgano po pieniądze w medialnej służbie PiS. Materiał Macieja Warsińskiego z magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Co dalej ze Zbigniewem Ziobrą?",
-      "link": "https://tvn24.pl/polska/poslowie-zdecydowali-teraz-decyzja-sadu-co-dalej-ze-zbigniewem-ziobra-st8742299?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 05:01:59 GMT",
-      "description": "Po decyzji Sejmu pozostaje pytanie: co dalej ze Zbigniewem Ziobrą? Głosowanie nad immunitetem otworzyło drogę do działań sądowych. Ziobro może usłyszeć zarzuty, może też zostać aresztowany. Pytanie - gdzie jest? Co może zrobić prokuratura, jeśli cały czas będzie za granicą? Materiał Aleksandry Kąkol z magazynu \"Polska i Świat\".",
-      "originalTitle": "Co dalej ze Zbigniewem Ziobrą?",
-      "originalDescription": "Po decyzji Sejmu pozostaje pytanie: co dalej ze Zbigniewem Ziobrą? Głosowanie nad immunitetem otworzyło drogę do działań sądowych. Ziobro może usłyszeć zarzuty, może też zostać aresztowany. Pytanie - gdzie jest? Co może zrobić prokuratura, jeśli cały czas będzie za granicą? Materiał Aleksandry Kąkol z magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Kolejne weta Nawrockiego",
-      "link": "https://tvn24.pl/polska/kolejna-seria-wet-prezydenta-karola-nawrockiego-wsrod-niech-przepisy-dotyczace-kodeksu-spolek-handlowych-st8742338?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 05:00:36 GMT",
-      "description": "Prezydent Karol Nawrocki zawetował w piątek kilka kolejnych ustaw. Chodzi o ustawę o Parku Narodowym Doliny Dolnej Odry, nowelę ustawy o zbiorowym zaopatrzeniu w wodę i nowelizację w sprawie zmian w Kodeksie spółek handlowych.",
-      "originalTitle": "Kolejne weta Nawrockiego",
-      "originalDescription": "Prezydent Karol Nawrocki zawetował w piątek kilka kolejnych ustaw. Chodzi o ustawę o Parku Narodowym Doliny Dolnej Odry, nowelę ustawy o zbiorowym zaopatrzeniu w wodę i nowelizację w sprawie zmian w Kodeksie spółek handlowych."
-    },
-    {
-      "title": "\"Absolutna hańba\". USA chcą zbojkotować szczyt G20",
-      "link": "https://tvn24.pl/swiat/usa-donald-trump-nikogo-z-naszego-rzadu-nie-bedzie-na-szczycie-g20-w-rpa-st8742355?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 04:53:39 GMT",
-      "description": "Prezydent USA Donald Trump poinformował, że na szczycie G20 w RPA nie będzie żadnego przedstawiciela amerykańskiego rządu dopóki w tym kraju \"łamane są prawa człowieka\". Ocenił, że \"to absolutna hańba\", że szczyt odbędzie się właśnie tam.",
-      "originalTitle": "\"Absolutna hańba\". USA chcą zbojkotować szczyt G20",
-      "originalDescription": "Prezydent USA Donald Trump poinformował, że na szczycie G20 w RPA nie będzie żadnego przedstawiciela amerykańskiego rządu dopóki w tym kraju \"łamane są prawa człowieka\". Ocenił, że \"to absolutna hańba\", że szczyt odbędzie się właśnie tam."
-    },
-    {
-      "title": "Anastasia, \"Jeszcze Polska...\" i Wywiad medyczny. Taki będzie weekend w TVN24+",
-      "link": "https://tvn24.pl/polska/anastasia-jeszcze-polska-i-wywiad-medyczny-taki-bedzie-weekend-w-tvn24-st8742354?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 04:43:31 GMT",
-      "description": "TVN24+ na weekend przygotował szereg propozycji. Oprócz nowych odcinków znanych już podcastów i programów, będzie też kilka premier. Jedna z nich to reportaż Katarzyny Czupryńskiej-Chabors \"Silniejsza niż hejt. Historia Anastasii\". To historia młodej Ukrainki, która w Polsce chce żyć i pracować w zawodzie zdominowanym przez mężczyzn. Do obejrzenia będzie też \"Jeszcze Polska...\" - cykl rozmów reporterów \"Czarno na Białym\".",
-      "originalTitle": "Anastasia, \"Jeszcze Polska...\" i Wywiad medyczny. Taki będzie weekend w TVN24+",
-      "originalDescription": "TVN24+ na weekend przygotował szereg propozycji. Oprócz nowych odcinków znanych już podcastów i programów, będzie też kilka premier. Jedna z nich to reportaż Katarzyny Czupryńskiej-Chabors \"Silniejsza niż hejt. Historia Anastasii\". To historia młodej Ukrainki, która w Polsce chce żyć i pracować w zawodzie zdominowanym przez mężczyzn. Do obejrzenia będzie też \"Jeszcze Polska...\" - cykl rozmów reporterów \"Czarno na Białym\"."
-    },
-    {
-      "title": "Decyzja w sprawie Ziobry, spór premiera z prezydentem, pożegnanie Hołowni",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-sobote-8-listopada-najwazniejsze-informacje-st8742330?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 04:24:26 GMT",
-      "description": "Sejm zgodził się na uchylenie immunitetu oraz zgodę na areszt dla Zbigniewa Ziobry. W mediach społecznościowych doszło do wymiany zdań między premierem Donaldem Tuskiem a prezydentem Karolem Nawrockim. Szymon Hołownia wygłosił kilka słów na pożegnanie z funkcją marszałka Sejmu. Oto pięć rzeczy, które warto wiedzieć w sobotę 8 listopada.",
-      "originalTitle": "Decyzja w sprawie Ziobry, spór premiera z prezydentem, pożegnanie Hołowni",
-      "originalDescription": "Sejm zgodził się na uchylenie immunitetu oraz zgodę na areszt dla Zbigniewa Ziobry. W mediach społecznościowych doszło do wymiany zdań między premierem Donaldem Tuskiem a prezydentem Karolem Nawrockim. Szymon Hołownia wygłosił kilka słów na pożegnanie z funkcją marszałka Sejmu. Oto pięć rzeczy, które warto wiedzieć w sobotę 8 listopada."
-    },
-    {
-      "title": "Pogoda na dziś - sobota, 8.11. W części kraju pogoda zacznie się psuć",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-8-11-w-czesci-kraju-pogoda-zacznie-sie-psuc-st8742210?source=rss",
-      "pubDate": "Sat, 08 Nov 2025 01:00:00 GMT",
-      "description": "Pogoda na dziś, czyli na sobotę, 8.11. Rano w większości kraju wystąpią zamglenia i mgły. Później miejscami spadnie deszcz.",
-      "originalTitle": "Pogoda na dziś - sobota, 8.11. W części kraju pogoda zacznie się psuć",
-      "originalDescription": "Pogoda na dziś, czyli na sobotę, 8.11. Rano w większości kraju wystąpią zamglenia i mgły. Później miejscami spadnie deszcz."
     }
   ]
 }
