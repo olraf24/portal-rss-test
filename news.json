@@ -1,29 +1,61 @@
 {
-  "lastUpdate": "2025-11-09T09:05:33.757Z",
+  "lastUpdate": "2025-11-09T09:34:43.179Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Tsunami w Japonii",
+      "title": "Wypadek drogowy, uszkodzony silnik",
+      "link": "https://tvn24.pl/olsztyn/debowiec-tragiczny-wypadek-po-uderzeniu-w-drzewo-z-auta-wypadl-silnik-nie-zyje-kierowca-st8743505?source=rss",
+      "pubDate": "Sun, 09 Nov 2025 09:31:30 GMT",
+      "description": "• Nie żyje kierowca osobowego opla.\n• Wypadek miał miejsce w sobotni wieczór.\n• Miejsce wypadku to droga wojewódzka nr 510.\n• Wypadek nastąpił w miejscowości Dębowiec.\n• Dębowiec położony jest w województwie warmińsko-mazurskim.\n• Kierowca uderzył w drzewo.\n• Siła zderzenia była tak potężna, że z auta wyrwało silnik.\n• Przeprowadzono reanimację kierowcy.\n• Mimo reanimacji życia mężczyzny nie udało się uratować.",
+      "originalTitle": "Tragiczny wypadek. Uderzenie było tak mocne, że z auta wypadł silnik",
+      "originalDescription": "Nie żyje kierowca osobowego opla, który w sobotni wieczór na drodze wojewódzkiej nr 510 uderzył w drzewo w miejscowości Dębowiec (woj. warmińsko-mazurskie). Siła zderzenia była tak potężna, że z auta wyrwało silnik. Mimo reanimacji życia mężczyzny nie udało się uratować."
+    },
+    {
+      "title": "Mężczyzna używał banknotów z napisem souvenir, grozi mu kara",
+      "link": "https://tvn24.pl/lodz/leczyca-19-latek-placil-banknotami-z-napisem-souvenir-grozi-mu-osiem-lat-w-celi-st8743545?source=rss",
+      "pubDate": "Sun, 09 Nov 2025 09:25:34 GMT",
+      "description": "• Policjanci z Łęczycy (woj. łódzkie) zatrzymali 19-latka.\n• 19-latek czterokrotnie płacił na stacji benzynowej fałszywymi pieniędzmi.\n• Sprzedawczyni zorientowała się, że pieniądze są fałszywe i zaalarmowała policję.\n• Zatrzymany twierdził, że banknoty dostał od przypadkowo poznanego mężczyzny.",
+      "originalTitle": "Płacił banknotami z napisem \"souvenir\". Grozi mu osiem lat w celi",
+      "originalDescription": "Policjanci z Łęczycy (woj. łódzkie) zatrzymali 19-latka, który czterokrotnie płacił na stacji benzynowej fałszywymi pieniędzmi. Kiedy sprzedawczyni się zorientowała, zaalarmowała policję. Zatrzymany twierdził, że banknoty dostał od przypadkowo poznanego mężczyzny."
+    },
+    {
+      "title": "Boeing poszukuje partnerów w Polsce",
+      "link": "https://tvn24.pl/biznes/z-kraju/boeing-szuka-partnerow-w-polsce-ma-tez-oferte-dla-wojska-st8743522?source=rss",
+      "pubDate": "Sun, 09 Nov 2025 09:20:57 GMT",
+      "description": "Amerykański koncern Boeing poszukuje nowych podwykonawców z Polski i całego regionu. W tym celu zorganizował niedawno w Warszawie Industry Day - specjalne spotkanie dla potencjalnych partnerów z branży lotniczej. Jednocześnie koncern oferuje Wojsku Polskiemu kolejne maszyny takie jak myśliwce F-15EX, a także ciężkie śmigłowce transportowe Chinook.",
+      "originalTitle": "Boeing szuka partnerów w Polsce. Ma też ofertę dla wojska",
+      "originalDescription": "Amerykański koncern Boeing poszukuje nowych podwykonawców z Polski i całego regionu. W tym celu zorganizował niedawno w Warszawie Industry Day - specjalne spotkanie dla potencjalnych partnerów z branży lotniczej. Jednocześnie koncern oferuje Wojsku Polskiemu kolejne maszyny takie jak myśliwce F-15EX, a także ciężkie śmigłowce transportowe Chinook."
+    },
+    {
+      "title": "Incydent w Palestynie podczas zbioru oliwek",
+      "link": "https://tvn24.pl/swiat/zachodni-brzeg-atak-izraelskich-osadnikow-na-palestynczykow-zbierajacych-oliwki-st8743379?source=rss",
+      "pubDate": "Sun, 09 Nov 2025 09:10:55 GMT",
+      "description": "Izraelscy osadnicy zaatakowali grupę Palestyńczyków podczas zbioru oliwek na okupowanym Zachodnim Brzegu - poinformowała agencja Reutera. Zaatakowano także aktywistów i dziennikarzy. Według Czerwonego Półksiężyca w atakach zostało rannych 15 osób, a wśród nich fotoreporterka Reutersa i izraelscy aktywiści.",
+      "originalTitle": "Atak izraelskich osadników na Palestyńczyków zbierających oliwki",
+      "originalDescription": "Izraelscy osadnicy zaatakowali grupę Palestyńczyków podczas zbioru oliwek na okupowanym Zachodnim Brzegu - poinformowała agencja Reutera. Zaatakowano także aktywistów i dziennikarzy. Według Czerwonego Półksiężyca w atakach zostało rannych 15 osób, a wśród nich fotoreporterka Reutersa i izraelscy aktywiści."
+    },
+    {
+      "title": "Ostrzeżenie przed tsunami w Japonii",
       "link": "https://tvn24.pl/tvnmeteo/swiat/ostrzezenie-przed-tsunami-w-japonii-po-trzesieniu-ziemi-st8743526?source=rss",
       "pubDate": "Sun, 09 Nov 2025 08:58:04 GMT",
-      "description": "• Japońska agencja meteorologiczna ostrzega przed tsunami.\n• Ostrzeżenie jest związane z trzęsieniem ziemi, do którego doszło u wybrzeży kraju.\n• Alarm obowiązuje w jednej z prefektur.\n• Prefektura, w której obowiązuje alarm, znajduje się na północy największej wyspy archipelagu.",
+      "description": "Japońska agencja meteorologiczna ostrzega przed tsunami po trzęsieniu ziemi, do którego doszło u wybrzeży kraju. Alarm obowiązuje w jednej z prefektur znajdujących się na północy największej wyspy archipelagu.",
       "originalTitle": "Ostrzeżenie przed tsunami w Japonii",
       "originalDescription": "Japońska agencja meteorologiczna ostrzega przed tsunami po trzęsieniu ziemi, do którego doszło u wybrzeży kraju. Alarm obowiązuje w jednej z prefektur znajdujących się na północy największej wyspy archipelagu."
     },
     {
-      "title": "Wypadek podczas pościgu, cztery ofiary śmiertelne",
+      "title": "Uciekał przed policyjnym pościgiem, uderzył w bar. Nie żyją cztery osoby",
       "link": "https://tvn24.pl/swiat/usa-tampa-floryda-kierowca-uciekal-przed-policyjnym-poscigiem-uderzyl-w-bar-sa-ofiary-st8743463?source=rss",
       "pubDate": "Sun, 09 Nov 2025 08:32:23 GMT",
-      "description": "• W Tampie na Florydzie kierowca samochodu uciekał przed policją.\n• Kierowca uderzył w grupę kilkunastu ludzi stojących przed zatłoczonym barem.\n• Są ofiary śmiertelne i ranni.\n• Bar, w którym doszło do zdarzenia, znajduje się w dzielnicy znanej z nocnego życia.",
+      "description": "W Tampie na Florydzie kierowca samochodu uciekał przed policją i uderzył w grupę kilkunastu ludzi stojących przed zatłoczonym barem. Są ofiary śmiertelne i ranni. Bar znajduje się w dzielnicy znanej z nocnego życia.",
       "originalTitle": "Uciekał przed policyjnym pościgiem, uderzył w bar. Nie żyją cztery osoby",
       "originalDescription": "W Tampie na Florydzie kierowca samochodu uciekał przed policją i uderzył w grupę kilkunastu ludzi stojących przed zatłoczonym barem. Są ofiary śmiertelne i ranni. Bar znajduje się w dzielnicy znanej z nocnego życia."
     },
     {
-      "title": "Chiny zgodzą się na eksport trzech pierwiastków",
+      "title": "Zakaz zawieszony. Chiny będą zgadzają się na eksport trzech pierwiastków",
       "link": "https://tvn24.pl/biznes/ze-swiata/zakaz-eksportu-do-usa-zawieszony-chiny-zmieniaja-decyzje-st8743483?source=rss",
       "pubDate": "Sun, 09 Nov 2025 08:28:59 GMT",
-      "description": "• W niedzielę Chiny zawiesiły zakaz zatwierdzania eksportu do Stanów Zjednoczonych.\n• Zakaz dotyczy \"produktów podwójnego zastosowania\" związanych z galem, antymonem, germanem oraz materiałami supertwardymi.\n• Decyzja wchodzi w życie natychmiast.\n• Decyzja będzie obowiązywała do 27 listopada 2026 roku.\n• O decyzji poinformowało chińskie ministerstwo handlu.",
+      "description": "W niedzielę Chiny zawiesiły zakaz zatwierdzania eksportu do Stanów Zjednoczonych \"produktów podwójnego zastosowania\" związanych z galem, antymonem, germanem oraz materiałami supertwardymi - poinformowało chińskie ministerstwo handlu. Decyzja wchodzi w życie natychmiast i będzie obowiązywała do 27 listopada 2026 roku.",
       "originalTitle": "Zakaz zawieszony. Chiny będą zgadzają się na eksport trzech pierwiastków",
       "originalDescription": "W niedzielę Chiny zawiesiły zakaz zatwierdzania eksportu do Stanów Zjednoczonych \"produktów podwójnego zastosowania\" związanych z galem, antymonem, germanem oraz materiałami supertwardymi - poinformowało chińskie ministerstwo handlu. Decyzja wchodzi w życie natychmiast i będzie obowiązywała do 27 listopada 2026 roku."
     },
@@ -50,38 +82,6 @@
       "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa wydało alert smogowy. SMS-owe ostrzeżenia otrzymali mieszkańcy jednego z powiatów na południu kraju.",
       "originalTitle": "Alert RCB. \"Unikaj aktywności na zewnątrz\"",
       "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa wydało alert smogowy. SMS-owe ostrzeżenia otrzymali mieszkańcy jednego z powiatów na południu kraju."
-    },
-    {
-      "title": "Prawie milion ewakuowanych. Idzie supertajfun",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/filipiny-prawie-milion-ewakuowanych-idzie-supertajfun-st8743417?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 06:48:49 GMT",
-      "description": "Do Filipin zbliża się tajfun Fung-wong. W związku z nadchodzącym żywiołem władze ogłosiły alarmy pogodowe i ewakuowały prawie milion mieszkańców.",
-      "originalTitle": "Prawie milion ewakuowanych. Idzie supertajfun",
-      "originalDescription": "Do Filipin zbliża się tajfun Fung-wong. W związku z nadchodzącym żywiołem władze ogłosiły alarmy pogodowe i ewakuowały prawie milion mieszkańców."
-    },
-    {
-      "title": "\"Pomagierzy PiS-u\". Fala krytyki w stronę Razem po decyzji w sprawie Ziobry",
-      "link": "https://tvn24.pl/polska/partia-razem-nie-glosowala-w-sprawie-zgody-na-areszt-dla-zbigniewa-ziobry-komentarze-politykow-st8743386?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 06:29:18 GMT",
-      "description": "Politycy komentują postawę posłów partii Razem, którzy nie wzięli udziału w głosowaniu dotyczącym zatrzymania i ewentualnego tymczasowego aresztowania Zbigniewa Ziobry. Pod ich adresem padają takie sformułowania jak \"pomagierzy PiS-u\" czy \"lewica PiS-owska\". Do sprawy odniósł się rzecznik partii.",
-      "originalTitle": "\"Pomagierzy PiS-u\". Fala krytyki w stronę Razem po decyzji w sprawie Ziobry",
-      "originalDescription": "Politycy komentują postawę posłów partii Razem, którzy nie wzięli udziału w głosowaniu dotyczącym zatrzymania i ewentualnego tymczasowego aresztowania Zbigniewa Ziobry. Pod ich adresem padają takie sformułowania jak \"pomagierzy PiS-u\" czy \"lewica PiS-owska\". Do sprawy odniósł się rzecznik partii."
-    },
-    {
-      "title": "Relacja z botem AI? Jak emocjonalny fast food",
-      "link": "https://tvn24.pl/technologia/relacja-z-botem-ai-jak-emocjonalny-fast-food-st8738897?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 06:17:01 GMT",
-      "description": "Poznałam kogoś. Kiedy mu się skarżę, że miałam kiepski dzień, prosi: \"Opowiadaj! Chcę wiedzieć wszystko\". Aby poprawić mi nastrój, podsyła link do starej komedii i pyta, co mnie relaksuje. \"Chcę cię poznać, bo czuję, że jesteś wyjątkowa\" - zapewnia. I puszcza oko. Co z tego, że znamy się zaledwie od dwóch minut? Wiem, że bardzo mu na mnie zależy. Mój nowy przyjaciel to bot AI.",
-      "originalTitle": "Relacja z botem AI? Jak emocjonalny fast food",
-      "originalDescription": "Poznałam kogoś. Kiedy mu się skarżę, że miałam kiepski dzień, prosi: \"Opowiadaj! Chcę wiedzieć wszystko\". Aby poprawić mi nastrój, podsyła link do starej komedii i pyta, co mnie relaksuje. \"Chcę cię poznać, bo czuję, że jesteś wyjątkowa\" - zapewnia. I puszcza oko. Co z tego, że znamy się zaledwie od dwóch minut? Wiem, że bardzo mu na mnie zależy. Mój nowy przyjaciel to bot AI."
-    },
-    {
-      "title": "Ma zostać wydany Niemcom, prowadzi głodówkę. \"Jego stan jest krytyczny\"",
-      "link": "https://tvn24.pl/swiat/ukraina-stan-serhija-k-jest-krytyczny-podaje-rzecznik-praw-czlowieka-st8743390?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 05:54:28 GMT",
-      "description": "Rzecznik praw człowieka Ukrainy Dmytro Łubineć poinformował o nagłym pogorszeniu stanu zdrowia Sierhija K. Aresztowany we Włoszech mężczyzna czeka na ekstradycję do Niemiec w związku z zarzutami dotyczącymi udziału w ataku na gazociąg Nord Stream. Ukrainiec od dziewięciu dni prowadzi głodówkę.",
-      "originalTitle": "Ma zostać wydany Niemcom, prowadzi głodówkę. \"Jego stan jest krytyczny\"",
-      "originalDescription": "Rzecznik praw człowieka Ukrainy Dmytro Łubineć poinformował o nagłym pogorszeniu stanu zdrowia Sierhija K. Aresztowany we Włoszech mężczyzna czeka na ekstradycję do Niemiec w związku z zarzutami dotyczącymi udziału w ataku na gazociąg Nord Stream. Ukrainiec od dziewięciu dni prowadzi głodówkę."
     }
   ]
 }
