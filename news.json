@@ -1,8 +1,24 @@
 {
-  "lastUpdate": "2025-11-10T15:06:45.659Z",
+  "lastUpdate": "2025-11-10T15:37:50.734Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Zakłady bez prądu",
+      "link": "https://tvn24.pl/biznes/tech/usa-centra-danych-nie-dzialaja-bo-nie-ma-dla-nich-pradu-nie-chcesz-sie-spoznic-st8745470?source=rss",
+      "pubDate": "Mon, 10 Nov 2025 15:31:46 GMT",
+      "description": "• W Santa Clara w Kalifornii dwa duże centra danych nie działają z powodu braku energii elektrycznej.\n• Projekty firm Digital Realty Trust i Stack Infrastructure utknęły w miejscu.\n• Powodem jest to, że lokalny dostawca prądu nie jest w stanie zapewnić odpowiedniej mocy.\n• Informację o tym przekazał Bloomberg.",
+      "originalTitle": "Zakłady nie działają, bo nie ma dla nich prądu. \"Nie chcesz się spóźnić\"",
+      "originalDescription": "W Santa Clara w Kalifornii dwa duże centra danych nie działają z powodu braku energii elektrycznej. Projekty firm Digital Realty Trust i Stack Infrastructure utknęły w miejscu, ponieważ lokalny dostawca prądu nie jest w stanie zapewnić odpowiedniej mocy - informuje Bloomberg."
+    },
+    {
+      "title": "Porozumienie pokojowe zawieszone",
+      "link": "https://tvn24.pl/swiat/tajlandia-porozumienie-z-kambodza-podpisane-w-obecnosci-trumpa-w-pazdzierniku-zawieszone-st8745385?source=rss",
+      "pubDate": "Mon, 10 Nov 2025 15:13:34 GMT",
+      "description": "• Z powodu eksplozji miny w pobliżu granicy z Tajlandią zawieszono porozumienie pokojowe z Kambodżą.\n• Porozumienie pokojowe zostało podpisane 26 października.\n• Podpisanie porozumienia pokojowego odbyło się w obecności prezydenta USA, Donalda Trumpa.\n• Porozumienie pokojowe miało zakończyć najnowszą odsłonę wieloletniego konfliktu.\n• Donald Trump przyznał, że \"zrobiono coś, co wielu uważało za niemożliwe\".",
+      "originalTitle": "Zawarli porozumienie pokojowe w obecności Trumpa. Teraz je zawiesili",
+      "originalDescription": "Z powodu eksplozji miny w pobliżu granicy z Tajlandią zawieszono porozumienie pokojowe z Kambodżą. Podpisano je 26 października w obecności prezydenta USA, Donalda Trumpa. Miało ono zakończyć najnowszą odsłonę wieloletniego konfliktu. Trump przyznał wówczas, że \"zrobiono coś, co wielu uważało za niemożliwe\"."
+    },
     {
       "title": "Zmiana pogody nastąpi wkrótce",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-pogody-ponury-wyz-niebawem-nas-opusci-kiedy-poprawi-sie-pogoda-a-kiedy-spadnie-snieg-st8745460?source=rss",
@@ -12,15 +28,15 @@
       "originalDescription": "Pogoda w Polsce. Kraj wciąż pozostaje w zasięgu zgniłego wyżu, przynoszącego chmury i mgły, ale na horyzoncie widać już poprawę pogody. Nie potrwa ona jednak długo. Kiedy pogoda się poprawi? A kiedy spadnie śnieg? Sprawdź szczegóły."
     },
     {
-      "title": "Wypadek na przejściu dla pieszych",
+      "title": "Kobieta potrącona na przejściu dla pieszych",
       "link": "https://tvn24.pl/kielce/polaniec-potracenie-po-kolizji-samochodow-na-przejsciu-dla-pieszych-st8745498?source=rss",
       "pubDate": "Mon, 10 Nov 2025 14:53:50 GMT",
-      "description": "• 50-letnia kobieta przechodziła przez przejście dla pieszych\n• w samochód stojący przed pasami wjechał inny kierowca\n• z powodu stłuczki pierwszy pojazd potoczył się wprost na pieszą",
+      "description": "50-letnia kobieta przechodziła przez przejście dla pieszych, gdy w samochód stojący przed pasami wjechał inny kierowca. Z powodu stłuczki pierwszy pojazd potoczył się wprost na pieszą.",
       "originalTitle": "Kobieta potrącona na przejściu dla pieszych",
       "originalDescription": "50-letnia kobieta przechodziła przez przejście dla pieszych, gdy w samochód stojący przed pasami wjechał inny kierowca. Z powodu stłuczki pierwszy pojazd potoczył się wprost na pieszą."
     },
     {
-      "title": "Stosunek do tematu w USA i Polsce różni się",
+      "title": "W Ameryce norma, w Polsce - nie do pomyślenia. \"Politycy boją się tego typu skojarzeń\"",
       "link": "https://tvn24.pl/polska/w-ameryce-norma-w-polsce-nie-do-pomyslenia-politycy-boja-sie-tego-typu-skojarzen-st8735738?source=rss",
       "pubDate": "Mon, 10 Nov 2025 14:52:18 GMT",
       "description": "Oficjalna fotografia Donalda Trumpa na ścianie urzędu nie budzi w USA zdziwienia. Portrety przywódców w miejscach publicznych - choć mogą kojarzyć się z państwami autorytarnymi - znajdziemy również w europejskich republikach. W Polsce jednak zwyczaj eksponowania wizerunków głowy państwa zanikł. Dlaczego? Eksperci wskazują w rozmowie z tvn24.pl, co \"skutecznie zniechęciło nas do tego typu symboliki\".",
@@ -28,11 +44,11 @@
       "originalDescription": "Oficjalna fotografia Donalda Trumpa na ścianie urzędu nie budzi w USA zdziwienia. Portrety przywódców w miejscach publicznych - choć mogą kojarzyć się z państwami autorytarnymi - znajdziemy również w europejskich republikach. W Polsce jednak zwyczaj eksponowania wizerunków głowy państwa zanikł. Dlaczego? Eksperci wskazują w rozmowie z tvn24.pl, co \"skutecznie zniechęciło nas do tego typu symboliki\"."
     },
     {
-      "title": "Nicolas Sarkozy opuścił więzienie",
+      "title": "Nicolas Sarkozy zwolniony z więzienia. Pojechał do domu",
       "link": "https://tvn24.pl/swiat/francja-nicolas-sarkozy-zwolniony-z-wiezienia-st8744772?source=rss",
       "pubDate": "Mon, 10 Nov 2025 10:23:48 GMT",
       "description": "Nicolas Sarkozy wyszedł z więzienia i pojechał do swojego domu w Paryżu. Zgodnie z decyzją sądu były prezydent Francji ma odbywać wyrok \"pod nadzorem sądowym\".",
-      "originalTitle": "Nicolas Sarkozy zwolniony z więzienia",
+      "originalTitle": "Nicolas Sarkozy zwolniony z więzienia. Pojechał do domu",
       "originalDescription": "Nicolas Sarkozy wyszedł z więzienia i pojechał do swojego domu w Paryżu. Zgodnie z decyzją sądu były prezydent Francji ma odbywać wyrok \"pod nadzorem sądowym\"."
     },
     {
@@ -66,22 +82,6 @@
       "description": "Dwie osoby utknęły w górskiej jaskini na północy Hiszpanii. Mężczyźni zostali uwięzieni po intensywnych opadach deszczu, do których doszło w nocy z piątku na sobotę.",
       "originalTitle": "Weszli do jaskini, zaczęło lać. Konieczna była akcja ratunkowa",
       "originalDescription": "Dwie osoby utknęły w górskiej jaskini na północy Hiszpanii. Mężczyźni zostali uwięzieni po intensywnych opadach deszczu, do których doszło w nocy z piątku na sobotę."
-    },
-    {
-      "title": "Zasadzka na trasie S8, odzyskali auto skradzione w Niemczech",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolomin-auto-skradzione-w-niemczech-odzyskane-na-trasie-s8-st8745364?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 14:05:27 GMT",
-      "description": "W wyniku zasadzki, którą zaplanowali policjanci z Wołomina, udało się po dwóch dniach odzyskać samochód skradziony na terenie Niemiec. Zarzut kradzieży z włamaniem usłyszał 25-latek.",
-      "originalTitle": "Zasadzka na trasie S8, odzyskali auto skradzione w Niemczech",
-      "originalDescription": "W wyniku zasadzki, którą zaplanowali policjanci z Wołomina, udało się po dwóch dniach odzyskać samochód skradziony na terenie Niemiec. Zarzut kradzieży z włamaniem usłyszał 25-latek."
-    },
-    {
-      "title": "Walczą o wpisanie Krupówek do rejestru zabytków",
-      "link": "https://tvn24.pl/krakow/zakopane-walcza-o-wpisanie-krupowek-do-rejestru-zabytkow-st8745372?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 13:58:53 GMT",
-      "description": "Małopolski konserwator zabytków odmówił wpisania zakopiańskich Krupówek do rejestru zabytków. Od tej decyzji odwołują się społecznicy argumentujący, że układ urbanistyczny ulicy dokumentuje rozwój miasta.",
-      "originalTitle": "Walczą o wpisanie Krupówek do rejestru zabytków",
-      "originalDescription": "Małopolski konserwator zabytków odmówił wpisania zakopiańskich Krupówek do rejestru zabytków. Od tej decyzji odwołują się społecznicy argumentujący, że układ urbanistyczny ulicy dokumentuje rozwój miasta."
     }
   ]
 }
