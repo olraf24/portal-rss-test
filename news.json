@@ -1,10 +1,34 @@
 {
-  "lastUpdate": "2025-11-11T17:05:56.165Z",
+  "lastUpdate": "2025-11-11T17:37:13.240Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Święto Niepodległości w Polsce",
+      "title": "Zimowe warunki w USA powodują spadanie legwanów z drzew",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/atak-zimy-w-usa-legwany-spadaja-z-drzew-st8746079?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 10:42:01 GMT",
+      "description": "• Arktyczne powietrze napłynęło do części Stanów Zjednoczone.\n• Nawet na Florydzie temperatura spadła miejscami poniżej zera stopni.\n• Floryda jest zwykle kojarzona ze słońcem i ciepłem.\n• Przez chłód żyjące tam legwany spadają z drzew.",
+      "originalTitle": "Atak zimy w USA. Legwany spadają z drzew",
+      "originalDescription": "Arktyczne powietrze napłynęło do części Stanów Zjednoczone. Nawet na Florydzie, kojarzonej zwykle ze słońcem i ciepłem, temperatura spadła miejscami poniżej zera stopni. Przez chłód żyjące tam legwany spadają z drzew."
+    },
+    {
+      "title": "Marsz narodowców w Warszawie",
+      "link": "https://tvn24.pl/polska/zakaz-rac-na-marszu-niepodleglosci-rafal-trzaskowski-policja-bedzie-wyciagac-konsekwencje-st8747240?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 17:28:49 GMT",
+      "description": "• Prezydent Warszawy Rafał Trzaskowski zapowiedział, że policja będzie wyciągać konsekwencje w związku ze złamaniem zakazu używania materiałów pirotechnicznych w Warszawie.\n• Zakaz używania materiałów pirotechnicznych dotyczy 11 listopada.\n• Ograniczenie zostało wprowadzone w rozporządzeniu wydanym przez wojewodę mazowieckiego.",
+      "originalTitle": "Złamany zakaz rac na marszu narodowców w Warszawie. Rafał Trzaskowski: będą konsekwencje",
+      "originalDescription": "Prezydent Warszawy Rafał Trzaskowski zapowiedział, że policja będzie wyciągać konsekwencje w związku ze złamaniem zakazu używania materiałów pirotechnicznych w Warszawie 11 listopada. Takie ograniczenie było w wydanym przez wojewodę mazowieckiego rozporządzeniu."
+    },
+    {
+      "title": "Pożar hali, trwają gaszenia bel siana",
+      "link": "https://tvn24.pl/krakow/facimiech-pozar-hali-z-sianem-wielogodzinna-akcja-strazakow-st8747327?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 17:05:14 GMT",
+      "description": "Od kilkunastu godzin strażacy walczą z pożarem w Facimiechu pod Krakowem. Spłonęła tam hala, w której było ponad tysiąc bel siana i maszyny rolnicze. I to właśnie płonące siano jest teraz największym problemem.",
+      "originalTitle": "Spłonęła hala, od kilkunastu godzin strażacy gaszą bele siana",
+      "originalDescription": "Od kilkunastu godzin strażacy walczą z pożarem w Facimiechu pod Krakowem. Spłonęła tam hala, w której było ponad tysiąc bel siana i maszyny rolnicze. I to właśnie płonące siano jest teraz największym problemem."
+    },
+    {
+      "title": "Polskie miasta w bieli i czerwieni. Tak świętowały niepodległość",
       "link": "https://tvn24.pl/krakow/narodowe-swieto-niepodleglosci-koncerty-marsze-i-uroczystosci-w-polskich-miastach-st8747160?source=rss",
       "pubDate": "Tue, 11 Nov 2025 16:42:32 GMT",
       "description": "Od Bałtyku po Tatry polskie miasta przybrały biało-czerwone barwy w Narodowe Święto Niepodległości. Gdy przez Warszawę przechodził Marsz Niepodległości, ulice Wrocławia przemierzał barwny pochód. W Krakowie obchody rozpoczynały się przy sarkofagu marszałka Piłsudskiego, a w Poznaniu tradycyjnie obchodzono też imieniny ulicy Święty Marcin.",
@@ -15,12 +39,12 @@
       "title": "Ulewy na greckiej wyspie",
       "link": "https://tvn24.pl/tvnmeteo/swiat/lesbos-grecja-bezprecedensowe-ulewy-na-greckiej-wyspie-zalane-domy-zamkniete-szkoly-st8747129?source=rss",
       "pubDate": "Tue, 11 Nov 2025 16:27:20 GMT",
-      "description": "• Grecką wyspę Lesbos nawiedziły obfite opady deszczu.\n• Opady deszczu doprowadziły do powstania powodzi.\n• Z powodu gwałtownej aury władze zdecydowały się na zamknięcie części szkół.\n• Lokalne media poinformowały o tych zdarzeniach.",
+      "description": "Grecką wyspę Lesbos nawiedziły obfite opady deszczu, które doprowadziły do powstania powodzi. Jak podały lokalne media, z powodu gwałtownej aury władze zdecydowały się na zamknięcie części szkół.",
       "originalTitle": "\"Bezprecedensowe\" ulewy na greckiej wyspie",
       "originalDescription": "Grecką wyspę Lesbos nawiedziły obfite opady deszczu, które doprowadziły do powstania powodzi. Jak podały lokalne media, z powodu gwałtownej aury władze zdecydowały się na zamknięcie części szkół."
     },
     {
-      "title": "Decyzja Komisji Europejskiej w sprawie relokacji migrantów",
+      "title": "Co z relokacją migrantów? Jest decyzja Komisji Europejskiej",
       "link": "https://tvn24.pl/swiat/pakt-migracyjny-ue-co-z-relokacja-migrantow-jest-decyzja-komisji-europejskiej-st8747282?source=rss",
       "pubDate": "Tue, 11 Nov 2025 16:24:21 GMT",
       "description": "Komisja Europejska we wtorek poinformowała, że Polska i niektóre inne państwa Unii będą mogły się ubiegać o zwolnienie z relokacji migrantów w ramach unijnego paktu migracyjnego.",
@@ -58,30 +82,6 @@
       "description": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz oraz minister spraw wewnętrznych i administracji Marcin Kierwiński zostali wybuczani i wygwizdani podczas obchodów Narodowego Święta Niepodległości na placu Piłsudskiego. Szef MON w trakcie swojego przemówienia powiedział, że \"krzyk, gwizd nie dały wolności\".",
       "originalTitle": "Kierwiński i Kosiniak-Kamysz wybuczani i wygwizdani na placu Piłsudskiego",
       "originalDescription": "Wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz oraz minister spraw wewnętrznych i administracji Marcin Kierwiński zostali wybuczani i wygwizdani podczas obchodów Narodowego Święta Niepodległości na placu Piłsudskiego. Szef MON w trakcie swojego przemówienia powiedział, że \"krzyk, gwizd nie dały wolności\"."
-    },
-    {
-      "title": "Obejrzeli nagranie, chwilę później zobaczyli poszukiwanego mężczyznę",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-obejrzeli-nagranie-chwile-pozniej-zobaczyli-poszukiwanego-mezczyzne-st8747181?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 15:19:23 GMT",
-      "description": "Ze sklepu wyszedł z koszem zakupów bez płacenia. Policjanci obejrzeli nagranie z kamer monitoringu, a chwilę później zauważyli na ulicy mężczyznę podejrzanego o kradzież. Już w czasie legitymowania przyznał się do winy. Grozi mu pięć lat więzienia.",
-      "originalTitle": "Obejrzeli nagranie, chwilę później zobaczyli poszukiwanego mężczyznę",
-      "originalDescription": "Ze sklepu wyszedł z koszem zakupów bez płacenia. Policjanci obejrzeli nagranie z kamer monitoringu, a chwilę później zauważyli na ulicy mężczyznę podejrzanego o kradzież. Już w czasie legitymowania przyznał się do winy. Grozi mu pięć lat więzienia."
-    },
-    {
-      "title": "\"Wyprzedzał na czołówkę\", pięcioro rannych",
-      "link": "https://tvn24.pl/krakow/ryczowek-czolowe-zderzenie-podczas-wyprzedzania-piec-osob-rannych-st8747132?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 15:06:11 GMT",
-      "description": "Pięć osób zostało rannych w zderzeniu trzech samochodów osobowych w Ryczówku niedaleko Olkusza (Małopolskie). Najciężej ranny został 23-latek, w którego pojazd czołowo wjechał w trakcie wyprzedzania na zakręcie kierowca hondy.",
-      "originalTitle": "\"Wyprzedzał na czołówkę\", pięcioro rannych",
-      "originalDescription": "Pięć osób zostało rannych w zderzeniu trzech samochodów osobowych w Ryczówku niedaleko Olkusza (Małopolskie). Najciężej ranny został 23-latek, w którego pojazd czołowo wjechał w trakcie wyprzedzania na zakręcie kierowca hondy."
-    },
-    {
-      "title": "Prezydent na marszu środowisk narodowych",
-      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-na-marszu-niepodleglosci-st8747071?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 15:04:46 GMT",
-      "description": "Prezydent Karol Nawrocki dołączył do organizowanego w Warszawie marszu środowisk narodowych. Jego kancelaria opublikowała kilka nagrań z tego wydarzenia.",
-      "originalTitle": "Prezydent na marszu środowisk narodowych",
-      "originalDescription": "Prezydent Karol Nawrocki dołączył do organizowanego w Warszawie marszu środowisk narodowych. Jego kancelaria opublikowała kilka nagrań z tego wydarzenia."
     }
   ]
 }
