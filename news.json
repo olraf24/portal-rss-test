@@ -1,39 +1,71 @@
 {
-  "lastUpdate": "2025-11-11T10:39:49.726Z",
+  "lastUpdate": "2025-11-11T11:05:55.344Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Biegacze w Warszawie",
+      "title": "Cena złota",
+      "link": "https://tvn24.pl/biznes/notowania/ekspert-uwaga-na-cene-zlota-st8746432?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 11:03:04 GMT",
+      "description": "• Ceny złota wzrosły do najwyższego poziomu od prawie trzech tygodni.\n• Zwyżkę napędzają nadzieje na szybkie wznowienie publikacji danych w przypadku zakończenia shutdownu w USA.\n• Zakończenie shutdownu w USA zwiększa szansę na kolejną obniżkę stóp procentowych.\n• Agencja Reutera poinformowała o wzroście cen złota.\n• Ekonomista Piotr Kuczyński ostrzega, że obecny wzrost może być jedynie chwilową przerwą w tendencji spadkowej złota.",
+      "originalTitle": "\"Uwaga na cenę złota\"",
+      "originalDescription": "Ceny złota wzrosły do najwyższego poziomu od prawie trzech tygodni. Zwyżkę napędzają nadzieje na szybkie wznowienie publikacji danych w przypadku zakończenia shutdownu w USA, co zwiększa szansę na kolejną obniżkę stóp procentowych - podała Agencja Reutera. Ekonomista Piotr Kuczyński ostrzega jednak, że obecny wzrost może być jedynie chwilową przerwą w tendencji spadkowej złota."
+    },
+    {
+      "title": "Wyrok sądu w sprawie dożywotniego zakazu",
+      "link": "https://tvn24.pl/kielce/drozejowice-pijany-kierowca-ciagnika-wyrok-w-trybie-przyspieszonym-st8746412?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 10:47:55 GMT",
+      "description": "• Policjanci drogówki zatrzymali 50-latka do kontroli w Drożejowicach (Świętokrzyskie).\n• Mężczyzna prowadził ciągnik.\n• Mężczyzna był już znany policjantom.\n• Mężczyzna prowadził pod wpływem alkoholu.\n• Mężczyzna prowadził mimo dożywotniego zakazu prowadzenia pojazdów.\n• Sąd skazał mężczyznę na rok i cztery miesiące więzienia.",
+      "originalTitle": "Dożywotni zakaz nie wystarczył. Wyrok zapadł błyskawicznie",
+      "originalDescription": "Policjanci drogówki w Drożejowicach (Świętokrzyskie), widząc znajomą twarz za kierownicą ciągnika, zatrzymali 50-latka do kontroli. Tak, jak wiele razy wcześniej, mężczyzna prowadził pod wpływem alkoholu, a także mimo dożywotniego zakazu. Sąd błyskawicznie skazał go na rok i cztery miesiące więzienia."
+    },
+    {
+      "title": "Wypadek przed sądem powoduje ofiary i rannych",
+      "link": "https://tvn24.pl/swiat/pakistan-eksplozja-samochodu-pulapki-wiele-ofiar-i-rannych-st8746365?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 10:45:00 GMT",
+      "description": "Przed budynkiem sądu w stolicy Pakistanu Islamabadzie zamachowiec samobójca zdetonował bombę. W wyniku eksplozji co najmniej 12 osób zginęło, a ponad 20 zostało rannych - przekazał minister spraw wewnętrznych Mohsin Naqvi, cytowany przez agencję AP.",
+      "originalTitle": "Eksplozja przed sądem. Wiele ofiar i rannych",
+      "originalDescription": "Przed budynkiem sądu w stolicy Pakistanu Islamabadzie zamachowiec samobójca zdetonował bombę. W wyniku eksplozji co najmniej 12 osób zginęło, a ponad 20 zostało rannych - przekazał minister spraw wewnętrznych Mohsin Naqvi, cytowany przez agencję AP."
+    },
+    {
+      "title": "Arktyczne uderzenie w USA. Mróz, paraliż na drogach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/arktyczne-uderzenie-w-usa-mroz-paraliz-na-drogach-st8746079?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 10:42:01 GMT",
+      "description": "Zimowa aura nawiedziła Stany Zjednoczone. W rejonie Wielkich Jezior śnieżyce sparaliżowały miejscami transport drogowy. Wskutek \"arktycznego uderzenia\" temperatura spadła także w innych częściach kraju - nawet na Florydzie.",
+      "originalTitle": "Arktyczne uderzenie w USA. Mróz, paraliż na drogach",
+      "originalDescription": "Zimowa aura nawiedziła Stany Zjednoczone. W rejonie Wielkich Jezior śnieżyce sparaliżowały miejscami transport drogowy. Wskutek \"arktycznego uderzenia\" temperatura spadła także w innych częściach kraju - nawet na Florydzie."
+    },
+    {
+      "title": "Narodowe Święto Niepodległości. Premier: to dzień radości wszystkich Polek i Polaków",
+      "link": "https://tvn24.pl/polska/11-listopada-narodowe-swieto-niepodleglosci-relacja-na-zywo-st8746014?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 06:58:10 GMT",
+      "description": "11 listopada w całym kraju odbywają się uroczystości związane z 107. rocznicą odzyskania niepodległości. - To dzień radości wszystkich Polek i Polaków - mówił premier Donald Tusk w Gdańsku. Prezydent Karol Nawrocki przyznał w Pałacu Prezydenckim odznaczenia państwowe. W tvn24.pl relacjonujemy te wydarzenia na bieżąco.",
+      "originalTitle": "Narodowe Święto Niepodległości. Premier: to dzień radości wszystkich Polek i Polaków",
+      "originalDescription": "11 listopada w całym kraju odbywają się uroczystości związane z 107. rocznicą odzyskania niepodległości. - To dzień radości wszystkich Polek i Polaków - mówił premier Donald Tusk w Gdańsku. Prezydent Karol Nawrocki przyznał w Pałacu Prezydenckim odznaczenia państwowe. W tvn24.pl relacjonujemy te wydarzenia na bieżąco."
+    },
+    {
+      "title": "Utworzyli biało-czerwoną wstęgę. Biegacze na ulicach Warszawy",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-bieg-niepodleglosci-trasa-utrudnienia-zamkniete-ulice-objazdy-st8746112?source=rss",
       "pubDate": "Tue, 11 Nov 2025 10:33:19 GMT",
       "description": "Wyruszyli uczestnicy 35. Biegu Niepodległości. Utworzyli biało-czerwoną wstęgę. Zawodnicy biegną w kierunku Mokotowa, a potem w stronę Żoliborza. Zamknięte są ulice na trasie biegu. Wyznaczono objazdy dla kierowców.",
-      "originalTitle": "Wszyscy na biało-czerwono. Biegacze na ulicach Warszawy",
+      "originalTitle": "Utworzyli biało-czerwoną wstęgę. Biegacze na ulicach Warszawy",
       "originalDescription": "Wyruszyli uczestnicy 35. Biegu Niepodległości. Utworzyli biało-czerwoną wstęgę. Zawodnicy biegną w kierunku Mokotowa, a potem w stronę Żoliborza. Zamknięte są ulice na trasie biegu. Wyznaczono objazdy dla kierowców."
     },
     {
-      "title": "Prezydent wręczył Ordery Orła Białego",
+      "title": "Prezydent wręczył Ordery Orła Białego i Ordery Odrodzenia Polski",
       "link": "https://tvn24.pl/polska/swieto-niepodleglosci-andrzej-poczobut-i-waldemar-lysiak-odznaczeni-przez-prezydenta-st8746209?source=rss",
       "pubDate": "Tue, 11 Nov 2025 10:26:25 GMT",
-      "description": "• Prezydent Karol Nawrocki odznaczył Orderem Orła Białego dziennikarza i działacza Związku Polaków na Białorusi Andrzeja Poczobuta.\n• Prezydent Karol Nawrocki odznaczył Orderem Orła Białego pisarza Waldemara Łysiaka.\n• Osobą, która odznaczyła Andrzeja Poczobuta i Waldemara Łysiaka, jest prezydent Karol Nawrocki.\n• Andrzeja Poczobuta można określić mianem dziennikarza i działacza Związku Polaków na Białorusi.\n• Waldemar Łysiak jest pisarzem.\n• Orderem, którym zostali odznaczeni Andrzeja Poczobuta i Waldemara Łysiaka, jest Order Orła Białego.",
-      "originalTitle": "Prezydent wręczył Ordery Orła Białego",
-      "originalDescription": "Prezydent Karol Nawrocki odznaczył Orderem Orła Białego dziennikarza i działacza Związku Polaków na Białorusi Andrzeja Poczobuta oraz pisarza Waldemara Łysiaka."
+      "description": "Prezydent Karol Nawrocki odznaczył Orderem Orła Białego dziennikarza i działacza Związku Polaków na Białorusi Andrzeja Poczobuta oraz pisarza Waldemara Łysiaka. Nawrocki wręczył także Ordery Odrodzenia Polski.",
+      "originalTitle": "Prezydent wręczył Ordery Orła Białego i Ordery Odrodzenia Polski",
+      "originalDescription": "Prezydent Karol Nawrocki odznaczył Orderem Orła Białego dziennikarza i działacza Związku Polaków na Białorusi Andrzeja Poczobuta oraz pisarza Waldemara Łysiaka. Nawrocki wręczył także Ordery Odrodzenia Polski."
     },
     {
-      "title": "Stan aktualny: wiele pracy do zrobienia",
+      "title": "\"Nie zamierzam tego upiększać. Wciąż mamy wiele pracy do zrobienia\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/cop30-brazylia-konferencja-onz-zmiany-klimatu-nie-zamierzam-tego-upiekszac-wciaz-mamy-wiele-pracy-do-zrobienia-st8746283?source=rss",
       "pubDate": "Tue, 11 Nov 2025 10:26:16 GMT",
-      "description": "• W Brazylii rozpoczęła się konferencja klimatyczna COP30.\n• Kierunek zmian jest dobry, ale niewystarczający.\n• Brak obecności jednego kraju został szczególnie odnotowany.",
+      "description": "W Brazylii rozpoczęła się konferencja klimatyczna COP30. Jak zaznaczono na jej otwarciu, kierunek zmian jest dobry, ale niewystarczający. Brak obecności jednego kraju został szczególnie odnotowany.",
       "originalTitle": "\"Nie zamierzam tego upiększać. Wciąż mamy wiele pracy do zrobienia\"",
       "originalDescription": "W Brazylii rozpoczęła się konferencja klimatyczna COP30. Jak zaznaczono na jej otwarciu, kierunek zmian jest dobry, ale niewystarczający. Brak obecności jednego kraju został szczególnie odnotowany."
-    },
-    {
-      "title": "Narodowe Święto Niepodległości. Andrzej Poczobut i Waldemar Łysiak odznaczeni przez prezydenta",
-      "link": "https://tvn24.pl/polska/11-listopada-narodowe-swieto-niepodleglosci-relacja-na-zywo-st8746014?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 06:58:10 GMT",
-      "description": "11 listopada w całym kraju odbywają się uroczystości związane z 107. rocznicą odzyskania niepodległości. Prezydent Karol Nawrocki odznaczył Orderem Orła Białego dziennikarza i działacza Związku Polaków na Białorusi Andrzeja Poczobuta oraz pisarza Waldemara Łysiaka. W tvn24.pl relacjonujemy te wydarzenia na bieżąco.",
-      "originalTitle": "Narodowe Święto Niepodległości. Andrzej Poczobut i Waldemar Łysiak odznaczeni przez prezydenta",
-      "originalDescription": "11 listopada w całym kraju odbywają się uroczystości związane z 107. rocznicą odzyskania niepodległości. Prezydent Karol Nawrocki odznaczył Orderem Orła Białego dziennikarza i działacza Związku Polaków na Białorusi Andrzeja Poczobuta oraz pisarza Waldemara Łysiaka. W tvn24.pl relacjonujemy te wydarzenia na bieżąco."
     },
     {
       "title": "Ważna postać ruchu MAGA krytykuje Trumpa. \"Nie wiem, co jej się stało\"",
@@ -50,38 +82,6 @@
       "description": "Oszuści podszywają się pod PKO Bank Polski i próbują wyłudzić dane logowania klientów biznesowych - ostrzegł zespół cyberbezpieczeństwa Komisji Nadzoru Finansowego (CSIRT KNF).",
       "originalTitle": "Apel do klientów największego banku. \"Ostrzegamy\"",
       "originalDescription": "Oszuści podszywają się pod PKO Bank Polski i próbują wyłudzić dane logowania klientów biznesowych - ostrzegł zespół cyberbezpieczeństwa Komisji Nadzoru Finansowego (CSIRT KNF)."
-    },
-    {
-      "title": "Uzbrojeni w kij i nóż napadali na mieszkańców. Jest areszt",
-      "link": "https://tvn24.pl/lublin/pulawy-uzbrojeni-w-kij-i-noz-napadali-na-mieszkancow-w-lesie-jest-areszt-st8746289?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 10:06:50 GMT",
-      "description": "Bili po głowie kijem bejsbolowym, nie oszczędzili nawet 77-latka - dwaj nastolatkowie trafili do aresztu po napaściach na mieszkańców Puław (Lubelskie). Do ataków doszło w lesie, gdzie młodzi mężczyźni mieli czekać na swoje ofiary, grożąc im między innymi nożem. Na zabezpieczonym przez policjantów kiju bejsbolowym znajdują się napisy: \"kocham ludzi\", \"kocham siebie\".",
-      "originalTitle": "Uzbrojeni w kij i nóż napadali na mieszkańców. Jest areszt",
-      "originalDescription": "Bili po głowie kijem bejsbolowym, nie oszczędzili nawet 77-latka - dwaj nastolatkowie trafili do aresztu po napaściach na mieszkańców Puław (Lubelskie). Do ataków doszło w lesie, gdzie młodzi mężczyźni mieli czekać na swoje ofiary, grożąc im między innymi nożem. Na zabezpieczonym przez policjantów kiju bejsbolowym znajdują się napisy: \"kocham ludzi\", \"kocham siebie\"."
-    },
-    {
-      "title": "\"Ameryka oddaje hołd\". Wpis ambasadora USA w Polsce",
-      "link": "https://tvn24.pl/polska/swieto-niepodleglosci-ambasadorowie-usa-i-irlandii-zlozyli-zyczenia-polakom-st8746191?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 09:32:22 GMT",
-      "description": "Ambasadorowie USA i Irlandii złożyli Polakom życzenia z okazji Święta Niepodległości. \"Ameryka oddaje hołd Waszej historii, bohaterom i niezłomnemu przywiązaniu do wolności\" - napisał przedstawiciel Stanów Zjednoczonych Tom Rose w mediach społecznościowych.",
-      "originalTitle": "\"Ameryka oddaje hołd\". Wpis ambasadora USA w Polsce",
-      "originalDescription": "Ambasadorowie USA i Irlandii złożyli Polakom życzenia z okazji Święta Niepodległości. \"Ameryka oddaje hołd Waszej historii, bohaterom i niezłomnemu przywiązaniu do wolności\" - napisał przedstawiciel Stanów Zjednoczonych Tom Rose w mediach społecznościowych."
-    },
-    {
-      "title": "Trump komentuje skutki gospodarcze",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-to-bylaby-gospodarcza-katastrofa-st8746157?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 09:12:13 GMT",
-      "description": "Donald Trump ostrzega, że przegrana w Sądzie Najwyższym w sprawie ceł oznaczałaby gospodarczą katastrofę. Prezydent USA podkreśla też, że taka decyzja w sprawie taryf miałaby poważne zagrożenie dla bezpieczeństwa narodowego - podał Reuters.",
-      "originalTitle": "Trump: to byłaby gospodarcza katastrofa",
-      "originalDescription": "Donald Trump ostrzega, że przegrana w Sądzie Najwyższym w sprawie ceł oznaczałaby gospodarczą katastrofę. Prezydent USA podkreśla też, że taka decyzja w sprawie taryf miałaby poważne zagrożenie dla bezpieczeństwa narodowego - podał Reuters."
-    },
-    {
-      "title": "Dwie nastolatki zginęły w wypadku. Za kierownicą 17-latek",
-      "link": "https://tvn24.pl/trojmiasto/kurowo-dwie-nastolatki-zginely-w-wypadku-za-kierownica-17-latek-st8746160?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 09:11:50 GMT",
-      "description": "Nastolatki w wieku 16 i 17 lat zginęły w wypadku w miejscowości Kurowo (województwo pomorskie). Jak ustalili policjanci, samochód, którym jechały uderzył w przydrożne drzewo. Za kierownicą siedział 17-latek, który nie miał prawa jazdy.",
-      "originalTitle": "Dwie nastolatki zginęły w wypadku. Za kierownicą 17-latek",
-      "originalDescription": "Nastolatki w wieku 16 i 17 lat zginęły w wypadku w miejscowości Kurowo (województwo pomorskie). Jak ustalili policjanci, samochód, którym jechały uderzył w przydrożne drzewo. Za kierownicą siedział 17-latek, który nie miał prawa jazdy."
     }
   ]
 }
