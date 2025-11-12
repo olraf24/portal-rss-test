@@ -1,26 +1,50 @@
 {
-  "lastUpdate": "2025-11-12T17:07:12.168Z",
+  "lastUpdate": "2025-11-12T17:37:06.038Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Dymisja ministry energetyki na Ukrainie",
+      "title": "Wypadek na autostradzie, jedna ofiara śmiertelna",
+      "link": "https://tvn24.pl/lodz/lodz-tragiczny-wypadek-na-autostradzie-a1-zderzenie-samochodu-dostawczego-z-tirem-nie-zyje-jedna-osoba-st8748987?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 17:24:56 GMT",
+      "description": "• Jedna osoba zginęła w zderzeniu samochodu dostawczego z tirem.\n• Zderzenie miało miejsce na autostradzie A1.\n• Wypadek nastąpił na pasie w kierunku Gdańska.\n• Do wypadku doszło w środę wieczorem.\n• Miejsce wypadku to okolice przed węzłem Łódź Północ.",
+      "originalTitle": "Tragiczny wypadek na autostradzie. Nie żyje jedna osoba",
+      "originalDescription": "Jedna osoba zginęła w zderzeniu samochodu dostawczego z tirem na autostradzie A1 na pasie w kierunku Gdańska. Do wypadku doszło w środę wieczorem przed węzłem Łódź Północ."
+    },
+    {
+      "title": "Polska składa wniosek do KE ws paktu migracyjnego",
+      "link": "https://tvn24.pl/polska/jest-wniosek-polski-do-komisji-europejskiej-chodzi-o-pakt-migracyjny-st8748999?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 17:24:01 GMT",
+      "description": "Komisja Europejska poinformowała, że Polska i niektóre inne państwa Unii będą mogły się ubiegać o zwolnienie z relokacji migrantów w ramach unijnego paktu migracyjnego. W środę wieczorem MSWiA poinformowało, że wniosek o pełne zwolnienie Polski z paktu migracyjnego został już przez polski rząd złożony.",
+      "originalTitle": "Jest wniosek Polski do Komisji Europejskiej. Chodzi o pakt migracyjny",
+      "originalDescription": "Komisja Europejska poinformowała, że Polska i niektóre inne państwa Unii będą mogły się ubiegać o zwolnienie z relokacji migrantów w ramach unijnego paktu migracyjnego. W środę wieczorem MSWiA poinformowało, że wniosek o pełne zwolnienie Polski z paktu migracyjnego został już przez polski rząd złożony."
+    },
+    {
+      "title": "Rząd przyjął projekt ustawy o rozwodzie",
+      "link": "https://tvn24.pl/biznes/z-kraju/rozwod-bez-wizyty-w-sadzie-rzad-przyjal-projekt-st8748983?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 17:22:42 GMT",
+      "description": "Rada Ministrów przyjęła w środę projekt ustawy dotyczący wprowadzenia rozwodów pozasądowych. Zgodnie z proponowanymi przepisami, jeśli małżonkowie wyrażają zgodę na rozstanie, rozwód będzie mógł zostać orzeczony wyłącznie przez kierownika urzędu stanu cywilnego. Nowe przepisy mają znacząco odciążyć wymiar sprawiedliwości.",
+      "originalTitle": "Rozwód bez wizyty w sądzie. Rząd przyjął projekt",
+      "originalDescription": "Rada Ministrów przyjęła w środę projekt ustawy dotyczący wprowadzenia rozwodów pozasądowych. Zgodnie z proponowanymi przepisami, jeśli małżonkowie wyrażają zgodę na rozstanie, rozwód będzie mógł zostać orzeczony wyłącznie przez kierownika urzędu stanu cywilnego. Nowe przepisy mają znacząco odciążyć wymiar sprawiedliwości."
+    },
+    {
+      "title": "Afera korupcyjna w ukraińskiej energetyce. Wołodymyr Zełenski żądał jej rezygnacji, jest dymisja ministry",
       "link": "https://tvn24.pl/swiat/minister-energii-ukrainy-switlana-hrynczuk-podala-sie-do-dymisji-po-aferze-korupcyjnej-st8748888?source=rss",
       "pubDate": "Wed, 12 Nov 2025 16:56:16 GMT",
-      "description": "• Ministra energii Ukrainy Switłana Hrynczuk podała się do dymisji.\n• Powodem dymisji była afera korupcyjna w państwowym operatorze elektrowni jądrowych.\n• Wcześniej jej rezygnacji domagał się prezydent Wołodymyr Zełenski.\n• Prezydent Wołodymyr Zełenski domagał się również rezygnacji ministra sprawiedliwości Hermana Hałuszczenki.\n• Herman Hałuszczenko był zamieszany w aferę korupcyjną.",
+      "description": "Ministra energii Ukrainy Switłana Hrynczuk podała się do dymisji w związku z aferą korupcyjną w państwowym operatorze elektrowni jądrowych. Wcześniej jej rezygnacji, a także zamieszanego w aferę ministra sprawiedliwości Hermana Hałuszczenki, domagał się prezydent Wołodymyr Zełenski.",
       "originalTitle": "Afera korupcyjna w ukraińskiej energetyce. Wołodymyr Zełenski żądał jej rezygnacji, jest dymisja ministry",
       "originalDescription": "Ministra energii Ukrainy Switłana Hrynczuk podała się do dymisji w związku z aferą korupcyjną w państwowym operatorze elektrowni jądrowych. Wcześniej jej rezygnacji, a także zamieszanego w aferę ministra sprawiedliwości Hermana Hałuszczenki, domagał się prezydent Wołodymyr Zełenski."
     },
     {
-      "title": "Aktywność wulkanu Santa Bárbara",
+      "title": "Portugalia. Wulkan Santa Bárbara powoli się budzi",
       "link": "https://tvn24.pl/tvnmeteo/swiat/portugalia-azory-wulkan-santa-barbara-powoli-sie-budzi-st8748914?source=rss",
       "pubDate": "Wed, 12 Nov 2025 16:55:47 GMT",
-      "description": "• Wulkan Santa Bárbara jest położony na portugalskiej Terceirze.\n• Wulkan powoli się budzi.\n• Eksperci odnotowali w ostatnim czasie zwiększoną aktywność sejsmiczną na wyspie.\n• Wyspa, na której znajduje się wulkan, należy do archipelagu Azorów.",
+      "description": "Wulkan Santa Bárbara, położony na portugalskiej Terceirze, powoli się budzi. Eksperci odnotowali w ostatnim czasie zwiększoną aktywność sejsmiczną na wyspie należącej do archipelagu Azorów.",
       "originalTitle": "Portugalia. Wulkan Santa Bárbara powoli się budzi",
       "originalDescription": "Wulkan Santa Bárbara, położony na portugalskiej Terceirze, powoli się budzi. Eksperci odnotowali w ostatnim czasie zwiększoną aktywność sejsmiczną na wyspie należącej do archipelagu Azorów."
     },
     {
-      "title": "Córka Michaela Jacksona choruje na rzadką przypadłość",
+      "title": "Córka Michaela Jacksona o tym, co \"zniszczyło jej życie\". Cierpi na nietypową przypadłość",
       "link": "https://tvn24.pl/kultura-i-styl/corka-michaela-jacksona-paris-jackson-o-narkotykach-i-uszkodzonej-przegrodzie-nosowej-st8748832?source=rss",
       "pubDate": "Wed, 12 Nov 2025 16:50:01 GMT",
       "description": "Paris Jackson, córka Michaela Jacksona, wyznała w opublikowanym nagraniu, że narkotyki zniszczyły jej życie. Choć uwolniła się od nałogu, wciąż odczuwa skutki zdrowotne uzależnienia, cierpi m.in. z powodu ubytku w przegrodzie nosowej. \"Dziura jest od tego, od czego myślicie, że jest\" - powiedziała. I zaapelowała: - Nie bierzcie narkotyków, dzieciaki\"",
@@ -53,35 +77,11 @@
     },
     {
       "title": "Burza wokół baneru na Marszu Niepodległości. Ministra i posłowie komentują",
-      "link": "https://tvn24.pl/polska/warszawa-burza-wokol-baneru-na-marszu-niepodleglosci-ministra-i-poslowie-komentuja-st8748800?source=rss",
+      "link": "https://tvn24.pl/polska/marsz-niepodleglosci-baner-kotki-i-psiecka-nie-zastapia-ci-dziecka-wywolal-fale-komentarzy-st8748800?source=rss",
       "pubDate": "Wed, 12 Nov 2025 16:27:30 GMT",
-      "description": "\"Trafny przekaz\" czy \"drwina z ludzi posiadających zwierzęta\"? Wicemarszałek Sejmu Krzysztof Bosak (Konfederacja) wywołał falę komentarzy, publikując i chwaląc zdjęcie baneru z hasłem \"Kotki i psiecka nie zastąpią ci dziecka!\". Poseł Łukasz Litewka skomentował wpis, publikując przerobioną wersję hasła. Głos zabrali także inni politycy.",
+      "description": "\"Trafny przekaz\" czy \"drwina z ludzi posiadających zwierzęta\"? Wicemarszałek Sejmu Krzysztof Bosak (Konfederacja) wywołał falę komentarzy, publikując i chwaląc zdjęcie baneru z hasłem: \"Kotki i psiecka nie zastąpią ci dziecka!\". Poseł Łukasz Litewka skomentował wpis, publikując przerobioną wersję hasła. Głos zabrali także inni politycy.",
       "originalTitle": "Burza wokół baneru na Marszu Niepodległości. Ministra i posłowie komentują",
-      "originalDescription": "\"Trafny przekaz\" czy \"drwina z ludzi posiadających zwierzęta\"? Wicemarszałek Sejmu Krzysztof Bosak (Konfederacja) wywołał falę komentarzy, publikując i chwaląc zdjęcie baneru z hasłem \"Kotki i psiecka nie zastąpią ci dziecka!\". Poseł Łukasz Litewka skomentował wpis, publikując przerobioną wersję hasła. Głos zabrali także inni politycy."
-    },
-    {
-      "title": "\"Magiczny cykl\" przyspiesza. \"Potrzebujemy wyników negatywnych\"",
-      "link": "https://tvn24.pl/biznes/szukaj/ai-sztuczna-inteligencja-magiczny-cykl-przyspiesza-potrzebujemy-wynikow-negatywnych-st8748837?source=rss",
-      "pubDate": "Wed, 12 Nov 2025 16:21:30 GMT",
-      "description": "Sztuczna inteligencja (AI) w bezprecedensowy sposób przyspiesza rozwój nauki, dzięki czemu mamy teraz złote czasy badań naukowych - uważa wiceprezes Google Yossi Matias. Z kolei profesor Piotr Sankowski pozytywnie ocenia nowe szanse, jakie stają przed nauką dzięki AI.",
-      "originalTitle": "\"Magiczny cykl\" przyspiesza. \"Potrzebujemy wyników negatywnych\"",
-      "originalDescription": "Sztuczna inteligencja (AI) w bezprecedensowy sposób przyspiesza rozwój nauki, dzięki czemu mamy teraz złote czasy badań naukowych - uważa wiceprezes Google Yossi Matias. Z kolei profesor Piotr Sankowski pozytywnie ocenia nowe szanse, jakie stają przed nauką dzięki AI."
-    },
-    {
-      "title": "Ostrzeżenia IMGW. Porywy wiatru osiągną niebezpieczne prędkości",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-silny-wiatr-porywy-przekraczajace-70-km-h-st8748841?source=rss",
-      "pubDate": "Wed, 12 Nov 2025 16:20:27 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silny wiatrem, który w porywach może rozpędzać się do 70 kilometrów na godzinę. Sprawdź, gdzie aura będzie groźna.",
-      "originalTitle": "Ostrzeżenia IMGW. Porywy wiatru osiągną niebezpieczne prędkości",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silny wiatrem, który w porywach może rozpędzać się do 70 kilometrów na godzinę. Sprawdź, gdzie aura będzie groźna."
-    },
-    {
-      "title": "\"Wypełni białą plamę\". Nowy oddział dla dzieci i młodzieży w Małopolsce",
-      "link": "https://tvn24.pl/zdrowie/nowy-oddzial-zdrowia-psychicznego-dla-dzieci-i-mlodziezy-w-malopolsce-kiedy-powstanie-st8748915?source=rss",
-      "pubDate": "Wed, 12 Nov 2025 16:14:00 GMT",
-      "description": "Ośrodek Zdrowia Psychicznego dla dzieci i młodzieży wraz z ogrodem terapeutycznym powstanie w Tarnowie. Rząd przeznaczy na ten cel 67 milionów złotych, a placówka ma być gotowa do 2028 roku - poinformował w środę rzecznik rządu Adam Szłapka.",
-      "originalTitle": "\"Wypełni białą plamę\". Nowy oddział dla dzieci i młodzieży w Małopolsce",
-      "originalDescription": "Ośrodek Zdrowia Psychicznego dla dzieci i młodzieży wraz z ogrodem terapeutycznym powstanie w Tarnowie. Rząd przeznaczy na ten cel 67 milionów złotych, a placówka ma być gotowa do 2028 roku - poinformował w środę rzecznik rządu Adam Szłapka."
+      "originalDescription": "\"Trafny przekaz\" czy \"drwina z ludzi posiadających zwierzęta\"? Wicemarszałek Sejmu Krzysztof Bosak (Konfederacja) wywołał falę komentarzy, publikując i chwaląc zdjęcie baneru z hasłem: \"Kotki i psiecka nie zastąpią ci dziecka!\". Poseł Łukasz Litewka skomentował wpis, publikując przerobioną wersję hasła. Głos zabrali także inni politycy."
     }
   ]
 }
