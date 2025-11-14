@@ -1,13 +1,21 @@
 {
-  "lastUpdate": "2025-11-14T00:49:56.950Z",
+  "lastUpdate": "2025-11-14T01:34:18.949Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Pogoda na dziś: opady w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-14-11-w-czesci-kraju-bedzie-mokro-st8750902?source=rss",
+      "pubDate": "Fri, 14 Nov 2025 01:00:00 GMT",
+      "description": "• Po ładnym czwartku, w piątek pogoda się popsuje.\n• Wciąż będzie jednak ciepło.\n• Temperatura maksymalna nie powinna spaść poniżej 10 stopni.",
+      "originalTitle": "Pogoda na dziś - piątek, 14.11. W części kraju będzie mokro",
+      "originalDescription": "Pogoda na dziś. Po ładnym czwartku, w piątek pogoda się popsuje. Wciąż będzie jednak ciepło - temperatura maksymalna nie powinna spaść poniżej 10 stopni."
+    },
+    {
       "title": "Pentagon ogłasza operację Południowa Włócznia",
       "link": "https://tvn24.pl/swiat/usa-szef-pentagonu-pete-hegseth-oglosil-operacje-poludniowa-wlocznia-st8751224?source=rss",
       "pubDate": "Thu, 13 Nov 2025 22:55:35 GMT",
-      "description": "• Ogłoszono operację Południowa Włócznia.\n• Ogłoszenie nastąpiło w czwartek.\n• Ogłoszenia dokonał szef departamentu wojny USA Pete Hegseth.\n• Celem operacji jest walka z \"narkoterrorystami\".",
+      "description": "• Ogłoszono operację Południowa Włócznia.\n• Ogłoszenie nastąpiło w czwartek.\n• Ogłoszenie operacji zostało dokonane przez szefa departamentu wojny USA.\n• Szefem departamentu wojny USA jest Pete Hegseth.\n• Celem operacji jest walka z \"narkoterrorystami\".",
       "originalTitle": "Szef Pentagonu ogłasza operację \"Południowa Włócznia\"",
       "originalDescription": "Ogłaszam dziś operację Południowa Włócznia – poinformował w czwartek szef departamentu wojny USA Pete Hegseth. Celem operacji - jak przekazał - ma być walka z \"narkoterrorystami\"."
     },
@@ -23,12 +31,12 @@
       "title": "BBC wydaje oświadczenie w sprawie prezydenta USA",
       "link": "https://tvn24.pl/swiat/bbc-przeprasza-donalda-trumpa-za-montaz-jego-slow-o-marszu-na-kapitol-st8751199?source=rss",
       "pubDate": "Thu, 13 Nov 2025 22:08:26 GMT",
-      "description": "Brytyjska stacja BBC przeprosiła w czwartek Donalda Trumpa za zmontowanie jego przemówienia w taki sposób, że wyglądało jak nawoływanie do przemocy. Nadawca uważa jednak, że nie ma podstaw do wniesienia pozwu o zniesławienie.",
+      "description": "• Brytyjska stacja BBC przeprosiła w czwartek Donalda Trumpa.\n• Przeprosiny dotyczyły zmontowania jego przemówienia w taki sposób, że wyglądało jak nawoływanie do przemocy.\n• Nadawca uważa, że nie ma podstaw do wniesienia pozwu o zniesławienie.",
       "originalTitle": "BBC przeprasza Trumpa",
       "originalDescription": "Brytyjska stacja BBC przeprosiła w czwartek Donalda Trumpa za zmontowanie jego przemówienia w taki sposób, że wyglądało jak nawoływanie do przemocy. Nadawca uważa jednak, że nie ma podstaw do wniesienia pozwu o zniesławienie."
     },
     {
-      "title": "Kasparow komentuje słowa Nawrockiego",
+      "title": "Wypowiedź Kasparowa na temat Nawrockiego",
       "link": "https://tvn24.pl/polska/garri-kasparow-rosyjski-opozycjonista-komentuje-slowa-prezydenta-karola-nawrockiego-o-ukrainie-st8751166?source=rss",
       "pubDate": "Thu, 13 Nov 2025 22:04:48 GMT",
       "description": "Garri Kasparow, rosyjski były arcymistrz szachowy, a obecnie opozycjonista, skomentował słowa Karola Nawrockiego o relacjach z Ukrainą. Prezydent powiedział, że Polacy \"nie mogą być zakładnikami w żadnej relacji\" z innymi państwami. Kasparow napisał, że rozumie jego tok rozumowania, \"ale ostatecznie to wybór między ukraińskimi ciężarówkami ze zbożem a rosyjskimi czołgami z żołnierzami\".",
@@ -74,14 +82,6 @@
       "description": "Parlament Grenlandii uchwalił w czwartek ustawę, która utrudni cudzoziemcom nabywanie nieruchomości oraz prawa do użytkowania gruntów na wyspie. Przepisy są postrzegane jako próba ograniczenia wpływów USA.",
       "originalTitle": "Surowe przepisy dla cudzoziemców. Przed kim chroni się Grenlandia?",
       "originalDescription": "Parlament Grenlandii uchwalił w czwartek ustawę, która utrudni cudzoziemcom nabywanie nieruchomości oraz prawa do użytkowania gruntów na wyspie. Przepisy są postrzegane jako próba ograniczenia wpływów USA."
-    },
-    {
-      "title": "Oblodzenie i silny wiatr. IMGW wydał prognozę zagrożeń",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-silny-wiatr-alarmy-pierwszego-stopnia-st8748841?source=rss",
-      "pubDate": "Wed, 12 Nov 2025 16:20:27 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń. Wynika z niej, że mocno powieje, poza tym spodziewane są oblodzenia. Sprawdź, gdzie aura będzie groźna.",
-      "originalTitle": "Oblodzenie i silny wiatr. IMGW wydał prognozę zagrożeń",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń. Wynika z niej, że mocno powieje, poza tym spodziewane są oblodzenia. Sprawdź, gdzie aura będzie groźna."
     }
   ]
 }
