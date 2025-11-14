@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-11-14T10:06:19.746Z",
+  "lastUpdate": "2025-11-14T10:38:32.022Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Naukowcy z Politechniki Gdańskiej pracują nad materiałem, który może zrewolucjonizować magazynowanie energii",
+      "link": "https://dzienniknaukowy.pl/naukowcy-z-politechniki-gdanskiej-pracuja-nad-materialem-ktory-moze-zrewolucjonizowac-magazynowanie-energii",
+      "pubDate": "Fri, 14 Nov 2025 10:30:34 +0000",
+      "description": "Naukowcy z Politechniki Gdańskiej pracują nad tym, aby jak najefektywniej magazynować i uwalniać energię elektryczną. Wykorzystają do tego diafit, czyli nowy materiał, który łączy właściwości diamentu i grafenu - podał przedstawiciel uczelni"
+    },
     {
       "title": "Wynalazek badacza z NCBJ pozwala wykrywać raka płuc poprzez oddech",
       "link": "https://dzienniknaukowy.pl/wynalazek-badacza-z-ncbj-pozwala-wykrywac-raka-pluc-poprzez-oddech",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/nowy-impuls-dla-terapii-wzroku-co-dzieje-sie-w-mozgu-gdy-stymulujemy-oko-pradem",
       "pubDate": "Wed, 05 Nov 2025 09:19:23 +0000",
       "description": "Nowe badania przeprowadzone we współpracy naukowców ICTER ujawniają, jak bardzo różnią się odpowiedzi mózgu na bodźce świetlne i elektryczne. Odkrycia te mogą przyczynić się do rozwoju bardziej precyzyjnych terapii przywracających wzrok, w tym terapii z użyciem przezrogówkowej stymulacji elektrycznej (tACS)."
-    },
-    {
-      "title": "Jak magazynowanie energii w akumulatorach zwiększa samowystarczalność i zmniejsza zależność od sieci energetycznej",
-      "link": "https://dzienniknaukowy.pl/jak-magazynowanie-energii-w-akumulatorach-zwieksza-samowystarczalnosc-i-zmniejsza-zaleznosc-od-sieci-energetycznej",
-      "pubDate": "Wed, 05 Nov 2025 08:59:00 +0000",
-      "description": "W dzisiejszym zmieniającym się krajobrazie energetycznym wielu właścicieli domów i firm poszukuje sposobów na zwiększenie niezależności energetycznej i zmniejszenie zależności od niestabilnych systemów sieciowych. Nawet po zainstalowaniu paneli słonecznych pojawia się powszechny problem: znaczna część energii wytwarzanej w ciągu dnia jest eksportowana do sieci lub pozostaje niewykorzystana, podczas gdy w godzinach szczytu wieczornego nadal pobierana jest z niej energia elektryczna."
     }
   ]
 }
