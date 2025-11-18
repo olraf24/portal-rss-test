@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-11-18T12:46:40.912Z",
+  "lastUpdate": "2025-11-18T13:14:15.476Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "&#8222;Święty Graal&#8221; inżynierii tkankowej",
+      "link": "https://dzienniknaukowy.pl/swiety-graal-inzynierii-tkankowej",
+      "pubDate": "Tue, 18 Nov 2025 12:52:43 +0000",
+      "description": "Pępowina zamiast skalpela? Polscy naukowcy pokazują, że komórki macierzyste z galarety Whartona mogą stać się „Świętym Graalem” inżynierii tkankowej — bez etycznych kontrowersji, za to z ogromnym potencjałem regeneracji serca, nerwów czy skóry. Pierwsze badania kliniczne już trwają, a wyniki zapowiadają przełom w leczeniu uszkodzonych tkanek."
+    },
     {
       "title": "Patent na lepsze leczenie zębów u dzieci i dorosłych",
       "link": "https://dzienniknaukowy.pl/patent-na-lepsze-leczenie-zebow-u-dzieci-i-doroslych",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/swiecace-nanoczastki-persl-ulatwia-sledzenie-drogi-lekow-w-organizmie",
       "pubDate": "Fri, 07 Nov 2025 10:06:11 +0000",
       "description": "Zamiast świecić tylko pod lampą, nanocząstki PersL jarzą się długo po jej wyłączeniu - i to w podczerwieni, która lepiej przenika przez tkanki. Badania fizyków z Wrocławia pokazują, że ich sygnał pozostaje czytelny w kontakcie z białkami krwi, a dobrana powłoka powierzchniowa pozwala bezpieczniej śledzić drogę leków."
-    },
-    {
-      "title": "Metale ciężkie i pestycydy w warzywach i owocach z działek miejskich",
-      "link": "https://dzienniknaukowy.pl/metale-ciezkie-i-pestycydy-w-warzywach-i-owocach-z-dzialek-miejskich",
-      "pubDate": "Fri, 07 Nov 2025 09:48:15 +0000",
-      "description": "Marchew z działki, sałata z miejskiego ogródka czy truskawki z własnej uprawy – to symbole zdrowej, lokalnej żywności. Jednak najnowsze badania wskazują, że nawet warzywa i owoce pochodzące z upraw prowadzonych w warunkach amatorskich w miejskich ogrodach działkowych mogą kumulować metale ciężkie, pestycydy, a także pozostałości antybiotyków. Eksperci ostrzegają, że w środowisku miejskim produkcja żywności może być obarczona ryzykiem chemicznego zanieczyszczenia, niewidocznym gołym okiem"
     }
   ]
 }
