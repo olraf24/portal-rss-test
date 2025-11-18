@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-11-18T13:14:15.476Z",
+  "lastUpdate": "2025-11-18T13:41:31.076Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Zielony piksel z probówki",
+      "link": "https://dzienniknaukowy.pl/zielony-piksel-z-probowki",
+      "pubDate": "Tue, 18 Nov 2025 13:19:26 +0000",
+      "description": "Każda technologia rodzi się w laboratorium. Czasem potrzebuje setek prób, czasem odrobiny szczęścia i trafienia na właściwy związek. Tak jest z OLED-ami: by świeciły lepiej i taniej, naukowcy z Torunia, Krakowa i Bydgoszczy szukają nowych substancji. Jedną z nich są benzimidazole – proste do modyfikacji cząsteczki, którymi można nawet… drukować."
+    },
     {
       "title": "&#8222;Święty Graal&#8221; inżynierii tkankowej",
       "link": "https://dzienniknaukowy.pl/swiety-graal-inzynierii-tkankowej",
       "pubDate": "Tue, 18 Nov 2025 12:52:43 +0000",
       "description": "Pępowina zamiast skalpela? Polscy naukowcy pokazują, że komórki macierzyste z galarety Whartona mogą stać się „Świętym Graalem” inżynierii tkankowej — bez etycznych kontrowersji, za to z ogromnym potencjałem regeneracji serca, nerwów czy skóry. Pierwsze badania kliniczne już trwają, a wyniki zapowiadają przełom w leczeniu uszkodzonych tkanek."
+    },
+    {
+      "title": "MXeny i fazy MAX w Europie",
+      "link": "https://dzienniknaukowy.pl/mxeny-i-fazy-max-w-europie",
+      "pubDate": "Tue, 18 Nov 2025 10:29:00 +0000",
+      "description": "Dwuwymiarowe nanomateriały, takie jak MXeny i materiały fazy MAX, to jeden z najbardziej ekscytujących obszarów współczesnej nauki o materiałach"
     },
     {
       "title": "Patent na lepsze leczenie zębów u dzieci i dorosłych",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/innowacyjne-podejscie-do-produkcji-suplementow-diety",
       "pubDate": "Fri, 14 Nov 2025 08:49:00 +0000",
       "description": "Suplementy diety cieszą się rosnącą popularnością wśród osób dbających o zdrowie. Coraz więcej marek zgłasza zapotrzebowanie na produkcję innowacyjnych formuł, które spełnią oczekiwania najbardziej wymagających klientów. Przyjrzymy się, jak produkcja kontraktowa suplementów diety rewolucjonizuje rynek i dlaczego warto skorzystać z usług ekspertów w tej dziedzinie."
-    },
-    {
-      "title": "Blistrowanie &#8211; nowoczesne opakowania suplementów diety",
-      "link": "https://dzienniknaukowy.pl/blistrowanie-nowoczesne-opakowania-suplementow-diety",
-      "pubDate": "Fri, 14 Nov 2025 08:37:00 +0000",
-      "description": "Blistrowanie to obecnie jedno z najpopularniejszych rozwiązań stosowanych przy pakowaniu tabletek i kapsułek. Proces ten nie tylko zapewnia skuteczną ochronę produktów, ale także wpływa na ich wygodę użycia."
-    },
-    {
-      "title": "Świecące nanocząstki PersL ułatwią śledzenie drogi leków w organizmie",
-      "link": "https://dzienniknaukowy.pl/swiecace-nanoczastki-persl-ulatwia-sledzenie-drogi-lekow-w-organizmie",
-      "pubDate": "Fri, 07 Nov 2025 10:06:11 +0000",
-      "description": "Zamiast świecić tylko pod lampą, nanocząstki PersL jarzą się długo po jej wyłączeniu - i to w podczerwieni, która lepiej przenika przez tkanki. Badania fizyków z Wrocławia pokazują, że ich sygnał pozostaje czytelny w kontakcie z białkami krwi, a dobrana powłoka powierzchniowa pozwala bezpieczniej śledzić drogę leków."
     }
   ]
 }
