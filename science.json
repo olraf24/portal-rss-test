@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-11-20T15:05:55.490Z",
+  "lastUpdate": "2025-11-20T15:37:28.420Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Sztuczna inteligencja liczy uszkodzone chromosomy",
+      "link": "https://dzienniknaukowy.pl/sztuczna-inteligencja-liczy-uszkodzone-chromosomy",
+      "pubDate": "Thu, 20 Nov 2025 15:17:52 +0000",
+      "description": "Powstała aplikacja, która pozwoli szybko obliczyć dawkę promieniowania otrzymaną przez pacjenta. Program MaksChroms jest bezpłatny. Opracował go zespół naukowy z Warszawy i Kielc we współpracy m.in. z Federalnym Urzędem Ochrony przed Promieniowaniem (Niemcy) i Uniwersytetem Hirosaki (Japonia)"
+    },
     {
       "title": "Jak zabić zmarłego? Sądy na Śląsku do XVIII wieku karały za magię pośmiertną",
       "link": "https://dzienniknaukowy.pl/jak-zabic-zmarlego-sady-na-slasku-do-xviii-wieku-karaly-za-magie-posmiertna",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/magnetyt-w-kuchni-molekularnej-nauki",
       "pubDate": "Mon, 17 Nov 2025 15:27:30 +0000",
       "description": "Magnetyt to tani i znany tlenek żelaza, który łatwo steruje się magnesem. Zespół z Uniwersytetu w Białymstoku sprawdził, jak \"doprawienie\" go śladowymi ilościami metali może dodać mu nowych funkcji: świecenia i hamowania wzrostu drobnoustrojów. Efekt zależy od \"przyprawy\" — i otwiera różne ścieżki zastosowań."
-    },
-    {
-      "title": "Koniec z nudą w gabinecie! Jak nowoczesna odzież medyczna zmienia oblicze kobiet w świecie medycyny i beauty?",
-      "link": "https://dzienniknaukowy.pl/koniec-z-nuda-w-gabinecie-jak-nowoczesna-odziez-medyczna-zmienia-oblicze-kobiet-w-swiecie-medycyny-i-beauty",
-      "pubDate": "Mon, 17 Nov 2025 12:52:00 +0000",
-      "description": "Przez lata profesjonalny strój w branży medycznej czy beauty kojarzył się z jednym: białym, bezkształtnym fartuchem. Był synonimem sterylności, ale jednocześnie symbolem niewygody i braku indywidualizmu. Na szczęście ta era dobiegła końca"
     }
   ]
 }
