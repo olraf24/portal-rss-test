@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-11-21T08:41:08.506Z",
+  "lastUpdate": "2025-11-21T09:06:29.482Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Wojsko rozpocznie operację „Horyzont”. Zgoda prezydenta",
+      "link": "https://defence24.pl/polityka-obronna/wojsko-rozpocznie-operacje-horyzont-zgoda-prezydenta",
+      "pubDate": "Fri, 21 Nov 2025 09:39:21 +0100",
+      "description": "Operacja „Horyzont” została zapowiedziana przez MON, MSWiA oraz Sztab Generalny Wojska Polskiego w środę, po tym, jak w ub. weekend [doszło do aktów dywersji na kolei, w tym na strategicznej linii łączącej Warszawę z ukraińską granicą w Dorohusku.](https://infosecurity24.pl/bezpieczenstwo-wewnetrzne/akt-dywersji-na-trasie-warszawa-lublin-premier-potwierdza)"
+    },
     {
       "title": "Plan 28-punktowy: rosyjskie ultimatum podane jako „pokój”",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/plan-28-punktowy-rosyjskie-ultimatum-podane-jako-pokoj",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/agencja-rozwoju-przemyslu-wzmacnia-sektor-obronny",
       "pubDate": "Thu, 20 Nov 2025 14:40:00 +0100",
       "description": "Agencja Rozwoju Przemysłu S.A. podpisała trzy listy intencyjne dotyczące rozwoju technologii obronnych i podwójnego zastosowania (dual-use). Inicjatywy te mają na celu wzmocnienie krajowego potencjału przemysłowego, budowę niezależności technologicznej oraz rozwój polskich kompetencji w strategicznych obszarach bezpieczeństwa."
-    },
-    {
-      "title": "Monitory i karty graficzne dla wojska w ofercie Alstor",
-      "link": "https://defence24.pl/wiadomosci/monitory-i-karty-graficzne-dla-wojska-w-ofercie-alstor",
-      "pubDate": "Thu, 20 Nov 2025 14:00:01 +0100",
-      "description": "EIZO od lat dostarcza rozwiązania, które wyznaczają standardy w dziedzinie profesjonalnych monitorów i systemów wyświetlania obrazu, szczególnie w sektorze obronnym. Wśród kluczowych produktów marki znajdują się monitor Talon RGD3202W, seria DuraVision LE z modelem LE3226, a także Raptor SQ2826 oraz karta graficzna Condor™ GR5SL-B5000. Urządzenia te wyróżniają się precyzyjną reprodukcją obrazu, niezawodnością i odpornością na ekstremalne warunki pracy, co czyni je idealnymi do zastosowań w systemach dowodzenia, kontroli lotów czy centrach operacyjnych."
     }
   ]
 }
