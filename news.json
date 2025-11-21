@@ -1,21 +1,69 @@
 {
-  "lastUpdate": "2025-11-21T07:06:44.097Z",
+  "lastUpdate": "2025-11-21T07:36:03.496Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy z udziałem dwóch aut i busa",
+      "title": "Siemoniak skomentował wypowiedź Ziobry",
+      "link": "https://tvn24.pl/polska/tomasz-siemoniak-o-zbigniewie-ziobrze-to-jest-droga-zenady-kompromitacji-st8763146?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 07:33:28 GMT",
+      "description": "• Zbigniew Ziobro powinien stawić się przed polskim wymiarem sprawiedliwości.\n• Tomasz Siemoniak wypowiedział się na temat Zbigniewa Ziobry w programie \"Jeden na jeden\".\n• Tomasz Siemoniak jest ministrem koordynatorem służb specjalnych.\n• Tomasz Siemoniak komentował sprawę zastosowanego przez prokuraturę zabezpieczenia majątkowego wobec Zbigniewa Ziobry.\n• Zbigniew Ziobro jest byłym ministrem sprawiedliwości.\n• Program \"Jeden na jeden\" jest emitowany na TVN24.",
+      "originalTitle": "Siemoniak o Ziobrze: to jest droga żenady, kompromitacji",
+      "originalDescription": "Zamiast popełniać ogniste wpisy w internecie, powinien stawić się przed polskim wymiarem sprawiedliwości - tak o Zbigniewie Ziobrze mówił w programie \"Jeden na jeden\" Tomasz Siemoniak, minister koordynator służb specjalnych. Gość TVN24 komentował też sprawę zastosowanego przez prokuraturę zabezpieczenia majątkowego wobec byłego ministra sprawiedliwości."
+    },
+    {
+      "title": "Kierowca stracił prawo jazdy po kolizji",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-niespodziewany-final-kolizji-poszkodowany-kierowca-stracil-prawo-jazdy-nagranie-st8763113?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 07:30:42 GMT",
+      "description": "• Na jednym z głównych skrzyżowań w Olsztynie doszło do kolizji.\n• Kolizja została spowodowana przez kierującą audi.\n• Kierująca audi zignorowała czerwone światło.\n• Kierująca audi dostała mandat.\n• Kierująca audi dostała punkty karne.\n• Prawo jazdy stracił kierowca, w którego auto uderzyła kierująca audi.\n• Kierowca, którego auto uderzyła kierująca audi, był pijany.",
+      "originalTitle": "Niespodziewany finał kolizji. Poszkodowany kierowca stracił prawo jazdy",
+      "originalDescription": "Na jednym z głównych skrzyżowań w Olsztynie doszło do kolizji spowodowanej przez kierującą audi, która zignorowała czerwone światło. Dostała mandat i punkty karne. Prawo jazdy stracił jednak kierowca, w którego auto uderzyła. Okazało się, że był pijany."
+    },
+    {
+      "title": "Wypadek na obwodnicy",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-s2-pow-kierowca-wjechal-w-bariery-st8763078?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 06:34:19 GMT",
+      "description": "W piątek rano na Południowej Obwodnicy Warszawy kierowca wjechał w bariery energochłonne. Godzinę później na tej samej trasie doszło do kolizji dwóch aut, która wygenerowała duże utrudnienia. - Dziś na drogach może być ślisko - ostrzega reporter tvnwarszawa.pl.",
+      "originalTitle": "Kierowca wjechał w bariery, a potem kolizja. Korek na obwodnicy",
+      "originalDescription": "W piątek rano na Południowej Obwodnicy Warszawy kierowca wjechał w bariery energochłonne. Godzinę później na tej samej trasie doszło do kolizji dwóch aut, która wygenerowała duże utrudnienia. - Dziś na drogach może być ślisko - ostrzega reporter tvnwarszawa.pl."
+    },
+    {
+      "title": "Wyniki sondażu na temat partii w Sejmie",
+      "link": "https://tvn24.pl/polska/nowy-sondaz-ibris-ile-partii-w-sejmie-st8763148?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 07:22:38 GMT",
+      "description": "Gdyby wybory do Sejmu odbyły się w ostatnią niedzielę, wygrałaby je Koalicja Obywatelska, a w izbie niższej parlamentu znalazłoby się łącznie pięć partii - wynika z nowego sondażu IBRiS dla Onetu.",
+      "originalTitle": "Nowy sondaż. Ile partii w Sejmie?",
+      "originalDescription": "Gdyby wybory do Sejmu odbyły się w ostatnią niedzielę, wygrałaby je Koalicja Obywatelska, a w izbie niższej parlamentu znalazłoby się łącznie pięć partii - wynika z nowego sondażu IBRiS dla Onetu."
+    },
+    {
+      "title": "Alert RCB trafił do kolejnych osób. \"Śledź komunikaty pogodowe\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-21-11-snieg-gdzie-spadnie-snieg-zachowaj-ostroznosc-na-drogach-i-chodnikach-st8762963?source=rss",
+      "pubDate": "Thu, 20 Nov 2025 20:40:39 GMT",
+      "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzegło w czwartek południowe regiony kraju przed obfitymi opadami śniegu. W piątek SMS-a otrzymali kolejni odbiorcy. Eksperci apelują o zachowanie ostrożności.",
+      "originalTitle": "Alert RCB trafił do kolejnych osób. \"Śledź komunikaty pogodowe\"",
+      "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzegło w czwartek południowe regiony kraju przed obfitymi opadami śniegu. W piątek SMS-a otrzymali kolejni odbiorcy. Eksperci apelują o zachowanie ostrożności."
+    },
+    {
+      "title": "Bush i Biden na pogrzebie, Trump bez zaproszenia",
+      "link": "https://tvn24.pl/swiat/george-w-bush-i-joe-biden-na-pogrzebie-bylego-wiceprezydenta-trump-bez-zaproszenia-st8763017?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 07:04:09 GMT",
+      "description": "W czwartek w Katedrze Narodowej w Waszyngtonie odbyło się nabożeństwo pogrzebowe byłego wiceprezydenta Dicka Cheneya. W ceremonii wzięli udział byli prezydenci George W. Bush i Joe Biden, a także wiceprezydenci Al Gore, Mike Pence i Kamala Harris. Zaproszeń nie dostali Donald Trump i J.D. Vance.",
+      "originalTitle": "Bush i Biden na pogrzebie, Trump bez zaproszenia",
+      "originalDescription": "W czwartek w Katedrze Narodowej w Waszyngtonie odbyło się nabożeństwo pogrzebowe byłego wiceprezydenta Dicka Cheneya. W ceremonii wzięli udział byli prezydenci George W. Bush i Joe Biden, a także wiceprezydenci Al Gore, Mike Pence i Kamala Harris. Zaproszeń nie dostali Donald Trump i J.D. Vance."
+    },
+    {
+      "title": "Zderzenie dwóch aut i busa. Droga zablokowana",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/wyszkow-s8-wypadek-zderzenie-aut-i-busa-st8763114?source=rss",
       "pubDate": "Fri, 21 Nov 2025 07:00:09 GMT",
-      "description": "• Wypadek miał miejsce na trasie S8.\n• Wypadek nastąpił w Wyszkowie.\n• Wypadek zdarzył się w okolicach mostu nad Bugiem.\n• Jak podała straż pożarna, jedna osoba trafiła do szpitala.",
+      "description": "Wypadek na trasie S8 w Wyszkowie w okolicach mostu nad Bugiem. Jak podała straż pożarna, jedna osoba trafiła do szpitala.",
       "originalTitle": "Zderzenie dwóch aut i busa. Droga zablokowana",
       "originalDescription": "Wypadek na trasie S8 w Wyszkowie w okolicach mostu nad Bugiem. Jak podała straż pożarna, jedna osoba trafiła do szpitala."
     },
     {
-      "title": "Siemoniak komentuje dywersję na kolei",
+      "title": "Siemoniak o dywersji na kolei: to wejście na nowy etap",
       "link": "https://tvn24.pl/polska/tomasz-siemoniak-o-dywersji-na-kolei-to-wejscie-na-nowy-etap-st8763118?source=rss",
       "pubDate": "Fri, 21 Nov 2025 06:55:21 GMT",
-      "description": "• Przekroczono granice zagrożenia dla życia, zdrowia ludzi.\n• Musimy to traktować jako wejście na kompletnie nowy etap.\n• Tomasz Siemoniak jest koordynatorem służb specjalnych.\n• Tomasz Siemoniak wypowiedział się w programie \"Jeden na jeden\".\n• Program \"Jeden na jeden\" jest emitowany w TVN24.\n• Wypowiedź Tomasza Siemoniaka dotyczyła aktów dywersji.\n• Akty dywersji miały miejsce w dniach 15-17 listopada.\n• Akty dywersji miały miejsce na linii kolejowej Warszawa - Dorohusk.",
+      "description": "- Przekroczono granice zagrożenia dla życia, zdrowia ludzi i musimy to traktować jako wejście na kompletnie nowy etap - powiedział w programie \"Jeden na jeden\" w TVN24 koordynator służb specjalnych Tomasz Siemoniak, odnosząc się do aktów dywersji, do których doszło 15-17 listopada na linii kolejowej Warszawa - Dorohusk.",
       "originalTitle": "Siemoniak o dywersji na kolei: to wejście na nowy etap",
       "originalDescription": "- Przekroczono granice zagrożenia dla życia, zdrowia ludzi i musimy to traktować jako wejście na kompletnie nowy etap - powiedział w programie \"Jeden na jeden\" w TVN24 koordynator służb specjalnych Tomasz Siemoniak, odnosząc się do aktów dywersji, do których doszło 15-17 listopada na linii kolejowej Warszawa - Dorohusk."
     },
@@ -34,54 +82,6 @@
       "description": "Rzeczniczka Białego Domu Karoline Leavitt, odpowiadając na pytanie o to, co miał na myśli prezydent USA, nazywając jedną z dziennikarek \"świnką\", stwierdziła, że Donald Trump jest bardzo szczery i otwarty. Oceniła, że ten stan rzeczy jest lepszy niż za prezydentury Joe Bidena.",
       "originalTitle": "Trump do dziennikarki: cicho, świnko. Jego rzeczniczka tłumaczy: dlatego go wybrali",
       "originalDescription": "Rzeczniczka Białego Domu Karoline Leavitt, odpowiadając na pytanie o to, co miał na myśli prezydent USA, nazywając jedną z dziennikarek \"świnką\", stwierdziła, że Donald Trump jest bardzo szczery i otwarty. Oceniła, że ten stan rzeczy jest lepszy niż za prezydentury Joe Bidena."
-    },
-    {
-      "title": "Rosja i Chiny omawiają współpracę w odpowiedzi na plany USA",
-      "link": "https://tvn24.pl/swiat/doglebna-dyskusja-rosji-z-chinami-odpowiedz-na-plan-usa-st8763019?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 06:35:56 GMT",
-      "description": "Rosyjski resort dyplomacji donosi o \"dogłębnych\" rozmowach przedstawicieli Rosji i Chin na temat obrony przeciwrakietowej i stabilności strategicznej. Według agencji Reutera jest to odpowiedź na plany zbrojeniowe USA, w tym tak zwaną Złotą Kopułę.",
-      "originalTitle": "\"Dogłębna dyskusja\" Rosji z Chinami. \"Odpowiedź na plan USA\"",
-      "originalDescription": "Rosyjski resort dyplomacji donosi o \"dogłębnych\" rozmowach przedstawicieli Rosji i Chin na temat obrony przeciwrakietowej i stabilności strategicznej. Według agencji Reutera jest to odpowiedź na plany zbrojeniowe USA, w tym tak zwaną Złotą Kopułę."
-    },
-    {
-      "title": "Wjechał w bariery na obwodnicy. Ślisko na drogach",
-      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-s2-pow-kierowca-wjechal-w-bariery-st8763078?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 06:34:19 GMT",
-      "description": "W piątek rano na Południowej Obwodnicy Warszawy kierowca wjechał w bariery energochłonne. - Dziś na drogach może być ślisko - ostrzega reporter tvnwarszawa.pl.",
-      "originalTitle": "Wjechał w bariery na obwodnicy. Ślisko na drogach",
-      "originalDescription": "W piątek rano na Południowej Obwodnicy Warszawy kierowca wjechał w bariery energochłonne. - Dziś na drogach może być ślisko - ostrzega reporter tvnwarszawa.pl."
-    },
-    {
-      "title": "Naklejkowe szaleństwo. \"Coś, co miało być zabawą, staje się wyścigiem\"",
-      "link": "https://tvn24.pl/biznes/handel/naklejkowe-szalenstwo-cos-co-mialo-byc-zabawa-staje-sie-wyscigiem-st8761740?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 06:30:01 GMT",
-      "description": "Promocyjne maskotki z akcji Gang Biedroniaków skończyły się kilka dni przed finałem. Można je znaleźć na aukcjach internetowych, kosztują nawet 200 złotych. Konsumenckie emocje sięgnęły zenitu, a sieć zalały komentarze klientów wyrażających niezadowolenie. Sytuacja powtarza się co roku. Co tak przyciąga Polaków do masowego zbierania naklejek i przeznaczania około tysiąca złotych na zakupy spożywcze, by otrzymać \"darmową\" zabawkę?",
-      "originalTitle": "Naklejkowe szaleństwo. \"Coś, co miało być zabawą, staje się wyścigiem\"",
-      "originalDescription": "Promocyjne maskotki z akcji Gang Biedroniaków skończyły się kilka dni przed finałem. Można je znaleźć na aukcjach internetowych, kosztują nawet 200 złotych. Konsumenckie emocje sięgnęły zenitu, a sieć zalały komentarze klientów wyrażających niezadowolenie. Sytuacja powtarza się co roku. Co tak przyciąga Polaków do masowego zbierania naklejek i przeznaczania około tysiąca złotych na zakupy spożywcze, by otrzymać \"darmową\" zabawkę?"
-    },
-    {
-      "title": "Śmierć po porodzie i zarzuty dla lekarzy. \"Stwierdzono szereg nieprawidłowości\"",
-      "link": "https://tvn24.pl/katowice/bielsko-biala-kobieta-zmarla-po-porodzie-lekarze-z-zarzutami-st8763012?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 06:27:19 GMT",
-      "description": "To miała być planowa, standardowa cesarka w prywatnym szpitalu w Bielsku Białej. Po porodzie nastąpiły jednak powikłania, a pani Annie nie miał kto pomóc, bo nie było ginekologa, a jedynie właściciel placówki, który jest anestezjologiem. Kobieta zmarła, lekarze mają zarzuty.",
-      "originalTitle": "Śmierć po porodzie i zarzuty dla lekarzy. \"Stwierdzono szereg nieprawidłowości\"",
-      "originalDescription": "To miała być planowa, standardowa cesarka w prywatnym szpitalu w Bielsku Białej. Po porodzie nastąpiły jednak powikłania, a pani Annie nie miał kto pomóc, bo nie było ginekologa, a jedynie właściciel placówki, który jest anestezjologiem. Kobieta zmarła, lekarze mają zarzuty."
-    },
-    {
-      "title": "Pranie pieniędzy i fikcyjne darowizny. Kościół Starokatolicki w opałach",
-      "link": "https://tvn24.pl/polska/prokuratura-sledztwo-w-sprawie-przestepstw-w-kosciele-starokatolickim-st8737603?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 06:25:58 GMT",
-      "description": "Wnioski o dotacje z Krajowego Planu Odbudowy, nadawanie tytułów lekarza medycyny zakonnej, wydawanie legitymacji zakonnika oraz dokumentów dyplomatycznych, pranie pieniędzy i fikcyjne darowizny. Z naszych ustaleń wynika, że tymi wątkami zajmuje się prokuratura w śledztwie dotyczącym Kościoła starokatolickiego.",
-      "originalTitle": "Pranie pieniędzy i fikcyjne darowizny. Kościół Starokatolicki w opałach",
-      "originalDescription": "Wnioski o dotacje z Krajowego Planu Odbudowy, nadawanie tytułów lekarza medycyny zakonnej, wydawanie legitymacji zakonnika oraz dokumentów dyplomatycznych, pranie pieniędzy i fikcyjne darowizny. Z naszych ustaleń wynika, że tymi wątkami zajmuje się prokuratura w śledztwie dotyczącym Kościoła starokatolickiego."
-    },
-    {
-      "title": "Ruch prokuratury w sprawie willi plus",
-      "link": "https://tvn24.pl/polska/ruch-prokuratury-w-sprawie-willi-plus-st8763047?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 06:23:59 GMT",
-      "description": "Prokuratura Okręgowa w Radomiu wydała w czwartek postanowienie o zabezpieczeniu majątkowym na nieruchomości w Jadwisinie, należącej do jednego z beneficjentów tak zwanego programu willa plus. Decyzja ma związek z zarzutami oszustwa, które usłyszeli członkowie zarządu Inte-gry, do której należy obiekt.",
-      "originalTitle": "Ruch prokuratury w sprawie willi plus",
-      "originalDescription": "Prokuratura Okręgowa w Radomiu wydała w czwartek postanowienie o zabezpieczeniu majątkowym na nieruchomości w Jadwisinie, należącej do jednego z beneficjentów tak zwanego programu willa plus. Decyzja ma związek z zarzutami oszustwa, które usłyszeli członkowie zarządu Inte-gry, do której należy obiekt."
     }
   ]
 }
