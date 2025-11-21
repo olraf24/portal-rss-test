@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-11-21T13:39:41.552Z",
+  "lastUpdate": "2025-11-21T14:06:08.583Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Minister otrzymał hełm i list, ambasady wyrażają sprzeciw",
+      "title": "Ruch lotniczy wstrzymany na lotnisku w Norwegii",
+      "link": "https://tvn24.pl/swiat/drony-nad-lotniskiem-w-norwegii-ruch-wstrzymany-st8764345?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 14:02:32 GMT",
+      "description": "• Starty i lądowania na lotnisku w Tromso zostały wstrzymane.\n• Wstrzymanie startów i lądowań nastąpiło w piątek.\n• Przyczyną wstrzymania startów i lądowań były drony.\n• Drony pojawiły się blisko pasa startowego.\n• Lotnisko, na którym doszło do wstrzymania startów i lądowań, znajduje się w Tromso.\n• Tromso jest położone w północnej Norwegii.\n• Wstrzymanie startów i lądowań trwało kilkadziesiąt minut.",
+      "originalTitle": "Drony nad lotniskiem w Norwegii. Ruch wstrzymany",
+      "originalDescription": "Starty i lądowania na lotnisku w Tromso w północnej Norwegii zostały w piątek wstrzymane na kilkadziesiąt minut po tym, jak blisko pasa startowego pojawiły się drony."
+    },
+    {
+      "title": "Osoba uderzyła głową w pień drzewa",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-wypadek-na-hulajnodze-elektrycznej-kobieta-uderzyla-glowa-w-drzewo-trafila-do-szpitala-st8764297?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 13:58:07 GMT",
+      "description": "31-latka miała wypadek na hulajnodze elektrycznej. Z impetem uderzyła głową w drzewo i straciła przytomność. Na pomoc poszkodowanej ruszyli strażnicy miejscy. Kobieta trafiła do szpitala.",
+      "originalTitle": "Z dużą siłą uderzyła głową w pień drzewa",
+      "originalDescription": "31-latka miała wypadek na hulajnodze elektrycznej. Z impetem uderzyła głową w drzewo i straciła przytomność. Na pomoc poszkodowanej ruszyli strażnicy miejscy. Kobieta trafiła do szpitala."
+    },
+    {
+      "title": "Rada polityka na temat poboru do wojska",
+      "link": "https://tvn24.pl/swiat/niemcy-kontrowersyjna-rada-polityka-mowi-jak-uniknac-poboru-do-wojska-st8764002?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 13:52:19 GMT",
+      "description": "Współprzewodniczący niemieckiej lewicowej partii Die Linke Jan van Aken stwierdził, że mężczyźni, którzy chcą uniknąć poboru do służby, powinni \"zapalić jointa\" przed wojskowym badaniem kwalifikacyjnym. Ugrupowanie przygotowuje też poradnik z radami dla tych, którym nie śpieszy się do koszar.",
+      "originalTitle": "Kontrowersyjna rada polityka. Mówi, jak uniknąć poboru do wojska",
+      "originalDescription": "Współprzewodniczący niemieckiej lewicowej partii Die Linke Jan van Aken stwierdził, że mężczyźni, którzy chcą uniknąć poboru do służby, powinni \"zapalić jointa\" przed wojskowym badaniem kwalifikacyjnym. Ugrupowanie przygotowuje też poradnik z radami dla tych, którym nie śpieszy się do koszar."
+    },
+    {
+      "title": "Bruksela krytykuje Polskę",
+      "link": "https://tvn24.pl/biznes/z-kraju/polska-nie-przyspieszyla-procedur-dot-oze-komisja-europejska-ostrzega-st8764013?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 13:44:06 GMT",
+      "description": "Komisja Europejska zarzuciła Polsce w piątek, że w dalszym ciągu nie przyspieszyła procedur dotyczących odnawialnych źródeł energii (OZE). Ostrzegła, że w kolejnym kroku sprawa może zostać skierowana do Trybunału Sprawiedliwości Unii Europejskiej.",
+      "originalTitle": "Brak postępów. Bruksela ostrzega Polskę",
+      "originalDescription": "Komisja Europejska zarzuciła Polsce w piątek, że w dalszym ciągu nie przyspieszyła procedur dotyczących odnawialnych źródeł energii (OZE). Ostrzegła, że w kolejnym kroku sprawa może zostać skierowana do Trybunału Sprawiedliwości Unii Europejskiej."
+    },
+    {
+      "title": "Księgowy z teatru przywłaszczył 268 tysięcy złotych",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-ksiegowy-z-teatru-przywlaszczyl-znaczna-sume-pieniedzy-st8763970?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 13:42:11 GMT",
+      "description": "Policjanci zatrzymali 52-letniego księgowego pracującego w teatrze. Śledczy ustalili, że mężczyzna przywłaszczył znaczną sumę pieniędzy. Straty wyceniono na 268 tysięcy złotych. Jak nieoficjalnie ustaliliśmy, do nieprawidłowości dochodziło w Mazowieckim Teatrze Muzycznym na warszawskiej Pradze Północ.",
+      "originalTitle": "Księgowy z teatru przywłaszczył 268 tysięcy złotych",
+      "originalDescription": "Policjanci zatrzymali 52-letniego księgowego pracującego w teatrze. Śledczy ustalili, że mężczyzna przywłaszczył znaczną sumę pieniędzy. Straty wyceniono na 268 tysięcy złotych. Jak nieoficjalnie ustaliliśmy, do nieprawidłowości dochodziło w Mazowieckim Teatrze Muzycznym na warszawskiej Pradze Północ."
+    },
+    {
+      "title": "Zmiany w wynagrodzeniach nauczycieli. Jest decyzja Sejmu",
+      "link": "https://tvn24.pl/polska/sejm-uchwalil-nowele-ustawy-o-godzinach-ponadwymiarowych-dla-nauczycieli-st8763654?source=rss",
+      "pubDate": "Fri, 21 Nov 2025 13:39:14 GMT",
+      "description": "Sejm uchwalił nowelę Karty nauczyciela, na skutek której nauczyciel otrzyma wynagrodzenie za niezrealizowane godziny ponadwymiarowe, jeśli nastąpiło to z przyczyn niezależnych od niego. O problemie niepłatnych godzin ponadwymiarowych, dotyczącym tysięcy nauczycieli i nauczycielek, informowała wcześniej dziennikarka tvn24.pl Justyna Suchecka.",
+      "originalTitle": "Zmiany w wynagrodzeniach nauczycieli. Jest decyzja Sejmu",
+      "originalDescription": "Sejm uchwalił nowelę Karty nauczyciela, na skutek której nauczyciel otrzyma wynagrodzenie za niezrealizowane godziny ponadwymiarowe, jeśli nastąpiło to z przyczyn niezależnych od niego. O problemie niepłatnych godzin ponadwymiarowych, dotyczącym tysięcy nauczycieli i nauczycielek, informowała wcześniej dziennikarka tvn24.pl Justyna Suchecka."
+    },
+    {
+      "title": "Nazistowski hełm, do tego list. Ambasady potępiają działania ministra",
       "link": "https://tvn24.pl/swiat/bosnia-i-hercegowina-nazistowski-helm-do-tego-list-ambasady-potepiaja-dzialania-ministra-st8764018?source=rss",
       "pubDate": "Fri, 21 Nov 2025 13:33:11 GMT",
-      "description": "• Ambasady kolejnych krajów zabierają głos po pewnym wydarzeniu.\n• Minister handlu Bośni i Hercegowiny to Staša Košarac.\n• Staša Košarac wysłał przesyłkę do Christiana Schmidta.\n• Christian Schmidt pełni funkcję Wysokiego Przedstawiciela ds. Bośni i Hercegowiny.\n• Przesyłka skierowana do Christiana Schmidta zawierała hełm SS.\n• Do hełmu SS dołączony był list.\n• W liście Staša Košarac nazwał Christiana Schmidta \"uosobieniem zła\".",
+      "description": "Ambasady kolejnych krajów zabierają głos po tym, jak minister handlu Bośni i Hercegowiny Staša Košarac wysłał niemieckiemu politykowi Christianowi Schmidtowi, pełniącemu funkcję Wysokiego Przedstawiciela ds. Bośni i Hercegowiny, hełm SS z listem, w którym nazwał go \"uosobieniem zła\".",
       "originalTitle": "Nazistowski hełm, do tego list. Ambasady potępiają działania ministra",
       "originalDescription": "Ambasady kolejnych krajów zabierają głos po tym, jak minister handlu Bośni i Hercegowiny Staša Košarac wysłał niemieckiemu politykowi Christianowi Schmidtowi, pełniącemu funkcję Wysokiego Przedstawiciela ds. Bośni i Hercegowiny, hełm SS z listem, w którym nazwał go \"uosobieniem zła\"."
     },
     {
-      "title": "Pożar w hali",
+      "title": "Płomienie pojawiły się nad ranem, spłonęła część hali",
       "link": "https://tvn24.pl/wroclaw/dzialosza-pozar-hali-magazynowej-duza-akcja-strazakow-st8763951?source=rss",
       "pubDate": "Fri, 21 Nov 2025 13:28:54 GMT",
-      "description": "• Rano spłonęła część hali produkcyjnej.\n• Spłonęła również kotłownia.\n• W pobliżu spłonęły składowane trociny.\n• Na miejscu działało kilkanaście zastępów straży pożarnej.\n• Na miejscu działała również policja.\n• Nikt nie ucierpiał w wyniku pożaru.",
+      "description": "Rano spłonęła część hali produkcyjnej, kotłownia oraz składowane w pobliżu trociny. Na miejscu działało kilkanaście zastępów straży pożarnej i policja. Nikt nie ucierpiał.",
       "originalTitle": "Płomienie pojawiły się nad ranem, spłonęła część hali",
       "originalDescription": "Rano spłonęła część hali produkcyjnej, kotłownia oraz składowane w pobliżu trociny. Na miejscu działało kilkanaście zastępów straży pożarnej i policja. Nikt nie ucierpiał."
     },
     {
-      "title": "Zełenski po konsultacjach ws dokumentu USA",
+      "title": "\"Pracujemy nad dokumentem przygotowanym przez USA\". Zełenski po konsultacjach",
       "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-poinformowal-o-konsultacjach-w-sprawie-amerykanskiego-planu-pokojowego-st8764043?source=rss",
       "pubDate": "Fri, 21 Nov 2025 13:13:03 GMT",
       "description": "Omówiliśmy plan pokojowy dla Ukrainy i całej Europy - przekazał prezydent Ukrainy Wołodymyr Zełenski, informując o rozmowie telefonicznej z innymi europejskimi przywódcami. \"Musi to być plan, który zapewni prawdziwy i godny pokój\" - wskazał Zełenski. Zza Atlantyku dochodzą słuchy o amerykańskich naciskach w tej sprawie.",
@@ -28,60 +76,12 @@
       "originalDescription": "Omówiliśmy plan pokojowy dla Ukrainy i całej Europy - przekazał prezydent Ukrainy Wołodymyr Zełenski, informując o rozmowie telefonicznej z innymi europejskimi przywódcami. \"Musi to być plan, który zapewni prawdziwy i godny pokój\" - wskazał Zełenski. Zza Atlantyku dochodzą słuchy o amerykańskich naciskach w tej sprawie."
     },
     {
-      "title": "Ministerstwo Kultury planuje Instytut Pileckiego w USA",
+      "title": "Ministerstwo Kultury chce uruchomić Instytut Pileckiego w Nowym Jorku. Filia już płaci kary",
       "link": "https://tvn24.pl/polska/instytut-pileckiego-zostanie-w-nowym-jorku-filia-juz-placi-kary-st8741522?source=rss",
       "pubDate": "Fri, 21 Nov 2025 13:02:53 GMT",
       "description": "Ministra kultury Marta Cienkowska przekaże 25,8 mln zł z budżetu państwa na kontrowersyjną placówkę Instytutu Pileckiego w Nowym Jorku. Oddział musi ruszyć, bo za opóźnienia płaci kary w tysiącach dolarów. Umowę najmu biura na 15 lat podpisano za rządów PiS.",
       "originalTitle": "Ministerstwo Kultury chce uruchomić Instytut Pileckiego w Nowym Jorku. Filia już płaci kary",
       "originalDescription": "Ministra kultury Marta Cienkowska przekaże 25,8 mln zł z budżetu państwa na kontrowersyjną placówkę Instytutu Pileckiego w Nowym Jorku. Oddział musi ruszyć, bo za opóźnienia płaci kary w tysiącach dolarów. Umowę najmu biura na 15 lat podpisano za rządów PiS."
-    },
-    {
-      "title": "Dziś orędzie marszałka Sejmu Włodzimierza Czarzastego",
-      "link": "https://tvn24.pl/polska/sejm-oredzie-marszalka-wlodzimierza-czarzastego-st8763925?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 12:57:16 GMT",
-      "description": "W piątek o godz. 20 marszałek Sejmu Włodzimierz Czarzasty wygłosi orędzie. Będzie je można obejrzeć na antenie TVN24 oraz w internecie w TVN24+.",
-      "originalTitle": "Dziś orędzie marszałka Sejmu Włodzimierza Czarzastego",
-      "originalDescription": "W piątek o godz. 20 marszałek Sejmu Włodzimierz Czarzasty wygłosi orędzie. Będzie je można obejrzeć na antenie TVN24 oraz w internecie w TVN24+."
-    },
-    {
-      "title": "Znalazł je wieczorem na ulicy, szczeniaki czekają na nowy dom",
-      "link": "https://tvn24.pl/lodz/lodz-znalazl-je-wieczorem-na-ulicy-szczeniaki-czekaja-na-nowy-dom-st8764038?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 12:54:19 GMT",
-      "description": "Jechał wieczorem do pracy, gdy zauważył kilka szczeniaków biegających po ulicy. Złapał wszystkie i przekazał strażnikom miejskim. Trafiły do schroniska dla zwierząt, gdzie będą czekać na nowych właścicieli.",
-      "originalTitle": "Znalazł je wieczorem na ulicy, szczeniaki czekają na nowy dom",
-      "originalDescription": "Jechał wieczorem do pracy, gdy zauważył kilka szczeniaków biegających po ulicy. Złapał wszystkie i przekazał strażnikom miejskim. Trafiły do schroniska dla zwierząt, gdzie będą czekać na nowych właścicieli."
-    },
-    {
-      "title": "Podatek w dół. Posłowie zdecydowali",
-      "link": "https://tvn24.pl/biznes/z-kraju/obnizenie-podatku-od-miedzi-i-srebra-sejm-jest-za-st8763650?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 12:52:09 GMT",
-      "description": "Sejm uchwalił w piątek nowelizację ustawy, która obniża podatek od wydobycia miedzi i srebra. Nowe rozwiązania, które w praktyce dotyczą tylko KGHM, mają wejść w życie z początkiem 2026 roku.",
-      "originalTitle": "Podatek w dół. Posłowie zdecydowali",
-      "originalDescription": "Sejm uchwalił w piątek nowelizację ustawy, która obniża podatek od wydobycia miedzi i srebra. Nowe rozwiązania, które w praktyce dotyczą tylko KGHM, mają wejść w życie z początkiem 2026 roku."
-    },
-    {
-      "title": "Wypadki i kolizje. Trudny dzień dla kierowców",
-      "link": "https://tvn24.pl/tvnmeteo/polska/snieg-w-polsce-wypadki-i-kolizje-trudny-dzien-dla-kierowcow-st8763657?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 12:46:20 GMT",
-      "description": "Na południu Polski pada śnieg i nie zanosi się na to, by miał przestać w najbliższym czasie. Ze względu na iście zimową aurę na Podkarpaciu i w Małopolsce panują trudne warunki na drogach. Pogoda nie sprzyja też wyprawom w Tatry.",
-      "originalTitle": "Wypadki i kolizje. Trudny dzień dla kierowców",
-      "originalDescription": "Na południu Polski pada śnieg i nie zanosi się na to, by miał przestać w najbliższym czasie. Ze względu na iście zimową aurę na Podkarpaciu i w Małopolsce panują trudne warunki na drogach. Pogoda nie sprzyja też wyprawom w Tatry."
-    },
-    {
-      "title": "Pieniądze dla NFZ z Funduszu Medycznego. Jest zielone światło z Sejmu",
-      "link": "https://tvn24.pl/zdrowie/pieniadze-dla-nfz-z-funduszu-medycznego-sejm-przyjal-rzadowy-projekt-st8763926?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 12:44:56 GMT",
-      "description": "Sejm przyjął nowelizację ustawy o Funduszu Medycznym. Dzięki niej do kasy NFZ ma popłynąć z niego dodatkowo 3,6 miliarda złotych na świadczenia dla dzieci, a minister zdrowia nie przekaże do niego 4 miliardów złotych składki. Zmiany mają wejść w życie 15 grudnia tego roku.",
-      "originalTitle": "Pieniądze dla NFZ z Funduszu Medycznego. Jest zielone światło z Sejmu",
-      "originalDescription": "Sejm przyjął nowelizację ustawy o Funduszu Medycznym. Dzięki niej do kasy NFZ ma popłynąć z niego dodatkowo 3,6 miliarda złotych na świadczenia dla dzieci, a minister zdrowia nie przekaże do niego 4 miliardów złotych składki. Zmiany mają wejść w życie 15 grudnia tego roku."
-    },
-    {
-      "title": "Co Ziobro może zrobić z zabezpieczoną nieruchomością? \"Może ją nawet sprzedać\"",
-      "link": "https://tvn24.pl/polska/zabezpieczenie-majatkowe-wobec-zbigniewa-ziobry-co-ziobro-moze-zrobic-z-nieruchomoscia-st8763834?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 12:41:35 GMT",
-      "description": "Nieruchomość Zbigniewa Ziobry nie została zabezpieczona fizycznie, Ziobro może z niej dowolnie korzystać - przekazał rzecznik Prokuratury Krajowej Przemysław Nowak. - My ją obciążyliśmy poprzez wykonanie wpisu o hipotece przymusowej - wyjaśnił.",
-      "originalTitle": "Co Ziobro może zrobić z zabezpieczoną nieruchomością? \"Może ją nawet sprzedać\"",
-      "originalDescription": "Nieruchomość Zbigniewa Ziobry nie została zabezpieczona fizycznie, Ziobro może z niej dowolnie korzystać - przekazał rzecznik Prokuratury Krajowej Przemysław Nowak. - My ją obciążyliśmy poprzez wykonanie wpisu o hipotece przymusowej - wyjaśnił."
     }
   ]
 }
