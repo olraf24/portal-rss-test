@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2025-11-22T21:34:32.631Z",
+  "lastUpdate": "2025-11-22T22:05:35.659Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Sytuacja antysemityzmu w Polsce",
+      "link": "https://tvn24.pl/polska/grzegorz-braun-w-auschwitz-waldemar-zurek-w-polsce-nie-ma-miejsca-na-antysemityzm-st8766446?source=rss",
+      "pubDate": "Sat, 22 Nov 2025 21:48:26 GMT",
+      "description": "• Prokuratura pokaże, że działa i że jest skuteczna, bo w Polsce nie ma miejsca na antysemityzm.\n• Minister sprawiedliwości Waldemar Żurek komentował konferencję europosła Grzegorza Brauna w Oświęcimiu.\n• Waldemar Żurek powiedział, że nie pozwolą, aby ktokolwiek głosił bezkarnie takie poglądy.",
+      "originalTitle": "Żurek: w Polsce nie ma miejsca na antysemityzm",
+      "originalDescription": "Prokuratura pokaże, że działa i że jest skuteczna, bo w Polsce nie ma miejsca na antysemityzm - zapowiedział minister sprawiedliwości Waldemar Żurek, komentując konferencję europosła Grzegorza Brauna w Oświęcimiu. - Nie pozwolimy, żeby ktokolwiek głosił bezkarnie takie poglądy - dodał Żurek."
+    },
     {
       "title": "Awaria elektrowni, 10 ofiar śmiertelnych",
       "link": "https://tvn24.pl/tvnmeteo/swiat/bangladesz-uszkodzona-elektrownia-budynki-do-rozbiorki-dziesiec-osob-nie-zyje-st8765648?source=rss",
@@ -12,7 +20,7 @@
       "originalDescription": "Do co najmniej 10 wzrosła liczba ofiar piątkowego trzęsienia ziemi w Bangladeszu. Na skutek wstrząsów rannych zostało ponad 300 osób. Wstrząsy uszkodziły wiele budynków, w tym elektrownię, w której wybuchł pożar."
     },
     {
-      "title": "Drony nad lotniskiem i bazą wojskową",
+      "title": "Obserwacja dronów w okolicy lotniska i bazy wojskowej",
       "link": "https://tvn24.pl/swiat/holandia-drony-nad-lotniskiem-w-eindhoven-ruch-wstrzymany-st8766415?source=rss",
       "pubDate": "Sat, 22 Nov 2025 20:39:07 GMT",
       "description": "• Ruch lotniczy na lotnisku w Eindhoven został zawieszony.\n• Przyczyną zawieszenia ruchu lotniczego były zaobserwowane w pobliżu drony.\n• O zawieszeniu ruchu lotniczego poinformował minister obrony Holandii Ruben Brekelmans.\n• W piątek drony zostały zauważone w pobliżu bazy wojskowej.",
@@ -20,10 +28,10 @@
       "originalDescription": "Ruch lotniczy na lotnisku w Eindhoven został zawieszony z powodu zaobserwowanych w pobliżu dronów - przekazał minister obrony Holandii Ruben Brekelmans. W piątek natomiast drony zauważono w pobliżu bazy wojskowej."
     },
     {
-      "title": "Spotkanie Trumpa z Orbanem",
+      "title": "Ukłon w stronę Orbana. Trump dotrzymuje słowa",
       "link": "https://tvn24.pl/biznes/ze-swiata/uklon-w-strone-viktora-orbana-donald-trump-dotrzymuje-slowa-st8766364?source=rss",
       "pubDate": "Sat, 22 Nov 2025 20:00:00 GMT",
-      "description": "• Amerykańska administracja przyznała licencję, która wyłącza z rosyjskich sankcji transakcje związane z budową węgierskiej elektrowni jądrowej.\n• Licencja umożliwia Węgrom robienie transakcji z różnymi podmiotami.\n• Jednym z podmiotów, z którym Węgry będą mogły robić transakcje, jest Gazprombank.\n• Elektrownia jądrowa, której budowa jest związana z licencją, to Paks II.\n• Paks II jest położona na Węgrzech.",
+      "description": "Amerykańska administracja przyznała licencję, która wyłącza z rosyjskich sankcji transakcje związane z budową węgierskiej elektrowni jądrowej Paks II. Dzięki temu Węgry będą mogły robić transakcje między innymi z Gazprombankiem.",
       "originalTitle": "Ukłon w stronę Orbana. Trump dotrzymuje słowa",
       "originalDescription": "Amerykańska administracja przyznała licencję, która wyłącza z rosyjskich sankcji transakcje związane z budową węgierskiej elektrowni jądrowej Paks II. Dzięki temu Węgry będą mogły robić transakcje między innymi z Gazprombankiem."
     },
@@ -74,14 +82,6 @@
       "description": "To jest człowiek bardzo śliski, sprytny, który potrafi zadbać o swoje interesy - tak o Włodzimierzu Czarzastym wypowiedziała się Joanna Senyszyn w programie \"Dwie strony\" w TVN24. Stanowisko marszałka Sejmu dla Czarzastego oceniła jako \"prywatny sukces\" lidera Lewicy.",
       "originalTitle": "Senyszyn mocno o Czarzastym. \"Bardzo śliski\"",
       "originalDescription": "To jest człowiek bardzo śliski, sprytny, który potrafi zadbać o swoje interesy - tak o Włodzimierzu Czarzastym wypowiedziała się Joanna Senyszyn w programie \"Dwie strony\" w TVN24. Stanowisko marszałka Sejmu dla Czarzastego oceniła jako \"prywatny sukces\" lidera Lewicy."
-    },
-    {
-      "title": "Marta Gordziewicz nagrodzona \"Złotą Wagą\"",
-      "link": "https://tvn24.pl/polska/marta-gordziewicz-z-czarno-na-bialym-nagrodzona-zlota-waga-st8766332?source=rss",
-      "pubDate": "Sat, 22 Nov 2025 18:13:36 GMT",
-      "description": "Reporterka \"Czarno na białym\" Marta Gordziewicz została wyróżniona \"Złotą Wagą\" przyznawaną przez Naczelną Radę Adwokacką. Podkreśliła, że docenia tę nagrodę i nie otrzymałaby jej, gdyby nie praca całego zespołu.",
-      "originalTitle": "Marta Gordziewicz nagrodzona \"Złotą Wagą\"",
-      "originalDescription": "Reporterka \"Czarno na białym\" Marta Gordziewicz została wyróżniona \"Złotą Wagą\" przyznawaną przez Naczelną Radę Adwokacką. Podkreśliła, że docenia tę nagrodę i nie otrzymałaby jej, gdyby nie praca całego zespołu."
     }
   ]
 }
