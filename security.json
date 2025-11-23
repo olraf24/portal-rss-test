@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-11-23T10:36:37.187Z",
+  "lastUpdate": "2025-11-23T11:04:43.561Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Ukraińcy uderzyli w elektrociepłownię pod Moskwą",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ukraincy-uderzyli-w-elektrocieplownie-pod-moskwa",
+      "pubDate": "Sun, 23 Nov 2025 11:36:42 +0100",
+      "description": "Według rosyjskiego ministerstwa obrony, w nocy z soboty na niedzielę siły obrony przeciwlotniczej zestrzeliły nad różnymi częściami Rosji łącznie 75 dronów, w tym dwa w obwodzie moskiewskim. Naloty skutkowały m.in. pożarem w elektrociepłowni w Szaturze. Ogień pojawił się prawdopodobnie w jednostce dystrybucji energii elektrycznej, za pośrednictwem której wytworzona energia przesyłana jest do sieci energetycznej."
+    },
     {
       "title": "Drony nad bazą F-35",
       "link": "https://defence24.pl/sily-zbrojne/drony-nad-baza-f-35",
@@ -73,7 +79,7 @@
       "title": "Homary strzelają na Północy",
       "link": "https://defence24.pl/sily-zbrojne/homary-strzelaja-na-polnocy",
       "pubDate": "Sat, 22 Nov 2025 10:06:01 +0100",
-      "description": "Na ćwiczenia do Finlandii pojechało około 40 artylerzystów z baterii rakiet 4. dywizjonu, a wraz z nimi dwie wyrzutnie rakiet Homar-K, które po raz pierwszy w historii Sił Zbrojnych RP zostały przetransportowane na miejsce docelowe drogą lotniczą. Ćwiczenia odbywają się w wymagających warunkach, a temperatury na miejscu sięgają -20°C."
+      "description": "Na ćwiczenia do Finlandii pojechało około 40 artylerzystów z baterii rakiet 4. dywizjonu, a wraz z nimi dwie wyrzutnie rakiet Homar-K, które po raz pierwszy w historii Sił Zbrojnych RP zostały przetransportowane na miejsce docelowe drogą lotnicz��. Ćwiczenia odbywają się w wymagających warunkach, a temperatury na miejscu sięgają -20°C."
     },
     {
       "title": "Pancerna Wenezuela. Co przeciwstawi USA?",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/dania-wzmacnia-wojska-zmechanizowane-jest-kontrakt",
       "pubDate": "Sat, 22 Nov 2025 09:08:40 +0100",
       "description": "Zawarta umowa dotyczy zakupu dodatkowych [44 bojowych wozów piechoty CV9035](https://defence24.pl/sily-zbrojne/dania-kupi-nowe-bwp-zamiast-modernizacji-starych-pojada-na-ukraine), za kwotę 450 mln dolarów, [umowa ta uzupełnia wcześniejszą umowę z roku 2024 na zakup 115 wozów](https://defence24.pl/sily-zbrojne/dania-zamowi-setke-bwp-kolejny-sukces-cv90), co oznacza, że duńska flota bojowych wozów piechoty urośnie do 159 egzemplarzy."
-    },
-    {
-      "title": "Izrael: czołgi otrzymają sztuczną inteligencję",
-      "link": "https://defence24.pl/przemysl/izrael-czolgi-otrzymaja-sztuczna-inteligencje",
-      "pubDate": "Sat, 22 Nov 2025 09:07:09 +0100",
-      "description": "Umowa zawarta 18 listopada pomiędzy Ministerstwem Obrony Izraela a Elbit Systems ma wartość 210 milionów dolarów i dotyczy modernizacji czołgów podstawowych Merkawa (najprawdopodobniej chodzi o różne warianty czołgu Merkawa Mk4) w przeciągu kolejnych sześciu lat."
     }
   ]
 }
