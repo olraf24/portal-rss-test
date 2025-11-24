@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-11-24T18:08:37.281Z",
+  "lastUpdate": "2025-11-24T18:44:06.449Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Ewakuacja 1400 osób z autobusów",
+      "title": "Mężczyzna oskarżony o nakłonienie 12-latki do wysłania zdjęć",
+      "link": "https://tvn24.pl/bialystok/bielsk-podlaski-mial-podstepem-naklonic-12-latke-do-wyslaniu-mu-nagich-zdjec-st8769507?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 18:37:45 GMT",
+      "description": "• Policja zatrzymała 27-latka.\n• 27-latek jest podejrzany o nakłonienie podstępem 12-latki do wysłania mu nagich zdjęć.\n• 27-latek usłyszał zarzuty zmuszania 12-latki do innych czynności seksualnych.",
+      "originalTitle": "Podstępem nakłonił 12-latkę do wysłania nagich zdjęć",
+      "originalDescription": "Policja zatrzymała 27-latka, który jest podejrzany o nakłonienie podstępem 12-latki do wysłania mu nagich zdjęć. Usłyszał też zarzuty zmuszania jej do innych czynności seksualnych."
+    },
+    {
+      "title": "Rozszerzenie strefy płatnej",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-strefa-platnego-parkowania-niestrzezonego-na-mokotowie-i-we-wlochach-konsultacje-spoleczne-st8769400?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 18:34:33 GMT",
+      "description": "• Rozpoczęły się konsultacje społeczne w sprawie powiększenia strefy płatnego parkowania niestrzeżonego (SPPN).\n• Strefa płatnego parkowania niestrzeżonego miałaby się rozszerzyć na kolejną część Mokotowa.\n• Rozszerzenie strefy obejmie rejon tak zwanego Mordoru.\n• Strefa płatnego parkowania niestrzeżonego po raz pierwszy objąłby także fragment dzielnicy Włochy.",
+      "originalTitle": "Płatna strefa ma dotrzeć do \"Mordoru\" i objąć kolejną dzielnicę",
+      "originalDescription": "Rozpoczęły się konsultacje społeczne w sprawie powiększenia strefy płatnego parkowania niestrzeżonego (SPPN). Miałaby ona rozszerzyć się na kolejną część Mokotowa - w rejonie tak zwanego Mordoru oraz - po raz pierwszy - objąć także fragment dzielnicy Włochy."
+    },
+    {
+      "title": "Dane o stanie Polski",
+      "link": "https://tvn24.pl/biznes/z-kraju/kryzys-demograficzny-wspolczynnik-dzietnosci-w-polsce-nadal-spada-st8769327?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 18:34:04 GMT",
+      "description": "• W 2024 roku współczynnik dzietności w Polsce spadł do 1,099.\n• Współczynnik dzietności w Polsce w roku poprzednim wynosił 1,158.\n• Dane o współczynniku dzietności pochodzą z Głównego Urzędu Statystycznego.\n• Zastępowalność pokoleń występuje, gdy współczynnik dzietności wynosi 2,1 dziecka na kobietę.",
+      "originalTitle": "Polska ma poważny problem. Alarmujące dane",
+      "originalDescription": "W 2024 roku współczynnik dzietności w Polsce spadł do 1,099 z poziomu 1,158 odnotowanego rok wcześniej – wynika z danych Głównego Urzędu Statystycznego. Tymczasem zastępowalność pokoleń występuje, gdy współczynnik wynosi 2,1 dziecka na kobietę."
+    },
+    {
+      "title": "Nawrocki proponuje likwidację stanowiska",
+      "link": "https://tvn24.pl/swiat/karol-nawrocki-chce-zniesienia-waznego-stanowiska-kiedys-piastowal-je-tusk-st8769436?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 18:24:27 GMT",
+      "description": "Wbrew powszechnemu przekonaniu Polska nie jest wrogiem Unii Europejskiej - zapewniał podczas wykładu w Pradze prezydent Karol Nawrocki. Nie zabrakło w nim jednak krytyki. - Nie jest to Unia naszych marzeń - wskazywał i opisał \"polski program dla Unii Europejskiej\".",
+      "originalTitle": "Nawrocki chce zniesienia ważnego stanowiska. Kiedyś piastował je Tusk",
+      "originalDescription": "Wbrew powszechnemu przekonaniu Polska nie jest wrogiem Unii Europejskiej - zapewniał podczas wykładu w Pradze prezydent Karol Nawrocki. Nie zabrakło w nim jednak krytyki. - Nie jest to Unia naszych marzeń - wskazywał i opisał \"polski program dla Unii Europejskiej\"."
+    },
+    {
+      "title": "Palił \"skręta\", przed zatrzymaniem go połknął",
+      "link": "https://tvn24.pl/bialystok/bialystok-palil-za-kierownica-skreta-polknal-go-gdy-zatrzymal-go-policjant-st8769430?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 18:11:56 GMT",
+      "description": "Policjant w czasie wolnym od służby jechał jedną z ulic w Białymstoku, gdy zwrócił uwagę na kierowcę, który dziwnie się zachowywał. Wymachiwał rękoma, podskakiwał i palił \"skręta\". Gdy go zatrzymał, 27-latek przyznał, że palił marihuanę. \"Skręta\" połknął.",
+      "originalTitle": "Palił \"skręta\", przed zatrzymaniem go połknął",
+      "originalDescription": "Policjant w czasie wolnym od służby jechał jedną z ulic w Białymstoku, gdy zwrócił uwagę na kierowcę, który dziwnie się zachowywał. Wymachiwał rękoma, podskakiwał i palił \"skręta\". Gdy go zatrzymał, 27-latek przyznał, że palił marihuanę. \"Skręta\" połknął."
+    },
+    {
+      "title": "Kolizje z udziałem radiowozów na słynnej górce \"ale urwał\"",
+      "link": "https://tvn24.pl/szczecin/szczecin-kolizje-z-udzialem-dwoch-radiowozow-na-slynnej-gorce-ale-urwal-st8769478?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 18:07:02 GMT",
+      "description": "Na ulicy Kusocińskiego w Szczecinie, czyli słynnej górce \"ale urwał\" w poniedziałek radiowóz zderzył się z dwoma autami osobowymi. Gdy nasza ekipa przyjechała na miejsce, pojazd służby drogowej wjechał w inny radiowóz.",
+      "originalTitle": "Kolizje z udziałem radiowozów na słynnej górce \"ale urwał\"",
+      "originalDescription": "Na ulicy Kusocińskiego w Szczecinie, czyli słynnej górce \"ale urwał\" w poniedziałek radiowóz zderzył się z dwoma autami osobowymi. Gdy nasza ekipa przyjechała na miejsce, pojazd służby drogowej wjechał w inny radiowóz."
+    },
+    {
+      "title": "Wojna o autobusy. Trzeba było ewakuować 1400 osób",
       "link": "https://tvn24.pl/biznes/turystyka/peru-machu-picchu-wojna-o-autobusy-trzeba-bylo-ewakuowac-1400-osob-st8769188?source=rss",
       "pubDate": "Mon, 24 Nov 2025 18:03:14 GMT",
-      "description": "• Machu Picchu to miasto Inków z XV wieku.\n• Machu Picchu jest najpopularniejszą atrakcją Peru.\n• W Machu Picchu trwa narastający konflikt od miesięcy.\n• Konflikt dotyczy autobusów wożących turystów na szczyt.\n• Ostatnio doszło do ewakuacji około 1400 osób.\n• Informacje o konflikcie i ewakuacji podaje BBC.",
+      "description": "Machu Picchu, miasto Inków z XV wieku i najpopularniejsza atrakcja Peru, od miesięcy jest areną narastającego konfliktu. Spór o autobusy wożące turystów na szczyt doprowadził ostatnio do ewakuacji około 1400 osób - informuje BBC.",
       "originalTitle": "Wojna o autobusy. Trzeba było ewakuować 1400 osób",
       "originalDescription": "Machu Picchu, miasto Inków z XV wieku i najpopularniejsza atrakcja Peru, od miesięcy jest areną narastającego konfliktu. Spór o autobusy wożące turystów na szczyt doprowadził ostatnio do ewakuacji około 1400 osób - informuje BBC."
     },
     {
-      "title": "Ambasador Izraela na MSZ",
+      "title": "Ambasador Izraela wezwany do MSZ",
       "link": "https://tvn24.pl/polska/jad-waszem-ambasador-izraela-wezwany-do-msz-st8769202?source=rss",
       "pubDate": "Mon, 24 Nov 2025 14:53:41 GMT",
-      "description": "• Minister spraw zagranicznych to Radosław Sikorski.\n• Radosław Sikorski wezwał izraelskiego ambasadora do MSZ.\n• Powodem wezwania był niedzielny wpis Instytutu Jad Waszem w mediach społecznościowych.\n• Wpis dotyczył antyżydowskiego prawa.\n• Prawo to obowiązywało w okupowanej przez Niemców Polsce.",
+      "description": "Minister spraw zagranicznych Radosław Sikorski wezwał izraelskiego ambasadora do MSZ w związku z niedzielnym wpisem Instytutu Jad Waszem w mediach społecznościowych. Dotyczył on antyżydowskiego prawa w okupowanej przez Niemców Polsce.",
       "originalTitle": "Ambasador Izraela wezwany do MSZ",
       "originalDescription": "Minister spraw zagranicznych Radosław Sikorski wezwał izraelskiego ambasadora do MSZ w związku z niedzielnym wpisem Instytutu Jad Waszem w mediach społecznościowych. Dotyczył on antyżydowskiego prawa w okupowanej przez Niemców Polsce."
     },
     {
-      "title": "Zatopione tereny",
+      "title": "Rajskie tereny pod wodą. \"Modlę się za was\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/tajlandia-malezja-wietnam-rajskie-tereny-pod-woda-modle-sie-za-was-st8769084?source=rss",
       "pubDate": "Mon, 24 Nov 2025 17:34:02 GMT",
       "description": "Rośnie bilans ofiar śmiertelnych powodzi i osuwisk, które nawiedziły w ostatnich dniach Azję Południowo-Wschodnią. Żywioł zmusił do ewakuacji tysiące osób.",
@@ -28,60 +76,12 @@
       "originalDescription": "Rośnie bilans ofiar śmiertelnych powodzi i osuwisk, które nawiedziły w ostatnich dniach Azję Południowo-Wschodnią. Żywioł zmusił do ewakuacji tysiące osób."
     },
     {
-      "title": "Kopalnie działają mimo zakazu",
+      "title": "Boom mimo oficjalnego zakazu. \"Ludzie kopią tam, gdzie prąd jest tani\"",
       "link": "https://tvn24.pl/biznes/ze-swiata/chiny-boom-mimo-oficjalnego-zakazu-ludzie-kopia-tam-gdzie-prad-jest-tani-st8769269?source=rss",
       "pubDate": "Mon, 24 Nov 2025 17:26:20 GMT",
       "description": "Wydobycie bitcoina, oficjalnie zakazane w Chinach od 2021 roku, mocno zyskuje na popularności. Najnowsze dane pokazują, że Państwo Środka ponownie stało się jednym z globalnych liderów pod tym względem - informuje Reuters.",
       "originalTitle": "Boom mimo oficjalnego zakazu. \"Ludzie kopią tam, gdzie prąd jest tani\"",
       "originalDescription": "Wydobycie bitcoina, oficjalnie zakazane w Chinach od 2021 roku, mocno zyskuje na popularności. Najnowsze dane pokazują, że Państwo Środka ponownie stało się jednym z globalnych liderów pod tym względem - informuje Reuters."
-    },
-    {
-      "title": "Widmo nowej wojny. Afrykańskie państwo chce zdobyć dostęp do morza",
-      "link": "https://tvn24.pl/swiat/afryka-etiopia-chce-odzyskac-dostep-do-morza-od-erytrei-obawy-o-wybuch-nowej-wojny-st8769249?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 17:12:42 GMT",
-      "description": "Rosną obawy dotyczące możliwego konfliktu zbrojnego między sąsiadującymi państwami Rogu Afryki - Etiopii i Erytrei. W ostatnich tygodniach nasiliła się między nimi wroga retoryka, a etiopskie władze otwarcie deklarują zamiar zdobycia dostępu do morza choćby siłą.",
-      "originalTitle": "Widmo nowej wojny. Afrykańskie państwo chce zdobyć dostęp do morza",
-      "originalDescription": "Rosną obawy dotyczące możliwego konfliktu zbrojnego między sąsiadującymi państwami Rogu Afryki - Etiopii i Erytrei. W ostatnich tygodniach nasiliła się między nimi wroga retoryka, a etiopskie władze otwarcie deklarują zamiar zdobycia dostępu do morza choćby siłą."
-    },
-    {
-      "title": "\"Można wziąć jedno kłamstwo i powtarzać tysiące razy przez AI\". Ekspert ostrzega",
-      "link": "https://tvn24.pl/polska/jak-zapobiegac-dezinformacji-rozmowa-z-ekspertem-peterem-pomerantsevem-st8769112?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 16:58:13 GMT",
-      "description": "Rosja może być powstrzymana tylko przez odstraszanie. Musimy zacząć myśleć o mechanizmach odstraszania w przestrzeni informacyjnej - mówił w TVN24 BiS ekspert do spraw przeciwdziałania dezinformacji Peter Pomerantsev. Całą rozmowę obejrzysz na tvn24.pl.",
-      "originalTitle": "\"Można wziąć jedno kłamstwo i powtarzać tysiące razy przez AI\". Ekspert ostrzega",
-      "originalDescription": "Rosja może być powstrzymana tylko przez odstraszanie. Musimy zacząć myśleć o mechanizmach odstraszania w przestrzeni informacyjnej - mówił w TVN24 BiS ekspert do spraw przeciwdziałania dezinformacji Peter Pomerantsev. Całą rozmowę obejrzysz na tvn24.pl."
-    },
-    {
-      "title": "Podkarpacie. Kilkadziesiąt tysięcy domów nadal bez prądu",
-      "link": "https://tvn24.pl/tvnmeteo/polska/snieg-w-polsce-podkarpacie-kilkadziesiat-tysiecy-domow-nadal-bez-pradu-st8766541?source=rss",
-      "pubDate": "Sun, 23 Nov 2025 06:26:22 GMT",
-      "description": "Śnieg mocno sypnął na południu Polski. Kilkadziesiąt tysięcy gospodarstw domowych na Podkarpaciu nadal nie ma prądu - przekazało Wojewódzkie Centrum Zarządzania Kryzysowego w Rzeszowie. Pod naporem śniegu i lodu łamały się konary drzew i to one uszkodziły linie energetyczne.",
-      "originalTitle": "Podkarpacie. Kilkadziesiąt tysięcy domów nadal bez prądu",
-      "originalDescription": "Śnieg mocno sypnął na południu Polski. Kilkadziesiąt tysięcy gospodarstw domowych na Podkarpaciu nadal nie ma prądu - przekazało Wojewódzkie Centrum Zarządzania Kryzysowego w Rzeszowie. Pod naporem śniegu i lodu łamały się konary drzew i to one uszkodziły linie energetyczne."
-    },
-    {
-      "title": "\"Żmudny proces\", \"pozytywny kierunek\". Po negocjacjach w Genewie",
-      "link": "https://tvn24.pl/najnowsze/ukraina-komentarze-politykow-po-negocjacjach-w-genewie-st8769169?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 16:52:16 GMT",
-      "description": "W tym tygodniu będzie można poczynić co najwyżej niewielkie postępy - powiedział kanclerz Niemiec Friedrich Merz o trwających rozmowach o planie pokojowym dla Ukrainy. Do niedzielnych negocjacji w Genewie odnieśli się również szefowie Unii Europejskiej, a także premier Donald Tusk.",
-      "originalTitle": "\"Żmudny proces\", \"pozytywny kierunek\". Po negocjacjach w Genewie",
-      "originalDescription": "W tym tygodniu będzie można poczynić co najwyżej niewielkie postępy - powiedział kanclerz Niemiec Friedrich Merz o trwających rozmowach o planie pokojowym dla Ukrainy. Do niedzielnych negocjacji w Genewie odnieśli się również szefowie Unii Europejskiej, a także premier Donald Tusk."
-    },
-    {
-      "title": "Bakterie coli w wodzie w kilku dzielnicach Gdyni",
-      "link": "https://tvn24.pl/trojmiasto/gdynia-bakterie-coli-w-wodzie-w-kilku-dzielnicach-st8769403?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 16:50:34 GMT",
-      "description": "W próbkach wody z części gdyńskiego systemu wodociągowego wykryto bakterie grupy coli - poinformował w poniedziałek sanepid. Woda w kilku dzielnicach miasta jest przydatna do spożycia tylko po przegotowaniu.",
-      "originalTitle": "Bakterie coli w wodzie w kilku dzielnicach Gdyni",
-      "originalDescription": "W próbkach wody z części gdyńskiego systemu wodociągowego wykryto bakterie grupy coli - poinformował w poniedziałek sanepid. Woda w kilku dzielnicach miasta jest przydatna do spożycia tylko po przegotowaniu."
-    },
-    {
-      "title": "Błękit metylenowy: cudowny eliksir czy ryzykowna moda? Sprawdzamy",
-      "link": "https://konkret24.tvn24.pl/zdrowie/blekit-metylenowy-cudowny-eliksir-czy-ryzykowna-moda-sprawdzamy-st8762425?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 16:44:58 GMT",
-      "description": "Błękit metylenowy w sieci uchodzi za cudowny środek poprawiający pracę mózgu, zwalczający raka czy spowalniający starzenie. Sprawdzamy, co nauka o nim mówi i jakie zagrożenie niesie przyjmowanie tej substancji na własną rękę.",
-      "originalTitle": "Błękit metylenowy: cudowny eliksir czy ryzykowna moda? Sprawdzamy",
-      "originalDescription": "Błękit metylenowy w sieci uchodzi za cudowny środek poprawiający pracę mózgu, zwalczający raka czy spowalniający starzenie. Sprawdzamy, co nauka o nim mówi i jakie zagrożenie niesie przyjmowanie tej substancji na własną rękę."
     }
   ]
 }
