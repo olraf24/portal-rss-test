@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-11-24T13:42:58.114Z",
+  "lastUpdate": "2025-11-24T14:06:31.317Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kobieta urodziła w samochodzie po wypisaniu ze szpitala",
+      "title": "Liczba kozic w Tatrach spada",
+      "link": "https://tvn24.pl/krakow/policzyli-kozice-w-tatrach-jest-ich-mniej-niz-przed-rokiem-st8769065?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 14:00:56 GMT",
+      "description": "Zakończyło się doroczne zimowe liczenie populacji kozic w Tatrach po polskiej i słowackiej stronie granicy. Zwierząt jest mniej niż w zeszłym roku. By zrozumieć sytuację, naukowcy zaczną badania genetyczne.",
+      "originalTitle": "Mniej kozic w Tatrach. Przyrodnicy winią drapieżniki i turystów",
+      "originalDescription": "Zakończyło się doroczne zimowe liczenie populacji kozic w Tatrach po polskiej i słowackiej stronie granicy. Zwierząt jest mniej niż w zeszłym roku. By zrozumieć sytuację, naukowcy zaczną badania genetyczne."
+    },
+    {
+      "title": "14 osób z zarzutami narkotykowymi",
+      "link": "https://tvn24.pl/krakow/krakow-sluzby-rozbily-narkotykowy-gang-14-osob-z-zarzutami-st8768678?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 13:57:12 GMT",
+      "description": "• 14 osób podejrzanych o powiązania ze środowiskiem pseudokibiców zostało zatrzymanych przez służby.\n• Osoby te mieli wprowadzać do obiegu znaczne ilości narkotyków.\n• Zatrzymani mieli również napadać na przedstawicieli konkurencyjnych grup.",
+      "originalTitle": "Służby rozbiły narkotykowy gang. 14 osób z zarzutami",
+      "originalDescription": "14 osób podejrzanych o powiązania ze środowiskiem pseudokibiców zostało zatrzymanych przez służby. Mieli między innymi wprowadzać do odbiegu znaczne ilości narkotyków i napadać na przedstawicieli konkurencyjnych grup."
+    },
+    {
+      "title": "Inwestycje firm w AI rosną, Fed monitoruje sytuację",
+      "link": "https://tvn24.pl/biznes/tech/firmy-inwestuja-w-ai-fed-ma-problem-st8768565?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 13:55:02 GMT",
+      "description": "W amerykańskiej gospodarce pojawił się niepokojący trend: mimo solidnego wzrostu PKB i wysokiej produktywności firm, rynek pracy słabnie. Ten rozjazd danych coraz mocniej niepokoi amerykańską Rezerwę Federalną, która musi ocenić, czy w tej sytuacji gospodarkę należy pobudzać kolejnymi obniżkami stóp procentowych.",
+      "originalTitle": "Firmy inwestują w AI. Fed ma problem",
+      "originalDescription": "W amerykańskiej gospodarce pojawił się niepokojący trend: mimo solidnego wzrostu PKB i wysokiej produktywności firm, rynek pracy słabnie. Ten rozjazd danych coraz mocniej niepokoi amerykańską Rezerwę Federalną, która musi ocenić, czy w tej sytuacji gospodarkę należy pobudzać kolejnymi obniżkami stóp procentowych."
+    },
+    {
+      "title": "Śliskie chodniki, pełne SOR-y. \"Wszystkie urazy są związane z zimą\"",
+      "link": "https://tvn24.pl/zdrowie/sliskie-chodniki-pelne-sor-y-wszystkie-urazy-sa-zwiazane-z-zima-st8768991?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 13:54:10 GMT",
+      "description": "Pierwsze opady śniegu przyniosły falę urazów. Dyrektor Szpitala w Wołominie Piotr Gołaszewski alarmuje, że w jego lecznicy na SOR trafia coraz więcej osób ze złamaniami i potłuczeniami. W innych regionach również przybywa takich pacjentów. - Praktycznie każdy, kto dziś trafił do nas z urazem, przewrócił się albo jechał na rowerze, najczęściej bez kasku, na oblodzonym chodniku - relacjonuje dr Małgorzata Krakowska-Stasiak, kierowniczka SOR-u 5 Wojskowego Szpitala Klinicznego w Krakowie.",
+      "originalTitle": "Śliskie chodniki, pełne SOR-y. \"Wszystkie urazy są związane z zimą\"",
+      "originalDescription": "Pierwsze opady śniegu przyniosły falę urazów. Dyrektor Szpitala w Wołominie Piotr Gołaszewski alarmuje, że w jego lecznicy na SOR trafia coraz więcej osób ze złamaniami i potłuczeniami. W innych regionach również przybywa takich pacjentów. - Praktycznie każdy, kto dziś trafił do nas z urazem, przewrócił się albo jechał na rowerze, najczęściej bez kasku, na oblodzonym chodniku - relacjonuje dr Małgorzata Krakowska-Stasiak, kierowniczka SOR-u 5 Wojskowego Szpitala Klinicznego w Krakowie."
+    },
+    {
+      "title": "Na rondzie pojechał prosto. Stracił prawo jazdy i stanie przed sądem",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-przejechal-rondo-na-wprost-pijany-kierowca-stanie-przed-sadem-st8768595?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 13:53:40 GMT",
+      "description": "Przejechał przez rondo Andrzeja Huszczy w Zielonej Górze, uszkadzając przy tym nasadzenia. 29-latek był pijany. Stracił prawo jazdy, a czeka go jeszcze wizyta w sądzie.",
+      "originalTitle": "Na rondzie pojechał prosto. Stracił prawo jazdy i stanie przed sądem",
+      "originalDescription": "Przejechał przez rondo Andrzeja Huszczy w Zielonej Górze, uszkadzając przy tym nasadzenia. 29-latek był pijany. Stracił prawo jazdy, a czeka go jeszcze wizyta w sądzie."
+    },
+    {
+      "title": "Marjorie Taylor Greene odchodzi z Kongresu. Trump: świetna wiadomość",
+      "link": "https://tvn24.pl/swiat/usa-marjorie-taylor-greene-odchodzi-z-kongresu-na-fali-sporu-z-donaldem-trumpem-st8768767?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 13:43:44 GMT",
+      "description": "Marjorie Taylor Greene, znana postać ruchu MAGA, ogłosiła, że rezygnuje z bycia członkinią Kongresu. Decyzja następuje w czasie ostrego sporu republikanki z Donaldem Trumpem. Kilka dni temu prezydent USA nazwał swoja dawną gorącą zwolenniczkę \"zdrajczynią\".",
+      "originalTitle": "Marjorie Taylor Greene odchodzi z Kongresu. Trump: świetna wiadomość",
+      "originalDescription": "Marjorie Taylor Greene, znana postać ruchu MAGA, ogłosiła, że rezygnuje z bycia członkinią Kongresu. Decyzja następuje w czasie ostrego sporu republikanki z Donaldem Trumpem. Kilka dni temu prezydent USA nazwał swoja dawną gorącą zwolenniczkę \"zdrajczynią\"."
+    },
+    {
+      "title": "Szpital wypisał rodzącą kobietę do domu, osiem minut później urodziła w samochodzie",
       "link": "https://tvn24.pl/swiat/usa-rodzaca-kobieta-wypisana-ze-szpitala-do-domu-dziecko-przyszlo-na-swiat-w-samochodzie-st8768498?source=rss",
       "pubDate": "Mon, 24 Nov 2025 13:39:48 GMT",
-      "description": "• 38-letnia kobieta z amerykańskiego stanu Indiana spędziła w szpitalu sześć godzin z regularnymi skurczami.\n• Zamiast wysłania na porodówkę, zdecydowano się ją wypisać.\n• Dziecko przyszło na świat osiem minut później.\n• Dziecko urodziło się w samochodzie.",
+      "description": "38-letnia kobieta z amerykańskiego stanu Indiana spędziła w szpitalu sześć godzin z regularnymi skurczami, lecz zamiast wysłania na porodówkę, zdecydowano się ją wypisać. Dziecko przyszło na świat osiem minut później w samochodzie.",
       "originalTitle": "Szpital wypisał rodzącą kobietę do domu, osiem minut później urodziła w samochodzie",
       "originalDescription": "38-letnia kobieta z amerykańskiego stanu Indiana spędziła w szpitalu sześć godzin z regularnymi skurczami, lecz zamiast wysłania na porodówkę, zdecydowano się ją wypisać. Dziecko przyszło na świat osiem minut później w samochodzie."
     },
     {
-      "title": "Nowe filmy i seriale na HBO Max",
+      "title": "Co warto obejrzeć na HBO Max w tym tygodniu?",
       "link": "https://tvn24.pl/kultura-i-styl/hbo-max-nowosci-na-platformie-te-filmy-warto-zobaczyc-st8764362?source=rss",
       "pubDate": "Mon, 24 Nov 2025 13:39:02 GMT",
-      "description": "• Biblioteka filmów HBO Max nieustannie wzbogaca się o kolejne pozycje.\n• Przygotowano zestawienie kilku tytułów, które niedawno pojawiły się w serwisie lub będą mieć premierę w tym tygodniu.",
+      "description": "Biblioteka filmów HBO Max nieustannie wzbogaca się o kolejne pozycje. Co warto obejrzeć? Przygotowaliśmyzestawienie kilku tytułów, które niedawno pojawiły w serwisie lub będą mieć premierę w tym tygodniu.",
       "originalTitle": "Co warto obejrzeć na HBO Max w tym tygodniu?",
       "originalDescription": "Biblioteka filmów HBO Max nieustannie wzbogaca się o kolejne pozycje. Co warto obejrzeć? Przygotowaliśmyzestawienie kilku tytułów, które niedawno pojawiły w serwisie lub będą mieć premierę w tym tygodniu."
     },
     {
-      "title": "Ostrzeżenie przed planem dla Ukrainy",
+      "title": "\"Stwarza przestrzeń dla przyszłej agresji\". Ostrzegają przed planem dla Ukrainy",
       "link": "https://tvn24.pl/swiat/stwarza-przestrzen-dla-przyszlej-agresji-ostrzegaja-przed-planem-dla-ukrainy-st8768267?source=rss",
       "pubDate": "Mon, 24 Nov 2025 13:36:08 GMT",
       "description": "Plan pokojowy USA w obecnej wersji jest niekorzystny dla Ukrainy - ostrzegają analitycy i dziennikarze w Kijowie. W prasie padają stwierdzenia, że \"jego punkty wyglądają jak lista życzeń Kremla\".",
@@ -28,60 +76,12 @@
       "originalDescription": "Plan pokojowy USA w obecnej wersji jest niekorzystny dla Ukrainy - ostrzegają analitycy i dziennikarze w Kijowie. W prasie padają stwierdzenia, że \"jego punkty wyglądają jak lista życzeń Kremla\"."
     },
     {
-      "title": "Atak nożownika w centrum miasta",
+      "title": "W centrum miasta zaatakował nożem dwie osoby",
       "link": "https://tvn24.pl/opole/opole-zazadal-pieniedzy-i-telefonow-potem-zaatakowal-nozem-st8768989?source=rss",
       "pubDate": "Mon, 24 Nov 2025 13:22:53 GMT",
       "description": "Policjanci z Opola zatrzymali 32-latka, który w centrum miasta zaatakował nożem dwie osoby. Decyzją sądu trafił na trzy miesiące do aresztu.",
       "originalTitle": "W centrum miasta zaatakował nożem dwie osoby",
       "originalDescription": "Policjanci z Opola zatrzymali 32-latka, który w centrum miasta zaatakował nożem dwie osoby. Decyzją sądu trafił na trzy miesiące do aresztu."
-    },
-    {
-      "title": "Wiatr spychał ciężarówki z drogi nieopodal Krosna",
-      "link": "https://tvn24.pl/tvnmeteo/polska/krosno-zawieje-i-zamiecie-sniezne-wiatr-spychal-ciezarowki-z-drogi-nagranie-st8768802?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 13:21:24 GMT",
-      "description": "W poniedziałek na południu Polski wciąż panują trudne warunki pogodowe. Do groźnej sytuacji doszło w powiecie krośnieńskim, gdzie silny wiatr spychał z drogi samochody ciężarowe. Do akcji ruszyli strażacy. Nagranie zamieścił portal Krosno112.",
-      "originalTitle": "Wiatr spychał ciężarówki z drogi nieopodal Krosna",
-      "originalDescription": "W poniedziałek na południu Polski wciąż panują trudne warunki pogodowe. Do groźnej sytuacji doszło w powiecie krośnieńskim, gdzie silny wiatr spychał z drogi samochody ciężarowe. Do akcji ruszyli strażacy. Nagranie zamieścił portal Krosno112."
-    },
-    {
-      "title": "Legenda reggae nie żyje. Jimmy Cliff miał 81 lat",
-      "link": "https://tvn24.pl/kultura-i-styl/jimmy-cliff-nie-zyje-legenda-reggae-mial-81-lat-st8768785?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 13:08:19 GMT",
-      "description": "Nie żyje Jimmy Cliff - jeden z najważniejszych muzyków reggae. O śmierci 81-letniego artysty poinformowała jego żona. Cliff był jednym z nielicznych muzyków, obok między innymi Boba Marleya, któremu przyznano Jamajski Order Zasługi.",
-      "originalTitle": "Legenda reggae nie żyje. Jimmy Cliff miał 81 lat",
-      "originalDescription": "Nie żyje Jimmy Cliff - jeden z najważniejszych muzyków reggae. O śmierci 81-letniego artysty poinformowała jego żona. Cliff był jednym z nielicznych muzyków, obok między innymi Boba Marleya, któremu przyznano Jamajski Order Zasługi."
-    },
-    {
-      "title": "David Cameron o diagnozie raka prostaty. \"Zawsze boisz się usłyszeć te słowa\"",
-      "link": "https://tvn24.pl/swiat/wielka-brytania-david-cameron-mial-raka-prostaty-polityk-apeluje-st8768314?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 13:07:24 GMT",
-      "description": "Były premier Wielkiej Brytanii David Cameron w wywiadzie dla \"The Times\" ujawnił, że miał raka prostaty. 59-letni polityk zaapelował przy okazji o wdrożenie badań przesiewowych dla mężczyzn z grupy wysokiego ryzyka.",
-      "originalTitle": "David Cameron o diagnozie raka prostaty. \"Zawsze boisz się usłyszeć te słowa\"",
-      "originalDescription": "Były premier Wielkiej Brytanii David Cameron w wywiadzie dla \"The Times\" ujawnił, że miał raka prostaty. 59-letni polityk zaapelował przy okazji o wdrożenie badań przesiewowych dla mężczyzn z grupy wysokiego ryzyka."
-    },
-    {
-      "title": "Patrolowali okolice torów, uratowali 16-latka. Wpadł do opuszczonej piwnicy",
-      "link": "https://tvn24.pl/lodz/skierniewice-patrolowali-okolice-torow-uratowali-zycie-16-latka-wpadl-do-piwnicy-st8768740?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 13:04:06 GMT",
-      "description": "Kompletnie pijany 16-latek wpadł do piwnicy opuszczonego budynku na terenie parowozowni w Skierniewicach (Łódzkie). Znaleźli go policjanci i funkcjonariusze Straży Ochrony Kolei, którzy patrolowali okolice torów po ostatnich aktach dywersji w Polsce.",
-      "originalTitle": "Patrolowali okolice torów, uratowali 16-latka. Wpadł do opuszczonej piwnicy",
-      "originalDescription": "Kompletnie pijany 16-latek wpadł do piwnicy opuszczonego budynku na terenie parowozowni w Skierniewicach (Łódzkie). Znaleźli go policjanci i funkcjonariusze Straży Ochrony Kolei, którzy patrolowali okolice torów po ostatnich aktach dywersji w Polsce."
-    },
-    {
-      "title": "Oburzenie po odebraniu rodzicom trójki dzieci. Giorgia Meloni zabrała głos",
-      "link": "https://tvn24.pl/swiat/wlochy-oburzenie-po-odebraniu-rodzicom-trojki-dzieci-giorgia-meloni-zabrala-glos-st8768001?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 13:03:01 GMT",
-      "description": "Sprawa rodziny, która mieszkała na odludziu w lesie we włoskiej prowincji Abruzja, wywołała szok we Włoszech. Sąd dla Nieletnich w L'Aquili nakazał odebrać dzieci rodzicom z względu na warunki, w jakich żyją. Premier Włoch Giorgia Meloni i jej zastępca Matteo Salvini skrytykowali decyzję sądu. Meloni stwierdziła, że ​​odebranie dzieci jest \"alarmujące\". Salvini mówi o \"haniebnej\" decyzji i \"porwaniu\".",
-      "originalTitle": "Oburzenie po odebraniu rodzicom trójki dzieci. Giorgia Meloni zabrała głos",
-      "originalDescription": "Sprawa rodziny, która mieszkała na odludziu w lesie we włoskiej prowincji Abruzja, wywołała szok we Włoszech. Sąd dla Nieletnich w L'Aquili nakazał odebrać dzieci rodzicom z względu na warunki, w jakich żyją. Premier Włoch Giorgia Meloni i jej zastępca Matteo Salvini skrytykowali decyzję sądu. Meloni stwierdziła, że ​​odebranie dzieci jest \"alarmujące\". Salvini mówi o \"haniebnej\" decyzji i \"porwaniu\"."
-    },
-    {
-      "title": "CNN: Niemcy chcą zbudować najsilniejszą armię w Europie",
-      "link": "https://tvn24.pl/swiat/niemcy-chca-stworzyc-najsilniejsza-armie-w-europie-wiecej-zolnierzy-wyzsze-pensje-pobor-st8768462?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 13:02:32 GMT",
-      "description": "Kanclerz Niemiec Friedrich Merz zobowiązał się w tym roku do stworzenia najsilniejszej armii w Europie. To trudne zadanie dla kraju, którego armia była przez lata zaniedbywana - donosi CNN. Pomóc ma nowa ustawa, która czeka na głosowanie w Bundestagu.",
-      "originalTitle": "CNN: Niemcy chcą zbudować najsilniejszą armię w Europie",
-      "originalDescription": "Kanclerz Niemiec Friedrich Merz zobowiązał się w tym roku do stworzenia najsilniejszej armii w Europie. To trudne zadanie dla kraju, którego armia była przez lata zaniedbywana - donosi CNN. Pomóc ma nowa ustawa, która czeka na głosowanie w Bundestagu."
     }
   ]
 }
