@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-11-24T08:08:53.997Z",
+  "lastUpdate": "2025-11-24T08:42:42.554Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Problemy z inwestycją w Gdańsku",
+      "title": "Zmiany w relacjach USA-Ukraina",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ukraina-otrzymuje-coraz-mniej-pomocy-zagranicznej-raport-bgk-st8766913?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 08:31:00 GMT",
+      "description": "• W 2025 roku Ukraina odnotowuje wyraźny spadek zagranicznego wsparcia na cele obronne.\n• Spadek ten został zauważony w najnowszym raporcie Banku Gospodarstwa Krajowego (BGK).\n• Analitycy wskazują, że kluczową rolę w tym spadku odgrywa zmiana podejścia Stanów Zjednoczonych.\n• Stany Zjednoczone nie planują przekazywać uzbrojenia w dotychczasowych ilościach.",
+      "originalTitle": "Wyraźny spadek. Ukraina nie może już tak liczyć na USA",
+      "originalDescription": "W 2025 roku Ukraina odnotowuje wyraźny spadek zagranicznego wsparcia na cele obronne - zwraca uwagę w najnowszym raporcie Bank Gospodarstwa Krajowego (BGK). Jak wskazują analitycy, kluczową rolę odgrywa zmiana podejścia Stanów Zjednoczonych, które nie planują przekazywać uzbrojenia w dotychczasowych ilościach."
+    },
+    {
+      "title": "Przychodnia uszkodzona kwasem, dwie osoby usłyszły zarzuty",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-siedziba-przychodni-aborcyjnej-zostala-oblana-kwasem-ojciec-i-syn-uslyszeli-zarzuty-st8768051?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 08:28:29 GMT",
+      "description": "• Siedziba przychodni aborcyjnej AboTak znajduje się przy ulicy Wiejskiej.\n• Przychodnia aborcyjna AboTak została oblana kwasem czterokrotnie.\n• Po ostatnim incydencie policja zatrzymała dwóch mężczyzn.\n• Zatrzymani mężczyźni to ojciec i jego 18-letni syn.\n• Obaj zatrzymani mężczyźni usłyszeli zarzuty.",
+      "originalTitle": "Przychodnia aborcyjna oblana kwasem. Ojciec i syn usłyszeli zarzuty",
+      "originalDescription": "Siedziba przychodni aborcyjnej AboTak przy Wiejskiej została czterokrotnie oblana kwasem. Po ostatnim z incydentów policja zatrzymała dwóch mężczyzn - ojca i 18-letniego syna. Obaj usłyszeli zarzuty."
+    },
+    {
+      "title": "Bolsonaro uszkodził opaskę monitorującą",
+      "link": "https://tvn24.pl/swiat/brazylia-skazany-bolsonaro-probowal-uszkodzic-opaske-monitorujaca-mowi-o-paranoi-i-halucynacjach-st8768007?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 08:27:12 GMT",
+      "description": "• Były prezydent Brazylii Jair Bolsonaro próbował w areszcie domowym uszkodzić opaskę monitorującą jego miejsce pobytu.\n• Powodem uszkodzenia opaski były \"halucynacje\" i \"paranoja\" wywołane zażyciem leków, jak tłumaczy Jair Bolsonaro.\n• Polityk w weekend został zatrzymany przez policję.\n• We wrześniu Bolsonaro został skazany na 27 lat i trzy miesiące pozbawienia wolności.\n• Powodem skazania była próba zamachu stanu.",
+      "originalTitle": "Skazany Bolsonaro próbował uszkodzić opaskę monitorującą. Mówi o \"paranoi\" i \"halucynacjach\"",
+      "originalDescription": "Były prezydent Brazylii Jair Bolsonaro próbował w areszcie domowym uszkodzić opaskę monitorującą jego miejsce pobytu. Jak tłumaczy, powodem były \"halucynacje\" i \"paranoja\" wywołane zażyciem leków. Polityk w weekend został zatrzymany przez policję. We wrześniu Bolsonaro został skazany na 27 lat i trzy miesiące pozbawienia wolności za próbę zamachu stanu,"
+    },
+    {
+      "title": "Samochód wjechał w pieszych w Tokio. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/swiat/japonia-tokio-samochod-wjechal-w-pieszych-st8767948?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 06:33:08 GMT",
+      "description": "Samochód wjechał w pieszych w tokijskiej dzielnicy Adachi - poinformowała agencja Kyodo. Są ranni, jedna osoba nie żyje. Policja zatrzymała kierowcę, który usiłował zbiec z miejsca wypadku.",
+      "originalTitle": "Samochód wjechał w pieszych w Tokio. Jedna osoba nie żyje",
+      "originalDescription": "Samochód wjechał w pieszych w tokijskiej dzielnicy Adachi - poinformowała agencja Kyodo. Są ranni, jedna osoba nie żyje. Policja zatrzymała kierowcę, który usiłował zbiec z miejsca wypadku."
+    },
+    {
+      "title": "Po północy zapalił się dom, mężczyzna nie żyje",
+      "link": "https://tvn24.pl/katowice/bujakow-pozar-domu-jedna-osoba-nie-zyje-st8768091?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 08:07:16 GMT",
+      "description": "Jedna osoba zginęła w pożarze domu w Bujakowie (Śląskie). Policja pod nadzorem prokuratury wyjaśnia okoliczności zdarzenia.",
+      "originalTitle": "Po północy zapalił się dom, mężczyzna nie żyje",
+      "originalDescription": "Jedna osoba zginęła w pożarze domu w Bujakowie (Śląskie). Policja pod nadzorem prokuratury wyjaśnia okoliczności zdarzenia."
+    },
+    {
+      "title": "Wiceszef MSWiA: To był proces rozłożony na lata. Możliwe kolejne zatrzymania",
+      "link": "https://tvn24.pl/polska/dywersja-na-kolei-wiceszef-mswia-to-byl-proces-rozlozony-na-lata-mozliwe-kolejne-zatrzymania-st8768078?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 08:03:15 GMT",
+      "description": "- Karty SIM użyte do rejestracji zdarzeń i transmisji internetowej były aktywowane kilka lat wcześniej. To pokazuje, że proces był rozłożony na lata i osób mających kontakt ze sprawą jest więcej niż cztery - powiedział w poniedziałek wiceszef MSWiA Czesław Mroczek pytany o podejrzanych o przeprowadzenie sabotażu na kolei dwa tygodnie temu. Dodał, że \"możliwe są kolejne zatrzymania w tej sprawie\".",
+      "originalTitle": "Wiceszef MSWiA: To był proces rozłożony na lata. Możliwe kolejne zatrzymania",
+      "originalDescription": "- Karty SIM użyte do rejestracji zdarzeń i transmisji internetowej były aktywowane kilka lat wcześniej. To pokazuje, że proces był rozłożony na lata i osób mających kontakt ze sprawą jest więcej niż cztery - powiedział w poniedziałek wiceszef MSWiA Czesław Mroczek pytany o podejrzanych o przeprowadzenie sabotażu na kolei dwa tygodnie temu. Dodał, że \"możliwe są kolejne zatrzymania w tej sprawie\"."
+    },
+    {
+      "title": "Kłopoty z ważną inwestycją w Gdańsku. \"Spora część dostarczonych elementów okazała się wadliwa\"",
       "link": "https://tvn24.pl/biznes/z-kraju/klopoty-z-gazoportem-w-gdansku-spora-czesc-dostarczonych-elementow-okazala-sie-wadliwa-st8767993?source=rss",
       "pubDate": "Mon, 24 Nov 2025 07:56:23 GMT",
-      "description": "• Gazoport FSRU w Gdańsku ma zacząć pracę w 2028 roku.\n• Dotrzymanie terminu rozpoczęcia pracy gazoportu stoi pod znakiem zapytania.\n• \"Puls Biznesu\" informuje o możliwych opóźnieniach w realizacji inwestycji.\n• Eksperci wskazują, że inwestycja może się opóźnić.\n• Turecki wykonawca zamówił wadliwe elementy w Algierii.",
+      "description": "Gazoport FSRU w Gdańsku ma zacząć pracę w 2028 roku, ale dotrzymanie tego terminu stoi pod znakiem zapytania - pisze \"Puls Biznesu\". Eksperci wskazują, że inwestycja może się opóźnić, gdyż turecki wykonawca zamówił w Algierii wadliwe elementy.",
       "originalTitle": "Kłopoty z ważną inwestycją w Gdańsku. \"Spora część dostarczonych elementów okazała się wadliwa\"",
       "originalDescription": "Gazoport FSRU w Gdańsku ma zacząć pracę w 2028 roku, ale dotrzymanie tego terminu stoi pod znakiem zapytania - pisze \"Puls Biznesu\". Eksperci wskazują, że inwestycja może się opóźnić, gdyż turecki wykonawca zamówił w Algierii wadliwe elementy."
     },
     {
-      "title": "87-latek stracił prawo jazdy na trzy miesiące",
+      "title": "87-latek jechał za szybko. Prawo jazdy odzyska za trzy miesiące",
       "link": "https://tvn24.pl/lublin/pulawy-gory-87-latek-jechal-za-szybko-prawo-jazdy-odzyska-za-trzy-miesiace-st8768044?source=rss",
       "pubDate": "Mon, 24 Nov 2025 07:43:30 GMT",
-      "description": "• 87-letni mieszkaniec województwa lubelskiego został zatrzymany przez policjantów.\n• Jechał za szybko.\n• Dostał wysoki mandat.\n• Otrzymał 14 punktów karnych.\n• Stracił prawo jazdy na trzy miesiące.",
+      "description": "87-letni mieszkaniec województwa lubelskiego został zatrzymany przez policjantów. Jechał za szybko. Dostał wysoki mandat, 14 punktów karnych i na trzy miesiące stracił prawo jazdy.",
       "originalTitle": "87-latek jechał za szybko. Prawo jazdy odzyska za trzy miesiące",
       "originalDescription": "87-letni mieszkaniec województwa lubelskiego został zatrzymany przez policjantów. Jechał za szybko. Dostał wysoki mandat, 14 punktów karnych i na trzy miesiące stracił prawo jazdy."
     },
     {
-      "title": "Wypadek w domu dziecka, poszkodowany czterolatek",
+      "title": "Czterolatek wypadł przez okno domu dziecka",
       "link": "https://tvn24.pl/wroclaw/walbrzych-czteroletnie-dziecko-wypadlo-przez-okno-domu-dziecka-st8768033?source=rss",
       "pubDate": "Mon, 24 Nov 2025 07:41:53 GMT",
-      "description": "• Czterolatek wypadł przez okno domu dziecka w Wałbrzychu.\n• Wałbrzych znajduje się w województwie dolnośląskim.\n• Jak ustalili wstępnie policjanci, doszło do nieszczęśliwego wypadku.\n• Dziecko spadło z wysokości kilku metrów.",
+      "description": "Czterolatek wypadł przez okno domu dziecka w Wałbrzychu (województwo dolnośląskie). Jak ustalili wstępnie policjanci, doszło do nieszczęśliwego wypadku. Dziecko spadło z wysokości kilku metrów.",
       "originalTitle": "Czterolatek wypadł przez okno domu dziecka",
       "originalDescription": "Czterolatek wypadł przez okno domu dziecka w Wałbrzychu (województwo dolnośląskie). Jak ustalili wstępnie policjanci, doszło do nieszczęśliwego wypadku. Dziecko spadło z wysokości kilku metrów."
     },
@@ -34,54 +82,6 @@
       "description": "Zmarł Udo Kier, niemiecki aktor, który w bogatym dorobku miał ponad 200 ról filmowych - tak w hollywoodzkich tytułach, jak i produkcjach uznanych europejskich reżyserów. Informację o śmierci 81-letniego artysty przekazał jego partner.",
       "originalTitle": "Udo Kier nie żyje. Współpracował z Warholem, grał u von Triera i w teledyskach Madonny",
       "originalDescription": "Zmarł Udo Kier, niemiecki aktor, który w bogatym dorobku miał ponad 200 ról filmowych - tak w hollywoodzkich tytułach, jak i produkcjach uznanych europejskich reżyserów. Informację o śmierci 81-letniego artysty przekazał jego partner."
-    },
-    {
-      "title": "Awarie linii energetycznych, tysiące bez prądu",
-      "link": "https://tvn24.pl/tvnmeteo/polska/snieg-w-polsce-atak-zimy-trwa-stodola-zawalila-sie-pod-naporem-sniegu-byly-w-niej-zwierzeta-st8766541?source=rss",
-      "pubDate": "Sun, 23 Nov 2025 06:26:22 GMT",
-      "description": "Po niedzielnych intensywnych opadach śniegu prawie 37 tysięcy osób w województwie podkarpackim nadal nie ma dostępu do prądu - poinformowały lokalne służby. Powodem są zerwane przez konary linie energetyczne oraz ich oblodzenie. Z powodu ataku zimy strażacy w wielu regionach kraju mieli pełne ręce roboty.",
-      "originalTitle": "Zerwane i oblodzone linie energetyczne. Tysiące osób nadal bez prądu",
-      "originalDescription": "Po niedzielnych intensywnych opadach śniegu prawie 37 tysięcy osób w województwie podkarpackim nadal nie ma dostępu do prądu - poinformowały lokalne służby. Powodem są zerwane przez konary linie energetyczne oraz ich oblodzenie. Z powodu ataku zimy strażacy w wielu regionach kraju mieli pełne ręce roboty."
-    },
-    {
-      "title": "Seria rozbojów w Krakowie. Żądał gotówki albo BLIK-a",
-      "link": "https://tvn24.pl/krakow/krakow-podgorze-policja-zatrzymala-21-latka-podejrzanego-o-rozboje-zadal-gotowki-albo-blik-a-st8767996?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 07:27:56 GMT",
-      "description": "Policja zatrzymała 21-latka podejrzanego o serię rozbojów, do których dochodziło w Krakowie. Brak gotówki u ofiar nie był przeszkodą - mężczyzna miał, zamiast niej domagać się wykonania przelewu BLIK. Grozi mu nawet 20 lat więzienia.",
-      "originalTitle": "Seria rozbojów w Krakowie. Żądał gotówki albo BLIK-a",
-      "originalDescription": "Policja zatrzymała 21-latka podejrzanego o serię rozbojów, do których dochodziło w Krakowie. Brak gotówki u ofiar nie był przeszkodą - mężczyzna miał, zamiast niej domagać się wykonania przelewu BLIK. Grozi mu nawet 20 lat więzienia."
-    },
-    {
-      "title": "Nie miał prawa jazdy, został zatrzymany za przekroczenie prędkości",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-nie-mial-jeszcze-prawa-jazdy-zostal-zatrzymany-za-przekroczenie-predkosci-st8767929?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 07:09:48 GMT",
-      "description": "Policjanci drogówki z Piaseczna zatrzymali do kontroli kierowcę, który przekroczył dozwoloną prędkość w obszarze zabudowanym. W trakcie interwencji okazało się, że mężczyzna nie ma jeszcze prawa jazdy. Jak wyjaśnił, \"jest w trakcie kursu\". Jego sprawą zajmie się sąd.",
-      "originalTitle": "Nie miał prawa jazdy, został zatrzymany za przekroczenie prędkości",
-      "originalDescription": "Policjanci drogówki z Piaseczna zatrzymali do kontroli kierowcę, który przekroczył dozwoloną prędkość w obszarze zabudowanym. W trakcie interwencji okazało się, że mężczyzna nie ma jeszcze prawa jazdy. Jak wyjaśnił, \"jest w trakcie kursu\". Jego sprawą zajmie się sąd."
-    },
-    {
-      "title": "Śnieżyce i ulewy mogą pokrzyżować plany milionom Amerykanów",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-swieto-dziekczynienia-sniezyce-i-ulewy-moga-pokrzyzowac-plany-milionom-amerykanow-st8767945?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 07:09:22 GMT",
-      "description": "Pogoda może znacząco utrudnić podróżowanie milionom Amerykanów przed zbliżającym się Świętem Dziękczynienia. Według prognoz w najbliższych dniach w USA mogą pojawić się ulewne opady deszczu oraz potężne śnieżyce. Sparaliżowany może zostać nie tylko ruch samochodowy, lecz także lotniczy.",
-      "originalTitle": "Śnieżyce i ulewy mogą pokrzyżować plany milionom Amerykanów",
-      "originalDescription": "Pogoda może znacząco utrudnić podróżowanie milionom Amerykanów przed zbliżającym się Świętem Dziękczynienia. Według prognoz w najbliższych dniach w USA mogą pojawić się ulewne opady deszczu oraz potężne śnieżyce. Sparaliżowany może zostać nie tylko ruch samochodowy, lecz także lotniczy."
-    },
-    {
-      "title": "Rosyjska misja w Wenezueli. Szkolą tamtejszych wojskowych",
-      "link": "https://tvn24.pl/swiat/rosjanie-szkola-w-wenezueli-tamtejszych-wojskowych-st8767888?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 07:06:42 GMT",
-      "description": "Specjalna 120-osobowa grupa operacyjna z Rosji pod dowództwem generała Olega Makarewicza działa w Wenezueli, gdzie szkoli tamtejszych wojskowych.",
-      "originalTitle": "Rosyjska misja w Wenezueli. Szkolą tamtejszych wojskowych",
-      "originalDescription": "Specjalna 120-osobowa grupa operacyjna z Rosji pod dowództwem generała Olega Makarewicza działa w Wenezueli, gdzie szkoli tamtejszych wojskowych."
-    },
-    {
-      "title": "Zderzenie czterech aut na S8, cztery osoby nie żyją",
-      "link": "https://tvn24.pl/lodz/choiny-woj-lodzkie-zderzenie-czterech-aut-na-s8-cztery-osoby-nie-zyja-st8768004?source=rss",
-      "pubDate": "Mon, 24 Nov 2025 07:05:11 GMT",
-      "description": "W poniedziałek rano na drodze ekspresowej S8 na wysokości miejscowości Choiny (Łódzkie) zderzyły się dwa busy i dwie ciężarówki. Jak przekazuje dyżurny łódzkiej Państwowej Straży Pożarnej, zginęły cztery osoby. Z dotychczasowych ustaleń służb wynika, że wszystkie jechały tym samym pojazdem.",
-      "originalTitle": "Zderzenie czterech aut na S8, cztery osoby nie żyją",
-      "originalDescription": "W poniedziałek rano na drodze ekspresowej S8 na wysokości miejscowości Choiny (Łódzkie) zderzyły się dwa busy i dwie ciężarówki. Jak przekazuje dyżurny łódzkiej Państwowej Straży Pożarnej, zginęły cztery osoby. Z dotychczasowych ustaleń służb wynika, że wszystkie jechały tym samym pojazdem."
     }
   ]
 }
