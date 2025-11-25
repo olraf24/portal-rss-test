@@ -1,10 +1,58 @@
 {
-  "lastUpdate": "2025-11-25T07:06:49.525Z",
+  "lastUpdate": "2025-11-25T07:36:08.585Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zakaz dokarmiania bezpańskich psów wprowadzony",
+      "title": "Księżyc obok Saturna",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/koniunkcja-ksiezyca-i-saturna-jak-obserwowac-to-spotkanie-st8769730?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 07:30:50 GMT",
+      "description": "• Księżyc i Saturn zalśnią obok siebie na nocnym niebie.\n• Do koniunkcji dojdzie w sobotę.\n• Koniunkcja odbędzie się 29 listopada.\n• Należy przygotować się do obserwacji nieba.",
+      "originalTitle": "Księżyc znajdzie się blisko Saturna. Jak obserwować to spotkanie?",
+      "originalDescription": "Księżyc i Saturn już wkrótce zalśnią obok siebie na nocnym niebie. Do koniunkcji dojdzie w sobotę 29 listopada. Sprawdź, jak przygotować się do obserwacji nieba."
+    },
+    {
+      "title": "Pociąg zatrzymał się przed drezyną",
+      "link": "https://tvn24.pl/lodz/piotrkow-trybunalski-pociag-pasazerski-i-drezyna-na-tym-samym-torze-st8769716?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 07:20:07 GMT",
+      "description": "O krok od tragedii na dworcu kolejowym w Piotrkowie Trybunalskim (Łódzkie). Pociąg pasażerski relacji Wrocław Główny - Warszawa Wschodnia o mało nie zderzył się ze stojącą na torach drezyną sieciową. Maszynista składu zdążył wyhamować i uniknął zderzenia.",
+      "originalTitle": "Pociąg zatrzymał się 150 metrów przed drezyną",
+      "originalDescription": "O krok od tragedii na dworcu kolejowym w Piotrkowie Trybunalskim (Łódzkie). Pociąg pasażerski relacji Wrocław Główny - Warszawa Wschodnia o mało nie zderzył się ze stojącą na torach drezyną sieciową. Maszynista składu zdążył wyhamować i uniknął zderzenia."
+    },
+    {
+      "title": "Wzrost polskich sklepów",
+      "link": "https://tvn24.pl/biznes/z-kraju/ukraina-boom-na-rynku-polskie-sklepy-korzystaja-st8769689?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 07:16:25 GMT",
+      "description": "• Polskie sklepy internetowe coraz chętniej wysyłają towary na Ukrainę.\n• Informację tę podaje we wtorkowym wydaniu dziennik \"Rzeczpospolita\".\n• Nasi sprzedawcy korzystają na boomie w e-handlu.\n• Boom w e-handlu jest obserwowany za naszą wschodnią granicą.",
+      "originalTitle": "Boom na rynku. Polskie sklepy korzystają",
+      "originalDescription": "Polskie sklepy internetowe coraz chętniej wysyłają towary na Ukrainę - podaje we wtorkowym wydaniu dziennik \"Rzeczpospolita\". Nasi sprzedawcy korzystają na boomie w e-handlu, który obserwowany jest za naszą wschodnią granicą."
+    },
+    {
+      "title": "Rumuńskie myśliwce poderwane",
+      "link": "https://tvn24.pl/swiat/rumunia-poderwane-mysliwce-w-zwiazku-z-naruszeniem-przestrzeni-przez-drony-st8769731?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 07:13:33 GMT",
+      "description": "Rumunia poderwała myśliwe po tym, jak drony naruszyły przestrzeń powietrzną w pobliżu granicy z Ukrainą - poinformowało lokalne ministerstwo obrony.",
+      "originalTitle": "Rumuńskie myśliwce poderwane",
+      "originalDescription": "Rumunia poderwała myśliwe po tym, jak drony naruszyły przestrzeń powietrzną w pobliżu granicy z Ukrainą - poinformowało lokalne ministerstwo obrony."
+    },
+    {
+      "title": "\"Widać te ruskie, tłuste odciski palców\"",
+      "link": "https://tvn24.pl/polska/plan-w-sprawie-ukrainy-pawel-kowal-widac-te-ruskie-tluste-odciski-palcow-st8769692?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 07:07:29 GMT",
+      "description": "Unikam mówienia, że to jest plan pokojowy dla Ukrainy. To jest plan ruskiej dominacji w całym świecie - ocenił w \"Rozmowie Piaseckiego\" w TVN24 przewodniczący Rady do spraw Współpracy z Ukrainą, poseł Paweł Kowal. Stwierdził też, że \"Amerykanie tego nie pisali\" i powołując się na analizy w sieci powiedział, że widać w punktach planu ingerencję Rosji.",
+      "originalTitle": "\"Widać te ruskie, tłuste odciski palców\"",
+      "originalDescription": "Unikam mówienia, że to jest plan pokojowy dla Ukrainy. To jest plan ruskiej dominacji w całym świecie - ocenił w \"Rozmowie Piaseckiego\" w TVN24 przewodniczący Rady do spraw Współpracy z Ukrainą, poseł Paweł Kowal. Stwierdził też, że \"Amerykanie tego nie pisali\" i powołując się na analizy w sieci powiedział, że widać w punktach planu ingerencję Rosji."
+    },
+    {
+      "title": "Śledztwo po zderzeniu tramwajów i miejskiego autobusu",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zderzenie-tramwajow-i-autobusu-w-alei-solidarnosci-jest-sledztwo-st8769469?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 07:04:30 GMT",
+      "description": "24 osoby były ranne, z czego 17 trafiło do szpitala po zderzeniu dwóch tramwajów i autobusu w alei \"Solidarności\" w ubiegłym tygodniu. Prokuratura wszczęła śledztwo w sprawie sprowadzenia katastrofy w ruchu lądowym. Śledczy nie ujawniają, co mogło być przyczyną wypadku.",
+      "originalTitle": "Śledztwo po zderzeniu tramwajów i miejskiego autobusu",
+      "originalDescription": "24 osoby były ranne, z czego 17 trafiło do szpitala po zderzeniu dwóch tramwajów i autobusu w alei \"Solidarności\" w ubiegłym tygodniu. Prokuratura wszczęła śledztwo w sprawie sprowadzenia katastrofy w ruchu lądowym. Śledczy nie ujawniają, co mogło być przyczyną wypadku."
+    },
+    {
+      "title": "Wprowadzili zakaz dokarmiania bezpańskich psów",
       "link": "https://tvn24.pl/swiat/turcja-wladze-stambulu-wprowadzily-zakaz-dokarmiania-bezpanskich-psow-st8769665?source=rss",
       "pubDate": "Tue, 25 Nov 2025 06:34:44 GMT",
       "description": "Gubernator Stambułu wprowadził zakaz dokarmiana bezpańskich psów w miejscach publicznych. Gminy w mieście otrzymają grunty pod utworzenie schronisk dla bezdomnych zwierząt.",
@@ -12,7 +60,7 @@
       "originalDescription": "Gubernator Stambułu wprowadził zakaz dokarmiana bezpańskich psów w miejscach publicznych. Gminy w mieście otrzymają grunty pod utworzenie schronisk dla bezdomnych zwierząt."
     },
     {
-      "title": "Przerwy w dostawie prądu dotknęły setki tysięcy osób",
+      "title": "Alarmujący wzrost. Setki tysięcy osób bez prądu",
       "link": "https://tvn24.pl/biznes/ze-swiata/usa-fala-wylaczen-pradu-setki-tysiecy-osob-bez-elektrycznosci-st8769670?source=rss",
       "pubDate": "Tue, 25 Nov 2025 06:29:07 GMT",
       "description": "Rosnące ceny prądu wywołały falę wyłączeń energii elektrycznej w mieszkaniach Amerykanów. Dotknęło to też stany z liczną Polonią. W Nowym Jorku liczba odcięć wzrosła kilkukrotnie w porównaniu z minionym rokiem. Zakłady energetyczne Con Edison odnotowały 111 tysięcy takich przypadków wobec 30 tysięcy w 2024 roku.",
@@ -34,54 +82,6 @@
       "description": "Około 30 kilometrów brakuje na południu Polski do dokończenia drogi ekspresowej S7, która ma połączyć Podhale z krajową siecią autostrad. Jednak odcinek między Krakowem a Myślenicami przebiegać ma przez tak gęsto zabudowany obszar, że nie da się już przygotować wariantu, który nie spotkałby się z gwałtownymi protestami. We wtorek (25 listopada) GDDKiA rusza z serią spotkań konsultacyjnych.",
       "originalTitle": "Z 3288 możliwości wybrali sześć. \"Nad nami będzie węzeł, a dom wyburzą\"",
       "originalDescription": "Około 30 kilometrów brakuje na południu Polski do dokończenia drogi ekspresowej S7, która ma połączyć Podhale z krajową siecią autostrad. Jednak odcinek między Krakowem a Myślenicami przebiegać ma przez tak gęsto zabudowany obszar, że nie da się już przygotować wariantu, który nie spotkałby się z gwałtownymi protestami. We wtorek (25 listopada) GDDKiA rusza z serią spotkań konsultacyjnych."
-    },
-    {
-      "title": "Pożar hotelu w Olsztynie",
-      "link": "https://tvn24.pl/olsztyn/olsztyn-pozar-w-hotelu-w-olsztynie-st8769690?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 06:14:35 GMT",
-      "description": "Pożar w hotelu nad jeziorem Ukiel w Olsztynie. Kilkanaście osób ewakuowało się samodzielnie, pozostałym pomogli strażacy.",
-      "originalTitle": "Pożar hotelu w Olsztynie",
-      "originalDescription": "Pożar w hotelu nad jeziorem Ukiel w Olsztynie. Kilkanaście osób ewakuowało się samodzielnie, pozostałym pomogli strażacy."
-    },
-    {
-      "title": "Unia zamroziła 18 miliardów euro dla Węgier. Powodem łamanie praworządności",
-      "link": "https://tvn24.pl/swiat/unijny-komisarz-18-miliardow-euro-srodkow-unijnych-dla-wegier-zablokowanych-z-powodu-praworzadnosci-st8769631?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 06:08:55 GMT",
-      "description": "Obecnie Węgry mają zamrożone 18 miliardów euro środków unijnych - poinformował unijny komisarz odpowiedzialny za praworządność Michael McGrath podczas debaty w Parlamencie Europejskim w Strasburgu. Powodem jest, jak przekazał, łamanie przez ten kraj praworządności.",
-      "originalTitle": "Unia zamroziła 18 miliardów euro dla Węgier. Powodem łamanie praworządności",
-      "originalDescription": "Obecnie Węgry mają zamrożone 18 miliardów euro środków unijnych - poinformował unijny komisarz odpowiedzialny za praworządność Michael McGrath podczas debaty w Parlamencie Europejskim w Strasburgu. Powodem jest, jak przekazał, łamanie przez ten kraj praworządności."
-    },
-    {
-      "title": "Pomarańczowe alarmy w części kraju. IMGW ostrzega",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-pomaranczowe-alarmy-w-czesci-kraju-st8769674?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 06:04:41 GMT",
-      "description": "IMGW wydał ostrzeżenia drugiego stopnia przed roztopami. Obowiązują też żółte alarmy przed marznącymi opadami. Sprawdź, w których miejscach może być niebezpieczne.",
-      "originalTitle": "Pomarańczowe alarmy w części kraju. IMGW ostrzega",
-      "originalDescription": "IMGW wydał ostrzeżenia drugiego stopnia przed roztopami. Obowiązują też żółte alarmy przed marznącymi opadami. Sprawdź, w których miejscach może być niebezpieczne."
-    },
-    {
-      "title": "Po \"skrajnie niebezpiecznych manewrach\" prawa jazdy nie stracił, bo go nie ma",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-szalona-jazda-lamanie-przepisow-81-punktow-karnych-st8769524?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 06:00:00 GMT",
-      "description": "Wyprzedzał na przejściach dla pieszych, lekceważył znaki, w obszarze zabudowanym na liczniku miał 171 kilometrów na godzinę. 30-latek dostał 8,5 tysiąca złotych mandatu. Prawa jazdy nie stracił, bo i tak go nie ma.",
-      "originalTitle": "Po \"skrajnie niebezpiecznych manewrach\" prawa jazdy nie stracił, bo go nie ma",
-      "originalDescription": "Wyprzedzał na przejściach dla pieszych, lekceważył znaki, w obszarze zabudowanym na liczniku miał 171 kilometrów na godzinę. 30-latek dostał 8,5 tysiąca złotych mandatu. Prawa jazdy nie stracił, bo i tak go nie ma."
-    },
-    {
-      "title": "Niezapowiedziane rozmowy w Abu Zabi. USA, Rosja i Ukraina",
-      "link": "https://tvn24.pl/swiat/niezapowiedziane-rozmowy-w-abu-zabi-usa-rosja-i-ukraina-st8769673?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 05:41:40 GMT",
-      "description": "Sekretarz sił lądowych USA Dan Driscoll przybył w poniedziałek do Abu Zabi na rozmowy z przedstawicielami Rosji i Ukrainy - poinformował \"Financial Times\". Później, powołując się na swoje źródło, informację potwierdził też Reuters.",
-      "originalTitle": "Niezapowiedziane rozmowy w Abu Zabi. USA, Rosja i Ukraina",
-      "originalDescription": "Sekretarz sił lądowych USA Dan Driscoll przybył w poniedziałek do Abu Zabi na rozmowy z przedstawicielami Rosji i Ukrainy - poinformował \"Financial Times\". Później, powołując się na swoje źródło, informację potwierdził też Reuters."
-    },
-    {
-      "title": "Zarzuty po ataku na 11-latka. Śledczy o rasistowskim motywie",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostrow-mazowiecka-zarzuty-po-ataku-na-11-latka-sledczy-o-rasistowskim-tle-st8769625?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 05:30:00 GMT",
-      "description": "Po ataku na 11-latka w Ostrowi Mazowieckiej 30-letni mężczyzna usłyszał zarzuty. Został objęty dozorem policyjnym i ma zakaz zbliżania się do chłopca. Zdaniem śledczych, do ataku doszło na tle rasistowskim.",
-      "originalTitle": "Zarzuty po ataku na 11-latka. Śledczy o rasistowskim motywie",
-      "originalDescription": "Po ataku na 11-latka w Ostrowi Mazowieckiej 30-letni mężczyzna usłyszał zarzuty. Został objęty dozorem policyjnym i ma zakaz zbliżania się do chłopca. Zdaniem śledczych, do ataku doszło na tle rasistowskim."
     }
   ]
 }
