@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-11-25T17:37:28.313Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-11-25T18:08:35.500Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dyrektor zawieszony za wysłanie ucznia do fryzjera",
+      "link": "https://tvn24.pl/krakow/krakow-dyrektor-liceum-wyslal-ucznia-do-fryzjera-zostal-zawieszony-st8771289?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:59:09 GMT",
+      "description": "Dyrektor XLIV Liceum Ogólnokształcącego został zawieszony przez prezydenta Krakowa. Decyzja jest związana z zawiadomieniem Małopolskiego Kuratora Oświaty o popełnieniu czynu noszącego znamiona naruszenia praw i dobra jednego z uczniów. Dyrektor polecił niepełnoletniemu uczniowi, by ten poszedł do fryzjera i wrócił z ogoloną głową.",
+      "originalTitle": "Dyrektor wysłał ucznia do fryzjera. Został zawieszony",
+      "originalDescription": "Dyrektor XLIV Liceum Ogólnokształcącego został zawieszony przez prezydenta Krakowa. Decyzja jest związana z zawiadomieniem Małopolskiego Kuratora Oświaty o popełnieniu czynu noszącego znamiona naruszenia praw i dobra jednego z uczniów. Dyrektor polecił niepełnoletniemu uczniowi, by ten poszedł do fryzjera i wrócił z ogoloną głową."
+    },
+    {
+      "title": "Pogoda na 26.11: śnieg i deszcz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-26-11-snieg-i-deszcz-nie-kazdy-doswiadczy-zimowych-opadow-st8771224?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:58:11 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli środy.\n• Data jutrzejszego dnia to 26.11.\n• Nocą niebo nad Polską będzie spowijane chmury.\n• Chmury w większości kraju przyniosą śnieg i śnieg z deszczem.\n• W dzień aura będzie podobna do nocy.\n• Miejscami opady w ciągu dnia przybiorą na sile.",
+      "originalTitle": "Pogoda na jutro - środa, 26.11. Śnieg i deszcz. Nie każdy doświadczy zimowych opadów",
+      "originalDescription": "Pogoda na jutro, czyli na środę, 26.11. Nocą niebo nad Polską spowiją chmury, które w większości kraju przyniosą śnieg i śnieg z deszczem. W dzień aura będzie podobna, z tym że miejscami opady przybiorą na sile."
+    },
+    {
+      "title": "Decyzja Trumpa ws szefa Fed wkrótce",
+      "link": "https://tvn24.pl/biznes/ze-swiata/trump-ma-wkrotce-podjac-decyzje-w-sprawie-szefa-fed-st8771254?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:38:53 GMT",
+      "description": "• Sekretarz Skarbu Scott Bessent powiedział we wtorek, że spodziewa się, iż prezydent Donald Trump podejmie decyzję w sprawie nowego szefa Rezerwy Federalnej USA jeszcze przed świętami.\n• Prezydent Donald Trump podejmie decyzję w sprawie nowego szefa Rezerwy Federalnej USA jeszcze przed świętami, jak podaje Scott Bessent.\n• Informację tę podał CNBC.\n• Prezydent Donald Trump nieustająco ostro krytykuje Rezerwę Federalną.",
+      "originalTitle": "Trump ma wkrótce podjąć decyzję w sprawie szefa Fed",
+      "originalDescription": "Sekretarz Skarbu Scott Bessent powiedział we wtorek, że spodziewa się, iż prezydent Donald Trump podejmie decyzję w sprawie nowego szefa Rezerwy Federalnej USA jeszcze przed świętami - donosi CNBC. Prezydent nieustająco ostro krytykuje Rezerwę Federalną."
+    },
+    {
+      "title": "Polska zgłosiła zastrzeżenia do planu USA",
+      "link": "https://tvn24.pl/polska/wojna-w-ukrainie-wiceminister-obrony-pawel-zalewski-przedstawil-zastrzezenia-polski-do-pierwotnego-planu-pokojowego-usa-st8771333?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:38:05 GMT",
+      "description": "• Wiceszef MON to Paweł Zalewski.\n• Paweł Zalewski przeprowadził rozmowę ze swoim amerykańskim odpowiednikiem.\n• Po rozmowie Paweł Zalewski oświadczył, że \"nie ma w planach pokojowych dla Ukrainy żadnego punktu dotyczącego tego, że europejskie myśliwce będą stacjonowały w Polsce\".\n• Decyzje dotyczące stacjonowania europejskich myśliwców w Polsce zależą od Polski.\n• Decyzje dotyczące stacjonowania europejskich myśliwców w Polsce nie zależą od ustaleń z Rosją.",
+      "originalTitle": "Wiceminister obrony \"przedstawił zastrzeżenia\" Polski do pierwotnego planu USA",
+      "originalDescription": "Wiceszef MON Paweł Zalewski po rozmowie ze swoim amerykańskim odpowiednikiem oświadczył, że \"nie ma w planach pokojowych dla Ukrainy żadnego punktu dotyczącego tego, że europejskie myśliwce będą stacjonowały w Polsce\". Zaznaczył, że takie decyzje zależą od Polski, a nie od ustaleń z Rosją."
+    },
+    {
+      "title": "Biały Dom omawia plan pokojowy",
+      "link": "https://tvn24.pl/swiat/plan-pokojowy-dla-ukrainy-karoline-leavitt-jest-kilka-delikatnych-ale-nie-niemozliwych-do-rozwiazania-kwestii-st8771327?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:36:17 GMT",
+      "description": "• Rzeczniczka Białego Domu to Karoline Leavitt.\n• Karoline Leavitt napisała o kilku delikatnych kwestiach w sprawie rozmów na linii Ukraina-Rosja-USA.\n• Kwestie te są nie niemożliwe do rozwiązania.\n• Wypowiedź Karoline Leavitt odnosi się do doniesień o uzgodnieniu z Ukrainą podstawowych szczegółów planu pokojowego.\n• Rozmowy dotyczą linii Ukraina-Rosja-USA.",
+      "originalTitle": "Biały Dom w sprawie planu pokojowego: jest kilka delikatnych, ale nie niemożliwych do rozwiązania kwestii",
+      "originalDescription": "Rzeczniczka Białego Domu Karoline Leavitt napisała, że jest \"kilka delikatnych\" acz \"nie niemożliwych do rozwiązania\" kwestii w sprawie rozmów na linii Ukraina-Rosja-USA. Odniosła się w ten sposób do doniesień o uzgodnieniu z Ukrainą podstawowych szczegółów planu pokojowego."
+    },
+    {
+      "title": "Francja debatuje o utracie dzieci w wojnie",
+      "link": "https://tvn24.pl/swiat/francja-gotowa-zaakceptowac-utrate-naszych-dzieci-debata-po-slowach-generala-mandona-st8770800?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:21:48 GMT",
+      "description": "• Francja waha się, bo nie jest gotowa zaakceptować utraty swoich dzieci.\n• Nowy naczelny dowódca francuskiej armii to generał Fabien Mandon.\n• Generał Fabien Mandon stwierdził, że \"jesteśmy, rzeczywiście, zagrożeni\", jeżeli Francja waha się.\n�� Słowa generała Fabien Mandon wywołały poruszenie wśród francuskich polityków.",
+      "originalTitle": "Francja musi zaakceptować \"utratę naszych dzieci\". Generał podzielił polityków",
+      "originalDescription": "Jeżeli Francja \"waha się, bo nie jesteśmy gotowi zaakceptować utraty naszych dzieci\", wówczas \"jesteśmy, rzeczywiście, zagrożeni\" - stwierdził nowy naczelny dowódca francuskiej armii generał Fabien Mandon. Słowa te wywołały poruszenie wśród francuskich polityków."
+    },
+    {
+      "title": "Rozmowa liderów koalicji chętnych. Emmanuel Macron: jest szansa na realny postęp ku dobremu pokojowi w Ukrainie",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rozmowa-liderow-koalicji-chetnych-emmanuel-macron-jest-szansa-na-realny-postep-ku-dobremu-pokojowi-st8771266?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:20:59 GMT",
+      "description": "Zdaniem prezydenta Francji Emmanuela Macrona jest szansa na to, że faktycznie dojdzie do porozumienia między Ukrainą a Rosją, ale zależy to od tego, czy Kijów otrzyma solidne gwarancje bezpieczeństwa. Takie słowa padły na początku wtorkowej wideokonferencji liderów koalicji chętnych.",
+      "originalTitle": "Rozmowa liderów koalicji chętnych. Emmanuel Macron: jest szansa na realny postęp ku dobremu pokojowi w Ukrainie",
+      "originalDescription": "Zdaniem prezydenta Francji Emmanuela Macrona jest szansa na to, że faktycznie dojdzie do porozumienia między Ukrainą a Rosją, ale zależy to od tego, czy Kijów otrzyma solidne gwarancje bezpieczeństwa. Takie słowa padły na początku wtorkowej wideokonferencji liderów koalicji chętnych."
+    },
+    {
+      "title": "Zbadali alkomatem prokuratora. Sąd: zachowanie \"bliższe pochwały niż ścigania\"",
+      "link": "https://tvn24.pl/krakow/zakopane-zbadali-alkomatem-prokuratora-sad-najwyzszy-zdecydowal-st8770322?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:19:22 GMT",
+      "description": "Policjanci ścigani za zbadanie prokuratora alkomatem niewinni. Sąd Najwyższy odrzucił we wtorek kasację złożoną przez prokuraturę. Funkcjonariuszom zarzucano przekroczenie uprawnień i naruszenie miru domowego. Sąd nie zostawił na tezach prokuratury suchej nitki. - Zachowanie oskarżonej jest bliższe pochwały niż ścigania karnego - mówił sędzia Jerzy Grubba.",
+      "originalTitle": "Zbadali alkomatem prokuratora. Sąd: zachowanie \"bliższe pochwały niż ścigania\"",
+      "originalDescription": "Policjanci ścigani za zbadanie prokuratora alkomatem niewinni. Sąd Najwyższy odrzucił we wtorek kasację złożoną przez prokuraturę. Funkcjonariuszom zarzucano przekroczenie uprawnień i naruszenie miru domowego. Sąd nie zostawił na tezach prokuratury suchej nitki. - Zachowanie oskarżonej jest bliższe pochwały niż ścigania karnego - mówił sędzia Jerzy Grubba."
+    },
+    {
+      "title": "Śledztwo prokuratury w sprawie dotacji dla fundacji Magdaleny Ogórek",
+      "link": "https://tvn24.pl/polska/sledztwo-prokuratury-w-sprawie-dotacji-dla-fundacji-magdaleny-ogorek-st8763000?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:18:41 GMT",
+      "description": "Trwa prokuratorskie śledztwo dotyczące fundacji Magdaleny Ogórek, która na Dolnym Śląsku buduje Muzeum Sztuki Zagrabionej. - Odbieram działania prokuratury jako niezrozumiałe szykany polityczne - mówi nam Magdalena Ogórek. Obiekt powstaje między innymi za dotacje z Fundacji KGHM. Okoliczności przyznawania takich dotacji przez tę właśnie fundację prześwietlają dwie inne prokuratury.",
+      "originalTitle": "Śledztwo prokuratury w sprawie dotacji dla fundacji Magdaleny Ogórek",
+      "originalDescription": "Trwa prokuratorskie śledztwo dotyczące fundacji Magdaleny Ogórek, która na Dolnym Śląsku buduje Muzeum Sztuki Zagrabionej. - Odbieram działania prokuratury jako niezrozumiałe szykany polityczne - mówi nam Magdalena Ogórek. Obiekt powstaje między innymi za dotacje z Fundacji KGHM. Okoliczności przyznawania takich dotacji przez tę właśnie fundację prześwietlają dwie inne prokuratury."
+    },
+    {
+      "title": "Zabawki pod specjalnym nadzorem. Kolejne zakazane substancje",
+      "link": "https://tvn24.pl/biznes/ze-swiata/nie-mozemy-tego-dluzej-tolerowac-parlament-europejski-zaostrza-przepisy-st8771251?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 17:14:04 GMT",
+      "description": "We wtorek Parlament Europejski (PE) zatwierdził nowe, surowsze przepisy dotyczące bezpieczeństwa zabawek w Unii Europejskiej. Zakazano w nich kolejnych substancji chemicznych, a od producentów wymagany będzie cyfrowy paszport produktu, umożliwiający szybką weryfikację, czy zabawka spełnia unijne normy.",
+      "originalTitle": "Zabawki pod specjalnym nadzorem. Kolejne zakazane substancje",
+      "originalDescription": "We wtorek Parlament Europejski (PE) zatwierdził nowe, surowsze przepisy dotyczące bezpieczeństwa zabawek w Unii Europejskiej. Zakazano w nich kolejnych substancji chemicznych, a od producentów wymagany będzie cyfrowy paszport produktu, umożliwiający szybką weryfikację, czy zabawka spełnia unijne normy."
+    }
+  ]
 }
