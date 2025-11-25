@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-11-24T23:34:51.140Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-11-25T00:22:34.751Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zełenski omawia plan pokojowy po rozmowach w Genewie",
+      "link": "https://tvn24.pl/swiat/wolodymr-zelenski-o-planie-pokojowym-po-negocjacjach-w-genewie-nie-ma-juz-28-punktow-st8769605?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 21:37:14 GMT",
+      "description": "• Po rozmowach w Genewie proponowany plan pokojowy zawiera mniej niż 28 punktów.\n• Plan ten został omówiony przez prezydenta Ukrainy Wołodymyra Zełenskiego.\n• Prezydent Ukrainy Wołodymyr Zełenski planuje omówić kwestie wrażliwe z amerykańskim przywódcą Donaldem Trumpem.",
+      "originalTitle": "Zełenski o planie pokojowym: po negocjacjach w Genewie nie ma już 28 punktów",
+      "originalDescription": "Po rozmowach w Genewie proponowany plan pokojowy zawiera mniej niż 28 punktów - przekazał prezydent Ukrainy Wołodymyr Zełenski. Jak mówił, kwestie wrażliwe ma omówić z amerykańskim przywódcą Donaldem Trumpem."
+    },
+    {
+      "title": "Decyzja europosłów we wtorek",
+      "link": "https://tvn24.pl/biznes/ze-swiata/umowa-ue-mercosur-we-wtorek-decyzja-pe-w-sprawie-rozporzadzenia-st8769583?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 21:00:10 GMT",
+      "description": "We wtorek Parlament Europejski zadecyduje, czy nadać tryb pilny procedurze ratyfikacji umowy handlowej między Unią Europejską a państwami bloku Mercosur. W poniedziałek wiceminister rozwoju Michał Baranowski rozmawiał z francuskim ministrem do spraw handlu Nicolasem Forissierem na temat wspólnego stanowiska Polski i Francji wobec porozumienia.",
+      "originalTitle": "Kontrowersyjna umowa. We wtorek ważna decyzja europosłów",
+      "originalDescription": "We wtorek Parlament Europejski zadecyduje, czy nadać tryb pilny procedurze ratyfikacji umowy handlowej między Unią Europejską a państwami bloku Mercosur. W poniedziałek wiceminister rozwoju Michał Baranowski rozmawiał z francuskim ministrem do spraw handlu Nicolasem Forissierem na temat wspólnego stanowiska Polski i Francji wobec porozumienia."
+    },
+    {
+      "title": "Śnieg w Czechach powoduje utrudnienia drogowe",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/w-czechach-sypnelo-sniegiem-liczne-utrudnienia-na-drogach-st8769556?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 20:45:24 GMT",
+      "description": "W Czechach spadł śnieg. Biało zrobiło się między innymi w stolicy - Pradze. Zimowe opady doprowadziły do paraliżu komunikacyjnego w części kraju.",
+      "originalTitle": "W Czechach sypnęło śniegiem. Liczne utrudnienia na drogach",
+      "originalDescription": "W Czechach spadł śnieg. Biało zrobiło się między innymi w stolicy - Pradze. Zimowe opady doprowadziły do paraliżu komunikacyjnego w części kraju."
+    },
+    {
+      "title": "Minister komentuje projekt prezydenta",
+      "link": "https://tvn24.pl/biznes/pieniadze/zle-policzony-projekt-prezydenta-minister-komentuje-st8769569?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 20:21:33 GMT",
+      "description": "• Minister energii Miłosz Motyka skomentował projekt dotyczący cen prądu.\n• Projekt został skierowany do Sejmu przez prezydenta Karola Nawrockiego.\n• Według zapowiedzi, po wejściu w życie regulacji, gospodarstwa domowe miałyby płaci�� za energię elektryczną o 33 procent mniej.\n• Komentarz ministra energii Miłosza Motyki dotyczył projektu i brzmiał \"Jest źle policzony\".\n• Projekt dotyczy cen prądu.\n• Prezydent Karol Nawrocki skierował projekt do Sejmu w poniedziałek.",
+      "originalTitle": "\"Źle policzony\" projekt prezydenta. Minister komentuje",
+      "originalDescription": "Jest źle policzony - tak minister energii Miłosz Motyka skomentował w poniedziałek projekt dotyczący cen prądu, który prezydent Karol Nawrocki skierował do Sejmu. Według zapowiedzi po wejściu w życie regulacji gospodarstwa domowe miałyby płacić za energię elektryczną o 33 procent mniej."
+    },
+    {
+      "title": "Profesor Dudek komentuje prezydenta",
+      "link": "https://tvn24.pl/polska/profesor-dudek-w-kropce-nad-i-o-prezydencie-to-trzeba-powiedziec-jasno-i-otwarcie-st8769564?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 20:09:28 GMT",
+      "description": "• Prezydent Karol Nawrocki jest eurosceptykiem.\n• Prezydent Karol Nawrocki jest jednym z tych polityków, którzy przygotowują, świadomie lub nie, polexit.\n• Historyk i politolog profesor Antoni Dudek komentował słowa głowy państwa.\n• Profesor Antoni Dudek wypowiadał się w programie \"Kropka nad i\" w TVN24.",
+      "originalTitle": "Profesor Dudek w \"Kropce nad i\" o prezydencie: to trzeba powiedzieć jasno i otwarcie",
+      "originalDescription": "Prezydent Karol Nawrocki jest eurosceptykiem. Jest jednym z tych polityków, którzy przygotowują, świadomie lub nie, polexit - mówił w \"Kropce nad i\" w TVN24 historyk i politolog profesor Antoni Dudek, komentując słowa głowy państwa."
+    },
+    {
+      "title": "Doradca Putina skomentował plan dla Ukrainy",
+      "link": "https://tvn24.pl/swiat/doradca-putina-skomentowal-europejski-plan-dla-ukrainy-na-pierwszy-rzut-oka-st8769542?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 20:01:43 GMT",
+      "description": "Europejscy liderzy przedstawili wersję planu pokojowego, która ma lepiej zabezpieczyć interes Ukrainy i bezpieczeństwo w regionie. \"Na pierwszy rzut oka wydaje się niekonstruktywny i nie odpowiada nam\" - skomentował doradca Władimira Putina do spraw polityki zagranicznej Jurij Uszakow. Odniósł się też do amerykańskiej wersji planu.",
+      "originalTitle": "Doradca Putina skomentował europejski plan dla Ukrainy. \"Na pierwszy rzut oka\"",
+      "originalDescription": "Europejscy liderzy przedstawili wersję planu pokojowego, która ma lepiej zabezpieczyć interes Ukrainy i bezpieczeństwo w regionie. \"Na pierwszy rzut oka wydaje się niekonstruktywny i nie odpowiada nam\" - skomentował doradca Władimira Putina do spraw polityki zagranicznej Jurij Uszakow. Odniósł się też do amerykańskiej wersji planu."
+    },
+    {
+      "title": "Sekretarz handlu USA przedstawił warunki",
+      "link": "https://tvn24.pl/biznes/ze-swiata/sekretarz-handlu-usa-stawia-warunki-ue-jest-to-przedmiotem-rozmow-st8769511?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 19:50:18 GMT",
+      "description": "• Sekretarz handlu USA to Howard Lutnick.\n• Howard Lutnick wypowiedział się w poniedziałek.\n• Tematem wypowiedzi Howarda Lutnicka była kwestia ceł na stal i aluminium.\n• Waszyngton zajmie się kwestią ceł na stal i aluminium dopiero po spełnieniu pewnych warunków.\n• Warunkiem zajęcia się kwestią ceł na stal i aluminium przez Waszyngton jest wdrożenie przez Unię Europejską rekomendacji dotyczących regulacji cyfrowych.\n• Rekomendacje, o których mowa, dotyczą regulacji cyfrowych.\n• Unię Europejską dotyczą rekomendacje, które mają być wdrożone.",
+      "originalTitle": "Sekretarz handlu USA stawia warunki. \"Jest to przedmiotem rozmów\"",
+      "originalDescription": "Sekretarz handlu USA Howard Lutnick stwierdził w poniedziałek, że Waszyngton zajmie się kwestią ceł na stal i aluminium dopiero po tym, jak Unia Europejska wdroży przekazane rekomendacje dotyczące regulacji cyfrowych."
+    },
+    {
+      "title": "Michał Przedlacki otrzymał nagrodę",
+      "link": "https://tvn24.pl/polska/dziennikarz-superwizjera-tvn-michal-przedlacki-laureatem-nagrody-pap-im-ryszarda-kapuscinskiego-st8769314?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 19:09:05 GMT",
+      "description": "Michał Przedlacki z \"Superwizjera\" został laureatem nagrody Polskiej Agencji Prasowej im. Ryszarda Kapuścińskiego w kategorii wideo. Kapituła doceniła jego reportaż \"Żołnierki Ukrainy\". Z kolei wyróżnienie otrzymali Dariusz Kubik, Grzegorz Łakomski i Piotr Świerczek z \"Czarno na białym\" TVN24 za materiał \"Zespół bez roli\".",
+      "originalTitle": "Michał Przedlacki z prestiżową nagrodą. Zobacz nagrodzony reportaż",
+      "originalDescription": "Michał Przedlacki z \"Superwizjera\" został laureatem nagrody Polskiej Agencji Prasowej im. Ryszarda Kapuścińskiego w kategorii wideo. Kapituła doceniła jego reportaż \"Żołnierki Ukrainy\". Z kolei wyróżnienie otrzymali Dariusz Kubik, Grzegorz Łakomski i Piotr Świerczek z \"Czarno na białym\" TVN24 za materiał \"Zespół bez roli\"."
+    },
+    {
+      "title": "Specjalny zapis o Polsce? \"To może być pułapka\"",
+      "link": "https://tvn24.pl/polska/wojna-w-ukrainie-plan-pokojowy-specjalny-zapis-o-polsce-to-moze-byc-pulapka-st8769499?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 19:07:54 GMT",
+      "description": "Generał Mieczysław Bieniek ocenił, że punkt w planach pokojowych dla Ukrainy, dotyczący stacjonowania w Polsce myśliwców, jest \"bez sensu\" i \"niepotrzebny\". - To może być pułapka, bo myśliwce natowskie już u nas stacjonują, ale stacjonują też inne elementy infrastruktury natowskiej - zwracał uwagę w \"Faktach po Faktach\" w TVN24.",
+      "originalTitle": "Specjalny zapis o Polsce? \"To może być pułapka\"",
+      "originalDescription": "Generał Mieczysław Bieniek ocenił, że punkt w planach pokojowych dla Ukrainy, dotyczący stacjonowania w Polsce myśliwców, jest \"bez sensu\" i \"niepotrzebny\". - To może być pułapka, bo myśliwce natowskie już u nas stacjonują, ale stacjonują też inne elementy infrastruktury natowskiej - zwracał uwagę w \"Faktach po Faktach\" w TVN24."
+    },
+    {
+      "title": "Lód na drogach, zawieje i zamiecie. W mocy alarmy nawet drugiego stopnia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-gololedz-zawieje-i-zamiecie-sniezne-roztopy-ostrzezenia-imgw-w-poniedzialek-24-11-st8767196?source=rss",
+      "pubDate": "Sun, 23 Nov 2025 13:01:13 GMT",
+      "description": "IMGW wydał ostrzeżenia drugiego stopnia przed zawiejami i zamieciami śnieżnymi oraz roztopami. Obowiązują też żółte alarmy przed silnym wiatrem i marznącymi opadami. Sprawdź, gdzie należy uważać.",
+      "originalTitle": "Lód na drogach, zawieje i zamiecie. W mocy alarmy nawet drugiego stopnia",
+      "originalDescription": "IMGW wydał ostrzeżenia drugiego stopnia przed zawiejami i zamieciami śnieżnymi oraz roztopami. Obowiązują też żółte alarmy przed silnym wiatrem i marznącymi opadami. Sprawdź, gdzie należy uważać."
+    }
+  ]
 }
