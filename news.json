@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-11-28T17:36:03.077Z",
+  "lastUpdate": "2025-11-28T18:07:57.334Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kierowca ciężarówki zginął, śledztwo przeniesione",
+      "title": "Pogoda na 29.11: temperatura nocą do -10 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-29-11-noca-nawet-10-stopni-st8777081?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 18:04:09 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego.\n• Dzień jutrzejszy to sobota.\n• Data jutrzejszego dnia to 29.11.\n• Noc w części kraju będzie bardzo mroźna.\n• Termometry mogą pokazać nawet -10 stopni Celsjusza.\n• Pojawią się mgły.",
+      "originalTitle": "Pogoda na jutro - sobota, 29.11. Nocą nawet -10 stopni",
+      "originalDescription": "Pogoda na jutro, czyli sobotę 29.11. Noc w części kraju będzie bardzo mroźna, termometry mogą pokazać nawet -10 stopni Celsjusza. Pojawią się mgły."
+    },
+    {
+      "title": "Zgłoszona kradzież kota o wartości 12 tysięcy złotych",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/grojec-ukradl-kota-wartego-12-tysiecy-zlotych-zostal-zatrzymany-i-uslyszal-zarzut-zwierzak-wrocil-do-domu-st8777091?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 17:50:58 GMT",
+      "description": "W ręce policjantów wpadł 33-latek podejrzewany o kradzież kota. Kamery nagrały, jak mężczyzna wysiada z auta, zabiera kota rasy maine coon i odjeżdża.",
+      "originalTitle": "Kradzież kota wartego 12 tysięcy złotych",
+      "originalDescription": "W ręce policjantów wpadł 33-latek podejrzewany o kradzież kota. Kamery nagrały, jak mężczyzna wysiada z auta, zabiera kota rasy maine coon i odjeżdża."
+    },
+    {
+      "title": "Lekarz skazany po śmierci pacjentki",
+      "link": "https://tvn24.pl/rzeszow/jaslo-wypisal-pacjentke-kobieta-zmarla-w-domu-wyrok-dla-lekarza-st8777121?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 17:49:47 GMT",
+      "description": "• 32-letnia mieszkanka Jasła została wypisana do domu po operacji pęcherzyka żółciowego.\n• Po kilku dniach kobieta zmarła.\n• W tej sprawie skazany został lekarz.",
+      "originalTitle": "Wypisał pacjentkę, zmarła w domu. Lekarz skazany",
+      "originalDescription": "32-letnia mieszkanka Jasła została wypisana do domu po operacji pęcherzyka żółciowego i po kilku dniach zmarła. W tej sprawie skazany został lekarz."
+    },
+    {
+      "title": "Pięć podróży do Rosji, planowana szósta",
+      "link": "https://tvn24.pl/swiat/steve-witkoff-i-jego-wizyty-w-rosji-jak-opisuje-go-rosyjska-propaganda-st8772206?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 17:47:46 GMT",
+      "description": "\"Uśmiechnęli się, podali sobie ręce i wymienili kilka słów\" - tak rosyjska agencja RIA Nowosti relacjonowała początek ostatniego spotkania Władimira Putina z wysłannikiem prezydenta USA Steve'em Witkoffem. Według polityków i ekspertów w Kijowie, Witkoff, stojący za próbami stworzenia planu zakończenia wojny Rosji z Ukrainą, jest \"narzędziem\" Kremla. Duży znak zapytania wokół jego działań pojawił się w ostatnich dniach. A jak Witkoffa opisuje propaganda? Kawy słodzić już nie trzeba.",
+      "originalTitle": "W cieple propagandy. Pięć podróży do Rosji, szósta już za moment",
+      "originalDescription": "\"Uśmiechnęli się, podali sobie ręce i wymienili kilka słów\" - tak rosyjska agencja RIA Nowosti relacjonowała początek ostatniego spotkania Władimira Putina z wysłannikiem prezydenta USA Steve'em Witkoffem. Według polityków i ekspertów w Kijowie, Witkoff, stojący za próbami stworzenia planu zakończenia wojny Rosji z Ukrainą, jest \"narzędziem\" Kremla. Duży znak zapytania wokół jego działań pojawił się w ostatnich dniach. A jak Witkoffa opisuje propaganda? Kawy słodzić już nie trzeba."
+    },
+    {
+      "title": "Sikorski: Rosja popełniła kryminalny błąd",
+      "link": "https://tvn24.pl/polska/radoslaw-sikorski-rosja-popelnila-kryminalny-blad-st8777082?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 17:38:36 GMT",
+      "description": "To potwierdzenie słuszności decyzji o zamykaniu rosyjskich konsulatów - ocenił wicepremier, szef MSZ Radosław Sikorski. Skomentował w ten sposób informację o zatrzymaniu pięciu osób, które według prokuratury współpracowały z obcym wywiadem.",
+      "originalTitle": "Sikorski: Rosja popełniła kryminalny błąd",
+      "originalDescription": "To potwierdzenie słuszności decyzji o zamykaniu rosyjskich konsulatów - ocenił wicepremier, szef MSZ Radosław Sikorski. Skomentował w ten sposób informację o zatrzymaniu pięciu osób, które według prokuratury współpracowały z obcym wywiadem."
+    },
+    {
+      "title": "Duży bank ostrzega. \"Mogą wystąpić problemy z realizacją transakcji\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/banki-ostrzegaja-klientow-prace-serwisowe-w-ing-bank-slaski-mbank-nest-bank-i-toyota-bank-polska-st8776750?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 17:36:51 GMT",
+      "description": "ING Bank Śląski, mBank, Nest Bank i Toyota Bank Polska - te instytucje finansowe zapowiedziały prace serwisowe w najbliższych dniach. Klienci mogą mieć problemy w dostępie do niektórych usług.",
+      "originalTitle": "Duży bank ostrzega. \"Mogą wystąpić problemy z realizacją transakcji\"",
+      "originalDescription": "ING Bank Śląski, mBank, Nest Bank i Toyota Bank Polska - te instytucje finansowe zapowiedziały prace serwisowe w najbliższych dniach. Klienci mogą mieć problemy w dostępie do niektórych usług."
+    },
+    {
+      "title": "Kierowca ciężarówki zginął po pościgu. Śledztwo przeniesione do innego miasta",
       "link": "https://tvn24.pl/lubuskie/skwierzyna-kierowca-ciezarowki-zginal-po-poscigu-sledztwo-przeniesiono-st8777062?source=rss",
       "pubDate": "Fri, 28 Nov 2025 17:24:41 GMT",
-      "description": "• Śledztwo dotyczy nieumyślnego spowodowania śmierci obywatela Węgier.\n• Śledztwo dotyczy również niedopełnienia obowiązków przez funkcjonariuszy policji.\n• Śledztwo zostało przeniesione z Międzyrzecza do Gorzowa Wielkopolskiego.\n• Wydarzenia, które są przedmiotem śledztwa, związane są z pościgiem za kierowcą tira.\n• Pościg odbywał się na trasie S3.\n• Podczas zatrzymania kierowca wpadł pod koła ciężarówki.",
+      "description": "Śledztwo w sprawie nieumyślnego spowodowania śmierci obywatela Węgier i niedopełnienia obowiązków przez funkcjonariuszy policji zostało przeniesione z Międzyrzecza do Gorzowa Wielkopolskiego. Chodzi o wydarzenia związane z pościgiem za kierowcą tira na trasie S3, który podczas zatrzymania wpadł pod koła ciężarówki.",
       "originalTitle": "Kierowca ciężarówki zginął po pościgu. Śledztwo przeniesione do innego miasta",
       "originalDescription": "Śledztwo w sprawie nieumyślnego spowodowania śmierci obywatela Węgier i niedopełnienia obowiązków przez funkcjonariuszy policji zostało przeniesione z Międzyrzecza do Gorzowa Wielkopolskiego. Chodzi o wydarzenia związane z pościgiem za kierowcą tira na trasie S3, który podczas zatrzymania wpadł pod koła ciężarówki."
     },
     {
-      "title": "Atak niedźwiedzia na osobę",
+      "title": "Wychodził z toalety, zaatakował go niedźwiedź",
       "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-wychodzil-z-toalety-zaatakowal-go-niedzwiedz-st8776950?source=rss",
       "pubDate": "Fri, 28 Nov 2025 16:58:00 GMT",
-      "description": "• Niedźwiedź rzucił się na mężczyznę wychodzącego z publicznej toalety.\n• Publiczna toaleta, w której doszło do zdarzenia, jest położona niedaleko stacji kolejowej.\n• Zdarzenie miało miejsce w japońskiej prefekturze Gunma.\n• W ostatnim czasie w kraju dochodzi do wielu niebezpiecznych spotkań niedźwiedzi z ludźmi.",
+      "description": "Niedźwiedź rzucił się na mężczyznę wychodzącego z publicznej toalety położonej niedaleko stacji kolejowej w japońskiej prefekturze Gunma. W ostatnim czasie w kraju dochodzi do wielu niebezpiecznych spotkań tych zwierząt z ludźmi.",
       "originalTitle": "Wychodził z toalety, zaatakował go niedźwiedź",
       "originalDescription": "Niedźwiedź rzucił się na mężczyznę wychodzącego z publicznej toalety położonej niedaleko stacji kolejowej w japońskiej prefekturze Gunma. W ostatnim czasie w kraju dochodzi do wielu niebezpiecznych spotkań tych zwierząt z ludźmi."
     },
     {
-      "title": "Merkel skomentowała relacje z Polską",
+      "title": "Merkel: nie obwiniam Polski. Była kanclerz mówi o \"fake newsach\"",
       "link": "https://tvn24.pl/swiat/angela-merkel-nie-obwiniam-polski-o-wybuch-wojny-byla-kanclerz-wraca-do-kontrowersyjnego-wywiadu-st8776964?source=rss",
       "pubDate": "Fri, 28 Nov 2025 16:43:18 GMT",
-      "description": "• Zarzuty wobec Angeli Merkel, że obwinia Polskę i kraje bałtyckie o wybuch wojny w Ukrainie, pojawiły się po wywiadzie, jakiego udzieliła na początku października.\n• Wywiad został udzielony węgierskiemu kanałowi Partizan.\n• Wywiad został nagłośniony przez niemiecki dziennik \"Bild\".\n• Była kanclerz Niemiec, Angela Merkel, odnosi się do tej kwestii w nowym wywiadzie.",
+      "description": "Zarzuty wobec Angeli Merkel, że obwinia Polskę i kraje bałtyckie o wybuch wojny w Ukrainie, pojawiły się po wywiadzie, jakiego udzieliła na początku października węgierskiemu kanałowi Partizan, i po jego nagłośnieniu przez niemiecki dziennik \"Bild\". W nowym wywiadzie była kanclerz Niemiec odnosi się do tej kwestii.",
       "originalTitle": "Merkel: nie obwiniam Polski. Była kanclerz mówi o \"fake newsach\"",
       "originalDescription": "Zarzuty wobec Angeli Merkel, że obwinia Polskę i kraje bałtyckie o wybuch wojny w Ukrainie, pojawiły się po wywiadzie, jakiego udzieliła na początku października węgierskiemu kanałowi Partizan, i po jego nagłośnieniu przez niemiecki dziennik \"Bild\". W nowym wywiadzie była kanclerz Niemiec odnosi się do tej kwestii."
     },
@@ -34,54 +82,6 @@
       "description": "Awantura w autobusie komunikacji miejskiej we Wrocławiu zakończyła się niebezpiecznym incydentem. Drzwi przytrzasnęły nogę pasażera, który wcześniej kłócił się z kierowcą. Miejskie Przedsiębiorstwo Komunikacyjne opublikowało nagranie z monitoringu. Sprawą zajmuje się policja.",
       "originalTitle": "Awantura w autobusie, pasażer z nogą przytrzaśniętą w drzwiach",
       "originalDescription": "Awantura w autobusie komunikacji miejskiej we Wrocławiu zakończyła się niebezpiecznym incydentem. Drzwi przytrzasnęły nogę pasażera, który wcześniej kłócił się z kierowcą. Miejskie Przedsiębiorstwo Komunikacyjne opublikowało nagranie z monitoringu. Sprawą zajmuje się policja."
-    },
-    {
-      "title": "Było weto prezydenta. Jest nowy projekt",
-      "link": "https://tvn24.pl/biznes/z-kraju/bylo-weto-prezydenta-karola-nawrockiego-jest-nowy-projekt-resortu-energii-st8776867?source=rss",
-      "pubDate": "Fri, 28 Nov 2025 16:34:31 GMT",
-      "description": "Resort energii przedstawił nowy projekt ustawy zakładającej uproszczenie rachunków za energię elektryczną. Wcześniej ustawę, która zawierała między innymi uproszczenie rachunków za prąd, zawetował prezydent Karol Nawrocki.",
-      "originalTitle": "Było weto prezydenta. Jest nowy projekt",
-      "originalDescription": "Resort energii przedstawił nowy projekt ustawy zakładającej uproszczenie rachunków za energię elektryczną. Wcześniej ustawę, która zawierała między innymi uproszczenie rachunków za prąd, zawetował prezydent Karol Nawrocki."
-    },
-    {
-      "title": "\"Krok po kroku budował pozycję szarej eminencji\"",
-      "link": "https://tvn24.pl/swiat/andrij-jermak-krok-po-kroku-budowal-pozycje-szarej-eminencji-st8776857?source=rss",
-      "pubDate": "Fri, 28 Nov 2025 16:32:41 GMT",
-      "description": "W bezpośrednich kontaktach \"uprzejmy i opanowany\", ale w rzeczywistości - jak mówią jego krytycy - \"twardy i brutalny\". W 2024 roku amerykański tygodnik \"Time\" umieścił go na liście 100 najbardziej wpływowych ludzi na świecie. Teraz jest na celowniku służb tropiących korupcję w Ukrainie i właśnie podał się do dymisji. Mowa o bliskim współpracowniku Wołodymyra Zełenskiego, Andriju Jermaku.",
-      "originalTitle": "\"Krok po kroku budował pozycję szarej eminencji\"",
-      "originalDescription": "W bezpośrednich kontaktach \"uprzejmy i opanowany\", ale w rzeczywistości - jak mówią jego krytycy - \"twardy i brutalny\". W 2024 roku amerykański tygodnik \"Time\" umieścił go na liście 100 najbardziej wpływowych ludzi na świecie. Teraz jest na celowniku służb tropiących korupcję w Ukrainie i właśnie podał się do dymisji. Mowa o bliskim współpracowniku Wołodymyra Zełenskiego, Andriju Jermaku."
-    },
-    {
-      "title": "Ewakuują mieszkańców, 17 ulic będzie zamkniętych",
-      "link": "https://tvn24.pl/szczecin/ewakuuja-mieszkancow-17-ulic-bedzie-zamknietych-st8777040?source=rss",
-      "pubDate": "Fri, 28 Nov 2025 16:28:02 GMT",
-      "description": "Mieszkańcy budynków przy dziewięciu ulicach w Szczecinie zostaną w sobotę rano poproszeni o opuszczenie swoich domów, a siedemnaście ulic zostanie wyłaczonych z ruchu. Wszystko przez usuwanie pocisku rakietowego z czasów II wojny światowej.",
-      "originalTitle": "Ewakuują mieszkańców, 17 ulic będzie zamkniętych",
-      "originalDescription": "Mieszkańcy budynków przy dziewięciu ulicach w Szczecinie zostaną w sobotę rano poproszeni o opuszczenie swoich domów, a siedemnaście ulic zostanie wyłaczonych z ruchu. Wszystko przez usuwanie pocisku rakietowego z czasów II wojny światowej."
-    },
-    {
-      "title": "Niepłodność dotyczy milionów. WHO chce, by leczenie było dostępne dla wszystkich",
-      "link": "https://tvn24.pl/zdrowie/nieplodnosc-dotyczy-milionow-who-chce-by-leczenie-bylo-dostepne-dla-wszystkich-st8777029?source=rss",
-      "pubDate": "Fri, 28 Nov 2025 16:09:12 GMT",
-      "description": "Niepłodność dotyka jednej na sześć osób w wieku rozrodczym - podaje Światowa Organizacja Zdrowia, która opublikowała pierwsze w historii globalne wytyczne, dotyczące zapobiegania, diagnostyki i leczenia niepłodności. WHO apeluje do państw o włączenie opieki nad płodnością do systemów ochrony zdrowia, tak aby była bezpieczna, dostępna i finansowo osiągalna dla wszystkich.",
-      "originalTitle": "Niepłodność dotyczy milionów. WHO chce, by leczenie było dostępne dla wszystkich",
-      "originalDescription": "Niepłodność dotyka jednej na sześć osób w wieku rozrodczym - podaje Światowa Organizacja Zdrowia, która opublikowała pierwsze w historii globalne wytyczne, dotyczące zapobiegania, diagnostyki i leczenia niepłodności. WHO apeluje do państw o włączenie opieki nad płodnością do systemów ochrony zdrowia, tak aby była bezpieczna, dostępna i finansowo osiągalna dla wszystkich."
-    },
-    {
-      "title": "Czołowe zderzenie. Jedna osoba nie żyje",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/wyszogrod-dk50-czolowe-zdarzenie-jedna-osoba-nie-zyje-utrudnienia-st8777005?source=rss",
-      "pubDate": "Fri, 28 Nov 2025 16:04:27 GMT",
-      "description": "Jedna osoba zmarła w wyniku wypadku samochodowego, do którego doszło w piątek po południu na drodze krajowej nr 50 w okolicy Wyszogrodu. Osobowa dacia zderzyła się tam z ciężarowym volvo. Trasa jest całkowicie zablokowana. Policja wyznaczyła objazdy.",
-      "originalTitle": "Czołowe zderzenie. Jedna osoba nie żyje",
-      "originalDescription": "Jedna osoba zmarła w wyniku wypadku samochodowego, do którego doszło w piątek po południu na drodze krajowej nr 50 w okolicy Wyszogrodu. Osobowa dacia zderzyła się tam z ciężarowym volvo. Trasa jest całkowicie zablokowana. Policja wyznaczyła objazdy."
-    },
-    {
-      "title": "\"Kuźnia pogody\" pracuje. Jaką zimę wykuje dla Polski?",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-dlugoterminowa-na-zime-2025-2026-pogoda-na-boze-narodzenie-kuznia-pogody-pracuje-jaka-zime-wykuje-dla-polski-st8776056?source=rss",
-      "pubDate": "Fri, 28 Nov 2025 15:57:20 GMT",
-      "description": "Jaka będzie zima w Polsce? Odpowiedź na to pytanie może właśnie kształtować się tysiące kilometrów stąd. Oceany mają ogromny wpływ na to, czy dana pora roku okaże się ciepła i łagodna, czy też mroźna, sucha lub śnieżna. Jednym z kluczowych miejsc na pogodotwórczej mapie świata są tropikalne regiony Pacyfiku, gdzie tworzy się słynny El Nino. Zmiany temperatury wody w tym regionie mają gigantyczny wpływ na życie wielu ludzi - nie tylko tych zamieszkujących wybrzeża Oceanu Spokojnego.",
-      "originalTitle": "\"Kuźnia pogody\" pracuje. Jaką zimę wykuje dla Polski?",
-      "originalDescription": "Jaka będzie zima w Polsce? Odpowiedź na to pytanie może właśnie kształtować się tysiące kilometrów stąd. Oceany mają ogromny wpływ na to, czy dana pora roku okaże się ciepła i łagodna, czy też mroźna, sucha lub śnieżna. Jednym z kluczowych miejsc na pogodotwórczej mapie świata są tropikalne regiony Pacyfiku, gdzie tworzy się słynny El Nino. Zmiany temperatury wody w tym regionie mają gigantyczny wpływ na życie wielu ludzi - nie tylko tych zamieszkujących wybrzeża Oceanu Spokojnego."
     }
   ]
 }
