@@ -1,10 +1,50 @@
 {
-  "lastUpdate": "2025-11-29T08:07:21.128Z",
+  "lastUpdate": "2025-11-29T08:39:47.280Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Aktualizacja Airbusów powoduje opóźnienia lotów",
+      "title": "Ostrzeżenie przed gołoledzią od IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-mgly-i-opady-marznace-na-drogach-znow-ma-byc-niebezpiecznie-ostrzezenia-nawet-drugiego-stopnia-st8776436?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 05:32:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed opadami marznącymi powodującymi gołoledź.\n• W niektórych województwach obowiązują alarmy nawet drugiego stopnia.\n• Zalecane jest zachowanie szczególnej ostrożności w miejscach, gdzie obowiązują alarmy.",
+      "originalTitle": "Gołoledź na drogach i chodnikach. IMGW ostrzega",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed opadami marznącymi powodującymi gołoledź. W niektórych województwach obowiązują alarmy nawet drugiego stopnia. Sprawdź, gdzie zachować szczególną ostrożność."
+    },
+    {
+      "title": "Atak Rosji powoduje przerwy w dostawie prądu dla ponad 500 tysięcy osób",
+      "link": "https://tvn24.pl/swiat/jeden-z-najwiekszych-atakow-rosji-ponad-pol-miliona-ludzi-bez-pradu-st8777439?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 05:22:45 GMT",
+      "description": "• W sobotę nad ranem Rosja po raz kolejny zaatakowała Ukrainę.\n• Jednym z celów ataku była infrastruktura w Kijowie.\n• Był to jeden z największych ataków Rosji na stolicę Ukrainy od początku pełnoskalowego konfliktu.\n• Polskie Dowództwo Operacyjne Rodzajów Sił Zbrojnych przekazało informację o ataku.",
+      "originalTitle": "\"Jeden z największych ataków Rosji\". Ponad pół miliona ludzi bez prądu",
+      "originalDescription": "W sobotę nad ranem Rosja po raz kolejny zaatakowała Ukrainę. Jednym z celów była infrastruktura w Kijowie. \"Był to jeden z największych ataków Rosji na stolicę Ukrainy od początku pełnoskalowego konfliktu\" - przekazało polskie Dowództwo Operacyjne Rodzajów Sił Zbrojnych."
+    },
+    {
+      "title": "Ewakuacja i wywóz niewybuchu",
+      "link": "https://tvn24.pl/szczecin/szczecin-dabie-ewakuowali-mieszkancow-wywiezli-niewybuch-na-poligon-st8777040?source=rss",
+      "pubDate": "Fri, 28 Nov 2025 16:28:02 GMT",
+      "description": "• Lokatorzy budynków stojących przy kilku ulicach w Szczecinie musieli opuścić swoje mieszkania.\n• Opuścić mieszkania musieli w sobotni poranek.\n• Powodem ewakuacji było usuwanie pocisku rakietowego.\n• Pocisk rakietowy pochodził z czasów II wojny światowej.\n• Saperzy podjęli niewybuch.\n• Niewybuch został wywieziony na poligon.\n• Na poligonie niewybuch zostanie zdetonowany.",
+      "originalTitle": "Ewakuowali mieszkańców, wywieźli niewybuch na poligon",
+      "originalDescription": "Lokatorzy budynków stojących przy kilku ulicach w Szczecinie musieli w sobotni poranek opuścić swoje mieszkania. Wszystko przez usuwanie pocisku rakietowego z czasów II wojny światowej. Saperzy podjęli niewybuch i wywieźli go na poligon, gdzie zostanie zdetonowany."
+    },
+    {
+      "title": "Noc z mrozem do -15 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-17-stopni-za-nami-lodowata-noc-kilkanascie-stopni-mrozu-przy-gruncie-st8777457?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 07:30:34 GMT",
+      "description": "Minionej nocy w wielu regionach kraju ścisnął mróz. Temperatura przy gruncie spadła nawet do -17 stopni Celsjusza. W kolejnych dniach chłód zostanie całkowicie wyparty z Polski.",
+      "originalTitle": "Za nami lodowata noc. Kilkanaście stopni mrozu przy gruncie. Żegnamy zimowy epizod",
+      "originalDescription": "Minionej nocy w wielu regionach kraju ścisnął mróz. Temperatura przy gruncie spadła nawet do -17 stopni Celsjusza. W kolejnych dniach chłód zostanie całkowicie wyparty z Polski."
+    },
+    {
+      "title": "Jest zezwolenie na budowę obwodnicy Lesznowoli. Inwestycję blokował deweloper",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/mazowsze-jest-zezwolenie-na-budowe-obwodnicy-lesznowoli-inwestycje-blokowal-deweloper-st8775696?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 08:02:28 GMT",
+      "description": "Wojewoda mazowiecki wydał zezwolenie na budowę obwodnicy Lesznowoli, czyli drogi 721-bis między Piasecznem a Sękocinem Nowym. Będzie ona miała po dwa pasy ruchu w obu kierunkach i zyska połączenie z węzłem trasy S7. Jej powstanie próbował zablokować deweloper.",
+      "originalTitle": "Jest zezwolenie na budowę obwodnicy Lesznowoli. Inwestycję blokował deweloper",
+      "originalDescription": "Wojewoda mazowiecki wydał zezwolenie na budowę obwodnicy Lesznowoli, czyli drogi 721-bis między Piasecznem a Sękocinem Nowym. Będzie ona miała po dwa pasy ruchu w obu kierunkach i zyska połączenie z węzłem trasy S7. Jej powstanie próbował zablokować deweloper."
+    },
+    {
+      "title": "Airbusy wymagają aktualizacji. Linie lotnicze ogłaszają opóźnienia",
       "link": "https://tvn24.pl/swiat/airbusy-wymagaja-aktualizacji-linie-lotnicze-oglaszaja-opoznienia-st8777429?source=rss",
       "pubDate": "Sat, 29 Nov 2025 05:40:20 GMT",
       "description": "Linie lotnicze publikują oświadczenia po tym, jak Airbus zlecił zmianę oprogramowania. W Polsce takie samoloty znajdują się we flocie Wizz Air. W najnowszym komunikacie linia przekazała informację w sprawie wdrożenia aktualizacji oprogramowania.",
@@ -12,28 +52,12 @@
       "originalDescription": "Linie lotnicze publikują oświadczenia po tym, jak Airbus zlecił zmianę oprogramowania. W Polsce takie samoloty znajdują się we flocie Wizz Air. W najnowszym komunikacie linia przekazała informację w sprawie wdrożenia aktualizacji oprogramowania."
     },
     {
-      "title": "Ratownicy szukają ofiar w spalonych budynkach, liczba zatrzymanych rośnie",
+      "title": "Ratownicy wciąż szukają ciał w spalonych budynkach. Rośnie liczba zatrzymanych",
       "link": "https://tvn24.pl/swiat/pozar-osiedla-w-hongkongu-zatrzymano-kolejne-osoby-st8777475?source=rss",
       "pubDate": "Sat, 29 Nov 2025 07:37:20 GMT",
       "description": "W związku z tragicznym pożarem osiedla Wang Fuk Court w Hongkongu zatrzymano już 11 osób. Służby pożarnicze potwierdziły, że część alarmów przeciwpożarowych w budynkach była niesprawna.",
       "originalTitle": "Ratownicy wciąż szukają ciał w spalonych budynkach. Rośnie liczba zatrzymanych",
       "originalDescription": "W związku z tragicznym pożarem osiedla Wang Fuk Court w Hongkongu zatrzymano już 11 osób. Służby pożarnicze potwierdziły, że część alarmów przeciwpożarowych w budynkach była niesprawna."
-    },
-    {
-      "title": "Noc z mrozem do -15 stopni",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-17-stopni-za-nami-lodowata-noc-kilkanascie-stopni-mrozu-przy-gruncie-st8777457?source=rss",
-      "pubDate": "Sat, 29 Nov 2025 07:30:34 GMT",
-      "description": "Minionej nocy w wielu regionach kraju ścisnął mróz. Temperatura przy gruncie spadła nawet do -17 stopni Celsjusza. Sprawdź, gdzie było najzimniej.",
-      "originalTitle": "Za nami lodowata noc. Kilkanaście stopni mrozu przy gruncie",
-      "originalDescription": "Minionej nocy w wielu regionach kraju ścisnął mróz. Temperatura przy gruncie spadła nawet do -17 stopni Celsjusza. Sprawdź, gdzie było najzimniej."
-    },
-    {
-      "title": "Konflikt Rosja-Ukraina",
-      "link": "https://tvn24.pl/swiat/atak-rosji-na-ukraine-jeden-z-najwiekszych-st8777439?source=rss",
-      "pubDate": "Sat, 29 Nov 2025 05:22:45 GMT",
-      "description": "W sobotę nad ranem Rosja po raz kolejny zaatakowała Ukrainę. Jednym z celów była infrastruktura w Kijowie. \"Był to jeden z największych ataków Rosji na stolicę Ukrainy od początku pełnoskalowego konfliktu\" - przekazało polskie Dowództwo Operacyjne Rodzajów Sił Zbrojnych.",
-      "originalTitle": "Atak Rosji na Ukrainę. \"Jeden z największych\"",
-      "originalDescription": "W sobotę nad ranem Rosja po raz kolejny zaatakowała Ukrainę. Jednym z celów była infrastruktura w Kijowie. \"Był to jeden z największych ataków Rosji na stolicę Ukrainy od początku pełnoskalowego konfliktu\" - przekazało polskie Dowództwo Operacyjne Rodzajów Sił Zbrojnych."
     },
     {
       "title": "Mogą ważyć nawet 200 kilogramów, żyją coraz bliżej miast",
@@ -58,30 +82,6 @@
       "description": "Rozszerzanie diety idzie dobrze, dziecko chętnie próbuje wielu różnych produktów. Nagle - zmiana: z dnia na dzień maluch odrzuca coraz więcej dań. Choć neofobia żywieniowa, czyli niechęć do jedzenia, jest normalnym etapem w rozwoju, bywa bardzo stresująca dla rodziców. Biegają za dzieckiem z łyżeczką, zmuszają do jedzenia albo włączają bajki do posiłków. Ekspertki ostrzegają: to nie są dobre strategie. Jak oswoić kilkulatka z jedzeniem?",
       "originalTitle": "Miał 18 miesięcy, gdy nagle przestał jeść. Akceptował tylko suchy chleb i makaron",
       "originalDescription": "Rozszerzanie diety idzie dobrze, dziecko chętnie próbuje wielu różnych produktów. Nagle - zmiana: z dnia na dzień maluch odrzuca coraz więcej dań. Choć neofobia żywieniowa, czyli niechęć do jedzenia, jest normalnym etapem w rozwoju, bywa bardzo stresująca dla rodziców. Biegają za dzieckiem z łyżeczką, zmuszają do jedzenia albo włączają bajki do posiłków. Ekspertki ostrzegają: to nie są dobre strategie. Jak oswoić kilkulatka z jedzeniem?"
-    },
-    {
-      "title": "Tu warunki na drogach są trudne. Ostrzeżenia nawet drugiego stopnia",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-mgly-i-opady-marznace-na-drogach-znow-ma-byc-niebezpiecznie-ostrzezenia-nawet-drugiego-stopnia-st8776436?source=rss",
-      "pubDate": "Sat, 29 Nov 2025 05:32:00 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego i drugiego stopnia. W wielu województwach obowiązują alarmy przed opadami marznącymi - miejscami drugiego stopnia. W części kraju zagrożeniem są mgły. Sprawdź, gdzie uważać.",
-      "originalTitle": "Tu warunki na drogach są trudne. Ostrzeżenia nawet drugiego stopnia",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego i drugiego stopnia. W wielu województwach obowiązują alarmy przed opadami marznącymi - miejscami drugiego stopnia. W części kraju zagrożeniem są mgły. Sprawdź, gdzie uważać."
-    },
-    {
-      "title": "Eksplozje na dwóch tankowcach rosyjskiej floty cieni na Morzu Czarnym",
-      "link": "https://tvn24.pl/swiat/turcja-rzad-eksplozje-na-dwoch-tankowcach-rosyjskiej-floty-cieni-na-morzu-czarnym-st8777418?source=rss",
-      "pubDate": "Sat, 29 Nov 2025 05:15:44 GMT",
-      "description": "W pobliżu cieśniny Bosfor doszło do eksplozji na dwóch tankowcach tak zwanej rosyjskiej floty cieni - poinformował resort transportu Turcji. Obie jednostki płynęły pod banderą Gambii.",
-      "originalTitle": "Eksplozje na dwóch tankowcach rosyjskiej floty cieni na Morzu Czarnym",
-      "originalDescription": "W pobliżu cieśniny Bosfor doszło do eksplozji na dwóch tankowcach tak zwanej rosyjskiej floty cieni - poinformował resort transportu Turcji. Obie jednostki płynęły pod banderą Gambii."
-    },
-    {
-      "title": "Ukraińska delegacja \"wyrusza do USA na rozmowy w sprawie planu pokojowego\"",
-      "link": "https://tvn24.pl/swiat/ukraina-delegacja-wyrusza-do-usa-na-rozmowy-w-sprawie-planu-pokojowego-st8777425?source=rss",
-      "pubDate": "Sat, 29 Nov 2025 05:07:07 GMT",
-      "description": "Agencja Bloomberga, powołując się na swoje źródło, poinformowała, że ukraińska delegacja udaje się do Stanów Zjednoczonych, aby rozmawiać między innymi z wysłannikiem Donalda Trumpa, Stevem Witkoffem na temat planu pokojowego.",
-      "originalTitle": "Ukraińska delegacja \"wyrusza do USA na rozmowy w sprawie planu pokojowego\"",
-      "originalDescription": "Agencja Bloomberga, powołując się na swoje źródło, poinformowała, że ukraińska delegacja udaje się do Stanów Zjednoczonych, aby rozmawiać między innymi z wysłannikiem Donalda Trumpa, Stevem Witkoffem na temat planu pokojowego."
     }
   ]
 }
