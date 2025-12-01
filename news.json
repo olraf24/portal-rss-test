@@ -1,10 +1,34 @@
 {
-  "lastUpdate": "2025-12-01T08:44:15.367Z",
+  "lastUpdate": "2025-12-01T09:09:50.561Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Serial Przesmyk nagrodzony na festiwalu",
+      "title": "Dane o polskiej gospodarce",
+      "link": "https://tvn24.pl/biznes/z-kraju/wzrost-pkb-w-trzecim-kwartale-2025-polska-gospodarka-mocno-w-gore-dane-gus-st8779511?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 09:00:57 GMT",
+      "description": "• Produkt Krajowy Brutto w trzecim kwartale 2025 roku wzrósł o 3,8 procent rok do roku.\n• Wzrost PKB w trzecim kwartale porównano do wzrostu w drugim kwartale.\n• W drugim kwartale wzrost PKB wyniósł 3,3 procent.\n• Główny Urząd Statystyczny podał informacje o wzroście PKB w trzecim kwartale.\n• Wcześniej GUS podawał, że PKB wzrósł w trzecim kwartale o 3,7 procent.\n• Informacje o wzroście PKB w trzecim kwartale pochodzą z szybkiego szacunku GUS.",
+      "originalTitle": "Polska gospodarka mocno w górę. Najnowsze dane",
+      "originalDescription": "Produkt Krajowy Brutto w trzecim kwartale 2025 roku wzrósł o 3,8 procent rok do roku w porównaniu do wzrostu o 3,3 procent w drugim kwartale - podał Główny Urząd Statystyczny. Wcześniej w szybkim szacunku GUS podawał, że PKB wzrósł w trzecim kwartale o 3,7 procent."
+    },
+    {
+      "title": "Decyzja ws przestrzeni powietrznej nad granicą",
+      "link": "https://tvn24.pl/bialystok/jest-decyzja-w-sprawie-przestrzeni-powietrznej-nad-granica-z-ukraina-i-bialorusia-st8779535?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 08:59:18 GMT",
+      "description": "• Polska Agencja Żeglugi Powietrznej przedłużyła ograniczenia w swobodnym korzystaniu z części polskiej przestrzeni powietrznej.\n• Ograniczenia zostały przedłużone do 9 marca 2026 roku.\n• Ograniczenia dotyczą części polskiej przestrzeni powietrznej wzdłuż granicy z Ukrainą.\n• Ograniczenia dotyczą części polskiej przestrzeni powietrznej wzdłuż granicy z Białorusią.\n• Przedłużenie ograniczeń nastąpiło na wniosek Dowództwa Operacyjnego Rodzajów Sił Zbrojnych.",
+      "originalTitle": "Jest decyzja w sprawie przestrzeni powietrznej nad granicą z Ukrainą i Białorusią",
+      "originalDescription": "Polska Agencja Żeglugi Powietrznej przedłużyła do 9 marca 2026 roku ograniczenia w swobodnym korzystaniu z części polskiej przestrzeni powietrznej wzdłuż granicy z Ukrainą i Białorusią. Jak czytamy w wydanym komunikacie, nastąpiło to na wniosek Dowództwa Operacyjnego Rodzajów Sił Zbrojnych."
+    },
+    {
+      "title": "Władze wprowadzają środki przeciw wirusowi",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hiszpania-afrykanski-pomor-swin-powrocil-po-30-latach-wladze-wezwaly-na-pomoc-wojsko-st8779354?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 08:56:06 GMT",
+      "description": "W Hiszpanii po ponad 30 latach potwierdzono przypadki afrykańskiego pomoru świń. Kraj, który jest jednym z największych producentów wieprzowiny na świecie, stara się zapobiec rozprzestrzenianiu się wirusa. Pomóc ma w tym wojsko.",
+      "originalTitle": "Wirus powrócił po 30 latach. Władze wezwały na pomoc wojsko",
+      "originalDescription": "W Hiszpanii po ponad 30 latach potwierdzono przypadki afrykańskiego pomoru świń. Kraj, który jest jednym z największych producentów wieprzowiny na świecie, stara się zapobiec rozprzestrzenianiu się wirusa. Pomóc ma w tym wojsko."
+    },
+    {
+      "title": "Serial \"Przesmyk\" doceniony na międzynarodowym festiwalu",
       "link": "https://tvn24.pl/kultura-i-styl/serial-przesmyk-doceniony-na-serialcon-st8779460?source=rss",
       "pubDate": "Mon, 01 Dec 2025 08:28:35 GMT",
       "description": "Serial \"Przesmyk\" został doceniony w dwóch kategoriach przez jury festiwalu BNP Paribas Warsaw SerialCon. Nagrodę odebrała miedzy innymi odtwórczyni głównej roli - aktorka Lena Góra.",
@@ -12,7 +36,7 @@
       "originalDescription": "Serial \"Przesmyk\" został doceniony w dwóch kategoriach przez jury festiwalu BNP Paribas Warsaw SerialCon. Nagrodę odebrała miedzy innymi odtwórczyni głównej roli - aktorka Lena Góra."
     },
     {
-      "title": "Ostrzeżenie IMGW dotyczące warunków drogowych",
+      "title": "Trudne warunki na drogach. IMGW ostrzega",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-30-11-1-12-opady-marznace-niebezpieczna-pogoda-w-kilku-wojewodztwach-st8778825?source=rss",
       "pubDate": "Mon, 01 Dec 2025 05:25:00 GMT",
       "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed groźną pogodą. W części kraju zagrożenie dla kierowców stanowi marznący deszcz. Sprawdź, gdzie uważać.",
@@ -20,18 +44,18 @@
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed groźną pogodą. W części kraju zagrożenie dla kierowców stanowi marznący deszcz. Sprawdź, gdzie uważać."
     },
     {
-      "title": "RCB: prognoza złej jakości powietrza",
+      "title": "Alert RCB. \"Prognozowana jest zła jakość powietrza\"",
       "link": "https://tvn24.pl/tvnmeteo/smog/smog-alert-rcb-1-12-prognozowana-jest-zla-jakosc-powietrza-st8779446?source=rss",
       "pubDate": "Mon, 01 Dec 2025 08:10:45 GMT",
-      "description": "• Rządowe Centrum Bezpieczeństwa ostrzega alertem RCB przed złą jakością powietrza w wyniku smogu.\n• Ostrzeżenia zostały wysłane w formie SMS-owych ostrzeżeń.\n• Ostrzeżenia otrzymały osoby przebywające na terenie jednego z powiatów.\n• Powiat, na terenie którego zostały wysłane ostrzeżenia, znajduje się na południu Polski.",
+      "description": "Rządowe Centrum Bezpieczeństwa ostrzega alertem RCB przed złą jakością powietrza w wyniku smogu. SMS-owe ostrzeżenia otrzymały osoby przebywające na terenie jednego z powiatów na południu Polski.",
       "originalTitle": "Alert RCB. \"Prognozowana jest zła jakość powietrza\"",
       "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega alertem RCB przed złą jakością powietrza w wyniku smogu. SMS-owe ostrzeżenia otrzymały osoby przebywające na terenie jednego z powiatów na południu Polski."
     },
     {
-      "title": "Pożar w hali garażowej uszkodził auta",
+      "title": "Pożar w hali garażowej, spłonęło kilka aut",
       "link": "https://tvn24.pl/trojmiasto/gdynia-witomino-pozar-w-hali-garazowej-splonelo-kilka-aut-st8779478?source=rss",
       "pubDate": "Mon, 01 Dec 2025 08:09:56 GMT",
-      "description": "• W nocy w hali garażowej na gdyńskim Witominie wybuchł pożar.\n• Spłonęło kilka aut.\n• Kilkanaście aut zostało uszkodzonych.\n• Część instalacji elektrycznej została uszkodzona.",
+      "description": "W nocy w hali garażowej na gdyńskim Witominie wybuchł pożar. Spłonęło kilka aut, a kilkanaście i część instalacji elektrycznej zostało uszkodzonych.",
       "originalTitle": "Pożar w hali garażowej, spłonęło kilka aut",
       "originalDescription": "W nocy w hali garażowej na gdyńskim Witominie wybuchł pożar. Spłonęło kilka aut, a kilkanaście i część instalacji elektrycznej zostało uszkodzonych."
     },
@@ -58,30 +82,6 @@
       "description": "Policjanci z Koła (Wielkopolskie) zatrzymali 34-latka, który bił swoją partnerkę. Jak ustalili, zmuszał ją też do prostytucji. \"To było jego jedyne źródło utrzymania\" - dodają.",
       "originalTitle": "Bił partnerkę i \"zmuszał ją do prostytucji\"",
       "originalDescription": "Policjanci z Koła (Wielkopolskie) zatrzymali 34-latka, który bił swoją partnerkę. Jak ustalili, zmuszał ją też do prostytucji. \"To było jego jedyne źródło utrzymania\" - dodają."
-    },
-    {
-      "title": "Uderzył w drzewo. Kierowca pijany, pasażer nie żyje",
-      "link": "https://tvn24.pl/rzeszow/rzeszow-smiertelny-wypadek-na-langiewicza-kierowca-byl-pijany-st8779463?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:52:40 GMT",
-      "description": "Kierowca stracił panowanie nad samochodem i uderzył w drzewo. On i jeden z pasażerów trafili do szpitala, trzeci z mężczyzn zginął na miejscu.",
-      "originalTitle": "Uderzył w drzewo. Kierowca pijany, pasażer nie żyje",
-      "originalDescription": "Kierowca stracił panowanie nad samochodem i uderzył w drzewo. On i jeden z pasażerów trafili do szpitala, trzeci z mężczyzn zginął na miejscu."
-    },
-    {
-      "title": "Czołowe zderzenie, nie żyje jeden z kierowców",
-      "link": "https://tvn24.pl/lodz/borowiny-woj-lodzkie-czolowe-zderzenie-dwoch-samochodow-nie-zyje-40-latek-st8779430?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:26:22 GMT",
-      "description": "Policja wyjaśnia okoliczności tragicznego wypadku, do którego doszło w poniedziałek rano w miejscowości Borowiny pod Bełchatowem. Zderzyły się tam czołowo dwa samochody osobowe, kierowca jednego z nich zginął na miejscu.",
-      "originalTitle": "Czołowe zderzenie, nie żyje jeden z kierowców",
-      "originalDescription": "Policja wyjaśnia okoliczności tragicznego wypadku, do którego doszło w poniedziałek rano w miejscowości Borowiny pod Bełchatowem. Zderzyły się tam czołowo dwa samochody osobowe, kierowca jednego z nich zginął na miejscu."
-    },
-    {
-      "title": "Ogromne utrudnienia po zderzeniu na moście",
-      "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-ogromne-utrudnienia-po-zderzeniu-na-moscie-poludniowym-st8779417?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:24:00 GMT",
-      "description": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator miał około 10 kilometrów.",
-      "originalTitle": "Ogromne utrudnienia po zderzeniu na moście",
-      "originalDescription": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator miał około 10 kilometrów."
     }
   ]
 }
