@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-12-01T15:06:27.673Z",
+  "lastUpdate": "2025-12-01T15:37:50.348Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Skręcony magnes dla szybszej elektroniki",
+      "link": "https://dzienniknaukowy.pl/skrecony-magnes-dla-szybszej-elektroniki",
+      "pubDate": "Mon, 01 Dec 2025 15:10:41 +0000",
+      "description": "Metaliczny „skręcony” magnes przewodzi prąd łatwiej w jednych kierunkach niż w innych i daje silny sygnał do jego odczytu bez zewnętrznego pola. To szansa dla spintroniki. Przełomu dokonał międzynarodowy zespół z udziałem dr inż. Kamila Kolincio z Politechniki Gdańskiej."
+    },
     {
       "title": "Na Politechnice Białostockiej opracowano nowatorski system szalunkowy",
       "link": "https://dzienniknaukowy.pl/na-politechnice-bialostockiej-opracowano-nowatorski-system-szalunkowy",
       "pubDate": "Mon, 01 Dec 2025 14:53:13 +0000",
       "description": "Nowatorski system szalunkowy do wykonywania stropów żelbetowych w budynkach wielopiętrowych to dzieło naukowców z Politechniki Białostockiej. Chroniony patentem i prawami ochronnymi wynalazek zaprojektowali i przetestowali na placach budowy dr hab. inż. Mirosław Broniewicz, prof. PB i dr inż. Filip Broniewicz."
+    },
+    {
+      "title": "Jak skutecznie pozbyć się pluskiew i karaluchów",
+      "link": "https://dzienniknaukowy.pl/jak-skutecznie-pozbyc-sie-pluskiew-i-karaluchow",
+      "pubDate": "Mon, 01 Dec 2025 12:13:00 +0000",
+      "description": "Zmaganie się z pluskwami i karaluchami to problem, z którym wiele osób boryka się na co dzień. Te uciążliwe insekty mogą wprowadzić chaos do życia domowego, a ich obecność jest nie tylko nieestetyczna, ale także niebezpieczna dla zdrowia"
     },
     {
       "title": "Dziura ozonowa &#8211; co się z nią stało?",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/polscy-inzynierowie-w-misji-badawczej-wenus",
       "pubDate": "Wed, 26 Nov 2025 14:10:39 +0000",
       "description": "Polski zespół opracuje mechanizmy odporne na ekstremalne warunki kosmiczne dla misji Envision – pierwszej sondy badawczej Wenus, która oprócz atmosfery zbada też powierzchnię i wnętrze planety."
-    },
-    {
-      "title": "Imbir z Wielkopolski? Naukowcy chcą stworzyć pierwszą polską odmianę tej rośliny",
-      "link": "https://dzienniknaukowy.pl/imbir-z-wielkopolski-naukowcy-chca-stworzyc-pierwsza-polska-odmiane-tej-rosliny",
-      "pubDate": "Tue, 25 Nov 2025 15:53:27 +0000",
-      "description": "Egzotyczny imbir coraz bliżej polskich pól. Naukowcy z Uniwersytetu Przyrodniczego w Poznaniu udowodnili, że roślina, która od wieków kojarzy się z tropikalnym klimatem Azji, potrafi z powodzeniem rosnąć w naszym kraju."
-    },
-    {
-      "title": "Udany start polskiej rakiety suborbitalnej PERUN",
-      "link": "https://dzienniknaukowy.pl/udany-start-polskiej-rakiety-suborbitalnej-perun",
-      "pubDate": "Tue, 25 Nov 2025 15:42:32 +0000",
-      "description": "W sobotę polska firma SpaceForest przeprowadziła udany start suborbitalnej rakiety PERUN z Centralnego Poligonu Sił Powietrznych w Ustce. Na pokładzie znalazły się m.in. ładunki badawcze z całej Polski. Był to trzeci lot testowy tej rakiety."
     }
   ]
 }
