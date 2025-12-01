@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-12-01T07:08:29.809Z",
+  "lastUpdate": "2025-12-01T07:38:09.905Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Ziobro straci paszport",
+      "title": "Wypadek drogowy, jeden kierowca zmarł",
+      "link": "https://tvn24.pl/lodz/borowiny-woj-lodzkie-czolowe-zderzenie-dwoch-samochodow-nie-zyje-40-latek-st8779430?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 07:26:22 GMT",
+      "description": "• Policja wyjaśnia okoliczności tragicznego wypadku.\n• Wypadek miał miejsce w poniedziałek rano.\n• Miejsce wypadku to miejscowość Borowiny.\n• Borowiny położone są pod Bełchatowem.\n• Doszło do zderzenia czołowego dwóch samochodów osobowych.\n• Kierowca jednego z samochodów zginął na miejscu.",
+      "originalTitle": "Czołowe zderzenie, nie żyje jeden z kierowców",
+      "originalDescription": "Policja wyjaśnia okoliczności tragicznego wypadku, do którego doszło w poniedziałek rano w miejscowości Borowiny pod Bełchatowem. Zderzyły się tam czołowo dwa samochody osobowe, kierowca jednego z nich zginął na miejscu."
+    },
+    {
+      "title": "Wypadek na moście powoduje utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-ogromne-utrudnienia-po-zderzeniu-na-moscie-poludniowym-st8779417?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 07:24:00 GMT",
+      "description": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator ma około 10 kilometrów.",
+      "originalTitle": "Ogromne utrudnienia po zderzeniu na moście",
+      "originalDescription": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator ma około 10 kilometrów."
+    },
+    {
+      "title": "Decyzja urzędu ws Biedronki",
+      "link": "https://tvn24.pl/biznes/handel/duza-kara-dla-biedronki-jest-decyzja-uokik-st8779409?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 07:13:51 GMT",
+      "description": "• Prezes Urzędu Ochrony Konkurencji i Konsumentów (UOKiK) nałożył na właściciela Biedronki karę.\n• Właścicielem Biedronki jest spółka Jeronimo Martins Polska.\n• Wysokość nałożonej kary to blisko 105 milionów złotych.\n• Przyczyną nałożonej kary było wprowadzanie klientów w błąd.\n• Klienci byli wprowadzani w błąd podczas dwóch akcji promocyjnych.\n• Urząd Ochrony Konkurencji i Konsumentów (UOKiK) przekazał informację o karze w komunikacie.\n• W komunikacie urzędu znalazła się wypowiedź, że \"Obietnica była prosta, a konsumenci zaskoczeni, gdy po zakupach dowiadywali się o zasadach i limitach\".",
+      "originalTitle": "Duża kara dla Biedronki. Jest decyzja urzędu",
+      "originalDescription": "Prezes Urzędu Ochrony Konkurencji i Konsumentów (UOKiK) nałożył na właściciela Biedronki, spółkę Jeronimo Martins Polska, karę blisko 105 milionów złotych. Sieć miała wprowadzać klientów w błąd podczas dwóch akcji promocyjnych. \"Obietnica była prosta, a konsumenci zaskoczeni, gdy po zakupach dowiadywali się o zasadach i limitach\" - przekazał urząd w komunikacie."
+    },
+    {
+      "title": "Szef MSWiA: partia Brauna na granicy delegalizacji",
+      "link": "https://tvn24.pl/polska/marcin-kierwinski-powiedzial-ze-konfederacja-korony-polskiej-grzegorza-brauna-jest-na-granicy-zdelegalizowania-st8779353?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 07:10:06 GMT",
+      "description": "Jeszcze kilka różnego rodzaju wyskoków pana Brauna i opowieści jego ludzi na zasadzie wspierania Putina i wtedy granica zostanie przekroczona - zapowiedział w \"Rozmowie Piaseckiego\" szef MSWiA Marcin Kierwiński. Odpowiedział też na słowa prezydenckiego rzecznika w sprawie odznaczeń dla funkcjonariuszy służb specjalnych.",
+      "originalTitle": "Szef MSWiA: partia Brauna na granicy delegalizacji",
+      "originalDescription": "Jeszcze kilka różnego rodzaju wyskoków pana Brauna i opowieści jego ludzi na zasadzie wspierania Putina i wtedy granica zostanie przekroczona - zapowiedział w \"Rozmowie Piaseckiego\" szef MSWiA Marcin Kierwiński. Odpowiedział też na słowa prezydenckiego rzecznika w sprawie odznaczeń dla funkcjonariuszy służb specjalnych."
+    },
+    {
+      "title": "Świąteczne metro, tramwaj i autobus ruszyły na trasy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-swiateczne-metro-tramwaj-i-autobus-ruszyly-na-trasy-st8779359?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 07:09:32 GMT",
+      "description": "Świąteczny pociąg metra rozpoczął kursowanie na linii M2. Na trasy wyjechały także tramwaj i autobus w bożonarodzeniowej odsłonie.",
+      "originalTitle": "Świąteczne metro, tramwaj i autobus ruszyły na trasy",
+      "originalDescription": "Świąteczny pociąg metra rozpoczął kursowanie na linii M2. Na trasy wyjechały także tramwaj i autobus w bożonarodzeniowej odsłonie."
+    },
+    {
+      "title": "Marszałek chce zlikwidować dwie szkoły. Kształci się w nich 469 osób. Na sejmiku może być gorąco",
+      "link": "https://tvn24.pl/lublin/lublin-marszalek-chce-zlikwidowac-dwie-szkoly-ksztalci-sie-w-nich-469-osob-st8773424?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 07:04:44 GMT",
+      "description": "\"Stop likwidacji szkoły\", \"Ręce precz od SPPSS\"- z takimi transparentami na najbliższą sesję sejmiku przyjdą nauczyciele i słuchacze Kolegium Pracowników Służb Społecznych oraz Szkoły Policealnej Pracowników Służb Społecznych w Lublinie. Zarząd województwa chce te szkoły zlikwidować, a kształcą one bezpłatnie między innymi opiekunów medycznych czy terapeutów zajęciowych.",
+      "originalTitle": "Marszałek chce zlikwidować dwie szkoły. Kształci się w nich 469 osób. Na sejmiku może być gorąco",
+      "originalDescription": "\"Stop likwidacji szkoły\", \"Ręce precz od SPPSS\"- z takimi transparentami na najbliższą sesję sejmiku przyjdą nauczyciele i słuchacze Kolegium Pracowników Służb Społecznych oraz Szkoły Policealnej Pracowników Służb Społecznych w Lublinie. Zarząd województwa chce te szkoły zlikwidować, a kształcą one bezpłatnie między innymi opiekunów medycznych czy terapeutów zajęciowych."
+    },
+    {
+      "title": "Ziobro \"w ciągu kilkunastu dni nie będzie miał paszportu\"",
       "link": "https://tvn24.pl/polska/szef-mswia-marcin-kierwinski-zbigniew-ziobro-w-ciagu-kilkunastu-dni-nie-bedzie-mial-paszportu-st8779352?source=rss",
       "pubDate": "Mon, 01 Dec 2025 06:57:39 GMT",
-      "description": "• Zbigniewowi Ziobrze do końca roku zostanie odebrany paszport\n• Poinformował o tym szef MSWiA Marcin Kierwiński\n• Informacja została podana w programie \"Rozmowa Piaseckiego\"\n• Program \"Rozmowa Piaseckiego\" jest emitowany w TVN24",
+      "description": "To kwestia kilkunastu najbliższych dni, kiedy ta decyzja będzie - powiedział w \"Rozmowie Piaseckiego\" w TVN24 szef MSWiA Marcin Kierwiński, odnosząc się do toczącej się procedury dotyczącej odebrania paszportu Zbigniewowi Ziobrze.",
       "originalTitle": "Ziobro \"w ciągu kilkunastu dni nie będzie miał paszportu\"",
-      "originalDescription": "Zbigniewowi Ziobrze do końca roku zostanie odebrany paszport - poinformował w \"Rozmowie Piaseckiego\" w TVN24 szef MSWiA Marcin Kierwiński."
+      "originalDescription": "To kwestia kilkunastu najbliższych dni, kiedy ta decyzja będzie - powiedział w \"Rozmowie Piaseckiego\" w TVN24 szef MSWiA Marcin Kierwiński, odnosząc się do toczącej się procedury dotyczącej odebrania paszportu Zbigniewowi Ziobrze."
     },
     {
-      "title": "Kobieta uratowała dziecko podczas pożaru",
+      "title": "Pożar odciął jej drogę ucieczki. \"Nie puściła dziecka, mimo że nie było jej własnym\"",
       "link": "https://tvn24.pl/swiat/pozar-w-hongkongu-przez-kilka-godzin-tulila-niemowle-w-mokrym-kocu-dzieki-temu-przezylo-st8779325?source=rss",
       "pubDate": "Mon, 01 Dec 2025 06:53:15 GMT",
-      "description": "• Filipinka pracowała jako pomoc domowa w Hongkongu.\n• Przez kilka godzin otulała kocem trzymiesięczne dziecko.\n• Dziecko zostało uratowane dzięki jej działaniom.\n• Pożar wybuchł w wieżowcu.\n• Kobieta z niemowlęciem została uwięziona w zadymionym pomieszczeniu.",
-      "originalTitle": "Pożar odciął jej drogę ucieczki. \"Nie puściła dziecka, mimo, że nie było jej własnym\"",
-      "originalDescription": "Filipinka pracująca jako pomoc domowa w Hongkongu, przez kilka godzin otulała kocem trzymiesięczne dziecko. W ten sposób uratowała dziecku życie po tym, jak w wieżowcu wybuchł pożar i kobieta z niemowlęciem została uwięziona w zadymionym pomieszczeniu."
+      "description": "Filipinka, pracująca jako pomoc domowa w Hongkongu, przez kilka godzin otulała kocem trzymiesięczne dziecko. W ten sposób uratowała dziecku życie po tym, jak w wieżowcu wybuchł pożar i kobieta z niemowlęciem została uwięziona w zadymionym pomieszczeniu.",
+      "originalTitle": "Pożar odciął jej drogę ucieczki. \"Nie puściła dziecka, mimo że nie było jej własnym\"",
+      "originalDescription": "Filipinka, pracująca jako pomoc domowa w Hongkongu, przez kilka godzin otulała kocem trzymiesięczne dziecko. W ten sposób uratowała dziecku życie po tym, jak w wieżowcu wybuchł pożar i kobieta z niemowlęciem została uwięziona w zadymionym pomieszczeniu."
     },
     {
-      "title": "Ryzyko katastrofy związane z opóźnionym zapłonem",
+      "title": "Bomba z opóźnionym zapłonem. \"To może oznaczać katastrofę\"",
       "link": "https://tvn24.pl/biznes/z-kraju/etat-zamiast-b2b-bomba-z-opoznionym-zaplonem-to-moze-oznaczac-katastrofe-st8779361?source=rss",
       "pubDate": "Mon, 01 Dec 2025 06:53:11 GMT",
       "description": "Projektowana reforma Państwowej Inspekcji Pracy może wstrząsnąć polską branżą IT. Uprawnienia do przekształcania umów w etaty budzi ogromne obawy wśród firm technologicznych - informuje w poniedziałkowym wydaniu \"Dziennik Gazeta Prawna\". Zdaniem ekspertów zmiany mogą doprowadzić do odpływu specjalistów za granicę oraz strat dla budżetu państwa.",
@@ -34,54 +82,6 @@
       "description": "Tankowiec, który płynął z ropą naftową załadowaną w rosyjskim porcie, nabiera wody u wybrzeża Senegalu. Władze afrykańskiego kraju starają się zapobiec ewentualnemu wyciekowi ropy.",
       "originalTitle": "Woda zalała maszynownię tankowca. Służby próbują zapobiec wyciekowi ropy",
       "originalDescription": "Tankowiec, który płynął z ropą naftową załadowaną w rosyjskim porcie, nabiera wody u wybrzeża Senegalu. Władze afrykańskiego kraju starają się zapobiec ewentualnemu wyciekowi ropy."
-    },
-    {
-      "title": "To robi wrażenie na Europie. Wartość polskich spółek ostro w górę",
-      "link": "https://tvn24.pl/biznes/z-kraju/gielda-2025-wig-w-gore-o-ponad-40-procent-za-nami-bardzo-dobre-trzy-lata-st8779342?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 05:57:24 GMT",
-      "description": "Wyceny czołowych polskich spółek notowanych na warszawskiej giełdzie zaczynają robić wrażenie w Europie – pisze w poniedziałek \"Rzeczpospolita\". Jak zauważa, trwająca od ponad trzech lat hossa na warszawskiej giełdzie wywindowała wyceny wielu spółek do nienotowanych nigdy wcześniej poziomów.",
-      "originalTitle": "To robi wrażenie na Europie. Wartość polskich spółek ostro w górę",
-      "originalDescription": "Wyceny czołowych polskich spółek notowanych na warszawskiej giełdzie zaczynają robić wrażenie w Europie – pisze w poniedziałek \"Rzeczpospolita\". Jak zauważa, trwająca od ponad trzech lat hossa na warszawskiej giełdzie wywindowała wyceny wielu spółek do nienotowanych nigdy wcześniej poziomów."
-    },
-    {
-      "title": "Kilkunastogodzinny paraliż lotniska w Wilnie",
-      "link": "https://tvn24.pl/swiat/litwa-wilno-kilkunastogodzinny-paraliz-lotniska-st8779197?source=rss",
-      "pubDate": "Sun, 30 Nov 2025 17:09:33 GMT",
-      "description": "Lotnisko w Wilnie na blisko 11 godzin zawiesiło wszystkie operacje po wykryciu podejrzanych balonów w litewskiej przestrzeni powietrznej. To kolejny taki incydent w ostatnim czasie.",
-      "originalTitle": "Kilkunastogodzinny paraliż lotniska w Wilnie",
-      "originalDescription": "Lotnisko w Wilnie na blisko 11 godzin zawiesiło wszystkie operacje po wykryciu podejrzanych balonów w litewskiej przestrzeni powietrznej. To kolejny taki incydent w ostatnim czasie."
-    },
-    {
-      "title": "Szef dyplomacji Ukrainy o decyzji Nawrockiego",
-      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-nie-spotka-sie-z-viktorem-orbanem-szef-msz-ukrainy-komentuje-st8779316?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 05:46:01 GMT",
-      "description": "Minister spraw zagranicznych Ukrainy Andrij Sybiha odniósł się do decyzji o korekcie planu wizyty prezydenta Karola Nawrockiego na Węgrzech, podkreślając, że pokazuje ona \"zasadnicze stanowisko Polski i jej silne poczucie solidarności\".",
-      "originalTitle": "Szef dyplomacji Ukrainy o decyzji Nawrockiego",
-      "originalDescription": "Minister spraw zagranicznych Ukrainy Andrij Sybiha odniósł się do decyzji o korekcie planu wizyty prezydenta Karola Nawrockiego na Węgrzech, podkreślając, że pokazuje ona \"zasadnicze stanowisko Polski i jej silne poczucie solidarności\"."
-    },
-    {
-      "title": "Piesi \"polubili\" nową \"zebrę\". Będzie więcej pasów w centrum",
-      "link": "https://tvn24.pl/tvnwarszawa/najnowsze/warszawa-beda-kolejne-naziemne-przejscia-dla-pieszych-w-centrum-st8778741?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 05:35:47 GMT",
-      "description": "Centrum ma stać się wygodniejsze dla pieszych. Po otwarciu naziemnej \"zebry\" i przejazdu rowerowego przez Marszałkowską w rejonie Złotej, teraz pora na kolejne. Na profilu facebookowym dedykowanym projektowi \"Nowe Centrum Warszawy\" urzędnicy podali lokalizacje, w których pojawią się następne przejścia dla pieszych.",
-      "originalTitle": "Piesi \"polubili\" nową \"zebrę\". Będzie więcej pasów w centrum",
-      "originalDescription": "Centrum ma stać się wygodniejsze dla pieszych. Po otwarciu naziemnej \"zebry\" i przejazdu rowerowego przez Marszałkowską w rejonie Złotej, teraz pora na kolejne. Na profilu facebookowym dedykowanym projektowi \"Nowe Centrum Warszawy\" urzędnicy podali lokalizacje, w których pojawią się następne przejścia dla pieszych."
-    },
-    {
-      "title": "Zamknęli 20 tysięcy szkół. Po masowych porwaniach",
-      "link": "https://tvn24.pl/swiat/nigeria-zamkneli-20-tysiecy-szkol-po-masowych-porwaniach-st8779329?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 05:30:59 GMT",
-      "description": "W Nigerii po masowym uprowadzeniu ponad 300 dzieci i nauczycieli zamknięto blisko 20,5 tysiąca szkół - podała organizacja Amnesty International. W listopadzie uzbrojeni bandyci zaatakowali szkołę katolicką w Papiri. Za zaginione uważa się wciąż około 250 osób.",
-      "originalTitle": "Zamknęli 20 tysięcy szkół. Po masowych porwaniach",
-      "originalDescription": "W Nigerii po masowym uprowadzeniu ponad 300 dzieci i nauczycieli zamknięto blisko 20,5 tysiąca szkół - podała organizacja Amnesty International. W listopadzie uzbrojeni bandyci zaatakowali szkołę katolicką w Papiri. Za zaginione uważa się wciąż około 250 osób."
-    },
-    {
-      "title": "Tu rano trzeba uważać na drogach",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-30-11-1-12-gesta-mgla-niebezpieczna-pogoda-w-wielu-wojewodztwach-st8778825?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 05:25:00 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed zagrożeniami pogodowymi. W wielu województwach panuje gęsta mgła, która znacznie ogranicza widzialność. Ponadto w części kraju pada marznący deszcz. Sprawdź, gdzie mieć się na baczności.",
-      "originalTitle": "Tu rano trzeba uważać na drogach",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed zagrożeniami pogodowymi. W wielu województwach panuje gęsta mgła, która znacznie ogranicza widzialność. Ponadto w części kraju pada marznący deszcz. Sprawdź, gdzie mieć się na baczności."
     }
   ]
 }
