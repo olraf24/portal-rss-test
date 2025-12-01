@@ -1,18 +1,50 @@
 {
-  "lastUpdate": "2025-12-01T08:09:14.341Z",
+  "lastUpdate": "2025-12-01T08:44:15.367Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wniosek o Europejski Nakaz Aresztowania",
-      "link": "https://tvn24.pl/polska/jest-wniosek-o-europejski-nakaz-aresztowania-dla-dywersantow-st8779497?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 08:06:57 GMT",
-      "description": "• Prokurator złożył do Sądu Okręgowego w Warszawie wniosek o wydanie Europejskiego Nakazu Aresztowania.\n• Wniosek dotyczy osób podejrzanych o dokonanie aktów dywersji na infrastrukturę kolejową.\n• Podejrzanymi są Jewhenij Iwanow i Ołeksandr Kononow.\n• Rzecznikiem Prokuratury Krajowej, który poinformował o wniosku, jest prokurator Przemysław Nowak.",
-      "originalTitle": "Jest wniosek o Europejski Nakaz Aresztowania dla dywersantów",
-      "originalDescription": "Prokurator złożył do Sądu Okręgowego w Warszawie wniosek o wydanie Europejskiego Nakazu Aresztowania wobec Jewhenija Iwanowa i Ołeksandra Kononowa, podejrzanych o dokonanie aktów dywersji na infrastrukturę kolejową - poinformował rzecznik Prokuratury Krajowej prokurator Przemysław Nowak."
+      "title": "Serial Przesmyk nagrodzony na festiwalu",
+      "link": "https://tvn24.pl/kultura-i-styl/serial-przesmyk-doceniony-na-serialcon-st8779460?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 08:28:35 GMT",
+      "description": "Serial \"Przesmyk\" został doceniony w dwóch kategoriach przez jury festiwalu BNP Paribas Warsaw SerialCon. Nagrodę odebrała miedzy innymi odtwórczyni głównej roli - aktorka Lena Góra.",
+      "originalTitle": "Serial \"Przesmyk\" doceniony na międzynarodowym festiwalu",
+      "originalDescription": "Serial \"Przesmyk\" został doceniony w dwóch kategoriach przez jury festiwalu BNP Paribas Warsaw SerialCon. Nagrodę odebrała miedzy innymi odtwórczyni głównej roli - aktorka Lena Góra."
     },
     {
-      "title": "Awaria torowiska tramwajowego na Mokotowie",
+      "title": "Ostrzeżenie IMGW dotyczące warunków drogowych",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-30-11-1-12-opady-marznace-niebezpieczna-pogoda-w-kilku-wojewodztwach-st8778825?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 05:25:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed groźną pogodą. W części kraju zagrożenie dla kierowców stanowi marznący deszcz. Sprawdź, gdzie uważać.",
+      "originalTitle": "Trudne warunki na drogach. IMGW ostrzega",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed groźną pogodą. W części kraju zagrożenie dla kierowców stanowi marznący deszcz. Sprawdź, gdzie uważać."
+    },
+    {
+      "title": "RCB: prognoza złej jakości powietrza",
+      "link": "https://tvn24.pl/tvnmeteo/smog/smog-alert-rcb-1-12-prognozowana-jest-zla-jakosc-powietrza-st8779446?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 08:10:45 GMT",
+      "description": "• Rządowe Centrum Bezpieczeństwa ostrzega alertem RCB przed złą jakością powietrza w wyniku smogu.\n• Ostrzeżenia zostały wysłane w formie SMS-owych ostrzeżeń.\n• Ostrzeżenia otrzymały osoby przebywające na terenie jednego z powiatów.\n• Powiat, na terenie którego zostały wysłane ostrzeżenia, znajduje się na południu Polski.",
+      "originalTitle": "Alert RCB. \"Prognozowana jest zła jakość powietrza\"",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega alertem RCB przed złą jakością powietrza w wyniku smogu. SMS-owe ostrzeżenia otrzymały osoby przebywające na terenie jednego z powiatów na południu Polski."
+    },
+    {
+      "title": "Pożar w hali garażowej uszkodził auta",
+      "link": "https://tvn24.pl/trojmiasto/gdynia-witomino-pozar-w-hali-garazowej-splonelo-kilka-aut-st8779478?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 08:09:56 GMT",
+      "description": "• W nocy w hali garażowej na gdyńskim Witominie wybuchł pożar.\n• Spłonęło kilka aut.\n• Kilkanaście aut zostało uszkodzonych.\n• Część instalacji elektrycznej została uszkodzona.",
+      "originalTitle": "Pożar w hali garażowej, spłonęło kilka aut",
+      "originalDescription": "W nocy w hali garażowej na gdyńskim Witominie wybuchł pożar. Spłonęło kilka aut, a kilkanaście i część instalacji elektrycznej zostało uszkodzonych."
+    },
+    {
+      "title": "Jest wniosek o Europejski Nakaz Aresztowania dywersantów",
+      "link": "https://tvn24.pl/polska/jest-wniosek-o-europejski-nakaz-aresztowania-dywersantow-st8779497?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 08:06:57 GMT",
+      "description": "Jest wniosek o wydanie Europejskiego Nakazu Aresztowania wobec Jewhenija Iwanowa i Ołeksandra Kononowa, podejrzanych o dokonanie aktów dywersji na infrastrukturę kolejową. Wcześniej za Ukraińcami wydano listy gończe.",
+      "originalTitle": "Jest wniosek o Europejski Nakaz Aresztowania dywersantów",
+      "originalDescription": "Jest wniosek o wydanie Europejskiego Nakazu Aresztowania wobec Jewhenija Iwanowa i Ołeksandra Kononowa, podejrzanych o dokonanie aktów dywersji na infrastrukturę kolejową. Wcześniej za Ukraińcami wydano listy gończe."
+    },
+    {
+      "title": "Woda podmyła torowisko na Mokotowie. Tramwaje zwalniają",
       "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-woda-podmyla-torowisko-na-mokotowie-tramwaje-musza-ograniczyc-predkosc-st8779385?source=rss",
       "pubDate": "Mon, 01 Dec 2025 08:06:05 GMT",
       "description": "Torowisko w alei Niepodległości zostało podmyte w wyniku awarii ciepłowniczej. Składy zwalniają z tego powodu do 20 kilometrów na godzinę. Tramwajarze zapowiadają, że konieczna jest wymiana kilkudziesięciu metrów torów. Prace będą prowadzone w godzinach nocnych.",
@@ -20,12 +52,12 @@
       "originalDescription": "Torowisko w alei Niepodległości zostało podmyte w wyniku awarii ciepłowniczej. Składy zwalniają z tego powodu do 20 kilometrów na godzinę. Tramwajarze zapowiadają, że konieczna jest wymiana kilkudziesięciu metrów torów. Prace będą prowadzone w godzinach nocnych."
     },
     {
-      "title": "Mężczyzna oskarżony o bicie i wykorzystywanie",
-      "link": "https://tvn24.pl/poznan/kolo-bil-partnerka-i-zmuszal-ja-do-prostytucji-st8779468?source=rss",
+      "title": "Bił partnerkę i \"zmuszał ją do prostytucji\"",
+      "link": "https://tvn24.pl/poznan/kolo-bil-partnerke-i-zmuszal-ja-do-prostytucji-st8779468?source=rss",
       "pubDate": "Mon, 01 Dec 2025 08:00:30 GMT",
-      "description": "• Policjanci z Koła (Wielkopolskie) zatrzymali 34-latka.\n• 34-latek bił swoją partnerkę.\n• 34-latek zmuszał swoją partnerkę do prostytucji.\n• Prostytucja była jego jedyne źródło utrzymania.",
-      "originalTitle": "Bił partnerką i \"zmuszał ją do prostytucji\"",
-      "originalDescription": "Policjanci z Koła (Wielkopolskie) zatrzymali 34-latka, który bił swoją partnerkę. Jak ustalili zmuszał ją też do prostytucji. \"To był jego jedyne źródło utrzymania\" - dodają."
+      "description": "Policjanci z Koła (Wielkopolskie) zatrzymali 34-latka, który bił swoją partnerkę. Jak ustalili, zmuszał ją też do prostytucji. \"To było jego jedyne źródło utrzymania\" - dodają.",
+      "originalTitle": "Bił partnerkę i \"zmuszał ją do prostytucji\"",
+      "originalDescription": "Policjanci z Koła (Wielkopolskie) zatrzymali 34-latka, który bił swoją partnerkę. Jak ustalili, zmuszał ją też do prostytucji. \"To było jego jedyne źródło utrzymania\" - dodają."
     },
     {
       "title": "Uderzył w drzewo. Kierowca pijany, pasażer nie żyje",
@@ -47,41 +79,9 @@
       "title": "Ogromne utrudnienia po zderzeniu na moście",
       "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-ogromne-utrudnienia-po-zderzeniu-na-moscie-poludniowym-st8779417?source=rss",
       "pubDate": "Mon, 01 Dec 2025 07:24:00 GMT",
-      "description": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator ma około 10 kilometrów.",
+      "description": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator miał około 10 kilometrów.",
       "originalTitle": "Ogromne utrudnienia po zderzeniu na moście",
-      "originalDescription": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator ma około 10 kilometrów."
-    },
-    {
-      "title": "Duża kara dla Biedronki. Jest decyzja urzędu",
-      "link": "https://tvn24.pl/biznes/handel/duza-kara-dla-biedronki-jest-decyzja-uokik-st8779409?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:13:51 GMT",
-      "description": "Prezes Urzędu Ochrony Konkurencji i Konsumentów (UOKiK) nałożył na właściciela Biedronki, spółkę Jeronimo Martins Polska, karę blisko 105 milionów złotych. Sieć miała wprowadzać klientów w błąd podczas dwóch akcji promocyjnych. \"Obietnica była prosta, a konsumenci zaskoczeni, gdy po zakupach dowiadywali się o zasadach i limitach\" - przekazał urząd w komunikacie. Decyzja o karze jest nieprawomocna.",
-      "originalTitle": "Duża kara dla Biedronki. Jest decyzja urzędu",
-      "originalDescription": "Prezes Urzędu Ochrony Konkurencji i Konsumentów (UOKiK) nałożył na właściciela Biedronki, spółkę Jeronimo Martins Polska, karę blisko 105 milionów złotych. Sieć miała wprowadzać klientów w błąd podczas dwóch akcji promocyjnych. \"Obietnica była prosta, a konsumenci zaskoczeni, gdy po zakupach dowiadywali się o zasadach i limitach\" - przekazał urząd w komunikacie. Decyzja o karze jest nieprawomocna."
-    },
-    {
-      "title": "Szef MSWiA: partia Brauna na granicy delegalizacji",
-      "link": "https://tvn24.pl/polska/marcin-kierwinski-powiedzial-ze-konfederacja-korony-polskiej-grzegorza-brauna-jest-na-granicy-zdelegalizowania-st8779353?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:10:06 GMT",
-      "description": "Jeszcze kilka różnego rodzaju wyskoków pana Brauna i opowieści jego ludzi na zasadzie wspierania Putina i wtedy granica zostanie przekroczona - zapowiedział w \"Rozmowie Piaseckiego\" szef MSWiA Marcin Kierwiński. Odpowiedział też na słowa prezydenckiego rzecznika w sprawie odznaczeń dla funkcjonariuszy służb specjalnych.",
-      "originalTitle": "Szef MSWiA: partia Brauna na granicy delegalizacji",
-      "originalDescription": "Jeszcze kilka różnego rodzaju wyskoków pana Brauna i opowieści jego ludzi na zasadzie wspierania Putina i wtedy granica zostanie przekroczona - zapowiedział w \"Rozmowie Piaseckiego\" szef MSWiA Marcin Kierwiński. Odpowiedział też na słowa prezydenckiego rzecznika w sprawie odznaczeń dla funkcjonariuszy służb specjalnych."
-    },
-    {
-      "title": "Świąteczne metro, tramwaj i autobus ruszyły na trasy",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-swiateczne-metro-tramwaj-i-autobus-ruszyly-na-trasy-st8779359?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:09:32 GMT",
-      "description": "Świąteczny pociąg metra rozpoczął kursowanie na linii M2. Na trasy wyjechały także tramwaj i autobus w bożonarodzeniowej odsłonie.",
-      "originalTitle": "Świąteczne metro, tramwaj i autobus ruszyły na trasy",
-      "originalDescription": "Świąteczny pociąg metra rozpoczął kursowanie na linii M2. Na trasy wyjechały także tramwaj i autobus w bożonarodzeniowej odsłonie."
-    },
-    {
-      "title": "Marszałek chce zlikwidować dwie szkoły. Kształci się w nich 469 osób. Na sejmiku może być gorąco",
-      "link": "https://tvn24.pl/lublin/lublin-marszalek-chce-zlikwidowac-dwie-szkoly-ksztalci-sie-w-nich-469-osob-st8773424?source=rss",
-      "pubDate": "Mon, 01 Dec 2025 07:04:44 GMT",
-      "description": "\"Stop likwidacji szkoły\", \"Ręce precz od SPPSS\"- z takimi transparentami na najbliższą sesję sejmiku przyjdą nauczyciele i słuchacze Kolegium Pracowników Służb Społecznych oraz Szkoły Policealnej Pracowników Służb Społecznych w Lublinie. Zarząd województwa chce te szkoły zlikwidować, a kształcą one bezpłatnie między innymi opiekunów medycznych czy terapeutów zajęciowych.",
-      "originalTitle": "Marszałek chce zlikwidować dwie szkoły. Kształci się w nich 469 osób. Na sejmiku może być gorąco",
-      "originalDescription": "\"Stop likwidacji szkoły\", \"Ręce precz od SPPSS\"- z takimi transparentami na najbliższą sesję sejmiku przyjdą nauczyciele i słuchacze Kolegium Pracowników Służb Społecznych oraz Szkoły Policealnej Pracowników Służb Społecznych w Lublinie. Zarząd województwa chce te szkoły zlikwidować, a kształcą one bezpłatnie między innymi opiekunów medycznych czy terapeutów zajęciowych."
+      "originalDescription": "Na moście Południowym doszło do kolizji dwóch pojazdów. Kierowcy jadący w kierunku Poznania utknęli w ogromnym korku. Zator miał około 10 kilometrów."
     }
   ]
 }
