@@ -1,45 +1,77 @@
 {
-  "lastUpdate": "2025-12-02T17:39:59.123Z",
+  "lastUpdate": "2025-12-02T18:09:20.973Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pogoda na środę: mróz i mgły",
+      "title": "Mężczyzna usłyszał zarzuty znęcania się nad psami",
+      "link": "https://tvn24.pl/wroclaw/legnica-dwa-psy-glodzone-w-mieszkaniu-opiekun-uslyszal-zarzuty-st8782450?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:54:44 GMT",
+      "description": "• Zarzuty znęcania się nad dwoma psami usłyszał 36-latek.\n• Mężczyzna pochodzi z Legnicy.\n• Miał głodzić zwierzęta.\n• Mężczyzna opiekował się suczkami.\n• Zwierzęta należały do jego kolegi.\n• Kolega mężczyzny trafił do więzienia.",
+      "originalTitle": "Miał opiekować się psami skazanego kolegi. Usłyszał zarzuty znęcania się",
+      "originalDescription": "Zarzuty znęcania się nad dwoma psami usłyszał 36-latek z Legnicy, który miał głodzić zwierzęta. Mężczyzna opiekował się suczkami kolegi, który trafił do więzienia."
+    },
+    {
+      "title": "Wypadek drogowy, śmierć kierowcy, rusza proces",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/tarczyn-wjechali-w-drzewo-jedna-osoba-zginela-ruszyl-proces-st8781288?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:54:20 GMT",
+      "description": "• W Wólce Jeżewskiej niedaleko Warszawy doszło do wypadku drogowego.\n• Samochód, którym podróżowało czterech młodych mężczyzn, uderzył w drzewo.\n• Trzech z podróżujących mężczyzn było pijanych.\n• W wyniku poniesionych obrażeń zmarł 29-letni Przemek.\n• Ruszył proces kierowcy.\n• Kierowcy grozi do 20 lat więzienia.",
+      "originalTitle": "\"To auto wbiło się niemal w drzewo\", Przemek zginął. Ruszył proces",
+      "originalDescription": "W Wólce Jeżewskiej niedaleko Warszawy samochód, którym podróżowało czterech młodych mężczyzn, uderzył w drzewo. Trzech z nich było pijanych. W wyniku poniesionych obrażeń zmarł 29-letni Przemek. Ruszył proces kierowcy. Grozi mu do 20 lat więzienia."
+    },
+    {
+      "title": "Stanowisko Putina wobec Europy i Ukrainy",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-klamstwa-i-proby-straszenia-europy-przez-wladimira-putina-st8782424?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:48:28 GMT",
+      "description": "Władimir Putin wysunął we wtorek kłamstwa i groźby pod adresem Europy. Mówił między innymi, że \"jeśli Europa zapragnie walczyć\" z Rosją, to Moskwa \"jest gotowa choćby zaraz\". Wygłosił też fałszywą tezę na temat sytuacji na linii frontu. Jak zaznaczył korespondent \"Faktów\" TVN Andrzej Zaucha, Putin \"próbuje zastraszyć Europę i Ukrainę\". Ocenił też, że wobec trudnej sytuacji rosyjskiej gospodarki prezydent \"śpieszy się\" i \"myśli o tym, jak skończyć wojnę na własnych warunkach\".",
+      "originalTitle": "Putin \"próbuje zastraszyć Europę i Ukrainę\"",
+      "originalDescription": "Władimir Putin wysunął we wtorek kłamstwa i groźby pod adresem Europy. Mówił między innymi, że \"jeśli Europa zapragnie walczyć\" z Rosją, to Moskwa \"jest gotowa choćby zaraz\". Wygłosił też fałszywą tezę na temat sytuacji na linii frontu. Jak zaznaczył korespondent \"Faktów\" TVN Andrzej Zaucha, Putin \"próbuje zastraszyć Europę i Ukrainę\". Ocenił też, że wobec trudnej sytuacji rosyjskiej gospodarki prezydent \"śpieszy się\" i \"myśli o tym, jak skończyć wojnę na własnych warunkach\"."
+    },
+    {
+      "title": "Przekazują miliardy na konta dzieci",
+      "link": "https://tvn24.pl/biznes/ze-swiata/przekazuja-miliardy-na-konta-trumpa-dla-milionow-dzieci-st8782369?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:46:20 GMT",
+      "description": "Michael i Susan Dell przekazują darowiznę w wysokości 6,25 miliarda dolarów na konta inwestycyjne dla co najmniej 25 milionów amerykańskich dzieci. Ta ogromna kwota pójdzie na \"konta Trumpa\" zarządzane przez rodziców w imieniu ich dzieci.",
+      "originalTitle": "Przekazują miliardy na \"konta Trumpa\" dla milionów dzieci",
+      "originalDescription": "Michael i Susan Dell przekazują darowiznę w wysokości 6,25 miliarda dolarów na konta inwestycyjne dla co najmniej 25 milionów amerykańskich dzieci. Ta ogromna kwota pójdzie na \"konta Trumpa\" zarządzane przez rodziców w imieniu ich dzieci."
+    },
+    {
+      "title": "Pogoda na jutro - środa, 3.12. Nocą ściśnie mróz, pojawią się też mgły",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-3-12-noca-scisnie-mroz-pojawia-sie-tez-mgly-st8782477?source=rss",
       "pubDate": "Tue, 02 Dec 2025 17:29:05 GMT",
-      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli środy.\n• Data tego dnia to 3.12.\n• W nocy temperatura w części kraju spadnie poniżej zera.\n• W nocy pojawią się mgły.\n• Dzień zapowiada się pochmurnie.\n• Mo��liwe są lokalne przejaśnienia.",
+      "description": "Pogoda na jutro, czyli na środę, 3.12. W nocy temperatura w części kraju spadnie poniżej zera, pojawią się też mgły. Dzień zapowiada się pochmurnie, lokalnie możliwe są przejaśnienia.",
       "originalTitle": "Pogoda na jutro - środa, 3.12. Nocą ściśnie mróz, pojawią się też mgły",
       "originalDescription": "Pogoda na jutro, czyli na środę, 3.12. W nocy temperatura w części kraju spadnie poniżej zera, pojawią się też mgły. Dzień zapowiada się pochmurnie, lokalnie możliwe są przejaśnienia."
     },
     {
-      "title": "Decyzja prezydenta komentowana przez polityków",
+      "title": "\"Ręce opadają\", \"płakać się chce\". Politycy o decyzji prezydenta",
       "link": "https://tvn24.pl/polska/weto-w-sprawie-ustawy-lancuchowej-komentarze-politykow-st8782210?source=rss",
       "pubDate": "Tue, 02 Dec 2025 15:27:16 GMT",
-      "description": "• Premier Donald Tusk zamieścił w mediach społecznych dwa wpisy, odnoszące się do decyzji prezydenta Karola Nawrockiego o zawetowaniu tak zwanej ustawy łańcuchowej.\n• W jednym z wpisów szef rządu napisał: \"To już nie jest polityka, to zwykła podłość\".\n• Sprawę komentowali także inni politycy koalicji rządzącej.\n• Wicemarszałkini Senatu Magdalena Biejat skomentowała sprawę, mówiąc: \"Nie jestem zaskoczona, ale jestem głęboko zasmucona\".",
+      "description": "Premier Donald Tusk zamieścił w mediach społecznych dwa wpisy, odnoszące się do decyzji prezydenta Karola Nawrockiego o zawetowaniu tak zwanej ustawy łańcuchowej. \"To już nie jest polityka, to zwykła podłość\" - napisał w jednym z nich szef rządu. Sprawę komentowali także inni politycy koalicji rządzącej. - Nie jestem zaskoczona, ale jestem głęboko zasmucona - mówiła wicemarszałkini Senatu Magdalena Biejat.",
       "originalTitle": "\"Ręce opadają\", \"płakać się chce\". Politycy o decyzji prezydenta",
       "originalDescription": "Premier Donald Tusk zamieścił w mediach społecznych dwa wpisy, odnoszące się do decyzji prezydenta Karola Nawrockiego o zawetowaniu tak zwanej ustawy łańcuchowej. \"To już nie jest polityka, to zwykła podłość\" - napisał w jednym z nich szef rządu. Sprawę komentowali także inni politycy koalicji rządzącej. - Nie jestem zaskoczona, ale jestem głęboko zasmucona - mówiła wicemarszałkini Senatu Magdalena Biejat."
     },
     {
-      "title": "Polska 2050 proponuje regulację najmu krótkoterminowego",
+      "title": "Polska 2050 chce uregulować najem krótkoterminowy. \"Samowolka to nie jest wolność\"",
       "link": "https://tvn24.pl/biznes/nieruchomosci/projekt-ustawy-o-najmie-krotkoterminowym-trafi-do-sejmu-za-sasiadow-maja-nie-stalych-mieszkancow-ale-hotelowe-pokoje-st8782426?source=rss",
       "pubDate": "Tue, 02 Dec 2025 17:15:31 GMT",
-      "description": "• Spółdzielnie, wspólnoty mieszkaniowe oraz lokalne samorządy miałyby otrzymać prawo do decydowania, czy na ich terenie można prowadzić najem krótkoterminowy.\n• Projekt ustawy przewiduje takie rozwiązanie.\n• Projekt ustawy został przygotowany przez posłów Polski 2050.\n• Projekt ustawy ma zostać skierowany do Sejmu.\n• Obecnie brak przepisów regulujących kwestię najmu krótkoterminowego.",
+      "description": "Spółdzielnie, wspólnoty mieszkaniowe oraz lokalne samorządy miałyby otrzymać prawo do decydowania, czy na ich terenie można prowadzić najem krótkoterminowy. Takie rozwiązanie przewiduje projekt ustawy przygotowany przez posłów Polski 2050, który ma zostać skierowany do Sejmu. Obecnie brak przepisów regulujących tę kwestię.",
       "originalTitle": "Polska 2050 chce uregulować najem krótkoterminowy. \"Samowolka to nie jest wolność\"",
       "originalDescription": "Spółdzielnie, wspólnoty mieszkaniowe oraz lokalne samorządy miałyby otrzymać prawo do decydowania, czy na ich terenie można prowadzić najem krótkoterminowy. Takie rozwiązanie przewiduje projekt ustawy przygotowany przez posłów Polski 2050, który ma zostać skierowany do Sejmu. Obecnie brak przepisów regulujących tę kwestię."
     },
     {
-      "title": "Sikorski przedstawił propozycję Nawrockiemu",
+      "title": "Sikorski proponował Nawrockiemu rozwiązanie. Pokazał treść listu",
       "link": "https://tvn24.pl/polska/spor-o-ambasadorow-radoslaw-sikorski-zaproponowal-karolowi-nawrockiemu-kompromisowe-rozwiazanie-st8782482?source=rss",
       "pubDate": "Tue, 02 Dec 2025 17:06:18 GMT",
-      "description": "• Radosław Sikorski szukał porozumienia z Karolem Nawrockim w sprawie wyboru kandydatów na ambasadorów.\n• Informacja o tym wynika z listu, który minister spraw zagranicznych opublikował w serwisie X.\n• W liście Radosław Sikorski opisał swoją propozycję dla prezydenta.",
+      "description": "Radosław Sikorski szukał porozumienia z Karolem Nawrockim w sprawie wyboru kandydatów na ambasadorów - wynika z listu, który minister spraw zagranicznych opublikował w serwisie X. Opisał w nim swoją propozycję dla prezydenta.",
       "originalTitle": "Sikorski proponował Nawrockiemu rozwiązanie. Pokazał treść listu",
       "originalDescription": "Radosław Sikorski szukał porozumienia z Karolem Nawrockim w sprawie wyboru kandydatów na ambasadorów - wynika z listu, który minister spraw zagranicznych opublikował w serwisie X. Opisał w nim swoją propozycję dla prezydenta."
     },
     {
-      "title": "Wypadek drogowy: bus i ciężarówka, 1 ofiara śmiertelna",
+      "title": "Bus zderzył się z ciężarówką. Nie żyje 28-latek",
       "link": "https://tvn24.pl/krakow/nowy-wisnicz-tragiczny-wypadek-busa-i-ciezarowki-nie-zyje-28-latek-st8782480?source=rss",
       "pubDate": "Tue, 02 Dec 2025 17:06:08 GMT",
-      "description": "• Tragiczny wypadek busa i samochodu ciężarowego miał miejsce w Nowym Wiśniczu.\n• Nowy Wiśnicz znajduje się niedaleko Bochni.\n• Bochnia jest położona w Małopolsce.\n• W wyniku wypadku zginął 28-letni mężczyzna.\n• Dwóch innych uczestników wypadku trafiło do szpitala.",
+      "description": "Tragiczny wypadek busa i samochodu ciężarowego w Nowym Wiśniczu niedaleko Bochni (Małopolska). Zginął 28-letni mężczyzna, a dwie inne osoby trafiły do szpitala.",
       "originalTitle": "Bus zderzył się z ciężarówką. Nie żyje 28-latek",
       "originalDescription": "Tragiczny wypadek busa i samochodu ciężarowego w Nowym Wiśniczu niedaleko Bochni (Małopolska). Zginął 28-letni mężczyzna, a dwie inne osoby trafiły do szpitala."
     },
@@ -50,38 +82,6 @@
       "description": "Specjalny wysłannik prezydenta USA Steve Witkoff spotkał się na Kremlu z prezydentem Rosji Władimirem Putinem. Na rozmowach pojawili się też specjalny wysłannik rosyjskiego prezydenta Kiryłł Dmitrijew oraz Jared Kushner, zięć amerykańskiego przywódcy. Rozmowy dotyczą amerykańskiej propozycji planu pokojowego dla Ukrainy.",
       "originalTitle": "Amerykańska delegacja u Putina",
       "originalDescription": "Specjalny wysłannik prezydenta USA Steve Witkoff spotkał się na Kremlu z prezydentem Rosji Władimirem Putinem. Na rozmowach pojawili się też specjalny wysłannik rosyjskiego prezydenta Kiryłł Dmitrijew oraz Jared Kushner, zięć amerykańskiego przywódcy. Rozmowy dotyczą amerykańskiej propozycji planu pokojowego dla Ukrainy."
-    },
-    {
-      "title": "Prezydent powołał radę ds. polityki ludnościowej",
-      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-powolal-rade-rodziny-i-demografii-eksperci-maja-wspierac-w-walce-z-kryzysem-demograficznym-st8782362?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 16:42:35 GMT",
-      "description": "Prezydent Karol Nawrocki powołał we wtorek Radę Rodziny i Demografii, w skład której weszły 24 osoby - poinformowała Kancelaria Prezydenta RP. Na czele nowo utworzonego gremium stanęła była wiceminister rodziny, pracy i polityki społecznej Barbara Socha. Do zadań rady należeć będzie między innymi prowadzenie strategicznej debaty oraz analiza polityki prorodzinnej i demograficznej Polski.",
-      "originalTitle": "Mają walczyć z niżem demograficznym. Prezydent powołał nową radę",
-      "originalDescription": "Prezydent Karol Nawrocki powołał we wtorek Radę Rodziny i Demografii, w skład której weszły 24 osoby - poinformowała Kancelaria Prezydenta RP. Na czele nowo utworzonego gremium stanęła była wiceminister rodziny, pracy i polityki społecznej Barbara Socha. Do zadań rady należeć będzie między innymi prowadzenie strategicznej debaty oraz analiza polityki prorodzinnej i demograficznej Polski."
-    },
-    {
-      "title": "Debata \"Bogactwo\". Oglądaj w środę w TVN24+",
-      "link": "https://tvn24.pl/polska/debata-bogactwo-ogladaj-w-srode-w-tvn24-st8782422?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 16:42:14 GMT",
-      "description": "W trakcie debaty w TVN24+ zaproszeni goście będą dyskutować o bogactwie i tym, czy najzamożniejsi mogą, chcą i powinni przyczynić się do eliminacji nierówności społecznych. Oglądaj w środę o godzinie 15.",
-      "originalTitle": "Debata \"Bogactwo\". Oglądaj w środę w TVN24+",
-      "originalDescription": "W trakcie debaty w TVN24+ zaproszeni goście będą dyskutować o bogactwie i tym, czy najzamożniejsi mogą, chcą i powinni przyczynić się do eliminacji nierówności społecznych. Oglądaj w środę o godzinie 15."
-    },
-    {
-      "title": "Dała się namówić na inwestycję, trafiła na oszusta. Straciła 400 tysięcy zł",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-zaciagnela-kredyty-liczac-na-zysk-z-inwestycji-zostala-oszukana-st8782423?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 16:38:00 GMT",
-      "description": "Mieszkanka Ostrołęki dała się namówić na inwestycję w złoto. Miała ona przynieść łatwy i szybki zysk. Kobieta, by wpłacić pieniądze, zaciągnęła kredyty. Okazało się, że \"doradca\" był oszustem. Kobieta straciła 420 tysięcy złotych.",
-      "originalTitle": "Dała się namówić na inwestycję, trafiła na oszusta. Straciła 400 tysięcy zł",
-      "originalDescription": "Mieszkanka Ostrołęki dała się namówić na inwestycję w złoto. Miała ona przynieść łatwy i szybki zysk. Kobieta, by wpłacić pieniądze, zaciągnęła kredyty. Okazało się, że \"doradca\" był oszustem. Kobieta straciła 420 tysięcy złotych."
-    },
-    {
-      "title": "Sąd skazał kierowcę za wypadek, w którym zginęła polska pływaczka",
-      "link": "https://tvn24.pl/olsztyn/olsztyn-sad-skazal-kierowce-za-wypadek-w-ktorym-zginela-polska-plywaczka-st8782437?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 16:37:36 GMT",
-      "description": "Sąd Rejonowy w Olsztynie skazał Jacka D. na rok więzienia w zawieszeniu za spowodowanie wypadku, w którym zginęła utytułowana pływaczka Justyna Burska. Mężczyzna otrzymał też trzyletni zakaz prowadzenia pojazdów i musi zapłacić 15 tys. zł na rzecz rodziny ofiary. Wyrok jest nieprawomocny.",
-      "originalTitle": "Sąd skazał kierowcę za wypadek, w którym zginęła polska pływaczka",
-      "originalDescription": "Sąd Rejonowy w Olsztynie skazał Jacka D. na rok więzienia w zawieszeniu za spowodowanie wypadku, w którym zginęła utytułowana pływaczka Justyna Burska. Mężczyzna otrzymał też trzyletni zakaz prowadzenia pojazdów i musi zapłacić 15 tys. zł na rzecz rodziny ofiary. Wyrok jest nieprawomocny."
     }
   ]
 }
