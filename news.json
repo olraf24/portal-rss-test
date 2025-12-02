@@ -1,21 +1,61 @@
 {
-  "lastUpdate": "2025-12-02T07:07:57.731Z",
+  "lastUpdate": "2025-12-02T07:37:26.581Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Oświadczenie marszałka Sejmu ws lista",
+      "title": "Prognozy stóp procentowych w Polsce",
+      "link": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-co-zrobi-rpp-prognoza-st8781211?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 07:35:07 GMT",
+      "description": "• Rada Polityki Pieniężnej obniży stopy procentowe o 25 punktów bazowych w trakcie posiedzenia, które rozpoczyna się we wtorek.\n• Kolejna obniżka może nastąpić już w styczniu.\n• Ekonomistą, który ocenił możliwość kolejnej obniżki, jest Adam Antoniak.\n• Adam Antoniak jest związany z ING Banku Śląskiego.",
+      "originalTitle": "Stopy procentowe w Polsce. Tak prognozuje \"większość banków\"",
+      "originalDescription": "Rada Polityki Pieniężnej obniży stopy procentowe o 25 punktów bazowych w trakcie posiedzenia, które rozpoczyna się we wtorek. Kolejna obniżka może nastąpić już w styczniu - ocenił ekonomista ING Banku Śląskiego Adam Antoniak."
+    },
+    {
+      "title": "Paczkę z niespodzianką otrzymał czekający na protezy zębowe",
+      "link": "https://tvn24.pl/wroclaw/powiat-klodzki-zamowil-protezy-zebowe-dostal-zabawke-st8781283?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 07:27:25 GMT",
+      "description": "• Dwóch seniorów z powiatu kłodzkiego (Dolnośląskie) padło ofiarą oszustów działających w sieci.\n• Jeden z nich to 78-latek.\n• 78-latek kupił protezę zębową, która okazała się zabawk��.\n• Drugi senior to 72-latek.\n• 72-latek zainstalował w telefonie nieznaną aplikację.\n• Aplikacja zainstalowana przez 72-latka doprowadziła do zniknięcia 40 tysięcy złotych z jego konta.",
+      "originalTitle": "Czekał na protezy zębowe, zawartość paczki go zaskoczyła",
+      "originalDescription": "Dwóch seniorów z powiatu kłodzkiego (Dolnośląskie) padło ofiarą oszustów działających w sieci. Jeden z nich - 78-latek kupił protezę zębową, która okazała się zabawką, drugi - 72-latek zainstalował w telefonie nieznaną aplikację, która doprowadziła do zniknięcia 40 tysięcy złotych z jego konta."
+    },
+    {
+      "title": "Głaz spadł na samochód",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/stany-zjednoczone-glaz-zgniotl-samochod-wciaz-mam-koszmary-st8781209?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 07:26:02 GMT",
+      "description": "Głaz spadł na samochód, którym podróżowała rodzina. Auto zostało zmiecione z drogi i zepchnięte na barierki oddzielające przeciwległy pas ruchu. Do zdarzenia doszło podczas opadów deszczu i śniegu.",
+      "originalTitle": "Głaz zgniótł samochód. \"Wciąż mam koszmary\"",
+      "originalDescription": "Głaz spadł na samochód, którym podróżowała rodzina. Auto zostało zmiecione z drogi i zepchnięte na barierki oddzielające przeciwległy pas ruchu. Do zdarzenia doszło podczas opadów deszczu i śniegu."
+    },
+    {
+      "title": "W łazience i piwnicy miał narkotyki. Wcześniej był notowany",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-w-mieszkaniu-mial-narkotyki-zostal-zatrzymany-st8780808?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 07:21:41 GMT",
+      "description": "Policjanci z warszawskiego Bemowa zatrzymali 25-latka. W jego mieszkaniu znaleźli marihuanę i mefedron. Narkotyki były w łazience i piwnicy. Mężczyzna usłyszał zarzut i został tymczasowo aresztowany.",
+      "originalTitle": "W łazience i piwnicy miał narkotyki. Wcześniej był notowany",
+      "originalDescription": "Policjanci z warszawskiego Bemowa zatrzymali 25-latka. W jego mieszkaniu znaleźli marihuanę i mefedron. Narkotyki były w łazience i piwnicy. Mężczyzna usłyszał zarzut i został tymczasowo aresztowany."
+    },
+    {
+      "title": "Zawieszają odbiór bioodpadów",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-miejska-spolka-zawiesza-odbior-bioodpadow-st8781215?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 07:14:52 GMT",
+      "description": "Spółka PUK Piaseczno zawiesiła odbiór bioodpadów. Śmieciarki nie będą w nachodzących dniach wywoziły worków z odpadami zielonymi z ogrodów i posesji, bo nie ma już miejsca na ich magazynowanie.",
+      "originalTitle": "Zawieszają odbiór bioodpadów",
+      "originalDescription": "Spółka PUK Piaseczno zawiesiła odbiór bioodpadów. Śmieciarki nie będą w nachodzących dniach wywoziły worków z odpadami zielonymi z ogrodów i posesji, bo nie ma już miejsca na ich magazynowanie."
+    },
+    {
+      "title": "Lista na stronie prezydenta. Marszałek Sejmu: nie wiem, skąd ta panika",
       "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-o-projektach-prezydenckich-nie-wiem-skad-ta-panika-st8781218?source=rss",
       "pubDate": "Tue, 02 Dec 2025 07:03:07 GMT",
-      "description": "• 13 projektów prezydenta jest procedowanych.\n• Marszałek Sejmu Włodzimierz Czarzasty powiedział o tym w \"Rozmowie Piaseckiego\" w TVN24.\n• Włodzimierz Czarzasty odniósł się do listy przekazanych do Sejmu prezydenckich inicjatyw widniejącej na stronie prezydenta Karola Nawrockiego.\n• Marszałek Sejmu powiedział \"Nie wiem, skąd ta panika\".",
+      "description": "13 projektów prezydenta jest procedowanych - powiedział w \"Rozmowie Piaseckiego\" w TVN24 marszałek Sejmu Włodzimierz Czarzasty. Odniósł się w ten sposób do widniejącej na stronie prezydenta Karola Nawrockiego listy przekazanych do Sejmu prezydenckich inicjatyw. - Nie wiem, skąd ta panika - mówił marszałek.",
       "originalTitle": "Lista na stronie prezydenta. Marszałek Sejmu: nie wiem, skąd ta panika",
       "originalDescription": "13 projektów prezydenta jest procedowanych - powiedział w \"Rozmowie Piaseckiego\" w TVN24 marszałek Sejmu Włodzimierz Czarzasty. Odniósł się w ten sposób do widniejącej na stronie prezydenta Karola Nawrockiego listy przekazanych do Sejmu prezydenckich inicjatyw. - Nie wiem, skąd ta panika - mówił marszałek."
     },
     {
-      "title": "Sąd uchylił wyrok w sprawie Ziętary",
+      "title": "Sprawa śmierci Jarosława Ziętary. Sąd uchylił wyrok",
       "link": "https://tvn24.pl/poznan/poznan-sprawa-smierci-jaroslawa-zietary-sad-uchylil-wyrok-st8756734?source=rss",
       "pubDate": "Tue, 02 Dec 2025 06:59:10 GMT",
-      "description": "• Sąd Apelacyjny w Poznaniu uchylił wyrok uniewinniający Mirosława R., pseudonim Ryba, oraz Dariusza L., pseudonim Lala.\n• Mirosław R. i Dariusz L. - zdaniem śledczych - w 1992 roku porwali dziennikarza Jarosława Ziętarę i przekazali go zabójcom.\n• Prokuratura odwołała się od uniewinnienia, o którym sąd pierwszej instancji zdecydował trzy lata wcześniej.",
+      "description": "Sąd Apelacyjny w Poznaniu uchylił wyrok uniewinniający Mirosława R., pseudonim Ryba, oraz Dariusza L., pseudonim Lala, którzy - zdaniem śledczych - w 1992 roku porwali dziennikarza Jarosława Ziętarę i przekazali go zabójcom. Od uniewinnienia, o którym sąd pierwszej instancji zdecydował trzy lata wcześniej, odwołała się prokuratura.",
       "originalTitle": "Sprawa śmierci Jarosława Ziętary. Sąd uchylił wyrok",
       "originalDescription": "Sąd Apelacyjny w Poznaniu uchylił wyrok uniewinniający Mirosława R., pseudonim Ryba, oraz Dariusza L., pseudonim Lala, którzy - zdaniem śledczych - w 1992 roku porwali dziennikarza Jarosława Ziętarę i przekazali go zabójcom. Od uniewinnienia, o którym sąd pierwszej instancji zdecydował trzy lata wcześniej, odwołała się prokuratura."
     },
@@ -42,46 +82,6 @@
       "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W wielu miejscach pojawią się mgły, które znacznie ograniczą widzialność. Sprawdź, gdzie mieć się na baczności.",
       "originalTitle": "IMGW ostrzega. Od rana trudne warunki na drogach",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W wielu miejscach pojawią się mgły, które znacznie ograniczą widzialność. Sprawdź, gdzie mieć się na baczności."
-    },
-    {
-      "title": "Byłby to groźny precedens. \"Premier domaga się odsunięcia na bok systemu prawnego\"",
-      "link": "https://tvn24.pl/swiat/bylby-to-grozny-precedens-premier-domaga-sie-odsuniecia-na-bok-systemu-prawnego-st8781185?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 05:43:52 GMT",
-      "description": "Niezwykła prośba izraelskiego premiera - oficjalnie zwrócił się do prezydenta Izaaka Herzoga o ułaskawienie dla siebie. Przeciwko Benjaminowi Netanjahu od lat toczą się procesy w sprawach korupcyjnych. Premier przekonuje, że jego ułaskawienie to kwestia pojednania narodowego. Wcześniej do izraelskiego prezydenta apelował o to Donald Trump. Materiał \"Faktów o świecie\".",
-      "originalTitle": "Byłby to groźny precedens. \"Premier domaga się odsunięcia na bok systemu prawnego\"",
-      "originalDescription": "Niezwykła prośba izraelskiego premiera - oficjalnie zwrócił się do prezydenta Izaaka Herzoga o ułaskawienie dla siebie. Przeciwko Benjaminowi Netanjahu od lat toczą się procesy w sprawach korupcyjnych. Premier przekonuje, że jego ułaskawienie to kwestia pojednania narodowego. Wcześniej do izraelskiego prezydenta apelował o to Donald Trump. Materiał \"Faktów o świecie\"."
-    },
-    {
-      "title": "\"Jazda na czuja\". Odcinek trasy ekspresowej bez namalowanych pasów",
-      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-na-trasie-s8-kierowcy-jezdza-bez-namalowanych-pasow-st8768231?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 05:36:24 GMT",
-      "description": "Na części warszawskiego odcinka trasy S8 brakuje oznakowania poziomego. W kierunku węzła Konotopa kierowcy poruszają się szeroką jezdnią, na której są trzy pasy ruchu, ale nie rozdzielają ich białe linie. Powodem są trwające od kilku miesięcy prace remontowe. Drogowcy zapowiadają, że jeśli pozwoli na to pogoda, w grudniu powinno nastąpić ich zakończenie.",
-      "originalTitle": "\"Jazda na czuja\". Odcinek trasy ekspresowej bez namalowanych pasów",
-      "originalDescription": "Na części warszawskiego odcinka trasy S8 brakuje oznakowania poziomego. W kierunku węzła Konotopa kierowcy poruszają się szeroką jezdnią, na której są trzy pasy ruchu, ale nie rozdzielają ich białe linie. Powodem są trwające od kilku miesięcy prace remontowe. Drogowcy zapowiadają, że jeśli pozwoli na to pogoda, w grudniu powinno nastąpić ich zakończenie."
-    },
-    {
-      "title": "Ostatni dzień zagranicznej podróży papieża. Odwiedzi szczególne miejsce",
-      "link": "https://tvn24.pl/swiat/ostatni-dzien-zagranicznej-podrozy-papieza-leona-xiv-odwiedzi-szczegolne-miejsce-st8781194?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 05:34:27 GMT",
-      "description": "Pierwsza zagraniczna podróż papieża Leona XIV dobiega końca. W ostatnim dniu głowa Kościoła katolickiego odwiedzi między innymi port w Bejrucie, w którym w 2020 roku doszło do tragicznej eksplozji. Na zakończenie pielgrzymki zostanie odprawiona msza na stołecznym wybrzeżu.",
-      "originalTitle": "Ostatni dzień zagranicznej podróży papieża. Odwiedzi szczególne miejsce",
-      "originalDescription": "Pierwsza zagraniczna podróż papieża Leona XIV dobiega końca. W ostatnim dniu głowa Kościoła katolickiego odwiedzi między innymi port w Bejrucie, w którym w 2020 roku doszło do tragicznej eksplozji. Na zakończenie pielgrzymki zostanie odprawiona msza na stołecznym wybrzeżu."
-    },
-    {
-      "title": "Nowa strategia Norwegów. \"Każdy żołnierz będzie musiał umieć obsłużyć drona\"",
-      "link": "https://tvn24.pl/swiat/norwegia-nowa-strategia-dronowa-zaklada-ze-kazdy-zolnierz-bedzie-operatorem-drona-st8781147?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 05:27:47 GMT",
-      "description": "Bezzałogowce mają znaleźć masowe zastosowanie w wielu rodzajach sił zbrojnych, a docelowo każdy żołnierz będzie umiał obsłużyć drona - zapowiedziało norweskie ministerstwo obrony, ogłaszając nową strategię dronową. Kluczową rolę we wdrażaniu strategii ma odgrywać własny przemysł obronny.",
-      "originalTitle": "Nowa strategia Norwegów. \"Każdy żołnierz będzie musiał umieć obsłużyć drona\"",
-      "originalDescription": "Bezzałogowce mają znaleźć masowe zastosowanie w wielu rodzajach sił zbrojnych, a docelowo każdy żołnierz będzie umiał obsłużyć drona - zapowiedziało norweskie ministerstwo obrony, ogłaszając nową strategię dronową. Kluczową rolę we wdrażaniu strategii ma odgrywać własny przemysł obronny."
-    },
-    {
-      "title": "Zabijali mężczyzn w wieku poborowym, \"nawet jeśli nie stanowili zagrożenia\"",
-      "link": "https://tvn24.pl/swiat/wielka-brytania-jednostka-sil-specjalnych-celowo-tuszowala-zbrodnie-wojenne-w-afganistanie-st8781148?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 05:14:39 GMT",
-      "description": "Przesłuchany przez niezależną komisję śledczą świadek ujawnił, że brytyjska elitarna jednostka sił specjalnych SAS celowo tuszowała zbrodnie wojenne w Afganistanie. W notatce z kwietnia 2011 roku starszy oficer miał ostrzec dyrektora brytyjskich sił specjalnych o tym procederze, podzielając obawy dowódcy jednostki.",
-      "originalTitle": "Zabijali mężczyzn w wieku poborowym, \"nawet jeśli nie stanowili zagrożenia\"",
-      "originalDescription": "Przesłuchany przez niezależną komisję śledczą świadek ujawnił, że brytyjska elitarna jednostka sił specjalnych SAS celowo tuszowała zbrodnie wojenne w Afganistanie. W notatce z kwietnia 2011 roku starszy oficer miał ostrzec dyrektora brytyjskich sił specjalnych o tym procederze, podzielając obawy dowódcy jednostki."
     }
   ]
 }
