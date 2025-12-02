@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-12-02T17:08:12.594Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-12-02T17:39:59.123Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na środę: mróz i mgły",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-3-12-noca-scisnie-mroz-pojawia-sie-tez-mgly-st8782477?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:29:05 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli środy.\n• Data tego dnia to 3.12.\n• W nocy temperatura w części kraju spadnie poniżej zera.\n• W nocy pojawią się mgły.\n• Dzień zapowiada się pochmurnie.\n• Mo��liwe są lokalne przejaśnienia.",
+      "originalTitle": "Pogoda na jutro - środa, 3.12. Nocą ściśnie mróz, pojawią się też mgły",
+      "originalDescription": "Pogoda na jutro, czyli na środę, 3.12. W nocy temperatura w części kraju spadnie poniżej zera, pojawią się też mgły. Dzień zapowiada się pochmurnie, lokalnie możliwe są przejaśnienia."
+    },
+    {
+      "title": "Decyzja prezydenta komentowana przez polityków",
+      "link": "https://tvn24.pl/polska/weto-w-sprawie-ustawy-lancuchowej-komentarze-politykow-st8782210?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 15:27:16 GMT",
+      "description": "• Premier Donald Tusk zamieścił w mediach społecznych dwa wpisy, odnoszące się do decyzji prezydenta Karola Nawrockiego o zawetowaniu tak zwanej ustawy łańcuchowej.\n• W jednym z wpisów szef rządu napisał: \"To już nie jest polityka, to zwykła podłość\".\n• Sprawę komentowali także inni politycy koalicji rządzącej.\n• Wicemarszałkini Senatu Magdalena Biejat skomentowała sprawę, mówiąc: \"Nie jestem zaskoczona, ale jestem głęboko zasmucona\".",
+      "originalTitle": "\"Ręce opadają\", \"płakać się chce\". Politycy o decyzji prezydenta",
+      "originalDescription": "Premier Donald Tusk zamieścił w mediach społecznych dwa wpisy, odnoszące się do decyzji prezydenta Karola Nawrockiego o zawetowaniu tak zwanej ustawy łańcuchowej. \"To już nie jest polityka, to zwykła podłość\" - napisał w jednym z nich szef rządu. Sprawę komentowali także inni politycy koalicji rządzącej. - Nie jestem zaskoczona, ale jestem głęboko zasmucona - mówiła wicemarszałkini Senatu Magdalena Biejat."
+    },
+    {
+      "title": "Polska 2050 proponuje regulację najmu krótkoterminowego",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/projekt-ustawy-o-najmie-krotkoterminowym-trafi-do-sejmu-za-sasiadow-maja-nie-stalych-mieszkancow-ale-hotelowe-pokoje-st8782426?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:15:31 GMT",
+      "description": "• Spółdzielnie, wspólnoty mieszkaniowe oraz lokalne samorządy miałyby otrzymać prawo do decydowania, czy na ich terenie można prowadzić najem krótkoterminowy.\n• Projekt ustawy przewiduje takie rozwiązanie.\n• Projekt ustawy został przygotowany przez posłów Polski 2050.\n• Projekt ustawy ma zostać skierowany do Sejmu.\n• Obecnie brak przepisów regulujących kwestię najmu krótkoterminowego.",
+      "originalTitle": "Polska 2050 chce uregulować najem krótkoterminowy. \"Samowolka to nie jest wolność\"",
+      "originalDescription": "Spółdzielnie, wspólnoty mieszkaniowe oraz lokalne samorządy miałyby otrzymać prawo do decydowania, czy na ich terenie można prowadzić najem krótkoterminowy. Takie rozwiązanie przewiduje projekt ustawy przygotowany przez posłów Polski 2050, który ma zostać skierowany do Sejmu. Obecnie brak przepisów regulujących tę kwestię."
+    },
+    {
+      "title": "Sikorski przedstawił propozycję Nawrockiemu",
+      "link": "https://tvn24.pl/polska/spor-o-ambasadorow-radoslaw-sikorski-zaproponowal-karolowi-nawrockiemu-kompromisowe-rozwiazanie-st8782482?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:06:18 GMT",
+      "description": "• Radosław Sikorski szukał porozumienia z Karolem Nawrockim w sprawie wyboru kandydatów na ambasadorów.\n• Informacja o tym wynika z listu, który minister spraw zagranicznych opublikował w serwisie X.\n• W liście Radosław Sikorski opisał swoją propozycję dla prezydenta.",
+      "originalTitle": "Sikorski proponował Nawrockiemu rozwiązanie. Pokazał treść listu",
+      "originalDescription": "Radosław Sikorski szukał porozumienia z Karolem Nawrockim w sprawie wyboru kandydatów na ambasadorów - wynika z listu, który minister spraw zagranicznych opublikował w serwisie X. Opisał w nim swoją propozycję dla prezydenta."
+    },
+    {
+      "title": "Wypadek drogowy: bus i ciężarówka, 1 ofiara śmiertelna",
+      "link": "https://tvn24.pl/krakow/nowy-wisnicz-tragiczny-wypadek-busa-i-ciezarowki-nie-zyje-28-latek-st8782480?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 17:06:08 GMT",
+      "description": "• Tragiczny wypadek busa i samochodu ciężarowego miał miejsce w Nowym Wiśniczu.\n• Nowy Wiśnicz znajduje się niedaleko Bochni.\n• Bochnia jest położona w Małopolsce.\n• W wyniku wypadku zginął 28-letni mężczyzna.\n• Dwóch innych uczestników wypadku trafiło do szpitala.",
+      "originalTitle": "Bus zderzył się z ciężarówką. Nie żyje 28-latek",
+      "originalDescription": "Tragiczny wypadek busa i samochodu ciężarowego w Nowym Wiśniczu niedaleko Bochni (Małopolska). Zginął 28-letni mężczyzna, a dwie inne osoby trafiły do szpitala."
+    },
+    {
+      "title": "Spotkanie z Rosją",
+      "link": "https://tvn24.pl/swiat/rosja-steve-witkoff-i-jared-kushner-przybyli-na-rozmowy-z-wladimirem-putinem-w-sprawie-planu-pokojowego-dla-ukrainy-st8782446?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 16:57:04 GMT",
+      "description": "Specjalny wysłannik prezydenta USA Steve Witkoff spotkał się na Kremlu z prezydentem Rosji Władimirem Putinem. Na rozmowach pojawili się też specjalny wysłannik rosyjskiego prezydenta Kiryłł Dmitrijew oraz Jared Kushner, zięć amerykańskiego przywódcy. Rozmowy dotyczą amerykańskiej propozycji planu pokojowego dla Ukrainy.",
+      "originalTitle": "Amerykańska delegacja u Putina",
+      "originalDescription": "Specjalny wysłannik prezydenta USA Steve Witkoff spotkał się na Kremlu z prezydentem Rosji Władimirem Putinem. Na rozmowach pojawili się też specjalny wysłannik rosyjskiego prezydenta Kiryłł Dmitrijew oraz Jared Kushner, zięć amerykańskiego przywódcy. Rozmowy dotyczą amerykańskiej propozycji planu pokojowego dla Ukrainy."
+    },
+    {
+      "title": "Prezydent powołał radę ds. polityki ludnościowej",
+      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-powolal-rade-rodziny-i-demografii-eksperci-maja-wspierac-w-walce-z-kryzysem-demograficznym-st8782362?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 16:42:35 GMT",
+      "description": "Prezydent Karol Nawrocki powołał we wtorek Radę Rodziny i Demografii, w skład której weszły 24 osoby - poinformowała Kancelaria Prezydenta RP. Na czele nowo utworzonego gremium stanęła była wiceminister rodziny, pracy i polityki społecznej Barbara Socha. Do zadań rady należeć będzie między innymi prowadzenie strategicznej debaty oraz analiza polityki prorodzinnej i demograficznej Polski.",
+      "originalTitle": "Mają walczyć z niżem demograficznym. Prezydent powołał nową radę",
+      "originalDescription": "Prezydent Karol Nawrocki powołał we wtorek Radę Rodziny i Demografii, w skład której weszły 24 osoby - poinformowała Kancelaria Prezydenta RP. Na czele nowo utworzonego gremium stanęła była wiceminister rodziny, pracy i polityki społecznej Barbara Socha. Do zadań rady należeć będzie między innymi prowadzenie strategicznej debaty oraz analiza polityki prorodzinnej i demograficznej Polski."
+    },
+    {
+      "title": "Debata \"Bogactwo\". Oglądaj w środę w TVN24+",
+      "link": "https://tvn24.pl/polska/debata-bogactwo-ogladaj-w-srode-w-tvn24-st8782422?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 16:42:14 GMT",
+      "description": "W trakcie debaty w TVN24+ zaproszeni goście będą dyskutować o bogactwie i tym, czy najzamożniejsi mogą, chcą i powinni przyczynić się do eliminacji nierówności społecznych. Oglądaj w środę o godzinie 15.",
+      "originalTitle": "Debata \"Bogactwo\". Oglądaj w środę w TVN24+",
+      "originalDescription": "W trakcie debaty w TVN24+ zaproszeni goście będą dyskutować o bogactwie i tym, czy najzamożniejsi mogą, chcą i powinni przyczynić się do eliminacji nierówności społecznych. Oglądaj w środę o godzinie 15."
+    },
+    {
+      "title": "Dała się namówić na inwestycję, trafiła na oszusta. Straciła 400 tysięcy zł",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-zaciagnela-kredyty-liczac-na-zysk-z-inwestycji-zostala-oszukana-st8782423?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 16:38:00 GMT",
+      "description": "Mieszkanka Ostrołęki dała się namówić na inwestycję w złoto. Miała ona przynieść łatwy i szybki zysk. Kobieta, by wpłacić pieniądze, zaciągnęła kredyty. Okazało się, że \"doradca\" był oszustem. Kobieta straciła 420 tysięcy złotych.",
+      "originalTitle": "Dała się namówić na inwestycję, trafiła na oszusta. Straciła 400 tysięcy zł",
+      "originalDescription": "Mieszkanka Ostrołęki dała się namówić na inwestycję w złoto. Miała ona przynieść łatwy i szybki zysk. Kobieta, by wpłacić pieniądze, zaciągnęła kredyty. Okazało się, że \"doradca\" był oszustem. Kobieta straciła 420 tysięcy złotych."
+    },
+    {
+      "title": "Sąd skazał kierowcę za wypadek, w którym zginęła polska pływaczka",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-sad-skazal-kierowce-za-wypadek-w-ktorym-zginela-polska-plywaczka-st8782437?source=rss",
+      "pubDate": "Tue, 02 Dec 2025 16:37:36 GMT",
+      "description": "Sąd Rejonowy w Olsztynie skazał Jacka D. na rok więzienia w zawieszeniu za spowodowanie wypadku, w którym zginęła utytułowana pływaczka Justyna Burska. Mężczyzna otrzymał też trzyletni zakaz prowadzenia pojazdów i musi zapłacić 15 tys. zł na rzecz rodziny ofiary. Wyrok jest nieprawomocny.",
+      "originalTitle": "Sąd skazał kierowcę za wypadek, w którym zginęła polska pływaczka",
+      "originalDescription": "Sąd Rejonowy w Olsztynie skazał Jacka D. na rok więzienia w zawieszeniu za spowodowanie wypadku, w którym zginęła utytułowana pływaczka Justyna Burska. Mężczyzna otrzymał też trzyletni zakaz prowadzenia pojazdów i musi zapłacić 15 tys. zł na rzecz rodziny ofiary. Wyrok jest nieprawomocny."
+    }
+  ]
 }
