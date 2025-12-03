@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-12-03T17:39:06.976Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-12-03T18:09:10.852Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rosja wprowadza nową walutę rezerwową",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rosja-pierwsza-taka-sytuacja-nowa-waluta-rezerwowa-st8784287?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 18:03:52 GMT",
+      "description": "• Rosja sprzedała swoje pierwsze obligacje denominowane w chińskich juanach.\n• Moskwa pozyskała w ten sposób kwotę równą prawie trzem miliardom dolarów.\n• Pozyskane środki mają być przeznaczone na finansowanie wojny na Ukrainie.\n• Informację o sprzedaży obligacji i planach Rosji przekazał dziennik \"Financial Times\".",
+      "originalTitle": "Pierwsza taka sytuacja w Rosji. Nowa waluta rezerwowa",
+      "originalDescription": "Rosja sprzedała swoje pierwsze obligacje denominowane w chińskich juanach. Moskwa pozyskała w ten sposób kwotę równą prawie trzem miliardom dolarów, które zamierza przeznaczyć na finansowanie wojny na Ukrainie - przekazał dziennik \"Financial Times\"."
+    },
+    {
+      "title": "Bundestag przyjął rezolucję dotyczącą pomnika ofiar",
+      "link": "https://tvn24.pl/swiat/bundestag-przeglosowal-rezolucje-o-pomniku-polskich-ofiar-socjalizmu-i-niemieckiej-okupacji-st8784329?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:52:01 GMT",
+      "description": "• W środę w niemieckim parlamencie przyjęto rezolucję.\n• Rezolucja wzywa rząd federalny do niezwłocznego rozpoczęcia fazy planowania.\n• Rezolucja wzywa rząd federalny do niezwłocznego rozpoczęcia fazy budowy w Berlinie pomnika.\n• Pomnik ma upamiętniać polskich ofiar narodowego socjalizmu.\n• Pomnik ma upamiętniać polskich ofiar niemieckiej okupacji w Polsce.\n• Okupacja miała miejsce w latach 1939-1945.\n• Pomnik ma być zlokalizowany w Berlinie.",
+      "originalTitle": "Bundestag przegłosował rezolucję o pomniku polskich ofiar",
+      "originalDescription": "W środę w niemieckim parlamencie przyjęto rezolucję wzywającą rząd federalny do niezwłocznego rozpoczęcia fazy planowania oraz budowy w Berlinie pomnika polskich ofiar narodowego socjalizmu i niemieckiej okupacji w Polsce w latach 1939-1945."
+    },
+    {
+      "title": "Wypadek tramwajów w Krakowie",
+      "link": "https://tvn24.pl/krakow/zderzenie-tramwajow-w-krakowie-wielu-rannych-st8784304?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:31:03 GMT",
+      "description": "W środę około godziny 18 na ulicy Bieńczyckiej w Krakowie zderzyły się dwa tramwaje. Na miejscu trwa akcja ratunkowa. Miejski przewoźnik podaje, że obrażenia odniosły co najmniej 35 osoby. W najpoważniejszym stanie jest motorniczy jednego ze składów.",
+      "originalTitle": "Zderzenie tramwajów w Krakowie. Wielu rannych",
+      "originalDescription": "W środę około godziny 18 na ulicy Bieńczyckiej w Krakowie zderzyły się dwa tramwaje. Na miejscu trwa akcja ratunkowa. Miejski przewoźnik podaje, że obrażenia odniosły co najmniej 35 osoby. W najpoważniejszym stanie jest motorniczy jednego ze składów."
+    },
+    {
+      "title": "Oświadczenie szefa MSZ Ukrainy na temat kontaktów Witkoffa",
+      "link": "https://tvn24.pl/swiat/szef-msz-ukrainy-witkoff-kontaktowal-sie-z-nami-po-rozmowie-z-moskwie-st8784249?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:31:04 GMT",
+      "description": "• Steve Witkoff jest wysłannikiem prezydenta Donalda Trumpa.\n• Steve Witkoff brał udział w rozmowach z Władimirem Putinem.\n• Rozmowy odbyły się we wtorek.\n• Rozmowy miały miejsce w Moskwie.\n• Steve Witkoff kontaktował się z przedstawicielem Ukrainy.\n• Informację o kontakcie Steve'a Witkoffa z przedstawicielem Ukrainy przekazał szef ukraińskiego MSZ.\n• Strona amerykańska poinformowała, że \"rozmowy w Moskwie przyniosły pozytywny wynik\".\n• Informację o pozytywnym wyniku rozmów przekazał Andrij Sybiha.",
+      "originalTitle": "Szef MSZ Ukrainy: Witkoff kontaktował się z nami po rozmowie z Moskwie",
+      "originalDescription": "Steve Witkoff, wysłannik prezydenta Donalda Trumpa, który brał we wtorek udział w rozmowach z Władimirem Putinem w Moskwie, kontaktował się z przedstawicielem Ukrainy - przekazał szef ukraińskiego MSZ. Według strony amerykańskiej, \"rozmowy w Moskwie przyniosły pozytywny wynik\" - dodał Andrij Sybiha."
+    },
+    {
+      "title": "Pogoda na czwartek: mgły i mróz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-04-12-noca-beda-snuc-sie-mgly-miejscami-szczypnie-mroz-st8784118?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:23:23 GMT",
+      "description": "• Pogoda opisana jest na dzień jutro, czyli na czwartek.\n• Data tego dnia to 04.12.\n• W nocy wystąpią mgły.\n• Mgły miejscami ograniczą widzialność do kilkuset metrów.\n• W części kraju może pojawić się mżawka.\n• Temperatura ma spaść poniżej zera.\n• Czwartek będzie mglisty.\n• Czwartek będzie pochmurny.",
+      "originalTitle": "Pogoda na jutro - czwartek, 04.12. Nocą będą snuć się mgły, miejscami szczypnie mróz",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 04.12. W nocy mgły miejscami ograniczą widzialność do kilkuset metrów. W części kraju może pojawić się mżawka, a temperatura ma spaść poniżej zera. Czwartek będzie mglisty i pochmurny."
+    },
+    {
+      "title": "Propozycja urzędu dotycząca taryf na prąd",
+      "link": "https://tvn24.pl/biznes/pieniadze/ceny-pradu-nowy-pomysl-ure-w-sprawie-taryf-st8784114?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:21:28 GMT",
+      "description": "• Urząd Regulacji Energetyki chce zyskać narzędzia do obniżania taryf.\n• Chce to zrobić w sytuacji, gdy sytuacja rynkowa uzasadnia spadek cen prądu dla klientów.\n• Informacja ta wynika z pisma urzędu.\n• Pismo to dotyczy opinii urzędu w sprawie jednej z ustaw.\n• Ustawa, której dotyczy pismo, została przygotowana przez resort energii.",
+      "originalTitle": "Nowy pomysł urzędu w sprawie taryf na prąd",
+      "originalDescription": "Urząd Regulacji Energetyki chce zyskać narzędzia do obniżania taryf, gdy sytuacja rynkowa uzasadnia spadek cen prądu dla klientów - wynika z pisma urzędu opiniującego jedną z ustaw przygotowanych przez resort energii."
+    },
+    {
+      "title": "\"Nie ryba, tylko wędka\". Czy bogaci powinny dzielić się pieniędzmi?",
+      "link": "https://tvn24.pl/polska/nie-ryba-tylko-wedka-czy-bogaci-powinny-dzielic-sie-pieniedzmi-st8784095?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:19:25 GMT",
+      "description": "- Ja bym raczej stawiał na edukację. Interwencja państwa oczywiście jest potrzebna, ale to są takie środki przymusu - powiedział profesor Andrzej Jacek Blikle, zapytany, czy bogaci powinni dzielić się swoim majątkiem. - Nie chcemy filantropii, tylko sprawiedliwego podziału - oznajmił Szymon Radomski. Zdaniem Anny Koziby-Świstak, sprawiedliwa dystrybucja dóbr to rola państwa, a Ewelina \"Ewelona\" Kubiak uważa podatki za \"zło konieczne\".",
+      "originalTitle": "\"Nie ryba, tylko wędka\". Czy bogaci powinny dzielić się pieniędzmi?",
+      "originalDescription": "- Ja bym raczej stawiał na edukację. Interwencja państwa oczywiście jest potrzebna, ale to są takie środki przymusu - powiedział profesor Andrzej Jacek Blikle, zapytany, czy bogaci powinni dzielić się swoim majątkiem. - Nie chcemy filantropii, tylko sprawiedliwego podziału - oznajmił Szymon Radomski. Zdaniem Anny Koziby-Świstak, sprawiedliwa dystrybucja dóbr to rola państwa, a Ewelina \"Ewelona\" Kubiak uważa podatki za \"zło konieczne\"."
+    },
+    {
+      "title": "Rozbłysła świąteczna iluminacja i 27-metrowa choinka",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-swiateczna-iluminacja-rozblysla-w-srode-wieczorem-st8782879?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 06:14:00 GMT",
+      "description": "W środę wieczorem rozbłysła świąteczna iluminacja w stolicy. Na placu Zamkowym stanęła 27-metrowa choinka. Ozdobione światełkami zostały Trakt Królewski, Świętokrzyska, Chmielna i wybrane ulice Starówki.",
+      "originalTitle": "Rozbłysła świąteczna iluminacja i 27-metrowa choinka",
+      "originalDescription": "W środę wieczorem rozbłysła świąteczna iluminacja w stolicy. Na placu Zamkowym stanęła 27-metrowa choinka. Ozdobione światełkami zostały Trakt Królewski, Świętokrzyska, Chmielna i wybrane ulice Starówki."
+    },
+    {
+      "title": "Aresztowany miał połknąć wysadzany diamentami medalion w kształcie jaja Fabergé",
+      "link": "https://tvn24.pl/swiat/nowa-zelandia-mezczyzna-oskarzony-o-kradziez-medialionu-w-ksztalcie-jaja-faberge-mial-go-polknac-st8784203?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 17:15:59 GMT",
+      "description": "Policja z Auckland aresztowała 32-latniego mężczyznę w związku z nietypową kradzieżą w tamtejszym sklepie jubilerskim. Zatrzymany miał połknąć wysadzany diamentami medalion z motywem słynnego jaja Fabergé.",
+      "originalTitle": "Aresztowany miał połknąć wysadzany diamentami medalion w kształcie jaja Fabergé",
+      "originalDescription": "Policja z Auckland aresztowała 32-latniego mężczyznę w związku z nietypową kradzieżą w tamtejszym sklepie jubilerskim. Zatrzymany miał połknąć wysadzany diamentami medalion z motywem słynnego jaja Fabergé."
+    },
+    {
+      "title": "Zarzuty dla byłej szefowej unijnej dyplomacji. Reuters ujawnia pismo. \"Szokujące\"",
+      "link": "https://tvn24.pl/swiat/zarzuty-dla-bylej-szefowej-unijnej-dyplomacji-reuters-ujawnia-pismo-szokujace-st8784206?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 16:49:31 GMT",
+      "description": "Była szefowa dyplomacji Unii Europejskiej Federica Mogherini i dwóch innych urzędników unijnych usłyszeli w środę zarzuty o korupcję. To pokłosie śledztwa Prokuratury Europejskiej w sprawie unijnego programu dla młodych dyplomatów. Obecna szefowa polityki zagranicznej UE Kaja Kallas przyznała w liście do pracowników resortu - ujawnionym przez agencję Reutera - że zarzuty są \"szokujące\".",
+      "originalTitle": "Zarzuty dla byłej szefowej unijnej dyplomacji. Reuters ujawnia pismo. \"Szokujące\"",
+      "originalDescription": "Była szefowa dyplomacji Unii Europejskiej Federica Mogherini i dwóch innych urzędników unijnych usłyszeli w środę zarzuty o korupcję. To pokłosie śledztwa Prokuratury Europejskiej w sprawie unijnego programu dla młodych dyplomatów. Obecna szefowa polityki zagranicznej UE Kaja Kallas przyznała w liście do pracowników resortu - ujawnionym przez agencję Reutera - że zarzuty są \"szokujące\"."
+    }
+  ]
 }
