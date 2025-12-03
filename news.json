@@ -1,18 +1,66 @@
 {
-  "lastUpdate": "2025-12-03T19:06:01.798Z",
+  "lastUpdate": "2025-12-03T19:35:03.940Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Stomatolog przyznał się do winy, zobowiązany do zapłaty 1,2 mln zł",
+      "title": "Ostrzeżenie IMGW przed mgłami",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-03-12-silna-mgla-trudne-warunki-na-drogach-st8781203?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 13:07:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy pierwszego stopnia. Synoptycy ostrzegają przed gęstymi mgłami, które mogą ograniczać widzialność. Sprawdź, gdzie aura będzie groźna.",
+      "originalTitle": "Gęste mgły. IMGW ostrzega",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy pierwszego stopnia. Synoptycy ostrzegają przed gęstymi mgłami, które mogą ograniczać widzialność. Sprawdź, gdzie aura będzie groźna."
+    },
+    {
+      "title": "Prezydent Nawrocki wstrzymuje nominacje oficerskie",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-nie-podpisuje-nominacji-oficerskich-szef-jego-kancelarii-zbigniew-bogucki-o-powodach-st8784371?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 19:19:03 GMT",
+      "description": "• Szef prezydenckiej kancelarii to Zbigniew Bogucki.\n• Zbigniew Bogucki wypowiadał się w programie \"Faktach po Faktach\".\n• Program \"Faktach po Faktach\" jest emitowany w TVN24.\n• Zbigniew Bogucki przekonywał, że funkcjonariusze ABW i SKW nie otrzymali nominacji oficerskich od prezydenta.\n• Powodem braku nominacji oficerskich jest to, że szefowie służb specjalnych \"nie stosują się do prawa\".\n• Prezydentem, o którym mowa, jest Karol Nawrocki.",
+      "originalTitle": "Prezydent Nawrocki nie podpisuje nominacji oficerskich. Szef jego kancelarii o powodach",
+      "originalDescription": "Szef prezydenckiej kancelarii Zbigniew Bogucki przekonywał w \"Faktach po Faktach\" w TVN24, że funkcjonariusze ABW i SKW nie otrzymali od prezydenta Karola Nawrockiego nominacji oficerskich, bo szefowie służb specjalnych \"nie stosują się do prawa\"."
+    },
+    {
+      "title": "Pomoc dla ofiar przemocy domowej",
+      "link": "https://tvn24.pl/polska/przemoc-domowa-w-polsce-zmiany-systemowe-sa-potrzebne-na-wczoraj-st8784353?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 19:16:25 GMT",
+      "description": "• Joanna Gzyra-Iskandar z Fundacji Feminoteka powiedziała, że nie może być miejsca na partyjne rozgrywki i nawalanki w kwestii pomocy dla osób dotkniętych przemocą domową.\n• Kwestia ta dotyczy życia i zdrowia setek tysięcy kobiet i dzieci.\n• Joanna Gzyra-Iskandar podkreśliła konieczność zmian systemowych w zakresie pomocy dla osób dotkniętych przemocą domową.\n• Katarzyna Butowtt stwierdziła, że stosowanie wobec osób dotkniętych przemocą domową określenia \"ofiara\" jest stygmatyzujące.",
+      "originalTitle": "Jak pomóc osobom dotkniętym przemocą domową? \"Zmian systemowych potrzebujemy na wczoraj\"",
+      "originalDescription": "- Tutaj nie może być miejsca na jakieś partyjne rozgrywki i nawalanki, bo to jest kwestia życia i zdrowia setek tysięcy kobiet i dzieci - powiedziała Joanna Gzyra-Iskandar z Fundacji Feminoteka o konieczności zmian systemowych w zakresie pomocy dla osób dotkniętych przemocą domową. Katarzyna Butowtt zaznaczyła natomiast, że stosowanie wobec takich osób określenia \"ofiara\" jest stygmatyzujące."
+    },
+    {
+      "title": "Referendum strajkowe w wielkiej sieci handlowej",
+      "link": "https://tvn24.pl/biznes/z-kraju/referendum-strajkowe-w-wielkiej-sieci-handlowej-st8784345?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 19:15:50 GMT",
+      "description": "Związki zawodowe działające w sieci sklepów Stokrotka prowadzą referendum strajkowe. Domagają się większej obsady placówek handlowych i 800 złotych podwyżki - poinformowała przewodnicząca Niezależnego Samorządnego Związku Zawodowego \"Solidarność\" w Stokrotce Alicja Symbor. Spółka odpowiada, że co roku realizuje podwyżki \"oparte na aktualnych uwarunkowaniach rynkowych i sytuacji ekonomicznej\".",
+      "originalTitle": "Referendum strajkowe w wielkiej sieci handlowej",
+      "originalDescription": "Związki zawodowe działające w sieci sklepów Stokrotka prowadzą referendum strajkowe. Domagają się większej obsady placówek handlowych i 800 złotych podwyżki - poinformowała przewodnicząca Niezależnego Samorządnego Związku Zawodowego \"Solidarność\" w Stokrotce Alicja Symbor. Spółka odpowiada, że co roku realizuje podwyżki \"oparte na aktualnych uwarunkowaniach rynkowych i sytuacji ekonomicznej\"."
+    },
+    {
+      "title": "Kolejny incydent w Wilnie. Lotnisko zamknięte",
+      "link": "https://tvn24.pl/swiat/kolejny-incydent-w-wilnie-lotnisko-zamkniete-st8784415?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 19:09:10 GMT",
+      "description": "Międzynarodowy port lotniczy w Wilnie poinformował w środę o wstrzymaniu działalności z powodu podejrzenia obecności balonów w przestrzeni powietrznej. To kolejny z serii podobnych incydentów w ostatnich miesiącach.",
+      "originalTitle": "Kolejny incydent w Wilnie. Lotnisko zamknięte",
+      "originalDescription": "Międzynarodowy port lotniczy w Wilnie poinformował w środę o wstrzymaniu działalności z powodu podejrzenia obecności balonów w przestrzeni powietrznej. To kolejny z serii podobnych incydentów w ostatnich miesiącach."
+    },
+    {
+      "title": "Służby szukają zaginionego Polaka we włoskich górach",
+      "link": "https://tvn24.pl/swiat/sluzby-szukaja-zaginionego-polaka-we-wloskich-gorach-st8784383?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 19:03:38 GMT",
+      "description": "Od ponad tygodnia włoskie służby poszukują 44-letniego Polaka zaginionego w masywie Gran Sasso w Abruzji - przekazała włoska agencja Ansa. Akcję utrudniają trudne warunki pogodowe i obowiązujące w tym rejonie zagrożenie lawinami.",
+      "originalTitle": "Służby szukają zaginionego Polaka we włoskich górach",
+      "originalDescription": "Od ponad tygodnia włoskie służby poszukują 44-letniego Polaka zaginionego w masywie Gran Sasso w Abruzji - przekazała włoska agencja Ansa. Akcję utrudniają trudne warunki pogodowe i obowiązujące w tym rejonie zagrożenie lawinami."
+    },
+    {
+      "title": "Stomatolog przyznał się do winy, odda 1,2 miliona złotych",
       "link": "https://tvn24.pl/trojmiasto/miastko-stomatolog-przyznal-sie-do-winy-odda-1-2-miliona-zlotych-st8784414?source=rss",
       "pubDate": "Wed, 03 Dec 2025 18:53:32 GMT",
-      "description": "• Na jednej rozprawie przed Sądem Rejonowym w Miastku zakończył się w środę proces dentysty.\n• Proces dotyczył dentysty Bartłomieja S.\n• Dentysta Bartłomiej S. był oskarżony o wyłudzenie z Narodowego Funduszu Zdrowia.\n• Kwota, o którą oskarżono dentystę, to ponad 1,2 miliona złotych.\n• Proces zakończył się w środę. \n• Miejscem rozprawy był Sąd Rejonowy w Miastku.",
+      "description": "Na jednej rozprawie przed Sądem Rejonowym w Miastku zakończył się w środę proces dentysty Bartłomieja S., oskarżonego o wyłudzenie z Narodowego Funduszu Zdrowia ponad 1,2 miliona złotych.",
       "originalTitle": "Stomatolog przyznał się do winy, odda 1,2 miliona złotych",
       "originalDescription": "Na jednej rozprawie przed Sądem Rejonowym w Miastku zakończył się w środę proces dentysty Bartłomieja S., oskarżonego o wyłudzenie z Narodowego Funduszu Zdrowia ponad 1,2 miliona złotych."
     },
     {
-      "title": "Wypadek tramwajów w Krakowie",
+      "title": "Zderzenie tramwajów w Krakowie. Wielu rannych",
       "link": "https://tvn24.pl/krakow/zderzenie-tramwajow-w-krakowie-wielu-rannych-st8784304?source=rss",
       "pubDate": "Wed, 03 Dec 2025 17:31:03 GMT",
       "description": "W środę około godziny 18 na ulicy Bieńczyckiej w Krakowie zderzyły się dwa tramwaje. Miejski przewoźnik podaje, że obrażenia odniosło co najmniej 35 osób. Łącznie hospitalizacji wymagało 11 osób, w najpoważniejszym stanie jest motorniczy jednego ze składów.",
@@ -20,12 +68,12 @@
       "originalDescription": "W środę około godziny 18 na ulicy Bieńczyckiej w Krakowie zderzyły się dwa tramwaje. Miejski przewoźnik podaje, że obrażenia odniosło co najmniej 35 osób. Łącznie hospitalizacji wymagało 11 osób, w najpoważniejszym stanie jest motorniczy jednego ze składów."
     },
     {
-      "title": "Sypnęło śniegiem w Hiszpanii. Na drogi wyjechały odśnieżarki",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/sypnelo-sniegiem-w-hiszpanii-na-drogi-wyjechaly-odsniezarki-st8784305?source=rss",
+      "title": "W Hiszpanii sypnęło śniegiem. Na drogi wyjechały odśnieżarki",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/w-hiszpanii-sypnelo-sniegiem-na-drogi-wyjechaly-odsniezarki-st8784305?source=rss",
       "pubDate": "Wed, 03 Dec 2025 18:46:08 GMT",
-      "description": "W północno-zachodniej Hiszpanii spadł śnieg i nastała zimowa aura. Na ulice wyjechały odśnieżarki. Szczególnie trudne warunki panowały w gminie Visuña, gdzie w zaspach śniegu utknęły trzy samochody.",
-      "originalTitle": "Sypnęło śniegiem w Hiszpanii. Na drogi wyjechały odśnieżarki",
-      "originalDescription": "W północno-zachodniej Hiszpanii spadł śnieg i nastała zimowa aura. Na ulice wyjechały odśnieżarki. Szczególnie trudne warunki panowały w gminie Visuña, gdzie w zaspach śniegu utknęły trzy samochody."
+      "description": "W północno-zachodniej Hiszpanii spadł śnieg i nastała zimowa aura. Na ulice wyjechały odśnieżarki. Szczególnie trudne warunki panowały w gminie Visuña, gdzie w zaspach utknęły trzy samochody.",
+      "originalTitle": "W Hiszpanii sypnęło śniegiem. Na drogi wyjechały odśnieżarki",
+      "originalDescription": "W północno-zachodniej Hiszpanii spadł śnieg i nastała zimowa aura. Na ulice wyjechały odśnieżarki. Szczególnie trudne warunki panowały w gminie Visuña, gdzie w zaspach utknęły trzy samochody."
     },
     {
       "title": "Prezydencki minister: Sikorski eskaluje spór",
@@ -34,54 +82,6 @@
       "description": "W ocenie prezydenckiego ministra Marcina Przydacza minister spraw zagranicznych Radosław Sikorski eskaluje spór o ambasadorów, publikując list do prezydenta Karola Nawrockiego. W rozmowie z dziennikarzami Przydacz ocenił, że szef polskiej dyplomacji naciska na powołanie osób bez kompetencji.",
       "originalTitle": "Prezydencki minister: Sikorski eskaluje spór",
       "originalDescription": "W ocenie prezydenckiego ministra Marcina Przydacza minister spraw zagranicznych Radosław Sikorski eskaluje spór o ambasadorów, publikując list do prezydenta Karola Nawrockiego. W rozmowie z dziennikarzami Przydacz ocenił, że szef polskiej dyplomacji naciska na powołanie osób bez kompetencji."
-    },
-    {
-      "title": "Marek Suski otworzył swoją wystawę. Oglądał między innym Jarosław Kaczyński",
-      "link": "https://tvn24.pl/polska/marek-suski-otworzyl-swoja-wystawe-ogladal-miedzy-innym-jaroslaw-kaczynski-st8784292?source=rss",
-      "pubDate": "Wed, 03 Dec 2025 18:22:20 GMT",
-      "description": "Otwarcie wystawy twórczości artystycznej Marka Suskiego zgromadziło w Sejmie wielu polityków Prawa i Sprawiedliwości. Posła swojej partii docenił sam Jarosław Kaczyński, który powiedział, że Suski jest \"bardzo utalentowanym malarzem\".",
-      "originalTitle": "Marek Suski otworzył swoją wystawę. Oglądał między innym Jarosław Kaczyński",
-      "originalDescription": "Otwarcie wystawy twórczości artystycznej Marka Suskiego zgromadziło w Sejmie wielu polityków Prawa i Sprawiedliwości. Posła swojej partii docenił sam Jarosław Kaczyński, który powiedział, że Suski jest \"bardzo utalentowanym malarzem\"."
-    },
-    {
-      "title": "Pies głodzony, przetrzymywany w brudzie i odchodach. Szukają właściciela",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-pies-przebywal-wsrod-odchodow-jest-sledztwo-prokuratury-st8784265?source=rss",
-      "pubDate": "Wed, 03 Dec 2025 18:21:49 GMT",
-      "description": "Prokuratura Rejonowa w Ostrołęce prowadzi śledztwo w sprawie znęcania się nad psem. Zwierzę było bardzo zaniedbane, głodzone i trzymane wśród odchodów. Śledczy szukają właściciela psa.",
-      "originalTitle": "Pies głodzony, przetrzymywany w brudzie i odchodach. Szukają właściciela",
-      "originalDescription": "Prokuratura Rejonowa w Ostrołęce prowadzi śledztwo w sprawie znęcania się nad psem. Zwierzę było bardzo zaniedbane, głodzone i trzymane wśród odchodów. Śledczy szukają właściciela psa."
-    },
-    {
-      "title": "Pierwsza taka sytuacja w Rosji. Nowa waluta rezerwowa",
-      "link": "https://tvn24.pl/biznes/ze-swiata/rosja-pierwsza-taka-sytuacja-nowa-waluta-rezerwowa-st8784287?source=rss",
-      "pubDate": "Wed, 03 Dec 2025 18:03:52 GMT",
-      "description": "Rosja sprzedała swoje pierwsze obligacje denominowane w chińskich juanach. Moskwa pozyskała w ten sposób kwotę równą prawie trzem miliardom dolarów, które zamierza przeznaczyć na finansowanie wojny na Ukrainie - przekazał dziennik \"Financial Times\".",
-      "originalTitle": "Pierwsza taka sytuacja w Rosji. Nowa waluta rezerwowa",
-      "originalDescription": "Rosja sprzedała swoje pierwsze obligacje denominowane w chińskich juanach. Moskwa pozyskała w ten sposób kwotę równą prawie trzem miliardom dolarów, które zamierza przeznaczyć na finansowanie wojny na Ukrainie - przekazał dziennik \"Financial Times\"."
-    },
-    {
-      "title": "Bundestag przegłosował rezolucję o pomniku polskich ofiar",
-      "link": "https://tvn24.pl/swiat/bundestag-przeglosowal-rezolucje-o-pomniku-polskich-ofiar-socjalizmu-i-niemieckiej-okupacji-st8784329?source=rss",
-      "pubDate": "Wed, 03 Dec 2025 17:52:01 GMT",
-      "description": "W środę w niemieckim parlamencie przyjęto rezolucję wzywającą rząd federalny do niezwłocznego rozpoczęcia fazy planowania oraz budowy w Berlinie pomnika polskich ofiar narodowego socjalizmu i niemieckiej okupacji w Polsce w latach 1939-1945. Wcześniej kanclerz Niemiec Friedrich Merz zapowiadał taki krok w trakcie polsko-niemieckich konsultacji międzyrządowych.",
-      "originalTitle": "Bundestag przegłosował rezolucję o pomniku polskich ofiar",
-      "originalDescription": "W środę w niemieckim parlamencie przyjęto rezolucję wzywającą rząd federalny do niezwłocznego rozpoczęcia fazy planowania oraz budowy w Berlinie pomnika polskich ofiar narodowego socjalizmu i niemieckiej okupacji w Polsce w latach 1939-1945. Wcześniej kanclerz Niemiec Friedrich Merz zapowiadał taki krok w trakcie polsko-niemieckich konsultacji międzyrządowych."
-    },
-    {
-      "title": "Szef MSZ Ukrainy: Witkoff kontaktował się z nami po rozmowie z Moskwie",
-      "link": "https://tvn24.pl/swiat/szef-msz-ukrainy-witkoff-kontaktowal-sie-z-nami-po-rozmowie-z-moskwie-st8784249?source=rss",
-      "pubDate": "Wed, 03 Dec 2025 17:31:04 GMT",
-      "description": "Steve Witkoff, wysłannik prezydenta Donalda Trumpa, który brał we wtorek udział w rozmowach z Władimirem Putinem w Moskwie, kontaktował się z przedstawicielem Ukrainy - przekazał szef ukraińskiego MSZ. Według strony amerykańskiej, \"rozmowy w Moskwie przyniosły pozytywny wynik\" - dodał Andrij Sybiha.",
-      "originalTitle": "Szef MSZ Ukrainy: Witkoff kontaktował się z nami po rozmowie z Moskwie",
-      "originalDescription": "Steve Witkoff, wysłannik prezydenta Donalda Trumpa, który brał we wtorek udział w rozmowach z Władimirem Putinem w Moskwie, kontaktował się z przedstawicielem Ukrainy - przekazał szef ukraińskiego MSZ. Według strony amerykańskiej, \"rozmowy w Moskwie przyniosły pozytywny wynik\" - dodał Andrij Sybiha."
-    },
-    {
-      "title": "Pogoda na jutro - czwartek, 04.12. Nocą będą snuć się mgły, miejscami szczypnie mróz",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-04-12-noca-beda-snuc-sie-mgly-miejscami-szczypnie-mroz-st8784118?source=rss",
-      "pubDate": "Wed, 03 Dec 2025 17:23:23 GMT",
-      "description": "Pogoda na jutro, czyli na czwartek, 04.12. W nocy mgły miejscami ograniczą widzialność do kilkuset metrów. W części kraju może pojawić się mżawka, a temperatura ma spaść poniżej zera. Czwartek będzie mglisty i pochmurny.",
-      "originalTitle": "Pogoda na jutro - czwartek, 04.12. Nocą będą snuć się mgły, miejscami szczypnie mróz",
-      "originalDescription": "Pogoda na jutro, czyli na czwartek, 04.12. W nocy mgły miejscami ograniczą widzialność do kilkuset metrów. W części kraju może pojawić się mżawka, a temperatura ma spaść poniżej zera. Czwartek będzie mglisty i pochmurny."
     }
   ]
 }
