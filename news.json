@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-12-04T16:44:01.604Z",
+  "lastUpdate": "2025-12-04T17:08:45.865Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pies z rekordowym językiem",
+      "title": "Sąd uniewinnił trzech policjantów",
+      "link": "https://tvn24.pl/poznan/poznan-prawomocny-wyrok-w-sprawie-interwencji-na-antoninku-policjanci-uniewinnieni-st8786113?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 17:03:18 GMT",
+      "description": "• Trzej policjanci zostali prawomocnie uniewinnieni przez sąd apelacyjny.\n• Policjanci postrzelili mężczyznę w czasie interwencji w poznańskim Antoninku.\n• Sędzia Piotr Michalski stwierdził, że policjanci mieli prawo się bronić przed atakiem.\n• Sędzia Piotr Michalski dodał, że policjanci nie przekroczyli granic tej obrony.",
+      "originalTitle": "\"Użyli broni, bo tylko to mieli\". Sąd uniewinnił trzech policjantów",
+      "originalDescription": "Trzej policjanci, którzy postrzelili mężczyznę w czasie interwencji w poznańskim Antoninku, zostali prawomocnie uniewinnieni przez sąd apelacyjny. - Mieli prawo się bronić przed atakiem i nie przekroczyli granic tej obrony - powiedział sędzia Piotr Michalski."
+    },
+    {
+      "title": "Lider branży ma nadmiar gotówki",
+      "link": "https://tvn24.pl/biznes/tech/inwestycje-i-strategia-nvidia-lider-branzy-ma-duzo-gotowki-planuje-skup-wlasnych-akcji-st8786110?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 17:03:08 GMT",
+      "description": "• Nvidia zmaga się z nietypowym problemem - posiada zbyt dużo gotówki.\n• Firma zdominowała rynek technologiczny dzięki boomowi na sztuczną inteligencję w ostatnich latach.\n• Nvidia intensywnie inwestuje miliardy dolarów.\n• Inwestycje Nvidia budzą pytania inwestorów o to, co zrobi z rosnącą fortuną.\n• Informacje o problemie Nvidia pochodzą z CNBC.",
+      "originalTitle": "Nietypowy problem lidera branży. Ma za dużo gotówki",
+      "originalDescription": "Nvidia zmaga się z nietypowym problemem - posiada zbyt dużo gotówki. Firma, która w ostatnich latach zdominowała rynek technologiczny dzięki boomowi na sztuczną inteligencję, intensywnie inwestuje miliardy dolarów, jednocześnie budząc pytania inwestorów o to, co zrobi z rosnącą fortuną - informuje CNBC."
+    },
+    {
+      "title": "Obrady Sejmu bez telefonów",
+      "link": "https://tvn24.pl/polska/donald-tusk-przestawi-pilna-informacje-wnioskuje-o-utajnione-obrady-sejmu-jak-wyglada-takie-posiedzenie-st8786078?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 16:51:04 GMT",
+      "description": "Kancelaria Sejmu poinformowała, że w piątek rano rozpoznany zostanie wniosek Donalda Tuska o utajnienie pierwszego punktu posiedzenia Sejmu tego dnia. Premier ma wtedy przedstawić \"pilną informację dotyczącą bezpieczeństwa państwa\". Szef sejmowej komisji regulaminowej Jarosław Urbaniak wyjaśniał, jak przebiegają utajnione obrady i jakie zasady obowiązują posłów.",
+      "originalTitle": "Zakaz telefonów, dodatkowe bramki przed salą. Jak wyglądają utajnione obrady Sejmu?",
+      "originalDescription": "Kancelaria Sejmu poinformowała, że w piątek rano rozpoznany zostanie wniosek Donalda Tuska o utajnienie pierwszego punktu posiedzenia Sejmu tego dnia. Premier ma wtedy przedstawić \"pilną informację dotyczącą bezpieczeństwa państwa\". Szef sejmowej komisji regulaminowej Jarosław Urbaniak wyjaśniał, jak przebiegają utajnione obrady i jakie zasady obowiązują posłów."
+    },
+    {
+      "title": "Nagrody Grand Press 2025. Nominacje dla naszych dziennikarzy - pełna lista",
+      "link": "https://tvn24.pl/kultura-i-styl/nagrody-grand-press-2025-nominacje-dla-dziennikarzy-tvn24-tvn-tvn24-i-tvn24-pl-pelna-lista-st8785845?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 16:48:37 GMT",
+      "description": "Dziennikarze TVN24, TVN24+, \"Faktów\" TVN oraz tvn24.pl zostali nominowani w większości kategorii do tegorocznych nagród Grand Press. Łącznie pojawiło się aż 17 nazwisk związanych z naszą redakcją. Oto pełna lista.",
+      "originalTitle": "Nagrody Grand Press 2025. Nominacje dla naszych dziennikarzy - pełna lista",
+      "originalDescription": "Dziennikarze TVN24, TVN24+, \"Faktów\" TVN oraz tvn24.pl zostali nominowani w większości kategorii do tegorocznych nagród Grand Press. Łącznie pojawiło się aż 17 nazwisk związanych z naszą redakcją. Oto pełna lista."
+    },
+    {
+      "title": "Awaria rozjazdu w metrze. Pociągi na skróconej trasie",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-awaria-rozjazdu-w-metrze-pociagi-na-skroconej-trasie-st8786149?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 16:40:45 GMT",
+      "description": "Dwie krańcowe stacje linii M2 Ulrychów i Bemowo zostały wyłączone z przyczyn technicznych. Doszło do awarii rozjazdu.",
+      "originalTitle": "Awaria rozjazdu w metrze. Pociągi na skróconej trasie",
+      "originalDescription": "Dwie krańcowe stacje linii M2 Ulrychów i Bemowo zostały wyłączone z przyczyn technicznych. Doszło do awarii rozjazdu."
+    },
+    {
+      "title": "Ten pies ma najdłuższy język na świecie",
       "link": "https://tvn24.pl/tvnmeteo/swiat/ozzy-z-oklahomy-ten-pies-ma-najdluzszy-jezyk-na-swiecie-st8786092?source=rss",
       "pubDate": "Thu, 04 Dec 2025 16:35:48 GMT",
-      "description": "• Księga rekordów Guinnessa ma nowego mistrza w kategorii najdłuższego języka wśród psów.\n• Nowym mistrzem jest Ozzy.\n• Ozzy pochodzi z Oklahomy.\n• Ozzy pobił poprzedniego rekordzistę.\n��� Przewaga Ozzygo nad poprzednim rekordzistą wynosi kilka centymetrów.",
+      "description": "Księga rekordów Guinnessa ma nowego mistrza w kategorii... najdłuższego języka wśród psów. Jest nim Ozzy z Oklahomy, który pobił poprzedniego rekordzistę o kilka dobrych centymetrów.",
       "originalTitle": "Ten pies ma najdłuższy język na świecie",
       "originalDescription": "Księga rekordów Guinnessa ma nowego mistrza w kategorii... najdłuższego języka wśród psów. Jest nim Ozzy z Oklahomy, który pobił poprzedniego rekordzistę o kilka dobrych centymetrów."
     },
     {
-      "title": "Pierwsza dama pomaga dzieciom",
+      "title": "Siedmioro dzieci wraca do domów. Pomogła pierwsza dama",
       "link": "https://tvn24.pl/swiat/melania-trump-siedmioro-dzieci-wraca-z-rosji-na-ukraine-st8786047?source=rss",
       "pubDate": "Thu, 04 Dec 2025 16:34:00 GMT",
-      "description": "• Siedmioro ukraińskich dzieci wróciło z Rosji do swoich rodzin.\n• Informację o powrocie dzieci podała Melania Trump w czwartek.\n• To nie pierwsze działania Melanii Trump na rzecz deportowanych dzieci.\n• Wcześniej Melania Trump pisała w tej sprawie do Putina.",
+      "description": "Siedmioro ukraińskich dzieci wróciło z Rosji do swoich rodzin - poinformowała w czwartek Melania Trump. To nie pierwsze działania pierwszej damy Stanów Zjednoczonych na rzecz deportowanych dzieci. Wcześniej pisała w tej sprawie do Putina.",
       "originalTitle": "Siedmioro dzieci wraca do domów. Pomogła pierwsza dama",
       "originalDescription": "Siedmioro ukraińskich dzieci wróciło z Rosji do swoich rodzin - poinformowała w czwartek Melania Trump. To nie pierwsze działania pierwszej damy Stanów Zjednoczonych na rzecz deportowanych dzieci. Wcześniej pisała w tej sprawie do Putina."
     },
     {
-      "title": "Rada Etyki Mediów rozpatruje skargę",
+      "title": "\"Wyjątkowa wartość pracy\" dziennikarza \"Superwizjera\". Rada Etyki Mediów oddala skargę",
       "link": "https://tvn24.pl/polska/wyjatkowa-wartosc-pracy-dziennikarza-superwizjera-rada-etyki-mediow-oddala-skarge-st8785777?source=rss",
       "pubDate": "Thu, 04 Dec 2025 16:14:23 GMT",
       "description": "Skarga Centralnego Biura Śledczego Policji na reportaż \"Korupcja wyborcza i przerwana akcja CBŚP\" autorstwa Grzegorza Głuszaka z \"Superwizjera\" została oddalona przez Radę Etyki Mediów. Oceniono, że działania dziennikarza służyły dążeniu do prawdy, co \"wskazuje na wyjątkową wartość jego pracy, bo dotyczy ona fundamentów demokracji\". Reportaż opowiadał o wyborach samorządowych w Bogatyni. Według materiału, policja miała informacje o planowanych fałszerstwach wyborczych, ale operację zatrzymania podejrzewanych przerwano w ostatniej chwili.",
@@ -28,7 +68,7 @@
       "originalDescription": "Skarga Centralnego Biura Śledczego Policji na reportaż \"Korupcja wyborcza i przerwana akcja CBŚP\" autorstwa Grzegorza Głuszaka z \"Superwizjera\" została oddalona przez Radę Etyki Mediów. Oceniono, że działania dziennikarza służyły dążeniu do prawdy, co \"wskazuje na wyjątkową wartość jego pracy, bo dotyczy ona fundamentów demokracji\". Reportaż opowiadał o wyborach samorządowych w Bogatyni. Według materiału, policja miała informacje o planowanych fałszerstwach wyborczych, ale operację zatrzymania podejrzewanych przerwano w ostatniej chwili."
     },
     {
-      "title": "Minister zdrowia ogłasza dialog",
+      "title": "Minister zdrowia zapowiada dialog. Eksperci: wciąż brak diagnozy i planu leczenia",
       "link": "https://tvn24.pl/zdrowie/minister-zdrowia-zapowiada-dialog-eksperci-po-szczycie-medycznym-wciaz-brak-diagnozy-i-planu-leczenia-st8786099?source=rss",
       "pubDate": "Thu, 04 Dec 2025 16:09:23 GMT",
       "description": "Jesteśmy gotowi stworzyć przestrzeń do debaty - powiedziała minister zdrowia Jolanta Sobierańska-Grenda podczas szczytu medycznego \"Bezpieczny Pacjent\", pytana o to, czy resort ma jakąś długofalową strategię wyjścia z kryzysu. - Dobrze że zaczynamy rozmawiać, ale zabrakło diagnoz i recept na rozwiązanie sytuacji. Nie czuję się mądrzejszy - komentował już po szczycie, w rozmowie z tvn24.pl, Wojciech Wiśniewski z Federacji Przedsiębiorców Polskich. Z konkretów - premier zapowiedział, że składka zdrowotna nie wzrośnie w przyszłym i kolejnym roku.",
@@ -42,46 +82,6 @@
       "description": "55-latek zaczął się awanturować, kiedy sprzedawca - zgodnie z obowiązującymi przepisami - odmówił mu sprzedaży alkoholu po godzinie 22. Nagle mężczyzna wyciągnął nóż i swoją agresję skierował na obywatela Białorusi, który również był w sklepie. Kazał mu \"wynosić się z jego kraju\". Poszkodowany mężczyzna przestraszony zaczął przepraszać, co nie uspokoiło 55-latka. Sprawca został zatrzymany kilka dni później. Usłyszał zarzuty.",
       "originalTitle": "Nie chcieli mu sprzedać alkoholu, wyjął z kieszeni nóż",
       "originalDescription": "55-latek zaczął się awanturować, kiedy sprzedawca - zgodnie z obowiązującymi przepisami - odmówił mu sprzedaży alkoholu po godzinie 22. Nagle mężczyzna wyciągnął nóż i swoją agresję skierował na obywatela Białorusi, który również był w sklepie. Kazał mu \"wynosić się z jego kraju\". Poszkodowany mężczyzna przestraszony zaczął przepraszać, co nie uspokoiło 55-latka. Sprawca został zatrzymany kilka dni później. Usłyszał zarzuty."
-    },
-    {
-      "title": "Nie żyje jeden z najbogatszych Polaków",
-      "link": "https://tvn24.pl/biznes/z-kraju/leszek-gierszewski-nie-zyje-prezes-drutex-byl-jednym-z-najbogatszych-polakow-zajal-22-miejsce-na-liscie-forbes-2025-st8786063?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 15:56:22 GMT",
-      "description": "W wieku 75 lat odszedł Leszek Gierszewski, założyciel i prezes spółki Drutex, specjalizującej się w stolarce okienno-drzwiowej. Przedsiębiorca należał do grona najbogatszych Polaków. \"To trudny moment dla nas wszystkich\" - poinformowano w komunikacie na stronie internetowej firmy.",
-      "originalTitle": "Nie żyje jeden z najbogatszych Polaków",
-      "originalDescription": "W wieku 75 lat odszedł Leszek Gierszewski, założyciel i prezes spółki Drutex, specjalizującej się w stolarce okienno-drzwiowej. Przedsiębiorca należał do grona najbogatszych Polaków. \"To trudny moment dla nas wszystkich\" - poinformowano w komunikacie na stronie internetowej firmy."
-    },
-    {
-      "title": "Kazik w szpitalu. \"Dziś w nocy bliski końca drogi byłem\"",
-      "link": "https://tvn24.pl/kultura-i-styl/kazik-staszewski-w-szpitalu-lider-kultu-pisze-o-stanie-zdrowia-st8786044?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 15:54:26 GMT",
-      "description": "Wokalista Kultu, Kazik Staszewski, poinformował w czwartek w mediach społecznościowych, że jest w szpitalu. W ostatnim wpisie stwierdził, że w nocy był \"bliski końca drogi\". Wcześniej wspomniał o źle wykonanym zabiegu.",
-      "originalTitle": "Kazik w szpitalu. \"Dziś w nocy bliski końca drogi byłem\"",
-      "originalDescription": "Wokalista Kultu, Kazik Staszewski, poinformował w czwartek w mediach społecznościowych, że jest w szpitalu. W ostatnim wpisie stwierdził, że w nocy był \"bliski końca drogi\". Wcześniej wspomniał o źle wykonanym zabiegu."
-    },
-    {
-      "title": "Egzamin na prawo jazdy zakończył się szamotaniną",
-      "link": "https://tvn24.pl/poznan/kalisz-39-latek-mial-oszukiwac-podczas-egzaminu-doszlo-do-szamotaniny-st8785539?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 15:50:16 GMT",
-      "description": "Egzaminator podejrzewał, że 39-latek oszukuje podczas egzaminu na prawo jazdy. Gdy zwrócił mężczyźnie uwagę, ten zrobił się agresywny. Skończyło się na policyjnej interwencji i poważnym zarzucie.",
-      "originalTitle": "Egzamin na prawo jazdy zakończył się szamotaniną",
-      "originalDescription": "Egzaminator podejrzewał, że 39-latek oszukuje podczas egzaminu na prawo jazdy. Gdy zwrócił mężczyźnie uwagę, ten zrobił się agresywny. Skończyło się na policyjnej interwencji i poważnym zarzucie."
-    },
-    {
-      "title": "\"Zabrało diagnozy, zabrakło recepty\". Komentarz eksperta po szczycie medycznym",
-      "link": "https://tvn24.pl/zdrowie/zabralo-diagnozy-zabraklo-recepty-eksperci-o-rzadowym-szczycie-medycznym-st8785971?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 15:47:13 GMT",
-      "description": "W debacie podczas czwartkowego szczytu dotyczącego zdrowia i bezpieczeństwa zdrowotnego Polaków wzięło udział wielu ekspertów. Jak oceniają to spotkanie? Zapytaliśmy o to Wojciecha Wiśniewskiego z Federacji Przedsiębiorców Polskich.",
-      "originalTitle": "\"Zabrało diagnozy, zabrakło recepty\". Komentarz eksperta po szczycie medycznym",
-      "originalDescription": "W debacie podczas czwartkowego szczytu dotyczącego zdrowia i bezpieczeństwa zdrowotnego Polaków wzięło udział wielu ekspertów. Jak oceniają to spotkanie? Zapytaliśmy o to Wojciecha Wiśniewskiego z Federacji Przedsiębiorców Polskich."
-    },
-    {
-      "title": "Setki tysięcy kont w mediach społecznościowych zablokowane. \"Pierwsza kostka domina\"",
-      "link": "https://tvn24.pl/biznes/tech/meta-blokuje-setki-tysiecy-kont-pierwsza-kostka-domina-st8785966?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 15:46:46 GMT",
-      "description": "Zakaz korzystania z mediów społecznościowych przez osoby poniżej 16. roku życia może stać się \"pierwszą kostką domina\" w globalnym ruchu na rzecz ograniczenia wpływu Big Tech'ów - twierdzi australijska komisarz do spraw e-bezpieczeństwa Julie Inman Grant. Meta - właściciel Instagrama, Facebooka i Threads - już przed wejściem przepisów w życie zaczęła blokować setki tysięcy kont.",
-      "originalTitle": "Setki tysięcy kont w mediach społecznościowych zablokowane. \"Pierwsza kostka domina\"",
-      "originalDescription": "Zakaz korzystania z mediów społecznościowych przez osoby poniżej 16. roku życia może stać się \"pierwszą kostką domina\" w globalnym ruchu na rzecz ograniczenia wpływu Big Tech'ów - twierdzi australijska komisarz do spraw e-bezpieczeństwa Julie Inman Grant. Meta - właściciel Instagrama, Facebooka i Threads - już przed wejściem przepisów w życie zaczęła blokować setki tysięcy kont."
     }
   ]
 }
