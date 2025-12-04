@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2025-12-04T10:41:20.859Z",
+  "lastUpdate": "2025-12-04T11:06:23.482Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Tramwaje świąteczne na torach",
+      "title": "Wypadek na przejeździe kolejowym",
+      "link": "https://tvn24.pl/rzeszow/chorzelow-dziadek-z-wnuczka-zgineli-na-przejezdzie-kolejowym-jest-wazna-opinia-st8785044?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 10:57:47 GMT",
+      "description": "• Komisji Badania Wypadków Kolejowych nie stwierdziła winy kierującego szynobusem.\n• Wypadek miał miejsce w Chorzelowie na Podkarpaciu.\n• W wypadku zginął 85-letni mężczyzna.\n• W wypadku zginęła również 11-letnia wnuczka mężczyzny.\n• Wypadek miał miejsce na przejeździe kolejowym.",
+      "originalTitle": "Dziadek z wnuczką zginęli na przejeździe kolejowym. Jest ważna opinia",
+      "originalDescription": "Komisji Badania Wypadków Kolejowych nie stwierdziła winy kierującego szynobusem - dowiedział się portal tvn24.pl. Chodzi o wypadek w Chorzelowie na Podkarpaciu, w którym na przejeździe kolejowym zginął 85-letni mężczyzna i jego 11-letnia wnuczka."
+    },
+    {
+      "title": "USA: odśnieżono setki pojazdów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-odsniezyli-setki-pojazdow-zima-postawila-trudne-warunki-st8784993?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 10:54:34 GMT",
+      "description": "• Ponad 900 samochodów musieli odśnieżyć pracownicy.\n• Pracownicy byli z jednego z komisów.\n• Komis znajduje się w amerykańskim stanie Wisconsin.\n• Rekordowe opady śniegu spowodowały konieczność odśnieżania.\n• Pojazdy pokryły się grubą warstwą śniegu.",
+      "originalTitle": "USA. Odśnieżyli setki pojazdów. Zima postawiła trudne warunki",
+      "originalDescription": "Ponad 900 samochodów musieli odśnieżyć pracownicy jednego z komisów w amerykańskim stanie Wisconsin. Po rekordowych opadach śniegu pojazdy pokryły się grubą warstwą śniegu."
+    },
+    {
+      "title": "Polska liderem w eksporcie odzieży",
+      "link": "https://tvn24.pl/biznes/ze-swiata/bangladesz-swiatowa-potega-w-eksporcie-odziezy-w-srodku-50-stopni-ze-wszystkich-sie-leje-pot-st8784940?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 10:54:31 GMT",
+      "description": "Dzieci w fabrykach w Bangladeszu to widok powszechny. - Pracują po dwanaście godzin dziennie - mówi polska podróżniczka i dziennikarka Marzena Figiel-Strzała w \"Rozmowach o końcu świata\" w TVN24+.",
+      "originalTitle": "Światowa potęga w eksporcie odzieży. \"W środku 50 stopni. Ze wszystkich się leje pot\"",
+      "originalDescription": "Dzieci w fabrykach w Bangladeszu to widok powszechny. - Pracują po dwanaście godzin dziennie - mówi polska podróżniczka i dziennikarka Marzena Figiel-Strzała w \"Rozmowach o końcu świata\" w TVN24+."
+    },
+    {
+      "title": "\"Koleżanka powiedziała: jak nie Stwosz to kto?\"",
+      "link": "https://tvn24.pl/krakow/krakow-mogila-jak-doszlo-do-odkrycia-zapomnianej-rzezby-wita-stwosza-st8784602?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 10:46:06 GMT",
+      "description": "Zakrystia pełna mebli z lat 70. ubiegłego stulecia odstraszyła historyków sztuki. Wszystkich poza dwojgiem naukowców, którzy wypatrzyli tam niezwykłą rzeźbę. - Stwierdziłem, że jest średniowieczna, a jak jest średniowieczna, to trzeba się przyjrzeć - mówi jeden z nich w rozmowie z tvn24.pl. Tak dotarli do nieznanego wcześniej dzieła Wita Stwosza.",
+      "originalTitle": "\"Koleżanka powiedziała: jak nie Stwosz to kto?\"",
+      "originalDescription": "Zakrystia pełna mebli z lat 70. ubiegłego stulecia odstraszyła historyków sztuki. Wszystkich poza dwojgiem naukowców, którzy wypatrzyli tam niezwykłą rzeźbę. - Stwierdziłem, że jest średniowieczna, a jak jest średniowieczna, to trzeba się przyjrzeć - mówi jeden z nich w rozmowie z tvn24.pl. Tak dotarli do nieznanego wcześniej dzieła Wita Stwosza."
+    },
+    {
+      "title": "Terlecki o sprawie Ziobry. \"To oczywiście nas topi\"",
+      "link": "https://tvn24.pl/polska/ryszard-terlecki-o-sprawie-zbigniewa-ziobry-to-oczywiscie-nas-topi-st8785095?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 10:38:21 GMT",
+      "description": "Poseł Prawa i Sprawiedliwości Ryszard Terlecki oświadczył, że \"nie zalecałby\" Zbigniewowi Ziobrze powrotu do kraju, bo \"oczywiście go zamkną\". Przyznał jednocześnie, że sprawa byłego ministra sprawiedliwości \"topi\" PiS.",
+      "originalTitle": "Terlecki o sprawie Ziobry. \"To oczywiście nas topi\"",
+      "originalDescription": "Poseł Prawa i Sprawiedliwości Ryszard Terlecki oświadczył, że \"nie zalecałby\" Zbigniewowi Ziobrze powrotu do kraju, bo \"oczywiście go zamkną\". Przyznał jednocześnie, że sprawa byłego ministra sprawiedliwości \"topi\" PiS."
+    },
+    {
+      "title": "Na tory wyjadą mikołajkowe tramwaje",
       "link": "https://tvn24.pl/tvnwarszawa/komunikacja/na-tory-wyjada-mikolajkowe-tramwaje-st8785150?source=rss",
       "pubDate": "Thu, 04 Dec 2025 10:33:02 GMT",
-      "description": "• W najbliższy mikołajkowy weekend, 6-7 grudnia, zabytkowe tramwaje specjalnej linii M wyjadą na tory.\n• W świąteczny piątek 26 grudnia zabytkowe tramwaje specjalnej linii M również wyjadą na tory.\n• Zarząd Transportu Miejskiego poinformował o planach zabytkowych tramwajów specjalnej linii M.",
+      "description": "W najbliższy mikołajkowy weekend, 6-7 grudnia, oraz w świąteczny piątek 26 grudnia na tory wyjadą zabytkowe tramwaje specjalnej linii M - poinformował Zarząd Transportu Miejskiego.",
       "originalTitle": "Na tory wyjadą mikołajkowe tramwaje",
       "originalDescription": "W najbliższy mikołajkowy weekend, 6-7 grudnia, oraz w świąteczny piątek 26 grudnia na tory wyjadą zabytkowe tramwaje specjalnej linii M - poinformował Zarząd Transportu Miejskiego."
     },
     {
-      "title": "Piraci zaatakowali statek z Polakiem w załodze",
-      "link": "https://tvn24.pl/swiat/piraci-zaatakowali-statek-polak-czlonkiem-zalogi-st8784957?source=rss",
+      "title": "Piraci zaatakowali statek. \"Polak wśród uprowadzonych\"",
+      "link": "https://tvn24.pl/swiat/piraci-zaatakowali-statek-polak-wsrod-uprowadzonych-st8784957?source=rss",
       "pubDate": "Thu, 04 Dec 2025 09:33:53 GMT",
-      "description": "• Wczoraj w Zatoce Gwinejskiej doszło do ataku na statek.\n• Członkiem załogi statku był obywatel Polski.\n• Obywatel Polski jest wśród osób uprowadzonych z tego statku.\n• Rzecznik MSZ Maciej Wiewiór poinformował o tym w TVN24.\n• Uruchomione zostały procedury na wypadek takich sytuacji.",
-      "originalTitle": "Piraci zaatakowali statek. \"Polak członkiem załogi\"",
-      "originalDescription": "- Wczoraj w Zatoce Gwinejskiej doszło do ataku na statek, którego członkiem załogi był obywatel Polski, jest on też wśród osób uprowadzonych z tego statku - powiedział w TVN24 rzecznik MSZ Maciej Wiewiór. Jak dodał, \"uruchomione zostały procedury na wypadek takich sytuacji\"."
+      "description": "- Wczoraj w Zatoce Gwinejskiej doszło do ataku na statek, którego członkiem załogi był obywatel Polski. Jest on też wśród osób uprowadzonych z tego statku - powiedział w TVN24 rzecznik MSZ Maciej Wiewiór. Ministerstwo już działa w tej sprawie.",
+      "originalTitle": "Piraci zaatakowali statek. \"Polak wśród uprowadzonych\"",
+      "originalDescription": "- Wczoraj w Zatoce Gwinejskiej doszło do ataku na statek, którego członkiem załogi był obywatel Polski. Jest on też wśród osób uprowadzonych z tego statku - powiedział w TVN24 rzecznik MSZ Maciej Wiewiór. Ministerstwo już działa w tej sprawie."
     },
     {
-      "title": "Postępowanie w sprawie zarzutów korupcyjnych",
+      "title": "Zarzuty korupcyjne wobec wójta i jego zastępcy",
       "link": "https://tvn24.pl/lublin/gmina-wolka-zarzuty-korupcyjne-wobec-wojta-i-jego-zastepcy-zatrzymano-tez-dwoch-przedsiebiorcow-st8784979?source=rss",
       "pubDate": "Thu, 04 Dec 2025 10:21:19 GMT",
-      "description": "• Centralne Biuro Antykorupcyjne zatrzymało Edwina G. i Pawła G.\n• Edwin G. jest wójtem gminy Wólka (Lubelskie)\n• Paweł G. jest zastępcą wójta\n• Obaj usłyszeli zarzuty o charakterze korupcyjnym\n• Samorządowcy zostali zawieszeni w pełnieniu obowiązków służbowych\n• Premier wyznaczy osobę, która będzie pełniła funkcję w zastępstwie wójta",
+      "description": "Centralne Biuro Antykorupcyjne zatrzymało Edwina G. i Pawła G. Pierwszy jest wójtem gminy Wólka (Lubelskie), a drugi jego zastępcą. Obaj usłyszeli zarzuty o charakterze korupcyjnym. Samorządowcy zostali zawieszeni w pełnieniu obowiązków służbowych. Premier wyznaczy osobę, która będzie pełniła funkcję w zastępstwie wójta.",
       "originalTitle": "Zarzuty korupcyjne wobec wójta i jego zastępcy",
       "originalDescription": "Centralne Biuro Antykorupcyjne zatrzymało Edwina G. i Pawła G. Pierwszy jest wójtem gminy Wólka (Lubelskie), a drugi jego zastępcą. Obaj usłyszeli zarzuty o charakterze korupcyjnym. Samorządowcy zostali zawieszeni w pełnieniu obowiązków służbowych. Premier wyznaczy osobę, która będzie pełniła funkcję w zastępstwie wójta."
     },
     {
-      "title": "Mężczyzna zmarł po próbie ucieczki z aresztu",
+      "title": "Nie żyje mężczyzna, który próbował uciec z aresztu",
       "link": "https://tvn24.pl/lubuskie/zielona-gora-nie-zyje-mezczyzna-ktory-probowal-uciec-z-aresztu-sledczego-st8785046?source=rss",
       "pubDate": "Thu, 04 Dec 2025 10:17:42 GMT",
       "description": "Mężczyzna spadł ze znacznej wysokości podczas próby ucieczki z Aresztu Śledczego w Zielonej Górze. W stanie krytycznym trafił do szpitala. Tam zmarł.",
@@ -42,46 +82,6 @@
       "description": "Jeszcze w tym roku ma powstać aplikacja schronowa, a także magazyny z wyposażeniem i sprzętem w ramach obrony cywilnej. Obywatele mają też dostać poradniki bezpieczeństwa. Sytuacja ze schronami nie jest w Polsce tak dobra, jak na przykład Litwie, ale od przyszłego roku inwestycje w tym obszarze mają przyspieszyć. Materiał magazynu \"Polska i Świat\".",
       "originalTitle": "\"Ludzie wiedzą jedno: schronów nie ma\". Ale to ma się zmienić",
       "originalDescription": "Jeszcze w tym roku ma powstać aplikacja schronowa, a także magazyny z wyposażeniem i sprzętem w ramach obrony cywilnej. Obywatele mają też dostać poradniki bezpieczeństwa. Sytuacja ze schronami nie jest w Polsce tak dobra, jak na przykład Litwie, ale od przyszłego roku inwestycje w tym obszarze mają przyspieszyć. Materiał magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Monika Olejnik z nagrodą specjalną VIVA! People Power 2025. \"Marzę o tym, żeby kultura zwyciężyła z przemocą\"",
-      "link": "https://tvn24.pl/kultura-i-styl/monika-olejnik-z-nagroda-specjalna-viva-people-power-2025-st8784954?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 10:13:39 GMT",
-      "description": "Ta nagroda będzie powodowała, że będę miała jeszcze więcej siły i odkręcę wrotki - zapowiedziała Monika Olejnik, odbierając w środę nagrodę specjalną VIVA! People Power 2025. Dziennikarka zaapelowała też ze sceny w sprawie hejtu i przemocy.",
-      "originalTitle": "Monika Olejnik z nagrodą specjalną VIVA! People Power 2025. \"Marzę o tym, żeby kultura zwyciężyła z przemocą\"",
-      "originalDescription": "Ta nagroda będzie powodowała, że będę miała jeszcze więcej siły i odkręcę wrotki - zapowiedziała Monika Olejnik, odbierając w środę nagrodę specjalną VIVA! People Power 2025. Dziennikarka zaapelowała też ze sceny w sprawie hejtu i przemocy."
-    },
-    {
-      "title": "\"Informacja o zarzutach\" dla Morawieckiego i Błaszczaka. Pismo od prokuratury",
-      "link": "https://tvn24.pl/polska/informacja-o-zarzutach-dla-mateusza-morawieckiego-i-mariusza-blaszczaka-pismo-od-prokuratury-st8785065?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 10:11:47 GMT",
-      "description": "Prokurator generalny Waldemar Żurek przekazał marszałkowi Sejmu informacje dotyczące przedstawienia Mateuszowi Morawieckiemu, Mariuszowi Błaszczakowi i Krzysztofowi Ardanowskiemu - byłym członkom Rady Ministrów - zarzutów popełnienia przestępstw - poinformowała Prokuratura Krajowa.",
-      "originalTitle": "\"Informacja o zarzutach\" dla Morawieckiego i Błaszczaka. Pismo od prokuratury",
-      "originalDescription": "Prokurator generalny Waldemar Żurek przekazał marszałkowi Sejmu informacje dotyczące przedstawienia Mateuszowi Morawieckiemu, Mariuszowi Błaszczakowi i Krzysztofowi Ardanowskiemu - byłym członkom Rady Ministrów - zarzutów popełnienia przestępstw - poinformowała Prokuratura Krajowa."
-    },
-    {
-      "title": "Zatrzymali go z narkotykami, będzie musiał opuścić Polskę",
-      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-posiadal-narkotyki-musi-opuscic-polske-st8784931?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 10:09:56 GMT",
-      "description": "Policjanci z Mokotowa zatrzymali mężczyznę podejrzanego o posiadanie narkotyków. Wobec 28-letniego Białorusina wszczęto procedurę wydalenia z Polski.",
-      "originalTitle": "Zatrzymali go z narkotykami, będzie musiał opuścić Polskę",
-      "originalDescription": "Policjanci z Mokotowa zatrzymali mężczyznę podejrzanego o posiadanie narkotyków. Wobec 28-letniego Białorusina wszczęto procedurę wydalenia z Polski."
-    },
-    {
-      "title": "OpenAI przejmuje polską spółkę",
-      "link": "https://tvn24.pl/biznes/tech/openai-przejmuje-polska-spolke-st8784977?source=rss",
-      "pubDate": "Thu, 04 Dec 2025 10:03:27 GMT",
-      "description": "OpenAI przejęło polską spółkę Neptune - twórcę specjalistycznej platformy do monitorowania i analizy procesów trenowania modeli sztucznej inteligencji. Firmy poinformowały o transakcji w opublikowanych komunikatach, nie ujawniając jej wartości.",
-      "originalTitle": "OpenAI przejmuje polską spółkę",
-      "originalDescription": "OpenAI przejęło polską spółkę Neptune - twórcę specjalistycznej platformy do monitorowania i analizy procesów trenowania modeli sztucznej inteligencji. Firmy poinformowały o transakcji w opublikowanych komunikatach, nie ujawniając jej wartości."
-    },
-    {
-      "title": "Zabił, ciało poćwiartował w łazience, przeniósł w walizce i zakopał w parku. Areszt dla 19-latka",
-      "link": "https://tvn24.pl/trojmiasto/slupsk-rozczlonkowane-cialo-zakopane-w-parku-zarzuty-i-areszt-dla-19-latka-st8781708?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 11:41:38 GMT",
-      "description": "Ciało 31-latka odnaleziono w jednym z parków w Słupsku. Poćwiartowane zwłoki były zakopane w ziemi. Jeszcze tego samego dnia zatrzymano 19-letniego Alana G., który przyznał się do zabójstwa i wskazał motyw. Mężczyźni byli współlokatorami. Sąd zdecydował o areszcie dla podejrzanego.",
-      "originalTitle": "Zabił, ciało poćwiartował w łazience, przeniósł w walizce i zakopał w parku. Areszt dla 19-latka",
-      "originalDescription": "Ciało 31-latka odnaleziono w jednym z parków w Słupsku. Poćwiartowane zwłoki były zakopane w ziemi. Jeszcze tego samego dnia zatrzymano 19-letniego Alana G., który przyznał się do zabójstwa i wskazał motyw. Mężczyźni byli współlokatorami. Sąd zdecydował o areszcie dla podejrzanego."
     }
   ]
 }
