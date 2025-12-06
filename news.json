@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-12-06T16:06:15.920Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-12-06T16:39:28.233Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Osoba zaginiona w 2021 odnaleziona poza granicami kraju",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/zniknal-w-2021-roku-odnalazl-sie-tysiace-kilometrow-od-domu-st8787369?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 16:35:00 GMT",
+      "description": "• Choco zaginął cztery lata temu.\n• Jego właściciele stracili już nadzieję, że jeszcze kiedyś go zobaczą.\n• Pupil odnalazł się tysiące kilometrów od domu.\n• Choco został znaleziony w innym stanie.",
+      "originalTitle": "Zniknął w 2021 roku. Odnalazł się tysiące kilometrów od domu",
+      "originalDescription": "Choco zaginął cztery lata temu. Gdy jego właściciele stracili już nadzieję, że jeszcze kiedyś go zobaczą, pupil odnalazł się tysiące kilometrów od domu, w innym stanie."
+    },
+    {
+      "title": "Migranci na granicy: spadek liczby przyjazdów",
+      "link": "https://tvn24.pl/lublin/podlaskie-duzy-spadek-liczby-migrantow-probujacych-dostac-sie-do-polski-widza-to-pogranicznicy-i-aktywisci-st8787272?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 16:32:24 GMT",
+      "description": "• Uszczelnienie bariery na granicy może być jednym z powodów spadku liczby migrantów próbujących nielegalnie przekroczyć polsko-białoruską granicę.\n• Spadek temperatury w związku ze zbliżającą się zimą mo��e być kolejnym powodem spadku liczby migrantów próbujących nielegalnie przekroczyć polsko-białoruską granicę.\n• Otwarcie dwóch przejść granicznych, które były zamknięte od kilku lat, może być powodem spadku liczby migrantów próbujących nielegalnie przekroczyć polsko-białoruską granicę, jako forma wdzięczności białoruskiego reżimu.\n• Strażnicy graniczni potwierdzają spadek liczby migrantów próbujących nielegalnie przekroczyć polsko-białoruską granicę.\n• Aktywiści potwierdzają spadek liczby migrantów próbujących nielegalnie przekroczyć polsko-białoruską granicę.\n• Wszyscy obserwatorzy zastanawiają się, czy spadek liczby migrantów jest chwilowy, czy może jednak trwała zmiana.",
+      "originalTitle": "Dużo mniej migrantów na granicy. \"Liczby maleją z dnia na dzień\"",
+      "originalDescription": "Uszczelnienie bariery na granicy, spadek temperatury w związku ze zbliżającą się zimą, a może swego rodzaju wdzięczność białoruskiego reżimu za otwarcie dwóch przejść granicznych, które były zamkniętych od kilku lat? Niezależnie od tego, który z tych czynników - a może każdy po trochu - przeważył, spada liczba migrantów próbujących nielegalnie przekroczyć polsko-białoruską granicę. Potwierdzają to zarówno strażnicy graniczni, jak i aktywiści. Wszyscy zastanawiają się jednak, co dalej? Czy to tylko chwilowy spadek, czy może jednak trwała zmiana?"
+    },
+    {
+      "title": "Meghan Markle kontaktuje się z ojcem",
+      "link": "https://tvn24.pl/swiat/meghan-markle-postanowila-skontaktowac-sie-z-ojcem-po-tym-jak-thomas-markle-mial-miec-amputowana-noge-na-filipinach-st8789041?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 16:29:06 GMT",
+      "description": "• Księżna Sussex próbowała skontaktować się ze swoim ojcem Thomasem Markle.\n• Thomas Markle jest poważnie chory.\n• Thomas Markle przebywa w szpitalu na Filipinach.\n• Informację o próbie kontaktu podała BBC.\n• BBC cytowała rzecznika Meghan Markle.\n• Nie wiadomo, czy próba kontaktu się powiodła.",
+      "originalTitle": "Doniesienia o amputacji. Meghan Markle próbowała skontaktować się z ojcem",
+      "originalDescription": "Księżna Sussex próbowała skontaktować się ze swoim ojcem Thomasem Markle, który według doniesień jest poważnie chory i przebywa w szpitalu na Filipinach - informuje BBC, cytując rzecznika Meghan Markle. Nie wiadomo, czy próba się powiodła."
+    },
+    {
+      "title": "Koniec ery powojennej w USA",
+      "link": "https://tvn24.pl/swiat/nowa-strategia-bezpieczenstwa-usa-komentarze-mediow-we-francji-i-wielkiej-brytanii-st8789044?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 15:38:23 GMT",
+      "description": "• Ogłoszona w piątek nowa Narodowa Strategia Bezpieczeństwa Stanów Zjednoczonych jest wymierzona w Europejczyków.\n• Nowa Narodowa Strategia Bezpieczeństwa Stanów Zjednoczonych stanowi historyczne zerwanie z erą po II wojnie światowej.\n• Francuski dziennik \"Le Monde\" komentuje nową Narodową Strategię Bezpieczeństwa Stanów Zjednoczonych.\n• Brytyjski \"Financial Times\" określa nową strategię jako \"radykalna reorientacja amerykańskiej dyplomacji\".",
+      "originalTitle": "\"Ameryka definitywnie zamyka drzwi ery powojennej\"",
+      "originalDescription": "Ogłoszona w piątek nowa Narodowa Strategia Bezpieczeństwa Stanów Zjednoczonych jest wymierzona w Europejczyków i stanowi historyczne zerwanie z erą po II wojnie światowej - komentuje francuski dziennik \"Le Monde\". Zdaniem brytyjskiego \"Financial Times\" strategia to \"radykalna reorientacja amerykańskiej dyplomacji\"."
+    },
+    {
+      "title": "Zanieczyszczenie powietrza przez nielegalny recykling",
+      "link": "https://tvn24.pl/tvnmeteo/smog/ghana-nielegalny-recykling-zanieczyszcza-powietrze-niepodwazalne-dlugofalowe-skutki-st8788744?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 15:31:11 GMT",
+      "description": "• Nielegalne zakłady recyklingu elektroodpadów są niebezpieczne dla zdrowia i środowiska.\n• Naukowcy przyjrzeli się sytuacji panującej w Agbogbloshie w Ghanie.\n• W Agbogbloshie w Ghanie znajduje się składowisko zużytych urządzeń elektronicznych.\n• Metody wykorzystywane do odzyskiwania surowców powodują emisję toksycznych pyłów.\n• Metody wykorzystywane do odzyskiwania surowców zanieczyszczają wodę.\n• Dla wielu mieszkańców Agbogbloshie praca w nielegalnych zakładach recyklingu jest jedynym sposobem na utrzymanie się.",
+      "originalTitle": "Nielegalny recykling zanieczyszcza powietrze. \"Niepodważalne, długofalowe skutki\"",
+      "originalDescription": "Nielegalne zakłady recyklingu elektroodpadów są niebezpieczne dla zdrowia i środowiska. Naukowcy przyjrzeli się sytuacji panującej w Agbogbloshie w Ghanie, gdzie znajduje się składowisko zużytych urządzeń elektronicznych. Metody wykorzystywane do odzyskiwania surowców powodują emisję toksycznych pyłów i zanieczyszczają wodę - co najgorsze, dla wielu mieszkańców to jedyny sposób na utrzymanie się."
+    },
+    {
+      "title": "Awaria w największym banku zakończona",
+      "link": "https://tvn24.pl/biznes/pieniadze/pko-bp-awaria-6-grudnia-2025-st8788996?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 15:16:00 GMT",
+      "description": "W sobotę po południu doszło do awarii w PKO BP. \"Występowały utrudnienia w korzystaniu z BLIK oraz płatnościami na telefon do i z innych banków\" - poinformowała biznesową redakcję tvn24.pl Aneta Styrnik-Chaber z Departamentu Komunikacji Korporacyjnej PKO BP.",
+      "originalTitle": "Koniec awarii w największym banku w Polsce. \"Przepraszamy za utrudnienia\"",
+      "originalDescription": "W sobotę po południu doszło do awarii w PKO BP. \"Występowały utrudnienia w korzystaniu z BLIK oraz płatnościami na telefon do i z innych banków\" - poinformowała biznesową redakcję tvn24.pl Aneta Styrnik-Chaber z Departamentu Komunikacji Korporacyjnej PKO BP."
+    },
+    {
+      "title": "Prognoza pogody na 5 dni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-5-dni-gigantyczna-anomalia-temperatury-idzie-ocieplenie-jak-cieplo-sie-zrobi-st8789003?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 15:02:13 GMT",
+      "description": "Nadchodzące dni przyniosą spore ocieplenie. W połowie tygodnia termometry mogą pokazać lokalnie nawet 15 stopni Celsjusza. W wielu regionach pojawi się też deszcz.",
+      "originalTitle": "Pogoda na pięć dni: gigantyczna anomalia temperatury. Jak ciepło się zrobi?",
+      "originalDescription": "Nadchodzące dni przyniosą spore ocieplenie. W połowie tygodnia termometry mogą pokazać lokalnie nawet 15 stopni Celsjusza. W wielu regionach pojawi się też deszcz."
+    },
+    {
+      "title": "Ruszyła akcja \"Wypożycz choinkę\". Tak można pomóc dzikim zwierzętom",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-w-zakladzie-utylizacyjnym-ruszyla-akcja-wypozycz-choinke-mozna-tanio-uzyskac-drzewko-swiateczne-i-wesprzec-dzikie-zwierzeta-st8788993?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 14:46:16 GMT",
+      "description": "Zakład Utylizacyjny w Gdańsku wypożycza choinki, walcząc z marnotrawstwem i wspierając jednocześnie Pomorski Ośrodek Rehabilitacji Dzikich Zwierząt \"Ostoja\". Wystarczy zarezerwować wybrane drzewko online i wpłacić minimum 70 złotych.",
+      "originalTitle": "Ruszyła akcja \"Wypożycz choinkę\". Tak można pomóc dzikim zwierzętom",
+      "originalDescription": "Zakład Utylizacyjny w Gdańsku wypożycza choinki, walcząc z marnotrawstwem i wspierając jednocześnie Pomorski Ośrodek Rehabilitacji Dzikich Zwierząt \"Ostoja\". Wystarczy zarezerwować wybrane drzewko online i wpłacić minimum 70 złotych."
+    },
+    {
+      "title": "Szwajcaria zakazuje, w Kanadzie i Włoszech też już nie robią? O co chodzi z mammografią",
+      "link": "https://konkret24.tvn24.pl/zdrowie/szwajcaria-zakazuje-w-kanadzie-i-wloszech-tez-planuja-o-co-chodzi-z-mammografia-st8783252?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 14:19:07 GMT",
+      "description": "Doniesienia, jakoby w Szwajcarii zakazano mammografii, znów pojawiły się w polskiej sieci. Przekaz ma zniechęcić kobiety do udziału w badaniach wykrywających raka piersi, strasząc ich rzekomą szkodliwością. Przestrzegamy przed tym fake newsem.",
+      "originalTitle": "Szwajcaria zakazuje, w Kanadzie i Włoszech też już nie robią? O co chodzi z mammografią",
+      "originalDescription": "Doniesienia, jakoby w Szwajcarii zakazano mammografii, znów pojawiły się w polskiej sieci. Przekaz ma zniechęcić kobiety do udziału w badaniach wykrywających raka piersi, strasząc ich rzekomą szkodliwością. Przestrzegamy przed tym fake newsem."
+    },
+    {
+      "title": "W tych dniach będą wyły syreny",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-w-tych-dniach-beda-wyly-syreny-st8788791?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 13:57:04 GMT",
+      "description": "W dniach 15-18 grudnia, w godzinach 8-15, mieszkańcy Warszawy i okolic mogą spodziewać się dźwięku syren alarmowych. Służby będą sprawdzać działanie systemu ostrzegania ludności o zagrożeniu w ramach ćwiczenia Syrena-25.",
+      "originalTitle": "W tych dniach będą wyły syreny",
+      "originalDescription": "W dniach 15-18 grudnia, w godzinach 8-15, mieszkańcy Warszawy i okolic mogą spodziewać się dźwięku syren alarmowych. Służby będą sprawdzać działanie systemu ostrzegania ludności o zagrożeniu w ramach ćwiczenia Syrena-25."
+    }
+  ]
 }
