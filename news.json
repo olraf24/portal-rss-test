@@ -1,10 +1,26 @@
 {
-  "lastUpdate": "2025-12-06T06:08:12.940Z",
+  "lastUpdate": "2025-12-06T06:42:17.331Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "IMGW wydaje ostrzeżenie o trudnych warunkach",
+      "title": "Atak Rosji na Ukrainę, zmiany w ruchu pociągów",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-nocny-atak-rosji-alarm-powietrzny-w-calym-kraju-st8788351?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 05:00:08 GMT",
+      "description": "W nocy z piątku na sobotę siły rosyjskie przeprowadziły zmasowany atak rakietowo-dronowy na większość obwodów Ukrainy. W obwodzie kijowskim co najmniej trzy osoby zostały ranne. W całym kraju ogłoszono alarm przeciwlotniczy.",
+      "originalTitle": "Zmasowany rosyjski atak. Alarm w całej Ukrainie, zmienione trasy pociągów",
+      "originalDescription": "W nocy z piątku na sobotę siły rosyjskie przeprowadziły zmasowany atak rakietowo-dronowy na większość obwodów Ukrainy. W obwodzie kijowskim co najmniej trzy osoby zostały ranne. W całym kraju ogłoszono alarm przeciwlotniczy."
+    },
+    {
+      "title": "Stanowisko PiS w sprawie ustawy łańcuchowej",
+      "link": "https://tvn24.pl/polska/posel-pis-lukasz-kmita-pytany-o-odrzucenie-weta-prezydenckiego-jestesmy-wrazliwi-na-krzywde-zwierzat-st8788330?source=rss",
+      "pubDate": "Sat, 06 Dec 2025 06:16:13 GMT",
+      "description": "• Finansowanie ochrony zdrowia było jednym z tematów dyskusji w programie \"#BezKitu\".\n• Tajne posiedzenie Sejmu było jednym z tematów dyskusji w programie \"#BezKitu\".\n• Ustawa łańcuchowa została zawetowana przez Karola Nawrockiego.\n• Gośćmi w TVN24 byli poseł Polski 2050 Paweł Śliz oraz polityk Prawa i Sprawiedliwości Łukasza Kmita.\n• W trakcie dyskusji nie brakowało wzajemnych przytyków między gośćmi.",
+      "originalTitle": "Co dalej z ustawą łańcuchową? Poseł PiS: jesteśmy wrażliwi na krzywdę zwierząt, ale...",
+      "originalDescription": "Finansowanie ochrony zdrowia, tajne posiedzenie Sejmu i ustawa łańcuchowa zawetowana przez Karola Nawrockiego zdominowały dyskusję w programie \"#BezKitu\". Gośćmi w TVN24 byli poseł Polski 2050 Paweł Śliz oraz polityk Prawa i Sprawiedliwości Łukasza Kmita. Nie brakowało wzajemnych przytyków."
+    },
+    {
+      "title": "IMGW informuje o trudnych warunkach",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-5-6-12-gesta-mgla-tu-pogoda-sprawi-klopoty-imgw-ostrzega-st8787738?source=rss",
       "pubDate": "Sat, 06 Dec 2025 05:50:00 GMT",
       "description": "• IMGW wydał ostrzeżenia meteorologiczne.\n• W sobotę rano w części kraju wciąż mają snuć się mgły.\n• Widzialność będzie ograniczona.\n• Należy zachować szczególną ostrożność w określonych miejscach.",
@@ -15,20 +31,12 @@
       "title": "Polak poszukiwany zatrzymany",
       "link": "https://tvn24.pl/swiat/hiszpania-polak-poszukiwany-europejskim-nakazem-aresztowania-zatrzymany-w-alicante-st8788337?source=rss",
       "pubDate": "Sat, 06 Dec 2025 05:38:49 GMT",
-      "description": "• Polski handlarz narkotyków został schwytany w Alicante.\n• Został on skazany na 20 lat więzienia.\n• Przestępca należał do międzynarodowej grupy przestępczej.",
+      "description": "Polski handlarz narkotyków, zbieg skazany na 20 lat więzienia, został schwytany w Alicante. Przestępca należał do międzynarodowej grupy przestępczej.",
       "originalTitle": "Polak poszukiwany Europejskim Nakazem Aresztowania zatrzymany",
       "originalDescription": "Polski handlarz narkotyków, zbieg skazany na 20 lat więzienia, został schwytany w Alicante. Przestępca należał do międzynarodowej grupy przestępczej."
     },
     {
-      "title": "Ostrzał obwodu kijowskiego powoduje ofiary",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-nocny-atak-rosji-na-obwod-kijowski-sa-ranni-st8788351?source=rss",
-      "pubDate": "Sat, 06 Dec 2025 05:00:08 GMT",
-      "description": "• W nocy z piątku na sobotę Kijów i obwód kijowski zostały zaatakowane przez Rosjan rakietami i dronami.\n• Ranne zostały co najmniej trzy osoby.\n• W regionie ogłoszono alarm przeciwlotniczy.\n• Atak został odnotowany przez Ukraińską Prawdę.",
-      "originalTitle": "Obwód kijowski pod ostrzałem, są ranni",
-      "originalDescription": "W nocy z piątku na sobotę Kijów i obwód kijowski zostały zaatakowane przez Rosjan rakietami i dronami. Ranne zostały co najmniej trzy osoby. W regionie ogłoszono alarm przeciwlotniczy - donosi Ukraińska Prawda."
-    },
-    {
-      "title": "Ukraińcy otrzymali nowe informacje",
+      "title": "\"Ukraińców poinformowano o nowych pomysłach\"",
       "link": "https://tvn24.pl/swiat/rozmowy-usa-ukraina-ukraincow-poinformowano-o-nowych-pomyslach-st8788338?source=rss",
       "pubDate": "Sat, 06 Dec 2025 04:54:29 GMT",
       "description": "W sobotę będą kontynuowane rozmowy amerykańsko-ukraińskie na temat zakończenia wojny w Ukrainie – przekazał Departament Stanu USA. Wysłannicy USA, Steve Witkoff i Jared Kushner, poinformowali ukraińską delegację o nowych pomysłach.",
@@ -74,14 +82,6 @@
       "description": "Architekt z polskimi korzeniami, który zaprojektował ikoniczne Muzeum Guggenheima w Bilbao, zmarł w wieku 96 lat. Frank Gehry zasłynął ze swojego specyficznego stylu, charakteryzującego się licznymi zakrzywionymi płaszczyznami.",
       "originalTitle": "Nie żyje słynny architekt Frank Gehry. Projektował budynki znane na całym świecie",
       "originalDescription": "Architekt z polskimi korzeniami, który zaprojektował ikoniczne Muzeum Guggenheima w Bilbao, zmarł w wieku 96 lat. Frank Gehry zasłynął ze swojego specyficznego stylu, charakteryzującego się licznymi zakrzywionymi płaszczyznami."
-    },
-    {
-      "title": "\"Tak się uśmiecham, ale sam czuję oddech na plecach\". Tusk rozbawił salę",
-      "link": "https://tvn24.pl/polska/tak-sie-usmiecham-ale-sam-czuje-oddech-na-plecach-tusk-rozbawil-sale-st8788258?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 21:04:05 GMT",
-      "description": "Wypowiedź Donalda Tuska w czasie Rady Krajowej Koalicji Obywatelskiej w kontekście wewnętrznych wyborów szczególnie rozbawiła polityków jego partii. Sekretarz KO Marcin Kierwiński poinformował, kiedy wybrany zostanie przewodniczący tego ugrupowania.",
-      "originalTitle": "\"Tak się uśmiecham, ale sam czuję oddech na plecach\". Tusk rozbawił salę",
-      "originalDescription": "Wypowiedź Donalda Tuska w czasie Rady Krajowej Koalicji Obywatelskiej w kontekście wewnętrznych wyborów szczególnie rozbawiła polityków jego partii. Sekretarz KO Marcin Kierwiński poinformował, kiedy wybrany zostanie przewodniczący tego ugrupowania."
     }
   ]
 }
