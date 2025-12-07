@@ -1,31 +1,79 @@
 {
-  "lastUpdate": "2025-12-07T12:08:48.120Z",
+  "lastUpdate": "2025-12-07T12:46:44.804Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Eksperci ostrzegają przed niebezpiecznymi hasłami",
+      "title": "Mężczyzna skazany za atak w centrum handlowym",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-strzelal-z-wiatrowki-w-centrum-handlowym-bil-i-kopal-mezczyzna-stracil-oko-wyrok-st8789615?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 12:41:58 GMT",
+      "description": "• Sąd Okręgowy we Wrocławiu skazał Michała F. na pięć lat więzienia.\n• Skazany to Michał F.\n• Wyrok wynosi pięć lat więzienia.\n• Powodem skazania był brutalny atak na obywatela Rumunii.\n• Atak miał miejsce we wrocławskiej galerii handlowej.\n• Agresja była motywowana nienawiścią narodowościową.",
+      "originalTitle": "Strzelał z wiatrówki w centrum handlowym, bił i kopał. Mężczyzna stracił oko. Wyrok",
+      "originalDescription": "Sąd Okręgowy we Wrocławiu skazał Michała F. na pięć lat więzienia za brutalny atak na obywatela Rumunii we wrocławskiej galerii handlowej. Uznał, że agresja była motywowana nienawiścią narodowościową."
+    },
+    {
+      "title": "Pojawienie się po 400 latach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/nie-widziano-go-tam-od-400-lat-to-byl-wyjatkowy-moment-st8789624?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 12:35:05 GMT",
+      "description": "W Norfolk we wschodniej Anglii pojawił się bóbr. To pierwszy raz od ponad 400 lat, gdy zaobserwowano tam tego ssaka. Pracownik parku przyrody, w którym go dostrzeżono, jednocześnie cieszy się z wizyty zwierzęcia i zastanawia się, skąd się tam wzięło.",
+      "originalTitle": "Nie widziano go tam od 400 lat. \"To był wyjątkowy moment\"",
+      "originalDescription": "W Norfolk we wschodniej Anglii pojawił się bóbr. To pierwszy raz od ponad 400 lat, gdy zaobserwowano tam tego ssaka. Pracownik parku przyrody, w którym go dostrzeżono, jednocześnie cieszy się z wizyty zwierzęcia i zastanawia się, skąd się tam wzięło."
+    },
+    {
+      "title": "Sprawa kryptowalut po zmianach w służbach specjalnych",
+      "link": "https://tvn24.pl/polska/rosyjski-pasek-i-zdymisjonowanie-szefow-sluzb-specjalnych-co-dalej-ze-sprawa-kryptowalut-st8789735?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 12:27:50 GMT",
+      "description": "• Premierem RP jest Donald Tusk.\n• Doradca prezydenta RP Błażej Poboży wystąpił w programie \"Kawie na ławie\" w TVN24.\n• Błażej Poboży stwierdził, że premier Donald Tusk po swoim wystąpieniu powinien zdymisjonować szefów służb specjalnych, gdyby przyjąć, że mówił prawdę.\n• W programie \"Kawie na ławie\" dyskutowano o sprawie kryptowalut.\n• Sprawa kryptowalut jest głośna od kilku dni.\n• Prezydent RP zawetował ustawę regulującą rynek kryptowalut.",
+      "originalTitle": "\"Rosyjski pasek\" i \"zdymisjonowanie szefów służb specjalnych\". Co dalej ze sprawą kryptowalut?",
+      "originalDescription": "Gdyby przyjąć, że premier Donald Tusk mówił prawdę, to w zasadzie po swoim wystąpieniu powinien zdymisjonować szefów służb specjalnych - powiedział w \"Kawie na ławie\" w TVN24 doradca prezydenta RP Błażej Poboży. Goście programu rozmawiali o głośnej od kilku dni sprawie kryptowalut i prezydenckim wecie do ustawy regulującej ich rynek."
+    },
+    {
+      "title": "Kobieta bez prawa jazdy wiozła trzylatka pod wpływem alkoholu",
+      "link": "https://tvn24.pl/bialystok/czartajew-byla-pijana-wiozla-male-dziecko-mowila-ze-jest-w-trakcie-kursu-i-chciala-pocwiczyc-jazde-st8789691?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 12:19:34 GMT",
+      "description": "Policja zatrzymała 28-latkę, która w Czartajewie (Podlaskie) jechała całą szerokością drogi. Miała w organizmie ponad dwa promile alkoholu. Wiozła trzyletniego syna. Nie miała prawa jazdy, mówiła, że chciała tylko poćwiczyć, bo jest w trakcie kursu.",
+      "originalTitle": "Pijana i bez prawa jazdy wiozła trzylatka. Bo \"chciała poćwiczyć\"",
+      "originalDescription": "Policja zatrzymała 28-latkę, która w Czartajewie (Podlaskie) jechała całą szerokością drogi. Miała w organizmie ponad dwa promile alkoholu. Wiozła trzyletniego syna. Nie miała prawa jazdy, mówiła, że chciała tylko poćwiczyć, bo jest w trakcie kursu."
+    },
+    {
+      "title": "Napaść na lotnisku Heathrow. Pięć osób w szpitalu, jedna w rękach policji",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-napasc-na-lotnisku-heathrow-st8789545?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 10:09:15 GMT",
+      "description": "W niedzielę rano policja otrzymała zgłoszenie o napaści na lotnisku Heathrow. Według informacji służb, \"grupa mężczyzn spryskała kilka osób substancją, która prawdopodobnie była gazem pieprzowym\". Pięć osób trafiło do szpitala, a jedna została zatrzymana. Władze lotniska Heathrow poinformowały, że incydent \"został już opanowany\".",
+      "originalTitle": "Napaść na lotnisku Heathrow. Pięć osób w szpitalu, jedna w rękach policji",
+      "originalDescription": "W niedzielę rano policja otrzymała zgłoszenie o napaści na lotnisku Heathrow. Według informacji służb, \"grupa mężczyzn spryskała kilka osób substancją, która prawdopodobnie była gazem pieprzowym\". Pięć osób trafiło do szpitala, a jedna została zatrzymana. Władze lotniska Heathrow poinformowały, że incydent \"został już opanowany\"."
+    },
+    {
+      "title": "Ciężarówka spłonęła przy terminalu kontenerowym. W szoferce znaleziono ciało",
+      "link": "https://tvn24.pl/trojmiasto/gdynia-pozar-ciezarowki-przy-terminalu-kontenerowym-w-szoferce-znaleziono-cialo-st8789652?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 12:08:06 GMT",
+      "description": "W nocy doszło do pożaru ciężarówki na parkingu przy Bałtyckim Terminalu Kontenerowym w Gdyni. Po ugaszeniu ognia w kabinie znaleziono zwęglone ciało mężczyzny.",
+      "originalTitle": "Ciężarówka spłonęła przy terminalu kontenerowym. W szoferce znaleziono ciało",
+      "originalDescription": "W nocy doszło do pożaru ciężarówki na parkingu przy Bałtyckim Terminalu Kontenerowym w Gdyni. Po ugaszeniu ognia w kabinie znaleziono zwęglone ciało mężczyzny."
+    },
+    {
+      "title": "Nigdy nie używaj tych haseł. Eksperci ostrzegają",
       "link": "https://tvn24.pl/biznes/tech/najgorsze-hasla-w-polsce-i-na-swiecie-lista-st8789684?source=rss",
       "pubDate": "Sun, 07 Dec 2025 11:54:18 GMT",
-      "description": "• Wśród polskich internautów zdecydowanie najczęściej używanym hasłem przy zakładaniu kont jest \"admin\".\n• Wyniki te pochodzą z najnowszej analizy NordPass.\n• Na świecie wciąż królują hasła typu \"123456\" czy \"123456789\".\n• Złe nawyki tworzenia haseł dotyczą zarówno najmłodszych, jak i najstarszych internetowych użytkowników.",
+      "description": "Wśród polskich internautów zdecydowanie najczęściej używanym hasłem przy zakładaniu kont jest \"admin\" - wynika z najnowszej analizy NordPass. Na świecie wciąż królują natomiast klasyki typu \"123456\" czy \"123456789\". Co ciekawe, złe nawyki tworzenia haseł dotyczą zarówno najmłodszych, jak i najstarszych internetowych użytkowników.",
       "originalTitle": "Nigdy nie używaj tych haseł. Eksperci ostrzegają",
       "originalDescription": "Wśród polskich internautów zdecydowanie najczęściej używanym hasłem przy zakładaniu kont jest \"admin\" - wynika z najnowszej analizy NordPass. Na świecie wciąż królują natomiast klasyki typu \"123456\" czy \"123456789\". Co ciekawe, złe nawyki tworzenia haseł dotyczą zarówno najmłodszych, jak i najstarszych internetowych użytkowników."
     },
     {
-      "title": "74-latka ofiarą oszustwa",
-      "link": "https://tvn24.pl/bialystok/bialystok-seniorka-najpierw-sama-wpadl-w-sidla-oszustow-potem-do-nich-dolaczyla-st8789620?source=rss",
+      "title": "74-latka wpadła w sidła oszustów, potem do nich dołączyła",
+      "link": "https://tvn24.pl/bialystok/bialystok-seniorka-najpierw-sama-wpadla-w-sidla-oszustow-potem-do-nich-dolaczyla-st8789620?source=rss",
       "pubDate": "Sun, 07 Dec 2025 11:50:11 GMT",
-      "description": "• Oszuści podawali się m.in. za amerykańskiego żołnierza i dziennikarza.\n• Ich ofiarą padła 74-latka, która później dołączyła do oszustów.\n• Ustalenia dotyczące oszustów pochodzą od policjantów z Białegostoku.\n• Rola 74-latki w oszustwach polegała na wyszukiwaniu potencjalnych ofiar.\n• 74-latka przyjmowała od potencjalnych ofiar wpłaty.",
-      "originalTitle": "74-latka wpadł w sidła oszustów, potem do nich dołączyła",
+      "description": "Oszuści podawali się m.in. amerykańskiego żołnierza i dziennikarza. Ich ofiarą padła 74-latka, która później do nich dołączyła. Tak wynika z ustaleń policjantów z Białegostoku. Rola seniorki w oszustwach polegała na wyszukiwaniu potencjalnych ofiar i przyjmowaniu od nich wpłat.",
+      "originalTitle": "74-latka wpadła w sidła oszustów, potem do nich dołączyła",
       "originalDescription": "Oszuści podawali się m.in. amerykańskiego żołnierza i dziennikarza. Ich ofiarą padła 74-latka, która później do nich dołączyła. Tak wynika z ustaleń policjantów z Białegostoku. Rola seniorki w oszustwach polegała na wyszukiwaniu potencjalnych ofiar i przyjmowaniu od nich wpłat."
     },
     {
-      "title": "Samolot przelatuje nad rondem",
+      "title": "Wzbił się w powietrze i przeleciał nad rondem",
       "link": "https://tvn24.pl/swiat/rumunia-oradea-kierowca-z-duza-predkoscia-wystrzelil-z-ronda-i-przelecial-nad-dwoma-samochodami-st8789421?source=rss",
       "pubDate": "Sun, 07 Dec 2025 11:30:14 GMT",
-      "description": "• W Rumunii w mieście Oradea doszło do niebezpiecznego zdarzenia.\n• Kierowca samochodu z dużą prędkością wjechał na rondo.\n• Samochód wzbił się w powietrze i przeleciał nad dwoma innymi pojazdami.\n• Kierowca zasłabł z powodu spadku cukru we krwi.\n• Auto uderzyło w ogrodzenie.\n• Samochód rozbił się na trawniku stacji benzynowej.",
+      "description": "W Rumunii w mieście Oradea samochód z dużą prędkością wjechał na rondo, wzbił się w powietrze i przeleciał nad innymi pojazdami. Auto uderzyło w ogrodzenie i rozbiło się na trawniku stacji benzynowej.",
       "originalTitle": "Wzbił się w powietrze i przeleciał nad rondem",
-      "originalDescription": "W Rumunii w mieście Oradea doszło do niebezpiecznego zdarzenia. Kierowca samochodu z dużą prędkością wjechał na rondo, wzbił się w powietrze i przeleciał nad dwoma innymi pojazdami. Jak się okazało, mężczyzna zasłabł z powodu spadku cukru we krwi. Auto uderzyło w ogrodzenie i rozbiło się na trawniku stacji benzynowej."
+      "originalDescription": "W Rumunii w mieście Oradea samochód z dużą prędkością wjechał na rondo, wzbił się w powietrze i przeleciał nad innymi pojazdami. Auto uderzyło w ogrodzenie i rozbiło się na trawniku stacji benzynowej."
     },
     {
       "title": "Pogoda na 16 dni. To będzie jak wiosna w grudniu",
@@ -34,54 +82,6 @@
       "description": "Już wkrótce temperatura zupełnie wymknie się zimowym normom. Jakich wartości na termometrach możemy się spodziewać w kolejnych dniach? Sprawdź długoterminową prognozę pogody na 16 dni przygotowaną przez synoptyka i prezentera pogody tvnmeteo.pl Tomasza Wasilewskiego.",
       "originalTitle": "Pogoda na 16 dni. To będzie jak wiosna w grudniu",
       "originalDescription": "Już wkrótce temperatura zupełnie wymknie się zimowym normom. Jakich wartości na termometrach możemy się spodziewać w kolejnych dniach? Sprawdź długoterminową prognozę pogody na 16 dni przygotowaną przez synoptyka i prezentera pogody tvnmeteo.pl Tomasza Wasilewskiego."
-    },
-    {
-      "title": "Duży pożar kamienicy. Strażacy ewakuowali mieszkankę z balkonu",
-      "link": "https://tvn24.pl/polska/bedzin-pozar-kamienicy-jedna-osoba-ewakuowana-st8789318?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 06:15:15 GMT",
-      "description": "W nocy z sobotę na niedzielę w kamienicy w Będzinie wybuchł pożar. Dwie osoby ewakuowały się samodzielnie, a trzecią strażacy sprowadzili z balkonu. Jedna osoba trafiła do szpitala. W akcji brało udział 18 zastępów straży pożarnej.",
-      "originalTitle": "Duży pożar kamienicy. Strażacy ewakuowali mieszkankę z balkonu",
-      "originalDescription": "W nocy z sobotę na niedzielę w kamienicy w Będzinie wybuchł pożar. Dwie osoby ewakuowały się samodzielnie, a trzecią strażacy sprowadzili z balkonu. Jedna osoba trafiła do szpitala. W akcji brało udział 18 zastępów straży pożarnej."
-    },
-    {
-      "title": "Alarmowy sygnał na północy Mazowsza",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/dziembakowo-dlaczego-wyly-syreny-st8789570?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 10:57:35 GMT",
-      "description": "W niedzielę przed południem w powiecie sierpeckim mieszkańcy usłyszeli dźwięk syren alarmowych. Jak poinformowała lokalna jednostka straży pożarnej, były to testy systemu alarmowania ludności cywilnej.",
-      "originalTitle": "Na północy Mazowsza zawyły syreny alarmowe",
-      "originalDescription": "W niedzielę przed południem w powiecie sierpeckim mieszkańcy usłyszeli dźwięk syren alarmowych. Jak poinformowała lokalna jednostka straży pożarnej, były to testy systemu alarmowania ludności cywilnej."
-    },
-    {
-      "title": "Spłonęły trzy ciężarówki, pięć naczep i kombajn",
-      "link": "https://tvn24.pl/lublin/brodek-w-nocy-splonely-ciezarowki-naczepy-i-kombajn-st8789569?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 10:52:53 GMT",
-      "description": "Trzy ciężarówki, pięć naczep oraz kombajn rolniczy spłonęły w nocy na parking w Bródku (Lubelskie). Z ogniem walczyło siedem zastępów strażackich. Właścicielowi pojazdów udało się odjechać jedną ciężarówką oraz zabrać dwie naczepy.",
-      "originalTitle": "Spłonęły trzy ciężarówki, pięć naczep i kombajn",
-      "originalDescription": "Trzy ciężarówki, pięć naczep oraz kombajn rolniczy spłonęły w nocy na parking w Bródku (Lubelskie). Z ogniem walczyło siedem zastępów strażackich. Właścicielowi pojazdów udało się odjechać jedną ciężarówką oraz zabrać dwie naczepy."
-    },
-    {
-      "title": "\"Kompletne ośmieszenie Luwru\". Gdzie są \"bezcenne\" klejnoty?",
-      "link": "https://tvn24.pl/swiat/francja-skok-na-luwr-co-sie-stalo-ze-skradzionymi-klejnotami-andrzej-starmach-komentuje-st8789507?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 10:48:47 GMT",
-      "description": "Wartość klejnotów skradzionych z Luwru jest nieprawdopodobna, nie do określenia w jakichkolwiek pieniądzach - wskazywał we \"Wstajesz i wiesz\" Andrzej Starmach, polski marszand, historyk sztuki i kolekcjoner. Mówił też o tym, co według niego może się stać z biżuterią, którą zabrali złodzieje. A na antenie TVN24 i w TVN24+ już dziś o godzinie 12.40 premiera dokumentu \"Skok na Luwr\".",
-      "originalTitle": "\"Kompletne ośmieszenie Luwru\". Gdzie są \"bezcenne\" klejnoty?",
-      "originalDescription": "Wartość klejnotów skradzionych z Luwru jest nieprawdopodobna, nie do określenia w jakichkolwiek pieniądzach - wskazywał we \"Wstajesz i wiesz\" Andrzej Starmach, polski marszand, historyk sztuki i kolekcjoner. Mówił też o tym, co według niego może się stać z biżuterią, którą zabrali złodzieje. A na antenie TVN24 i w TVN24+ już dziś o godzinie 12.40 premiera dokumentu \"Skok na Luwr\"."
-    },
-    {
-      "title": "Wulkan Kilauea. Ognisty żywioł pochłania kamerę. Nagranie",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/wulkan-kilauea-na-hawajach-ognista-pozoga-pochlania-kamere-nagranie-st8789551?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 10:45:12 GMT",
-      "description": "Wulkan Kilauea na Hawajach znów daje o sobie znać. Choć nie zagraża ludziom, to jego \"ofiarą\" stała się kamera. Przykrył ją materiał piroklastyczny.",
-      "originalTitle": "Wulkan Kilauea. Ognisty żywioł pochłania kamerę. Nagranie",
-      "originalDescription": "Wulkan Kilauea na Hawajach znów daje o sobie znać. Choć nie zagraża ludziom, to jego \"ofiarą\" stała się kamera. Przykrył ją materiał piroklastyczny."
-    },
-    {
-      "title": "Kamery i znaki już są. Nowy odcinkowy pomiar prędkości na obwodnicy",
-      "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-kamery-i-znaki-juz-sa-nowy-odcinkowy-pomiar-predkosci-na-poludniowej-obwodnicy-st8789424?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 10:28:18 GMT",
-      "description": "Główny Inspektorat Transportu Drogowego przygotowuje się do uruchomienia kolejnego odcinkowego pomiaru prędkości na drodze ekspresowej S2. Zamontowano już kamery i oznakowanie. Podobny system działa już od kilku lat w tunelu pod Ursynowem.",
-      "originalTitle": "Kamery i znaki już są. Nowy odcinkowy pomiar prędkości na obwodnicy",
-      "originalDescription": "Główny Inspektorat Transportu Drogowego przygotowuje się do uruchomienia kolejnego odcinkowego pomiaru prędkości na drodze ekspresowej S2. Zamontowano już kamery i oznakowanie. Podobny system działa już od kilku lat w tunelu pod Ursynowem."
     }
   ]
 }
