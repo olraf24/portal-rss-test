@@ -1,31 +1,71 @@
 {
-  "lastUpdate": "2025-12-09T19:34:24.254Z",
+  "lastUpdate": "2025-12-09T20:06:19.798Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pogoda na 10.12: silny wiatr",
+      "title": "Prezydent Zełenski przedstawił warunki wyborów",
+      "link": "https://tvn24.pl/swiat/wybory-w-ukrainie-moglyby-sie-odbyc-za-60-90-dni-wolodymyr-zelenski-stawia-warunek-st8793753?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 19:59:47 GMT",
+      "description": "• Ukraina otrzyma gwarancje bezpieczeństwa na okres wyborów.\n• Wybory będą się mogły odbyć za 60-90 dni.\n• Prezydent Ukrainy przekazał informację o możliwości przeprowadzenia wyborów.",
+      "originalTitle": "Wybory możliwe za 60-90 dni. Zełenski stawia warunek",
+      "originalDescription": "O ile Ukraina otrzyma gwarancje bezpieczeństwa na okres wyborów, to będą się one mogły odbyć za 60-90 dni - przekazał prezydent Ukrainy."
+    },
+    {
+      "title": "Wypadek drogowy, auto uderzyło w budynek",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/lesznowola-pomylila-gaz-z-hamulcem-wjechala-w-dom-dostala-mandat-st8793722?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 19:52:55 GMT",
+      "description": "Kierująca samochodem osobowym wjechała w budynek. Auto wbiło się w jedną ze ścian.",
+      "originalTitle": "Pomyliła hamulec z gazem. Auto wbiło się w budynek",
+      "originalDescription": "Kierująca samochodem osobowym wjechała w budynek. Auto wbiło się w jedną ze ścian."
+    },
+    {
+      "title": "Kojarzenie z konstytucją w programie",
+      "link": "https://tvn24.pl/polska/weto-prezydenta-karola-nawrockiego-do-ustawy-lancuchowej-marek-borowski-komentuje-st8793695?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 19:52:20 GMT",
+      "description": "• Przykro mi to powiedzieć, ale mamy prezydenta szkodnika.\n• Ostatnie działania Karola Nawrockiego komentował w \"Kropce nad i\" w TVN24 Marek Borowski.\n• Marek Borowski jest senatorem Koalicji Obywatelskiej.\n• Marek Borowski krytykował między innymi weto Karola Nawrockiego w sprawie ustawy łańcuchowej.\n• Komentarz został wygłoszony w programie \"Kropka nad i\" w TVN24.",
+      "originalTitle": "Co ma kojec do konstytucji? Odpowiedź w \"Kropce nad i\"",
+      "originalDescription": "Przykro mi to powiedzieć, ale mamy prezydenta szkodnika. Po prostu, zwyczajnie. I chyba to nie będzie koniec - tak ostatnie działania Karola Nawrockiego komentował w \"Kropce nad i\" w TVN24 Marek Borowski, senator Koalicji Obywatelskiej. Krytykował między innymi jego weto w sprawie ustawy łańcuchowej."
+    },
+    {
+      "title": "Wyniki sondażu: lider zwiększa przewagę",
+      "link": "https://tvn24.pl/polska/koalicja-obywatelska-na-czele-pis-ze-spadkiem-i-duzy-wzrost-dla-partii-grzegorza-brauna-najnowszy-sondaz-partyjny-st8793645?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 19:40:26 GMT",
+      "description": "Koalicja Obywatelska może liczyć na poparcie 32,9 procent - wynika z najnowszego sondażu pracowni Opinia24, przeprowadzonego już po wybuchu sporu między rządem a prezydentem w sprawie rynku kryptoaktywów. Na podium znalazło się też Prawo i Sprawiedliwość oraz Konfederacja. Wyraźny wzrost zanotowało ugrupowanie Grzegorza Brauna, które uzyskało 9,6 procent poparcia.",
+      "originalTitle": "Lider zwiększa przewagę, duży wzrost dla partii Brauna. Najnowszy sondaż",
+      "originalDescription": "Koalicja Obywatelska może liczyć na poparcie 32,9 procent - wynika z najnowszego sondażu pracowni Opinia24, przeprowadzonego już po wybuchu sporu między rządem a prezydentem w sprawie rynku kryptoaktywów. Na podium znalazło się też Prawo i Sprawiedliwość oraz Konfederacja. Wyraźny wzrost zanotowało ugrupowanie Grzegorza Brauna, które uzyskało 9,6 procent poparcia."
+    },
+    {
+      "title": "Kubek wycofany ze sprzedaży. \"Istotne zagrożenie dla zdrowia człowieka\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/kubek-wycofany-ze-sprzedazy-nie-nalezy-uzywac-st8793550?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 19:33:57 GMT",
+      "description": "Główny Inspektorat Sanitarny wydał ostrzeżenie dotyczące kubka szklanego. Jak przekazał GIS, importer i dystrybutor, po otrzymaniu informacji o zidentyfikowaniu zagrożenia, podjął decyzję o wycofaniu produktu ze sprzedaży.",
+      "originalTitle": "Kubek wycofany ze sprzedaży. \"Istotne zagrożenie dla zdrowia człowieka\"",
+      "originalDescription": "Główny Inspektorat Sanitarny wydał ostrzeżenie dotyczące kubka szklanego. Jak przekazał GIS, importer i dystrybutor, po otrzymaniu informacji o zidentyfikowaniu zagrożenia, podjął decyzję o wycofaniu produktu ze sprzedaży."
+    },
+    {
+      "title": "Pogoda na jutro - środa, 10.12. Uwaga na dość silny wiatr",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-10-12-uwaga-na-dosc-silny-wiatr-st8793697?source=rss",
       "pubDate": "Tue, 09 Dec 2025 19:08:00 GMT",
-      "description": "• Pogoda opisana jest na dzień jutro, czyli na środę.\n• Data tego dnia to 10.12.\n• Noc będzie pochmurna.\n• Noc będzie deszczowa w większości kraju.\n• Powieje silniejszy wiatr.\n• W ciągu dnia temperatura może wynieść nawet 15 stopni na termometrach.",
+      "description": "Pogoda na jutro, czyli na środę, 10.12. Noc będzie pochmurna i deszczowa w większości kraju. Powieje silniejszy wiatr. W ciągu dnia zobaczymy nawet 15 stopni na termometrach.",
       "originalTitle": "Pogoda na jutro - środa, 10.12. Uwaga na dość silny wiatr",
       "originalDescription": "Pogoda na jutro, czyli na środę, 10.12. Noc będzie pochmurna i deszczowa w większości kraju. Powieje silniejszy wiatr. W ciągu dnia zobaczymy nawet 15 stopni na termometrach."
     },
     {
-      "title": "Wstrząs w kopalni Janina",
+      "title": "Silny wstrząs w małopolskiej kopalni \"Janina\"",
       "link": "https://tvn24.pl/krakow/libiaz-silny-wstrzas-w-kopalni-janina-st8793692?source=rss",
       "pubDate": "Tue, 09 Dec 2025 19:02:27 GMT",
-      "description": "• Do silnego wstrząsu doszło we wtorek w kopalni w Libiążu.\n• Kopalnia znajduje się w województwie Małopolskim.\n• Służby zarządzania kryzysowego odebrały 20 zgłoszeń od zaniepokojonych mieszkańców.\n• Nie ma informacji o zagrożeniu dla życia i zdrowia ludzi.",
+      "description": "Do silnego wstrząsu doszło we wtorek w kopalni w Libiążu (Małopolskie). Służby zarządzania kryzysowego odebrały 20 zgłoszeń od zaniepokojonych mieszkańców. Nie ma jednak informacji o zagrożeniu dla życia i zdrowia ludzi.",
       "originalTitle": "Silny wstrząs w małopolskiej kopalni \"Janina\"",
       "originalDescription": "Do silnego wstrząsu doszło we wtorek w kopalni w Libiążu (Małopolskie). Służby zarządzania kryzysowego odebrały 20 zgłoszeń od zaniepokojonych mieszkańców. Nie ma jednak informacji o zagrożeniu dla życia i zdrowia ludzi."
     },
     {
-      "title": "Stosunki Polska USA",
+      "title": "\"Im silniejsza Polska, tym silniejsza Ameryka\"",
       "link": "https://tvn24.pl/polska/ambasador-usa-w-polsce-tom-rose-o-polsce-nato-europie-i-chinach-wywiad-dla-faktow-po-faktach-w-tvn24-st8793633?source=rss",
       "pubDate": "Tue, 09 Dec 2025 18:58:00 GMT",
-      "description": "• Potrzebujemy, aby Europejczycy trzymali się przykładu Polski i stali się pierwszymi strażnikami bezpieczeństwa kontynentu.\n• Mówił o tym ambasador USA w Polsce Tom Rose.\n• Wypowiedź ambasadora została zapisana w specjalnym wywiadzie dla \"Faktów po Faktach\".\n• Ambasador Tom Rose zapewniał o amerykańskim zaangażowaniu w bezpieczeństwo Polski.\n• Zaangażowanie to jest, zdaniem ambasadora, tak solidne i trwałe, jak amerykańskie zaangażowanie na rzecz Alabamy.",
+      "description": "Potrzebujemy, aby Europejczycy trzymali się przykładu Polski i stali się pierwszymi strażnikami kontynentu - mówił ambasador USA w Polsce Tom Rose w specjalnym wywiadzie dla \"Faktów po Faktach\". Zapewniał też o amerykańskim zaangażowaniu w bezpieczeństwo Polski. - Jest tak solidne i trwałe, jak nasze zaangażowanie na rzecz Alabamy chociażby - zaznaczył.",
       "originalTitle": "\"Im silniejsza Polska, tym silniejsza Ameryka\"",
-      "originalDescription": "Potrzebujemy, aby Europejczycy trzymali się przykładu Polski i stali się pierwszymi strażnikami bezpieczeństwa kontynentu - mówił ambasador USA w Polsce Tom Rose w specjalnym wywiadzie dla \"Faktów po Faktach\". Zapewniał też o amerykańskim zaangażowaniu w bezpieczeństwo Polski. - Jest tak solidne i trwałe, jak nasze zaangażowanie na rzecz Alabamy chociażby - zaznaczył."
+      "originalDescription": "Potrzebujemy, aby Europejczycy trzymali się przykładu Polski i stali się pierwszymi strażnikami kontynentu - mówił ambasador USA w Polsce Tom Rose w specjalnym wywiadzie dla \"Faktów po Faktach\". Zapewniał też o amerykańskim zaangażowaniu w bezpieczeństwo Polski. - Jest tak solidne i trwałe, jak nasze zaangażowanie na rzecz Alabamy chociażby - zaznaczył."
     },
     {
       "title": "Kłótnia z byłą żoną i śmiertelny cios. 46-latka nie żyje, pomoc wezwało dziecko",
@@ -42,46 +82,6 @@
       "description": "W stolicy Norwegii jest coraz niebezpieczniej, narasta fala przestępczości - ostrzegła szefowa policji w Oslo Ida Melbo Oeystese. W rozmowie z dziennikiem \"VG\" wskazywała, że dużą rolę w tym zjawisku odgrywają młodociani sprawcy, wynajmowani przez zagranicznych zleceniodawców. Tymczasem funkcjonariusze nie są w stanie odpowiedzieć na każde wezwanie z powodu braków kadrowych.",
       "originalTitle": "Przemoc \"można po prostu zamówić\". \"Idylla w naszym mieście się skończyła\"",
       "originalDescription": "W stolicy Norwegii jest coraz niebezpieczniej, narasta fala przestępczości - ostrzegła szefowa policji w Oslo Ida Melbo Oeystese. W rozmowie z dziennikiem \"VG\" wskazywała, że dużą rolę w tym zjawisku odgrywają młodociani sprawcy, wynajmowani przez zagranicznych zleceniodawców. Tymczasem funkcjonariusze nie są w stanie odpowiedzieć na każde wezwanie z powodu braków kadrowych."
-    },
-    {
-      "title": "Trzy promile i ucieczka ekspresówką. Policja pokazała nagranie z pościgu",
-      "link": "https://tvn24.pl/kielce/kielce-poscig-za-pijanym-kierowca-na-drodze-s7-st8793662?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 18:04:04 GMT",
-      "description": "Nie zatrzymał się do kontroli, uciekał ekspresówką, ale nie zdołał zbiec. Policjanci zatrzymali 54-latka, który na drodze S7 pod Kielcami jechał pod wpływem alkoholu w stronę Warszawy. Miał prawie trzy promile w organizmie.",
-      "originalTitle": "Trzy promile i ucieczka ekspresówką. Policja pokazała nagranie z pościgu",
-      "originalDescription": "Nie zatrzymał się do kontroli, uciekał ekspresówką, ale nie zdołał zbiec. Policjanci zatrzymali 54-latka, który na drodze S7 pod Kielcami jechał pod wpływem alkoholu w stronę Warszawy. Miał prawie trzy promile w organizmie."
-    },
-    {
-      "title": "Miliardy od giganta. \"Największa inwestycja w Azji\"",
-      "link": "https://tvn24.pl/biznes/tech/indie-z-nowym-partnerem-wysokie-ambicje-kraju-st8793543?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:59:38 GMT",
-      "description": "Microsoft ogłosił wartą 17,5 miliardów dolarów inwestycję w usługi chmurowe i sztuczną inteligencję w Indiach. To największe przedsięwzięcie technologicznego giganta w historii jego działalności w Azji - informuje Bloomberg.",
-      "originalTitle": "Miliardy od giganta. \"Największa inwestycja w Azji\"",
-      "originalDescription": "Microsoft ogłosił wartą 17,5 miliardów dolarów inwestycję w usługi chmurowe i sztuczną inteligencję w Indiach. To największe przedsięwzięcie technologicznego giganta w historii jego działalności w Azji - informuje Bloomberg."
-    },
-    {
-      "title": "Pustynny kraj nawiedziły ulewy",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/arabia-saudyjska-pustynny-kraj-nawiedzily-ulewy-st8793588?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:40:00 GMT",
-      "description": "Synoptycy wydali alarmy przed intensywnymi opadami deszczu w części Arabii Saudyjskiej. Gwałtowne ulewy sparaliżowały Dżuddę, zmuszając władze do zamknięcia szkół i wstrzymania festiwalu filmowego.",
-      "originalTitle": "Pustynny kraj nawiedziły ulewy",
-      "originalDescription": "Synoptycy wydali alarmy przed intensywnymi opadami deszczu w części Arabii Saudyjskiej. Gwałtowne ulewy sparaliżowały Dżuddę, zmuszając władze do zamknięcia szkół i wstrzymania festiwalu filmowego."
-    },
-    {
-      "title": "Dodatkowe pasy na autostradzie. Lawina ofert",
-      "link": "https://tvn24.pl/biznes/moto/dodatkowe-pasy-na-autostradzie-a2-lawina-ofert-st8793425?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:24:50 GMT",
-      "description": "Generalna Dyrekcja Dróg Krajowych i Autostrad (GDDKiA) otrzymała 18 ofert w przetargu na rozbudowę 89 kilometrów autostrady A2 między Łodzią a Warszawą o dodatkowe pasy ruchu. Wszystkie propozycje poza jedną mieszczą się w budżetach. Umowy mają zostać podpisane w połowie 2026 roku.",
-      "originalTitle": "Dodatkowe pasy na autostradzie. Lawina ofert",
-      "originalDescription": "Generalna Dyrekcja Dróg Krajowych i Autostrad (GDDKiA) otrzymała 18 ofert w przetargu na rozbudowę 89 kilometrów autostrady A2 między Łodzią a Warszawą o dodatkowe pasy ruchu. Wszystkie propozycje poza jedną mieszczą się w budżetach. Umowy mają zostać podpisane w połowie 2026 roku."
-    },
-    {
-      "title": "\"Jesteśmy gotowi\". Zełenski o elementach planu pokojowego",
-      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-ukraina-i-europa-gotowe-przedstawic-usa-ukrainskie-i-europejskie-elementy-planu-pokojowego-st8793565?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:21:45 GMT",
-      "description": "Prezydent Ukrainy Wołodymyr Zełenski przekazał, że jego kraj i przedstawiciele państw Europy są gotowi przedstawić Stanom Zjednoczonym \"ukraińskie i europejskie elementy\" planu pokojowego. Zapewnił o dążeniu do zakończenia wojny, ale zaznaczył, że \"wszystko zależy od tego, czy Rosja jest gotowa podjąć skuteczne kroki, by zatrzymać przelew krwi\".",
-      "originalTitle": "\"Jesteśmy gotowi\". Zełenski o elementach planu pokojowego",
-      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski przekazał, że jego kraj i przedstawiciele państw Europy są gotowi przedstawić Stanom Zjednoczonym \"ukraińskie i europejskie elementy\" planu pokojowego. Zapewnił o dążeniu do zakończenia wojny, ale zaznaczył, że \"wszystko zależy od tego, czy Rosja jest gotowa podjąć skuteczne kroki, by zatrzymać przelew krwi\"."
     }
   ]
 }
