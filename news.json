@@ -1,34 +1,58 @@
 {
-  "lastUpdate": "2025-12-09T18:42:31.696Z",
+  "lastUpdate": "2025-12-09T19:05:49.373Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Przemoc w mieście",
+      "title": "Wstrząs w kopalni Janina",
+      "link": "https://tvn24.pl/krakow/libiaz-silny-wstrzas-w-kopalni-janina-st8793692?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 19:02:27 GMT",
+      "description": "Do silnego wstrząsu doszło we wtorek w kopalni w Libiążu (Małopolskie). Służby zarządzania kryzysowego odebrały 20 zgłoszeń od zaniepokojonych mieszkańców. Nie ma jednak informacji o zagrożeniu dla życia i zdrowia ludzi.",
+      "originalTitle": "Silny wstrząs w małopolskiej kopalni \"Janina\"",
+      "originalDescription": "Do silnego wstrząsu doszło we wtorek w kopalni w Libiążu (Małopolskie). Służby zarządzania kryzysowego odebrały 20 zgłoszeń od zaniepokojonych mieszkańców. Nie ma jednak informacji o zagrożeniu dla życia i zdrowia ludzi."
+    },
+    {
+      "title": "Stosunki polsko-amerykańskie",
+      "link": "https://tvn24.pl/polska/ambasador-usa-w-polsce-tom-rose-o-polsce-nato-europie-i-chinach-wywiad-dla-faktow-po-faktach-w-tvn24-st8793633?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 18:58:00 GMT",
+      "description": "• Potrzebujemy, aby Europejczycy trzymali się przykładu Polski i stali się pierwszymi strażnikami bezpieczeństwa kontynentu.\n• Mówił o tym ambasador USA w Polsce Tom Rose.\n• Wypowiedź ambasadora została zapisana w specjalnym wywiadzie dla \"Faktów po Faktach\".\n• Ambasador Tom Rose zapewniał o amerykańskim zaangażowaniu w bezpieczeństwo Polski.\n• Zaangażowanie amerykańskie w bezpieczeństwo Polski jest solidne i trwałe.\n• Jako przykład zaangażowania amerykańskiego ambasador podał zaangażowanie na rzecz Alabamy.",
+      "originalTitle": "\"Im silniejsza Polska, tym silniejsza Ameryka\"",
+      "originalDescription": "Potrzebujemy, aby Europejczycy trzymali się przykładu Polski i stali się pierwszymi strażnikami bezpieczeństwa kontynentu - mówił ambasador USA w Polsce Tom Rose w specjalnym wywiadzie dla \"Faktów po Faktach\". Zapewniał też o amerykańskim zaangażowaniu w bezpieczeństwo Polski. - Jest tak solidne i trwałe, jak nasze zaangażowanie na rzecz Alabamy chociażby - zaznaczył."
+    },
+    {
+      "title": "Kłótnia z byłą żoną i śmiertelny cios na oczach dzieci. Nie żyje 46-latka",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/rusiec-nie-zyje-kobieta-policja-zatrzymala-jej-bylego-meza-st8793678?source=rss",
+      "pubDate": "Tue, 09 Dec 2025 18:44:15 GMT",
+      "description": "Policjanci interweniowali w domu w Ruścu. Nie żyje 46-letnia kobieta. Do sprawy zatrzymano 52-letniego mężczyznę. Z naszych nieoficjalnych ustaleń wynika, że to były mąż ofiary, który miał zakaz zbliżania się do rodziny.",
+      "originalTitle": "Kłótnia z byłą żoną i śmiertelny cios na oczach dzieci. Nie żyje 46-latka",
+      "originalDescription": "Policjanci interweniowali w domu w Ruścu. Nie żyje 46-letnia kobieta. Do sprawy zatrzymano 52-letniego mężczyznę. Z naszych nieoficjalnych ustaleń wynika, że to były mąż ofiary, który miał zakaz zbliżania się do rodziny."
+    },
+    {
+      "title": "Przemoc \"można po prostu zamówić\". \"Idylla w naszym mieście się skończyła\"",
       "link": "https://tvn24.pl/swiat/norwegia-rosnie-przestepczosc-w-oslo-policja-o-mlodocianych-gangach-i-kupowaniu-przestepstw-st8793556?source=rss",
       "pubDate": "Tue, 09 Dec 2025 18:19:02 GMT",
-      "description": "• W stolicy Norwegii jest coraz niebezpieczniej.\n• Narasta fala przestępczości.\n• Szefowa policji w Oslo to Ida Melbo Oeystese.\n• Ida Melbo Oeystese ostrzegała o niebezpieczeństwie w rozmowie z dziennikiem \"VG\".\n• Dużą rolę w przestępczości odgrywają młodociani sprawcy.\n• Młodociani sprawcy są wynajmowani przez zagranicznych zleceniodawców.\n• Funkcjonariusze nie są w stanie odpowiedzieć na każde wezwanie.\n• Przyczyną braku możliwości odpowiedzi na każde wezwanie są braki kadrowe.",
+      "description": "W stolicy Norwegii jest coraz niebezpieczniej, narasta fala przestępczości - ostrzegła szefowa policji w Oslo Ida Melbo Oeystese. W rozmowie z dziennikiem \"VG\" wskazywała, że dużą rolę w tym zjawisku odgrywają młodociani sprawcy, wynajmowani przez zagranicznych zleceniodawców. Tymczasem funkcjonariusze nie są w stanie odpowiedzieć na każde wezwanie z powodu braków kadrowych.",
       "originalTitle": "Przemoc \"można po prostu zamówić\". \"Idylla w naszym mieście się skończyła\"",
       "originalDescription": "W stolicy Norwegii jest coraz niebezpieczniej, narasta fala przestępczości - ostrzegła szefowa policji w Oslo Ida Melbo Oeystese. W rozmowie z dziennikiem \"VG\" wskazywała, że dużą rolę w tym zjawisku odgrywają młodociani sprawcy, wynajmowani przez zagranicznych zleceniodawców. Tymczasem funkcjonariusze nie są w stanie odpowiedzieć na każde wezwanie z powodu braków kadrowych."
     },
     {
-      "title": "Policja opublikowała nagranie pościgu za kierowcą",
+      "title": "Trzy promile i ucieczka ekspresówką. Policja pokazała nagranie z pościgu",
       "link": "https://tvn24.pl/kielce/kielce-poscig-za-pijanym-kierowca-na-drodze-s7-st8793662?source=rss",
       "pubDate": "Tue, 09 Dec 2025 18:04:04 GMT",
-      "description": "• Nie zatrzymał się do kontroli\n• Uciekał ekspresówką\n• Nie zdołał zbiec\n• Policjanci zatrzymali 54-latka\n• Mężczyzna jechał na drodze S7\n• Zdarzenie miało miejsce pod Kielcami\n• Kierowca jechał w stronę Warszawy\n• Miał prawie trzy promile alkoholu w organizmie",
+      "description": "Nie zatrzymał się do kontroli, uciekał ekspresówką, ale nie zdołał zbiec. Policjanci zatrzymali 54-latka, który na drodze S7 pod Kielcami jechał pod wpływem alkoholu w stronę Warszawy. Miał prawie trzy promile w organizmie.",
       "originalTitle": "Trzy promile i ucieczka ekspresówką. Policja pokazała nagranie z pościgu",
       "originalDescription": "Nie zatrzymał się do kontroli, uciekał ekspresówką, ale nie zdołał zbiec. Policjanci zatrzymali 54-latka, który na drodze S7 pod Kielcami jechał pod wpływem alkoholu w stronę Warszawy. Miał prawie trzy promile w organizmie."
     },
     {
-      "title": "Inwestycja w Azji",
+      "title": "Miliardy od giganta. \"Największa inwestycja w Azji\"",
       "link": "https://tvn24.pl/biznes/tech/indie-z-nowym-partnerem-wysokie-ambicje-kraju-st8793543?source=rss",
       "pubDate": "Tue, 09 Dec 2025 17:59:38 GMT",
-      "description": "• Microsoft ogłosił inwestycję w usługi chmurowe i sztuczną inteligencję w Indiach.\n• Wartość inwestycji wynosi 17,5 miliardów dolarów.\n• Jest to największe przedsięwzięcie Microsoftu w historii jego dzia��alności w Azji.\n• Informację o inwestycji podał Bloomberg.",
+      "description": "Microsoft ogłosił wartą 17,5 miliardów dolarów inwestycję w usługi chmurowe i sztuczną inteligencję w Indiach. To największe przedsięwzięcie technologicznego giganta w historii jego działalności w Azji - informuje Bloomberg.",
       "originalTitle": "Miliardy od giganta. \"Największa inwestycja w Azji\"",
       "originalDescription": "Microsoft ogłosił wartą 17,5 miliardów dolarów inwestycję w usługi chmurowe i sztuczną inteligencję w Indiach. To największe przedsięwzięcie technologicznego giganta w historii jego działalności w Azji - informuje Bloomberg."
     },
     {
-      "title": "Ulewy w pustynnym kraju",
+      "title": "Pustynny kraj nawiedziły ulewy",
       "link": "https://tvn24.pl/tvnmeteo/swiat/arabia-saudyjska-pustynny-kraj-nawiedzily-ulewy-st8793588?source=rss",
       "pubDate": "Tue, 09 Dec 2025 17:40:00 GMT",
       "description": "Synoptycy wydali alarmy przed intensywnymi opadami deszczu w części Arabii Saudyjskiej. Gwałtowne ulewy sparaliżowały Dżuddę, zmuszając władze do zamknięcia szkół i wstrzymania festiwalu filmowego.",
@@ -58,30 +82,6 @@
       "description": "Straż leśna ukarała mężczyznę, który na terenie leśnictwa Szczawnica (Małopolskie) wrzucił do potoku 130 kilogramów mięsa. Sprawca sam zgłosił się na posterunek. Jak mówią nam leśnicy, mężczyzna tłumaczył się \"bezmyślnością i własną głupotą\".",
       "originalTitle": "Wrzucił do potoku 130 kilogramów mięsa. Został ukarany",
       "originalDescription": "Straż leśna ukarała mężczyznę, który na terenie leśnictwa Szczawnica (Małopolskie) wrzucił do potoku 130 kilogramów mięsa. Sprawca sam zgłosił się na posterunek. Jak mówią nam leśnicy, mężczyzna tłumaczył się \"bezmyślnością i własną głupotą\"."
-    },
-    {
-      "title": "Kilkanaście ciał w więzieniu. Sprawę bada policja",
-      "link": "https://tvn24.pl/swiat/ekwador-kilkanascie-cial-znaleziono-w-wiezieniu-policja-bada-sprawe-st8793458?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:04:38 GMT",
-      "description": "W niedzielę w ekwadorskim więzieniu znaleziono ciała co najmniej 13 więźniów. Sprawa jest wyjaśniana przez służby, w ostatnich miesiącach przez ten zakład karny przetacza się fala przemocy.",
-      "originalTitle": "Kilkanaście ciał w więzieniu. Sprawę bada policja",
-      "originalDescription": "W niedzielę w ekwadorskim więzieniu znaleziono ciała co najmniej 13 więźniów. Sprawa jest wyjaśniana przez służby, w ostatnich miesiącach przez ten zakład karny przetacza się fala przemocy."
-    },
-    {
-      "title": "Nawrocki kontra Nowacka. Co się stanie nie \"jeśli\", a \"gdy\" prezydent zawetuje reformę edukacji",
-      "link": "https://tvn24.pl/polska/kompas-jutra-co-jesli-prezydent-nawrocki-zawetuje-reforme-edukacji-st8793223?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:03:58 GMT",
-      "description": "Na podpis prezydenta Karola Nawrockiego czeka nowelizacja ustawy wprowadzająca \"Kompas Jutra\", czyli planowaną od 1 września 2026 roku reformę edukacji. Ale nawet w MEN nie wierzą, że prezydent poprze projekt. Co będzie dalej? W TVN24+ piszemy, jak wygląda \"plan B\" ministry.",
-      "originalTitle": "Nawrocki kontra Nowacka. Co się stanie nie \"jeśli\", a \"gdy\" prezydent zawetuje reformę edukacji",
-      "originalDescription": "Na podpis prezydenta Karola Nawrockiego czeka nowelizacja ustawy wprowadzająca \"Kompas Jutra\", czyli planowaną od 1 września 2026 roku reformę edukacji. Ale nawet w MEN nie wierzą, że prezydent poprze projekt. Co będzie dalej? W TVN24+ piszemy, jak wygląda \"plan B\" ministry."
-    },
-    {
-      "title": "Zderzenie i dachowanie. Trzy osoby w szpitalu",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/kozuszki-parcel-sochaczew-dk92-wypadek-na-drodze-krajowej-numer-92-auto-dachowalo-trzy-osoby-w-szpitalu-st8793552?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:01:05 GMT",
-      "description": "Na drodze krajowej numer 92 pod Sochaczewem zderzyły się dwa samochody osobowe. Trzy osoby trafiły do szpitala. Są utrudnienia w ruchu, wyznaczono objazdy.",
-      "originalTitle": "Zderzenie i dachowanie. Trzy osoby w szpitalu",
-      "originalDescription": "Na drodze krajowej numer 92 pod Sochaczewem zderzyły się dwa samochody osobowe. Trzy osoby trafiły do szpitala. Są utrudnienia w ruchu, wyznaczono objazdy."
     }
   ]
 }
