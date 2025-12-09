@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2025-12-09T10:07:17.595Z",
+  "lastUpdate": "2025-12-09T10:40:38.731Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Nowy nanokatalizator z UW przekształca odpadowy glicerol i CO2 w cenny surowiec",
+      "link": "https://dzienniknaukowy.pl/nowy-nanokatalizator-z-uw-przeksztalca-odpadowy-glicerol-i-co2-w-cenny-surowiec",
+      "pubDate": "Tue, 09 Dec 2025 10:38:22 +0000",
+      "description": "Naukowcy z Wydziału Chemii UW opracowali nanokatalizator, który w łagodnych i ekologicznych warunkach umożliwia przekształcanie odpadowego glicerolu oraz dwutlenku węgla w węglan glicerolu. To związek wykorzystywany m.in. w bateriach litowo-jonowych, bioplastikach i farmacji."
+    },
+    {
+      "title": "Odkrycie o potencjale terapeutycznym w reumatoidalnym zapaleniu stawów",
+      "link": "https://dzienniknaukowy.pl/odkrycie-o-potencjale-terapeutycznym-w-reumatoidalnym-zapaleniu-stawow",
+      "pubDate": "Tue, 09 Dec 2025 10:24:21 +0000",
+      "description": "W reumatoidalnym zapaleniu stawów (RZS) ważną rolę mogą odgrywać glikozaminoglikany – naturalne substancje obecne w organizmie, które mogą spowodować patologiczną aktywację enzymu przekształcającego białka w ich cytrulinowane formy – odkryli Naukowcy z Małopolskiego Centrum Biotechnologii"
+    },
     {
       "title": "Ekspertka: przeciwciała bispecyficzne to przyszłość leczenia raka płuca",
       "link": "https://dzienniknaukowy.pl/ekspertka-przeciwciala-bispecyficzne-to-przyszlosc-leczenia-raka-pluca",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/rurka-nerwowa-z-drukarki-3d-pomoze-odzyskac-sprawnosc-po-urazie",
       "pubDate": "Tue, 02 Dec 2025 15:30:06 +0000",
       "description": "Gdy nerw w ręce czy nodze zostaje przerwany, mózg traci kontakt z mięśniami na długie miesiące. Zespół badaczy z Poznania i współpracujących ośrodków opracował drukowaną strukturę, dzięki której komórki nerwowe potrafią samodzielnie wędrować i tworzyć nowe połączenia."
-    },
-    {
-      "title": "RPB – małe urządzenie, wielka rewolucja",
-      "link": "https://dzienniknaukowy.pl/rpb-male-urzadzenie-wielka-rewolucja",
-      "pubDate": "Tue, 02 Dec 2025 15:10:17 +0000",
-      "description": "Na Politechnice Łódzkiej opracowano innowacyjne urządzenie ze złożem obrotowym (ang. Rotating Packed Bed – RPB), które przyspiesza procesy przemysłowe nawet 50-krotnie, obniża koszty i redukuje emisję gazów. To niewielkie, ale przełomowe rozwiązanie w inżynierii chemicznej i procesowej trafia już do odbiorców na całym świecie."
-    },
-    {
-      "title": "Skręcony magnes dla szybszej elektroniki",
-      "link": "https://dzienniknaukowy.pl/skrecony-magnes-dla-szybszej-elektroniki",
-      "pubDate": "Mon, 01 Dec 2025 15:10:41 +0000",
-      "description": "Metaliczny „skręcony” magnes przewodzi prąd łatwiej w jednych kierunkach niż w innych i daje silny sygnał do jego odczytu bez zewnętrznego pola. To szansa dla spintroniki. Przełomu dokonał międzynarodowy zespół z udziałem dr inż. Kamila Kolincio z Politechniki Gdańskiej."
     }
   ]
 }
