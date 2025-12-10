@@ -1,30 +1,70 @@
 {
-  "lastUpdate": "2025-12-10T15:39:36.459Z",
+  "lastUpdate": "2025-12-10T16:08:12.366Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Znaleziono przedmioty w piwnicy",
+      "title": "Eksport chipów do Chin został ograniczony",
+      "link": "https://tvn24.pl/biznes/tech/zakazane-chipy-mialy-trafiac-do-chin-st8795352?source=rss",
+      "pubDate": "Wed, 10 Dec 2025 15:58:59 GMT",
+      "description": "• Chiński startup DeepSeek miał wykorzystywać zakazane w Chinach chipy firmy Nvidia.\n• Prace dotyczyły prac nad nowym modelem sztucznej inteligencji.\n• Informacje pochodzą z serwisu Bloomberg.\n• Bloomberg powo��uje się na ustalenia serwisu The Information.",
+      "originalTitle": "Zakazane chipy miały trafiać do Chin",
+      "originalDescription": "Chiński startup DeepSeek miał wykorzystywać zakazane w Chinach chipy firmy Nvidia do prac nad nowym modelem sztucznej inteligencji - informuje Bloomberg, powołując się na ustalenia serwisu The Information."
+    },
+    {
+      "title": "Znaleziono 40 tysięcy plików",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/49-latek-mial-ponad-40-tysiecy-plikow-z-tresciami-pedofilskimi-st8795474?source=rss",
+      "pubDate": "Wed, 10 Dec 2025 15:58:48 GMT",
+      "description": "• Stołeczni policjanci zatrzymali 49-letniego informatyka.\n• Informatyk pobierał z sieci materiały pedofilskie.\n• Mężczyzna usłyszał zarzuty.\n• Grozi mu do pięciu lat więzienia.",
+      "originalTitle": "Miał ponad 40 tysięcy plików z treściami pedofilskimi",
+      "originalDescription": "Stołeczni policjanci zatrzymali 49-letniego informatyka, który pobierał z sieci materiały pedofilskie. Mężczyzna usłyszał zarzuty. Grozi mu do pięciu lat więzienia."
+    },
+    {
+      "title": "Dane WHO i IMiD na temat snu i wagi dzieci w Polsce",
+      "link": "https://tvn24.pl/zdrowie/dzieci-w-polsce-coraz-mniej-spia-i-coraz-wiecej-waza-nowe-dane-who-i-imid-st8795351?source=rss",
+      "pubDate": "Wed, 10 Dec 2025 15:47:37 GMT",
+      "description": "• Co trzeci polski ośmiolatek zmaga się z nadwagą.\n• Dane te zostały opracowane przez Instytut Matki i Dziecka w Warszawie (IMiD) w ramach ogólnoeuropejskiego badania.\n• Coraz częściej dostrzeganym problemem jest nieprawidłowo wysokie ciśnienie.\n• 99 procent drugoklasistów nie przesypia w nocy dziewięciu godzin.\n• Rodzice w większości przypadków nie dostrzegają problemu.",
+      "originalTitle": "Dzieci w Polsce coraz mniej śpią i coraz więcej ważą. Nowe dane WHO i IMiD",
+      "originalDescription": "Co trzeci polski ośmiolatek zmaga się z nadwagą - wynika z danych opracowanych przez Instytut Matki i Dziecka w Warszawie (IMiD) w ramach ogólnoeuropejskiego badania. Coraz częściej dostrzeganym problemem jest też nieprawidłowo wysokie ciśnienie, a 99 procent drugoklasistów nie przesypia w nocy dziewięciu godzin. Co na to rodzice? Okazuje się, że nic, bo w większości przypadków nawet nie dostrzegają problemu."
+    },
+    {
+      "title": "Kolejne trzęsienie ziemi w Japonii. W mocy specjalny alert",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kolejne-trzesienie-ziemi-w-japonii-w-mocy-specjalny-alert-st8795408?source=rss",
+      "pubDate": "Wed, 10 Dec 2025 15:46:44 GMT",
+      "description": "Do trzęsienia ziemi o magnitudzie 5,7 doszło w nocy ze środy na czwartek u wybrzeży japońskiej wyspy Hokkaido. W części kraju obowiązuje ostrzeżenie przed \"megatrzęsieniem\". Zostało wydane po tym, jak w poniedziałek odnotowano tam wstrząsy o magnitudzie 7,6.",
+      "originalTitle": "Kolejne trzęsienie ziemi w Japonii. W mocy specjalny alert",
+      "originalDescription": "Do trzęsienia ziemi o magnitudzie 5,7 doszło w nocy ze środy na czwartek u wybrzeży japońskiej wyspy Hokkaido. W części kraju obowiązuje ostrzeżenie przed \"megatrzęsieniem\". Zostało wydane po tym, jak w poniedziałek odnotowano tam wstrząsy o magnitudzie 7,6."
+    },
+    {
+      "title": "Awantura o misia. Wszystko przez kolor szalika",
+      "link": "https://tvn24.pl/rzeszow/przemysl-zimowe-ozdoby-w-przemyslu-w-komentarzach-burza-o-niebieski-szalik-misia-st8795175?source=rss",
+      "pubDate": "Wed, 10 Dec 2025 15:45:38 GMT",
+      "description": "Na rynku w Przemyślu stanął żółty miś - nawiązanie do symbolu miasta, niedźwiedzia z lokalnej legendy. Dekoracja jednak wzbudziła w sieci spore emocje. Wszystko przez... kolor szalika.",
+      "originalTitle": "Awantura o misia. Wszystko przez kolor szalika",
+      "originalDescription": "Na rynku w Przemyślu stanął żółty miś - nawiązanie do symbolu miasta, niedźwiedzia z lokalnej legendy. Dekoracja jednak wzbudziła w sieci spore emocje. Wszystko przez... kolor szalika."
+    },
+    {
+      "title": "Sprawdzili piwnicę, to nie były przetwory na zimę",
       "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-narkotyki-ukryte-w-piwnicy-st8794519?source=rss",
       "pubDate": "Wed, 10 Dec 2025 15:34:49 GMT",
-      "description": "• W ręce policji wpadł 34-latek.\n• Mężczyzna jest podejrzany o posiadanie znacznej ilości środków odurzających.\n• Mężczyzna jest podejrzany o posiadanie substancji psychotropowej.\n• Mężczyzna ukrywał narkotyki w piwnicy.",
+      "description": "W ręce policji wpadł 34-latek, podejrzany o posiadanie znacznej ilości środków odurzających i substancji psychotropowej. Mężczyzna ukrywał narkotyki w piwnicy.",
       "originalTitle": "Sprawdzili piwnicę, to nie były przetwory na zimę",
       "originalDescription": "W ręce policji wpadł 34-latek, podejrzany o posiadanie znacznej ilości środków odurzających i substancji psychotropowej. Mężczyzna ukrywał narkotyki w piwnicy."
     },
     {
-      "title": "Odpowiedzi ONZ ws. pracy Hołowni",
+      "title": "Mamy dwie odpowiedzi z ONZ w sprawie potencjalnej pracy Hołowni",
       "link": "https://tvn24.pl/swiat/szymon-holownia-komisarzem-onz-ds-uchodzcow-mamy-komentarz-unhcr-st8795144?source=rss",
       "pubDate": "Wed, 10 Dec 2025 13:35:24 GMT",
-      "description": "• Ważą się losy Szymona Hołowni jako Wysokiego Komisarza ONZ ds. Uchodźców.\n• Decyzja o wyborze nowego komisarza wciąż nie została podjęta.\n• Informacje o losach Szymona Hołowni uzyskano w biurze UNHCR.\n�� Informacje o losach Szymona Hołowni uzyskano również w biurze sekretarza generalnego organizacji UNHCR.\n• Osobą, która uzyskała informacje o losach Szymona Hołowni, jest Agata Adamek.",
+      "description": "Ważą się losy Szymona Hołowni jako Wysokiego Komisarza ONZ do spraw Uchodźców. Jak dowiedziała się w biurze UNHCR i biurze sekretarza generalnego tej organizacji Agata Adamek, decyzja o wyborze nowego komisarza wciąż nie została podjęta.",
       "originalTitle": "Mamy dwie odpowiedzi z ONZ w sprawie potencjalnej pracy Hołowni",
-      "originalDescription": "Ważą się losy Szymona Hołowni jako Wysokiego Komisarza ONZ ds. Uchodźców. Jak dowiedziała się w biurze UNHCR i biurze sekretarza generalnego tej organizacji Agata Adamek, decyzja o wyborze nowego komisarza wciąż nie została podjęta."
+      "originalDescription": "Ważą się losy Szymona Hołowni jako Wysokiego Komisarza ONZ do spraw Uchodźców. Jak dowiedziała się w biurze UNHCR i biurze sekretarza generalnego tej organizacji Agata Adamek, decyzja o wyborze nowego komisarza wciąż nie została podjęta."
     },
     {
-      "title": "Problem w banku spermy, dzieci narażone na raka",
-      "link": "https://tvn24.pl/zdrowie/skandal-w-banku-spermy-setki-dzieci-narazone-na-raka-niektore-zmarly-st8795244?source=rss",
+      "title": "Skandal w banku spermy. Dzieci narażone na raka, niektóre zmarły",
+      "link": "https://tvn24.pl/zdrowie/skandal-w-banku-spermy-dzieci-narazone-na-raka-niektore-zmarly-st8795244?source=rss",
       "pubDate": "Wed, 10 Dec 2025 15:28:58 GMT",
-      "description": "• Blisko 200 dzieci w Europie przyszło na świat z nasienia duńskiego dawcy.\n• Materiał genetyczny duńskiego dawcy zawierał mutację zwiększającą ryzyko zachorowania na raka.\n• Europejskie śledztwo dziennikarskie ujawniło, że nasienie duńskiego dawcy wykorzystano w co najmniej 67 klinikach.\n• Nasienie duńskiego dawcy wykorzystano w 14 krajach.\n• Kilkoro dzieci już zachorowało na raka.\n• Kilkoro dzieci zmarło na skutek raka.\n• Sprawa obnaża skalę zaniedbań w przekazywaniu materiału genetycznego.\n• Sprawa ujawnia brak kontroli w przekazywaniu materiału genetycznego.\n• Sprawa ujawnia brak współpracy między państwami w przekazywaniu materiału genetycznego.",
-      "originalTitle": "Skandal w banku spermy. Setki dzieci narażone na raka, niektóre zmarły",
+      "description": "Blisko 200 dzieci w Europie przyszło na świat z nasienia duńskiego dawcy, którego materiał genetyczny zawierał mutację zwiększającą ryzyko zachorowania na raka. Europejskie śledztwo dziennikarskie ujawniło, że jego nasienie wykorzystano w co najmniej 67 klinikach w 14 krajach. Kilkoro dzieci już zachorowało i zmarło, a sprawa obnaża skalę zaniedbań oraz brak kontroli i współpracy między państwami w przekazywaniu materiału genetycznego.",
+      "originalTitle": "Skandal w banku spermy. Dzieci narażone na raka, niektóre zmarły",
       "originalDescription": "Blisko 200 dzieci w Europie przyszło na świat z nasienia duńskiego dawcy, którego materiał genetyczny zawierał mutację zwiększającą ryzyko zachorowania na raka. Europejskie śledztwo dziennikarskie ujawniło, że jego nasienie wykorzystano w co najmniej 67 klinikach w 14 krajach. Kilkoro dzieci już zachorowało i zmarło, a sprawa obnaża skalę zaniedbań oraz brak kontroli i współpracy między państwami w przekazywaniu materiału genetycznego."
     },
     {
@@ -42,46 +82,6 @@
       "description": "Ojciec Tadeusz Rydzyk stawił się w Prokuraturze Regionalnej w Rzeszowie na przesłuchanie w charakterze świadka. Zeznawał w sprawie Muzeum \"Pamięć i Tożsamość\" im. św. Jana Pawła II sfinansowanego niemal w całości z pieniędzy publicznych. We wtorek był przesłuchiwany w tej samej sprawie także były szef Ministerstwa Kultury i Dziedzictwa Narodowego oraz wicepremier w rządzie PiS Piotr Gliński.",
       "originalTitle": "Ojciec Tadeusz Rydzyk został przesłuchany w prokuraturze. Chodzi o jego fundację",
       "originalDescription": "Ojciec Tadeusz Rydzyk stawił się w Prokuraturze Regionalnej w Rzeszowie na przesłuchanie w charakterze świadka. Zeznawał w sprawie Muzeum \"Pamięć i Tożsamość\" im. św. Jana Pawła II sfinansowanego niemal w całości z pieniędzy publicznych. We wtorek był przesłuchiwany w tej samej sprawie także były szef Ministerstwa Kultury i Dziedzictwa Narodowego oraz wicepremier w rządzie PiS Piotr Gliński."
-    },
-    {
-      "title": "Miał zakrwawioną twarzą, ledwo stał na nogach",
-      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-doznal-powaznych-obrazen-twarzy-po-upadku-z-elektrycznej-hulajnogi-trafil-do-szpitala-st8795311?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:17:10 GMT",
-      "description": "Strażnicy miejscy z Woli pomogli 30-letniemu mężczyźnie, który doznał poważnych obrażeń po upadku z elektrycznej hulajnogi. \"Miał zdarty płat skóry z całego czoła, był w ogromnym szoku\" - opisali. Mężczyzna trafił do szpitala.",
-      "originalTitle": "Miał zakrwawioną twarzą, ledwo stał na nogach",
-      "originalDescription": "Strażnicy miejscy z Woli pomogli 30-letniemu mężczyźnie, który doznał poważnych obrażeń po upadku z elektrycznej hulajnogi. \"Miał zdarty płat skóry z całego czoła, był w ogromnym szoku\" - opisali. Mężczyzna trafił do szpitala."
-    },
-    {
-      "title": "Kreml zadowolony ze słów Trumpa o Ukrainie",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rosja-zadowolona-z-wypowiedzi-donalda-trumpa-w-najnowszym-wywiadzie-dla-politico-st8795294?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:15:43 GMT",
-      "description": "Kreml z zadowoleniem przyjął stanowisko Donalda Trumpa w sprawie Ukrainy, wyrażone w ostatnim wywiadzie. Prezydent USA w rozmowie z Politico powiedział między innymi, że Rosja ma przewagę, a Ukraina \"wykorzystuje wojnę\".",
-      "originalTitle": "Kreml zadowolony ze słów Trumpa o Ukrainie",
-      "originalDescription": "Kreml z zadowoleniem przyjął stanowisko Donalda Trumpa w sprawie Ukrainy, wyrażone w ostatnim wywiadzie. Prezydent USA w rozmowie z Politico powiedział między innymi, że Rosja ma przewagę, a Ukraina \"wykorzystuje wojnę\"."
-    },
-    {
-      "title": "Śmiertelne postrzelenie seniorki. Zatrzymany 92-latek",
-      "link": "https://tvn24.pl/krakow/ropa-smiertelne-postrzelenie-seniorki-zatrzymany-92-latek-st8795400?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:12:24 GMT",
-      "description": "Tragedia w gminie Ropa (Małopolskie). Nie żyje 80-letnia kobieta. Zgłoszenie dotyczyło postrzelenia z broni palnej. Policja zatrzymała 92-letniego mężczyznę.",
-      "originalTitle": "Śmiertelne postrzelenie seniorki. Zatrzymany 92-latek",
-      "originalDescription": "Tragedia w gminie Ropa (Małopolskie). Nie żyje 80-letnia kobieta. Zgłoszenie dotyczyło postrzelenia z broni palnej. Policja zatrzymała 92-letniego mężczyznę."
-    },
-    {
-      "title": "Zderzenie dwóch ciężarówek na autostradzie",
-      "link": "https://tvn24.pl/katowice/czestochowa-wypadek-dwoch-ciezarowek-na-autostradzie-a1-utrudnienia-na-jezdni-w-kierunku-lodzi-st8795349?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:06:39 GMT",
-      "description": "Zderzyły się dwa samochody ciężarowe na A1 w rejonie węzła Częstochowa Blachownia. Jeden z kierowców trafił do szpitala. Są utrudnienia na jezdni w kierunku Łodzi. By uniknąć korka, na węźle należy zjechać do Częstochowy.",
-      "originalTitle": "Zderzenie dwóch ciężarówek na autostradzie",
-      "originalDescription": "Zderzyły się dwa samochody ciężarowe na A1 w rejonie węzła Częstochowa Blachownia. Jeden z kierowców trafił do szpitala. Są utrudnienia na jezdni w kierunku Łodzi. By uniknąć korka, na węźle należy zjechać do Częstochowy."
-    },
-    {
-      "title": "Problem dotyczył sześciu tysięcy samolotów. Nowy komunikat",
-      "link": "https://tvn24.pl/biznes/ze-swiata/akcja-serwisowa-samolotow-nowy-komunikat-koncernu-airbus-st8795363?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:04:06 GMT",
-      "description": "Szef Airbusa Guillaume Faury ogłosił w środę, że akcja serwisowa samolotów rodziny A320, wymagających zmiany oprogramowania, została w pełni zakończona. Problem, który został ujawniony pod koniec listopada, dotyczył około sześciu tysięcy maszyn.",
-      "originalTitle": "Problem dotyczył sześciu tysięcy samolotów. Nowy komunikat",
-      "originalDescription": "Szef Airbusa Guillaume Faury ogłosił w środę, że akcja serwisowa samolotów rodziny A320, wymagających zmiany oprogramowania, została w pełni zakończona. Problem, który został ujawniony pod koniec listopada, dotyczył około sześciu tysięcy maszyn."
     }
   ]
 }
