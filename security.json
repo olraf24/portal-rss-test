@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-12-10T14:06:34.856Z",
+  "lastUpdate": "2025-12-10T14:40:35.502Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
     {
+      "title": "Turecka armia z nową artylerią",
+      "link": "https://defence24.pl/sily-zbrojne/turecka-armia-z-nowa-artyleria",
+      "pubDate": "Wed, 10 Dec 2025 15:40:00 +0100",
+      "description": "[W roku 2022 tureckie media](https://defence24.pl/przemysl/turcja-stworzy-kolowa-armatohaubice) informowały o prowadzeniu przez tamtejszy przemysł zbrojeniowy prac dotyczących przerobienia ciągnionych armatohaubic Panter kal. 155 na systemy w pełni samobieżne. Były one realizowane na mocy kontraktu z 2020 roku pomiędzy firmą ASFAT i Generalną Dyrekcją Fabryk Wojskowych (AFGM). Nośnikiem artylerii miał być samochód ciężarowy 8x8 (chociaż pierwotnie miano rozważać także układ 6x6)."
+    },
+    {
+      "title": "Wojsko przygotuje lekarzy do kryzysu i wojny",
+      "link": "https://defence24.pl/polityka-obronna/wojsko-przygotuje-lekarzy-do-kryzysu-i-wojny",
+      "pubDate": "Wed, 10 Dec 2025 15:20:02 +0100",
+      "description": "Wiceminister, który odwiedził szpital wojskowy w Lublinie w związku z zakończeniem inwestycji, w której nową siedzibę znajdzie oddział neurochirurgii, opowiedział się też za współpracą z Ukrainą na takich zasadach, by Polska czerpała korzyści z ukraińskiego dorobku wojskowego i technicznego."
+    },
+    {
       "title": "Przekazanie MiGów-29, a bezpieczeństwo Polski [KOMENTARZ]",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/przekazanie-migow-29-a-bezpieczenstwo-polski-komentarz",
       "pubDate": "Wed, 10 Dec 2025 15:00:00 +0100",
-      "description": "Decyzja w sprawie przekazania [MiGów-29](https://pl.wikipedia.org/wiki/MiG-29) (kod NATO: Fulcrum) jeszcze nie zapadła, ale prowadzone są rozmowy. Polska przed 2016 rokiem dysponowała dwiema eskadrami myśliwców frontowych MiG-29 eksploatowanymi w bazach w Mińsku Mazowieckim i Malborku. Łącznie znajdowały się w nich 32 samoloty, które były wykorzystywane intensywnie do zadań typu Air Policing i w ćwiczeniach wojskowych."
+      "description": "Decyzja [w sprawie przekazania MiGów-29](https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/migi-29-dla-ukrainy-trwaja-rozmowy) (kod NATO: Fulcrum) jeszcze nie zapadła, ale prowadzone są rozmowy. Polska przed 2016 rokiem dysponowała dwiema eskadrami myśliwców frontowych MiG-29 eksploatowanymi w bazach w Mińsku Mazowieckim i Malborku. Łącznie znajdowały się w nich 32 samoloty, które były wykorzystywane intensywnie do zadań typu Air Policing i w ćwiczeniach wojskowych."
     },
     {
       "title": "Ile kosztuje antydron podarowany Polsce przez USA?",
@@ -80,18 +92,6 @@
       "link": "https://defence24.pl/przemysl/polska-fabryka-amunicji-ze-specjalnym-wsparciem",
       "pubDate": "Wed, 10 Dec 2025 09:30:01 +0100",
       "description": "Wsparcie Tarnobrzeskiej Specjalnej Strefy Ekonomicznej będzie dotyczyć projektu inwestycyjnego dotyczącego rozbudowy zdolności produkcyjnych korpusów amunicji kal. 155 mm w zakładzie w Kraśniku. Placówka ta jest kluczowa dla polskiego przemysłu, zwłaszcza obecnie tworzonego pierwszego klastra amunicyjnego skupionego wokół spółki Mesko. W ramach niego kraśnickie zakłady osiągną wydajność na poziomie [150 000 rocznie korpusów do amunicji kal. 155 mm](https://defence24.pl/przemysl/mesko-z-nowa-fabryka-wzrosna-zdolnosci-produkcyjne-waznej-amunicji)."
-    },
-    {
-      "title": "Peru podąża drogą Polski. Kupuje Czarne Pantery i Białe Tygrysy",
-      "link": "https://defence24.pl/przemysl/peru-podaza-droga-polski-kupuje-czarne-pantery-i-biale-tygrysy",
-      "pubDate": "Wed, 10 Dec 2025 09:02:18 +0100",
-      "description": "Peru zawarło z Hyundai Rotem umowę o wartości 2 mld dolarów. Podpisane porozumienie oznacza rozpoczęcie długo wyczekiwanego procesu modernizacji technicznej wojsk lądowych tego południowoamerykańskiego państwa. [Jest to realizacja wcześniej planowanego, szerszego procesu modernizacji sił zbrojnych Peru.](https://defence24.pl/sily-zbrojne/peru-kupi-czolgi-z-korei-poludniowej)"
-    },
-    {
-      "title": "Syrski: obrona Pokrowska trwa, Myrnohrad nie jest otoczony",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/syrski-obrona-pokrowska-trwa-myrnohrad-nie-jest-otoczony",
-      "pubDate": "Wed, 10 Dec 2025 08:03:57 +0100",
-      "description": "Ukraińskie wojska zdołały odzyskać kontrolę nad 13 z 29 km kwadratowych miasta Pokrowsk w obwodzie donieckim, choć jesienią nie było tam żadnych sił obrony. Myrnohrad nie jest otoczony przez wojska rosyjskie – poinformował we wtorek naczelny dowódca Sił Zbrojnych Ukrainy generał Ołeksandr Syrski."
     }
   ]
 }
