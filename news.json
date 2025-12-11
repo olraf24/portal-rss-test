@@ -1,26 +1,50 @@
 {
-  "lastUpdate": "2025-12-11T07:08:49.183Z",
+  "lastUpdate": "2025-12-11T07:38:34.283Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "ZUS nalicza odsetki od zasiłków",
+      "title": "Poziom wody rośnie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-usa-waszyngton-poziom-wody-ciagle-rosnie-nigdy-nie-widzialem-czegos-takiego-st8795886?source=rss",
+      "pubDate": "Thu, 11 Dec 2025 07:18:54 GMT",
+      "description": "Nawet 100 tysięcy mieszkańców stanu Waszyngton w USA może zostać ewakuowanych z powodu powodzi. Służby meteorologiczne prognozują, że w najbliższych godzinach poziom wody w rzekach będzie rósł i najprawdopodobniej przekroczy rekordowe, historyczne poziomy. Na miejscu udziela pomocy między innymi Gwardia Narodowa.",
+      "originalTitle": "Poziom wody ciągle rośnie. \"Nigdy nie widziałem czegoś takiego\"",
+      "originalDescription": "Nawet 100 tysięcy mieszkańców stanu Waszyngton w USA może zostać ewakuowanych z powodu powodzi. Służby meteorologiczne prognozują, że w najbliższych godzinach poziom wody w rzekach będzie rósł i najprawdopodobniej przekroczy rekordowe, historyczne poziomy. Na miejscu udziela pomocy między innymi Gwardia Narodowa."
+    },
+    {
+      "title": "Protest w stolicy kraju zgromadził dziesiątki tysięcy osób",
+      "link": "https://tvn24.pl/swiat/bulgaria-ponad-30-zatrzymanych-na-antyrzadowych-protestach-prezydent-wzywa-do-odejscia-rzadu-st8795847?source=rss",
+      "pubDate": "Thu, 11 Dec 2025 07:18:37 GMT",
+      "description": "• Dziesiątki tysięcy Bułgarów protestowały w środę wieczorem w centrum Sofii.\n• Protesty były skierowane przeciwko mniejszościowemu rządowi.\n• Powodem protestów była niezdolność rządu do uporania się z powszechną korupcją.\n• Ponad 30 osób zostało zatrzymanych przez bułgarską policję.",
+      "originalTitle": "Dziesiątki tysięcy protestujących w stolicy kraju. \"Precz z mafią\"",
+      "originalDescription": "Dziesiątki tysięcy Bułgarów protestowały w środę wieczorem w centrum Sofii przeciwko mniejszościowemu rządowi, który ich zdaniem nie potrafi uporać się z powszechną korupcją. Ponad 30 osób zostało zatrzymanych przez bułgarską policję."
+    },
+    {
+      "title": "Lewica omawia plan działania",
+      "link": "https://tvn24.pl/polska/co-czeka-lewice-tomasz-trela-o-planie-marzen-na-wybory-w-2027-roku-st8795893?source=rss",
+      "pubDate": "Thu, 11 Dec 2025 07:05:56 GMT",
+      "description": "• Opis dotyczy wypowiedzi posła Lewicy Tomasza Trela.\n• Wypowiedź została wygłoszona w programie \"Rozmowa Piaseckiego\" w TVN24.\n• Tomasz Trela ocenił, że nie może być tak, że potencjalny partner ładuje w rząd, w którym Lewica jest jako koalicjant.\n• Poseł Lewicy mówił także o przyszłości swojego ugrupowania.\n• Tomasz Trela przedstawił swoją wizję na kolejne wybory parlamentarne.",
+      "originalTitle": "Co czeka Lewicę? Trela o \"planie marzeń\"",
+      "originalDescription": "To nie może być tak, że nasz potencjalny partner, jak w bęben ładuje w rząd, w którym my jesteśmy jako koalicjant - ocenił w \"Rozmowie Piaseckiego\" w TVN24 poseł Lewicy Tomasz Trela. Mówił też o przyszłości swojego ugrupowania i idealnej wizji na kolejne wybory parlamentarne."
+    },
+    {
+      "title": "ZUS żąda zwrotu zasiłków od matek. Nalicza gigantyczne odsetki",
       "link": "https://tvn24.pl/biznes/pieniadze/podwyzszenie-skladki-na-ubezpieczenia-spoleczne-przed-urodzeniem-dziecka-musza-zwrocic-pieniadze-do-zus-st8795880?source=rss",
       "pubDate": "Thu, 11 Dec 2025 06:38:27 GMT",
-      "description": "• Zakład Ubezpieczeń Społecznych żąda zwrotu świadczeń wypłaconych matkom prowadzącym firmy.\n• Świadczenia te mogą pochodzić nawet sprzed kilkunastu lat.\n• ZUS dolicza do tych świadczeń wysokie odsetki.\n• Według ZUS-u, takie roszczenia nie ulegają przedawnieniu.\n• Informację o tym podaje \"Dziennika Gazeta Prawna\" w czwartek.",
+      "description": "Zakład Ubezpieczeń Społecznych żąda zwrotu świadczeń wypłaconych matkom prowadzącym firmy, nawet sprzed kilkunastu lat, doliczając do nich wysokie odsetki. Według ZUS-u takie roszczenia nie ulegają przedawnieniu - podaje w czwartek \"Dziennika Gazeta Prawna\".",
       "originalTitle": "ZUS żąda zwrotu zasiłków od matek. Nalicza gigantyczne odsetki",
       "originalDescription": "Zakład Ubezpieczeń Społecznych żąda zwrotu świadczeń wypłaconych matkom prowadzącym firmy, nawet sprzed kilkunastu lat, doliczając do nich wysokie odsetki. Według ZUS-u takie roszczenia nie ulegają przedawnieniu - podaje w czwartek \"Dziennika Gazeta Prawna\"."
     },
     {
-      "title": "Zatrzymano 2 osoby, przejęto 63 tony tytoniu",
+      "title": "63 tony nielegalnego tytoniu. Dwie osoby zatrzymane",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-blisko-63-tony-nielegalnego-tytoniu-st8795884?source=rss",
       "pubDate": "Thu, 11 Dec 2025 06:35:30 GMT",
-      "description": "• Służby zabezpieczyły niemal 63 tony nielegalnego tytoniu.\n• Nielegalny tytoniu znajdował się m.in. w dwóch kontenerach.\n• Kontenery z nielegalnym tytoniem znajdowały się na terenie województwa mazowieckiego.\n• Gdyby towar trafił na rynek, Skarb Państwa mógłby stracić około 88 mln zł.",
+      "description": "Służby zabezpieczyły niemal 63 tony nielegalnego tytoniu, który znajdował się m.in. w dwóch kontenerach na terenie województwa mazowieckiego. Gdyby towar trafił na rynek, Skarb Państwa mógłby stracić około 88 mln zł.",
       "originalTitle": "63 tony nielegalnego tytoniu. Dwie osoby zatrzymane",
       "originalDescription": "Służby zabezpieczyły niemal 63 tony nielegalnego tytoniu, który znajdował się m.in. w dwóch kontenerach na terenie województwa mazowieckiego. Gdyby towar trafił na rynek, Skarb Państwa mógłby stracić około 88 mln zł."
     },
     {
-      "title": "Stan przygotowań Wielkiej Brytanii i Polski do potencjalnego konfliktu",
+      "title": "Wielka Brytania \"w przeciwieństwie do Polski nie jest gotowa na wojnę\"",
       "link": "https://tvn24.pl/swiat/wielka-brytania-w-przeciwienstwie-do-polski-nie-jest-gotowa-na-wojne-st8795830?source=rss",
       "pubDate": "Thu, 11 Dec 2025 06:21:37 GMT",
       "description": "Eksperci wojskowi wskazują na problemy Wielkiej Brytanii w przygotowaniach do potencjalnego konfliktu zbrojnego. Jak pisze portal telewizji BBC, \"w przeciwieństwie do Polski, Finlandii i państw bałtyckich\" kraj nie jest gotowy na wojnę.",
@@ -58,30 +82,6 @@
       "description": "Po zgłoszeniu od świadka policjanci pod Tarczynem zatrzymali pijanego kierowcę. 39-latek miał trzy promile. Pożegnał się nie tylko z prawem jazdy, ale i z samochodem. Czeka go jeszcze wizyta w sądzie.",
       "originalTitle": "Trzy promile i pożegnanie z nie tylko z prawem jazdy, ale też z autem",
       "originalDescription": "Po zgłoszeniu od świadka policjanci pod Tarczynem zatrzymali pijanego kierowcę. 39-latek miał trzy promile. Pożegnał się nie tylko z prawem jazdy, ale i z samochodem. Czeka go jeszcze wizyta w sądzie."
-    },
-    {
-      "title": "Silny wiatr w Polsce. IMGW wydał alarmy",
-      "link": "https://tvn24.pl/tvnmeteo/pogoda/ostrzezenia-imgw-w-czwartek-11-12-silny-wiatr-w-polsce-imgw-wydal-alarmy-st8795857?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 05:36:09 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym wiatrem. W części kraju obowiązują żółte alarmy. Sprawdź szczegóły.",
-      "originalTitle": "Silny wiatr w Polsce. IMGW wydał alarmy",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym wiatrem. W części kraju obowiązują żółte alarmy. Sprawdź szczegóły."
-    },
-    {
-      "title": "Wielka ucieczka z kraju. W przebraniu przeszła  kontrolę, a to dopiero początek",
-      "link": "https://tvn24.pl/swiat/wielka-ucieczka-z-kraju-w-przebraniu-przeszla-kontrole-a-to-dopiero-poczatek-st8795848?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 05:25:56 GMT",
-      "description": "W peruce i przebraniu, przez punkty kontrolne, później rybacką łodzią, a wreszcie odrzutowcem - tak miała wyglądać ucieczka Marii Coriny Machado z Wenezueli. Przeprawę tegorocznej laureatki Pokojowej Nagrody Nobla, przywódczyni wenezuelskiej opozycji, opisał dziennik \"Wall Street Journal\".",
-      "originalTitle": "Wielka ucieczka z kraju. W przebraniu przeszła  kontrolę, a to dopiero początek",
-      "originalDescription": "W peruce i przebraniu, przez punkty kontrolne, później rybacką łodzią, a wreszcie odrzutowcem - tak miała wyglądać ucieczka Marii Coriny Machado z Wenezueli. Przeprawę tegorocznej laureatki Pokojowej Nagrody Nobla, przywódczyni wenezuelskiej opozycji, opisał dziennik \"Wall Street Journal\"."
-    },
-    {
-      "title": "Zełenski dziękuje USA. Rozmowy o odbudowie kraju",
-      "link": "https://tvn24.pl/swiat/ukraina-wolodymyr-zelenski-omowilismy-z-sekretarzem-skarbu-usa-plany-odbudowy-kraju-st8795807?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 05:03:21 GMT",
-      "description": "Wołodymyr Zełenski poinformował o rozmowach z amerykańskim zespołem do spraw gospodarczych i do spraw odbudowy. Prezydent Ukrainy dziękował za \"pełną konstruktywność\". Opisał też prace nad strategicznymi dokumentami.",
-      "originalTitle": "Zełenski dziękuje USA. Rozmowy o odbudowie kraju",
-      "originalDescription": "Wołodymyr Zełenski poinformował o rozmowach z amerykańskim zespołem do spraw gospodarczych i do spraw odbudowy. Prezydent Ukrainy dziękował za \"pełną konstruktywność\". Opisał też prace nad strategicznymi dokumentami."
     }
   ]
 }
