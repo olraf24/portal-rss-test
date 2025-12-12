@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-12-12T10:07:19.179Z",
+  "lastUpdate": "2025-12-12T10:40:39.649Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zmiany w żywieniu na przestrzeni lat",
+      "title": "Incydent na uniwersytecie w Krakowie",
+      "link": "https://tvn24.pl/krakow/krakow-nozownik-wtargnal-na-uniwersytet-ekonomiczny-st8798181?source=rss",
+      "pubDate": "Fri, 12 Dec 2025 10:37:18 GMT",
+      "description": "• Na teren Uniwersytetu Ekonomicznego w Krakowie wtargnął nożownik.\n• Nożownik groził obecnym tam osobom.\n• Sytuacja została już opanowana.\n• Informację o zdarzeniu podało miasto.",
+      "originalTitle": "Nożownik wtargnął na krakowski uniwersytet. Został obezwładniony",
+      "originalDescription": "Na teren Uniwersytetu Ekonomicznego w Krakowie wtargnął nożownik i groził obecnym tam osobom - podało miasto. Z komunikatu wynika, że sytuacja została już opanowana."
+    },
+    {
+      "title": "Pomoc dla rodzin w ramach Weekendu Cudów",
+      "link": "https://tvn24.pl/polska/szlachetna-paczka-ostatnia-prosta-przed-weekendem-cudow-rodziny-czekaja-na-pomoc-st8797957?source=rss",
+      "pubDate": "Fri, 12 Dec 2025 10:35:17 GMT",
+      "description": "• Ponad 19 tysięcy rodzin już znalazło swoich darczyńców\n• Pozostałe rodziny wciąż czekają\n• W sobotę rozpoczyna się finał Szlachetnej Paczki\n• Szlachetna Paczka jest szerzej znana jako \"Weekend Cudów",
+      "originalTitle": "Ostatnia prosta przed \"Weekendem Cudów\".  Rodziny czekają na pomoc",
+      "originalDescription": "Ponad 19 tysięcy rodzin już znalazło swoich darczyńców, pozostałe wciąż czekają. W sobotę rozpoczyna się finał Szlachetnej Paczki, szerzej znany jako \"Weekend Cudów\"."
+    },
+    {
+      "title": "Zatrzymania po ataku na S8, wśród nich funkcjonariuszka służby więziennej",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostrow-mazowiecka-atak-pseudokibicow-na-trasie-s8-wsrod-zatrzymanych-jest-funkcjonariuszka-sluzby-wieziennej-st8798017?source=rss",
+      "pubDate": "Fri, 12 Dec 2025 10:31:43 GMT",
+      "description": "• Kilkadziesiąt zamaskowanych osób biegnie nocą po jezdni.\n• W tle widać awaryjne światła aut.\n• Pojawiło się nagranie z ataku na grupę hiszpańskich kibiców jadących na mecz do Białegostoku.\n• 10 osób zostało rannych.\n• Policja zatrzymała siedem osób.\n• Wśród zatrzymanych jest funkcjonariuszka służby więziennej.",
+      "originalTitle": "Nagranie ataku pseudokibiców na S8. Wśród zatrzymanych funkcjonariuszka służby więziennej",
+      "originalDescription": "Kilkadziesiąt zamaskowanych osób biegnie nocą po jezdni, w tle widać awaryjne światła aut. W sieci pojawiło się nagranie z ataku na grupę hiszpańskich kibiców jadących na mecz do Białegostoku. 10 osób zostało rannych. Policja zatrzymała siedem - jak ustaliliśmy, wśród nich jest funkcjonariuszka służby więziennej."
+    },
+    {
+      "title": "Ocena premiera po dwóch latach",
+      "link": "https://tvn24.pl/polska/sondaz-dla-rzeczpospolitej-wiekszosc-respondentow-negatywnie-ocenia-dwa-lata-donalda-tuska-jako-premiera-st8797953?source=rss",
+      "pubDate": "Fri, 12 Dec 2025 10:29:53 GMT",
+      "description": "Po dwóch latach rządów Donalda Tuska zapytano respondentów, jak oceniają go w roli premiera. Z sondażu IBRiS dla \"Rzeczpospolitej\" wynika, że ocena ta jest w większości negatywna. Ilu respondentów wypowiadało się o roli szefa rządu pozytywnie?",
+      "originalTitle": "Jak Polacy oceniają premiera po dwóch latach pracy rządu?",
+      "originalDescription": "Po dwóch latach rządów Donalda Tuska zapytano respondentów, jak oceniają go w roli premiera. Z sondażu IBRiS dla \"Rzeczpospolitej\" wynika, że ocena ta jest w większości negatywna. Ilu respondentów wypowiadało się o roli szefa rządu pozytywnie?"
+    },
+    {
+      "title": "Serwis społecznościowy pozywa rząd Australii. \"Zakaz utrudnia debatę polityczną\"",
+      "link": "https://tvn24.pl/biznes/tech/reddit-pozywa-rzad-australii-zakaz-utrudnia-debate-polityczna-st8797936?source=rss",
+      "pubDate": "Fri, 12 Dec 2025 10:21:17 GMT",
+      "description": "Internetowe forum dyskusyjne Reddit domaga się od rządu Australii zniesienia zakazu korzystania z portali społecznościowych przez osoby poniżej 16. roku życia. Amerykańska platforma trafiła na listę serwisów, których użytkownicy od 10 grudnia muszą przejść weryfikację wieku. Pozew trafił do Sądu Najwyższego Australii.",
+      "originalTitle": "Serwis społecznościowy pozywa rząd Australii. \"Zakaz utrudnia debatę polityczną\"",
+      "originalDescription": "Internetowe forum dyskusyjne Reddit domaga się od rządu Australii zniesienia zakazu korzystania z portali społecznościowych przez osoby poniżej 16. roku życia. Amerykańska platforma trafiła na listę serwisów, których użytkownicy od 10 grudnia muszą przejść weryfikację wieku. Pozew trafił do Sądu Najwyższego Australii."
+    },
+    {
+      "title": "Jedzenie kiedyś było zdrowsze? Dietetyk wsadził kij w mrowisko",
       "link": "https://tvn24.pl/zdrowie/jedzenie-kiedys-bylo-zdrowsze-dietetyk-wsadzil-kij-w-mrowisko-wywiad-medyczny-wywolal-lawine-komentarzy-st8797403?source=rss",
       "pubDate": "Fri, 12 Dec 2025 10:02:49 GMT",
-      "description": "• Mit, że \"kiedyś jedzenie było zdrowsze\", regularnie wraca w rozmowach o żywieniu.\n• Mit ten wyrasta z nostalgii niż z faktów.\n• Dietetyk kliniczny Sebastian Dzuła podkreśla, że mit ten nie jest oparty na faktach.\n• Mit ten był omawiany w najnowszym odcinku podcastu Joanny Kryńskiej \"Wywiad medyczny\".\n• W tym odcinku Sebastian Dzuła rozbrajał popularne mity żywieniowe.\n• Omawiany mit okazał się kijem w mrowisko.\n• Sebastian Dzuła przyznał, że wiedział, że omawianie tego mitu wywoła burzę.\n• Przyznanie Sebastiana Dzuły miało miejsce już po nagraniu odcinka podcastu.",
+      "description": "Mit, że \"kiedyś jedzenie było zdrowsze\", regularnie wraca w rozmowach o żywieniu – jakby był czymś oczywistym. Tymczasem, jak podkreśla dietetyk kliniczny Sebastian Dzuła, częściej wyrasta z nostalgii niż z faktów. W najnowszym odcinku podcastu Joanny Kryńskiej \"Wywiad medyczny\", w którym rozbrajał popularne mity żywieniowe, to właśnie ten jeden - o rzekomo \"lepszym jedzeniu dawniej\" - okazał się kijem w mrowisko. Już po nagraniu przyznał: \"Wiedziałem, że będzie burza…\".",
       "originalTitle": "Jedzenie kiedyś było zdrowsze? Dietetyk wsadził kij w mrowisko",
       "originalDescription": "Mit, że \"kiedyś jedzenie było zdrowsze\", regularnie wraca w rozmowach o żywieniu – jakby był czymś oczywistym. Tymczasem, jak podkreśla dietetyk kliniczny Sebastian Dzuła, częściej wyrasta z nostalgii niż z faktów. W najnowszym odcinku podcastu Joanny Kryńskiej \"Wywiad medyczny\", w którym rozbrajał popularne mity żywieniowe, to właśnie ten jeden - o rzekomo \"lepszym jedzeniu dawniej\" - okazał się kijem w mrowisko. Już po nagraniu przyznał: \"Wiedziałem, że będzie burza…\"."
     },
     {
-      "title": "Wypadek drogowy, utrudnienia",
+      "title": "Śmiertelny wypadek, zablokowana droga",
       "link": "https://tvn24.pl/lublin/ciecierzyn-smiertelny-wypadek-pod-lublinem-st8797972?source=rss",
       "pubDate": "Fri, 12 Dec 2025 09:56:54 GMT",
-      "description": "• Na drodze krajowej numer 19 w miejscowości Ciecierzyn pod Lublinem doszło do śmiertelnego potrącenia pieszego.\n• Zdarzenie miało miejsce w piątek.\n• Droga jest zablokowana.\n• Policja wyznaczyła objazdy.",
+      "description": "Na drodze krajowej numer 19 w miejscowości Ciecierzyn pod Lublinem doszło w piątek do śmiertelnego potrącenia pieszego. Droga jest zablokowana. Policja wyznaczyła objazdy.",
       "originalTitle": "Śmiertelny wypadek, zablokowana droga",
       "originalDescription": "Na drodze krajowej numer 19 w miejscowości Ciecierzyn pod Lublinem doszło w piątek do śmiertelnego potrącenia pieszego. Droga jest zablokowana. Policja wyznaczyła objazdy."
     },
     {
-      "title": "Barham Salih kandydatem na stanowisko",
+      "title": "\"Fakty\" TVN: Barham Salih faworytem do objęcia stanowiska, o które ubiega się Hołownia",
       "link": "https://tvn24.pl/swiat/fakty-tvn-barham-salih-faworytem-do-objecia-stanowiska-o-ktore-ubiega-sie-holownia-st8797877?source=rss",
       "pubDate": "Fri, 12 Dec 2025 08:02:15 GMT",
       "description": "Wszystko wskazuje na to, że Wysokim Komisarzem ONZ do spraw Uchodźców będzie były prezydent Iraku Barham Salih - przekazał reporter \"Faktów\" TVN Marcin Wrona, powołując się na źródła w ONZ. Taką informację przekazał też portal Devex oraz Reuters, powołując się na dokument podpisany przez sekretarza generalnego ONZ. Agencja zaznaczyła, że według tego pisma nominacja musi zostać jeszcze zatwierdzona przez Komitet Wykonawczy Biura UNHCR.",
@@ -28,7 +68,7 @@
       "originalDescription": "Wszystko wskazuje na to, że Wysokim Komisarzem ONZ do spraw Uchodźców będzie były prezydent Iraku Barham Salih - przekazał reporter \"Faktów\" TVN Marcin Wrona, powołując się na źródła w ONZ. Taką informację przekazał też portal Devex oraz Reuters, powołując się na dokument podpisany przez sekretarza generalnego ONZ. Agencja zaznaczyła, że według tego pisma nominacja musi zostać jeszcze zatwierdzona przez Komitet Wykonawczy Biura UNHCR."
     },
     {
-      "title": "Zen.com otrzymał karę w wysokości 2 mln euro",
+      "title": "Prawie 2 mln euro kary dla Zen.com. Do rady firmy niedawno dołączył Andrzej Duda",
       "link": "https://tvn24.pl/swiat/prawie-2-mln-euro-kary-dla-zen-com-do-rady-firmy-niedawno-dolaczyl-andrzej-duda-st8797348?source=rss",
       "pubDate": "Fri, 12 Dec 2025 09:52:47 GMT",
       "description": "Andrzej Duda - jeszcze do niedawna głowa państwa - dołączył w październiku do rady nadzorczej litewskiego operatora płatności ZEN.COM. Oficjalnie ma wspierać ekspansję firmy w Azji i na Bliskim Wschodzie. W tle jednak Bank Litwy od dłuższego czasu prowadził kontrolę w firmie pod kątem procedur przeciwdziałania praniu pieniędzy. I właśnie nałożył na firmę karę 1,8 miliona euro. \"W toku kontroli stwierdzono naruszenia przepisów prawa oraz nieprawidłowości w działalności\" - czytamy.",
@@ -42,46 +82,6 @@
       "description": "NASA poinformowała o utraceniu łączności z jedną ze swoich marsjańskich sond. Amerykańska agencja kosmiczna pracuje nad przywróceniem kontaktu z bezzałogową maszyną.",
       "originalTitle": "NASA utraciła kontakt z sondą",
       "originalDescription": "NASA poinformowała o utraceniu łączności z jedną ze swoich marsjańskich sond. Amerykańska agencja kosmiczna pracuje nad przywróceniem kontaktu z bezzałogową maszyną."
-    },
-    {
-      "title": "Afera CPK. Działka wraca do państwa",
-      "link": "https://tvn24.pl/biznes/z-kraju/afera-cpk-dzialka-wraca-do-panstwa-st8797840?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 09:40:16 GMT",
-      "description": "W piątek podpisano akt notarialny dotyczący odkupu przez Krajowy Ośrodek Wsparcia Rolnictwa działki w miejscowości Zabłotnia od jej dotychczasowego właściciela, Piotra Wielgomasa. Nieruchomość jest potrzebna pod budowę linii kolejowej prowadzącej do Centralnego Portu Komunikacyjnego. To pokłosie tak zwanej afery CPK.",
-      "originalTitle": "Afera CPK. Działka wraca do państwa",
-      "originalDescription": "W piątek podpisano akt notarialny dotyczący odkupu przez Krajowy Ośrodek Wsparcia Rolnictwa działki w miejscowości Zabłotnia od jej dotychczasowego właściciela, Piotra Wielgomasa. Nieruchomość jest potrzebna pod budowę linii kolejowej prowadzącej do Centralnego Portu Komunikacyjnego. To pokłosie tak zwanej afery CPK."
-    },
-    {
-      "title": "Europejscy liderzy po spotkaniu \"koalicji chętnych\": żadnych ustępstw",
-      "link": "https://tvn24.pl/swiat/europejscy-liderzy-po-spotkaniu-koalicji-chetnych-zadnych-ustepstw-st8797709?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 09:40:16 GMT",
-      "description": "Premier Holandii Dick Schoof, prezydent Litwy Gitanas Nauseda i prezydent Finlandii Alexander Stubb stwierdzili po wideokonferencji \"koalicji chętnych\", że Europa musi zwiększyć wsparcie dla Ukrainy, a plan pokojowy dotyczący tego kraju musi zawierać mocne gwarancje bezpieczeństwa.",
-      "originalTitle": "Europejscy liderzy po spotkaniu \"koalicji chętnych\": żadnych ustępstw",
-      "originalDescription": "Premier Holandii Dick Schoof, prezydent Litwy Gitanas Nauseda i prezydent Finlandii Alexander Stubb stwierdzili po wideokonferencji \"koalicji chętnych\", że Europa musi zwiększyć wsparcie dla Ukrainy, a plan pokojowy dotyczący tego kraju musi zawierać mocne gwarancje bezpieczeństwa."
-    },
-    {
-      "title": "Kiedy spotkanie Nawrockiego z Zełenskim? Jest propozycja strony ukraińskiej",
-      "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-wolodymyrem-zelenskim-wasyl-bodnar-zaproponowalismy-termin-jeszcze-w-tym-roku-st8797839?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 09:32:20 GMT",
-      "description": "Nasza propozycja jest taka, żeby jeszcze w tym roku odbyć spotkanie Wołodymyra Zełenskiego z Karolem Nawrockim - przekazał w RMF FM ambasador Ukrainy w Polsce Wasyl Bodnar. Jak dodał, jego kraj zaproponował już termin i \"oczekuje na odpowiedź\".",
-      "originalTitle": "Kiedy spotkanie Nawrockiego z Zełenskim? Jest propozycja strony ukraińskiej",
-      "originalDescription": "Nasza propozycja jest taka, żeby jeszcze w tym roku odbyć spotkanie Wołodymyra Zełenskiego z Karolem Nawrockim - przekazał w RMF FM ambasador Ukrainy w Polsce Wasyl Bodnar. Jak dodał, jego kraj zaproponował już termin i \"oczekuje na odpowiedź\"."
-    },
-    {
-      "title": "Szefowie MSW Polski i Ukrainy podpisali umowę o współpracy w zwalczaniu przestępczości",
-      "link": "https://tvn24.pl/polska/umowa-miedzy-polska-i-ukraina-zastapi-dokument-sprzed-25-lat-st8797686?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 09:08:26 GMT",
-      "description": "Szefowie resortów spraw wewnętrznych Polski i Ukrainy podpisali umowę o współpracy w zwalczaniu przestępczości, która zastąpi umowę z 1999 roku. Jak przekazał szef MSWiA Marcin Kierwiński, nowa umowa ma pomóc w stworzeniu ram prawnych dla zapobiegania i zwalczania między innymi aktów sabotażu.",
-      "originalTitle": "Szefowie MSW Polski i Ukrainy podpisali umowę o współpracy w zwalczaniu przestępczości",
-      "originalDescription": "Szefowie resortów spraw wewnętrznych Polski i Ukrainy podpisali umowę o współpracy w zwalczaniu przestępczości, która zastąpi umowę z 1999 roku. Jak przekazał szef MSWiA Marcin Kierwiński, nowa umowa ma pomóc w stworzeniu ram prawnych dla zapobiegania i zwalczania między innymi aktów sabotażu."
-    },
-    {
-      "title": "Miss Finlandii tylko przez trzy miesiące. Traci tytuł za jedno zdjęcie z restauracji",
-      "link": "https://tvn24.pl/swiat/finlandia-sarah-dzafce-traci-tytul-miss-finlandii-z-powodu-zdjecia-oskarzono-ja-o-rasizm-st8797835?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 08:44:02 GMT",
-      "description": "Sarah Dzafce została w czwartek pozbawiona korony Miss Finlandii. Stało się to z powodu skandalu, który wywołało jedno wrzucone do sieci zdjęcie. \"Miss reprezentuje nie tylko siebie, ale całą Finlandię\" - uzasadnił swoją decyzję komitet organizacyjny konkursu piękności.",
-      "originalTitle": "Miss Finlandii tylko przez trzy miesiące. Traci tytuł za jedno zdjęcie z restauracji",
-      "originalDescription": "Sarah Dzafce została w czwartek pozbawiona korony Miss Finlandii. Stało się to z powodu skandalu, który wywołało jedno wrzucone do sieci zdjęcie. \"Miss reprezentuje nie tylko siebie, ale całą Finlandię\" - uzasadnił swoją decyzję komitet organizacyjny konkursu piękności."
     }
   ]
 }
