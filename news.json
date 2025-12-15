@@ -1,10 +1,74 @@
 {
-  "lastUpdate": "2025-12-15T11:36:20.987Z",
+  "lastUpdate": "2025-12-15T12:11:04.560Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Samochód wylądował w rowie",
+      "title": "Śmierć dziewczynki w punkcie opieki",
+      "link": "https://tvn24.pl/szczecin/kolobrzeg-dziecko-zmarlo-w-punkcie-opieki-dziennej-sa-wyniki-badan-st8802224?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 12:03:27 GMT",
+      "description": "• Nikt nie przyczynił się do śmierci 15-miesięcznej dziewczynki w punkcie opieki w Kołobrzegu.\n• Prokuratura przekazała informację o braku przyczynienia się do śmierci dziewczynki.\n• Według ustaleń śledczych, nie doszło do żadnych zaniedbań ze strony opiekunów.\n• Nie doszło do żadnych zaniedbań ze strony rodziców.\n• Śledztwo w tej sprawie prawdopodobnie zostanie umorzone.\n• Dziewczynka miała 15 miesięcy.\n• Zdarzenie miało miejsce w punkcie opieki w Kołobrzegu.",
+      "originalTitle": "15-miesięczna dziewczynka zmarła w punkcie opieki. Śledczy o nowych ustaleniach",
+      "originalDescription": "Nikt nie przyczynił się do śmierci 15-miesięcznej dziewczynki w punkcie opieki w Kołobrzegu - przekazała prokuratura. Według ustaleń śledczych, nie doszło do żadnych zaniedbań ze strony opiekunów ani rodziców. Śledztwo w tej sprawie prawdopodobnie zostanie umorzone."
+    },
+    {
+      "title": "Artysta zdiagnozowany z rakiem",
+      "link": "https://tvn24.pl/kultura-i-styl/cliff-richard-mial-ruszac-w-trase-koncertowa-dowiedzial-sie-ze-ma-raka-st8802187?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 12:02:46 GMT",
+      "description": "Brytyjski piosenkarz Cliff Richard wyznał w wywiadzie, że zdiagnozowano u niego raka prostaty. Stało się to na krótko przed jego trasą koncertową. 85-letni artysta apeluje o badanie się.",
+      "originalTitle": "Miał ruszać w trasę koncertową, dowiedział się, że ma raka",
+      "originalDescription": "Brytyjski piosenkarz Cliff Richard wyznał w wywiadzie, że zdiagnozowano u niego raka prostaty. Stało się to na krótko przed jego trasą koncertową. 85-letni artysta apeluje o badanie się."
+    },
+    {
+      "title": "Stanowisko ambasadora USA w sprawie Pałacu Prezydenckiego",
+      "link": "https://tvn24.pl/polska/chanuka-w-palacu-prezydenckim-nie-odbedzie-sie-rzeczpospolita-reakcja-ambasadora-usa-st8801930?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:54:39 GMT",
+      "description": "• W tym roku nie odbędą się obchody Chanuki w Pałacu Prezydenckim.\n• Obchody te zostały poinformowane przez \"Rzeczpospolitą\".\n• Tradycja palenia świec chanukowych zainicjowana została przez Lecha Kaczyńskiego.\n• Tradycja ta była kontynuowana przez kolejnych prezydentów.\n• W sprawie zareagował ambasador USA w Polsce Tom Rose.",
+      "originalTitle": "Koniec z tradycją w Pałacu Prezydenckim? Ambasador USA reaguje",
+      "originalDescription": "W tym roku nie odbędą się obchody Chanuki w Pałacu Prezydenckim - poinformowała \"Rzeczpospolita\". Tradycja palenia świec chanukowych zainicjowana została przez Lecha Kaczyńskiego i kontynuowana przez kolejnych prezydentów. W sprawie zareagował ambasador USA w Polsce Tom Rose."
+    },
+    {
+      "title": "Mężczyzna zatrzymany za kradzież w autobusie",
+      "link": "https://tvn24.pl/trojmiasto/lebork-slupsk-kieszonkowiec-w-oku-kamery-kierowca-pks-u-powiadomil-reszte-pracownikow-zorganizowali-zasadzke-st8801759?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:53:41 GMT",
+      "description": "W autobusie PKS ktoś okradł 62-letnią kobietę. Sprawca zdążył się przesiąść do innego autobusu, ale kierowca domyślił się, w jakim kierunku jedzie. Powiadomił dyspozytorów i innych kierowców. Razem zorganizowali zasadzkę i pomogli zatrzymać podejrzanego o kradzież.",
+      "originalTitle": "Pomogli zatrzymać kieszonkowca, z autobusu pojechał do aresztu",
+      "originalDescription": "W autobusie PKS ktoś okradł 62-letnią kobietę. Sprawca zdążył się przesiąść do innego autobusu, ale kierowca domyślił się, w jakim kierunku jedzie. Powiadomił dyspozytorów i innych kierowców. Razem zorganizowali zasadzkę i pomogli zatrzymać podejrzanego o kradzież."
+    },
+    {
+      "title": "Burza Emilia w Hiszpanii. W Walencji odwołano zajęcia w szkołach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-emilia-w-hiszpanii-w-walencji-odwolano-zajecia-w-szkolach-st8801909?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:48:24 GMT",
+      "description": "W weekend we wschodniej Hiszpanii zaczęło mocno padać. W niedzielę i poniedziałek rano w niektórych prowincjach obowiązywał czerwony alert pogodowy. Władze kilkunastu miejscowości we Wspólnocie Walenckiej odwołały zajęcia w szkołach.",
+      "originalTitle": "Burza Emilia w Hiszpanii. W Walencji odwołano zajęcia w szkołach",
+      "originalDescription": "W weekend we wschodniej Hiszpanii zaczęło mocno padać. W niedzielę i poniedziałek rano w niektórych prowincjach obowiązywał czerwony alert pogodowy. Władze kilkunastu miejscowości we Wspólnocie Walenckiej odwołały zajęcia w szkołach."
+    },
+    {
+      "title": "Nowe dane o zagrożeniu skrajnym ubóstwem",
+      "link": "https://tvn24.pl/biznes/z-kraju/nowe-dane-o-zagrozeniu-skrajnym-ubostwem-st8802202?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:47:30 GMT",
+      "description": "W ubiegłym roku żyło w Polsce mniej osób zagrożonych skrajnym ubóstwem niż w 2023 - wynika z najnowszego raportu Głównego Urzędu Statystycznego. Choć sytuacja dochodowa Polaków się poprawia, niektóre gospodarstwa domowe pozostają szczególnie narażone na życie w ubóstwie.",
+      "originalTitle": "Nowe dane o zagrożeniu skrajnym ubóstwem",
+      "originalDescription": "W ubiegłym roku żyło w Polsce mniej osób zagrożonych skrajnym ubóstwem niż w 2023 - wynika z najnowszego raportu Głównego Urzędu Statystycznego. Choć sytuacja dochodowa Polaków się poprawia, niektóre gospodarstwa domowe pozostają szczególnie narażone na życie w ubóstwie."
+    },
+    {
+      "title": "Chcą skrócenia kary byłego prezydenta. Protesty",
+      "link": "https://tvn24.pl/swiat/kongres-wrogiem-spoleczenstwa-brazylia-protestuje-przeciwko-skroceniu-wyroku-oskarzonemu-o-zamach-stanu-jair-bolsonaro-przebywa-juz-w-wiezieniu-st8801699?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:43:38 GMT",
+      "description": "W brazylijskiej stolicy i największych miastach kraju wybuchły protesty przeciwko nowej ustawie dotyczącej skazanego za zamach stanu Jaira Bolsonaro. Dokument, który przeszedł już przez brazylijską izbę reprezentantów, skróciłby wyrok 27 lat więzienia do ponad dwuletniego pobytu w zakładzie karnym. Konserwatywną większość martwi stan zdrowia byłego prezydenta.",
+      "originalTitle": "Chcą skrócenia kary byłego prezydenta. Protesty",
+      "originalDescription": "W brazylijskiej stolicy i największych miastach kraju wybuchły protesty przeciwko nowej ustawie dotyczącej skazanego za zamach stanu Jaira Bolsonaro. Dokument, który przeszedł już przez brazylijską izbę reprezentantów, skróciłby wyrok 27 lat więzienia do ponad dwuletniego pobytu w zakładzie karnym. Konserwatywną większość martwi stan zdrowia byłego prezydenta."
+    },
+    {
+      "title": "Paliły się pomieszczenia gospodarcze, w domu obok 94-latka nie mogła się ruszyć",
+      "link": "https://tvn24.pl/trojmiasto/koscierzyna-palily-sie-pomieszczenia-gospodarcze-w-domu-obok-94-latka-nie-mogla-sie-ruszyc-st8802036?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:35:08 GMT",
+      "description": "94-letnia kobieta została uratowana z pożaru, do którego doszło w Kościerzynie (Pomorskie). Seniorkę z płonącego budynku wynieśli policjanci.",
+      "originalTitle": "Paliły się pomieszczenia gospodarcze, w domu obok 94-latka nie mogła się ruszyć",
+      "originalDescription": "94-letnia kobieta została uratowana z pożaru, do którego doszło w Kościerzynie (Pomorskie). Seniorkę z płonącego budynku wynieśli policjanci."
+    },
+    {
+      "title": "Dachowanie zakończył w rowie",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/kury-tluszcz-dachowanie-na-drodze-pod-wolominem-st8802153?source=rss",
       "pubDate": "Mon, 15 Dec 2025 11:27:59 GMT",
       "description": "Na lokalnej drodze pod Tłuszczem dachował samochód osobowy. Auto jest rozbite, kierowcy nic poważnego się nie stało.",
@@ -15,73 +79,9 @@
       "title": "Osoba straciła 100 tysięcy złotych w wyniku oszustwa",
       "link": "https://tvn24.pl/wroclaw/zabkowice-slaskie-80-latka-uwierzyla-w-milosc-marynarza-stracila-100-tysiecy-zlotych-st8802099?source=rss",
       "pubDate": "Mon, 15 Dec 2025 11:21:51 GMT",
-      "description": "• 80-letnia mieszkanka była ofiarą oszustwa\n• Oszustwa dokonał \"marynarz\" poznanego w sieci\n• Ofiara mieszka w powiecie ząbkowickim\n• Kontakty między ofiarą a oszustem trwały kilka miesiąc\n• Ofiara straciła ponad 100 tysięcy złotych",
+      "description": "80-letnia mieszkanka powiatu ząbkowickiego uwierzyła w miłość \"marynarza\" poznanego w sieci. Po kilku miesiącach kontaktu straciła ponad 100 tysięcy złotych.",
       "originalTitle": "Poznali się w sieci, uwierzyła w miłość \"marynarza\". Straciła 100 tysięcy złotych",
       "originalDescription": "80-letnia mieszkanka powiatu ząbkowickiego uwierzyła w miłość \"marynarza\" poznanego w sieci. Po kilku miesiącach kontaktu straciła ponad 100 tysięcy złotych."
-    },
-    {
-      "title": "Zmiany w liście leków refundowanych",
-      "link": "https://tvn24.pl/najnowsze/mz-oglosilo-nowa-liste-refundacyjna-co-obejmuje-24-nowe-terapie-st8802200?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 11:20:41 GMT",
-      "description": "• Dwadzieścia cztery nowe terapie, w tym dziewięć onkologicznych trafiło na nową listę leków refundowanych.\n• Nowa lista leków refundowanych wejdzie w życie 1 stycznia.\n• Ministerstwo Zdrowia wydało 585 decyzji o kontynuacji refundacji.\n• Wiceminister zdrowia Katarzyna Kacperczyk poinformowała o wydanych decyzjach.\n• Wiceminister Katarzyna Kacperczyk odniosła się do doniesień o korekcie w wykazie darmowych leków.",
-      "originalTitle": "Jest nowa lista leków refundowanych. Jakie zmiany?",
-      "originalDescription": "Dwadzieścia cztery nowe terapie, w tym dziewięć onkologicznych trafiło na nową listę leków refundowanych, która wejdzie w życie 1 stycznia. Ministerstwo Zdrowia wydało 585 decyzji o kontynuacji refundacji - poinformowała wiceminister zdrowia Katarzyna Kacperczyk. Odniosła się również do doniesień korekcie w wykazie darmowych leków."
-    },
-    {
-      "title": "\"Powinniśmy się cieszyć, że Donald Tusk pojawi się w Berlinie\"",
-      "link": "https://tvn24.pl/polska/profesor-danuta-plecka-powinnismy-sie-cieszyc-ze-donald-tusk-pojawi-sie-w-berlinie-st8801742?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 11:09:56 GMT",
-      "description": "Bardzo dobrze się stało, że Donald Tusk jako premier polskiego rządu został zaproszony do Berlina, bo to stabilizuje w jakiś sposób nasze bezpieczeństwo, ale przede wszystkim włącza nas w rozmowy na temat pokoju w Ukrainie - mówiła w poniedziałkowym wydaniu \"Wstajesz i wiesz\" w TVN24 profesor Danuta Plecka. Podobnego zdania był politolog Adam Balcer, według którego optymalnym scenariuszem jest regularny udział premiera w takich spotkaniach.",
-      "originalTitle": "\"Powinniśmy się cieszyć, że Donald Tusk pojawi się w Berlinie\"",
-      "originalDescription": "Bardzo dobrze się stało, że Donald Tusk jako premier polskiego rządu został zaproszony do Berlina, bo to stabilizuje w jakiś sposób nasze bezpieczeństwo, ale przede wszystkim włącza nas w rozmowy na temat pokoju w Ukrainie - mówiła w poniedziałkowym wydaniu \"Wstajesz i wiesz\" w TVN24 profesor Danuta Plecka. Podobnego zdania był politolog Adam Balcer, według którego optymalnym scenariuszem jest regularny udział premiera w takich spotkaniach."
-    },
-    {
-      "title": "Wiadomo, kim jest bohater, który rozbroił sprawcę strzelaniny w Sydney",
-      "link": "https://tvn24.pl/swiat/australia-ahmed-al-ahmed-kim-jest-bohater-ktory-rozbroil-sprawce-strzelaniny-w-sydney-st8801754?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 11:08:11 GMT",
-      "description": "Wiadomo, kim jest mężczyzna w białej koszulce, który podbiegł od tyłu do jednego z napastników, strzelającego do ludzi na plaży w Sydney i wyrwał mu broń. Jego heroiczny akt uchwycono na nagraniu, które szybko rozprzestrzeniło się w sieci. To 43-letni właściciel lokalnego sklepu i ojciec dwójki dzieci. W trakcie szarpaniny został ranny.",
-      "originalTitle": "Wiadomo, kim jest bohater, który rozbroił sprawcę strzelaniny w Sydney",
-      "originalDescription": "Wiadomo, kim jest mężczyzna w białej koszulce, który podbiegł od tyłu do jednego z napastników, strzelającego do ludzi na plaży w Sydney i wyrwał mu broń. Jego heroiczny akt uchwycono na nagraniu, które szybko rozprzestrzeniło się w sieci. To 43-letni właściciel lokalnego sklepu i ojciec dwójki dzieci. W trakcie szarpaniny został ranny."
-    },
-    {
-      "title": "Jak długo gotować jajko? Ile wzrostu ma Tom Cruise?",
-      "link": "https://tvn24.pl/biznes/tech/alexa-jakie-pytania-2025-zestawienie-amazona-st8801950?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 11:05:31 GMT",
-      "description": "Brytyjczycy najczęściej pytali Alexę, czym jest sztuczna inteligencja, choć sama asystentka AI od lat towarzyszy im w codziennym życiu. Tak wynika z najnowszego zestawienia firmy Amazon dotyczącego pytań zadawanych w 2025 roku – informuje CNN.",
-      "originalTitle": "Jak długo gotować jajko? Ile wzrostu ma Tom Cruise?",
-      "originalDescription": "Brytyjczycy najczęściej pytali Alexę, czym jest sztuczna inteligencja, choć sama asystentka AI od lat towarzyszy im w codziennym życiu. Tak wynika z najnowszego zestawienia firmy Amazon dotyczącego pytań zadawanych w 2025 roku – informuje CNN."
-    },
-    {
-      "title": "Rabini, 10-letnia dziewczynka, piłkarz, biznesmen. Co wiadomo o ofiarach ataku w Sydney",
-      "link": "https://tvn24.pl/swiat/atak-w-sydney-ofiary-zamachu-terrorystycznego-na-plazy-bondi-rabin-pilkarz-biznesmen-10-letnia-dziewczynka-st8801618?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 11:03:10 GMT",
-      "description": "Coraz więcej wiadomo o ofiarach śmiertelnych zamachu na plaży Bondi w Sydney. Są wśród nich rabin i ojciec pięciorga dzieci, 10-letnia dziewczynka, piłkarz lokalnego klubu, biznesmen oraz mężczyzna ocalały z Holokaustu. Część rannych wciąż walczy o życie w szpitalach.",
-      "originalTitle": "Rabini, 10-letnia dziewczynka, piłkarz, biznesmen. Co wiadomo o ofiarach ataku w Sydney",
-      "originalDescription": "Coraz więcej wiadomo o ofiarach śmiertelnych zamachu na plaży Bondi w Sydney. Są wśród nich rabin i ojciec pięciorga dzieci, 10-letnia dziewczynka, piłkarz lokalnego klubu, biznesmen oraz mężczyzna ocalały z Holokaustu. Część rannych wciąż walczy o życie w szpitalach."
-    },
-    {
-      "title": "Gdzie jest zima? Kiedy wróci do Polski? Jaka będzie pogoda na święta?",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-boze-narodzenie-pogoda-na-swieta-gdzie-jest-zima-kiedy-wroci-do-polski-st8801776?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 11:01:18 GMT",
-      "description": "Do sporej części Europy, w tym także do Polski, napływa bardzo ciepłe i łagodne powietrze. Jak mówił Tomasz Wasilewski, prezenter pogody tvnmeteo.pl, taka przyjemna, ale mało zimowa aura ma utrzymać się przez najbliższy tydzień. Co ze świętami Bożego Narodzenia?",
-      "originalTitle": "Gdzie jest zima? Kiedy wróci do Polski? Jaka będzie pogoda na święta?",
-      "originalDescription": "Do sporej części Europy, w tym także do Polski, napływa bardzo ciepłe i łagodne powietrze. Jak mówił Tomasz Wasilewski, prezenter pogody tvnmeteo.pl, taka przyjemna, ale mało zimowa aura ma utrzymać się przez najbliższy tydzień. Co ze świętami Bożego Narodzenia?"
-    },
-    {
-      "title": "Syn Magdy Umer o ostatnich miesiącach artystki",
-      "link": "https://tvn24.pl/kultura-i-styl/syn-magdy-umer-o-ostatnich-miesiacach-artystki-opublikowal-poruszajacy-wpis-st8802020?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 10:55:00 GMT",
-      "description": "\"Wzruszyłabyś się, jakbyś zobaczyła, ile osób napisało coś miłego\". Syn Magdy Umer opisał w mediach społecznościowych ostatnie miesiące życia artystki.",
-      "originalTitle": "Syn Magdy Umer o ostatnich miesiącach artystki",
-      "originalDescription": "\"Wzruszyłabyś się, jakbyś zobaczyła, ile osób napisało coś miłego\". Syn Magdy Umer opisał w mediach społecznościowych ostatnie miesiące życia artystki."
-    },
-    {
-      "title": "Trzy auta rozbite na S7",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-zderzenie-na-s7-w-poblizu-wezla-opacz-st8802066?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 10:53:40 GMT",
-      "description": "Trzy samochody zderzyły się na trasie S7, w pobliżu węzła Opacz. Auta są mocno uszkodzone, ich części rozsypały się na jezdnię.",
-      "originalTitle": "Trzy auta rozbite na S7",
-      "originalDescription": "Trzy samochody zderzyły się na trasie S7, w pobliżu węzła Opacz. Auta są mocno uszkodzone, ich części rozsypały się na jezdnię."
     }
   ]
 }
