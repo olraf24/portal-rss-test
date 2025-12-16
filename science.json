@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-12-16T12:10:13.622Z",
+  "lastUpdate": "2025-12-16T12:47:08.026Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Naukowcy udowodnili istnienie tetrakwarków",
+      "link": "https://dzienniknaukowy.pl/naukowcy-udowodnili-istnienie-tetrakwarkow",
+      "pubDate": "Tue, 16 Dec 2025 12:10:32 +0000",
+      "description": "W tunelu Wielkiego Zderzacza Hadronów (LHC) fizycy z całego świata, w tym z Polski, badają egzotyczne cząstki złożone z czterech kwarków powabnych. Te cząstki dotychczas były jedynie równaniem wyprowadzonym przez teoretyków, teraz po raz pierwszy udowodniono ich istnienie."
+    },
     {
       "title": "Politechnika Białostocka ma patent na nowe nawierzchnie drogowe z warstwą z betonu geopolimerowego",
       "link": "https://dzienniknaukowy.pl/politechnika-bialostocka-ma-patent-na-nowe-nawierzchnie-drogowe-z-warstwa-z-betonu-geopolimerowego",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/wiceprezes-google-ai-przyspiesza-rozwoj-nauki-nastaly-zlote-czasy-badan-naukowych",
       "pubDate": "Wed, 10 Dec 2025 10:58:55 +0000",
       "description": "Wiceprezes Google Yossi Matias ocenił, że sztuczna inteligencja (AI) w bezprecedensowy sposób przyspiesza rozwój nauki, dzięki czemu mamy teraz złote czasy badań naukowych."
-    },
-    {
-      "title": "GIOŚ: jakość powietrza w Polsce w ostatnich latach istotnie się poprawiła",
-      "link": "https://dzienniknaukowy.pl/gios-jakosc-powietrza-w-polsce-w-ostatnich-latach-istotnie-sie-poprawila",
-      "pubDate": "Wed, 10 Dec 2025 10:49:08 +0000",
-      "description": "Jakość powietrza w Polsce w 2024 r. była podobna, jak rok wcześniej, ale w skali wieloletniej istotnie się poprawiła - oceniła Barbara Toczko z GIOŚ. Dodała, że np. spadek stężenia pyłu zawieszonego w powietrzu to przede wszystkim efekt wymiany źródeł indywidualnego ogrzewania."
     }
   ]
 }
