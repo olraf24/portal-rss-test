@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2025-12-16T18:09:21.617Z",
+  "lastUpdate": "2025-12-16T18:45:29.225Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek ośmiolatka na hulajnodze",
+      "title": "Pogoda na 17.12 - mroźna noc",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-17-12-nadchodzi-mrozna-noc-st8804776?source=rss",
+      "pubDate": "Tue, 16 Dec 2025 18:43:36 GMT",
+      "description": "• Pogoda opisana jest na dzień jutrzejszy, czyli środę.\n• Data tego dnia to 17.12.\n• W nocy aura będzie pochmurna.\n• W nocy aura będzie miejscami mglista.\n• Na termometrach w części kraju zobaczymy ujemne wartości.\n• W ciągu dnia na niebie pojawi się sporo chmur.",
+      "originalTitle": "Pogoda na jutro - środa, 17.12. Nadchodzi mroźna noc",
+      "originalDescription": "Pogoda na jutro, czyli na środę, 17.12. W nocy aura będzie pochmurna i miejscami mglista. Na termometrach w części kraju zobaczymy ujemne wartości. W ciągu dnia na niebie również pojawi się sporo chmur."
+    },
+    {
+      "title": "Dziewczynka w wieku 10 lat znaleziona",
+      "link": "https://tvn24.pl/lodz/kutno-zaginiona-10-latka-odnaleziona-komunikat-policji-st8804920?source=rss",
+      "pubDate": "Tue, 16 Dec 2025 18:25:32 GMT",
+      "description": "• Dziewczynka ma 10 lat.\n• Dziewczynka nie wróciła do domu po lekcjach.\n• Policja opublikowała komunikat z jej wizerunkiem.\n• Poszukiwania trwały nieco ponad godzinę.\n• Dziewczynka została odnaleziona.",
+      "originalTitle": "Zaginiona 10-latka odnaleziona",
+      "originalDescription": "10-letnia dziewczynka po lekcjach nie wróciła do domu. Policja opublikowała komunikat z jej wizerunkiem. Po trwających nieco ponad godzinę poszukiwaniach została odnaleziona."
+    },
+    {
+      "title": "Tysiące kierowców niesłusznie ukaranych",
+      "link": "https://tvn24.pl/biznes/moto/anglia-tysiace-kierowcow-nieslusznie-ukaranych-mandatami-st8804589?source=rss",
+      "pubDate": "Tue, 16 Dec 2025 18:26:59 GMT",
+      "description": "• Od 2021 roku w Anglii odnotowano 2650 błędnych aktywacji fotoradarów.\n• Organizacja National Highways jest odpowiedzialna za zarządzanie angielskimi drogami.\n• National Highways poinformowała o błędnych aktywacjach fotoradarów.\n• Policja przeprosiła za zaistniałą sytuację.\n• Policja wstrzymała wystawianie mandatów.\n• Informację o wstrzymaniu wystawiania mandatów podał portal stacji BBC.",
+      "originalTitle": "\"Przepraszamy poszkodowanych\". Tysiące kierowców niesłusznie ukaranych",
+      "originalDescription": "Od 2021 roku w Anglii odnotowano 2650 błędnych aktywacji fotoradarów - poinformowała organizacja National Highways, odpowiedzialna za zarządzanie angielskimi drogami. Policja przeprosiła za zaistniałą sytuację i wstrzymała wystawianie mandatów - podał portal stacji BBC."
+    },
+    {
+      "title": "Bliscy rozpoznali bohatera z Sydney",
+      "link": "https://tvn24.pl/swiat/australia-atak-na-plazy-w-sydney-bliscy-rozpoznali-bohatera-ahmeda-al-ahmeda-na-nagraniach-cala-syria-jest-z-niego-dumna-st8804679?source=rss",
+      "pubDate": "Tue, 16 Dec 2025 18:22:14 GMT",
+      "description": "Ahmed al-Ahmed, który rzucił się na napastnika, strzelającego do ludzi na plaży w Sydney, z dnia na dzień stał się bohaterem. Nagrania z jego udziałem obiegły internet i dzięki temu rozpoznali go bliscy w ojczyźnie. - Cała Syria jest z niego dumna - powiedział wujek al-Ahmeda. Kuzyn mężczyzny wskazywał zaś, że dzięki jego działaniu \"wielu niewinnych ludzi, którzy nie zrobili nic złego, zostało uratowanych\".",
+      "originalTitle": "Bliscy rozpoznali bohatera z Sydney. \"Cała Syria jest z niego dumna\"",
+      "originalDescription": "Ahmed al-Ahmed, który rzucił się na napastnika, strzelającego do ludzi na plaży w Sydney, z dnia na dzień stał się bohaterem. Nagrania z jego udziałem obiegły internet i dzięki temu rozpoznali go bliscy w ojczyźnie. - Cała Syria jest z niego dumna - powiedział wujek al-Ahmeda. Kuzyn mężczyzny wskazywał zaś, że dzięki jego działaniu \"wielu niewinnych ludzi, którzy nie zrobili nic złego, zostało uratowanych\"."
+    },
+    {
+      "title": "Będą zużywać mniej energii elektrycznej. Koleje Mazowieckie kupują nowe pociągi",
+      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-koleje-mazowieckie-kupuja-nowe-pociagi-11-pociagow-flirt-podpisana-umowa-st8804898?source=rss",
+      "pubDate": "Tue, 16 Dec 2025 18:17:56 GMT",
+      "description": "Do Kolei Mazowieckich trafi 11 pociągów Flirt o wartości ponad 711 milionów złotych brutto. To efekt umowy podpisanej przez spółkę. Nowe maszyny dostarczy firma Stadler Polska. Będą one zużywać mniej energii elektrycznej, każdym będzie mogło podróżować 600 pasażerów.",
+      "originalTitle": "Będą zużywać mniej energii elektrycznej. Koleje Mazowieckie kupują nowe pociągi",
+      "originalDescription": "Do Kolei Mazowieckich trafi 11 pociągów Flirt o wartości ponad 711 milionów złotych brutto. To efekt umowy podpisanej przez spółkę. Nowe maszyny dostarczy firma Stadler Polska. Będą one zużywać mniej energii elektrycznej, każdym będzie mogło podróżować 600 pasażerów."
+    },
+    {
+      "title": "Spotkanie PiS, życzenia dla Morawieckiego",
+      "link": "https://tvn24.pl/polska/dwie-wigilie-w-pis-i-starcia-w-partii-jacek-kurski-o-mateuszu-morawieckim-i-czy-pojdzie-na-jego-wigilie-st8804835?source=rss",
+      "pubDate": "Tue, 16 Dec 2025 18:07:37 GMT",
+      "description": "Przed rozpoczęciem spotkania wigilijnego w siedzibie PiS były prezes TVP Jacek Kurski powiedział, że \"jak zobaczy tutaj Mateusza Morawieckiego\", to chętnie skasuje krytyczny wpis na jego temat. Byłemu premierowi życzył \"refleksji\". Morawiecki organizuje tego dnia własne spotkanie opłatkowe. Nie wiadomo na pewno, kto pojawi się na tym wydarzeniu, ani kogo zabrakło przy Nowogrodzkiej.",
+      "originalTitle": "Dwie wigilie w PiS, życzenia \"refleksji\" dla Morawieckiego i zapowiedź Kurskiego",
+      "originalDescription": "Przed rozpoczęciem spotkania wigilijnego w siedzibie PiS były prezes TVP Jacek Kurski powiedział, że \"jak zobaczy tutaj Mateusza Morawieckiego\", to chętnie skasuje krytyczny wpis na jego temat. Byłemu premierowi życzył \"refleksji\". Morawiecki organizuje tego dnia własne spotkanie opłatkowe. Nie wiadomo na pewno, kto pojawi się na tym wydarzeniu, ani kogo zabrakło przy Nowogrodzkiej."
+    },
+    {
+      "title": "Groźny wypadek ośmiolatka na hulajnodze",
       "link": "https://tvn24.pl/olsztyn/lubawa-osmiolatek-nie-wyhamowal-na-hulajnodze-wjechal-w-samochod-nagranie-st8804869?source=rss",
       "pubDate": "Tue, 16 Dec 2025 17:59:53 GMT",
-      "description": "• Na przejściu dla pieszych w Lubawie (Warmińsko-Mazurskie) doszło do wypadku.\n• Ośmiolatek jechał na hulajnodze.\n• Chłopiec wjechał w samochód.\n• Chłopiec doznał poważnego urazu nogi.\n��� Chłopiec trafił do szpitala.",
+      "description": "Na przejściu dla pieszych w Lubawie (Warmińsko-Mazurskie) ośmiolatek na hulajnodze wjechał w samochód. Chłopiec z poważnym urazem nogi trafił do szpitala.",
       "originalTitle": "Groźny wypadek ośmiolatka na hulajnodze",
       "originalDescription": "Na przejściu dla pieszych w Lubawie (Warmińsko-Mazurskie) ośmiolatek na hulajnodze wjechał w samochód. Chłopiec z poważnym urazem nogi trafił do szpitala."
     },
     {
-      "title": "Wykryto Salmonella w jajach",
+      "title": "Salmonella w partii jaj",
       "link": "https://tvn24.pl/biznes/z-kraju/partia-jaj-wycofywana-z-obrotu-ostrzezenie-gis-przed-salmonella-w-produkcie-swieze-jaja-z-chowu-sciolkowego-10-sztuk-st8804731?source=rss",
       "pubDate": "Tue, 16 Dec 2025 17:45:04 GMT",
-      "description": "• Główny Inspektorat Sanitarny (GIS) poinformował we wtorek o zanieczyszczeniu pałeczkami salmonelli partii jaj z chowu ściółkowego.\n• Producent podjął natychmiastowe działania zmierzające do wycofania kwestionowanej partii.\n• Zgodnie z wiedzą producenta, kwestionowana partia nie znajduje się już w obrocie.",
+      "description": "Główny Inspektorat Sanitarny (GIS) poinformował we wtorek o zanieczyszczeniu pałeczkami salmonelli partii jaj z chowu ściółkowego. \"Producent podjął natychmiastowe działania zmierzające do wycofania kwestionowanej partii i zgodnie z jego wiedzą nie znajduje się już ona w obrocie\" - napisano w komunikacie.",
       "originalTitle": "Salmonella w partii jaj",
       "originalDescription": "Główny Inspektorat Sanitarny (GIS) poinformował we wtorek o zanieczyszczeniu pałeczkami salmonelli partii jaj z chowu ściółkowego. \"Producent podjął natychmiastowe działania zmierzające do wycofania kwestionowanej partii i zgodnie z jego wiedzą nie znajduje się już ona w obrocie\" - napisano w komunikacie."
     },
     {
-      "title": "GLOWS rozpoczął zbieranie danych",
+      "title": "Sukces i niespodzianka. GLOWS zaczął zbierać dane",
       "link": "https://tvn24.pl/tvnmeteo/nauka/sukces-i-niespodzianka-glows-zaczal-zbierac-dane-st8804829?source=rss",
       "pubDate": "Tue, 16 Dec 2025 17:44:20 GMT",
-      "description": "• Polski instrument pomiarowy GLOWS znajduje się na pokładzie sondy IMAP należącej do NASA.\n• Instrument GLOWS wykonał swój pierwszy pomiar światła.\n• Urządzenie ma badać między innymi globalną strukturę wiatru słonecznego w przyszłości.\n• Analiza pierwszych danych przyniosła nieoczekiwane odkrycie.",
+      "description": "Polski instrument pomiarowy GLOWS znajdujący się na pokładzie sondy IMAP należącej do NASA pomyślnie wykonał swój pierwszy pomiar światła. W przyszłości urządzenie ma badać między innymi globalną strukturę wiatru słonecznego. Analiza pierwszych danych przyniosła także nieoczekiwane odkrycie.",
       "originalTitle": "Sukces i niespodzianka. GLOWS zaczął zbierać dane",
       "originalDescription": "Polski instrument pomiarowy GLOWS znajdujący się na pokładzie sondy IMAP należącej do NASA pomyślnie wykonał swój pierwszy pomiar światła. W przyszłości urządzenie ma badać między innymi globalną strukturę wiatru słonecznego. Analiza pierwszych danych przyniosła także nieoczekiwane odkrycie."
     },
@@ -34,54 +82,6 @@
       "description": "32-latek wrócił do Polski z Londynu i podczas odprawy granicznej został zatrzymany. Okazało się, że jest poszukiwany. Dowiedział się też, że ma nieważny paszport.",
       "originalTitle": "Na lotnisku dowiedział się, że jest poszukiwany i ma nieważny paszport",
       "originalDescription": "32-latek wrócił do Polski z Londynu i podczas odprawy granicznej został zatrzymany. Okazało się, że jest poszukiwany. Dowiedział się też, że ma nieważny paszport."
-    },
-    {
-      "title": "Zakulisowe rozgrywki wokół szczytu G20. Ludzie Nawrockiego mieli się poskarżyć na rząd",
-      "link": "https://tvn24.pl/polska/szczyt-g20-w-miami-marcin-przydacz-rzad-ma-pelnic-role-wykonawcza-czy-podwykonawcza-st8804778?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 17:16:17 GMT",
-      "description": "Amerykanie zaprosili Polskę na przyszłoroczny szczyt G20, a rząd \"będzie pełnił pewną rolę wykonawczą czy podwykonawczą\", jak ocenił prezydencki minister Marcin Przydacz. Jak opisała \"Gazeta Wyborcza\", wynika to z tego, że otoczenie Karola Nawrockiego miało poskarżyć się w Białym Domu na rząd Donalda Tuska.",
-      "originalTitle": "Zakulisowe rozgrywki wokół szczytu G20. Ludzie Nawrockiego mieli się poskarżyć na rząd",
-      "originalDescription": "Amerykanie zaprosili Polskę na przyszłoroczny szczyt G20, a rząd \"będzie pełnił pewną rolę wykonawczą czy podwykonawczą\", jak ocenił prezydencki minister Marcin Przydacz. Jak opisała \"Gazeta Wyborcza\", wynika to z tego, że otoczenie Karola Nawrockiego miało poskarżyć się w Białym Domu na rząd Donalda Tuska."
-    },
-    {
-      "title": "Kłęby dymu w warsztacie w Sulejówku",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/sulejowek-kleby-dymu-pozar-warszatu-akcja-gasnicza-strazy-pozarnej-st8804824?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 17:10:17 GMT",
-      "description": "W warsztacie w Sulejówku wybuchł pożar. Budynek przylega do innych. Dzięki działaniom strażaków ogień się nie rozprzestrzenia. Trwa akcja gaśnicza.",
-      "originalTitle": "Kłęby dymu w warsztacie w Sulejówku",
-      "originalDescription": "W warsztacie w Sulejówku wybuchł pożar. Budynek przylega do innych. Dzięki działaniom strażaków ogień się nie rozprzestrzenia. Trwa akcja gaśnicza."
-    },
-    {
-      "title": "Tak źle nie było od czterech lat. \"Załamał się\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/wielka-brytania-rynek-pracy-tak-zle-nie-bylo-od-czterech-lat-zalamal-sie-st8804358?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 17:01:01 GMT",
-      "description": "Bezrobocie w Wielkiej Brytanii wzrosło do najwyższego poziomu od czterech lat - wynika z danych brytyjskiego urzędu statystycznego. Słabszy rynek pracy to większa szansa na obniżkę stóp procentowych - pisze \"Guardian\".",
-      "originalTitle": "Tak źle nie było od czterech lat. \"Załamał się\"",
-      "originalDescription": "Bezrobocie w Wielkiej Brytanii wzrosło do najwyższego poziomu od czterech lat - wynika z danych brytyjskiego urzędu statystycznego. Słabszy rynek pracy to większa szansa na obniżkę stóp procentowych - pisze \"Guardian\"."
-    },
-    {
-      "title": "Ambasador USA o spotkaniu z Jarosławem Kaczyńskim. \"Wielki zaszczyt\"",
-      "link": "https://tvn24.pl/polska/ambasador-usa-tome-rose-o-spotkaniu-z-jaroslawem-kaczynskim-wielki-zaszczyt-st8804808?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 16:54:47 GMT",
-      "description": "\"To był dla mnie wielki zaszczyt spotkać się ze wspaniałym Jarosławem Kaczyńskim\" - przekazał w mediach społecznościowych ambasador USA w Polsce Thomas Rose. Napisał, że rozmowa dotyczyła przywództwa, bezpieczeństwa i przyszłości sojuszu amerykańsko-polskiego.",
-      "originalTitle": "Ambasador USA o spotkaniu z Jarosławem Kaczyńskim. \"Wielki zaszczyt\"",
-      "originalDescription": "\"To był dla mnie wielki zaszczyt spotkać się ze wspaniałym Jarosławem Kaczyńskim\" - przekazał w mediach społecznościowych ambasador USA w Polsce Thomas Rose. Napisał, że rozmowa dotyczyła przywództwa, bezpieczeństwa i przyszłości sojuszu amerykańsko-polskiego."
-    },
-    {
-      "title": "The Rolling Stones ma kłopoty. Nie wyruszą w trasę",
-      "link": "https://tvn24.pl/kultura-i-styl/media-the-rolling-stones-nie-wyrusza-w-trase-koncertowa-po-nowym-roku-zrodlo-bliskie-zespolowi-mowi-o-powodach-st8804743?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 16:48:34 GMT",
-      "description": "Kultowy zespół The Rolling Stones nie wyruszy w trasę koncertową po Nowym Roku, by promować \"prawie ukończony\" album - donosi magazyn \"Variety\". Osoba, na którą powołuje się magazyn, przekazała, że gitarzysta Keith Richards \"nie jest w stanie się w nią zaangażować\".",
-      "originalTitle": "The Rolling Stones ma kłopoty. Nie wyruszą w trasę",
-      "originalDescription": "Kultowy zespół The Rolling Stones nie wyruszy w trasę koncertową po Nowym Roku, by promować \"prawie ukończony\" album - donosi magazyn \"Variety\". Osoba, na którą powołuje się magazyn, przekazała, że gitarzysta Keith Richards \"nie jest w stanie się w nią zaangażować\"."
-    },
-    {
-      "title": "Brazylia. Statua Wolności runęła. Wiatr powalił 35-metrowy pomnik",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/brazylia-statua-wolnosci-runela-wiatr-powalil-35-metrowy-pomnik-st8804767?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 16:44:12 GMT",
-      "description": "Pomnik imitujący Statuę Wolności runął pod naporem silnego wiatru w mieście Guaiba w Brazylii. W tym czasie obowiązywały tam ostrzeżenia przed wichurami.",
-      "originalTitle": "Brazylia. Statua Wolności runęła. Wiatr powalił 35-metrowy pomnik",
-      "originalDescription": "Pomnik imitujący Statuę Wolności runął pod naporem silnego wiatru w mieście Guaiba w Brazylii. W tym czasie obowiązywały tam ostrzeżenia przed wichurami."
     }
   ]
 }
