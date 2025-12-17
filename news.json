@@ -1,18 +1,74 @@
 {
-  "lastUpdate": "2025-12-17T15:07:11.053Z",
+  "lastUpdate": "2025-12-17T15:40:15.229Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Budynek dawnej placówki Rosji wynajęty po pożarze",
+      "title": "Mgły utrudniają jazdę",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-geste-mgly-w-polsce-w-tych-regionach-kierowcy-moga-liczyc-sie-z-utrudnieniami-st8806345?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:28:48 GMT",
+      "description": "• Synoptycy Instytutu Meteorologii i Gospodarki Wodnej planują wydać ostrzeżenia pierwszego stopnia przed gęstymi mgłami\n• Ostrzeżenia dotyczą gęstych mgieł\n• Widzialność może być ograniczona w miejscach, gdzie wystąpią mgły",
+      "originalTitle": "Gęste mgły. W wielu miejscach warunki do jazdy mocno się pogorszą",
+      "originalDescription": "Synoptycy Instytutu Meteorologii i Gospodarki Wodnej planują wydać ostrzeżenia pierwszego stopnia przed gęstymi mgłami Sprawdź, gdzie widzialność może być ograniczona."
+    },
+    {
+      "title": "Wypadek drogowy z udziałem autobusu i samochodu",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-nie-ustapila-pierwszenstwa-pieszym-67-latka-stanie-przed-sadem-nagranie-st8806311?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:28:23 GMT",
+      "description": "• Powinna się zatrzymać i ustąpić pierwszeństwa\n• Zamiast tego pojechała dalej\n• Omal nie doprowadziła do wypadku na przejściu dla pieszych\n• Policjanci z Zielonej Góry publikują nagranie\n• Nagranie jest publikowane ku przestrodze",
+      "originalTitle": "Centymetry od tragedii. Autobus się zatrzymał, auto nie. Nagranie",
+      "originalDescription": "Powinna się zatrzymać i ustąpić pierwszeństwa, zamiast tego pojechała dalej, omal nie doprowadzając do wypadku na przejściu dla pieszych. Policjanci z Zielonej Góra publikują nagranie ku przestrodze."
+    },
+    {
+      "title": "Dodatek 800 dolarów rocznie na mieszkańca",
+      "link": "https://tvn24.pl/biznes/ze-swiata/kryptowaluty-wyspy-marshalla-pierwszy-w-historii-program-dochodu-podstawowego-na-skale-kraju-st8805689?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:25:19 GMT",
+      "description": "Każdy obywatel Wysp Marshalla otrzyma co kwartał 200 dolarów w ramach powszechnego programu dochodu podstawowego. Pieniądze są wypłacane także w postaci kryptowaluty i zdaniem ekspertów jest to pierwszy tego typu program na świecie.",
+      "originalTitle": "800 dolarów rocznie dla każdego mieszkańca. \"Zastrzyk morale\"",
+      "originalDescription": "Każdy obywatel Wysp Marshalla otrzyma co kwartał 200 dolarów w ramach powszechnego programu dochodu podstawowego. Pieniądze są wypłacane także w postaci kryptowaluty i zdaniem ekspertów jest to pierwszy tego typu program na świecie."
+    },
+    {
+      "title": "Policja zatrzymała nietrzeźwego kierowcę",
+      "link": "https://tvn24.pl/lublin/biala-podlaska-tirami-zablokowali-pijanego-kierowce-na-krajowej-dwojce-st8806297?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:17:14 GMT",
+      "description": "Ponad dwa promile alkoholu miał 63-letni kierowca volkswagena zatrzymany na drodze krajowej numer 2 w Białej Podlaskiej na Lubelszczyźnie. Jego niebezpieczną jazdę zauważyli kierowcy dwóch ciężarówek, którzy zablokowali auto i uniemożliwili mu dalszą podróż.",
+      "originalTitle": "Tirami zablokowali pijanego kierowcę",
+      "originalDescription": "Ponad dwa promile alkoholu miał 63-letni kierowca volkswagena zatrzymany na drodze krajowej numer 2 w Białej Podlaskiej na Lubelszczyźnie. Jego niebezpieczną jazdę zauważyli kierowcy dwóch ciężarówek, którzy zablokowali auto i uniemożliwili mu dalszą podróż."
+    },
+    {
+      "title": "Łowcy ryby na szarpaka zagrożeni karą więzienia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nowe-duninowo-lowili-ryby-na-szarpaka-grozi-im-wiezienie-st8806361?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:15:55 GMT",
+      "description": "Łowili ryby na szarpaka. To nielegalna metoda. Dwaj mężczyźni zostali zatrzymani i usłyszeli zarzuty, grozi im do dwóch lat więzienia. Taka sama kara grozi 47-latkowi, który łowił ryby przy pomocy sieci.",
+      "originalTitle": "Łowili ryby na szarpaka, grozi im więzienie",
+      "originalDescription": "Łowili ryby na szarpaka. To nielegalna metoda. Dwaj mężczyźni zostali zatrzymani i usłyszeli zarzuty, grozi im do dwóch lat więzienia. Taka sama kara grozi 47-latkowi, który łowił ryby przy pomocy sieci."
+    },
+    {
+      "title": "Minister utrzymał decyzję konserwatora, dworzec w Modlinie jest zabytkiem",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nowy-dwor-mazowiecki-konserwator-postawil-na-swoim-dworzec-w-modlinie-zostal-zabytkiem-st8806289?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:14:08 GMT",
+      "description": "Minister kultury i dziedzictwa narodowego po rozpatrzeniu odwołania utrzymał w mocy decyzję mazowieckiego wojewódzkiego konserwatora zabytków o wpisie do rejestru zabytków dworca kolejowego w Modlinie.",
+      "originalTitle": "Minister utrzymał decyzję konserwatora, dworzec w Modlinie jest zabytkiem",
+      "originalDescription": "Minister kultury i dziedzictwa narodowego po rozpatrzeniu odwołania utrzymał w mocy decyzję mazowieckiego wojewódzkiego konserwatora zabytków o wpisie do rejestru zabytków dworca kolejowego w Modlinie."
+    },
+    {
+      "title": "Zełenskiemu \"bardzo zależy\". Spotkanie z Tuskiem pod jednym warunkiem",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-w-polsce-w-piatek-mozliwe-spotkanie-z-donaldem-tuskiem-st8806473?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 15:09:58 GMT",
+      "description": "• Ukraiński prezydent ma spotkać się z Donaldem Tuskiem.\n• Spotkanie ma się odbyć w piątek.\n• Miejsce spotkania to Polska.\n• Do ostatniego momentu potwierdzenie spotkania będzie trudne.",
+      "originalTitle": "Zełenskiemu \"bardzo zależy\". Spotkanie z Tuskiem pod jednym warunkiem",
+      "originalDescription": "Ukraiński prezydent ma spotkać się z Donaldem Tuskiem. Będzie to możliwe już w piątek w Polsce, choć do ostatniego momentu o potwierdzenie będzie trudno."
+    },
+    {
+      "title": "Wyrzucili stąd Rosjan po pożarze przy Marywilskiej. Dawny konsulat wynajęty",
       "link": "https://tvn24.pl/krakow/krakow-budynek-po-konsulacie-generalnym-rosji-wynajety-przez-pkp-s-a-st8805797?source=rss",
       "pubDate": "Wed, 17 Dec 2025 15:01:57 GMT",
-      "description": "• Spółka PKP S.A. rozstrzygnęła przetarg na najem kamienicy przy ulicy Biskupiej w Krakowie.\n• Kamienica przy ulicy Biskupiej w Krakowie mieściła konsulat Rosji.\n• Konsulat Rosji został zamknięty.\n• Powodem zamknięcia konsulatu Rosji był pożar hali przy Marywilskiej w Warszawie.\n• Pożar hali przy Marywilskiej w Warszawie był aktem dywersji inspirowanym z Rosji.\n• PKP S.A. nie ujawnia, kto zostanie nowym najemcą kamienicy.\n• Prawnikiem, który wypowiada się na temat obowiązku ujawnienia informacji przez PKP S.A., jest Szymon Osowski.\n• Szymon Osowski jest prezesem Watchdog Polska.\n• Zgodnie z wypowiedzią Szymona Osowskiego, PKP S.A. ma obowiązek ujawnienia informacji o nowym najemcy.",
+      "description": "Spółka PKP S.A. rozstrzygnęła przetarg na najem kamienicy przy ulicy Biskupiej w Krakowie. To tam mieścił się konsulat Rosji. Został on zamknięty, gdy okazało się, że pożar hali przy Marywilskiej w Warszawie był aktem dywersji inspirowanym z Rosji. Kto zostanie nowym najemcą? Kolejarze nie chcą powiedzieć. Choć, jak mówi prawnik Szymon Osowski, prezes Watchdog Polska, mają taki obowiązek.",
       "originalTitle": "Wyrzucili stąd Rosjan po pożarze przy Marywilskiej. Dawny konsulat wynajęty",
       "originalDescription": "Spółka PKP S.A. rozstrzygnęła przetarg na najem kamienicy przy ulicy Biskupiej w Krakowie. To tam mieścił się konsulat Rosji. Został on zamknięty, gdy okazało się, że pożar hali przy Marywilskiej w Warszawie był aktem dywersji inspirowanym z Rosji. Kto zostanie nowym najemcą? Kolejarze nie chcą powiedzieć. Choć, jak mówi prawnik Szymon Osowski, prezes Watchdog Polska, mają taki obowiązek."
     },
     {
-      "title": "Osoby pijane kierowane do szpitala psychiatrycznego",
+      "title": "Nie ma izby wytrzeźwień, pijanych wożą do szpitala psychiatrycznego",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-nie-ma-izby-wytrzezwien-wiec-woza-pijanych-do-szpitala-psychiatrycznego-st8802942?source=rss",
       "pubDate": "Wed, 17 Dec 2025 15:00:15 GMT",
       "description": "Dyrekcja szpitala psychiatrycznego w Tworkach apeluje o utworzenie izby wytrzeźwień w Pruszkowie. Dane z placówki wskazują, że w tym roku ponad połowa pijanych pacjentów nie powinna w ogóle do niej trafić. Inicjatywę szpitala poparł prezydent Pruszkowa. Decydujący głos w tej sprawie będzie miało starostwo powiatowe.",
@@ -26,62 +82,6 @@
       "description": "Ciało 9-letniej dziewczynki Arii Thorpe odnaleziono w poniedziałek w pobliżu jej domu w Weston-super-Mare w Anglii. O zabójstwo został oskarżony 15-letni chłopak - informuje brytyjska stacja BBC.",
       "originalTitle": "15-latek oskarżony o zabójstwo 9-letniej dziewczynki",
       "originalDescription": "Ciało 9-letniej dziewczynki Arii Thorpe odnaleziono w poniedziałek w pobliżu jej domu w Weston-super-Mare w Anglii. O zabójstwo został oskarżony 15-letni chłopak - informuje brytyjska stacja BBC."
-    },
-    {
-      "title": "Posłowie zajmą się wetem do ustawy łańcuchowej, przed Sejmem protest. \"Miejcie serce, mówię do PiS-u\"",
-      "link": "https://tvn24.pl/polska/ustawa-lancuchowa-protest-przed-sejmem-wlodzimierz-czarzasty-apeluje-do-pis-przed-glosowaniem-ws-weta-st8806233?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 14:55:18 GMT",
-      "description": "Mówiliście: to są nasze psy, walczymy o nasze psy, o nasze miłości (…). I co wam się stało? Nagle serca stały się z kamienia? - pytał w środę marszałek Sejmu Włodzimierz Czarzasty, zwracając się do posłów PiS. Na proteście obrońców praw zwierząt przed Sejmem zaapelował o odrzucanie weta prezydenta do ustawy łańcuchowej. Parlamentarzyści będą głosować w tej sprawie w środę wieczorem.",
-      "originalTitle": "Posłowie zajmą się wetem do ustawy łańcuchowej, przed Sejmem protest. \"Miejcie serce, mówię do PiS-u\"",
-      "originalDescription": "Mówiliście: to są nasze psy, walczymy o nasze psy, o nasze miłości (…). I co wam się stało? Nagle serca stały się z kamienia? - pytał w środę marszałek Sejmu Włodzimierz Czarzasty, zwracając się do posłów PiS. Na proteście obrońców praw zwierząt przed Sejmem zaapelował o odrzucanie weta prezydenta do ustawy łańcuchowej. Parlamentarzyści będą głosować w tej sprawie w środę wieczorem."
-    },
-    {
-      "title": "Nagły zwrot Brukseli. \"Istotna zmiana\"",
-      "link": "https://tvn24.pl/biznes/moto/pakiet-motoryzacyjny-ke-zakaz-aut-spalinowych-do-kosza-branza-komentuje-st8805989?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 14:51:47 GMT",
-      "description": "- To dobry początek - tak pakiet motoryzacyjny ogłoszony przez Komisję Europejską komentuje Jakub Faryś, prezes Polskiego Związku Przemysłu Motoryzacyjnego. Bruksela zaproponowała między innymi rezygnację z całkowitego zakazu sprzedaży w Unii Europejskiej nowych samochodów spalinowych od 2035 roku. Niektóre koncerny są tym jednak zawiedzione.",
-      "originalTitle": "Nagły zwrot Brukseli. \"Istotna zmiana\"",
-      "originalDescription": "- To dobry początek - tak pakiet motoryzacyjny ogłoszony przez Komisję Europejską komentuje Jakub Faryś, prezes Polskiego Związku Przemysłu Motoryzacyjnego. Bruksela zaproponowała między innymi rezygnację z całkowitego zakazu sprzedaży w Unii Europejskiej nowych samochodów spalinowych od 2035 roku. Niektóre koncerny są tym jednak zawiedzione."
-    },
-    {
-      "title": "Chłód będzie napierał na Polskę, ale ciepło nie pozwoli mu wtargnąć. Prognoza pogody",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/czy-wroci-mroz-chlod-bedzie-napieral-na-polske-ale-cieplo-nie-pozwoli-mu-wtargnac-pogoda-na-5-dni-pogoda-na-weekend-st8806350?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 14:47:53 GMT",
-      "description": "W kolejnych dniach w większości kraju będzie pochmurno. Miejscami popada i zrobi się mgliście. Temperatury, jak na ten okres w roku, utrzymają się na dość wysokim poziomie.",
-      "originalTitle": "Chłód będzie napierał na Polskę, ale ciepło nie pozwoli mu wtargnąć. Prognoza pogody",
-      "originalDescription": "W kolejnych dniach w większości kraju będzie pochmurno. Miejscami popada i zrobi się mgliście. Temperatury, jak na ten okres w roku, utrzymają się na dość wysokim poziomie."
-    },
-    {
-      "title": "Autokar \"przeleciał przez środek ronda\". Kierowca trafił do aresztu",
-      "link": "https://tvn24.pl/rzeszow/rzeszow-wypadek-autokaru-na-rondzie-im-jacka-kuronia-kilkanascie-osob-rannych-kierowca-trafil-do-aresztu-st8800631?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 08:10:57 GMT",
-      "description": "34-letni Raman S., podejrzany o nieumyślne sprowadzenie katastrofy w ruchu lądowym, trafił do aresztu. Kierował on autobusem, którym przewoził 47 pasażerów. Według relacji świadka pojazd nagle \"przeleciał przez środek ronda\", a następnie \"stoczył się w pole\". Jechali nim turyści z Białorusi, zmierzali na Węgry. Kilkanaście osób trafiło do szpitali.",
-      "originalTitle": "Autokar \"przeleciał przez środek ronda\". Kierowca trafił do aresztu",
-      "originalDescription": "34-letni Raman S., podejrzany o nieumyślne sprowadzenie katastrofy w ruchu lądowym, trafił do aresztu. Kierował on autobusem, którym przewoził 47 pasażerów. Według relacji świadka pojazd nagle \"przeleciał przez środek ronda\", a następnie \"stoczył się w pole\". Jechali nim turyści z Białorusi, zmierzali na Węgry. Kilkanaście osób trafiło do szpitali."
-    },
-    {
-      "title": "Ona wypłacała pieniądze wyłudzone od oszukanych kobiet, oni czekali przed bankiem",
-      "link": "https://tvn24.pl/tvnwarszawa/bemowo/bemowo-ona-wyplacala-pieniadze-od-oszukanych-kobiet-oni-czekali-przed-bankiem-st8806338?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 14:30:00 GMT",
-      "description": "Wpadli, gdy przyszli do banku po pieniądze od dwóch oszukanych kobiet, które przelały im w sumie blisko 130 tysięcy złotych. Obie usłyszały tę samą historię i w nią uwierzyły.",
-      "originalTitle": "Ona wypłacała pieniądze wyłudzone od oszukanych kobiet, oni czekali przed bankiem",
-      "originalDescription": "Wpadli, gdy przyszli do banku po pieniądze od dwóch oszukanych kobiet, które przelały im w sumie blisko 130 tysięcy złotych. Obie usłyszały tę samą historię i w nią uwierzyły."
-    },
-    {
-      "title": "Zabójstwo 11-letniej Danusi. Nowe informacje o zatrzymanej dziewczynce",
-      "link": "https://tvn24.pl/wroclaw/jelenia-gora-zabojstwo-11-letniej-danusi-sad-o-12-latce-nowe-informacje-st8805473?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 14:08:59 GMT",
-      "description": "Sąd zastosował wobec nieletniej środek tymczasowy - przekazała w środę sędzia Agnieszka Makowska, wiceprezes Sądu Rejonowego w Jeleniej Górze, mówiąc o 12-latce zatrzymanej w sprawie śmierci 11-letniej Danusi. Sędzia nie sprecyzowała, o jaki środek chodzi. Ciało 11-latki znaleziono w poniedziałek. Miała rany spowodowane ostrym narzędziem.",
-      "originalTitle": "Zabójstwo 11-letniej Danusi. Nowe informacje o zatrzymanej dziewczynce",
-      "originalDescription": "Sąd zastosował wobec nieletniej środek tymczasowy - przekazała w środę sędzia Agnieszka Makowska, wiceprezes Sądu Rejonowego w Jeleniej Górze, mówiąc o 12-latce zatrzymanej w sprawie śmierci 11-letniej Danusi. Sędzia nie sprecyzowała, o jaki środek chodzi. Ciało 11-latki znaleziono w poniedziałek. Miała rany spowodowane ostrym narzędziem."
-    },
-    {
-      "title": "Ceny prądu i gazu w 2026 roku. URE podał nowe taryfy",
-      "link": "https://tvn24.pl/biznes/z-kraju/ceny-pradu-i-gazu-w-2026-roku-ure-podal-nowe-taryfy-st8806304?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 14:08:15 GMT",
-      "description": "Ceny w taryfach na energię elektryczną od 1 stycznia wyniosą średnio 495 złotych za MWh - przekazał Urząd Regulacji Energetyki (URE).",
-      "originalTitle": "Ceny prądu i gazu w 2026 roku. URE podał nowe taryfy",
-      "originalDescription": "Ceny w taryfach na energię elektryczną od 1 stycznia wyniosą średnio 495 złotych za MWh - przekazał Urząd Regulacji Energetyki (URE)."
     }
   ]
 }
