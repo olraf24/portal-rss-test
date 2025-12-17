@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-12-17T19:06:20.273Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-12-17T19:35:20.927Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pomoc dla rodzin w Jeleniej Górze",
+      "link": "https://tvn24.pl/polska/zabojstwo-11-letniej-danusi-pomagaja-rodzinom-w-jeleniej-gorze-niezwykle-trudna-sytuacja-st8806843?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 19:22:08 GMT",
+      "description": "• Niosąca pomoc psychologiczną w Jeleniej Górze to psycholożka Małgorzata Balcerowska.\n• Psycholożka Małgorzata Balcerowska stwierdziła, że wśród zaangażowanych w miejscową tragedię osób \"jest bardzo dużo emocji\".\n• Zachodzi potrzeba, aby emocje \"po prostu wybrzmiały\", według psycholożki Małgorzaty Balcerowskiej.\n• Dyrektor miejskiego szpitala stwierdził, że \"wszyscy są wstrząśnięci\" zabójstwem.\n• Ofiarą zabójstwa była 11-letnia Danusa.",
+      "originalTitle": "Pomagają rodzinom w Jeleniej Górze. \"Niezwykle trudna sytuacja\"",
+      "originalDescription": "Niosąca pomoc psychologiczną w Jeleniej Górze psycholożka Małgorzata Balcerowska mówiła, że wśród zaangażowanych w miejscową tragedię osób \"jest bardzo dużo emocji\" i zachodzi potrzeba, aby one \"po prostu wybrzmiały\". Dyrektor miejskiego szpitala stwierdził, że \"wszyscy są wstrząśnięci\" zabójstwem 11-letniej Danusi."
+    },
+    {
+      "title": "Najniższa temperatura od 90 lat",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/takiej-nocy-nie-bylo-tu-od-prawie-90-lat-st8806463?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 19:16:57 GMT",
+      "description": "Takiej nocy w drugiej połowie grudnia w Oslo jeszcze nie było. W nocy z poniedziałku na wtorek temperatura minimalna w stolicy Norwegii nie spadła poniżej ośmiu stopni Celsjusza.",
+      "originalTitle": "Takiej nocy nie było tu od prawie 90 lat",
+      "originalDescription": "Takiej nocy w drugiej połowie grudnia w Oslo jeszcze nie było. W nocy z poniedziałku na wtorek temperatura minimalna w stolicy Norwegii nie spadła poniżej ośmiu stopni Celsjusza."
+    },
+    {
+      "title": "KNF wyraziła zgodę na sprzedaż dużego banku",
+      "link": "https://tvn24.pl/biznes/rynki/santander-idzie-na-sprzedaz-jest-zgoda-knf-st8806734?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 19:07:39 GMT",
+      "description": "Komisja Nadzoru Finansowego przekazała w środę, że nie zgłasza zastrzeżeń do planowanego bezpośredniego przejęcia akcji Santander Bank Polska przez Erste Group Bank. Santander Bank Polska należy do czołówki banków w Polsce - zajmuje trzecie miejsce po PKO BP i Pekao SA pod względem aktywów.",
+      "originalTitle": "Duży bank idzie pod młotek. Jest zielone światło KNF",
+      "originalDescription": "Komisja Nadzoru Finansowego przekazała w środę, że nie zgłasza zastrzeżeń do planowanego bezpośredniego przejęcia akcji Santander Bank Polska przez Erste Group Bank. Santander Bank Polska należy do czołówki banków w Polsce - zajmuje trzecie miejsce po PKO BP i Pekao SA pod względem aktywów."
+    },
+    {
+      "title": "Tusk komentuje głosowanie w sprawie weta",
+      "link": "https://tvn24.pl/polska/sejm-nie-odrzucil-weta-do-ustawy-lancuchowej-donald-tusk-komentuje-pis-potulnie-podkulil-ogon-st8806840?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 19:02:46 GMT",
+      "description": "• Donald Tusk skomentował decyzję Sejmu o utrzymaniu weta prezydenta do ustawy łańcuchowej.\n• Premier ocenił, że \"PiS potulnie podkulił ogon\".\n• Donald Tusk nazwał decyzję \"symboliczną kapitulacją Kaczyńskiego\".\n• Kaczyński nie miał odwagi stanąć w obronie zwierząt.\n• Kaczyński uciekł przed głosowaniem.\n• Komentarz Donalda Tuska został opublikowany w mediach społecznościowych.",
+      "originalTitle": "\"PiS podkulił ogon\", \"symboliczna kapitulacja Kaczyńskiego\". Tusk po głosowaniu w sprawie weta",
+      "originalDescription": "Donald Tusk skomentował decyzję Sejmu o utrzymaniu weta prezydenta do ustawy łańcuchowej. Premier ocenił, że \"PiS potulnie podkulił ogon\". \"Symboliczna kapitulacja Kaczyńskiego - nie miał odwagi stanąć w obronie zwierząt i uciekł przed głosowaniem\" - dodał we wpisie w mediach społecznościowych."
+    },
+    {
+      "title": "Ranny mężczyzna trafił do szpitala",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-mezczyzna-lezal-na-jezdni-w-kaluzy-krwi-zostal-potracony-przez-samochod-st8806763?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 18:55:43 GMT",
+      "description": "Poważnie rannego rowerzystę zauważyli strażnicy miejscy. Został potrącony przez samochód. Zajęli się poszkodowanym do czasu przyjazdu pogotowia. 68-latek trafił do szpitala.",
+      "originalTitle": "Leżał na jezdni w kałuży krwi. Ranny mężczyzna trafił do szpitala",
+      "originalDescription": "Poważnie rannego rowerzystę zauważyli strażnicy miejscy. Został potrącony przez samochód. Zajęli się poszkodowanym do czasu przyjazdu pogotowia. 68-latek trafił do szpitala."
+    },
+    {
+      "title": "Sejm skierował projekt ustawy o kryptoaktywach do komisji",
+      "link": "https://tvn24.pl/biznes/z-kraju/nowa-szansa-dla-ustawy-o-kryptoaktywach-sejm-wysyla-projekt-do-komisji-st8806822?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 18:46:01 GMT",
+      "description": "Sejm skierował do komisji finansów i gospodarki projekt ustawy o rynku kryptoaktywów, tożsamy z wcześniejszym, zawetowanym przez prezydenta. Nowe przepisy mają uregulować rynek kryptoaktywów w Polsce, wzmocnić nadzór Komisji Nadzoru Finansowego oraz wprowadzić surowe kary za naruszenia.",
+      "originalTitle": "Nowa szansa dla ustawy o kryptoaktywach. Sejm wysyła projekt do komisji",
+      "originalDescription": "Sejm skierował do komisji finansów i gospodarki projekt ustawy o rynku kryptoaktywów, tożsamy z wcześniejszym, zawetowanym przez prezydenta. Nowe przepisy mają uregulować rynek kryptoaktywów w Polsce, wzmocnić nadzór Komisji Nadzoru Finansowego oraz wprowadzić surowe kary za naruszenia."
+    },
+    {
+      "title": "Pożar w firmie poligraficznej. Apel do mieszkańców",
+      "link": "https://tvn24.pl/poznan/rawicz-pozar-w-magazynie-firmy-poligraficznej-jedna-osoba-poszkodowana-st8806790?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 18:38:30 GMT",
+      "description": "Jedna osoba została ranna w pożarze magazynu firmy poligraficznej w Rawiczu (woj. wielkopolskie). Z ogniem walczy kilkanaście zastępów straży pożarnej. Gmina apeluje do mieszkańców o zamknięcie okien.",
+      "originalTitle": "Pożar w firmie poligraficznej. Apel do mieszkańców",
+      "originalDescription": "Jedna osoba została ranna w pożarze magazynu firmy poligraficznej w Rawiczu (woj. wielkopolskie). Z ogniem walczy kilkanaście zastępów straży pożarnej. Gmina apeluje do mieszkańców o zamknięcie okien."
+    },
+    {
+      "title": "Pogoda na jutro - czwartek, 18.12. W nocy ściśnie lekki mróz, mogą snuć się też mgły",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-18-12-w-nocy-scisnie-lekki-mroz-moga-snuc-sie-tez-mgly-st8806528?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 18:16:09 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek, 18.12. W nocy w wielu regionach kraju temperatura spadnie poniżej zera stopni. Dzień przyniesie pochmurną i mglistą aurę, lokalnie może popadać deszcz.",
+      "originalTitle": "Pogoda na jutro - czwartek, 18.12. W nocy ściśnie lekki mróz, mogą snuć się też mgły",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 18.12. W nocy w wielu regionach kraju temperatura spadnie poniżej zera stopni. Dzień przyniesie pochmurną i mglistą aurę, lokalnie może popadać deszcz."
+    },
+    {
+      "title": "KNF reaguje na podejrzane transakcje akcjami Energi",
+      "link": "https://tvn24.pl/biznes/najnowsze/knf-reaguje-na-podejrzane-transakcje-akcjami-energi-st8806736?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 18:14:05 GMT",
+      "description": "Komisja Nadzoru Finansowego złożyła zawiadomienia dotyczące podejrzenia popełnienia przestępstwa związanego z wykorzystaniem informacji poufnej w obrocie akcjami Energi. Sprawa dotyczy informacji Orlenu o zwiększeniu zaangażowania w spółce.",
+      "originalTitle": "KNF reaguje na podejrzane transakcje akcjami Energi",
+      "originalDescription": "Komisja Nadzoru Finansowego złożyła zawiadomienia dotyczące podejrzenia popełnienia przestępstwa związanego z wykorzystaniem informacji poufnej w obrocie akcjami Energi. Sprawa dotyczy informacji Orlenu o zwiększeniu zaangażowania w spółce."
+    },
+    {
+      "title": "Szukają mężczyzn ze zdjęć, chodzi o groźby",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/mokotow-szukaja-mezczyzn-ze-zdjec-chodzi-o-grozby-st8806721?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 18:09:33 GMT",
+      "description": "Policjanci z Mokotowa poszukują dwóch mężczyzn w związku z groźbami karalnymi wobec pracownika sklepu jubilerskiego. Mogli oni odwiedzić więcej sklepów. Opublikowano zdjęcia z monitoringu, na których widać wizerunki podejrzewanych.",
+      "originalTitle": "Szukają mężczyzn ze zdjęć, chodzi o groźby",
+      "originalDescription": "Policjanci z Mokotowa poszukują dwóch mężczyzn w związku z groźbami karalnymi wobec pracownika sklepu jubilerskiego. Mogli oni odwiedzić więcej sklepów. Opublikowano zdjęcia z monitoringu, na których widać wizerunki podejrzewanych."
+    }
+  ]
 }
