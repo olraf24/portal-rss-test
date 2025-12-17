@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2025-12-17T12:10:10.459Z",
+  "lastUpdate": "2025-12-17T12:47:06.993Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Skok w rozwoju AI. Polacy przełamują impas w uczeniu ze wzmocnieniem (RL)",
+      "link": "https://dzienniknaukowy.pl/skok-w-rozwoju-ai-polacy-przelamuja-impas-w-uczeniu-ze-wzmocnieniem-rl",
+      "pubDate": "Wed, 17 Dec 2025 12:29:46 +0000",
+      "description": "Zespół informatyków z udziałem dwóch Polaków znalazł sposób na skokowe zwiększenie głębokości sieci neuronowych - z kilku do aż tysiąca warstw - w modelach AI uczenia ze wzmocnieniem (RL)."
+    },
+    {
+      "title": "Katastrofa naturalna – nie taka naturalna",
+      "link": "https://dzienniknaukowy.pl/katastrofa-naturalna-nie-taka-naturalna",
+      "pubDate": "Wed, 17 Dec 2025 12:14:05 +0000",
+      "description": "W ostatnich dekadach obserwujemy w Polsce wzrost dotkliwości zjawisk ekstremalnych powodujących rozległe konsekwencje, określanych w przestrzeni publicznej jako „katastrofy naturalne” – intensywnych opadów prowadzących do powodzi i podtopień, fal upałów czy długotrwałych susz. Ich występowanie oraz skutki, które powodują, nie są jednak wyłącznie rezultatem procesów naturalnych, lecz w znacznym stopniu wynikiem oddziaływania czynników antropogenicznych – emisji gazów cieplarnianych, intensywnego zagospodarowania przestrzeni czy postępującej degradacji środowiska"
+    },
+    {
+      "title": "Laserowa korekcja wzroku &#8211; kiedy warto ją rozważyć?",
+      "link": "https://dzienniknaukowy.pl/laserowa-korekcja-wzroku-kiedy-warto-ja-rozwazyc",
+      "pubDate": "Wed, 17 Dec 2025 08:31:00 +0000",
+      "description": "Laserowa korekcja wzroku (np. LASIK, PRK, SMILE) od lat pomaga osobom z krótkowzrocznością, nadwzrocznością i astygmatyzmem uniezależnić się od okularów i soczewek kontaktowych. Ale kluczowe pytanie brzmi: kiedy to jest naprawdę dobry moment, żeby w ogóle zacząć o niej myśleć?"
+    },
     {
       "title": "Naukowcy udowodnili istnienie tetrakwarków",
       "link": "https://dzienniknaukowy.pl/naukowcy-udowodnili-istnienie-tetrakwarkow",
@@ -44,24 +62,6 @@
       "link": "https://dzienniknaukowy.pl/pozyskano-pierwsze-zdjecie-z-polskiej-konstelacji-satelitarnej-piast",
       "pubDate": "Thu, 11 Dec 2025 15:05:29 +0000",
       "description": "Pozyskano pierwsze, historyczne zdjęcie wykonane przez satelitę konstelacji PIAST - poinformował lider projektu Wojskowa Akademia Techniczna. W zakresie obserwacji Ziemi projekt PIAST ma przynieść polskiej armii korzyści związane z posiadaniem własnego, niezależnego źródła danych satelitarnych."
-    },
-    {
-      "title": "Wiadro z łupin pestek słonecznika albo tataraku?",
-      "link": "https://dzienniknaukowy.pl/wiadro-z-lupin-pestek-slonecznika-albo-tataraku",
-      "pubDate": "Thu, 11 Dec 2025 14:38:12 +0000",
-      "description": "Politechnika Białostocka stoi na czele konsorcjum, które bada biodegradowalne materiały nowej ery. Jest już pierwsza partia w pełni biodegradowalnych wiader wykorzystujących łupiny pestek słonecznika albo tatarak."
-    },
-    {
-      "title": "Czy ból może być objawem poważnej choroby? Kiedy warto skonsultować się z lekarzem?",
-      "link": "https://dzienniknaukowy.pl/czy-bol-moze-byc-objawem-powaznej-choroby-kiedy-warto-skonsultowac-sie-z-lekarzem",
-      "pubDate": "Thu, 11 Dec 2025 11:10:00 +0000",
-      "description": "Czasem ból pojawia się niespodziewanie — kłucie w klatce piersiowej, ucisk w brzuchu, nagły skurcz w nodze. Zwykle myślimy: „pewnie zaraz samo przejdzie”. I choć najczęściej faktycznie tak jest, czasami ból to sygnał ostrzegawczy, że w organizmie dzieje się coś poważnego. Jak odróżnić zwykły ból od tego, który wymaga szybkiej wizyty u lekarza?"
-    },
-    {
-      "title": "Wiceprezes Google: AI przyspiesza rozwój nauki; nastały złote czasy badań naukowych",
-      "link": "https://dzienniknaukowy.pl/wiceprezes-google-ai-przyspiesza-rozwoj-nauki-nastaly-zlote-czasy-badan-naukowych",
-      "pubDate": "Wed, 10 Dec 2025 10:58:55 +0000",
-      "description": "Wiceprezes Google Yossi Matias ocenił, że sztuczna inteligencja (AI) w bezprecedensowy sposób przyspiesza rozwój nauki, dzięki czemu mamy teraz złote czasy badań naukowych."
     }
   ]
 }
