@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-12-18T11:35:22.999Z",
+  "lastUpdate": "2025-12-18T12:10:06.361Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Od fulerenów do struktur 2D: przepis na projektowanie nanostruktur boru",
+      "link": "https://dzienniknaukowy.pl/od-fulerenow-do-struktur-2d-przepis-na-projektowanie-nanostruktur-boru",
+      "pubDate": "Thu, 18 Dec 2025 11:43:38 +0000",
+      "description": "Fizyk z UW opracował model wyjaśniający różnorodność nanostruktur boru, od pustych w środku klastrów molekularnych po ultracienkie warstwy 2D. Odkrycie to pozwala nie tylko zrozumieć istniejące nanostruktury boru, lecz także przewidywać i projektować nowe materiały o pożądanych właściwościach."
+    },
     {
       "title": "Skok w rozwoju AI. Polacy przełamują impas w uczeniu ze wzmocnieniem (RL)",
       "link": "https://dzienniknaukowy.pl/skok-w-rozwoju-ai-polacy-przelamuja-impas-w-uczeniu-ze-wzmocnieniem-rl",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/polska-z-kosmosu-pierwsze-fotografie-wykonane-przez-satelite-sil-zbrojnych-rp",
       "pubDate": "Fri, 12 Dec 2025 11:07:15 +0000",
       "description": "Firma ICEYE opublikowała pierwsze zdjęcia z polskiego satelity wojskowego. Jak opisała, są to świetne ujęcia kilku miejsc w Polsce – w tym te w „najlepszej na świecie” rozdzielczości 25 cm. Satelita Sił Zbrojnych RP został wyniesiony na orbitę 28 listopada"
-    },
-    {
-      "title": "Pozyskano pierwsze zdjęcie z polskiej konstelacji satelitarnej PIAST",
-      "link": "https://dzienniknaukowy.pl/pozyskano-pierwsze-zdjecie-z-polskiej-konstelacji-satelitarnej-piast",
-      "pubDate": "Thu, 11 Dec 2025 15:05:29 +0000",
-      "description": "Pozyskano pierwsze, historyczne zdjęcie wykonane przez satelitę konstelacji PIAST - poinformował lider projektu Wojskowa Akademia Techniczna. W zakresie obserwacji Ziemi projekt PIAST ma przynieść polskiej armii korzyści związane z posiadaniem własnego, niezależnego źródła danych satelitarnych."
     }
   ]
 }
