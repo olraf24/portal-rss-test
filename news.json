@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2025-12-18T09:40:45.135Z",
+  "lastUpdate": "2025-12-18T10:07:07.365Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pomoc psychologiczna po śmierci uczennicy",
+      "title": "12-latek podejrzany o udział w zabójstwie",
+      "link": "https://tvn24.pl/swiat/szwecja-12-latek-podejrzany-o-zastrzelenie-mezczyzny-na-zlecenie-gangu-st8807040?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 10:02:00 GMT",
+      "description": "• W Malmoe w Szwecji doszło do zabójstwa 21-letniego mężczyzny.\n• Policja podejrzewa, że morderca to 12-letni chłopiec.\n• Chłopiec miał działać na zlecenie gangu.\n• Śledczy poszukują zleceniodawcy.\n• Śledczy poszukują wspólników.",
+      "originalTitle": "12-latek podejrzany o zabójstwo na zlecenie gangu",
+      "originalDescription": "W Malmoe w Szwecji doszło do zabójstwa 21-letniego mężczyzny. Policja podejrzewa, że morderca to 12-letni chłopiec, który zrobił to na zlecenie gangu. Śledczy poszukują zleceniodawcy oraz wspólników."
+    },
+    {
+      "title": "Kierowca zatrzymany z paczkami kurierskimi",
+      "link": "https://tvn24.pl/bialystok/lomza-byl-pijany-wsiadl-do-samochodu-pelnego-paczek-kurierskich-i-odjechal-uderzyl-w-slup-st8807246?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 09:55:39 GMT",
+      "description": "• 32-latek wszczął awanturę\n• Awantura miała miejsce w domu\n• 32-latek uciekł z domu, zanim przyjechała policja\n• 32-latek wsiadł do samochodu firmy kurierskiej\n• Samochód firmy kurierskiej odjechał\n�� 32-latek był pijany\n• 32-latek został zatrzymany przez policję",
+      "originalTitle": "Był pijany, wsiadł do samochodu pełnego paczek kurierskich i odjechał",
+      "originalDescription": "32-latek wszczął awanturę, ale uciekł z domu, zanim przyjechała policji. Potem wsiadł do samochodu firmy kurierskiej i odjechał. Był pijany, został zatrzymany."
+    },
+    {
+      "title": "Zmiany cen i rachunków",
+      "link": "https://tvn24.pl/biznes/pieniadze/ceny-pradu-w-dol-rachunki-w-gore-st8807399?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 09:54:05 GMT",
+      "description": "Rachunki za energię elektryczną w przypadku przeciętnego gospodarstwa domowego wzrosną w 2026 roku o około 3,5 procent - wylicza Biuro Maklerskie Pekao. Stanie się tak pomimo niższych stawek za prąd zatwierdzonych w środę przez Urząd Regulacji Energetyki.",
+      "originalTitle": "Ceny w dół, rachunki w górę",
+      "originalDescription": "Rachunki za energię elektryczną w przypadku przeciętnego gospodarstwa domowego wzrosną w 2026 roku o około 3,5 procent - wylicza Biuro Maklerskie Pekao. Stanie się tak pomimo niższych stawek za prąd zatwierdzonych w środę przez Urząd Regulacji Energetyki."
+    },
+    {
+      "title": "USA zwiększają sprzedaż uzbrojenia",
+      "link": "https://tvn24.pl/swiat/usa-rekordowa-sprzedaz-broni-dla-tajwanu-zatwierdzona-himars-paladin-javelin-drony-st8807113?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 09:49:38 GMT",
+      "description": "Sprzedaż Tajwanowi broni o rekordowej wartości ponad 11,1 miliardów dolarów została zatwierdzona przez administrację Donalda Trumpa. To największy w historii pakiet amerykańskiego uzbrojenia dla zagrożonej chińską inwazją wyspy, obejmujący m.in. systemy HIMARS, haubice samobieżne, pociski Javelin i drony.",
+      "originalTitle": "Największa sprzedaż uzbrojenia w historii. Zielone światło w USA",
+      "originalDescription": "Sprzedaż Tajwanowi broni o rekordowej wartości ponad 11,1 miliardów dolarów została zatwierdzona przez administrację Donalda Trumpa. To największy w historii pakiet amerykańskiego uzbrojenia dla zagrożonej chińską inwazją wyspy, obejmujący m.in. systemy HIMARS, haubice samobieżne, pociski Javelin i drony."
+    },
+    {
+      "title": "Eksplozja w domu. Nastolatkowie bawili się petardami",
+      "link": "https://tvn24.pl/poznan/rokietnica-eksplozja-w-domu-nastolatkowie-bawili-sie-petardami-st8807260?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 09:49:26 GMT",
+      "description": "Dwóch 14-latków z Rokietnicy (Wielkopolska) ucierpiało w wyniku wybuchu w jednym z domów. Chłopcy bawili się petardami, które kupili w internecie. Obaj trafili do szpitali. - Domownicy nie mogą korzystać z budynku, bo doszło do uszkodzenia konstrukcji dachu - przekazuje policja.",
+      "originalTitle": "Eksplozja w domu. Nastolatkowie bawili się petardami",
+      "originalDescription": "Dwóch 14-latków z Rokietnicy (Wielkopolska) ucierpiało w wyniku wybuchu w jednym z domów. Chłopcy bawili się petardami, które kupili w internecie. Obaj trafili do szpitali. - Domownicy nie mogą korzystać z budynku, bo doszło do uszkodzenia konstrukcji dachu - przekazuje policja."
+    },
+    {
+      "title": "Pomoc psychologiczna dla młodzieży po śmierci 11-letniej Danusi",
       "link": "https://tvn24.pl/wroclaw/jelenia-gora-zabojstwo-11-letniej-danusi-pomoc-psychologiczna-dla-mlodziezy-st8807138?source=rss",
       "pubDate": "Thu, 18 Dec 2025 09:36:57 GMT",
-      "description": "• Prezydent Jeleniej Góry to Jerzy Łużniak.\n• Pracownicy wydziału edukacji jeleniogórskiego magistratu opowiedzieli o wsparciu młodzieży po śmierci 11-letniej Danusi.\n• Skala kryzysu, zjawiska była ogromna.\n• Dyżury psychologów trwały przez cały dzień.\n• Dyrektor szkoły podstawowej nr 10 opowiedział o sytuacji.\n• Dziewczynka, która zmarła, uczyła się w szkole podstawowej nr 10.\n• Zapowiedziano, jak dalej będzie wyglądała pomoc dla uczniów, rodziców i nauczycieli.",
+      "description": "Prezydent Jeleniej Góry Jerzy Łużniak i pracownicy wydziału edukacji jeleniogórskiego magistratu opowiedzieli, jak wygląda wsparcie młodzieży po śmierci 11-letniej Danusi. - Skala kryzysu, zjawiska była ogromna i właściwie dyżury psychologów trwały przez cały dzień - mówił dyrektor szkoły podstawowej nr 10, w której uczyły się dziewczynki. Zapowiedział też, jak dalej będzie wyglądała pomoc dla uczniów, rodziców i nauczycieli.",
       "originalTitle": "Pomoc psychologiczna dla młodzieży po śmierci 11-letniej Danusi",
       "originalDescription": "Prezydent Jeleniej Góry Jerzy Łużniak i pracownicy wydziału edukacji jeleniogórskiego magistratu opowiedzieli, jak wygląda wsparcie młodzieży po śmierci 11-letniej Danusi. - Skala kryzysu, zjawiska była ogromna i właściwie dyżury psychologów trwały przez cały dzień - mówił dyrektor szkoły podstawowej nr 10, w której uczyły się dziewczynki. Zapowiedział też, jak dalej będzie wyglądała pomoc dla uczniów, rodziców i nauczycieli."
     },
     {
-      "title": "Spotkanie sekretarza generalnego NATO z prezydentem",
+      "title": "Sekretarz generalny NATO u prezydenta Nawrockiego",
       "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-markiem-rutte-sekretarz-generalny-nato-z-wizyta-w-polsce-st8807364?source=rss",
       "pubDate": "Thu, 18 Dec 2025 09:29:56 GMT",
-      "description": "• W czwartek przed południem w Pałacu Prezydenckim rozpoczęło się spotkanie.\n• Spotkanie odbywało się między prezydentem Karolem Nawrockim.\n• Sekretarzem generalnym NATO, który uczestniczył w spotkaniu, był Marek Rutte.\n• To było pierwsze spotkanie w ramach wizyty szefa Sojuszu Północnoatlantyckiego w Polsce.",
+      "description": "W czwartek przed południem w Pałacu Prezydenckim rozpoczęło się spotkanie prezydenta Karola Nawrockiego z sekretarzem generalnym NATO Markiem Rutte. To pierwszy punkt wizyty szefa Sojuszu Północnoatlantyckiego w Polsce.",
       "originalTitle": "Sekretarz generalny NATO u prezydenta Nawrockiego",
       "originalDescription": "W czwartek przed południem w Pałacu Prezydenckim rozpoczęło się spotkanie prezydenta Karola Nawrockiego z sekretarzem generalnym NATO Markiem Rutte. To pierwszy punkt wizyty szefa Sojuszu Północnoatlantyckiego w Polsce."
     },
     {
-      "title": "10 Gruzinów deportowanych z Polski",
+      "title": "10 Gruzinów deportowanych z Polski. \"Stanowili zagrożenie dla bezpieczeństwa\"",
       "link": "https://tvn24.pl/polska/10-gruzinow-deportowanych-z-polski-stanowili-zagrozenie-dla-bezpieczenstwa-st8807288?source=rss",
       "pubDate": "Thu, 18 Dec 2025 09:27:41 GMT",
-      "description": "• Z Polski deportowano kolejnych 10 Gruzinów stanowiących zagrożenie dla bezpieczeństwa wewnętrznego.\n• Szef MSWiA, który poinformował o deportacji, to Marcin Kierwiński.\n• Cudzoziemcy odlecieli samolotem z ��odzi do Tbilisi.\n• Była to piętnasta tego typu operacja w tym roku.\n• Operacja została zrealizowana z wykorzystaniem lotu czarterowego.",
+      "description": "Z Polski deportowano kolejnych 10 Gruzinów stanowiących zagrożenie dla bezpieczeństwa wewnętrznego - poinformował szef MSWiA Marcin Kierwiński. Cudzoziemcy odlecieli samolotem z Łodzi do Tbilisi. To piętnasta tego typu operacja w tym roku zrealizowana z wykorzystaniem lotu czarterowego.",
       "originalTitle": "10 Gruzinów deportowanych z Polski. \"Stanowili zagrożenie dla bezpieczeństwa\"",
       "originalDescription": "Z Polski deportowano kolejnych 10 Gruzinów stanowiących zagrożenie dla bezpieczeństwa wewnętrznego - poinformował szef MSWiA Marcin Kierwiński. Cudzoziemcy odlecieli samolotem z Łodzi do Tbilisi. To piętnasta tego typu operacja w tym roku zrealizowana z wykorzystaniem lotu czarterowego."
     },
@@ -42,46 +82,6 @@
       "description": "W spotkaniu Karola Nawrockiego i Wołodymyra Zełenskiego nie będzie uczestniczył przedstawiciel rządu - poinformował w \"Rozmowie Piaseckiego\" wiceminister spraw zagranicznych Marcin Bosacki. Mówił również, że jest to \"absolutnie niezgodne z konstytucją\" i wskazywał, że w tego typu spotkaniach w delegacji zawsze powinien być przedstawiciel MSZ.",
       "originalTitle": "Delegacja Nawrockiego na rozmowy z Zełenskim bez przedstawiciela MSZ. \"Znowu żaden nie jest zaproszony\"",
       "originalDescription": "W spotkaniu Karola Nawrockiego i Wołodymyra Zełenskiego nie będzie uczestniczył przedstawiciel rządu - poinformował w \"Rozmowie Piaseckiego\" wiceminister spraw zagranicznych Marcin Bosacki. Mówił również, że jest to \"absolutnie niezgodne z konstytucją\" i wskazywał, że w tego typu spotkaniach w delegacji zawsze powinien być przedstawiciel MSZ."
-    },
-    {
-      "title": "W jednym czasie weszli do kilku lokali, zatrzymali \"opiekuna\" jednego z nich",
-      "link": "https://tvn24.pl/tvnwarszawa/targowek/w-jednym-czasie-weszli-do-kilku-lokali-zatrzymali-opiekuna-jednego-z-nich-st8807173?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:12:57 GMT",
-      "description": "Oficjalnie prowadzono tam legalną działalność, ale lokale były wyposażone w kamery, a wejścia zabezpieczono tak, by nikt postronny się tam nie dostał. W ten sposób działały punkty z nielegalnymi automatami do gier.",
-      "originalTitle": "W jednym czasie weszli do kilku lokali, zatrzymali \"opiekuna\" jednego z nich",
-      "originalDescription": "Oficjalnie prowadzono tam legalną działalność, ale lokale były wyposażone w kamery, a wejścia zabezpieczono tak, by nikt postronny się tam nie dostał. W ten sposób działały punkty z nielegalnymi automatami do gier."
-    },
-    {
-      "title": "Mieszkańcy nie mieli ciepłej wody i ogrzewania. Za wszystkim stał były hydraulik",
-      "link": "https://tvn24.pl/poznan/poznan-pozbawial-mieszkancow-ogrzewania-i-cieplej-wody-byly-hydraulik-w-rekach-policji-st8807256?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:06:43 GMT",
-      "description": "Były hydraulik pozbawiał mieszkańców Poznania ciepłej wody i ogrzewania. Mężczyzna wycinał z piwnic bloków zawory, by później sprzedać je na złomie. 42-latek został zatrzymany po kilku miesiącach działalności.",
-      "originalTitle": "Mieszkańcy nie mieli ciepłej wody i ogrzewania. Za wszystkim stał były hydraulik",
-      "originalDescription": "Były hydraulik pozbawiał mieszkańców Poznania ciepłej wody i ogrzewania. Mężczyzna wycinał z piwnic bloków zawory, by później sprzedać je na złomie. 42-latek został zatrzymany po kilku miesiącach działalności."
-    },
-    {
-      "title": "Zaskakujące dane z polskiego przemysłu",
-      "link": "https://tvn24.pl/biznes/z-kraju/produkcja-przemyslowa-dane-gus-za-listopad-2025-st8807284?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:01:47 GMT",
-      "description": "Produkcja przemysłowa w listopadzie 2025 roku spadła o 1,1 procent rok do roku - podał w czwartek Główny Urząd Statystyczny. Analitycy oczekiwali wzrostu o 2,7 procent.",
-      "originalTitle": "Zaskakujące dane z polskiego przemysłu",
-      "originalDescription": "Produkcja przemysłowa w listopadzie 2025 roku spadła o 1,1 procent rok do roku - podał w czwartek Główny Urząd Statystyczny. Analitycy oczekiwali wzrostu o 2,7 procent."
-    },
-    {
-      "title": "Tyle przeciętnie zarabiają Polacy",
-      "link": "https://tvn24.pl/biznes/pieniadze/przecietne-wynagrodzenie-w-listopadzie-2025-roku-gus-st8807267?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:01:41 GMT",
-      "description": "Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw w listopadzie 2025 roku wyniosło 9078,16 złotego, co oznacza wzrost o 7,1 procent rok do roku - podał Główny Urząd Statystyczny. Zatrudnienie w tym sektorze spadło o 0,8 procent w ujęciu rocznym.",
-      "originalTitle": "Tyle przeciętnie zarabiają Polacy",
-      "originalDescription": "Przeciętne wynagrodzenie brutto w sektorze przedsiębiorstw w listopadzie 2025 roku wyniosło 9078,16 złotego, co oznacza wzrost o 7,1 procent rok do roku - podał Główny Urząd Statystyczny. Zatrudnienie w tym sektorze spadło o 0,8 procent w ujęciu rocznym."
-    },
-    {
-      "title": "Ruszyła budowa bunkrów na granicy z Rosją. Powstaje Bałtycka Linia Obrony",
-      "link": "https://tvn24.pl/swiat/estonia-budowa-bunkrow-na-granicy-z-rosja-baltycka-linia-obrony-ma-laczyc-sie-z-tarcza-wschod-st8807201?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 08:59:17 GMT",
-      "description": "Estonia na południowo-wschodnim odcinku granicy z Rosją rozpoczęła budowę pierwszych z planowanych około 600 bunkrów. Mają one stanowić trzon Bałtyckiej Linii Obrony, łączącej się z polskimi fortyfikacjami w ramach Tarczy Wschód.",
-      "originalTitle": "Ruszyła budowa bunkrów na granicy z Rosją. Powstaje Bałtycka Linia Obrony",
-      "originalDescription": "Estonia na południowo-wschodnim odcinku granicy z Rosją rozpoczęła budowę pierwszych z planowanych około 600 bunkrów. Mają one stanowić trzon Bałtyckiej Linii Obrony, łączącej się z polskimi fortyfikacjami w ramach Tarczy Wschód."
     }
   ]
 }
