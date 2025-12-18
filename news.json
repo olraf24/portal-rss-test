@@ -1,13 +1,53 @@
 {
-  "lastUpdate": "2025-12-18T10:40:53.473Z",
+  "lastUpdate": "2025-12-18T11:06:32.912Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy, 67-latek nie żyje",
+      "title": "Przerwa w realizacji przelewów",
+      "link": "https://tvn24.pl/biznes/pieniadze/przelewy-w-swieta-elixir-i-express-elixir-kiedy-przerwy-w-standardowym-dzialaniu-st8807464?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 10:59:15 GMT",
+      "description": "• Wigilia, Święta Bożego Narodzenia oraz Nowy Rok to dni wolne od pracy.\n• System rozliczeniowy Elixir obsługuje przelewy międzybankowe w złotych.\n• System rozliczeniowy Elixir ma przerwę w standardowym funkcjonowaniu w dniach wolnych od pracy.\n• Krajowa Izba Rozliczeniowa przypomina o planowaniu terminowych płatności.\n• Terminowe płatności warto zlecić wcześniej.",
+      "originalTitle": "Przerwa w realizacji przelewów. Warto zaplanować płatności",
+      "originalDescription": "Wigilia, Święta Bożego Narodzenia oraz Nowy Rok to dni wolne od pracy. Oznacza to, że system rozliczeniowy Elixir, obsługujący przelewy międzybankowe w złotych, ma przerwę w standardowym funkcjonowaniu. Dlatego Krajowa Izba Rozliczeniowa przypomina, że terminowe płatności warto zaplanować i zlecić wcześniej."
+    },
+    {
+      "title": "Znaleziono ludzką rękę",
+      "link": "https://tvn24.pl/trojmiasto/slupsk-reka-znaleziona-przy-wiacie-smietnikowej-st8807526?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 10:57:59 GMT",
+      "description": "Przy wiacie śmietnikowej w Słupsku znaleziono rękę. Przeprowadzone zostaną badania DNA. Śledczy sprawdzają, czy ma to związek z zabójstwem 31-latka, którego rozczłonkowane ciało znaleziono na początku grudnia.",
+      "originalTitle": "Ręka znaleziona przy wiacie śmietnikowej",
+      "originalDescription": "Przy wiacie śmietnikowej w Słupsku znaleziono rękę. Przeprowadzone zostaną badania DNA. Śledczy sprawdzają, czy ma to związek z zabójstwem 31-latka, którego rozczłonkowane ciało znaleziono na początku grudnia."
+    },
+    {
+      "title": "Rozprawa w sprawie ekstradycji byłego szefa RARS w Londynie",
+      "link": "https://tvn24.pl/polska/wielka-brytania-sad-w-londynie-w-czwartek-ostatnia-rozprawa-w-sprawie-bylego-szefa-rars-st8807033?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 04:16:28 GMT",
+      "description": "Były szef Rządowej Agencji Rezerw Strategicznych Michał Kuczmierowski w czwartek stawił się przed londyńskim sądem w sprawie jego ekstradycji. W sierpniu 2024 roku usłyszał zarzuty dotyczące między innymi udziału w zorganizowanej grupie przestępczej i niedopełnienia obowiązków.",
+      "originalTitle": "Ostatnia rozprawa w sprawie ekstradycji. Były szef RARS przed sądem w Londynie",
+      "originalDescription": "Były szef Rządowej Agencji Rezerw Strategicznych Michał Kuczmierowski w czwartek stawił się przed londyńskim sądem w sprawie jego ekstradycji. W sierpniu 2024 roku usłyszał zarzuty dotyczące między innymi udziału w zorganizowanej grupie przestępczej i niedopełnienia obowiązków."
+    },
+    {
+      "title": "Jechał za szybko, za kierownicą usiadł za wcześnie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/lutocin-znacznie-przekroczyl-predkosc-za-kierownica-daewoo-siedzial-16-latek-st8807150?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 10:53:13 GMT",
+      "description": "Policjanci z Żuromina (województwo mazowieckie) zatrzymali do kontroli kierowcę auta osobowego, który przekroczył prędkość. Okazało się, że za kierownicą siedział 16-latek.",
+      "originalTitle": "Jechał za szybko, za kierownicą usiadł za wcześnie",
+      "originalDescription": "Policjanci z Żuromina (województwo mazowieckie) zatrzymali do kontroli kierowcę auta osobowego, który przekroczył prędkość. Okazało się, że za kierownicą siedział 16-latek."
+    },
+    {
+      "title": "Płyta z budowy spadła na chodnik i jezdnię",
+      "link": "https://tvn24.pl/katowice/katowice-plyta-z-budowy-spadla-na-chodnik-i-jezdnie-st8807501?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 10:43:58 GMT",
+      "description": "Niebezpieczna sytuacja w centrum Katowic. Z terenu budowy apartamentowca na chodnik i jezdnię spadła płyta. Informację i zdjęcia otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Płyta z budowy spadła na chodnik i jezdnię",
+      "originalDescription": "Niebezpieczna sytuacja w centrum Katowic. Z terenu budowy apartamentowca na chodnik i jezdnię spadła płyta. Informację i zdjęcia otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Nie żyje 67-latek. Kobieta przejechała go, gdy leżał na drodze",
       "link": "https://tvn24.pl/rzeszow/zarzecze-nie-zyje-67-latek-kobieta-przejechala-go-gdy-lezal-na-drodze-st8807429?source=rss",
       "pubDate": "Thu, 18 Dec 2025 10:28:46 GMT",
-      "description": "• Nie udało się uratować życia 67-latka.\n• 67-latek został przejechany przez kierującą samochodem osobowym.\n• Wypadek miał miejsce w Zarzeczu.\n• Zarzecze położone jest na Podkarpaciu.\n• Mężczyzna le��ał na ziemi.\n• Policja podała informacje o wypadku.",
+      "description": "Nie udało się uratować życia 67-latka przejechanego przez kierującą samochodem osobowym w Zarzeczu na Podkarpaciu. Jak podała policja, mężczyzna leżał na ziemi.",
       "originalTitle": "Nie żyje 67-latek. Kobieta przejechała go, gdy leżał na drodze",
       "originalDescription": "Nie udało się uratować życia 67-latka przejechanego przez kierującą samochodem osobowym w Zarzeczu na Podkarpaciu. Jak podała policja, mężczyzna leżał na ziemi."
     },
@@ -15,20 +55,20 @@
       "title": "Gmina wprowadza nocną prohibicję",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-kolejna-podwarszawska-gmina-wprowadzila-nocna-prohibicje-st8807341?source=rss",
       "pubDate": "Thu, 18 Dec 2025 10:19:38 GMT",
-      "description": "• Radni z Piaseczna podjęli decyzję o wprowadzeniu nocnej prohibicji na terenie gminy.\n• Zakaz sprzedaży alkoholu będzie obowiązywać w sklepach.\n• Zakaz sprzedaży alkoholu będzie obowiązywać na stacjach benzynowych.\n• Zakaz sprzedaży alkoholu będzie obowiązywać w godzinach od 22 do 6.",
+      "description": "Radni z Piaseczna podjęli decyzję o wprowadzeniu nocnej prohibicji na terenie gminy. Zakaz sprzedaży alkoholu między innymi w sklepach i na stacjach benzynowych będzie obowiązywać w godzinach od 22 do 6.",
       "originalTitle": "Kolejna podwarszawska gmina wprowadza nocną prohibicję",
       "originalDescription": "Radni z Piaseczna podjęli decyzję o wprowadzeniu nocnej prohibicji na terenie gminy. Zakaz sprzedaży alkoholu między innymi w sklepach i na stacjach benzynowych będzie obowiązywać w godzinach od 22 do 6."
     },
     {
-      "title": "Sprawa Nicka Reinera: nowe informacje",
-      "link": "https://tvn24.pl/najnowsze/zabojstwo-roba-reiner-i-jego-zony-nowe-informacje-o-ich-oskarzonym-synu-nicku-reinerze-st8807157?source=rss",
+      "title": "Oskarżony o zabójstwo rodziców. Nowe informacje o Nicku Reinerze",
+      "link": "https://tvn24.pl/swiat/zabojstwo-roba-reiner-i-jego-zony-nowe-informacje-o-ich-oskarzonym-synu-nicku-reinerze-st8807157?source=rss",
       "pubDate": "Thu, 18 Dec 2025 10:13:54 GMT",
-      "description": "• Hollywoodzki reżyser Rob Reiner i jego żona Michelle zginęli od ciosów nożem.\n• O zabójstwo został oskarżony ich syn.\n• Nickowi Reinerowi w przypadku skazania grozi kara dożywotniego pozbawienia wolności lub kara śmierci.\n• Nick Reiner ma 32 lata.\n• W artykule można znaleźć informacje o motywach zbrodni.",
+      "description": "Hollywoodzki reżyser Rob Reiner i jego żona Michelle zginęli od ciosów nożem. O zabójstwo został oskarżony ich syn. Nickowi Reinerowi w przypadku skazania grozi kara dożywotniego pozbawienia wolności lub kara śmierci. Co wiadomo o 32-latku i motywach zbrodni?",
       "originalTitle": "Oskarżony o zabójstwo rodziców. Nowe informacje o Nicku Reinerze",
       "originalDescription": "Hollywoodzki reżyser Rob Reiner i jego żona Michelle zginęli od ciosów nożem. O zabójstwo został oskarżony ich syn. Nickowi Reinerowi w przypadku skazania grozi kara dożywotniego pozbawienia wolności lub kara śmierci. Co wiadomo o 32-latku i motywach zbrodni?"
     },
     {
-      "title": "Dane po miesiącu otwarcia przejść z Białorusią",
+      "title": "Miesiąc po otwarciu przejść na granicy z Białorusią. Znamy dane",
       "link": "https://tvn24.pl/bialystok/kuznica-bobrowniki-miesiac-po-otwarciu-przejsc-na-granicy-z-bialorusia-przekroczylo-je-ponad-72-tysiecy-osob-st8807295?source=rss",
       "pubDate": "Thu, 18 Dec 2025 10:10:57 GMT",
       "description": "Straż graniczna podsumowała pierwszy miesiąc od czasu ponownego otwarcia przejść granicznych z Białorusią w Kuźnicy i Bobrownikach (Podlaskie). Zamknięto je kilka lat temu. W Kuźnicy po zamieszkach z udziałem dużych grup cudzoziemców, a w Bobrownikach po skazaniu przez białoruski reżim dziennikarza Andrzeja Poczobuta. Oba przejścia przekroczyło już ponad 72 tysiące osób, odprawiono około 30 tysięcy pojazdów.",
@@ -42,46 +82,6 @@
       "description": "Włoski Sąd Najwyższy uniewinnił wicepremiera Matteo Salviniego od zarzutu pozbawienia wolności migrantów. Lider prawicowej Ligi w 2019 roku jako szef MSW nie pozwalał im zejść z przepełnionej łodzi na ląd przez prawie trzy tygodnie. Środowa decyzja sądu uprawomocniła wcześniejszy wyrok uniewinniający polityka.",
       "originalTitle": "Nie pozwalał migrantom zejść na ląd. Sąd zdecydował w sprawie Salviniego",
       "originalDescription": "Włoski Sąd Najwyższy uniewinnił wicepremiera Matteo Salviniego od zarzutu pozbawienia wolności migrantów. Lider prawicowej Ligi w 2019 roku jako szef MSW nie pozwalał im zejść z przepełnionej łodzi na ląd przez prawie trzy tygodnie. Środowa decyzja sądu uprawomocniła wcześniejszy wyrok uniewinniający polityka."
-    },
-    {
-      "title": "Rosyjskie aktywa dzielą Unię Europejską. \"Oko za oko\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/rosyjskie-aktywa-dziela-unie-europejska-oko-za-oko-st8807188?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 10:06:31 GMT",
-      "description": "Przed czwartkowym szczytem w Brukseli rosną napięcia wokół planu zabezpieczenia 90 miliardów euro pożyczki dla Ukrainy na zamrożonych rosyjskich aktywach. Opór części państw UE zwiększają groźby Moskwy dotyczące konfiskaty zachodnich aktywów - pisze \"Financial Times\".",
-      "originalTitle": "Rosyjskie aktywa dzielą Unię Europejską. \"Oko za oko\"",
-      "originalDescription": "Przed czwartkowym szczytem w Brukseli rosną napięcia wokół planu zabezpieczenia 90 miliardów euro pożyczki dla Ukrainy na zamrożonych rosyjskich aktywach. Opór części państw UE zwiększają groźby Moskwy dotyczące konfiskaty zachodnich aktywów - pisze \"Financial Times\"."
-    },
-    {
-      "title": "12-latek podejrzany o zabójstwo na zlecenie gangu",
-      "link": "https://tvn24.pl/swiat/szwecja-12-latek-podejrzany-o-zastrzelenie-mezczyzny-na-zlecenie-gangu-st8807040?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 10:02:00 GMT",
-      "description": "W Malmoe w Szwecji doszło do zabójstwa 21-letniego mężczyzny. Policja podejrzewa, że morderca to 12-letni chłopiec, który zrobił to na zlecenie gangu. Śledczy poszukują zleceniodawcy oraz wspólników.",
-      "originalTitle": "12-latek podejrzany o zabójstwo na zlecenie gangu",
-      "originalDescription": "W Malmoe w Szwecji doszło do zabójstwa 21-letniego mężczyzny. Policja podejrzewa, że morderca to 12-letni chłopiec, który zrobił to na zlecenie gangu. Śledczy poszukują zleceniodawcy oraz wspólników."
-    },
-    {
-      "title": "Był pijany, wsiadł do samochodu pełnego paczek kurierskich i odjechał",
-      "link": "https://tvn24.pl/bialystok/lomza-byl-pijany-wsiadl-do-samochodu-pelnego-paczek-kurierskich-i-odjechal-uderzyl-w-slup-st8807246?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:55:39 GMT",
-      "description": "32-latek wszczął awanturę, ale uciekł z domu, zanim przyjechała policji. Potem wsiadł do samochodu firmy kurierskiej i odjechał. Był pijany, został zatrzymany.",
-      "originalTitle": "Był pijany, wsiadł do samochodu pełnego paczek kurierskich i odjechał",
-      "originalDescription": "32-latek wszczął awanturę, ale uciekł z domu, zanim przyjechała policji. Potem wsiadł do samochodu firmy kurierskiej i odjechał. Był pijany, został zatrzymany."
-    },
-    {
-      "title": "Ceny w dół, rachunki w górę",
-      "link": "https://tvn24.pl/biznes/pieniadze/ceny-pradu-w-dol-rachunki-w-gore-st8807399?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:54:05 GMT",
-      "description": "Rachunki za energię elektryczną w przypadku przeciętnego gospodarstwa domowego wzrosną w 2026 roku o około 3,5 procent - wylicza Biuro Maklerskie Pekao. Stanie się tak pomimo niższych stawek za prąd zatwierdzonych w środę przez Urząd Regulacji Energetyki.",
-      "originalTitle": "Ceny w dół, rachunki w górę",
-      "originalDescription": "Rachunki za energię elektryczną w przypadku przeciętnego gospodarstwa domowego wzrosną w 2026 roku o około 3,5 procent - wylicza Biuro Maklerskie Pekao. Stanie się tak pomimo niższych stawek za prąd zatwierdzonych w środę przez Urząd Regulacji Energetyki."
-    },
-    {
-      "title": "Największa sprzedaż uzbrojenia w historii. Zielone światło w USA",
-      "link": "https://tvn24.pl/swiat/usa-rekordowa-sprzedaz-broni-dla-tajwanu-zatwierdzona-himars-paladin-javelin-drony-st8807113?source=rss",
-      "pubDate": "Thu, 18 Dec 2025 09:49:38 GMT",
-      "description": "Sprzedaż Tajwanowi broni o rekordowej wartości ponad 11,1 miliardów dolarów została zatwierdzona przez administrację Donalda Trumpa. To największy w historii pakiet amerykańskiego uzbrojenia dla zagrożonej chińską inwazją wyspy, obejmujący m.in. systemy HIMARS, haubice samobieżne, pociski Javelin i drony.",
-      "originalTitle": "Największa sprzedaż uzbrojenia w historii. Zielone światło w USA",
-      "originalDescription": "Sprzedaż Tajwanowi broni o rekordowej wartości ponad 11,1 miliardów dolarów została zatwierdzona przez administrację Donalda Trumpa. To największy w historii pakiet amerykańskiego uzbrojenia dla zagrożonej chińską inwazją wyspy, obejmujący m.in. systemy HIMARS, haubice samobieżne, pociski Javelin i drony."
     }
   ]
 }
