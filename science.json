@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-12-19T10:39:37.366Z",
+  "lastUpdate": "2025-12-19T11:05:23.101Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Czy komputery kwantowe rzeczywiście mają większą wydajność niż klasyczne?",
+      "link": "https://dzienniknaukowy.pl/czy-komputery-kwantowe-rzeczywiscie-maja-wieksza-wydajnosc-niz-klasyczne",
+      "pubDate": "Fri, 19 Dec 2025 11:01:27 +0000",
+      "description": "Klasyczne komputery probabilistyczne potrafią rozwiązywać wyjątkowo trudne zadania optymalizacyjne tak dobrze jak duży komputer kwantowy. A przy tym działają w temperaturze pokojowej i można je zbudować z klasycznych podzespołów"
+    },
     {
       "title": "Zapach świąt &#8211; jak aromaty w sklepach wpływają na nasze portfele",
       "link": "https://dzienniknaukowy.pl/zapach-swiat-jak-aromaty-w-sklepach-wplywaja-na-nasze-portfele",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/prototyp-kosmicznej-koparki-do-wydobywania-ksiezycowego-regolitu-po-testach-w-terenie",
       "pubDate": "Mon, 15 Dec 2025 15:08:04 +0000",
       "description": "Tworzony przez polskich naukowców prototyp kosmicznej koparki do wydobywania księżycowego regolitu pomyślnie przeszedł testy w warunkach lotu parabolicznego - imitującego warunki analogiczne do księżycowej grawitacji – przekazała Ewelina Zambrzycka-Kościelnicka, rzeczniczka CBK PAN."
-    },
-    {
-      "title": "Atopowe zapalenie skóry &#8211; mechanizmy rozwoju choroby",
-      "link": "https://dzienniknaukowy.pl/atopowe-zapalenie-skory-mechanizmy-rozwoju-choroby",
-      "pubDate": "Mon, 15 Dec 2025 14:55:07 +0000",
-      "description": "Atopowe zapalenie skóry (AZS) to przewlekła choroba, która dotyka coraz więcej dzieci i dorosłych. Skóra jest sucha, podrażniona, a świąd potrafi być tak silny, że utrudnia sen i codzienne życie. Choć o AZS mówi się od lat, dopiero teraz naukowcy zaczynają dokładnie rozumieć mechanizm rozwoju tej choroby."
     }
   ]
 }
