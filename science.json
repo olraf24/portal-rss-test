@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-12-19T11:05:23.101Z",
+  "lastUpdate": "2025-12-19T11:35:03.107Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Polscy fizycy budują superczułe radio na atomach",
+      "link": "https://dzienniknaukowy.pl/polscy-fizycy-buduja-superczule-radio-na-atomach",
+      "pubDate": "Fri, 19 Dec 2025 11:18:54 +0000",
+      "description": "Tam, gdzie zwykłe anteny zaczynają przeszkadzać, do gry wchodzi radio na atomach. Mikrofale delikatnie zmieniają stan atomów rubidu, a lasery zamieniają te zmiany w czytelny sygnał. Taki odbiornik jest superczuły i wyjątkowo cichy dla otoczenia. Powstał właśnie w laboratoriach Wydziału Fizyki Uniwersytetu Warszawskiego"
+    },
     {
       "title": "Czy komputery kwantowe rzeczywiście mają większą wydajność niż klasyczne?",
       "link": "https://dzienniknaukowy.pl/czy-komputery-kwantowe-rzeczywiscie-maja-wieksza-wydajnosc-niz-klasyczne",
       "pubDate": "Fri, 19 Dec 2025 11:01:27 +0000",
       "description": "Klasyczne komputery probabilistyczne potrafią rozwiązywać wyjątkowo trudne zadania optymalizacyjne tak dobrze jak duży komputer kwantowy. A przy tym działają w temperaturze pokojowej i można je zbudować z klasycznych podzespołów"
+    },
+    {
+      "title": "Helicid Rapid – jak działa?",
+      "link": "https://dzienniknaukowy.pl/helicid-rapid-jak-dziala",
+      "pubDate": "Fri, 19 Dec 2025 08:20:00 +0000",
+      "description": "Choć zgaga bywa postrzegana jako błahy objaw, w rzeczywistości stanowi jeden z najczęstszych sygnałów przewlekłego refluksu żołądkowo-przełykowego. W odpowiedzi na rosnące zapotrzebowanie na skuteczne i łatwo dostępne terapie doraźne, na rynku pojawił się Helicid Rapid – inhibitor pompy protonowej dostępny bez recepty. Jak działa ten lek na zgagę?"
     },
     {
       "title": "Zapach świąt &#8211; jak aromaty w sklepach wpływają na nasze portfele",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-udowodnili-istnienie-tetrakwarkow",
       "pubDate": "Tue, 16 Dec 2025 12:10:32 +0000",
       "description": "W tunelu Wielkiego Zderzacza Hadronów (LHC) fizycy z całego świata, w tym z Polski, badają egzotyczne cząstki złożone z czterech kwarków powabnych. Te cząstki dotychczas były jedynie równaniem wyprowadzonym przez teoretyków, teraz po raz pierwszy udowodniono ich istnienie."
-    },
-    {
-      "title": "Politechnika Białostocka ma patent na nowe nawierzchnie drogowe z warstwą z betonu geopolimerowego",
-      "link": "https://dzienniknaukowy.pl/politechnika-bialostocka-ma-patent-na-nowe-nawierzchnie-drogowe-z-warstwa-z-betonu-geopolimerowego",
-      "pubDate": "Tue, 16 Dec 2025 11:56:24 +0000",
-      "description": "Politechnika Białostocka uzyskała patent na nowe nawierzchnie z warstwą z betonu geopolimerowego. Są bardziej wytrzymałe , odporne na wahania temperatur, obniżają koszty napraw, pozostawiają mniejszy ślad węglowy, a nawet zużycie energii elektrycznej."
-    },
-    {
-      "title": "Prototyp kosmicznej koparki do wydobywania księżycowego regolitu &#8211; po testach „w terenie”",
-      "link": "https://dzienniknaukowy.pl/prototyp-kosmicznej-koparki-do-wydobywania-ksiezycowego-regolitu-po-testach-w-terenie",
-      "pubDate": "Mon, 15 Dec 2025 15:08:04 +0000",
-      "description": "Tworzony przez polskich naukowców prototyp kosmicznej koparki do wydobywania księżycowego regolitu pomyślnie przeszedł testy w warunkach lotu parabolicznego - imitującego warunki analogiczne do księżycowej grawitacji – przekazała Ewelina Zambrzycka-Kościelnicka, rzeczniczka CBK PAN."
     }
   ]
 }
