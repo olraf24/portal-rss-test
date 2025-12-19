@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2025-12-19T16:07:14.380Z",
+  "lastUpdate": "2025-12-19T16:41:43.188Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Współpraca dwóch narodów",
+      "title": "Wypadek turystki podczas fotografowania",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hiszpania-turystka-z-niemiec-robila-zdjecia-telefonem-zginela-st8810255?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 16:37:50 GMT",
+      "description": "Na jednej z plaż na północnym zachodzie Hiszpanii życie straciła 85-latka z Niemiec. Kobieta robiła zdjęcia telefonem, kiedy wokół szalały potężne fale.",
+      "originalTitle": "Turystka zginęła, robiąc zdjęcia",
+      "originalDescription": "Na jednej z plaż na północnym zachodzie Hiszpanii życie straciła 85-latka z Niemiec. Kobieta robiła zdjęcia telefonem, kiedy wokół szalały potężne fale."
+    },
+    {
+      "title": "Seria dostępna w HBO Max",
+      "link": "https://tvn24.pl/kultura-i-styl/jedna-bitwa-po-drugiej-juz-w-hbo-max-film-ma-szanse-na-wiele-prestizowych-nagrod-st8810234?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 16:23:57 GMT",
+      "description": "• Od piątku na platformie HBO Max można obejrzeć \"Jedną bitwę po drugiej\" \n• Film ma Leonarda DiCaprio w roli głównej \n• Film okazał się rewelacją rozpoczętego właśnie sezonu nagród filmowych",
+      "originalTitle": "\"Jedna bitwa po drugiej\" zachwyca widzów i krytyków. Od dziś w HBO Max",
+      "originalDescription": "Od piątku na platformie HBO Max można obejrzeć \"Jedną bitwę po drugiej\" - film z Leonardo DiCaprio w roli głównej, który okazał się rewelacją rozpoczętego właśnie sezonu nagród filmowych."
+    },
+    {
+      "title": "Policjanci zatrzymali mężczyznę po podpaleniu posterunku",
+      "link": "https://tvn24.pl/bialystok/szepietowo-wysokie-mazowieckie-podpalil-posterunek-w-akcie-zemsty-policjantow-sie-nie-spodziewal-st8809973?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 16:21:50 GMT",
+      "description": "Zamaskowany mężczyzna podpalił posterunek policji w Szepietowie (Podlaskie). Wcześniej tego samego dnia 56-latek usłyszał zarzuty. Podpalenie było \"aktem zemsty\". Straty oszacowano na około 20 tysięcy złotych.",
+      "originalTitle": "\"Podpalił posterunek w akcie zemsty\". Policjantów się nie spodziewał",
+      "originalDescription": "Zamaskowany mężczyzna podpalił posterunek policji w Szepietowie (Podlaskie). Wcześniej tego samego dnia 56-latek usłyszał zarzuty. Podpalenie było \"aktem zemsty\". Straty oszacowano na około 20 tysięcy złotych."
+    },
+    {
+      "title": "Prokuratura Krajowa: postanowienie sądu w sprawie Romanowskiego",
+      "link": "https://tvn24.pl/polska/sprawa-marcina-romanowskiego-prokuratura-krajowa-postanowienie-sadu-o-uchyleniu-ena-bezzasadne-st8810307?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 16:19:47 GMT",
+      "description": "• Prokurator ocenił postanowienie sądu, który uchylił europejski nakaz aresztowania (ENA) wobec posła PiS Marcina Romanowskiego jako bezzasadne.\n• Rzecznik Prokuratury Krajowej Przemysław Nowak przekazał informację w komunikacie.\n• Prokurator zapowiedział, że \"w najbliższym czasie zostaną podjęte dalsze kroki procesowe w tym zakresie\".\n• Niewykluczone jest również złożenie nowego wniosku o wydanie ENA, jak dodał rzecznik.",
+      "originalTitle": "Prokuratura Krajowa: postanowienie sądu w sprawie Romanowskiego bezzasadne",
+      "originalDescription": "Prokurator ocenił postanowienie sądu, który uchylił europejski nakaz aresztowania (ENA) wobec posła PiS Marcina Romanowskiego jako bezzasadne - przekazał rzecznik Prokuratury Krajowej Przemysław Nowak w komunikacie. Zapowiedział, że \"w najbliższym czasie zostaną podjęte dalsze kroki procesowe w tym zakresie\". \"Niewykluczone jest również złożenie nowego wniosku o wydanie ENA\" - dodał."
+    },
+    {
+      "title": "Niejawne posiedzenie sądu, jednoosobowy skład. Tak zapadła decyzja w sprawie Romanowskiego",
+      "link": "https://tvn24.pl/polska/marcin-romanowski-sad-o-kryptodyktaturze-po-wycofaniu-ena-zapowiedz-waldemara-zurka-st8810257?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 16:18:37 GMT",
+      "description": "Sąd w piątek uchylił europejski nakaz aresztowania wobec Marcina Romanowskiego. W uzasadnieniu napisał między innymi o \"kryptodyktaturze\" w Polsce. Jak się dowiedzieliśmy, decyzja zapadła w jednoosobowym składzie. Skomentował ją minister sprawiedliwości Waldemar Żurek.",
+      "originalTitle": "Niejawne posiedzenie sądu, jednoosobowy skład. Tak zapadła decyzja w sprawie Romanowskiego",
+      "originalDescription": "Sąd w piątek uchylił europejski nakaz aresztowania wobec Marcina Romanowskiego. W uzasadnieniu napisał między innymi o \"kryptodyktaturze\" w Polsce. Jak się dowiedzieliśmy, decyzja zapadła w jednoosobowym składzie. Skomentował ją minister sprawiedliwości Waldemar Żurek."
+    },
+    {
+      "title": "Wycofanie produktu ze sprzedaży",
+      "link": "https://tvn24.pl/biznes/z-kraju/prazona-cebula-wycofana-ze-sklepow-ikea-gis-ostrzega-klientow-st8810238?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 16:17:26 GMT",
+      "description": "Główny Inspektorat Sanitarny (GIS) wydał w piątek ostrzeżenie dotyczące określonych partii prażonej cebuli sprzedawanej w sklepach Ikea. Produkt może stanowić zagrożenie dla osób z alergią na pszenicę.",
+      "originalTitle": "Produkt wycofany z popularnej sieci. Ostrzeżenie",
+      "originalDescription": "Główny Inspektorat Sanitarny (GIS) wydał w piątek ostrzeżenie dotyczące określonych partii prażonej cebuli sprzedawanej w sklepach Ikea. Produkt może stanowić zagrożenie dla osób z alergią na pszenicę."
+    },
+    {
+      "title": "\"Nikt nie może zakwestionować wspólnego interesu dwóch dumnych narodów\"",
       "link": "https://tvn24.pl/polska/wolodymyr-zelenski-spotkal-sie-z-donaldem-tuskiem-po-pierwsze-jestesmy-sojusznikami-st8810244?source=rss",
       "pubDate": "Fri, 19 Dec 2025 16:03:50 GMT",
-      "description": "• Prezydent Ukrainy to Wołodymyr Zełenski.\n• Wołodymyr Zełenski odwiedził Warszawę.\n• W Warszawie Zełenski spotkał się z premierem Donaldem Tuskiem.\n• Donald Tusk określił Ukrainę i Polskę jako sojuszników.\n• Ukraina walczy na froncie.\n• Polska wspiera Ukrainę z całych sił.\n• Wołodymyr Zełenski dziękował Polakom za wsparcie od początku wojny.\n• Zełenski podkreślał, że Europa wykazała się przywództwem w sprawie Kijowa.",
+      "description": "Prezydent Ukrainy Wołodymyr Zełenski podczas wizyty w Warszawie spotkał się z premierem Donaldem Tuskiem. - Po pierwsze, jesteśmy sojusznikami. Ukraina walczy na froncie, my wspieramy Ukrainę z całych sił - mówił szef rządu. Zełenski dziękował Polakom za wparcie od początku wojny i podkreślał, że \"Europa wykazała się przywództwem\" w sprawie Kijowa.",
       "originalTitle": "\"Nikt nie może zakwestionować wspólnego interesu dwóch dumnych narodów\"",
       "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski podczas wizyty w Warszawie spotkał się z premierem Donaldem Tuskiem. - Po pierwsze, jesteśmy sojusznikami. Ukraina walczy na froncie, my wspieramy Ukrainę z całych sił - mówił szef rządu. Zełenski dziękował Polakom za wparcie od początku wojny i podkreślał, że \"Europa wykazała się przywództwem\" w sprawie Kijowa."
     },
     {
-      "title": "Sprawa śmierci 11-letniej dziewczynki",
+      "title": "Wykorzystują śmierć 11-letniej Danusi, żeby siać \"świadomą dezinformację\"",
       "link": "https://tvn24.pl/wroclaw/zabojstwo-11-letniej-danusi-z-jeleniej-gory-mswia-dementuje-nieprawdziwe-informacje-o-sprawczyni-st8810261?source=rss",
       "pubDate": "Fri, 19 Dec 2025 15:59:16 GMT",
-      "description": "• Koordynator służb specjalnych to Tomasz Siemoniak.\n• Tomasz Siemoniak skomentował próbę przekonania opinii publicznej, że 11-latka z Jeleniej Góry zginęła z rąk obywatelki Ukrainy.\n• Tomasz Siemoniak nazwał tę próbę \"stop dezinformacji\".\n• Do sprawy odniosła się rzeczniczka Ministerstwa Spraw Wewnętrznych i Administracji.\n• W sprawie zginęła 11-latka z Jeleniej Góry.\n• Zginęła ona rzekomo z rąk obywatelki Ukrainy.",
+      "description": "\"Stop dezinformacji\" - tak koordynator służb specjalnych Tomasz Siemoniak skomentował próbę przekonania opinii publicznej, że 11-latka z Jeleniej Góry zginęła z rąk obywatelki Ukrainy. Wcześniej do sprawy odniosła się rzeczniczka Ministerstwa Spraw Wewnętrznych i Administracji.",
       "originalTitle": "Wykorzystują śmierć 11-letniej Danusi, żeby siać \"świadomą dezinformację\"",
       "originalDescription": "\"Stop dezinformacji\" - tak koordynator służb specjalnych Tomasz Siemoniak skomentował próbę przekonania opinii publicznej, że 11-latka z Jeleniej Góry zginęła z rąk obywatelki Ukrainy. Wcześniej do sprawy odniosła się rzeczniczka Ministerstwa Spraw Wewnętrznych i Administracji."
     },
     {
-      "title": "Powódź w Boliwii uszkodziła domy",
+      "title": "Powódź w Boliwii. \"Straciłam kuchnię, którą dostałam od syna na urodziny\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-boliwii-stracilam-kuchnie-ktora-dostalam-od-syna-na-urodziny-st8809268?source=rss",
       "pubDate": "Fri, 19 Dec 2025 15:57:14 GMT",
       "description": "Służby wciąż poszukują zaginionych po powodziach, które nawiedziły Boliwię. W mediach wybrzmiewają historie osób, które na skutek ataku żywiołu straciły dorobek życia. Za skalę powodzi boliwijscy inżynierowie obwiniają praktyki szkodzące środowisku naturalnemu.",
@@ -31,57 +79,9 @@
       "title": "Historyczna decyzja. Jen traci na wartości",
       "link": "https://tvn24.pl/biznes/ze-swiata/obnizka-stop-procentowych-japonii-wartosc-jena-gwaltownie-spadla-st8810115?source=rss",
       "pubDate": "Fri, 19 Dec 2025 15:47:53 GMT",
-      "description": "Bank Japonii podniósł w piątek stopy procentowe do najwyższego poziomu od 30 lat, co jest kolejnym dowodem na definitywne zakończenie gołębiej polityki monetarnej w tym kraju. Jen gwałtownie stracił na wartości i osiągnął rekordowo niskie poziomy w stosunku do niektórych walut.",
+      "description": "• Bank Japonii podniósł w piątek stopy procentowe do najwyższego poziomu od 30 lat.\n• Jest to kolejnym dowodem na definitywne zakończenie gołębiej polityki monetarnej w Japonii.\n• Jen stracił gwałtownie na wartości.\n• Jen osiągnął rekordowo niskie poziomy w stosunku do niektórych walut.",
       "originalTitle": "Historyczna decyzja. Jen traci na wartości",
       "originalDescription": "Bank Japonii podniósł w piątek stopy procentowe do najwyższego poziomu od 30 lat, co jest kolejnym dowodem na definitywne zakończenie gołębiej polityki monetarnej w tym kraju. Jen gwałtownie stracił na wartości i osiągnął rekordowo niskie poziomy w stosunku do niektórych walut."
-    },
-    {
-      "title": "\"Podrobiony dokument w postaci testamentu\". Prokuratura o sprawie Piebiaka",
-      "link": "https://tvn24.pl/polska/podrobiony-dokument-w-postaci-testamentu-prokuratura-o-sprawie-piebiaka-st8810142?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 15:37:52 GMT",
-      "description": "Prokuratura Okręgowa w Warszawie skierowała do Sądu Najwyższego wniosek o uchylenie immunitetu sędziego Sądu Rejonowego w Warszawie Łukasza Piebiaka. Jak ustalili wcześniej reporterzy \"Supewizjera\" Maciej Duda i Łukasz Ruciński, prokuratorzy badali prawdziwość testamentu, jakim posłużył się sędzia.",
-      "originalTitle": "\"Podrobiony dokument w postaci testamentu\". Prokuratura o sprawie Piebiaka",
-      "originalDescription": "Prokuratura Okręgowa w Warszawie skierowała do Sądu Najwyższego wniosek o uchylenie immunitetu sędziego Sądu Rejonowego w Warszawie Łukasza Piebiaka. Jak ustalili wcześniej reporterzy \"Supewizjera\" Maciej Duda i Łukasz Ruciński, prokuratorzy badali prawdziwość testamentu, jakim posłużył się sędzia."
-    },
-    {
-      "title": "Ruszył na policjantów, został zastrzelony. Śledztwo umorzone",
-      "link": "https://tvn24.pl/katowice/sosnowiec-45-latek-ruszyl-na-policjantow-zostal-zastrzelony-koniec-prokuratorskiego-sledztwa-st8810213?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 15:36:26 GMT",
-      "description": "Prokuratura zakończyła umorzeniem śledztwo w sprawie śmierci 45-latka zastrzelonego przez policjantów w Sosnowcu. Zdaniem śledczych, użycie broni przez funkcjonariusza, który oddał śmiertelne strzały, było w pełni uzasadnione.",
-      "originalTitle": "Ruszył na policjantów, został zastrzelony. Śledztwo umorzone",
-      "originalDescription": "Prokuratura zakończyła umorzeniem śledztwo w sprawie śmierci 45-latka zastrzelonego przez policjantów w Sosnowcu. Zdaniem śledczych, użycie broni przez funkcjonariusza, który oddał śmiertelne strzały, było w pełni uzasadnione."
-    },
-    {
-      "title": "Dodatkowe miliony dla NFZ. Tym razem z resortu zdrowia",
-      "link": "https://tvn24.pl/zdrowie/dodatkowe-320-milionow-zlotych-dla-nfz-dotacja-z-ministerstwa-zdrowia-ile-wyniesie-deficyt-st8810043?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 15:28:55 GMT",
-      "description": "Dodatkowe 320 milionów złotych wpłynęło do Narodowego Funduszu Zdrowia (NFZ) w ramach dotacji z Ministerstwa Zdrowia - poinformowała w piątek Centrala publicznego płatnika. Nie ustają działania, by pozytywnie zamknąć rok w systemie ochrony zdrowia. W sumie tegoroczna dotacja budżetowa dla NFZ wyniosła prawie 32 miliardy złotych.",
-      "originalTitle": "Dodatkowe miliony dla NFZ. Tym razem z resortu zdrowia",
-      "originalDescription": "Dodatkowe 320 milionów złotych wpłynęło do Narodowego Funduszu Zdrowia (NFZ) w ramach dotacji z Ministerstwa Zdrowia - poinformowała w piątek Centrala publicznego płatnika. Nie ustają działania, by pozytywnie zamknąć rok w systemie ochrony zdrowia. W sumie tegoroczna dotacja budżetowa dla NFZ wyniosła prawie 32 miliardy złotych."
-    },
-    {
-      "title": "Wigilia przyniesie zmianę w pogodzie, ale czy spadnie śnieg? Prognoza",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-swieta-bozego-narodzenia-wigilia-przyniesie-zmiane-w-pogodzie-ale-czy-spadnie-snieg-prognoza-st8810120?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 15:27:52 GMT",
-      "description": "Pogoda w Polsce przed świętami Bożego Narodzenia zacznie się powoli zmieniać. Na jaką? Chłodniejszą niż teraz. Czy możemy liczyć na śnieg?",
-      "originalTitle": "Wigilia przyniesie zmianę w pogodzie, ale czy spadnie śnieg? Prognoza",
-      "originalDescription": "Pogoda w Polsce przed świętami Bożego Narodzenia zacznie się powoli zmieniać. Na jaką? Chłodniejszą niż teraz. Czy możemy liczyć na śnieg?"
-    },
-    {
-      "title": "72-latek leżał we krwi. Kilka godzin później zatrzymali kierowcę",
-      "link": "https://tvn24.pl/krakow/krakow-potracony-72-latek-lezal-na-ulicy-kilka-godzin-pozniej-zatrzymali-kierowce-st8810150?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 15:15:00 GMT",
-      "description": "Policja zatrzymała kierowcę ciężarówki, który prawdopodobnie potrącił pieszego na ulicy Łagiewnickiej w Krakowie i odjechał. 72-latek przez jakiś czas nie otrzymał pomocy, leżąc na ziemi z ciężkim urazem nogi. Zmarł w szpitalu.",
-      "originalTitle": "72-latek leżał we krwi. Kilka godzin później zatrzymali kierowcę",
-      "originalDescription": "Policja zatrzymała kierowcę ciężarówki, który prawdopodobnie potrącił pieszego na ulicy Łagiewnickiej w Krakowie i odjechał. 72-latek przez jakiś czas nie otrzymał pomocy, leżąc na ziemi z ciężkim urazem nogi. Zmarł w szpitalu."
-    },
-    {
-      "title": "Nowe limity na auta firmowe. Mogą objąć też wcześniejsze umowy",
-      "link": "https://tvn24.pl/biznes/dlafirm/limity-kosztow-aut-firmowych-2026-nowe-zasady-st8810063?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 15:14:39 GMT",
-      "description": "Z początkiem przyszłego roku zmieniają się limity dotyczące zaliczania do kosztów podatkowych wydatków na samochody firmowe. Jak wynika z odpowiedzi ministerstwa finansów na interpelację poselską, nowe limity mogą mieć zastosowanie do umów zawartych przed wejściem w życie nowych przepisów.",
-      "originalTitle": "Nowe limity na auta firmowe. Mogą objąć też wcześniejsze umowy",
-      "originalDescription": "Z początkiem przyszłego roku zmieniają się limity dotyczące zaliczania do kosztów podatkowych wydatków na samochody firmowe. Jak wynika z odpowiedzi ministerstwa finansów na interpelację poselską, nowe limity mogą mieć zastosowanie do umów zawartych przed wejściem w życie nowych przepisów."
     }
   ]
 }
