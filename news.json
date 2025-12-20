@@ -1,18 +1,50 @@
 {
-  "lastUpdate": "2025-12-20T12:09:05.600Z",
+  "lastUpdate": "2025-12-20T12:46:54.261Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Mężczyzna w czerwonej kurtce i białej czapce",
+      "title": "Pożar w parku narodowym objął 184 hektary",
+      "link": "https://tvn24.pl/bialystok/pozar-biebrzanskiego-parku-narodowego-prokuratura-umarza-sprawe-st8811003?source=rss",
+      "pubDate": "Sat, 20 Dec 2025 12:30:33 GMT",
+      "description": "• Pożar zniszczył ponad 184 hektary Biebrzańskiego Parku Narodowego.\n• Śledztwo w sprawie pożaru trwało od kwietnia.\n• Prokuratura zdecydowała o umorzeniu śledztwa.\n• Powodem umorzenia śledztwa było nieustalenie sprawcy pożaru.",
+      "originalTitle": "Spłonęły ponad 184 hektary parku narodowego. Sprawcy nie ma, prokuratura umorzyła śledztwo",
+      "originalDescription": "Pożar zniszczył ponad 184 hektary Biebrzańskiego Parku Narodowego. Po trwającym od kwietnia śledztwie prokuratura zdecydowała o umorzeniu go. Powód: nie udało się ustalić sprawcy."
+    },
+    {
+      "title": "Trzy osoby z zarzutami w ośrodku dla dzieci",
+      "link": "https://tvn24.pl/lubuskie/wschowa-przemoc-w-osrodku-dla-dzieci-trzy-osoby-z-zarzutami-nowe-informacje-st8810151?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 15:02:02 GMT",
+      "description": "• Trwają czynności wyjaśniające prowadzone przez Prokuraturę Okręgową w Zielonej Górze.\n• Czynności wyjaśniające dotyczą sprawy Domu Pomocy Społecznej we Wschowie.\n• W Domu Pomocy Społecznej we Wschowie miało dochodzić do fizycznego i psychicznego znęcania nad podopiecznymi.\n• W związku z postępowaniem przedstawiono zarzuty trzem osobom.\n• Jedną z osób, której przedstawiono zarzuty, jest zakonnica.\n• Nad bezpieczeństwem i prawidłowym funkcjonowaniem placówki czuwa Powiatowe Centrum Pomocy Rodzinie.\n• Nad bezpieczeństwem i prawidłowym funkcjonowaniem placówki czuwa również wojewoda lubuski.",
+      "originalTitle": "Przemoc w ośrodku dla dzieci, trzy osoby z zarzutami. Nowe informacje",
+      "originalDescription": "Trwają czynności wyjaśniające prowadzone przez Prokuraturę Okręgową w Zielonej Górze w sprawie Domu Pomocy Społecznej we Wschowie, w którym miało dochodzić do fizycznego i psychicznego znęcania nad podopiecznymi. W związku z postępowaniem przedstawiono zarzuty trzem osobom, w tym zakonnicy, a nad bezpieczeństwem i prawidłowym funkcjonowaniem placówki czuwa Powiatowe Centrum Pomocy Rodzinie oraz wojewoda lubuski."
+    },
+    {
+      "title": "Zanieczyszczenie żywności plastikiem",
+      "link": "https://tvn24.pl/zdrowie/gotujesz-i-jesz-plastik-nawet-o-tym-nie-wiedzac-jak-tego-uniknac-podpowiada-ekspertka-st8808829?source=rss",
+      "pubDate": "Sat, 20 Dec 2025 12:15:43 GMT",
+      "description": "• W domu pachnie już piernikiem, zupą grzybową i pieczonym karpiem.\n• Przy okazji świątecznych przygotowań narażamy często siebie i bliskich na zagrożenia, których nie widać gołym okiem.\n• Mikroplastik, czyli drobiny tworzyw sztucznych, może przenikać do jedzenia z opakowań i folii spożywczych.\n• Zapytaliśmy ekspertki o to, czy da się uniknąć mikroplastiku w jedzeniu.\n• Przeczytanie tego tekstu grozi gruntowną lustracją kuchni.",
+      "originalTitle": "Gotujesz i jesz plastik, nawet o tym nie wiedząc. Jak tego uniknąć?",
+      "originalDescription": "W domu pachnie już piernikiem, zupą grzybową i pieczonym karpiem? Przy okazji świątecznych przygotowań narażamy często siebie i bliskich na zagrożenia, których nie widać gołym okiem. Mikroplastik, czyli drobiny tworzyw sztucznych, może przenikać do jedzenia z opakowań i folii spożywczych. Czy da się tego uniknąć? Zapytaliśmy ekspertki. Uwaga, przeczytanie tego tekstu grozi gruntowną lustracją kuchni."
+    },
+    {
+      "title": "Dopłata za przesiadkę może sięgać kilkuset złotych",
+      "link": "https://tvn24.pl/biznes/turystyka/peru-lima-doplata-za-przesiadke-na-lotnisku-nawet-kilkaset-zlotych-na-rodzine-st8810906?source=rss",
+      "pubDate": "Sat, 20 Dec 2025 12:09:21 GMT",
+      "description": "Od połowy grudnia w przypadku lotów międzynarodowych przesiadający się na lotnisku w Limie muszą dopłacić do biletów około 12 dolarów (równowartość około 43 złotych). To nowa, zryczałtowana opłata transferowa. Decyzja wywołała ostry spór między branżą turystyczną, resortem transportu i władzami portu - wskazał dziennik \"El Pais\".",
+      "originalTitle": "Dopłata za przesiadkę. Nawet kilkaset złotych na rodzinę",
+      "originalDescription": "Od połowy grudnia w przypadku lotów międzynarodowych przesiadający się na lotnisku w Limie muszą dopłacić do biletów około 12 dolarów (równowartość około 43 złotych). To nowa, zryczałtowana opłata transferowa. Decyzja wywołała ostry spór między branżą turystyczną, resortem transportu i władzami portu - wskazał dziennik \"El Pais\"."
+    },
+    {
+      "title": "Miał brodę, białą czapkę i czerwoną kurtkę. \"Przypominał 'wczorajszego' świętego Mikołaja\"",
       "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-mezczyzna-mial-ponad-dwa-promile-alkoholu-oraz-posiadal-cudza-karte-i-telefon-st8810888?source=rss",
       "pubDate": "Sat, 20 Dec 2025 11:46:41 GMT",
-      "description": "• Strażnicy miejscy interweniowali na Pradze Południe.\n• Zauważyli zataczającego się mężczyznę w czerwonej kurtce, białej czapce i z brodą.\n• Mężczyzna przypominał \"wczorajszego\" świętego Mikołaja.\n• Mężczyzna miał ponad dwa promile alkoholu.\n• Mężczyzna posiadał cudzą kartę.\n• Mężczyzna posiadał cudzy telefon.",
+      "description": "Strażnicy miejscy interweniowali na Pradze Południe, gdzie zauważyli zataczającego się mężczyznę w czerwonej kurtce, białej czapce i z brodą. \"Przypominał 'wczorajszego' świętego Mikołaja\" - podały służby. Okazało się, że mężczyzna miał ponad dwa promile alkoholu oraz posiadał cudzą kartę i telefon.",
       "originalTitle": "Miał brodę, białą czapkę i czerwoną kurtkę. \"Przypominał 'wczorajszego' świętego Mikołaja\"",
       "originalDescription": "Strażnicy miejscy interweniowali na Pradze Południe, gdzie zauważyli zataczającego się mężczyznę w czerwonej kurtce, białej czapce i z brodą. \"Przypominał 'wczorajszego' świętego Mikołaja\" - podały służby. Okazało się, że mężczyzna miał ponad dwa promile alkoholu oraz posiadał cudzą kartę i telefon."
     },
     {
-      "title": "Wypadek w hotelu, szop spadł na osobę",
+      "title": "Szop wpadł przez sufit i ugryzł gościa hotelu",
       "link": "https://tvn24.pl/tvnmeteo/swiat/usa-szop-wpadl-przez-sufit-i-ugryzl-goscia-hotelu-st8810877?source=rss",
       "pubDate": "Sat, 20 Dec 2025 11:45:08 GMT",
       "description": "W popularnym hotelu w stanie Wisconsin doszło do niecodziennego zdarzenia. Szop wpadł przez sufit hotelowej restauracji, wylądował na stole i ugryzł co najmniej jedną osobę. Niepożądanym gościem musiały zająć się służby.",
@@ -20,15 +52,15 @@
       "originalDescription": "W popularnym hotelu w stanie Wisconsin doszło do niecodziennego zdarzenia. Szop wpadł przez sufit hotelowej restauracji, wylądował na stole i ugryzł co najmniej jedną osobę. Niepożądanym gościem musiały zająć się służby."
     },
     {
-      "title": "Ostrzał lotniska na Krymie",
+      "title": "Ukraińcy ostrzelali lotnisko na Krymie. Myśliwce trafione",
       "link": "https://tvn24.pl/swiat/ukraincy-ostrzelali-lotnisko-na-krymie-mysliwce-trafione-st8811002?source=rss",
       "pubDate": "Sat, 20 Dec 2025 11:41:45 GMT",
-      "description": "• Ukraina po raz kolejny zaatakowała lotnisko wojskowe Belbek na okupowanym przez Rosję Krymie.\n• Trafione zostały dwa myśliwce Su-27 oraz wieża kontroli lotów.\n• Atak miał miejsce na lotnisku wojskowym Belbek.\n• Lotnisko wojskowe Belbek znajduje się na okupowanym przez Rosję Krymie.\n• O ataku poinformowała Służba Bezpieczeństwa Ukrainy.\n• Informacja o ataku została podana w sobotę.",
+      "description": "Ukraina po raz kolejny zaatakowała lotnisko wojskowe Belbek na okupowanym przez Rosję Krymie. Trafione zostały dwa myśliwce Su-27 oraz wieża kontroli lotów - poinformowała w sobotę Służba Bezpieczeństwa Ukrainy.",
       "originalTitle": "Ukraińcy ostrzelali lotnisko na Krymie. Myśliwce trafione",
       "originalDescription": "Ukraina po raz kolejny zaatakowała lotnisko wojskowe Belbek na okupowanym przez Rosję Krymie. Trafione zostały dwa myśliwce Su-27 oraz wieża kontroli lotów - poinformowała w sobotę Służba Bezpieczeństwa Ukrainy."
     },
     {
-      "title": "Pasy na odcinku trasy ekspresowej",
+      "title": "Już bez \"jazdy na czuja\". Na odcinku trasy ekspresowej pojawiły się pasy",
       "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-na-trasie-s8-kierowcy-jezdzili-bez-namalowanych-pasow-st8768231?source=rss",
       "pubDate": "Tue, 02 Dec 2025 05:36:24 GMT",
       "description": "Na części warszawskiego odcinka trasy S8 od początku grudnia brakowało oznakowania poziomego. Informowaliśmy wtedy, że w kierunku węzła Konotopa kierowcy poruszali się szeroką jezdnią, na której były trzy pasy ruchu, ale nie rozdzielały ich białe linie. Powodem były trwające od kilku miesięcy prace remontowe. Po kilkunastu dniach pasy zostały namalowane.",
@@ -50,38 +82,6 @@
       "description": "Wydział Konsularny Ambasady RP w Brukseli został w nocy z czwartku na piątek oblany czerwoną farbą, a na fasadzie budynku wypisano obraźliwe i wulgarne hasła. Incydent skomentował w sobotę rano szef MSZ Radosław Sikorski. Do aktu wandalizmu doszło w czasie trwania unijnego szczytu dotyczącego m.in. finansowania Ukrainy.",
       "originalTitle": "Polski konsulat zdewastowany. Sikorski: to znak, że nasza polityka jest skuteczna",
       "originalDescription": "Wydział Konsularny Ambasady RP w Brukseli został w nocy z czwartku na piątek oblany czerwoną farbą, a na fasadzie budynku wypisano obraźliwe i wulgarne hasła. Incydent skomentował w sobotę rano szef MSZ Radosław Sikorski. Do aktu wandalizmu doszło w czasie trwania unijnego szczytu dotyczącego m.in. finansowania Ukrainy."
-    },
-    {
-      "title": "\"Europa musi zrozumieć, że te terminy nie są nieskończone\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/paragwaj-szef-msz-ruben-ramirez-lezcano-o-umowie-ue-mercosur-st8810889?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 11:03:12 GMT",
-      "description": "Szef Ministerstwa Spraw Zagranicznych Paragwaju Ruben Ramirez Lezcano podkreśla, że negocjacje Mercosuru nad umową handlową z Unią Europejską (UE) nie mogą ciągnąć się w nieskończoność. W sobotę Paragwaj przejmuje rotacyjną prezydencję bloku.",
-      "originalTitle": "\"Europa musi zrozumieć, że te terminy nie są nieskończone\"",
-      "originalDescription": "Szef Ministerstwa Spraw Zagranicznych Paragwaju Ruben Ramirez Lezcano podkreśla, że negocjacje Mercosuru nad umową handlową z Unią Europejską (UE) nie mogą ciągnąć się w nieskończoność. W sobotę Paragwaj przejmuje rotacyjną prezydencję bloku."
-    },
-    {
-      "title": "Potężny bonus dla Elona Muska. Sąd Najwyższy zdecydował",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-elon-musk-12-cyfr-wazna-wygrana-szefa-tesli-w-sadzie-st8810823?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 10:17:23 GMT",
-      "description": "Sąd Najwyższy stanu Delaware zdecydował w sprawie ogromnego dodatku dla szefa Tesli Elona Muska. Bonus przyznany w 2018 roku wcześniej unieważnił sąd niższej instancji - podał portal stacji CNN.",
-      "originalTitle": "Potężny bonus dla Elona Muska. Sąd Najwyższy zdecydował",
-      "originalDescription": "Sąd Najwyższy stanu Delaware zdecydował w sprawie ogromnego dodatku dla szefa Tesli Elona Muska. Bonus przyznany w 2018 roku wcześniej unieważnił sąd niższej instancji - podał portal stacji CNN."
-    },
-    {
-      "title": "Zabrzmiał dzwon Zygmunt. Kraków przywitał nowego metropolitę",
-      "link": "https://tvn24.pl/krakow/krakow-ingres-kardynala-grzegorza-rysia-na-wawelu-st8810843?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 10:16:26 GMT",
-      "description": "Kardynał Grzegorz Ryś, dotychczasowy metropolita łódzki, objął władzę nad diecezją krakowską. W Bazylice Archikatedralnej na Wawelu w sobotę odbywa się ingres nowego metropolity. Ryś zastępuje Marka Jędraszewskiego, który tę funkcję pełnił od 2017 roku.",
-      "originalTitle": "Zabrzmiał dzwon Zygmunt. Kraków przywitał nowego metropolitę",
-      "originalDescription": "Kardynał Grzegorz Ryś, dotychczasowy metropolita łódzki, objął władzę nad diecezją krakowską. W Bazylice Archikatedralnej na Wawelu w sobotę odbywa się ingres nowego metropolity. Ryś zastępuje Marka Jędraszewskiego, który tę funkcję pełnił od 2017 roku."
-    },
-    {
-      "title": "Niedźwiedzica adoptowała młode. \"Nie zdarza się to zbyt często\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/niedzwiedzica-adoptowala-mlode-nie-zdarza-sie-to-zbyt-czesto-st8810807?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 10:11:07 GMT",
-      "description": "Niedźwiedzica polarna przygarnęła nieswoje młode. Naukowcy z Kanady, którzy od pewnego czasu obserwowali zwierzę, uważają, że to niezwykle rzadkie zdarzenie.",
-      "originalTitle": "Niedźwiedzica adoptowała młode. \"Nie zdarza się to zbyt często\"",
-      "originalDescription": "Niedźwiedzica polarna przygarnęła nieswoje młode. Naukowcy z Kanady, którzy od pewnego czasu obserwowali zwierzę, uważają, że to niezwykle rzadkie zdarzenie."
     }
   ]
 }
