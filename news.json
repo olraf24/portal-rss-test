@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2025-12-21T16:39:35.609Z",
+  "lastUpdate": "2025-12-21T17:05:25.117Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Zasady ochrony uchodźców po wyjeździe",
+      "link": "https://tvn24.pl/swiat/norwegia-zaostrzyla-przepisy-azylowe-krotki-wyjazd-moze-kosztowac-ochrone-kazdy-przypadek-bedzie-oceniany-st8812567?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 16:43:01 GMT",
+      "description": "Od czwartku w Norwegii obowiązują zaostrzone przepisy azylowe. Zgodnie z nowymi zasadami, nawet krótki wyjazd z kraju może skutkować utratą statusu uchodźcy lub cofnięciem zezwolenia na pobyt. Oznacza to, że na przykład w okresie świątecznym do rodziny może mieć duże konsekwencje.",
+      "originalTitle": "Nowe zasady dla uchodźców. Krótki wyjazd może kosztować ochronę",
+      "originalDescription": "Od czwartku w Norwegii obowiązują zaostrzone przepisy azylowe. Zgodnie z nowymi zasadami, nawet krótki wyjazd z kraju może skutkować utratą statusu uchodźcy lub cofnięciem zezwolenia na pobyt. Oznacza to, że na przykład w okresie świątecznym do rodziny może mieć duże konsekwencje."
+    },
     {
       "title": "Pogoda na święta",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-swieta-prognoza-na-wigilie-i-boze-narodzenie-czy-jest-szansa-na-snieg-st8811332?source=rss",
@@ -12,23 +20,23 @@
       "originalDescription": "Pogoda na święta Bożego Narodzenia. Do Wigilii pozostało zaledwie kilka dni, a prognozy wskazują, że nadejdzie ochłodzenie. Czy będzie ono szło w parze z wyczekiwanymi opadami śniegu?"
     },
     {
-      "title": "USA ścigają tankowiec wenezuelski",
+      "title": "USA ścigają tankowiec z Wenezueli",
       "link": "https://tvn24.pl/swiat/napiecia-usa-wenezuela-reuters-amerykanie-scigaja-kolejny-tankowiec-u-wybrzezy-wenezueli-st8812555?source=rss",
       "pubDate": "Sun, 21 Dec 2025 16:27:26 GMT",
-      "description": "• Stany Zjednoczone ścigają tankowiec na wodach międzynarodowych u wybrzeży Wenezueli.\n• Informację o ściganiu tankowca podał Reuters, powołując się na amerykańskich urzędników.\n• Wcześniej w sobotę Waszyngton informował o zatrzymaniu tankowca.\n• Zatrzymany tankowiec ostatnio cumował w Wenezueli.",
+      "description": "Stany Zjednoczone ścigają tankowiec na wodach międzynarodowych u wybrzeży Wenezueli - poinformował Reuters, powołując się na amerykańskich urzędników. Wcześniej w sobotę Waszyngton informował o zatrzymaniu tankowca, który ostatnio cumował w Wenezueli.",
       "originalTitle": "Presja na Wenezuelę trwa. Reuters: USA ścigają kolejny tankowiec",
       "originalDescription": "Stany Zjednoczone ścigają tankowiec na wodach międzynarodowych u wybrzeży Wenezueli - poinformował Reuters, powołując się na amerykańskich urzędników. Wcześniej w sobotę Waszyngton informował o zatrzymaniu tankowca, który ostatnio cumował w Wenezueli."
     },
     {
-      "title": "Wstępne dane policji: 1500 ofiar wypadków w 2025",
+      "title": "Ponad 1500 ofiar. Mamy wstępne dane policji o wypadkach w 2025 roku",
       "link": "https://tvn24.pl/lodz/ponad-1500-ofiar-mamy-wstepne-dane-policji-o-wypadkach-w-2025-roku-st8810010?source=rss",
       "pubDate": "Sun, 21 Dec 2025 16:04:39 GMT",
-      "description": "• Po raz pierwszy w historii na polskich drogach średnia dzienna liczba ofiar śmiertelnych spadła poniżej pięciu.\n• Policja przekazała najnowsze dane, które posłużą do stworzenia raportu o bezpieczeństwie w ruchu drogowym w 2025 roku.\n�� Dane są wyraźnie lepsze niż rok temu.\n• Nadkomisarz Robert Opas z Biura Ruchu Drogowego Komendy Głównej Policji skomentował dane.",
+      "description": "Po raz pierwszy w historii na polskich drogach średnia dzienna liczba ofiar śmiertelnych spadła poniżej pięciu. Policja przekazała nam najnowsze dane, które posłużą do stworzenia raportu o bezpieczeństwie w ruchu drogowym w 2025 roku. - Dane, chociaż wciąż bardzo tragiczne, są wyraźnie lepsze niż rok temu - mówi nadkomisarz Robert Opas z Biura Ruchu Drogowego Komendy Głównej Policji.",
       "originalTitle": "Ponad 1500 ofiar. Mamy wstępne dane policji o wypadkach w 2025 roku",
       "originalDescription": "Po raz pierwszy w historii na polskich drogach średnia dzienna liczba ofiar śmiertelnych spadła poniżej pięciu. Policja przekazała nam najnowsze dane, które posłużą do stworzenia raportu o bezpieczeństwie w ruchu drogowym w 2025 roku. - Dane, chociaż wciąż bardzo tragiczne, są wyraźnie lepsze niż rok temu - mówi nadkomisarz Robert Opas z Biura Ruchu Drogowego Komendy Głównej Policji."
     },
     {
-      "title": "Najkrótszy dzień roku",
+      "title": "Mamy astronomiczną zimę. Trwa najkrótszy dzień roku",
       "link": "https://tvn24.pl/tvnmeteo/ciekawostki/zima-astronomiczna-i-kalendarzowa-2025-kiedy-bedzie-najkrotszy-dzien-w-roku-st8809302?source=rss",
       "pubDate": "Sun, 21 Dec 2025 06:10:00 GMT",
       "description": "Rozpoczęła się astronomiczna zima. To także najkrótszy dzień w roku, ale zamiast przejmować się najmniejszą liczbą godzin ze światłem słonecznym, lepiej spojrzeć w niebo.",
@@ -74,14 +82,6 @@
       "description": "Szwedzkie służby celne, Straż Przybrzeżna oraz policja weszły w niedzielę na pokład rosyjskiego statku Adler. Wcześniej załoga frachtowca zgłosiła awarię silnika i zacumowała na północ od cieśniny Sund. Właściciel jednostki figuruje na kilku listach sankcyjnych i jest podejrzewany o transport broni dla Rosji i Chin.",
       "originalTitle": "Nie wiadomo, gdzie płynie i co transportuje. Szwedzkie służby weszły na rosyjski statek",
       "originalDescription": "Szwedzkie służby celne, Straż Przybrzeżna oraz policja weszły w niedzielę na pokład rosyjskiego statku Adler. Wcześniej załoga frachtowca zgłosiła awarię silnika i zacumowała na północ od cieśniny Sund. Właściciel jednostki figuruje na kilku listach sankcyjnych i jest podejrzewany o transport broni dla Rosji i Chin."
-    },
-    {
-      "title": "Skok o 700 procent. Taniej jest przez Kraków",
-      "link": "https://tvn24.pl/biznes/turystyka/wlochy-skok-o-700-procent-taniej-jest-przez-krakow-st8812433?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 14:21:08 GMT",
-      "description": "Nawet o 700 procent wzrosły we Włoszech ceny świątecznych lotów między północą a południem kraju. Bilet z Mediolanu do Katanii potrafi kosztować dziś więcej niż przelot z Rzymu do Nowego Jorku. Taniej bywa też… przez Kraków.",
-      "originalTitle": "Skok o 700 procent. Taniej jest przez Kraków",
-      "originalDescription": "Nawet o 700 procent wzrosły we Włoszech ceny świątecznych lotów między północą a południem kraju. Bilet z Mediolanu do Katanii potrafi kosztować dziś więcej niż przelot z Rzymu do Nowego Jorku. Taniej bywa też… przez Kraków."
     }
   ]
 }
