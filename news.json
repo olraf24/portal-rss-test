@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-12-21T12:46:32.430Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-12-21T13:12:56.706Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Awaria prądu w mieście",
+      "link": "https://tvn24.pl/swiat/usa-san-francisco-awaria-zasilania-pograzyla-czesc-miasta-w-ciemnosci-st8812011?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 13:05:58 GMT",
+      "description": "• W wyniku awarii zasilania około 130 tysięcy mieszkańców San Francisco pozostało bez prądu.\n• Wiele dzielnic San Francisco pogrążyło się w ciemności.\n• Główna firma energetyczna miasta to Pacific Gas and Electric Company.\n• Udało się już przywrócić zasilanie dla około 95 tysięcy odbiorców.",
+      "originalTitle": "Duża część miasta pogrążona w ciemności",
+      "originalDescription": "W wyniku awarii zasilania około 130 tysięcy mieszkańców San Francisco pozostało bez prądu, wiele dzielnic pogrążyło się w ciemności. Jak poinformowała główna firma energetyczna miasta Pacific Gas and Electric Company, udało się już przywrócić zasilanie dla około 95 tysięcy odbiorców."
+    },
+    {
+      "title": "Wydajność demograficzna w Polsce",
+      "link": "https://tvn24.pl/biznes/z-kraju/dlaczego-w-polsce-nie-ma-dzieci-st8805803?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:58:42 GMT",
+      "description": "• Mniej par, mniej dzieci i większa rola aplikacji, które zamiast zbliżać ludzi, często pogłębiają frustrację i samotność.\n• Eksperci podkreślają, że kryzys demograficzny zaczyna się dużo wcześniej, jeszcze zanim pojawi się pytanie o kredyt, mieszkanie czy stabilną pracę.\n• Sprawy ekonomiczne stały się wygodnym wytłumaczeniem, ale w istocie są wtórne.\n• Doktor habilitowany Ryszard Cichocki z Uniwersytetu imienia Adama Mickiewicza w Poznaniu udzielił wywiadu TVN24+.\n• Ryszard Cichocki jest doktorem habilitowanym.\n• Ryszard Cichocki jest związany z Uniwersytetem imienia Adama Mickiewicza w Poznaniu.",
+      "originalTitle": "Dlaczego w Polsce nie ma dzieci",
+      "originalDescription": "Mniej par, mniej dzieci i większa rola aplikacji, które zamiast zbliżać ludzi, często pogłębiają frustrację i samotność. Eksperci podkreślają, że kryzys demograficzny zaczyna się dużo wcześniej, jeszcze zanim pojawi się pytanie o kredyt, mieszkanie czy stabilną pracę. - Sprawy ekonomiczne stały się wygodnym wytłumaczeniem, ale w istocie są wtórne - mówi w rozmowie z TVN24+ doktor habilitowany Ryszard Cichocki z Uniwersytetu imienia Adama Mickiewicza w Poznaniu."
+    },
+    {
+      "title": "Dach uległ uszkodzeniu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-w-kolorado-wiatr-zerwal-dach-hali-wspinaczkowej-zobaczylismy-ze-zaczyna-zawijac-sie-jak-taco-st8812086?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:57:03 GMT",
+      "description": "• Silny wiatr wiał w ostatnim czasie w amerykańskim stanie Kolorado.\n• Wiatr zerwał dach hali sportowej ze ścianką wspinaczkową.\n• Właściciel hali poniósł ogromne straty.\n• Właściciel może liczyć na pomoc sportowej społeczności.",
+      "originalTitle": "\"Zobaczyliśmy, że dach zaczyna zawijać się jak taco\"",
+      "originalDescription": "Silny wiatr, jaki wiał w ostatnim czasie w amerykańskim stanie w Kolorado, zerwał dach hali sportowej ze ścianką wspinaczkową. Choć jej właściciel poniósł ogromne straty, może liczyć na pomoc sportowej społeczności."
+    },
+    {
+      "title": "Wigilia na krakowskim Rynku",
+      "link": "https://tvn24.pl/krakow/krakow-wigilia-dla-osob-bezdomnych-i-potrzebujacych-st8812155?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:53:51 GMT",
+      "description": "W niedzielę po raz 29. na krakowskim Rynku Głównym odbywa się wigilia dla osób w kryzysie bezdomności i potrzebujących. Potrawy poświęcił nowy metropolita kard. Grzegorz Ryś.",
+      "originalTitle": "\"Bez względu na wygląd każdy nosi w sobie godność\". Wigilia na krakowskim Rynku",
+      "originalDescription": "W niedzielę po raz 29. na krakowskim Rynku Głównym odbywa się wigilia dla osób w kryzysie bezdomności i potrzebujących. Potrawy poświęcił nowy metropolita kard. Grzegorz Ryś."
+    },
+    {
+      "title": "Wypowiedzi Leo i Zybertowicza",
+      "link": "https://tvn24.pl/polska/wizyta-wolodymyra-zelenskiego-w-polsce-i-spotkanie-z-karolem-nawrockim-politycy-komentuja-w-kawie-na-lawe-st8811972?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:48:19 GMT",
+      "description": "• Wizyta Wołodymyra Zełenskiego była ważna i potrzebna.\n• Senator KO Grzegorz Schetyna ocenił, że dobrze, że mimo różnic zdań i ciężkiej atmosfery przed, koniec był dobry.\n• Posłanka Polski 2050 Aleksandra Leo oceniła, że rozczarowujące są słowa prezydenta Karola Nawrockiego o tym, że za pomoc należy dziękować.\n• Doradca prezydenta profesor Andrzej Zybertowicz stwierdził, że błędem rządów PiS było to, że pomoc dla Ukrainy nie była dawana w trybie transakcyjnym.",
+      "originalTitle": "Leo o \"rozczarowujących słowach Nawrockiego\", Zybertowicz o \"błędzie rządów PiS\"",
+      "originalDescription": "Wizyta Wołodymyra Zełenskiego była ważna i potrzebna. Dobrze, że mimo różnic zdań i ciężkiej atmosfery przed, koniec był dobry - ocenił senator KO Grzegorz Schetyna. Posłanka Polski 2050 Aleksandra Leo oceniła, że \"rozczarowujące są słowa prezydenta Karola Nawrockiego o tym, że za pomoc należy dziękować\". Według doradcy prezydenta profesora Andrzeja Zybertowicza \"błędem rządów PiS\" było to, że pomoc dla Ukrainy \"nie była dawana w trybie transakcyjnym\"."
+    },
+    {
+      "title": "Wypadek samochodu i pociągu, ofiary śmiertelne",
+      "link": "https://tvn24.pl/wroclaw/ziebice-samochod-wjechal-pod-pociag-sa-ofiary-smiertelne-st8812187?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:45:24 GMT",
+      "description": "• Śmiertelny wypadek miał miejsce na przejeździe kolejowym.\n• Wypadek nastąpił w Ziębicach.\n• Ziębice położone są na Dolnym Śląsku.\n• W wypadku uczestniczył samochód osobowy.\n• Samochód zderzył się z pociągiem.\n• W wyniku zderzenia zginęły dwie osoby.\n• Informację o wypadku oraz zdjęcia otrzymano na Kontakt 24.",
+      "originalTitle": "Samochód wjechał pod pociąg. Są ofiary śmiertelne",
+      "originalDescription": "Śmiertelny wypadek na przejeździe kolejowym w Ziębicach na Dolnym Śląsku. W zderzeniu samochodu osobowego z pociągiem zginęły dwie osoby. Informację i zdjęcia otrzymaliśmy na Kontakt 24."
+    },
+    {
+      "title": "Putin \"gotowy\" do rozmowy z Macronem. Pałac Elizejski komentuje",
+      "link": "https://tvn24.pl/swiat/wladimir-putin-gotowy-do-dialogu-z-emmanuelem-macronem-palac-elizejski-komentuje-st8812007?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:23:21 GMT",
+      "description": "Władimir Putin jest \"gotowy do dialogu\" z prezydentem Francji Emmanuelem Macronem - przekazał rzecznik Kremla Dmitrij Pieskow, cytowany przez agencję AFP. W odpowiedzi Pałac Elizejski wydał oświadczenie, w którym pozytywnie odniósł się do deklaracji Moskwy.",
+      "originalTitle": "Putin \"gotowy\" do rozmowy z Macronem. Pałac Elizejski komentuje",
+      "originalDescription": "Władimir Putin jest \"gotowy do dialogu\" z prezydentem Francji Emmanuelem Macronem - przekazał rzecznik Kremla Dmitrij Pieskow, cytowany przez agencję AFP. W odpowiedzi Pałac Elizejski wydał oświadczenie, w którym pozytywnie odniósł się do deklaracji Moskwy."
+    },
+    {
+      "title": "Wpadł przez nerwowe zachowanie. Za \"cukierki\" stanie przed sądem",
+      "link": "https://tvn24.pl/kielce/kielce-za-cukierki-stanie-przed-sadem-rodzinnym-st8811944?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:19:57 GMT",
+      "description": "Policjanci zatrzymali 16-latka, u którego znaleźli blisko 30 gramów narkotyków. Nastolatek miał przy sobie kilka zawiniątek z zakazanymi substancjami. O jego losie zadecyduje sąd rodzinny.",
+      "originalTitle": "Wpadł przez nerwowe zachowanie. Za \"cukierki\" stanie przed sądem",
+      "originalDescription": "Policjanci zatrzymali 16-latka, u którego znaleźli blisko 30 gramów narkotyków. Nastolatek miał przy sobie kilka zawiniątek z zakazanymi substancjami. O jego losie zadecyduje sąd rodzinny."
+    },
+    {
+      "title": "Tragiczny skutek czołowego zdarzenia",
+      "link": "https://tvn24.pl/trojmiasto/darzkowo-tragiczny-wypadek-pod-leborkiem-st8811959?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 12:08:16 GMT",
+      "description": "Tragiczny wypadek w miejscowości Darżkowo (Pomorskie). W czołowym zderzeniu dwóch samochodów osobowych zginęła jedna osoba, a dwie z obrażeniami ciała trafiły do szpitala.",
+      "originalTitle": "Tragiczny skutek czołowego zdarzenia",
+      "originalDescription": "Tragiczny wypadek w miejscowości Darżkowo (Pomorskie). W czołowym zderzeniu dwóch samochodów osobowych zginęła jedna osoba, a dwie z obrażeniami ciała trafiły do szpitala."
+    },
+    {
+      "title": "To ostatnia szansa, by zdobyć warszawską zawieszkę na choinkę",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-rozdaje-darmowe-zawieszki-na-choinke-st8812013?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 11:50:09 GMT",
+      "description": "Mieszkańcy Warszawy nadal mają okazję zdobyć darmowe świąteczne zawieszki. To piąta edycja tej popularnej akcji. Warszawskie ozdoby dostępne są w kilku lokalizacjach.",
+      "originalTitle": "To ostatnia szansa, by zdobyć warszawską zawieszkę na choinkę",
+      "originalDescription": "Mieszkańcy Warszawy nadal mają okazję zdobyć darmowe świąteczne zawieszki. To piąta edycja tej popularnej akcji. Warszawskie ozdoby dostępne są w kilku lokalizacjach."
+    }
+  ]
 }
