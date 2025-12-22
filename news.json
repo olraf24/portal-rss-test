@@ -1,21 +1,77 @@
 {
-  "lastUpdate": "2025-12-22T14:06:45.478Z",
+  "lastUpdate": "2025-12-22T14:39:06.345Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Płyta spadła z 9 piętra, kierownik ukarany",
+      "title": "Złożono wniosek o ENA dla Romanowskiego",
+      "link": "https://tvn24.pl/polska/jest-nowy-wniosek-o-ena-dla-marcina-romanowskiego-st8814042?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:28:18 GMT",
+      "description": "Prokuratura złożyła ponowny wniosek o zastosowanie europejskiego nakazu aresztowania (ENA) wobec Marcina Romanowskiego - poinformował w poniedziałek prokurator generalny, minister sprawiedliwości Waldemar Żurek.",
+      "originalTitle": "Jest nowy wniosek o ENA dla Romanowskiego",
+      "originalDescription": "Prokuratura złożyła ponowny wniosek o zastosowanie europejskiego nakazu aresztowania (ENA) wobec Marcina Romanowskiego - poinformował w poniedziałek prokurator generalny, minister sprawiedliwości Waldemar Żurek."
+    },
+    {
+      "title": "Samochód wydobyty z rzeki",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pultusk-auto-zatopione-w-rzece-akcja-strazakow-st8814001?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:27:32 GMT",
+      "description": "W powiecie pułtuskim (Mazowieckie) strażacy wyciągali w poniedziałek z rzeki samochód osobowy. Akcja była trudna, auto znajdowało się w trudno dostępnej lokalizacji.",
+      "originalTitle": "Wydobyli samochód z dna rzeki",
+      "originalDescription": "W powiecie pułtuskim (Mazowieckie) strażacy wyciągali w poniedziałek z rzeki samochód osobowy. Akcja była trudna, auto znajdowało się w trudno dostępnej lokalizacji."
+    },
+    {
+      "title": "Deszcz we Francji: 300 litrów na metr kwadratowy w 2 dni",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/francja-300-litrow-wody-na-metr-kwadratowy-w-dwa-dni-widok-byl-porazajacy-st8813890?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:18:12 GMT",
+      "description": "Południową Francję nawiedziły silne opady deszczu. Wiele rzek wystąpiło z brzegów, co doprowadziło do podtopień. W poniedziałek i wtorek spodziewane są dalsze ulewy.",
+      "originalTitle": "Francja. 300 litrów na metr kwadratowy w dwa dni. \"Widok był porażający\"",
+      "originalDescription": "Południową Francję nawiedziły silne opady deszczu. Wiele rzek wystąpiło z brzegów, co doprowadziło do podtopień. W poniedziałek i wtorek spodziewane są dalsze ulewy."
+    },
+    {
+      "title": "Państwo przejęło Hutę Częstochowa",
+      "link": "https://tvn24.pl/katowice/panstwo-przejelo-hute-czestochowa-st8813607?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:17:56 GMT",
+      "description": "• Zakład produkuje blachy pancerne.\n• Zakład ma strategiczne znaczenie dla bezpieczeństwa Polski.\n• Żyje z niego pięć tysięcy ludzi.\n• Prywatny inwestor nie gwarantował mu rozwoju.\n• Państwo przejęło hutę w Częstochowie.\n• Państwo zapłaciło niemal 254 miliony złotych za przejęcie huty.",
+      "originalTitle": "Państwo przejęło Hutę Częstochowa",
+      "originalDescription": "Zakład produkuje blachy pancerne i ma strategiczne znaczenie dla bezpieczeństwa Polski. Żyje z niego pięć tysięcy ludzi. Prywatny inwestor nie gwarantował mu rozwoju. Dlatego państwo za niemal 254 miliony złotych przejęło hutę w Częstochowie."
+    },
+    {
+      "title": "Policja znalazła narkotyki w mieszkaniu i samochodzie",
+      "link": "https://tvn24.pl/trojmiasto/rumia-podczas-przeszukania-znalezli-szesc-kilogramow-narkotykow-38-latek-w-areszcie-st8813231?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:14:42 GMT",
+      "description": "• Policjanci do spraw walki z przestępczością pseudokibiców zatrzymali 38-letniego mieszkańca Rumi.\n• Mężczyzna mieszka w województwie pomorskim.\n• Podczas przeszukania miejsca zamieszkania mężczyzny i auta funkcjonariusze znaleźli narkotyki.\n• Znaleziono sześć kilogramów narkotyków.\n• Podejrzany trafił do aresztu.",
+      "originalTitle": "W jego mieszkaniu i aucie znaleźli sześć kilogramów narkotyków",
+      "originalDescription": "Policjanci do spraw walki z przestępczością pseudokibiców zatrzymali 38-letniego mieszkania Rumi (województwo pomorskie). Podczas przeszukania miejsca zamieszkania mężczyzny i auta funkcjonariusze znaleźli sześć kilogramów narkotyków. Podejrzany trafił do aresztu."
+    },
+    {
+      "title": "Doktor Szaluś, czyli specjalista od \"medycyny komplementarnej\". Onkolodzy: to nie jest medycyna",
+      "link": "https://tvn24.pl/zdrowie/dozylna-witamina-c-salinomycyna-i-kurkumina-jakie-dowody-przemawiaja-za-terapiami-doktora-szalusia-st8792460?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:12:15 GMT",
+      "description": "Doktor Norbert Szaluś, do którego na kroplówki z witaminą C przyjeżdżali pacjenci z całej Polski, po prawie roku przerwy może wrócić do wykonywania zawodu. Niedawno w podcaście redaktora Bogdana Rymanowskiego lekarz po raz kolejny bronił tego, co oferował osobom chorym na raka. Twierdzi, że onkolodzy krytykują go niesłusznie, bo nie znają się na \"medycynie komplementarnej\". Eksperci mówią jednak jasno: to nie jest medycyna.",
+      "originalTitle": "Doktor Szaluś, czyli specjalista od \"medycyny komplementarnej\". Onkolodzy: to nie jest medycyna",
+      "originalDescription": "Doktor Norbert Szaluś, do którego na kroplówki z witaminą C przyjeżdżali pacjenci z całej Polski, po prawie roku przerwy może wrócić do wykonywania zawodu. Niedawno w podcaście redaktora Bogdana Rymanowskiego lekarz po raz kolejny bronił tego, co oferował osobom chorym na raka. Twierdzi, że onkolodzy krytykują go niesłusznie, bo nie znają się na \"medycynie komplementarnej\". Eksperci mówią jednak jasno: to nie jest medycyna."
+    },
+    {
+      "title": "Włożyła noworodka do kosza na śmieci, chłopiec nie przeżył. Matka oskarżona",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/brzeziny-martwy-noworodek-w-koszu-na-smieci-akt-oskarzenia-wobec-matki-st8813889?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:11:04 GMT",
+      "description": "Prokuratura Rejonowa w Mińsku Mazowieckim skierowała do sądu akt oskarżenia przeciwko Irynie K. Oskarża kobietę o dzieciobójstwo. Ciało urodzonego przez nią noworodka znaleziono w koszu na śmieci przy przystanku w Brzezinach. Do tragedii doszło we wrześniu 2024 roku.",
+      "originalTitle": "Włożyła noworodka do kosza na śmieci, chłopiec nie przeżył. Matka oskarżona",
+      "originalDescription": "Prokuratura Rejonowa w Mińsku Mazowieckim skierowała do sądu akt oskarżenia przeciwko Irynie K. Oskarża kobietę o dzieciobójstwo. Ciało urodzonego przez nią noworodka znaleziono w koszu na śmieci przy przystanku w Brzezinach. Do tragedii doszło we wrześniu 2024 roku."
+    },
+    {
+      "title": "Ciężka płyta z dziewiątej kondygnacji spadła na ulicę. Kierownik budowy ukarany mandatem",
       "link": "https://tvn24.pl/katowice/katowice-ciezka-plyta-spada-z-dachu-na-ruchliwa-ulice-nagranie-st8813423?source=rss",
       "pubDate": "Mon, 22 Dec 2025 13:01:57 GMT",
-      "description": "• Aktywiści opisują nagranie z niebezpiecznego zdarzenia w Katowicach.\n• Płyta uderza w nawierzchnię jezdni samym rogiem.\n• Zdarzenie mogłoby zmiażdżyć pieszego, każdy samochód, czy dach autobusu.\n• Płyta szalunkowa waży 600 kilogramów.\n• Płyta odpadła od budynku wskutek błędu robotników.\n• Zdarzenie miało miejsce przy ruchliwym skrzyżowaniu.\n• Skrzyżowanie znajduje się pomiędzy przystankami tramwajowym i autobusowym.\n• W pobliżu skrzyżowania znajduje się targowisko.\n• Skrzyżowanie jest położone naprzeciw żłobka.\n• W okolicy skrzyżowania znajduje się przedszkole.\n• W sąsiedztwie skrzyżowania jest szkoła.",
+      "description": "\"Czy widzicie na nagraniu, jak płyta uderza w nawierzchnię jezdni samym rogiem? To zmiażdżyłoby pieszego, każdy samochód, czy dach autobusu\" - tak aktywiści opisują nagranie z niebezpiecznego zdarzenia w Katowicach. Ważąca 600 kilogramów płyta szalunkowa, wskutek błędu robotników, odpadła od budynku przy ruchliwym skrzyżowaniu, pomiędzy przystankami tramwajowym i autobusowym, obok targowiska, naprzeciw żłobka, przedszkola, szkoły.",
       "originalTitle": "Ciężka płyta z dziewiątej kondygnacji spadła na ulicę. Kierownik budowy ukarany mandatem",
       "originalDescription": "\"Czy widzicie na nagraniu, jak płyta uderza w nawierzchnię jezdni samym rogiem? To zmiażdżyłoby pieszego, każdy samochód, czy dach autobusu\" - tak aktywiści opisują nagranie z niebezpiecznego zdarzenia w Katowicach. Ważąca 600 kilogramów płyta szalunkowa, wskutek błędu robotników, odpadła od budynku przy ruchliwym skrzyżowaniu, pomiędzy przystankami tramwajowym i autobusowym, obok targowiska, naprzeciw żłobka, przedszkola, szkoły."
     },
     {
-      "title": "Znaleziono zwłoki zwierząt przy kościołach",
+      "title": "Porzucał przy kościołach zwłoki zwierząt. Mieszkańcy przerażeni",
       "link": "https://tvn24.pl/swiat/wielka-brytania-porzucal-przy-kosciolach-zwloki-zwierzat-mieszkancy-przerazeni-st8813872?source=rss",
       "pubDate": "Mon, 22 Dec 2025 13:47:40 GMT",
-      "description": "• Mieszkańcy hrabstwa Hampshire są \"przerażeni\" makabrycznymi znaleziskami przed miejscowymi kościołami.\n• Przy świątyniach znajdowano zwłoki zwierząt.\n• O sprawie donosi \"Guardian\".\n• Mężczyzna usłyszał zarzuty w tej sprawie.\n• Mężczyzna czeka na wyrok.\n• Mężczyzna przyznał się do postawionych zarzutów.",
+      "description": "• Mieszkańcy hrabstwa Hampshire są \"przerażeni\" makabrycznymi znaleziskiami przed miejscowymi kościołami.\n• Przy świątyniach znajdowano zwłoki zwierząt.\n• O sprawie donosi \"Guardian\".\n• Mężczyzna usłyszał zarzuty w tej sprawie.\n• Mężczyzna czeka na wyrok.\n• Mężczyzna przyznał się do postawionych zarzutów.",
       "originalTitle": "Porzucał przy kościołach zwłoki zwierząt. Mieszkańcy przerażeni",
       "originalDescription": "Mieszkańcy hrabstwa Hampshire są \"przerażeni\" makabrycznymi znaleziskami przed miejscowymi kościołami. Przy świątyniach, jak donosi \"Guardian\", znajdowano zwłoki zwierząt. Mężczyzna, który usłyszał zarzuty w tej sprawie, czeka na wyrok. Przyznał się do postawionych zarzutów."
     },
@@ -26,62 +82,6 @@
       "description": "W poniedziałek w Hiszpanii odbyło się losowanie w tradycyjnej loterii bożonarodzeniowej. Maksymalna wygrana, znana jako \"El Gordo\" to aż 4 miliony euro. Jak jednak zauważają hiszpańskie media, \"Gruba\" nagroda z roku na rok staje się coraz chudsza z powodu rosnących cen.",
       "originalTitle": "Miliardy w puli, miliony do wygrania. Za nami losowanie loterii bożonarodzeniowej",
       "originalDescription": "W poniedziałek w Hiszpanii odbyło się losowanie w tradycyjnej loterii bożonarodzeniowej. Maksymalna wygrana, znana jako \"El Gordo\" to aż 4 miliony euro. Jak jednak zauważają hiszpańskie media, \"Gruba\" nagroda z roku na rok staje się coraz chudsza z powodu rosnących cen."
-    },
-    {
-      "title": "Jest akt oskarżenia przeciwko byłemu prezesowi Orlenu Danielowi Obajtkowi",
-      "link": "https://tvn24.pl/biznes/z-kraju/jest-akt-oskarzenia-przeciwko-bylemu-prezesowi-orlenu-danielowi-obajtkowi-st8813939?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:44:12 GMT",
-      "description": "Jest akt oskarżenia przeciwko między innymi byłemu prezesowi Orlenu Danielowi Obajtkowi w sprawie dotyczącej zawarcia przez płocki koncern umów na usługi detektywistyczne - przekazała warszawska prokuratura.",
-      "originalTitle": "Jest akt oskarżenia przeciwko byłemu prezesowi Orlenu Danielowi Obajtkowi",
-      "originalDescription": "Jest akt oskarżenia przeciwko między innymi byłemu prezesowi Orlenu Danielowi Obajtkowi w sprawie dotyczącej zawarcia przez płocki koncern umów na usługi detektywistyczne - przekazała warszawska prokuratura."
-    },
-    {
-      "title": "Trump uderzył w naszego sąsiada. Bolesny spadek",
-      "link": "https://tvn24.pl/biznes/ze-swiata/motoryzacja-donald-trump-uderzyl-w-niemcy-bolesny-spadek-eksportu-do-usa-st8813370?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:36:43 GMT",
-      "description": "Niemiecki eksport samochodów do USA znacznie spadł w pierwszych dziewięciu miesiącach 2025 roku. Zdaniem analityków to skutek polityki celnej prowadzonej przez prezydenta Donalda Trumpa - podał Reuters.",
-      "originalTitle": "Trump uderzył w naszego sąsiada. Bolesny spadek",
-      "originalDescription": "Niemiecki eksport samochodów do USA znacznie spadł w pierwszych dziewięciu miesiącach 2025 roku. Zdaniem analityków to skutek polityki celnej prowadzonej przez prezydenta Donalda Trumpa - podał Reuters."
-    },
-    {
-      "title": "Drobna zmiana i ważność \"wydłużała się\" o kilka lat",
-      "link": "https://tvn24.pl/rzeszow/lubaczow-prostym-trikiem-wydluzali-waznosc-produktow-do-sklepu-weszla-policja-st8813901?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:35:28 GMT",
-      "description": "Jeden dodatkowy szlaczek na opakowaniu i przydatność produktu do spożycia \"wydłużała się\" nawet o sześć lat. Właścicielce sklepu w Lubaczowie na Podkarpaciu, w którym można było kupić przeterminowane jedzenie w opakowaniach ze sfałszowanymi datami przydatności do spożycia grozi do trzech lat więzienia.",
-      "originalTitle": "Drobna zmiana i ważność \"wydłużała się\" o kilka lat",
-      "originalDescription": "Jeden dodatkowy szlaczek na opakowaniu i przydatność produktu do spożycia \"wydłużała się\" nawet o sześć lat. Właścicielce sklepu w Lubaczowie na Podkarpaciu, w którym można było kupić przeterminowane jedzenie w opakowaniach ze sfałszowanymi datami przydatności do spożycia grozi do trzech lat więzienia."
-    },
-    {
-      "title": "Quiz. Jak dobrze znasz \"Listy do M.\"?",
-      "link": "https://tvn24.pl/quizy/quiz-swiateczny-jak-dobrze-znasz-listy-do-m-st8813406?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:33:09 GMT",
-      "description": "To trochę jak przedświąteczna tradycja. Bombki na choince, w kuchni zapach wigilijnych specjałów, a na ekranach kolejne \"Listy do M.\". Ale zanim włączycie telewizory, proponujemy zabawę - jak dużo pamiętacie z najsłynniejszej polskiej świątecznej serii?",
-      "originalTitle": "Quiz. Jak dobrze znasz \"Listy do M.\"?",
-      "originalDescription": "To trochę jak przedświąteczna tradycja. Bombki na choince, w kuchni zapach wigilijnych specjałów, a na ekranach kolejne \"Listy do M.\". Ale zanim włączycie telewizory, proponujemy zabawę - jak dużo pamiętacie z najsłynniejszej polskiej świątecznej serii?"
-    },
-    {
-      "title": "Zginęli rodzice małego dziecka. Śledztwo po tragedii na przejeździe kolejowym",
-      "link": "https://tvn24.pl/wroclaw/ziebice-sledztwo-po-wypadku-na-przejezdzie-kolejowym-zgineli-rodzice-dziecka-st8813875?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:25:25 GMT",
-      "description": "Prokuratura w Ząbkowicach Śląskich bada okoliczności tragicznego wypadku na przejeździe kolejowym w Ziębicach, gdzie pociąg relacji Praga–Gdynia uderzył w samochód osobowy. Zginęli rodzice małego dziecka.",
-      "originalTitle": "Zginęli rodzice małego dziecka. Śledztwo po tragedii na przejeździe kolejowym",
-      "originalDescription": "Prokuratura w Ząbkowicach Śląskich bada okoliczności tragicznego wypadku na przejeździe kolejowym w Ziębicach, gdzie pociąg relacji Praga–Gdynia uderzył w samochód osobowy. Zginęli rodzice małego dziecka."
-    },
-    {
-      "title": "Pościg służb za kozłem. \"Nikt w to nie uwierzy\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/wielka-brytania-poscig-sluzb-za-kozlem-nikt-w-to-nie-uwierzy-st8813549?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:19:13 GMT",
-      "description": "Brytyjscy policjanci prowadzili pościg za kozłem, który uciekł właścicielowi w hrabstwie Wiltshire. Zwierzę, nie chcąc zostać złapane, zachowywało się agresywnie, co zmusiło funkcjonariuszy do użycia nietypowych metod.",
-      "originalTitle": "Pościg służb za kozłem. \"Nikt w to nie uwierzy\"",
-      "originalDescription": "Brytyjscy policjanci prowadzili pościg za kozłem, który uciekł właścicielowi w hrabstwie Wiltshire. Zwierzę, nie chcąc zostać złapane, zachowywało się agresywnie, co zmusiło funkcjonariuszy do użycia nietypowych metod."
-    },
-    {
-      "title": "Tunele i estakada. Jak będzie wyglądać fragment obwodnicy śródmiejskiej?",
-      "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-tunele-i-estakada-jak-bedzie-wygladac-fragment-obwodnicy-srodmiejskiej-st8813209?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 13:05:46 GMT",
-      "description": "Stołeczny Zarząd Rozbudowy Miasta poinformował o szczegółach koncepcji drugiego odcinka obwodnicy Śródmieścia od ulicy Radzymińskiej do ronda Żaba. W pierwszym kwartale przyszłego roku urzędnicy chcą złożyć wniosek o wydanie decyzji środowiskowej dla tej inwestycji.",
-      "originalTitle": "Tunele i estakada. Jak będzie wyglądać fragment obwodnicy śródmiejskiej?",
-      "originalDescription": "Stołeczny Zarząd Rozbudowy Miasta poinformował o szczegółach koncepcji drugiego odcinka obwodnicy Śródmieścia od ulicy Radzymińskiej do ronda Żaba. W pierwszym kwartale przyszłego roku urzędnicy chcą złożyć wniosek o wydanie decyzji środowiskowej dla tej inwestycji."
     }
   ]
 }
