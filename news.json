@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-12-23T13:17:26.348Z",
+  "lastUpdate": "2025-12-23T13:44:24.182Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pomoc medyczna w święta według NFZ",
+      "title": "Dwie osoby zatrzymane po incydencie w sklepie",
+      "link": "https://tvn24.pl/lodz/lodz-napad-z-bronia-palna-na-sklep-podejrzani-w-areszcie-st8815833?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 13:41:35 GMT",
+      "description": "Do tymczasowego aresztu trafili dwaj mężczyźni podejrzani o napad z bronią na sklep w Łodzi. Na nagraniach widać, jak jeden z nich kieruje pistolet w głowę przerażonej ekspedientki w ciąży. Drugi z napastników w tym czasie miał stać na czatach przed sklepem.",
+      "originalTitle": "Pistolet przy głowie ekspedientki w ciąży. Dwie osoby w areszcie",
+      "originalDescription": "Do tymczasowego aresztu trafili dwaj mężczyźni podejrzani o napad z bronią na sklep w Łodzi. Na nagraniach widać, jak jeden z nich kieruje pistolet w głowę przerażonej ekspedientki w ciąży. Drugi z napastników w tym czasie miał stać na czatach przed sklepem."
+    },
+    {
+      "title": "Pogoda na święta: temperatura i prognoza",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wigilie-i-boze-narodzenie-prognoza-na-swieta-chwyci-tegi-mroz-ile-stopni-bedzie-st8815502?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 13:40:22 GMT",
+      "description": "• Pogoda na Wigilię i Boże Narodzenie przypomni sobie, co to znaczy tęgi mróz.\n• Najniższe wartości temperatury spodziewane są w nocy i nad ranem.\n• Najniższe wartości temperatury będą rzędu kilkunastu stopni Celsjusza na minusie.\n�� W najbliższe święta spodziewany jest tęgi mróz.",
+      "originalTitle": "Pogoda na Wigilię i Boże Narodzenie. Chwyci tęgi mróz. Ile stopni będzie",
+      "originalDescription": "Pogoda na Wigilię i Boże Narodzenie. W najbliższe święta przypomnimy sobie, co to znaczy tęgi mróz. Najniższe wartości, rzędu kilkunastu stopni Celsjusza na minusie, spodziewane są w nocy i nad ranem. A co przyniesie weekend?"
+    },
+    {
+      "title": "Policja szuka mężczyzny w związku z atakiem na 16-latkę",
+      "link": "https://tvn24.pl/poznan/poznan-zaatakowal-szesnastolatke-szuka-go-policja-st8815519?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 13:36:57 GMT",
+      "description": "W Poznaniu starszy mężczyzna zaatakował 16-letnią dziewczynę. Została uderzona, a sprawca oddalił się w towarzystwie innej kobiety. 16-latka z urazem głowy przebywa w szpitalu. Policja poszukuje sprawcy.",
+      "originalTitle": "Starszy mężczyzna uderzył 16-latkę. Szuka go policja",
+      "originalDescription": "W Poznaniu starszy mężczyzna zaatakował 16-letnią dziewczynę. Została uderzona, a sprawca oddalił się w towarzystwie innej kobiety. 16-latka z urazem głowy przebywa w szpitalu. Policja poszukuje sprawcy."
+    },
+    {
+      "title": "Czterech chłopców zaginęło, znaleziono ciała. Żołnierze skazani na 34 lata więzienia",
+      "link": "https://tvn24.pl/swiat/ekwador-czterech-chlopcow-zaginelo-znaleziono-ciala-zolnierze-skazani-na-34-lata-wiezienia-st8815521?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 13:29:30 GMT",
+      "description": "Jedenastu żołnierzy zostało skazanych na ponad 34 lata więzienia w związku ze zniknięciem czterech nastolatków sprzed roku. Żołnierze zatrzymali chłopców podczas nocnego patrolu, mieli ich pobić, zmusić do zdjęcia ubrań, a następnie porzucić nagich w niebezpiecznej okolicy. Kilka dni później znaleziono ich ciała.",
+      "originalTitle": "Czterech chłopców zaginęło, znaleziono ciała. Żołnierze skazani na 34 lata więzienia",
+      "originalDescription": "Jedenastu żołnierzy zostało skazanych na ponad 34 lata więzienia w związku ze zniknięciem czterech nastolatków sprzed roku. Żołnierze zatrzymali chłopców podczas nocnego patrolu, mieli ich pobić, zmusić do zdjęcia ubrań, a następnie porzucić nagich w niebezpiecznej okolicy. Kilka dni później znaleziono ich ciała."
+    },
+    {
+      "title": "To najstarsza polska kolęda. Autor ukrył w niej swoje imię",
+      "link": "https://tvn24.pl/krakow/to-najstarsza-polska-koleda-autor-ukryl-w-niej-swoje-imie-st8815781?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 13:28:01 GMT",
+      "description": "W skarbcu Biblioteki Jagiellońskiej znajduje się najstarsza znana kolęda związana z ziemiami polskimi. Pieśń jest datowana na początek XV wieku, jej autorem jest Bartłomiej z Jasła, profesor Uniwersytetu Krakowskiego, teolog i filozof.",
+      "originalTitle": "To najstarsza polska kolęda. Autor ukrył w niej swoje imię",
+      "originalDescription": "W skarbcu Biblioteki Jagiellońskiej znajduje się najstarsza znana kolęda związana z ziemiami polskimi. Pieśń jest datowana na początek XV wieku, jej autorem jest Bartłomiej z Jasła, profesor Uniwersytetu Krakowskiego, teolog i filozof."
+    },
+    {
+      "title": "Gdzie po pomoc w święta? NFZ przypomina zasady",
       "link": "https://tvn24.pl/zdrowie/gdzie-po-pomoc-w-swieta-nfz-przypomina-zasady-st8815130?source=rss",
       "pubDate": "Tue, 23 Dec 2025 13:12:42 GMT",
-      "description": "• Nagłe dolegliwości, które nie zagrażają bezpośrednio życiu, nie wymagają wizyty na Szpitalnym Oddziale Ratunkowym.\n• Dolegliwości niezagrażające życiu nie wymagają wizyty na SOR, nawet jeśli problem pojawia się w okresie świątecznym.\n• W takich sytuacjach pacjenci powinni skorzystać z nocnej i świątecznej opieki zdrowotnej.\n• Narodowy Fundusz Zdrowia (NFZ) przypomina o tym, aby w sytuacjach niezagrażających życiu korzystać z nocnej i świątecznej opieki zdrowotnej zamiast SOR.\n• NFZ wyjaśnia, kiedy wizyta na SOR rzeczywiście jest uzasadniona.",
+      "description": "Nagłe dolegliwości, które nie zagrażają bezpośrednio życiu, nie wymagają wizyty na Szpitalnym Oddziale Ratunkowym, nawet jeśli problem pojawia się w okresie świątecznym - przypomina Narodowy Fundusz Zdrowia. W takich sytuacjach pacjenci powinni skorzystać z nocnej i świątecznej opieki zdrowotnej. NFZ wyjaśnia też, kiedy wizyta na SOR rzeczywiście jest uzasadniona.",
       "originalTitle": "Gdzie po pomoc w święta? NFZ przypomina zasady",
       "originalDescription": "Nagłe dolegliwości, które nie zagrażają bezpośrednio życiu, nie wymagają wizyty na Szpitalnym Oddziale Ratunkowym, nawet jeśli problem pojawia się w okresie świątecznym - przypomina Narodowy Fundusz Zdrowia. W takich sytuacjach pacjenci powinni skorzystać z nocnej i świątecznej opieki zdrowotnej. NFZ wyjaśnia też, kiedy wizyta na SOR rzeczywiście jest uzasadniona."
     },
     {
-      "title": "Trump skomentował Grenlandię, premier zareagował",
+      "title": "\"Nie można tak o nas mówić\". Słowa Trumpa \"zasmuciły\" premiera Grenlandii",
       "link": "https://tvn24.pl/swiat/grenlandia-donald-trump-ponownie-mowi-o-nabyciu-wyspy-premier-jens-frederik-nielsen-komentuje-st8815235?source=rss",
       "pubDate": "Tue, 23 Dec 2025 13:08:14 GMT",
-      "description": "• Premier Grenlandii to Jens-Frederik Nielsen.\n• Jens-Frederik Nielsen przyznał, że czuje \"smutek\" z powodu ponownie wyrażanego przez Donalda Trumpa zainteresowania nabyciem wyspy.\n• Wyspa, o której mowa, jest terytorium autonomicznym Danii.\n• Donald Trump wyraża zainteresowanie nabyciem wyspy.\n• Jens-Frederik Nielsen podkreślił, że \"Nasza integralność terytorialna i prawo do samostanowienia są zagwarantowane przez prawo międzynarodowe\".\n• Prawo międzynarodowe gwarantuje, że integralność terytorialna i prawo do samostanowienia nie mogą być po prostu zignorowane.",
+      "description": "Premier Grenlandii Jens-Frederik Nielsen przyznał, że czuje \"smutek\" z powodu ponownie wyrażanego przez Donalda Trumpa zainteresowania nabyciem wyspy, która jest terytorium autonomicznym Danii. \"Nasza integralność terytorialna i prawo do samostanowienia są zagwarantowane przez prawo międzynarodowe i nie mogą być po prostu zignorowane\" - podkreślił.",
       "originalTitle": "\"Nie można tak o nas mówić\". Słowa Trumpa \"zasmuciły\" premiera Grenlandii",
       "originalDescription": "Premier Grenlandii Jens-Frederik Nielsen przyznał, że czuje \"smutek\" z powodu ponownie wyrażanego przez Donalda Trumpa zainteresowania nabyciem wyspy, która jest terytorium autonomicznym Danii. \"Nasza integralność terytorialna i prawo do samostanowienia są zagwarantowane przez prawo międzynarodowe i nie mogą być po prostu zignorowane\" - podkreślił."
     },
     {
-      "title": "Mężczyzna usłyszał zarzut usiłowania zabójstwa",
+      "title": "Porwał 9-letniego syna byłej partnerki, usłyszał zarzut usiłowania zabójstwa",
       "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-zarzut-usilowania-zabojstwa-dla-partnera-matki-porwanego-9-latka-st8815478?source=rss",
       "pubDate": "Tue, 23 Dec 2025 12:53:21 GMT",
       "description": "We wtorek przeprowadzono czynności prokuratorskie z udziałem mężczyzny, który dwa dni temu uprowadził z domu 9-letniego syna byłej partnerki. Prokurator postawił 36-letniemu obywatelowi Ukrainy kilka zarzutów, w tym najpoważniejszy: usiłowania zabójstwa.",
@@ -28,11 +68,11 @@
       "originalDescription": "We wtorek przeprowadzono czynności prokuratorskie z udziałem mężczyzny, który dwa dni temu uprowadził z domu 9-letniego syna byłej partnerki. Prokurator postawił 36-letniemu obywatelowi Ukrainy kilka zarzutów, w tym najpoważniejszy: usiłowania zabójstwa."
     },
     {
-      "title": "Groźny pożar w Nowym Stawie. Cztery budynki objęte ogniem",
-      "link": "https://tvn24.pl/trojmiasto/grozny-pozar-w-nowym-stawie-cztery-budynki-objete-ogniem-st8814797?source=rss",
+      "title": "Dramat rodzin przez świętami. Ogień zajął cztery domy",
+      "link": "https://tvn24.pl/trojmiasto/pomorskie-pozar-w-nowym-stawie-ogien-zajal-cztery-domy-jeden-doszczetnie-splonal-st8814797?source=rss",
       "pubDate": "Tue, 23 Dec 2025 09:23:38 GMT",
       "description": "Cztery budynki mieszkalne zostały objęte pożarem, do którego doszło w nocy w Nowym Stawie (woj. pomorskie). Jeden z nich spłonął doszczętnie. Nikomu z mieszkańców nic się nie stało, ale straty materialne są ogromne.",
-      "originalTitle": "Groźny pożar w Nowym Stawie. Cztery budynki objęte ogniem",
+      "originalTitle": "Dramat rodzin przez świętami. Ogień zajął cztery domy",
       "originalDescription": "Cztery budynki mieszkalne zostały objęte pożarem, do którego doszło w nocy w Nowym Stawie (woj. pomorskie). Jeden z nich spłonął doszczętnie. Nikomu z mieszkańców nic się nie stało, ale straty materialne są ogromne."
     },
     {
@@ -42,46 +82,6 @@
       "description": "Mieszkaniec jednego z bloków w Opolu upadł i nie mógł się podnieść. Zza drzwi było tylko słychać jęki, które sąsiadka 65-latka określiła jako \"agonalne\". By dostać się do poszkodowanego policjanci przeszli między balkonami na trzecim piętrze. Opublikowali nagranie z akcji ratunkowej.",
       "originalTitle": "\"Co się dzieje panie kochany?\". Policjanci po balkonach weszli do mieszkania rannego mężczyzny",
       "originalDescription": "Mieszkaniec jednego z bloków w Opolu upadł i nie mógł się podnieść. Zza drzwi było tylko słychać jęki, które sąsiadka 65-latka określiła jako \"agonalne\". By dostać się do poszkodowanego policjanci przeszli między balkonami na trzecim piętrze. Opublikowali nagranie z akcji ratunkowej."
-    },
-    {
-      "title": "To najsłynniejsze iluminacje w Hiszpanii. Nie wszyscy są zadowoleni",
-      "link": "https://tvn24.pl/swiat/hiszpania-iluminacje-w-vigo-przyciagna-miliony-turystow-mieszkancy-nie-sa-zadowoleni-st8815439?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 12:44:58 GMT",
-      "description": "Iluminacje świąteczne w hiszpańskim Vigo w tym roku mogą przyciągnąć nawet sześć milionów turystów. Nie wszyscy cieszą się jednak z ogromnego sukcesu przedsięwzięcia. Mieszkańcy miasta narzekają na tłumy odwiedzających, nadmiar świateł i muzyki.",
-      "originalTitle": "To najsłynniejsze iluminacje w Hiszpanii. Nie wszyscy są zadowoleni",
-      "originalDescription": "Iluminacje świąteczne w hiszpańskim Vigo w tym roku mogą przyciągnąć nawet sześć milionów turystów. Nie wszyscy cieszą się jednak z ogromnego sukcesu przedsięwzięcia. Mieszkańcy miasta narzekają na tłumy odwiedzających, nadmiar świateł i muzyki."
-    },
-    {
-      "title": "Wicepremier oskarżana o korupcję. Siedziba rządu obrzucona koktajlami Mołotowa",
-      "link": "https://tvn24.pl/swiat/albania-siedziba-rzadu-obrzucona-koktajlami-molotowa-protest-w-tiranie-st8815289?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 12:27:19 GMT",
-      "description": "Protestujący obrzucili koktajlami Mołotowa budynek, w którym mieści się kancelaria premiera Albanii Edi Ramy. W stolicy kraju, Tiranie, doszło do manifestacji. Powodem są zarzuty korupcyjne wobec wicepremier i minister infrastruktury.",
-      "originalTitle": "Wicepremier oskarżana o korupcję. Siedziba rządu obrzucona koktajlami Mołotowa",
-      "originalDescription": "Protestujący obrzucili koktajlami Mołotowa budynek, w którym mieści się kancelaria premiera Albanii Edi Ramy. W stolicy kraju, Tiranie, doszło do manifestacji. Powodem są zarzuty korupcyjne wobec wicepremier i minister infrastruktury."
-    },
-    {
-      "title": "Gigant Big Tech wykrył tysiące podań od szpiegów. \"Farmy laptopów\"",
-      "link": "https://tvn24.pl/biznes/najnowsze/szpiedzy-korei-polnocnej-czaja-sie-na-firmy-big-tech-amazon-odrzucil-1800-podan-st8815245?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 12:26:14 GMT",
-      "description": "Amazon zablokował ponad 1800 podań o pracę od osób podejrzanych o bycie agentami Korei Północnej. Aplikujący ubiegali się o stanowiska w dziale IT - poinformowała BBC.",
-      "originalTitle": "Gigant Big Tech wykrył tysiące podań od szpiegów. \"Farmy laptopów\"",
-      "originalDescription": "Amazon zablokował ponad 1800 podań o pracę od osób podejrzanych o bycie agentami Korei Północnej. Aplikujący ubiegali się o stanowiska w dziale IT - poinformowała BBC."
-    },
-    {
-      "title": "Jechał pod prąd i potrącił pięć osób. Wyszedł z aresztu",
-      "link": "https://tvn24.pl/kujawsko-pomorskie/chelmno-wjechal-w-grupe-osob-na-chodniku-wyszedl-z-aresztu-st8815175?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 12:26:00 GMT",
-      "description": "Zbigniew W., który potrącił w lipcu pięć osób na jednej z ulic w Chełmnie (Kujawsko-Pomorskie), wyszedł z aresztu. Wpływ na tę decyzję miał stan zdrowia 56-latka i opinia psychiatryczna. Biegli uznali, że w trakcie wypadku miał ograniczoną poczytalność.",
-      "originalTitle": "Jechał pod prąd i potrącił pięć osób. Wyszedł z aresztu",
-      "originalDescription": "Zbigniew W., który potrącił w lipcu pięć osób na jednej z ulic w Chełmnie (Kujawsko-Pomorskie), wyszedł z aresztu. Wpływ na tę decyzję miał stan zdrowia 56-latka i opinia psychiatryczna. Biegli uznali, że w trakcie wypadku miał ograniczoną poczytalność."
-    },
-    {
-      "title": "Strażacy jechali do wycieku gazu. Po drodze mieli wypadek",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-strazacy-jechali-na-akcje-po-drodze-mieli-wypadek-na-ulicy-gen-augusta-emila-fieldorfa-nila-st8815363?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 12:09:08 GMT",
-      "description": "Strażacy jechali do rozszczelnionej instalacji gazowej. Po drodze - niedaleko miejsca docelowego - wóz strażacki zderzył się z autem osobowym. Na jezdnię wyciekło paliwo.",
-      "originalTitle": "Strażacy jechali do wycieku gazu. Po drodze mieli wypadek",
-      "originalDescription": "Strażacy jechali do rozszczelnionej instalacji gazowej. Po drodze - niedaleko miejsca docelowego - wóz strażacki zderzył się z autem osobowym. Na jezdnię wyciekło paliwo."
     }
   ]
 }
