@@ -1,30 +1,78 @@
 {
-  "lastUpdate": "2025-12-23T10:07:22.028Z",
+  "lastUpdate": "2025-12-23T10:40:57.839Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Minister zapowiada zmiany dla pracowników",
+      "title": "Iwo Kitzinger opowiada o swojej karierze",
+      "link": "https://tvn24.pl/polska/iwo-kitzinger-wielki-zmarnowany-talent-spowiedz-bylego-reprezentanta-st8814032?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 10:33:01 GMT",
+      "description": "• Nazywa się Iwo Kitzinger, a przez chwilę był Marcinem Kosińskim.\n• Był wielkim i niespełnionym koszykarskim talentem.\n• Potrafił brylować na boisku.\n• Potrafił szokować poza boiskiem.\n• Pozował nago.\n• Był aresztowany.\n• Nazywano go \"polskim Dennisem Rodmanem\".\n• Iwo Kitzinger rozlicza się ze swoją przeszłością.\n• Opowiada, jak pokonał życiowe zakręty.",
+      "originalTitle": "Iwo Kitzinger, wielki zmarnowany talent. Spowiedź byłego reprezentanta",
+      "originalDescription": "Nazywa się Iwo Kitzinger, a przez chwilę był Marcinem Kosińskim. Wielki i niespełniony koszykarski talent. Potrafił brylować na boisku i szokować poza nim. Pozował nago, był aresztowany, nazywano go \"polskim Dennisem Rodmanem\". Kitzinger rozlicza się ze swoją przeszłością i opowiada, jak pokonał życiowe zakręty."
+    },
+    {
+      "title": "Środki na trawienie i ich skutki uboczne",
+      "link": "https://tvn24.pl/zdrowie/srodki-na-zgage-nadkwasnosc-zoladka-zaparcia-maja-pomoc-a-moga-zaszkodzic-lekarz-radzi-jak-walczyc-z-przejedzeniem-st8814944?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 10:19:12 GMT",
+      "description": "• Na wątrobę, na trawienie, na zaparcia, na zgagę, na biegunki ludzie często kupują preparaty.\n• Przed świętami w aptekach ustawiają się kolejki po takie preparaty.\n• Ludzie zaopatrują się w te preparaty prewencyjnie.\n• Ludzie przyjmują te preparaty prewencyjnie.\n• Gastroenterolog rozwiewa wątpliwości dotyczące przyjmowania tych środków.\n• Gastroenterolog daje zalecenie, aby stosować umiar.",
+      "originalTitle": "Kłopoty z trawieniem? Te środki mają pomóc, ale mogą zaszkodzić",
+      "originalDescription": "Na wątrobę, na trawienie, na zaparcia, na zgagę, na biegunki… Po takie preparaty zawsze przed świętami ustawiają się w aptekach kolejki. Czy prewencyjne zaopatrywanie się, a zwłaszcza prewencyjne przyjmowanie takich środków, to dobra droga w walce ze skutkami przejedzenia? Gastroenterolog rozwiewa wątpliwości i daje zalecenie: przede wszystkim umiar."
+    },
+    {
+      "title": "Święta w Watykanie z papieżem Leonem XIV",
+      "link": "https://tvn24.pl/swiat/boze-narodzenie-w-watykanie-pierwsze-swieta-papieza-leona-xiv-jak-beda-przebiegaly-st8814991?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 10:16:04 GMT",
+      "description": "• Papież Leon XIV po raz pierwszy będzie przewodniczył uroczystościom Bożego Narodzenia w trakcie swojego pontyfikatu.\n• Do obchodów wprowadził kilka zmian.\n• Uroczystości odbędą się w Watykanie.",
+      "originalTitle": "Pierwsze święta papieża Leona XIV w Watykanie. Jak będą przebiegały",
+      "originalDescription": "Papież Leon XIV po raz pierwszy będzie przewodniczył uroczystościom Bożego Narodzenia w trakcie swojego pontyfikatu. Do obchodów wprowadził kilka zmian. Jak będą przebiegały święta w Watykanie?"
+    },
+    {
+      "title": "Rosja atakuje Ukrainę, Polska poderwała myśliwce",
+      "link": "https://tvn24.pl/swiat/rosja-atakuje-ukraine-polska-poderwala-mysliwce-st8814572?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 06:18:28 GMT",
+      "description": "Dowództwo Operacyjne Rodzajów Sił Zbrojnych poinformowało we wtorek rano o poderwaniu lotnictwa w związku z atakiem rakietowym na zachodnie obwody Ukrainy.",
+      "originalTitle": "Rosja atakuje Ukrainę, Polska poderwała myśliwce",
+      "originalDescription": "Dowództwo Operacyjne Rodzajów Sił Zbrojnych poinformowało we wtorek rano o poderwaniu lotnictwa w związku z atakiem rakietowym na zachodnie obwody Ukrainy."
+    },
+    {
+      "title": "Uszkodził radiowóz i kilka samochodów, zaatakował policjanta",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/lelice-uszkodzil-radiowoz-i-kilka-samochodow-zaatakowal-policjanta-st8814821?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 10:09:38 GMT",
+      "description": "W Lelicach (województwo mazowieckie) policjanci obezwładnili i zatrzymali agresywnego, pijanego mężczyznę, który zniszczył kilka zaparkowanych samochodów. W trakcie policyjnych czynności 38-latek \"naruszył nietykalność funkcjonariusza\".",
+      "originalTitle": "Uszkodził radiowóz i kilka samochodów, zaatakował policjanta",
+      "originalDescription": "W Lelicach (województwo mazowieckie) policjanci obezwładnili i zatrzymali agresywnego, pijanego mężczyznę, który zniszczył kilka zaparkowanych samochodów. W trakcie policyjnych czynności 38-latek \"naruszył nietykalność funkcjonariusza\"."
+    },
+    {
+      "title": "Krakowska filharmonia będzie miała nową siedzibę. W grze jest pięć projektów",
+      "link": "https://tvn24.pl/krakow/krakowska-filharmonia-bedzie-miala-nowa-siedzibe-w-grze-jest-piec-projektow-st8814984?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 10:09:34 GMT",
+      "description": "W marcu 2026 roku dowiemy się, jak będzie wyglądała nowa siedziba Filharmonii im. Karola Szymanowskiego w Krakowie. Do drugiego etapu międzynarodowego konkursu architektoniczno-urbanistycznego na projekt budynku zakwalifikowało się pięć z 77 propozycji.",
+      "originalTitle": "Krakowska filharmonia będzie miała nową siedzibę. W grze jest pięć projektów",
+      "originalDescription": "W marcu 2026 roku dowiemy się, jak będzie wyglądała nowa siedziba Filharmonii im. Karola Szymanowskiego w Krakowie. Do drugiego etapu międzynarodowego konkursu architektoniczno-urbanistycznego na projekt budynku zakwalifikowało się pięć z 77 propozycji."
+    },
+    {
+      "title": "\"To jest godność pracy\". Ministra zapowiada zmiany dla pracowników",
       "link": "https://tvn24.pl/biznes/dla-pracownika/to-jest-godnosc-pracy-ministra-agnieszka-dziemianowicz-bak-o-wejsciu-w-zycie-ustawy-stazowej-st8815018?source=rss",
       "pubDate": "Tue, 23 Dec 2025 10:00:24 GMT",
-      "description": "• Od 1 stycznia w życie wchodzi tak zwana ustawa stażowa.\n• Ustawa ta pozwoli zaliczać do stażu pracy okresy przepracowane na umowach zlecenie.\n• Ustawa ta pozwoli zaliczać do stażu pracy okresy przepracowane w jednoosobowej działalności gospodarczej.\n• Ustawa ta pozwoli zaliczać do stażu pracy okresy przepracowane podczas pracy za granicą.\n• Ministra Rodziny, Pracy i Polityki Społecznej przypomniała o wejściu w życie ustawy we wtorek.\n• Ministrem Rodziny, Pracy i Polityki Społecznej jest Agnieszka Dziemianowicz-Bąk.",
+      "description": "Od 1 stycznia w życie wchodzi tak zwana ustawa stażowa, czyli ustawa, która pozwoli zaliczać do stażu pracy okresy przepracowane na umowach zlecenie, jednoosobowej działalności gospodarczej czy podczas pracy za granicą - przypomniała we wtorek ministra Rodziny, Pracy i Polityki Społecznej, Agnieszka Dziemianowicz-Bąk.",
       "originalTitle": "\"To jest godność pracy\". Ministra zapowiada zmiany dla pracowników",
       "originalDescription": "Od 1 stycznia w życie wchodzi tak zwana ustawa stażowa, czyli ustawa, która pozwoli zaliczać do stażu pracy okresy przepracowane na umowach zlecenie, jednoosobowej działalności gospodarczej czy podczas pracy za granicą - przypomniała we wtorek ministra Rodziny, Pracy i Polityki Społecznej, Agnieszka Dziemianowicz-Bąk."
     },
     {
-      "title": "Wypadek samolotu marynarki, ofiary w tym dziecko",
+      "title": "Katastrofa samolotu marynarki wojennej. Wśród ofiar dwuletnie dziecko",
       "link": "https://tvn24.pl/swiat/usa-katastrofa-samolotu-meksykanskiej-marynarki-niedaleko-galveston-piec-osob-nie-zyje-st8814642?source=rss",
       "pubDate": "Tue, 23 Dec 2025 09:55:24 GMT",
-      "description": "• Pięć osób zginęło w katastrofie samolotu.\n• Ofiarami są osoby w tym dwuletnie dziecko.\n• Katastrofa miała miejsce u wybrzeży Teksasu.\n• Samolot należał do meksykańskiej marynarki wojennej.\n• Maszyna wykonywała lot w ramach misji medycznej.",
+      "description": "Pięć osób, w tym dwuletnie dziecko, zginęło w katastrofie samolotu meksykańskiej marynarki wojennej u wybrzeży Teksasu. Maszyna wykonywała lot w ramach misji medycznej.",
       "originalTitle": "Katastrofa samolotu marynarki wojennej. Wśród ofiar dwuletnie dziecko",
       "originalDescription": "Pięć osób, w tym dwuletnie dziecko, zginęło w katastrofie samolotu meksykańskiej marynarki wojennej u wybrzeży Teksasu. Maszyna wykonywała lot w ramach misji medycznej."
     },
     {
-      "title": "Ostrzeżenia drogowe w 14 województwach",
+      "title": "Niebezpiecznie na drogach. Ostrzeżenia w 15 województwach",
       "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-we-wtorek-23-grudnia-2025-trudne-warunki-na-drogach-ostrzezenia-st8814539?source=rss",
       "pubDate": "Tue, 23 Dec 2025 05:30:41 GMT",
       "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia meteorologiczne. W wielu regionach kraju aura będzie wymagała naszej szczególnej uwagi.",
-      "originalTitle": "Niebezpiecznie na drogach. Ostrzeżenia w 14 województwach",
+      "originalTitle": "Niebezpiecznie na drogach. Ostrzeżenia w 15 województwach",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia meteorologiczne. W wielu regionach kraju aura będzie wymagała naszej szczególnej uwagi."
     },
     {
@@ -34,54 +82,6 @@
       "description": "Tuż przed świętami Bożego Narodzenia część produktów spożywczych potaniała - mniej zapłacimy między innymi za karpia, ziemniaki czy marchew, ale więcej za czekoladę - wynika z wtorkowych danych Głównego Urzędu Statystycznego (GUS). Tegoroczny wzrost cen żywności jest umiarkowany, choć różnice pomiędzy poszczególnymi produktami mogą być znaczące.",
       "originalTitle": "\"Może być znacznie taniej lub sporo drożej\". Nowe dane przed świętami",
       "originalDescription": "Tuż przed świętami Bożego Narodzenia część produktów spożywczych potaniała - mniej zapłacimy między innymi za karpia, ziemniaki czy marchew, ale więcej za czekoladę - wynika z wtorkowych danych Głównego Urzędu Statystycznego (GUS). Tegoroczny wzrost cen żywności jest umiarkowany, choć różnice pomiędzy poszczególnymi produktami mogą być znaczące."
-    },
-    {
-      "title": "USA. W święta w Kalifornii może dojść do katastrofalnej powodzi",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-w-trakcie-swiat-moze-dojsc-do-katastrofalnej-powodzi-st8814737?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 09:42:21 GMT",
-      "description": "Ponad pięć milionów osób w południowej części Kalifornii zostało objętych najwyższymi ostrzeżeniami przed powodzią. Nad region zbliża się burza, której towarzyszyć będą ekstremalne opady. Najwięcej deszczu ma spaść w Wigilię.",
-      "originalTitle": "USA. W święta w Kalifornii może dojść do katastrofalnej powodzi",
-      "originalDescription": "Ponad pięć milionów osób w południowej części Kalifornii zostało objętych najwyższymi ostrzeżeniami przed powodzią. Nad region zbliża się burza, której towarzyszyć będą ekstremalne opady. Najwięcej deszczu ma spaść w Wigilię."
-    },
-    {
-      "title": "\"Gdzie się ukryć\". Co znajdziemy w nowej aplikacji",
-      "link": "https://tvn24.pl/polska/komendant-glowny-panstwowej-strazy-pozarnej-wojciech-kruczek-o-aplikacji-gdzie-sie-ukryc-znajdziemy-tam-wszystkie-podziemne-miejsca-ktore-moga-pelnic-funkcje-tymczasowego-schronienia-st8814675?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 09:39:51 GMT",
-      "description": "W aplikacji \"Gdzie się ukryć\" znajdziemy głównie obiekty przejść podziemnych, podziemnych węzłów komunikacyjnych, garaży oraz w dużej części piwnic - mówił w TVN24 Wojciech Kruczek, Komendant Główny Państwowej Straży Pożarnej. Skomentował też doniesienia o problemach technicznych w związku z aplikacją.",
-      "originalTitle": "\"Gdzie się ukryć\". Co znajdziemy w nowej aplikacji",
-      "originalDescription": "W aplikacji \"Gdzie się ukryć\" znajdziemy głównie obiekty przejść podziemnych, podziemnych węzłów komunikacyjnych, garaży oraz w dużej części piwnic - mówił w TVN24 Wojciech Kruczek, Komendant Główny Państwowej Straży Pożarnej. Skomentował też doniesienia o problemach technicznych w związku z aplikacją."
-    },
-    {
-      "title": "Samochód dachował w rowie, pięć osób w szpitalu. Mają od 16 do 20 lat",
-      "link": "https://tvn24.pl/krakow/sutkow-samochod-dachowal-w-rowie-pieciu-mlodych-mezczyzn-w-szpitalu-st8814658?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 09:30:35 GMT",
-      "description": "Pięcioro młodych mężczyzn w wieku od 16 do 20 lat trafiło do szpitala po dachowaniu samochodu w Sutkowie (Małopolskie). Wszyscy podróżowali jednym samochodem, który w środku nocy wpadł do przydrożnego rowu.",
-      "originalTitle": "Samochód dachował w rowie, pięć osób w szpitalu. Mają od 16 do 20 lat",
-      "originalDescription": "Pięcioro młodych mężczyzn w wieku od 16 do 20 lat trafiło do szpitala po dachowaniu samochodu w Sutkowie (Małopolskie). Wszyscy podróżowali jednym samochodem, który w środku nocy wpadł do przydrożnego rowu."
-    },
-    {
-      "title": "Te auta napędzają rynek. Sprzedaż rośnie kolejny miesiąc z rzędu",
-      "link": "https://tvn24.pl/biznes/moto/samochody-elektryczne-napedzaja-rynek-sprzedaz-rosnie-kolejny-miesiac-z-rzedu-st8814904?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 09:30:06 GMT",
-      "description": "Sprzedaż nowych samochodów w Europie wzrosła w listopadzie rok do roku już piąty miesiąc z rzędu. Głównym czynnikiem tego trendu był dynamiczny wzrost rejestracji pojazdów elektrycznych (EV) na kluczowych rynkach, takich jak Niemcy, Włochy i Hiszpania - wynika z opublikowanych we wtorek danych Europejskiego Stowarzyszenia Producentów Samochodów (ACEA).",
-      "originalTitle": "Te auta napędzają rynek. Sprzedaż rośnie kolejny miesiąc z rzędu",
-      "originalDescription": "Sprzedaż nowych samochodów w Europie wzrosła w listopadzie rok do roku już piąty miesiąc z rzędu. Głównym czynnikiem tego trendu był dynamiczny wzrost rejestracji pojazdów elektrycznych (EV) na kluczowych rynkach, takich jak Niemcy, Włochy i Hiszpania - wynika z opublikowanych we wtorek danych Europejskiego Stowarzyszenia Producentów Samochodów (ACEA)."
-    },
-    {
-      "title": "13-latek zaatakowany w parku. Podejrzani mają 16 lat",
-      "link": "https://tvn24.pl/lublin/lublin-13-latek-zaatakowany-w-parku-podejrzani-maja-16-lat-st8814867?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 09:25:33 GMT",
-      "description": "Dwaj nieznajomi podeszli do nastolatków stojących przy wejściu do Ogrodu Saskiego w Lublinie i zaczęli im grozić. Byli agresywni, ukradli jednemu z chłopców kilkadziesiąt złotych. Policja zatrzymała dwóch szesnastolatków.",
-      "originalTitle": "13-latek zaatakowany w parku. Podejrzani mają 16 lat",
-      "originalDescription": "Dwaj nieznajomi podeszli do nastolatków stojących przy wejściu do Ogrodu Saskiego w Lublinie i zaczęli im grozić. Byli agresywni, ukradli jednemu z chłopców kilkadziesiąt złotych. Policja zatrzymała dwóch szesnastolatków."
-    },
-    {
-      "title": "Kto powinien zastąpić Trumpa? Erika Kirk nie ma wątpliwości",
-      "link": "https://tvn24.pl/swiat/kto-powinien-zastapic-trumpa-erika-kirk-nie-ma-watpliwosci-st8814530?source=rss",
-      "pubDate": "Tue, 23 Dec 2025 09:25:01 GMT",
-      "description": "Za oceanem coraz głośniej rozbrzmiewa pytanie, kto będzie następcą Donalda Trumpa i gwarantem tego, ze republikanie utrzymają się przy władzy. Chętnych nie brakuje: J.D. Vance, Marco Rubio, a może któryś z synów urzędującego prezydenta? Wątpliwości nie ma wdowa po tragicznie zamordowanym skrajnie konserwatywnym aktywiście Charlie Kirku, która stanęła na czele organizacji skupiającej miliony młodych Amerykanów. Materiał \"Faktów o świecie\".",
-      "originalTitle": "Kto powinien zastąpić Trumpa? Erika Kirk nie ma wątpliwości",
-      "originalDescription": "Za oceanem coraz głośniej rozbrzmiewa pytanie, kto będzie następcą Donalda Trumpa i gwarantem tego, ze republikanie utrzymają się przy władzy. Chętnych nie brakuje: J.D. Vance, Marco Rubio, a może któryś z synów urzędującego prezydenta? Wątpliwości nie ma wdowa po tragicznie zamordowanym skrajnie konserwatywnym aktywiście Charlie Kirku, która stanęła na czele organizacji skupiającej miliony młodych Amerykanów. Materiał \"Faktów o świecie\"."
     }
   ]
 }
