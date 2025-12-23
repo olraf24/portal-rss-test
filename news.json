@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2025-12-23T19:34:21.161Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2025-12-23T20:06:44.533Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Tusk komentuje tankowanie",
+      "link": "https://tvn24.pl/biznes/z-kraju/donald-tusk-pisowcy-podniesli-krzyk-spadlo-jeszcze-bardziej-st8815409?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 14:11:40 GMT",
+      "description": "• Donald Tusk odniósł się do cen benzyny na stacjach paliw.\n• Ceny benzyny są nawet niższe od poziomu, który obiecywał w trakcie kampanii wyborczej.\n• Prawicowi politycy uważają, że słowa szefa rządu nie pokrywają się z tym, co widać na rynku.\n• We wtorek wieczorem szef rządu napisał jeszcze jeden komentarz.\n• Komentarz został skierowany bezpośrednio do prezes Prawa i Sprawiedliwości Jarosława Kaczyńskiego.",
+      "originalTitle": "Tusk: co ty Jarku wiesz o tankowaniu",
+      "originalDescription": "Donald Tusk odniósł się do cen benzyny na stacjach paliw. Według premiera są nawet niższe od poziomu, który obiecywał w trakcie kampanii wyborczej. Zdaniem prawicowych polityków słowa szefa rządu nie pokrywają się z tym, co widać na rynku. We wtorek wieczorem szef rząd napisał jeszcze jeden komentarz, tym razem już skierowany bezpośrednio do prezes Prawa i Sprawiedliwości Jarosława Kaczyńskiego."
+    },
+    {
+      "title": "Wójcik komentuje decyzję Nawrockiego",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-zrezygnowal-z-zapalenia-swiec-chanukowych-w-palacu-prezydenckim-michal-wojcik-troche-mnie-to-zdziwilo-no-ale-jest-lokatorem-st8816256?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 19:56:48 GMT",
+      "description": "• Karol Nawrocki jest lokatorem Pałacu Prezydenckiego.\n• Karol Nawrocki decyduje o tym, jakie obrzędy się w Pałacu Prezydenckim obchodzi.\n• Poseł Prawa i Sprawiedliwości to Michał Wójcik.\n• Michał Wójcik skomentował brak zapalonych w tym roku przez głowę państwa świec chanukowych w programie \"Kropka nad i\".\n• Zdaniem Tomasza Treli, prezydent uśmiecha się do skrajnych prawicowych partii.",
+      "originalTitle": "Wójcik w \"Kropce nad i\" o decyzji Nawrockiego: trochę mnie zdziwiła, no ale jest lokatorem",
+      "originalDescription": "Karol Nawrocki \"jest lokatorem Pałacu Prezydenckiego\" i to on decyduje o tym, jakie obrzędy się w nim obchodzi. Tak poseł Prawa i Sprawiedliwości Michał Wójcik skomentował w \"Kropce nad i\" brak zapalonych w tym roku przez głowę państwa świec chanukowych. Zdaniem Tomasza Treli prezydent \"uśmiecha się do skrajnych prawicowych partii\"."
+    },
+    {
+      "title": "Fiskus sprawdza przesyłki, nieprawidłowości w 20 procent",
+      "link": "https://tvn24.pl/biznes/handel/fiskus-zabral-sie-za-przesylki-nieprawidlowosci-w-co-piatej-st8816114?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 19:50:00 GMT",
+      "description": "• Krajowa Administracja Skarbowa przeprowadziła kontrolę tanich przesyłek spoza Unii Europejskiej.\n• Nieprawidłowości stwierdzono w co piątym towarze.\n• Najczęściej nieprawidłowości dotyczyły bezpieczeństwa produktu.\n• Nieprawidłowości dotyczyły również oznaczeń.",
+      "originalTitle": "Fiskus zabrał się za przesyłki. Nieprawidłowości w co piątej",
+      "originalDescription": "Krajowa Administracja Skarbowa przeprowadziła kontrolę tanich przesyłek spoza Unii Europejskiej. Nieprawidłowości stwierdzono w co piątym towarze - najczęściej dotyczyły bezpieczeństwa produktu i oznaczeń."
+    },
+    {
+      "title": "Utracono kontakt z libijskim samolotem",
+      "link": "https://tvn24.pl/swiat/turcja-utracono-kontakt-z-samolotem-niedlugo-po-starcie-z-ankary-na-pokladzie-dowodzacy-libijska-armia-st8816257?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 19:30:30 GMT",
+      "description": "Odrzutowiec, którym podróżował szef sztabu libijskiej armii Mohammed Ali Ahmed Al-Haddad i cztery inne osoby, utracił łączność radiową - przekazały tureckie władze. Samolot leciał z Ankary do Trypolisu. Reuters podaje, że lotnisko w stolicy Turcji przekierowuje inne loty.",
+      "originalTitle": "Utracono kontakt z samolotem. Na pokładzie dowodzący libijską armią",
+      "originalDescription": "Odrzutowiec, którym podróżował szef sztabu libijskiej armii Mohammed Ali Ahmed Al-Haddad i cztery inne osoby, utracił łączność radiową - przekazały tureckie władze. Samolot leciał z Ankary do Trypolisu. Reuters podaje, że lotnisko w stolicy Turcji przekierowuje inne loty."
+    },
+    {
+      "title": "Dymisja Cenckiewicza nie doszła do skutku",
+      "link": "https://tvn24.pl/polska/onet-o-podziale-w-palacu-prezydenckim-slawomir-cenckiewicz-szef-bbn-mial-byc-juz-na-wylocie-st8816141?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 19:24:10 GMT",
+      "description": "• Szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz był o krok od utraty stanowiska.\n• Ustalenia dotyczące sytuacji Sławomira Cenckiewicza pochodzą z portalu Onet.\n• Portal Onet opisał podział, jaki miał powstać wewnątrz kancelarii prezydenta.\n• Wewnątrz kancelarii prezydenta miało dojść do poważnego podziału.\n• Sławomir Cenckiewicz miał być uratowany w ostatniej chwili przed utratą stanowiska.\n• Okoliczności, które miały uratować szefa BBN, zostały opisane przez portal Onet.",
+      "originalTitle": "Miało być \"o krok od dymisji\" Cenckiewicza. Dlaczego do niej nie doszło?",
+      "originalDescription": "Szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz był o krok od utraty stanowiska – ustalił Onet. Portal opisał podział, jaki miał powstać wewnątrz kancelarii prezydenta oraz co w ostatniej chwili miało uratować szefa BBN."
+    },
+    {
+      "title": "Polski resort skomentował sytuację z Chinami",
+      "link": "https://tvn24.pl/biznes/handel/chiny-uderzaja-w-europe-jest-komunikat-polskiego-resortu-st8816168?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 19:18:00 GMT",
+      "description": "Po wprowadzeniu przez Chiny ceł na unijne produkty mleczarskie Ministerstwo Rolnictwa i Rozwoju Wsi zapewnia, że analizuje ich wpływ na polskich producentów. Resort dodaje, że ich interesy \"są uwzględniane w działaniach podejmowanych na forum Unii Europejskiej\".",
+      "originalTitle": "Chiny uderzają w Europę. Jest komunikat polskiego resortu",
+      "originalDescription": "Po wprowadzeniu przez Chiny ceł na unijne produkty mleczarskie Ministerstwo Rolnictwa i Rozwoju Wsi zapewnia, że analizuje ich wpływ na polskich producentów. Resort dodaje, że ich interesy \"są uwzględniane w działaniach podejmowanych na forum Unii Europejskiej\"."
+    },
+    {
+      "title": "Zanieczyszczenie powietrza w mieście",
+      "link": "https://tvn24.pl/tvnmeteo/smog/czarnogora-miasto-skapane-w-smogu-nie-wychodzilam-z-domu-od-tygodnia-st8816205?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 19:16:59 GMT",
+      "description": "Smog spowił miasto Pljevlja na północy Czarnogóry. We wtorek poziom zanieczyszczeń był tak wysoki, że władze apelowały do mieszkańców o pozostanie w domach.",
+      "originalTitle": "Miasto skąpane w smogu. \"Nie wychodziłam z domu od tygodnia\"",
+      "originalDescription": "Smog spowił miasto Pljevlja na północy Czarnogóry. We wtorek poziom zanieczyszczeń był tak wysoki, że władze apelowały do mieszkańców o pozostanie w domach."
+    },
+    {
+      "title": "Minister finansów Andrzej Domański podał, ile wydał na święta",
+      "link": "https://tvn24.pl/biznes/pieniadze/minister-finansow-andrzej-domanski-w-tvn24-fakty-po-faktach-z-23-grudnia-2025-st8816195?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 18:46:26 GMT",
+      "description": "Coś koło chyba 700 złotych. No ale z żoną się oczywiście dzielimy - stwierdził pytany o wydatki świąteczne w \"Faktach po Faktach\" w TVN24 Andrzej Domański. Minister finansów i gospodarki mówił również o inflacji, cenach paliw i współpracy rządu z prezydentem Karolem Nawrockim.",
+      "originalTitle": "Minister finansów Andrzej Domański podał, ile wydał na święta",
+      "originalDescription": "Coś koło chyba 700 złotych. No ale z żoną się oczywiście dzielimy - stwierdził pytany o wydatki świąteczne w \"Faktach po Faktach\" w TVN24 Andrzej Domański. Minister finansów i gospodarki mówił również o inflacji, cenach paliw i współpracy rządu z prezydentem Karolem Nawrockim."
+    },
+    {
+      "title": "Porwał 9-letniego syna byłej partnerki. Usłyszał zarzut i został aresztowany",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-zarzut-usilowania-zabojstwa-dla-partnera-matki-porwanego-9-latka-mezczyzna-zostal-aresztowany-st8815478?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 12:53:21 GMT",
+      "description": "We wtorek przeprowadzono czynności prokuratorskie z udziałem mężczyzny, który dwa dni temu uprowadził z domu 9-letniego syna byłej partnerki. Prokurator postawił 36-letniemu obywatelowi Ukrainy kilka zarzutów, w tym najpoważniejszy: usiłowania zabójstwa. Mężczyzna został tymczasowo aresztowany.",
+      "originalTitle": "Porwał 9-letniego syna byłej partnerki. Usłyszał zarzut i został aresztowany",
+      "originalDescription": "We wtorek przeprowadzono czynności prokuratorskie z udziałem mężczyzny, który dwa dni temu uprowadził z domu 9-letniego syna byłej partnerki. Prokurator postawił 36-letniemu obywatelowi Ukrainy kilka zarzutów, w tym najpoważniejszy: usiłowania zabójstwa. Mężczyzna został tymczasowo aresztowany."
+    },
+    {
+      "title": "Zmiany dotyczące ksiąg wieczystych. Żurek: ważne dla obywateli",
+      "link": "https://tvn24.pl/biznes/z-kraju/ksiegi-wieczyste-zmiany-minister-sprawiedliwosci-waldemar-zurek-wazne-dla-obywateli-st8816075?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 18:37:00 GMT",
+      "description": "Rząd przyjął projekt noweli ustawy o księgach wieczystych i hipotece. Możliwe będzie pobieranie dokumentów elektronicznie w aplikacji mObywatel - poinformował minister sprawiedliwości Waldemar Żurek.",
+      "originalTitle": "Zmiany dotyczące ksiąg wieczystych. Żurek: ważne dla obywateli",
+      "originalDescription": "Rząd przyjął projekt noweli ustawy o księgach wieczystych i hipotece. Możliwe będzie pobieranie dokumentów elektronicznie w aplikacji mObywatel - poinformował minister sprawiedliwości Waldemar Żurek."
+    }
+  ]
 }
