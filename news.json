@@ -1,21 +1,53 @@
 {
-  "lastUpdate": "2025-12-24T07:08:35.641Z",
+  "lastUpdate": "2025-12-24T07:38:17.488Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy, 6 ofiar śmiertelnych",
-      "link": "https://tvn24.pl/opole/ziebice-zderzyly-sie-dwa-auta-szesc-osob-nie-zyje-st8816527?source=rss",
-      "pubDate": "Wed, 24 Dec 2025 07:04:11 GMT",
-      "description": "• Sześć osób zginęło w wypadku drogowym w Zielęcicach.\n• Wypadek drogowy miał miejsce w województwie Opolskim.\n• Zderzyły się tam dwa auta.\n• Wypadek miał miejsce na skrzyżowaniu dróg krajowych.\n• Numer drogi krajowej, na której doszło do wypadku to 39.\n• Numer drugiej drogi krajowej, na której doszło do wypadku to 94.\n• Skrzyżowanie dróg krajowych nr 39 i 94 jest zablokowane.",
-      "originalTitle": "Zderzyły się dwa auta, sześć osób nie żyje",
-      "originalDescription": "Sześć osób zginęło w wypadku drogowym w Zielęcicach (Opolskie). Zderzyły się tam dwa auta. Skrzyżowanie dróg krajowych nr 39 i 94 jest zablokowane."
+      "title": "Wybuch w Moskwie",
+      "link": "https://tvn24.pl/swiat/rosja-moskwa-w-eksplozji-zginely-trzy-osoby-drugie-takie-zdarzenie-w-tygodniu-st8816447?source=rss",
+      "pubDate": "Wed, 24 Dec 2025 07:31:31 GMT",
+      "description": "• Dwóch funkcjonariuszy policji drogowej jest wśród ofiar eksplozji.\n• Eksplozja miała miejsce w południowej części Moskwy.\n• Zdarzenie miało miejsce na tej samej ulicy, gdzie na początku tygodnia doszło do wybuchu.\n• W wyniku wcześniejszego wybuchu zginął rosyjski generał.",
+      "originalTitle": "Kolejny śmiertelny wybuch w Moskwie. Na tej samej ulicy",
+      "originalDescription": "Dwóch funkcjonariuszy policji drogowej jest wśród ofiar eksplozji w południowej części Moskwy. Do zdarzenia doszło na tej samej ulicy, gdzie na początku tygodnia w wyniku wybuchu zginął rosyjski generał."
     },
     {
-      "title": "Mężczyzna podejrzany o znęcanie nad rodzicami",
+      "title": "Sprawa 7 tysięcy wiz, 11 oskarżonych",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/bydgoszcz-ponad-siedem-tysiecy-nielegalnie-zdobytych-wiz-11-oskarzonych-st8816261?source=rss",
+      "pubDate": "Wed, 24 Dec 2025 07:18:54 GMT",
+      "description": "Na podstawie wniosków, które składali wydano ponad siedem tysięcy cudzoziemców z blisko trzydziestu krajów nielegalnie zdobyło polskie wizy. W tej sprawie oskarżonych jest 11 osób.",
+      "originalTitle": "Ponad siedem tysięcy wiz, 11 oskarżonych",
+      "originalDescription": "Na podstawie wniosków, które składali wydano ponad siedem tysięcy cudzoziemców z blisko trzydziestu krajów nielegalnie zdobyło polskie wizy. W tej sprawie oskarżonych jest 11 osób."
+    },
+    {
+      "title": "Życzenia od pary prezydenckiej",
+      "link": "https://tvn24.pl/polska/boze-narodzenie-2025-zyczenia-od-karola-nawrockiego-i-marty-nawrockiej-z-okazji-swiat-st8816077?source=rss",
+      "pubDate": "Wed, 24 Dec 2025 07:10:16 GMT",
+      "description": "• Para prezydencka złożyła życzenia z okazji Świąt Bożego Narodzenia.\n• Życzenia dotyczyły \"pokoju i pomyślności\".\n• Życzenia dotyczyły również spędzenia świąt \"w zdrowiu i rodzinnym szczęściu\".\n• Karol i Marta Nawroccy podziękowali za trud tym, którzy w świąteczne dni pełnią służbę.",
+      "originalTitle": "\"Strzeżmy tego skarbu\". Życzenia od pary prezydenckiej",
+      "originalDescription": "Para prezydencka z okazji Świąt Bożego Narodzenia złożyła życzenia \"pokoju i pomyślności\" oraz spędzenia ich \"w zdrowiu i rodzinnym szczęściu\". Karol i Marta Nawroccy podziękowali też za trud tym, którzy w świąteczne dni pełnią służbę."
+    },
+    {
+      "title": "Wypadek drogowy, 6 ofiar śmiertelnych",
+      "link": "https://tvn24.pl/opole/opolskie-zderzyly-sie-dwa-auta-szesc-osob-nie-zyje-st8816527?source=rss",
+      "pubDate": "Wed, 24 Dec 2025 07:04:11 GMT",
+      "description": "Sześć osób zginęło w wypadku drogowym na Opolszczyźnie. Zderzyły się dwa auta. Skrzyżowanie dróg krajowych nr 39 i 94 jest zablokowane.",
+      "originalTitle": "Zderzyły się dwa auta, sześć osób nie żyje",
+      "originalDescription": "Sześć osób zginęło w wypadku drogowym na Opolszczyźnie. Zderzyły się dwa auta. Skrzyżowanie dróg krajowych nr 39 i 94 jest zablokowane."
+    },
+    {
+      "title": "\"Istnieje potęga, która powstrzymuje zło\". Premier złożył Polakom świąteczne życzenia",
+      "link": "https://tvn24.pl/polska/premier-donald-tusk-zlozyl-polakom-swiateczne-zyczenia-st8816353?source=rss",
+      "pubDate": "Wed, 24 Dec 2025 07:01:00 GMT",
+      "description": "Polacy w milionach serc noszą ogromną siłę - powiedział Donald Tusk, składając Polakom życzenia z okazji Świąt Bożego Narodzenia. - Istnieje potęga, która powstrzymuje zło. Ta potęga jest w naszych sercach i nazywa się miłość i dobro - powiedział premier.",
+      "originalTitle": "\"Istnieje potęga, która powstrzymuje zło\". Premier złożył Polakom świąteczne życzenia",
+      "originalDescription": "Polacy w milionach serc noszą ogromną siłę - powiedział Donald Tusk, składając Polakom życzenia z okazji Świąt Bożego Narodzenia. - Istnieje potęga, która powstrzymuje zło. Ta potęga jest w naszych sercach i nazywa się miłość i dobro - powiedział premier."
+    },
+    {
+      "title": "21-latek odpowie za znęcanie się nad rodzicami",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/powiat-ostrowski-21-latek-odpowie-za-znecanie-sie-nad-rodzicami-st8816271?source=rss",
       "pubDate": "Wed, 24 Dec 2025 06:59:01 GMT",
-      "description": "• 21-latek jest podejrzany o znęcanie się nad swoimi rodzicami.\n• Znęcanie się miało miejsce przez ponad pół roku.\n• Okres znęcania się przypadał na czas próby po wcześniejszym wyroku skazującym.\n• 21-latek twierdzi, że doszło jedynie do kłótni.\n• Został tymczasowo aresztowany.",
+      "description": "21-latek jest podejrzany o to, że przez ponad pół roku znęcał się nad swoimi rodzicami. Było to w okresie próby po wcześniejszym wyroku skazującym. On sam twierdzi, że doszło jedynie do kłótni. Został tymczasowo aresztowany.",
       "originalTitle": "21-latek odpowie za znęcanie się nad rodzicami",
       "originalDescription": "21-latek jest podejrzany o to, że przez ponad pół roku znęcał się nad swoimi rodzicami. Było to w okresie próby po wcześniejszym wyroku skazującym. On sam twierdzi, że doszło jedynie do kłótni. Został tymczasowo aresztowany."
     },
@@ -50,38 +82,6 @@
       "description": "Dziennik \"New York Times\" stanowi zagrożenie dla bezpieczeństwa narodowego Stanów Zjednoczonych - ocenił Donald Trump. Prezydent USA nazwał nowojorską gazetę \"wrogiem narodu\".",
       "originalTitle": "Trump atakuje czołową amerykańską gazetę. \"Są prawdziwym wrogiem narodu\"",
       "originalDescription": "Dziennik \"New York Times\" stanowi zagrożenie dla bezpieczeństwa narodowego Stanów Zjednoczonych - ocenił Donald Trump. Prezydent USA nazwał nowojorską gazetę \"wrogiem narodu\"."
-    },
-    {
-      "title": "Gdzie jest święty Mikołaj? Śledź z nami jego trasę",
-      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/gdzie-jest-swiety-mikolaj-sledz-z-nami-jego-trase-wigilia-2025-st8816189?source=rss",
-      "pubDate": "Wed, 24 Dec 2025 06:08:39 GMT",
-      "description": "Gdzie jest święty Mikołaj? W Wigilię wyruszył w swoją coroczną podróż, aby dostarczyć prezenty mieszkańcom całego świata. Śledź z nami jego podniebną trasę.",
-      "originalTitle": "Gdzie jest święty Mikołaj? Śledź z nami jego trasę",
-      "originalDescription": "Gdzie jest święty Mikołaj? W Wigilię wyruszył w swoją coroczną podróż, aby dostarczyć prezenty mieszkańcom całego świata. Śledź z nami jego podniebną trasę."
-    },
-    {
-      "title": "\"Pierwsza gwiazdka\" zalśni na niebie. Kiedy jej wypatrywać?",
-      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/wigilia-2025-swieta-bozego-narodzenia-2025-pierwsza-gwiazdka-zalsni-na-niebie-kiedy-jej-wypatrywac-st8816354?source=rss",
-      "pubDate": "Wed, 24 Dec 2025 05:37:14 GMT",
-      "description": "Dziś Wigilia, a to oznacza, że po zachodzie słońca będziemy wypatrywać na niebie \"pierwszej gwiazdki\". W tym roku o tę rolę będą konkurowały aż dwa ciała niebieskie: Wega z gwiazdozbioru Lutni i Kapella z gwiazdozbioru Woźnicy.",
-      "originalTitle": "\"Pierwsza gwiazdka\" zalśni na niebie. Kiedy jej wypatrywać?",
-      "originalDescription": "Dziś Wigilia, a to oznacza, że po zachodzie słońca będziemy wypatrywać na niebie \"pierwszej gwiazdki\". W tym roku o tę rolę będą konkurowały aż dwa ciała niebieskie: Wega z gwiazdozbioru Lutni i Kapella z gwiazdozbioru Woźnicy."
-    },
-    {
-      "title": "MSZ przekazało ambasadorowi dokument ratyfikacji traktatu polsko-francuskiego",
-      "link": "https://tvn24.pl/polska/msz-przekazalo-ambasadorowi-dokument-ratyfikacji-traktatu-polsko-francuskiego-st8816346?source=rss",
-      "pubDate": "Wed, 24 Dec 2025 05:20:29 GMT",
-      "description": "Resort dyplomacji poinformował, że wiceszefowa MSZ Henryka Mościcka-Dendys przekazała ambasadorowi Francji w Polsce dokument ratyfikacji przez Polskę traktatu polsko-francuskiego o wzmocnionej współpracy i przyjaźni.",
-      "originalTitle": "MSZ przekazało ambasadorowi dokument ratyfikacji traktatu polsko-francuskiego",
-      "originalDescription": "Resort dyplomacji poinformował, że wiceszefowa MSZ Henryka Mościcka-Dendys przekazała ambasadorowi Francji w Polsce dokument ratyfikacji przez Polskę traktatu polsko-francuskiego o wzmocnionej współpracy i przyjaźni."
-    },
-    {
-      "title": "Władze pytają pisarzy o możliwe scenariusze zagrożeń wojennych",
-      "link": "https://tvn24.pl/swiat/kanada-ministerstwo-obrony-pyta-pisarzy-o-mozliwe-scenariusze-zagrozen-wojennych-st8816342?source=rss",
-      "pubDate": "Wed, 24 Dec 2025 05:07:31 GMT",
-      "description": "Resort obrony Kanady zapytał pisarzy, jakie widzą zagrożenia wojenne. W konkursie na opowiadanie science fiction na temat zagrożeń w kanadyjskiej Arktyce i obronie suwerenności Kanady nagrodzonych zostanie 10 prac, a główna nagroda to 10 tysięcy dolarów kanadyjskich.",
-      "originalTitle": "Władze pytają pisarzy o możliwe scenariusze zagrożeń wojennych",
-      "originalDescription": "Resort obrony Kanady zapytał pisarzy, jakie widzą zagrożenia wojenne. W konkursie na opowiadanie science fiction na temat zagrożeń w kanadyjskiej Arktyce i obronie suwerenności Kanady nagrodzonych zostanie 10 prac, a główna nagroda to 10 tysięcy dolarów kanadyjskich."
     }
   ]
 }
