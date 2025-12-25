@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-12-25T11:34:57.849Z",
+  "lastUpdate": "2025-12-25T12:10:19.255Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Koncert pułkownika w Sejmie",
+      "title": "Zmiany w ratach kredytów",
+      "link": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-i-raty-kredytow-w-2026-przewidywania-ekonomistow-pko-bp-pekao-ing-st8817822?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 12:05:04 GMT",
+      "description": "Według ekonomistów PKO Banku Polskiego oraz Banku Pekao w 2026 roku Rada Polityki Pieniężnej może obniżyć stopy procentowe łącznie o 0,5 punktu procentowego. Analitycy ING Banku Śląskiego zakładają większą skalę luzowania polityki pieniężnej - nawet o 0,75 punktu procentowego.",
+      "originalTitle": "Raty się zmienią. Eksperci największych banków w Polsce są zgodni",
+      "originalDescription": "Według ekonomistów PKO Banku Polskiego oraz Banku Pekao w 2026 roku Rada Polityki Pieniężnej może obniżyć stopy procentowe łącznie o 0,5 punktu procentowego. Analitycy ING Banku Śląskiego zakładają większą skalę luzowania polityki pieniężnej - nawet o 0,75 punktu procentowego."
+    },
+    {
+      "title": "Śmierć sześciu osób, prokuratura prowadzi śledztwo",
+      "link": "https://tvn24.pl/opole/zielecice-szesc-osob-zginelo-w-wypadku-sledztwo-prokuratury-st8817847?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 12:01:13 GMT",
+      "description": "• Śledztwo jest prowadzone w sprawie wypadku.\n• Wypadek miał miejsce na Opolszczyźnie.\n• W wypadku zginęło sześć osób.\n• Do ustalenia tożsamości ofiar konieczne będzie przeprowadzenie badań DNA.",
+      "originalTitle": "Sześć osób zginęło. Śledztwo prokuratury",
+      "originalDescription": "Śledztwo w sprawie wypadku na Opolszczyźnie, w którym zginęło sześć osób. Do ustalenia tożsamości ofiar konieczne będzie przeprowadzenie badań DNA."
+    },
+    {
+      "title": "Papież wypowiedział się na temat Ukrainy",
+      "link": "https://tvn24.pl/swiat/watykan-papiez-leon-xiv-wyglosil-oredzie-w-ktorym-zaapelowal-o-pokoj-na-ukrainie-st8817835?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 11:48:54 GMT",
+      "description": "• Papież Leon XIV wygłosił orędzie w Boże Narodzenie.\n• Orędzie dotyczyło apelu o pokój w Ukrainie.\n• Papież zaapelował do zaangażowanych stron.\n• Strony mają być wspierane przez wysiłek społeczności międzynarodowej.\n• Papież wezwał do podjęcia szczerego dialogu.\n• Dialog ma być bezpośredni.\n• Dialog ma być pełen szacunku.\n• Papież powiedział: \"Niech zaangażowane strony, wspierane przez wysiłek społeczności międzynarodowej, znajdą odwagę podjęcia szczerego, bezpośredniego i pełnego szacunku dialogu\".",
+      "originalTitle": "\"Niech ucichnie huk broni\". Apel papieża w sprawie Ukrainy",
+      "originalDescription": "Papież Leon XIV wygłosił orędzie w Boże Narodzenie, w którym zaapelował o pokój w Ukrainie. - Niech zaangażowane strony, wspierane przez wysiłek społeczności międzynarodowej, znajdą odwagę podjęcia szczerego, bezpośredniego i pełnego szacunku dialogu - powiedział."
+    },
+    {
+      "title": "Bartosz G usłyszał zarzut zabójstwa",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/mlawa-zabojstwo-16-letniej-mai-nowe-ustalenia-sledczych-zarzut-dla-bartosza-g-st8817721?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 11:46:54 GMT",
+      "description": "W Prokuraturze Okręgowej w Płocku Bartosz G. usłyszał zarzut zabójstwa ze szczególnym okrucieństwem 16-letniej Mai z Mławy. Samolot z 17-letniem podejrzanym o brutalną zbrodnię wylądował w Polsce kilka dni wcześniej. G. przebywał w Grecji ponad 200 dni, tam czekał na decyzję o wydaniu go polskim władzom.",
+      "originalTitle": "\"Zakończyła się odyseja Bartosza G.\". Usłyszał zarzut zabójstwa 16-letniej Mai",
+      "originalDescription": "W Prokuraturze Okręgowej w Płocku Bartosz G. usłyszał zarzut zabójstwa ze szczególnym okrucieństwem 16-letniej Mai z Mławy. Samolot z 17-letniem podejrzanym o brutalną zbrodnię wylądował w Polsce kilka dni wcześniej. G. przebywał w Grecji ponad 200 dni, tam czekał na decyzję o wydaniu go polskim władzom."
+    },
+    {
+      "title": "Awaria cysterny przy dworcu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/gostynin-rozszczelnienie-cysterny-przy-dworcu-kolejowym-st8817854?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 11:42:10 GMT",
+      "description": "Na jednym z torów przy dworcu kolejowym w Gostyninie (Mazowieckie) doszło do rozszczelnienia cysterny przewożącej chemikalia. Na miejscu trwa akcja służb.",
+      "originalTitle": "Rozszczelnienie cysterny przy dworcu kolejowym",
+      "originalDescription": "Na jednym z torów przy dworcu kolejowym w Gostyninie (Mazowieckie) doszło do rozszczelnienia cysterny przewożącej chemikalia. Na miejscu trwa akcja służb."
+    },
+    {
+      "title": "W Sejmie \"zadziałała czarodziejska różdżka\". O tym koncercie pułkownika było głośno",
       "link": "https://tvn24.pl/polska/plk-mariusz-dziubek-o-koncercie-w-sejmie-i-swojej-muzycznej-drodze-czarodziejska-rozdzka-zadzialala-st8817752?source=rss",
       "pubDate": "Thu, 25 Dec 2025 11:19:11 GMT",
-      "description": "• Batuta to jest taka czarodziejska różdżka, która topi lód.\n• Pułkownik Mariusz Dziubek jest dyrektorem Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego.\n• Pułkownik Mariusz Dziubek wypowiedział się we \"Wstajesz i Wiesz\".\n• Nagranie z ostatniego koncertu pułkownika Mariusza Dziubka w Sejmie obiegło internet.\n• Pułkownik Mariusz Dziubek mówił na antenie TVN24 o tym, jak za sprawą muzyki udało mu się \"stopić lód\" wśród parlamentarzystów.\n• Pułkownik Mariusz Dziubek opowiadał o początkach swojej muzycznej drogi.\n• Pułkownik Mariusz Dziubek opowiadał o swojej służbie w wojsku.",
+      "description": "Batuta to jest taka czarodziejska różdżka, która topi lód - powiedział we \"Wstajesz i Wiesz\" pułkownik Mariusz Dziubek, dyrektor Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego. Nagranie z jego ostatniego koncertu w Sejmie obiegło internet. Na antenie TVN24 mówił o tym, jak za sprawą muzyki udało mu się \"stopić lód\" wśród parlamentarzystów, a także o początkach swojej muzycznej drogi i służbie w wojsku.",
       "originalTitle": "W Sejmie \"zadziałała czarodziejska różdżka\". O tym koncercie pułkownika było głośno",
       "originalDescription": "Batuta to jest taka czarodziejska różdżka, która topi lód - powiedział we \"Wstajesz i Wiesz\" pułkownik Mariusz Dziubek, dyrektor Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego. Nagranie z jego ostatniego koncertu w Sejmie obiegło internet. Na antenie TVN24 mówił o tym, jak za sprawą muzyki udało mu się \"stopić lód\" wśród parlamentarzystów, a także o początkach swojej muzycznej drogi i służbie w wojsku."
     },
     {
-      "title": "Poszukiwani potomkowie 500 pracowników dworu książęcego",
+      "title": "Ponad 500 osób pracowało na książęcym dworze, szukają ich potomków. \"Ostatni moment, by ocalić historie\"",
       "link": "https://tvn24.pl/wroclaw/zamek-ksiaz-wciaz-szuka-potomkow-dawnej-sluzby-ostatni-moment-by-ocalic-historie-st8803822?source=rss",
       "pubDate": "Thu, 25 Dec 2025 11:16:08 GMT",
-      "description": "• Zamek Książ znajduje się w Wałbrzychu (Dolny Śląsk).\n• Zamek Książ szuka potomków dawnej służby pracującej w rezydencji Hochbergów od kilku lat.\n• Do tej pory udało się nawiązać kontakt z kilkunastoma osobami, które są potomkami dawnej służby.\n• Przypuszcza się, że jest znacznie więcej osób, które są potomkami dawnej służby Zamku Książ.\n• Jedna z seniorek ze Stanów Zjednoczonych odwiedziła Zamek Książ, ponieważ jej dziadek i ojciec pracowali tam przed laty.\n• Rodzice seniorki ze Stanów Zjednoczonych mówili o Zamku Książ.",
+      "description": "Zamek Książ w Wałbrzychu (Dolny Śląsk) już od kilku lat szuka potomków dawnej służby pracującej w rezydencji Hochbergów. Do tej pory kontakt udało się nawiązać z kilkunastoma osobami, a jest ich na pewno znacznie więcej. - Moi rodzice zawsze mówili o Zamku Książ - wspominała seniorka ze Stanów Zjednoczonych, która odwiedziła miejsce, gdzie przed laty pracowali między innymi jej dziadek i ojciec.",
       "originalTitle": "Ponad 500 osób pracowało na książęcym dworze, szukają ich potomków. \"Ostatni moment, by ocalić historie\"",
       "originalDescription": "Zamek Książ w Wałbrzychu (Dolny Śląsk) już od kilku lat szuka potomków dawnej służby pracującej w rezydencji Hochbergów. Do tej pory kontakt udało się nawiązać z kilkunastoma osobami, a jest ich na pewno znacznie więcej. - Moi rodzice zawsze mówili o Zamku Książ - wspominała seniorka ze Stanów Zjednoczonych, która odwiedziła miejsce, gdzie przed laty pracowali między innymi jej dziadek i ojciec."
     },
     {
-      "title": "Załoga Artemis II przygotowana do lotu wokół Księżyca",
+      "title": "Święty Mikołaj i załoga Artemis II gotowi do lotu wokół Księżyca",
       "link": "https://tvn24.pl/tvnmeteo/nauka/swiety-mikolaj-i-zaloga-artemis-ii-gotowi-do-lotu-wokol-ksiezyca-st8817741?source=rss",
       "pubDate": "Thu, 25 Dec 2025 11:16:08 GMT",
       "description": "Od świątecznej sesji zdjęciowej po próby startowe z udziałem astronautów - w Centrum Kosmicznym im. Johna F. Kennedy’ego program Artemis wchodzi w decydującą fazę. Misja Artemis II ma już na początku 2026 roku wysłać ludzi w lot wokół Księżyca.",
@@ -42,46 +82,6 @@
       "description": "Chcieli obejrzeć mecz, ale nie mieli prądu. Postanowili pójść do mieszkania obok i pociągnąć prąd przedłużaczem. Gdy sąsiad omówił, 64-latek zaczął go szarpać, a 46-latka uderzyła w głowę. Grożą im kary więzienia.",
       "originalTitle": "Chcieli oglądać mecz, ale nie mieli prądu. Pobili sąsiada",
       "originalDescription": "Chcieli obejrzeć mecz, ale nie mieli prądu. Postanowili pójść do mieszkania obok i pociągnąć prąd przedłużaczem. Gdy sąsiad omówił, 64-latek zaczął go szarpać, a 46-latka uderzyła w głowę. Grożą im kary więzienia."
-    },
-    {
-      "title": "Nietypowi goście w polskiej rzece",
-      "link": "https://tvn24.pl/tvnmeteo/polska/delfiny-w-odrze-nietypowi-goscie-w-polskiej-rzece-st8817711?source=rss",
-      "pubDate": "Thu, 25 Dec 2025 10:46:02 GMT",
-      "description": "Nietypowi goście pojawili się przed świętami w polskiej rzece. Były to dwa delfiny zwyczajne. Ssaki te preferują słone wody. Dlaczego zatem pojawiły się w rzece?",
-      "originalTitle": "Nietypowi goście w polskiej rzece",
-      "originalDescription": "Nietypowi goście pojawili się przed świętami w polskiej rzece. Były to dwa delfiny zwyczajne. Ssaki te preferują słone wody. Dlaczego zatem pojawiły się w rzece?"
-    },
-    {
-      "title": "Izrael odpowiada na potępienie. \"Rządy innych państw nie będą ograniczać prawa Żydów\"",
-      "link": "https://tvn24.pl/swiat/izrael-kraje-potepily-budowe-nowych-osiedli-zydowskich-na-zachodnim-brzegu-jordanu-jest-reakcja-st8817670?source=rss",
-      "pubDate": "Thu, 25 Dec 2025 10:41:19 GMT",
-      "description": "Szef izraelskiej dyplomacji odrzucił oświadczenie kilkunastu państw, które skrytykowały zatwierdzenie przez władze w Jerozolimie budowy nowych osiedli żydowskich na okupowanym Zachodnim Brzegu. \"Wszelkie tego typu apele są moralnie niewłaściwe i dyskryminujące wobec Żydów\" - ocenił. Tymczasem według ONZ ekspansja na tym terytorium jest sprzeczna z prawem międzynarodowym.",
-      "originalTitle": "Izrael odpowiada na potępienie. \"Rządy innych państw nie będą ograniczać prawa Żydów\"",
-      "originalDescription": "Szef izraelskiej dyplomacji odrzucił oświadczenie kilkunastu państw, które skrytykowały zatwierdzenie przez władze w Jerozolimie budowy nowych osiedli żydowskich na okupowanym Zachodnim Brzegu. \"Wszelkie tego typu apele są moralnie niewłaściwe i dyskryminujące wobec Żydów\" - ocenił. Tymczasem według ONZ ekspansja na tym terytorium jest sprzeczna z prawem międzynarodowym."
-    },
-    {
-      "title": "Co wiemy o narodzinach Jezusa? \"To burzy nasze wyobrażenia\"",
-      "link": "https://tvn24.pl/polska/boze-narodzenie-co-wiemy-o-narodzinach-jezusa-to-burzy-nasze-wyobrazenia-st8799634?source=rss",
-      "pubDate": "Thu, 25 Dec 2025 10:27:48 GMT",
-      "description": "Kiedy naprawdę urodził się Jezus? Dlaczego święty Mikołaj obdarował pieniędzmi prostytutkę? Co choinka ma wspólnego z miłością? Odpowiedzi na te pytania mogą zaskakiwać, a nawet - jak mówi teolog Marcin Majewski - burzyć nasze wyobrażenia o Bożym Narodzeniu, ale wcale nie muszą odbierać nam magii Świąt.",
-      "originalTitle": "Co wiemy o narodzinach Jezusa? \"To burzy nasze wyobrażenia\"",
-      "originalDescription": "Kiedy naprawdę urodził się Jezus? Dlaczego święty Mikołaj obdarował pieniędzmi prostytutkę? Co choinka ma wspólnego z miłością? Odpowiedzi na te pytania mogą zaskakiwać, a nawet - jak mówi teolog Marcin Majewski - burzyć nasze wyobrażenia o Bożym Narodzeniu, ale wcale nie muszą odbierać nam magii Świąt."
-    },
-    {
-      "title": "Ukradł zimne ognie. W więzieniu spędzi 281 dni",
-      "link": "https://tvn24.pl/bialystok/zambrow-ukradl-zimne-ognie-byl-poszukiwany-listem-gonczym-trafil-do-wiezienia-st8817691?source=rss",
-      "pubDate": "Thu, 25 Dec 2025 10:24:21 GMT",
-      "description": "Do zakładu karnego trafił 41-latek z Zambrowa (Podlaskie), który był poszukiwany listem gończym. Wpadł, gdy pracownik ochrony przyłapał go na kradzieży zimnych ogni wartych 8,99 złotych.",
-      "originalTitle": "Ukradł zimne ognie. W więzieniu spędzi 281 dni",
-      "originalDescription": "Do zakładu karnego trafił 41-latek z Zambrowa (Podlaskie), który był poszukiwany listem gończym. Wpadł, gdy pracownik ochrony przyłapał go na kradzieży zimnych ogni wartych 8,99 złotych."
-    },
-    {
-      "title": "Polskie myśliwce przechwyciły rosyjski samolot",
-      "link": "https://tvn24.pl/polska/dorsz-polskie-mysliwce-przechwycily-i-eskortowaly-rosyjski-samolot-nad-wodami-miedzynarodowymi-baltyku-st8817712?source=rss",
-      "pubDate": "Thu, 25 Dec 2025 10:07:36 GMT",
-      "description": "Rano nad wodami międzynarodowymi Morza Bałtyckiego polskie myśliwce przechwyciły i eskortowały rosyjski samolot rozpoznawczy - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Maszyna \"wykonywała lot w pobliżu granic przestrzeni powietrznej RP\".",
-      "originalTitle": "Polskie myśliwce przechwyciły rosyjski samolot",
-      "originalDescription": "Rano nad wodami międzynarodowymi Morza Bałtyckiego polskie myśliwce przechwyciły i eskortowały rosyjski samolot rozpoznawczy - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Maszyna \"wykonywała lot w pobliżu granic przestrzeni powietrznej RP\"."
     }
   ]
 }
