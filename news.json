@@ -1,34 +1,50 @@
 {
-  "lastUpdate": "2025-12-27T08:40:53.067Z",
+  "lastUpdate": "2025-12-27T09:06:19.519Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Poszukiwania osób w rzece",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-trwaja-poszukiwania-dwoch-osob-na-motlawie-st8819308?source=rss",
+      "title": "Mężczyzna twierdzi, że koledzy są w rzece, okazało się, że są w hotelu",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-poszukiwania-dwoch-osob-w-motlawie-mezczyzn-odnaleziono-w-hotelu-st8819308?source=rss",
       "pubDate": "Sat, 27 Dec 2025 08:27:39 GMT",
-      "description": "Służby poszukują dwóch osób w Motławie w Gdańsku. Wcześniej z wody wyszedł mężczyzna i powiedział, że w wodzie zostało dwóch jego kolegów.",
-      "originalTitle": "Wyszedł z wody i powiedział, że w rzece zostali jego koledzy. Poszukiwania",
-      "originalDescription": "Służby poszukują dwóch osób w Motławie w Gdańsku. Wcześniej z wody wyszedł mężczyzna i powiedział, że w wodzie zostało dwóch jego kolegów."
+      "description": "• Służby poszukiwały dwóch osób w Motławie w Gdańsku.\n• Z wody wyszedł mężczyzna, który poinformował, że w wodzie zostało dwóch jego kolegów.\n• Mężczyzna i jego koledzy byli w wynajmowanym apartamencie.",
+      "originalTitle": "Wyszedł z wody i powiedział, że w rzece zostali jego koledzy. A byli w hotelu",
+      "originalDescription": "Służby poszukiwały dwóch osób w Motławie w Gdańsku. Wcześniej z wody wyszedł mężczyzna i powiedział, że w wodzie zostało dwóch jego kolegów. Okazało się, że byli w wynajmowanym apartamencie."
     },
     {
-      "title": "IMGW informuje o ślizgawicach",
+      "title": "Rosja atakuje Ukrainę, wybuchy w Kijowie",
+      "link": "https://tvn24.pl/swiat/nocny-atak-rosji-na-ukraine-alarm-w-wielu-regionach-kraju-st8819228?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 05:03:06 GMT",
+      "description": "W nocy z piątku na sobotę Rosja przeprowadziła zmasowany atak na Kijów oraz inne regiony Ukrainy. W stolicy słychać było eksplozje, wybuchały pożary. Są informacje o rannych. Wprowadzono awaryjne przerwy w dostawach prądu.",
+      "originalTitle": "Zmasowany atak Rosji na Ukrainę. \"Wybuchy w stolicy\", trafione bloki",
+      "originalDescription": "W nocy z piątku na sobotę Rosja przeprowadziła zmasowany atak na Kijów oraz inne regiony Ukrainy. W stolicy słychać było eksplozje, wybuchały pożary. Są informacje o rannych. Wprowadzono awaryjne przerwy w dostawach prądu."
+    },
+    {
+      "title": "Firma technologiczna zawiera nową umowę",
+      "link": "https://tvn24.pl/biznes/tech/nvidia-licencja-i-kluczowi-pracownicy-nowa-umowa-technologicznego-giganta-st8819294?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 08:38:00 GMT",
+      "description": "Nvidia zawarła porozumienie ze startupem Groq obejmujące licencję na technologię chipową opracowaną przez firmę oraz zatrudnienie jej kluczowych menedżerów, w tym założyciela i prezesa. To kolejny przykład na to, jak giganci pozyskują technologie i talenty, bez formalnego przejmowania całych spółek.",
+      "originalTitle": "Licencja i kluczowi pracownicy. Nowa umowa technologicznego giganta",
+      "originalDescription": "Nvidia zawarła porozumienie ze startupem Groq obejmujące licencję na technologię chipową opracowaną przez firmę oraz zatrudnienie jej kluczowych menedżerów, w tym założyciela i prezesa. To kolejny przykład na to, jak giganci pozyskują technologie i talenty, bez formalnego przejmowania całych spółek."
+    },
+    {
+      "title": "IMGW ostrzega przed ślizgawicami. Mapy zagrożeń",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-26-27-12-opady-marznace-i-silny-wiatr-ponad-pol-polski-na-zolto-st8817569?source=rss",
       "pubDate": "Sat, 27 Dec 2025 05:35:00 GMT",
-      "description": "• IMGW ostrzega przed opadami marznącymi i śliskimi nawierzchniami.\n• Ostrzeżenia wydano w 14 województwach.\n• Ostrzeżenia będą w mocy do wieczora w niektórych miejscach.\n• Miejscami ma silnie wiać.\n• Na Bałtyku obowiązuje alarm przed sztormem.",
+      "description": "IMGW ostrzega przed opadami marznącymi i śliskimi nawierzchniami. Ostrzeżenia wydano w 14 województwach, a miejscami będą one w mocy do wieczora. Miejscami ma także silnie wiać - na Bałtyku obowiązuje alarm przed sztormem.",
       "originalTitle": "IMGW ostrzega przed ślizgawicami. Mapy zagrożeń",
       "originalDescription": "IMGW ostrzega przed opadami marznącymi i śliskimi nawierzchniami. Ostrzeżenia wydano w 14 województwach, a miejscami będą one w mocy do wieczora. Miejscami ma także silnie wiać - na Bałtyku obowiązuje alarm przed sztormem."
     },
     {
-      "title": "Pożar kontenerów w nocy",
+      "title": "W nocy spaliły się kontenery",
       "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-pozar-kontenerow-przy-bakalarskiej-st8819275?source=rss",
       "pubDate": "Sat, 27 Dec 2025 08:08:55 GMT",
-      "description": "W nocy z piątku na sobotę doszło do pożaru kontenerów przy ulicy Bakalarskiej. Strażacy przekazali, że nie ma osób poszkodowanych.",
+      "description": "W nocy z piątku na sobotę doszło do pożaru kontenerów przy ulicy Bakalarskiej. Akcja gaśnicza trwała pięć godzin i uczestniczyło w niej prawie 50 strażaków.",
       "originalTitle": "W nocy spaliły się kontenery",
-      "originalDescription": "W nocy z piątku na sobotę doszło do pożaru kontenerów przy ulicy Bakalarskiej. Strażacy przekazali, że nie ma osób poszkodowanych."
+      "originalDescription": "W nocy z piątku na sobotę doszło do pożaru kontenerów przy ulicy Bakalarskiej. Akcja gaśnicza trwała pięć godzin i uczestniczyło w niej prawie 50 strażaków."
     },
     {
-      "title": "Porozumienie w sporze granicznym",
+      "title": "Spór na tej granicy trwa od ponad 100 lat. Jest porozumienie",
       "link": "https://tvn24.pl/swiat/zawieszenie-broni-na-granicy-kambodzy-i-tajlandii-co-zawiera-porozumienie-st8819267?source=rss",
       "pubDate": "Sat, 27 Dec 2025 07:59:00 GMT",
       "description": "Po prawie trzech tygodniach walk Tajlandia i Kambodża zgodziły się na \"natychmiastowe zawieszenie broni\". W ciągu 20 dni walk zginęło co najmniej 101 osób - poinformowała agencja Reutera. Spór graniczny pomiędzy tymi krajami trwa już ponad 100 lat.",
@@ -47,9 +63,9 @@
       "title": "Trump spotka się z Zełenskim. Wiadomo, gdzie i kiedy",
       "link": "https://tvn24.pl/swiat/komunikat-bialego-domu-o-spotkaniu-trump-zelenski-jest-miejsce-i-data-st8819284?source=rss",
       "pubDate": "Sat, 27 Dec 2025 07:41:32 GMT",
-      "description": "Biały Dom przekazał, gdzie prezydent USA Donald Trump spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim. Do spotkania ma dojść w niedzielę. Zełenski sugerował, że może ono przynieść przełom w negocjacjach pokojowych.",
+      "description": "Biały Dom przekazał, gdzie prezydent USA Donald Trump spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim. Do spotkania ma dojść w niedzielę. Zełenski sugerował, że może ono przynieść przełom w negocjacjach pokojowych. Z prezydentami połączą się telefonicznie europejscy przywódcy.",
       "originalTitle": "Trump spotka się z Zełenskim. Wiadomo, gdzie i kiedy",
-      "originalDescription": "Biały Dom przekazał, gdzie prezydent USA Donald Trump spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim. Do spotkania ma dojść w niedzielę. Zełenski sugerował, że może ono przynieść przełom w negocjacjach pokojowych."
+      "originalDescription": "Biały Dom przekazał, gdzie prezydent USA Donald Trump spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim. Do spotkania ma dojść w niedzielę. Zełenski sugerował, że może ono przynieść przełom w negocjacjach pokojowych. Z prezydentami połączą się telefonicznie europejscy przywódcy."
     },
     {
       "title": "Polska poderwała myśliwce. Dwa lotniska były zamknięte",
@@ -66,22 +82,6 @@
       "description": "Świąteczny występ amerykańskiego rapera Snoop Dogga wzbogaciły dźwięki orkiestry symfonicznej pod batutą polskiego kompozytora i dyrygenta Radzimira Dębskiego. To ich kolejny wspólny projekt.",
       "originalTitle": "Polak u boku Snoop Dogga. \"Zrobiliśmy historię\"",
       "originalDescription": "Świąteczny występ amerykańskiego rapera Snoop Dogga wzbogaciły dźwięki orkiestry symfonicznej pod batutą polskiego kompozytora i dyrygenta Radzimira Dębskiego. To ich kolejny wspólny projekt."
-    },
-    {
-      "title": "Atak w Izraelu. Dwie osoby nie żyją",
-      "link": "https://tvn24.pl/swiat/atak-w-izraelu-dwie-osoby-nie-zyja-st8819208?source=rss",
-      "pubDate": "Sat, 27 Dec 2025 06:54:48 GMT",
-      "description": "Dwie osoby zginęły w atakach z użyciem samochodu i noża w północnym Izraelu. Według służb sprawcą miał być Palestyńczyk, który nielegalnie przedostał się do kraju z Zachodniego Brzegu.",
-      "originalTitle": "Atak w Izraelu. Dwie osoby nie żyją",
-      "originalDescription": "Dwie osoby zginęły w atakach z użyciem samochodu i noża w północnym Izraelu. Według służb sprawcą miał być Palestyńczyk, który nielegalnie przedostał się do kraju z Zachodniego Brzegu."
-    },
-    {
-      "title": "Wypadek drogowy przy śniegu, dwie ofiary śmiertelne",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-karambol-podczas-sniezycy-splonely-auta-ofiary-smiertelne-st8819251?source=rss",
-      "pubDate": "Sat, 27 Dec 2025 06:41:28 GMT",
-      "description": "Dwie osoby zginęły, a 26 zostało rannych w karambolu w Japonii. Do wypadku doszło w piątek po południu na północ od Tokio. Według danych policji, w zderzeniu brało udział 57 pojazdów.",
-      "originalTitle": "Karambol podczas śnieżycy. Dwie osoby nie żyją",
-      "originalDescription": "Dwie osoby zginęły, a 26 zostało rannych w karambolu w Japonii. Do wypadku doszło w piątek po południu na północ od Tokio. Według danych policji, w zderzeniu brało udział 57 pojazdów."
     }
   ]
 }
