@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2025-12-29T11:35:33.785Z",
+  "lastUpdate": "2025-12-29T12:10:14.146Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Co naprawdę skręca polaryzację światła?",
+      "link": "https://dzienniknaukowy.pl/co-naprawde-skreca-polaryzacje-swiatla",
+      "pubDate": "Mon, 29 Dec 2025 11:54:11 +0000",
+      "description": "Od lat fizycy twierdzili, że w efekcie Faradaya główną rolę gra elektryczna część fali świetlnej. Nowe badania pokazują, że niesione przez nią drgania pola magnetycznego także biorą udział w zjawisku skręcania płaszczyzny polaryzacji. To zmienia sposób, w jaki powinniśmy myśleć o projektowaniu laserów i precyzyjnych czujników."
+    },
     {
       "title": "Bakteriofagi w walce z superbakteriami &#8211; nowa broń przeciw antybiotykooporności",
       "link": "https://dzienniknaukowy.pl/bakteriofagi-w-walce-z-superbakteriami-nowa-bron-przeciw-antybiotykoopornosci",
       "pubDate": "Mon, 29 Dec 2025 11:28:58 +0000",
       "description": "Bakteriofagi, czyli wirusy atakujące bakterie, mogą pomóc w walce z infekcjami, wobec których zawodzą antybiotyki. Dr Bartłomiej Grygorcewicz z Pomorskiego Uniwersytetu Medycznego bada ich zastosowanie w leczeniu trudnych zakażeń szpitalnych i opornych na leczenie biofilmów."
+    },
+    {
+      "title": "Inteligentna wentylacja w szkołach: jak TeachAIR poprawia jakość powietrza w klasach?",
+      "link": "https://dzienniknaukowy.pl/inteligentna-wentylacja-w-szkolach-jak-teachair-poprawia-jakosc-powietrza-w-klasach",
+      "pubDate": "Mon, 29 Dec 2025 08:57:00 +0000",
+      "description": "W wielu polskich szkołach jakość powietrza pogarsza się już po kilku minutach lekcji, a poziom CO₂ osiąga wartości utrudniające koncentrację. Otwieranie okien zimą powoduje wychłodzenie sal i duże straty energii, latem – napływ smogu i hałasu z zewnątrz. Coraz więcej placówek szuka więc sposobu, który pozwoli jednocześnie dbać o zdrowie uczniów i optymalizować koszty eksploatacji budynku."
     },
     {
       "title": "Polscy fizycy budują superczułe radio na atomach",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/skok-w-rozwoju-ai-polacy-przelamuja-impas-w-uczeniu-ze-wzmocnieniem-rl",
       "pubDate": "Wed, 17 Dec 2025 12:29:46 +0000",
       "description": "Zespół informatyków z udziałem dwóch Polaków znalazł sposób na skokowe zwiększenie głębokości sieci neuronowych - z kilku do aż tysiąca warstw - w modelach AI uczenia ze wzmocnieniem (RL)."
-    },
-    {
-      "title": "Katastrofa naturalna – nie taka naturalna",
-      "link": "https://dzienniknaukowy.pl/katastrofa-naturalna-nie-taka-naturalna",
-      "pubDate": "Wed, 17 Dec 2025 12:14:05 +0000",
-      "description": "W ostatnich dekadach obserwujemy w Polsce wzrost dotkliwości zjawisk ekstremalnych powodujących rozległe konsekwencje, określanych w przestrzeni publicznej jako „katastrofy naturalne” – intensywnych opadów prowadzących do powodzi i podtopień, fal upałów czy długotrwałych susz. Ich występowanie oraz skutki, które powodują, nie są jednak wyłącznie rezultatem procesów naturalnych, lecz w znacznym stopniu wynikiem oddziaływania czynników antropogenicznych – emisji gazów cieplarnianych, intensywnego zagospodarowania przestrzeni czy postępującej degradacji środowiska"
-    },
-    {
-      "title": "Laserowa korekcja wzroku &#8211; kiedy warto ją rozważyć?",
-      "link": "https://dzienniknaukowy.pl/laserowa-korekcja-wzroku-kiedy-warto-ja-rozwazyc",
-      "pubDate": "Wed, 17 Dec 2025 08:31:00 +0000",
-      "description": "Laserowa korekcja wzroku (np. LASIK, PRK, SMILE) od lat pomaga osobom z krótkowzrocznością, nadwzrocznością i astygmatyzmem uniezależnić się od okularów i soczewek kontaktowych. Ale kluczowe pytanie brzmi: kiedy to jest naprawdę dobry moment, żeby w ogóle zacząć o niej myśleć?"
     }
   ]
 }
