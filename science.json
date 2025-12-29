@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2025-12-29T11:05:43.235Z",
+  "lastUpdate": "2025-12-29T11:35:33.785Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Bakteriofagi w walce z superbakteriami &#8211; nowa broń przeciw antybiotykooporności",
+      "link": "https://dzienniknaukowy.pl/bakteriofagi-w-walce-z-superbakteriami-nowa-bron-przeciw-antybiotykoopornosci",
+      "pubDate": "Mon, 29 Dec 2025 11:28:58 +0000",
+      "description": "Bakteriofagi, czyli wirusy atakujące bakterie, mogą pomóc w walce z infekcjami, wobec których zawodzą antybiotyki. Dr Bartłomiej Grygorcewicz z Pomorskiego Uniwersytetu Medycznego bada ich zastosowanie w leczeniu trudnych zakażeń szpitalnych i opornych na leczenie biofilmów."
+    },
     {
       "title": "Polscy fizycy budują superczułe radio na atomach",
       "link": "https://dzienniknaukowy.pl/polscy-fizycy-buduja-superczule-radio-na-atomach",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/laserowa-korekcja-wzroku-kiedy-warto-ja-rozwazyc",
       "pubDate": "Wed, 17 Dec 2025 08:31:00 +0000",
       "description": "Laserowa korekcja wzroku (np. LASIK, PRK, SMILE) od lat pomaga osobom z krótkowzrocznością, nadwzrocznością i astygmatyzmem uniezależnić się od okularów i soczewek kontaktowych. Ale kluczowe pytanie brzmi: kiedy to jest naprawdę dobry moment, żeby w ogóle zacząć o niej myśleć?"
-    },
-    {
-      "title": "Naukowcy udowodnili istnienie tetrakwarków",
-      "link": "https://dzienniknaukowy.pl/naukowcy-udowodnili-istnienie-tetrakwarkow",
-      "pubDate": "Tue, 16 Dec 2025 12:10:32 +0000",
-      "description": "W tunelu Wielkiego Zderzacza Hadronów (LHC) fizycy z całego świata, w tym z Polski, badają egzotyczne cząstki złożone z czterech kwarków powabnych. Te cząstki dotychczas były jedynie równaniem wyprowadzonym przez teoretyków, teraz po raz pierwszy udowodniono ich istnienie."
     }
   ]
 }
