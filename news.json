@@ -1,10 +1,66 @@
 {
-  "lastUpdate": "2025-12-30T10:07:08.322Z",
+  "lastUpdate": "2025-12-30T10:40:33.790Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Ostrzeżenie IMGW: do 60 cm śniegu",
+      "title": "Pożar w kamienicy, policja uratowała rodzinę",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-pozar-w-kamienicy-policjanci-uratowali-kobiete-i-dzieci-st8822580?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 10:35:48 GMT",
+      "description": "• Policjanci otrzymali informację dotyczącą pożaru kamienicy na Pradze Północ.\n• Policjanci udali się pod wskazany adres.\n• Na miejscu zastali kobietę z dziećmi wołającą o pomoc.\n• Funkcjonariusze pomogli bezpiecznie ewakuować mieszkańców.",
+      "originalTitle": "Paliło się mieszkanie w kamienicy. Policjanci uratowali kobietę z trójką dzieci",
+      "originalDescription": "Policjanci po otrzymaniu informacji dotyczącej pożaru kamienicy na Pradze Północ udali się pod wskazany adres. Na miejscu zastali kobietę z dziećmi wołającą o pomoc. Funkcjonariusze pomogli bezpiecznie ewakuować mieszkańców."
+    },
+    {
+      "title": "15-latka odnaleziona po porwaniu",
+      "link": "https://tvn24.pl/swiat/usa-porwanie-15-latki-ojciec-odnalazl-ja-dzieki-funkcji-w-telefonie-st8821871?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 10:30:06 GMT",
+      "description": "• 15-letnia dziewczyna z Teksasu została uprowadzona podczas spaceru w Boże Narodzenie.\n• Odnalazł ją ojciec, wykorzystując lokalizator w telefonie.\n• Policja zatrzymała już 23-letniego porywacza.\n• Porywaczowi postawiono zarzuty.\n• Informacje o zatrzymaniu porywacza podają miejscowe służby.",
+      "originalTitle": "15-latka porwana w Boże Narodzenie odnaleziona dzięki funkcji w telefonie",
+      "originalDescription": "15-letnia dziewczyna z Teksasu została uprowadzona podczas spaceru w Boże Narodzenie. Odnalazł ją ojciec, wykorzystując lokalizator w telefonie. Policja zatrzymała już 23-letniego porywacza, któremu postawiono zarzuty - informują miejscowe służby."
+    },
+    {
+      "title": "Dwie ofiary śmiertelne w pożarach",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolomin-garwolin-lomianki-seria-pozarow-na-mazowszu-dwie-osoby-nie-zyja-st8822578?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 10:25:40 GMT",
+      "description": "• Wołomiński, garwoliński i warszawski zachodni to mazowieckie powiaty, w których strażacy mieli trudną noc.\n• Strażacy z tych powiatów wyjeżdżali do pożarów domów.\n• W dwóch przypadkach pożarów domów były ofiary śmiertelne.",
+      "originalTitle": "Seria nocnych pożarów. Dwie osoby nie żyją",
+      "originalDescription": "Wołomiński, garwoliński i warszawski zachodni - strażacy z tych mazowieckich powiatów nie mieli łatwej nocy. Wyjeżdżali do pożarów domów. W dwóch przypadkach były ofiary śmiertelne."
+    },
+    {
+      "title": "Prognoza pogody na 30-31 grudnia",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-29-30-12-silny-wiatr-zawieje-i-zamiecie-sniezne-mozliwe-przerwy-w-dostawie-pradu-st8821905?source=rss",
+      "pubDate": "Mon, 29 Dec 2025 14:00:52 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa wysłało we wtorek SMS-owy alert do osób przebywających na terenach zagrożonych intensywnymi opadami śniegu.",
+      "originalTitle": "Alert RCB na 30/31.12. \"Zawieje, zamiecie śnieżne i silny wiatr\"",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa wysłało we wtorek SMS-owy alert do osób przebywających na terenach zagrożonych intensywnymi opadami śniegu."
+    },
+    {
+      "title": "Paliła się szopka bożonarodzeniowa. Przyczyną mogły być fajerwerki",
+      "link": "https://tvn24.pl/trojmiasto/bolszewo-palila-sie-szopka-bozonarodzeniowa-przyczyna-mogly-byc-fajerwerki-nagranie-st8822723?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 10:09:07 GMT",
+      "description": "Policjanci poszukują osoby odpowiedzialnej za pożar szopki bożonarodzeniowej w Bolszewie (pomorskie). Jak wstępnie ustalili funkcjonariusze, przyczyną pojawienia się ognia mogło być nieostrożne obchodzenie się z fajerwerkami.",
+      "originalTitle": "Paliła się szopka bożonarodzeniowa. Przyczyną mogły być fajerwerki",
+      "originalDescription": "Policjanci poszukują osoby odpowiedzialnej za pożar szopki bożonarodzeniowej w Bolszewie (pomorskie). Jak wstępnie ustalili funkcjonariusze, przyczyną pojawienia się ognia mogło być nieostrożne obchodzenie się z fajerwerkami."
+    },
+    {
+      "title": "Napadł na kobietę w Gdańsku. Policja szuka tego mężczyzny",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-napadl-na-kobiete-policja-publikuje-portret-pamieciowy-sprawcy-st8822496?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 10:07:31 GMT",
+      "description": "Nieznany sprawca wyrwał kobiecie torebkę z gotówką, odepchnął ją i uciekł. Do zdarzenia doszło w Gdańsku. Policja publikuje portret pamięciowy poszukiwanego w tej sprawie mężczyzny.",
+      "originalTitle": "Napadł na kobietę w Gdańsku. Policja szuka tego mężczyzny",
+      "originalDescription": "Nieznany sprawca wyrwał kobiecie torebkę z gotówką, odepchnął ją i uciekł. Do zdarzenia doszło w Gdańsku. Policja publikuje portret pamięciowy poszukiwanego w tej sprawie mężczyzny."
+    },
+    {
+      "title": "Nadciąga cybertsunami. Ostrzeżenie",
+      "link": "https://tvn24.pl/biznes/tech/nadciaga-cybertsunami-ostrzezenie-st8822734?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 10:07:29 GMT",
+      "description": "Eksperci ostrzegają, że rok 2026 może przynieść gwałtowne nasilenie cyberzagrożeń. Na celowniku hakerów znajdą się przede wszystkim systemy ochrony zdrowia, branża IT oraz sektor finansowy - czytamy we wtorkowej \"Rzeczpospolitej\".",
+      "originalTitle": "Nadciąga cybertsunami. Ostrzeżenie",
+      "originalDescription": "Eksperci ostrzegają, że rok 2026 może przynieść gwałtowne nasilenie cyberzagrożeń. Na celowniku hakerów znajdą się przede wszystkim systemy ochrony zdrowia, branża IT oraz sektor finansowy - czytamy we wtorkowej \"Rzeczpospolitej\"."
+    },
+    {
+      "title": "Najwyższy stopień ostrzeżeń IMGW. Do 60 centymetrów śniegu",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-30-31-12-snieg-wiatr-zawieje-zamiecie-czerwony-alarm-najwyzszy-stopien-ostrzezen-st8820843?source=rss",
       "pubDate": "Tue, 30 Dec 2025 05:52:00 GMT",
       "description": "IMGW wydał ostrzeżenia meteorologiczne najwyższego stopnia. Miejscami może dosypać nawet 60 centymetrów śniegu. Sprawdź, gdzie zachować szczególną ostrożność.",
@@ -12,76 +68,20 @@
       "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne najwyższego stopnia. Miejscami może dosypać nawet 60 centymetrów śniegu. Sprawdź, gdzie zachować szczególną ostrożność."
     },
     {
-      "title": "Chiny grożą blokadą transportu broni na Tajwan",
+      "title": "Chiny straszą blokadą transportu amerykańskiej broni na Tajwan",
       "link": "https://tvn24.pl/swiat/tajwan-chiny-strasza-blokada-transportow-amerykanskiej-broni-na-wyspe-st8822531?source=rss",
       "pubDate": "Tue, 30 Dec 2025 09:50:50 GMT",
-      "description": "• Chińskie okręty i śmigłowce blokują transport amerykańskiej broni na Tajwan.\n• Straż przybrzeżna Chin opublikowała plakat z tym komunikatem.\n• Plakat został wypuszczony drugiego dnia chińskich manewrów wokół Tajwanu.\n• Chińskie manewry wokół Tajwanu rozpoczęto na znak protestu.\n• Protest jest spowodowany zatwierdzeniem przez USA rekordowej sprzedaży uzbrojenia dla Tajwanu.",
+      "description": "Chińskie okręty i śmigłowce blokują transport amerykańskiej broni na Tajwan - taki plakat opublikowała straż przybrzeżna Chin. Plakat wypuszczono drugiego dnia ogromnych chińskich manewrów wokół Tajwanu, rozpoczętych na znak protestu po zatwierdzeniu przez USA rekordowej sprzedaży uzbrojenia dla wyspy.",
       "originalTitle": "Chiny straszą blokadą transportu amerykańskiej broni na Tajwan",
       "originalDescription": "Chińskie okręty i śmigłowce blokują transport amerykańskiej broni na Tajwan - taki plakat opublikowała straż przybrzeżna Chin. Plakat wypuszczono drugiego dnia ogromnych chińskich manewrów wokół Tajwanu, rozpoczętych na znak protestu po zatwierdzeniu przez USA rekordowej sprzedaży uzbrojenia dla wyspy."
     },
     {
-      "title": "Polski marynarz wrócił do kraju",
+      "title": "Koniec koszmaru uprowadzonego polskiego marynarza. Wrócił już do kraju",
       "link": "https://tvn24.pl/swiat/koniec-koszmaru-uprowadzonego-polskiego-marynarza-wrocil-juz-do-kraju-st8822454?source=rss",
       "pubDate": "Tue, 30 Dec 2025 06:42:32 GMT",
       "description": "Dziewięciu uprowadzonych członków załogi gazowca CGAS Saturn, w tym Polak, zostało uwolnionych - podał armator statku. Piraci porwali załogę u wybrzeży Gwinei Równikowej na początku grudnia.",
       "originalTitle": "Koniec koszmaru uprowadzonego polskiego marynarza. Wrócił już do kraju",
       "originalDescription": "Dziewięciu uprowadzonych członków załogi gazowca CGAS Saturn, w tym Polak, zostało uwolnionych - podał armator statku. Piraci porwali załogę u wybrzeży Gwinei Równikowej na początku grudnia."
-    },
-    {
-      "title": "Zmiany w karach i składkach",
-      "link": "https://tvn24.pl/biznes/z-kraju/placa-minimalna-2026-kary-skladki-limity-w-gore-efekt-domina-lista-st8822539?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 09:35:26 GMT",
-      "description": "Od stycznia 2026 roku minimalne wynagrodzenie za pracę wzrośnie z 4666 złotych do 4806 złotych brutto. Podwyżka przełoży się nie tylko na wyższe pensje. – To zmiana, która uruchamia efekt domina - komentuje Piotr Juszczyk, główny doradca podatkowy w firmie inFakt. Dotknie nie tylko pracowników, ale także przedsiębiorców i pracodawców. Będą też wyższe kary.",
-      "originalTitle": "Kary, składki, limity w górę. \"Efekt domina\"",
-      "originalDescription": "Od stycznia 2026 roku minimalne wynagrodzenie za pracę wzrośnie z 4666 złotych do 4806 złotych brutto. Podwyżka przełoży się nie tylko na wyższe pensje. – To zmiana, która uruchamia efekt domina - komentuje Piotr Juszczyk, główny doradca podatkowy w firmie inFakt. Dotknie nie tylko pracowników, ale także przedsiębiorców i pracodawców. Będą też wyższe kary."
-    },
-    {
-      "title": "Paweł S. \"był w konspiracji, w układzie\". Miał kupić osiem aut w trzy miesiące",
-      "link": "https://tvn24.pl/polska/zamieszany-w-afere-w-rars-pawel-s-mial-kupic-osiem-luksusowych-aut-komentarze-dziennikarzy-i-politykow-st8822417?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 09:28:43 GMT",
-      "description": "Tak handlował z Rządową Agencją Rezerw strategicznych, że bardzo szybko dorobił się olbrzymiej fortuny, a ostatecznie też poważnych zarzutów. Na konta spółek twórcy marki Red is Bad za rządów Prawa i Sprawiedliwości - w czasie COVID-19 a później wojny w Ukrainie - wpłynęły setki milionów złotych. Materiał magazynu \"Polska i Świat\".",
-      "originalTitle": "Paweł S. \"był w konspiracji, w układzie\". Miał kupić osiem aut w trzy miesiące",
-      "originalDescription": "Tak handlował z Rządową Agencją Rezerw strategicznych, że bardzo szybko dorobił się olbrzymiej fortuny, a ostatecznie też poważnych zarzutów. Na konta spółek twórcy marki Red is Bad za rządów Prawa i Sprawiedliwości - w czasie COVID-19 a później wojny w Ukrainie - wpłynęły setki milionów złotych. Materiał magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Polacy za zwiększaniem wydatków na obronność. Sondaż dla \"Faktów\" TVN i TVN24",
-      "link": "https://tvn24.pl/polska/polacy-za-zwiekszaniem-wydatkow-na-obronnosc-sondaz-dla-faktow-tvn-i-tvn24-st8822441?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 09:12:52 GMT",
-      "description": "Czy wydatki na obronność powinny być zwiększane, nawet kosztem innych obszarów? O to zapytano badanych w sondażu pracowni Opinia24 dla \"Faktów\" TVN i TVN24.",
-      "originalTitle": "Polacy za zwiększaniem wydatków na obronność. Sondaż dla \"Faktów\" TVN i TVN24",
-      "originalDescription": "Czy wydatki na obronność powinny być zwiększane, nawet kosztem innych obszarów? O to zapytano badanych w sondażu pracowni Opinia24 dla \"Faktów\" TVN i TVN24."
-    },
-    {
-      "title": "Beyonce została miliarderką",
-      "link": "https://tvn24.pl/biznes/pieniadze/forbes-piosenkarka-beyonce-zostala-miliarderka-st8822551?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 09:04:27 GMT",
-      "description": "Beyonce została miliarderką - poinformował magazyn \"Forbes\". Jedna z najpopularniejszych piosenkarek XXI wieku fortunę zawdzięcza nie tylko zyskom z koncertów i sprzedaży płyt.",
-      "originalTitle": "Beyonce została miliarderką",
-      "originalDescription": "Beyonce została miliarderką - poinformował magazyn \"Forbes\". Jedna z najpopularniejszych piosenkarek XXI wieku fortunę zawdzięcza nie tylko zyskom z koncertów i sprzedaży płyt."
-    },
-    {
-      "title": "Tusk będzie dziś rozmawiać z unijnymi przywódcami",
-      "link": "https://tvn24.pl/polska/wojna-w-ukrainie-premier-donald-tusk-bedzie-dzis-rozmawiac-z-unijnymi-przywodcami-st8822701?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 09:02:25 GMT",
-      "description": "Donald Tusk weźmie dzisiaj udział w rozmowach przywódców europejskich na temat wojny w Ukrainie. Będzie to pierwsze spotkanie premiera z liderami państw wspierających Ukrainę po niedzielnym szczycie Trump-Zełenski na Florydzie.",
-      "originalTitle": "Tusk będzie dziś rozmawiać z unijnymi przywódcami",
-      "originalDescription": "Donald Tusk weźmie dzisiaj udział w rozmowach przywódców europejskich na temat wojny w Ukrainie. Będzie to pierwsze spotkanie premiera z liderami państw wspierających Ukrainę po niedzielnym szczycie Trump-Zełenski na Florydzie."
-    },
-    {
-      "title": "Najwyższy stopień ostrzeżeń. Przekroczone stany alarmowe",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-hydrologiczne-imgw-cofka-na-baltyku-najwyzszy-stopien-alarmow-st8822563?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 08:52:30 GMT",
-      "description": "IMGW wydał ostrzeżenia hydrologiczne najwyższego stopnia. Prognozowane są spiętrzenia wody wzdłuż wybrzeża Bałtyku. Sprawdź, gdzie ma być niebezpiecznie.",
-      "originalTitle": "Najwyższy stopień ostrzeżeń. Przekroczone stany alarmowe",
-      "originalDescription": "IMGW wydał ostrzeżenia hydrologiczne najwyższego stopnia. Prognozowane są spiętrzenia wody wzdłuż wybrzeża Bałtyku. Sprawdź, gdzie ma być niebezpiecznie."
-    },
-    {
-      "title": "\"Gigantyczna podwyżka podatku VAT\"? O jaką decyzję chodzi",
-      "link": "https://konkret24.tvn24.pl/polska/gigantyczna-podwyzka-podatku-vat-w-2026-roku-o-jaka-decyzje-chodzi-st8821110?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 08:47:58 GMT",
-      "description": "Politycy piszą o \"sięganiu do kieszeni Polaków\", internauci o planowanym wzroście VAT z 5 do 23 procent. Krążące w sieci komentarze o decyzji co do \"gigantycznej podwyżki\" podatku w handlu i gastronomii generują kolejne spekulacje. Sprawdziliśmy, o co chodzi.",
-      "originalTitle": "\"Gigantyczna podwyżka podatku VAT\"? O jaką decyzję chodzi",
-      "originalDescription": "Politycy piszą o \"sięganiu do kieszeni Polaków\", internauci o planowanym wzroście VAT z 5 do 23 procent. Krążące w sieci komentarze o decyzji co do \"gigantycznej podwyżki\" podatku w handlu i gastronomii generują kolejne spekulacje. Sprawdziliśmy, o co chodzi."
     }
   ]
 }
