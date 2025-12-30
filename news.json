@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2025-12-30T19:05:39.920Z",
+  "lastUpdate": "2025-12-30T19:34:21.295Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Awaria kolei pod Warszawą",
+      "title": "Awaria wyciągu, ewakuacja",
+      "link": "https://tvn24.pl/krakow/rzyki-awaria-wyciagu-narciarskiego-trwa-ewakuacja-kilkudziesieciu-osob-st8824029?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 18:50:13 GMT",
+      "description": "Po awarii wyciągu narciarskiego w Rzykach strażacy ewakuowali około 70 osób. Akcja już się zakończyła. Nie ma osób poszkodowanych.",
+      "originalTitle": "Awaria wyciągu narciarskiego, ewakuowano kilkadziesiąt osób",
+      "originalDescription": "Po awarii wyciągu narciarskiego w Rzykach strażacy ewakuowali około 70 osób. Akcja już się zakończyła. Nie ma osób poszkodowanych."
+    },
+    {
+      "title": "Pogoda w Polsce: ostrzeżenie przed cofką, apel policji",
+      "link": "https://tvn24.pl/polska/niebezpieczna-pogoda-w-polsce-zagrozenie-cofka-policja-opublikowala-apel-st8823720?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 15:56:10 GMT",
+      "description": "• Zakończyła się pilna narada wojewodów związana z sytuacją pogodową.\n• Śnieżyce i silny wiatr dają się we znaki, szczególnie na północy kraju.\n• Występuje zagrożenie \"cofką\" w związku ze spiętrzeniem wody.\n• Na drogach panują złe warunki.\n• Zalega błoto pośniegowe na drogach.\n• Tworzą się korki na drogach.\n• Relacjonowano utrudnienia związane z niebezpieczną pogodą w różnych częściach Polski.",
+      "originalTitle": "Niebezpieczna pogoda w Polsce. Zagrożenie \"cofką\", policja opublikowała apel",
+      "originalDescription": "Zakończyła się pilna narada wojewodów związana z sytuacją pogodową. Śnieżyce i silny wiatr dają się we znaki, szczególnie na północy kraju. Do tego występuje zagrożenie \"cofką\" w związku ze spiętrzeniem wody. Na drogach panują złe warunki, zalega błoto pośniegowe, tworzą się korki. Relacjonujemy utrudnienia związane z niebezpieczną pogodą w różnych częściach Polski."
+    },
+    {
+      "title": "Ustawa o osobie najbliższej",
+      "link": "https://tvn24.pl/polska/co-dalej-z-ustawa-o-osobie-najblizszej-katarzyna-kotula-licze-na-pania-prezydentowa-st8823966?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 19:11:16 GMT",
+      "description": "• Nieformalnie rozmawiałam z ministrami z Pałacu Prezydenckiego.\n• Pytałam ich, czy będzie otwartość ze strony prezydenta Karola Nawrockiego na podpisanie ustawy o osobie najbliższej.\n• Katarzyna Kotula powiedziała o tym w \"Faktach po Faktach\" w TVN24.\n• Ministra wyraziła nadzieję na spotkanie w tej sprawie z pierwszą damą Martą Nawrocką.",
+      "originalTitle": "Co dalej z ustawą o osobie najbliższej? Katarzyna Kotula: liczę na panią prezydentową",
+      "originalDescription": "Nieformalnie rozmawiałam z ministrami z Pałacu Prezydenckiego i pytałam ich, czy będzie otwartość ze strony prezydenta Karola Nawrockiego na podpisanie ustawy o osobie najbliższej - powiedziała w \"Faktach po Faktach\" w TVN24 Katarzyna Kotula. Ministra wyraziła też nadzieję na spotkanie w tej sprawie z pierwszą damą Martą Nawrocką."
+    },
+    {
+      "title": "Nowa usługa w rządowej aplikacji",
+      "link": "https://tvn24.pl/biznes/tech/nowa-usluga-w-rzadowej-aplikacji-st8823618?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 19:01:55 GMT",
+      "description": "31 grudnia 2025 roku w aplikacji mObywatel pojawi się wirtualny asystent. To rozwiązanie wykorzystujące polską sztuczną inteligencję - model PLLuM stworzony wspólnie przez krajowe uczelnie i instytucje naukowe. Czatbot pomoże w załatwianiu spraw urzędowych, w dostępie do informacji, nie przetwarzając przy tym danych osobowych użytkowników.",
+      "originalTitle": "Nowa usługa w rządowej aplikacji",
+      "originalDescription": "31 grudnia 2025 roku w aplikacji mObywatel pojawi się wirtualny asystent. To rozwiązanie wykorzystujące polską sztuczną inteligencję - model PLLuM stworzony wspólnie przez krajowe uczelnie i instytucje naukowe. Czatbot pomoże w załatwianiu spraw urzędowych, w dostępie do informacji, nie przetwarzając przy tym danych osobowych użytkowników."
+    },
+    {
+      "title": "Awaria na kolei pod Warszawą",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/legionowo-awaria-na-kolei-pod-warszawa-st8824039?source=rss",
       "pubDate": "Tue, 30 Dec 2025 18:56:23 GMT",
       "description": "W rejonie stacji Legionowo doszło do awarii. Występują utrudnienia w ruchu wszystkich przewoźników. Pociągi Szybkiej Kolei Miejskiej linii S3, S4 i S40 mogą być opóźnione powyżej 30 minut.",
@@ -12,7 +44,7 @@
       "originalDescription": "W rejonie stacji Legionowo doszło do awarii. Występują utrudnienia w ruchu wszystkich przewoźników. Pociągi Szybkiej Kolei Miejskiej linii S3, S4 i S40 mogą być opóźnione powyżej 30 minut."
     },
     {
-      "title": "Awaria ogrzewania w 120 budynkach",
+      "title": "Ponad 120 budynków na Pradze bez ogrzewania",
       "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/ponad-120-budynkow-na-pradze-bez-ogrzewania-st8823806?source=rss",
       "pubDate": "Tue, 30 Dec 2025 16:47:05 GMT",
       "description": "We wtorek doszło do dużej awarii ciepłowniczej na Pradze Północ. Przerwa w dostawie ogrzewania dotyczy aż 126 adresów. Ciepło ma wrócić 31 grudnia, do godziny 20.",
@@ -26,14 +58,6 @@
       "description": "W Wigilię Bożego Narodzenia Biuro Bezpieczeństwa Narodowego opublikowało zdjęcie z wizyty prezydenta Karola Nawrockiego na wschodniej granicy. Według generała Mirosława Różańskiego przedstawia ono wojskowe mapy z informacjami wrażliwymi. - Ktoś powinien to weryfikować - powiedział portalowi tvn24.pl. BBN i fotograf Nawrockiego już zabrali głos w tej sprawie.",
       "originalTitle": "Zamieszanie wokół zdjęcia z mapą i Nawrockim. Fotograf prezydenta komentuje",
       "originalDescription": "W Wigilię Bożego Narodzenia Biuro Bezpieczeństwa Narodowego opublikowało zdjęcie z wizyty prezydenta Karola Nawrockiego na wschodniej granicy. Według generała Mirosława Różańskiego przedstawia ono wojskowe mapy z informacjami wrażliwymi. - Ktoś powinien to weryfikować - powiedział portalowi tvn24.pl. BBN i fotograf Nawrockiego już zabrali głos w tej sprawie."
-    },
-    {
-      "title": "Awaria wyciągu narciarskiego, trwa ewakuacja 100 osób",
-      "link": "https://tvn24.pl/krakow/rzyki-awaria-wyciagu-narciarskiego-trwa-ewakuacja-100-osob-st8824029?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 18:50:13 GMT",
-      "description": "Po awarii wyciągu narciarskiego w Rzykach straż pożarna ewakuuje około 100 osób, które z niego korzystały.",
-      "originalTitle": "Awaria wyciągu narciarskiego, trwa ewakuacja 100 osób",
-      "originalDescription": "Po awarii wyciągu narciarskiego w Rzykach straż pożarna ewakuuje około 100 osób, które z niego korzystały."
     },
     {
       "title": "\"Liczby potwierdzają - przejście było i jest potrzebne\"",
@@ -58,30 +82,6 @@
       "description": "Pogoda na jutro, czyli na środę 31.12. W nocy aura w całym kraju będzie zróżnicowana. Miejscami wystąpią intensywne opady śniegu. Środa w większości Polski będzie pochmurna, śnieżna i mroźna. Na północy powieje silny wiatr.",
       "originalTitle": "Pogoda na jutro - środa, 31.12. Gdzie w nocy i w środę spadnie najwięcej śniegu",
       "originalDescription": "Pogoda na jutro, czyli na środę 31.12. W nocy aura w całym kraju będzie zróżnicowana. Miejscami wystąpią intensywne opady śniegu. Środa w większości Polski będzie pochmurna, śnieżna i mroźna. Na północy powieje silny wiatr."
-    },
-    {
-      "title": "Amerykański gigant kupuje chiński start-up. \"Rzadki przypadek\"",
-      "link": "https://tvn24.pl/biznes/tech/meta-kupi-chinski-startup-manus-trzecia-co-do-wielkosci-inwestycja-w-historii-wlasciciela-facebooka-i-whatsappa-st8823721?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 18:23:49 GMT",
-      "description": "Koncern Meta - właściciel Facebooka, Instagrama czy WhatsAppa - właśnie ogłosił trzecią co do wielkości inwestycję w historii firmy. Zakup chińskiego start-upu Manus, zajmującego się sztuczną inteligencją, przebiega na tle wyścigu technologicznego między Waszyngtonem a Pekinem - poinformował \"Financial Times\".",
-      "originalTitle": "Amerykański gigant kupuje chiński start-up. \"Rzadki przypadek\"",
-      "originalDescription": "Koncern Meta - właściciel Facebooka, Instagrama czy WhatsAppa - właśnie ogłosił trzecią co do wielkości inwestycję w historii firmy. Zakup chińskiego start-upu Manus, zajmującego się sztuczną inteligencją, przebiega na tle wyścigu technologicznego między Waszyngtonem a Pekinem - poinformował \"Financial Times\"."
-    },
-    {
-      "title": "Niebezpieczna pogoda w Polsce. Trwa narada wojewodów",
-      "link": "https://tvn24.pl/polska/niebezpieczna-pogoda-w-polsce-trwa-narada-wojewodow-st8823720?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 15:56:10 GMT",
-      "description": "Trwa pilna narada wojewodów związana z sytuacją pogodową. Śnieżyce i silny wiatr dają się we znaki, szczególnie na północy kraju. Do tego występuje zagrożenie \"cofką\" w związku ze spiętrzeniem w zbiornikach wodnych. Na drogach panują złe warunki, zalega błoto pośniegowe, tworzą się korki. Relacjonujemy utrudnienia związane z niebezpieczną pogodą w różnych częściach Polski.",
-      "originalTitle": "Niebezpieczna pogoda w Polsce. Trwa narada wojewodów",
-      "originalDescription": "Trwa pilna narada wojewodów związana z sytuacją pogodową. Śnieżyce i silny wiatr dają się we znaki, szczególnie na północy kraju. Do tego występuje zagrożenie \"cofką\" w związku ze spiętrzeniem w zbiornikach wodnych. Na drogach panują złe warunki, zalega błoto pośniegowe, tworzą się korki. Relacjonujemy utrudnienia związane z niebezpieczną pogodą w różnych częściach Polski."
-    },
-    {
-      "title": "Prokuratura zdecydowała w sprawie Ewy Wrzosek",
-      "link": "https://tvn24.pl/polska/prokuratura-zdecydowala-w-sprawie-ewy-wrzosek-st8823939?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 18:02:15 GMT",
-      "description": "Prokuratura umorzyła śledztwo wobec prokurator Ewy Wrzosek w sprawie sporządzania dokumentów wysyłanych do sądów, które powstawały poza miejscem jej pracy. Według śledczych działanie Wrzosek nie stanowiło przestępstwa ze względu na znikomą społeczną szkodliwość.",
-      "originalTitle": "Prokuratura zdecydowała w sprawie Ewy Wrzosek",
-      "originalDescription": "Prokuratura umorzyła śledztwo wobec prokurator Ewy Wrzosek w sprawie sporządzania dokumentów wysyłanych do sądów, które powstawały poza miejscem jej pracy. Według śledczych działanie Wrzosek nie stanowiło przestępstwa ze względu na znikomą społeczną szkodliwość."
     }
   ]
 }
