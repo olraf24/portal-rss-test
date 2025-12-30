@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2025-12-30T08:08:12.631Z",
+  "lastUpdate": "2025-12-30T08:42:50.324Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Jak psychofarmakologia wpływa na bezpieczeństwo drogowe?",
+      "link": "https://dzienniknaukowy.pl/jak-psychofarmakologia-wplywa-na-bezpieczenstwo-drogowe",
+      "pubDate": "Tue, 30 Dec 2025 08:38:07 +0000",
+      "description": "Prowadzenie samochodu to jedna z najbardziej złożonych czynności, jakie wykonuje człowiek. Wymaga uwagi, refleksu i zdolności podejmowania decyzji w ułamkach sekund. Tymczasem coraz więcej kierowców porusza się po drogach pod wpływem substancji, które – choć legalne w kontekście leczenia – mogą prowadzić do spowolnienia reakcji, problemów z koncentracją oraz osłabienia koordynacji ruchowej"
+    },
+    {
+      "title": "Polacy w międzynarodowym projekcie mapowania powierzchni Księżyca",
+      "link": "https://dzienniknaukowy.pl/polacy-w-miedzynarodowym-projekcie-mapowania-powierzchni-ksiezyca",
+      "pubDate": "Tue, 30 Dec 2025 08:24:40 +0000",
+      "description": "Mapowanie powierzchni Księżyca z najwyższą dotąd rozdzielczością, dostrzeżenie na nim dużych skał i klifów mogących zagrozić lądującym statkom kosmicznym umożliwi misja Mani z udziałem Polaków. Jej projekt - jako jeden z trzech - ESA zakwalifikowała do kolejnego etapu programu Małych Misji Księżycowych."
+    },
     {
       "title": "Co naprawdę skręca polaryzację światła?",
       "link": "https://dzienniknaukowy.pl/co-naprawde-skreca-polaryzacje-swiatla",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/od-fulerenow-do-struktur-2d-przepis-na-projektowanie-nanostruktur-boru",
       "pubDate": "Thu, 18 Dec 2025 11:43:38 +0000",
       "description": "Fizyk z UW opracował model wyjaśniający różnorodność nanostruktur boru, od pustych w środku klastrów molekularnych po ultracienkie warstwy 2D. Odkrycie to pozwala nie tylko zrozumieć istniejące nanostruktury boru, lecz także przewidywać i projektować nowe materiały o pożądanych właściwościach."
-    },
-    {
-      "title": "Co to jest nefrektomia i dlaczego bywa konieczna?",
-      "link": "https://dzienniknaukowy.pl/co-to-jest-nefrektomia-i-dlaczego-bywa-konieczna",
-      "pubDate": "Thu, 18 Dec 2025 08:33:00 +0000",
-      "description": "Nefrektomia to chirurgiczne usunięcie nerki, które stanowi ważny zabieg w leczeniu różnych schorzeń nerek, zwłaszcza nowotworów. Nerki, jako narządy o kluczowej roli w utrzymaniu homeostazy organizmu, filtrują krew, wydzielają mocz oraz uczestniczą w regulacji ciśnienia tętniczego. Mimo że każdy człowiek posiada dwie nerki, usunięcie jednej z nich jest możliwe pod warunkiem, że druga funkcjonuje prawidłowo"
-    },
-    {
-      "title": "Skok w rozwoju AI. Polacy przełamują impas w uczeniu ze wzmocnieniem (RL)",
-      "link": "https://dzienniknaukowy.pl/skok-w-rozwoju-ai-polacy-przelamuja-impas-w-uczeniu-ze-wzmocnieniem-rl",
-      "pubDate": "Wed, 17 Dec 2025 12:29:46 +0000",
-      "description": "Zespół informatyków z udziałem dwóch Polaków znalazł sposób na skokowe zwiększenie głębokości sieci neuronowych - z kilku do aż tysiąca warstw - w modelach AI uczenia ze wzmocnieniem (RL)."
     }
   ]
 }
