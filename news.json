@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2025-12-31T17:05:50.498Z",
+  "lastUpdate": "2025-12-31T17:37:02.349Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pogoda 1.01: mróz",
+      "title": "Zegar w Warszawie od 25 lat",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zegar-milenijny-na-palacu-kultury-i-nauki-po-raz-25-przywita-nowy-rok-st8825651?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 17:30:04 GMT",
+      "description": "• W noc sylwestrową 2000/2001 na Pałacu Kultury i Nauki został uruchomiony zegar milenijny.\n• Zegar milenijny został uruchomiony na Pałacu Kultury i Nauki.\n• Zegar odmierza sekundy do Nowego Roku.\n• Zegar działa nieprzerwanie przez 25 lat.",
+      "originalTitle": "Ten zegar wita Nowy Rok w Warszawie od 25 lat",
+      "originalDescription": "W noc sylwestrową 2000/2001 na Pałacu Kultury i Nauki został uruchomiony zegar milenijny. W tegorocznego sylwestra, po 25 latach, nadal będzie odmierzał sekundy do Nowego Roku."
+    },
+    {
+      "title": "Sytuacja w kraju po sztabie kryzysowym",
+      "link": "https://tvn24.pl/polska/dzialania-sluzb-sytuacja-w-kraju-po-sztabie-kryzysowym-st8825643?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 17:21:39 GMT",
+      "description": "Premier Donald Tusk w środę podczas posiedzenia sztabu kryzysowego podkreślił, że w związku z trudnymi warunkami atmosferycznymi należy przyjmować warianty pesymistyczne. Komendant główny Państwowej Straży Pożarnej poinformował, że strażacy odnotowali kilkaset interwencji związanych z usuwaniem skutków złej pogody, a szef policji wyliczył, że na drogach doszło do ponad 260 zdarzeń.",
+      "originalTitle": "Działania służb, sytuacja w kraju. Po sztabie kryzysowym",
+      "originalDescription": "Premier Donald Tusk w środę podczas posiedzenia sztabu kryzysowego podkreślił, że w związku z trudnymi warunkami atmosferycznymi należy przyjmować warianty pesymistyczne. Komendant główny Państwowej Straży Pożarnej poinformował, że strażacy odnotowali kilkaset interwencji związanych z usuwaniem skutków złej pogody, a szef policji wyliczył, że na drogach doszło do ponad 260 zdarzeń."
+    },
+    {
+      "title": "Sąd skazał 75-latkę za oszustwo",
+      "link": "https://tvn24.pl/wroclaw/jelenia-gora-75-latka-skazana-za-wyludzenie-testamentu-od-sasiadki-st8825632?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 17:11:39 GMT",
+      "description": "• Sąd Apelacyjny we Wrocławiu prawomocnie skazał 75-latkę z Jeleniej Góry (Dolnośląskie).\n• 75-latka wyłudziła spadek od sąsiadki.\n• Sąsiadka miała 89 lat.\n• Oszustka użyła \"podstępnych zabiegów\", aby nakłonić sąsiadkę do przepisania majątku.\n• Majątek sąsiadki składał się z mieszkania i 300 tysięcy złotych na koncie bankowym.\n• Cały majątek sąsiadki został przepisany na 75-latkę.",
+      "originalTitle": "Sąd nie uwierzył w \"dobre serce\" sąsiadki. 75-latka skazana za \"podstępne zabiegi\"",
+      "originalDescription": "Sąd Apelacyjny we Wrocławiu prawomocnie skazał 75-latkę z Jeleniej Góry (Dolnośląskie), która wyłudziła spadek od sąsiadki. Jak stwierdziła prokuratura, oszustka za pomocą \"podstępnych zabiegów\" nakłoniła 89-latkę do przepisaniu jej całego swojego majątku - mieszkania i 300 tysięcy złotych na koncie bankowym."
+    },
+    {
+      "title": "Babia Góra. Pierwszy stopień zagrożenia lawinowego, zaspy na 100 cm",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-atak-zimy-babia-gora-pierwszy-stopien-zagrozenia-lawinowego-zaspy-na-100-cm-gopr-ostrzega-st8825645?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 17:07:43 GMT",
+      "description": "W środę wieczorem Górskie Ochotnicze Pogotowie Ratunkowe (GOPR) ogłosiło pierwszy, najniższy stopień zagrożenia lawinowego na Babiej Górze w Beskidach.",
+      "originalTitle": "Babia Góra. Pierwszy stopień zagrożenia lawinowego, zaspy na 100 cm",
+      "originalDescription": "W środę wieczorem Górskie Ochotnicze Pogotowie Ratunkowe (GOPR) ogłosiło pierwszy, najniższy stopień zagrożenia lawinowego na Babiej Górze w Beskidach."
+    },
+    {
+      "title": "Lista przebojów ratujących życie. Tę playlistę powinien mieć przy sobie każdy",
+      "link": "https://tvn24.pl/zdrowie/lista-przebojow-ratujacych-zycie-te-playliste-powinien-miec-przy-sobie-kazdy-st8825624?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 17:07:23 GMT",
+      "description": "W karnawale ta składanka sprawdzi się na imprezie. W sytuacji kryzysowej - może uratować życie. Mowa o playliście CPR Songs, którą od lat tworzy i aktualizuje American Heart Association (AHA) - jedna z najważniejszych organizacji zajmujących się chorobami serca i wytycznymi resuscytacji na świecie. Właśnie dołączył do niej grunge’owy klasyk \"Even Flow\" Pearl Jam, mający około 105 uderzeń na minutę - dokładnie tyle, ile powinny mieć uciski klatki piersiowej podczas resuscytacji wykonywanej wyłącznie rękoma.",
+      "originalTitle": "Lista przebojów ratujących życie. Tę playlistę powinien mieć przy sobie każdy",
+      "originalDescription": "W karnawale ta składanka sprawdzi się na imprezie. W sytuacji kryzysowej - może uratować życie. Mowa o playliście CPR Songs, którą od lat tworzy i aktualizuje American Heart Association (AHA) - jedna z najważniejszych organizacji zajmujących się chorobami serca i wytycznymi resuscytacji na świecie. Właśnie dołączył do niej grunge’owy klasyk \"Even Flow\" Pearl Jam, mający około 105 uderzeń na minutę - dokładnie tyle, ile powinny mieć uciski klatki piersiowej podczas resuscytacji wykonywanej wyłącznie rękoma."
+    },
+    {
+      "title": "Pogoda na jutro - 1.01, noc sylwestrowa. Chwyci siarczysty mróz",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-1-01-noc-sylwestrowa-chwyci-siarczysty-mroz-st8825474?source=rss",
       "pubDate": "Wed, 31 Dec 2025 16:41:37 GMT",
-      "description": "• Pogoda na jutro, 1.01.\n• Noc sylwestrowa zapowiada się z opadami śniegu \n• Noc sylwestrowa zapowiada się z tęgim mrozem\n• Termometry mogą pokazać miejscami nawet -15 stopni Celsjusza",
+      "description": "Pogoda na jutro, 1.01. Noc sylwestrowa zapowiada się z opadami śniegu i tęgim mrozem. Termometry mogą pokazać miejscami nawet -15 stopni Celsjusza.",
       "originalTitle": "Pogoda na jutro - 1.01, noc sylwestrowa. Chwyci siarczysty mróz",
       "originalDescription": "Pogoda na jutro, 1.01. Noc sylwestrowa zapowiada się z opadami śniegu i tęgim mrozem. Termometry mogą pokazać miejscami nawet -15 stopni Celsjusza."
     },
     {
-      "title": "Prokuratura oskarżyła matkę w sprawie śmierci dziecka",
+      "title": "Ciało dziecka w dawnej chlewni. Prokuratura oskarżyła matkę",
       "link": "https://tvn24.pl/lublin/cialo-dziecka-w-dawnej-chlewni-prokuratura-oskarzyla-matke-st8825437?source=rss",
       "pubDate": "Wed, 31 Dec 2025 16:34:47 GMT",
-      "description": "• Prokuratura oskarżyła 31-latkę o zabójstwo swojego nowo narodzonego dziecka.\n• Zabójstwo miało miejsce w gminie Ułęż.\n• Gmina Ułęż znajduje się w województwie Lubelskim.\n• Kobieta po porodzie umieściła chłopczyka w płóciennej torbie.\n• Następnie kobieta wrzuciła torbę do budynku starej chlewni.",
+      "description": "Prokuratura oskarżyła 31-latkę o zabójstwo swojego nowo narodzonego dziecka w gminie Ułęż (Lubelskie). Według śledczych kobieta po porodzie umieściła chłopczyka w płóciennej torbie i wrzuciła do budynku starej chlewni.",
       "originalTitle": "Ciało dziecka w dawnej chlewni. Prokuratura oskarżyła matkę",
       "originalDescription": "Prokuratura oskarżyła 31-latkę o zabójstwo swojego nowo narodzonego dziecka w gminie Ułęż (Lubelskie). Według śledczych kobieta po porodzie umieściła chłopczyka w płóciennej torbie i wrzuciła do budynku starej chlewni."
     },
     {
-      "title": "Lotnisko Modlin: pełna funkcjonalność",
+      "title": "\"Lotnisko w Modlinie przywróciło pełną funkcjonalność operacyjną\". Opóźnienia są nadal",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/modlin-lotnisko-przywrocilo-pelna-funkcjonalnosc-lotow-st8824756?source=rss",
       "pubDate": "Wed, 31 Dec 2025 10:01:17 GMT",
       "description": "Przez atak zimy lotnisko w Modlinie wstrzymało wszystkie przyloty i odloty. Minister infrastruktury Dariusz Klimczak informował, że panowała tam najtrudniejsza sytuacja w kraju. Port lotniczy przekazał, że udało się przywrócić pełną funkcjonalność operacyjną, a wszystkie rejsy są obsługiwane. Jednak nadal są opóźnienia.",
@@ -42,46 +82,6 @@
       "description": "Dzieci rozmawiały w autobusie o samochodach. Nagle stojący obok obcy dorosły pasażer obejrzał się w ich stronę i splunął w twarz 12-latkowi. Wyzwiska, które usłyszał chłopiec jednoznacznie wskazywały na rasizm. Mężczyzna już usłyszał zarzut.",
       "originalTitle": "W autobusie splunął chłopcu w twarz. Z powodu koloru skóry",
       "originalDescription": "Dzieci rozmawiały w autobusie o samochodach. Nagle stojący obok obcy dorosły pasażer obejrzał się w ich stronę i splunął w twarz 12-latkowi. Wyzwiska, które usłyszał chłopiec jednoznacznie wskazywały na rasizm. Mężczyzna już usłyszał zarzut."
-    },
-    {
-      "title": "Karambol na autostradzie A4. Powstał potężny korek",
-      "link": "https://tvn24.pl/wroclaw/karambol-na-autostradzie-a4-wroclaw-legnica-powstal-potezny-korek-st8825516?source=rss",
-      "pubDate": "Wed, 31 Dec 2025 14:58:49 GMT",
-      "description": "Osiem pojazdów, w tym sześć osobowych, jeden ciężarowy oraz bus, zderzyło się na autostradzie A4 między Wrocławiem a Legnicą. Służby udrożniły jeden pas ruchu w stronę Zgorzelca, ale wciąż występują utrudnienia.",
-      "originalTitle": "Karambol na autostradzie A4. Powstał potężny korek",
-      "originalDescription": "Osiem pojazdów, w tym sześć osobowych, jeden ciężarowy oraz bus, zderzyło się na autostradzie A4 między Wrocławiem a Legnicą. Służby udrożniły jeden pas ruchu w stronę Zgorzelca, ale wciąż występują utrudnienia."
-    },
-    {
-      "title": "\"Warianty najbardziej pesymistyczne\". Premier na sztabie",
-      "link": "https://tvn24.pl/polska/opady-sniegu-w-polsce-utrudnienia-zablokowane-drogi-relacja-na-zywo-st8823720?source=rss",
-      "pubDate": "Tue, 30 Dec 2025 15:56:10 GMT",
-      "description": "W środę śnieg nadal pada w wielu regionach kraju, miejscami intensywnie. IMGW wydał ostrzeżenia przed niebezpieczną pogodą. - Musimy być przygotowani na warianty najbardziej pesymistyczne - mówił podczas posiedzenia sztabu kryzysowego premier Donald Tusk. Relacjonujemy utrudnienia związane z niebezpieczną pogodą w różnych częściach Polski.",
-      "originalTitle": "\"Warianty najbardziej pesymistyczne\". Premier na sztabie",
-      "originalDescription": "W środę śnieg nadal pada w wielu regionach kraju, miejscami intensywnie. IMGW wydał ostrzeżenia przed niebezpieczną pogodą. - Musimy być przygotowani na warianty najbardziej pesymistyczne - mówił podczas posiedzenia sztabu kryzysowego premier Donald Tusk. Relacjonujemy utrudnienia związane z niebezpieczną pogodą w różnych częściach Polski."
-    },
-    {
-      "title": "Atak zimy. Opady śniegu w Polsce. Gdzie i ile śniegu spadnie na początku nowego roku",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/atak-zimy-opady-sniegu-i-pogoda-w-polsce-gdzie-i-ile-sniegu-spadnie-na-poczatku-nowego-roku-st8825399?source=rss",
-      "pubDate": "Wed, 31 Dec 2025 15:31:17 GMT",
-      "description": "Pogoda w Polsce. Atak zimy. Z prognoz na pierwsze dni nowego roku wynika, że w kraju pojawi się kolejna porcja opadów śniegu. Miejscami znów będą one intensywne. Chwyci mróz, powieje silniejszy wiatr.",
-      "originalTitle": "Atak zimy. Opady śniegu w Polsce. Gdzie i ile śniegu spadnie na początku nowego roku",
-      "originalDescription": "Pogoda w Polsce. Atak zimy. Z prognoz na pierwsze dni nowego roku wynika, że w kraju pojawi się kolejna porcja opadów śniegu. Miejscami znów będą one intensywne. Chwyci mróz, powieje silniejszy wiatr."
-    },
-    {
-      "title": "Zaśnieżona trasa, kierowca z organem do transplantacji. Strażacy monitorowali przejazd karetki",
-      "link": "https://tvn24.pl/olsztyn/s7-gdansk-nietypowa-interwencja-strazakow-monitorowali-przejazd-karetki-z-organem-do-transplantacji-st8825467?source=rss",
-      "pubDate": "Wed, 31 Dec 2025 15:29:05 GMT",
-      "description": "Niewiele brakowało, by na drodze ekspresowej S7 w okolicach Olsztynka w korku utknął kierowca karetki pogotowia, który transportował organ do pilnej transplantacji do szpitala w Gdańsku. Przy pomocy strażaków, którzy śledzili jego poczynania na drodze dzięki sygnałowi GPS, udało mu się wydostać jedną z bocznych dróg i dotrzeć do lecznicy na czas.",
-      "originalTitle": "Zaśnieżona trasa, kierowca z organem do transplantacji. Strażacy monitorowali przejazd karetki",
-      "originalDescription": "Niewiele brakowało, by na drodze ekspresowej S7 w okolicach Olsztynka w korku utknął kierowca karetki pogotowia, który transportował organ do pilnej transplantacji do szpitala w Gdańsku. Przy pomocy strażaków, którzy śledzili jego poczynania na drodze dzięki sygnałowi GPS, udało mu się wydostać jedną z bocznych dróg i dotrzeć do lecznicy na czas."
-    },
-    {
-      "title": "Zniknęły kilkadziesiąt lat temu, cenne wolumeny trafiły na internetową aukcję",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-policjanci-odzyskali-cenne-wolumeny-st8824811?source=rss",
-      "pubDate": "Wed, 31 Dec 2025 15:23:10 GMT",
-      "description": "Stołeczni policjanci odzyskali utracone wolumeny w języku hebrajskim i jidysz. Cenne książki pochodzą z przełomu XIX i XX wieku, należały do bibliotek Żydowskiego Instytutu Historycznego i Warszawskiej Gminy Żydowskiej. Namierzono je na internetowej aukcji.",
-      "originalTitle": "Zniknęły kilkadziesiąt lat temu, cenne wolumeny trafiły na internetową aukcję",
-      "originalDescription": "Stołeczni policjanci odzyskali utracone wolumeny w języku hebrajskim i jidysz. Cenne książki pochodzą z przełomu XIX i XX wieku, należały do bibliotek Żydowskiego Instytutu Historycznego i Warszawskiej Gminy Żydowskiej. Namierzono je na internetowej aukcji."
     }
   ]
 }
