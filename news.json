@@ -1,18 +1,66 @@
 {
-  "lastUpdate": "2026-01-01T09:39:47.647Z",
+  "lastUpdate": "2026-01-01T10:07:00.723Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Porodówka zostaje zamknięta",
+      "title": "Odnaleziono zwłoki mężczyzny",
+      "link": "https://tvn24.pl/krakow/swinna-poreba-w-zgliszczach-znalezli-cialo-mezczyzny-st8826130?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 10:01:02 GMT",
+      "description": "• Tragedia miała miejsce w noworoczną noc.\n• Zdarzenie miało miejsce w Małopolsce.\n• Pożar wystąpił w Świnnej Porębie.\n• Spłonęła szopa.\n• Spłonęła część domu jednorodzinnego.\n• W zgliszczach strażacy znaleźli ciało mężczyzny.\n• Zmarły mężczyzna miał 79 lat.",
+      "originalTitle": "W zgliszczach znaleźli ciało mężczyzny",
+      "originalDescription": "Tragedia w noworoczną noc w Małopolsce. W Świnnej Porębie spłonęła szopa i część domu jednorodzinnego. W zgliszczach strażacy znaleźli ciało 79-letniego mężczyzny."
+    },
+    {
+      "title": "Pożar w hotelu, ewakuacja kilkunastu osób",
+      "link": "https://tvn24.pl/poznan/wielen-pozar-w-hotelu-kilkanascie-osob-ewakuowalo-sie-przed-przyjazdem-sluzb-st8826098?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 09:58:58 GMT",
+      "description": "• Po północy strażacy otrzymali wezwanie do hotelu w Wieleniu.\n• Hotel znajduje się w Wielkopolsce.\n• Pożar wybuchł na poddaszu budynku.\n• Budynek hotelu ma trzy kondygnacje.\n• Z ogniem walczyło kilkudziesięciu strażaków.",
+      "originalTitle": "Ogień na poddaszu hotelu, ewakuowało się kilkanaście osób",
+      "originalDescription": "Po północy strażacy otrzymali wezwanie do hotelu w Wieleniu (Wielkopolska). Na poddaszu trzykondygnacyjnego budynku wybuchł pożar. Z ogniem walczyło kilkudziesięciu strażaków."
+    },
+    {
+      "title": "Dwie osoby starsze odnalezione po telefonie",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/seniorzy-zima-wystarczyl-telefon-86-latka-i-90-latek-bezpiecznie-wrocili-do-swoich-rodzin-st8825776?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 09:55:28 GMT",
+      "description": "Zima to bardzo trudny czas dla seniorów, szczególnie dla osób, które mają problemy z pamięcią i łatwo mogą się zgubić. Dłuższe przebywanie na zewnątrz może stanowić poważne zagrożenie dla ich zdrowia, a nawet życia. Wystarczy jeden telefon, by komuś pomóc. Dzięki pracownikowi ochrony odnaleziono zaginioną 86-latkę, a dzięki zgłoszeniu pracownicy lokalu usługowego do domu bezpiecznie wrócił 90-latek.",
+      "originalTitle": "Wystarczył telefon. 86-latka i 90-latek bezpiecznie wrócili do swoich rodzin",
+      "originalDescription": "Zima to bardzo trudny czas dla seniorów, szczególnie dla osób, które mają problemy z pamięcią i łatwo mogą się zgubić. Dłuższe przebywanie na zewnątrz może stanowić poważne zagrożenie dla ich zdrowia, a nawet życia. Wystarczy jeden telefon, by komuś pomóc. Dzięki pracownikowi ochrony odnaleziono zaginioną 86-latkę, a dzięki zgłoszeniu pracownicy lokalu usługowego do domu bezpiecznie wrócił 90-latek."
+    },
+    {
+      "title": "Wypadek: dziesiątki ofiar śmiertelnych, około stu rannych",
+      "link": "https://tvn24.pl/swiat/szwajcaria-eksplozja-w-kurorcie-narciarskim-w-noc-sylwestrowa-ofiary-smiertelne-i-ranni-st8825894?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 06:42:47 GMT",
+      "description": "Rośnie liczba zabitych i rannych w wyniku eksplozji w barze w popularnym kurorcie narciarskim Crans-Montana w południowej Szwajcarii. Policja poinformowała o kilkudziesięciu zmarłych i ponad 100 rannych. Do zdarzenia doszło w sylwestrową noc. Przyczyną mogło być użycie materiałów pirotechnicznych.",
+      "originalTitle": "Szpitale \"zapełnione ofiarami\". Dziesiątki osób nie żyją, około stu rannych",
+      "originalDescription": "Rośnie liczba zabitych i rannych w wyniku eksplozji w barze w popularnym kurorcie narciarskim Crans-Montana w południowej Szwajcarii. Policja poinformowała o kilkudziesięciu zmarłych i ponad 100 rannych. Do zdarzenia doszło w sylwestrową noc. Przyczyną mogło być użycie materiałów pirotechnicznych."
+    },
+    {
+      "title": "Zderzył się z innym autem i dachował. Był pijany",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-dachowanie-w-alejach-jerozolimskich-kierowca-byl-pijany-st8826073?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 09:42:20 GMT",
+      "description": "Dwa auta osobowe zderzyły się w Alejach Jerozolimskich. Jedno z nich dachowało. Policja podaje, że kierujący nim mężczyzna był nietrzeźwy.",
+      "originalTitle": "Zderzył się z innym autem i dachował. Był pijany",
+      "originalDescription": "Dwa auta osobowe zderzyły się w Alejach Jerozolimskich. Jedno z nich dachowało. Policja podaje, że kierujący nim mężczyzna był nietrzeźwy."
+    },
+    {
+      "title": "Pogoda. Atak zimy. Nowy Rok z zagrożeniami ze strony pogody",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-31-12-1-01-snieg-silny-wiatr-zawieje-i-zamiecie-sniezne-atak-zimy-w-polsce-st8820843?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 05:42:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej podtrzymuje alerty pogodowe na Nowy Rok i kolejne dni. Zagrożenie wciąż stanowią intensywne opady śniegu oraz silny wiatr, miejscami powodujący zawieje i zamiecie śnieżne. Sprawdź, gdzie mieć się na baczności.",
+      "originalTitle": "Pogoda. Atak zimy. Nowy Rok z zagrożeniami ze strony pogody",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej podtrzymuje alerty pogodowe na Nowy Rok i kolejne dni. Zagrożenie wciąż stanowią intensywne opady śniegu oraz silny wiatr, miejscami powodujący zawieje i zamiecie śnieżne. Sprawdź, gdzie mieć się na baczności."
+    },
+    {
+      "title": "Kolejna porodówka została zamknięta",
       "link": "https://tvn24.pl/rzeszow/lezajsk-porodowka-zostala-zamknieta-st8826075?source=rss",
       "pubDate": "Thu, 01 Jan 2026 09:29:54 GMT",
-      "description": "• Od 1 stycznia w szpitalu w Leżajsku na Podkarpaciu nie działa porodówka.\n• Ciężarne będą kierowane do innych szpitali.\n• Decyzję podjęto po analizie sytuacji finansowej szpitala.\n• Decyzja została podjęta z uwzględnieniem bezpieczeństwa pacjentek.\n• Władze placówki poinformowały o podjęciu decyzji.",
+      "description": "Od 1 stycznia w szpitalu w Leżajsku na Podkarpaciu nie działa porodówka. Ciężarne będą kierowane do innych szpitali. Jak poinformowały władze placówki, decyzję podjęto po analizie sytuacji finansowej szpitala i \"z uwzględnieniem bezpieczeństwa pacjentek\".",
       "originalTitle": "Kolejna porodówka została zamknięta",
       "originalDescription": "Od 1 stycznia w szpitalu w Leżajsku na Podkarpaciu nie działa porodówka. Ciężarne będą kierowane do innych szpitali. Jak poinformowały władze placówki, decyzję podjęto po analizie sytuacji finansowej szpitala i \"z uwzględnieniem bezpieczeństwa pacjentek\"."
     },
     {
-      "title": "Modernizacja mostu",
+      "title": "Porozumienie samorządów. Stuletni most przejdzie modernizację",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/jozefow-otwock-porozumienie-dwoch-samorzadow-ponad-stuletni-most-przejdzie-modernizacje-st8823173?source=rss",
       "pubDate": "Thu, 01 Jan 2026 09:24:11 GMT",
       "description": "Zabytkowy most dawnej kolejki wąskotorowej nad rzeką Świder, łączący Józefów z Otwockiem przejdzie gruntowną modernizację. Prace budowlane mają rozpocząć się na wiosnę.",
@@ -20,7 +68,7 @@
       "originalDescription": "Zabytkowy most dawnej kolejki wąskotorowej nad rzeką Świder, łączący Józefów z Otwockiem przejdzie gruntowną modernizację. Prace budowlane mają rozpocząć się na wiosnę."
     },
     {
-      "title": "Zmiany w przesyłkach i zatrudnieniu",
+      "title": "Droższe przesyłki, zmiany dla pracowników, rewolucja dla firm",
       "link": "https://tvn24.pl/biznes/z-kraju/drozsze-przesylki-zmiany-dla-pracownikow-rewolucja-dla-firm-co-sie-zmieni-w-2026-roku-st8807962?source=rss",
       "pubDate": "Thu, 01 Jan 2026 09:13:47 GMT",
       "description": "Za zakupy na Temu, Shein lub AliExpress zapłacimy więcej. Głębiej do kieszeni mają sięgnąć też kierowcy, w szczególności łamiący przepisy. Firmy czeka fakturowa rewolucja, zmian w 2026 roku mogą spodziewać się także pracownicy.",
@@ -34,54 +82,6 @@
       "description": "Policjanci z Podkarpacia zatrzymali 37-letniego mężczyznę poszukiwanego od dwóch lat trzema listami gończymi za oszustwa, wyłudzenia kredytów i pranie pieniędzy. Ukrywał się w miejscowości Przysłup, niedaleko granicy ze Słowacją.",
       "originalTitle": "Ukrywał się dwa lata, w więzieniu spędzi 16",
       "originalDescription": "Policjanci z Podkarpacia zatrzymali 37-letniego mężczyznę poszukiwanego od dwóch lat trzema listami gończymi za oszustwa, wyłudzenia kredytów i pranie pieniędzy. Ukrywał się w miejscowości Przysłup, niedaleko granicy ze Słowacją."
-    },
-    {
-      "title": "Mężczyzna oszukał kilkanaście kobiet",
-      "link": "https://tvn24.pl/poznan/kalisz-34-latek-rozkochal-w-sobie-i-oszukal-kilkanascie-kobiet-akt-oskarzenia-st8825974?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 09:01:36 GMT",
-      "description": "Do Sądu Okręgowego w Kaliszu wpłynął akt oskarżenia w sprawie 34-latka, który oszukał kilkanaście kobiet. Mężczyzna nawiązywał kontakty w internecie, wyznawał miłość, a potem prosił o pożyczki, których nie zamierzał zwracać.",
-      "originalTitle": "Rozkochał w sobie i oszukał kilkanaście kobiet",
-      "originalDescription": "Do Sądu Okręgowego w Kaliszu wpłynął akt oskarżenia w sprawie 34-latka, który oszukał kilkanaście kobiet. Mężczyzna nawiązywał kontakty w internecie, wyznawał miłość, a potem prosił o pożyczki, których nie zamierzał zwracać."
-    },
-    {
-      "title": "Podwyżka dla trzech milionów Polaków",
-      "link": "https://tvn24.pl/biznes/z-kraju/najnizsza-krajowa-ile-wynosi-pensja-minimalna-podwyzka-od-1-stycznia-st8826003?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 08:55:02 GMT",
-      "description": "Od 1 stycznia minimalne wynagrodzenie za pracę wzrośnie o 140 złotych, do 4806 złotych brutto. Na rękę będzie to około 3605 złotych. Według rządowych szacunków płacę minimalną w Polsce w 2025 roku miało otrzymywać około trzech milionów osób.",
-      "originalTitle": "Podwyżka dla trzech milionów Polaków",
-      "originalDescription": "Od 1 stycznia minimalne wynagrodzenie za pracę wzrośnie o 140 złotych, do 4806 złotych brutto. Na rękę będzie to około 3605 złotych. Według rządowych szacunków płacę minimalną w Polsce w 2025 roku miało otrzymywać około trzech milionów osób."
-    },
-    {
-      "title": "Fajerwerki uderzyły w sklep, wybuchł pożar",
-      "link": "https://tvn24.pl/olsztyn/braniewo-fajerwerki-po-odpaleniu-uderzyly-w-sklep-doszlo-do-pozaru-st8825984?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 08:50:53 GMT",
-      "description": "W sklepie w Braniewie (Warmińsko-Mazurskie) wybuchł pożar, po tym jak fajerwerki uderzyły w budynek. Nikt nie został poszkodowany.",
-      "originalTitle": "Fajerwerki uderzyły w sklep, wybuchł pożar",
-      "originalDescription": "W sklepie w Braniewie (Warmińsko-Mazurskie) wybuchł pożar, po tym jak fajerwerki uderzyły w budynek. Nikt nie został poszkodowany."
-    },
-    {
-      "title": "Pożar choinki na placu Zamkowym. \"Efekt wystrzałów petard i fajerwerków\"",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-pozar-choinki-na-placu-zamkowym-st8825970?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 08:48:40 GMT",
-      "description": "Po północy na placu Zamkowym zapaliła się choinka. Policja nie ma wątpliwości, że do zaprószenia ognia doszło z powodu wystrzałów fajerwerków i petard. Nikt nie ucierpiał.",
-      "originalTitle": "Pożar choinki na placu Zamkowym. \"Efekt wystrzałów petard i fajerwerków\"",
-      "originalDescription": "Po północy na placu Zamkowym zapaliła się choinka. Policja nie ma wątpliwości, że do zaprószenia ognia doszło z powodu wystrzałów fajerwerków i petard. Nikt nie ucierpiał."
-    },
-    {
-      "title": "Kilkaset interwencji strażaków. \"Jak zwykle trudna noc\"",
-      "link": "https://tvn24.pl/polska/kilkaset-interwencji-straz-pozarna-podsumowuje-noc-sylwestrowa-st8825955?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 08:43:44 GMT",
-      "description": "Przez sześć godzin od północy w noc sylwestrową strażacy interweniowali 775 razy, w tym 546 w związku z pożarami. Jak mówił we \"Wstajesz i wiesz\" rzecznik prasowy komendanta głównego Państwowej Straży Pożarnej starszy brygadier Karol Kierzkowski, 1 stycznia to \"bardzo pracowita służba dla strażaków w całej Polsce\".",
-      "originalTitle": "Kilkaset interwencji strażaków. \"Jak zwykle trudna noc\"",
-      "originalDescription": "Przez sześć godzin od północy w noc sylwestrową strażacy interweniowali 775 razy, w tym 546 w związku z pożarami. Jak mówił we \"Wstajesz i wiesz\" rzecznik prasowy komendanta głównego Państwowej Straży Pożarnej starszy brygadier Karol Kierzkowski, 1 stycznia to \"bardzo pracowita służba dla strażaków w całej Polsce\"."
-    },
-    {
-      "title": "Rzekomy atak na rezydencję Putina. Ustalenia CIA",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rzekomy-atak-na-rezydencje-wladimira-putina-i-oskarzenia-rosji-wall-street-journal-o-ustaleniach-cia-st8825827?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 08:37:43 GMT",
-      "description": "Według CIA ani rezydencja Władimira Putina, ani on sam nie byli celami ukraińskiego ataku dronami - podał w środę \"Wall Street Journal\", powołując się na anonimowych urzędników i opinię CIA. Zdaniem Amerykanów Ukraińcy wzięli na cel inny obiekt w obwodzie nowogrodzkim, lecz ten nie znajdował się w pobliżu posiadłości przywódcy Rosji.",
-      "originalTitle": "Rzekomy atak na rezydencję Putina. Ustalenia CIA",
-      "originalDescription": "Według CIA ani rezydencja Władimira Putina, ani on sam nie byli celami ukraińskiego ataku dronami - podał w środę \"Wall Street Journal\", powołując się na anonimowych urzędników i opinię CIA. Zdaniem Amerykanów Ukraińcy wzięli na cel inny obiekt w obwodzie nowogrodzkim, lecz ten nie znajdował się w pobliżu posiadłości przywódcy Rosji."
     }
   ]
 }
