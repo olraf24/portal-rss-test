@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2026-01-02T05:09:41.614Z",
+  "lastUpdate": "2026-01-02T05:41:47.227Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Rosja składa notę w sprawie tankowca",
+      "title": "Bolsonaro opuścił szpital",
+      "link": "https://tvn24.pl/swiat/bolsonaro-opuscil-szpital-wrocil-za-kratki-st8826881?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 05:38:53 GMT",
+      "description": "• Były prezydent Brazylii Jair Bolsonaro opuścił w czwartek szpital po udanej operacji przepukliny.\n• Został przewieziony z powrotem do więzienia, gdzie odsiaduje wyrok.\n• Wyrok wynosi 27 lat pozbawienia wolności.\n• Wyrok został wymierzony za kierowanie nieudaną próbą zamachu stanu.\n• Próba zamachu stanu była spowodowana klęską w wyborach w 2022 roku.",
+      "originalTitle": "Bolsonaro opuścił szpital. Wrócił za kratki",
+      "originalDescription": "Były prezydent Brazylii Jair Bolsonaro opuścił w czwartek szpital szpital po udanej operacji przepukliny. Został przewieziony z powrotem do więzienia, gdzie odsiaduje wyrok 27 lat pozbawienia wolności za kierowanie nieudaną próbą zamachu stanu po klęsce w wyborach w 2022 roku."
+    },
+    {
+      "title": "Pogoda piątkowego poranka",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-snieg-silny-wiatr-zawieje-i-zamiecie-sniezne-oblodzenie-atak-zimy-w-polsce-st8820843?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 05:38:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą w piątkowy poranek.\n• Miejscami występują intensywne opady śniegu.\n• Silny wiatr miejscami wywołuje zawieje i zamiecie śnieżne.\n• Na drogach występują oblodzenia.",
+      "originalTitle": "Pogoda. Atak zimy. Piątkowy poranek z groźną aurą. Gdzie uważać",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą w piątkowy poranek. Miejscami zagrożenie wciąż stanowią intensywne opady śniegu i silny wiatr, który miejscami wywołuje zawieje i zamiecie śnieżne. Ponadto na drogach występują oblodzenia."
+    },
+    {
+      "title": "Maduro deklaruje gotowość rozmów z USA",
+      "link": "https://tvn24.pl/swiat/nicolas-maduro-wyrazil-gotowosc-do-rozmow-z-usa-st8826883?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 05:32:30 GMT",
+      "description": "• Prezydent Wenezueli to Nicolas Maduro.\n• Nicolas Maduro oświadczył coś w czwartek.\n• Oświadczenie dotyczyło dyskusji z Waszyngtonem.\n• Tematem dyskusji ma być walka z przemytem narkotyków.\n• Innym tematem dyskusji ma być sprzedaż ropy naftowej.\n• Trzecim tematem dyskusji mają być porozumienia o współpracy ekonomicznej.\n• Nicolas Maduro stwierdził, że \"jest gotów\" przedyskutować te kwestie z Waszyngtonem.",
+      "originalTitle": "Maduro wyraził gotowość do rozmów z USA",
+      "originalDescription": "Prezydent Wenezueli Nicolas Maduro oświadczył w czwartek że \"jest gotów\" przedyskutować z Waszyngtonem kwestę walki z przemytem narkotyków, sprzedaży ropy naftowej lub porozumień o współpracy ekonomicznej."
+    },
+    {
+      "title": "Dyktator o \"niezwyciężonym sojuszu\" z Rosją",
+      "link": "https://tvn24.pl/swiat/kim-dzong-un-o-niezwyciezonym-sojuszu-z-rosja-st8826866?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 05:26:21 GMT",
+      "description": "Przywódca Korei Północnej Kim Dzong Un w noworocznym orędziu pochwalił północnokoreańskich żołnierzy walczących po stronie Rosji. Jak stwierdził, umacniają oni \"niezwyciężony sojusz\" Pjongjangu z Moskwą - donoszą miejscowe media.",
+      "originalTitle": "Dyktator o \"niezwyciężonym sojuszu\" z Rosją",
+      "originalDescription": "Przywódca Korei Północnej Kim Dzong Un w noworocznym orędziu pochwalił północnokoreańskich żołnierzy walczących po stronie Rosji. Jak stwierdził, umacniają oni \"niezwyciężony sojusz\" Pjongjangu z Moskwą - donoszą miejscowe media."
+    },
+    {
+      "title": "Wybuch niezadowolenia w Iranie. Kilka osób zginęło",
+      "link": "https://tvn24.pl/swiat/iran-protesty-antyrzadowe-przybieraja-na-sile-st8826858?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 05:24:38 GMT",
+      "description": "W Iranie rozprzestrzeniają się antyrządowe protesty, które rozpoczęły się od strajku sklepikarzy w Teheranie. Niezadowolenie wywołała gwałtownie spadająca wartość krajowej waluty - rialu. Na niektórych manifestacjach wznoszone są okrzyki na cześć ostatniego króla Iranu.",
+      "originalTitle": "Wybuch niezadowolenia w Iranie. Kilka osób zginęło",
+      "originalDescription": "W Iranie rozprzestrzeniają się antyrządowe protesty, które rozpoczęły się od strajku sklepikarzy w Teheranie. Niezadowolenie wywołała gwałtownie spadająca wartość krajowej waluty - rialu. Na niektórych manifestacjach wznoszone są okrzyki na cześć ostatniego króla Iranu."
+    },
+    {
+      "title": "Siniaki na rękach prezydenta. Trump chce mieć \"ładną, rzadką krew\"",
+      "link": "https://tvn24.pl/swiat/donald-trump-wyznal-ze-ignoruje-zalecenia-lekarzy-podal-powod-st8826865?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 05:10:16 GMT",
+      "description": "Nie chcę gęstej krwi przepływającej przez moje serce. Chcę ładnej, rzadkiej krwi - powiedział prezydent USA Donald Trump w wywiadzie dla \"Wall Street Journal\". Wyznał, że z tego powodu nie słucha lekarzy, którzy zalecają mu zmniejszenie dziennej dawki aspiryny. Tym właśnie tłumaczył występowanie na jego rękach siniaków. Przyznał też, że nie uprawia ćwiczeń, bo są nudne.",
+      "originalTitle": "Siniaki na rękach prezydenta. Trump chce mieć \"ładną, rzadką krew\"",
+      "originalDescription": "Nie chcę gęstej krwi przepływającej przez moje serce. Chcę ładnej, rzadkiej krwi - powiedział prezydent USA Donald Trump w wywiadzie dla \"Wall Street Journal\". Wyznał, że z tego powodu nie słucha lekarzy, którzy zalecają mu zmniejszenie dziennej dawki aspiryny. Tym właśnie tłumaczył występowanie na jego rękach siniaków. Przyznał też, że nie uprawia ćwiczeń, bo są nudne."
+    },
+    {
+      "title": "Pościg za tankowcem. Rosyjska nota \"może zwiększyć napięcia\"",
       "link": "https://tvn24.pl/swiat/moskwa-poprosila-usa-o-zaprzestanie-poscigu-za-tankowcem-st8826854?source=rss",
       "pubDate": "Fri, 02 Jan 2026 04:58:36 GMT",
-      "description": "• Rząd w Moskwie wystosował formalną notę dyplomatyczną do Waszyngtonu.\n• Nota dotyczyła zaprzestania pościgu za tankowcem, który płynął w kierunku Wenezueli.\n• Tankowiec obecnie ucieka przed amerykańską strażą przybrzeżną na Atlantyku.\n• Informację o noty dyplomatycznej podał w czwartek \"New York Times\".\n• \"New York Times\" powołał się na dwie osoby zaznajomione ze sprawą.\n• Załoga tankowca zwróciła się do władz Rosji z prośbą o pomoc.",
+      "description": "Rząd w Moskwie wystosował formalną notę dyplomatyczną do Waszyngtonu, w której zażądał zaprzestania pościgu za tankowcem, który płynął w kierunku Wenezueli, a obecnie ucieka przed amerykańską strażą przybrzeżną na Atlantyku - podał w czwartek \"New York Times\", powołując się na dwie osoby zaznajomione ze sprawą. Załoga tankowca zwróciła się do władz Rosji z prośbą o pomoc.",
       "originalTitle": "Pościg za tankowcem. Rosyjska nota \"może zwiększyć napięcia\"",
       "originalDescription": "Rząd w Moskwie wystosował formalną notę dyplomatyczną do Waszyngtonu, w której zażądał zaprzestania pościgu za tankowcem, który płynął w kierunku Wenezueli, a obecnie ucieka przed amerykańską strażą przybrzeżną na Atlantyku - podał w czwartek \"New York Times\", powołując się na dwie osoby zaznajomione ze sprawą. Załoga tankowca zwróciła się do władz Rosji z prośbą o pomoc."
     },
     {
-      "title": "Pożar w szwajcarskim kurorcie",
+      "title": "Tragiczny pożar w szwajcarskim kurorcie. Co wiemy, czego nie",
       "link": "https://tvn24.pl/swiat/tragiczny-pozar-w-szwajcarskim-kurorcie-co-wiemy-czego-nie-st8826867?source=rss",
       "pubDate": "Fri, 02 Jan 2026 04:44:06 GMT",
-      "description": "• Pożar wybuchł w nocy ze środy na czwartek.\n• Pożar miał miejsce w alpejskim kurorcie Crans-Montana.\n• Crans-Montana to miejsce położone w Szwajcarii.\n• Pożar jest jedną z najtragiczniejszych katastrof we współczesnej historii Szwajcarii.\n• Zebrano najważniejsze ustalenia dotyczące tragedii.\n• Istnieje lista pytań, na które wciąż nie ma odpowiedzi.",
+      "description": "Pożar, który wybuchł w nocy ze środy na czwartek w alpejskim kurorcie Crans-Montana to jedna z najtragiczniejszych katastrof we współczesnej historii Szwajcarii. Zebraliśmy najważniejsze ustalenia dotyczące tragedii oraz listę pytań, na które wciąż nie ma odpowiedzi.",
       "originalTitle": "Tragiczny pożar w szwajcarskim kurorcie. Co wiemy, czego nie",
       "originalDescription": "Pożar, który wybuchł w nocy ze środy na czwartek w alpejskim kurorcie Crans-Montana to jedna z najtragiczniejszych katastrof we współczesnej historii Szwajcarii. Zebraliśmy najważniejsze ustalenia dotyczące tragedii oraz listę pytań, na które wciąż nie ma odpowiedzi."
     },
     {
-      "title": "Pociąg zatrzymany z powodu śniegu",
+      "title": "Awaria pociągu, pasażerowie utknęli w wagonach przez śnieg",
       "link": "https://tvn24.pl/polska/warminsko-mazurskie-pociag-ktory-utknal-kilometr-przed-sterlawkami-dotarl-do-stacji-st8826888?source=rss",
       "pubDate": "Fri, 02 Jan 2026 04:35:09 GMT",
       "description": "Pociąg \"Biebrza\" jadący z Białegostoku do Gdyni Głównej utknął w czwartek wieczorem kilometr przed stacją Sterławki z powodu awarii lokomotywy. W pociągu znajdowało się 180 pasażerów. Ludzie w miejscu awarii nie mogli się przesiąść do autobusów z powodu dużej ilości śniegu. Ostatecznie pociąg dotarł do stacji, gdzie policjanci i strażacy pomogli podróżnym opuścić wagony.",
@@ -34,54 +82,6 @@
       "description": "Sylwestrowa impreza w szwajcarskim kurorcie Crans-Montana w jednej chwili przerodziła się w koszmar. - Widziałem płonących ludzi, od stóp do głów, nie mieli już ubrań - opisywał jeden ze świadków. - Ludzie biegali we wszystkich kierunkach, krzycząc i płacząc - relacjonowała Włoszka, która wraz z rodziną przybyła do Szwajcarii, by świętować Nowy Rok.",
       "originalTitle": "\"Widziałem płonących ludzi, od stóp do głów, nie mieli już ubrań\". Relacje świadków",
       "originalDescription": "Sylwestrowa impreza w szwajcarskim kurorcie Crans-Montana w jednej chwili przerodziła się w koszmar. - Widziałem płonących ludzi, od stóp do głów, nie mieli już ubrań - opisywał jeden ze świadków. - Ludzie biegali we wszystkich kierunkach, krzycząc i płacząc - relacjonowała Włoszka, która wraz z rodziną przybyła do Szwajcarii, by świętować Nowy Rok."
-    },
-    {
-      "title": "Koszmar w alpejskim kurorcie, orędzie Tuska, podwyżka dla milionów Polaków",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-piatek-2-stycznia-st8826868?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 04:12:58 GMT",
-      "description": "Tragiczny pożar w szwajcarskim kurorcie. Jeden z najbardziej brutalnych sylwestrów w Holandii. Orędzie noworoczne Donalda Tuska. Wzrost płacy minimalnej. Oto pięć rzeczy, które warto wiedzieć w piątek 2 stycznia.",
-      "originalTitle": "Koszmar w alpejskim kurorcie, orędzie Tuska, podwyżka dla milionów Polaków",
-      "originalDescription": "Tragiczny pożar w szwajcarskim kurorcie. Jeden z najbardziej brutalnych sylwestrów w Holandii. Orędzie noworoczne Donalda Tuska. Wzrost płacy minimalnej. Oto pięć rzeczy, które warto wiedzieć w piątek 2 stycznia."
-    },
-    {
-      "title": "Pogoda na dziś - piątek, 2.01. Kolejny śnieżny dzień",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-2-01-kolejny-sniezny-dzien-st8826822?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 01:00:00 GMT",
-      "description": "Pogoda na dziś - piątek, 2.01. Znów spadnie śnieg, miejscami może przybyć go nawet pięć centymetrów. Temperatura będzie niska, ale nie spadnie poniżej zera.",
-      "originalTitle": "Pogoda na dziś - piątek, 2.01. Kolejny śnieżny dzień",
-      "originalDescription": "Pogoda na dziś - piątek, 2.01. Znów spadnie śnieg, miejscami może przybyć go nawet pięć centymetrów. Temperatura będzie niska, ale nie spadnie poniżej zera."
-    },
-    {
-      "title": "Ukraiński wywiad: sfabrykowaliśmy śmierć dowódcy i przejęliśmy \"nagrodę\", którą za zabójstwo wystawiła Rosja",
-      "link": "https://tvn24.pl/swiat/ukraina-wywiad-wojskowy-sfabrykowal-smierc-dowodcy-denisa-kapustina-i-mowi-o-porazce-rosjan-st8826713?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 20:32:25 GMT",
-      "description": "Informacje o śmierci Denisa Kapustina, dowódcy Rosyjskiego Korpusu Ochotniczego (RDK), walczącego przeciw Rosji wspólnie z armią ukraińską, zostały sfabrykowane - podał w czwartek ukraiński wywiad wojskowy (HUR). Ukraina przejęła pół miliona dolarów wydane przez rosyjskie służby za jego likwidację.",
-      "originalTitle": "Ukraiński wywiad: sfabrykowaliśmy śmierć dowódcy i przejęliśmy \"nagrodę\", którą za zabójstwo wystawiła Rosja",
-      "originalDescription": "Informacje o śmierci Denisa Kapustina, dowódcy Rosyjskiego Korpusu Ochotniczego (RDK), walczącego przeciw Rosji wspólnie z armią ukraińską, zostały sfabrykowane - podał w czwartek ukraiński wywiad wojskowy (HUR). Ukraina przejęła pół miliona dolarów wydane przez rosyjskie służby za jego likwidację."
-    },
-    {
-      "title": "Polski filozof: rozpada się nie tylko powojenny ład",
-      "link": "https://tvn24.pl/swiat/chiny-usa-i-kolonializm-w-xxi-wieku-prof-damian-leszczynski-trwa-drugi-rozpad-zachodniego-systemu-kolonialnego-st8826640?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 20:25:43 GMT",
-      "description": "Mamy do czynienia z drugim rozpadem zachodniego systemu kolonialnego, ale - co równie ważne - sam kolonializm w ogóle nie znika. Ten, kto ma siłę, wciąż wykorzystuje niezmiennie słabsze kraje - podkreśla filozof, profesor Damian Leszczyński z Uniwersytetu Wrocławskiego. Jak wskazuje, teraz na światową arenę weszły Chiny, a całkowita zmiana powojennego układu sił jest bardzo widoczna w Azji, na Pacyfiku i w Afryce.",
-      "originalTitle": "Polski filozof: rozpada się nie tylko powojenny ład",
-      "originalDescription": "Mamy do czynienia z drugim rozpadem zachodniego systemu kolonialnego, ale - co równie ważne - sam kolonializm w ogóle nie znika. Ten, kto ma siłę, wciąż wykorzystuje niezmiennie słabsze kraje - podkreśla filozof, profesor Damian Leszczyński z Uniwersytetu Wrocławskiego. Jak wskazuje, teraz na światową arenę weszły Chiny, a całkowita zmiana powojennego układu sił jest bardzo widoczna w Azji, na Pacyfiku i w Afryce."
-    },
-    {
-      "title": "Pogoda. Atak zimy. Cztery pogodowe zagrożenia. IMGW wciąż ostrzega",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-snieg-silny-wiatr-zawieje-i-zamiecie-sniezne-oblodzenie-atak-zimy-w-polsce-st8820843?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 05:42:00 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej nadal ostrzega przed zimowymi warunkami. W mocy są alarmy pierwszego stopnia przed intensywnymi opadami śniegu, zawiejami i zamieciami, silnym wiatrem oraz oblodzeniem. Sprawdź, gdzie uważać na niebezpieczną aurę.",
-      "originalTitle": "Pogoda. Atak zimy. Cztery pogodowe zagrożenia. IMGW wciąż ostrzega",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej nadal ostrzega przed zimowymi warunkami. W mocy są alarmy pierwszego stopnia przed intensywnymi opadami śniegu, zawiejami i zamieciami, silnym wiatrem oraz oblodzeniem. Sprawdź, gdzie uważać na niebezpieczną aurę."
-    },
-    {
-      "title": "Rzecznik rządu o orędziu Nawrockiego: słyszałem dużo \"ja\"",
-      "link": "https://tvn24.pl/polska/karol-nawrocki-oredzie-rzecznik-rzadu-adam-szlapka-slyszalem-w-nim-duzo-ja-zycze-prezydentowi-myslenia-o-polsce-st8826788?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 19:30:22 GMT",
-      "description": "Na nowy rok życzę prezydentowi, żeby myślał w kategoriach interesu Polski i całego społeczeństwa, a zupełnie odłożył na bok czysty interes partyjny, polityczny - powiedział w \"Faktach po Faktach\" rzecznik rządu Adam Szłapka. Poruszył też wątek ewentualnego, nadchodzącego spotkania prezydenta z premierem, dodając, że ostatni raz rozmawiali oni we wrześniu, po wysłaniu przez Rosję dronów, które przekroczyły naszą granicę.",
-      "originalTitle": "Rzecznik rządu o orędziu Nawrockiego: słyszałem dużo \"ja\"",
-      "originalDescription": "Na nowy rok życzę prezydentowi, żeby myślał w kategoriach interesu Polski i całego społeczeństwa, a zupełnie odłożył na bok czysty interes partyjny, polityczny - powiedział w \"Faktach po Faktach\" rzecznik rządu Adam Szłapka. Poruszył też wątek ewentualnego, nadchodzącego spotkania prezydenta z premierem, dodając, że ostatni raz rozmawiali oni we wrześniu, po wysłaniu przez Rosję dronów, które przekroczyły naszą granicę."
     }
   ]
 }
