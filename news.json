@@ -1,31 +1,79 @@
 {
-  "lastUpdate": "2026-01-02T10:06:52.883Z",
+  "lastUpdate": "2026-01-02T10:39:24.299Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Tusk: pomoc medyczna dla ofiar w Szwajcarii",
+      "title": "Wypadek na autostradzie, pieszy na drodze",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/brwinow-a2-pieszy-szedl-autostrada-doszlo-do-zderzenia-samochod-osobowy-wjechal-do-rowu-st8827194?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 10:38:31 GMT",
+      "description": "Autostradą A2 pod Pruszkowem szedł pieszy. Jeden z kierowców starał się uniknąć potrącenia mężczyzny i wjechał do rowu. Pieszy dostał mandat. Policja przypomina, że ruch pieszych po trasach ekspresowych i autostradach jest zabroniony.",
+      "originalTitle": "Pieszy szedł autostradą, kierowca, który próbował go ominąć, wpadł do rowu",
+      "originalDescription": "Autostradą A2 pod Pruszkowem szedł pieszy. Jeden z kierowców starał się uniknąć potrącenia mężczyzny i wjechał do rowu. Pieszy dostał mandat. Policja przypomina, że ruch pieszych po trasach ekspresowych i autostradach jest zabroniony."
+    },
+    {
+      "title": "Stany Zjednoczone i Iran wypowiadają się na temat potencjalnej interwencji",
+      "link": "https://tvn24.pl/swiat/protesty-w-iranie-donald-trump-grozi-odsiecza-teheran-odpowiada-st8827118?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 09:55:56 GMT",
+      "description": "• Stany Zjednoczone przyjdą z odsieczą irańskim demonstrantom, jeśli władze w Teheranie będą strzelać i brutalnie zabijać uczestników pokojowych manifestacji.\n• Ostrzeżenie zostało wydane przez prezydenta Donalda Trumpa w piątek na platformie Truth Social.\n• Na wpis prezydenta Donalda Trumpa zareagował wysoki rangą doradca Najwyższego Przywódcy Iranu.\n• W ostatnich dniach w Iranie przybrały na siłach protesty w związku z kryzysem gospodarczym.\n• W trakcie protestów w Iranie zginęło kilka osób.",
+      "originalTitle": "\"Jesteśmy uzbrojeni i gotowi do akcji\". Trump grozi odsieczą, Iran odpowiada",
+      "originalDescription": "Stany Zjednoczone przyjdą z odsieczą irańskim demonstrantom, jeśli władze w Teheranie będą strzelać i brutalnie zabijać uczestników pokojowych manifestacji - ostrzegł w piątek na platformie Truth Social prezydent Donald Trump. Na jego wpis zareagował wysoki rangą doradca Najwyższego Przywódcy Iranu. W ostatnich dniach w Iranie przybrały na siłach protesty w związku z kryzysem gospodarczym, w których zginęło kilka osób."
+    },
+    {
+      "title": "Wypadek drogowy, jeden ofiara śmiertelna",
+      "link": "https://tvn24.pl/rzeszow/rowne-smiertelny-wypadek-w-miejscowosci-rowne-mercedes-uderzyl-w-drzewo-st8827342?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 10:33:29 GMT",
+      "description": "• Tragiczny wypadek miał miejsce w miejscowości Równe.\n• Wypadek zdarzył się na Podkarpaciu.\n• Kierowca mercedesa zjechał z drogi.\n• Kierowca mercedesa uderzył w drzewo.\n• Pomimo akcji ratunkowej, nie udało się uratować 40-letniego mężczyzny.",
+      "originalTitle": "Zjechał z drogi i uderzył w drzewo, nie przeżył",
+      "originalDescription": "Tragiczny wypadek w miejscowości Równe na Podkarpaciu. Kierowca mercedesa zjechał z drogi i uderzył w drzewo. Pomimo akcji ratunkowej, 40-letniego mężczyzny nie udało się uratować."
+    },
+    {
+      "title": "Jego ojca zastrzelono na terenie uczelni. Mistrz znowu apeluje",
+      "link": "https://tvn24.pl/swiat/jego-ojca-zastrzelono-na-terenie-uczelni-steve-kerr-znowu-apeluje-st8823610?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 10:30:00 GMT",
+      "description": "O dramacie prywatnym, sprzed ponad czterech dekad, mówi bardzo rzadko, zbyt bolesne są te wspomnienia. Głos po powtarzających się w jego ojczyźnie tragediach zabiera często, prosząc o działanie, tu i teraz, natychmiast. Amerykanin Steve Kerr, wielokrotny mistrz NBA jako zawodnik i trener, apeluje znowu po kolejnej strzelaninie na terenie uczelni. Poprzednio apelował zaledwie miesiąc wcześniej.",
+      "originalTitle": "Jego ojca zastrzelono na terenie uczelni. Mistrz znowu apeluje",
+      "originalDescription": "O dramacie prywatnym, sprzed ponad czterech dekad, mówi bardzo rzadko, zbyt bolesne są te wspomnienia. Głos po powtarzających się w jego ojczyźnie tragediach zabiera często, prosząc o działanie, tu i teraz, natychmiast. Amerykanin Steve Kerr, wielokrotny mistrz NBA jako zawodnik i trener, apeluje znowu po kolejnej strzelaninie na terenie uczelni. Poprzednio apelował zaledwie miesiąc wcześniej."
+    },
+    {
+      "title": "Otworzyli narożnik, była w nim kobieta",
+      "link": "https://tvn24.pl/kielce/skarzysko-kamienna-otworzyli-naroznik-w-srodku-ukrywala-sie-kobieta-st8827314?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 10:28:34 GMT",
+      "description": "Chciała uniknąć 272 dni więzienia, więc schowała się w narożniku. 37-latka ze Skarżyska-Kamiennej (Świętokrzyskie) została zatrzymana po tym, jak mebel przykuł uwagę policjantów. \"Była wyraźnie zaskoczona\" - informuje policja.",
+      "originalTitle": "Otworzyli narożnik, była w nim kobieta",
+      "originalDescription": "Chciała uniknąć 272 dni więzienia, więc schowała się w narożniku. 37-latka ze Skarżyska-Kamiennej (Świętokrzyskie) została zatrzymana po tym, jak mebel przykuł uwagę policjantów. \"Była wyraźnie zaskoczona\" - informuje policja."
+    },
+    {
+      "title": "Zwolniono go za kaucją, wtargnął drugi raz. Intruz na terenie rezydencji księcia Williama i księżnej Kate",
+      "link": "https://tvn24.pl/swiat/londyn-mezczyzna-dwukrotnie-wtargnal-na-teren-palacu-kensington-siedziby-ksiecia-williama-i-ksieznej-kate-st8827107?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 10:18:15 GMT",
+      "description": "Zatrzymano mężczyznę, który miał dwukrotnie wtargnąć na teren Pałacu Kensington - oficjalnej londyńskiej rezydencji księcia Williama, księżnej Kate i ich dzieci. Do incydentów doszło tuż przed Bożym Narodzeniem.",
+      "originalTitle": "Zwolniono go za kaucją, wtargnął drugi raz. Intruz na terenie rezydencji księcia Williama i księżnej Kate",
+      "originalDescription": "Zatrzymano mężczyznę, który miał dwukrotnie wtargnąć na teren Pałacu Kensington - oficjalnej londyńskiej rezydencji księcia Williama, księżnej Kate i ich dzieci. Do incydentów doszło tuż przed Bożym Narodzeniem."
+    },
+    {
+      "title": "Ciało 18-latka w przepuście. \"We krwi zmarłego znajdował się środek odurzający\"",
+      "link": "https://tvn24.pl/rzeszow/zablotce-cialo-18-latka-w-przepuscie-w-organizmie-mial-srodek-odurzajacy-st8827100?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 10:16:49 GMT",
+      "description": "18-latek, którego ciało znaleziono w przepuście w miejscowości Zabłotce na Podkarpaciu miał w organizmie \"środek odurzający\" - dowiedzieliśmy się w prokuraturze. To mefedron lub jego pochodna.",
+      "originalTitle": "Ciało 18-latka w przepuście. \"We krwi zmarłego znajdował się środek odurzający\"",
+      "originalDescription": "18-latek, którego ciało znaleziono w przepuście w miejscowości Zabłotce na Podkarpaciu miał w organizmie \"środek odurzający\" - dowiedzieliśmy się w prokuraturze. To mefedron lub jego pochodna."
+    },
+    {
+      "title": "Tusk o tragedii w Szwajcarii. \"Jesteśmy gotowi do udzielenia opieki medycznej\"",
       "link": "https://tvn24.pl/polska/donald-tusk-o-tragedii-w-szwajcarii-jestesmy-gotowi-do-udzielenia-opieki-medycznej-st8827013?source=rss",
       "pubDate": "Fri, 02 Jan 2026 08:01:40 GMT",
-      "description": "• Premier Donald Tusk zapewnił w mediach społecznościowych, że \"Szwajcaria i kanton Valais mogą liczyć na polską solidarność\" po tragicznym pożarze w kurorcie w Crans-Montanie.\n• \"Jesteśmy gotowi, na prośbę Szwajcarii, do udzielenia specjalistycznej opieki medycznej dla 14 poszkodowanych w polskich szpitalach\" - oznajmił Premier Donald Tusk.\n• Rzecznik komendanta głównego PSP starszy brygadier Karol Kierzkowski mówił w TVN24, jaką pomoc dla poszkodowanych zaoferowała Polska.\n• Pożar miał miejsce w kurorcie w Crans-Montanie.\n• Szwajcaria i kanton Valais są objęte polską solidarnością.\n• Polska zaoferowała specjalistyczną opiekę medyczną dla 14 poszkodowanych.\n• Pomoc ma być udzielona w polskich szpitalach.",
+      "description": "Premier Donald Tusk zapewnił w mediach społecznościowych, że \"Szwajcaria i kanton Valais mogą liczyć na polską solidarność\" po tragicznym pożarze w kurorcie w Crans-Montanie. \"Jesteśmy gotowi, na prośbę Szwajcarii, do udzielenia specjalistycznej opieki medycznej dla 14 poszkodowanych w polskich szpitalach\" - oznajmił. Rzecznik komendanta głównego PSP starszy brygadier Karol Kierzkowski mówił w TVN24, jaką pomoc dla poszkodowanych zaoferowała Polska.",
       "originalTitle": "Tusk o tragedii w Szwajcarii. \"Jesteśmy gotowi do udzielenia opieki medycznej\"",
       "originalDescription": "Premier Donald Tusk zapewnił w mediach społecznościowych, że \"Szwajcaria i kanton Valais mogą liczyć na polską solidarność\" po tragicznym pożarze w kurorcie w Crans-Montanie. \"Jesteśmy gotowi, na prośbę Szwajcarii, do udzielenia specjalistycznej opieki medycznej dla 14 poszkodowanych w polskich szpitalach\" - oznajmił. Rzecznik komendanta głównego PSP starszy brygadier Karol Kierzkowski mówił w TVN24, jaką pomoc dla poszkodowanych zaoferowała Polska."
     },
     {
-      "title": "Trump podpisał dokument",
+      "title": "Trump nagle zmienił zdanie. Podpis w ostatniej chwili",
       "link": "https://tvn24.pl/biznes/ze-swiata/trump-nagle-zmienil-zdanie-podpis-w-ostatniej-chwili-st8827225?source=rss",
       "pubDate": "Fri, 02 Jan 2026 09:58:05 GMT",
-      "description": "• Prezydent Stanów Zjednoczonych to Donald Trump.\n• Donald Trump zdecydował o rocznym przesunięciu planowanych podwyżek ceł.\n• Podwyżki ceł dotyczą mebli tapicerowanych, szafek kuchennych oraz mebli łazienkowych.\n• Nowe stawki wejdą w życie dopiero w 2027 roku.\n• O przesunięciu poinformował Biały Dom.",
+      "description": "Prezydent Stanów Zjednoczonych Donald Trump zdecydował o rocznym przesunięciu planowanych podwyżek ceł na meble tapicerowane, szafki kuchenne oraz meble łazienkowe. Nowe stawki wejdą w życie dopiero w 2027 roku, poinformował Biały Dom.",
       "originalTitle": "Trump nagle zmienił zdanie. Podpis w ostatniej chwili",
       "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump zdecydował o rocznym przesunięciu planowanych podwyżek ceł na meble tapicerowane, szafki kuchenne oraz meble łazienkowe. Nowe stawki wejdą w życie dopiero w 2027 roku, poinformował Biały Dom."
-    },
-    {
-      "title": "Trump zapowiada możliwą interwencję",
-      "link": "https://tvn24.pl/swiat/protesty-w-iranie-donald-trump-grozi-odsiecza-st8827118?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:55:56 GMT",
-      "description": "Stany Zjednoczone przyjdą z odsieczą irańskim demonstrantom, jeśli władze w Teheranie będą strzelać i brutalnie zabijać uczestników pokojowych manifestacji - ostrzegł w piątek na platformie Truth Social prezydent Donald Trump. W Iranie trwają protesty w związku z kryzysem gospodarczym. Ten nasilił się po tym, jak na kraj zostały ponownie nałożone sankcje związane z programem nuklearnym Teheranu.",
-      "originalTitle": "\"Jesteśmy uzbrojeni i gotowi do akcji\". Trump grozi odsieczą",
-      "originalDescription": "Stany Zjednoczone przyjdą z odsieczą irańskim demonstrantom, jeśli władze w Teheranie będą strzelać i brutalnie zabijać uczestników pokojowych manifestacji - ostrzegł w piątek na platformie Truth Social prezydent Donald Trump. W Iranie trwają protesty w związku z kryzysem gospodarczym. Ten nasilił się po tym, jak na kraj zostały ponownie nałożone sankcje związane z programem nuklearnym Teheranu."
     },
     {
       "title": "Zawieje i zamiecie śnieżne. U kogo zrobi się niebezpiecznie",
@@ -34,54 +82,6 @@
       "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą. Miejscami wciąż mocno pada śnieg. Wieje także silny wiatr, który wywołuje zawieje i zamiecie śnieżne. Sprawdź, gdzie zachować szczególną ostrożność.",
       "originalTitle": "Zawieje i zamiecie śnieżne. U kogo zrobi się niebezpiecznie",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą. Miejscami wciąż mocno pada śnieg. Wieje także silny wiatr, który wywołuje zawieje i zamiecie śnieżne. Sprawdź, gdzie zachować szczególną ostrożność."
-    },
-    {
-      "title": "Podróżni tonęli w śniegu. Po wizycie reporterki widać już schody",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/mlawa-miasto-odsniezone-perony-i-schody-na-dworcu-kolejowym-po-sniezycy-st8827117?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:44:29 GMT",
-      "description": "Po wizycie reporterki TVN24 Agaty Adamek na dworcu kolejowym Mława Miasto perony i prowadzące na nich schody zostały odśnieżone. Wcześniej stopnie zniknęły pod grubą warstwą białego puchu. - Gdyby ktoś miał jabłuszko, to mógłby sobie spokojnie na nim po tych schodach zjechać - relacjonowała dziennikarka.",
-      "originalTitle": "Podróżni tonęli w śniegu. Po wizycie reporterki widać już schody",
-      "originalDescription": "Po wizycie reporterki TVN24 Agaty Adamek na dworcu kolejowym Mława Miasto perony i prowadzące na nich schody zostały odśnieżone. Wcześniej stopnie zniknęły pod grubą warstwą białego puchu. - Gdyby ktoś miał jabłuszko, to mógłby sobie spokojnie na nim po tych schodach zjechać - relacjonowała dziennikarka."
-    },
-    {
-      "title": "Waszyngton zmienia zdanie w sprawie makaronu",
-      "link": "https://tvn24.pl/biznes/ze-swiata/cla-usa-na-makaron-z-wloch-waszyngton-zmienia-zdanie-st8827138?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:37:25 GMT",
-      "description": "Departament Handlu Stanów Zjednoczonych planuje wprowadzić zmiany, które będą dotyczyły kilku włoskich producentów makaronu. Cła na tę kategorię produktów spożywczych zostaną znacznie obniżone - podaje portal stacji CNN.",
-      "originalTitle": "Waszyngton zmienia zdanie w sprawie makaronu",
-      "originalDescription": "Departament Handlu Stanów Zjednoczonych planuje wprowadzić zmiany, które będą dotyczyły kilku włoskich producentów makaronu. Cła na tę kategorię produktów spożywczych zostaną znacznie obniżone - podaje portal stacji CNN."
-    },
-    {
-      "title": "\"Odkrycie dekady\". Potwierdzono istnienie planet swobodnych",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/planety-swobodne-naukowcy-potwierdzili-odkrycie-nowego-rodzaju-planet-odkrycie-dekady-st8826948?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:28:16 GMT",
-      "description": "Międzynarodowy zespół naukowców, w tym z Polski, potwierdził istnienie planet swobodnych. To zupełnie nowa kategoria obiektów planetarnych. Profesor Andrzej Udalski, który brał udział w badaniach, wyjaśnił istotę odkrycia.",
-      "originalTitle": "\"Odkrycie dekady\". Potwierdzono istnienie planet swobodnych",
-      "originalDescription": "Międzynarodowy zespół naukowców, w tym z Polski, potwierdził istnienie planet swobodnych. To zupełnie nowa kategoria obiektów planetarnych. Profesor Andrzej Udalski, który brał udział w badaniach, wyjaśnił istotę odkrycia."
-    },
-    {
-      "title": "23-latek zatrzymany na lotnisku z zagłuszarką fal radiowych, trafił do aresztu",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-na-lotnisku-chopina-znaleziono-urzadzenia-do-zagluszania-fal-radiowych-st8827080?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:16:41 GMT",
-      "description": "Prokuratura wyjaśnia sprawę mężczyzny zatrzymanego na stołecznym Lotnisku Chopina, przy którym znaleziono urządzenie służące do zagłuszania fal radiowych Mężczyzna trafił do aresztu – poinformował rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni Skiba.",
-      "originalTitle": "23-latek zatrzymany na lotnisku z zagłuszarką fal radiowych, trafił do aresztu",
-      "originalDescription": "Prokuratura wyjaśnia sprawę mężczyzny zatrzymanego na stołecznym Lotnisku Chopina, przy którym znaleziono urządzenie służące do zagłuszania fal radiowych Mężczyzna trafił do aresztu – poinformował rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni Skiba."
-    },
-    {
-      "title": "Wyłudzali telefony na cudze dane. 23-latek usłyszał ponad sto zarzutów",
-      "link": "https://tvn24.pl/najnowsze/wyludzali-telefony-na-cudze-dane-23-latek-uslyszal-ponad-sto-zarzutow-st8827046?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:11:28 GMT",
-      "description": "23-letni mieszkaniec Lublina podszywał się pod inne osoby i wyłudzał smartfony od operatorów - ustalili policjanci z Krasnegostawu. Mężczyzna usłyszał łącznie 108 zarzutów. W proceder zamieszane były też dwie osoby z Ukrainy.",
-      "originalTitle": "Wyłudzali telefony na cudze dane. 23-latek usłyszał ponad sto zarzutów",
-      "originalDescription": "23-letni mieszkaniec Lublina podszywał się pod inne osoby i wyłudzał smartfony od operatorów - ustalili policjanci z Krasnegostawu. Mężczyzna usłyszał łącznie 108 zarzutów. W proceder zamieszane były też dwie osoby z Ukrainy."
-    },
-    {
-      "title": "Opłata w górę. Oto nowe stawki",
-      "link": "https://tvn24.pl/biznes/pieniadze/abonament-rtv-2026-nowe-stawki-od-stycznia-st8827061?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 09:07:29 GMT",
-      "description": "Abonament za odbiorniki radiowe i telewizyjne w górę od stycznia, jednocześnie Krajowa Rada Radiofonii i Telewizji przypomina o obowiązku rejestracji urządzeń. Resort kultury przygotował projekt zakładający likwidację abonamentu rtv. Regulacja jest obecnie na etapie konsultacji.",
-      "originalTitle": "Opłata w górę. Oto nowe stawki",
-      "originalDescription": "Abonament za odbiorniki radiowe i telewizyjne w górę od stycznia, jednocześnie Krajowa Rada Radiofonii i Telewizji przypomina o obowiązku rejestracji urządzeń. Resort kultury przygotował projekt zakładający likwidację abonamentu rtv. Regulacja jest obecnie na etapie konsultacji."
     }
   ]
 }
