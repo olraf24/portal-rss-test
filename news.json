@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-03T12:46:37.003Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-03T13:13:39.851Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ostrzeżenia IMGW dotyczące pogody",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-snieg-silny-wiatr-zawieje-i-zamiecie-sniezne-oblodzenia-atak-zimy-w-polsce-st8820843?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 05:46:00 GMT",
+      "description": "• IMGW ostrzega przed śnieżycami.\n• Wydane zostały ostrzeżenia najwyższego, trzeciego stopnia.\n• Miejscami do poniedziałku może dosypać nawet 50-60 centymetrów śniegu.\n• Zalecane jest zachowanie szczególnej ostrożności w miejscach objętych ostrzeżeniami.",
+      "originalTitle": "Czerwone ostrzeżenia IMGW. Tam pogoda będzie szczególnie niebezpieczna",
+      "originalDescription": "IMGW ostrzega przed śnieżycami. Wydane zostały ostrzeżenia najwyższego, trzeciego stopnia - miejscami do poniedziałku może dosypać nawet 50-60 centymetrów śniegu. Sprawdź, gdzie zachować szczególną ostrożność."
+    },
+    {
+      "title": "Prognozy eksportu na 2026 rok",
+      "link": "https://tvn24.pl/swiat/eksport-chaosu-co-nam-grozi-w-2026-roku-st8821964?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 12:56:20 GMT",
+      "description": "• Witajcie w roku, w którym świat będą wam objaśniać już niekoniecznie eksperci, tylko sztuczna inteligencja.\n• Algorytmy staną się tak potężne jak rządy.\n• Rządy będą się mierzyć z masowym eksportem chaosu.\n• Eksport chaosu nie tylko ze strony Kremla.\n• Przedstawiamy pięć głównych zagrożeń w sferze dezinformacji.\n• Zagrożenia dotyczą roku 2026.\n• Trzeba być świadomym pięciu głównych zagrożeń w sferze dezinformacji w 2026 roku.",
+      "originalTitle": "\"Eksport chaosu\". Co nam grozi w 2026 roku",
+      "originalDescription": "Witajcie w roku, w którym świat będą wam objaśniać już niekoniecznie eksperci, tylko sztuczna inteligencja. Gdy algorytmy staną się tak potężne jak rządy - a te będą się mierzyć z masowym eksportem chaosu, nie tylko ze strony Kremla. Przedstawiamy pięć głównych zagrożeń w sferze dezinformacji w 2026 roku, których trzeba być świadomym."
+    },
+    {
+      "title": "Maduro i jego żona oskarżeni",
+      "link": "https://tvn24.pl/swiat/donald-trump-potwierdza-ataki-nicolas-maduro-zostal-pojmany-st8828777?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 09:32:18 GMT",
+      "description": "• Stany Zjednoczone przeprowadziły z powodzeniem atak na dużą skalę na Wenezuelę i jej przywódcę, prezydenta Nicolasa Maduro.\n• Prezydent USA Donald Trump poinformował o powyższej informacji.\n• Prezydent Nicolas Maduro wraz ze swoją żoną zostali pojmani i wywiezieni z kraju.\n• Prokurator generalna USA Pamela Bondi oświadczyła, że Nicolas Maduro i jego żona \"zostali oskarżeni\" w nowojorskim sądzie.\n• Republikański senator Mike Lee stwierdził, że wenezuelski przywódca przebywa w amerykańskim areszcie.",
+      "originalTitle": "Trump: Maduro i jego żona pojmani. Prokurator generalna: Zostali oskarżeni. Spotka ich pełen gniew",
+      "originalDescription": "Stany Zjednoczone przeprowadziły z powodzeniem atak na dużą skalę na Wenezuelę i jej przywódcę, prezydenta Nicolasa Maduro - poinformował prezydent USA Donald Trump. Dodał, że Maduro wraz ze swoją żoną zostali pojmani i wywiezieni z kraju. Prokurator generalna USA Pamela Bondi oświadczyła później, że \"zostali oskarżeni\" w nowojorskim sądzie. Według republikańskiego senatora Mike'a Lee wenezuelski przywódca przebywa w amerykańskim areszcie."
+    },
+    {
+      "title": "Fotoradar uszkodzony po raz trzeci",
+      "link": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-fotoradar-rekordzista-zniszczony-po-raz-trzeci-st8828958?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 12:04:41 GMT",
+      "description": "Fotoradar w Alejach Jerozolimskich został po raz trzeci uszkodzony. Ktoś oblał go białą farbą. To najbardziej \"dochodowe\" i zapracowane urządzenie w Warszawie. Tym razem nie przetrwało dwóch tygodni.",
+      "originalTitle": "Fotoradar rekordzista zniszczony po raz trzeci",
+      "originalDescription": "Fotoradar w Alejach Jerozolimskich został po raz trzeci uszkodzony. Ktoś oblał go białą farbą. To najbardziej \"dochodowe\" i zapracowane urządzenie w Warszawie. Tym razem nie przetrwało dwóch tygodni."
+    },
+    {
+      "title": "Pilot usunięty ze stanowiska przed lotem z powodu podejrzenia o wpływ alkoholu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/pilot-chcial-kierowac-samolotem-pod-wplywem-alkoholu-zostal-wyprowadzony-tuz-przed-startem-st8828898?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 11:56:09 GMT",
+      "description": "• Pilot indyjskich linii lotniczych Air India został wyprowadzony z samolotu przed planowanym startem.\n• Powodem wyprowadzenia pilota z samolotu był fakt, że znajdował się pod wpływem alkoholu.\n• O incydencie donosi agencja Reuters.\n• Agencja Reuters powołuje się na informacje od informatora.\n• Kanadyjski organ regulacyjny ds. transportu to Transport Canada.\n• Transport Canada zwrócił się do linii lotniczych z prośbą o zbadanie incydentu.",
+      "originalTitle": "Pilot chciał kierować samolotem pod wpływem alkoholu. Został wyprowadzony tuż przed startem",
+      "originalDescription": "Pilot indyjskich linii lotniczych Air India został wyprowadzony z samolotu przed planowanym startem, ponieważ znajdował się pod wpływem alkoholu - donosi agencja Reuters, powołując się na informacje od informatora. Kanadyjski organ regulacyjny ds. transportu, Transport Canada, zwrócił się do linii lotniczych z prośbą o zbadanie incydentu."
+    },
+    {
+      "title": "Rozmowa z Trumpem po operacji trwała 50 sekund",
+      "link": "https://tvn24.pl/swiat/wenezuela-donald-trump-skomentowal-operacje-w-krotkim-wywiadzie-st8828912?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 11:55:50 GMT",
+      "description": "• Dziennikarz \"New York Times\" rozmawiał z prezydentem Donaldem Trumpem.\n• Rozmowa odbyła się 10 minut po wpisie prezydenta.\n• Wpis prezydenta potwierdzał przeprowadzenie ataków na Wenezuelę.\n• Wpis prezydenta potwierdzał schwytanie Nicolasa Maduro.\n• Prezydent USA ocenił podczas krótkiego wywiadu, że \"to była naprawdę genialna operacja\".",
+      "originalTitle": "\"Brzmiał na zmęczonego\". Rozmowa z Trumpem chwilę po operacji trwała 50 sekund",
+      "originalDescription": "Dziennikarz \"New York Times\" rozmawiał z prezydentem Donaldem Trumpem 10 minut po jego wpisie, w którym potwierdził przeprowadzenie ataków na Wenezuelę i schwytanie Nicolasa Maduro. Prezydent USA ocenił podczas krótkiego wywiadu, że \"to była naprawdę genialna operacja\"."
+    },
+    {
+      "title": "Zginęli w płomieniach w sylwestrową noc. Zidentyfikowano cztery ofiary",
+      "link": "https://tvn24.pl/swiat/szwajcaria-pozar-baru-w-kurorcie-narciarskim-zidentyfikowano-cztery-ofiary-st8828899?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 11:27:39 GMT",
+      "description": "Szwajcarska policja zidentyfikowała cztery ofiary pożaru w kurorcie narciarskim Crans-Montana - podała stacja BBC. To czworo Szwajcarów w wieku między 16 i 21 lat.",
+      "originalTitle": "Zginęli w płomieniach w sylwestrową noc. Zidentyfikowano cztery ofiary",
+      "originalDescription": "Szwajcarska policja zidentyfikowała cztery ofiary pożaru w kurorcie narciarskim Crans-Montana - podała stacja BBC. To czworo Szwajcarów w wieku między 16 i 21 lat."
+    },
+    {
+      "title": "MSZ o sytuacji Polaków w Wenezueli: skontaktowaliśmy się ze wszystkimi",
+      "link": "https://tvn24.pl/polska/msz-o-sytuacji-polakow-w-wenezueli-skontaktowalismy-sie-ze-wszystkimi-st8828599?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 08:43:13 GMT",
+      "description": "Placówka dyplomatyczna w Wenezueli skontaktowała się z 11 Polakami zarejestrowanymi w systemie Odyseusz - przekazał rzecznik ministerstwa spraw zagranicznych Maciej Wewiór po doniesieniach o eksplozjach w Caracas. Jak dodał, \"nie ma informacji, żeby ktokolwiek\" potrzebował wsparcia.",
+      "originalTitle": "MSZ o sytuacji Polaków w Wenezueli: skontaktowaliśmy się ze wszystkimi",
+      "originalDescription": "Placówka dyplomatyczna w Wenezueli skontaktowała się z 11 Polakami zarejestrowanymi w systemie Odyseusz - przekazał rzecznik ministerstwa spraw zagranicznych Maciej Wewiór po doniesieniach o eksplozjach w Caracas. Jak dodał, \"nie ma informacji, żeby ktokolwiek\" potrzebował wsparcia."
+    },
+    {
+      "title": "Lawiny we Włoszech. Nie żyją trzy osoby",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/lawiny-we-wloszech-nie-zyja-trzy-osoby-st8828854?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 11:17:56 GMT",
+      "description": "Co najmniej trzy osoby zginęły w piątek na skutek lawin we włoskich Alpach. W Piemoncie w dwóch osobnych zdarzeniach zginęło dwoje cudzoziemców. Do tragedii doszło także w Wenecji Euganejskiej na wschodzie kraju.",
+      "originalTitle": "Lawiny we Włoszech. Nie żyją trzy osoby",
+      "originalDescription": "Co najmniej trzy osoby zginęły w piątek na skutek lawin we włoskich Alpach. W Piemoncie w dwóch osobnych zdarzeniach zginęło dwoje cudzoziemców. Do tragedii doszło także w Wenecji Euganejskiej na wschodzie kraju."
+    },
+    {
+      "title": "Kolejny dzień z opadami śniegu. ZOM ostrzega: może być ślisko",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-pogoda-na-sobote-kolejny-dzien-z-opadami-sniegu-zom-ostrzega-moze-byc-slisko-st8828837?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 11:14:07 GMT",
+      "description": "Zarząd Oczyszczania Miasta ostrzega, że w sobotę może zrobić się ślisko na stołecznych ulicach i chodnikach. Po raz kolejny prognozowane są opady śniegu. Temperatura nie przekroczy zera.",
+      "originalTitle": "Kolejny dzień z opadami śniegu. ZOM ostrzega: może być ślisko",
+      "originalDescription": "Zarząd Oczyszczania Miasta ostrzega, że w sobotę może zrobić się ślisko na stołecznych ulicach i chodnikach. Po raz kolejny prognozowane są opady śniegu. Temperatura nie przekroczy zera."
+    }
+  ]
 }
