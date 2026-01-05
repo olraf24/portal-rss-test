@@ -1,8 +1,32 @@
 {
-  "lastUpdate": "2026-01-05T06:12:04.524Z",
+  "lastUpdate": "2026-01-05T06:47:06.050Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Wenezuela wpływa na ceny metali szlachetnych",
+      "link": "https://tvn24.pl/biznes/rynki/zloto-i-srebro-drozeja-rynki-reaguja-na-atak-usa-w-wenezueli-st8831079?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 06:34:29 GMT",
+      "description": "• Ceny złota wzrosły w poniedziałek\n• Inwestorzy reagują na atak USA na Wenezuelę\n• Zyski odnotowało również srebro",
+      "originalTitle": "Rynki reagują na wydarzenia w Wenezueli. Największy wpływ na metale szlachetne",
+      "originalDescription": "Ceny złota wzrosły w poniedziałek, ponieważ inwestorzy reagują na atak USA na Wenezuelę. Zyski odnotowało również srebro."
+    },
+    {
+      "title": "Śnieg na Pomorzu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/zima-na-pomorzu-spadl-snieg-sluzby-beda-mialy-tutaj-dzisiaj-duzo-pracy-st8831077?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 06:32:58 GMT",
+      "description": "Zapowiada się trudny początek tygodnia dla mieszkańców północy kraju. W niedzielę i w nocy na Pomorzu i Kaszubach spadło mnóstwo śniegu, który przeszkadza w normalnym funkcjonowaniu. Trudne warunki panowały na wielu głównych drogach.",
+      "originalTitle": "Pomorze pod śniegiem. \"Służby będą miały tutaj dzisiaj dużo pracy\"",
+      "originalDescription": "Zapowiada się trudny początek tygodnia dla mieszkańców północy kraju. W niedzielę i w nocy na Pomorzu i Kaszubach spadło mnóstwo śniegu, który przeszkadza w normalnym funkcjonowaniu. Trudne warunki panowały na wielu głównych drogach."
+    },
+    {
+      "title": "Mróz w części kraju, ostrzeżenie IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-sniezyce-w-polsce-snieg-silny-wiatr-zawieje-i-zamiecie-sniezne-silny-mroz-atak-zimy-w-polsce-st8820843?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 06:28:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą.\n• W części kraju rano panuje spory mróz.\n• Zalecane jest ubranie się ciepło w niektórych regionach.",
+      "originalTitle": "Silny mróz w części kraju. IMGW ostrzega",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą. W części kraju rano panuje spory mróz. Sprawdź, gdzie ubrać się ciepło."
+    },
     {
       "title": "Wypowiedź premierki na temat Grenlandii",
       "link": "https://tvn24.pl/swiat/dania-stanowcze-slowa-premierki-w-kierunku-stanow-zjednoczonych-chodzi-o-grenlandie-st8831042?source=rss",
@@ -12,15 +36,15 @@
       "originalDescription": "Mette Frederiksen odniosła się do gróźb Stanów Zjednoczonych wobec Danii i Grenlandii. Szefowa duńskiego rządu zaapelowała do Donalda Trumpa. Z kolei prezydent USA powtórzył w wywiadzie, że USA \"absolutnie potrzebują\" Grenlandii."
     },
     {
-      "title": "Trump ogłasza plany zmian sankcji wobec rosyjskiej ropy",
+      "title": "Trump planuje zmiany w sankcjach dotyczących rosyjskiej ropy",
       "link": "https://tvn24.pl/biznes/ze-swiata/sankcje-usa-na-rosyjska-rope-donald-trump-zapowiada-przyjecie-ustawy-o-clach-st8831071?source=rss",
       "pubDate": "Mon, 05 Jan 2026 05:55:18 GMT",
-      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump zasugerował, że ustawa o cłach na towary z państw kupujących rosyjską ropę zostanie wkrótce przyjęta przez Kongres.\n• Ustawa ma na celu usunięcie luki w sankcjach.\n• Luka w sankcjach pozwala na import surowca z Rosji.\n• Surowiec z Rosji jest przetwarzany przez rafinerie w innych krajach.",
+      "description": "Prezydent USA Donald Trump zasugerował, że ustawa o cłach na towary z państw kupujących rosyjską ropę zostanie wkrótce przyjęta przez Kongres. Prawo usunęłoby lukę w sankcjach, która pozwala na import surowca z Rosji przetwarzanego przez rafinerie w innych krajach.",
       "originalTitle": "Trump zapowiada zmiany w sankcjach, na celowniku ma rosyjską ropę. \"Świetny projekt\"",
       "originalDescription": "Prezydent USA Donald Trump zasugerował, że ustawa o cłach na towary z państw kupujących rosyjską ropę zostanie wkrótce przyjęta przez Kongres. Prawo usunęłoby lukę w sankcjach, która pozwala na import surowca z Rosji przetwarzanego przez rafinerie w innych krajach."
     },
     {
-      "title": "Atak na fabrykę w Rosji",
+      "title": "Ukraińskie drony zaatakowały dużą fabrykę w środkowej Rosji",
       "link": "https://tvn24.pl/swiat/rosja-jelec-ukrainskie-drony-zaatakowaly-duza-fabryke-jsc-energia-w-srodkowej-rosji-st8831049?source=rss",
       "pubDate": "Mon, 05 Jan 2026 05:41:13 GMT",
       "description": "Ukraińskie drony zaatakowały strefę przemysłową stutysięcznego miasta Jelec w środkowej Rosji. Wybuchł pożar. Według źródeł w Ukrainie celem ataku była firma JSC Energia.",
@@ -39,9 +63,9 @@
       "title": "\"Działania lotnictwa wojskowego\". Dwa lotniska czasowo zamknięte",
       "link": "https://tvn24.pl/polska/dzialania-lotnictwa-wojskowego-lotniska-w-rzeszowie-i-lublinie-czasowo-zamkniete-st8831060?source=rss",
       "pubDate": "Mon, 05 Jan 2026 05:01:27 GMT",
-      "description": "W nocy z niedzieli na poniedziałek zostały na krótki czas zamknięte lotniska w Rzeszowie w Lublinie. W nocy Rosja atakowała ukraińskie miasta, w tym Kijów, gdzie zginęła co najmniej jedna osoba.",
+      "description": "W nocy z niedzieli na poniedziałek zostały na krótki czas zamknięte lotniska w Rzeszowie i w Lublinie. Rosja atakowała w tym czasie ukraińskie miasta, w tym Kijów, gdzie zginęła co najmniej jedna osoba.",
       "originalTitle": "\"Działania lotnictwa wojskowego\". Dwa lotniska czasowo zamknięte",
-      "originalDescription": "W nocy z niedzieli na poniedziałek zostały na krótki czas zamknięte lotniska w Rzeszowie w Lublinie. W nocy Rosja atakowała ukraińskie miasta, w tym Kijów, gdzie zginęła co najmniej jedna osoba."
+      "originalDescription": "W nocy z niedzieli na poniedziałek zostały na krótki czas zamknięte lotniska w Rzeszowie i w Lublinie. Rosja atakowała w tym czasie ukraińskie miasta, w tym Kijów, gdzie zginęła co najmniej jedna osoba."
     },
     {
       "title": "Trump grozi kolejnym atakiem w Wenezueli. Mówi też o innych krajach",
@@ -58,30 +82,6 @@
       "description": "Kolejne kraje odnoszą się do działań USA w Wenezueli. Wszystkie ofiary pożaru w szwajcarskim kurorcie zostały zidentyfikowane. Unia Europejska znosi opłaty roamingowe dla dwóch krajów. Oto pięć rzeczy, które warto wiedzieć w poniedziałek 5 stycznia.",
       "originalTitle": "Krytyka działań USA, znane wszystkie ofiary pożaru, Tomasiak ósmy w Innsbrucku",
       "originalDescription": "Kolejne kraje odnoszą się do działań USA w Wenezueli. Wszystkie ofiary pożaru w szwajcarskim kurorcie zostały zidentyfikowane. Unia Europejska znosi opłaty roamingowe dla dwóch krajów. Oto pięć rzeczy, które warto wiedzieć w poniedziałek 5 stycznia."
-    },
-    {
-      "title": "Pogoda na dziś - poniedziałek, 5.01. Miejscami poprószy śnieg",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-5-01-miejscami-poproszy-snieg-st8830973?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 01:00:00 GMT",
-      "description": "Pogoda na dziś. W poniedziałek, 5.01, śnieg będzie prószył tylko w niektórych regionach kraju. Termometry pokażą od -4 do -1 stopni. Lokalnie na termometrach możemy zobaczyć też zero stopni.",
-      "originalTitle": "Pogoda na dziś - poniedziałek, 5.01. Miejscami poprószy śnieg",
-      "originalDescription": "Pogoda na dziś. W poniedziałek, 5.01, śnieg będzie prószył tylko w niektórych regionach kraju. Termometry pokażą od -4 do -1 stopni. Lokalnie na termometrach możemy zobaczyć też zero stopni."
-    },
-    {
-      "title": "Relacja reportera \"Faktów\" z Kolumbii. \"Było słychać okrzyki trzymilionowej diaspory Wenezuelczyków\"",
-      "link": "https://tvn24.pl/swiat/kolumbia-relacja-reportera-faktow-z-kolumbii-bylo-slychac-okrzyki-trzymilionowej-diaspory-wenezuelczykow-st8831035?source=rss",
-      "pubDate": "Sun, 04 Jan 2026 22:51:13 GMT",
-      "description": "Maciej Woroch opowiedział w \"Faktach po Faktach\" o nastrojach Wenezuelczyków, mieszkających w Kolumbii, po uprowadzeniu przez Stany Zjednoczone Nicolasa Maduro. Jak mówił reporter \"Faktów\", mieszkańcy są podzieleni. Część z nich świętowała, część z dystansem patrzy na to, co wydarzyło się w sobotę.",
-      "originalTitle": "Relacja reportera \"Faktów\" z Kolumbii. \"Było słychać okrzyki trzymilionowej diaspory Wenezuelczyków\"",
-      "originalDescription": "Maciej Woroch opowiedział w \"Faktach po Faktach\" o nastrojach Wenezuelczyków, mieszkających w Kolumbii, po uprowadzeniu przez Stany Zjednoczone Nicolasa Maduro. Jak mówił reporter \"Faktów\", mieszkańcy są podzieleni. Część z nich świętowała, część z dystansem patrzy na to, co wydarzyło się w sobotę."
-    },
-    {
-      "title": "Wszystkie ofiary pożaru zidentyfikowane. Najnowsze informacje",
-      "link": "https://tvn24.pl/swiat/szwajcaria-crans-montana-wszystkie-ofiary-pozaru-zidentyfikowane-najnowsze-informacje-st8831029?source=rss",
-      "pubDate": "Sun, 04 Jan 2026 22:10:19 GMT",
-      "description": "Szwajcarska policja zakończyła identyfikację wszystkich ofiar pożaru, do którego doszło w noc sylwestrową w jednym z barów w kurorcie narciarskim Crans-Montana. Połowa z 40 ofiar była nieletnia.",
-      "originalTitle": "Wszystkie ofiary pożaru zidentyfikowane. Najnowsze informacje",
-      "originalDescription": "Szwajcarska policja zakończyła identyfikację wszystkich ofiar pożaru, do którego doszło w noc sylwestrową w jednym z barów w kurorcie narciarskim Crans-Montana. Połowa z 40 ofiar była nieletnia."
     }
   ]
 }
