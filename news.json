@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-01-05T11:36:49.240Z",
+  "lastUpdate": "2026-01-05T12:11:03.574Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Tuńczyk wylicytowany za miliony",
+      "title": "Mężczyzna ukrywał skradzione przedmioty na polu",
+      "link": "https://tvn24.pl/lublin/debowa-kloda-kradl-a-lupy-zakopywal-na-polu-st8831804?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 12:00:00 GMT",
+      "description": "• Policjanci zatrzymali 28-letniego mężczyznę podejrzanego o włamania i kradzieże.\n• Mężczyzna podejrzany jest o przestępstwa popełnione na terenie gminy Dębowa Kłoda.\n• Gmina Dębowa Kłoda znajduje się w województwie Lubelskim.\n• Łupem mężczyzny padały głównie elektronarzędzia i kable.\n• Wśród skradzionych przedmiotów był także dziecięcy samochodzik.\n• Mężczyzna zakopywał skradzione przedmioty na swoim polu.\n• Pole, na którym zakopywane były skradzione przedmioty, znajduje się kilkanaście kilometrów od domu mężczyzny.",
+      "originalTitle": "Kradł, a łupy zakopywał na polu",
+      "originalDescription": "Policjanci zatrzymali 28-letniego mężczyznę podejrzanego o włamania i kradzieże na terenie gminy Dębowa Kłoda (Lubelskie). Jego łupem padały głównie elektronarzędzia i kable, ale też między innymi dziecięcy samochodzik. Wszystko zakopywał na swoim polu, kilkanaście kilometrów od domu."
+    },
+    {
+      "title": "Następczyni Maduro",
+      "link": "https://tvn24.pl/swiat/delcy-rodriguez-kim-jest-wiceprezydent-wenezueli-postac-rezimu-maduro-st8831299?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 11:51:12 GMT",
+      "description": "• Delcy Rodriguez nie jest umiarkowaną alternatywą dla Maduro, według oceny byłego tureckiego dyplomaty w Wenezueli, Imdat Oner, dla stacji CNN.\n• Imdat Oner jest byłym tureckim dyplomatą w Wenezueli.\n• Delcy Rodriguez przejęła obowiązki dyktatora w kraju po jego pojmaniu przez Amerykanów.\n• Dyktator został pochwycony przez Amerykanów.\n• Delcy Rodriguez ma polityczny sukces w Wenezueli.\n• Wokół Delcy Rodriguez pojawiają się pytania, czy zgodzi się na współpracę ze Stanami Zjednoczonymi.",
+      "originalTitle": "\"Twardogłowa tygrysica\" utrzyma reżim? Co wiemy o następczyni Maduro",
+      "originalDescription": "Delcy Rodriguez nie jest umiarkowaną alternatywą dla Maduro - ocenił były turecki dyplomata w Wenezueli Imdat Oner dla stacji CNN. Po pojmaniu przez Amerykanów dyktatora to właśnie ona przejęła jego obowiązki w kraju. Kim jest? Jak wyglądała jej droga do politycznego sukcesu? I czy zgodzi się na współpracę ze Stanami Zjednoczonymi?"
+    },
+    {
+      "title": "Wzrost partnera Nvidii w infrastrukturze AI",
+      "link": "https://tvn24.pl/biznes/tech/partner-nvidii-rosnie-w-sile-boom-na-infrastrukture-ai-st8831568?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 11:49:06 GMT",
+      "description": "• Hon Hai Precision Industry (Foxconn) jest kluczowym partnerem Nvidii w montażu serwerów.\n• Firma zanotowała znacznie lepsze od oczekiwań wyniki sprzedaży kwartalnej.\n• Wzrost wyników sprzedaży jest napędzany globalnym boomem na infrastrukturę dla sztucznej inteligencji.\n• Na rynku wciąż pojawiają się obawy o możliwą bańkę AI.",
+      "originalTitle": "Boom na infrastrukturę AI. Kluczowy partner Nvidii z dużymi wzrostami",
+      "originalDescription": "Hon Hai Precision Industry (Foxconn), kluczowy partner Nvidii w montażu serwerów, zanotował znacznie lepsze od oczekiwań wyniki sprzedaży kwartalnej. Wzrost napędzany jest globalnym boomem na infrastrukturę dla sztucznej inteligencji, choć na rynku wciąż pojawiają się obawy o możliwą bańkę AI."
+    },
+    {
+      "title": "Mario został wyrzucony koło śmietnika. Miał zawiązaną kokardkę",
+      "link": "https://tvn24.pl/lodz/lodz-szczeniak-lezal-kolo-smietnika-z-zawiazana-kokardka-nietrafiony-prezent-swiateczny-st8831654?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 11:42:18 GMT",
+      "description": "Miał sześć tygodni, założoną kokardę i leżał koło śmietnika. Szczeniak - jak mówi dyrektor Schroniska Dla Zwierząt w Łodzi - był prawdopodobnie nietrafionym prezentem świątecznym. Teraz czeka na nowego właściciela.",
+      "originalTitle": "Mario został wyrzucony koło śmietnika. Miał zawiązaną kokardkę",
+      "originalDescription": "Miał sześć tygodni, założoną kokardę i leżał koło śmietnika. Szczeniak - jak mówi dyrektor Schroniska Dla Zwierząt w Łodzi - był prawdopodobnie nietrafionym prezentem świątecznym. Teraz czeka na nowego właściciela."
+    },
+    {
+      "title": "Będzie lodowato. Ostrzeżenia IMGW przed siarczystym mrozem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-5-6-01-silny-mroz-gdzie-bedzie-najzimniej-st8831653?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 11:41:57 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem, który wieczorem zacznie obejmować część Polski. Gdzie zapanują bardzo niskie temperatury?",
+      "originalTitle": "Będzie lodowato. Ostrzeżenia IMGW przed siarczystym mrozem",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem, który wieczorem zacznie obejmować część Polski. Gdzie zapanują bardzo niskie temperatury?"
+    },
+    {
+      "title": "Rekordowa cena za tuńczyka. Choć wylicytowany za miliony, trafi na stoły w regularnej cenie",
       "link": "https://tvn24.pl/biznes/ze-swiata/japonia-rekordowa-cena-za-tunczyka-st8831506?source=rss",
       "pubDate": "Mon, 05 Jan 2026 11:31:13 GMT",
-      "description": "• Tuńczyk błękitnopłetwy ważący 243 kilogramy został sprzedany za rekordową kwotę.\n• Sprzedaż miała miejsce podczas poniedziałkowej prestiżowej aukcji.\n• Aukcja odbyła się na targu rybnym w Tokio.\n• Prezes firmy, która kupiła tuńczyka, skomentował tę transakcję.\n• Firma zapłaciła za tuńczyka równowartość niemal 12 milionów złotych.\n• Prezes firmy wiąże tę transakcję ze szczęściem i \"przypływem energii\".",
+      "description": "Tuńczyk błękitnopłetwy ważący 243 kilogramy został sprzedany za rekordową kwotę podczas poniedziałkowej prestiżowej aukcji na targu rybnym w Tokio. Jak komentował prezes firmy, która zapłaciła za okaz równowartość niemal 12 milionów złotych, wiąże to ze szczęściem i \"przypływem energii\".",
       "originalTitle": "Rekordowa cena za tuńczyka. Choć wylicytowany za miliony, trafi na stoły w regularnej cenie",
       "originalDescription": "Tuńczyk błękitnopłetwy ważący 243 kilogramy został sprzedany za rekordową kwotę podczas poniedziałkowej prestiżowej aukcji na targu rybnym w Tokio. Jak komentował prezes firmy, która zapłaciła za okaz równowartość niemal 12 milionów złotych, wiąże to ze szczęściem i \"przypływem energii\"."
     },
     {
-      "title": "Wypadek drogowy, interwencja ratowników",
+      "title": "Kierowca jechał wężykiem. Zareagowali ratownicy",
       "link": "https://tvn24.pl/szczecin/lubiesz-pijany-kierowca-zatrzymany-po-interwencji-ratownikow-st8831157?source=rss",
       "pubDate": "Mon, 05 Jan 2026 11:30:26 GMT",
-      "description": "• Ratownicy medyczni poruszający się karetką zobaczyli w miejscowości Lubiesz samochód jadący wężykiem.\n• Zdarzenie miało miejsce w województwie zachodniopomorskim.\n• Ratownicy włączyli sygnały i uniemożliwili kierowcy dalszą jazdę.\n• Wezwani na miejsce policjanci potwierdzili, że mężczyzna był nietrzeźwy.",
+      "description": "Ratownicy medyczni poruszający się karetką zobaczyli w miejscowości Lubiesz (woj. zachodniopomorskie) samochód jadący wężykiem. Włączyli sygnały i uniemożliwili kierowcy dalszą jazdę. Wezwani na miejsce policjanci potwierdzili, że mężczyzna był nietrzeźwy.",
       "originalTitle": "Kierowca jechał wężykiem. Zareagowali ratownicy",
       "originalDescription": "Ratownicy medyczni poruszający się karetką zobaczyli w miejscowości Lubiesz (woj. zachodniopomorskie) samochód jadący wężykiem. Włączyli sygnały i uniemożliwili kierowcy dalszą jazdę. Wezwani na miejsce policjanci potwierdzili, że mężczyzna był nietrzeźwy."
     },
     {
-      "title": "Wypadek drogowy, kierowca zmarł",
+      "title": "Uderzył w drzewo i wypadł z auta. Kierowca nie żyje",
       "link": "https://tvn24.pl/lublin/tragiczny-wypadek-w-hucie-turobinskiej-nie-zyje-31-letni-kierowca-st8831765?source=rss",
       "pubDate": "Mon, 05 Jan 2026 11:29:50 GMT",
-      "description": "• W miejscowości Huta Turobińska (Lubelskie) doszło do tragicznego wypadku.\n• Wypadek dotyczył samochodu marki Seat.\n• Seat był prowadzony przez 31-letniego mieszkańca powiatu biłgorajskiego.\n• Samochód wypadł z drogi.\n• Pojazd uderzył w drzewo.\n• Mężczyzna prowadzący samochód wypadł z pojazdu.\n• Mężczyzna zginął na miejscu wypadku.",
+      "description": "Tragiczny wypadek w miejscowości Huta Turobińska (Lubelskie). Seat prowadzony przez 31-letniego mieszkańca powiatu biłgorajskiego wypadł z drogi i uderzył w drzewo. Mężczyzna wypadł z pojazdu i zginął na miejscu.",
       "originalTitle": "Uderzył w drzewo i wypadł z auta. Kierowca nie żyje",
       "originalDescription": "Tragiczny wypadek w miejscowości Huta Turobińska (Lubelskie). Seat prowadzony przez 31-letniego mieszkańca powiatu biłgorajskiego wypadł z drogi i uderzył w drzewo. Mężczyzna wypadł z pojazdu i zginął na miejscu."
     },
@@ -42,46 +82,6 @@
       "description": "Sąd w Paryżu uznał w poniedziałek dziesięć osób winnymi nękania w sieci pierwszej damy Francji Brigitte Macron. We Francji teorie spiskowe, których obiektem jest Macron, pojawiły się krótko po zwycięstwie jej męża w wyborach prezydenckich.",
       "originalTitle": "Twierdzili, że pierwsza dama urodziła się jako mężczyzna. Usłyszeli wyrok",
       "originalDescription": "Sąd w Paryżu uznał w poniedziałek dziesięć osób winnymi nękania w sieci pierwszej damy Francji Brigitte Macron. We Francji teorie spiskowe, których obiektem jest Macron, pojawiły się krótko po zwycięstwie jej męża w wyborach prezydenckich."
-    },
-    {
-      "title": "Śledztwo po śmierci Krzysztofa Kononowicza. Decyzja prokuratury",
-      "link": "https://tvn24.pl/bialystok/bialystok-sledztwo-po-smierci-krzysztofa-kononowicza-decyzja-prokuratury-st8831485?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 11:15:05 GMT",
-      "description": "Prokuratura Rejonowa Białystok-Południe umorzyła śledztwo w sprawie znęcania się nad Krzysztofem Kononowiczem. Postępowanie dotyczyło okresu od grudnia 2022 do marca 2025 roku. Przesłuchano kilkunastu świadków. Śledczy stwierdzili, że nie doszło do przestępstwa.",
-      "originalTitle": "Śledztwo po śmierci Krzysztofa Kononowicza. Decyzja prokuratury",
-      "originalDescription": "Prokuratura Rejonowa Białystok-Południe umorzyła śledztwo w sprawie znęcania się nad Krzysztofem Kononowiczem. Postępowanie dotyczyło okresu od grudnia 2022 do marca 2025 roku. Przesłuchano kilkunastu świadków. Śledczy stwierdzili, że nie doszło do przestępstwa."
-    },
-    {
-      "title": "Pożar pustostanu. W środku znaleziono zwłoki mężczyzny",
-      "link": "https://tvn24.pl/wroclaw/chrzastawa-mala-pozar-pustostanu-w-srodku-znaleziono-cialo-mezczyzny-st8831610?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 11:08:11 GMT",
-      "description": "W niedzielę rano strażacy gasili pożar parterowego budynku przy ul. Leśnej w Chrząstawie Małej (woj. dolnośląskie). W trakcie przeszukania obiektu znaleziono ciało mężczyzny.",
-      "originalTitle": "Pożar pustostanu. W środku znaleziono zwłoki mężczyzny",
-      "originalDescription": "W niedzielę rano strażacy gasili pożar parterowego budynku przy ul. Leśnej w Chrząstawie Małej (woj. dolnośląskie). W trakcie przeszukania obiektu znaleziono ciało mężczyzny."
-    },
-    {
-      "title": "Donald Trump spytany o twierdzenia Rosji: nie wierzę",
-      "link": "https://tvn24.pl/swiat/donald-trump-o-rzekomym-ataku-na-rezydencje-putina-nie-wierze-st8831479?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 11:07:13 GMT",
-      "description": "Wtedy nikt o tym nie wiedział. To była pierwsza informacja, jaką otrzymałem - powiedział Donald Trump pytany, dlaczego początkowo uwierzył Władimirowi Putinowi, że Ukraina zaatakowała rezydencję rosyjskiego przywódcy. Władze w Kijowie od razu zaprzeczały rosyjskim twierdzeniom.",
-      "originalTitle": "Donald Trump spytany o twierdzenia Rosji: nie wierzę",
-      "originalDescription": "Wtedy nikt o tym nie wiedział. To była pierwsza informacja, jaką otrzymałem - powiedział Donald Trump pytany, dlaczego początkowo uwierzył Władimirowi Putinowi, że Ukraina zaatakowała rezydencję rosyjskiego przywódcy. Władze w Kijowie od razu zaprzeczały rosyjskim twierdzeniom."
-    },
-    {
-      "title": "Potrącił 14-latka na pasach, chłopiec zmarł. Kierowca stanie przed sądem",
-      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-smiertelne-potracenie-na-ordona-podejrzany-kierowca-stanie-przed-sadem-st8831501?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 11:06:40 GMT",
-      "description": "Prokuratura skierowała do sądu akt oskarżenia przeciwko Andrzejowi K., kierowcy dostawczego auta, który - jak ustalili śledczy - roku temu na warszawskiej Woli śmiertelnie potrącił 14-letniego chłopca.",
-      "originalTitle": "Potrącił 14-latka na pasach, chłopiec zmarł. Kierowca stanie przed sądem",
-      "originalDescription": "Prokuratura skierowała do sądu akt oskarżenia przeciwko Andrzejowi K., kierowcy dostawczego auta, który - jak ustalili śledczy - roku temu na warszawskiej Woli śmiertelnie potrącił 14-letniego chłopca."
-    },
-    {
-      "title": "Media: kilkanaście tankowców z ropą potajemnie opuściło Wenezuelę",
-      "link": "https://tvn24.pl/swiat/reuters-poinformowal-ze-kilkanascie-tankowcow-z-ropa-i-paliwem-opuscilo-wenezuele-mimo-amerykanskich-sankcji-st8831526?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 11:00:13 GMT",
-      "description": "W ostatnich dniach kilkanaście tankowców, załadowanych wenezuelską ropą i paliwem, z wyłączoną lokalizacją opuściło Wenezuelę - donosi Reuters. Agencja informuje, że wszystkie objęte były amerykańskimi sankcjami.",
-      "originalTitle": "Media: kilkanaście tankowców z ropą potajemnie opuściło Wenezuelę",
-      "originalDescription": "W ostatnich dniach kilkanaście tankowców, załadowanych wenezuelską ropą i paliwem, z wyłączoną lokalizacją opuściło Wenezuelę - donosi Reuters. Agencja informuje, że wszystkie objęte były amerykańskimi sankcjami."
     }
   ]
 }
