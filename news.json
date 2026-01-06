@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-01-06T13:44:53.867Z",
+  "lastUpdate": "2026-01-06T14:07:03.414Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Czarzasty apeluje do prezydenta",
+      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-rzuca-wyzwanie-grokowi-i-apeluje-do-prezydenta-karola-nawrockiego-st8833311?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 13:46:17 GMT",
+      "description": "Włodzimierz Czarzasty zaapelował do prezydenta Karola Nawrockiego, by chronił dzieci przed \"rozbierającym je Grokiem\". Odniósł się w ten sposób do zdjęć generowanych przez sztuczną inteligencję serwisu X. Podkreślił, że potrzebne jest prawo, które pomoże blokować szkodliwe treści w internecie.",
+      "originalTitle": "\"Ośmiesz mnie\". Czarzasty rzuca wyzwanie i apeluje do prezydenta",
+      "originalDescription": "Włodzimierz Czarzasty zaapelował do prezydenta Karola Nawrockiego, by chronił dzieci przed \"rozbierającym je Grokiem\". Odniósł się w ten sposób do zdjęć generowanych przez sztuczną inteligencję serwisu X. Podkreślił, że potrzebne jest prawo, które pomoże blokować szkodliwe treści w internecie."
+    },
     {
       "title": "Chiny zaostrzają restrykcje",
       "link": "https://tvn24.pl/biznes/ze-swiata/chiny-zaostrzaja-restrykcje-przez-brutalna-ingerencje-st8833569?source=rss",
@@ -15,12 +23,12 @@
       "title": "IMGW wydał alarmy śnieżne drugiego stopnia",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-sniezyce-ostrzezenia-imgw-6-9-01-tu-mroz-moze-powodowac-zagrozenie-zdrowia-i-zycia-mapa-st8831653?source=rss",
       "pubDate": "Tue, 06 Jan 2026 09:41:55 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej wydał alarmy drugiego stopnia przed intensywnymi opadami śniegu.\n• Synoptycy ostrzegają przed silnym mrozem.\n• Zimowe zagrożenia dadzą się we znaki w nieokreślonych miejscach, które można sprawdzić.",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy drugiego stopnia przed intensywnymi opadami śniegu. Synoptycy ostrzegają też przed silnym mrozem. Sprawdź, gdzie zimowe zagrożenia dadzą się we znaki.",
       "originalTitle": "Powrót śnieżyc. IMGW wydał alarmy drugiego stopnia",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy drugiego stopnia przed intensywnymi opadami śniegu. Synoptycy ostrzegają też przed silnym mrozem. Sprawdź, gdzie zimowe zagrożenia dadzą się we znaki."
     },
     {
-      "title": "Suczka znaleziona martwa przy torach",
+      "title": "Wyziębiona suczka w śniegu przy torach. \"Odeszła nad ranem\"",
       "link": "https://tvn24.pl/olsztyn/wielbark-wyziebiona-suczka-wyla-i-trzesla-sie-z-zimna-odeszla-nad-ranem-st8833337?source=rss",
       "pubDate": "Tue, 06 Jan 2026 13:29:23 GMT",
       "description": "Mimo wysiłków nie udało się uratować życia suczki znalezionej w Wielbarku (Warmińsko-Mazurskie) przy torach kolejowych. Wyziębiony pies spędził co najmniej dobę w wysokim śniegu. - Pies idący luzem nie jest u nas, niestety, niczym dziwnym, dlatego nikt z początku nie zareagował - powiedziała nam lokalna radna Kornelia Kostrzewa.",
@@ -28,7 +36,7 @@
       "originalDescription": "Mimo wysiłków nie udało się uratować życia suczki znalezionej w Wielbarku (Warmińsko-Mazurskie) przy torach kolejowych. Wyziębiony pies spędził co najmniej dobę w wysokim śniegu. - Pies idący luzem nie jest u nas, niestety, niczym dziwnym, dlatego nikt z początku nie zareagował - powiedziała nam lokalna radna Kornelia Kostrzewa."
     },
     {
-      "title": "Ostrzeżenie przed opadami śniegu",
+      "title": "Alert RCB. Niebezpieczne opady śniegu w części kraju",
       "link": "https://tvn24.pl/tvnmeteo/smog/alert-rcb-6-7-01-niebezpieczne-opady-sniegu-w-czesci-kraju-st8833558?source=rss",
       "pubDate": "Tue, 06 Jan 2026 13:22:23 GMT",
       "description": "Uwaga! Rządowe Centrum Bezpieczeństwa wydało alert w związku z obfitymi opadami śniegu, które mogą wystąpić dziś i jutro.",
@@ -37,7 +45,7 @@
     },
     {
       "title": "Berlin nadal walczy z blackoutem. Policja ma \"osiem obiecujących tropów\"",
-      "link": "https://tvn24.pl/swiat/blackout-w-berlinie-czesc-stolicy-wciaz-bez-pradu-w-niektorych-domach-unosi-sie-zapach-odchodow-st8833132?source=rss",
+      "link": "https://tvn24.pl/swiat/blackout-w-berlinie-policja-ma-osiem-obiecujacych-tropow-st8833132?source=rss",
       "pubDate": "Tue, 06 Jan 2026 13:25:05 GMT",
       "description": "Po blackoucie w południowo-zachodnim Berlinie udało się przywrócić prąd około 20 tysiącom odbiorców. Pozostali - a jest ich ponad drugie tyle - będą na to czekać nawet do czwartku. W mieszkaniach temperatura spadła do 7 stopni Celsjusza - donoszą berlińskie media.",
       "originalTitle": "Berlin nadal walczy z blackoutem. Policja ma \"osiem obiecujących tropów\"",
@@ -74,14 +82,6 @@
       "description": "Rząd USA uruchamia program \"US Tech Force\", którego celem jest pozyskanie i rozwój młodych specjalistów z obszaru technologii i sztucznej inteligencji w sektorze publicznym. Administracja Donalda Trumpa modernizuje systemy rządowe i chce wzmocnić pozycję Stanów Zjednoczonych w globalnym wyścigu technologicznym - podał portal stacji CNN.",
       "originalTitle": "Nowy wyścig zbrojeń. USA ruszają z programem",
       "originalDescription": "Rząd USA uruchamia program \"US Tech Force\", którego celem jest pozyskanie i rozwój młodych specjalistów z obszaru technologii i sztucznej inteligencji w sektorze publicznym. Administracja Donalda Trumpa modernizuje systemy rządowe i chce wzmocnić pozycję Stanów Zjednoczonych w globalnym wyścigu technologicznym - podał portal stacji CNN."
-    },
-    {
-      "title": "Pożar w kurorcie. W barze nie było kontroli od wielu lat",
-      "link": "https://tvn24.pl/biznes/ze-swiata/szwajcaria-pozar-w-barze-le-constellation-w-crans-montana-kontroli-nie-bylo-od-2019-roku-st8833192?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 12:10:47 GMT",
-      "description": "Burmistrz szwajcarskiej Crans-Montany poinformował, że od 2019 roku nie przeprowadzono żadnej kontroli w barze, w którym doszło do pożaru w trakcie imprezy noworocznej. W tragedii zginęło 40 osób - podała agencja Reuters.",
-      "originalTitle": "Pożar w kurorcie. W barze nie było kontroli od wielu lat",
-      "originalDescription": "Burmistrz szwajcarskiej Crans-Montany poinformował, że od 2019 roku nie przeprowadzono żadnej kontroli w barze, w którym doszło do pożaru w trakcie imprezy noworocznej. W tragedii zginęło 40 osób - podała agencja Reuters."
     }
   ]
 }
