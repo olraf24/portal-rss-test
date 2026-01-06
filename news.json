@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2026-01-06T10:07:17.204Z",
+  "lastUpdate": "2026-01-06T10:41:30.620Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Ostrzeżenia IMGW przed mrozem",
+      "title": "Mężczyzna z bronią na ulicy",
+      "link": "https://tvn24.pl/lodz/samice-mezczyzna-chodzil-po-ulicy-z-dwoma-rewolwerami-i-bronia-mysliwska-st8833094?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 10:38:02 GMT",
+      "description": "• Prokuratura zarzuciła 54-latkowi nielegalne posiadanie broni i wyrabianie amunicji.\n• Mężczyzna chodził po ulicy z dwoma rewolwerami i bronią myśliwską.\n• Zdarzenie miało miejsce w miejscowości Samice.\n• Miejscowoś�� Samice położona jest w województwie Łódzkim.\n• 54-latek odpowie również za zniszczenie mienia.\n• Razem z 54-latkim za zniszczenie mienia odpowie 53-letnia kobieta.",
+      "originalTitle": "Chodził po ulicy z dwoma rewolwerami i bronią myśliwską",
+      "originalDescription": "Nielegalne posiadanie broni i wyrabianie amunicji zarzuciła prokuratura 54-latkowi, który w miejscowości Samice (Łódzkie) chodził po ulicy z dwoma rewolwerami i bronią myśliwską. Razem z 53-letnią kobietą odpowie też za zniszczenie mienia."
+    },
+    {
+      "title": "Tusk przed szczytem w Paryżu",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-w-paryzu-odbedzie-sie-spotkanie-koalicji-chetnych-polske-bedzie-reprezentowal-premier-donald-tusk-st8832868?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 05:56:00 GMT",
+      "description": "• Żaden członek Paktu Północnoatlantyckiego nie powinien atakować czy grozić drugiemu członkowi Paktu Północnoatlantyckiego.\n• Jeśli taka sytuacja miała miejsce, NATO straciłoby sens.\n• Premier Donald Tusk wypowiedział się na ten temat przed wylotem do Paryża.\n• Premier udał się do Paryża na spotkanie koalicji chętnych.\n• Wypowiedź premiera była odniesieniem do narastającego sporu na linii USA-Dania o Grenlandię.\n• Premier mówił także o postępach w sprawie pokoju na Ukrainie, których spodziewa się po tym szczycie.",
+      "originalTitle": "Tusk przed szczytem w Paryżu: chcę, żeby w Waszyngtonie było dla wszystkich jasne",
+      "originalDescription": "Żaden członek Paktu Północnoatlantyckiego nie powinien atakować czy grozić drugiemu członkowi Paktu Północnoatlantyckiego, inaczej NATO straciłoby sens - powiedział premier Donald Tusk przed wylotem do Paryża na spotkanie koalicji chętnych. Odniósł się w ten sposób do narastającego sporu na lini USA-Dania o Grenlandię. Premier mówił także, jakich postępów w sprawie pokoju na Ukrainie spodziewa się po tym szczycie."
+    },
+    {
+      "title": "Chiny wprowadzają procedury ochrony głowy państwa",
+      "link": "https://tvn24.pl/swiat/tajwan-obawy-ze-chiny-wezma-przyklad-z-usa-wojsko-odpowiada-mamy-procedury-st8833030?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 10:15:35 GMT",
+      "description": "W obliczu rosnących obaw, że Chiny przeprowadzą na Tajwanie operację na wzór tej amerykańskiej w Wenezueli, rząd w Tajpej zapewnił, że \"wojsko ma procedury ochrony dla głowy państwa w sytuacjach kryzysowych\". Z kolei Pekin potępił uprowadzenie Nicolasa Maduro przez USA podkreślając, że \"żadne państwo nie może odgrywać roli światowego policjanta\".",
+      "originalTitle": "Chiny wezmą przykład z USA? \"Wojsko ma procedury ochrony dla głowy państwa\"",
+      "originalDescription": "W obliczu rosnących obaw, że Chiny przeprowadzą na Tajwanie operację na wzór tej amerykańskiej w Wenezueli, rząd w Tajpej zapewnił, że \"wojsko ma procedury ochrony dla głowy państwa w sytuacjach kryzysowych\". Z kolei Pekin potępił uprowadzenie Nicolasa Maduro przez USA podkreślając, że \"żadne państwo nie może odgrywać roli światowego policjanta\"."
+    },
+    {
+      "title": "Zderzyli się na stacji, doszło do wycieku gazu",
+      "link": "https://tvn24.pl/katowice/katowice-wyciek-gazu-na-stacji-paliw-przy-ulicy-francuskiej-st8833111?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 10:14:51 GMT",
+      "description": "Po kolizji dwóch samochodów na stacji paliw w Katowicach został uszkodzony zawór gazu. Doszło do wycieku.",
+      "originalTitle": "Zderzyli się na stacji, doszło do wycieku gazu",
+      "originalDescription": "Po kolizji dwóch samochodów na stacji paliw w Katowicach został uszkodzony zawór gazu. Doszło do wycieku."
+    },
+    {
+      "title": "Jechali z Krakowa do Kołobrzegu. Utknęli w połowie trasy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nowy-dwor-mazowiecki-pociag-stal-przez-zepsuta-lokomotywe-st8833046?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 10:09:50 GMT",
+      "description": "Pociąg z Krakowa do Kołobrzegu miał ponad trzygodzinny nieplanowany postój pod Nowym Dworem Mazowieckim. Powodem była awaria lokomotywy.",
+      "originalTitle": "Jechali z Krakowa do Kołobrzegu. Utknęli w połowie trasy",
+      "originalDescription": "Pociąg z Krakowa do Kołobrzegu miał ponad trzygodzinny nieplanowany postój pod Nowym Dworem Mazowieckim. Powodem była awaria lokomotywy."
+    },
+    {
+      "title": "Zaskakująca zmiana kursu. \"Taka sytuacja zdarza się rzadko\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wenezuela-i-cena-ropy-naftowej-zaskakujaca-zmiana-kursu-taka-sytuacja-zdarza-sie-rzadko-st8832988?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 10:09:09 GMT",
+      "description": "Ceny ropy spadają. To niespodziana odmiana, gdyż jeszcze w poniedziałek surowiec gwałtownie podrożał. Tak ostre zmiany kursu surowca to reakcje inwestorów na wydarzenia w Wenezueli.",
+      "originalTitle": "Zaskakująca zmiana kursu. \"Taka sytuacja zdarza się rzadko\"",
+      "originalDescription": "Ceny ropy spadają. To niespodziana odmiana, gdyż jeszcze w poniedziałek surowiec gwałtownie podrożał. Tak ostre zmiany kursu surowca to reakcje inwestorów na wydarzenia w Wenezueli."
+    },
+    {
+      "title": "Silny mróz. Ostrzeżenia IMGW. Tu mróz może powodować zagrożenie zdrowia i życia",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-ostrzezenia-imgw-6-9-01-tu-mroz-moze-powodowac-zagrozenie-zdrowia-i-zycia-mapa-st8831653?source=rss",
       "pubDate": "Tue, 06 Jan 2026 09:41:55 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem.\n• W siedmiu województwach obowiązują żółte alarmy.\n• Należy sprawdzić szczegóły.",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem. W siedmiu województwach obowiązują żółte alarmy. Sprawdź szczegóły.",
       "originalTitle": "Silny mróz. Ostrzeżenia IMGW. Tu mróz może powodować zagrożenie zdrowia i życia",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem. W siedmiu województwach obowiązują żółte alarmy. Sprawdź szczegóły."
     },
     {
-      "title": "Aresztowanie Maduro",
+      "title": "Schwytanie Maduro. \"W świetle prawa międzynarodowego to była wojna\"",
       "link": "https://tvn24.pl/swiat/schwytanie-nicolasa-maduro-operacja-policyjna-czy-konflikt-zbrojny-w-swietle-prawa-miedzynarodowego-to-byla-wojna-st8832931?source=rss",
       "pubDate": "Tue, 06 Jan 2026 09:46:25 GMT",
-      "description": "• Wojny dzisiaj są niewypowiadane, bo wojna jest pojęciem niewygodnym.\n• Politycy nie lubią pojęcia wojny, obawiają się reakcji społecznej.\n• To nie zmienia ich klasyfikacji prawnej.\n• Dr Mateusz Piątkowski, prawnik i ekspert do spraw międzynarodowych z Uniwersytetu Łódzkiego, skomentował uprowadzenie Nicolasa Maduro przez siły specjalne USA na antenie TVN24.\n• Dr Mateusz Piątkowski ocenił, że prawo amerykańskie postrzega uprowadzenie Nicolasa Maduro inaczej.\n• Uprowadzenie dotyczy Nicolasa Maduro.\n• Uprowadzenie zostało dokonane przez siły specjalne USA.\n• Zdarzenie to było komentowane na antenie TVN24.",
+      "description": "Wojny dzisiaj są niewypowiadane, bo wojna jest pojęciem niewygodnym. Politycy nie lubią pojęcia wojny, obawiają się reakcji społecznej, ale to nie zmienia ich klasyfikacji prawnej - powiedział na antenie TVN24 dr Mateusz Piątkowski, prawnik i ekspert do spraw międzynarodowych z Uniwersytetu Łódzkiego, komentując uprowadzenie Nicolasa Maduro przez siły specjalne USA. Jak ocenił, prawo amerykańskie postrzega to jednak inaczej.",
       "originalTitle": "Schwytanie Maduro. \"W świetle prawa międzynarodowego to była wojna\"",
       "originalDescription": "Wojny dzisiaj są niewypowiadane, bo wojna jest pojęciem niewygodnym. Politycy nie lubią pojęcia wojny, obawiają się reakcji społecznej, ale to nie zmienia ich klasyfikacji prawnej - powiedział na antenie TVN24 dr Mateusz Piątkowski, prawnik i ekspert do spraw międzynarodowych z Uniwersytetu Łódzkiego, komentując uprowadzenie Nicolasa Maduro przez siły specjalne USA. Jak ocenił, prawo amerykańskie postrzega to jednak inaczej."
     },
     {
-      "title": "Mężczyzna zatrzymany po uderzeniu współbiesiadnika",
+      "title": "Libacja zakończona śmiertelnym ciosem. 36-latek w areszcie",
       "link": "https://tvn24.pl/poznan/wlosciejewki-libacja-zakonczona-smiertelnym-ugodzeniem-nozem-36-latek-trafil-do-aresztu-st8833031?source=rss",
       "pubDate": "Tue, 06 Jan 2026 09:30:57 GMT",
       "description": "36-letni mężczyzna został tymczasowo aresztowany na trzy miesiące po tym, jak w Nowy Rok we Włościejewkach (woj. wielkopolskie) śmiertelnie ugodził nożem 50-latka. Mężczyzna usłyszał zarzut zabójstwa.",
@@ -34,54 +82,6 @@
       "description": "Służby interweniowały w mieszkaniu przy ulicy Modzelewskiego w Warszawie. W środku znaleziono siedmiomiesięcznego chłopca bez oznak życia. Przybyli na miejsce ratownicy medyczni stwierdzili śmierć dziecka.",
       "originalTitle": "Siłowe wejście do mieszkania. W środku niemowlę bez oznak życia",
       "originalDescription": "Służby interweniowały w mieszkaniu przy ulicy Modzelewskiego w Warszawie. W środku znaleziono siedmiomiesięcznego chłopca bez oznak życia. Przybyli na miejsce ratownicy medyczni stwierdzili śmierć dziecka."
-    },
-    {
-      "title": "Inwestor wspiera opozycję w Wenezueli",
-      "link": "https://tvn24.pl/biznes/ze-swiata/wenezuela-postawil-na-obalenie-nicolasa-maduro-wygral-fortune-st8832947?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 09:06:45 GMT",
-      "description": "Użytkownik platformy prognostycznej zarobił 410 tysięcy dolarów na tym, że stawiał na obalenie przywódcy Wenezueli Nicolasa Maduro - przekazała agencja Reuters.",
-      "originalTitle": "Postawił na obalenie Maduro. Zgarnął fortunę",
-      "originalDescription": "Użytkownik platformy prognostycznej zarobił 410 tysięcy dolarów na tym, że stawiał na obalenie przywódcy Wenezueli Nicolasa Maduro - przekazała agencja Reuters."
-    },
-    {
-      "title": "Handlowali narkotykami i lekami, drukowali banknoty. 20 osób stanie przed sądem",
-      "link": "https://tvn24.pl/szczecin/szczecin-handel-narkotykami-falszywe-banknoty-i-leki-psychoaktywne-20-osob-stanie-przed-sadem-st8832979?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 08:58:14 GMT",
-      "description": "Do Sądu Okręgowego w Szczecinie trafił akt oskarżenia przeciwko 20 osobom powiązanym z grupą przestępczą zajmującą się handlem narkotykami, obrotem leków psychoaktywnych oraz wprowadzaniem do obrotu podrobionych banknotów. Grozi im od 2 do 25 lat pozbawienia wolności.",
-      "originalTitle": "Handlowali narkotykami i lekami, drukowali banknoty. 20 osób stanie przed sądem",
-      "originalDescription": "Do Sądu Okręgowego w Szczecinie trafił akt oskarżenia przeciwko 20 osobom powiązanym z grupą przestępczą zajmującą się handlem narkotykami, obrotem leków psychoaktywnych oraz wprowadzaniem do obrotu podrobionych banknotów. Grozi im od 2 do 25 lat pozbawienia wolności."
-    },
-    {
-      "title": "Polscy rzeźbiarze w Chinach. Biorą udział w największym lodowym festiwalu",
-      "link": "https://tvn24.pl/swiat/polscy-rzezbiarze-w-chinach-biora-udzial-w-najwiekszym-lodowym-festiwalu-st8832957?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 08:44:12 GMT",
-      "description": "Polscy rzeźbiarze biorą udział w największym lodowym festiwalu na świecie w Chinach. Czterej studenci ASP z Warszawy z niemal czterdziestoma innymi zespołami. Wśród Polaków którzy pasjonują się rzeźbą są tacy, którzy zajmowali się czymś zupełnie innym i decyzję o studiach artystycznych podjęli po latach. Materiał magazynu \"Polska i Świat\".",
-      "originalTitle": "Polscy rzeźbiarze w Chinach. Biorą udział w największym lodowym festiwalu",
-      "originalDescription": "Polscy rzeźbiarze biorą udział w największym lodowym festiwalu na świecie w Chinach. Czterej studenci ASP z Warszawy z niemal czterdziestoma innymi zespołami. Wśród Polaków którzy pasjonują się rzeźbą są tacy, którzy zajmowali się czymś zupełnie innym i decyzję o studiach artystycznych podjęli po latach. Materiał magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Trump namawia gigantów. \"Otrzymają zwrot\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/wenezuela-i-ropa-naftowa-donald-trump-namawia-gigantow-otrzymaja-zwrot-st8832933?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 08:20:50 GMT",
-      "description": "Donald Trump zapowiedział, że amerykańskie firmy naftowe, które zainwestują w odbudowę sektora naftowego Wenezueli - dostaną rekompensatę za wniesiony wkład.",
-      "originalTitle": "Trump namawia gigantów. \"Otrzymają zwrot\"",
-      "originalDescription": "Donald Trump zapowiedział, że amerykańskie firmy naftowe, które zainwestują w odbudowę sektora naftowego Wenezueli - dostaną rekompensatę za wniesiony wkład."
-    },
-    {
-      "title": "Wenezuelska noblistka zapowiada powrót do kraju. \"Jak najszybciej\"",
-      "link": "https://tvn24.pl/swiat/noblistka-maria-corina-machado-zapowiada-powrot-do-kraju-jak-najszybciej-st8832909?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 08:18:38 GMT",
-      "description": "Liderka wenezuelskiej opozycji Maria Corina Machado oświadczyła, że chce jak najszybciej wrócić do swojego kraju. Mówiła również o planach rozwoju Wenezueli oraz o tym, kiedy ostatni raz rozmawiała z prezydentem USA Donaldem Trumpem. Kilka dni temu oświadczył on publicznie, że nie poprze kandydatury noblistki na prezydentkę.",
-      "originalTitle": "Wenezuelska noblistka zapowiada powrót do kraju. \"Jak najszybciej\"",
-      "originalDescription": "Liderka wenezuelskiej opozycji Maria Corina Machado oświadczyła, że chce jak najszybciej wrócić do swojego kraju. Mówiła również o planach rozwoju Wenezueli oraz o tym, kiedy ostatni raz rozmawiała z prezydentem USA Donaldem Trumpem. Kilka dni temu oświadczył on publicznie, że nie poprze kandydatury noblistki na prezydentkę."
-    },
-    {
-      "title": "\"Unikaj aktywności na zewnątrz\". RCB ostrzega",
-      "link": "https://tvn24.pl/tvnmeteo/smog/smog-w-polsce-unikaj-aktywnosci-na-zewnatrz-rcb-ostrzega-st8832937?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 08:11:16 GMT",
-      "description": "Rządowe Centrum Bezpieczeństwa wydało alert w związku ze złą jakością powietrza w części kraju. SMS-owe ostrzeżenia otrzymali mieszkańcy czterech województw.",
-      "originalTitle": "\"Unikaj aktywności na zewnątrz\". RCB ostrzega",
-      "originalDescription": "Rządowe Centrum Bezpieczeństwa wydało alert w związku ze złą jakością powietrza w części kraju. SMS-owe ostrzeżenia otrzymali mieszkańcy czterech województw."
     }
   ]
 }
