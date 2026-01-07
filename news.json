@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-01-07T08:08:54.468Z",
+  "lastUpdate": "2026-01-07T08:44:41.861Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Mężczyzna uszkodził auto i spowodował kolizję",
+      "title": "RCB informuje o smogu",
+      "link": "https://tvn24.pl/tvnmeteo/smog/smog-w-polsce-rcb-ostrzega-przed-smogiem-st8834169?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 08:29:49 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa rozesłało alert w związku ze złą jakością powietrza w części kraju. Alert otrzymali mieszkańcy czterech województw.",
+      "originalTitle": "RCB ostrzega przed smogiem",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa rozesłało alert w związku ze złą jakością powietrza w części kraju. Alert otrzymali mieszkańcy czterech województw."
+    },
+    {
+      "title": "Popyt na mieszkania rośnie.",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/rzeczpospolita-wraca-popyt-na-mieszkania-ceny-pojda-lekko-w-gore-st8833995?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 08:28:01 GMT",
+      "description": "• Po miesiącach wyhamowania klienci coraz śmielej wracają do biur sprzedaży mieszkań.\n• Eksperci prognozują, że 2026 rok przyniesie wyraźne odbicie popytu.\n• Eksperci prognozują umiarkowane podwyżki cen w 2026 roku.\n• Część analityków zapowiada raczej powolne schodzenie z cenowych szczytów niż kolejną hossę.\n• Informacje te zostały podane przez \"Rzeczpospolita\" w środę.",
+      "originalTitle": "Popyt na mieszkania wraca. Co z cenami?",
+      "originalDescription": "Po miesiącach wyhamowania klienci coraz śmielej wracają do biur sprzedaży mieszkań. Eksperci prognozują, że 2026 rok przyniesie wyraźne odbicie popytu i umiarkowane podwyżki cen, choć część analityków zapowiada raczej powolne schodzenie z cenowych szczytów niż kolejną hossę - informuje w środę \"Rzeczpospolita\"."
+    },
+    {
+      "title": "Zmarł były agent CIA skazany za zdradę",
+      "link": "https://tvn24.pl/swiat/usa-aldrich-ames-nie-zyje-najbardziej-szkodliwy-zdrajca-w-historii-cia-od-moskwy-dostawal-miliony-st8834095?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 08:23:34 GMT",
+      "description": "Nie żyje Aldrich H. Ames, były funkcjonariusz CIA, uznawany za \"najbardziej szkodliwego zdrajcę\" w historii agencji. Uważa się, że Ames poprzez swoją działalność szpiegowską mógł przyczynić się do śmierci co najmniej dziesięciu osób. Za swoją pracę otrzymał od Moskwy około dwa i pół miliona dolarów.",
+      "originalTitle": "Nie żyje \"najbardziej szkodliwy zdrajca\" w historii CIA. Od Moskwy dostawał miliony",
+      "originalDescription": "Nie żyje Aldrich H. Ames, były funkcjonariusz CIA, uznawany za \"najbardziej szkodliwego zdrajcę\" w historii agencji. Uważa się, że Ames poprzez swoją działalność szpiegowską mógł przyczynić się do śmierci co najmniej dziesięciu osób. Za swoją pracę otrzymał od Moskwy około dwa i pół miliona dolarów."
+    },
+    {
+      "title": "Wilk ranny przez kłusowników",
+      "link": "https://tvn24.pl/lodz/zawaly-woj-lodzkie-klusownicy-rozlozyli-wnyki-wilk-walczy-o-zycie-st8834117?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 08:19:35 GMT",
+      "description": "Kobieta spacerująca po lesie w pobliżu miejscowości Zawały (Łódzkie) zwróciła uwagę na wilka złapanego we wnyki. - Zwierzę było w bardzo złym stanie. W potrzasku musiało być od pewnego czasu - mówią leśnicy. Policja szuka kłusowników, którzy doprowadzili do dramatu wilka.",
+      "originalTitle": "Kłusownicy rozłożyli wnyki, wilk walczy o życie",
+      "originalDescription": "Kobieta spacerująca po lesie w pobliżu miejscowości Zawały (Łódzkie) zwróciła uwagę na wilka złapanego we wnyki. - Zwierzę było w bardzo złym stanie. W potrzasku musiało być od pewnego czasu - mówią leśnicy. Policja szuka kłusowników, którzy doprowadzili do dramatu wilka."
+    },
+    {
+      "title": "Kierowca wjechał na torowisko podczas ucieczki przed policją",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-poscig-policyjny-na-pradze-polnoc-kierowca-z-dozywotnim-zakazem-st8834090?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 08:13:17 GMT",
+      "description": "W niedzielę późnym wieczorem na ulicy 11 listopada na Pradze Północ doszło do pościgu policyjnego za kierowcą samochodu osobowego, który nie zatrzymał się do kontroli. Mężczyzna miał dożywotni zakaz prowadzenia pojazdów.",
+      "originalTitle": "Uciekał przed policją, wjechał na torowisko. Miał dożywotni zakaz kierowania",
+      "originalDescription": "W niedzielę późnym wieczorem na ulicy 11 listopada na Pradze Północ doszło do pościgu policyjnego za kierowcą samochodu osobowego, który nie zatrzymał się do kontroli. Mężczyzna miał dożywotni zakaz prowadzenia pojazdów."
+    },
+    {
+      "title": "Spowodował kolizję, uszkodził auto rurką i próbował uciec",
       "link": "https://tvn24.pl/wroclaw/oborniki-slaskie-spowodowal-kolizje-uszkodzil-auto-rurka-i-probowal-uciec-st8834052?source=rss",
       "pubDate": "Wed, 07 Jan 2026 08:07:25 GMT",
-      "description": "• Na stacji paliw w Obornikach Śląskich (Dolnośląskie) policjanci zatrzymali 27-latka.\n• Zatrzymany mężczyzna wcześniej spowodował kolizję.\n• Mężczyzna uszkodził auto metalową rurką.\n• Zatrzymany mężczyzna był pijany.\n• Mężczyzna miał przy sobie narkotyki.\n• Kilka godzin wcześniej zatrzymany mężczyzna pod wpływem alkoholu pojawił się w komisariacie.",
+      "description": "Na stacji paliw w Obornikach Śląskich (Dolnośląskie) policjanci zatrzymali 27-latka, który wcześniej spowodował kolizję i uszkodził auto metalową rurką. Mężczyzna był pijany, miał przy sobie narkotyki, a kilka godzin wcześniej pod wpływem alkoholu pojawił się w komisariacie.",
       "originalTitle": "Spowodował kolizję, uszkodził auto rurką i próbował uciec",
       "originalDescription": "Na stacji paliw w Obornikach Śląskich (Dolnośląskie) policjanci zatrzymali 27-latka, który wcześniej spowodował kolizję i uszkodził auto metalową rurką. Mężczyzna był pijany, miał przy sobie narkotyki, a kilka godzin wcześniej pod wpływem alkoholu pojawił się w komisariacie."
     },
     {
-      "title": "Wypadek quada, jedna osoba zginęła",
+      "title": "Pijany wsiadł na quada i zabrał pasażerów. Jedna osoba zginęła, kierowca oskarżony",
       "link": "https://tvn24.pl/katowice/myszkow-pijany-kierowca-quada-spowodowal-wypadek-akt-oskarzenia-st8834088?source=rss",
       "pubDate": "Wed, 07 Jan 2026 08:03:30 GMT",
-      "description": "• Do 20 lat więzienia to kara grożąca oskarżonemu.\n• Oskarżony ma 42 lata.\n• Oskarżony jest podejrzany o spowodowanie wypadku.\n• W wypadku zginął sąsiad oskarżonego.\n• W wypadku został ranny dziewięcioletni chłopiec.\n• Chłopiec został poważnie ranny.\n• Kierowca (oskarżony) był pod wpływem alkoholu.\n• Kierowca (oskarżony) był pod wpływem amfetaminy.\n• Prokuratura przekazuje informacje o sprawie.",
+      "description": "Do 20 lat więzienia - taka kara grozi 42-latkowi oskarżonemu o spowodowanie wypadku, w którym zginął jego sąsiad, a dziewięcioletni chłopiec został poważnie ranny. Jak przekazuje prokuratura, kierowca był pod wpływem alkoholu i amfetaminy.",
       "originalTitle": "Pijany wsiadł na quada i zabrał pasażerów. Jedna osoba zginęła, kierowca oskarżony",
       "originalDescription": "Do 20 lat więzienia - taka kara grozi 42-latkowi oskarżonemu o spowodowanie wypadku, w którym zginął jego sąsiad, a dziewięcioletni chłopiec został poważnie ranny. Jak przekazuje prokuratura, kierowca był pod wpływem alkoholu i amfetaminy."
     },
     {
-      "title": "82 osoby oskarżone o oszustwa",
+      "title": "Oszustwa w klubach go-go. 82 oskarżonych",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/oszustwa-w-klubach-go-go-jest-akt-oskarzenia-82-osob-stanie-przed-sadem-st8834099?source=rss",
       "pubDate": "Wed, 07 Jan 2026 07:54:41 GMT",
       "description": "Prokuratura skierowała do sądu akt oskarżenia w sprawie oszustw w klubach go-go. Oskarżone są 82 osoby, w tym ówczesny stołeczny policjant, a także tancerki i kelnerki. Klienci mieli być najpierw upijani, a następnie okradani.",
@@ -28,7 +68,7 @@
       "originalDescription": "Prokuratura skierowała do sądu akt oskarżenia w sprawie oszustw w klubach go-go. Oskarżone są 82 osoby, w tym ówczesny stołeczny policjant, a także tancerki i kelnerki. Klienci mieli być najpierw upijani, a następnie okradani."
     },
     {
-      "title": "Pociąg zatrzymany, pasażerowie czekali 2 godziny",
+      "title": "Awaria pociągu. Stali na stacji ponad dwie godziny",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/awaria-pociagu-stali-na-stacji-ponad-dwie-godziny-st8834013?source=rss",
       "pubDate": "Wed, 07 Jan 2026 06:53:05 GMT",
       "description": "Na stacji kolejowej pod Warszawą doszło do awarii pociągu, stał tam ponad dwie godziny. Powodem była blokada hamulców w jednym z wagonów. Pasażerowie przesiedli się już do innego składu i ruszyli do Krakowa.",
@@ -39,49 +79,9 @@
       "title": "Kaczyński zwołuje obowiązkową naradę",
       "link": "https://tvn24.pl/polska/obowiazkowa-narada-w-pis-jaroslaw-kaczynski-zdecydowal-st8834094?source=rss",
       "pubDate": "Wed, 07 Jan 2026 07:42:17 GMT",
-      "description": "W środę o godzinie 14 w siedzibie Prawa i Sprawiedliwości odbędzie się narada z kierownictwem ugrupowania - dowiedziała się dziennikarka \"Faktów\" TVN Arleta Zalewska. Następnie o godzinie 18 zaplanowane jest wyjazdowe posiedzenie klubu. Obecność na obu spotkaniach jest obowiązkowa.",
+      "description": "W środę w siedzibie Prawa i Sprawiedliwości odbędzie się narada z kierownictwem ugrupowania - dowiedziała się dziennikarka \"Faktów\" TVN Arleta Zalewska. Następnie zaplanowano wyjazdowe posiedzenie klubu. Obecność na obu spotkaniach jest obowiązkowa.",
       "originalTitle": "Kaczyński zwołuje obowiązkową naradę",
-      "originalDescription": "W środę o godzinie 14 w siedzibie Prawa i Sprawiedliwości odbędzie się narada z kierownictwem ugrupowania - dowiedziała się dziennikarka \"Faktów\" TVN Arleta Zalewska. Następnie o godzinie 18 zaplanowane jest wyjazdowe posiedzenie klubu. Obecność na obu spotkaniach jest obowiązkowa."
-    },
-    {
-      "title": "Rynki reagują na słowa Trumpa. \"Pesymistyczne perspektywy\"",
-      "link": "https://tvn24.pl/biznes/rynki/wyprzedaz-ropy-po-slowach-trumpa-usa-otrzymaly-do-50-mln-barylek-z-wenezueli-st8834026?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 07:39:37 GMT",
-      "description": "Ropa traci na wartości po deklaracji prezydenta USA. Zapowiedź Donalda Trumpa, dotycząca przejęcia nawet 50 miliona baryłek wenezuelskiego surowca i ich sprzedaży pod kontrolą Stanów Zjednoczonych, uruchomiła na globalnych rynkach paliw falę wyprzedaży i wzmocniła presję spadkową na ceny.",
-      "originalTitle": "Rynki reagują na słowa Trumpa. \"Pesymistyczne perspektywy\"",
-      "originalDescription": "Ropa traci na wartości po deklaracji prezydenta USA. Zapowiedź Donalda Trumpa, dotycząca przejęcia nawet 50 miliona baryłek wenezuelskiego surowca i ich sprzedaży pod kontrolą Stanów Zjednoczonych, uruchomiła na globalnych rynkach paliw falę wyprzedaży i wzmocniła presję spadkową na ceny."
-    },
-    {
-      "title": "Kłótnia o quady zakończona atakiem nożem. Ruszy proces",
-      "link": "https://tvn24.pl/krakow/zakopane-klotnia-o-quady-zakonczona-atakiem-nozem-ruszy-proces-st8834056?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 07:12:44 GMT",
-      "description": "Właściciel wypożyczalni quadów z Zakopanego stanie przed sądem. Mężczyzna jest oskarżony o atak nożem na jednego z właścicieli pól niszczonych przez pojazdy terenowe. Sprawa to pokłosie trwającego od lat konfliktu.",
-      "originalTitle": "Kłótnia o quady zakończona atakiem nożem. Ruszy proces",
-      "originalDescription": "Właściciel wypożyczalni quadów z Zakopanego stanie przed sądem. Mężczyzna jest oskarżony o atak nożem na jednego z właścicieli pól niszczonych przez pojazdy terenowe. Sprawa to pokłosie trwającego od lat konfliktu."
-    },
-    {
-      "title": "Płomienie buchały przez okno, pięć osób rannych",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/plomienie-buchaly-przez-okno-piec-osob-rannych-st8834017?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 07:10:12 GMT",
-      "description": "We wtorek wieczorem strażacy gasili pożar mieszkania w Płocku. Ogień wydostawał się przez okna w bloku przy ulicy 3 Maja. Z budynku ewakuowano mieszkańców, pięć osób trafiło do szpitala.",
-      "originalTitle": "Płomienie buchały przez okno, pięć osób rannych",
-      "originalDescription": "We wtorek wieczorem strażacy gasili pożar mieszkania w Płocku. Ogień wydostawał się przez okna w bloku przy ulicy 3 Maja. Z budynku ewakuowano mieszkańców, pięć osób trafiło do szpitala."
-    },
-    {
-      "title": "Spotkanie Nawrockiego z Tuskiem. Przydacz o terminie",
-      "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-donaldem-tuskiem-marcin-przydacz-o-prawdopodobnym-terminie-st8834002?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 07:00:23 GMT",
-      "description": "Najpewniej w piątek dojdzie do spotkania prezydenta Karola Nawrockiego z premierem Donaldem Tuskiem - powiedział w \"Rozmowie Piaseckiego\" w TVN24 szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz.",
-      "originalTitle": "Spotkanie Nawrockiego z Tuskiem. Przydacz o terminie",
-      "originalDescription": "Najpewniej w piątek dojdzie do spotkania prezydenta Karola Nawrockiego z premierem Donaldem Tuskiem - powiedział w \"Rozmowie Piaseckiego\" w TVN24 szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz."
-    },
-    {
-      "title": "Alert RCB. \"Zachowaj ostrożność na drogach i chodnikach\"",
-      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-6-7-01-niebezpieczne-opady-sniegu-w-czesci-kraju-st8833558?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 06:44:04 GMT",
-      "description": "Rządowe Centrum Bezpieczeństwa ostrzega przed niebezpiecznymi opadami śniegu. Alert otrzymali mieszkańcy południowo-wschodnich regionów kraju.",
-      "originalTitle": "Alert RCB. \"Zachowaj ostrożność na drogach i chodnikach\"",
-      "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega przed niebezpiecznymi opadami śniegu. Alert otrzymali mieszkańcy południowo-wschodnich regionów kraju."
+      "originalDescription": "W środę w siedzibie Prawa i Sprawiedliwości odbędzie się narada z kierownictwem ugrupowania - dowiedziała się dziennikarka \"Faktów\" TVN Arleta Zalewska. Następnie zaplanowano wyjazdowe posiedzenie klubu. Obecność na obu spotkaniach jest obowiązkowa."
     }
   ]
 }
