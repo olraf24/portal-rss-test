@@ -1,31 +1,79 @@
 {
-  "lastUpdate": "2026-01-07T16:09:01.603Z",
+  "lastUpdate": "2026-01-07T16:44:39.775Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "New York Times zaleca Warszawę",
+      "title": "Jakość powietrza w Warszawie",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-smog-w-stolicy-rcb-wyslalo-alerty-st8834666?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 16:35:54 GMT",
+      "description": "• Jakość powietrza w Warszawie jest fatalna.\n• Rządowe Centrum Bezpieczeństwa rozesłało alerty o zanieczyszczeniu powietrza.\n• W komunikacie zaleca się \"Unikaj aktywności na zewnątrz\".\n• Czujniki wykrywają dużą ilość pyłów PM10 w powietrzu.",
+      "originalTitle": "Smog w Warszawie. Fatalna jakość powietrza. RCB wysłało alerty",
+      "originalDescription": "Jakość powietrza w Warszawie jest fatalna. Rządowe Centrum Bezpieczeństwa rozesłało alerty o zanieczyszczeniu powietrza. \"Unikaj aktywności na zewnątrz\" - czytamy w komunikacie. Czujniki wykrywają dużą ilość pyłów PM10 w powietrzu."
+    },
+    {
+      "title": "Rezerwy banku centralnego: udział złota wzrasta",
+      "link": "https://tvn24.pl/biznes/pieniadze/rekordowa-ilosc-zlota-w-skarbcu-tyle-wynosza-rezerwy-walutowe-polski-st8835358?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 16:30:39 GMT",
+      "description": "Na koniec grudnia 2025 roku oficjalne rezerwy walutowe Polski osiągnęły poziom 231 miliardów euro - przekazał w środę Narodowy Bank Polski. Wśród kluczowych składników aktywów rezerwowych NBP istotną rolę odgrywa złoto.",
+      "originalTitle": "Rezerwy banku centralnego. Udział złota rośnie",
+      "originalDescription": "Na koniec grudnia 2025 roku oficjalne rezerwy walutowe Polski osiągnęły poziom 231 miliardów euro - przekazał w środę Narodowy Bank Polski. Wśród kluczowych składników aktywów rezerwowych NBP istotną rolę odgrywa złoto."
+    },
+    {
+      "title": "Schroniska potrzebują pomocy",
+      "link": "https://tvn24.pl/wroclaw/nadchodzi-mroz-schroniska-dla-zwierzat-prosza-o-adopcje-i-domy-tymczasowe-st8833679?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 16:53:32 GMT",
+      "description": "Schroniska dla bezdomnych zwierząt apelują o tymczasowe przyjmowanie w domach psów i kotów. Osoby opiekujące się zwierzakami informują, że przez panujący mróz to dla ich podopiecznych \"najtrudniejszy moment w roku\", a wręcz \"walka o przetrwanie\".",
+      "originalTitle": "\"To już nie zima, to czas przetrwania\". Schroniska proszą o pomoc",
+      "originalDescription": "Schroniska dla bezdomnych zwierząt apelują o tymczasowe przyjmowanie w domach psów i kotów. Osoby opiekujące się zwierzakami informują, że przez panujący mróz to dla ich podopiecznych \"najtrudniejszy moment w roku\", a wręcz \"walka o przetrwanie\"."
+    },
+    {
+      "title": "Prawa ręka Donalda Trumpa",
+      "link": "https://tvn24.pl/swiat/jak-zart-stal-sie-grozba-co-wiemy-o-prawej-rece-donalda-trumpa-st8834001?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 16:13:29 GMT",
+      "description": "\"Wiernie realizuje\" to, czego chce Donald Trump. Kiedy Stephen Miller zaczynał, niewielu brało go na poważnie. Później dostał się do ścisłego kręgu ludzi Trumpa, a jego rola ostatnio wzrosła. \"New York Times\" analizuje, co to oznacza dla międzynarodowej polityki.",
+      "originalTitle": "Jak żart stał się groźbą. Co wiemy o prawej ręce Donalda Trumpa",
+      "originalDescription": "\"Wiernie realizuje\" to, czego chce Donald Trump. Kiedy Stephen Miller zaczynał, niewielu brało go na poważnie. Później dostał się do ścisłego kręgu ludzi Trumpa, a jego rola ostatnio wzrosła. \"New York Times\" analizuje, co to oznacza dla międzynarodowej polityki."
+    },
+    {
+      "title": "Uderzył w zaparkowane samochody. \"Miał trzy promile\"",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-uderzyl-w-zaparkowane-samochody-byl-pijany-mial-trzy-promile-st8835309?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 16:12:07 GMT",
+      "description": "Na ulicy Chełmskiej na warszawskim Mokotowie kierowca skody uderzył w zaparkowane samochody. Policja ustaliła, że był pijany - miał trzy promile.",
+      "originalTitle": "Uderzył w zaparkowane samochody. \"Miał trzy promile\"",
+      "originalDescription": "Na ulicy Chełmskiej na warszawskim Mokotowie kierowca skody uderzył w zaparkowane samochody. Policja ustaliła, że był pijany - miał trzy promile."
+    },
+    {
+      "title": "Pogrzeb Brigitte Bardot",
+      "link": "https://tvn24.pl/kultura-i-styl/francja-pogrzeb-brigitte-bardot-ostatnie-pozegnanie-legendy-kina-z-udzialem-gwiazd-i-politykow-st8834997?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 13:48:02 GMT",
+      "description": "Francja pożegnała Brigitte Bardot. Na pogrzebie 91-letniej aktorki w Saint-Tropez w środę pojawili się przedstawiciele władz, gwiazdy estrady, a także znani politycy, w tym liderka skrajnej prawicy Marine Le Pen.",
+      "originalTitle": "Ostatnie pożegnanie legendy. Politycy i gwiazdy na pogrzebie Brigitte Bardot",
+      "originalDescription": "Francja pożegnała Brigitte Bardot. Na pogrzebie 91-letniej aktorki w Saint-Tropez w środę pojawili się przedstawiciele władz, gwiazdy estrady, a także znani politycy, w tym liderka skrajnej prawicy Marine Le Pen."
+    },
+    {
+      "title": "\"New York Times\" poleca wizytę w Warszawie. Zwraca uwagę na jedno miejsce",
       "link": "https://tvn24.pl/biznes/turystyka/turystyka-new-york-times-poleca-wizyte-w-warszawie-ranking-miejsc-do-odwiedzenia-w-2026-st8835215?source=rss",
       "pubDate": "Wed, 07 Jan 2026 16:05:39 GMT",
-      "description": "• Zestawienie \"52 miejsc do odwiedzenia w 2026 roku\" opublikował na początku tygodnia dziennik \"New York Times\".\n• Na drugim miejscu w zestawieniu znalazła się Warszawa.\n• Warszawa jest stolicą Polski.\n• Warszawę doceniono zwłaszcza za dwa miejsca.",
+      "description": "Zestawienie \"52 miejsc do odwiedzenia w 2026 roku\" opublikował na początku tygodnia dziennik \"New York Times\". Na drugim miejscu znalazła się Warszawa - stolicę Polski doceniono zwłaszcza za dwa miejsca.",
       "originalTitle": "\"New York Times\" poleca wizytę w Warszawie. Zwraca uwagę na jedno miejsce",
       "originalDescription": "Zestawienie \"52 miejsc do odwiedzenia w 2026 roku\" opublikował na początku tygodnia dziennik \"New York Times\". Na drugim miejscu znalazła się Warszawa - stolicę Polski doceniono zwłaszcza za dwa miejsca."
     },
     {
-      "title": "Szczepienia w aptekach od 1 lutego",
+      "title": "Od 1 lutego więcej szczepień w aptekach. Dla wszystkich bezpłatnie, nie dla każdego \"za darmo\"",
       "link": "https://tvn24.pl/zdrowie/od-1-lutego-wiecej-szczepien-w-aptekach-dla-wszystkich-bezplatnie-nie-dla-kazdego-za-darmo-st8835283?source=rss",
       "pubDate": "Wed, 07 Jan 2026 16:05:27 GMT",
-      "description": "• Od 1 lutego 2026 w aptekach w całej Polsce będzie można bezpłatnie zaszczepić się przeciw kolejnym chorobom.\n• Lista szczepień finansowanych ze środków publicznych wyraźnie się rozszerzy.\n• Zmiana wykazu szczepień ukazała się w Dzienniku Urzędowym Ministerstwa Zdrowia.\n• Zmiana wykazu szczepień nastąpiła pod koniec ubiegłego roku.",
+      "description": "Od 1 lutego 2026 w aptekach w całej Polsce będzie można bezpłatnie zaszczepić się przeciw kolejnym chorobom. Lista szczepień finansowanych ze środków publicznych wyraźnie się rozszerzy. To efekt zmiany wykazu szczepień, który pod koniec ubiegłego roku ukazał się w Dzienniku Urzędowym Ministerstwa Zdrowia.",
       "originalTitle": "Od 1 lutego więcej szczepień w aptekach. Dla wszystkich bezpłatnie, nie dla każdego \"za darmo\"",
       "originalDescription": "Od 1 lutego 2026 w aptekach w całej Polsce będzie można bezpłatnie zaszczepić się przeciw kolejnym chorobom. Lista szczepień finansowanych ze środków publicznych wyraźnie się rozszerzy. To efekt zmiany wykazu szczepień, który pod koniec ubiegłego roku ukazał się w Dzienniku Urzędowym Ministerstwa Zdrowia."
     },
     {
-      "title": "Prognoza pogody: opady śniegu",
+      "title": "Cały czas będziemy marznąć. Gdzie sypnie śnieg?",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/atak-zimy-mroz-w-polsce-pogoda-na-weekend-i-5-dni-caly-czas-bedziemy-marznac-gdzie-sypnie-snieg-st8835241?source=rss",
       "pubDate": "Wed, 07 Jan 2026 15:59:17 GMT",
-      "description": "Pogoda w Polsce. W nadchodzących dniach mróz nie odpuści. Niskie wartości temperatury utrzymać się mają co najmniej do połowy przyszłego tygodnia. Weekend przyniesie opady śniegu w całym kraju.",
+      "description": "Pogoda w Polsce. W nadchodzących dniach mróz nie odpuści. Niskie wartości temperatury mają się utrzymać co najmniej do połowy przyszłego tygodnia. Weekend przyniesie opady śniegu w całym kraju.",
       "originalTitle": "Cały czas będziemy marznąć. Gdzie sypnie śnieg?",
-      "originalDescription": "Pogoda w Polsce. W nadchodzących dniach mróz nie odpuści. Niskie wartości temperatury utrzymać się mają co najmniej do połowy przyszłego tygodnia. Weekend przyniesie opady śniegu w całym kraju."
+      "originalDescription": "Pogoda w Polsce. W nadchodzących dniach mróz nie odpuści. Niskie wartości temperatury mają się utrzymać co najmniej do połowy przyszłego tygodnia. Weekend przyniesie opady śniegu w całym kraju."
     },
     {
       "title": "Kaczyński o \"marzeniach przeciwników\". \"Z pewnością nie spełnią się\"",
@@ -34,54 +82,6 @@
       "description": "Rozmowy w PiS nie będą miały nic wspólnego z jakimiś napięciami, nie mówiąc już o rozłamach w partii - oświadczył w środę prezes Jarosław Kaczyński. Na konferencji wystąpił z członkami rzekomo zwaśnionych frakcji.",
       "originalTitle": "Kaczyński o \"marzeniach przeciwników\". \"Z pewnością nie spełnią się\"",
       "originalDescription": "Rozmowy w PiS nie będą miały nic wspólnego z jakimiś napięciami, nie mówiąc już o rozłamach w partii - oświadczył w środę prezes Jarosław Kaczyński. Na konferencji wystąpił z członkami rzekomo zwaśnionych frakcji."
-    },
-    {
-      "title": "Reforma edukacji. Czy prezydent wiedział, co wetuje?",
-      "link": "https://tvn24.pl/polska/reforma-edukacji-czy-prezydent-wiedzial-co-wetuje-st8835028?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:53:46 GMT",
-      "description": "W uzasadnieniu do weta ustaw, które miały wprowadzić reformę edukacji, prezydent Karol Nawrocki odnosi się do kwestii, których w ogóle w tym dokumencie nie było i krytykuje zapisy, które już obowiązują. - Czy służby prezydenta w ogóle to przeczytały? - pyta Katarzyna Lubnauer, wiceministra odpowiedzialna za reformę. I komentuje krótko: - Kompromitacja.",
-      "originalTitle": "Reforma edukacji. Czy prezydent wiedział, co wetuje?",
-      "originalDescription": "W uzasadnieniu do weta ustaw, które miały wprowadzić reformę edukacji, prezydent Karol Nawrocki odnosi się do kwestii, których w ogóle w tym dokumencie nie było i krytykuje zapisy, które już obowiązują. - Czy służby prezydenta w ogóle to przeczytały? - pyta Katarzyna Lubnauer, wiceministra odpowiedzialna za reformę. I komentuje krótko: - Kompromitacja."
-    },
-    {
-      "title": "Pojechał do Czech i stracił tablice rejestracyjne. Wszystkiemu winien leasing",
-      "link": "https://tvn24.pl/biznes/moto/czechy-auto-w-leasingu-moze-stracic-tablice-rejestracyjne-przez-dlugi-banku-st8835140?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:48:48 GMT",
-      "description": "Jeden z użytkowników mediów społecznościowych udostępnił w ostatnich dniach film, na którym relacjonuje konfiskatę tablic rejestracyjnych auta, którym podróżował do Czech. Jak twierdzi - nie dokonał żadnego wykroczenia. \"Uważajcie, jak jeździcie samochodami za granicę\" - ostrzega. Wszystko odbyło się zgodnie z prawem.",
-      "originalTitle": "Pojechał do Czech i stracił tablice rejestracyjne. Wszystkiemu winien leasing",
-      "originalDescription": "Jeden z użytkowników mediów społecznościowych udostępnił w ostatnich dniach film, na którym relacjonuje konfiskatę tablic rejestracyjnych auta, którym podróżował do Czech. Jak twierdzi - nie dokonał żadnego wykroczenia. \"Uważajcie, jak jeździcie samochodami za granicę\" - ostrzega. Wszystko odbyło się zgodnie z prawem."
-    },
-    {
-      "title": "Uciekał przed policją, uderzył w dystrybutor paliwa",
-      "link": "https://tvn24.pl/wroclaw/akcja-sluzb-na-a4-pod-legnica-uciekal-przed-policja-uderzyl-w-dystrybutor-paliwa-st8835273?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:47:46 GMT",
-      "description": "Do niebezpiecznego zdarzenia doszło we wtorek na autostradzie A4 w okolicach Legnicy. Kierowca samochodu osobowego, uciekając przed policyjnym pościgiem, stracił panowanie nad pojazdem i uderzył w dystrybutor paliwa na stacji benzynowej.",
-      "originalTitle": "Uciekał przed policją, uderzył w dystrybutor paliwa",
-      "originalDescription": "Do niebezpiecznego zdarzenia doszło we wtorek na autostradzie A4 w okolicach Legnicy. Kierowca samochodu osobowego, uciekając przed policyjnym pościgiem, stracił panowanie nad pojazdem i uderzył w dystrybutor paliwa na stacji benzynowej."
-    },
-    {
-      "title": "Podwyżki dla medyków do przesunięcia na styczeń? Resort zdrowia proponuje zmiany",
-      "link": "https://tvn24.pl/zdrowie/podwyzki-dla-medykow-do-przesuniecia-na-styczen-resort-zdrowia-proponuje-zmiany-st8835276?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:42:40 GMT",
-      "description": "Nikomu nie zabieramy, aby dać komuś innemu. Proponujemy racjonalne rozwiązania, na które pozwala budżet - napisało na portalu X Ministerstwo Zdrowia po dzisiejszym spotkaniu Prezydium Trójstronnego Zespołu ds. Ochrony Zdrowia, cytując wiceminister Katarzynę Kęcką. Chodzi o propozycje zmian w \"ustawie podwyżkowej\", regulującej wynagrodzenia medyków. Na stole jest między innymi przesunięcie terminu waloryzacji płac z lipca na styczeń. Nie ma natomiast górnych limitów wynagrodzeń.",
-      "originalTitle": "Podwyżki dla medyków do przesunięcia na styczeń? Resort zdrowia proponuje zmiany",
-      "originalDescription": "Nikomu nie zabieramy, aby dać komuś innemu. Proponujemy racjonalne rozwiązania, na które pozwala budżet - napisało na portalu X Ministerstwo Zdrowia po dzisiejszym spotkaniu Prezydium Trójstronnego Zespołu ds. Ochrony Zdrowia, cytując wiceminister Katarzynę Kęcką. Chodzi o propozycje zmian w \"ustawie podwyżkowej\", regulującej wynagrodzenia medyków. Na stole jest między innymi przesunięcie terminu waloryzacji płac z lipca na styczeń. Nie ma natomiast górnych limitów wynagrodzeń."
-    },
-    {
-      "title": "Podziemie narkotykowe w więzieniu, skorumpowani strażnicy. Prokuratura oskarża",
-      "link": "https://tvn24.pl/krakow/nowy-wisnicz-podziemie-narkotykowe-w-wiezieniu-skorumpowani-straznicy-prokuratura-oskarza-st8835001?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:39:34 GMT",
-      "description": "Prokuratura skierowała do sądu akt oskarżenia przeciwko ośmiu osobom w związku ze zorganizowaniem w Zakładzie Karnym w Nowym Wiśniczu (Małopolska) narkotykowego podziemia. W odrębnym postępowaniu zarzuty ma kilkoro strażników więziennych. Śledztwo przeciwko funkcjonariuszom jest w toku.",
-      "originalTitle": "Podziemie narkotykowe w więzieniu, skorumpowani strażnicy. Prokuratura oskarża",
-      "originalDescription": "Prokuratura skierowała do sądu akt oskarżenia przeciwko ośmiu osobom w związku ze zorganizowaniem w Zakładzie Karnym w Nowym Wiśniczu (Małopolska) narkotykowego podziemia. W odrębnym postępowaniu zarzuty ma kilkoro strażników więziennych. Śledztwo przeciwko funkcjonariuszom jest w toku."
-    },
-    {
-      "title": "\"Złoty standard bezpieczeństwa\". Ważna zmiana na popularnej platformie",
-      "link": "https://tvn24.pl/biznes/tech/roblox-wprowadza-obowiazkowa-weryfikacje-wieku-czat-tylko-po-skanie-twarzy-st8835130?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:21:27 GMT",
-      "description": "Roblox wprowadza globalny obowiązek weryfikacji wieku za pomocą analizy twarzy dla użytkowników czatu. Rozwiązanie testowano od początku grudnia w wybranych krajach. Zdaniem firmy ma to zwiększyć bezpieczeństwo komunikacji i ograniczyć kontakty między dorosłymi a dziećmi poniżej 16. roku życia.",
-      "originalTitle": "\"Złoty standard bezpieczeństwa\". Ważna zmiana na popularnej platformie",
-      "originalDescription": "Roblox wprowadza globalny obowiązek weryfikacji wieku za pomocą analizy twarzy dla użytkowników czatu. Rozwiązanie testowano od początku grudnia w wybranych krajach. Zdaniem firmy ma to zwiększyć bezpieczeństwo komunikacji i ograniczyć kontakty między dorosłymi a dziećmi poniżej 16. roku życia."
     }
   ]
 }
