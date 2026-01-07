@@ -1,23 +1,39 @@
 {
-  "lastUpdate": "2026-01-07T07:09:47.924Z",
+  "lastUpdate": "2026-01-07T07:39:22.140Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Pociąg stoi na stacji od 2 godzin",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-awaria-pociagu-st8834013?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 06:53:05 GMT",
+      "description": "Na stacji kolejowej w Grodzisku Mazowieckim doszło do awarii pociągu, stoi tam już ponad dwie godziny. Powodem jest blokada hamulców w jednym z wagonów. Pasażerowie mają się niebawem przesiąść do innego składu.",
+      "originalTitle": "Awaria pociągu. Stoją na stacji już ponad dwie godziny",
+      "originalDescription": "Na stacji kolejowej w Grodzisku Mazowieckim doszło do awarii pociągu, stoi tam już ponad dwie godziny. Powodem jest blokada hamulców w jednym z wagonów. Pasażerowie mają się niebawem przesiąść do innego składu."
+    },
+    {
+      "title": "Proces w sprawie ataku nożem podczas kłótni o quady",
+      "link": "https://tvn24.pl/krakow/zakopane-klotnia-o-quady-zakonczona-atakiem-nozem-ruszy-proces-st8834056?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 07:12:44 GMT",
+      "description": "Właściciel wypożyczalni quadów z Zakopanego stanie przed sądem. Mężczyzna jest oskarżony o atak nożem na jednego z właścicieli pól niszczonych przez pojazdy terenowe. Sprawa to pokłosie trwającego od lat konfliktu.",
+      "originalTitle": "Kłótnia o quady zakończona atakiem nożem. Ruszy proces",
+      "originalDescription": "Właściciel wypożyczalni quadów z Zakopanego stanie przed sądem. Mężczyzna jest oskarżony o atak nożem na jednego z właścicieli pól niszczonych przez pojazdy terenowe. Sprawa to pokłosie trwającego od lat konfliktu."
+    },
+    {
+      "title": "Pożar w budynku, pięć osób rannych",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plomienie-buchaly-przez-okno-piec-osob-rannych-st8834017?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 07:10:12 GMT",
+      "description": "We wtorek wieczorem strażacy gasili pożar mieszkania w Płocku. Ogień wydostawał się przez okna w bloku przy ulicy 3 Maja. Z budynku ewakuowano mieszkańców, pięć osób trafiło do szpitala.",
+      "originalTitle": "Płomienie buchały przez okno, pięć osób rannych",
+      "originalDescription": "We wtorek wieczorem strażacy gasili pożar mieszkania w Płocku. Ogień wydostawał się przez okna w bloku przy ulicy 3 Maja. Z budynku ewakuowano mieszkańców, pięć osób trafiło do szpitala."
+    },
+    {
       "title": "Spotkanie Nawrockiego z Tuskiem",
       "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-donaldem-tuskiem-marcin-przydacz-o-prawdopodobnym-terminie-st8834002?source=rss",
       "pubDate": "Wed, 07 Jan 2026 07:00:23 GMT",
-      "description": "• W piątek dojdzie do spotkania prezydenta Karola Nawrockiego z premierem Donaldem Tuskiem.\n• Spotkanie zostało zapowiedziane przez szefa prezydenckiego Biura Polityki Międzynarodowej Marcina Przydacza.\n• Marcin Przydacz poinformował o planowanym spotkaniu w programie \"Rozmowa Piaseckiego\" w TVN24.\n• Prezydentem, który ma spotkać się z premierem, jest Karol Nawrocki.\n• Premierem, który ma spotkać się z prezydentem, jest Donald Tusk.\n• Szefem prezydenckiego Biura Polityki Międzynarodowej jest Marcin Przydacz.\n• Program, w którym Marcin Przydacz poinformował o spotkaniu, to \"Rozmowa Piaseckiego\".\n• Stacja telewizyjna, na której emitowany jest program \"Rozmowa Piaseckiego\", to TVN24.",
+      "description": "Najpewniej w piątek dojdzie do spotkania prezydenta Karola Nawrockiego z premierem Donaldem Tuskiem - powiedział w \"Rozmowie Piaseckiego\" w TVN24 szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz.",
       "originalTitle": "Spotkanie Nawrockiego z Tuskiem. Przydacz o terminie",
       "originalDescription": "Najpewniej w piątek dojdzie do spotkania prezydenta Karola Nawrockiego z premierem Donaldem Tuskiem - powiedział w \"Rozmowie Piaseckiego\" w TVN24 szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz."
-    },
-    {
-      "title": "Awaria pociągu w Grodzisku Mazowieckim",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-awaria-pociagu-st8834013?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 06:53:05 GMT",
-      "description": "Na stacji kolejowej w Grodzisku Mazowieckim doszło do awarii pociągu, stoi tam już blisko dwie godziny. Powodem jest blokada hamulców w jednym z wagonów.",
-      "originalTitle": "Awaria pociągu w Grodzisku Mazowieckim. Stoją na stacji już blisko dwie godziny",
-      "originalDescription": "Na stacji kolejowej w Grodzisku Mazowieckim doszło do awarii pociągu, stoi tam już blisko dwie godziny. Powodem jest blokada hamulców w jednym z wagonów."
     },
     {
       "title": "Alert RCB. \"Zachowaj ostrożność na drogach i chodnikach\"",
@@ -66,22 +82,6 @@
       "description": "Prowadzący toyotę kierowca dziwnie się zachowywał podczas kontroli. Policjanci odkryli dlaczego. W samochodzie ukrył około 400 gramów narkotyków. Mężczyzna trafił do aresztu.",
       "originalTitle": "Unikał kontaktu wzrokowego, dziwnie się nachylał. Znaleźli powód",
       "originalDescription": "Prowadzący toyotę kierowca dziwnie się zachowywał podczas kontroli. Policjanci odkryli dlaczego. W samochodzie ukrył około 400 gramów narkotyków. Mężczyzna trafił do aresztu."
-    },
-    {
-      "title": "Ten pawilon będzie domem tańca. Otwarcie w czwartek",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-rusza-pawilon-tanca-i-innych-sztuk-performatywnych-st8833958?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 05:57:30 GMT",
-      "description": "Otwarcie Pawilonu Tańca i Innych Sztuk Performatywnych zainauguruje w czwartek spektakl \"My Fierce Ignorant Step\" greckiego choreografa Christosa Papadopoulosa. W programie weekendu otwarcia, który potrwa do 11 stycznia, są także bal karnawałowy i didżej sety.",
-      "originalTitle": "Ten pawilon będzie domem tańca. Otwarcie w czwartek",
-      "originalDescription": "Otwarcie Pawilonu Tańca i Innych Sztuk Performatywnych zainauguruje w czwartek spektakl \"My Fierce Ignorant Step\" greckiego choreografa Christosa Papadopoulosa. W programie weekendu otwarcia, który potrwa do 11 stycznia, są także bal karnawałowy i didżej sety."
-    },
-    {
-      "title": "Turcja chce iść w ślady Australii i zakazać platform społecznościowych dla dzieci poniżej 15 lat",
-      "link": "https://tvn24.pl/swiat/platformy-i-media-spolecznosciowe-zakaz-dla-dzieci-turcja-chce-isc-w-slady-australii-st8833937?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 05:43:58 GMT",
-      "description": "Turecka minister rodziny i usług społecznych Mahinur Ozdemir Goktas ogłosiła, że jej kraj wprowadzi zakaz korzystania z platform społecznościowych dla dzieci poniżej 15. roku życia. W zeszłym miesiącu Australia stała się pierwszym krajem, który wprowadził ogólnokrajowy zakaz korzystania z portali społecznościowych dla nieletnich.",
-      "originalTitle": "Turcja chce iść w ślady Australii i zakazać platform społecznościowych dla dzieci poniżej 15 lat",
-      "originalDescription": "Turecka minister rodziny i usług społecznych Mahinur Ozdemir Goktas ogłosiła, że jej kraj wprowadzi zakaz korzystania z platform społecznościowych dla dzieci poniżej 15. roku życia. W zeszłym miesiącu Australia stała się pierwszym krajem, który wprowadził ogólnokrajowy zakaz korzystania z portali społecznościowych dla nieletnich."
     }
   ]
 }
