@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-07T12:10:18.774Z",
+  "lastUpdate": "2026-01-07T12:47:01.904Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Mózg na wypasie &#8211; pierwsze terapeutyczne stado owiec",
+      "link": "https://dzienniknaukowy.pl/mozg-na-wypasie-pierwsze-terapeutyczne-stado-owiec",
+      "pubDate": "Wed, 07 Jan 2026 12:33:50 +0000",
+      "description": "W dobie rosnącego zainteresowania wpływem natury na zdrowie psychiczne człowieka, naukowcy z Uniwersytetu Przyrodniczego w Poznaniu we współpracy z OneHealth Polska uruchomili pionierski projekt. Pierwsze w Polsce, a najprawdopodobniej i na świecie, stado owiec o charakterze wyłącznie terapeutycznym"
+    },
     {
       "title": "Polska firma z umową z ESA na realizację fazy A misji Twardowski",
       "link": "https://dzienniknaukowy.pl/polska-firma-z-umowa-z-esa-na-realizacje-fazy-a-misji-twardowski",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/czy-komputery-kwantowe-rzeczywiscie-maja-wieksza-wydajnosc-niz-klasyczne",
       "pubDate": "Fri, 19 Dec 2025 11:01:27 +0000",
       "description": "Klasyczne komputery probabilistyczne potrafią rozwiązywać wyjątkowo trudne zadania optymalizacyjne tak dobrze jak duży komputer kwantowy. A przy tym działają w temperaturze pokojowej i można je zbudować z klasycznych podzespołów"
-    },
-    {
-      "title": "Helicid Rapid – jak działa?",
-      "link": "https://dzienniknaukowy.pl/helicid-rapid-jak-dziala",
-      "pubDate": "Fri, 19 Dec 2025 08:20:00 +0000",
-      "description": "Choć zgaga bywa postrzegana jako błahy objaw, w rzeczywistości stanowi jeden z najczęstszych sygnałów przewlekłego refluksu żołądkowo-przełykowego. W odpowiedzi na rosnące zapotrzebowanie na skuteczne i łatwo dostępne terapie doraźne, na rynku pojawił się Helicid Rapid – inhibitor pompy protonowej dostępny bez recepty. Jak działa ten lek na zgagę?"
     }
   ]
 }
