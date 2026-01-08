@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-08T12:10:27.883Z",
+  "lastUpdate": "2026-01-08T12:47:05.882Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Sztuczna inteligencja przewidzi ludzkie zachowania",
+      "link": "https://dzienniknaukowy.pl/sztuczna-inteligencja-przewidzi-ludzkie-zachowania",
+      "pubDate": "Thu, 08 Jan 2026 12:28:13 +0000",
+      "description": "Wyobraźmy sobie emocjonujący mecz o wysoką stawkę pomiędzy rywalizującymi drużynami. Pomyślmy o starszej osobie, która potrzebuje całodobowej opieki, albo o zmęczonym kierowcy wracającym nocą do domu. Co łączy te sytuacje? Sztuczna inteligencja, która dzięki analizie filmów i rozpoznawaniu ludzkich zachowań, może zapewnić wszystkim komfort i bezpieczeństwo. To właśnie ten obszar jest tematem badawczym w IX konkursie INFOSTRATEG, realizowanym przez Narodowe Centrum Badań i Rozwoju."
+    },
     {
       "title": "Mózg na wypasie &#8211; pierwsze terapeutyczne stado owiec",
       "link": "https://dzienniknaukowy.pl/mozg-na-wypasie-pierwsze-terapeutyczne-stado-owiec",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/inteligentna-wentylacja-w-szkolach-jak-teachair-poprawia-jakosc-powietrza-w-klasach",
       "pubDate": "Mon, 29 Dec 2025 08:57:00 +0000",
       "description": "W wielu polskich szkołach jakość powietrza pogarsza się już po kilku minutach lekcji, a poziom CO₂ osiąga wartości utrudniające koncentrację. Otwieranie okien zimą powoduje wychłodzenie sal i duże straty energii, latem – napływ smogu i hałasu z zewnątrz. Coraz więcej placówek szuka więc sposobu, który pozwoli jednocześnie dbać o zdrowie uczniów i optymalizować koszty eksploatacji budynku."
-    },
-    {
-      "title": "Polscy fizycy budują superczułe radio na atomach",
-      "link": "https://dzienniknaukowy.pl/polscy-fizycy-buduja-superczule-radio-na-atomach",
-      "pubDate": "Fri, 19 Dec 2025 11:18:54 +0000",
-      "description": "Tam, gdzie zwykłe anteny zaczynają przeszkadzać, do gry wchodzi radio na atomach. Mikrofale delikatnie zmieniają stan atomów rubidu, a lasery zamieniają te zmiany w czytelny sygnał. Taki odbiornik jest superczuły i wyjątkowo cichy dla otoczenia. Powstał właśnie w laboratoriach Wydziału Fizyki Uniwersytetu Warszawskiego"
     }
   ]
 }
