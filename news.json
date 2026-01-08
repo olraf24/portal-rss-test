@@ -1,29 +1,53 @@
 {
-  "lastUpdate": "2026-01-08T09:41:40.621Z",
+  "lastUpdate": "2026-01-08T10:07:46.603Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Sojusz z Chinami a bezpieczeństwo Polski",
+      "title": "Niewybuch na lotnisku, ewakuacja",
+      "link": "https://tvn24.pl/najnowsze/wroclaw-niewybuch-na-lotnisku-kilkunastu-pracownikow-opuscilo-obszar-st8836002?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 10:01:47 GMT",
+      "description": "• W czwartek rano podczas prac ziemnych na terenie starego lotniska przy ul. Skarżyńskiego odkryto niewybuch.\n• Policja zabezpieczyła teren w strefie cargo.\n• Policja czeka na przyjazd saperów.\n• Kilkunastu pracowników opuściło obszar.",
+      "originalTitle": "Niewybuch na lotnisku. Kilkunastu pracowników opuściło obszar",
+      "originalDescription": "W czwartek rano, podczas prac ziemnych na terenie starego lotniska przy ul. Skarżyńskiego, odkryto niewybuch. Policja zabezpieczyła teren w strefie cargo i czeka na przyjazd saperów. Kilkunastu pracowników opuściło obszar."
+    },
+    {
+      "title": "Awaria rury ciepłowniczej",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/awaria-cieplownicza-w-warszawie-poparzona-kobieta-st8833979?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 06:19:11 GMT",
+      "description": "• W nocy z wtorku na środę doszło do awarii ciepłowniczej.\n• Awaria miała miejsce na ulicy Grzybowskiej w Warszawie.\n• Gorąca woda poparzyła kobietę.\n• Kobieta, która została poparzona, trafiła do szpitala.\n• Ogrzewania było pozbawionych 15 budynków.\n• Wśród budynków pozbawionych ogrzewania znajdował się żłobek.",
+      "originalTitle": "Uszkodzona rura ciepłownicza, kobieta poparzona wrzątkiem. Naprawili awarię",
+      "originalDescription": "W nocy z wtorku na środę na ulicy Grzybowskiej w Warszawie doszło do awarii ciepłowniczej. Gorąca woda poparzyła kobietę, która trafiła do szpitala. Ogrzewania było pozbawionych 15 budynków, w tym żłobek."
+    },
+    {
+      "title": "Wzrost zainteresowania kredytami mieszkaniowymi",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/bik-popyt-na-kredyty-mieszkaniowe-wartosc-zapytan-wzrosla-o-41-proc-pod-koniec-2025-r-st8835918?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 09:47:10 GMT",
+      "description": "Wartość zapytań o kredyty mieszkaniowe wzrosła o ponad 41 procent w ostatnim miesiącu 2025 roku. Średnia wartość wnioskowanej tego typu pożyczki była większa o blisko 10 procent w porównaniu sprzed rokiem i wyniosło blisko 490 tys. zł - podało Biuro Informacji Kredytowej.",
+      "originalTitle": "Zainteresowanie kredytami mieszkaniowymi wystrzeliło. Pomogło kilka czynników",
+      "originalDescription": "Wartość zapytań o kredyty mieszkaniowe wzrosła o ponad 41 procent w ostatnim miesiącu 2025 roku. Średnia wartość wnioskowanej tego typu pożyczki była większa o blisko 10 procent w porównaniu sprzed rokiem i wyniosło blisko 490 tys. zł - podało Biuro Informacji Kredytowej."
+    },
+    {
+      "title": "Sojusz z Chinami, który miałby chronić Polskę. Ostrzeżenie przed propagandą w sieci",
       "link": "https://tvn24.pl/polska/sojusz-z-chinami-zamiast-unii-i-nato-chinska-propaganda-moze-dotrzec-do-polski-ekspertka-nask-st8835783?source=rss",
       "pubDate": "Thu, 08 Jan 2026 09:29:10 GMT",
-      "description": "• Do Polski może docierać propaganda o możliwym sojuszu z Chinami.\n• Rzekomy sojusz z Chinami miałby zapewniać nam bezpieczeństwo przed Rosją.\n• Ostrzeżenie o możliwej propagandzie chińskiej wygłosiła Patrycja Krzyśpiak z NASK.\n• Patrycja Krzyśpiak jest ekspertką.\n• Ekspertka uważa, że chińska propaganda może nasilić się zwłaszcza po ataku USA w Wenezueli.\n• Atak, o którym mowa, miał miejsce w Wenezueli.\n• Atak w Wenezueli został przeprowadzony przez Stany Zjednoczone.",
+      "description": "Do Polski może docierać propaganda o możliwym sojuszu z Chinami, który rzekomo zapewniałby nam bezpieczeństwo przed Rosją - ostrzega Patrycja Krzyśpiak z NASK. Według ekspertki, chińska propaganda może nasilić się zwłaszcza po ataku USA w Wenezueli.",
       "originalTitle": "Sojusz z Chinami, który miałby chronić Polskę. Ostrzeżenie przed propagandą w sieci",
       "originalDescription": "Do Polski może docierać propaganda o możliwym sojuszu z Chinami, który rzekomo zapewniałby nam bezpieczeństwo przed Rosją - ostrzega Patrycja Krzyśpiak z NASK. Według ekspertki, chińska propaganda może nasilić się zwłaszcza po ataku USA w Wenezueli."
     },
     {
-      "title": "Pożar w bloku, ewakuacja i nagranie policyjne",
+      "title": "Pożar w bloku i ewakuacja. Policja pokazuje nagranie",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-pozar-bloku-ewakuacja-mieszkancow-i-akcja-ratunkowa-nagranie-st8835890?source=rss",
       "pubDate": "Thu, 08 Jan 2026 09:27:05 GMT",
-      "description": "• W Płocku (Mazowieckie) wybuchł pożar w jednym z bloków przy ulicy 3 Maja.\n• W pożarze poszkodowanych zostało pięć osób.\n• Służby ewakuowały ponad 20 mieszkańców.\n• Policja opublikowała nagranie z akcji ratunkowej.",
+      "description": "W Płocku (Mazowieckie) w jednym z bloków przy ulicy 3 Maja wybuchł pożar, w którym poszkodowanych zostało pięć osób. Służby ewakuowały ponad 20 mieszkańców. Teraz policja opublikowała nagranie z akcji ratunkowej.",
       "originalTitle": "Pożar w bloku i ewakuacja. Policja pokazuje nagranie",
       "originalDescription": "W Płocku (Mazowieckie) w jednym z bloków przy ulicy 3 Maja wybuchł pożar, w którym poszkodowanych zostało pięć osób. Służby ewakuowały ponad 20 mieszkańców. Teraz policja opublikowała nagranie z akcji ratunkowej."
     },
     {
-      "title": "Prognoza opadów śniegu",
+      "title": "Radar opadów śniegu. Gdzie go dosypie",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/opady-sniegu-w-czwartek-08-01-w-tych-regionach-dosypie-najwiecej-sniegu-radar-opadow-st8835813?source=rss",
       "pubDate": "Thu, 08 Jan 2026 09:23:36 GMT",
-      "description": "• Na południowym wschodzie Polski obowiązują żółte alarmy Instytutu Meteorologii i Gospodarki Wodnej.\n• Alarmy te dotyczą opadów śniegu.\n• Opady śniegu nie będą występować tylko na południowym wschodzie Polski.\n�� Fala opadów śniegu będzie szła przez Polskę.",
+      "description": "Na południowym wschodzie Polski obowiązują żółte alarmy Instytutu Meteorologii i Gospodarki Wodnej przed opadami śniegu. Nie tylko tam go jednak dosypie. Sprawdź, jak fala opadów śniegu będzie szła przez Polskę.",
       "originalTitle": "Radar opadów śniegu. Gdzie go dosypie",
       "originalDescription": "Na południowym wschodzie Polski obowiązują żółte alarmy Instytutu Meteorologii i Gospodarki Wodnej przed opadami śniegu. Nie tylko tam go jednak dosypie. Sprawdź, jak fala opadów śniegu będzie szła przez Polskę."
     },
@@ -52,36 +76,12 @@
       "originalDescription": "Rozmawiałam z pomorskim kuratorem oświaty. Wobec nauczycielki Szkoły Podstawowej w Kielnie zostało wszczęte postępowanie dyscyplinarne - powiedziała w \"Rozmowie Piaseckiego\" ministra edukacji Barbara Nowacka. Kobieta miała w czasie lekcji wyrzucić krzyż do kosza na śmieci."
     },
     {
-      "title": "Tramwaje jeżdżą objazdami z powodu oblodzenia torowiska",
+      "title": "\"Zmagamy się z oblodzeniem torowiska\". Tramwaje na objazdach",
       "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-snieg-i-lod-na-torach-w-alei-zielenieckiej-utrudnienia-st8835726?source=rss",
       "pubDate": "Thu, 08 Jan 2026 06:40:46 GMT",
       "description": "Tramwajarze od rana borykają się z zamarzniętym torowiskiem w alei Zielenieckiej. W ruch poszły łopaty i sól. Z tego powodu trzy linie: 7, 22 i 25 kierowane są na objazdy. - Zmagamy się z oblodzeniem torowiska i w konsekwencji podniesieniem ziemnej zabudowy toru - przyznają Tramwaje Warszawskie.",
       "originalTitle": "\"Zmagamy się z oblodzeniem torowiska\". Tramwaje na objazdach",
       "originalDescription": "Tramwajarze od rana borykają się z zamarzniętym torowiskiem w alei Zielenieckiej. W ruch poszły łopaty i sól. Z tego powodu trzy linie: 7, 22 i 25 kierowane są na objazdy. - Zmagamy się z oblodzeniem torowiska i w konsekwencji podniesieniem ziemnej zabudowy toru - przyznają Tramwaje Warszawskie."
-    },
-    {
-      "title": "Uszkodzona rura ciepłownicza. Kobieta poparzona wrzątkiem. Naprawa się wydłuża",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/awaria-cieplownicza-w-warszawie-poparzona-kobieta-st8833979?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 06:19:11 GMT",
-      "description": "W nocy z wtorku na środę na ulicy Grzybowskiej w Warszawie doszło do awarii ciepłowniczej. Gorąca woda poparzyła kobietę, która trafiła do szpitala. Ogrzewania było pozbawionych 15 budynków, w tym żłobek. Jeszcze w czwartek rano do części obiektów ciepło nie wróciło. Bez ogrzewania nadal pozostają cztery budynki.",
-      "originalTitle": "Uszkodzona rura ciepłownicza. Kobieta poparzona wrzątkiem. Naprawa się wydłuża",
-      "originalDescription": "W nocy z wtorku na środę na ulicy Grzybowskiej w Warszawie doszło do awarii ciepłowniczej. Gorąca woda poparzyła kobietę, która trafiła do szpitala. Ogrzewania było pozbawionych 15 budynków, w tym żłobek. Jeszcze w czwartek rano do części obiektów ciepło nie wróciło. Bez ogrzewania nadal pozostają cztery budynki."
-    },
-    {
-      "title": "Ukradli figurkę Jezusa z szopki bożonarodzeniowej. Policja publikuje wizerunki sprawców",
-      "link": "https://tvn24.pl/trojmiasto/sopot-ukradli-figurke-jezusa-z-szopki-bozonarodzeniowej-policja-publikuje-wizerunki-sprawcow-st8835828?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 08:15:23 GMT",
-      "description": "Policjanci z Sopotu poszukują osób, które ukradły figurkę Jezusa z szopki bożonarodzeniowej znajdującej się przed jednym z kościołów. Mundurowi opublikowali wizerunki mogących mieć związek z kradzieżą.",
-      "originalTitle": "Ukradli figurkę Jezusa z szopki bożonarodzeniowej. Policja publikuje wizerunki sprawców",
-      "originalDescription": "Policjanci z Sopotu poszukują osób, które ukradły figurkę Jezusa z szopki bożonarodzeniowej znajdującej się przed jednym z kościołów. Mundurowi opublikowali wizerunki mogących mieć związek z kradzieżą."
-    },
-    {
-      "title": "Kolejny dzień fatalnego powietrza w Warszawie",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/smog-w-warszawie-jakosc-powietrza-w-czwartek-st8835776?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 07:54:01 GMT",
-      "description": "Zdecydowana większość stacji pomiarów jakości powietrza pokazuje, że jest ono dziś w stolicy bardzo złe. Najgorzej sytuacja wygląda w szerokim pasie ciągnącym się z zachodu na wschód przez centrum miasta, mniej więcej w osi Alei Jerozolimskich. Ale w pozostałych miejscach jest tylko nieznacznie lepiej.",
-      "originalTitle": "Kolejny dzień fatalnego powietrza w Warszawie",
-      "originalDescription": "Zdecydowana większość stacji pomiarów jakości powietrza pokazuje, że jest ono dziś w stolicy bardzo złe. Najgorzej sytuacja wygląda w szerokim pasie ciągnącym się z zachodu na wschód przez centrum miasta, mniej więcej w osi Alei Jerozolimskich. Ale w pozostałych miejscach jest tylko nieznacznie lepiej."
     }
   ]
 }
