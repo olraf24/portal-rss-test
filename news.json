@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-08T17:42:00.909Z",
+  "lastUpdate": "2026-01-08T18:08:19.120Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zdarzenia i korek na A4",
+      "title": "Wypadek na A1, trzy ofiary, sprawca kwestionuje dowody",
+      "link": "https://tvn24.pl/lodz/tragedia-na-a1-proces-sebastiana-m-oskarzony-przedstawia-alternatywna-wersje-zdarzen-st8837232?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 17:57:01 GMT",
+      "description": "• Sebastian M. jest oskarżony o spowodowanie wypadku.\n• Wypadek miał miejsce w 2023 roku.\n• Wypadek nastąpił na autostradzie A1.\n• Sebastian M. podważa dowody oskarżenia.\n• Sebastian M. domaga się dopuszczenia przez sąd prywatnej ekspertyzy.\n• Prywatna ekspertyza wskazuje, że wypadek mógł być spowodowany przez rozerwanie opony.\n• Rozerwanie opony mogło nastąpić w kole dojazdowym Kii.",
+      "originalTitle": "Trzyosobowa rodzina spłonęła na A1. Sebastian M. podważa dowody oskarżenia, chce nowej ekspertyzy",
+      "originalDescription": "Sebastian M., oskarżony o spowodowanie w 2023 roku tragicznego wypadku na autostradzie A1, podważa dowody oskarżenia. Domaga się dopuszczenia przez sąd prywatnej ekspertyzy, z której wynika, że do wypadku mogło dojść przez rozerwanie opony w kole dojazdowym Kii."
+    },
+    {
+      "title": "Ostrzeżenie RCB dotyczące gór",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-wysokie-zagrozenie-lawinowe-nie-wychodz-w-gory-st8837224?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 17:45:58 GMT",
+      "description": "• Eksperci z Rządowego Centrum Bezpieczeństwa ostrzegają przed wysokim zagrożeniem lawinowym.\n• Apelują, aby nie wychodzić w góry bez doświadczenia i sprzętu.",
+      "originalTitle": "Alert RCB. \"Nie wychodź w góry\"",
+      "originalDescription": "Alert RCB. Eksperci z Rządowego Centrum Bezpieczeństwa ostrzegają przed wysokim zagrożeniem lawinowym. \"Nie wychodź w góry bez doświadczenia i sprzętu\" - apelują."
+    },
+    {
+      "title": "Liczba ofert pracy wzrosła",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/rok-2025-byl-raczej-czasem-stabilizacji-i-selekcji-dla-branzy-it-w-polsce-st8836998?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 17:45:45 GMT",
+      "description": "W 2025 roku, po raz pierwszy od dwóch lat, polski rynek IT zanotował wyraźne odbicie, a liczba ofert pracy zwiększyła się o 8,42 procent rok do roku, osiągając 110 996 ogłoszeń. W ubiegłym roku ponad 62 procent specjalistów odnotowało wzrost wynagrodzenia.",
+      "originalTitle": "W tej branży wzrosła liczba ofert pracy. Po raz pierwszy od dwóch lat",
+      "originalDescription": "W 2025 roku, po raz pierwszy od dwóch lat, polski rynek IT zanotował wyraźne odbicie, a liczba ofert pracy zwiększyła się o 8,42 procent rok do roku, osiągając 110 996 ogłoszeń. W ubiegłym roku ponad 62 procent specjalistów odnotowało wzrost wynagrodzenia."
+    },
+    {
+      "title": "Oskarżona o udział w wyłudzeniach na 498 mln",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/wyludzili-nawet-498-milionow-oskarzona-odgrywala-w-grupie-kluczowa-role-st8837241?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 17:42:13 GMT",
+      "description": "Do warszawskiego sądu trafił akt oskarżenia wobec Nadii D. Miała ona pełnić \"kluczową rolę\" w międzynarodowej grupy przestępczej, która w latach 2011-2019 zajmowała się wyłudzeniami podatku VAT - poinformowała w czwartek Prokuratura Regionalna w Warszawie. Według śledczych może chodzić o 498 milionów złotych.",
+      "originalTitle": "Wyłudzili nawet 498 milionów. Oskarżona \"odgrywała w grupie kluczową rolę\"",
+      "originalDescription": "Do warszawskiego sądu trafił akt oskarżenia wobec Nadii D. Miała ona pełnić \"kluczową rolę\" w międzynarodowej grupy przestępczej, która w latach 2011-2019 zajmowała się wyłudzeniami podatku VAT - poinformowała w czwartek Prokuratura Regionalna w Warszawie. Według śledczych może chodzić o 498 milionów złotych."
+    },
+    {
+      "title": "Śnieg będzie sypał od Zatoki Gdańskiej po Warszawę. \"Powtórzy się efekt jeziora\"",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/snieg-bedzie-sypal-od-zatoki-gdanskiej-po-warszawe-powtorzy-sie-efekt-jeziora-st8837080?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 17:38:51 GMT",
+      "description": "Przed nami bardzo mroźny weekend. Tomasz Wasilewski, prezenter tvnmeteo.pl powiedział w \"Faktach po południu\", że wystąpi też efekt jeziora. Zjawisko to sprawi, że w części kraju mocno sypnie śniegiem.",
+      "originalTitle": "Śnieg będzie sypał od Zatoki Gdańskiej po Warszawę. \"Powtórzy się efekt jeziora\"",
+      "originalDescription": "Przed nami bardzo mroźny weekend. Tomasz Wasilewski, prezenter tvnmeteo.pl powiedział w \"Faktach po południu\", że wystąpi też efekt jeziora. Zjawisko to sprawi, że w części kraju mocno sypnie śniegiem."
+    },
+    {
+      "title": "Dwa zdarzenia obok siebie i korek na A4",
       "link": "https://tvn24.pl/krakow/tarnow-biala-nawierzchnia-dwa-zdarzenia-obok-siebie-i-korek-na-a4-st8837206?source=rss",
       "pubDate": "Thu, 08 Jan 2026 17:26:06 GMT",
-      "description": "• Policja apeluje do kierowców o rozwagę w związku ze śliską nawierzchnią i trudnymi warunkami na drodze.\n• Doszło do dwóch zdarzeń drogowych na A4.\n• Ruch w kierunku Krakowa jest utrudniony.\n• Aspirant Kamil Wójcik jest przedstawicielem policji w Tarnowie.\n• Aspirant Kamil Wójcik udzielił informacji o zdarzeniach drogowych.",
+      "description": "Policja apeluje do kierowców o rozwagę w związku ze śliską nawierzchnią i trudnymi warunkami na drodze. - Jedno po drugim na A4 doszło do dwóch zdarzeń drogowych, ruch w kierunku Krakowa jest utrudniony - mówi aspirant Kamil Wójcik z policji w Tarnowie.",
       "originalTitle": "Dwa zdarzenia obok siebie i korek na A4",
       "originalDescription": "Policja apeluje do kierowców o rozwagę w związku ze śliską nawierzchnią i trudnymi warunkami na drodze. - Jedno po drugim na A4 doszło do dwóch zdarzeń drogowych, ruch w kierunku Krakowa jest utrudniony - mówi aspirant Kamil Wójcik z policji w Tarnowie."
     },
     {
-      "title": "Mężczyzna zatrzymany przy segregacji narkotyków",
+      "title": "Był tak pochłonięty segregacją narkotyków, że nie zauważył policjantów",
       "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-uderzenie-w-narkotykowy-biznes-na-warszawskiej-pradze-zatrzymano-dwie-osoby-st8836880?source=rss",
       "pubDate": "Thu, 08 Jan 2026 17:07:42 GMT",
-      "description": "• Stołeczni policjanci zatrzymali dwóch mężczyzn.\n• Przy zatrzymanych mężczyznach znaleziono znaczne ilości narkotyków.\n• Znalaziono heroinę.\n• Znalaziono kokainę.\n• Znalaziono mefedron.\n• Znalaziono amfetaminę.\n• Znalaziono marihuanę.",
+      "description": "Stołeczni policjanci zatrzymali dwóch mężczyzn, przy których znaleźli znaczne ilości narkotyków. Były to: heroina, kokaina, mefedron, amfetamina oraz marihuana.",
       "originalTitle": "Był tak pochłonięty segregacją narkotyków, że nie zauważył policjantów",
       "originalDescription": "Stołeczni policjanci zatrzymali dwóch mężczyzn, przy których znaleźli znaczne ilości narkotyków. Były to: heroina, kokaina, mefedron, amfetamina oraz marihuana."
     },
     {
-      "title": "Pożar w okolicy Częstochowy",
+      "title": "Duży pożar pod Częstochową. Kilkanaście zastępów straży w akcji",
       "link": "https://tvn24.pl/katowice/duzy-pozar-pod-czestochowa-kilkanascie-zastepow-strazy-w-akcji-plonie-zaklad-produkujacy-kostke-brukowa-st8837153?source=rss",
       "pubDate": "Thu, 08 Jan 2026 16:56:46 GMT",
-      "description": "• W czwartek po południu wybuchł pożar.\n• Pożar dotknął halę o powierzchni około trzech tysięcy metrów kwadratowych.\n• Hala znajduje się w miejscowości Aleksandria.\n• Aleksandria położona jest w powiecie częstochowskim.\n• Nie ma informacji o poszkodowanych.",
+      "description": "W czwartek po południu w płomieniach stanęła hala o powierzchni około trzech tysięcy metrów kwadratowych w miejscowości Aleksandria (powiat częstochowski). Nie ma informacji o poszkodowanych.",
       "originalTitle": "Duży pożar pod Częstochową. Kilkanaście zastępów straży w akcji",
       "originalDescription": "W czwartek po południu w płomieniach stanęła hala o powierzchni około trzech tysięcy metrów kwadratowych w miejscowości Aleksandria (powiat częstochowski). Nie ma informacji o poszkodowanych."
     },
     {
-      "title": "Masy powietrza z Arktyki",
+      "title": "Idą \"noce na trzy psy\". Masy powietrza znad rosyjskiej Arktyki mają ogromny potencjał",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-polska-niczym-rosyjska-arktyka-i-noce-na-trzy-psy-jak-dlugo-utrzyma-sie-mroz-st8836770?source=rss",
       "pubDate": "Thu, 08 Jan 2026 16:53:44 GMT",
       "description": "Historia ludzkości dowodzi, że jednym z najbardziej oddanych człowiekowi towarzyszy w czasie siarczystego mrozu był pies. Setki lat temu, kiedy noce były tak mroźne, że aby nie zamarznąć podczas snu, człowiek wtulał się w psy, ukuto termin \"noc na trzy psy\".",
@@ -42,46 +82,6 @@
       "description": "Na ulicy w Minneapolis, gdzie w środę agent ICE śmiertelnie postrzelił kobietę, mieszkańcy i przyjezdni składają kwiaty i znicze. Zostały także wzniesione barykady. Tak to wygląda w relacji korespondenta \"Faktów\" TVN w USA Marcina Wrony.",
       "originalTitle": "\"Jest krzyż, są plakaty, mnóstwo kwiatów\". Korespondent \"Faktów\" TVN w miejscu tragedii w Minneapolis",
       "originalDescription": "Na ulicy w Minneapolis, gdzie w środę agent ICE śmiertelnie postrzelił kobietę, mieszkańcy i przyjezdni składają kwiaty i znicze. Zostały także wzniesione barykady. Tak to wygląda w relacji korespondenta \"Faktów\" TVN w USA Marcina Wrony."
-    },
-    {
-      "title": "Nie żyje były poseł i samorządowiec",
-      "link": "https://tvn24.pl/bialystok/lomza-nie-zyje-byly-posel-i-samorzadowiec-st8837121?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:36:21 GMT",
-      "description": "W czwartek w wieku 76 lat zmarł Mieczysław Czerniawski - były prezydent Łomży i parlamentarzysta kilku kadencji i samorządowiec - poinformował Urząd Miejski w Łomży.",
-      "originalTitle": "Nie żyje były poseł i samorządowiec",
-      "originalDescription": "W czwartek w wieku 76 lat zmarł Mieczysław Czerniawski - były prezydent Łomży i parlamentarzysta kilku kadencji i samorządowiec - poinformował Urząd Miejski w Łomży."
-    },
-    {
-      "title": "InPost może zmienić właściciela. Nowe informacje",
-      "link": "https://tvn24.pl/biznes/z-kraju/inpost-moze-zmienic-wlasciciela-nowe-informacje-st8837027?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:31:18 GMT",
-      "description": "Fundusz Advent International negocjuje z założycielem InPostu Rafałem Brzoską i PPF Group potencjalny wykup spółki - informuje Bloomberg. Banki są gotowe udzielić nawet 4,5 miliarda euro finansowania, a InPost potwierdził, że otrzymał wstępną propozycję przejęcia wszystkich akcji.",
-      "originalTitle": "InPost może zmienić właściciela. Nowe informacje",
-      "originalDescription": "Fundusz Advent International negocjuje z założycielem InPostu Rafałem Brzoską i PPF Group potencjalny wykup spółki - informuje Bloomberg. Banki są gotowe udzielić nawet 4,5 miliarda euro finansowania, a InPost potwierdził, że otrzymał wstępną propozycję przejęcia wszystkich akcji."
-    },
-    {
-      "title": "Nie żyje synek znanej pisarki. \"Jesteśmy zdruzgotani\"",
-      "link": "https://tvn24.pl/kultura-i-styl/nie-zyje-syn-pisarki-chimamandy-ngozi-adichie-st8837001?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:22:20 GMT",
-      "description": "Rodzina znanej pisarki i feministki Chimamandy Ngozi Adichie poinformowała o śmierci jednego z jej synów bliźniaków. Nkanu Nnamdi miał 21 miesięcy. \"Jesteśmy zdruzgotani\" - napisano w oświadczeniu.",
-      "originalTitle": "Nie żyje synek znanej pisarki. \"Jesteśmy zdruzgotani\"",
-      "originalDescription": "Rodzina znanej pisarki i feministki Chimamandy Ngozi Adichie poinformowała o śmierci jednego z jej synów bliźniaków. Nkanu Nnamdi miał 21 miesięcy. \"Jesteśmy zdruzgotani\" - napisano w oświadczeniu."
-    },
-    {
-      "title": "Ogień wydostawał się z okien, strażacy ewakuowali kobietę",
-      "link": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-pozar-mieszkania-przy-ulicy-bohaterow-warszawy-doszczetnie-splonelo-strazacy-ewakuowali-z-jego-wnetrza-kobiete-st8837059?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:18:10 GMT",
-      "description": "W jednym z bloków przy ulicy Bohaterów Warszawy wybuchł pożar. Doszczętnie spłonął jeden lokal, z którego strażacy ewakuowali kobietę. Na szczęście ogień nie rozprzestrzenił się na inne mieszkania.",
-      "originalTitle": "Ogień wydostawał się z okien, strażacy ewakuowali kobietę",
-      "originalDescription": "W jednym z bloków przy ulicy Bohaterów Warszawy wybuchł pożar. Doszczętnie spłonął jeden lokal, z którego strażacy ewakuowali kobietę. Na szczęście ogień nie rozprzestrzenił się na inne mieszkania."
-    },
-    {
-      "title": "Matka trafiła do aresztu, dzieci do ośrodka Jugendamtu. Jest decyzja niemieckiego sądu",
-      "link": "https://tvn24.pl/szczecin/matka-trafila-do-aresztu-dzieci-do-osrodka-jugendamtu-jest-decyzja-niemieckiego-sadu-st8836150?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:13:22 GMT",
-      "description": "Sąd rodzinny w niemieckim Rostocku zadecydował w czwartek, że ostateczną decyzję o losie polskich dzieci, które po zatrzymaniu ich matki trafiły do ośrodka Jugendamt powinien podjąć polski sąd. Na razie jednak dzieci nie mogą jeszcze wrócić do Szczecina, gdzie mieszkały przez ostatnie lata i gdzie mogłyby być pod opieką babci.",
-      "originalTitle": "Matka trafiła do aresztu, dzieci do ośrodka Jugendamtu. Jest decyzja niemieckiego sądu",
-      "originalDescription": "Sąd rodzinny w niemieckim Rostocku zadecydował w czwartek, że ostateczną decyzję o losie polskich dzieci, które po zatrzymaniu ich matki trafiły do ośrodka Jugendamt powinien podjąć polski sąd. Na razie jednak dzieci nie mogą jeszcze wrócić do Szczecina, gdzie mieszkały przez ostatnie lata i gdzie mogłyby być pod opieką babci."
     }
   ]
 }
