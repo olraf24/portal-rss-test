@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2026-01-08T06:09:42.244Z",
+  "lastUpdate": "2026-01-08T06:46:15.471Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Firma Google zawarła ugodę ws sprawy chatbota",
+      "title": "Warunki atmosferyczne wpływają na kursowanie tramwajów",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-snieg-i-lod-na-torach-w-alei-zielenieckiej-utrudnienia-st8835726?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:40:46 GMT",
+      "description": "• Tramwajarze od rana borykają się z zamarzniętym torowiskiem w alei Zielenieckiej.\n• W ruch poszły łopaty i sól.\n• Z tego powodu trzy linie są kierowane na objazdy.\n• Numerami tych linii są: 7, 22 i 25.",
+      "originalTitle": "Śnieg i lód na torach. Utrudnienia w ruchu tramwajów",
+      "originalDescription": "Tramwajarze od rana borykają się z zamarzniętym torowiskiem w alei Zielenieckiej. W ruch poszły łopaty i sól. Z tego powodu trzy linie: 7, 22 i 25 kierowane są na objazdy."
+    },
+    {
+      "title": "Rozmowy o Grenlandii w przyszłym tygodniu",
+      "link": "https://tvn24.pl/swiat/usa-chca-grenlandie-marco-rubio-zapowiedzial-spotkanie-z-przedstawicielami-danii-st8835658?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:36:25 GMT",
+      "description": "• W przyszłym tygodniu odbędą się rozmowy na temat Grenlandii.\n• Rozmowy będą prowadzone z przedstawicielami Danii.\n• Sekretarz stanu USA Marco Rubio przekazał informację o planowanych rozmowach.\n• Donald Trump miał zamiar pozyskania Grenlandii w drodze zakupu.\n• Marco Rubio został pytany o ewentualne dążenie do przejęcia Grenlandii siłą.\n• Pytanie dotyczyło możliwego naruszenia relacji z NATO w przypadku użycia siły.\n• Marco Rubio powiedział, że każdy prezydent zachowuje opcję użycia siły w przypadku zagrożenia dla bezpieczeństwa narodowego.",
+      "originalTitle": "Chcą rozmawiać o Grenlandii. \"Spotkamy się w przyszłym tygodniu\"",
+      "originalDescription": "W przyszłym tygodniu spotkam się z przedstawicielami Danii na rozmowy na temat Grenlandii - przekazał sekretarz stanu USA Marco Rubio. Przyznał, że Donald Trump zawsze miał zamiar pozyskania tej wyspy w drodze zakupu. Pytany, czy Waszyngton jest skłonny narazić NATO na rozpad przez ewentualne dążenie do przejęcia wyspy siłą, powiedział, że \"każdy prezydent zawsze zachowuje opcję\" użycia siły w przypadku zagrożenia dla bezpieczeństwa narodowego."
+    },
+    {
+      "title": "Temperatura wyniosła -20,5 st. C",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-w-tym-miejscu-termometry-pokazaly-20-5-st-c-st8835685?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:18:46 GMT",
+      "description": "Mroźna aura nie opuszcza Polski. W czwartek rano termometry w części kraju pokazały nawet kilkadziesiąt stopni na minusie. Najzimniej było w województwie dolnośląskim.",
+      "originalTitle": "W tym miejscu termometry pokazały -20,5 st. C",
+      "originalDescription": "Mroźna aura nie opuszcza Polski. W czwartek rano termometry w części kraju pokazały nawet kilkadziesiąt stopni na minusie. Najzimniej było w województwie dolnośląskim."
+    },
+    {
+      "title": "Renowacja gołębnika zakończona",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-zakonczyl-sie-remont-zabytkowego-golebnika-przy-pulawskiej-st8835559?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:18:39 GMT",
+      "description": "Powstał kod koniec XVIII wieku. Było w nim mieszkanie dla Szwajcara, który nadzorował oborę i produkcję mleka. Górę przeznaczono na miejsce dla gołębi. Od nich też wziął swoją nazwę. Zabytkowy Gołębnik przy Puławskiej (zwany też Domkiem Gotyckim) przeszedł kompleksowy remont.",
+      "originalTitle": "Gołębnik jak nowy. Zegarmistrz wróci do wyjątkowej wieży",
+      "originalDescription": "Powstał kod koniec XVIII wieku. Było w nim mieszkanie dla Szwajcara, który nadzorował oborę i produkcję mleka. Górę przeznaczono na miejsce dla gołębi. Od nich też wziął swoją nazwę. Zabytkowy Gołębnik przy Puławskiej (zwany też Domkiem Gotyckim) przeszedł kompleksowy remont."
+    },
+    {
+      "title": "Trump przedstawia plan budżetu zbrojeniowego",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ambitny-budzet-zbrojeniowy-trumpa-plan-zwiekszenia-o-ponad-50-proc-do-1-5-bln-dolarow-st8835679?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:15:49 GMT",
+      "description": "Prezydent USA Donald Trump zaproponował w środę zwiększenie przyszłorocznego budżetu obronnego do 1,5 bilionów dolarów, czyli o 50 proc. wobec bieżącego. Ostrzegł również producenta systemu Patriot.",
+      "originalTitle": "Trump ogłasza ambitny budżet zbrojeniowy. \"Wojsko marzeń\"",
+      "originalDescription": "Prezydent USA Donald Trump zaproponował w środę zwiększenie przyszłorocznego budżetu obronnego do 1,5 bilionów dolarów, czyli o 50 proc. wobec bieżącego. Ostrzegł również producenta systemu Patriot."
+    },
+    {
+      "title": "Nowy odcinkowy pomiar prędkości na wjeździe do Warszawy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/s8-nowy-odcinkowy-pomiar-predkosci-na-wjezdzie-do-warszawy-pomiedzy-wezlami-opacz-a-puchaly-st8835530?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 06:14:07 GMT",
+      "description": "Na wjeździe do Warszawy pojawił się nowy odcinkowy pomiar prędkości. Objął odcinek od Opaczy do Puchał na trasie S8.",
+      "originalTitle": "Nowy odcinkowy pomiar prędkości na wjeździe do Warszawy",
+      "originalDescription": "Na wjeździe do Warszawy pojawił się nowy odcinkowy pomiar prędkości. Objął odcinek od Opaczy do Puchał na trasie S8."
+    },
+    {
+      "title": "Chatbot miał doprowadzić do samobójstwa nastolatka. Właściciel Google'a zawarł ugodę",
       "link": "https://tvn24.pl/biznes/tech/usa-alphabet-zawarl-ugode-w-sprawie-samobojstwa-nastolatka-st8835687?source=rss",
       "pubDate": "Thu, 08 Jan 2026 05:55:44 GMT",
-      "description": "• Alphabet jest właścicielem Google'a.\n• Character.AI to startup zajmujący się sztuczną inteligencją.\n• Alphabet i Character.AI zawarły ugodę w sprawie pozwu.\n• Pozew został złożony przez matkę z Florydy.\n• Matka twierdziła, że ​​chatbot startupu doprowadził do samobójstwa jej syna.\n• Syn matki miał 14 lat.\n• Jest to jedna z pierwszych spraw w USA wymierzonych w firmy zajmujące się sztuczną inteligencją.\n• Sprawa dotyczy możliwych szkodami psychicznymi.",
+      "description": "Alphabet (właściciel Google'a) i startup Character.AI, zajmujący się sztuczną inteligencją, zawarły ugodę w sprawie pozwu złożonego przez matkę z Florydy, która twierdziła, że ​​chatbot startupu doprowadził do samobójstwa jej 14-letniego syna. Jest to jedna z pierwszych spraw w USA wymierzonych w firmy zajmujące się sztuczną inteligencją w związku z możliwymi szkodami psychicznymi.",
       "originalTitle": "Chatbot miał doprowadzić do samobójstwa nastolatka. Właściciel Google'a zawarł ugodę",
       "originalDescription": "Alphabet (właściciel Google'a) i startup Character.AI, zajmujący się sztuczną inteligencją, zawarły ugodę w sprawie pozwu złożonego przez matkę z Florydy, która twierdziła, że ​​chatbot startupu doprowadził do samobójstwa jej 14-letniego syna. Jest to jedna z pierwszych spraw w USA wymierzonych w firmy zajmujące się sztuczną inteligencją w związku z możliwymi szkodami psychicznymi."
     },
     {
-      "title": "USA wycofują się z kilkudziesięciu organizacji",
+      "title": "\"Są zbyteczne, źle zarządzane, marnotrawne\". Trump wycofuje USA z kilkudziesięciu organizacji",
       "link": "https://tvn24.pl/swiat/usa-donald-trump-podpisal-memorandum-o-wycofaniu-kraju-z-66-organizacji-miedzynarodowych-st8835665?source=rss",
       "pubDate": "Thu, 08 Jan 2026 05:42:37 GMT",
-      "description": "• Biały Dom poinformował o podpisaniu przez prezydenta USA Donalda Trumpa memorandum.\n• Memorandum dotyczy wycofania Stanów Zjednoczonych z 66 organizacji, agencji i komisji międzynarodowych.\n• Organizacje, agencje i komisje, z których Stany Zjednoczone się wycofują, należą głównie do systemu Narodów Zjednoczonych.\n• Wśród organizacji, agencji i komisji, z których Stany Zjednoczone się wycofują, znajdują się także te zajmujące się zwalczaniem zagrożeń hybrydowych.\n• Inne organizacje, agencje i komisje, z których Stany Zjednoczone się wycofują, zajmują się nierozprzestrzenianiem broni masowego rażenia.\n• Prezydentem USA, który podpisał memorandum, jest Donald Trump.",
+      "description": "Biały Dom poinformował o podpisaniu przez prezydenta USA Donalda Trumpa memorandum o wycofaniu Stanów Zjednoczonych z 66 organizacji, agencji i komisji międzynarodowych. Są to głównie ciała należące do systemu Narodów Zjednoczonych, ale też między innymi zajmujące się zwalczaniem zagrożeń hybrydowych czy nierozprzestrzenianiem broni masowego rażenia.",
       "originalTitle": "\"Są zbyteczne, źle zarządzane, marnotrawne\". Trump wycofuje USA z kilkudziesięciu organizacji",
       "originalDescription": "Biały Dom poinformował o podpisaniu przez prezydenta USA Donalda Trumpa memorandum o wycofaniu Stanów Zjednoczonych z 66 organizacji, agencji i komisji międzynarodowych. Są to głównie ciała należące do systemu Narodów Zjednoczonych, ale też między innymi zajmujące się zwalczaniem zagrożeń hybrydowych czy nierozprzestrzenianiem broni masowego rażenia."
     },
     {
-      "title": "Alarmy IMGW w 8 województwach",
+      "title": "Osiem województw z alarmami IMGW",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-sniezyce-ostrzezenia-imgw-6-9-01-tu-mroz-moze-powodowac-zagrozenie-zdrowia-i-zycia-mapa-st8831653?source=rss",
       "pubDate": "Thu, 08 Jan 2026 05:27:22 GMT",
       "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem oraz intensywnymi opadami śniegu. W części kraju obowiązują żółte alarmy. Sprawdź szczegóły.",
@@ -29,59 +77,11 @@
     },
     {
       "title": "Śmierć w Minneapolis, walka o przywództwo w Polsce 2050, USA przejęły rosyjski tankowiec",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-8-stycznia-najwazniejsze-informacje-st8835667?source=rss",
+      "link": "https://tvn24.pl/swiat/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-8-stycznia-najwazniejsze-informacje-st8835667?source=rss",
       "pubDate": "Thu, 08 Jan 2026 05:16:07 GMT",
       "description": "W Minneapolis funkcjonariusz Urzędu do spraw Imigracji i Egzekwowania Ceł (ICE) śmiertelnie postrzelił kobietę. W strukturach Polski 2050 trwa bardzo ostra walka o przywództwo w partii. Służby USA przejęły rosyjski tankowiec Bella 1/Marinera. Oto pięć rzeczy, które warto wiedzieć w czwartek 8 stycznia.",
       "originalTitle": "Śmierć w Minneapolis, walka o przywództwo w Polsce 2050, USA przejęły rosyjski tankowiec",
       "originalDescription": "W Minneapolis funkcjonariusz Urzędu do spraw Imigracji i Egzekwowania Ceł (ICE) śmiertelnie postrzelił kobietę. W strukturach Polski 2050 trwa bardzo ostra walka o przywództwo w partii. Służby USA przejęły rosyjski tankowiec Bella 1/Marinera. Oto pięć rzeczy, które warto wiedzieć w czwartek 8 stycznia."
-    },
-    {
-      "title": "Burmistrz Minneapolis: Próbują przedstawić to jako działanie w obronie własnej. To bzdura",
-      "link": "https://tvn24.pl/swiat/usa-burmistrz-minneapolis-probuja-przedstawic-to-jako-dzialanie-w-obronie-wlasnej-to-bzdura-st8835664?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 05:06:01 GMT",
-      "description": "Burmistrz Minneapolis Jacob Frey stanowczo odrzucił twierdzenie prezydenta USA Donalda Trumpa, że funkcjonariusz Urzędu do spraw Imigracji i Egzekwowania Ceł (ICE), odpowiedzialny za śmiertelne postrzelenie 37-letniej kobiety, oddał strzał w obronie własnej. Frey uznał, że narracja przyjęta przez administrację Trumpa \"to bzdura\".",
-      "originalTitle": "Burmistrz Minneapolis: Próbują przedstawić to jako działanie w obronie własnej. To bzdura",
-      "originalDescription": "Burmistrz Minneapolis Jacob Frey stanowczo odrzucił twierdzenie prezydenta USA Donalda Trumpa, że funkcjonariusz Urzędu do spraw Imigracji i Egzekwowania Ceł (ICE), odpowiedzialny za śmiertelne postrzelenie 37-letniej kobiety, oddał strzał w obronie własnej. Frey uznał, że narracja przyjęta przez administrację Trumpa \"to bzdura\"."
-    },
-    {
-      "title": "Agent oddał trzy strzały. Nagranie z Minneapolis",
-      "link": "https://tvn24.pl/swiat/usa-agent-ice-oddal-trzy-strzaly-nagranie-z-minneapolis-st8835671?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 04:34:28 GMT",
-      "description": "W Minneapolis w USA agent imigracyjny (ICE) śmiertelnie postrzelił kobietę. Nagranie, na którym zarejestrowano ten moment, pokazały amerykańskie media.",
-      "originalTitle": "Agent oddał trzy strzały. Nagranie z Minneapolis",
-      "originalDescription": "W Minneapolis w USA agent imigracyjny (ICE) śmiertelnie postrzelił kobietę. Nagranie, na którym zarejestrowano ten moment, pokazały amerykańskie media."
-    },
-    {
-      "title": "Pogoda na dziś - czwartek, 8.01. Lodowato w całym kraju, miejscami sypnie śniegiem",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-8-01-lodowato-w-calym-kraju-miejscami-sypnie-sniegiem-st8835630?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 01:00:00 GMT",
-      "description": "Pogoda na dziś. W środę, 8.01, w całym kraju będzie zimno. Warunki biometeorologiczne przeważnie okażą się niekorzystne.",
-      "originalTitle": "Pogoda na dziś - czwartek, 8.01. Lodowato w całym kraju, miejscami sypnie śniegiem",
-      "originalDescription": "Pogoda na dziś. W środę, 8.01, w całym kraju będzie zimno. Warunki biometeorologiczne przeważnie okażą się niekorzystne."
-    },
-    {
-      "title": "Trump: radykalna lewica odpowiedzialna za strzelaninę w Minneapolis",
-      "link": "https://tvn24.pl/swiat/usa-donald-trump-o-strzelaninie-w-minneapolis-to-wina-radykalnej-lewicy-st8835653?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 23:17:51 GMT",
-      "description": "Nie żyje 37-letnia kobieta, która miała zostać postrzelona przez agenta ICE w Minneapolis. Sprawę komentuje prezydent USA Donald Trump, który winą za dramatyczny incydent obarczył \"radykalną lewicę\".",
-      "originalTitle": "Trump: radykalna lewica odpowiedzialna za strzelaninę w Minneapolis",
-      "originalDescription": "Nie żyje 37-letnia kobieta, która miała zostać postrzelona przez agenta ICE w Minneapolis. Sprawę komentuje prezydent USA Donald Trump, który winą za dramatyczny incydent obarczył \"radykalną lewicę\"."
-    },
-    {
-      "title": "Posiedzenie klubu PiS i pytania o podziały. \"Mamy skrzydła i wzniesiemy się\"",
-      "link": "https://tvn24.pl/polska/posiedzenie-klubu-pis-i-pytania-o-podzialy-mamy-skrzydla-i-wzniesiemy-sie-st8835299?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:56:01 GMT",
-      "description": "Zakończyło się wyjazdowe posiedzenie klubu parlamentarnego PiS. Politycy przekonują, że panuje \"jedność\". Wcześniej Jarosław Kaczyński oświadczył, że nie ma mowy \"o rozłamach w partii\".",
-      "originalTitle": "Posiedzenie klubu PiS i pytania o podziały. \"Mamy skrzydła i wzniesiemy się\"",
-      "originalDescription": "Zakończyło się wyjazdowe posiedzenie klubu parlamentarnego PiS. Politycy przekonują, że panuje \"jedność\". Wcześniej Jarosław Kaczyński oświadczył, że nie ma mowy \"o rozłamach w partii\"."
-    },
-    {
-      "title": "37-letnia kobieta zginęła w Minneapolis w czasie akcji deportacyjnej ICE",
-      "link": "https://tvn24.pl/swiat/usa-kobieta-zastrzelona-w-minneapolis-w-czasie-akcji-ice-st8835640?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 21:25:23 GMT",
-      "description": "Funkcjonariusz Urzędu ds. Imigracji i Egzekwowania Ceł (ICE) otworzył ogień do 37-letniej kobiety w czasie operacji deportacyjnej w Minneapolis. Zdarzenie wywołało falę protestów i ostrą krytykę władz miasta.",
-      "originalTitle": "37-letnia kobieta zginęła w Minneapolis w czasie akcji deportacyjnej ICE",
-      "originalDescription": "Funkcjonariusz Urzędu ds. Imigracji i Egzekwowania Ceł (ICE) otworzył ogień do 37-letniej kobiety w czasie operacji deportacyjnej w Minneapolis. Zdarzenie wywołało falę protestów i ostrą krytykę władz miasta."
     }
   ]
 }
