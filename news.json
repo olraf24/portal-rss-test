@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2026-01-09T07:39:28.593Z",
+  "lastUpdate": "2026-01-09T08:08:55.345Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadki drogowe na Mazowszu w 2022 roku",
+      "title": "Noc z temperaturą poniżej zera",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-za-nami-noc-mocno-na-minusie-a-to-dopiero-poczatek-st8837499?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 08:03:08 GMT",
+      "description": "• Za nami mroźna noc\n• Wszystko wskazuje na to, że kolejne noce również pójdą w jej ślady\n• Aura w Polsce jest obecnie dynamiczna\n• Nad Polskę napływają kolejne porcje zimnego, arktycznego powietrza\n• Na horyzoncie widać równie�� powrót śnieżyc\n• Synoptyk tvnmeteo.pl to Arleta Unton-Pyziołek",
+      "originalTitle": "Za nami noc mocno na minusie. A to dopiero początek",
+      "originalDescription": "Za nami mroźna noc, a wszystko wskazuje na to, że kolejne również pójdą w jej ślady. Jak opowiadała synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, aura w Polsce jest obecnie dynamiczna. Nad nasz kraj napływają kolejne porcje zimnego, arktycznego powietrza. Na horyzoncie widać również powrót śnieżyc."
+    },
+    {
+      "title": "Termin wyborów w Wenezueli",
+      "link": "https://tvn24.pl/swiat/wenezuela-kiedy-wybory-trump-zarobimy-duzo-pieniedzy-a-potem-zajmiemy-sie-reszta-st8837541?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 07:56:31 GMT",
+      "description": "• To trochę potrwa.\n• Musimy odbudować kraj.\n• Teraz nie mogliby przeprowadzić wyborów.\n• Donald Trump został pytany, kiedy odbędą się w Wenezueli demokratyczne wybory.\n• W przyszłym tygodniu do USA przybędzie przywódczyni wenezuelskiej opozycji Maria Corina Machado.",
+      "originalTitle": "Kiedy wybory w Wenezueli? \"Zarobimy dużo pieniędzy, a potem zajmiemy się resztą\"",
+      "originalDescription": "To trochę potrwa. Musimy odbudować kraj. Teraz nie mogliby przeprowadzić wyborów - stwierdził Donald Trump pytany, kiedy odbędą się w Wenezueli demokratyczne wybory. Jak dodał, w przyszłym tygodniu do USA przybędzie przywódczyni wenezuelskiej opozycji Maria Corina Machado."
+    },
+    {
+      "title": "Wypadek drogowy, jeden zgon",
+      "link": "https://tvn24.pl/lodz/lodz-wypadek-na-dk71-uderzyl-autem-w-ciezarowke-zmarl-w-karetce-st8837594?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 07:51:43 GMT",
+      "description": "• Wypadek miał miejsce na drodze krajowej numer 71.\n• Wypadek miał miejsce w Łodzi.\n• Doszło do zderzenia ciężarówki z samochodem osobowym.\n• Zginął 45-latek.",
+      "originalTitle": "Uderzył autem w ciężarówkę, zmarł w karetce",
+      "originalDescription": "Wypadek na drodze krajowej numer 71 w Łodzi. Doszło tam do zderzenia ciężarówki z samochodem osobowym. Zginął 45-latek."
+    },
+    {
+      "title": "Rosjanie wystrzelili pocisk Oriesznik. Uderzył \"w pobliżu granic UE i NATO\"",
+      "link": "https://tvn24.pl/swiat/ukraina-andrij-sybiha-o-rosyjskim-ataku-rakietami-typu-oriesznik-w-obwodzie-lwowskim-st8837564?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 07:39:36 GMT",
+      "description": "Rosyjski atak pociskiem Oriesznik na obwód lwowski to poważne zagrożenie dla bezpieczeństwa na kontynencie europejskim - uznał szef ukraińskiej dyplomacji Andrij Sybiha. Jak poinformował, Kijów przekazuje w tej sprawie informacje swoim sojusznikom.",
+      "originalTitle": "Rosjanie wystrzelili pocisk Oriesznik. Uderzył \"w pobliżu granic UE i NATO\"",
+      "originalDescription": "Rosyjski atak pociskiem Oriesznik na obwód lwowski to poważne zagrożenie dla bezpieczeństwa na kontynencie europejskim - uznał szef ukraińskiej dyplomacji Andrij Sybiha. Jak poinformował, Kijów przekazuje w tej sprawie informacje swoim sojusznikom."
+    },
+    {
+      "title": "Rok na drogach Mazowsza. Więcej wypadków, mniej ofiar śmiertelnych",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-podsumowanie-roku-na-drogach-mazowsza-wiecej-pijanych-sprawcow-wypadkow-st8837494?source=rss",
       "pubDate": "Fri, 09 Jan 2026 07:31:18 GMT",
       "description": "W ubiegłym roku wzrosła liczba wypadków na Mazowszu. Mniej było jednak ofiar śmiertelnych, zwłaszcza wśród pieszych. Z policyjnych danych wynika, że wśród sprawców zdarzeń drogowych przybyło pijanych kierowców.",
@@ -12,15 +44,15 @@
       "originalDescription": "W ubiegłym roku wzrosła liczba wypadków na Mazowszu. Mniej było jednak ofiar śmiertelnych, zwłaszcza wśród pieszych. Z policyjnych danych wynika, że wśród sprawców zdarzeń drogowych przybyło pijanych kierowców."
     },
     {
-      "title": "NBP rozważa obniżki stóp",
+      "title": "Członek zarządu NBP: wydaje się, że jest przestrzeń na kolejne obniżki stóp",
       "link": "https://tvn24.pl/biznes/pieniadze/stopy-procentowe-w-polsce-artur-sobon-czlonek-zarzadu-nbp-jest-przestrzen-na-kolejne-obnizki-stop-w-2026-roku-st8837502?source=rss",
       "pubDate": "Fri, 09 Jan 2026 07:18:03 GMT",
-      "description": "• Wydaje się, że jest przestrzeń na kolejne obniżki stóp w roku 2026.\n• Artur Soboń powiedział to w piątek na antenie TVN24.\n• Wypowiedź Artura Sobonia miała miejsce w programie \"Jeden na Jeden\".\n• Artur Soboń jest członkiem zarządu Narodowego Banku Polskiego.\n• Artur Soboń dodał, że \"czasy są niestabilne, więc zapowiedzi cyklu obniżek nie ma\".",
-      "originalTitle": "Członek zarządu NBP: wydaje się, że jest przestrzeń na kolejne obniżki stóp w tym roku",
-      "originalDescription": "- Wydaje się, że jest przestrzeń na kolejne obniżki stóp w roku 2026 - powiedział w piątek na antenie TVN24 w programie \"Jeden na Jeden\" Artur Soboń, członek zarządu Narodowego Banku Polskiego. Dodał jednak, że \"czasy są niestabilne, więc zapowiedzi cyklu obniżek nie ma\"."
+      "description": "- Wydaje się, że jest przestrzeń na kolejne obniżki stóp w roku 2026 - powiedział w piątek na antenie TVN24 w programie \"Jeden na Jeden\" Artur Soboń, członek zarządu Narodowego Banku Polskiego. Dodał jednak, że \"czasy są niestabilne, więc zapowiedzi cyklu obniżek nie ma\". Odniósł się także do niedawnego konfliktu w banku centralnym, który wywołała propozycja zmian w sposobie przyznawania premii i nagród.",
+      "originalTitle": "Członek zarządu NBP: wydaje się, że jest przestrzeń na kolejne obniżki stóp",
+      "originalDescription": "- Wydaje się, że jest przestrzeń na kolejne obniżki stóp w roku 2026 - powiedział w piątek na antenie TVN24 w programie \"Jeden na Jeden\" Artur Soboń, członek zarządu Narodowego Banku Polskiego. Dodał jednak, że \"czasy są niestabilne, więc zapowiedzi cyklu obniżek nie ma\". Odniósł się także do niedawnego konfliktu w banku centralnym, który wywołała propozycja zmian w sposobie przyznawania premii i nagród."
     },
     {
-      "title": "Protesty w Iranie: budynki uszkodzone",
+      "title": "Budynki rządowe i meczety w płomieniach. Niespokojna noc w Iranie",
       "link": "https://tvn24.pl/swiat/protesty-w-iranie-najwieksze-jak-dotad-demonstracje-plonely-rzadowe-budynki-i-meczety-st8837377?source=rss",
       "pubDate": "Thu, 08 Jan 2026 22:00:29 GMT",
       "description": "W nocy z czwartku na piątek w Iranie płonęły budynki rządowe i pojazdy należące do policji. To reakcja na to, że służby po raz kolejny otworzyły ogień do demonstrujących od dwóch tygodni Irańczyków. Od 12 godzin w całym Iranie nie ma internetu.",
@@ -36,12 +68,12 @@
       "originalDescription": "Strażacy od godzin nocnych w czwartek walczą z pożarem marketu spożywczego w Polanowie (województwo zachodniopomorskie). Kilka osób ewakuowało się jeszcze przed przybyciem służb. Nie ma informacji o osobach poszkodowanych."
     },
     {
-      "title": "Protest rolników w centrum Warszawy. Będą zamknięte ulice i objazdy",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/protest-rolnikow-w-centrum-warszawy-beda-zamkniete-ulice-i-objazdy-st8837357?source=rss",
+      "title": "Protest rolników w centrum Warszawy. Będą zamknięte ulice",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/protest-rolnikow-w-centrum-warszawy-beda-zamkniete-ulice-st8837357?source=rss",
       "pubDate": "Fri, 09 Jan 2026 05:12:30 GMT",
-      "description": "W piątek, 9 stycznia w Śródmieściu odbędzie się manifestacja rolników. Przejdą sprzed Pałacu Kultury i Nauki do Sejmu, a później przed Kancelarię Premiera. Policjanci będą zamykali ulice, autobusy i tramwaje pojadą objazdami. Rolnicy będą protestować nie tylko przeciwko umowie z krajami Mercosur, ale również przeciw dotychczasowej polityce rządu \"wobec wsi i rolnictwa\". Zapowiadają, że protest może powstać nawet 10 dni.",
-      "originalTitle": "Protest rolników w centrum Warszawy. Będą zamknięte ulice i objazdy",
-      "originalDescription": "W piątek, 9 stycznia w Śródmieściu odbędzie się manifestacja rolników. Przejdą sprzed Pałacu Kultury i Nauki do Sejmu, a później przed Kancelarię Premiera. Policjanci będą zamykali ulice, autobusy i tramwaje pojadą objazdami. Rolnicy będą protestować nie tylko przeciwko umowie z krajami Mercosur, ale również przeciw dotychczasowej polityce rządu \"wobec wsi i rolnictwa\". Zapowiadają, że protest może powstać nawet 10 dni."
+      "description": "W piątek, 9 stycznia w Śródmieściu odbędzie się manifestacja rolników. Przejdą sprzed Pałacu Kultury i Nauki do Sejmu, a później przed Kancelarię Premiera. Policjanci będą zamykali ulice, autobusy i tramwaje pojadą objazdami. Rolnicy będą protestować nie tylko przeciwko umowie z krajami Mercosur, ale również przeciw dotychczasowej polityce rządu \"wobec wsi i rolnictwa\". Zapowiadają, że protest może potrwać nawet do 10 dni.",
+      "originalTitle": "Protest rolników w centrum Warszawy. Będą zamknięte ulice",
+      "originalDescription": "W piątek, 9 stycznia w Śródmieściu odbędzie się manifestacja rolników. Przejdą sprzed Pałacu Kultury i Nauki do Sejmu, a później przed Kancelarię Premiera. Policjanci będą zamykali ulice, autobusy i tramwaje pojadą objazdami. Rolnicy będą protestować nie tylko przeciwko umowie z krajami Mercosur, ale również przeciw dotychczasowej polityce rządu \"wobec wsi i rolnictwa\". Zapowiadają, że protest może potrwać nawet do 10 dni."
     },
     {
       "title": "Ruch Trumpa \"ostrzeżeniem dla Kanady\". Przed nimi \"prawdziwe wyzwanie\"",
@@ -50,38 +82,6 @@
       "description": "Premier Kanady Mark Carney zapewnił o wsparciu dla Danii wobec słów Donalda Trumpa o przejęciu Grenlandii. Media przypominają, że zapowiedzi prezydenta USA i jego działania wobec Wenezueli powinny być \"ostrzeżeniem\" dla Ottawy. Trump wielokrotnie mówił o Kanadzie jako \"51. stanie USA\".",
       "originalTitle": "Ruch Trumpa \"ostrzeżeniem dla Kanady\". Przed nimi \"prawdziwe wyzwanie\"",
       "originalDescription": "Premier Kanady Mark Carney zapewnił o wsparciu dla Danii wobec słów Donalda Trumpa o przejęciu Grenlandii. Media przypominają, że zapowiedzi prezydenta USA i jego działania wobec Wenezueli powinny być \"ostrzeżeniem\" dla Ottawy. Trump wielokrotnie mówił o Kanadzie jako \"51. stanie USA\"."
-    },
-    {
-      "title": "Mieli zniszczyć magazyn i ukraść żywność. USA wstrzymują wsparcie dla Somalii",
-      "link": "https://tvn24.pl/biznes/ze-swiata/mieli-zniszczyc-magazyn-i-ukrasc-zywnosc-usa-wstrzymuja-wsparcie-dla-somalii-st8837451?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 06:08:00 GMT",
-      "description": "Departament Stanu USA poinformował w serwisie X o wstrzymaniu wszelkiej pomocy dla rządu Somalii. Decyzja ta ma związek z oskarżeniami wobec somalijskich urzędników, którzy – według strony amerykańskiej – zniszczyli magazyn Światowego Programu Żywnościowego ONZ (WFP) oraz przywłaszczyli pomoc żywnościową finansowaną przez darczyńców, przeznaczoną dla najuboższych rodzin. Władze Somalii zaprzeczają tym zarzutom.",
-      "originalTitle": "Mieli zniszczyć magazyn i ukraść żywność. USA wstrzymują wsparcie dla Somalii",
-      "originalDescription": "Departament Stanu USA poinformował w serwisie X o wstrzymaniu wszelkiej pomocy dla rządu Somalii. Decyzja ta ma związek z oskarżeniami wobec somalijskich urzędników, którzy – według strony amerykańskiej – zniszczyli magazyn Światowego Programu Żywnościowego ONZ (WFP) oraz przywłaszczyli pomoc żywnościową finansowaną przez darczyńców, przeznaczoną dla najuboższych rodzin. Władze Somalii zaprzeczają tym zarzutom."
-    },
-    {
-      "title": "NASA przerywa misję. Pierwszy taki przypadek",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/crew-11-nasa-przerywa-misje-pierwszy-taki-przypadek-st8837460?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 06:07:36 GMT",
-      "description": "NASA przerwie pobyt części astronautów na Międzynarodowej Stacji Kosmicznej. Przyczyną jest stan zdrowia jednego z członków misji Crew-11. To pierwszy taki przypadek w historii ISS.",
-      "originalTitle": "NASA przerywa misję. Pierwszy taki przypadek",
-      "originalDescription": "NASA przerwie pobyt części astronautów na Międzynarodowej Stacji Kosmicznej. Przyczyną jest stan zdrowia jednego z członków misji Crew-11. To pierwszy taki przypadek w historii ISS."
-    },
-    {
-      "title": "Poduszka powietrzna nie wystrzeliła, Halina zginęła. Sąd: auto produktem niebezpiecznym",
-      "link": "https://tvn24.pl/polska/poduszka-powietrzna-nie-wystrzelila-halina-zginela-sad-auto-produktem-niebezpiecznym-st8834439?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 06:06:45 GMT",
-      "description": "Halina Lewandowska miała 53 lata. Sąd - nieprawomocnym na razie wyrokiem - uznał samochód kobiety za produkt niebezpieczny i opierając się na opinii biegłego, orzekł, że mogła przeżyć zderzenie z ciężarówką, gdyby w jej nowym, ledwie kilkumiesięcznym, aucie wystrzeliła poduszka powietrzna. Producent, firma Toyota, ma zapłacić zadośćuczynienie rodzinie zmarłej. Eksperci, z którymi rozmawiamy, tłumaczą, dlaczego wnioski z tej tragedii mogą mieć znaczenie dla olbrzymiej liczby kierowców na całym świecie.",
-      "originalTitle": "Poduszka powietrzna nie wystrzeliła, Halina zginęła. Sąd: auto produktem niebezpiecznym",
-      "originalDescription": "Halina Lewandowska miała 53 lata. Sąd - nieprawomocnym na razie wyrokiem - uznał samochód kobiety za produkt niebezpieczny i opierając się na opinii biegłego, orzekł, że mogła przeżyć zderzenie z ciężarówką, gdyby w jej nowym, ledwie kilkumiesięcznym, aucie wystrzeliła poduszka powietrzna. Producent, firma Toyota, ma zapłacić zadośćuczynienie rodzinie zmarłej. Eksperci, z którymi rozmawiamy, tłumaczą, dlaczego wnioski z tej tragedii mogą mieć znaczenie dla olbrzymiej liczby kierowców na całym świecie."
-    },
-    {
-      "title": "Reporter TVN24 na wyspie, której pragnie Trump. \"Grenlandczycy mówią wprost\"",
-      "link": "https://tvn24.pl/swiat/reporter-tvn24-na-wyspie-ktorej-pragnie-trump-grenlandczycy-mowia-wprost-st8837409?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 06:05:22 GMT",
-      "description": "Prezydent USA Donald Trump twierdzi, że jego kraj potrzebuje Grenlandii ze względu na bezpieczeństwo narodowe. Grenlandczycy mówią wprost, że chcą sami decydować o przyszłości swojej wyspy - powiedział reporter TVN24 Sebastian Napieraj, który przebywa obecnie w stolicy Grenlandii, Nuuk.",
-      "originalTitle": "Reporter TVN24 na wyspie, której pragnie Trump. \"Grenlandczycy mówią wprost\"",
-      "originalDescription": "Prezydent USA Donald Trump twierdzi, że jego kraj potrzebuje Grenlandii ze względu na bezpieczeństwo narodowe. Grenlandczycy mówią wprost, że chcą sami decydować o przyszłości swojej wyspy - powiedział reporter TVN24 Sebastian Napieraj, który przebywa obecnie w stolicy Grenlandii, Nuuk."
     }
   ]
 }
