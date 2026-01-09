@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-09T12:10:16.158Z",
+  "lastUpdate": "2026-01-09T12:47:03.458Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Wodór z wody i światła",
+      "link": "https://dzienniknaukowy.pl/wodor-z-wody-i-swiatla",
+      "pubDate": "Fri, 09 Jan 2026 12:38:00 +0000",
+      "description": "Pomysł fotokatalizatora, który wytwarza wodór bez chemicznych dodatków i działa także w wodzie morskiej, przedstawił zespół naukowców z udziałem badaczy z Uniwersytetu Jagiellońskiego. Kluczem są pojedyncze atomy niklu na zmodyfikowanym materiale węglowo-azotowym oraz mechanizm, w którym nadtlenek wodoru pojawia się tylko na chwilę jako etap pośredni."
+    },
     {
       "title": "Czym jest migrena i jak radzić sobie bez brania leków?",
       "link": "https://dzienniknaukowy.pl/czym-jest-migrena-i-jak-radzic-sobie-bez-brania-lekow",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/polacy-w-miedzynarodowym-projekcie-mapowania-powierzchni-ksiezyca",
       "pubDate": "Tue, 30 Dec 2025 08:24:40 +0000",
       "description": "Mapowanie powierzchni Księżyca z najwyższą dotąd rozdzielczością, dostrzeżenie na nim dużych skał i klifów mogących zagrozić lądującym statkom kosmicznym umożliwi misja Mani z udziałem Polaków. Jej projekt - jako jeden z trzech - ESA zakwalifikowała do kolejnego etapu programu Małych Misji Księżycowych."
-    },
-    {
-      "title": "Bezpieczeństwo jako element kultury organizacyjnej, a nie obowiązek compliance",
-      "link": "https://dzienniknaukowy.pl/bezpieczenstwo-jako-element-kultury-organizacyjnej-a-nie-obowiazek-compliance",
-      "pubDate": "Tue, 30 Dec 2025 08:00:00 +0000",
-      "description": "W wielu organizacjach bezpieczeństwo funkcjonuje jako zbiór obowiązków formalnych. Procedury, regulaminy i szkolenia realizowane są po to, aby spełnić wymagania audytowe, wewnętrzne polityki lub oczekiwania instytucji zewnętrznych. Dokumentacja jest kompletna, terminy dotrzymane, a odpowiedzialność formalnie przypisana. Mimo to, gdy pojawia się realne zagrożenie, organizacje często reagują chaotycznie lub z opóźnieniem."
     }
   ]
 }
