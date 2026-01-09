@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2026-01-09T12:47:03.458Z",
+  "lastUpdate": "2026-01-09T13:17:31.031Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Radość z cudzego niepowodzenia złapana w eksperymencie",
+      "link": "https://dzienniknaukowy.pl/radosc-z-cudzego-niepowodzenia-zlapana-w-eksperymencie",
+      "pubDate": "Fri, 09 Jan 2026 12:52:07 +0000",
+      "description": "Satysfakcja z niepowodzenia innych, choć wstydliwa, jest dość powszechnym uczuciem, zwłaszcza jeśli dotyka kogoś, kto wcześniej nas zirytował. Badacze uchwycili to zjawisko w eksperymencie: jego uczestnicy spontanicznie uśmiechali się, gdy prowokujący ich rywal reagował bólem na nieprzyjemny dźwięk."
+    },
     {
       "title": "Wodór z wody i światła",
       "link": "https://dzienniknaukowy.pl/wodor-z-wody-i-swiatla",
       "pubDate": "Fri, 09 Jan 2026 12:38:00 +0000",
       "description": "Pomysł fotokatalizatora, który wytwarza wodór bez chemicznych dodatków i działa także w wodzie morskiej, przedstawił zespół naukowców z udziałem badaczy z Uniwersytetu Jagiellońskiego. Kluczem są pojedyncze atomy niklu na zmodyfikowanym materiale węglowo-azotowym oraz mechanizm, w którym nadtlenek wodoru pojawia się tylko na chwilę jako etap pośredni."
+    },
+    {
+      "title": "Zakażenie dolnych dróg moczowych u dzieci – jak rozpoznać objawy i leczyć?",
+      "link": "https://dzienniknaukowy.pl/zakazenie-dolnych-drog-moczowych-u-dzieci-jak-rozpoznac-objawy-i-leczyc",
+      "pubDate": "Fri, 09 Jan 2026 08:54:00 +0000",
+      "description": "Zakażenia dolnych dróg moczowych należą do jednych z najczęściej występujących infekcji u dzieci, a ich przebieg zmienia się wraz z wiekiem i stopniem dojrzałości układu moczowego. U najmłodszych zakażenie dolnych dróg moczowych często daje niespecyficzne objawy, przez co łatwo je przeoczyć lub pomylić z innymi dolegliwościami. U starszych dzieci typowe sygnały pojawiają się szybciej i są łatwiejsze do rozpoznania. Ponieważ infekcja może rozwijać się dynamicznie, kluczowe jest umiejętne wychwycenie pierwszych sygnałów, zrozumienie mechanizmów jej powstawania oraz szybkie wdrożenie odpowiedniego postępowania, zanim objawy zaczną się nasilać."
     },
     {
       "title": "Czym jest migrena i jak radzić sobie bez brania leków?",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/silosy-organizacyjne-w-inzynierii-ukryty-koszt-ktory-hamuje-rozwoj-twojej-firmy",
       "pubDate": "Wed, 07 Jan 2026 08:47:00 +0000",
       "description": "Rozproszona praca zespołów inżynieryjnych przyczynia się do powstawania odizolowanych środowisk, które zaburzają swobodny przepływ informacji. Są one określane mianem silosów organizacyjnych i mogą generować koszty niewidoczne na pierwszy rzut oka."
-    },
-    {
-      "title": "Jak psychofarmakologia wpływa na bezpieczeństwo drogowe?",
-      "link": "https://dzienniknaukowy.pl/jak-psychofarmakologia-wplywa-na-bezpieczenstwo-drogowe",
-      "pubDate": "Tue, 30 Dec 2025 08:38:07 +0000",
-      "description": "Prowadzenie samochodu to jedna z najbardziej złożonych czynności, jakie wykonuje człowiek. Wymaga uwagi, refleksu i zdolności podejmowania decyzji w ułamkach sekund. Tymczasem coraz więcej kierowców porusza się po drogach pod wpływem substancji, które – choć legalne w kontekście leczenia – mogą prowadzić do spowolnienia reakcji, problemów z koncentracją oraz osłabienia koordynacji ruchowej"
-    },
-    {
-      "title": "Polacy w międzynarodowym projekcie mapowania powierzchni Księżyca",
-      "link": "https://dzienniknaukowy.pl/polacy-w-miedzynarodowym-projekcie-mapowania-powierzchni-ksiezyca",
-      "pubDate": "Tue, 30 Dec 2025 08:24:40 +0000",
-      "description": "Mapowanie powierzchni Księżyca z najwyższą dotąd rozdzielczością, dostrzeżenie na nim dużych skał i klifów mogących zagrozić lądującym statkom kosmicznym umożliwi misja Mani z udziałem Polaków. Jej projekt - jako jeden z trzech - ESA zakwalifikowała do kolejnego etapu programu Małych Misji Księżycowych."
     }
   ]
 }
