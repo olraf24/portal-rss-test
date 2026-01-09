@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-09T14:40:50.572Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-09T15:07:11.336Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Premier komentuje umowę Mercosur",
+      "link": "https://tvn24.pl/biznes/z-kraju/premier-o-umowie-mercosur-ktos-nie-dowiozl-st8838795?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 15:00:36 GMT",
+      "description": "Przypominam, że ktoś się chyba zobowiązał, że przekona premier Włoch Giorgię Meloni do tego, aby zmieniła zdanie. To właśnie stanowisko Włoch sprawiło, że nie zablokowano Mercosur. Ktoś się powoływał na przyjaźń. I nie dowiózł - powiedział podczas konferencji prasowej premier Donald Tusk, odnosząc się do prezydenta Karola Nawrockiego. - Ja swoje zadanie wykonałem. Rząd głosował przeciw - mówił.",
+      "originalTitle": "Premier o umowie Mercosur: ktoś nie dowiózł",
+      "originalDescription": "Przypominam, że ktoś się chyba zobowiązał, że przekona premier Włoch Giorgię Meloni do tego, aby zmieniła zdanie. To właśnie stanowisko Włoch sprawiło, że nie zablokowano Mercosur. Ktoś się powoływał na przyjaźń. I nie dowiózł - powiedział podczas konferencji prasowej premier Donald Tusk, odnosząc się do prezydenta Karola Nawrockiego. - Ja swoje zadanie wykonałem. Rząd głosował przeciw - mówił."
+    },
+    {
+      "title": "USA przejęły kolejny tankowiec",
+      "link": "https://tvn24.pl/swiat/karaiby-usa-przejely-tankowiec-ktory-plywal-pod-falszywa-bandera-to-jest-panowanie-nad-morzem-st8838596?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:57:37 GMT",
+      "description": "• Siły amerykańskie przejęły tankowiec Olina u wybrzeży Karaibów.\n• Tankowiec Olina został przejęty niedaleko Trynidadu.\n• Informację o przejęciu tankowca przekazała agencja Reuters.\n• Agencja Reuters powołała się na dwóch amerykańskich urzędników.\n• Była to piąta tego typu akcja w ostatnich tygodniach.\n• Kristi Noem, sekretarz bezpieczeństwa krajowego USA, skomentowała przejęcie w mocnych słowach.",
+      "originalTitle": "USA przejęły kolejny tankowiec. \"To jest panowanie nad morzem\"",
+      "originalDescription": "Siły amerykańskie przejęły tankowiec Olina u wybrzeży Karaibów, niedaleko Trynidadu, przekazała agencja Reuters, powołując się na dwóch amerykańskich urzędników. To piąta tego typu akcja w ostatnich tygodniach. Kristi Noem, sekretarz bezpieczeństwa krajowego USA, skomentowała przejęcie w mocnych słowach."
+    },
+    {
+      "title": "Prognoza pogody na zimę i wiosnę",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-dlugoterminowa-imgw-luty-marzec-kwiecien-i-maj-pogoda-na-zime-i-poczatek-wiosny-2026-st8838757?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:53:48 GMT",
+      "description": "• Prognoza długoterminowa dotyczy miesięcy: luty, marzec, kwiecień i maj 2026 roku.\n• Instytut odpowiedzialny za prognozę to Instytut Meteorologii i Gospodarki Wodnej (IMGW).\n• IMGW opublikował eksperymentalną prognozę na koniec zimy i początek wiosny.",
+      "originalTitle": "Prognoza długoterminowa IMGW. Pogoda na zimę i początek wiosny",
+      "originalDescription": "Prognoza długoterminowa na luty, marzec, kwiecień i maj 2026 roku. Instytut Meteorologii i Gospodarki Wodnej (IMGW) opublikował eksperymentalną prognozę na koniec zimy i początek wiosny. Jakiej aury możemy się spodziewać?"
+    },
+    {
+      "title": "Wypadek na S2, trzy auta zaangażowane, jedna osoba ranna",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/s2-warszawa-zderzenie-trzech-aut-utrudnienia-st8838784?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:42:48 GMT",
+      "description": "• Na Południowej Obwodnicy Warszawy doszło do wypadku.\n• Wypadek miał miejsce pomiędzy węzłami Puławska i Lotnisko.\n• Zderzyły się trzy samochody.\n• W wypadku ranna została jedna osoba.\n• Utrudnienia występują w kierunku Poznania.\n• Utrudnienia są spore.",
+      "originalTitle": "Zablokowane pasy, ranna kobieta i korek na S2 po zderzeniu trzech aut",
+      "originalDescription": "Na Południowej Obwodnicy Warszawy, pomiędzy węzłami Puławska i Lotnisko, zderzyły się trzy samochody. W wypadku ranna została jedna osoba. Są spore utrudnienia w kierunku Poznania."
+    },
+    {
+      "title": "Pożar mieszkania: jedna ofiara, areszt dla 46-latka",
+      "link": "https://tvn24.pl/szczecin/szczecin-w-pozarze-mieszkania-jedna-osoba-zginela-46-latek-w-areszcie-st8838598?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:39:21 GMT",
+      "description": "• 46-latek usłyszał zarzuty w sprawie pożaru w Szczecinie.\n• W pożarze zginęła jedna osoba.\n• Pożar miał miejsce we wtorek.\n• Mężczyzna, decyzją sądu, trafił do aresztu.\n• Mężczyzna będzie przebywał w areszcie przez dwa miesiące.",
+      "originalTitle": "W pożarze mieszkania zginęła jedna osoba. 46-latek w areszcie",
+      "originalDescription": "46-latek usłyszał zarzuty w sprawie pożaru w Szczecinie, w którym we wtorek zginęła jedna osoba. Mężczyzna, decyzją sądu, trafił do aresztu na dwa miesiące."
+    },
+    {
+      "title": "Tusk komentuje rozmowę z Nawrockim",
+      "link": "https://tvn24.pl/polska/donald-tusk-spotkal-sie-z-karolem-nawrockim-st8838219?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:34:54 GMT",
+      "description": "• Piątkowe spotkanie Donalda Tuska z Karolem Nawrockim trwało około godziny.\n• Donald Tusk i prezydent zgadzają się, że kwestie Ukrainy, Rosji i bezpieczeństwa Polski powinny być wyłączone ze sporów politycznych.\n• Donald Tusk podkreślał, że kwestie Ukrainy, Rosji i bezpieczeństwa Polski \"muszą być absolutnie nasze wspólne działanie\".\n• Prezydencki rzecznik to Rafał Leśkiewicz.\n• Rafał Leśkiewicz mówił, że atmosfera rozmowy była \"konstruktywna\".\n• Politycy \"określili swoje zadania w zakresie uczestnictwa w negocjacjach dotyczących pokoju w Ukrainie\".",
+      "originalTitle": "\"To musi być nasze wspólne działanie\". Tusk o konkluzjach rozmowy z Nawrockim",
+      "originalDescription": "Piątkowe spotkanie Donalda Tuska z Karolem Nawrockim trwało około godziny. Jak przekazał później premier, obaj z prezydentem zgadzają się, że kwestie Ukrainy, Rosji i bezpieczeństwa Polski powinny być wyłączone ze sporów politycznych. - To musi być absolutnie nasze wspólne działanie - podkreślał Tusk. Prezydencki rzecznik Rafał Leśkiewicz mówił zaś, że atmosfera rozmowy była \"konstruktywna\", a politycy \"określili swoje zadania w zakresie uczestnictwa w negocjacjach dotyczących pokoju w Ukrainie\"."
+    },
+    {
+      "title": "Nastolatek potrącił nastolatkę na pasach. Nagranie",
+      "link": "https://tvn24.pl/lublin/tarnawatka-19-latek-potracil-16-latke-na-pasach-nagranie-st8838339?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:30:18 GMT",
+      "description": "Do groźnego wypadku doszło w miejscowości Tarnawatka (Lubelskie) na drodze krajowej numer 17. 19-letni kierowca potrącił 16-letnią pieszą, która przechodziła przez oznakowane przejście. Nastolatka z obrażeniami trafiła do szpitala. Policja \"ku przestrodze\" opublikowała nagranie ze zdarzenia.",
+      "originalTitle": "Nastolatek potrącił nastolatkę na pasach. Nagranie",
+      "originalDescription": "Do groźnego wypadku doszło w miejscowości Tarnawatka (Lubelskie) na drodze krajowej numer 17. 19-letni kierowca potrącił 16-letnią pieszą, która przechodziła przez oznakowane przejście. Nastolatka z obrażeniami trafiła do szpitala. Policja \"ku przestrodze\" opublikowała nagranie ze zdarzenia."
+    },
+    {
+      "title": "Okradli ponad 40 plebanii w całym kraju. Prokuratura zakończyła śledztwo",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/okradli-ponad-40-plebanii-w-calym-kraju-prokuratura-zakonczyla-sledztwo-st8838203?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:28:11 GMT",
+      "description": "Prokuratura Okręgowa w Bydgoszczy zakończyła śledztwo w sprawie dwunastu mężczyzn podejrzanych o włamania wraz z kradzieżami do ponad czterdziestu plebanii w całym kraju. Sprawcy kradli pieniądze, sprzęt elektroniczny, biżuterię, a także broń myśliwską. Niebawem zasiądą na ławie oskarżonych.",
+      "originalTitle": "Okradli ponad 40 plebanii w całym kraju. Prokuratura zakończyła śledztwo",
+      "originalDescription": "Prokuratura Okręgowa w Bydgoszczy zakończyła śledztwo w sprawie dwunastu mężczyzn podejrzanych o włamania wraz z kradzieżami do ponad czterdziestu plebanii w całym kraju. Sprawcy kradli pieniądze, sprzęt elektroniczny, biżuterię, a także broń myśliwską. Niebawem zasiądą na ławie oskarżonych."
+    },
+    {
+      "title": "Olek przed śmiercią błagał o pomoc, kamery zarejestrowały zachowanie medyków. Jest reakcja szpitala",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/grudziadz-olek-przed-smiercia-blagal-o-pomoc-kamery-zarejestrowaly-zachowanie-ratownikow-jest-reakcja-szpitala-st8837593?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:27:28 GMT",
+      "description": "Dyrekcja szpitala w Grudziądzu podjęła decyzję o natychmiastowym rozwiązaniu umów z personelem, który przyjechał po rannego Olka. Placówka wydała oświadczenie po emisji reportażu \"Uwagi!\" TVN, w którym pokazano nagrania z kamer nasobnych policjantów oraz z monitoringu karetki. Na filmach słychać, jak 19-latek mówi, że nie może oddychać i błaga o pomoc. Niedługo później chłopak zmarł. W marcu przed sądem stanie trzech lekarzy.",
+      "originalTitle": "Olek przed śmiercią błagał o pomoc, kamery zarejestrowały zachowanie medyków. Jest reakcja szpitala",
+      "originalDescription": "Dyrekcja szpitala w Grudziądzu podjęła decyzję o natychmiastowym rozwiązaniu umów z personelem, który przyjechał po rannego Olka. Placówka wydała oświadczenie po emisji reportażu \"Uwagi!\" TVN, w którym pokazano nagrania z kamer nasobnych policjantów oraz z monitoringu karetki. Na filmach słychać, jak 19-latek mówi, że nie może oddychać i błaga o pomoc. Niedługo później chłopak zmarł. W marcu przed sądem stanie trzech lekarzy."
+    },
+    {
+      "title": "Dlaczego Grenlandia tak \"kusi Trumpa\"?",
+      "link": "https://tvn24.pl/swiat/dlaczego-grenlandia-kusi-trumpa-mineraly-szlaki-morskie-czy-atomowe-bazy-ekspert-wyjasnia-co-jest-istotne-dla-usa-st8837874?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 14:12:36 GMT",
+      "description": "Prezydent USA powtarza, że \"musi mieć Grenlandię\". Dlaczego? Skąd taka neokolonialna retoryka w XXI wieku? Piotr Szymański z Ośrodka Studiów Wschodnich wyjaśnia w \"Podcaście o zagranicy\" Macieja Tomaszewskiego, dlaczego największa wyspa świata tak \"kusi\" Donalda Trumpa.",
+      "originalTitle": "Dlaczego Grenlandia tak \"kusi Trumpa\"?",
+      "originalDescription": "Prezydent USA powtarza, że \"musi mieć Grenlandię\". Dlaczego? Skąd taka neokolonialna retoryka w XXI wieku? Piotr Szymański z Ośrodka Studiów Wschodnich wyjaśnia w \"Podcaście o zagranicy\" Macieja Tomaszewskiego, dlaczego największa wyspa świata tak \"kusi\" Donalda Trumpa."
+    }
+  ]
 }
