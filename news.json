@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-10T19:33:54.156Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-10T20:06:47.059Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rubio przekazał notatkę, Trump ją odczytał",
+      "link": "https://tvn24.pl/swiat/donald-trump-odczytal-na-glos-notatke-od-marco-rubio-niezreczna-sytuacja-w-bialym-domu-st8840201?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 19:20:49 GMT",
+      "description": "• Podczas konferencji prasowej w Białym Domu doszło do pewnej niezręczności.\n• Prezydent USA, Donald Trump, odczytał na głos treść karteczki, którą w trakcie wystąpienia podsunął mu sekretarz stanu Marco Rubio.\n• Treść notatki brzmiała: \"Wróć do Chevron, chcą coś omówić\".\n• Chevron to jedna z firm, której reprezentanci byli obecni na konferencji.\n• Prezydent Trump powiedział: \"Proszę bardzo, wracam do Chevron\", po odczytaniu notatki.\n• Po wypowiedzi prezydent poklepał sekretarza stanu, Marco Rubio, po plecach.\n• Obaj, Trump i Rubio, zareagowali na tę sytuację uśmiechem.",
+      "originalTitle": "Rubio podsunął notatkę, Trump ją odczytał. Niezręczna sytuacja w Białym Domu",
+      "originalDescription": "Podczas konferencji prasowej Donald Trump w Białym Domu doszło do pewnej niezręczności. Prezydent USA odczytał na głos treść karteczki, którą w trakcie wystąpienia podsunął mu sekretarz stanu Marco Rubio. \"Wróć do Chevron, chcą coś omówić\" - brzmiała notatka. Chevron to jedna z firm, której reprezentanci byli obecni na konferencji. - Proszę bardzo, wracam do Chevron - oznajmił Trump, po czym poklepał sekretarza stanu po plecach. Obaj zareagowali na tę sytuację uśmiechem."
+    },
+    {
+      "title": "Spotkanie premiera i prezydenta",
+      "link": "https://tvn24.pl/polska/rzecznik-prezydenta-donald-tusk-kontaktowal-sie-z-karolem-nawrockim-bezposrednio-tuz-przed-sylwestrem-st8840289?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 19:20:45 GMT",
+      "description": "• Tuż przed sylwestrem doszło do bezpośredniego kontaktu pomiędzy premierem Donaldem Tuskiem i prezydentem Karolem Nawrockim.\n• Wtedy panowie się umówili na spotkanie.\n• Spotkanie doszło do skutku w piątek.\n• Rzecznik prezydenta Rafa�� Leśkiewicz powiedział o tym w \"Faktach po Faktach\" w TVN24.\n• Rafał Leśkiewicz odniósł się do wcześniejszych wypowiedzi szefa rządu.\n• Donald Tusk \"nie dzwonił ani razu\" - jak stwierdził Rafał Leśkiewicz.",
+      "originalTitle": "\"Udało się uzyskać dobry numer\". Kontakt premiera z prezydentem \"tuż przed sylwestrem\"",
+      "originalDescription": "Tuż przed sylwestrem doszło do bezpośredniego kontaktu pomiędzy premierem Donaldem Tuskiem i prezydentem Karolem Nawrockim i wtedy panowie się umówili na spotkanie, do którego doszło w piątek - powiedział w \"Faktach po Faktach\" w TVN24 rzecznik prezydenta Rafał Leśkiewicz. Odnosząc się do wcześniejszych wypowiedzi szefa rządu, mówił, że Tusk \"nie dzwonił ani razu\"."
+    },
+    {
+      "title": "Brak suszy w Kalifornii po 25 latach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-pierwszy-raz-od-25-lat-nie-maja-suszy-st8839993?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 19:08:28 GMT",
+      "description": "Na początku stycznia w całej Kalifornii nie ma obszaru dotkniętego suszą. To pierwsza taka sytuacja od 25 lat. Przyczyniły się do niej intensywne opady deszczu i śniegu pod koniec grudnia.",
+      "originalTitle": "Kalifornia. Pierwszy raz od 25 lat nie mają suszy",
+      "originalDescription": "Na początku stycznia w całej Kalifornii nie ma obszaru dotkniętego suszą. To pierwsza taka sytuacja od 25 lat. Przyczyniły się do niej intensywne opady deszczu i śniegu pod koniec grudnia."
+    },
+    {
+      "title": "Dwa nazwiska w walce o przywództwo",
+      "link": "https://tvn24.pl/polska/wybory-szefa-polski-2050-kto-poprze-pelczynska-nalecz-a-kto-hennig-kloske-w-drugiej-turze-st8840250?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 18:30:31 GMT",
+      "description": "Poseł Polski 2050 Ryszard Petru zadeklarował, że w drugiej turze wyborów na lidera partii zagłosuje na ministrę klimatu i środowiska Paulinę Hennig-Kloskę. Zmierzy się ona z szefową resortu funduszy i polityki regionalnej Katarzyną Pełczyńska-Nałęcz. Natomiast posłanka Joanna Mucha najpierw chce porozmawiać z obiema kandydatkami. Nie tylko ona nie zdradza na razie, kogo poprze.",
+      "originalTitle": "Dwa nazwiska w grze o przywództwo. Na czyje poparcie mogą liczyć kandydatki?",
+      "originalDescription": "Poseł Polski 2050 Ryszard Petru zadeklarował, że w drugiej turze wyborów na lidera partii zagłosuje na ministrę klimatu i środowiska Paulinę Hennig-Kloskę. Zmierzy się ona z szefową resortu funduszy i polityki regionalnej Katarzyną Pełczyńska-Nałęcz. Natomiast posłanka Joanna Mucha najpierw chce porozmawiać z obiema kandydatkami. Nie tylko ona nie zdradza na razie, kogo poprze."
+    },
+    {
+      "title": "Pogoda na 11.01: mróz i śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-11-01-noc-przyniesie-silny-mroz-i-sporo-sniegu-st8840202?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 18:00:40 GMT",
+      "description": "• Pogoda będzie dotyczyć dnia jutrzejszego, czyli niedzieli.\n• Data tego dnia to 11.01.\n• Noc będzie mroźna.\n• Miejscami noc może być bardzo mroźna.\n• Noc będzie także śnieżna.\n• Najwięcej śniegu spadnie na p��łnocy kraju.\n• W dzień spodziewane są opady śniegu.\n• Opady śniegu będą miały miejsce w całej Polsce.\n• Intensywność opadów śniegu będzie się różnić.",
+      "originalTitle": "Pogoda na jutro - niedziela, 11.01. Noc przyniesie silny mróz i sporo śniegu",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę, 11.01. Noc będzie mroźna, miejscami bardzo, a także śnieżna - najwięcej białego puchu spadnie na północy kraju. W dzień opady śniegu spodziewane są w całej Polsce, ale ich intensywność będzie się różnić."
+    },
+    {
+      "title": "Poeta w czasie wojny",
+      "link": "https://tvn24.pl/swiat/byc-poeta-w-czasie-wojny-to-znaczy-przepraszac-st8812587?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 17:19:36 GMT",
+      "description": "Wiem, że jestem za słaba, ale w swojej wyobraźni chciałabym ocalić moją ojczyznę. Te wszystkie drobne szczegóły, które ją tworzą - znajome ulice, konkretne budynki, ptaki, drzewa. To tylko przykłady, maleńki wycinek tego świata, zamknięty w wierszu - mówi w wywiadzie dla TVN24+ palestyńska poetka Hend Jouda.",
+      "originalTitle": "Być poetą w czasie wojny to znaczy przepraszać",
+      "originalDescription": "Wiem, że jestem za słaba, ale w swojej wyobraźni chciałabym ocalić moją ojczyznę. Te wszystkie drobne szczegóły, które ją tworzą - znajome ulice, konkretne budynki, ptaki, drzewa. To tylko przykłady, maleńki wycinek tego świata, zamknięty w wierszu - mówi w wywiadzie dla TVN24+ palestyńska poetka Hend Jouda."
+    },
+    {
+      "title": "Prezydent wziął udział w pielgrzymce kibiców",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-do-kibicow-na-jasnej-gorze-wiecie-ze-jestem-jednym-z-was-st8840132?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 17:03:44 GMT",
+      "description": "Potraficie spotkać się razem dla Boga i dla ojczyzny, a niektórzy nie potrafią, a chcą nas rozliczać – mówił prezydent Karol Nawrocki, zwracając się do zgromadzonych na pielgrzymce kibiców na Jasnej Górze. Ocenił też, że został wybrany na urząd między innymi dzięki \"odwadze\" środowiska kibiców i \"temu, że stadionów nie dotknęła propaganda i chwilowe ideologiczne mody\".",
+      "originalTitle": "Prezydent na pielgrzymce kibiców. \"Jestem jednym z was\"",
+      "originalDescription": "Potraficie spotkać się razem dla Boga i dla ojczyzny, a niektórzy nie potrafią, a chcą nas rozliczać – mówił prezydent Karol Nawrocki, zwracając się do zgromadzonych na pielgrzymce kibiców na Jasnej Górze. Ocenił też, że został wybrany na urząd między innymi dzięki \"odwadze\" środowiska kibiców i \"temu, że stadionów nie dotknęła propaganda i chwilowe ideologiczne mody\"."
+    },
+    {
+      "title": "Więcej regionów z ostrzeżeniami IMGW. Gdzie zagraża nam zimowa aura",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-10-11-01-sniezyce-w-polsce-zawieje-i-zamiecie-silny-mroz-i-wiatr-st8831653?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 06:05:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał kolejne ostrzeżenia przed groźną zimową aurą. Zagrożenie stanowią intensywne opady śniegu, silny wiatr powodujący zawieje i zamiecie śnieżne oraz dotkliwy mróz.",
+      "originalTitle": "Więcej regionów z ostrzeżeniami IMGW. Gdzie zagraża nam zimowa aura",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał kolejne ostrzeżenia przed groźną zimową aurą. Zagrożenie stanowią intensywne opady śniegu, silny wiatr powodujący zawieje i zamiecie śnieżne oraz dotkliwy mróz."
+    },
+    {
+      "title": "Walki w Aleppo. Około 150 tysięcy osób porzuciło swoje domy",
+      "link": "https://tvn24.pl/swiat/walki-w-aleppo-w-syrii-okolo-150-tysiecy-osob-opuscilo-domy-st8840028?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 15:54:53 GMT",
+      "description": "W Aleppo trwają starcia między syryjską armią a siłami kurdyjskimi. Miejscowe miasta informują o masowych ucieczkach ludności z ogarniętych walkami dzielnic. Jednostki kurdyjskie powiadomiły, że ataki wojsk rządowych są wspierane przez drony sił sąsiedniej Turcji. Specjalny wysłannik USA do spraw Syrii zaapelował do stron konfliktu o natychmiastowe wstrzymanie walk i wznowienie dialogu.",
+      "originalTitle": "Walki w Aleppo. Około 150 tysięcy osób porzuciło swoje domy",
+      "originalDescription": "W Aleppo trwają starcia między syryjską armią a siłami kurdyjskimi. Miejscowe miasta informują o masowych ucieczkach ludności z ogarniętych walkami dzielnic. Jednostki kurdyjskie powiadomiły, że ataki wojsk rządowych są wspierane przez drony sił sąsiedniej Turcji. Specjalny wysłannik USA do spraw Syrii zaapelował do stron konfliktu o natychmiastowe wstrzymanie walk i wznowienie dialogu."
+    },
+    {
+      "title": "Czołowe zderzenie na drodze. Kobieta w ciąży trafiła do szpitala",
+      "link": "https://tvn24.pl/szczecin/polanow-czolowe-zderzenie-na-drodze-kobieta-w-ciazy-trafila-do-szpitala-st8840151?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 15:47:06 GMT",
+      "description": "20-latek jechał za szybko, zjechał na przeciwległy pas i uderzył czołowo w jadący przed nim samochód - wstępnie ustalili policjanci. Drugim autem jechała 28-latka w ciąży. Kobieta trafiła do szpitala.",
+      "originalTitle": "Czołowe zderzenie na drodze. Kobieta w ciąży trafiła do szpitala",
+      "originalDescription": "20-latek jechał za szybko, zjechał na przeciwległy pas i uderzył czołowo w jadący przed nim samochód - wstępnie ustalili policjanci. Drugim autem jechała 28-latka w ciąży. Kobieta trafiła do szpitala."
+    }
+  ]
 }
