@@ -1,10 +1,58 @@
 {
-  "lastUpdate": "2026-01-10T11:05:45.341Z",
+  "lastUpdate": "2026-01-10T11:34:40.079Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zdarzenie na imprezie sylwestrowej, zawieszenie naczelnika policji",
+      "title": "Kobieta znalazła zwłoki babci",
+      "link": "https://tvn24.pl/lublin/lubelskie-trzy-osoby-zmarly-z-wychlodzenia-w-jeden-dzien-apel-policji-st8839671?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:31:10 GMT",
+      "description": "Lubelska policja apeluje do mieszkańców o czujność i udzielanie pomocy osobom szczególnie narażonym na wychłodzenie. Tylko jednego dnia w województwie zmarły z tego powodu trzy osoby.",
+      "originalTitle": "\"Przewróciła się, doszło do wychłodzenia\". 46-latka znalazła ciało babci",
+      "originalDescription": "Lubelska policja apeluje do mieszkańców o czujność i udzielanie pomocy osobom szczególnie narażonym na wychłodzenie. Tylko jednego dnia w województwie zmarły z tego powodu trzy osoby."
+    },
+    {
+      "title": "Zakaz narzędzia firmy Elona Muska",
+      "link": "https://tvn24.pl/biznes/tech/indonezja-blokuje-chatbota-grok-firmy-xai-elona-muska-pierwszy-taki-zakaz-na-swiecie-st8839574?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:27:31 GMT",
+      "description": "• Indonezja jako pierwsze państwo na świecie zdecydowała się zablokować chatbota stworzonego przez firmę Elona Muska.\n• Władze w Dżakarcie uważają, że narzędzie oparte na sztucznej inteligencji stwarza ryzyko generowania pornograficznych treści.\n• Ryzyko generowania pornograficznych treści może naruszać godność i bezpieczeństwo obywateli.",
+      "originalTitle": "Pierwszy taki zakaz na świecie. Zablokowali narzędzie firmy Elona Muska",
+      "originalDescription": "Indonezja jako pierwsze państwo na świecie zdecydowała się zablokować chatbota stworzonego przez firmę Elona Muska. Zdaniem władz w Dżakarcie narzędzie oparte na sztucznej inteligencji stwarza ryzyko generowania pornograficznych treści, co może naruszać godność i bezpieczeństwo obywateli."
+    },
+    {
+      "title": "Interakcje z AI i ból",
+      "link": "https://tvn24.pl/polska/najgrozniejsza-rzecz-w-kontakcie-z-ai-jezeli-czujemy-wielki-bol-to-chatbot-to-podbije-i-podniesie-st8839546?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:27:07 GMT",
+      "description": "• Jeżeli coś brzmi jak człowiek, to z punktu widzenia części naszego mózgu, która zajmuje się głównie emocjami, to jest to prawdziwa relacja i nasza logika ma się luźno do tego.\n• Maciej Rudziński jest naukowcem zajmującym się sztuczną inteligencją.\n• Maciej Rudziński wypowiedział się w TVN24 na temat relacji między ludźmi a sztuczną inteligencją.\n• Powodami wchodzenia młodych ludzi w bliskie relacje ze sztuczną inteligencją oraz zagrożeniom, jakie z tego wynikają, zajęła się autorka reportażu \"Samotność 2.0\".\n• Reportaż \"Samotność 2.0\" jest dostępny w TVN24+.",
+      "originalTitle": "\"Najgroźniejsza rzecz\" w kontakcie z AI. \"Jeżeli czujemy wielki ból, to chatbot to podbije i podniesie\"",
+      "originalDescription": "Jeżeli coś brzmi jak człowiek, to z punktu widzenia części naszego mózgu, która zajmuje się głównie emocjami, to jest to prawdziwa relacja i nasza logika ma się luźno do tego - mówi w TVN24 Maciej Rudziński, naukowiec zajmujący się sztuczną inteligencją. Powodom wchodzenia młodych ludzi w bliskie relacje ze sztuczną inteligencją oraz zagrożeniom, jakie z tego wynikają przyjrzała się autorka reportażu \"Samotność 2.0\", dostępnego w TVN24+."
+    },
+    {
+      "title": "Jedna z najsilniejszych burz \"od niepamiętnych czasów\". Zginął mężczyzna",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wielka-brytania-orkan-goretti-jedna-z-najsilniejszych-burz-od-niepamietnych-czasow-zginal-mezczyzna-st8839570?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:26:21 GMT",
+      "description": "W południowej Anglii drzewo przygniotło przyczepę kempingową, w której przebywał mężczyzna. Zostało ono uszkodzone przez burzę Goretti, od czwartku szalejącą nad zachodzie Europy. Silny wiatr spowodował także poważne przerwy w dostawach prądu na Wyspach i kontynencie.",
+      "originalTitle": "Jedna z najsilniejszych burz \"od niepamiętnych czasów\". Zginął mężczyzna",
+      "originalDescription": "W południowej Anglii drzewo przygniotło przyczepę kempingową, w której przebywał mężczyzna. Zostało ono uszkodzone przez burzę Goretti, od czwartku szalejącą nad zachodzie Europy. Silny wiatr spowodował także poważne przerwy w dostawach prądu na Wyspach i kontynencie."
+    },
+    {
+      "title": "Tusk o \"deklaracji Kaczyńskiego\". \"Szkoda, że nie ma nic wspólnego z rzeczywistością\"",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-deklaracji-jaroslawa-kaczynskiego-w-sprawie-grzegorza-brauna-st8839650?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:23:22 GMT",
+      "description": "\"Deklaracja Kaczyńskiego, że 'nigdy z Braunem', brzmi obiecująco i racjonalnie. Szkoda, że nie ma nic wspólnego z rzeczywistością - napisał premier Donald Tusk. Zauważył przy tym, że \"bez Brauna Kaczyński nie ma żadnych szans na zdobycie władzy\".",
+      "originalTitle": "Tusk o \"deklaracji Kaczyńskiego\". \"Szkoda, że nie ma nic wspólnego z rzeczywistością\"",
+      "originalDescription": "\"Deklaracja Kaczyńskiego, że 'nigdy z Braunem', brzmi obiecująco i racjonalnie. Szkoda, że nie ma nic wspólnego z rzeczywistością - napisał premier Donald Tusk. Zauważył przy tym, że \"bez Brauna Kaczyński nie ma żadnych szans na zdobycie władzy\"."
+    },
+    {
+      "title": "Wyszedł na spacer. Znaleźli go skulonego za balotami słomy",
+      "link": "https://tvn24.pl/lodz/wilkucice-male-rokiciny-wyszedl-z-domu-sie-przejsc-skulony-i-zmarzniety-lezal-za-balotami-slomy-st8839605?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:07:37 GMT",
+      "description": "Dzięki reakcji świadka, policjanci z Rokicin (Łódzkie) uratowali 43-latka, który zmarznięty leżał w szczerym polu za balotami słomy. Mężczyzna relacjonował, że dzień wcześniej wyszedł z domu, żeby się przejść.",
+      "originalTitle": "Wyszedł na spacer. Znaleźli go skulonego za balotami słomy",
+      "originalDescription": "Dzięki reakcji świadka, policjanci z Rokicin (Łódzkie) uratowali 43-latka, który zmarznięty leżał w szczerym polu za balotami słomy. Mężczyzna relacjonował, że dzień wcześniej wyszedł z domu, żeby się przejść."
+    },
+    {
+      "title": "Bójka na imprezie sylwestrowej. Naczelnik policji zawieszony",
       "link": "https://tvn24.pl/szczecin/szczecin-bojka-na-imprezie-sylwestrowej-naczelnik-policji-zawieszony-st8839512?source=rss",
       "pubDate": "Sat, 10 Jan 2026 10:58:08 GMT",
       "description": "Naczelnik jednego z wydziałów komisariatu policji w Szczecinie miał brać udział w bójce podczas imprezy sylwestrowej. Wszczęto już postępowanie karne. Do czasu wyjaśnienia sprawy funkcjonariusz został zawieszony.",
@@ -12,15 +60,15 @@
       "originalDescription": "Naczelnik jednego z wydziałów komisariatu policji w Szczecinie miał brać udział w bójce podczas imprezy sylwestrowej. Wszczęto już postępowanie karne. Do czasu wyjaśnienia sprawy funkcjonariusz został zawieszony."
     },
     {
-      "title": "Wypadek na zamarzniętym jeziorze",
+      "title": "Jeździli po zamarzniętym jeziorze, pod autem załamał się lód",
       "link": "https://tvn24.pl/trojmiasto/szczerbiecin-gmina-tczew-wjechali-na-srodek-zamarznietego-jeziora-pod-autem-pekl-lod-st8839565?source=rss",
       "pubDate": "Sat, 10 Jan 2026 10:46:12 GMT",
-      "description": "• Dwóch mężczyzn jeździło samochodem osobowym po zamarzniętym jeziorze.\n• Mężczyźni znajdowali się na środku jeziora, kiedy zdarzenie miało miejsce.\n• Lód pod nimi się załamał.\n• Całe auto wpadło do wody.\n• Widoczny był tylko dach samochodu.",
+      "description": "Dwóch mężczyzn jeździło samochodem osobowym po zamarzniętym jeziorze. Kiedy byli na środku, lód pod nimi się załamał. Całe auto wpadło do wody, widoczny był tylko dach.",
       "originalTitle": "Jeździli po zamarzniętym jeziorze, pod autem załamał się lód",
       "originalDescription": "Dwóch mężczyzn jeździło samochodem osobowym po zamarzniętym jeziorze. Kiedy byli na środku, lód pod nimi się załamał. Całe auto wpadło do wody, widoczny był tylko dach."
     },
     {
-      "title": "Wysokość mandatów",
+      "title": "Skokowy wzrost. Tyle płacimy za mandaty",
       "link": "https://tvn24.pl/biznes/moto/mandaty-wplywy-z-lat-2022-2024-prawie-trzy-razy-wiecej-w-dwa-lata-st8839475?source=rss",
       "pubDate": "Sat, 10 Jan 2026 10:45:50 GMT",
       "description": "Mandaty zasiliły Krajowy Fundusz Drogowy kwotą niemal 1,44 miliarda złotych w latach 2022-2024. W samym 2024 roku wpływy przekroczyły 632 miliony złotych - wynika z odpowiedzi wiceministra finansów na interpelację poselską.",
@@ -28,60 +76,12 @@
       "originalDescription": "Mandaty zasiliły Krajowy Fundusz Drogowy kwotą niemal 1,44 miliarda złotych w latach 2022-2024. W samym 2024 roku wpływy przekroczyły 632 miliony złotych - wynika z odpowiedzi wiceministra finansów na interpelację poselską."
     },
     {
-      "title": "Spór o Warszawiankę",
+      "title": "Zamiast nowoczesnego kompleksu sportowego walka zarządów. Niekończąca się batalia o Warszawiankę",
       "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawianka-w-cieniu-konfliktow-o-teren-na-mokotowie-walcza-dwa-zarzady-st8792574?source=rss",
       "pubDate": "Sat, 10 Jan 2026 10:38:40 GMT",
       "description": "Na Warszawiance znów wrze. Walkę o dostęp do budynków historycznych prowadzą dwa zarządy - Klubu Sportowego \"Warszawianka\" i działającej tam spółki tenisowej. Strony zarzucają sobie nawzajem działanie na szkodę. Interweniowała policja. To kolejny rozdział długoletniej batalii o to miejsce.",
       "originalTitle": "Zamiast nowoczesnego kompleksu sportowego walka zarządów. Niekończąca się batalia o Warszawiankę",
       "originalDescription": "Na Warszawiance znów wrze. Walkę o dostęp do budynków historycznych prowadzą dwa zarządy - Klubu Sportowego \"Warszawianka\" i działającej tam spółki tenisowej. Strony zarzucają sobie nawzajem działanie na szkodę. Interweniowała policja. To kolejny rozdział długoletniej batalii o to miejsce."
-    },
-    {
-      "title": "\"Powiedział żonie, że czuje piekący ból i zasłabł\". Życie uratował mu policjant",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/zuromin-policjant-w-dniu-wolnym-od-sluzby-uratowal-zycie-mezczyzny-po-zawale-st8839492?source=rss",
-      "pubDate": "Sat, 10 Jan 2026 10:32:00 GMT",
-      "description": "Policjant w dniu wolnym od służby ratował życie 72-letniemu mężczyźnie. Mundurowy podjął resuscytację krążeniowo-oddechową mężczyzny, który bez funkcji życiowych siedział w samochodzie.",
-      "originalTitle": "\"Powiedział żonie, że czuje piekący ból i zasłabł\". Życie uratował mu policjant",
-      "originalDescription": "Policjant w dniu wolnym od służby ratował życie 72-letniemu mężczyźnie. Mundurowy podjął resuscytację krążeniowo-oddechową mężczyzny, który bez funkcji życiowych siedział w samochodzie."
-    },
-    {
-      "title": "Mróz w Polsce. Z zimna zmarły trzy osoby. Apel strażaków i policji",
-      "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-z-zimna-zmarly-trzy-osoby-apel-strazakow-i-policji-st8839526?source=rss",
-      "pubDate": "Sat, 10 Jan 2026 10:19:44 GMT",
-      "description": "Mróz w Polsce nie odpuszcza. Trzy osoby zmarły w wyniku wychłodzenia w piątek. Jak podało Rządowe Centrum Bezpieczeństwa, do zgonów doszło w województwie lubelskim. Policja zaapelowała o zgłaszanie pod numer 112 osób, które mogą potrzebować pomocy.",
-      "originalTitle": "Mróz w Polsce. Z zimna zmarły trzy osoby. Apel strażaków i policji",
-      "originalDescription": "Mróz w Polsce nie odpuszcza. Trzy osoby zmarły w wyniku wychłodzenia w piątek. Jak podało Rządowe Centrum Bezpieczeństwa, do zgonów doszło w województwie lubelskim. Policja zaapelowała o zgłaszanie pod numer 112 osób, które mogą potrzebować pomocy."
-    },
-    {
-      "title": "Żądał pieniędzy, groził nożem. Podejrzewany w rękach policji",
-      "link": "https://tvn24.pl/lubuskie/gorzow-wielkopolski-rozboj-w-dwoch-sklepach-policja-zatrzymala-podejrzewanego-mezczyzne-st8839480?source=rss",
-      "pubDate": "Sat, 10 Jan 2026 10:03:00 GMT",
-      "description": "Policjanci zatrzymali mężczyznę podejrzewanego o napady, do których doszło tydzień temu w Gorzowie Wielkopolskim. Sprawca wszedł wtedy do dwóch sklepów i grożąc nożem, zażądał wydania gotówki.",
-      "originalTitle": "Żądał pieniędzy, groził nożem. Podejrzewany w rękach policji",
-      "originalDescription": "Policjanci zatrzymali mężczyznę podejrzewanego o napady, do których doszło tydzień temu w Gorzowie Wielkopolskim. Sprawca wszedł wtedy do dwóch sklepów i grożąc nożem, zażądał wydania gotówki."
-    },
-    {
-      "title": "Użycie przez Rosję rakiety Oriesznik \"komunikatem strategicznym\" i \"wyzwaniem dla Warszawy\"",
-      "link": "https://tvn24.pl/swiat/uzycie-przez-rosje-rakiety-oriesznik-komunikatem-strategicznym-i-wyzwaniem-dla-warszawy-st8839325?source=rss",
-      "pubDate": "Sat, 10 Jan 2026 09:56:40 GMT",
-      "description": "Prezydent Ukrainy Wołodymyr Zełenski ocenił, że zastosowanie przez Rosję rakiety balistycznej Oriesznik było ze strony Moskwy bardzo demonstracyjnym krokiem. Wywiad brytyjski stwierdził, że miało być to \"komunikatem strategicznym\".",
-      "originalTitle": "Użycie przez Rosję rakiety Oriesznik \"komunikatem strategicznym\" i \"wyzwaniem dla Warszawy\"",
-      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski ocenił, że zastosowanie przez Rosję rakiety balistycznej Oriesznik było ze strony Moskwy bardzo demonstracyjnym krokiem. Wywiad brytyjski stwierdził, że miało być to \"komunikatem strategicznym\"."
-    },
-    {
-      "title": "Pół wieku i koniec. Zrywają współpracę po przejęciu Trumpa",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-waszyngtonska-opera-narodowa-po-50-latach-zrywa-wspolprace-po-przejeciu-kennedy-center-przez-donalda-trumpa-st8839511?source=rss",
-      "pubDate": "Sat, 10 Jan 2026 09:53:27 GMT",
-      "description": "Waszyngtońska Opera Narodowa kończy współpracę z Kennedy Center. Decyzję ogłosiły w piątek obie instytucje. To kolejny przypadek, gdy duży podmiot ze świata kultury dystansuje się od centrum po przejęciu przez prezydenta USA Donalda Trumpa i jego politycznych sojuszników.",
-      "originalTitle": "Pół wieku i koniec. Zrywają współpracę po przejęciu Trumpa",
-      "originalDescription": "Waszyngtońska Opera Narodowa kończy współpracę z Kennedy Center. Decyzję ogłosiły w piątek obie instytucje. To kolejny przypadek, gdy duży podmiot ze świata kultury dystansuje się od centrum po przejęciu przez prezydenta USA Donalda Trumpa i jego politycznych sojuszników."
-    },
-    {
-      "title": "Zbiórka na hollywoodzkiego aktora, metamorfoza Jackmana, powrót Bruno Marsa",
-      "link": "https://tvn24.pl/kultura-i-styl/najciekawsze-nowosci-na-duzym-i-malym-ekranie-co-warto-obejrzec-kadr-na-kino-w-tvn24-st6430598?source=rss",
-      "pubDate": "Sat, 10 Jan 2026 09:47:00 GMT",
-      "description": "Serial \"The Pitt\" wraca do streamingu. Do kin wchodzi nowy film z Sydney Sweeney w roli głównej. W USA trwa burza wokół zbiórki na znanego aktora Mickeya Rourke'a. W najnowszym \"Kadrze na kino\" Ewelina Witenberg opowiedziała o najgorętszych newsach ze świata kultury i showbiznesu.",
-      "originalTitle": "Zbiórka na hollywoodzkiego aktora, metamorfoza Jackmana, powrót Bruno Marsa",
-      "originalDescription": "Serial \"The Pitt\" wraca do streamingu. Do kin wchodzi nowy film z Sydney Sweeney w roli głównej. W USA trwa burza wokół zbiórki na znanego aktora Mickeya Rourke'a. W najnowszym \"Kadrze na kino\" Ewelina Witenberg opowiedziała o najgorętszych newsach ze świata kultury i showbiznesu."
     }
   ]
 }
