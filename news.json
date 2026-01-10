@@ -1,8 +1,24 @@
 {
-  "lastUpdate": "2026-01-10T05:07:25.181Z",
+  "lastUpdate": "2026-01-10T05:38:30.257Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Niemcy rozważają przekazanie okrętu Polsce",
+      "link": "https://tvn24.pl/polska/szef-monachijskiej-konferencji-bezpieczenstwa-niemcy-moglyby-przekazac-polsce-okret-podwodny-lub-fregate-st8839329?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 05:36:08 GMT",
+      "description": "• Niemcy mogłyby przekazać Polsce okręt podwodny lub fregatę.\n• Oświadczenie to zostało złożone przez szefa Monachijskiej Konferencji Bezpieczeństwa.\n• Szefem Monachijskiej Konferencji Bezpieczeństwa jest Wolfgang Ischinger.\n• Oświadczenie dotyczy tematu reparacji wojennych.",
+      "originalTitle": "Szef Monachijskiej Konferencji Bezpieczeństwa: Niemcy mogłyby przekazać Polsce okręt podwodny lub fregatę",
+      "originalDescription": "Niemcy mogłyby przekazać Polsce okręt podwodny lub fregatę - powiedział, nawiązując do tematu reparacji wojennych, szef Monachijskiej Konferencji Bezpieczeństwa Wolfgang Ischinger."
+    },
+    {
+      "title": "Amerykanie zablokowali lot kubańskiego samolotu do Caracas",
+      "link": "https://tvn24.pl/swiat/media-amerykanie-udaremnili-ladowanie-w-caracas-samolotu-kubanskiego-rzadu-st8839327?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 05:08:00 GMT",
+      "description": "• Niezależne media kubańskie poinformowały o udaremnieniu lądowania samolotu rządu Kuby.\n• Samolot został wysłany do Wenezueli.\n• Maszyna nie mogła zbliżyć się do portu lotniczego w Caracas.\n• Przyczyną było krążące nad Morzem Karaibskim drony.\n• Drony krążyły nad Morzem Karaibskim.\n• Siły USA były odpowiedzialne za udaremnienie lądowania samolotu.",
+      "originalTitle": "Media: Amerykanie udaremnili lądowanie w Caracas samolotu kubańskiego rządu",
+      "originalDescription": "Niezależne media kubańskie poinformowały, że siły USA udaremniły lądowanie samolotu rządu Kuby wysłanego do Wenezueli. Maszyna nie mogła zbliżyć się do portu lotniczego w Caracas z powodu krążącego nad Morzem Karaibskim drona."
+    },
     {
       "title": "Akcja ratunkowa w kopalni zakończona",
       "link": "https://tvn24.pl/polska/kopalnia-miedzi-polkowice-sieroszowice-akcja-ratunkowa-gornik-byl-uwieziony-w-koparce-st8839280?source=rss",
@@ -12,10 +28,10 @@
       "originalDescription": "Górnik uwięziony w kopalni Polkowice-Sieroszowice na Dolnym Śląsku został uwolniony i bezpiecznie przetransportowany na powierzchnię. \"Jego stan jest dobry, a życiu nie zagraża niebezpieczeństwo\" - poinformował rzecznik KGHM Polska Artur Newecki."
     },
     {
-      "title": "Wenezuela i USA: rozmowy o relacjach",
+      "title": "Wenezuela chce przywrócić relacje z USA. Opozycjonista Gonzalez apeluje o uznanie go za prezydenta",
       "link": "https://tvn24.pl/swiat/wenezuela-chce-przywrocic-relacje-z-usa-opozycjonista-gonzalez-apeluje-o-uznanie-go-za-prezydenta-st8839326?source=rss",
       "pubDate": "Sat, 10 Jan 2026 04:29:00 GMT",
-      "description": "• Władze w Caracas starają się o przywrócenie relacji ze Stanami Zjednoczonymi.\n• Pełniąca obowiązki prezydenta Wenezueli to Delcy Rodriguez.\n• Delcy Rodriguez zabiega o możliwość wizyty w Białym Domu.\n• Informację o staraniach Delcy Rodriguez podaje dziennik \"ABC\".\n• Wenezuelski opozycjonista Edmundo Gonzalez Urrutia przebywa na uchodźstwie.\n• Edmundo Gonzalez Urrutia chce aby uznać jego zwycięstwo w wyborach prezydenckich.\n• Wybory prezydenckie, w których Edmundo Gonzalez Urrutia chce uznać swoje zwycięstwo, odbyły się w 2024 roku.",
+      "description": "Władze w Caracas starają się o przywrócenie relacji ze Stanami Zjednoczonymi. Pełniąca obowiązki prezydenta Wenezueli Delcy Rodriguez zabiega o możliwość wizyty w Białym Domu - donosi dziennik \"ABC\". Jednocześnie Wenezuelski opozycjonista Edmundo Gonzalez Urrutia, przebywający na uchodźstwie, chce aby uznać jego zwycięstwo w wyborach prezydenckich z 2024 roku.",
       "originalTitle": "Wenezuela chce przywrócić relacje z USA. Opozycjonista Gonzalez apeluje o uznanie go za prezydenta",
       "originalDescription": "Władze w Caracas starają się o przywrócenie relacji ze Stanami Zjednoczonymi. Pełniąca obowiązki prezydenta Wenezueli Delcy Rodriguez zabiega o możliwość wizyty w Białym Domu - donosi dziennik \"ABC\". Jednocześnie Wenezuelski opozycjonista Edmundo Gonzalez Urrutia, przebywający na uchodźstwie, chce aby uznać jego zwycięstwo w wyborach prezydenckich z 2024 roku."
     },
@@ -66,22 +82,6 @@
       "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem w nocy. W wielu województwach temperatura spadnie poniżej -15 stopni Celsjusza. Sprawdź, gdzie przygotować się na dotkliwy chłód.",
       "originalTitle": "Czeka nas mroźna noc. Ostrzeżenia w 11 województwach",
       "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem w nocy. W wielu województwach temperatura spadnie poniżej -15 stopni Celsjusza. Sprawdź, gdzie przygotować się na dotkliwy chłód."
-    },
-    {
-      "title": "Europa Zachodnia walczy z burzą Goretti. Problemy z transportem i prądem",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-goretti-uderzyla-w-wielka-brytanie-i-francje-ranni-nie-kursuja-pociagi-st8837884?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 10:48:00 GMT",
-      "description": "Burza Goretti wywołała poważne problemy w Wielkiej Brytanii i Francji. Żywioł sparaliżował transport oraz pozbawił prądu setki tysięcy odbiorców. W Hiszpanii wiatr przyniesiony przez burzę doprowadził do śmierci mężczyzny.",
-      "originalTitle": "Europa Zachodnia walczy z burzą Goretti. Problemy z transportem i prądem",
-      "originalDescription": "Burza Goretti wywołała poważne problemy w Wielkiej Brytanii i Francji. Żywioł sparaliżował transport oraz pozbawił prądu setki tysięcy odbiorców. W Hiszpanii wiatr przyniesiony przez burzę doprowadził do śmierci mężczyzny."
-    },
-    {
-      "title": "Spłonął dom na drzewie",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-splonal-dom-na-drzewie-st8839249?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 20:17:48 GMT",
-      "description": "W piątek po południu zapalił się nietypowy dom na drzewie. W akcji gaśniczej brały udział cztery zastępy strażaków. Nie było osób poszkodowanych.",
-      "originalTitle": "Spłonął dom na drzewie",
-      "originalDescription": "W piątek po południu zapalił się nietypowy dom na drzewie. W akcji gaśniczej brały udział cztery zastępy strażaków. Nie było osób poszkodowanych."
     }
   ]
 }
