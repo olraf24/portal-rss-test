@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-10T00:24:34.953Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-10T00:50:01.254Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nagranie z telefonu agenta w Minneapolis ujawnione",
+      "link": "https://tvn24.pl/swiat/nagranie-wykonane-przez-agenta-ice-ktory-zastrzelil-kobiete-w-minneapolis-st8839272?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 21:50:49 GMT",
+      "description": "• Agent imigracyjny zastrzelił kobietę prowadzącą samochód w Minneapolis.\n• Zastrzelenie nastąpiło w środę.\n• Agent zaczął nagrywać interwencję kilkadziesiąt sekund wcześniej.\n• Materiał z nagrania opublikowały amerykańskie media.\n• Amerykańskie media szczegółowo opisały nagranie.\n• Nagranie pokazał także Biały Dom.",
+      "originalTitle": "47 sekund oczami agenta w Minneapolis. Dotarli do nagrania z jego telefonu",
+      "originalDescription": "Agent imigracyjny, który w środę zastrzelił kobietę prowadzącą samochód w Minneapolis, kilkadziesiąt sekund wcześniej zaczął nagrywać interwencję. Materiał opublikowały amerykańskie media i szczegółowo go opisały. Nagranie pokazał też Biały Dom."
+    },
+    {
+      "title": "Mer Lwowa komentuje atak pociskiem Oriesznik",
+      "link": "https://tvn24.pl/swiat/mer-lwowa-atak-pociskiem-oriesznik-byl-sygnalem-st8839163?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 21:14:12 GMT",
+      "description": "• Putin wykorzystuje Oriesznika jako broń psychologiczną, żeby pokazać, co może stać się dalej.\n• Pocisk do Lwowa leci od sześciu do ośmiu minut.\n• Pocisk do Warszawy leciałby tylko 30 sekund dłużej niż do Lwowa.\n��� Andrij Sadowy oceniał sytuację w \"Faktach po Faktach\".\n• Andrij Sadowy jest merem Lwowa.\n• Rosjanie dokonali uderzenia hipersonicznym pociskiem balistycznym w Lwów w czwartek.",
+      "originalTitle": "Mer Lwowa: atak pociskiem Oriesznik był sygnałem",
+      "originalDescription": "Putin wykorzystuje Oriesznika jako broń psychologiczną, żeby pokazać, co może stać się dalej, bo ten pocisk do Lwowa leci od sześciu do ośmiu minut, a do Warszawy leciałby tylko 30 sekund dłużej - oceniał w \"Faktach po Faktach\" Andrij Sadowy. Mer Lwowa odniósł się w ten sposób do czwartkowego uderzenia Rosjan hipersonicznym pociskiem balistycznym w jego miasto."
+    },
+    {
+      "title": "Akcja ratunkowa górnika w koparce",
+      "link": "https://tvn24.pl/polska/kopalnia-miedzi-polkowice-sieroszowice-akcja-ratunkowa-gornik-uwieziony-w-koparce-st8839280?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 21:00:36 GMT",
+      "description": "• Po zawale skał w kopalni miedzi Polkowice-Sieroszowice na Dolnym Śląsku trwa akcja ratunkowa.\n• W kopalni miedzi Polkowice-Sieroszowice na Dolnym Śląsku doszło do zawalenia skał.\n• Zawalenie skał miało miejsce w koparce.\n• W koparce jest uwięziony jej operator.",
+      "originalTitle": "Górnik uwięziony w koparce, trwa akcja ratunkowa",
+      "originalDescription": "Po zawale skał w kopalni miedzi Polkowice-Sieroszowice na Dolnym Śląsku trwa akcja ratunkowa. W koparce jest uwięziony jej operator."
+    },
+    {
+      "title": "Ostrzeżenia przed mrozem w 11 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-ostrzezenia-imgw-9-10-01-tu-mroz-moze-powodowac-zagrozenie-zdrowia-i-zycia-mapa-st8831653?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:28:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem w nocy. W wielu województwach temperatura spadnie poniżej -15 stopni Celsjusza. Sprawdź, gdzie przygotować się na dotkliwy chłód.",
+      "originalTitle": "Czeka nas mroźna noc. Ostrzeżenia w 11 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym mrozem w nocy. W wielu województwach temperatura spadnie poniżej -15 stopni Celsjusza. Sprawdź, gdzie przygotować się na dotkliwy chłód."
+    },
+    {
+      "title": "Burza Goretti dotyka Europy Zachodniej",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-goretti-uderzyla-w-wielka-brytanie-i-francje-ranni-nie-kursuja-pociagi-st8837884?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 10:48:00 GMT",
+      "description": "Burza Goretti wywołała poważne problemy w Wielkiej Brytanii i Francji. Żywioł sparaliżował transport oraz pozbawił prądu setki tysięcy odbiorców. W Hiszpanii wiatr przyniesiony przez burzę doprowadził do śmierci mężczyzny.",
+      "originalTitle": "Europa Zachodnia walczy z burzą Goretti. Problemy z transportem i prądem",
+      "originalDescription": "Burza Goretti wywołała poważne problemy w Wielkiej Brytanii i Francji. Żywioł sparaliżował transport oraz pozbawił prądu setki tysięcy odbiorców. W Hiszpanii wiatr przyniesiony przez burzę doprowadził do śmierci mężczyzny."
+    },
+    {
+      "title": "Pożar domu na drzewie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-splonal-dom-na-drzewie-st8839249?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 20:17:48 GMT",
+      "description": "W piątek po południu zapalił się nietypowy dom na drzewie. W akcji gaśniczej brały udział cztery zastępy strażaków. Nie było osób poszkodowanych.",
+      "originalTitle": "Spłonął dom na drzewie",
+      "originalDescription": "W piątek po południu zapalił się nietypowy dom na drzewie. W akcji gaśniczej brały udział cztery zastępy strażaków. Nie było osób poszkodowanych."
+    },
+    {
+      "title": "Polski generał zatrzymany przed Pentagonem",
+      "link": "https://tvn24.pl/polska/polski-general-nie-wpuszczony-do-pentagonu-przez-ludzi-prezydenta-karola-nawrockiego-cezary-tomczyk-amerykanie-byli-w-szoku-st8839250?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 20:13:57 GMT",
+      "description": "• Ktoś, kto pozwolił na to, żeby polski attaché wojskowy nie został wpuszczony na rozmowy z przedstawicielami USA, jest idiotą z punktu widzenia interesów państwa.\n• Oceny tej dokonał wiceminister obrony Cezary Tomczyk.\n• Wypowiedź Cezarego Tomczyka miała miejsce w programie \"#BezKitu\" w TVN24.",
+      "originalTitle": "Polski generał \"został w samochodzie przed Pentagonem\". Amerykanie \"zszokowani\"",
+      "originalDescription": "Ktoś, kto pozwolił na to, żeby polski attaché wojskowy nie został wpuszczony na rozmowy z przedstawicielami USA, jest idiotą z punktu widzenia interesów państwa - ocenił w \"#BezKitu\" w TVN24 wiceminister obrony Cezary Tomczyk."
+    },
+    {
+      "title": "Nagroda w Eurojackpot wynosi 100 mln",
+      "link": "https://tvn24.pl/biznes/z-kraju/eurojackpot-wyniki-z-9-stycznia-2026-jakie-liczby-padly-w-trakcie-losowania-st8839256?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 20:02:34 GMT",
+      "description": "W piątkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 100 milionów złotych. Najwyższe były nagrody drugiego stopnia, które odnotowano w Danii i Niemczech. Oto wyniki losowania Eurojackpot z 9 stycznia 2026 roku.",
+      "originalTitle": "100 milionów do wygrania w Eurojackpot",
+      "originalDescription": "W piątkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 100 milionów złotych. Najwyższe były nagrody drugiego stopnia, które odnotowano w Danii i Niemczech. Oto wyniki losowania Eurojackpot z 9 stycznia 2026 roku."
+    },
+    {
+      "title": "Grabiec o wecie prezydenta: chodzi głównie o manifestację",
+      "link": "https://tvn24.pl/polska/jan-grabiec-o-wecie-prezydenta-chodzi-glownie-o-manifestacje-polityczna-st8839218?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 19:54:57 GMT",
+      "description": "Myślę, że prezydent chciał zrównoważyć spotkanie z Donaldem Tuskiem czymś negatywnym. Jakąś łyżką dziegciu dla rządu. Najgorsze jest, że trafia to na ustawy, które mają znaczenie dla obywateli - powiedział w \"Faktach po Faktach\" w TVN24 szef Kancelarii Prezesa Rady Ministrów Jan Grabiec. Skomentował decyzję prezydenta Karola Nawrockiego o zawetowaniu między innymi noweli umożliwiającej blokowanie nielegalnych treści w internecie.",
+      "originalTitle": "Grabiec o wecie prezydenta: chodzi głównie o manifestację",
+      "originalDescription": "Myślę, że prezydent chciał zrównoważyć spotkanie z Donaldem Tuskiem czymś negatywnym. Jakąś łyżką dziegciu dla rządu. Najgorsze jest, że trafia to na ustawy, które mają znaczenie dla obywateli - powiedział w \"Faktach po Faktach\" w TVN24 szef Kancelarii Prezesa Rady Ministrów Jan Grabiec. Skomentował decyzję prezydenta Karola Nawrockiego o zawetowaniu między innymi noweli umożliwiającej blokowanie nielegalnych treści w internecie."
+    },
+    {
+      "title": "Powodzie w Albanii. \"To już trzeci raz, gdy doświadczamy takiej sytuacji\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-albanii-to-juz-trzeci-raz-gdy-doswiadczamy-takiej-sytuacji-st8839080?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 19:52:08 GMT",
+      "description": "Zachodnią Albanię nawiedziły poważne powodzie. Pod wodą znalazły się setki domów, wiele dróg i hektary pól uprawnych. Według mieszkańców to nie pierwsza taka sytuacja w ostatnich latach.",
+      "originalTitle": "Powodzie w Albanii. \"To już trzeci raz, gdy doświadczamy takiej sytuacji\"",
+      "originalDescription": "Zachodnią Albanię nawiedziły poważne powodzie. Pod wodą znalazły się setki domów, wiele dróg i hektary pól uprawnych. Według mieszkańców to nie pierwsza taka sytuacja w ostatnich latach."
+    }
+  ]
 }
