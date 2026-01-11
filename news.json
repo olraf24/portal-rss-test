@@ -1,8 +1,24 @@
 {
-  "lastUpdate": "2026-01-11T08:08:00.988Z",
+  "lastUpdate": "2026-01-11T08:41:03.120Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Wypadek przy torach kolejowych, jedna osoba zmarła",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wrzosow-minsk-mazowiecki-smiertelny-wypadek-na-torach-kierowca-nie-zyje-st8840584?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 08:39:42 GMT",
+      "description": "• W niedzielę doszło do wypadku na trasie Warszawa-Siedlce.\n• Wypadku uległ kierujący autem osobowym.\n• Kierujący wjechał na tory wprost pod nadjeżdżający pociąg.\n• Wypadek miał miejsce w godzinach porannych.\n• Mężczyzna zginął na miejscu.",
+      "originalTitle": "Wjechał pod rozpędzony pociąg. Nie żyje",
+      "originalDescription": "W niedzielę w godzinach porannych na trasie Warszawa-Siedlce kierujący autem osobowym wjechał na tory wprost pod nadjeżdżający pociąg. Mężczyzna zginął na miejscu."
+    },
+    {
+      "title": "Pożar w mieszkaniu, jedna osoba zmarła",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/chelmno-pozar-mieszkania-jest-ofiara-smiertelna-st8840571?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 08:28:33 GMT",
+      "description": "• Pożar wybuchł w jednym z mieszkań w Chełmnie.\n• Chełmno znajduje się w województwie Kujawsko-Pomorskim.\n• Ze środka strażacy ewakuowali 65-latka.\n• Życia mężczyzny nie udało się uratować.",
+      "originalTitle": "Pożar mieszkania, jest ofiara śmiertelna",
+      "originalDescription": "Pożar w jednym z mieszkań w Chełmnie (Kujawsko-Pomorskie). Ze środka strażacy ewakuowali 65-latka. Życia mężczyzny nie udało się uratować."
+    },
     {
       "title": "Opóźnienia lotów w Gdańsku",
       "link": "https://tvn24.pl/tvnmeteo/polska/snieg-w-polsce-trudne-warunki-interwencje-po-sniezycach-st8840426?source=rss",
@@ -12,7 +28,7 @@
       "originalDescription": "Śnieg i mróz od rana dają się we znaki w Polsce. W nocy najobfitsze opady śniegu wystąpiły na północy kraju, a miejscami dosypało ponad 10 centymetrów. Na lotnisku w Gdańsku odwołane zostało kilkanaście lotów."
     },
     {
-      "title": "Iran ostrzega USA przed odpowiedzią na atak",
+      "title": "Iran ostrzega Stany Zjednoczone",
       "link": "https://tvn24.pl/swiat/iran-ostrzega-usa-kazdy-wasz-atak-spotka-sie-z-odpowiedzia-st8840489?source=rss",
       "pubDate": "Sun, 11 Jan 2026 07:58:52 GMT",
       "description": "Przewodniczący irańskiego parlamentu ostrzegł Waszyngton, że próba ingerencji w sytuację wewnętrzną w tym kraju spotka się ze zbrojnym odwetem. Prezydent Trump stwierdził w sobotę, że USA \"gotowe są pomóc\" demonstrującym Irańczykom.",
@@ -20,7 +36,7 @@
       "originalDescription": "Przewodniczący irańskiego parlamentu ostrzegł Waszyngton, że próba ingerencji w sytuację wewnętrzną w tym kraju spotka się ze zbrojnym odwetem. Prezydent Trump stwierdził w sobotę, że USA \"gotowe są pomóc\" demonstrującym Irańczykom."
     },
     {
-      "title": "Wzrasta kumulacja w Lotto",
+      "title": "Rośnie kumulacja w Lotto",
       "link": "https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-10-stycznia-2026-jakie-liczby-padly-w-trakcie-ostatniego-losowania-st8840520?source=rss",
       "pubDate": "Sun, 11 Jan 2026 07:46:40 GMT",
       "description": "W sobotnim losowaniu Lotto nikomu nie udało się wytypować poprawnie wszystkich sześciu liczb. W efekcie kumulacja rośnie do trzech milionów złotych. Oto wyniki Lotto i Lotto Plus z 10 stycznia 2026 roku.",
@@ -31,9 +47,9 @@
       "title": "Hala magazynowa w ogniu. Z pożarem walczy kilkadziesiąt zastępów strażaków",
       "link": "https://tvn24.pl/poznan/tarnowo-podgorne-pozar-budynku-magazynowego-st8840494?source=rss",
       "pubDate": "Sun, 11 Jan 2026 07:40:29 GMT",
-      "description": "Pożar hali magazynowej w Tarnowie Podgórnym pod Poznaniem. 30 zastępów straży pożarnej zostało zadysponowanych w niedzielę do walki z ogniem, który objął obiekt o powierzchni 12 tysięcy metrów kwadratowych. Nie ma informacji o ofiarach.",
+      "description": "Pożar hali magazynowej w Tarnowie Podgórnym pod Poznaniem. 42 zastępy straży pożarnej zostały zadysponowane w niedzielę do walki z ogniem, który objął powierzchnię około czterech tysięcy metrów kwadratowych. Nie ma informacji o ofiarach.",
       "originalTitle": "Hala magazynowa w ogniu. Z pożarem walczy kilkadziesiąt zastępów strażaków",
-      "originalDescription": "Pożar hali magazynowej w Tarnowie Podgórnym pod Poznaniem. 30 zastępów straży pożarnej zostało zadysponowanych w niedzielę do walki z ogniem, który objął obiekt o powierzchni 12 tysięcy metrów kwadratowych. Nie ma informacji o ofiarach."
+      "originalDescription": "Pożar hali magazynowej w Tarnowie Podgórnym pod Poznaniem. 42 zastępy straży pożarnej zostały zadysponowane w niedzielę do walki z ogniem, który objął powierzchnię około czterech tysięcy metrów kwadratowych. Nie ma informacji o ofiarach."
     },
     {
       "title": "Śniegu po okna, zasypane auta. Atak zimy na waszych zdjęciach",
@@ -60,28 +76,12 @@
       "originalDescription": "Jesteśmy z rodzinami, jesteśmy z ofiarami, z osobami, które cierpią - oświadczyła wiceburmistrz kurortu Crans-Montana, w którym w noc sylwestrową wybuchł tragiczny pożar. Jak przyznała, \"w kwestii kontroli doszło do zaniedbań\"."
     },
     {
-      "title": "Ewakuacja kilkuset turystów z Sokotry",
+      "title": "Kilkuset turystów ewakuowano z Sokotry",
       "link": "https://tvn24.pl/swiat/jemen-kilkuset-turystow-ewakuowano-z-sokotry-st8840383?source=rss",
       "pubDate": "Sun, 11 Jan 2026 06:00:21 GMT",
       "description": "Ministerstwo spraw zagranicznych Jemenu poinformowało, że ponad 600 turystów zostało ewakuowanych z Sokotry do Arabii Saudyjskiej. To efekt wcześniejszego przywrócenia ruchu lotniczego na wyspie.",
       "originalTitle": "Kilkuset turystów ewakuowano z Sokotry",
       "originalDescription": "Ministerstwo spraw zagranicznych Jemenu poinformowało, że ponad 600 turystów zostało ewakuowanych z Sokotry do Arabii Saudyjskiej. To efekt wcześniejszego przywrócenia ruchu lotniczego na wyspie."
-    },
-    {
-      "title": "Katastrofa awionetki w Kolumbii. Wśród ofiar znany muzyk",
-      "link": "https://tvn24.pl/swiat/yeison-jimenez-zginal-w-katastrofie-samolotu-w-kolumbii-szesc-ofiar-st8840394?source=rss",
-      "pubDate": "Sun, 11 Jan 2026 05:51:52 GMT",
-      "description": "Popularny kolumbijski muzyk Yeison Jimenez jest wśród sześciu śmiertelnych ofiar sobotniej katastrofy samolotu w Kolumbii. Maszyna kierowała się do miasta Medellin i z nieznanych przyczyn spadła na ziemię.",
-      "originalTitle": "Katastrofa awionetki w Kolumbii. Wśród ofiar znany muzyk",
-      "originalDescription": "Popularny kolumbijski muzyk Yeison Jimenez jest wśród sześciu śmiertelnych ofiar sobotniej katastrofy samolotu w Kolumbii. Maszyna kierowała się do miasta Medellin i z nieznanych przyczyn spadła na ziemię."
-    },
-    {
-      "title": "Ostrzeżenia IMGW. Tam śnieg będzie sypać cały dzień",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-11-01-sniezyce-w-polsce-zawieje-i-zamiecie-silny-mroz-i-wiatr-st8831653?source=rss",
-      "pubDate": "Sun, 11 Jan 2026 05:51:00 GMT",
-      "description": "IMGW wydał alarmy meteorologiczne. W niedzielę w większości regionów spodziewane są zimowe warunki - miejscami ma intensywnie sypać śnieg, wystąpią też zawieje i zamiecie. Wydano ostrzeżenia pierwszego i drugiego stopnia.",
-      "originalTitle": "Ostrzeżenia IMGW. Tam śnieg będzie sypać cały dzień",
-      "originalDescription": "IMGW wydał alarmy meteorologiczne. W niedzielę w większości regionów spodziewane są zimowe warunki - miejscami ma intensywnie sypać śnieg, wystąpią też zawieje i zamiecie. Wydano ostrzeżenia pierwszego i drugiego stopnia."
     }
   ]
 }
