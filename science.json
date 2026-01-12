@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2026-01-12T14:08:34.755Z",
+  "lastUpdate": "2026-01-12T14:42:33.305Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Podczerwień i sztuczna inteligencja przyspieszają diagnozę endometriozy",
+      "link": "https://dzienniknaukowy.pl/podczerwien-i-sztuczna-inteligencja-przyspieszaja-diagnoze-endometriozy",
+      "pubDate": "Mon, 12 Jan 2026 14:12:53 +0000",
+      "description": "Endometrioza latami potrafi nie dawać jednoznacznego obrazu w badaniach, a jednocześnie realnie niszczy codzienne funkcjonowanie kobiet. Polski zespół naukowców sprawdził, czy da się odróżniać typy choroby nie tylko obrazem z laparoskopii i histopatologii, ale biochemią tkanki mierzoną spektroskopią FTIR."
+    },
     {
       "title": "Nowy rodzaj emiterów światła kwantowego &#8211; na wyciągnięcie ręki",
       "link": "https://dzienniknaukowy.pl/nowy-rodzaj-emiterow-swiatla-kwantowego-na-wyciagniecie-reki",
       "pubDate": "Mon, 12 Jan 2026 13:50:44 +0000",
       "description": "W technologiach kwantowych ważna jest umiejętność uzyskiwania pojedynczych bliźniaczo podobnych fotonów. Badacz z CFT PAN pokazał, jak można poprawić jakość źródeł światła, czyniąc z celu, w który uderza laser - dobre do kontrolowania źródło fotonów."
+    },
+    {
+      "title": "Czy cukier powoduje wzdęcia? Jak dieta bogata w sacharozę wpływa na jelita",
+      "link": "https://dzienniknaukowy.pl/czy-cukier-powoduje-wzdecia-jak-dieta-bogata-w-sacharoze-wplywa-na-jelita",
+      "pubDate": "Mon, 12 Jan 2026 09:15:00 +0000",
+      "description": "Cukier jest obecny w diecie większości z nas – nie tylko pod postacią słodyczy, ale też w wielu produktach przetworzonych. Choć nadaje potrawom przyjemny smak, jego nadmiar może odbić się na kondycji układu pokarmowego. W jaki sposób sacharoza wpływa na pracę jelit i dlaczego u niektórych osób wiąże się ona z uciążliwymi dolegliwościami z ich strony?"
     },
     {
       "title": "Radość z cudzego niepowodzenia złapana w eksperymencie",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/oszczednosc-w-modzie-jak-i-dlaczego-polacy-odkladaja-pieniadze",
       "pubDate": "Thu, 08 Jan 2026 08:55:00 +0000",
       "description": "Z danych opublikowanych przez Polską Agencję Prasową wynika, że zdecydowana większość Polaków deklaruje odkładanie pieniędzy. Według badania odsetek ten sięga niemal 75 proc. respondentów, co potwierdza, że oszczędzanie stało się powszechną praktyką finansową. Na szczególną uwagę zasługują jednak nie tylko same deklaracje, lecz także motywacje stojące za budowaniem indywidualnych rezerw finansowych oraz formy, po jakie sięgają oszczędzający."
-    },
-    {
-      "title": "Mózg na wypasie &#8211; pierwsze terapeutyczne stado owiec",
-      "link": "https://dzienniknaukowy.pl/mozg-na-wypasie-pierwsze-terapeutyczne-stado-owiec",
-      "pubDate": "Wed, 07 Jan 2026 12:33:50 +0000",
-      "description": "W dobie rosnącego zainteresowania wpływem natury na zdrowie psychiczne człowieka, naukowcy z Uniwersytetu Przyrodniczego w Poznaniu we współpracy z OneHealth Polska uruchomili pionierski projekt. Pierwsze w Polsce, a najprawdopodobniej i na świecie, stado owiec o charakterze wyłącznie terapeutycznym"
-    },
-    {
-      "title": "Polska firma z umową z ESA na realizację fazy A misji Twardowski",
-      "link": "https://dzienniknaukowy.pl/polska-firma-z-umowa-z-esa-na-realizacje-fazy-a-misji-twardowski",
-      "pubDate": "Wed, 07 Jan 2026 10:49:38 +0000",
-      "description": "Creotech Instruments podpisał z Europejską Agencją Kosmiczną (ESA) umowę na realizację fazy A misji Twardowski, pierwszej od ponad 20 lat w pełni europejskiej misji księżycowej. Wartość fazy A projektu wynosi 500 tys. euro"
     }
   ]
 }
