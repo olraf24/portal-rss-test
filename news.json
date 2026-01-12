@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-12T09:44:18.971Z",
+  "lastUpdate": "2026-01-12T10:08:21.064Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Szefowa KE omawia obronę Ukrainy",
+      "title": "Utrudnienia na lotnisku we Frankfurcie z powodu śniegu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/niemcy-frankfurt-sniezyce-i-oblodzenia-powoduja-utrudnienia-na-lotnisku-st8842179?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 10:00:47 GMT",
+      "description": "Zima paraliżuje pracę lotniska w niemieckim Frankfurcie. W poniedziałek odwołano już co najmniej 102 z 1052 planowanych lotów. Służby apelują do turystów o uważne śledzenie komunikatów.",
+      "originalTitle": "Niemcy, Frankfurt. Śnieżyce i oblodzenia powodują utrudnienia na lotnisku",
+      "originalDescription": "Zima paraliżuje pracę lotniska w niemieckim Frankfurcie. W poniedziałek odwołano już co najmniej 102 z 1052 planowanych lotów. Służby apelują do turystów o uważne śledzenie komunikatów."
+    },
+    {
+      "title": "Śmierć mężczyzny podczas policyjnej interwencji",
+      "link": "https://tvn24.pl/bialystok/bialystok-zmarl-w-radiowozie-podczas-policyjnej-interwencji-decyzja-prokuratury-st8842137?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 09:57:08 GMT",
+      "description": "Prokuratura Rejonowa Białystok-Południe umorzyła śledztwo w sprawie śmierci 51-latka podczas policyjnej interwencji. Mężczyzna zmarł w radiowozie, który wiózł go do izby wytrzeźwień. Biegli stwierdzili, że do śmierci nie przyczynili się interweniujący policjanci.",
+      "originalTitle": "Zmarł w radiowozie podczas policyjnej interwencji. Decyzja prokuratury",
+      "originalDescription": "Prokuratura Rejonowa Białystok-Południe umorzyła śledztwo w sprawie śmierci 51-latka podczas policyjnej interwencji. Mężczyzna zmarł w radiowozie, który wiózł go do izby wytrzeźwień. Biegli stwierdzili, że do śmierci nie przyczynili się interweniujący policjanci."
+    },
+    {
+      "title": "Kibice witani z honorami",
+      "link": "https://tvn24.pl/polska/kibice-powitani-jak-zolnierze-slowa-zarezerwowane-dla-szczegolnej-sytuacji-st8841807?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 09:50:11 GMT",
+      "description": "Najpierw było chóralne \"czołem panie prezydencie\", a potem \"czołem kibice\" w wykonaniu prezydenta Karola Nawrockiego. Takie powitanie, bliźniaczo podobne do tradycyjnego powitania Wojska Polskiego przez zwierzchnika sił zbrojnych, można było zobaczyć podczas ogólnopolskiej Patriotycznej Pielgrzymki Kibiców na Jasnej Górze w Częstochowie. - Trzeba postawić pytanie, czy nie został znieważony polski mundur - podkreślała w programie \"W kuluarach\" dziennikarka TVN24 Agata Adamek.",
+      "originalTitle": "Kibice powitani jak żołnierze. \"Słowa zarezerwowane dla szczególnej sytuacji\"",
+      "originalDescription": "Najpierw było chóralne \"czołem panie prezydencie\", a potem \"czołem kibice\" w wykonaniu prezydenta Karola Nawrockiego. Takie powitanie, bliźniaczo podobne do tradycyjnego powitania Wojska Polskiego przez zwierzchnika sił zbrojnych, można było zobaczyć podczas ogólnopolskiej Patriotycznej Pielgrzymki Kibiców na Jasnej Górze w Częstochowie. - Trzeba postawić pytanie, czy nie został znieważony polski mundur - podkreślała w programie \"W kuluarach\" dziennikarka TVN24 Agata Adamek."
+    },
+    {
+      "title": "Rząd szykuje regulacje w sprawie smartfonów. \"To niemożliwe\"",
+      "link": "https://tvn24.pl/biznes/tech/indie-rzad-szykuje-regulacje-w-sprawie-smartfonow-to-niemozliwe-st8842257?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 09:49:45 GMT",
+      "description": "Rząd Indii rozważa wprowadzenie przepisów, które zmusiłyby producentów smartfonów do przekazywania kodów źródłowych państwowym instytucjom. Jak informuje Reuters, propozycja wywołuje opór globalnych koncernów technologicznych, w tym Apple'a i Samsunga.",
+      "originalTitle": "Rząd szykuje regulacje w sprawie smartfonów. \"To niemożliwe\"",
+      "originalDescription": "Rząd Indii rozważa wprowadzenie przepisów, które zmusiłyby producentów smartfonów do przekazywania kodów źródłowych państwowym instytucjom. Jak informuje Reuters, propozycja wywołuje opór globalnych koncernów technologicznych, w tym Apple'a i Samsunga."
+    },
+    {
+      "title": "Pomorze. Tu przez śnieg odwołano lekcje",
+      "link": "https://tvn24.pl/tvnmeteo/polska/snieg-na-pomorzu-tu-przez-snieg-odwolano-lekcje-st8842282?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 09:43:26 GMT",
+      "description": "Śnieżyce w Polsce. Trudne warunki atmosferyczne dają się we znaki mieszkańcom Pomorza. W niektórych gminach ze względu na pogodę odwołano zajęcia dydaktyczne w szkołach i przedszkolach.",
+      "originalTitle": "Pomorze. Tu przez śnieg odwołano lekcje",
+      "originalDescription": "Śnieżyce w Polsce. Trudne warunki atmosferyczne dają się we znaki mieszkańcom Pomorza. W niektórych gminach ze względu na pogodę odwołano zajęcia dydaktyczne w szkołach i przedszkolach."
+    },
+    {
+      "title": "Szefowa Komisji Europejskiej o \"dwóch liniach obrony\" Ukrainy",
       "link": "https://tvn24.pl/swiat/ursula-von-der-leyen-o-gwarancjach-bezpieczenstwa-dla-ukrainy-i-dwoch-liniach-obrony-st8841752?source=rss",
       "pubDate": "Mon, 12 Jan 2026 09:36:34 GMT",
-      "description": "• Ursula von der Leyen podkreśliła, że pierwszą linią obrony Ukrainy będzie \"ukraińskie wojsko\".\n• Drugą linią obrony Ukrainy będzie \"koalicja chętnych\".\n• Szefowa Komisji Europejskiej wyraziła zadowolenie z zaangażowania Amerykan��w w sprawę gwarancji bezpieczeństwa.",
+      "description": "Ursula von der Leyen podkreśliła, że pierwszą linią obrony Ukrainy będzie \"ukraińskie wojsko, drugą - koalicja chętnych\". Szefowa Komisji Europejskiej wyraziła też zadowolenie, że w sprawę gwarancji bezpieczeństwa zaangażowani są Amerykanie.",
       "originalTitle": "Szefowa Komisji Europejskiej o \"dwóch liniach obrony\" Ukrainy",
       "originalDescription": "Ursula von der Leyen podkreśliła, że pierwszą linią obrony Ukrainy będzie \"ukraińskie wojsko, drugą - koalicja chętnych\". Szefowa Komisji Europejskiej wyraziła też zadowolenie, że w sprawę gwarancji bezpieczeństwa zaangażowani są Amerykanie."
     },
     {
-      "title": "Kary dla Zalando i Temu",
+      "title": "Milionowe kary dla Zalando i Temu. \"Wybiórcze, manipulacyjne podawanie cen\"",
       "link": "https://tvn24.pl/biznes/z-kraju/zalando-i-temu-uokik-naklada-wielomilionowe-kary-na-platformy-sprzedazowe-wybiorcze-manipulacyjne-podawanie-cen-st8842154?source=rss",
       "pubDate": "Mon, 12 Jan 2026 09:34:04 GMT",
-      "description": "• Urząd Ochrony Konkurencji i Konsumentów nałożył łącznie niemal 37 milionów złotych kary na platformy Zalando i Temu.\n• Według urzędu, giganci e-commerce manipulowali cenami.\n• Giganci e-commerce nie informowali rzetelnie o najniższej cenie z ostatnich 30 dni.\n• Manipulowanie cenami i brak rzetelnej informacji o najniższej cenie wprowadzało klientów w błąd.\n• Klienci byli wprowadzani w błąd co do rzeczywistej skali rabatów.",
+      "description": "Urząd Ochrony Konkurencji i Konsumentów nałożył łącznie niemal 37 milionów złotych kary na platformy Zalando i Temu. Według urzędu, giganci e-commerce manipulowali cenami i nie informowali rzetelnie o najniższej cenie z ostatnich 30 dni, co wprowadzało klientów w błąd co do rzeczywistej skali rabatów.",
       "originalTitle": "Milionowe kary dla Zalando i Temu. \"Wybiórcze, manipulacyjne podawanie cen\"",
       "originalDescription": "Urząd Ochrony Konkurencji i Konsumentów nałożył łącznie niemal 37 milionów złotych kary na platformy Zalando i Temu. Według urzędu, giganci e-commerce manipulowali cenami i nie informowali rzetelnie o najniższej cenie z ostatnich 30 dni, co wprowadzało klientów w błąd co do rzeczywistej skali rabatów."
     },
     {
-      "title": "Pożar baru po sylwestrze",
+      "title": "Koszmar u stóp schodów. Odkrycie po sylwestrowym pożarze baru",
       "link": "https://tvn24.pl/swiat/szwajcaria-pozar-w-crans-montanie-odkrycie-po-sylwestrowej-tragedii-st8841745?source=rss",
       "pubDate": "Mon, 12 Jan 2026 09:18:54 GMT",
-      "description": "• 34 z 40 ofiar pożaru w szwajcarskim barze znaleziono przy schodach prowadzących z najniższego poziomu na parter.\n• Zwężono schody o połowę przy okazji prowadzonego w 2015 roku remontu.\n• W 2015 roku w lokalu zainstalowano łatwopalną piankę.",
+      "description": "34 z 40 ofiar pożaru w szwajcarskim barze znaleziono przy schodach prowadzących z najniższego poziomu na parter. Włoskie media ustaliły, że zwężono je o połowę przy okazji prowadzonego w 2015 roku remontu. Wtedy też w lokalu zainstalowano łatwopalną piankę.",
       "originalTitle": "Koszmar u stóp schodów. Odkrycie po sylwestrowym pożarze baru",
       "originalDescription": "34 z 40 ofiar pożaru w szwajcarskim barze znaleziono przy schodach prowadzących z najniższego poziomu na parter. Włoskie media ustaliły, że zwężono je o połowę przy okazji prowadzonego w 2015 roku remontu. Wtedy też w lokalu zainstalowano łatwopalną piankę."
     },
     {
-      "title": "Karetka ugrzęzła w śniegu, mieszkańcy pomogli",
+      "title": "Karetka ugrzęzła w śniegu. Ratownikom pomogli mieszkańcy",
       "link": "https://tvn24.pl/lodz/wierzbie-kutno-karetka-ugrzezla-w-sniegu-ratownikom-pomogli-mieszkancy-st8842169?source=rss",
       "pubDate": "Mon, 12 Jan 2026 09:05:52 GMT",
       "description": "Karetka pogotowia należąca do Wojewódzkiej Stacji Ratownictwa Medycznego w Łodzi ugrzęzła w śniegu we wsi Wierzbie pod Kutnem. Ratownikom pomogli mieszkańcy. \"To niezwykle budujące doświadczenie\" - podkreślili medycy, dziękując osobom, który pospieszyły ze wsparciem.",
@@ -42,46 +82,6 @@
       "description": "Śpiąca po swoim weselu para młoda zginęła po wybuchu gazu, do którego doszło w Pakistanie. Stacja BBC przekazuje, że w czasie tragedii zginęło też sześć innych osób - między innymi goście weselni.",
       "originalTitle": "Zostali małżeństwem, zginęli tuż po weselu",
       "originalDescription": "Śpiąca po swoim weselu para młoda zginęła po wybuchu gazu, do którego doszło w Pakistanie. Stacja BBC przekazuje, że w czasie tragedii zginęło też sześć innych osób - między innymi goście weselni."
-    },
-    {
-      "title": "Bloomberg: europejskie państwa omawiają plany zwiększenia obecności wojskowej na Grenlandii",
-      "link": "https://tvn24.pl/swiat/grenlandia-europejskie-panstwa-omawiaja-plany-zwiekszenia-obecnosci-wojskowej-bloomberg-st8842088?source=rss",
-      "pubDate": "Mon, 12 Jan 2026 09:02:21 GMT",
-      "description": "Grupa europejskich krajów, z Wielką Brytanią i Niemcami na czele, omawia plany zwiększenia swojej obecności wojskowej na Grenlandii - poinformowała w niedzielę agencja Bloomberg. Plan ten ma przekonać Donalda Trumpa, że Europa poważnie traktuje bezpieczeństwo w Arktyce.",
-      "originalTitle": "Bloomberg: europejskie państwa omawiają plany zwiększenia obecności wojskowej na Grenlandii",
-      "originalDescription": "Grupa europejskich krajów, z Wielką Brytanią i Niemcami na czele, omawia plany zwiększenia swojej obecności wojskowej na Grenlandii - poinformowała w niedzielę agencja Bloomberg. Plan ten ma przekonać Donalda Trumpa, że Europa poważnie traktuje bezpieczeństwo w Arktyce."
-    },
-    {
-      "title": "\"Sprawiedliwość go nie minie\", \"totalny upadek\". Komentarze po azylu dla Ziobry",
-      "link": "https://tvn24.pl/polska/zbigniew-ziobro-uzyskal-azyl-polityczny-na-wegrzech-komentarz-cezarego-tomczyka-st8842090?source=rss",
-      "pubDate": "Mon, 12 Jan 2026 08:45:56 GMT",
-      "description": "\"Gra na najniższych instynktach\", \"tchórzostwo\", \"wyjątkowo demoralizujące dla całego wymiaru sprawiedliwości\" - tak politycy oceniają ostatnie decyzje Zbigniewa Ziobry. Były prokurator generalny uzyskał azyl polityczny na Węgrzech i wnioskuje o ochronę dla żony.",
-      "originalTitle": "\"Sprawiedliwość go nie minie\", \"totalny upadek\". Komentarze po azylu dla Ziobry",
-      "originalDescription": "\"Gra na najniższych instynktach\", \"tchórzostwo\", \"wyjątkowo demoralizujące dla całego wymiaru sprawiedliwości\" - tak politycy oceniają ostatnie decyzje Zbigniewa Ziobry. Były prokurator generalny uzyskał azyl polityczny na Węgrzech i wnioskuje o ochronę dla żony."
-    },
-    {
-      "title": "Szedł do kościoła, został zabity tłuczkiem. Rusza proces",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-senior-zabity-tluczkiem-na-ulicy-poczatek-procesu-na-lawie-oskarzonych-m-in-wnuczka-st8842144?source=rss",
-      "pubDate": "Mon, 12 Jan 2026 08:37:24 GMT",
-      "description": "Przed Sądem Okręgowym w Gdańsku rozpoczyna się proces trzech osób oskarżonych o zabójstwo ze szczególnym okrucieństwem 78-letniego mężczyzny. Ofiara to dziadek kobiety, która staje przed sądem. Zginął na ulicy, gdy szedł do kościoła.",
-      "originalTitle": "Szedł do kościoła, został zabity tłuczkiem. Rusza proces",
-      "originalDescription": "Przed Sądem Okręgowym w Gdańsku rozpoczyna się proces trzech osób oskarżonych o zabójstwo ze szczególnym okrucieństwem 78-letniego mężczyzny. Ofiara to dziadek kobiety, która staje przed sądem. Zginął na ulicy, gdy szedł do kościoła."
-    },
-    {
-      "title": "Tir przebił bariery, zjechał do rowu i utknął",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-grodzisk-mazowiecki-tir-zjechal-do-rowu-st8842086?source=rss",
-      "pubDate": "Mon, 12 Jan 2026 08:22:02 GMT",
-      "description": "Na S8 na wysokości Grodziska Mazowieckiego tir przebił bariery i zsunął się do rowu. Z kolei na moście Południowym w Warszawie doszło do zderzenia auta osobowego z ciężarowym. Ten drugi pojazd zablokował pas.",
-      "originalTitle": "Tir przebił bariery, zjechał do rowu i utknął",
-      "originalDescription": "Na S8 na wysokości Grodziska Mazowieckiego tir przebił bariery i zsunął się do rowu. Z kolei na moście Południowym w Warszawie doszło do zderzenia auta osobowego z ciężarowym. Ten drugi pojazd zablokował pas."
-    },
-    {
-      "title": "Dlaczego radczyni prawna upozorowała własną śmierć?",
-      "link": "https://tvn24.pl/polska/warszawa-dlaczego-radczyni-prawna-upozorowala-wlasna-smierc-st8809547?source=rss",
-      "pubDate": "Mon, 12 Jan 2026 08:21:43 GMT",
-      "description": "12 lat toczył się proces o wyłudzenie dwóch domów wartych blisko dwa miliony złotych. A gdy sąd wreszcie wydał prawomocny wyrok, oskarżona zniknęła.",
-      "originalTitle": "Dlaczego radczyni prawna upozorowała własną śmierć?",
-      "originalDescription": "12 lat toczył się proces o wyłudzenie dwóch domów wartych blisko dwa miliony złotych. A gdy sąd wreszcie wydał prawomocny wyrok, oskarżona zniknęła."
     }
   ]
 }
