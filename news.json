@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-01-13T19:07:10.395Z",
+  "lastUpdate": "2026-01-13T19:35:53.123Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Mężczyzna wskoczył do basenu w parku rozrywki",
+      "title": "Raport o ataku na grupę",
+      "link": "https://tvn24.pl/swiat/atak-na-lodz-przemytnikow-media-przemalowano-samolot-by-wygladal-na-cywilny-st8845308?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 19:27:28 GMT",
+      "description": "• We wrześniowym ataku USA na łódź przemytników narkotyków użyto zamaskowanego samolotu wyglądającego jak jednostka cywilna.\n• Atak został opisany przez amerykańskie dzienniki \"The New York Times\" i \"The Washington Post\".\n• Ekspertowie uważają, że takie działania mogłyby stanowić poważne naruszenie prawa międzynarodowego.\n• W wyniku ataku zginęło 11 osób.",
+      "originalTitle": "\"Pomalowany tak, by przypominać maszynę cywilną\". Nowe doniesienia o ataku na \"narkoterrorystów\"",
+      "originalDescription": "We wrześniowym ataku USA na łódź przemytników narkotyków użyto zamaskowanego samolotu wyglądającego jak jednostka cywilna - donoszą amerykańskie dzienniki \"The New York Times\" i \"The Washington Post\". Zdaniem ekspertów takie działania mogłyby stanowić poważne naruszenie prawa międzynarodowego. W wyniku ataku zginęło wówczas 11 osób."
+    },
+    {
+      "title": "Funkcjonariusz zatrzymał poszukiwanego prawie codziennie",
+      "link": "https://tvn24.pl/fakty-artykuly/policja-starszy-aspirant-bartlomiej-pipka-z-wejherowa-zatrzymal-w-zeszlym-roku-195-osob-st8845295?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 19:26:15 GMT",
+      "description": "• Jest wyjątkowo skuteczny i zdeterminowany.\n• Rekord może mu pozazdrościć dzielnicowi z całej Polski.\n• Osoba odpowiedzialna za rekord to starszy aspirant Bartłomiej Pipka.\n• Starszy aspirant Bartłomiej Pipka pochodzi z Wejherowa.\n• W zeszłym roku zatrzymał 195 osób.\n• Zatrzymani ukrywali się przed wymiarem sprawiedliwości.\n• Nowy rok też rozpoczął z przytupem.",
+      "originalTitle": "Przez rok niemal codziennie zatrzymywał poszukiwanego. \"Rozpoznaję tych ludzi, idąc do pracy\"",
+      "originalDescription": "Jest wyjątkowo skuteczny i zdeterminowany, a tego rekordu mogą mu pozazdrościć dzielnicowi z całej Polski. Starszy aspirant Bartłomiej Pipka z Wejherowa zatrzymał w zeszłym roku 195 osób, ukrywających się przed wymiarem sprawiedliwości. Nowy rok też rozpoczął z przytupem."
+    },
+    {
+      "title": "Protest przeciw przemocy",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-siodma-rocznica-zamachu-na-pawla-adamowicza-gdanszczanie-przyszli-powiedziec-nie-przemocy-st8845336?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 19:23:52 GMT",
+      "description": "Gdańsk wciąż pamięta zamach na życie prezydenta Pawła Adamowicza. We wtorek w mieście odbyły się uroczystości związane z siódmą rocznicą tego tragicznego zdarzenia. - Życzliwie wspomnijmy pana prezydenta Pawła Adamowicza i kolejny raz powiedzmy \"nie\" przemocy i nienawiści - mówili prowadzący podczas spotkania w miejscu ataku z 2019 roku.",
+      "originalTitle": "Przyszli powiedzieć \"nie\" przemocy. \"Pamiętamy, jak miasto okryło się ciszą\"",
+      "originalDescription": "Gdańsk wciąż pamięta zamach na życie prezydenta Pawła Adamowicza. We wtorek w mieście odbyły się uroczystości związane z siódmą rocznicą tego tragicznego zdarzenia. - Życzliwie wspomnijmy pana prezydenta Pawła Adamowicza i kolejny raz powiedzmy \"nie\" przemocy i nienawiści - mówili prowadzący podczas spotkania w miejscu ataku z 2019 roku."
+    },
+    {
+      "title": "Rosja przejmuje duńskie zakłady",
+      "link": "https://tvn24.pl/biznes/ze-swiata/dunska-firma-rockwoolow-traci-cztery-fabryki-w-rosji-st8845368?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 19:13:16 GMT",
+      "description": "Duński producent materiałów izolacyjnych Rockwool poinformował we wtorek o utracie kontroli nad czterema zakładami w Rosji. Jak podano, stało się to w następstwie decyzji Władimira Putina. Koncern był wcześniej krytykowany za to, że po rozpoczęciu rosyjskiej inwazji na Ukrainę w lutym 2022 roku nie wycofał się z tamtejszego rynku.",
+      "originalTitle": "Putin przejmuje fabryki duńskiej firmy",
+      "originalDescription": "Duński producent materiałów izolacyjnych Rockwool poinformował we wtorek o utracie kontroli nad czterema zakładami w Rosji. Jak podano, stało się to w następstwie decyzji Władimira Putina. Koncern był wcześniej krytykowany za to, że po rozpoczęciu rosyjskiej inwazji na Ukrainę w lutym 2022 roku nie wycofał się z tamtejszego rynku."
+    },
+    {
+      "title": "Chcą kary śmierci dla byłego prezydenta",
+      "link": "https://tvn24.pl/swiat/nie-wykazal-skruchy-chca-kary-smierci-dla-bylego-prezydenta-st8845265?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 19:02:03 GMT",
+      "description": "Zespół specjalnego prokuratora Korei Południowej zawnioskował o karę śmierci dla byłego prezydenta Jun Suk Jeola. - Jun nie wykazał skruchy w związku ze swymi czynami, które spowodowały poważne naruszenie porządku konstytucyjnego i demokracji - wskazywał oskarżyciel. Były przywódca jest oskarżony o zamach stanu, nadużycia władzy i pomocy wrogiemu państwu w związku z krótkotrwałym wprowadzeniem przez niego stanu wojennego w 2024 roku.",
+      "originalTitle": "Chcą kary śmierci dla byłego prezydenta",
+      "originalDescription": "Zespół specjalnego prokuratora Korei Południowej zawnioskował o karę śmierci dla byłego prezydenta Jun Suk Jeola. - Jun nie wykazał skruchy w związku ze swymi czynami, które spowodowały poważne naruszenie porządku konstytucyjnego i demokracji - wskazywał oskarżyciel. Były przywódca jest oskarżony o zamach stanu, nadużycia władzy i pomocy wrogiemu państwu w związku z krótkotrwałym wprowadzeniem przez niego stanu wojennego w 2024 roku."
+    },
+    {
+      "title": "Chciał się ochłodzić, wskoczył do basenu w parku rozrywki",
       "link": "https://tvn24.pl/tvnmeteo/ciekawostki/australia-upaly-kangur-chcial-sie-ochlodzic-wskoczyl-do-basenu-w-parku-rozrywki-wideo-st8845200?source=rss",
       "pubDate": "Tue, 13 Jan 2026 19:01:30 GMT",
-      "description": "• Upały w Australii dają się we znaki nie tylko ludziom.\n• Młody kangur postanowił poradzić sobie z żarem w nietypowy sposób.\n• Kangur wskoczył do basenu w parku rozrywki.\n• To wydarzenie miało miejsce w stanie Wiktoria.\n• Spontaniczna kąpiel kangura szybko stała się hitem internetu.",
+      "description": "Upały w Australii dają się we znaki nie tylko ludziom. W stanie Wiktoria młody kangur postanowił poradzić sobie z żarem w nietypowy sposób - wskoczył do basenu w parku rozrywki. Jego spontaniczna kąpiel szybko stała się hitem internetu.",
       "originalTitle": "Chciał się ochłodzić, wskoczył do basenu w parku rozrywki",
       "originalDescription": "Upały w Australii dają się we znaki nie tylko ludziom. W stanie Wiktoria młody kangur postanowił poradzić sobie z żarem w nietypowy sposób - wskoczył do basenu w parku rozrywki. Jego spontaniczna kąpiel szybko stała się hitem internetu."
     },
     {
-      "title": "Spotkanie z premierem i Larrym",
-      "link": "https://tvn24.pl/polska/karol-nawrocki-z-wizyta-w-londynie-w-spotkaniu-z-keirem-starmerem-uczestniczyl-tez-kot-larry-st8845325?source=rss",
+      "title": "Spotkanie nie tylko z premierem. \"Dziś poznałem też Larry'ego\"",
+      "link": "https://tvn24.pl/polska/spotkanie-nie-tylko-z-premierem-karol-nawrocki-poznal-larry-ego-st8845325?source=rss",
       "pubDate": "Tue, 13 Jan 2026 18:53:35 GMT",
-      "description": "• Karol Nawrocki przebywa z wizytą w Wielkiej Brytanii.\n• Karol Nawrocki spotkał się z brytyjskim premierem Keirem Starmerem.\n• Podczas spotkania z Keirem Starmerem towarzyszył im kot Larry.\n• Kot Larry jest mieszkańcem Downing Street 10.\n• Prezydent opublikował zdjęcie z kotem Larry.",
+      "description": "Karol Nawrocki, który przebywa z wizytą w Wielkiej Brytanii, spotkał się nie tylko z brytyjskim premierem Keirem Starmerem. Politykom towarzyszył inny mieszkaniec Downing Street 10, kot Larry. Prezydent opublikował z nim zdjęcie.",
       "originalTitle": "Spotkanie nie tylko z premierem. \"Dziś poznałem też Larry'ego\"",
       "originalDescription": "Karol Nawrocki, który przebywa z wizytą w Wielkiej Brytanii, spotkał się nie tylko z brytyjskim premierem Keirem Starmerem. Politykom towarzyszył inny mieszkaniec Downing Street 10, kot Larry. Prezydent opublikował z nim zdjęcie."
     },
     {
-      "title": "ZUS przyjmuje wnioski o urlop",
+      "title": "Fala wniosków do ZUS. Można zyskać więcej urlopu",
       "link": "https://tvn24.pl/biznes/dla-pracownika/staz-pracy-na-nowych-zasadach-fala-wnioskow-do-zus-st8845208?source=rss",
       "pubDate": "Tue, 13 Jan 2026 18:20:19 GMT",
       "description": "\"Do ZUS zostało już złożonych blisko 180 tysięcy wniosków o wydanie zaświadczenia potrzebnego do przeliczenia stażu pracy na nowych zasadach\" - poinformował resort pracy w serwisie X. Od 1 stycznia 2026 r. okresy prowadzenia jednoosobowej działalności gospodarczej i wykonywania pracy na podstawie umów-zleceń będą wliczały się do stażu pracy. Zaświadczenie potwierdzające te okresy wyda ZUS. Zmiany obejmą również umowy z poprzednich lat.",
@@ -42,46 +82,6 @@
       "description": "Ta przebieżka mogła go wiele kosztować. 18-latek wyszedł na trening i stracił orientację w terenie. W tym czasie rozpętała się śnieżyca i rozładował się jego telefon. Na szczęście pomoc dotarła w porę. Chłopaka odnaleziono nad Wartą w miejscowości Ciążeń (Wielkopolska).",
       "originalTitle": "18-letni biegacz zgubił się podczas treningu. Ktoś usłyszał jego wołanie o pomoc",
       "originalDescription": "Ta przebieżka mogła go wiele kosztować. 18-latek wyszedł na trening i stracił orientację w terenie. W tym czasie rozpętała się śnieżyca i rozładował się jego telefon. Na szczęście pomoc dotarła w porę. Chłopaka odnaleziono nad Wartą w miejscowości Ciążeń (Wielkopolska)."
-    },
-    {
-      "title": "Paraliż na lotniskach. \"Nie wiemy, jak wrócimy, jesteśmy uwięzieni\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/austria-czechy-slowacja-wegry-gololedz-atak-zimy-w-europie-problemy-na-lotniskach-st8843883?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 08:40:42 GMT",
-      "description": "Marznące opady sparaliżowały we wtorek pracę lotnisk w Wiedniu, Pradze, a także w Bratysławie i Budapeszcie. - Nie wiemy, jak wrócimy, co się z nami stanie. Jesteśmy uwięzieni - powiedział Ambre, turysta z Francji, który utknął na węgierskim lotnisku.",
-      "originalTitle": "Paraliż na lotniskach. \"Nie wiemy, jak wrócimy, jesteśmy uwięzieni\"",
-      "originalDescription": "Marznące opady sparaliżowały we wtorek pracę lotnisk w Wiedniu, Pradze, a także w Bratysławie i Budapeszcie. - Nie wiemy, jak wrócimy, co się z nami stanie. Jesteśmy uwięzieni - powiedział Ambre, turysta z Francji, który utknął na węgierskim lotnisku."
-    },
-    {
-      "title": "Nowa sędzia przydzielona do sprawy Romanowskiego. Nie w drodze losowania",
-      "link": "https://tvn24.pl/polska/ena-dla-marcina-romanowskiego-wniosek-rozpatrzy-sedzia-izabela-ledzion-nie-zostala-wybrana-w-drodze-losowania-st8845222?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 17:21:14 GMT",
-      "description": "Sędzia Sądu Okręgowego w Warszawie Izabela Ledzion jako sędzia dyżurny rozpozna sprawę europejskiego nakazu aresztowania dla Marcina Romanowskiego. Wcześniej sąd wyłączył ze sprawy sędziego Dariusza Łubowskiego, uwzględniając wniosek prokuratury.",
-      "originalTitle": "Nowa sędzia przydzielona do sprawy Romanowskiego. Nie w drodze losowania",
-      "originalDescription": "Sędzia Sądu Okręgowego w Warszawie Izabela Ledzion jako sędzia dyżurny rozpozna sprawę europejskiego nakazu aresztowania dla Marcina Romanowskiego. Wcześniej sąd wyłączył ze sprawy sędziego Dariusza Łubowskiego, uwzględniając wniosek prokuratury."
-    },
-    {
-      "title": "Poważna awaria w Szczecinie. Do soboty wstrzymają dostawy ciepła",
-      "link": "https://tvn24.pl/szczecin/szczecin-awaria-magistrali-wstrzymaja-dostawy-ciepla-w-rejonie-osiedla-zawadzkiego-st8845189?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 17:20:38 GMT",
-      "description": "Od środy do soboty wstrzymane będą dostawy ciepła i ciepłej wody w rejonie Osiedla Zawadzkiego - poinformowała we wtorek Szczecińska Energetyka Cieplna. Powodem jest awaria sieci magistralnej.",
-      "originalTitle": "Poważna awaria w Szczecinie. Do soboty wstrzymają dostawy ciepła",
-      "originalDescription": "Od środy do soboty wstrzymane będą dostawy ciepła i ciepłej wody w rejonie Osiedla Zawadzkiego - poinformowała we wtorek Szczecińska Energetyka Cieplna. Powodem jest awaria sieci magistralnej."
-    },
-    {
-      "title": "Mieszkańcy kolejnego miasta chcą ograniczenia nocnej sprzedaży alkoholu",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-mieszkancy-chca-nocnej-prohibicji-st8845229?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 17:13:56 GMT",
-      "description": "Mieszkańcy Płocka popierają nocne ograniczenie sprzedaży alkoholu. Tak wynika z ankiety, przeprowadzonej przez tamtejszy urząd miasta. Decyzja należy do miejskich radnych.",
-      "originalTitle": "Mieszkańcy kolejnego miasta chcą ograniczenia nocnej sprzedaży alkoholu",
-      "originalDescription": "Mieszkańcy Płocka popierają nocne ograniczenie sprzedaży alkoholu. Tak wynika z ankiety, przeprowadzonej przez tamtejszy urząd miasta. Decyzja należy do miejskich radnych."
-    },
-    {
-      "title": "Te kraje zmniejszają zużycie energii z węgla. \"Historyczny przełom\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-i-indie-kraje-zmniejszaja-zuzycie-energii-z-wegla-pierwszy-raz-w-historii-st8845002?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 17:13:00 GMT",
-      "description": "Po raz pierwszy od ponad 50 lat dwaj najwięksi emitenci dwutlenku węgla - Chiny i Indie - jednocześnie ograniczyli zużycie węgla w produkcji energii. Oba państwa znacząco zwiększają udział OZE w produkcji energii. Eksperci mówią o historycznym przełomie, który może wyznaczyć punkt zwrotny dla globalnych emisji CO2.",
-      "originalTitle": "Te kraje zmniejszają zużycie energii z węgla. \"Historyczny przełom\"",
-      "originalDescription": "Po raz pierwszy od ponad 50 lat dwaj najwięksi emitenci dwutlenku węgla - Chiny i Indie - jednocześnie ograniczyli zużycie węgla w produkcji energii. Oba państwa znacząco zwiększają udział OZE w produkcji energii. Eksperci mówią o historycznym przełomie, który może wyznaczyć punkt zwrotny dla globalnych emisji CO2."
     }
   ]
 }
