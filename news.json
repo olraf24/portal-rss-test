@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2026-01-13T17:10:02.114Z",
+  "lastUpdate": "2026-01-13T17:41:46.428Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Dwie dziewczynki przeszły przez załamujący się lód, interweniował były policjant",
+      "title": "Sędzia przydzielona do sprawy Romanowskiego",
+      "link": "https://tvn24.pl/polska/ena-dla-marcina-romanowskiego-wniosek-rozpatrzy-sedzia-izabela-ledzion-nie-zostala-wybrana-w-drodze-losowania-st8845222?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 17:21:14 GMT",
+      "description": "• Sędzia Sądu Okręgowego w Warszawie to Izabela Ledzion.\n• Izabela Ledzion pełniła rolę sędziego dyżurnego w sprawie europejskiego nakazu aresztowania.\n• Sprawa europejskiego nakazu aresztowania dotyczyła Marcina Romanowskiego.\n• Sąd wyłączył ze sprawy sędziego Dariusza Łubowskiego.\n• Decyzja o wyłączeniu sędziego Dariusza Łubowskiego została podjęta po uwzględnieniu wniosku prokuratury.",
+      "originalTitle": "Nowa sędzia przydzielona do sprawy Romanowskiego. Nie w drodze losowania",
+      "originalDescription": "Sędzia Sądu Okręgowego w Warszawie Izabela Ledzion jako sędzia dyżurny rozpozna sprawę europejskiego nakazu aresztowania dla Marcina Romanowskiego. Wcześniej sąd wyłączył ze sprawy sędziego Dariusza Łubowskiego, uwzględniając wniosek prokuratury."
+    },
+    {
+      "title": "Awarie ciepła w Szczecinie do soboty",
+      "link": "https://tvn24.pl/szczecin/szczecin-awaria-magistrali-wstrzymaja-dostawy-ciepla-w-rejonie-osiedla-zawadzkiego-st8845189?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 17:20:38 GMT",
+      "description": "• Od środy do soboty wstrzymane będą dostawy ciepła i ciepłej wody \n• w rejonie Osiedla Zawadzkiego \n• poinformowała we wtorek Szczecińska Energetyka Cieplna \n• powodem jest awaria sieci magistralnej",
+      "originalTitle": "Poważna awaria w Szczecinie. Do soboty wstrzymają dostawy ciepła",
+      "originalDescription": "Od środy do soboty wstrzymane będą dostawy ciepła i ciepłej wody w rejonie Osiedla Zawadzkiego - poinformowała we wtorek Szczecińska Energetyka Cieplna. Powodem jest awaria sieci magistralnej."
+    },
+    {
+      "title": "Ograniczenie sprzedaży alkoholu po godz 22",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-mieszkancy-chca-nocnej-prohibicji-st8845229?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 17:13:56 GMT",
+      "description": "• Mieszkańcy Płocka popierają nocne ograniczenie sprzedaży alkoholu.\n• Wynik ten pochodzi z ankiety przeprowadzonej przez urząd miasta w Płocku.\n• Decyzja dotycząca ograniczenia sprzedaży alkoholu należy do miejskich radnych.",
+      "originalTitle": "Mieszkańcy kolejnego miasta chcą ograniczenia nocnej sprzedaży alkoholu",
+      "originalDescription": "Mieszkańcy Płocka popierają nocne ograniczenie sprzedaży alkoholu. Tak wynika z ankiety, przeprowadzonej przez tamtejszy urząd miasta. Decyzja należy do miejskich radnych."
+    },
+    {
+      "title": "Kraje redukują zużycie węgla",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-i-indie-kraje-zmniejszaja-zuzycie-energii-z-wegla-pierwszy-raz-w-historii-st8845002?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 17:13:00 GMT",
+      "description": "Po raz pierwszy od ponad 50 lat dwaj najwięksi emitenci dwutlenku węgla - Chiny i Indie - jednocześnie ograniczyli zużycie węgla w produkcji energii. Oba państwa znacząco zwiększają udział OZE w produkcji energii. Eksperci mówią o historycznym przełomie, który może wyznaczyć punkt zwrotny dla globalnych emisji CO2.",
+      "originalTitle": "Te kraje zmniejszają zużycie energii z węgla. \"Historyczny przełom\"",
+      "originalDescription": "Po raz pierwszy od ponad 50 lat dwaj najwięksi emitenci dwutlenku węgla - Chiny i Indie - jednocześnie ograniczyli zużycie węgla w produkcji energii. Oba państwa znacząco zwiększają udział OZE w produkcji energii. Eksperci mówią o historycznym przełomie, który może wyznaczyć punkt zwrotny dla globalnych emisji CO2."
+    },
+    {
+      "title": "Trump grozi władzom w Iranie, Rosja reaguje",
+      "link": "https://tvn24.pl/swiat/protesty-w-iranie-donald-trump-przejmijcie-swoje-instytucje-pomoc-jest-w-drodze-st8845072?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 15:51:20 GMT",
+      "description": "Prezydent USA Donald Trump zaapelował do protestujących Irańczyków, aby przejęli instytucje władzy w swoim kraju. \"Pomoc jest w drodze\" - napisał na swojej platformie Truth Social. Amerykańskie działania potępiła Rosja, będąca sojusznikiem władz w Teheranie, określając je jako \"wywrotową ingerencję zagraniczną\" w politykę wewnętrzną Iranu.",
+      "originalTitle": "Trump grozi władzom w Iranie, Rosja reaguje",
+      "originalDescription": "Prezydent USA Donald Trump zaapelował do protestujących Irańczyków, aby przejęli instytucje władzy w swoim kraju. \"Pomoc jest w drodze\" - napisał na swojej platformie Truth Social. Amerykańskie działania potępiła Rosja, będąca sojusznikiem władz w Teheranie, określając je jako \"wywrotową ingerencję zagraniczną\" w politykę wewnętrzną Iranu."
+    },
+    {
+      "title": "Ustawa budżetowa na biurku prezydenta. \"Dopuszczam każdą możliwość\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/ustawa-budzetowa-na-biurku-prezydenta-dopuszczam-kazda-mozliwosc-st8845247?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 17:10:33 GMT",
+      "description": "Do Kancelarii Prezydenta RP wpłynęła ustawa budżetowa na 2026 rok - jedyna ustawa w Polsce, wobec której prezydent nie ma prawa weta. Karol Nawrocki ma siedem dni na decyzję; może podpisać dokument lub skierować go do Trybunału Konstytucyjnego.",
+      "originalTitle": "Ustawa budżetowa na biurku prezydenta. \"Dopuszczam każdą możliwość\"",
+      "originalDescription": "Do Kancelarii Prezydenta RP wpłynęła ustawa budżetowa na 2026 rok - jedyna ustawa w Polsce, wobec której prezydent nie ma prawa weta. Karol Nawrocki ma siedem dni na decyzję; może podpisać dokument lub skierować go do Trybunału Konstytucyjnego."
+    },
+    {
+      "title": "Pod 9-letnimi siostrami załamał się lód. Na pomoc ruszył były policjant z Ukrainy",
       "link": "https://tvn24.pl/kujawsko-pomorskie/bydgoszcz-lod-zalamal-sie-pod-dziecmi-ukrainiec-ruszyl-na-pomoc-9-latkom-st8845193?source=rss",
       "pubDate": "Tue, 13 Jan 2026 17:03:56 GMT",
-      "description": "• Dwie siostry mają 9 lat.\n• Siostry wpadły do lodowatej wody.\n• Wypadek nastąpił po załamaniu się lodu.\n• Zdarzenie miało miejsce na kanale.\n• Miejsce wypadku to Bydgoszcz.\n• Dzieciom pomogły dwie osoby.\n• Jednym z ratowników był były policjant.\n• Były policjant pochodzi z Ukrainy.\n• Drugim ratownikiem był przechodzień.\n• Dzieci zostały wyciągnięte na brzeg.\n• Reakcja ratowników była szybka.",
+      "description": "Dwie 9-letnie siostry wpadły do lodowatej wody po załamaniu się lodu na kanale w Bydgoszczy. Dzięki szybkiej reakcji byłego policjanta pochodzącego z Ukrainy i drugiego przechodnia udało się wyciągnąć dzieci na brzeg.",
       "originalTitle": "Pod 9-letnimi siostrami załamał się lód. Na pomoc ruszył były policjant z Ukrainy",
       "originalDescription": "Dwie 9-letnie siostry wpadły do lodowatej wody po załamaniu się lodu na kanale w Bydgoszczy. Dzięki szybkiej reakcji byłego policjanta pochodzącego z Ukrainy i drugiego przechodnia udało się wyciągnąć dzieci na brzeg."
     },
     {
-      "title": "Wypadek drogowy, ranni także dzieci",
+      "title": "Czołowe zderzenie dwóch aut. Wśród rannych dzieci",
       "link": "https://tvn24.pl/trojmiasto/mokrzyn-wypadek-z-udzialem-dwoch-aut-wsrod-rannych-dzieci-st8845245?source=rss",
       "pubDate": "Tue, 13 Jan 2026 16:50:29 GMT",
-      "description": "• Czołowe zderzenie dwóch samochodów osobowych miało miejsce w Mokrzynie.\n• Mokrzyn położony jest w województwie pomorskim.\n• Zderzenie samochodów nastąpiło na drodze krajowej nr 20.\n• Trzy osoby zostały zabrane do szpitala w wyniku zderzenia.\n• Wśród osób zabranych do szpitala znajdują się dzieci.\n• Dzieci, które zostały zabrane do szpitala, mają 13 i 6 lat.",
+      "description": "Czołowe zderzenie dwóch samochodów osobowych w Mokrzynie (woj. pomorskie) na drodze krajowej nr 20. Trzy osoby zostały zabrane do szpitala, wśród nich dzieci w wieku 13 i 6 lat.",
       "originalTitle": "Czołowe zderzenie dwóch aut. Wśród rannych dzieci",
       "originalDescription": "Czołowe zderzenie dwóch samochodów osobowych w Mokrzynie (woj. pomorskie) na drodze krajowej nr 20. Trzy osoby zostały zabrane do szpitala, wśród nich dzieci w wieku 13 i 6 lat."
     },
     {
-      "title": "Polska 2050 składa zawiadomienie do prokuratury",
+      "title": "Zawiadomienie do prokuratury, zwrócenie się do ABW. Polska 2050 reaguje na nieprawidłowości",
       "link": "https://tvn24.pl/polska/zawiadomienie-do-prokuratury-zwrocenie-sie-do-abw-polska-2050-reaguje-na-nieprawidlowosci-st8845157?source=rss",
       "pubDate": "Tue, 13 Jan 2026 15:38:22 GMT",
       "description": "Politycy Polski 2050 zdecydowali, że partia zwróci się do Agencji Bezpieczeństwa Wewnętrznego w sprawie nieprawidłowości w II turze wyborów na przewodniczącego partii - ustalił dziennikarz tvn24.pl Patryk Michalski. Później oficjalnie potwierdził to zarząd partii, który podjął także decyzję o złożeniu zawiadomienia do prokuratury.",
@@ -34,54 +82,6 @@
       "description": "W 2025 roku we Francji zmarło więcej osób niż się urodziło. Taka sytuacja miała miejsce po raz pierwszy od końca drugiej wojny światowej - poinformował państwowy urząd statystyczny INSEE. Przez wiele lat sytuacja demograficzna nad Sekwaną była korzystniejsza niż w innych krajach Unii Europejskiej. Nowe dane oznaczają jednak, że kraj dołączył do ogólnego negatywnego trendu demograficznego w Europie.",
       "originalTitle": "Pierwsza taka sytuacja we Francji od końca drugiej wojny światowej",
       "originalDescription": "W 2025 roku we Francji zmarło więcej osób niż się urodziło. Taka sytuacja miała miejsce po raz pierwszy od końca drugiej wojny światowej - poinformował państwowy urząd statystyczny INSEE. Przez wiele lat sytuacja demograficzna nad Sekwaną była korzystniejsza niż w innych krajach Unii Europejskiej. Nowe dane oznaczają jednak, że kraj dołączył do ogólnego negatywnego trendu demograficznego w Europie."
-    },
-    {
-      "title": "Polska stawia na półprzewodniki. Rząd ujawnia plan",
-      "link": "https://tvn24.pl/biznes/handel/polprzewodniki-w-polsce-rzad-zapowiada-rozwoj-sektora-wspolpraca-z-gigantami-i-programy-przekwalifikowania-st8845181?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 16:40:12 GMT",
-      "description": "Rząd chce wpompować miliardy w polski przemysł półprzewodników, aby do 2030 roku sektor ten generował nawet 0,6 procent PKB. Ambitna strategia zakłada między innymi budowę specjalistycznego parku technologicznego, ściągnięcie globalnych gigantów oraz utworzenie regionalnego \"trójkąta półprzewodnikowego\" we współpracy z Czechami i Niemcami.",
-      "originalTitle": "Polska stawia na półprzewodniki. Rząd ujawnia plan",
-      "originalDescription": "Rząd chce wpompować miliardy w polski przemysł półprzewodników, aby do 2030 roku sektor ten generował nawet 0,6 procent PKB. Ambitna strategia zakłada między innymi budowę specjalistycznego parku technologicznego, ściągnięcie globalnych gigantów oraz utworzenie regionalnego \"trójkąta półprzewodnikowego\" we współpracy z Czechami i Niemcami."
-    },
-    {
-      "title": "Ziobro: \"nie wiedziałem, że uruchomią postępowanie\". Przypominamy sekwencję zdarzeń",
-      "link": "https://konkret24.tvn24.pl/polityka/zbigniew-ziobro-nie-wiedzialem-ze-uruchomia-postepowanie-przypominamy-sekwencje-zdarzen-st8844939?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 16:37:51 GMT",
-      "description": "Były minister sprawiedliwości Zbigniew Ziobro twierdzi, że jego wyjazd na Węgry nie był ucieczką. I że ze zdziwieniem dowiedział się - będąc już zagranicą - że planowano przeciwko niemu jakieś postępowanie. Przypominamy więc, o czym i kiedy informowano publicznie w jego sprawie.",
-      "originalTitle": "Ziobro: \"nie wiedziałem, że uruchomią postępowanie\". Przypominamy sekwencję zdarzeń",
-      "originalDescription": "Były minister sprawiedliwości Zbigniew Ziobro twierdzi, że jego wyjazd na Węgry nie był ucieczką. I że ze zdziwieniem dowiedział się - będąc już zagranicą - że planowano przeciwko niemu jakieś postępowanie. Przypominamy więc, o czym i kiedy informowano publicznie w jego sprawie."
-    },
-    {
-      "title": "Zakopane. Będą wywozić śnieg ciężarówkami",
-      "link": "https://tvn24.pl/tvnmeteo/polska/atak-zimy-snieg-w-zakopanem-beda-wywozic-snieg-ciezarowkami-st8845134?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 16:18:08 GMT",
-      "description": "Mocno sypnęło śniegiem w Zakopanem. Miejscami leży około pół metra białego puchu. W nocy w mieście ma rozpocząć się oczyszczanie - zaplanowany jest wywóz kilkuset ciężarówek załadowanych śniegiem.",
-      "originalTitle": "Zakopane. Będą wywozić śnieg ciężarówkami",
-      "originalDescription": "Mocno sypnęło śniegiem w Zakopanem. Miejscami leży około pół metra białego puchu. W nocy w mieście ma rozpocząć się oczyszczanie - zaplanowany jest wywóz kilkuset ciężarówek załadowanych śniegiem."
-    },
-    {
-      "title": "Prokuratura się nie poddaje. Kolejny wniosek w sprawie majątku Ziobry",
-      "link": "https://tvn24.pl/polska/sprawa-zbigniewa-ziobry-prokuratura-sie-nie-poddaje-kolejny-wniosek-w-sprawie-zabezpieczenia-majatku-posla-pis-st8844931?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 16:15:30 GMT",
-      "description": "Prokuratura Krajowa po raz trzeci przesłała do sądu wniosek dotyczący zabezpieczenia majątkowego, poprzez ustanowienia hipoteki przymusowej na nieruchomości Zbigniewa Ziobry - potwierdził tvn24.pl rzecznik Prokuratury Krajowej prokurator Przemysław Nowak. Wcześniejsze dwa wnioski w tej sprawie sąd odrzucił.",
-      "originalTitle": "Prokuratura się nie poddaje. Kolejny wniosek w sprawie majątku Ziobry",
-      "originalDescription": "Prokuratura Krajowa po raz trzeci przesłała do sądu wniosek dotyczący zabezpieczenia majątkowego, poprzez ustanowienia hipoteki przymusowej na nieruchomości Zbigniewa Ziobry - potwierdził tvn24.pl rzecznik Prokuratury Krajowej prokurator Przemysław Nowak. Wcześniejsze dwa wnioski w tej sprawie sąd odrzucił."
-    },
-    {
-      "title": "Ksiądz podejrzany o zabójstwo znajomego skierowany na obserwację psychiatryczną",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/tarczyn-ksiadz-podejrzany-o-zabojstwo-znajomego-sad-skierowal-go-na-obserwacje-psychiatryczna-st8845192?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 16:13:27 GMT",
-      "description": "Proboszcz z gminy Tarczyn w Mazowieckiem, który miał zaatakować siekierą, a następnie podpalić znajomego mężczyznę, zostanie poddany czterotygodniowej obserwacji psychiatrycznej. To decyzja sądu. Śledczy chcą się upewnić, czy podejrzany był w chwili dokonania zabójstwa poczytalny.",
-      "originalTitle": "Ksiądz podejrzany o zabójstwo znajomego skierowany na obserwację psychiatryczną",
-      "originalDescription": "Proboszcz z gminy Tarczyn w Mazowieckiem, który miał zaatakować siekierą, a następnie podpalić znajomego mężczyznę, zostanie poddany czterotygodniowej obserwacji psychiatrycznej. To decyzja sądu. Śledczy chcą się upewnić, czy podejrzany był w chwili dokonania zabójstwa poczytalny."
-    },
-    {
-      "title": "22-latka zniknęła bez śladu. Teraz znaleziono rower i pudełka po pizzy",
-      "link": "https://tvn24.pl/swiat/wlochy-22-latka-zniknela-bez-sladu-teraz-znaleziono-rower-i-pudelka-po-pizzy-st8845071?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 16:05:18 GMT",
-      "description": "Włoskie służby prowadzą poszukiwania 22-letniej Annabelli Martinelli, która 6 stycznia wyszła z domu i zniknęła bez śladu. Po kilku dniach odnaleziono jedynie rower, którym się przemieszczała, i pudełka po pizzy, którą ze sobą wiozła.",
-      "originalTitle": "22-latka zniknęła bez śladu. Teraz znaleziono rower i pudełka po pizzy",
-      "originalDescription": "Włoskie służby prowadzą poszukiwania 22-letniej Annabelli Martinelli, która 6 stycznia wyszła z domu i zniknęła bez śladu. Po kilku dniach odnaleziono jedynie rower, którym się przemieszczała, i pudełka po pizzy, którą ze sobą wiozła."
     }
   ]
 }
