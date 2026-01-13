@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-13T14:08:00.755Z",
+  "lastUpdate": "2026-01-13T14:41:48.733Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Zegar biochemiczny w odcisku palca",
+      "link": "https://dzienniknaukowy.pl/zegar-biochemiczny-w-odcisku-palca",
+      "pubDate": "Tue, 13 Jan 2026 14:33:18 +0000",
+      "description": "W zwykłym śladzie palca można znaleźć sygnały chemiczne, które – mierzone światłem – mogą pomóc oszacować czas od zgonu w pierwszych dwóch dobach, a także wskazać cechy takie jak wiek i płeć biologiczna. Zespół naukowców z Gdańska i Krakowa pokazał, że kluczem są dwie naturalne cząsteczki: tryptofan i NADH"
+    },
     {
       "title": "Podczerwień i sztuczna inteligencja przyspieszają diagnozę endometriozy",
       "link": "https://dzienniknaukowy.pl/podczerwien-i-sztuczna-inteligencja-przyspieszaja-diagnoze-endometriozy",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/sztuczna-inteligencja-przewidzi-ludzkie-zachowania",
       "pubDate": "Thu, 08 Jan 2026 12:28:13 +0000",
       "description": "Wyobraźmy sobie emocjonujący mecz o wysoką stawkę pomiędzy rywalizującymi drużynami. Pomyślmy o starszej osobie, która potrzebuje całodobowej opieki, albo o zmęczonym kierowcy wracającym nocą do domu. Co łączy te sytuacje? Sztuczna inteligencja, która dzięki analizie filmów i rozpoznawaniu ludzkich zachowań, może zapewnić wszystkim komfort i bezpieczeństwo. To właśnie ten obszar jest tematem badawczym w IX konkursie INFOSTRATEG, realizowanym przez Narodowe Centrum Badań i Rozwoju."
-    },
-    {
-      "title": "Oszczędność w modzie. Jak i dlaczego Polacy odkładają pieniądze",
-      "link": "https://dzienniknaukowy.pl/oszczednosc-w-modzie-jak-i-dlaczego-polacy-odkladaja-pieniadze",
-      "pubDate": "Thu, 08 Jan 2026 08:55:00 +0000",
-      "description": "Z danych opublikowanych przez Polską Agencję Prasową wynika, że zdecydowana większość Polaków deklaruje odkładanie pieniędzy. Według badania odsetek ten sięga niemal 75 proc. respondentów, co potwierdza, że oszczędzanie stało się powszechną praktyką finansową. Na szczególną uwagę zasługują jednak nie tylko same deklaracje, lecz także motywacje stojące za budowaniem indywidualnych rezerw finansowych oraz formy, po jakie sięgają oszczędzający."
     }
   ]
 }
