@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-01-13T13:19:33.685Z",
+  "lastUpdate": "2026-01-13T13:46:35.974Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Hołownia rozważa start w wyborach",
+      "title": "Nowe przepisy obowiązują",
+      "link": "https://tvn24.pl/krakow/krakow-nowe-przepisy-w-komunikacji-miejskiej-st8844913?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 13:44:50 GMT",
+      "description": "Krakowska komunikacja miejska zaktualizowała przepisy dotyczące przeszkadzania współpasażerom w podróży. Od poniedziałku w autobusach i tramwajach obowiązuje zakaz słuchania głośno muzyki i rozmawiania przez telefon w trybie głośnomówiącym. Dotychczasowe przepisy dotyczyły używania radioodbiorników.",
+      "originalTitle": "Na ulicach cichosza i w tramwajach też. Nowe przepisy",
+      "originalDescription": "Krakowska komunikacja miejska zaktualizowała przepisy dotyczące przeszkadzania współpasażerom w podróży. Od poniedziałku w autobusach i tramwajach obowiązuje zakaz słuchania głośno muzyki i rozmawiania przez telefon w trybie głośnomówiącym. Dotychczasowe przepisy dotyczyły używania radioodbiorników."
+    },
+    {
+      "title": "Irański urzędnik: 2000 ofiar protestów",
+      "link": "https://tvn24.pl/swiat/iran-bilans-ofiar-brutalnych-protestow-znow-wzrosl-komisarz-onz-wstrzasniety-narastajaca-przemoca-st8844586?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 13:42:48 GMT",
+      "description": "• W trwających od ponad dwóch tygodni protestach w Iranie zginęło około dwóch tysięcy osób.\n• Wśród ofiar są zarówno demonstrujący, jak i funkcjonariusze służb bezpieczeństwa.\n• Informację o liczbie ofiar podał Reuters, cytując irańskiego urzędnika.\n• Do tej pory władze oficjalnie nie komentowały liczby ofiar krwawo tłumionych protestów.",
+      "originalTitle": "Irański urzędnik o protestach. Mówi o dwóch tysiącach ofiar",
+      "originalDescription": "W trwających od ponad dwóch tygodni protestach w Iranie zginęło około dwóch tysięcy osób, w tym zarówno demonstrujący, jak i funkcjonariusze służb bezpieczeństwa - poinformował Reuters, cytując irańskiego urzędnika. Do tej pory władze oficjalnie nie komentowały liczby ofiar krwawo tłumionych protestów."
+    },
+    {
+      "title": "Polacy wskazali próg bogactwa",
+      "link": "https://tvn24.pl/biznes/z-kraju/ile-zarabiaja-bogaci-cbos-podaje-kwote-opinia-polakow-st8844574?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 13:37:40 GMT",
+      "description": "Dla większości Polaków bogactwo zaczyna się tam, gdzie na konto co miesiąc wpływa co najmniej 10 tysięcy złotych \"na rękę\" na osobę – pokazuje najnowsze badanie CBOS. Jednocześnie aż trzech na czterech badanych uważa, że Polska nie jest krajem równych szans, a wielkie pieniądze są dostępne tylko dla nielicznych.",
+      "originalTitle": "Od tej kwoty zaczyna się bogactwo. Polacy wskazali próg",
+      "originalDescription": "Dla większości Polaków bogactwo zaczyna się tam, gdzie na konto co miesiąc wpływa co najmniej 10 tysięcy złotych \"na rękę\" na osobę – pokazuje najnowsze badanie CBOS. Jednocześnie aż trzech na czterech badanych uważa, że Polska nie jest krajem równych szans, a wielkie pieniądze są dostępne tylko dla nielicznych."
+    },
+    {
+      "title": "Nawrocki po spotkaniu ze Starmerem. \"Skupiało się na kwestiach bezpieczeństwa\"",
+      "link": "https://tvn24.pl/swiat/karol-nawrocki-z-wizyta-w-londynie-spotkanie-z-keirem-starmerem-st8844483?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 12:27:59 GMT",
+      "description": "Nasze spotkanie skupiało się przede wszystkim na kwestiach bezpieczeństwa, ale także na kwestiach ekonomicznych - przekazał prezydent Karol Nawrocki po rozmowie z Keirem Starmerem w Londynie. Jeszcze przed spotkaniem premier Wielkiej Brytanii podkreślał, że \"polsko-brytyjska współpraca jest niezwykle ważna dla bezpieczeństwa Europy\".",
+      "originalTitle": "Nawrocki po spotkaniu ze Starmerem. \"Skupiało się na kwestiach bezpieczeństwa\"",
+      "originalDescription": "Nasze spotkanie skupiało się przede wszystkim na kwestiach bezpieczeństwa, ale także na kwestiach ekonomicznych - przekazał prezydent Karol Nawrocki po rozmowie z Keirem Starmerem w Londynie. Jeszcze przed spotkaniem premier Wielkiej Brytanii podkreślał, że \"polsko-brytyjska współpraca jest niezwykle ważna dla bezpieczeństwa Europy\"."
+    },
+    {
+      "title": "Rząd po trzech latach wraca do stolicy. Razem z nim milion osób",
+      "link": "https://tvn24.pl/swiat/sudan-rzad-wraca-do-stolicy-w-chartumie-po-trzech-latach-wojna-domowa-trwa-nadal-st8844430?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 13:20:50 GMT",
+      "description": "Sudański rząd po niemal trzech latach powraca do stolicy, z której musiał uciekać z powodu trwającej w kraju wojny domowej. W niedzielę powrót oficjalnie ogłosił premier kraju, Kamel Idris, choć konflikt cały czas trwa.",
+      "originalTitle": "Rząd po trzech latach wraca do stolicy. Razem z nim milion osób",
+      "originalDescription": "Sudański rząd po niemal trzech latach powraca do stolicy, z której musiał uciekać z powodu trwającej w kraju wojny domowej. W niedzielę powrót oficjalnie ogłosił premier kraju, Kamel Idris, choć konflikt cały czas trwa."
+    },
+    {
+      "title": "Hołownia \"nie będzie się uchylał od żadnego rozwiązania\". Nie wykluczył startu",
       "link": "https://tvn24.pl/polska/polska-2050-uniewaznione-wybory-szymon-holownia-nie-uchyla-sie-od-zadnego-rozwiazania-nie-wykluczyl-startu-st8844556?source=rss",
       "pubDate": "Tue, 13 Jan 2026 13:17:29 GMT",
-      "description": "• Szymon Hołownia nie wykluczył startu w ewentualnie powtórzonych wyborach na przewodniczącego Polski 2050.\n• Szymon Hołownia jest wicemarszałkiem Sejmu.\n• Szymon Hołownia zaznaczył, że \"nie podjął obecnie decyzji\".\n• Szymon Hołownia stwierdził, że \"jeżeli się okaże, że to będzie rozwiązanie, które ma pomóc Polsce 2050, to ja się od żadnego rozwiązania uchylał nie będę\".",
-      "originalTitle": "Hołownia \"nie uchyla się od żadnego rozwiązania\". Nie wykluczył startu",
+      "description": "Szymon Hołownia nie wykluczył startu w ewentualnie powtórzonych wyborach na przewodniczącego Polski 2050. Wicemarszałek Sejmu zaznaczył, że \"nie podjął obecnie decyzji\". - Jeżeli się okaże, że to będzie rozwiązanie, które ma pomóc Polsce 2050, to ja się od żadnego rozwiązania uchylał nie będę - zaznaczył.",
+      "originalTitle": "Hołownia \"nie będzie się uchylał od żadnego rozwiązania\". Nie wykluczył startu",
       "originalDescription": "Szymon Hołownia nie wykluczył startu w ewentualnie powtórzonych wyborach na przewodniczącego Polski 2050. Wicemarszałek Sejmu zaznaczył, że \"nie podjął obecnie decyzji\". - Jeżeli się okaże, że to będzie rozwiązanie, które ma pomóc Polsce 2050, to ja się od żadnego rozwiązania uchylał nie będę - zaznaczył."
     },
     {
-      "title": "Prezydent spotkał się z osobą podejrzaną o przestępstwa",
+      "title": "\"Prezydent spotkał się z człowiekiem, który ma na sumieniu ciężkie przestępstwa\"",
       "link": "https://tvn24.pl/polska/karol-nawrocki-spotkal-sie-z-tomaszem-p-ps-dragon-marek-osiecimski-wystarczy-pobiezny-research-zeby-zobaczyc-ze-ten-czlowiek-juz-20-lat-temu-byl-skazywany-st8844231?source=rss",
       "pubDate": "Tue, 13 Jan 2026 13:11:56 GMT",
-      "description": "• Karol Nawrocki nie ma żadnego problemu z afiliacją kibolską.\n• Dziennikarz \"Czarno na białym\" Marek Osiecimski jest autorem reportażu \"Idą...\".\n• Reportaż \"Idą...\" opisuje relacje prezydenta ze środowiskiem kibiców.\n• W sobot�� Karol Nawrocki spotkał się z karanym w przeszłości szefem gangu kiboli.\n• Spotkanie odbyło się w trakcie pielgrzymki kibiców na Jasną Górę.\n• Szef gangu kiboli, z którym spotkał się Karol Nawrocki, ma na sumieniu ciężkie przestępstwa.\n• Marek Osiecimski podkreślił, że prezydent spotkał się z człowiekiem, który ma naprawdę na sumieniu ciężkie przestępstwa.",
+      "description": "Karol Nawrocki nie ma żadnego problemu z afiliacją kibolską - mówił dziennikarz \"Czarno na białym\" Marek Osiecimski, autor reportażu \"Idą...\", opisującego relacje prezydenta ze środowiskiem kibiców. W sobotę Nawrocki w trakcie pielgrzymki kibiców na Jasną Górę spotkał się z karanym w przeszłości szefem gangu kiboli. - Prezydent spotkał się z człowiekiem, który ma naprawdę na sumieniu ciężkie przestępstwa - powiedział Osiecimski.",
       "originalTitle": "\"Prezydent spotkał się z człowiekiem, który ma na sumieniu ciężkie przestępstwa\"",
-      "originalDescription": "Karol Nawrocki nie ma żadnego problemu z afiliacją kibolską - mówił dziennikarz \"Czarno na białym\" Marek Osiecimski, autor reportażu \"Idą...\", opisującego relacje prezydenta ze środowiskiem kibiców. W sobotę Nawrocki w trakcie pielgrzymki kibiców na Jasną Górę spotkał się z karanym w przeszłości szefem gangu kiboli. - Prezydent spotkał się z człowiekiem, który ma naprawdę na sumieniu ciężkie przestępstwa - podkreślił Osiecimski."
+      "originalDescription": "Karol Nawrocki nie ma żadnego problemu z afiliacją kibolską - mówił dziennikarz \"Czarno na białym\" Marek Osiecimski, autor reportażu \"Idą...\", opisującego relacje prezydenta ze środowiskiem kibiców. W sobotę Nawrocki w trakcie pielgrzymki kibiców na Jasną Górę spotkał się z karanym w przeszłości szefem gangu kiboli. - Prezydent spotkał się z człowiekiem, który ma naprawdę na sumieniu ciężkie przestępstwa - powiedział Osiecimski."
     },
     {
-      "title": "Trump i gigant dogadali się, planowane zmiany",
-      "link": "https://tvn24.pl/biznes/tech/donald-trump-z-obietnica-dla-amerykanow-istotne-zmiany-st8844425?source=rss",
+      "title": "Trump dogadał się z gigantem i zapowiedział kolejne zmiany. \"W najbliższych tygodniach\"",
+      "link": "https://tvn24.pl/biznes/tech/usa-donald-trump-dogadal-sie-z-firma-microsoft-i-zapowiedzial-kolejne-zmiany-w-najblizszych-tygodniach-st8844425?source=rss",
       "pubDate": "Tue, 13 Jan 2026 13:10:21 GMT",
-      "description": "• Donald Trump zapowiedział, że Microsoft wprowadzi zmiany, które mają uchronić Amerykanów przed wzrostem rachunków za prąd.\n• Zmiany te są związane z rozbudową centrów danych obsługujących sztuczną inteligencję.\n• Prezydent USA przekazał, że porozumienie z koncernem jest efektem rozmów prowadzonych przez jego administrację.\n• Rozmowy te były prowadzone z największymi firmami technologicznymi.",
+      "description": "Donald Trump zapowiedział, że Microsoft wprowadzi zmiany, które mają uchronić Amerykanów przed wzrostem rachunków za prąd w związku z rozbudową centrów danych obsługujących sztuczną inteligencję. Prezydent USA przekazał, że porozumienie z koncernem jest efektem rozmów prowadzonych przez jego administrację z największymi firmami technologicznymi.",
       "originalTitle": "Trump dogadał się z gigantem i zapowiedział kolejne zmiany. \"W najbliższych tygodniach\"",
       "originalDescription": "Donald Trump zapowiedział, że Microsoft wprowadzi zmiany, które mają uchronić Amerykanów przed wzrostem rachunków za prąd w związku z rozbudową centrów danych obsługujących sztuczną inteligencję. Prezydent USA przekazał, że porozumienie z koncernem jest efektem rozmów prowadzonych przez jego administrację z największymi firmami technologicznymi."
     },
@@ -42,46 +82,6 @@
       "description": "Polska znalazła się w drugiej grupie państw, których wnioski o dofinansowanie uzbrojenia w ramach programu SAFE zostaną zatwierdzone przez Komisję Europejską. Głównym powodem, dlaczego nie trafiliśmy do grupy pierwszej, jest obszerność polskiego planu. Polska jest największym beneficjentem tego unijnego instrumentu i ma otrzymać dofinansowanie w wysokości 43,7 miliarda euro.",
       "originalTitle": "Co to jest program SAFE i dlaczego Polska jest w drugiej grupie? Wyjaśniamy",
       "originalDescription": "Polska znalazła się w drugiej grupie państw, których wnioski o dofinansowanie uzbrojenia w ramach programu SAFE zostaną zatwierdzone przez Komisję Europejską. Głównym powodem, dlaczego nie trafiliśmy do grupy pierwszej, jest obszerność polskiego planu. Polska jest największym beneficjentem tego unijnego instrumentu i ma otrzymać dofinansowanie w wysokości 43,7 miliarda euro."
-    },
-    {
-      "title": "\"Służba sąsiedzka. Kto chętny dołączyć?\". Akcja w kilkunastu miastach",
-      "link": "https://konkret24.tvn24.pl/polska/sluzba-sasiedzka-kto-chetny-dolaczyc-akcja-w-kilkunastu-miastach-st8842994?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 12:56:49 GMT",
-      "description": "\"Patrol konfidentów\", \"cały kraj zamienia się w kraj donosicieli\" - takie komentarze wzburzonych internautów można przeczytać pod ogłoszeniami o naborze do samozwańczej \"służby sąsiedzkiej\" w wielu polskich miastach. Zaczęliśmy więc jej szukać, przestrzegamy przed tymi ogłoszeniami.",
-      "originalTitle": "\"Służba sąsiedzka. Kto chętny dołączyć?\". Akcja w kilkunastu miastach",
-      "originalDescription": "\"Patrol konfidentów\", \"cały kraj zamienia się w kraj donosicieli\" - takie komentarze wzburzonych internautów można przeczytać pod ogłoszeniami o naborze do samozwańczej \"służby sąsiedzkiej\" w wielu polskich miastach. Zaczęliśmy więc jej szukać, przestrzegamy przed tymi ogłoszeniami."
-    },
-    {
-      "title": "Jest czołową postacią w szwedzkim gangu. 21-latek aresztowany w Iraku",
-      "link": "https://tvn24.pl/swiat/szwecja-czolowa-postac-gangu-foxtrot-aresztowana-w-iraku-st8844541?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 12:54:06 GMT",
-      "description": "21-letni mężczyzna, czołowa postać działającego w Szwecji gangu Foxtrot, został aresztowany w Iraku, przekazała szwedzka policja. Według mediów jest to Ali Shehab, podejrzany o podżeganie do pięciu zabójstw i przyczynienie się do 23 przypadków usiłowania morderstwa.",
-      "originalTitle": "Jest czołową postacią w szwedzkim gangu. 21-latek aresztowany w Iraku",
-      "originalDescription": "21-letni mężczyzna, czołowa postać działającego w Szwecji gangu Foxtrot, został aresztowany w Iraku, przekazała szwedzka policja. Według mediów jest to Ali Shehab, podejrzany o podżeganie do pięciu zabójstw i przyczynienie się do 23 przypadków usiłowania morderstwa."
-    },
-    {
-      "title": "Jedno słowo o wecie prezydenta. Elon Musk zabrał głos",
-      "link": "https://tvn24.pl/biznes/ze-swiata/weto-prezydenta-nawrockiego-komentarz-elona-muska-st8844567?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 12:52:20 GMT",
-      "description": "Elon Musk skomentował we wtorek na swoim profilu na X weto prezydenta Polski Karola Nawrockiego dotyczące ustawy wdrażającej unijny Akt o usługach cyfrowych (DSA).",
-      "originalTitle": "Jedno słowo o wecie prezydenta. Elon Musk zabrał głos",
-      "originalDescription": "Elon Musk skomentował we wtorek na swoim profilu na X weto prezydenta Polski Karola Nawrockiego dotyczące ustawy wdrażającej unijny Akt o usługach cyfrowych (DSA)."
-    },
-    {
-      "title": "Iran wycofuje się z ćwiczeń z Rosją i Chinami",
-      "link": "https://tvn24.pl/swiat/iran-wycofuje-sie-z-cwiczen-morskich-brics-z-rosja-i-chinami-media-o-powodzie-st8844289?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 12:51:57 GMT",
-      "description": "Iran nie wziął udziału w ćwiczeń sił morskich grupy BRICS w zatoce False Bay nieopodal Kapsztadu - podał południowoafrykański serwis informacyjny News24. Teheran miał wycofać wysłane już okręty po naciskach władz RPA.",
-      "originalTitle": "Iran wycofuje się z ćwiczeń z Rosją i Chinami",
-      "originalDescription": "Iran nie wziął udziału w ćwiczeń sił morskich grupy BRICS w zatoce False Bay nieopodal Kapsztadu - podał południowoafrykański serwis informacyjny News24. Teheran miał wycofać wysłane już okręty po naciskach władz RPA."
-    },
-    {
-      "title": "Wjechał na zamarznięty akwen, auto zatonęło. \"Sytuacja wymknęła się spod kontroli\"",
-      "link": "https://tvn24.pl/katowice/wodzislaw-slaski-wjechal-na-zamarzniety-zbiornik-wodny-lod-sie-zalamal-auto-zatonelo-policja-ustalila-szczegoly-st8844447?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 12:50:40 GMT",
-      "description": "W sieci pojawił się film, na którym widać, jak kierowca auta wjeżdża na zamarznięty zbiornik wodny, a następnie samochód tonie. Policjanci z Wodzisławia Śląskiego potwierdzili autentyczność nagrania i odnaleźli zatopione auto. Trwa wyjaśnianie okoliczności zdarzenia.",
-      "originalTitle": "Wjechał na zamarznięty akwen, auto zatonęło. \"Sytuacja wymknęła się spod kontroli\"",
-      "originalDescription": "W sieci pojawił się film, na którym widać, jak kierowca auta wjeżdża na zamarznięty zbiornik wodny, a następnie samochód tonie. Policjanci z Wodzisławia Śląskiego potwierdzili autentyczność nagrania i odnaleźli zatopione auto. Trwa wyjaśnianie okoliczności zdarzenia."
     }
   ]
 }
