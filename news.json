@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-13T20:07:27.979Z",
+  "lastUpdate": "2026-01-13T20:40:09.417Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kosiniak-Kamysz o Hołowni jako liderze",
+      "title": "Opady marznące w środę",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-w-srode-bedzie-bardzo-slisko-st8845432?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 20:33:02 GMT",
+      "description": "Warszawski urząd miasta ostrzega przed niebezpieczną pogodą. W środę poruszanie się po ulicach i chodnikach utrudniać będą marznące opady. Ratusz apeluje o ostrożność.",
+      "originalTitle": "Marznące opady na ulicach i chodnikach. W środę będzie bardzo ślisko",
+      "originalDescription": "Warszawski urząd miasta ostrzega przed niebezpieczną pogodą. W środę poruszanie się po ulicach i chodnikach utrudniać będą marznące opady. Ratusz apeluje o ostrożność."
+    },
+    {
+      "title": "Kumulacja w Eurojackpot wzrasta",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-13-stycznia-2026-jakie-liczby-padly-w-trakcie-losowania-st8845434?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 20:29:03 GMT",
+      "description": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 140 milionów złotych. Najwyższe wygrane, które odnotowano wyniosły po 232 189,10 euro. Oto wyniki losowania Eurojackpot z 13 stycznia 2026 roku.",
+      "originalTitle": "Kumulacja w Eurojackpot rośnie",
+      "originalDescription": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 140 milionów złotych. Najwyższe wygrane, które odnotowano wyniosły po 232 189,10 euro. Oto wyniki losowania Eurojackpot z 13 stycznia 2026 roku."
+    },
+    {
+      "title": "Wicepremier odpowiada Muskowi",
+      "link": "https://tvn24.pl/polska/krzysztof-gawkowski-do-elona-muska-o-tzw-ustawie-cyfrowej-weto-to-nie-zwyciestwo-a-hanba-st8845430?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 20:23:37 GMT",
+      "description": "• Krzysztof Gawkowski jest wicepremierem i ministrem cyfryzacji.\n• Krzysztof Gawkowski zareagował na wpis Elona Muska.\n• Wpis Elona Muska odnosi się do zawetowania przez Karola Nawrockiego tak zwanej ustawy cyfrowej.\n• Karol Nawrocki zawetował tak zwaną ustawę cyfrową.\n• Elon Musk napisał \"Weto to nie zwycięstwo, a hańba\" w swoim wpisie.",
+      "originalTitle": "\"To nie zwycięstwo, a hańba\". Wicepremier odpowiada Muskowi",
+      "originalDescription": "Krzysztof Gawkowski, wicepremier i minister cyfryzacji, zareagował na wpis Elona Muska odnoszący się do zawetowania przez Karola Nawrockiego tak zwanej ustawy cyfrowej. \"Weto to nie zwycięstwo, a hańba\" - napisał."
+    },
+    {
+      "title": "Lis spotkany w Poznaniu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/lis-w-poznaniu-polowal-na-mysz-widac-go-na-nagraniu-st8845304?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 20:14:30 GMT",
+      "description": "Lis pojawił się blisko centrum Poznania i nie zwracał uwagi na przejeżdżające obok samochody. Na Kontakt24 otrzymaliśmy nagranie na którym widać, jak zwierzę poluje. - Lisy biegają tutaj, zadomowiły się - powiedział pan Mirosław, autor wideo.",
+      "originalTitle": "Lis w Poznaniu. \"Polował na mysz\"",
+      "originalDescription": "Lis pojawił się blisko centrum Poznania i nie zwracał uwagi na przejeżdżające obok samochody. Na Kontakt24 otrzymaliśmy nagranie na którym widać, jak zwierzę poluje. - Lisy biegają tutaj, zadomowiły się - powiedział pan Mirosław, autor wideo."
+    },
+    {
+      "title": "Powrót Hołowni do gry? \"Takie zmiany trzeba też wytłumaczyć wyborcom\"",
+      "link": "https://tvn24.pl/polska/paulina-hennig-kloska-o-wyborach-w-polsce-2050-i-ewentualnej-kandydaturze-szymona-holowni-takie-zmiany-trzeba-tez-wytlumaczyc-wyborcom-st8845335?source=rss",
+      "pubDate": "Tue, 13 Jan 2026 20:09:16 GMT",
+      "description": "Nie widzę osobiście podstaw do tego, by przeprowadzać wybory od początku i chyba nie czuję, żeby taka wola była ze strony moich wyborców - mówiła w \"Faktach po Faktach\" Paulina Hennig-Kloska, która ubiega się o przywództwo w Polsce 2050. Była też pytana, czy wyobraża sobie powrót Szymona Hołowni do gry i jego start w wyborach.",
+      "originalTitle": "Powrót Hołowni do gry? \"Takie zmiany trzeba też wytłumaczyć wyborcom\"",
+      "originalDescription": "Nie widzę osobiście podstaw do tego, by przeprowadzać wybory od początku i chyba nie czuję, żeby taka wola była ze strony moich wyborców - mówiła w \"Faktach po Faktach\" Paulina Hennig-Kloska, która ubiega się o przywództwo w Polsce 2050. Była też pytana, czy wyobraża sobie powrót Szymona Hołowni do gry i jego start w wyborach."
+    },
+    {
+      "title": "Władysław Kosiniak-Kamysz: jestem prawie pewny, że Szymon Hołownia pozostanie liderem Polski 2050",
       "link": "https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-mysle-ze-szymon-holownia-bedzie-dalej-liderem-polski-2050-st8845414?source=rss",
       "pubDate": "Tue, 13 Jan 2026 19:59:03 GMT",
-      "description": "• Trudno sobie wyobrazić w ogóle Polskę 2050 bez Szymona Hołowni.\n• Minister obrony narodowej i przewodniczący PSL Władysław Kosiniak-Kamysz wypowiedział się w \"Kropce nad i\" w TVN24.\n• Władysław Kosiniak-Kamysz uwa��a, że unieważnienie wyborów w Polsce 2050 to okazja, aby Szymon Hołownia pozostał liderem swojej formacji.",
+      "description": "Trudno sobie wyobrazić w ogóle Polskę 2050 bez Szymona Hołowni - powiedział w \"Kropce nad i\" w TVN24 minister obrony narodowej i przewodniczący PSL Władysław Kosiniak-Kamysz. Jego zdaniem unieważnienie wyborów w Polsce 2050 to okazja, aby Hołownia pozostał liderem swojej formacji.",
       "originalTitle": "Władysław Kosiniak-Kamysz: jestem prawie pewny, że Szymon Hołownia pozostanie liderem Polski 2050",
       "originalDescription": "Trudno sobie wyobrazić w ogóle Polskę 2050 bez Szymona Hołowni - powiedział w \"Kropce nad i\" w TVN24 minister obrony narodowej i przewodniczący PSL Władysław Kosiniak-Kamysz. Jego zdaniem unieważnienie wyborów w Polsce 2050 to okazja, aby Hołownia pozostał liderem swojej formacji."
     },
     {
-      "title": "Żółte i pomarańczowe alarmy",
+      "title": "Niebezpieczna ślizgawica. W mocy żółte i pomarańczowe alarmy",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-12-13-01-opady-marznace-silny-mroz-intensywne-opady-sniegu-pomaranczowe-alerty-st8831653?source=rss",
       "pubDate": "Sun, 11 Jan 2026 05:51:00 GMT",
-      "description": "• IMGW ostrzega przed marznącymi opadami.\n• Marznące opady mogą spowodować pojawienie się gołoledzi na drogach i chodnikach.\n• Synoptycy wydali alarmy przed silnym mrozem.\n• Zalecane jest zachowanie ostrożności w okre��lonych miejscach.",
+      "description": "IMGW ostrzega przed marznącymi opadami, przez które na drogach i chodnikach może pojawić się gołoledź. Synoptycy wydali też alarmy przed silnym mrozem. Sprawdź, gdzie zachować ostrożność.",
       "originalTitle": "Niebezpieczna ślizgawica. W mocy żółte i pomarańczowe alarmy",
       "originalDescription": "IMGW ostrzega przed marznącymi opadami, przez które na drogach i chodnikach może pojawić się gołoledź. Synoptycy wydali też alarmy przed silnym mrozem. Sprawdź, gdzie zachować ostrożność."
     },
     {
-      "title": "Zmiana własności obiektu po wojnie",
+      "title": "Zbudowana dla socjalisty, skonfiskowana przez komunistów",
       "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-willa-kazimierza-puzaka-zostala-zabytkiem-st8845300?source=rss",
       "pubDate": "Tue, 13 Jan 2026 19:39:12 GMT",
-      "description": "• Willa przy ulicy Byczyńskiej należała do Kazimierza Pużaka.\n• Kazimierz Pużak był politykiem i działaczem społecznym.\n• Kazimierz Pużak był współtwórcą PPS-Frakcji Rewolucyjnej.\n• Budynek w Willi jest w stylu narodowym.\n• Budynek przetrwał wojnę bez większych uszkodzeń.\n• Budynek został zabytkiem.",
+      "description": "Willa przy ulicy Byczyńskiej należała do Kazimierza Pużaka, polityka i działacza społecznego, współtwórcę PPS-Frakcji Rewolucyjnej. Budynek w stylu narodowym przetrwał wojnę bez większych uszkodzeń. Teraz został zabytkiem.",
       "originalTitle": "Zbudowana dla socjalisty, skonfiskowana przez komunistów",
       "originalDescription": "Willa przy ulicy Byczyńskiej należała do Kazimierza Pużaka, polityka i działacza społecznego, współtwórcę PPS-Frakcji Rewolucyjnej. Budynek w stylu narodowym przetrwał wojnę bez większych uszkodzeń. Teraz został zabytkiem."
     },
     {
-      "title": "Raport o ataku na grupę związaną z handlem narkotykami",
+      "title": "\"Pomalowany tak, by przypominać maszynę cywilną\". Nowe doniesienia o ataku na \"narkoterrorystów\"",
       "link": "https://tvn24.pl/swiat/atak-na-lodz-przemytnikow-media-przemalowano-samolot-by-wygladal-na-cywilny-st8845308?source=rss",
       "pubDate": "Tue, 13 Jan 2026 19:27:28 GMT",
       "description": "We wrześniowym ataku USA na łódź przemytników narkotyków użyto zamaskowanego samolotu wyglądającego jak jednostka cywilna - donoszą amerykańskie dzienniki \"The New York Times\" i \"The Washington Post\". Zdaniem ekspertów takie działania mogłyby stanowić poważne naruszenie prawa międzynarodowego. W wyniku ataku zginęło wówczas 11 osób.",
@@ -42,46 +82,6 @@
       "description": "Jest wyjątkowo skuteczny i zdeterminowany, a tego rekordu mogą mu pozazdrościć dzielnicowi z całej Polski. Starszy aspirant Bartłomiej Pipka z Wejherowa zatrzymał w zeszłym roku 195 osób, ukrywających się przed wymiarem sprawiedliwości. Nowy rok też rozpoczął z przytupem.",
       "originalTitle": "Przez rok niemal codziennie zatrzymywał poszukiwanego. \"Rozpoznaję tych ludzi, idąc do pracy\"",
       "originalDescription": "Jest wyjątkowo skuteczny i zdeterminowany, a tego rekordu mogą mu pozazdrościć dzielnicowi z całej Polski. Starszy aspirant Bartłomiej Pipka z Wejherowa zatrzymał w zeszłym roku 195 osób, ukrywających się przed wymiarem sprawiedliwości. Nowy rok też rozpoczął z przytupem."
-    },
-    {
-      "title": "Przyszli powiedzieć \"nie\" przemocy. \"Pamiętamy, jak miasto okryło się ciszą\"",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-siodma-rocznica-zamachu-na-pawla-adamowicza-gdanszczanie-przyszli-powiedziec-nie-przemocy-st8845336?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 19:23:52 GMT",
-      "description": "Gdańsk wciąż pamięta zamach na życie prezydenta Pawła Adamowicza. We wtorek w mieście odbyły się uroczystości związane z siódmą rocznicą tego tragicznego zdarzenia. - Życzliwie wspomnijmy pana prezydenta Pawła Adamowicza i kolejny raz powiedzmy \"nie\" przemocy i nienawiści - mówili prowadzący podczas spotkania w miejscu ataku z 2019 roku.",
-      "originalTitle": "Przyszli powiedzieć \"nie\" przemocy. \"Pamiętamy, jak miasto okryło się ciszą\"",
-      "originalDescription": "Gdańsk wciąż pamięta zamach na życie prezydenta Pawła Adamowicza. We wtorek w mieście odbyły się uroczystości związane z siódmą rocznicą tego tragicznego zdarzenia. - Życzliwie wspomnijmy pana prezydenta Pawła Adamowicza i kolejny raz powiedzmy \"nie\" przemocy i nienawiści - mówili prowadzący podczas spotkania w miejscu ataku z 2019 roku."
-    },
-    {
-      "title": "Putin przejmuje fabryki duńskiej firmy",
-      "link": "https://tvn24.pl/biznes/ze-swiata/dunska-firma-rockwoolow-traci-cztery-fabryki-w-rosji-st8845368?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 19:13:16 GMT",
-      "description": "Duński producent materiałów izolacyjnych Rockwool poinformował we wtorek o utracie kontroli nad czterema zakładami w Rosji. Jak podano, stało się to w następstwie decyzji Władimira Putina. Koncern był wcześniej krytykowany za to, że po rozpoczęciu rosyjskiej inwazji na Ukrainę w lutym 2022 roku nie wycofał się z tamtejszego rynku.",
-      "originalTitle": "Putin przejmuje fabryki duńskiej firmy",
-      "originalDescription": "Duński producent materiałów izolacyjnych Rockwool poinformował we wtorek o utracie kontroli nad czterema zakładami w Rosji. Jak podano, stało się to w następstwie decyzji Władimira Putina. Koncern był wcześniej krytykowany za to, że po rozpoczęciu rosyjskiej inwazji na Ukrainę w lutym 2022 roku nie wycofał się z tamtejszego rynku."
-    },
-    {
-      "title": "Chcą kary śmierci dla byłego prezydenta",
-      "link": "https://tvn24.pl/swiat/nie-wykazal-skruchy-chca-kary-smierci-dla-bylego-prezydenta-st8845265?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 19:02:03 GMT",
-      "description": "Zespół specjalnego prokuratora Korei Południowej zawnioskował o karę śmierci dla byłego prezydenta Jun Suk Jeola. - Jun nie wykazał skruchy w związku ze swymi czynami, które spowodowały poważne naruszenie porządku konstytucyjnego i demokracji - wskazywał oskarżyciel. Były przywódca jest oskarżony o zamach stanu, nadużycie władzy i pomoc wrogiemu państwu w związku z krótkotrwałym wprowadzeniem przez niego stanu wojennego w 2024 roku.",
-      "originalTitle": "Chcą kary śmierci dla byłego prezydenta",
-      "originalDescription": "Zespół specjalnego prokuratora Korei Południowej zawnioskował o karę śmierci dla byłego prezydenta Jun Suk Jeola. - Jun nie wykazał skruchy w związku ze swymi czynami, które spowodowały poważne naruszenie porządku konstytucyjnego i demokracji - wskazywał oskarżyciel. Były przywódca jest oskarżony o zamach stanu, nadużycie władzy i pomoc wrogiemu państwu w związku z krótkotrwałym wprowadzeniem przez niego stanu wojennego w 2024 roku."
-    },
-    {
-      "title": "Chciał się ochłodzić, wskoczył do basenu w parku rozrywki",
-      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/australia-upaly-kangur-chcial-sie-ochlodzic-wskoczyl-do-basenu-w-parku-rozrywki-wideo-st8845200?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 19:01:30 GMT",
-      "description": "Upały w Australii dają się we znaki nie tylko ludziom. W stanie Wiktoria młody kangur postanowił poradzić sobie z żarem w nietypowy sposób - wskoczył do basenu w parku rozrywki. Jego spontaniczna kąpiel szybko stała się hitem internetu.",
-      "originalTitle": "Chciał się ochłodzić, wskoczył do basenu w parku rozrywki",
-      "originalDescription": "Upały w Australii dają się we znaki nie tylko ludziom. W stanie Wiktoria młody kangur postanowił poradzić sobie z żarem w nietypowy sposób - wskoczył do basenu w parku rozrywki. Jego spontaniczna kąpiel szybko stała się hitem internetu."
-    },
-    {
-      "title": "Spotkanie nie tylko z premierem. \"Dziś poznałem też Larry'ego\"",
-      "link": "https://tvn24.pl/polska/spotkanie-nie-tylko-z-premierem-karol-nawrocki-poznal-larry-ego-st8845325?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 18:53:35 GMT",
-      "description": "Karol Nawrocki, który przebywa z wizytą w Wielkiej Brytanii, spotkał się nie tylko z brytyjskim premierem Keirem Starmerem. Politykom towarzyszył inny mieszkaniec Downing Street 10, kot Larry. Prezydent opublikował z nim zdjęcie.",
-      "originalTitle": "Spotkanie nie tylko z premierem. \"Dziś poznałem też Larry'ego\"",
-      "originalDescription": "Karol Nawrocki, który przebywa z wizytą w Wielkiej Brytanii, spotkał się nie tylko z brytyjskim premierem Keirem Starmerem. Politykom towarzyszył inny mieszkaniec Downing Street 10, kot Larry. Prezydent opublikował z nim zdjęcie."
     }
   ]
 }
