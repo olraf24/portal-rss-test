@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2026-01-14T07:39:35.401Z",
+  "lastUpdate": "2026-01-14T08:09:01.659Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Górnicza spółka w trudnej sytuacji",
+      "title": "Śledztwo w sprawie zgonów noworodków",
+      "link": "https://tvn24.pl/swiat/rosja-seria-zgonow-noworodkow-w-szpitalu-sa-pierwsze-zatrzymania-st8845640?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 08:07:03 GMT",
+      "description": "• Rosyjskie służby zatrzymały dwóch lekarzy.\n• Lekarze zostali zatrzymani ze szpitala w Nowokuźniecku.\n• Szpital, w którym pracowali zatrzymani lekarze, znajduje się na Syberii.\n• W szpitalu doszło do serii zgonów noworodków.\n• Zgony noworodków miały miejsce w ostatnich tygodniach.",
+      "originalTitle": "Seria zgonów noworodków w szpitalu. Są pierwsze zatrzymania",
+      "originalDescription": "Rosyjskie służby zatrzymały dwóch lekarzy ze szpitala w Nowokuźniecku na Syberii po tym, jak w ostatnich tygodniach doszło tam serii zgonów noworodków."
+    },
+    {
+      "title": "Obowiązki pracodawców przy mrozach",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/obowiazki-pracodawcy-w-trakcie-mrozu-temperatura-odziez-a-nawet-posilki-panstwowa-inspekcja-pracy-wyjasnia-st8845620?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 08:00:30 GMT",
+      "description": "• Państwowa Inspekcja Pracy przypomina o obowiązkach pracodawcy podczas mrozów.\n• Pracodawca ma obowiązek nie tylko ogrzać pomieszczenia.\n• Pracodawca ma obowiązek zapewnić odzież ochronną w niektórych przypadkach.\n• Pracodawca ma obowiązek zapewnić ciepłe posiłki w niektórych przypadkach.\n• Pracownicy mogą odmówić dalszej pracy, jeśli pracodawca nie spełni swoich obowiązków.",
+      "originalTitle": "\"Oznaką mogą być zgrabiałe ręce\". Obowiązki dla pracodawców podczas mrozów",
+      "originalDescription": "Państwowa Inspekcja Pracy przypomina, że podczas mrozów pracodawca ma obowiązek nie tylko ogrzać pomieszczenia, ale w niektórych przypadkach zapewnić też odzież ochronną czy ciepłe posiłki. W innym razie pracownicy mogą nawet odmówić dalszej pracy."
+    },
+    {
+      "title": "Sprawa Krwawego Tulipana wraca do sądu",
+      "link": "https://tvn24.pl/szczecin/szczecin-koszalin-kolobrzeg-proces-po-zabojstwie-trzech-kobiet-od-nowa-wyrok-w-sprawie-krwawego-tulipana-wydala-neosedzia-st8845589?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 07:59:56 GMT",
+      "description": "Przed Sądem Okręgowym w Koszalinie ponownie ma ruszyć proces pięciu osób, w tym Mariusza G., oskarżonego między innymi o zabójstwo trzech kobiet z Kołobrzegu. Mężczyzna został w czerwcu 2023 roku skazany na dożywocie. Sąd Apelacyjny w Szczecinie uchylił jednak ten wyrok, bo w składzie orzekającym była tak zwana neosędzia. Wskazano też na inne błędy.",
+      "originalTitle": "\"Krwawy Tulipan\" ponownie przed sądem. Wcześniejszy wyrok wydała \"neosędzia\"",
+      "originalDescription": "Przed Sądem Okręgowym w Koszalinie ponownie ma ruszyć proces pięciu osób, w tym Mariusza G., oskarżonego między innymi o zabójstwo trzech kobiet z Kołobrzegu. Mężczyzna został w czerwcu 2023 roku skazany na dożywocie. Sąd Apelacyjny w Szczecinie uchylił jednak ten wyrok, bo w składzie orzekającym była tak zwana neosędzia. Wskazano też na inne błędy."
+    },
+    {
+      "title": "Kiefer Sutherland zatrzymany",
+      "link": "https://tvn24.pl/kultura-i-styl/hollywood-aktor-kiefer-sutherland-zatrzymany-przez-policje-mial-zaatakowac-taksowkarza-st8845592?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 07:57:29 GMT",
+      "description": "Kanadyjski aktor Kiefer Sutherland został zatrzymany po tym, jak rzekomo zaatakował kierowcę taksówki w Hollywood. O sprawie poinformowała miejscowa policja.",
+      "originalTitle": "Aktor Kiefer Sutherland zatrzymany przez policję",
+      "originalDescription": "Kanadyjski aktor Kiefer Sutherland został zatrzymany po tym, jak rzekomo zaatakował kierowcę taksówki w Hollywood. O sprawie poinformowała miejscowa policja."
+    },
+    {
+      "title": "Policja: groził dostawcy jedzenia nożem",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-policja-grozil-dostawcy-jedzenia-nozem-st8845418?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 07:56:34 GMT",
+      "description": "15-latek i 19-latek zostali zatrzymani, po tym, jak jeden groził dostawcy jedzenia nożem, a drugi stał na czatach. Uciekając, zamienili się ubraniami. Ale i tak wpadli.",
+      "originalTitle": "Policja: groził dostawcy jedzenia nożem",
+      "originalDescription": "15-latek i 19-latek zostali zatrzymani, po tym, jak jeden groził dostawcy jedzenia nożem, a drugi stał na czatach. Uciekając, zamienili się ubraniami. Ale i tak wpadli."
+    },
+    {
+      "title": "Kardynał twarzą suplementów i funduszy inwestycyjnych. Kuria ostrzega",
+      "link": "https://tvn24.pl/krakow/kardynal-grzegorz-rys-w-reklamach-suplementow-i-funduszy-inwestycyjnych-kuria-ostrzega-przed-oszustwami-st8845615?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 07:41:59 GMT",
+      "description": "Reklamy internetowe, wykorzystujące wizerunek kardynała Grzegorza Rysia, to deepfake - ostrzegła krakowska kuria. Jak zaznaczył jej rzecznik, metropolita \"nigdy nie brał udziału w reklamach\" promujących m.in. suplementy i fundusze inwestycyjne.",
+      "originalTitle": "Kardynał twarzą suplementów i funduszy inwestycyjnych. Kuria ostrzega",
+      "originalDescription": "Reklamy internetowe, wykorzystujące wizerunek kardynała Grzegorza Rysia, to deepfake - ostrzegła krakowska kuria. Jak zaznaczył jej rzecznik, metropolita \"nigdy nie brał udziału w reklamach\" promujących m.in. suplementy i fundusze inwestycyjne."
+    },
+    {
+      "title": "\"Zostało parę tygodni na negocjacje\". Górnicza spółka na krawędzi",
       "link": "https://tvn24.pl/biznes/z-kraju/kryzys-w-jsw-spolka-weglowa-na-skraju-bankructwa-plynnosc-konczy-sie-w-styczniu-st8845573?source=rss",
       "pubDate": "Wed, 14 Jan 2026 07:26:36 GMT",
-      "description": "• Jastrzębska Spółka Węglowa walczy o przetrwanie.\n• Według ministra aktywów państwowych Wojciecha Balczuna pieniądze na koncie firmy mogą skończyć się na przełomie stycznia i lutego.\n• Warunkiem ratunkowej pożyczki jest drastyczny plan oszczędnościowy.\n• Wysokość ratunkowej pożyczki wynosi 2,9 mld zł.\n• Związki zawodowe nie zgadzają się na drastyczny plan oszczędnościowy.",
+      "description": "Jastrzębska Spółka Węglowa walczy o przetrwanie. Według ministra aktywów państwowych Wojciecha Balczuna pieniądze na koncie firmy mogą skończyć się na przełomie stycznia i lutego. Warunkiem ratunkowej pożyczki w wysokości 2,9 mld zł jest drastyczny plan oszczędnościowy, na który nie zgadzają się związki zawodowe.",
       "originalTitle": "\"Zostało parę tygodni na negocjacje\". Górnicza spółka na krawędzi",
       "originalDescription": "Jastrzębska Spółka Węglowa walczy o przetrwanie. Według ministra aktywów państwowych Wojciecha Balczuna pieniądze na koncie firmy mogą skończyć się na przełomie stycznia i lutego. Warunkiem ratunkowej pożyczki w wysokości 2,9 mld zł jest drastyczny plan oszczędnościowy, na który nie zgadzają się związki zawodowe."
     },
     {
-      "title": "Wypowiedź Trumpa na temat premiera Grenlandii",
+      "title": "Trump lekceważąco o premierze Grenlandii",
       "link": "https://tvn24.pl/swiat/donald-trump-lekcewazaco-o-premierze-grenlandii-st8845558?source=rss",
       "pubDate": "Wed, 14 Jan 2026 07:20:55 GMT",
-      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump lekceważąco odniósł się do premiera Grenlandii.\n• Premierem Grenlandii jest Jens-Frederik Nielsen.\n• Donald Trump powiedział: \"Nie zgadzam się z nim. Nie wiem, kim on jest. Nic o nim nie wiem\" w odniesieniu do Jens-Frederika Nielsena.",
+      "description": "Prezydent USA Donald Trump lekceważąco odniósł się do premiera Grenlandii Jensa-Frederika Nielsena. - Nie zgadzam się z nim. Nie wiem, kim on jest. Nic o nim nie wiem - skwitował Trump.",
       "originalTitle": "Trump lekceważąco o premierze Grenlandii",
       "originalDescription": "Prezydent USA Donald Trump lekceważąco odniósł się do premiera Grenlandii Jensa-Frederika Nielsena. - Nie zgadzam się z nim. Nie wiem, kim on jest. Nic o nim nie wiem - skwitował Trump."
     },
     {
-      "title": "Awaria w Kielcach dotyczy ogrzewania",
+      "title": "Awaria w Kielcach. Kilkadziesiąt tysięcy osób może zostać bez ogrzewania",
       "link": "https://tvn24.pl/kielce/kielce-awaria-magistrali-cieplowniczej-przerwy-w-dostawach-st8845601?source=rss",
       "pubDate": "Wed, 14 Jan 2026 07:18:03 GMT",
-      "description": "• Nawet 30 tysięcy osób może zostać pozbawionych dostaw ciepła.\n• Kilka placówek medycznych w Kielcach może zostać pozbawionych dostaw ciepła.\n• Kilka placówek oświatowych w Kielcach może zostać pozbawionych dostaw ciepła.\n• Awaria dotyczy zachodniej magistrali ciepłowniczej.\n• Służby biorą pod uwagę dwa scenariusze rozwoju sytuacji.\n• Zdarzenie może nastąpić w środę.",
+      "description": "Nawet 30 tysięcy osób i kilkanaście placówek medycznych oraz oświatowych w Kielcach może zostać w środę pozbawionych dostaw ciepła. To skutek awarii zachodniej magistrali ciepłowniczej. Służby biorą pod uwagę dwa scenariusze rozwoju sytuacji.",
       "originalTitle": "Awaria w Kielcach. Kilkadziesiąt tysięcy osób może zostać bez ogrzewania",
       "originalDescription": "Nawet 30 tysięcy osób i kilkanaście placówek medycznych oraz oświatowych w Kielcach może zostać w środę pozbawionych dostaw ciepła. To skutek awarii zachodniej magistrali ciepłowniczej. Służby biorą pod uwagę dwa scenariusze rozwoju sytuacji."
     },
@@ -34,54 +82,6 @@
       "description": "Czy Amerykanie pojmali dyktatora Wenezueli, czy raczej go porwali? I w imię czego? Pragnienia przywrócenia demokracji w tym południowoamerykańskim kraju? Walki z przemytem narkotyków? A może od początku chodziło tylko o dostęp do wenezuelskiej ropy? To tylko jeden z tematów, o których eksperci będą rozmawiać w debacie \"Nowy porządek międzynarodowy\". Oglądaj w środę o godzinie 15.00 w TVN24+.",
       "originalTitle": "Debata \"Nowy porządek międzynarodowy\". Już dziś o 15.00 w TVN24+",
       "originalDescription": "Czy Amerykanie pojmali dyktatora Wenezueli, czy raczej go porwali? I w imię czego? Pragnienia przywrócenia demokracji w tym południowoamerykańskim kraju? Walki z przemytem narkotyków? A może od początku chodziło tylko o dostęp do wenezuelskiej ropy? To tylko jeden z tematów, o których eksperci będą rozmawiać w debacie \"Nowy porządek międzynarodowy\". Oglądaj w środę o godzinie 15.00 w TVN24+."
-    },
-    {
-      "title": "Fogiel: Braun nie jest dla nas partnerem",
-      "link": "https://tvn24.pl/polska/radoslaw-fogiel-grzegorz-braun-nie-jest-dla-nas-partnerem-st8845561?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 07:07:25 GMT",
-      "description": "Będziemy prawdopodobnie rozmawiać o różnych formach paktu senackiego, ale Grzegorz Braun jest człowiekiem spoza nawiasu - powiedział w \"Rozmowie Piaseckiego\" w TVN24 poseł PiS Radosław Fogiel.",
-      "originalTitle": "Fogiel: Braun nie jest dla nas partnerem",
-      "originalDescription": "Będziemy prawdopodobnie rozmawiać o różnych formach paktu senackiego, ale Grzegorz Braun jest człowiekiem spoza nawiasu - powiedział w \"Rozmowie Piaseckiego\" w TVN24 poseł PiS Radosław Fogiel."
-    },
-    {
-      "title": "Rewolucja może być jak chaos. \"Nawet większy niż ten, który pamiętamy z Polskiego Ładu\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/ksef-od-1-lutego-2026-firmy-ostrzegaja-przed-chaosem-i-awariami-systemu-st8842644?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 07:05:42 GMT",
-      "description": "Niedługo rusza Krajowy System e-Faktur (KSeF). Niejasne przepisy i krótki czas na przygotowania budzą poważne wątpliwości wśród firm. Padają ostrzeżenia przed chaosem i powtórzeniem scenariusza z Polskiego Ładu. Obawy wyrażają też politycy - zarówno opozycji, jak i koalicji.",
-      "originalTitle": "Rewolucja może być jak chaos. \"Nawet większy niż ten, który pamiętamy z Polskiego Ładu\"",
-      "originalDescription": "Niedługo rusza Krajowy System e-Faktur (KSeF). Niejasne przepisy i krótki czas na przygotowania budzą poważne wątpliwości wśród firm. Padają ostrzeżenia przed chaosem i powtórzeniem scenariusza z Polskiego Ładu. Obawy wyrażają też politycy - zarówno opozycji, jak i koalicji."
-    },
-    {
-      "title": "Sikorski zaprasza na przejażdżkę rowerową. \"W szczytnym celu\"",
-      "link": "https://tvn24.pl/polska/radoslaw-sikorski-gra-dla-wosp-zaprasza-na-szczegolne-spotkanie-st8845484?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 07:04:41 GMT",
-      "description": "Ponad 20 tysięcy złotych za przejażdżkę rowerową w towarzystwie szefa polskiej dyplomacji Radosława Sikorskiego - tyle obecnie gotowi są wydać uczestnicy aukcji na rzecz WOŚP. Licytacja zakończy się 16 lutego.",
-      "originalTitle": "Sikorski zaprasza na przejażdżkę rowerową. \"W szczytnym celu\"",
-      "originalDescription": "Ponad 20 tysięcy złotych za przejażdżkę rowerową w towarzystwie szefa polskiej dyplomacji Radosława Sikorskiego - tyle obecnie gotowi są wydać uczestnicy aukcji na rzecz WOŚP. Licytacja zakończy się 16 lutego."
-    },
-    {
-      "title": "Pogoda. Ponad 20 stopni różnicy. Temperatura podzieliła Polskę",
-      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-ponad-20-stopni-roznicy-temperatura-podzielila-polske-st8845542?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 07:01:39 GMT",
-      "description": "Ponad 20 stopni Celsjusza - tyle w środę rano wyniosła różnica temperatury między najzimniejszym a najcieplejszym miejscem w Polsce. Mieszkańcy wschodnich regionów kraju zmagają się z silnym mrozem. Z kolei na zachodzie kraju termometry pokazują kilka stopni na plusie.",
-      "originalTitle": "Pogoda. Ponad 20 stopni różnicy. Temperatura podzieliła Polskę",
-      "originalDescription": "Ponad 20 stopni Celsjusza - tyle w środę rano wyniosła różnica temperatury między najzimniejszym a najcieplejszym miejscem w Polsce. Mieszkańcy wschodnich regionów kraju zmagają się z silnym mrozem. Z kolei na zachodzie kraju termometry pokazują kilka stopni na plusie."
-    },
-    {
-      "title": "Prokuratorzy z Minnesoty nie poddali się naciskom. Odchodzą ze stanowisk",
-      "link": "https://tvn24.pl/swiat/usa-smierc-w-minneapolis-prokuratorzy-rezygnuja-z-pracy-po-naciskach-st8845503?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 06:52:38 GMT",
-      "description": "Sześciu prokuratorów federalnych w Minnesocie zrezygnowało z pracy. Zdecydowali się na to z powodu nacisków Departamentu Sprawiedliwości na zbadanie sprawy wdowy po kobiecie zabitej przez agenta ICE oraz niechęci departamentu do zbadania sprawy strzelca - poinformował \"New York Times\".",
-      "originalTitle": "Prokuratorzy z Minnesoty nie poddali się naciskom. Odchodzą ze stanowisk",
-      "originalDescription": "Sześciu prokuratorów federalnych w Minnesocie zrezygnowało z pracy. Zdecydowali się na to z powodu nacisków Departamentu Sprawiedliwości na zbadanie sprawy wdowy po kobiecie zabitej przez agenta ICE oraz niechęci departamentu do zbadania sprawy strzelca - poinformował \"New York Times\"."
-    },
-    {
-      "title": "Policjanci od 20 lat poszukują sprawcy rozboju",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/policjanci-od-20-lat-poszukuja-sprawcy-rozboju-st8845560?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 06:46:54 GMT",
-      "description": "Funkcjonariusze z Komendy Wojewódzkiej Policji w Radomiu poszukują 47-letniego Tomasza Kosika. Mężczyzna jest ścigany listem gończym za rozbój. Od dwóch dekad pozostaje nieuchwytny.",
-      "originalTitle": "Policjanci od 20 lat poszukują sprawcy rozboju",
-      "originalDescription": "Funkcjonariusze z Komendy Wojewódzkiej Policji w Radomiu poszukują 47-letniego Tomasza Kosika. Mężczyzna jest ścigany listem gończym za rozbój. Od dwóch dekad pozostaje nieuchwytny."
     }
   ]
 }
