@@ -1,39 +1,71 @@
 {
-  "lastUpdate": "2026-01-14T17:41:48.968Z",
+  "lastUpdate": "2026-01-14T18:09:34.064Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zwiększona obecność wojskowa na Grenlandii",
-      "link": "https://tvn24.pl/swiat/grenlandia-dania-i-panstwa-nato-zwiekszaja-obecnosc-wojskowa-na-wyspie-w-usa-beda-rozmowy-o-grenlandii-st8848320?source=rss",
+      "title": "Oferta sprzedaży sieci kawiarni została wycofana",
+      "link": "https://tvn24.pl/biznes/ze-swiata/coca-cola-wycofuje-oferte-sprzedazy-popularnej-sieci-kawiarni-costa-coffee-st8848115?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 17:54:41 GMT",
+      "description": "• Coca-Cola rezygnuje ze sprzedaży sieci kawiarni Costa Coffee.\n• Powodem rezygnacji są zbyt niskie oferty, które otrzymała.\n• Informację o rezygnacji podał \"Guardian\".\n• Firma oczekiwała propozycji na poziomie dwóch miliardów funt��w.",
+      "originalTitle": "Wycofano ofertę sprzedaży popularnej sieci kawiarni",
+      "originalDescription": "Coca-Cola rezygnuje ze sprzedaży sieci kawiarni Costa Coffee z powodu zbyt niskich ofert, które otrzymała - podał \"Guardian\". Dodał, że firma oczekiwała propozycji na poziomie dwóch miliardów funtów."
+    },
+    {
+      "title": "Utrudnienia na kolei po uszkodzeniach sieci trakcyjnej",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-uszkodzona-siec-trakcyjna-utrudnienia-na-kolei-st8848481?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 17:53:16 GMT",
+      "description": "• Szybka Kolej Miejska informuje o dużych utrudnieniach w kursowaniu pociągów wszystkich przewoźników.\n• Utrudnienia są spowodowane śniegiem i marznącym deszczem.\n• Śnieg i marznący deszcz uszkodziły sieć trakcyjną.\n• Niektóre pociągi zostały całkowicie odwołane.",
+      "originalTitle": "Śnieg i marznący deszcz uszkodziły sieć trakcyjną. Utrudnienia na kolei",
+      "originalDescription": "Szybka Kolej Miejska informuje o dużych utrudnieniach w kursowaniu pociągów wszystkich przewoźników. Wszystko z powodu śniegu i marznącego deszczu, które uszkodziły sieć trakcyjną. Niektóre pociągi zostały całkowicie odwołane."
+    },
+    {
+      "title": "Polityka zagraniczna Trumpa",
+      "link": "https://tvn24.pl/polska/donald-trump-rewizjonista-porzadku-miedzynarodowego-wchodzimy-w-okres-nihilizmu-st8847871?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 17:52:50 GMT",
+      "description": "Donald Trump udowadnia swoimi decyzjami, że jest częścią obozu rewizjonistów porządku międzynarodowego - mówiła w \"Debacie\" w TVN24+ Agnieszka Bryc. Zdaniem Bartłomieja Nowaka weszliśmy w \"okres nihilizmu\" w porządku międzynarodowym. Paweł Musiałek ocenił natomiast, że sytuacja w Wenezueli ustawia \"kurs kolizyjny\" między Stanami Zjednoczonymi a Rosją. Zdaniem Michała Wojciechowskiego Donald Trump chce powrotu amerykańskiej hegemonii.",
+      "originalTitle": "Trump \"rewizjonistą\" porządku międzynarodowego? \"Wchodzimy w okres nihilizmu\"",
+      "originalDescription": "Donald Trump udowadnia swoimi decyzjami, że jest częścią obozu rewizjonistów porządku międzynarodowego - mówiła w \"Debacie\" w TVN24+ Agnieszka Bryc. Zdaniem Bartłomieja Nowaka weszliśmy w \"okres nihilizmu\" w porządku międzynarodowym. Paweł Musiałek ocenił natomiast, że sytuacja w Wenezueli ustawia \"kurs kolizyjny\" między Stanami Zjednoczonymi a Rosją. Zdaniem Michała Wojciechowskiego Donald Trump chce powrotu amerykańskiej hegemonii."
+    },
+    {
+      "title": "Odwołanie części połączeń",
+      "link": "https://tvn24.pl/biznes/z-kraju/pogoda-ostrzezenia-imgw-komunikat-pkp-intercity-opoznienia-na-lotnisku-chopina-st8848326?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 17:41:40 GMT",
+      "description": "PKP Intercity ostrzega, że w związku z prognozowanymi przez Instytut Meteorologii i Gospodarki Wodnej marznącymi opadami deszczu w środkowej i północnej Polsce możliwe będą odwołania części pociągów na wybranych trasach w ciągu najbliższych 24 godzin - podał w środę przewoźnik. O opóźnieniach w związku z pogodą informuje także Lotnisko Chopina.",
+      "originalTitle": "Ostrzeżenie dla pasażerów. Część połączeń może zostać odwołana",
+      "originalDescription": "PKP Intercity ostrzega, że w związku z prognozowanymi przez Instytut Meteorologii i Gospodarki Wodnej marznącymi opadami deszczu w środkowej i północnej Polsce możliwe będą odwołania części pociągów na wybranych trasach w ciągu najbliższych 24 godzin - podał w środę przewoźnik. O opóźnieniach w związku z pogodą informuje także Lotnisko Chopina."
+    },
+    {
+      "title": "Odladzają samoloty, opóźnienia na Lotnisku Chopina i w Modlinie",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-marznacy-deszcz-i-utrudnienia-na-lotniskach-st8848386?source=rss",
+      "pubDate": "Wed, 14 Jan 2026 17:40:46 GMT",
+      "description": "Trudne warunki pogodowe wpływają na funkcjonowanie Lotniska Chopina. Opóźnienia występują również w podwarszawskim Modlinie. Samoloty czekają na odlot z powodu marznącego deszczu, który wymusza zabezpieczenia dróg startowych i odladzanie maszyn.",
+      "originalTitle": "Odladzają samoloty, opóźnienia na Lotnisku Chopina i w Modlinie",
+      "originalDescription": "Trudne warunki pogodowe wpływają na funkcjonowanie Lotniska Chopina. Opóźnienia występują również w podwarszawskim Modlinie. Samoloty czekają na odlot z powodu marznącego deszczu, który wymusza zabezpieczenia dróg startowych i odladzanie maszyn."
+    },
+    {
+      "title": "Wojsko jedzie na Grenlandię",
+      "link": "https://tvn24.pl/swiat/grenlandia-na-wyspe-jada-sojusznicze-wojska-st8848320?source=rss",
       "pubDate": "Wed, 14 Jan 2026 17:32:13 GMT",
-      "description": "• Siły zbrojne Danii oraz innych państw Sojuszu Północnoatlantyckiego zwiększają swoją obecność na Grenlandii.\n• Duńskie i grenlandzkie władze przekazały tę informację w środę.\n• Szwecja potwierdziła udział swoich oficerów w tej grupie.\n• Informacja ta pojawiła się w dniu, w którym w Waszyngtonie mają odbyć się duńsko-grenlandzko-amerykańskie rozmowy na temat wyspy.",
-      "originalTitle": "Ogłaszają \"zwiększoną obecnością wojskową na Grenlandii\"",
+      "description": "Siły zbrojne Danii oraz innych państw Sojuszu Północnoatlantyckiego zwiększają swoją obecność na Grenlandii - przekazały w środę duńskie i grenlandzkie władze. Szwecja potwierdziła udział swoich oficerów w tej grupie. Informacja ta pojawiła się w dniu, w którym w Waszyngtonie mają odbyć się duńsko-grenlandzko-amerykańskie rozmowy na temat wyspy.",
+      "originalTitle": "Wojsko jedzie na Grenlandię",
       "originalDescription": "Siły zbrojne Danii oraz innych państw Sojuszu Północnoatlantyckiego zwiększają swoją obecność na Grenlandii - przekazały w środę duńskie i grenlandzkie władze. Szwecja potwierdziła udział swoich oficerów w tej grupie. Informacja ta pojawiła się w dniu, w którym w Waszyngtonie mają odbyć się duńsko-grenlandzko-amerykańskie rozmowy na temat wyspy."
     },
     {
-      "title": "Ostrzeżenia IMGW o śniegu i gołoledzi",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-14-01-slizgawica-mroz-i-duza-dostawa-sniegu-st8831653?source=rss",
-      "pubDate": "Sun, 11 Jan 2026 05:51:00 GMT",
-      "description": "• IMGW wydał alarmy pierwszego stopnia.\n• IMGW wydał alarmy drugiego stopnia.\n• Synoptycy ostrzegają przed obfitymi opadami śniegu.\n• Synoptycy ostrzegają przed gołoledzią.\n• Należy sprawdzić, gdzie należy zachowa�� ostrożność.",
-      "originalTitle": "Śnieżyce i gołoledź. Tu wciąż ostrzega IMGW",
-      "originalDescription": "IMGW wydał alarmy pierwszego i drugiego stopnia. Synoptycy nadal ostrzegają przed obfitymi opadami śniegu i gołoledzią. Sprawdź, gdzie należy zachować ostrożność."
-    },
-    {
-      "title": "Wzrost gospodarczy przy euro",
-      "link": "https://tvn24.pl/biznes/rynki/bulgaria-gielda-sofix-najwiekszy-wzrost-na-swiecie-dzieki-wprowadzeniu-nowej-waluty-i-wejsciu-do-strefy-euro-st8848174?source=rss",
+      "title": "Największy wzrost na świecie. Dzięki wprowadzeniu euro",
+      "link": "https://tvn24.pl/biznes/rynki/euro-bulgaria-gielda-sofix-najwiekszy-wzrost-na-swiecie-dzieki-wprowadzeniu-nowej-waluty-i-wejsciu-do-strefy-euro-st8848174?source=rss",
       "pubDate": "Wed, 14 Jan 2026 17:18:03 GMT",
-      "description": "• Bułgarska giełda w 2026 roku rośnie najszybciej na świecie.\n• Wzrost wartości akcji napędza wejście do strefy euro.\n• Nowa waluta doprowadzi gospodarkę do głębszej integracji europejskiej.\n• Informacje te podała agencja Bloomberg.",
-      "originalTitle": "Największy wzrost na świecie. Dzięki euro",
+      "description": "Bułgarska giełda w 2026 roku rośnie najszybciej na świecie. Wzrost wartości akcji napędza wejście do strefy euro. Zdaniem inwestorów nowa waluta doprowadzi gospodarkę do głębszej integracji europejskiej - podała agencja Bloomberg.",
+      "originalTitle": "Największy wzrost na świecie. Dzięki wprowadzeniu euro",
       "originalDescription": "Bułgarska giełda w 2026 roku rośnie najszybciej na świecie. Wzrost wartości akcji napędza wejście do strefy euro. Zdaniem inwestorów nowa waluta doprowadzi gospodarkę do głębszej integracji europejskiej - podała agencja Bloomberg."
     },
     {
       "title": "Zima, biała jezdnia i para pieszych na czerwonym świetle. Nagranie",
       "link": "https://tvn24.pl/katowice/czestochowa-zima-biala-jezdnia-i-para-pieszych-na-czerwonym-swietle-nagranie-st8848339?source=rss",
       "pubDate": "Wed, 14 Jan 2026 17:15:45 GMT",
-      "description": "Do internetu trafiło nagranie, na którym widać parę pieszych, którzy niemal zostali potrąceni przez samochód osobowy. Do zdarzenia doszło na skrzyżowaniu alei Jagiellońskiej z aleją Niepodległości.",
+      "description": "Do internetu trafiło nagranie, na którym widać parę pieszych, którzy niemal zostali potrąceni przez samochód osobowy. Do zdarzenia doszło w Częstochowie na skrzyżowaniu alej Jagiellońskiej i Niepodległości.",
       "originalTitle": "Zima, biała jezdnia i para pieszych na czerwonym świetle. Nagranie",
-      "originalDescription": "Do internetu trafiło nagranie, na którym widać parę pieszych, którzy niemal zostali potrąceni przez samochód osobowy. Do zdarzenia doszło na skrzyżowaniu alei Jagiellońskiej z aleją Niepodległości."
+      "originalDescription": "Do internetu trafiło nagranie, na którym widać parę pieszych, którzy niemal zostali potrąceni przez samochód osobowy. Do zdarzenia doszło w Częstochowie na skrzyżowaniu alej Jagiellońskiej i Niepodległości."
     },
     {
       "title": "Nowe prawo na Węgrzech może uniemożliwić wydanie Polsce Ziobry i Romanowskiego",
@@ -50,38 +82,6 @@
       "description": "Policja przestrzega przed utrudnieniami na trasie S8. Na wysokości miejscowości Ślubów (Mazowieckie) doszło do wypadku. Wyznaczono objazdy.",
       "originalTitle": "Trasa S8 zablokowana po wypadku",
       "originalDescription": "Policja przestrzega przed utrudnieniami na trasie S8. Na wysokości miejscowości Ślubów (Mazowieckie) doszło do wypadku. Wyznaczono objazdy."
-    },
-    {
-      "title": "Nauczycielka z Polski z szansą na milion dolarów",
-      "link": "https://tvn24.pl/polska/ewa-drobek-w-finalowej-dziesiatce-global-teacher-prize-nauczycielka-z-polski-z-szansa-na-milion-dolarow-st8846943?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 17:03:09 GMT",
-      "description": "Ewa Drobek, nauczycielka języków angielskiego i niemieckiego z Warszawy, znalazła się w finałowej dziesiątce nagrody Global Teacher Prize, nazywanej szkolnym Noblem. O tym, komu to zawdzięcza i kto zgłosił ją do konkursu, opowiada Justynie Sucheckiej z TVN24+.",
-      "originalTitle": "Nauczycielka z Polski z szansą na milion dolarów",
-      "originalDescription": "Ewa Drobek, nauczycielka języków angielskiego i niemieckiego z Warszawy, znalazła się w finałowej dziesiątce nagrody Global Teacher Prize, nazywanej szkolnym Noblem. O tym, komu to zawdzięcza i kto zgłosił ją do konkursu, opowiada Justynie Sucheckiej z TVN24+."
-    },
-    {
-      "title": "Zatrzymany na lotnisku, był poszukiwany czerwoną notą",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/lotnisko-modlin-zatrzymany-na-lotnisku-byl-poszukiwany-czerwona-nota-st8848345?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 17:03:01 GMT",
-      "description": "Strażnicy graniczni zatrzymali obywatela Litwy poszukiwanego czerwoną notą Interpolu wystawioną przez brytyjski wymiar sprawiedliwości.",
-      "originalTitle": "Zatrzymany na lotnisku, był poszukiwany czerwoną notą",
-      "originalDescription": "Strażnicy graniczni zatrzymali obywatela Litwy poszukiwanego czerwoną notą Interpolu wystawioną przez brytyjski wymiar sprawiedliwości."
-    },
-    {
-      "title": "Gigant likwiduje ponad milion miejsc pasażerskich. \"Ci głupi politycy\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/belgia-ryanair-likwiduje-ponad-milion-miejsc-ci-glupi-politycy-st8848040?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 16:57:26 GMT",
-      "description": "Ryanair poinformował w środę o likwidacji ponad miliona miejsc pasażerskich w Belgii w reakcji na wprowadzenie przez władze Charleroi nowego podatku. Prezes linii lotniczej Michael O'Leary ogłosił, że jest gotowy do redukcji liczby miejsc o kolejny milion, jeśli rząd zrealizuje \"równie głupi pomysł\" podniesienia podatku lotniczego.",
-      "originalTitle": "Gigant likwiduje ponad milion miejsc pasażerskich. \"Ci głupi politycy\"",
-      "originalDescription": "Ryanair poinformował w środę o likwidacji ponad miliona miejsc pasażerskich w Belgii w reakcji na wprowadzenie przez władze Charleroi nowego podatku. Prezes linii lotniczej Michael O'Leary ogłosił, że jest gotowy do redukcji liczby miejsc o kolejny milion, jeśli rząd zrealizuje \"równie głupi pomysł\" podniesienia podatku lotniczego."
-    },
-    {
-      "title": "\"Warszawa jeździ wolniej\". Trudne warunki i korki w całym mieście",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-trudne-warunki-na-stolecznych-drogach-st8845547?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 08:22:13 GMT",
-      "description": "Warunki na drogach w Warszawie i okolicach są trudne. - Na świeżym śniegu tworzy się twarda skorupa z zamarzającego deszczu - relacjonuje reporter tvnwarszawa.pl Mateusz Mżyk. Ślisko może być także na chodnikach. Występują utrudnienia w komunikacji miejskiej.",
-      "originalTitle": "\"Warszawa jeździ wolniej\". Trudne warunki i korki w całym mieście",
-      "originalDescription": "Warunki na drogach w Warszawie i okolicach są trudne. - Na świeżym śniegu tworzy się twarda skorupa z zamarzającego deszczu - relacjonuje reporter tvnwarszawa.pl Mateusz Mżyk. Ślisko może być także na chodnikach. Występują utrudnienia w komunikacji miejskiej."
     }
   ]
 }
