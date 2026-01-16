@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-16T16:44:18.226Z",
+  "lastUpdate": "2026-01-16T17:08:52.302Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Naukowcy szukają MAVEN",
+      "title": "Wypadek w młynie śmiertelny",
+      "link": "https://tvn24.pl/krakow/wesolow-wypadek-w-mlynie-mezczyzna-wciagniety-w-pas-transmisyjny-st8853058?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:55:47 GMT",
+      "description": "• Zmarł 39-latek.\n• Mężczyzna zmarł w Wesołowie.\n• Wesołów znajduje się w Małopolsce.\n• Przyczyną śmierci było wciągnięcie przez pas transmisyjny w młynie.\n• Śledztwo ma wyjaśnić przyczyny tragedii.",
+      "originalTitle": "Wypadek w młynie, nie żyje mężczyzna",
+      "originalDescription": "Nie żyje 39-latek, który w Wesołowie (Małopolskie) został wciągnięty przez pas transmisyjny w młynie. Przyczyny tragedii ma wyjaśnić śledztwo."
+    },
+    {
+      "title": "Tomasz P. ma kryminalną przeszłość",
+      "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-dragonem-kim-jest-tomasz-p-st8852742?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:51:52 GMT",
+      "description": "• Dyskusja nie cichnie po sobotnim spotkaniu.\n• Prezydent Karol Nawrocki \"serdecznie uściskał\" szefa gangu kiboli Tomasza P.\n• Tomasz P. jest znany pod pseudonimem \"Dragon\".\n• Tomasz P. jest aktywny w białostockich środowiskach kibolskich.\n• Tomasz P. jest aktywny w środowiskach kibolskich od ponad dwóch dekad.\n• Tomasz P. kieruje grupą przestępczą.\n• Tomasz P. był zaangażowany w propagowanie nazizmu.",
+      "originalTitle": "Kryminalna przeszłość Tomasza P. Kim jest \"Dragon\"?",
+      "originalDescription": "Nie cichnie dyskusja po sobotnim spotkaniu, w czasie którego prezydent Karol Nawrocki \"serdecznie uściskał\" szefa gangu kiboli Tomasza P. Znany pod pseudonimem \"Dragon\" od ponad dwóch dekad jest aktywny w białostockich środowiskach kibolskich. W jego kryminalnej przyszłości - oprócz kierowania grupą przestępczą - znalazło się między innymi propagowanie nazizmu."
+    },
+    {
+      "title": "Mężczyzna groził nożem, doszło do utraty kurtki",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-napastnik-grozil-nastolatkom-nozem-jeden-z-nich-stracil-droga-kurtke-st8852949?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:48:13 GMT",
+      "description": "Policjanci zatrzymali podejrzanego o dokonanie rozboju z użyciem noża. Młody mężczyzna miał nim grozić dwóm nastolatkom, a młodszemu z nich zabrać kurtkę wartą kilkaset złotych. Przy napastniku znaleziono także telefon pochodzący z innej kradzieży.",
+      "originalTitle": "Groził dwóm nastolatkom nożem. Jeden z nich stracił drogą kurtkę",
+      "originalDescription": "Policjanci zatrzymali podejrzanego o dokonanie rozboju z użyciem noża. Młody mężczyzna miał nim grozić dwóm nastolatkom, a młodszemu z nich zabrać kurtkę wartą kilkaset złotych. Przy napastniku znaleziono także telefon pochodzący z innej kradzieży."
+    },
+    {
+      "title": "Rzecznik KE: strona pornograficzna jest jedną z najpopularniejszych wśród dzieci w Polsce",
+      "link": "https://tvn24.pl/biznes/tech/rzecznik-ke-thomas-regnier-strona-pornograficzna-jest-jedna-z-najpopularniejszych-wsrod-dzieci-w-polsce-st8853016?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:48:09 GMT",
+      "description": "Jedną z dziewięciu najczęściej odwiedzanych stron internetowych w Polsce przez dzieci w wieku 7-14 lat jest strona pornograficzna - przekazał rzecznik Komisji Europejskiej Thomas Regnier. Dodał, że te statystyki są alarmujące i między innymi dlatego Bruksela pozwała Polskę do Trybunału Sprawiedliwości Unii Europejskiej (TSUE).",
+      "originalTitle": "Rzecznik KE: strona pornograficzna jest jedną z najpopularniejszych wśród dzieci w Polsce",
+      "originalDescription": "Jedną z dziewięciu najczęściej odwiedzanych stron internetowych w Polsce przez dzieci w wieku 7-14 lat jest strona pornograficzna - przekazał rzecznik Komisji Europejskiej Thomas Regnier. Dodał, że te statystyki są alarmujące i między innymi dlatego Bruksela pozwała Polskę do Trybunału Sprawiedliwości Unii Europejskiej (TSUE)."
+    },
+    {
+      "title": "Tragiczny pożar. Dziecko nie żyje, kobieta w szpitalu",
+      "link": "https://tvn24.pl/poznan/myjomice-pozar-domu-dziecko-nie-zyje-kobieta-w-szpitalu-st8853029?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:35:18 GMT",
+      "description": "Tragedia w Myjomicach pod Kępnem (Wielkopolska). W wyniku pożaru domu zmarło 11-letnie dziecko. 38-letnia kobieta po reanimacji trafiła do szpitala.",
+      "originalTitle": "Tragiczny pożar. Dziecko nie żyje, kobieta w szpitalu",
+      "originalDescription": "Tragedia w Myjomicach pod Kępnem (Wielkopolska). W wyniku pożaru domu zmarło 11-letnie dziecko. 38-letnia kobieta po reanimacji trafiła do szpitala."
+    },
+    {
+      "title": "Schowała się za Marsem i przestała odpowiadać. Naukowcy szukają MAVEN",
       "link": "https://tvn24.pl/tvnmeteo/nauka/misja-maven-nasa-szuka-utraconej-sondy-st8852910?source=rss",
       "pubDate": "Fri, 16 Jan 2026 16:23:48 GMT",
-      "description": "• NASA spróbuje połączyć się z marsjańską sondą MAVEN.\n• Amerykańska agencja kosmiczna straciła kontakt z orbiterem na początku grudnia.\n• Próba łączności będzie możliwa dopiero teraz z powodu położenia Czerwonej Planety względem Słońca.\n• Położenie Czerwonej Planety względem Słońca uniemożliwiało dotąd próbę łączności.\n• Sonda, z którą stracono kontakt, to MAVEN.",
+      "description": "NASA spróbuje połączyć się z marsjańską sondą MAVEN. Amerykańska agencja kosmiczna straciła kontakt z orbiterem na początku grudnia, ale z powodu położenia Czerwonej Planety względem Słońca próba łączności będzie możliwa dopiero teraz. Co mogło stać się z maszyną?",
       "originalTitle": "Schowała się za Marsem i przestała odpowiadać. Naukowcy szukają MAVEN",
       "originalDescription": "NASA spróbuje połączyć się z marsjańską sondą MAVEN. Amerykańska agencja kosmiczna straciła kontakt z orbiterem na początku grudnia, ale z powodu położenia Czerwonej Planety względem Słońca próba łączności będzie możliwa dopiero teraz. Co mogło stać się z maszyną?"
     },
     {
-      "title": "Czujka czadu: wybór i funkcjonowanie",
+      "title": "Małe urządzenie, które ratuje życie. Jak wybrać czujkę czadu?",
       "link": "https://tvn24.pl/poznan/male-urzadzenie-ktore-ratuje-zycie-jak-wybrac-czujke-czadu-st8852021?source=rss",
       "pubDate": "Fri, 16 Jan 2026 16:17:57 GMT",
-      "description": "• Czad zabija powoli i w ciszy.\n• Ratunkiem jest czujnik tlenku węgla.\n• Głośny dźwięk alarmu rozlegnie się, gdy tylko pojawi się zagrożenie.\n• Urządzenie można kupić już za kilkadziesiąt złotych.\n• Należy wiedzieć, jak wybrać odpowiednie urządzenie.\n• Należy wiedzieć, gdzie zainstalować urządzenie.\n• Należy wiedzieć, co zrobić, by detektor działał prawidłowo.",
+      "description": "Czad zabija powoli i w ciszy. Ratunkiem jest czujnik tlenku węgla. Wtedy, gdy tylko pojawi się zagrożenie, rozlegnie się głośny dźwięk alarmu. Urządzenie można kupić już za kilkadziesiąt złotych. Podpowiadamy jak je wybrać, gdzie zainstalować i co zrobić, by detektor działał prawidłowo.",
       "originalTitle": "Małe urządzenie, które ratuje życie. Jak wybrać czujkę czadu?",
       "originalDescription": "Czad zabija powoli i w ciszy. Ratunkiem jest czujnik tlenku węgla. Wtedy, gdy tylko pojawi się zagrożenie, rozlegnie się głośny dźwięk alarmu. Urządzenie można kupić już za kilkadziesiąt złotych. Podpowiadamy jak je wybrać, gdzie zainstalować i co zrobić, by detektor działał prawidłowo."
     },
     {
-      "title": "Od lutego brak porodówki w Wadowicach",
+      "title": "Od lutego bez porodówki w Wadowicach. \"Decyzja jest bardzo trudna\"",
       "link": "https://tvn24.pl/zdrowie/od-lutego-bez-porodowki-w-wadowicach-decyzja-jest-bardzo-trudna-st8852887?source=rss",
       "pubDate": "Fri, 16 Jan 2026 15:59:51 GMT",
-      "description": "• Powiatowy szpital w Wadowicach zawiesi działalność oddziału ginekologiczno-położniczego od 1 lutego.\n• Przyszłe mamy z powiatu wadowickiego będą musiały jeździć dziesiątki kilometrów, by urodzić dzieci.\n• W mieście nie brakuje emocji, rozmów i protestów.\n• W mieście odbywają się protesty.\n• Protestujący mają postulaty w związku z zawieszeniem działalności oddziału ginekologiczno-położniczego.",
+      "description": "Powiatowy szpital w Wadowicach od 1 lutego zawiesi działalność oddziału ginekologiczno-położniczego. Decyzja ta oznacza, że przyszłe mamy z powiatu wadowickiego będą musiały jeździć dziesiątki kilometrów, by urodzić dzieci. W mieście nie brakuje emocji, rozmów i protestów. Co postulują protestujący?",
       "originalTitle": "Od lutego bez porodówki w Wadowicach. \"Decyzja jest bardzo trudna\"",
       "originalDescription": "Powiatowy szpital w Wadowicach od 1 lutego zawiesi działalność oddziału ginekologiczno-położniczego. Decyzja ta oznacza, że przyszłe mamy z powiatu wadowickiego będą musiały jeździć dziesiątki kilometrów, by urodzić dzieci. W mieście nie brakuje emocji, rozmów i protestów. Co postulują protestujący?"
     },
     {
-      "title": "Nowe reguły dla głębin oceanu",
+      "title": "\"Głębiny oceanu nie mogą być jak dziki zachód\". Wchodzą nowe reguły gry",
       "link": "https://tvn24.pl/tvnmeteo/swiat/traktat-o-pelnym-morzu-wchodzi-w-zycie-glebiny-oceanu-nie-moga-byc-jak-dziki-zachod-wchodza-nowe-reguly-gry-st8852707?source=rss",
       "pubDate": "Fri, 16 Jan 2026 15:53:32 GMT",
       "description": "W sobotę w życie wchodzi nowy traktat międzynarodowy o ochronie mórz i oceanów. Będzie on obowiązywać na ponad 90 procentach wód oceanów, czyli około połowie powierzchni Ziemi.",
@@ -42,46 +82,6 @@
       "description": "Wniosek obrońców Zbigniewa Ziobry o wyłączenie sędzi Anny Prokopowicz rozpatrującej kwestię ewentualnego zastosowania aresztu wobec posła PiS nie został w piątek uwzględniony.",
       "originalTitle": "Sąd rozpatrzył wniosek obrońców Ziobry",
       "originalDescription": "Wniosek obrońców Zbigniewa Ziobry o wyłączenie sędzi Anny Prokopowicz rozpatrującej kwestię ewentualnego zastosowania aresztu wobec posła PiS nie został w piątek uwzględniony."
-    },
-    {
-      "title": "Wysyłali paczki z materiałami wybuchowymi. Odpowiedzą za sabotaż na rzecz Rosji",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-wysylali-paczki-z-materialami-wybuchowymi-st8852839?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 15:45:09 GMT",
-      "description": "Prokuratura Krajowa skierowała do sądu akt oskarżenia przeciwko podejrzanym o dokonanie aktów sabotażu na rzecz rosyjskiego wywiadu. Pięciu oskarżonych miało brać udział w wysyłaniu paczek z zakamuflowanymi zapalnikami oraz substancjami łatwopalnymi i wybuchowymi. Kilka przesyłek uległo samozapłonowi podczas ich transportu przez firmy kurierskie.",
-      "originalTitle": "Wysyłali paczki z materiałami wybuchowymi. Odpowiedzą za sabotaż na rzecz Rosji",
-      "originalDescription": "Prokuratura Krajowa skierowała do sądu akt oskarżenia przeciwko podejrzanym o dokonanie aktów sabotażu na rzecz rosyjskiego wywiadu. Pięciu oskarżonych miało brać udział w wysyłaniu paczek z zakamuflowanymi zapalnikami oraz substancjami łatwopalnymi i wybuchowymi. Kilka przesyłek uległo samozapłonowi podczas ich transportu przez firmy kurierskie."
-    },
-    {
-      "title": "Awaria popularnej platformy",
-      "link": "https://tvn24.pl/biznes/tech/awaria-popularnej-platformy-x-dawniej-twitter-elona-muska-st8852952?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 15:38:21 GMT",
-      "description": "Użytkownicy zgłaszali problemy z działaniem platformy X (dawniej Twitter), która należy do Elona Muska. W serwisie Downdetector odnotowano kilkadziesiąt tysięcy zgłoszeń o awarii.",
-      "originalTitle": "Awaria popularnej platformy",
-      "originalDescription": "Użytkownicy zgłaszali problemy z działaniem platformy X (dawniej Twitter), która należy do Elona Muska. W serwisie Downdetector odnotowano kilkadziesiąt tysięcy zgłoszeń o awarii."
-    },
-    {
-      "title": "Pacjenci pod respiratorami obawiają się o ciągłość leczenia. \"To nie są abstrakcyjne liczby\"",
-      "link": "https://tvn24.pl/zdrowie/pacjenci-pod-respiratorami-obawiaja-sie-o-ciaglosc-leczenia-mz-odpowiada-co-dalej-z-finansowaniem-takiej-opieki-st8852886?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 15:35:34 GMT",
-      "description": "Boimy się, że zabraknie nam tlenu - alarmują pacjenci wentylowani mechanicznie w domach. Chodzi o niedoszacowanie kontraktów na ich świadczenia. O problemie pod koniec ubiegłego roku mówił Ogólnopolski Związek Świadczeniodawców Wentylacji Mechanicznej. W ocenie przedstawicieli związku, negatywne skutki może odczuć nawet siedem tysięcy pacjentów korzystających z respiratorów po wyjściu ze szpitala. - NFZ nie potwierdził tych danych - odpowiada Ministerstwo Zdrowia i dodaje, że pacjentom zostanie zapewniona ciągłość leczenia.",
-      "originalTitle": "Pacjenci pod respiratorami obawiają się o ciągłość leczenia. \"To nie są abstrakcyjne liczby\"",
-      "originalDescription": "Boimy się, że zabraknie nam tlenu - alarmują pacjenci wentylowani mechanicznie w domach. Chodzi o niedoszacowanie kontraktów na ich świadczenia. O problemie pod koniec ubiegłego roku mówił Ogólnopolski Związek Świadczeniodawców Wentylacji Mechanicznej. W ocenie przedstawicieli związku, negatywne skutki może odczuć nawet siedem tysięcy pacjentów korzystających z respiratorów po wyjściu ze szpitala. - NFZ nie potwierdził tych danych - odpowiada Ministerstwo Zdrowia i dodaje, że pacjentom zostanie zapewniona ciągłość leczenia."
-    },
-    {
-      "title": "Kanada i Chiny wznawiają dialog. Nowa umowa handlowa",
-      "link": "https://tvn24.pl/biznes/ze-swiata/kanada-i-chiny-wznawiaja-dialog-obnizka-cel-na-produkty-st8852854?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 15:21:09 GMT",
-      "description": "Kanada i Chiny uzgodniły wstępne porozumienie handlowe, które zakłada znaczące obniżenie ceł na chińskie samochody elektryczne oraz kanadyjski rzepak. O przełomie poinformował w piątek premier Kanady Mark Carney, zapowiadając odbudowę relacji z drugim najważniejszym partnerem handlowym Ottawy po Stanach Zjednoczonych.",
-      "originalTitle": "Kanada i Chiny wznawiają dialog. Nowa umowa handlowa",
-      "originalDescription": "Kanada i Chiny uzgodniły wstępne porozumienie handlowe, które zakłada znaczące obniżenie ceł na chińskie samochody elektryczne oraz kanadyjski rzepak. O przełomie poinformował w piątek premier Kanady Mark Carney, zapowiadając odbudowę relacji z drugim najważniejszym partnerem handlowym Ottawy po Stanach Zjednoczonych."
-    },
-    {
-      "title": "Zderzenie autobusu z samochodem. Ranny pasażer zmarł w szpitalu",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/marki-zderzenie-autobusu-z-samochodem-pasazer-zmarl-w-szpitalu-st8849546?source=rss",
-      "pubDate": "Thu, 15 Jan 2026 07:12:34 GMT",
-      "description": "W podwarszawskich Markach autobus miejski zderzył się z autem osobowym. Dwie osoby zostały ranne. Policja podała, że jedna z nich zmarła w szpitalu.",
-      "originalTitle": "Zderzenie autobusu z samochodem. Ranny pasażer zmarł w szpitalu",
-      "originalDescription": "W podwarszawskich Markach autobus miejski zderzył się z autem osobowym. Dwie osoby zostały ranne. Policja podała, że jedna z nich zmarła w szpitalu."
     }
   ]
 }
