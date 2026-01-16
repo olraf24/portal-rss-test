@@ -1,8 +1,24 @@
 {
-  "lastUpdate": "2026-01-16T16:08:10.014Z",
+  "lastUpdate": "2026-01-16T16:44:18.226Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Naukowcy szukają MAVEN",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/misja-maven-nasa-szuka-utraconej-sondy-st8852910?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:23:48 GMT",
+      "description": "• NASA spróbuje połączyć się z marsjańską sondą MAVEN.\n• Amerykańska agencja kosmiczna straciła kontakt z orbiterem na początku grudnia.\n• Próba łączności będzie możliwa dopiero teraz z powodu położenia Czerwonej Planety względem Słońca.\n• Położenie Czerwonej Planety względem Słońca uniemożliwiało dotąd próbę łączności.\n• Sonda, z którą stracono kontakt, to MAVEN.",
+      "originalTitle": "Schowała się za Marsem i przestała odpowiadać. Naukowcy szukają MAVEN",
+      "originalDescription": "NASA spróbuje połączyć się z marsjańską sondą MAVEN. Amerykańska agencja kosmiczna straciła kontakt z orbiterem na początku grudnia, ale z powodu położenia Czerwonej Planety względem Słońca próba łączności będzie możliwa dopiero teraz. Co mogło stać się z maszyną?"
+    },
+    {
+      "title": "Czujka czadu: wybór i funkcjonowanie",
+      "link": "https://tvn24.pl/poznan/male-urzadzenie-ktore-ratuje-zycie-jak-wybrac-czujke-czadu-st8852021?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:17:57 GMT",
+      "description": "• Czad zabija powoli i w ciszy.\n• Ratunkiem jest czujnik tlenku węgla.\n• Głośny dźwięk alarmu rozlegnie się, gdy tylko pojawi się zagrożenie.\n• Urządzenie można kupić już za kilkadziesiąt złotych.\n• Należy wiedzieć, jak wybrać odpowiednie urządzenie.\n• Należy wiedzieć, gdzie zainstalować urządzenie.\n• Należy wiedzieć, co zrobić, by detektor działał prawidłowo.",
+      "originalTitle": "Małe urządzenie, które ratuje życie. Jak wybrać czujkę czadu?",
+      "originalDescription": "Czad zabija powoli i w ciszy. Ratunkiem jest czujnik tlenku węgla. Wtedy, gdy tylko pojawi się zagrożenie, rozlegnie się głośny dźwięk alarmu. Urządzenie można kupić już za kilkadziesiąt złotych. Podpowiadamy jak je wybrać, gdzie zainstalować i co zrobić, by detektor działał prawidłowo."
+    },
     {
       "title": "Od lutego brak porodówki w Wadowicach",
       "link": "https://tvn24.pl/zdrowie/od-lutego-bez-porodowki-w-wadowicach-decyzja-jest-bardzo-trudna-st8852887?source=rss",
@@ -20,7 +36,15 @@
       "originalDescription": "W sobotę w życie wchodzi nowy traktat międzynarodowy o ochronie mórz i oceanów. Będzie on obowiązywać na ponad 90 procentach wód oceanów, czyli około połowie powierzchni Ziemi."
     },
     {
-      "title": "Osoby oskarżone o sabotaż na rzecz Rosji",
+      "title": "Sąd rozpatrzył wniosek obrońców Ziobry",
+      "link": "https://tvn24.pl/polska/zbigniew-ziobro-sad-uwzglednil-wniosek-obroncow-o-wylaczenie-sedzi-agnieszki-prokopowicz-st8852962?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 15:52:52 GMT",
+      "description": "Wniosek obrońców Zbigniewa Ziobry o wyłączenie sędzi Anny Prokopowicz rozpatrującej kwestię ewentualnego zastosowania aresztu wobec posła PiS nie został w piątek uwzględniony.",
+      "originalTitle": "Sąd rozpatrzył wniosek obrońców Ziobry",
+      "originalDescription": "Wniosek obrońców Zbigniewa Ziobry o wyłączenie sędzi Anny Prokopowicz rozpatrującej kwestię ewentualnego zastosowania aresztu wobec posła PiS nie został w piątek uwzględniony."
+    },
+    {
+      "title": "Wysyłali paczki z materiałami wybuchowymi. Odpowiedzą za sabotaż na rzecz Rosji",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-wysylali-paczki-z-materialami-wybuchowymi-st8852839?source=rss",
       "pubDate": "Fri, 16 Jan 2026 15:45:09 GMT",
       "description": "Prokuratura Krajowa skierowała do sądu akt oskarżenia przeciwko podejrzanym o dokonanie aktów sabotażu na rzecz rosyjskiego wywiadu. Pięciu oskarżonych miało brać udział w wysyłaniu paczek z zakamuflowanymi zapalnikami oraz substancjami łatwopalnymi i wybuchowymi. Kilka przesyłek uległo samozapłonowi podczas ich transportu przez firmy kurierskie.",
@@ -28,12 +52,12 @@
       "originalDescription": "Prokuratura Krajowa skierowała do sądu akt oskarżenia przeciwko podejrzanym o dokonanie aktów sabotażu na rzecz rosyjskiego wywiadu. Pięciu oskarżonych miało brać udział w wysyłaniu paczek z zakamuflowanymi zapalnikami oraz substancjami łatwopalnymi i wybuchowymi. Kilka przesyłek uległo samozapłonowi podczas ich transportu przez firmy kurierskie."
     },
     {
-      "title": "Awaria platformy",
+      "title": "Awaria popularnej platformy",
       "link": "https://tvn24.pl/biznes/tech/awaria-popularnej-platformy-x-dawniej-twitter-elona-muska-st8852952?source=rss",
       "pubDate": "Fri, 16 Jan 2026 15:38:21 GMT",
-      "description": "Użytkownicy zgłaszają problemy z działaniem platformy X (dawniej Twitter), która należy do Elona Muska. W serwisie Downdetector odnotowano kilkadziesiąt tysięcy zgłoszeń o awarii.",
+      "description": "Użytkownicy zgłaszali problemy z działaniem platformy X (dawniej Twitter), która należy do Elona Muska. W serwisie Downdetector odnotowano kilkadziesiąt tysięcy zgłoszeń o awarii.",
       "originalTitle": "Awaria popularnej platformy",
-      "originalDescription": "Użytkownicy zgłaszają problemy z działaniem platformy X (dawniej Twitter), która należy do Elona Muska. W serwisie Downdetector odnotowano kilkadziesiąt tysięcy zgłoszeń o awarii."
+      "originalDescription": "Użytkownicy zgłaszali problemy z działaniem platformy X (dawniej Twitter), która należy do Elona Muska. W serwisie Downdetector odnotowano kilkadziesiąt tysięcy zgłoszeń o awarii."
     },
     {
       "title": "Pacjenci pod respiratorami obawiają się o ciągłość leczenia. \"To nie są abstrakcyjne liczby\"",
@@ -58,30 +82,6 @@
       "description": "W podwarszawskich Markach autobus miejski zderzył się z autem osobowym. Dwie osoby zostały ranne. Policja podała, że jedna z nich zmarła w szpitalu.",
       "originalTitle": "Zderzenie autobusu z samochodem. Ranny pasażer zmarł w szpitalu",
       "originalDescription": "W podwarszawskich Markach autobus miejski zderzył się z autem osobowym. Dwie osoby zostały ranne. Policja podała, że jedna z nich zmarła w szpitalu."
-    },
-    {
-      "title": "\"Będzie wyjątkowy do końca świata i jeden dzień dłużej\". Unikatowa rzeźba na aukcji WOŚP",
-      "link": "https://tvn24.pl/wosp2026/kolorowy-kon-na-aukcji-34-finalu-wielkiej-orkiestry-swiatecznej-pomocy-st8852716?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 15:10:02 GMT",
-      "description": "Prezydentka Gdyni Aleksandra Kosiorek wraz z uczniami liceum plastycznego wpadli na wyjątkowy pomysł na wsparcie Wielkiej Orkiestry Świątecznej Pomocy. Na aukcji 34. Finału wystawią własnoręcznie pomalowaną rzeźbę konia naturalnych rozmiarów.",
-      "originalTitle": "\"Będzie wyjątkowy do końca świata i jeden dzień dłużej\". Unikatowa rzeźba na aukcji WOŚP",
-      "originalDescription": "Prezydentka Gdyni Aleksandra Kosiorek wraz z uczniami liceum plastycznego wpadli na wyjątkowy pomysł na wsparcie Wielkiej Orkiestry Świątecznej Pomocy. Na aukcji 34. Finału wystawią własnoręcznie pomalowaną rzeźbę konia naturalnych rozmiarów."
-    },
-    {
-      "title": "Bawili się na śniegu. Opiekunka zauważyła, że zniknęły dwie dziewczynki",
-      "link": "https://tvn24.pl/poznan/poznan-zaginely-przedszkolaki-policja-wyjasnia-okolicznosci-st8852652?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 14:59:20 GMT",
-      "description": "Podczas zimowej zabawy na śniegu zniknęły dwie dziewczynki z poznańskiego przedszkola. Na miejscu pojawili się policjanci. Po kilkudziesięciu minutach pięciolatkę i sześciolatkę odnalazł jeden z rodziców.",
-      "originalTitle": "Bawili się na śniegu. Opiekunka zauważyła, że zniknęły dwie dziewczynki",
-      "originalDescription": "Podczas zimowej zabawy na śniegu zniknęły dwie dziewczynki z poznańskiego przedszkola. Na miejscu pojawili się policjanci. Po kilkudziesięciu minutach pięciolatkę i sześciolatkę odnalazł jeden z rodziców."
-    },
-    {
-      "title": "Pogoda w Polsce. Nadciąga pochód siarczystego mrozu",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-pogoda-na-weekend-i-na-ferie-nadciaga-pochod-siarczystego-mrozu-st8852820?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 14:57:07 GMT",
-      "description": "Pogoda na weekend i początek ferii. W nadchodzące dni nad Polskę napłyną masy zimnego, suchego powietrza ze wschodu. W wielu regionach temperatura przez całą dobę pozostanie poniżej zera, a w nocy wartości mogą spadać do nawet -20 stopni Celsjusza.",
-      "originalTitle": "Pogoda w Polsce. Nadciąga pochód siarczystego mrozu",
-      "originalDescription": "Pogoda na weekend i początek ferii. W nadchodzące dni nad Polskę napłyną masy zimnego, suchego powietrza ze wschodu. W wielu regionach temperatura przez całą dobę pozostanie poniżej zera, a w nocy wartości mogą spadać do nawet -20 stopni Celsjusza."
     }
   ]
 }
