@@ -1,29 +1,61 @@
 {
-  "lastUpdate": "2026-01-17T15:36:23.903Z",
+  "lastUpdate": "2026-01-17T16:06:37.567Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Słowenia wysyła wojsko na Grenlandię",
+      "title": "Prognoza pogody: mróz w Polsce",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-zima-wyz-christian-pogoda-na-ferie-nadciaga-fala-siarczystego-mrozu-ile-stopni-bedzie-st8854167?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 16:04:18 GMT",
+      "description": "Mróz w Polsce. Wyż Christian sprowadza do kraju mroźne, kontynentalne powietrze ze wschodu. W kolejnych dniach czeka nas sporo słońca, ale także coraz niższa temperatura. Lokalnie nocami może być nawet -20 stopni.",
+      "originalTitle": "Mróz. Polska w objęciach mroźnego Christiana. Ile stopni będzie",
+      "originalDescription": "Mróz w Polsce. Wyż Christian sprowadza do kraju mroźne, kontynentalne powietrze ze wschodu. W kolejnych dniach czeka nas sporo słońca, ale także coraz niższa temperatura. Lokalnie nocami może być nawet -20 stopni."
+    },
+    {
+      "title": "Oferta i wizyty w resorcie Ziobry",
+      "link": "https://tvn24.pl/polska/kamper-sprawiedliwosci-dziennikarz-tvn24-o-kilkudziesieciu-wizytach-w-resorcie-ziobry-przed-ogloszeniem-konkursu-st8853707?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 16:00:34 GMT",
+      "description": "• Za czasów Zbigniewa Ziobry fundacja Centrum Pomocy Pokrzywdzonym zakupiła pojazd za pieniądze z Funduszu Sprawiedliwości.\n• Pojazd miał być mobilnym studiem telewizyjnym.\n• Kosztował ponad 300 tysięcy złotych.\n• Okazało się, że to był zwykły kamper.\n• Dziennikarz \"Czarno na białym\" Artur Warcholiński powiedział o tym w TVN24 w sobotę.\n• Artur Warcholiński jest autorem reportażu \"Kamper sprawiedliwości\".\n• Oferta konkursowa złożona przez fundację \"w gruncie rzeczy nie miała żadnego znaczenia\".",
+      "originalTitle": "Oferta, która \"nie miała znaczenia\" i kilkadziesiąt wizyt w resorcie Ziobry",
+      "originalDescription": "Za czasów Zbigniewa Ziobry fundacja Centrum Pomocy Pokrzywdzonym za pieniądze z Funduszu Sprawiedliwości zakupiła pojazd, który miał być mobilnym studiem telewizyjnym. Kosztował ponad 300 tysięcy złotych. - Okazało się, że to był zwykły kamper - powiedział w sobotę w TVN24 dziennikarz \"Czarno na białym\" Artur Warcholiński, autor reportażu \"Kamper sprawiedliwości\". Jak dodał, oferta konkursowa złożona przez fundację \"w gruncie rzeczy nie miała żadnego znaczenia\"."
+    },
+    {
+      "title": "Służby znajdują balony z Białorusi",
+      "link": "https://tvn24.pl/bialystok/bialystok-spadly-balony-z-nielegalnym-ladunkiem-wlecialo-kilkadziesiat-obiektow-apel-policji-st8853401?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 08:55:01 GMT",
+      "description": "• Dziewięć balonów meteorologicznych, którymi przemycane były papierosy, zostało odnalezionych przez podlaską policję i Straż Graniczną.\n• Kolejne dwa balony odkryto na Lubelszczyźnie.\n• Biuro Bezpieczeństwa Narodowego poinformowało, że w nocy wleciało w polską przestrzeń kilkadziesiąt obiektów.\n• Służby apelują, by w przypadku zauważenia takich balonów, nie zbliżać się do nich.\n• Zdarzenie związane z zauważeniem balonów należy zgłosić na numer alarmowy 112.",
+      "originalTitle": "\"Wleciało kilkadziesiąt obiektów\". Służby znajdują kolejne balony z Białorusi",
+      "originalDescription": "Dziewięć balonów meteorologicznych, którymi przemycane były papierosy przez polsko-białoruską granicę, zostało odnalezionych przez podlaską policję i Straż Graniczną. Kolejne dwa odkryto na Lubelszczyźnie. Biuro Bezpieczeństwa Narodowego poinformowało, że w nocy wleciało w polską przestrzeń kilkadziesiąt obiektów. Służby apelują, by w przypadku zauważenia takich balonów, nie zbliżać się do nich, a zdarzenie zgłosić na numer alarmowy 112."
+    },
+    {
+      "title": "\"Dramatyczna\" sytuacja w Kijowie i \"wyrazy najwyższego uznania dla Polaków\" za pomoc",
+      "link": "https://tvn24.pl/swiat/kijow-dramatyczna-sytuacja-w-stolicy-ukrainy-ambasador-wasyl-bodnar-z-wyrazami-najwyzszego-uznania-dla-polakow-za-pomoc-st8854057?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 15:43:23 GMT",
+      "description": "Silne mrozy i rosyjski agresor nie odpuszczają mieszkańcom Ukrainy. Będący w Kijowie dziennikarz Ołeh Biłecki opisał trudności, z którymi muszą się mierzyć mieszkańcy ukraińskiej stolicy. Dla nich ruszyła zbiórka, za którą Polakom podziękował ambasador Ukrainy Wasyl Bodnar.",
+      "originalTitle": "\"Dramatyczna\" sytuacja w Kijowie i \"wyrazy najwyższego uznania dla Polaków\" za pomoc",
+      "originalDescription": "Silne mrozy i rosyjski agresor nie odpuszczają mieszkańcom Ukrainy. Będący w Kijowie dziennikarz Ołeh Biłecki opisał trudności, z którymi muszą się mierzyć mieszkańcy ukraińskiej stolicy. Dla nich ruszyła zbiórka, za którą Polakom podziękował ambasador Ukrainy Wasyl Bodnar."
+    },
+    {
+      "title": "Słowenia wysyła żołnierzy na Grenlandię",
       "link": "https://tvn24.pl/swiat/slowenia-wysyla-dwoch-oficerow-na-grenlandie-maja-wspolpracowac-z-zolnierzami-innych-panstw-nato-st8854129?source=rss",
       "pubDate": "Sat, 17 Jan 2026 15:26:52 GMT",
-      "description": "• Dwóch oficerów słoweńskich sił zbrojnych uda się na Grenlandię.\n• Oficerowie mają wziąć udział w planowaniu i realizacji międzynarodowych ćwiczeń wojskowych.\n• Ćwiczenia wojskowe będą odbywać się pod dowództwem Danii.",
+      "description": "Dwóch oficerów słoweńskich sił zbrojnych uda się na Grenlandię. Mają wziąć udział w planowaniu i realizacji międzynarodowych ćwiczeń wojskowych pod dowództwem Danii.",
       "originalTitle": "Słowenia wysyła żołnierzy na Grenlandię",
       "originalDescription": "Dwóch oficerów słoweńskich sił zbrojnych uda się na Grenlandię. Mają wziąć udział w planowaniu i realizacji międzynarodowych ćwiczeń wojskowych pod dowództwem Danii."
     },
     {
-      "title": "Susza i pożary lasu",
+      "title": "Tej suszy nie zatrzyma deszcz. Może zaostrzyć pożary",
       "link": "https://tvn24.pl/tvnmeteo/swiat/usa-susza-sniezna-tej-suszy-nie-zatrzyma-deszcz-moze-zaostrzyc-pozary-st8854097?source=rss",
       "pubDate": "Sat, 17 Jan 2026 15:21:15 GMT",
-      "description": "• \"Śnieżna susza\" zagraża zachodnim Stanom Zjednoczonym.\n• W wielu regionach w rekordowo ciepłym grudniu głównie padał deszcz.\n• Deszcz nie pozwalał na wytworzenie pokrywy śnieżnej.\n• Brak pokrywy śnieżnej może mieć przełożenie na wczesny początek sezonu pożarów.\n• Ekspertowie wyrażają obawy dotyczące braku pokrywy śnieżnej.",
+      "description": "\"Śnieżna susza\" zagraża zachodnim Stanom Zjednoczonym. W wielu regionach w rekordowo ciepłym grudniu głównie padał deszcz, nie pozwalając na wytworzenie pokrywy śnieżnej. Zdaniem ekspertów jej brak może mieć przełożenie na wczesny początek sezonu pożarów.",
       "originalTitle": "Tej suszy nie zatrzyma deszcz. Może zaostrzyć pożary",
       "originalDescription": "\"Śnieżna susza\" zagraża zachodnim Stanom Zjednoczonym. W wielu regionach w rekordowo ciepłym grudniu głównie padał deszcz, nie pozwalając na wytworzenie pokrywy śnieżnej. Zdaniem ekspertów jej brak może mieć przełożenie na wczesny początek sezonu pożarów."
     },
     {
-      "title": "Zgony przed 50. rokiem życia w rodzinie",
+      "title": "Ktoś w rodzinie zmarł nagle przed 50. rokiem życia? Powinna zapalić nam się czerwona lampka",
       "link": "https://tvn24.pl/najnowsze/genetyczne-choroby-serca-dlaczego-mlodzi-umieraja-na-boisku-2025-rok-genetyki-w-kardiologii-st8852350?source=rss",
       "pubDate": "Sat, 17 Jan 2026 15:18:57 GMT",
-      "description": "• Wiedząc o genetycznym obciążeniu danego pacjenta, można wcześniej reagować na objawy.\n• Można dobierać spersonalizowane leczenie, wiedząc o genetycznym obciążeniu pacjenta.\n• Można zapobiegać powikłaniom, w tym także tym najgorszym, wiedząc o genetycznym obciążeniu pacjenta.\n• Choroby kardiologiczne o podłożu genetycznym są częstą przyczyną nagłego zgonu osób przed 35. rokiem życia.\n• Osoby, które umierają z powodu chorób kardiologicznych o podłożu genetycznym, to między innymi młodzi sportowcy.",
+      "description": "Wiedząc o genetycznym obciążeniu danego pacjenta, można wcześniej reagować na objawy, dobierać spersonalizowane leczenie i zapobiegać powikłaniom, także tym najgorszym. Choroby kardiologiczne o podłożu genetycznym są częstą przyczyną nagłego zgonu osób przed 35. rokiem życia. Umierają przez to między innymi młodzi sportowcy.",
       "originalTitle": "Ktoś w rodzinie zmarł nagle przed 50. rokiem życia? Powinna zapalić nam się czerwona lampka",
       "originalDescription": "Wiedząc o genetycznym obciążeniu danego pacjenta, można wcześniej reagować na objawy, dobierać spersonalizowane leczenie i zapobiegać powikłaniom, także tym najgorszym. Choroby kardiologiczne o podłożu genetycznym są częstą przyczyną nagłego zgonu osób przed 35. rokiem życia. Umierają przez to między innymi młodzi sportowcy."
     },
@@ -50,38 +82,6 @@
       "description": "Czy Niemcy potrzebują bomby atomowej? - pytają niemieckie media i wskazują na możliwość współpracy w jej pozyskaniu ze Szwecją i Polską. W obliczu zagrożenia z Rosji i krytyki z USA kolejne państwa Europy szukają sposobów, jak zapewnić sobie bezpieczeństwo. Czy atom byłby rozwiązaniem? Spytaliśmy o to ekspertów z Polski i Niemiec.",
       "originalTitle": "Niemcy potrzebują broni jądrowej? \"Sygnały wysyłane do USA\"",
       "originalDescription": "Czy Niemcy potrzebują bomby atomowej? - pytają niemieckie media i wskazują na możliwość współpracy w jej pozyskaniu ze Szwecją i Polską. W obliczu zagrożenia z Rosji i krytyki z USA kolejne państwa Europy szukają sposobów, jak zapewnić sobie bezpieczeństwo. Czy atom byłby rozwiązaniem? Spytaliśmy o to ekspertów z Polski i Niemiec."
-    },
-    {
-      "title": "\"Jesteśmy w pełni przygotowani\". Jerzy Owsiak: razem można robić rzeczy niezwykłe",
-      "link": "https://tvn24.pl/wosp2026/34-final-wosp-jerzy-owsiak-o-przygotowaniach-st8853752?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 14:29:20 GMT",
-      "description": "Prezes Wielkiej Orkiestry Świątecznej Pomocy Jerzy Owsiak zapewnił, że przed 34. Finałem WOŚP, który odbędzie się w niedzielę 25 stycznia, wszystko zostało przygotowane. Podzielił się też kilkoma szczegółami z przygotowań i skomentował krytyczne uwagi pod jego adresem.",
-      "originalTitle": "\"Jesteśmy w pełni przygotowani\". Jerzy Owsiak: razem można robić rzeczy niezwykłe",
-      "originalDescription": "Prezes Wielkiej Orkiestry Świątecznej Pomocy Jerzy Owsiak zapewnił, że przed 34. Finałem WOŚP, który odbędzie się w niedzielę 25 stycznia, wszystko zostało przygotowane. Podzielił się też kilkoma szczegółami z przygotowań i skomentował krytyczne uwagi pod jego adresem."
-    },
-    {
-      "title": "Z płonącego mieszkania uciekł przez balkon",
-      "link": "https://tvn24.pl/katowice/ledziny-pozar-mieszkania-lokator-trafil-do-szpitala-st8854086?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 14:22:52 GMT",
-      "description": "Strażacy ugasili pożar mieszkania w Lędzinach. Na zdjęciach widać, że ogień zdołał mocno się rozwinąć, a płomienie buchały przez balkon. Wcześniej uciekł tamtędy mieszkaniec lokalu.",
-      "originalTitle": "Z płonącego mieszkania uciekł przez balkon",
-      "originalDescription": "Strażacy ugasili pożar mieszkania w Lędzinach. Na zdjęciach widać, że ogień zdołał mocno się rozwinąć, a płomienie buchały przez balkon. Wcześniej uciekł tamtędy mieszkaniec lokalu."
-    },
-    {
-      "title": "Dwa kilometry na godzinę. Rakieta wielka jak Big Ben ruszyła",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/nasa-misja-artemis-ii-dwa-kilometry-na-godzine-rakieta-sls-wielka-jak-big-ben-ruszyla-st8853728?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 14:21:16 GMT",
-      "description": "Po ponad 50 latach od ostatniego lotu Apollo 17, ludzkość znów przygotowuje się do wyprawy w stronę Księżyca. Rakieta Space Launch System, mająca zabrać czworo astronautów w historyczną podróż, właśnie ruszyła na miejsce startu, który ma odbyć się już za kilka tygodni.",
-      "originalTitle": "Dwa kilometry na godzinę. Rakieta wielka jak Big Ben ruszyła",
-      "originalDescription": "Po ponad 50 latach od ostatniego lotu Apollo 17, ludzkość znów przygotowuje się do wyprawy w stronę Księżyca. Rakieta Space Launch System, mająca zabrać czworo astronautów w historyczną podróż, właśnie ruszyła na miejsce startu, który ma odbyć się już za kilka tygodni."
-    },
-    {
-      "title": "Kontrole, kary, zamknięte kluby. \"Efekt Crans-Montana\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-rzym-kontrole-kary-zamkniete-kluby-efekt-crans-montana-st8854085?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 14:17:07 GMT",
-      "description": "W Rzymie zamknięto trzy ekskluzywne kluby po wykryciu poważnych uchybień w zakresie bezpieczeństwa przeciwpożarowego. Jak poinformował w sobotę \"Il Messaggero\", kontrole nasiliły się w następstwie tragicznego pożaru w szwajcarskim barze Le Constellation, gdzie zginęło 40 osób.",
-      "originalTitle": "Kontrole, kary, zamknięte kluby. \"Efekt Crans-Montana\"",
-      "originalDescription": "W Rzymie zamknięto trzy ekskluzywne kluby po wykryciu poważnych uchybień w zakresie bezpieczeństwa przeciwpożarowego. Jak poinformował w sobotę \"Il Messaggero\", kontrole nasiliły się w następstwie tragicznego pożaru w szwajcarskim barze Le Constellation, gdzie zginęło 40 osób."
     }
   ]
 }
