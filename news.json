@@ -1,26 +1,58 @@
 {
-  "lastUpdate": "2026-01-17T09:36:46.636Z",
+  "lastUpdate": "2026-01-17T10:06:41.362Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Naukowiec zaginiony",
+      "title": "Pomyłka w identyfikacji zwłok",
+      "link": "https://tvn24.pl/biznes/ze-swiata/brazylia-uznali-go-za-zmarlego-brata-juz-czwarty-raz-st8853468?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 09:59:57 GMT",
+      "description": "• Brazylijscy urzędnicy po raz czwarty omyłkowo uznali 97-letniego Waltera Almeidę za zmarłego brata bliźniaka.\n• Urzędnicy wstrzymali mu wypłatę emerytury.\n• Walter Almeida ma 97 lat.\n• Senior od października bezskutecznie próbuje udowodnić, że wciąż żyje.\n• Walter Almeida próbuje odzyskać utracone świadczenie.",
+      "originalTitle": "Uznali go za zmarłego brata. \"Już czwarty raz\"",
+      "originalDescription": "Brazylijscy urzędnicy po raz czwarty omyłkowo uznali 97-letniego Waltera Almeidę za zmarłego brata bliźniaka i wstrzymali mu wypłatę emerytury. Senior od października bezskutecznie próbuje udowodnić, że wciąż żyje, by odzyskać utracone świadczenie."
+    },
+    {
+      "title": "Pogoda w Polsce: spadek temperatury",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-idzie-mroz-ze-wschodu-bedzie-dla-nas-wyzwaniem-tomasz-wasilewski-i-prognoza-na-zime-st8853345?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 09:47:27 GMT",
+      "description": "• W prognozach nie widać końca zimna.\n• Na wschodzie Europy utworzył się wał wysokiego ciśnienia.\n• Wał wysokiego ciśnienia jest idealną drogą do napływu mroźnego powietrza ze wschodu.\n• Tomasz Wasilewski jest prezentorem tvnmeteo.pl.\n• Tomasz Wasilewski wypowiedział się na antenie TVN24.",
+      "originalTitle": "Pogoda w Polsce. \"Idzie mróz ze wschodu\". Będzie dla nas wyzwaniem",
+      "originalDescription": "W prognozach nie widać końca zimna. Na wschodzie Europy utworzył się wał wysokiego ciśnienia. - To idealna droga do napływu mroźnego powietrza ze wschodu - mówił na antenie TVN24 Tomasz Wasilewski, prezenter tvnmeteo.pl."
+    },
+    {
+      "title": "Utrudnienia w ruchu pociągów",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-wypadek-na-torach-utrudnienia-st8853454?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 09:43:37 GMT",
+      "description": "W rejonie stacji PKP Grodzisk Mazowiecki doszło do tragicznego zdarzenia. Są utrudnienia w ruchu pociągów. Pierwszą informację otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Wypadek na torach. Utrudnienia w ruchu pociągów",
+      "originalDescription": "W rejonie stacji PKP Grodzisk Mazowiecki doszło do tragicznego zdarzenia. Są utrudnienia w ruchu pociągów. Pierwszą informację otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Tragiczny pożar. Nie żyje 11-letni chłopiec, jego matka zmarła w szpitalu",
+      "link": "https://tvn24.pl/poznan/myjomice-pozar-domu-nie-zyje-11-letni-chlopiec-matka-zmarla-w-szpitalu-ojciec-uratowal-dwoje-malych-dzieci-st8853029?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:35:18 GMT",
+      "description": "Nie żyje 38-letnia kobieta, którą strażacy wynieśli z domu w Myjomicach pod Kępnem (Wielkopolska), w którym wybuchł pożar. Wcześniej w wyniku zdarzenia zmarł 11-letni chłopiec. Ojciec zdołał uratować dwoje dzieci, w wieku roku i czterech lat.",
+      "originalTitle": "Tragiczny pożar. Nie żyje 11-letni chłopiec, jego matka zmarła w szpitalu",
+      "originalDescription": "Nie żyje 38-letnia kobieta, którą strażacy wynieśli z domu w Myjomicach pod Kępnem (Wielkopolska), w którym wybuchł pożar. Wcześniej w wyniku zdarzenia zmarł 11-letni chłopiec. Ojciec zdołał uratować dwoje dzieci, w wieku roku i czterech lat."
+    },
+    {
+      "title": "Zaginął naukowiec. Wyszedł z domu i nie wrócił",
       "link": "https://tvn24.pl/rzeszow/rzeszow-zaginal-naukowiec-doktor-kacper-swierk-policja-prosi-o-pomoc-w-poszukiwaniach-st8853435?source=rss",
       "pubDate": "Sat, 17 Jan 2026 09:33:42 GMT",
-      "description": "• Policjanci z Komendy Miejskiej Policji w Rzeszowie prowadzą poszukiwania 49-letniego Kacpra Świerka.\n• Kacper Świerk jest mieszkańcem Rzeszowa.\n• Mężczyzna wyszedł z domu 13 stycznia tego roku.\n• Do tej pory Kacper Świerk nie powrócił do miejsca zamieszkania.",
+      "description": "Policjanci z Komendy Miejskiej Policji w Rzeszowie prowadzą poszukiwania 49-letniego Kacpra Świerka, mieszkańca Rzeszowa. Mężczyzna 13 stycznia tego roku wyszedł z domu i do tej pory nie powrócił do miejsca zamieszkania.",
       "originalTitle": "Zaginął naukowiec. Wyszedł z domu i nie wrócił",
       "originalDescription": "Policjanci z Komendy Miejskiej Policji w Rzeszowie prowadzą poszukiwania 49-letniego Kacpra Świerka, mieszkańca Rzeszowa. Mężczyzna 13 stycznia tego roku wyszedł z domu i do tej pory nie powrócił do miejsca zamieszkania."
     },
     {
-      "title": "Sprawa mafii śmieciowej",
+      "title": "\"Wirtuoz mafii śmieciowej\" przyjechał i \"wyłożył karty na stół\". Kulisy dziennikarskiej prowokacji",
       "link": "https://tvn24.pl/polska/umowa-smieciowa-dziennikarz-tvn24-o-efektach-dziennikarskiej-prowokacji-st8853360?source=rss",
       "pubDate": "Sat, 17 Jan 2026 09:30:58 GMT",
-      "description": "• Dwa i pół miliona złotych tygodniowo to kwota, którą mogą zarabiać mafie śmieciowe, które nielegalnie pozbywają się odpadów, według wyliczeń dziennikarza TVN24 Wojciecha Bojanowskiego.\n• Dziennikarz TVN24 Wojciech Bojanowski przeprowadził wyliczenia dotyczące zarobków mafii śmieciowych.\n• W drugiej części serii \"Umowa śmieciowa\" w TVN24+ reporter decyduje się na dziennikarską prowokację.\n• Celem dziennikarskiej prowokacji jest ujawnienie szczegółów działalności mafii śmieciowych.\n• W wyniku prowokacji \"wirtuoz mafii śmieciowej\" zdradza dziennikarzowi szczegóły swojej działalności \"bez ogródek\".\n• Kontrolerzy nie są w stanie skutecznie przeciwdziałać działalności mafii śmieciowych i \"rozkładają ręce\".",
+      "description": "Dwa i pół miliona złotych tygodniowo - dokładnie tyle według wyliczeń dziennikarza TVN24 Wojciecha Bojanowskiego mogą zarabiać mafie śmieciowe, które nielegalnie pozbywają się odpadów. W drugiej części serii \"Umowa śmieciowa\" w TVN24+ reporter decyduje się na dziennikarską prowokację. W jej wyniku \"wirtuoz mafii śmieciowej\" zdradza mu \"bez ogródek\" szczegóły swojej działalności. Kontrolerzy rozkładają ręce.",
       "originalTitle": "\"Wirtuoz mafii śmieciowej\" przyjechał i \"wyłożył karty na stół\". Kulisy dziennikarskiej prowokacji",
       "originalDescription": "Dwa i pół miliona złotych tygodniowo - dokładnie tyle według wyliczeń dziennikarza TVN24 Wojciecha Bojanowskiego mogą zarabiać mafie śmieciowe, które nielegalnie pozbywają się odpadów. W drugiej części serii \"Umowa śmieciowa\" w TVN24+ reporter decyduje się na dziennikarską prowokację. W jej wyniku \"wirtuoz mafii śmieciowej\" zdradza mu \"bez ogródek\" szczegóły swojej działalności. Kontrolerzy rozkładają ręce."
     },
     {
-      "title": "Awaria magistrali wodociągowej",
+      "title": "Pękła magistrala wodociągowa. Część mieszkańców bez wody",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-pekla-magistrala-wodociagowa-czesc-mieszkancow-bez-wody-st8853432?source=rss",
       "pubDate": "Sat, 17 Jan 2026 09:15:41 GMT",
       "description": "W sobotę doszło do awarii wodociągowej w Pruszkowie. Część budynków nie ma wody, w wielu obniżone jest ciśnienie.",
@@ -28,7 +60,7 @@
       "originalDescription": "W sobotę doszło do awarii wodociągowej w Pruszkowie. Część budynków nie ma wody, w wielu obniżone jest ciśnienie."
     },
     {
-      "title": "Dofinansowanie do 40 tysięcy złotych",
+      "title": "Można dostać 40 tysięcy złotych. Wyścig z czasem",
       "link": "https://tvn24.pl/biznes/moto/dotacja-do-zakupu-auta-wyscig-z-czasem-st8853407?source=rss",
       "pubDate": "Sat, 17 Jan 2026 09:13:28 GMT",
       "description": "Tylko w ciągu kilkunastu pierwszych dni stycznia 2026 roku złożono prawie pięć tysięcy wniosków o dofinansowanie zakupu auta elektrycznego w ramach programu NaszEauto - poinformowało Polskie Stowarzyszenie Nowej Mobilności. Jeśli tempo składania wniosków się utrzyma, środki z budżetu programu mogą zostać wykorzystane jeszcze przed końcem miesiąca.",
@@ -50,38 +82,6 @@
       "description": "Dwa balony z papierosami bez polskich znaków akcyzy spadły w nocy z piątku na sobotę w województwie podlaskim. Policja apeluje, by o każdym podobnym znalezisku natychmiast informować służby.",
       "originalTitle": "Spadły kolejne balony z nielegalnym ładunkiem. Apel policji",
       "originalDescription": "Dwa balony z papierosami bez polskich znaków akcyzy spadły w nocy z piątku na sobotę w województwie podlaskim. Policja apeluje, by o każdym podobnym znalezisku natychmiast informować służby."
-    },
-    {
-      "title": "Iran chce na stałe wyłączyć internet. Dostęp tylko dla wybranych",
-      "link": "https://tvn24.pl/swiat/iran-chce-na-stale-wylaczyc-internet-dostep-tylko-dla-wybranych-st8853340?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 08:53:30 GMT",
-      "description": "Rząd w Teheranie planuje trwale wyłączyć w Iranie dostęp do internetu, zezwalając na dostęp do sieci jedynie wybranym osobom zweryfikowanym przez reżim - podaje \"The Guardian\", powołując się na irańskich aktywistów. Blokadę mają umożliwiać technologie z Chin.",
-      "originalTitle": "Iran chce na stałe wyłączyć internet. Dostęp tylko dla wybranych",
-      "originalDescription": "Rząd w Teheranie planuje trwale wyłączyć w Iranie dostęp do internetu, zezwalając na dostęp do sieci jedynie wybranym osobom zweryfikowanym przez reżim - podaje \"The Guardian\", powołując się na irańskich aktywistów. Blokadę mają umożliwiać technologie z Chin."
-    },
-    {
-      "title": "Dźwięki stolicy szkodzą jej mieszkańcom. Alarmujące wyniki raportu",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-dzwieki-miasta-szkodza-jego-mieszkancom-alarmujace-wyniki-raportu-st8844453?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 08:31:09 GMT",
-      "description": "Środowisko akustyczne Warszawy szkodzi zdrowiu jej mieszkańców - to wniosek autorów raportu dotyczącego hałasu w stolicy. Z badań wynika, że miasto nigdy nie milknie, a uciążliwe dźwięki docierają niemal wszędzie. Wytchnienia nie można znaleźć nawet w parkach i mieszkaniach.",
-      "originalTitle": "Dźwięki stolicy szkodzą jej mieszkańcom. Alarmujące wyniki raportu",
-      "originalDescription": "Środowisko akustyczne Warszawy szkodzi zdrowiu jej mieszkańców - to wniosek autorów raportu dotyczącego hałasu w stolicy. Z badań wynika, że miasto nigdy nie milknie, a uciążliwe dźwięki docierają niemal wszędzie. Wytchnienia nie można znaleźć nawet w parkach i mieszkaniach."
-    },
-    {
-      "title": "Alarm przed smogiem. \"Sytuacja może się tylko pogorszyć\"",
-      "link": "https://tvn24.pl/tvnmeteo/smog/bosnia-i-hercegowina-alarm-przed-smogiem-sytuacja-moze-sie-tylko-pogorszyc-st8853203?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 08:10:00 GMT",
-      "description": "Smog zalega nad Bośnią i Hercegowiną. W niektórych miastach dopuszczalne wartości pyłów w powietrzu były wielokrotnie przekroczone, a sytuacja ma się pogarszać. W jednej z gmin wprowadzono stan alarmowy.",
-      "originalTitle": "Alarm przed smogiem. \"Sytuacja może się tylko pogorszyć\"",
-      "originalDescription": "Smog zalega nad Bośnią i Hercegowiną. W niektórych miastach dopuszczalne wartości pyłów w powietrzu były wielokrotnie przekroczone, a sytuacja ma się pogarszać. W jednej z gmin wprowadzono stan alarmowy."
-    },
-    {
-      "title": "Ataki zabójczych dronów. Tak będą z nimi walczyć",
-      "link": "https://tvn24.pl/swiat/ataki-zabojczych-dronow-w-kolumbii-tak-beda-z-nimi-walczyc-st8853293?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 08:08:57 GMT",
-      "description": "Kolumbia w piątek rozpoczęła projekt o wartości 1,7 miliarda dolarów, którego celem jest opracowanie tak zwanej tarczy antydronowej. Ma chronić przed atakami bezzałogowych dronów obsługiwanych przez nielegalne grupy zbrojne - poinformował minister obrony tego kraju.",
-      "originalTitle": "Ataki zabójczych dronów. Tak będą z nimi walczyć",
-      "originalDescription": "Kolumbia w piątek rozpoczęła projekt o wartości 1,7 miliarda dolarów, którego celem jest opracowanie tak zwanej tarczy antydronowej. Ma chronić przed atakami bezzałogowych dronów obsługiwanych przez nielegalne grupy zbrojne - poinformował minister obrony tego kraju."
     }
   ]
 }
