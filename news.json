@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-17T20:06:24.702Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-17T20:37:34.232Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Lawiny w Alpach, 5 ofiar śmiertelnych",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/austria-lawiny-w-alpejskich-kurortach-zginelo-piec-osob-st8854288?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 19:45:59 GMT",
+      "description": "Pięć osób zginęło w sobotę w austriackich Alpach na skutek zejścia lawin. Do zdarzeń doszło w powiecie St. Johann im Pongau w centralnej części kraju. Austriaccy ratownicy ostrzegają, że na wielu stokach pokrywa śnieżna jest słabo związana.",
+      "originalTitle": "Lawiny w alpejskich kurortach. Zginęło pięć osób",
+      "originalDescription": "Pięć osób zginęło w sobotę w austriackich Alpach na skutek zejścia lawin. Do zdarzeń doszło w powiecie St. Johann im Pongau w centralnej części kraju. Austriaccy ratownicy ostrzegają, że na wielu stokach pokrywa śnieżna jest słabo związana."
+    },
+    {
+      "title": "Pożar w Myjomicach, ustalona przyczyna",
+      "link": "https://tvn24.pl/poznan/tragedia-w-myjomicach-biegly-wskazal-przyczyne-pozaru-st8854336?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 19:37:41 GMT",
+      "description": "• Przegrzana bateria w zabawce spowodowała pożar w Myjomicach.\n• Wskutek pożaru zmarli matka i jej 11-letni syn.\n• Biegły z zakresu pożarnictwa stwierdził, że przegrzana bateria była przyczyną pożaru.\n• Do zdarzenia doszło w piątek po południu.",
+      "originalTitle": "Tragedia w Myjomicach. Biegły wskazał przyczynę pożaru",
+      "originalDescription": "Przegrzana bateria w zabawce spowodowała pożar w Myjomicach, wskutek którego zmarli matka i jej 11-letni syn. Tak stwierdził biegły z zakresu pożarnictwa. Do zdarzenia doszło w piątek po południu."
+    },
+    {
+      "title": "Polska wymienia MiG-i na drony",
+      "link": "https://tvn24.pl/fakty-artykuly/polskie-mysliwce-mig-29-ostatecznie-trafia-do-ukrainy-st8854304?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 19:16:19 GMT",
+      "description": "• Niedawno w tej sprawie doszło do politycznej scysji miedzy prezydentem a MON-em.\n• Scysja wygląda na to, że jest już zażegnana.\n• Decyzja zapadła, że Polska przekaże Ukrainie myśliwce MiG-29.\n• W zamian za myśliwce MiG-29 Polska otrzyma od Ukrainy technologie dronowe i antyrakietowe.",
+      "originalTitle": "\"Polska podjęła decyzję\". Ostatnie MiG-i za technologie dronowe",
+      "originalDescription": "Niedawno w tej sprawie doszło do politycznej scysji miedzy prezydentem a MON-em, ale wygląda na to, że jest już zażegnana. Decyzja zapadła - Polska przekaże Ukrainie myśliwce MiG-29 w zamian za jej technologie dronowe i antyrakietowe."
+    },
+    {
+      "title": "Stanowisko Hołowni w sprawie Polski 2050",
+      "link": "https://tvn24.pl/polska/brak-checi-na-start-szymona-holowni-ryszard-petru-o-obradach-wladz-polski-2050-st8854302?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 18:50:29 GMT",
+      "description": "• Ryszard Petru wypowiedział się w programie \"Faktach po Faktach\" w TVN24.\n• Ryszard Petru podkreślił, że nie widzi \"podstaw prawnych\" do powtórnego przeprowadzenia wyborów na przewodniczącego Polski 2050.\n• Ryszard Petru mówił o swojej ocenie postawy Szymona Hołowni.\n• Ryszard Petru odniósł się do postawy Szymona Hołowni w trakcie obrad władz ugrupowania.",
+      "originalTitle": "\"Brak chęci\" u Hołowni. Petru o kulisach obrad w Polsce 2050",
+      "originalDescription": "Ryszard Petru w \"Faktach po Faktach\" w TVN24 podkreślił, iż nie widzi \"podstaw prawnych\" do powtórnego przeprowadzenia wyborów na przewodniczącego Polski 2050. Poseł mówił też o swojej ocenie postawy Szymona Hołowni w trakcie obrad władz ugrupowania."
+    },
+    {
+      "title": "Pogoda na 18.01: noc pogodna, temperatura niska",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-18-01-noc-bedzie-pogodna-ale-trzeba-sie-cieplo-ubrac-st8854191?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 18:31:12 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli niedzieli.\n• Data tego dnia to 18.01.\n• Noc w większości kraju zapowiada się pogodnie.\n• Noc będzie mroźna.\n• Miejscami wystąpią mgły.",
+      "originalTitle": "Pogoda na jutro - niedziela, 18.01. Noc będzie pogodna, ale trzeba się ciepło ubrać",
+      "originalDescription": "Pogoda na jutro, czyli niedzielę, 18.01. Noc w większości kraju zapowiada się pogodnie, choć mroźnie. Miejscami wystąpią mgły."
+    },
+    {
+      "title": "Limity prędkości w Kalifornii chronią walenie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kalifornia-limity-predkosci-lodzi-maja-chronic-walenie-st8853516?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 17:43:09 GMT",
+      "description": "• Kalifornia rozszerza czasowe ograniczenia w prędkości poruszania się łodzi w rejonie wybrzeża.\n• Ograniczenia mają chronić migrujące walenie.\n• Walenie giną w zderzeniach ze zbyt szybko poruszającymi się jednostkami morskimi.\n• Projekt prowadzony był w wybranych punktach wybrzeża od kilku lat.",
+      "originalTitle": "Limity prędkości w Kalifornii. Mają chronić... walenie",
+      "originalDescription": "Kalifornia rozszerza czasowe ograniczenia w prędkości poruszania się łodzi w rejonie wybrzeża. Mają one chronić migrujące walenie, które giną w zderzeniach ze zbyt szybko poruszającymi się jednostkami morskimi. Od kilku lat projekt prowadzony był w wybranych punktach wybrzeża."
+    },
+    {
+      "title": "UE i Mercosur zawarły umowę handlową",
+      "link": "https://tvn24.pl/swiat/unia-europejska-podpisala-umowe-handlowa-z-mercosur-st8854254?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 17:12:28 GMT",
+      "description": "Unia Europejska podpisała w sobotę w Asuncion umowę handlową z Mercosurem. Porozumienie ułatwi przepływ między UE a blokiem państw Ameryki Południowej produktów przemysłowych i rolnych.",
+      "originalTitle": "Unia Europejska podpisała umowę handlową z Mercosur",
+      "originalDescription": "Unia Europejska podpisała w sobotę w Asuncion umowę handlową z Mercosurem. Porozumienie ułatwi przepływ między UE a blokiem państw Ameryki Południowej produktów przemysłowych i rolnych."
+    },
+    {
+      "title": "Pierwsza DJ-ka Francji. Brigitte Macron porwała dzieci do tańca",
+      "link": "https://tvn24.pl/swiat/pierwsza-dj-ka-francji-brigitte-macron-porwala-dzieci-do-tanca-st8854211?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 17:05:26 GMT",
+      "description": "Francuska pierwsza dama Brigitte Macron i selekcjoner piłkarskiej reprezentacji Francji Didier Deschamps podczas charytatywnej imprezy w Disnaylandzie na moment zamienili się w DJ-ów. Nagranie, jak stoją za konsoletą i tańczą w rytm muzyki obiegło media społecznościowe.",
+      "originalTitle": "Pierwsza DJ-ka Francji. Brigitte Macron porwała dzieci do tańca",
+      "originalDescription": "Francuska pierwsza dama Brigitte Macron i selekcjoner piłkarskiej reprezentacji Francji Didier Deschamps podczas charytatywnej imprezy w Disnaylandzie na moment zamienili się w DJ-ów. Nagranie, jak stoją za konsoletą i tańczą w rytm muzyki obiegło media społecznościowe."
+    },
+    {
+      "title": "Krakowska strefa rodzi się w bólach",
+      "link": "https://tvn24.pl/krakow/krakow-pierwsze-dwa-tygodnie-dzialania-sct-protesty-wandalizm-oplaty-wyrok-st8851437?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 16:51:28 GMT",
+      "description": "Z jednej strony – przeciwnicy, również tacy dopuszczający się aktów wandalizmu. Z drugiej – urzędnicy i unijne regulacje. Z trzeciej – sąd, wydający zupełnie niespodziewany wyrok. Pierwsze dwa tygodnie funkcjonowania Strefy Czystego Transportu w Krakowie nie były łatwe.",
+      "originalTitle": "Krakowska strefa rodzi się w bólach",
+      "originalDescription": "Z jednej strony – przeciwnicy, również tacy dopuszczający się aktów wandalizmu. Z drugiej – urzędnicy i unijne regulacje. Z trzeciej – sąd, wydający zupełnie niespodziewany wyrok. Pierwsze dwa tygodnie funkcjonowania Strefy Czystego Transportu w Krakowie nie były łatwe."
+    },
+    {
+      "title": "Donald Trump zapowiada cła na europejskich sojuszników. Chodzi o Grenlandię",
+      "link": "https://tvn24.pl/swiat/grenlandia-usa-donald-trump-zapowiada-cla-na-europejskie-kraje-st8854221?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 16:43:39 GMT",
+      "description": "Donald Trump zapowiedział wdrożenie ceł na szereg europejskich państw, dopóki Stany Zjednoczone nie uzyskają pozwolenia na zakup Grenlandii. \"Te cła będą opłacane do czasu zawarcia umowy w sprawie całkowitego zakupu Grenlandii\" - napisał w swoim serwisie Truth Social.",
+      "originalTitle": "Donald Trump zapowiada cła na europejskich sojuszników. Chodzi o Grenlandię",
+      "originalDescription": "Donald Trump zapowiedział wdrożenie ceł na szereg europejskich państw, dopóki Stany Zjednoczone nie uzyskają pozwolenia na zakup Grenlandii. \"Te cła będą opłacane do czasu zawarcia umowy w sprawie całkowitego zakupu Grenlandii\" - napisał w swoim serwisie Truth Social."
+    }
+  ]
 }
