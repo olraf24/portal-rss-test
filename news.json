@@ -1,10 +1,18 @@
 {
-  "lastUpdate": "2026-01-18T00:53:18.645Z",
+  "lastUpdate": "2026-01-18T01:35:26.267Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Europejskie Nagrody Filmowe przyznane",
+      "title": "Pogoda na niedzielę 18.01",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-18-01-niedziela-pod-znakiem-slonca-i-mrozu-st8854228?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 01:00:00 GMT",
+      "description": "• Dziś jest niedziela.\n• Data dzisiejsza to 18.01.\n• Aura dzisiaj będzie pogodna.\n• Temperatura miejscami spadnie do -10 stopni.\n• Będzie potrzebna zimowa kurtka.",
+      "originalTitle": "Pogoda na dziś - niedziela, 18.01. Niedziela pod znakiem słońca i mrozu",
+      "originalDescription": "Pogoda na dziś, czyli niedzielę, 18.01. Podobnie jak w sobotę, aura dzisiaj również będzie pogodna. Jednak zdecydowanie przyzna się ciepła, zimowa kurtka. Na termometrach miejscami temperatura spadnie do -10 stopni."
+    },
+    {
+      "title": "Nagrody Europejskiego Filmu przyznane",
       "link": "https://tvn24.pl/kultura-i-styl/europejskie-nagrody-filmowe-2026-pelna-lista-nagrodzonych-st8838354?source=rss",
       "pubDate": "Sat, 17 Jan 2026 21:01:58 GMT",
       "description": "• Europejskie Nagrody Filmowe 2026 zostały przyznane.\n• Najważniejsza nagroda, Europejski Film, trafiła do filmu \"Wartości sentymentalnej\".\n• Reżyserem filmu \"Wartości sentymentalnej\" jest Joachim Trier.\n• Nagrodę Europejska Muzyka otrzymała Hania Rani.\n• Hania Rani otrzymała nagrodę za muzykę do filmu \"Wartości sentymentalnej\".",
@@ -20,15 +28,15 @@
       "originalDescription": "W miejscowości Targanice (Małopolska) wybuchł pożar w restauracji, w której odbywało się wesele. Około 100 osób ewakuowało się przed przybyciem strażaków. Rzecznik wadowickiej straży pożarnej przekazał, że poszkodowanych jest siedem osób, w tym strażak. Trzy osoby trafiły do szpitala."
     },
     {
-      "title": "Mrozowe ostrzeżenia IMGW dla połowy kraju",
+      "title": "Mrozy w połowie kraju według IMGW",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-geste-mgly-alarmy-pogodowe-grozna-aura-w-13-wojewodztwach-imgw-znow-ostrzega-st8852268?source=rss",
       "pubDate": "Sat, 17 Jan 2026 05:25:00 GMT",
-      "description": "IMGW wydał ostrzeżenia meteorologiczne. W wielu regionach kraju noc przyniesie niskie temperatury, miejscami nawet rzędu -18 stopni Celsjusza. Lokalnie mogą również snuć się mgły.",
+      "description": "• IMGW wydał ostrzeżenia meteorologiczne.\n• Noc przyniesie niskie temperatury w wielu regionach kraju.\n• Temperatury mogą sięgać nawet -18 stopni Celsjusza.\n• Mgły mogą snuć się lokalnie.",
       "originalTitle": "Ostrzeżenia IMGW. Niebezpieczny mróz w połowie kraju",
       "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. W wielu regionach kraju noc przyniesie niskie temperatury, miejscami nawet rzędu -18 stopni Celsjusza. Lokalnie mogą również snuć się mgły."
     },
     {
-      "title": "Lawiny w alpejskich kurortach. Zginęło pięć osób",
+      "title": "Lawiny w Alpach, 5 ofiar śmiertelnych",
       "link": "https://tvn24.pl/tvnmeteo/swiat/austria-lawiny-w-alpejskich-kurortach-zginelo-piec-osob-st8854288?source=rss",
       "pubDate": "Sat, 17 Jan 2026 19:45:59 GMT",
       "description": "Pięć osób zginęło w sobotę w austriackich Alpach na skutek zejścia lawin. Do zdarzeń doszło w powiecie St. Johann im Pongau w centralnej części kraju. Austriaccy ratownicy ostrzegają, że na wielu stokach pokrywa śnieżna jest słabo związana.",
@@ -74,14 +82,6 @@
       "description": "Kalifornia rozszerza czasowe ograniczenia w prędkości poruszania się łodzi w rejonie wybrzeża. Mają one chronić migrujące walenie, które giną w zderzeniach ze zbyt szybko poruszającymi się jednostkami morskimi. Od kilku lat projekt prowadzony był w wybranych punktach wybrzeża.",
       "originalTitle": "Limity prędkości w Kalifornii. Mają chronić... walenie",
       "originalDescription": "Kalifornia rozszerza czasowe ograniczenia w prędkości poruszania się łodzi w rejonie wybrzeża. Mają one chronić migrujące walenie, które giną w zderzeniach ze zbyt szybko poruszającymi się jednostkami morskimi. Od kilku lat projekt prowadzony był w wybranych punktach wybrzeża."
-    },
-    {
-      "title": "Unia Europejska podpisała umowę handlową z Mercosur",
-      "link": "https://tvn24.pl/swiat/unia-europejska-podpisala-umowe-handlowa-z-mercosur-st8854254?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 17:12:28 GMT",
-      "description": "Unia Europejska podpisała w sobotę w Asuncion umowę handlową z Mercosurem. Porozumienie ułatwi przepływ między UE a blokiem państw Ameryki Południowej produktów przemysłowych i rolnych.",
-      "originalTitle": "Unia Europejska podpisała umowę handlową z Mercosur",
-      "originalDescription": "Unia Europejska podpisała w sobotę w Asuncion umowę handlową z Mercosurem. Porozumienie ułatwi przepływ między UE a blokiem państw Ameryki Południowej produktów przemysłowych i rolnych."
     }
   ]
 }
