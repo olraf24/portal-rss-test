@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-18T07:35:35.645Z",
+  "lastUpdate": "2026-01-18T08:06:56.197Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Rosyjskie Wojska Systemów Bezpilotowych [RAPORT]",
+      "link": "https://defence24.pl/sily-zbrojne/rosyjskie-wojska-systemow-bezpilotowych-raport",
+      "pubDate": "Sun, 18 Jan 2026 08:53:30 +0100",
+      "description": "Wypada zacząć od historii i terminologii. Już w czasach ZSRR powstało tam wiele typów bezpilotowych aparatów latających (ros. беспилотных летающих аппаратов w skrócie БпЛА, w Polsce nazywanych bezzałogowymi statkami powietrznymi w skrócie BSP). Służyły one głównie celom rozpoznawczym. Po rozpadzie ZSRR większość z nich została wycofana ze służby, a liczne jednostki wojskowe je eksploatujące zostały rozformowane. Przez następne dekady Rosjanie nie zaprzestali prac nad nowymi typami dronów latających. One również w większości miały służyć zadaniom rozpoznawczym, ale również pracowano nad wersjami uderzeniowymi."
+    },
     {
       "title": "„Koordynacja jest najważniejsza”. Dowódca GROM o operacjach specjalnych",
       "link": "https://defence24.pl/sily-zbrojne/koordynacja-jest-najwazniejsza-dowodca-grom-o-operacjach-specjalnych",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/legislacja/kongres-usa-zablokuje-plany-trumpa-wobec-grenlandii",
       "pubDate": "Fri, 16 Jan 2026 17:22:50 +0100",
       "description": "Kilku kongresmanów, z Demokratą Billem Keatingem na czele, chce przegłosować prawo znacząco utrudniające Białemu Domowi podjęcie decyzji o militarnej interwencji na duńskim terytorium zależnym."
-    },
-    {
-      "title": "Nowy oręż polskiej armii. Dalekie uderzenia priorytetem",
-      "link": "https://defence24.pl/sily-zbrojne/nowy-orez-polskiej-armii-dalekie-uderzenia-priorytetem",
-      "pubDate": "Fri, 16 Jan 2026 17:10:57 +0100",
-      "description": "[Nowy Program Rozwoju Sił Zbrojnych](https://defence24.pl/polityka-obronna/rewolucja-w-wojsku-polskim-znamy-szczegoly) obejmuje siedem priorytetów, w tym „jakość zwielokrotniona ilością”, operacje wielodomenowe, budowę rezerw osobowych, zintegrowaną obronę powietrzną i przeciwrakietową, dronizację, czyli szerokie wdrażanie systemów bezzałogowych i autonomicznych, sztuczną inteligencję oraz dominację w powietrzu i precyzyjne rażenie na dalekich dystansach – deep strike."
     }
   ]
 }
