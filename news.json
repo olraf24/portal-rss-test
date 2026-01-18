@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-18T10:39:04.133Z",
+  "lastUpdate": "2026-01-18T11:05:20.240Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Statek w Szczecinie",
+      "title": "Stosunki handlowe USA i Europy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/grenlandia-i-grozby-trumpa-nowe-terytorium-za-wszelka-cene-st8854696?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 11:00:53 GMT",
+      "description": "• Donald Trump zdecydował się na eskalację napięć handlowych.\n• Zapowiedział cła na państwa, które sprzeciwiły się amerykańskim planom przejęcia kontroli nad Grenlandią.\n• Decyzja ta została zauważona przez francuski dziennik Le Monde.\n• Według gazety decyzja prezydenta USA może pogłębić podziały wewnątrz Sojuszu Transatlantyckiego.",
+      "originalTitle": "Groźby Trumpa. \"Ryzyko wojny handlowej z Europą\"",
+      "originalDescription": "Donald Trump zdecydował się na eskalację napięć handlowych, zapowiadając cła na państwa, które sprzeciwiły się amerykańskim planom przejęcia kontroli nad Grenlandią - zauważa francuski dziennik Le Monde. Według gazety decyzja prezydenta USA może pogłębić podziały wewnątrz Sojuszu Transatlantyckiego."
+    },
+    {
+      "title": "Zmiany w strukturze władzy",
+      "link": "https://tvn24.pl/swiat/wenezuela-delcy-rodriguez-wymienia-kluczowych-urzednikow-nie-jest-w-stanie-przetrwac-bez-zgody-amerykanow-st8854475?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 10:52:36 GMT",
+      "description": "• Pełniąca obowiązki prezydenta Wenezueli to Delcy Rodriguez.\n• Delcy Rodriguez intensywnie pracuje nad wzmocnieniem swojej władzy od czasu schwytania Nicolasa Maduro.\n• Delcy Rodriguez reformuje siły zbrojne.\n• W ramach reformy Delcy Rodriguez zwalnia ludzi.\n• Delcy Rodriguez mianuje nowych urzędników.\n• Przed Delcy Rodriguez stoi duże wyzwanie.",
+      "originalTitle": "Zmiany na szczytach władzy. \"Nie jest w stanie przetrwać bez zgody Amerykanów\"",
+      "originalDescription": "Pełniąca obowiązki prezydenta Wenezueli Delcy Rodriguez od czasu schwytania Nicolasa Maduro intensywnie pracuje nad wzmocnieniem swojej władzy. - Już reformuje siły zbrojne, zwalnia ludzi i mianuje nowych urzędników - mówią źródła. Jednocześnie przez Rodriguez stoi duże wyzwanie."
+    },
+    {
+      "title": "Pożar w domu rodzinnym pięcioosobowej rodziny",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/gesianka-nad-ranem-wybuchl-pozar-domu-piecioosobowa-rodzina-nie-moze-do-niego-wrocic-st8854671?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 10:52:02 GMT",
+      "description": "W powiecie mińskim doszło nad ranem do pożaru domu jednorodzinnego. W wyniku tego zdarzenia dach nad głową straciła pięcioosobowa rodzina. Straż pożarna podaje, że ogień całkowicie zniszczył budynek.",
+      "originalTitle": "Nad ranem wybuchł pożar. Pięcioosobowa rodzina nie może wrócić do domu",
+      "originalDescription": "W powiecie mińskim doszło nad ranem do pożaru domu jednorodzinnego. W wyniku tego zdarzenia dach nad głową straciła pięcioosobowa rodzina. Straż pożarna podaje, że ogień całkowicie zniszczył budynek."
+    },
+    {
+      "title": "Wybuch w domu wielorodzinnym. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/olsztyn/orneta-wybuch-gazu-w-domu-wielorodzinnym-jedna-osoba-nie-zyje-st8854709?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 10:43:21 GMT",
+      "description": "Jedna osoba zginęła w niedzielę w Ornecie (Warmińsko-Mazurskie) w wyniku eksplozji w budynku wielorodzinnym. Pięć osób trzeba było ewakuować.",
+      "originalTitle": "Wybuch w domu wielorodzinnym. Jedna osoba nie żyje",
+      "originalDescription": "Jedna osoba zginęła w niedzielę w Ornecie (Warmińsko-Mazurskie) w wyniku eksplozji w budynku wielorodzinnym. Pięć osób trzeba było ewakuować."
+    },
+    {
+      "title": "Akcja poszukiwawcza po katastrofie lotniczej. Znaleziono ciało jednej z ofiar",
+      "link": "https://tvn24.pl/swiat/indonezja-katastrofa-lotnicza-w-gorach-odnalezli-wrak-szukaja-pasazerow-i-zalogi-st8854434?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 06:56:30 GMT",
+      "description": "W niedzielę indonezyjskie służby odnalazły wrak poszukiwanego od soboty samolotu obserwacyjnego w prowincji Celebes Południowy. Po południu ratownicy znaleźli ciało jednej z ofiar. Los pozostałych pasażerów wciąż nie jest znany. Służby kontynuują akcję poszukiwawczą. Ich działania utrudnia gęsta mgła i górzysty teren.",
+      "originalTitle": "Akcja poszukiwawcza po katastrofie lotniczej. Znaleziono ciało jednej z ofiar",
+      "originalDescription": "W niedzielę indonezyjskie służby odnalazły wrak poszukiwanego od soboty samolotu obserwacyjnego w prowincji Celebes Południowy. Po południu ratownicy znaleźli ciało jednej z ofiar. Los pozostałych pasażerów wciąż nie jest znany. Służby kontynuują akcję poszukiwawczą. Ich działania utrudnia gęsta mgła i górzysty teren."
+    },
+    {
+      "title": "Kolos w Szczecinie. Kolejka do wejścia na pokład",
       "link": "https://tvn24.pl/szczecin/jantar-unity-w-szczecinie-kolejki-do-wejscia-na-poklad-st8854640?source=rss",
       "pubDate": "Sun, 18 Jan 2026 10:34:39 GMT",
-      "description": "• Jest najnowocześniejszy na Bałtyku\n• Został już ochrzczony\n• Wkrótce ma odbyć pierwszy rejs\n• Mowa o nowym promie Jantar Unity\n• Prom można zwiedzać w Szczecinie\n• Ustawiła się tam kolejka zainteresowanych\n��� To pierwszy od ponad 30 lat prom zbudowany dla polskiego armatora\n• Prom został zbudowany dla armatora Unity Line",
+      "description": "Jest najnowocześniejszy na Bałtyku, został już ochrzczony, wkrótce pierwszy rejs. Mowa o nowym promie Jantar Unity, który można zwiedzać w Szczecinie. Ustawiła się tam kolejka zainteresowanych. To pierwszy od ponad 30 lat prom zbudowany dla polskiego armatora - Unity Line.",
       "originalTitle": "Kolos w Szczecinie. Kolejka do wejścia na pokład",
       "originalDescription": "Jest najnowocześniejszy na Bałtyku, został już ochrzczony, wkrótce pierwszy rejs. Mowa o nowym promie Jantar Unity, który można zwiedzać w Szczecinie. Ustawiła się tam kolejka zainteresowanych. To pierwszy od ponad 30 lat prom zbudowany dla polskiego armatora - Unity Line."
     },
     {
-      "title": "Mróz w Ukrainie",
+      "title": "Tęgi mróz w Ukrainie. \"To bardzo trudne psychicznie\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/ukraina-tegie-mrozy-brak-ogrzewania-to-bardzo-trudne-psychicznie-st8854528?source=rss",
       "pubDate": "Sun, 18 Jan 2026 10:22:50 GMT",
-      "description": "• W Ukrainie ścisnął mróz.\n• Wielu mieszkańców zmaga się z brakiem ogrzewania.\n• Brak ogrzewania jest spowodowany rosyjskimi atakami na infrastrukturę.\n• Mieszkańcy Kijowa próbują radzić sobie z niebezpieczną pogodą.\n• Mieszkańcy Kijowa stosują różne sposoby, aby poradzić sobie z trudną sytuacją.",
+      "description": "W Ukrainie ścisnął mróz, a wielu mieszkańców zmaga się z brakiem ogrzewania po rosyjskich atakach na infrastrukturę. Mieszkańcy Kijowa próbują radzić sobie z niebezpieczną pogodą na różne sposoby.",
       "originalTitle": "Tęgi mróz w Ukrainie. \"To bardzo trudne psychicznie\"",
       "originalDescription": "W Ukrainie ścisnął mróz, a wielu mieszkańców zmaga się z brakiem ogrzewania po rosyjskich atakach na infrastrukturę. Mieszkańcy Kijowa próbują radzić sobie z niebezpieczną pogodą na różne sposoby."
     },
     {
-      "title": "Mężczyzna z nożem próbował odebrać oszczędności seniorki",
+      "title": "Przyszedł odebrać oszczędności od 91-latki. Miał przy sobie nóż",
       "link": "https://tvn24.pl/lublin/lublin-oszustwo-na-wnuczka-przyszedl-odebrac-oszczednosci-od-91-latki-mial-przy-sobie-noz-st8854602?source=rss",
       "pubDate": "Sun, 18 Jan 2026 10:09:27 GMT",
-      "description": "• Przestępcy działali metodą \"na wnuczka\".\n• Ofiarą przestępstwa była 91-letnia kobieta z Lublina.\n• Kobieta przekazała przestępcom 65 tysięcy złotych.\n• Pieniądze przyszedł odebrać 18-letni mieszkaniec Gdyni.\n��� Mężczyzna został zatrzymany przez policję.\n• Podczas zatrzymania mężczyzna miał przy sobie koperty z pieniędzmi.\n• Mężczyzna miał przy sobie również nóż.",
+      "description": "Przestępcy, działając metodą \"na wnuczka\" skłonili 91-latkę z Lublina do przekazania 65 tysięcy złotych. Pieniądze przyszedł odebrać 18-letni mieszkaniec Gdyni. Gdy chwilę później zatrzymała go policja, miał przy sobie nie tylko koperty z pieniędzmi, ale też nóż.",
       "originalTitle": "Przyszedł odebrać oszczędności od 91-latki. Miał przy sobie nóż",
       "originalDescription": "Przestępcy, działając metodą \"na wnuczka\" skłonili 91-latkę z Lublina do przekazania 65 tysięcy złotych. Pieniądze przyszedł odebrać 18-letni mieszkaniec Gdyni. Gdy chwilę później zatrzymała go policja, miał przy sobie nie tylko koperty z pieniędzmi, ale też nóż."
     },
     {
-      "title": "Debata na temat ograniczeń mediów społecznościowych",
+      "title": "Zakaz mediów społecznościowych w Polsce? \"Jest za wcześnie, by kopiować Australię\"",
       "link": "https://tvn24.pl/polska/zakaz-mediow-spolecznosciowych-w-polsce-jest-za-wczesnie-by-kopiowac-australie-st8854512?source=rss",
       "pubDate": "Sun, 18 Jan 2026 10:06:11 GMT",
       "description": "Samo wyłączenie mediów społecznościowych z życia nastolatków ani tym nastolatkom nie pomoże, ani nam - oceniła dziennikarka TVN24+ Justyna Suchecka we \"Wstajesz i Weekend\" w TVN24. Jak dodała, eksperci ostrzegają, że \"jest za wcześnie\", by kopiować przepisy z Australii, choć podobne regulacje zapowiadają politycy Koalicji Obywatelskiej.",
@@ -36,52 +76,12 @@
       "originalDescription": "Samo wyłączenie mediów społecznościowych z życia nastolatków ani tym nastolatkom nie pomoże, ani nam - oceniła dziennikarka TVN24+ Justyna Suchecka we \"Wstajesz i Weekend\" w TVN24. Jak dodała, eksperci ostrzegają, że \"jest za wcześnie\", by kopiować przepisy z Australii, choć podobne regulacje zapowiadają politycy Koalicji Obywatelskiej."
     },
     {
-      "title": "Kolejne miasto \"obwarzanka\" wprowadza nocną prohibicję",
+      "title": "Miasto wprowadza nocną prohibicję",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/kobylka-radni-zaglosowali-za-wprowadzeniem-nocnej-prohibicji-st8854531?source=rss",
       "pubDate": "Sun, 18 Jan 2026 09:58:25 GMT",
       "description": "Kobyłka dołącza do grona miast, gdzie w porze nocnej nie będzie można kupić alkoholu. Ograniczenia w sprzedaży mają obowiązywać od marca w godzinach 22.00-6.00. Uchwała czeka na publikację w dzienniku wojewódzkim.",
       "originalTitle": "Kolejne miasto \"obwarzanka\" wprowadza nocną prohibicję",
       "originalDescription": "Kobyłka dołącza do grona miast, gdzie w porze nocnej nie będzie można kupić alkoholu. Ograniczenia w sprzedaży mają obowiązywać od marca w godzinach 22.00-6.00. Uchwała czeka na publikację w dzienniku wojewódzkim."
-    },
-    {
-      "title": "\"Dlatego Ukraina potrzebuje lepszej obrony\". Zełenski o rosyjskim ataku",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-dlatego-ukraina-potrzebuje-lepszej-obrony-zelenski-o-rosyjskim-ataku-st8854530?source=rss",
-      "pubDate": "Sun, 18 Jan 2026 09:56:56 GMT",
-      "description": "Dziesiątki osób zostały ranne, a dwie zginęły w nocnych atakach Rosji na Ukrainę. Jedna z ofiar to 20-letnia kobieta z Charkowa. Trudna jest również sytuacja w sektorze energetycznym kraju.",
-      "originalTitle": "\"Dlatego Ukraina potrzebuje lepszej obrony\". Zełenski o rosyjskim ataku",
-      "originalDescription": "Dziesiątki osób zostały ranne, a dwie zginęły w nocnych atakach Rosji na Ukrainę. Jedna z ofiar to 20-letnia kobieta z Charkowa. Trudna jest również sytuacja w sektorze energetycznym kraju."
-    },
-    {
-      "title": "Gdzie na ferie? \"Absolutny fenomen tej zimy\"",
-      "link": "https://tvn24.pl/biznes/turystyka/ferie-2026-absolutny-fenomen-tej-zimy-st8854591?source=rss",
-      "pubDate": "Sun, 18 Jan 2026 09:49:57 GMT",
-      "description": "Polacy wybierający się za granicę na tegoroczne ferie zimowe preferują głównie południe Europy oraz ciepłe kraje. Wśród najpopularniejszych kierunków znalazły się między innymi Hiszpania, Egipt, Malta, Maroko, a także Zjednoczone Emiraty Arabskie.",
-      "originalTitle": "Gdzie na ferie? \"Absolutny fenomen tej zimy\"",
-      "originalDescription": "Polacy wybierający się za granicę na tegoroczne ferie zimowe preferują głównie południe Europy oraz ciepłe kraje. Wśród najpopularniejszych kierunków znalazły się między innymi Hiszpania, Egipt, Malta, Maroko, a także Zjednoczone Emiraty Arabskie."
-    },
-    {
-      "title": "Netanjahu ma zastrzeżenia do planu Trumpa.\"Nie było koordynowane z Izraelem\"",
-      "link": "https://tvn24.pl/swiat/strefa-gazy-benjamin-netanjahu-ma-zastrzezenia-do-planu-trumpa-nie-bylo-koordynowane-z-izraelem-st8854371?source=rss",
-      "pubDate": "Sun, 18 Jan 2026 09:30:41 GMT",
-      "description": "Trwa ustalanie, kto ma odpowiadać za wprowadzanie w życie planu pokojowego dla Strefy Gazy. Przy powołanej przez Donalda Trumpa Radzie Pokoju, powstał komitet wykonawczy. Jego skład nie spodobał się Izraelowi.",
-      "originalTitle": "Netanjahu ma zastrzeżenia do planu Trumpa.\"Nie było koordynowane z Izraelem\"",
-      "originalDescription": "Trwa ustalanie, kto ma odpowiadać za wprowadzanie w życie planu pokojowego dla Strefy Gazy. Przy powołanej przez Donalda Trumpa Radzie Pokoju, powstał komitet wykonawczy. Jego skład nie spodobał się Izraelowi."
-    },
-    {
-      "title": "Wyjechał z tunelu i uderzył w mur, nie żyje",
-      "link": "https://tvn24.pl/krakow/krakow-smiertelny-wypadek-motocyklisty-na-ulicy-konopnickiej-st8854574?source=rss",
-      "pubDate": "Sun, 18 Jan 2026 09:10:00 GMT",
-      "description": "Tragiczny wypadek w Krakowie. Na ulicy Konopnickiej, przy wyjeździe z tunelu w kierunku ronda Matecznego, zginął 25-letni motocyklista. Na miejscu pracują służby.",
-      "originalTitle": "Wyjechał z tunelu i uderzył w mur, nie żyje",
-      "originalDescription": "Tragiczny wypadek w Krakowie. Na ulicy Konopnickiej, przy wyjeździe z tunelu w kierunku ronda Matecznego, zginął 25-letni motocyklista. Na miejscu pracują służby."
-    },
-    {
-      "title": "Były samorządowiec oskarżony o molestowanie małoletnich. Jest termin procesu",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/pionki-kozienice-byly-samorzadowiec-oskarzony-o-molestowanie-maloletnich-jest-termin-procesu-st8854513?source=rss",
-      "pubDate": "Sun, 18 Jan 2026 09:01:36 GMT",
-      "description": "W lutym rozpocznie się proces byłego samorządowca i działacza harcerskiego z Pionek koło Radomia (Mazowieckie). Mężczyzna jest oskarżony o molestowanie seksualne małoletnich oraz posiadanie i rozpowszechnianie materiałów pornograficznych z udziałem dzieci. Grozi mu do 12 lat więzienia.",
-      "originalTitle": "Były samorządowiec oskarżony o molestowanie małoletnich. Jest termin procesu",
-      "originalDescription": "W lutym rozpocznie się proces byłego samorządowca i działacza harcerskiego z Pionek koło Radomia (Mazowieckie). Mężczyzna jest oskarżony o molestowanie seksualne małoletnich oraz posiadanie i rozpowszechnianie materiałów pornograficznych z udziałem dzieci. Grozi mu do 12 lat więzienia."
     }
   ]
 }
