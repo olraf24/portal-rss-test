@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-19T10:44:16.864Z",
+  "lastUpdate": "2026-01-19T11:07:40.376Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Policja zatrzymała osoby za zniszczenia elewacji",
+      "title": "Incydent w szkole, uczeń hospitalizowany",
+      "link": "https://tvn24.pl/szczecin/koszalin-pobicie-10-latka-w-szkole-st8855790?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 11:01:30 GMT",
+      "description": "Trzech uczniów zaatakowało w szkole młodszego kolegę. Na miejsce wezwano pogotowie i policję. Decyzją ratowników, 10-latka przewieziono do szpitala.",
+      "originalTitle": "10-latek pobity w szkole. Chłopiec trafił do szpitala",
+      "originalDescription": "Trzech uczniów zaatakowało w szkole młodszego kolegę. Na miejsce wezwano pogotowie i policję. Decyzją ratowników, 10-latka przewieziono do szpitala."
+    },
+    {
+      "title": "Wypadek na ściance wspinaczkowej",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-11-latek-spadl-ze-scianki-wspinaczkowej-przygniotl-mlodszego-brata-st8855729?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 10:50:08 GMT",
+      "description": "Dwaj chłopcy zostali poszkodowani podczas wizyty w centrum wspinaczkowym. 11-latek spadł z wysokości kilku metrów, runął na młodszego brata. Obaj trafili do szpitala.",
+      "originalTitle": "11-latek spadł ze ścianki wspinaczkowej. Przygniótł młodszego brata",
+      "originalDescription": "Dwaj chłopcy zostali poszkodowani podczas wizyty w centrum wspinaczkowym. 11-latek spadł z wysokości kilku metrów, runął na młodszego brata. Obaj trafili do szpitala."
+    },
+    {
+      "title": "Serhij T. ponownie stanie przed sądem",
+      "link": "https://tvn24.pl/poznan/puszczykowo-ponowny-proces-serhija-t-w-sprawie-zabojstwa-zony-i-corek-st8855709?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 10:44:55 GMT",
+      "description": "Tonął w długach, hazardzie i alkoholu, a żona miała o to pretensję. Serhij T. - jak mówił - chciał się \"pozbyć problemu\". Zabił żonę i dwie małe córeczki. Sąd skazał już mężczyznę na dożywocie, ale wyrok został uchylony. Powód: obecność w składzie orzekającym neosędziego. Proces właśnie ruszył od nowa.",
+      "originalTitle": "Zabił żonę i dwie małe córeczki. Serhij T. znów przed sądem",
+      "originalDescription": "Tonął w długach, hazardzie i alkoholu, a żona miała o to pretensję. Serhij T. - jak mówił - chciał się \"pozbyć problemu\". Zabił żonę i dwie małe córeczki. Sąd skazał już mężczyznę na dożywocie, ale wyrok został uchylony. Powód: obecność w składzie orzekającym neosędziego. Proces właśnie ruszył od nowa."
+    },
+    {
+      "title": "Zginęło auto warte pół miliona złotych. Trzech mężczyzn w areszcie",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-auto-z-wypozyczalni-warte-pol-miliona-zlotych-skradzione-st8855751?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 10:44:34 GMT",
+      "description": "W ręce policjantów wpadło trzech mężczyzn podejrzanych o kradzież z włamaniem do bmw M3 wartego pół miliona złotych. Auto pochodzące z wypożyczalni zostało skradzione przed dyskoteką.",
+      "originalTitle": "Zginęło auto warte pół miliona złotych. Trzech mężczyzn w areszcie",
+      "originalDescription": "W ręce policjantów wpadło trzech mężczyzn podejrzanych o kradzież z włamaniem do bmw M3 wartego pół miliona złotych. Auto pochodzące z wypożyczalni zostało skradzione przed dyskoteką."
+    },
+    {
+      "title": "Spędzasz tak ponad dziesięć godzin tygodniowo? Twoje zdrowie może na tym cierpieć",
+      "link": "https://tvn24.pl/zdrowie/spedzasz-tak-ponad-dziesiec-godzin-tygodniowo-twoje-zdrowie-moze-na-tym-cierpiec-st8855994?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 10:41:14 GMT",
+      "description": "Naukowcy z Curtin University of Technology w Australii przeanalizowali nawyki i stan zdrowia ponad 300 studentów z pięciu uniwersytetów. Wyniki pokazują, że osoby spędzające na grach wideo więcej niż dziesięć godzin tygodniowo mają gorszą dietę, wyższą masę ciała i problemy ze snem.",
+      "originalTitle": "Spędzasz tak ponad dziesięć godzin tygodniowo? Twoje zdrowie może na tym cierpieć",
+      "originalDescription": "Naukowcy z Curtin University of Technology w Australii przeanalizowali nawyki i stan zdrowia ponad 300 studentów z pięciu uniwersytetów. Wyniki pokazują, że osoby spędzające na grach wideo więcej niż dziesięć godzin tygodniowo mają gorszą dietę, wyższą masę ciała i problemy ze snem."
+    },
+    {
+      "title": "Zniszczone elewacje w kilku miastach. Policja zatrzymała pseudokibiców",
       "link": "https://tvn24.pl/trojmiasto/wejherowo-gdynia-puck-zniszczone-elewacje-w-kilku-miastach-policja-zatrzymala-pseudokibicow-st8855808?source=rss",
       "pubDate": "Mon, 19 Jan 2026 10:35:38 GMT",
-      "description": "• Seria aktów wandalizmu miała miejsce na elewacjach budynków w Wejherowie, Gdyni i powiecie puckim.\n• Akty wandalizmu zakończyły się interwencją policjantów z kilku jednostek.\n• Policjanci namierzyli i zatrzymali osoby podejrzewane o udział w tych zdarzeniach.\n• Osoby zatrzymane to grupa pseudokibiców gdańskiego klubu piłkarskiego.",
+      "description": "Seria aktów wandalizmu na elewacjach budynków w Wejherowie, Gdyni i powiecie puckim zakończyła się interwencją policjantów z kilku jednostek. Funkcjonariusze namierzyli i zatrzymali osoby podejrzewane o udział w tych zdarzeniach. To - jak informuje policja - grupa pseudokibiców gdańskiego klubu piłkarskiego.",
       "originalTitle": "Zniszczone elewacje w kilku miastach. Policja zatrzymała pseudokibiców",
       "originalDescription": "Seria aktów wandalizmu na elewacjach budynków w Wejherowie, Gdyni i powiecie puckim zakończyła się interwencją policjantów z kilku jednostek. Funkcjonariusze namierzyli i zatrzymali osoby podejrzewane o udział w tych zdarzeniach. To - jak informuje policja - grupa pseudokibiców gdańskiego klubu piłkarskiego."
     },
     {
-      "title": "Decyzja w sprawie Nobla dla Trumpa",
+      "title": "\"Twój kraj postanowił nie przyznać mi Nobla\". Trump \"nie czuje się już zobowiązany\"",
       "link": "https://tvn24.pl/swiat/list-donalda-trumpa-przejecie-grenlandii-za-brak-nagrody-nobla-nie-czuje-sie-juz-zobowiazany-st8855823?source=rss",
       "pubDate": "Mon, 19 Jan 2026 10:31:51 GMT",
-      "description": "• Świat nie będzie bezpieczny, dopóki nie będziemy mieli całkowitej kontroli nad Grenlandią.\n• Prezydent USA Donald Trump skierował list do premiera Norwegii.\n• Adresatem listu jest premier Norwegii Jonas Gahr Støre.\n• W liście Donald Trump nawiązuje do braku przyznania mu Pokojowej Nagrody Nobla.\n• Donald Trump twierdzi, że powstrzymał 8 wojen.",
+      "description": "Świat nie będzie bezpieczny, dopóki nie będziemy mieli całkowitej kontroli nad Grenlandią - głosi treść cytowanego przez media listu, który prezydent USA Donald Trump skierował do premiera Norwegii Jonasa Gahra Stoerego. Nawiązuje w nim również do braku przyznania mu Pokojowej Nagrody Nobla, mimo \"powstrzymania 8 wojen\".",
       "originalTitle": "\"Twój kraj postanowił nie przyznać mi Nobla\". Trump \"nie czuje się już zobowiązany\"",
       "originalDescription": "Świat nie będzie bezpieczny, dopóki nie będziemy mieli całkowitej kontroli nad Grenlandią - głosi treść cytowanego przez media listu, który prezydent USA Donald Trump skierował do premiera Norwegii Jonasa Gahra Stoerego. Nawiązuje w nim również do braku przyznania mu Pokojowej Nagrody Nobla, mimo \"powstrzymania 8 wojen\"."
     },
     {
-      "title": "Trzy firmy postawione w stan oskarżenia",
+      "title": "\"Zielone hasła nie mogą być skrótem myślowym\". Zarzuty dla trzech firm",
       "link": "https://tvn24.pl/biznes/z-kraju/uokik-walczy-z-greenwashingiem-zarzuty-dla-bolta-tchibo-i-zary-st8855641?source=rss",
       "pubDate": "Mon, 19 Jan 2026 10:23:10 GMT",
-      "description": "• UOKiK postawił zarzuty spółkom Bolt, Tchibo oraz Zara.\n• Zarzuty dotyczą podejrzenia stosowania tak zwanego greenwashingu.\n• Greenwashing oznacza wprowadzanie konsumentów w błąd poprzez fałszywe deklaracje ekologiczne.\n• Informację o zarzutach podał Urząd Ochrony Konkurencji i Konsumentów.\n• Informacja została podana w poniedziałek.",
+      "description": "UOKiK postawił zarzuty spółkom Bolt, Tchibo oraz Zara w związku z podejrzeniem stosowania tak zwanego greenwashingu, czyli wprowadzania konsumentów w błąd poprzez fałszywe deklaracje ekologiczne - poinformował w poniedziałek Urząd Ochrony Konkurencji i Konsumentów.",
       "originalTitle": "\"Zielone hasła nie mogą być skrótem myślowym\". Zarzuty dla trzech firm",
       "originalDescription": "UOKiK postawił zarzuty spółkom Bolt, Tchibo oraz Zara w związku z podejrzeniem stosowania tak zwanego greenwashingu, czyli wprowadzania konsumentów w błąd poprzez fałszywe deklaracje ekologiczne - poinformował w poniedziałek Urząd Ochrony Konkurencji i Konsumentów."
     },
     {
-      "title": "Rosja: Putin zaproszony do Rady Pokoju",
+      "title": "Władimir Putin dołączy do Rady Pokoju? Kreml potwierdza zaproszenie",
       "link": "https://tvn24.pl/swiat/wladimir-putin-dolaczy-do-rady-pokoju-kreml-potwierdza-zaproszenie-st8855944?source=rss",
       "pubDate": "Mon, 19 Jan 2026 10:22:36 GMT",
       "description": "Kreml przekazał w poniedziałek, że rosyjski przywódca Władimir Putin otrzymał propozycję dołączenia do Rady Pokoju, która ma zarządzać Strefą Gazy. - Spodziewamy się w najbliższym czasie kontaktu ze strony amerykańskiej w celu wyjaśnienia wszystkich niuansów - powiedział w poniedziałek rzecznik Kremla Dmitrij Pieskow.",
@@ -42,46 +82,6 @@
       "description": "W podwarszawskich Ząbkach 72-letni mężczyzna ciągnął na smyczy psa i jednocześnie prowadził samochód. Nagranie obiegło media społecznościowe. Policjanci ustalili już tożsamość kierowcy i przesłuchali go. Nie zapadła jeszcze decyzja, czy poniesie konsekwencje tego działania.",
       "originalTitle": "Kierował autem i ciągnął psa. 72-latek przesłuchany przez policję",
       "originalDescription": "W podwarszawskich Ząbkach 72-letni mężczyzna ciągnął na smyczy psa i jednocześnie prowadził samochód. Nagranie obiegło media społecznościowe. Policjanci ustalili już tożsamość kierowcy i przesłuchali go. Nie zapadła jeszcze decyzja, czy poniesie konsekwencje tego działania."
-    },
-    {
-      "title": "Kanada otwiera się na Chiny. Tesla wśród pierwszych beneficjentów",
-      "link": "https://tvn24.pl/biznes/moto/kanada-otwiera-sie-na-chiny-tesla-moze-skorzystac-st8855924?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 10:15:42 GMT",
-      "description": "Kanada otwiera rynek na samochody elektryczne produkowane w Chinach, a jednym z pierwszych beneficjentów tej decyzji może być Tesla. Eksperci wskazują, że amerykański producent jest uprzywilejowany dzięki wcześniejszym dostawom aut z Szanghaju oraz rozbudowanej sieci sprzedaży w Kanadzie.",
-      "originalTitle": "Kanada otwiera się na Chiny. Tesla wśród pierwszych beneficjentów",
-      "originalDescription": "Kanada otwiera rynek na samochody elektryczne produkowane w Chinach, a jednym z pierwszych beneficjentów tej decyzji może być Tesla. Eksperci wskazują, że amerykański producent jest uprzywilejowany dzięki wcześniejszym dostawom aut z Szanghaju oraz rozbudowanej sieci sprzedaży w Kanadzie."
-    },
-    {
-      "title": "Pożary w Chile. Wioska \"obróciła się w popiół\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-w-chile-wioska-obrocila-sie-w-popiol-st8855782?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 10:15:13 GMT",
-      "description": "Do 18 osób wzrósł bilans ofiar śmiertelnych pożarów w środkowym Chile. Niektóre miejscowości zostały niemal całkowicie zrównane z ziemią.",
-      "originalTitle": "Pożary w Chile. Wioska \"obróciła się w popiół\"",
-      "originalDescription": "Do 18 osób wzrósł bilans ofiar śmiertelnych pożarów w środkowym Chile. Niektóre miejscowości zostały niemal całkowicie zrównane z ziemią."
-    },
-    {
-      "title": "Zaginięcie Iwony Wieczorek. \"Nowe fakty i dowody\"",
-      "link": "https://tvn24.pl/trojmiasto/zaginiecie-iwony-wieczorek-prokuratura-o-nowych-faktach-i-dowodach-st8855925?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 10:14:17 GMT",
-      "description": "Prokuratura Krajowa potwierdziła nam, że w ubiegłym tygodniu policjanci prowadzili działania w związku z zaginięciem Iwony Wieczorek. W sprawie - jak przekazali śledczy w komunikacie - pojawiły się nowe ustalenia, które są obecnie analizowane. Wcześniej funkcjonariusze z Komendy Stołecznej ponowili apel w sprawie białego Fiata widzianego w pobliżu miejsca, gdzie po raz ostatni była widziana zaginiona.",
-      "originalTitle": "Zaginięcie Iwony Wieczorek. \"Nowe fakty i dowody\"",
-      "originalDescription": "Prokuratura Krajowa potwierdziła nam, że w ubiegłym tygodniu policjanci prowadzili działania w związku z zaginięciem Iwony Wieczorek. W sprawie - jak przekazali śledczy w komunikacie - pojawiły się nowe ustalenia, które są obecnie analizowane. Wcześniej funkcjonariusze z Komendy Stołecznej ponowili apel w sprawie białego Fiata widzianego w pobliżu miejsca, gdzie po raz ostatni była widziana zaginiona."
-    },
-    {
-      "title": "Kilkanaście ofiar śmiertelnych i wielu zaginionych po pożarze centrum handlowego w Pakistanie",
-      "link": "https://tvn24.pl/swiat/pakistan-po-pozarze-centrum-handlowego-strazacy-przeszukuja-zgliszcza-budynku-st8855805?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 10:13:20 GMT",
-      "description": "Strażacy rozpoczęli w poniedziałek przeszukiwanie zgliszczy centrum handlowego w Karaczi. W największym mieście Pakistanu w sobotę wybuchł pożar, a w jego wyniku zginęło co najmniej 14 osób. Władze poinformowały, że zaginionych pozostaje ponad 60 osób.",
-      "originalTitle": "Kilkanaście ofiar śmiertelnych i wielu zaginionych po pożarze centrum handlowego w Pakistanie",
-      "originalDescription": "Strażacy rozpoczęli w poniedziałek przeszukiwanie zgliszczy centrum handlowego w Karaczi. W największym mieście Pakistanu w sobotę wybuchł pożar, a w jego wyniku zginęło co najmniej 14 osób. Władze poinformowały, że zaginionych pozostaje ponad 60 osób."
-    },
-    {
-      "title": "Ciało 31-latka leżało 200 metrów od jego domu. Policja bada sprawę",
-      "link": "https://tvn24.pl/kielce/zofiowka-gnojno-cialo-31-latka-lezalo-200-metrow-od-jego-domu-policja-bada-sprawe-st8855887?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 10:11:52 GMT",
-      "description": "Wychłodzenie jest najbardziej prawdopodobną przyczyną śmierci 31-letniego mieszkańca gminy Gnojno w województwie świętokrzyskim. Policja przekazuje, że mężczyzna w niedzielę wieczorem wracał ze spotkania rodzinnego. Ciało znaleziono na polu, niedaleko domu 31-latka.",
-      "originalTitle": "Ciało 31-latka leżało 200 metrów od jego domu. Policja bada sprawę",
-      "originalDescription": "Wychłodzenie jest najbardziej prawdopodobną przyczyną śmierci 31-letniego mieszkańca gminy Gnojno w województwie świętokrzyskim. Policja przekazuje, że mężczyzna w niedzielę wieczorem wracał ze spotkania rodzinnego. Ciało znaleziono na polu, niedaleko domu 31-latka."
     }
   ]
 }
