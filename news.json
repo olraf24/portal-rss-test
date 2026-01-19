@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-01-19T06:46:55.948Z",
+  "lastUpdate": "2026-01-19T07:12:55.919Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Polski koncern w trudnościach finansowych",
+      "title": "Stan dróg w okolicy szkółki kolejarskiej",
+      "link": "https://tvn24.pl/lodz/kutno-droga-uslana-dziurami-dla-przyszlych-kolejarzy-st8851975?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 07:01:51 GMT",
+      "description": "• Kilkanaście razy w roku dochodzi do awarii autobusu miejskiego na ulicy Osiedle Kolejowe.\n• Autobus miejski musi być wyciągany z błota podczas awarii.\n• Samochodem osobowym często nie sposób przejechać przez ulicę Osiedle Kolejowe.\n�� Ulica Osiedle Kolejowe znajduje się w dzielnicy Azory w Kutnie.\n• Ulica Osiedle Kolejowe należy do spółki skarbu państwa - PKP.\n• Pracownicy dojeżdżają codziennie do Zespołu Szkół nr 4 przez ulicę Osiedle Kolejowe.\n• Pracownikami, którzy dojeżdżają do Zespołu Szkół nr 4, są kolejarze.",
+      "originalTitle": "Droga usłana dziurami dla przyszłych kolejarzy",
+      "originalDescription": "Kilkanaście razy w roku dochodzi tam do awarii autobusu miejskiego, który trzeba wyciągać z błota. Samochodem osobowym też często nie sposób przejechać. Mowa o ulicy Osiedle Kolejowe w dzielnicy Azory w Kutnie, należącej do spółki skarbu państwa - PKP, którą codziennie dojeżdżają do Zespołu Szkół nr 4... przyszli kolejarze."
+    },
+    {
+      "title": "Policja zatrzymała mężczyznę, znaleziono narkotyki",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-narkotyki-w-garazu-pseudokibic-zatrzymany-st8855577?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 06:54:02 GMT",
+      "description": "Policjanci zatrzymali pseudokibica podejrzanego o handel narkotykami. W zajmowanym przez niego garażu znaleźli marihuanę i kokainę. Mężczyzna trafił do aresztu.",
+      "originalTitle": "Garaż pełen narkotyków. Policjanci zatrzymali pseudokibica",
+      "originalDescription": "Policjanci zatrzymali pseudokibica podejrzanego o handel narkotykami. W zajmowanym przez niego garażu znaleźli marihuanę i kokainę. Mężczyzna trafił do aresztu."
+    },
+    {
+      "title": "Jeden region bez mrozu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-jeden-region-uniknal-w-nocy-mrozu-synoptyk-tlumaczy-dlaczego-st8855580?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 06:53:22 GMT",
+      "description": "Mróz w Polsce. W nocy z niedzieli na poniedziałek termometry prawie wszędzie pokazywały wartości poniżej zera - ich zdjęcia otrzymaliśmy na Kontakt24. Gdzie mróz okazał się najsilniejszy, a gdzie w ogóle go nie było?",
+      "originalTitle": "Jeden region uniknął w nocy mrozu",
+      "originalDescription": "Mróz w Polsce. W nocy z niedzieli na poniedziałek termometry prawie wszędzie pokazywały wartości poniżej zera - ich zdjęcia otrzymaliśmy na Kontakt24. Gdzie mróz okazał się najsilniejszy, a gdzie w ogóle go nie było?"
+    },
+    {
+      "title": "Awaria na drugiej linii metra. Zamknięto pięć stacji",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-awaria-na-drugiej-linii-metra-zamknieto-piec-stacji-st8855628?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 06:47:06 GMT",
+      "description": "Utrudnienia dla pasażerów drugiej linii metra. W poniedziałek o poranku zamknięto pięć stacji na Woli i Bemowie. Powodem są problemy techniczne.",
+      "originalTitle": "Awaria na drugiej linii metra. Zamknięto pięć stacji",
+      "originalDescription": "Utrudnienia dla pasażerów drugiej linii metra. W poniedziałek o poranku zamknięto pięć stacji na Woli i Bemowie. Powodem są problemy techniczne."
+    },
+    {
+      "title": "Katastrofa kolejowa w Hiszpanii. Rośnie liczba ofiar śmiertelnych",
+      "link": "https://tvn24.pl/swiat/zderzenie-dwoch-pociagow-w-hiszpanii-st8855427?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 21:13:45 GMT",
+      "description": "W wyniku zderzenia dwóch pociągów dużych prędkości w Hiszpanii zginęło co najmniej 39 osób. Wiele jest rannych. Na miejscu katastrofy pracują służby. - Siła wypadku była bardzo duża - powiedział szef regionalnego rządu Andaluzji Juanma Moreno",
+      "originalTitle": "Katastrofa kolejowa w Hiszpanii. Rośnie liczba ofiar śmiertelnych",
+      "originalDescription": "W wyniku zderzenia dwóch pociągów dużych prędkości w Hiszpanii zginęło co najmniej 39 osób. Wiele jest rannych. Na miejscu katastrofy pracują służby. - Siła wypadku była bardzo duża - powiedział szef regionalnego rządu Andaluzji Juanma Moreno"
+    },
+    {
+      "title": "Polski gigant w kryzysie. Może utracić płynność finansową",
       "link": "https://tvn24.pl/biznes/z-kraju/jsw-w-kryzysie-moze-utracic-plynnosc-finansowa-st8855605?source=rss",
       "pubDate": "Mon, 19 Jan 2026 06:40:15 GMT",
-      "description": "• Jastrzębska Spółka Węglowa jest największym w Unii Europejskiej producentem węgla koksującego używanego do produkcji stali.\n• Spółka jest w postępującym kryzysie.\n• Według ministra aktywów państwowych Wojciecha Balczuna spółka może utracić płynność finansową.\n• Spółka może utracić płynność finansową już na przełomie stycznia i lutego.\n• Ministrem aktywów państwowych jest Wojciech Balczun.",
+      "description": "Jastrzębska Spółka Węglowa, największy w Unii Europejskiej producent węgla koksującego używanego do produkcji stali, jest w postępującym kryzysie. Według ministra aktywów państwowych Wojciecha Balczuna spółka może utracić płynność finansową już na przełomie stycznia i lutego.",
       "originalTitle": "Polski gigant w kryzysie. Może utracić płynność finansową",
       "originalDescription": "Jastrzębska Spółka Węglowa, największy w Unii Europejskiej producent węgla koksującego używanego do produkcji stali, jest w postępującym kryzysie. Według ministra aktywów państwowych Wojciecha Balczuna spółka może utracić płynność finansową już na przełomie stycznia i lutego."
     },
     {
-      "title": "Polska wspiera Hiszpanię",
+      "title": "Premier Tusk: Polska wspiera naród hiszpański",
       "link": "https://tvn24.pl/swiat/katastrofa-w-hiszpanii-premier-donald-tusk-zabral-glos-st8855589?source=rss",
       "pubDate": "Mon, 19 Jan 2026 06:24:57 GMT",
-      "description": "• Premier Donald Tusk złożył kondolencje rodzinom ofiar niedzielnego zderzenia pociągów w Hiszpanii.\n• W zderzeniu zginęło co najmniej 21 osób.\n• Zderzenie pociągów miało miejsce w niedzielę.\n• Zderzenie pociągów miało miejsce w Hiszpanii.\n• Premier Donald Tusk napisał o kondolencjach w mediach społecznościowych.\n• Premier Donald Tusk stwierdził, że \"Polska wspiera naród hiszpański w tych trudnych chwilach\".",
+      "description": "Premier Donald Tusk złożył kondolencje rodzinom ofiar niedzielnego zderzenia pociągów w Hiszpanii, w którym zginęło co najmniej 21 osób. \"Polska wspiera naród hiszpański w tych trudnych chwilach\" - napisał szef rządu w mediach społecznościowych.",
       "originalTitle": "Premier Tusk: Polska wspiera naród hiszpański",
       "originalDescription": "Premier Donald Tusk złożył kondolencje rodzinom ofiar niedzielnego zderzenia pociągów w Hiszpanii, w którym zginęło co najmniej 21 osób. \"Polska wspiera naród hiszpański w tych trudnych chwilach\" - napisał szef rządu w mediach społecznościowych."
     },
     {
-      "title": "Dane o mandatach przedstawiło Ministerstwo",
+      "title": "Sypnęło mandatami. Ministerstwo pokazuje dane",
       "link": "https://tvn24.pl/biznes/z-kraju/ministerstwo-finansow-w-2025-r-wystawiono-ponad-4-mln-mandatow-ich-wartosc-przekracza-1-mld-zl-st8855574?source=rss",
       "pubDate": "Mon, 19 Jan 2026 06:13:28 GMT",
-      "description": "• W ubiegłym roku wystawiono ponad cztery miliony mandatów.\n• Najwięcej mandatów wystawiła policja.\n• Wartość grzywien wyniosła w ubiegłym roku prawie 1,39 mld złotych.\n• Dane o wartości grzywien pochodzą z Ministerstwa Finansów.",
+      "description": "W ubiegłym roku wystawiono ponad cztery miliony mandatów, z czego najwięcej przez policję. Wartość grzywien wyniosła w ubiegłym roku prawie 1,39 mld złotych - wynika z danych Ministerstwa Finansów.",
       "originalTitle": "Sypnęło mandatami. Ministerstwo pokazuje dane",
       "originalDescription": "W ubiegłym roku wystawiono ponad cztery miliony mandatów, z czego najwięcej przez policję. Wartość grzywien wyniosła w ubiegłym roku prawie 1,39 mld złotych - wynika z danych Ministerstwa Finansów."
     },
     {
-      "title": "Mężczyzna ukrył się w szafie przed policją",
+      "title": "Miał niemal tysiąc dni do odsiadki. Przed policją ukrył się w szafie",
       "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-byl-poszukiwany-mial-niemal-tysiac-dni-do-odsiadki-przed-policja-ukryl-sie-w-szafie-st8854508?source=rss",
       "pubDate": "Mon, 19 Jan 2026 06:03:34 GMT",
       "description": "Policjanci z warszawskiej Woli zatrzymali 32-latka poszukiwanego listem gończym oraz dwoma nakazami doprowadzenia do więzienia. Mężczyzna był skazany za oszustwo i prowadzenia pojazdu pod wpływem alkoholu. Miał do odbycia około tysiąca dni pozbawienia wolności.",
@@ -36,52 +76,12 @@
       "originalDescription": "Policjanci z warszawskiej Woli zatrzymali 32-latka poszukiwanego listem gończym oraz dwoma nakazami doprowadzenia do więzienia. Mężczyzna był skazany za oszustwo i prowadzenia pojazdu pod wpływem alkoholu. Miał do odbycia około tysiąca dni pozbawienia wolności."
     },
     {
-      "title": "Ostrzeżenia IMGW. Zima wciąż groźna",
+      "title": "Prognoza IMGW: zima utrzymuje się",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-silny-wiatr-alarmy-pogodowe-sa-pomaranczowe-ostrzezenia-imgw-ostrzega-st8852268?source=rss",
       "pubDate": "Mon, 19 Jan 2026 05:49:00 GMT",
       "description": "IMGW wydał ostrzeżenia meteorologiczne. We wschodniej części kraju utrzymuje się silny mróz, obowiązuje nawet alarm drugiego stopnia. Miejscami może także wiać silny wiatr.",
       "originalTitle": "Ostrzeżenia IMGW. Zima wciąż groźna",
       "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. We wschodniej części kraju utrzymuje się silny mróz, obowiązuje nawet alarm drugiego stopnia. Miejscami może także wiać silny wiatr."
-    },
-    {
-      "title": "Trump o tym, czego Dania \"nie była w stanie zrobić\". \"Teraz nadszedł czas\"",
-      "link": "https://tvn24.pl/swiat/donald-trump-znow-o-grenlandii-dania-nie-byla-w-stanie-tego-zrobic-st8855547?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 05:40:06 GMT",
-      "description": "Prezydent USA Donald Trump stwierdził we wpisie w mediach społecznościowych, że Dania od 20 lat \"nie była w stanie nic zrobić\" z rosyjskim zagrożeniem na Grenlandii i zapowiedział, że \"teraz nadszedł czas i to się stanie\". Komentarz pojawił się dzień po wspólnym komunikacie ośmiu europejskich państw, które wysłały na wyspę niewielkie grupy żołnierzy.",
-      "originalTitle": "Trump o tym, czego Dania \"nie była w stanie zrobić\". \"Teraz nadszedł czas\"",
-      "originalDescription": "Prezydent USA Donald Trump stwierdził we wpisie w mediach społecznościowych, że Dania od 20 lat \"nie była w stanie nic zrobić\" z rosyjskim zagrożeniem na Grenlandii i zapowiedział, że \"teraz nadszedł czas i to się stanie\". Komentarz pojawił się dzień po wspólnym komunikacie ośmiu europejskich państw, które wysłały na wyspę niewielkie grupy żołnierzy."
-    },
-    {
-      "title": "Będzie nadzwyczajne spotkanie unijnych przywódców w sprawie Grenlandii",
-      "link": "https://tvn24.pl/swiat/grenlandia-szef-rady-europejskiej-zapowiada-nadzwyczajne-posiedzenie-przywodcow-ue-st8855479?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 05:33:45 GMT",
-      "description": "Antonio Costa, przewodniczący Rady Europejskiej, ogłosił w niedzielę, że w najbliższych dniach zwoła nadzwyczajne posiedzenie unijnych liderów w sprawie Grenlandii. Według unijnych źródeł ma się ono odbyć w czwartek 22 stycznia.",
-      "originalTitle": "Będzie nadzwyczajne spotkanie unijnych przywódców w sprawie Grenlandii",
-      "originalDescription": "Antonio Costa, przewodniczący Rady Europejskiej, ogłosił w niedzielę, że w najbliższych dniach zwoła nadzwyczajne posiedzenie unijnych liderów w sprawie Grenlandii. Według unijnych źródeł ma się ono odbyć w czwartek 22 stycznia."
-    },
-    {
-      "title": "\"Punkt zwrotny\" w Syrii. Jest zawieszenie broni",
-      "link": "https://tvn24.pl/swiat/syria-zawieszenie-broni-miedzy-rzadem-a-sdf-st8855482?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 05:16:12 GMT",
-      "description": "Rząd Syrii oraz Syryjskie Siły Demokratyczne (SDF), w większości kurdyjskie, zawarły w niedzielę porozumienie o natychmiastowym zawieszeniu broni na wszystkich frontach - donoszą syryjskie media.",
-      "originalTitle": "\"Punkt zwrotny\" w Syrii. Jest zawieszenie broni",
-      "originalDescription": "Rząd Syrii oraz Syryjskie Siły Demokratyczne (SDF), w większości kurdyjskie, zawarły w niedzielę porozumienie o natychmiastowym zawieszeniu broni na wszystkich frontach - donoszą syryjskie media."
-    },
-    {
-      "title": "Pierwszy taki wyniki wyborów w Portugalii od 40 lat",
-      "link": "https://tvn24.pl/swiat/portugalia-wyniki-wyborow-prezydenckich-bedzie-druga-tura-st8855458?source=rss",
-      "pubDate": "Sun, 18 Jan 2026 22:06:10 GMT",
-      "description": "Antonio Jose Seguro reprezentujący socjalistów wygrał pierwszą turę wyborów prezydenckich w Portugalii - wskazują wyniki po przeliczeniu głosów z 99,9 procent komisji wyborczych. Żaden z kandydatów nie uzyskał ponad 50 procent poparcia.",
-      "originalTitle": "Pierwszy taki wyniki wyborów w Portugalii od 40 lat",
-      "originalDescription": "Antonio Jose Seguro reprezentujący socjalistów wygrał pierwszą turę wyborów prezydenckich w Portugalii - wskazują wyniki po przeliczeniu głosów z 99,9 procent komisji wyborczych. Żaden z kandydatów nie uzyskał ponad 50 procent poparcia."
-    },
-    {
-      "title": "Reakcja z Europy na groźby Trumpa, tragedia na torach, kolejna fala mrozów",
-      "link": "https://tvn24.pl/najnowsze/piec-rzeczy-ktore-warto-wiedziec-w-poniedzialek-19-stycznia-najwazniejsze-informacje-st8855478?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 04:54:31 GMT",
-      "description": "Europejscy przywódcy potępili w niedzielę groźby celne prezydenta USA Donalda Trumpa wobec sojuszników w związku z Grenlandią. W Hiszpanii zderzyły się dwa pociągi. Zginęło co najmniej 21 osób, jest też wielu rannych. Do Polski wrócił silny mróz. To jednak nie koniec - idą fale coraz zimniejszego powietrza. Oto pięć rzeczy, które warto wiedzieć w poniedziałek 19 stycznia.",
-      "originalTitle": "Reakcja z Europy na groźby Trumpa, tragedia na torach, kolejna fala mrozów",
-      "originalDescription": "Europejscy przywódcy potępili w niedzielę groźby celne prezydenta USA Donalda Trumpa wobec sojuszników w związku z Grenlandią. W Hiszpanii zderzyły się dwa pociągi. Zginęło co najmniej 21 osób, jest też wielu rannych. Do Polski wrócił silny mróz. To jednak nie koniec - idą fale coraz zimniejszego powietrza. Oto pięć rzeczy, które warto wiedzieć w poniedziałek 19 stycznia."
     }
   ]
 }
