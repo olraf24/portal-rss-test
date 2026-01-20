@@ -1,26 +1,50 @@
 {
-  "lastUpdate": "2026-01-20T06:10:45.221Z",
+  "lastUpdate": "2026-01-20T06:46:55.210Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Dwa lotniska wstrzymały operacje z powodu lotnictwa wojskowego",
-      "link": "https://tvn24.pl/polska/dzialania-lotnictwa-wojskowego-dwa-lotniska-wstrzymaly-operacje-komunikat-pazp-st8857614?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 05:52:47 GMT",
-      "description": "• Lotniska w Rzeszowie i Lublinie wstrzymały operacje lotnicze.\n• Decyzja wstrzymania operacji lotniczych zapadła w związku z koniecznością zapewnienia swobody działania lotnictwa wojskowego.\n• Polska Agencja Żeglugi Powietrznej poinformowała o wstrzymaniu operacji lotniczych.",
-      "originalTitle": "\"Działania lotnictwa wojskowego\". Dwa lotniska wstrzymały operacje",
-      "originalDescription": "Lotniska w Rzeszowie i Lublinie wstrzymały operacje lotnicze - poinformowała Polska Agencja Żeglugi Powietrznej. Decyzja zapadła \"w związku z koniecznością zapewnienia swobody działania lotnictwa wojskowego\"."
+      "title": "Elektrownia atomowa uruchomiona z opóźnieniem",
+      "link": "https://tvn24.pl/biznes/ze-swiata/energia-atomowa-usterka-alarmu-w-elektrowni-kashiwazaki-kariwa-w-prefekturze-niigata-opozni-ponowne-otwarcie-st8857631?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 06:33:22 GMT",
+      "description": "• Koncern Tokyo Electric Power Company (TEPCO) ogłosił, że odkłada zaplanowany na wtorek restart reaktora nr 6 w elektrowni jądrowej Kashiwazaki-Kariwa.\n• Miała to być pierwsza próba ponownego uruchomienia reaktora przez tego operatora.\n�� Ostatnia próba uruchomienia reaktora przez tego operatora miała miejsce przed katastrofą nuklearną w Fukushimie.\n• Katastrofa nuklearna w Fukushimie miała miejsce w 2011 roku.",
+      "originalTitle": "Największa elektrownia atomowa ruszy z opóźnieniem. Przeszkodą usterka alarmu",
+      "originalDescription": "Koncern Tokyo Electric Power Company (TEPCO) ogłosił, że odkłada zaplanowany na wtorek restart reaktora nr 6 w elektrowni jądrowej Kashiwazaki-Kariwa. Miała to być pierwsza próba ponownego uruchomienia reaktora przez tego operatora od czasu katastrofy nuklearnej w Fukushimie w 2011 roku."
     },
     {
-      "title": "Minister o sytuacji giganta",
+      "title": "Katastrofa kolejowa w Hiszpanii",
+      "link": "https://tvn24.pl/swiat/hiszpania-media-sledztwo-w-sprawie-katastrofy-na-kolei-koncentruje-sie-na-usterce-torow-st8857290?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 06:29:02 GMT",
+      "description": "• Dziennik \"El Mundo\" przekazał informacje o śledztwie w sprawie wypadku kolejowego.\n• Wypadek kolejowy miał miejsce w niedzielę.\n• Wypadek miał miejsce na południu Hiszpanii.\n• W wyniku wypadku zginęło 39 osób.\n• Ponad 100 osób zostało rannych w wyniku wypadku.\n• Śledztwo koncentruje się na usterce torów.",
+      "originalTitle": "\"Wypadek w dziwnych okolicznościach\". Hiszpańskie media o przyczynach katastrofy kolejowej",
+      "originalDescription": "Dziennik \"El Mundo\" przekazał, że śledztwo w sprawie niedzielnego wypadku kolejowego na południu Hiszpanii, w którym zginęło 39 osób, a ponad 100 zostało rannych, koncentruje się na usterce torów."
+    },
+    {
+      "title": "Sąd Najwyższy rozpatrzy kasację w sprawie Kajetana P.",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-sprawa-kajetana-p-wraca-na-wokande-sad-najwyzszy-rozpatrzy-kasacje-obroncow-st8857621?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 06:24:07 GMT",
+      "description": "Sąd Najwyższy zajmie się w marcu sprawą zabójstwa lektorki języka włoskiego Katarzyny J. Kasację w tej sprawie wnieśli obrońcy Kajetana P. Wskazali w niej między innymi wątpliwości dotyczące oceny stanu jego poczytalności. Mężczyzna został w 2023 roku prawomocnie skazany na dożywocie.",
+      "originalTitle": "Sprawa Kajetana P. wraca na wokandę. Sąd Najwyższy rozpatrzy kasację obrońców",
+      "originalDescription": "Sąd Najwyższy zajmie się w marcu sprawą zabójstwa lektorki języka włoskiego Katarzyny J. Kasację w tej sprawie wnieśli obrońcy Kajetana P. Wskazali w niej między innymi wątpliwości dotyczące oceny stanu jego poczytalności. Mężczyzna został w 2023 roku prawomocnie skazany na dożywocie."
+    },
+    {
+      "title": "Temperatura spadła poniżej -20 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/polska/silny-mroz-w-polsce-ponizej-20-stopni-na-termometrach-gdzie-bylo-najzimniej-st8857357?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 06:11:43 GMT",
+      "description": "Nawet -24 stopnie Celsjusza pokazały we wtorek rano termometry w Polsce. Trzaskający mróz objął wschodnie regiony kraju. Sprawdź, gdzie było najzimniej.",
+      "originalTitle": "Poniżej -20 stopni na termometrach. Gdzie było najzimniej?",
+      "originalDescription": "Nawet -24 stopnie Celsjusza pokazały we wtorek rano termometry w Polsce. Trzaskający mróz objął wschodnie regiony kraju. Sprawdź, gdzie było najzimniej."
+    },
+    {
+      "title": "Kryzys jeszcze nie został zażegnany. Minister wierzy, że gigant przetrwa",
       "link": "https://tvn24.pl/biznes/z-kraju/jastrzebska-spolka-weglowa-w-coraz-wiekszym-kryzysie-to-wplynelo-na-bardzo-istotne-obnizenie-ceny-st8857350?source=rss",
       "pubDate": "Tue, 20 Jan 2026 05:52:18 GMT",
-      "description": "• Zalew produktami z dalekich krajów jest jednym z problemów Jastrzębskiej Spółki Węglowej.\n• Kiepska sytuacja na rynku jest kolejnym problemem Jastrzębskiej Spółki Węglowej.\n• Długotrwałe gwarancje dla załogi są jednym z problemów Jastrzębskiej Spółki Węglowej.\n• Szef resortu aktywów państwowych diagnozuje problemy Jastrzębskiej Spółki Węglowej.\n• Wojciech Balczun wierzy, że Jastrzębska Spółka Węglowa przetrwa ten okres.",
+      "description": "Zalew produktami z dalekich krajów, kiepska sytuacja na rynku i długotrwałe gwarancje dla załogi - tak szef resortu aktywów państwowych diagnozuje problemy Jastrzębskiej Spółki Węglowej. Wojciech Balczun wierzy jednak, że \"JSW ten okres przetrwa\".",
       "originalTitle": "Kryzys jeszcze nie został zażegnany. Minister wierzy, że gigant przetrwa",
       "originalDescription": "Zalew produktami z dalekich krajów, kiepska sytuacja na rynku i długotrwałe gwarancje dla załogi - tak szef resortu aktywów państwowych diagnozuje problemy Jastrzębskiej Spółki Węglowej. Wojciech Balczun wierzy jednak, że \"JSW ten okres przetrwa\"."
     },
     {
-      "title": "Trump odmówił komentarza na temat Grenlandii",
+      "title": "Trump pytany, czy użyje siły, by zająć Grenlandię: bez komentarza",
       "link": "https://tvn24.pl/swiat/usa-donald-trump-zapytany-czy-uzyje-sily-by-zajac-grenlandie-odparl-bez-komentarza-st8857302?source=rss",
       "pubDate": "Tue, 20 Jan 2026 05:48:54 GMT",
       "description": "Donald Trump odmówił odpowiedzi na pytanie, czy może użyć siły do zajęcia Grenlandii. Premier Jonas Gahr Stoere stwierdził, że w tej sprawie prezydentowi USA powinno zależeć na dobrych relacjach z Norwegią.",
@@ -47,9 +71,9 @@
       "title": "Trump potwierdza. Putin otrzymał zaproszenie",
       "link": "https://tvn24.pl/swiat/kto-dolaczy-do-rady-pokoju-trump-potwierdzil-kolejne-nazwisko-st8857310?source=rss",
       "pubDate": "Tue, 20 Jan 2026 05:07:14 GMT",
-      "description": "Władimir Putin otrzymał zaproszenie dołączenia do Rady Pokoju, która będzie zarządzać Strefą Gazy - potwierdził prezydent USA Donald Trump. Wcześniej o propozycji dla rosyjskiego przywódcy informował Kreml. Trump był pytany także o doniesienia, że do Rady Pokoju nie dołączy prezydent Francji Emmanuel Macron.",
+      "description": "Władimir Putin otrzymał zaproszenie dołączenia do Rady Pokoju, która będzie zarządzać Strefą Gazy - potwierdził prezydent USA Donald Trump. Prezydent USA był pytany także o doniesienia, że do Rady Pokoju nie dołączy prezydent Francji Emmanuel Macron. Bloomberg powiadomił, że Trump chce podpisania wszelkich dokumentów ustanawiających jego Radę Pokoju już w czwartek.",
       "originalTitle": "Trump potwierdza. Putin otrzymał zaproszenie",
-      "originalDescription": "Władimir Putin otrzymał zaproszenie dołączenia do Rady Pokoju, która będzie zarządzać Strefą Gazy - potwierdził prezydent USA Donald Trump. Wcześniej o propozycji dla rosyjskiego przywódcy informował Kreml. Trump był pytany także o doniesienia, że do Rady Pokoju nie dołączy prezydent Francji Emmanuel Macron."
+      "originalDescription": "Władimir Putin otrzymał zaproszenie dołączenia do Rady Pokoju, która będzie zarządzać Strefą Gazy - potwierdził prezydent USA Donald Trump. Prezydent USA był pytany także o doniesienia, że do Rady Pokoju nie dołączy prezydent Francji Emmanuel Macron. Bloomberg powiadomił, że Trump chce podpisania wszelkich dokumentów ustanawiających jego Radę Pokoju już w czwartek."
     },
     {
       "title": "Pięć osób zginęło. Kierowca busa stanie przed sądem",
@@ -58,30 +82,6 @@
       "description": "Prokuratura skierowała do sądu akt oskarżenia w prawie kierowcy furgonetki, który - według ustaleń śledczych - doprowadził w maju 2025 roku do tragicznego wypadku w miejscowości Konotopa. Zginęło wtedy pięć osób, a trzy zostały ranne.",
       "originalTitle": "Pięć osób zginęło. Kierowca busa stanie przed sądem",
       "originalDescription": "Prokuratura skierowała do sądu akt oskarżenia w prawie kierowcy furgonetki, który - według ustaleń śledczych - doprowadził w maju 2025 roku do tragicznego wypadku w miejscowości Konotopa. Zginęło wtedy pięć osób, a trzy zostały ranne."
-    },
-    {
-      "title": "Rosyjski sąd skazał Amerykanina na pięć lat więzienia za nielegalny transport broni",
-      "link": "https://tvn24.pl/swiat/rosja-sad-w-soczi-skazal-amerykanina-na-piec-lat-wiezienia-za-nielegalny-transport-broni-st8857292?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 04:51:00 GMT",
-      "description": "Amerykanin Charles Wayne Zimmerman został skazany na pięć lat więzienia za nielegalny transport broni - zdecydował sąd w Soczi. Jak przekazała agencja AP w czerwcu 2025 roku rosyjskie służby celne znalazły broń na jachcie Zimmermana.",
-      "originalTitle": "Rosyjski sąd skazał Amerykanina na pięć lat więzienia za nielegalny transport broni",
-      "originalDescription": "Amerykanin Charles Wayne Zimmerman został skazany na pięć lat więzienia za nielegalny transport broni - zdecydował sąd w Soczi. Jak przekazała agencja AP w czerwcu 2025 roku rosyjskie służby celne znalazły broń na jachcie Zimmermana."
-    },
-    {
-      "title": "Szpiedzy z akademika. O zdradzonej żonie, modelce z TikToka i wybuchowej przesyłce w złotym pudełku",
-      "link": "https://tvn24.pl/polska/sosnowiec-poczatek-procesu-rosjan-oskarzonych-o-szpiegostwo-st8856013?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 04:33:18 GMT",
-      "description": "Do niedawna byli studentami Uniwersytetu Śląskiego ze statusem uchodźców. Dziś młode rosyjskie małżeństwo Igor i Irina R. stają przed polskim sądem pod zarzutem szpiegostwa. Jaki finał miałaby ta sprawa, gdyby pewne złote pudełko, należące do ukraińskiej modelki, nie trafiło w ręce funkcjonariuszy ABW?",
-      "originalTitle": "Szpiedzy z akademika. O zdradzonej żonie, modelce z TikToka i wybuchowej przesyłce w złotym pudełku",
-      "originalDescription": "Do niedawna byli studentami Uniwersytetu Śląskiego ze statusem uchodźców. Dziś młode rosyjskie małżeństwo Igor i Irina R. stają przed polskim sądem pod zarzutem szpiegostwa. Jaki finał miałaby ta sprawa, gdyby pewne złote pudełko, należące do ukraińskiej modelki, nie trafiło w ręce funkcjonariuszy ABW?"
-    },
-    {
-      "title": "Sensacyjne odkrycie. Znaleziono pozostałości Bazyliki Witruwiusza",
-      "link": "https://tvn24.pl/swiat/wlochy-sensacyjne-odkrycie-w-fano-znaleziono-pozostalosci-bazyliki-witruwiusza-st8857298?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 04:32:00 GMT",
-      "description": "W mieście Fano we włoskim regionie Marche odnaleziono pozostałości Bazyliki Witruwiusza z I wieku przed naszą erą. O odkryciu poinformowały miejscowe władze.",
-      "originalTitle": "Sensacyjne odkrycie. Znaleziono pozostałości Bazyliki Witruwiusza",
-      "originalDescription": "W mieście Fano we włoskim regionie Marche odnaleziono pozostałości Bazyliki Witruwiusza z I wieku przed naszą erą. O odkryciu poinformowały miejscowe władze."
     }
   ]
 }
