@@ -1,10 +1,18 @@
 {
-  "lastUpdate": "2026-01-20T00:49:57.022Z",
+  "lastUpdate": "2026-01-20T01:35:16.525Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Polska 2050 podjęła decyzję ws wyborów",
+      "title": "Pogoda na wtorek 20.01",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-wtorek-20-01-slonecznie-miejscami-mocniej-powieje-st8857247?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 01:00:00 GMT",
+      "description": "• Wtorek, 20.01, upłynie pod znakiem słonecznej aury.\n• Warunki biometeo okażą się neutralne.",
+      "originalTitle": "Pogoda na dziś - wtorek, 20.01. Słonecznie, miejscami mocniej powieje",
+      "originalDescription": "Pogoda na dziś. Wtorek, 20.01, upłynie pod znakiem słonecznej aury. Warunki biometeo okażą się neutralne."
+    },
+    {
+      "title": "Decyzja władz Polski 2050 ws wyborów",
       "link": "https://tvn24.pl/polska/wladze-polski-2050-zdecydowaly-w-sprawie-wyborow-st8857274?source=rss",
       "pubDate": "Mon, 19 Jan 2026 21:51:21 GMT",
       "description": "Rada Krajowa Polski 2050 zdecydowała, że druga tura wewnętrznych wyborów na przewodniczącą partii zostanie powtórzona. Odbędzie się do 31 stycznia.",
@@ -15,7 +23,7 @@
       "title": "Rozwód uznany za nieważny ze względu na status sędziego",
       "link": "https://tvn24.pl/polska/sady-w-polsce-rozwod-niewazny-bo-orzekal-neosedzia-waldemar-zurek-kryzys-wchodzi-w-najwrazliwsze-obszary-st8856076?source=rss",
       "pubDate": "Mon, 19 Jan 2026 21:23:16 GMT",
-      "description": "• Sąd Rejonowy w Giżycku zdecydował, że nie ma możliwości dokonania podziału majątku wspólnego byłych małżonków.\n• Wyrok w ich sprawie rozwodowej uznał za nieistniejący.\n• O decyzji Sądu Rejonowego w Giżycku poinformował portal Prawo.pl.\n• Problemem okazał się neosędzia w składzie orzekającym.\n• Minister Waldemar Żurek uznał tę sytuację za \"niepokojącą\".",
+      "description": "• Sąd Rejonowy w Giżycku zdecydował, że nie ma możliwości dokonania podziału majątku wspólnego byłych małżonków.\n• Wyrok w ich sprawie rozwodowej uznał za nieistniejący.\n• Informację o tej decyzji podał portal Prawo.pl.\n• Problemem okazał się neosędzia w składzie orzekającym.\n• Minister Waldemar Żurek uznał tę sytuację za \"niepokojącą\".",
       "originalTitle": "Rozwód nieważny, bo orzekał neosędzia. Żurek: kryzys wchodzi w najwrażliwsze obszary",
       "originalDescription": "Sąd Rejonowy w Giżycku zdecydował, że nie ma możliwości dokonania podziału majątku wspólnego byłych małżonków, a wyrok w ich sprawie rozwodowej uznał za nieistniejący - poinformował portal Prawo.pl. Problemem okazał się neosędzia w składzie orzekającym. Za \"niepokojące\" uznał to minister Waldemar Żurek."
     },
@@ -23,12 +31,12 @@
       "title": "Polak zatrzymany w Norwegii",
       "link": "https://tvn24.pl/swiat/polak-trafil-do-aresztu-w-norwegii-policjanci-interweniowali-w-samolocie-st8857268?source=rss",
       "pubDate": "Mon, 19 Jan 2026 21:08:34 GMT",
-      "description": "Policja w Norwegii aresztowała polskiego obywatela, który miał agresywnie zachowywać się w stosunku do pasażerów i załogi samolotu. Nie ma informacji o poszkodowanych osobach.",
+      "description": "• Policja w Norwegii aresztowała polskiego obywatela.\n• Polski obywatel miał agresywnie zachowywać się w stosunku do pasażerów i załogi samolotu.\n• Nie ma informacji o poszkodowanych osobach.",
       "originalTitle": "Polak trafił do aresztu w Norwegii. Policjanci interweniowali w samolocie",
       "originalDescription": "Policja w Norwegii aresztowała polskiego obywatela, który miał agresywnie zachowywać się w stosunku do pasażerów i załogi samolotu. Nie ma informacji o poszkodowanych osobach."
     },
     {
-      "title": "Miał zagłuszarkę na lotnisku. Co i jak w tej sprawie zrobiły służby?",
+      "title": "Zagłuszarka znaleziona na lotnisku",
       "link": "https://tvn24.pl/polska/27-letni-ukrainiec-zatrzymany-na-lotnisku-chopina-z-zagluszarka-fal-radiowych-trafil-do-aresztu-st8857146?source=rss",
       "pubDate": "Mon, 19 Jan 2026 21:05:47 GMT",
       "description": "Ze strony rzecznika ministra koordynatora służb specjalnych i stołecznej komendy policji płyną zapewnienia, że ABW i policja \"natychmiast\" zareagowały na informacje o podejrzanych zachowaniach obywatela Ukrainy, który na Okęciu miał zagłuszarkę. To reakcja na medialne doniesienia, według których policjanci musieli starać się kilka godzin o zgodę na zatrzymanie.",
@@ -36,7 +44,7 @@
       "originalDescription": "Ze strony rzecznika ministra koordynatora służb specjalnych i stołecznej komendy policji płyną zapewnienia, że ABW i policja \"natychmiast\" zareagowały na informacje o podejrzanych zachowaniach obywatela Ukrainy, który na Okęciu miał zagłuszarkę. To reakcja na medialne doniesienia, według których policjanci musieli starać się kilka godzin o zgodę na zatrzymanie."
     },
     {
-      "title": "Ogromny karambol w USA. Zderzyło się ponad 100 pojazdów",
+      "title": "Wypadek drogowy w USA, zderzenie 100 pojazdów",
       "link": "https://tvn24.pl/swiat/ogromny-karambol-w-usa-zderzylo-sie-ponad-100-pojazdow-st8857267?source=rss",
       "pubDate": "Mon, 19 Jan 2026 20:50:46 GMT",
       "description": "Ponad 100 pojazdów zderzyło się w poniedziałek wieczorem w stanie Michigan na północy USA. W wyniku tego zdarzenia jest wielu rannych - podała stacja ABC News. Według telewizji Fox do zdarzenia doszło z powodu śnieżyc i zamieci.",
@@ -74,14 +82,6 @@
       "description": "Marsylia wyprzedziła Warszawę w zestawieniu najbardziej autentycznych miast w Europie. Eksperci docenili francuską metropolię za małą liczbę \"turystycznych pułapek\" i barwne dzielnice portowe. Oprócz stolicy Polski w czołowej 10 było jeszcze jedno polskie miasto.",
       "originalTitle": "Najbardziej autentyczne miasta Europy. Dwa z Polski w czołówce",
       "originalDescription": "Marsylia wyprzedziła Warszawę w zestawieniu najbardziej autentycznych miast w Europie. Eksperci docenili francuską metropolię za małą liczbę \"turystycznych pułapek\" i barwne dzielnice portowe. Oprócz stolicy Polski w czołowej 10 było jeszcze jedno polskie miasto."
-    },
-    {
-      "title": "Zderzenie autokaru i dwóch samochodów",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-zderzenie-autokaru-i-dwoch-aut-na-hynka-utrudnienia-st8857224?source=rss",
-      "pubDate": "Mon, 19 Jan 2026 19:59:23 GMT",
-      "description": "Na Hynka zderzyły się autokar i dwa samochody osobowe. Dwie osoby były badane w karetce. Autokarem jechał wyłącznie kierowca.",
-      "originalTitle": "Zderzenie autokaru i dwóch samochodów",
-      "originalDescription": "Na Hynka zderzyły się autokar i dwa samochody osobowe. Dwie osoby były badane w karetce. Autokarem jechał wyłącznie kierowca."
     }
   ]
 }
