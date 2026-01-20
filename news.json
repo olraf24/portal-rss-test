@@ -1,18 +1,34 @@
 {
-  "lastUpdate": "2026-01-20T08:45:54.855Z",
+  "lastUpdate": "2026-01-20T09:12:28.104Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "ChatGPT z reklamami",
+      "title": "Winda uległa awarii na jednym z pięter",
+      "link": "https://tvn24.pl/krakow/krakow-winda-zaczela-spadac-zatrzymala-sie-miedzy-pietrami-st8857933?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 09:07:56 GMT",
+      "description": "Winda w jednym z bloków przy ulicy Armii Krajowej w Krakowie zaczęła gwałtownie spadać. Urządzenie zjechało przez dwie kondygnacje i zatrzymało się między piętrami. Znajdująca się w środku 83-latka doznała lekkich potłuczeń. Sprawę wyjaśnia specjalna komisja.",
+      "originalTitle": "Winda z seniorką zaczęła spadać. Zatrzymała się między piętrami",
+      "originalDescription": "Winda w jednym z bloków przy ulicy Armii Krajowej w Krakowie zaczęła gwałtownie spadać. Urządzenie zjechało przez dwie kondygnacje i zatrzymało się między piętrami. Znajdująca się w środku 83-latka doznała lekkich potłuczeń. Sprawę wyjaśnia specjalna komisja."
+    },
+    {
+      "title": "USA oskarżają akademię o udostępnienie technologii Chinom",
+      "link": "https://tvn24.pl/swiat/usa-oskarzaja-akademie-lotnicza-o-probe-przekazania-chinom-technologii-nato-st8857301?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 08:57:06 GMT",
+      "description": "• Południowoafrykańska Akademia Lotnictwa Testowego została oskarżona przez Departament Sprawiedliwości Stanów Zjednoczonych.\n• Oskarżenie dotyczy próby przemytu do Chin zaawansowanych wojskowych symulatorów lotu.\n• Symulatory lotu wykorzystują amerykańską technologię.\n• Amerykańska technologia jest przeznaczona do szkolenia pilotów NATO.\n• Symulatory lotu miały być przemycane do Chin.",
+      "originalTitle": "USA oskarżają akademię lotniczą o próbę przekazania Chinom technologii NATO",
+      "originalDescription": "Południowoafrykańska Akademia Lotnictwa Testowego została oskarżona przez Departament Sprawiedliwości Stanów Zjednoczonych o próbę przemytu do Chin zaawansowanych wojskowych symulatorów lotu, wykorzystujących amerykańską technologię przeznaczoną do szkolenia pilotów NATO."
+    },
+    {
+      "title": "ChatGPT wprowadza reklamy",
       "link": "https://tvn24.pl/biznes/tech/chatgpt-reklamy-w-chatbocie-zmiana-podejscia-w-openai-st8856439?source=rss",
       "pubDate": "Tue, 20 Jan 2026 08:41:58 GMT",
-      "description": "• ChatGPT w bezpłatnej wersji zacznie w USA wyświetlać reklamy dopasowane do treści rozmów użytkowników.\n• Reklamy nie będą wpływać na odpowiedzi chatbota.\n• Dane użytkowników nie trafią do reklamodawców.\n• OpenAI zapewnia o powyższych zabezpieczeniach.",
+      "description": "ChatGPT w bezpłatnej wersji zacznie w USA wyświetlać reklamy dopasowane do treści rozmów użytkowników. OpenAI zapewnia, że reklamy nie będą wpływać na odpowiedzi chatbota, a dane użytkowników nie trafią do reklamodawców.",
       "originalTitle": "ChatGPT wkrótce z reklamami",
       "originalDescription": "ChatGPT w bezpłatnej wersji zacznie w USA wyświetlać reklamy dopasowane do treści rozmów użytkowników. OpenAI zapewnia, że reklamy nie będą wpływać na odpowiedzi chatbota, a dane użytkowników nie trafią do reklamodawców."
     },
     {
-      "title": "Ostrzeżenie RCB dotyczy aktywności na zewnątrz",
+      "title": "Alert RCB. \"Unikaj aktywności na zewnątrz\"",
       "link": "https://tvn24.pl/tvnmeteo/smog/smog-w-polsce-alert-rcb-unikaj-aktywnosci-na-zewnatrz-st8857902?source=rss",
       "pubDate": "Tue, 20 Jan 2026 08:40:22 GMT",
       "description": "Rządowe Centrum Bezpieczeństwa ostrzega przed smogiem. Alert został wysłany do mieszkańców pięciu województw. Sprawdź szczegóły.",
@@ -20,7 +36,7 @@
       "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega przed smogiem. Alert został wysłany do mieszkańców pięciu województw. Sprawdź szczegóły."
     },
     {
-      "title": "Przeszukanie pomieszczeń z psem",
+      "title": "Wyważyli drzwi, z psem tropiącym przeszukali pomieszczenia",
       "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-silowe-otworzenie-drzwi-i-pies-tropiacy-w-akcji-znalezli-narkotyki-dwoch-zatrzymanych-st8857794?source=rss",
       "pubDate": "Tue, 20 Jan 2026 08:38:18 GMT",
       "description": "Policjanci przeszukali kamienicę i pustostan. Znaleźli narkotyki. Zatrzymali 32-latka i 48-latka. Według ich ustaleń, młodszy z mężczyzn był dilerem, a starszy jego pomocnikiem. Podejrzani usłyszeli zarzuty.",
@@ -28,10 +44,10 @@
       "originalDescription": "Policjanci przeszukali kamienicę i pustostan. Znaleźli narkotyki. Zatrzymali 32-latka i 48-latka. Według ich ustaleń, młodszy z mężczyzn był dilerem, a starszy jego pomocnikiem. Podejrzani usłyszeli zarzuty."
     },
     {
-      "title": "Dwie osoby ranne w ataku nożownika",
+      "title": "Dwie osoby ranne po ataku nożownika. Szukają sprawcy",
       "link": "https://tvn24.pl/lublin/lukow-atak-nozownika-dwie-osoby-w-szpitalu-oblawa-na-sprawce-st8857754?source=rss",
       "pubDate": "Tue, 20 Jan 2026 08:30:41 GMT",
-      "description": "• Nastolatek i 40-latek zostali zaatakowani nożem w Łukowie.\n• Łuków znajduje się w województwie Lubelskim.\n• Trwa obława na sprawcę ataku.\n• Policja wie, kim jest mężczyzna odpowiedzialny za atak.\n• Kwestią godzin jest, kiedy sprawca zostanie zatrzymany, według informacji od funkcjonariuszy.",
+      "description": "Nastolatek i 40-latek zaatakowani nożem w Łukowie (Lubelskie). Trwa obława na sprawcę. Policja wie, kim jest mężczyzna. - Kwestią godzin jest, kiedy zostanie zatrzymany - informują funkcjonariusze.",
       "originalTitle": "Dwie osoby ranne po ataku nożownika. Szukają sprawcy",
       "originalDescription": "Nastolatek i 40-latek zaatakowani nożem w Łukowie (Lubelskie). Trwa obława na sprawcę. Policja wie, kim jest mężczyzna. - Kwestią godzin jest, kiedy zostanie zatrzymany - informują funkcjonariusze."
     },
@@ -66,22 +82,6 @@
       "description": "Mieszkaniec Kazimierza Dolnego (Lubelskie) został oszukany podczas zakupów internetowych. Mężczyzna zamówił drogi zestaw do nawigacji w \"wyjątkowo korzystnej cenie\", zamiast niego w paczce znalazł niewiele wart zestaw narzędzi. Sprawę wyjaśnia policja.",
       "originalTitle": "Zamówił drogi zestaw do nawigacji, dostał coś zupełnie innego",
       "originalDescription": "Mieszkaniec Kazimierza Dolnego (Lubelskie) został oszukany podczas zakupów internetowych. Mężczyzna zamówił drogi zestaw do nawigacji w \"wyjątkowo korzystnej cenie\", zamiast niego w paczce znalazł niewiele wart zestaw narzędzi. Sprawę wyjaśnia policja."
-    },
-    {
-      "title": "Czy rząd powinien działać na rzecz sprowadzenia Ziobry do Polski? Sondaż",
-      "link": "https://tvn24.pl/polska/sondaz-polacy-za-sprowadzeniem-ziobry-do-polski-byly-minister-z-azylem-na-wegrzech-st8857746?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 08:04:39 GMT",
-      "description": "Ponad połowa Polaków popiera działania rządu zmierzające do sprowadzenia Zbigniewa Ziobry do Polski i postawienia go przed sądem - wynika z nowego sondażu Opinia24 przeprowadzonego na zlecenie RMF FM.",
-      "originalTitle": "Czy rząd powinien działać na rzecz sprowadzenia Ziobry do Polski? Sondaż",
-      "originalDescription": "Ponad połowa Polaków popiera działania rządu zmierzające do sprowadzenia Zbigniewa Ziobry do Polski i postawienia go przed sądem - wynika z nowego sondażu Opinia24 przeprowadzonego na zlecenie RMF FM."
-    },
-    {
-      "title": "11 województw z ostrzeżeniami IMGW",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-silny-wiatr-alarmy-pogodowe-sa-pomaranczowe-ostrzezenia-imgw-ostrzega-st8852268?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 05:24:24 GMT",
-      "description": "IMGW wydał ostrzeżenia meteorologiczne. W kilkunastu województwa obowiązują żółte alarmy przed silnym mrozem oraz silnym wiatrem. Sprawdź szczegóły.",
-      "originalTitle": "11 województw z ostrzeżeniami IMGW",
-      "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. W kilkunastu województwa obowiązują żółte alarmy przed silnym mrozem oraz silnym wiatrem. Sprawdź szczegóły."
     }
   ]
 }
