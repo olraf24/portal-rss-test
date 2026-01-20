@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-20T15:10:30.141Z",
+  "lastUpdate": "2026-01-20T15:43:26.822Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Su-57 polowały na ukraińskie myśliwce",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/su-57-polowaly-na-ukrainskie-mysliwce",
+      "pubDate": "Tue, 20 Jan 2026 16:30:02 +0100",
+      "description": "Jak twierdzą źródła ukraińskie, Rosjanom zależało na osiągnięciu „sukcesu bojowego” z Su-57. Miał być on potem szeroko wykorzystany w kampanii promocyjnej tego samolotu na rynkach eksportowych i być dowodem na to, że maszyna jest nowoczesnym wyrobem o dobrych parametrach technicznych."
+    },
     {
       "title": "Chiny zaproszone do Rady Pokoju Donalda Trumpa",
       "link": "https://defence24.pl/geopolityka/chiny-zaproszone-do-rady-pokoju-donalda-trumpa",
@@ -61,7 +67,7 @@
       "title": "Nowy ukraiński transporter w jednostkach „Azowa”.",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/nowy-ukrainski-transporter-w-jednostkach-azowa",
       "pubDate": "Tue, 20 Jan 2026 13:13:33 +0100",
-      "description": "Nowa maszyna została już wyposażona w pełnozakresową osłonę antydronową typu „mangal”, a także w środki walki radioelektronicznej. Pojazd trafił bezpośrednio do jednostki liniowej i został wykorzystany podczas realnych działań bojowych."
+      "description": "Nowa maszyna została już wyposażona w pełnozakresową osłonę antydronową typu ��mangal”, a także w środki walki radioelektronicznej. Pojazd trafił bezpośrednio do jednostki liniowej i został wykorzystany podczas realnych działań bojowych."
     },
     {
       "title": "Dania odbiera fińskie transportery opancerzone",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/smoki-dla-hiszpanskiej-armii",
       "pubDate": "Tue, 20 Jan 2026 11:20:01 +0100",
       "description": "Wojska lądowe Hiszpanii przyjęły na uzbrojenie pierwszą partię liczącą 41 kołowych bojowych wozów piechoty i wozów inżynieryjnych [VCR Dragón 8x8](https://defence24.pl/sily-zbrojne/hiszpanski-program-wychodzi-na-prosta). Do końca roku 2026 na stan Ejército de Tierra ma trafić około 100 tych pojazdów."
-    },
-    {
-      "title": "Izraelska artyleria wyprodukowana w USA",
-      "link": "https://defence24.pl/przemysl/izraelska-artyleria-wyprodukowana-w-usa",
-      "pubDate": "Tue, 20 Jan 2026 11:00:00 +0100",
-      "description": "Informacja podana 8 stycznia przez m.in. portal [Defence Industry Europe](https://defence-industry.eu/elbit-systems-completes-first-sigma-ng-155mm-howitzer-built-in-the-u-s-as-production-shifts-locally/) oznacza, że amerykańska spółka córka izraelskiego koncernu Elbit Systems osiągnęła kluczowy etap w promocji artylerii na tamtejszym rynku. Armatohaubica SIGMA NG (Next Generation, prawdopodobnie sugeruje zastosowanie nowych rozwiązań względem konstrukcji pokazywanej przed laty) jest oferowana armii amerykańskiej w ramach programu artylerii nowej generacji [Self-Propelled Howitzer Modernization (SPH-M)](https://defence24.pl/sily-zbrojne/nowy-rozdzial-artyleryjskiego-rodeo-w-usa), która ma zastąpić w armii amerykańskiej haubice M109A6/A7."
     }
   ]
 }
