@@ -1,87 +1,87 @@
 {
-  "lastUpdate": "2026-01-20T18:10:31.017Z",
+  "lastUpdate": "2026-01-20T18:47:24.878Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Żyletkowiec wpisany na listę zabytków",
+      "title": "Tusk o słabości Europy",
+      "link": "https://tvn24.pl/polska/donald-tusk-europa-nie-moze-sobie-pozwolic-na-slabosc-ani-wobec-wrogow-ani-sojusznikow-st8859353?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 18:40:00 GMT",
+      "description": "Premier Donald Tusk ocenił we wtorek, że polityka appeasementu \"zawsze jest oznaką słabości\" i przynosi \"jedynie upokorzenie\". \"Potrzebą chwili stały się europejska asertywność i pewność siebie\" - stwierdził.",
+      "originalTitle": "Tusk: Europa nie może sobie pozwolić na słabość. Ani wobec wrogów, ani sojuszników",
+      "originalDescription": "Premier Donald Tusk ocenił we wtorek, że polityka appeasementu \"zawsze jest oznaką słabości\" i przynosi \"jedynie upokorzenie\". \"Potrzebą chwili stały się europejska asertywność i pewność siebie\" - stwierdził."
+    },
+    {
+      "title": "Prezes Banku Światowego pochwała Polski",
+      "link": "https://tvn24.pl/biznes/ze-swiata/forum-ekonomiczne-w-davos-prezes-banku-swiatowego-chwali-walke-z-korupcja-w-polsce-st8859352?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 18:26:23 GMT",
+      "description": "Prezydent Karol Nawrocki spotkał się we wtorek w Davos z prezesem Banku Światowego Ajayem Bangą oraz prezydentem Armenii Wahagnem Chaczaturianem. Rozmowy dotyczyły między innymi współpracy gospodarczej, bezpieczeństwa w regionie Kaukazu Południowego oraz zaangażowania Polski na arenie międzynarodowej.",
+      "originalTitle": "\"Mówił wprost o wielkim sukcesie\". Prezes Banku Światowego chwali Polskę",
+      "originalDescription": "Prezydent Karol Nawrocki spotkał się we wtorek w Davos z prezesem Banku Światowego Ajayem Bangą oraz prezydentem Armenii Wahagnem Chaczaturianem. Rozmowy dotyczyły między innymi współpracy gospodarczej, bezpieczeństwa w regionie Kaukazu Południowego oraz zaangażowania Polski na arenie międzynarodowej."
+    },
+    {
+      "title": "Prognoza pogody na 21.01: temperatura do -22 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-21-01-miejscami-temperatura-spadnie-do-19-stopni-st8859234?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 18:24:03 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli środy.\n• Data tego dnia to 21.01.\n• Noc będzie pogodna.\n• Noc będzie mroźna.\n• Miejscami pojawią się silne zamglenia.\n• Dzień przyniesie słoneczną aurę.",
+      "originalTitle": "Pogoda na jutro - 21.01. Miejscami temperatura spadnie do -22 stopni",
+      "originalDescription": "Pogoda na jutro, czyli na środę, 21.01. Noc będzie pogodna, ale mroźna. Miejscami pojawią się silne zamglenia. Dzień przyniesie słoneczną aurę."
+    },
+    {
+      "title": "Awaria pociągu na linii średnicowej",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-awaria-pociagu-utrudnienia-na-kolei-st8859388?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 18:16:58 GMT",
+      "description": "Z powodu awarii taboru Kolei Mazowieckich na przystanku Warszawa Ochota, na podmiejskiej linii średnicowej występują utrudnienia w ruchu wszystkich przewoźników - informuje Szybka Kolej Miejska w Warszawie. Opóźnienia sięgają 30 minut.",
+      "originalTitle": "Zepsuty pociąg zablokował ruch na linii średnicowej",
+      "originalDescription": "Z powodu awarii taboru Kolei Mazowieckich na przystanku Warszawa Ochota, na podmiejskiej linii średnicowej występują utrudnienia w ruchu wszystkich przewoźników - informuje Szybka Kolej Miejska w Warszawie. Opóźnienia sięgają 30 minut."
+    },
+    {
+      "title": "Rada Pokoju: płatne członkostwo i Trump",
+      "link": "https://tvn24.pl/swiat/rada-pokoju-czym-jest-czym-bedzie-sie-zajmowac-st8856898?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 09:25:00 GMT",
+      "description": "Przedstawiciele kolejnych krajów informują o zaproszeniach do dołączenia do Rady Pokoju, na czele której stoi prezydent USA Donald Trump. Dlaczego Rada powstała, jaka jest struktura i najważniejsze: czym ma się zajmować nowe gremium? Wyjaśniamy.",
+      "originalTitle": "Płatne członkostwo i Trump na czele. Co wiadomo o Radzie Pokoju",
+      "originalDescription": "Przedstawiciele kolejnych krajów informują o zaproszeniach do dołączenia do Rady Pokoju, na czele której stoi prezydent USA Donald Trump. Dlaczego Rada powstała, jaka jest struktura i najważniejsze: czym ma się zajmować nowe gremium? Wyjaśniamy."
+    },
+    {
+      "title": "Co mogło spowodować katastrofę? Hiszpania wyklucza jeden scenariusz",
+      "link": "https://tvn24.pl/swiat/zderzenie-pociagow-w-hiszpanii-rzad-wyklucza-sabotaz-jako-przyczyne-katastrofy-st8859318?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 18:07:55 GMT",
+      "description": "Fernando Grande-Marlaska, minister spraw wewnętrznych Hiszpanii, przekazał we wtorek, że wykluczono sabotaż jako możliwą przyczynę katastrofy kolejowej w Adamuz w Andaluzji. W niedzielę wieczorem doszło tam do zderzenia dwóch składów, w wyniku czego zginęło co najmniej 41 osób, a około 150 zostało rannych.",
+      "originalTitle": "Co mogło spowodować katastrofę? Hiszpania wyklucza jeden scenariusz",
+      "originalDescription": "Fernando Grande-Marlaska, minister spraw wewnętrznych Hiszpanii, przekazał we wtorek, że wykluczono sabotaż jako możliwą przyczynę katastrofy kolejowej w Adamuz w Andaluzji. W niedzielę wieczorem doszło tam do zderzenia dwóch składów, w wyniku czego zginęło co najmniej 41 osób, a około 150 zostało rannych."
+    },
+    {
+      "title": "\"Żyletkowiec\" został zabytkiem",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zyletkowiec-i-gmach-ekspozytury-warszawskiej-zostaly-wpisane-do-rejestru-zabytkow-st8858571?source=rss",
       "pubDate": "Tue, 20 Jan 2026 17:52:27 GMT",
-      "description": "• Żyletkowiec i gmach Ekspozytury Warszawskiej zostały wpisane do rejestru zabytków.\n• Obiekty te zostały wybudowane w latach 50. XX wieku.\n• Za projekt tych budynków odpowiadał Marek Leykam.\n• Marek Leykam jest twórcą najbardziej charakterystycznych budynków późnego modernizmu w Polsce.",
+      "description": "\"Żyletkowiec\" i gmach Ekspozytury Warszawskiej zostały wpisane do rejestru zabytków. Wybudowano je w latach 50. XX wieku. Za projekt odpowiadał Marek Leykam - twórca najbardziej charakterystycznych budynków późnego modernizmu w Polsce.",
       "originalTitle": "\"Żyletkowiec\" został zabytkiem",
       "originalDescription": "\"Żyletkowiec\" i gmach Ekspozytury Warszawskiej zostały wpisane do rejestru zabytków. Wybudowano je w latach 50. XX wieku. Za projekt odpowiadał Marek Leykam - twórca najbardziej charakterystycznych budynków późnego modernizmu w Polsce."
     },
     {
-      "title": "Sytuacja na rynku pracy się pogarsza",
+      "title": "Poważna awaria na trasie do Berlina. PKP powołuje sztab kryzysowy",
+      "link": "https://tvn24.pl/lubuskie/zbaszynek-awaria-trakcji-pociagi-nie-kursuja-na-linii-poznan-berlin-st8859367?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 17:50:37 GMT",
+      "description": "Od kilku godzin pociągi nie kursują na linii Poznań - Berlin. Na stacji w Zbąszynku doszło do awarii sieci trakcyjnej, jeden z pociągów ją zerwał. Na razie nie wiadomo, kiedy ruch zostanie przywrócony.",
+      "originalTitle": "Poważna awaria na trasie do Berlina. PKP powołuje sztab kryzysowy",
+      "originalDescription": "Od kilku godzin pociągi nie kursują na linii Poznań - Berlin. Na stacji w Zbąszynku doszło do awarii sieci trakcyjnej, jeden z pociągów ją zerwał. Na razie nie wiadomo, kiedy ruch zostanie przywrócony."
+    },
+    {
+      "title": "Uderza w rynek pracy jak \"tsunami\". Niepokój rośnie",
       "link": "https://tvn24.pl/biznes/tech/zmiany-na-rynku-pracy-widzimy-potencjal-wzrostu-st8859048?source=rss",
       "pubDate": "Tue, 20 Jan 2026 17:43:06 GMT",
-      "description": "• Sztuczna inteligencja coraz mocniej uderza w rynek pracy.\n• W 2025 roku nastąpiła fala zwolnień.\n• Światowi liderzy i menedżerowie ostrzegają, że w 2026 roku lęk związany z AI gwałtownie wzrośnie.\n• Międzynarodowy Fundusz Walutowy mówi o \"tsunami\" związanym z AI.\n• Większość państw i firm nie jest przygotowana na to \"tsunami\".",
+      "description": "Sztuczna inteligencja coraz mocniej uderza w rynek pracy. Po fali zwolnień w 2025 roku światowi liderzy i menedżerowie ostrzegają, że w 2026 roku lęk związany z AI gwałtownie wzrośnie. Międzynarodowy Fundusz Walutowy mówi wprost o \"tsunami\", na które większość państw i firm nie jest przygotowana.",
       "originalTitle": "Uderza w rynek pracy jak \"tsunami\". Niepokój rośnie",
       "originalDescription": "Sztuczna inteligencja coraz mocniej uderza w rynek pracy. Po fali zwolnień w 2025 roku światowi liderzy i menedżerowie ostrzegają, że w 2026 roku lęk związany z AI gwałtownie wzrośnie. Międzynarodowy Fundusz Walutowy mówi wprost o \"tsunami\", na które większość państw i firm nie jest przygotowana."
     },
     {
-      "title": "Odtworzono twarz ofiary zbrodni sprzed 25 lat",
+      "title": "Kryminalna zagadka sprzed 25 lat. Odtworzyli twarz zamordowanego",
       "link": "https://tvn24.pl/lodz/lubola-kryminalna-zagadka-z-1993-roku-odtworzyli-twarz-zamordowanego-st8859342?source=rss",
       "pubDate": "Tue, 20 Jan 2026 17:35:04 GMT",
       "description": "Łódzka policja wraca do sprawy zabójstwa, do którego doszło w lesie koło Luboli (woj. łódzkie). Eksperci z Instytutu Ekspertyz Sądowych w Krakowie na podstawie czaszki i szkieletu zmarłego zrekonstruowali jego wizerunek. Wszystkie osoby, które mogą pomóc w ustaleniu tożsamości denata proszone są o kontakt.",
       "originalTitle": "Kryminalna zagadka sprzed 25 lat. Odtworzyli twarz zamordowanego",
       "originalDescription": "Łódzka policja wraca do sprawy zabójstwa, do którego doszło w lesie koło Luboli (woj. łódzkie). Eksperci z Instytutu Ekspertyz Sądowych w Krakowie na podstawie czaszki i szkieletu zmarłego zrekonstruowali jego wizerunek. Wszystkie osoby, które mogą pomóc w ustaleniu tożsamości denata proszone są o kontakt."
-    },
-    {
-      "title": "Łukaszenka podpisał dokument w Radzie Pokoju",
-      "link": "https://tvn24.pl/swiat/bialorus-w-radzie-pokoju-alaksandr-lukaszenka-podpisal-dokument-st8859269?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 17:32:05 GMT",
-      "description": "Białoruś dołączy do powołanej przez amerykańskiego prezydenta Rady Pokoju. Alaksandr Łukaszenka podpisał dokument o przystąpieniu do tego gremium, o czym poinformowano na oficjalnym kanale przywódcy reżimu na Telegramie. Oprócz Mińska swój udział w Radzie zadeklarowało do tej pory siedem państw.",
-      "originalTitle": "Białoruś w Radzie Pokoju. Łukaszenka podpisał dokument",
-      "originalDescription": "Białoruś dołączy do powołanej przez amerykańskiego prezydenta Rady Pokoju. Alaksandr Łukaszenka podpisał dokument o przystąpieniu do tego gremium, o czym poinformowano na oficjalnym kanale przywódcy reżimu na Telegramie. Oprócz Mińska swój udział w Radzie zadeklarowało do tej pory siedem państw."
-    },
-    {
-      "title": "Turystyczny raj pod wodą. Największe opady od ponad 70 lat",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-tunezji-turystyczny-raj-pod-woda-najwieksze-opady-od-ponad-70-lat-st8859046?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 17:18:20 GMT",
-      "description": "Gwałtowne powodzie nawiedziły północne regiony Tunezji. Na skutek żywiołu zginęły co najmniej cztery osoby. Władze kilku miast podjęły decyzję, by odwołać lekcje w szkołach.",
-      "originalTitle": "Turystyczny raj pod wodą. Największe opady od ponad 70 lat",
-      "originalDescription": "Gwałtowne powodzie nawiedziły północne regiony Tunezji. Na skutek żywiołu zginęły co najmniej cztery osoby. Władze kilku miast podjęły decyzję, by odwołać lekcje w szkołach."
-    },
-    {
-      "title": "Złoty pod wpływem politycznych napięć. \"Niekorzystny splot czynników\"",
-      "link": "https://tvn24.pl/biznes/pieniadze/zloty-notowania-ile-kosztuje-euro-i-dolar-st8859294?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 17:12:52 GMT",
-      "description": "Polska waluta osłabiła się względem euro we wtorek, natomiast umocniła w stosunku do dolara. Zdaniem ekonomistów, w najbliższym czasie rynki będą reagowały na środową wypowiedź prezydenta USA Donalda Trumpa na szczycie w Davos oraz czwartkowe dane z polskiej gospodarki.",
-      "originalTitle": "Złoty pod wpływem politycznych napięć. \"Niekorzystny splot czynników\"",
-      "originalDescription": "Polska waluta osłabiła się względem euro we wtorek, natomiast umocniła w stosunku do dolara. Zdaniem ekonomistów, w najbliższym czasie rynki będą reagowały na środową wypowiedź prezydenta USA Donalda Trumpa na szczycie w Davos oraz czwartkowe dane z polskiej gospodarki."
-    },
-    {
-      "title": "Dania \"nie zamierza porzucić Grenlandii\". Zapowiada działania",
-      "link": "https://tvn24.pl/swiat/spor-o-grenlandie-mette-frederiksen-dania-zaproponuje-stala-obecnosc-wojskowa-w-arktyce-st8859271?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 16:31:30 GMT",
-      "description": "Premier Danii Mette Frederiksen zapowiedziała, że jej rząd zaproponuje stałą obecność wojskową w Arktyce. To odpowiedź na argumentację prezydenta USA Donalda Trumpa, który mówi, że chce przejąć Grenlandię ze względu na \"bezpieczeństwo narodowe\".",
-      "originalTitle": "Dania \"nie zamierza porzucić Grenlandii\". Zapowiada działania",
-      "originalDescription": "Premier Danii Mette Frederiksen zapowiedziała, że jej rząd zaproponuje stałą obecność wojskową w Arktyce. To odpowiedź na argumentację prezydenta USA Donalda Trumpa, który mówi, że chce przejąć Grenlandię ze względu na \"bezpieczeństwo narodowe\"."
-    },
-    {
-      "title": "Czapki w stylu MAGA hitem w Danii",
-      "link": "https://tvn24.pl/swiat/grenlandia-make-america-go-away-czerwone-czapki-staly-sie-symbolem-sprzeciwu-st8859218?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 16:29:12 GMT",
-      "description": "Jeden ze sklepów w Kopenhadze oferuje klientom czerwone czapki, podobne do tych noszonych przez Donalda Trumpa i jego zwolenników. Jedno z popularnych na nich haseł to \"Make America Go Away\".",
-      "originalTitle": "Czapki w stylu MAGA hitem w Danii",
-      "originalDescription": "Jeden ze sklepów w Kopenhadze oferuje klientom czerwone czapki, podobne do tych noszonych przez Donalda Trumpa i jego zwolenników. Jedno z popularnych na nich haseł to \"Make America Go Away\"."
-    },
-    {
-      "title": "Spacer po parku tylko z kartą wstępu. Radny chce zmiany",
-      "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-park-dostepny-tylko-z-karta-wstepu-radny-interweniuje-st8857952?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 16:26:30 GMT",
-      "description": "Płatny wstęp do parku przy Forcie VIII na Ursynowie budzi kontrowersje. Zarządcy prywatnego terenu tłumaczą biletowanie względami bezpieczeństwa, lokalni społecznicy mówią natomiast o \"najbardziej niedostępnym parku w stolicy\".",
-      "originalTitle": "Spacer po parku tylko z kartą wstępu. Radny chce zmiany",
-      "originalDescription": "Płatny wstęp do parku przy Forcie VIII na Ursynowie budzi kontrowersje. Zarządcy prywatnego terenu tłumaczą biletowanie względami bezpieczeństwa, lokalni społecznicy mówią natomiast o \"najbardziej niedostępnym parku w stolicy\"."
-    },
-    {
-      "title": "Dlaczego sądy nic nie robią w sprawie Ziobry i Romanowskiego? Poseł pyta, my odpowiadamy",
-      "link": "https://konkret24.tvn24.pl/polityka/dlaczego-sady-nic-nie-robia-w-sprawie-ziobry-i-romanowskiego-posel-pyta-my-odpowiadamy-st8858495?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 16:21:00 GMT",
-      "description": "Michał Wawer z Konfederacji przekonuje, że mimo nieobecności Zbigniewa Ziobry i Marcina Romanowskiego, którzy uciekli na Węgry, ich procesy mogą się rozpocząć. Z prawnikiem tłumaczymy, że sytuacja obu polityków nie jest taka sama.",
-      "originalTitle": "Dlaczego sądy nic nie robią w sprawie Ziobry i Romanowskiego? Poseł pyta, my odpowiadamy",
-      "originalDescription": "Michał Wawer z Konfederacji przekonuje, że mimo nieobecności Zbigniewa Ziobry i Marcina Romanowskiego, którzy uciekli na Węgry, ich procesy mogą się rozpocząć. Z prawnikiem tłumaczymy, że sytuacja obu polityków nie jest taka sama."
     }
   ]
 }
