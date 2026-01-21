@@ -1,21 +1,77 @@
 {
-  "lastUpdate": "2026-01-21T07:12:09.310Z",
+  "lastUpdate": "2026-01-21T07:42:03.403Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pierwszy rejs promu Jantar Unity",
+      "title": "Pociągi Poznań-Berlin kursują z opóźnieniami",
+      "link": "https://tvn24.pl/lubuskie/zbaszynek-koniec-awarii-trakcji-pociagi-juz-kursuja-na-linii-poznan-berlin-st8859367?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 17:50:37 GMT",
+      "description": "• Zakończyła się awaria na trasie kolejowej Poznań - Berlin.\n• Awaria miała miejsce we wtorek.\n• Awaria wystąpiła na stacji w Zbąszynku.\n• Przyczyną awarii było zerwanie sieci trakcyjnej przez jeden z pociągów.\n• Przez wiele godzin pociągi nie kursowały.\n• Opóźnienia wciąż są obecne.\n• Sytuacja powinna się powoli poprawiać.",
+      "originalTitle": "Pociągi na trasie Poznań-Berlin już jeżdżą, ale opóźnienia jeszcze są",
+      "originalDescription": "Zakończyła się awaria na trasie kolejowej Poznań - Berlin. We wtorek na stacji w Zbąszynku doszło do awarii sieci trakcyjnej, jeden z pociągów ją zerwał. Przez wiele godzin pociągi nie kursowały. Opóźnienia wciąż są, ale sytuacja powinna się powoli poprawiać."
+    },
+    {
+      "title": "Wilk w potrzebie pomocy w mrozie",
+      "link": "https://tvn24.pl/szczecin/czaplinek-wilk-konal-na-mrozie-nie-wiadomo-bylo-kto-ma-mu-pomoc-st8859749?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 07:26:34 GMT",
+      "description": "• Potrącony wilk z paraliżem tylnych kończyn leżał nocą przy drodze.\n• Miejsce zdarzenia to okolicach Czaplinka.\n• Czaplinek położony jest w województwie Zachodniopomorskim.\n• Temperatura w czasie zdarzenia sięgała -12 stopni Celsjusza.\n• Policja zabezpieczała miejsce zdarzenia.\n• Brak weterynarza uniemożliwił szybką reakcję służb.\n• Procedury w takich sytuacjach są niejasne, co również utrudniło szybką reakcję.",
+      "originalTitle": "Wilk konał na mrozie. Nie wiadomo było, kto ma mu pomóc",
+      "originalDescription": "Potrącony wilk z paraliżem tylnych kończyn przez wiele godzin leżał nocą przy drodze w okolicach Czaplinka (Zachodniopomorskie), przy mrozie sięgającym - 12 stopni Celsjusza. Policja zabezpieczała miejsce, jednak brak weterynarza i niejasne procedury uniemożliwiły szybką reakcję służb."
+    },
+    {
+      "title": "Minister Żurek odniósł się do sprawy małżonków z Giżycka",
+      "link": "https://tvn24.pl/swiat/minister-sprawiedliwosci-waldemar-zurek-skomentowal-sprawe-malzonkow-z-gizycka-st8859601?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 07:17:34 GMT",
+      "description": "• Ustawa praworządnościowa, gdyby weszła w życie, nie byłaby przyczyną sprawy byłych małżonków, których rozwód zakwestionował sąd.\n• Sąd, który zakwestionował rozwód byłych małżonków, znajduje się w Giżycku.\n• Wyrok w sprawie byłych małżonków wydał neosędzia.\n• Minister sprawiedliwości Waldemar Żurek ocenił, że ustawa praworządnościowa uniemożliwiłaby sprawę byłych małżonków.\n• Minister sprawiedliwości Waldemar Żurek będzie przekonywał prezydenta do podpisania ustawy praworządnościowej.\n• Waldemar Żurek będzie również przekonywał prezydenta do podpisania noweli ustawy o KRS.\n• Sejm zajmie się ustawą praworządnościową oraz nowelą ustawy o KRS w środę.",
+      "originalTitle": "Minister Żurek skomentował sprawę małżonków z Giżycka. \"Gdyby prezydent podpisał...\"",
+      "originalDescription": "Gdyby ustawa praworządnościowa weszła w życie, nie byłoby sprawy byłych małżonków, których rozwód zakwestionował sąd w Giżycku, bo wyrok wydał neosędzia - ocenił minister sprawiedliwości Waldemar Żurek. Jak dodał, będzie przekonywał prezydenta do podpisania tej ustawy oraz noweli ustawy o KRS, którymi w środę zajmie się Sejm."
+    },
+    {
+      "title": "Wyszedł w góry i zaginął. Apel GOPR",
+      "link": "https://tvn24.pl/krakow/krynica-zdroj-wyszedl-w-gory-i-zaginal-gopr-szuka-pawla-koscisza-st8859773?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 07:13:15 GMT",
+      "description": "Ratownicy z Grupy Krynickiej GOPR poinformowali o poszukiwaniach 55-letniego Pawła Kościsza, który wyszedł w Beskidy i nie wrócił. Nie ma z nim kontaktu od wtorkowego popołudnia.",
+      "originalTitle": "Wyszedł w góry i zaginął. Apel GOPR",
+      "originalDescription": "Ratownicy z Grupy Krynickiej GOPR poinformowali o poszukiwaniach 55-letniego Pawła Kościsza, który wyszedł w Beskidy i nie wrócił. Nie ma z nim kontaktu od wtorkowego popołudnia."
+    },
+    {
+      "title": "Mróz w Polsce. Jedni szczękali zębami, drugich ogrzał między innymi efekt fenowy",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-lodowaty-poranek-na-wschodzie-inwersja-efekt-fenowy-i-naplyw-ciepla-st8859707?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 07:12:20 GMT",
+      "description": "Środa to kolejny dzień, który przyniósł silny mróz o poranku. O godzinie szóstej termometry w części Polski pokazały wartości poniżej -20 stopni Celsjusza. Z kolei na obszarach górskich, za sprawą efektu fenowego oraz inwersji, temperatura była dużo wyższa.",
+      "originalTitle": "Mróz w Polsce. Jedni szczękali zębami, drugich ogrzał między innymi efekt fenowy",
+      "originalDescription": "Środa to kolejny dzień, który przyniósł silny mróz o poranku. O godzinie szóstej termometry w części Polski pokazały wartości poniżej -20 stopni Celsjusza. Z kolei na obszarach górskich, za sprawą efektu fenowego oraz inwersji, temperatura była dużo wyższa."
+    },
+    {
+      "title": "Zabójca byłego premiera Shinzo Abego skazany na dożywocie",
+      "link": "https://tvn24.pl/swiat/zabojca-bylego-premiera-shinzo-abego-skazany-na-dozywocie-st8859772?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 07:11:06 GMT",
+      "description": "Japoński sąd okręgowy w Narze skazał w środę na karę dożywotniego pozbawienia wolności mężczyznę oskarżonego o zastrzelenie byłego premiera Japonii Shinzo Abego - podała telewizja NHK. Do zamachu doszło 8 lipca 2022 roku podczas wiecu wyborczego. Zabójstwo polityka wstrząsnęło Japonią, gdzie przemoc z użyciem broni palnej jest rzadkością. Sprawa rzuciła też światło na wpływową sektę religijną.",
+      "originalTitle": "Zabójca byłego premiera Shinzo Abego skazany na dożywocie",
+      "originalDescription": "Japoński sąd okręgowy w Narze skazał w środę na karę dożywotniego pozbawienia wolności mężczyznę oskarżonego o zastrzelenie byłego premiera Japonii Shinzo Abego - podała telewizja NHK. Do zamachu doszło 8 lipca 2022 roku podczas wiecu wyborczego. Zabójstwo polityka wstrząsnęło Japonią, gdzie przemoc z użyciem broni palnej jest rzadkością. Sprawa rzuciła też światło na wpływową sektę religijną."
+    },
+    {
+      "title": "Pełczyńska-Nałęcz o spotkaniu z Tuskiem: prosiłam i go nie ma",
+      "link": "https://tvn24.pl/polska/katarzyna-pelczynska-nalecz-o-spotkaniu-z-donaldem-tuskiem-poprosilam-o-nie-trzy-miesiace-temu-i-go-nie-ma-st8859775?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 07:10:13 GMT",
+      "description": "W ważnej sprawie poprosiłam premiera Donalda Tuska o spotkanie i tego spotkania nie ma - powiedziała w \"Rozmowie Piaseckiego\" w TVN24 ministra funduszy i polityki regionalnej Katarzyna Pełczyńskiej-Nałęcz.",
+      "originalTitle": "Pełczyńska-Nałęcz o spotkaniu z Tuskiem: prosiłam i go nie ma",
+      "originalDescription": "W ważnej sprawie poprosiłam premiera Donalda Tuska o spotkanie i tego spotkania nie ma - powiedziała w \"Rozmowie Piaseckiego\" w TVN24 ministra funduszy i polityki regionalnej Katarzyna Pełczyńskiej-Nałęcz."
+    },
+    {
+      "title": "158 ciężarówek, 161 pasażerów. Pierwszy komercyjny rejs promu Jantar Unity",
       "link": "https://tvn24.pl/szczecin/pierwszy-komercyjny-rejs-promu-jantar-unity-wyplynal-ze-swinoujscia-do-trelleborga-st8859762?source=rss",
       "pubDate": "Wed, 21 Jan 2026 07:07:53 GMT",
-      "description": "• Prom Jantar Unity odbił od nabrzeża terminalu w Świnoujściu we wtorek wieczorem.\n• W swoim debiutanckim rejsie komercyjnym prom transportował 158 pojazdów ciężarowych.\n• Wśród transportowanych pojazdów ciężarowych było 12 naczep.\n• Kolację zaserwowano 147 kierowcom tirów.\n• Na pokładzie promu znajdowało się również 14 pasażerów, którzy wjechali na pokład autami osobowymi.\n• Prom płynął do Trelleborga.",
+      "description": "Prom Jantar Unity we wtorek wieczorem odbił od nabrzeża terminalu w Świnoujściu. W swoim debiutanckim rejsie komercyjnym do Trelleborga transportował 158 pojazdów ciężarowych, w tym 12 naczep. Kolację zaserwowano 147 kierowcom tirów i 14 pasażerom, który wjechali na pokład autami osobowymi.",
       "originalTitle": "158 ciężarówek, 161 pasażerów. Pierwszy komercyjny rejs promu Jantar Unity",
       "originalDescription": "Prom Jantar Unity we wtorek wieczorem odbił od nabrzeża terminalu w Świnoujściu. W swoim debiutanckim rejsie komercyjnym do Trelleborga transportował 158 pojazdów ciężarowych, w tym 12 naczep. Kolację zaserwowano 147 kierowcom tirów i 14 pasażerom, który wjechali na pokład autami osobowymi."
     },
     {
-      "title": "Skutki polityki handlowej USA wobec Chin",
+      "title": "\"Największym przegranym będą Chiny\". Poważne skutki ambicji Trumpa",
       "link": "https://tvn24.pl/biznes/ze-swiata/wenezuela-ropa-naftowa-powazne-skutki-ambicji-donalda-trumpa-st8853145?source=rss",
       "pubDate": "Wed, 21 Jan 2026 07:01:16 GMT",
-      "description": "• Świat zapomniał, że największe złoża ropy są w Wenezueli.\n• Wenezuelski sektor naftowy od lat jest w zapaści.\n• Prezydent USA Donald Trump nie zapomniał o ogromnym potencjale Wenezueli.\n• Prezydent USA Donald Trump zdecydował o ataku na Caracas.\n• Atak na Caracas miał miejsce pod pretekstem walki z narkoprzestępczością.\n• Celem ataku było schwytanie dotychczasowego przywódcy Nicolasa Maduro.\n• Zagraniczne miliardy mogą wrócić do południowoamerykańskiego kraju.\n• Pojawia się pytanie, czy warto, aby zagraniczne miliardy wróciły do Wenezueli.",
+      "description": "Świat zapomniał, że największe złoża ropy są w Wenezueli. Pewnie dlatego, że wenezuelski sektor naftowy od lat jest w zapaści. O ogromnym potencjale nie zapomniał prezydent USA Donald Trump, który pod pretekstem walki z narkoprzestępczością, zdecydował o ataku na Caracas i schwytaniu dotychczasowego przywódcy Nicolasa Maduro. Zagraniczne miliardy mogą wrócić do południowoamerykańskiego kraju, ale pojawia się pytanie - czy warto?",
       "originalTitle": "\"Największym przegranym będą Chiny\". Poważne skutki ambicji Trumpa",
       "originalDescription": "Świat zapomniał, że największe złoża ropy są w Wenezueli. Pewnie dlatego, że wenezuelski sektor naftowy od lat jest w zapaści. O ogromnym potencjale nie zapomniał prezydent USA Donald Trump, który pod pretekstem walki z narkoprzestępczością, zdecydował o ataku na Caracas i schwytaniu dotychczasowego przywódcy Nicolasa Maduro. Zagraniczne miliardy mogą wrócić do południowoamerykańskiego kraju, ale pojawia się pytanie - czy warto?"
     },
@@ -26,62 +82,6 @@
       "description": "Szef niemieckiego resortu obrony Boris Pistorius poinformował, że Bundeswehra osiągnęła liczebność 184,2 tysiąca żołnierzy w czynnej służbie. Pozostaje jeden istotny problem.",
       "originalTitle": "Bundeswehra najliczniejsza od lat",
       "originalDescription": "Szef niemieckiego resortu obrony Boris Pistorius poinformował, że Bundeswehra osiągnęła liczebność 184,2 tysiąca żołnierzy w czynnej służbie. Pozostaje jeden istotny problem."
-    },
-    {
-      "title": "Wykoleił się pociąg Polregio. Policja o przyczynach",
-      "link": "https://tvn24.pl/krakow/malopolska-miechow-wykoleil-sie-pociag-polregio-st8859567?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 21:56:50 GMT",
-      "description": "Około 20 osób podróżowało składem Polregio, który wykoleił się na trasie między Miechowem a Słomnikami w Małopolsce. Nikomu nic się nie stało. Policja informuje, że przyczyną zdarzenia były niskie temperatury.",
-      "originalTitle": "Wykoleił się pociąg Polregio. Policja o przyczynach",
-      "originalDescription": "Około 20 osób podróżowało składem Polregio, który wykoleił się na trasie między Miechowem a Słomnikami w Małopolsce. Nikomu nic się nie stało. Policja informuje, że przyczyną zdarzenia były niskie temperatury."
-    },
-    {
-      "title": "Aż 600 tysięcy ludzi opuściło Kijów w styczniu",
-      "link": "https://tvn24.pl/swiat/az-600-tysiecy-ludzi-opuscilo-kijow-w-styczniu-st8859589?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:34:25 GMT",
-      "description": "Prezydent Ukrainy Wołodymyr Zełenski poinformował, że ponad milion odbiorców w Kijowie pozostaje bez prądu po rosyjskich atakach z ostatnich tygodni. W związku z apelami mera stolicy Ukrainy Witalija Kliczko o tymczasową ewakuację z miasta, od 9 stycznia opuściło je 600 tysięcy ludzi.",
-      "originalTitle": "Aż 600 tysięcy ludzi opuściło Kijów w styczniu",
-      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski poinformował, że ponad milion odbiorców w Kijowie pozostaje bez prądu po rosyjskich atakach z ostatnich tygodni. W związku z apelami mera stolicy Ukrainy Witalija Kliczko o tymczasową ewakuację z miasta, od 9 stycznia opuściło je 600 tysięcy ludzi."
-    },
-    {
-      "title": "Najgorszy dzień od miesięcy. Czerwono na Wall Street",
-      "link": "https://tvn24.pl/biznes/rynki/duze-spadki-na-wall-street-najgorszy-dzien-od-pazdziernika-2025-roku-st8859715?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:27:37 GMT",
-      "description": "Wtorkowa sesja na Wall Street zakończyła się najmocniejszymi spadkami od października 2025 roku. Inwestorzy reagowali na agresywną politykę gospodarczą administracji Donalda Trumpa i jego groźby nowych ceł związanych ze sporem o Grenlandię. Część analityków uważa jednak, że wyprzedaż nie potrwa długo, bo prognozy zysków spółek pozostają solidne.",
-      "originalTitle": "Najgorszy dzień od miesięcy. Czerwono na Wall Street",
-      "originalDescription": "Wtorkowa sesja na Wall Street zakończyła się najmocniejszymi spadkami od października 2025 roku. Inwestorzy reagowali na agresywną politykę gospodarczą administracji Donalda Trumpa i jego groźby nowych ceł związanych ze sporem o Grenlandię. Część analityków uważa jednak, że wyprzedaż nie potrwa długo, bo prognozy zysków spółek pozostają solidne."
-    },
-    {
-      "title": "Premier Grenlandii o \"konsekwencjach dla reszty świata\"",
-      "link": "https://tvn24.pl/swiat/premier-grenlandii-o-konsekwencjach-dla-reszty-swiata-st8859599?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:24:21 GMT",
-      "description": "Operacja wojskowa USA przeciwko Grenlandii nie jest wykluczona - stwierdził premier Grenlandii Jens-Frederik Nielsen. Wyraził przekonanie, że stawką w grze o przyszłość Arktyki jest utrzymanie zasad demokracji w świecie.",
-      "originalTitle": "Premier Grenlandii o \"konsekwencjach dla reszty świata\"",
-      "originalDescription": "Operacja wojskowa USA przeciwko Grenlandii nie jest wykluczona - stwierdził premier Grenlandii Jens-Frederik Nielsen. Wyraził przekonanie, że stawką w grze o przyszłość Arktyki jest utrzymanie zasad demokracji w świecie."
-    },
-    {
-      "title": "Sznur szambiarek przed punktem zrzutu. Problem nieczystości \"rozlał się\" na sąsiednie gminy",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/mazowsze-sznur-szambiarek-przed-punktem-zrzutu-problem-nieczystosci-rozlal-sie-na-sasiednie-gminy-st8857968?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:19:36 GMT",
-      "description": "Od wielu dni mieszkańcy Białołęki mierzą się z problemem wydłużonych terminów odbioru nieczystości ze swoich posesji. Najbliższa zlewnia ścieków została zamknięta na czas remontu. Szambiarki tkwią w kolejkach przed sąsiednimi punktami, a to odbija się na mieszkańcach podwarszawskich miejscowości.",
-      "originalTitle": "Sznur szambiarek przed punktem zrzutu. Problem nieczystości \"rozlał się\" na sąsiednie gminy",
-      "originalDescription": "Od wielu dni mieszkańcy Białołęki mierzą się z problemem wydłużonych terminów odbioru nieczystości ze swoich posesji. Najbliższa zlewnia ścieków została zamknięta na czas remontu. Szambiarki tkwią w kolejkach przed sąsiednimi punktami, a to odbija się na mieszkańcach podwarszawskich miejscowości."
-    },
-    {
-      "title": "Awaria na torach, opóźnione pociągi regionalne",
-      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-awaria-na-torach-opoznione-pociagi-regionalne-st8859722?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:17:32 GMT",
-      "description": "W związku z awarią urządzeń sterowania ruchem kolejowym pomiędzy Rembertowem a Sulejówkiem Miłosną występują opóźnienia w kursowaniu pociągów Szybkiej Kolei Miejskiej i Kolei Mazowieckich.",
-      "originalTitle": "Awaria na torach, opóźnione pociągi regionalne",
-      "originalDescription": "W związku z awarią urządzeń sterowania ruchem kolejowym pomiędzy Rembertowem a Sulejówkiem Miłosną występują opóźnienia w kursowaniu pociągów Szybkiej Kolei Miejskiej i Kolei Mazowieckich."
-    },
-    {
-      "title": "Trump zapowiada \"rozwiązanie\" w ciągu \"najbliższych kilku dni\"",
-      "link": "https://tvn24.pl/swiat/donald-trump-o-grenlandii-zapowiada-rozwiazanie-w-ciagu-najblizszych-kilku-dni-st8859618?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:00:29 GMT",
-      "description": "W najbliższych dniach prawdopodobnie uda się wypracować rozwiązanie z Europą w sprawie Grenlandii - stwierdził Donald Trump. Prezydent USA w środę ma przybyć na Światowe Forum Ekonomiczne w Davos.",
-      "originalTitle": "Trump zapowiada \"rozwiązanie\" w ciągu \"najbliższych kilku dni\"",
-      "originalDescription": "W najbliższych dniach prawdopodobnie uda się wypracować rozwiązanie z Europą w sprawie Grenlandii - stwierdził Donald Trump. Prezydent USA w środę ma przybyć na Światowe Forum Ekonomiczne w Davos."
     }
   ]
 }
