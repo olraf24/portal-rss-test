@@ -1,26 +1,58 @@
 {
-  "lastUpdate": "2026-01-21T14:12:34.895Z",
+  "lastUpdate": "2026-01-21T14:44:45.125Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Turysta zaginął w górach",
+      "title": "Prognoza IMGW: mróz w kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-silny-wiatr-21-01-alarmy-pogodowe-sa-pomaranczowe-ostrzezenia-imgw-ostrzega-st8852268?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 05:34:00 GMT",
+      "description": "• IMGW ostrzega przed silnym mrozem.\n• W nocy w części kraju prognozowane są niskie temperatury.\n• Dodatkowe zagrożenie może stanowić wiatr.\n• Należy ubrać się szczególnie ciepło w części kraju, gdzie występują niskie temperatury.",
+      "originalTitle": "Ostrzeżenia IMGW. Tu mróz mocno trzyma",
+      "originalDescription": "IMGW ostrzega przed silnym mrozem. W nocy w części kraju prognozowane są niskie temperatury, a dodatkowe zagrożenie może stanowić wiatr. Sprawdź, gdzie należy ubrać się szczególnie ciepło."
+    },
+    {
+      "title": "Lekarz o zimowych mitach",
+      "link": "https://tvn24.pl/zdrowie/niskie-temperatury-wymrazaja-wirusy-to-powszechny-mit-glowny-inspektor-sanitarny-jest-dokladnie-odwrotnie-st8860976?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 14:32:08 GMT",
+      "description": "• Mróz wraca każdej zimy nie tylko w prognozach pogody, ale i w rozmowach.\n• Ludzie często mówią \"W końcu wymrozi te wszystkie wirusy\".\n• To zdanie jest jednym z najbardziej uporczywych zdrowotnych złudzeń.\n• Dr Paweł Grzesiowski, Główny Inspektor Sanitarny, komentuje tę kwestię.\n• Dr Paweł Grzesiowski mówi, że wirusy w laboratoriach przechowuje się w minus 80 stopniach.\n• Niska temperatura często pomaga wirusom przetrwać, zamiast je niszczyć.\n• Niska temperatura ma odwrotne działanie na organizm ludzki.",
+      "originalTitle": "To największy powtarzany mit każdej zimy. Lekarz: Jest dokładnie odwrotnie",
+      "originalDescription": "Mróz wraca każdej zimy nie tylko w prognozach pogody, ale i w rozmowach. \"W końcu wymrozi te wszystkie wirusy\" - słyszymy nieraz. Tyle że to jedno z najbardziej uporczywych zdrowotnych złudzeń. - My wirusy w laboratoriach przechowujemy w minus 80 stopniach - mówi dr Paweł Grzesiowski, Główny Inspektor Sanitarny. Zamiast je niszczyć, niska temperatura często pomaga im przetrwać. A naszemu organizmowi - wręcz przeciwnie."
+    },
+    {
+      "title": "Trump o wenezuelskiej ropie",
+      "link": "https://tvn24.pl/swiat/donald-trump-o-wenezueli-w-davos-zarobia-w-pol-roku-wiecej-niz-przez-ostatnie-20-lat-st8860904?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 14:26:01 GMT",
+      "description": "• Wenezuela zarobi teraz więcej pieniędzy w ciągu kolejnych sześciu miesięcy niż przez ostatnie dwadzieścia lat.\n• Prezydent USA Donald Trump wypowiedział się na ten temat podczas przemówienia na Światowym Forum Ekonomicznym w Davos.\n�� Donald Trump chwalił współpracę Waszyngtonu z Caracas.\n• Współpraca ta miała miejsce po amerykańskim ataku.\n• W tym ataku pojmano wenezuelskiego przywódcę Nicolasa Maduro.",
+      "originalTitle": "\"Pomagamy im\". Trump o \"przejęciu\" wenezuelskiej ropy",
+      "originalDescription": "Wenezuela zarobi teraz więcej pieniędzy w ciągu kolejnych sześciu miesięcy niż przez ostatnie dwadzieścia lat - powiedział prezydent USA Donald Trump podczas przemówienia na Światowym Forum Ekonomicznym w Davos. Chwalił też współpracę Waszyngtonu z Caracas po amerykańskim ataku, w którym pojmano wenezuelskiego przywódcę Nicolasa Maduro."
+    },
+    {
+      "title": "Chciał lecieć do Dublina, odwieźli go na polsko-ukraińską granicę",
+      "link": "https://tvn24.pl/katowice/katowice-pyrzowice-zamiast-leciec-do-dublina-trafil-na-polsko-ukrainska-granice-st8860373?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 14:25:29 GMT",
+      "description": "On chciał lecieć do Dublina, zamiast tego w konwoju został odwieziony na granicę polsko-ukraińską. Z kolei ona przyleciała do Polski z Egiptu, ale nie dostała zgody na przekroczenie granicy. Poleciała ostatecznie do Gruzji.",
+      "originalTitle": "Chciał lecieć do Dublina, odwieźli go na polsko-ukraińską granicę",
+      "originalDescription": "On chciał lecieć do Dublina, zamiast tego w konwoju został odwieziony na granicę polsko-ukraińską. Z kolei ona przyleciała do Polski z Egiptu, ale nie dostała zgody na przekroczenie granicy. Poleciała ostatecznie do Gruzji."
+    },
+    {
+      "title": "Zburzył zabytkową willę, stanie za to przed sądem",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-akt-oskarzenia-po-zniszczeniu-zabytkowej-willi-janusz-j-odpowie-przed-sadem-st8860990?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 14:09:57 GMT",
+      "description": "Do wrocławskiego sądu trafił akt oskarżenia przeciwko Januszowi J., któremu prokuratura zarzuca bezprawne zburzenie zabytkowej willi na wrocławskich Karłowicach. Za zniszczenie obiektu chronionego grozi mu do 10 lat więzienia.",
+      "originalTitle": "Zburzył zabytkową willę, stanie za to przed sądem",
+      "originalDescription": "Do wrocławskiego sądu trafił akt oskarżenia przeciwko Januszowi J., któremu prokuratura zarzuca bezprawne zburzenie zabytkowej willi na wrocławskich Karłowicach. Za zniszczenie obiektu chronionego grozi mu do 10 lat więzienia."
+    },
+    {
+      "title": "Wyszedł w góry i zaginął. \"Spełnił się najczarniejszy scenariusz\"",
       "link": "https://tvn24.pl/krakow/krynica-zdroj-wyszedl-w-gory-i-zaginal-zakonczone-poszukiwania-st8859773?source=rss",
       "pubDate": "Wed, 21 Jan 2026 07:13:15 GMT",
-      "description": "• Ratownicy z Grupy Krynickiej GOPR poinformowali o zakończeniu poszukiwań 55-latka.\n• 55-latek wyszedł w Beskidy i nie wrócił.\n• Jego ciało znaleziono na terenie zurbanizowanym.\n• Ciało 55-latka znaleziono w rejonie Nowego Sącza.",
+      "description": "Ratownicy z Grupy Krynickiej GOPR poinformowali o zakończeniu poszukiwań 55-latka, który wyszedł w Beskidy i nie wrócił. Jego ciało znaleziono \"na terenie zurbanizowanym w rejonie Nowego Sącza\".",
       "originalTitle": "Wyszedł w góry i zaginął. \"Spełnił się najczarniejszy scenariusz\"",
       "originalDescription": "Ratownicy z Grupy Krynickiej GOPR poinformowali o zakończeniu poszukiwań 55-latka, który wyszedł w Beskidy i nie wrócił. Jego ciało znaleziono \"na terenie zurbanizowanym w rejonie Nowego Sącza\"."
     },
     {
-      "title": "Trump omawia gospodarkę w Davos",
-      "link": "https://tvn24.pl/biznes/ze-swiata/trump-chwali-amerykanska-gospodarke-w-davos-st8860942?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 14:03:35 GMT",
-      "description": "• Wczoraj świętowaliśmy pierwszą rocznicę mojej inauguracji.\n• Dzisiaj ponownie po dwunastu miesiącach w Białym Domu nasz gospodarka kwitnie.\n• Wzrost eksploduje.\n• Wydajność produkcji się zwiększa.\n• Inwestycje rosną.\n• Dochody wzrastają.\n• Inflacja została pokonana.\n• Wcześniej otwarte niebezpieczne granice zostały zamknięte.\n• Prezydent Donald Trump wypowiedział się w czwartek.\n• Wypowiedź prezydenta miała miejsce na Światowym Forum Ekonomicznym (WEF).\n• Światowe Forum Ekonomiczne (WEF) odbywało się w Davos.",
-      "originalTitle": "Trump chwali amerykańską gospodarkę w Davos",
-      "originalDescription": "- Wczoraj świętowaliśmy pierwszą rocznicę mojej inauguracji, a dzisiaj ponownie po dwunastu miesiącach w Białym Domu nasz gospodarka kwitnie, wzrost eksploduje, wydajność produkcji się zwiększa, inwestycje rosną, wzrastają dochody, inflacja została pokonana, a wcześniej otwarte niebezpieczne granice zostały zamknięte - powiedział w czwartek na Światowym Forum Ekonomicznym (WEF) w Davos prezydent Donald Trump."
-    },
-    {
-      "title": "Opiekun zwierzęcia ma określone prawa i obowiązki",
+      "title": "Jeśli opiekun zwierzęcia nie wywiązuje się z tego, to łamie prawo",
       "link": "https://tvn24.pl/tvnmeteo/polska/zwierzeta-jak-zadbac-o-zwierzeta-w-czasie-mrozu-ekspertka-radzi-st8860647?source=rss",
       "pubDate": "Wed, 21 Jan 2026 13:54:02 GMT",
       "description": "Ujemne temperatury mogą być bardzo groźne nie tylko dla ludzi. Eksperci apelują o uważność i przypominają, że zabezpieczenie zwierząt domowych przed działaniem niekorzystnych warunków pogodowych jest obowiązkiem prawnym opiekuna.",
@@ -39,9 +71,9 @@
       "title": "Rzucał kostką brukową, uszkodził siedem witryn",
       "link": "https://tvn24.pl/lodz/radomsko-rzucal-kostka-brukowa-w-witryny-zostal-zatrzymany-st8860937?source=rss",
       "pubDate": "Wed, 21 Jan 2026 13:46:37 GMT",
-      "description": "Policjanci z Radomska (Łódzkie) zatrzymali 38-latka, który zniszczył od początku roku, siedem witryn sklepowych rzucając w nie kostką brukową. Straty oszacowano na blisko 40 tysięcy złotych. Mężczyzna odpowie za uszkodzenie mienia.",
+      "description": "Policjanci z Radomska (Łódzkie) zatrzymali 38-latka, który zniszczył od początku roku siedem witryn sklepowych, rzucając w nie kostką brukową. Straty oszacowano na blisko 40 tysięcy złotych. Mężczyzna odpowie za uszkodzenie mienia.",
       "originalTitle": "Rzucał kostką brukową, uszkodził siedem witryn",
-      "originalDescription": "Policjanci z Radomska (Łódzkie) zatrzymali 38-latka, który zniszczył od początku roku, siedem witryn sklepowych rzucając w nie kostką brukową. Straty oszacowano na blisko 40 tysięcy złotych. Mężczyzna odpowie za uszkodzenie mienia."
+      "originalDescription": "Policjanci z Radomska (Łódzkie) zatrzymali 38-latka, który zniszczył od początku roku siedem witryn sklepowych, rzucając w nie kostką brukową. Straty oszacowano na blisko 40 tysięcy złotych. Mężczyzna odpowie za uszkodzenie mienia."
     },
     {
       "title": "Ktoś podpalił jej włosy na Dworcu Centralnym. \"Poczułam okropny smród spalenizny\"",
@@ -50,38 +82,6 @@
       "description": "W sobotę nieznana napastniczka podpaliła kobiecie włosy na Dworcu Centralnym. \"Cieszę się, że nie mam oparzonej twarzy i że kurtka, którą miałam na sobie również nie zajęła się ogniem\" - mówi ofiara na nagraniu opisującym zdarzenie. Claudia straciła pięć centymetrów włosów. Policja zapewnia, że zajmuje się sprawą i jest ona dla nich priorytetowa.",
       "originalTitle": "Ktoś podpalił jej włosy na Dworcu Centralnym. \"Poczułam okropny smród spalenizny\"",
       "originalDescription": "W sobotę nieznana napastniczka podpaliła kobiecie włosy na Dworcu Centralnym. \"Cieszę się, że nie mam oparzonej twarzy i że kurtka, którą miałam na sobie również nie zajęła się ogniem\" - mówi ofiara na nagraniu opisującym zdarzenie. Claudia straciła pięć centymetrów włosów. Policja zapewnia, że zajmuje się sprawą i jest ona dla nich priorytetowa."
-    },
-    {
-      "title": "Wolta Filipin w sprawie narzędzia Muska",
-      "link": "https://tvn24.pl/biznes/tech/filipiny-wolta-wladz-w-sprawie-narzedzia-elona-muska-chatbota-grok-st8860504?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 13:38:26 GMT",
-      "description": "Władze Filipin zapowiedziały przywrócenie dostępu do chatbota Grok po deklaracjach jego twórcy dotyczących zmian w zakresie bezpieczeństwa. Decyzja zapadła po tym, jak aplikacja została czasowo zablokowana w związku z obawami o generowanie treści seksualnych, w tym potencjalnie zagrażających bezpieczeństwu dzieci.",
-      "originalTitle": "Wolta Filipin w sprawie narzędzia Muska",
-      "originalDescription": "Władze Filipin zapowiedziały przywrócenie dostępu do chatbota Grok po deklaracjach jego twórcy dotyczących zmian w zakresie bezpieczeństwa. Decyzja zapadła po tym, jak aplikacja została czasowo zablokowana w związku z obawami o generowanie treści seksualnych, w tym potencjalnie zagrażających bezpieczeństwu dzieci."
-    },
-    {
-      "title": "Awaria na torach, uszkodzona trakcja. Nawet ponad godzinę opóźnień w stolicy",
-      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-awaria-na-torach-opoznione-pociagi-regionalne-st8859722?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 06:17:32 GMT",
-      "description": "W związku z uszkodzeniem sieci trakcyjnej w rejonie stacji Warszawa Zachodnia są utrudnienia w kursowaniu pociągów SKM linii S2, S3, S4 i S40 oraz pociągów Kolei Mazowieckich. Na miejscu zdarzenia pracuje komisja, szacowany czas naprawy to około 2,5 godziny. Zakończyły się utrudnienia na odcinku Warszawa Wschodnia - Sulejówek Miłosna.",
-      "originalTitle": "Awaria na torach, uszkodzona trakcja. Nawet ponad godzinę opóźnień w stolicy",
-      "originalDescription": "W związku z uszkodzeniem sieci trakcyjnej w rejonie stacji Warszawa Zachodnia są utrudnienia w kursowaniu pociągów SKM linii S2, S3, S4 i S40 oraz pociągów Kolei Mazowieckich. Na miejscu zdarzenia pracuje komisja, szacowany czas naprawy to około 2,5 godziny. Zakończyły się utrudnienia na odcinku Warszawa Wschodnia - Sulejówek Miłosna."
-    },
-    {
-      "title": "\"Poważny incydent\" na lotnisku. Zderzyły się samoloty i samochód",
-      "link": "https://tvn24.pl/katowice/rybnik-zderzenie-samolotow-na-lotnisku-aeroklubu-st8860874?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 13:29:03 GMT",
-      "description": "Na płycie lotniska rybnickiego aeroklubu zderzyły się dwa samoloty i samochód osobowy. Nikomu nic się nie stało. Jak powiedział nam dyrektor stowarzyszenia, kolizja miała miejsce przed hangarem, niedługo po tym, jak pilot ruszył z miejsca.",
-      "originalTitle": "\"Poważny incydent\" na lotnisku. Zderzyły się samoloty i samochód",
-      "originalDescription": "Na płycie lotniska rybnickiego aeroklubu zderzyły się dwa samoloty i samochód osobowy. Nikomu nic się nie stało. Jak powiedział nam dyrektor stowarzyszenia, kolizja miała miejsce przed hangarem, niedługo po tym, jak pilot ruszył z miejsca."
-    },
-    {
-      "title": "\"To żałosne\". Gubernator Kalifornii ostro o europejskich przywódcach",
-      "link": "https://tvn24.pl/swiat/davos-gubernator-kalifornii-gavin-newsom-ostro-o-europejskich-przywodcach-i-ich-podejsciu-do-trumpa-st8860533?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 13:26:08 GMT",
-      "description": "Gubernator Kalifornii Gavin Newsom podczas szczytu w Davos skrytykował europejskich przywódców, mówiąc o ich rzekomej \"współodpowiedzialności\" za działania prezydenta USA Donalda Trumpa.",
-      "originalTitle": "\"To żałosne\". Gubernator Kalifornii ostro o europejskich przywódcach",
-      "originalDescription": "Gubernator Kalifornii Gavin Newsom podczas szczytu w Davos skrytykował europejskich przywódców, mówiąc o ich rzekomej \"współodpowiedzialności\" za działania prezydenta USA Donalda Trumpa."
     }
   ]
 }
