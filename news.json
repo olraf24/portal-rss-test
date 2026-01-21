@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-01-21T06:10:55.177Z",
+  "lastUpdate": "2026-01-21T06:46:44.397Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Trump ogłasza plan na najbliższe dni",
+      "title": "600 tysięcy ludzi opuściło Kijów w styczniu",
+      "link": "https://tvn24.pl/swiat/az-600-tysiecy-ludzi-opuscilo-kijow-w-styczniu-st8859589?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 06:34:25 GMT",
+      "description": "Prezydent Ukrainy Wołodymyr Zełenski poinformował, że ponad milion odbiorców w Kijowie pozostaje bez prądu po rosyjskich atakach z ostatnich tygodni. W związku z apelami mera stolicy Ukrainy Witalija Kliczko o tymczasową ewakuację z miasta, od 9 stycznia opuściło je 600 tysięcy ludzi.",
+      "originalTitle": "Aż 600 tysięcy ludzi opuściło Kijów w styczniu",
+      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski poinformował, że ponad milion odbiorców w Kijowie pozostaje bez prądu po rosyjskich atakach z ostatnich tygodni. W związku z apelami mera stolicy Ukrainy Witalija Kliczko o tymczasową ewakuację z miasta, od 9 stycznia opuściło je 600 tysięcy ludzi."
+    },
+    {
+      "title": "Spadek na Wall Street",
+      "link": "https://tvn24.pl/biznes/rynki/duze-spadki-na-wall-street-najgorszy-dzien-od-pazdziernika-2025-roku-st8859715?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 06:27:37 GMT",
+      "description": "• Wtorkowa sesja na Wall Street zakończyła się najmocniejszymi spadkami od października 2025 roku.\n• Inwestorzy reagowali na agresywną politykę gospodarczą administracji Donalda Trumpa.\n• Inwestorzy reagowali na groźby nowych ceł związanych ze sporem o Grenlandię.\n• Część analityków uważa, że wyprzedaż nie potrwa długo.\n• Prognozy zysków spółek pozostają solidne.",
+      "originalTitle": "Najgorszy dzień od miesięcy. Czerwono na Wall Street",
+      "originalDescription": "Wtorkowa sesja na Wall Street zakończyła się najmocniejszymi spadkami od października 2025 roku. Inwestorzy reagowali na agresywną politykę gospodarczą administracji Donalda Trumpa i jego groźby nowych ceł związanych ze sporem o Grenlandię. Część analityków uważa jednak, że wyprzedaż nie potrwa długo, bo prognozy zysków spółek pozostają solidne."
+    },
+    {
+      "title": "Wypowiedź premiera Grenlandii na temat zmian klimatycznych",
+      "link": "https://tvn24.pl/swiat/premier-grenlandii-o-konsekwencjach-dla-reszty-swiata-st8859599?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 06:24:21 GMT",
+      "description": "• Operacja wojskowa USA przeciwko Grenlandii nie jest wykluczona.\n• Premier Grenlandii Jens-Frederik Nielsen wyraził to stwierdzenie.\n• Jens-Frederik Nielsen wyraził przekonanie, że stawką w grze o przyszłość Arktyki jest utrzymanie zasad demokracji w świecie.",
+      "originalTitle": "Premier Grenlandii o \"konsekwencjach dla reszty świata\"",
+      "originalDescription": "Operacja wojskowa USA przeciwko Grenlandii nie jest wykluczona - stwierdził premier Grenlandii Jens-Frederik Nielsen. Wyraził przekonanie, że stawką w grze o przyszłość Arktyki jest utrzymanie zasad demokracji w świecie."
+    },
+    {
+      "title": "Zgromadzenie szambiarek przed punktem zrzutu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/mazowsze-sznur-szambiarek-przed-punktem-zrzutu-problem-nieczystosci-rozlal-sie-na-sasiednie-gminy-st8857968?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 06:19:36 GMT",
+      "description": "Od wielu dni mieszkańcy Białołęki mierzą się z problemem wydłużonych terminów odbioru nieczystości ze swoich posesji. Najbliższa zlewnia ścieków została zamknięta na czas remontu. Szambiarki tkwią w kolejkach przed sąsiednimi punktami, a to odbija się mieszkańcach podwarszawskich miejscowości.",
+      "originalTitle": "Sznur szambiarek przed punktem zrzutu. Problem nieczystości \"rozlał się\" na sąsiednie gminy",
+      "originalDescription": "Od wielu dni mieszkańcy Białołęki mierzą się z problemem wydłużonych terminów odbioru nieczystości ze swoich posesji. Najbliższa zlewnia ścieków została zamknięta na czas remontu. Szambiarki tkwią w kolejkach przed sąsiednimi punktami, a to odbija się mieszkańcach podwarszawskich miejscowości."
+    },
+    {
+      "title": "Awaria torów powoduje opóźnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-awaria-na-torach-opoznione-pociagi-regionalne-st8859722?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 06:17:32 GMT",
+      "description": "W związku z awarią urządzeń sterowania ruchem kolejowym pomiędzy Rembertowem a Sulejówkiem Miłosną występują opóźnienia w kursowaniu pociągów Szybkiej Kolei Miejskiej i Kolei Mazowieckich.",
+      "originalTitle": "Awaria na torach, opóźnione pociągi regionalne",
+      "originalDescription": "W związku z awarią urządzeń sterowania ruchem kolejowym pomiędzy Rembertowem a Sulejówkiem Miłosną występują opóźnienia w kursowaniu pociągów Szybkiej Kolei Miejskiej i Kolei Mazowieckich."
+    },
+    {
+      "title": "Trump zapowiada \"rozwiązanie\" w ciągu \"najbliższych kilku dni\"",
       "link": "https://tvn24.pl/swiat/donald-trump-o-grenlandii-zapowiada-rozwiazanie-w-ciagu-najblizszych-kilku-dni-st8859618?source=rss",
       "pubDate": "Wed, 21 Jan 2026 06:00:29 GMT",
-      "description": "• W najbliższych dniach prawdopodobnie uda się wypracować rozwiązanie z Europą w sprawie Grenlandii.\n• Stwierdzenie to zostało wygłoszone przez Donalda Trumpa.\n• Donald Trump jest prezydentem USA.\n• Prezydent USA ma przybyć na Światowe Forum Ekonomiczne.\n• Światowe Forum Ekonomiczne odbędzie się w Davos.\n• Wizyta prezydenta USA na Światowym Forum Ekonomicznym ma nastąpić w środę.",
+      "description": "W najbliższych dniach prawdopodobnie uda się wypracować rozwiązanie z Europą w sprawie Grenlandii - stwierdził Donald Trump. Prezydent USA w środę ma przybyć na Światowe Forum Ekonomiczne w Davos.",
       "originalTitle": "Trump zapowiada \"rozwiązanie\" w ciągu \"najbliższych kilku dni\"",
       "originalDescription": "W najbliższych dniach prawdopodobnie uda się wypracować rozwiązanie z Europą w sprawie Grenlandii - stwierdził Donald Trump. Prezydent USA w środę ma przybyć na Światowe Forum Ekonomiczne w Davos."
     },
     {
-      "title": "Nagroda w Lotto wynosi trzy miliony",
+      "title": "Trzy miliony do wygrania w Lotto",
       "link": "https://tvn24.pl/biznes/z-kraju/lotto-i-lotto-plus-wyniki-z-20-stycznia-2026-jakie-liczby-padly-w-trakcie-losowania-st8859674?source=rss",
       "pubDate": "Wed, 21 Jan 2026 05:50:17 GMT",
-      "description": "• We wtorkowym losowaniu Lotto żadnemu z graczy nie udało się wytypować poprawnie wszystkich sześciu liczb.\n• Oznacza to, że kumulacja rośnie do trzech milionów złotych.\n• Wyniki dotyczą losowania Lotto i Lotto Plus.\n��� Losowanie odbyło się 20 stycznia 2026 roku.",
+      "description": "We wtorkowym losowaniu Lotto żadnemu z graczy nie udało się wytypować poprawnie wszystkich sześciu liczb. Oznacza to, że kumulacja rośnie do trzech milionów złotych. Oto wyniki Lotto i Lotto Plus z 20 stycznia 2026 roku.",
       "originalTitle": "Trzy miliony do wygrania w Lotto",
       "originalDescription": "We wtorkowym losowaniu Lotto żadnemu z graczy nie udało się wytypować poprawnie wszystkich sześciu liczb. Oznacza to, że kumulacja rośnie do trzech milionów złotych. Oto wyniki Lotto i Lotto Plus z 20 stycznia 2026 roku."
     },
     {
-      "title": "Prognoza mrozu",
+      "title": "Silny mróz. Gdzie trzeba uważać",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-silny-wiatr-21-01-alarmy-pogodowe-sa-pomaranczowe-ostrzezenia-imgw-ostrzega-st8852268?source=rss",
       "pubDate": "Wed, 21 Jan 2026 05:34:00 GMT",
-      "description": "• IMGW wydał ostrzeżenia meteorologiczne.\n• W części kraju obowiązują żółte alarmy.\n• Alarmy dotyczą silnego mrozu.\n• Alarmy dotyczą silnego wiatru.",
+      "description": "IMGW wydał ostrzeżenia meteorologiczne. W części kraju obowiązują żółte alarmy przed silnym mrozem oraz silnym wiatrem. Sprawdź szczegóły.",
       "originalTitle": "Silny mróz. Gdzie trzeba uważać",
       "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. W części kraju obowiązują żółte alarmy przed silnym mrozem oraz silnym wiatrem. Sprawdź szczegóły."
     },
@@ -39,49 +79,9 @@
       "title": "Od uzdrawiania salcesonem do zarzutów o pranie pieniędzy. Kim jest ksiądz Michał Olszewski?",
       "link": "https://tvn24.pl/polska/poczatek-procesu-szefa-fundacji-profeto-kim-jest-ksiadz-michal-olszewski-st8858162?source=rss",
       "pubDate": "Wed, 21 Jan 2026 05:02:34 GMT",
-      "description": "Uzdrowiciel, egzorcysta, sprytny biznesmen, celebryta, męczennik. Ksiądz Michał Olszewski, którego proces właśnie się rozpoczyna, ma wiele twarzy. Sprawdziliśmy, jak wyglądała droga duchownego od górala-mistrza taekwondo do biznesmena oskarżonego o pranie pieniędzy i udział w zorganizowanej grupie przestępczej.",
+      "description": "Uzdrowiciel, egzorcysta, sprytny biznesmen, celebryta, męczennik. Ksiądz Michał Olszewski, którego proces właśnie się rozpoczyna, ma wiele twarzy. Sprawdziliśmy, jak wyglądała droga duchownego od górala mistrza taekwondo do biznesmena oskarżonego o pranie pieniędzy i udział w zorganizowanej grupie przestępczej.",
       "originalTitle": "Od uzdrawiania salcesonem do zarzutów o pranie pieniędzy. Kim jest ksiądz Michał Olszewski?",
-      "originalDescription": "Uzdrowiciel, egzorcysta, sprytny biznesmen, celebryta, męczennik. Ksiądz Michał Olszewski, którego proces właśnie się rozpoczyna, ma wiele twarzy. Sprawdziliśmy, jak wyglądała droga duchownego od górala-mistrza taekwondo do biznesmena oskarżonego o pranie pieniędzy i udział w zorganizowanej grupie przestępczej."
-    },
-    {
-      "title": "Wykoleił się pociąg Polregio. Policja o przyczynach",
-      "link": "https://tvn24.pl/krakow/malopolska-miechow-wykoleil-sie-pociag-polregio-st8859567?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 21:56:50 GMT",
-      "description": "Około 20 osób podróżowało składem Polregio, który wykoleił się na trasie między Miechowem a Słomnikami w Małopolsce. Nikomu nic się nie stało. Policja informuje, że przyczyną zdarzenia były niskie temperatury.",
-      "originalTitle": "Wykoleił się pociąg Polregio. Policja o przyczynach",
-      "originalDescription": "Około 20 osób podróżowało składem Polregio, który wykoleił się na trasie między Miechowem a Słomnikami w Małopolsce. Nikomu nic się nie stało. Policja informuje, że przyczyną zdarzenia były niskie temperatury."
-    },
-    {
-      "title": "Samolot z Trumpem na pokładzie zawrócił do bazy. Prezydent przesiadł się do innego",
-      "link": "https://tvn24.pl/swiat/usa-samolot-z-donaldem-trumpem-na-pokladzie-zawrocil-do-bazy-st8859619?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 04:36:19 GMT",
-      "description": "Air Force One z prezydentem Donaldem Trumpem na pokładzie zawrócił do bazy lotniczej Andrews pod Waszyngtonem w związku z \"niewielkim problemem z elektroniką\" - poinformował Biały Dom. Podróż jest kontynuowana innym samolotem.",
-      "originalTitle": "Samolot z Trumpem na pokładzie zawrócił do bazy. Prezydent przesiadł się do innego",
-      "originalDescription": "Air Force One z prezydentem Donaldem Trumpem na pokładzie zawrócił do bazy lotniczej Andrews pod Waszyngtonem w związku z \"niewielkim problemem z elektroniką\" - poinformował Biały Dom. Podróż jest kontynuowana innym samolotem."
-    },
-    {
-      "title": "Kolejny wypadek kolejowy w Hiszpanii. Skały uderzyły w przejeżdżający pociąg, ranni pasażerowie, maszynista nie żyje",
-      "link": "https://tvn24.pl/swiat/hiszpania-kolejna-katastrofa-kolejowa-skaly-spadly-na-przejezdzajacy-pociag-st8859566?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 21:46:35 GMT",
-      "description": "Pod Barceloną doszło do poważnego wypadku na kolei. W pociąg lokalnej linii uderzył walący się mur skalny. Rannych zostało 37 pasażerów, w tym czterech ciężko. Maszynista zmarł z powodu odniesionych obrażeń - przekazała agencja EFE.",
-      "originalTitle": "Kolejny wypadek kolejowy w Hiszpanii. Skały uderzyły w przejeżdżający pociąg, ranni pasażerowie, maszynista nie żyje",
-      "originalDescription": "Pod Barceloną doszło do poważnego wypadku na kolei. W pociąg lokalnej linii uderzył walący się mur skalny. Rannych zostało 37 pasażerów, w tym czterech ciężko. Maszynista zmarł z powodu odniesionych obrażeń - przekazała agencja EFE."
-    },
-    {
-      "title": "Kolejny wypadek kolejowy w Hiszpanii, wykolejone wagony Polregio, zarzuty dla policjantów",
-      "link": "https://tvn24.pl/swiat/piec-rzeczy-ktore-warto-wiedziec-w-srode-21-stycznia-najwazniejsze-informacje-st8859616?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 04:18:44 GMT",
-      "description": "Pod Barceloną doszło do poważnego wypadku na kolei. Na trasie Miechów - Słomniki wykoleiły się dwa wagony pociągu Polregio. Prokuratura stawia zarzuty czterem policjantom w związku ze śmiercią 14-letniej Natalii w Andrychowie. Oto pięć rzeczy, które warto wiedzieć w środę 21 stycznia.",
-      "originalTitle": "Kolejny wypadek kolejowy w Hiszpanii, wykolejone wagony Polregio, zarzuty dla policjantów",
-      "originalDescription": "Pod Barceloną doszło do poważnego wypadku na kolei. Na trasie Miechów - Słomniki wykoleiły się dwa wagony pociągu Polregio. Prokuratura stawia zarzuty czterem policjantom w związku ze śmiercią 14-letniej Natalii w Andrychowie. Oto pięć rzeczy, które warto wiedzieć w środę 21 stycznia."
-    },
-    {
-      "title": "Pogoda na dziś - 21.01. Zróżnicowana temperatura, w górach mocniej powieje",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-21-01-miejscami-temperatura-spadnie-do-19-stopni-st8859545?source=rss",
-      "pubDate": "Wed, 21 Jan 2026 01:00:00 GMT",
-      "description": "Pogoda na dziś. Środa, 21.01, przyniesie słoneczną aurę. W Sudetach mocniej powieje, w porywach do 60-80 kilometrów na godzinę. Aura neutralnie wpłynie na nasze samopoczucie.",
-      "originalTitle": "Pogoda na dziś - 21.01. Zróżnicowana temperatura, w górach mocniej powieje",
-      "originalDescription": "Pogoda na dziś. Środa, 21.01, przyniesie słoneczną aurę. W Sudetach mocniej powieje, w porywach do 60-80 kilometrów na godzinę. Aura neutralnie wpłynie na nasze samopoczucie."
+      "originalDescription": "Uzdrowiciel, egzorcysta, sprytny biznesmen, celebryta, męczennik. Ksiądz Michał Olszewski, którego proces właśnie się rozpoczyna, ma wiele twarzy. Sprawdziliśmy, jak wyglądała droga duchownego od górala mistrza taekwondo do biznesmena oskarżonego o pranie pieniędzy i udział w zorganizowanej grupie przestępczej."
     }
   ]
 }
