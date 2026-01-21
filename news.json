@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-01-21T00:51:26.626Z",
+  "lastUpdate": "2026-01-21T01:36:03.972Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Pogoda na dziś: temperatura zróżnicowana",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-21-01-miejscami-temperatura-spadnie-do-19-stopni-st8859545?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 01:00:00 GMT",
+      "description": "Pogoda na dziś. Środa, 21.01, przyniesie słoneczną aurę. W Sudetach mocniej powieje, w porywach do 60-80 kilometrów na godzinę. Aura neutralnie wpłynie na nasze samopoczucie.",
+      "originalTitle": "Pogoda na dziś - 21.01. Zróżnicowana temperatura, w górach mocniej powieje",
+      "originalDescription": "Pogoda na dziś. Środa, 21.01, przyniesie słoneczną aurę. W Sudetach mocniej powieje, w porywach do 60-80 kilometrów na godzinę. Aura neutralnie wpłynie na nasze samopoczucie."
+    },
     {
       "title": "Awarie na trasie do Berlina powodują opóźnienia pociągów",
       "link": "https://tvn24.pl/lubuskie/zbaszynek-awaria-trakcji-pociagi-nie-kursuja-na-linii-poznan-berlin-st8859367?source=rss",
@@ -12,7 +20,7 @@
       "originalDescription": "Od wielu godzin pociągi nie kursują na linii Poznań - Berlin. Na stacji w Zbąszynku doszło do awarii sieci trakcyjnej, jeden z pociągów ją zerwał. Na razie nie wiadomo, kiedy ruch zostanie przywrócony."
     },
     {
-      "title": "Proces w sprawie zabójstwa na Nowym Świecie",
+      "title": "Proces zabójstwa na Nowym Świecie",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-proces-w-sprawie-zabojstwa-na-nowym-swiecie-zeznania-swiadkow-st8859528?source=rss",
       "pubDate": "Tue, 20 Jan 2026 21:02:55 GMT",
       "description": "W Sądzie Okręgowym w Warszawie odbyła się kolejna rozprawa w procesie o brutalne zabójstwo 29-latka na Nowym Świecie. Zeznawali świadkowie, którzy próbowali pomóc umierającemu od ciosów nożem mężczyźnie. Na ławie oskarżonych zasiada Dawid Mirkowski.",
@@ -20,10 +28,10 @@
       "originalDescription": "W Sądzie Okręgowym w Warszawie odbyła się kolejna rozprawa w procesie o brutalne zabójstwo 29-latka na Nowym Świecie. Zeznawali świadkowie, którzy próbowali pomóc umierającemu od ciosów nożem mężczyźnie. Na ławie oskarżonych zasiada Dawid Mirkowski."
     },
     {
-      "title": "Trump komentuje relacje z NATO",
+      "title": "Trump komentuje przyszłość NATO",
       "link": "https://tvn24.pl/swiat/grenlandia-donald-trump-i-usa-i-nato-beda-zadowolone-st8859524?source=rss",
       "pubDate": "Tue, 20 Jan 2026 20:56:27 GMT",
-      "description": "Prezydent USA Donald Trump powiedział przed wylotem do Europy, że w sprawie Grenlandii zostanie wypracowane rozwiązanie, z którego NATO i Stany Zjednoczone \"będą bardzo zadowolone\". Odpowiedział też na pytanie, czy jego Rada Pokoju ma zastąpić ONZ.",
+      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump wypowiedział się przed wylotem do Europy.\n• Wypowiedź dotyczyła sprawy Grenlandii.\n• W sprawie Grenlandii ma zostać wypracowane rozwiązanie.\n• Rozwiązanie ma być korzystne dla NATO.\n• Rozwiązanie ma być korzystne dla Stanów Zjednoczonych.\n• Donald Trump odpowiedział na pytanie o swoją Radę Pokoju.\n• Pytanie dotyczyło, czy Rada Pokoju ma zastąpić ONZ.",
       "originalTitle": "Trump: i my, i NATO będziemy bardzo zadowoleni",
       "originalDescription": "Prezydent USA Donald Trump powiedział przed wylotem do Europy, że w sprawie Grenlandii zostanie wypracowane rozwiązanie, z którego NATO i Stany Zjednoczone \"będą bardzo zadowolone\". Odpowiedział też na pytanie, czy jego Rada Pokoju ma zastąpić ONZ."
     },
@@ -74,14 +82,6 @@
       "description": "Światła Północy pojawiły się ponownie na polskim niebie. Spektakularnie wyglądające zjawisko wystąpiło między innymi na Lubelszczyźnie, Mazowszu i Podlasiu.",
       "originalTitle": "Zorza polarna ponownie rozświetliła niebo nad Polską",
       "originalDescription": "Światła Północy pojawiły się ponownie na polskim niebie. Spektakularnie wyglądające zjawisko wystąpiło między innymi na Lubelszczyźnie, Mazowszu i Podlasiu."
-    },
-    {
-      "title": "\"Przyjaciele, teraz jest czas\". Premier Kanady apeluje",
-      "link": "https://tvn24.pl/swiat/mark-carney-panstwa-sredniej-wielkosci-nie-sa-bezsilne-w-obecnym-swiecie-premier-kanady-apeluje-st8859384?source=rss",
-      "pubDate": "Tue, 20 Jan 2026 19:38:30 GMT",
-      "description": "Kanadyjski premier Mark Carney ocenił, że chociaż dawny porządek świata się załamuje, to państwa średniej wielkości nie są bezsilne. Według niego nadchodzi dla nich chwila testu. Mówił też, że obecnie \"suwerenność będzie oznaczała zdolność do wytrzymywania nacisku\". - Suwerenność nie oznacza podporządkowania się - podkreślał.",
-      "originalTitle": "\"Przyjaciele, teraz jest czas\". Premier Kanady apeluje",
-      "originalDescription": "Kanadyjski premier Mark Carney ocenił, że chociaż dawny porządek świata się załamuje, to państwa średniej wielkości nie są bezsilne. Według niego nadchodzi dla nich chwila testu. Mówił też, że obecnie \"suwerenność będzie oznaczała zdolność do wytrzymywania nacisku\". - Suwerenność nie oznacza podporządkowania się - podkreślał."
     }
   ]
 }
