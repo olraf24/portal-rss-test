@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-01-23T08:44:35.296Z",
+  "lastUpdate": "2026-01-23T09:10:23.504Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pasażerka oskarżona o podawanie się za policjantkę",
+      "title": "26-latek zatrzymany za posiadanie amfetaminy",
+      "link": "https://tvn24.pl/wroclaw/walbrzych-30-litrow-plynnej-amfetaminy-w-kanistrach-po-oleju-26-latek-trafil-do-aresztu-st8863417?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 09:07:21 GMT",
+      "description": "• Blisko 30 litrów płynnej amfetaminy zostało znalezionych.\n• Z 30 litrów płynnej amfetaminy można było uzyskać aż 120 kilogramów gotowego produktu.\n• Substancja była ukryta w kanistrach.\n• Znalezienie substancji nastąpiło podczas akcji na autostradzie A4.\n• 26‑latek miał przemycić narkotyki z Niemiec.\n• 26‑latek został zatrzymany.\n• Zatrzymany 26‑latek trafił do aresztu.",
+      "originalTitle": "Niemal 30 litrów płynnej amfetaminy w kanistrach po oleju, 26-latek w areszcie",
+      "originalDescription": "Blisko 30 litrów płynnej amfetaminy, z której można było uzyskać aż 120 kilogramów gotowego produktu, było ukrytych w kanistrach. Substancja została znaleziono podczas akcji na autostradzie A4. 26‑latek, który miał przemycić narkotyki z Niemiec, został zatrzymany i trafił do aresztu."
+    },
+    {
+      "title": "Fałszywe strony serwisów streamingowych",
+      "link": "https://tvn24.pl/biznes/tech/netflix-com-disneyplus-com-spotify-com-primevideo-com-uwaga-na-falszywe-strony-serwisow-streamingowych-st8863505?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 09:00:43 GMT",
+      "description": "• Cyberprzestępcy tworzą fałszywe strony podszywające się pod serwisy streamingowe.\n• Ostrzega zespół cyberbezpieczeństwa Komisji Nadzoru Finansowego.\n• Proceder dotyczy najpopularniejszych platform takich jak Netflix, Disney+, czy Spotify.\n• Eksperci apelują, aby nie dać się okraść.\n• Eksperci apelują, aby pamiętać, aby zawsze dokładnie weryfikować adres stron.",
+      "originalTitle": "Oszuści czyhają na klientów serwisów streamingowych. Uwaga na fałszywe strony",
+      "originalDescription": "Cyberprzestępcy tworzą fałszywe strony podszywające się pod serwisy streamingowe - ostrzega zespół cyberbezpieczeństwa Komisji Nadzoru Finansowego. Eksperci ostrzegają, że proceder dotyczy najpopularniejszych platform takich jak Netflix, Disney+, czy Spotify. Apelują: \"nie dajcie się okraść i pamiętacie, aby zawsze dokładnie weryfikować adres stron\"."
+    },
+    {
+      "title": "Warszawa wysyła generatory prądu do Kijowa",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/cieplo-dla-ukrainy-warszawa-wysyla-do-kijowa-generatory-pradu-st8863559?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 08:58:31 GMT",
+      "description": "Z Warszawy do Kijowa trafi 90 agregatów prądotwórczych. W ostatnich miesiącach nasiliły się ataki Rosji na ukraiński system energetyczny, powodując poważne uszkodzenia sieci oraz odcinając dostawy prądu i ogrzewania dużej części ludności.",
+      "originalTitle": "\"Ciepło dla Ukrainy\". Warszawa wysyła do Kijowa generatory prądu",
+      "originalDescription": "Z Warszawy do Kijowa trafi 90 agregatów prądotwórczych. W ostatnich miesiącach nasiliły się ataki Rosji na ukraiński system energetyczny, powodując poważne uszkodzenia sieci oraz odcinając dostawy prądu i ogrzewania dużej części ludności."
+    },
+    {
+      "title": "Alert RCB. \"Unikaj aktywności na zewnątrz\"",
+      "link": "https://tvn24.pl/tvnmeteo/smog/smog-w-polsce-alert-rcb-w-piatek-23-01-unikaj-aktywnosci-na-zewnatrz-st8863600?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 08:57:29 GMT",
+      "description": "Alert RCB trafił do odbiorców w dwóch województwach. Eksperci przestrzegają przed złą jakością powietrza. Sprawdź, gdzie lepiej unikać aktywności na świeżym powietrzu.",
+      "originalTitle": "Alert RCB. \"Unikaj aktywności na zewnątrz\"",
+      "originalDescription": "Alert RCB trafił do odbiorców w dwóch województwach. Eksperci przestrzegają przed złą jakością powietrza. Sprawdź, gdzie lepiej unikać aktywności na świeżym powietrzu."
+    },
+    {
+      "title": "Zakradł się do mieszkania w nocy, próbował udusić 13-latkę",
+      "link": "https://tvn24.pl/krakow/krakow-areszt-dla-mezczyzny-podejrzanego-o-probe-zabojstwa-13-latki-najpierw-ukradl-laptopa-pozniej-dusil-dziecko-st8863520?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 08:45:20 GMT",
+      "description": "Podejrzany o usiłowanie zabójstwa i kradzież 41-latek trafił do tymczasowego aresztu. Jak ustaliła prokuratura, mężczyzna wszedł w nocy do mieszkania na krakowskich Grzegórzkach, zabrał laptop, a następnie wrócił i zaatakował śpiącą 13-latkę.",
+      "originalTitle": "Zakradł się do mieszkania w nocy, próbował udusić 13-latkę",
+      "originalDescription": "Podejrzany o usiłowanie zabójstwa i kradzież 41-latek trafił do tymczasowego aresztu. Jak ustaliła prokuratura, mężczyzna wszedł w nocy do mieszkania na krakowskich Grzegórzkach, zabrał laptop, a następnie wrócił i zaatakował śpiącą 13-latkę."
+    },
+    {
+      "title": "\"Wywołała błędne przeświadczenie, że jest policjantką\". Zarzut dla pasażerki, która wydawała polecenia kierowcy",
       "link": "https://tvn24.pl/poznan/poznan-wyciagnela-policyjna-legitymacje-naklaniala-kierowce-do-zlamania-przepisow-uslyszala-zarzut-st8860623?source=rss",
       "pubDate": "Thu, 22 Jan 2026 14:05:17 GMT",
-      "description": "• Kobieta spieszyła się na pociąg.\n• Zaczęła ponaglać kierowcę.\n• Kierowca utknął na czerwonym świetle w centrum Poznania.\n• Kobieta namawiała kierowcę, by jechał dalej.\n• Kobieta wyciągnęła \"policyjną legitymację\", aby nakłonić kierowcę do jazdy.\n• Argument z \"policyjną legitymacją\" nie zadziałał na kierowcę.\n• Kobieta została zidentyfikowana przez policję.\n• Kobieta została zatrzymana przez policję.\n• Kobieta usłyszała zarzuty.",
+      "description": "Spieszyła się na pociąg, więc zaczęła ponaglać kierowcę. Gdy ten utknął na czerwonym świetle w centrum Poznania, kobieta namawiała go, by jechał dalej. W pewnym momencie wyciągnęła \"policyjną legitymację\", ale i ten argument nie zadziałał. Kobieta została zidentyfikowana i zatrzymana przez policję. Usłyszała zarzuty.",
       "originalTitle": "\"Wywołała błędne przeświadczenie, że jest policjantką\". Zarzut dla pasażerki, która wydawała polecenia kierowcy",
       "originalDescription": "Spieszyła się na pociąg, więc zaczęła ponaglać kierowcę. Gdy ten utknął na czerwonym świetle w centrum Poznania, kobieta namawiała go, by jechał dalej. W pewnym momencie wyciągnęła \"policyjną legitymację\", ale i ten argument nie zadziałał. Kobieta została zidentyfikowana i zatrzymana przez policję. Usłyszała zarzuty."
     },
     {
-      "title": "Wypadki turystów w Tatrach w 2025 roku",
+      "title": "Turyści błądzili, potykali się i chorowali. 2025 rok w Tatrach",
       "link": "https://tvn24.pl/krakow/tatry-topr-podal-liczbe-akcji-ratunkowych-i-podsumowal-rok-st8861840?source=rss",
       "pubDate": "Fri, 23 Jan 2026 08:12:02 GMT",
-      "description": "• 16 osób zginęło\n• 1200 osób potrzebowało pomocy ratowników\n• Tatrzańskie Ochotnicze Pogotowie Ratunkowe podsumowało 2025 rok\n• Podsumowanie dotyczyło polskiej strony Tatr\n• Sytuacja jest lepsza niż przed rokiem",
+      "description": "16 osób zginęło, a 1200 potrzebowało pomocy ratowników. Tatrzańskie Ochotnicze Pogotowie Ratunkowe podsumowało 2025 rok po polskiej stronie Tatr. Z danych wynika, że jest lepiej niż przed rokiem.",
       "originalTitle": "Turyści błądzili, potykali się i chorowali. 2025 rok w Tatrach",
       "originalDescription": "16 osób zginęło, a 1200 potrzebowało pomocy ratowników. Tatrzańskie Ochotnicze Pogotowie Ratunkowe podsumowało 2025 rok po polskiej stronie Tatr. Z danych wynika, że jest lepiej niż przed rokiem."
     },
     {
-      "title": "Wzrost współpracy Rzymu i Berlina",
+      "title": "\"Mocne zbliżenie Rzymu i Berlina\". W kontrze do Paryża",
       "link": "https://tvn24.pl/swiat/mocne-zblizenie-rzymu-i-berlina-w-kontrze-do-paryza-st8863402?source=rss",
       "pubDate": "Fri, 23 Jan 2026 08:04:05 GMT",
-      "description": "• W piątek w Rzymie odbędzie się włosko-niemiecki szczyt międzyrządowy.\n• Szcycie przewodzić będą kanclerz Niemiec i premierka Włoch.\n• Friedrich Merz i Georgia Meloni wypracowali szereg postulatów.\n• Postulaty te będą chcieli przedstawić na lutowym szczycie Rady Europejskiej.\n• Zwrot Berlina ku Rzymowi ma być spowodowany rosnącym rozdźwiękiem Merza i prezydenta Francji Emanuela Macrona.\n• \"La Repubblica\" pisze o tych planach.\n• Szczyt odbędzie się pod przewodnictwem Friedricha Merza i Georgii Meloni.",
+      "description": "W piątek w Rzymie odbędzie się włosko-niemiecki szczyt międzyrządowy, któremu przewodzić będą kanclerz Niemiec i premierka Włoch. Jak pisze \"La Repubblica\", Friedrich Merz i Georgia Meloni wypracowali szereg postulatów, które będą chcieli przedstawić na lutowym szczycie Rady Europejskiej. Zwrot Berlina ku Rzymowi ma być spowodowany rosnącym rozdźwiękiem Merza i prezydenta Francji Emanuela Macrona.",
       "originalTitle": "\"Mocne zbliżenie Rzymu i Berlina\". W kontrze do Paryża",
       "originalDescription": "W piątek w Rzymie odbędzie się włosko-niemiecki szczyt międzyrządowy, któremu przewodzić będą kanclerz Niemiec i premierka Włoch. Jak pisze \"La Repubblica\", Friedrich Merz i Georgia Meloni wypracowali szereg postulatów, które będą chcieli przedstawić na lutowym szczycie Rady Europejskiej. Zwrot Berlina ku Rzymowi ma być spowodowany rosnącym rozdźwiękiem Merza i prezydenta Francji Emanuela Macrona."
     },
@@ -42,46 +82,6 @@
       "description": "38‑letni mieszkaniec powiatu kłodzkiego (Dolny Śląsk) stanie przed sądem. Jest oskarżony o zgwałcenie i zabójstwo swojej partnerki. Prokuratura ustaliła, że przed śmiercią kobieta była przez kilka dni brutalnie maltretowana, zmuszana do picia alkoholu i seksu. Oskarżony odpowie też za znęcanie się nad poprzednią partnerką.",
       "originalTitle": "Przez kilka dni miał bić, upijać i zmuszać do seksu, 27-latka nie żyje. Jest akt oskarżenia",
       "originalDescription": "38‑letni mieszkaniec powiatu kłodzkiego (Dolny Śląsk) stanie przed sądem. Jest oskarżony o zgwałcenie i zabójstwo swojej partnerki. Prokuratura ustaliła, że przed śmiercią kobieta była przez kilka dni brutalnie maltretowana, zmuszana do picia alkoholu i seksu. Oskarżony odpowie też za znęcanie się nad poprzednią partnerką."
-    },
-    {
-      "title": "Bogaci się bogacą, a biedni biednieją. Rekordowe nierówności majątkowe w tym kraju",
-      "link": "https://tvn24.pl/biznes/ze-swiata/nierownosci-majatkowe-w-usa-najwyzsze-od-3-dekad-st8863434?source=rss",
-      "pubDate": "Fri, 23 Jan 2026 07:44:53 GMT",
-      "description": "Nierówność majątkowa w Stanach Zjednoczonych osiągnęła najwyższy poziom od ponad trzech dekad. Dane Rezerwy Federalnej wskazują, że model tak zwanej gospodarki w kształcie litery K ulega utrwaleniu: zamożne gospodarstwa domowe oraz wybrane sektory gospodarki szybko zwiększają swój majątek, podczas gdy osoby o niskich i średnich dochodach nie nadążają za tym wzrostem i coraz częściej pozostają w tyle.",
-      "originalTitle": "Bogaci się bogacą, a biedni biednieją. Rekordowe nierówności majątkowe w tym kraju",
-      "originalDescription": "Nierówność majątkowa w Stanach Zjednoczonych osiągnęła najwyższy poziom od ponad trzech dekad. Dane Rezerwy Federalnej wskazują, że model tak zwanej gospodarki w kształcie litery K ulega utrwaleniu: zamożne gospodarstwa domowe oraz wybrane sektory gospodarki szybko zwiększają swój majątek, podczas gdy osoby o niskich i średnich dochodach nie nadążają za tym wzrostem i coraz częściej pozostają w tyle."
-    },
-    {
-      "title": "Trump wycofuje zaproszenie dla Kanady do Rady Pokoju. \"Dziękuję za uwagę!\"",
-      "link": "https://tvn24.pl/swiat/donald-trump-wycofuje-zaproszenie-dla-premiera-kanady-do-rady-pokoju-dziekuje-za-uwage-st8863430?source=rss",
-      "pubDate": "Fri, 23 Jan 2026 07:25:54 GMT",
-      "description": "Donald Trump poinformował w mediach społecznościowych o wycofaniu zaproszenia do Rady Pokoju dla premiera Kanady Marka Carneya. Prezydent Stanów Zjednoczonych nie podał przyczyny tej decyzji.",
-      "originalTitle": "Trump wycofuje zaproszenie dla Kanady do Rady Pokoju. \"Dziękuję za uwagę!\"",
-      "originalDescription": "Donald Trump poinformował w mediach społecznościowych o wycofaniu zaproszenia do Rady Pokoju dla premiera Kanady Marka Carneya. Prezydent Stanów Zjednoczonych nie podał przyczyny tej decyzji."
-    },
-    {
-      "title": "Dotkliwy mróz na poligonie. Kilkudziesięciu żołnierzy z odmrożeniami",
-      "link": "https://tvn24.pl/swiat/finlandia-dotkliwy-mroz-na-poligonie-kilkadziesiat-zolnierzy-z-odmrozeniami-st8863395?source=rss",
-      "pubDate": "Fri, 23 Jan 2026 07:14:08 GMT",
-      "description": "Nieludzki mróz potrafi się dać we znaki także żołnierzom z elitarnej jednostki. Około 40 poborowych z regionu arktycznego Finlandii doznało poważnych odmrożeń w trakcie ćwiczeń na świeżym powietrzu. W czasie manewrów temperatura sięgnęła -34 stopni Celsjusza.",
-      "originalTitle": "Dotkliwy mróz na poligonie. Kilkudziesięciu żołnierzy z odmrożeniami",
-      "originalDescription": "Nieludzki mróz potrafi się dać we znaki także żołnierzom z elitarnej jednostki. Około 40 poborowych z regionu arktycznego Finlandii doznało poważnych odmrożeń w trakcie ćwiczeń na świeżym powietrzu. W czasie manewrów temperatura sięgnęła -34 stopni Celsjusza."
-    },
-    {
-      "title": "Decyzja w sprawie TikToka w USA",
-      "link": "https://tvn24.pl/biznes/tech/tiktok-w-usa-jest-zgoda-na-utworzenie-nowej-spolki-st8863365?source=rss",
-      "pubDate": "Fri, 23 Jan 2026 07:11:35 GMT",
-      "description": "Chiński właściciel TikToka, ByteDance, poinformował w czwartek, że sfinalizował umowę o utworzeniu spółki joint venture z większościowym udziałem Amerykanów, która będzie zabezpieczać dane amerykańskie, aby uniknąć zakazu wprowadzonego przez Stany Zjednoczone na aplikację do tworzenia krótkich filmów, z której korzysta ponad 200 milionów Amerykanów.",
-      "originalTitle": "Rozstrzygnęły się losy TikToka w USA",
-      "originalDescription": "Chiński właściciel TikToka, ByteDance, poinformował w czwartek, że sfinalizował umowę o utworzeniu spółki joint venture z większościowym udziałem Amerykanów, która będzie zabezpieczać dane amerykańskie, aby uniknąć zakazu wprowadzonego przez Stany Zjednoczone na aplikację do tworzenia krótkich filmów, z której korzysta ponad 200 milionów Amerykanów."
-    },
-    {
-      "title": "Schetyna o Polsce 2050: oni są po prostu ważni",
-      "link": "https://tvn24.pl/polska/grzegorz-schetyna-o-konflikcie-w-polsce-2050-szymona-holowni-st8863370?source=rss",
-      "pubDate": "Fri, 23 Jan 2026 07:06:52 GMT",
-      "description": "Politycy Polski 2050 muszą się nauczyć być ze sobą, rywalizować ze sobą, a potem współpracować po tych wyborach - mówił w \"Jeden na jeden\" w TVN24 senator KO Grzegorz Schetyna. Jego zdaniem, członkowie ugrupowania Szymona Hołowni \"powinni szukać dystansu\". Szef senackiej komisji spraw zagranicznych ocenił też, że Rada Pokoju to pomysł, który \"będzie miał polityczny koniec w perspektywie najbliższych miesięcy\".",
-      "originalTitle": "Schetyna o Polsce 2050: oni są po prostu ważni",
-      "originalDescription": "Politycy Polski 2050 muszą się nauczyć być ze sobą, rywalizować ze sobą, a potem współpracować po tych wyborach - mówił w \"Jeden na jeden\" w TVN24 senator KO Grzegorz Schetyna. Jego zdaniem, członkowie ugrupowania Szymona Hołowni \"powinni szukać dystansu\". Szef senackiej komisji spraw zagranicznych ocenił też, że Rada Pokoju to pomysł, który \"będzie miał polityczny koniec w perspektywie najbliższych miesięcy\"."
     }
   ]
 }
