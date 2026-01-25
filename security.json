@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-25T10:06:02.069Z",
+  "lastUpdate": "2026-01-25T10:39:01.925Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Amerykański pancerz dla Ukrainy",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/amerykanski-pancerz-dla-ukrainy",
+      "pubDate": "Sun, 25 Jan 2026 11:27:11 +0100",
+      "description": "20 stycznia, Textron Systems poinformował, że otrzymał zamówienie o wartości 163,4 mln dolarów od US Army na rzecz wyprodukowania i dostarczenia na rzecz Ukrainy 65 opancerzonych samochodów patrolowych Commando MSFV (Select Mobile Strike Force Vehicle). Nie podano informacji, kiedy pojazdy zostaną dostarczone na Ukrainę."
+    },
     {
       "title": "Ważne wsparcie dla Raka. Nareszcie!",
       "link": "https://defence24.pl/sily-zbrojne/wazne-wsparcie-dla-raka-nareszcie",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/drugie-zycie-starych-transporterow-ambitny-plan-modernizacji-pod-lupa-analiza",
       "pubDate": "Sat, 24 Jan 2026 09:16:29 +0100",
       "description": "[W grudniu 2024 roku greckie media](https://defence24.pl/sily-zbrojne/grecja-zmodernizuje-m113-zakup-nowych-bwp-zbyt-kosztowny) informowały, że wobec braku pozyskania nowych pojazdów armia miała zdecydować się na modernizację części z posiadanych transporterów opancerzonych M113. Pracom miano by poddać przynajmniej 500 (z całej floty liczącej prawie 2000) pojazdów. Po ich zakończeniu wozy te stałyby się pełnoprawnymi bojowymi wozami piechoty, zapewniającymi większy poziom ochrony oraz siłę ognia."
-    },
-    {
-      "title": "Poznań na atomowym celowniku Rosji, szkolenia na Apacze - Defence24Week 145",
-      "link": "https://defence24.pl/geopolityka/poznan-na-atomowym-celowniku-rosji-szkolenia-na-apacze-defence24week-145",
-      "pubDate": "Fri, 23 Jan 2026 19:05:02 +0100",
-      "description": "W najnowszym odcinku Defence24Week Jacek Raubo, Maciej Szopa i Michał Bruszewski dyskutują o groźbach użycia nuklearnych głowic w Europie oraz o szkoleniach polskich pilotów śmigłowców szturmowych Apache AH-64. Czy rosyjskie groźby użycia arsenału nuklearnego należy brać na poważnie? Czy Poznań jest na celowniku Rosji? Czy taktyczny ładunek nuklearny może zostać użyty na Ukrainie? Jak będzie wyglądało szkolenie na Apache? Kapral czy oficer - kto powinien pilotować śmigłowiec? Czy 96 Apache’y to za dużo? Na te, oraz inne pytania, odpowiadamy w najnowszym odcinku D24Week."
     }
   ]
 }
