@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-26T11:06:51.938Z",
+  "lastUpdate": "2026-01-26T11:36:34.386Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Więcej FA-50. Amerykańskie myśliwce opóźnione",
+      "link": "https://defence24.pl/sily-zbrojne/wiecej-fa-50-amerykanskie-mysliwce-opoznione",
+      "pubDate": "Mon, 26 Jan 2026 12:15:02 +0100",
+      "description": "Jest to bardzo zaawansowana technicznie wersja FA-50, która ma posiadać radar z aktywnie elektronicznie skanowanym szykiem antenowym (AESA), [prawdopodobnie typu Phantom Strike](https://defence24.pl/przemysl/fa-50pl-jest-integrowany-z-docelowym-radarem), a także dostęp do zaawansowanych typów uzbrojenia, w tym pocisków AMRAAM. Jest to więc odpowiednik polskiej wersji FA-50PL."
+    },
     {
       "title": "Wsparcie Babcock dla zbiorowych szkoleń obronnych",
       "link": "https://defence24.pl/przemysl/wsparcie-babcock-dla-zbiorowych-szkolen-obronnych",
@@ -25,7 +31,7 @@
       "title": "Portugalskie haubice w ogniu ćwiczeń",
       "link": "https://defence24.pl/sily-zbrojne/portugalskie-haubice-w-ogniu-cwiczen",
       "pubDate": "Mon, 26 Jan 2026 11:02:55 +0100",
-      "description": "Wyposażenie portugalskich oddziałów artylerii, jeżeli chodzi o haubice ciągnione, stanowi 40 przestarzałych M114 kal. 155 mm (z czego w aktywnej służbie jest jedynie 12-18 egzemplarzy) oraz 18-21 dział L119 kal. 105 mm. Prawdopodobnie oba te typy artylerii zostaną w przyszłości zastąpione [francuskimi armatohaubicami CAESAR](https://defence24.pl/sily-zbrojne/portugalia-sfinansuje-nowa-artylerie-z-funduszu-safe), na których żołnierze rozpoczęli już wstępne szkolenie."
+      "description": "Wyposażenie portugalskich oddziałów artylerii, jeżeli chodzi o haubice ciągnione, stanowi 40 przestarzałych M114 kal. 155 mm (z czego w aktywnej służbie jest jedynie 12-18 egzemplarzy) oraz 18-21 dział L119 kal. 105 mm. Prawdopodobnie oba te typy artylerii zostaną w przyszło��ci zastąpione [francuskimi armatohaubicami CAESAR](https://defence24.pl/sily-zbrojne/portugalia-sfinansuje-nowa-artylerie-z-funduszu-safe), na których żołnierze rozpoczęli już wstępne szkolenie."
     },
     {
       "title": "Spadochroniarze ćwiczą zrzuty towarów",
@@ -35,7 +41,7 @@
     },
     {
       "title": "Czy Borsuk przyspieszy Ratela?",
-      "link": "https://defence24.pl/czy-borsuk-przyspieszy-ratela",
+      "link": "https://defence24.pl/przemysl/czy-borsuk-przyspieszy-ratela",
       "pubDate": "Mon, 26 Jan 2026 09:45:56 +0100",
       "description": "[Z pierwszą częścią artykułu Jerzego Reszczyńskiego można zapoznać się pod tym linkiem. ](https://defence24.pl/przemysl/borsuk-i-ratel-prawdziwy-nowy-poczatek-analiza)"
     },
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/geopolityka/zmiany-porzadku-swiata-i-wnioski-dla-polski-usa-z-nowa-strategia-obrony-analiza",
       "pubDate": "Sun, 25 Jan 2026 13:46:50 +0100",
       "description": "Narodowa Strategia Obrony Stanów Zjednoczonych z 2026 roku stanowi jeden z najbardziej przełomowych, dotychczasowych dokumentów strategicznych XXI wieku, ponieważ nie tylko wyznacza kierunki rozwoju amerykańskich sił zbrojnych, lecz także w sposób pośredni odzwierciedla głęboką zmianę w globalnym porządku bezpieczeństwa. Dokument ten nie jest wyłącznie planem wojskowym, ale szeroką deklaracją geopolityczną, pokazującą, jak USA postrzegają swoją rolę w świecie, jakie zagrożenia uznają za kluczowe oraz jakie priorytety zamierzają realizować w nadchodzących latach. W porównaniu z Narodowymi Strategiami Obrony z 2018 i 2022 roku, nowy dokument wyraźnie odchodzi od wizji USA jako globalnego „policjanta”, który jest w stanie jednocześnie reagować na kryzysy w każdym regionie świata. Zamiast tego wprowadza zasadę koncentracji sił, środków i odpowiedzialności, w której bezpieczeństwo własnego terytorium oraz bezpośrednich interesów narodowych zostaje postawione ponad wszystkimi innymi zobowiązaniami."
-    },
-    {
-      "title": "Najtańszy myśliwiec świata może podbić rynki [ANALIZA]",
-      "link": "https://defence24.pl/przemysl/najtanszy-mysliwiec-swiata-moze-podbic-rynki-analiza",
-      "pubDate": "Sun, 25 Jan 2026 12:58:19 +0100",
-      "description": "Samolot [JF-17 Thunder ](https://defence24.pl/polityka-obronna/pakistan-proponuje-arabii-saudyjskiej-splate-pozyczki-mysliwcami-jf-17-thunder) narodził się w Chinach jako FC-1 (Fighter China 1) i we współpracy z pakistańskimi ośrodkami został dopracowany i przystosowany do lokalnych potrzeb Pakistanu. Na swoje potrzeby Islamabad zamówił dotychczas 176 maszyn (50 Block 1, 50 Block 2 i 50 Block 3 oraz 26 szkolno-bojowych samolotów dwumiejscowych JF-17B), co zapewniło projektowi odpowiednią skalę i umożliwiło oferowanie go za granicę po atrakcyjnej cenie."
     }
   ]
 }
