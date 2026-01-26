@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2026-01-26T08:09:31.778Z",
+  "lastUpdate": "2026-01-26T08:46:14.957Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy, auto wjechało w budynek, ranni",
+      "title": "Mężczyzna zmarł po wypadku z quadem",
+      "link": "https://tvn24.pl/lublin/tarnawa-kolonia-44-latka-przygniotl-go-quad-nie-zyje-st8868307?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 08:39:46 GMT",
+      "description": "44-latek wjeżdżał quadem na wzniesienie. Pojazd się przewrócił i przygniótł mężczyznę. Poszkodowany zmarł w szpitalu.",
+      "originalTitle": "Przygniótł go quad, mężczyzna nie żyje",
+      "originalDescription": "44-latek wjeżdżał quadem na wzniesienie. Pojazd się przewrócił i przygniótł mężczyznę. Poszkodowany zmarł w szpitalu."
+    },
+    {
+      "title": "Kara dla największego banku w Polsce",
+      "link": "https://tvn24.pl/biznes/z-kraju/klauzule-abuzywne-w-banku-pko-bp-ogromna-kara-dla-banku-st8868177?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 08:29:55 GMT",
+      "description": "• Urząd Ochrony Konkurencji i Konsumentów poinformował w poniedziałek, że nałożył na PKO BP karę.\n• Wysokość kary wynosi prawie 80 milionów złotych.\n• Zdaniem urzędu bank nie określa jasno zasad, na podstawie których może jednostronnie zmieniać oprocentowanie kredytu konsumenckiego.\n• Zmiana oprocentowania kredytu konsumenckiego przez bank bez jasno określonych zasad jest niedozwolona.\n• Decyzja o nałożeniu kary nie jest prawomocna.\n• PKO BP może się odwołać od decyzji o nałożeniu kary.",
+      "originalTitle": "Ogromna kara dla największego banku w Polsce. \"Powinien działać profesjonalnie i transparentnie\"",
+      "originalDescription": "Urząd Ochrony Konkurencji i Konsumentów poinformował w poniedziałek, że nałożył na PKO BP prawie 80 milionów złotych kary. Zdaniem urzędu bank nie określa jasno zasad, na podstawie których może jednostronnie zmieniać oprocentowanie kredytu konsumenckiego, co jest niedozwolone. Decyzja nie jest prawomocna, a bank może się od niej odwołać."
+    },
+    {
+      "title": "Zajęcia szkolne odwołane z powodu pogody",
+      "link": "https://tvn24.pl/szczecin/wielkopolska-zachodnie-pomorze-odwolane-zajecia-w-szkolach-i-przedszkolach-st8868079?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 06:54:45 GMT",
+      "description": "Zajęcia w przedszkolach i szkołach w niektórych miastach i gminach zostały odwołane w związku z marznącymi opadami deszczu. Taką decyzję podjęły między innymi władze Gryfina, Świnoujścia i Mirosławca (Zachodniopomorskie) oraz Gniezna (Wielkopolskie). Prezydent Szczecina rekomenduje z kolei pozostanie w domu.",
+      "originalTitle": "Odwołane zajęcia w szkołach. Z powodu pogody",
+      "originalDescription": "Zajęcia w przedszkolach i szkołach w niektórych miastach i gminach zostały odwołane w związku z marznącymi opadami deszczu. Taką decyzję podjęły między innymi władze Gryfina, Świnoujścia i Mirosławca (Zachodniopomorskie) oraz Gniezna (Wielkopolskie). Prezydent Szczecina rekomenduje z kolei pozostanie w domu."
+    },
+    {
+      "title": "Chodniki oblodzone",
+      "link": "https://tvn24.pl/poznan/poznan-przez-gololedz-chodniki-zamienily-sie-w-lodowiska-st8868199?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 08:05:14 GMT",
+      "description": "Łatwiej byłoby na łyżwach niż pieszo - takie można odnieść wrażenia obserwując to, co dzieje się na ulicach i chodnikach Poznania. Zarząd Dróg Miejskich zapewnia, że od niedzieli robi, co może, ale opady i niskie temperatury nie ułatwiają zadania. Niebezpiecznie jest też na drogach. Od rana w Wielkopolsce doszło do 190 kolizji. Bardzo trudne warunki są także w województwach zachodniopomorskim i lubuskim.",
+      "originalTitle": "Chodniki zmieniły się w lodowiska",
+      "originalDescription": "Łatwiej byłoby na łyżwach niż pieszo - takie można odnieść wrażenia obserwując to, co dzieje się na ulicach i chodnikach Poznania. Zarząd Dróg Miejskich zapewnia, że od niedzieli robi, co może, ale opady i niskie temperatury nie ułatwiają zadania. Niebezpiecznie jest też na drogach. Od rana w Wielkopolsce doszło do 190 kolizji. Bardzo trudne warunki są także w województwach zachodniopomorskim i lubuskim."
+    },
+    {
+      "title": "Stracił panowanie autem, z impetem wjechał w dom. Ranni",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-kierowca-wjechal-w-dom-st8868209?source=rss",
       "pubDate": "Mon, 26 Jan 2026 08:00:13 GMT",
       "description": "W poniedziałek rano w Płocku kierujący samochodem osobowym uderzył w dom. Ranne zostały trzy osoby.",
@@ -12,23 +44,23 @@
       "originalDescription": "W poniedziałek rano w Płocku kierujący samochodem osobowym uderzył w dom. Ranne zostały trzy osoby."
     },
     {
-      "title": "Zdjęcia lodu",
+      "title": "Lód piękny, ale niebezpieczny. Wasze zdjęcia",
       "link": "https://tvn24.pl/tvnmeteo/polska/lod-piekny-ale-niebezpieczny-wasze-zdjecia-st8868184?source=rss",
       "pubDate": "Mon, 26 Jan 2026 07:57:20 GMT",
-      "description": "• W poniedziałek pada marznący deszcz w dużej części kraju.\n• Marznący deszcz powoduje gołoledź.\n• Monitorowanie sytuacji odbywa się poprzez przesyłanie zdjęć ze swoich okolic.\n• Zdjęcia są przesyłane na Kontakt24.",
+      "description": "W poniedziałek w dużej części kraju pada marznący deszcz, który powoduje gołoledź. Monitorujecie sytuację, przesyłając na Kontakt24 zdjęcia i nagrania ze swoich okolic.",
       "originalTitle": "Lód piękny, ale niebezpieczny. Wasze zdjęcia",
-      "originalDescription": "W poniedziałek w dużej części kraju pada marznący deszcz, który powoduje gołoledź. Monitorujecie sytuację, przesyłając na Kontakt24 zdjęcia ze swoich okolic."
+      "originalDescription": "W poniedziałek w dużej części kraju pada marznący deszcz, który powoduje gołoledź. Monitorujecie sytuację, przesyłając na Kontakt24 zdjęcia i nagrania ze swoich okolic."
     },
     {
-      "title": "Mężczyzna ukradł puszkę WOŚP",
+      "title": "Ukradł puszkę WOŚP i kupił alkohol",
       "link": "https://tvn24.pl/lodz/warta-ukradl-puszke-wosp-za-pieniadze-z-niej-kupil-alkohol-i-artykuly-spozywcze-st8868206?source=rss",
       "pubDate": "Mon, 26 Jan 2026 07:50:01 GMT",
-      "description": "• Policjanci z Warty pod Sieradzem (Łódzkie) zatrzymali 38-latka.\n• Zatrzymany wyrwał puszkę z datkami na Wielką Orkiestrę Świątecznej Pomocy.\n• Puszkę z datkami przymocowano przy kasie jednego z marketów.",
+      "description": "Policjanci z Warty pod Sieradzem (Łódzkie) zatrzymali 38-latka, który wyrwał puszkę z datkami na Wielką Orkiestrę Świątecznej Pomocy przymocowaną przy kasie jednego z marketów.",
       "originalTitle": "Ukradł puszkę WOŚP i kupił alkohol",
       "originalDescription": "Policjanci z Warty pod Sieradzem (Łódzkie) zatrzymali 38-latka, który wyrwał puszkę z datkami na Wielką Orkiestrę Świątecznej Pomocy przymocowaną przy kasie jednego z marketów."
     },
     {
-      "title": "Zdarzenie z udziałem wolontariusza WOŚP",
+      "title": "Zaatakował wolontariusza WOŚP i zabrał mu puszkę z pieniędzmi",
       "link": "https://tvn24.pl/kujawsko-pomorskie/grudziadza-zaatakowal-wolontariusza-wosp-zabral-mu-puszke-z-pieniedzmi-st8868118?source=rss",
       "pubDate": "Mon, 26 Jan 2026 07:46:00 GMT",
       "description": "Policjanci z Grudziądza zatrzymali mężczyznę, który zaatakował wolontariusza Wielkiej Orkiestry Świątecznej Pomocy i zabrał mu puszkę z pieniędzmi.",
@@ -44,44 +76,12 @@
       "originalDescription": "W tym tygodniu Główny Urząd Statystyczny opublikuje dane dotyczące sprzedaży detalicznej, stopy bezrobocia oraz zamówień w przemyśle. W piątek uwaga analityków skupi się na wstępnym odczycie produktu krajowego brutto za 2025 rok. Ministerstwo Finansów przeprowadzi przetarg sprzedaży obligacji skarbowych oraz przedstawi plany emisji długu na kolejny miesiąc."
     },
     {
-      "title": "Zlikwidowali narkotykowe laboratorium",
+      "title": "Policja zlikwidowała laboratorium narkotykowe",
       "link": "https://tvn24.pl/wroclaw/dolny-slask-zlikwidowali-narkotykowe-laboratorium-st8868188?source=rss",
       "pubDate": "Mon, 26 Jan 2026 07:32:55 GMT",
       "description": "Funkcjonariusze Centralnego Biura Śledczego Policji zlikwidowali fabrykę syntetycznych narkotyków na Dolnym Śląsku na terenie powiatu oleśnickiego. Zatrzymali jedną osobę, przejęli ponad pół tony klofedronu.",
       "originalTitle": "Zlikwidowali narkotykowe laboratorium",
       "originalDescription": "Funkcjonariusze Centralnego Biura Śledczego Policji zlikwidowali fabrykę syntetycznych narkotyków na Dolnym Śląsku na terenie powiatu oleśnickiego. Zatrzymali jedną osobę, przejęli ponad pół tony klofedronu."
-    },
-    {
-      "title": "Sondaż zaufania do polityków. Komu rośnie, komu spada",
-      "link": "https://tvn24.pl/polska/sondaz-zaufania-nawrocki-na-czele-a-za-nim-trzech-politykow-koalicji-rzadzacej-prezydent-odnotowal-spadek-zaufania-st8868121?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 07:31:48 GMT",
-      "description": "Nadal najwięcej Polaków ufa prezydentowi Karolowi Nawrockiemu - wynika z sondażu przeprowadzonego dla Onetu przez IBRiS. Wzrosło jednak zaufanie do trzech polityków koalicji rządzącej: szefa dyplomacji, wicepremiera Radosława Sikorskiego, premiera Donalda Tuska i marszałka Sejmu Włodzimierza Czarzastego.",
-      "originalTitle": "Sondaż zaufania do polityków. Komu rośnie, komu spada",
-      "originalDescription": "Nadal najwięcej Polaków ufa prezydentowi Karolowi Nawrockiemu - wynika z sondażu przeprowadzonego dla Onetu przez IBRiS. Wzrosło jednak zaufanie do trzech polityków koalicji rządzącej: szefa dyplomacji, wicepremiera Radosława Sikorskiego, premiera Donalda Tuska i marszałka Sejmu Włodzimierza Czarzastego."
-    },
-    {
-      "title": "Alert RCB. \"Jeśli możesz, zostań w domu\".",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/alert-rcb-26-01-opady-marznace-gololedz-jesli-mozesz-zostan-w-domu-st8868160?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 07:14:40 GMT",
-      "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed opadami marznącego deszczu powodującymi gołoledź. W poniedziałek SMS-a informującego o trudnych warunkach pogodowych otrzymali mieszkańcy dwóch województw. Ponadto wciąż obowiązuje alert wydany w niedzielę.",
-      "originalTitle": "Alert RCB. \"Jeśli możesz, zostań w domu\".",
-      "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed opadami marznącego deszczu powodującymi gołoledź. W poniedziałek SMS-a informującego o trudnych warunkach pogodowych otrzymali mieszkańcy dwóch województw. Ponadto wciąż obowiązuje alert wydany w niedzielę."
-    },
-    {
-      "title": "Politycy PiS w relacjach z USA \"nie traktują Polski poważnie\". \"Jak wasala, ubogiego krewnego\"",
-      "link": "https://tvn24.pl/polska/rzecznik-rzadu-adam-szlapka-o-reakcji-politykow-pis-na-slowa-trumpa-nie-traktuja-polski-powaznie-st8868057?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 07:08:39 GMT",
-      "description": "Musimy się szanować, a tego brakuje politykom Prawa i Sprawiedliwości - powiedział w \"Jeden na jeden\" w TVN24 rzecznik rządu Adam Szłapka, komentując reakcje na słowa prezydenta USA Donalda Trumpa o członkach NATO w Afganistanie. Mówił też, czego rząd oczekiwałby w tej sytuacji od prezydenta Karola Nawrockiego oraz skomentował ostrą wymianę zdań premiera z głową państwa w mediach społecznościowych.",
-      "originalTitle": "Politycy PiS w relacjach z USA \"nie traktują Polski poważnie\". \"Jak wasala, ubogiego krewnego\"",
-      "originalDescription": "Musimy się szanować, a tego brakuje politykom Prawa i Sprawiedliwości - powiedział w \"Jeden na jeden\" w TVN24 rzecznik rządu Adam Szłapka, komentując reakcje na słowa prezydenta USA Donalda Trumpa o członkach NATO w Afganistanie. Mówił też, czego rząd oczekiwałby w tej sytuacji od prezydenta Karola Nawrockiego oraz skomentował ostrą wymianę zdań premiera z głową państwa w mediach społecznościowych."
-    },
-    {
-      "title": "Krwawy atak na boisku piłkarskim. 11 osób nie żyje",
-      "link": "https://tvn24.pl/swiat/meksyk-krwawy-atak-w-trakcie-meczu-w-salamance-zabici-i-ranni-st8868055?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 07:04:01 GMT",
-      "description": "W meksykańskim mieście Salamanca doszło do ataku uzbrojonych napastników. Zginęło 11 osób, a 12 zostało rannych. Lokalna prokuratura wszczęła dochodzenie w tej sprawie.",
-      "originalTitle": "Krwawy atak na boisku piłkarskim. 11 osób nie żyje",
-      "originalDescription": "W meksykańskim mieście Salamanca doszło do ataku uzbrojonych napastników. Zginęło 11 osób, a 12 zostało rannych. Lokalna prokuratura wszczęła dochodzenie w tej sprawie."
     }
   ]
 }
