@@ -1,29 +1,61 @@
 {
-  "lastUpdate": "2026-01-26T13:47:22.524Z",
+  "lastUpdate": "2026-01-26T14:11:08.907Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Mamdani bierze udział w odśnieżaniu",
-      "link": "https://tvn24.pl/swiat/nowy-jork-zohran-mamdani-pomaga-w-odsniezaniu-st8869409?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 13:44:59 GMT",
-      "description": "• Burmistrz Nowego Jorku to Zohran Mamdani.\n• Zohran Mamdani pomagał mieszkańcom poradzić sobie ze skutkami weekendowych opadów śniegu.\n• Został nagrany podczas odśnieżania samochodów.\n• Odśnieżanie samochodów miało miejsce w Brooklynie.",
-      "originalTitle": "Mamdani pomaga w odśnieżaniu. \"Załóż czapkę!\"",
-      "originalDescription": "Burmistrz Nowego Jorku Zohran Mamdani pomagał mieszkańcom poradzić sobie ze skutkami weekendowych opadów śniegu. Został nagrany podczas odśnieżania samochodów w Brooklynie."
+      "title": "Warunki zimowe powodują wzrost liczby urazów",
+      "link": "https://tvn24.pl/poznan/poznan-przez-gololedz-chodniki-zamienily-sie-w-lodowiska-st8868199?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 08:05:14 GMT",
+      "description": "Łatwiej byłoby na łyżwach niż pieszo - takie można odnieść wrażenia obserwując to, co dzieje się na ulicach i chodnikach Poznania. Od północy w Wielkopolsce doszło do blisko 230 kolizji. Na szpitalnych oddziałach ratunkowych w województwach: wielkopolskim, zachodniopomorskim i lubuskim wciąż pojawiają się pacjenci z urazami. - To już jest prawdziwe oblężenie - mówią medycy.",
+      "originalTitle": "Chodniki zmieniły się w lodowiska. Szpitale przeżywają oblężenie",
+      "originalDescription": "Łatwiej byłoby na łyżwach niż pieszo - takie można odnieść wrażenia obserwując to, co dzieje się na ulicach i chodnikach Poznania. Od północy w Wielkopolsce doszło do blisko 230 kolizji. Na szpitalnych oddziałach ratunkowych w województwach: wielkopolskim, zachodniopomorskim i lubuskim wciąż pojawiają się pacjenci z urazami. - To już jest prawdziwe oblężenie - mówią medycy."
     },
     {
-      "title": "Strata kilkunastu tysięcy przy lajkowaniu",
+      "title": "Wypadek na przystanku z 14-latką",
+      "link": "https://tvn24.pl/olsztyn/ostroda-czternastolatka-potraca-na-przystanku-st8869558?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 14:04:07 GMT",
+      "description": "• Kierowca wjeżdżał do zatoczki autobusowej.\n• Kierowca wpadł w poślizg.\n• Kierowca uderzył w dziewczynę stojącą na chodniku przy przystanku.\n• Dziewczyna miała 14 lat.\n• Dziewczynę przewieziono do szpitala.",
+      "originalTitle": "Potrącił stojącą na przystanku 14-latkę",
+      "originalDescription": "Kierowca, wjeżdżając do zatoczki autobusowej, wpadł w poślizg i uderzył w dziewczynę stojącą na chodniku przy przystanku. 14-latkę przewieziono do szpitala."
+    },
+    {
+      "title": "Dosypało rekordowo dużo. \"Nie ma nawet gdzie wyrzucać śniegu\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-dosypalo-rekordowo-duzo-nie-ma-nawet-gdzie-wyrzucac-sniegu-st8868744?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 14:01:32 GMT",
+      "description": "Rekordowe opady śniegu zanotowano na wyspie Hokkaido w Japonii. W Sapporo, największym mieście regionu, w dobę dosypały 54 centymetry. W weekend opóźnienia dotknęły setek pociągów.",
+      "originalTitle": "Dosypało rekordowo dużo. \"Nie ma nawet gdzie wyrzucać śniegu\"",
+      "originalDescription": "Rekordowe opady śniegu zanotowano na wyspie Hokkaido w Japonii. W Sapporo, największym mieście regionu, w dobę dosypały 54 centymetry. W weekend opóźnienia dotknęły setek pociągów."
+    },
+    {
+      "title": "Strażak i dwoje dzieci w szpitalu po pożarze drewnianego budynku",
+      "link": "https://tvn24.pl/krakow/waksmund-pozar-drewnianego-budynku-strazak-i-dwoje-dzieci-w-szpitalu-st8869484?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 14:00:02 GMT",
+      "description": "Strażak i dwoje dzieci zostało poszkodowanych w wyniku pożaru drewnianego budynku gospodarczego w Waksmundzie na Podhalu. Akcja gaśnicza trwała tam do rana.",
+      "originalTitle": "Strażak i dwoje dzieci w szpitalu po pożarze drewnianego budynku",
+      "originalDescription": "Strażak i dwoje dzieci zostało poszkodowanych w wyniku pożaru drewnianego budynku gospodarczego w Waksmundzie na Podhalu. Akcja gaśnicza trwała tam do rana."
+    },
+    {
+      "title": "Mamdani pomaga w odśnieżaniu. \"Załóż czapkę!\"",
+      "link": "https://tvn24.pl/swiat/nowy-jork-zohran-mamdani-pomaga-w-odsniezaniu-st8869409?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 13:44:59 GMT",
+      "description": "Burmistrz Nowego Jorku Zohran Mamdani pomagał mieszkańcom poradzić sobie ze skutkami weekendowych opadów śniegu. Został nagrany podczas odśnieżania samochodów w Brooklynie. Jak zauważa CNN, 34-letni polityk, którego przeciwnicy wielokrotnie kwestionowali jego doświadczenie w radzeniu sobie z sytuacją kryzysową, jest teraz pod szczególną obserwacją.",
+      "originalTitle": "Mamdani pomaga w odśnieżaniu. \"Załóż czapkę!\"",
+      "originalDescription": "Burmistrz Nowego Jorku Zohran Mamdani pomagał mieszkańcom poradzić sobie ze skutkami weekendowych opadów śniegu. Został nagrany podczas odśnieżania samochodów w Brooklynie. Jak zauważa CNN, 34-letni polityk, którego przeciwnicy wielokrotnie kwestionowali jego doświadczenie w radzeniu sobie z sytuacją kryzysową, jest teraz pod szczególną obserwacją."
+    },
+    {
+      "title": "Pieniądze za lajkowanie. Straciła kilkanaście tysięcy",
       "link": "https://tvn24.pl/biznes/pieniadze/oszustwo-zadaniowe-task-scam-co-to-jest-pieniadze-za-lajki-kobieta-stracila-kilkanascie-tysiecy-zlotych-st8868843?source=rss",
       "pubDate": "Mon, 26 Jan 2026 13:31:46 GMT",
-      "description": "• Młoda kobieta straciła 18 tysięcy złotych.\n• Kobieta padła ofiarą tak zwanego task scam, czyli oszustwa zadaniowego.\n• Oszustwo zostało opisane w artykule \"Gazety Wyborczej\".\n• Kobieta została skuszona perspektywą szybkiego i łatwego zarobku.",
+      "description": "Młoda kobieta, skuszona perspektywą szybkiego i łatwego zarobku, straciła 18 tysięcy złotych - pisze \"Gazeta Wyborcza\". Jak wyjaśnia, padła ona ofiarą tak zwanego task scam, czyli oszustwa zadaniowego.",
       "originalTitle": "Pieniądze za lajkowanie. Straciła kilkanaście tysięcy",
       "originalDescription": "Młoda kobieta, skuszona perspektywą szybkiego i łatwego zarobku, straciła 18 tysięcy złotych - pisze \"Gazeta Wyborcza\". Jak wyjaśnia, padła ona ofiarą tak zwanego task scam, czyli oszustwa zadaniowego."
     },
     {
-      "title": "Rozwój medycyny i transplantacji nerek",
+      "title": "\"Atmosfera jak przed lotem w kosmos\". Od pierwszej nerki do medycyny przyszłości",
       "link": "https://tvn24.pl/zdrowie/pierwszy-przeszczep-nerki-w-polsce-60-lat-temu-w-warszawie-zmienil-medycyne-jak-dzis-wygladaja-transplantacje-st8868903?source=rss",
       "pubDate": "Mon, 26 Jan 2026 13:31:19 GMT",
-      "description": "• 26 stycznia mija 60 lat od pierwszego udanego przeszczepu nerki w Polsce.\n• Zabieg został wykonany w 1966 roku.\n• Zabieg został wykonany w Warszawie.\n• Zabieg zapoczątkował rozwój transplantologii.\n• Zabieg na trwałe zmienił oblicze leczenia schyłkowej niewydolności narządów.\n• Polska należy do europejskiej czołówki w transplantologii.\n• Transplantologia wciąż mierzy się z deficytem narządów.\n• Transplantologia mierzy się z wyzwaniami demografii.\n• Transplantologia wymaga budowania zaufania społecznego.",
+      "description": "26 stycznia mija 60 lat od pierwszego udanego przeszczepu nerki w Polsce. Zabieg wykonany w 1966 roku w Warszawie zapoczątkował rozwój transplantologii i na trwałe zmienił oblicze leczenia schyłkowej niewydolności narządów. Dziś Polska należy do europejskiej czołówki, ale transplantologia wciąż mierzy się z deficytem narządów, wyzwaniami demografii i koniecznością budowania zaufania społecznego.",
       "originalTitle": "\"Atmosfera jak przed lotem w kosmos\". Od pierwszej nerki do medycyny przyszłości",
       "originalDescription": "26 stycznia mija 60 lat od pierwszego udanego przeszczepu nerki w Polsce. Zabieg wykonany w 1966 roku w Warszawie zapoczątkował rozwój transplantologii i na trwałe zmienił oblicze leczenia schyłkowej niewydolności narządów. Dziś Polska należy do europejskiej czołówki, ale transplantologia wciąż mierzy się z deficytem narządów, wyzwaniami demografii i koniecznością budowania zaufania społecznego."
     },
@@ -36,7 +68,7 @@
       "originalDescription": "51-letni mieszkaniec Skierniewic (Łódzkie) przyjechał do miejscowej komendy złożyć zawiadomienie. Jak się okazało, miał 1,5 promila alkoholu w organizmie."
     },
     {
-      "title": "Sikorski u Nawrockiego",
+      "title": "Spotkanie Sikorskiego z Nawrockim",
       "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-radoslawem-sikorskim-w-palacu-prezydenckim-st8869211?source=rss",
       "pubDate": "Mon, 26 Jan 2026 13:08:07 GMT",
       "description": "W Pałacu Prezydenckim pojawił się szef MSZ Radosław Sikorski. Z prezydentem Karolem Nawrockim ma rozmawiać między innymi o ambasadorach, ale nie tylko.",
@@ -50,38 +82,6 @@
       "description": "W Elblągu samochód osobowy zderzył się z autobusem miejskim. Autobus wjechał do rowu. Dwie osoby trafiły do szpitala. To kierowcy.",
       "originalTitle": "Autobus miejski w rowie, są poszkodowani",
       "originalDescription": "W Elblągu samochód osobowy zderzył się z autobusem miejskim. Autobus wjechał do rowu. Dwie osoby trafiły do szpitala. To kierowcy."
-    },
-    {
-      "title": "Twierdził, że uderzyła się podczas nauki chodzenia. Matka dziewczynki i jej partner zatrzymani",
-      "link": "https://tvn24.pl/trojmiasto/lebork-dziewczynka-miala-uderzyc-sie-w-glowe-podczas-nauki-chodzenia-matka-i-konkubent-trafili-do-aresztu-st8869082?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 12:57:28 GMT",
-      "description": "Dziewczynka miała siniaki na twarzy. Partner matki dziecka tłumaczył, że spadła z łóżeczka i przewróciła się podczas nauki chodzenia. Pracownica socjalna nie uwierzyła, wezwała policję. 22-latek i 19-letnia matka dziecka zostali zatrzymani.",
-      "originalTitle": "Twierdził, że uderzyła się podczas nauki chodzenia. Matka dziewczynki i jej partner zatrzymani",
-      "originalDescription": "Dziewczynka miała siniaki na twarzy. Partner matki dziecka tłumaczył, że spadła z łóżeczka i przewróciła się podczas nauki chodzenia. Pracownica socjalna nie uwierzyła, wezwała policję. 22-latek i 19-letnia matka dziecka zostali zatrzymani."
-    },
-    {
-      "title": "To \"najbardziej niebezpieczni uczestnicy ruchu drogowego\". Żurek zapowiada \"reakcję państwa\"",
-      "link": "https://tvn24.pl/polska/waldemar-zurek-o-najbardziej-niebezpiecznych-uczestnikach-ruchu-drogowego-zapowiada-reakcje-panstwa-st8868923?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 12:55:33 GMT",
-      "description": "W tej statystyce jesteśmy na jednym z najgorszych miejsc - mówił minister sprawiedliwości, prokurator generalny Waldemar Żurek, odnosząc się do liczby ofiar wypadków drogowych w kraju i za granicą. Zapowiedział \"realną reakcję państwa\" w sprawie grupy, którą nazwał \"najbardziej niebezpieczną\".",
-      "originalTitle": "To \"najbardziej niebezpieczni uczestnicy ruchu drogowego\". Żurek zapowiada \"reakcję państwa\"",
-      "originalDescription": "W tej statystyce jesteśmy na jednym z najgorszych miejsc - mówił minister sprawiedliwości, prokurator generalny Waldemar Żurek, odnosząc się do liczby ofiar wypadków drogowych w kraju i za granicą. Zapowiedział \"realną reakcję państwa\" w sprawie grupy, którą nazwał \"najbardziej niebezpieczną\"."
-    },
-    {
-      "title": "Wojskowa orkiestra i sierżant Kryszak z hitem Finału WOŚP. Wcześniej tubistka zagrała w przeboju Rosalii",
-      "link": "https://tvn24.pl/wosp2026/34-final-wosp-2026-wystep-wojskowej-orkiestry-hitem-w-sieci-tubistka-justyna-kryszak-zachwycila-internautow-st8868795?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 12:55:14 GMT",
-      "description": "Niezwykle energetyczny koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego podczas 34. Finału WOŚP 2026 na wrocławskim Rynku szybko staje się hitem w sieci. Duża w tym zasługa sierżant Justyny Kryszak. - Wczorajszy występ to coś niesamowitego - mówi nam tubistka. Jak się okazuje, możemy ją zobaczyć i usłyszeć także w jednym z największych światowych hitów ostatnich miesięcy.",
-      "originalTitle": "Wojskowa orkiestra i sierżant Kryszak z hitem Finału WOŚP. Wcześniej tubistka zagrała w przeboju Rosalii",
-      "originalDescription": "Niezwykle energetyczny koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego podczas 34. Finału WOŚP 2026 na wrocławskim Rynku szybko staje się hitem w sieci. Duża w tym zasługa sierżant Justyny Kryszak. - Wczorajszy występ to coś niesamowitego - mówi nam tubistka. Jak się okazuje, możemy ją zobaczyć i usłyszeć także w jednym z największych światowych hitów ostatnich miesięcy."
-    },
-    {
-      "title": "Alpakom zima niestraszna. Mają \"naturalną kurtkę\" z oddychającej wełny",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-samiec-alpaki-nowy-mieszkaniec-zoo-st8868864?source=rss",
-      "pubDate": "Mon, 26 Jan 2026 12:46:01 GMT",
-      "description": "W warszawskim ogrodzie zoologicznym na świat przyszedł samczyk alpaki. Maluch świetnie radzi sobie z panującą zimą. Zoo ogłosiło konkurs na imię dla nowego mieszkańca.",
-      "originalTitle": "Alpakom zima niestraszna. Mają \"naturalną kurtkę\" z oddychającej wełny",
-      "originalDescription": "W warszawskim ogrodzie zoologicznym na świat przyszedł samczyk alpaki. Maluch świetnie radzi sobie z panującą zimą. Zoo ogłosiło konkurs na imię dla nowego mieszkańca."
     }
   ]
 }
