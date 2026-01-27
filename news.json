@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-01-27T08:09:26.984Z",
+  "lastUpdate": "2026-01-27T08:45:54.387Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Temperatura sięga 49 stopni, wzrasta ryzyko pożarów",
+      "title": "Znaleziono zwłoki mężczyzny, w mieszkaniu blender i maczeta",
+      "link": "https://tvn24.pl/lodz/lodz-brutalne-zabojstwo-mezczyzny-w-mieszkaniu-znaleziono-blender-i-maczete-st8870446?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 08:39:11 GMT",
+      "description": "• Zarzut zabójstwa usłyszał 54-latek z Łodzi.\n• 54-latek zadał siedem ciosów w głowę maczetą 64-letniemu mężczyźnie.\n• Ofiarą morderstwa był 64-letni mężczyzna.\n• Podejrzany o brutalne morderstwo został tymczasowo aresztowany.\n• Aresztowanie podejrzanego jest na okres trzech miesiący.",
+      "originalTitle": "Brutalne zabójstwo mężczyzny. W mieszkaniu znaleziono blender i maczetę",
+      "originalDescription": "Zarzut zabójstwa usłyszał 54-latek z Łodzi, który zadał siedem ciosów w głowę maczetą 64-letniemu mężczyźnie. Podejrzany o brutalne morderstwo został tymczasowo aresztowany na trzy miesiące."
+    },
+    {
+      "title": "Poszukiwania nastolatki w morzu",
+      "link": "https://tvn24.pl/swiat/malta-poszukuja-nastolatki-ktora-wpadla-do-morza-media-to-polka-st8870315?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 08:37:52 GMT",
+      "description": "Trwają poszukiwania 13-latki, która wpadła do morza w trakcie pobytu na Malcie. Dziewczyna miała zostać porwana przez wzburzone fale w trakcie spaceru po nabrzeżu. Maltańskie media podają, że poszukiwana nastolatka to Polka. Do wody wpadł także jej brat, którego udało się uratować. O potwierdzenie tych doniesień zapytaliśmy Ministerstwo Spraw Zagranicznych.",
+      "originalTitle": "Poszukują nastolatki, która wpadła do morza. Maltańskie media: to Polka",
+      "originalDescription": "Trwają poszukiwania 13-latki, która wpadła do morza w trakcie pobytu na Malcie. Dziewczyna miała zostać porwana przez wzburzone fale w trakcie spaceru po nabrzeżu. Maltańskie media podają, że poszukiwana nastolatka to Polka. Do wody wpadł także jej brat, którego udało się uratować. O potwierdzenie tych doniesień zapytaliśmy Ministerstwo Spraw Zagranicznych."
+    },
+    {
+      "title": "Tramwaje w Szczecinie zawieszone",
+      "link": "https://tvn24.pl/szczecin/szczecin-tramwaje-nie-kursuja-utrudnienia-po-marznacych-opadach-st8870334?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 08:31:37 GMT",
+      "description": "Trudne warunki pogodowe sparaliżowały szczecińską komunikację tramwajową. Od poniedziałku tramwaje nie kursują z powodu oblodzonej sieci trakcyjnej, a miasto uruchomiło autobusową komunikację zastępczą. Mimo utrudnień zajęcia w szkołach odbywają się zgodnie z planem.",
+      "originalTitle": "Tramwaje w Szczecinie nie kursują. Utrudnienia po marznących opadach",
+      "originalDescription": "Trudne warunki pogodowe sparaliżowały szczecińską komunikację tramwajową. Od poniedziałku tramwaje nie kursują z powodu oblodzonej sieci trakcyjnej, a miasto uruchomiło autobusową komunikację zastępczą. Mimo utrudnień zajęcia w szkołach odbywają się zgodnie z planem."
+    },
+    {
+      "title": "Oszustwa z użyciem głosów i twarzy",
+      "link": "https://tvn24.pl/biznes/tech/prezes-uodo-o-ai-ostrzega-ze-obecne-prawo-nie-chroni-danych-osobowych-st8870311?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 08:27:43 GMT",
+      "description": "Prezes Urzędu Ochrony Danych Osobowych Mirosław Wróblewski ostrzega, że dynamiczny rozwój sztucznej inteligencji, w tym technologii deepfake, obnaża słabości obowiązujących przepisów o ochronie danych i wizerunku. Według niego, państwo musi pilnie dostosować prawo i praktykę jego stosowania do realnych zagrożeń, zanim naruszenia prywatności i godności staną się powszechne i bezkarne.",
+      "originalTitle": "Kradnie twarze i głosy, prawo zostaje w tyle. \"Poważne skutki\"",
+      "originalDescription": "Prezes Urzędu Ochrony Danych Osobowych Mirosław Wróblewski ostrzega, że dynamiczny rozwój sztucznej inteligencji, w tym technologii deepfake, obnaża słabości obowiązujących przepisów o ochronie danych i wizerunku. Według niego, państwo musi pilnie dostosować prawo i praktykę jego stosowania do realnych zagrożeń, zanim naruszenia prywatności i godności staną się powszechne i bezkarne."
+    },
+    {
+      "title": "Napastnik z Ustki opuszczający SOP",
+      "link": "https://tvn24.pl/szczecin/ustka-funkcjonariusz-sop-zaatakowal-rodzine-zostanie-wydalony-ze-sluzby-st8870401?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 08:10:26 GMT",
+      "description": "Po ataku nożownika w Ustce nie żyje czteroletnia dziewczynka, a cztery osoby zostały ranne. Ranny jest również napastnik - 44-letni funkcjonariusz SOP. Został zatrzymany, a rzecznik formacji zapowiedział jego wydalenie ze służby.",
+      "originalTitle": "Napastnik z Ustki zostanie wydalony ze służby w Służbie Ochrony Państwa",
+      "originalDescription": "Po ataku nożownika w Ustce nie żyje czteroletnia dziewczynka, a cztery osoby zostały ranne. Ranny jest również napastnik - 44-letni funkcjonariusz SOP. Został zatrzymany, a rzecznik formacji zapowiedział jego wydalenie ze służby."
+    },
+    {
+      "title": "Prawie 50 stopni na termometrach. Każda iskra może wywołać pożar",
       "link": "https://tvn24.pl/tvnmeteo/swiat/australia-prawie-50-stopni-na-termometrach-kazda-iskra-moze-wywolac-pozar-st8870337?source=rss",
       "pubDate": "Tue, 27 Jan 2026 08:01:29 GMT",
-      "description": "• Fala upałów w Australii drastycznie zwiększyła zagrożenie pożarowe.\n• W stanie Wiktoria we wtorek zanotowano rekordową temperaturę maksymalną.\n• Rekordowa temperatura maksymalna w stanie Wiktoria wyniosła 48,9 stopnia Celsjusza.\n• W Queensland jeden z pożarów został zapoczątkowany przez katastrofę samolotu.",
+      "description": "Fala upałów w Australii drastycznie zwiększyła zagrożenie pożarowe. W stanie Wiktoria we wtorek zanotowano rekordową temperaturę maksymalną - wzrosła ona do 48,9 stopnia Celsjusza. W Queensland jeden z pożarów został zapoczątkowany przez katastrofę samolotu.",
       "originalTitle": "Prawie 50 stopni na termometrach. Każda iskra może wywołać pożar",
       "originalDescription": "Fala upałów w Australii drastycznie zwiększyła zagrożenie pożarowe. W stanie Wiktoria we wtorek zanotowano rekordową temperaturę maksymalną - wzrosła ona do 48,9 stopnia Celsjusza. W Queensland jeden z pożarów został zapoczątkowany przez katastrofę samolotu."
     },
     {
-      "title": "Zabójstwo członków rodziny, podejrzany funkcjonariusz SOP",
+      "title": "Atak nożem na członków rodziny. Nie żyje czteroletnie dziecko. Sprawcą funkcjonariusz SOP",
       "link": "https://tvn24.pl/trojmiasto/ustka-funkcjonariusz-sop-zaatakowal-rodzine-nozem-nie-zyje-dziecko-st8870239?source=rss",
       "pubDate": "Tue, 27 Jan 2026 05:28:59 GMT",
-      "description": "• W jednym z mieszkań w Ustce doszło do ataku nożem.\n• Ofiarami ataku byli członkowie rodziny.\n• Wśród zaatakowanych była dwójka dzieci.\n• Jedno z dzieci, czteroletnia dziewczynka, nie przeżyła ataku.\n• Drugie dziecko nie odnios��o poważniejszych obrażeń.\n• Ranne są dwie kobiety.\n• Ranny jest również starszy mężczyzna.\n• Sam napastnik również jest ranny.\n• Sprawcą ataku jest 44-letni mężczyzna.\n• Mężczyzna jest funkcjonariuszem Służby Ochrony Państwa.\n• Informacje o ataku przekazał rzecznik słupskiej policji.\n• Rzecznik słupskiej policji przekazał informacje we wtorek.",
+      "description": "W jednym z mieszkań w Ustce 44-letni mężczyzna zaatakował nożem członków rodziny. Wśród zaatakowanych była dwójka dzieci. Jednego z nich - czteroletniej dziewczynki - nie udało się uratować. Drugie nie odniosło poważniejszych obrażeń. Ranne są dwie kobiety, starszy mężczyzna oraz sam napastnik. Jak przekazał we wtorek rzecznik słupskiej policji, sprawca to funkcjonariusz Służby Ochrony Państwa.",
       "originalTitle": "Atak nożem na członków rodziny. Nie żyje czteroletnie dziecko. Sprawcą funkcjonariusz SOP",
       "originalDescription": "W jednym z mieszkań w Ustce 44-letni mężczyzna zaatakował nożem członków rodziny. Wśród zaatakowanych była dwójka dzieci. Jednego z nich - czteroletniej dziewczynki - nie udało się uratować. Drugie nie odniosło poważniejszych obrażeń. Ranne są dwie kobiety, starszy mężczyzna oraz sam napastnik. Jak przekazał we wtorek rzecznik słupskiej policji, sprawca to funkcjonariusz Służby Ochrony Państwa."
     },
     {
-      "title": "Wyniki badań ciała Polki",
+      "title": "Ciało zaginionej Polki w plastikowych workach. Przedstawiono wyniki badań",
       "link": "https://tvn24.pl/swiat/wielka-brytania-cialo-zaginionej-polki-w-plastikowych-workach-w-sadzie-przedstawiono-wyniki-badan-st8870305?source=rss",
       "pubDate": "Tue, 27 Jan 2026 07:54:26 GMT",
       "description": "Przed sądem w Derby odbyła się kolejna rozprawa w procesie o brutalne morderstwo Izabeli Zabłockiej, która zaginęła w 2010 roku w Wielkiej Brytanii. Oskarżona jest jej była partnerka. Kobieta zaprzecza zarzutowi morderstwa. Ciało Polki znaleziono w ogrodzie w plastikowych workach.",
@@ -42,46 +82,6 @@
       "description": "65-latek z Portugalii zażartował na krakowskim lotnisku, że w walizce ma bombę. Wywołał tym konieczność reakcji pirotechników i został ukarany mandatem. Nie wszedł też na pokład samolotu.",
       "originalTitle": "Żart na lotnisku postawił na nogi służby",
       "originalDescription": "65-latek z Portugalii zażartował na krakowskim lotnisku, że w walizce ma bombę. Wywołał tym konieczność reakcji pirotechników i został ukarany mandatem. Nie wszedł też na pokład samolotu."
-    },
-    {
-      "title": "Są korzystniejsze od lokat bankowych. \"Polacy nie lubią ryzyka\"",
-      "link": "https://tvn24.pl/biznes/pieniadze/ekspert-o-obligacjach-beda-slabsze-niz-w-2025-r-ale-bardziej-oplacalne-niz-lokaty-bankowe-st8870277?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 07:39:32 GMT",
-      "description": "Detaliczne obligacje skarbowe wciąż pozostają atrakcyjniejszą formą oszczędzania niż bankowe lokaty. Jak ocenia dr Kamil Gemra ze Szkoły Głównej Handlowej, państwo nadal skutecznie konkuruje z bankami o pieniądze Polaków, a obligacje pozostają bezpiecznym schronieniem dla ostrożnych inwestorów.",
-      "originalTitle": "Są korzystniejsze od lokat bankowych. \"Polacy nie lubią ryzyka\"",
-      "originalDescription": "Detaliczne obligacje skarbowe wciąż pozostają atrakcyjniejszą formą oszczędzania niż bankowe lokaty. Jak ocenia dr Kamil Gemra ze Szkoły Głównej Handlowej, państwo nadal skutecznie konkuruje z bankami o pieniądze Polaków, a obligacje pozostają bezpiecznym schronieniem dla ostrożnych inwestorów."
-    },
-    {
-      "title": "Te dane, to \"poważny sygnał alarmowy\". Ministerstwa zapowiadają zmiany",
-      "link": "https://tvn24.pl/polska/te-dane-to-powazny-sygnal-alarmowy-ministerstwa-zapowiadaja-zmiany-st8870208?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 07:29:48 GMT",
-      "description": "Najczęściej są ofiarami jakiegoś rodzaju przemocy, najczęściej wcześniej komunikują, że w ich życiu źle się dzieje. Ich odejście pozostawia wielką pustkę. Według najnowszych danych Komendy Głównej Policji wśród Polaków liczba samobójstw spada, ale w grupie dzieci i młodzieży jest przeciwnie. - To jest poważny sygnał alarmowy, tym bardziej, że przez dwa ostatnie lata mieliśmy spadki - mówi ekspertka, doktor Halszka Witkowska, a resorty edukacji i zdrowia zapowiadają zmiany. Materiał magazynu \"Polska i Świat\".",
-      "originalTitle": "Te dane, to \"poważny sygnał alarmowy\". Ministerstwa zapowiadają zmiany",
-      "originalDescription": "Najczęściej są ofiarami jakiegoś rodzaju przemocy, najczęściej wcześniej komunikują, że w ich życiu źle się dzieje. Ich odejście pozostawia wielką pustkę. Według najnowszych danych Komendy Głównej Policji wśród Polaków liczba samobójstw spada, ale w grupie dzieci i młodzieży jest przeciwnie. - To jest poważny sygnał alarmowy, tym bardziej, że przez dwa ostatnie lata mieliśmy spadki - mówi ekspertka, doktor Halszka Witkowska, a resorty edukacji i zdrowia zapowiadają zmiany. Materiał magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Rekordowa sprawa karna. Tysiąc sześćset tomów akt przywiezione ciężarówką i tylko jeden sędzia",
-      "link": "https://tvn24.pl/olsztyn/olsztyn-rekordowa-sprawa-karna-tysiac-szescset-tomow-akt-przywiezione-ciezarowka-i-tylko-jeden-sedzia-st8870297?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 07:17:41 GMT",
-      "description": "Rekordowa sprawa karna przed Sądem Okręgowym w Olsztynie. Wpłynął tam akt oskarżenia dotyczący zorganizowanej grupy przestępczej, który obejmuje materiał dowodowy liczący blisko tysiąc sześćset tomów akt. Do sprawy został wyznaczony tylko jeden sędzia.",
-      "originalTitle": "Rekordowa sprawa karna. Tysiąc sześćset tomów akt przywiezione ciężarówką i tylko jeden sędzia",
-      "originalDescription": "Rekordowa sprawa karna przed Sądem Okręgowym w Olsztynie. Wpłynął tam akt oskarżenia dotyczący zorganizowanej grupy przestępczej, który obejmuje materiał dowodowy liczący blisko tysiąc sześćset tomów akt. Do sprawy został wyznaczony tylko jeden sędzia."
-    },
-    {
-      "title": "Historyczna umowa. \"Stworzyliśmy strefę wolnego handlu dla dwóch miliardów ludzi\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/historyczna-umowa-stworzylismy-strefe-wolnego-handlu-dla-dwoch-miliardow-ludzi-st8870318?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 07:03:00 GMT",
-      "description": "Unia Europejska i Indie zakończyły negocjacje umowy o wolnym handlu - poinformowała we wtorek Komisja Europejska. Według niej Indie będą stopniowo znosić wysokie cła na europejskie towary przemysłowe, na przykład stawki na samochody mają zostać obniżone ze 110 procent do 10 procent.",
-      "originalTitle": "Historyczna umowa. \"Stworzyliśmy strefę wolnego handlu dla dwóch miliardów ludzi\"",
-      "originalDescription": "Unia Europejska i Indie zakończyły negocjacje umowy o wolnym handlu - poinformowała we wtorek Komisja Europejska. Według niej Indie będą stopniowo znosić wysokie cła na europejskie towary przemysłowe, na przykład stawki na samochody mają zostać obniżone ze 110 procent do 10 procent."
-    },
-    {
-      "title": "Śnieżyce w USA. Bilans ofiar wciąż rośnie",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-potezny-atak-zimy-nie-zyje-kilkanascie-osob-st8868080?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 06:52:00 GMT",
-      "description": "Nawet 21 osób mogło zginąć na skutek zimowej burzy, która przetoczyła się nad Stanami Zjednoczonymi. W większości regionów rozpoczęło się usuwanie skutków śnieżyc i gołoledzi, ale sytuacji nie ułatwiają niskie temperatury. Ponad pół miliona odbiorców wciąż pozostaje bez dostępu do prądu.",
-      "originalTitle": "Śnieżyce w USA. Bilans ofiar wciąż rośnie",
-      "originalDescription": "Nawet 21 osób mogło zginąć na skutek zimowej burzy, która przetoczyła się nad Stanami Zjednoczonymi. W większości regionów rozpoczęło się usuwanie skutków śnieżyc i gołoledzi, ale sytuacji nie ułatwiają niskie temperatury. Ponad pół miliona odbiorców wciąż pozostaje bez dostępu do prądu."
     }
   ]
 }
