@@ -1,39 +1,63 @@
 {
-  "lastUpdate": "2026-01-27T07:40:56.359Z",
+  "lastUpdate": "2026-01-27T08:09:26.984Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Inwestycje alternatywne dla lokat",
+      "title": "Temperatura sięga 49 stopni, wzrasta ryzyko pożarów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/australia-prawie-50-stopni-na-termometrach-kazda-iskra-moze-wywolac-pozar-st8870337?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 08:01:29 GMT",
+      "description": "• Fala upałów w Australii drastycznie zwiększyła zagrożenie pożarowe.\n• W stanie Wiktoria we wtorek zanotowano rekordową temperaturę maksymalną.\n• Rekordowa temperatura maksymalna w stanie Wiktoria wyniosła 48,9 stopnia Celsjusza.\n• W Queensland jeden z pożarów został zapoczątkowany przez katastrofę samolotu.",
+      "originalTitle": "Prawie 50 stopni na termometrach. Każda iskra może wywołać pożar",
+      "originalDescription": "Fala upałów w Australii drastycznie zwiększyła zagrożenie pożarowe. W stanie Wiktoria we wtorek zanotowano rekordową temperaturę maksymalną - wzrosła ona do 48,9 stopnia Celsjusza. W Queensland jeden z pożarów został zapoczątkowany przez katastrofę samolotu."
+    },
+    {
+      "title": "Zabójstwo członków rodziny, podejrzany funkcjonariusz SOP",
+      "link": "https://tvn24.pl/trojmiasto/ustka-funkcjonariusz-sop-zaatakowal-rodzine-nozem-nie-zyje-dziecko-st8870239?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 05:28:59 GMT",
+      "description": "• W jednym z mieszkań w Ustce doszło do ataku nożem.\n• Ofiarami ataku byli członkowie rodziny.\n• Wśród zaatakowanych była dwójka dzieci.\n• Jedno z dzieci, czteroletnia dziewczynka, nie przeżyła ataku.\n• Drugie dziecko nie odnios��o poważniejszych obrażeń.\n• Ranne są dwie kobiety.\n• Ranny jest również starszy mężczyzna.\n• Sam napastnik również jest ranny.\n• Sprawcą ataku jest 44-letni mężczyzna.\n• Mężczyzna jest funkcjonariuszem Służby Ochrony Państwa.\n• Informacje o ataku przekazał rzecznik słupskiej policji.\n• Rzecznik słupskiej policji przekazał informacje we wtorek.",
+      "originalTitle": "Atak nożem na członków rodziny. Nie żyje czteroletnie dziecko. Sprawcą funkcjonariusz SOP",
+      "originalDescription": "W jednym z mieszkań w Ustce 44-letni mężczyzna zaatakował nożem członków rodziny. Wśród zaatakowanych była dwójka dzieci. Jednego z nich - czteroletniej dziewczynki - nie udało się uratować. Drugie nie odniosło poważniejszych obrażeń. Ranne są dwie kobiety, starszy mężczyzna oraz sam napastnik. Jak przekazał we wtorek rzecznik słupskiej policji, sprawca to funkcjonariusz Służby Ochrony Państwa."
+    },
+    {
+      "title": "Wyniki badań ciała Polki",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-cialo-zaginionej-polki-w-plastikowych-workach-w-sadzie-przedstawiono-wyniki-badan-st8870305?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 07:54:26 GMT",
+      "description": "Przed sądem w Derby odbyła się kolejna rozprawa w procesie o brutalne morderstwo Izabeli Zabłockiej, która zaginęła w 2010 roku w Wielkiej Brytanii. Oskarżona jest jej była partnerka. Kobieta zaprzecza zarzutowi morderstwa. Ciało Polki znaleziono w ogrodzie w plastikowych workach.",
+      "originalTitle": "Ciało zaginionej Polki w plastikowych workach. Przedstawiono wyniki badań",
+      "originalDescription": "Przed sądem w Derby odbyła się kolejna rozprawa w procesie o brutalne morderstwo Izabeli Zabłockiej, która zaginęła w 2010 roku w Wielkiej Brytanii. Oskarżona jest jej była partnerka. Kobieta zaprzecza zarzutowi morderstwa. Ciało Polki znaleziono w ogrodzie w plastikowych workach."
+    },
+    {
+      "title": "Zaatakowali 16-latka maczetą i okradli. Policjanci zatrzymali drugiego z napastników",
+      "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-mieli-przedmiot-przypominajacy-maczete-napadli-w-parku-na-16-latka-st8861176?source=rss",
+      "pubDate": "Wed, 21 Jan 2026 16:23:19 GMT",
+      "description": "Mieli maczetę, napadli 16-latka i zabrali mu saszetkę z gotówką i dokumentami. Policjanci zatrzymali podejrzanego o udział w rozboju 14-latka. Kilka dni później drugi z napastników, 15-latek, również wpadł w ich ręce.",
+      "originalTitle": "Zaatakowali 16-latka maczetą i okradli. Policjanci zatrzymali drugiego z napastników",
+      "originalDescription": "Mieli maczetę, napadli 16-latka i zabrali mu saszetkę z gotówką i dokumentami. Policjanci zatrzymali podejrzanego o udział w rozboju 14-latka. Kilka dni później drugi z napastników, 15-latek, również wpadł w ich ręce."
+    },
+    {
+      "title": "Żart na lotnisku postawił na nogi służby",
+      "link": "https://tvn24.pl/krakow/krakow-lotnisko-zart-o-bombie-zakonczony-akcja-strazy-granicznej-st8870336?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 07:51:43 GMT",
+      "description": "65-latek z Portugalii zażartował na krakowskim lotnisku, że w walizce ma bombę. Wywołał tym konieczność reakcji pirotechników i został ukarany mandatem. Nie wszedł też na pokład samolotu.",
+      "originalTitle": "Żart na lotnisku postawił na nogi służby",
+      "originalDescription": "65-latek z Portugalii zażartował na krakowskim lotnisku, że w walizce ma bombę. Wywołał tym konieczność reakcji pirotechników i został ukarany mandatem. Nie wszedł też na pokład samolotu."
+    },
+    {
+      "title": "Są korzystniejsze od lokat bankowych. \"Polacy nie lubią ryzyka\"",
       "link": "https://tvn24.pl/biznes/pieniadze/ekspert-o-obligacjach-beda-slabsze-niz-w-2025-r-ale-bardziej-oplacalne-niz-lokaty-bankowe-st8870277?source=rss",
       "pubDate": "Tue, 27 Jan 2026 07:39:32 GMT",
-      "description": "• Detaliczne obligacje skarbowe wciąż pozostają atrakcyjniejszą formą oszczędzania niż bankowe lokaty.\n• Państwo nadal skutecznie konkuruje z bankami o pieniądze Polaków.\n• Obligacje pozostają bezpiecznym schronieniem dla ostrożnych inwestorów.\n• Dr Kamil Gemra ze Szkoły Głównej Handlowej ocenia, że państwo skutecznie konkuruje z bankami o pieniądze Polaków.",
+      "description": "Detaliczne obligacje skarbowe wciąż pozostają atrakcyjniejszą formą oszczędzania niż bankowe lokaty. Jak ocenia dr Kamil Gemra ze Szkoły Głównej Handlowej, państwo nadal skutecznie konkuruje z bankami o pieniądze Polaków, a obligacje pozostają bezpiecznym schronieniem dla ostrożnych inwestorów.",
       "originalTitle": "Są korzystniejsze od lokat bankowych. \"Polacy nie lubią ryzyka\"",
       "originalDescription": "Detaliczne obligacje skarbowe wciąż pozostają atrakcyjniejszą formą oszczędzania niż bankowe lokaty. Jak ocenia dr Kamil Gemra ze Szkoły Głównej Handlowej, państwo nadal skutecznie konkuruje z bankami o pieniądze Polaków, a obligacje pozostają bezpiecznym schronieniem dla ostrożnych inwestorów."
     },
     {
-      "title": "Ministerstwa zapowiadają zmiany",
+      "title": "Te dane, to \"poważny sygnał alarmowy\". Ministerstwa zapowiadają zmiany",
       "link": "https://tvn24.pl/polska/te-dane-to-powazny-sygnal-alarmowy-ministerstwa-zapowiadaja-zmiany-st8870208?source=rss",
       "pubDate": "Tue, 27 Jan 2026 07:29:48 GMT",
-      "description": "• Najczęściej są ofiarami jakiegoś rodzaju przemocy.\n• Najczęściej wcześniej komunikują, że w ich życiu źle się dzieje.\n• Ich odejście pozostawia wielką pustkę.\n• Według najnowszych danych Komendy Głównej Policji wśród Polaków liczba samobójstw spada.\n• W grupie dzieci i młodzieży liczba samobójstw jest przeciwnie.\n• To jest poważny sygnał alarmowy.\n• Przez dwa ostatnie lata mieliśmy spadki.\n• Ekspertka, doktor Halszka Witkowska, komentuje tę sytuację.\n• Resorty edukacji i zdrowia zapowiadają zmiany.\n• Materiał pochodzi z magazynu \"Polska i Świat\".",
+      "description": "Najczęściej są ofiarami jakiegoś rodzaju przemocy, najczęściej wcześniej komunikują, że w ich życiu źle się dzieje. Ich odejście pozostawia wielką pustkę. Według najnowszych danych Komendy Głównej Policji wśród Polaków liczba samobójstw spada, ale w grupie dzieci i młodzieży jest przeciwnie. - To jest poważny sygnał alarmowy, tym bardziej, że przez dwa ostatnie lata mieliśmy spadki - mówi ekspertka, doktor Halszka Witkowska, a resorty edukacji i zdrowia zapowiadają zmiany. Materiał magazynu \"Polska i Świat\".",
       "originalTitle": "Te dane, to \"poważny sygnał alarmowy\". Ministerstwa zapowiadają zmiany",
       "originalDescription": "Najczęściej są ofiarami jakiegoś rodzaju przemocy, najczęściej wcześniej komunikują, że w ich życiu źle się dzieje. Ich odejście pozostawia wielką pustkę. Według najnowszych danych Komendy Głównej Policji wśród Polaków liczba samobójstw spada, ale w grupie dzieci i młodzieży jest przeciwnie. - To jest poważny sygnał alarmowy, tym bardziej, że przez dwa ostatnie lata mieliśmy spadki - mówi ekspertka, doktor Halszka Witkowska, a resorty edukacji i zdrowia zapowiadają zmiany. Materiał magazynu \"Polska i Świat\"."
-    },
-    {
-      "title": "Zdarzenie z użyciem noża, ofiara 4-latka, sprawca funkcjonariusz SOP",
-      "link": "https://tvn24.pl/trojmiasto/ustka-funkcjonariusz-sop-zaatakowal-rodzine-nozem-nie-zyje-dziecko-st8870239?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 05:28:59 GMT",
-      "description": "W jednym z mieszkań w Ustce 44-letni mężczyzna zaatakował nożem członków rodziny. Pięć osób, w tym napastnik, odniosło rany. Wśród zaatakowanych była dwójka dzieci. Jednego z nich nie udało się uratować. Drugie nie odniosło poważniejszych obrażeń.",
-      "originalTitle": "Atak nożem na członków rodziny. Nie żyje czteroletnie dziecko. Sprawcą funkcjonariusz SOP",
-      "originalDescription": "W jednym z mieszkań w Ustce 44-letni mężczyzna zaatakował nożem członków rodziny. Pięć osób, w tym napastnik, odniosło rany. Wśród zaatakowanych była dwójka dzieci. Jednego z nich nie udało się uratować. Drugie nie odniosło poważniejszych obrażeń."
-    },
-    {
-      "title": "Stanowisko MON w sprawie reakcji prezydenta",
-      "link": "https://tvn24.pl/polska/szef-mon-rozczarowany-reakcja-prezydenta-mozna-zrobic-wiecej-st8870284?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 07:17:46 GMT",
-      "description": "Relacje prezydenta Karola Nawrockiego z prezydentem Donalda Trumpem są bardzo dobre, więc jest miejsce do tego, żeby zwrócić uwagę - powiedział wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz w \"Jeden na jeden\" w TVN24. Był pytany o reakcję głowy państwa na komentarz amerykańskiego przywódcy, który umniejszył roli sojuszników z NATO w Afganistanie.",
-      "originalTitle": "Szef MON rozczarowany reakcją prezydenta? \"Można zrobić więcej\"",
-      "originalDescription": "Relacje prezydenta Karola Nawrockiego z prezydentem Donalda Trumpem są bardzo dobre, więc jest miejsce do tego, żeby zwrócić uwagę - powiedział wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz w \"Jeden na jeden\" w TVN24. Był pytany o reakcję głowy państwa na komentarz amerykańskiego przywódcy, który umniejszył roli sojuszników z NATO w Afganistanie."
     },
     {
       "title": "Rekordowa sprawa karna. Tysiąc sześćset tomów akt przywiezione ciężarówką i tylko jeden sędzia",
@@ -58,30 +82,6 @@
       "description": "Nawet 21 osób mogło zginąć na skutek zimowej burzy, która przetoczyła się nad Stanami Zjednoczonymi. W większości regionów rozpoczęło się usuwanie skutków śnieżyc i gołoledzi, ale sytuacji nie ułatwiają niskie temperatury. Ponad pół miliona odbiorców wciąż pozostaje bez dostępu do prądu.",
       "originalTitle": "Śnieżyce w USA. Bilans ofiar wciąż rośnie",
       "originalDescription": "Nawet 21 osób mogło zginąć na skutek zimowej burzy, która przetoczyła się nad Stanami Zjednoczonymi. W większości regionów rozpoczęło się usuwanie skutków śnieżyc i gołoledzi, ale sytuacji nie ułatwiają niskie temperatury. Ponad pół miliona odbiorców wciąż pozostaje bez dostępu do prądu."
-    },
-    {
-      "title": "Ciężarówka na boku, droga zablokowana",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/ciechanow-ciezarowka-lezy-na-boku-w-poprzek-drogi-utrudnienia-na-dk60-st8870268?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 06:36:47 GMT",
-      "description": "Całkowicie zablokowana jest droga na wyjeździe z Ciechanowa. Powodem jest ciężarówka, leżąca na boku, w poprzek jezdni. Policja wyznaczyła objazdy.",
-      "originalTitle": "Ciężarówka na boku, droga zablokowana",
-      "originalDescription": "Całkowicie zablokowana jest droga na wyjeździe z Ciechanowa. Powodem jest ciężarówka, leżąca na boku, w poprzek jezdni. Policja wyznaczyła objazdy."
-    },
-    {
-      "title": "Trump podnosi cła. \"Dziękuję za uwagę\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/trump-podnosi-cla-dla-korei-poludniowej-zarzuca-niewywiazanie-sie-z-umowy-handlowej-st8870258?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 06:30:31 GMT",
-      "description": "Prezydent USA Donald Trump poinformował, że podwyższa cła na towary z Korei Południowej - między innymi samochody - z 15 do 25 procent. Zarzucił władzom w Seulu, że nie wywiązały się z umowy handlowej z Amerykanami.",
-      "originalTitle": "Trump podnosi cła. \"Dziękuję za uwagę\"",
-      "originalDescription": "Prezydent USA Donald Trump poinformował, że podwyższa cła na towary z Korei Południowej - między innymi samochody - z 15 do 25 procent. Zarzucił władzom w Seulu, że nie wywiązały się z umowy handlowej z Amerykanami."
-    },
-    {
-      "title": "Niszczył ścianę budynku, dowody zostały mu na rękach",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/gora-kalwaria-bazgral-po-scianie-budynku-dowody-zostaly-mu-na-rekach-st8869499?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 05:50:31 GMT",
-      "description": "24-latek z Góry Kalwarii został zatrzymany po zgłoszeniu o umieszczeniu graffiti na ścianie budynku. Dowody, czyli farba, zostały mu na rękach. Mężczyzna ze swojego zachowania wytłumaczy się w sądzie.",
-      "originalTitle": "Niszczył ścianę budynku, dowody zostały mu na rękach",
-      "originalDescription": "24-latek z Góry Kalwarii został zatrzymany po zgłoszeniu o umieszczeniu graffiti na ścianie budynku. Dowody, czyli farba, zostały mu na rękach. Mężczyzna ze swojego zachowania wytłumaczy się w sądzie."
     }
   ]
 }
