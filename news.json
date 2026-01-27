@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-01-27T13:21:28.945Z",
+  "lastUpdate": "2026-01-27T13:47:54.690Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Politycy Polski 2050 wzajemnie się oskarżają",
+      "title": "Pogoda na 5 dni z ochłodzeniem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-prognoza-na-5-dni-na-horyzoncie-naprawde-mrozny-epizod-st8871310?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 13:45:01 GMT",
+      "description": "• Niż kształtował pogodę w Polsce w ostatnich dniach.\n• Niż straci władzę.\n• Jego miejsce zajmie wyż znad Skandynawii.\n• Wyż przyniesie kolejną porcję mroźnego powietrza.",
+      "originalTitle": "Pogoda na 5 dni. Na horyzoncie \"naprawdę mroźny epizod\"",
+      "originalDescription": "Pogoda w Polsce. Niż, który w ostatnich dniach kształtował pogodę w naszym kraju, straci władzę. Jego miejsce zajmie wyż znad Skandynawii, który przyniesie kolejną porcję mroźnego powietrza. Jak zimno się zrobi? Szczegóły w prognozie."
+    },
+    {
+      "title": "Śmierć niemowlęcia w mieszkaniu, prokuratura prowadzi śledztwo",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-niemowle-zmarlo-w-wychlodzonym-mieszkaniu-prokuratura-bada-sprawe-st8871389?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 13:41:11 GMT",
+      "description": "Prokuratura ustala przyczyny śmierci dwumiesięcznego dziecka, które zmarło w mieszkaniu w kamienicy w centrum Radomia. Nieoddychające niemowlę znalazła rano matka. Mimo reanimacji nie udało się go uratować. Śledczy sprawdzają, czy do zgonu doszło z powodu niskiej temperatury w mieszkaniu.",
+      "originalTitle": "Niemowlę zmarło w wychłodzonym mieszkaniu. Prokuratura bada przyczynę śmierci",
+      "originalDescription": "Prokuratura ustala przyczyny śmierci dwumiesięcznego dziecka, które zmarło w mieszkaniu w kamienicy w centrum Radomia. Nieoddychające niemowlę znalazła rano matka. Mimo reanimacji nie udało się go uratować. Śledczy sprawdzają, czy do zgonu doszło z powodu niskiej temperatury w mieszkaniu."
+    },
+    {
+      "title": "Wysokie oszustwa kredytowe",
+      "link": "https://tvn24.pl/biznes/pieniadze/oszustwa-kredytowe-jeden-z-najwyzszych-wynikow-st8870982?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 13:34:17 GMT",
+      "description": "• W 2025 roku udaremniono ponad 15 tysięcy prób oszustw kredytowych.\n• Próby oszustw zostały udaremnione dzięki informacjom przekazanym przez Związek Banków Polskich (ZBP).\n• Jest to jeden z najwyższych wyników od kilkunastu lat.",
+      "originalTitle": "Oszustwa kredytowe. Jeden z najwyższych wyników",
+      "originalDescription": "W 2025 roku udaremniono ponad 15 tysięcy prób oszustw kredytowych - przekazał Związek Banków Polskich (ZBP). Dodał, że to jeden z najwyższych wyników od kilkunastu lat."
+    },
+    {
+      "title": "Neil Young w oryginalny sposób zaprotestował przeciw polityce Trumpa",
+      "link": "https://tvn24.pl/kultura-i-styl/neil-young-w-oryginalny-sposob-zaprotestowal-przeciw-polityce-trumpa-st8871095?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 13:33:42 GMT",
+      "description": "W proteście wobec działań Donalda Trumpa Neil Young udostępnił mieszkańcom Grenlandii roczny darmowy dostęp do swojej muzyki i filmów. \"To oferta Pokoju i Miłości\" - napisał. Muzyk już wcześniej podejmował różne działania, by wyrazić swój krytyczny stosunek do obecnej administracji USA.",
+      "originalTitle": "Neil Young w oryginalny sposób zaprotestował przeciw polityce Trumpa",
+      "originalDescription": "W proteście wobec działań Donalda Trumpa Neil Young udostępnił mieszkańcom Grenlandii roczny darmowy dostęp do swojej muzyki i filmów. \"To oferta Pokoju i Miłości\" - napisał. Muzyk już wcześniej podejmował różne działania, by wyrazić swój krytyczny stosunek do obecnej administracji USA."
+    },
+    {
+      "title": "Tylko dwie polskie wódki wśród produktów chronionych w Mercosur. Dlaczego?",
+      "link": "https://tvn24.pl/polska/tylko-dwie-polskie-wodki-wsrod-produktow-chronionych-w-mercosur-dlaczego-st8862145?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 13:22:37 GMT",
+      "description": "Nie ma na niej oscypka, sera korycińskiego, obwarzanka krakowskiego czy kiełbasy lisieckiej. Lista nazw polskich produktów, które mają być chronione przed podróbkami na rynkach krajów Mecosur, jest wyjątkowo krótka, za to wysokoprocentowa. Lecz co ciekawe, nie powstała teraz, a zdumienie niektórych polityków prawicy wydaje się spóźnione.",
+      "originalTitle": "Tylko dwie polskie wódki wśród produktów chronionych w Mercosur. Dlaczego?",
+      "originalDescription": "Nie ma na niej oscypka, sera korycińskiego, obwarzanka krakowskiego czy kiełbasy lisieckiej. Lista nazw polskich produktów, które mają być chronione przed podróbkami na rynkach krajów Mecosur, jest wyjątkowo krótka, za to wysokoprocentowa. Lecz co ciekawe, nie powstała teraz, a zdumienie niektórych polityków prawicy wydaje się spóźnione."
+    },
+    {
+      "title": "\"Michale, serio?\". \"Tak Olu. Serio\". Politycy Polski 2050 oskarżają się wzajemnie",
       "link": "https://tvn24.pl/polska/politycy-polski-2050-michal-gramatyka-i-aleksandra-leo-oskarzaja-sie-w-internecie-chodzi-o-tajny-czat-2026-st8871014?source=rss",
       "pubDate": "Tue, 27 Jan 2026 13:13:53 GMT",
-      "description": "• Aleksandra Leo odpowiedziała na platformie X.\n• Odpowiedź była reakcją na poniedziałkowy wywiad Michała Gramatyki.\n• W wywiadzie Michał Gramatyka oskarżył Aleksandrę Leo o przekazanie mediom zrzutów ekranu z tajnego czatu.\n• Aleksandra Leo zarzuciła Michałowi Gramatyce, że to on jako pierwszy miał przesłać zrzuty z niejawnej grupy na inne grupy.\n• Aleksandra Leo napisała, że \"Wszyscy obecni na grupach widzieli\".\n• Aleksandra Leo dodała, że \"Łatwo udowodnić\" okoliczności sprawy.",
+      "description": "Aleksandra Leo odpowiedziała na platformie X na poniedziałkowy wywiad Michała Gramatyki, w którym oskarżył ją o przekazanie mediom zrzutów ekranu z tajnego czatu. Leo zarzuciła Gramatyce, że to on jako pierwszy miał przesłać zrzuty z niejawnej grupy na inne grupy. \"Wszyscy obecni na grupach widzieli. Łatwo udowodnić\" - napisała.",
       "originalTitle": "\"Michale, serio?\". \"Tak Olu. Serio\". Politycy Polski 2050 oskarżają się wzajemnie",
       "originalDescription": "Aleksandra Leo odpowiedziała na platformie X na poniedziałkowy wywiad Michała Gramatyki, w którym oskarżył ją o przekazanie mediom zrzutów ekranu z tajnego czatu. Leo zarzuciła Gramatyce, że to on jako pierwszy miał przesłać zrzuty z niejawnej grupy na inne grupy. \"Wszyscy obecni na grupach widzieli. Łatwo udowodnić\" - napisała."
     },
     {
-      "title": "Informacje o zdarzeniu w Ustce",
+      "title": "Co wiemy o napastniku z Ustki",
       "link": "https://tvn24.pl/szczecin/ustka-funkcjonariusz-sop-zaatakowal-rodzine-zabil-czterolatke-zostanie-wydalony-ze-sluzby-st8870401?source=rss",
       "pubDate": "Tue, 27 Jan 2026 08:10:26 GMT",
-      "description": "• Po ataku nożownika w Ustce nie żyje czteroletnia dziewczynka.\n• Pięć osób jest rannych.\n• Napastnik to 44-letni funkcjonariusz SOP.\n• Jest pirotechnikiem w stopniu majora.\n• Nie zajmował się bezpośrednio ochroną VIP-ów.\n• Badania psychologiczne przeszedł w październiku.",
+      "description": "Po ataku nożownika w Ustce nie żyje czteroletnia dziewczynka, a pięć osób jest rannych. Napastnik to 44-letni funkcjonariusz SOP. Jak ustalili dziennikarze tvn24.pl, jest pirotechnikiem w stopniu majora. Nie zajmował się bezpośrednio ochroną VIP-ów. Badania psychologiczne przeszedł w październiku.",
       "originalTitle": "Co wiemy o napastniku z Ustki",
       "originalDescription": "Po ataku nożownika w Ustce nie żyje czteroletnia dziewczynka, a pięć osób jest rannych. Napastnik to 44-letni funkcjonariusz SOP. Jak ustalili dziennikarze tvn24.pl, jest pirotechnikiem w stopniu majora. Nie zajmował się bezpośrednio ochroną VIP-ów. Badania psychologiczne przeszedł w październiku."
     },
     {
-      "title": "Andrzej Duda w think tanku USA",
+      "title": "Andrzej Duda rozpoczął współpracę z amerykańskim think tankiem. \"Jestem zaszczycony\"",
       "link": "https://tvn24.pl/polska/andrzej-duda-rozpoczal-wspolprace-z-amerykanskim-think-tankiem-jestem-zaszczycony-st8870960?source=rss",
       "pubDate": "Tue, 27 Jan 2026 13:07:57 GMT",
-      "description": "• Były prezydent Andrzej Duda rozpoczął współpracę z amerykańskim konserwatywnym think tankiem Heritage Foundation.\n• Ma zajmować się między innymi bezpieczeństwem transatlantyckim.\n• Informację o współpracy przekazała organizacja Heritage Foundation.",
+      "description": "Były prezydent Andrzej Duda rozpoczął współpracę z amerykańskim konserwatywnym think tankiem Heritage Foundation. Jak przekazała organizacja, ma zajmować się między innymi bezpieczeństwem transatlantyckim.",
       "originalTitle": "Andrzej Duda rozpoczął współpracę z amerykańskim think tankiem. \"Jestem zaszczycony\"",
       "originalDescription": "Były prezydent Andrzej Duda rozpoczął współpracę z amerykańskim konserwatywnym think tankiem Heritage Foundation. Jak przekazała organizacja, ma zajmować się między innymi bezpieczeństwem transatlantyckim."
     },
@@ -42,46 +82,6 @@
       "description": "\"Jedna bitwa po drugiej\" zachwyciła widzów i krytyków, otrzymując aż 13 nominacji do Oscara. Nominowany do nagrody Akademii Filmowej za rolę drugoplanową Sean Penn opowiedział o kulisach pracy nad produkcją.",
       "originalTitle": "Sean Penn o pracy nad filmem \"Jedna bitwa po drugiej\" i telefonie do DiCaprio",
       "originalDescription": "\"Jedna bitwa po drugiej\" zachwyciła widzów i krytyków, otrzymując aż 13 nominacji do Oscara. Nominowany do nagrody Akademii Filmowej za rolę drugoplanową Sean Penn opowiedział o kulisach pracy nad produkcją."
-    },
-    {
-      "title": "Wodór dla polskiego przemysłu. Kluczowe porozumienia Orlenu",
-      "link": "https://tvn24.pl/biznes/z-kraju/orlen-podpisal-umowe-z-finlandia-chodzi-o-dostawy-wodoru-st8870954?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 12:50:00 GMT",
-      "description": "Orlen podpisał we wtorek z trzema fińskimi firmami memoranda w sprawie produkcji i dostaw odnawialnego wodoru. Według koncernu, umowy umożliwią zabezpieczenie dostaw paliwa tego typu na etapie zwiększonego zapotrzebowania w kolejnych latach.",
-      "originalTitle": "Wodór dla polskiego przemysłu. Kluczowe porozumienia Orlenu",
-      "originalDescription": "Orlen podpisał we wtorek z trzema fińskimi firmami memoranda w sprawie produkcji i dostaw odnawialnego wodoru. Według koncernu, umowy umożliwią zabezpieczenie dostaw paliwa tego typu na etapie zwiększonego zapotrzebowania w kolejnych latach."
-    },
-    {
-      "title": "\"Energetyczne samobójstwo\". Premier: zaskarżymy decyzję UE",
-      "link": "https://tvn24.pl/biznes/ze-swiata/koniec-z-rosyjskim-gazem-premier-slowacji-robert-fico-zaskarzymy-te-decyzje-st8871079?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 12:34:03 GMT",
-      "description": "Słowacja wniesie do Trybunału Sprawiedliwości UE pozew przeciwko unijnemu zakazowi importu gazu z Rosji - przekazał we wtorek premier Robert Fico. Rząd w Bratysławie zamierza współpracować w tej sprawie z Budapesztem, który również przygotowuje skargę.",
-      "originalTitle": "\"Energetyczne samobójstwo\". Premier: zaskarżymy decyzję UE",
-      "originalDescription": "Słowacja wniesie do Trybunału Sprawiedliwości UE pozew przeciwko unijnemu zakazowi importu gazu z Rosji - przekazał we wtorek premier Robert Fico. Rząd w Bratysławie zamierza współpracować w tej sprawie z Budapesztem, który również przygotowuje skargę."
-    },
-    {
-      "title": "Alarmy IMGW. Gołoledź na jezdni i słaba widzialność",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-opady-marznace-gololedz-oblodzenia-gesta-mgla-w-mocy-pomaranczowe-alarmy-st8852268?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 05:43:00 GMT",
-      "description": "IMGW wciąż ostrzega przed zimowymi zagrożeniami. W nadchodzących godzinach chodniki i jezdnie w wielu regionach znów mają być śliskie. Miejscami pojawią się także mgły.",
-      "originalTitle": "Alarmy IMGW. Gołoledź na jezdni i słaba widzialność",
-      "originalDescription": "IMGW wciąż ostrzega przed zimowymi zagrożeniami. W nadchodzących godzinach chodniki i jezdnie w wielu regionach znów mają być śliskie. Miejscami pojawią się także mgły."
-    },
-    {
-      "title": "Ponad 500 zarzutów dla psychiatry",
-      "link": "https://tvn24.pl/lublin/rzeszow-lublin-ponad-500-zarzutow-dla-psychiatry-st8871076?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 12:28:44 GMT",
-      "description": "Psychiatra Romuald R. jest podejrzany o przyjmowanie łapówek za wystawianie fałszywych zaświadczeń lekarskich. Wśród jego pacjentów byli między innymi funkcjonariusze policji i służby więziennej. Pierwsi z nich zostali skazani już na kary grzywny. Liczba zarzutów dla psychiatry wzrosła do ponad 500.",
-      "originalTitle": "Ponad 500 zarzutów dla psychiatry",
-      "originalDescription": "Psychiatra Romuald R. jest podejrzany o przyjmowanie łapówek za wystawianie fałszywych zaświadczeń lekarskich. Wśród jego pacjentów byli między innymi funkcjonariusze policji i służby więziennej. Pierwsi z nich zostali skazani już na kary grzywny. Liczba zarzutów dla psychiatry wzrosła do ponad 500."
-    },
-    {
-      "title": "Wędkarz łowił ryby, na zamarznięty staw wszedł też nastolatek",
-      "link": "https://tvn24.pl/opole/glubczyce-wedkarz-lowil-ryby-na-zamarzniety-staw-wszedl-tez-nastolatek-st8870999?source=rss",
-      "pubDate": "Tue, 27 Jan 2026 12:17:19 GMT",
-      "description": "67‑letni mężczyzna łowił ryby, a na lodową taflę wszedł także nastolatek. Interweniowali policjanci. Po rozmowach obaj zeszli z zamarzniętego stawu.",
-      "originalTitle": "Wędkarz łowił ryby, na zamarznięty staw wszedł też nastolatek",
-      "originalDescription": "67‑letni mężczyzna łowił ryby, a na lodową taflę wszedł także nastolatek. Interweniowali policjanci. Po rozmowach obaj zeszli z zamarzniętego stawu."
     }
   ]
 }
