@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-01-28T11:38:01.504Z",
+  "lastUpdate": "2026-01-28T12:11:03.243Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Zalecenia żywieniowe w Polsce: przewaga warzyw i pełnych ziaren, ograniczenie mięsa i soli",
+      "link": "https://dzienniknaukowy.pl/zalecenia-zywieniowe-w-polsce-przewaga-warzyw-i-pelnych-ziaren-ograniczenie-miesa-i-soli",
+      "pubDate": "Wed, 28 Jan 2026 11:39:18 +0000",
+      "description": "Różnokolorowe warzywa i owoce, za nimi pełnoziarniste produkty zbożowe, dalej zdrowe źródła białka z ograniczonym udziałem mięsa, a na końcu orzechy, nasiona roślin strączkowych i jaja - tak wyglądają aktualne zalecenia żywieniowe dla Polaków. Od kilku lat przedstawiane są w formie tzw. talerza, który zastąpił wcześniejszą piramidę"
+    },
     {
       "title": "Olbrzymie ilości danych o Wszechświecie z wód Morza Śródziemnego",
       "link": "https://dzienniknaukowy.pl/olbrzymie-ilosci-danych-o-wszechswiecie-z-wod-morza-srodziemnego",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/film-o-prof-wilhelminie-iwanowskiej-pionierce-polskiej-astrofizyki",
       "pubDate": "Wed, 21 Jan 2026 13:32:23 +0000",
       "description": "Współzałożycielka największego obecnie obserwatorium astronomicznego na terenie Polski oraz pionierka polskiej astrofizyki, Wilhelmina Iwanowska, to bohaterka nowego filmu dokumentalnego wyprodukowanego przez Polskie Towarzystwo Astronomiczne."
-    },
-    {
-      "title": "Technologie odzysku metali ziem rzadkich: jak nauka wspiera recykling przyszłości",
-      "link": "https://dzienniknaukowy.pl/technologie-odzysku-metali-ziem-rzadkich-jak-nauka-wspiera-recykling-przyszlosci",
-      "pubDate": "Wed, 21 Jan 2026 08:02:00 +0000",
-      "description": "Smartfony, samochody elektryczne czy turbiny wiatrowe nie mogłyby funkcjonować bez specyficznych pierwiastków ukrytych głęboko w ich wnętrzu. Chociaż ich nazwa mylnie sugeruje rzadkość występowania, to największym wyzwaniem pozostaje ich skomplikowana oraz niezwykle kosztowna ekstrakcja z rudy. Właśnie dlatego innowacyjne strategie odzysku stają się absolutną koniecznością dla stabilności globalnej gospodarki i ochrony środowiska naturalnego. Nauka intensywnie poszukuje sposobów na efektywne zawracanie materiałów do ponownego obiegu, aby uniezależnić rynek od wydobycia pierwotnego."
     }
   ]
 }
