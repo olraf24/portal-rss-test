@@ -1,18 +1,74 @@
 {
-  "lastUpdate": "2026-01-28T15:44:57.915Z",
+  "lastUpdate": "2026-01-28T16:12:04.061Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek drogowy z udziałem pijanego kierowcy",
+      "title": "Pożar w hotelu w kurorcie",
+      "link": "https://tvn24.pl/swiat/francja-pozar-luksusowego-hotelu-w-kurorcie-ewakuacja-ponad-90-osob-st8873445?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 16:05:25 GMT",
+      "description": "• Łącznie 131 strażaków brało udział w gaszeniu pożaru.\n• Pożar miał miejsce w pięciogwiazdkowym hotelu.\n• Hotel znajduje się w kurorcie narciarskim Courchevel.\n• Courchevel położone jest we francuskich Alpach.\n• Władze poinformowały o ewakuacji ponad 90 gości.\n• Żaden z ewakuowanych gości nie odniósł obrażeń.",
+      "originalTitle": "Pożar luksusowego hotelu w słynnym kurorcie",
+      "originalDescription": "Łącznie 131 strażaków brało udział w gaszeniu pożaru pięciogwiazdkowego hotelu w kurorcie narciarskim Courchevel we francuskich Alpach. Władze poinformowały o ewakuacji ponad 90 gości. Żaden z nich nie odniósł obrażeń."
+    },
+    {
+      "title": "Nauczyciel oskarżony o niewłaściwe zachowanie wobec ucznia",
+      "link": "https://tvn24.pl/wroclaw/glogow-nauczyciel-mial-szarpac-i-obrazac-12-letniego-ucznia-st8871341?source=rss",
+      "pubDate": "Tue, 27 Jan 2026 15:56:20 GMT",
+      "description": "Nauczyciel miał w szkole, przy innych uczniach, szarpać i wyzywać 12‑latka. Matka chłopca zawiadomiła policję. Dyrektor szkoły zapowiada skierowanie wniosku do komisji dyscyplinarnej. Sprawą zajmuje się prokuratura. Kontrolę w szkole zapowiada kuratorium.",
+      "originalTitle": "Nauczyciel miał szarpać i obrażać 12-letniego ucznia",
+      "originalDescription": "Nauczyciel miał w szkole, przy innych uczniach, szarpać i wyzywać 12‑latka. Matka chłopca zawiadomiła policję. Dyrektor szkoły zapowiada skierowanie wniosku do komisji dyscyplinarnej. Sprawą zajmuje się prokuratura. Kontrolę w szkole zapowiada kuratorium."
+    },
+    {
+      "title": "Policja zatrzymała szefa grupy przestępczej",
+      "link": "https://tvn24.pl/krakow/krakow-poznan-rozbili-gruzinska-mafie-grupa-napadala-na-salony-jubilerskie-st8873368?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 16:03:33 GMT",
+      "description": "Działali zdecydowanie i brutalnie, są już w rękach policji. W Poznaniu zatrzymano - jak podaje policja - pięciu członków gruzińskiej mafii, która specjalizowała się w rozbojach. To oni sterroryzowali i okradli jubilera w Krakowie.",
+      "originalTitle": "Policjanci weszli o 6 rano. \"Zatrzymany został szef gruzińskiej mafii\"",
+      "originalDescription": "Działali zdecydowanie i brutalnie, są już w rękach policji. W Poznaniu zatrzymano - jak podaje policja - pięciu członków gruzińskiej mafii, która specjalizowała się w rozbojach. To oni sterroryzowali i okradli jubilera w Krakowie."
+    },
+    {
+      "title": "Stanowisko Kaczyńskiego w sprawie Brauna",
+      "link": "https://tvn24.pl/fakty-artykuly/kaczynski-nie-chce-brauna-a-o-nim-mowi-st8873179?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 16:03:15 GMT",
+      "description": "Jarosław Kaczyński mówi o Grzegorzu Braunie, podkreślając, że koalicji z nim nie będzie. Tyle że w polityce podobne deklaracje padały już nieraz, a mimo to koalicje ostatecznie powstawały. Dlatego istotne jest nie tyle, co Kaczyński mówi do samego Brauna, ile to, jaki sygnał wysyła do elektoratu, który za Braunem stoi.",
+      "originalTitle": "Kaczyński nie chce Brauna, a o nim mówi",
+      "originalDescription": "Jarosław Kaczyński mówi o Grzegorzu Braunie, podkreślając, że koalicji z nim nie będzie. Tyle że w polityce podobne deklaracje padały już nieraz, a mimo to koalicje ostatecznie powstawały. Dlatego istotne jest nie tyle, co Kaczyński mówi do samego Brauna, ile to, jaki sygnał wysyła do elektoratu, który za Braunem stoi."
+    },
+    {
+      "title": "Ślizgawica. Kolejne alarmy IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-28-01-oblodzenie-prognoza-zagrozen-imgw-powrot-mrozu-kto-zmarznie-najbardziej-st8872323?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 09:58:04 GMT",
+      "description": "IMGW wydał ostrzeżenia meteorologiczne. W środę w części kraju pojawi się oblodzenie, a miejscami wystąpią opady marznące - sytuacja na drogach i chodnikach znów stanie się trudna. Synoptycy przygotowali także prognozę zagrożeń, z której wynika, że kolejne dni zrobią się naprawdę mroźne.",
+      "originalTitle": "Ślizgawica. Kolejne alarmy IMGW",
+      "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. W środę w części kraju pojawi się oblodzenie, a miejscami wystąpią opady marznące - sytuacja na drogach i chodnikach znów stanie się trudna. Synoptycy przygotowali także prognozę zagrożeń, z której wynika, że kolejne dni zrobią się naprawdę mroźne."
+    },
+    {
+      "title": "Więzienie za VPN. Budują cyfrowy mur na wzór Chin",
+      "link": "https://tvn24.pl/biznes/ze-swiata/mjanma-junta-zaostrza-kontrole-internetu-st8873388?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 15:52:49 GMT",
+      "description": "Po wojskowym zamachu stanu w 2021 roku i przejęciu sterów państwa przez juntę, w Mjanmie (Birma) zaczęto wdrażać restrykcje w dostępie do internetu, porównywane do modelu znanego z Chin. Obywatele, by korzystać z mediów społecznościowych i zagranicznych serwisów, masowo sięgają po sieci VPN. Państwowa kontrola obejmuje nie tylko sieć, ale również media tradycyjne oraz rynek wydawniczy.",
+      "originalTitle": "Więzienie za VPN. Budują cyfrowy mur na wzór Chin",
+      "originalDescription": "Po wojskowym zamachu stanu w 2021 roku i przejęciu sterów państwa przez juntę, w Mjanmie (Birma) zaczęto wdrażać restrykcje w dostępie do internetu, porównywane do modelu znanego z Chin. Obywatele, by korzystać z mediów społecznościowych i zagranicznych serwisów, masowo sięgają po sieci VPN. Państwowa kontrola obejmuje nie tylko sieć, ale również media tradycyjne oraz rynek wydawniczy."
+    },
+    {
+      "title": "33 zdjęcia z warszawskiego getta zobaczy cały świat",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-film-dokumentalny-33-zdjecia-z-getta-jest-dostepny-na-hbo-max-st8872449?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 15:52:36 GMT",
+      "description": "27 stycznia, w Międzynarodowym Dniu Pamięci o Ofiarach Holocaustu, na platformie HBO MAX pojawił się film \"33 zdjęcia z getta\". To dokument poświęcony odkrytym niedawno fotografiom wykonanym podczas powstania w getcie warszawskim przez polskiego strażaka Leszka Grzywaczewskiego.",
+      "originalTitle": "33 zdjęcia z warszawskiego getta zobaczy cały świat",
+      "originalDescription": "27 stycznia, w Międzynarodowym Dniu Pamięci o Ofiarach Holocaustu, na platformie HBO MAX pojawił się film \"33 zdjęcia z getta\". To dokument poświęcony odkrytym niedawno fotografiom wykonanym podczas powstania w getcie warszawskim przez polskiego strażaka Leszka Grzywaczewskiego."
+    },
+    {
+      "title": "Pijany kierowca wjechał w pielgrzymów. Odpowie za spowodowanie katastrofy",
       "link": "https://tvn24.pl/lodz/grobla-pijany-kierowca-wjechal-w-pielgrzymow-stanie-przed-sadem-st8873426?source=rss",
       "pubDate": "Wed, 28 Jan 2026 15:35:51 GMT",
-      "description": "• 54-letni Jarosław R. wjechał w grupę pielgrzymów.\n• Jarosław R. był pijany w momencie wypadku.\n• W wyniku wypadku rannych zostało 13 osób.\n• Prokuratura oskarżyła Jarosława R. o spowodowanie katastrofy w ruchu lądowym.\n• Jarosław R. oskarżony jest również o prowadzenie auta mimo sądowego zakazu.\n• Jarosław R. stanie przed sądem.",
+      "description": "54-letni Jarosław R., który pijany wjechał w grupę pielgrzymów, raniąc 13 osób, stanie przed sądem. Prokuratura oskarżyła go o spowodowanie katastrofy w ruchu lądowym i prowadzenie auta mimo sądowego zakazu.",
       "originalTitle": "Pijany kierowca wjechał w pielgrzymów. Odpowie za spowodowanie katastrofy",
       "originalDescription": "54-letni Jarosław R., który pijany wjechał w grupę pielgrzymów, raniąc 13 osób, stanie przed sądem. Prokuratura oskarżyła go o spowodowanie katastrofy w ruchu lądowym i prowadzenie auta mimo sądowego zakazu."
     },
     {
-      "title": "Pogoda: mroźny antycyklon",
+      "title": "Pogoda. Mroźny antycyklon. Kiedy będzie najzimniej",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-potezna-dawka-mrozu-w-drodze-do-polski-gdzie-bedzie-najzimniej-st8873317?source=rss",
       "pubDate": "Wed, 28 Jan 2026 15:27:11 GMT",
       "description": "Pogoda w Polsce. Na horyzoncie widać powrót mrozu w całym kraju. Miejscami temperatura w najcieplejszym momencie dnia spadnie poniżej - 10 stopni.",
@@ -20,68 +76,12 @@
       "originalDescription": "Pogoda w Polsce. Na horyzoncie widać powrót mrozu w całym kraju. Miejscami temperatura w najcieplejszym momencie dnia spadnie poniżej - 10 stopni."
     },
     {
-      "title": "Incident w konsulacie Ekwadoru w Minneapolis",
+      "title": "Władze Ekwadoru: agent ICE próbował wtargnąć do konsulatu w Minneapolis",
       "link": "https://tvn24.pl/swiat/usa-wladze-ekwadoru-agent-ice-probowal-wejsc-do-konsulatu-w-minneapolis-st8873283?source=rss",
       "pubDate": "Wed, 28 Jan 2026 15:14:15 GMT",
-      "description": "• Agent amerykańskich służb imigracyjnych we wtorek usiłował dostać się do konsulatu Ekwadoru w Minneapolis.\n• Wejście na teren placówki uniemożliwił mu jej personel.\n• O zdarzeniu poinformowało ekwadorskie ministerstwo spraw zagranicznych.",
+      "description": "Agent amerykańskich służb imigracyjnych we wtorek usiłował dostać się do konsulatu Ekwadoru w Minneapolis. Wejście na teren placówki uniemożliwił mu jej personel -poinformowało ekwadorskie ministerstwo spraw zagranicznych.",
       "originalTitle": "Władze Ekwadoru: agent ICE próbował wtargnąć do konsulatu w Minneapolis",
       "originalDescription": "Agent amerykańskich służb imigracyjnych we wtorek usiłował dostać się do konsulatu Ekwadoru w Minneapolis. Wejście na teren placówki uniemożliwił mu jej personel -poinformowało ekwadorskie ministerstwo spraw zagranicznych."
-    },
-    {
-      "title": "Zmiany w procedurach firm mogą wpłynąć na terminy płatności",
-      "link": "https://tvn24.pl/biznes/dlafirm/ksef-rewolucja-w-fakturach-czesc-firm-moze-byc-zaskoczona-st8871311?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 15:11:27 GMT",
-      "description": "Choć stosowanie Krajowego Systemu e-Faktur przez mniejsze firmy ma być obowiązkowe od kwietnia, to w praktyce przynajmniej część z nich do rządowej aplikacji będzie musiała zalogować się wcześniej. Wiele zależy od postępowania większych przedsiębiorstw, a to, jak pokazuje przykład Orlenu, może się zmieniać.",
-      "originalTitle": "Rewolucja dla firm. To \"może prowadzić do opóźnień w płatnościach\"",
-      "originalDescription": "Choć stosowanie Krajowego Systemu e-Faktur przez mniejsze firmy ma być obowiązkowe od kwietnia, to w praktyce przynajmniej część z nich do rządowej aplikacji będzie musiała zalogować się wcześniej. Wiele zależy od postępowania większych przedsiębiorstw, a to, jak pokazuje przykład Orlenu, może się zmieniać."
-    },
-    {
-      "title": "Wstępny raport z katastrofy śmigłowca",
-      "link": "https://tvn24.pl/rzeszow/cierpisz-bracia-zgineli-w-katastrofie-smiglowca-jest-wstepny-raport-komisji-st8872559?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 15:04:15 GMT",
-      "description": "Państwowa Komisja Badania Wypadków Lotniczych opublikowała swoje wstępne ustalenia w sprawie tragicznego wypadku śmigłowca na Podkarpaciu. Po uderzeniu w ziemię maszyna rozpadła się i zapaliła. Zginęli dwaj bracia.",
-      "originalTitle": "Bracia zginęli w katastrofie śmigłowca. Jest wstępny raport komisji",
-      "originalDescription": "Państwowa Komisja Badania Wypadków Lotniczych opublikowała swoje wstępne ustalenia w sprawie tragicznego wypadku śmigłowca na Podkarpaciu. Po uderzeniu w ziemię maszyna rozpadła się i zapaliła. Zginęli dwaj bracia."
-    },
-    {
-      "title": "Przez przypadek przyczepił odwrotnie uśmiech. \"Smutny konik\" stał się hitem",
-      "link": "https://tvn24.pl/ciekawostki/chiny-blad-pracownika-czerwony-konik-z-odwroconym-usmiechem-stal-sie-hitem-sprzedazy-st8872930?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 15:00:16 GMT",
-      "description": "Błąd pracownika sprawił, że maskotka, której produkcja przeszłaby bez echa, stała się hitem w Chinach. Dlaczego czerwony konik z odwróconym uśmiechem zyskał uznanie klientów? \"Wygląda tak smutno i żałośnie, zupełnie jak ja w pracy\" - komentują internauci.",
-      "originalTitle": "Przez przypadek przyczepił odwrotnie uśmiech. \"Smutny konik\" stał się hitem",
-      "originalDescription": "Błąd pracownika sprawił, że maskotka, której produkcja przeszłaby bez echa, stała się hitem w Chinach. Dlaczego czerwony konik z odwróconym uśmiechem zyskał uznanie klientów? \"Wygląda tak smutno i żałośnie, zupełnie jak ja w pracy\" - komentują internauci."
-    },
-    {
-      "title": "Jezdnia się zapadła, z dziury wypływała woda",
-      "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-awaria-wodociagowa-na-bielanach-na-broniewskiego-i-reymonta-st8873308?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 14:57:59 GMT",
-      "description": "Na Bielanach strażnicy miejscy, podczas patrolu, natknęli się na awarię wodociągową. Jezdnia się zapadła, a z powiększającej się rozpadliny, pod dużym cieśnieniem wypływała woda. Zagrożenie trzeba było szybko opanować.",
-      "originalTitle": "Jezdnia się zapadła, z dziury wypływała woda",
-      "originalDescription": "Na Bielanach strażnicy miejscy, podczas patrolu, natknęli się na awarię wodociągową. Jezdnia się zapadła, a z powiększającej się rozpadliny, pod dużym cieśnieniem wypływała woda. Zagrożenie trzeba było szybko opanować."
-    },
-    {
-      "title": "Pijany jechał chodnikiem. Grozi mu 10 lat więzienia, bo \"próbował uniknąć konsekwencji\"",
-      "link": "https://tvn24.pl/katowice/jaworzno-jazda-po-chodniku-pod-wplywem-alkoholu-i-uszkodzone-samochody-st8872939?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 14:53:53 GMT",
-      "description": "Do 10 lat więzienia grozi mężczyźnie, który, będąc pod wpływem alkoholu, jechał samochodem po chodniku w Jaworznie. Uszkodził przy tym pięć aut. Policjantom zaproponował łapówkę.",
-      "originalTitle": "Pijany jechał chodnikiem. Grozi mu 10 lat więzienia, bo \"próbował uniknąć konsekwencji\"",
-      "originalDescription": "Do 10 lat więzienia grozi mężczyźnie, który, będąc pod wpływem alkoholu, jechał samochodem po chodniku w Jaworznie. Uszkodził przy tym pięć aut. Policjantom zaproponował łapówkę."
-    },
-    {
-      "title": "Wysłał zaproszenia na \"Marsz dla Jezusa\", z pornografią w załączniku. Wyrok sądu",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-zaproszenia-na-marsz-dla-jezusa-w-zalaczniku-pornograficzny-plik-jest-wyrok-st8873182?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 14:43:06 GMT",
-      "description": "Andrzej B. w 2023 roku rozsyłał mediom zaproszenia na \"Marsz dla Jezusa\", do jednego z maili załączył plik pornograficzny. Sąd skazał go właśnie na trzy lata więzienia i orzekł dożywotni zakaz pracy z małoletnimi.",
-      "originalTitle": "Wysłał zaproszenia na \"Marsz dla Jezusa\", z pornografią w załączniku. Wyrok sądu",
-      "originalDescription": "Andrzej B. w 2023 roku rozsyłał mediom zaproszenia na \"Marsz dla Jezusa\", do jednego z maili załączył plik pornograficzny. Sąd skazał go właśnie na trzy lata więzienia i orzekł dożywotni zakaz pracy z małoletnimi."
-    },
-    {
-      "title": "Incydent podczas startu. Od samolotu odpadło koło",
-      "link": "https://tvn24.pl/swiat/incydent-podczas-startu-od-samolotu-british-airways-odpadlo-kolo-nagranie-st8873235?source=rss",
-      "pubDate": "Wed, 28 Jan 2026 14:42:40 GMT",
-      "description": "Niebezpieczny incydent z udziałem samolotu pasażerskiego lecącego z Las Vegas do Londynu. Podczas startu od podwozia Airbusa linii British Airways odpadło jedno z kół. Zdarzenie zostało nagrane przez jedną z kamer na lotnisku.",
-      "originalTitle": "Incydent podczas startu. Od samolotu odpadło koło",
-      "originalDescription": "Niebezpieczny incydent z udziałem samolotu pasażerskiego lecącego z Las Vegas do Londynu. Podczas startu od podwozia Airbusa linii British Airways odpadło jedno z kół. Zdarzenie zostało nagrane przez jedną z kamer na lotnisku."
     }
   ]
 }
