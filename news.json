@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-28T17:44:02.953Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-28T18:11:43.318Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zmiany w funkcjach i radach nadzorczych",
+      "link": "https://tvn24.pl/poznan/poznan-mariusz-wisniewski-nie-jest-juz-wiceprezydentem-znika-z-rad-nadzorczych-miejskich-spolek-st8873304?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 18:04:24 GMT",
+      "description": "Były wiceprezydent Poznania Mariusz Wiśniewski stracił kolejne stanowiska. Już nie zasiada w radach nadzorczych dwóch miejskich spółek.",
+      "originalTitle": "Nie jest już wiceprezydentem, znika z rad nadzorczych miejskich spółek",
+      "originalDescription": "Były wiceprezydent Poznania Mariusz Wiśniewski stracił kolejne stanowiska. Już nie zasiada w radach nadzorczych dwóch miejskich spółek."
+    },
+    {
+      "title": "Zmiana prezesa PKP Cargo",
+      "link": "https://tvn24.pl/biznes/z-kraju/pkp-cargo-zbigniew-prus-od-2-lutego-2026-to-nowy-prezes-spolki-st8873576?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 18:00:26 GMT",
+      "description": "• Rada nadzorcza PKP Cargo powołała do zarządu Zbigniewa Prusa.\n• Zbigniewowi Prusowi powierzono funkcję prezesa.\n• Funkcja prezesa Zbigniewa Prusa obowiązuje od 2 lutego 2026 roku.\n• Informacja o powołaniu Zbigniewa Prusa do zarządu i powierzeniu mu funkcji prezesa została przekazana w komunikacie przez spółkę PKP Cargo.",
+      "originalTitle": "Zmiana na szczycie PKP Cargo",
+      "originalDescription": "Rada nadzorcza PKP Cargo powołała do zarządu Zbigniewa Prusa i powierzyła mu funkcję prezesa od 2 lutego 2026 roku - przekazała w komunikacie spółka."
+    },
+    {
+      "title": "Burza Chandra: ewakuacja w Wielkiej Brytanii i Irlandii",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wielka-brytania-irlandia-burza-chandra-poziom-wody-wciaz-sie-podnosi-wladze-zarzadzily-ewakuacje-st8872920?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 17:57:09 GMT",
+      "description": "Po przejściu burzy Chandra na Wyspach Brytyjskich wciąż panuje trudna sytuacja. W Wielkiej Brytanii w wielu miejscach obowiązują ostrzeżenia powodziowe. W Irlandii trwa ocena szkód i sprzątanie, która ma potrwać długi czas.",
+      "originalTitle": "Wielka Brytania i Irlandia. Burza Chandra. Poziom wody wciąż się podnosi. Władze zarządziły ewakuację",
+      "originalDescription": "Po przejściu burzy Chandra na Wyspach Brytyjskich wciąż panuje trudna sytuacja. W Wielkiej Brytanii w wielu miejscach obowiązują ostrzeżenia powodziowe. W Irlandii trwa ocena szkód i sprzątanie, która ma potrwać długi czas."
+    },
+    {
+      "title": "Musk komentuje wypowiedź Sikorskiego o Starlinkach",
+      "link": "https://tvn24.pl/biznes/tech/sliniacy-sie-imbecyl-elon-musk-atakuje-radoslawa-sikorskiego-w-sporze-o-starlinki-st8872474?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 10:29:22 GMT",
+      "description": "• Elon Musk nazwał ministra spraw zagranicznych Radosława Sikorskiego \"śliniącym się imbecylem\".\n• Oświadczenie to było odpowiedzią na zarzut, że jego firma zarabia na rosyjskich zbrojniach wojennych.\n• Miliarder nie odniósł się bezpośrednio do kwestii ewentualnych zysków z przedłużającej się wojny w Ukrainie.",
+      "originalTitle": "\"Śliniący się imbecyl\". Musk atakuje Sikorskiego w sporze o Starlinki",
+      "originalDescription": "Elon Musk nazwał ministra spraw zagranicznych Radosława Sikorskiego \"śliniącym się imbecylem\" w odpowiedzi na zarzut, że jego firma zarabia na rosyjskich zbrodniach wojennych. Miliarder nie odniósł się jednak bezpośrednio do kwestii ewentualnych zysków z przedłużającej się wojny w Ukrainie."
+    },
+    {
+      "title": "14-latek ranił matkę podczas kłótni",
+      "link": "https://tvn24.pl/poznan/poznan-osiedle-chrobrego-klocili-sie-14-latek-siegnal-po-noz-i-ranil-matke-st8873346?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 17:43:46 GMT",
+      "description": "• Pokłócił się z matką\n• Nagle sięgnął po nóż\n• Zadał jej kilka ciosów\n• Kobieta trafiła do poznańskiego szpitala\n• 14-latek został zatrzymany\n• O jego losie zdecyduje sąd rodzinny",
+      "originalTitle": "Kłócili się, 14-latek sięgnął po nóż i ranił matkę",
+      "originalDescription": "Pokłócił się z matką, nagle sięgnął po nóż i zadał jej kilka ciosów. Kobieta trafiła do poznańskiego szpitala, a 14-latek został zatrzymany. O jego losie zdecyduje sąd rodzinny."
+    },
+    {
+      "title": "Mężczyzna stracił 160 tysięcy na przelewy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/oszustwo-na-pracownika-banku-dwie-godziny-rozmawial-z-oszustem-zrobil-cztery-przelewy-stracil-160-tysiecy-st8873575?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 17:30:43 GMT",
+      "description": "• 39-latek padł ofiarą oszustów podszywających się pod pracowników banku.\n• Oszustowie używali manipulacji i wywierali presję na ofiarę.\n• Ofiara wykonała cztery przelewy na wskazane rachunki.\n• Ofiara straciła 160 tysięcy złotych w wyniku oszustwa.",
+      "originalTitle": "Ponad dwie godziny rozmawiał z oszustem. Zrobił cztery przelewy, stracił 160 tysięcy",
+      "originalDescription": "39-latek padł ofiarą oszustów podszywających się pod pracowników banku. W wyniku manipulacji i pod presją wykonał cztery przelewy na wskazane rachunki, tracąc 160 tysięcy złotych."
+    },
+    {
+      "title": "Burza po symbolicznym geście. Ambasada reaguje",
+      "link": "https://tvn24.pl/swiat/dania-przed-ambasade-usa-wrocily-flagi-na-czesc-zolnierzy-poleglych-w-afganistanie-st8873488?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 17:30:14 GMT",
+      "description": "Słowa Donalda Trumpa dotyczące braku zaangażowania przez sojuszników w Afganistanie wywołały oburzenie także w Danii. W geście protestu przed amerykańską ambasadą umieszczono duńskie flagi. Mieszkańcy Kopenhagi musieli jednak zrobić to dwukrotnie.",
+      "originalTitle": "Burza po symbolicznym geście. Ambasada reaguje",
+      "originalDescription": "Słowa Donalda Trumpa dotyczące braku zaangażowania przez sojuszników w Afganistanie wywołały oburzenie także w Danii. W geście protestu przed amerykańską ambasadą umieszczono duńskie flagi. Mieszkańcy Kopenhagi musieli jednak zrobić to dwukrotnie."
+    },
+    {
+      "title": "Szykuje się kolejna burza. Ryzyko bomby cyklonowej",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-potezny-atak-zimy-setki-tysiecy-ludzi-bez-pradu-naprawa-potrwa-nie-dni-a-cale-tygodnie-st8872088?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 06:14:24 GMT",
+      "description": "W USA wciąż trwa usuwanie skutków potężnej śnieżycy, która nawiedziła znaczną część kraju w ostatnich dniach, doprowadzając do śmierci kilkudziesięciu osób. Na horyzoncie widać nowe zagrożenie. Do części regionów już niebawem ma dotrzeć kolejna, potencjalnie niebezpieczna burza.",
+      "originalTitle": "Szykuje się kolejna burza. Ryzyko bomby cyklonowej",
+      "originalDescription": "W USA wciąż trwa usuwanie skutków potężnej śnieżycy, która nawiedziła znaczną część kraju w ostatnich dniach, doprowadzając do śmierci kilkudziesięciu osób. Na horyzoncie widać nowe zagrożenie. Do części regionów już niebawem ma dotrzeć kolejna, potencjalnie niebezpieczna burza."
+    },
+    {
+      "title": "Awantura o krzyż, nauczycielka może wrócić do pracy",
+      "link": "https://tvn24.pl/trojmiasto/kielno-wrzucila-krzyz-do-kosza-nauczycielka-moze-wrocic-do-pracy-st8873485?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 17:03:33 GMT",
+      "description": "Komisja dyscyplinarna przy wojewodzie pomorskim uchyliła decyzję dyrektora szkoły podstawowej w Kielnie o zawieszeniu w pełnieniu obowiązków nauczycielki, która podczas lekcji wyrzuciła do kosza przedmiot w kształcie krzyża. Był on wcześniej użyty przez jedną z uczennic podczas zabawy halloweenowej. Dochodzenie w sprawie obrazy uczuć religijnych uczniów szkoły w Kielnie wszczęła Prokuratura Rejonowa w Wejherowie.",
+      "originalTitle": "Awantura o krzyż, nauczycielka może wrócić do pracy",
+      "originalDescription": "Komisja dyscyplinarna przy wojewodzie pomorskim uchyliła decyzję dyrektora szkoły podstawowej w Kielnie o zawieszeniu w pełnieniu obowiązków nauczycielki, która podczas lekcji wyrzuciła do kosza przedmiot w kształcie krzyża. Był on wcześniej użyty przez jedną z uczennic podczas zabawy halloweenowej. Dochodzenie w sprawie obrazy uczuć religijnych uczniów szkoły w Kielnie wszczęła Prokuratura Rejonowa w Wejherowie."
+    },
+    {
+      "title": "Majątek Ziobry zabezpieczony. Jest decyzja sądu",
+      "link": "https://tvn24.pl/polska/majatek-zbigniewa-ziobry-zabezpieczony-sad-zgodzil-sie-na-wpisanie-hipoteki-przymusowej-do-ksiegi-wieczystej-st8873519?source=rss",
+      "pubDate": "Wed, 28 Jan 2026 16:52:26 GMT",
+      "description": "Sąd Rejonowy w Rawie Mazowieckiej obciążył przymusową hipoteką nieruchomość należącą do byłego ministra sprawiedliwości - podał RMF FM. Stało się to po tym, jak Prokuratura Krajowa przesłała do sądu trzeci, poprawiony wniosek w tej sprawie.",
+      "originalTitle": "Majątek Ziobry zabezpieczony. Jest decyzja sądu",
+      "originalDescription": "Sąd Rejonowy w Rawie Mazowieckiej obciążył przymusową hipoteką nieruchomość należącą do byłego ministra sprawiedliwości - podał RMF FM. Stało się to po tym, jak Prokuratura Krajowa przesłała do sądu trzeci, poprawiony wniosek w tej sprawie."
+    }
+  ]
 }
