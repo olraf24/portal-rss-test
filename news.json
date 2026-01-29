@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-01-29T17:15:36.386Z",
+  "lastUpdate": "2026-01-29T17:46:10.081Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "UE wprowadza nowe regulacje dla dworców i lotnisk",
+      "title": "Bilewicz nie otrzymał nominacji",
+      "link": "https://tvn24.pl/polska/michal-bilewicz-naukowiec-ktory-czeka-siedem-lat-na-nominacje-profesorska-kim-jest-st8874457?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 17:45:11 GMT",
+      "description": "• Michał Bilewicz od lat zajmuje się mową nienawiści, antysemityzmem, uprzedzeniami.\n• Nie bał się krytykować PiS-u.\n• Nie bał się krytykować Roberta Bąkiewicza.\n• Nie bał się krytykować Grzegorza Brauna.\n• Jego nominacja profesorska czeka na podpis prezydenta.\n• Nominacja profesorska Michała Bilewicza czeka na podpis prezydenta od siedmiu lat.",
+      "originalTitle": "Siedem lat Bilewicza. Bez nominacji, bo \"oczernia Polskę i Polaków\"",
+      "originalDescription": "Michał Bilewicz od lat zajmuje się mową nienawiści, antysemityzmem, uprzedzeniami. Nie bał się krytykować PiS-u, Roberta Bąkiewicza czy Grzegorza Brauna. Płaci za to wysoką cenę - od siedmiu lat jego nominacja profesorska czeka na podpis prezydenta. Dlaczego?"
+    },
+    {
+      "title": "Ambasador USA uhonorował polskich żołnierzy",
+      "link": "https://tvn24.pl/polska/ambasador-usa-w-polsce-thomas-rose-oddal-czesc-polakom-poleglym-na-misjach-w-iraku-i-w-afganistanie-st8875149?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 17:36:28 GMT",
+      "description": "• Thomas Rose jest amerykańskim ambasadorem w Warszawie.\n• Thomas Rose złożył wieniec pod Pomnikiem Żołnierzy Poległych w Misjach i Operacjach Wojskowych poza Granicami Państwa.\n• W ubiegłym tygodniu prezydent USA Donald Trump wypowiedział słowa, które uraziły weteranów misji wojskowych.\n• Weterani, których słowa uraziły, brali udział w misjach wojskowych w Iraku.\n• Weterani, których słowa uraziły, brali udział w misjach wojskowych w Afganistanie.\n• Prezydentem USA, który wypowiedział urazające słowa, jest Donald Trump.",
+      "originalTitle": "Ambasador USA w Polsce oddał cześć Polakom poległym na zagranicznych misjach wojskowych",
+      "originalDescription": "Thomas Rose, amerykański ambasador w Warszawie, złożył wieniec pod Pomnikiem Żołnierzy Poległych w Misjach i Operacjach Wojskowych poza Granicami Państwa. W ubiegłym tygodniu prezydent USA Donald Trump wypowiedział słowa, które uraziły weteranów misji wojskowych w Iraku i w Afganistanie."
+    },
+    {
+      "title": "Mózg nie jest konieczny do snu",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/aby-spac-nie-trzeba-miec-mozgu-stara-i-skuteczna-strategia-st8875169?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 17:26:37 GMT",
+      "description": "Aby spać, nie trzeba mieć mózgu. Najnowsze badania pokazują, że nawet koralowce, organizmy pozbawione neuronów, zapadają w stan przypominający sen. Odpoczynek pozwala im naprawiać uszkodzenia DNA i utrzymać delikatną równowagę biologiczną.",
+      "originalTitle": "Aby spać, nie trzeba mieć mózgu. \"Stara i skuteczna strategia\"",
+      "originalDescription": "Aby spać, nie trzeba mieć mózgu. Najnowsze badania pokazują, że nawet koralowce, organizmy pozbawione neuronów, zapadają w stan przypominający sen. Odpoczynek pozwala im naprawiać uszkodzenia DNA i utrzymać delikatną równowagę biologiczną."
+    },
+    {
+      "title": "\"Na widok radiowozu gwałtownie skręcił na stację paliw i próbował ukryć się za ciężarówką\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/mlawa-chcial-zniknac-policjantom-z-oczu-nie-mial-uprawnien-do-kierowania-st8875212?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 17:21:16 GMT",
+      "description": "Czujność policjantów wzbudziło zachowanie kierującego bmw. Mężczyzna skręcił na stację paliw, by tam ukryć się za ciężarówką. Dlaczego chciał zniknąć z oczu policji?",
+      "originalTitle": "\"Na widok radiowozu gwałtownie skręcił na stację paliw i próbował ukryć się za ciężarówką\"",
+      "originalDescription": "Czujność policjantów wzbudziło zachowanie kierującego bmw. Mężczyzna skręcił na stację paliw, by tam ukryć się za ciężarówką. Dlaczego chciał zniknąć z oczu policji?"
+    },
+    {
+      "title": "Tysiące lotów, miliony złotych. Tyle płacimy za podniebne podróże posłów",
+      "link": "https://tvn24.pl/polska/loty-poslow-mamy-wykaz-z-sejmu-oto-rekordzisci-st8874033?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 17:19:20 GMT",
+      "description": "Ponad osiem milionów złotych - tyle kosztowały krajowe przeloty posłów w 2025 roku. Do danych dotarł reporter TVN24 Radomir Wit. Rekordzista ma za sobą 144 loty, na które wydano blisko 128 tysięcy złotych.",
+      "originalTitle": "Tysiące lotów, miliony złotych. Tyle płacimy za podniebne podróże posłów",
+      "originalDescription": "Ponad osiem milionów złotych - tyle kosztowały krajowe przeloty posłów w 2025 roku. Do danych dotarł reporter TVN24 Radomir Wit. Rekordzista ma za sobą 144 loty, na które wydano blisko 128 tysięcy złotych."
+    },
+    {
+      "title": "UE szykuje nowy zakaz. Duże zmiany na dworcach i lotniskach",
       "link": "https://tvn24.pl/biznes/ze-swiata/ue-szykuje-nowy-zakaz-koniec-z-folia-na-dworcach-i-lotniskach-st8875237?source=rss",
       "pubDate": "Thu, 29 Jan 2026 17:12:41 GMT",
-      "description": "• Owijanie walizek w folię na lotniskach i dworcach kolejowych w Unii Europejskiej zostanie zlikwidowane.\n• Zmiana ta nastąpi do 2030 roku.\n• Wraz z owijaniem walizek w folię znikną również jednorazowe plastikowe opakowania.\n• Przykładami jednorazowych plastikowych opakowań, które znikną, są torebki na sosy i cukier.\n• Zmiana jest elementem unijnej walki z nadmiarem odpadów opakowaniowych.",
+      "description": "Owijanie walizek w folię na lotniskach i dworcach kolejowych w Unii Europejskiej przejdzie do historii. Do 2030 roku znikną nie tylko jednorazowe plastikowe opakowania, takie jak torebki na sosy czy cukier, ale także punkty foliowania bagażu. To element unijnej walki z nadmiarem odpadów opakowaniowych.",
       "originalTitle": "UE szykuje nowy zakaz. Duże zmiany na dworcach i lotniskach",
       "originalDescription": "Owijanie walizek w folię na lotniskach i dworcach kolejowych w Unii Europejskiej przejdzie do historii. Do 2030 roku znikną nie tylko jednorazowe plastikowe opakowania, takie jak torebki na sosy czy cukier, ale także punkty foliowania bagażu. To element unijnej walki z nadmiarem odpadów opakowaniowych."
     },
     {
-      "title": "Wypadek drogowy",
+      "title": "\"Można powiedzieć, że to była zbrodnia na drodze\"",
       "link": "https://tvn24.pl/lodz/tomaszow-mazowiecki-prokurator-o-zbrodni-na-drodze-st8875224?source=rss",
       "pubDate": "Thu, 29 Jan 2026 16:55:43 GMT",
-      "description": "• Na przejściu dla pieszych doszło do potrącenia dwóch kobiet.\n• Kierowca, który potrącił kobiety, odjechał z miejsca zdarzenia.\n• Kierowca był pijany, gdy dotarli do niego policjanci.\n• Kierowca został skazany na 16 lat i sześć miesięcy pozbawienia wolności.\n• Prokurator określił to zdarzenie jako \"zbrodnię na drodze\".",
+      "description": "Na przejściu dla pieszych śmiertelnie potrącił dwie kobiety i odjechał. Był pijany, gdy dotarli do niego policjanci. Został skazany na 16 lat i sześć miesięcy pozbawienia wolności. - Można powiedzieć, że to była zbrodnia na drodze - zaznaczył prokurator.",
       "originalTitle": "\"Można powiedzieć, że to była zbrodnia na drodze\"",
       "originalDescription": "Na przejściu dla pieszych śmiertelnie potrącił dwie kobiety i odjechał. Był pijany, gdy dotarli do niego policjanci. Został skazany na 16 lat i sześć miesięcy pozbawienia wolności. - Można powiedzieć, że to była zbrodnia na drodze - zaznaczył prokurator."
     },
     {
-      "title": "Artystka przerwała koncert",
+      "title": "Nagle przerwała koncert. \"Mam nadzieję, że nasi przywódcy słuchają\"",
       "link": "https://tvn24.pl/swiat/lady-gaga-przerwala-koncert-by-wyglosic-mowe-potepila-brutalnosc-ice-w-stanach-zjednoczonych-serce-mi-peka-st8875150?source=rss",
       "pubDate": "Thu, 29 Jan 2026 16:53:04 GMT",
       "description": "Lady Gaga przerwała koncert w Tokio i wygłosiła mowę potępiającą brutalne działania służb federalnych w USA. \"Pęka mi serce\" - mówiła ze sceny. Poprosiła o miłosierdzie i \"zmianę kierunku\" działań władz.",
@@ -28,7 +68,7 @@
       "originalDescription": "Lady Gaga przerwała koncert w Tokio i wygłosiła mowę potępiającą brutalne działania służb federalnych w USA. \"Pęka mi serce\" - mówiła ze sceny. Poprosiła o miłosierdzie i \"zmianę kierunku\" działań władz."
     },
     {
-      "title": "Wnioski o podwyżkę opłat na autostradzie",
+      "title": "Wyższe opłaty na autostradzie. Jest wniosek do GDDKiA",
       "link": "https://tvn24.pl/biznes/moto/wyzsze-oplaty-na-autostradzie-a4-jest-wniosek-do-gddkia-st8875179?source=rss",
       "pubDate": "Thu, 29 Jan 2026 16:50:33 GMT",
       "description": "Spółka Stalexport Autostrada Małopolska, zarządzająca odcinkiem autostrady A4 między Krakowem a Katowicami, złożyła wniosek o podwyższenie opłat dla samochodów osobowych. Od 1 kwietnia kierowcy mieliby płacić 18 złotych na bramce zamiast dotychczasowych 17 złotych, co oznacza wzrost opłaty za przejazd całym odcinkiem z 34 do 36 złotych.",
@@ -42,46 +82,6 @@
       "description": "W siedzibie dzielnicowych na Pradze-Północ ktoś wybił dwie szyby. Policjanci zatrzymali 27-letniego podejrzanego. Mężczyzna był pijany. Usłyszał zarzut.",
       "originalTitle": "Wybił szyby w siedzibie dzielnicowych",
       "originalDescription": "W siedzibie dzielnicowych na Pradze-Północ ktoś wybił dwie szyby. Policjanci zatrzymali 27-letniego podejrzanego. Mężczyzna był pijany. Usłyszał zarzut."
-    },
-    {
-      "title": "Oblał niemowlę gorącą kawą. Szukają go dwa państwa",
-      "link": "https://tvn24.pl/swiat/australia-oblal-niemowle-goraca-kawa-grupa-z-chin-pomoze-w-poszukiwaniach-st8875120?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:36:22 GMT",
-      "description": "Chiny wysyłają grupę do Australii, która ma pomóc w śledztwie w sprawie mężczyzny, który miał oblać niemowlaka wrzącą kawą w 2024 roku. Mężczyzna uciekł do Chin. Dziecko wymagało kilku operacji.",
-      "originalTitle": "Oblał niemowlę gorącą kawą. Szukają go dwa państwa",
-      "originalDescription": "Chiny wysyłają grupę do Australii, która ma pomóc w śledztwie w sprawie mężczyzny, który miał oblać niemowlaka wrzącą kawą w 2024 roku. Mężczyzna uciekł do Chin. Dziecko wymagało kilku operacji."
-    },
-    {
-      "title": "System, który zniszczył setki żyć. Szef odchodzi ze stanowiska",
-      "link": "https://tvn24.pl/biznes/tech/kosztowna-pomylka-szef-europejskiego-oddzialu-ustepuje-st8875092?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:28:51 GMT",
-      "description": "Szef Fujitsu w Europie, firmy odpowiedzialnej za wadliwy system Horizon, który doprowadził do jednej z największych pomyłek sądowych w historii Wielkiej Brytanii, odejdzie ze stanowiska w marcu. Paul Patterson pozostanie jednak w firmie i nadal będzie odpowiadał za działania związane z dochodzeniem w sprawie skandalu oraz odszkodowaniami dla poszkodowanych.",
-      "originalTitle": "System, który zniszczył setki żyć. Szef odchodzi ze stanowiska",
-      "originalDescription": "Szef Fujitsu w Europie, firmy odpowiedzialnej za wadliwy system Horizon, który doprowadził do jednej z największych pomyłek sądowych w historii Wielkiej Brytanii, odejdzie ze stanowiska w marcu. Paul Patterson pozostanie jednak w firmie i nadal będzie odpowiadał za działania związane z dochodzeniem w sprawie skandalu oraz odszkodowaniami dla poszkodowanych."
-    },
-    {
-      "title": "Nie żyje pięć osób. Wprowadzono stan klęski żywiołowej",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/portugalia-nie-zyje-piec-osob-wprowadzono-stan-kleski-zywiolowej-st8874965?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:22:02 GMT",
-      "description": "Rośnie bilans ofiar burzy Kristin, jaka przetoczyła się nad Portugalią. Lokalne media poinformowały o co najmniej pięciu zabitych. W części kraju ogłoszono stan klęski żywiołowej. Układ niosący porywisty wiatr oraz ulewy dał o sobie znać także w Hiszpanii, gdzie doszło do podtopień i powodzi.",
-      "originalTitle": "Nie żyje pięć osób. Wprowadzono stan klęski żywiołowej",
-      "originalDescription": "Rośnie bilans ofiar burzy Kristin, jaka przetoczyła się nad Portugalią. Lokalne media poinformowały o co najmniej pięciu zabitych. W części kraju ogłoszono stan klęski żywiołowej. Układ niosący porywisty wiatr oraz ulewy dał o sobie znać także w Hiszpanii, gdzie doszło do podtopień i powodzi."
-    },
-    {
-      "title": "Stanęła w obronie polskich żołnierzy. Tak wyglądał dzień, w którym \"eksplodował\" jej świat",
-      "link": "https://tvn24.pl/swiat/kim-jest-tammy-duckworth-sluzyla-z-polskimi-zolnierzami-stanela-w-ich-obronie-st8874332?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:20:16 GMT",
-      "description": "Na wojnie w Iraku straciła obie nogi. Od lat jest gorliwą adwokatką praw weteranów. W środę w Senacie USA zaciekle broniła żołnierzy NATO, w tym Polaków, których obraził niedawno prezydent Donald Trump. Kim jest demokratyczna senatorka Tammy Duckworth?",
-      "originalTitle": "Stanęła w obronie polskich żołnierzy. Tak wyglądał dzień, w którym \"eksplodował\" jej świat",
-      "originalDescription": "Na wojnie w Iraku straciła obie nogi. Od lat jest gorliwą adwokatką praw weteranów. W środę w Senacie USA zaciekle broniła żołnierzy NATO, w tym Polaków, których obraził niedawno prezydent Donald Trump. Kim jest demokratyczna senatorka Tammy Duckworth?"
-    },
-    {
-      "title": "\"Małżonek pierwszy, małżonek drugi\". Czy im tak wolno?",
-      "link": "https://konkret24.tvn24.pl/polska/malzonek-pierwszy-malzonek-drugi-czy-im-tak-wolno-st8871515?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 16:19:06 GMT",
-      "description": "Czy to będzie zgodne z konstytucją? Czy takie zmiany można wprowadzić rozporządzeniem? - to dwa z wielu pytań, które pojawiają się w związku z planowaną zmianą treści aktów małżeństwa. Minister cyfryzacji wyjaśnia powód, przedstawiciel prezydenta krytykuje, a my sprawdzamy, czy i jak takie zmiany można zgodnie z prawem wprowadzić.",
-      "originalTitle": "\"Małżonek pierwszy, małżonek drugi\". Czy im tak wolno?",
-      "originalDescription": "Czy to będzie zgodne z konstytucją? Czy takie zmiany można wprowadzić rozporządzeniem? - to dwa z wielu pytań, które pojawiają się w związku z planowaną zmianą treści aktów małżeństwa. Minister cyfryzacji wyjaśnia powód, przedstawiciel prezydenta krytykuje, a my sprawdzamy, czy i jak takie zmiany można zgodnie z prawem wprowadzić."
     }
   ]
 }
