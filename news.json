@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-01-29T05:47:07.360Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-01-29T06:18:58.939Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Szpital wstrzymał przyjęcia z powodu bakterii w wodzie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-szpital-wstrzymal-przyjecia-w-wodzie-wykryto-bakterie-st8873839?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 06:10:42 GMT",
+      "description": "• Radomski Szpital Specjalistyczny wstrzymał przyjęcia.\n• Szpital nie wykonuje dializ.\n• Szpital nie będzie wykonywał planowych operacji.\n• W ujęciu wody, z którego korzysta placówka, wykryto bakterie.",
+      "originalTitle": "Szpital wstrzymał przyjęcia. W wodzie wykryto bakterie",
+      "originalDescription": "Radomski Szpital Specjalistyczny wstrzymał przyjęcia, nie wykonuje dializ, nie będzie też planowych operacji. W ujęciu wody, z którego korzysta placówka, wykryto bakterie."
+    },
+    {
+      "title": "Bruce Springsteen nagrał nową piosenkę",
+      "link": "https://tvn24.pl/swiat/streets-of-minneapolis-bruce-springsteen-nagral-piosenke-w-odpowiedzi-na-panstwowy-terror-st8873838?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 06:06:41 GMT",
+      "description": "• Legendarny muzyk Bruce Springsteen opublikował poruszającą balladę \"Streets of Minneapolis\".\n• Ballada została napisana na znak protestu przeciwko operacji służb imigracyjnych w Minneapolis.\n• Bruce Springsteen ma 76 lat.\n• Artysta ��piewa o \"prywatnej armii króla Trumpa\" w balladzie.\n• W balladzie Springsteen również śpiewa o kłamstwach władz.",
+      "originalTitle": "Springsteen: nagrałem piosenkę w odpowiedzi na państwowy terror",
+      "originalDescription": "Legendarny muzyk Bruce Springsteen opublikował poruszającą balladę \"Streets of Minneapolis\", którą napisał na znak protestu przeciwko operacji służb imigracyjnych w Minneapolis. 76-letni artysta śpiewa o \"prywatnej armii króla Trumpa\" i kłamstwach władz."
+    },
+    {
+      "title": "Oddanie tankowca",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-wenezuela-administracja-donalda-trumpa-oddaje-tankowiec-sophia-pierwsza-taka-sytuacja-st8873828?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 06:04:06 GMT",
+      "description": "• Stany Zjednoczone oddają Wenezueli supertankowiec przejęty na początku stycznia.\n• Informację tę podaje agencja Reuters.\n• Agencja Reuters powołuje się na dwa źródła.\n• Jest to pierwszy znany przypadek, żeby administracja prezydenta Donalda Trumpa zwróciła taką jednostkę.\n• Prezydentem, którego administracja zwróciła supertankowiec, jest Donald Trump.",
+      "originalTitle": "Oddają tankowiec. Pierwsza taka sytuacja",
+      "originalDescription": "Stany Zjednoczone oddają Wenezueli supertankowiec przejęty na początku stycznia - informuje agencja Reuters, powołując się na dwa źródła. To pierwszy znany przypadek, żeby administracja prezydenta Donalda Trumpa zwróciła taką jednostkę."
+    },
+    {
+      "title": "Znaleziono trzy kilogramy narkotyków",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/piaseczno-warszawa-ursynow-w-mieszkaniu-mial-trzy-kilogramy-narkotykow-st8873738?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 06:00:21 GMT",
+      "description": "Policjanci z Piaseczna odwiedzili jedno z mieszkań na terenie Warszawy. Znaleźli tam ponad trzy kilogramy narkotyków, zatrzymali 30-latka. Grozi mu 12 lat więzienia.",
+      "originalTitle": "W mieszkaniu miał trzy kilogramy narkotyków",
+      "originalDescription": "Policjanci z Piaseczna odwiedzili jedno z mieszkań na terenie Warszawy. Znaleźli tam ponad trzy kilogramy narkotyków, zatrzymali 30-latka. Grozi mu 12 lat więzienia."
+    },
+    {
+      "title": "Rozprawa księdza Olszewskiego",
+      "link": "https://tvn24.pl/polska/proces-ksiedza-michala-olszewskiego-relacja-z-drugiej-rozprawy-st8873784?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 05:42:46 GMT",
+      "description": "• Dwugodzinna tyrada nie pomogła.\n• Wymieniono nazwiska 330 sędziów.\n• Próba odroczenia rozprawy nie powiodła się.\n• Rozprawa miała miejsce o godzinie 15.\n• O godzinie 15 \"możliwości intelektualne mogą być ograniczone\".\n• Prokurator odczytał akt oskarżenia.\n• Proces ruszył na dobre.\n• Obrońcy oskarżonych utyskują, że jest to \"zatrważająca próba ograniczenia prawa głosu\".\n• Obrońcy oskarżonych porównują siebie do \"paprotków\".",
+      "originalTitle": "Sędzia pod ostrzałem. Relacja z drugiej rozprawy księdza Olszewskiego",
+      "originalDescription": "Nie pomogła dwugodzinna tyrada i wymienienie nazwisk 330 sędziów ani próba odroczenia rozprawy, bo o godzinie 15 \"możliwości intelektualne mogą być ograniczone\". Prokurator odczytał akt oskarżenia, proces ruszył na dobre. \"Zatrważająca próba ograniczenia prawa głosu!\", \"Mamy być tylko paprotkami\" - utyskują obrońcy oskarżonych."
+    },
+    {
+      "title": "Rosyjski oligarcha wygrał sprawę w Niemczech",
+      "link": "https://tvn24.pl/biznes/ze-swiata/niemcy-rosyjski-oligarcha-aliszer-usmanow-wygral-w-sadzie-sprawe-przeciwko-frankfurter-allgemeine-zeitung-st8873833?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 05:42:34 GMT",
+      "description": "• Aliszer Usmanow wygrał proces sądowy przeciwko niemieckiemu dziennikowi \"Frankfurter Allgemeine Zeitung\".\n• Proces sądowy dotyczył artykułu opublikowanego w dzienniku \"Frankfurter Allgemeine Zeitung\".\n• Artykuł dotyczył domniemanych powiązań Aliszera Usmanowa z rosyjskimi elitami władzy.\n• Informację o wygraniu procesu sądowego przez Aliszera Usmanowa podała agencja Reuters.",
+      "originalTitle": "Rosyjski oligarcha wygrał w niemieckim sądzie",
+      "originalDescription": "Aliszer Usmanow wygrał proces sądowy przeciwko niemieckiemu dziennikowi \"Frankfurter Allgemeine Zeitung\" - poinformowała agencja Reuters. Chodzi o artykuł dotyczący domniemanych powiązań oligarchy z rosyjskimi elitami władzy."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Pogoda jest i będzie groźna. Zwłaszcza tu",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-29-01-oblodzenie-mroz-pogoda-jest-i-bedzie-grozna-zwlaszcza-tu-st8873825?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 05:36:51 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed oblodzeniem. Na drogach i chodnikach w części kraju może zrobić się bardzo ślisko. Synoptycy wydali też prognozę zagrożeń na kolejne dni. Wynika z niej, że powrócą siarczyste mrozy.",
+      "originalTitle": "Ostrzeżenia IMGW. Pogoda jest i będzie groźna. Zwłaszcza tu",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed oblodzeniem. Na drogach i chodnikach w części kraju może zrobić się bardzo ślisko. Synoptycy wydali też prognozę zagrożeń na kolejne dni. Wynika z niej, że powrócą siarczyste mrozy."
+    },
+    {
+      "title": "\"Polscy żołnierze ginęli w Afganistanie\". Spór w Senacie USA o słowa Trumpa",
+      "link": "https://tvn24.pl/swiat/polscy-zolnierze-gineli-w-afganistanie-spor-w-senacie-usa-o-slowa-trumpa-st8873781?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 05:36:39 GMT",
+      "description": "Podczas wysłuchania przed senacką Komisją Spraw Zagranicznych sekretarz stanu USA Marco Rubio bronił słów prezydenta Donalda Trumpa, umniejszających rolę żołnierzy państw NATO w Afganistanie. - Polscy żołnierze ginęli w Afganistanie - podkreślała senatorka z Illinois Ladda Tammy Duckworth. Rubio próbował w odpowiedzi wyjaśnić, że prezydent chce, by sojusznicy USA mieli większe zdolności wojskowe.",
+      "originalTitle": "\"Polscy żołnierze ginęli w Afganistanie\". Spór w Senacie USA o słowa Trumpa",
+      "originalDescription": "Podczas wysłuchania przed senacką Komisją Spraw Zagranicznych sekretarz stanu USA Marco Rubio bronił słów prezydenta Donalda Trumpa, umniejszających rolę żołnierzy państw NATO w Afganistanie. - Polscy żołnierze ginęli w Afganistanie - podkreślała senatorka z Illinois Ladda Tammy Duckworth. Rubio próbował w odpowiedzi wyjaśnić, że prezydent chce, by sojusznicy USA mieli większe zdolności wojskowe."
+    },
+    {
+      "title": "Zatrzaśnięte drzwi przed nosem. Bałagan i wojna przed igrzyskami",
+      "link": "https://tvn24.pl/polska/wojna-pkol-u-z-polskim-zwiazkiem-narciarskim-przed-igrzyskami-kontrowersyjne-sklady-i-zmiany-st8872036?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 05:15:00 GMT",
+      "description": "Jedna decyzja uruchomiła lawinę. Był emocjonalny list ojca, który bronił skrzywdzonej córki narciarki. W końcu ci, co namieszali, decyzję zmienili. Ale to już za późno. Bo światło ujrzała wojna na górze w polskim sporcie. Witamy w piekiełku. A wszystko to na kilka dni przed startem zimowych igrzysk olimpijskich.",
+      "originalTitle": "Zatrzaśnięte drzwi przed nosem. Bałagan i wojna przed igrzyskami",
+      "originalDescription": "Jedna decyzja uruchomiła lawinę. Był emocjonalny list ojca, który bronił skrzywdzonej córki narciarki. W końcu ci, co namieszali, decyzję zmienili. Ale to już za późno. Bo światło ujrzała wojna na górze w polskim sporcie. Witamy w piekiełku. A wszystko to na kilka dni przed startem zimowych igrzysk olimpijskich."
+    },
+    {
+      "title": "Przeszukanie FBI w biurze wyborczym hrabstwa, któremu Trump zarzucał sfałszowanie wyników wyborów",
+      "link": "https://tvn24.pl/swiat/usa-przeszukanie-fbi-w-hrabstwie-ktoremu-trump-zarzucal-sfalszowanie-wynikow-wyborow-w-2020-roku-st8873809?source=rss",
+      "pubDate": "Thu, 29 Jan 2026 04:49:00 GMT",
+      "description": "Rzecznik hrabstwa Fulton w stanie Georgia poinformował, że agenci FBI prowadzili przeszukanie w miejscowym biurze wyborczym. Prezydent Donald Trump utrzymywał, że hrabstwo to przedstawiło fałszywe wyniki głosowania w wyborach prezydenckich w 2020 roku, które przegrał - podał dziennik \"Wall Street Journal\".",
+      "originalTitle": "Przeszukanie FBI w biurze wyborczym hrabstwa, któremu Trump zarzucał sfałszowanie wyników wyborów",
+      "originalDescription": "Rzecznik hrabstwa Fulton w stanie Georgia poinformował, że agenci FBI prowadzili przeszukanie w miejscowym biurze wyborczym. Prezydent Donald Trump utrzymywał, że hrabstwo to przedstawiło fałszywe wyniki głosowania w wyborach prezydenckich w 2020 roku, które przegrał - podał dziennik \"Wall Street Journal\"."
+    }
+  ]
 }
