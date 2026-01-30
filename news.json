@@ -1,10 +1,58 @@
 {
-  "lastUpdate": "2026-01-30T04:35:38.449Z",
+  "lastUpdate": "2026-01-30T05:23:25.247Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Sondaż: Węgrzy oceniają Orbana",
+      "title": "Pogoda na piątek 30 stycznia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-30-01-przed-nami-mrozny-poczatek-weekendu-st8875402?source=rss",
+      "pubDate": "Fri, 30 Jan 2026 05:09:00 GMT",
+      "description": "• Pogoda dotyczy dnia piątku.\n• Data tego dnia to 30.01.\n• W większości kraju będzie pochmurnie.\n• Będzie mroźno.\n• Miejscami temperatura spadnie do -12 stopni.",
+      "originalTitle": "Pogoda na dziś - piątek, 30.01. Przed nami mroźny początek weekendu",
+      "originalDescription": "Pogoda na dziś, czyli na piątek 30.01. W piątek w większości kraju będzie pochmurnie i mroźno. Miejscami temperatura spadnie do -12 stopni."
+    },
+    {
+      "title": "Rosyjscy najemnicy strzegą tlenku uranu",
+      "link": "https://tvn24.pl/swiat/atak-na-lotnisko-rosyjscy-najemnicy-pilnuja-tam-tysiaca-ton-tlenku-uranu-st8875469?source=rss",
+      "pubDate": "Fri, 30 Jan 2026 05:02:30 GMT",
+      "description": "• Lotnisko Diori Hamani jest położone w stolicy Nigru, Niamey.\n• Lotnisko Diori Hamani zostało zaatakowane najprawdopodobniej przez dżihadystycznych bojowników.\n• Na lotnisku znajduje się baza wojskowa.\n• W bazie wojskowej przebywają rosyjscy najemnicy.\n• W bazie wojskowej składowane jest około tysiąc ton koncentratu tlenku uranu.",
+      "originalTitle": "Atak na lotnisko. Rosyjscy najemnicy pilnują tam tysiąca ton tlenku uranu",
+      "originalDescription": "Lotnisko Diori Hamani w stolicy Nigru Niamey zostało zaatakowane najprawdopodobniej przez dżihadystycznych bojowników. Znajduje się tam baza wojskowa, w której przebywają rosyjscy najemnicy i gdzie składowane jest około tysiąc ton koncentratu tlenku uranu."
+    },
+    {
+      "title": "Zatrzymano kierowcę, znaleziono narkotyki o wartości 2,5 mln",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zatrzymany-na-autostradzie-a2-w-aucie-narkotyki-warte-2-5-miliona-st8875475?source=rss",
+      "pubDate": "Fri, 30 Jan 2026 05:00:03 GMT",
+      "description": "• Na autostradzie A2 zatrzymali do kontroli drogowej auto z białoruskimi tablicami rejestracyjnymi.\n• W skrytce znaleźli ponad 40 kilogramów mefedronu.\n• Mefedron ma czarnorynkową wartość ponad 2,5 miliona złotych.\n• Kierowca został zatrzymany.",
+      "originalTitle": "Zatrzymany na autostradzie. W aucie narkotyki warte 2,5 miliona",
+      "originalDescription": "Na autostradzie A2 zatrzymali do kontroli drogowej auto z białoruskimi tablicami rejestracyjnymi. W skrytce znaleźli ponad 40 kilogramów mefedronu o czarnorynkowej wartości ponad 2,5 miliona złotych. Kierowca został zatrzymany."
+    },
+    {
+      "title": "Osoby złamały prawo, grozi im deportacja",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zlamali-prawo-czeka-ich-deportacja-st8875476?source=rss",
+      "pubDate": "Fri, 30 Jan 2026 04:59:33 GMT",
+      "description": "• W ostatnich dniach sochaczewscy policjanci zatrzymali czterech cudzoziemców.\n• Zatrzymani cudzoziemcy popełnili przestępstwo lub przebywali w Polsce nielegalnie.\n• Zatrzymanych cudzoziemców przekazano strażnikom granicznym.\n• Czeka ich deportacja.",
+      "originalTitle": "Złamali prawo, czeka ich deportacja",
+      "originalDescription": "W ostatnich dniach sochaczewscy policjanci zatrzymali czterech cudzoziemców, którzy popełnili przestępstwo lub przebywali w Polsce nielegalnie. Przekazali ich strażnikom granicznym. Czeka ich deportacja."
+    },
+    {
+      "title": "Premier Kanady o suwerenności kraju wobec USA",
+      "link": "https://tvn24.pl/swiat/premier-mark-carney-oczekuje-ze-administracja-usa-bedzie-szanowac-suwerennosc-kanady-st8875459?source=rss",
+      "pubDate": "Fri, 30 Jan 2026 04:53:00 GMT",
+      "description": "• Premier Kanady to Mark Carney\n• Są doniesienia, że separatyści z Alberty kontaktują się z administracją amerykańską\n• Kontakty dotyczą sprawy oderwania Alberty od Kanady\n• Mark Carney wyraził oczekiwanie, że amerykańska administracja będzie szanować suwerenność Kanady",
+      "originalTitle": "Premier Kanady: oczekuję, że administracja USA będzie szanować suwerenność mojego kraju",
+      "originalDescription": "Premier Kanady Mark Carney odniósł się do doniesień, że separatyści z Alberty kontaktują się z administracją amerykańską w sprawie oderwania tej prowincji od Kanady. Wyraził oczekiwanie, że amerykańska administracja będzie szanować suwerenność Kanady."
+    },
+    {
+      "title": "\"Car od granicy\" zapowiada wycofanie części agentów federalnych z Minnesoty",
+      "link": "https://tvn24.pl/swiat/usa-tom-homan-zapowiedzial-zmniejszenie-liczby-funkcjonariuszy-federalnych-w-minnesocie-st8875454?source=rss",
+      "pubDate": "Fri, 30 Jan 2026 04:37:07 GMT",
+      "description": "Trwają prace nad planem wycofania części służb federalnych z Minnesoty - zapowiedział Tom Homan, określany przez Biały Dom jako \"car od granicy\". Przyznał też, że dotychczasowe działania tych służb \"nie były idealne\".",
+      "originalTitle": "\"Car od granicy\" zapowiada wycofanie części agentów federalnych z Minnesoty",
+      "originalDescription": "Trwają prace nad planem wycofania części służb federalnych z Minnesoty - zapowiedział Tom Homan, określany przez Biały Dom jako \"car od granicy\". Przyznał też, że dotychczasowe działania tych służb \"nie były idealne\"."
+    },
+    {
+      "title": "Większość Węgrów uważa, że Orban jest \"zmęczony\" i \"niekompetentny\". Sondaż",
       "link": "https://tvn24.pl/swiat/wegry-wedlug-55-procent-badanych-premier-viktor-orban-jest-zmeczony-i-niekompetentny-st8875472?source=rss",
       "pubDate": "Fri, 30 Jan 2026 04:34:00 GMT",
       "description": "Ponad połowa Węgrów uważa, że premier Viktor Orban jest \"zmęczony\" i \"niekompetentny\" - wynika z badania węgierskiego Instytutu Publicus. Rezygnacja Orbana z ubiegania się o kolejną kadencję nie zmieni znacząco układu sił w węgierskiej polityce.",
@@ -12,15 +60,15 @@
       "originalDescription": "Ponad połowa Węgrów uważa, że premier Viktor Orban jest \"zmęczony\" i \"niekompetentny\" - wynika z badania węgierskiego Instytutu Publicus. Rezygnacja Orbana z ubiegania się o kolejną kadencję nie zmieni znacząco układu sił w węgierskiej polityce."
     },
     {
-      "title": "Zima w mieście wpływa na wózkowicze",
+      "title": "\"Wózkowicz nie niedźwiedź, nie zapada w sen zimowy\". Zima w mieście to dla nich koszmar",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nieodsniezone-chodniki-to-dla-nich-koszmar-st8870802?source=rss",
       "pubDate": "Fri, 30 Jan 2026 04:29:04 GMT",
-      "description": "• Zima nie sprzyja samodzielności.\n• Dla części mieszkańców zima oznacza izolację.\n• Dla części mieszkańców zima oznacza problemy w przemieszczaniu się.\n• Zasypane chodniki są problemem dla osób z niepełnosprawnościami.\n• Hałdy śniegu przy przejściach są problemem dla osób z niepełnosprawnościami.\n• Śliskie podjazdy są problemem dla osób z niepełnosprawnościami.",
+      "description": "Zima nie sprzyja samodzielności. Dla części mieszkańców oznacza izolację lub problemy w przemieszczaniu się. Zasypane chodniki, hałdy śniegu przy przejściach i śliskie podjazdy to koszmar dla osób z niepełnosprawnościami.",
       "originalTitle": "\"Wózkowicz nie niedźwiedź, nie zapada w sen zimowy\". Zima w mieście to dla nich koszmar",
       "originalDescription": "Zima nie sprzyja samodzielności. Dla części mieszkańców oznacza izolację lub problemy w przemieszczaniu się. Zasypane chodniki, hałdy śniegu przy przejściach i śliskie podjazdy to koszmar dla osób z niepełnosprawnościami."
     },
     {
-      "title": "Trump otrzymał opcje uderzeń na Iran",
+      "title": "Media: Trump otrzymał szereg opcji uderzeń na Iran",
       "link": "https://tvn24.pl/swiat/wsj-pentagon-zaprezentowal-donaldowi-trumpowi-szereg-opcji-uderzen-na-iran-st8875471?source=rss",
       "pubDate": "Fri, 30 Jan 2026 04:28:43 GMT",
       "description": "\"Wall Street Journal\" donosi, że Pentagon i Biały Dom zaprezentowały prezydentowi Donaldowi Trumpowi szereg opcji uderzeń na Iran. Wśród opcji znalazła się możliwość przeprowadzenia dużej kampanii bombardowania obiektów reżimu.",
@@ -28,60 +76,12 @@
       "originalDescription": "\"Wall Street Journal\" donosi, że Pentagon i Biały Dom zaprezentowały prezydentowi Donaldowi Trumpowi szereg opcji uderzeń na Iran. Wśród opcji znalazła się możliwość przeprowadzenia dużej kampanii bombardowania obiektów reżimu."
     },
     {
-      "title": "Sprawa interwencji, zarzuty",
+      "title": "Zarzuty po interwencji na Targówku, problemy mistrza olimpijskiego, Trump przekonał Putina",
       "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-piatek-30-stycznia-najwazniejsze-informacje-st8875474?source=rss",
       "pubDate": "Fri, 30 Jan 2026 04:13:15 GMT",
       "description": "Po głośnej interwencji na Targówku 49-latek usłyszał zarzuty zabójstwa oraz zarzut zabicia trzech zwierząt domowych. Donald Trump oświadczył, że przekonał Władimira Putina, aby ten ograniczył przez tydzień ataki na ukraińskie miasta. Dwukrotny mistrz olimpijski Arkadiusz S. usłyszał zarzuty oszustwa, wyłudzenia leasingu i działania na szkodę spółki. Oto pięć rzeczy, które warto wiedzieć w piątek 30 stycznia.",
       "originalTitle": "Zarzuty po interwencji na Targówku, problemy mistrza olimpijskiego, Trump przekonał Putina",
       "originalDescription": "Po głośnej interwencji na Targówku 49-latek usłyszał zarzuty zabójstwa oraz zarzut zabicia trzech zwierząt domowych. Donald Trump oświadczył, że przekonał Władimira Putina, aby ten ograniczył przez tydzień ataki na ukraińskie miasta. Dwukrotny mistrz olimpijski Arkadiusz S. usłyszał zarzuty oszustwa, wyłudzenia leasingu i działania na szkodę spółki. Oto pięć rzeczy, które warto wiedzieć w piątek 30 stycznia."
-    },
-    {
-      "title": "Stracili córkę przez nękanie. Teraz apelują: ludzie, obudźcie się",
-      "link": "https://tvn24.pl/fakty-artykuly/stracili-corke-przez-nekanie-teraz-apeluja-ludzie-obudzcie-sie-st8875410?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 21:37:21 GMT",
-      "description": "To wstrząsający apel rodziców, którzy stracili córkę: \"ludzie, obudźcie się, dzieci umierają, bo nie wytrzymują tego, co się dzieje\". 16-letnia Julia odebrała sobie życie, bo nie mogła znieść hejtu. Długotrwałe nękanie, poniżanie, czyli tak zwany bullying, to coś, czego doświadcza aż 62 procent uczniów.",
-      "originalTitle": "Stracili córkę przez nękanie. Teraz apelują: ludzie, obudźcie się",
-      "originalDescription": "To wstrząsający apel rodziców, którzy stracili córkę: \"ludzie, obudźcie się, dzieci umierają, bo nie wytrzymują tego, co się dzieje\". 16-letnia Julia odebrała sobie życie, bo nie mogła znieść hejtu. Długotrwałe nękanie, poniżanie, czyli tak zwany bullying, to coś, czego doświadcza aż 62 procent uczniów."
-    },
-    {
-      "title": "Joanna Kryńska z nagrodą Lidera Roku 2025 w Ochronie Zdrowia",
-      "link": "https://tvn24.pl/zdrowie/dziennikarka-tvn24-joanna-krynska-z-nagroda-lidera-roku-2025-w-ochronie-zdrowia-st8875416?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 21:13:45 GMT",
-      "description": "Dziennikarka TVN24 i autorka podcastu \"Wywiad Medyczny\" w TVN24+ Joanna Kryńska otrzymała nagrodę Lidera Roku 2025 w Ochronie Zdrowia w kategorii Media i Public Relations.",
-      "originalTitle": "Joanna Kryńska z nagrodą Lidera Roku 2025 w Ochronie Zdrowia",
-      "originalDescription": "Dziennikarka TVN24 i autorka podcastu \"Wywiad Medyczny\" w TVN24+ Joanna Kryńska otrzymała nagrodę Lidera Roku 2025 w Ochronie Zdrowia w kategorii Media i Public Relations."
-    },
-    {
-      "title": "Trump twierdzi, że \"Putin się zgodził\". Zełenski reaguje. Chodzi o ataki na Ukrainę",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-donald-trump-wladimir-putin-zgodzil-sie-nie-ostrzeliwac-ukrainskich-miast-przez-tydzien-st8875274?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 17:53:48 GMT",
-      "description": "Prezydent USA Donald Trump oświadczył, że przekonał przywódcę Rosji Władimira Putina, aby ograniczył działania przeciwko Ukrainie. Putin miał się zgodzić na to, żeby przez tydzień nie atakować Kijowa i innych ukraińskich miast. Prezydent Ukrainy Wołodymyr Zełenski wyraził nadzieję, że ustalenia będą realizowane.",
-      "originalTitle": "Trump twierdzi, że \"Putin się zgodził\". Zełenski reaguje. Chodzi o ataki na Ukrainę",
-      "originalDescription": "Prezydent USA Donald Trump oświadczył, że przekonał przywódcę Rosji Władimira Putina, aby ograniczył działania przeciwko Ukrainie. Putin miał się zgodzić na to, żeby przez tydzień nie atakować Kijowa i innych ukraińskich miast. Prezydent Ukrainy Wołodymyr Zełenski wyraził nadzieję, że ustalenia będą realizowane."
-    },
-    {
-      "title": "Pył z Sahary znów nad Europą",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/pyl-z-sahary-znow-nad-europa-st8875394?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 20:44:19 GMT",
-      "description": "Pył znad Sahary ponownie dotarł do Europy. Gęsta chmura unoszących się w atmosferze drobin pogorszyła jakość powietrza w Grecji, na Bałkanach oraz nad południowo-wschodnim basenem Morza Śródziemnego.",
-      "originalTitle": "Pył z Sahary znów nad Europą",
-      "originalDescription": "Pył znad Sahary ponownie dotarł do Europy. Gęsta chmura unoszących się w atmosferze drobin pogorszyła jakość powietrza w Grecji, na Bałkanach oraz nad południowo-wschodnim basenem Morza Śródziemnego."
-    },
-    {
-      "title": "Zmarł Jerzy Stańczyk. \"Jedna z najważniejszych postaci w historii policji\"",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zmarl-nadinspektor-jerzy-stanczyk-byl-komendantem-glownym-policji-st8875405?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 20:42:19 GMT",
-      "description": "Zmarł nadinspektor Jerzy Stańczyk, komendant główny policji w latach 1995-1997. Stańczyk urodził się 11 lipca 1936 roku w Warszawie. Miał 89 lat. \"Zabiegał o uspołecznienie całej formacji, o solidną pracę prewencyjną\" - napisał były rzecznik policji Paweł Biedziak.",
-      "originalTitle": "Zmarł Jerzy Stańczyk. \"Jedna z najważniejszych postaci w historii policji\"",
-      "originalDescription": "Zmarł nadinspektor Jerzy Stańczyk, komendant główny policji w latach 1995-1997. Stańczyk urodził się 11 lipca 1936 roku w Warszawie. Miał 89 lat. \"Zabiegał o uspołecznienie całej formacji, o solidną pracę prewencyjną\" - napisał były rzecznik policji Paweł Biedziak."
-    },
-    {
-      "title": "Prezydent przyjął ludzi Brauna. Bilewicz: gdyby się od niego odwrócił, byłoby to zaskakujące",
-      "link": "https://tvn24.pl/polska/prezydent-przyjal-ludzi-brauna-bilewicz-gdyby-sie-od-niego-odwrocil-byloby-to-zaskakujace-st8875297?source=rss",
-      "pubDate": "Thu, 29 Jan 2026 19:58:27 GMT",
-      "description": "Poparcie w drugiej turze ze strony elektoratu Grzegorza Brauna było czynnikiem, który przyczynił się do takiego, a nie innego wyniku tych wyborów - powiedział Michał Bilewicz, psycholog społeczny i profesor nadzwyczajny Uniwersytetu Warszawskiego, pytany w \"Kropce nad i\" w TVN24 o wizytę posłów partii Grzegorza Brauna w Pałacu Prezydenckim. Gość Moniki Olejnik odniósł się też do trwającego od siedmiu lat oczekiwania na podpis prezydenta pod jego nominacją profesorską. Jak podkreślił, to \"znak, że politycy są w stanie decydować o karierach naukowych\".",
-      "originalTitle": "Prezydent przyjął ludzi Brauna. Bilewicz: gdyby się od niego odwrócił, byłoby to zaskakujące",
-      "originalDescription": "Poparcie w drugiej turze ze strony elektoratu Grzegorza Brauna było czynnikiem, który przyczynił się do takiego, a nie innego wyniku tych wyborów - powiedział Michał Bilewicz, psycholog społeczny i profesor nadzwyczajny Uniwersytetu Warszawskiego, pytany w \"Kropce nad i\" w TVN24 o wizytę posłów partii Grzegorza Brauna w Pałacu Prezydenckim. Gość Moniki Olejnik odniósł się też do trwającego od siedmiu lat oczekiwania na podpis prezydenta pod jego nominacją profesorską. Jak podkreślił, to \"znak, że politycy są w stanie decydować o karierach naukowych\"."
     }
   ]
 }
