@@ -1,39 +1,63 @@
 {
-  "lastUpdate": "2026-01-31T09:41:50.810Z",
+  "lastUpdate": "2026-01-31T10:06:45.953Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek gazowy, 1 osoba poszkodowana",
+      "title": "Uszkodzony bankomat, trwa śledztwo",
+      "link": "https://tvn24.pl/krakow/murzasichle-uszkodzony-bankomat-policja-poszukuje-sprawcow-nocnego-ataku-st8877530?source=rss",
+      "pubDate": "Sat, 31 Jan 2026 09:55:05 GMT",
+      "description": "• W nocy ktoś uszkodził wolnostojący bankomat.\n• Bankomat znajduje się w pobliżu kompleksu narciarskiego.\n• Kompleks narciarski położony jest w Murzasichlu.\n• Murzasichle znajduje się w województwie małopolskim.\n• Policja zabezpiecza ślady z miejsca zdarzenia.\n• Policja analizuje monitoring w celu ustalenia okoliczności zdarzenia.\n• Policja ustala okoliczności zdarzenia związane z uszkodzeniem bankomatu.",
+      "originalTitle": "Uszkodzony bankomat. Policja szuka sprawców",
+      "originalDescription": "W nocy ktoś uszkodził wolnostojący bankomat w pobliżu kompleksu narciarskiego w Murzasichlu (woj. małopolskie). Policja zabezpiecza ślady, analizuje monitoring i ustala okoliczności zdarzenia."
+    },
+    {
+      "title": "Prokuratura wnioskuje o uchylenie immunitetu posła",
+      "link": "https://tvn24.pl/rzeszow/przemysl-prokuratura-chce-uchylenia-immunitetu-poslowi-pis-tadeuszowi-chrzanowi-st8877486?source=rss",
+      "pubDate": "Sat, 31 Jan 2026 09:51:01 GMT",
+      "description": "• Prokuratura Okręgowa w Przemyślu chce postawić posłowi Tadeuszowi Chrzanowi zarzuty.\n• Tadeusz Chrzan jest posłem PiS.\n• Tadeusz Chrzan był starostą jarosławskim.\n• Zarzuty dotyczą między innymi wybudowania bez pozwoleń strzelnicy w Maleniskach.\n• Zarzuty dotyczą również nieprawidłowego rozliczenia dotacji z Ministerstwa Obrony Narodowej.\n• W piątek Prokuratura Okręgowa w Przemyślu skierowała do marszałka Sejmu wniosek o uchylenie posłowi immunitetu.",
+      "originalTitle": "Prokuratura chce uchylenia immunitetu posłowi PiS",
+      "originalDescription": "Prokuratura Okręgowa w Przemyślu chce postawić posłowi PiS Tadeuszowi Chrzanowi, byłemu staroście jarosławskiemu, zarzuty między innymi wybudowania bez pozwoleń strzelnicy w Maleniskach i nieprawidłowego rozliczenia dotacji z Ministerstwa Obrony Narodowej. W piątek skierowała do marszałka Sejmu wniosek o uchylenie posłowi immunitetu."
+    },
+    {
+      "title": "Śmierć wilka 1478F w Yellowstone",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wilki-wilczyca-1478f-z-parku-narodowego-yellowstone-zabita-miala-wyjatkowy-charakter-st8876980?source=rss",
+      "pubDate": "Sat, 31 Jan 2026 09:46:53 GMT",
+      "description": "Wilczyca, która należała do najsłynniejszej grupy rodzinnej wilków żyjących w Parku Narodowym Yellowstone, została zastrzelona w ubiegłym miesiącu przez kłusownika. Zdarzenie to wywołało poruszenie wśród obrońców dzikiej przyrody.",
+      "originalTitle": "Wilki w Parku Narodowym Yellowstone. Kto zabił 1478F? \"Wiedział, że to, co robi, jest nielegalne\"",
+      "originalDescription": "Wilczyca, która należała do najsłynniejszej grupy rodzinnej wilków żyjących w Parku Narodowym Yellowstone, została zastrzelona w ubiegłym miesiącu przez kłusownika. Zdarzenie to wywołało poruszenie wśród obrońców dzikiej przyrody."
+    },
+    {
+      "title": "\"Duże niebezpieczeństwo\". Streetworkerka: pracy w okresie silnych mrozów jest szczególnie dużo",
+      "link": "https://tvn24.pl/bialystok/bialystok-silne-mrozy-zagrozeniem-dla-osob-w-kryzysie-bezdomnosci-streetworkerzy-apeluja-o-reakcje-st8877406?source=rss",
+      "pubDate": "Sat, 31 Jan 2026 09:46:21 GMT",
+      "description": "Silne mrozy od kilku dni nie odpuszczają, a temperatura w wielu miejscach w kraju spada poniżej -10 stopni. W takich warunkach najbardziej zagrożone są osoby w kryzysie bezdomności, które często chronią się w pustostanach pozbawionych ogrzewania. Pomoc niosą im streetworkerzy, apelując do mieszkańców o reakcję i czujność. Jeden telefon do policji czy straży miejskiej może uratować ludzkie życie.",
+      "originalTitle": "\"Duże niebezpieczeństwo\". Streetworkerka: pracy w okresie silnych mrozów jest szczególnie dużo",
+      "originalDescription": "Silne mrozy od kilku dni nie odpuszczają, a temperatura w wielu miejscach w kraju spada poniżej -10 stopni. W takich warunkach najbardziej zagrożone są osoby w kryzysie bezdomności, które często chronią się w pustostanach pozbawionych ogrzewania. Pomoc niosą im streetworkerzy, apelując do mieszkańców o reakcję i czujność. Jeden telefon do policji czy straży miejskiej może uratować ludzkie życie."
+    },
+    {
+      "title": "Wybuch gazu, jedna osoba poszkodowana",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/stary-kraszew-wybuch-gazu-poszkodowana-jedna-osoba-st8877458?source=rss",
       "pubDate": "Sat, 31 Jan 2026 09:29:44 GMT",
-      "description": "• Strażacy interweniowali w miejscowości Stary Kraszew.\n• Miejscowość Stary Kraszew znajduje się w województwie Mazowieckim.\n• Doszło do wybuchu gazu.\n• W wyniku wybuchu gazu poszkodowana została jedna osoba.",
+      "description": "Strażacy interweniowali w miejscowości Stary Kraszew (Mazowieckie). W wyniku wybuchu gazu poszkodowana została jedna osoba.",
       "originalTitle": "Wybuch gazu, jedna osoba poszkodowana",
       "originalDescription": "Strażacy interweniowali w miejscowości Stary Kraszew (Mazowieckie). W wyniku wybuchu gazu poszkodowana została jedna osoba."
     },
     {
-      "title": "Wzrost zachorowań przewidywany na najbliższy okres",
+      "title": "Szczyt zachorowań jeszcze przed nami. Eksperci ostrzegają",
       "link": "https://tvn24.pl/polska/rosnie-liczba-zachorowan-na-grype-glowny-inspektor-sanitarny-pawel-grzesiowski-ostrzega-st8877420?source=rss",
       "pubDate": "Sat, 31 Jan 2026 09:19:53 GMT",
-      "description": "• Duże mrozy nie zabijają wirusów - mówił Główny Inspektor Sanitarny w związku z rosnącą zachorowalnością na grypę.\n• W najbliższych tygodniach spodziewany jest szczyt zachorowań w naszym kraju.\n• Doktor Ewa Uścińska w rozmowie z TVN24 apelowała, by nie przychodzić do pracy z niedoleczoną infekcją.\n• Doktor Ewa Uścińska apelowała o zapobieganie dalszemu rozprzestrzenianiu się choroby.",
+      "description": "Duże mrozy nie zabijają wirusów - mówił Główny Inspektor Sanitarny w związku z rosnącą zachorowalnością na grypę. Jak przekazał, w najbliższych tygodniach spodziewany jest szczyt zachorowań w naszym kraju. Doktor Ewa Uścińska w rozmowie z TVN24 apelowała, by nie przychodzić do pracy z niedoleczoną infekcją i w ten sposób zapobiegać dalszemu rozprzestrzenianiu się choroby.",
       "originalTitle": "Szczyt zachorowań jeszcze przed nami. Eksperci ostrzegają",
       "originalDescription": "Duże mrozy nie zabijają wirusów - mówił Główny Inspektor Sanitarny w związku z rosnącą zachorowalnością na grypę. Jak przekazał, w najbliższych tygodniach spodziewany jest szczyt zachorowań w naszym kraju. Doktor Ewa Uścińska w rozmowie z TVN24 apelowała, by nie przychodzić do pracy z niedoleczoną infekcją i w ten sposób zapobiegać dalszemu rozprzestrzenianiu się choroby."
     },
     {
-      "title": "Osoba potrzebowała pomocy, wezwano służby",
+      "title": "\"Trzymał rękę na klatce piersiowej\". Przejęli telefon i wezwali pomoc",
       "link": "https://tvn24.pl/rzeszow/hoszow-trzymal-reke-na-klatce-piersiowej-przejeli-telefon-i-wezwali-pomoc-st8877436?source=rss",
       "pubDate": "Sat, 31 Jan 2026 09:10:03 GMT",
-      "description": "• Policjanci pomogli 46-letniemu mężczyźnie.\n• Mężczyzna zasłabł na poboczu drogi w Hoszowie.\n• Hoszów znajduje się w województwie podkarpackim.\n• Mężczyzna pilnie potrzebował interwencji medycznej.\n• Funkcjonariusze dokończyli zgłoszenie na numer 112.\n• Do czasu przyjazdu karetki funkcjonariusze czuwali nad stanem zdrowia mężczyzny.",
+      "description": "Policjanci pomogli 46-letniemu mężczyźnie, który na poboczu drogi w Hoszowie (woj. podkarpackie) zasłabł i pilnie potrzebował interwencji medycznej. Funkcjonariusze dokończyli zgłoszenie na numer 112 i do czasu przyjazdu karetki czuwali nad stanem zdrowia mężczyzny.",
       "originalTitle": "\"Trzymał rękę na klatce piersiowej\". Przejęli telefon i wezwali pomoc",
       "originalDescription": "Policjanci pomogli 46-letniemu mężczyźnie, który na poboczu drogi w Hoszowie (woj. podkarpackie) zasłabł i pilnie potrzebował interwencji medycznej. Funkcjonariusze dokończyli zgłoszenie na numer 112 i do czasu przyjazdu karetki czuwali nad stanem zdrowia mężczyzny."
-    },
-    {
-      "title": "ZEA i Sudan planują inwestycję w złotej ulicy",
-      "link": "https://tvn24.pl/biznes/ze-swiata/zjednoczone-emiraty-arabskie-chca-zbudowac-ulice-ze-zlota-najwyzsza-cena-zaplaci-sudan-st8877392?source=rss",
-      "pubDate": "Sat, 31 Jan 2026 08:53:07 GMT",
-      "description": "Władze Dubaju chcą wykładać ulicę złotem. W ten sposób chcą podkreślić pozycję Zjednoczonych Emiratów Arabskich, jako światowego centrum handlu drogocennym metalem. Jednak eksperci alarmują, że złoto, które trafia do kraju napędza wyniszczający konflikt w Sudanie.",
-      "originalTitle": "ZEA chcą zbudować ulicę ze złota. Rachunek zapłaci Sudan",
-      "originalDescription": "Władze Dubaju chcą wykładać ulicę złotem. W ten sposób chcą podkreślić pozycję Zjednoczonych Emiratów Arabskich, jako światowego centrum handlu drogocennym metalem. Jednak eksperci alarmują, że złoto, które trafia do kraju napędza wyniszczający konflikt w Sudanie."
     },
     {
       "title": "Opóźnienia i odwołane pociągi. Utrudnienia na kolei",
@@ -58,30 +82,6 @@
       "description": "W sobotę rano wyż z północnej Europy dostarczył do wielu rejonów Polski silny mróz, a wy dostarczyliście na Kontakt24 zdjęcia waszych termometrów. Gdzie już dziś było bardzo zimno, a gdzie silny mróz dopiero nadejdzie?",
       "originalTitle": "Nadszedł mróz. Pokazujecie zdjęcia swoich termometrów",
       "originalDescription": "W sobotę rano wyż z północnej Europy dostarczył do wielu rejonów Polski silny mróz, a wy dostarczyliście na Kontakt24 zdjęcia waszych termometrów. Gdzie już dziś było bardzo zimno, a gdzie silny mróz dopiero nadejdzie?"
-    },
-    {
-      "title": "Milionowe zasięgi i jedno ostrzeżenie. \"Niektórzy twórcy są gotowi zrobić wszystko\"",
-      "link": "https://tvn24.pl/biznes/tech/ai-slop-milionowe-zasiegi-i-jedno-ostrzezenie-jeremy-carrasco-niektorzy-tworcy-sa-gotowi-zrobic-wszystko-st8865049?source=rss",
-      "pubDate": "Sat, 31 Jan 2026 08:05:00 GMT",
-      "description": "Króliki na trampolinie? Wenezuelczycy tańczący na ulicach po interwencji USA? Filmiki wygenerowane przez sztuczną inteligencję mają nawet milionowe zasięgi. Jak nauczyć się odróżniać prawdę od fejków? - Nie zakładaj, że to, co widzisz w internecie, na pewno jest prawdziwe - radzi Jeremy Carrasco, specjalista od materiałów wideo tworzonych przy użyciu AI, którego konto śledzi prawie 400 tysięcy osób.",
-      "originalTitle": "Milionowe zasięgi i jedno ostrzeżenie. \"Niektórzy twórcy są gotowi zrobić wszystko\"",
-      "originalDescription": "Króliki na trampolinie? Wenezuelczycy tańczący na ulicach po interwencji USA? Filmiki wygenerowane przez sztuczną inteligencję mają nawet milionowe zasięgi. Jak nauczyć się odróżniać prawdę od fejków? - Nie zakładaj, że to, co widzisz w internecie, na pewno jest prawdziwe - radzi Jeremy Carrasco, specjalista od materiałów wideo tworzonych przy użyciu AI, którego konto śledzi prawie 400 tysięcy osób."
-    },
-    {
-      "title": "W USA rozpoczął się kolejny shutdown",
-      "link": "https://tvn24.pl/biznes/ze-swiata/shutdown-w-usa-stany-zjednoczone-bez-budzetu-pentagon-i-kluczowe-resorty-bez-srodkow-st8877351?source=rss",
-      "pubDate": "Sat, 31 Jan 2026 07:51:28 GMT",
-      "description": "Po ubiegłorocznym, rekordowym \"zamknięciu rządu\", amerykański Kongres ponownie nie zdołał przyjąć ustawy budżetowej w terminie. Choć dokument przeszedł przez Senat, wciąż czeka na zatwierdzenie przez Izbę Reprezentantów oraz podpis prezydenta. Część resortów - w tym Pentagon - od dzisiaj pracują bez środków.",
-      "originalTitle": "W USA rozpoczął się kolejny shutdown",
-      "originalDescription": "Po ubiegłorocznym, rekordowym \"zamknięciu rządu\", amerykański Kongres ponownie nie zdołał przyjąć ustawy budżetowej w terminie. Choć dokument przeszedł przez Senat, wciąż czeka na zatwierdzenie przez Izbę Reprezentantów oraz podpis prezydenta. Część resortów - w tym Pentagon - od dzisiaj pracują bez środków."
-    },
-    {
-      "title": "\"Nadchodzące noce będą szalenie zimne\". Lokalne warunki odegrają kluczową rolę",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-nadchodzace-noce-beda-szalenie-zimne-lokalne-warunki-odegraja-kluczowa-role-st8877283?source=rss",
-      "pubDate": "Sat, 31 Jan 2026 07:38:11 GMT",
-      "description": "Sobotni poranek przywitał mieszkańców części Polski bardzo niskimi temperaturami. To jednak dopiero wstęp do tego, co stanie się w kolejnych dniach. Synoptyk tvnmeteo.pl Arleta Unton-Pyziołek na antenie TVN24 odpowiadała o tym, co nas czeka.",
-      "originalTitle": "\"Nadchodzące noce będą szalenie zimne\". Lokalne warunki odegrają kluczową rolę",
-      "originalDescription": "Sobotni poranek przywitał mieszkańców części Polski bardzo niskimi temperaturami. To jednak dopiero wstęp do tego, co stanie się w kolejnych dniach. Synoptyk tvnmeteo.pl Arleta Unton-Pyziołek na antenie TVN24 odpowiadała o tym, co nas czeka."
     }
   ]
 }
