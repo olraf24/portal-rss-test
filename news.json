@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-01-31T05:46:44.661Z",
+  "lastUpdate": "2026-01-31T06:13:33.027Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Mróz i silny wiatr w Polsce",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-caly-kraj-na-minusie-silny-wiatr-poteguje-mroz-st8877264?source=rss",
+      "pubDate": "Sat, 31 Jan 2026 05:59:42 GMT",
+      "description": "Mróz w Polsce. W sobotni poranek w Polsce nie było miejsca z dodatnią temperaturą. Wartości na termometrach były bardzo niskie, a ze względu na silny wiatr dał się odczuć jeszcze większy mróz.",
+      "originalTitle": "Cała Polska na minusie. Silny wiatr potęguje mróz",
+      "originalDescription": "Mróz w Polsce. W sobotni poranek w Polsce nie było miejsca z dodatnią temperaturą. Wartości na termometrach były bardzo niskie, a ze względu na silny wiatr dał się odczuć jeszcze większy mróz."
+    },
     {
       "title": "Protesty w USA przeciwko ICE",
       "link": "https://tvn24.pl/swiat/usa-protesty-przeciwko-dzialaniom-ice-tysiace-ludzi-na-ulicach-miast-st8877253?source=rss",
@@ -12,15 +20,15 @@
       "originalDescription": "Tysiące ludzi wyszły na ulice amerykańskich miast by protestować przeciwko działaniom federalnych służb imigracyjnych (ICE). Demonstranci zgromadzili się między innymi Minneapolis, Nowym Jorku i Los Angeles. Protesty mają być kontynuowane w weekend."
     },
     {
-      "title": "Niemcy: możliwy wzrost poparcia dla AfD",
+      "title": "Niemcy: możliwy scenariusz po dojściu AfD do władzy",
       "link": "https://tvn24.pl/swiat/niemcy-spiegel-po-dojsciu-afd-do-wladzy-mozliwy-scenariusz-jak-w-minnesocie-st8877243?source=rss",
       "pubDate": "Sat, 31 Jan 2026 05:28:38 GMT",
-      "description": "• Tygodnik \"Spiegel\" ostrzega przed możliwymi konsekwencjami dojścia do władzy prawicowo-populistycznej partii AfD w Niemczech.\n• Może wystąpić sytuacja podobna do obław służb migracyjnych ICE w Minnesocie w USA.\n• Partia AfD planuje utworzenie grup wzorowanych na agencji ICE.\n• Regionalne struktury partii AfD są odpowiedzialne za planowanie utworzenia tych grup.",
+      "description": "Tygodnik \"Spiegel\" ostrzega, że jeśli w Niemczech dojdzie do władzy prawicowo-populistyczna AfD, może wystąpić sytuacja podobna do obław służb migracyjnych ICE w Minnesocie w USA. Jej regionalne struktury planują utworzenie grup wzorowanych na agencji ICE.",
       "originalTitle": "\"Spiegel\": Niemcom grozi scenariusz jak w Minnesocie po dojściu AfD do władzy",
       "originalDescription": "Tygodnik \"Spiegel\" ostrzega, że jeśli w Niemczech dojdzie do władzy prawicowo-populistyczna AfD, może wystąpić sytuacja podobna do obław służb migracyjnych ICE w Minnesocie w USA. Jej regionalne struktury planują utworzenie grup wzorowanych na agencji ICE."
     },
     {
-      "title": "Konsekwencje porodu dla dzieci",
+      "title": "Dzieci a ból porodowy",
       "link": "https://tvn24.pl/swiat/epidemia-opioidow-w-usa-dzieci-placa-za-bol-rodzicow-po-przecieciu-pepowiny-zaczyna-sie-pieklo-st8869612?source=rss",
       "pubDate": "Sat, 31 Jan 2026 05:15:50 GMT",
       "description": "Opioidy zmieniają brzmienie płaczu niemowląt. Łatwo go rozpoznać - jest bardzo wysoki, przenikliwy. Lekarze nazywają go płaczem bólu.",
@@ -28,7 +36,7 @@
       "originalDescription": "Opioidy zmieniają brzmienie płaczu niemowląt. Łatwo go rozpoznać - jest bardzo wysoki, przenikliwy. Lekarze nazywają go płaczem bólu."
     },
     {
-      "title": "Iran rozważa odpowiedź na działania Unii Europejskiej",
+      "title": "Iran szykuje odwet wobec Unii Europejskiej. Cztery warianty",
       "link": "https://tvn24.pl/swiat/ue-uznala-straznikow-rewolucji-za-organizacje-terrorystyczna-iran-szykuje-dzialania-odwetowe-st8877222?source=rss",
       "pubDate": "Sat, 31 Jan 2026 04:49:50 GMT",
       "description": "Iran, w odpowiedzi na uznanie Korpusu Strażników Rewolucji Islamskiej, zapowiada kroki odwetowe. Teheran pracuje nad czterema wariantami.",
@@ -74,14 +82,6 @@
       "description": "Pogoda na dziś, czyli na sobotę, 31.01. W ciągu dnia czeka nas iście zimowa aura. Na termometrach zobaczymy miejscami nawet -12 stopni. W części kraju pojawią się przelotne opady śniegu.",
       "originalTitle": "Pogoda na dziś - sobota, 31.01. Silny wiatr sprawi, że będzie nam jeszcze zimniej",
       "originalDescription": "Pogoda na dziś, czyli na sobotę, 31.01. W ciągu dnia czeka nas iście zimowa aura. Na termometrach zobaczymy miejscami nawet -12 stopni. W części kraju pojawią się przelotne opady śniegu."
-    },
-    {
-      "title": "Wokół amerykańskiego lotniskowca krąży irański dron",
-      "link": "https://tvn24.pl/swiat/iran-wyslal-drona-shahed-129-aby-sledzil-amerykanski-lotniskowiec-uss-abraham-lincoln-st8877184?source=rss",
-      "pubDate": "Fri, 30 Jan 2026 21:28:29 GMT",
-      "description": "Iran monitoruje ruchy amerykańskiego lotniskowca USS Abraham Lincoln, używając drona Shahed-129 - najbardziej zaawansowanej maszyny tego typu, jaką posiada w arsenale. Irańscy wojskowi twierdzą, że \"trzymają palec na spuście\". Prezydent USA Donald Trump wywiera presję na Teheran w sprawie programu atomowego. W piątek zasugerował, że jest w kontakcie z Teheranem i ten chce \"układu\".",
-      "originalTitle": "Wokół amerykańskiego lotniskowca krąży irański dron",
-      "originalDescription": "Iran monitoruje ruchy amerykańskiego lotniskowca USS Abraham Lincoln, używając drona Shahed-129 - najbardziej zaawansowanej maszyny tego typu, jaką posiada w arsenale. Irańscy wojskowi twierdzą, że \"trzymają palec na spuście\". Prezydent USA Donald Trump wywiera presję na Teheran w sprawie programu atomowego. W piątek zasugerował, że jest w kontakcie z Teheranem i ten chce \"układu\"."
     }
   ]
 }
