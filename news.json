@@ -1,10 +1,50 @@
 {
-  "lastUpdate": "2026-02-02T08:47:30.394Z",
+  "lastUpdate": "2026-02-02T09:20:38.945Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pierwszy dzień: 100 tysięcy faktur",
+      "title": "Waldemar Żurek otrzymał mandat",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-przyjal-mandat-policja-potwierdzila-popelnienie-wykroczenia-st8879871?source=rss",
+      "pubDate": "Mon, 02 Feb 2026 09:17:10 GMT",
+      "description": "• Minister sprawiedliwości Waldemar Żurek zrzekł się immunitetu.\n• Zrzekł się immunitetu w związku z wykroczeniem drogowym.\n• Wykroczenie drogowe miało miejsce podczas wywiadu w programie \"Duży w Maluchu\".\n• Waldemar Żurek przyjął mandat za wykroczenie drogowe.\n• Przeprosił za to wydarzenie w TVN24+.",
+      "originalTitle": "Waldemar Żurek przyjął mandat. Policja potwierdziła popełnienie wykroczenia",
+      "originalDescription": "Minister sprawiedliwości Waldemar Żurek zrzekł się immunitetu i przyjął mandat za wykroczenie drogowe podczas wywiadu w programie \"Duży w Maluchu\". W TVN24+ przeprosił też za to wydarzenie."
+    },
+    {
+      "title": "Pogoda w Polsce: niska temperatura",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/mrozy-najzimniejsza-noc-mamy-w-polsce-epoke-lodowcowa-czy-mroz-znowu-zaatakuje-tomasz-wasilewski-na-antenie-tvn24-st8879700?source=rss",
+      "pubDate": "Mon, 02 Feb 2026 09:12:41 GMT",
+      "description": "• Za nami lodowata noc, ale kolejna może być równie zimna lub jeszcze bardziej.\n• W prognozach widać ocieplenie.\n• Czy zostanie ono z nami na dłużej?\n• O pogodowej przyszłości mówił Tomasz Wasilewski.\n�� Tomasz Wasilewski jest prezentrem i synoptykiem tvnmeteo.pl.",
+      "originalTitle": "Pogoda. Mamy w Polsce \"epokę lodowcową\". Czy mróz znowu zaatakuje?",
+      "originalDescription": "Za nami lodowata noc, ale kolejna może być równie zimna lub jeszcze bardziej. W prognozach widać ocieplenie. Czy zostanie ono z nami na dłużej? O pogodowej przyszłości mówił Tomasz Wasilewski, prezenter i synoptyk tvnmeteo.pl."
+    },
+    {
+      "title": "Wypadek na A2, utrudnienia",
+      "link": "https://tvn24.pl/poznan/kowalewko-a2-po-zderzeniu-ciezarowek-trasa-zablokowana-w-obu-kierunkach-st8879711?source=rss",
+      "pubDate": "Mon, 02 Feb 2026 08:21:53 GMT",
+      "description": "• Autostrada A2 jest całkowicie zablokowana w rejonie miejscowości Kowalewek w kierunku Warszawy.\n• Autostrada A2 jest częściowo zablokowana w kierunku Poznania.\n• Zdarzenie miało miejsce rano.\n• Zdarzenie miało miejsce w pobliżu węzła Sługocin.\n• W zdarzeniu uczestniczyła jedna ciężarówka, która najechała na tył drugiej ciężarówki.\n• Wybuchł pożar.",
+      "originalTitle": "Zderzenie ciężarówek i pożar na A2. Trasa na Warszawę zablokowana",
+      "originalDescription": "Autostrada A2 jest całkowicie zablokowana w rejonie miejscowości Kowalewek (Wielkopolska) w kierunku Warszawy i częściowo zablokowana w kierunku Poznania. Rano w pobliżu węzła Sługocin jedna ciężarówka najechała na tył drugiej. Wybuchł pożar."
+    },
+    {
+      "title": "Wejścia obiektów niezidentyfikowanych w polską przestrzeń powietrzną",
+      "link": "https://tvn24.pl/polska/kolejne-wloty-balonow-w-polska-przestrzen-powietrzna-st8879809?source=rss",
+      "pubDate": "Mon, 02 Feb 2026 08:51:01 GMT",
+      "description": "W nocy w polskiej przestrzeni powietrznej odnotowano wlot obiektów o charakterze balonów - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych.",
+      "originalTitle": "Kolejne wloty balonów w polską przestrzeń powietrzną",
+      "originalDescription": "W nocy w polskiej przestrzeni powietrznej odnotowano wlot obiektów o charakterze balonów - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych."
+    },
+    {
+      "title": "Dziś rusza kwalifikacja wojskowa, wezwania dostanie 235 tysięcy osób. To trzeba wiedzieć",
+      "link": "https://tvn24.pl/polska/kwalifikacja-wojskowa-2026-kto-dostanie-wezwanie-co-grozi-za-niestawienie-sie-co-zabrac-ze-soba-st8869679?source=rss",
+      "pubDate": "Mon, 26 Jan 2026 15:37:18 GMT",
+      "description": "Już dziś rusza w Polsce kwalifikacja wojskowa. Wezwania mogą się spodziewać między innymi tegoroczni 19-latkowie. Kto jeszcze? Na czym polega kwalifikacja wojskowa i co grozi osobom, które się na niej nie stawią?",
+      "originalTitle": "Dziś rusza kwalifikacja wojskowa, wezwania dostanie 235 tysięcy osób. To trzeba wiedzieć",
+      "originalDescription": "Już dziś rusza w Polsce kwalifikacja wojskowa. Wezwania mogą się spodziewać między innymi tegoroczni 19-latkowie. Kto jeszcze? Na czym polega kwalifikacja wojskowa i co grozi osobom, które się na niej nie stawią?"
+    },
+    {
+      "title": "100 tysięcy faktur pierwszego dnia. \"Wielu się obawiało czy system wytrzyma\"",
       "link": "https://tvn24.pl/biznes/dlafirm/ksef-przyjal-100-tysiecy-faktur-pierwszego-dnia-dariusz-standerski-wielu-sie-obawialo-st8879706?source=rss",
       "pubDate": "Mon, 02 Feb 2026 08:26:57 GMT",
       "description": "Krajowy System e-Faktur działa stabilnie. Wiceminister cyfryzacji Dariusz Standerski potwierdził, że mimo obaw, nie odnotowano żadnych poważnych zakłóceń. Z platformy skorzystało już kilkaset tysięcy osób.",
@@ -12,18 +52,10 @@
       "originalDescription": "Krajowy System e-Faktur działa stabilnie. Wiceminister cyfryzacji Dariusz Standerski potwierdził, że mimo obaw, nie odnotowano żadnych poważnych zakłóceń. Z platformy skorzystało już kilkaset tysięcy osób."
     },
     {
-      "title": "Wypadek na A2, zablokowana jezdnia",
-      "link": "https://tvn24.pl/poznan/kowalewko-a2-po-zderzeniu-ciezarowek-trasa-zablokowana-w-obu-kierunkach-st8879711?source=rss",
-      "pubDate": "Mon, 02 Feb 2026 08:21:53 GMT",
-      "description": "• Autostrada A2 jest całkowicie zablokowana w rejonie miejscowości Kowalewko.\n• Miejscowość Kowalewko znajduje się w Wielkopolsce.\n• Zablokowanie autostrady nastąpiło w pobliżu węzła Sługocin.\n• W rejonie węzła Sługocin doszło do wypadku drogowego.\n• Wypadkiem drogowym były dwa pojazdy, oba były ciężarówkami.\n• Jeden z ciężarówek najechał na tył drugiej.\n• W wyniku zderzenia wybuchł pożar.",
-      "originalTitle": "Zderzenie ciężarówek i pożar na A2. Trasa całkowicie zablokowana",
-      "originalDescription": "Autostrada A2 jest całkowicie zablokowana w rejonie miejscowości Kowalewko (Wielkopolska). Rano w pobliżu węzła Sługocin jedna ciężarówka najechała na tył drugiej. Wybuchł pożar."
-    },
-    {
-      "title": "Ceny ropy spadają",
+      "title": "Obawy o konflikt słabną, ceny ropy wyraźnie spadają",
       "link": "https://tvn24.pl/biznes/rynki/cena-ropy-wyrazne-spadki-po-miesiacu-rekordow-st8879659?source=rss",
       "pubDate": "Mon, 02 Feb 2026 07:53:25 GMT",
-      "description": "• Ceny ropy naftowej spadają w poniedziałek na światowych rynkach.\n• Spadek cen jest spowodowany informacjami o rozmowach USA z Iranem.\n• Rozmowy USA z Iranem zmniejszyły obawy inwestorów przed eskalacją konfliktu na Bliskim Wschodzie.\n• Zniżki cen następują po bardzo silnych wzrostach cen surowca w styczniu.",
+      "description": "Ceny ropy naftowej mocno spadają w poniedziałek na światowych rynkach po informacjach o rozmowach USA z Iranem, co zmniejszyło obawy inwestorów przed eskalacją konfliktu na Bliskim Wschodzie. Zniżki następują po bardzo silnych wzrostach cen surowca w styczniu.",
       "originalTitle": "Obawy o konflikt słabną, ceny ropy wyraźnie spadają",
       "originalDescription": "Ceny ropy naftowej mocno spadają w poniedziałek na światowych rynkach po informacjach o rozmowach USA z Iranem, co zmniejszyło obawy inwestorów przed eskalacją konfliktu na Bliskim Wschodzie. Zniżki następują po bardzo silnych wzrostach cen surowca w styczniu."
     },
@@ -50,38 +82,6 @@
       "description": "Kolejna kobieta twierdzi, że przestępca seksualny Jeffrey Epstein wysłał ją do Wielkiej Brytanii, gdzie miała być wykorzystywana seksualnie przez ówczesnego księcia Yorku Andrzeja. Prawnik kobiety przekazał, że ta nie wyklucza pozwu cywilnego przeciwko byłemu członkowi brytyjskiej rodziny królewskiej.",
       "originalTitle": "Kolejna kobieta oskarża byłego księcia. Twierdzi, że Epstein wysyłał ją do Londynu",
       "originalDescription": "Kolejna kobieta twierdzi, że przestępca seksualny Jeffrey Epstein wysłał ją do Wielkiej Brytanii, gdzie miała być wykorzystywana seksualnie przez ówczesnego księcia Yorku Andrzeja. Prawnik kobiety przekazał, że ta nie wyklucza pozwu cywilnego przeciwko byłemu członkowi brytyjskiej rodziny królewskiej."
-    },
-    {
-      "title": "Nie żyje Wojciech Michniewski",
-      "link": "https://tvn24.pl/kultura-i-styl/wojciech-michniewski-nie-zyje-wybitny-dyrygent-i-kompozytor-mial-78-lat-st8879628?source=rss",
-      "pubDate": "Mon, 02 Feb 2026 07:21:55 GMT",
-      "description": "Nie żyje Wojciech Michniewski, kompozytor, dyrygent, pedagog i promotor muzyki. Informację o odejściu \"jednej z najważniejszych postaci polskiej muzyki współczesnej\" przekazało Ministerstwo Kultury i Dziedzictwa Narodowego.",
-      "originalTitle": "Nie żyje Wojciech Michniewski",
-      "originalDescription": "Nie żyje Wojciech Michniewski, kompozytor, dyrygent, pedagog i promotor muzyki. Informację o odejściu \"jednej z najważniejszych postaci polskiej muzyki współczesnej\" przekazało Ministerstwo Kultury i Dziedzictwa Narodowego."
-    },
-    {
-      "title": "Akcja FBI w Polsce. Korupcja przy kontraktach z NATO. Zatrzymany obywatel Polski",
-      "link": "https://tvn24.pl/kielce/akcja-fbi-w-polsce-korupcja-przy-kontraktach-z-nato-zatrzymany-obywatel-polski-st8879632?source=rss",
-      "pubDate": "Mon, 02 Feb 2026 07:18:33 GMT",
-      "description": "Policjanci CBŚP w asyście funkcjonariuszy z USA zatrzymali w województwie świętokrzyskim Ralfa G., podejrzewanego o międzynarodową przestępczość. Chodzi o oszustwa i łapówki przy realizacji kontraktów na rzecz NATO oraz rządu Stanów Zjednoczonych. Mężczyzna ma być wydalony do USA.",
-      "originalTitle": "Akcja FBI w Polsce. Korupcja przy kontraktach z NATO. Zatrzymany obywatel Polski",
-      "originalDescription": "Policjanci CBŚP w asyście funkcjonariuszy z USA zatrzymali w województwie świętokrzyskim Ralfa G., podejrzewanego o międzynarodową przestępczość. Chodzi o oszustwa i łapówki przy realizacji kontraktów na rzecz NATO oraz rządu Stanów Zjednoczonych. Mężczyzna ma być wydalony do USA."
-    },
-    {
-      "title": "Robi się zimno od samego patrzenia. Pokazujecie swoje termometry",
-      "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-na-waszych-termometrach-robi-sie-zimno-od-samego-patrzenia-st8879608?source=rss",
-      "pubDate": "Mon, 02 Feb 2026 07:15:09 GMT",
-      "description": "Mroźny wyż przyniósł do Polski bardzo niską temperaturę. Na Kontakt24 przesłaliście zdjęcia swoich termometrów, na których widać wartości niespotykane w ostatnich latach.",
-      "originalTitle": "Robi się zimno od samego patrzenia. Pokazujecie swoje termometry",
-      "originalDescription": "Mroźny wyż przyniósł do Polski bardzo niską temperaturę. Na Kontakt24 przesłaliście zdjęcia swoich termometrów, na których widać wartości niespotykane w ostatnich latach."
-    },
-    {
-      "title": "\"Tego zabrakło\". Tomczyk o \"próbie rozegrania parlamentarzystów\"",
-      "link": "https://tvn24.pl/polska/co-sie-dzieje-w-palacu-prezydenckim-cezary-tomczyk-o-prezydencie-karolu-nawrockim-i-mocnym-korkociagu-st8879580?source=rss",
-      "pubDate": "Mon, 02 Feb 2026 07:13:26 GMT",
-      "description": "Wszystko musi być przede wszystkim robione z szacunkiem dla ludzi, których się zaprasza. W tym przypadku tego zabrakło - powiedział w \"Rozmowie Piaseckiego\" w TVN24 wiceminister obrony Cezary Tomczyk, komentując serię spotkań przedstawicieli części ugrupowań z Karolem Nawrockim. Mówił też o sytuacji w Pałacu Prezydenckim i \"wirze\", w który jego zdaniem jest wprowadzany prezydent.",
-      "originalTitle": "\"Tego zabrakło\". Tomczyk o \"próbie rozegrania parlamentarzystów\"",
-      "originalDescription": "Wszystko musi być przede wszystkim robione z szacunkiem dla ludzi, których się zaprasza. W tym przypadku tego zabrakło - powiedział w \"Rozmowie Piaseckiego\" w TVN24 wiceminister obrony Cezary Tomczyk, komentując serię spotkań przedstawicieli części ugrupowań z Karolem Nawrockim. Mówił też o sytuacji w Pałacu Prezydenckim i \"wirze\", w który jego zdaniem jest wprowadzany prezydent."
     }
   ]
 }
