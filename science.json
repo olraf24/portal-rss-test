@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-02T12:48:09.272Z",
+  "lastUpdate": "2026-02-02T13:29:36.833Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
@@ -14,6 +14,12 @@
       "link": "https://dzienniknaukowy.pl/trening-wechu-poprawia-u-dzieci-swiadomosc-zapachow-co-moze-wplywac-na-jakosc-zycia",
       "pubDate": "Mon, 02 Feb 2026 11:47:53 +0000",
       "description": "Węch jest jak opisywane przez Mickiewicza zdrowie - nie doceniamy go, dopóki go nie stracimy - podkreśla dr Marta Rokosz z UWr. Badania, w których uczestniczyła, wykazały, że trening węchowy zwiększa świadomość zapachów u dzieci, co potencjalnie może wpływać na ogólną jakość życia."
+    },
+    {
+      "title": "Automatyczne testy penetracyjne vs. tradycyjne pentesty: kiedy stosować każde podejście",
+      "link": "https://dzienniknaukowy.pl/automatyczne-testy-penetracyjne-vs-tradycyjne-pentesty-kiedy-stosowac-kazde-podejscie",
+      "pubDate": "Mon, 02 Feb 2026 09:04:00 +0000",
+      "description": "W przeszłości bezpieczeństwo aplikacji opierało się głównie na okresowych kontrolach. W modelu kaskadowym standardową praktyką był ręczny pentest wykonywany raz w roku zakończony raportem podatności. Przy wolnym tempie zmian w kodzie takie podejście było wystarczające."
     },
     {
       "title": "Genetyczka: chów wsobny psów rasowych i sterylizacja mieszańców niepokojącym trendem",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/teleskop-webba-pomogl-zbadac-promieniowanie-uv-w-oblokach-wokol-protogwiazd",
       "pubDate": "Fri, 23 Jan 2026 15:27:25 +0000",
       "description": "Nawet protogwiazdy, w których nie zachodzą jeszcze reakcje termojądrowe, są zdolne emitować promieniowanie ultrafioletowe - pokazują badania z wykorzystaniem teleskopu Jamesa Webba."
-    },
-    {
-      "title": "Ekspert: mało kto wie, że szczepienia przeciw grypie chronią także przed chorobami serca, nowotworami i demencją",
-      "link": "https://dzienniknaukowy.pl/ekspert-malo-kto-wie-ze-szczepienia-przeciw-grypie-chronia-takze-przed-chorobami-serca-nowotworami-i-demencja",
-      "pubDate": "Fri, 23 Jan 2026 15:09:32 +0000",
-      "description": "Szczepienia przeciw grypie i innym zakażeniom układu oddechowego chronią nie tylko przed samą infekcją i jej bezpośrednimi powikłaniami. Zmniejszają także ryzyko zdarzeń sercowo-naczyniowych, ograniczają antybiotykooporność, mogą obniżać ryzyko demencji, niektórych nowotworów i wzmacniają odporność ogólną - podkreśla prof. Piotr Rzymski."
     }
   ]
 }
