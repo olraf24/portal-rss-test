@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-02-03T20:12:35.562Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-02-03T20:46:47.188Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kumulacja w Eurojackpot rośnie",
+      "link": "https://tvn24.pl/biznes/z-kraju/wyniki-losowania-w-eurojackpot-z-3-lutego-2026-jakie-liczby-padly-podczas-losowania-st8883300?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 20:39:20 GMT",
+      "description": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 70 milionów złotych. Odnotowano siedem wygranych trzeciego stopnia. Oto wyniki losowania Eurojackpot z 3 lutego 2026 roku.",
+      "originalTitle": "Rośnie kumulacja w Eurojackpot",
+      "originalDescription": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 70 milionów złotych. Odnotowano siedem wygranych trzeciego stopnia. Oto wyniki losowania Eurojackpot z 3 lutego 2026 roku."
+    },
+    {
+      "title": "Niska temperatura na Kubie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/rekord-zimna-na-kubie-st8883295?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 20:36:59 GMT",
+      "description": "• We wtorek na Kubie odnotowano najniższą temperaturę powietrza w historii.\n• Zarejestrowano ją w prowincji Matanzas.\n• Prowincja Matanzas jest położona niedaleko stolicy kraju - Hawany.",
+      "originalTitle": "Rekord zimna na Kubie",
+      "originalDescription": "We wtorek na Kubie odnotowano najniższą temperaturę powietrza w historii. Zarejestrowano ją w prowincji Matanzas, położonej niedaleko stolicy kraju - Hawany."
+    },
+    {
+      "title": "Kierwiński odniósł się do wypowiedzi prezydenta",
+      "link": "https://tvn24.pl/polska/marcin-kierwinski-o-tematach-rbn-na-miejscu-ludzi-prezydenta-bym-w-to-nie-wchodzil-st8883264?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 20:16:13 GMT",
+      "description": "• Opis dotyczy wypowiedzi ministra spraw wewnętrznych i administracji.\n• Minister spraw wewnętrznych i administracji to Marcin Kierwiński.\n• Wypowiedź miała miejsce w programie \"Kropka nad i\" TVN24.\n• Marcin Kierwiński odniósł się do posiedzenia Rady Bezpieczeństwa Narodowego.\n• Posiedzenie Rady Bezpieczeństwa Narodowego zostało zwołane przez prezydenta.\n• Marcin Kierwiński określił tematy posiedzenia Rady Bezpieczeństwa Narodowego jako \"bicie piany\".",
+      "originalTitle": "Kierwiński: na miejscu ludzi prezydenta w takie tematy bym nie wchodził",
+      "originalDescription": "To bardziej wygląda na bicie piany - ocenił w \"Kropce nad i\" TVN24 minister spraw wewnętrznych i administracji Marcin Kierwiński. Mówił tak o tematach zwołanego przez prezydenta posiedzenia Rady Bezpieczeństwa Narodowego."
+    },
+    {
+      "title": "Wycofanie dwóch partii produktu dla niemowląt",
+      "link": "https://tvn24.pl/biznes/z-kraju/ostrzezenie-gis-partia-produktu-dla-niemowlat-wycofana-st8883214?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 20:00:18 GMT",
+      "description": "• Nestle Polska wycofuje dwie partie produktów do żywienia niemowląt NAN Optipro.\n• Powodem wycofania jest potencjalna obecność toksyny cereulidyny w jednym ze składników.\n• Rodzice powinni sprawdzić numery partii produktów.\n• Rodzice powinni wstrzymać podawanie wskazanych produktów.\n• Ostrzeżenie w tej sprawie wydał Główny Inspektorat Sanitarny.",
+      "originalTitle": "Dwie partie produktu dla niemowląt wycofane. Ostrzeżenie",
+      "originalDescription": "Nestle Polska wycofuje dwie partie produktów do żywienia niemowląt NAN Optipro z powodu potencjalnej obecności toksyny cereulidyny w jednym ze składników. Rodzice powinni sprawdzić numery partii i wstrzymać podawanie wskazanych produktów. Ostrzeżenie w tej sprawie wydał Główny Inspektorat Sanitarny."
+    },
+    {
+      "title": "Awaria w Alior Banku zakończona",
+      "link": "https://tvn24.pl/biznes/pieniadze/koniec-awarii-w-alior-banku-wszystkie-systemy-dzialaja-juz-poprawnie-st8882906?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 19:48:00 GMT",
+      "description": "• Awaria systemów i aplikacji Alior Banku wystąpiła we wtorek po południu.\n• Awaria została usunięta.\n• Wszystkie systemy działają już poprawnie.\n• Informację o usunięciu awarii Alior Bank podał wieczorem.",
+      "originalTitle": "Koniec awarii w Alior Banku. \"Wszystkie systemy działają już poprawnie\"",
+      "originalDescription": "Awaria systemów i aplikacji Alior Banku, która wystąpiła we wtorek po południu, została usunięta. Wszystkie systemy działają już poprawnie - poinformował wieczorem Alior Bank."
+    },
+    {
+      "title": "Prognoza pogody na nadchodzący rok",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/susza-w-polsce-co-po-zimie-zapowiada-sie-pierwszy-rok-od-lat-st8882420?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 19:44:52 GMT",
+      "description": "W Polsce mamy zimę, jakiej nie było od lat. Rozległa i utrzymująca się pokrywa śnieżna daje rzadką w ostatnich latach szansę na poprawę bilansu wodnego i spokojniejsze wejście w wiosnę bez widma suszy. Pojawia się jednak inna obawa.",
+      "originalTitle": "Co po zimie? Zapowiada się pierwszy taki rok od lat",
+      "originalDescription": "W Polsce mamy zimę, jakiej nie było od lat. Rozległa i utrzymująca się pokrywa śnieżna daje rzadką w ostatnich latach szansę na poprawę bilansu wodnego i spokojniejsze wejście w wiosnę bez widma suszy. Pojawia się jednak inna obawa."
+    },
+    {
+      "title": "Rosyjski ślad w aktach Epsteina. \"To jest totalnie, niestety, możliwe\"",
+      "link": "https://tvn24.pl/polska/rosyjski-slad-w-aktach-epsteina-i-mozliwe-wplywy-kgb-pelczynska-nalecz-to-jest-totalnie-niestety-mozliwe-st8883222?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 19:27:24 GMT",
+      "description": "To jest jakieś moralne trzęsienie ziemi - mówiła w \"Faktach po Faktach\" Katarzyna Pełczyńska-Nałęcz, komentując nowe dokumenty w sprawie Jeffreya Epsteina, ujawnione przez administrację USA. Ministra funduszy i polityki regionalnej oraz szefowa Polski 2050 odniosła się też do rosyjskich wątków pojawiających się w aferze. Pełczyńska-Nałęcz mówiła również o planowanym spotkaniu z premierem.",
+      "originalTitle": "Rosyjski ślad w aktach Epsteina. \"To jest totalnie, niestety, możliwe\"",
+      "originalDescription": "To jest jakieś moralne trzęsienie ziemi - mówiła w \"Faktach po Faktach\" Katarzyna Pełczyńska-Nałęcz, komentując nowe dokumenty w sprawie Jeffreya Epsteina, ujawnione przez administrację USA. Ministra funduszy i polityki regionalnej oraz szefowa Polski 2050 odniosła się też do rosyjskich wątków pojawiających się w aferze. Pełczyńska-Nałęcz mówiła również o planowanym spotkaniu z premierem."
+    },
+    {
+      "title": "\"Tak działa system\". Co łączy Jeffreya Epsteina i burmistrza Nowego Jorku",
+      "link": "https://konkret24.tvn24.pl/swiat/tak-dziala-system-co-laczy-jeffreya-epsteina-i-burmistrza-nowego-jorku-st8882932?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 19:18:20 GMT",
+      "description": "To między innymi dzięki Jeffreyowi Epsteinowi obecny burmistrz Nowego Jorku zrobił karierę polityczną. Tak twierdzą internauci, którzy publikują fotografię, na której obok nieżyjącego przestępcy seksualnego są jeszcze między innymi Bill Gates i Bill Clinton. To zdjęcie niewiele ma wspólnego z rzeczywistością.",
+      "originalTitle": "\"Tak działa system\". Co łączy Jeffreya Epsteina i burmistrza Nowego Jorku",
+      "originalDescription": "To między innymi dzięki Jeffreyowi Epsteinowi obecny burmistrz Nowego Jorku zrobił karierę polityczną. Tak twierdzą internauci, którzy publikują fotografię, na której obok nieżyjącego przestępcy seksualnego są jeszcze między innymi Bill Gates i Bill Clinton. To zdjęcie niewiele ma wspólnego z rzeczywistością."
+    },
+    {
+      "title": "Śnieżyca sparaliżowała europejskie lotnisko",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/atak-zimy-w-niemczech-sniezyca-sparalizowala-europejskie-lotnisko-st8883166?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 18:55:24 GMT",
+      "description": "Obfite opady śniegu doprowadziły do utrudnień na lotnisku we Frankfurcie nad Menem. Jak podały lokalne media, część lotów została odwołana. Atak zimy spowodował, że doszło do kilkudziesięciu wypadków drogowych.",
+      "originalTitle": "Śnieżyca sparaliżowała europejskie lotnisko",
+      "originalDescription": "Obfite opady śniegu doprowadziły do utrudnień na lotnisku we Frankfurcie nad Menem. Jak podały lokalne media, część lotów została odwołana. Atak zimy spowodował, że doszło do kilkudziesięciu wypadków drogowych."
+    },
+    {
+      "title": "Cena złota odbiła po największym spadku od dekad",
+      "link": "https://tvn24.pl/biznes/rynki/cena-zlota-odbila-po-najwiekszym-spadku-od-dekad-st8883164?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 18:39:19 GMT",
+      "description": "Cena złota odbiła we wtorek po największym od ponad 40 lat jednodniowym spadku w piątek. Według analityków wtorkowe wzrosty oznaczają powrót hossy wywołanej zawirowaniami politycznymi, zmianami na giełdach i obawami o stabilność systemu finansowego.",
+      "originalTitle": "Cena złota odbiła po największym spadku od dekad",
+      "originalDescription": "Cena złota odbiła we wtorek po największym od ponad 40 lat jednodniowym spadku w piątek. Według analityków wtorkowe wzrosty oznaczają powrót hossy wywołanej zawirowaniami politycznymi, zmianami na giełdach i obawami o stabilność systemu finansowego."
+    }
+  ]
 }
