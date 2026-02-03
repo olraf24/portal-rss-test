@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2026-02-03T08:14:20.642Z",
+  "lastUpdate": "2026-02-03T08:46:55.883Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pentagon gotowy, możliwe napięcia",
+      "title": "Awaria sieci trakcyjnej, objazdy sześciu linii tramwajowych",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-utrudnienia-w-ruchu-tramwajow-na-rondzie-wiatraczna-st8881728?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:20:50 GMT",
+      "description": "• Na rondzie Wiatraczna doszło do uszkodzenia pantografów w dwóch składach Tramwajów Warszawskich.\n• Zerwana została sieć trakcyjna.\n• Reporterem, który ustalił te informacje, jest Artur Węgrzynowicz z tvnwarszawa.pl.\n• Sześć linii skierowano na objazdy.",
+      "originalTitle": "Zerwana sieć trakcyjna, sześć linii tramwajowych na objazdach",
+      "originalDescription": "Na rondzie Wiatraczna doszło do uszkodzenia pantografów w dwóch składach Tramwajów Warszawskich. Zerwana została sieć trakcyjna - ustalił reporter tvnwarszawa.pl Artur Węgrzynowicz. Sześć linii skierowano na objazdy."
+    },
+    {
+      "title": "Osoba pojawia się bez bielizny",
+      "link": "https://tvn24.pl/tvnmeteo/polska/widzimy-ze-jestes-bez-kalesonow-st8881644?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:27:40 GMT",
+      "description": "Mróz panujący w ostatnich dniach w Polsce jest dużym wyzwaniem dla organizmu. Doskonale widać to w oku kamery termowizyjnej, która pokazuje, z których części ludzkiego ciała ucieka najwięcej ciepła.",
+      "originalTitle": "\"Widzimy, że jesteś bez kalesonów\"",
+      "originalDescription": "Mróz panujący w ostatnich dniach w Polsce jest dużym wyzwaniem dla organizmu. Doskonale widać to w oku kamery termowizyjnej, która pokazuje, z których części ludzkiego ciała ucieka najwięcej ciepła."
+    },
+    {
+      "title": "Pożar w hali w Błoniu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/blonie-pozar-w-hali-produkcyjnej-akcja-strazy-pozarnej-st8881734?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:26:43 GMT",
+      "description": "W miejscowości Błonie (Mazowsze) doszło do pożaru na terenie firmy zajmującej się przetwórstwem warzyw i owoców. Trwa akcja straży pożarnej.",
+      "originalTitle": "Pożar w hali produkcyjnej w Błoniu",
+      "originalDescription": "W miejscowości Błonie (Mazowsze) doszło do pożaru na terenie firmy zajmującej się przetwórstwem warzyw i owoców. Trwa akcja straży pożarnej."
+    },
+    {
+      "title": "Awaria ciepła w Kijowie po eksplozjach",
+      "link": "https://tvn24.pl/swiat/glosne-eksplozje-w-ukrainie-mieszkancy-kijowa-bez-ciepla-st8881455?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 04:19:55 GMT",
+      "description": "Ponad tysiąc bloków mieszkalnych zostało odciętych od dostaw ciepła po nocnych uderzeniach Rosji na Ukrainę - przekazał mer Kijowa Witalij Kliczko. W związku z atakami Polska prewencyjnie poderwała myśliwce. Trwa międzynarodowa mobilizacja na rzecz wsparcia ukraińskiej energetyki - ogromna pomoc płynie z Polski.",
+      "originalTitle": "\"Głośne eksplozje\" w Ukrainie. Mieszkańcy Kijowa bez ciepła",
+      "originalDescription": "Ponad tysiąc bloków mieszkalnych zostało odciętych od dostaw ciepła po nocnych uderzeniach Rosji na Ukrainę - przekazał mer Kijowa Witalij Kliczko. W związku z atakami Polska prewencyjnie poderwała myśliwce. Trwa międzynarodowa mobilizacja na rzecz wsparcia ukraińskiej energetyki - ogromna pomoc płynie z Polski."
+    },
+    {
+      "title": "Oświadczenie Trumpa dotyczące podpisu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-apel-donalda-trumpa-podpisze-natychmiast-st8881499?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:13:16 GMT",
+      "description": "Donald Trump wezwał Izbę Reprezentantów do pilnego przegłosowania ustawy budżetowej, co umożliwiłoby zakończenie częściowego paraliżu rządu federalnego, który trwa od soboty.",
+      "originalTitle": "Apel Trumpa. \"Podpiszę natychmiast\"",
+      "originalDescription": "Donald Trump wezwał Izbę Reprezentantów do pilnego przegłosowania ustawy budżetowej, co umożliwiłoby zakończenie częściowego paraliżu rządu federalnego, który trwa od soboty."
+    },
+    {
+      "title": "Sprawa Epsteina. Clintonowie zgodzili się zeznawać przez Kongresem",
+      "link": "https://tvn24.pl/swiat/sprawa-jeffreya-epsteina-bill-i-hillary-clinton-beda-zeznawac-przez-kongresem-st8881650?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 08:10:23 GMT",
+      "description": "Hillary i Bill Clintonowie zgodzili się zeznawać przed Kongresem w sprawie Jeffreya Epsteina. Były prezydent i była sekretarz stanu dotychczas odmawiali stawiennictwa na przesłuchaniu. Podkreślali, że nie posiadają informacji istotnych dla dochodzenia.",
+      "originalTitle": "Sprawa Epsteina. Clintonowie zgodzili się zeznawać przez Kongresem",
+      "originalDescription": "Hillary i Bill Clintonowie zgodzili się zeznawać przed Kongresem w sprawie Jeffreya Epsteina. Były prezydent i była sekretarz stanu dotychczas odmawiali stawiennictwa na przesłuchaniu. Podkreślali, że nie posiadają informacji istotnych dla dochodzenia."
+    },
+    {
+      "title": "Pentagon \"bardziej niż gotowy\". Trump: może wydarzyć się coś złego",
       "link": "https://tvn24.pl/swiat/pentagon-bardziej-niz-gotowy-trump-moze-wydarzyc-sie-cos-zlego-st8881460?source=rss",
       "pubDate": "Tue, 03 Feb 2026 08:05:43 GMT",
-      "description": "• W piątek w Turcji zostaną wznowione rozmowy w sprawie irańskiego programu atomowego.\n• Urzędnicy irańscy i amerykańscy poinformowali o wznowieniu rozmów.\n• Prezydent USA grozi, że jeśli nie uda się wypracować porozumienia, może \"wydarzyć się coś złego\".",
+      "description": "W piątek w Turcji zostaną wznowione rozmowy w sprawie irańskiego programu atomowego - poinformowali urzędnicy irańscy i amerykańscy. Prezydent USA grozi, że jeśli nie uda się wypracować porozumienia, może \"wydarzyć się coś złego\".",
       "originalTitle": "Pentagon \"bardziej niż gotowy\". Trump: może wydarzyć się coś złego",
       "originalDescription": "W piątek w Turcji zostaną wznowione rozmowy w sprawie irańskiego programu atomowego - poinformowali urzędnicy irańscy i amerykańscy. Prezydent USA grozi, że jeśli nie uda się wypracować porozumienia, może \"wydarzyć się coś złego\"."
     },
     {
-      "title": "Pożar hotelu w Pokrzywnej, ewakuowano 94 osoby",
+      "title": "Pożar hotelu w Pokrzywnej. Ewakuowano 94 osoby",
       "link": "https://tvn24.pl/opole/pokrzywna-pozar-hotelu-ewakuowano-94-osoby-st8881679?source=rss",
       "pubDate": "Tue, 03 Feb 2026 08:00:31 GMT",
-      "description": "• We wtorek nad ranem doszło do pożaru w hotelu w Pokrzywnej.\n• Pożar miał miejsce w województwie opolskim.\n• Strażacy ewakuowali 94 osoby.\n• Nikt nie został poszkodowany.",
+      "description": "We wtorek nad ranem doszło do pożaru w hotelu w Pokrzywnej w województwie opolskim. Strażacy ewakuowali 94 osoby. Jak przekazują służby, nikt nie został poszkodowany.",
       "originalTitle": "Pożar hotelu w Pokrzywnej. Ewakuowano 94 osoby",
       "originalDescription": "We wtorek nad ranem doszło do pożaru w hotelu w Pokrzywnej w województwie opolskim. Strażacy ewakuowali 94 osoby. Jak przekazują służby, nikt nie został poszkodowany."
     },
     {
-      "title": "Sędzia uczestniczył w kolizji pod wpływem alkoholu",
+      "title": "Sędzia spowodował kolizję. Był pod wpływem alkoholu",
       "link": "https://tvn24.pl/katowice/tychy-pijany-sedzia-spowodowal-kolizje-st8881678?source=rss",
       "pubDate": "Tue, 03 Feb 2026 07:56:05 GMT",
       "description": "W Tychach pijany sędzia wjechał autem w żywopłot i uszkodził znak. Mężczyzna miał prawie dwa promile alkoholu w organizmie. Sprawą zajmuje się Prokuratura Okręgowa w Katowicach.",
@@ -34,54 +82,6 @@
       "description": "Drugi dzień awarii sieci elektrociepłowniczej w Gdańsku i Sopocie. W kilku dzielnicach jest problem z dostarczaniem ciepła. Jak przekazała we wtorek rzeczniczka prasowa Gdańskiego Przedsiębiorstwa Energetyki Cieplnej, sytuacja jest obecnie stabilna. Spółka robi, co może, żeby temperatura w mieszkaniach nie spadła poniżej 15 stopni Celsjusza.",
       "originalTitle": "Awaria ogrzewania w Gdańsku i Sopocie. Można wypożyczać farelki",
       "originalDescription": "Drugi dzień awarii sieci elektrociepłowniczej w Gdańsku i Sopocie. W kilku dzielnicach jest problem z dostarczaniem ciepła. Jak przekazała we wtorek rzeczniczka prasowa Gdańskiego Przedsiębiorstwa Energetyki Cieplnej, sytuacja jest obecnie stabilna. Spółka robi, co może, żeby temperatura w mieszkaniach nie spadła poniżej 15 stopni Celsjusza."
-    },
-    {
-      "title": "Alert RCB. \"Unikaj aktywności na zewnątrz\"",
-      "link": "https://tvn24.pl/tvnmeteo/smog/alert-rcb-3-02-smog-w-polsce-unikaj-aktywnosci-na-zewnatrz-st8881681?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 07:36:19 GMT",
-      "description": "Alert RCB. We wtorek 3 lutego Rządowe Centrum Bezpieczeństwa ostrzega przed smogiem. Wiadomość z alertem trafiła do osób przebywających na terenie jednego powiatu.",
-      "originalTitle": "Alert RCB. \"Unikaj aktywności na zewnątrz\"",
-      "originalDescription": "Alert RCB. We wtorek 3 lutego Rządowe Centrum Bezpieczeństwa ostrzega przed smogiem. Wiadomość z alertem trafiła do osób przebywających na terenie jednego powiatu."
-    },
-    {
-      "title": "Był poszukiwany wieloma listami gończymi. Po kilku latach trafił w ręce policji",
-      "link": "https://tvn24.pl/katowice/ostrawa-byl-poszukiwany-wieloma-listami-gonczymi-po-kilku-latach-trafil-w-rece-policji-st8881601?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 07:28:14 GMT",
-      "description": "Policjanci z Polski i Czech wspólnymi siłami zatrzymali poszukiwanego od 2022 roku Piotra W., ps. Piotruś. Mężczyzna jest podejrzany o oszustwa i przestępstwa narkotykowe. Wydano za nim liczne listy gończe, Europejski Nakaz Aresztowania i Czerwoną Notę Interpolu.",
-      "originalTitle": "Był poszukiwany wieloma listami gończymi. Po kilku latach trafił w ręce policji",
-      "originalDescription": "Policjanci z Polski i Czech wspólnymi siłami zatrzymali poszukiwanego od 2022 roku Piotra W., ps. Piotruś. Mężczyzna jest podejrzany o oszustwa i przestępstwa narkotykowe. Wydano za nim liczne listy gończe, Europejski Nakaz Aresztowania i Czerwoną Notę Interpolu."
-    },
-    {
-      "title": "Wykolejenie pociągu towarowego pod Warszawą",
-      "link": "https://tvn24.pl/polska/wykolejenie-pociagu-towarowego-pod-warszawa-st8881468?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 05:19:08 GMT",
-      "description": "W nocy pod Warszawą doszło do wykolejenia się kilku wagonów pociągu towarowego - podaje reporter tvnwarszawa.pl Artur Węgrzynowicz. Na miejscu pracują służby. Wiceszef MSWiA ocenił wstępnie, że przyczyną była spowodowana mrozem awaria sieci.",
-      "originalTitle": "Wykolejenie pociągu towarowego pod Warszawą",
-      "originalDescription": "W nocy pod Warszawą doszło do wykolejenia się kilku wagonów pociągu towarowego - podaje reporter tvnwarszawa.pl Artur Węgrzynowicz. Na miejscu pracują służby. Wiceszef MSWiA ocenił wstępnie, że przyczyną była spowodowana mrozem awaria sieci."
-    },
-    {
-      "title": "Musk łączy firmy. Największa fuzja w historii",
-      "link": "https://tvn24.pl/biznes/tech/usa-elon-musk-laczy-swoje-firmy-spacex-i-xai-rekordowa-fuzja-st8881572?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 07:03:52 GMT",
-      "description": "Firma SpaceX przejęła zajmującą się sztuczną inteligencją xAI - przekazał Elon Musk. Oba przedsiębiorstwa należą do najbogatszego człowieka świata. To największe przejęcie w historii - podała agencja Reuters.",
-      "originalTitle": "Musk łączy firmy. Największa fuzja w historii",
-      "originalDescription": "Firma SpaceX przejęła zajmującą się sztuczną inteligencją xAI - przekazał Elon Musk. Oba przedsiębiorstwa należą do najbogatszego człowieka świata. To największe przejęcie w historii - podała agencja Reuters."
-    },
-    {
-      "title": "Redukcja wojsk USA w Europie? Trump zapewnia",
-      "link": "https://tvn24.pl/swiat/redukcja-wojsk-usa-w-europie-donald-trump-zapewnia-st8881464?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 06:38:42 GMT",
-      "description": "Prezydent Stanów Zjednoczonych Donald Trump powiedział, że nie planuje zmniejszenia liczby amerykańskich żołnierzy w Europie. Jego zdaniem jednak \"Europa musi uważać\" - z dwóch powodów.",
-      "originalTitle": "Redukcja wojsk USA w Europie? Trump zapewnia",
-      "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump powiedział, że nie planuje zmniejszenia liczby amerykańskich żołnierzy w Europie. Jego zdaniem jednak \"Europa musi uważać\" - z dwóch powodów."
-    },
-    {
-      "title": "Zderzenie na S2. Drogowcy dozowali wjazd do tunelu pod Ursynowem",
-      "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-zderzenie-na-trasie-s2-drogowcy-ograniczali-wjazd-do-tunelu-pod-ursynowem-st8881554?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 06:28:23 GMT",
-      "description": "Na Południowej Obwodnicy Warszawy doszło do zderzenia trzech pojazdów. Z powodu utrudnień drogowcy na około godzinę ograniczyli możliwość wjazdu do tunelu pod Ursynowem. Na jezdni w kierunku Poznania utworzył się duży korek.",
-      "originalTitle": "Zderzenie na S2. Drogowcy dozowali wjazd do tunelu pod Ursynowem",
-      "originalDescription": "Na Południowej Obwodnicy Warszawy doszło do zderzenia trzech pojazdów. Z powodu utrudnień drogowcy na około godzinę ograniczyli możliwość wjazdu do tunelu pod Ursynowem. Na jezdni w kierunku Poznania utworzył się duży korek."
     }
   ]
 }
