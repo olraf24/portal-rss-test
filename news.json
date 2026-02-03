@@ -1,18 +1,58 @@
 {
-  "lastUpdate": "2026-02-03T12:15:20.686Z",
+  "lastUpdate": "2026-02-03T12:48:42.310Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Zakaz rozwiązania po wypadkach",
+      "title": "Dwie osoby zmarły z powodu wychłodzenia",
+      "link": "https://tvn24.pl/lodz/lodz-dwie-osoby-zmarly-z-wychlodzenia-w-tej-samej-kamienicy-st8881898?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 10:19:21 GMT",
+      "description": "• Ciało 56-letniej kobiety odnaleziono w mieszkaniu kamienicy w Łodzi.\n• Kobieta zmarła prawdopodobnie z powodu wychłodzenia organizmu.\n• Dobę później w tej samej kamienicy odnaleziono ciało 55-letniego mężczyzny.\n• Mężczyzna również zmarł z wychłodzenia.",
+      "originalTitle": "Dwie osoby zmarły z wychłodzenia w tej samej kamienicy",
+      "originalDescription": "Ciało 56-letniej kobiety odnaleziono w mieszkaniu kamienicy w Łodzi. Jak informuje policja, kobieta zmarła prawdopodobnie z powodu wychłodzenia organizmu. Dobę później w tej samej kamienicy odnaleziono ciało 55-letniego mężczyzny, który również zmarł z wychłodzenia."
+    },
+    {
+      "title": "Włoska wioska ogranicza wstęp turystom",
+      "link": "https://tvn24.pl/swiat/wlochy-wioska-w-dolomitach-ogranicza-wstep-turystom-niszcza-wszystko-na-swojej-drodze-by-zrobic-zdjecie-st8882171?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 12:43:08 GMT",
+      "description": "Władze włoskiej wioski w Dolomitach postanowiły ograniczyć do niej wstęp turystom. Powodem jest wyjątkowa popularność znajdującego się tam małego kościoła. Mieszkańcy skarżą się na tłumy ludzi, chcących zrobić tam zdjęcie.",
+      "originalTitle": "\"Niszczą wszystko na swojej drodze, by zrobić zdjęcie\". Włoska wioska ogranicza wstęp turystom",
+      "originalDescription": "Władze włoskiej wioski w Dolomitach postanowiły ograniczyć do niej wstęp turystom. Powodem jest wyjątkowa popularność znajdującego się tam małego kościoła. Mieszkańcy skarżą się na tłumy ludzi, chcących zrobić tam zdjęcie."
+    },
+    {
+      "title": "Kontrole w moskiewskim metrze",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rosja-moskwa-wyrywkowe-kontrole-w-metrze-nowe-srodki-st8882252?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 12:35:39 GMT",
+      "description": "• Wyrywkowe kontrole telefonów komórkowych będą przeprowadzane w metrze.\n• Kontrole będą dotyczyły pasażerów tego środka komunikacji w Moskwie.\n• Informację o kontrole podaje służba prasowa metra.\n• Służbę prasową metra cytują rosyjskie media.\n• Kontrole będą miały charakter wyrywkowy.",
+      "originalTitle": "Wyrywkowe kontrole w metrze. \"Nowe środki\" w Moskwie",
+      "originalDescription": "Wyrywkowe kontrole telefonów komórkowych w metrze - na to muszą się przygotować pasażerowie tego środka komunikacji w Moskwie - takie rewelacje podaje służba prasowa metra, którą cytują rosyjskie media."
+    },
+    {
+      "title": "Resort zdrowia: lekarze wykonują zabiegi medycyny estetycznej",
+      "link": "https://tvn24.pl/zdrowie/resort-zdrowia-wypowiedzial-sie-o-zabiegach-medycyny-estetycznej-tylko-lekarze-st8882350?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 12:29:55 GMT",
+      "description": "Uprawnienia do wykonywania zabiegów medycyny estetyczno-naprawczej mają wyłącznie lekarze - wyjaśnia Ministerstwo Zdrowia. Oznacza to, że takich uprawnień nie mają pracownicy innych zawodów medycznych, kosmetolodzy czy kosmetyczki, nawet po odbytych szkoleniach. - Uznajemy to za pierwszy krok do ograniczenia wykonywania procedur medycyny estetyczno-naprawczej przez niemedyków - komentuje wiceprezes Naczelnej Rady Lekarskiej Klaudiusz Komor.",
+      "originalTitle": "Resort zdrowia wypowiedział się o zabiegach medycyny estetycznej. \"Tylko lekarze\"",
+      "originalDescription": "Uprawnienia do wykonywania zabiegów medycyny estetyczno-naprawczej mają wyłącznie lekarze - wyjaśnia Ministerstwo Zdrowia. Oznacza to, że takich uprawnień nie mają pracownicy innych zawodów medycznych, kosmetolodzy czy kosmetyczki, nawet po odbytych szkoleniach. - Uznajemy to za pierwszy krok do ograniczenia wykonywania procedur medycyny estetyczno-naprawczej przez niemedyków - komentuje wiceprezes Naczelnej Rady Lekarskiej Klaudiusz Komor."
+    },
+    {
+      "title": "\"Uratował mi życie\". Nie chcą rozstawać się z czworonożnymi przyjaciółmi, by móc spać w noclegowni",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-osoby-w-kryzysie-bezdomnosci-moga-korzystac-z-noclegowni-z-czworonogami-st8882164?source=rss",
+      "pubDate": "Tue, 03 Feb 2026 12:19:45 GMT",
+      "description": "Niestety do noclegowni nie przyjmują z psem - zmartwił się mężczyzna, z którym w jednym z warszawskich namiotów grzewczych rozmawiał reporter TVN24 Paweł Łukasik. Prezydent Warszawy Rafał Trzaskowski zadecydował, że osoby w kryzysie bezdomności posiadające psy lub koty będą mogły razem ze zwierzakami znaleźć schronienie. Muszą zgłosić taką potrzebę do straży miejskiej. Funkcjonariusze wskażą miejsce, w którym możliwy jest bezpieczny nocleg.",
+      "originalTitle": "\"Uratował mi życie\". Nie chcą rozstawać się z czworonożnymi przyjaciółmi, by móc spać w noclegowni",
+      "originalDescription": "Niestety do noclegowni nie przyjmują z psem - zmartwił się mężczyzna, z którym w jednym z warszawskich namiotów grzewczych rozmawiał reporter TVN24 Paweł Łukasik. Prezydent Warszawy Rafał Trzaskowski zadecydował, że osoby w kryzysie bezdomności posiadające psy lub koty będą mogły razem ze zwierzakami znaleźć schronienie. Muszą zgłosić taką potrzebę do straży miejskiej. Funkcjonariusze wskażą miejsce, w którym możliwy jest bezpieczny nocleg."
+    },
+    {
+      "title": "Zakazują takich klamek. Spopularyzowała je Tesla",
       "link": "https://tvn24.pl/biznes/moto/chiny-zakaz-po-tragicznych-wypadkach-chodzi-o-kontrowersyjne-rozwiazanie-spopularyzowane-przez-firme-tesla-elona-muska-st8881709?source=rss",
       "pubDate": "Tue, 03 Feb 2026 12:13:44 GMT",
-      "description": "• Chiny wprowadziły zakaz stosowania ukrytych klamek w samochodach elektrycznych.\n• Poinformował o tym portal BBC.\n• To pierwszy kraj na świecie, który zdecydował się na ograniczenie kontrowersyjnego rozwiązania spopularyzowanego przez Teslę.\n• Kontrowersyjne rozwiązanie zostało spopularyzowane przez Teslę Elona Muska.",
-      "originalTitle": "Zakaz po tragicznych wypadkach. Chodzi o kontrowersyjne rozwiązanie spopularyzowane przez Teslę",
+      "description": "Chiny wprowadziły zakaz stosowania ukrytych klamek w samochodach elektrycznych - poinformował portal BBC. To pierwszy kraj na świecie, który zdecydował się na ograniczenie kontrowersyjnego rozwiązania spopularyzowanego przez Teslę Elona Muska.",
+      "originalTitle": "Zakazują takich klamek. Spopularyzowała je Tesla",
       "originalDescription": "Chiny wprowadziły zakaz stosowania ukrytych klamek w samochodach elektrycznych - poinformował portal BBC. To pierwszy kraj na świecie, który zdecydował się na ograniczenie kontrowersyjnego rozwiązania spopularyzowanego przez Teslę Elona Muska."
     },
     {
-      "title": "Misja księżycowa przełożona",
+      "title": "Kluczowa misja przełożona. Kiedy astronauci okrążą Księżyc",
       "link": "https://tvn24.pl/tvnmeteo/nauka/artemis-ii-lot-wokol-ksiezyca-kluczowa-misja-nasa-przelozona-st8882046?source=rss",
       "pubDate": "Tue, 03 Feb 2026 12:09:46 GMT",
       "description": "NASA zdecydowała o przełożeniu startu misji Artemis II. Powodem są usterki techniczne. To nie pierwszy raz, gdy lot - kluczowy dla powrotu człowieka na Księżyc - zostaje opóźniony. Amerykańska agencja kosmiczna podała kolejny możliwy termin próby.",
@@ -20,10 +60,10 @@
       "originalDescription": "NASA zdecydowała o przełożeniu startu misji Artemis II. Powodem są usterki techniczne. To nie pierwszy raz, gdy lot - kluczowy dla powrotu człowieka na Księżyc - zostaje opóźniony. Amerykańska agencja kosmiczna podała kolejny możliwy termin próby."
     },
     {
-      "title": "Mężczyzna zaatakował kobietę i psa",
+      "title": "Więził kobietę i zabił jej psa. 35-latce udało się uciec",
       "link": "https://tvn24.pl/lodz/zloczew-wiezil-kobiete-i-zabil-jej-psa-35-latce-udalo-sie-uciec-st8882260?source=rss",
       "pubDate": "Tue, 03 Feb 2026 12:04:53 GMT",
-      "description": "• Policjanci ze Złoczewa (Łódzkie) zatrzymali 37-latka.\n• 37-latek znęcał się nad swoją partnerką i jej psem.\n• Znęcanie się doprowadziło do śmierci psa.\n• Sąd aresztował tymczasowo mężczyznę.\n• Mężczyźnie grozi kara do 15 lat pozbawienia wolności.",
+      "description": "Policjanci ze Złoczewa (Łódzkie) zatrzymali 37-latka, który znęcał się nad swoją partnerką i jej psem, doprowadzając do jego śmierci. Sąd aresztował tymczasowo mężczyznę. Grozi mu kara do 15 lat pozbawienia wolności.",
       "originalTitle": "Więził kobietę i zabił jej psa. 35-latce udało się uciec",
       "originalDescription": "Policjanci ze Złoczewa (Łódzkie) zatrzymali 37-latka, który znęcał się nad swoją partnerką i jej psem, doprowadzając do jego śmierci. Sąd aresztował tymczasowo mężczyznę. Grozi mu kara do 15 lat pozbawienia wolności."
     },
@@ -42,46 +82,6 @@
       "description": "Przed nami zmiana pogody. Zamiast mrozu nowym zagrożeniem będą opady marznące. Strefa niosących je chmur pojawi się w części Polski jeszcze we wtorek i w kolejnych dniach może spowodować problemy dla kierowców i pieszych. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia.",
       "originalTitle": "Opady marznące wkroczą do Polski. Widać je na mapach",
       "originalDescription": "Przed nami zmiana pogody. Zamiast mrozu nowym zagrożeniem będą opady marznące. Strefa niosących je chmur pojawi się w części Polski jeszcze we wtorek i w kolejnych dniach może spowodować problemy dla kierowców i pieszych. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia."
-    },
-    {
-      "title": "Dwa pociągi SKM pokonał mróz. \"Rekomendujemy korzystanie z usług innych przewoźników\"",
-      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/piaseczno-awaria-taboru-skm-utrudnienia-opoznienia-i-odwolane-kursy-st8882207?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 11:56:02 GMT",
-      "description": "Nad ranem, na stacji Piaseczno, doszło do awarii dwóch pociągów Szybkiej Kolei Miejskiej. Powodem był mróz. Ruch został już przywrócony, jednak nadal występują utrudnienia.",
-      "originalTitle": "Dwa pociągi SKM pokonał mróz. \"Rekomendujemy korzystanie z usług innych przewoźników\"",
-      "originalDescription": "Nad ranem, na stacji Piaseczno, doszło do awarii dwóch pociągów Szybkiej Kolei Miejskiej. Powodem był mróz. Ruch został już przywrócony, jednak nadal występują utrudnienia."
-    },
-    {
-      "title": "Pełczyńska-Nałęcz spotkała się z Hołownią",
-      "link": "https://tvn24.pl/polska/holownia-spotkal-sie-z-pelczynska-nalecz-polska-2050-jest-bezpieczna-st8882028?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 11:48:17 GMT",
-      "description": "Przewodnicząca Polski 2050 Katarzyna Pełczyńska-Nałęcz spotkała się we wtorek z byłym liderem partii Szymonem Hołownią. Wicemarszałek Sejmu ocenił, że ugrupowanie \"jest bezpieczne\".",
-      "originalTitle": "Pełczyńska-Nałęcz spotkała się z Hołownią",
-      "originalDescription": "Przewodnicząca Polski 2050 Katarzyna Pełczyńska-Nałęcz spotkała się we wtorek z byłym liderem partii Szymonem Hołownią. Wicemarszałek Sejmu ocenił, że ugrupowanie \"jest bezpieczne\"."
-    },
-    {
-      "title": "Epstein, Putin i Trump. Czego dowiadujemy się z opublikowanych dokumentów",
-      "link": "https://tvn24.pl/swiat/epstein-putin-i-trump-czego-dowiadujemy-sie-z-opublikowanych-dokumentow-st8882003?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 11:46:36 GMT",
-      "description": "Miliarder Jeffrey Epstein utrzymywał kontakty z wieloma Rosjanami mającymi powiązania z Kremlem - wynika z dokumentów opublikowanych przez resort sprawiedliwości USA. Epstein rzekomo zajmował się też zarządzaniem majątkiem Władimira Putina.",
-      "originalTitle": "Epstein, Putin i Trump. Czego dowiadujemy się z opublikowanych dokumentów",
-      "originalDescription": "Miliarder Jeffrey Epstein utrzymywał kontakty z wieloma Rosjanami mającymi powiązania z Kremlem - wynika z dokumentów opublikowanych przez resort sprawiedliwości USA. Epstein rzekomo zajmował się też zarządzaniem majątkiem Władimira Putina."
-    },
-    {
-      "title": "Sędzia spowodował kolizję. Był pod wpływem alkoholu",
-      "link": "https://tvn24.pl/katowice/tychy-pijany-sedzia-spowodowal-kolizje-st8881678?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 07:56:05 GMT",
-      "description": "W Tychach pijany sędzia wjechał autem w żywopłot i uszkodził znak. Mężczyzna miał prawie dwa promile alkoholu w organizmie.",
-      "originalTitle": "Sędzia spowodował kolizję. Był pod wpływem alkoholu",
-      "originalDescription": "W Tychach pijany sędzia wjechał autem w żywopłot i uszkodził znak. Mężczyzna miał prawie dwa promile alkoholu w organizmie."
-    },
-    {
-      "title": "Media o Polsce: silna gospodarka, słaby rząd",
-      "link": "https://tvn24.pl/biznes/ze-swiata/media-o-polsce-silna-gospodarka-slaby-rzad-st8882148?source=rss",
-      "pubDate": "Tue, 03 Feb 2026 11:33:34 GMT",
-      "description": "Polska gospodarka jest głodna sukcesu i rozwija się dynamicznie - podaje \"Frankfurter Allgemeine Zeitung\". Gazeta zwraca uwagę na wysokie zadłużenie kraju. Według \"FAZ\" prezydent Karol Nawrocki blokuje reformy i cofnięcie zmian w sądownictwie.",
-      "originalTitle": "Media o Polsce: silna gospodarka, słaby rząd",
-      "originalDescription": "Polska gospodarka jest głodna sukcesu i rozwija się dynamicznie - podaje \"Frankfurter Allgemeine Zeitung\". Gazeta zwraca uwagę na wysokie zadłużenie kraju. Według \"FAZ\" prezydent Karol Nawrocki blokuje reformy i cofnięcie zmian w sądownictwie."
     }
   ]
 }
