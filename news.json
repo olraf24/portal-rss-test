@@ -1,18 +1,58 @@
 {
-  "lastUpdate": "2026-02-04T08:15:08.464Z",
+  "lastUpdate": "2026-02-04T08:47:28.171Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Awarie wody w Gdańsku",
+      "title": "Wypadek na A4, jeden kierowca ranny",
+      "link": "https://tvn24.pl/wroclaw/zderzenie-trzech-aut-na-a4-jeden-z-kierowcow-trafil-do-szpitala-st8883541?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 08:40:31 GMT",
+      "description": "• W nocy na autostradzie A4 doszło do wypadku.\n• Wypadek miał miejsce między Złotoryją a Legnicą Południe.\n• W wypadku uczestniczyły trzy samochody osobowe.\n• Przyczyną wypadku było wjechanie jednego z kierowców na trasę pod prąd.",
+      "originalTitle": "Zderzenie trzech aut na A4. Jeden z kierowców trafił do szpitala",
+      "originalDescription": "W nocy na autostradzie A4 między Złotoryją a Legnicą Południe doszło do wypadku z udziałem trzech samochodów osobowych. Przyczyną było wjechanie jednego z kierowców na trasę pod prąd."
+    },
+    {
+      "title": "Wypadek na A2, auto w poślizgu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/konotopa-wypadek-na-autostradzie-a2-wielki-korek-przed-wjazdem-do-warszawy-nagranie-st8883388?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 06:07:50 GMT",
+      "description": "Na autostradzie A2 doszło nad ranem do zderzenia auta osobowego z dwiema ciężarówkami. Jedna osoba została poszkodowana. Nagranie z chwili wypadku pokazuje, że auto osobowe wpadło w poślizg na zasypanej śniegiem jezdni.",
+      "originalTitle": "Wypadek na autostradzie A2. Auto wpadło w poślizg na zaśnieżonej jezdni",
+      "originalDescription": "Na autostradzie A2 doszło nad ranem do zderzenia auta osobowego z dwiema ciężarówkami. Jedna osoba została poszkodowana. Nagranie z chwili wypadku pokazuje, że auto osobowe wpadło w poślizg na zasypanej śniegiem jezdni."
+    },
+    {
+      "title": "Awaria gazu przy rondzie",
+      "link": "https://tvn24.pl/poznan/poznan-akcja-sluzb-przy-rondzie-srodka-zlokalizowali-wyciek-st8883439?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 07:22:47 GMT",
+      "description": "Służby znalazły wyciek gazu przy rondzie Śródka w Poznaniu. Pogotowie gazowe pracuje nad uszczelnieniem. W związku z tym przywrócono już ruch na wyłączonym odcinku ulicy Jana Pawła. Tramwaje też już kursują.",
+      "originalTitle": "Strażacy i pogotowie gazowe przy kluczowym rondzie",
+      "originalDescription": "Służby znalazły wyciek gazu przy rondzie Śródka w Poznaniu. Pogotowie gazowe pracuje nad uszczelnieniem. W związku z tym przywrócono już ruch na wyłączonym odcinku ulicy Jana Pawła. Tramwaje też już kursują."
+    },
+    {
+      "title": "Portal dla botów AI uruchomiony",
+      "link": "https://tvn24.pl/swiat/powstal-portal-moltbook-tylko-dla-agentow-ai-pojawily-sie-tam-tresci-rodem-z-science-fiction-st8883359?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 08:25:05 GMT",
+      "description": "W zeszłym tygodniu w sieci pojawił się nowy portal społecznościowy Moltbook - pisze \"New York Times\". Jest on przeznaczony wyłącznie dla botów opartych na AI. Jakie treści znalazły się do tej pory w serwisie? Wątki dyskusyjne zawierały porady dotyczące rozwiązywania problemów z kodowaniem, ale również teorie spiskowe, manifest na temat cywilizacji AI czy inspirowane Karolem Marksem rozważania o \"wykorzystywaniu\" botów przez ludzi.",
+      "originalTitle": "Powstał portal tylko dla botów AI. Pojawiły się tam treści \"rodem z science fiction\"",
+      "originalDescription": "W zeszłym tygodniu w sieci pojawił się nowy portal społecznościowy Moltbook - pisze \"New York Times\". Jest on przeznaczony wyłącznie dla botów opartych na AI. Jakie treści znalazły się do tej pory w serwisie? Wątki dyskusyjne zawierały porady dotyczące rozwiązywania problemów z kodowaniem, ale również teorie spiskowe, manifest na temat cywilizacji AI czy inspirowane Karolem Marksem rozważania o \"wykorzystywaniu\" botów przez ludzi."
+    },
+    {
+      "title": "Sprawdzali, kto stracił pracę. Zostali zwolnieni",
+      "link": "https://tvn24.pl/biznes/tech/sprawdzali-kto-stracil-prace-zostali-zwolnieni-st8883525?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 08:18:56 GMT",
+      "description": "Pinterest zwolnił dwóch inżynierów, którzy bez uprawnień uzyskali dostęp do wewnętrznych danych firmy, aby ustalić, którzy pracownicy zostali objęci ostatnią falą zwolnień - informuje BBC. Firma uznała to za naruszenie zasad oraz prywatności pracowników.",
+      "originalTitle": "Sprawdzali, kto stracił pracę. Zostali zwolnieni",
+      "originalDescription": "Pinterest zwolnił dwóch inżynierów, którzy bez uprawnień uzyskali dostęp do wewnętrznych danych firmy, aby ustalić, którzy pracownicy zostali objęci ostatnią falą zwolnień - informuje BBC. Firma uznała to za naruszenie zasad oraz prywatności pracowników."
+    },
+    {
+      "title": "Kolejna awaria w Gdańsku. Kilkadziesiąt mieszkań bez wody",
       "link": "https://tvn24.pl/trojmiasto/gdansk-awaria-sieci-wodociagowej-gdzie-nie-ma-wody-st8883473?source=rss",
       "pubDate": "Wed, 04 Feb 2026 08:03:22 GMT",
-      "description": "• Mieszkańcy trzech bloków przy ulicy Toruńskiej w Gdańsku nie mają wody.\n• Przyczyną braku wody jest awaria sieci wodociągowej.\n• Utrudnienia mogą potrwać jeszcze kilka godzin.",
+      "description": "Mieszkańcy trzech bloków przy ulicy Toruńskiej w Gdańsku nie mają wody. Wszystko przez awarię sieci wodociągowej. Utrudnienia mogą potrwać jeszcze kilka godzin.",
       "originalTitle": "Kolejna awaria w Gdańsku. Kilkadziesiąt mieszkań bez wody",
       "originalDescription": "Mieszkańcy trzech bloków przy ulicy Toruńskiej w Gdańsku nie mają wody. Wszystko przez awarię sieci wodociągowej. Utrudnienia mogą potrwać jeszcze kilka godzin."
     },
     {
-      "title": "Zbieranie legwanów na Florydzie",
+      "title": "Zbierają legwany na Florydzie. \"Pospadały z drzew\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/usa-zbieraja-legwany-na-florydzie-pospadaly-z-drzew-st8883454?source=rss",
       "pubDate": "Wed, 04 Feb 2026 07:55:37 GMT",
       "description": "Na Florydzie trwa akcja zbierania \"zamarzniętych\" legwanów zielonych. Długo utrzymujące się niskie temperatury sprawiły, że gady zapadły w stan odrętwienia. Zwierzęta te są obcym gatunkiem inwazyjnym, stanowiącym zagrożenie dla rodzimej fauny Florydy.",
@@ -20,7 +60,7 @@
       "originalDescription": "Na Florydzie trwa akcja zbierania \"zamarzniętych\" legwanów zielonych. Długo utrzymujące się niskie temperatury sprawiły, że gady zapadły w stan odrętwienia. Zwierzęta te są obcym gatunkiem inwazyjnym, stanowiącym zagrożenie dla rodzimej fauny Florydy."
     },
     {
-      "title": "Oddziały szpitalne nieczynne z powodu braku personelu medycznego",
+      "title": "Szpitalne oddziały zamknięte na pół roku. Powodem brak lekarzy",
       "link": "https://tvn24.pl/krakow/krakow-szpital-narutowicza-zamyka-tymczasowo-dwa-oddzialy-st8883448?source=rss",
       "pubDate": "Wed, 04 Feb 2026 07:27:20 GMT",
       "description": "Krakowski Szpital Miejski Specjalistyczny im. Gabriela Narutowicza zapowiedział czasowe wstrzymanie działalności Oddziału Chorób Wewnętrznych i Chorób Płuc oraz Oddziału Chorób Płuc z Onkologią. Pacjentów z chorobami płuc mają \"przejąć\" oddziały internistyczne i poradnia chorób płuc.",
@@ -28,7 +68,7 @@
       "originalDescription": "Krakowski Szpital Miejski Specjalistyczny im. Gabriela Narutowicza zapowiedział czasowe wstrzymanie działalności Oddziału Chorób Wewnętrznych i Chorób Płuc oraz Oddziału Chorób Płuc z Onkologią. Pacjentów z chorobami płuc mają \"przejąć\" oddziały internistyczne i poradnia chorób płuc."
     },
     {
-      "title": "Pozew w sprawie inwestycji przeciw administracji Trumpa",
+      "title": "Spór o kluczową inwestycję. Administracja Trumpa pozwana",
       "link": "https://tvn24.pl/biznes/ze-swiata/nowy-jork-i-new-jersey-walcza-o-tunel-gateway-zablokowane-16-miliardow-dolarow-st8883428?source=rss",
       "pubDate": "Wed, 04 Feb 2026 07:19:26 GMT",
       "description": "Waszyngton wstrzymał miliardy, a Wschodnie Wybrzeże wstrzymało oddech. Stany Nowy Jork i New Jersey pozywają administrację Donalda Trumpa, oskarżając ją o polityczną blokadę kluczowej inwestycji infrastrukturalnej - tunelu kolejowego Gateway pod rzeką Hudson, od którego zależy codzienna komunikacja setek tysięcy pasażerów i stabilność jednego z najważniejszych regionów gospodarczych USA.",
@@ -42,46 +82,6 @@
       "description": "Koalicja Obywatelska może liczyć na 31,4 procent głosów, a Prawo i Sprawiedliwość na 23,3 procent - wynika z nowego sondażu IBRiS dla \"Rzeczpospolitej\". Partie wchodzące w skład koalicji rządzącej mają w badaniu takie samo poparcie, jak partie opozycyjne. Zaskakuje wzrost poparcia dla jednego z ugrupowań.",
       "originalTitle": "Nowy sondaż partyjny. Jest zaskoczenie",
       "originalDescription": "Koalicja Obywatelska może liczyć na 31,4 procent głosów, a Prawo i Sprawiedliwość na 23,3 procent - wynika z nowego sondażu IBRiS dla \"Rzeczpospolitej\". Partie wchodzące w skład koalicji rządzącej mają w badaniu takie samo poparcie, jak partie opozycyjne. Zaskakuje wzrost poparcia dla jednego z ugrupowań."
-    },
-    {
-      "title": "Kolejne balony wleciały w polską przestrzeń powietrzną",
-      "link": "https://tvn24.pl/polska/balony-zza-wschodniej-granicy-ponownie-w-polskiej-przestrzeni-st8883447?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 07:12:57 GMT",
-      "description": "W nocy w polskiej przestrzeni powietrznej po raz kolejny w ciągu kilku ostatnich dni odnotowano wlot obiektów o charakterze balonów. Loty były monitorowane i nie stwarzały niebezpieczeństwa dla obywateli.",
-      "originalTitle": "Kolejne balony wleciały w polską przestrzeń powietrzną",
-      "originalDescription": "W nocy w polskiej przestrzeni powietrznej po raz kolejny w ciągu kilku ostatnich dni odnotowano wlot obiektów o charakterze balonów. Loty były monitorowane i nie stwarzały niebezpieczeństwa dla obywateli."
-    },
-    {
-      "title": "Wypadek na autostradzie A2. Auto wpadło w poślizg na zaśnieżonej jezdni",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/konotopa-wypadek-na-autostradzie-a2-wielki-korek-przed-wjazdem-do-warszawy-nagranie-st8883388?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 06:07:50 GMT",
-      "description": "Na autostradzie A2 doszło nad ranem do zderzenia auta osobowego z dwiema ciężarówkami. Jedna osoba została poszkodowana. Nagranie z chwili wypadku pokazuje, że auto osobowe wpadło w poślizg na zasypanej śniegiem jezdni.",
-      "originalTitle": "Wypadek na autostradzie A2. Auto wpadło w poślizg na zaśnieżonej jezdni",
-      "originalDescription": "Na autostradzie A2 doszło nad ranem do zderzenia auta osobowego z dwiema ciężarówkami. Jedna osoba została poszkodowana. Nagranie z chwili wypadku pokazuje, że auto osobowe wpadło w poślizg na zasypanej śniegiem jezdni."
-    },
-    {
-      "title": "\"Lekko żenujący porządek\" posiedzenia RBN. \"Odradzam panu prezydentowi\"",
-      "link": "https://tvn24.pl/polska/posiedzenie-rady-bezpieczenstwa-narodowego-piotr-zgorzelski-o-punkcie-dotyczacym-wlodzimierza-czarzastego-st8883423?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 07:05:02 GMT",
-      "description": "Panie prezydencie, niech pan zdejmie ten punkt z porządku dziennego, bo to jest po prostu mało poważne - zaapelował w \"Rozmowie Piaseckiego\" wicemarszałek Sejmu Piotr Zgorzelski. Odniósł się w ten sposób do zaplanowanej Rady Bezpieczeństwa Narodowego i wątku \"kontaktów\" Włodzimierza Czarzastego, który znalazł się wśród tematów posiedzenia.",
-      "originalTitle": "\"Lekko żenujący porządek\" posiedzenia RBN. \"Odradzam panu prezydentowi\"",
-      "originalDescription": "Panie prezydencie, niech pan zdejmie ten punkt z porządku dziennego, bo to jest po prostu mało poważne - zaapelował w \"Rozmowie Piaseckiego\" wicemarszałek Sejmu Piotr Zgorzelski. Odniósł się w ten sposób do zaplanowanej Rady Bezpieczeństwa Narodowego i wątku \"kontaktów\" Włodzimierza Czarzastego, który znalazł się wśród tematów posiedzenia."
-    },
-    {
-      "title": "Gates w aktach Epsteina. \"Przywołuje to bolesne chwile w moim małżeństwie\"",
-      "link": "https://tvn24.pl/swiat/bill-gates-wymieniany-w-aktach-epsteina-byla-zona-melinda-french-gates-komentuje-st8883376?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 06:52:24 GMT",
-      "description": "Dla mnie osobiście jest to trudne, kiedy te szczegóły wychodzą na jaw - mówiła Melinda French Gates w rozmowie z radiem NPR, komentując niedawno ujawnione akta sprawy Jeffreya Epsteina, w których pojawia się nazwisko Billa Gatesa. Podkreśliła, że jej były mąż, a także inne osoby wymieniane w aktach, muszą się z tego wytłumaczyć. - Cieszę się, że jestem z dala od tego całego syfu - dodała.",
-      "originalTitle": "Gates w aktach Epsteina. \"Przywołuje to bolesne chwile w moim małżeństwie\"",
-      "originalDescription": "Dla mnie osobiście jest to trudne, kiedy te szczegóły wychodzą na jaw - mówiła Melinda French Gates w rozmowie z radiem NPR, komentując niedawno ujawnione akta sprawy Jeffreya Epsteina, w których pojawia się nazwisko Billa Gatesa. Podkreśliła, że jej były mąż, a także inne osoby wymieniane w aktach, muszą się z tego wytłumaczyć. - Cieszę się, że jestem z dala od tego całego syfu - dodała."
-    },
-    {
-      "title": "Śnieg, potem deszcz. Tak opady będą wędrować nad Polską",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-gololedz-slizgawica-tak-opady-beda-wedrowac-nad-polska-st8883403?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 06:34:04 GMT",
-      "description": "W środę rano w części kraju dosypało śniegu. Jak wyjaśniła synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, jest to związane z wędrówką frontu atmosferycznego nad Polską. Jeszcze dziś zawita do nas kolejny front, tym razem niosący ze sobą niebezpieczne opady marznące.",
-      "originalTitle": "Śnieg, potem deszcz. Tak opady będą wędrować nad Polską",
-      "originalDescription": "W środę rano w części kraju dosypało śniegu. Jak wyjaśniła synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, jest to związane z wędrówką frontu atmosferycznego nad Polską. Jeszcze dziś zawita do nas kolejny front, tym razem niosący ze sobą niebezpieczne opady marznące."
     }
   ]
 }
