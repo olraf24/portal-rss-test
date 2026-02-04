@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-04T10:16:38.764Z",
+  "lastUpdate": "2026-02-04T10:46:14.611Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Inskrypcje opowiadają historię budowniczych starożytnych świątyń Bliskiego Wschodu",
+      "link": "https://dzienniknaukowy.pl/inskrypcje-opowiadaja-historie-budowniczych-starozytnych-swiatyn-bliskiego-wschodu",
+      "pubDate": "Wed, 04 Feb 2026 10:33:47 +0000",
+      "description": "Za zniszczenie kamiennego bloku starożytnej świątyni z Bliskiego Wschodu groziła kara śmierci, a skradziony z niej młotek mógł sprowadzić gniew bóstwa. Budowle te miały oddawać boskość i wyróżniać się na tle architektury miejskiej. Pracę ich budowniczych przybliżają badania dr Aleksandry Kubiak-Schneider z Uniwersytetu Wrocławskiego"
+    },
     {
       "title": "Ludzkie geny złożone w książkę",
       "link": "https://dzienniknaukowy.pl/ludzkie-geny-zlozone-w-ksiazke",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/olbrzymie-ilosci-danych-o-wszechswiecie-z-wod-morza-srodziemnego",
       "pubDate": "Wed, 28 Jan 2026 11:23:44 +0000",
       "description": "KM3NeT to nie jeden detektor, lecz podmorskie miasto tysięcy czujników światła. W najnowszej pracy z Nuclear Instruments and Methods in Physics Research A fizycy opisali, jak to miasto uczy się w czasie rzeczywistym odróżniać cenne sygnały neutrin od morskiego szumu. W badaniach biorą udział naukowcy z Warszawy i Krakowa"
-    },
-    {
-      "title": "Jama ustna a płuca: jak bakterie z zębów mogą wpływać na układ oddechowy?",
-      "link": "https://dzienniknaukowy.pl/jama-ustna-a-pluca-jak-bakterie-z-zebow-moga-wplywac-na-uklad-oddechowy",
-      "pubDate": "Tue, 27 Jan 2026 09:59:57 +0000",
-      "description": "Przez lata wydawało się, że choroby jamy ustnej i infekcje płuc mają ze sobą niewiele wspólnego. Najnowszy przegląd systematyczny, opublikowany w Journal of Clinical Medicine, pokazuje jednak, że związek ten jest nie tylko realny, ale i klinicznie istotny. Wyniki ponad 20 badań wskazują, że to, co dzieje się w jamie ustnej – zwłaszcza stan przyzębia, obecność biofilmu i zaburzenia mikrobiomu – może zwiększać ryzyko zapalenia płuc, zaostrzać choroby przewlekłe, a nawet pogarszać funkcje oddechowe."
     }
   ]
 }
