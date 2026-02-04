@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-04T10:46:14.611Z",
+  "lastUpdate": "2026-02-04T11:15:32.613Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Badania IP PAN: prawicowy światopogląd związany z niechęcią do pomocy psychologicznej",
+      "link": "https://dzienniknaukowy.pl/badania-ip-pan-prawicowy-swiatopoglad-zwiazany-z-niechecia-do-pomocy-psychologicznej",
+      "pubDate": "Wed, 04 Feb 2026 10:51:44 +0000",
+      "description": "Poglądy polityczne wpływają na to, czy w sytuacji kryzysu psychicznego Polacy są gotowi sięgnąć po pomoc specjalisty. Badania Instytutu Psychologii PAN pokazują, że szczególny sceptycyzm wobec psychologii i profesjonalnego wsparcia deklarują osoby o wysokim prawicowym autorytaryzmie"
+    },
     {
       "title": "Inskrypcje opowiadają historię budowniczych starożytnych świątyń Bliskiego Wschodu",
       "link": "https://dzienniknaukowy.pl/inskrypcje-opowiadaja-historie-budowniczych-starozytnych-swiatyn-bliskiego-wschodu",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/zalecenia-zywieniowe-w-polsce-przewaga-warzyw-i-pelnych-ziaren-ograniczenie-miesa-i-soli",
       "pubDate": "Wed, 28 Jan 2026 11:39:18 +0000",
       "description": "Różnokolorowe warzywa i owoce, za nimi pełnoziarniste produkty zbożowe, dalej zdrowe źródła białka z ograniczonym udziałem mięsa, a na końcu orzechy, nasiona roślin strączkowych i jaja - tak wyglądają aktualne zalecenia żywieniowe dla Polaków. Od kilku lat przedstawiane są w formie tzw. talerza, który zastąpił wcześniejszą piramidę"
-    },
-    {
-      "title": "Olbrzymie ilości danych o Wszechświecie z wód Morza Śródziemnego",
-      "link": "https://dzienniknaukowy.pl/olbrzymie-ilosci-danych-o-wszechswiecie-z-wod-morza-srodziemnego",
-      "pubDate": "Wed, 28 Jan 2026 11:23:44 +0000",
-      "description": "KM3NeT to nie jeden detektor, lecz podmorskie miasto tysięcy czujników światła. W najnowszej pracy z Nuclear Instruments and Methods in Physics Research A fizycy opisali, jak to miasto uczy się w czasie rzeczywistym odróżniać cenne sygnały neutrin od morskiego szumu. W badaniach biorą udział naukowcy z Warszawy i Krakowa"
     }
   ]
 }
