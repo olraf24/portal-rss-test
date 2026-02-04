@@ -1,23 +1,31 @@
 {
-  "lastUpdate": "2026-02-04T07:47:28.128Z",
+  "lastUpdate": "2026-02-04T08:15:08.464Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Awarie wody w Gdańsku",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-awaria-sieci-wodociagowej-gdzie-nie-ma-wody-st8883473?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 08:03:22 GMT",
+      "description": "• Mieszkańcy trzech bloków przy ulicy Toruńskiej w Gdańsku nie mają wody.\n• Przyczyną braku wody jest awaria sieci wodociągowej.\n• Utrudnienia mogą potrwać jeszcze kilka godzin.",
+      "originalTitle": "Kolejna awaria w Gdańsku. Kilkadziesiąt mieszkań bez wody",
+      "originalDescription": "Mieszkańcy trzech bloków przy ulicy Toruńskiej w Gdańsku nie mają wody. Wszystko przez awarię sieci wodociągowej. Utrudnienia mogą potrwać jeszcze kilka godzin."
+    },
+    {
+      "title": "Zbieranie legwanów na Florydzie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-zbieraja-legwany-na-florydzie-pospadaly-z-drzew-st8883454?source=rss",
+      "pubDate": "Wed, 04 Feb 2026 07:55:37 GMT",
+      "description": "Na Florydzie trwa akcja zbierania \"zamarzniętych\" legwanów zielonych. Długo utrzymujące się niskie temperatury sprawiły, że gady zapadły w stan odrętwienia. Zwierzęta te są obcym gatunkiem inwazyjnym, stanowiącym zagrożenie dla rodzimej fauny Florydy.",
+      "originalTitle": "Zbierają legwany na Florydzie. \"Pospadały z drzew\"",
+      "originalDescription": "Na Florydzie trwa akcja zbierania \"zamarzniętych\" legwanów zielonych. Długo utrzymujące się niskie temperatury sprawiły, że gady zapadły w stan odrętwienia. Zwierzęta te są obcym gatunkiem inwazyjnym, stanowiącym zagrożenie dla rodzimej fauny Florydy."
+    },
+    {
       "title": "Oddziały szpitalne nieczynne z powodu braku personelu medycznego",
       "link": "https://tvn24.pl/krakow/krakow-szpital-narutowicza-zamyka-tymczasowo-dwa-oddzialy-st8883448?source=rss",
       "pubDate": "Wed, 04 Feb 2026 07:27:20 GMT",
-      "description": "• Krakowski Szpital Miejski Specjalistyczny im. Gabriela Narutowicza zapowiedział czasowe wstrzymanie działalności.\n• Wstrzymanie działalności dotyczy Oddziału Chorób Wewnętrznych i Chorób Płuc.\n• Wstrzymanie działalności dotyczy również Oddziału Chorób Płuc z Onkologią.\n• Pacjentów z chorobami płuc mają \"przejąć\" oddziały internistyczne.\n• Pacjentów z chorobami płuc mają \"przejąć\" również poradnia chorób płuc.",
+      "description": "Krakowski Szpital Miejski Specjalistyczny im. Gabriela Narutowicza zapowiedział czasowe wstrzymanie działalności Oddziału Chorób Wewnętrznych i Chorób Płuc oraz Oddziału Chorób Płuc z Onkologią. Pacjentów z chorobami płuc mają \"przejąć\" oddziały internistyczne i poradnia chorób płuc.",
       "originalTitle": "Szpitalne oddziały zamknięte na pół roku. Powodem brak lekarzy",
       "originalDescription": "Krakowski Szpital Miejski Specjalistyczny im. Gabriela Narutowicza zapowiedział czasowe wstrzymanie działalności Oddziału Chorób Wewnętrznych i Chorób Płuc oraz Oddziału Chorób Płuc z Onkologią. Pacjentów z chorobami płuc mają \"przejąć\" oddziały internistyczne i poradnia chorób płuc."
-    },
-    {
-      "title": "Awaria gazu przy rondzie",
-      "link": "https://tvn24.pl/poznan/poznan-akcja-sluzb-przy-rondzie-srodka-sprawdzaja-czy-wyciekl-gaz-st8883439?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 07:22:47 GMT",
-      "description": "Straż pożarna otrzymała zgłoszenie o możliwym wycieku gazu przy rondzie Śródka w centrum Poznania. Policja wyłączyła z ruchu część ulicy Jana Pawła II w obu kierunkach. Służby sprawdzają, czy i gdzie mogło dojść do ewentualnego wycieku.",
-      "originalTitle": "Strażacy i pogotowie gazowe przy kluczowym rondzie",
-      "originalDescription": "Straż pożarna otrzymała zgłoszenie o możliwym wycieku gazu przy rondzie Śródka w centrum Poznania. Policja wyłączyła z ruchu część ulicy Jana Pawła II w obu kierunkach. Służby sprawdzają, czy i gdzie mogło dojść do ewentualnego wycieku."
     },
     {
       "title": "Pozew w sprawie inwestycji przeciw administracji Trumpa",
@@ -68,20 +76,12 @@
       "originalDescription": "Dla mnie osobiście jest to trudne, kiedy te szczegóły wychodzą na jaw - mówiła Melinda French Gates w rozmowie z radiem NPR, komentując niedawno ujawnione akta sprawy Jeffreya Epsteina, w których pojawia się nazwisko Billa Gatesa. Podkreśliła, że jej były mąż, a także inne osoby wymieniane w aktach, muszą się z tego wytłumaczyć. - Cieszę się, że jestem z dala od tego całego syfu - dodała."
     },
     {
-      "title": "Opady nad Polską",
+      "title": "Śnieg, potem deszcz. Tak opady będą wędrować nad Polską",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-gololedz-slizgawica-tak-opady-beda-wedrowac-nad-polska-st8883403?source=rss",
       "pubDate": "Wed, 04 Feb 2026 06:34:04 GMT",
       "description": "W środę rano w części kraju dosypało śniegu. Jak wyjaśniła synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, jest to związane z wędrówką frontu atmosferycznego nad Polską. Jeszcze dziś zawita do nas kolejny front, tym razem niosący ze sobą niebezpieczne opady marznące.",
       "originalTitle": "Śnieg, potem deszcz. Tak opady będą wędrować nad Polską",
       "originalDescription": "W środę rano w części kraju dosypało śniegu. Jak wyjaśniła synoptyk tvnmeteo.pl Arleta Unton-Pyziołek, jest to związane z wędrówką frontu atmosferycznego nad Polską. Jeszcze dziś zawita do nas kolejny front, tym razem niosący ze sobą niebezpieczne opady marznące."
-    },
-    {
-      "title": "Pierwszy taki na świecie przeszczep twarzy. Zaangażowano blisko stu specjalistów",
-      "link": "https://tvn24.pl/swiat/pierwszy-taki-na-swiecie-przeszczep-twarzy-zaangazowano-blisko-stu-specjalistow-st8883348?source=rss",
-      "pubDate": "Wed, 04 Feb 2026 06:34:02 GMT",
-      "description": "Przeszczepianie narządów to nierzadko walka z czasem, ale tym razem było inaczej. Lekarze mieli czas na zaplanowanie skomplikowanej wieloetapowej operacji: potwierdzenie zgodności dawczyni i biorczyni, a nawet sporządzenie pomocniczych modeli ich narządów. Wszystko dlatego, że dawcą była kobieta, która poddając się eutanazji, wyraziła zgodę na przekazanie osobom czekającym na przeszczep swoich narządów, w tym własnej twarzy.",
-      "originalTitle": "Pierwszy taki na świecie przeszczep twarzy. Zaangażowano blisko stu specjalistów",
-      "originalDescription": "Przeszczepianie narządów to nierzadko walka z czasem, ale tym razem było inaczej. Lekarze mieli czas na zaplanowanie skomplikowanej wieloetapowej operacji: potwierdzenie zgodności dawczyni i biorczyni, a nawet sporządzenie pomocniczych modeli ich narządów. Wszystko dlatego, że dawcą była kobieta, która poddając się eutanazji, wyraziła zgodę na przekazanie osobom czekającym na przeszczep swoich narządów, w tym własnej twarzy."
     }
   ]
 }
