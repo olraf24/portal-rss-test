@@ -1,29 +1,53 @@
 {
-  "lastUpdate": "2026-02-05T17:48:04.514Z",
+  "lastUpdate": "2026-02-05T18:21:52.662Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wyniki sondażu partyjnego",
-      "link": "https://tvn24.pl/polska/nowy-sondaz-partyjny-opinia24-trzy-ugrupowania-poza-sejmem-st8886953?source=rss",
-      "pubDate": "Thu, 05 Feb 2026 17:21:51 GMT",
-      "description": "• Koalicja Obywatelska może liczyć na poparcie 32 procent ankietowanych.\n• Prawo i Sprawiedliwość zajęło drugie miejsce z wynikiem 24,5 procent.\n• Konfederacja zajęła trzecie miejsce z wynikiem 12,6 procent.\n• Badanie przeprowadziła pracownia Opinia24.",
-      "originalTitle": "Najnowszy sondaż partyjny",
-      "originalDescription": "Koalicja Obywatelska może liczyć na poparcie 32 procent ankietowanych - wynika z badania pracowni Opinia24. Na drugim miejscu znalazło się Prawo i Sprawiedliwość z wynikiem 24,5 procent. Podium zamyka Konfederacją, na którą głos oddałoby 12,6 procent respondentów."
+      "title": "Ograniczenia ruchu zalecane przez RCB",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-05-06-02-uwaga-na-marznace-opady-i-gololedz-ogranicz-poruszanie-sie-pieszo-i-samochodem-st8887015?source=rss",
+      "pubDate": "Thu, 05 Feb 2026 18:17:22 GMT",
+      "description": "• Rządowe Centrum Bezpieczeństwa ostrzega przed marznącymi opadami.\n• Marznące opady mogą spowodować, że może zrobić się bardzo ślisko.\n• Alert został wysłany w formie SMS-a.\n• Osoby, które otrzymały alert, przebywały na terenie dziewięciu województw.",
+      "originalTitle": "Alert RCB. \"Ogranicz poruszanie się pieszo i samochodem\"",
+      "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed marznącymi opadami, przez które może zrobić się bardzo ślisko. SMS-owy alert otrzymały osoby przebywające na terenie dziewięciu województw."
     },
     {
-      "title": "Warunki drogowe: ślizgawica i mgły",
+      "title": "Sąd rozpatruje sprawę incydentu z helikopterem policyjnym",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ciechanow-sprawa-incydentu-z-policyjnym-black-hawkiem-sad-musi-podjac-wazna-decyzje-st8886956?source=rss",
+      "pubDate": "Thu, 05 Feb 2026 17:58:36 GMT",
+      "description": "Sąd Rejonowy w Ciechanowie chce, aby proces dotyczący incydentu z udziałem policyjnego Black Hawka toczył się w Warszawie. Powodem wniosku o przekazanie sprawy jest miejsce zamieszkania osób biorących udział w postępowaniu. Na ławie oskarżonych zasiądzie dowódca śmigłowca, który zahaczył o przewód linii wysokiego napięcia i zerwał go.",
+      "originalTitle": "Sprawa incydentu z policyjnym Black Hawkiem. Sąd musi podjąć ważną decyzję",
+      "originalDescription": "Sąd Rejonowy w Ciechanowie chce, aby proces dotyczący incydentu z udziałem policyjnego Black Hawka toczył się w Warszawie. Powodem wniosku o przekazanie sprawy jest miejsce zamieszkania osób biorących udział w postępowaniu. Na ławie oskarżonych zasiądzie dowódca śmigłowca, który zahaczył o przewód linii wysokiego napięcia i zerwał go."
+    },
+    {
+      "title": "Tusk spotkał się z ambasadorem USA",
+      "link": "https://tvn24.pl/polska/donald-tusk-zwrocil-sie-do-ambasadora-usa-tom-rose-odpowiedzial-st8886884?source=rss",
+      "pubDate": "Thu, 05 Feb 2026 15:55:18 GMT",
+      "description": "• Panie Ambasadorze Rose, sojusznicy powinni się szanować, a nie pouczać, to słowa skierowane do ambasadora USA.\n• Słowa te zostały wypowiedziane przez Donalda Tuska.\n• Donald Tusk wypowiedział te słowa po tym, jak ambasador USA Tom Rose poinformował o zerwaniu kontaktów z marszałkiem Sejmu.\n• Ambasador USA Tom Rose poinformował o zerwaniu kontaktów z marszałkiem Sejmu.\n• Ambasador USA Tom Rose odpowiedział na słowa Donalda Tuska niedługo po ich wypowiedzeniu.",
+      "originalTitle": "Tusk zwrócił się do ambasadora USA, Rose odpowiedział",
+      "originalDescription": "\"Panie Ambasadorze Rose, sojusznicy powinni się szanować, a nie pouczać. Przynajmniej tak w Polsce rozumiemy partnerstwo\" - napisał Donald Tusk po tym, jak ambasador USA Tom Rose poinformował o zerwaniu kontaktów z marszałkiem Sejmu. Amerykański dyplomata niedługo później odpowiedział na te słowa premiera."
+    },
+    {
+      "title": "Sondaż partyjny",
+      "link": "https://tvn24.pl/polska/nowy-sondaz-partyjny-opinia24-trzy-ugrupowania-poza-sejmem-st8886953?source=rss",
+      "pubDate": "Thu, 05 Feb 2026 17:21:51 GMT",
+      "description": "Koalicja Obywatelska odnotowuje wzrost poparcia, podczas gdy notowania PiS spadają - wynika z najnowszego badania Opinii24. Ugrupowania te nadal zajmują odpowiednio pierwsze i drugie miejsce w sondażu, a podium zamyka Konfederacja.",
+      "originalTitle": "Najnowszy sondaż partyjny",
+      "originalDescription": "Koalicja Obywatelska odnotowuje wzrost poparcia, podczas gdy notowania PiS spadają - wynika z najnowszego badania Opinii24. Ugrupowania te nadal zajmują odpowiednio pierwsze i drugie miejsce w sondażu, a podium zamyka Konfederacja."
+    },
+    {
+      "title": "Ślizgawica i mgły. Sprawdź, gdzie należy uważać",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/gololedz-slizgawica-ostrzezenia-imgw-opady-marznace-wkrocza-do-polski-radar-opadow-st8881876?source=rss",
       "pubDate": "Thu, 05 Feb 2026 05:16:40 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed marznącymi opadami.\n• Marznące opady spowodują, że na drogach i chodnikach zrobi się ślisko.\n• Obowiązują alarmy przed gęstymi mgłami.",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed marznącymi opadami, przez które na drogach i chodnikach zrobi się ślisko. Obowiązują też alarmy przed gęstymi mgłami.",
       "originalTitle": "Ślizgawica i mgły. Sprawdź, gdzie należy uważać",
       "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed marznącymi opadami, przez które na drogach i chodnikach zrobi się ślisko. Obowiązują też alarmy przed gęstymi mgłami."
     },
     {
-      "title": "Warszawa przyciąga inwestorów",
+      "title": "Warszawa wyprzedziła Paryż i Mediolan. Stolica przyciąga inwestorów",
       "link": "https://tvn24.pl/biznes/nieruchomosci/warszawa-wyprzedzila-paryz-i-mediolan-stolica-przyciaga-do-inwestycji-w-nieruchomosci-st8886933?source=rss",
       "pubDate": "Thu, 05 Feb 2026 16:58:32 GMT",
-      "description": "• Warszawa znalazła się na trzecim miejscu w zestawieniu najbardziej atrakcyjnych miast Europy do inwestowania w nieruchomości w 2026 roku.\n• Zestawienie zostało opracowane na podstawie raportu CBRE.\n• Na pierwszej pozycji w zestawieniu uplasował się Londyn.\n• Na drugiej pozycji w zestawieniu uplasował się Madryt.\n• Raport dotyczy roku 2026.",
+      "description": "Warszawa znalazła się na trzecim miejscu w zestawieniu najbardziej atrakcyjnych miast Europy do inwestowania w nieruchomości w 2026 roku - wynika z raportu CBRE. Na pierwszej pozycji uplasował się Londyn, a na drugiej Madryt.",
       "originalTitle": "Warszawa wyprzedziła Paryż i Mediolan. Stolica przyciąga inwestorów",
       "originalDescription": "Warszawa znalazła się na trzecim miejscu w zestawieniu najbardziej atrakcyjnych miast Europy do inwestowania w nieruchomości w 2026 roku - wynika z raportu CBRE. Na pierwszej pozycji uplasował się Londyn, a na drugiej Madryt."
     },
@@ -47,9 +71,9 @@
       "title": "Burza Leonardo w Portugalii i Hiszpanii. Ewakuacje, ofiara śmiertelna. \"Sytuacja jest dramatyczna\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/burza-leonardo-w-portugalii-i-hiszpanii-ewakuacje-ofiara-smiertelna-sytuacja-jest-dramatyczna-st8886708?source=rss",
       "pubDate": "Thu, 05 Feb 2026 16:27:14 GMT",
-      "description": "Burza Leonardo uderzyła w Półwysep Iberyjski. Przyniosła ze sobą obfite opady deszczu, które doprowadziły do powodzi w Hiszpanii i Portugalii. Domy i ulice znalazły się pod wodą. Żywioł zmusił też do ewakuacji kilka tysięcy osób. W Portugalii zginął 70-letni mężczyzna porwany przez wody powodziowe.",
+      "description": "Burza Leonardo uderzyła w Półwysep Iberyjski. Przyniosła ze sobą obfite opady deszczu, które doprowadziły do powodzi w Hiszpanii i Portugalii. Domy i ulice znalazły się pod wodą. Żywioł zmusił też do ewakuacji kilka tysięcy osób. W Portugalii zginął około 70-letni mężczyzna porwany przez wody powodziowe.",
       "originalTitle": "Burza Leonardo w Portugalii i Hiszpanii. Ewakuacje, ofiara śmiertelna. \"Sytuacja jest dramatyczna\"",
-      "originalDescription": "Burza Leonardo uderzyła w Półwysep Iberyjski. Przyniosła ze sobą obfite opady deszczu, które doprowadziły do powodzi w Hiszpanii i Portugalii. Domy i ulice znalazły się pod wodą. Żywioł zmusił też do ewakuacji kilka tysięcy osób. W Portugalii zginął 70-letni mężczyzna porwany przez wody powodziowe."
+      "originalDescription": "Burza Leonardo uderzyła w Półwysep Iberyjski. Przyniosła ze sobą obfite opady deszczu, które doprowadziły do powodzi w Hiszpanii i Portugalii. Domy i ulice znalazły się pod wodą. Żywioł zmusił też do ewakuacji kilka tysięcy osób. W Portugalii zginął około 70-letni mężczyzna porwany przez wody powodziowe."
     },
     {
       "title": "Powiedziała, że idzie odebrać paczkę i zniknęła. Znaleźli jej ciało",
@@ -58,30 +82,6 @@
       "description": "Policja zakończyła poszukiwania 18-letniej Emilii S. z Ciechanowa. Jej ciało zostało odnalezione podczas poszukiwań na rzece niedaleko miasta. Nastolatka była ostatni raz widziana w poniedziałek, gdy wyszła z domu po rzekomą przesyłkę z paczkomatu.",
       "originalTitle": "Powiedziała, że idzie odebrać paczkę i zniknęła. Znaleźli jej ciało",
       "originalDescription": "Policja zakończyła poszukiwania 18-letniej Emilii S. z Ciechanowa. Jej ciało zostało odnalezione podczas poszukiwań na rzece niedaleko miasta. Nastolatka była ostatni raz widziana w poniedziałek, gdy wyszła z domu po rzekomą przesyłkę z paczkomatu."
-    },
-    {
-      "title": "\"Zapalona pochodnia rzucona na beczkę prochu\". Premierostwo Starmera \"zawisło na włosku\"",
-      "link": "https://tvn24.pl/swiat/wielka-brytania-powiazania-petera-mandelsona-z-jeffreyem-epsteinem-sytuacja-premiera-keira-starmera-st8885840?source=rss",
-      "pubDate": "Thu, 05 Feb 2026 16:17:15 GMT",
-      "description": "Jeffrey Epstein może przyczynić się do tego, że pod polityczny topór pójdzie głowa brytyjskiego premiera Keira Starmera. - Jest takie angielskie wyrażenie \"in office, but not in power\". W zasadzie został otwarty konkurs na jego następcę - komentuje Przemysław Biskup z Polskiego Instytutu Spraw Międzynarodowych, ekspert do spraw Wielkiej Brytanii.",
-      "originalTitle": "\"Zapalona pochodnia rzucona na beczkę prochu\". Premierostwo Starmera \"zawisło na włosku\"",
-      "originalDescription": "Jeffrey Epstein może przyczynić się do tego, że pod polityczny topór pójdzie głowa brytyjskiego premiera Keira Starmera. - Jest takie angielskie wyrażenie \"in office, but not in power\". W zasadzie został otwarty konkurs na jego następcę - komentuje Przemysław Biskup z Polskiego Instytutu Spraw Międzynarodowych, ekspert do spraw Wielkiej Brytanii."
-    },
-    {
-      "title": "Auto uderzyło w bariery i runęło do wąwozu",
-      "link": "https://tvn24.pl/opole/nysa-auto-uderzylo-w-bariery-i-runelo-do-wawozu-st8886894?source=rss",
-      "pubDate": "Thu, 05 Feb 2026 16:13:33 GMT",
-      "description": "Na trasie Cieszanowice-Szklary kierowca toyoty stracił panowanie nad autem, uderzył w bariery mostu i spadł do wąwozu. Choć zdarzenie wyglądało bardzo groźnie, 50-latek wydostał się z rozbitego pojazdu o własnych siłach.",
-      "originalTitle": "Auto uderzyło w bariery i runęło do wąwozu",
-      "originalDescription": "Na trasie Cieszanowice-Szklary kierowca toyoty stracił panowanie nad autem, uderzył w bariery mostu i spadł do wąwozu. Choć zdarzenie wyglądało bardzo groźnie, 50-latek wydostał się z rozbitego pojazdu o własnych siłach."
-    },
-    {
-      "title": "W wieżowcu zawalił się podwieszany sufit, lobby zalała woda",
-      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-w-biurowcu-spektrum-tower-zawalil-sie-sufit-st8886165?source=rss",
-      "pubDate": "Thu, 05 Feb 2026 15:50:55 GMT",
-      "description": "W środę w biurowcu Spektrum Tower na warszawskiej Woli zawalił się fragment podwieszanego sufitu. Nikomu nic się nie stało. Budynek jest wyłączony użytkowania.",
-      "originalTitle": "W wieżowcu zawalił się podwieszany sufit, lobby zalała woda",
-      "originalDescription": "W środę w biurowcu Spektrum Tower na warszawskiej Woli zawalił się fragment podwieszanego sufitu. Nikomu nic się nie stało. Budynek jest wyłączony użytkowania."
     }
   ]
 }
