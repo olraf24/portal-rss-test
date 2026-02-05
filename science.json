@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-05T11:16:07.234Z",
+  "lastUpdate": "2026-02-05T11:44:20.497Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Astronomowie zaobserwowali tajemniczą łukową falę uderzeniową, której nie powinno być",
+      "link": "https://dzienniknaukowy.pl/astronomowie-zaobserwowali-tajemnicza-lukowa-fale-uderzeniowa-ktorej-nie-powinno-byc",
+      "pubDate": "Thu, 05 Feb 2026 11:23:07 +0000",
+      "description": "Międzynarodowy zespół naukowców z polskim astronomem z Centrum Astronomicznego im. Mikołaja Kopernika PAN na czele, zbadał układ podwójny zawierający martwą gwiazdę – białego karła. Na zdjęciach dostrzeżono łukową falę uderzeniową, której nie powinno tam być. O odkryciu poinformowało Europejskie Obserwatorium Południowe (ESO)."
+    },
     {
       "title": "Ekspertka: sztuczna inteligencja nie może zastąpić konsultacji lekarskich",
       "link": "https://dzienniknaukowy.pl/ekspertka-sztuczna-inteligencja-nie-moze-zastapic-konsultacji-lekarskich",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/genetyczka-chow-wsobny-psow-rasowych-i-sterylizacja-mieszancow-niepokojacym-trendem",
       "pubDate": "Thu, 29 Jan 2026 11:28:59 +0000",
       "description": "Genetyczka ewolucyjna dr Małgorzata Pilot z UG z niepokojem obserwuje trend, by pozwalać na rozmnażanie się tylko psom rasowym, a zdrowe mieszańce psów - sterylizować. Jej zdaniem nie sprzyja to ani psom, ani ich właścicielom, a korzyści finansowe przynosi głównie hodowcom."
-    },
-    {
-      "title": "Krok do personalizowanego leczenia raka piersi",
-      "link": "https://dzienniknaukowy.pl/krok-do-personalizowanego-leczenia-raka-piersi",
-      "pubDate": "Thu, 29 Jan 2026 11:13:22 +0000",
-      "description": "Spersonalizowanie leczenia raka piersi do konkretnej pacjentki – to cel projektu badawczego, który ruszył na Uniwersytecie Medycznym we Wrocławiu. Niekomercyjne badanie kliniczne PRIORITY, na które uczelnia otrzymała 34,1 mln zł z Agencji Badań Medycznych, jest zaplanowane na osiem lat i obejmie 440 pacjentek z rakiem piersi HER2-ujemnym. W ramach projektu naukowcy zastosują transkryptomikę przestrzenną, która pozwala analizować zmiany nowotworowe na poziomie molekularnym"
     }
   ]
 }
