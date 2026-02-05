@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-05T10:46:22.876Z",
+  "lastUpdate": "2026-02-05T11:16:07.234Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Ekspertka: sztuczna inteligencja nie może zastąpić konsultacji lekarskich",
+      "link": "https://dzienniknaukowy.pl/ekspertka-sztuczna-inteligencja-nie-moze-zastapic-konsultacji-lekarskich",
+      "pubDate": "Thu, 05 Feb 2026 11:11:44 +0000",
+      "description": "Firma OpenAI zaprezentowała w styczniu nowy moduł ChatGPT, który ma m.in. analizować wyniki badań krwi na podstawie dokumentacji medycznej. Użytkownicy nie powinni mieć jednak przekonania, że uzyskają diagnozę od ChatGPT – powiedziała liderka \"AI w Zdrowiu\" Ligia Kornowska."
+    },
     {
       "title": "Badania IP PAN: prawicowy światopogląd związany z niechęcią do pomocy psychologicznej",
       "link": "https://dzienniknaukowy.pl/badania-ip-pan-prawicowy-swiatopoglad-zwiazany-z-niechecia-do-pomocy-psychologicznej",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/krok-do-personalizowanego-leczenia-raka-piersi",
       "pubDate": "Thu, 29 Jan 2026 11:13:22 +0000",
       "description": "Spersonalizowanie leczenia raka piersi do konkretnej pacjentki – to cel projektu badawczego, który ruszył na Uniwersytecie Medycznym we Wrocławiu. Niekomercyjne badanie kliniczne PRIORITY, na które uczelnia otrzymała 34,1 mln zł z Agencji Badań Medycznych, jest zaplanowane na osiem lat i obejmie 440 pacjentek z rakiem piersi HER2-ujemnym. W ramach projektu naukowcy zastosują transkryptomikę przestrzenną, która pozwala analizować zmiany nowotworowe na poziomie molekularnym"
-    },
-    {
-      "title": "Zalecenia żywieniowe w Polsce: przewaga warzyw i pełnych ziaren, ograniczenie mięsa i soli",
-      "link": "https://dzienniknaukowy.pl/zalecenia-zywieniowe-w-polsce-przewaga-warzyw-i-pelnych-ziaren-ograniczenie-miesa-i-soli",
-      "pubDate": "Wed, 28 Jan 2026 11:39:18 +0000",
-      "description": "Różnokolorowe warzywa i owoce, za nimi pełnoziarniste produkty zbożowe, dalej zdrowe źródła białka z ograniczonym udziałem mięsa, a na końcu orzechy, nasiona roślin strączkowych i jaja - tak wyglądają aktualne zalecenia żywieniowe dla Polaków. Od kilku lat przedstawiane są w formie tzw. talerza, który zastąpił wcześniejszą piramidę"
     }
   ]
 }
