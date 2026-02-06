@@ -1,26 +1,74 @@
 {
-  "lastUpdate": "2026-02-06T13:55:06.951Z",
+  "lastUpdate": "2026-02-06T14:19:24.133Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Incident na lotnisku, samolot zjechał z pasa",
+      "title": "Quiz olimpijski dla wszystkich",
+      "link": "https://tvn24.pl/quizy/quiz-olimpijski-nie-tylko-dla-fanow-sportu-st8888355?source=rss",
+      "pubDate": "Fri, 06 Feb 2026 14:16:29 GMT",
+      "description": "• Quiz nie jest oficjalną konkurencją olimpijską\n• Można się wykazać w quizie\n• Quiz wykracza poza tradycyjną wiedzę o sporcie\n• Zapraszamy do bloków startowych",
+      "originalTitle": "Quiz olimpijski nie tylko dla fanów sportu",
+      "originalDescription": "Wprawdzie quiz nie jest oficjalną konkurencją olimpijską, ale i tu można się wykazać. Szczególnie, że nasz quiz wykracza poza tradycyjną wiedzę o sporcie. Zapraszamy do bloków startowych..."
+    },
+    {
+      "title": "Poszukiwania zaginionej matki prezenterki",
+      "link": "https://tvn24.pl/swiat/usa-poszukiwania-matki-popularnej-prezenterki-telewizyjnej-st8888168?source=rss",
+      "pubDate": "Fri, 06 Feb 2026 14:14:20 GMT",
+      "description": "• Savannah Guthrie jest prowadzącą popularny program \"Today\" w amerykańskiej stacji NBC.\n• Savannah Guthrie wciąż ma nadzieję, że jej matka żyje i uda się ją odnaleźć.\n• Sprawa zaginięcia matki Savannah Guthrie trafiła na czołówki amerykańskich portali.\n• Wsparcia Savannah Guthrie udzielił prezydent USA.",
+      "originalTitle": "Nie pojawiła się w kościele o zwykłej porze. Poszukiwania matki popularnej prezenterki",
+      "originalDescription": "Savannah Guthrie, prowadząca popularny program \"Today\" w amerykańskiej stacji NBC, wciąż ma nadzieję, że jej matka żyje i uda się ją odnaleźć. Sprawa zaginięcia kobiety trafiła na czołówki amerykańskich portali. Wsparcia prezenterce udzielił prezydent USA."
+    },
+    {
+      "title": "Dostępność węgla i gazu w Polsce",
+      "link": "https://konkret24.tvn24.pl/polska/polacy-zamarzaliby-teraz-gdyby-nie-wegiel-i-gaz-uwaga-na-te-wykresy-st8886673?source=rss",
+      "pubDate": "Fri, 06 Feb 2026 14:10:26 GMT",
+      "description": "Mrozy w Polsce stały się dla przeciwników odnawialnych źródeł energii pożywką do szerzenia dezinformacji. Przekonują oni, że jeżeli Polska zrezygnuje z zasilania węglem i gazem, zaczniemy \"zamarzać we własnych domach\". Jako dowód rozpowszechniane są wykresy przedstawiające znikomy udział odnawialnych źródeł w obecnym miksie energetycznym. Przestrzegamy przed tą manipulacją.",
+      "originalTitle": "Polacy \"zamarzaliby teraz\" gdyby nie węgiel i gaz? Uwaga na te wykresy",
+      "originalDescription": "Mrozy w Polsce stały się dla przeciwników odnawialnych źródeł energii pożywką do szerzenia dezinformacji. Przekonują oni, że jeżeli Polska zrezygnuje z zasilania węglem i gazem, zaczniemy \"zamarzać we własnych domach\". Jako dowód rozpowszechniane są wykresy przedstawiające znikomy udział odnawialnych źródeł w obecnym miksie energetycznym. Przestrzegamy przed tą manipulacją."
+    },
+    {
+      "title": "Policjant podejrzany o gwałt na podwładnej zostaje w areszcie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-policjant-podejrzany-o-gwalt-na-podwladnej-zostaje-w-areszcie-st8888390?source=rss",
+      "pubDate": "Fri, 06 Feb 2026 14:04:49 GMT",
+      "description": "W piątek sąd zajął się zażaleniem na decyzję o tymczasowym areszcie dla policjanta podejrzanego o gwałt na podwładnej w Piasecznie. Funkcjonariusz pozostanie w areszcie.",
+      "originalTitle": "Policjant podejrzany o gwałt na podwładnej zostaje w areszcie",
+      "originalDescription": "W piątek sąd zajął się zażaleniem na decyzję o tymczasowym areszcie dla policjanta podejrzanego o gwałt na podwładnej w Piasecznie. Funkcjonariusz pozostanie w areszcie."
+    },
+    {
+      "title": "Czystka w sektorze. Kampania Xi Jinpinga",
+      "link": "https://tvn24.pl/biznes/ze-swiata/chiny-czystka-w-sektorze-kampania-xi-jinpinga-st8888473?source=rss",
+      "pubDate": "Fri, 06 Feb 2026 14:04:01 GMT",
+      "description": "Xi Jinpinga prowadzi kampanię antykorupcyjną, która obejmuje finanse i wojsko. Tym razem ofiarą czystek chińskiego przywódcy jest były wiceprezes państwowego Bank of China Lin Jingzhen, którego wydalono z Komunistycznej Partii Chin (KPCh) - o czym informują państwowe media.",
+      "originalTitle": "Czystka w sektorze. Kampania Xi Jinpinga",
+      "originalDescription": "Xi Jinpinga prowadzi kampanię antykorupcyjną, która obejmuje finanse i wojsko. Tym razem ofiarą czystek chińskiego przywódcy jest były wiceprezes państwowego Bank of China Lin Jingzhen, którego wydalono z Komunistycznej Partii Chin (KPCh) - o czym informują państwowe media."
+    },
+    {
+      "title": "Pogoda. Nadciąga kolejne uderzenie mrozu",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/mrozy-w-polsce-pogoda-na-5-dni-nadciaga-kolejne-uderzenie-mrozu-ile-stopni-bedzie-st8888002?source=rss",
+      "pubDate": "Fri, 06 Feb 2026 14:01:02 GMT",
+      "description": "Pogoda w Polsce. W weekend pojawią się mgły i opady marznące. Z każdym kolejnym dniem temperatura będzie spadać - szykuje się powrót silnego mrozu. Na termometrach nocą zobaczymy około -20 stopni.",
+      "originalTitle": "Pogoda. Nadciąga kolejne uderzenie mrozu",
+      "originalDescription": "Pogoda w Polsce. W weekend pojawią się mgły i opady marznące. Z każdym kolejnym dniem temperatura będzie spadać - szykuje się powrót silnego mrozu. Na termometrach nocą zobaczymy około -20 stopni."
+    },
+    {
+      "title": "Przerwany start. Samolot rozpędzał się obok pasa startowego",
       "link": "https://tvn24.pl/swiat/belgia-samolot-rozpedzal-sie-obok-pasa-startowego-st8888018?source=rss",
       "pubDate": "Fri, 06 Feb 2026 13:43:47 GMT",
-      "description": "• Pasażerowie udający się z Brukseli do Kopenhagi zostali w czwartek ewakuowani z pokładu samolotu.\n• Ewakuacja nastąpiła po tym, jak pilot zaczął podejście do startu z drogi kołowania zamiast pasa startowego.\n• Incydent dotyczył samolotu Scandinavian Airlines (SAS).\n• Incydent potwierdzili przedstawiciele lotniska w Brukseli.\n• Potwierdzenie incydentu nastąpiło w rozmowie z publicznym nadawcą VRT.",
+      "description": "Pasażerowie udający się z Brukseli do Kopenhagi zostali w czwartek ewakuowani z pokładu samolotu po tym, jak pilot zaczął podejście do startu z drogi kołowania zamiast pasa startowego - informują belgijskie media. Incydent z udziałem samolotu Scandinavian Airlines (SAS) potwierdzili publicznemu nadawcy VRT przedstawiciele lotniska w Brukseli.",
       "originalTitle": "Przerwany start. Samolot rozpędzał się obok pasa startowego",
       "originalDescription": "Pasażerowie udający się z Brukseli do Kopenhagi zostali w czwartek ewakuowani z pokładu samolotu po tym, jak pilot zaczął podejście do startu z drogi kołowania zamiast pasa startowego - informują belgijskie media. Incydent z udziałem samolotu Scandinavian Airlines (SAS) potwierdzili publicznemu nadawcy VRT przedstawiciele lotniska w Brukseli."
     },
     {
-      "title": "Wzrost cen utrudnia zakupy",
+      "title": "Ceny poszybowały, ogromne kłopoty z zakupem",
       "link": "https://tvn24.pl/biznes/z-kraju/pellet-ceny-poszybowaly-ogromne-klopoty-z-zakupem-st8885206?source=rss",
       "pubDate": "Fri, 06 Feb 2026 13:42:11 GMT",
-      "description": "• Pelletu u dystrybutorów właściwie nie ma.\n• Cena pelletu jest znacznie wyższa niż na początku sezonu, nawet jeśli ktoś znajdzie pellet.\n• Sytuacja na rynku jest dynamiczna.\n• Dostępność pelletu zmienia się bardzo szybko.\n• Liczba zapytań o pellet znacząco wzrosła.\n• Za oknem jest zima.\n• Kotłami na pellet domy ogrzewa nawet 800 tysięcy rodzin.",
+      "description": "Pelletu u dystrybutorów właściwie nie ma, a nawet jeśli ktoś znajdzie, to cena jest znacznie wyższa niż na początku sezonu. \"Sytuacja na rynku jest dynamiczna, dostępność zmienia się bardzo szybko, a liczba zapytań znacząco wzrosła\" - informuje jedna z firm. Problem jest poważny, bo za oknem zima, a według szacunków kotłami na pellet domy ogrzewa nawet 800 tysięcy rodzin.",
       "originalTitle": "Ceny poszybowały, ogromne kłopoty z zakupem",
       "originalDescription": "Pelletu u dystrybutorów właściwie nie ma, a nawet jeśli ktoś znajdzie, to cena jest znacznie wyższa niż na początku sezonu. \"Sytuacja na rynku jest dynamiczna, dostępność zmienia się bardzo szybko, a liczba zapytań znacząco wzrosła\" - informuje jedna z firm. Problem jest poważny, bo za oknem zima, a według szacunków kotłami na pellet domy ogrzewa nawet 800 tysięcy rodzin."
     },
     {
-      "title": "Mężczyzna usłyszał zarzuty po wybuchu w mieszkaniu",
+      "title": "Produkował alkohol w bloku. Po wybuchu usłyszał zarzuty",
       "link": "https://tvn24.pl/lubuskie/gorzow-wielkopolski-produkowal-alkohol-w-bloku-po-wybuchu-i-pozarze-uslyszal-zarzuty-st8888122?source=rss",
       "pubDate": "Fri, 06 Feb 2026 13:36:53 GMT",
       "description": "57-latek z Gorzowa Wielkopolskiego usłyszał dwa zarzuty w sprawie wybuchu i pożaru w bloku przy ulicy Wróblewskiego. Jak ustalili śledczy, mężczyzna trzymał w piwnicy kanistry z produkowanym przez siebie alkoholem.",
@@ -34,52 +82,6 @@
       "description": "Prokuratura Rejonowa w Hajnówce postawiła zarzuty 30-letniemu lekarzowi za wystawienie kilkudziesięciu recept na leki psychotropowe. Wszystko w ramach większego śledztwa dotyczącego przestępstw narkotykowych, w tym działalności internetowego sklepu oferującego narkotyki. 30-latek przyznał się do winy. Zawieszono go w wykonywaniu zawodu.",
       "originalTitle": "Zlikwidowali sklep z narkotykami, zatrzymali lekarza, który wystawiał \"lewe\" recepty",
       "originalDescription": "Prokuratura Rejonowa w Hajnówce postawiła zarzuty 30-letniemu lekarzowi za wystawienie kilkudziesięciu recept na leki psychotropowe. Wszystko w ramach większego śledztwa dotyczącego przestępstw narkotykowych, w tym działalności internetowego sklepu oferującego narkotyki. 30-latek przyznał się do winy. Zawieszono go w wykonywaniu zawodu."
-    },
-    {
-      "title": "Księżna Norwegii przeprasza. Chodzi o jej relacje z Epsteinem",
-      "link": "https://tvn24.pl/swiat/ksiezna-norwegii-przeprasza-chodzi-o-jej-relacje-z-epsteinem-st8888426?source=rss",
-      "pubDate": "Fri, 06 Feb 2026 13:31:26 GMT",
-      "description": "Brak opisu"
-    },
-    {
-      "title": "Ustawa czeka, Żurek chce \"przekonać prezydenta\". \"Będzie likwidować pewien chaos\"",
-      "link": "https://tvn24.pl/polska/nowelizacja-ustawy-o-krs-waldemar-zurek-o-szczegolach-st8887961?source=rss",
-      "pubDate": "Fri, 06 Feb 2026 13:18:47 GMT",
-      "description": "Ta ustawa będzie likwidować pewien chaos, który panuje w wymiarze sprawiedliwości - mówił Waldemar Żurek o nowelizacji ustawy o Krajowej Radzie Sądownictwa. Ta trafiła już na biurko prezydenta i czeka na jego decyzję. Minister podkreślał, że nowe rozwiązania są \"fundamentem uzdrowienia\" obecnej sytuacji w sądownictwie. - Tak naprawdę w rękach prezydenta leży to, czy przywrócimy w Polsce praworządność - wskazywał.",
-      "originalTitle": "Ustawa czeka, Żurek chce \"przekonać prezydenta\". \"Będzie likwidować pewien chaos\"",
-      "originalDescription": "Ta ustawa będzie likwidować pewien chaos, który panuje w wymiarze sprawiedliwości - mówił Waldemar Żurek o nowelizacji ustawy o Krajowej Radzie Sądownictwa. Ta trafiła już na biurko prezydenta i czeka na jego decyzję. Minister podkreślał, że nowe rozwiązania są \"fundamentem uzdrowienia\" obecnej sytuacji w sądownictwie. - Tak naprawdę w rękach prezydenta leży to, czy przywrócimy w Polsce praworządność - wskazywał."
-    },
-    {
-      "title": "Kaczyński \"opuścił dzisiaj szpital\"",
-      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-opuscil-dzisiaj-szpital-potwierdzil-rzecznik-pis-st8888406?source=rss",
-      "pubDate": "Fri, 06 Feb 2026 13:16:28 GMT",
-      "description": "Jarosław Kaczyński opuścił szpital w związku z zakończonym leczeniem - poinformował rzecznik Prawa i Sprawiedliwości Rafał Bochenek. Jak dodał, prezes PiS przez kilka dni pozostanie jeszcze w domu.",
-      "originalTitle": "Kaczyński \"opuścił dzisiaj szpital\"",
-      "originalDescription": "Jarosław Kaczyński opuścił szpital w związku z zakończonym leczeniem - poinformował rzecznik Prawa i Sprawiedliwości Rafał Bochenek. Jak dodał, prezes PiS przez kilka dni pozostanie jeszcze w domu."
-    },
-    {
-      "title": "18-latek oskarżony o przygotowywanie zamachu i wspieranie tzw. Państwa Islamskiego",
-      "link": "https://tvn24.pl/rzeszow/tarnobrzeg-18-latek-oskarzony-o-przygotowywanie-zamachu-i-wspieranie-tzw-panstwa-islamskiego-st8888362?source=rss",
-      "pubDate": "Fri, 06 Feb 2026 13:15:04 GMT",
-      "description": "Do sądu trafił akt oskarżenia przeciwko 18-letniemu Remigiuszowi Ż., który według śledczych miał przygotowywać zamach terrorystyczny. Odpowie też za popieranie dżihadu, akcji zbrojnych islamistów oraz za nawoływanie do zbrodni i nienawiści na tle różnic narodowościowych i wyznaniowych. Mężczyzna miał między innymi posiadać notatki dotyczące przygotowywania zamachu na jedną ze szkół w regionie.",
-      "originalTitle": "18-latek oskarżony o przygotowywanie zamachu i wspieranie tzw. Państwa Islamskiego",
-      "originalDescription": "Do sądu trafił akt oskarżenia przeciwko 18-letniemu Remigiuszowi Ż., który według śledczych miał przygotowywać zamach terrorystyczny. Odpowie też za popieranie dżihadu, akcji zbrojnych islamistów oraz za nawoływanie do zbrodni i nienawiści na tle różnic narodowościowych i wyznaniowych. Mężczyzna miał między innymi posiadać notatki dotyczące przygotowywania zamachu na jedną ze szkół w regionie."
-    },
-    {
-      "title": "Mężczyzna otrzymał pocięte gazety zamiast 800 tysięcy złotych",
-      "link": "https://tvn24.pl/lublin/pulawy-przyszedl-do-seniorki-po-800-tysiecy-zlotych-ta-dala-mu-pociete-gazety-st8888131?source=rss",
-      "pubDate": "Fri, 06 Feb 2026 13:13:50 GMT",
-      "description": "72-latka z Puław (Lubelskie) przechytrzyła oszusta, który przyszedł do niej po pieniądze na rzekomo wyjątkowo drogi lek dla syna seniorki. Kobieta, zamiast wręczyć mężczyźnie umówione 800 tysięcy złotych, włożyła do reklamówki pocięte gazety. Gdy oszust od niej wyszedł, zadzwoniła na policję, a ta zatrzymała 23-latka w Warszawie.",
-      "originalTitle": "Przyszedł do starszej kobiety po 800 tysięcy złotych, dała mu pocięte gazety",
-      "originalDescription": "72-latka z Puław (Lubelskie) przechytrzyła oszusta, który przyszedł do niej po pieniądze na rzekomo wyjątkowo drogi lek dla syna seniorki. Kobieta, zamiast wręczyć mężczyźnie umówione 800 tysięcy złotych, włożyła do reklamówki pocięte gazety. Gdy oszust od niej wyszedł, zadzwoniła na policję, a ta zatrzymała 23-latka w Warszawie."
-    },
-    {
-      "title": "Zjechał z drogi, uderzył w drzewo i dachował. Nie przeżył",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/wygladaly-zjechal-z-jezdni-uderzyl-w-drzewo-zginal-st8888091?source=rss",
-      "pubDate": "Fri, 06 Feb 2026 13:08:45 GMT",
-      "description": "W miejscowości Wyglądały (Mazowieckie) doszło w do tragicznego wypadku. Zginął kierowca, którego samochód wypadł z drogi i uderzył w drzewo. Okoliczności zdarzenia badają policja i prokuratura.",
-      "originalTitle": "Zjechał z drogi, uderzył w drzewo i dachował. Nie przeżył",
-      "originalDescription": "W miejscowości Wyglądały (Mazowieckie) doszło w do tragicznego wypadku. Zginął kierowca, którego samochód wypadł z drogi i uderzył w drzewo. Okoliczności zdarzenia badają policja i prokuratura."
     }
   ]
 }
