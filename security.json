@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-06T06:47:52.845Z",
+  "lastUpdate": "2026-02-06T07:21:47.378Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Estonia testuje nowy sposób ochrony pojazdów. Wnioski z Ukrainy",
+      "link": "https://defence24.pl/sily-zbrojne/estonia-testuje-nowy-sposob-ochrony-pojazdow-wnioski-z-ukrainy",
+      "pubDate": "Fri, 06 Feb 2026 07:53:40 +0100",
+      "description": "Pod koniec stycznia estońska 1. Brygada Piechoty opublikowała zdjęcia z procesu tworzenia oraz montażu na przynajmniej jednym kołowym transporterze opancerzonym Sisu XA-180 lub XA-188 dodatkowych osłon antydronowych. Składają się one z sztywnych drucianych siatek osadzonych na stelażach wykonanych ze spawanych kątowników. Mają one zapewnić pełne pokrycie pojazdu, co zwiększy jego przeżywalność wobec ataków dronów, zwłaszcza typu FPV."
+    },
     {
       "title": "Pozwali tureckiego giganta zbrojeniowego. Wykupił ich",
       "link": "https://defence24.pl/przemysl/pozwali-tureckiego-giganta-zbrojeniowego-wykupil-ich",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosyjski-bwp-z-uzbrojeniem-przeciwlotniczym",
       "pubDate": "Thu, 05 Feb 2026 15:00:00 +0100",
       "description": "Artyleryjski zestaw przeciwlotniczy ZU-23-2 to absolutna klasyka w zwalczaniu celów powietrznych, nie tylko w kontekście wojny na Ukrainie. Jest on zazwyczaj montowany na różnego typu samochodach ciężarowych lub transporterach opancerzonych, takich jak np. MT-LB/MT-LBu. W Polsce przykładem tego są [zestawy przeciwlotnicze Hibneryt](https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/polski-hibneryt-na-ukrainie). Rosjanie podobne rozwiązania mają od dekad i wdrażają je np. w [odpowiednikach ukraińskich mobilnych grup ogniowych](https://defence24.pl/sily-zbrojne/rosjanie-tworza-mobilne-grupy-przeciwlotnicze)."
-    },
-    {
-      "title": "„Bryza” zwalcza drony na Ukrainie",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/bryza-zwalcza-drony-na-ukrainie",
-      "pubDate": "Thu, 05 Feb 2026 14:37:28 +0100",
-      "description": "Francuzi biorą udział w nocnym locie ukraińskiej załogi ochotników. Na materiale widać, że wszyscy wchodzą do samolotu przypominającego polski PZL M28, znany też jako Bryza. Francuska telewizja przedstawia go jako „archaiczny samolot z epoki sowieckiej”. Biorąc pod uwagę widoczne trójłopatowe śmigła i kształt gondoli silnika, można założyć, że jest to po prostu PZL An-28. To wczesna wersja tej produkowanej obecnie w Polsce (PZL Mielec), znacznie unowocześnionej i zwesternizowanej maszyny."
     }
   ]
 }
