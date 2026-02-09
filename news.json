@@ -1,43 +1,75 @@
 {
-  "lastUpdate": "2026-02-09T05:11:23.945Z",
+  "lastUpdate": "2026-02-09T05:56:39.347Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Doradca premiera odchodzi ze stanowiska",
+      "title": "Boisko o mniejszych wymiarach",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-mini-boisko-do-pilki-noznej-w-parku-gorczewska-komu-ma-sluzyc-urzad-tlumaczy-st8890576?source=rss",
+      "pubDate": "Mon, 09 Feb 2026 05:43:43 GMT",
+      "description": "W Parku Górczewska powstało małe boisko do piłki nożnej. Ma zaledwie 17 metrów długości i 10 metrów szerokości. Urzędnicy wyjaśniają, komu ma służyć tak niewielka powierzchnia. Inwestycja to realizacja projektu z Budżetu Obywatelskiego.",
+      "originalTitle": "Zbudowali boisko, ale jest kilka razy mniejsze od klasycznego",
+      "originalDescription": "W Parku Górczewska powstało małe boisko do piłki nożnej. Ma zaledwie 17 metrów długości i 10 metrów szerokości. Urzędnicy wyjaśniają, komu ma służyć tak niewielka powierzchnia. Inwestycja to realizacja projektu z Budżetu Obywatelskiego."
+    },
+    {
+      "title": "Kandydat na Radę Bezpieczeństwa Narodowego",
+      "link": "https://tvn24.pl/polska/prorosyjski-posel-na-radzie-bezpieczenstwa-w-kuluarach-o-burzy-wokol-zaproszenia-posla-konfederacji-korony-polskiej-wlodzimierza-skalika-st8891071?source=rss",
+      "pubDate": "Mon, 09 Feb 2026 05:40:21 GMT",
+      "description": "• Zaproszenia na najbliższe posiedzenie Rady Bezpieczeństwa Narodowego zostały już wysłane.\n• Jedno z zaproszeń miało trafić do Włodzimierza Skalika.\n• Włodzimierz Skalik jest posłem Konfederacji Korony Polskiej.\n• Włodzimierz Skalik jest znany z prorosyjskich wypowiedzi.\n• W niedzielnym wydaniu programu \"W kuluarach\" odbyła się dyskusja na temat zaproszenia Włodzimierza Skalika.\n• W dyskusji wzięli udział dziennikarze TVN24, w tym Agata Adamek, Radomir Wit i Piotr Kraśko.\n• Dyskusja dotyczyła tego, jak mogło dojść do sytuacji, w której Włodzimierz Skalik otrzymał zaproszenie.\n• Dyskusja dotyczyła również tego, czy zaproszenie zostanie cofnięte.\n• Dyskusja dotyczyła również możliwych konsekwencji dopuszczenia Włodzimierza Skalika do obrad Rady Bezpieczeństwa Narodowego.",
+      "originalTitle": "Prorosyjski poseł na Radzie Bezpieczeństwa Narodowego? \"Będzie tego wszystkiego słuchał\"",
+      "originalDescription": "Zaproszenia na najbliższe posiedzenie Rady Bezpieczeństwa Narodowego zostały już wysłane. Jedno z nich miało trafić do Włodzimierza Skalika - posła Konfederacji Korony Polskiej, znanego z prorosyjskich wypowiedzi. W niedzielnym wydaniu programu \"W kuluarach\" dziennikarze TVN24 - Agata Adamek, Radomir Wit i Piotr Kraśko - dyskutowali, jak mogło dojść do takiej sytuacji, czy zaproszenie zostanie cofnięte oraz jakie mogą być konsekwencje dopuszczenia Skalika do obrad."
+    },
+    {
+      "title": "Ostrzeżenie IMGW przed oblodzeniem i mrozem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gololedz-oblodzenie-mroz-slisko-i-bardzo-zimno-imgw-ostrzega-st8881876?source=rss",
+      "pubDate": "Mon, 09 Feb 2026 05:22:00 GMT",
+      "description": "• Pogoda w Polsce jest objęta ostrzeżeniami IMGW przed zimowymi zagrożeniami.\n• Rano w części kraju występują problemy z oblodzeniem.\n• W kilku województwach do wtorkowego poranka są ważne alarmy przed silnym mrozem.\n• Zalecane jest sprawdzenie, gdzie pogoda jest niebezpieczna.",
+      "originalTitle": "U jednych oblodzenie, u innych silny mróz. IMGW ostrzega",
+      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed zimowymi zagrożeniami. Rano w części kraju problemy nadal sprawia oblodzenie, a w kilku województwach do wtorkowego poranka ważne są alarmy przed silnym mrozem. Sprawdź, gdzie pogoda jest niebezpieczna."
+    },
+    {
+      "title": "Trump komentuje Super Bowl",
+      "link": "https://tvn24.pl/swiat/super-bowl-i-bad-bunny-donald-trump-oburzony-wystepem-st8891087?source=rss",
+      "pubDate": "Mon, 09 Feb 2026 05:21:58 GMT",
+      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump skomentował koncert rapera Bad Bunny'ego w przerwie Super Bowl.\n• Występ Bad Bunny'ego został przez Donalda Trumpa oceniony jako \"jeden z najgorszych w historii\".\n• Występ Bad Bunny'ego stanowił zdaniem Donalda Trumpa \"afront wobec wielkości Ameryki\".\n• Raper Bad Bunny pochodzi z Portoryko.\n• Bad Bunny śpiewał po hiszpańsku podczas koncertu.",
+      "originalTitle": "Trump oburzony występem na Super Bowl. Pisze o \"afroncie\" i \"uderzeniu w twarz\"",
+      "originalDescription": "Prezydent USA Donald Trump skomentował koncert rapera Bad Bunny'ego w przerwie Super Bowl. Ocenił, że występ był \"jednym z najgorszym w historii\" i stanowił \"afront wobec wielkości Ameryki\". Pochodzący z Portoryko artysta śpiewał po hiszpańsku."
+    },
+    {
+      "title": "Doradca premiera zrezygnował ze stanowiska. W tle akta Epsteina",
       "link": "https://tvn24.pl/swiat/wielka-brytania-doradca-premiera-morgan-mcsweeney-zrezygnowal-ze-stanowiska-chodzi-o-afere-z-epsteinem-st8891078?source=rss",
       "pubDate": "Mon, 09 Feb 2026 05:03:44 GMT",
-      "description": "• W niedzielę Morgan McSweeney zrezygnował ze stanowiska szefa sztabu na Downing Street.\n• Morgan McSweeney był najbliższym doradcą brytyjskiego premiera Keira Starmera.\n• McSweeney w oświadczeniu wyjaśnił, że bierze na siebie odpowiedzialność za rekomendację Petera Mandelsona.\n• Peter Mandelson to polityk utrzymujący kontakty z Jeffreyem Epsteinem.\n• Rekomendacja dotyczyła stanowiska ambasadora Wielkiej Brytanii w Stanach Zjednoczonych.",
+      "description": "W niedzielę Morgan McSweeney, najbliższy doradca brytyjskiego premiera Keira Starmera, zrezygnował ze stanowiska szefa sztabu na Downing Street. W oświadczeniu wyjaśnił, że bierze na siebie odpowiedzialność za rekomendację Petera Mandelsona - polityka utrzymującego kontakty z Jeffreyem Epsteinem - na stanowisko ambasadora Wielkiej Brytanii w Stanach Zjednoczonych.",
       "originalTitle": "Doradca premiera zrezygnował ze stanowiska. W tle akta Epsteina",
       "originalDescription": "W niedzielę Morgan McSweeney, najbliższy doradca brytyjskiego premiera Keira Starmera, zrezygnował ze stanowiska szefa sztabu na Downing Street. W oświadczeniu wyjaśnił, że bierze na siebie odpowiedzialność za rekomendację Petera Mandelsona - polityka utrzymującego kontakty z Jeffreyem Epsteinem - na stanowisko ambasadora Wielkiej Brytanii w Stanach Zjednoczonych."
     },
     {
-      "title": "Laureatka nagrody Nobla skazana ponownie",
+      "title": "Laureatka nagrody Nobla ponownie skazana",
       "link": "https://tvn24.pl/biznes/ze-swiata/iran-wiezienie-za-dzialalnosc-propagandowa-laureatka-nagrody-nobla-skazana-st8891079?source=rss",
       "pubDate": "Mon, 09 Feb 2026 04:53:19 GMT",
-      "description": "• Irański sąd skazał noblistkę Narges Mohammadi na sześć lat więzienia.\n• Kara ta została orzeczona za rzekome przestępstwa przeciwko bezpieczeństwu państwa.\n• Dodatkowo Narges Mohammadi została skazana na półtora roku pozbawienia wolności.\n• Kara półtora roku pozbawienia wolności została orzeczona za \"działalność propagandową\" wymierzoną we władze.",
+      "description": "Irański sąd skazał noblistkę Narges Mohammadi na sześć lat więzienia za rzekome przestępstwa przeciwko bezpieczeństwu państwa. Dodatkowo orzekł wobec niej karę półtora roku pozbawienia wolności za \"działalność propagandową\" wymierzoną we władze.",
       "originalTitle": "Laureatka nagrody Nobla ponownie skazana",
       "originalDescription": "Irański sąd skazał noblistkę Narges Mohammadi na sześć lat więzienia za rzekome przestępstwa przeciwko bezpieczeństwu państwa. Dodatkowo orzekł wobec niej karę półtora roku pozbawienia wolności za \"działalność propagandową\" wymierzoną we władze."
     },
     {
-      "title": "Wybory prezydenckie w Portugalii",
+      "title": "Portugalczycy wybrali nowego prezydenta",
       "link": "https://tvn24.pl/swiat/antonio-jose-seguro-zwyciezca-drugiej-tury-wyborow-w-portugalii-st8891080?source=rss",
       "pubDate": "Mon, 09 Feb 2026 04:46:46 GMT",
-      "description": "• W drugiej turze wyborów prezydenckich w Portugalii zdecydowane zwycięstwo odniósł kandydat Partii Socjalistycznej.\n• Kandydatem Partii Socjalistycznej był Antonio Jose Seguro.\n• Rywalem Antonio Jose Seguro był Andre Ventura.\n• Andre Ventura jest liderem populistyczno-prawicowej partii Chega.\n• Wyniki wyborów pochodzą z danych państwowej komisji wyborczej.",
+      "description": "W drugiej turze wyborów prezydenckich w Portugalii zdecydowane zwycięstwo odniósł kandydat Partii Socjalistycznej, Antonio Jose Seguro - wynika z danych państwowej komisji wyborczej. Jego rywalem był Andre Ventura, lider populistyczno‑prawicowej partii Chega.",
       "originalTitle": "Portugalczycy wybrali nowego prezydenta",
       "originalDescription": "W drugiej turze wyborów prezydenckich w Portugalii zdecydowane zwycięstwo odniósł kandydat Partii Socjalistycznej, Antonio Jose Seguro - wynika z danych państwowej komisji wyborczej. Jego rywalem był Andre Ventura, lider populistyczno‑prawicowej partii Chega."
     },
     {
-      "title": "Stacjonują sześć myśliwców w pobliżu Iranu",
+      "title": "Ich baza jest w zasięgu irańskich rakiet. Wysłali tam sześć myśliwców",
       "link": "https://tvn24.pl/swiat/wielka-brytania-napieta-sytuacja-na-bliskim-wschodzie-londyn-wysyla-mysliwce-na-cypr-st8891086?source=rss",
       "pubDate": "Mon, 09 Feb 2026 04:29:58 GMT",
-      "description": "• Wielka Brytania wysłała sześć nowoczesnych myśliwców F-35B Lightning na Cypr.\n• Myśliwce mają wzmocnić obronę bazy wojskowej Akrotiri.\n• Przybycie samolotów ma zwiększyć gotowość sił brytyjskich.\n��� Zwiększona gotowość jest spowodowana możliwą eskalacją napięć między Stanami Zjednoczonymi a Iranem.",
+      "description": "Wielka Brytania wysłała sześć nowoczesnych myśliwców F-35B Lightning na Cypr, aby wzmocnić obronę bazy wojskowej Akrotiri. Przybycie samolotów ma zwiększyć gotowość sił brytyjskich na wypadek eskalacji napięć między Stanami Zjednoczonymi a Iranem.",
       "originalTitle": "Ich baza jest w zasięgu irańskich rakiet. Wysłali tam sześć myśliwców",
       "originalDescription": "Wielka Brytania wysłała sześć nowoczesnych myśliwców F-35B Lightning na Cypr, aby wzmocnić obronę bazy wojskowej Akrotiri. Przybycie samolotów ma zwiększyć gotowość sił brytyjskich na wypadek eskalacji napięć między Stanami Zjednoczonymi a Iranem."
     },
     {
-      "title": "Śmierć Edwarda Linde-Lubaszenko podczas zjazdu alpejki w Libanie",
-      "link": "https://tvn24.pl/najnowsze/piec-rzeczy-ktore-warto-wiedziec-9-lutego-2026-najwazniejsze-informacje-z-polski-i-ze-swiata-st8891085?source=rss",
+      "title": "Nie żyje Edward Linde-Lubaszenko, fatalny finał zjazdu alpejki, akcja ratunkowa w Libanie",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-9-lutego-2026-najwazniejsze-informacje-z-polski-i-ze-swiata-st8891085?source=rss",
       "pubDate": "Mon, 09 Feb 2026 04:15:11 GMT",
       "description": "W wieku 86 lat zmarł aktor i pedagog Edward Linde-Lubaszenko. 41-letnia alpejka Lindsey Vonn nie ukończyła rywalizacji podczas igrzysk olimpijskich Mediolan - Cortina 2026, upadając już na początku trasy. W libańskim Trypolis runął kilkupiętrowy budynek - zginęło co najmniej sześć osób. Oto pięć rzeczy, które warto wiedzieć w poniedziałek, 9 lutego.",
       "originalTitle": "Nie żyje Edward Linde-Lubaszenko, fatalny finał zjazdu alpejki, akcja ratunkowa w Libanie",
@@ -50,38 +82,6 @@
       "description": "Pogoda na dziś. Poniedziałek, 9.02 przyniesie dość niskie temperatury. Miejscami powieje dość silny wiatr potęgujący odczucie zimna.",
       "originalTitle": "Pogoda na dziś - poniedziałek, 9.02. Mroźny początek tygodnia",
       "originalDescription": "Pogoda na dziś. Poniedziałek, 9.02 przyniesie dość niskie temperatury. Miejscami powieje dość silny wiatr potęgujący odczucie zimna."
-    },
-    {
-      "title": "Kulisy wyborów w Polsce 2050. Hołownia \"dostał najmniej głosów\"",
-      "link": "https://tvn24.pl/polska/kulisy-wyborow-w-polsce-2050-holownia-dostal-najmniej-glosow-st8891015?source=rss",
-      "pubDate": "Sun, 08 Feb 2026 20:58:10 GMT",
-      "description": "Szymon Hołownia w wyborach na wiceprzewodniczącego partii, która ma w nazwie jego nazwisko, dostał najmniej głosów ze wszystkich kandydatów do zarządu - powiedziała \"W kuluarach\" w TVN24 Agata Adamek. Zdaniem Radomira Wita podziałów w Polsce 2050 nie da się już ukryć.",
-      "originalTitle": "Kulisy wyborów w Polsce 2050. Hołownia \"dostał najmniej głosów\"",
-      "originalDescription": "Szymon Hołownia w wyborach na wiceprzewodniczącego partii, która ma w nazwie jego nazwisko, dostał najmniej głosów ze wszystkich kandydatów do zarządu - powiedziała \"W kuluarach\" w TVN24 Agata Adamek. Zdaniem Radomira Wita podziałów w Polsce 2050 nie da się już ukryć."
-    },
-    {
-      "title": "Trzaskający mróz i szklanka na drogach. IMGW ostrzega",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/gololedz-oblodzenie-mroz-slisko-i-mroznie-imgw-ostrzega-st8881876?source=rss",
-      "pubDate": "Sun, 08 Feb 2026 05:45:00 GMT",
-      "description": "Pogoda w Polsce. IMGW wydał alarmy przed zimowymi zagrożeniami. Są takie miejsca w kraju, gdzie problemy będzie sprawiać oblodzenie. W innych regionach zaś mocno spadnie temperatura. Sprawdź, gdzie należy być przygotowanym na groźną aurę.",
-      "originalTitle": "Trzaskający mróz i szklanka na drogach. IMGW ostrzega",
-      "originalDescription": "Pogoda w Polsce. IMGW wydał alarmy przed zimowymi zagrożeniami. Są takie miejsca w kraju, gdzie problemy będzie sprawiać oblodzenie. W innych regionach zaś mocno spadnie temperatura. Sprawdź, gdzie należy być przygotowanym na groźną aurę."
-    },
-    {
-      "title": "Zanieczyszczenia powietrza mogą sprawiać, że mrówki stają się dla siebie agresywne",
-      "link": "https://tvn24.pl/tvnmeteo/smog/ozon-zanieczyszczenia-powietrza-moga-sprawiac-ze-mrowki-staja-sie-dla-siebie-agresywne-st8890959?source=rss",
-      "pubDate": "Sun, 08 Feb 2026 19:23:00 GMT",
-      "description": "Badacze wykazali, że niektóre gatunki mrówek są atakowane przez współtowarzyszki po powrocie do swoich kolonii. Za przyczynę tego zachowania eksperci uznają zanieczyszczenia powietrza spowodowane działalnością człowieka.",
-      "originalTitle": "Zanieczyszczenia powietrza mogą sprawiać, że mrówki stają się dla siebie agresywne",
-      "originalDescription": "Badacze wykazali, że niektóre gatunki mrówek są atakowane przez współtowarzyszki po powrocie do swoich kolonii. Za przyczynę tego zachowania eksperci uznają zanieczyszczenia powietrza spowodowane działalnością człowieka."
-    },
-    {
-      "title": "Kobosko: Nie wiem, czy ten klub przetrwa. Mam sporo wątpliwości",
-      "link": "https://tvn24.pl/polska/michal-kobosko-o-przyszlosci-polski-2050-nie-wiem-czy-ten-klub-przetrwa-mam-sporo-watpliwosci-st8890979?source=rss",
-      "pubDate": "Sun, 08 Feb 2026 19:15:57 GMT",
-      "description": "Nie wiem, czy ten klub przetrwa. Mam co do tego sporo wątpliwości - mówił europoseł Polski 2050 Michał Kobosko w \"Faktach po Faktach\" w TVN24, komentując ostatnie wydarzenia w swojej partii. Zdaniem Roberta Biedronia sytuacja w Polsce 2050 niczemu nie służy i nie pomaga w budowaniu zaufania do koalicji rządowej.",
-      "originalTitle": "Kobosko: Nie wiem, czy ten klub przetrwa. Mam sporo wątpliwości",
-      "originalDescription": "Nie wiem, czy ten klub przetrwa. Mam co do tego sporo wątpliwości - mówił europoseł Polski 2050 Michał Kobosko w \"Faktach po Faktach\" w TVN24, komentując ostatnie wydarzenia w swojej partii. Zdaniem Roberta Biedronia sytuacja w Polsce 2050 niczemu nie służy i nie pomaga w budowaniu zaufania do koalicji rządowej."
     }
   ]
 }
