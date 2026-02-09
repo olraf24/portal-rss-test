@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-02-09T18:22:00.149Z",
+  "lastUpdate": "2026-02-09T18:49:08.846Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Polityka USA w Afryce",
+      "link": "https://tvn24.pl/biznes/ze-swiata/afryka-i-usa-mineraly-krytyczne-surowce-walka-o-dominacje-z-chinami-nowe-podejscie-usa-st8892298?source=rss",
+      "pubDate": "Mon, 09 Feb 2026 18:42:10 GMT",
+      "description": "• Zaostrza się walka o afrykańskie surowce.\n• Stany Zjednoczone próbują przejąć kontrolę nad kluczowymi minerałami.\n• Informację o tym podaje Reuters.\n• USA zmieniają podejście w walce z Chinami o dominację na kontynencie.",
+      "originalTitle": "Walka o dominację w Afryce. Nowe podejście USA",
+      "originalDescription": "Zaostrza się walka o afrykańskie surowce. Stany Zjednoczone próbują przejąć kontrolę nad kluczowymi minerałami - podaje Reuters. Dodaje, że USA zmieniają podejście w walce z Chinami o dominację na kontynencie."
+    },
     {
       "title": "Wypadek drogowy: tir przewrócił się po zderzeniu",
       "link": "https://tvn24.pl/lubuskie/kelpin-dk22-wypadek-dwoch-samochodow-jedna-osoba-jest-ranna-tir-przewrocil-sie-na-bok-utrudnienia-st8892711?source=rss",
@@ -12,23 +20,15 @@
       "originalDescription": "Po czołowym zderzeniu Toyoty i samochodu ciężarowego zablokowana jest droga krajowa nr 22 w okolicy Kiełpina (woj. lubuskie). Jedna osoba trafiła do szpitala."
     },
     {
-      "title": "Wycofanie partii produktów dla niemowląt",
-      "link": "https://tvn24.pl/biznes/z-kraju/toksyna-w-zywnosci-dla-niemowlat-nutricia-polska-sp-z-o-o-ostrzezenie-gis-st8886973?source=rss",
-      "pubDate": "Thu, 05 Feb 2026 18:28:08 GMT",
-      "description": "• Główny Inspektorat Sanitarny (GIS) poinformował o prewencyjnym wycofaniu z obrotu kolejnych partii produktów do żywienia niemowląt.\n• Wycofanie z obrotu produktów ma związek z potencjalną obecnością toksyny.\n• Decyzja ma związek z nowymi wytycznymi Europejskiego Urzędu ds. Bezpieczeństwa Żywności.",
-      "originalTitle": "Partie produktów dla niemowląt wycofane",
-      "originalDescription": "Główny Inspektorat Sanitarny (GIS) poinformował o prewencyjnym wycofaniu z obrotu kolejnych partii produktów do żywienia niemowląt z uwagi na potencjalną obecność toksyny. Decyzja ma związek z nowymi wytycznymi Europejskiego Urzędu ds. Bezpieczeństwa Żywności."
-    },
-    {
       "title": "Pogoda na wtorek: temperatura do -18 stopni",
       "link": "https://tvn24.pl/tvnmeteo/smog/pogoda-na-jutro-wtorek-10-02-w-nocy-temperatura-spadnie-nawet-do-18-stopni-st8892633?source=rss",
       "pubDate": "Mon, 09 Feb 2026 18:02:01 GMT",
-      "description": "• Pogoda opisana jest na dzień jutrzejszy, czyli na wtorek.\n• Data tego dnia to 10.02.\n• Noc zapowiada się chłodno i pochmurno.\n• Lokalnie pojawią się słabe opady.\n• Lokalnie pojawią się zamglenia.\n• Największym wyzwaniem okażą się niskie temperatury.\n• Temperatury miejscami spadną do kilkunastu stopni poniżej zera.\n• Taka aura sprzyja powstawaniu smogu.",
+      "description": "• Pogoda opisana jest na dzień jutrzejszy, który przypada na wtorek.\n• Data jutrzejszego dnia to 10.02.\n• Noc zapowiada się chłodno i pochmurno.\n• Lokalnie pojawią się słabe opady.\n• Lokalnie pojawią si�� zamglenia.\n• Największym wyzwaniem będą niskie temperatury.\n• Temperatury miejscami spadną do kilkunastu stopni poniżej zera.\n• Taka aura sprzyja powstawaniu smogu.",
       "originalTitle": "Pogoda na jutro - wtorek, 10.02. W nocy temperatura spadnie nawet do -18 stopni",
       "originalDescription": "Pogoda na jutro, czyli na wtorek, 10.02. Noc zapowiada się chłodno i pochmurno, lokalnie pojawią się słabe opady i zamglenia. Największym wyzwaniem okażą niskie temperatury, które miejscami spadną do kilkunastu stopni poniżej zera. Taka aura sprzyja powstawaniu smogu."
     },
     {
-      "title": "Wyspa bierze udział w igrzyskach",
+      "title": "Bez tej małej i bezludnej wyspy na igrzyskach zabrakłoby jednej konkurencji",
       "link": "https://tvn24.pl/swiat/curling-kamienie-na-lodzie-dlaczego-bezludna-wyspa-stala-sie-tak-wazna-dla-igrzysk-st8892639?source=rss",
       "pubDate": "Mon, 09 Feb 2026 17:52:30 GMT",
       "description": "Dwie czteroosobowe drużyny przesuwają ciężkie, granitowe głazy po prostokątnej tafli lodu do wyznaczonego celu - tak brzmi opis jednej z dyscyplin zimowych igrzysk olimpijskich. Ta konkurencja jednak nie mogłaby się odbyć, gdyby nie wyspa, na której powstają unikatowe kamienie.",
@@ -55,9 +55,9 @@
       "title": "UE wprowadza aż 11 pojemników na odpady? Wyjaśniamy \"śmieciowy absurd\"",
       "link": "https://konkret24.tvn24.pl/polska/ue-wprowadza-az-11-pojemnikow-na-odpady-wyjasniamy-smieciowy-absurd-st8892437?source=rss",
       "pubDate": "Mon, 09 Feb 2026 17:12:23 GMT",
-      "description": "\"To jest chore, co w tej UE wymyślają\"; \"Unia robi z naszych domów sortownię śmieci\" - internauci z oburzeniem reagują na doniesienia o kolejnym unijnym nakazie. Bo według przekazu Konfederacji i jej działaczy Unia Europejska miałaby wprowadzić obowiązek aż 11 koszy na śmieci. W tej narracji jednak tylko liczba jest prawdziwa.",
+      "description": "\"To jest chore, co w tej UE wymyślają\"; \"Unia robi z naszych domów sortownię śmieci\" - internauci z oburzeniem reagują na doniesienia o kolejnym unijnym nakazie. Bo według przekazu Konfederacji i jej działaczy Unia Europejska miałaby wprowadzić obowiązek posiadania aż 11 koszy na śmieci. W tej narracji jednak tylko liczba jest prawdziwa.",
       "originalTitle": "UE wprowadza aż 11 pojemników na odpady? Wyjaśniamy \"śmieciowy absurd\"",
-      "originalDescription": "\"To jest chore, co w tej UE wymyślają\"; \"Unia robi z naszych domów sortownię śmieci\" - internauci z oburzeniem reagują na doniesienia o kolejnym unijnym nakazie. Bo według przekazu Konfederacji i jej działaczy Unia Europejska miałaby wprowadzić obowiązek aż 11 koszy na śmieci. W tej narracji jednak tylko liczba jest prawdziwa."
+      "originalDescription": "\"To jest chore, co w tej UE wymyślają\"; \"Unia robi z naszych domów sortownię śmieci\" - internauci z oburzeniem reagują na doniesienia o kolejnym unijnym nakazie. Bo według przekazu Konfederacji i jej działaczy Unia Europejska miałaby wprowadzić obowiązek posiadania aż 11 koszy na śmieci. W tej narracji jednak tylko liczba jest prawdziwa."
     },
     {
       "title": "Tajne wsparcie Rosji. Tony gotówki w pociągach i na statkach",
