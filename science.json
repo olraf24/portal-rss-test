@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-09T14:48:51.432Z",
+  "lastUpdate": "2026-02-09T15:22:24.347Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Kardiolog: mróz niebezpieczny dla serca",
+      "link": "https://dzienniknaukowy.pl/kardiolog-mroz-niebezpieczny-dla-serca",
+      "pubDate": "Mon, 09 Feb 2026 15:19:11 +0000",
+      "description": "Niskie temperatury nasilają zaburzenia układu krążenia, zwłaszcza u osób z chorobami serca – ostrzegł dr hab. Adam Janas, kardiolog Grupy American Heart of Poland. Dodał, że wysiłek w mroźne dni zwiększa ryzyko zawału serca."
+    },
     {
       "title": "Studenci z Białegostoku stworzyli ekoskórę z wytłoków i pulp owocowych",
       "link": "https://dzienniknaukowy.pl/studenci-z-bialegostoku-stworzyli-ekoskore-z-wytlokow-i-pulp-owocowych",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/trening-wechu-poprawia-u-dzieci-swiadomosc-zapachow-co-moze-wplywac-na-jakosc-zycia",
       "pubDate": "Mon, 02 Feb 2026 11:47:53 +0000",
       "description": "Węch jest jak opisywane przez Mickiewicza zdrowie - nie doceniamy go, dopóki go nie stracimy - podkreśla dr Marta Rokosz z UWr. Badania, w których uczestniczyła, wykazały, że trening węchowy zwiększa świadomość zapachów u dzieci, co potencjalnie może wpływać na ogólną jakość życia."
-    },
-    {
-      "title": "Automatyczne testy penetracyjne vs. tradycyjne pentesty: kiedy stosować każde podejście",
-      "link": "https://dzienniknaukowy.pl/automatyczne-testy-penetracyjne-vs-tradycyjne-pentesty-kiedy-stosowac-kazde-podejscie",
-      "pubDate": "Mon, 02 Feb 2026 09:04:00 +0000",
-      "description": "W przeszłości bezpieczeństwo aplikacji opierało się głównie na okresowych kontrolach. W modelu kaskadowym standardową praktyką był ręczny pentest wykonywany raz w roku zakończony raportem podatności. Przy wolnym tempie zmian w kodzie takie podejście było wystarczające."
     }
   ]
 }
