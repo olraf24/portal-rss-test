@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-02-10T08:49:54.682Z",
+  "lastUpdate": "2026-02-10T09:23:45.307Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Policja znalazła zwłoki 32-letniej kobiety w mieszkaniu",
+      "title": "Zatrzymano 30 osób po starciu",
+      "link": "https://tvn24.pl/polska/koscierzyna-starcie-pseudokibicow-zatrzymano-30-osob-st8892872?source=rss",
+      "pubDate": "Mon, 09 Feb 2026 21:21:29 GMT",
+      "description": "W Kościerzynie w poniedziałek wieczorem starli się ze sobą pseudokibice dwóch klubów piłkarskich. Po bójce dziesięć osób trafiło do szpitala. Funkcjonariusze zorganizowali obławę. Do tej pory zatrzymano już 30 osób - poinformowała we wtorek rano policja w serwisie X. Dwie z nich to osoby nieletnie.",
+      "originalTitle": "\"Starcie pseudokibiców\". Zatrzymano 30 osób",
+      "originalDescription": "W Kościerzynie w poniedziałek wieczorem starli się ze sobą pseudokibice dwóch klubów piłkarskich. Po bójce dziesięć osób trafiło do szpitala. Funkcjonariusze zorganizowali obławę. Do tej pory zatrzymano już 30 osób - poinformowała we wtorek rano policja w serwisie X. Dwie z nich to osoby nieletnie."
+    },
+    {
+      "title": "Awaria klatki schodowej w budynku mieszkalnym",
+      "link": "https://tvn24.pl/rzeszow/bircza-ma-mieszkanie-ale-nie-moze-do-niego-wejsc-sprawa-ewy-kolodziej-st8888536?source=rss",
+      "pubDate": "Tue, 10 Feb 2026 09:11:17 GMT",
+      "description": "• Kobieta jest właścicielką mieszkania, ale nie może do niego wejść.\n• Klatka schodowa należy do sąsiadów, którzy nie chcą się zgodzić, by kobieta z niej korzystała.\n• Mieszkanie zostało odziedziczone przez Ewę Kołodziej po jej matce.\n• Matka Ewy Kołodziej kupiła mieszkanie kilka lat wcześniej od gminy.\n• Ewa Kołodziej wyraża nadzieję, że urzędnicy zrehabilitują się i naprawią swój błąd.\n• Kobieta udzieliła wywiadu na temat swojej sytuacji stacji TVN24+.",
+      "originalTitle": "Mieszkanie \"w powietrzu\". Właścicielka nie może korzystać z klatki schodowej",
+      "originalDescription": "Choć jest właścicielką mieszkania, nie może do niego wejść. Dlaczego? Klatka schodowa należy do sąsiadów, którzy nie chcą się zgodzić, by kobieta z niej korzystała. Mieszkanie \"w powietrzu\" Ewa Kołodziej odziedziczyła po matce. Ta kupiła je kilka lat wcześniej od gminy. - Mam nadzieję, że urzędnicy zrehabilitują się i naprawią swój błąd - podkreśla kobieta w rozmowie z TVN24+."
+    },
+    {
+      "title": "Urzędnik złożył samoudział",
+      "link": "https://tvn24.pl/biznes/ze-swiata/chiny-szczegolnie-duza-skala-urzednik-zhang-jianhua-sam-sie-zglosil-do-sledczych-st8893170?source=rss",
+      "pubDate": "Tue, 10 Feb 2026 09:10:48 GMT",
+      "description": "• Prokuratura w Chinach skierowała akt oskarżenia przeciwko Zhangowi Jianhua.\n• Zhang Jianhua jest byłym wiceszefem agencji nadzorującej przemysł obronny.\n• Były urzędnik ma odpowiadać za korupcję na \"szczególnie dużą skalę\".\n• Informację o skierowaniu aktu oskarżenia podały państwowe media.",
+      "originalTitle": "\"Szczególnie duża skala\". Urzędnik sam się zgłosił",
+      "originalDescription": "Prokuratura w Chinach skierowała akt oskarżenia przeciwko Zhangowi Jianhua, byłemu wiceszefowi agencji nadzorującej przemysł obronny - poinformowały państwowe media. Były urzędnik ma odpowiadać za korupcję na \"szczególnie dużą skalę\"."
+    },
+    {
+      "title": "Mentzen rozważa koalicję z PiS",
+      "link": "https://tvn24.pl/polska/slawomir-mentzen-o-koalicji-z-pis-do-rozwazenia-ale-bez-jaroslawa-kaczynskiego-st8893189?source=rss",
+      "pubDate": "Tue, 10 Feb 2026 09:02:37 GMT",
+      "description": "Od dawna mówiłem, że jestem w stanie rozważać najróżniejsze koalicje. Ale Jarosław Kaczyński nie jest osobą, z którą chciałbym się dogadywać - powiedział lider Konfederacji Sławomir Mentzen.",
+      "originalTitle": "Koalicja z PiS? Mentzen: do rozważenia, ale bez Kaczyńskiego",
+      "originalDescription": "Od dawna mówiłem, że jestem w stanie rozważać najróżniejsze koalicje. Ale Jarosław Kaczyński nie jest osobą, z którą chciałbym się dogadywać - powiedział lider Konfederacji Sławomir Mentzen."
+    },
+    {
+      "title": "Bruksela interweniuje w sprawie wiz dla pracowników",
+      "link": "https://tvn24.pl/biznes/ze-swiata/mile-zaskoczenie-niemiecki-system-wizowy-pod-lupa-komisji-europejskiej-st8893156?source=rss",
+      "pubDate": "Tue, 10 Feb 2026 08:49:17 GMT",
+      "description": "Komisja Europejska pracuje nad istotną z punktu widzenia Polski procedurą w sprawie naruszenia unijnego prawa przez Niemcy w sprawie wiz dla pracowników. Decyzja ta ma znaczenie dla wielu polskich firm, które co roku delegują do Niemiec dziesiątki tysięcy zatrudnionych.",
+      "originalTitle": "Bruksela interweniuje w sprawie wiz dla pracowników",
+      "originalDescription": "Komisja Europejska pracuje nad istotną z punktu widzenia Polski procedurą w sprawie naruszenia unijnego prawa przez Niemcy w sprawie wiz dla pracowników. Decyzja ta ma znaczenie dla wielu polskich firm, które co roku delegują do Niemiec dziesiątki tysięcy zatrudnionych."
+    },
+    {
+      "title": "Weszli do mieszkania, w środku znaleźli ciało 32-latki",
       "link": "https://tvn24.pl/poznan/koscian-w-mieszkaniu-znaleziono-cialo-32-latki-st8893045?source=rss",
       "pubDate": "Tue, 10 Feb 2026 08:29:24 GMT",
-      "description": "• Przyczyna śmierci 32-latki z Kościana (Wielkopolska) jest nieznana i jest przedmiotem śledztwa.\n• Ciało kobiety znaleziono w jednym z mieszkań.\n• W lokalu, w którym znaleziono ciało, znajdował się również pijany 30-latek.\n• Mąż zmarłej zostanie przesłuchany.\n• Przesłuchanie męża zmarłej odbędzie się, gdy tylko wytrzeźwieje.",
+      "description": "Jaka jest przyczyna śmierci 32-latki z Kościana (Wielkopolska) - na to pytanie odpowiedzi szukają śledczy. Ciało kobiety znaleziono w jednym z mieszkań. W lokalu znajdował się również pijany 30-latek. Mąż zmarłej zostanie przesłuchany, gdy tylko wytrzeźwieje.",
       "originalTitle": "Weszli do mieszkania, w środku znaleźli ciało 32-latki",
       "originalDescription": "Jaka jest przyczyna śmierci 32-latki z Kościana (Wielkopolska) - na to pytanie odpowiedzi szukają śledczy. Ciało kobiety znaleziono w jednym z mieszkań. W lokalu znajdował się również pijany 30-latek. Mąż zmarłej zostanie przesłuchany, gdy tylko wytrzeźwieje."
     },
     {
-      "title": "Przyczyna śmierci Catherine O'Hary",
+      "title": "Podano przyczynę śmierci Catherine O'Hary, znanej z roli matki Kevina",
       "link": "https://tvn24.pl/kultura-i-styl/catherine-o-hara-nie-zyje-ujawniono-przyczyne-smierci-st8892981?source=rss",
       "pubDate": "Tue, 10 Feb 2026 08:24:32 GMT",
-      "description": "• Catherine O'Hara zmarła 30 stycznia.\n• Miała 71 lat.\n• Zmarła po krótkiej chorobie.\n• Przyczyną zgonu był nowotwór.",
+      "description": "Catherine O'Hara zmarła 30 stycznia w wieku 71 lat. Wówczas informowano, że odeszła po krótkiej chorobie. Teraz ujawniono przyczynę zgonu. Aktorka w ostatnich miesiącach zmagała się z nowotworem.",
       "originalTitle": "Podano przyczynę śmierci Catherine O'Hary, znanej z roli matki Kevina",
-      "originalDescription": "Catherine O'Hara zmarła 30 stycznia w wieku 71 lat. Wówczas informowano, że odeszła po krótkiej chorobie. Teraz ujawniono przyczynę zgonu. Aktorka przegrała walkę z nowotworem."
+      "originalDescription": "Catherine O'Hara zmarła 30 stycznia w wieku 71 lat. Wówczas informowano, że odeszła po krótkiej chorobie. Teraz ujawniono przyczynę zgonu. Aktorka w ostatnich miesiącach zmagała się z nowotworem."
     },
     {
-      "title": "Ostrzeżenie IMGW o gołoledzi",
+      "title": "Gołoledź. Będzie ślisko. IMGW ostrzega",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-opady-marznace-zimowe-zagrozenia-pogodowe-imgw-ostrzega-st8881876?source=rss",
       "pubDate": "Tue, 10 Feb 2026 05:22:00 GMT",
-      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed opadami marznącymi.\n• W ponad 10 województwach obowiązują żółte alarmy.",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed opadami marznącymi. W ponad 10 województwach obowiązują żółte alarmy. Sprawdź szczegóły.",
       "originalTitle": "Gołoledź. Będzie ślisko. IMGW ostrzega",
       "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed opadami marznącymi. W ponad 10 województwach obowiązują żółte alarmy. Sprawdź szczegóły."
     },
@@ -42,46 +82,6 @@
       "description": "Grupa kilkunastu posłów Polski 2050 rozmawia o opuszczeniu partii. Dodatkowo frakcja Pauliny Hennig-Kloski domaga się od nowej szefowej Katarzyny Pełczyńskiej-Nałęcz zmiany szefa klubu parlamentarnego - ujawnił Patryk Michalski w programie \"News Michalskiego\".",
       "originalTitle": "\"Wojenna atmosfera\" w Polsce 2050. Trwają rozmowy o wyjściu z partii",
       "originalDescription": "Grupa kilkunastu posłów Polski 2050 rozmawia o opuszczeniu partii. Dodatkowo frakcja Pauliny Hennig-Kloski domaga się od nowej szefowej Katarzyny Pełczyńskiej-Nałęcz zmiany szefa klubu parlamentarnego - ujawnił Patryk Michalski w programie \"News Michalskiego\"."
-    },
-    {
-      "title": "Kolejna mroźna noc. Tutaj było prawie -27 stopni",
-      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-kolejna-mrozna-noc-ponizej-26-stopni-na-termometrach-biernatki-st8892982?source=rss",
-      "pubDate": "Tue, 10 Feb 2026 07:59:19 GMT",
-      "description": "Pogoda w Polsce. Noc z poniedziałku na wtorek przyniosła silny mróz. Miejscami termometry pokazywały wartości mocno poniżej -20 stopni Celsjusza. Gdzie było najzimniej?",
-      "originalTitle": "Kolejna mroźna noc. Tutaj było prawie -27 stopni",
-      "originalDescription": "Pogoda w Polsce. Noc z poniedziałku na wtorek przyniosła silny mróz. Miejscami termometry pokazywały wartości mocno poniżej -20 stopni Celsjusza. Gdzie było najzimniej?"
-    },
-    {
-      "title": "Przejechał przez opadające rogatki i uderzył w budynek",
-      "link": "https://tvn24.pl/rzeszow/rzeszow-przejechal-przez-opadajace-rogatki-i-uderzyl-w-budynek-st8892975?source=rss",
-      "pubDate": "Tue, 10 Feb 2026 07:34:54 GMT",
-      "description": "W Rzeszowie kierujący samochodem osobowym przejechał przez opadające rogatki i uderzył w budynek. 33-latek był pijany. Miał prawie dwa promile alkoholu w organizmie. Usłyszał zarzut. O jego losie zdecyduje sąd.",
-      "originalTitle": "Przejechał przez opadające rogatki i uderzył w budynek",
-      "originalDescription": "W Rzeszowie kierujący samochodem osobowym przejechał przez opadające rogatki i uderzył w budynek. 33-latek był pijany. Miał prawie dwa promile alkoholu w organizmie. Usłyszał zarzut. O jego losie zdecyduje sąd."
-    },
-    {
-      "title": "Trzymał pocisk na półce pod telewizorem. Chciał zrobić z niego ozdobę",
-      "link": "https://tvn24.pl/olsztyn/bartoszyce-trzymal-mozdzierz-na-polce-pod-telewizorem-chcial-zrobic-z-niego-ozdobe-st8892990?source=rss",
-      "pubDate": "Tue, 10 Feb 2026 07:31:59 GMT",
-      "description": "47-latek z powiatu bartoszyckiego (Warmińsko-Mazurskie) znalazł w lesie przedmiot przypominający niewybuch. Okazało się, że to pocisk moździerzowy z czasowym zapalnikiem. Mężczyzna trzymał go w domu. Najpierw pod telewizorem, a później na ganku. Chciał, by służył mu jako ozdoba. O sprawie służby poinformował zaniepokojony listonosz.",
-      "originalTitle": "Trzymał pocisk na półce pod telewizorem. Chciał zrobić z niego ozdobę",
-      "originalDescription": "47-latek z powiatu bartoszyckiego (Warmińsko-Mazurskie) znalazł w lesie przedmiot przypominający niewybuch. Okazało się, że to pocisk moździerzowy z czasowym zapalnikiem. Mężczyzna trzymał go w domu. Najpierw pod telewizorem, a później na ganku. Chciał, by służył mu jako ozdoba. O sprawie służby poinformował zaniepokojony listonosz."
-    },
-    {
-      "title": "Powrót do obowiązkowej służby wojskowej? Większość Polaków jest \"za\"",
-      "link": "https://tvn24.pl/polska/obowiazkowa-sluzba-wojskowa-opinie-polakow-nowy-sondaz-st8892985?source=rss",
-      "pubDate": "Tue, 10 Feb 2026 07:20:54 GMT",
-      "description": "Ponad połowa Polaków opowiada się za przywróceniem obowiązkowej służby wojskowej - wynika z sondażu Opinia24 dla RMF FM. Według badania najczęściej za takim rozwiązaniem opowiadają się osoby w wieku 50-59 lat, a najrzadziej - młodzi ankietowani.",
-      "originalTitle": "Powrót do obowiązkowej służby wojskowej? Większość Polaków jest \"za\"",
-      "originalDescription": "Ponad połowa Polaków opowiada się za przywróceniem obowiązkowej służby wojskowej - wynika z sondażu Opinia24 dla RMF FM. Według badania najczęściej za takim rozwiązaniem opowiadają się osoby w wieku 50-59 lat, a najrzadziej - młodzi ankietowani."
-    },
-    {
-      "title": "Nowa strategia dla lotniska w Radomiu",
-      "link": "https://tvn24.pl/biznes/z-kraju/ppl-maja-plany-wobec-lotniska-w-radomiu-zmienia-jego-wizerunek-st8892946?source=rss",
-      "pubDate": "Tue, 10 Feb 2026 07:18:46 GMT",
-      "description": "Zarząd Polskich Portów Lotniczych postanowił zmienić strategię rozwoju lotniska w Radomiu - mimo, że od jego otwarcia nie minęły nawet trzy lata. Spółka zapowiedziała modyfikację wizerunku portu, nowe działania marketingowe i wprowadzenie modelu hybrydowego.",
-      "originalTitle": "Nowa strategia dla lotniska w Radomiu",
-      "originalDescription": "Zarząd Polskich Portów Lotniczych postanowił zmienić strategię rozwoju lotniska w Radomiu - mimo, że od jego otwarcia nie minęły nawet trzy lata. Spółka zapowiedziała modyfikację wizerunku portu, nowe działania marketingowe i wprowadzenie modelu hybrydowego."
     }
   ]
 }
