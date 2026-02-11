@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-02-11T00:36:32.403Z",
+  "lastUpdate": "2026-02-11T01:38:39.607Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Pogoda na środę 11.02",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sroda-11-02-dzien-na-plusie-ale-bedzie-sie-dzialo-st8894861?source=rss",
+      "pubDate": "Wed, 11 Feb 2026 01:00:00 GMT",
+      "description": "• Środa 11.02 przyniesie spore zmiany w stosunku do mroźnego wtorku.\n• Termometry w całym kraju pokażą co najmniej zero stopni Celsjusza.\n• W większości regionów będzie znacznie cieplej.\n• Nie zabraknie opadów.\n• Silniej powieje.",
+      "originalTitle": "Pogoda na dziś - środa, 11.02. Dzień \"na plusie\", ale będzie się działo",
+      "originalDescription": "Pogoda na dziś. Środa 11.02 przyniesie spore zmiany w stosunku do mroźnego wtorku. Termometry w całym kraju pokażą co najmniej zero stopni Celsjusza, a w większości regionów będzie znacznie cieplej. Nie zabraknie opadów, poza tym silniej powieje."
+    },
     {
       "title": "Spotkanie Kosiniaka-Kamysza z ambasadorem USA",
       "link": "https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-spotkal-sie-z-ambasadorem-usa-tomem-rosem-obie-strony-komentuja-st8894897?source=rss",
@@ -28,10 +36,10 @@
       "originalDescription": "W poniedziałek wieczorem na trasie S8 w miejscowości Przeszkoda kierowca samochodu ciężarowego uderzył w filar na stacji paliw. Strażacy poinformowali, że kierowcy nic się nie stało."
     },
     {
-      "title": "Ostrzeżenie IMGW przed złymi warunkami",
+      "title": "Ostrzeżenie IMGW: ślizgawica i silny wiatr",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-opady-marznace-zimowe-zagrozenia-pogodowe-10-11-lutego-st8881876?source=rss",
       "pubDate": "Tue, 10 Feb 2026 05:22:00 GMT",
-      "description": "• Pogoda w Polsce jest tematem ostrzeżeń IMGW.\n• IMGW ostrzega przed opadami marznącymi, które wędrują nad krajem.\n• Opady marznące powodują trudne warunki na drogach.\n• Zagrożenie stanowić mogą także silne porywy wiatru.\n• Zagrożenie stanowić mogą także roztopy.",
+      "description": "• Pogoda w Polsce jest zagrożona przez opadami marznącymi.\n• Opady marznące wędrują nad krajem.\n• Opady marznące powodują trudne warunki na drogach.\n• Zagrożenie stanowić mogą także silne porywy wiatru.\n• Zagrożenie stanowić mogą także roztopy.\n• IMGW ostrzega przed opadami marznącymi.",
       "originalTitle": "Ślizgawica, silny wiatr, roztopy. IMGW ostrzega",
       "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed opadami marznącymi, które wędrują nad krajem, powodując trudne warunki na drogach. Zagrożenie stanowić mogą także silne porywy wiatru i roztopy."
     },
@@ -39,12 +47,12 @@
       "title": "Nietypowe ciepło w Walencji",
       "link": "https://tvn24.pl/tvnmeteo/swiat/hiszpania-walencja-najcieplejsza-lutowa-noc-od-dekady-bylo-mi-tak-goraco-ze-musialem-sie-odkryc-st8894634?source=rss",
       "pubDate": "Tue, 10 Feb 2026 20:51:00 GMT",
-      "description": "• We wschodniej Hiszpanii zapanowała nietypowo wysoka temperatura we wtorek.\n• Wysoka temperatura wystąpiła w Walencji.\n• W Walencji odnotowano najcieplejszą lutową noc.\n• Najcieplejsza lutowa noc w Walencji odnotowana została po raz pierwszy od dziesięciu lat.",
+      "description": "• We wschodniej Hiszpanii zapanowała nietypowo wysoka temperatura we wtorek.\n• Wysoka temperatura została odnotowana w Walencji.\n• W Walencji odnotowano najcieplejszą lutową noc.\n• Najcieplejsza lutowa noc w Walencji miała miejsce po dziesięciu latach.",
       "originalTitle": "W nocy się odkrywali, za dnia zdejmowali ciepłe kurtki. Nietypowe ciepło w Walencji",
       "originalDescription": "We wschodniej Hiszpanii we wtorek zapanowała nietypowo wysoka temperatura. W Walencji odnotowano najcieplejszą lutową noc od dziesięciu lat."
     },
     {
-      "title": "Siostra prezydenta, zaprzyjaźniony prawnik i młody deweloper. Kto zarobi na marce Nowrocky?",
+      "title": "Osoby związane z prezydentem w projekcie Nowrocky",
       "link": "https://tvn24.pl/polska/nowrocky-kto-zarabia-na-marce-kojarzonej-z-prezydentem-st8893718?source=rss",
       "pubDate": "Tue, 10 Feb 2026 12:25:33 GMT",
       "description": "Właścicielką znaku towarowego, który reklamuje prezydent RP, jest jego siostra Nina Nawrocka. A spółkę, która sprzedaje gadżety z logotypem \"Nowrocky\", pomagał założyć dyrektor biura prawnego IPN, którego Nawrocki był prezesem.",
@@ -74,14 +82,6 @@
       "description": "Wicepremier i minister cyfryzacji Krzysztof Gawkowski zapowiedział, że w najbliższych dniach ma pojawić się możliwość logowania do KSeF za pomocą aplikacji mObywatel. Następny etap rozwoju KSeF rozpocznie się 1 kwietnia, wtedy system obejmie kolejne firmy.",
       "originalTitle": "Nowy sposób logowania się do KSeF za kilka dni",
       "originalDescription": "Wicepremier i minister cyfryzacji Krzysztof Gawkowski zapowiedział, że w najbliższych dniach ma pojawić się możliwość logowania do KSeF za pomocą aplikacji mObywatel. Następny etap rozwoju KSeF rozpocznie się 1 kwietnia, wtedy system obejmie kolejne firmy."
-    },
-    {
-      "title": "W Ukrainie trwa \"wojna dronów\". \"Strefa śmierci rozciąga się kilkadziesiąt kilometrów\"",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-strefa-smierci-rozciaga-sie-kilkadziesiat-kilometrow-na-te-zime-putin-czekal-od-poczatku-wojny-st8894808?source=rss",
-      "pubDate": "Tue, 10 Feb 2026 20:20:38 GMT",
-      "description": "Drony odpowiadają za większość strat, a w strefie śmierci nic się nie ukryje - tak wojnę za naszą wschodnią granicą opisuje Michał Przedlacki, dziennikarz \"Superwizjera\". W \"Faktach po Faktach\" w TVN24 o tym, czym ta zima w Ukrainie różni się od poprzednich, mówił też reporter \"Faktów\" TVN Paweł Szot.",
-      "originalTitle": "W Ukrainie trwa \"wojna dronów\". \"Strefa śmierci rozciąga się kilkadziesiąt kilometrów\"",
-      "originalDescription": "Drony odpowiadają za większość strat, a w strefie śmierci nic się nie ukryje - tak wojnę za naszą wschodnią granicą opisuje Michał Przedlacki, dziennikarz \"Superwizjera\". W \"Faktach po Faktach\" w TVN24 o tym, czym ta zima w Ukrainie różni się od poprzednich, mówił też reporter \"Faktów\" TVN Paweł Szot."
     }
   ]
 }
