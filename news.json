@@ -1,34 +1,66 @@
 {
-  "lastUpdate": "2026-02-11T16:50:59.463Z",
+  "lastUpdate": "2026-02-11T17:24:56.488Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Japonia pod nowym przywództwem",
+      "title": "Wypadek tiru przy stacji paliw, sprzedaż wstrzymana",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-wjechal-ciezarowka-w-filar-stacji-st8895862?source=rss",
+      "pubDate": "Wed, 11 Feb 2026 12:52:20 GMT",
+      "description": "We wtorek wieczorem w miejscowości Przeszkoda kierowca samochodu ciężarowego wjechał w filar stacji paliw. Chwilowo wstrzymano sprzedaż paliw, bo były wątpliwości co do stabilności budynku. Po południu udało się uporać z problemem - zapewnia dostawca.",
+      "originalTitle": "Wjechał tirem w filar stacji, dostał mandat. Sprzedaż paliwa była wstrzymana",
+      "originalDescription": "We wtorek wieczorem w miejscowości Przeszkoda kierowca samochodu ciężarowego wjechał w filar stacji paliw. Chwilowo wstrzymano sprzedaż paliw, bo były wątpliwości co do stabilności budynku. Po południu udało się uporać z problemem - zapewnia dostawca."
+    },
+    {
+      "title": "Zawnioskują o obniżenie wynagrodzeń",
+      "link": "https://tvn24.pl/biznes/z-kraju/zarzad-i-rada-nadzorcza-jsw-maja-stracic-czesc-wynagrodzen-st8896657?source=rss",
+      "pubDate": "Wed, 11 Feb 2026 17:11:37 GMT",
+      "description": "• Członkowie zarządu Jastrzębskiej Spółki Węglowej zawnioskują o obniżenie swoich wynagrodzeń.\n• Obniżenie wynagrodzeń jest związane z pogarszającą się sytuacją finansową firmy.\n• Firma odnotowała 2,9 miliarda złotych straty netto po trzech kwartałach 2025 roku.\n• Decyzja o obniżeniu wynagrodzeń ma być wyrazem solidarności z pracownikami.\n• Pracownicy będą głosować w referendum dotyczącym zawieszenia części świadczeń.\n• Firma planuje wdrożenie programu restrukturyzacyjnego.",
+      "originalTitle": "Zawnioskują o obniżenie swoich wynagrodzeń. \"Wyraz solidarności\"",
+      "originalDescription": "Członkowie zarządu Jastrzębskiej Spółki Węglowej zawnioskują o obniżenie swoich wynagrodzeń w związku z pogarszającą się sytuacją finansową firmy, która po trzech kwartałach 2025 roku odnotowała 2,9 miliarda złotych straty netto. Decyzja ma być wyrazem solidarności z pracownikami przed planowanym referendum dotyczącym zawieszenia części świadczeń i wdrożenia programu restrukturyzacyjnego."
+    },
+    {
+      "title": "Odwołanie prokuratora Tomasza Tadli",
+      "link": "https://tvn24.pl/polska/radio-eska-tomasz-tadla-odwolany-z-funkcji-naczelnika-wydzialu-zamiejscowego-prokuratury-krajowej-w-katowicach-st8896611?source=rss",
+      "pubDate": "Wed, 11 Feb 2026 17:04:56 GMT",
+      "description": "• Naczelnik Śląskiego Wydziału Zamiejscowego Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej został odwołany ze stanowiska.\n• Odwołanie zostało ujawnione przez Radio ESKA.\n• Prokurator Tomasz Tadla obejmował stanowisko Naczelnika Śląskiego Wydziału Zamiejscowego Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej.\n• Prokurator Tomasz Tadla zajmował to stanowisko przez blisko ośmiu lat.\n• W trakcie swojej kadencji prokurator Tomasz Tadla zajmował się szeroko opisywanymi przez media sprawami.",
+      "originalTitle": "Prokurator Tomasz Tadla miał zostać odwołany. \"Niezwykle doświadczony śledczy\"",
+      "originalDescription": "Naczelnik Śląskiego Wydziału Zamiejscowego Departamentu do Spraw Przestępczości Zorganizowanej i Korupcji Prokuratury Krajowej został odwołany ze stanowiska - dowiedziało się Radio ESKA. Jak podało na swoim portalu, prokurator Tomasz Tadla obejmował to stanowisko od blisko ośmiu lat, zajmując się szeroko opisywanymi przez media sprawami."
+    },
+    {
+      "title": "Usiądzie przy stole z Putinem? Prezydentowi się \"nie spieszy\", ale \"jest gotowy\"",
+      "link": "https://tvn24.pl/polska/usiadzie-przy-stole-z-putinem-prezydentowi-sie-nie-spieszy-ale-jest-gotowy-st8896571?source=rss",
+      "pubDate": "Wed, 11 Feb 2026 16:56:24 GMT",
+      "description": "Jeśli będzie tego wymagał interes państwa polskiego, to jako prezydent Polski jestem gotowy - powiedział na posiedzeniu Rady Bezpieczeństwa Narodowego prezydent Karol Nawrocki, odnosząc się do pytania o ewentualne rozmowy przy stole z rosyjskim przywódcą Władimirem Putinem. Jak zaznaczył, \"racja stanu nie kieruje się po prostu emocjami\".",
+      "originalTitle": "Usiądzie przy stole z Putinem? Prezydentowi się \"nie spieszy\", ale \"jest gotowy\"",
+      "originalDescription": "Jeśli będzie tego wymagał interes państwa polskiego, to jako prezydent Polski jestem gotowy - powiedział na posiedzeniu Rady Bezpieczeństwa Narodowego prezydent Karol Nawrocki, odnosząc się do pytania o ewentualne rozmowy przy stole z rosyjskim przywódcą Władimirem Putinem. Jak zaznaczył, \"racja stanu nie kieruje się po prostu emocjami\"."
+    },
+    {
+      "title": "Takiej władzy nie miał jeszcze nikt. Dokąd zmierza Japonia",
       "link": "https://tvn24.pl/swiat/sanae-takaichi-wygrana-w-wyborach-konsekwencje-dla-regionu-ekspert-st8892634?source=rss",
       "pubDate": "Wed, 11 Feb 2026 16:32:45 GMT",
-      "description": "• Tak silnego rządu Japonia nie miała nigdy w swojej powojennej historii.\n• Premierem Japonii jest Sanae Takaichi.\n• Premier Sanae Takaichi przyspiesza japońskie zbrojenia.\n• Premier Sanae Takaichi zapowiada wielkie zmiany.\n• W artykule jest pytanie, dokąd zmierza Japonia.\n• W artykule jest pytanie, czy czas się bać remilitaryzacji Japonii.",
+      "description": "Tak silnego rządu Japonia nie miała nigdy w swojej powojennej historii. Premier Sanae Takaichi przyspiesza japońskie zbrojenia i zapowiada wielkie zmiany. Dokąd zmierza Japonia? Czy czas się bać jej remilitaryzacji?",
       "originalTitle": "Takiej władzy nie miał jeszcze nikt. Dokąd zmierza Japonia",
       "originalDescription": "Tak silnego rządu Japonia nie miała nigdy w swojej powojennej historii. Premier Sanae Takaichi przyspiesza japońskie zbrojenia i zapowiada wielkie zmiany. Dokąd zmierza Japonia? Czy czas się bać jej remilitaryzacji?"
     },
     {
-      "title": "Polka skazana na dożywocie za morderstwo",
+      "title": "Zabiła i ukryła ciało w ogrodzie. Polka skazana na dożywocie",
       "link": "https://tvn24.pl/swiat/wielka-brytania-polka-skazana-na-dozywocie-za-brutalne-zamordowanie-partnerki-st8896348?source=rss",
       "pubDate": "Wed, 11 Feb 2026 16:19:04 GMT",
-      "description": "• Mieszkająca w Wielkiej Brytanii Polka została oskarżona o brutalne zamordowanie zaginionej w 2010 roku Izabeli Zabłockiej.\n• Oskarżona została skazana na dożywocie w środę.\n• Według sądu, 40-latka nie okazała żadnej skruchy.\n• Ofiarą był Izabela Zabłocka.\n• Zaginięcie Izabeli Zabłockiej miało miejsce w 2010 roku.\n• Oskarżona ma 40 lat.\n• Proces odbywał się w Wielkiej Brytanii.",
+      "description": "Mieszkająca w Wielkiej Brytanii Polka, którą oskarżono o brutalne zamordowanie zaginionej w 2010 roku Izabeli Zabłockiej, w środę została skazana na dożywocie. Według sądu 40-latka nie okazała żadnej skruchy.",
       "originalTitle": "Zabiła i ukryła ciało w ogrodzie. Polka skazana na dożywocie",
       "originalDescription": "Mieszkająca w Wielkiej Brytanii Polka, którą oskarżono o brutalne zamordowanie zaginionej w 2010 roku Izabeli Zabłockiej, w środę została skazana na dożywocie. Według sądu 40-latka nie okazała żadnej skruchy."
     },
     {
-      "title": "Wniosek o ENA dla Ziobry trafił do sędziego",
+      "title": "Wniosek o ENA dla Ziobry trafił do odwołanego sędziego",
       "link": "https://tvn24.pl/polska/zbigniew-ziobry-wniosek-o-europejski-nakaz-aresztowania-trafil-do-sedziego-dariusza-lubowskiego-st8896409?source=rss",
       "pubDate": "Wed, 11 Feb 2026 16:14:14 GMT",
-      "description": "Wniosek o wydanie Europejskiego Nakazu Aresztowania wobec byłego ministra sprawiedliwości Zbigniewa Ziobry trafił do referatu sędziego Dariusza Łubowskiego. Dzień wcześniej został on jednak odwołany z funkcji kierownika do spraw międzynarodowych do spraw z zakresu prawa karnego.",
+      "description": "Wniosek o wydanie europejskiego nakazu aresztowania wobec byłego ministra sprawiedliwości Zbigniewa Ziobry trafił do referatu sędziego Dariusza Łubowskiego. Dzień wcześniej został on jednak odwołany z funkcji kierownika do spraw międzynarodowych do spraw z zakresu prawa karnego.",
       "originalTitle": "Wniosek o ENA dla Ziobry trafił do odwołanego sędziego",
-      "originalDescription": "Wniosek o wydanie Europejskiego Nakazu Aresztowania wobec byłego ministra sprawiedliwości Zbigniewa Ziobry trafił do referatu sędziego Dariusza Łubowskiego. Dzień wcześniej został on jednak odwołany z funkcji kierownika do spraw międzynarodowych do spraw z zakresu prawa karnego."
+      "originalDescription": "Wniosek o wydanie europejskiego nakazu aresztowania wobec byłego ministra sprawiedliwości Zbigniewa Ziobry trafił do referatu sędziego Dariusza Łubowskiego. Dzień wcześniej został on jednak odwołany z funkcji kierownika do spraw międzynarodowych do spraw z zakresu prawa karnego."
     },
     {
-      "title": "Cztery firmy chcą budować halę na Skrze. Oferty powyżej budżetu",
+      "title": "Cztery firmy złożyły oferty na budowę hali na Skrze",
       "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-cztery-firmy-chca-budowac-hale-na-skrze-miasto-otworzylo-oferty-st8896472?source=rss",
       "pubDate": "Wed, 11 Feb 2026 16:08:42 GMT",
       "description": "Wszystko idzie zgodnie z planem. Cztery firmy zgłosiły swoje oferty w przetargu na budowę hali sportowej na Skrze - przekazała wiceprezydentka Warszawy Renata Kaznowska. Zaproponowane kwoty są jednak wyższe, niż pierwotnie zakładano. Dlatego miasto stara się o dofinansowanie z Ministerstwa Sportu i Turystyki.",
@@ -50,38 +82,6 @@
       "description": "Mimo ataku zimy większość Polaków uważa, że na początku lutego ruch drogowy w ich okolicy odbywał się bez większych utrudnień - wynika z badania pracowni Opinia24. Większy problem stwarzało jednak poruszanie się po chodnikach.",
       "originalTitle": "Na drogach nie było tak źle, na chodnikach - wręcz przeciwnie. Sondaż",
       "originalDescription": "Mimo ataku zimy większość Polaków uważa, że na początku lutego ruch drogowy w ich okolicy odbywał się bez większych utrudnień - wynika z badania pracowni Opinia24. Większy problem stwarzało jednak poruszanie się po chodnikach."
-    },
-    {
-      "title": "Jest prawomocny wyrok w sprawie artykułu o przewożeniu Leszka Czarneckiego w bagażniku",
-      "link": "https://tvn24.pl/biznes/z-kraju/roman-giertych-jest-prawomocny-wyrok-w-sprawie-artykulu-o-przewozeniu-leszka-czarneckiego-w-bagazniku-samochodu-st8896531?source=rss",
-      "pubDate": "Wed, 11 Feb 2026 15:49:31 GMT",
-      "description": "Zakończył się proces Jolanty Pieńkowskiej z \"Pulsem Biznesu\". Gazeta została zobowiązana do przeprosin za kłamstwo o wywożeniu Leszka Czarneckiego w bagażniku. Wyrok jest prawomocny - przekazał mecenas Roman Giertych, pełnomocnik Pieńkowskiej.",
-      "originalTitle": "Jest prawomocny wyrok w sprawie artykułu o przewożeniu Leszka Czarneckiego w bagażniku",
-      "originalDescription": "Zakończył się proces Jolanty Pieńkowskiej z \"Pulsem Biznesu\". Gazeta została zobowiązana do przeprosin za kłamstwo o wywożeniu Leszka Czarneckiego w bagażniku. Wyrok jest prawomocny - przekazał mecenas Roman Giertych, pełnomocnik Pieńkowskiej."
-    },
-    {
-      "title": "Czas ważniejszy niż kalorie? To zmniejsza stan zapalny jelit nawet o 40 procent",
-      "link": "https://tvn24.pl/zdrowie/czas-wazniejszy-niz-kalorie-to-zmniejsza-objawy-choroby-lesniowskiego-crohna-nawet-o-40-procent-st8896374?source=rss",
-      "pubDate": "Wed, 11 Feb 2026 15:46:22 GMT",
-      "description": "Skrócenie czasu spożywania posiłków do ośmiu godzin dziennie może wyraźnie zmniejszyć objawy choroby Leśniowskiego-Crohna. Najnowsze badania kanadyjskich naukowców pokazują, że post przerywany nie tylko sprzyja kontroli masy ciała, ale może też \"wyciszać\" stan zapalny jelit nawet o połowę. To sygnał, że w leczeniu tej choroby znaczenie ma nie tylko, co jemy, lecz także - kiedy jemy.",
-      "originalTitle": "Czas ważniejszy niż kalorie? To zmniejsza stan zapalny jelit nawet o 40 procent",
-      "originalDescription": "Skrócenie czasu spożywania posiłków do ośmiu godzin dziennie może wyraźnie zmniejszyć objawy choroby Leśniowskiego-Crohna. Najnowsze badania kanadyjskich naukowców pokazują, że post przerywany nie tylko sprzyja kontroli masy ciała, ale może też \"wyciszać\" stan zapalny jelit nawet o połowę. To sygnał, że w leczeniu tej choroby znaczenie ma nie tylko, co jemy, lecz także - kiedy jemy."
-    },
-    {
-      "title": "Przyszłość linii średnicowej. Sensacyjna koncepcja kolejarzy",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-druga-linia-srednicowa-nowy-tunel-dodatkowy-poziom-dworca-centralnego-st8896330?source=rss",
-      "pubDate": "Wed, 11 Feb 2026 15:33:49 GMT",
-      "description": "Kolejarze planują wybudowanie dodatkowej pary torów dla pociągów dalekobieżnych w tunelu pod istniejącą linią średnicową i metrem. W futurystycznej wizji Dworzec Centralny będzie miał dodatkowy trzeci podziemny poziom, który obsłuży nową linię.",
-      "originalTitle": "Przyszłość linii średnicowej. Sensacyjna koncepcja kolejarzy",
-      "originalDescription": "Kolejarze planują wybudowanie dodatkowej pary torów dla pociągów dalekobieżnych w tunelu pod istniejącą linią średnicową i metrem. W futurystycznej wizji Dworzec Centralny będzie miał dodatkowy trzeci podziemny poziom, który obsłuży nową linię."
-    },
-    {
-      "title": "Polski gigant może zmienić właściciela. \"To jest sygnał\"",
-      "link": "https://tvn24.pl/biznes/rynki/inpost-moze-zmienic-wlasciciela-to-jest-sygnal-st8894262?source=rss",
-      "pubDate": "Wed, 11 Feb 2026 15:17:15 GMT",
-      "description": "Z małej firmy stali się symbolem e-commerce w Polsce, dziś walczą o mocną pozycję w Europie. - Jeśli uda się połączyć globalne wsparcie z zachowaniem własnej tożsamości i skutecznie gonić największych, to będzie to jeden z największych sukcesów polskiej gospodarki - mówi Maciej Samcik, autor bloga \"Subiektywnie o finansach\", komentując szykowane przejęcie InPostu przez konsorcjum firm, którego częścią jest amerykański gigant FedEx. Eksperci zwracają jednocześnie uwagę na ryzyka, które się z tym wiążą.",
-      "originalTitle": "Polski gigant może zmienić właściciela. \"To jest sygnał\"",
-      "originalDescription": "Z małej firmy stali się symbolem e-commerce w Polsce, dziś walczą o mocną pozycję w Europie. - Jeśli uda się połączyć globalne wsparcie z zachowaniem własnej tożsamości i skutecznie gonić największych, to będzie to jeden z największych sukcesów polskiej gospodarki - mówi Maciej Samcik, autor bloga \"Subiektywnie o finansach\", komentując szykowane przejęcie InPostu przez konsorcjum firm, którego częścią jest amerykański gigant FedEx. Eksperci zwracają jednocześnie uwagę na ryzyka, które się z tym wiążą."
     }
   ]
 }
