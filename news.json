@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-02-14T13:20:37.123Z",
+  "lastUpdate": "2026-02-14T13:47:17.578Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Logowanie do KSeF",
+      "link": "https://tvn24.pl/biznes/dlafirm/ksef-logowanie-jak-sie-zalogowac-resort-finansow-wyjasnia-st8901056?source=rss",
+      "pubDate": "Sat, 14 Feb 2026 13:45:45 GMT",
+      "description": "• Krajowy System e-Faktur został połączony z Krajowym Węzłem Identyfikacji Elektronicznej.\n• Użytkownicy mogą logować się do KSeF przez aplikację mObywatel.\n• Użytkownicy mogą logować się do KSeF przez mojeID (bankowość elektroniczną).\n• Użytkownicy mogą logować się do KSeF przez e-dowód.\n• Użytkownicy mogą logować się do KSeF przez profil zaufany.\n• Informację o połączeniu podał resort finansów.",
+      "originalTitle": "Jak zalogować się do KSeF? Resort wyjaśnia",
+      "originalDescription": "Krajowy System e-Faktur został połączony z Krajowym Węzłem Identyfikacji Elektronicznej. Użytkownicy mogą logować się do KSeF przez aplikację mObywatel, mojeID (bankowość elektroniczną), e-dowód czy profil zaufany - podał resort finansów."
+    },
     {
       "title": "Góra śniegu ma 185 cm wysokości",
       "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-sniezyce-pomorskie-kilka-tysiecy-odbiorcow-bez-pradu-st8900716?source=rss",
@@ -12,7 +20,7 @@
       "originalDescription": "Pomorze zmaga się ze skutkami zimy od dłuższego czasu. Śniegu jest już tak dużo, że miejscami na Kaszubach powstały ogromne formacje, sięgające blisko dwóch metrów. W związku z ostatnimi zimowymi opadami część odbiorców wciąż nie ma prądu."
     },
     {
-      "title": "Wypadek na autostradzie, zderzenie auta z ciężarówką",
+      "title": "Wypadek na autostradzie, zderzenie samochodu z ciężarówką",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/zyrardow-wypadek-na-trasie-a2-dostawczak-wleczony-przez-ciezarowke-st8901090?source=rss",
       "pubDate": "Sat, 14 Feb 2026 13:15:42 GMT",
       "description": "Auto dostawcze wjechało w pojazd ciężarowy na A2 pod Warszawą. Dwie osoby trafiły do szpitala.",
@@ -20,7 +28,7 @@
       "originalDescription": "Auto dostawcze wjechało w pojazd ciężarowy na A2 pod Warszawą. Dwie osoby trafiły do szpitala."
     },
     {
-      "title": "Samochód wjechał na tory przed pociągiem",
+      "title": "Wjechał na tory wprost pod nadjeżdżający pociąg",
       "link": "https://tvn24.pl/lublin/susiec-wjechal-na-tory-wprost-pod-pociag-st8901086?source=rss",
       "pubDate": "Sat, 14 Feb 2026 13:11:39 GMT",
       "description": "Na niestrzeżonym przejeździe kolejowym w Suścu (Lubelskie) samochód osobowy wjechał pod pociąg. Za kierownicą siedział 78-letni mężczyzna. Pociągiem podróżowało 41 pasażerów.",
@@ -28,7 +36,7 @@
       "originalDescription": "Na niestrzeżonym przejeździe kolejowym w Suścu (Lubelskie) samochód osobowy wjechał pod pociąg. Za kierownicą siedział 78-letni mężczyzna. Pociągiem podróżowało 41 pasażerów."
     },
     {
-      "title": "Dania informuje turystów z USA",
+      "title": "Dania ma jasny komunikat dla turystów z USA",
       "link": "https://tvn24.pl/biznes/turystyka/dania-ma-jasny-komunikat-dla-turystow-z-usa-st8901059?source=rss",
       "pubDate": "Sat, 14 Feb 2026 13:09:05 GMT",
       "description": "Relacje na linii Dania-USA nigdy nie były tak burzliwe. Pomimo geopolitycznych niepokojów duńska rada turystyki wysłała e-maile do około sześciu tysięcy doradców turystycznych i organizatorów wycieczek w Stanach Zjednoczonych. Z jasnym przekazem - podkreślił portal afar.com.",
@@ -74,14 +82,6 @@
       "description": "Prokuratura zakończyła śledztwo w sprawie ataku nożem w parku miejskim w Pasłęku (woj. warmińsko-mazurskie). 17-latek odpowie przed sądem za spowodowanie ciężkiego uszczerbku na zdrowiu dwóch nastolatków.",
       "originalTitle": "Atak nożem na nastolatków w parku. Jest akt oskarżenia wobec 17-latka",
       "originalDescription": "Prokuratura zakończyła śledztwo w sprawie ataku nożem w parku miejskim w Pasłęku (woj. warmińsko-mazurskie). 17-latek odpowie przed sądem za spowodowanie ciężkiego uszczerbku na zdrowiu dwóch nastolatków."
-    },
-    {
-      "title": "Polacy w obliczu kryzysu. Niepokojące wyniki badania",
-      "link": "https://tvn24.pl/biznes/pieniadze/polacy-w-obliczu-kryzysu-niepokojace-wyniki-badania-st8900979?source=rss",
-      "pubDate": "Sat, 14 Feb 2026 12:04:17 GMT",
-      "description": "Blisko 70 procent Polaków nie ma planu awaryjnego na wypadek nagłego kryzysu finansowego - wynika z badania Santander Consumer Banku. W przypadku konieczności cięć w domowym budżecie najtrudniej zrezygnować nam z profilaktyki zdrowotnej, z wakacji czy wypoczynku.",
-      "originalTitle": "Polacy w obliczu kryzysu. Niepokojące wyniki badania",
-      "originalDescription": "Blisko 70 procent Polaków nie ma planu awaryjnego na wypadek nagłego kryzysu finansowego - wynika z badania Santander Consumer Banku. W przypadku konieczności cięć w domowym budżecie najtrudniej zrezygnować nam z profilaktyki zdrowotnej, z wakacji czy wypoczynku."
     }
   ]
 }
