@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2026-02-14T14:10:19.368Z",
+  "lastUpdate": "2026-02-14T14:42:46.856Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pociąg metra uszkodzony",
+      "title": "Rozpoczęto przyjmowanie zeznań PIT",
+      "link": "https://tvn24.pl/biznes/z-kraju/pit-i-podatki-2026-tego-boi-sie-wiekszosc-polakow-st8900865?source=rss",
+      "pubDate": "Sat, 14 Feb 2026 14:34:38 GMT",
+      "description": "• W rozliczeniach z fiskusem większość Polaków najbardziej obawia się popełnienia błędu.\n• Obawa ta wynika z badania przeprowadzonego przez SW Research.\n• Wielu z ankietowanych nie wie, czy zmieniły się zasady podatkowe.",
+      "originalTitle": "Czas na PIT. Tego boi się większość",
+      "originalDescription": "W rozliczeniach z fiskusem większość Polaków najbardziej obawia się popełnienia błędu - wynika z badania przeprowadzonego przez SW Research. Wielu z ankietowanych nie wie, czy zmieniły się zasady podatkowe."
+    },
+    {
+      "title": "Ustalenia pięciu państw w sprawie Nawalnego",
+      "link": "https://tvn24.pl/swiat/smierc-nawalnego-ustalenia-pieciu-panstw-st8901331?source=rss",
+      "pubDate": "Sat, 14 Feb 2026 13:30:16 GMT",
+      "description": "Aleksiej Nawalny został otruty w więzieniu - poinformowały ministerstwa spraw zagranicznych pięciu krajów NATO we wspólnym komunikacie. Z ustaleń laboratoryjnych wynika, że do śmierci przyczyniła się toksyna niewystępująca naturalnie w Rosji.",
+      "originalTitle": "Śmierć Nawalnego. Ustalenia pięciu państw",
+      "originalDescription": "Aleksiej Nawalny został otruty w więzieniu - poinformowały ministerstwa spraw zagranicznych pięciu krajów NATO we wspólnym komunikacie. Z ustaleń laboratoryjnych wynika, że do śmierci przyczyniła się toksyna niewystępująca naturalnie w Rosji."
+    },
+    {
+      "title": "Premier o Armii Krajowej",
+      "link": "https://tvn24.pl/tvnwarszawa/najnowsze/warszawa-donald-tusk-o-zolnierzach-armii-krajowej-ich-walka-miala-gleboki-i-uniwersalny-sens-st8901347?source=rss",
+      "pubDate": "Sat, 14 Feb 2026 14:21:27 GMT",
+      "description": "• Żołnierze Armii Krajowej walczyli o wolność i godność Polski w najtrudniejszych chwilach naszej historii.\n• Premier Donald Tusk wygłosił oświadczenie w tej sprawie.\n• Oświadczenie premiera Donald Tusk miało miejsce w sobotę.\n• W sobotę obchodzony jest Narodowy Dzień Pamięci Żołnierzy Armii Krajowej.",
+      "originalTitle": "Premier o żołnierzach Armii Krajowej: ich walka miała głęboki i uniwersalny sens",
+      "originalDescription": "Żołnierze Armii Krajowej w najtrudniejszych chwilach naszej historii stanęli do walki o wolność i godność Polski - powiedział w sobotę premier Donald Tusk. W sobotę obchodzony jest Narodowy Dzień Pamięci Żołnierzy Armii Krajowej."
+    },
+    {
+      "title": "Przepowiedź pogody na najbliższe dni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-mrozy-sniegu-bedzie-coraz-wiecej-a-noce-przyniosa-duzy-mroz-st8901085?source=rss",
+      "pubDate": "Sat, 14 Feb 2026 14:09:49 GMT",
+      "description": "Pogoda w Polsce. W najbliższych dniach zima nigdzie się nie wybierze. W niedzielę i poniedziałek złapie solidny mróz, miejscami sięgający kilkunastu stopni na minusie za dnia, a w części kraju spadnie sporo śniegu. Kolejne dni zapowiadają się cieplej, ale nadal nie ma się co spodziewać dodatnich wartości na termometrach.",
+      "originalTitle": "To będą prawdziwie zimowe dni. Jakiej pogody się spodziewać",
+      "originalDescription": "Pogoda w Polsce. W najbliższych dniach zima nigdzie się nie wybierze. W niedzielę i poniedziałek złapie solidny mróz, miejscami sięgający kilkunastu stopni na minusie za dnia, a w części kraju spadnie sporo śniegu. Kolejne dni zapowiadają się cieplej, ale nadal nie ma się co spodziewać dodatnich wartości na termometrach."
+    },
+    {
+      "title": "\"Zerwali zabezpieczenia drzwi, pomalowali dwa wagony\". Pociąg metra zdewastowany",
       "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-zamaskowani-sprawcy-pomalowali-pociag-metra-st8900921?source=rss",
       "pubDate": "Sat, 14 Feb 2026 13:55:42 GMT",
       "description": "W sieci pojawiło się nagranie ze stacji metra Stokłosy. Na filmie widać, jak zamaskowani wandale malują pociąg. Metro Warszawskie przyznaje, że zniszczone zostały dwa wagony.",
@@ -12,10 +44,10 @@
       "originalDescription": "W sieci pojawiło się nagranie ze stacji metra Stokłosy. Na filmie widać, jak zamaskowani wandale malują pociąg. Metro Warszawskie przyznaje, że zniszczone zostały dwa wagony."
     },
     {
-      "title": "Logowanie do KSeF",
+      "title": "Jak zalogować się do KSeF? Resort wyjaśnia",
       "link": "https://tvn24.pl/biznes/dlafirm/ksef-logowanie-jak-sie-zalogowac-resort-finansow-wyjasnia-st8901056?source=rss",
       "pubDate": "Sat, 14 Feb 2026 13:45:45 GMT",
-      "description": "• Krajowy System e-Faktur został połączony z Krajowym Węzłem Identyfikacji Elektronicznej.\n• Użytkownicy mogą logować się do KSeF przez aplikację mObywatel.\n• Użytkownicy mogą logować się do KSeF przez mojeID (bankowość elektroniczną).\n• Użytkownicy mogą logować się do KSeF przez e-dowód.\n• Użytkownicy mogą logować się do KSeF przez profil zaufany.\n• Informację o połączeniu podał resort finansów.",
+      "description": "Krajowy System e-Faktur został połączony z Krajowym Węzłem Identyfikacji Elektronicznej. Użytkownicy mogą logować się do KSeF przez aplikację mObywatel, mojeID (bankowość elektroniczną), e-dowód czy profil zaufany - podał resort finansów.",
       "originalTitle": "Jak zalogować się do KSeF? Resort wyjaśnia",
       "originalDescription": "Krajowy System e-Faktur został połączony z Krajowym Węzłem Identyfikacji Elektronicznej. Użytkownicy mogą logować się do KSeF przez aplikację mObywatel, mojeID (bankowość elektroniczną), e-dowód czy profil zaufany - podał resort finansów."
     },
@@ -50,38 +82,6 @@
       "description": "Relacje na linii Dania-USA nigdy nie były tak burzliwe. Pomimo geopolitycznych niepokojów duńska rada turystyki wysłała e-maile do około sześciu tysięcy doradców turystycznych i organizatorów wycieczek w Stanach Zjednoczonych. Z jasnym przekazem - podkreślił portal afar.com.",
       "originalTitle": "Dania ma jasny komunikat dla turystów z USA",
       "originalDescription": "Relacje na linii Dania-USA nigdy nie były tak burzliwe. Pomimo geopolitycznych niepokojów duńska rada turystyki wysłała e-maile do około sześciu tysięcy doradców turystycznych i organizatorów wycieczek w Stanach Zjednoczonych. Z jasnym przekazem - podkreślił portal afar.com."
-    },
-    {
-      "title": "Grecja \"zamyka 60 meczetów\"? Co zapowiedział minister do spraw migracji",
-      "link": "https://konkret24.tvn24.pl/swiat/grecja-zamyka-60-meczetow-co-zapowiedzial-minister-do-spraw-migracji-st8900166?source=rss",
-      "pubDate": "Sat, 14 Feb 2026 13:03:45 GMT",
-      "description": "\"Brawo mądra Grecja\"; \"Grecy otrzeźwieli\" – komentują internauci rozchodzące się w sieci doniesienia, jakoby Grecja rozpoczęła działania \"przeciwko islamizacji Europy\" i będzie zamykać meczety. Jak zwykle w dezinformacji wykorzystano tu pewne konkretne wydarzenie, po czym nadano mu fałszywą interpretację.",
-      "originalTitle": "Grecja \"zamyka 60 meczetów\"? Co zapowiedział minister do spraw migracji",
-      "originalDescription": "\"Brawo mądra Grecja\"; \"Grecy otrzeźwieli\" – komentują internauci rozchodzące się w sieci doniesienia, jakoby Grecja rozpoczęła działania \"przeciwko islamizacji Europy\" i będzie zamykać meczety. Jak zwykle w dezinformacji wykorzystano tu pewne konkretne wydarzenie, po czym nadano mu fałszywą interpretację."
-    },
-    {
-      "title": "Borsuk z Łazienek Królewskich ma już imię",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-borsuk-z-lazienek-krolewskich-ma-juz-imie-st8900901?source=rss",
-      "pubDate": "Sat, 14 Feb 2026 12:34:16 GMT",
-      "description": "Jan Chryzostom w Pasek - takie imię wybrali w głosowaniu internauci dla borsuka, który jesienią zamieszkał w pałacowych ogrodach Łazienek Królewskich.",
-      "originalTitle": "Borsuk z Łazienek Królewskich ma już imię",
-      "originalDescription": "Jan Chryzostom w Pasek - takie imię wybrali w głosowaniu internauci dla borsuka, który jesienią zamieszkał w pałacowych ogrodach Łazienek Królewskich."
-    },
-    {
-      "title": "Unijny komisarz: Polska ma naprawdę bardzo jasną strategię",
-      "link": "https://tvn24.pl/polska/pytania-o-program-safe-unijny-komisarz-polska-ma-naprawde-bardzo-jasna-strategie-st8900917?source=rss",
-      "pubDate": "Sat, 14 Feb 2026 12:22:22 GMT",
-      "description": "Mamy teraz pożyczki z fundusz SAFE, to dobrze. Bardzo ważne jest, abyśmy w kolejnym, unijnym budżecie mieli pięciokrotnie większe wydatki na obronność. Niemniej jednak państwa członkowskie Unii Europejskiej, dysponujące swoimi zasobami finansowymi, będą odgrywać znacznie ważniejszą rolę - ocenił unijny komisarz do spraw obrony Andrius Kubilius w podcaście \"Szczyt Europy\" w TVN24+.",
-      "originalTitle": "Unijny komisarz: Polska ma naprawdę bardzo jasną strategię",
-      "originalDescription": "Mamy teraz pożyczki z fundusz SAFE, to dobrze. Bardzo ważne jest, abyśmy w kolejnym, unijnym budżecie mieli pięciokrotnie większe wydatki na obronność. Niemniej jednak państwa członkowskie Unii Europejskiej, dysponujące swoimi zasobami finansowymi, będą odgrywać znacznie ważniejszą rolę - ocenił unijny komisarz do spraw obrony Andrius Kubilius w podcaście \"Szczyt Europy\" w TVN24+."
-    },
-    {
-      "title": "Atak nożem na nastolatków w parku. Jest akt oskarżenia wobec 17-latka",
-      "link": "https://tvn24.pl/olsztyn/paslek-atak-nozem-w-parku-na-nastolatkow-akt-oskarzenia-trafil-do-sadu-st8900947?source=rss",
-      "pubDate": "Sat, 14 Feb 2026 12:07:04 GMT",
-      "description": "Prokuratura zakończyła śledztwo w sprawie ataku nożem w parku miejskim w Pasłęku (woj. warmińsko-mazurskie). 17-latek odpowie przed sądem za spowodowanie ciężkiego uszczerbku na zdrowiu dwóch nastolatków.",
-      "originalTitle": "Atak nożem na nastolatków w parku. Jest akt oskarżenia wobec 17-latka",
-      "originalDescription": "Prokuratura zakończyła śledztwo w sprawie ataku nożem w parku miejskim w Pasłęku (woj. warmińsko-mazurskie). 17-latek odpowie przed sądem za spowodowanie ciężkiego uszczerbku na zdrowiu dwóch nastolatków."
     }
   ]
 }
