@@ -1,10 +1,50 @@
 {
-  "lastUpdate": "2026-02-15T13:47:30.499Z",
+  "lastUpdate": "2026-02-15T14:11:15.971Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Niedźwiedzie zjedły zawartość karmnika",
+      "title": "Remont mostu w Poznaniu",
+      "link": "https://tvn24.pl/poznan/poznan-burza-most-boleslawa-chrobrego-poznanskie-inwestycje-miejskie-o-zmianach-w-ruchu-st8902403?source=rss",
+      "pubDate": "Sun, 15 Feb 2026 14:08:30 GMT",
+      "description": "Most Chrobrego to jedna z kluczowych przepraw przez Wartę w ścisłym centrum Poznania. Rusza rozbiórka obiektu, dlatego od 16 lutego do dyspozycji kierowców pozostanie już tylko jedna nitka mostu. Miasto czeka co najmniej dwa lata utrudnień.",
+      "originalTitle": "Rozbierają most w centrum Poznania. Którędy pojadą kierowcy?",
+      "originalDescription": "Most Chrobrego to jedna z kluczowych przepraw przez Wartę w ścisłym centrum Poznania. Rusza rozbiórka obiektu, dlatego od 16 lutego do dyspozycji kierowców pozostanie już tylko jedna nitka mostu. Miasto czeka co najmniej dwa lata utrudnień."
+    },
+    {
+      "title": "Awaryjne lądowanie samolotu po pożarze",
+      "link": "https://tvn24.pl/swiat/norwegia-pozar-na-pokladzie-samolotu-linii-sas-musial-awaryjnie-ladowac-cztery-osoby-w-szpitalu-st8902653?source=rss",
+      "pubDate": "Sun, 15 Feb 2026 14:08:28 GMT",
+      "description": "• Pożar na pokładzie samolotu linii SAS zmusił pilotów do awaryjnego lądowania.\n• Samolot leciał z Oslo do Tromso.\n• Do pożaru doszło po około 20 minutach od startu.\n• Cztery osoby trafi��y do szpitala.",
+      "originalTitle": "Pożar na pokładzie samolotu. Musiał awaryjnie lądować",
+      "originalDescription": "Pożar na pokładzie samolotu linii SAS, lecącego z Oslo do Tromso, zmusił pilotów do awaryjnego lądowania. Doszło do tego po około 20 minutach od startu. Cztery osoby trafiły do szpitala."
+    },
+    {
+      "title": "Problemy w ruchu lotniczym w USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-trudna-sytuacja-na-lotniskach-mozliwy-paraliz-ruchu-lotniczego-st8902414?source=rss",
+      "pubDate": "Sun, 15 Feb 2026 14:07:48 GMT",
+      "description": "Shutdown (paraliż budżetowy) w USA objął agencję odpowiedzialną za kontrolę pasażerów i bagażu na lotniskach. Oznacza to, że choć osoby odpowiedzialne za bezpieczeństwo na lotniskach muszą pracować, to nie dostają pensji. W przypadku poprzednich shutdownów pracownicy często korzystali z urlopów i zwolnień, a braki kadrowe powodowały poważne utrudnienia.",
+      "originalTitle": "Trudna sytuacja w USA. Możliwy paraliż ruchu lotniczego",
+      "originalDescription": "Shutdown (paraliż budżetowy) w USA objął agencję odpowiedzialną za kontrolę pasażerów i bagażu na lotniskach. Oznacza to, że choć osoby odpowiedzialne za bezpieczeństwo na lotniskach muszą pracować, to nie dostają pensji. W przypadku poprzednich shutdownów pracownicy często korzystali z urlopów i zwolnień, a braki kadrowe powodowały poważne utrudnienia."
+    },
+    {
+      "title": "Planował zabić osiem osób, zastanawiał się \"ile zdąży zadźgać\". Trzy apelacje od wyroku",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/kadzidlo-trzy-apelacje-w-procesie-skazanego-za-atak-nozem-na-troje-uczniow-st8902632?source=rss",
+      "pubDate": "Sun, 15 Feb 2026 13:58:35 GMT",
+      "description": "Będzie ciąg dalszy procesu 21-latka nieprawomocnie skazanego na 15 lat więzienia za atak nożem na troje uczniów w szkole w Kadzidle (Mazowieckie). Doszło do tego jesienią 2023 roku. Do Sądu Apelacyjnego w Białymstoku wpłynęły apelacje wszystkich stron procesu.",
+      "originalTitle": "Planował zabić osiem osób, zastanawiał się \"ile zdąży zadźgać\". Trzy apelacje od wyroku",
+      "originalDescription": "Będzie ciąg dalszy procesu 21-latka nieprawomocnie skazanego na 15 lat więzienia za atak nożem na troje uczniów w szkole w Kadzidle (Mazowieckie). Doszło do tego jesienią 2023 roku. Do Sądu Apelacyjnego w Białymstoku wpłynęły apelacje wszystkich stron procesu."
+    },
+    {
+      "title": "Rozszczelnienie gazociągu w Olsztynie. Przerwy w dostawie",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-kortowo-rozszczelnienie-gazociagu-przerwy-w-dostawie-st8902636?source=rss",
+      "pubDate": "Sun, 15 Feb 2026 13:50:41 GMT",
+      "description": "Pracownicy pogotowia gazowego usuwają awarię w olsztyńskim Kortowie. Doszło tam do rozszczelnienia gazociągu średniego ciśnienia. Zamknięto część ulicy.",
+      "originalTitle": "Rozszczelnienie gazociągu w Olsztynie. Przerwy w dostawie",
+      "originalDescription": "Pracownicy pogotowia gazowego usuwają awarię w olsztyńskim Kortowie. Doszło tam do rozszczelnienia gazociągu średniego ciśnienia. Zamknięto część ulicy."
+    },
+    {
+      "title": "Niedźwiedzie wyjadły wszystko z karmnika. Zobacz nagranie",
       "link": "https://tvn24.pl/tvnmeteo/polska/niedzwiedzie-w-bieszczadach-przyszly-i-wyjadly-wszystko-z-karmnika-nietypowa-wizyta-o-piatej-rano-wideo-st8902280?source=rss",
       "pubDate": "Sun, 15 Feb 2026 13:32:46 GMT",
       "description": "Do karmnika stojącego tuż obok domu Reportera24 w Bieszczadach przybyła rodzina niedźwiedzi. Zwierzęta wyjadły cały pokarm dla ptaków. Zdarzenie uchwyciła kamera, a nagranie otrzymaliśmy na Kontakt24.",
@@ -12,15 +52,15 @@
       "originalDescription": "Do karmnika stojącego tuż obok domu Reportera24 w Bieszczadach przybyła rodzina niedźwiedzi. Zwierzęta wyjadły cały pokarm dla ptaków. Zdarzenie uchwyciła kamera, a nagranie otrzymaliśmy na Kontakt24."
     },
     {
-      "title": "Brazylijski olimpijczyk rozpoczyna nowy projekt",
+      "title": "\"To więcej niż medal\". Brazylijski olimpijczyk tworzy \"nowy rozdział\"",
       "link": "https://tvn24.pl/swiat/zimowe-igrzyska-olimpijskie-2026-zloto-dla-brazylijczyka-lucas-pinheiro-braathen-tworzy-nowy-rozdzial-st8902426?source=rss",
       "pubDate": "Sun, 15 Feb 2026 13:26:47 GMT",
-      "description": "• Pierwszy złoty medal w historii zimowych igrzysk dla Ameryki Południowej został zdobyty przez brazylijskiego alpejczyka.\n• Złoty medal został zdobyty przez brazylijskiego alpejczyka Lucasa Pinheiro Braathena.\n��� Złoty medal wywołał poruszenie wśród kibiców.\n• Po zwycięstwie Lucas Pinheiro Braathen stwierdził, że przyczynił się do tego, że hymn Brazylii został odegrany pośród włoskich gór.\n• Lucas Pinheiro Braathen cieszył się ze zwycięstwa.",
+      "description": "Pierwszy złoty medal w historii zimowych igrzysk dla Ameryki Południowej zdobyty przez brazylijskiego alpejczyka Lucasa Pinheiro Braathena wywołał poruszenie wśród kibiców. - Przyczyniłem się do tego, że hymn Brazylii został odegrany pośród włoskich gór - cieszył się sportowiec po zwycięstwie.",
       "originalTitle": "\"To więcej niż medal\". Brazylijski olimpijczyk tworzy \"nowy rozdział\"",
       "originalDescription": "Pierwszy złoty medal w historii zimowych igrzysk dla Ameryki Południowej zdobyty przez brazylijskiego alpejczyka Lucasa Pinheiro Braathena wywołał poruszenie wśród kibiców. - Przyczyniłem się do tego, że hymn Brazylii został odegrany pośród włoskich gór - cieszył się sportowiec po zwycięstwie."
     },
     {
-      "title": "Nowy trend w mediach społecznościowych",
+      "title": "Fala memów. Nowy trend buntem wobec propagandy",
       "link": "https://tvn24.pl/biznes/ze-swiata/chiny-fala-memow-nowy-trend-buntem-wobec-propagandy-st8902271?source=rss",
       "pubDate": "Sun, 15 Feb 2026 13:26:31 GMT",
       "description": "Propaganda zapowiada w Roku Konia \"gospodarczy galop\", sfrustrowana młodzież odpowiada obrazkami \"płaczących koni\" i wulgarnymi grami słownymi. Chiński internet zalała fala memów pod hasłem \"oficjalna diagnoza: jestem koniem\". \"Ognisty Koń\" budzi też niepokój starszych pokoleń, zwłaszcza tych, którzy pamiętają jak sześć dekad temu, ten znak zodiaku przyniósł traumę rewolucji kulturalnej.",
@@ -28,7 +68,7 @@
       "originalDescription": "Propaganda zapowiada w Roku Konia \"gospodarczy galop\", sfrustrowana młodzież odpowiada obrazkami \"płaczących koni\" i wulgarnymi grami słownymi. Chiński internet zalała fala memów pod hasłem \"oficjalna diagnoza: jestem koniem\". \"Ognisty Koń\" budzi też niepokój starszych pokoleń, zwłaszcza tych, którzy pamiętają jak sześć dekad temu, ten znak zodiaku przyniósł traumę rewolucji kulturalnej."
     },
     {
-      "title": "Ciąża na wózku inwalidzkim",
+      "title": "Ciąża i macierzyństwo na wózku. \"Usłyszałam od lekarza, że mogę iść zważyć się do weterynarza\"",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-porusza-sie-na-wozku-jak-radzi-sobie-z-byciem-mama-wywiad-z-izabela-sopalska-rybak-st8893355?source=rss",
       "pubDate": "Sun, 15 Feb 2026 13:18:45 GMT",
       "description": "Jest mamą, żoną, sportsmenką i założycielką fundacji. Działa na rzecz osób z niepełnosprawnością ruchową. W wieku 19 lat dowiedziała się, że choruje na stwardnienie rozsiane. Gdy przestała chodzić, poznała męża. Dziś jest mamą trzyletniej Igi i opowiada nam jak wygląda macierzyństwo w przypadku osoby na wózku.",
@@ -42,46 +82,6 @@
       "description": "\"Padło wiele słów o europejskiej determinacji. Przekładanie ich na konkretne działania będzie prawdopodobnie trudnym zadaniem\" - komentuje przebieg Monachijskiej Konferencji Bezpieczeństwa dziennik \"El Pais\". Zwraca też uwagę na postępy europejskich krajów w tworzeniu nowej architektury bezpieczeństwa, a także nastroje dotyczące możliwego zakończenia wojny w Ukrainie.",
       "originalTitle": "\"Wyraźne sygnały zmiany epoki\". Jaki przekaz płynie z Monachium?",
       "originalDescription": "\"Padło wiele słów o europejskiej determinacji. Przekładanie ich na konkretne działania będzie prawdopodobnie trudnym zadaniem\" - komentuje przebieg Monachijskiej Konferencji Bezpieczeństwa dziennik \"El Pais\". Zwraca też uwagę na postępy europejskich krajów w tworzeniu nowej architektury bezpieczeństwa, a także nastroje dotyczące możliwego zakończenia wojny w Ukrainie."
-    },
-    {
-      "title": "Skriny nie płoną. A ty ile masz zrzutów ekranu w telefonie i… po co?",
-      "link": "https://tvn24.pl/polska/skriny-zrzuty-ekranu-kto-i-po-co-je-robi-st8888465?source=rss",
-      "pubDate": "Sun, 15 Feb 2026 13:11:46 GMT",
-      "description": "My chcielibyśmy żyć \"jak na skrinach\", katalog ze zrzutami ekranu to zwykle panorama z naszych marzeń i aspiracji. Tymczasem nasze dzieci drżą, by na skrinach nie zostać uwiecznionymi, bo dla nich bywają narzędziem przemocy. - Ich życie to nieustanne kalkulacje, czy coś już wykorzystać, zgłosić, przekazać, pokazać, kogoś zaszantażować. Bo i skriny powstają na różne okoliczności. Ktoś jest świadkiem, ktoś ofiarą, ktoś sprawcą. I te role bywają bardzo płynne - mówi dr Anna Buchner, socjolożka z Uniwersytetu Warszawskiego.",
-      "originalTitle": "Skriny nie płoną. A ty ile masz zrzutów ekranu w telefonie i… po co?",
-      "originalDescription": "My chcielibyśmy żyć \"jak na skrinach\", katalog ze zrzutami ekranu to zwykle panorama z naszych marzeń i aspiracji. Tymczasem nasze dzieci drżą, by na skrinach nie zostać uwiecznionymi, bo dla nich bywają narzędziem przemocy. - Ich życie to nieustanne kalkulacje, czy coś już wykorzystać, zgłosić, przekazać, pokazać, kogoś zaszantażować. Bo i skriny powstają na różne okoliczności. Ktoś jest świadkiem, ktoś ofiarą, ktoś sprawcą. I te role bywają bardzo płynne - mówi dr Anna Buchner, socjolożka z Uniwersytetu Warszawskiego."
-    },
-    {
-      "title": "Zasypany XIX-wieczny most odkryty podczas prac drogowych w Koszalinie",
-      "link": "https://tvn24.pl/szczecin/koszalin-zasypany-most-z-xix-wieku-odkryty-podczas-prac-drogowych-st8901450?source=rss",
-      "pubDate": "Sun, 15 Feb 2026 13:05:01 GMT",
-      "description": "W Koszalinie w czasie modernizacji ulicy Zwycięstwa trafiono na historyczny most z XIX wieku. Konstrukcja została całkowicie zasypana i przetrwała w całości, co zaskoczyło konserwatorów zabytków.",
-      "originalTitle": "Zasypany XIX-wieczny most odkryty podczas prac drogowych w Koszalinie",
-      "originalDescription": "W Koszalinie w czasie modernizacji ulicy Zwycięstwa trafiono na historyczny most z XIX wieku. Konstrukcja została całkowicie zasypana i przetrwała w całości, co zaskoczyło konserwatorów zabytków."
-    },
-    {
-      "title": "Tatry. Mężczyzna wyszedł na trudny szlak. Trwają poszukiwania",
-      "link": "https://tvn24.pl/tvnmeteo/polska/tatry-orla-perc-mezczyzna-wyszedl-na-trudny-szlak-trwaja-poszukiwania-st8902415?source=rss",
-      "pubDate": "Sun, 15 Feb 2026 12:55:26 GMT",
-      "description": "W Tatrach zaginął mężczyzna, który w sobotę wybrał się na Orlą Perć. Akcję poszukiwawczą prowadzą ratownicy TOPR oraz policja. W górach warunki pogodowe są trudne, obowiązuje drugi stopień zagrożenia lawinowego.",
-      "originalTitle": "Tatry. Mężczyzna wyszedł na trudny szlak. Trwają poszukiwania",
-      "originalDescription": "W Tatrach zaginął mężczyzna, który w sobotę wybrał się na Orlą Perć. Akcję poszukiwawczą prowadzą ratownicy TOPR oraz policja. W górach warunki pogodowe są trudne, obowiązuje drugi stopień zagrożenia lawinowego."
-    },
-    {
-      "title": "13 osób zatrzymanych w dwa tygodnie. Oszukali ludzi na dwa miliony złotych",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nowe-metody-oszustow-policja-zatrzymala-13-osob-st8902197?source=rss",
-      "pubDate": "Sun, 15 Feb 2026 12:51:37 GMT",
-      "description": "Tylko w ciągu ostatnich dwóch tygodni na terenie Warszawy doszło do 16 oszustw metodą \"na legendę\", a policjanci zatrzymali 13 osób. Łączna suma strat oszukanych osób to ponad dwa miliony złotych.",
-      "originalTitle": "13 osób zatrzymanych w dwa tygodnie. Oszukali ludzi na dwa miliony złotych",
-      "originalDescription": "Tylko w ciągu ostatnich dwóch tygodni na terenie Warszawy doszło do 16 oszustw metodą \"na legendę\", a policjanci zatrzymali 13 osób. Łączna suma strat oszukanych osób to ponad dwa miliony złotych."
-    },
-    {
-      "title": "Krzyki i szarpanina na pokładzie samolotu",
-      "link": "https://tvn24.pl/swiat/wielka-brytania-bojka-na-pokladzie-samolotu-jet2-dwoch-pasazerow-z-dozywotnim-zakazem-latania-st8902233?source=rss",
-      "pubDate": "Sun, 15 Feb 2026 12:37:51 GMT",
-      "description": "Brytyjskie linie lotnicze Jet2 nałożyły dożywotni zakaz lotów na dwóch pasażerów po tym, jak spowodowali bójkę na pokładzie samolotu. \"Będziemy również stanowczo domagać się od nich zwrotu kosztów poniesionych w wyniku tej bójki\" - przekazały w oświadczeniu linie.",
-      "originalTitle": "Krzyki i szarpanina na pokładzie samolotu",
-      "originalDescription": "Brytyjskie linie lotnicze Jet2 nałożyły dożywotni zakaz lotów na dwóch pasażerów po tym, jak spowodowali bójkę na pokładzie samolotu. \"Będziemy również stanowczo domagać się od nich zwrotu kosztów poniesionych w wyniku tej bójki\" - przekazały w oświadczeniu linie."
     }
   ]
 }
