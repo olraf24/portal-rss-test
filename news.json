@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-02-19T11:19:14.112Z",
+  "lastUpdate": "2026-02-19T11:45:58.304Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Nowe utwory U2 z hołdem dla Renee Good",
+      "title": "Pierwsze posiedzenie Rady Pokoju",
+      "link": "https://tvn24.pl/swiat/rada-pokoju-co-wiadomo-o-pierwszym-posiedzeniu-i-kto-sie-na-nim-pojawi-st8908920?source=rss",
+      "pubDate": "Thu, 19 Feb 2026 11:39:03 GMT",
+      "description": "• W czwartek w Stanach Zjednoczonych odbędzie się pierwsze posiedzenie Rady Pokoju.\n• Tematem spotkania nie jest określony w opisie.\n• Na spotkaniu weźmie udział nieokreślona grupa osób.\n• Przewodniczącym Rady Pokoju jest Donald Trump.\n• Poza przewodniczącym Donaldem Trumpem, głos zabiorą również inne osoby, których tożsamość nie jest określona w opisie.",
+      "originalTitle": "Rada Pokoju. Co wiadomo o pierwszym posiedzeniu i kto się na nim pojawi",
+      "originalDescription": "W czwartek w Stanach Zjednoczonych odbędzie się pierwsze posiedzenie Rady Pokoju. Co będzie tematem spotkania, kto weźmie w nim udział i kto - poza przewodniczącym tej instytucji Donaldem Trumpem - zabierze głos? Wyjaśniamy."
+    },
+    {
+      "title": "Leśnicy magazynują lód na zimę",
+      "link": "https://tvn24.pl/bialystok/nadlesnictwo-szczebra-lesnicy-magazynuja-lod-bryly-wygladaja-jak-do-igloo-maja-jednak-inne-zastosowanie-st8908660?source=rss",
+      "pubDate": "Thu, 19 Feb 2026 11:38:13 GMT",
+      "description": "• Wycinają bryły lody z zamarzniętej tafli jeziora\n• Przewożą bryły lody do ziemianek\n• Kładą na bryłach lody folię oraz trociny\n• Wiosną trociny są zabierane\n• Trociny są zastępowane warstwą ziemi\n• Na warstwę ziemi kładzione są sadzonki ze szkółek\n• Sadzonki ze szkółek są przechowywane do czasu, aż zostaną posadzone w lesie\n• Leśnicy z Nadleśnictwa Szczebra mają taką naturalną lodówkę\n• Nadleśnictwo Szczebra znajduje się niedaleko Augustowa\n• Augustów znajduje się w województwie Podlaskim",
+      "originalTitle": "Leśnicy magazynują lód. Bryły wyglądają jak do budowy igloo, mają jednak inne zastosowanie",
+      "originalDescription": "Najpierw wycinają bryły lody z zamarzniętej tafli jeziora, potem przewożą do ziemianek i kładą na nich folię oraz trociny. Wiosną trociny są zabierane, a zastępuje je warstwa ziemi, na którą kładzione są sadzonki ze szkółek, które przechowywane są do czasu, aż zostaną posadzone w lesie. Taką naturalną lodówkę mają leśnicy z Nadleśnictwa Szczebra niedaleko Augustowa (Podlaskie)."
+    },
+    {
+      "title": "Budowa zielonego skweru",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zielony-skwer-miedzy-pawilonem-cepelii-a-hotelem-metropol-st8908134?source=rss",
+      "pubDate": "Thu, 19 Feb 2026 11:30:33 GMT",
+      "description": "Parking między dawnym pawilonem Cepelii a hotelem Metropol zamieni się w zielony skwer. Przestrzeń wypełni prawie 30 drzew, ponad 50 krzewów i ławki. Znajdzie się też miejsce na ogródek gastronomiczny.",
+      "originalTitle": "Urządzą zielony skwer w miejscu hotelowego parkingu",
+      "originalDescription": "Parking między dawnym pawilonem Cepelii a hotelem Metropol zamieni się w zielony skwer. Przestrzeń wypełni prawie 30 drzew, ponad 50 krzewów i ławki. Znajdzie się też miejsce na ogródek gastronomiczny."
+    },
+    {
+      "title": "Japonia. Śnieg przysypał trzech mężczyzn, jeden nie żyje",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-sniezyce-odwolane-loty-nie-jezdza-pociagi-jedna-osoba-nie-zyje-st8909008?source=rss",
+      "pubDate": "Thu, 19 Feb 2026 11:24:56 GMT",
+      "description": "Śnieżyce zasypały Hokkaido, północną wyspę Japonii. W dobę pokrywa śnieżna przyrosła tam o 44 centymetry. Intensywne opady sparaliżowały transport na wyspie i doprowadziły do tragicznego wypadku.",
+      "originalTitle": "Japonia. Śnieg przysypał trzech mężczyzn, jeden nie żyje",
+      "originalDescription": "Śnieżyce zasypały Hokkaido, północną wyspę Japonii. W dobę pokrywa śnieżna przyrosła tam o 44 centymetry. Intensywne opady sparaliżowały transport na wyspie i doprowadziły do tragicznego wypadku."
+    },
+    {
+      "title": "Miasto, które zniknęło z map. Nowe odkrycie archeologów koło Sławoborza",
+      "link": "https://tvn24.pl/szczecin/slawoborze-archeolodzy-potwierdzili-istnienie-sredniowiecznego-stolzenbergu-st8908709?source=rss",
+      "pubDate": "Thu, 19 Feb 2026 11:20:15 GMT",
+      "description": "Relikty średniowiecznego miasta otoczone wałem i fosą odkryli archeolodzy w pobliżu osady Zagrody koło Sławoborza (woj. zachodniopomorskie). Naukowcy potwierdzili istnienie Stolzenbergu - miasta, które funkcjonowało krótko i zostało opuszczone w nieznanych okolicznościach.",
+      "originalTitle": "Miasto, które zniknęło z map. Nowe odkrycie archeologów koło Sławoborza",
+      "originalDescription": "Relikty średniowiecznego miasta otoczone wałem i fosą odkryli archeolodzy w pobliżu osady Zagrody koło Sławoborza (woj. zachodniopomorskie). Naukowcy potwierdzili istnienie Stolzenbergu - miasta, które funkcjonowało krótko i zostało opuszczone w nieznanych okolicznościach."
+    },
+    {
+      "title": "Nowe utwory U2, w tym wyjątkowy muzyczny hołd dla Renee Good",
       "link": "https://tvn24.pl/kultura-i-styl/muzyka-nowy-mini-album-u2-days-of-ash-i-utwor-american-obituary-w-holdzie-dla-renee-good-st8909002?source=rss",
       "pubDate": "Thu, 19 Feb 2026 11:11:11 GMT",
-      "description": "• Grupa U2 opublikowała właśnie swoje nowe utwory.\n• Wśród nowych utworów znajduje się \"American Obituary\".\n• \"American Obituary\" jest muzycznym hołdem.\n• Hołd ten jest dedykowany Renee Good.\n• Renee Good była Amerykanką.\n• Renee Good miała 37 lat.\n• Renee Good została śmiertelnie postrzelona na ulicy.\n• Renee Good została postrzelona przez służby imigracyjne.",
+      "description": "Grupa U2 opublikowała właśnie swoje nowe utwory. Wśród nich \"American Obituary\", muzyczny hołd dla Renee Good, 37-letniej Amerykanki śmiertelnie postrzelonej na ulicy przez służby imigracyjne.",
       "originalTitle": "Nowe utwory U2, w tym wyjątkowy muzyczny hołd dla Renee Good",
       "originalDescription": "Grupa U2 opublikowała właśnie swoje nowe utwory. Wśród nich \"American Obituary\", muzyczny hołd dla Renee Good, 37-letniej Amerykanki śmiertelnie postrzelonej na ulicy przez służby imigracyjne."
     },
     {
-      "title": "Mężczyzna zmarł z wychłodzenia",
+      "title": "Zmarł z wychłodzenia. Prokuratura: zostawili go przy drodze bez kurtki i bez telefonu",
       "link": "https://tvn24.pl/bialystok/lomza-sulecin-wloscianski-zmarl-z-wychlodzenia-zostawili-go-przy-drodze-bez-kurtki-i-bez-telefonu-st8908915?source=rss",
       "pubDate": "Thu, 19 Feb 2026 11:07:50 GMT",
-      "description": "• Prokuratura prowadzi śledztwo w sprawie śmierci 37-latka z Łomży.\n• Ciało 37-latka zostało znalezione w rowie obok trasy Via Baltica.\n• Ciało zostało znalezione w okolicach miejscowości Sulęcin Włościa��ski.\n• Zmarły zmarł z wychłodzenia.\n• Z ustaleń wynika, że znajomi zostawili go bez kurtki i telefonu przy trasie ekspresowej.\n• Na razie nikt nie usłyszał zarzutów.",
+      "description": "Prokuratura prowadzi śledztwo w sprawie śmierci 37-latka z Łomży, którego ciało został znalezione w rowie obok trasy Via Baltica w okolicach miejscowości Sulęcin Włościański. Zmarł z wychłodzenia. Z ustaleń wynika, że znajomi zostawili go bez kurtki i telefonu przy trasie ekspresowej. Na razie nikt nie usłyszał zarzutów.",
       "originalTitle": "Zmarł z wychłodzenia. Prokuratura: zostawili go przy drodze bez kurtki i bez telefonu",
       "originalDescription": "Prokuratura prowadzi śledztwo w sprawie śmierci 37-latka z Łomży, którego ciało został znalezione w rowie obok trasy Via Baltica w okolicach miejscowości Sulęcin Włościański. Zmarł z wychłodzenia. Z ustaleń wynika, że znajomi zostawili go bez kurtki i telefonu przy trasie ekspresowej. Na razie nikt nie usłyszał zarzutów."
     },
     {
-      "title": "Zmiany w prokuraturze",
+      "title": "Zmiana w \"bastionie Ziobry i Święczkowskiego\". Jak ją odczytywać?",
       "link": "https://tvn24.pl/polska/prokurator-tomasz-tadla-odwolany-zastapi-go-marek-welna-co-to-oznacza-st8907557?source=rss",
       "pubDate": "Thu, 19 Feb 2026 11:03:12 GMT",
-      "description": "• Zamiejscowe wydziały Prokuratury Krajowej prowadzą śledztwa dotyczące najpoważniejszych przestępstw w Polsce.\n• W ostatnich dniach zainteresowanie wzbudziła głośna zmiana na stanowisku naczelnika śląskiego wydziału.\n• Zmiana ta dotyczy stanowiska naczelnika śląskiego wydziału.",
+      "description": "Zamiejscowe wydziały Prokuratury Krajowej prowadzą śledztwa dotyczące najpoważniejszych przestępstw w Polsce. W ostatnich dniach zainteresowanie wzbudziła głośna zmiana na stanowisku naczelnika śląskiego wydziału. Jak ją odczytywać?",
       "originalTitle": "Zmiana w \"bastionie Ziobry i Święczkowskiego\". Jak ją odczytywać?",
       "originalDescription": "Zamiejscowe wydziały Prokuratury Krajowej prowadzą śledztwa dotyczące najpoważniejszych przestępstw w Polsce. W ostatnich dniach zainteresowanie wzbudziła głośna zmiana na stanowisku naczelnika śląskiego wydziału. Jak ją odczytywać?"
     },
@@ -42,46 +82,6 @@
       "description": "Policja zajmuje się sprawą 11-latka z powiatu suwalskiego, który w tłusty czwartek zjadł pączka z atramentem. Miał go otrzymać od kolegi. Chłopak został przewieziony do szpitala.",
       "originalTitle": "11-latek zjadł pączka z atramentem, który miał mu dać kolega. Chłopak trafił do szpitala",
       "originalDescription": "Policja zajmuje się sprawą 11-latka z powiatu suwalskiego, który w tłusty czwartek zjadł pączka z atramentem. Miał go otrzymać od kolegi. Chłopak został przewieziony do szpitala."
-    },
-    {
-      "title": "Fala nabiera na sile. Prześwietlają \"półnagich\" urzędników",
-      "link": "https://tvn24.pl/biznes/ze-swiata/chiny-fala-nabiera-na-sile-przeswietlaja-polnagich-urzednikow-st8908888?source=rss",
-      "pubDate": "Thu, 19 Feb 2026 10:50:44 GMT",
-      "description": "Pekin zaostrza restrykcje wobec urzędników państwowych, których dzieci przebywają za granicą - informują źródła dziennika \"South China Morning Post\". Chińska kampania antykorupcyjna zwiększa swój zasięg, a nowe obostrzenia mają na celu dalszą weryfikację lojalności kadr w rządzie i spółkach państwowych.",
-      "originalTitle": "Fala nabiera na sile. Prześwietlają \"półnagich\" urzędników",
-      "originalDescription": "Pekin zaostrza restrykcje wobec urzędników państwowych, których dzieci przebywają za granicą - informują źródła dziennika \"South China Morning Post\". Chińska kampania antykorupcyjna zwiększa swój zasięg, a nowe obostrzenia mają na celu dalszą weryfikację lojalności kadr w rządzie i spółkach państwowych."
-    },
-    {
-      "title": "Czy smog zwiększa ryzyko rozwoju demencji? Sprawdzili to naukowcy",
-      "link": "https://tvn24.pl/tvnmeteo/smog/czy-smog-zwieksza-ryzyko-rozwoju-demencji-sprawdzili-to-naukowcy-st8908733?source=rss",
-      "pubDate": "Thu, 19 Feb 2026 10:49:26 GMT",
-      "description": "Badacze sprawdzili, czy eskpozycja na zanieczyszczenie powietrza pyłem PM2,5 zwiększa ryzyko rozwoju choroby Alzheimera. Wynik nie był dla ekspertów zaskoczeniem.",
-      "originalTitle": "Czy smog zwiększa ryzyko rozwoju demencji? Sprawdzili to naukowcy",
-      "originalDescription": "Badacze sprawdzili, czy eskpozycja na zanieczyszczenie powietrza pyłem PM2,5 zwiększa ryzyko rozwoju choroby Alzheimera. Wynik nie był dla ekspertów zaskoczeniem."
-    },
-    {
-      "title": "Duża awaria wodociągowa w centrum Wrocławia. Zalana jezdnia, droga całkowicie zablokowana",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-awaria-wody-zalana-jezdnia-droga-calkowicie-zablokowana-st8908786?source=rss",
-      "pubDate": "Thu, 19 Feb 2026 09:44:30 GMT",
-      "description": "Wskutek awarii magistrali wodociągowej przy ulicy Oławskiej zalane zostały jezdnia i tunel przy Galerii Dominikańskiej. Ruch jest zablokowany w obu kierunkach. W całym mieście możliwe jest obniżone ciśnienie lub przerwy w dostawie wody. Służby MPWiK pracują na miejscu.",
-      "originalTitle": "Duża awaria wodociągowa w centrum Wrocławia. Zalana jezdnia, droga całkowicie zablokowana",
-      "originalDescription": "Wskutek awarii magistrali wodociągowej przy ulicy Oławskiej zalane zostały jezdnia i tunel przy Galerii Dominikańskiej. Ruch jest zablokowany w obu kierunkach. W całym mieście możliwe jest obniżone ciśnienie lub przerwy w dostawie wody. Służby MPWiK pracują na miejscu."
-    },
-    {
-      "title": "Znęcał się nad Nynkiem, pies nie przeżył. \"Wyrok brzmi jak ponura kpina\"",
-      "link": "https://tvn24.pl/lodz/aleksandrow-lodzki-zgierz-znecal-sie-nad-nynkiem-ktory-nie-przezyl-zapadl-wyrok-ktory-brzmi-jak-ponura-kpina-st8908661?source=rss",
-      "pubDate": "Thu, 19 Feb 2026 10:39:48 GMT",
-      "description": "Kilka godzin prac społecznych tygodniowo za znęcanie się i doprowadzenie do śmierci psa - taki wyrok zapadł w Zgierzu. - Stałam na sali sądowej jako oskarżyciel posiłkowy, wierząc w prawo pisane przez duże „P”. Ale usłyszałam wyrok, który brzmi jak ponura kpina - skomentowała rozstrzygnięcie pełnomocniczka burmistrza Aleksandrowa Łódzkiego do spraw zwierząt i zapowiedziała apelację.",
-      "originalTitle": "Znęcał się nad Nynkiem, pies nie przeżył. \"Wyrok brzmi jak ponura kpina\"",
-      "originalDescription": "Kilka godzin prac społecznych tygodniowo za znęcanie się i doprowadzenie do śmierci psa - taki wyrok zapadł w Zgierzu. - Stałam na sali sądowej jako oskarżyciel posiłkowy, wierząc w prawo pisane przez duże „P”. Ale usłyszałam wyrok, który brzmi jak ponura kpina - skomentowała rozstrzygnięcie pełnomocniczka burmistrza Aleksandrowa Łódzkiego do spraw zwierząt i zapowiedziała apelację."
-    },
-    {
-      "title": "\"Spędzał tam dużo czasu, podobnie jak ja\". Wypłynął temat wanny Żukowskiej",
-      "link": "https://tvn24.pl/polska/anna-maria-zukowska-czuje-wspolnote-z-francuskim-rewolucjonista-spedzal-duzo-czasu-w-wannie-podobnie-jak-ja-st8908620?source=rss",
-      "pubDate": "Thu, 19 Feb 2026 10:20:47 GMT",
-      "description": "Co łączy przewodniczącą kluby Lewicy Annę Marię Żukowską z francuskim rewolucjonistą? Ponoć zamiłowanie do kąpieli w wannie. Temat niespodziewanie wypłynął w \"Rozmowie Piaseckiego\" w TVN24 za sprawą zdjęcia w mediach społecznościowych polityczki Lewicy.",
-      "originalTitle": "\"Spędzał tam dużo czasu, podobnie jak ja\". Wypłynął temat wanny Żukowskiej",
-      "originalDescription": "Co łączy przewodniczącą kluby Lewicy Annę Marię Żukowską z francuskim rewolucjonistą? Ponoć zamiłowanie do kąpieli w wannie. Temat niespodziewanie wypłynął w \"Rozmowie Piaseckiego\" w TVN24 za sprawą zdjęcia w mediach społecznościowych polityczki Lewicy."
     }
   ]
 }
