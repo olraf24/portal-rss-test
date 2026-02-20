@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-02-20T11:13:25.874Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-02-20T11:43:20.295Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pracownicy JSW KOKS organizują protest",
+      "link": "https://tvn24.pl/katowice/dabrowa-gornicza-pracownicy-jsw-koks-protestuja-przed-koksownia-domagaja-sie-rozmow-z-zarzadem-st8910633?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 09:51:49 GMT",
+      "description": "• W Dąbrowie Górniczej trwa pikieta pracowników JSW KOKS.\n• Pracownicy JSW KOKS protestują przeciwko wstrzymaniu miesięcznych premii i obniżeniu wynagrodzeń.\n• \"Solidarność\" informuje o wstępnym porozumieniu z zarządem w sprawie zgłoszonych postulatów.\n• Strony wypracowują kompromis w sprawie postulatów pracowników.\n• Dalsze decyzje zależą od kondycji finansowej spółki JSW KOKS.",
+      "originalTitle": "Pracownicy JSW KOKS protestują przed koksownią. Domagają się rozmów z zarządem",
+      "originalDescription": "W Dąbrowie Górniczej trwa pikieta pracowników JSW KOKS, którzy protestują przeciwko wstrzymaniu miesięcznych premii i obniżeniu wynagrodzeń. \"Solidarność\" informuje o wstępnym porozumieniu z zarządem w sprawie zgłoszonych postulatów. Jak przekazuje przewodniczący, strony wypracowują kompromis, choć dalsze decyzje zależą od kondycji finansowej spółki."
+    },
+    {
+      "title": "Zimowe warunki w Japonii powodują zamknięcia szkół i odwołania pociągów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/atak-zimy-w-japonii-setki-zamknietych-szkol-odwolane-pociagi-st8910682?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:27:28 GMT",
+      "description": "Mieszkańcy japońskiej prefektury Hokkaido zmagają się z trudnymi, zimowymi warunkami pogodowymi. Śnieżyca spowolniła ruch w tej części kraju i doprowadziła do zamknięcia setek szkół.",
+      "originalTitle": "Atak zimy w Japonii. Setki zamkniętych szkół, odwołane pociągi",
+      "originalDescription": "Mieszkańcy japońskiej prefektury Hokkaido zmagają się z trudnymi, zimowymi warunkami pogodowymi. Śnieżyca spowolniła ruch w tej części kraju i doprowadziła do zamknięcia setek szkół."
+    },
+    {
+      "title": "Sytuacja niezręczna",
+      "link": "https://tvn24.pl/biznes/tech/ai-impact-summit-w-indiach-szefowie-openai-i-anthropic-nie-podali-sobie-rak-st8910722?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:26:17 GMT",
+      "description": "Ten obraz może nie jest wart tysiąca słów, ale idealnie pokazuje, jak wygląda sytuacja w branży sztucznej inteligencji. Podczas India AI Impact Summit szefowie OpenAI i Anthropic ostentacyjnie nie chwycili się za ręce w trakcie wspólnego zdjęcia, co może być postrzegane jako symbol narastającego napięcia między firmami.",
+      "originalTitle": "Niezręczna sytuacja",
+      "originalDescription": "Ten obraz może nie jest wart tysiąca słów, ale idealnie pokazuje, jak wygląda sytuacja w branży sztucznej inteligencji. Podczas India AI Impact Summit szefowie OpenAI i Anthropic ostentacyjnie nie chwycili się za ręce w trakcie wspólnego zdjęcia, co może być postrzegane jako symbol narastającego napięcia między firmami."
+    },
+    {
+      "title": "Policja zatrzymała kolejnego członka gangu",
+      "link": "https://tvn24.pl/krakow/krakow-przemyt-narkotykow-do-polski-kolejny-czlonek-gangu-zatrzymany-st8910695?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:26:15 GMT",
+      "description": "• 57-letni członek gangu został zatrzymany przez łowców głów małopolskiej policji.\n• Mężczyzna był poszukiwany dwoma listami gończymi.\n• Powodem poszukiwań był przemyt narkotyków.\n• Zatrzymanie nastąpiło na Śląsku.\n• Mężczyzna pomagał partnerce w wynajmie domków letniskowych w momencie zatrzymania.\n• Śledczy oskarżyli już kilkudziesięciu członków tej samej grupy przestępczej.\n• Część członków grupy usłyszała już wyroki.",
+      "originalTitle": "Narkotyki trafiały do Polski w specjalnych skrytkach. Kolejny członek gangu w rękach policji",
+      "originalDescription": "57-letni członek gangu rozpracowanego przez FBI zastał zatrzymany przez tak zwanych łowców głów małopolskiej policji. Mężczyzna poszukiwany dwoma listami gończymi za przemyt narkotyków wpadł na Śląsku, gdy pomagał partnerce w wynajmie domków letniskowych. Śledczy oskarżyli już kilkudziesięciu członków tej samej grupy przestępczej, część z nich usłyszała wyroki."
+    },
+    {
+      "title": "Śledztwo w sprawie byłego księcia",
+      "link": "https://tvn24.pl/swiat/byly-ksiaze-andrzej-z-zarzutami-co-go-teraz-czeka-sledztwo-musi-wyjasnic-cztery-kwestie-st8910711?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:25:08 GMT",
+      "description": "• Andrzej Mountbatten-Windsor jest młodszym bratem króla Karola III.\n• Andrzej Mountbatten-Windsor został zatrzymany i przesłuchany pod zarzutem \"nadużycia publicznego stanowiska\".\n• Zatrzymanie i przesłuchanie Andrzeja Mountbatten-Windsora miało miejsce w czwartek rano.\n• Andrzej Mountbatten-Windsor opuścił komisariat policji po 11 godzinach.\n• Śledztwo policji będzie się skupiało na kilku kwestiach.\n• Prawnik wskazuje na cztery zasadnicze pytania, które będą brane pod uwagę w śledztwie.",
+      "originalTitle": "Co teraz czeka byłego księcia? Śledztwo musi wyjaśnić cztery kwestie",
+      "originalDescription": "Andrzej Mountbatten-Windsor, młodszy brat króla Karola III, został w czwartek rano zatrzymany i przesłuchany pod zarzutem \"nadużycia publicznego stanowiska\". Po 11 godzinach opuścił komisariat policji. Co go teraz czeka? Na jakich kwestiach skupi się śledztwo policji? Prawnik wskazuje na cztery zasadnicze pytania."
+    },
+    {
+      "title": "Wyjęli wątrobę, usunęli guz i wszczepili ją z powrotem. Pierwsza taka operacja w Polsce",
+      "link": "https://tvn24.pl/zdrowie/wyjeli-watrobe-usuneli-guz-i-wszczepili-ja-z-powrotem-pierwsza-autotransplantacja-watroby-z-resekcja-ex-situ-w-polsce-st8909964?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:24:04 GMT",
+      "description": "Lekarze z Kliniki Chirurgii Ogólnej, Transplantacyjnej i Wątroby Uniwersyteckiego Centrum Klinicznego WUM przeprowadzili pierwszą w Polsce autotransplantację wątroby z resekcją ex situ. Skomplikowany, 11-godzinny zabieg wymagał całkowitego wyjęcia narządu, usunięcia nowotworu i ponownego wszczepienia wątroby, która poza organizmem pacjentki była prawie pięć godzin. - To dzień przełomu - mówi prof. Michał Grąt.",
+      "originalTitle": "Wyjęli wątrobę, usunęli guz i wszczepili ją z powrotem. Pierwsza taka operacja w Polsce",
+      "originalDescription": "Lekarze z Kliniki Chirurgii Ogólnej, Transplantacyjnej i Wątroby Uniwersyteckiego Centrum Klinicznego WUM przeprowadzili pierwszą w Polsce autotransplantację wątroby z resekcją ex situ. Skomplikowany, 11-godzinny zabieg wymagał całkowitego wyjęcia narządu, usunięcia nowotworu i ponownego wszczepienia wątroby, która poza organizmem pacjentki była prawie pięć godzin. - To dzień przełomu - mówi prof. Michał Grąt."
+    },
+    {
+      "title": "Kolejne osoby zatrzymane w sprawie mafii śmieciowej",
+      "link": "https://tvn24.pl/katowice/katowice-kolejne-osoby-zatrzymane-w-sprawie-mafii-smieciowej-st8910677?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:17:00 GMT",
+      "description": "Policjanci zatrzymali siedem osób powiązanych z mafią śmieciową, a także ze środowiskiem śląskich pseudokibiców. Grupa miała zajmować się nielegalnym transportem i porzucaniem niebezpiecznych odpadów.",
+      "originalTitle": "Kolejne osoby zatrzymane w sprawie mafii śmieciowej",
+      "originalDescription": "Policjanci zatrzymali siedem osób powiązanych z mafią śmieciową, a także ze środowiskiem śląskich pseudokibiców. Grupa miała zajmować się nielegalnym transportem i porzucaniem niebezpiecznych odpadów."
+    },
+    {
+      "title": "Lodowe warunki w Szwecji zawiodły. Przepiękne mistrzostwa odbyły się pod Koszalinem",
+      "link": "https://tvn24.pl/szczecin/dabki-swiatowe-mistrzostwa-bojerow-przeniesione-do-polski-lodowe-warunki-w-szwecji-zawiodly-st8910502?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:16:12 GMT",
+      "description": "Na Jeziorze Bukowo w Dąbkach zakończyły się Mistrzostwa Świata w klasie DN w żeglarstwie lodowym, które awaryjnie przeniesiono do Polski ze Szwecji z powodu braku odpowiednich warunków lodowych. Do rywalizacji stanęło 117 zawodników z wielu krajów, a tytuł mistrzowski rozstrzygnął się dopiero w ostatnim z pięciu wyścigów.",
+      "originalTitle": "Lodowe warunki w Szwecji zawiodły. Przepiękne mistrzostwa odbyły się pod Koszalinem",
+      "originalDescription": "Na Jeziorze Bukowo w Dąbkach zakończyły się Mistrzostwa Świata w klasie DN w żeglarstwie lodowym, które awaryjnie przeniesiono do Polski ze Szwecji z powodu braku odpowiednich warunków lodowych. Do rywalizacji stanęło 117 zawodników z wielu krajów, a tytuł mistrzowski rozstrzygnął się dopiero w ostatnim z pięciu wyścigów."
+    },
+    {
+      "title": "Podwójne zabójstwo. 29-latek doprowadzony do prokuratury",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-podwojne-zabojstwo-w-raciazu-29-latek-doprowadzony-do-prokuratury-st8910397?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 11:02:15 GMT",
+      "description": "29-latek podejrzewany o zabójstwo dziadków został doprowadzony do prokuratury. Do tragedii doszło w Raciążu. W domu jednorodzinnym policja znalazła ciała dwóch starszych osób.",
+      "originalTitle": "Podwójne zabójstwo. 29-latek doprowadzony do prokuratury",
+      "originalDescription": "29-latek podejrzewany o zabójstwo dziadków został doprowadzony do prokuratury. Do tragedii doszło w Raciążu. W domu jednorodzinnym policja znalazła ciała dwóch starszych osób."
+    },
+    {
+      "title": "10 zatrzymanych. Prokuratura: na zlecenie służb planowali zabójstwa znanych osób",
+      "link": "https://tvn24.pl/swiat/ukraina-planowali-zabojstwa-znanych-osob-zatrzymano-10-osob-st8910717?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 10:56:18 GMT",
+      "description": "Zatrzymano 10-osobową grupę, która na zlecenie rosyjskich służb specjalnych przygotowywała zabójstwa znanych osób w Ukrainie - poinformowała ukraińska Prokuratura Generalna. Za każde zabójstwo obiecywano niedoszłym sprawcom do 100 tysięcy dolarów.",
+      "originalTitle": "10 zatrzymanych. Prokuratura: na zlecenie służb planowali zabójstwa znanych osób",
+      "originalDescription": "Zatrzymano 10-osobową grupę, która na zlecenie rosyjskich służb specjalnych przygotowywała zabójstwa znanych osób w Ukrainie - poinformowała ukraińska Prokuratura Generalna. Za każde zabójstwo obiecywano niedoszłym sprawcom do 100 tysięcy dolarów."
+    }
+  ]
 }
