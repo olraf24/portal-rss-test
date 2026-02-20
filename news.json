@@ -1,10 +1,18 @@
 {
-  "lastUpdate": "2026-02-20T00:55:27.129Z",
+  "lastUpdate": "2026-02-20T01:37:30.562Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Projekt prezydencki",
+      "title": "Pogoda na dziś: lekki mróz i słońce",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-20-02-to-bedzie-dzien-z-lekkim-mrozem-i-spora-iloscia-slonca-st8909861?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 01:00:00 GMT",
+      "description": "• Dziś jest piątek, 20.02.\n• Aura będzie całkiem ładna.\n• Mogą pojawić się chmury.\n• Będą większe przejaśnienia.\n• W większości kraju temperatura nie przekroczy zera.",
+      "originalTitle": "Pogoda na dziś - piątek, 20.02. To będzie dzień z lekkim mrozem i sporą ilością słońca",
+      "originalDescription": "Pogoda na dziś. Piątek, 20.02 upłynie pod znakiem całkiem ładnej aury. Nawet jeśli gdzieś pojawią się chmury, to można liczyć na większe przejaśnienia. W większości kraju temperatura nie przekroczy zera."
+    },
+    {
+      "title": "Prezydencki projekt ustawy",
       "link": "https://tvn24.pl/polska/karol-nawrocki-zlozyl-projekt-ustawy-o-sadownictwie-jeden-przepis-mowi-o-autorytarnym-obwieszczeniu-st8910312?source=rss",
       "pubDate": "Thu, 19 Feb 2026 21:58:30 GMT",
       "description": "• W czwartek prezydent Karol Nawrocki zawetował nowelizację dotyczącą Krajowej Rady Sądownictwa.\n• Prezydent Karol Nawrocki przedstawił własny projekt.\n• Jednym z przepisów jest obwieszczenie prezydenta o wolnym stanowisku sędziowskim.\n• Obwieszczenie prezydenta o wolnym stanowisku sędziowskim miałoby być ogłaszane \"w sposób autorytarny\".",
@@ -15,12 +23,12 @@
       "title": "Żurek zawiera węglowodany",
       "link": "https://tvn24.pl/polska/weto-w-sprawie-krs-waldemar-zurek-nie-ustepuje-mamy-plan-b-st8910064?source=rss",
       "pubDate": "Thu, 19 Feb 2026 17:20:50 GMT",
-      "description": "• To jest zła wiadomość dla obywateli - ocenił minister sprawiedliwości Waldemar Żurek.\n• Waldemar Żurek komentował prezydenckie weto do nowelizacji ustawy o Krajowej Radzie Sądownictwa.\n• Mówiąc o \"argumentach\" Karola Nawrockiego przeciwko proponowanym rozwiązaniom, przyznał, że \"ciśnie się na usta\" pewien cytat z jednego z bohaterów powieści Henryka Sienkiewicza.\n• Minister sprawiedliwości, Waldemar Żurek, odnosi się do wypowiedzi Karola Nawrockiego.\n• Prezydenckie weto dotyczy nowelizacji ustawy o Krajowej Radzie Sądownictwa.\n• Cytat, o którym mówi Waldemar Żurek, pochodzi z powieści Henryka Sienkiewicza.",
+      "description": "• To jest zła wiadomość dla obywateli - ocenił minister sprawiedliwości Waldemar Żurek.\n• Minister Waldemar Żurek komentował prezydenckie weto do nowelizacji ustawy o Krajowej Radzie Sądownictwa.\n• Mówiąc o \"argumentach\" Karola Nawrockiego przeciwko proponowanym rozwiązaniom, przyznał, że \"ciśnie się na usta\" pewien cytat.\n• Cytat, o którym mówił minister, pochodzi z jednego z bohaterów powieści Henryka Sienkiewicza.",
       "originalTitle": "Żurek o wecie: ciśnie się na usta takie sformułowanie...",
       "originalDescription": "To jest zła wiadomość dla obywateli - ocenił minister sprawiedliwości Waldemar Żurek, komentując prezydenckie weto do nowelizacji ustawy o Krajowej Radzie Sądownictwa. Mówiąc o \"argumentach\" Karola Nawrockiego przeciwko proponowanym rozwiązaniom, przyznał, że \"ciśnie się na usta\" pewien cytat z jednego z bohaterów powieści Henryka Sienkiewicza."
     },
     {
-      "title": "IMGW informuje o mrozach",
+      "title": "IMGW informuje o mrozie",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-silny-mroz-w-polsce-19-i-20-lutego-st8905575?source=rss",
       "pubDate": "Thu, 19 Feb 2026 05:38:00 GMT",
       "description": "Pogoda w Polsce. W dziewięciu województwach obowiązują ostrzeżenia IMGW przed silnym mrozem. W nocy temperatura może spaść nawet do -15 stopni Celsjusza.",
@@ -28,7 +36,7 @@
       "originalDescription": "Pogoda w Polsce. W dziewięciu województwach obowiązują ostrzeżenia IMGW przed silnym mrozem. W nocy temperatura może spaść nawet do -15 stopni Celsjusza."
     },
     {
-      "title": "Strajk generalny i fala protestów. To reakcja na reformę",
+      "title": "Protest i strajk w odpowiedzi na reformę",
       "link": "https://tvn24.pl/biznes/ze-swiata/argentyna-strajk-generalny-i-fala-protestow-stanowcza-odpowiedz-na-reforme-prawa-pracy-st8910275?source=rss",
       "pubDate": "Thu, 19 Feb 2026 20:28:14 GMT",
       "description": "Argentyna zmaga się w czwartek z ogólnokrajowym strajkiem oraz falą protestów. Blokada transportu publicznego, zamknięte instytucje finansowe i setki odwołanych lotów to efekt sprzeciwu wobec proponowanej reformy prawa pracy.",
@@ -74,14 +82,6 @@
       "description": "Krajowa Administracja Skarbowa opublikowała listę podejrzanych adresów mail, które mogą być wykorzystywane do podszywania się pod urzędników publicznych. KAS ostrzega przed cyberprzestępcami i podpowiada, jak sprawdzić autentyczność wiadomości.",
       "originalTitle": "Administracja skarbowa ostrzega. \"Próbują wyłudzić dane\"",
       "originalDescription": "Krajowa Administracja Skarbowa opublikowała listę podejrzanych adresów mail, które mogą być wykorzystywane do podszywania się pod urzędników publicznych. KAS ostrzega przed cyberprzestępcami i podpowiada, jak sprawdzić autentyczność wiadomości."
-    },
-    {
-      "title": "Z czego się cieszyli? \"Możemy wreszcie działać, stąd ta atmosfera\"",
-      "link": "https://tvn24.pl/polska/polska-2050-z-czego-sie-cieszyli-na-konferencji-katarzyna-pelczynska-nalecz-mozemy-wreszcie-dzialac-st8910235?source=rss",
-      "pubDate": "Thu, 19 Feb 2026 19:28:48 GMT",
-      "description": "Przewodnicząca Polski 2050 Katarzyna Pełczyńska-Nałęcz mówiła w \"Faktach po Faktach\", że po rozłamie pozostał w klubie parlamentarnym \"pewny skład ludzi, którzy naprawdę wiedzą, po co i dlaczego tam są\". - Teraz wiemy, kim jesteśmy. Wiemy, dokąd idziemy - mówiła.",
-      "originalTitle": "Z czego się cieszyli? \"Możemy wreszcie działać, stąd ta atmosfera\"",
-      "originalDescription": "Przewodnicząca Polski 2050 Katarzyna Pełczyńska-Nałęcz mówiła w \"Faktach po Faktach\", że po rozłamie pozostał w klubie parlamentarnym \"pewny skład ludzi, którzy naprawdę wiedzą, po co i dlaczego tam są\". - Teraz wiemy, kim jesteśmy. Wiemy, dokąd idziemy - mówiła."
     }
   ]
 }
