@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-02-20T08:47:13.359Z",
+  "lastUpdate": "2026-02-20T09:17:10.943Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "SAFE: podział środków z Ukrainą",
+      "title": "Punkt G Europy: atrakcje turystyczne",
+      "link": "https://tvn24.pl/polska/hasla-promocyjne-miast-koniec-mody-na-taka-promocje-st8903986?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 09:12:51 GMT",
+      "description": "Miasta przez lata chętnie sięgały po hasła promocyjne. Bywały zabawne, czasem kuriozalne, najczęściej jednak ogólnikowe, bo czy jedno hasło może skutecznie promować tak złożony twór jak miasto? Dziś moda na krótkie slogany minęła. I zdaniem dr hab. Magdaleny Florek, \"nikt nie będzie za nimi płakał\".",
+      "originalTitle": "Zapraszamy do punktu G Europy. Jak miasta próbują przyciągnąć turystów",
+      "originalDescription": "Miasta przez lata chętnie sięgały po hasła promocyjne. Bywały zabawne, czasem kuriozalne, najczęściej jednak ogólnikowe, bo czy jedno hasło może skutecznie promować tak złożony twór jak miasto? Dziś moda na krótkie slogany minęła. I zdaniem dr hab. Magdaleny Florek, \"nikt nie będzie za nimi płakał\"."
+    },
+    {
+      "title": "Wypadek drogowy, jedna osoba zmarła",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/podmiesno-siedlce-czolowe-zderzenie-jedna-osoba-nie-zyje-st8910609?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 08:58:10 GMT",
+      "description": "Do tragedii doszło na lokalnej drodze pod Siedlcami. Czołowo zderzyły się dwa auta osobowe. Samochodami podróżowały wyłącznie kierujące. Jedna z kobiet nie żyje, druga trafiła do szpitala. Droga jest całkowicie zablokowana.",
+      "originalTitle": "Czołowe zderzenie. Jedna osoba nie żyje, druga w szpitalu",
+      "originalDescription": "Do tragedii doszło na lokalnej drodze pod Siedlcami. Czołowo zderzyły się dwa auta osobowe. Samochodami podróżowały wyłącznie kierujące. Jedna z kobiet nie żyje, druga trafiła do szpitala. Droga jest całkowicie zablokowana."
+    },
+    {
+      "title": "Sąd uniewinnił mężczyznę oskarżonego o atak nożem",
+      "link": "https://tvn24.pl/poznan/poznan-wyrok-dla-zbigniewa-g-oskarzonego-o-zabojstwo-zony-st8910469?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 08:54:21 GMT",
+      "description": "• Zbigniew G. zadał żonie kilkadziesiąt ciosów nożem po sprzeczce.\n• Dzieci Zbigniewa G. broniły go na sali sądowej.\n• Syn Zbigniewa G. powiedział, że \"jeden za drugim by w ogień wpadł\" mówiąc o rodzicach.\n• Zbigniew G. twierdzi, że kochał żonę.\n• Zbigniew G. twierdzi, że w chwili zabójstwa nie był sobą.\n• Sąd zdecydował o przyszłości Zbigniewa G.",
+      "originalTitle": "Zadał żonie kilkadziesiąt ciosów nożem. Sąd: nie popełnił przestępstwa",
+      "originalDescription": "Po sprzeczce Zbigniew G. zadał żonie kilkadziesiąt ciosów nożem. Mimo to, na sali sądowej dzieci broniły mężczyzny. \"Jeden za drugim by w ogień wpadł\" - tak o rodzicach mówił ich syn. Sam oskarżony twierdzi, że kochał żonę, a w chwili zabójstwa nie był sobą. Sąd zdecydował o jego przyszłości."
+    },
+    {
+      "title": "Uszkodzone domy, ranna kobieta. Tornado w stanie Illinois",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tornado-w-usa-w-stanie-illinois-uszkodzone-domy-ranna-osoba-st8910425?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 08:54:21 GMT",
+      "description": "Tornado pojawiło się w hrabstwie Crawford w stanie Illinois i uszkodziło tam kilkanaście domów. Jak podały lokalne władze, jedna osoba została ranna.",
+      "originalTitle": "Uszkodzone domy, ranna kobieta. Tornado w stanie Illinois",
+      "originalDescription": "Tornado pojawiło się w hrabstwie Crawford w stanie Illinois i uszkodziło tam kilkanaście domów. Jak podały lokalne władze, jedna osoba została ranna."
+    },
+    {
+      "title": "Wrócą do tego, co zawetował prezydent. \"Komuś trzeba coś zmniejszyć, a komuś zwiększyć\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrcoki-to-zawetowal-rzad-chce-uchwalic-jeszcze-raz-komus-trzeba-cos-zmniejszyc-a-komus-zwiekszyc-st8910423?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 08:54:19 GMT",
+      "description": "Rząd rozpoczyna kolejny etap upraszczania przepisów. Najpierw zajmie się procedurami podatkowymi oraz sądowymi - pisze \"Rzeczpospolita\". Przy czym to, co zawetował prezydent Karol Nawrocki, ma być ponownie uchwalone.",
+      "originalTitle": "Wrócą do tego, co zawetował prezydent. \"Komuś trzeba coś zmniejszyć, a komuś zwiększyć\"",
+      "originalDescription": "Rząd rozpoczyna kolejny etap upraszczania przepisów. Najpierw zajmie się procedurami podatkowymi oraz sądowymi - pisze \"Rzeczpospolita\". Przy czym to, co zawetował prezydent Karol Nawrocki, ma być ponownie uchwalone."
+    },
+    {
+      "title": "Pieniędzmi z SAFE \"dzielimy się z Ukrainą\"? Fakty i manipulacje",
       "link": "https://konkret24.tvn24.pl/polityka/pieniedzmi-z-safe-dzielimy-sie-z-ukraina-fakty-i-manipulacje-st8908568?source=rss",
       "pubDate": "Fri, 20 Feb 2026 08:40:27 GMT",
-      "description": "• Politycy Konfederacji nazywają mechanizm dzielenia się z Ukrainą polskimi pieniędzmi z programu z SAFE \"nieprawdopodobną uległością\".\n• W tezach polityków Konfederacji jest więcej manipulacji i domysłów niż faktów.",
+      "description": "\"Nieprawdopodobną uległością\" nazywają politycy Konfederacji rzekomy mechanizm dzielenia się z Ukrainą polskimi pieniędzmi z programu z SAFE. Tylko że w ich tezach jest więcej manipulacji i domysłów niż faktów.",
       "originalTitle": "Pieniędzmi z SAFE \"dzielimy się z Ukrainą\"? Fakty i manipulacje",
-      "originalDescription": "\"Nieprawdopodobną uległością\" nazywają politycy Konfederacji rzekomy mechanizm dzielenia się z Ukrainą polskimi pieniędzmi z programu z SAFE. Tylko że w ich tezach jest manipulacji i domysłów niż faktów."
+      "originalDescription": "\"Nieprawdopodobną uległością\" nazywają politycy Konfederacji rzekomy mechanizm dzielenia się z Ukrainą polskimi pieniędzmi z programu z SAFE. Tylko że w ich tezach jest więcej manipulacji i domysłów niż faktów."
     },
     {
-      "title": "Syn Jacka Kurskiego oskarżony",
+      "title": "Syn Jacka Kurskiego oskarżony o gwałt. Sąd chciał przekazać sprawę. Jest decyzja",
       "link": "https://tvn24.pl/trojmiasto/kwidzyn-syn-jacka-kurskiego-oskarzony-o-gwalt-sad-chcial-przekazac-sprawe-jest-decyzja-st8910484?source=rss",
       "pubDate": "Fri, 20 Feb 2026 08:34:08 GMT",
-      "description": "• Sąd Rejonowy w Kwidzynie chciał przekazać sprawę Zdzisława K. do innego miasta.\n• Zdzisław K. jest oskarżony o zgwałcenie dziecka.\n• Sąd Okręgowy nie przychylił się do wniosku o przekazanie sprawy do innego miasta.\n• Zdzisław K. to syn Jacka Kurskiego.\n• Zdzisław K. stanie przed sądem w Kwidzynie.\n• Zdzisławowi K. grozi do 12 lat więzienia.",
+      "description": "Sąd Rejonowy w Kwidzynie chciał przekazać sprawę Zdzisława K., oskarżonego o zgwałcenie dziecka, do innego miasta. Sąd Okręgowy nie przychylił się jednak do tego wniosku. Oznacza to, że syn Jacka Kurskiego stanie przed sądem w Kwidzynie. Zdzisławowi K. grozi do 12 lat więzienia.",
       "originalTitle": "Syn Jacka Kurskiego oskarżony o gwałt. Sąd chciał przekazać sprawę. Jest decyzja",
-      "originalDescription": "Sąd Rejonowy w Kwidzynie chciał przekazać sprawę Zdzisława K., oskarżonego o zgwałcenie dziecka, do innego miasta. Sąd Okręgowy nie przychylił się jednak do tego wniosku. Oznacza to, że syn Jacka Kurskiego stanie przed sądem w Kwidzynie. Grozi mu do 12 lat więzienia."
+      "originalDescription": "Sąd Rejonowy w Kwidzynie chciał przekazać sprawę Zdzisława K., oskarżonego o zgwałcenie dziecka, do innego miasta. Sąd Okręgowy nie przychylił się jednak do tego wniosku. Oznacza to, że syn Jacka Kurskiego stanie przed sądem w Kwidzynie. Zdzisławowi K. grozi do 12 lat więzienia."
     },
     {
-      "title": "Wypadek na Wisłostradzie",
+      "title": "Rozbite auto i korek na Wisłostradzie",
       "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-roztrzaskany-samochod-zderzenie-na-wislostradzie-utrudnienia-st8910549?source=rss",
       "pubDate": "Fri, 20 Feb 2026 08:30:58 GMT",
       "description": "Samochód osobowy i dostawczy zderzyły się na Wisłostradzie. Osobówka jest poważnie uszkodzona. Zdarzenie powoduje utrudnienia.",
@@ -28,60 +68,20 @@
       "originalDescription": "Samochód osobowy i dostawczy zderzyły się na Wisłostradzie. Osobówka jest poważnie uszkodzona. Zdarzenie powoduje utrudnienia."
     },
     {
-      "title": "Mikoła Statkiewicz opuścił więzienie",
+      "title": "Ministrowie obrony pięciu państw w Krakowie. Ruszyło spotkanie",
+      "link": "https://tvn24.pl/polska/krakow-spotkanie-ministrow-obrony-panstw-grupy-e5-st8910542?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 08:26:00 GMT",
+      "description": "Rozpoczęło się spotkanie ministrów obrony państw należących do grupy E5. Szefowie resortów obrony mają rozmawiać o inicjatywach wzmacniających europejskie bezpieczeństwo.",
+      "originalTitle": "Ministrowie obrony pięciu państw w Krakowie. Ruszyło spotkanie",
+      "originalDescription": "Rozpoczęło się spotkanie ministrów obrony państw należących do grupy E5. Szefowie resortów obrony mają rozmawiać o inicjatywach wzmacniających europejskie bezpieczeństwo."
+    },
+    {
+      "title": "Mikoła Statkiewicz wyszedł z więzienia. \"Ledwo mówi\"",
       "link": "https://tvn24.pl/swiat/bialorus-mikola-statkiewicz-wyszedl-z-wiezienia-ledwo-mowi-st8910341?source=rss",
       "pubDate": "Fri, 20 Feb 2026 08:23:15 GMT",
       "description": "Mikoła Statkiewicz został zwolniony z więzienia - poinformowała w czwartek na Facebooku jego żona Maryna Adamowicz. Przekazała również, że białoruski opozycjonista przeszedł udar i ma trudności z mówieniem.",
       "originalTitle": "Mikoła Statkiewicz wyszedł z więzienia. \"Ledwo mówi\"",
       "originalDescription": "Mikoła Statkiewicz został zwolniony z więzienia - poinformowała w czwartek na Facebooku jego żona Maryna Adamowicz. Przekazała również, że białoruski opozycjonista przeszedł udar i ma trudności z mówieniem."
-    },
-    {
-      "title": "USA przedłużą sankcje na Rosję. Dokument czeka na publikację",
-      "link": "https://tvn24.pl/swiat/usa-przedluza-sankcje-na-rosje-dokument-czeka-na-publikacje-st8910311?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 08:12:45 GMT",
-      "description": "USA chcą przedłużyć o rok sankcje na Rosję w związku z jej agresją przeciwko Ukrainie. Tak wynika z dokumentu dostępnego na stronie internetowej amerykańskiego Rejestru Federalnego. Nie został on jeszcze oficjalnie opublikowany.",
-      "originalTitle": "USA przedłużą sankcje na Rosję. Dokument czeka na publikację",
-      "originalDescription": "USA chcą przedłużyć o rok sankcje na Rosję w związku z jej agresją przeciwko Ukrainie. Tak wynika z dokumentu dostępnego na stronie internetowej amerykańskiego Rejestru Federalnego. Nie został on jeszcze oficjalnie opublikowany."
-    },
-    {
-      "title": "Po awarii magistrali ruch w stronę Rynku przywrócony",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-po-awarii-magistrali-ruch-w-strone-rynku-przywrocony-st8910467?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 08:06:56 GMT",
-      "description": "Po wczorajszej awarii magistrali ułożono tymczasową nawierzchnię, która umożliwia ruch na ulicy Traugutta we Wrocławiu. Ruch w stronę Rynku został przywrócony, są przejezdne dwa lewe pasy.",
-      "originalTitle": "Po awarii magistrali ruch w stronę Rynku przywrócony",
-      "originalDescription": "Po wczorajszej awarii magistrali ułożono tymczasową nawierzchnię, która umożliwia ruch na ulicy Traugutta we Wrocławiu. Ruch w stronę Rynku został przywrócony, są przejezdne dwa lewe pasy."
-    },
-    {
-      "title": "USA przechwyciły rosyjskie samoloty wojskowe",
-      "link": "https://tvn24.pl/swiat/alaska-usa-przechwycily-rosyjskie-samoloty-wojskowe-st8910424?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 07:54:24 GMT",
-      "description": "Amerykańskie myśliwce przechwyciły pięć rosyjskich samolotów wojskowych niedaleko Alaski - poinformowało Dowództwo Obrony Powietrznej Ameryki Północnej. Rosjanie nie naruszyli przestrzeni powietrznej USA.",
-      "originalTitle": "USA przechwyciły rosyjskie samoloty wojskowe",
-      "originalDescription": "Amerykańskie myśliwce przechwyciły pięć rosyjskich samolotów wojskowych niedaleko Alaski - poinformowało Dowództwo Obrony Powietrznej Ameryki Północnej. Rosjanie nie naruszyli przestrzeni powietrznej USA."
-    },
-    {
-      "title": "Obfite opady śniegu sparaliżowały pracę europejskiego lotniska",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/austria-wieden-obfite-opady-sniegu-sparalizowaly-prace-europejskiego-lotniska-st8910445?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 07:43:12 GMT",
-      "description": "Mocno sypnęło śniegiem w Wiedniu, stolicy Austrii. Przez obfite opady wstrzymane zostały loty z lotniska Wien-Schwechat - poinformowały służby prasowe portu lotniczego, cytowane przez Reutersa.",
-      "originalTitle": "Obfite opady śniegu sparaliżowały pracę europejskiego lotniska",
-      "originalDescription": "Mocno sypnęło śniegiem w Wiedniu, stolicy Austrii. Przez obfite opady wstrzymane zostały loty z lotniska Wien-Schwechat - poinformowały służby prasowe portu lotniczego, cytowane przez Reutersa."
-    },
-    {
-      "title": "Ostatnie pożegnanie króla Romów przy dźwiękach z \"Ojca chrzestnego\"",
-      "link": "https://tvn24.pl/swiat/slowacja-pogrzeb-krola-romow-roberta-botosza-st8910458?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 07:38:55 GMT",
-      "description": "W słowackich Koszycach odbyły się uroczystości pogrzebowe Roberta Botosza, koronowanego na króla Romów w 2014 roku. Nie wiadomo, kto zostanie wybrany na jego następcę. - Musi upłynąć trochę czasu - powiedział bratanek zmarłego po ceremonii, która odbyła się w czwartek.",
-      "originalTitle": "Ostatnie pożegnanie króla Romów przy dźwiękach z \"Ojca chrzestnego\"",
-      "originalDescription": "W słowackich Koszycach odbyły się uroczystości pogrzebowe Roberta Botosza, koronowanego na króla Romów w 2014 roku. Nie wiadomo, kto zostanie wybrany na jego następcę. - Musi upłynąć trochę czasu - powiedział bratanek zmarłego po ceremonii, która odbyła się w czwartek."
-    },
-    {
-      "title": "Zmiana unijnej polityki przemysłowej na horyzoncie. \"Made in Europe\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/komisja-europejska-zmienia-unijna-polityke-przemyslowa-industrial-accelerating-act-st8910364?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 07:38:19 GMT",
-      "description": "Komisja Europejska planuje w przyszłym tygodniu przyjąć Industrial Accelerating Act (IAA) - wynika z informacji \"Rzeczpospolitej\" ze źródeł powiązanych z Dyrekcją Generalną ds. Przemysłu Komisji Europejskiej. Czekają na niego europejskie sektory motoryzacji i zaawansowanych technologii. Inicjatywa ma wprowadzić mechanizm preferencji dla produktów wytwarzanych w Europie.",
-      "originalTitle": "Zmiana unijnej polityki przemysłowej na horyzoncie. \"Made in Europe\"",
-      "originalDescription": "Komisja Europejska planuje w przyszłym tygodniu przyjąć Industrial Accelerating Act (IAA) - wynika z informacji \"Rzeczpospolitej\" ze źródeł powiązanych z Dyrekcją Generalną ds. Przemysłu Komisji Europejskiej. Czekają na niego europejskie sektory motoryzacji i zaawansowanych technologii. Inicjatywa ma wprowadzić mechanizm preferencji dla produktów wytwarzanych w Europie."
     }
   ]
 }
