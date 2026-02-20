@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-02-20T16:14:24.448Z",
+  "lastUpdate": "2026-02-20T16:46:49.317Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Kowalski najlepszy w historii",
+      "title": "Trump skomentował atak na Iran",
+      "link": "https://tvn24.pl/swiat/ograniczony-atak-usa-na-iran-krotka-odpowiedz-donalda-trumpa-st8911774?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:26:46 GMT",
+      "description": "• Donald Trump oznajmił, że rozważa ewentualny \"ograniczony\" atak na Iran.\n• Oświadczenie to było odpowiedzią na pytanie o ewentualny atak.\n• Informacja o rozważaniach Donalda Trumpa dotyczących ataku na Iran pojawiła się w \"Wall Street Journal\".\n• Prezydent USA rozważa atak, aby wywrzeć presję na Iran.\n• Celem ataku ma być skłonienie Teheranu do zawarcia porozumienia.\n• Porozumienie, o które chodzi, dotyczy programu nuklearnego Iranu.",
+      "originalTitle": "\"Ograniczony\" atak na Iran? Krótka odpowiedź Trumpa",
+      "originalDescription": "Chyba mogę powiedzieć, że to rozważam - oznajmił Donald Trump w odpowiedzi na pytanie o ewentualny \"ograniczony\" atak na Iran. Według \"Wall Street Journal\" prezydent USA zastanawia się nad taką opcją, aby wywrzeć presję i skłonić Teheran do zawarcia porozumienia w sprawie programu nuklearnego."
+    },
+    {
+      "title": "Wyrok w sprawie zatrzymania osób na granicy",
+      "link": "https://tvn24.pl/bialystok/bialowieza-niosly-pomoc-na-granicy-zostaly-zatrzymane-przez-straz-graniczna-jest-prawomocny-wyrok-st8911738?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:26:21 GMT",
+      "description": "• Użyli wobec nich siły fizycznej\n• Założyli kajdanki\n• Padły niestosowne komentarze\n• Strażnicy graniczni zatrzymali trzy wolontariuszki\n• Wolontariuszki niosły pomoc humanitarną na granicy z Białorusią\n• Zatrzymanie miało miejsce w pobliżu Białowieży\n• Białowieża znajduje się w województwie Podlaskim\n• Zatrzymanie miało miejsce w strefie objętej zakazem przebywania\n• Sąd pierwszej instancji przyznał wolontariuszkom po 10 tys. zł zadośćuczynienia\n• W drugiej instancji kwoty zadośćuczynienia zostały obniżone o połowę",
+      "originalTitle": "Niosły pomoc na granicy, zatrzymali je strażnicy. Jest wyrok",
+      "originalDescription": "Użyli wobec nich siły fizycznej, założyli kajdanki, padły niestosowne komentarze. W taki sposób strażnicy graniczni zatrzymali trzy wolontariuszki, które niosły pomoc humanitarną na granicy z Białorusią i znalazły się w pobliżu Białowieży (Podlaskie) w strefie objętej zakazem przebywania. Sąd pierwszej instancji przyznał im po 10 tys. zł zadośćuczynienia. W drugiej instancji kwoty te zostały obniżone o połowę."
+    },
+    {
+      "title": "Działacze Polski 2050 opuszczają partię",
+      "link": "https://tvn24.pl/polska/polska-2050-w-swietokrzyskiem-dzialacze-odchodza-z-partii-st8911792?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:26:18 GMT",
+      "description": "Około 30 działaczy Polski 2050 w województwie świętokrzyskim zdecydowało o rezygnacji z członkostwa w partii. Deklarują chęć przystąpienia do nowej formacji - Centrum. Jak mówił poseł Rafał Kasprzyk, \"chcemy dalej tworzyć i realizować rzeczy, które robiliśmy do tej pory\", ale \"w duchu dialogu i rozmowy, której na ostatnim etapie naszej działalności w Polsce 2050 zabrakło\".",
+      "originalTitle": "Kilkudziesięciu działaczy Polski 2050 odchodzi z partii",
+      "originalDescription": "Około 30 działaczy Polski 2050 w województwie świętokrzyskim zdecydowało o rezygnacji z członkostwa w partii. Deklarują chęć przystąpienia do nowej formacji - Centrum. Jak mówił poseł Rafał Kasprzyk, \"chcemy dalej tworzyć i realizować rzeczy, które robiliśmy do tej pory\", ale \"w duchu dialogu i rozmowy, której na ostatnim etapie naszej działalności w Polsce 2050 zabrakło\"."
+    },
+    {
+      "title": "Zmiany w gospodarce wpływają na portfele Polaków",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-paliw-na-stacjach-pb95-pb98-on-lpg-fatalne-wiesci-dla-portfeli-polakow-to-wszystko-niemal-gwarantuje-st8911769?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:17:39 GMT",
+      "description": "Brak dyplomatycznego przełomu na linii USA - Iran wywindował ceny ropy do najwyższych poziomów od lipca 2025 roku. Analitycy przewidują, że benzyna i olej napędowy zdrożeją. W niektórych przypadkach podwyżki mogą wynieść nawet 15 groszy na litrze.",
+      "originalTitle": "Fatalne wieści dla portfeli Polaków. \"To wszystko niemal gwarantuje\"",
+      "originalDescription": "Brak dyplomatycznego przełomu na linii USA - Iran wywindował ceny ropy do najwyższych poziomów od lipca 2025 roku. Analitycy przewidują, że benzyna i olej napędowy zdrożeją. W niektórych przypadkach podwyżki mogą wynieść nawet 15 groszy na litrze."
+    },
+    {
+      "title": "Ciemne chmury nad branżą. \"Rynek to podejście szybko zweryfikował\"",
+      "link": "https://tvn24.pl/biznes/moto/ciemne-chmury-nad-branza-rynek-to-podejscie-szybko-zweryfikowal-st8911532?source=rss",
+      "pubDate": "Fri, 20 Feb 2026 16:14:11 GMT",
+      "description": "Europejska branża motoryzacyjna przeżywa kryzys. Akcje producentów tanieją, marże spadają, upadają wytwórcy części. Jeden z gigantów - jak podał Reuters - właśnie po cichu przywrócił silniki Diesla w kilku modelach samochodów osobowych i dostawczych w całej Europie. Zdaniem Tomasza Bębna, prezesa Stowarzyszenia Dystrybutorów i Producentów Części Motoryzacyjnych, rynek \"weryfikuje\" dotychczasowe założenia dotyczące kierunków rozwoju branży.",
+      "originalTitle": "Ciemne chmury nad branżą. \"Rynek to podejście szybko zweryfikował\"",
+      "originalDescription": "Europejska branża motoryzacyjna przeżywa kryzys. Akcje producentów tanieją, marże spadają, upadają wytwórcy części. Jeden z gigantów - jak podał Reuters - właśnie po cichu przywrócił silniki Diesla w kilku modelach samochodów osobowych i dostawczych w całej Europie. Zdaniem Tomasza Bębna, prezesa Stowarzyszenia Dystrybutorów i Producentów Części Motoryzacyjnych, rynek \"weryfikuje\" dotychczasowe założenia dotyczące kierunków rozwoju branży."
+    },
+    {
+      "title": "Jak \"przeciętny Kowalski\" stał się \"ewenementem\". Już jest najlepszy w historii",
       "link": "https://tvn24.pl/swiat/johannes-hoesflot-klaebo-kim-jest-najbardziej-utytulowany-sportowiec-zimowych-igrzysk-olimpijskich-st8905976?source=rss",
       "pubDate": "Fri, 20 Feb 2026 16:09:54 GMT",
-      "description": "• Jest pustelnikiem, przed kluczowymi startami zaszywa się przed światem.\n• Był najbardziej wątłym dzieckiem w klasie.\n• W wieku 15 lat postanowił zostać najlepszym narciarzem na świecie.\n• Johannes Klaebo biegnie na tegorocznych igrzyskach olimpijskich.\n• Johannes Klaebo ma niespełna 30 lat.\n• Johannes Klaebo biegnie po miejsce w historii.\n• Tajemnicę jego sukcesu analizują Tomasz Sikora i autor.\n• Tomasz Sikora jest najbardziej utytułowanym polskim biathlonistą.\n• Tomasz Sikora jest wicemistrzem olimpijskim z Turynu.\n• Tomasz Sikora jest obecnie komentatorem Eurosportu.",
+      "description": "Jest pustelnikiem, przed kluczowymi startami zaszywa się przed światem. Był najbardziej wątłym dzieckiem w klasie, ale w wieku 15 lat postanowił zostać najlepszym narciarzem na świecie. Na tegorocznych igrzyskach olimpijskich niespełna 30-letni Johannes Klaebo biegnie, dosłownie, po miejsce w historii. Tajemnicę jego sukcesu analizujemy wspólnie z Tomaszem Sikorą, najbardziej utytułowanym polskim biathlonistą, wicemistrzem olimpijskim z Turynu, obecnie komentatorem Eurosportu.",
       "originalTitle": "Jak \"przeciętny Kowalski\" stał się \"ewenementem\". Już jest najlepszy w historii",
       "originalDescription": "Jest pustelnikiem, przed kluczowymi startami zaszywa się przed światem. Był najbardziej wątłym dzieckiem w klasie, ale w wieku 15 lat postanowił zostać najlepszym narciarzem na świecie. Na tegorocznych igrzyskach olimpijskich niespełna 30-letni Johannes Klaebo biegnie, dosłownie, po miejsce w historii. Tajemnicę jego sukcesu analizujemy wspólnie z Tomaszem Sikorą, najbardziej utytułowanym polskim biathlonistą, wicemistrzem olimpijskim z Turynu, obecnie komentatorem Eurosportu."
     },
     {
-      "title": "Halo zaobserwowano w Świnoujściu",
+      "title": "Halo pojawiło się w Świnoujściu. \"To znak\"",
       "link": "https://tvn24.pl/tvnmeteo/polska/swinoujscie-halo-wokol-slonca-co-to-za-zjawisko-to-znak-st8911648?source=rss",
       "pubDate": "Fri, 20 Feb 2026 16:04:16 GMT",
-      "description": "• W piątek w Świnoujściu pojawiło się halo słoneczne.\n• Zdjęcia tego zjawiska otrzymaliśmy na Kontakt24.\n• Halo słoneczne to zjawisko, na które chcieliśmy odpowiedzieć, na czym ono polega.",
+      "description": "W piątek w Świnoujściu pojawiło się halo słoneczne. Zdjęcia tego zjawiska otrzymaliśmy na Kontakt24. Na czym ono polega?",
       "originalTitle": "Halo pojawiło się w Świnoujściu. \"To znak\"",
       "originalDescription": "W piątek w Świnoujściu pojawiło się halo słoneczne. Zdjęcia tego zjawiska otrzymaliśmy na Kontakt24. Na czym ono polega?"
     },
     {
-      "title": "Nagranie przedstawia psa wynoszącego śmieci",
+      "title": "Nauczył psa wynosić śmieci na nielegalne wysypisko? Nagranie",
       "link": "https://tvn24.pl/swiat/wlochy-nauczyl-psa-wynosic-smieci-na-nielegalne-wysypisko-nagranie-st8911708?source=rss",
       "pubDate": "Fri, 20 Feb 2026 15:56:18 GMT",
       "description": "Władze włoskiej Katanii twierdzą, że jeden z mieszkańców wyszkolił swojego psa tak, by podrzucał śmieci na nielegalne wysypisko. Nagrania z monitoringu pokazują, jak niewielkich rozmiarów zwierzę niesie i pozostawia na poboczu plastikowy worek. Internauci widzą to jednak inaczej.",
@@ -42,46 +82,6 @@
       "description": "Dwa auta dostawcze zderzyły się na autostradzie A2, na wysokości miejscowości Koszajec (Mazowieckie). Strażacy poinformowali, że nie ma osób rannych. Ale jest duży korek.",
       "originalTitle": "Dwa auta dostawcze zderzyły się na A2. Korek ma 10 kilometrów",
       "originalDescription": "Dwa auta dostawcze zderzyły się na autostradzie A2, na wysokości miejscowości Koszajec (Mazowieckie). Strażacy poinformowali, że nie ma osób rannych. Ale jest duży korek."
-    },
-    {
-      "title": "Dał miastu złote sztabki na naprawę rur. \"Brak mi słów\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/japonia-osaka-dal-miastu-zlote-sztabki-na-naprawe-rur-brak-mi-slow-st8911709?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 15:37:44 GMT",
-      "description": "Władze Osaki otrzymały niezwykłą darowiznę w postaci złota wartego 560 milionów jenów - poinformował \"Guardian\". Darczyńca zastrzegł, że całość kwoty ma zostać zainwestowana wyłącznie w modernizację niszczejącej sieci wodociągów miejskich.",
-      "originalTitle": "Dał miastu złote sztabki na naprawę rur. \"Brak mi słów\"",
-      "originalDescription": "Władze Osaki otrzymały niezwykłą darowiznę w postaci złota wartego 560 milionów jenów - poinformował \"Guardian\". Darczyńca zastrzegł, że całość kwoty ma zostać zainwestowana wyłącznie w modernizację niszczejącej sieci wodociągów miejskich."
-    },
-    {
-      "title": "Dzwonili i nakłaniali do przelewów. Pokrzywdzonych jest ponad 20 osób",
-      "link": "https://tvn24.pl/lublin/lublin-zatrzymano-piec-osob-odpowiedza-za-oszustwa-na-pracownika-banku-i-policjanta-st8911650?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 15:31:32 GMT",
-      "description": "Pięcioro obywateli Ukrainy, w tym dwie kobiety w wieku 21 i 45 lat, zostało zatrzymanych przez policjantów z Lublina. Odpowiedzą za serię oszustw, w których poszkodowanych zostało ponad 20 osób na blisko milion złotych. Z ustaleń wynika, że podejrzani wykorzystywali m.in. metody na policjanta i na pracownika banku. Grozi im do 10 lat pozbawienia wolności.",
-      "originalTitle": "Dzwonili i nakłaniali do przelewów. Pokrzywdzonych jest ponad 20 osób",
-      "originalDescription": "Pięcioro obywateli Ukrainy, w tym dwie kobiety w wieku 21 i 45 lat, zostało zatrzymanych przez policjantów z Lublina. Odpowiedzą za serię oszustw, w których poszkodowanych zostało ponad 20 osób na blisko milion złotych. Z ustaleń wynika, że podejrzani wykorzystywali m.in. metody na policjanta i na pracownika banku. Grozi im do 10 lat pozbawienia wolności."
-    },
-    {
-      "title": "Pogoda. Przedwiośnie. To będzie diametralna zmiana",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-przedwiosnie-to-bedzie-diametralna-zmiana-czy-to-koniec-zimy-15-stopni-na-termometrach-st8911705?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 15:29:32 GMT",
-      "description": "Czy to koniec zimy? Kolejne dni przyniosą ogromną zmianę w pogodzie. Niże znad Atlantyku przyniosą odwilż i deszcz. W przyszłym tygodniu termometry mogą pokazać nawet 15 stopni Celsjusza.",
-      "originalTitle": "Pogoda. Przedwiośnie. To będzie diametralna zmiana",
-      "originalDescription": "Czy to koniec zimy? Kolejne dni przyniosą ogromną zmianę w pogodzie. Niże znad Atlantyku przyniosą odwilż i deszcz. W przyszłym tygodniu termometry mogą pokazać nawet 15 stopni Celsjusza."
-    },
-    {
-      "title": "Firmy łączą siły w inwestycji",
-      "link": "https://tvn24.pl/biznes/tech/nvidia-zainwestuje-miliardy-partnerstwo-z-openai-st8910679?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 15:23:55 GMT",
-      "description": "Nvidia jest blisko sfinalizowania inwestycji o wartości 30 miliardów dolarów w OpenAI - przekazała osoba zaznajomiona ze sprawą. Ruch producenta chipów oznacza wejście kapitałowe do jednej z jego największych klientów - informuje Reuters.",
-      "originalTitle": "Wielkie firmy łączą siły. Potężna inwestycja",
-      "originalDescription": "Nvidia jest blisko sfinalizowania inwestycji o wartości 30 miliardów dolarów w OpenAI - przekazała osoba zaznajomiona ze sprawą. Ruch producenta chipów oznacza wejście kapitałowe do jednej z jego największych klientów - informuje Reuters."
-    },
-    {
-      "title": "Arcybiskup powołał zespół. Chce ustalić \"wszystkich sprawców krzywd\"",
-      "link": "https://tvn24.pl/katowice/czestochowa-arcybiskup-waclaw-depo-powolal-zespol-do-zbadania-krzywd-wyrzadzonych-przez-kosciol-st8911677?source=rss",
-      "pubDate": "Fri, 20 Feb 2026 15:16:37 GMT",
-      "description": "Arcybiskup Wacław Depo, metropolita częstochowski, powołał Niezależny Zespół Prawno-Historyczny \"w celu wyjaśnienia wszelkich spraw związanych z osobami pokrzywdzonymi w Kościele Częstochowskim\". Hierarcha podkreślił, że jego celem ma być wypracowanie sposobów naprawienia krzywd.",
-      "originalTitle": "Arcybiskup powołał zespół. Chce ustalić \"wszystkich sprawców krzywd\"",
-      "originalDescription": "Arcybiskup Wacław Depo, metropolita częstochowski, powołał Niezależny Zespół Prawno-Historyczny \"w celu wyjaśnienia wszelkich spraw związanych z osobami pokrzywdzonymi w Kościele Częstochowskim\". Hierarcha podkreślił, że jego celem ma być wypracowanie sposobów naprawienia krzywd."
     }
   ]
 }
