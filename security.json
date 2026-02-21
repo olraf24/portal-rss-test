@@ -1,8 +1,38 @@
 {
-  "lastUpdate": "2026-02-21T07:42:05.846Z",
+  "lastUpdate": "2026-02-21T08:08:59.351Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Rosyjski „termobaryczny Smok” walczy w rejonie Pokrowska",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosyjski-termobaryczny-smok-walczy-w-rejonie-pokrowska",
+      "pubDate": "Sat, 21 Feb 2026 09:00:15 +0100",
+      "description": "Pierwsze materiały przedstawiające użycie przez Rosjan na froncie nowej odmiany samobieżnej wyrzutni rakiet termobarycznych (w Rosji określanych mianem ciężkich miotaczy ognia) pojawiły się w [czerwcu zeszłego roku](https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/nowy-rosyjski-ciezki-miotacz-ognia-trafil-na-front). Podobnie jak na pierwszej prezentacji pojazd ten otrzymał dodatkową osłonę prętową, mającą na celu zwiększenie jego ochrony przed dronami FPV."
+    },
+    {
+      "title": "Nowoczesne wojsko zaczyna się pod ziemią",
+      "link": "https://defence24.pl/przemysl/nowoczesne-wojsko-zaczyna-sie-pod-ziemia",
+      "pubDate": "Sat, 21 Feb 2026 09:00:10 +0100",
+      "description": "Wszystkie te substancje znamy od dekad. Zmieniło się tylko to, że bez nich nowoczesne wojsko, przemysł obronny i energetyka po prostu przestają działać. W świecie, w którym wojny wygrywa się nie tylko czołgami, ale łańcuchami dostaw, dostęp dolitu, metali ziem rzadkich czy wolframu staje się równie ważny jak liczba dywizji. Problem w tym, że ich wydobycie i przetwarzanie skoncentrowało się w kilku wrażliwych punktach globu, często poza kontrolą Zachodu. I właśnie tam zaczyna się cicha, surowcowa odsłona rywalizacji o bezpieczeństwo. Jest ona mniej widowiskowa niż defilady, ale znacznie bardziej decydująca."
+    },
+    {
+      "title": "Białoruś strzela ze „Smiercza”",
+      "link": "https://defence24.pl/sily-zbrojne/bialorus-strzela-ze-smiercza",
+      "pubDate": "Sat, 21 Feb 2026 09:00:07 +0100",
+      "description": "Informację o ćwiczeniach przekazało białoruskie ministerstwo obrony 12 lutego, przy okazji publikując z nich zdjęcia oraz film w serwisie Facebook. Obejmowały one przygotowanie jednostek rakietowych do odbycia manewrów, wykonanie zadań szkoleniowych oraz bojowych przy użyciu wyrzutni BM-30. Strzelania były realizowane w dzień i w nocy."
+    },
+    {
+      "title": "Niemcy: artyleria bez amerykańskich rakiet",
+      "link": "https://defence24.pl/przemysl/niemcy-artyleria-bez-amerykanskich-rakiet",
+      "pubDate": "Sat, 21 Feb 2026 09:00:05 +0100",
+      "description": "[W dniu 9 grudnia serwis Euractiv](t.co/MCchjYox1o) poinformował, że administracja USA po raz kolejny nie wyraziła zgody na integrację pocisków rodziny GMLRS z niemieckimi wyrzutniami EuroPULS. Wskazał on, że jednym z prawdopodobnych powodów odmowy Waszyngtonu jest to, że integracja oprogramowania do systemu kierowania ogniem łączącego rakiety GMLRS z wyrzutnią mogłaby dać wgląd konkurencyjnym firmom do wrażliwych kwestii związanych ze wspomnianymi pociskami, ale też innymi stosowanymi przez wyrzutnie M270 i M142."
+    },
+    {
+      "title": "Rosyjska opozycja między widzialnością a bezsilnością",
+      "link": "https://defence24.pl/geopolityka/rosyjska-opozycja-miedzy-widzialnoscia-a-bezsilnoscia",
+      "pubDate": "Sat, 21 Feb 2026 09:00:01 +0100",
+      "description": "Ten rozdźwięk – między zewnętrzną widzialnością a wewnętrzną niemocą – nie jest wyłącznie skutkiem represji Kremla. Coraz częściej wygląda na produkt uboczny samej opozycji: jej struktury (a raczej ich braku), jej konfliktów o legitymację i pieniędzy oraz nieustannej wojny o to, kto ma prawo mówić w imieniu „demokratycznej Rosji”."
+    },
     {
       "title": "NATO śledzi rosyjski wojskowy statek transportowy, sprawdzając jego ślad radioaktywny",
       "link": "https://defence24.pl/polityka-obronna/nato-sledzi-rosyjski-wojskowy-statek-transportowy-sprawdzajac-jego-slad-radioaktywny",
@@ -62,36 +92,6 @@
       "link": "https://defence24.pl/premium/dwanascie-prac-donalda-trumpa-dla-pokojowej-nagrody-nobla",
       "pubDate": "Fri, 20 Feb 2026 15:00:02 +0100",
       "description": "Donald Trump nie tylko nie zakończył ośmiu wojen, czym się tak chwali, ale doprowadził już do czterech innych konfliktów. I to wcale nie jest jego ostatnie słowo."
-    },
-    {
-      "title": "UE chce ograniczyć zakupy broni w USA. Amerykanie grożą",
-      "link": "https://defence24.pl/przemysl/ue-chce-ograniczyc-zakupy-broni-w-usa-amerykanie-groza",
-      "pubDate": "Fri, 20 Feb 2026 14:30:03 +0100",
-      "description": "„Stany Zjednoczone zdecydowanie sprzeciwiają się wszelkim zmianom w dyrektywie, które ograniczałyby zdolność przemysłu amerykańskiego do wspierania zamówień na obronę narodową państw członkowskich UE lub uczestniczenia w nich w inny sposób” - przekazały władze USA w procesie konsultacji do zmian przepisów o rynku obronnym, [cytowane przez Politico](https://www.politico.eu/article/washington-lobbies-eu-against-buy-european-push-for-weapons-donald-trump/) - „Protekcjonistyczna i wykluczająca polityka polegająca na tym, że silne amerykańskie firmy wycofają się z rynku - podczas gdy największe europejskie firmy z branży obronnej w dalszym ciągu czerpią ogromne korzyści z dostępu do rynku w Stanach Zjednoczonych - jest złym sposobem działania” - dodano."
-    },
-    {
-      "title": "Nowe dostawy dla Wojska Polskiego",
-      "link": "https://defence24.pl/polityka-obronna/nowe-dostawy-dla-wojska-polskiego",
-      "pubDate": "Fri, 20 Feb 2026 14:24:34 +0100",
-      "description": "W ostatnich dniach Wojsko Polskie wzbogaciło się o środki bojowe wielu kalibrów. Wśród nich znalazło się 100 tys. sztuk amunicji kalibru 20 mm przeznaczonej do lekkich samolotów szkolno-bojowych FA-50. To istotne wsparcie dla floty maszyn wykorzystywanych m.in. do szkolenia i realizacji zadań bojowych, które sukcesywnie zwiększają swoje znaczenie w systemie obronnym kraju."
-    },
-    {
-      "title": "Davos i Monachium: Koniec starego porządku",
-      "link": "https://defence24.pl/geopolityka/davos-i-monachium-koniec-starego-porzadku",
-      "pubDate": "Fri, 20 Feb 2026 14:00:00 +0100",
-      "description": "Tegoroczne Forum Ekonomiczne w Davos oraz zakończona kilka dni temu Monachijska Konferencja Bezpieczeństwa obfitowały w wyjątkowo dużą liczbę istotnych wypowiedzi światowych przywódców. Z pewnością swoje piętno na obydwu wydarzeniach odcisnęły większe i mniejsze zawirowania geopolityczne, których świadkami jesteśmy od dłuższego czasu. W sposób szczególny można wyróżnić tu trwającą od czterech lat wojnę na Ukrainie, ale także niedawne wypowiedzi prezydenta USA Donalda Trumpa dotyczące chęci przejęcia kontroli nad Grenlandią."
-    },
-    {
-      "title": "Masowe wezwania do wojska na Białorusi. Co oznacza nowa fala powołań?",
-      "link": "https://defence24.pl/polityka-obronna/masowe-wezwania-do-wojska-na-bialorusi-co-oznacza-nowa-fala-powolan",
-      "pubDate": "Fri, 20 Feb 2026 13:29:55 +0100",
-      "description": "Jak informuje białoruska redakcja opozycyjna Zerkalo, do redakcji oraz w mediach społecznościowych napływają skargi mężczyzn z Grodna, Słonimia i mniejszych miejscowości w zachodniej części kraju. Rezerwiści otrzymują wezwania do stawienia się w punktach zbiórki nawet tego samego dnia. Zdarza się, że dokument doręczany jest rano z poleceniem pojawienia się w jednostce w ciągu godziny, albo późnym wieczorem z obowiązkiem wyjazdu nad ranem do innego miasta."
-    },
-    {
-      "title": "Litewscy artylerzyści strzelali w Polsce",
-      "link": "https://defence24.pl/sily-zbrojne/litewscy-artylerzysci-strzelali-w-polsce",
-      "pubDate": "Fri, 20 Feb 2026 13:00:02 +0100",
-      "description": "W minionych już międzynarodowych ćwiczeniach Dynamics Front-26 litewscy artylerzyści z 2. baterii Batalionu Artylerii im. Generała Romualda Giedraičio pojawili się na toruńskim poligonie wraz z armatohaubicami PzH 2000, jakie zostały [przed laty pozyskane z nadwyżek sprzętowych Bundeswehry](https://defence24.pl/sily-zbrojne/litewskie-pzh-2000-w-komplecie). W ramach nich współpracowali z polskimi żołnierzami [z 18. Brygady Artylerii](https://defence24.pl/sily-zbrojne/artylerzysci-nato-wymieniaja-doswiadczenia-w-polsce), którzy operowali na kupionych w Korei Południowej armatohaubicach K9A1."
     }
   ]
 }
