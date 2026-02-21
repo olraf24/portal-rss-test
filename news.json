@@ -1,10 +1,42 @@
 {
-  "lastUpdate": "2026-02-21T12:10:56.250Z",
+  "lastUpdate": "2026-02-21T12:47:43.375Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "29-latek z zarzutami w sprawie zabójstwa w Raciążu",
+      "title": "Amazon liderem sprzedaży",
+      "link": "https://tvn24.pl/biznes/ze-swiata/amazon-przegonil-walmart-jest-najwieksza-firma-commerce-st8912462?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 12:24:50 GMT",
+      "description": "Amazon wyprzedził Walmart jako największą spółkę na świecie pod względem sprzedaży. Firma Jeffa Bezosa zakończyła tym samym 13-letnią zwycięską passę amerykańskiej sieci supermarketów.",
+      "originalTitle": "Amazon światowym liderem sprzedaży. Wyprzedził sieć Walmart",
+      "originalDescription": "Amazon wyprzedził Walmart jako największą spółkę na świecie pod względem sprzedaży. Firma Jeffa Bezosa zakończyła tym samym 13-letnią zwycięską passę amerykańskiej sieci supermarketów."
+    },
+    {
+      "title": "Sześć kaszalotów wylądowało na brzegu, dwa zmarły",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/dania-szesc-kaszalotow-na-europejskim-brzegu-dwa-nie-przezyly-st8912463?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 12:22:04 GMT",
+      "description": "Morze wyrzuciło na duński brzeg kaszaloty spermacetowe. Jak podały lokalne media, co najmniej dwóch spośród sześciu ssaków nie udało się uratować. Eksperci zalecają mieszkańcom, aby nie zbliżać się w rejony, gdzie leżą zwierzęta.",
+      "originalTitle": "Sześć kaszalotów na europejskim brzegu. Dwa nie przeżyły",
+      "originalDescription": "Morze wyrzuciło na duński brzeg kaszaloty spermacetowe. Jak podały lokalne media, co najmniej dwóch spośród sześciu ssaków nie udało się uratować. Eksperci zalecają mieszkańcom, aby nie zbliżać się w rejony, gdzie leżą zwierzęta."
+    },
+    {
+      "title": "Pożar w domu pomocy społecznej, 10 poszkodowanych",
+      "link": "https://tvn24.pl/lubuskie/szczawno-pozar-domu-pomocy-spolecznej-ewakuowano-prawie-100-osob-dziesiec-poszkodowanych-st8912460?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 11:42:46 GMT",
+      "description": "• Pożar wybuchł w Domu Pomocy Społecznej w Szczawnie.\n• Dom Pomocy Społecznej znajduje się w województwie Lubuskie.\n• Ewakuowano 96 osób.\n• Z ewakuowanych osób, 10 zostało poszkodowanych.\n• Na miejscu pożaru pracuje 14 strażackich zastępów.",
+      "originalTitle": "Pożar domu pomocy społecznej. Ewakuowano prawie 100 osób, dziesięć poszkodowanych",
+      "originalDescription": "Pożar Domu Pomocy Społecznej w Szczawnie (Lubuskie). Ewakuowano 96 osób, z czego 10 z nich zostało poszkodowanych. Na miejscu pracuje 14 strażackich zastępów."
+    },
+    {
+      "title": "Posłowie PiS na dwóch imprezach",
+      "link": "https://tvn24.pl/polska/wojna-frakcji-w-pis-dwie-imprezy-tego-samego-dnia-konwencja-w-stalowej-woli-mateusz-morawiecki-w-slupsku-st8912389?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 12:13:16 GMT",
+      "description": "Ten sam dzień, ta sama godzina, dwie różne imprezy PiS i przedstawiciele dwóch różnych zwaśnionych frakcji. W Stalowej Woli w południe zorganizowano konwencję programową o obronności, na której są między innymi Mariusz Błaszczak i Antonii Macierewicz. Natomiast w Słupsku z wyborcami spotykają się inni politycy partii, w tym Mateusz Morawiecki.",
+      "originalTitle": "Dwie imprezy w PiS i podzieleni posłowie. Jedni w Stalowej Woli, drudzy w Słupsku",
+      "originalDescription": "Ten sam dzień, ta sama godzina, dwie różne imprezy PiS i przedstawiciele dwóch różnych zwaśnionych frakcji. W Stalowej Woli w południe zorganizowano konwencję programową o obronności, na której są między innymi Mariusz Błaszczak i Antonii Macierewicz. Natomiast w Słupsku z wyborcami spotykają się inni politycy partii, w tym Mateusz Morawiecki."
+    },
+    {
+      "title": "29-latek zatrzymany w związku z zabójstwem w Raciążu",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-podwojne-zabojstwo-w-raciazu-zarzut-st8910397?source=rss",
       "pubDate": "Fri, 20 Feb 2026 11:02:15 GMT",
       "description": "W piątek 29-latek podejrzany o zabójstwo babci i dziadka w Raciążu (Mazowieckie) został doprowadzony do prokuratury. Po przesłuchaniu przedstawiono mu zarzut zabójstwa ze szczególnym okrucieństwem. Mężczyzna przyznał się do zbrodni. Sąd zastosował wobec mężczyzny tymczasowy areszt na trzy miesiące.",
@@ -12,23 +44,15 @@
       "originalDescription": "W piątek 29-latek podejrzany o zabójstwo babci i dziadka w Raciążu (Mazowieckie) został doprowadzony do prokuratury. Po przesłuchaniu przedstawiono mu zarzut zabójstwa ze szczególnym okrucieństwem. Mężczyzna przyznał się do zbrodni. Sąd zastosował wobec mężczyzny tymczasowy areszt na trzy miesiące."
     },
     {
-      "title": "Pożar w domu pomocy społecznej, 92 ewakuowanych, 10 poszkodowanych",
-      "link": "https://tvn24.pl/lubuskie/szczawno-pozar-domu-pomocy-spolecznej-ewakuowano-92-osoby-dziesiec-poszkodowanych-st8912460?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:42:46 GMT",
-      "description": "• Pożar wybuchł w Domu Pomocy Społecznej.\n• Dom Pomocy Społecznej znajduje się w Szczawnie.\n• Szczawno położone jest w województwie Lubuskie.\n• Ewakuowano 92 osoby.\n• 10 osób zostało poszkodowanych.\n• Na miejscu pracuje 19 strażackich zastępów.",
-      "originalTitle": "Pożar domu pomocy społecznej. Ewakuowano 92 osoby, dziesięć poszkodowanych",
-      "originalDescription": "Pożar Domu Pomocy Społecznej w Szczawnie (Lubuskie). Ewakuowano 92 osoby, z czego 10 z nich zostało poszkodowanych. Na miejscu pracuje 19 strażackich zastępów."
-    },
-    {
-      "title": "Wypadek na zamarzniętym zalewie",
+      "title": "Rajd kierowcy po zamarzniętym zalewie. Nagranie",
       "link": "https://tvn24.pl/lublin/lublin-zalew-zemborzycki-rajd-kierowcy-po-zamarznietym-zbiorniku-nagranie-st8912341?source=rss",
       "pubDate": "Sat, 21 Feb 2026 11:37:54 GMT",
-      "description": "• Kierowca samochodu osobowego wjechał na zamarznięty Zalew Zemborzycki w Lublinie.\n• Kierowca jeździł po zamarzniętym zalewie przez pół godziny.\n• Kierowca zakończył jazdę po zalewie, gdy usłyszał zbliżający się radiowóz.",
+      "description": "Kierowca samochodu osobowego wjechał na zamarznięty Zalew Zemborzycki w Lublinie i jeździł po nim przez pół godziny. Swój rajd zakończył, gdy usłyszał zbliżający się radiowóz.",
       "originalTitle": "Rajd kierowcy po zamarzniętym zalewie. Nagranie",
       "originalDescription": "Kierowca samochodu osobowego wjechał na zamarznięty Zalew Zemborzycki w Lublinie i jeździł po nim przez pół godziny. Swój rajd zakończył, gdy usłyszał zbliżający się radiowóz."
     },
     {
-      "title": "Wypadek na S7, kierowca jechał pod prąd",
+      "title": "Zderzenie na S7. Jeden z kierowców miał jechać pod prąd",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/s7-kazun-nowy-zderzenie-na-s7-jeden-z-kierowcow-mial-jechac-pod-prad-st8912368?source=rss",
       "pubDate": "Sat, 21 Feb 2026 11:17:45 GMT",
       "description": "Zderzenie na trasie S7 na wysokości miejscowości Kazuń Nowy. Jak podaje policja, jeden z kierowców jechał prawdopodobnie pod prąd i doprowadził do kolizji. Strażacy poinformowali, że nikt nie odniósł obrażeń.",
@@ -58,30 +82,6 @@
       "description": "Policjanci z Bełchatowa (Łódzkie) zatrzymali 46-latkę podejrzaną o wyrzucenie szczeniaka do kontenera na elektrośmieci. Zwierzę odnalazła przypadkowa mieszkanka, która usłyszała odgłosy z pojemnika.",
       "originalTitle": "Mała suczka \"potraktowana jak toster\" i wrzucona do kontenera na elektrośmieci",
       "originalDescription": "Policjanci z Bełchatowa (Łódzkie) zatrzymali 46-latkę podejrzaną o wyrzucenie szczeniaka do kontenera na elektrośmieci. Zwierzę odnalazła przypadkowa mieszkanka, która usłyszała odgłosy z pojemnika."
-    },
-    {
-      "title": "Biskup aresztowany za napaść seksualną",
-      "link": "https://tvn24.pl/swiat/wielka-brytania-biskup-stephen-conway-aresztowany-za-napasc-seksualna-st8912335?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:09:03 GMT",
-      "description": "Anglikański biskup Stephen Conway został aresztowany pod zarzutem napaści seksualnej - poinformowała policja hrabstwa Lincolnshire w Wielkiej Brytanii. Duchowny został zwolniony warunkowo za kaucją. Od 2014 roku jest on członkiem Izby Lordów.",
-      "originalTitle": "Biskup aresztowany za napaść seksualną",
-      "originalDescription": "Anglikański biskup Stephen Conway został aresztowany pod zarzutem napaści seksualnej - poinformowała policja hrabstwa Lincolnshire w Wielkiej Brytanii. Duchowny został zwolniony warunkowo za kaucją. Od 2014 roku jest on członkiem Izby Lordów."
-    },
-    {
-      "title": "Nabożeństwa w intencji osób skrzywdzonych w Kościele. \"Nie wolno milczeć\"",
-      "link": "https://tvn24.pl/polska/nabozenstwa-w-intencji-osob-skrzywdzonych-w-kosciele-nie-wolno-milczec-st8912092?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 10:54:46 GMT",
-      "description": "W wielu miastach w Polsce biskupi odprawili w piątek msze święte i nabożeństwa drogi krzyżowej w intencji ofiar wykorzystywania seksualnego. W Krakowie mszę świętą w intencji skrzywdzonych odprawił kardynał Grzegorz Ryś, w katedrze gnieźnieńskiej arcybiskup Wojciech Polak.",
-      "originalTitle": "Nabożeństwa w intencji osób skrzywdzonych w Kościele. \"Nie wolno milczeć\"",
-      "originalDescription": "W wielu miastach w Polsce biskupi odprawili w piątek msze święte i nabożeństwa drogi krzyżowej w intencji ofiar wykorzystywania seksualnego. W Krakowie mszę świętą w intencji skrzywdzonych odprawił kardynał Grzegorz Ryś, w katedrze gnieźnieńskiej arcybiskup Wojciech Polak."
-    },
-    {
-      "title": "Pierwszy deficyt od dwóch lat. Udział w tym mają Chiny",
-      "link": "https://tvn24.pl/biznes/najnowsze/deficyt-handlowy-polski-przekroczyl-7-mld-euro-przyczyna-import-z-chin-st8912318?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 10:42:09 GMT",
-      "description": "Polska odnotowała w ubiegłym roku pierwszy od dwóch lat deficyt w handlu zagranicznym na poziomie 7,7 miliardów euro. Eksport wzrósł o niemal 4 procent, ale import zwiększył o ponad 6 procent między innymi za sprawą rosnących dostaw z Chin - wynika z analiz Polskiego Instytutu Ekonomicznego.",
-      "originalTitle": "Pierwszy deficyt od dwóch lat. Udział w tym mają Chiny",
-      "originalDescription": "Polska odnotowała w ubiegłym roku pierwszy od dwóch lat deficyt w handlu zagranicznym na poziomie 7,7 miliardów euro. Eksport wzrósł o niemal 4 procent, ale import zwiększył o ponad 6 procent między innymi za sprawą rosnących dostaw z Chin - wynika z analiz Polskiego Instytutu Ekonomicznego."
     }
   ]
 }
