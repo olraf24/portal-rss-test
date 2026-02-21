@@ -1,10 +1,58 @@
 {
-  "lastUpdate": "2026-02-21T12:47:43.375Z",
+  "lastUpdate": "2026-02-21T13:20:13.413Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Amazon liderem sprzedaży",
+      "title": "Niska temperatura",
+      "link": "https://tvn24.pl/swiat/najtrudniejsza-zima-w-czasie-agresji-zbrojnej-ukraincy-przezywaja-terror-energetyczny-st8908247?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 13:17:11 GMT",
+      "description": "• Mieszkańcy budynku przy ulicy Ekster 8 znaleźli się w krytycznej sytuacji\n• Złożyłam milion skarg, bez odpowiedzi - to wpisy z osiedla Trojeszczyna w Kijowie\n• Osiedle Trojeszczyna w Kijowie bardzo ucierpiało w wyniku rosyjskich nalotów\n• Ukraińcy przeżywają najtrudniejszą zimę od wybuchu agresji zbrojnej",
+      "originalTitle": "\"Zamarzamy\", piszą mieszkańcy",
+      "originalDescription": "\"Mieszkańcy budynku przy ulicy Ekster 8 znaleźli się w krytycznej sytuacji\", \"złożyłam milion skarg, bez odpowiedzi\" - to wpisy z osiedla Trojeszczyna w Kijowie, które bardzo ucierpiało w wyniku rosyjskich nalotów. Ukraińcy przeżywają najtrudniejszą zimę od wybuchu agresji zbrojnej."
+    },
+    {
+      "title": "Akcja ratunkowa trwa",
+      "link": "https://tvn24.pl/swiat/usa-dramatyczna-akcja-ratunkowa-w-stafford-musial-skakac-z-plonacego-domu-zlapali-go-policjanci-st8912498?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 13:15:17 GMT",
+      "description": "• Nagranie pochodzi z policyjnej akcji w Stafford w stanie New Jersey.\n• Akcja policyjna była bohaterska.\n• Funkcjonariusze uratowali mężczyznę z płonącego domu.\n• Mężczyzna wyskoczył z balkonu wprost na ręce policjantów.",
+      "originalTitle": "\"Musisz skakać, teraz\". Dramatyczna akcja ratunkowa",
+      "originalDescription": "Nagranie z policyjnej akcji w Stafford w stanie New Jersey pokazuje bohaterską akcję policjantów. Funkcjonariusze uratowali mężczyznę z płonącego domu. Wyskoczył on z balkonu wprost na ich ręce."
+    },
+    {
+      "title": "Ostrzeżenie przed jajami skażonymi salmonellą",
+      "link": "https://tvn24.pl/biznes/handel/salmonella-na-skorupkach-jaj-10-swiezych-jaj-a-a-kaluzni-glowny-inspektorat-sanitarny-wydal-ostrzezenie-st8912695?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 13:11:57 GMT",
+      "description": "Główny Inspektorat Sanitarny wydał ostrzeżenie dotyczące wykrycia bakterii Salmonella spp. na powierzchni skorupek jaj. Spożycie produktu bez odpowiedniej obróbki termicznej może wywołać zatrucie pokarmowe.",
+      "originalTitle": "Jaja skażone salmonellą. Jest ostrzeżenie",
+      "originalDescription": "Główny Inspektorat Sanitarny wydał ostrzeżenie dotyczące wykrycia bakterii Salmonella spp. na powierzchni skorupek jaj. Spożycie produktu bez odpowiedniej obróbki termicznej może wywołać zatrucie pokarmowe."
+    },
+    {
+      "title": "Polak zmarł w lawinie w Alpach austriackich",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/austria-polak-porwany-przez-lawine-w-alpach-nie-zyje-st8912508?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 13:02:42 GMT",
+      "description": "Polak zginął w lawinie, która w piątek zeszła w ośrodku narciarskim w austriackim Tyrolu. Mężczyzna był częścią grupy narciarzy, która w chwili zdarzenia zjeżdżała poza trasą. Łącznie w Austrii w lawinach zginęło tego dnia pięć osób.",
+      "originalTitle": "Austria. Polak porwany przez lawinę w Alpach. Nie żyje",
+      "originalDescription": "Polak zginął w lawinie, która w piątek zeszła w ośrodku narciarskim w austriackim Tyrolu. Mężczyzna był częścią grupy narciarzy, która w chwili zdarzenia zjeżdżała poza trasą. Łącznie w Austrii w lawinach zginęło tego dnia pięć osób."
+    },
+    {
+      "title": "Pożar domu pomocy społecznej. Jedna osoba nie żyje, prawie 100 ewakuowano",
+      "link": "https://tvn24.pl/lubuskie/szczawno-pozar-domu-pomocy-spolecznej-jedna-osoba-nie-zyje-prawie-100-ewakuowano-st8912460?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 11:42:46 GMT",
+      "description": "Pożar Domu Pomocy Społecznej w Szczawnie (Lubuskie). Jedna osoba nie żyje. Ewakuowano 96 osób, z czego dziewięć z nich zostało poszkodowanych.",
+      "originalTitle": "Pożar domu pomocy społecznej. Jedna osoba nie żyje, prawie 100 ewakuowano",
+      "originalDescription": "Pożar Domu Pomocy Społecznej w Szczawnie (Lubuskie). Jedna osoba nie żyje. Ewakuowano 96 osób, z czego dziewięć z nich zostało poszkodowanych."
+    },
+    {
+      "title": "Miejski strażnik po spożyciu alkoholu uderzył w samochód",
+      "link": "https://tvn24.pl/krakow/krakow-miejski-straznik-po-spozyciu-alkoholu-uderzyl-w-samochod-st8912522?source=rss",
+      "pubDate": "Sat, 21 Feb 2026 12:59:41 GMT",
+      "description": "Po kolizji spowodowanej przez podwładnego komendant Straży Miejskiej w Krakowie podjął decyzję o zmianie przepisów wewnętrznych jednostki. Funkcjonariusz był po spożyciu alkoholu, miał 0,2 promila alkoholu w organizmie. Jak podają lokalne media, został ujęty przez kibiców wracających z meczu.",
+      "originalTitle": "Miejski strażnik po spożyciu alkoholu uderzył w samochód",
+      "originalDescription": "Po kolizji spowodowanej przez podwładnego komendant Straży Miejskiej w Krakowie podjął decyzję o zmianie przepisów wewnętrznych jednostki. Funkcjonariusz był po spożyciu alkoholu, miał 0,2 promila alkoholu w organizmie. Jak podają lokalne media, został ujęty przez kibiców wracających z meczu."
+    },
+    {
+      "title": "Amazon światowym liderem sprzedaży. Wyprzedził sieć Walmart",
       "link": "https://tvn24.pl/biznes/ze-swiata/amazon-przegonil-walmart-jest-najwieksza-firma-commerce-st8912462?source=rss",
       "pubDate": "Sat, 21 Feb 2026 12:24:50 GMT",
       "description": "Amazon wyprzedził Walmart jako największą spółkę na świecie pod względem sprzedaży. Firma Jeffa Bezosa zakończyła tym samym 13-letnią zwycięską passę amerykańskiej sieci supermarketów.",
@@ -12,7 +60,7 @@
       "originalDescription": "Amazon wyprzedził Walmart jako największą spółkę na świecie pod względem sprzedaży. Firma Jeffa Bezosa zakończyła tym samym 13-letnią zwycięską passę amerykańskiej sieci supermarketów."
     },
     {
-      "title": "Sześć kaszalotów wylądowało na brzegu, dwa zmarły",
+      "title": "Sześć kaszalotów na europejskim brzegu. Dwa nie przeżyły",
       "link": "https://tvn24.pl/tvnmeteo/swiat/dania-szesc-kaszalotow-na-europejskim-brzegu-dwa-nie-przezyly-st8912463?source=rss",
       "pubDate": "Sat, 21 Feb 2026 12:22:04 GMT",
       "description": "Morze wyrzuciło na duński brzeg kaszaloty spermacetowe. Jak podały lokalne media, co najmniej dwóch spośród sześciu ssaków nie udało się uratować. Eksperci zalecają mieszkańcom, aby nie zbliżać się w rejony, gdzie leżą zwierzęta.",
@@ -20,15 +68,7 @@
       "originalDescription": "Morze wyrzuciło na duński brzeg kaszaloty spermacetowe. Jak podały lokalne media, co najmniej dwóch spośród sześciu ssaków nie udało się uratować. Eksperci zalecają mieszkańcom, aby nie zbliżać się w rejony, gdzie leżą zwierzęta."
     },
     {
-      "title": "Pożar w domu pomocy społecznej, 10 poszkodowanych",
-      "link": "https://tvn24.pl/lubuskie/szczawno-pozar-domu-pomocy-spolecznej-ewakuowano-prawie-100-osob-dziesiec-poszkodowanych-st8912460?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:42:46 GMT",
-      "description": "• Pożar wybuchł w Domu Pomocy Społecznej w Szczawnie.\n• Dom Pomocy Społecznej znajduje się w województwie Lubuskie.\n• Ewakuowano 96 osób.\n• Z ewakuowanych osób, 10 zostało poszkodowanych.\n• Na miejscu pożaru pracuje 14 strażackich zastępów.",
-      "originalTitle": "Pożar domu pomocy społecznej. Ewakuowano prawie 100 osób, dziesięć poszkodowanych",
-      "originalDescription": "Pożar Domu Pomocy Społecznej w Szczawnie (Lubuskie). Ewakuowano 96 osób, z czego 10 z nich zostało poszkodowanych. Na miejscu pracuje 14 strażackich zastępów."
-    },
-    {
-      "title": "Posłowie PiS na dwóch imprezach",
+      "title": "Dwie imprezy w PiS i podzieleni posłowie. Jedni w Stalowej Woli, drudzy w Słupsku",
       "link": "https://tvn24.pl/polska/wojna-frakcji-w-pis-dwie-imprezy-tego-samego-dnia-konwencja-w-stalowej-woli-mateusz-morawiecki-w-slupsku-st8912389?source=rss",
       "pubDate": "Sat, 21 Feb 2026 12:13:16 GMT",
       "description": "Ten sam dzień, ta sama godzina, dwie różne imprezy PiS i przedstawiciele dwóch różnych zwaśnionych frakcji. W Stalowej Woli w południe zorganizowano konwencję programową o obronności, na której są między innymi Mariusz Błaszczak i Antonii Macierewicz. Natomiast w Słupsku z wyborcami spotykają się inni politycy partii, w tym Mateusz Morawiecki.",
@@ -36,52 +76,12 @@
       "originalDescription": "Ten sam dzień, ta sama godzina, dwie różne imprezy PiS i przedstawiciele dwóch różnych zwaśnionych frakcji. W Stalowej Woli w południe zorganizowano konwencję programową o obronności, na której są między innymi Mariusz Błaszczak i Antonii Macierewicz. Natomiast w Słupsku z wyborcami spotykają się inni politycy partii, w tym Mateusz Morawiecki."
     },
     {
-      "title": "29-latek zatrzymany w związku z zabójstwem w Raciążu",
+      "title": "Podwójne zabójstwo w Raciążu. Zarzuty i areszt dla 29-latka. Grozi mu dożywocie",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-podwojne-zabojstwo-w-raciazu-zarzut-st8910397?source=rss",
       "pubDate": "Fri, 20 Feb 2026 11:02:15 GMT",
       "description": "W piątek 29-latek podejrzany o zabójstwo babci i dziadka w Raciążu (Mazowieckie) został doprowadzony do prokuratury. Po przesłuchaniu przedstawiono mu zarzut zabójstwa ze szczególnym okrucieństwem. Mężczyzna przyznał się do zbrodni. Sąd zastosował wobec mężczyzny tymczasowy areszt na trzy miesiące.",
       "originalTitle": "Podwójne zabójstwo w Raciążu. Zarzuty i areszt dla 29-latka. Grozi mu dożywocie",
       "originalDescription": "W piątek 29-latek podejrzany o zabójstwo babci i dziadka w Raciążu (Mazowieckie) został doprowadzony do prokuratury. Po przesłuchaniu przedstawiono mu zarzut zabójstwa ze szczególnym okrucieństwem. Mężczyzna przyznał się do zbrodni. Sąd zastosował wobec mężczyzny tymczasowy areszt na trzy miesiące."
-    },
-    {
-      "title": "Rajd kierowcy po zamarzniętym zalewie. Nagranie",
-      "link": "https://tvn24.pl/lublin/lublin-zalew-zemborzycki-rajd-kierowcy-po-zamarznietym-zbiorniku-nagranie-st8912341?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:37:54 GMT",
-      "description": "Kierowca samochodu osobowego wjechał na zamarznięty Zalew Zemborzycki w Lublinie i jeździł po nim przez pół godziny. Swój rajd zakończył, gdy usłyszał zbliżający się radiowóz.",
-      "originalTitle": "Rajd kierowcy po zamarzniętym zalewie. Nagranie",
-      "originalDescription": "Kierowca samochodu osobowego wjechał na zamarznięty Zalew Zemborzycki w Lublinie i jeździł po nim przez pół godziny. Swój rajd zakończył, gdy usłyszał zbliżający się radiowóz."
-    },
-    {
-      "title": "Zderzenie na S7. Jeden z kierowców miał jechać pod prąd",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/s7-kazun-nowy-zderzenie-na-s7-jeden-z-kierowcow-mial-jechac-pod-prad-st8912368?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:17:45 GMT",
-      "description": "Zderzenie na trasie S7 na wysokości miejscowości Kazuń Nowy. Jak podaje policja, jeden z kierowców jechał prawdopodobnie pod prąd i doprowadził do kolizji. Strażacy poinformowali, że nikt nie odniósł obrażeń.",
-      "originalTitle": "Zderzenie na S7. Jeden z kierowców miał jechać pod prąd",
-      "originalDescription": "Zderzenie na trasie S7 na wysokości miejscowości Kazuń Nowy. Jak podaje policja, jeden z kierowców jechał prawdopodobnie pod prąd i doprowadził do kolizji. Strażacy poinformowali, że nikt nie odniósł obrażeń."
-    },
-    {
-      "title": "Premier Słowacji grozi Ukrainie odcięciem dostaw prądu",
-      "link": "https://tvn24.pl/biznes/najnowsze/napiecia-slowacja-ukraina-premier-slowacji-robert-fico-grozi-odcieciem-dostaw-pradu-na-ukraine-st8912387?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:13:59 GMT",
-      "description": "Premier Słowacji Robert Fico oświadczył, że jeśli ukraiński prezydent Wołodymyr Zełenski nie wznowi w poniedziałek dostaw ropy do jego kraju, poprosi słowackie firmy o zaprzestanie awaryjnych dostaw energii elektrycznej na Ukrainę.",
-      "originalTitle": "Premier Słowacji grozi Ukrainie odcięciem dostaw prądu",
-      "originalDescription": "Premier Słowacji Robert Fico oświadczył, że jeśli ukraiński prezydent Wołodymyr Zełenski nie wznowi w poniedziałek dostaw ropy do jego kraju, poprosi słowackie firmy o zaprzestanie awaryjnych dostaw energii elektrycznej na Ukrainę."
-    },
-    {
-      "title": "Ostrzeżenia IMGW. Pomarańczowe alarmy w części kraju. Tu będzie niebezpiecznie",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-silny-mroz-marznace-opady-i-gololedz-roztopy-st8905575?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 05:33:00 GMT",
-      "description": "Pogoda w Polsce. IMGW ostrzega przed opadami marznącymi i roztopami. Miejscami obowiązują alarmy nawet drugiego stopnia. Sprawdź, gdzie zachować ostrożność.",
-      "originalTitle": "Ostrzeżenia IMGW. Pomarańczowe alarmy w części kraju. Tu będzie niebezpiecznie",
-      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed opadami marznącymi i roztopami. Miejscami obowiązują alarmy nawet drugiego stopnia. Sprawdź, gdzie zachować ostrożność."
-    },
-    {
-      "title": "Mała suczka \"potraktowana jak toster\" i wrzucona do kontenera na elektrośmieci",
-      "link": "https://tvn24.pl/lodz/belchatow-mala-suczka-potraktowana-jak-toster-i-wrzucona-do-kontenera-na-elektrosmieci-st8912297?source=rss",
-      "pubDate": "Sat, 21 Feb 2026 11:12:48 GMT",
-      "description": "Policjanci z Bełchatowa (Łódzkie) zatrzymali 46-latkę podejrzaną o wyrzucenie szczeniaka do kontenera na elektrośmieci. Zwierzę odnalazła przypadkowa mieszkanka, która usłyszała odgłosy z pojemnika.",
-      "originalTitle": "Mała suczka \"potraktowana jak toster\" i wrzucona do kontenera na elektrośmieci",
-      "originalDescription": "Policjanci z Bełchatowa (Łódzkie) zatrzymali 46-latkę podejrzaną o wyrzucenie szczeniaka do kontenera na elektrośmieci. Zwierzę odnalazła przypadkowa mieszkanka, która usłyszała odgłosy z pojemnika."
     }
   ]
 }
