@@ -1,26 +1,42 @@
 {
-  "lastUpdate": "2026-02-22T14:09:58.719Z",
+  "lastUpdate": "2026-02-22T14:42:23.207Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Znaleziono ciało żołnierza",
+      "title": "Problemy z ruchem lotniczym w Moskwie",
+      "link": "https://tvn24.pl/swiat/moskiewskie-lotniska-sparalizowane-st8913489?source=rss",
+      "pubDate": "Sun, 22 Feb 2026 14:33:30 GMT",
+      "description": "• Cztery moskiewskie lotniska ograniczyły loty ze względów bezpieczeństwa.\n• Ograniczenia lotów są związane z atakiem dronów.\n• Informację o ograniczeniach lotów podał regulator lotnictwa Rosawiacja.\n• Regulator lotnictwa Rosawiacja poinformował o ograniczeniach lotów w niedzielę.",
+      "originalTitle": "Moskiewskie lotniska sparaliżowane",
+      "originalDescription": "Cztery moskiewskie lotniska ograniczyły loty ze względów bezpieczeństwa w związku z atakiem dronów - poinformował w niedzielę regulator lotnictwa Rosawiacja."
+    },
+    {
+      "title": "Temperatura w Hiszpanii przekracza 20 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hiszpania-rzady-antycyklonu-ponad-20-stopni-st8913670?source=rss",
+      "pubDate": "Sun, 22 Feb 2026 14:27:22 GMT",
+      "description": "• Weekend przyniósł w Hiszpanii wysokie wartości na termometrach.\n• Na południu kraju było ponad 20 stopni Celsjusza.\n• Na plaży w Barcelonie pojawiły się tłumy mieszkańców i turystów.\n��� Tłumy były spragnione pierwszych w tym sezonie morskich kąpieli.",
+      "originalTitle": "Hiszpania. Ponad 20 stopni na termometrach. Rządy antycyklonu",
+      "originalDescription": "Weekend przyniósł w Hiszpanii wysokie wartości na termometrach - na południu kraju było ponad 20 stopni Celsjusza. Na plaży w Barcelonie pojawiły się tłumy mieszkańców i turystów, spragnionych pierwszych w tym sezonie morskich kąpieli."
+    },
+    {
+      "title": "Śmierć żołnierza w pobliżu cmentarza",
       "link": "https://tvn24.pl/szczecin/stargard-cialo-zolnierza-w-poblizu-cmentarza-ustalaja-co-sie-stalo-st8913682?source=rss",
       "pubDate": "Sun, 22 Feb 2026 13:50:50 GMT",
-      "description": "• Żandarmeria Wojskowa i policja ustalają, co się stało przy ulicy Spokojnej w Stargardzie.\n• Zdarzenie miało miejsce w Stargardzie.\n• Stargard położony jest w województwie Zachodniopomorskim.\n• Ciało znaleziono przy ulicy Spokojnej.\n• Znaleziono ciało żołnierza.\n• Ciało znaleziono rano.",
+      "description": "• Żandarmeria Wojskowa i policja ustalają, co się stało przy ulicy Spokojnej w Stargardzie.\n• Miejsce zdarzenia to ulica Spokojna.\n• Zdarzenie miało miejsce w Stargardzie.\n• Stargard położony jest w województwie Zachodniopomorskim.\n• Rano znaleziono ciało żołnierza.\n• Ciało znaleziono przy ulicy Spokojnej.",
       "originalTitle": "Ciało żołnierza w pobliżu cmentarza. Ustalają, co się stało",
       "originalDescription": "Żandarmeria Wojskowa i policja ustalają, co się stało przy ulicy Spokojnej w Stargardzie (Zachodniopomorskie). Rano znaleziono tam ciało żołnierza."
     },
     {
-      "title": "Radni kłócili się o potańcówkę, jeden z nich zmarł",
+      "title": "Radni kłócili się o imprezę, jeden zmarł w szpitalu",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-emocjonujaca-dyskusja-na-sesji-o-potancowce-radny-zaslabl-st8912203?source=rss",
       "pubDate": "Sat, 21 Feb 2026 10:34:20 GMT",
-      "description": "• Na 39. nadzwyczajnej sesji Rady Miejskiej w Radomiu nie zabrakło skrajnych emocji.\n• Rozgorzała dyskusja o \"Potańcówce w klimacie PRL\".\n• Dyskusja o \"Potańcówce w klimacie PRL\" oburzyła samorządowców z PiS.\n• W czasie burzliwych obrad zasłabł jeden z radnych.\n• W niedzielę pojawiła się informacja o śmierci radnego, który zasłabł podczas sesji.",
+      "description": "Na 39. nadzwyczajnej sesji Rady Miejskiej w Radomiu nie zabrakło skrajnych emocji. Rozgorzała dyskusja o \"Potańcówce w klimacie PRL\", która oburzyła samorządowców z PiS. W czasie burzliwych obrad zasłabł jeden z radnych. W niedzielę pojawiła się informacja o jego śmierci.",
       "originalTitle": "Radni pokłócili się o potańcówkę w klimacie PRL. Jeden z nich dostał wylewu i zmarł w szpitalu",
       "originalDescription": "Na 39. nadzwyczajnej sesji Rady Miejskiej w Radomiu nie zabrakło skrajnych emocji. Rozgorzała dyskusja o \"Potańcówce w klimacie PRL\", która oburzyła samorządowców z PiS. W czasie burzliwych obrad zasłabł jeden z radnych. W niedzielę pojawiła się informacja o jego śmierci."
     },
     {
-      "title": "Interwencja przy kościele, 7 mandatów",
+      "title": "Karuzela przy kościele. Siedem mandatów i interwencja metropolity",
       "link": "https://tvn24.pl/krakow/zakopane-przy-kosciele-stanela-karuzela-interweniuje-grzegorz-rys-st8913437?source=rss",
       "pubDate": "Sun, 22 Feb 2026 13:26:24 GMT",
       "description": "Karuzela na placu przy kościele pw. Św. Rodziny przy dolnych Krupówkach w Zakopanem zniknęła, ale ksiądz, który wydzierżawił pod nią teren, wciąż ma kłopoty. Straż miejska sporządziła wniosek do sądu o ukaranie. Sprawa budzi kontrowersje, bo kościół przy którym stanęła karuzela, to jeden z najsłynniejszych zabytków Zakopanego. Z proboszczem oraz z burmistrzem Zakopanego chce spotkać się kardynał Grzegorz Ryś.",
@@ -66,22 +82,6 @@
       "description": "To było nietypowe włamanie. 27-latek wywarzył drzwi jednego z domów w gminie Radzyń Podlaski (Lubelskie), zjadł kiełbasę z lodówki, następnie założył skarpetki i klapki właściciela domu, a potem położył się w łóżku i zasnął. Gdy zbudzili go policjanci, powiedział: myślałem, że gram w grę.",
       "originalTitle": "Wyważył drzwi, zjadł kiełbasę, nałożył skarpetki właściciela domu i zasnął. Obudziła go policja",
       "originalDescription": "To było nietypowe włamanie. 27-latek wywarzył drzwi jednego z domów w gminie Radzyń Podlaski (Lubelskie), zjadł kiełbasę z lodówki, następnie założył skarpetki i klapki właściciela domu, a potem położył się w łóżku i zasnął. Gdy zbudzili go policjanci, powiedział: myślałem, że gram w grę."
-    },
-    {
-      "title": "Wróciły tam po prawie 200 latach. \"Ogromne osiągnięcie\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/galapagos-zolwie-wrocily-tam-po-prawie-200-latach-ogromne-osiagniecie-st8913386?source=rss",
-      "pubDate": "Sun, 22 Feb 2026 12:41:49 GMT",
-      "description": "Archipelag Galapagos to unikalne miejsce na Ziemi. Dzięki pracy przyrodników na jedną z wysp tego regionu powróciły żółwie, które wyginęły tam w XIX wieku. Ich wypuszczenie na wolność nie należało do najłatwiejszych.",
-      "originalTitle": "Wróciły tam po prawie 200 latach. \"Ogromne osiągnięcie\"",
-      "originalDescription": "Archipelag Galapagos to unikalne miejsce na Ziemi. Dzięki pracy przyrodników na jedną z wysp tego regionu powróciły żółwie, które wyginęły tam w XIX wieku. Ich wypuszczenie na wolność nie należało do najłatwiejszych."
-    },
-    {
-      "title": "Hołownia \"jako pierwszy zdezerterował\". \"Zostawił nas, kiedy zaczęliśmy szorować po dnie\"",
-      "link": "https://tvn24.pl/polska/rozlam-w-polsce-2050-komentarze-politykow-st8913200?source=rss",
-      "pubDate": "Sun, 22 Feb 2026 12:26:09 GMT",
-      "description": "Demokracja nie kończy się na wyborze przewodniczącej, demokracja powinna być również w klubie. To nam zostało odebrane - mówiła w \"Kawie na Ławę\" w TVN24 Aleksandra Leo, która odeszła z Polski 2050. - Prym musi wieść teraz nowa przewodnicząca - ocenił z kolei wicemarszałek Senatu Maciej Żywno, który pozostał w Polsce 2050. Politycy dyskutowali także o tym, kto może zostać kandydatem na premiera w PiS.",
-      "originalTitle": "Hołownia \"jako pierwszy zdezerterował\". \"Zostawił nas, kiedy zaczęliśmy szorować po dnie\"",
-      "originalDescription": "Demokracja nie kończy się na wyborze przewodniczącej, demokracja powinna być również w klubie. To nam zostało odebrane - mówiła w \"Kawie na Ławę\" w TVN24 Aleksandra Leo, która odeszła z Polski 2050. - Prym musi wieść teraz nowa przewodnicząca - ocenił z kolei wicemarszałek Senatu Maciej Żywno, który pozostał w Polsce 2050. Politycy dyskutowali także o tym, kto może zostać kandydatem na premiera w PiS."
     }
   ]
 }
