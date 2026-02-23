@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-02-23T06:53:56.156Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-02-23T07:28:10.778Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Policja ostrzega w Rudzie Śląskiej",
+      "link": "https://tvn24.pl/katowice/ruda-slaska-bryla-lodu-z-samochodu-spadla-pod-kola-radiowozu-nagranie-st8914099?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 07:17:39 GMT",
+      "description": "• Policjanci jechali nieoznakowanym radiowozem.\n• Radiowóz poruszał się autostradą A4.\n• Zdarzenie miało miejsce w Rudzie Śląskiej.\n• Z dachu poprzedzającego ich samochodu spadła bryła lodu.\n• Policjanci zatrzymali kierowcę samochodu, z którego spadła bryła lodu.\n• Pokazali kierowcy nagranie zdarzenia.\n• Kierowca był w szoku po obejrzeniu nagrania.",
+      "originalTitle": "\"Oszukać przeznaczenie\" w Rudzie Śląskiej. Policja ostrzega",
+      "originalDescription": "Policjanci w nieoznakowanym radiowozie jechali autostradą A4 a Rudzie Śląskiej, gdy nagle z dachu poprzedzającego ich samochodu spadła bryła lodu. Zatrzymali kierowcę i pokazali mu nagranie. Mężczyzna był w szoku."
+    },
+    {
+      "title": "Gospodarka w ostatnim tygodniu lutego",
+      "link": "https://tvn24.pl/biznes/rynki/tydzien-na-rynkach-dane-o-sprzedazy-detalicznej-rating-fitch-cla-trumpa-i-geopolityka-st8914057?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 07:06:25 GMT",
+      "description": "• Najbliższy tydzień będzie obfitował w wydarzenia, które mogą mieć duże oddziaływanie na rynkach.\n• Wydarzenia te będą miały wpływ na rynki polskie i światowe.\n• Przedstawione zostaną dane o sprzedaży detalicznej w Polsce.\n• Przedstawione zostaną dane o bezrobociu w Polsce.\n• Agencja Fitch oceni rating Polski.\n• Unia Europejska ogłosi dane o inflacji w strefie euro.\n• Dane o inflacji w strefie euro dotyczyć będą stycznia.\n• Inwestorzy będą obserwowali rozwój sytuacji dotyczącej amerykańskich ceł.\n• Inwestorzy będą obserwowali rozwój sytuacji dotyczącej geopolityki.",
+      "originalTitle": "Tak będzie wyglądał ostatni tydzień lutego w gospodarce",
+      "originalDescription": "Najbliższy tydzień będzie obfitował w wydarzenia, które mogą mieć duże oddziaływanie na rynkach - i polskim i światowych. Przedstawione zostaną dane o sprzedaży detalicznej i bezrobociu w Polsce, agencja Fitch oceni rating naszego kraju, a Unia Europejska ogłosi, jak wysoka była inflacja w styczniu w strefie euro. Jednocześnie inwestorzy będą obserwowali rozwój sytuacji dotyczącej amerykańskich ceł i geopolityki."
+    },
+    {
+      "title": "Stanowisko prezydenta w sprawie UE",
+      "link": "https://tvn24.pl/polska/pomysl-prezydenta-zaprzeczeniem-idei-czlonkostwa-w-ue-st8914058?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 07:06:20 GMT",
+      "description": "• Prezes Naczelnej Rady Adwokackiej to Przemysław Rosati.\n• Przemysław Rosati wypowiedział się w programie \"Rozmowa Piaseckiego\" w TVN24.\n• Przemysław Rosati komentował prezydencki projekt ustawy o sądownictwie.\n• Prezes Naczelnej Rady Adwokackiej wyraził obawę, że taka filozofia pisania prawa w Polsce może doprowadzić do otwarcia kolejnych konfliktów z Unią Europejską.",
+      "originalTitle": "Pomysł prezydenta \"zaprzeczeniem idei członkostwa\" w UE",
+      "originalDescription": "Jeśli taka filozofia pisania prawa w Polsce kiedykolwiek by zwyciężyła, to jesteśmy na bardzo prostej drodze, aby otwierać kolejne konflikty z Unią Europejską - powiedział prezes Naczelnej Rady Adwokackiej Przemysław Rosati w \"Rozmowie Piaseckiego\" w TVN24, komentując prezydencki projekt ustawy o sądownictwie."
+    },
+    {
+      "title": "Kontrola umów PZPN z Publicon Sport ujawniła niekorzystne zapisy",
+      "link": "https://tvn24.pl/polska/w-zwiazku-z-pieniedzmi-wyniku-audytu-w-pzpn-po-reportazu-czarno-na-bialym-st8913703?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 06:53:31 GMT",
+      "description": "• Błędne naliczanie prowizji było jednym z wniosków pokontrolnych.\n• Brak prawidłowego nadzoru nad realizacją umów był jednym z wniosków pokontrolnych.\n• Wiele niekorzystnych zapisów dla PZPN było jednym z wniosków pokontrolnych.\n• Kontrola dotyczyła umów Polskiego Związku Piłki Nożnej z pośrednikiem.\n• Kontrola umów potwierdziła wcześniejsze ustalenia.\n• Reporter \"Czarno na białym\" dotarł do wniosków pokontrolnych.",
+      "originalTitle": "\"Wiele niekorzystnych zapisów dla PZPN\". Miażdżące wyniki kontroli umów z Publicon Sport",
+      "originalDescription": "Błędne naliczanie prowizji, brak prawidłowego nadzoru nad realizacją umów, wiele niekorzystnych zapisów dla PZPN - to tylko niektóre z wniosków pokontrolnych, do których dotarł reporter \"Czarno na białym\". Kontrola umów Polskiego Związku Piłki Nożnej z pośrednikiem potwierdziła nasze wcześniejsze ustalenia."
+    },
+    {
+      "title": "Nor'easter pojawia się po 30 latach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-nor-easter-pierwszy-taki-alert-od-trzech-dekad-setki-tysiecy-bez-pradu-st8914044?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 06:51:31 GMT",
+      "description": "• Śnieżyce nawiedziły wschodnią część Stanów Zjednoczonych.\n• W Nowym Jorku w ciągu zaledwie godziny dosypało ponad 5 centymetrów śniegu.\n• Ponad 115 tysięcy odbiorców w kilku stanach straciło już dostęp do prądu.\n• Występują poważne utrudnienia komunikacyjne.",
+      "originalTitle": "Pierwszy taki alert od trzech dekad. Nor'easter szaleje",
+      "originalDescription": "Śnieżyce nawiedziły wschodnią część Stanów Zjednoczonych. W Nowym Jorku w ciągu zaledwie godziny dosypało ponad 5 centymetrów śniegu. Jak podały lokalne media, ponad 115 tysięcy odbiorców w kilku stanach straciło już dostęp do prądu, występują także poważne utrudnienia komunikacyjne."
+    },
+    {
+      "title": "Lewe zwolnienia i ich przyczyny",
+      "link": "https://tvn24.pl/biznes/pieniadze/tak-typuja-lewe-zwolnienia-i-nie-tylko-niewidoczne-golym-okiem-st8910599?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 06:43:45 GMT",
+      "description": "Algorytmy coraz częściej wspomagają urzędników w podejmowaniu decyzji. W Polsce takie narzędzia wykorzystuje między innymi Zakład Ubezpieczeń Społecznych, także przy typowaniu do kontroli osób na L4. Problem w tym, że ich działanie pozostaje w dużej mierze niewidoczne, a doświadczenia z Polski i innych krajów pokazują, że mogą się istotnie mylić. I prowadzić do potężnych kosztów - a nawet politycznych trzęsień ziemi.",
+      "originalTitle": "Tak typują lewe zwolnienia i nie tylko. \"Niewidoczne gołym okiem\"",
+      "originalDescription": "Algorytmy coraz częściej wspomagają urzędników w podejmowaniu decyzji. W Polsce takie narzędzia wykorzystuje między innymi Zakład Ubezpieczeń Społecznych, także przy typowaniu do kontroli osób na L4. Problem w tym, że ich działanie pozostaje w dużej mierze niewidoczne, a doświadczenia z Polski i innych krajów pokazują, że mogą się istotnie mylić. I prowadzić do potężnych kosztów - a nawet politycznych trzęsień ziemi."
+    },
+    {
+      "title": "BAFTA 2026: nagrody dla wielu laureatów",
+      "link": "https://tvn24.pl/kultura-i-styl/jedna-bitwa-po-drugiej-wielkim-wygranym-bafta-2026-st8914023?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 06:31:11 GMT",
+      "description": "\"Jedna bitwa po drugiej\" Paula Thomasa Andersona zdobyła sześć statuetek BAFTA - w tym dla najlepszego filmu, za reżyserię oraz dla Seana Penna jako najlepszego aktora drugoplanowego. Trzy statuetki otrzymali \"Grzesznicy\" Ryana Cooglera. Oba filmy to produkcje Warner Bros. Discovery.",
+      "originalTitle": "\"Jedna bitwa po drugiej\" wielkim wygranym BAFTA 2026",
+      "originalDescription": "\"Jedna bitwa po drugiej\" Paula Thomasa Andersona zdobyła sześć statuetek BAFTA - w tym dla najlepszego filmu, za reżyserię oraz dla Seana Penna jako najlepszego aktora drugoplanowego. Trzy statuetki otrzymali \"Grzesznicy\" Ryana Cooglera. Oba filmy to produkcje Warner Bros. Discovery."
+    },
+    {
+      "title": "UE odpowiada Trumpowi na podwyżki ceł. \"Umowa to umowa\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ue-zada-od-trumpa-stosowania-sie-do-umowy-celnej-nie-zgadza-sie-na-wyzsze-taryfy-st8914039?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 05:56:02 GMT",
+      "description": "Komisja Europejska zażądała w niedzielę od Stanów Zjednoczonych przestrzegania warunków porozumienia handlowego. Wydała oświadczenie, w którym stwierdzono, że podwyżki ceł amerykańskich nie zostaną zaakceptowane.",
+      "originalTitle": "UE odpowiada Trumpowi na podwyżki ceł. \"Umowa to umowa\"",
+      "originalDescription": "Komisja Europejska zażądała w niedzielę od Stanów Zjednoczonych przestrzegania warunków porozumienia handlowego. Wydała oświadczenie, w którym stwierdzono, że podwyżki ceł amerykańskich nie zostaną zaakceptowane."
+    },
+    {
+      "title": "Mieszkańcy nie chcieli \"autostrady\" pod oknami. Urzędnicy zmienili plany",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-mieszkancy-nie-chcieli-autostrady-pod-oknami-urzednicy-zmienili-plany-przebudowy-ulicy-bartyckiej-st8903368?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 05:36:26 GMT",
+      "description": "Urzędnicy przygotowują się do przebudowy ulicy Bartyckiej. To ważna, ale bardzo zaniedbana arteria, która stanowi najkrótszą drogę do centrum z osiedli we wschodniej części Mokotowa. Jeszcze kilka lat temu planowano w jej miejscu przeskalowaną \"autostradę\", której sprzeciwiali się mieszkańcy. Teraz plan uległ zmianie.",
+      "originalTitle": "Mieszkańcy nie chcieli \"autostrady\" pod oknami. Urzędnicy zmienili plany",
+      "originalDescription": "Urzędnicy przygotowują się do przebudowy ulicy Bartyckiej. To ważna, ale bardzo zaniedbana arteria, która stanowi najkrótszą drogę do centrum z osiedli we wschodniej części Mokotowa. Jeszcze kilka lat temu planowano w jej miejscu przeskalowaną \"autostradę\", której sprzeciwiali się mieszkańcy. Teraz plan uległ zmianie."
+    },
+    {
+      "title": "Chaos w Meksyku. Komunikat polskiej ambasady",
+      "link": "https://tvn24.pl/swiat/meksyk-zamieszki-po-zabiciu-el-mencho-ambasada-rp-apeluje-do-polakow-st8914027?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 05:31:44 GMT",
+      "description": "Ambasada RP w Meksyku wydała instrukcje dla polskich obywateli przebywających w kraju w związku z nasilającymi się aktami przemocy. Do zamieszek, podpaleń i chaosu doszło po zabiciu przez siły bezpieczeństwa barona narkotykowego El Mencho.",
+      "originalTitle": "Chaos w Meksyku. Komunikat polskiej ambasady",
+      "originalDescription": "Ambasada RP w Meksyku wydała instrukcje dla polskich obywateli przebywających w kraju w związku z nasilającymi się aktami przemocy. Do zamieszek, podpaleń i chaosu doszło po zabiciu przez siły bezpieczeństwa barona narkotykowego El Mencho."
+    }
+  ]
 }
