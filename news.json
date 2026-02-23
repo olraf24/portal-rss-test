@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-02-23T05:55:07.703Z",
+  "lastUpdate": "2026-02-23T06:29:10.842Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "UE reaguje na podwyżki ceł USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ue-zada-od-trumpa-stosowania-sie-do-umowy-celnej-nie-zgadza-sie-na-wyzsze-taryfy-st8914039?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 05:56:02 GMT",
+      "description": "Komisja Europejska zażądała w niedzielę od Stanów Zjednoczonych przestrzegania warunków porozumienia handlowego. Wydała oświadczenie, w którym stwierdzono, że podwyżki ceł amerykańskich nie zostaną zaakceptowane.",
+      "originalTitle": "UE odpowiada Trumpowi na podwyżki ceł. \"Umowa to umowa\"",
+      "originalDescription": "Komisja Europejska zażądała w niedzielę od Stanów Zjednoczonych przestrzegania warunków porozumienia handlowego. Wydała oświadczenie, w którym stwierdzono, że podwyżki ceł amerykańskich nie zostaną zaakceptowane."
+    },
     {
       "title": "Zmiany w planach budowy drogi",
       "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-mieszkancy-nie-chcieli-autostrady-pod-oknami-urzednicy-zmienili-plany-przebudowy-ulicy-bartyckiej-st8903368?source=rss",
@@ -12,10 +20,10 @@
       "originalDescription": "Urzędnicy przygotowują się do przebudowy ulicy Bartyckiej. To ważna, ale bardzo zaniedbana arteria, która stanowi najkrótszą drogę do centrum z osiedli we wschodniej części Mokotowa. Jeszcze kilka lat temu planowano w jej miejscu przeskalowaną \"autostradę\", której sprzeciwiali się mieszkańcy. Teraz plan uległ zmianie."
     },
     {
-      "title": "Polska ambasada w Meksyku informuje",
+      "title": "Polska ambasada wydaje komunikat na temat sytuacji w Meksyku",
       "link": "https://tvn24.pl/swiat/zamieszki-po-zabiciu-el-mencho-ambasada-rp-w-meksyku-apeluje-do-polakow-st8914027?source=rss",
       "pubDate": "Mon, 23 Feb 2026 05:31:44 GMT",
-      "description": "• Ambasada RP w Meksyku wydała instrukcje dla polskich obywateli przebywających w kraju.\n• Instrukcje te zostały wydane w związku z nasilającymi się aktami przemocy.\n• Do zamieszek, podpaleń i chaosu doszło po zabiciu przez siły bezpieczeństwa barona narkotykowego.\n• Baron narkotykowy, który został zabity, to El Mencho.",
+      "description": "• Ambasada RP w Meksyku wydała instrukcje dla polskich obywateli przebywających w kraju.\n• Instrukcje zostały wydane w związku z nasilającymi się aktami przemocy.\n• Do zamieszek, podpaleń i chaosu doszło po zabiciu przez siły bezpieczeństwa barona narkotykowego.\n• Baron narkotykowy, który został zabity, to El Mencho.",
       "originalTitle": "Chaos w Meksyku. Komunikat polskiej ambasady",
       "originalDescription": "Ambasada RP w Meksyku wydała instrukcje dla polskich obywateli przebywających w kraju w związku z nasilającymi się aktami przemocy. Do zamieszek, podpaleń i chaosu doszło po zabiciu przez siły bezpieczeństwa barona narkotykowego El Mencho."
     },
@@ -28,7 +36,7 @@
       "originalDescription": "Pogoda w Polsce. IMGW wydał alarmy meteorologiczne. W poniedziałek rano drogi w części kraju są niebezpiecznie śliskie. Obowiązują także alarmy przed roztopami."
     },
     {
-      "title": "Wydarzenia w Meksyku i zakończenie igrzysk",
+      "title": "Chaos w Meksyku, koniec olimpijskich zmagań, groźby Orbana",
       "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-poniedzialek-23-lutego-najwazniejsze-informacje-st8914017?source=rss",
       "pubDate": "Mon, 23 Feb 2026 05:01:20 GMT",
       "description": "Zamieszki w Meksyku po śmierci barona narkotykowego. Zakończenie zimowych igrzysk olimpijskich. Nagrody filmowe BAFTA. Strzały na terenie posiadłości Donalda Trumpa. Groźby Viktora Orbana wobec Ukrainy. Oto pięć rzeczy, które warto wiedzieć w poniedziałek 23 lutego.",
@@ -36,7 +44,7 @@
       "originalDescription": "Zamieszki w Meksyku po śmierci barona narkotykowego. Zakończenie zimowych igrzysk olimpijskich. Nagrody filmowe BAFTA. Strzały na terenie posiadłości Donalda Trumpa. Groźby Viktora Orbana wobec Ukrainy. Oto pięć rzeczy, które warto wiedzieć w poniedziałek 23 lutego."
     },
     {
-      "title": "Premier Słowacji wnioskuje o wstrzymanie dostaw energii",
+      "title": "Premier Słowacji: zwrócę się o wstrzymanie dostaw energii do Ukrainy",
       "link": "https://tvn24.pl/swiat/premier-slowacji-zwroce-sie-o-wstrzymanie-dostaw-energii-do-ukrainy-st8914015?source=rss",
       "pubDate": "Mon, 23 Feb 2026 04:49:00 GMT",
       "description": "Premier Słowacji Robert Fico powtórzył w niedzielę groźby, że jego kraj wstrzyma awaryjne dostawy energii elektrycznej na Ukrainę. - Jeśli prezydent Ukrainy sugeruje nam, że powinniśmy kupować gaz i ropę gdzie indziej niż w Rosji, mimo że jest to trudniejsze i droższe, a my tracimy duże pieniądze, mamy prawo odpowiedzieć - oświadczył w nagraniu.",
@@ -74,14 +82,6 @@
       "description": "Jeżeli temperatura ciała spadnie poniżej 32 stopni Celsjusza, dochodzi do zaburzeń świadomości. Poniżej 28 stopni następuje utrata przytomności, a serce bije o wiele wolniej. Poniżej 26 stopni - zatrzymanie krążenia i brak objawów życiowych. W szpitalu w Łodzi lekarze uratowali pacjenta, którego serce przestało już bić.",
       "originalTitle": "Tak lekarze z Łodzi przywrócili pana Tomasza do życia",
       "originalDescription": "Jeżeli temperatura ciała spadnie poniżej 32 stopni Celsjusza, dochodzi do zaburzeń świadomości. Poniżej 28 stopni następuje utrata przytomności, a serce bije o wiele wolniej. Poniżej 26 stopni - zatrzymanie krążenia i brak objawów życiowych. W szpitalu w Łodzi lekarze uratowali pacjenta, którego serce przestało już bić."
-    },
-    {
-      "title": "USA. Odwołane loty, zakaz przemieszczania się",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-nor-easter-pogoda-atak-zimy-ostrzezenia-dla-prawie-100-milionow-amerykanow-nadchodzi-potezna-sniezyca-st8913067?source=rss",
-      "pubDate": "Sun, 22 Feb 2026 07:07:54 GMT",
-      "description": "Część Stanów Zjednoczonych przygotowuje się na uderzenie potężnego cyklonu. Nor’easter ma przynieść intensywne opady śniegu oraz gwałtowne zamiecie śnieżne. Możliwy jest paraliż komunikacyjny.",
-      "originalTitle": "USA. Odwołane loty, zakaz przemieszczania się",
-      "originalDescription": "Część Stanów Zjednoczonych przygotowuje się na uderzenie potężnego cyklonu. Nor’easter ma przynieść intensywne opady śniegu oraz gwałtowne zamiecie śnieżne. Możliwy jest paraliż komunikacyjny."
     }
   ]
 }
