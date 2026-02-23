@@ -1,10 +1,50 @@
 {
-  "lastUpdate": "2026-02-23T14:22:53.432Z",
+  "lastUpdate": "2026-02-23T14:47:54.981Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Różnice między psychologiem, psychoterapeutą i psychiatrą",
+      "title": "Tusk skomentował",
+      "link": "https://tvn24.pl/biznes/z-kraju/premier-donald-tusk-dotarlo-zakute-lby-st8915205?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 14:44:51 GMT",
+      "description": "• Donald Tusk w ostrych słowach odniósł się do sporu o wydatkowanie środków z unijnego programu SAFE.\n• Spór dotyczy między innymi wydatkowania środków na rozwój Huty Stalowa Wola.\n• Premier podkreślił, że 20 miliardów złotych ma być przeznaczone tylko dla tej huty.",
+      "originalTitle": "Tusk: dotarło, zakute łby?",
+      "originalDescription": "Donald Tusk w ostrych słowach odniósł się do sporu o wydatkowanie środków z unijnego programu SAFE, między innymi na rozwój Huty Stalowa Wola. - 20 miliardów złotych tylko dla tej huty - podkreślił premier."
+    },
+    {
+      "title": "MZ publikuje rekomendacje dla Centrów Zdrowia Psychicznego",
+      "link": "https://tvn24.pl/zdrowie/przyszlosc-centrow-zdrowia-psychicznego-raport-ministerstwa-zdrowia-po-siedmiu-latach-pilotazu-st8915184?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 14:25:10 GMT",
+      "description": "• Po siedmiu latach pilotażu Ministerstwo Zdrowia publikuje raport, który ma przesądzić o przyszłości Centrów Zdrowia Psychicznego.\n• Eksperci rekomendują potrójny system finansowania.\n• Eksperci rekomendują utrzymanie trzystopniowego modelu opieki.\n• Zapotrzebowanie na pomoc psychiatryczną będzie w najbliższych latach dynamicznie rosnąć.",
+      "originalTitle": "Jaki model dla Centrów Zdrowia Psychicznego po pilotażu? MZ publikuje rekomendacje",
+      "originalDescription": "Po siedmiu latach pilotażu Ministerstwo Zdrowia publikuje raport, który ma przesądzić o przyszłości Centrów Zdrowia Psychicznego. Eksperci rekomendują potrójny system finansowania oraz utrzymanie trzystopniowego modelu opieki, podkreślając, że zapotrzebowanie na pomoc psychiatryczną będzie w najbliższych latach dynamicznie rosnąć."
+    },
+    {
+      "title": "Pogoda: śnieg i mróz, następnie ocieplenie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-bedzie-dynamiczna-10-centymetrow-sniegu-tegi-nocny-mroz-i-naplyw-goraca-znad-afryki-st8915204?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 14:22:27 GMT",
+      "description": "Pogoda w Polsce. Wyż zaciągający zimne powietrze z północy będzie próbował powstrzymać odwilż. Choć miejscami przyniesie całkiem spory mróz, to na dłuższą metę mu się to nie uda. Już w połowie tygodnia Polska dostanie się bowiem pod wpływ wyżu z południa, który przyniesie bardzo wysokie temperatury jak na luty.",
+      "originalTitle": "Pogoda będzie dynamiczna. 10 centymetrów śniegu, tęgi nocny mróz i napływ \"gorąca\" znad Afryki",
+      "originalDescription": "Pogoda w Polsce. Wyż zaciągający zimne powietrze z północy będzie próbował powstrzymać odwilż. Choć miejscami przyniesie całkiem spory mróz, to na dłuższą metę mu się to nie uda. Już w połowie tygodnia Polska dostanie się bowiem pod wpływ wyżu z południa, który przyniesie bardzo wysokie temperatury jak na luty."
+    },
+    {
+      "title": "Sikorski: to się spotkało z powszechnym niezadowoleniem",
+      "link": "https://tvn24.pl/biznes/ze-swiata/radoslaw-sikorski-to-sie-spotkalo-z-powszechnym-niezadowoleniem-st8914196?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 08:10:36 GMT",
+      "description": "Węgry chcą zablokować 20. pakiet sankcji Unii Europejskiej wobec Rosji. - Tutaj Węgry szantażują Ukrainę, kolejny zresztą raz - stwierdził polski minister spraw zagranicznych Radosław Sikorski.",
+      "originalTitle": "Sikorski: to się spotkało z powszechnym niezadowoleniem",
+      "originalDescription": "Węgry chcą zablokować 20. pakiet sankcji Unii Europejskiej wobec Rosji. - Tutaj Węgry szantażują Ukrainę, kolejny zresztą raz - stwierdził polski minister spraw zagranicznych Radosław Sikorski."
+    },
+    {
+      "title": "Szef brytyjskiego rządu w powiecie kolskim. \"Wizyta prywatna\"",
+      "link": "https://tvn24.pl/poznan/budzislaw-stary-powiat-kolski-szef-brytyjskiego-rzadu-w-powiecie-kolskim-byla-to-wizyta-prywatna-st8915146?source=rss",
+      "pubDate": "Mon, 23 Feb 2026 14:21:02 GMT",
+      "description": "Szef brytyjskiego rządu Keir Starmer odwiedził kilka dni temu jedną z miejscowości w powiecie kolskim (województwo wielkopolskie). Była to nieoficjalna, prywatna wizyta.",
+      "originalTitle": "Szef brytyjskiego rządu w powiecie kolskim. \"Wizyta prywatna\"",
+      "originalDescription": "Szef brytyjskiego rządu Keir Starmer odwiedził kilka dni temu jedną z miejscowości w powiecie kolskim (województwo wielkopolskie). Była to nieoficjalna, prywatna wizyta."
+    },
+    {
+      "title": "Psycholog, psychoterapeuta, psychiatra. Czy Polacy wiedzą, kto pomaga w depresji?",
       "link": "https://tvn24.pl/zdrowie/psycholog-psychoterapeuta-psychiatra-czy-polacy-wiedza-kto-pomaga-w-depresji-st8915139?source=rss",
       "pubDate": "Mon, 23 Feb 2026 14:15:00 GMT",
       "description": "Mimo rosnącej świadomości na temat zdrowia psychicznego, Polacy wciąż z rezerwą podchodzą do korzystania z pomocy specjalistów. Często nie potrafią odróżnić psychoterapeuty od psychiatry - wynika z raportu Instytutu Psychologii PAN. W społeczeństwie funkcjonują też błędne przekonania na temat pracy psychologów. - Pacjenci obawiają się, że terapeuta będzie \"czytał w myślach\" lub rozwiązywał problemy za nich - mówi w rozmowie z tvn24.pl prof. Łukasz Gawęda z Instytutu Psychologii Polskiej Akademii Nauk.",
@@ -12,76 +52,36 @@
       "originalDescription": "Mimo rosnącej świadomości na temat zdrowia psychicznego, Polacy wciąż z rezerwą podchodzą do korzystania z pomocy specjalistów. Często nie potrafią odróżnić psychoterapeuty od psychiatry - wynika z raportu Instytutu Psychologii PAN. W społeczeństwie funkcjonują też błędne przekonania na temat pracy psychologów. - Pacjenci obawiają się, że terapeuta będzie \"czytał w myślach\" lub rozwiązywał problemy za nich - mówi w rozmowie z tvn24.pl prof. Łukasz Gawęda z Instytutu Psychologii Polskiej Akademii Nauk."
     },
     {
-      "title": "Minister przedstawia plan wsparcia psychologicznego",
+      "title": "Wsparcie psychologiczne dla służb. Minister zapowiada dwa filary",
       "link": "https://tvn24.pl/polska/wsparcie-psychologiczne-dla-sluzb-szef-mswia-marcin-kierwinski-zapowiada-nowy-zespol-st8914812?source=rss",
       "pubDate": "Mon, 23 Feb 2026 14:14:10 GMT",
-      "description": "• Minister spraw wewnętrznych i administracji Marcin Kierwiński zapowiedział utworzenie zespołu doradczego.\n• Zespół doradczy ma zająć się usprawnieniem systemu pomocy psychologicznej dla funkcjonariuszy.\n• Chodzi o dwa filary wsparcia.\n• Pierwszy filar to pomocy świadczonej przez placówki ochrony zdrowia.\n• Drugi filar to wsparcie bezpośrednie udzielane przez psychologów.",
+      "description": "Minister spraw wewnętrznych i administracji Marcin Kierwiński zapowiedział utworzenie zespołu doradczego, który ma zająć się usprawnieniem systemu pomocy psychologicznej dla funkcjonariuszy. Podkreślił, że chodzi o dwa filary wsparcia - pomocy świadczonej przez placówki ochrony zdrowia oraz wsparcie bezpośrednie udzielane przez psychologów.",
       "originalTitle": "Wsparcie psychologiczne dla służb. Minister zapowiada dwa filary",
       "originalDescription": "Minister spraw wewnętrznych i administracji Marcin Kierwiński zapowiedział utworzenie zespołu doradczego, który ma zająć się usprawnieniem systemu pomocy psychologicznej dla funkcjonariuszy. Podkreślił, że chodzi o dwa filary wsparcia - pomocy świadczonej przez placówki ochrony zdrowia oraz wsparcie bezpośrednie udzielane przez psychologów."
     },
     {
-      "title": "Dokument budzi wątpliwości co do autentyczności",
+      "title": "\"Przecież to jest podrobiony dokument, co mi pan daje?\"",
       "link": "https://tvn24.pl/wroclaw/siechnice-pokazal-falszywe-prawo-jazdy-trafil-do-aresztu-st8915161?source=rss",
       "pubDate": "Mon, 23 Feb 2026 14:02:29 GMT",
-      "description": "• Podczas kontroli w podwrocławskich Siechnicach kierowca pokazał policjantom podrobione prawo jazdy.\n• Kierowca nie chciał powiedzieć, skąd ma podrobione prawo jazdy.\n• Kierowca został zatrzymany.\n• Kierowcy grozi nawet pięć lat więzienia.",
+      "description": "Podczas kontroli w podwrocławskich Siechnicach kierowca pokazał policjantom podrobione prawo jazdy. Nie chciał powiedzieć, skąd je ma. Został zatrzymany, grozi mu nawet pięć lat więzienia.",
       "originalTitle": "\"Przecież to jest podrobiony dokument, co mi pan daje?\"",
       "originalDescription": "Podczas kontroli w podwrocławskich Siechnicach kierowca pokazał policjantom podrobione prawo jazdy. Nie chciał powiedzieć, skąd je ma. Został zatrzymany, grozi mu nawet pięć lat więzienia."
     },
     {
-      "title": "Premier Australii wspiera decyzję w sprawie byłego księcia",
+      "title": "\"Zgadzam się\". Premier Australii popiera kolejny krok w sprawie byłego księcia",
       "link": "https://tvn24.pl/swiat/byly-ksiaze-andrzej-premier-australii-popiera-kolejny-krok-w-sprawie-brata-karola-iii-st8915133?source=rss",
       "pubDate": "Mon, 23 Feb 2026 14:00:54 GMT",
-      "description": "• Nawiązując do oświadczenia wydanego w czwartek przez króla Karola III\n• Premier Australii wydał list do Keira Starmera\n• W liście premier Australii zadeklarował poparcie dla usunięcie byłego księcia Andrzeja z linii sukcesji\n• W tej sprawie muszą wypowiedzieć się też inne państwa\n• Państwa, które muszą wypowiedzieć się w tej sprawie, mają brytyjskiego monarchę jako głowę państwa",
+      "description": "Nawiązując do oświadczenia wydanego w czwartek przez króla Karola III, premier Australii w liście do Keira Starmera zadeklarował poparcie dla usunięcie byłego księcia Andrzeja z linii sukcesji. W tej sprawie muszą wypowiedzieć się też inne państwa, których głową jest brytyjski monarcha.",
       "originalTitle": "\"Zgadzam się\". Premier Australii popiera kolejny krok w sprawie byłego księcia",
       "originalDescription": "Nawiązując do oświadczenia wydanego w czwartek przez króla Karola III, premier Australii w liście do Keira Starmera zadeklarował poparcie dla usunięcie byłego księcia Andrzeja z linii sukcesji. W tej sprawie muszą wypowiedzieć się też inne państwa, których głową jest brytyjski monarcha."
     },
     {
-      "title": "Powiązanie z aferą Epsteina: powołano zespół",
+      "title": "Zespół Żurka powołany. Kolejny ruch w sprawie polskich wątków w aferze Epsteina",
       "link": "https://tvn24.pl/polska/polskie-watki-w-sprawie-jeffreya-epsteina-powolano-zespol-sledczy-numer-piec-st8914821?source=rss",
       "pubDate": "Mon, 23 Feb 2026 12:40:17 GMT",
       "description": "Przyspieszają działania Ministerstwa Sprawiedliwości i Prokuratury Krajowej dotyczące badania polskich wątków w aferze Epsteina. Minister sprawiedliwości w piątek powołał zespół analityczno-koordynacyjny do spraw polskich wątków w aferze Epsteina - ustalił reporter TVN24+ Patryk Michalski. W poniedziałek zespół śledczy powołał też prokurator krajowy Dariusz Korneluk.",
       "originalTitle": "Zespół Żurka powołany. Kolejny ruch w sprawie polskich wątków w aferze Epsteina",
       "originalDescription": "Przyspieszają działania Ministerstwa Sprawiedliwości i Prokuratury Krajowej dotyczące badania polskich wątków w aferze Epsteina. Minister sprawiedliwości w piątek powołał zespół analityczno-koordynacyjny do spraw polskich wątków w aferze Epsteina - ustalił reporter TVN24+ Patryk Michalski. W poniedziałek zespół śledczy powołał też prokurator krajowy Dariusz Korneluk."
-    },
-    {
-      "title": "Stosunki Ukrainy i Węgier napięte",
-      "link": "https://tvn24.pl/biznes/ze-swiata/ukraina-kontra-wegry-nie-ulegniemy-szantazowi-st8915172?source=rss",
-      "pubDate": "Mon, 23 Feb 2026 13:58:02 GMT",
-      "description": "Minister spraw zagranicznych Ukrainy Andrij Sybiha skrytykował postawę Węgier oraz Słowacji. Jego zdaniem Unia Europejska nie może dopuścić, by dalsza pomoc dla Kijowa stała się zależna od interesów dwóch krajów. Z kolei szef MSZ Węgier Peter Szijjarto stwierdził: \"Sytuacja jest prosta. Węgry i Słowacja są członkami Unii Europejskiej. Ukraina nie\".",
-      "originalTitle": "Ukraina kontra Węgry. \"Nie ulegniemy szantażowi\"",
-      "originalDescription": "Minister spraw zagranicznych Ukrainy Andrij Sybiha skrytykował postawę Węgier oraz Słowacji. Jego zdaniem Unia Europejska nie może dopuścić, by dalsza pomoc dla Kijowa stała się zależna od interesów dwóch krajów. Z kolei szef MSZ Węgier Peter Szijjarto stwierdził: \"Sytuacja jest prosta. Węgry i Słowacja są członkami Unii Europejskiej. Ukraina nie\"."
-    },
-    {
-      "title": "Pod 11-latką i wędkarzem załamał się lód, ruszyli z pomocą",
-      "link": "https://tvn24.pl/olsztyn/lidzbark-pod-11-latka-i-wedkarzem-zalamal-sie-lod-ruszyli-z-pomoca-wzielismy-galaz-i-poszlismy-st8914291?source=rss",
-      "pubDate": "Mon, 23 Feb 2026 13:51:10 GMT",
-      "description": "11-latka weszła na zamarznięte Jezioro Lidzbarskie, 50 metrów od brzegu załamał się pod nią lód. Do wody wpadł też wędkarz, który próbował jej pomóc. Z pomocą ruszyli pan Ryszard z kolegą. Jeszcze przed przyjazdem służb udało się ich wyciągnąć na brzeg.",
-      "originalTitle": "Pod 11-latką i wędkarzem załamał się lód, ruszyli z pomocą",
-      "originalDescription": "11-latka weszła na zamarznięte Jezioro Lidzbarskie, 50 metrów od brzegu załamał się pod nią lód. Do wody wpadł też wędkarz, który próbował jej pomóc. Z pomocą ruszyli pan Ryszard z kolegą. Jeszcze przed przyjazdem służb udało się ich wyciągnąć na brzeg."
-    },
-    {
-      "title": "Roztopy. Zalane piwnice, podwórka, drogi. Setki mieszkańców bez ogrzewania",
-      "link": "https://tvn24.pl/tvnmeteo/polska/odwilz-i-roztopy-od-lat-w-okresie-przedwiosnia-nie-bylo-az-tak-duzo-wody-st8914307?source=rss",
-      "pubDate": "Mon, 23 Feb 2026 09:44:58 GMT",
-      "description": "Odwilż w Polsce. W poniedziałek w części kraju pada deszcz, dochodzi do roztopów. Rośnie liczba interwencji strażaków związanych z zalewaniem dróg i posesji. W jednej z miejscowości woda zalała kotłownię, odcinając od ogrzewania setki mieszkańców.",
-      "originalTitle": "Roztopy. Zalane piwnice, podwórka, drogi. Setki mieszkańców bez ogrzewania",
-      "originalDescription": "Odwilż w Polsce. W poniedziałek w części kraju pada deszcz, dochodzi do roztopów. Rośnie liczba interwencji strażaków związanych z zalewaniem dróg i posesji. W jednej z miejscowości woda zalała kotłownię, odcinając od ogrzewania setki mieszkańców."
-    },
-    {
-      "title": "Depresja, hejt, przemoc. Dlaczego dzieci wciąż nie mają wystarczającej pomocy?",
-      "link": "https://tvn24.pl/zdrowie/depresja-hejt-przemoc-ministra-zdrowia-potrzebujemy-wiecej-psychiatrow-dzieciecych-w-publicznym-systemie-opieki-st8914848?source=rss",
-      "pubDate": "Mon, 23 Feb 2026 13:44:50 GMT",
-      "description": "Mamy coraz więcej psychiatrów dziecięcych i psychoterapeutów, ale wyzwaniem jest to, żeby pracowali w systemie publicznym, a nie wybierali system prywatny - mówiła ministra zdrowia Jolanta Sobierańska-Grenda podczas debaty z okazji Ogólnopolskiego Dnia Walki z Depresją. Kryzys zdrowia psychicznego najmłodszej części społeczeństwa nie jest jednak tylko problemem ochrony zdrowia - wiąże się także z edukacją i stanowieniem prawa, zwłaszcza chroniącego przed cyberprzemocą.",
-      "originalTitle": "Depresja, hejt, przemoc. Dlaczego dzieci wciąż nie mają wystarczającej pomocy?",
-      "originalDescription": "Mamy coraz więcej psychiatrów dziecięcych i psychoterapeutów, ale wyzwaniem jest to, żeby pracowali w systemie publicznym, a nie wybierali system prywatny - mówiła ministra zdrowia Jolanta Sobierańska-Grenda podczas debaty z okazji Ogólnopolskiego Dnia Walki z Depresją. Kryzys zdrowia psychicznego najmłodszej części społeczeństwa nie jest jednak tylko problemem ochrony zdrowia - wiąże się także z edukacją i stanowieniem prawa, zwłaszcza chroniącego przed cyberprzemocą."
-    },
-    {
-      "title": "\"Zadziwiające\". Kuzyn 21-latka zastrzelonego na terenie Mar-a-Lago zabrał głos",
-      "link": "https://tvn24.pl/swiat/usa-zadziwiajace-kuzyn-21-latka-zastrzelonego-na-terenie-mar-a-lago-zabral-glos-st8914847?source=rss",
-      "pubDate": "Mon, 23 Feb 2026 13:28:14 GMT",
-      "description": "Kuzyn Austina Tuckera Martina, który został śmiertelnie postrzelony po wejściu z bronią na teren posiadłości Donalda Trumpa, powiedział agencji AP, że nie może uwierzyć w to, co się stało. Rodzinę opisał jako zagorzałych zwolenników prezydenta USA.",
-      "originalTitle": "\"Zadziwiające\". Kuzyn 21-latka zastrzelonego na terenie Mar-a-Lago zabrał głos",
-      "originalDescription": "Kuzyn Austina Tuckera Martina, który został śmiertelnie postrzelony po wejściu z bronią na teren posiadłości Donalda Trumpa, powiedział agencji AP, że nie może uwierzyć w to, co się stało. Rodzinę opisał jako zagorzałych zwolenników prezydenta USA."
     }
   ]
 }
