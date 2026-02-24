@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "2026-02-24T00:29:45.357Z",
+  "lastUpdate": "2026-02-24T00:56:20.507Z",
   "enhancedWithGroq": false,
-  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": []
+  "articles": [
+    {
+      "title": "„Prezent” od bakterii jelitowych szansą w leczeniu płuc",
+      "link": "https://dzienniknaukowy.pl/prezent-od-bakterii-jelitowych-szansa-w-leczeniu-pluc",
+      "pubDate": "Mon, 23 Feb 2026 11:15:45 +0000",
+      "description": "Wytwarzany przez mikrobiom związek, który potrafi leczyć stany zapalne płuc, zidentyfikowali badacze z Instytutu Nenckiego PAN. Badania na myszach wykazały, że realną szansą na pomoc w astmie czy ciężkich infekcjach staje się spray do nosa lub odpowiednio dobrany probiotyk."
+    },
+    {
+      "title": "Jak zdjęcia z Instagrama mapują region? Badanie, które może zmienić projektowanie przestrzeni",
+      "link": "https://dzienniknaukowy.pl/jak-zdjecia-z-instagrama-mapuja-region-badanie-ktore-moze-zmienic-projektowanie-przestrzeni",
+      "pubDate": "Mon, 23 Feb 2026 11:04:54 +0000",
+      "description": "Scrollujemy, lajkujemy, udostępniamy – miliony zdjęć tworzą cyfrową mapę miejsc, które uznajemy za piękne. Ale czy ujęcie z tysiącem polubień na Instagramie mówi coś o realnej wartości przestrzeni, czy pokazuje tylko jej fotogeniczny wycinek? Urbaniści od lat szukają sposobu, by miasta i wsie były i ładne, i wygodne do życia. Naukowcy z Uniwersytetu Przyrodniczego we Wrocławiu sprawdzili, jak obraz z social mediów ma się do doświadczeń mieszkańców – i co to oznacza dla projektowania przestrzeni."
+    },
+    {
+      "title": "Serwery zoptymalizowane pod AI",
+      "link": "https://dzienniknaukowy.pl/serwery-zoptymalizowane-pod-ai",
+      "pubDate": "Mon, 23 Feb 2026 08:32:00 +0000",
+      "description": "Współczesne systemy AI - zwłaszcza duże modele językowe (LLM) czy multimodalne - wymagają ogromnych zasobów obliczeniowych i pamięciowych. Z tego powodu powstają serwery zaprojektowane specjalnie pod kątem uczenia maszynowego, łączące potężne GPU i inne akceleratory z wydajną pamięcią i łączami."
+    },
+    {
+      "title": "Naukowcy opracowali środek na pałeczkę ropy błękitnej",
+      "link": "https://dzienniknaukowy.pl/naukowcy-opracowali-srodek-na-paleczke-ropy-blekitnej",
+      "pubDate": "Wed, 18 Feb 2026 09:31:05 +0000",
+      "description": "Naukowcy z Gdańska otrzymali patent na środek antybakteryjny skuteczny w zwalczaniu pałeczki ropy błękitnej – bakterii odpornej na antybiotyki, wywołującej groźne infekcje, zwłaszcza w szpitalach."
+    },
+    {
+      "title": "Nowoczesna stomatologia regeneracyjna. Lek z własnej krwi",
+      "link": "https://dzienniknaukowy.pl/nowoczesna-stomatologia-regeneracyjna-lek-z-wlasnej-krwi",
+      "pubDate": "Wed, 18 Feb 2026 09:19:12 +0000",
+      "description": "Poradnia Dysfunkcji Narządu Żucia Uniwersyteckiego Centrum Stomatologicznego (UCS) przy Uniwersytecie Medycznym we Wrocławiu (UMW) jako jedyna w Polsce oferuje pełen komplet autologicznych terapii regeneracyjnych krwiopochodnych, wykorzystywanych w leczeniu wybranych schorzeń stawów skroniowo-żuchwowych oraz mięśni głowy i szyi. Obejmuje on trzy nowoczesne, małoinwazyjne procedury oparte na wykorzystaniu biologicznego materiału pochodzącego z krwi własnej pacjenta."
+    },
+    {
+      "title": "Naukowcy coraz precyzyjniej badają ciemną materię",
+      "link": "https://dzienniknaukowy.pl/naukowcy-coraz-precyzyjniej-badaja-ciemna-materie",
+      "pubDate": "Tue, 17 Feb 2026 13:00:21 +0000",
+      "description": "Międzynarodowy zespół naukowców z prof. Szymonem Pustelnym z UJ opublikował w „Nature” wyniki najnowszych poszukiwań ciemnej materii. Badacze nie wykryli jej bezpośrednio, ale pokazali, że w laboratorium na Ziemi można dokonać jej pomiarów bardziej precyzyjnie niż w kosmosie"
+    },
+    {
+      "title": "Opracowany przez studentów dron F.O.K.A. pomoże w monitoringu jakości wody",
+      "link": "https://dzienniknaukowy.pl/opracowany-przez-studentow-dron-f-o-k-a-pomoze-w-monitoringu-jakosci-wody",
+      "pubDate": "Tue, 17 Feb 2026 12:38:17 +0000",
+      "description": "Zbada poziom pH wody, zmierzy jej zmętnienie, temperaturę oraz głębokość, a dodatkowo może holować do 120 kg ładunku. Taka jest F.O.K.A. – nowa wodna platforma badawcza zbudowana przez studentów z Koła Naukowego PWr Solar Boat Team"
+    },
+    {
+      "title": "Gdańscy naukowcy opracowali technologię zapobiegania zakażeniom wirusem Zika",
+      "link": "https://dzienniknaukowy.pl/gdanscy-naukowcy-opracowali-technologie-zapobiegania-zakazeniom-wirusem-zika",
+      "pubDate": "Mon, 16 Feb 2026 13:17:00 +0000",
+      "description": "Europejski Urząd Patentowy przyznał patent zespołowi naukowców z Międzyuczelnianego Wydziału Biotechnologii UG i GUMed na rozwiązanie dotyczące zapobiegania zakażeniom wirusem Zika."
+    },
+    {
+      "title": "Jak ptaki radzą sobie zimą?",
+      "link": "https://dzienniknaukowy.pl/jak-ptaki-radza-sobie-zima",
+      "pubDate": "Mon, 16 Feb 2026 13:04:11 +0000",
+      "description": "W obliczu panujących w Polsce niskich temperatur wielu z nas zastanawia się, jak zwierzęta, a zwłaszcza ptaki, radzą sobie z tak surowymi warunkami. - Po prostu odzwyczailiśmy się od takich tęgich mrozów, i ptaki zresztą też. Dramatycznie jednak nie jest. Ptaki choć nie hibernują jak niektóre ssaki, wykształciły niezwykłe mechanizmy adaptacyjne, które przez setki tysięcy lat pozwalały im przetrwać zimy w naszym klimacie. Obecna zima jest jedną z tych bardziej klasycznych, a nie stanowi wyjątku - podkreśla prof. dr hab. Piotr Tryjanowski, ornitolog z Uniwersytetu Przyrodniczego w Poznaniu."
+    },
+    {
+      "title": "Emocje u zwierząt. Jak zmienia się biochemia mózgu zakochanego ssaka?",
+      "link": "https://dzienniknaukowy.pl/emocje-u-zwierzat-jak-zmienia-sie-biochemia-mozgu-zakochanego-ssaka",
+      "pubDate": "Fri, 13 Feb 2026 14:00:14 +0000",
+      "description": "Walentynki to dobry pretekst, by przyjrzeć się emocjom, które mają je nie tylko ludzie, ale także zwierzęta. Jak zmienia się biochemia mózgu zakochanego ssaka i jak ważne są tzw. układy emocjonalne odpowiedzialne za systemy nagrody, strachu czy opieki u psów czy kotów? Sprawy te wyjaśnia prof. Michał Dzięcioł z Katedry Rozrodu z Kliniką Zwierząt Gospodarskich Uniwersytetu Przyrodniczego we Wrocławiu."
+    }
+  ]
 }
