@@ -1,39 +1,71 @@
 {
-  "lastUpdate": "2026-02-25T19:48:20.055Z",
+  "lastUpdate": "2026-02-25T20:13:27.371Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Spotkanie Glapińskiego z ambasadorem USA dotyczyło złota",
-      "link": "https://tvn24.pl/biznes/z-kraju/adam-glapinski-i-tom-rose-prezes-nbp-rozmawial-z-ambasadorem-usa-podkreslono-rosnaca-role-zlota-st8919646?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 19:40:47 GMT",
-      "description": "• Adam Glapiński spotkał się z Tomem Rose'em.\n• Spotkanie zostało podane w komunikacie Narodowego Banku Polski.\n• Prezes NBP i amerykański ambasador rozmawiali między innymi o współpracy między bankami centralnymi Polski i USA.\n• Prezes NBP i amerykański ambasador rozmawiali między innymi o roli złota w światowej gospodarce.",
-      "originalTitle": "Glapiński spotkał się z ambasadorem USA. \"Podkreślono rosnącą rolę złota\"",
-      "originalDescription": "Adam Glapiński spotkał się z Tomem Rose'em - podał w komunikacie Narodowy Bank Polski. Prezes NBP i amerykański ambasador rozmawiali między innymi o współpracy między bankami centralnymi Polski i USA oraz o roli złota w światowej gospodarce."
-    },
-    {
-      "title": "Czarzasty o przystąpieniu Ukrainy do UE",
-      "link": "https://tvn24.pl/polska/ukraina-w-ue-wlodzimierz-czarzasty-mozna-jakis-kawalek-przejsc-szybciej-st8919619?source=rss",
+      "title": "Włodzimierz Czarzasty o podpisie Nawrockiego",
+      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-jezeli-pan-nawrocki-tego-nie-podpisze-bedzie-dzialal-na-niekorzysc-panstwa-st8919619?source=rss",
       "pubDate": "Wed, 25 Feb 2026 19:39:13 GMT",
       "description": "• Jest taki moment, gdzie są olbrzymie zmiany, jeżeli chodzi o układ polityczny świata.\n• Trzeba bardzo jasno artykułować, czego chcemy.\n• Chcemy, żeby Ukraina była w Unii Europejskiej.\n• Marszałek Sejmu Włodzimierz Czarzasty wypowiedział się na ten temat w programie \"Faktach po Faktach\".",
-      "originalTitle": "Ukraina w UE? Czarzasty: można jakiś kawałek przejść szybciej",
+      "originalTitle": "Włodzimierz Czarzasty: jeżeli pan Nawrocki tego nie podpisze, będzie działał na niekorzyść państwa",
       "originalDescription": "Jest taki moment, gdzie są olbrzymie zmiany, jeżeli chodzi o układ polityczny świata. Jest taki moment, gdzie trzeba bardzo jasno artykułować, czego chcemy. Chcemy, żeby Ukraina była w Unii Europejskiej - mówił \"Faktach po Faktach\" marszałek Sejmu Włodzimierz Czarzasty."
+    },
+    {
+      "title": "Zełenski po rozmowie z Trumpem",
+      "link": "https://tvn24.pl/swiat/donald-trump-rozmawial-telefonicznie-z-wolodymyrem-zelenskim-st8919613?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 19:15:28 GMT",
+      "description": "Amerykański przywódca Donald Trump rozmawiał w środę telefonicznie z Wołodymyrem Zełenskim. Prezydentem Ukrainy przekazał później, że omówiono kwestie dotyczące spotkania przedstawicieli Waszyngtonu i Kijowa kolejnego dnia w Genewie, a także \"przygotowania do kolejnego spotkania pełnych zespołów negocjacyjnych w formacie trójstronnym\".",
+      "originalTitle": "Zełenski po rozmowie z Trumpem: popiera tę sekwencję działań",
+      "originalDescription": "Amerykański przywódca Donald Trump rozmawiał w środę telefonicznie z Wołodymyrem Zełenskim. Prezydentem Ukrainy przekazał później, że omówiono kwestie dotyczące spotkania przedstawicieli Waszyngtonu i Kijowa kolejnego dnia w Genewie, a także \"przygotowania do kolejnego spotkania pełnych zespołów negocjacyjnych w formacie trójstronnym\"."
+    },
+    {
+      "title": "Sejm podjął decyzję w sprawie reformy PIP",
+      "link": "https://tvn24.pl/biznes/z-kraju/reforma-panstwowej-inspekcji-pracy-pip-jest-decyzja-sejmu-st8919684?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 20:02:47 GMT",
+      "description": "Posłowie nie odrzucili w pierwszym czytaniu projektu reformy Państwowej Inspekcji Pracy (PIP). O odrzucenie wnioskowali parlamentarzyści Prawa i Sprawiedliwości. Projekt trafił do dalszych prac w komisji.",
+      "originalTitle": "Reforma Państwowej Inspekcji Pracy. Jest decyzja Sejmu",
+      "originalDescription": "Posłowie nie odrzucili w pierwszym czytaniu projektu reformy Państwowej Inspekcji Pracy (PIP). O odrzucenie wnioskowali parlamentarzyści Prawa i Sprawiedliwości. Projekt trafił do dalszych prac w komisji."
+    },
+    {
+      "title": "Były minister finansów podaje się do dymisji",
+      "link": "https://tvn24.pl/swiat/byly-minister-finansow-rezygnuje-z-pracy-przez-akta-epsteina-st8919618?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 19:52:45 GMT",
+      "description": "Podjąłem trudną decyzję o przejściu na emeryturę - przekazał Larry Summers, były minister finansów i były czołowy doradca ekonomiczny Baracka Obamy. Jego odejście z Uniwersytetu Harvarda wraz z końcem roku akademickiego jest pokłosiem ujawnienia korespondencji z Jeffreyem Epsteinem.",
+      "originalTitle": "Były minister finansów rezygnuje z pracy przez akta Epsteina",
+      "originalDescription": "Podjąłem trudną decyzję o przejściu na emeryturę - przekazał Larry Summers, były minister finansów i były czołowy doradca ekonomiczny Baracka Obamy. Jego odejście z Uniwersytetu Harvarda wraz z końcem roku akademickiego jest pokłosiem ujawnienia korespondencji z Jeffreyem Epsteinem."
+    },
+    {
+      "title": "Prezydent Częstochowy Krzysztof Matyjaszczyk doprowadzony do prokuratury w Katowicach",
+      "link": "https://tvn24.pl/katowice/prezydent-czestochowy-krzysztof-matyjaszczyk-doprowadzony-do-prokuratury-w-katowicach-st8918441?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 10:40:59 GMT",
+      "description": "Prezydent Częstochowy Krzysztof Matyjaszczyk w środę wieczorem został doprowadzony do śląskiego wydziału Prokuratury Krajowej w Katowicach, gdzie miał usłyszeć zarzuty. Wyszedł stamtąd po godzinie 20.",
+      "originalTitle": "Prezydent Częstochowy Krzysztof Matyjaszczyk doprowadzony do prokuratury w Katowicach",
+      "originalDescription": "Prezydent Częstochowy Krzysztof Matyjaszczyk w środę wieczorem został doprowadzony do śląskiego wydziału Prokuratury Krajowej w Katowicach, gdzie miał usłyszeć zarzuty. Wyszedł stamtąd po godzinie 20."
+    },
+    {
+      "title": "Glapiński spotkał się z ambasadorem USA",
+      "link": "https://tvn24.pl/biznes/z-kraju/adam-glapinski-i-tom-rose-prezes-nbp-rozmawial-z-ambasadorem-usa-podkreslono-rosnaca-role-zlota-st8919646?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 19:40:47 GMT",
+      "description": "Adam Glapiński spotkał się z Tomem Rose'em - podał w komunikacie Narodowy Bank Polski. Prezes NBP i amerykański ambasador rozmawiali między innymi o współpracy między bankami centralnymi Polski i USA oraz o roli złota w światowej gospodarce.",
+      "originalTitle": "Glapiński spotkał się z ambasadorem USA",
+      "originalDescription": "Adam Glapiński spotkał się z Tomem Rose'em - podał w komunikacie Narodowy Bank Polski. Prezes NBP i amerykański ambasador rozmawiali między innymi o współpracy między bankami centralnymi Polski i USA oraz o roli złota w światowej gospodarce."
     },
     {
       "title": "Pegasus \"nie był bezpieczny\". Byli szefowie ABW i SKW \"mieli świadomość\"",
       "link": "https://tvn24.pl/polska/zarzuty-dla-bylych-szefow-abw-i-skw-prokurator-krajowy-mieli-swiadomosc-ze-pegasus-nie-byl-bezpieczny-st8919588?source=rss",
       "pubDate": "Wed, 25 Feb 2026 19:28:00 GMT",
-      "description": "Dopuszczono do gromadzenia danych ściśle tajnych przez system, który nie był do tego uprawniony - powiedział prokurator krajowy Dariusz Korneluk w \"Tak jest\", odnosząc się do zarzutów dla byłych szefów służb w sprawie dotyczącej Pegasusa.",
+      "description": "Dopuszczono do gromadzenia danych ściśle tajnych przez system, który nie był do tego uprawniony - powiedział prokurator krajowy Dariusz Korneluk w \"Tak jest\", odnosząc się do zarzutów wobec byłych szefów służb specjalnych w sprawie dotyczącej Pegasusa.",
       "originalTitle": "Pegasus \"nie był bezpieczny\". Byli szefowie ABW i SKW \"mieli świadomość\"",
-      "originalDescription": "Dopuszczono do gromadzenia danych ściśle tajnych przez system, który nie był do tego uprawniony - powiedział prokurator krajowy Dariusz Korneluk w \"Tak jest\", odnosząc się do zarzutów dla byłych szefów służb w sprawie dotyczącej Pegasusa."
+      "originalDescription": "Dopuszczono do gromadzenia danych ściśle tajnych przez system, który nie był do tego uprawniony - powiedział prokurator krajowy Dariusz Korneluk w \"Tak jest\", odnosząc się do zarzutów wobec byłych szefów służb specjalnych w sprawie dotyczącej Pegasusa."
     },
     {
       "title": "Pogoda na jutro - czwartek, 26.02. W nocy śnieg, w dzień 15 stopni",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-26-02-w-nocy-snieg-w-dzien-15-stopni-st8919582?source=rss",
       "pubDate": "Wed, 25 Feb 2026 19:17:48 GMT",
-      "description": "Pogoda na jutro, czyli na czwartek 26.02. Noc w prawie całym kraju zapowiada się pogodnie i spokojnie - tylko lokalnie może słabo prószyć śnieg. Również w dzień czeka nas pogodna aura, miejscami zakłócana jedynie przez silniejsze podmuchy wiatru.",
+      "description": "Pogoda na jutro, czyli na czwartek, 26.02. Noc w prawie całym kraju zapowiada się pogodnie i spokojnie - tylko lokalnie może słabo prószyć śnieg. Również w dzień czeka nas pogodna aura, miejscami zakłócana jedynie przez silniejsze podmuchy wiatru.",
       "originalTitle": "Pogoda na jutro - czwartek, 26.02. W nocy śnieg, w dzień 15 stopni",
-      "originalDescription": "Pogoda na jutro, czyli na czwartek 26.02. Noc w prawie całym kraju zapowiada się pogodnie i spokojnie - tylko lokalnie może słabo prószyć śnieg. Również w dzień czeka nas pogodna aura, miejscami zakłócana jedynie przez silniejsze podmuchy wiatru."
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 26.02. Noc w prawie całym kraju zapowiada się pogodnie i spokojnie - tylko lokalnie może słabo prószyć śnieg. Również w dzień czeka nas pogodna aura, miejscami zakłócana jedynie przez silniejsze podmuchy wiatru."
     },
     {
       "title": "Alternatywa dla Węgier i Słowacji. Jest wsparcie z nowego kierunku",
@@ -44,44 +76,12 @@
       "originalDescription": "Chorwacja rozpoczęła tranzyt ropy na Węgry i Słowację za pośrednictwem rurociągu \"Adria\", przy czym surowiec nie pochodzi z Rosji - przekazała Komisja Europejska. To reakcja na uszkodzenie ropociągu \"Przyjaźń\" w Ukrainie."
     },
     {
-      "title": "Trump rozmawiał z Zełenskim",
-      "link": "https://tvn24.pl/swiat/donald-trump-rozmawial-telefonicznie-z-wolodymyrem-zelenskim-st8919613?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 19:15:28 GMT",
-      "description": "Amerykański przywódca Donald Trump rozmawiał w środę telefonicznie z prezydentem Ukrainy Wołodymyrem Zełenskim - przekazał doradca ukraińskiego lidera do spraw komunikacji Dmytro Łytwyn. Doszło do tego na dzień przed spotkaniem przedstawicieli Waszyngtonu i Kijowa w Genewie.",
-      "originalTitle": "Trump rozmawiał z Zełenskim",
-      "originalDescription": "Amerykański przywódca Donald Trump rozmawiał w środę telefonicznie z prezydentem Ukrainy Wołodymyrem Zełenskim - przekazał doradca ukraińskiego lidera do spraw komunikacji Dmytro Łytwyn. Doszło do tego na dzień przed spotkaniem przedstawicieli Waszyngtonu i Kijowa w Genewie."
-    },
-    {
       "title": "\"Poważne zagrożenie\". Akcja serwisowa w Polsce",
       "link": "https://tvn24.pl/biznes/moto/opel-akcja-serwisowa-i-naprawa-modeli-aut-z-poduszkami-powietrznymi-takata-st8919606?source=rss",
       "pubDate": "Wed, 25 Feb 2026 18:58:36 GMT",
       "description": "Opel wzywa właścicieli starszych modeli swoich aut do niezwłocznego kontaktu z serwisem. Powodem jest ryzyko nieprawidłowego działania poduszek powietrznych marki Takata, które mogą stanowić zagrożenie dla zdrowia i życia kierowców oraz pasażerów.",
       "originalTitle": "\"Poważne zagrożenie\". Akcja serwisowa w Polsce",
       "originalDescription": "Opel wzywa właścicieli starszych modeli swoich aut do niezwłocznego kontaktu z serwisem. Powodem jest ryzyko nieprawidłowego działania poduszek powietrznych marki Takata, które mogą stanowić zagrożenie dla zdrowia i życia kierowców oraz pasażerów."
-    },
-    {
-      "title": "Rzadko spotykany w mieście ptak utknął na brzegu",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-rzadko-spotykany-w-miescie-ptak-utknal-na-brzegu-w-porcie-czerniakowskim-st8919598?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 18:32:17 GMT",
-      "description": "Ekopatrol interweniował na terenie Portu Czerniakowskiego. To tam na brzegu zauważono przemarzniętego i osłabionego ptaka, który rzadko spotykany jest w mieście. Gdy odzyska siły, wróci do naturalnego środowiska.",
-      "originalTitle": "Rzadko spotykany w mieście ptak utknął na brzegu",
-      "originalDescription": "Ekopatrol interweniował na terenie Portu Czerniakowskiego. To tam na brzegu zauważono przemarzniętego i osłabionego ptaka, który rzadko spotykany jest w mieście. Gdy odzyska siły, wróci do naturalnego środowiska."
-    },
-    {
-      "title": "Leżał na chodniku. Zabrali go do szpitala, a później do aresztu",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-lezal-na-chodniku-odkryli-ze-powinien-byc-w-areszcie-st8917894?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 18:06:12 GMT",
-      "description": "Strażnicy miejscy pomogli mężczyźnie, który leżał na chodniku. Był pijany. Trafił najpierw do szpitala, a potem do aresztu. Okazało się bowiem, że był poszukiwany.",
-      "originalTitle": "Leżał na chodniku. Zabrali go do szpitala, a później do aresztu",
-      "originalDescription": "Strażnicy miejscy pomogli mężczyźnie, który leżał na chodniku. Był pijany. Trafił najpierw do szpitala, a potem do aresztu. Okazało się bowiem, że był poszukiwany."
-    },
-    {
-      "title": "Ukraińców \"dziwi\" spór o SAFE. \"Nad czym tutaj dyskutować?\"",
-      "link": "https://tvn24.pl/polska/debata-tvn24-bezpieczenstwo-w-cieniu-wojny-ukraincow-dziwi-spor-o-safe-nad-czym-tutaj-dyskutowac-st8919208?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 18:03:59 GMT",
-      "description": "Na polskiej scenie politycznej trwa dyskusja o programie SAFE. Jak przekonywali goście debaty w TVN24+, tego sporu nie rozumieją nasi wschodni sąsiedzi, którzy od czterech lat walczą z rosyjskim najeźdźcą. Eksperci zwracali też uwagę na niewykorzystane nadal doświadczenie Ukraińców z pola walki i podkreślali szansę na przełom w tej kwestii w związku z możliwością wykorzystania unijnych środków.",
-      "originalTitle": "Ukraińców \"dziwi\" spór o SAFE. \"Nad czym tutaj dyskutować?\"",
-      "originalDescription": "Na polskiej scenie politycznej trwa dyskusja o programie SAFE. Jak przekonywali goście debaty w TVN24+, tego sporu nie rozumieją nasi wschodni sąsiedzi, którzy od czterech lat walczą z rosyjskim najeźdźcą. Eksperci zwracali też uwagę na niewykorzystane nadal doświadczenie Ukraińców z pola walki i podkreślali szansę na przełom w tej kwestii w związku z możliwością wykorzystania unijnych środków."
     }
   ]
 }
