@@ -1,39 +1,71 @@
 {
-  "lastUpdate": "2026-02-25T11:19:28.540Z",
+  "lastUpdate": "2026-02-25T11:45:54.351Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Sondaż przed wyborami na Węgrzech",
+      "title": "Test krwi wykrywa chorobę wcześnie",
+      "link": "https://tvn24.pl/zdrowie/test-z-krwi-wykryje-chorobe-na-lata-przed-objawami-czy-zastapi-drogie-badania-st8918487?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 11:39:45 GMT",
+      "description": "Naukowcy z USA opracowali badanie krwi, które z dużą precyzją pozwala przewidzieć, kiedy pojawią się pierwsze objawy choroby Alzheimera - nawet u osób dziś w pełni sprawnych poznawczo. Jednocześnie inne badania pokazują, że jakość snu, zwłaszcza faza głęboka, może realnie opóźniać kliniczne skutki zmian zachodzących w mózgu.",
+      "originalTitle": "Test z krwi wykryje chorobę na lata przed objawami. Czy zastąpi drogie badania?",
+      "originalDescription": "Naukowcy z USA opracowali badanie krwi, które z dużą precyzją pozwala przewidzieć, kiedy pojawią się pierwsze objawy choroby Alzheimera - nawet u osób dziś w pełni sprawnych poznawczo. Jednocześnie inne badania pokazują, że jakość snu, zwłaszcza faza głęboka, może realnie opóźniać kliniczne skutki zmian zachodzących w mózgu."
+    },
+    {
+      "title": "Awaria wodociągu w Szczecinie",
+      "link": "https://tvn24.pl/szczecin/awaria-wodociagu-w-szczecinie-mieszkancy-bez-wody-st8918304?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 11:38:44 GMT",
+      "description": "• W Szczecinie pękła rura wodociągu\n• Awaria miała miejsce przy ulicy Małopolskiej\n• Uszkodzenie jest bardzo poważne\n• Mieszkańcy okolicznych domów czerpią wodę z beczkowozu",
+      "originalTitle": "Awaria wodociągu w Szczecinie. Część mieszkańców bez wody",
+      "originalDescription": "W Szczecinie pękła rura wodociągu, do awarii doszło przy ulicy Małopolskiej. Uszkodzenie jest bardzo poważne. Mieszkańcy okolicznych domów wodę czerpią z beczkowozu."
+    },
+    {
+      "title": "Ziobro nie zaskarżył decyzji komisji",
+      "link": "https://tvn24.pl/polska/zbigniew-ziobro-nie-odwolal-sie-od-decyzji-komisji-kolejny-krok-do-obciecia-uposazenia-st8918450?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 11:28:04 GMT",
+      "description": "Zbigniew Ziobro nie odwołał się od decyzji sejmowej komisji regulaminowej udzielającej mu nagany w związku z nieobecnością na posiedzeniach sejmowych. Teraz Prezydium Sejmu zajmie się wnioskiem o ograniczenie diety i uposażenia byłemu ministrowi sprawiedliwości.",
+      "originalTitle": "Ziobro nie odwołał się od decyzji komisji. Kolejny krok do obcięcia uposażenia",
+      "originalDescription": "Zbigniew Ziobro nie odwołał się od decyzji sejmowej komisji regulaminowej udzielającej mu nagany w związku z nieobecnością na posiedzeniach sejmowych. Teraz Prezydium Sejmu zajmie się wnioskiem o ograniczenie diety i uposażenia byłemu ministrowi sprawiedliwości."
+    },
+    {
+      "title": "Proste pytanie do posłów PiS, śmiech zamiast odpowiedzi. \"Kaziu, powiedz panu\"",
+      "link": "https://tvn24.pl/polska/proste-pytanie-do-poslow-pis-smiech-zamiast-odpowiedzi-kaziu-powiedz-panu-st8918280?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 11:23:31 GMT",
+      "description": "Posłowie Prawa i Sprawiedliwości Kazimierz Smoliński i Marek Ast zostali zapytani przez reportera TVN24 Radomira Wita o pozytywne efekty zmian w wymiarze sprawiedliwości wprowadzanych za rządów ich partii. W odpowiedzi padły jedynie żarty i uniki. Pytanie pojawiło się w związku ze sporem wokół KRS.",
+      "originalTitle": "Proste pytanie do posłów PiS, śmiech zamiast odpowiedzi. \"Kaziu, powiedz panu\"",
+      "originalDescription": "Posłowie Prawa i Sprawiedliwości Kazimierz Smoliński i Marek Ast zostali zapytani przez reportera TVN24 Radomira Wita o pozytywne efekty zmian w wymiarze sprawiedliwości wprowadzanych za rządów ich partii. W odpowiedzi padły jedynie żarty i uniki. Pytanie pojawiło się w związku ze sporem wokół KRS."
+    },
+    {
+      "title": "Wybuchł gaz, zginęła kobieta. Decyzja prokuratury",
+      "link": "https://tvn24.pl/olsztyn/braniewo-wybuch-gazu-i-pozar-w-bloku-prokuratura-umorzyla-sledztwo-st8918314?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 11:20:46 GMT",
+      "description": "W wielorodzinnym budynku w Braniewie (Warmińsko-Mazurskie) w listopadzie ubiegłego roku wybuchł gaz, zginęła 74-letnia kobieta. Prokuratura umorzyła śledztwo w tej sprawie.",
+      "originalTitle": "Wybuchł gaz, zginęła kobieta. Decyzja prokuratury",
+      "originalDescription": "W wielorodzinnym budynku w Braniewie (Warmińsko-Mazurskie) w listopadzie ubiegłego roku wybuchł gaz, zginęła 74-letnia kobieta. Prokuratura umorzyła śledztwo w tej sprawie."
+    },
+    {
+      "title": "Rośnie przewaga opozycji. Nowy sondaż przed wyborami na Węgrzech",
       "link": "https://tvn24.pl/swiat/wegry-sondaz-przedwyborczy-rosnie-przewaga-opozycyjnej-tiszy-nad-fideszem-st8918383?source=rss",
       "pubDate": "Wed, 25 Feb 2026 11:15:11 GMT",
-      "description": "• Opozycyjna węgierska partia to TISZA.\n• Partia TISZA zwiększa swoją przewagę nad rządzącym Fideszem.\n• Zwiększanie przewagi następuje zgodnie z nowym sondażem.\n• Sondaż został przeprowadzony przed kwietniowymi wyborami.\n• Przewaga partii TISZA nad Fideszem wynosi 11 punktów procentowych wśród ogółu badanych.\n• Wśród wyborców zdecydowanych przewaga partii TISZA nad Fideszem wynosi 20 punktów procentowych.",
+      "description": "Opozycyjna węgierska partia TISZA zwiększa swoją przewagę nad rządzącym Fideszem, wynika z nowego sondażu przed kwietniowymi wyborami. Obecnie wynosi ona 11 punktów procentowych wśród ogółu badanych i aż 20 wśród wyborców zdecydowanych.",
       "originalTitle": "Rośnie przewaga opozycji. Nowy sondaż przed wyborami na Węgrzech",
       "originalDescription": "Opozycyjna węgierska partia TISZA zwiększa swoją przewagę nad rządzącym Fideszem, wynika z nowego sondażu przed kwietniowymi wyborami. Obecnie wynosi ona 11 punktów procentowych wśród ogółu badanych i aż 20 wśród wyborców zdecydowanych."
     },
     {
-      "title": "Bożenko uciekła, apel zoo",
+      "title": "Ktoś wypuścił Bożenkę, apel pracowników zoo",
       "link": "https://tvn24.pl/poznan/poznan-pomieszczenia-zostaly-otwarte-ktos-wypuscil-samice-manula-bozenke-st8918498?source=rss",
       "pubDate": "Wed, 25 Feb 2026 11:06:16 GMT",
-      "description": "• Poznański ogród zoologiczny poinformował o zniknięciu samicy manula.\n• Zniknięta samica manula nazywa się Bożenka.\n• Pomieszczenia, w których przebywała Bożenka, zostały otwarte.\n• Ze wstępnych ustaleń wynika, że zwierzę ktoś wypuścił celowo.\n• Jest to druga taka sytuacja w tym zoo.",
+      "description": "Poznański ogród zoologiczny poinformował, że zniknęła samica manula - Bożenka. Pomieszczenia, w których przebywała, zostały otwarte, a ze wstępnych ustaleń wynika, że zwierzę ktoś wypuścił celowo. To druga taka sytuacja w tym zoo.",
       "originalTitle": "Ktoś wypuścił Bożenkę, apel pracowników zoo",
       "originalDescription": "Poznański ogród zoologiczny poinformował, że zniknęła samica manula - Bożenka. Pomieszczenia, w których przebywała, zostały otwarte, a ze wstępnych ustaleń wynika, że zwierzę ktoś wypuścił celowo. To druga taka sytuacja w tym zoo."
     },
     {
-      "title": "Lewica proponuje podatek zdrowotny",
+      "title": "Podatek zdrowotny zamiast składki. Lewica forsuje swój pomysł",
       "link": "https://tvn24.pl/zdrowie/podatek-zdrowotny-zamiast-skladki-lewica-forsuje-swoj-pomysl-co-na-to-strona-minister-finansow-i-ministra-zdrowia-st8918387?source=rss",
       "pubDate": "Wed, 25 Feb 2026 11:03:52 GMT",
-      "description": "• Nowy podatek zdrowotny ma wynosić 12 procent.\n• Wśród propozycji Lewicy znajduje się również podatek tłuszczowy.\n• Lewica proponuje również wyższą akcyzę na alkohol.\n• Rozmowy o tych propozycjach odbyły się na posiedzeniu klubu parlamentarnego.\n• Posiedzenie klubu parlamentarnego, na którym omawiano te propozycje, miało miejsce we wtorek.\n• Minister finansów to Andrzej Domański.\n• Andrzej Domański nie poparł propozycji Lewicy dotyczącej reformy finansowania ochrony zdrowia.\n• Andrzej Domański deklaruje gotowość do dalszego dialogu w sprawie reformy finansowania ochrony zdrowia.",
+      "description": "Nowy 12-procentowy podatek zdrowotny, podatek tłuszczowy i wyższa akcyza na alkohol - to filary propozycji Lewicy na reformę finansowania ochrony zdrowia. Rozmawiano o nich na posiedzeniu klubu parlamentarnego we wtorek. Minister finansów Andrzej Domański nie poparł tych propozycji, deklarując jedynie gotowość do dalszego dialogu. Jakie stanowisko zajęło Ministerstwo Zdrowia?",
       "originalTitle": "Podatek zdrowotny zamiast składki. Lewica forsuje swój pomysł",
       "originalDescription": "Nowy 12-procentowy podatek zdrowotny, podatek tłuszczowy i wyższa akcyza na alkohol - to filary propozycji Lewicy na reformę finansowania ochrony zdrowia. Rozmawiano o nich na posiedzeniu klubu parlamentarnego we wtorek. Minister finansów Andrzej Domański nie poparł tych propozycji, deklarując jedynie gotowość do dalszego dialogu. Jakie stanowisko zajęło Ministerstwo Zdrowia?"
-    },
-    {
-      "title": "Rozmowa z prezydentem w sprawie",
-      "link": "https://tvn24.pl/polska/program-safe-wladyslaw-kosiniak-kamysz-zapowiedzial-ze-bedzie-przekonywal-w-tej-sprawie-karola-nawrockiego-st8918369?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 11:03:20 GMT",
-      "description": "• Wokół programu SAFE narosło wiele niedomówień czy inaczej, wręcz kłamstw.\n• Minister obrony narodowej to Władysław Kosiniak-Kamysz.\n• Władysław Kosiniak-Kamysz powiedział, że \"Polska jest zwycięzcą\" tego projektu.\n• Władysław Kosiniak-Kamysz zapowiedział, że będzie w tej sprawie przekonywał prezydenta \"do ostatniej chwili\".",
-      "originalTitle": "\"Będę przekonywał pana prezydenta do ostatniej chwili\"",
-      "originalDescription": "Wokół programu SAFE narosło wiele niedomówień czy inaczej, wręcz kłamstw - powiedział minister obrony narodowej Władysław Kosiniak-Kamysz. Jak mówił, \"Polska jest zwycięzcą\" tego projektu i zapowiedział, że będzie w tej sprawie przekonywał prezydenta \"do ostatniej chwili\"."
     },
     {
       "title": "Anthropic pod ścianą. Pentagon stawia ostateczne ultimatum",
@@ -47,41 +79,9 @@
       "title": "Prezydent Częstochowy zatrzymany",
       "link": "https://tvn24.pl/katowice/prezydent-czestochowy-zatrzymany-st8918441?source=rss",
       "pubDate": "Wed, 25 Feb 2026 10:40:59 GMT",
-      "description": "• Prezydent Częstochowy Krzysztof Matyjaszczyk został zatrzymany.\n• W kilku miejscach na terenie miasta trwają przeszukania.\n• W kilku miejscach na terenie miasta trwają zabezpieczania dokumentów.\n• Sprawa dotyczy podejrzenia korupcji.\n• Rzecznik prasowy ministra koordynatora służb specjalnych informuje o sprawie.",
+      "description": "Prezydent Częstochowy Krzysztof Matyjaszczyk został zatrzymany, a w kilku miejscach na terenie miasta trwają przeszukania i zabezpieczanie dokumentów. Jak informuje rzecznik prasowy ministra koordynatora służb specjalnych, sprawa dotyczy podejrzenia korupcji.",
       "originalTitle": "Prezydent Częstochowy zatrzymany",
       "originalDescription": "Prezydent Częstochowy Krzysztof Matyjaszczyk został zatrzymany, a w kilku miejscach na terenie miasta trwają przeszukania i zabezpieczanie dokumentów. Jak informuje rzecznik prasowy ministra koordynatora służb specjalnych, sprawa dotyczy podejrzenia korupcji."
-    },
-    {
-      "title": "83-latek zagrał w nowym teledysku Taylor Swift. \"Nie miałem pojęcia, kim ona jest\"",
-      "link": "https://tvn24.pl/kultura-i-styl/muzyka-83-letni-brytyjczyk-zagral-jurora-w-teledysku-taylor-swift-st8918124?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 10:39:26 GMT",
-      "description": "W najnowszym teledysku gwiazdy pop Taylor Swift \"Opalite\" pojawiają brytyjscy celebryci, między innymi aktor Domhnall Gleeson, muzyk Lewis Capaldi czy prowadzący popularny program telewizyjny Graham Norton. Występuje w nim również 83-letni Barrie Reynolds z Kent, czym zaimponował swoim wnuczkom. Ale to dopiero one uświadomiły mu, kim jest Swift.",
-      "originalTitle": "83-latek zagrał w nowym teledysku Taylor Swift. \"Nie miałem pojęcia, kim ona jest\"",
-      "originalDescription": "W najnowszym teledysku gwiazdy pop Taylor Swift \"Opalite\" pojawiają brytyjscy celebryci, między innymi aktor Domhnall Gleeson, muzyk Lewis Capaldi czy prowadzący popularny program telewizyjny Graham Norton. Występuje w nim również 83-letni Barrie Reynolds z Kent, czym zaimponował swoim wnuczkom. Ale to dopiero one uświadomiły mu, kim jest Swift."
-    },
-    {
-      "title": "Roztopy w Polsce. \"Kto mieszka tutaj blisko, to jest w emocjach\"",
-      "link": "https://tvn24.pl/tvnmeteo/polska/szrensk-mazowieckie-stan-alarmowy-na-rzece-mlawka-kto-mieszka-tutaj-blisko-to-jest-w-emocjach-st8918176?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 10:36:37 GMT",
-      "description": "Roztopy i odwilż w Polsce. Kilka rzek przekroczyło stan alarmowy. Jedną z nich jest Mławka, która osiągnęła niebezpieczny poziom w miejscowości Szreńsk. Na miejsce udał się reporter TVN24 Mariusz Sidorkiewicz.",
-      "originalTitle": "Roztopy w Polsce. \"Kto mieszka tutaj blisko, to jest w emocjach\"",
-      "originalDescription": "Roztopy i odwilż w Polsce. Kilka rzek przekroczyło stan alarmowy. Jedną z nich jest Mławka, która osiągnęła niebezpieczny poziom w miejscowości Szreńsk. Na miejsce udał się reporter TVN24 Mariusz Sidorkiewicz."
-    },
-    {
-      "title": "Remontowali poddasze, pod podłogą znaleźli broń",
-      "link": "https://tvn24.pl/katowice/gliwice-bron-z-i-wojny-swiatowej-odkryta-podczas-remontu-st8918089?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 10:29:41 GMT",
-      "description": "Podczas remontu domu w Gliwicach mieszkańcy znaleźli pod podłogą karabin. O sprawie powiadomiono policję, która wyjaśniła, jaki dokładnie egzemplarz broni przez lata tkwił pod posadzką. Wiadomo, że pochodzi z czasów I wojny światowej.",
-      "originalTitle": "Remontowali poddasze, pod podłogą znaleźli broń",
-      "originalDescription": "Podczas remontu domu w Gliwicach mieszkańcy znaleźli pod podłogą karabin. O sprawie powiadomiono policję, która wyjaśniła, jaki dokładnie egzemplarz broni przez lata tkwił pod posadzką. Wiadomo, że pochodzi z czasów I wojny światowej."
-    },
-    {
-      "title": "Decyzja komisji ws ustawy o SAFE",
-      "link": "https://tvn24.pl/polska/program-safe-komisje-sejmowe-pozytywnie-zaopiniowaly-poprawki-senatu-st8918215?source=rss",
-      "pubDate": "Wed, 25 Feb 2026 10:22:00 GMT",
-      "description": "Sejmowe komisje finansów i obrony narodowej pozytywnie zaopiniowały poprawki Senatu do ustawy w sprawie SAFE. Głosowanie w Sejmie w tej sprawie zaplanowano na piątek.",
-      "originalTitle": "Jest decyzja komisji w sprawie poprawek do ustawy o SAFE",
-      "originalDescription": "Sejmowe komisje finansów i obrony narodowej pozytywnie zaopiniowały poprawki Senatu do ustawy w sprawie SAFE. Głosowanie w Sejmie w tej sprawie zaplanowano na piątek."
     }
   ]
 }
