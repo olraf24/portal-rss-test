@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-25T10:21:21.628Z",
+  "lastUpdate": "2026-02-25T10:47:40.201Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Światło zamiast igły: pomysł na czujnik glukozy z kropli moczu",
+      "link": "https://dzienniknaukowy.pl/swiatlo-zamiast-igly-pomysl-na-czujnik-glukozy-z-kropli-moczu",
+      "pubDate": "Wed, 25 Feb 2026 10:25:49 +0000",
+      "description": "Zespół naukowców z Indii i Polski pracuje nad czujnikiem, który miałby wykrywać glukozę nie z kropli krwi, lecz z próbki moczu, wykorzystując odczyt optyczny."
+    },
     {
       "title": "Rośliny rekrutują mikroorganizmy, aby przetrwać w zanieczyszczonej glebie",
       "link": "https://dzienniknaukowy.pl/rosliny-rekrutuja-mikroorganizmy-aby-przetrwac-w-zanieczyszczonej-glebie",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/opracowany-przez-studentow-dron-f-o-k-a-pomoze-w-monitoringu-jakosci-wody",
       "pubDate": "Tue, 17 Feb 2026 12:38:17 +0000",
       "description": "Zbada poziom pH wody, zmierzy jej zmętnienie, temperaturę oraz głębokość, a dodatkowo może holować do 120 kg ładunku. Taka jest F.O.K.A. – nowa wodna platforma badawcza zbudowana przez studentów z Koła Naukowego PWr Solar Boat Team"
-    },
-    {
-      "title": "Gdańscy naukowcy opracowali technologię zapobiegania zakażeniom wirusem Zika",
-      "link": "https://dzienniknaukowy.pl/gdanscy-naukowcy-opracowali-technologie-zapobiegania-zakazeniom-wirusem-zika",
-      "pubDate": "Mon, 16 Feb 2026 13:17:00 +0000",
-      "description": "Europejski Urząd Patentowy przyznał patent zespołowi naukowców z Międzyuczelnianego Wydziału Biotechnologii UG i GUMed na rozwiązanie dotyczące zapobiegania zakażeniom wirusem Zika."
     }
   ]
 }
