@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-26T12:48:26.248Z",
+  "lastUpdate": "2026-02-26T13:32:52.047Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Od jakości gleby zależy przetrwanie zapylaczy",
+      "link": "https://dzienniknaukowy.pl/od-jakosci-gleby-zalezy-przetrwanie-zapylaczy",
+      "pubDate": "Thu, 26 Feb 2026 12:56:18 +0000",
+      "description": "Od jakości gleby zależy przetrwanie zapylaczy - podkreślają naukowcy. W ramach paneuropejskiej inicjatywy badawczej sprawdzą oni, jak stan gleby i jej użytkowanie wpływają na zapylające owady. I jakie działania można podjąć, żeby je lepiej chronić"
+    },
     {
       "title": "Jak metabolizm tkanek wpływa na miejsce powstawania przerzutów nowotworowych",
       "link": "https://dzienniknaukowy.pl/jak-metabolizm-tkanek-wplywa-na-miejsce-powstawania-przerzutow-nowotworowych",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/serwery-zoptymalizowane-pod-ai",
       "pubDate": "Mon, 23 Feb 2026 08:32:00 +0000",
       "description": "Współczesne systemy AI - zwłaszcza duże modele językowe (LLM) czy multimodalne - wymagają ogromnych zasobów obliczeniowych i pamięciowych. Z tego powodu powstają serwery zaprojektowane specjalnie pod kątem uczenia maszynowego, łączące potężne GPU i inne akceleratory z wydajną pamięcią i łączami."
-    },
-    {
-      "title": "Naukowcy opracowali środek na pałeczkę ropy błękitnej",
-      "link": "https://dzienniknaukowy.pl/naukowcy-opracowali-srodek-na-paleczke-ropy-blekitnej",
-      "pubDate": "Wed, 18 Feb 2026 09:31:05 +0000",
-      "description": "Naukowcy z Gdańska otrzymali patent na środek antybakteryjny skuteczny w zwalczaniu pałeczki ropy błękitnej – bakterii odpornej na antybiotyki, wywołującej groźne infekcje, zwłaszcza w szpitalach."
     }
   ]
 }
