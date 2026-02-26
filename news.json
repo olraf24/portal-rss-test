@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2026-02-26T08:47:56.950Z",
+  "lastUpdate": "2026-02-26T09:20:32.802Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Komisja Europejska ostrzega Polskę przed wysokim deficytem",
+      "title": "Regulator zleca przeszukanie Allegro",
+      "link": "https://tvn24.pl/biznes/z-kraju/allegro-podejrzane-o-lamanie-zasad-konkurencji-uokik-zleca-przeszukanie-st8920099?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 09:17:31 GMT",
+      "description": "• Prezes UOKiK zlecił przeszukanie.\n• Przeszukanie odbyło się za zgodą sądu.\n• Przeszukanie odbyło się w asyście policji.\n• Przeszukanie odbyło się w siedzibie Allegro w Poznaniu.\n• Przeszukanie odbyło się również w biurach w Warszawie.\n• Działania prowadzone były w ramach postępowania wyjaśniającego.\n• Postępowanie dotyczy sprawy możliwego naruszenia reguł konkurencji przez spółkę.\n• Informacja o przeszukaniu została podana przez Urząd w komunikacie.",
+      "originalTitle": "Problemy Allegro. Regulator zleca przeszukanie",
+      "originalDescription": "Prezes UOKiK zlecił przeszukanie, które za zgodą sądu i w asyście policji odbyło się w siedzibie Allegro w Poznaniu oraz w biurach w Warszawie - podał Urząd w komunikacie. Działania prowadzone były w ramach postępowania wyjaśniającego w sprawie możliwego naruszenia reguł konkurencji przez spółkę."
+    },
+    {
+      "title": "Kobieta wjechała w auto, ujęta w garażu",
+      "link": "https://tvn24.pl/lublin/werbkowice-wjechala-w-auto-przed-sklepem-i-uciekla-policjant-znalazl-ja-ukryta-sie-w-blaszanym-garazu-st8919944?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 09:09:57 GMT",
+      "description": "• Dzielnicowy z posterunku w Werbkowicach (Lubelskie) zatrzymał 41-latkę.\n• Kobieta wjechała w auto zaparkowane przed miejscowym sklepem.\n• Kobieta uciekła z miejsca zdarzenia.\n• Kobieta ukryła się w blaszanym garażu nieopodal swojego domu.\n• Kobieta była pijana.",
+      "originalTitle": "Wjechała w auto przed sklepem i uciekła. Policjant znalazł ją ukrytą się w blaszanym garażu",
+      "originalDescription": "Dzielnicowy z posterunku w Werbkowicach (Lubelskie) zatrzymał 41-latkę, która wjechała w auto zaparkowane przed miejscowym sklepem i uciekła z miejsca zdarzenia. Kobieta ukryła się w blaszanym garażu nieopodal swojego domu. Była pijana."
+    },
+    {
+      "title": "PiS wprowadza dyscyplinarkę dla posłów",
+      "link": "https://tvn24.pl/polska/pis-dokreca-srube-poslom-dyscyplinarka-za-dobre-slowo-o-safe-st8919773?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 08:49:22 GMT",
+      "description": "Od środy politycy PiS muszą liczyć się z konsekwencjami dyscyplinarnymi między innymi za jakiekolwiek pozytywne wypowiedzi na temat programu dozbrajania SAFE. Dziennikarz TVN24+ Patryk Michalski w programie \"News Michalskiego\" poinformował, że według jego nieoficjalnych ustaleń grupa polityków PiS lobbowała we władzach partii za zawieszeniem w prawach członka PiS Michała Dworczyka. Znamy powód.",
+      "originalTitle": "PiS dokręca śrubę posłom. Dyscyplinarka za dobre słowo o SAFE",
+      "originalDescription": "Od środy politycy PiS muszą liczyć się z konsekwencjami dyscyplinarnymi między innymi za jakiekolwiek pozytywne wypowiedzi na temat programu dozbrajania SAFE. Dziennikarz TVN24+ Patryk Michalski w programie \"News Michalskiego\" poinformował, że według jego nieoficjalnych ustaleń grupa polityków PiS lobbowała we władzach partii za zawieszeniem w prawach członka PiS Michała Dworczyka. Znamy powód."
+    },
+    {
+      "title": "Rosyjski atak na Ukrainę. Drony i rakiety uderzyły w dniu rozmów z USA",
+      "link": "https://tvn24.pl/swiat/rosyjski-atak-na-ukraine-drony-i-rakiety-uderzyly-w-dniu-rozmow-z-usa-w-genewie-st8919891?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 08:49:21 GMT",
+      "description": "Rosja przeprowadziła w Ukrainie zmasowane uderzenie dronowo-rakietowe. Służby przekazały informacje o zniszczeniach w Kijowie, Charkowie, Połtawie i obwodzie zaporoskim. Atak nastąpił tuż przed czwartkowymi rozmowami na linii Kijów - Waszyngton.",
+      "originalTitle": "Rosyjski atak na Ukrainę. Drony i rakiety uderzyły w dniu rozmów z USA",
+      "originalDescription": "Rosja przeprowadziła w Ukrainie zmasowane uderzenie dronowo-rakietowe. Służby przekazały informacje o zniszczeniach w Kijowie, Charkowie, Połtawie i obwodzie zaporoskim. Atak nastąpił tuż przed czwartkowymi rozmowami na linii Kijów - Waszyngton."
+    },
+    {
+      "title": "Rekordowe wyniki PZU. Zyski są miliardowe",
+      "link": "https://tvn24.pl/biznes/rynki/rekordowe-wyniki-pzu-za-2025-rok-zysk-na-poziomie-6-7-mld-zl-st8919877?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 08:48:39 GMT",
+      "description": "Zysk netto grupy PZU w 2025 roku wyniósł 6,7 miliardów złotych w 2025 roku, co oznacza roczny wzrost o 25,4 procent - poinformowała grupa w czwartkowym komunikacie.",
+      "originalTitle": "Rekordowe wyniki PZU. Zyski są miliardowe",
+      "originalDescription": "Zysk netto grupy PZU w 2025 roku wyniósł 6,7 miliardów złotych w 2025 roku, co oznacza roczny wzrost o 25,4 procent - poinformowała grupa w czwartkowym komunikacie."
+    },
+    {
+      "title": "Auta nagle zapadły się pod ziemię. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-nebraska-samochody-nagle-zapadly-sie-pod-ziemie-wideo-st8919809?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 08:46:42 GMT",
+      "description": "Dwa samochody wpadły do zapadliska, które powstało na drodze w największym mieście stanu Nebraska w Stanach Zjednoczonych. Na pomoc kierowcom ruszyli mieszkańcy.",
+      "originalTitle": "Auta nagle zapadły się pod ziemię. Nagranie",
+      "originalDescription": "Dwa samochody wpadły do zapadliska, które powstało na drodze w największym mieście stanu Nebraska w Stanach Zjednoczonych. Na pomoc kierowcom ruszyli mieszkańcy."
+    },
+    {
+      "title": "Polsce grozi \"scenariusz grecki\"? Przed czym ostrzegła Komisja Europejska",
       "link": "https://konkret24.tvn24.pl/polska/polsce-grozi-scenariusz-grecki-przed-czym-ostrzegla-komisja-europejska-st8916980?source=rss",
       "pubDate": "Thu, 26 Feb 2026 08:41:15 GMT",
-      "description": "• Politycy opozycji straszą scenariuszem greckim dla Polski już za 10 lat.\n• Przekonują, że przed załamaniem polskich finansów ostrzegła nas Komisja Europejska.\n• Rozpowszechniający ten przekaz albo nie zrozumieli unijnego dokumentu, albo celowo manipulują.\n• Politycy opozycji rozpowszechniają ten przekaz od kilku dni.",
+      "description": "Scenariusz grecki dla Polski już za 10 lat! - straszą od kilku dni politycy opozycji. Przekonują, że przed załamaniem polskich finansów ostrzegła nas nawet Komisja Europejska. Sęk w tym, że rozpowszechniający ten przekaz albo nie zrozumieli unijnego dokumentu, albo celowo manipulują.",
       "originalTitle": "Polsce grozi \"scenariusz grecki\"? Przed czym ostrzegła Komisja Europejska",
       "originalDescription": "Scenariusz grecki dla Polski już za 10 lat! - straszą od kilku dni politycy opozycji. Przekonują, że przed załamaniem polskich finansów ostrzegła nas nawet Komisja Europejska. Sęk w tym, że rozpowszechniający ten przekaz albo nie zrozumieli unijnego dokumentu, albo celowo manipulują."
     },
     {
-      "title": "Zmiany w rankingu zaufania",
-      "link": "https://tvn24.pl/polska/zmiany-w-rankingu-zaufania-radoslaw-sikorski-goni-karola-nawrockiego-st8920007?source=rss",
+      "title": "Zmiany w rankingu zaufania. Radosław Sikorski goni Karola Nawrockiego",
+      "link": "https://tvn24.pl/polska/ranking-zaufania-luty-2026-radoslaw-sikorski-goni-karola-nawrockiego-sondaz-ibris-dla-onet-st8920007?source=rss",
       "pubDate": "Thu, 26 Feb 2026 08:35:37 GMT",
-      "description": "• Radosław Sikorski goni Karola Nawrockiego w rankingu zaufania do osób publicznych.\n• Przed miesiącem dzieliły ich niemal cztery punkty procentowe.\n• Dziś dzieli ich nieco ponad dwa punkty.\n�� Wyniki pochodzą z najnowszego sondażu IBRiS.\n• Sondaż został przeprowadzony dla portalu Onet.",
+      "description": "Radosław Sikorski goni Karola Nawrockiego w rankingu zaufania do osób publicznych. Przed miesiącem dzieliły ich niemal cztery punkty procentowe, dziś to nieco ponad dwa punkty - wynika z najnowszego sondażu IBRiS dla portalu Onet.",
       "originalTitle": "Zmiany w rankingu zaufania. Radosław Sikorski goni Karola Nawrockiego",
       "originalDescription": "Radosław Sikorski goni Karola Nawrockiego w rankingu zaufania do osób publicznych. Przed miesiącem dzieliły ich niemal cztery punkty procentowe, dziś to nieco ponad dwa punkty - wynika z najnowszego sondażu IBRiS dla portalu Onet."
     },
     {
-      "title": "Policja zlikwidowała laboratorium narkotykowe",
+      "title": "Zlikwidowali narkotykowe laboratorium, zatrzymali \"chemików\"",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zlikwidowali-narkotykowe-laboratorium-zatrzymali-chemikow-st8919686?source=rss",
       "pubDate": "Thu, 26 Feb 2026 08:30:38 GMT",
-      "description": "• Na posesji w Warszawie działało laboratorium narkotyków syntetycznych.\n• Laboratorium to zostało zlikwidowane przez funkcjonariuszy Nadwiślańskiego Oddziału Straży Granicznej.\n• Przejęto blisko 18 kilogramów wysokiej jakości mefedronu.\n• Mefedron o wartości około 1,5 miliona złotych na czarnym rynku.\n• Przejęto również kilkaset litrów komponentów chemicznych służących do produkcji mefedronu.\n• Zatrzymano dwóch \"chemików\" na gorącym uczynku.",
+      "description": "Na posesji w Warszawie działało laboratorium narkotyków syntetycznych. Zlikwidowali je funkcjonariusze Nadwiślańskiego Oddziału Straży Granicznej. Przejęli blisko 18 kilogramów wysokiej jakości mefedronu o czarnorynkowej wartości około 1,5 miliona złotych oraz kilkaset litrów komponentów chemicznych służących do jego produkcji. Na gorącym uczynku zatrzymali dwóch \"chemików\".",
       "originalTitle": "Zlikwidowali narkotykowe laboratorium, zatrzymali \"chemików\"",
       "originalDescription": "Na posesji w Warszawie działało laboratorium narkotyków syntetycznych. Zlikwidowali je funkcjonariusze Nadwiślańskiego Oddziału Straży Granicznej. Przejęli blisko 18 kilogramów wysokiej jakości mefedronu o czarnorynkowej wartości około 1,5 miliona złotych oraz kilkaset litrów komponentów chemicznych służących do jego produkcji. Na gorącym uczynku zatrzymali dwóch \"chemików\"."
     },
@@ -34,54 +82,6 @@
       "description": "Afrykańskie kraje odrzucają oferowane przez Stany Zjednoczone wsparcie opieki zdrowotnej. Zimbabwe nie sięgnie po 367 mln dolarów, a Zambia po umowę o wartości ponad 1 miliarda dolarów. Pierwszy z krajów dostrzegł w ofercie zagrożenie dla suwerenności narodowej - drugi uznał, że propozycja \"nie jest zgodna z interesami\" kraju.",
       "originalTitle": "Zimbabwe i Zambia odrzuciły setki milionów dolarów od USA. Nie chcą ujawniać danych",
       "originalDescription": "Afrykańskie kraje odrzucają oferowane przez Stany Zjednoczone wsparcie opieki zdrowotnej. Zimbabwe nie sięgnie po 367 mln dolarów, a Zambia po umowę o wartości ponad 1 miliarda dolarów. Pierwszy z krajów dostrzegł w ofercie zagrożenie dla suwerenności narodowej - drugi uznał, że propozycja \"nie jest zgodna z interesami\" kraju."
-    },
-    {
-      "title": "Ograniczenie mediów społecznościowych dla dzieci nie w tym roku. Ujawniamy założenia projektu KO",
-      "link": "https://tvn24.pl/polska/ograniczenie-mediow-spolecznosciowych-dla-dzieci-nie-w-tym-roku-ujawniamy-zalozenia-projektu-ko-st8919774?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 08:17:00 GMT",
-      "description": "Ograniczenie mediów społecznościowych dla dzieci i młodzieży poniżej 15. roku życia nie wejdzie w życie ani w najbliższych miesiącach, ani najprawdopodobniej do końca tego roku - ujawnił w programie \"News Michalskiego\" Patryk Michalski. Dziennikarz TVN24+ dotarł do założeń projektu ustawy autorstwa Koalicji Obywatelskiej.",
-      "originalTitle": "Ograniczenie mediów społecznościowych dla dzieci nie w tym roku. Ujawniamy założenia projektu KO",
-      "originalDescription": "Ograniczenie mediów społecznościowych dla dzieci i młodzieży poniżej 15. roku życia nie wejdzie w życie ani w najbliższych miesiącach, ani najprawdopodobniej do końca tego roku - ujawnił w programie \"News Michalskiego\" Patryk Michalski. Dziennikarz TVN24+ dotarł do założeń projektu ustawy autorstwa Koalicji Obywatelskiej."
-    },
-    {
-      "title": "Zderzenie kilku aut pod Warszawą, sprawca pijany",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/opacz-zderzenie-kilku-aut-pod-warszawa-sprawca-pijany-st8919825?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 08:15:53 GMT",
-      "description": "W środę wieczorem na granicy Warszawy i powiatu pruszkowskiego zderzyło się kilka samochodów. Sprawca zdarzenia był pijany.",
-      "originalTitle": "Zderzenie kilku aut pod Warszawą, sprawca pijany",
-      "originalDescription": "W środę wieczorem na granicy Warszawy i powiatu pruszkowskiego zderzyło się kilka samochodów. Sprawca zdarzenia był pijany."
-    },
-    {
-      "title": "Pogoda w Polsce. Ocieplenie. \"Przed nami niezwykłe ciepło, jak na tę porę roku\"",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-przed-nami-niezwykle-cieplo-jak-na-te-pore-roku-tomasz-wasilewski-o-pogodzie-wysoka-anomalia-temperatury-st8919836?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 07:35:08 GMT",
-      "description": "Ostatnie dni lutego przyniosą zaskakującą zmianę pogody w Polsce. Za sprawą napływu ciepłych mas powietrza z Afryki w piątek i sobotę lokalnie temperatura wzrośnie nawet do 19 stopni Celsjusza. O szczegółach opowiadał synoptyk i prezenter pogody Tomasz Wasilewski.",
-      "originalTitle": "Pogoda w Polsce. Ocieplenie. \"Przed nami niezwykłe ciepło, jak na tę porę roku\"",
-      "originalDescription": "Ostatnie dni lutego przyniosą zaskakującą zmianę pogody w Polsce. Za sprawą napływu ciepłych mas powietrza z Afryki w piątek i sobotę lokalnie temperatura wzrośnie nawet do 19 stopni Celsjusza. O szczegółach opowiadał synoptyk i prezenter pogody Tomasz Wasilewski."
-    },
-    {
-      "title": "Największa grupa wśród bankrutów. \"Są winni 80 mln zł\"",
-      "link": "https://tvn24.pl/biznes/najnowsze/dane-krajowego-rejestru-dlugow-najwiecej-bankrutow-jest-w-grupie-36-45-lat-st8919853?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 07:26:47 GMT",
-      "description": "W IV kwartale 2025 roku odnotowano rekord - prawie 6 tys. ogłoszonych upadłości konsumenckich. Największą grupę spośród bankrutów wpisanych do Krajowego Rejestru Długów stanowią osoby w wieku 36-45 lat.",
-      "originalTitle": "Największa grupa wśród bankrutów. \"Są winni 80 mln zł\"",
-      "originalDescription": "W IV kwartale 2025 roku odnotowano rekord - prawie 6 tys. ogłoszonych upadłości konsumenckich. Największą grupę spośród bankrutów wpisanych do Krajowego Rejestru Długów stanowią osoby w wieku 36-45 lat."
-    },
-    {
-      "title": "Pochodzi z XIV wieku. Przechodzi remont",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-remont-zabytkowego-kosciola-swietego-ducha-przy-ulicy-dlugiej-swiatynia-trafila-do-paulinow-po-potopie-szwedzkim-st8918866?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 07:24:20 GMT",
-      "description": "Elewacja barokowego kościoła paulinów pod wezwaniem Świętego Ducha wymagała pilnej interwencji. Zakończył się kolejny etap prac. Odnowione zostały między innymi elewacje wieży wschodniej. Co ciekawe, historia świątyni sięga XIV wieku.",
-      "originalTitle": "Pochodzi z XIV wieku. Przechodzi remont",
-      "originalDescription": "Elewacja barokowego kościoła paulinów pod wezwaniem Świętego Ducha wymagała pilnej interwencji. Zakończył się kolejny etap prac. Odnowione zostały między innymi elewacje wieży wschodniej. Co ciekawe, historia świątyni sięga XIV wieku."
-    },
-    {
-      "title": "Generał Różański: zagrożenie ze strony Rosji jest realne i będzie się potęgowało",
-      "link": "https://tvn24.pl/polska/general-rozanski-o-zagrozeniu-ze-strony-rosji-realne-i-bedzie-sie-potegowalo-st8919842?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 07:16:36 GMT",
-      "description": "• Wojna to nie jest tylko i wyłącznie zajęcie terenu.\n• Dzisiaj oddziaływanie przez środki lotnicze, rakiety, systemy załogowe może dotknąć całej wschodniej flanki Unii Europejskiej i NATO.\n• Generał Mirosław Różański powiedział te słowa w \"Rozmowie Piaseckiego\".\n• Generał Mirosław Różański jest przewodniczącym senackiej Komisji Obrony Narodowej.\n• Generał Mirosław Różański skomentował słowa szefa Sztabu Generalnego o zagrożeniu, jakie dla NATO wciąż stanowi Rosja.\n• Generał Mirosław Różański skomentował również rozpad swojej dawnej partii, Polski 2050.\n• Rosja wciąż stanowi zagrożenie dla NATO, według szefa Sztabu Generalnego.\n• Generał Mirosław Różański był częścią partii Polski 2050.",
-      "originalTitle": "Generał Różański: zagrożenie ze strony Rosji jest realne i będzie się potęgowało",
-      "originalDescription": "Wojna to nie jest tylko i wyłącznie zajęcie terenu. Dzisiaj oddziaływanie przez środki lotnicze, rakiety, systemy załogowe może dotknąć całej wschodniej flanki Unii Europejskiej i NATO - powiedział w \"Rozmowie Piaseckiego\" generał Mirosław Różański, przewodniczący senackiej Komisji Obrony Narodowej, komentując słowa szefa Sztabu Generalnego o zagrożeniu, jakie dla NATO wciąż stanowi Rosja. Skomentował również rozpad swojej dawnej partii, Polski 2050."
     }
   ]
 }
