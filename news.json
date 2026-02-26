@@ -1,29 +1,53 @@
 {
-  "lastUpdate": "2026-02-26T15:20:32.345Z",
+  "lastUpdate": "2026-02-26T15:49:01.400Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Pogoda na 5 dni z ciepłym powietrzem",
+      "title": "Awaria w banku",
+      "link": "https://tvn24.pl/biznes/pieniadze/pko-bp-awaria-w-najwiekszym-banku-w-polsce-st8921321?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 15:41:31 GMT",
+      "description": "• Klienci PKO BP zgłaszają problemy z płatnościami elektronicznymi.\n• Klienci PKO BP zgłaszają problemy z dostępem do aplikacji.\n• Bank pracuje nad przywróceniem pełnej dostępności aplikacji.\n• Bank poinformował o tym w komunikacie w mediach społecznościowych.",
+      "originalTitle": "Awaria w największym banku w Polsce",
+      "originalDescription": "Klienci PKO BP zgłaszają problemy z płatnościami elektronicznymi i dostępem do aplikacji. \"Pracujemy już nad tym, żeby przywrócić pełną dostępność aplikacji\" - pisze bank w komunikacie w mediach społecznościowych."
+    },
+    {
+      "title": "Wniosek o areszt dla prezydenta Częstochowy",
+      "link": "https://tvn24.pl/katowice/prezydent-czestochowy-krzysztof-matyjaszczyk-z-zarzutami-jest-wniosek-o-areszt-st8920296?source=rss",
+      "pubDate": "Thu, 26 Feb 2026 10:53:42 GMT",
+      "description": "Zatrzymany w środę przez CBA prezydent Częstochowy usłyszał zarzuty. Prokuratura skierowała wniosek do sądu o tymczasowe aresztowanie samorządowca. Jak dowiedzieli się nieoficjalnie dziennikarze \"Superwizjera\" Maciej Duda i Łukasz Ruciński, do Śląskiego Wydziału Przestępczości Zorganizowanej Prokuratury Krajowej zaczęli zgłaszać się nowi świadkowie w sprawie.",
+      "originalTitle": "Prezydent Częstochowy Krzysztof Matyjaszczyk z zarzutami. Jest wniosek o areszt",
+      "originalDescription": "Zatrzymany w środę przez CBA prezydent Częstochowy usłyszał zarzuty. Prokuratura skierowała wniosek do sądu o tymczasowe aresztowanie samorządowca. Jak dowiedzieli się nieoficjalnie dziennikarze \"Superwizjera\" Maciej Duda i Łukasz Ruciński, do Śląskiego Wydziału Przestępczości Zorganizowanej Prokuratury Krajowej zaczęli zgłaszać się nowi świadkowie w sprawie."
+    },
+    {
+      "title": "Policjant podejrzany o wykorzystanie seksualne",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-wolow-zarzut-dla-policjanta-ktory-mial-wykorzystac-seksualnie-kolezanke-z-pracy-st8919420?source=rss",
+      "pubDate": "Wed, 25 Feb 2026 15:37:52 GMT",
+      "description": "• Jest zarzut dla policjanta z Komendy Powiatowej Policji w Wołowie (Dolnośląskie).\n• Policjant miał wykorzystać seksualnie koleżankę z pracy.\n• Koleżanka złożyła zawiadomienie.\n• Zawiadomienie zostało złożone w środę.\n• Funkcjonariusz został zatrzymany po złożeniu zawiadomienia przez koleżankę.\n• Zatrzymanie policjanta nastąpiło w środę.",
+      "originalTitle": "Zarzut dla policjanta, który miał wykorzystać seksualnie koleżankę z pracy",
+      "originalDescription": "Jest zarzut dla policjanta z Komendy Powiatowej Policji w Wołowie (Dolnośląskie), który miał wykorzystać seksualnie koleżankę z pracy. W środę funkcjonariusz został zatrzymany po złożeniu przez nią zawiadomienia."
+    },
+    {
+      "title": "Pogoda na 5 dni. W weekend czeka nas dzień z afrykańskim powietrzem",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-5-dni-meteorologiczna-wiosna-w-weekend-czeka-nas-dzien-z-afrykanskim-powietrzem-st8921246?source=rss",
       "pubDate": "Thu, 26 Feb 2026 15:12:54 GMT",
-      "description": "• Początek meteorologicznej wiosny coraz bliżej.\n• Ciepłe powietrze dotrze do nas jeszcze przed pierwszym marca.\n• W piątek i sobotę na termometrach zobaczymy lokalnie niemal 20 stopni Celsjusza.\n• Później czeka nas ochłodzenie.\n• Trzeba będzie rozważyć, czy znów wyciągać z szafy zimowe kurtki.",
+      "description": "Początek meteorologicznej wiosny coraz bliżej, ale ciepłe powietrze dotrze do nas jeszcze przed pierwszym marca. W piątek i sobotę na termometrach zobaczymy lokalnie niemal 20 stopni Celsjusza. Później czeka nas ochłodzenie, ale czy trzeba będzie znów wyciągać z szafy zimowe kurtki?",
       "originalTitle": "Pogoda na 5 dni. W weekend czeka nas dzień z afrykańskim powietrzem",
       "originalDescription": "Początek meteorologicznej wiosny coraz bliżej, ale ciepłe powietrze dotrze do nas jeszcze przed pierwszym marca. W piątek i sobotę na termometrach zobaczymy lokalnie niemal 20 stopni Celsjusza. Później czeka nas ochłodzenie, ale czy trzeba będzie znów wyciągać z szafy zimowe kurtki?"
     },
     {
-      "title": "Król Norwegii opuścił szpital",
+      "title": "Król Norwegii wyszedł ze szpitala",
       "link": "https://tvn24.pl/swiat/krol-norwegii-harald-wypisany-ze-szpitala-na-teneryfie-st8921061?source=rss",
       "pubDate": "Thu, 26 Feb 2026 14:03:42 GMT",
-      "description": "• Król Norwegii Harald V w czwartek został wypisany ze szpitala.\n• Poinformował o tym pałac królewski.\n• Monarcha trafił do placówki na Teneryfie w czasie wakacji.\n• Wakacje spędzał wraz z żoną.\n• Po zakończeniu hospitalizacji będzie kontynuował wypoczynek na hiszpańskiej wyspie.\n• Wyspa, na której przebywa król, to Teneryfa.",
+      "description": "Król Norwegii Harald V w czwartek został wypisany ze szpitala - poinformował pałac królewski. Monarcha trafił do placówki na Teneryfie w czasie wakacji, które spędzał wraz z żoną. Po zakończeniu hospitalizacji będzie kontynuował wypoczynek na hiszpańskiej wyspie.",
       "originalTitle": "Król Norwegii wyszedł ze szpitala",
       "originalDescription": "Król Norwegii Harald V w czwartek został wypisany ze szpitala - poinformował pałac królewski. Monarcha trafił do placówki na Teneryfie w czasie wakacji, które spędzał wraz z żoną. Po zakończeniu hospitalizacji będzie kontynuował wypoczynek na hiszpańskiej wyspie."
     },
     {
-      "title": "Dodatek 200 tysięcy złotych dla rodzin",
+      "title": "200 tysięcy złotych zamiast 800 plus? \"Pieniądze to nie jedyny powód spadku dzietności\"",
       "link": "https://tvn24.pl/biznes/z-kraju/propozycja-klubu-jagiellonskiego-zamiast-800-plus-200-tys-zl-za-dziecko-co-to-oznacza-dla-demografii-st8920185?source=rss",
       "pubDate": "Thu, 26 Feb 2026 15:04:13 GMT",
-      "description": "• Analitycy Klubu Jagiellońskiego zaproponowali alternatywę dla świadczeń takich, jak 800 plus i \"babciowe\".\n• W ramach wsparcia rodzice mieliby otrzymywać jednorazowo dużą kwotę na start, w wysokości 200 tysięcy złotych na każde dziecko.\n• Dr Małgorzata Starczewska-Krzysztoszek jest ekspertką Towarzystwa Ekonomistów Polskich.\n• Dr Małgorzata Starczewska-Krzysztoszek udzieliła wywiadu redakcji tvn24.pl.\n• Według dr Małgorzaty Starczewska-Krzysztoszek, rozwiązanie może przyspieszyć decyzje rodzin, które i tak planują powiększenie rodziny.\n• Dr Małgorzata Starczewska-Krzysztoszek porównała efekt nowego rozwiązania do efektu programu 500 plus, który wygasł.",
+      "description": "Analitycy Klubu Jagiellońskiego zaproponowali alternatywę dla świadczeń takich, jak 800 plus i \"babciowe\". W ramach wsparcia rodzice mieliby otrzymywać jednorazowo dużą kwotę na start, w wysokości 200 tysięcy złotych na każde dziecko. - Rozwiązanie może przyspieszyć decyzje rodzin, które i tak planują powiększenie rodziny, ale ten efekt wygaśnie, jak wygasł w przypadku 500 plus - powiedziała w rozmowie z redakcją tvn24.pl dr Małgorzata Starczewska-Krzysztoszek, ekspertka Towarzystwa Ekonomistów Polskich.",
       "originalTitle": "200 tysięcy złotych zamiast 800 plus? \"Pieniądze to nie jedyny powód spadku dzietności\"",
       "originalDescription": "Analitycy Klubu Jagiellońskiego zaproponowali alternatywę dla świadczeń takich, jak 800 plus i \"babciowe\". W ramach wsparcia rodzice mieliby otrzymywać jednorazowo dużą kwotę na start, w wysokości 200 tysięcy złotych na każde dziecko. - Rozwiązanie może przyspieszyć decyzje rodzin, które i tak planują powiększenie rodziny, ale ten efekt wygaśnie, jak wygasł w przypadku 500 plus - powiedziała w rozmowie z redakcją tvn24.pl dr Małgorzata Starczewska-Krzysztoszek, ekspertka Towarzystwa Ekonomistów Polskich."
     },
@@ -58,30 +82,6 @@
       "description": "Firma Anthropic, zaledwie kilka tygodni po tym, jak jej nowe narzędzia AI dla biur wstrząsnęły notowaniami spółek technologicznych, zapowiada kolejne rozszerzenie swojej obecności w środowisku pracy. Spółka rozwija asystenta Claude, tak by jeszcze głębiej integrował się z firmowym oprogramowaniem i wspierał konkretne branże.",
       "originalTitle": "Anthropic rozszerza funkcjonalność. Wall Street pełne obaw",
       "originalDescription": "Firma Anthropic, zaledwie kilka tygodni po tym, jak jej nowe narzędzia AI dla biur wstrząsnęły notowaniami spółek technologicznych, zapowiada kolejne rozszerzenie swojej obecności w środowisku pracy. Spółka rozwija asystenta Claude, tak by jeszcze głębiej integrował się z firmowym oprogramowaniem i wspierał konkretne branże."
-    },
-    {
-      "title": "Media: prokuratura sprawdzi, czy doradca prezydenta wykorzystał poufne informacje",
-      "link": "https://tvn24.pl/biznes/najnowsze/doradca-prezydenta-nawrockiego-i-byly-szef-wiceprezes-kghm-pawel-gruza-podejrzany-o-insider-trading-doniesienia-business-insider-st8921038?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 14:17:39 GMT",
-      "description": "Prokuratura ma zbadać podejrzenie o insider trading, czyli bezprawne wykorzystanie poufnych informacji do handlu akcjami, którego miał dopuścić się były wiceminister finansów za rządów PiS, Paweł Gruza - poinformował Business Insider. Gruza jest obecnie doradcą prezydenta Karola Nawrockiego.",
-      "originalTitle": "Media: prokuratura sprawdzi, czy doradca prezydenta wykorzystał poufne informacje",
-      "originalDescription": "Prokuratura ma zbadać podejrzenie o insider trading, czyli bezprawne wykorzystanie poufnych informacji do handlu akcjami, którego miał dopuścić się były wiceminister finansów za rządów PiS, Paweł Gruza - poinformował Business Insider. Gruza jest obecnie doradcą prezydenta Karola Nawrockiego."
-    },
-    {
-      "title": "Kolejne uderzenie w mafię śmieciową. Wśród zatrzymanych były burmistrz",
-      "link": "https://tvn24.pl/kujawsko-pomorskie/kujawsko-pomorskie-pakosc-giebnia-kolejne-uderzenie-w-mafie-smieciowa-wsrod-zatrzymanych-burmistrz-st8920548?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 14:05:12 GMT",
-      "description": "Funkcjonariusze Centralnego Biura Śledczego Policji zatrzymali kolejne cztery osoby w związku ze stworzeniem nielegalnego systemu składowania i przetwarzania odpadów na składowisku w Giebni (Kujawsko-Pomorskie). Wśród zatrzymanych jest między innymi były burmistrz gminy Pakość.",
-      "originalTitle": "Kolejne uderzenie w mafię śmieciową. Wśród zatrzymanych były burmistrz",
-      "originalDescription": "Funkcjonariusze Centralnego Biura Śledczego Policji zatrzymali kolejne cztery osoby w związku ze stworzeniem nielegalnego systemu składowania i przetwarzania odpadów na składowisku w Giebni (Kujawsko-Pomorskie). Wśród zatrzymanych jest między innymi były burmistrz gminy Pakość."
-    },
-    {
-      "title": "Emocje świadków, kamienna twarz Sebastiana M. i tajemniczy SMS",
-      "link": "https://tvn24.pl/lodz/piotrkow-trybunalski-proces-sebastiana-m-po-tragedii-na-a1-emocje-swiadkow-kamienna-twarz-oskarzonego-i-tajemniczy-sms-st8921041?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 13:56:36 GMT",
-      "description": "W czwartek przed Sądem Rejonowym w Piotrkowie Trybunalskim przesłuchiwani byli świadkowie, którzy z płonącego auta próbowali ratować Martynę, Patryka i ich pięcioletniego synka, Oliwiera. Obrończyni Sebastiana M., oskarżonego o spowodowanie śmierci rodziny, zadawała im pytania o to, czy akcja ratunkowa mogła wpłynąć na to, jakie dowody zostały na miejscu tragedii.",
-      "originalTitle": "Emocje świadków, kamienna twarz Sebastiana M. i tajemniczy SMS",
-      "originalDescription": "W czwartek przed Sądem Rejonowym w Piotrkowie Trybunalskim przesłuchiwani byli świadkowie, którzy z płonącego auta próbowali ratować Martynę, Patryka i ich pięcioletniego synka, Oliwiera. Obrończyni Sebastiana M., oskarżonego o spowodowanie śmierci rodziny, zadawała im pytania o to, czy akcja ratunkowa mogła wpłynąć na to, jakie dowody zostały na miejscu tragedii."
     }
   ]
 }
