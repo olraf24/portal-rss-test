@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-02-26T13:32:52.047Z",
+  "lastUpdate": "2026-02-26T14:23:02.448Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
@@ -14,6 +14,12 @@
       "link": "https://dzienniknaukowy.pl/jak-metabolizm-tkanek-wplywa-na-miejsce-powstawania-przerzutow-nowotworowych",
       "pubDate": "Thu, 26 Feb 2026 12:42:29 +0000",
       "description": "Aby doszło do powstania przerzutu, komórki nowotworowe muszą przystosować się do nowego środowiska i przeprogramować swój metabolizm. Jak dostępność składników odżywczych w poszczególnych narządach wpływa na zdolność komórek raka do tworzenia przerzutów? Badania na ten temat opisali w „Nature” naukowcy, w tym dr Sonia Trojan z UJ."
+    },
+    {
+      "title": "Powrót do szkoły po pobycie w ośrodku leczenia narkomanii: jak radzić sobie z lękiem przed oceną",
+      "link": "https://dzienniknaukowy.pl/powrot-do-szkoly-po-pobycie-w-osrodku-leczenia-narkomanii-jak-radzic-sobie-z-lekiem-przed-ocena",
+      "pubDate": "Thu, 26 Feb 2026 10:38:00 +0000",
+      "description": "Zakończenie terapii uzależnienia to ważny krok na drodze do zdrowienia, ale powrót do codziennego życia, w tym do szkoły, bywa jednym z najtrudniejszych wyzwań. Młoda osoba, która odważnie podjęła walkę z nałogiem, staje przed pytaniami: jak odnajdę się w klasie, co pomyślą o mnie inni, czy dam radę nadrobić zaległości? Te obawy są zupełnie naturalne i zasługują na szczególną uwagę"
     },
     {
       "title": "Badanie: pokolenie Z i seniorzy szczególnie narażeni na dezinformację",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/jak-zdjecia-z-instagrama-mapuja-region-badanie-ktore-moze-zmienic-projektowanie-przestrzeni",
       "pubDate": "Mon, 23 Feb 2026 11:04:54 +0000",
       "description": "Scrollujemy, lajkujemy, udostępniamy – miliony zdjęć tworzą cyfrową mapę miejsc, które uznajemy za piękne. Ale czy ujęcie z tysiącem polubień na Instagramie mówi coś o realnej wartości przestrzeni, czy pokazuje tylko jej fotogeniczny wycinek? Urbaniści od lat szukają sposobu, by miasta i wsie były i ładne, i wygodne do życia. Naukowcy z Uniwersytetu Przyrodniczego we Wrocławiu sprawdzili, jak obraz z social mediów ma się do doświadczeń mieszkańców – i co to oznacza dla projektowania przestrzeni."
-    },
-    {
-      "title": "Serwery zoptymalizowane pod AI",
-      "link": "https://dzienniknaukowy.pl/serwery-zoptymalizowane-pod-ai",
-      "pubDate": "Mon, 23 Feb 2026 08:32:00 +0000",
-      "description": "Współczesne systemy AI - zwłaszcza duże modele językowe (LLM) czy multimodalne - wymagają ogromnych zasobów obliczeniowych i pamięciowych. Z tego powodu powstają serwery zaprojektowane specjalnie pod kątem uczenia maszynowego, łączące potężne GPU i inne akceleratory z wydajną pamięcią i łączami."
     }
   ]
 }
