@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-02-27T10:15:08.093Z",
+  "lastUpdate": "2026-02-27T10:45:56.976Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Fizycy w CERN obserwują łamanie symetrii właściwości rozpadów materii i antymaterii",
+      "link": "https://dzienniknaukowy.pl/fizycy-w-cern-obserwuja-lamanie-symetrii-wlasciwosci-rozpadow-materii-i-antymaterii",
+      "pubDate": "Fri, 27 Feb 2026 10:42:44 +0000",
+      "description": "W CERN fizycy złapali moment, w którym materia i antymateria zachowują się inaczej. Eksperyment LHCb po raz pierwszy zobaczył wyraźne łamanie symetrii CP w rzadkim rozpadzie mezonów B+ i B− mierząc różne właściwości tworzonych produktów. To ważny krok w poszukiwaniu odpowiedzi, dlaczego Wszechświat zbudowany jest z materii."
+    },
     {
       "title": "Od jakości gleby zależy przetrwanie zapylaczy",
       "link": "https://dzienniknaukowy.pl/od-jakosci-gleby-zalezy-przetrwanie-zapylaczy",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/prezent-od-bakterii-jelitowych-szansa-w-leczeniu-pluc",
       "pubDate": "Mon, 23 Feb 2026 11:15:45 +0000",
       "description": "Wytwarzany przez mikrobiom związek, który potrafi leczyć stany zapalne płuc, zidentyfikowali badacze z Instytutu Nenckiego PAN. Badania na myszach wykazały, że realną szansą na pomoc w astmie czy ciężkich infekcjach staje się spray do nosa lub odpowiednio dobrany probiotyk."
-    },
-    {
-      "title": "Jak zdjęcia z Instagrama mapują region? Badanie, które może zmienić projektowanie przestrzeni",
-      "link": "https://dzienniknaukowy.pl/jak-zdjecia-z-instagrama-mapuja-region-badanie-ktore-moze-zmienic-projektowanie-przestrzeni",
-      "pubDate": "Mon, 23 Feb 2026 11:04:54 +0000",
-      "description": "Scrollujemy, lajkujemy, udostępniamy – miliony zdjęć tworzą cyfrową mapę miejsc, które uznajemy za piękne. Ale czy ujęcie z tysiącem polubień na Instagramie mówi coś o realnej wartości przestrzeni, czy pokazuje tylko jej fotogeniczny wycinek? Urbaniści od lat szukają sposobu, by miasta i wsie były i ładne, i wygodne do życia. Naukowcy z Uniwersytetu Przyrodniczego we Wrocławiu sprawdzili, jak obraz z social mediów ma się do doświadczeń mieszkańców – i co to oznacza dla projektowania przestrzeni."
     }
   ]
 }
