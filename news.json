@@ -1,18 +1,42 @@
 {
-  "lastUpdate": "2026-02-27T08:16:00.220Z",
+  "lastUpdate": "2026-02-27T08:47:07.507Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Raport o skażonej wołowinie w UE",
+      "title": "Kierowca wyprzedzał na podwójnej ciągłej, grozi mu grzywna",
+      "link": "https://tvn24.pl/szczecin/wyprzedzal-na-podwojnej-ciaglej-i-blokowal-droge-grozi-mu-30-tys-zl-grzywny-st8921870?source=rss",
+      "pubDate": "Fri, 27 Feb 2026 08:41:37 GMT",
+      "description": "• Wyprzedza przed przejściem dla pieszych\n• Przekracza podwójną linię ciągłą\n• Gwałtownie hamuje\n• Wychodzi z auta, żeby zrobić awanturę",
+      "originalTitle": "Wyprzedzał na podwójnej ciągłej i blokował drogę. Grozi mu 30 tys. zł grzywny",
+      "originalDescription": "Wyprzedza przed przejściem dla pieszych, przekracza podwójną linię ciągłą, gwałtownie hamuje, a na koniec wychodzi z auta, żeby zrobić awanturę."
+    },
+    {
+      "title": "Firma odrzuca ultimatum Pentagonu",
+      "link": "https://tvn24.pl/biznes/tech/ai-masowa-inwigilacja-i-roboty-zabojcy-anthropic-odrzuca-ultimatum-pentagonu-st8921755?source=rss",
+      "pubDate": "Fri, 27 Feb 2026 08:33:10 GMT",
+      "description": "• Anthropic to producent znanego modelu AI Claude.\n• Firma odrzuciła żądania Pentagonu.\n• Amerykański Departament Obrony chce, aby firma zrezygnowała z ograniczeń dotyczących sposobu wykorzystywania ich technologii.\n• Technologia ma być wykorzystywana do masowej inwigilacji Amerykanów.\n• Technologia ma być również wykorzystywana do produkcji autonomicznej broni.\n• Pentagon grozi firmie sankcjami.\n• Pentagon grozi firmie prawnym przymusem.",
+      "originalTitle": "Masowa inwigilacja i \"roboty-zabójcy\". Firma odrzuca ultimatum Pentagonu",
+      "originalDescription": "Anthropic - producent znanego modelu AI Claude, odrzucił żądania Pentagonu. Amerykański Departament Obrony chce, żeby firma zrezygnowała z ograniczeń dotyczących sposobu wykorzystywania ich technologii do masowej inwigilacji Amerykanów i produkcji autonomicznej broni. Pentagon grozi firmie sankcjami lub prawnym przymusem."
+    },
+    {
+      "title": "Mężczyzna wrócił do sklepu z banknotem",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zyrardow-raz-sie-udalo-wiec-wrocil-do-sklepu-z-banknotem-st8921887?source=rss",
+      "pubDate": "Fri, 27 Feb 2026 08:21:14 GMT",
+      "description": "W jednym ze sklepów 25-latek zapłacił pamiątkowym banknotem o nominale 200 złotych. Udało się, więc po tygodniu wrócił. Tym razem próbował zapłacić podobnym banknotem 100-złotowym. Skończyło się zarzutami oszustwa.",
+      "originalTitle": "Raz się udało, więc wrócił do sklepu z \"banknotem\"",
+      "originalDescription": "W jednym ze sklepów 25-latek zapłacił pamiątkowym banknotem o nominale 200 złotych. Udało się, więc po tygodniu wrócił. Tym razem próbował zapłacić podobnym banknotem 100-złotowym. Skończyło się zarzutami oszustwa."
+    },
+    {
+      "title": "Skażona wołowina w UE. \"Ten raport jest druzgocący nie tylko dla Brazylii\"",
       "link": "https://tvn24.pl/biznes/handel/skazona-wolowina-w-ue-ten-raport-jest-druzgocacy-nie-tylko-dla-brazylii-st8921814?source=rss",
       "pubDate": "Fri, 27 Feb 2026 08:06:47 GMT",
-      "description": "• Brazylia nie jest w stanie udowodnić, że nie eksportuje do Unii Europejskiej wołowiny skażonej estradiolem, czyli hormonem wzrostu.\n• Audyt w sprawie wołowiny został przeprowadzony przez Komisję Europejską w Brazylii.\n• Pierwszy audyt został przeprowadzony w 2024 roku.\n• Audyt został powtórzony w 2025 roku.\n• Na rynek europejski miały trafić dziesiątki ton zanieczyszczonego mięsa.",
+      "description": "Brazylia nie jest w stanie udowodnić, że nie eksportuje do Unii Europejskiej wołowiny skażonej estradiolem, czyli hormonem wzrostu - wynika z audytu Komisji Europejskiej w sprawie wołowiny przeprowadzonego w Brazylii najpierw w 2024, a potem powtórzonego w 2025 roku. Na rynek europejski miały trafić dziesiątki ton zanieczyszczonego mięsa.",
       "originalTitle": "Skażona wołowina w UE. \"Ten raport jest druzgocący nie tylko dla Brazylii\"",
       "originalDescription": "Brazylia nie jest w stanie udowodnić, że nie eksportuje do Unii Europejskiej wołowiny skażonej estradiolem, czyli hormonem wzrostu - wynika z audytu Komisji Europejskiej w sprawie wołowiny przeprowadzonego w Brazylii najpierw w 2024, a potem powtórzonego w 2025 roku. Na rynek europejski miały trafić dziesiątki ton zanieczyszczonego mięsa."
     },
     {
-      "title": "Wypadek drogowy, trzy osoby hospitalizowane",
+      "title": "Zderzenie dwóch aut, trzy osoby trafiły do szpitala",
       "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-powazny-wypadek-na-woli-sa-ranni-st8921841?source=rss",
       "pubDate": "Fri, 27 Feb 2026 08:02:54 GMT",
       "description": "W piątek rano na skrzyżowaniu ulicy Księcia Janusza z Górczewską doszło do zderzenia dwóch samochodów osobowych. Są poszkodowani.",
@@ -20,10 +44,10 @@
       "originalDescription": "W piątek rano na skrzyżowaniu ulicy Księcia Janusza z Górczewską doszło do zderzenia dwóch samochodów osobowych. Są poszkodowani."
     },
     {
-      "title": "Badania witaminy D w Berlinie",
+      "title": "W Berlinie \"receptory witaminy D wreszcie zostały pobudzone\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/berlin-niemcy-pierwszy-podmuch-wiosny-receptory-witaminy-d-wreszcie-zostaly-pobudzone-st8921833?source=rss",
       "pubDate": "Fri, 27 Feb 2026 07:57:55 GMT",
-      "description": "• W czwartek w Berlinie zrobiło się naprawdę wiosennie.\n• Słoneczna aura była jednym z powodów, dla których mieszkańcy chętnie spędzali czas na zewnątrz.\n• Temperatury sięgały kilkunastu stopni.\n• Mieszkańcy chętnie spędzali czas w parkach.\n• Mieszkańcy chętnie spędzali czas w ogródkach kawiarni.\n• Ludzie korzystali z pierwszych ciepłych dni po długiej zimie.",
+      "description": "W czwartek Berlinie zrobiło się naprawdę wiosennie. Słoneczna aura i temperatury sięgające kilkunastu stopni sprawiły, że mieszkańcy chętnie spędzali czas w parkach i ogródkach kawiarni, korzystając z pierwszych ciepłych dni po długiej zimie.",
       "originalTitle": "W Berlinie \"receptory witaminy D wreszcie zostały pobudzone\"",
       "originalDescription": "W czwartek Berlinie zrobiło się naprawdę wiosennie. Słoneczna aura i temperatury sięgające kilkunastu stopni sprawiły, że mieszkańcy chętnie spędzali czas w parkach i ogródkach kawiarni, korzystając z pierwszych ciepłych dni po długiej zimie."
     },
@@ -47,41 +71,17 @@
       "title": "Zgorzelski: ustawa o SAFE zdefiniuje Nawrockiego na dłużej. \"Poprzednie ustawy to była igraszka\"",
       "link": "https://tvn24.pl/polska/piotr-zgorzelski-ustawa-o-safe-zdefiniuje-karola-nawrockiego-na-dluzej-st8921775?source=rss",
       "pubDate": "Fri, 27 Feb 2026 07:19:26 GMT",
-      "description": "Na biurko prezydenta Karola Nawrockiego trafi niedługo ustawa o wdrożeniu programu SAFE. Według wicemarszałka Sejmu Piotra Zgorzelskiego, będzie to jedna z najważniejszych decyzji dla prezydenta. - Poprzednie weta to była igraszka. Teraz będzie prawdziwy test - powiedział Zgorzelski w \"Jeden na jeden\" w TVN24.",
+      "description": "Na biurko prezydenta Karola Nawrockiego trafi niedługo ustawa o wdrożeniu programu SAFE. Według wicemarszałka Sejmu Piotra Zgorzelskiego, będzie to jedna z najważniejszych decyzji dla prezydenta. - Poprzednie weta to była igraszka. Teraz będzie prawdziwy test - powiedział Zgorzelski w \"Jeden na jeden\" w TVN24. Wicemarszałek Sejmu skomentował również exposé szefa MSZ oraz słowa Marcina Bosackiego o \"lizusostwie\" w MON.",
       "originalTitle": "Zgorzelski: ustawa o SAFE zdefiniuje Nawrockiego na dłużej. \"Poprzednie ustawy to była igraszka\"",
-      "originalDescription": "Na biurko prezydenta Karola Nawrockiego trafi niedługo ustawa o wdrożeniu programu SAFE. Według wicemarszałka Sejmu Piotra Zgorzelskiego, będzie to jedna z najważniejszych decyzji dla prezydenta. - Poprzednie weta to była igraszka. Teraz będzie prawdziwy test - powiedział Zgorzelski w \"Jeden na jeden\" w TVN24."
+      "originalDescription": "Na biurko prezydenta Karola Nawrockiego trafi niedługo ustawa o wdrożeniu programu SAFE. Według wicemarszałka Sejmu Piotra Zgorzelskiego, będzie to jedna z najważniejszych decyzji dla prezydenta. - Poprzednie weta to była igraszka. Teraz będzie prawdziwy test - powiedział Zgorzelski w \"Jeden na jeden\" w TVN24. Wicemarszałek Sejmu skomentował również exposé szefa MSZ oraz słowa Marcina Bosackiego o \"lizusostwie\" w MON."
     },
     {
       "title": "Seria kolizji w okolicy Góry Kalwarii. Pięć aut zjechało do rowu",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/gora-kalwaria-seria-kolizj-piec-aut-w-rowie-st8921789?source=rss",
       "pubDate": "Fri, 27 Feb 2026 07:15:36 GMT",
-      "description": "W piątek rano na obwodnicy Góry Kalwarii pięć aut wylądowało w rowie. Policja podaje, że przyczyną zdarzenia było niedostosowanie prędkości do panujących warunków jazdy. Występują utrudnienia.",
+      "description": "W piątek rano na obwodnicy Góry Kalwarii pięć aut wpadło do rowu. Policja podaje, że przyczyną zdarzenia było niedostosowanie prędkości do panujących warunków jazdy. Jeden z kierowców nie ma uprawnień do kierowania pojazdami.",
       "originalTitle": "Seria kolizji w okolicy Góry Kalwarii. Pięć aut zjechało do rowu",
-      "originalDescription": "W piątek rano na obwodnicy Góry Kalwarii pięć aut wylądowało w rowie. Policja podaje, że przyczyną zdarzenia było niedostosowanie prędkości do panujących warunków jazdy. Występują utrudnienia."
-    },
-    {
-      "title": "Zderzenie dwóch aut. Utrudnienia w ruchu tramwajów",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-zderzenie-dwoch-aut-utrudnienia-w-ruchu-st8921788?source=rss",
-      "pubDate": "Fri, 27 Feb 2026 07:05:08 GMT",
-      "description": "Dwa auta zderzyły się na skrzyżowaniu Bardzkiej i Armii Krajowej w centrum Wrocławia. Ranne zostały dwie osoby, a zablokowane torowisko wstrzymało ruch tramwajów. Miasto uruchomiło autobusy zastępcze.",
-      "originalTitle": "Zderzenie dwóch aut. Utrudnienia w ruchu tramwajów",
-      "originalDescription": "Dwa auta zderzyły się na skrzyżowaniu Bardzkiej i Armii Krajowej w centrum Wrocławia. Ranne zostały dwie osoby, a zablokowane torowisko wstrzymało ruch tramwajów. Miasto uruchomiło autobusy zastępcze."
-    },
-    {
-      "title": "Sama przebiła szklany sufit. Potem powiedziała \"nie\" kobietom",
-      "link": "https://tvn24.pl/swiat/japonia-kobieta-cesarzowa-premierka-japonii-sanae-takaichi-wyklucza-zmiany-w-sukcesji-st8921769?source=rss",
-      "pubDate": "Fri, 27 Feb 2026 06:57:47 GMT",
-      "description": "Premierka Japonii Sanae Takaichi wykluczyła dopuszczenie kobiet do sukcesji tronu. Jej stanowisko koliduje z wysokim poparciem społecznym dla cesarzowych oraz malejącą liczbą męskich następców w dynastii.",
-      "originalTitle": "Sama przebiła szklany sufit. Potem powiedziała \"nie\" kobietom",
-      "originalDescription": "Premierka Japonii Sanae Takaichi wykluczyła dopuszczenie kobiet do sukcesji tronu. Jej stanowisko koliduje z wysokim poparciem społecznym dla cesarzowych oraz malejącą liczbą męskich następców w dynastii."
-    },
-    {
-      "title": "Malownicze spotkanie na niebie. Zobacz zdjęcia",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/koniunkcja-ksiezyca-i-jowisza-wyjatkowe-spotkanie-na-niebie-zobacz-zdjecia-st8921766?source=rss",
-      "pubDate": "Fri, 27 Feb 2026 06:56:59 GMT",
-      "description": "Koniunkcja Księżyca i Jowisza była widoczna na polskim niebie w nocy z czwartku na piątek. Ciała niebieskie zbliżyły się na cztery stopnie kątowe. Materiały otrzymaliśmy na Kontakt24.",
-      "originalTitle": "Malownicze spotkanie na niebie. Zobacz zdjęcia",
-      "originalDescription": "Koniunkcja Księżyca i Jowisza była widoczna na polskim niebie w nocy z czwartku na piątek. Ciała niebieskie zbliżyły się na cztery stopnie kątowe. Materiały otrzymaliśmy na Kontakt24."
+      "originalDescription": "W piątek rano na obwodnicy Góry Kalwarii pięć aut wpadło do rowu. Policja podaje, że przyczyną zdarzenia było niedostosowanie prędkości do panujących warunków jazdy. Jeden z kierowców nie ma uprawnień do kierowania pojazdami."
     }
   ]
 }
