@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-02-28T09:08:38.925Z",
+  "lastUpdate": "2026-02-28T09:40:37.248Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypowiedzi Nawrockiego i Tuska na temat Iranu",
+      "title": "Iran wystrzelił pociski w kierunku Izraela",
+      "link": "https://tvn24.pl/swiat/iran-odpowiada-pociski-wystrzelone-w-strone-izraela-st8923856?source=rss",
+      "pubDate": "Sat, 28 Feb 2026 09:33:26 GMT",
+      "description": "Izraelska armia poinformowała o wykryciu pocisków balistycznych wystrzelonych z Iranu w kierunku Izraela. Eksplozje były słyszane w północnej części kraju. Wcześniej przedstawiciel władz irańskich zapowiadał, że Teheran szykuje się do odwetu.",
+      "originalTitle": "Iran odpowiada. Pociski wystrzelone w stronę Izraela",
+      "originalDescription": "Izraelska armia poinformowała o wykryciu pocisków balistycznych wystrzelonych z Iranu w kierunku Izraela. Eksplozje były słyszane w północnej części kraju. Wcześniej przedstawiciel władz irańskich zapowiadał, że Teheran szykuje się do odwetu."
+    },
+    {
+      "title": "Wypadek na rondzie, ofiara śmiertelna",
+      "link": "https://tvn24.pl/lodz/poddebice-smiertelne-potracenie-pieszego-na-rondzie-st8923862?source=rss",
+      "pubDate": "Sat, 28 Feb 2026 09:30:14 GMT",
+      "description": "• Tragiczny wypadek miał miejsce na drodze krajowej numer 72.\n• Wypadek nastąpił w Poddębicach.\n• Poddębice położone są w województwie Łódzkim.\n• Kierowca samochodu ciężarowego potrącił pieszego.\n��� Ofiarą wypadku był mężczyzna.\n• Mężczyzna zginął na miejscu zdarzenia.",
+      "originalTitle": "Na rondzie zginął pieszy",
+      "originalDescription": "Tragiczny wypadek na drodze krajowej numer 72 w Poddębicach (Łódzkie). Kierowca samochodu ciężarowego potrącił pieszego. Mężczyzna zginął na miejscu."
+    },
+    {
+      "title": "Linie lotnicze zawieszają połączenia",
+      "link": "https://tvn24.pl/biznes/z-kraju/atak-na-iran-linie-lotnicze-wizz-air-i-pll-lot-zawieszaja-polaczenia-st8923843?source=rss",
+      "pubDate": "Sat, 28 Feb 2026 09:19:39 GMT",
+      "description": "• Wizz Air zawiesił połączenia z Izraelem, Zjednoczonymi Emiratami Arabskimi i Jordanią.\n• Przewoźnik poinformował o zawieszeniu połączeń.\n• Loty do Izraela odwołały także Polskie Linie Lotnicze LOT.\n• Izrael i USA zaatakowały Iran w sobotę.",
+      "originalTitle": "Linie lotnicze zawieszają połączenia. \"W związku z eskalacją sytuacji\"",
+      "originalDescription": "Wizz Air zawiesił połączenia z Izraelem, Zjednoczonymi Emiratami Arabskimi i Jordanią - podał przewoźnik. Loty do Izraela odwołały także Polskie Linie Lotnicze LOT. W sobotę Izrael i USA zaatakowały Iran."
+    },
+    {
+      "title": "\"Epicka Furia\". CNN: może potrwać kilka dni",
+      "link": "https://tvn24.pl/swiat/epicka-furia-cnn-moze-potrwac-kilka-dni-st8923834?source=rss",
+      "pubDate": "Sat, 28 Feb 2026 09:15:59 GMT",
+      "description": "CNN w oparciu o anonimowe źródła poinformował, że amerykańskie wojsko planuje kilkudniowe ataki na Iran. Departament Wojny Stanów Zjednoczonych zamieścił lakoniczny wpis o operacji Epicka Furia. Prezydent USA Donald Trump, powiedział natomiast, że siły amerykańskie prowadzą \"masową i ciągłą operację\".",
+      "originalTitle": "\"Epicka Furia\". CNN: może potrwać kilka dni",
+      "originalDescription": "CNN w oparciu o anonimowe źródła poinformował, że amerykańskie wojsko planuje kilkudniowe ataki na Iran. Departament Wojny Stanów Zjednoczonych zamieścił lakoniczny wpis o operacji Epicka Furia. Prezydent USA Donald Trump, powiedział natomiast, że siły amerykańskie prowadzą \"masową i ciągłą operację\"."
+    },
+    {
+      "title": "Atak na Iran. Komunikat polskiego wojska",
+      "link": "https://tvn24.pl/swiat/atak-na-iran-komunikat-polskiego-wojska-st8923836?source=rss",
+      "pubDate": "Sat, 28 Feb 2026 09:12:07 GMT",
+      "description": "Prezydent Donald Trump poinformował w sobotę, że armia USA \"rozpoczęła dużą operację militarną w Iranie\". \"Sytuacja polskich kontyngentów wojskowych jest na bieżąco monitorowana\" - przekazało polskie Dowództwo Operacyjne Rodzajów Sił Zbrojnych.",
+      "originalTitle": "Atak na Iran. Komunikat polskiego wojska",
+      "originalDescription": "Prezydent Donald Trump poinformował w sobotę, że armia USA \"rozpoczęła dużą operację militarną w Iranie\". \"Sytuacja polskich kontyngentów wojskowych jest na bieżąco monitorowana\" - przekazało polskie Dowództwo Operacyjne Rodzajów Sił Zbrojnych."
+    },
+    {
+      "title": "Nawrocki i Tusk o sytuacji w Iranie",
       "link": "https://tvn24.pl/polska/atak-na-iran-donald-tusk-nasi-obywatele-w-iranie-sa-bezpieczni-st8923737?source=rss",
       "pubDate": "Sat, 28 Feb 2026 08:03:13 GMT",
-      "description": "• Siły USA i Izraela przeprowadziły w sobotę uderzenia rakietowe na Iran.\n• Prezydent Karol Nawrocki jest na bieżąco informowany o dzisiejszych atakach na cele w Iranie.\n• Premier Donald Tusk poinformował o sytuacji Polaków, którzy przebywają w Iranie.\n• Koordynator służb specjalnych Tomasz Siemoniak wygłosił oświadczenie w tej sprawie.\n• Rzecznik Ministerstwa Spraw Zagranicznych Maciej Wewiór również zabrał głos w sprawie ataków na Iran.",
+      "description": "Siły USA i Izraela przeprowadziły w sobotę uderzenia rakietowe na Iran. \"Jestem na bieżąco informowany o dzisiejszych atakach na cele w Iranie\" - przekazał prezydent Karol Nawrocki. Premier Donald Tusk poinformował, co z Polakami, którzy przebywają w Iranie. Głos zabrali również koordynator służb specjalnych Tomasz Siemoniak i rzecznik Ministerstwa Spraw Zagranicznych Maciej Wewiór.",
       "originalTitle": "Nawrocki i Tusk o sytuacji w Iranie",
       "originalDescription": "Siły USA i Izraela przeprowadziły w sobotę uderzenia rakietowe na Iran. \"Jestem na bieżąco informowany o dzisiejszych atakach na cele w Iranie\" - przekazał prezydent Karol Nawrocki. Premier Donald Tusk poinformował, co z Polakami, którzy przebywają w Iranie. Głos zabrali również koordynator służb specjalnych Tomasz Siemoniak i rzecznik Ministerstwa Spraw Zagranicznych Maciej Wewiór."
     },
     {
-      "title": "Autobus wjechał na zamknięty przejazd",
+      "title": "Rogatki się zamykały, kierowca autobusu wjechał na przejazd",
       "link": "https://tvn24.pl/kujawsko-pomorskie/mysliwiec-rogatki-zamykaly-sie-autobus-szkolny-wjechal-na-przejazd-kolejowy-st8923793?source=rss",
       "pubDate": "Sat, 28 Feb 2026 08:49:33 GMT",
-      "description": "• Niebezpieczna sytuacja miała miejsce w Myśliwcu.\n• Myśliwiec znajduje się w województwie Kujawsko-Pomorskim.\n• Kierowca autobusu szkolnego wjechał na przejazd kolejowy.\n• Kierowca wjechał na przejazd kolejowy, mimo opadających rogatek.\n• Chwilę później przejechał pociąg przez ten sam przejazd kolejowy.\n• Na szczęście nie doszło do zderzenia pomiędzy autobusem a pociągiem.",
+      "description": "Niebezpieczna sytuacja w Myśliwcu (Kujawsko-Pomorskie). Kierowca autobusu szkolnego wjechał na przejazd kolejowy, mimo opadających rogatek. Chwilę później przejechał pociąg. Na szczęście nie doszło do zderzenia.",
       "originalTitle": "Rogatki się zamykały, kierowca autobusu wjechał na przejazd",
       "originalDescription": "Niebezpieczna sytuacja w Myśliwcu (Kujawsko-Pomorskie). Kierowca autobusu szkolnego wjechał na przejazd kolejowy, mimo opadających rogatek. Chwilę później przejechał pociąg. Na szczęście nie doszło do zderzenia."
     },
     {
-      "title": "Ostrzeżenia przed powodzią na Mazowszu",
+      "title": "Wezbrane rzeki. Najwyższy stopień ostrzeżeń na Mazowszu",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-hydrologiczne-imgw-odwilz-roztopy-wysoki-poziom-rzek-imgw-ostrzega-st8920235?source=rss",
       "pubDate": "Sat, 28 Feb 2026 08:40:00 GMT",
       "description": "Pogoda. IMGW wydał ostrzeżenia hydrologiczne. Najwyższy stopień alarmów obowiązuje na terenie województwa mazowieckiego.",
@@ -28,7 +68,7 @@
       "originalDescription": "Pogoda. IMGW wydał ostrzeżenia hydrologiczne. Najwyższy stopień alarmów obowiązuje na terenie województwa mazowieckiego."
     },
     {
-      "title": "Nie tylko Teheran. Mapa ataków",
+      "title": "Ataki poza Teheranem",
       "link": "https://tvn24.pl/swiat/iran-tu-zaatakowaly-usa-i-izrael-mapa-st8923771?source=rss",
       "pubDate": "Sat, 28 Feb 2026 08:39:42 GMT",
       "description": "W sobotę rozpoczął się atak sił zbrojnych Izraela i USA na Iran. Jak donoszą media, poza Teheranem celem ataków są też inne irańskie miasta. Wśród nich są te, w których zlokalizowane są irańskie ośrodki nuklearne. Pokazujemy mapę.",
@@ -42,46 +82,6 @@
       "description": "Armia USA rozpoczęła dużą operację militarną w Iranie - poinformował prezydent Donald Trump. Zapowiedział, że zostanie zniszczony potencjał rakietowy Iranu. Zwrócił się też do obywateli Iranu i wojsk tego kraju.",
       "originalTitle": "Trump: rozpoczęliśmy dużą operację militarną w Iranie",
       "originalDescription": "Armia USA rozpoczęła dużą operację militarną w Iranie - poinformował prezydent Donald Trump. Zapowiedział, że zostanie zniszczony potencjał rakietowy Iranu. Zwrócił się też do obywateli Iranu i wojsk tego kraju."
-    },
-    {
-      "title": "Chaos w stolicy. Kolejki na stacjach, brak łączności",
-      "link": "https://tvn24.pl/biznes/ze-swiata/atak-na-iran-teheran-chaos-w-stolicy-kolejki-do-stacji-paliw-brak-lacznosci-komorkowej-st8923776?source=rss",
-      "pubDate": "Sat, 28 Feb 2026 08:31:39 GMT",
-      "description": "We wschodnich i zachodnich dzielnicach Teheranu odcięto linie telefonii komórkowej, a w niektórych rejonach są problemy z dostępem do internetu - poinformowała agencja Reutera, powołując się na irańskie media. W stolicy Iranu od wielu godzin tworzą się też długie kolejki po paliwo.",
-      "originalTitle": "Chaos w stolicy. Kolejki na stacjach, brak łączności",
-      "originalDescription": "We wschodnich i zachodnich dzielnicach Teheranu odcięto linie telefonii komórkowej, a w niektórych rejonach są problemy z dostępem do internetu - poinformowała agencja Reutera, powołując się na irańskie media. W stolicy Iranu od wielu godzin tworzą się też długie kolejki po paliwo."
-    },
-    {
-      "title": "Irańskie pociski lecą w kierunku Izraela",
-      "link": "https://tvn24.pl/swiat/iran-atak-usa-i-izraela-relacja-na-zywo-st8923672?source=rss",
-      "pubDate": "Sat, 28 Feb 2026 07:01:10 GMT",
-      "description": "USA i Izrael przeprowadzają ataki na Iran. Izraelska armia poinformowała, że wykryła pociski balistyczne wystrzelone z Iranu w kierunku Izraela. Relacja w tvn24.pl.",
-      "originalTitle": "Irańskie pociski lecą w kierunku Izraela",
-      "originalDescription": "USA i Izrael przeprowadzają ataki na Iran. Izraelska armia poinformowała, że wykryła pociski balistyczne wystrzelone z Iranu w kierunku Izraela. Relacja w tvn24.pl."
-    },
-    {
-      "title": "LOT odwołuje wszystkie rejsy do Tel Awiwu",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-loty-do-izraela-odwolane-komunikat-st8923773?source=rss",
-      "pubDate": "Sat, 28 Feb 2026 08:27:07 GMT",
-      "description": "Rzecznik PLL LOT Krzysztof Moczulski poinformował, że do 3 marca odwołano wszystkie rejsy z i do Tel Awiwu. W sobotę rano ministerstwo obrony Izraela podało, że rozpoczęło \"prewencyjny\" atak na Iran.\\",
-      "originalTitle": "LOT odwołuje wszystkie rejsy do Tel Awiwu",
-      "originalDescription": "Rzecznik PLL LOT Krzysztof Moczulski poinformował, że do 3 marca odwołano wszystkie rejsy z i do Tel Awiwu. W sobotę rano ministerstwo obrony Izraela podało, że rozpoczęło \"prewencyjny\" atak na Iran.\\"
-    },
-    {
-      "title": "Skatował Marcysia i obciął mu uszy. Zarzuty i areszt",
-      "link": "https://tvn24.pl/krakow/krakow-skatowal-marcysia-i-obcial-mu-uszy-zarzuty-i-areszt-st8921373?source=rss",
-      "pubDate": "Thu, 26 Feb 2026 16:25:25 GMT",
-      "description": "Mężczyzna, który skatował królika Marcysia, został zatrzymany przez krakowskich policjantów. 21-latek przyznał się do winy, usłyszał zarzut dotyczący znęcania się nad zwierzęciem, za co grozi do trzech lat pozbawienia wolności. Został tymczasowo aresztowany.",
-      "originalTitle": "Skatował Marcysia i obciął mu uszy. Zarzuty i areszt",
-      "originalDescription": "Mężczyzna, który skatował królika Marcysia, został zatrzymany przez krakowskich policjantów. 21-latek przyznał się do winy, usłyszał zarzut dotyczący znęcania się nad zwierzęciem, za co grozi do trzech lat pozbawienia wolności. Został tymczasowo aresztowany."
-    },
-    {
-      "title": "Poranne zderzenie z autobusem",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zderzenie-z-autobusem-na-marszalkowskiej-st8923743?source=rss",
-      "pubDate": "Sat, 28 Feb 2026 08:06:18 GMT",
-      "description": "Na Kontakt24 otrzymaliśmy informację o zderzeniu na ulicy Marszałkowskiej, do którego doszło w sobotę rano. Strażacy przekazali, że nie było osób poszkodowanych.",
-      "originalTitle": "Poranne zderzenie z autobusem",
-      "originalDescription": "Na Kontakt24 otrzymaliśmy informację o zderzeniu na ulicy Marszałkowskiej, do którego doszło w sobotę rano. Strażacy przekazali, że nie było osób poszkodowanych."
     }
   ]
 }
