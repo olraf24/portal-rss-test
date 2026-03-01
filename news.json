@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-01T19:07:52.817Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-01T19:38:23.298Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Śnieżyca odcięła 40 rodzin od świata",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-alaska-kilkudniowa-sniezyca-uwiezila-40-rodzin-nie-moga-liczyc-na-lokalne-wladze-st8925614?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 19:10:38 GMT",
+      "description": "• Około 40 rodzin zostało uwięzionych na Alasce.\n• Uwięzienie nastąpiło po obfitych opadach śniegu.\n• Rodzinom kończą się opał, paliwo i leki.\n• Rodziny nie mogą liczyć na pomoc lokalnych władz w odśnieżaniu.",
+      "originalTitle": "Kilkudniowa śnieżyca uwięziła 40 rodzin. Nie mogą liczyć na lokalne władze",
+      "originalDescription": "Około 40 rodzin zostało uwięzionych na Alasce po obfitych opadach śniegu. Kończą im się opał, paliwo i leki. Co gorsza, nie mogą liczyć na pomoc lokalnych władz w odśnieżaniu."
+    },
+    {
+      "title": "Izraelska armia osiąga przewagę powietrzną nad Iranem",
+      "link": "https://tvn24.pl/swiat/iran-sytuacja-po-ataku-usa-i-izraela-relacja-na-zywo-aktualizacja-st8923672?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 06:10:00 GMT",
+      "description": "• Izraelskie wojsko przeprowadziło w niedzielę kolejne naloty na cele w Iranie.\n• Izraelskie wojsko oświadczyło, że osiągnęło przewagę w powietrzu nad Teheranem.\n• Izraelskie wojsko wcześniej powołało pod broń 100 tysięcy rezerwistów.\n• Dowództwo Centralne USA poinformowało, że podczas operacji \"Epicka Furia\" zginęło trzech amerykańskich żołnierzy.\n• Podczas operacji \"Epicka Furia\" pięciu amerykańskich żołnierzy zostało poważnie rannych.\n• Reżim dokonuje odwetu, przeprowadzając naloty na kraje regionu.\n• Reżim atakuje tankowce w Cieśninie Ormuz.\n• Sytuację wokół Iranu i skutki konfliktu relacjonują w TVN24 i tvn24.pl.",
+      "originalTitle": "Atak na Iran. Izraelska armia: osiągnęliśmy przewagę powietrzną nad Teheranem",
+      "originalDescription": "Izraelskie wojsko przeprowadziło w niedzielę kolejne naloty na cele w Iranie i oświadczyło, że osiągnęło przewagę w powietrzu nad Teheranem. Wcześniej powołało pod broń 100 tysięcy rezerwistów. Dowództwo Centralne USA poinformowało, że podczas operacji \"Epicka Furia\" - jak nazwano atak na Iran - zginęło trzech amerykańskich żołnierzy, a pięciu zostało poważnie rannych. Reżim dokonuje odwetu, przeprowadzając naloty na kraje regionu, a także atakując tankowce w Cieśninie Ormuz. Sytuację wokół Iranu i skutki konfliktu relacjonujemy w TVN24 i tvn24.pl."
+    },
+    {
+      "title": "Stany Zjednoczone zniszczyły 9 irańskich okrętów",
+      "link": "https://tvn24.pl/swiat/bliski-wschod-sily-usa-zniszczyly-dziewiec-iranskich-okretow-donald-trump-idziemy-po-reszte-st8925598?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 16:11:41 GMT",
+      "description": "• Zostałem właśnie poinformowany, że zniszczyliśmy i zatopiliśmy dziewięć irańskich okrętów.\n• Prezydentem USA jest Donald Trump.\n• Donald Trump przekazał informację o zniszczeniu irańskich okrętów.\n• Amerykańska armia \"idzie po resztę\" - jak zapowiedział prezydent Donald Trump.",
+      "originalTitle": "Dziewięć irańskich okrętów zniszczonych. Trump: idziemy po resztę",
+      "originalDescription": "Zostałem właśnie poinformowany, że zniszczyliśmy i zatopiliśmy dziewięć irańskich okrętów - przekazał prezydent USA Donald Trump. Zapowiedział, że amerykańska armia \"idzie po resztę\"."
+    },
+    {
+      "title": "Pogoda na 2.03: prognoza opadów",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-2-03-kto-noca-powinien-spodziewac-sie-opadow-st8925658?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 18:03:07 GMT",
+      "description": "• Pogoda dotyczy dnia poniedziałku.\n• Data, na którą przewidywana jest pogoda, to 2.03.\n• Noc będzie pochmurna.\n• W części kraju pojawią się przejaśnienia.\n• W części kraju pojawią się rozpogodzenia.\n• Miejscami możliwe są opady deszczu w nocy.\n• Deszcz jest możliwy także w dzień.\n• Temperatura maksymalna w dzień będzie się wahać od kilku do kilkunastu stopni.\n• Temperatura maksymalna będzie zależała od regionu.",
+      "originalTitle": "Pogoda na jutro - poniedziałek, 2.03. Kto nocą powinien spodziewać się opadów",
+      "originalDescription": "Pogoda na jutro, czyli na poniedziałek, 2.03. Noc będzie pochmurna. W części kraju pojawią się przejaśnienia i rozpogodzenia, ale miejscami popada. Deszcz możliwy jest także w dzień, który - w zależności od regionu - przyniesie temperaturę maksymalną od kilku do kilkunastu stopni."
+    },
+    {
+      "title": "Zdarzenie w barze w centrum miasta",
+      "link": "https://tvn24.pl/swiat/usa-austin-atak-na-bar-w-centrum-miasta-mogl-to-byc-akt-terroryzmu-st8925659?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 17:57:48 GMT",
+      "description": "Dwie osoby zginęły, a 14 zostało rannych po tym, jak napastnik otworzył ognień do ludzi w barze w centrum Austin w Teksasie. Został zabity przez służby. Sprawę bada zespół FBI do spraw walki z terroryzmem.",
+      "originalTitle": "Atak na bar w centrum miasta. \"Mógł to być akt terroryzmu\"",
+      "originalDescription": "Dwie osoby zginęły, a 14 zostało rannych po tym, jak napastnik otworzył ognień do ludzi w barze w centrum Austin w Teksasie. Został zabity przez służby. Sprawę bada zespół FBI do spraw walki z terroryzmem."
+    },
+    {
+      "title": "Konflikt z Iranem: sytuacja na mapach",
+      "link": "https://tvn24.pl/swiat/atak-na-iran-odpowiedz-rezimu-mapy-gdzie-i-w-jakich-krajach-byly-ataki-st8925584?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 17:25:12 GMT",
+      "description": "W sobotę Izrael i USA zaatakowały cele w Iranie, zabijając przywódcę duchowego i politycznego Iranu Alego Chameneiego. W odpowiedzi reżim przypuścił zmasowany atak rakietami i dronami na amerykańskie bazy w regionie, a także na cele w Izraelu, trafiając również cywilne budynku w krajach ościennych, w tym w Bahrajnie, Dubaju i Abu Zabi. Miejsca ataków pokazujemy na mapach.",
+      "originalTitle": "Atak na Iran i odwet reżimu. Pokazujemy na mapach",
+      "originalDescription": "W sobotę Izrael i USA zaatakowały cele w Iranie, zabijając przywódcę duchowego i politycznego Iranu Alego Chameneiego. W odpowiedzi reżim przypuścił zmasowany atak rakietami i dronami na amerykańskie bazy w regionie, a także na cele w Izraelu, trafiając również cywilne budynku w krajach ościennych, w tym w Bahrajnie, Dubaju i Abu Zabi. Miejsca ataków pokazujemy na mapach."
+    },
+    {
+      "title": "Armia USA: zginęło trzech naszych żołnierzy, pięciu ciężko rannych",
+      "link": "https://tvn24.pl/swiat/atak-na-iran-armia-usa-zginelo-trzech-naszych-zolnierzy-pieciu-ciezko-rannych-st8925603?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 16:50:53 GMT",
+      "description": "Jak przekazało w niedzielę Dowództwo Centralne USA - CENTCOM - dotychczas w działań zbrojnych przeciwko Iranowi zginęło trzech żołnierzy, a pięciu zostało poważnie rannych.",
+      "originalTitle": "Armia USA: zginęło trzech naszych żołnierzy, pięciu ciężko rannych",
+      "originalDescription": "Jak przekazało w niedzielę Dowództwo Centralne USA - CENTCOM - dotychczas w działań zbrojnych przeciwko Iranowi zginęło trzech żołnierzy, a pięciu zostało poważnie rannych."
+    },
+    {
+      "title": "Lód załamał się pod wędkarzem. Mężczyzna nie przeżył",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pomorskie-gardeja-lod-zalamal-sie-pod-wedkarzem-mezczyzna-nie-przezyl-st8925636?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 16:43:49 GMT",
+      "description": "Lód załamał się pod 74-latkiem, który uprawiał wędkarstwo podlodowe na jeziorze w województwie pomorskim. Życia mężczyzny nie udało się uratować. Policja apeluje o ostrożność.",
+      "originalTitle": "Lód załamał się pod wędkarzem. Mężczyzna nie przeżył",
+      "originalDescription": "Lód załamał się pod 74-latkiem, który uprawiał wędkarstwo podlodowe na jeziorze w województwie pomorskim. Życia mężczyzny nie udało się uratować. Policja apeluje o ostrożność."
+    },
+    {
+      "title": "Trump: zginęło 48 przedstawicieli najwyższych władz Iranu",
+      "link": "https://tvn24.pl/swiat/donald-trump-o-operacji-w-iranie-zginelo-48-przedstawicieli-najwyzszych-wladz-st8925622?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 16:26:56 GMT",
+      "description": "Prezydent USA Donald Trump poinformował, że w czasie amerykańskich i izraelskich ataków na Iran przeciwko irańskiemu reżimowi dotychczas zginęło 48 przedstawicieli najwyższych władz kraju.",
+      "originalTitle": "Trump: zginęło 48 przedstawicieli najwyższych władz Iranu",
+      "originalDescription": "Prezydent USA Donald Trump poinformował, że w czasie amerykańskich i izraelskich ataków na Iran przeciwko irańskiemu reżimowi dotychczas zginęło 48 przedstawicieli najwyższych władz kraju."
+    },
+    {
+      "title": "Drzewo Roku 2026 w Polsce. Oto kandydaci",
+      "link": "https://tvn24.pl/tvnmeteo/polska/drzewo-roku-2026-w-polsce-oto-kandydaci-st8925590?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 16:16:39 GMT",
+      "description": "Poznaliśmy kandydatów w konkursie na Drzewo Roku 2026 w Polsce. W 16. edycji plebiscytu organizowanego przez Klub Gaja w szranki stanie 16 okazów z całego kraju. Zwycięzca powalczy o tytuł Europejskiego Drzewa Roku.",
+      "originalTitle": "Drzewo Roku 2026 w Polsce. Oto kandydaci",
+      "originalDescription": "Poznaliśmy kandydatów w konkursie na Drzewo Roku 2026 w Polsce. W 16. edycji plebiscytu organizowanego przez Klub Gaja w szranki stanie 16 okazów z całego kraju. Zwycięzca powalczy o tytuł Europejskiego Drzewa Roku."
+    }
+  ]
 }
