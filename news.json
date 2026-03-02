@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-02T06:48:23.755Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-02T07:24:36.253Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kurs złota po atakach na Iran",
+      "link": "https://tvn24.pl/biznes/rynki/kurs-zlotego-spadki-po-atakach-na-iran-st8925921?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 07:20:40 GMT",
+      "description": "• Potwierdzenie zgonu Alego Chameneiego oraz odwetowe ataki Iranu na cele USA i Izraela wywołały ucieczkę inwestorów w kierunku walut uznawanych za \"bezpieczne przystanie\".\n• Inwestorzy uciekają w kierunku walut uznawanych za \"bezpieczne przystanie\".\n• Złoty traci do wszystkich głównych walut.",
+      "originalTitle": "Złoty traci po atakach na Iran",
+      "originalDescription": "Potwierdzenie zgonu Alego Chameneiego oraz odwetowe ataki Iranu na cele USA i Izraela wywołały ucieczkę inwestorów w kierunku walut uznawanych za \"bezpieczne przystanie\". Jak radzi sobie złoty? Traci do wszystkich głównych walut."
+    },
+    {
+      "title": "Hanka w pamięci",
+      "link": "https://tvn24.pl/polska/w-skierniewicach-odbyl-sie-turniej-charytatywny-chlopaki-nie-placza-st8925849?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 07:00:50 GMT",
+      "description": "• Hania zmarła w wieku 17 lat.\n• Zmarła niespełna dwa miesiące temu.\n• Chorowała na raka kości.\n• Diagnozę poznała prawie rok temu.\n• Nie doczekała się świadczenia wspierającego z powodu urzędniczej biurokracji.\n• Pieniądze na leczenie Hani zostały zebrane podczas internetowej zbiórki.\n• Matka Hani chce przekazać zebrane pieniądze innym dzieciom.",
+      "originalTitle": "\"Hanka jest z nami, nie zapomnimy o niej nigdy\"",
+      "originalDescription": "17-letnia Hania zmarła niespełna dwa miesiące temu. Chorowała na raka kości. Diagnozę poznała prawie rok temu, ale przez urzędniczą biurokrację nie doczekała się świadczenia wspierającego. Pieniądze, które udało się zebrać podczas internetowej zbiórki na leczenie Hani, jej matka chce teraz przekazać innym dzieciom."
+    },
+    {
+      "title": "Rekordowe opady w Australii",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pogodowy-szok-w-australii-rekordowe-opady-w-czesci-kraju-st8925854?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 06:53:46 GMT",
+      "description": "Australia zmaga się z powodziami i podtopieniami, które są skutkiem fali ulewnych opadów deszczu. Trudna sytuacja ma między innymi miejsce w stanach: Nowa Południowa Walia, Wiktoria i Południowa Australia. Lokalne służby interweniowały setki razy.",
+      "originalTitle": "\"Pogodowy szok\" w Australii. Rekordowe opady w części kraju",
+      "originalDescription": "Australia zmaga się z powodziami i podtopieniami, które są skutkiem fali ulewnych opadów deszczu. Trudna sytuacja ma między innymi miejsce w stanach: Nowa Południowa Walia, Wiktoria i Południowa Australia. Lokalne służby interweniowały setki razy."
+    },
+    {
+      "title": "Oskarżeni o zhakowanie irańskiej telewizji",
+      "link": "https://tvn24.pl/biznes/ze-swiata/atak-na-iran-zhakowana-telewizja-publiczna-nadala-przemowienie-trumpa-i-netanjahu-st8925879?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 06:37:27 GMT",
+      "description": "• Państwowa telewizja Iranu została zhakowana w niedzielę.\n• Na antenie przez kilka minut emitowano przemówienie przywódców USA i Izraela do Irańczyków.\n• Informację o zhakowaniu państwowej telewizji Iranu podaje stacja IranIntl.\n• Zhakowanie telewizji ma stanowić kolejny etap wojny informacyjnej.\n• Wojna informacyjna towarzyszy konfliktowi zbrojnemu na Bliskim Wschodzie.",
+      "originalTitle": "Mieli zhakować irańską telewizję publiczną i pokazać Trumpa",
+      "originalDescription": "Państwowa telewizja Iranu została w niedzielę zhakowana - na antenie przez kilka minut emitowano przemówienie przywódców USA i Izraela do Irańczyków - podaje stacja IranIntl. Ma to stanowić kolejny etap wojny informacyjnej towarzyszącej konfliktowi zbrojnemu na Bliskim Wschodzie."
+    },
+    {
+      "title": "Stwierdzenie braku negocjacji ze Stanami Zjednoczonymi",
+      "link": "https://tvn24.pl/swiat/iran-ali-laridzani-zapowiedzial-ze-teheran-nie-bedzie-negocjowac-z-usa-st8925856?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 06:14:00 GMT",
+      "description": "• Jeden z przywódców Iranu po śmierci Alego Chameneiego to Ali Laridżani.\n• Ali Laridżani oświadczył, że Teheran nie będzie negocjować ze Stanami Zjednoczonymi.\n• O takich zamiarach informowały wcześniej amerykańskie media.\n• Zmarł Ali Chamenei.",
+      "originalTitle": "\"Nie będziemy negocjować ze Stanami Zjednoczonymi\"",
+      "originalDescription": "Jeden z przywódców Iranu po śmierci Alego Chameneiego, Ali Laridżani, oświadczył, że Teheran nie będzie negocjować ze Stanami Zjednoczonymi. O takich zamiarach informowały wcześniej amerykańskie media."
+    },
+    {
+      "title": "Rynki reagują na sytuację w cieśninie Ormuz",
+      "link": "https://tvn24.pl/biznes/rynki/rynki-reaguja-na-atak-na-iran-i-wstrzymany-ruch-w-ciesninie-ormuz-st8925851?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 05:59:16 GMT",
+      "description": "• Ceny ropy naftowej wzrosły o ok. 7,5 proc.\n• Najważniejsze indeksy giełdowe w Azji zanotowały spadki podczas poniedziałkowej porannej sesji\n• Złoto i dolar odnotowały wzrosty\n• Złoto i dolar są tak zwanymi bezpiecznymi przystaniami\n• Wzrost cen i spadki indeksów są reakcją inwestorów na weekendowe ataki\n• Ataki zostały przeprowadzone przez USA i Izrael na Iran\n• Ruch tankowców w strategicznej cieśninie Ormuz został wstrzymany\n• Cieśnina Ormuz jest strategicznym miejscem \n• Ataki i wstrzymanie ruchu tankowców miały miejsce w weekend \n• Reakcja inwestorów miała miejsce podczas poniedziałkowej porannej sesji",
+      "originalTitle": "Rynki reagują na atak na Iran i wstrzymany ruch w cieśninie Ormuz",
+      "originalDescription": "Ceny ropy naftowej wzrosły o ok. 7,5 proc., a najważniejsze indeksy giełdowe w Azji zanotowały spadki podczas poniedziałkowej porannej sesji. Wzrosty odnotowały natomiast tak zwane bezpieczne przystanie - złoto i dolar. To reakcja inwestorów na weekendowe ataki USA i Izraela na Iran oraz faktyczne wstrzymanie ruchu tankowców w strategicznej cieśninie Ormuz."
+    },
+    {
+      "title": "\"Ogromna eksplozja\". Wybuchy w Dubaju, Abu Zabi i Dosze",
+      "link": "https://tvn24.pl/swiat/iran-sytuacja-po-ataku-usa-i-izraela-relacja-na-zywo-aktualizacja-st8923672?source=rss",
+      "pubDate": "Sun, 01 Mar 2026 06:10:00 GMT",
+      "description": "Sytuacja na Bliskim Wschodzie wciąż pozostaje napięta. W Dosze, stolicy Kataru, słyszano serię głośnych wybuchów. Eksplozje miały nastąpić też w Dubaju i Abu Zabi. Sytuację wokół Iranu i skutki konfliktu relacjonujemy w TVN24 i tvn24.pl.",
+      "originalTitle": "\"Ogromna eksplozja\". Wybuchy w Dubaju, Abu Zabi i Dosze",
+      "originalDescription": "Sytuacja na Bliskim Wschodzie wciąż pozostaje napięta. W Dosze, stolicy Kataru, słyszano serię głośnych wybuchów. Eksplozje miały nastąpić też w Dubaju i Abu Zabi. Sytuację wokół Iranu i skutki konfliktu relacjonujemy w TVN24 i tvn24.pl."
+    },
+    {
+      "title": "Gęste mgły. Tu należy uważać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gesta-mgla-ostrzezenia-1-2-03-alarmy-w-dziewieciu-wojewodztwach-tu-nalezy-zachowac-ostroznosc-st8925112?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 05:26:00 GMT",
+      "description": "Pogoda w Polsce. IMGW wydał ostrzeżenia meteorologiczne pierwszego stopnia. Alarmy przed gęstymi mgłami obowiązują w części Polsce. Sprawdź, gdzie poranek może być niebezpieczny.",
+      "originalTitle": "Gęste mgły. Tu należy uważać",
+      "originalDescription": "Pogoda w Polsce. IMGW wydał ostrzeżenia meteorologiczne pierwszego stopnia. Alarmy przed gęstymi mgłami obowiązują w części Polsce. Sprawdź, gdzie poranek może być niebezpieczny."
+    },
+    {
+      "title": "Kosztowny manewr i strata prawa jazdy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-kosztowny-manewr-i-strata-prawa-jazdy-st8925835?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 05:04:22 GMT",
+      "description": "Przed przejściem dla pieszych wyprzedził nieoznakowany radiowóz i gwałtownie przyspieszył do 144 kilometrów na godzinę. Dalszą jazdę udaremnili mu policjanci z radomskiej drogówki, wchodzący w skład grupy Speed. Mężczyzna stracił prawo jazdy.",
+      "originalTitle": "Kosztowny manewr i strata prawa jazdy",
+      "originalDescription": "Przed przejściem dla pieszych wyprzedził nieoznakowany radiowóz i gwałtownie przyspieszył do 144 kilometrów na godzinę. Dalszą jazdę udaremnili mu policjanci z radomskiej drogówki, wchodzący w skład grupy Speed. Mężczyzna stracił prawo jazdy."
+    },
+    {
+      "title": "Jak długo potrwa operacja w Iranie? Trump odpowiada",
+      "link": "https://tvn24.pl/swiat/jak-dlugo-potrwa-operacja-w-iranie-trump-odpowiada-st8925818?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 04:45:57 GMT",
+      "description": "W izraelsko-amerykańskim ataku zginęło całe dowództwo wojskowe Iranu - oświadczył w niedzielę prezydent USA Donald Trump. W nagraniu opublikowanym w mediach społecznościowych zapewniał, że działania bojowe będą kontynuowane. Wiadomo też, jak długo może potrwać operacja \"Epicka Furia\".",
+      "originalTitle": "Jak długo potrwa operacja w Iranie? Trump odpowiada",
+      "originalDescription": "W izraelsko-amerykańskim ataku zginęło całe dowództwo wojskowe Iranu - oświadczył w niedzielę prezydent USA Donald Trump. W nagraniu opublikowanym w mediach społecznościowych zapewniał, że działania bojowe będą kontynuowane. Wiadomo też, jak długo może potrwać operacja \"Epicka Furia\"."
+    }
+  ]
 }
