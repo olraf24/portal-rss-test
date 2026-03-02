@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-02T10:19:05.368Z",
+  "lastUpdate": "2026-03-02T10:46:31.010Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Jak ciasna przestrzeń zmienia zachowanie ciekłego kryształu",
+      "link": "https://dzienniknaukowy.pl/jak-ciasna-przestrzen-zmienia-zachowanie-cieklego-krysztalu",
+      "pubDate": "Mon, 02 Mar 2026 10:37:48 +0000",
+      "description": "Ciekłe kryształy kojarzą się z ekranami LCD, ale dla naukowców są materiałami, których strukturę i właściwości można stroić. Sama geometria przestrzeni, którą wypełnimy ciekłym kryształem, tj. nanokanały o średnicy od kilku do kilkuset nanometrów, potrafi zmienić porządek wewnątrz jego struktury, a tym samym jego właściwości optyczne."
+    },
     {
       "title": "Grzybowe pasożyty zmieniają życie mrowiska",
       "link": "https://dzienniknaukowy.pl/grzybowe-pasozyty-zmieniaja-zycie-mrowiska",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/swiatlo-zamiast-igly-pomysl-na-czujnik-glukozy-z-kropli-moczu",
       "pubDate": "Wed, 25 Feb 2026 10:25:49 +0000",
       "description": "Zespół naukowców z Indii i Polski pracuje nad czujnikiem, który miałby wykrywać glukozę nie z kropli krwi, lecz z próbki moczu, wykorzystując odczyt optyczny."
-    },
-    {
-      "title": "Rośliny rekrutują mikroorganizmy, aby przetrwać w zanieczyszczonej glebie",
-      "link": "https://dzienniknaukowy.pl/rosliny-rekrutuja-mikroorganizmy-aby-przetrwac-w-zanieczyszczonej-glebie",
-      "pubDate": "Tue, 24 Feb 2026 13:27:09 +0000",
-      "description": "Roślina sama aktywnie decyduje, z którymi mikroorganizmami wejdzie w bliską współpracę, aby dzięki odpowiednim mikroorganizmom lepiej poradzić sobie w trudnym środowisku zanieczyszczonym metalami ciężkimi – ustalili badacze z polsko-austriackiego zespołu naukowego."
     }
   ]
 }
