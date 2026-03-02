@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-02T14:19:06.781Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-02T14:47:03.772Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Lombard okradziony, aresztowano dwie osoby",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pultusk-ukradli-bizuterie-z-lombardu-aresztowani-poszukiwani-st8926767?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:37:36 GMT",
+      "description": "Dwaj mieszkańcy Wyszkowa są podejrzani o włamanie do lombardu w Pułtusku i kradzież biżuterii wartej 200 tysięcy złotych. Obaj mężczyźni trafili do aresztu. Policja poszukuje nadal dwóch innych osób biorących udział w napadzie.",
+      "originalTitle": "Wybili szybę młotkiem, ukradli biżuterię z lombardu. Dwóch aresztowanych, dwóch poszukiwanych",
+      "originalDescription": "Dwaj mieszkańcy Wyszkowa są podejrzani o włamanie do lombardu w Pułtusku i kradzież biżuterii wartej 200 tysięcy złotych. Obaj mężczyźni trafili do aresztu. Policja poszukuje nadal dwóch innych osób biorących udział w napadzie."
+    },
+    {
+      "title": "Pobicie na stacji paliw, trzy osoby z zarzutami",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-brutalne-pobicie-na-stacji-paliw-trzy-osoby-z-zarzutami-st8927020?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:26:40 GMT",
+      "description": "• Trzech mężczyzn podejrzanych o pobicie 36-latka na stacji paliw usłyszało zarzuty.\n• Ofiarą pobicia jest 36-latek.\n• Pobicie miało miejsce na stacji paliw.\n• Motywem pobicia były wewnętrzne rozliczenia między osobami zaangażowanymi w zdarzenie.\n• Prokuratura poinformowała o motywie pobicia.",
+      "originalTitle": "Brutalne pobicie na stacji paliw. Trzy osoby z zarzutami",
+      "originalDescription": "Trzech mężczyzn podejrzanych o pobicie 36-latka na stacji paliw usłyszało zarzuty. \"Motywem były wewnętrzne rozliczenia między tymi osobami\" - podała prokuratura."
+    },
+    {
+      "title": "Wypadek ciężarówki na drodze",
+      "link": "https://tvn24.pl/katowice/bedzin-przewrocona-ciezarowka-zablokowala-zjazd-na-trase-s1-st8927110?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:23:43 GMT",
+      "description": "Zablokowany zjazd z drogi krajowej numer 91 w drogę ekspresową S1 w Wojkowicach Kościelnych (Śląskie). Ciężarówka z naczepą przewróciła się i blokuje przejazd. Wyznaczono objazdy.",
+      "originalTitle": "Przewrócona ciężarówka zablokowała drogę",
+      "originalDescription": "Zablokowany zjazd z drogi krajowej numer 91 w drogę ekspresową S1 w Wojkowicach Kościelnych (Śląskie). Ciężarówka z naczepą przewróciła się i blokuje przejazd. Wyznaczono objazdy."
+    },
+    {
+      "title": "Kierowca z dziećmi pod wpływem alkoholu",
+      "link": "https://tvn24.pl/wroclaw/zabkowice-slaskie-jechala-zygzakiem-byla-pijana-wracala-z-dziecmi-z-ferii-st8927131?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:20:50 GMT",
+      "description": "• Kierująca BMW wracała z ferii w Kotlinie Kłodzkiej.\n• Miejsce zdarzenia znajduje się w województwie dolnośląskim.\n• Kierująca jechała całą szerokością drogi.\n• Kierująca zignorowała znak STOP.\n�� Kierująca miała 36 lat.\n• Kierująca pochodziła z Poznania.\n• Kierująca miała w organizmie prawie dwa promile alkoholu.\n• Kierująca wiozła dwoje dzieci.",
+      "originalTitle": "Jechała zygzakiem, była pijana. Wracała z dziećmi z ferii",
+      "originalDescription": "Kierująca BMW, wracając z ferii w Kotlinie Kłodzkiej (woj. dolnośląskie), jechała całą szerokością drogi i zignorowała znak STOP. Jak się okazało, 36-letnia Poznanianka miała w organizmie prawie dwa promile alkoholu, a na dodatek wiozła dwoje dzieci."
+    },
+    {
+      "title": "Orban wzywa Zełenskiego ponownie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/orban-nie-odpuszcza-ponownie-wzywam-prezydenta-zelenskiego-st8927178?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:18:58 GMT",
+      "description": "Premier Węgier Viktor Orban przekazał, że zdjęcia satelitarne i informacje operacyjne potwierdzają, iż rurociąg \"Przyjaźń\" jest sprawny. Ropociąg wykorzystywany jest do transportu na Węgry i Słowację rosyjskiej ropy przez Ukrainę.",
+      "originalTitle": "Orban nie odpuszcza. \"Ponownie wzywam prezydenta Zełenskiego\"",
+      "originalDescription": "Premier Węgier Viktor Orban przekazał, że zdjęcia satelitarne i informacje operacyjne potwierdzają, iż rurociąg \"Przyjaźń\" jest sprawny. Ropociąg wykorzystywany jest do transportu na Węgry i Słowację rosyjskiej ropy przez Ukrainę."
+    },
+    {
+      "title": "Wypadek z udziałem policjantów",
+      "link": "https://tvn24.pl/bialystok/suwalki-wjechal-w-zaparkowane-przed-komenda-samochody-policjantow-i-odjechal-nagranie-st8926727?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:13:13 GMT",
+      "description": "• W Suwałkach kierujący samochodem osobowym wjechał w zaparkowane przed komendą prywatne samochody policjantów.\n• Kierujący odjechał z miejsca zdarzenia.\n• Mężczyzna został zatrzymany kilkaset metrów dalej.\n• Zatrzymany mężczyzna był 30-latkiem.\n• 30-latek był pod wpływem substancji odurzających.",
+      "originalTitle": "Z impetem uderzył w auta policjantów i odjechał. Nagranie",
+      "originalDescription": "W Suwałkach kierujący samochodem osobowym wjechał w zaparkowane przed komendą prywatne samochody policjantów, po czym odjechał z miejsca zdarzenia. Ucieczka nie trwała jednak długo. Mężczyzna został zatrzymany kilkaset metrów dalej. Jak się okazało, 30-latek był pod wpływem substancji odurzających."
+    },
+    {
+      "title": "Sytuacja na Bliskim Wschodzie",
+      "link": "https://tvn24.pl/biznes/turystyka/konflikt-na-bliskim-wschodzie-co-maja-zrobic-podrozni-st8926334?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:10:27 GMT",
+      "description": "• Niebo nad większością krajów w regionie jest po prostu zamknięte.\n• Loty cywilne nie są wykonywane.\n• Paweł Kunz jest ekspertem w dziedzinie podróży i turystyki.\n• Paweł Kunz udzielił wywiadu redakcji biznesowej tvn24.pl.\n• W wywiadzie Paweł Kunz odpowiada na najważniejsze pytania dotyczące sytuacji podróżnych w regionie.",
+      "originalTitle": "Konflikt na Bliskim Wschodzie. Co mają zrobić podróżni?",
+      "originalDescription": "Niebo nad większością krajów w regionie jest po prostu zamknięte. Loty cywilne nie są wykonywane - mówi Paweł Kunz, ekspert w dziedzinie podróży i turystyki. W rozmowie z redakcją biznesową tvn24.pl odpowiada na najważniejsze pytania dotyczące sytuacji podróżnych w regionie."
+    },
+    {
+      "title": "Prognoza pogody na wiosnę",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-wiosna-na-calego-jak-cieplo-bedzie-prognoza-na-5-dni-st8926728?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:02:41 GMT",
+      "description": "Pogoda w Polsce. Rozległy układ wysokiego zapewni nam stabilną, wiosenną aurę. Dotrze też do nas kolejna porcja zwrotnikowego powietrza.",
+      "originalTitle": "Pogoda. Wiosna na całego. Jak ciepło będzie",
+      "originalDescription": "Pogoda w Polsce. Rozległy układ wysokiego zapewni nam stabilną, wiosenną aurę. Dotrze też do nas kolejna porcja zwrotnikowego powietrza."
+    },
+    {
+      "title": "Proces w sprawie porachunków gangsterskich",
+      "link": "https://tvn24.pl/lodz/lodz-krol-whisky-stanie-przed-sadem-chodzi-o-gangsterskie-porachunki-sprzed-lat-st8926785?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:00:41 GMT",
+      "description": "W czwartek przed sądem w Łodzi rozpocznie się proces Łukasza R., ps. Rataj, oskarżonego między innymi o podżeganie do zabójstwa \"Grubego Irka\" - jednego z bossów łódzkiej mafii w końcu ubiegłego wieku. \"Rataj\", nazwany przez media londyńskim \"królem whisky\", ukrywał się 20 lat w Anglii, gdzie prowadził destylarnię.",
+      "originalTitle": "\"Król whisky\" stanie przed sądem. Chodzi o gangsterskie porachunki sprzed lat",
+      "originalDescription": "W czwartek przed sądem w Łodzi rozpocznie się proces Łukasza R., ps. Rataj, oskarżonego między innymi o podżeganie do zabójstwa \"Grubego Irka\" - jednego z bossów łódzkiej mafii w końcu ubiegłego wieku. \"Rataj\", nazwany przez media londyńskim \"królem whisky\", ukrywał się 20 lat w Anglii, gdzie prowadził destylarnię."
+    },
+    {
+      "title": "Prawie zmiótł pieszych z przejścia. Wiadomo, kto kierował",
+      "link": "https://tvn24.pl/poznan/poznan-ul-male-garbary-kierowca-prawie-zmiotl-pieszych-z-pasow-policjanci-ustalili-tozsamosc-st8926997?source=rss",
+      "pubDate": "Mon, 02 Mar 2026 14:00:30 GMT",
+      "description": "Wyprzedził auto przed przejściem dla pieszych i z impetem wjechał na pasy, przez które przechodziły dwie osoby. Policjanci ustalili tożsamość pirata drogowego, który mknął przez centrum Poznania.",
+      "originalTitle": "Prawie zmiótł pieszych z przejścia. Wiadomo, kto kierował",
+      "originalDescription": "Wyprzedził auto przed przejściem dla pieszych i z impetem wjechał na pasy, przez które przechodziły dwie osoby. Policjanci ustalili tożsamość pirata drogowego, który mknął przez centrum Poznania."
+    }
+  ]
 }
