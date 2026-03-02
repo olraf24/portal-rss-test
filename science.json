@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-02T11:16:37.165Z",
+  "lastUpdate": "2026-03-02T11:42:01.552Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Nowy biomateriał ma wspomóc regenerację kości",
+      "link": "https://dzienniknaukowy.pl/nowy-biomaterial-ma-wspomoc-regeneracje-kosci",
+      "pubDate": "Mon, 02 Mar 2026 11:19:58 +0000",
+      "description": "Naukowcy z Politechniki Gdańskiej opracowują nowy biomateriał, który może wspomagać regenerację kości po usunięciu nowotworu. Materiał ma sprzyjać odbudowie tkanki kostnej, ograniczać ryzyko infekcji i hamować podział komórek nowotworowych."
+    },
     {
       "title": "Jak ciasna przestrzeń zmienia zachowanie ciekłego kryształu",
       "link": "https://dzienniknaukowy.pl/jak-ciasna-przestrzen-zmienia-zachowanie-cieklego-krysztalu",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/oprysk-na-chwasty-w-systemie-bezorkowym-ochrona-gleby-i-efektywna-walka-z-chwastami",
       "pubDate": "Wed, 25 Feb 2026 10:55:37 +0000",
       "description": "Każdy rolnik, który wdrożył system bezorkowy, szybko zauważa różnicę: mniej erozji, lepsza retencja wody, wyższa zawartość materii organicznej i realne oszczędności paliwa. Jednak już w pierwszym sezonie pojawia się nowe wyzwanie – chwasty. Bez mechanicznego przykrycia gleby nasiona pozostają na powierzchni, resztki pożniwne tworzą naturalną warstwę, a niektóre gatunki zaczynają dominować. W takiej sytuacji oprysk na chwasty przestaje być tylko dodatkiem – staje się kluczowym elementem całej technologii."
-    },
-    {
-      "title": "Światło zamiast igły: pomysł na czujnik glukozy z kropli moczu",
-      "link": "https://dzienniknaukowy.pl/swiatlo-zamiast-igly-pomysl-na-czujnik-glukozy-z-kropli-moczu",
-      "pubDate": "Wed, 25 Feb 2026 10:25:49 +0000",
-      "description": "Zespół naukowców z Indii i Polski pracuje nad czujnikiem, który miałby wykrywać glukozę nie z kropli krwi, lecz z próbki moczu, wykorzystując odczyt optyczny."
     }
   ]
 }
