@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-04T19:17:38.285Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-04T19:44:52.006Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dwa samoloty lecą po Polaków",
+      "link": "https://tvn24.pl/biznes/z-kraju/to-jest-misja-bardzo-trudna-dwa-samoloty-maja-leciec-po-polakow-st8931724?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 19:05:16 GMT",
+      "description": "• Procedura ewakuacji obywateli polskich z Bliskiego Wschodu jest już w toku.\n• Minister sportu i turystyki Jakub Rutnicki poinformował o tym w programie \"Fakty po Faktach\" na antenie TVN24.\n• Obecnie przygotowywane są dwa wojskowe samoloty.\n• Samoloty mają wylecieć do Omanu.",
+      "originalTitle": "\"To jest misja bardzo trudna\". Dwa samoloty mają lecieć po Polaków",
+      "originalDescription": "Procedura ewakuacji obywateli polskich z Bliskiego Wschodu jest już w toku - poinformował minister sportu i turystyki Jakub Rutnicki w programie \"Fakty po Faktach\" na antenie TVN24. Szef resortu przekazał, że obecnie przygotowywane są dwa wojskowe samoloty, które mają wylecieć do Omanu."
+    },
+    {
+      "title": "Biblioteka i dzik",
+      "link": "https://tvn24.pl/tvnwarszawa/wesola/warszawa-projekt-biblioteki-w-wesolej-st8914046?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 19:04:18 GMT",
+      "description": "Dzielnica Wesoła rozstrzygnęła konkurs architektoniczny na koncepcję biblioteki. Wygrała propozycja biura XYSTUDIO. W centralnym punkcie nowego budynku znajdzie się czytelnia podkreślona świetlikiem w dachu. Regały będą jednocześnie ścianami wewnętrznymi. Całości będzie \"strzegł\" drewniany dzik.",
+      "originalTitle": "Biblioteka pod okiem dzika",
+      "originalDescription": "Dzielnica Wesoła rozstrzygnęła konkurs architektoniczny na koncepcję biblioteki. Wygrała propozycja biura XYSTUDIO. W centralnym punkcie nowego budynku znajdzie się czytelnia podkreślona świetlikiem w dachu. Regały będą jednocześnie ścianami wewnętrznymi. Całości będzie \"strzegł\" drewniany dzik."
+    },
+    {
+      "title": "Stany Zjednoczone i Unia Europejska w sporze handlowym",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-grozby-donalda-trumpa-konflikt-handlowy-z-cala-unia-europejska-st8931347?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 19:02:52 GMT",
+      "description": "• Donald Trump zagroził zerwaniem relacji handlowych z Hiszpanią.\n• Prezydent USA przekonuje, że może wprowadzić embargo \"nawet dzisiaj\".\n• Eksperci wskazują na prawne i polityczne przeszkody dla takich działań.\n• W praktyce oznaczałoby to konflikt handlowy z całą Unią Europejską.\n• Paul Balawajder, analityk z Polskiego Instytutu Spraw Międzynarodowych, wyraził swoją opinię w rozmowie z TVN24+.\n• Paul Balawajder ocenił, że zerwanie relacji handlowych z Hiszpanią oznaczałoby konflikt handlowy z całą Unią Europejską.",
+      "originalTitle": "Groźby Trumpa. \"Konflikt handlowy z całą Unią Europejską\"",
+      "originalDescription": "Donald Trump zagroził zerwaniem relacji handlowych z Hiszpanią. Choć prezydent USA przekonuje, że może wprowadzić embargo \"nawet dzisiaj\", eksperci wskazują na prawne i polityczne przeszkody dla takich działań. - W praktyce oznaczałoby to konflikt handlowy z całą Unią Europejską - ocenia w rozmowie z TVN24+ Paul Balawajder, analityk z Polskiego Instytutu Spraw Międzynarodowych."
+    },
+    {
+      "title": "Pogoda na 5.03: mgła i przymrozki",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-na-jutro-czwartek-5-03-nadchodzi-mglista-noc-z-przymrozkami-st8931678?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 18:40:16 GMT",
+      "description": "• Pogoda opisana jest na dzień jutro, czyli czwartek.\n• Data jutrzejsza to 5.03.\n• W nocy temperatura spadnie poniżej zera w całym kraju.\n• Lokalnie pojawią się gęste mgły.\n• W ciągu dnia dominować b��dzie słoneczna aura.\n• Na termometrach zobaczymy do 12 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - czwartek, 5.03. Nadchodzi mglista noc z przymrozkami",
+      "originalDescription": "Pogoda na jutro, czyli czwartek, 5.03. W nocy w całym kraju temperatura spadnie poniżej zera. Lokalnie pojawią się gęste mgły. W ciągu dnia dominować będzie słoneczna aura, a na termometrach zobaczymy do 12 stopni Celsjusza."
+    },
+    {
+      "title": "Mężczyzna oskarżony o zaniedbanie psa",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-zaniedbal-psa-grozi-mu-wiezienie-st8931571?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 18:39:48 GMT",
+      "description": "• 45-latek nie zadbał o właściwą opiekę weterynaryjną chorego psa\n• Zwierzę odebrano\n• Mężczyzna został zatrzymany przez policję\n• Mężczyźnie postawiono zarzut",
+      "originalTitle": "Zaniedbał psa, grozi mu więzienie",
+      "originalDescription": "45-latek, który nie zadbał o właściwą opiekę weterynaryjną chorego psa, został zatrzymany przez policję. Zwierzę odebrano, mężczyźnie postawiono zarzut."
+    },
+    {
+      "title": "Wypadek z udziałem Beaty Szydło i zarzuty dla byłego funkcjonariusza BOR",
+      "link": "https://tvn24.pl/bialystok/bialystok-wypadek-z-udzialem-bylej-premier-beaty-szydlo-kolejny-byly-funkcjonariusz-bor-z-zarzutami-st8931703?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 18:21:16 GMT",
+      "description": "Kolejnemu byłemu funkcjonariuszowi Biura Ochrony Rządu Prokuratura Regionalna w Białymstoku zarzuca składanie fałszywych zeznań. To już trzecia osoba, której postawiono zarzuty. Sprawa dotyczy śledztwa w sprawie nieprawidłowości po wypadku kolumny rządowej z udziałem byłej premier Beaty Szydło.",
+      "originalTitle": "Wypadek z udziałem byłej premier Beaty Szydło. Kolejny były funkcjonariusz BOR z zarzutami",
+      "originalDescription": "Kolejnemu byłemu funkcjonariuszowi Biura Ochrony Rządu Prokuratura Regionalna w Białymstoku zarzuca składanie fałszywych zeznań. To już trzecia osoba, której postawiono zarzuty. Sprawa dotyczy śledztwa w sprawie nieprawidłowości po wypadku kolumny rządowej z udziałem byłej premier Beaty Szydło."
+    },
+    {
+      "title": "Komentarze na temat propozycji Karola Nawrockiego",
+      "link": "https://tvn24.pl/polska/wydmuszka-0-procent-konkretow-komentarze-po-propozycji-karola-nawrockiego-o-polskim-safe-st8931645?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 18:17:20 GMT",
+      "description": "Jeżeli pan prezydent chce zawetować ustawę o SAFE, to niech zrobi to po męsku i niech weźmie za to odpowiedzialność - powiedział wiceminister obrony Cezary Tomczyk, mówiąc o \"polskim SAFE 0 procent\". Pomysł komentowali też między innymi wicemarszałkini Senatu Magdalena Biejat czy szef MON Władysław Kosiniak-Kamysz.",
+      "originalTitle": "\"Wydmuszka\", \"0 procent konkretów\". Komentarze po propozycji Karola Nawrockiego",
+      "originalDescription": "Jeżeli pan prezydent chce zawetować ustawę o SAFE, to niech zrobi to po męsku i niech weźmie za to odpowiedzialność - powiedział wiceminister obrony Cezary Tomczyk, mówiąc o \"polskim SAFE 0 procent\". Pomysł komentowali też między innymi wicemarszałkini Senatu Magdalena Biejat czy szef MON Władysław Kosiniak-Kamysz."
+    },
+    {
+      "title": "Uciekał przed policją, \"celowo uderzył w radiowóz\". Miał zakaz prowadzenia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/jozefow-otwock-uciekal-przed-policja-staranowal-radiowoz-st8931525?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 18:05:08 GMT",
+      "description": "Policjanci prowadzili pościg za kierowcą, który w Józefowie (Mazowieckie) nie zatrzymał się do kontroli. Na koniec ucieczki, już w Otwocku, staranował radiowóz. Po zatrzymaniu wyszło na jaw, że ma zakaz prowadzenia pojazdów. Usłyszał szereg zarzutów.",
+      "originalTitle": "Uciekał przed policją, \"celowo uderzył w radiowóz\". Miał zakaz prowadzenia",
+      "originalDescription": "Policjanci prowadzili pościg za kierowcą, który w Józefowie (Mazowieckie) nie zatrzymał się do kontroli. Na koniec ucieczki, już w Otwocku, staranował radiowóz. Po zatrzymaniu wyszło na jaw, że ma zakaz prowadzenia pojazdów. Usłyszał szereg zarzutów."
+    },
+    {
+      "title": "OpenAI może współpracować z NATO. W tle niedawna umowa z Pentagonem",
+      "link": "https://tvn24.pl/biznes/najnowsze/nowy-kierunek-wspolpracy-openai-moze-dostarczyc-technologie-nato-st8931448?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 17:44:25 GMT",
+      "description": "OpenAI rozważa podpisanie umowy z NATO dotyczącej wdrożenia technologii sztucznej inteligencji w nieutajnionych sieciach sojuszu. O planach firmy jako pierwszy poinformował \"The Wall Street Journal\".",
+      "originalTitle": "OpenAI może współpracować z NATO. W tle niedawna umowa z Pentagonem",
+      "originalDescription": "OpenAI rozważa podpisanie umowy z NATO dotyczącej wdrożenia technologii sztucznej inteligencji w nieutajnionych sieciach sojuszu. O planach firmy jako pierwszy poinformował \"The Wall Street Journal\"."
+    },
+    {
+      "title": "Regina nad Hiszpanią. Podtopienia w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/regina-nad-hiszpania-podtopienia-w-czesci-kraju-st8931599?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 17:23:09 GMT",
+      "description": "Hiszpania zmaga się z falą niebezpiecznej pogody związaną z przejściem burzy Regina. Żywioł niesie ulewne opady deszczu oraz silny wiatr. W niektórych regionach pojawiły się pierwsze podtopienia.",
+      "originalTitle": "Regina nad Hiszpanią. Podtopienia w części kraju",
+      "originalDescription": "Hiszpania zmaga się z falą niebezpiecznej pogody związaną z przejściem burzy Regina. Żywioł niesie ulewne opady deszczu oraz silny wiatr. W niektórych regionach pojawiły się pierwsze podtopienia."
+    }
+  ]
 }
