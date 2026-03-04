@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-04T16:14:07.559Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-04T16:47:50.407Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Prezydent i szef NBP omawiają alternatywę dla SAFE",
+      "link": "https://tvn24.pl/biznes/z-kraju/program-safe-zero-procent-prezydent-karol-nawrocki-zapowiada-nowy-mechanizm-finansowania-st8931587?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:35:17 GMT",
+      "description": "• Prezydent Karol Nawrocki ogłosił w środę, że spotkał się z prezesem NBP Adamem Glapińskim.\n• Spotkanie dotyczyło omówienia pomysłu \"polskiego SAFE zero procent\".\n• Zdaniem prezydenta Karola Nawrockiego, rozwiązanie to zagwarantuje 185 miliardów złotych na bezpieczeństwo Polski.\n• Rozwiązanie to pozwoli na uzyskanie środków bez konieczności zaciągania kredytów.\n• Rozwiązanie to pozwoli na uzyskanie środków bez konieczności płacenia odsetek.",
+      "originalTitle": "\"Polski SAFE zero procent\". Prezydent z szefem NBP szuka alternatywy",
+      "originalDescription": "Prezydent Karol Nawrocki ogłosił w środę, że wspólnie z prezesem NBP Adamem Glapińskim spotkał się, by omówić pomysł \"polskiego SAFE zero procent\". Zdaniem głowy państwa rozwiązanie to zagwarantuje 185 miliardów złotych na bezpieczeństwo Polski bez konieczności zaciągania kredytów i płacenia odsetek."
+    },
+    {
+      "title": "Iran wprowadził nowe uzbrojenie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/konflikt-na-bliskim-wschodzie-iran-siegnal-po-potezna-bron-odczujemy-to-wszyscy-st8928218?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:33:25 GMT",
+      "description": "• Iran dopiął swego, blokada Cieśniny Ormuz stała się faktem.\n• Choć od tankowców przebywających w tamtej okolicy dzielą nas tysiące kilometrów.\n• Skutki blokady dotrą do Polski.\n• Skutki blokady dotrą do Polski szybciej, niż się spodziewamy.\n• Za szantaż reżimu zapłacimy wszyscy.\n• Zapłacimy za szantaż reżimu przy dystrybutorach.\n• Zapłacimy za szantaż reżimu nie tylko przy dystrybutorach.",
+      "originalTitle": "Iran sięgnął po potężną broń. Odczujemy to wszyscy",
+      "originalDescription": "Iran dopiął swego, blokada Cieśniny Ormuz stała się faktem. Choć od tankowców przebywających w tamtej okolicy dzielą nas tysiące kilometrów, skutki blokady dotrą do Polski i to szybciej, niż się spodziewamy, a za szantaż reżimu zapłacimy wszyscy. Przy dystrybutorach i nie tylko."
+    },
+    {
+      "title": "Prognoza inflacji NBP",
+      "link": "https://tvn24.pl/biznes/z-kraju/inflacja-i-pkb-polski-nbp-publikuje-nowa-prognoze-st8931537?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:19:11 GMT",
+      "description": "• Inflacja w 2026 roku z 50‑procentowym prawdopodobieństwem ukształtuje się w przedziale 1,6-2,9 procent.\n• Tempo wzrostu PKB w 2026 roku wyniesie od 3,1 do 4,7 procent.\n• Narodowy Bank Polski poinformował o powyższych prognozach po posiedzeniu Rady Polityki Pieniężnej.\n• Wśród głównych czynników ryzyka dla kształtowania się cen pozostają polityka fiskalna.\n• Wśród głównych czynników ryzyka dla kształtowania się cen pozostają dynamika wynagrodzeń.\n• Wśród głównych czynników ryzyka dla kształtowania się cen pozostają sytuacja makroekonomiczna za granicą.",
+      "originalTitle": "Tyle wyniesie inflacja. Nowa prognoza NBP",
+      "originalDescription": "Inflacja w 2026 roku z 50‑procentowym prawdopodobieństwem ukształtuje się w przedziale 1,6-2,9 procent, natomiast tempo wzrostu PKB w tym okresie wyniesie od 3,1 do 4,7 procent - poinformował Narodowy Bank Polski po posiedzeniu Rady Polityki Pieniężnej. Wśród głównych czynników ryzyka dla kształtowania się cen pozostają polityka fiskalna, dynamika wynagrodzeń oraz sytuacja makroekonomiczna za granicą."
+    },
+    {
+      "title": "Nagranie z kamery mundurowej pokazuje zatrzymanie kuli",
+      "link": "https://tvn24.pl/swiat/usa-kamera-na-mundurze-funkcjonariusza-zatrzymala-kule-policja-pokazala-nagranie-st8931513?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:15:26 GMT",
+      "description": "• Zastępca szeryfa hrabstwa Volusia na Florydzie został postrzelony podczas interwencji domowej.\n• Kula trafiła go w ramię.\n• Kula była wymierzona w pierś.\n• Kula została zatrzymana przez kamerę przyczepion�� do policyjnego munduru.",
+      "originalTitle": "Kamera na mundurze funkcjonariusza zatrzymała kulę. Policja pokazała nagranie",
+      "originalDescription": "Zastępca szeryfa hrabstwa Volusia na Florydzie został postrzelony podczas interwencji domowej. Kula trafiła go w ramię, wymierzona była jednak w pierś. Zatrzymała ją kamera przyczepiona do policyjnego munduru."
+    },
+    {
+      "title": "Otyłość u dzieci w Polsce rośnie",
+      "link": "https://tvn24.pl/zdrowie/coraz-wiecej-dzieci-z-otyloscia-w-polsce-lekarz-to-choroba-nie-brak-silnej-woli-st8931528?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:13:36 GMT",
+      "description": "• Co trzecie dziecko w Polsce ma nadmierną masę ciała.\n• Problem otyłości narasta z roku na rok.\n• Kluczowe znaczenie ma wczesne wykrycie choroby.\n• Ważne jest kompleksowe, skoordynowane leczenie.\n• Przyczyn otyłości jest wiele.\n• Główną przyczyną jest tzw. środowisko obesogenne, w jakim żyjemy.\n• Jesteśmy otoczeni wysokoprzetworzoną, kuszącą żywnością.\n• Reklamy mają wpływ na otyłość.\n• Lek. Anna Sankowska-Dobrowolska udzieliła wywiadu tvn24.pl.",
+      "originalTitle": "Coraz więcej dzieci z otyłością w Polsce. Lekarz: to choroba, nie brak silnej woli",
+      "originalDescription": "Co trzecie dziecko w Polsce ma nadmierną masę ciała, a problem otyłości narasta z roku na rok. Jak podkreślają eksperci, kluczowe znaczenie ma wczesne wykrycie choroby i kompleksowe, skoordynowane leczenie. - Przyczyn jest wiele, ale główna to tzw. środowisko obesogenne, w jakim żyjemy. Jesteśmy otoczeni wysokoprzetworzoną, kuszącą żywnością. Wpływ mają też reklamy - mówi w rozmowie z tvn24.pl lek. Anna Sankowska-Dobrowolska."
+    },
+    {
+      "title": "Wypadek na skrzyżowaniu",
+      "link": "https://tvn24.pl/wroclaw/lubin-kierowca-mial-czerwone-swiatlo-wjechal-na-skrzyzowanie-nagranie-st8931405?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:05:25 GMT",
+      "description": "Kierowca BMW, ignorując czerwone światło, wjechał na skrzyżowanie i zderzył się z prawidłowo jadącym Volkswagenem w Lubinie (woj. dolnośląskie). Siła uderzenia doprowadziła do dachowania BMW, a kierowca Volkswagena trafił do szpitala. Policja opublikowała nagranie z monitoringu.",
+      "originalTitle": "Wjechał na czerwonym na skrzyżowanie i dachował. Nagranie",
+      "originalDescription": "Kierowca BMW, ignorując czerwone światło, wjechał na skrzyżowanie i zderzył się z prawidłowo jadącym Volkswagenem w Lubinie (woj. dolnośląskie). Siła uderzenia doprowadziła do dachowania BMW, a kierowca Volkswagena trafił do szpitala. Policja opublikowała nagranie z monitoringu."
+    },
+    {
+      "title": "Będzie mglisto i mroźno. Ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-mgly-spowija-polske-miejscami-pojawi-sie-szadz-imgw-ostrzega-st8931496?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 16:03:20 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstymi mgłami, którym podczas tej zimnej nocy będzie towarzyszyć szadź. W konsekwencji na drogach zrobi się ślisko. W części kraju wydano żółte alarmy meteorologiczne. Sprawdź szczegóły.",
+      "originalTitle": "Będzie mglisto i mroźno. Ostrzeżenia IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstymi mgłami, którym podczas tej zimnej nocy będzie towarzyszyć szadź. W konsekwencji na drogach zrobi się ślisko. W części kraju wydano żółte alarmy meteorologiczne. Sprawdź szczegóły."
+    },
+    {
+      "title": "Opóźniony lot? Zapadł ważny wyrok dla pasażerów",
+      "link": "https://tvn24.pl/biznes/turystyka/odszkodowania-za-opozniony-lot-wyrok-sadu-unii-europejskiej-st8931278?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 15:51:16 GMT",
+      "description": "Linia lotnicza traci prawo do powoływania się na nadzwyczajne okoliczności, które doprowadziły do opóźnienia wcześniejszego lotu, jeżeli z własnej inicjatywy zdecydowała się opóźnić rejs w celu oczekiwania na spóźnionych pasażerów - wynika ze środowego orzeczenia Sądu Unii Europejskiej.",
+      "originalTitle": "Opóźniony lot? Zapadł ważny wyrok dla pasażerów",
+      "originalDescription": "Linia lotnicza traci prawo do powoływania się na nadzwyczajne okoliczności, które doprowadziły do opóźnienia wcześniejszego lotu, jeżeli z własnej inicjatywy zdecydowała się opóźnić rejs w celu oczekiwania na spóźnionych pasażerów - wynika ze środowego orzeczenia Sądu Unii Europejskiej."
+    },
+    {
+      "title": "Turyści odzyskają pieniądze. Resort uruchomił wypłaty",
+      "link": "https://tvn24.pl/biznes/turystyka/rusza-pomoc-dla-turystow-z-bliskiego-wschodu-ministerstwo-sportu-i-turystyki-uruchomilo-wyplaty-st8931499?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 15:42:09 GMT",
+      "description": "W związku z eskalacją działań zbrojnych na Bliskim Wschodzie uruchomione zostaną wypłaty z Turystycznego Funduszu Pomocowego - poinformowało w środę Ministerstwo Sportu i Turystyki. Mechanizm obejmie imprezy turystyczne planowane w państwach regionu między 28 lutego a 27 marca 2026 roku, umożliwiając podróżnym i organizatorom szybkie odzyskanie wpłaconych środków.",
+      "originalTitle": "Turyści odzyskają pieniądze. Resort uruchomił wypłaty",
+      "originalDescription": "W związku z eskalacją działań zbrojnych na Bliskim Wschodzie uruchomione zostaną wypłaty z Turystycznego Funduszu Pomocowego - poinformowało w środę Ministerstwo Sportu i Turystyki. Mechanizm obejmie imprezy turystyczne planowane w państwach regionu między 28 lutego a 27 marca 2026 roku, umożliwiając podróżnym i organizatorom szybkie odzyskanie wpłaconych środków."
+    },
+    {
+      "title": "Polskie samoloty wojskowe pomogą w ewakuacji Polaków na Bliskim Wschodzie. Decyzja Donalda Tuska",
+      "link": "https://tvn24.pl/polska/atak-na-iran-donald-tusk-polskie-samoloty-wojskowe-pomoga-w-ewakuacji-polakow-st8931509?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 15:34:40 GMT",
+      "description": "Rząd zdecydował, że Siły Powietrzne RP pomogą w ewakuacji Polaków z Bliskiego Wschodu, którzy potrzebują pomocy medycznej. \"Odpowiedni wniosek w tej sprawie trafił już do prezydenta\" - przekazał premier Donald Tusk.",
+      "originalTitle": "Polskie samoloty wojskowe pomogą w ewakuacji Polaków na Bliskim Wschodzie. Decyzja Donalda Tuska",
+      "originalDescription": "Rząd zdecydował, że Siły Powietrzne RP pomogą w ewakuacji Polaków z Bliskiego Wschodu, którzy potrzebują pomocy medycznej. \"Odpowiedni wniosek w tej sprawie trafił już do prezydenta\" - przekazał premier Donald Tusk."
+    }
+  ]
 }
