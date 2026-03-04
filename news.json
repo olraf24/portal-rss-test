@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-04T11:42:02.703Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-04T12:15:05.844Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "F-35 zestrzelił irański samolot",
+      "link": "https://tvn24.pl/swiat/atak-na-iran-izraelski-f-35-zestrzelil-iranski-mysliwiec-st8930785?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 12:13:26 GMT",
+      "description": "Izraelskie siły zbrojne przekazały, że F-35 zestrzelił irański myśliwiec Jak-130. Dodały, że to pierwsze takie zestrzelenie w historii.",
+      "originalTitle": "F-35 zestrzelił irański myśliwiec",
+      "originalDescription": "Izraelskie siły zbrojne przekazały, że F-35 zestrzelił irański myśliwiec Jak-130. Dodały, że to pierwsze takie zestrzelenie w historii."
+    },
+    {
+      "title": "Kobieta ugodziła partnera nożem",
+      "link": "https://tvn24.pl/olsztyn/bartoszyce-chwycila-noz-i-ugodzila-swojego-partnera-st8930802?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 12:07:43 GMT",
+      "description": "• Policjanci z Bartoszyc (Warmińsko-Mazurskie) zatrzymali kobietę, która podczas kłótni ugodziła nożem swojego partnera.\n• Mężczyzny w ciężkim stanie trafił do szpitala.\n• Kobieta ma 32 lata.\n• 32-latka usłyszała zarzut usiłowania zabójstwa.\n• Grozi jej dożywocie.",
+      "originalTitle": "Chwyciła nóż i ugodziła swojego partnera",
+      "originalDescription": "Policjanci z Bartoszyc (Warmińsko-Mazurskie) zatrzymali kobietę, która podczas kłótni ugodziła nożem swojego partnera. Mężczyzny w ciężkim stanie trafił do szpitala. 32-latka usłyszała zarzut usiłowania zabójstwa, grozi jej dożywocie."
+    },
+    {
+      "title": "Izrael zhakował irańskie kamery",
+      "link": "https://tvn24.pl/swiat/media-izrael-zhakowal-iranskie-kamery-st8930817?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 12:00:07 GMT",
+      "description": "• Izrael zhakował irańską sieć kamer drogowych.\n• Celem zhakowania było obserwowanie Alego Chameneiego.\n• Celem zhakowania było również obserwowanie innych wysokich rangą irańskich urzędników.\n• Informacje o zhakowaniu pochodzą z \"Financial Times\".\n• \"Financial Times\" powołuje się na izraelskie źródła wywiadowcze.\n• Zhakowanie miało pozwolić na przeprowadzenie ataku.\n• Atak miał miejsce w ostatnią sobotę.\n• W ataku zginął najwyższy przywódca Iranu.\n• W ataku zginęło również wielu jego dowódców.",
+      "originalTitle": "Izrael zhakował irańskie kamery. \"Znaliśmy Teheran tak, jak znamy Jerozolimę\"",
+      "originalDescription": "Izrael zhakował irańską sieć kamer drogowych, by obserwować Alego Chameneiego i innych wysokich rangą irańskich urzędników - pisze \"Financial Times\" powołując się na izraelskie źródła wywiadowcze. To miało pozwolić na przeprowadzenie w ostatnią sobotę ataku, w którym zginął najwyższy przywódca Iranu i wielu jego dowódców."
+    },
+    {
+      "title": "Kawa ma właściwości prozdrowotne",
+      "link": "https://tvn24.pl/zdrowie/korzysci-z-picia-kawy-co-mowia-naukowcy-i-eksperci-st8930496?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:54:59 GMT",
+      "description": "• Obniża ryzyko nadciśnienia tętniczego\n• Obniża ryzyko chorób serca\n• Obniża ryzyko kamicy nerkowej\n• Wspiera zdrowie wątroby\n• Zmniejsza stan zapalny\n• Zmniejsza ryzyko zgonu\n• Picie kawy niesie ze sobą szereg prozdrowotnych korzyści\n• Korzyści zdrowotne są widoczne przy regularnym i umiarkowanym spożyciu kawy\n• Eksperci zalecają regularne i umiarkowane spożycie kawy",
+      "originalTitle": "\"Kawa to nie używka\". Tyle filiżanek dziennie wystarczy, by działała prozdrowotnie",
+      "originalDescription": "Obniża ryzyko nadciśnienia tętniczego, chorób serca i kamicy nerkowej, wspiera zdrowie wątroby, zmniejsza stan zapalny oraz ryzyko zgonu. Picie kawy niesie ze sobą szereg prozdrowotnych korzyści pod warunkiem, że sięga się po nią w sposób regularny i umiarkowany. Co zalecają eksperci?"
+    },
+    {
+      "title": "Króliki zamarzły na tarasie",
+      "link": "https://tvn24.pl/bialystok/kolno-podlasie-wystawil-klatki-z-krolikami-na-mroz-zwierzeta-zamarzly-st8930759?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:53:03 GMT",
+      "description": "Policjanci z Kolna na Podlasiu zatrzymali mężczyznę, który wystawił na mróz klatki z królikami, w konsekwencji czego zwierzęta zamarzły. 34-latek usłyszał zarzut. Grozi mu do pięciu lat pozbawienia wolności.",
+      "originalTitle": "Wystawił klatki z królikami na taras, zwierzęta zamarzły",
+      "originalDescription": "Policjanci z Kolna na Podlasiu zatrzymali mężczyznę, który wystawił na mróz klatki z królikami, w konsekwencji czego zwierzęta zamarzły. 34-latek usłyszał zarzut. Grozi mu do pięciu lat pozbawienia wolności."
+    },
+    {
+      "title": "Minister zapowiada uruchomienie elektrowni węglowych w razie kryzysu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-w-razie-kryzysu-uruchomia-elektrownie-weglowe-zapowiedz-ministra-st8930714?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:46:43 GMT",
+      "description": "• Włochy rozważają ponowne uruchomienie części elektrowni węglowych w przypadku kryzysu energetycznego.\n• Kryzys energetyczny jest spowodowany trwającym konfliktem zbrojnym na Bliskim Wschodzie.\n• Włoski minister środowiska i bezpieczeństwa energetycznego to Gilberto Pichetto Fratin.\n• To właśnie Gilberto Pichetto Fratin przekazał informację o rozważaniu ponownego uruchomienia części elektrowni węglowych.",
+      "originalTitle": "W razie kryzysu uruchomią elektrownie węglowe. Zapowiedź ministra",
+      "originalDescription": "W przypadku kryzysu energetycznego spowodowanego trwającym konfliktem zbrojnym na Bliskim Wschodzie, Włochy rozważą ponowne uruchomienie części elektrowni węglowych - przekazał włoski minister środowiska i bezpieczeństwa energetycznego Gilberto Pichetto Fratin."
+    },
+    {
+      "title": "Czekała na paczkę od kuriera, dostała bombę od partnera. Wyrok",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-wyrok-dla-blazeja-k-w-sprawie-bomby-w-siecieborzycach-st8930122?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:44:46 GMT",
+      "description": "Znęcał się nad partnerką, ta opuściła go razem z dziećmi. Opracował plan, by się zemścić. Zostawił na progu domu paczkę. Eksplodowała, gdy kobieta ją rozpakowywała. Odłamki ciężko raniły ją i dzieci. Sąd skazał Błażeja K. na 25 lat więzienia.",
+      "originalTitle": "Czekała na paczkę od kuriera, dostała bombę od partnera. Wyrok",
+      "originalDescription": "Znęcał się nad partnerką, ta opuściła go razem z dziećmi. Opracował plan, by się zemścić. Zostawił na progu domu paczkę. Eksplodowała, gdy kobieta ją rozpakowywała. Odłamki ciężko raniły ją i dzieci. Sąd skazał Błażeja K. na 25 lat więzienia."
+    },
+    {
+      "title": "Uczeń rzucił się z pięściami na nauczyciela",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-uczen-rzucil-sie-z-piesciami-na-nauczyciela-st8930391?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:40:43 GMT",
+      "description": "Nauczyciel technikum w Piasecznie został zaatakowany przez ucznia podczas lekcji. Nastolatek rzucił się na mężczyznę z pięściami i kopał go. Sprawa została zgłoszona policji. O losie nieletniego zdecyduje sąd rodzinny.",
+      "originalTitle": "Uczeń rzucił się z pięściami na nauczyciela",
+      "originalDescription": "Nauczyciel technikum w Piasecznie został zaatakowany przez ucznia podczas lekcji. Nastolatek rzucił się na mężczyznę z pięściami i kopał go. Sprawa została zgłoszona policji. O losie nieletniego zdecyduje sąd rodzinny."
+    },
+    {
+      "title": "Kupowali faktury, bo chcieli płacić niższe podatki. Staną przed sądem",
+      "link": "https://tvn24.pl/lodz/lodz-siedmiu-mezczyzn-odpowie-za-oszustwa-podatkowe-przy-zakupie-paliwa-st8930573?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:30:45 GMT",
+      "description": "Przed sądem w Łodzi stanie siedmiu mężczyzn oskarżonych o oszustwa podatkowe poprzez posługiwanie się fikcyjnymi fakturami. Prowadzone przez nich firmy miały użyć 113 takich dokumentów.",
+      "originalTitle": "Kupowali faktury, bo chcieli płacić niższe podatki. Staną przed sądem",
+      "originalDescription": "Przed sądem w Łodzi stanie siedmiu mężczyzn oskarżonych o oszustwa podatkowe poprzez posługiwanie się fikcyjnymi fakturami. Prowadzone przez nich firmy miały użyć 113 takich dokumentów."
+    },
+    {
+      "title": "Ruszyła jedna z najważniejszych tegorocznych inwestycji drogowych",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-przebudowa-w-alei-jana-pawla-ii-co-sie-zmieni-st8930503?source=rss",
+      "pubDate": "Wed, 04 Mar 2026 11:29:57 GMT",
+      "description": "Drogowcy chwalą się rozpoczęciem jedną z najważniejszych tegorocznych inwestycji w centrum miasta. Robotnicy zaczęli pracę w alei Jana Pawła II na odcinku pomiędzy \"Solidarności\" i Elektoralną. Pojawi się nowa nawierzchnia i sporo zieleni.",
+      "originalTitle": "Ruszyła jedna z najważniejszych tegorocznych inwestycji drogowych",
+      "originalDescription": "Drogowcy chwalą się rozpoczęciem jedną z najważniejszych tegorocznych inwestycji w centrum miasta. Robotnicy zaczęli pracę w alei Jana Pawła II na odcinku pomiędzy \"Solidarności\" i Elektoralną. Pojawi się nowa nawierzchnia i sporo zieleni."
+    }
+  ]
 }
