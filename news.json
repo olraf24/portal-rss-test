@@ -1,6 +1,85 @@
 {
-  "lastUpdate": "2026-03-05T14:20:48.756Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-05T14:47:48.385Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Tusk przedstawił trzy postulaty dotyczące SAFE",
+      "link": "https://tvn24.pl/polska/donald-tusk-ma-trzy-postulaty-do-karola-nawrockiego-prosze-natychmiast-podpisac-safe-st8933145?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:43:04 GMT",
+      "description": "Panie prezydencie, panie prezesie, nie ma czasu na kombinacje - zaapelował premier Donald Tusk w nagraniu opublikowanym w serwisie X. Komentując propozycję \"polskiego SAFE 0 procent\", wezwał Karola Nawrockiego między innymi do natychmiastowego podpisania ustawy o SAFE.",
+      "originalTitle": "Trzy postulaty Tuska. \"Proszę natychmiast podpisać SAFE\"",
+      "originalDescription": "Panie prezydencie, panie prezesie, nie ma czasu na kombinacje - zaapelował premier Donald Tusk w nagraniu opublikowanym w serwisie X. Komentując propozycję \"polskiego SAFE 0 procent\", wezwał Karola Nawrockiego między innymi do natychmiastowego podpisania ustawy o SAFE."
+    },
+    {
+      "title": "Badania na temat estrogenów i nadciśnienia",
+      "link": "https://tvn24.pl/zdrowie/estrogen-a-nadcisnienie-jak-hormon-chroni-serce-kobiet-st8933112?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:41:14 GMT",
+      "description": "• Wykorzystano matematyczny model układu sercowo-naczyniowego i nerkowego.\n• Naukowcy przeanalizowali, na czym polega ochronne działanie estrogenu przed nadciśnieniem.\n• Badanie ma przyczynić się do opracowania skutecznych terapii.\n• Terapie są przeznaczone dla kobiet po menopauzie.",
+      "originalTitle": "Estrogen chroni przed nadciśnieniem? Naukowcy potwierdzili",
+      "originalDescription": "Wykorzystując matematyczny model układu sercowo-naczyniowego i nerkowego naukowcy przeanalizowali, na czym polega ochronne działanie estrogenu przed nadciśnieniem. Badanie przyczynić się do opracowania skutecznych terapii dla kobiet po menopauzie. Co dokładnie wykazało?"
+    },
+    {
+      "title": "Cena ropy rośnie po ataku na Iran",
+      "link": "https://tvn24.pl/biznes/z-kraju/atak-na-iran-cena-ostro-w-gore-rachunek-trafia-bardzo-szybko-st8931501?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:30:33 GMT",
+      "description": "• Gwałtowny wzrost cen gazu wywołany paraliżem strategicznej Cieśniny Ormuz może przełożyć się na koszt produkcji i cenę nawozów.\n• Grupa Azoty jest głównym wytwórcą nawozów w Polsce.\n• Grupa Azoty wstrzymała przyjmowanie nowych zamówień.\n• Powodem decyzji jest niestabilna sytuacja geopolityczna na Bliskim Wschodzie.\n• Spółka poinformowała o swojej decyzji w oświadczeniu.\n• Jeśli sytuacja się utrzyma, skutek może być jeden: wyższe ceny w sklepach.",
+      "originalTitle": "Atak na Iran, cena ostro w górę. \"Rachunek trafia bardzo szybko\"",
+      "originalDescription": "Gwałtowny wzrost cen gazu wywołany paraliżem strategicznej Cieśniny Ormuz może przełożyć się na koszt produkcji i cenę nawozów. Grupa Azoty, ich główny wytwórca w Polsce, wstrzymała przyjmowanie nowych zamówień. \"Powodem decyzji jest niestabilna sytuacja geopolityczna na Bliskim Wschodzie\" - napisała spółka w oświadczeniu. Jeśli sytuacja się utrzyma, skutek może być jeden: wyższe ceny w sklepach."
+    },
+    {
+      "title": "Odkryto nowy marker w diagnostyce raka",
+      "link": "https://tvn24.pl/zdrowie/badanie-krwi-zamiast-biopsji-nowa-metoda-diagnozy-raka-pecherzyka-zolciowego-odkryta-przez-naukowcow-st8932702?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:26:36 GMT",
+      "description": "• Wykrycie specyficznych substancji we krwi może pomóc w diagnostyce raka pęcherzyka żółciowego.\n• Badacze z międzynarodowego zespołu informują o tym odkryciu.\n• Pacjenci zwykle zgłaszają się po pomoc dopiero w zaawansowanym stadium choroby.",
+      "originalTitle": "Diagnoza tego raka jest często spóźniona. Nowy marker może pomóc",
+      "originalDescription": "Wykrycie specyficznych substancji we krwi może pomóc w diagnostyce raka pęcherzyka żółciowego - informują badacze z międzynarodowego zespołu. To ważne, ponieważ pacjenci zwykle zgłaszają się po pomoc dopiero w zaawansowanym stadium choroby."
+    },
+    {
+      "title": "USA przeciwko broni atomowej dla Polski?  \"Chciałbym prosić o bardzo precyzyjne wypowiedzi\"",
+      "link": "https://tvn24.pl/polska/usa-przeciwko-broni-atomowej-dla-polski-wladyslaw-kosiniak-kamysz-chcialbym-prosic-o-bardzo-precyzyjne-wypowiedzi-st8932676?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:24:17 GMT",
+      "description": "Brak opisu"
+    },
+    {
+      "title": "Nawrocki o ustawie o SAFE",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-o-podpisaniu-ustawy-o-safe-i-o-polskim-safe-zero-procent-st8932722?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:23:41 GMT",
+      "description": "• Nikt nie będzie nakładał na prezydenta Polski presji, kiedy ma to podpisać albo nie podpisać.\n• Prezydent Karol Nawrocki wypowiedział się na ten temat podczas czwartkowej konferencji prasowej.\n• Prezydent odnosił się do kwestii swojej decyzji w sprawie podpisania lub zawetowania ustawy SAFE.\n• Prezydent Nawrocki stwierdził, że pojawiła się \"wspaniała alternatywa\" do programu SAFE.\n• Alternatywa dla programu SAFE ma formę prezydenckiego projektu polski SAFE zero %.",
+      "originalTitle": "Nawrocki o podpisaniu ustawy o SAFE i \"wspaniałej alternatywie\"",
+      "originalDescription": "Nikt nie będzie nakładał na prezydenta Polski presji, kiedy ma to podpisać albo nie podpisać - stwierdził prezydent Karol Nawrocki podczas czwartkowej konferencji prasowej. Odnosił się on do kwestii jego decyzji w sprawie podpisania lub zawetowania ustawy SAFE. Nawrocki stwierdził też, że pojawiła się \"wspaniała alternatywa\" do programu SAFE w formie prezydenckiego projektu polski SAFE zero %."
+    },
+    {
+      "title": "Podejrzany 18-latek poszukiwany",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-jest-podejrzany-o-wywolywanie-falszywych-alarmow-ukrywa-sie-przed-policja-st8933055?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:10:41 GMT",
+      "description": "• Policjanci poszukują mężczyzny ukrywającego się przed organami ścigania.\n• Wydano za nim list gończy.\n• Osoby znające miejsce pobytu tej osoby proszone są o kontakt z policjantami.",
+      "originalTitle": "List gończy za 18-latkiem podejrzanym o udział w grupie przestępczej",
+      "originalDescription": "Policjanci poszukują mężczyzny ukrywającego się przed organami ścigania. Wydano za nim list gończy. \"Jeśli znasz miejsce pobytu tej osoby skontaktuj się z policjantami\" - poprosili."
+    },
+    {
+      "title": "Aplikacja pomogła w odnalezieniu narciarza po lawinie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-waszyngton-lawina-porwala-narciarza-w-odnalezieniu-pomogla-aplikacja-w-telefonie-st8932609?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:10:31 GMT",
+      "description": "• Lawina w amerykańskich górach porwała narciarza.\n• Ofiarą lawiny był mężczyzna, który uprawiał narciarstwo.\n• Mężczyzna został porwany przez lawinę w górach amerykańskich.\n• Żona mężczyzny nie mogła się z nim skontaktować.\n• Żona użyła aplikacji w telefonie, aby wskazać ratownikom ostatnie znane miejsce pobytu mężczyzny.\n• Aplikacja w telefonie pozwoliła żonie podać ratownikom informację o ostatnim znanych miejscu pobytu mężczyzny.",
+      "originalTitle": "Lawina porwała narciarza. W odnalezieniu pomogła aplikacja w telefonie",
+      "originalDescription": "Lawina w amerykańskich górach porwała narciarza. Jego żona, która nie mogła się z nim skontaktować, za pomocą aplikacji w telefonie wskazała ratownikom ostatnie znane miejsce pobytu mężczyzny."
+    },
+    {
+      "title": "UE klasyfikuje patriotów jako terrorystów w strategii bezpieczeństwa",
+      "link": "https://konkret24.tvn24.pl/polska/ue-uznala-patriotow-za-terrorystow-co-jest-w-unijnej-strategii-bepieczenstwa-st8930873?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:10:00 GMT",
+      "description": "W sieci pojawiły się alarmistyczne wpisy, o tym, kogo rzekomo Unia Europejska traktuje za terrorystów. Mają to być \"osoby o poglądach anty-LGBTQ\", \"przeciwnicy lewicowej ideologii\", \"odrzucające 'demokratyczne wartości'\", które jakoby niosą \"zagrożenie równe dżihadystom\". To manipulacja. Sprawdzamy, co naprawdę znajduje się w unijnym dokumencie.",
+      "originalTitle": "\"UE uznała patriotów za terrorystów\"? Co jest w unijnej  strategii bepieczeństwa",
+      "originalDescription": "W sieci pojawiły się alarmistyczne wpisy, o tym, kogo rzekomo Unia Europejska traktuje za terrorystów. Mają to być \"osoby o poglądach anty-LGBTQ\", \"przeciwnicy lewicowej ideologii\", \"odrzucające 'demokratyczne wartości'\", które jakoby niosą \"zagrożenie równe dżihadystom\". To manipulacja. Sprawdzamy, co naprawdę znajduje się w unijnym dokumencie."
+    },
+    {
+      "title": "\"Tak trudno jest stracić przyjaciela\". Harry Styles o śmierci Liama Payne'a",
+      "link": "https://tvn24.pl/kultura-i-styl/muzyka-harry-styles-w-wywiadzie-o-smierci-liama-payne-a-st8932766?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 14:04:48 GMT",
+      "description": "W najnowszym wywiadzie Harry Styles podzielił się emocjami, jakie towarzyszyły mu po śmierci Liama Payne'a, z którym przed laty występował w zespole One Direction. Muzyk przyznał, że zaczął inaczej patrzeć na swoje życie.",
+      "originalTitle": "\"Tak trudno jest stracić przyjaciela\". Harry Styles o śmierci Liama Payne'a",
+      "originalDescription": "W najnowszym wywiadzie Harry Styles podzielił się emocjami, jakie towarzyszyły mu po śmierci Liama Payne'a, z którym przed laty występował w zespole One Direction. Muzyk przyznał, że zaczął inaczej patrzeć na swoje życie."
+    }
+  ]
 }
