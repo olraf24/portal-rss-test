@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-05T12:15:59.465Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-05T12:48:50.281Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kraje regionu uzależnione od surowców",
+      "link": "https://tvn24.pl/biznes/ze-swiata/bliski-wschod-wojna-i-blokada-ciesniny-ormuz-nie-tylko-ropa-naftowa-kraje-zatoki-perskiej-maja-wiekszy-problem-st8932521?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:45:47 GMT",
+      "description": "• Blokada cieśniny Ormuz przez Iran zagraża nie tylko dostawom ropy i gazu, ale i żywności do krajów Zatoki Perskiej.\n• Dziennik \"Financial Times\" poinformował o tej sytuacji.\n• Import żywności docierał do regionu głównie przez cieśninę Ormuz.",
+      "originalTitle": "Nie tylko ropa. Kraje regionu mają większy problem. \"Są bardzo uzależnione\"",
+      "originalDescription": "Blokada cieśniny Ormuz przez Iran zagraża nie tylko dostawom ropy i gazu, ale i żywności do krajów Zatoki Perskiej - podał dziennik \"Financial Times\". Import żywności docierał do regionu głównie przez ten szlak wodny."
+    },
+    {
+      "title": "Wypadek podczas wycinania drzew",
+      "link": "https://tvn24.pl/olsztyn/pieniezno-akcja-ratunkowa-na-rzece-dwoch-mezczyzn-wpadlo-do-wody-st8932690?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:40:35 GMT",
+      "description": "• Akcja ratunkowa odbyła się na rzece Wałsza.\n• Miejsce akcji ratunkowej to Pieniężno.\n• Pieniężno znajduje się w województwie Warmińsko-Mazurskim.\n• Przyczyną akcji ratunkowej była wycinka drzew.\n• W trakcie wycinki drzew dwóch mężczyzn wpadło do wody.\n• Woda w rzece była lodowata.",
+      "originalTitle": "Wycinali drzewa, wpadli do lodowatej rzeki",
+      "originalDescription": "Akcja ratunkowa na rzece Wałsza w Pieniężnie (Warmińsko-Mazurskie). Podczas wycinki drzew dwóch mężczyzn wpadło do lodowatej wody."
+    },
+    {
+      "title": "Nagranie starcia nad Teheranem",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-5-marca-najnowsze-informacje-st8931890?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 04:21:13 GMT",
+      "description": "Izrael udostępnił w czwartek nagranie, na którym widać, jak izraelski F-35 zestrzeliwuje irański myśliwiec nad Teheranem. Do starcia doszło dzień wcześniej w trakcie nalotu na stolicę Iranu. Wcześniej w czwartek Iran ogłosił, że przeprowadził atak na amerykański tankowiec w Zatoce Perskiej. Najnowsze informacje o wydarzeniach w regionie i ich konsekwencjach przekazujemy w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Tak wyglądało starcie nad Teheranem. Izrael pokazał nagranie",
+      "originalDescription": "Izrael udostępnił w czwartek nagranie, na którym widać, jak izraelski F-35 zestrzeliwuje irański myśliwiec nad Teheranem. Do starcia doszło dzień wcześniej w trakcie nalotu na stolicę Iranu. Wcześniej w czwartek Iran ogłosił, że przeprowadził atak na amerykański tankowiec w Zatoce Perskiej. Najnowsze informacje o wydarzeniach w regionie i ich konsekwencjach przekazujemy w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Wojewoda usunął krzyż ze sali",
+      "link": "https://tvn24.pl/lublin/lublin-wojewoda-zdjal-krzyz-w-sali-reprezentacyjnej-wyrok-st8932717?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:38:01 GMT",
+      "description": "• Sąd Okręgowy w Lublinie utrzymał w mocy wyrok sądu rejonowego.\n• Wyrok sądu rejonowego uniewinnia wojewodę lubelskiego.\n• Wojewodą lubelskim, który został uniewinniony, jest Krzysztof Komorski.\n• Sprawa dotyczy zdjęcia krzyża w reprezentacyjnej sali urzędu.\n• Prywatni oskarżyciele zarzucali Krzysztofowi Komorskiemu przekroczenie uprawnień.\n• Prywatni oskarżyciele zarzucali Krzysztofowi Komorskiemu również obrazę uczuć religijnych.",
+      "originalTitle": "Wojewoda zdjął krzyż w sali reprezentacyjnej, jest prawomocny wyrok",
+      "originalDescription": "Sąd Okręgowy w Lublinie utrzymał w mocy wyrok sądu rejonowego uniewinniający wojewodę lubelskiego Krzysztofa Komorskiego w sprawie zdjęcia krzyża w reprezentacyjnej sali urzędu. Prywatni oskarżyciele, zarzucali mu przekroczenie uprawnień i obrazę uczuć religijnych."
+    },
+    {
+      "title": "Kristi Noem komentuje relację z doradcą",
+      "link": "https://tvn24.pl/swiat/usa-sekretarz-kristi-noem-pytana-o-romans-z-corey-em-lewandowskim-st8932366?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:37:37 GMT",
+      "description": "• Kristi Noem jest sekretarzem bezpieczeństwa krajowego USA.\n• Została zapytana o relacje ze swoim doradcą.\n• Jej doradcą jest Corey Lewandowski.\n• Corey Lewandowski był szefem kampanii Donalda Trumpa.\n• Kristi Noem wypowiedziała się na temat doniesień o jej relacjach z Corey'em Lewandowskim podczas oficjalnego wysłuchania na Kapitolu.\n• Oceniła doniesienia o swoich relacjach z Corey'em Lewandowskim jako \"bzdury z tabloidów\".",
+      "originalTitle": "Kristi Noem odpowiada na pytania o związek z doradcą. \"To obraźliwe\"",
+      "originalDescription": "Kristi Noem, sekretarz bezpieczeństwa krajowego USA, została zapytana o relacje ze swoim doradcą, niegdyś szefem kampanii Donalda Trumpa - Corey'em Lewandowskim. Podczas oficjalnego wysłychania na Kapitolu oceniła, że doniesienia to \"bzdury z tabloidów\"."
+    },
+    {
+      "title": "Mistrz sportu wnioskuje o warunkowe zwolnienie",
+      "link": "https://tvn24.pl/rzeszow/rzeszow-byly-boss-gangu-chce-wyjsc-z-wiezienia-zlozyl-wniosek-st8932378?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:24:27 GMT",
+      "description": "• Marek K. jest znany jako \"Wielki Mistrz\".\n• Marek K. był szefem grupy przestępczej działającej na Podkarpaciu.\n• Marek K. złożył wniosek o warunkowe zwolnienie z więzienia.\n• Marek K. jest obecnie w więzieniu.\n• W dyskotece Marka K. po raz ostatni widziano 16-letniego Michała Karasia.\n• Michał Karasi zniknął bez śladu w sierpniu 2000 roku.\n• Michał Karasi miał 16 lat, gdy zniknął.",
+      "originalTitle": "\"Wielki Mistrz\" chce wyjść z więzienia",
+      "originalDescription": "Marek K., znany jako \"Wielki Mistrz\" - były szef grupy przestępczej działającej na Podkarpaciu - chce wyjść na wolność. Złożył wniosek o warunkowe zwolnienie z więzienia. To w jego dyskotece po raz ostatni widziano 16-letniego Michała Karasia, który zniknął bez śladu w sierpniu 2000 roku."
+    },
+    {
+      "title": "Dokumenty potwierdzają różnice w ładunku",
+      "link": "https://tvn24.pl/wroclaw/sycow-w-dokumentach-wpisano-mineraly-i-piasek-ladunek-byl-inny-st8932639?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:20:19 GMT",
+      "description": "• Dolnośląscy funkcjonariusze Krajowej Administracji Skarbowej zatrzymali ciężarówkę.\n• Ciężarówka była przewożona na drodze S8.\n• W ciężarówce znajdowało się ponad 24 ton odpadów.\n• W dokumentach ciężarówki wpisano kamienie, minerały i piasek.\n• W rzeczywistości w naczepie ciężarówki był zmielony plastik.",
+      "originalTitle": "W dokumentach wpisano minerały i piasek, ładunek był inny",
+      "originalDescription": "Dolnośląscy funkcjonariusze Krajowej Administracji Skarbowej zatrzymali na S8 ciężarówkę przewożącą ponad 24 ton odpadów. W dokumentach wpisano kamienie, minerały i piasek, ale w naczepie był zmielony plastik."
+    },
+    {
+      "title": "Nowy plan na najbliższe lata",
+      "link": "https://tvn24.pl/biznes/tech/chiny-tak-ma-wygladac-najblizsze-piec-lat-jest-nowy-plan-st8932153?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:14:18 GMT",
+      "description": "• Chiny stawiają na samowystarczalność technologiczną, bezpieczeństwo i innowacje.\n• Plan został opublikowany przez agencję Xinhua.\n• Plan dotyczy lat 2026-2030.\n• Dokument sygnalizuje odejście od modelu wzrostu opartego na taniej sile roboczej.\n• Dokument sygnalizuje odejście od modelu wzrostu opartego na inwestycjach w nieruchomości.",
+      "originalTitle": "Tak ma wyglądać najbliższe pięć lat. Jest nowy plan",
+      "originalDescription": "Chiny stawiają na samowystarczalność technologiczną, bezpieczeństwo i innowacje - oto plan na lata 2026-2030 opublikowany przez agencję Xinhua. Dokument sygnalizuje odejście od modelu wzrostu opartego na taniej sile roboczej i inwestycjach w nieruchomości."
+    },
+    {
+      "title": "Wyrok w sprawie zabójstwa policjanta",
+      "link": "https://tvn24.pl/lodz/zabojstwo-policjanta-henryka-stolarka-sad-w-sieradzu-oglosil-wyrok-st8932334?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:09:30 GMT",
+      "description": "• Proces w sprawie zabójstwa policjanta Henryka Stolarka trwał ponad cztery lata.\n• W 1994 roku oprawcy zatopili w stawie radiowóz, w którym znajdował się konający funkcjonariusz.\n• Prokuratura próbowała przekonać sąd, że jednym z oprawców był Janusz K.\n• Janusz K. miał 19 lat w czasie zabójstwa policjanta Henryka Stolarka.\n• Sąd stwierdził, że w sprawie jest zbyt wiele wątpliwości, żeby skazać Janusza K.\n• Sąd uniewinnił Janusza K. w sprawie zabójstwa policjanta Henryka Stolarka.\n• Sąd wydał wyrok uniewinniający w czwartek.",
+      "originalTitle": "Mało dowodów, dużo wątpliwości. Wyrok w sprawie zabójstwa policjanta",
+      "originalDescription": "Uniewinnieniem zakończył się trwający ponad cztery lata proces w sprawie zabójstwa policjanta Henryka Stolarka. W 1994 roku oprawcy zatopili w stawie radiowóz, w którym znajdował się konający funkcjonariusz. Prokuratura nieskutecznie próbowała przekonać sąd, że jednym z nich był 19-letni wtedy Janusz K. W czwartek sąd stwierdził, że w sprawie jest zbyt wiele wątpliwości, żeby go skazać."
+    },
+    {
+      "title": "Wciągnął kobietę do auta, spłoszyli go przechodnie",
+      "link": "https://tvn24.pl/lubuskie/miedzyrzecz-wciagnal-kobiete-do-auta-sploszyli-go-przechodnie-st8932504?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 12:02:08 GMT",
+      "description": "Na obrzeżach Międzyrzecza (Lubuskie) mężczyzna zaatakował 79-letnią kobietę. Wciągnął ją już do swojego auta, ale spłoszyli go przechodnie, którzy ruszyli na pomoc.",
+      "originalTitle": "Wciągnął kobietę do auta, spłoszyli go przechodnie",
+      "originalDescription": "Na obrzeżach Międzyrzecza (Lubuskie) mężczyzna zaatakował 79-letnią kobietę. Wciągnął ją już do swojego auta, ale spłoszyli go przechodnie, którzy ruszyli na pomoc."
+    }
+  ]
 }
