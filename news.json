@@ -1,85 +1,87 @@
 {
-  "lastUpdate": "2026-03-05T15:20:29.289Z",
+  "lastUpdate": "2026-03-05T15:48:29.784Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Temperatury w kraju przekraczają 10 stopni",
+      "title": "Zmiany w zasadach wyceny NFZ",
+      "link": "https://tvn24.pl/najnowsze/nfz-zmienia-zasady-wyceny-badan-diagnostycznych-co-to-oznacza-dla-pacjentow-st8933154?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:43:50 GMT",
+      "description": "Nowe zasady rozliczania badań diagnostycznych proponuje Narodowy Fundusz Zdrowia. Chodzi o tomografię komputerową, rezonans magnetyczny, kolonoskopię i gastroskopię. Prezes NFZ Filip Nowak uważa, że zmiana nie wpłynie na dostępność tych badań dla pacjentów.",
+      "originalTitle": "Poszukiwanie oszczędności w ochronie zdrowia. NFZ zmienia zasady wyceny",
+      "originalDescription": "Nowe zasady rozliczania badań diagnostycznych proponuje Narodowy Fundusz Zdrowia. Chodzi o tomografię komputerową, rezonans magnetyczny, kolonoskopię i gastroskopię. Prezes NFZ Filip Nowak uważa, że zmiana nie wpłynie na dostępność tych badań dla pacjentów."
+    },
+    {
+      "title": "Britney Spears zatrzymana",
+      "link": "https://tvn24.pl/kultura-i-styl/los-angeles-media-britney-spears-zatrzymana-przez-policje-st8933276?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:39:39 GMT",
+      "description": "• Britney Spears została zatrzymana w środę wieczorem\n• Zatrzymanie nastąpiło przez kalifornijską policję\n• Powodem zatrzymania było podejrzenie jazdy pod wpływem\n• Informację o zatrzymaniu podają amerykańskie media",
+      "originalTitle": "Media: Britney Spears zatrzymana pod Los Angeles",
+      "originalDescription": "Britney Spears została zatrzymana w środę wieczorem przez kalifornijską policję w związku z podejrzeniem jazdy pod wpływem - informują amerykańskie media."
+    },
+    {
+      "title": "Izrael opublikował nagranie starcia nad Teheranem",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-5-marca-najnowsze-informacje-st8931890?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 04:21:13 GMT",
+      "description": "Izrael udostępnił w czwartek nagranie, na którym widać, jak izraelski F-35 zestrzeliwuje irański myśliwiec nad Teheranem. Do starcia doszło dzień wcześniej w trakcie nalotu na stolicę Iranu. Wcześniej w czwartek Iran ogłosił, że przeprowadził atak na amerykański tankowiec w Zatoce Perskiej. Najnowsze informacje o wydarzeniach w regionie i ich konsekwencjach przekazujemy w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Tak wyglądało starcie nad Teheranem. Izrael pokazał nagranie",
+      "originalDescription": "Izrael udostępnił w czwartek nagranie, na którym widać, jak izraelski F-35 zestrzeliwuje irański myśliwiec nad Teheranem. Do starcia doszło dzień wcześniej w trakcie nalotu na stolicę Iranu. Wcześniej w czwartek Iran ogłosił, że przeprowadził atak na amerykański tankowiec w Zatoce Perskiej. Najnowsze informacje o wydarzeniach w regionie i ich konsekwencjach przekazujemy w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Chwycił dwa noże i zabił ratownika. Akt oskarżenia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/siedlce-zabojstwo-ratownika-medycznego-jest-akt-oskarzenia-st8933222?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:37:28 GMT",
+      "description": "Prokuratura Okręgowa w Siedlcach (Mazowieckie) skierowała do sądu akt oskarżenia przeciwko 60-latkowi podejrzanemu o zabójstwo ratownika medycznego. Mężczyźnie grozi nawet dożywotnie więzienie.",
+      "originalTitle": "Chwycił dwa noże i zabił ratownika. Akt oskarżenia",
+      "originalDescription": "Prokuratura Okręgowa w Siedlcach (Mazowieckie) skierowała do sądu akt oskarżenia przeciwko 60-latkowi podejrzanemu o zabójstwo ratownika medycznego. Mężczyźnie grozi nawet dożywotnie więzienie."
+    },
+    {
+      "title": "Pacjenci coraz częściej piszą skargi. Najwięcej problemów mają w POZ",
+      "link": "https://tvn24.pl/zdrowie/pacjenci-coraz-czesciej-pisza-skargi-najwiecej-problemow-maja-w-poz-st8933185?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:37:16 GMT",
+      "description": "W 2025 roku do Narodowego Funduszu Zdrowia wpłynęło ponad osiem i pół tysiąca skarg od pacjentów. To o blisko tysiąc więcej niż rok wcześniej. Najwięcej zastrzeżeń dotyczyło Podstawowej Opieki Zdrowotnej (POZ). Na co jeszcze skarżą się pacjenci?",
+      "originalTitle": "Pacjenci coraz częściej piszą skargi. Najwięcej problemów mają w POZ",
+      "originalDescription": "W 2025 roku do Narodowego Funduszu Zdrowia wpłynęło ponad osiem i pół tysiąca skarg od pacjentów. To o blisko tysiąc więcej niż rok wcześniej. Najwięcej zastrzeżeń dotyczyło Podstawowej Opieki Zdrowotnej (POZ). Na co jeszcze skarżą się pacjenci?"
+    },
+    {
+      "title": "Koniec ze zmianą czasu. \"Nie chodzi tylko o zegarki\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zmiana-czasu-kanada-kolumbia-brytyjska-konczy-ze-zmiana-czasu-nie-chodzi-tylko-o-zegarki-st8933133?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:35:04 GMT",
+      "description": "Jest miejsce, gdzie odchodzi się od zmiany czasu. W Kolumbii Brytyjskiej w najbliższy weekend po raz ostatni przestawią zegarki. Władze regionu zdecydowały o stałym przejściu na czas letni, kończąc wieloletnią praktykę zmiany czasu dwa razy w roku.",
+      "originalTitle": "Koniec ze zmianą czasu. \"Nie chodzi tylko o zegarki\"",
+      "originalDescription": "Jest miejsce, gdzie odchodzi się od zmiany czasu. W Kolumbii Brytyjskiej w najbliższy weekend po raz ostatni przestawią zegarki. Władze regionu zdecydowały o stałym przejściu na czas letni, kończąc wieloletnią praktykę zmiany czasu dwa razy w roku."
+    },
+    {
+      "title": "Walka powietrzna nad Teheranem. Nagranie ze starcia myśliwców",
+      "link": "https://tvn24.pl/swiat/walka-powietrzna-nad-teheranem-nagranie-ze-starcia-mysliwcow-st8933213?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:32:12 GMT",
+      "description": "Izrael udostępnił w czwartek nagranie, na którym widać moment zestrzelenia irańskiego samolotu przez izraelski myśliwiec. Myśliwiec izraelskich sił zbrojnych F-35 zniszczył szkolno-bojowy samolot Jak-130 irańskich sił powietrznych.",
+      "originalTitle": "Walka powietrzna nad Teheranem. Nagranie ze starcia myśliwców",
+      "originalDescription": "Izrael udostępnił w czwartek nagranie, na którym widać moment zestrzelenia irańskiego samolotu przez izraelski myśliwiec. Myśliwiec izraelskich sił zbrojnych F-35 zniszczył szkolno-bojowy samolot Jak-130 irańskich sił powietrznych."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Gęsta mgła. Tu widzialność będzie ograniczona",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-5-6-03-gesta-mgla-tu-widzialnosc-bedzie-ograniczona-st8933162?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 15:24:17 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W nocy i nad ranem w części kraju rozwiną się gęste mgły, które znacznie ograniczą widzialność. Sprawdź, gdzie się ich spodziewać.",
+      "originalTitle": "Ostrzeżenia IMGW. Gęsta mgła. Tu widzialność będzie ograniczona",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W nocy i nad ranem w części kraju rozwiną się gęste mgły, które znacznie ograniczą widzialność. Sprawdź, gdzie się ich spodziewać."
+    },
+    {
+      "title": "Pogoda. Dwucyfrowe wartości na termometrach w całym kraju. Jak ciepło będzie",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-weekend-dwucyfrowe-wartosci-na-termometrach-ile-stopni-bedzie-st8933106?source=rss",
       "pubDate": "Thu, 05 Mar 2026 14:58:42 GMT",
-      "description": "• W weekend w całej Polsce temperatura ma osiągnąć dwucyfrowe wartości\n• Bardzo ciepły ma być także poniedziałek\n• Od wtorku aura zacznie się jednak nieco zmieniać",
+      "description": "W weekend w całej Polsce temperatura ma osiągnąć dwucyfrowe wartości, bardzo ciepły ma być także poniedziałek. Od wtorku aura zacznie się jednak nieco zmieniać.",
       "originalTitle": "Pogoda. Dwucyfrowe wartości na termometrach w całym kraju. Jak ciepło będzie",
       "originalDescription": "W weekend w całej Polsce temperatura ma osiągnąć dwucyfrowe wartości, bardzo ciepły ma być także poniedziałek. Od wtorku aura zacznie się jednak nieco zmieniać."
     },
     {
-      "title": "Prezes NBP Glapiński o stawce procentowej",
+      "title": "Polski SAFE zero procent. Glapiński wyjaśnia",
       "link": "https://tvn24.pl/biznes/z-kraju/polski-safe-zero-procent-prezes-nbp-adam-glapinski-wyjasnia-st8933042?source=rss",
       "pubDate": "Thu, 05 Mar 2026 14:50:55 GMT",
-      "description": "• Nie przedstawiłem żadnych konkretów w sprawie programu SAFE zero procent.\n• Prezes Narodowego Banku Polskiego to Adam Glapiński.\n• Wypowiedź Adama Glapińskiego miała miejsce w trakcie czwartkowej konferencji prasowej.\n• Adam Glapiński powiedział, że najpierw rząd i prezydent muszą zobaczyć program SAFE zero procent.",
+      "description": "Nie przedstawiłem żadnych konkretów w sprawie programu SAFE zero procent. Najpierw musi to zobaczyć rząd i prezydent - powiedział w trakcie czwartkowej konferencji prasowej prezes Narodowego Banku Polskiego Adam Glapiński.",
       "originalTitle": "Polski SAFE zero procent. Glapiński wyjaśnia",
       "originalDescription": "Nie przedstawiłem żadnych konkretów w sprawie programu SAFE zero procent. Najpierw musi to zobaczyć rząd i prezydent - powiedział w trakcie czwartkowej konferencji prasowej prezes Narodowego Banku Polskiego Adam Glapiński."
-    },
-    {
-      "title": "Glapiński omawia ryzyko gospodarcze",
-      "link": "https://tvn24.pl/biznes/z-kraju/inflacja-prezes-nbp-adam-glapinski-o-glownym-ryzyku-trudno-powiedziec-na-ile-to-bedzie-trwale-st8933056?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:47:27 GMT",
-      "description": "• Głównym ryzykiem dla inflacji jest eskalacja konfliktu na Bliskim Wschodzie.\n• Prezesem Narodowego Banku Polskiego jest Adam Glapiński.\n• Adam Glapiński ocenił, że głównym ryzykiem dla inflacji jest eskalacja konfliktu na Bliskim Wschodzie.\n• Zgodnie z nową projekcją banku centralnego inflacja powinna pozostać w celu NBP do końca 2028 roku.\n• Narodowy Bank Polski (NBP) przygotował nową projekcję dotyczącą inflacji.",
-      "originalTitle": "Glapiński o głównym ryzyku. \"Trudno powiedzieć, na ile to będzie trwałe\"",
-      "originalDescription": "Głównym ryzykiem dla inflacji jest eskalacja konfliktu na Bliskim Wschodzie - ocenił prezes Narodowego Banku Polskiego Adam Glapiński. Dodał, że zgodnie z nową projekcją banku centralnego inflacja powinna pozostać w celu NBP do końca 2028 roku."
-    },
-    {
-      "title": "Tusk przedstawił trzy postulaty",
-      "link": "https://tvn24.pl/polska/donald-tusk-ma-trzy-postulaty-do-karola-nawrockiego-prosze-natychmiast-podpisac-safe-st8933145?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:43:04 GMT",
-      "description": "Panie prezydencie, panie prezesie, nie ma czasu na kombinacje - zaapelował premier Donald Tusk w nagraniu opublikowanym w serwisie X. Komentując propozycję \"polskiego SAFE 0 procent\", wezwał Karola Nawrockiego między innymi do natychmiastowego podpisania ustawy o SAFE.",
-      "originalTitle": "Trzy postulaty Tuska. \"Proszę natychmiast podpisać SAFE\"",
-      "originalDescription": "Panie prezydencie, panie prezesie, nie ma czasu na kombinacje - zaapelował premier Donald Tusk w nagraniu opublikowanym w serwisie X. Komentując propozycję \"polskiego SAFE 0 procent\", wezwał Karola Nawrockiego między innymi do natychmiastowego podpisania ustawy o SAFE."
-    },
-    {
-      "title": "Estrogen chroni przed nadciśnieniem? Naukowcy potwierdzili",
-      "link": "https://tvn24.pl/zdrowie/estrogen-a-nadcisnienie-jak-hormon-chroni-serce-kobiet-st8933112?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:41:14 GMT",
-      "description": "Wykorzystując matematyczny model układu sercowo-naczyniowego i nerkowego naukowcy przeanalizowali, na czym polega ochronne działanie estrogenu przed nadciśnieniem. Badanie przyczynić się do opracowania skutecznych terapii dla kobiet po menopauzie. Co dokładnie wykazało?",
-      "originalTitle": "Estrogen chroni przed nadciśnieniem? Naukowcy potwierdzili",
-      "originalDescription": "Wykorzystując matematyczny model układu sercowo-naczyniowego i nerkowego naukowcy przeanalizowali, na czym polega ochronne działanie estrogenu przed nadciśnieniem. Badanie przyczynić się do opracowania skutecznych terapii dla kobiet po menopauzie. Co dokładnie wykazało?"
-    },
-    {
-      "title": "Atak na Iran, cena ostro w górę. \"Rachunek trafia bardzo szybko\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/atak-na-iran-cena-ostro-w-gore-rachunek-trafia-bardzo-szybko-st8931501?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:30:33 GMT",
-      "description": "Gwałtowny wzrost cen gazu wywołany paraliżem strategicznej Cieśniny Ormuz może przełożyć się na koszt produkcji i cenę nawozów. Grupa Azoty, ich główny wytwórca w Polsce, wstrzymała przyjmowanie nowych zamówień. \"Powodem decyzji jest niestabilna sytuacja geopolityczna na Bliskim Wschodzie\" - napisała spółka w oświadczeniu. Jeśli sytuacja się utrzyma, skutek może być jeden: wyższe ceny w sklepach.",
-      "originalTitle": "Atak na Iran, cena ostro w górę. \"Rachunek trafia bardzo szybko\"",
-      "originalDescription": "Gwałtowny wzrost cen gazu wywołany paraliżem strategicznej Cieśniny Ormuz może przełożyć się na koszt produkcji i cenę nawozów. Grupa Azoty, ich główny wytwórca w Polsce, wstrzymała przyjmowanie nowych zamówień. \"Powodem decyzji jest niestabilna sytuacja geopolityczna na Bliskim Wschodzie\" - napisała spółka w oświadczeniu. Jeśli sytuacja się utrzyma, skutek może być jeden: wyższe ceny w sklepach."
-    },
-    {
-      "title": "Diagnoza tego raka jest często spóźniona. Nowy marker może pomóc",
-      "link": "https://tvn24.pl/zdrowie/badanie-krwi-zamiast-biopsji-nowa-metoda-diagnozy-raka-pecherzyka-zolciowego-odkryta-przez-naukowcow-st8932702?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:26:36 GMT",
-      "description": "Wykrycie specyficznych substancji we krwi może pomóc w diagnostyce raka pęcherzyka żółciowego - informują badacze z międzynarodowego zespołu. To ważne, ponieważ pacjenci zwykle zgłaszają się po pomoc dopiero w zaawansowanym stadium choroby.",
-      "originalTitle": "Diagnoza tego raka jest często spóźniona. Nowy marker może pomóc",
-      "originalDescription": "Wykrycie specyficznych substancji we krwi może pomóc w diagnostyce raka pęcherzyka żółciowego - informują badacze z międzynarodowego zespołu. To ważne, ponieważ pacjenci zwykle zgłaszają się po pomoc dopiero w zaawansowanym stadium choroby."
-    },
-    {
-      "title": "USA przeciwko broni atomowej dla Polski?  \"Chciałbym prosić o bardzo precyzyjne wypowiedzi\"",
-      "link": "https://tvn24.pl/polska/usa-przeciwko-broni-atomowej-dla-polski-wladyslaw-kosiniak-kamysz-chcialbym-prosic-o-bardzo-precyzyjne-wypowiedzi-st8932676?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:24:17 GMT",
-      "description": "Brak opisu"
-    },
-    {
-      "title": "Nawrocki o podpisaniu ustawy o SAFE i \"wspaniałej alternatywie\"",
-      "link": "https://tvn24.pl/polska/karol-nawrocki-o-podpisaniu-ustawy-o-safe-i-o-polskim-safe-zero-procent-st8932722?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:23:41 GMT",
-      "description": "Nikt nie będzie nakładał na prezydenta Polski presji, kiedy ma to podpisać albo nie podpisać - stwierdził prezydent Karol Nawrocki podczas czwartkowej konferencji prasowej. Odnosił się on do kwestii jego decyzji w sprawie podpisania lub zawetowania ustawy SAFE. Nawrocki stwierdził też, że pojawiła się \"wspaniała alternatywa\" do programu SAFE w formie prezydenckiego projektu polski SAFE zero %.",
-      "originalTitle": "Nawrocki o podpisaniu ustawy o SAFE i \"wspaniałej alternatywie\"",
-      "originalDescription": "Nikt nie będzie nakładał na prezydenta Polski presji, kiedy ma to podpisać albo nie podpisać - stwierdził prezydent Karol Nawrocki podczas czwartkowej konferencji prasowej. Odnosił się on do kwestii jego decyzji w sprawie podpisania lub zawetowania ustawy SAFE. Nawrocki stwierdził też, że pojawiła się \"wspaniała alternatywa\" do programu SAFE w formie prezydenckiego projektu polski SAFE zero %."
-    },
-    {
-      "title": "List gończy za 18-latkiem podejrzanym o udział w grupie przestępczej",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-jest-podejrzany-o-wywolywanie-falszywych-alarmow-ukrywa-sie-przed-policja-st8933055?source=rss",
-      "pubDate": "Thu, 05 Mar 2026 14:10:41 GMT",
-      "description": "Policjanci poszukują 18-latka ukrywającego się przed organami ścigania. Wydano za nim list gończy. \"Jeśli znasz miejsce pobytu tej osoby, skontaktuj się z policjantami\" - poprosili.",
-      "originalTitle": "List gończy za 18-latkiem podejrzanym o udział w grupie przestępczej",
-      "originalDescription": "Policjanci poszukują 18-latka ukrywającego się przed organami ścigania. Wydano za nim list gończy. \"Jeśli znasz miejsce pobytu tej osoby, skontaktuj się z policjantami\" - poprosili."
     }
   ]
 }
