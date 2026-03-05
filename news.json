@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-05T07:45:56.966Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-05T08:14:39.569Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Incydent w centrum miasta, użycie metalowego pręta",
+      "link": "https://tvn24.pl/lodz/lodz-atak-w-centrum-miasta-ciosy-metalowym-pretem-w-glowe-st8932038?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 08:11:30 GMT",
+      "description": "• Został pobity metalowym prętem\n• Napastnik zabrał mu telefon\n• Do ataku doszło w centrum Łodzi\n• Podejrzewany o napaść jest już w rękach policji",
+      "originalTitle": "Atak w centrum miasta, ciosy metalowym prętem w głowę",
+      "originalDescription": "Został pobity metalowym prętem, napastnik zabrał mu telefon. Do ataku doszło w centrum Łodzi. Podejrzewany o napaść jest już w rękach policji."
+    },
+    {
+      "title": "Radni dwóch dzielnic poparli nocny zakaz sprzedaży alkoholu",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/nocna-prohibicja-w-calej-warszawie-sa-opinie-dwoch-dzielnic-st8932023?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 08:03:20 GMT",
+      "description": "Dwie pierwsze dzielnice wyraziły swoją opinię dotyczącą wprowadzenia nocnej prohibicji w całej Warszawie. Radni Targówka i Bemowa zagłosowali za tym pomysłem. Zgodnie z zapowiedzią prezydenta stolicy Rafała Trzaskowskiego, takie ograniczenia zostałyby wprowadzone najpóźniej w połowie roku.",
+      "originalTitle": "Nocny zakaz sprzedaży alkoholu. Radni dwóch dzielnic byli jednogłośni",
+      "originalDescription": "Dwie pierwsze dzielnice wyraziły swoją opinię dotyczącą wprowadzenia nocnej prohibicji w całej Warszawie. Radni Targówka i Bemowa zagłosowali za tym pomysłem. Zgodnie z zapowiedzią prezydenta stolicy Rafała Trzaskowskiego, takie ograniczenia zostałyby wprowadzone najpóźniej w połowie roku."
+    },
+    {
+      "title": "Rząd reaguje na projekt ustawy o wynagrodzeniach żołnierzy",
+      "link": "https://tvn24.pl/polska/polski-safe-zero-procent-wiemy-jak-rzad-reaguje-prezydent-moze-stracic-milosc-zolnierzy-st8931885?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 08:03:16 GMT",
+      "description": "• Opis artykułu dotyczy hasła \"Bezpieczeństwo nie ma alternatywy\", które ma być odpowiedzią rządzących na pomysł \"polskiego SAFE zero procent\".\n• Pomysł \"polskiego SAFE zero procent\" został zaproponowany w środę przez prezydenta i prezesa NBP.\n• Prezydent uważa, że \"polski SAFE\" to \"konkretna, polska, bezpieczna i suwerenna alternatywa\" wobec europejskiego programu SAFE.\n• Karol Nawrocki i Adam Glapiński nie ujawnili szczegółów dotyczących \"polskiego SAFE\".\n• Prezydent jest zwolennikiem \"polskiego SAFE\" jako alternatywy dla europejskiego programu SAFE.\n• Patryk Michalski jest autorem programu \"News Michalskiego\" w TVN24+.\n• Patryk Michalski ustalił, że przedstawiciele Pałacu Prezydenckiego i MON nawiązali roboczy kontakt w sprawie \"polskiego SAFE\" po środowej konferencji.\n• Kontakt roboczy nie rozwiał wątpliwości rządzących dotyczących \"polskiego SAFE\".\n• Prezes NBP to Adam Glapiński.\n• Wśród osób zaangażowanych w dyskusję o \"polskim SAFE\" jest Karol Nawrocki.",
+      "originalTitle": "\"Prezydent może stracić miłość żołnierzy\". Wiemy, jak rząd reaguje na \"polski SAFE zero procent\"",
+      "originalDescription": "\"Bezpieczeństwo nie ma alternatywy\" - to jedno z haseł, którym rządzący zamierzają odpowiedzieć na pomysł \"polskiego SAFE zero procent\", zaproponowany w środę przez prezydenta i prezesa NBP. Choć Karol Nawrocki i Adam Glapiński nie ujawnili szczegółów, prezydent uważa, że to \"konkretna, polska, bezpieczna i suwerenna alternatywa\" wobec europejskiego programu SAFE. Według ustaleń Patryka Michalskiego, autora programu \"News Michalskiego\" w TVN24+, przedstawiciele Pałacu Prezydenckiego i MON już po środowej konferencji nawiązali roboczy kontakt w sprawie \"polskiego SAFE\", ale nie rozwiał on wątpliwości rządzących."
+    },
+    {
+      "title": "Służby odnotowały wypowiedź o Polsce",
+      "link": "https://tvn24.pl/polska/zagrozenie-terrorystyczne-wobec-polski-tomasz-siemoniak-mamy-pewne-scenariusze-st8931967?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:51:29 GMT",
+      "description": "• W związku z wojną na Bliskim Wschodzie Polsce jako sojusznikowi USA może coś grozić.\n• Minister koordynator służb specjalnych to Tomasz Siemoniak.\n• Tomasz Siemoniak ujawnił informacje w programie \"Rozmowa Piaseckiego\" w TVN24.\n• Służby specjalne wychwyciły wypowiedź na temat Polski w katarskiej telewizji.\n• Trzeba brać pod uwagę rosnące zagrożenie terrorystyczne.",
+      "originalTitle": "Służby \"wychwyciły wypowiedź na temat Polski\"",
+      "originalDescription": "Czy w związku z wojną na Bliskim Wschodzie Polsce - jako sojusznikowi USA - coś grozi? Minister koordynator służb specjalnych Tomasz Siemoniak ujawnił w programie \"Rozmowa Piaseckiego\" w TVN24, że służby specjalne wychwyciły wypowiedź na temat Polski w katarskiej telewizji. Jak wyjaśnił, trzeba brać pod uwagę rosnące zagrożenie terrorystyczne."
+    },
+    {
+      "title": "Stance Kościoła wobec wojny",
+      "link": "https://tvn24.pl/swiat/atak-na-iran-chrzescijanie-podzieleni-niektorzy-widza-w-trumpie-nowego-mesjasza-st8931559?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:50:56 GMT",
+      "description": "• Wojna w Iranie dzieli chrześcijan.\n• Część amerykańskich środowisk ewangelikalnych widzi w niej starcie końca czasów.\n• W prezydencie Donaldzie Trumpie widzą zapowiedź nadejścia Mesjasza.\n• Katolicy i chrześcijanie bardziej tradycyjni ostrzegają, że wojenne zakusy Zachodu zawsze kończą się źle dla mieszkańców Bliskiego Wschodu.\n• Chrześcijański syjonizm amerykańskich ewangelikalnych uznają zaś za herezję.\n• Tekst został napisany przez filozofa i publicystę Tomasza P. Terlikowskiego.\n• Artykuł został opublikowany dla TVN24+.",
+      "originalTitle": "Chrześcijanie podzieleni. Watykan przeciw wojnie, amerykańscy ewangelikalni za",
+      "originalDescription": "Wojna w Iranie dzieli chrześcijan. Część amerykańskich środowisk ewangelikalnych widzi w niej starcie końca czasów, a w prezydencie Donaldzie Trumpie zapowiedź nadejścia Mesjasza. Katolicy i chrześcijanie bardziej tradycyjni ostrzegają, że wojenne zakusy Zachodu zawsze kończą się źle dla mieszkańców Bliskiego Wschodu. Chrześcijański syjonizm amerykańskich ewangelikalnych uznają zaś za herezję - pisze dla TVN24+ filozof i publicysta Tomasz P. Terlikowski."
+    },
+    {
+      "title": "Wypadek drogowy, ośmiolatka w szpitalu",
+      "link": "https://tvn24.pl/szczecin/stargard-potracil-osmiolatke-dziewczynka-trafila-do-szpitala-st8931977?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:47:42 GMT",
+      "description": "• Kierowca Forda potrącił ośmioletnią dziewczynkę\n• Dziewczynka została przewieziona do szpitala\n• Przyczyny zdarzenia są ustalane",
+      "originalTitle": "Potrącił ośmiolatkę, dziewczynka trafiła do szpitala",
+      "originalDescription": "Kierowca Forda potrącił ośmioletnią dziewczynkę, przewieziono ją do szpitala. Przyczyny zdarzenia są ustalane."
+    },
+    {
+      "title": "Pies znaleziony przywiązanym do drzewa",
+      "link": "https://tvn24.pl/rzeszow/powiat-krosnienski-ktos-przywiazal-psa-i-porzucil-w-lesie-st8931998?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:26:26 GMT",
+      "description": "• Strażnicy leśni patrolowali lasy w Nadleśnictwie Rymanów.\n• Znaleźli psa przywiązanego do drzewa.\n• Uwolnili młodego owczarka.\n• Pies trafił do schroniska w Lesku.",
+      "originalTitle": "Patrolowali las, znaleźli psa przywiązanego do drzewa",
+      "originalDescription": "Strażnicy leśni, patrolując lasy w Nadleśnictwie Rymanów, znaleźli psa przywiązanego do drzewa. Uwolnili młodego owczarka, trafił do schroniska w Lesku."
+    },
+    {
+      "title": "Wypadek drogowy, jeden kierowca zmarł",
+      "link": "https://tvn24.pl/lublin/gora-zderzenie-na-skrzyzowaniu-jeden-z-kierowcow-nie-zyje-st8931955?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:15:09 GMT",
+      "description": "• 77-letni kierowca Fiata nie ustąpił pierwszeństwa.\n• Kierowca Fiata doprowadził do zderzenia z nadjeżdżającym z przeciwka Volkswagenem.\n• Do zderzenia doszło z Volkswagenem.\n• Zderzenie miało miejsce, gdy Volkswagen nadjeżdżał z przeciwka.\n• Kierowcą Fiata był 77-letni mężczyzna.\n• Mężczyzna zmarł po przewiezieniu do szpitala.\n• Policja podaje informacje o zdarzeniu.",
+      "originalTitle": "Zderzenie na skrzyżowaniu, jeden z kierowców nie żyje",
+      "originalDescription": "77-letni kierowca Fiata nie ustąpił pierwszeństwa i doprowadził do zderzenia z nadjeżdżającym z przeciwka Volkswagenem - podaje policja. Mężczyzna zmarł po przewiezieniu do szpitala."
+    },
+    {
+      "title": "Wypadek drogowy, 28-latka nie żyje",
+      "link": "https://tvn24.pl/krakow/chyzne-tragedia-na-drodze-w-poblizu-granicy-ze-slowacja-st8931964?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:08:59 GMT",
+      "description": "Tragiczny wypadek na drodze krajowej numer 7 w Chyżnem (Małopolskie). Kierująca samochodem osobowym uderzyła w naczepę ciężarówki. 28-latka zginęła na miejscu.",
+      "originalTitle": "Uderzyła w ciężarówkę, 28-latka zginęła na miejscu",
+      "originalDescription": "Tragiczny wypadek na drodze krajowej numer 7 w Chyżnem (Małopolskie). Kierująca samochodem osobowym uderzyła w naczepę ciężarówki. 28-latka zginęła na miejscu."
+    },
+    {
+      "title": "Nawrocki \"ma dużą presję wojska\". SAFE zero procent ma \"stworzyć pretekst\"",
+      "link": "https://tvn24.pl/polska/safe-0-procent-tomasz-siemoniak-o-presji-na-karola-nawrockiego-ze-strony-wojska-st8931932?source=rss",
+      "pubDate": "Thu, 05 Mar 2026 07:06:23 GMT",
+      "description": "Propozycja Karola Nawrockiego i Adama Glapińskiego ma cel czysto polityczny - stworzyć prezydentowi pretekst do tego, żeby wetować ustawę o SAFE - ocenił w \"Rozmowie Piaseckiego\" w TVN24 minister koordynator służb specjalnych Tomasz Siemoniak. Jego zdaniem pomysł Nawrockiego, nazywany SAFE zero procent, \"rozpłynie się w powietrzu\".",
+      "originalTitle": "Nawrocki \"ma dużą presję wojska\". SAFE zero procent ma \"stworzyć pretekst\"",
+      "originalDescription": "Propozycja Karola Nawrockiego i Adama Glapińskiego ma cel czysto polityczny - stworzyć prezydentowi pretekst do tego, żeby wetować ustawę o SAFE - ocenił w \"Rozmowie Piaseckiego\" w TVN24 minister koordynator służb specjalnych Tomasz Siemoniak. Jego zdaniem pomysł Nawrockiego, nazywany SAFE zero procent, \"rozpłynie się w powietrzu\"."
+    }
+  ]
 }
