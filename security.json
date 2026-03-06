@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-06T06:47:22.830Z",
+  "lastUpdate": "2026-03-06T07:18:45.308Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Pierwsza grupa ewakuowanych wróciła do Polski",
+      "link": "https://defence24.pl/geopolityka/pierwsza-grupa-ewakuowanych-wrocila-do-polski",
+      "pubDate": "Fri, 06 Mar 2026 08:15:13 +0100",
+      "description": "„Samoloty B737 Sił Powietrznych RP bezpiecznie przetransportowały do kraju 109 osób. Działalność Polskiego Kontyngentu Wojskowego Bliski Wschód koordynowało Dowództwo Operacyjne RSZ, a siły i środki wydzieliło Dowództwo Generalne” – przekazało DO RSZ."
+    },
     {
       "title": "Transporter po czesku, czyli co zastąpi Pandura II [ANALIZA]",
       "link": "https://defence24.pl/sily-zbrojne/transporter-po-czesku-czyli-co-zastapi-pandura-ii-analiza",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/centrum-techniki-morskiej-szuka-nowych-czlonkow-zarzadu",
       "pubDate": "Thu, 05 Mar 2026 14:15:30 +0100",
       "description": "Rada Nadzorcza spółki określiła pożądane kompetencje kandydatów, którzy chcieliby zasiąść w fotelach członków zarządu VII kadencji. To m.in. znajomość branży, w której działa CTM, dostęp do informacji niejawnych z klauzulą co najmniej „TAJNE/NATO”. Jednakże brak dostępu do takich informacji nie wyklucza kandydata; jeśli taka osoba zostanie wybrana na wspomniane stanowisko, zobowiązana będzie do wypełnienia „Ankiety bezpieczeństwa osobowego” w terminie 21 dni od powołania na tę funkcję."
-    },
-    {
-      "title": "Irańskie bombowce ofiarą katarskiego F-15",
-      "link": "https://defence24.pl/sily-zbrojne/iranskie-bombowce-ofiara-katarskiego-f-15",
-      "pubDate": "Thu, 05 Mar 2026 13:30:00 +0100",
-      "description": "Do zestrzelenia dwóch irańskich Su-24MK doszło w poniedziałek 2 marca. Maszyny zostały wykryte kiedy zbliżały się do amerykańskiej bazy Al-Udeid i rafinerii Ras Laffan. Poruszały się kilkadziesiąt metrów nad powierzchnią wody, żeby uniknąć wykrycia przez radary. W chwili kiedy były o dwie minuty od tych celów zostały wykryte i zidentyfikowane."
     }
   ]
 }
