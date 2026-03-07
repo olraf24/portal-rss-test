@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-07T03:42:33.608Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-07T04:33:29.011Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na sobotę 7.03: temperatura dwucyfrowa",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-7-03-dwucyfrowe-wartosci-na-termometrach-w-calym-kraju-st8935573?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 01:00:00 GMT",
+      "description": "• Dziś jest sobota.\n• Data to 7.03.\n• Będzie dużo słońca.\n• W niektórych regionach pojawi się trochę chmur.\n• Będzie ciepło.\n• W całym kraju na termometrach zagoszczą dwucyfrowe wartości.",
+      "originalTitle": "Pogoda na dziś - sobota, 7.03. Dwucyfrowe wartości na termometrach w całym kraju",
+      "originalDescription": "Pogoda na dziś. Sobota 7.03 da nam dużo słońca, choć będą regiony, gdzie pojawi się trochę chmur. Będzie ciepło - w całym kraju na termometrach zagoszczą dwucyfrowe wartości."
+    },
+    {
+      "title": "Komisja Wenecka ocenia ustawę",
+      "link": "https://tvn24.pl/polska/komisja-wenecka-ocenila-ustawe-zurka-tylko-szczegoly-sa-przedmiotem-naszych-dyskusji-st8935093?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 21:54:52 GMT",
+      "description": "Komisja Wenecka przyznała, że zaproponowana przez polski rząd tak zwana \"ustawa praworządnościowa\" zmierza do \"przywrócenia rządów prawa poprzez uregulowanie statusu\" neosędziów. Mimo to w rekomendacjach Komisji pojawiły się też zastrzeżenia do proponowanych zmian legislacyjnych.",
+      "originalTitle": "Komisja Wenecka oceniła ustawę Żurka. \"Tylko szczegóły są przedmiotem naszych dyskusji\"",
+      "originalDescription": "Komisja Wenecka przyznała, że zaproponowana przez polski rząd tak zwana \"ustawa praworządnościowa\" zmierza do \"przywrócenia rządów prawa poprzez uregulowanie statusu\" neosędziów. Mimo to w rekomendacjach Komisji pojawiły się też zastrzeżenia do proponowanych zmian legislacyjnych."
+    },
+    {
+      "title": "Donald Trump komentuje sytuację na Kubie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-kuba-wkrotce-upadnie-st8935544?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 21:12:35 GMT",
+      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump wypowiedział się w piątek.\n• Wypowiedź miała miejsce w rozmowie ze stacją CNN.\n• Tematem wypowiedzi była Kuba i ewentualne porozumienie.\n• Donald Trump stwierdził, że \"Kuba chce zawrzeć porozumienie\".\n• Nie podał szczegółów dotyczących porozumienia.\n• Stwierdził, że \"Mamy wystarczająco dużo czasu\".\n• Dodał, że \"Kuba jest gotowa po 50 latach\".",
+      "originalTitle": "Donald Trump: Kuba wkrótce upadnie",
+      "originalDescription": "Prezydent USA Donald Trump powiedział w piątek w rozmowie ze stacją CNN, że \"Kuba chce zawrzeć porozumienie\", ale nie podał szczegółów. - Mamy wystarczająco dużo czasu, ale Kuba jest gotowa po 50 latach - kontynuował."
+    },
+    {
+      "title": "Były szef NBP o stawkach procentowych",
+      "link": "https://tvn24.pl/polska/polski-safe-zero-procent-marek-belka-komentuje-st8935486?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 20:27:25 GMT",
+      "description": "• Zawsze jeżeli tego rodzaju plan jest na stole, chodzi o pożyczkę, którą z banku centralnego otrzymuje jakaś instytucja.\n• Profesorem, który wypowiadał się na ten temat, jest Marek Belka.\n�� Marek Belka jest byłym prezesem Narodowego Banku Polskiego.\n• Wypowiedź profesora Marka Belki miała miejsce w programie \"#BezKitu\" w TVN24.\n• Profesor Marek Belka komentował prezydencką propozycję \"polskiego SAFE 0 procent\".\n• Według profesora Marka Belki, \"teoretycznie to jest absolutnie możliwe\".\n• Profesorem Marek Belka obawia się, że w przypadku powodzenia \"politycy nie zdołają powstrzymać swoich instynktów\".",
+      "originalTitle": "\"Teoretycznie możliwe\". Były szef NBP o \"polskim SAFE 0 procent\"",
+      "originalDescription": "Zawsze jeżeli tego rodzaju plan jest na stole, chodzi o pożyczkę, którą z banku centralnego otrzymuje jakaś instytucja - mówił w \"#BezKitu\" w TVN24 profesor Marek Belka, były prezes Narodowego Banku Polskiego. Komentował prezydencką propozycję \"polskiego SAFE 0 procent\". Jak mówił, \"teoretycznie to jest absolutnie możliwe\", choć obawia się, że w przypadku powodzenia \"politycy nie zdołają powstrzymać swoich instynktów\"."
+    },
+    {
+      "title": "Remont peronu w Radzyminie potrwa dwa miesiące",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radzymin-remont-peronu-stacji-kolejowej-dwa-miesiace-utrudnien-st8935535?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 20:22:00 GMT",
+      "description": "• Rozpoczyna się remont peronu stacji kolejowej w Radzyminie.\n• Remont oznacza utrudnienia dla pasażerów.\n• Jeden z torów na miesiąc zostanie wyłączony z ruchu.\n• Po miesiącu dojdzie do zamiany i prace przeniosą się na przeciwną stronę.",
+      "originalTitle": "Wyremontują peron stacji w Radzyminie. Dwa miesiące utrudnień",
+      "originalDescription": "Rozpoczyna się remont peronu stacji kolejowej w Radzyminie. Oznacza to utrudnienia dla pasażerów. Na początek jeden z torów na miesiąc zostanie wyłączony z ruchu, następnie dojdzie do zamiany i prace przeniosą się na przeciwną stronę."
+    },
+    {
+      "title": "Wypadek furgonetki w Hiszpanii",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/grozna-pogoda-w-hiszpanii-szukaja-kierowcy-furgonetki-st8935507?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 20:20:59 GMT",
+      "description": "• Hiszpania od kilku dni zmaga się z niebezpieczną pogodą.\n• W piątek najgroźniej było na północy kraju.\n• Na północy kraju intensywnie padało.\n• Strażacy szukają kierowcy auta.\n• Auto zostało znalezione w rzece.",
+      "originalTitle": "Groźna pogoda w Hiszpanii. Szukają kierowcy furgonetki",
+      "originalDescription": "Hiszpania od kilku dni zmaga się z niebezpieczną pogodą. W piątek najgroźniej było na północy kraju, gdzie intensywnie padało. Strażacy szukają kierowcy auta, które zostało znalezione w rzece."
+    },
+    {
+      "title": "Magdalena Majtyka zmarła",
+      "link": "https://tvn24.pl/wroclaw/zaginiona-polska-aktorka-magdalena-majtyka-nie-zyje-nowe-informacje-st8934959?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 14:18:53 GMT",
+      "description": "W piątek odnaleziono ciało poszukiwanej aktorki serialowej i teatralnej Magdaleny Majtyki. Kobieta 4 marca wyszła z domu i od tego czasu nie kontaktowała się z rodziną. Prokuratura Rejonowa w Oławie wszczęła śledztwo w sprawie śmierci 41-latki.",
+      "originalTitle": "Zaginiona polska aktorka Magdalena Majtyka nie żyje. Nowe informacje",
+      "originalDescription": "W piątek odnaleziono ciało poszukiwanej aktorki serialowej i teatralnej Magdaleny Majtyki. Kobieta 4 marca wyszła z domu i od tego czasu nie kontaktowała się z rodziną. Prokuratura Rejonowa w Oławie wszczęła śledztwo w sprawie śmierci 41-latki."
+    },
+    {
+      "title": "Zabezpieczenia przeciwko nieprawidłowemu parkowaniu w Miasteczku Wilanów",
+      "link": "https://tvn24.pl/tvnwarszawa/wilanow/miasteczko-wilanow-slupki-i-kamery-walka-z-patoparkowaniem-w-miasteczku-wilanow-st8934021?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 19:48:32 GMT",
+      "description": "• Przed wjazdem do podziemnego garażu zamontowano podwójny szpaler słupków.\n• Zamontowanie słupków jest odpowiedzią wspólnoty mieszkaniowej na problem nielegalnego parkowania.\n• Zamontowanie słupków jest odpowiedzią wspólnoty mieszkaniowej na problem blokowania ruchu.\n• Wspólnota mieszkaniowa posiada system kamer osiedlowego monitoringu.\n• System kamer osiedlowego monitoringu automatycznie przesyła zdjęcia pojazdów do straży miejskiej.\n• Zdjęcia przesyłane są w przypadku pojazdów pozostawionych na zakazie.",
+      "originalTitle": "Zasieki ze słupków i kamery. Walka z \"patoparkowaniem\" w Miasteczku Wilanów",
+      "originalDescription": "Przed wjazdem do podziemnego garażu zamontowano podwójny szpaler słupków. To odpowiedź wspólnoty mieszkaniowej na problem nielegalnego parkowania i blokowania ruchu. Dodatkowo system kamer osiedlowego monitoringu automatycznie przesyła do straży miejskiej zdjęcia pojazdów pozostawionych na zakazie."
+    },
+    {
+      "title": "Kuwejt ogranicza wydobycie ropy",
+      "link": "https://tvn24.pl/biznes/rynki/kuwejt-ogranicza-wydobycie-ropy-magazyny-osiagaja-limit-st8935483?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 19:20:40 GMT",
+      "description": "• Według doniesień \"The Wall Street Journal\", Kuwejt zaczął ograniczać wydobycie na części swoich pól naftowych.\n• Ograniczenie wydobycia jest spowodowane tym, że zbiorniki magazynowe Kuwejtu zbliżają się do maksymalnego zapełnienia.\n• Przedłużający się kryzys na Bliskim Wschodzie, spowodowany wojną, może mieć wpływ na decyzje innych krajów.\n• Kryzys może spowodować, że inne kraje OPEC podejmą podobne decyzje, jak Kuwejt, w kwestii ograniczania wydobycia ropy naftowej.",
+      "originalTitle": "Kuwejt przykręca kurek z ropą",
+      "originalDescription": "Według doniesień \"The Wall Street Journal\", Kuwejt zaczął ograniczać wydobycie na części swoich pól naftowych, ponieważ jego zbiorniki magazynowe zbliżają się do maksymalnego zapełnienia. Przedłużający się z powodu wojny na Bliskim Wschodzie kryzys może spowodować, że podobne decyzje podejmą inne kraje OPEC."
+    },
+    {
+      "title": "Balcerowicz komentuje plan SAFE",
+      "link": "https://tvn24.pl/polska/balcerowicz-o-planie-nawrockiego-i-glapinskiego-na-safe-to-jest-brednia-st8935476?source=rss",
+      "pubDate": "Fri, 06 Mar 2026 19:13:38 GMT",
+      "description": "Z ekonomicznego i konstytucyjnego punktu widzenia to jest brednia - powiedział w \"Faktach po Faktach\" w TVN24 profesor Leszek Balcerowicz, były minister finansów, były prezes NBP, komentując prezydencką alternatywę dla unijnego programu SAFE.",
+      "originalTitle": "Balcerowicz o planie Nawrockiego i Glapińskiego na SAFE: to jest brednia",
+      "originalDescription": "Z ekonomicznego i konstytucyjnego punktu widzenia to jest brednia - powiedział w \"Faktach po Faktach\" w TVN24 profesor Leszek Balcerowicz, były minister finansów, były prezes NBP, komentując prezydencką alternatywę dla unijnego programu SAFE."
+    }
+  ]
 }
