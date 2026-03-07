@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-07T20:06:13.553Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-07T20:40:05.291Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek w Tatrach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/smiertelny-wypadek-w-tatrach-turysta-zsunal-sie-ze-zbocza-st8936688?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 20:13:32 GMT",
+      "description": "• W sobotę w Tatrach Zachodnich doszło do wypadku.\n• Turysta zsunął się ze stromego, ośnieżonego zbocza.\n• Inni turyści udzielili mu pomocy.\n• Ratownicy TOPR przeprowadzili szybką akcję ratunkową.\n• Mimo udzielonej pomocy i akcji ratunkowej nie udało się uratować życia turysty.",
+      "originalTitle": "Śmiertelny wypadek w Tatrach. Turysta zsunął się ze zbocza",
+      "originalDescription": "W sobotę w Tatrach Zachodnich turysta zsunął się ze stromego, ośnieżonego zbocza. Mimo udzielenia pomocy przez innych turystów i szybkiej akcji ratowników TOPR jego życia nie udało się uratować."
+    },
+    {
+      "title": "Reakcje na decyzję rządu",
+      "link": "https://tvn24.pl/polska/to-jest-upokorzenie-dla-mateusza-morawieckiego-st8936654?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 19:20:42 GMT",
+      "description": "• Ryszard Petru, poseł Centrum, wypowiedział się w programie \"Faktach po Faktach\".\n• Ryszard Petru komentował pozycję Mateusza Morawieckiego w partii po ogłoszeniu Przemysława Czarnka kandydatem na premiera.\n• Prezes Jarosław Kaczyński zasugerował, że w rządzie może znaleźć się miejsce dla Morawieckiego.\n• Prezes Jarosław Kaczyński postawił warunek, aby Morawiecki mógł znaleźć się w rządzie.\n• Ryszard Petru wypowiedział się w TVN24.\n• Mateusz Morawiecki miał zadeklarowaną politykę miłości, według Ryszarda Petru.\n• Przemysław Czarnek został ogłoszony kandydatem na premiera.",
+      "originalTitle": "\"To jest upokorzenie dla Mateusza Morawieckiego\"",
+      "originalDescription": "Wiem, że oni się tam przytulili. Wiem, że ten zadeklarował politykę miłości, ale nie oszukujmy się - mówił Ryszard Petru, poseł Centrum w \"Faktach po Faktach\". Polityk w TVN24 komentował pozycję Mateusza Morawieckiego w partii po ogłoszeniu Przemysława Czarnka kandydatem na premiera. Wcześniej prezes Jarosław Kaczyński zasugerował, że w rządzie może znaleźć się miejsce dla Morawieckiego, ale postawił warunek."
+    },
+    {
+      "title": "Osoba dotknięta lawiną błota opisuje straty",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-peru-bloto-zalalo-domy-ulice-zmienily-sie-w-rwace-potoki-to-katastrofa-st8935773?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 09:25:46 GMT",
+      "description": "• Peruwiański dystrykt Ayna nawiedziły powodzie i osuwisko wywołane przez obfite opady deszczu.\n• Żywioł zniszczył setki domów.\n• Powodzie i osuwisko zmusiły wiele rodzin do poszukiwania schronienia.",
+      "originalTitle": "Zeszła na nich masa błota. \"Straciłam wszystko, spójrzcie na mój dom\"",
+      "originalDescription": "Peruwiański dystrykt Ayna nawiedziły powodzie i osuwisko wywołane przez obfite opady deszczu. Żywioł zniszczył setki domów, zmuszając wiele rodzin do poszukiwania schronienia."
+    },
+    {
+      "title": "Minister spraw zagranicznych Iranu krytykuje politykę Trumpa",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-7-marca-najnowsze-informacje-st8935642?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 05:44:56 GMT",
+      "description": "• Prezydent Iranu Masud Pezeszkian przeprosił sąsiednie kraje za ich zaatakowanie.\n• Prezydent USA Donald Trump zapowiedział, że Iran zostanie \"uderzony z całą mocą\".\n• Irański minister spraw zagranicznych ocenił, że Donald Trump \"zabił\" gotowość Teheranu do \"deeskalacji\".\n• Rakiety i drony wciąż spadają na kraje Zatoki Perskiej.\n• Trwa wojna USA i Izraela z Iranem.\n• Najnowsze informacje o konflikcie na Bliskim Wschodzie można znaleźć w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Minister spraw zagranicznych Iranu: Trump zabił naszą gotowość do deeskalacji",
+      "originalDescription": "Prezydent Iranu Masud Pezeszkian przeprosił sąsiednie kraje za ich zaatakowanie. W odpowiedzi prezydent USA Donald Trump zapowiedział, że Iran zostanie \"uderzony z całą mocą\". Następnie irański minister spraw zagranicznych ocenił, że Trump \"zabił\" gotowość Teheranu do \"deeskalacji\". Tymczasem rakiety i drony wciąż spadają na kraje Zatoki Perskiej, a wojna USA i Izraela z Iranem trwa. Najnowsze informacje o konflikcie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Pogoda na 8.03: więcej chmur nocą",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-8-03-tutaj-noca-pojawi-sie-wiecej-chmur-st8936631?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 18:20:37 GMT",
+      "description": "• Noc będzie na ogół pogodna.\n• W niektórych regionach przejściowo może pojawić się więcej chmur.\n• W niektórych częściach kraju złapie lekki mróz.\n• W niedzielę czeka nas kontynuacja ładnej i ciepłej aury z ostatnich dni.",
+      "originalTitle": "Pogoda na jutro - niedziela, 8.03. Tutaj nocą pojawi się więcej chmur",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę, 8.03. Noc będzie na ogół pogodna, choć w niektórych regionach przejściowo może pojawić się więcej chmur. W niektórych częściach kraju złapie lekki mróz. W niedzielę czeka nas kontynuacja ładnej i ciepłej aury z ostatnich dni."
+    },
+    {
+      "title": "Czarnek o ochronie kobiet",
+      "link": "https://tvn24.pl/polska/przemyslaw-czarnek-wiemy-jak-dbac-o-kobiety-st8936567?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 17:54:44 GMT",
+      "description": "• Dzisiaj to państwo Tuska i lewaczek od Czarzastego urządza w Polsce piekło kobiet.\n• Piekło kobiet jest dzisiaj - mówił poseł Prawa i Sprawiedliwości Przemysław Czarnek na konwencji partii.\n• Przemysław Czarnek został ogłoszony kandydatem ugrupowania na premiera w trakcie konwencji partii.\n• Konwencja partii, na której Przemysław Czarnek został ogłoszony kandydatem, była zorganizowana przez Prawo i Sprawiedliwość.",
+      "originalTitle": "Czarnek: wiemy, jak dbać o kobiety",
+      "originalDescription": "Dzisiaj to państwo Tuska i lewaczek od Czarzastego urządza w Polsce piekło kobiet. Piekło kobiet jest dzisiaj - mówił poseł Prawa i Sprawiedliwości Przemysław Czarnek na konwencji partii, w trakcie której został ogłoszony kandydatem ugrupowania na premiera."
+    },
+    {
+      "title": "Mental Bus umożliwi uzyskanie pomocy psychologa na wsi i w małych miastach",
+      "link": "https://tvn24.pl/polska/mental-bus-dowiezie-psychologa-do-wsi-i-miasteczek-st8936595?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 17:25:34 GMT",
+      "description": "Mobilny Zespół Pomocy Psychologicznej to inicjatywa, której celem jest zwiększenie dostępności pomocy psychologicznej w miejscach, gdzie kontakt ze specjalistą często jest utrudniony lub niemożliwy - czyli we wsiach i w małych miasteczkach. Oficjalny start Mental Busa planowany jest 7 kwietnia, ale my już teraz towarzyszyliśmy jego zespołowi.",
+      "originalTitle": "Mental Bus umożliwi uzyskanie pomocy psychologa na wsi i w małych miastach",
+      "originalDescription": "Mobilny Zespół Pomocy Psychologicznej to inicjatywa, której celem jest zwiększenie dostępności pomocy psychologicznej w miejscach, gdzie kontakt ze specjalistą często jest utrudniony lub niemożliwy - czyli we wsiach i w małych miasteczkach. Oficjalny start Mental Busa planowany jest 7 kwietnia, ale my już teraz towarzyszyliśmy jego zespołowi."
+    },
+    {
+      "title": "Pies przyniósł panu kość. Miała ponad 10 tysięcy lat",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-new-jersey-pies-przyniosl-panu-kosc-miala-ponad-10-tysiecy-lat-st8936540?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 17:17:07 GMT",
+      "description": "Podczas spaceru po plaży pies mieszkańca New Jersey znalazł dziwną kość. Mężczyzna razem z synem zwrócili się o pomoc w jej identyfikacji do miejscowego muzeum skamieniałości. Okazało się, że należy do zwierzęcia wymarłego wiele tysięcy lat temu.",
+      "originalTitle": "Pies przyniósł panu kość. Miała ponad 10 tysięcy lat",
+      "originalDescription": "Podczas spaceru po plaży pies mieszkańca New Jersey znalazł dziwną kość. Mężczyzna razem z synem zwrócili się o pomoc w jej identyfikacji do miejscowego muzeum skamieniałości. Okazało się, że należy do zwierzęcia wymarłego wiele tysięcy lat temu."
+    },
+    {
+      "title": "Zderzyli się dwaj motocykliści. Nie żyje 22-latek",
+      "link": "https://tvn24.pl/katowice/czechowice-dziedzice-zderzyli-sie-dwaj-motocyklisci-nie-zyje-22-latek-st8936539?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 16:09:35 GMT",
+      "description": "Tragiczny wypadek na drodze krajowej nr 1 w Czechowicach-Dziedzicach (woj. śląskie). Zderzyły się dwa motocykle, zginął 22-latek kierujący jednym z nich. Trasa w stronę Bielska‑Białej jest całkowicie zamknięta.",
+      "originalTitle": "Zderzyli się dwaj motocykliści. Nie żyje 22-latek",
+      "originalDescription": "Tragiczny wypadek na drodze krajowej nr 1 w Czechowicach-Dziedzicach (woj. śląskie). Zderzyły się dwa motocykle, zginął 22-latek kierujący jednym z nich. Trasa w stronę Bielska‑Białej jest całkowicie zamknięta."
+    },
+    {
+      "title": "Czteroletnie dziecko spadło z trzeciego piętra",
+      "link": "https://tvn24.pl/katowice/wola-czteroletnie-dziecko-spadlo-z-trzeciego-pietra-st8936518?source=rss",
+      "pubDate": "Sat, 07 Mar 2026 15:49:10 GMT",
+      "description": "Czteroletnie dziecko spadło z trzeciego piętra budynku przy ulicy Górniczej w Woli (woj. śląskie). Dziecko bez widocznych obrażeń zostało zabrane do szpitala. Policja ustala, jak doszło do zdarzenia.",
+      "originalTitle": "Czteroletnie dziecko spadło z trzeciego piętra",
+      "originalDescription": "Czteroletnie dziecko spadło z trzeciego piętra budynku przy ulicy Górniczej w Woli (woj. śląskie). Dziecko bez widocznych obrażeń zostało zabrane do szpitala. Policja ustala, jak doszło do zdarzenia."
+    }
+  ]
 }
