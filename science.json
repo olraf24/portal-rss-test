@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2026-03-07T23:06:21.025Z",
+  "lastUpdate": "2026-03-07T23:38:16.154Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Galaktyki nieaktywne zaskoczyły naukowców",
-      "link": "https://dzienniknaukowy.pl/galaktyki-nieaktywne-zaskoczyly-naukowcow",
-      "pubDate": "Fri, 06 Mar 2026 16:10:34 +0000",
-      "description": "Przeprowadzono jedne z najgłębszych obserwacji gazu i pyłu w galaktykach nieaktywnych. Okazuje się, że część tych obiektów może mieć więcej gazu lub pyłu niż zakładano - poinformowało Narodowe Centrum Badań Jądrowych (NCBJ), którego doktorant kierował badaniami."
-    },
-    {
-      "title": "Polacy tworzą przełomowy lek na ultrarzadką chorobę o polskich korzeniach",
-      "link": "https://dzienniknaukowy.pl/polacy-tworza-przelomowy-lek-na-ultrarzadka-chorobe-o-polskich-korzeniach",
-      "pubDate": "Fri, 06 Mar 2026 15:45:44 +0000",
-      "description": "Polacy pracują nad stworzeniem przełomowej terapii dla ultrarzadkiej choroby spowodowanej mutacją w genie PUS3. Naukowcy podejrzewają, że mutacja ta ma polskie korzenie - pojawiła się wieki temu u wspólnego przodka żyjącego w naszej części Europy, prawdopodobnie na terenach dzisiejszego Śląska."
-    },
-    {
-      "title": "Gran Canaria &#8211; mało znane fakty o „kontynencie w pigułce”",
-      "link": "https://dzienniknaukowy.pl/gran-canaria-malo-znane-fakty-o-kontynencie-w-pigulce",
-      "pubDate": "Fri, 06 Mar 2026 15:33:03 +0000",
-      "description": "Gran Canaria to jedna z Wysp Kanaryjskich, która co roku przyciąga miliony turystów z całego świata. Wyspa zachwyca swoją różnorodnością i łagodnym klimatem, jednak w tym artykule przybliżymy mniej znane fakty o Gran Canarii, dzięki którym poznamy ten odległy zakątek Europy nieco bliżej"
-    },
-    {
-      "title": "Nauka języka polskiego dla dzieci mieszkających poza Polską",
-      "link": "https://dzienniknaukowy.pl/nauka-jezyka-polskiego-dla-dzieci-mieszkajacych-poza-polska",
-      "pubDate": "Fri, 06 Mar 2026 15:15:46 +0000",
-      "description": "Dwujęzyczność to ogromny kapitał na przyszłość, ale też realne wyzwanie dla rodzin, które wychowują dzieci poza granicami kraju. Utrzymanie kontaktu z językiem polskim wymaga systematyczności, dobrze dobranych materiałów i wsparcia edukacyjnego dopasowanego do wieku oraz poziomu dziecka. Na szczęście dostęp do nowoczesnych narzędzi i internetowych zasobów sprawia, że nauka polskiego jest dziś bardziej przystępna niż kiedykolwiek wcześniej."
-    },
-    {
-      "title": "Eksperci: po infekcji grypowej częściej zdarzają się zawały serca i udary mózgu",
-      "link": "https://dzienniknaukowy.pl/eksperci-po-infekcji-grypowej-czesciej-zdarzaja-sie-zawaly-serca-i-udary-mozgu",
-      "pubDate": "Thu, 05 Mar 2026 15:59:41 +0000",
-      "description": "Zawały serca i udary mózgu częściej się zdarzają u osób, które w ostatnim czasie przeszły zakażenie grypą – ostrzegli eksperci Ogólnopolskiego Programu Zwalczania Chorób Infekcyjnych. Zaznaczyli, że przed tego rodzaju powikłaniami chroni szczepionka przeciwko grypie."
-    },
-    {
-      "title": "Wiek kobiet wpływa na postrzegania atrakcyjności mężczyzn",
-      "link": "https://dzienniknaukowy.pl/wiek-kobiet-wplywa-na-postrzegania-atrakcyjnosci-mezczyzn",
-      "pubDate": "Thu, 05 Mar 2026 15:39:43 +0000",
-      "description": "Młodsze kobiety uważają mężczyzn z brodami za mniej atrakcyjnych niż te starsze, ale za to wyżej oceniają tych, o wysokim stopniu rozwoju muskulatury – m.in. to wynika z badań zespołu pod kierunkiem dr Łukasza Pawelca z Katedry Antropologii UPWr. Ich wyniki opublikowano właśnie w czasopiśmie „Adaptive Human Behavior and Physiology”."
-    },
-    {
-      "title": "Jak planować urlop, aby nie zaburzać funkcjonowania zespołu?",
-      "link": "https://dzienniknaukowy.pl/jak-planowac-urlop-aby-nie-zaburzac-funkcjonowania-zespolu",
-      "pubDate": "Thu, 05 Mar 2026 13:36:00 +0000",
-      "description": "Dobrze zaplanowany urlop to taki, podczas którego możesz wypocząć bez zmartwień o jakiekolwiek sprawy zawodowe. Żeby to zrobić, przyda się skrupulatny plan działania poprzedzony analizą Dni Ustawowo Wolnych od Pracy, a także rozmowami ze współpracownikami oraz pracodawcą. Jeśli dobrze się przygotujesz, będziesz w stanie maksymalnie wykorzystać potencjał wolnych dni urlopowych, bez naruszenia struktury działania swojego zespołu w firmie."
-    },
-    {
-      "title": "Brutalna selekcja na froncie. Jak wojna zmienia populację psów w Ukrainie?",
-      "link": "https://dzienniknaukowy.pl/brutalna-selekcja-na-froncie-jak-wojna-zmienia-populacje-psow-w-ukrainie",
-      "pubDate": "Tue, 03 Mar 2026 12:30:22 +0000",
-      "description": "Badacze - dzięki danym gromadzonym przez ukraińskich żołnierzy na froncie i przez wolontariuszy w innych częściach Ukrainy - sprawdzili, jak zmieniła się populacja dziko żyjących psów na obszarach frontowych. Skala zmian jest ogromna. Przeżywają głównie nieduże, zdrowe psy o cechach „typu dzikiego”."
-    },
-    {
-      "title": "Badacze sprawdzili, jak mózg i naczynia krwionośne współpracują podczas aktywności",
-      "link": "https://dzienniknaukowy.pl/badacze-sprawdzili-jak-mozg-i-naczynia-krwionosne-wspolpracuja-podczas-aktywnosci",
-      "pubDate": "Tue, 03 Mar 2026 12:09:12 +0000",
-      "description": "Mózg pracuje, aktywując neurony, ale ich działanie wymaga energii przenoszonej przez krew. Istnieją więc dwie metody badania pracy mózgu. Jedna rejestruje aktywność neuronów, a druga - zmiany dopływu krwi z tlenem do tego organu. Badacze z Berlina, Lublany i Warszawy oszacowali, z jakim opóźnieniem naczynia reagują na sygnał neuronalny podczas prostych zadań ruchowych oraz jak stabilny jest ten związek między różnymi osobami i poszczególnymi próbami."
-    },
-    {
-      "title": "5G na Księżycu — jaki jest sens?",
-      "link": "https://dzienniknaukowy.pl/5g-na-ksiezycu-jaki-jest-sens",
-      "pubDate": "Tue, 03 Mar 2026 10:43:00 +0000",
-      "description": "A gdyby tak zainstalować 5G na Księżycu? Zdania co do sensu takiego zabiegu będą zapewne podzielone. Możliwe jednak, że stanie się to kiedyś koniecznością. Może nawet za kilkanaście lub kilkadziesiąt lat będziemy wybierać Księżyc jako jedną z lokalizacji dostępu do sieci. Mamy już za sobą próbę dostarczenia internetu na naszego satelitę. Pytanie tylko — jak daleko chcemy iść?"
-    }
-  ]
+  "articles": []
 }
