@@ -1,34 +1,74 @@
 {
-  "lastUpdate": "2026-03-09T15:23:37.697Z",
+  "lastUpdate": "2026-03-09T15:49:39.695Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "NATO zestrzeliło pocisk, Turcja reaguje",
+      "title": "Wydarzenia globalne wpływają na dostęp do surowców",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wojna-na-bliskim-wschodzie-wydarzenia-na-drugim-koncu-swiata-moga-odbic-sie-na-polsce-st8932486?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 15:46:30 GMT",
+      "description": "• Konflikt na Bliskim Wschodzie destabilizuje światowy rynek energii.\n• Po ataku na instalacje katarskiego giganta QatarEnergy produkcja gazu została wstrzymana.\n• Ceny gazu wzrosły gwałtownie.\n• Na świecie trwa walka o jeden z kluczowych surowców.\n• Skutki walki o surowce mogą odczuć także polscy odbiorcy.\n• Na razie polscy odbiorcy nie odczuwają skutków w postaci wyższych rachunków za energię.",
+      "originalTitle": "Walka o kluczowy surowiec. \"Wydarzenia na drugim końcu świata mogą odbić się na Polsce\"",
+      "originalDescription": "Konflikt na Bliskim Wschodzie destabilizuje światowy rynek energii. Po ataku na instalacje katarskiego giganta QatarEnergy produkcja gazu została wstrzymana, a ceny gwałtownie wzrosły. Na świecie trwa walka o jeden z kluczowych surowców, a jej skutki mogą odczuć także polscy odbiorcy. Choć na razie jednak jeszcze nie w rachunkach za energię."
+    },
+    {
+      "title": "Ukraina czeka na zwrot pieniędzy od Węgier",
+      "link": "https://tvn24.pl/swiat/zatrzymany-transport-gotowki-do-ukrainy-na-wegrzech-andrij-sybiha-to-budzi-co-najmniej-zdziwienie-st8939227?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 15:44:23 GMT",
+      "description": "• Kijów oczekuje zwrotu 40 milionów dolarów.\n• Kijów oczekuje zwrotu 35 milionów euro.\n• Kijów oczekuje zwrotu 9 kilogramów złota.\n• Majątek ten pochodzi z ukraińskiego transportu.\n• Węgry zatrzymały majątek pod zarzutem prania pieniędzy.\n• Ukraina ocenia, że Węgry próbują wciągnąć ich do kampanii wyborczej.\n• Kampania wyborcza, o której mowa, dotyczy Viktora Orbana.\n• Zarzut dotyczy prania pieniędzy.\n• Majątek zatrzymany jest w Budapeszcie.",
+      "originalTitle": "Ukraina wciąż czeka na zwrot pieniędzy od Węgier. \"To budzi co najmniej zdziwienie\"",
+      "originalDescription": "Kijów oczekuje zwrotu 40 milionów dolarów, 35 milionów euro i 9 kilogramów złota od Budapesztu. To majątek, który Węgry zatrzymały z ukraińskiego transportu pod zarzutem prania pieniędzy. Ukraina ocenia, że to próba wciągnięcia ich do kampanii wyborczej Viktora Orbana."
+    },
+    {
+      "title": "Szpital po ataku cybernetycznym używa papieru",
+      "link": "https://tvn24.pl/szczecin/szpital-w-szczecinie-po-cyberataku-pracuje-na-papierze-st8939179?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 15:44:10 GMT",
+      "description": "Po ataku hakerów szpital wojewódzki w Szczecinie pracuje w trybie awaryjnym. Pacjenci są przyjmowani i lekarze wykonują swoją pracę, ale wciąż nie ma dostępu do części danych.",
+      "originalTitle": "Szpital po cyberataku pracuje na papierze",
+      "originalDescription": "Po ataku hakerów szpital wojewódzki w Szczecinie pracuje w trybie awaryjnym. Pacjenci są przyjmowani i lekarze wykonują swoją pracę, ale wciąż nie ma dostępu do części danych."
+    },
+    {
+      "title": "\"Nawet Wielki Szatan wspomniał jego imię\". Tak przyjęto wybór nowego przywódcy Iranu",
+      "link": "https://tvn24.pl/swiat/nawet-wielki-szatan-wspomnial-jego-imie-tak-przyjeto-wybor-nowego-przywodcy-iranu-st8938985?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 15:43:12 GMT",
+      "description": "Przewodniczący Najwyższej Rady Bezpieczeństwa Narodowego Iranu Ali Laridżani oświadczył w poniedziałek w serwisie X, że nominacja Modżtaby Chameneiego \"doprowadziła (...) wrogów do rozpaczy\". Jak zareagowały USA, Chiny, Rosja i Unia Europejska na nowego przywódcę Iranu?",
+      "originalTitle": "\"Nawet Wielki Szatan wspomniał jego imię\". Tak przyjęto wybór nowego przywódcy Iranu",
+      "originalDescription": "Przewodniczący Najwyższej Rady Bezpieczeństwa Narodowego Iranu Ali Laridżani oświadczył w poniedziałek w serwisie X, że nominacja Modżtaby Chameneiego \"doprowadziła (...) wrogów do rozpaczy\". Jak zareagowały USA, Chiny, Rosja i Unia Europejska na nowego przywódcę Iranu?"
+    },
+    {
+      "title": "Sprawa wypadku byłej premier Beaty Szydło. Kolejni funkcjonariusze byłego BOR z zarzutami",
+      "link": "https://tvn24.pl/bialystok/bialystok-kolejni-funkcjonariusze-bylego-bor-z-zarzutem-falszywych-zeznan-w-sprawie-wypadku-premier-szydlo-st8939186?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 15:27:55 GMT",
+      "description": "Do sześciu wzrosła liczba funkcjonariuszy byłego BOR objętych zarzutami w sprawie wypadku z 2017 roku z udziałem ówczesnej premier Beaty Szydło. Dwóm kolejnym przedstawiono zarzuty składania fałszywych zeznań w śledztwie prowadzonym przez Prokuraturę Regionalną w Białymstoku.",
+      "originalTitle": "Sprawa wypadku byłej premier Beaty Szydło. Kolejni funkcjonariusze byłego BOR z zarzutami",
+      "originalDescription": "Do sześciu wzrosła liczba funkcjonariuszy byłego BOR objętych zarzutami w sprawie wypadku z 2017 roku z udziałem ówczesnej premier Beaty Szydło. Dwóm kolejnym przedstawiono zarzuty składania fałszywych zeznań w śledztwie prowadzonym przez Prokuraturę Regionalną w Białymstoku."
+    },
+    {
+      "title": "Kolejny pocisk zestrzelony przez NATO. Turcja ostrzega",
       "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-turcja-zestrzelila-pocisk-wystrzelony-przez-iran-st8938987?source=rss",
       "pubDate": "Mon, 09 Mar 2026 15:20:24 GMT",
-      "description": "• W przestrzeni powietrznej Turcji strącono pocisk balistyczny.\n• Pocisk balistyczny został wystrzelony z Iranu.\n• O incydencie poinformowało tureckie ministerstwo obrony.\n• Jest to drugi taki przypadek w ostatnich dniach.\n• Resort zapowiedział podjęcie niezbędnych kroków.\n• Kroki te mają na celu obronę państwa.",
+      "description": "W przestrzeni powietrznej Turcji strącono pocisk balistyczny wystrzelony z Iranu - poinformowało tureckie ministerstwo obrony. To drugi taki przypadek w ostatnich dniach. Resort zapowiedział podjęcie niezbędnych kroków w celu obrony państwa.",
       "originalTitle": "Kolejny pocisk zestrzelony przez NATO. Turcja ostrzega",
       "originalDescription": "W przestrzeni powietrznej Turcji strącono pocisk balistyczny wystrzelony z Iranu - poinformowało tureckie ministerstwo obrony. To drugi taki przypadek w ostatnich dniach. Resort zapowiedział podjęcie niezbędnych kroków w celu obrony państwa."
     },
     {
-      "title": "Naukowcy przywrócili produkcję plemników",
+      "title": "Przełom w leczeniu męskiej niepłodności? Naukowcy przywrócili produkcję plemników",
       "link": "https://tvn24.pl/zdrowie/przelom-w-leczeniu-meskiej-nieplodnosci-naukowcy-przywrocili-produkcje-plemnikow-st8939192?source=rss",
       "pubDate": "Mon, 09 Mar 2026 15:18:14 GMT",
-      "description": "• Naukowcy z Uniwersytetu w Kioto przywrócili produkcję plemników u genetycznie bezpłodnych myszy.\n• Wykorzystali terapeutyczne mRNA do przywrócenia produkcji plemników.\n• Zwierzęta odzyskały zdolność do rozmnażania.\n• Na świat przyszło zdrowe potomstwo.\n• Eksperyment przeprowadzono na modelu zwierzęcym.\n• Badacze mówią o potencjalnym przełomie w leczeniu jednej z najtrudniejszych form męskiej niepłodności.",
+      "description": "Naukowcy z Uniwersytetu w Kioto przywrócili produkcję plemników u genetycznie bezpłodnych myszy, wykorzystując terapeutyczne mRNA. Zwierzęta odzyskały zdolność do rozmnażania, a na świat przyszło zdrowe potomstwo. Choć eksperyment przeprowadzono na modelu zwierzęcym, badacze mówią o potencjalnym przełomie w leczeniu jednej z najtrudniejszych form męskiej niepłodności.",
       "originalTitle": "Przełom w leczeniu męskiej niepłodności? Naukowcy przywrócili produkcję plemników",
       "originalDescription": "Naukowcy z Uniwersytetu w Kioto przywrócili produkcję plemników u genetycznie bezpłodnych myszy, wykorzystując terapeutyczne mRNA. Zwierzęta odzyskały zdolność do rozmnażania, a na świat przyszło zdrowe potomstwo. Choć eksperyment przeprowadzono na modelu zwierzęcym, badacze mówią o potencjalnym przełomie w leczeniu jednej z najtrudniejszych form męskiej niepłodności."
     },
     {
-      "title": "Czarnek o systemie ETS",
+      "title": "Czarnek o systemie ETS: \"wypowiadamy to\". Tylko jak",
       "link": "https://konkret24.tvn24.pl/polityka/czarnek-o-systemie-ets-wypowiadamy-to-tylko-jak-st8937961?source=rss",
       "pubDate": "Mon, 09 Mar 2026 15:14:46 GMT",
-      "description": "• Państwo ma pojechać do Brukseli i powiedzieć, że nie ma już ETS-u w Polsce.\n• Wypowiadamy to - powiedział Przemysław Czarnek.\n• Przemysław Czarnek jest posłem PiS.\n• Przemysław Czarnek jest kandydatem PiS na premiera.\n• Eksperci ostrzegają, że takie próby mogą przynieść Polsce poważne konsekwencje.",
+      "description": "\"Państwo ma pojechać do Brukseli i powiedzieć: nie mamy już ETS-u w Polsce. Wypowiadamy to\" - powiedział Przemysław Czarnek, poseł PiS, kandydat tej partii na premiera. Eksperci ostrzegają jednak, że takie próby mogą przynieść Polsce poważne konsekwencje.",
       "originalTitle": "Czarnek o systemie ETS: \"wypowiadamy to\". Tylko jak",
       "originalDescription": "\"Państwo ma pojechać do Brukseli i powiedzieć: nie mamy już ETS-u w Polsce. Wypowiadamy to\" - powiedział Przemysław Czarnek, poseł PiS, kandydat tej partii na premiera. Eksperci ostrzegają jednak, że takie próby mogą przynieść Polsce poważne konsekwencje."
     },
     {
-      "title": "Spadek notowań na giełdzie nowojorskiej",
+      "title": "Wyprzedaż na nowojorskiej giełdzie",
       "link": "https://tvn24.pl/biznes/rynki/wall-street-s-p-nsdaq-notowania-na-amerykanskiej-gieldzie-po-wzroscie-cen-ropy-stan-na-9-03-st8939153?source=rss",
       "pubDate": "Mon, 09 Mar 2026 14:58:25 GMT",
       "description": "Główne indeksy giełdowe Wall Street spadły w poniedziałek o ponad 1 procent, natomiast ceny ropy naftowej gwałtownie wzrosły - informuje w poniedziałek Reutres. Nasiliło to obawy o inflację.",
@@ -42,46 +82,6 @@
       "description": "W Lasach Pamięci leżą zmarli, ale nie ma tam murowanych grobów, pomników i krzyży. Prochy trafiają bezpośrednio do ziemi w biodegradowalnych urnach. Spoczywają w otoczeniu drzew i głazów. Nie ma tam miejsca na sztuczne kwiaty i kolorowe ozdoby. Taka ekologiczna forma pochówków jest już dostępna w kilku polskich miastach. Niebawem może także pojawić się w stolicy.",
       "originalTitle": "Drzewo zamiast nagrobka z lastryka. Stolica szykuje nową formę pochówku",
       "originalDescription": "W Lasach Pamięci leżą zmarli, ale nie ma tam murowanych grobów, pomników i krzyży. Prochy trafiają bezpośrednio do ziemi w biodegradowalnych urnach. Spoczywają w otoczeniu drzew i głazów. Nie ma tam miejsca na sztuczne kwiaty i kolorowe ozdoby. Taka ekologiczna forma pochówków jest już dostępna w kilku polskich miastach. Niebawem może także pojawić się w stolicy."
-    },
-    {
-      "title": "Balon zawisł na drzewie, kosz uderzył w autobus. \"Powiedziały, że jeszcze koleżanka wypadła\"",
-      "link": "https://tvn24.pl/lubuskie/zielona-gora-kierujaca-autobusem-widziala-jak-spada-balon-st8939011?source=rss",
-      "pubDate": "Mon, 09 Mar 2026 14:54:18 GMT",
-      "description": "Wysadziła pasażerów i skończyła kurs po Zielonej Górze. Wtedy zobaczyła kosz balonu, który uderzył w jej pojazd. W środku były dwie roztrzęsione młode kobiety.",
-      "originalTitle": "Balon zawisł na drzewie, kosz uderzył w autobus. \"Powiedziały, że jeszcze koleżanka wypadła\"",
-      "originalDescription": "Wysadziła pasażerów i skończyła kurs po Zielonej Górze. Wtedy zobaczyła kosz balonu, który uderzył w jej pojazd. W środku były dwie roztrzęsione młode kobiety."
-    },
-    {
-      "title": "Awantury w samolotach. Jeden z pijanych pasażerów uderzył strażnika w brzuch",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-awantury-w-samolotach-pasazer-uderzyl-straznika-st8939034?source=rss",
-      "pubDate": "Mon, 09 Mar 2026 14:44:37 GMT",
-      "description": "W ostatnich dniach Straż Graniczna na lotniskach na Okęciu i w Modlinie interweniowała wobec agresywnych i nietrzeźwych pasażerów. Jeden z nich uderzył funkcjonariusza w brzuch.",
-      "originalTitle": "Awantury w samolotach. Jeden z pijanych pasażerów uderzył strażnika w brzuch",
-      "originalDescription": "W ostatnich dniach Straż Graniczna na lotniskach na Okęciu i w Modlinie interweniowała wobec agresywnych i nietrzeźwych pasażerów. Jeden z nich uderzył funkcjonariusza w brzuch."
-    },
-    {
-      "title": "Śmierć aktorki Magdaleny Majtyki. Nowe informacje po sekcji zwłok",
-      "link": "https://tvn24.pl/wroclaw/magdalena-majtyka-nie-zyje-nowe-informacje-po-sekcji-zwlok-st8938977?source=rss",
-      "pubDate": "Mon, 09 Mar 2026 14:43:41 GMT",
-      "description": "Skończyła się sekcja zwłok aktorki Magdaleny Majtyki. Jej ciało znaleziono w piątek na terenie Biskupic Oławskich. Biegli nie stwierdzili obrażeń, które mogłyby wyjaśnić śmierć kobiety. Jak przekazała prokuratura, konieczne są dalsze badania histologiczne i toksykologiczne.",
-      "originalTitle": "Śmierć aktorki Magdaleny Majtyki. Nowe informacje po sekcji zwłok",
-      "originalDescription": "Skończyła się sekcja zwłok aktorki Magdaleny Majtyki. Jej ciało znaleziono w piątek na terenie Biskupic Oławskich. Biegli nie stwierdzili obrażeń, które mogłyby wyjaśnić śmierć kobiety. Jak przekazała prokuratura, konieczne są dalsze badania histologiczne i toksykologiczne."
-    },
-    {
-      "title": "Syreny alarmowe w trakcie relacji naszego korespondenta. \"Chciałem powiedzieć, że to był spokojny poranek\"",
-      "link": "https://tvn24.pl/swiat/syreny-alarmowe-w-trakcie-relacji-korespondenta-faktow-tvn-jacka-tacika-z-tel-awiwu-st8938442?source=rss",
-      "pubDate": "Mon, 09 Mar 2026 14:28:58 GMT",
-      "description": "Iran przypuścił kolejne ataki na Izrael, syreny alarmowe wybrzmiały między innymi w Tel Awiwie. Sytuację w mieście relacjonuje korespondent \"Faktów\" TVN Jacek Tacik. - To pierwszy taki alarm, czy jeden z pierwszych takich alarmów od czasu, kiedy w Iranie jest następca Alego Chameneiego - zauważył.",
-      "originalTitle": "Syreny alarmowe w trakcie relacji naszego korespondenta. \"Chciałem powiedzieć, że to był spokojny poranek\"",
-      "originalDescription": "Iran przypuścił kolejne ataki na Izrael, syreny alarmowe wybrzmiały między innymi w Tel Awiwie. Sytuację w mieście relacjonuje korespondent \"Faktów\" TVN Jacek Tacik. - To pierwszy taki alarm, czy jeden z pierwszych takich alarmów od czasu, kiedy w Iranie jest następca Alego Chameneiego - zauważył."
-    },
-    {
-      "title": "Nawet 40 złotych za przejechanie 50 kilometrów. Stawki na autostradzie w górę",
-      "link": "https://tvn24.pl/biznes/moto/podwyzka-oplat-na-autostradzie-a2-nowy-tomysl-konin-od-11-marca-nawet-40-zl-za-50-km-st8938975?source=rss",
-      "pubDate": "Mon, 09 Mar 2026 14:23:20 GMT",
-      "description": "Od środy wzrosną stawki za przejazd płatnymi odcinkami A2 na trasie Nowy Tomyśl - Konin - poinformowała spółka Autostrada Wielkopolska. Nowe stawki za każdy 50-km odcinek to 20 złotych dla motocykli i 40 złotych dla pojazdów osobowych. Dotychczas było to 19 złotych i 37 złotych.",
-      "originalTitle": "Nawet 40 złotych za przejechanie 50 kilometrów. Stawki na autostradzie w górę",
-      "originalDescription": "Od środy wzrosną stawki za przejazd płatnymi odcinkami A2 na trasie Nowy Tomyśl - Konin - poinformowała spółka Autostrada Wielkopolska. Nowe stawki za każdy 50-km odcinek to 20 złotych dla motocykli i 40 złotych dla pojazdów osobowych. Dotychczas było to 19 złotych i 37 złotych."
     }
   ]
 }
