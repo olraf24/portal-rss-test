@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-09T07:25:18.187Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-09T07:48:46.200Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek balonu, pasażer wypadł z kosza",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-balon-uderzyl-w-dom-jeden-z-pasazerow-wypadl-z-kosza-st8937855?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 07:46:41 GMT",
+      "description": "• Trzy osoby podróżowały balonem.\n• Balon zderzył się z budynkiem.\n• Po zderzeniu balon zaczął spadać.\n• Balon wylądował w okolicach ulicy Bolesława Chrobrego w Zielonej Górze.\n• Po zderzeniu z kosza balona wypadła jedna z osób.\n• Znaleziono ją na dachu budynku.\n• Trwa udzielanie jej pomocy.",
+      "originalTitle": "Balon uderzył w dom. Jeden z pasażerów wypadł z kosza",
+      "originalDescription": "Trzy osoby podróżowały balonem, który po zderzeniu z budynkiem zaczął spadać i wylądował w okolicach ulicy Bolesława Chrobrego w Zielonej Górze. Po zderzeniu z kosza balona wypadła jedna z osób. Znaleziono ją na dachu budynku. Trwa udzielanie jej pomocy."
+    },
+    {
+      "title": "Protest wyborczy po wyborach szefa KO we Wrocławiu",
+      "link": "https://tvn24.pl/wroclaw/dolny-slask-wybory-ko-na-szefa-regionu-monika-wielichowska-zlozy-protest-wyborczy-st8937817?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 07:38:03 GMT",
+      "description": "Monika Wielichowska walczyła o fotel szefowej dolnośląskich struktur Koalicji Obywatelskiej. Według lokalnych mediów nieznacznie przegrała z Michałem Jarosem. Wielichowska uważa, że doszło do nieprawidłowości i przekazała, że złoży protest wyborczy.",
+      "originalTitle": "Kłótnia po wyborach na szefa KO we Wrocławiu. Będzie protest wyborczy",
+      "originalDescription": "Monika Wielichowska walczyła o fotel szefowej dolnośląskich struktur Koalicji Obywatelskiej. Według lokalnych mediów nieznacznie przegrała z Michałem Jarosem. Wielichowska uważa, że doszło do nieprawidłowości i przekazała, że złoży protest wyborczy."
+    },
+    {
+      "title": "Znaleziono żywego skorpiona w przesyłce",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-skorpion-w-paczce-z-szachami-nagle-zobaczylem-ze-cos-sie-porusza-st8937816?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 07:34:02 GMT",
+      "description": "• Davide jest mieszkańcem okolic włoskiego miasta Treviso.\n• Davide zamówił szachownicę na taniej chińskiej platformie zakupowej.\n• Kiedy Davide otworzył paczkę, okazało się, że znajduje się w niej nieproszony gość.",
+      "originalTitle": "Skorpion w paczce. \"Nagle zobaczyłem, że coś się porusza\"",
+      "originalDescription": "Davide, mieszkaniec okolic włoskiego miasta Treviso, zamówił szachownicę na taniej chińskiej platformie zakupowej. Kiedy otworzył paczkę okazało się, że znajduje się w niej nieproszony gość."
+    },
+    {
+      "title": "Polityk PiS komentuje wypowiedź Czarnka",
+      "link": "https://tvn24.pl/polska/przemyslaw-czarnek-kandydatem-pis-na-premiera-komentarz-radoslawa-fogla-st8937782?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 07:07:57 GMT",
+      "description": "• To jest wybór, który pociągnie partię, mam nadzieję, do zwycięstwa - mówił w \"Rozmowie Piaseckiego w TVN24 polityk PiS Radosław Fogiel.\n• Komentował wskazanie Przemysława Czarnka na kandydata PiS na premiera.\n• Przyznał przy tym, że \"są sprawy, które ująłby w innych słowach\", niż jego partyjny kolega.\n• Radosław Fogiel jest politykiem PiS.\n• Wypowiedź Radosława Fogla miała miejsce w programie \"Rozmowa Piaseckiego\" w TVN24.\n• Przemysław Czarnek został wskazany na kandydata PiS na premiera.",
+      "originalTitle": "Polityk PiS o Czarnku: są sprawy, które ja bym ujął w innych słowach",
+      "originalDescription": "To jest wybór, który pociągnie partię, mam nadzieję, do zwycięstwa - mówił w \"Rozmowie Piaseckiego w TVN24 polityk PiS Radosław Fogiel. Komentował wskazanie Przemysława Czarnka na kandydata PiS na premiera. Przyznał przy tym, że \"są sprawy, które ująłby w innych słowach\", niż jego partyjny kolega."
+    },
+    {
+      "title": "W łazience znaleziono węża",
+      "link": "https://tvn24.pl/olsztyn/elblag-waz-w-mieszkaniu-na-miejscu-sluzby-st8937789?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 06:47:44 GMT",
+      "description": "• Policjanci z Elbląga interweniowali w jednym z mieszkań.\n• W mieszkaniu pojawił się wąż.\n• Zwierzę przedostało się z innego mieszkania do łazienki.\n• Przedostanie się węża nastąpiło najprawdopodobniej kanałem wentylacyjnym lub odpływem.\n• Wąż był niejadowity.\n• Wąż był gatunku zbożowego.",
+      "originalTitle": "Wszedł do łazienki i zobaczył węża",
+      "originalDescription": "Policjanci z Elbląga interweniowali w jednym z mieszkań, gdzie pojawił się wąż. Zwierzę przedostało się z innego mieszkania do łazienki najprawdopodobniej kanałem wentylacyjnym lub odpływem. Na szczęście był to tylko niejadowity wąż zbożowy."
+    },
+    {
+      "title": "Wzrost cen ropy",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-ropy-wzrosly-ponad-100-dolarow-dawid-czopek-o-przyczynach-gwaltownej-podwyzki-st8937758?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 06:40:41 GMT",
+      "description": "• Przy cenie ropy na poziomie 150 dolarów za baryłkę rynek może się ustabilizować.\n• Ustabilizowanie rynku ograniczyłoby popyt na surowiec o około 15-20 procent.\n• Ekspert rynku paliw Dawid Czopek wyraził swoją opinię na antenie TVN24.\n• Poniedziałkowy skok cen był reakcją na raport jednej z największych instytucji finansowych.\n• Raport dotyczył blokady cieśniny Ormuz.\n• Blokada cieśniny Ormuz spowodowała większe braki ropy niż zakładano.",
+      "originalTitle": "Ceny ropy poszybowały. Ekspert wskazał główną przyczynę",
+      "originalDescription": "Przy cenie ropy na poziomie 150 dolarów za baryłkę rynek może się ustabilizować, co ograniczyłoby popyt na surowiec o około 15-20 procent - ocenił na antenie TVN24 ekspert rynku paliw Dawid Czopek. Jego zdaniem poniedziałkowy skok cen był reakcją na raport jednej z największych instytucji finansowych, według którego blokada cieśniny Ormuz spowodowała większe braki ropy niż zakładano."
+    },
+    {
+      "title": "Kierowca potrącił rowerzystę",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wola-starogrodzka-garwolin-omijala-rowerzystow-jednego-potracila-trafil-do-szpitala-st8937759?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 06:21:03 GMT",
+      "description": "• Wypadku doszło pod Garwolinem\n• Kierująca autem osobowym omijała rowerzystów\n• Jednego z rowerzystów kierująca potrąciła\n• Potrącony mężczyzna trafił do szpitala",
+      "originalTitle": "Omijała rowerzystów, jednego potrąciła",
+      "originalDescription": "Pod Garwolinem kierująca autem osobowym omijała rowerzystów i jednego z nich potrąciła. Mężczyzna trafił do szpitala."
+    },
+    {
+      "title": "Ewakuacja Polaków samolotami wojskowymi",
+      "link": "https://tvn24.pl/polska/ewakuacja-polakow-z-bliskiego-wschodu-dorsz-dwa-samoloty-wystartowaly-do-omanu-st8937737?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 06:19:51 GMT",
+      "description": "• Kolejne dwa samoloty wojskowe lecą na Bliski Wschód.\n• Samoloty zostały wysłane przez Dowództwo Operacyjne Rodzajów Sił Zbrojnych.\n• Samoloty mają dotrzeć do Omanu.\n• Z Omanu przetransportują do kraju obywateli Polski przebywających w regionie.",
+      "originalTitle": "Kolejne wojskowe samoloty lecą po Polaków",
+      "originalDescription": "Kolejne dwa samoloty wojskowe lecą na Bliski Wschód - przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Mają dotrzeć do Omanu, skąd przetransportują do kraju obywateli Polski przebywających w regionie."
+    },
+    {
+      "title": "Mocne spadki w Azji. Giełdy w cieniu wojny",
+      "link": "https://tvn24.pl/biznes/rynki/mocne-spadki-w-azji-gieldy-w-cieniu-wojny-notowania-z-9-marca-2026-st8937773?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 06:12:29 GMT",
+      "description": "Gwałtowne spadki notowań otworzyły poniedziałkową sesję na azjatyckich parkietach w reakcji na eskalację wojny USA i Izraela z Iranem. Indeksy w Tokio i Seulu tąpnęły o kilka procent.",
+      "originalTitle": "Mocne spadki w Azji. Giełdy w cieniu wojny",
+      "originalDescription": "Gwałtowne spadki notowań otworzyły poniedziałkową sesję na azjatyckich parkietach w reakcji na eskalację wojny USA i Izraela z Iranem. Indeksy w Tokio i Seulu tąpnęły o kilka procent."
+    },
+    {
+      "title": "Australia. Miasto pod wodą. Władze ostrzegają przed krokodylami",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/australia-miasto-pod-woda-wladze-ostrzegaja-przed-krokodylami-st8937738?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 06:07:59 GMT",
+      "description": "Władze australijskiego Terytorium Północnego ostrzegają przed potężnymi krokodylami, które pojawiły się przez powódź w mieście Katherine i jego okolicach. W związku z pojawieniem się gadów zarządzono ewakuację.",
+      "originalTitle": "Australia. Miasto pod wodą. Władze ostrzegają przed krokodylami",
+      "originalDescription": "Władze australijskiego Terytorium Północnego ostrzegają przed potężnymi krokodylami, które pojawiły się przez powódź w mieście Katherine i jego okolicach. W związku z pojawieniem się gadów zarządzono ewakuację."
+    }
+  ]
 }
