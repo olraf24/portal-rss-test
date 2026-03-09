@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-09T18:47:38.449Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-09T19:19:38.238Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Decyzja Kaczyńskiego ws Czarnka",
+      "link": "https://tvn24.pl/polska/przemyslaw-czarnek-kandydat-pis-na-premiera-5-rzeczy-ktore-mogly-przekonac-prezesa-kaczynskiego-st8939040?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:59:41 GMT",
+      "description": "To jest gość, który równocześnie jest profesorem prawa, twoim wujkiem z wesela i wzmożonym ojcem na Twitterze. Jest wyluzowany, wszyscy go lubią - mówi nam polityk PiS młodego pokolenia. My przyglądamy się drodze, którą przeszedł Przemysław Czarnek, by \"polubił\" go sam prezes Jarosław Kaczyński. Bo bez tej sympatii nie zostałby kandydatem PiS na premiera.",
+      "originalTitle": "Pięć rzeczy, które mogły przekonać prezesa Kaczyńskiego do Czarnka",
+      "originalDescription": "To jest gość, który równocześnie jest profesorem prawa, twoim wujkiem z wesela i wzmożonym ojcem na Twitterze. Jest wyluzowany, wszyscy go lubią - mówi nam polityk PiS młodego pokolenia. My przyglądamy się drodze, którą przeszedł Przemysław Czarnek, by \"polubił\" go sam prezes Jarosław Kaczyński. Bo bez tej sympatii nie zostałby kandydatem PiS na premiera."
+    },
+    {
+      "title": "Ostrzeżenie przed silnym wiatrem",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-w-poniedzialek-i-wtorek-uwaga-na-silny-wiatr-imgw-ostrzega-st8939459?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:54:04 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju obowiązują żółte alarmy przed silnym wiatrem. Sprawdź szczegóły.",
+      "originalTitle": "Uwaga na silny wiatr. IMGW ostrzega",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju obowiązują żółte alarmy przed silnym wiatrem. Sprawdź szczegóły."
+    },
+    {
+      "title": "Wypadek auta i hulajnogi, pijany kierujący",
+      "link": "https://tvn24.pl/poznan/rawicz-zderzenie-auta-z-hulajnoga-kierujacy-nia-nastolatek-byl-pijany-st8939457?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:47:58 GMT",
+      "description": "Na skrzyżowaniu w Rawiczu (woj. wielkopolskie) 17-latek jadący hulajnogą elektryczną wjechał w samochód. Jak ustalili policjanci, nastolatek był pod wpływem alkoholu. Trafił do szpitala ze względu na podejrzenie urazu głowy.",
+      "originalTitle": "Zderzenie auta z hulajnogą. Kierujący nią nastolatek był pijany",
+      "originalDescription": "Na skrzyżowaniu w Rawiczu (woj. wielkopolskie) 17-latek jadący hulajnogą elektryczną wjechał w samochód. Jak ustalili policjanci, nastolatek był pod wpływem alkoholu. Trafił do szpitala ze względu na podejrzenie urazu głowy."
+    },
+    {
+      "title": "Iran zapowiada zwiększenie ataków",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-9-marca-najnowsze-informacje-st8937717?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 04:33:00 GMT",
+      "description": "Korpus Strażników Rewolucji Islamskiej zapowiedział, że nie będzie wystrzeliwał już pocisków z głowicami o masie mniejszej niż tona, a kolejne ataki będą częstsze i miały większy zasięg. Wcześniej prezydent USA Donald Trump skomentował, że nie jest zadowolony z wyboru na nowego najwyższego przywódcę Iranu Modżtaby Chameneiego. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Iran zapowiada intensyfikację ataków. \"Nie mniej niż tona\"",
+      "originalDescription": "Korpus Strażników Rewolucji Islamskiej zapowiedział, że nie będzie wystrzeliwał już pocisków z głowicami o masie mniejszej niż tona, a kolejne ataki będą częstsze i miały większy zasięg. Wcześniej prezydent USA Donald Trump skomentował, że nie jest zadowolony z wyboru na nowego najwyższego przywódcę Iranu Modżtaby Chameneiego. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "WKD: wymiana szyn, kursy zastępcze",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-komorow-wymieniaja-szyny-zmiany-w-rozkladzie-pociagow-wkd-st8939431?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:39:17 GMT",
+      "description": "Od wtorku, 10 marca kolejarze rozpoczynają prace związane w wymianą szyn na odcinku Komorów-Warszawa Raków. Dla pasażerów Warszawskiej Kolei Dojazdowej oznacza to zmiany w rozkładzie, które potrwają do 1 kwietnia. Wprowadzona zostanie także autobusowa komunikacja zastępcza.",
+      "originalTitle": "Ruszają z wymianą szyn, pasażerowie WKD przesiądą się do autobusów",
+      "originalDescription": "Od wtorku, 10 marca kolejarze rozpoczynają prace związane w wymianą szyn na odcinku Komorów-Warszawa Raków. Dla pasażerów Warszawskiej Kolei Dojazdowej oznacza to zmiany w rozkładzie, które potrwają do 1 kwietnia. Wprowadzona zostanie także autobusowa komunikacja zastępcza."
+    },
+    {
+      "title": "Pogoda na 10.03",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-na-jutro-wtorek-10-03-nadchodzi-chlodna-noc-st8939252?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:28:04 GMT",
+      "description": "• Wtorek to dzień, na który przypada prognoza pogody.\n• Data, na którą jest prognoza to 10.03.\n• Noc przyniesie pogodną aurę.\n• W niektórych miejscach temperatura spadnie poniżej zera w nocy.\n• W ciągu dnia na niebie będzie dominować słońce.\n• Na południu kraju możliwe są przelotne opady deszczu.\n• Temperatura maksymalna wyniesie od 12 do 17 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - wtorek, 10.03. Nadchodzi chłodna noc",
+      "originalDescription": "Pogoda na jutro, czyli wtorek, 10.03. Noc przyniesie pogodną aurę, ale w niektórych miejscach temperatura spadnie poniżej zera. W ciągu dnia na niebie będzie dominować słońce, jedynie na południu kraju możliwe są przelotne opady deszczu. Temperatura maksymalna wyniesie od 12 do 17 stopni Celsjusza."
+    },
+    {
+      "title": "Osoba o tym samym nazwisku otrzymała Oscara",
+      "link": "https://tvn24.pl/kultura-i-styl/oscary-2026-michael-b-jordan-faworytem-w-kategorii-najlepszy-aktor-kim-jest-st8933693?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:20:07 GMT",
+      "description": "• Nadchodząca gala oscarowa będzie 98. galą oscarową.\n• Gala ta będzie jedną z najbardziej nieprzewidywalnych.\n• Nieprzewidywalność dotyczy przynajmniej aktorskich kategorii.\n• \"The Hollywood Reporter\" jest prestiżowym czasopismem.\n• Na czołówce \"The Hollywood Reporter\" pojawia się pytanie \"Dlaczego wygra Michael B. Jordan, a nie Timothee Chalamet?\".\n• Michael B. Jordan jest jednym z faworytów w wyścigu o Oscara.\n• Timothee Chalamet jest również jednym z kandydatów do nagrody.\n• Artykuł przygląda się bliżej nowemu faworytowi w tym wyścigu.",
+      "originalTitle": "Zbieżność nazwisk przypadkowa. Czy zamiast z koszykówką zacznie kojarzyć się z Oscarem?",
+      "originalDescription": "Nadchodząca 98. gala oscarowa będzie jedną z najbardziej nieprzewidywalnych. Przynajmniej w aktorskich kategoriach. \"Dlaczego wygra Michael B. Jordan, a nie Timothee Chalamet?\"- pyta na czołówce prestiżowy \"The Hollywood Reporter\". I my zadajemy to pytanie oraz przyglądamy się bliżej nowemu faworytowi w tym wyścigu."
+    },
+    {
+      "title": "Policja i pirotechnicy badają znalezisko na placu zabaw",
+      "link": "https://tvn24.pl/wroclaw/zlotoryja-niepokojace-znalezisko-na-placu-zabaw-policja-sprawdza-karton-z-przedmiotami-przypominajacymi-materialy-wybuchowe-st8939402?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:15:15 GMT",
+      "description": "• Na placu zabaw w Złotoryi (woj. dolnośląskie) znaleziono karton z przedmiotami przypominającymi materiały wybuchowe.\n• Na miejscu pracują policjanci.\n• Na miejscu pracują pirotechnicy.\n• Policjanci i pirotechnicy sprawdzają znalezisko.",
+      "originalTitle": "Policja i pirotechnicy na placu zabaw. Sprawdzają niepokojące znalezisko",
+      "originalDescription": "Na placu zabaw w Złotoryi (woj. dolnośląskie) znaleziono karton z przedmiotami przypominającymi materiały wybuchowe. Na miejscu pracują policjanci i pirotechnicy, którzy sprawdzają znalezisko."
+    },
+    {
+      "title": "Trump omawia ceny ropy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ceny-ropy-trump-mam-plan-bedziecie-bardzo-zadowoleni-st8939400?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 18:06:02 GMT",
+      "description": "• Prezydent USA to Donald Trump.\n• Donald Trump zadeklarował, że ma gotowy plan na zahamowanie wzrostu cen ropy.\n• Plan ma na celu zahamowanie wzrostu cen ropy spowodowanego konfliktem z Iranem.\n• Deklaracja została złożona w poniedziałek.\n• Biały Dom obawia się, że rosnące ceny ropy zaszkodzą biznesom w USA.\n• Biały Dom obawia się, że rosnące ceny ropy zaszkodzą konsumentom w USA.",
+      "originalTitle": "Trump o cenach ropy: mam plan, będziecie bardzo zadowoleni",
+      "originalDescription": "Prezydent USA Donald Trump zadeklarował w poniedziałek, że ma gotowy plan na zahamowanie wzrostu cen ropy spowodowanego konfliktem z Iranem. Biały Dom obawia się, że rosnące ceny zaszkodzą biznesom i konsumentom w USA."
+    },
+    {
+      "title": "Spotkanie ws. rezerw ropy",
+      "link": "https://tvn24.pl/biznes/rynki/zawirowania-na-rynku-ropy-reporter-tvn24-sebastian-napieraj-tlumaczy-st8939323?source=rss",
+      "pubDate": "Mon, 09 Mar 2026 17:42:51 GMT",
+      "description": "• Ceny ropy w poniedziałek zbliżają się do 100 dolarów za baryłkę.\n• Przyczyną wzrostu cen ropy jest blokada cieśniny Ormuz.\n• Dziennikarz TVN24 Sebastian Napieraj przekazał informacje o planach grupy G7.\n�� Grupa G7 będzie prowadziła rozmowy o uwolnieniu rezerw.\n• Uwolnienie rezerw może spowodować ustabilizowanie cen ropy.",
+      "originalTitle": "Zawirowanie na rynku ropy. \"Pętla na szyi gospodarki\" i spotkanie w celu \"uwolnienia rezerw\"",
+      "originalDescription": "Ceny ropy w poniedziałek zbliżają się do 100 dolarów za baryłkę, z powodu blokady cieśniny Ormuz. Jak przekazał dziennikarz TVN24 Sebastian Napieraj, grupa G7 będzie prowadziła rozmowy o uwolnieniu rezerw, co \"może spowodować ustabilizowanie cen\"."
+    }
+  ]
 }
