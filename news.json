@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-10T06:18:18.453Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-10T06:48:03.214Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek drogowy pod Warszawą, kierowca pod wpływem alkoholu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/raszyn-zderzenie-dwoch-pojazdow-jeden-z-kierowcow-pijany-st8939680?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 06:38:33 GMT",
+      "description": "• W poniedziałek wieczorem doszło do zderzenia dwóch samochodów osobowych.\n• Zderzenie miało miejsce w podwarszawskim Raszynie.",
+      "originalTitle": "Zderzenie pod Warszawą, jeden z kierowców prowadził po alkoholu",
+      "originalDescription": "W poniedziałek wieczorem w podwarszawskim Raszynie zderzyły się ze sobą dwa samochody osobowe."
+    },
+    {
+      "title": "Reakcja Wall Street na wypowiedź Trumpa",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-odbicie-na-wall-street-inwestorzy-reaguja-na-slowa-donalda-trumpa-st8939671?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 06:16:57 GMT",
+      "description": "• Poniedziałkowa sesja na Wall Street rozpoczęła się od spadków.\n• Sesja zakończyła się wyraźną przewagą wzrostów głównych indeksów.\n• Optymizm inwestorów przywróciły wypowiedzi Donalda Trumpa.\n�� Donald Trump określił konflikt z Iranem jako \"krótkoterminową wycieczkę\".\n• Konflikt z Iranem może wkrótce dobiec końca, według słów Donalda Trumpa.\n• Słowa prezydenta USA poprawiły nastroje rynkowe.\n• Wypowiedzi Donalda Trumpa wsparły odbicie cen ropy.",
+      "originalTitle": "\"Wyruszyliśmy na małą wycieczkę\". Wall Street reaguje na słowa Trumpa",
+      "originalDescription": "Poniedziałkowa sesja na Wall Street rozpoczęła się od spadków, ale zakończyła wyraźną przewagą wzrostów głównych indeksów. Optymizm inwestorów przywróciły wypowiedzi Donalda Trumpa, który określił konflikt z Iranem jako \"krótkoterminową wycieczkę\", mogącą wkrótce dobiec końca. Słowa prezydenta USA poprawiły nastroje rynkowe i wsparły odbicie cen ropy."
+    },
+    {
+      "title": "Trzęsienie ziemi u wybrzeży Włoch -> Trzęsienie ziemi we Włoszech",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-we-wloszech-silny-wstrzas-u-wybrzezy-neapolu-st8939665?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 06:07:14 GMT",
+      "description": "Trzęsienie ziemi o magnitudzie 5,9 wystąpiło w nocy z poniedziałku na wtorek u wybrzeży Włoch. Do wstrząsu doszło na Morzu Tyrreńskim, niedaleko Neapolu. Jak podały lokalne media, zdarzenie było odczuwalne w kilku regionach Włoch.",
+      "originalTitle": "Trzęsienie ziemi u wybrzeży Włoch",
+      "originalDescription": "Trzęsienie ziemi o magnitudzie 5,9 wystąpiło w nocy z poniedziałku na wtorek u wybrzeży Włoch. Do wstrząsu doszło na Morzu Tyrreńskim, niedaleko Neapolu. Jak podały lokalne media, zdarzenie było odczuwalne w kilku regionach Włoch."
+    },
+    {
+      "title": "Mężczyzna usłyszał 25 zarzutów",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-zamawial-jedzenie-i-nie-placil-uslyszal-25-zarzutow-st8938957?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 05:49:58 GMT",
+      "description": "• Policja z Woli zatrzymała mężczyznę podejrzanego o oszustwa.\n• Mężczyzna ma 39 lat.\n• Zamawiał on posiłki w restauracjach na różne kwoty.\n• Po zjedzeniu posiłku prosił o dopisanie ich na rachunek pokoju hotelowego.\n• Twierdził, że jego ojciec mieszka w tym hotelu.\n• Podejrzany usłyszał łącznie 25 zarzutów.",
+      "originalTitle": "Zamawiał, jadł i nie płacił. Usłyszał 25 zarzutów",
+      "originalDescription": "Policja z Woli zatrzymała mężczyznę podejrzanego o oszustwa. 39-latek zamawiał w restauracjach posiłki na różne kwoty, a po zjedzeniu prosił o dopisanie ich na rachunek pokoju hotelowego, w którym rzekomo mieszkał jego ojciec. Podejrzany usłyszał łącznie 25 zarzutów."
+    },
+    {
+      "title": "Mężczyzna poinformował policję o spożyciu piwa",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-kierowca-tlumaczyl-policjantom-ze-wypil-tylko-piec-piwek-st8939219?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 05:46:48 GMT",
+      "description": "Policjanci w Piasecznie w ramach akcji \"trzeźwy poranek\" przeprowadzili 1439 kontroli. Siedem nietrzeźwych osób zostało ukaranych wysokimi mandatami. Jeden z kierowców tłumaczył policjantom, że \"wypił tylko pięć piwek\".",
+      "originalTitle": "Tłumaczył policjantom, że \"wypił tylko pięć piwek\"",
+      "originalDescription": "Policjanci w Piasecznie w ramach akcji \"trzeźwy poranek\" przeprowadzili 1439 kontroli. Siedem nietrzeźwych osób zostało ukaranych wysokimi mandatami. Jeden z kierowców tłumaczył policjantom, że \"wypił tylko pięć piwek\"."
+    },
+    {
+      "title": "Trump zapowiada ataki na irańskie elektrownie",
+      "link": "https://tvn24.pl/swiat/donald-trump-zagrozil-atakami-na-iranskie-elektrownie-w-razie-blokady-ciesniny-ormuz-st8939652?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 05:39:36 GMT",
+      "description": "USA mogą wkrótce zaatakować irańskie elektrownie, jeśli Iran będzie atakować statki przepływające przez cieśninę Ormuz - zagroził Donald Trump. Amerykański przywódca zapewnił też, że wojna \"wkrótce się skończy, ale jeszcze nie w tym tygodniu\". Odniósł się również do sprawy ataku na szkołę w Teheranie.",
+      "originalTitle": "Trump grozi atakami na irańskie elektrownie",
+      "originalDescription": "USA mogą wkrótce zaatakować irańskie elektrownie, jeśli Iran będzie atakować statki przepływające przez cieśninę Ormuz - zagroził Donald Trump. Amerykański przywódca zapewnił też, że wojna \"wkrótce się skończy, ale jeszcze nie w tym tygodniu\". Odniósł się również do sprawy ataku na szkołę w Teheranie."
+    },
+    {
+      "title": "Rozdźwięk między USA a Izraelem",
+      "link": "https://tvn24.pl/swiat/axios-pierwszy-rozdzwiek-miedzy-usa-a-izraelem-w-czasie-wojny-z-iranem-st8939612?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 05:12:52 GMT",
+      "description": "• Amerykański portal Axios przekazał informację o izraelskich nalotach.\n• Naloty były skierowane na irańskie magazyny paliw.\n• Ataki miały miejsce w sobotę.\n• Naloty wywołały \"pierwszy poważny rozdźwi��k\" między Izraelem a USA w trakcie wojny z Iranem.\n• Ataki były większe, niż spodziewał się tego Waszyngton.",
+      "originalTitle": "\"To nie był dobry pomysł\". \"Pierwszy poważny rozdźwięk\" między USA a Izraelem",
+      "originalDescription": "Amerykański portal Axios przekazał, że intensywne izraelskie naloty na irańskie magazyny paliw w sobotę wywołały \"pierwszy poważny rozdźwięk\" między Izraelem a USA w trakcie wojny z Iranem. Ataki były większe, niż spodziewał się tego Waszyngton - zaznaczył serwis."
+    },
+    {
+      "title": "Rosja zwiększa użycie rakiet balistycznych",
+      "link": "https://tvn24.pl/swiat/sily-powietrzne-ukrainy-rosja-zwiekszyla-liczbe-stosowanych-pociskow-balistycznych-st8939617?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 04:55:27 GMT",
+      "description": "• Rzecznik Sił Powietrznych Ukrainy to pułkownik Jurij Ihnat.\n• Pułkownik Jurij Ihnat poinformował o zwiększeniu liczby pocisków balistycznych stosowanych przez rosyjską armię do ataków na Ukrainę.\n• Rosyjska armia zwiększyła liczbę pocisków balistycznych stosowanych do ataków na Ukrainę.\n• W okresie zimowym odnotowano kilkanaście zmasowanych ataków.",
+      "originalTitle": "Siły powietrzne Ukrainy: Rosja użyła więcej rakiet balistycznych",
+      "originalDescription": "Rzecznik Sił Powietrznych Ukrainy pułkownik Jurij Ihnat poinformował, że rosyjska armia zwiększyła liczbę pocisków balistycznych stosowanych do ataków na Ukrainę. W okresie zimowym odnotowano kilkanaście zmasowanych ataków."
+    },
+    {
+      "title": "Dlaczego spadły tam irańskie drony? \"Otwarcie wrót do nowej rzeczywistości geopolitycznej\"",
+      "link": "https://tvn24.pl/swiat/atak-iranskich-dronow-na-lotnisko-w-azerbejdzanie-dlaczego-iran-tam-zaatakowal-st8933850?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 04:42:38 GMT",
+      "description": "Ilham Alijew, prezydent graniczącego z Iranem Azerbejdżanu, złożył kondolencje po śmierci zabitego w amerykańsko-izraelskim ataku ajatollaha Alego Chameneiego. Następnego dnia w kierunku jego kraju poleciały irańskie drony. Co się za tym kryje? I czym może grozić?",
+      "originalTitle": "Dlaczego spadły tam irańskie drony? \"Otwarcie wrót do nowej rzeczywistości geopolitycznej\"",
+      "originalDescription": "Ilham Alijew, prezydent graniczącego z Iranem Azerbejdżanu, złożył kondolencje po śmierci zabitego w amerykańsko-izraelskim ataku ajatollaha Alego Chameneiego. Następnego dnia w kierunku jego kraju poleciały irańskie drony. Co się za tym kryje? I czym może grozić?"
+    },
+    {
+      "title": "Trump: jeśli Iran będzie blokował cieśninę Ormuz, uderzymy 20 razy mocniej",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-10-marca-najnowsze-informacje-st8939656?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 04:26:59 GMT",
+      "description": "Donald Trump zapowiedział, że uderzenie USA na Iran będzie \"dwadzieścia razy mocniejsze\" niż dotychczas, jeśli Teheran będzie blokował transporty ropy naftowej i gazu ziemnego przez cieśninę Ormuz. Irański Korpus Strażników Rewolucji Islamskiej poinformował, że każdy kraj arabski lub europejski, który wydali ambasadorów Izraela i Stanów Zjednoczonych, otrzyma nieograniczony dostęp do cieśniny Ormuz. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Trump: jeśli Iran będzie blokował cieśninę Ormuz, uderzymy 20 razy mocniej",
+      "originalDescription": "Donald Trump zapowiedział, że uderzenie USA na Iran będzie \"dwadzieścia razy mocniejsze\" niż dotychczas, jeśli Teheran będzie blokował transporty ropy naftowej i gazu ziemnego przez cieśninę Ormuz. Irański Korpus Strażników Rewolucji Islamskiej poinformował, że każdy kraj arabski lub europejski, który wydali ambasadorów Izraela i Stanów Zjednoczonych, otrzyma nieograniczony dostęp do cieśniny Ormuz. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl."
+    }
+  ]
 }
