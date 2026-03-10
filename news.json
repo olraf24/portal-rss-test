@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-10T22:08:04.394Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-10T22:43:54.666Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wzrost ofiar śmiertelnych w wypadkach lotniczych",
+      "link": "https://tvn24.pl/biznes/ze-swiata/afryka-kontynentem-z-najwieksza-liczba-wypadkow-lotniczych-przybylo-ofiar-smiertelnych-st8941676?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 21:15:43 GMT",
+      "description": "• Afryka w 2025 roku po raz kolejny była regionem, w którym odnotowano największą liczbę wypadków lotniczych na świecie.\n• Zaobserwowano gwałtowny wzrost liczby wypadków śmiertelnych.\n• Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA) ostrzegło o tym w swoim najnowszym raporcie.",
+      "originalTitle": "Region z największą liczbą wypadków lotniczych. Przybyło ofiar śmiertelnych",
+      "originalDescription": "Afryka w 2025 roku po raz kolejny była regionem, w którym odnotowano największą liczbę wypadków lotniczych na świecie. Ponadto zaobserwowano gwałtowny wzrost liczby wypadków śmiertelnych - ostrzegło w swoim najnowszym raporcie Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA)."
+    },
+    {
+      "title": "Koszty wojny na Bliskim Wschodzie podsumowane",
+      "link": "https://tvn24.pl/swiat/gigantyczny-koszt-wojny-na-bliskim-wschodzie-podliczyli-st8941507?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:53:43 GMT",
+      "description": "• USA zużyły amunicję za ponad pięć miliardów dolarów w ciągu dwóch pierwszych dni ataku na Iran.\n• Informację tę przekazał \"Washington Post\".\n• Dane te zostały podane we wtorek.",
+      "originalTitle": "Gigantyczny koszt wojny na Bliskim Wschodzie. Podliczyli",
+      "originalDescription": "USA w ciągu dwóch pierwszych dni ataku na Iran zużyły amunicję za ponad pięć miliardów dolarów - przekazał \"Washington Post\" we wtorek."
+    },
+    {
+      "title": "Intraco pod kontrolą konserwatora",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-intraco-zburza-czy-zachowaja-st8941523?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:45:06 GMT",
+      "description": "• Mazowiecki konserwator zabytków analizuje możliwość objęcia Intraco konserwatorską ochroną.\n• Zebrał dokumentację.\n• Właściciel wieżowca planuje go wyburzyć.\n• W miejsce starego wieżowca właściciel planuje postawić nowy.",
+      "originalTitle": "Właściciel chce go zburzyć, obrońcy zabytków ocalić. Intraco pod lupą konserwatora",
+      "originalDescription": "Mazowiecki konserwator zabytków analizuje możliwość objęcia Intraco konserwatorską ochroną. Na razie zebrał dokumentację. Właściciel wieżowca planuje go wyburzyć, a w jego miejsce postawić nowy."
+    },
+    {
+      "title": "Orlen: zatrzymanie dostaw z Kataru nie wpłynie na bezpieczeństwo",
+      "link": "https://tvn24.pl/biznes/z-kraju/wiceprezes-orlen-o-dostawach-gazu-z-kataru-polska-jest-bezpieczna-st8941641?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:43:02 GMT",
+      "description": "• Z Kataru pochodzi mniej niż 15 procent gazu, który zużywa Polska.\n• Chwilowe zatrzymanie dostaw z Kataru pozostaje bez wpływu na nasze bezpieczeństwo energetyczne.\n• Wiceprezes Orlenu Robert Soszyński przekazał te informacje we wtorek.\n• Klienci taryfowi w krótkim okresie nie odczują wzrostu cen.\n• Klienci taryfowi w średnim okresie nie odczują wzrostu cen.",
+      "originalTitle": "Wiceszef Orlenu: zatrzymanie dostaw z Kataru bez wpływu na bezpieczeństwo Polski",
+      "originalDescription": "Z Kataru pochodzi mniej niż 15 procent gazu, który zużywa Polska, a chwilowe zatrzymanie dostaw z tego kraju pozostaje bez wpływu na nasze bezpieczeństwo energetyczne - przekazał we wtorek wiceprezes Orlenu Robert Soszyński. Zapewnił, że klienci taryfowi w krótkim i średnim okresie nie odczują wzrostu cen."
+    },
+    {
+      "title": "Finansowanie prezydenckiego projektu",
+      "link": "https://tvn24.pl/polska/prezydencki-projekt-w-sprawie-safe-zero-procent-boguslaw-grabowski-o-kwestii-finansowania-st8941634?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:26:02 GMT",
+      "description": "• Unijny program SAFE to konkretny program i pieniądze\n• SAFE zero procent to SAFE zero złotych\n• Bogusław Grabowski ocenił program SAFE jako \"cyrk\"\n• Bogusław Grabowski jest byłym członkiem Rady Polityki Pieniężnej\n• Wypowiedź Bogusława Grabowskiego miała miejsce w programie \"Kropka nad i",
+      "originalTitle": "\"Cyrk i ogłupianie społeczeństwa\". Skąd pieniądze na prezydencki projekt?",
+      "originalDescription": "Unijny program SAFE to konkretny program i pieniądze, a tak zwany SAFE zero procent to SAFE zero złotych. To jest cyrk - ocenił w \"Kropce nad i\" Bogusław Grabowski, były członek Rady Polityki Pieniężnej."
+    },
+    {
+      "title": "Stany Zjednoczone ostrzegają w związku z minami w cieśninie Ormuz",
+      "link": "https://tvn24.pl/swiat/miny-w-ciesninie-ormuz-donald-trump-grozi-konsekwencjami-na-niespotykanym-dotad-poziomie-st8941658?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:18:47 GMT",
+      "description": "Donald Trump zagroził, że jeżeli cieśnina Ormuz została zaminowana, Iran poniesie \"konsekwencje militarne na niespotykanym dotąd poziomie\". O takim działaniu Teheranu doniosły we wtorek amerykańskie media.",
+      "originalTitle": "Miny w cieśninie Ormuz? Trump grozi konsekwencjami \"na niespotykanym dotąd poziomie\"",
+      "originalDescription": "Donald Trump zagroził, że jeżeli cieśnina Ormuz została zaminowana, Iran poniesie \"konsekwencje militarne na niespotykanym dotąd poziomie\". O takim działaniu Teheranu doniosły we wtorek amerykańskie media."
+    },
+    {
+      "title": "Rafineria zamknięta",
+      "link": "https://tvn24.pl/biznes/ze-swiata/media-atak-na-jedna-z-najwiekszych-rafinerii-swiata-zaklad-w-zjednoczonych-emiratach-arabskich-zamkniety-st8941590?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:11:23 GMT",
+      "description": "• Rafineria naftowa Ruwais znajduje się w Zjednoczonych Emiratach Arabskich.\n• Rafineria zawiesiła produkcję we wtorek.\n• Przyczyną zawieszenia produkcji był atak drona.\n• Atak drona miał miejsce w pobliżu zakładu.\n• Informację o zawieszeniu produkcji podała agencja AFP.",
+      "originalTitle": "Jedna z największych rafinerii świata zamknięta",
+      "originalDescription": "Rafineria naftowa Ruwais w Zjednoczonych Emiratach Arabskich zawiesiła we wtorek produkcję z powodu ataku drona w pobliżu zakładu - poinformowała agencja AFP."
+    },
+    {
+      "title": "Prezydent Bydgoszczy komentuje projekt Nawrockiego",
+      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-bydgoszczy-o-safe-zero-procent-nie-ma-zadnej-kwoty-st8941491?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:10:47 GMT",
+      "description": "• Program SAFE ma znaczenie na poziomie lokalnym.\n• Program \"Tak jest\" w TVN24 omawiał znaczenie programu SAFE na poziomie lokalnym.\n• W programie \"Tak jest\" w TVN24 udział wzięli prezydent Bydgoszczy Rafał Bruski i burmistrz Jelcza-Laskowic Piotr Stajszczyk.\n• Prezydent Bydgoszczy to Rafał Bruski.\n• Burmistrz Jelcza-Laskowic to Piotr Stajszczyk.\n• W Bydgoszczy znajduje się zakład produkcji uzbrojenia.\n• W Jelczu-Laskowicach znajduje się zakład produkcji uzbrojenia.",
+      "originalTitle": "Prezydent Bydgoszczy o projekcie Nawrockiego: szukałem, nie ma żadnej kwoty",
+      "originalDescription": "Jakie znaczenie ma program SAFE na poziomie lokalnym? W programie \"Tak jest\" w TVN24 komentowali to prezydent Bydgoszczy Rafał Bruski i burmistrz Jelcza-Laskowic Piotr Stajszczyk. W ich miastach znajdują się zakłady produkcji uzbrojenia."
+    },
+    {
+      "title": "Nagrody Ig Noble przyznane poza USA",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/ig-noble-po-raz-pierwszy-nie-zostana-rozdane-w-usa-st8941620?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:03:28 GMT",
+      "description": "• Po raz pierwszy w historii ceremonia wręczenia Ig Nobli nie zostanie zorganizowana w Stanach Zjednoczonych.\n• Ceremonia ta była wręczana między innymi na Uniwersytecie Harvarda.\n• Ceremonia Ig Nobli odbywała się w Stanach Zjednoczonych od 1991 roku.\n• Zmiana miejsca ceremonii jest spowodowana zaostrzeniem polityki migracyjnej USA.",
+      "originalTitle": "Ig Noble po raz pierwszy nie zostaną rozdane w USA",
+      "originalDescription": "Po raz pierwszy w historii ceremonia wręczenia Ig Nobli nie zostanie zorganizowana w Stanach Zjednoczonych. Od 1991 roku ta humorystyczna nagroda była wręczana między innymi na Uniwersytecie Harvarda. Bezprecedensowa zmiana jest spowodowana zaostrzeniem polityki migracyjnej USA."
+    },
+    {
+      "title": "Utrudnienia w metrze na linii pierwszej",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-utrudnienia-na-pierwszej-linii-metra-st8941614?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 19:40:28 GMT",
+      "description": "• Utrudnienia występują na pierwszej linii metra.\n• Wyłączonych z ruchu jest sześć stacji.\n• Pociągi kursują w dwóch pętlach.\n• Jedna pętla znajduje się między stacjami Kabaty – Stokłosy.\n• Druga pętla znajduje się między stacjami Politechnika – Młociny.",
+      "originalTitle": "Tragiczny wypadek w metrze. Utrudnienia na pierwszej linii",
+      "originalDescription": "Utrudnienia na pierwszej linii metra. Wyłączonych z ruchu jest sześć stacji. Pociągi kursują w dwóch pętlach: Kabaty – Stokłosy oraz Politechnika – Młociny."
+    }
+  ]
 }
