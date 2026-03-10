@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-10T08:14:30.358Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-10T08:47:15.858Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek samochodu z pociągiem, 5 poszkodowanych",
+      "link": "https://tvn24.pl/lublin/lubycza-krolewska-auto-wjechalo-pod-pociag-poszkodowanych-piec-osob-st8939860?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 08:28:03 GMT",
+      "description": "Na niestrzeżonym przejeździe kolejowym w Lubyczy Królewskiej (Lubelskie) samochód osobowy wjechał pod pociąg. Autem podróżowało pięć osób. Wszyscy zdołali o własnych siłach opuścić pojazd. Na miejsce wysłano śmigłowce LPR.",
+      "originalTitle": "Auto wjechało pod pociąg. Poszkodowanych pięć osób",
+      "originalDescription": "Na niestrzeżonym przejeździe kolejowym w Lubyczy Królewskiej (Lubelskie) samochód osobowy wjechał pod pociąg. Autem podróżowało pięć osób. Wszyscy zdołali o własnych siłach opuścić pojazd. Na miejsce wysłano śmigłowce LPR."
+    },
+    {
+      "title": "Koalicja przedstawia kandydatów do Trybunału",
+      "link": "https://tvn24.pl/polska/koalicja-przyspiesza-w-sprawie-trybunalu-konstytucyjnego-ujawniamy-kto-ma-kandydowac-st8939664?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 08:02:30 GMT",
+      "description": "Sejm w piątek wybierze sześcioro sędziów Trybunału Konstytucyjnego. Wcześniej posłowie rządzącej większości zamierzają przyjąć uchwałę \"w sprawie działań niezbędnych do spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego\". W programie \"News Michalskiego\" w TVN24+ autor programu ujawnił listę pięciu najbardziej prawdopodobnych kandydatów. Politycy PiS chcą zablokowania wyborów.",
+      "originalTitle": "Koalicja przyspiesza w sprawie Trybunału Konstytucyjnego. Ujawniamy, kto ma kandydować",
+      "originalDescription": "Sejm w piątek wybierze sześcioro sędziów Trybunału Konstytucyjnego. Wcześniej posłowie rządzącej większości zamierzają przyjąć uchwałę \"w sprawie działań niezbędnych do spełniania przez Trybunał Konstytucyjny wymogów sądu ustanowionego na mocy prawa, niezawisłego i bezstronnego\". W programie \"News Michalskiego\" w TVN24+ autor programu ujawnił listę pięciu najbardziej prawdopodobnych kandydatów. Politycy PiS chcą zablokowania wyborów."
+    },
+    {
+      "title": "Zmarł Alexander Butterfield, świadek afery Watergate",
+      "link": "https://tvn24.pl/swiat/alexander-butterfield-nie-zyje-kluczowy-swiadek-afery-watergate-mial-99-lat-st8939741?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 08:00:47 GMT",
+      "description": "Nie żyje Alexander Butterfield, były doradca prezydenta Richarda Nixona. Jego zeznania zmieniły bieg śledztwa w sprawie afery Watergate. Miał 99 lat.",
+      "originalTitle": "Zmarł Alexander Butterfield, kluczowy świadek afery Watergate",
+      "originalDescription": "Nie żyje Alexander Butterfield, były doradca prezydenta Richarda Nixona. Jego zeznania zmieniły bieg śledztwa w sprawie afery Watergate. Miał 99 lat."
+    },
+    {
+      "title": "Dwa osoby w pojeździe w bagnie",
+      "link": "https://tvn24.pl/lublin/garbatowka-auto-w-bagnie-w-srodku-dwie-osoby-zadna-nie-przyznala-sie-do-kierowania-st8939789?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 07:52:13 GMT",
+      "description": "Do bagna w miejscowości Garbatówka (Lubelskie) wjechało auto. W środku znajdowały się dwie osoby. 45-latkę wyciągnęli strażacy. Podróżowała razem z 46-latkiem. Oboje byli pijani i oboje nie chcieli przyznać się, kto siedział za kierownicą. Ustalili to policjanci.",
+      "originalTitle": "Auto w bagnie, w środku dwie osoby. Żadna nie przyznała się do kierowania",
+      "originalDescription": "Do bagna w miejscowości Garbatówka (Lubelskie) wjechało auto. W środku znajdowały się dwie osoby. 45-latkę wyciągnęli strażacy. Podróżowała razem z 46-latkiem. Oboje byli pijani i oboje nie chcieli przyznać się, kto siedział za kierownicą. Ustalili to policjanci."
+    },
+    {
+      "title": "Prognoza pogody na wiosnę 2026",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-kwiecien-maj-czerwiec-lipiec-prognoza-dlugoterminowa-imgw-na-wiosne-i-poczatek-lata-2026-st8939732?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 07:51:53 GMT",
+      "description": "• IMGW opublikował eksperymentalną prognozę pogody.\n• Prognoza dotyczy kwietnia.\n• Prognoza dotyczy maja.\n• Prognoza dotyczy czerwca.\n• Prognoza dotyczy lipca.\n• Prognoza ma pomóc w sprawdzeniu, co może przynieść wiosna i początek lata 2026. \n• Rok, na który dotyczy prognoza to 2026.",
+      "originalTitle": "Pogoda. Prognoza długoterminowa na wiosnę i początek lata 2026",
+      "originalDescription": "Pogoda w Polsce. IMGW opublikował eksperymentalną prognozę pogody na kwiecień, maj, czerwiec i lipiec. Sprawdź, co może przynieść nam wiosna i początek lata 2026."
+    },
+    {
+      "title": "Ceny ropy spadają po wypowiedzi Trumpa",
+      "link": "https://tvn24.pl/biznes/rynki/duza-zmiana-w-cenach-ropy-inwestorzy-reaguja-na-slowa-donalda-trumpa-st8939764?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 07:49:48 GMT",
+      "description": "• We wtorek ceny ropy naftowej wyraźnie spadają \n• Spadek cen ropy naftowej nastąpił po wypowiedzi prezydenta Stanów Zjednoczonych \n• Prezydentem Stanów Zjednoczonych jest Donald Trump \n• Donald Trump zasugerował możliwość szybkiego zakończenia konfliktu z Iranem \n• Informacje o spadku cen ropy naftowej przekazują maklerzy",
+      "originalTitle": "Duża zmiana w cenach ropy. Inwestorzy reagują na słowa Trumpa",
+      "originalDescription": "We wtorek ceny ropy naftowej wyraźnie spadają po wypowiedzi prezydenta Stanów Zjednoczonych Donalda Trumpa, który zasugerował możliwość szybkiego zakończenia konfliktu z Iranem - informują maklerzy."
+    },
+    {
+      "title": "13-latka świętowała Dzień Kobiet. \"Z objawami silnego zatrucia alkoholowego trafiła do szpitala\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-swietowala-dzien-kobiet-13-latka-zatrula-sie-alkoholem-st8939522?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 07:41:41 GMT",
+      "description": "O nieprzytomnym dziecku leżącym na ławce służby zaalarmowali przechodnie. Dzień Kobiet dziewczynka świętowała, pijąc w parku alkohol. 13-latka z objawami silnego zatrucia alkoholowego trafiła do szpitala dziecięcego - podają strażnicy.",
+      "originalTitle": "13-latka świętowała Dzień Kobiet. \"Z objawami silnego zatrucia alkoholowego trafiła do szpitala\"",
+      "originalDescription": "O nieprzytomnym dziecku leżącym na ławce służby zaalarmowali przechodnie. Dzień Kobiet dziewczynka świętowała, pijąc w parku alkohol. 13-latka z objawami silnego zatrucia alkoholowego trafiła do szpitala dziecięcego - podają strażnicy."
+    },
+    {
+      "title": "Pobił i zabił z zazdrości. Usłyszał wyrok",
+      "link": "https://tvn24.pl/szczecin/szczecin-pobicie-i-zabojstwo-w-hotelu-robotniczym-sad-wydal-wyrok-st8939787?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 07:37:22 GMT",
+      "description": "Oskar A. w sierpniu 2024 roku pobił w hotelu robotniczym swoją partnerkę i towarzyszącego jej mężczyznę, który w wyniku odniesionych obrażeń zmarł. Został skazany za zabójstwo, usłyszał wyrok 25 lat pozbawienia wolności.",
+      "originalTitle": "Pobił i zabił z zazdrości. Usłyszał wyrok",
+      "originalDescription": "Oskar A. w sierpniu 2024 roku pobił w hotelu robotniczym swoją partnerkę i towarzyszącego jej mężczyznę, który w wyniku odniesionych obrażeń zmarł. Został skazany za zabójstwo, usłyszał wyrok 25 lat pozbawienia wolności."
+    },
+    {
+      "title": "Kolejne ataki na Teheran",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-10-marca-najnowsze-informacje-st8939656?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 04:26:59 GMT",
+      "description": "W Teheranie słychać kolejne eksplozje. Jak donoszą media, to kontynuacja amerykańsko-izraelskich ataków. Władze stolicy Iranu ostrzegły mieszkańców przed niebezpiecznym stężeniem trujących gazów unoszących się nad miastem po uderzeniach w magazyny ropy naftowej. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Kolejne ataki na Teheran",
+      "originalDescription": "W Teheranie słychać kolejne eksplozje. Jak donoszą media, to kontynuacja amerykańsko-izraelskich ataków. Władze stolicy Iranu ostrzegły mieszkańców przed niebezpiecznym stężeniem trujących gazów unoszących się nad miastem po uderzeniach w magazyny ropy naftowej. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Toksyczne substancje nad Teheranem. Apel władz",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/iran-i-wojna-na-bliskim-wschodzie-toksyczne-substancje-nad-teheranem-apel-wladz-st8939739?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 07:13:29 GMT",
+      "description": "Władze Teheranu ostrzegły mieszkańców przed wysokim stężeniem toksycznych substancji w powietrzu. Do skażenia doszło po nalotach na irańskie rafinerie i magazyny ropy naftowej.",
+      "originalTitle": "Toksyczne substancje nad Teheranem. Apel władz",
+      "originalDescription": "Władze Teheranu ostrzegły mieszkańców przed wysokim stężeniem toksycznych substancji w powietrzu. Do skażenia doszło po nalotach na irańskie rafinerie i magazyny ropy naftowej."
+    }
+  ]
 }
