@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-11T05:47:12.376Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-11T06:20:48.820Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Incydent na granicy Ukraina-Węgry",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-wegry-dopuscily-sie-aktu-bandytyzmu-st8941709?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 05:37:20 GMT",
+      "description": "• Prezydent Ukrainy Wołodymyr Zełenski nazwał zatrzymanie przez Węgry konwoju ukraińskiego banku państwowego z transportem pieniędzy i złota \"bandytyzmem\".\n• Szef ukraińskiego resortu dyplomacji to Andrij Sybiha.\n• Andrij Sybiha nazwał działania Budapesztu \"częścią szantażu i kampanii wyborczej na Węgrzech\".\n• Zatrzymany konwój należał do ukraińskiego banku państwowego.\n• Konwój transportował pieniądze i złoto.\n• Zatrzymanie konwoju nastąpiło na Węgrzech.\n• Stolicą Węgier, gdzie doszło do zatrzymania, jest Budapeszt.",
+      "originalTitle": "\"Bandytyzm\". Wrze na linii Ukraina-Węgry",
+      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski nazwał zatrzymanie przez Węgry konwoju ukraińskiego banku państwowego z transportem pieniędzy i złota \"bandytyzmem\". Wcześniej szef ukraińskiego resortu dyplomacji Andrij Sybiha nazwał działania Budapesztu \"częścią szantażu i kampanii wyborczej na Węgrzech\"."
+    },
+    {
+      "title": "Dostęp do internetu w Iranie ograniczony",
+      "link": "https://tvn24.pl/swiat/polaczenie-z-internetem-kosztuje-fortune-w-iranie-kwitnie-czarny-rynek-st8941712?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 05:20:47 GMT",
+      "description": "• Irańczycy są odcięci od dostępu do internetu od dwóch tygodni.\n• Z powodu braku dostępu do internetu, Irańczycy są zmuszeni do korzystania z nieoficjalnych usług, aby utrzymać kontakt z rodziną lub uzyskać dostęp do podstawowych informacji.\n• Koszt jednego gigabajta danych wynosi niemal sześć dolarów.\n• Aby skorzystać z lepszego połączenia, trzeba wykupić pakiet 10 gigabajtów.\n• Pakiet 10 gigabajtów kosztuje ponad 42 dolarów.",
+      "originalTitle": "Połączenie z internetem kosztuje fortunę. W Iranie kwitnie czarny rynek",
+      "originalDescription": "Irańczycy odcięci od dwóch tygodni od dostępu do internetu, aby utrzymać kontakt z rodziną lub uzyskać dostęp do podstawowych informacji, zostali zmuszeni do korzystania z nieoficjalnych i bardzo drogich usług. Za jeden gigabajt danych trzeba zapłacić niemal sześć dolarów, a aby skorzystać z lepszego połączenia, trzeba wykupić pakiet 10 gigabajtów za ponad 42 dolarów."
+    },
+    {
+      "title": "Zatrzymano 40 osób w ramach operacji Ośmiornica",
+      "link": "https://tvn24.pl/swiat/tajna-operacja-osmiornica-ponad-40-osob-zatrzymanych-st8941717?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 05:09:45 GMT",
+      "description": "• W wyniku wielkiej operacji policyjnej na południu Francji zatrzymano 42 osoby.\n• Osoby te są podejrzane o przynależność do organizacji przestępczej Mafia DZ.\n• Zatrzymania miały miejsce na południu Francji.\n• O zatrzymaniach poinformowała prokuratura w Marsylii.\n• Zatrzymani mieli zostać także domniemani liderzy grupy Mafia DZ.\n• Agencja AFP potwierdziła informację o zatrzymaniach.",
+      "originalTitle": "Tajna operacja \"Ośmiornica\". Ponad 40 osób zatrzymanych",
+      "originalDescription": "W wyniku wielkiej operacji policyjnej na południu Francji zatrzymano 42 osoby, które podejrzane są o przynależność do organizacji przestępczej Mafia DZ - poinformowała prokuratura w Marsylii. Jak zaznaczyła agencja AFP, zatrzymani mieli zostać także domniemani liderzy tej grupy."
+    },
+    {
+      "title": "Stanowisko Mateusz Morawiecki w rządzie",
+      "link": "https://tvn24.pl/polska/czy-mateusz-morawiecki-chcialby-byc-wicepremierem-w-rzadzie-przemyslawa-czarnka-krotka-odpowiedz-st8941707?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 04:59:22 GMT",
+      "description": "• Prezes Prawa i Sprawiedliwości to Jarosław Kaczyński.\n• Jarosław Kaczyński wskazał Przemysława Czarnka jako kandydata na urząd premiera.\n• Kandydatem na urząd premiera wskazanym przez Jarosława Kaczyńskiego jest Przemysław Czarnek w przyszłych wyborach parlamentarnych.\n• W przyszłych wyborach parlamentarnych partia Prawa i Sprawiedliwości ma kandydata na urząd premiera.\n• Partią, która wskazała kandydata na urząd premiera, jest Prawo i Sprawiedliwość.\n• Osobą, której zadano pytanie o stanowisko wicepremiera, jest Mateusz Morawiecki.\n• Mateusz Morawiecki miałby być wicepremierem w rządzie, którego premierem miałby być Przemysław Czarnek.",
+      "originalTitle": "Czy Mateusz Morawiecki chciałby być wicepremierem w rządzie Przemysława Czarnka. Krótka odpowiedź",
+      "originalDescription": "Prezes Prawa i Sprawiedliwości Jarosław Kaczyński wskazał Przemysława Czarnka jako kandydata tej partii na urząd premiera w przyszłych wyborach parlamentarnych. Czy Mateusz Morawiecki chciałby być wicepremierem w jego rządzie?"
+    },
+    {
+      "title": "Irańskie piłkarki pozostają za granicą",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-11-marca-najnowsze-informacje-st8941719?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 04:32:09 GMT",
+      "description": "Reprezentacja Iranu w piłce nożnej kobiet odleciała z Australii po odpadnięciu z rozgrywanego tam Pucharu Azji. Na miejscu zostało jednak siedem członkiń ekipy, którym zaoferowano wizy humanitarne. Pentagon potwierdził wcześniejsze doniesienia Reutersa o około 140 żołnierzach, którzy zostali ranni w trakcie trwania działań zbrojnych przeciwko Iranowi. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Wojna na Bliskim Wschodzie. Irańskie piłkarki nie wrócą do kraju",
+      "originalDescription": "Reprezentacja Iranu w piłce nożnej kobiet odleciała z Australii po odpadnięciu z rozgrywanego tam Pucharu Azji. Na miejscu zostało jednak siedem członkiń ekipy, którym zaoferowano wizy humanitarne. Pentagon potwierdził wcześniejsze doniesienia Reutersa o około 140 żołnierzach, którzy zostali ranni w trakcie trwania działań zbrojnych przeciwko Iranowi. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Spotkanie z udziałem prezydenta i reakcja Trumpa",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-srode-11-marca-najwazniejsze-informacje-st8941718?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 04:19:51 GMT",
+      "description": "• Premier Donald Tusk rozmawiał z prezydentem Karolem Nawrockim o \"polskim SAFE zero procent\".\n• Do Sejmu trafił prezydencki projekt ustawy w tej sprawie.\n• Prezydent USA Donald Trump zagroził, że jego armia mo��e wkrótce zaatakować irańskie elektrownie.\n• W dniu 11 marca warto wiedzieć o pięciu ważnych rzeczach.",
+      "originalTitle": "Spotkanie u Nawrockiego, projekt prezydenta, groźby Trumpa",
+      "originalDescription": "Premier Donald Tusk rozmawiał z prezydentem Karolem Nawrockim o \"polskim SAFE zero procent\". Do Sejmu trafił prezydencki projekt ustawy w tej sprawie. Prezydent USA Donald Trump zagroził, że jego armia może wkrótce zaatakować irańskie elektrownie. Oto pięć rzeczy, które warto wiedzieć w środę 11 marca."
+    },
+    {
+      "title": "Pogoda na środę 11.03",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sroda-11-03-w-czesci-kraju-popada-st8941664?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 01:00:00 GMT",
+      "description": "Pogoda na dziś - środa, 11.03. Wielu z nas pogoda dopisze. Znajdą się jednak i tacy, którzy będą musieli mieć przy sobie parasole. Znów będzie bardzo ciepło.",
+      "originalTitle": "Pogoda na dziś - środa, 11.03. W części kraju popada",
+      "originalDescription": "Pogoda na dziś - środa, 11.03. Wielu z nas pogoda dopisze. Znajdą się jednak i tacy, którzy będą musieli mieć przy sobie parasole. Znów będzie bardzo ciepło."
+    },
+    {
+      "title": "Wzrost ofiar w wypadkach lotniczych",
+      "link": "https://tvn24.pl/biznes/ze-swiata/afryka-kontynentem-z-najwieksza-liczba-wypadkow-lotniczych-przybylo-ofiar-smiertelnych-st8941676?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 21:15:43 GMT",
+      "description": "• Afryka w 2025 roku była regionem, w którym odnotowano największą liczbę wypadków lotniczych na świecie.\n• Zaobserwowano gwałtowny wzrost liczby wypadków śmiertelnych.\n• Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA) ostrzegło o tym w swoim najnowszym raporcie.",
+      "originalTitle": "Region z największą liczbą wypadków lotniczych. Przybyło ofiar śmiertelnych",
+      "originalDescription": "Afryka w 2025 roku po raz kolejny była regionem, w którym odnotowano największą liczbę wypadków lotniczych na świecie. Ponadto zaobserwowano gwałtowny wzrost liczby wypadków śmiertelnych - ostrzegło w swoim najnowszym raporcie Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA)."
+    },
+    {
+      "title": "Koszty wojny na Bliskim Wschodzie podsumowane",
+      "link": "https://tvn24.pl/swiat/gigantyczny-koszt-wojny-na-bliskim-wschodzie-podliczyli-st8941507?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:53:43 GMT",
+      "description": "• USA zużyły amunicję za ponad pięć miliardów dolarów w ciągu dwóch pierwszych dni ataku na Iran.\n• Informację tę przekazał \"Washington Post\".\n• Dane te zostały podane we wtorek.",
+      "originalTitle": "Gigantyczny koszt wojny na Bliskim Wschodzie. Podliczyli",
+      "originalDescription": "USA w ciągu dwóch pierwszych dni ataku na Iran zużyły amunicję za ponad pięć miliardów dolarów - przekazał \"Washington Post\" we wtorek."
+    },
+    {
+      "title": "Intraco pod kontrolą konserwatora",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-intraco-zburza-czy-zachowaja-st8941523?source=rss",
+      "pubDate": "Tue, 10 Mar 2026 20:45:06 GMT",
+      "description": "• Mazowiecki konserwator zabytków analizuje możliwość objęcia Intraco konserwatorską ochroną.\n• Zebrał dokumentację.\n• Właściciel wieżowca planuje go wyburzyć.\n• W miejsce starego wieżowca właściciel planuje postawić nowy.",
+      "originalTitle": "Właściciel chce go zburzyć, obrońcy zabytków ocalić. Intraco pod lupą konserwatora",
+      "originalDescription": "Mazowiecki konserwator zabytków analizuje możliwość objęcia Intraco konserwatorską ochroną. Na razie zebrał dokumentację. Właściciel wieżowca planuje go wyburzyć, a w jego miejsce postawić nowy."
+    }
+  ]
 }
