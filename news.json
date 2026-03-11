@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-11T09:17:32.571Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-11T09:47:27.678Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Sejm rekomenduje 6 kandydatów do Trybunału Konstytucyjnego",
+      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-prezydium-sejmu-rekomendowalo-szesc-osob-do-trybunalu-konstytucyjnego-st8942052?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 09:40:37 GMT",
+      "description": "• Marszałek Sejmu Włodzimierz Czarzasty przekazał, że w piątek Sejm wybierze sędziów Trybunału Konstytucyjnego.\n• Wskazał nazwiska sześciu osób rekomendowanych przez prezydium Sejmu.\n• Potwierdzają się informacje Patryka Michalskiego, autora programu \"News Michalskiego\" w TVN24+.\n• Informacje dotyczą nazwisk pięciorga kandydatów.\n• Prezydium Sejmu rekomendowało sześciu kandydatów.\n• Wybór sędziów Trybunału Konstytucyjnego odbędzie się w piątek.",
+      "originalTitle": "Czarzasty: prezydium Sejmu rekomendowało sześć osób do Trybunału Konstytucyjnego",
+      "originalDescription": "Marszałek Sejmu Włodzimierz Czarzasty przekazał, że w piątek Sejm wybierze sędziów Trybunału Konstytucyjnego. Wskazał nazwiska sześciu osób rekomendowanych przez prezydium Sejmu. Potwierdzają się informacje Patryka Michalskiego, autora programu \"News Michalskiego\" w TVN24+, dotyczące nazwisk pięciorga kandydatów."
+    },
+    {
+      "title": "Trump komentuje umowę handlową USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-oglasza-budowe-nowej-rafinerii-w-teksasie-st8941813?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 09:34:14 GMT",
+      "description": "• Prezydent USA to Donald Trump.\n• Prezydent ogłosił, że w Stanach Zjednoczonych po raz pierwszy od 50 lat zostanie otwarta rafineria.\n• Projekt rafinerii powstanie w Teksasie.\n• Rafineria powstanie we współpracy z partnerami z Indii.",
+      "originalTitle": "Trump o \"historycznej transakcji\". \"Ameryka wraca do prawdziwej dominacji\"",
+      "originalDescription": "Prezydent USA Donald Trump ogłosił, że w Stanach Zjednoczonych po raz pierwszy od 50 lat zostanie otwarta rafineria. Przekazał, że projekt powstanie w Teksasie we współpracy z partnerami z Indii."
+    },
+    {
+      "title": "Szef Pentagonu komentuje sytuację z Iranem",
+      "link": "https://tvn24.pl/swiat/konflikt-na-bliskim-wschodzie-kiedy-skonczy-sie-wojna-z-iranem-szef-pentagonu-pete-hegseth-odpowiada-st8941846?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 09:05:11 GMT",
+      "description": "• Amerykańskim celem jest zniszczenie irańskiego arsenału rakietowego i zdolności do jego produkcji.\n• Amerykańskim celem jest zniszczenie marynarki wojennej Iranu.\n• Amerykańskim celem jest pozbawienie Iranu trwale, na zawsze, broni jądrowej.\n• Sekretarz obrony USA Pete Hegseth stwierdził cele Ameryki wobec Iranu we wtorek.\n• Sekretarz obrony USA Pete Hegseth odniósł się do kwestii terminu końca wojny.\n• Z Białego Domu płyną sprzeczne informacje.",
+      "originalTitle": "Kiedy skończy się wojna z Iranem? Szef Pentagonu odpowiada",
+      "originalDescription": "Amerykańskim celem jest zniszczenie irańskiego arsenału rakietowego i zdolności do jego produkcji, zniszczenie marynarki wojennej tego państwa i \"pozbawienie Iranu trwale, na zawsze, broni jądrowej\" - stwierdził we wtorek sekretarz obrony USA Pete Hegseth. Odniósł się też do kwestii terminu końca wojny. Z Białego Domu płyną sprzeczne informacje."
+    },
+    {
+      "title": "Badania na temat czynników wpływających na pamięć i alzheimer",
+      "link": "https://tvn24.pl/zdrowie/od-tego-psuje-sie-pamiec-zaskakujace-powiazanie-z-alzheimerem-st8941547?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 09:02:47 GMT",
+      "description": "• Stan dziąseł i zębów może mieć bezpośredni wpływ na sprawność naszego mózgu.\n• Stan dziąseł i zębów może mieć bezpośredni wpływ na ryzyko rozwoju chorób neurodegeneracyjnych.\n• Przeprowadzono najnowsze badania dotyczące związku między higieną jamy ustnej a chorobami neurodegeneracyjnymi.\n• W badaniach zaangażowani byli polscy badacze.\n• Badania wskazują na ścisłą korelację między higieną jamy ustnej a chorobą Alzheimera.",
+      "originalTitle": "Od tego psuje się pamięć. Zaskakujące powiązanie z alzheimerem",
+      "originalDescription": "Stan dziąseł i zębów może mieć bezpośredni wpływ na sprawność naszego mózgu oraz ryzyko rozwoju chorób neurodegeneracyjnych. Najnowsze badania, w które zaangażowani byli polscy badacze, wskazują na ścisłą korelację między higieną jamy ustnej a chorobą Alzheimera."
+    },
+    {
+      "title": "Mieszkańcy bronią linii 521",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-mieszkancy-bronia-521-chca-autobusow-do-centrum-st8941795?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 08:47:47 GMT",
+      "description": "Mieszkańcy Wawra przeciwstawiają się skróceniu trasy linii autobusowej 521 do Ronda Wiatraczna. Zbierają podpisy pod petycją. Zmiany zaproponowane przez Zarząd Transportu Miejskiego mają związek z rozbudową linii kolejowej do Otwocka.",
+      "originalTitle": "Mieszkańcy bronią 521. Boją się \"wygaszenia trasy do centrum\"",
+      "originalDescription": "Mieszkańcy Wawra przeciwstawiają się skróceniu trasy linii autobusowej 521 do Ronda Wiatraczna. Zbierają podpisy pod petycją. Zmiany zaproponowane przez Zarząd Transportu Miejskiego mają związek z rozbudową linii kolejowej do Otwocka."
+    },
+    {
+      "title": "Śledztwo w sprawie handlu ludźmi związane z Jeffreyem Epsteinem",
+      "link": "https://tvn24.pl/polska/afera-jeffreya-epsteina-jest-sledztwo-w-sprawie-handlu-ludzmi-w-polskim-watku-st8941968?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 08:42:16 GMT",
+      "description": "• Prokuratura Krajowa wszczęła śledztwo w sprawie handlu ludźmi.\n• Śledztwo dotyczy polskiego wątku afery.\n• Afera związana jest z przestępcą seksualnym Jeffreym Epsteinem.",
+      "originalTitle": "Afera Jeffreya Epsteina. Jest śledztwo w sprawie handlu ludźmi w polskim wątku",
+      "originalDescription": "Prokuratura Krajowa wszczęła śledztwo w sprawie handlu ludźmi w polskim wątku afery przestępcy seksualnego Jeffreya Epsteina."
+    },
+    {
+      "title": "Wypadek autobusu, 6 ofiar śmiertelnych, policja bada przyczyny",
+      "link": "https://tvn24.pl/swiat/szwajcaria-pozar-autobusu-w-centrum-miasta-co-najmniej-szesc-osob-zginelo-st8941844?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 08:24:07 GMT",
+      "description": "• Co najmniej sześć osób zginęło w pożarze autobusu.\n• Pięć osób odniosło obrażenia w pożarze autobusu.\n• Pożar autobusu miał miejsce w Kerzers.\n• Kerzers znajduje się nieopodal stolicy Szwajcarii, Berna.\n• Na wstępnym etapie śledztwa policja traktuje zdarzenie jako spowodowane przez człowieka.\n• Policja rozważa możliwość, że pożar był umyślnym działaniem.",
+      "originalTitle": "Spłonął autobus, nie żyje sześć osób. Policja: to mogło być umyślne działanie",
+      "originalDescription": "Co najmniej sześć osób zginęło, a pięć odniosło obrażenia w pożarze autobusu w Kerzers nieopodal stolicy Szwajcarii, Berna. Na wstępnym etapie śledztwa policja traktuje zdarzenie jako spowodowane przez człowieka, a nawet jako umyślne działanie."
+    },
+    {
+      "title": "Wypadek drogowy na S2",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-zderzenie-i-korek-na-s2-st8941885?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 08:12:47 GMT",
+      "description": "W środę rano na trasie S2 zderzyły się cztery samochody. Utworzył się spory korek w kierunku Ursynowa.",
+      "originalTitle": "Kilka aut zderzyło się na S2",
+      "originalDescription": "W środę rano na trasie S2 zderzyły się cztery samochody. Utworzył się spory korek w kierunku Ursynowa."
+    },
+    {
+      "title": "Znaleziono ciało mężczyzny",
+      "link": "https://tvn24.pl/szczecin/mezczyzna-znaleziony-martwy-lezal-w-rowie-obok-skutera-trwa-sledztwo-st8941860?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 08:01:45 GMT",
+      "description": "• Ciało martwego mężczyzny zostało znalezione w rowie przy drodze.\n• Ciało znalezione zostało przez przechodzącą kobietę.\n• Ciało leżało obok przewróconego skutera.\n• Mężczyzna pochodził z gminy Będzino.\n• Gmina Będzino znajduje się w województwie Zachodniopomorskim.\n• Okoliczności śmierci mężczyzny wyjaśnia prokurator.",
+      "originalTitle": "Leżał w rowie obok skutera. Ciało znalazła kobieta",
+      "originalDescription": "Ciało martwego mężczyzny znalazła w rowie przy drodze przechodząca kobieta. Ciało leżało obok przewróconego skutera. Okoliczności śmierci mężczyzny z gminy Będzino w Zachodniopomorskiem wyjaśnia prokurator."
+    },
+    {
+      "title": "Fałszywe zgłoszenia kradzieży w celu uzyskania odszkodowań",
+      "link": "https://tvn24.pl/poznan/poznan-sroda-wielkopolska-zglaszali-fikcyjne-kradzieze-zeby-wyludzic-odszkodowanie-st8941365?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 07:54:54 GMT",
+      "description": "Upozorowali kradzież dwóch aut, żeby wyłudzić blisko 700 tysięcy złotych odszkodowania z polisy. Policjanci z Poznania przejrzeli ich plan. Trzy osoby usłyszały zarzuty.",
+      "originalTitle": "Zgłaszali kradzieże, których nie było. Liczyli na odszkodowania",
+      "originalDescription": "Upozorowali kradzież dwóch aut, żeby wyłudzić blisko 700 tysięcy złotych odszkodowania z polisy. Policjanci z Poznania przejrzeli ich plan. Trzy osoby usłyszały zarzuty."
+    }
+  ]
 }
