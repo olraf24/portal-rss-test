@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-11T16:20:39.007Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-11T16:48:22.858Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Prezes Azoty Police odchodzi",
+      "link": "https://tvn24.pl/biznes/z-kraju/grupa-azoty-police-bez-prezesa-artur-blazejak-zrezygnowal-oswiadczenie-spolki-st8943481?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:44:27 GMT",
+      "description": "• Artur Błażejak zrezygnował z funkcji wiceprezesa.\n• Artur Błażejak zrezygnował z pełnienia obowiązków prezesa Grupy Azoty Police.\n• Spółka poinformowała o rezygnacji w komunikacie giełdowym.\n• Artur Błażejak wykonywał obowiązki prezesa od lutego tego roku.\n• Rezygnacja dotyczy Grupy Azoty Police.",
+      "originalTitle": "Prezes Azoty Police zrezygnował",
+      "originalDescription": "Artur Błażejak zrezygnował z funkcji wiceprezesa i pełnienia obowiązków prezesa Grupy Azoty Police - poinformowała spółka w komunikacie giełdowym. Błażejak wykonywał obowiązki prezesa od lutego tego roku."
+    },
+    {
+      "title": "Episkopat powołał komisję ds pedofilii",
+      "link": "https://tvn24.pl/polska/episkopat-powolal-ogolnopolska-komisje-do-spraw-pedofilii-w-kosciele-st8943451?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:42:34 GMT",
+      "description": "• Konferencja Episkopatu Polski ustanowiła Komisję niezależnych ekspertów.\n• Komisja ma za zadanie zbadanie zjawiska wykorzystywania seksualnego osób małoletnich w Kościele katolickim w Polsce.\n�� Komisji nadano publiczną osobowość prawną.\n• Rzecznikiem Konferencji Episkopatu Polski jest ksiądz Leszek Gęsiak.\n• Ksiądz Leszek Gęsiak przekazał informację o ustanowieniu Komisji.",
+      "originalTitle": "Episkopat powołał ogólnopolską komisję do spraw pedofilii w Kościele",
+      "originalDescription": "Konferencja Episkopatu Polski ustanowiła Komisję niezależnych ekspertów do zbadania zjawiska wykorzystywania seksualnego osób małoletnich w Kościele katolickim w Polsce oraz nadała jej publiczną osobowość prawną - przekazał rzecznik Konferencji Episkopatu Polski ksiądz Leszek Gęsiak."
+    },
+    {
+      "title": "Miasto wspiera budowę sali koncertowej",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawy-dolozy-sie-do-budowy-sali-koncertowej-bedzie-wspolprowadzic-sinfonie-varsovie-st8943448?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:34:30 GMT",
+      "description": "W środę prezydent Warszawy Rafał Trzaskowski poinformował o sfinalizowaniu umowy o współprowadzeniu przez miasto i Ministerstwo Kultury i Dziedzictwa Narodowego stołecznej Sinfonii Varsovii. Umowa ma zacząć obowiązywać od 1 kwietnia.",
+      "originalTitle": "Dołoży się do budowy sali koncertowej, będzie współprowadzić Sinfonię Varsovię",
+      "originalDescription": "W środę prezydent Warszawy Rafał Trzaskowski poinformował o sfinalizowaniu umowy o współprowadzeniu przez miasto i Ministerstwo Kultury i Dziedzictwa Narodowego stołecznej Sinfonii Varsovii. Umowa ma zacząć obowiązywać od 1 kwietnia."
+    },
+    {
+      "title": "Planowane centrum ESA w Polsce",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/co-z-centrum-europejskiej-agencji-kosmicznej-w-polsce-st8943275?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:22:47 GMT",
+      "description": "Pod koniec poprzedniego roku Polska i Europejska Agencja Kosmiczna rozpoczęły rozmowy w sprawie utworzenia w naszym kraju centrum bezpieczeństwa kosmicznego. Odpowiedzialne za projekt Ministerstwo Rozwoju i Technologii odpowiedziało na pytania, czy w sprawie zapadły jakieś decyzje.",
+      "originalTitle": "Co z centrum Europejskiej Agencji Kosmicznej w Polsce?",
+      "originalDescription": "Pod koniec poprzedniego roku Polska i Europejska Agencja Kosmiczna rozpoczęły rozmowy w sprawie utworzenia w naszym kraju centrum bezpieczeństwa kosmicznego. Odpowiedzialne za projekt Ministerstwo Rozwoju i Technologii odpowiedziało na pytania, czy w sprawie zapadły jakieś decyzje."
+    },
+    {
+      "title": "Sąd przyznaje rację projektantce w sporze z Katy Perry",
+      "link": "https://tvn24.pl/kultura-i-styl/australia-projektantka-ubran-katie-perry-wygrywa-w-sadzie-z-piosenkarka-katy-perry-spor-o-znak-towarowy-st8942624?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:20:03 GMT",
+      "description": "• Katie Perry jest australijską projektantką.\n• Katie Perry wygrała sprawę przed sądem z Katy Perry, amerykańską piosenkarką.\n• Spór dotyczył naruszenia znaku towarowego.\n• Początek sporu sięga 2009 roku.\n• Spór zakończył się w Sądzie Najwyższym.\n• Australijka przyznała, że teraz może zacząć patrzeć w przyszłość i skupiać się na niej, po zakończeniu sporu.",
+      "originalTitle": "Katie Perry kontra Katy Perry. Projektantka wygrywa przed sądem z gwiazdą",
+      "originalDescription": "Katie Perry, australijska projektantka, wygrała właśnie przed sądem z Katy Perry, amerykańską piosenkarką. Spór o naruszenie znaku towarowego, którego początek sięga 2009 roku, znalazł finał w Sądzie Najwyższym. - Teraz mogę zacząć naprawdę patrzeć w przyszłość i skupiać się na niej - przyznała z ulgą Australijka."
+    },
+    {
+      "title": "Badanie: suplementy przed treningiem a sen",
+      "link": "https://tvn24.pl/zdrowie/niewinne-suplementy-przed-treningiem-badanie-pokazuje-co-dzieje-sie-potem-ze-snem-st8943001?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 15:55:57 GMT",
+      "description": "Naukowcy z University of Toronto wskazują na alarmujący związek między przyjmowaniem popularnych suplementów przedtreningowych a drastycznym skróceniem czasu wypoczynku u młodzieży i młodych dorosłych. Z analiz wynika, że osoby sięgające po te preparaty ponad dwukrotnie częściej zmagają się z poważnym niedoborem snu. Czym to grozi?",
+      "originalTitle": "Niewinne suplementy przed treningiem? Badanie pokazuje, co dzieje się potem ze snem",
+      "originalDescription": "Naukowcy z University of Toronto wskazują na alarmujący związek między przyjmowaniem popularnych suplementów przedtreningowych a drastycznym skróceniem czasu wypoczynku u młodzieży i młodych dorosłych. Z analiz wynika, że osoby sięgające po te preparaty ponad dwukrotnie częściej zmagają się z poważnym niedoborem snu. Czym to grozi?"
+    },
+    {
+      "title": "Dr. Dre miliarderem. \"Forbes\" potwierdził status dopiero po 12 latach",
+      "link": "https://tvn24.pl/biznes/ze-swiata/dr-dre-miliarderem-forbes-potwierdzil-status-dopiero-po-12-latach-st8943242?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 15:53:49 GMT",
+      "description": "Amerykański raper i producent muzyczny Dr. Dre po raz pierwszy trafił na listę najbogatszych ludzi świata przygotowywaną przez magazyn \"Forbes\". To symboliczne potwierdzenie jego majątku, o którym artysta mówił już w 2014 roku, nazywając siebie miliarderem. Na oficjalne uznanie tego statusu przez redakcję \"Forbesa\" musiał jednak czekać aż 12 lat.",
+      "originalTitle": "Dr. Dre miliarderem. \"Forbes\" potwierdził status dopiero po 12 latach",
+      "originalDescription": "Amerykański raper i producent muzyczny Dr. Dre po raz pierwszy trafił na listę najbogatszych ludzi świata przygotowywaną przez magazyn \"Forbes\". To symboliczne potwierdzenie jego majątku, o którym artysta mówił już w 2014 roku, nazywając siebie miliarderem. Na oficjalne uznanie tego statusu przez redakcję \"Forbesa\" musiał jednak czekać aż 12 lat."
+    },
+    {
+      "title": "Elon Musk znów najbogatszy na świecie. Nowy ranking \"Forbesa\"",
+      "link": "https://tvn24.pl/biznes/tech/elon-musk-najbogatszym-czlowiekiem-na-swiecie-lista-miliarderow-forbesa-2026-rok-st8943117?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 15:47:38 GMT",
+      "description": "Elon Musk, przedsiębiorca i większościowy akcjonariusz firm Tesla, SpaceX, X oraz xAI, pozostaje zdecydowanym liderem rankingu najbogatszych ludzi świata. Jak podał we wtorek amerykański magazyn \"Forbes\", jego majątek szacowany jest na 839 miliardów dolarów.",
+      "originalTitle": "Elon Musk znów najbogatszy na świecie. Nowy ranking \"Forbesa\"",
+      "originalDescription": "Elon Musk, przedsiębiorca i większościowy akcjonariusz firm Tesla, SpaceX, X oraz xAI, pozostaje zdecydowanym liderem rankingu najbogatszych ludzi świata. Jak podał we wtorek amerykański magazyn \"Forbes\", jego majątek szacowany jest na 839 miliardów dolarów."
+    },
+    {
+      "title": "Torują drogę \"Żelazem\". Irański dron lekcją dla Polski",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-nowe-iranskie-drony-hadid-110-lekcja-dla-polski-st8941767?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 15:40:25 GMT",
+      "description": "Nieuchwytne i trzy razy szybsze od Shahedów, które uderzają w Ukrainie - takie mają być nowe irańskie drony, które już atakują siły USA. Dzięki takim dronom Iran osiągnął możliwości posiadane dotąd jedynie przez największe mocarstwa. I to ważna lekcja dla Polski.",
+      "originalTitle": "Torują drogę \"Żelazem\". Irański dron lekcją dla Polski",
+      "originalDescription": "Nieuchwytne i trzy razy szybsze od Shahedów, które uderzają w Ukrainie - takie mają być nowe irańskie drony, które już atakują siły USA. Dzięki takim dronom Iran osiągnął możliwości posiadane dotąd jedynie przez największe mocarstwa. I to ważna lekcja dla Polski."
+    },
+    {
+      "title": "Leki na otyłość pomogą też po zawale? \"Wyniki sugerują coś zaskakującego\"",
+      "link": "https://tvn24.pl/zdrowie/leki-na-otylosc-pomoga-tez-po-zawale-wyniki-sugeruja-cos-zaskakujacego-st8943215?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 15:35:00 GMT",
+      "description": "Nowe badania sugerują, że popularne leki przeciw cukrzycy i otyłości, takie jak semaglutyd, mogą wspomagać regenerację serca po zawale. Działają nie tylko na gospodarkę cukrową, lecz także poprawiają mikrokrążenie w mięśniu sercowym.",
+      "originalTitle": "Leki na otyłość pomogą też po zawale? \"Wyniki sugerują coś zaskakującego\"",
+      "originalDescription": "Nowe badania sugerują, że popularne leki przeciw cukrzycy i otyłości, takie jak semaglutyd, mogą wspomagać regenerację serca po zawale. Działają nie tylko na gospodarkę cukrową, lecz także poprawiają mikrokrążenie w mięśniu sercowym."
+    }
+  ]
 }
