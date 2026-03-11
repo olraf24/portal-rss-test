@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-11T21:10:31.107Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-11T21:44:23.875Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Śledztwo w sprawie ataku na szkołę w Iranie",
+      "link": "https://tvn24.pl/swiat/atak-na-iran-wojsko-usa-mialo-zniszczyc-szkole-dla-dziewczat-w-minabie-gdzie-wedlug-teheranu-zginelo-175-osob-st8943710?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 21:31:38 GMT",
+      "description": "Ze wstępnych ustaleń śledczych wynika, że to siły Stanów Zjednoczonych zbombardowały szkołę podstawową dla dziewcząt w Minabie. Miało to być skutkiem nieaktualnych danych wywiadu wojskowego, gdyż budynek ten był w przeszłości częścią bazy wojskowej.",
+      "originalTitle": "Atak na szkołę w Iranie. Nowe informacje ze śledztwa",
+      "originalDescription": "Ze wstępnych ustaleń śledczych wynika, że to siły Stanów Zjednoczonych zbombardowały szkołę podstawową dla dziewcząt w Minabie. Miało to być skutkiem nieaktualnych danych wywiadu wojskowego, gdyż budynek ten był w przeszłości częścią bazy wojskowej."
+    },
+    {
+      "title": "Atak i odpowiedź Izraela",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-11-marca-najnowsze-informacje-st8941719?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 04:32:09 GMT",
+      "description": "• W środę wieczorem Hezbollah przeprowadził skoordynowany z Iranem atak na Izrael.\n• W kierunku północy kraju wystrzelono 100 rakiet.\n• Był to największy taki nalot od początku obecnej wojny.\n• W odpowiedzi Izrael przeprowadził naloty na Liban.\n• Najnowsze informacje o wojnie na Bliskim Wschodzie można znaleźć w TVN24 oraz na tvn24.pl.",
+      "originalTitle": "Pierwszy taki atak od początku wojny. Izrael szybko odpowiedział",
+      "originalDescription": "W środę wieczorem Hezbollah przeprowadził skoordynowany z Iranem atak na Izrael. W kierunku północy kraju wystrzelono 100 rakiet i był to największy taki nalot od początku obecnej wojny - poinformował portal Times of Israel. W odpowiedzi Izrael przeprowadził naloty na Liban. Najnowsze informacje o wojnie na Bliskim Wschodzie w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Nagroda im. Andrzeja Woyciechowskiego dla Michała Przedlackiego",
+      "link": "https://tvn24.pl/polska/michal-przedlacki-z-superwizjera-z-nagroda-imienia-andrzeja-woyciechowskiego-st8943449?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 20:35:26 GMT",
+      "description": "• Michał Przedlacki jest dziennikarzem \"Superwizjera\".\n• Michał Przedlacki został laureatem nagrody Radia ZET im. Andrzeja Woyciechowskiego.\n• Nagroda została przyznana za reportaż \"Możemy tylko walczyć. Historia oddziału Janusza Szeremety\".\n• Reportaż \"Możemy tylko walczyć. Historia oddziału Janusza Szeremety\" przedstawia losy grupy Polaków walczących w Ukrainie.\n• Reportaż dotyczy oddziału Janusza Szeremety.\n• Janusz Szeremeta jest osobą, której oddział jest przedstawiony w reportażu.\n• Nagroda, którą otrzymał Michał Przedlacki, jest imienia Andrzeja Woyciechowskiego.",
+      "originalTitle": "Nagroda imienia Andrzeja Woyciechowskiego dla Michała Przedlackiego",
+      "originalDescription": "Michał Przedlacki, dziennikarz \"Superwizjera\", został laureatem nagrody Radia ZET im. Andrzeja Woyciechowskiego. Uhonorowano go za reportaż \"Możemy tylko walczyć. Historia oddziału Janusza Szeremety\", który przedstawia losy grupy Polaków walczących w Ukrainie."
+    },
+    {
+      "title": "11-latek upadł z okna",
+      "link": "https://tvn24.pl/lubuskie/lubuskie-11-latek-wypadl-z-okna-ladowal-lpr-st8943659?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 20:02:59 GMT",
+      "description": "• W miejscowości Wędrzyn doszło do zdarzenia, w którym 11-letni chłopiec wypadł z okna.\n• Chłopiec wypadł z okna na trzecim piętrze.\n• W wyniku odniesionych obrażeń chłopiec został przetransportowany do szpitala.\n• Szpital, do którego został przetransportowany chłopiec, znajduje się w Zielonej Górze.\n• Pierwszą informacją o zdarzeniu dysponowano dzięki Kontakt 24.",
+      "originalTitle": "11-latek wypadł z okna. Lądował LPR",
+      "originalDescription": "W miejscowości Wędrzyn 11-letni chłopiec wypadł z okna na trzecim piętrze. W wyniku odniesionych obrażeń został przetransportowany do szpitala w Zielonej Górze. Pierwszą informacją o zdarzeniu otrzymaliśmy na Kontakt 24."
+    },
+    {
+      "title": "Ryby wypłynęły na plażę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/meksyk-ryby-konca-swiata-wyplynely-na-plaze-st8943610?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 20:01:30 GMT",
+      "description": "• Dwie \"ryby końca świata\" zostały znalezione na meksykańskiej plaży.\n• Wstęgory królewskie rzadko kiedy widywane są parami.\n• Wstęgory królewskie to ryby, o których mowa w opisie.\n• Wedle dawnych podań, pojawienie się wstęgorów królewskich może zwiastować kataklizmy.",
+      "originalTitle": "\"Ryby końca świata\" wypłynęły na plażę",
+      "originalDescription": "Dwie \"ryby końca świata\" zostały znalezione na meksykańskiej plaży. Wstęgory królewskie, bo o nich mowa, rzadko kiedy widywane są parami. Wedle dawnych podań ich pojawienie może zwiastować kataklizmy."
+    },
+    {
+      "title": "Pełnomocniczka rządu informuje o zwrocie w sprawie SAFE",
+      "link": "https://tvn24.pl/polska/pelnomocniczka-rzadu-magdalena-sobkowiak-czarnecka-w-sprawie-safe-nastapil-zwrot-jeszcze-w-grudniu-w-bbn-go-chwalono-st8943636?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 20:00:17 GMT",
+      "description": "Jeszcze w grudniu ubiegłego roku słyszałam w Biurze Bezpieczeństwa Narodowego: \"super, że pozyskaliście te pieniądze\" - powiedziała w \"Kropce nad i\" w TVN24 Magdalena Sobkowiak-Czarnecka, pełnomocniczka rządu do spraw SAFE. Jej zdaniem Karol Nawrocki teraz kieruje się naciskami Jarosława Kaczyńskiego i badaniami opinii publicznej w tej sprawie.",
+      "originalTitle": "Pełnomocniczka rządu: w sprawie SAFE nastąpił zwrot",
+      "originalDescription": "Jeszcze w grudniu ubiegłego roku słyszałam w Biurze Bezpieczeństwa Narodowego: \"super, że pozyskaliście te pieniądze\" - powiedziała w \"Kropce nad i\" w TVN24 Magdalena Sobkowiak-Czarnecka, pełnomocniczka rządu do spraw SAFE. Jej zdaniem Karol Nawrocki teraz kieruje się naciskami Jarosława Kaczyńskiego i badaniami opinii publicznej w tej sprawie."
+    },
+    {
+      "title": "Atak na szpital, wsparcie wojskowe",
+      "link": "https://tvn24.pl/szczecin/prokurator-wszczyna-sledztwo-sprawa-ataku-hakerskiego-na-szpital-st8942802?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 13:38:08 GMT",
+      "description": "Hakerzy zaatakowali systemy informatyczne szpitala wojewódzkiego w Szczecinie i zażądali okupu. Pracownicy szpitala musieli wrócić do papierowej dokumentacji. Śledztwo w sprawie ataku wszczęła Prokuratura Okręgowa w Szczecinie. Do sprawy odniósł się wicepremier i szef resortu obrony.",
+      "originalTitle": "Hakerski atak na szpital i żądanie okupu. Szef MON: placówkę wesprą żołnierze",
+      "originalDescription": "Hakerzy zaatakowali systemy informatyczne szpitala wojewódzkiego w Szczecinie i zażądali okupu. Pracownicy szpitala musieli wrócić do papierowej dokumentacji. Śledztwo w sprawie ataku wszczęła Prokuratura Okręgowa w Szczecinie. Do sprawy odniósł się wicepremier i szef resortu obrony."
+    },
+    {
+      "title": "Co z pieniędzmi na obronność? Były szef BBN: są pilnie potrzebne",
+      "link": "https://tvn24.pl/polska/co-z-pieniedzmi-na-obronnosc-byly-szef-bbn-sa-pilnie-potrzebne-st8943546?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 19:24:02 GMT",
+      "description": "Mam pełne zaufanie do najwyższych dowódców wojskowych, którzy mówią, że ten program jest konieczny i ta lista zakupów jest pilnie potrzebna - powiedział były szef Biura Bezpieczeństwa Narodowego Jacek Siewiera w \"Faktach po Faktach\" w TVN24, odpowiadając na pytanie, czy Polska powinna skorzystać z unijnego programu SAFE.",
+      "originalTitle": "Co z pieniędzmi na obronność? Były szef BBN: są pilnie potrzebne",
+      "originalDescription": "Mam pełne zaufanie do najwyższych dowódców wojskowych, którzy mówią, że ten program jest konieczny i ta lista zakupów jest pilnie potrzebna - powiedział były szef Biura Bezpieczeństwa Narodowego Jacek Siewiera w \"Faktach po Faktach\" w TVN24, odpowiadając na pytanie, czy Polska powinna skorzystać z unijnego programu SAFE."
+    },
+    {
+      "title": "\"Atmosfera dosyć napięta\". Minister finansów o spotkaniu z prezydentem",
+      "link": "https://tvn24.pl/biznes/z-kraju/atmosfera-dosyc-napieta-minister-finansow-andrzej-domanski-o-spotkaniu-z-prezydentem-st8943554?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 19:07:19 GMT",
+      "description": "Wiemy po wczorajszym spotkaniu, ale chyba jeszcze bardziej dobitnie po dzisiejszej konferencji prezesa Adama Glapińskiego, że nie ma żadnego \"SAFE zero\" - mówił w \"Faktach po Faktach\" w TVN24 minister finansów i gospodarki Andrzej Domański. Relacjonował, że atmosfera na spotkaniu z prezydentem w tej sprawie była \"dosyć napięta\".",
+      "originalTitle": "\"Atmosfera dosyć napięta\". Minister finansów o spotkaniu z prezydentem",
+      "originalDescription": "Wiemy po wczorajszym spotkaniu, ale chyba jeszcze bardziej dobitnie po dzisiejszej konferencji prezesa Adama Glapińskiego, że nie ma żadnego \"SAFE zero\" - mówił w \"Faktach po Faktach\" w TVN24 minister finansów i gospodarki Andrzej Domański. Relacjonował, że atmosfera na spotkaniu z prezydentem w tej sprawie była \"dosyć napięta\"."
+    },
+    {
+      "title": "Rosja wspiera Iran poradami, jak atakować dronami. \"To robi się coraz bardziej niepokojące\"",
+      "link": "https://tvn24.pl/swiat/rosja-wspiera-iran-w-planowaniu-atakow-dronami-to-robi-sie-coraz-bardziej-niepokojace-st8943580?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 18:43:25 GMT",
+      "description": "Wiedzą, którą Rosjanie zdobyli na wojnie z Ukrainie, Kreml dzieli się z Teheranem. Telewizja CNN przekazała, że Iran otrzymuje od Rosji informacje, jak najlepiej przeprowadzać ataki dronami.",
+      "originalTitle": "Rosja wspiera Iran poradami, jak atakować dronami. \"To robi się coraz bardziej niepokojące\"",
+      "originalDescription": "Wiedzą, którą Rosjanie zdobyli na wojnie z Ukrainie, Kreml dzieli się z Teheranem. Telewizja CNN przekazała, że Iran otrzymuje od Rosji informacje, jak najlepiej przeprowadzać ataki dronami."
+    }
+  ]
 }
