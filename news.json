@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-11T17:20:45.228Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-11T17:48:05.961Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Znaleziono igły i strzykawki",
+      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-ktos-rozsypal-na-trawniku-strzykawki-i-igly-st8943501?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 17:43:14 GMT",
+      "description": "Zagrażały dzieciom i zwierzętom, o czym alarmowali mieszkańcy. Strażnicy miejscy na jednym z osiedli w Rembertowie zebrali prawie pół wiadra strzykawek i igieł. W niektórych były jeszcze resztki jakiejś substancji.",
+      "originalTitle": "Igły i strzykawki na osiedlowym trawniku",
+      "originalDescription": "Zagrażały dzieciom i zwierzętom, o czym alarmowali mieszkańcy. Strażnicy miejscy na jednym z osiedli w Rembertowie zebrali prawie pół wiadra strzykawek i igieł. W niektórych były jeszcze resztki jakiejś substancji."
+    },
+    {
+      "title": "Zatrzymano cztery osoby przy pociągu metra",
+      "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-atak-grafficiarzy-na-pociag-metra-cztery-osoby-zatrzymane-st8943239?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 15:09:22 GMT",
+      "description": "• Rzeczniczka Metra Warszawskiego to Anna Bartoń.\n• Grafficiarze zniszczyli jeden z pociągów.\n• Były duże utrudnienia.\n• Policja zatrzymała cztery osoby.\n• Zatrzymani to obywatele Hiszpanii.",
+      "originalTitle": "\"Atak grafficiarzy na pociąg metra\". Cztery osoby zatrzymane",
+      "originalDescription": "Rzeczniczka Metra Warszawskiego Anna Bartoń przekazała, że grafficiarze zniszczyli jeden z pociągów. Były duże utrudnienia. Policja poinformowała o zatrzymaniu czterech osób. To obywatele Hiszpanii."
+    },
+    {
+      "title": "Zdarzenie w szkole w Warszawie, zatrzymany podejrzany",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-liceum-przy-marszalkowskiej-ostrzelane-z-wiatrowki-st8942205?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 10:19:56 GMT",
+      "description": "• Policjanci zatrzymali mężczyznę.\n• Mężczyzna jest podejrzewany o ostrzelanie z broni pneumatycznej budynku szkoły.\n• Budynek szkoły znajduje się na terenie warszawskiego Śródmieścia.\n• Trwają czynności procesowe.",
+      "originalTitle": "Ostrzelana szkoła w centrum Warszawy, zatrzymali podejrzewanego",
+      "originalDescription": "Policjanci zatrzymali mężczyznę, który jest podejrzewany o ostrzelanie z broni pneumatycznej budynku szkoły na terenie warszawskiego Śródmieścia. Trwają czynności procesowe."
+    },
+    {
+      "title": "Pogoda na 12.03: deszcz nocą",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-12-03-tutaj-noca-pokropi-deszcz-st8943442?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 17:10:43 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli czwartku.\n• Data jutrzejszego dnia to 12.03.\n• Nocą w całym kraju temperatura nie spadnie poniżej zera.\n• W niektórych regionach wystąpi więcej chmur niosących nieznaczne opady.\n• W czwartek deszcz spodziewany jest już w większości Polski.",
+      "originalTitle": "Pogoda na jutro - czwartek, 12.03. Tutaj nocą pokropi deszcz",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 12.03. Nocą w całym kraju temperatura nie spadnie poniżej zera. W niektórych regionach wystąpi więcej chmur niosących nieznaczne opady. W czwartek deszcz spodziewany jest już w większości Polski."
+    },
+    {
+      "title": "Wystąpiły zakażenia w szpitalu",
+      "link": "https://tvn24.pl/poznan/poznan-zakazenia-w-szpitalu-chorzy-zostali-odizolowani-st8942727?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 17:04:18 GMT",
+      "description": "W szpitalu wojewódzkim w Poznaniu wykryto już kilkanaście przypadków żółtaczki pokarmowej. Wirusem zarazili się zarówno pacjenci, jak i personel. Chorzy zostali odizolowani.",
+      "originalTitle": "Zakażenia w szpitalu. Chorzy zostali odizolowani",
+      "originalDescription": "W szpitalu wojewódzkim w Poznaniu wykryto już kilkanaście przypadków żółtaczki pokarmowej. Wirusem zarazili się zarówno pacjenci, jak i personel. Chorzy zostali odizolowani."
+    },
+    {
+      "title": "Orban podejmuje kroki w sprawie funduszy i złota",
+      "link": "https://tvn24.pl/swiat/wegry-ukraina-zatrzymany-konwoj-rurociag-przyjazn-jak-daleko-posunie-sie-viktor-orban-st8938917?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 17:02:08 GMT",
+      "description": "• Napięcie w relacjach między Węgrami i Ukrainą sięga szczytu.\n• Świadczą o tym już nie tylko słowa.\n• Zatrzymanie przez węgierskie służby pracowników ukraińskiego banku uznane zostało w Kijowie za wydarzenie bez precedensu.\n• Viktor Orban jest osobą, której działania mogą wpłynąć na dalszy rozwój sytuacji.",
+      "originalTitle": "Zabrali miliony i złoto. \"Zagranie ostatniej szansy Orbana\"",
+      "originalDescription": "Napięcie w relacjach między Węgrami i Ukrainą sięga szczytu. Świadczą o tym już nie tylko słowa - zatrzymanie przez węgierskie służby pracowników ukraińskiego banku uznane zostało w Kijowie za wydarzenie bez precedensu. Jak daleko posunie się Viktor Orban?"
+    },
+    {
+      "title": "Aktor Warwick Davis z Orderem Imperium Brytyjskiego",
+      "link": "https://tvn24.pl/kultura-i-styl/warwick-davis-uhonorowany-orderem-imperium-brytyjskiego-odebral-go-z-rak-ksiecia-williama-st8943440?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 17:02:07 GMT",
+      "description": "Aktor Warwick Davis został doceniony za zasługi dla teatru i działalność charytatywną. Uhonorowano go Orderem Imperium Brytyjskiego, a odebrał go z rąk księcia Walii.",
+      "originalTitle": "Aktor Warwick Davis z Orderem Imperium Brytyjskiego",
+      "originalDescription": "Aktor Warwick Davis został doceniony za zasługi dla teatru i działalność charytatywną. Uhonorowano go Orderem Imperium Brytyjskiego, a odebrał go z rąk księcia Walii."
+    },
+    {
+      "title": "Wybuch przed ambasadą USA w Oslo. Trzech mężczyzn zostało zatrzymanych",
+      "link": "https://tvn24.pl/swiat/norwegia-zamach-na-ambasade-usa-w-oslo-trzech-braci-zatrzymanych-st8943472?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:56:19 GMT",
+      "description": "Norweska policja zatrzymała trzech podejrzanych w związku z niedzielnym zamachem bombowym na ambasadę USA w Oslo. Wszyscy są braćmi i obywatelami Norwegii z irackimi korzeniami.",
+      "originalTitle": "Wybuch przed ambasadą USA w Oslo. Trzech mężczyzn zostało zatrzymanych",
+      "originalDescription": "Norweska policja zatrzymała trzech podejrzanych w związku z niedzielnym zamachem bombowym na ambasadę USA w Oslo. Wszyscy są braćmi i obywatelami Norwegii z irackimi korzeniami."
+    },
+    {
+      "title": "Telefon wysłał powiadomienie o wypadku. Kierowca ma duże kłopoty",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/makow-mazowiecki-smartphon-wyslal-powiadomienie-o-wypadku-kierowca-byl-pijany-st8943227?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:55:31 GMT",
+      "description": "Dostali powiadomienie z telefonu, a kierowca nie reagował. Policjanci najpierw znaleźli miejsca wypadku, następnie auto i kierowcę, który - jak się okazało - był pijany i ma sądowy zakaz prowadzenia.",
+      "originalTitle": "Telefon wysłał powiadomienie o wypadku. Kierowca ma duże kłopoty",
+      "originalDescription": "Dostali powiadomienie z telefonu, a kierowca nie reagował. Policjanci najpierw znaleźli miejsca wypadku, następnie auto i kierowcę, który - jak się okazało - był pijany i ma sądowy zakaz prowadzenia."
+    },
+    {
+      "title": "Czy łańcuch może być symbolem miłości? Z Janem Komasą odszyfrowujemy \"Dobrego chłopca\"",
+      "link": "https://tvn24.pl/kultura-i-styl/dobry-chlopiec-z-janem-komasa-analizujemy-jego-najnowszy-film-st8934270?source=rss",
+      "pubDate": "Wed, 11 Mar 2026 16:51:24 GMT",
+      "description": "Każdy z nas potrzebuje takich filmów jak \"Dobry chłopiec\" Jana Komasy, choć nawet o tym nie wie. Przewrotna i groteskowa historia o \"tworzeniu dobrego chłopca\" zachwyca. Wspólnie z twórcą przyglądamy się trzem najważniejszym aspektom filmu, który można oglądać w kinach.",
+      "originalTitle": "Czy łańcuch może być symbolem miłości? Z Janem Komasą odszyfrowujemy \"Dobrego chłopca\"",
+      "originalDescription": "Każdy z nas potrzebuje takich filmów jak \"Dobry chłopiec\" Jana Komasy, choć nawet o tym nie wie. Przewrotna i groteskowa historia o \"tworzeniu dobrego chłopca\" zachwyca. Wspólnie z twórcą przyglądamy się trzem najważniejszym aspektom filmu, który można oglądać w kinach."
+    }
+  ]
 }
