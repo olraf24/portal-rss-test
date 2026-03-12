@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-12T17:47:29.762Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-12T18:20:46.798Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Sondaż partyjny dla TVN i TVN24",
+      "link": "https://tvn24.pl/polska/najnowszy-sondaz-partyjny-dla-faktow-tvn-i-tvn24-czy-to-efekt-czarnka-st8945228?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:51:47 GMT",
+      "description": "• W najnowszym sondażu Opinia24 dla \"Faktów\" TVN i TVN24 podium pozostaje bez zmian.\n• Liderem wciąż jest Koalicja Obywatelska.\n• PiS jest na drugim miejscu.\n• PiS odnotowało lekki wzrost poparcia od ostatniego badania.\n• Konfederacja jest na trzeciej pozycji.\n• Konfederacja odnotowała porównywalny spadek poparcia.",
+      "originalTitle": "Nowy sondaż partyjny dla \"Faktów\" TVN i TVN24",
+      "originalDescription": "W najnowszym sondażu Opinia24 dla \"Faktów\" TVN i TVN24 podium pozostaje bez zmian, ale diabeł tkwi w szczegółach. Liderem wciąż jest Koalicja Obywatelska. Będące na drugim miejscu PiS odnotowało lekki wzrost poparcia od ostatniego badania, a będąca na trzeciej pozycji Konfederacja - porównywalny spadek."
+    },
+    {
+      "title": "Krajowy operator ostrzega przed nową kampanią",
+      "link": "https://tvn24.pl/biznes/tech/nowa-grozna-kampania-poczta-polska-ostrzega-przed-nowym-oszustwem-st8945313?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:47:14 GMT",
+      "description": "• Oszuści podszywają się pod system e-Doręczenia.\n• Wysyłają fałszywe komunikaty o zapełnionej skrzynce w chmurze.\n• Poczta Polska ostrzega przed tymi oszustwami w komunikacie.\n• Nie wiadomo jeszcze, czy celem kampanii jest wyłudzenie opłaty za fikcyjną usługę.\n• Innym możliwym celem kampanii może być pozyskanie danych kart płatniczych.",
+      "originalTitle": "\"Nowa, groźna kampania\". Krajowy operator ostrzega",
+      "originalDescription": "Oszuści podszywają się pod system e-Doręczenia, wysyłając fałszywe komunikaty o zapełnionej skrzynce w chmurze - ostrzega w komunikacie Poczta Polska. Nie wiadomo jeszcze, czy celem kampanii jest wyłudzenie opłaty za fikcyjną usługę, czy też pozyskanie danych kart płatniczych."
+    },
+    {
+      "title": "Lawa zagraża głównej drodze",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/reunion-lawa-leje-sie-od-miesiaca-moze-odciac-jedna-z-glownych-drog-st8945009?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:44:19 GMT",
+      "description": "Trwa erupcja wulkanu Piton de la Fournaise na Reunionie, zamorskim terytorium Francji. W czwartek lokalne władze poinformowały, że lawa może zalać jedną z najważniejszych dróg na wyspie. Mieszkańcy obawiają się paraliżu komunikacyjnego.",
+      "originalTitle": "Lawa leje się od miesiąca. Może odciąć jedną z głównych dróg",
+      "originalDescription": "Trwa erupcja wulkanu Piton de la Fournaise na Reunionie, zamorskim terytorium Francji. W czwartek lokalne władze poinformowały, że lawa może zalać jedną z najważniejszych dróg na wyspie. Mieszkańcy obawiają się paraliżu komunikacyjnego."
+    },
+    {
+      "title": "Badanie dotyczące niezależności NBP",
+      "link": "https://tvn24.pl/polska/sondaz-opinia24-czy-prezes-nbp-adam-glapinski-podejmuje-decyzje-pod-wplywem-politykow-st8945220?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:40:50 GMT",
+      "description": "• Ponad połowa uczestników marcowego sondażu Opinia24 uważa, że prezes Narodowego Banku Polskiego podejmuje decyzje pod wpływem polityków.\n• Sondaż został przeprowadzony dla \"Faktów\" TVN i TVN24.\n• Prezesem Narodowego Banku Polskiego jest Adam Glapiński.\n• Sondaż został przeprowadzony w marcu.",
+      "originalTitle": "Czy prezes NBP podejmuje decyzje pod wpływem polityków? Sondaż",
+      "originalDescription": "Ponad połowa uczestników marcowego sondażu Opinia24 dla \"Faktów\" TVN i TVN24 uważa, że prezes Narodowego Banku Polskiego Adam Glapiński podejmuje decyzje pod wpływem polityków."
+    },
+    {
+      "title": "Były wiceburmistrz Pragi Południe oskarżony",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-jest-akt-oskarzenia-w-sprawie-bylego-wiceburmistrza-pragi-poludnie-st8945239?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:37:30 GMT",
+      "description": "• Były wiceburmistrz Pragi-Południe, Adam C., zasiądzie na ławie oskarżonych.\n• Zarzut jaki postawiono Adamowi C. to płatna protekcja.\n• Zdaniem śledczych, doszło do korupcyjnej wymiany usług.\n• Adam C. miał zaoferować pomoc w znalezieniu pracy jednemu z rembertowskich urzędników.\n• Pomoc w znalezieniu pracy miała być oferowana w zamian za wydanie zgody na budowę apartamentowca.\n• Apartamentowiec miał być wybudowany w dzielnicy Rembertów.",
+      "originalTitle": "Były wiceburmistrz Pragi Południe oskarżony. Grozi mu dziesięć lat więzienia",
+      "originalDescription": "Były wiceburmistrz Pragi-Południe, Adam C., zasiądzie na ławie oskarżonych pod zarzutem płatnej protekcji. Zdaniem śledczych, doszło do korupcyjnej wymiany usług - mężczyzna miał zaoferować pomoc w znalezieniu pracy jednemu z rembertowskich urzędników, w zamian za wydanie zgody na budowę apartamentowca w tej dzielnicy."
+    },
+    {
+      "title": "Szef restauracji rezygnuje",
+      "link": "https://tvn24.pl/swiat/rene-redzepi-szef-jednej-z-najlepszych-restauracji-swiata-rezygnuje-w-tle-oskarzenia-pracownikow-st8944970?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:30:29 GMT",
+      "description": "Nagradzany i powszechnie ceniony szef kuchni jednej z najlepiej ocenianych restauracji świata rezygnuje ze stanowiska. W tle oskarżenia pracowników. Słynny kucharz przyznał, że zachowywał się \"w sposób nie do zaakceptowania\".",
+      "originalTitle": "Szef jednej z najlepszych restauracji świata rezygnuje. \"Przeprosiny nie wystarczą\"",
+      "originalDescription": "Nagradzany i powszechnie ceniony szef kuchni jednej z najlepiej ocenianych restauracji świata rezygnuje ze stanowiska. W tle oskarżenia pracowników. Słynny kucharz przyznał, że zachowywał się \"w sposób nie do zaakceptowania\"."
+    },
+    {
+      "title": "Incident z irańskimi łodziami",
+      "link": "https://tvn24.pl/swiat/atak-iranskich-statkow-na-wodach-iraku-dwa-tankowce-stanely-w-plomieniach-st8945062?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:29:57 GMT",
+      "description": "Irańskie łodzie zaatakowały tankowce na wodach terytorialnych Iraku - przekazał Reuters. Na nagraniu udostępnionym przez agencję widzimy, jak dwie jednostki stają w płomieniach po potężnej eksplozji. Od początku walk w regionie zaatakowano już co najmniej 16 jednostek pływających.",
+      "originalTitle": "Atak irańskich łodzi. Dwa tankowce stanęły w płomieniach",
+      "originalDescription": "Irańskie łodzie zaatakowały tankowce na wodach terytorialnych Iraku - przekazał Reuters. Na nagraniu udostępnionym przez agencję widzimy, jak dwie jednostki stają w płomieniach po potężnej eksplozji. Od początku walk w regionie zaatakowano już co najmniej 16 jednostek pływających."
+    },
+    {
+      "title": "Naloty na stolicę, rakiety spadły w centrum",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-12-marca-najnowsze-informacje-st8943791?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 04:43:08 GMT",
+      "description": "• Siły Zbrojne Izraela ogłosiły rozpoczęcie nowej fali ataków na Bejrut.\n• Rakiety zniszczyły budynek w centrum miasta.\n• Zniszczony budynek znajduje się niespełna kilometr od siedziby libańskiego rządu.\n��� Reuters przekazał informację o zniszczeniu budynku.\n• Najnowsze informacje o wojnie na Bliskim Wschodzie są relacjonowane w TVN24.\n• Najnowsze informacje o wojnie na Bliskim Wschodzie są również dostępne na tvn24.pl.",
+      "originalTitle": "Nowa fala nalotów. Rakiety spadły w centrum stolicy",
+      "originalDescription": "Siły Zbrojne Izraela ogłosiły rozpoczęcie nowej fali ataków na Bejrut. Wkrótce potem Reuters przekazał, że rakiety zniszczyły budynek w centrum miasta, niespełna kilometr od siedziby libańskiego rządu. Najnowsze informacje o wojnie na Bliskim Wschodzie relacjonujemy w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Wyrok 13 lat więzienia za handel ludźmi",
+      "link": "https://tvn24.pl/swiat/13-lat-wiezienia-za-wspolczesne-niewolnictwo-wyrok-w-szokujacej-sprawie-st8944822?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 17:21:45 GMT",
+      "description": "• Amanda Wixon ma 56 lat.\n• Została skazana na 13 lat więzienia.\n• Była oskarżona o znęcanie się nad powierzoną jej opieką kobietą.\n• Znęcanie się trwało przez 25 lat.\n• Zarzuty postawione Wixon pochodziły z kategorii współczesnego niewolnictwa.\n• Ofiara była więziona.\n• Ofiara była bita.\n• Ofiara była zmuszana do ciężkiej pracy.\n• W momencie uwolnienia ofiara miała 42 lata.\n• W momencie uwolnienia ofiara nie miała już zębów.",
+      "originalTitle": "13 lat więzienia za współczesne niewolnictwo. Wyrok w szokującej sprawie",
+      "originalDescription": "56-letnia Amanda Wixon została skazana na 13 lat więzienia za znęcanie się na powierzoną jej opiece kobietą przez 25 lat. Szereg zarzutów postawionych Wixon pochodził z kategorii współczesnego niewolnictwa. Kobieta była więziona, bita i zmuszana do ciężkiej pracy. W momencie uwolnienia 42-letnia ofiara nie miała już zębów."
+    },
+    {
+      "title": "Strefa burzowa jest nieruchoma",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-12-03-tam-padal-grad-st8944842?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 13:48:06 GMT",
+      "description": "• Czwartek 12.03 przyniósł pierwsze w tym roku wiosenne burze.\n• W niektórych miejscowościach pojawiały się opady drobnego gradu.",
+      "originalTitle": "Gdzie jest burza? Strefa jest nieruchoma",
+      "originalDescription": "Gdzie jest burza? Czwartek 12.03 przyniósł pierwsze w tym roku wiosenne burze. W niektórych miejscowościach pojawiały się opady drobnego gradu."
+    }
+  ]
 }
