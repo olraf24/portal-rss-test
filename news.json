@@ -1,87 +1,87 @@
 {
-  "lastUpdate": "2026-03-12T11:42:17.707Z",
+  "lastUpdate": "2026-03-12T12:14:50.577Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Brasswood Festival w Sopocie",
+      "title": "Skradziono 500 jajek niespodzianek",
+      "link": "https://tvn24.pl/poznan/gniezno-ukradli-ponad-500-jajek-niespodzianek-st8944226?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:09:53 GMT",
+      "description": "Z gnieźnieńskiego marketu ukradli 532 jajka niespodzianki. Dwaj mężczyźni staną przed sądem, grozi im do pięciu lat więzienia.",
+      "originalTitle": "Ukradli ponad 500 jajek niespodzianek",
+      "originalDescription": "Z gnieźnieńskiego marketu ukradli 532 jajka niespodzianki. Dwaj mężczyźni staną przed sądem, grozi im do pięciu lat więzienia."
+    },
+    {
+      "title": "Bakterie jelitowe produkują substancje ochronne",
+      "link": "https://tvn24.pl/zdrowie/sekret-zdrowych-jelit-ukryty-w-bakteriach-produkuja-tarcze-ochronna-st8944399?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:06:21 GMT",
+      "description": "• Naukowcy z Cedars-Sinai Health Sciences University w USA odkryli, że bakterie jelitowe produkujące kwas nikotynowy, znany jako niacyna lub witamina B3, uruchamiają mechanizm ochronny w okrężnicy.\n• Odkrycie może pomóc w opracowaniu nowych terapii chorób jelit.\n• Chorobami jelit, które mogą być objęte nowymi terapiami, jest między innymi choroba Leśniowskiego-Crohna.",
+      "originalTitle": "Sekret zdrowych jelit ukryty w bakteriach. Produkują \"tarczę ochronną\"",
+      "originalDescription": "Naukowcy z Cedars-Sinai Health Sciences University w USA odkryli, że bakterie jelitowe produkujące kwas nikotynowy, znany jako niacyna lub witamina B3, uruchamiają mechanizm ochronny w okrężnicy. Odkrycie może pomóc w opracowaniu nowych terapii chorób jelit, w tym choroby Leśniowskiego-Crohna."
+    },
+    {
+      "title": "Firmy Big Tech współpracują z Anthropic",
+      "link": "https://tvn24.pl/biznes/tech/firmy-big-tech-popieraja-anthropic-jest-stanowisko-st8944086?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:03:23 GMT",
+      "description": "• Największe amerykańskie firmy technologiczne wyraziły poparcie dla spółki Anthropic w procesie sądowym.\n• Proces sądowy jest prowadzony przeciwko administracji prezydenta Stanów Zjednoczonych Donalda Trumpa.\n• Spółka Anthropic jest producentem modelu Claude.\n• Amerykański rząd uznał Anthropic za zagrożenie dla łańcucha dostaw.",
+      "originalTitle": "Sojusznicy Anthropic. Big Techy jednoczy się przeciwko Pentagonowi",
+      "originalDescription": "Największe amerykańskie firmy technologiczne wyraziły poparcie dla spółki Anthropic w procesie sądowym przeciwko administracji prezydenta Stanów Zjednoczonych Donalda Trumpa. Producent modelu Claude został uznany przez amerykański rząd za zagrożenie dla łańcucha dostaw."
+    },
+    {
+      "title": "Domowa wytwórnia narkotyków, trzy osoby zatrzymane",
+      "link": "https://tvn24.pl/szczecin/wytwornia-narkotykow-zlikwidowana-st8944324?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:00:25 GMT",
+      "description": "Domową wytwórnię narkotyków zlikwidowali policjanci w jednej z podszczecińskich miejscowości. W mieszkaniu był kompletny zestaw narzędzi do produkcji i przechowywania środków odurzających.",
+      "originalTitle": "Domowa wytwórnia narkotyków, trzy osoby zatrzymane",
+      "originalDescription": "Domową wytwórnię narkotyków zlikwidowali policjanci w jednej z podszczecińskich miejscowości. W mieszkaniu był kompletny zestaw narzędzi do produkcji i przechowywania środków odurzających."
+    },
+    {
+      "title": "\"Decyzja wydana dla fermy kur, a wykorzystana do budowy elektrowni\"",
+      "link": "https://tvn24.pl/krakow/metro-w-krakowie-czy-powstanie-co-z-decyzja-srodowiskowa-st8942389?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 11:53:09 GMT",
+      "description": "Miała być linia ze wschodu na zachód, premetro i pierwszy wykop do 2028 roku. Będzie wschód-południe, ciężkie - chociaż wciąż lżejsze niż w Warszawie - metro i nikła szansa na wbicie łopat w tej dekadzie. Jedno się nie zmienia - próba zaprowadzenia w Krakowie rewolucji transportowej budzi emocje.",
+      "originalTitle": "\"Decyzja wydana dla fermy kur, a wykorzystana do budowy elektrowni\"",
+      "originalDescription": "Miała być linia ze wschodu na zachód, premetro i pierwszy wykop do 2028 roku. Będzie wschód-południe, ciężkie - chociaż wciąż lżejsze niż w Warszawie - metro i nikła szansa na wbicie łopat w tej dekadzie. Jedno się nie zmienia - próba zaprowadzenia w Krakowie rewolucji transportowej budzi emocje."
+    },
+    {
+      "title": "Projekt prezydenta \"bardzo się podoba\", ale skąd pieniądze? Poseł PiS: z banku",
+      "link": "https://tvn24.pl/polska/projekt-prezydenta-bardzo-sie-podoba-ale-skad-pieniadze-posel-pis-z-banku-st8944153?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 11:43:49 GMT",
+      "description": "Skąd Narodowy Bank Polski weźmie pieniądze na sfinansowanie \"Polski SAFE zero procent\"? To pytanie zadał posłom Prawa i Sprawiedliwości autor podcast \"News Michalskiego\" w TVN24+ Patryk Michalski. W ich wypowiedziach pojawiła się aprobata dla prezydenckiego projektu, ale o odpowiedź w sprawie pozyskania środków na pokrycie projektu było już trudniej.",
+      "originalTitle": "Projekt prezydenta \"bardzo się podoba\", ale skąd pieniądze? Poseł PiS: z banku",
+      "originalDescription": "Skąd Narodowy Bank Polski weźmie pieniądze na sfinansowanie \"Polski SAFE zero procent\"? To pytanie zadał posłom Prawa i Sprawiedliwości autor podcast \"News Michalskiego\" w TVN24+ Patryk Michalski. W ich wypowiedziach pojawiła się aprobata dla prezydenckiego projektu, ale o odpowiedź w sprawie pozyskania środków na pokrycie projektu było już trudniej."
+    },
+    {
+      "title": "Podejrzany o kradzież auta rodziny premiera otrzymał zarzuty",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-podejrzany-o-kradziez-lexusa-rodziny-premiera-z-kolejnymi-zarzutami-st8944085?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 11:42:44 GMT",
+      "description": "Podejrzany o kradzież Lexusa należącego do rodziny premiera Donalda Tuska usłyszał kolejne zarzuty. Jak poinformowała prokuratura, Łukaszowi W. przedstawiono ich już pięć, a śledztwo potrwa do końca czerwca.",
+      "originalTitle": "Podejrzany o kradzież auta rodziny premiera z kolejnymi zarzutami",
+      "originalDescription": "Podejrzany o kradzież Lexusa należącego do rodziny premiera Donalda Tuska usłyszał kolejne zarzuty. Jak poinformowała prokuratura, Łukaszowi W. przedstawiono ich już pięć, a śledztwo potrwa do końca czerwca."
+    },
+    {
+      "title": "Susza \"wisi w powietrzu\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/czy-bedzie-susza-hydrolog-o-sytuacji-hydrologicznej-polski-st8944154?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 11:42:24 GMT",
+      "description": "Czy po mroźnej i obfitej w opady śniegu zimie będziemy mierzyć się suszą? O sytuacji hydrologicznej w Polsce mówił profesor Paweł Rowiński, dyrektor Instytutu Geofizyki Polskiej Akademii Nauk.",
+      "originalTitle": "Susza \"wisi w powietrzu\"",
+      "originalDescription": "Czy po mroźnej i obfitej w opady śniegu zimie będziemy mierzyć się suszą? O sytuacji hydrologicznej w Polsce mówił profesor Paweł Rowiński, dyrektor Instytutu Geofizyki Polskiej Akademii Nauk."
+    },
+    {
+      "title": "Wyprzedzała autobus, jechała na czołówkę z radiowozem",
+      "link": "https://tvn24.pl/bialystok/sztabin-wyprzedzala-autobus-jechala-na-czolowke-z-radiowozem-st8944357?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 11:40:27 GMT",
+      "description": "Na czołowe zderzenie z policjantami w nieoznakowanym radiowozie jechała kierująca autem osobowym, która wyprzedzała na zakręcie autobus. Zawrócili i pojechali za nią.",
+      "originalTitle": "Wyprzedzała autobus, jechała na czołówkę z radiowozem",
+      "originalDescription": "Na czołowe zderzenie z policjantami w nieoznakowanym radiowozie jechała kierująca autem osobowym, która wyprzedzała na zakręcie autobus. Zawrócili i pojechali za nią."
+    },
+    {
+      "title": "Brasswood Festival w nowej odsłonie. Muzyka filmowa w Sopocie",
       "link": "https://tvn24.pl/trojmiasto/sopot-brasswood-soundtracks-2026-muzyka-filmowa-zabrzmi-w-operze-lesnej-st8944186?source=rss",
       "pubDate": "Thu, 12 Mar 2026 11:35:47 GMT",
-      "description": "• Brasswood Festival w tym roku stawia na muzykę filmową.\n• 12 września odbędzie się wydarzenie związane z festiwalem.\n• Wydarzenie odbędzie się w Operze Leśnej.\n• Nazwa wydarzenia to Brasswood Soundtracks.\n• Wydarzenie łączy koncerty orkiestr, występy akustyczne i spotkania z twórcami ścieżek dźwiękowych.",
+      "description": "Brasswood Festival w tym roku stawia na muzykę filmową. 12 września w Operze Leśnej odbędzie się Brasswood Soundtracks - wydarzenie łączące koncerty orkiestr, występy akustyczne i spotkania z twórcami ścieżek dźwiękowych.",
       "originalTitle": "Brasswood Festival w nowej odsłonie. Muzyka filmowa w Sopocie",
       "originalDescription": "Brasswood Festival w tym roku stawia na muzykę filmową. 12 września w Operze Leśnej odbędzie się Brasswood Soundtracks - wydarzenie łączące koncerty orkiestr, występy akustyczne i spotkania z twórcami ścieżek dźwiękowych."
-    },
-    {
-      "title": "Zatrzymano poszukiwanego za gwałt",
-      "link": "https://tvn24.pl/katowice/dabrowa-gornicza-byl-poszukiwany-za-gwalt-znalezli-go-lowcy-glow-st8944231?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 11:30:46 GMT",
-      "description": "• Śląscy \"łowcy głów\" zatrzymali 32-latka.\n• Zatrzymany był poszukiwany listem gończym.\n• Powodem poszukiwania było przestępstwo seksualne.\n• Zatrzymany trafił już do więzienia.",
-      "originalTitle": "\"Łowcy głów\" zatrzymali poszukiwanego za gwałt",
-      "originalDescription": "Śląscy \"łowcy głów\" zatrzymali 32-latka poszukiwanego listem gończym za przestępstwo seksualne. Trafił już do więzienia."
-    },
-    {
-      "title": "Zasłabnięcie kobiety na wiecu, odtworzono \"Ave Maria",
-      "link": "https://tvn24.pl/swiat/usa-trump-przerwal-wystapienie-po-czym-zaproponowal-odtworzenie-ave-maria-st8944164?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 11:23:58 GMT",
-      "description": "• Donald Trump przerwał swoje środowe wystąpienie w Kentucky.\n• Przyczyną przerwy było zasłabnięcie kobiety na widowni.\n• Kobieta potrzebowała pomocy medycznej.\n• Prezydent USA przez chwilę milczał po incydencie.\n• Po chwili milczenia Donald Trump poprosił o muzykę.",
-      "originalTitle": "Kobieta zasłabła w czasie wiecu. Trump poprosił o zagranie \"Ave Maria\"",
-      "originalDescription": "Donald Trump przerwał swoje środowe wystąpienie w Kentucky, gdy kobieta na widowni zasłabła i potrzebowała pomocy medycznej. Prezydent USA przez chwilę milczał, po czym poprosił o muzykę."
-    },
-    {
-      "title": "Papież mianował nowego metropolitę łódzkiego",
-      "link": "https://tvn24.pl/lodz/papiez-mianowal-nowego-metropolite-lodzkiego-st8944369?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 11:12:16 GMT",
-      "description": "Papież Leon XIV mianował arcybiskupem metropolitą łódzkim kardynała Konrada Krajewskiego. Decyzję ogłosiła w południe nuncjatura. Kardynał Konrad Krajewski 2013 roku pełnił funkcję Jałmużnika Jego Świątobliwości, a od 2022 roku - prefekta Dykasterii ds. Posługi Miłosierdzia.",
-      "originalTitle": "Papież mianował nowego metropolitę łódzkiego",
-      "originalDescription": "Papież Leon XIV mianował arcybiskupem metropolitą łódzkim kardynała Konrada Krajewskiego. Decyzję ogłosiła w południe nuncjatura. Kardynał Konrad Krajewski 2013 roku pełnił funkcję Jałmużnika Jego Świątobliwości, a od 2022 roku - prefekta Dykasterii ds. Posługi Miłosierdzia."
-    },
-    {
-      "title": "Minister energii przedstawił plan uwolnienia paliw",
-      "link": "https://tvn24.pl/biznes/z-kraju/polskie-rezerwy-ropy-milosz-motyka-komentuje-kryzys-na-rynku-paliw-st8944269?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 11:09:01 GMT",
-      "description": "• Minister energii to Miłosz Motyka.\n• Rząd nie planuje obecnie uwalniania zapasów interwencyjnych ropy naftowej.\n• Sytuacja na rynkach paliw jest napięta.\n• Krajowe rezerwy są dobrze przygotowane.\n• Harmonogram dostaw jest dobrze przygotowany.",
-      "originalTitle": "Minister energii o sytuacji na rynku paliw: plan uwolnienia jest przygotowany",
-      "originalDescription": "Minister energii Miłosz Motyka poinformował, że rząd nie planuje obecnie uwalniania zapasów interwencyjnych ropy naftowej mimo napiętej sytuacji na rynkach paliw. Szef resortu zapewnił jednocześnie, że krajowe rezerwy oraz harmonogram dostaw są dobrze przygotowane."
-    },
-    {
-      "title": "Osoba straciła wzrok przed dorosłością",
-      "link": "https://tvn24.pl/zdrowie/swiatowy-tydzien-jaskry-jaskra-dziecieca-objawy-i-leczenie-okulista-wyjasnia-st8944067?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 11:02:21 GMT",
-      "description": "Adrian Now nie widzi od kilkunastu lat. Jego problemy okulistyczne zaczęły się już kiedy miał kilka miesięcy. Okazało się, że choruje na jaskrę wtórną. Krople do oczu stały się częścią jego codzienności. Przeszedł też różne operacje. Jaskra dziecięca może być wrodzona lub wtórna. Ta druga jest trudniejsza do zdiagnozowania",
-      "originalTitle": "Stracił wzrok jeszcze przed dorosłością. \"Na początku oszukiwałem się, że widzę\"",
-      "originalDescription": "Adrian Now nie widzi od kilkunastu lat. Jego problemy okulistyczne zaczęły się już kiedy miał kilka miesięcy. Okazało się, że choruje na jaskrę wtórną. Krople do oczu stały się częścią jego codzienności. Przeszedł też różne operacje. Jaskra dziecięca może być wrodzona lub wtórna. Ta druga jest trudniejsza do zdiagnozowania"
-    },
-    {
-      "title": "Zmiana na stanowisku wiceburmistrza",
-      "link": "https://tvn24.pl/lublin/janow-lubelski-syn-zastapil-ojca-na-stanowisku-wiceburmistrza-burmistrz-mowi-ze-podjal-dobra-decyzje-st8943973?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 11:01:00 GMT",
-      "description": "• Wiceburmistrz Janowa Lubelskiego Czesław Krzysztoń odszedł na emeryturę.\n• Na stanowisku wiceburmistrza Czesława Krzysztonia zastąpił jego syn, Tomasz Krzysztoń.\n• Tomasz Krzysztoń zapewnia, że jego ojciec nie miał wpływu na jego nominację.\n• Tomasz Krzysztoń nie był pierwszym wyborem burmistrza.\n• Tomasz Krzysztoń podjął wyzwanie objęcia stanowiska wiceburmistrza.\n• Tomasz Krzysztoń chce sprostać wyzwaniu objęcia stanowiska wiceburmistrza.",
-      "originalTitle": "Wiceburmistrz odszedł na emeryturę, zastąpił go syn",
-      "originalDescription": "Wiceburmistrz Janowa Lubelskiego Czesław Krzysztoń odszedł na emeryturę, a na stanowisku zastąpił go syn - Tomasz Krzysztoń. Zapewnia, że jego ojciec nie miał wpływu na tę nominację. - Nie byłem zresztą pierwszym wyborem burmistrza. Podjąłem to wyzwanie i chcę mu sprostać - podkreśla nowy wiceburmistrz."
-    },
-    {
-      "title": "Izraelskie wojsko planuje rozszerzenie operacji",
-      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-12-marca-najnowsze-informacje-st8943791?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 04:43:08 GMT",
-      "description": "Izraelskie wojsko otrzymało polecenie rozszerzenia działań w Libanie - poinformował minister obrony kraju Israel Kac. Nastąpiło to po przeprowadzeniu w nocy przez Hezbollah intensywnego ostrzału rakietowego kraju. Najnowsze informacje o wojnie na Bliskim Wschodzie relacjonujemy w TVN24 oraz na tvn24.pl.",
-      "originalTitle": "Nowy rozkaz dla izraelskiego wojska. Planują rozszerzenie operacji",
-      "originalDescription": "Izraelskie wojsko otrzymało polecenie rozszerzenia działań w Libanie - poinformował minister obrony kraju Israel Kac. Nastąpiło to po przeprowadzeniu w nocy przez Hezbollah intensywnego ostrzału rakietowego kraju. Najnowsze informacje o wojnie na Bliskim Wschodzie relacjonujemy w TVN24 oraz na tvn24.pl."
-    },
-    {
-      "title": "Odnaleziono ciała turystów. \"Przyjechali, by zobaczyć nasz piękny kraj\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-australii-odnaleziono-ciala-turystow-przyjechali-by-zobaczyc-nasz-piekny-kraj-st8943881?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 10:46:45 GMT",
-      "description": "Powódź nawiedziła australijski stan Queensland. Policja odnalazła ciała dwojga turystów, którzy zaginęli w dotkniętym przez żywioł regionie - poinformowały w czwartek lokalne media.",
-      "originalTitle": "Odnaleziono ciała turystów. \"Przyjechali, by zobaczyć nasz piękny kraj\"",
-      "originalDescription": "Powódź nawiedziła australijski stan Queensland. Policja odnalazła ciała dwojga turystów, którzy zaginęli w dotkniętym przez żywioł regionie - poinformowały w czwartek lokalne media."
-    },
-    {
-      "title": "Uciekał przed policją, porzucił auto i zniknął w lesie. Nagranie",
-      "link": "https://tvn24.pl/wroclaw/swidnik-uciekal-przed-policja-porzucil-auto-i-zniknal-w-lesie-nagranie-st8944087?source=rss",
-      "pubDate": "Thu, 12 Mar 2026 10:42:04 GMT",
-      "description": "Przekroczył prędkość, nie zatrzymał się do kontroli, a później porzucił auto i uciekł do lasu. 32-latek został zatrzymany następnego dnia.",
-      "originalTitle": "Uciekał przed policją, porzucił auto i zniknął w lesie. Nagranie",
-      "originalDescription": "Przekroczył prędkość, nie zatrzymał się do kontroli, a później porzucił auto i uciekł do lasu. 32-latek został zatrzymany następnego dnia."
     }
   ]
 }
