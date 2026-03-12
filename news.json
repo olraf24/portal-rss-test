@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-12T14:22:40.393Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-12T14:48:05.011Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Burze z gradem nad Polską",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-12-03-tam-padal-grad-st8944842?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 13:48:06 GMT",
+      "description": "• Czwartek 12.03 przyniósł pierwsze w tym roku wiosenne burze.\n• W niektórych miejscowościach pojawiały się opady drobnego gradu.",
+      "originalTitle": "Gdzie jest burza? Burze z gradem wędrują nad Polską",
+      "originalDescription": "Gdzie jest burza? Czwartek 12.03 przyniósł pierwsze w tym roku wiosenne burze. W niektórych miejscowościach pojawiały się opady drobnego gradu."
+    },
+    {
+      "title": "Opóźnienia w onkologii rosną",
+      "link": "https://tvn24.pl/zdrowie/coraz-wieksze-opoznienia-w-onkologii-skala-problemu-jest-znacznie-wieksza-st8944826?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 14:43:51 GMT",
+      "description": "• Spadła terminowość badań w diagnostyce onkologicznej w porównaniu do lat poprzednich.\n• Ministerstwo Zdrowia poinformowało o spadku terminowości badań w diagnostyce onkologicznej.\n• Badania we wstępnej diagnostyce onkologicznej przeprowadzono terminowo w 58 procent przypadków.\n• W diagnostyce pogłębionej badania przeprowadzono terminowo w 65 procent przypadków.\n• Organizacje pacjenckie uważają, że podane dane są niedoszacowane.\n• Planowane oszczędności mogą pogłębić problem z terminowością badań w diagnostyce onkologicznej.",
+      "originalTitle": "Coraz większe opóźnienia w onkologii. \"Skala problemu jest znacznie większa\"",
+      "originalDescription": "Spadła terminowość badań w diagnostyce onkologicznej w porównaniu do lat poprzednich - poinformowało Ministerstwo Zdrowia. Badania we wstępnej diagnostyce onkologicznej przeprowadzono terminowo w 58 procent przypadków, a w diagnostyce pogłębionej - w 65 procent przypadków. Organizacje pacjenckie ostrzegają: to i tak niedoszacowane dane, a planowane oszczędności tylko pogłębią problem."
+    },
+    {
+      "title": "Spór między firmą kosmetyczną a twórczynią perfum",
+      "link": "https://tvn24.pl/biznes/ze-swiata/estee-lauder-kontra-jo-malone-koncern-estee-lauder-za-uzycie-nazwyska-sklada-pozew-za-kolekcje-jo-loves-dla-zary-st8944904?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 14:21:04 GMT",
+      "description": "• Koncern kosmetyczny Estee Lauder Companies złożył pozew przeciwko brytyjskiej twórczyni perfum Jo Malone.\n• Pozew został złożony również przeciwko marce zapachowej Jo Loves.\n• Pozew obejmuje również brytyjski oddział sieci Zara.\n• Powodem pozwu są zarzuty dotyczące bezprawnego użycia nazwiska Malone na produktach perfumeryjnych popularnej sieciówki.\n• Informacja o pozwie została podana przez firmę w czwartek.",
+      "originalTitle": "Spór o nazwisko. Gigant kosmetyczny kontra twórczyni perfum",
+      "originalDescription": "Koncern kosmetyczny Estee Lauder Companies złożył pozew przeciwko brytyjskiej twórczyni perfum Jo Malone, jej marce zapachowej Jo Loves oraz brytyjskiemu oddziałowi sieci Zara. Powodem są zarzuty dotyczące bezprawnego użycia nazwiska Malone na produktach perfumeryjnych popularnej sieciówki - poinformowała firma w czwartek."
+    },
+    {
+      "title": "Iran reaguje na wypowiedź Trumpa",
+      "link": "https://tvn24.pl/swiat/iran-i-wojna-na-bliskim-wschodzie-relacja-na-zywo-12-marca-najnowsze-informacje-st8943791?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 04:43:08 GMT",
+      "description": "• Przewodniczący Najwyższej Rady Bezpieczeństwa Narodowego Iranu to Ali Laridżani.\n• Ali Laridżani odpowiedział na sugestie prezydenta USA Donalda Trumpa.\n• Prezydent USA Donald Trump sugerował, że mógłby zaatakować irańskie elektrownie.\n• Szef bezpieczeństwa Iranu stwierdził, że potencjalna awaria zasilania to dla Teheranu \"wiele okazji do wytropienia amerykańskich żołnierzy uciekających w bezpieczne miejsce\".\n• Najnowsze informacje o wojnie na Bliskim Wschodzie są relacjonowane w TVN24.\n• Najnowsze informacje o wojnie na Bliskim Wschodzie są również dostępne na tvn24.pl.",
+      "originalTitle": "Iran odpowiada na groźby Trumpa: w pół godziny region pogrąży ciemność",
+      "originalDescription": "Przewodniczący Najwyższej Rady Bezpieczeństwa Narodowego Iranu Ali Laridżani odpowiedział na sugestie prezydenta USA Donalda Trumpa, że ten mógłby zaatakować irańskie elektrownie. Szef bezpieczeństwa Iranu odpowiedział, że potencjalna awaria zasilania to dla Teheranu \"wiele okazji do wytropienia amerykańskich żołnierzy uciekających w bezpieczne miejsce\". Najnowsze informacje o wojnie na Bliskim Wschodzie relacjonujemy w TVN24 oraz na tvn24.pl."
+    },
+    {
+      "title": "Dron nad kopalnią, wypowiedź szefa MON",
+      "link": "https://tvn24.pl/poznan/galczyce-dron-spadl-w-kopalni-jest-sledztwo-st8944598?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:49:01 GMT",
+      "description": "Na terenie kopalni węgla brunatnego w Galczycach w powiecie konińskim (Wielkopolskie) znaleziono drona. Trwa ustalanie okoliczności zdarzenia. Minister obrony narodowej Władysław Kosiniak-Kamysz powiedział, że to dron \"najprawdopodobniej realizujący misję na rzecz naszych adwersarzy ze wschodu\". Jak dowiedziała się nieoficjalnie PAP, znaleziony dron to najprawdopodobniej jeden z tych, które wleciały w polską przestrzeń powietrzną kraju we wrześniu ubiegłego roku.",
+      "originalTitle": "Dron na terenie kopalni. Szef MON o \"adwersarzach ze wschodu\"",
+      "originalDescription": "Na terenie kopalni węgla brunatnego w Galczycach w powiecie konińskim (Wielkopolskie) znaleziono drona. Trwa ustalanie okoliczności zdarzenia. Minister obrony narodowej Władysław Kosiniak-Kamysz powiedział, że to dron \"najprawdopodobniej realizujący misję na rzecz naszych adwersarzy ze wschodu\". Jak dowiedziała się nieoficjalnie PAP, znaleziony dron to najprawdopodobniej jeden z tych, które wleciały w polską przestrzeń powietrzną kraju we wrześniu ubiegłego roku."
+    },
+    {
+      "title": "Nowy przywódca Iranu o cieśninie Ormuz",
+      "link": "https://tvn24.pl/biznes/ze-swiata/narzedzie-nacisku-na-wroga-nowy-przywodca-iranu-o-zamknieciu-ciesniny-ormuz-st8944908?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 14:03:28 GMT",
+      "description": "Modżtaba Chamenei - nowy najwyższy przywódca Iranu, w swoim inauguracyjnym wystąpieniu zadeklarował utrzymanie blokady cieśniny Ormuz jako narzędzia nacisku na państwa Zachodu. Zapowiedział również kontynuowanie ataków na amerykańskie bazy. Do sprawy kluczowej dla handlu surowcami energetycznymi cieśniny odniósł się w czwartek również minister energii USA Chris Wright.",
+      "originalTitle": "\"Narzędzie nacisku na wroga\". Nowy przywódca Iranu o zamknięciu cieśniny Ormuz",
+      "originalDescription": "Modżtaba Chamenei - nowy najwyższy przywódca Iranu, w swoim inauguracyjnym wystąpieniu zadeklarował utrzymanie blokady cieśniny Ormuz jako narzędzia nacisku na państwa Zachodu. Zapowiedział również kontynuowanie ataków na amerykańskie bazy. Do sprawy kluczowej dla handlu surowcami energetycznymi cieśniny odniósł się w czwartek również minister energii USA Chris Wright."
+    },
+    {
+      "title": "Giertych odzyskał funkcję wiceprzewodniczącego klubu",
+      "link": "https://tvn24.pl/polska/roman-giertych-odzyskal-funkcje-wiceprzewodniczacego-klubu-st8944891?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 13:59:18 GMT",
+      "description": "Roman Giertych został dwunastym wiceprzewodniczącym klubu parlamentarnego Koalicji Obywatelskiej. Poseł pełnił już taką funkcję w tej kadencji, ale został jej pozbawiony za absencję w trakcie jednego z głosowań.",
+      "originalTitle": "Giertych odzyskał funkcję wiceprzewodniczącego klubu",
+      "originalDescription": "Roman Giertych został dwunastym wiceprzewodniczącym klubu parlamentarnego Koalicji Obywatelskiej. Poseł pełnił już taką funkcję w tej kadencji, ale został jej pozbawiony za absencję w trakcie jednego z głosowań."
+    },
+    {
+      "title": "Ulegli presji Trumpa. Zainwestują miliardy w USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/korea-poludniowa-ulega-presji-trumpa-zainwestuja-miliardy-w-usa-st8944471?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 13:47:35 GMT",
+      "description": "Południowokoreański parlament zgodził się na realizację inwestycji w Stanach Zjednoczonych wartych setki miliardów dolarów. Umowa handlowa obejmuje między innymi 200 miliardów na branże strategiczne, takie jak półprzewodniki czy sztuczna inteligencja. Ruch ten odczytywany jest jako reakcja na rosnącą presję ze strony administracji USA.",
+      "originalTitle": "Ulegli presji Trumpa. Zainwestują miliardy w USA",
+      "originalDescription": "Południowokoreański parlament zgodził się na realizację inwestycji w Stanach Zjednoczonych wartych setki miliardów dolarów. Umowa handlowa obejmuje między innymi 200 miliardów na branże strategiczne, takie jak półprzewodniki czy sztuczna inteligencja. Ruch ten odczytywany jest jako reakcja na rosnącą presję ze strony administracji USA."
+    },
+    {
+      "title": "W sali koncertowej zginęło 150 osób. Dożywocia za masakrę pod Moskwą",
+      "link": "https://tvn24.pl/swiat/rosja-dozywocia-za-masakre-w-sali-koncertowej-crocus-city-hall-pod-moskwa-st8944566?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 13:40:11 GMT",
+      "description": "Sprawcy ataku terrorystycznego na salę koncertową w podmoskiewskim Krasnogorsku usłyszeli wyroki. W 2024 roku otworzyli ogień do tłumu zgromadzonego w Crocus City Hall, a następnie podpalili budynek. Zamach, w którym zginęło 150 osób, uznawany jest za jeden z najtragiczniejszych w historii współczesnej Rosji.",
+      "originalTitle": "W sali koncertowej zginęło 150 osób. Dożywocia za masakrę pod Moskwą",
+      "originalDescription": "Sprawcy ataku terrorystycznego na salę koncertową w podmoskiewskim Krasnogorsku usłyszeli wyroki. W 2024 roku otworzyli ogień do tłumu zgromadzonego w Crocus City Hall, a następnie podpalili budynek. Zamach, w którym zginęło 150 osób, uznawany jest za jeden z najtragiczniejszych w historii współczesnej Rosji."
+    },
+    {
+      "title": "Odpowie za zabicie psa sąsiada. Twierdzi, że bronił swojego czworonoga",
+      "link": "https://tvn24.pl/rzeszow/lezajsk-odpowie-za-zabicie-psa-sasiada-i-znecanie-sie-nad-drugim-twierdzi-ze-bronil-swojego-czworonoga-st8944816?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 13:35:54 GMT",
+      "description": "Do sądu wpłynął akt oskarżenia wobec 21-latka z Leżajska (Podkarpackie), który odpowie za zabicie psa należącego do sąsiada z osiedla i znęcanie się nad jego drugim psem. Mężczyzna częściowo przyznał się do winy.",
+      "originalTitle": "Odpowie za zabicie psa sąsiada. Twierdzi, że bronił swojego czworonoga",
+      "originalDescription": "Do sądu wpłynął akt oskarżenia wobec 21-latka z Leżajska (Podkarpackie), który odpowie za zabicie psa należącego do sąsiada z osiedla i znęcanie się nad jego drugim psem. Mężczyzna częściowo przyznał się do winy."
+    }
+  ]
 }
