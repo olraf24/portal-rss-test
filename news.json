@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-12T07:21:58.115Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-12T07:47:38.021Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zmiana temperatury w marcu",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-idzie-ochlodzenie-temperatura-spadnie-marcowe-wahniecie-temperatury-szykuje-nam-sie-zmiana-st8943812?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 07:40:31 GMT",
+      "description": "• Ciepłe powietrze znad południowej Europy napływać będzie do Polski jeszcze przez parę dni.\n• Taka aura utrzyma się do weekendu.\n• Po weekendzie czeka nas zmiana.\n• O zbliżającym się ochłodzeniu mówi�� na antenie TVN24 Tomasz Wasilewski.\n• Tomasz Wasilewski jest synoptykiem.\n• Tomasz Wasilewski jest prezentorem tvnmeteo.pl.",
+      "originalTitle": "Marcowe wahnięcie temperatury. \"Szykuje nam się zmiana\"",
+      "originalDescription": "Ciepłe powietrze znad południowej Europy napływać będzie do Polski jeszcze przez parę dni. Taka aura utrzyma się do weekendu, a po nim czeka nas zmiana. O zbliżającym się ochłodzeniu mówił na antenie TVN24 Tomasz Wasilewski, synoptyk i prezenter tvnmeteo.pl."
+    },
+    {
+      "title": "Śmierć 24-latki, śledztwo w sprawie 19-latka",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/torun-klaudia-zginela-po-brutalnym-ataku-sledczy-wciaz-czekaja-na-opinie-bieglych-st8942082?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 07:34:58 GMT",
+      "description": "• Śledczy wciąż czekają na opinię sądowo-psychiatryczną biegłych w sprawie 19-letniego Wenezuelczyka.\n• Podejrzany jest 19-letni Wenezuelczyk.\n• Wenezuelczyk jest podejrzanym o zabójstwo.\n• Ofiarą zabójstwa jest 24-letnia Klaudia K.\n• Zabójstwo miało miejsce w Toruniu.\n• Śledztwo zostało przedłużone.\n• Śledztwo zostało przedłużone do czerwca.",
+      "originalTitle": "24-letnia Klaudia zmarła po brutalnym ataku. Śledczy czekają na opinię o 19-latku",
+      "originalDescription": "Śledczy wciąż czekają na opinię sądowo-psychiatryczną biegłych w sprawie 19-letniego Wenezuelczyka podejrzanego o zabójstwo w Toruniu 24-letniej Klaudii K. Śledztwo zostało przedłużone do czerwca."
+    },
+    {
+      "title": "Zakonnice opuściły klasztor",
+      "link": "https://tvn24.pl/swiat/hiszpania-zbuntowane-zakonnice-z-belorado-opuscily-klasztor-st8941353?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 07:34:12 GMT",
+      "description": "• O zakonnicach z hiszpańskiego Belorado w ostatnich latach pisały media na całym świecie.\n• Na grupę buntowniczek z zakonu Ubogich Sióstr Świętej Klary w 2024 roku została nałożona ekskomunika.\n• Byłe klaryski w tym tygodniu opuściły swój klasztor przed planowaną eksmisją.\n• Informację o opuszczeniu klasztoru przez byłe klaryski podaje \"El Pais\".",
+      "originalTitle": "Zbuntowane zakonnice opuściły klasztor",
+      "originalDescription": "O zakonnicach z hiszpańskiego Belorado w ostatnich latach pisały media na całym świecie. Na grupę buntowniczek z zakonu Ubogich Sióstr Świętej Klary w 2024 roku została nałożona ekskomunika. Byłe klaryski w tym tygodniu opuściły swój klasztor przed planowaną eksmisją - pisze \"El Pais\"."
+    },
+    {
+      "title": "RPP: brak informacji od Adama Glapińskiego",
+      "link": "https://tvn24.pl/polska/czlonek-rpp-ludwik-kotecki-adam-glapinski-nas-o-tym-nie-informowal-st8943849?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 07:34:07 GMT",
+      "description": "• Jesteśmy niedoinformowani.\n• Zakładam, że ta koncepcja może jeszcze nie była gotowa w marcu.\n• Ludwik Kotecki jest członkiem Rady Polityki Pieniężnej.\n• Ludwik Kotecki wypowiedział si�� w \"Rozmowie Piaseckiego\".\n• Ludwik Kotecki został pytany o kwestię finansowania projektu \"polskiego SAFE zero procent\".\n• Ludwik Kotecki ocenił, że \"to jednak była chyba inicjatywa prezydencka, a nie Narodowego Banku Polskiego\".",
+      "originalTitle": "Członek RPP: Adam Glapiński w ogóle nas o tym nie informował",
+      "originalDescription": "Jesteśmy niedoinformowani. Zakładam, że ta koncepcja może jeszcze nie była gotowa w marcu - powiedział w \"Rozmowie Piaseckiego\" członek Rady Polityki Pieniężnej Ludwik Kotecki pytany o kwestię finansowania projektu \"polskiego SAFE zero procent\". Ocenił, że \"to jednak była chyba inicjatywa prezydencka, a nie Narodowego Banku Polskiego\"."
+    },
+    {
+      "title": "Policja opublikowała nowy wizerunek poszukiwanego",
+      "link": "https://tvn24.pl/lubuskie/gorzow-wielkopolski-archiwum-x-wraca-do-sprawy-przestepstwa-seksualnego-z-2012-r-st8943842?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 07:08:43 GMT",
+      "description": "• Lubuscy policjanci wrócili do sprawy przestępstwa seksualnego sprzed 14 lat.\n• Napastnik próbował okaleczyć oczy swojej ofiary, aby nie mogła go rozpoznać.\n• Policjantom z Archiwum X udało się stworzyć nowy, bardziej czytelny wizerunek poszukiwanego mężczyzny.",
+      "originalTitle": "Próbował okaleczyć jej oczy, by go nie rozpoznała. Stworzyli nowy wizerunek poszukiwanego",
+      "originalDescription": "Lubuscy policjanci wrócili do sprawy przestępstwa seksualnego sprzed 14 lat. Napastnik, by jego ofiara nie mogła go rozpoznać, próbował okaleczyć jej oczy. Teraz policjantom z Archiwum X, którzy wrócili do sprawy, udało się stworzyć nowy, bardziej czytelny wizerunek poszukiwanego mężczyzny."
+    },
+    {
+      "title": "Rada Warszawy rozpatrzy nocną ciszę alkoholową",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nocna-prohibicja-decyduja-radni-st8943805?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 07:07:44 GMT",
+      "description": "Radni zajmą się w czwartek projektem uchwały dotyczącym nocnego ograniczenia sprzedaży alkoholu w całej Warszawie. Pozytywnie zaopiniowały go wszystkie dzielnice. Nowe przepisy mają wejść w życie 1 czerwca.",
+      "originalTitle": "Nocna cisza alkoholowa w całym mieście. Dzielnice są na tak, pora na ruch Rady Warszawy",
+      "originalDescription": "Radni zajmą się w czwartek projektem uchwały dotyczącym nocnego ograniczenia sprzedaży alkoholu w całej Warszawie. Pozytywnie zaopiniowały go wszystkie dzielnice. Nowe przepisy mają wejść w życie 1 czerwca."
+    },
+    {
+      "title": "Atak i odpowiedź Izraela",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-hezbollah-wystrzelil-rakiety-w-strone-izraela-przeprowadzono-serie-atakow-odwetowych-na-liban-st8943794?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 06:25:38 GMT",
+      "description": "• W środę wieczorem Hezbollah przeprowadził skoordynowany z Iranem atak na Izrael.\n• W kierunku północy kraju wystrzelono 100 rakiet.\n• Był to największy taki nalot od początku obecnej wojny.\n• Informację o ataku podał Times of Israel.",
+      "originalTitle": "Pierwszy taki atak od początku wojny. Izrael szybko odpowiedział",
+      "originalDescription": "W środę wieczorem Hezbollah przeprowadził skoordynowany z Iranem atak na Izrael. W kierunku północy kraju wystrzelono 100 rakiet i był to największy taki nalot od początku obecnej wojny - podał Times of Israel."
+    },
+    {
+      "title": "Cena ropy przekroczyła 100 dolarów",
+      "link": "https://tvn24.pl/biznes/rynki/cena-ropy-znow-przekroczyla-100-dolarow-za-barylke-st8943804?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 06:24:22 GMT",
+      "description": "• Cena ropy w czwartek nad ranem przekroczyła 100 dolarów za baryłkę.\n• Decyzje krajów i Międzynarodowej Agencji Energetycznej dotyczyły uwolnienia rezerw surowca.\n• Obawy o dostawy surowca nie zostały złagodzone pomimo decyzji o uwolnieniu rezerw.\n• Wojna pomiędzy Stanami Zjednoczonymi i Izraelem a Iranem sparaliżowała dostawy surowca.",
+      "originalTitle": "Cena ropy znów przekroczyła 100 dolarów za baryłkę",
+      "originalDescription": "Cena ropy w czwartek nad ranem znów przekroczyła 100 dolarów za baryłkę. Decyzje krajów i Międzynarodowej Agencji Energetycznej o uwolnieniu rezerw surowca nie złagodziły obaw o dostawy, które sparaliżowane zostały przez wojnę Stanów Zjednoczonych i Izraela z Iranem."
+    },
+    {
+      "title": "Sezon alergii trwa od stycznia do września",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/od-stycznia-do-wrzesnia-tyle-moze-trwac-sezon-alergii-st8943803?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 06:21:15 GMT",
+      "description": "Wielkimi krokami wkraczamy w wiosnę. To czas, kiedy rośliny zaczynają budzić się do życia i intensywnie pylić. Doktor habilitowana Joanna Glück z Uniwersyteckiego Centrum Klinicznego w Katowicach mówiła o tym, że sezon alergii trwać może w Polsce nawet pół roku.",
+      "originalTitle": "Od stycznia do września. Tyle może trwać sezon alergii",
+      "originalDescription": "Wielkimi krokami wkraczamy w wiosnę. To czas, kiedy rośliny zaczynają budzić się do życia i intensywnie pylić. Doktor habilitowana Joanna Glück z Uniwersyteckiego Centrum Klinicznego w Katowicach mówiła o tym, że sezon alergii trwać może w Polsce nawet pół roku."
+    },
+    {
+      "title": "Zamkną Białobrzeską, autobusy zmienią trasy",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-zamkna-bialobrzeska-na-miesiac-objazdy-st8943577?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 06:18:54 GMT",
+      "description": "W związku z budową trasy tramwajowej do Dworca Zachodniego, w nocy z piątku na sobotę zamknięta zostanie ulica Białobrzeska w kierunku Opaczewskiej. Autobusy trzech linii zmienią trasy. Prace zaplanowano do drugiej połowy kwietnia.",
+      "originalTitle": "Zamkną Białobrzeską, autobusy zmienią trasy",
+      "originalDescription": "W związku z budową trasy tramwajowej do Dworca Zachodniego, w nocy z piątku na sobotę zamknięta zostanie ulica Białobrzeska w kierunku Opaczewskiej. Autobusy trzech linii zmienią trasy. Prace zaplanowano do drugiej połowy kwietnia."
+    }
+  ]
 }
