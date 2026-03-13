@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-13T14:46:16.696Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-13T15:18:32.749Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Grafficiarze uszkodzili pociąg metra",
+      "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-pomazali-pociag-metra-zarzuty-i-wniosek-o-areszt-dla-grafficiarzy-z-hiszpanii-st8946868?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 15:08:31 GMT",
+      "description": "• Czworo hiszpańskich grafficiarzy podejrzanych o pomazanie wagonu metra usłyszało zarzuty.\n• Zarzuty dotyczą umyślnego zakłócenia funkcjonowania transportu publicznego.\n• Zarzuty dotyczą również zniszczenia mienia.\n• Prokurator zawnioskował o tymczasowy areszt.\n• Straty oszacowano na ponad 90 tysięcy złotych.",
+      "originalTitle": "Pomazali pociąg metra. Zarzuty dla grafficiarzy",
+      "originalDescription": "Czworo hiszpańskich grafficiarzy podejrzanych o pomazanie wagonu metra usłyszało zarzuty umyślnego zakłócenia funkcjonowania transportu publicznego oraz zniszczenia mienia. Prokurator zawnioskował o tymczasowy areszt. Straty oszacowano na ponad 90 tysięcy złotych."
+    },
+    {
+      "title": "Zniszczenia w Norwegii po burzy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-w-norwegii-powalone-drzewa-zerwane-dachy-brak-pradu-nawalnica-siala-spustoszenie-st8946674?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 15:07:37 GMT",
+      "description": "Gwałtowna burza nawiedziła południową Norwegię. Tysiące gospodarstw domowych zostało pozbawionych prądu. W stolicy powalone drzewa blokowały drogi, a silny wiatr zerwał dach jednego z kościołów.",
+      "originalTitle": "Burza w Norwegii. Zerwany dach kościoła, osuwiska",
+      "originalDescription": "Gwałtowna burza nawiedziła południową Norwegię. Tysiące gospodarstw domowych zostało pozbawionych prądu. W stolicy powalone drzewa blokowały drogi, a silny wiatr zerwał dach jednego z kościołów."
+    },
+    {
+      "title": "Kolizja na drodze",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/s2-zakret-kolizja-i-korek-st8946916?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 14:51:32 GMT",
+      "description": "• Zderzenie dwóch aut miało miejsce na trasie S2.\n• Korek zaczyna się już przy węźle Przyczółkowa.\n• Długość korka wynosi siedem kilometrów.\n• Kierowcy wyjeżdżający z Warszawy utknęli w zatorze.",
+      "originalTitle": "Kolizja, urwane koło i 10-kilometrowy korek",
+      "originalDescription": "Zderzenie dwóch aut na trasie S2. Korek zaczyna się już przy węźle Przyczółkowa i ma siedem kilometrów. Kierowcy wyjeżdżający z Warszawy utknęli w zatorze."
+    },
+    {
+      "title": "Prezydent wetuje ustawę o SAFE",
+      "link": "https://konkret24.tvn24.pl/polityka/prezydent-wetuje-ustawe-o-safe-szesc-manipulacji-w-oredziu-st8946144?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 14:46:51 GMT",
+      "description": "• Europejski program SAFE grozi Polsce utratą kontroli nad siłami zbrojnymi.\n• Program SAFE jest porównywany do konsumenckiego kredytu frankowego.\n• Prezydent Karol Nawrocki uzasadniał zawetowanie ustawy o SAFE tymi argumentami.\n• Prezydent Karol Nawrocki proponuje ustawę \"SAFE zero procent\" jako alternatywę.\n• Ustawa \"SAFE zero procent\" jest przedstawiana jako jedyna realna alternatywa dla programu SAFE.\n• Prezydent Karol Nawrocki wyjaśnia, że jego tezy nie wprowadzają opinię publiczną w błąd, jednak w artykule wyjaśniono, które z jego tez mogą wprowadzać opinię publiczną w błąd.",
+      "originalTitle": "Prezydent wetuje ustawę o SAFE. Sześć manipulacji w orędziu",
+      "originalDescription": "Europejski program SAFE grozi Polsce utratą kontroli nad siłami zbrojnymi, jest niczym konsumencki kredyt frankowy, a jedyną realną alternatywą jest ustawa \"SAFE zero procent\" - takimi argumentami prezydent Karol Nawrocki uzasadniał zawetowanie ustawy o SAFE. Wyjaśniamy, które jego tezy wprowadzają opinię publiczną w błąd."
+    },
+    {
+      "title": "Emigracja z Bliskiego Wschodu",
+      "link": "https://tvn24.pl/biznes/turystyka/wojna-na-bliskim-wschodzie-uderza-w-ruch-lotniczy-prywatne-czartery-sa-coraz-popularniejsze-i-coraz-drozsze-st8946781?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 14:46:48 GMT",
+      "description": "• Od wybuchu wojny Stanów Zjednoczonych i Izraela z Iranem, trwa eksodus z krajów Bliskiego Wschodu.\n• Gwałtownie wzrósł popyt na prywatne loty czarterowe.\n• Ci, co mogą sobie na nie pozwolić, płacą astronomiczne sumy, żeby opuścić region.\n• Stacja CNN opisuje sytuację w regionie.",
+      "originalTitle": "Powrót za setki tysięcy dolarów. Jak zamożni opuszczają Bliski Wschód",
+      "originalDescription": "Od wybuchu wojny Stanów Zjednoczonych i Izraela z Iranem, trwa eksodus z krajów Bliskiego Wschodu. Gwałtownie wzrósł popyt na prywatne loty czarterowe, a Ci co mogą sobie na nie pozwolić płacą astronomiczne sumy, żeby opuścić region - opisuje stacja CNN."
+    },
+    {
+      "title": "Utrudnienia w bankach",
+      "link": "https://tvn24.pl/biznes/z-kraju/przerwy-serwisowe-w-bankach-14-15-marca-2026-pko-bp-ing-bank-slaski-mbank-bank-millennium-velo-bank-credit-agricole-i-toyota-bank-polska-z-utrudnieniami-st8946836?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 14:19:55 GMT",
+      "description": "• PKO BP jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• ING Bank Śląski jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• mBank jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• Bank Millennium jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• Velo Bank jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• Credit Agricole jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• Toyota Bank Polska jest jednym z banków, które przeprowadzą prace serwisowe w najbliższych dniach.\n• Klienci muszą liczyć się z czasowymi utrudnieniami w dostępie do bankowości internetowej.\n• Klienci muszą liczyć się z czasowymi utrudnieniami w dostępie do bankowości mobilnej.\n• Klienci muszą liczyć się z czasowymi utrudnieniami w realizacji płatności Blik.",
+      "originalTitle": "\"Ważne transakcje zrób wcześniej\". Utrudnienia w bankach",
+      "originalDescription": "PKO BP, ING Bank Śląski, mBank, Bank Millennium, Velo Bank, Credit Agricole i Toyota Bank Polska - to banki, które przeprowadzą prace serwisowe w najbliższych dniach. Klienci muszą liczyć się z czasowymi utrudnieniami w dostępie do bankowości internetowej i mobilnej, czy w realizacji płatności Blik."
+    },
+    {
+      "title": "Niezdrowa dieta niszczy pamięć. Naukowcy: wystarczą cztery dni",
+      "link": "https://tvn24.pl/zdrowie/niezdrowa-dieta-niszczy-pamiec-naukowcy-wystarcza-cztery-dni-st8946431?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 14:19:23 GMT",
+      "description": "Dieta typu \"zachodniego\" - bogata w cukry proste, tłuszcze i produkty wysokoprzetworzone - może negatywnie wpłynąć na działanie mózgu już po kilku dniach. Badania pokazują, że szczególnie cierpi wtedy hipokamp, czyli centrum pamięci i uczenia się. - Dzieje się tak, ponieważ taka dieta zmienia skład mikroflory jelitowej - mówi dr hab. Aneta Brzezicka z Wydziału Psychologii w Warszawie USWPS.",
+      "originalTitle": "Niezdrowa dieta niszczy pamięć. Naukowcy: wystarczą cztery dni",
+      "originalDescription": "Dieta typu \"zachodniego\" - bogata w cukry proste, tłuszcze i produkty wysokoprzetworzone - może negatywnie wpłynąć na działanie mózgu już po kilku dniach. Badania pokazują, że szczególnie cierpi wtedy hipokamp, czyli centrum pamięci i uczenia się. - Dzieje się tak, ponieważ taka dieta zmienia skład mikroflory jelitowej - mówi dr hab. Aneta Brzezicka z Wydziału Psychologii w Warszawie USWPS."
+    },
+    {
+      "title": "Legalne aborcje w Polsce. Według NFZ kilkaset zabiegów rocznie",
+      "link": "https://tvn24.pl/zdrowie/legalne-aborcje-w-polsce-wedlug-nfz-kilkaset-zabiegow-rocznie-st8946356?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 14:01:41 GMT",
+      "description": "Liczba legalnych aborcji wykonywanych w Polsce wzrosła w ostatnich latach i ustabilizowała się na poziomie około 850-900 rocznie - wynika z danych Komitetu Ministrów Rady Europy oraz Narodowego Funduszu Zdrowia. W 2024 roku przeprowadzono 890 takich zabiegów, a w 2025 roku - 846. Komitet Rady Europy zwraca uwagę, że nie odnotowano ostatnio skarg dotyczących odmowy wykonania aborcji z powodu klauzuli sumienia.",
+      "originalTitle": "Legalne aborcje w Polsce. Według NFZ kilkaset zabiegów rocznie",
+      "originalDescription": "Liczba legalnych aborcji wykonywanych w Polsce wzrosła w ostatnich latach i ustabilizowała się na poziomie około 850-900 rocznie - wynika z danych Komitetu Ministrów Rady Europy oraz Narodowego Funduszu Zdrowia. W 2024 roku przeprowadzono 890 takich zabiegów, a w 2025 roku - 846. Komitet Rady Europy zwraca uwagę, że nie odnotowano ostatnio skarg dotyczących odmowy wykonania aborcji z powodu klauzuli sumienia."
+    },
+    {
+      "title": "Wysiadły ze szkolnego autobusu, doszło do bójki. Nie żyje 12-latka",
+      "link": "https://tvn24.pl/swiat/usa-nie-zyje-nastolatka-zemdlala-po-bojce-z-kolezanka-st8946067?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 13:57:26 GMT",
+      "description": "12-letnia dziewczynka straciła przytomność po bójce, do której doszło w pobliżu przystanku autobusu szkolnego i zmarła trzy dni po przewiezieniu do szpitala. Śledczy badają nagranie, na którym widać szarpaninę między nastolatkami.",
+      "originalTitle": "Wysiadły ze szkolnego autobusu, doszło do bójki. Nie żyje 12-latka",
+      "originalDescription": "12-letnia dziewczynka straciła przytomność po bójce, do której doszło w pobliżu przystanku autobusu szkolnego i zmarła trzy dni po przewiezieniu do szpitala. Śledczy badają nagranie, na którym widać szarpaninę między nastolatkami."
+    },
+    {
+      "title": "SAFE, KSeF, DORSZ. Rozwiniesz te skróty? Quiz",
+      "link": "https://tvn24.pl/quizy/quiz-na-piatek-popularne-skroty-safe-ksef-dorsz-st8946710?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 13:53:54 GMT",
+      "description": "Czy na pewno OZE to sroze? A czym się różni WAT od VAT, PiS od PISF? A DORSZ? Żywi czy broni? Sprawdźmy!",
+      "originalTitle": "SAFE, KSeF, DORSZ. Rozwiniesz te skróty? Quiz",
+      "originalDescription": "Czy na pewno OZE to sroze? A czym się różni WAT od VAT, PiS od PISF? A DORSZ? Żywi czy broni? Sprawdźmy!"
+    }
+  ]
 }
