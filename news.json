@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-13T07:21:51.179Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-13T07:47:03.688Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kierowca z dzieckiem w aucie miała 2,5 promila alkoholu",
+      "link": "https://tvn24.pl/lublin/zamosc-ponad-2-5-promila-i-dziecko-w-aucie-nietrzezwa-44-latka-zatrzymana-dzieki-reakcji-swiadka-st8945652?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:39:44 GMT",
+      "description": "• Ponad 2,5 promila alkoholu w organizmie miała kobieta.\n• Kobieta była 44-letnia.\n• Kobieta kierowała Oplem.\n• W samochodzie znajdowało się kilkuletnie dziecko.\n• Świadek uniemożliwił kobiecie dalszą jazdę.\n• Świadek zabrał kobiecie kluczyki.\n• Świadek wezwał na miejsce policję.",
+      "originalTitle": "Jechała \"wężykiem\" z dzieckiem w aucie. Miała ponad 2,5 promila alkoholu",
+      "originalDescription": "Ponad 2,5 promila alkoholu w organizmie miała 44-letnia kobieta, która kierując Oplem przewoziła kilkuletnie dziecko. Kobiecie dalszą jazdę uniemożliwił świadek, który zabrał jej kluczyki i wezwał na miejsce policję."
+    },
+    {
+      "title": "Dron znaleziony w kopalni bez uzbrojenia",
+      "link": "https://tvn24.pl/poznan/galczyce-dron-spadl-w-kopalni-jest-sledztwo-st8944598?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:49:01 GMT",
+      "description": "• Śledczy zakończyli oględziny w Galczycach.\n• Znaleziono drona na terenie kopalni węgla brunatnego.\n• Według prokuratury maszyna nie była uzbrojona.\n• Najprawdopodobniej jest to jeszcze pok��osie prowokacji Federacji Rosyjskiej z ubiegłego roku.\n• Władysław Kosiniak-Kamysz wypowiedział się na temat znalezienia drona w programie \"Jeden na jeden\".",
+      "originalTitle": "Dron znaleziony na terenie kopalni nie był uzbrojony. Ustalenia prokuratury",
+      "originalDescription": "Śledczy zakończyli oględziny w Galczycach, gdzie znaleziono drona na terenie kopalni węgla brunatnego. Według prokuratury maszyna nie była uzbrojona. - Najprawdopodobniej jest to jeszcze pokłosie prowokacji Federacji Rosyjskiej z ubiegłego roku - powiedział w \"Jeden na jeden\" Władysław Kosiniak-Kamysz."
+    },
+    {
+      "title": "Wypadek drogowy, jeden ofiara śmiertelna",
+      "link": "https://tvn24.pl/katowice/stara-huta-powiat-myszkowski-zjechal-z-drogi-uderzyl-w-drzewo-i-dachowal-nie-zyje-32-latek-st8945698?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:26:20 GMT",
+      "description": "• Tragiczny wypadek miał miejsce w Starej Hucie pod Myszkowem.\n• Wypadek ten zdarzył się na terenie województwa Śląskiego.\n• Kierujący samochodem osobowym miał 21 lat.\n• Samochód uderzył w drzewo i dachował.\n• W wyniku wypadku zginął 32-letni pasażer.\n• Okoliczności zdarzenia są wyjaśniane przez policję.\n• Okoliczności zdarzenia są wyjaśniane przez prokuraturę.",
+      "originalTitle": "Zjechał z drogi, uderzył w drzewo i dachował. Nie żyje 32-latek",
+      "originalDescription": "Tragiczny wypadek w Starej Hucie pod Myszkowem (Śląskie). 21-letni kierujący samochodem osobowym uderzył w drzewo i dachował. Na miejscu zginął 32-letni pasażer. Okoliczności zdarzenia wyjaśnia policja i prokuratura."
+    },
+    {
+      "title": "Sejm rozpatrzy kandydatury",
+      "link": "https://tvn24.pl/polska/spor-o-trybunal-konstytucyjny-prosze-tylko-o-jedno-burzliwa-komisja-i-siedmiu-kandydatow-dzis-zdecyduje-sejm-st8945594?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:24:38 GMT",
+      "description": "• Jest sześć wakatów w Trybunale Konstytucyjnym.\n• W czwartek odbyło się posiedzenie sejmowej komisji.\n• Posiedzenie sejmowej komisji trwało niemal pięć godzin.\n• Sejmowa komisja zaopiniowała siedmiu kandydatów.\n• Sześciu kandydatów zostało zgłoszonych przez Prezydium Sejmu.\n• Jeden kandydat został zgłoszony przez PiS.\n• PiS zgłosiło dwóch kandydatów.\n• Dziś Sejm ma głosować w tej sprawie.",
+      "originalTitle": "\"Proszę tylko o jedno\". Burzliwa komisja i siedmiu kandydatów, dziś zdecyduje Sejm",
+      "originalDescription": "Jest sześć wakatów w Trybunale Konstytucyjnym. W czwartek, po niemal pięciu godzinach posiedzenia, sejmowa komisja zaopiniowała siedmiu kandydatów - sześciu zgłoszonych przez Prezydium Sejmu i jednego z dwóch zgłoszonych przez PiS. Dziś w tej sprawie ma głosować Sejm."
+    },
+    {
+      "title": "Utrudnienia w ruchu drogowym",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-impreza-biegowa-i-budowa-sygnalizacji-weekend-z-utrudnieniami-w-ruchu-na-bemowie-st8945648?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:05:53 GMT",
+      "description": "Przez dwa najbliższe weekendy tramwaje nie będą kursowały między pętlą Nowe Bemowo a skrzyżowaniem ulicy Powstańców Śląskich i Radiowej. Dodatkowo w niedzielę na terenie dzielnicy odbędzie się impreza biegowa. Będą utrudnienia w ruchu, autobusy pojadą zmienionymi trasami.",
+      "originalTitle": "Impreza biegowa i budowa sygnalizacji. Weekend z utrudnieniami",
+      "originalDescription": "Przez dwa najbliższe weekendy tramwaje nie będą kursowały między pętlą Nowe Bemowo a skrzyżowaniem ulicy Powstańców Śląskich i Radiowej. Dodatkowo w niedzielę na terenie dzielnicy odbędzie się impreza biegowa. Będą utrudnienia w ruchu, autobusy pojadą zmienionymi trasami."
+    },
+    {
+      "title": "Decyzja w sprawie SAFE ogłoszona przez MON",
+      "link": "https://tvn24.pl/polska/zapowiedz-weta-w-sprawie-safe-szef-mon-do-tej-pory-byly-weta-niepotrzebne-czasem-glupie-st8945659?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:05:20 GMT",
+      "description": "• Prezydent Karol Nawrocki zagrał w retoryce partyjnej, a nie w działaniu odpowiedzialności za siły zbrojne.\n• Minister obrony Władysław Kosiniak-Kamysz wypowiedział się w programie \"Jeden na jeden\" w TVN24.\n• Władysław Kosiniak-Kamysz określił zapowiedziane weto w sprawie ustawy o programie SAFE jako \"niebezpieczne\".",
+      "originalTitle": "Decyzja w sprawie SAFE. Szef MON: do tej pory były weta niepotrzebne, czasem głupie...",
+      "originalDescription": "Prezydent Karol Nawrocki zagrał w retoryce partyjnej, a nie w działaniu odpowiedzialności za siły zbrojne - powiedział w \"Jeden na jeden\" w TVN24 minister obrony Władysław Kosiniak-Kamysz. Zapowiedziane weto w sprawie ustawy o programie SAFE określił jako \"niebezpieczne\"."
+    },
+    {
+      "title": "Rekordowe temperatury w marcu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-rekordowe-upaly-dlaczego-pocimy-sie-na-poczatku-marca-st8945644?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:04:10 GMT",
+      "description": "Południową Kalifornię nawiedziła fala upałów. Temperatura poszybowała powyżej 30 stopni Celsjusza, a w kilku miastach zostały pobite dzienne rekordy. Władze i służby ostrzegły przed skutkami skwaru.",
+      "originalTitle": "\"Dlaczego pocimy się na początku marca?\". Zapanowały rekordowe upały",
+      "originalDescription": "Południową Kalifornię nawiedziła fala upałów. Temperatura poszybowała powyżej 30 stopni Celsjusza, a w kilku miastach zostały pobite dzienne rekordy. Władze i służby ostrzegły przed skutkami skwaru."
+    },
+    {
+      "title": "Aresztowano sprawców napadu na biznesmena",
+      "link": "https://tvn24.pl/rzeszow/sonina-rzeszow-bylem-torturowany-balem-sie-o-zycie-sprawcy-brutalnego-napadu-na-biznesmena-aresztowani-st8945663?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 06:56:55 GMT",
+      "description": "• Sprawcy brutalnego napadu na biznesmena zostali zatrzymani.\n• Napad miał miejsce w połowie grudnia 2024 roku.\n• Miejsce zdarzenia to Sonina na Podkarpaciu.\n• Agresorzy skrępowali właściciela.\n• Agresorzy skrępowali również przebywającego pod opieką właściciela 12-latka.\n• Mężczyzna był torturowany przez agresorów.\n• Agresorzy grozili mężczyźnie śmiercią.\n• Zostali ukradnięte pieniądze.\n• Zostali ukradnięte również biżuterię.\n• Zatrzymani to trzej obywatele Ukrainy.\n• Wszyscy zatrzymani usłyszeli już zarzuty.\n• Grozi im do 25 lat więzienia.",
+      "originalTitle": "\"Byłem torturowany, bałem się o życie\". Sprawcy brutalnego napadu na biznesmena aresztowani",
+      "originalDescription": "Sprawcy brutalnego napadu na biznesmena, do którego doszło w połowie grudnia 2024 roku w Soninie na Podkarpaciu zatrzymani. Agresorzy skrępowali właściciela oraz przebywającego pod jego opieką 12-latka, mężczyznę torturowali, grozili mu śmiercią. Ukradli pieniądze i biżuterię. Zatrzymani to trzej obywatele Ukrainy. Wszyscy usłyszeli już zarzuty. Grozi im do 25 lat więzienia."
+    },
+    {
+      "title": "Wojna z Iranem kosztuje Europę miliardy. Ile zapłaci Polska?",
+      "link": "https://tvn24.pl/biznes/rynki/konflikt-na-bliskim-wschodzie-wojna-z-iranem-kosztuje-europe-miliardy-ile-zaplaci-polska-st8945639?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 06:45:02 GMT",
+      "description": "Gaz w Europie podrożał od początku wojny z Iranem prawie o połowę - poinformował think thank Ember. Równocześnie wpływ konfliktu na ceny energii ma być w Polsce mniejszy niż w innych krajach Wspólnoty. Według raportu organizacji, Europa już teraz płaci miliardowe rachunki za wojnę na Bliskim Wschodzie.",
+      "originalTitle": "Wojna z Iranem kosztuje Europę miliardy. Ile zapłaci Polska?",
+      "originalDescription": "Gaz w Europie podrożał od początku wojny z Iranem prawie o połowę - poinformował think thank Ember. Równocześnie wpływ konfliktu na ceny energii ma być w Polsce mniejszy niż w innych krajach Wspólnoty. Według raportu organizacji, Europa już teraz płaci miliardowe rachunki za wojnę na Bliskim Wschodzie."
+    },
+    {
+      "title": "Dziś nadzwyczajne posiedzenie rządu. Jak Tusk odpowie na decyzję prezydenta?",
+      "link": "https://tvn24.pl/polska/nadzwyczajne-posiedzenie-rzadu-jak-donald-tusk-odpowie-na-decyzje-prezydenta-w-sprawie-safe-st8945641?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 06:27:09 GMT",
+      "description": "Rada Ministrów zbierze się o godzinie 9 na nadzwyczajnym posiedzeniu. Zapowiedział to w czwartek premier Donald Tusk po tym, jak prezydent Karol Nawrocki oświadczył, że nie podpisze ustawy wdrażającej unijny program SAFE.",
+      "originalTitle": "Dziś nadzwyczajne posiedzenie rządu. Jak Tusk odpowie na decyzję prezydenta?",
+      "originalDescription": "Rada Ministrów zbierze się o godzinie 9 na nadzwyczajnym posiedzeniu. Zapowiedział to w czwartek premier Donald Tusk po tym, jak prezydent Karol Nawrocki oświadczył, że nie podpisze ustawy wdrażającej unijny program SAFE."
+    }
+  ]
 }
