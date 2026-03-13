@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-13T08:46:27.786Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-13T09:17:01.838Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Prognoza pogody na Wielkanoc",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-prognoza-dlugoterminowa-na-swieta-jakiej-aury-spodziewa-sie-imgw-st8945776?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 09:06:47 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej przygotował długoterminową prognozę.\n• Prognoza obejmuje spodziewaną temperaturę.\n• Prognoza obejmuje wysokość opadów.\n• Prognoza dotyczy tegorocznej Wielkanocy.",
+      "originalTitle": "Pogoda na Wielkanoc. IMGW podaje prognozę na święta: idziemy w kierunku ochłodzenia",
+      "originalDescription": "Jakiej pogody możemy się spodziewać podczas tegorocznej Wielkanocy? Instytut Meteorologii i Gospodarki Wodnej przygotował długoterminową prognozę, obejmującą spodziewaną temperaturę i wysokość opadów."
+    },
+    {
+      "title": "Dane o inflacji w Polsce",
+      "link": "https://tvn24.pl/biznes/pieniadze/inflacja-w-lutym-2026-w-polsce-najnowsze-dane-st8945785?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 09:04:21 GMT",
+      "description": "• Ceny towarów i usług konsumpcyjnych wzrosły w lutym 2026 roku o 2,1 proc.\n• Wzrost cen w porównaniu z poprzednim miesiącem wyniósł 0,3 proc.\n• Informacje o wzroście cen podał Główny Urząd Statystyczny.",
+      "originalTitle": "Inflacja w Polsce. Najnowsze dane",
+      "originalDescription": "Ceny towarów i usług konsumpcyjnych wzrosły w lutym 2026 roku o 2,1 proc., a w porównaniu z poprzednim miesiącem ceny wzrosły o 0,3 proc. - podał Główny Urząd Statystyczny."
+    },
+    {
+      "title": "Dąb z Wiedźmina to pomnik przyrody",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-dab-geralt-bedzie-pomnikiem-przyrody-st8945704?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 08:54:34 GMT",
+      "description": "Praski dąb szypułkowy, nieoficjalnie nazywany Geraltem, będzie pomnikiem przyrody. Decyzją Rady Warszawy zyska on ochronę prawną. Majestatyczne drzewo pojawiło się w popularnej grze komputerowej, jego imię ma nawiązywać do głównego bohatera.",
+      "originalTitle": "Dąb z \"Wiedźmina\" pomnikiem przyrody",
+      "originalDescription": "Praski dąb szypułkowy, nieoficjalnie nazywany Geraltem, będzie pomnikiem przyrody. Decyzją Rady Warszawy zyska on ochronę prawną. Majestatyczne drzewo pojawiło się w popularnej grze komputerowej, jego imię ma nawiązywać do głównego bohatera."
+    },
+    {
+      "title": "Deportacje z Dubaju po zatrzymaniach",
+      "link": "https://tvn24.pl/swiat/zjednoczone-emiraty-arabskie-deportacja-za-zdjecie-alarmuja-w-sprawie-kolejnych-zatrzyman-st8945697?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 08:42:00 GMT",
+      "description": "• Wysoka grzywna lub deportacja to możliwe konsekwencje za udostępnienie lub skomentowanie nagrania z irańskiego ataku.\n• Organizacja Detained in Dubai zajmuje się tą sprawą.\n• 21 osób zostało oskarżonych w Zjednoczonych Emiratach Arabskich.\n• Oskarżenia dotyczą obowiązujących tam przepisów dotyczących cyberprzestępczości.\n• Przepisy te dotyczą udostępniania i komentowania nagrania z irańskiego ataku.",
+      "originalTitle": "Deportacja z Dubaju za zdjęcie? Alarmują w sprawie kolejnych zatrzymań",
+      "originalDescription": "Wysoka grzywna lub deportacja za udostępnienie lub skomentowanie nagrania z irańskiego ataku? Organizacja Detained in Dubai mówi o 21 osobach oskarżonych w Zjednoczonych Emiratach Arabskich w związku z obowiązującymi tam przepisami dotyczącymi cyberprzestępczości."
+    },
+    {
+      "title": "Cena ropy utrzymuje się powyżej 100 dolarów",
+      "link": "https://tvn24.pl/biznes/rynki/ropa-kosztuje-ponad-100-dolarow-tydzien-historycznych-zaklocen-na-rynku-st8945765?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 08:37:43 GMT",
+      "description": "• Ceny ropy kontynuują wzrosty\n• Kluczowa odmiana Brent przekroczyła ponownie 100 dolarów za baryłkę\n• Tydzień, który właśnie się kończy był jednym z najbardziej zmiennych w historii\n• Inwestorzy i eksperci spodziewają się kolejnych wstrząsów\n• Iran zapowiada dalszą blokadę cieśniny Ormuz",
+      "originalTitle": "Ropa wciąż na poziomie 100 dolarów. \"Największe zakłócenie od lat 70.\"",
+      "originalDescription": "Ceny ropy kontynuują wzrosty, z czego kluczowa odmiana Brent przekroczyła ponownie 100 dolarów za baryłkę. Tydzień, który właśnie się kończy był jednym z najbardziej zmiennych w historii, a inwestorzy i eksperci spodziewają się kolejnych wstrząsów, ponieważ Iran zapowiada dalszą blokadę cieśniny Ormuz."
+    },
+    {
+      "title": "Deszcz kwaśny notowany w Europie, analiza NASA",
+      "link": "https://tvn24.pl/tvnmeteo/smog/pyl-saharyjski-brudny-deszcz-padal-w-europie-opisala-go-nasa-st8945705?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 08:28:14 GMT",
+      "description": "Na początku marca mieszkańcy kilku europejskich krajów mogli zaobserwować \"brudny deszcz\". Przyczyny i skutki zjawiska opisali naukowcy z amerykańskiej Narodowej Agencji Aeronautyki i Przestrzeni Kosmicznej (NASA).",
+      "originalTitle": "\"Brudny deszcz\" padał w Europie. Opisała go NASA",
+      "originalDescription": "Na początku marca mieszkańcy kilku europejskich krajów mogli zaobserwować \"brudny deszcz\". Przyczyny i skutki zjawiska opisali naukowcy z amerykańskiej Narodowej Agencji Aeronautyki i Przestrzeni Kosmicznej (NASA)."
+    },
+    {
+      "title": "Netanjahu o potencjalnym celu Izraela",
+      "link": "https://tvn24.pl/swiat/marionetka-netanjahu-on-moze-stac-sie-kolejnym-celem-izraela-st8945600?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:54:08 GMT",
+      "description": "Tworzone są warunki dla Irańczyków do obalenia reżimu w Teheranie - powiedział premier Izraela Benjamin Netanjahu. Zasugerował również, że nowy najwyższy przywódca Iranu Modżtaba Chamenei może stać się celem Izraela.",
+      "originalTitle": "Netanjahu: Modżtaba Chamenei może stać się naszym celem",
+      "originalDescription": "Tworzone są warunki dla Irańczyków do obalenia reżimu w Teheranie - powiedział premier Izraela Benjamin Netanjahu. Zasugerował również, że nowy najwyższy przywódca Iranu Modżtaba Chamenei może stać się celem Izraela."
+    },
+    {
+      "title": "Jechała \"wężykiem\" z dzieckiem w aucie. Miała ponad 2,5 promila alkoholu",
+      "link": "https://tvn24.pl/lublin/zamosc-ponad-2-5-promila-i-dziecko-w-aucie-nietrzezwa-44-latka-zatrzymana-dzieki-reakcji-swiadka-st8945652?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:39:44 GMT",
+      "description": "Ponad 2,5 promila alkoholu w organizmie miała 44-letnia kobieta, która kierując Oplem przewoziła kilkuletnie dziecko. Kobiecie dalszą jazdę uniemożliwił świadek, który zabrał jej kluczyki i wezwał na miejsce policję.",
+      "originalTitle": "Jechała \"wężykiem\" z dzieckiem w aucie. Miała ponad 2,5 promila alkoholu",
+      "originalDescription": "Ponad 2,5 promila alkoholu w organizmie miała 44-letnia kobieta, która kierując Oplem przewoziła kilkuletnie dziecko. Kobiecie dalszą jazdę uniemożliwił świadek, który zabrał jej kluczyki i wezwał na miejsce policję."
+    },
+    {
+      "title": "Dron znaleziony na terenie kopalni nie był uzbrojony. Ustalenia prokuratury",
+      "link": "https://tvn24.pl/poznan/galczyce-dron-spadl-w-kopalni-jest-sledztwo-st8944598?source=rss",
+      "pubDate": "Thu, 12 Mar 2026 12:49:01 GMT",
+      "description": "Śledczy zakończyli oględziny w Galczycach, gdzie znaleziono drona na terenie kopalni węgla brunatnego. Według prokuratury maszyna nie była uzbrojona. - Najprawdopodobniej jest to jeszcze pokłosie prowokacji Federacji Rosyjskiej z ubiegłego roku - powiedział w \"Jeden na jeden\" Władysław Kosiniak-Kamysz.",
+      "originalTitle": "Dron znaleziony na terenie kopalni nie był uzbrojony. Ustalenia prokuratury",
+      "originalDescription": "Śledczy zakończyli oględziny w Galczycach, gdzie znaleziono drona na terenie kopalni węgla brunatnego. Według prokuratury maszyna nie była uzbrojona. - Najprawdopodobniej jest to jeszcze pokłosie prowokacji Federacji Rosyjskiej z ubiegłego roku - powiedział w \"Jeden na jeden\" Władysław Kosiniak-Kamysz."
+    },
+    {
+      "title": "Zjechał z drogi, uderzył w drzewo i dachował. Nie żyje 32-latek",
+      "link": "https://tvn24.pl/katowice/stara-huta-powiat-myszkowski-zjechal-z-drogi-uderzyl-w-drzewo-i-dachowal-nie-zyje-32-latek-st8945698?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 07:26:20 GMT",
+      "description": "Tragiczny wypadek w Starej Hucie pod Myszkowem (Śląskie). 21-letni kierujący samochodem osobowym uderzył w drzewo i dachował. Na miejscu zginął 32-letni pasażer. Okoliczności zdarzenia wyjaśnia policja i prokuratura.",
+      "originalTitle": "Zjechał z drogi, uderzył w drzewo i dachował. Nie żyje 32-latek",
+      "originalDescription": "Tragiczny wypadek w Starej Hucie pod Myszkowem (Śląskie). 21-letni kierujący samochodem osobowym uderzył w drzewo i dachował. Na miejscu zginął 32-letni pasażer. Okoliczności zdarzenia wyjaśnia policja i prokuratura."
+    }
+  ]
 }
