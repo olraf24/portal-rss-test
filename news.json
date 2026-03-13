@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-03-13T09:17:01.838Z",
+  "lastUpdate": "2026-03-13T09:46:40.079Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Radosław Sikorski o programie",
+      "link": "https://tvn24.pl/polska/rzad-oglosil-program-polska-zbrojna-relacja-na-zywo-st8945861?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 09:25:57 GMT",
+      "description": "• Ten program to sukces naszej prezydencji i trzeba go zrealizować - mówi szef MSZ i wicepremier Radosław Sikorski.\n• Rząd przyjął uchwałę o realizacji programu Polska Zbrojna w piątek.\n• Program Polska Zbrojna jest reakcją na zapowiedź weta prezydenta Karola Nawrockiego wobec europejskiego programu SAFE.\n• Wydarzenia i komentarze są relacjonowane w tvn24.pl i TVN24.",
+      "originalTitle": "Radosław Sikorski: ten program trzeba zrealizować, a nie wkładać kij w szprychy",
+      "originalDescription": "Ten program to sukces naszej prezydencji i trzeba go zrealizować - mówi szef MSZ i wicepremier Radosław Sikorski. W piątek rząd przyjął uchwałę o realizacji programu Polska Zbrojna. To reakcja na zapowiedź weta prezydenta Karola Nawrockiego wobec europejskiego programu SAFE. Wszystkie wydarzenia i komentarze relacjonujemy w tvn24.pl i TVN24."
+    },
     {
       "title": "Prognoza pogody na Wielkanoc",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-prognoza-dlugoterminowa-na-swieta-jakiej-aury-spodziewa-sie-imgw-st8945776?source=rss",
@@ -10,14 +18,6 @@
       "description": "• Instytut Meteorologii i Gospodarki Wodnej przygotował długoterminową prognozę.\n• Prognoza obejmuje spodziewaną temperaturę.\n• Prognoza obejmuje wysokość opadów.\n• Prognoza dotyczy tegorocznej Wielkanocy.",
       "originalTitle": "Pogoda na Wielkanoc. IMGW podaje prognozę na święta: idziemy w kierunku ochłodzenia",
       "originalDescription": "Jakiej pogody możemy się spodziewać podczas tegorocznej Wielkanocy? Instytut Meteorologii i Gospodarki Wodnej przygotował długoterminową prognozę, obejmującą spodziewaną temperaturę i wysokość opadów."
-    },
-    {
-      "title": "Dane o inflacji w Polsce",
-      "link": "https://tvn24.pl/biznes/pieniadze/inflacja-w-lutym-2026-w-polsce-najnowsze-dane-st8945785?source=rss",
-      "pubDate": "Fri, 13 Mar 2026 09:04:21 GMT",
-      "description": "• Ceny towarów i usług konsumpcyjnych wzrosły w lutym 2026 roku o 2,1 proc.\n• Wzrost cen w porównaniu z poprzednim miesiącem wyniósł 0,3 proc.\n• Informacje o wzroście cen podał Główny Urząd Statystyczny.",
-      "originalTitle": "Inflacja w Polsce. Najnowsze dane",
-      "originalDescription": "Ceny towarów i usług konsumpcyjnych wzrosły w lutym 2026 roku o 2,1 proc., a w porównaniu z poprzednim miesiącem ceny wzrosły o 0,3 proc. - podał Główny Urząd Statystyczny."
     },
     {
       "title": "Dąb z Wiedźmina to pomnik przyrody",
@@ -28,23 +28,23 @@
       "originalDescription": "Praski dąb szypułkowy, nieoficjalnie nazywany Geraltem, będzie pomnikiem przyrody. Decyzją Rady Warszawy zyska on ochronę prawną. Majestatyczne drzewo pojawiło się w popularnej grze komputerowej, jego imię ma nawiązywać do głównego bohatera."
     },
     {
-      "title": "Deportacje z Dubaju po zatrzymaniach",
+      "title": "Deportacja z Dubaju za zdjęcie? Alarmują w sprawie kolejnych zatrzymań",
       "link": "https://tvn24.pl/swiat/zjednoczone-emiraty-arabskie-deportacja-za-zdjecie-alarmuja-w-sprawie-kolejnych-zatrzyman-st8945697?source=rss",
       "pubDate": "Fri, 13 Mar 2026 08:42:00 GMT",
-      "description": "• Wysoka grzywna lub deportacja to możliwe konsekwencje za udostępnienie lub skomentowanie nagrania z irańskiego ataku.\n• Organizacja Detained in Dubai zajmuje się tą sprawą.\n• 21 osób zostało oskarżonych w Zjednoczonych Emiratach Arabskich.\n• Oskarżenia dotyczą obowiązujących tam przepisów dotyczących cyberprzestępczości.\n• Przepisy te dotyczą udostępniania i komentowania nagrania z irańskiego ataku.",
+      "description": "Wysoka grzywna lub deportacja za udostępnienie lub skomentowanie nagrania z irańskiego ataku? Organizacja Detained in Dubai mówi o 21 osobach oskarżonych w Zjednoczonych Emiratach Arabskich w związku z obowiązującymi tam przepisami dotyczącymi cyberprzestępczości.",
       "originalTitle": "Deportacja z Dubaju za zdjęcie? Alarmują w sprawie kolejnych zatrzymań",
       "originalDescription": "Wysoka grzywna lub deportacja za udostępnienie lub skomentowanie nagrania z irańskiego ataku? Organizacja Detained in Dubai mówi o 21 osobach oskarżonych w Zjednoczonych Emiratach Arabskich w związku z obowiązującymi tam przepisami dotyczącymi cyberprzestępczości."
     },
     {
-      "title": "Cena ropy utrzymuje się powyżej 100 dolarów",
+      "title": "Ropa wciąż na poziomie 100 dolarów. \"Największe zakłócenie od lat 70.\"",
       "link": "https://tvn24.pl/biznes/rynki/ropa-kosztuje-ponad-100-dolarow-tydzien-historycznych-zaklocen-na-rynku-st8945765?source=rss",
       "pubDate": "Fri, 13 Mar 2026 08:37:43 GMT",
-      "description": "• Ceny ropy kontynuują wzrosty\n• Kluczowa odmiana Brent przekroczyła ponownie 100 dolarów za baryłkę\n• Tydzień, który właśnie się kończy był jednym z najbardziej zmiennych w historii\n• Inwestorzy i eksperci spodziewają się kolejnych wstrząsów\n• Iran zapowiada dalszą blokadę cieśniny Ormuz",
+      "description": "Ceny ropy kontynuują wzrosty, z czego kluczowa odmiana Brent przekroczyła ponownie 100 dolarów za baryłkę. Tydzień, który właśnie się kończy był jednym z najbardziej zmiennych w historii, a inwestorzy i eksperci spodziewają się kolejnych wstrząsów, ponieważ Iran zapowiada dalszą blokadę cieśniny Ormuz.",
       "originalTitle": "Ropa wciąż na poziomie 100 dolarów. \"Największe zakłócenie od lat 70.\"",
       "originalDescription": "Ceny ropy kontynuują wzrosty, z czego kluczowa odmiana Brent przekroczyła ponownie 100 dolarów za baryłkę. Tydzień, który właśnie się kończy był jednym z najbardziej zmiennych w historii, a inwestorzy i eksperci spodziewają się kolejnych wstrząsów, ponieważ Iran zapowiada dalszą blokadę cieśniny Ormuz."
     },
     {
-      "title": "Deszcz kwaśny notowany w Europie, analiza NASA",
+      "title": "\"Brudny deszcz\" padał w Europie. Opisała go NASA",
       "link": "https://tvn24.pl/tvnmeteo/smog/pyl-saharyjski-brudny-deszcz-padal-w-europie-opisala-go-nasa-st8945705?source=rss",
       "pubDate": "Fri, 13 Mar 2026 08:28:14 GMT",
       "description": "Na początku marca mieszkańcy kilku europejskich krajów mogli zaobserwować \"brudny deszcz\". Przyczyny i skutki zjawiska opisali naukowcy z amerykańskiej Narodowej Agencji Aeronautyki i Przestrzeni Kosmicznej (NASA).",
@@ -52,7 +52,15 @@
       "originalDescription": "Na początku marca mieszkańcy kilku europejskich krajów mogli zaobserwować \"brudny deszcz\". Przyczyny i skutki zjawiska opisali naukowcy z amerykańskiej Narodowej Agencji Aeronautyki i Przestrzeni Kosmicznej (NASA)."
     },
     {
-      "title": "Netanjahu o potencjalnym celu Izraela",
+      "title": "Nadzwyczajne posiedzenie rządu. Tusk ogłosił program Polska Zbrojna",
+      "link": "https://tvn24.pl/polska/donald-tusk-oglosil-program-polska-zbrojna-st8945641?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 06:27:09 GMT",
+      "description": "Przyjmiemy uchwałę na podstawie, której zrealizujemy program Polska Zbrojna. Weto prezydenta nas nie zatrzyma - ogłosił na nadzywczajnym posiedzeniu rządu premier Donald Tusk. To odpowiedź na działania prezydenta Karola Nawrockiego, który odrzucił miliardy z unijnego programu SAFE. W TVN24 i TVN24+ trwa wydanie specjalne.",
+      "originalTitle": "Nadzwyczajne posiedzenie rządu. Tusk ogłosił program Polska Zbrojna",
+      "originalDescription": "Przyjmiemy uchwałę na podstawie, której zrealizujemy program Polska Zbrojna. Weto prezydenta nas nie zatrzyma - ogłosił na nadzywczajnym posiedzeniu rządu premier Donald Tusk. To odpowiedź na działania prezydenta Karola Nawrockiego, który odrzucił miliardy z unijnego programu SAFE. W TVN24 i TVN24+ trwa wydanie specjalne."
+    },
+    {
+      "title": "Netanjahu: Modżtaba Chamenei może stać się naszym celem",
       "link": "https://tvn24.pl/swiat/marionetka-netanjahu-on-moze-stac-sie-kolejnym-celem-izraela-st8945600?source=rss",
       "pubDate": "Fri, 13 Mar 2026 07:54:08 GMT",
       "description": "Tworzone są warunki dla Irańczyków do obalenia reżimu w Teheranie - powiedział premier Izraela Benjamin Netanjahu. Zasugerował również, że nowy najwyższy przywódca Iranu Modżtaba Chamenei może stać się celem Izraela.",
@@ -74,14 +82,6 @@
       "description": "Śledczy zakończyli oględziny w Galczycach, gdzie znaleziono drona na terenie kopalni węgla brunatnego. Według prokuratury maszyna nie była uzbrojona. - Najprawdopodobniej jest to jeszcze pokłosie prowokacji Federacji Rosyjskiej z ubiegłego roku - powiedział w \"Jeden na jeden\" Władysław Kosiniak-Kamysz.",
       "originalTitle": "Dron znaleziony na terenie kopalni nie był uzbrojony. Ustalenia prokuratury",
       "originalDescription": "Śledczy zakończyli oględziny w Galczycach, gdzie znaleziono drona na terenie kopalni węgla brunatnego. Według prokuratury maszyna nie była uzbrojona. - Najprawdopodobniej jest to jeszcze pokłosie prowokacji Federacji Rosyjskiej z ubiegłego roku - powiedział w \"Jeden na jeden\" Władysław Kosiniak-Kamysz."
-    },
-    {
-      "title": "Zjechał z drogi, uderzył w drzewo i dachował. Nie żyje 32-latek",
-      "link": "https://tvn24.pl/katowice/stara-huta-powiat-myszkowski-zjechal-z-drogi-uderzyl-w-drzewo-i-dachowal-nie-zyje-32-latek-st8945698?source=rss",
-      "pubDate": "Fri, 13 Mar 2026 07:26:20 GMT",
-      "description": "Tragiczny wypadek w Starej Hucie pod Myszkowem (Śląskie). 21-letni kierujący samochodem osobowym uderzył w drzewo i dachował. Na miejscu zginął 32-letni pasażer. Okoliczności zdarzenia wyjaśnia policja i prokuratura.",
-      "originalTitle": "Zjechał z drogi, uderzył w drzewo i dachował. Nie żyje 32-latek",
-      "originalDescription": "Tragiczny wypadek w Starej Hucie pod Myszkowem (Śląskie). 21-letni kierujący samochodem osobowym uderzył w drzewo i dachował. Na miejscu zginął 32-letni pasażer. Okoliczności zdarzenia wyjaśnia policja i prokuratura."
     }
   ]
 }
