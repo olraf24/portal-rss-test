@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-13T20:45:37.090Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-13T21:12:01.916Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Oskarżeni o sabotaż w sprawie przesyłek",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-paczki-plonely-oskarzeni-o-sabotaz-proces-st8947377?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:45:56 GMT",
+      "description": "• Rozpoczął się proces pięciu oskarżonych.\n• Oskarżeni zostali oskarżeni o działalność na rzecz rosyjskiego wywiadu.\n• Zdaniem śledczych, oskarżeni mieli przygotowywać i przesyłać niebezpieczne paczki.\n• Trzy z paczek się zapaliły.",
+      "originalTitle": "Przesyłki z mechanizmem samozapłonu. Oskarżeni o sabotaż",
+      "originalDescription": "Rozpoczął się proces pięciu oskarżonych o działalność na rzecz rosyjskiego wywiadu. Zdaniem śledczych, mieli oni przygotowywać i przesyłać niebezpieczne paczki. Trzy z nich się zapaliły."
+    },
+    {
+      "title": "Ostrzeżenie IMGW: porywy wiatru do 100 km/h",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-sobota-14-03-silny-wiatr-tu-nalezy-zachowac-ostroznosc-st8946951?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 15:36:45 GMT",
+      "description": "• Synoptycy Instytutu Meteorologii i Gospodarki Wodnej ostrzegają przed silnym wiatrem.\n• Wiatr może rozpędzać się do nawet 100 kilometrów na godzinę.\n• Silny wiatr wystąpi na południu kraju.",
+      "originalTitle": "Pogoda. Tutaj porywy mogą osiągać nawet do 100 km/h. IMGW ostrzega",
+      "originalDescription": "Pogoda w Polsce. Synoptycy Instytutu Meteorologii i Gospodarki Wodnej ostrzegają przed silnym wiatrem, który na południu kraju może rozpędzać się do nawet 100 kilometrów na godzinę."
+    },
+    {
+      "title": "Powódź na Litwie zalała 20 domów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-na-litwie-zawyly-syreny-zalalo-20-domow-st8947362?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:26:47 GMT",
+      "description": "• Rzeka Wilia wezbrała.\n• Doszło do powodzi na terenie powiatu kowieńskiego.\n• Powódź miała miejsce na Litwie.\n• W jednej z miejscowości zawyły syreny alarmowe.\n• Syreny alarmowe ostrzegały przed żywiołem.",
+      "originalTitle": "Powódź na Litwie. Zawyły syreny, zalało 20 domów",
+      "originalDescription": "Rzeka Wilia wezbrała i doszło do powodzi na terenie powiatu kowieńskiego na Litwie. W jednej z miejscowości zawyły syreny alarmowe ostrzegające przed żywiołem."
+    },
+    {
+      "title": "Weto Nawrockiego dotyczy finansów",
+      "link": "https://tvn24.pl/polska/u-nas-oglada-sie-kazda-zlotowke-przez-weto-nawrockiego-straca-miliardy-st8947307?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:25:01 GMT",
+      "description": "• Policja jest najbardziej niedoszacowaną formacją, jeżeli chodzi o budżet.\n• Rafał Jankowski powiedział, że kiedy policja wydaje pieniądze, to one są celowo wydawane.\n• Rafał Jankowski jest przewodniczącym Zarządu Głównego NSZZ Policjantów.\n• Wypowiedź Rafała Jankowskiego miała miejsce w programie \"#BezKitu\" w TVN24.\n• Wypowiedź dotyczyła potrzeb formacji w kontekście prezydenckiego weta dla SAFE.",
+      "originalTitle": "\"U nas ogląda się każdą złotówkę\". Przez weto Nawrockiego stracą miliardy",
+      "originalDescription": "Policja jest chyba najbardziej niedoszacowaną formacją, jeżeli chodzi o budżet. Mogę zapewnić, że kiedy my wydajemy pieniądze, to naprawdę one są celowo wydawane - powiedział w \"#BezKitu\" w TVN24 Rafał Jankowski, przewodniczący Zarządu Głównego NSZZ Policjantów, o potrzebach formacji w kontekście prezydenckiego weta dla SAFE."
+    },
+    {
+      "title": "Kumulacja w Eurojackpot wynosi 130 milionów złotych",
+      "link": "https://tvn24.pl/biznes/z-kraju/eurojackpot-wyniki-z-13-marca-2026-jakie-liczby-padly-w-trakcie-losowania-st8947392?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:06:33 GMT",
+      "description": "W piątkowym losowaniu Eurojackpot ponownie nie padła główna wygrana. Kumulacja rośnie zatem do 130 milionów złotych. W Polsce szczęście uśmiechnęło się do jednego z graczy, który dzięki wygranej czwartego stopnia otrzyma ponad 750 tysięcy złotych. Oto wyniki losowania z 13 marca 2026 roku.",
+      "originalTitle": "Rośnie kumulacja w Eurojackpot. Do wygrania 130 milionów złotych",
+      "originalDescription": "W piątkowym losowaniu Eurojackpot ponownie nie padła główna wygrana. Kumulacja rośnie zatem do 130 milionów złotych. W Polsce szczęście uśmiechnęło się do jednego z graczy, który dzięki wygranej czwartego stopnia otrzyma ponad 750 tysięcy złotych. Oto wyniki losowania z 13 marca 2026 roku."
+    },
+    {
+      "title": "Znaleziono broń, ewakuacja sąsiadów",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/kozlow-amunicja-pociski-arsenal-w-domu-st8947302?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:03:33 GMT",
+      "description": "Policjanci i pirotechnicy znaleźli na posesji w Kozłowie (Mazowieckie) kilkaset sztuk amunicji i pocisków pochodzących prawdopodobnie z czasów II wojny światowej. Konieczna była ewakuacja sąsiednich domów, odwołano także lekcje w pobliskiej szkole.",
+      "originalTitle": "Miał w domu arsenał. Ewakuacja sąsiadów, odwołane lekcje",
+      "originalDescription": "Policjanci i pirotechnicy znaleźli na posesji w Kozłowie (Mazowieckie) kilkaset sztuk amunicji i pocisków pochodzących prawdopodobnie z czasów II wojny światowej. Konieczna była ewakuacja sąsiednich domów, odwołano także lekcje w pobliskiej szkole."
+    },
+    {
+      "title": "Nawrocki tłumaczy się z weta i cytuje Żeromskiego",
+      "link": "https://tvn24.pl/polska/nawrocki-tlumaczy-sie-z-weta-i-cytuje-zeromskiego-st8947311?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 19:31:05 GMT",
+      "description": "To zbyt poważne zobowiązanie, by je podpisać - mówił prezydent Karol Nawrocki w piątek na spotkaniu z sympatykami w Chmielniku, komentując weto dla ustawy wdrażającej unijny program SAFE. Sugerował też, że uzbrojenie dla polskiej armii mogłoby być finansowane z reparacji od Niemiec i cytował Stefana Żeromskiego.",
+      "originalTitle": "Nawrocki tłumaczy się z weta i cytuje Żeromskiego",
+      "originalDescription": "To zbyt poważne zobowiązanie, by je podpisać - mówił prezydent Karol Nawrocki w piątek na spotkaniu z sympatykami w Chmielniku, komentując weto dla ustawy wdrażającej unijny program SAFE. Sugerował też, że uzbrojenie dla polskiej armii mogłoby być finansowane z reparacji od Niemiec i cytował Stefana Żeromskiego."
+    },
+    {
+      "title": "\"Ona nie była gwiazdą, ona była planetą\". Tak wspominają Magdalenę Majtykę",
+      "link": "https://tvn24.pl/polska/rodzina-i-przyjaciele-wspominaja-zmarla-magdalene-majtyke-ona-nie-byla-gwiazda-ona-byla-planeta-st8946996?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 19:20:31 GMT",
+      "description": "Nie żyje aktorka, tancerka, kaskaderka Magdalena Majtyka. Ciało znaleziono w zeszły piątek w lesie na terenie Biskupic Oławskich. Prokuratura prowadzi śledztwo. Dziennikarze \"Uwagi!\" TVN dotarli do przyjaciół i współpracowników aktorki, na rozmowę zgodził się także jej szwagier.",
+      "originalTitle": "\"Ona nie była gwiazdą, ona była planetą\". Tak wspominają Magdalenę Majtykę",
+      "originalDescription": "Nie żyje aktorka, tancerka, kaskaderka Magdalena Majtyka. Ciało znaleziono w zeszły piątek w lesie na terenie Biskupic Oławskich. Prokuratura prowadzi śledztwo. Dziennikarze \"Uwagi!\" TVN dotarli do przyjaciół i współpracowników aktorki, na rozmowę zgodził się także jej szwagier."
+    },
+    {
+      "title": "Pierwsza rozmowa o SAFE. \"Wtedy usłyszałam: bardzo dobrze\"",
+      "link": "https://tvn24.pl/polska/magdalena-sobkowiak-czarnecka-komentuje-decyzje-prezydenta-karola-nawrockiego-w-sprawie-ustawy-o-safe-st8947275?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 19:14:57 GMT",
+      "description": "Spodziewaliśmy się tego, bo narracja z Pałacu Prezydenckiego od dłuższego czasu była jednoznaczna - powiedziała w \"Faktach po Faktach\" w TVN24 pełnomocniczka rządu do spraw programu SAFE, Magdalena Sobkowiak-Czarnecka, komentując decyzję prezydenta Karola Nawrockiego o niepodpisaniu ustawy o SAFE. Mówiła również, jak zmieniał się stosunek Pałacu Prezydenckiego do planu unijnych pożyczek na zbrojenia. Wiadomo też, kiedy rząd może podpisać umowę z Komisją Europejską w sprawie unijnej pożyczki.",
+      "originalTitle": "Pierwsza rozmowa o SAFE. \"Wtedy usłyszałam: bardzo dobrze\"",
+      "originalDescription": "Spodziewaliśmy się tego, bo narracja z Pałacu Prezydenckiego od dłuższego czasu była jednoznaczna - powiedziała w \"Faktach po Faktach\" w TVN24 pełnomocniczka rządu do spraw programu SAFE, Magdalena Sobkowiak-Czarnecka, komentując decyzję prezydenta Karola Nawrockiego o niepodpisaniu ustawy o SAFE. Mówiła również, jak zmieniał się stosunek Pałacu Prezydenckiego do planu unijnych pożyczek na zbrojenia. Wiadomo też, kiedy rząd może podpisać umowę z Komisją Europejską w sprawie unijnej pożyczki."
+    },
+    {
+      "title": "Środkiem jezdni wiózł kobietę w sklepowym wózku",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-wiozl-kobiete-w-wozku-sklepowym-st8947276?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 18:59:57 GMT",
+      "description": "Operator monitoringu miejskiego w Płocku zauważył nastolatka, który ulicą prowadził wózek sklepowy z kobietą w środku. Strażnikom miejskim tłumaczył, że \"chciał spełnić zachciankę koleżanki\".",
+      "originalTitle": "Środkiem jezdni wiózł kobietę w sklepowym wózku",
+      "originalDescription": "Operator monitoringu miejskiego w Płocku zauważył nastolatka, który ulicą prowadził wózek sklepowy z kobietą w środku. Strażnikom miejskim tłumaczył, że \"chciał spełnić zachciankę koleżanki\"."
+    }
+  ]
 }
