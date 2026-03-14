@@ -1,18 +1,50 @@
 {
-  "lastUpdate": "2026-03-14T07:44:32.884Z",
+  "lastUpdate": "2026-03-14T08:11:30.167Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Ustawa SAFE obowiązuje, wyjątek dla wojska",
+      "title": "Utrudnienia na linii metra 2",
+      "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-utrudnienia-na-drugiej-linii-metra-dwie-stacje-wylaczone-z-ruchu-st8947540?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 08:07:35 GMT",
+      "description": "• Są utrudnienia w kursowaniu pociągów drugiej linii metra.\n• Utrudnienia są spowodowane awarią urządzeń sterowania ruchem.\n• Zamknięte zostały dwie stacje.\n• Jedną z zamkniętych stacji jest Targówek Mieszkaniowy.\n• Drugą zamkniętą stacją jest Szwedzka.",
+      "originalTitle": "Utrudnienia na drugiej linii metra. Dwie stacje wyłączone z ruchu",
+      "originalDescription": "Są utrudnienia w kursowaniu pociągów drugiej linii metra. Z powodu awarii urządzeń sterowania ruchem zamknięte zostały dwie stacje: Targówek Mieszkaniowy i Szwedzka."
+    },
+    {
+      "title": "Giełda amerykańska notuje spadki",
+      "link": "https://tvn24.pl/biznes/rynki/konflikt-na-bliskim-wschodzie-przeceny-na-wall-street-w-dniu-13-marca-jak-zamknela-sie-amerykanska-gielda-st8947550?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 07:56:33 GMT",
+      "description": "Piątkowe notowania na Wall Street zakończyły się lekką przeceną głównych indeksów, a uwagę inwestorów wciąż przyciągał wzrost cen ropy naftowej. Amerykański rynek akcji ma za sobą już trzeci z rzędu tydzień zakończony spadkami.",
+      "originalTitle": "Amerykańska giełda zamyka trudny tydzień spadkami",
+      "originalDescription": "Piątkowe notowania na Wall Street zakończyły się lekką przeceną głównych indeksów, a uwagę inwestorów wciąż przyciągał wzrost cen ropy naftowej. Amerykański rynek akcji ma za sobą już trzeci z rzędu tydzień zakończony spadkami."
+    },
+    {
+      "title": "Ustawa SAFE bez podpisu prezydenta",
       "link": "https://tvn24.pl/polska/rzad-odpowiada-na-weto-prezydenta-w-sprawie-safe-mniejsze-srodki-na-policje-i-straz-graniczna-st8947438?source=rss",
       "pubDate": "Sat, 14 Mar 2026 07:39:53 GMT",
-      "description": "• Weto prezydenta w sprawie SAFE oznacza opóźnione inwestycje dla wojska.\n• Weto prezydenta w sprawie SAFE oznacza utratę miliardów złotych dla służb ochrony państwa.\n• Służby ochrony państwa, które ponios�� straty, to Straż Graniczna i policja.\n• Policja wyprzedza dziś działania innych formacji, jak podkreślają związkowcy.\n• MSWiA planowało już miliardowe zakupy dla policji.",
+      "description": "Weto prezydenta w sprawie SAFE oznacza opóźnione inwestycje dla wojska, ale także utratę miliardów złotych dla służb ochrony państwa: Straży Granicznej i policji. To właśnie policja, jak podkreślają związkowcy, wyprzedza dziś działania innych formacji. MSWiA planowało już miliardowe zakupy dla tej służby.",
       "originalTitle": "SAFE mimo weta prezydenta. Stracą służby mundurowe inne niż wojsko",
       "originalDescription": "Weto prezydenta w sprawie SAFE oznacza opóźnione inwestycje dla wojska, ale także utratę miliardów złotych dla służb ochrony państwa: Straży Granicznej i policji. To właśnie policja, jak podkreślają związkowcy, wyprzedza dziś działania innych formacji. MSWiA planowało już miliardowe zakupy dla tej służby."
     },
     {
-      "title": "Ewolucja rośliny w odpowiedzi na suszę",
+      "title": "Atak rakietowy na ambasadę USA w Iraku",
+      "link": "https://tvn24.pl/swiat/irak-czarny-dym-nad-ambasada-usa-w-bagdadzie-po-ataku-rakietowym-st8947519?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 07:34:52 GMT",
+      "description": "Ambasada USA w stolicy Iraku Bagdadzie została trafiona w ataku rakietowym - poinformowały irackie źródła bezpieczeństwa. Na opublikowanym przez agencję Reuters nagraniu widać pożar i unoszący się nad budynkiem czarny dym.",
+      "originalTitle": "Czarny dym nad ambasadą USA w Iraku. Została trafiona w ataku rakietowym",
+      "originalDescription": "Ambasada USA w stolicy Iraku Bagdadzie została trafiona w ataku rakietowym - poinformowały irackie źródła bezpieczeństwa. Na opublikowanym przez agencję Reuters nagraniu widać pożar i unoszący się nad budynkiem czarny dym."
+    },
+    {
+      "title": "Wybuch w szkole żydowskiej. Władze mówią o \"celowym ataku\"",
+      "link": "https://tvn24.pl/swiat/holandia-wybuch-w-szkole-zydowskiej-w-amsterdamie-wladze-mowia-o-celowym-ataku-st8947505?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 07:17:29 GMT",
+      "description": "W Amsterdamie doszło do wybuchu w szkole żydowskiej - przekazała agencja Reuters. Lokalne władze określają to jako \"celowy atak\" na społeczność żydowską.",
+      "originalTitle": "Wybuch w szkole żydowskiej. Władze mówią o \"celowym ataku\"",
+      "originalDescription": "W Amsterdamie doszło do wybuchu w szkole żydowskiej - przekazała agencja Reuters. Lokalne władze określają to jako \"celowy atak\" na społeczność żydowską."
+    },
+    {
+      "title": "Szybka ewolucja uratowała tę roślinę przed suszą",
       "link": "https://tvn24.pl/tvnmeteo/nauka/szybka-ewolucja-uratowala-te-rosline-przed-susza-st8947506?source=rss",
       "pubDate": "Sat, 14 Mar 2026 07:17:00 GMT",
       "description": "Szybka ewolucja może chronić niektóre gatunki roślin przed skutkami zmian klimatu - wynika z najnowszych badań. Po raz pierwszy naukowcom udało się zaobserwować proces ratunku ewolucyjnego w naturalnych warunkach.",
@@ -20,7 +52,7 @@
       "originalDescription": "Szybka ewolucja może chronić niektóre gatunki roślin przed skutkami zmian klimatu - wynika z najnowszych badań. Po raz pierwszy naukowcom udało się zaobserwować proces ratunku ewolucyjnego w naturalnych warunkach."
     },
     {
-      "title": "Ewakuacja w Dausze, B-2 nad Iranem",
+      "title": "Ewakuacja w Dausze, bombowce stealth B-2 nad Iranem, ostrzeżenie przed wiecami",
       "link": "https://tvn24.pl/swiat/konflikt-na-bliskim-wschodzie-najwazniejsze-informacje-14-marca-ewakuacja-w-dausze-bombowce-stealth-b-2-nad-iranem-ostrzezenie-przed-wiecami-st8947450?source=rss",
       "pubDate": "Sat, 14 Mar 2026 07:06:47 GMT",
       "description": "Co najmniej 12 medyków zginęło w izraelskim ataku na ośrodek zdrowia na południu Libanu. W związku z irańskimi atakami, w stolicy Kataru Dausze ewakuowano części dzielnicy. Z kolei amerykańskie dowództwo przekazało, że USA wykorzystały bombowce stealth B-2 do ataków na odległe cele w Iranie. Oto, co działo się w ostatnich godzinach w związku z konfliktem na Bliskim Wschodzie.",
@@ -28,7 +60,7 @@
       "originalDescription": "Co najmniej 12 medyków zginęło w izraelskim ataku na ośrodek zdrowia na południu Libanu. W związku z irańskimi atakami, w stolicy Kataru Dausze ewakuowano części dzielnicy. Z kolei amerykańskie dowództwo przekazało, że USA wykorzystały bombowce stealth B-2 do ataków na odległe cele w Iranie. Oto, co działo się w ostatnich godzinach w związku z konfliktem na Bliskim Wschodzie."
     },
     {
-      "title": "Donald Trump mówi o ataku na wyspę Chark",
+      "title": "\"Perła w koronie\". Donald Trump: na mój rozkaz zaatakowano wyspę Chark",
       "link": "https://tvn24.pl/swiat/iran-perla-w-koronie-donald-trump-na-moj-rozkaz-zaatakowano-wyspe-chark-st8947445?source=rss",
       "pubDate": "Sat, 14 Mar 2026 06:23:45 GMT",
       "description": "Donald Trump twierdzi, że amerykańskie siły przeprowadziły \"jedno z najsilniejszych bombardowań w historii Bliskiego Wschodu\", niszcząc cele militarne na irańskiej wyspie Chark w Zatoce Perskiej. W odpowiedzi na amerykański atak, irańskie siły zbrojne zagroziły, że \"obrócą w popiół\" instalacje energetyczne na Bliskim Wschodzie powiązane z Waszyngtonem.",
@@ -50,38 +82,6 @@
       "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju obowiązują alarmy przed silnym wiatrem. Sprawdź szczegóły.",
       "originalTitle": "Porywy nawet do 100 km/h. Tu trzeba uważać",
       "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju obowiązują alarmy przed silnym wiatrem. Sprawdź szczegóły."
-    },
-    {
-      "title": "Tusk odpowiada na weto, Pentagon wysyła grupę desantową, wybrano sędziów Trybunały Konstytucyjnego",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-sobote-14-marca-najwazniejsze-informacje-st8947448?source=rss",
-      "pubDate": "Sat, 14 Mar 2026 05:20:22 GMT",
-      "description": "Rząd przyjął uchwałę, na podstawie której zostanie zrealizowany program Polska Zbrojna, to odpowiedź na prezydenckie weto w sprawie SAFE. Pentagon zatwierdził wniosek o wysłanie na Bliski Wschód jednostki ekspedycyjnej piechoty morskiej. Sejm wybrał sześciu nowych sędziów Trybunału Konstytucyjnego. Oto pięć rzeczy, które warto wiedzieć w sobotę 14 marca.",
-      "originalTitle": "Tusk odpowiada na weto, Pentagon wysyła grupę desantową, wybrano sędziów Trybunały Konstytucyjnego",
-      "originalDescription": "Rząd przyjął uchwałę, na podstawie której zostanie zrealizowany program Polska Zbrojna, to odpowiedź na prezydenckie weto w sprawie SAFE. Pentagon zatwierdził wniosek o wysłanie na Bliski Wschód jednostki ekspedycyjnej piechoty morskiej. Sejm wybrał sześciu nowych sędziów Trybunału Konstytucyjnego. Oto pięć rzeczy, które warto wiedzieć w sobotę 14 marca."
-    },
-    {
-      "title": "Poderwane myśliwce i wstrzymane odloty na dwóch lotniskach w Polsce",
-      "link": "https://tvn24.pl/polska/poderwane-mysliwce-i-wstrzymane-odloty-na-dwoch-lotniskach-w-polsce-st8947451?source=rss",
-      "pubDate": "Sat, 14 Mar 2026 05:17:59 GMT",
-      "description": "W związku z atakami Rosji na terenie Ukrainy nad ranem w sobotę wojsko poderwało w Polsce myśliwce. Jak przekazała Polska Agencja Żeglugi Powietrznej, na dwóch lotniskach - w Lublinie i Rzeszowie - wstrzymane były operacje lotnicze. Jak informują władze Ukrainy, tej nocy w rosyjskich atakach zginęły co najmniej trzy osoby.",
-      "originalTitle": "Poderwane myśliwce i wstrzymane odloty na dwóch lotniskach w Polsce",
-      "originalDescription": "W związku z atakami Rosji na terenie Ukrainy nad ranem w sobotę wojsko poderwało w Polsce myśliwce. Jak przekazała Polska Agencja Żeglugi Powietrznej, na dwóch lotniskach - w Lublinie i Rzeszowie - wstrzymane były operacje lotnicze. Jak informują władze Ukrainy, tej nocy w rosyjskich atakach zginęły co najmniej trzy osoby."
-    },
-    {
-      "title": "Pogoda na dziś - sobota, 14.03. Mocniej powieje, do 20 stopni na termometrach",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-14-03-mocniej-powieje-do-20-stopni-na-termometrach-st8947282?source=rss",
-      "pubDate": "Sat, 14 Mar 2026 01:00:00 GMT",
-      "description": "Pogoda na dziś. Sobota 14.03 przyniesie na ogół pogodną aurę. Termometry pokażą maksymalnie 20 stopni Celsjusza. Aura przeważnie korzystnie wpłynie na nasze samopoczucie.",
-      "originalTitle": "Pogoda na dziś - sobota, 14.03. Mocniej powieje, do 20 stopni na termometrach",
-      "originalDescription": "Pogoda na dziś. Sobota 14.03 przyniesie na ogół pogodną aurę. Termometry pokażą maksymalnie 20 stopni Celsjusza. Aura przeważnie korzystnie wpłynie na nasze samopoczucie."
-    },
-    {
-      "title": "\"Nadał ton\" tej decyzji. Tusk: poprowadził Nawrockiego jak za rączkę",
-      "link": "https://tvn24.pl/polska/nadal-ton-tej-decyzji-tusk-poprowadzil-nawrockiego-jak-za-raczke-st8947422?source=rss",
-      "pubDate": "Fri, 13 Mar 2026 21:48:53 GMT",
-      "description": "Ci, którzy mówią, że to jest wstęp do polexitu, do wyjścia Polski z Unii Europejskiej, mają niestety coraz więcej racji - powiedział premier Donald Tusk w TVP Info, komentując sprzeciw prezydenta wobec unijnego programu SAFE. Szef rządu rozwiał też wątpliwości wokół ustawy złożonej przez głowę państwa.",
-      "originalTitle": "\"Nadał ton\" tej decyzji. Tusk: poprowadził Nawrockiego jak za rączkę",
-      "originalDescription": "Ci, którzy mówią, że to jest wstęp do polexitu, do wyjścia Polski z Unii Europejskiej, mają niestety coraz więcej racji - powiedział premier Donald Tusk w TVP Info, komentując sprzeciw prezydenta wobec unijnego programu SAFE. Szef rządu rozwiał też wątpliwości wokół ustawy złożonej przez głowę państwa."
     }
   ]
 }
