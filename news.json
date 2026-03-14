@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-14T18:46:19.668Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-14T19:11:42.086Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Iran ostrzega Ukrainę o możliwych konsekwencjach",
+      "link": "https://tvn24.pl/swiat/iran-grozi-ukrainie-uczynila-swoje-terytorium-celem-st8948381?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 18:59:33 GMT",
+      "description": "Terytorium Ukrainy może być teraz legalnym celem ataków Iranu - ocenił wysoko postawiony irański urzędnik. Choć stwierdził, że Ukraina udzieliła wsparcia Izraelowi w zakresie zwalczania dronów, nie ma o tym wiarygodnych doniesień. Za to Ukraina od dawna jest celem ataków irańskich dronów.",
+      "originalTitle": "Iran grozi Ukrainie. \"Uczyniła swoje terytorium celem\"",
+      "originalDescription": "Terytorium Ukrainy może być teraz legalnym celem ataków Iranu - ocenił wysoko postawiony irański urzędnik. Choć stwierdził, że Ukraina udzieliła wsparcia Izraelowi w zakresie zwalczania dronów, nie ma o tym wiarygodnych doniesień. Za to Ukraina od dawna jest celem ataków irańskich dronów."
+    },
+    {
+      "title": "Pogoda na 15.03: nocne opady, dzienne burze",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-15-03-noca-lokalnie-moze-popadac-w-dzien-zagrzmiec-st8948301?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 18:53:19 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli niedzieli.\n• Data tego dnia to 15.03.\n• Noc w większości kraju będzie pogodna.\n• W niektórych miejscach może padać deszcz w postaci kropelek.\n• W ciągu dnia aura stanie się pochmurna.\n• Maksymalna temperatura wyniesie do 18 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - niedziela, 15.03. Nocą lokalnie może popadać, w dzień - zagrzmieć",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę, 15.03. Noc w większości kraju będzie pogodna, miejscami pokropi. W dzień aura zrobi się pochmurna, choć na termometrach zobaczymy wartości do 18 stopni Celsjusza."
+    },
+    {
+      "title": "Iran skomentował sytuację w cieśninie Ormuz",
+      "link": "https://tvn24.pl/swiat/donald-trump-ciesnina-ormuz-bedzie-otwarta-st8948289?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 15:15:26 GMT",
+      "description": "• Prezydent USA Donald Trump zapowiedział, że cieśnina Ormuz będzie \"otwarta i bezpieczna\".\n• Ma w tym pomóc intensywne bombardowanie irańskiego wybrzeża.\n• Trump ogłosił międzynarodową współpracę w tej sprawie.\n• W sprawie międzynarodowej współpracy jest więcej pytań niż odpowiedzi.\n• Szef irańskiego MSZ oświadczył, że cieśnina \"jest otwarta\".\n• Szef irańskiego MSZ zaznaczył, że cieśnina nie jest otwarta dla wszystkich.",
+      "originalTitle": "\"Wkrótce cieśnina Ormuz będzie otwarta\". Iran odpowiedział",
+      "originalDescription": "Jak zapowiedział prezydent USA Donald Trump, cieśnina Ormuz będzie \"otwarta i bezpieczna\". Ma w tym pomóc intensywne bombardowanie irańskiego wybrzeża. Trump ogłosił też międzynarodową współpracę, ale w tej sprawie na razie jest więcej pytań niż odpowiedzi. Szef irańskiego MSZ oświadczył, że cieśnina \"jest otwarta\", ale zaznaczył, że nie dla wszystkich."
+    },
+    {
+      "title": "Statek z Anglii do Nowego Jorku przewozi nietypowego pasażera",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/z-anglii-do-nowego-jorku-nietypowy-pasazer-na-pokladzie-statku-st8948265?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 17:47:41 GMT",
+      "description": "Lis przybył z Anglii do Nowego Jorku. Zwierzę jako pasażer na gapę pokonało ocean na pokładzie statku towarowego i zostało zabrane do nowojorskiego zoo.",
+      "originalTitle": "Z Anglii do Nowego Jorku. Nietypowy pasażer na pokładzie statku",
+      "originalDescription": "Lis przybył z Anglii do Nowego Jorku. Zwierzę jako pasażer na gapę pokonało ocean na pokładzie statku towarowego i zostało zabrane do nowojorskiego zoo."
+    },
+    {
+      "title": "Burza zagraża 200 milionom ludzi",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-megaburza-nadciaga-zagraza-prawie-200-milionom-ludzi-st8948258?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 16:53:36 GMT",
+      "description": "• Pogoda podzieli Stany Zjednoczone.\n• W niedzielę nad centralną i wschodnią częścią kraju przemieści się ośrodek niskiego ciśnienia.\n• Ośrodek niskiego ciśnienia niesie ze sobą niskie temperatury i opady śniegu.\n• Prognozowane są poważne utrudnienia.\n• Utrudnienia mogą zagrażać setkom milionów mieszkańców.",
+      "originalTitle": "Megaburza na horyzoncie. Zagraża prawie 200 milionom ludzi",
+      "originalDescription": "Pogoda podzieli Stany Zjednoczone. W niedzielę nad centralną i wschodnią częścią kraju przemieści się ośrodek niskiego ciśnienia, niosący ze sobą niskie temperatury i opady śniegu. Prognozowane są poważne utrudnienia, które mogą zagrażać setkom milionów mieszkańców."
+    },
+    {
+      "title": "Rzecznik rządu komentuje propozycję prezydenta",
+      "link": "https://tvn24.pl/polska/program-safe-adam-szlapka-o-ustawie-prezydenta-rodzaj-uzurpacji-wladzy-st8948334?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 16:50:09 GMT",
+      "description": "• Nie ma żadnych pieniędzy zaproponowanych w tej ustawie.\n• Rzecznik rządu to Adam Szłapka.\n• Adam Szłapka komentował kontrpropozycję prezydenta w sprawie SAFE.\n• Rzecznik rządu wypowiedział się na temat tego, czy rząd zajmie się prezydenckim projektem ustawy.",
+      "originalTitle": "\"Rodzaj uzurpacji władzy\". Rzecznik rządu o propozycji prezydenta",
+      "originalDescription": "Nie ma żadnych pieniędzy zaproponowanych w tej ustawie - ocenił rzecznik rządu Adam Szłapka. Komentował kontrpropozycję prezydenta w sprawie SAFE. Powiedział też, czy rząd zajmie się prezydenckim projektem ustawy."
+    },
+    {
+      "title": "Utopił w wannie swoją znajomą. Jest wyrok",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/siedlce-zostal-skazany-przez-sad-za-zabojstwo-utopil-swoja-znajoma-st8947705?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 16:19:10 GMT",
+      "description": "Rafał M. został skazany przez Sąd Okręgowy w Siedlcach za zabójstwo na 25 lat pozbawienia wolności. Mężczyzna utopił w wannie swoją znajomą.",
+      "originalTitle": "Utopił w wannie swoją znajomą. Jest wyrok",
+      "originalDescription": "Rafał M. został skazany przez Sąd Okręgowy w Siedlcach za zabójstwo na 25 lat pozbawienia wolności. Mężczyzna utopił w wannie swoją znajomą."
+    },
+    {
+      "title": "Iran \"nie posiadał broni jądrowej\". To sygnał dla Kima",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-kim-dzong-un-o-broni-jadrowej-i-jej-rozbudowie-przez-koree-polnocna-st8948256?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 16:15:40 GMT",
+      "description": "Wojna z Iranem utwierdza Koreę Północną w przekonaniu, że rozbudowa potencjału nuklearnego stanowi najlepszą obronę - oceniają eksperci. \"Kim musiał pomyśleć, że Iran został zaatakowany w ten sposób, ponieważ nie posiadał broni jądrowej\" - stwierdza jeden z nich. Jak konflikt na Bliskim Wschodzie wpłynie na potencjalne negocjacje nuklearne Waszyngtonu i Pjongjangu?",
+      "originalTitle": "Iran \"nie posiadał broni jądrowej\". To sygnał dla Kima",
+      "originalDescription": "Wojna z Iranem utwierdza Koreę Północną w przekonaniu, że rozbudowa potencjału nuklearnego stanowi najlepszą obronę - oceniają eksperci. \"Kim musiał pomyśleć, że Iran został zaatakowany w ten sposób, ponieważ nie posiadał broni jądrowej\" - stwierdza jeden z nich. Jak konflikt na Bliskim Wschodzie wpłynie na potencjalne negocjacje nuklearne Waszyngtonu i Pjongjangu?"
+    },
+    {
+      "title": "Pogoda. Duża zmiana w pogodzie tuż-tuż. Zagrzmi, temperatura spadnie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-duza-zmiana-w-pogodzie-tuz-tuz-zagrzmi-temperatura-spadnie-mozliwy-snieg-z-deszczem-st8948298?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 15:14:47 GMT",
+      "description": "Pogoda w Polsce. W kolejnych dniach aura mocno się zmieni. Napływ chłodniejszych mas powietrza przyniesie lokalne opady deszczu ze śniegiem i duże ochłodzenie. Miejscami niewykluczone będą burze.",
+      "originalTitle": "Pogoda. Duża zmiana w pogodzie tuż-tuż. Zagrzmi, temperatura spadnie",
+      "originalDescription": "Pogoda w Polsce. W kolejnych dniach aura mocno się zmieni. Napływ chłodniejszych mas powietrza przyniesie lokalne opady deszczu ze śniegiem i duże ochłodzenie. Miejscami niewykluczone będą burze."
+    },
+    {
+      "title": "Niemiecki filozof Jürgen Habermas nie żyje",
+      "link": "https://tvn24.pl/swiat/jurgen-habermas-nie-zyje-slynny-filozof-mial-96-lat-st8948272?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 14:36:09 GMT",
+      "description": "W wieku 96 lat zmarł Jürgen Habermas - niemiecki filozof i socjolog. Znany jest między innymi z teorii racjonalności komunikacyjnej. Habermas był filozofem, który ukształtował dyskurs powojennych Niemiec.",
+      "originalTitle": "Niemiecki filozof Jürgen Habermas nie żyje",
+      "originalDescription": "W wieku 96 lat zmarł Jürgen Habermas - niemiecki filozof i socjolog. Znany jest między innymi z teorii racjonalności komunikacyjnej. Habermas był filozofem, który ukształtował dyskurs powojennych Niemiec."
+    }
+  ]
 }
