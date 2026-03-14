@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-14T05:46:55.445Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-14T06:19:27.464Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Historia nienawiści",
+      "link": "https://tvn24.pl/swiat/wojna-i-dziecinstwo-w-iranie-iranczycy-w-polsce-o-tym-na-co-czekaja-st8946822?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 05:35:49 GMT",
+      "description": "Policja wbiegała do akademika i tłukła wszystkich. Dziewczyny leżały we krwi. Chłopacy wyskakiwali z trzeciego piętra, łamiąc sobie straszliwie nogi. Rej, Cina i Raana uciekli z tego kraju. W bagażu zabrali nienawiść do reżimu kiełkującą w nich od dziecka. Ale właśnie trwa wojna, która daje im nadzieję. W Warszawie przed Pałacem Prezydenckim zbiera się grupka ludzi i tańczy.",
+      "originalTitle": "Nienawiść \"tak stara, jakby była ze mną od zawsze\"",
+      "originalDescription": "Policja wbiegała do akademika i tłukła wszystkich. Dziewczyny leżały we krwi. Chłopacy wyskakiwali z trzeciego piętra, łamiąc sobie straszliwie nogi. Rej, Cina i Raana uciekli z tego kraju. W bagażu zabrali nienawiść do reżimu kiełkującą w nich od dziecka. Ale właśnie trwa wojna, która daje im nadzieję. W Warszawie przed Pałacem Prezydenckim zbiera się grupka ludzi i tańczy."
+    },
+    {
+      "title": "Wiatr do 100 km/h",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-sobota-14-03-silny-wiatr-porywy-nawet-do-100-km-h-tu-trzeba-uwazac-st8946951?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 05:27:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne.\n• W części kraju obowiązują alarmy przed silnym wiatrem.",
+      "originalTitle": "Porywy nawet do 100 km/h. Tu trzeba uważać",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju obowiązują alarmy przed silnym wiatrem. Sprawdź szczegóły."
+    },
+    {
+      "title": "Tusk komentuje weto, Pentagon wysyła grupę, wybór sędziów Trybunału",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-sobote-14-marca-najwazniejsze-informacje-st8947448?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 05:20:22 GMT",
+      "description": "• Rząd przyjął uchwałę, na podstawie której zostanie zrealizowany program Polska Zbrojna.\n• Program Polska Zbrojna jest odpowiedzią na prezydenckie weto w sprawie SAFE.\n• Pentagon zatwierdził wniosek o wysłanie na Bliski Wschód jednostki ekspedycyjnej piechoty morskiej.\n• Sejm wybrał sześciu nowych sędziów Trybunału Konstytucyjnego.\n• Warto wiedzieć o tych wydarzeniach w sobotę 14 marca.",
+      "originalTitle": "Tusk odpowiada na weto, Pentagon wysyła grupę desantową, wybrano sędziów Trybunały Konstytucyjnego",
+      "originalDescription": "Rząd przyjął uchwałę, na podstawie której zostanie zrealizowany program Polska Zbrojna, to odpowiedź na prezydenckie weto w sprawie SAFE. Pentagon zatwierdził wniosek o wysłanie na Bliski Wschód jednostki ekspedycyjnej piechoty morskiej. Sejm wybrał sześciu nowych sędziów Trybunału Konstytucyjnego. Oto pięć rzeczy, które warto wiedzieć w sobotę 14 marca."
+    },
+    {
+      "title": "Problemy z myśliwcami na dwóch lotniskach w Polsce",
+      "link": "https://tvn24.pl/polska/poderwane-mysliwce-i-wstrzymane-odloty-na-dwoch-lotniskach-w-polsce-st8947451?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 05:17:59 GMT",
+      "description": "• W związku z atakami Rosji na terenie Ukrainy nad ranem w sobotę wojsko poderwało w Polsce myśliwce.\n• Ataki miały miejsce na terenie Ukrainy.\n• Wojsko poderwało myśliwce nad ranem w sobotę.\n• Myśliwce zostały poderwane w Polsce.\n• Jak przekazała Polska Agencja Żeglugi Powietrznej, na dwóch lotniskach operacje lotnicze były wstrzymane.\n• Lotniska, na których wstrzymane były operacje lotnicze, znajdują się w Lublinie i Rzeszowie.\n• Operacje lotnicze były wstrzymane na dwóch lotniskach.",
+      "originalTitle": "Poderwane myśliwce i wstrzymane odloty na dwóch lotniskach w Polsce",
+      "originalDescription": "W związku z atakami Rosji na terenie Ukrainy nad ranem w sobotę wojsko poderwało w Polsce myśliwce. Jak przekazała Polska Agencja Żeglugi Powietrznej, na dwóch lotniskach - w Lublinie i Rzeszowie - wstrzymane były operacje lotnicze."
+    },
+    {
+      "title": "Pogoda na sobotę: 20 stopni i wiatr",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-14-03-mocniej-powieje-do-20-stopni-na-termometrach-st8947282?source=rss",
+      "pubDate": "Sat, 14 Mar 2026 01:00:00 GMT",
+      "description": "• Dziś jest sobota.\n• Data to 14.03.\n• Pogoda będzie na ogół pogodna.\n• Termometry pokażą maksymalnie 20 stopni Celsjusza.\n• Aura przeważnie korzystnie wpłynie na nasze samopoczucie.",
+      "originalTitle": "Pogoda na dziś - sobota, 14.03. Mocniej powieje, do 20 stopni na termometrach",
+      "originalDescription": "Pogoda na dziś. Sobota 14.03 przyniesie na ogół pogodną aurę. Termometry pokażą maksymalnie 20 stopni Celsjusza. Aura przeważnie korzystnie wpłynie na nasze samopoczucie."
+    },
+    {
+      "title": "Tusk wsparł kandydaturę Nawrockiego",
+      "link": "https://tvn24.pl/polska/nadal-ton-tej-decyzji-tusk-poprowadzil-nawrockiego-jak-za-raczke-st8947422?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 21:48:53 GMT",
+      "description": "• Ci, którzy mówią, że to jest wstęp do polexitu, do wyjścia Polski z Unii Europejskiej, mają niestety coraz więcej racji.\n• Premier Donald Tusk wypowiedział się w TVP Info.\n• Premier komentował sprzeciw prezydenta wobec unijnego programu SAFE.\n• Szef rządu rozwiał wątpliwości wokół ustawy złożonej przez głowę państwa.",
+      "originalTitle": "\"Nadał ton\" tej decyzji. Tusk: poprowadził Nawrockiego jak za rączkę",
+      "originalDescription": "Ci, którzy mówią, że to jest wstęp do polexitu, do wyjścia Polski z Unii Europejskiej, mają niestety coraz więcej racji - powiedział premier Donald Tusk w TVP Info, komentując sprzeciw prezydenta wobec unijnego programu SAFE. Szef rządu rozwiał też wątpliwości wokół ustawy złożonej przez głowę państwa."
+    },
+    {
+      "title": "Opis domu",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-wystawa-dom-ktorego-nie-widac-st8947408?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 21:30:13 GMT",
+      "description": "• Czym jest dom dla współczesnego człowieka, to pytanie znalazło się w centrum wystawy.\n• Wystawa prezentuje wielkoformatowe obrazy.\n• Autorką obrazów jest Aleksandra Batura.\n• Wystawa odbywa się w Muzeum Wolnej Białorusi.",
+      "originalTitle": "\"Dom, którego nie widać\". Obrazy, dźwięki, skojarzenia",
+      "originalDescription": "Czym jest dom dla współczesnego człowieka? To pytanie znalazło się w centrum wystawy wielkoformatowych obrazów Aleksandry Batury w Muzeum Wolnej Białorusi."
+    },
+    {
+      "title": "Oskarżeni o sabotaż z użyciem przesyłek",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-paczki-plonely-oskarzeni-o-sabotaz-proces-st8947377?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:45:56 GMT",
+      "description": "• Rozpoczął się proces pięciu oskarżonych.\n• Oskarżeni są o działalność na rzecz rosyjskiego wywiadu.\n• Zdaniem śledczych, oskarżeni mieli przygotowywać i przesyłać niebezpieczne paczki.\n• Trzy z paczek się zapaliły.",
+      "originalTitle": "Przesyłki z mechanizmem samozapłonu. Oskarżeni o sabotaż",
+      "originalDescription": "Rozpoczął się proces pięciu oskarżonych o działalność na rzecz rosyjskiego wywiadu. Zdaniem śledczych, mieli oni przygotowywać i przesyłać niebezpieczne paczki. Trzy z nich się zapaliły."
+    },
+    {
+      "title": "Powódź na Litwie zalała 20 domów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-na-litwie-zawyly-syreny-zalalo-20-domow-st8947362?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:26:47 GMT",
+      "description": "• Rzeka Wilia wezbrała.\n• Doszło do powodzi na terenie powiatu kowieńskiego.\n• Powódź miała miejsce na Litwie.\n• W jednej z miejscowości zawyły syreny alarmowe.\n• Syreny alarmowe ostrzegały przed żywiołem.",
+      "originalTitle": "Powódź na Litwie. Zawyły syreny, zalało 20 domów",
+      "originalDescription": "Rzeka Wilia wezbrała i doszło do powodzi na terenie powiatu kowieńskiego na Litwie. W jednej z miejscowości zawyły syreny alarmowe ostrzegające przed żywiołem."
+    },
+    {
+      "title": "Weto Nawrockiego dotyczy finansów",
+      "link": "https://tvn24.pl/polska/u-nas-oglada-sie-kazda-zlotowke-przez-weto-nawrockiego-straca-miliardy-st8947307?source=rss",
+      "pubDate": "Fri, 13 Mar 2026 20:25:01 GMT",
+      "description": "• Policja jest najbardziej niedoszacowaną formacją, jeżeli chodzi o budżet.\n• Rafał Jankowski powiedział, że kiedy policja wydaje pieniądze, to one są celowo wydawane.\n• Rafał Jankowski jest przewodniczącym Zarządu Głównego NSZZ Policjantów.\n• Rafał Jankowski wypowiedział się w programie \"#BezKitu\" w TVN24.\n• Wypowiedź Rafała Jankowskiego dotyczyła potrzeb formacji w kontekście prezydenckiego weta dla SAFE.",
+      "originalTitle": "\"U nas ogląda się każdą złotówkę\". Przez weto Nawrockiego stracą miliardy",
+      "originalDescription": "Policja jest chyba najbardziej niedoszacowaną formacją, jeżeli chodzi o budżet. Mogę zapewnić, że kiedy my wydajemy pieniądze, to naprawdę one są celowo wydawane - powiedział w \"#BezKitu\" w TVN24 Rafał Jankowski, przewodniczący Zarządu Głównego NSZZ Policjantów, o potrzebach formacji w kontekście prezydenckiego weta dla SAFE."
+    }
+  ]
 }
