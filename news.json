@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-15T08:13:00.155Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-15T08:46:22.583Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek na Hel, ofiara śmiertelna",
+      "link": "https://tvn24.pl/trojmiasto/chalupy-tragedia-na-drodze-na-hel-nie-zyje-kobieta-st8948641?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 08:41:23 GMT",
+      "description": "W porannym wypadku w Chałupach (Pomorskie) zginęła kobieta kierująca samochodem osobowym. Zderzyła się autem dostawczym. Droga w miejscu wypadku jest nieprzejezdna w obu kierunkach.",
+      "originalTitle": "Tragedia na drodze na Hel. Nie żyje kobieta",
+      "originalDescription": "W porannym wypadku w Chałupach (Pomorskie) zginęła kobieta kierująca samochodem osobowym. Zderzyła się autem dostawczym. Droga w miejscu wypadku jest nieprzejezdna w obu kierunkach."
+    },
+    {
+      "title": "Były członek Fidesz mówi o partii",
+      "link": "https://tvn24.pl/swiat/peter-magyar-kim-jest-przywodca-opozycji-na-wegrzech-ktory-rzucil-wyzwanie-viktorowi-orbanowi-st8921378?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 08:21:26 GMT",
+      "description": "• Od obecnego premiera odróżnia go niemal wszystko.\n• Różnice dotyczą wieku, wyglądu, usposobienia, programu politycznego.\n• Obaj mieli związki z partią Fidesz.\n• Partia Fidesz rządzi na Węgrzech od 16 lat.\n• Lider opozycyjnej partii to Peter Magyar.\n• Peter Magyar jest liderem partii Tiszy.\n• Peter Magyar może zakończyć polityczną epokę Viktora Orbana za kilka tygodni.\n• Viktor Orban jest obecnym premierem.",
+      "originalTitle": "\"Zna Fidesz od wewnątrz\". Czy zada mu ostateczny cios",
+      "originalDescription": "Od obecnego premiera odróżnia go niemal wszystko. Wiek, wygląd, usposobienie, program polityczny. Może z wyjątkiem tego, że obaj mieli związki z partią Fidesz, która rządzi na Węgrzech od 16 lat. Lider opozycyjnej Tiszy Peter Magyar za kilka tygodni może zakończyć polityczną epokę Viktora Orbana. Dlaczego to właśnie jemu może się udać?"
+    },
+    {
+      "title": "Wypadek samochodowy, jeden ofiara śmiertelna",
+      "link": "https://tvn24.pl/opole/opolskie-jamielnica-samochod-uderzyl-w-drzewo-pasazer-nie-przezyl-st8948498?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 08:14:47 GMT",
+      "description": "• W wypadku brał udział samochód osobowy.\n• Samochód uderzył w drzewo.\n• W pojeździe podróżowały trzy osoby.\n• Jedna z osób zginęła w wyniku wypadku.\n• Wypadek miał miejsce w województwie opolskim.",
+      "originalTitle": "Samochód uderzył w drzewo. Pasażer nie przeżył",
+      "originalDescription": "Śmiertelny wypadek w województwie opolskim. Samochód osobowy uderzył w drzewo. Pojazdem podróżowały trzy osoby. Jedna z nich zginęła."
+    },
+    {
+      "title": "Mężczyzna potrącony po wysiadaniu z auta",
+      "link": "https://tvn24.pl/katowice/katowice-tragedia-na-s1-nie-zyje-mlody-mezczyzna-wysiadl-z-auta-i-zostal-potracony-st8948462?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 08:12:21 GMT",
+      "description": "• Tragiczny wypadek miał miejsce na S1 w Katowicach.\n• 23-latek zatrzymał swój samochód i wysiadł.\n• Został potrącony.\n• Zginął na miejscu.\n• Policja wyjaśnia okoliczności tego zdarzenia.\n• Wyja��nianie okoliczności zdarzenia odbywa się pod nadzorem prokuratury.",
+      "originalTitle": "Wysiadł z auta, został potrącony",
+      "originalDescription": "Tragiczny wypadek na S1 w Katowicach. 23-latek zatrzymał swój samochód i wysiadł. Został potrącony, zginął na miejscu. Policja pod nadzorem prokuratury wyjaśnia okoliczności tego zdarzenia."
+    },
+    {
+      "title": "Iran ogłasza nowe cele ataku",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-usa-kolejna-grozba-gwardii-rewolucyjnej-to-maja-byc-kolejne-cele-ataku-st8948595?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 08:11:51 GMT",
+      "description": "• Gwardia Rewolucyjna Iranu wezwała USA do wycofania ich przedsiębiorstw z regionu Bliskiego Wschodu.\n• Agencja Reuters przekazała tę informację.\n• Informacja pochodzi z irańskich państwowych mediów.",
+      "originalTitle": "Nowa groźba Iranu. To mają być kolejne cele ataku",
+      "originalDescription": "Gwardia Rewolucyjna Iranu wezwała USA do wycofania ich przedsiębiorstw z regionu Bliskiego Wschodu - przekazała agencja Reuters, powołując się irańskie państwowe media."
+    },
+    {
+      "title": "Prognoza pogody: możliwe burze nad Polską",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/front-nad-polska-burze-w-polsce-moga-pojawic-sie-burze-st8948566?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:58:34 GMT",
+      "description": "• W niedzielę nad Polską będzie przemieszczał się chłodny front atmosferyczny.\n• Na froncie mogą kłębić się chmury, niosące miejscami wyładowania atmosferyczne.",
+      "originalTitle": "Front nad Polską. Mogą pojawić się burze",
+      "originalDescription": "Pogoda w Polsce. W niedzielę nad naszym krajem będzie przemieszczał się chłodny front atmosferyczny. Mogą na nim kłębić się chmury, niosące miejscami wyładowania atmosferyczne. Sprawdź, gdzie może zagrzmieć."
+    },
+    {
+      "title": "Dieta a rak: wybór pokarmu",
+      "link": "https://tvn24.pl/zdrowie/dieta-w-chorobie-onkologicznej-ekspertka-o-zasadach-madrego-odzywiania-w-trakcie-leczenia-st8945808?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:40:18 GMT",
+      "description": "Pacjentka onkologiczna jedząca pączka potrafi wywołać oburzenie. Niektórzy nie powstrzymują się nawet od komentarzy, że sama jest winna swojej chorobie albo jej rozsianiu. I radzą: nie jedz cukru, stosuj głodówki, pij zakwas z buraka. Ile w tych radach prawdy? Zapytaliśmy dietetyczkę onkologiczną dr n. o zdr. Emilię Kałędkiewicz, która była też gościnią Joanny Kryńskiej w podcaście \"Wywiad medyczny\".",
+      "originalTitle": "Rak i dieta. \"Lepsza zjedzona biała bułka z dżemem niż niezjedzony żytni chleb z awokado\"",
+      "originalDescription": "Pacjentka onkologiczna jedząca pączka potrafi wywołać oburzenie. Niektórzy nie powstrzymują się nawet od komentarzy, że sama jest winna swojej chorobie albo jej rozsianiu. I radzą: nie jedz cukru, stosuj głodówki, pij zakwas z buraka. Ile w tych radach prawdy? Zapytaliśmy dietetyczkę onkologiczną dr n. o zdr. Emilię Kałędkiewicz, która była też gościnią Joanny Kryńskiej w podcaście \"Wywiad medyczny\"."
+    },
+    {
+      "title": "Dziewiąte takie losowanie Lotto z rzędu",
+      "link": "https://tvn24.pl/biznes/pieniadze/lotto-i-lotto-plus-wyniki-losowania-z-14-marca-2026-jakie-liczby-padly-podczas-ostatniego-losowania-st8948568?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:33:23 GMT",
+      "description": "W sobotnim losowaniu Lotto nikomu nie udało się wytypować poprawnie wszystkich sześciu liczb. Kumulacja w Lotto wzrosła do 22 milionów złotych. Oto wyniki Lotto i Lotto Plus z 14 marca 2026 roku.",
+      "originalTitle": "Dziewiąte takie losowanie Lotto z rzędu",
+      "originalDescription": "W sobotnim losowaniu Lotto nikomu nie udało się wytypować poprawnie wszystkich sześciu liczb. Kumulacja w Lotto wzrosła do 22 milionów złotych. Oto wyniki Lotto i Lotto Plus z 14 marca 2026 roku."
+    },
+    {
+      "title": "Zajrzeliśmy za kulisy Oscarów. \"Ci panowie mają zadanie bardzo ważne\"",
+      "link": "https://tvn24.pl/swiat/oscary-2026-marcin-wrona-pokazuje-kulisy-przygotowan-do-gali-st8948513?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:17:49 GMT",
+      "description": "Korespondent \"Faktów\" TVN Marcin Wrona w niedzielnym poranku TVN24 uchylił rąbka oscarowej tajemnicy. Pokazał, jak wygląda szykowanie słynnego czerwonego dywanu. Dziennikarz miał też okazję spotkać się z jedną z polskich nominowanych do Oscara 2026 Małgorzatą Turzańską.",
+      "originalTitle": "Zajrzeliśmy za kulisy Oscarów. \"Ci panowie mają zadanie bardzo ważne\"",
+      "originalDescription": "Korespondent \"Faktów\" TVN Marcin Wrona w niedzielnym poranku TVN24 uchylił rąbka oscarowej tajemnicy. Pokazał, jak wygląda szykowanie słynnego czerwonego dywanu. Dziennikarz miał też okazję spotkać się z jedną z polskich nominowanych do Oscara 2026 Małgorzatą Turzańską."
+    },
+    {
+      "title": "Są agresywniejsze w parkach niż w lasach. Dlaczego?",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/wiewiorki-sa-agresywniejsze-w-parkach-niz-w-lasach-dlaczego-st8948541?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 07:16:53 GMT",
+      "description": "Wiewiórki to pospolity gatunek, który występuje na terenie całej Polski. Postrzegamy je jako sympatyczne gryzonie zajadające się orzechami. - Choć czasem wydają się oswojone, wciąż są dzikimi zwierzętami - powiedziała profesor Dagny Krauze-Gryz z Instytutu Nauk Leśnych SGGW w Warszawie.",
+      "originalTitle": "Są agresywniejsze w parkach niż w lasach. Dlaczego?",
+      "originalDescription": "Wiewiórki to pospolity gatunek, który występuje na terenie całej Polski. Postrzegamy je jako sympatyczne gryzonie zajadające się orzechami. - Choć czasem wydają się oswojone, wciąż są dzikimi zwierzętami - powiedziała profesor Dagny Krauze-Gryz z Instytutu Nauk Leśnych SGGW w Warszawie."
+    }
+  ]
 }
