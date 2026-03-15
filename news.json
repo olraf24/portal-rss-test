@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-15T14:43:49.259Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-15T15:10:04.770Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ośmiornica pomaga nurkowi",
+      "link": "https://konkret24.tvn24.pl/swiat/pomocna-osmiornica-podaje-narzedzia-nurkowi-co-to-za-historia-st8943172?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:52:49 GMT",
+      "description": "Historia ośmiornicy \"pomagającej\" nurkowi zdobyła serca wielu internautów. Tylko że ma niewiele wspólnego z prawdą. Wyjaśniamy, jak powstała popularna grafika ze zwierzęciem.",
+      "originalTitle": "\"Pomocna ośmiornica\" podaje narzędzia nurkowi? Co to za historia",
+      "originalDescription": "Historia ośmiornicy \"pomagającej\" nurkowi zdobyła serca wielu internautów. Tylko że ma niewiele wspólnego z prawdą. Wyjaśniamy, jak powstała popularna grafika ze zwierzęciem."
+    },
+    {
+      "title": "Iran odpowiada na oświadczenie USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-reaguje-na-apel-donalda-trumpa-st8949258?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:51:31 GMT",
+      "description": "• Szef irańskiej dyplomacji to Abbas Aragczi.\n• Abbas Aragczi zwrócił się do społeczności międzynarodowej z apelem.\n• Apelem jest unikanie działań, które mogłyby doprowadzić do eskalacji napięć.\n• Informację przekazała agencja AFP.",
+      "originalTitle": "Iran reaguje na apel Trumpa",
+      "originalDescription": "Szef irańskiej dyplomacji Abbas Aragczi zwrócił się do społeczności międzynarodowej z apelem o unikanie działań, które mogłyby doprowadzić do eskalacji napięć - przekazała agencja AFP."
+    },
+    {
+      "title": "Wypadek drogowy, jeden zabity",
+      "link": "https://tvn24.pl/lublin/blonie-zaczepil-o-bagaznik-motocykla-zginal-na-miejscu-st8949260?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:51:08 GMT",
+      "description": "• Zmarł 79-letni motocyklista.\n• Wypadek miał miejsce w miejscowości Błonie.\n• Miejscowość Błonie znajduje się w województwie lubelskim.\n• Motocyklista wyprzedzał inny motocykl.\n• Podczas wyprzedzania zahaczył o bagażnik innego motocykla.\n• Po zahaczeniu zjechał na przeciwległy pas ruchu.\n• Na przeciwległym pasie ruchu zderzył się z samochodem osobowym.\n• W wyniku wypadku trzy osoby z samochodu osobowego trafiły do szpitala.\n• Wśród osób, które trafiły do szpitala, było jedno dziecko.",
+      "originalTitle": "Zaczepił o bagażnik motocykla. Zginął na miejscu",
+      "originalDescription": "Nie żyje 79-letni motocyklista, który w miejscowości Błonie (woj. lubelskie) wyprzedzał inny motocykl i zahaczył o jego bagażnik. Zjechał na przeciwległy pas, gdzie zderzył się z samochodem osobowym. Trzy osoby z auta - w tym jedno dziecko - trafiły do szpitala."
+    },
+    {
+      "title": "Zimowe zagrożenie powróci wkrótce",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-prognoza-zagrozen-imgw-oblodzenie-zimowe-zagrozenie-moze-powrocic-st8949253?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:43:19 GMT",
+      "description": "Pogoda. Instytut Meteorologii i Gospodarki Wodnej (IMGW) opublikował prognozę zagrożeń na najbliższe dni. Synoptycy spodziewają się powrotu jednego z zimowych zagrożeń w części kraju. Sprawdź, gdzie należy uważać na groźną aurę.",
+      "originalTitle": "Pogoda. To zimowe zagrożenie może powrócić w kolejnych dniach",
+      "originalDescription": "Pogoda. Instytut Meteorologii i Gospodarki Wodnej (IMGW) opublikował prognozę zagrożeń na najbliższe dni. Synoptycy spodziewają się powrotu jednego z zimowych zagrożeń w części kraju. Sprawdź, gdzie należy uważać na groźną aurę."
+    },
+    {
+      "title": "Wystawa 240 plakatów",
+      "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-wystawa-plakat-polski-kolekcja-w-muzeum-plakatu-co-mozna-zobaczyc-od-kiedy-st8948682?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:28:57 GMT",
+      "description": "• W Muzeum Plakatu można obejrzeć wystawę \"Plakat polski. Kolekcja\".\n• Wystawa składa się z 240 prac.\n• Prace pozwalają prześledzić historię Polski.\n• Prace pozwalają prześledzić rozwój plakatu.\n• Prace przedstawiają walkę o tożsamość.\n• Prace przedstawiają propagandę z czasów PRL-u.\n• Prace przedstawiają przeobrażenia polityczne.\n• Prace przedstawiają przeobrażenia kulturowe.\n• Prace przedstawiają codzienność minionych dekad.",
+      "originalTitle": "Wojna, propaganda i wolność na 240 plakatach",
+      "originalDescription": "W Muzeum Plakatu można obejrzeć 240 prac składających się na wystawę \"Plakat polski. Kolekcja\". Pozwalają one prześledzić historię Polski, ale też rozwój plakatu. Przedstawiają walkę o tożsamość, propagandę z czasów PRL-u, a następnie przeobrażenia polityczne i kulturowe. Jest na nich też codzienność minionych dekad."
+    },
+    {
+      "title": "Pies uratowany z samochodu",
+      "link": "https://tvn24.pl/katowice/jastrzebie-zdroj-zauwazyla-psa-zamknietego-w-aucie-dzieki-jej-reakcji-zwierzak-zostal-uratowany-st8949226?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:28:41 GMT",
+      "description": "W centrum Jastrzębia-Zdroju kobieta zauważyła psa zamkniętego w samochodzie. Zwierzę nie miało dostępu do wody, a szyby pojazdu były zaparowane. Dzięki jej reakcji i błyskawicznej interwencji jastrzębskich policjantów czworonóg został uratowany, zanim doszło do tragedii. Według policji pies znajdował się w aucie około cztery godziny.",
+      "originalTitle": "Zauważyła psa zamkniętego w aucie. Dzięki jej reakcji zwierzak został uratowany",
+      "originalDescription": "W centrum Jastrzębia-Zdroju kobieta zauważyła psa zamkniętego w samochodzie. Zwierzę nie miało dostępu do wody, a szyby pojazdu były zaparowane. Dzięki jej reakcji i błyskawicznej interwencji jastrzębskich policjantów czworonóg został uratowany, zanim doszło do tragedii. Według policji pies znajdował się w aucie około cztery godziny."
+    },
+    {
+      "title": "Analitycy obawiają się eskalacji konfliktu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/konflikt-na-bliskim-wschodzie-to-oznacza-eskalacje-konfliktu-analitycy-pelni-obaw-st8949214?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:20:14 GMT",
+      "description": "Ceny ropy mogą dalej rosnąć. Konflikt na Bliskim Wschodzie coraz mocniej zagraża infrastrukturze energetycznej w regionie Zatoki Perskiej. Wstrzymanie żeglugi przez cieśninę Ormuz wywołało największe od lat zakłócenie globalnych dostaw.",
+      "originalTitle": "\"To oznacza eskalację konfliktu\". Analitycy pełni obaw",
+      "originalDescription": "Ceny ropy mogą dalej rosnąć. Konflikt na Bliskim Wschodzie coraz mocniej zagraża infrastrukturze energetycznej w regionie Zatoki Perskiej. Wstrzymanie żeglugi przez cieśninę Ormuz wywołało największe od lat zakłócenie globalnych dostaw."
+    },
+    {
+      "title": "Kradzież na cmentarzu. Zginęły metalowe ozdoby z 67 nagrobków",
+      "link": "https://tvn24.pl/trojmiasto/wejherowo-kradziez-na-cmentarzu-zginely-metalowe-ozdoby-z-67-nagrobkow-st8949176?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:11:09 GMT",
+      "description": "Policja zajmuje się sprawą kradzieży metalowych elementów na 67 nagrobkach na cmentarzu w Wejherowie (Pomorskie). Powiadomił nas o tym Czytelnik na Kontakt24. Kilka dni temu pisaliśmy o podobnej kradzieży w Niestępowie. Policja sprawdza, czy te sprawy są powiązane i apeluje o pomoc w ustaleniu sprawców.",
+      "originalTitle": "Kradzież na cmentarzu. Zginęły metalowe ozdoby z 67 nagrobków",
+      "originalDescription": "Policja zajmuje się sprawą kradzieży metalowych elementów na 67 nagrobkach na cmentarzu w Wejherowie (Pomorskie). Powiadomił nas o tym Czytelnik na Kontakt24. Kilka dni temu pisaliśmy o podobnej kradzieży w Niestępowie. Policja sprawdza, czy te sprawy są powiązane i apeluje o pomoc w ustaleniu sprawców."
+    },
+    {
+      "title": "Tusk: Polexit to realne zagrożenie. Zrobię wszystko, by ich powstrzymać",
+      "link": "https://tvn24.pl/polska/donald-tusk-polexit-to-dzis-realne-zagrozenie-st8949202?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:08:43 GMT",
+      "description": "Obie konfederacje i większość PiS chce wyjścia Polski z Unii Europejskiej - ocenił w niedzielę premier Donald Tusk. Obiecał, że zrobi wszystko, żeby powstrzymać polexit, który jego zdaniem jest prawdopodobny.",
+      "originalTitle": "Tusk: Polexit to realne zagrożenie. Zrobię wszystko, by ich powstrzymać",
+      "originalDescription": "Obie konfederacje i większość PiS chce wyjścia Polski z Unii Europejskiej - ocenił w niedzielę premier Donald Tusk. Obiecał, że zrobi wszystko, żeby powstrzymać polexit, który jego zdaniem jest prawdopodobny."
+    },
+    {
+      "title": "Groźna burza na rajskiej wyspie. \"Usłyszeliśmy głośny huk\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-hawaje-burza-na-rajskiej-wyspie-uslyszelismy-glosny-huk-st8948966?source=rss",
+      "pubDate": "Sun, 15 Mar 2026 14:03:34 GMT",
+      "description": "Burza, która przetoczyła się przez hawajską wyspę O'ahu, łamała gałęzie i drzewa. W wyniku gwałtownej pogody w części Honolulu nie było prądu.",
+      "originalTitle": "Groźna burza na rajskiej wyspie. \"Usłyszeliśmy głośny huk\"",
+      "originalDescription": "Burza, która przetoczyła się przez hawajską wyspę O'ahu, łamała gałęzie i drzewa. W wyniku gwałtownej pogody w części Honolulu nie było prądu."
+    }
+  ]
 }
