@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-16T16:50:56.256Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-16T17:25:47.166Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kampania wyborcza na Węgrzech",
+      "link": "https://tvn24.pl/swiat/wybory-na-wegrzech-niecaly-miesiac-do-wyborow-cale-wegry-sa-oklejone-plakatami-ktore-strasza-st8951073?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 17:13:50 GMT",
+      "description": "• Peter Magyar mówi chętnie o sprawach socjalnych.\n• Peter Magyar mówi o tym, jak żyje się Węgrom za czasów Viktora Orbana.\n• Viktor Orban straszy wojną.\n• Reporter TVN24 Maciej Warsiński relacjonował z Budapesztu.\n• Maciej Warsiński opowiedział, jak wygląda kampania wyborcza na Węgrzech.\n• Wybory na Węgrzech odbędą się za mniej niż cztery tygodnie.",
+      "originalTitle": "Niecały miesiąc do wyborów. \"Całe Węgry są oklejone plakatami, które straszą\"",
+      "originalDescription": "Peter Magyar mówi chętnie o sprawach socjalnych, o tym, jak żyje się Węgrom za czasów Viktora Orbana. A Viktor Orban straszy wojną - relacjonował z Budapesztu reporter TVN24 Maciej Warsiński. Opowiedział, jak wygląda kampania wyborcza na Węgrzech na mniej niż cztery tygodnie przed wyborami."
+    },
+    {
+      "title": "Polska fabryka zwiększa produkcję",
+      "link": "https://tvn24.pl/biznes/z-kraju/kluczowa-dla-nato-polska-fabryka-nitro-chem-w-bydgoszczy-podwoi-produkcje-trotylu-st8951140?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 17:01:25 GMT",
+      "description": "• Zakłady Chemiczne Nitro-Chem w Bydgoszczy planują w ciągu najbliższych trzech-czterech lat podwoić produkcję trotylu.\n• Obecna produkcja trotylu wynosi około 10 tysięcy ton rocznie.\n• W poniedziałek spółka zawarła umowę z firmą PROZAP.\n• Firma PROZAP należy do Grupy Azoty.\n• Umowa dotyczy opracowania projektu nowej instalacji produkcyjnej.",
+      "originalTitle": "Kluczowa dla NATO polska fabryka podwoi produkcję",
+      "originalDescription": "Zakłady Chemiczne Nitro-Chem w Bydgoszczy planują w ciągu najbliższych trzech-czterech lat podwoić produkcję trotylu, która obecnie wynosi około 10 tysięcy ton rocznie. W poniedziałek spółka zawarła umowę z firmą PROZAP, należącą do Grupy Azoty, na opracowanie projektu nowej instalacji produkcyjnej."
+    },
+    {
+      "title": "Osoba powróciła po trzech latach",
+      "link": "https://tvn24.pl/swiat/ukraina-wrocil-z-rosyjskiej-niewoli-trzy-lata-po-swoim-pogrzebie-st8949653?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:56:45 GMT",
+      "description": "Nazar Daletski został uznany za zmarłego. Miał zginąć po tym, jak konwój samochodów, którym miał jechać, został ostrzelany w obwodzie donieckim. W rzeczywistości przebywał w rosyjskiej niewoli.",
+      "originalTitle": "Wrócił z rosyjskiej niewoli trzy lata po swoim pogrzebie",
+      "originalDescription": "Nazar Daletski został uznany za zmarłego. Miał zginąć po tym, jak konwój samochodów, którym miał jechać, został ostrzelany w obwodzie donieckim. W rzeczywistości przebywał w rosyjskiej niewoli."
+    },
+    {
+      "title": "Wypadek w piątek: 3 ofiary, 21 rannych",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/czarna-seria-wypadkow-na-mazowszu-zginely-trzy-osoby-21-bylo-rannych-st8951096?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:56:40 GMT",
+      "description": "• W ostatni weekend na mazowieckich drogach zginęły trzy osoby\n• 21 osób zostało rannych\n• Policjanci zatrzymali 26 nietrzeźwych kierowców",
+      "originalTitle": "\"Czarna seria rozpoczęła się w piątek\". Trzy osoby nie żyją, 21 jest rannych",
+      "originalDescription": "W ostatni weekend na mazowieckich drogach zginęły trzy osoby, a 21 zostało rannych. Policjanci zatrzymali też 26 nietrzeźwych kierowców."
+    },
+    {
+      "title": "Wiatr uszkodził stodołę, osły uciekły",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-missouri-silny-wiatr-zmiotl-stodole-osly-uciekaly-w-poplochu-st8951068?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:56:25 GMT",
+      "description": "• Przez środkowe i wschodnie Stany Zjednoczone przetaczają się silne burze.\n• Narodowa Służba Pogodowa ostrzegła przed ryzykiem pojawienia się tornad.\n• W jednej z miejscowości silne podmuchy wiatru zmiotły stodołę.\n• W stodole, która została zmiotła przez silne podmuchy wiatru, mieszkały osły.",
+      "originalTitle": "Wiatr zmiótł stodołę. Osły uciekały w popłochu",
+      "originalDescription": "Przez środkowe i wschodnie Stany Zjednoczone przetaczają się silne burze. Narodowa Służba Pogodowa ostrzegła przed ryzykiem pojawienia się tornad. W jednej z miejscowości silne podmuchy wiatru zmiotły stodołę, w której mieszkały osły."
+    },
+    {
+      "title": "Szefowa personelu Białego Domu choruje na nowotwór",
+      "link": "https://tvn24.pl/swiat/donald-trump-szefowa-personelu-bialego-domu-susie-wiles-ma-nowotwor-st8951086?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:48:46 GMT",
+      "description": "• U szefowej personelu Białego Domu zdiagnozowano nowotwór piersi.\n• Zdiagnozowanie nowotworu piersi u szefowej personelu Białego Domu zostało poinformowane przez Donalda Trumpa.\n• Osobą, u której zdiagnozowano nowotwór piersi, jest szefowa personelu Białego Domu.\n• Szefowa personelu Białego Domu to kobieta, której imię to Susie, a nazwisko to Wiles.\n• Susie Wiles kierowała kampanią Donalda Trumpa przed wyborami prezydenckimi.",
+      "originalTitle": "Trump: szefowa personelu Białego Domu ma nowotwór",
+      "originalDescription": "U szefowej personelu Białego Domu zdiagnozowano nowotwór piersi - poinformował Donald Trump. Susie Wiles kierowała kampanią Trumpa przed wyborami prezydenckimi."
+    },
+    {
+      "title": "Na przejściu dla pieszych potrąciła kobietę",
+      "link": "https://tvn24.pl/lublin/zamosc-na-przejsciu-dla-pieszych-potracila-kobiete-st8951092?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:47:25 GMT",
+      "description": "68-letnia kobieta została potrącona na oznakowanym przejściu dla pieszych w Zamościu. Trafiła do szpitala. Policja apeluje o ostrożność.",
+      "originalTitle": "Na przejściu dla pieszych potrąciła kobietę",
+      "originalDescription": "68-letnia kobieta została potrącona na oznakowanym przejściu dla pieszych w Zamościu. Trafiła do szpitala. Policja apeluje o ostrożność."
+    },
+    {
+      "title": "Kod miał na ręce, tak \"kupił\" alkohol",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-kod-mial-na-rece-tak-kupil-alkohol-st8951117?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:42:48 GMT",
+      "description": "35-latek \"kupił\" alkohol, skanując w kasie samoobsługowej kod ze środka chemicznego do toalet. Odpowie za oszustwo, grozi mu nawet osiem lat więzienia.",
+      "originalTitle": "Kod miał na ręce, tak \"kupił\" alkohol",
+      "originalDescription": "35-latek \"kupił\" alkohol, skanując w kasie samoobsługowej kod ze środka chemicznego do toalet. Odpowie za oszustwo, grozi mu nawet osiem lat więzienia."
+    },
+    {
+      "title": "Budżet państwa pod kreską. Nowe dane o deficycie",
+      "link": "https://tvn24.pl/biznes/z-kraju/budzet-panstwa-pod-kreska-nowe-dane-o-deficycie-st8951077?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:40:31 GMT",
+      "description": "Po lutym 2026 roku wydatki państwa wyniosły 126,8 miliardów złotych, natomiast dochody budżetowe: 78,3 miliarda złotych - przekazał resort finansów. Oznacza to, że deficyt osiągnął 48,5 miliarda złotych.",
+      "originalTitle": "Budżet państwa pod kreską. Nowe dane o deficycie",
+      "originalDescription": "Po lutym 2026 roku wydatki państwa wyniosły 126,8 miliardów złotych, natomiast dochody budżetowe: 78,3 miliarda złotych - przekazał resort finansów. Oznacza to, że deficyt osiągnął 48,5 miliarda złotych."
+    },
+    {
+      "title": "Czarnek zapowiada, jak wypowie ETS. \"Prawo europejskie nie zna tego typu wychodzenia\"",
+      "link": "https://konkret24.tvn24.pl/polityka/czarnek-zapowiada-jak-wypowie-ets-prawo-europejskie-nie-zna-tego-typu-wychodzenia-st8950350?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 16:39:33 GMT",
+      "description": "Przemysław Czarnek zaprezentował sposób, który jego zdaniem doprowadzi do wyjścia przez Polskę z systemu ETS - kluczowy miałaby tu być publikacja wyroku Trybunału Konstytucyjnego. Eksperci tłumaczą, dlaczego to niewiele da i jakie są inne drogi do zmiany tego systemu.",
+      "originalTitle": "Czarnek zapowiada, jak wypowie ETS. \"Prawo europejskie nie zna tego typu wychodzenia\"",
+      "originalDescription": "Przemysław Czarnek zaprezentował sposób, który jego zdaniem doprowadzi do wyjścia przez Polskę z systemu ETS - kluczowy miałaby tu być publikacja wyroku Trybunału Konstytucyjnego. Eksperci tłumaczą, dlaczego to niewiele da i jakie są inne drogi do zmiany tego systemu."
+    }
+  ]
 }
