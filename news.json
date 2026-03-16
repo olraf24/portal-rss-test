@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-16T08:50:43.149Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-16T09:28:12.227Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Atak na lotnisku w Teheranie",
+      "link": "https://tvn24.pl/swiat/nocny-atak-na-lotnisku-w-teheranie-izrael-zniszczyl-samolot-przywodcy-st8949945?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 09:19:11 GMT",
+      "description": "• Izraelskie Siły Powietrzne (IAF) zniszczyły samolot używany przez byłego najwyższego przywódcę Iranu Alego Chameneiego.\n• Oświadczenie w tej sprawie zostało wydane przez izraelskie wojsko w poniedziałek rano.\n• Celowy atak został przeprowadzony w nocy z niedzieli na poniedziałek.\n• Atak miał miejsce na lotnisku w Teheranie.",
+      "originalTitle": "Nocny atak na lotnisku w Teheranie. Izrael \"zniszczył samolot przywódcy\"",
+      "originalDescription": "Izraelskie Siły Powietrzne (IAF) zniszczyły samolot używany przez byłego najwyższego przywódcę Iranu Alego Chameneiego - oświadczyło w poniedziałek rano izraelskie wojsko. Jak dodano, celowy atak został przeprowadzony w nocy z niedzieli na poniedziałek na lotnisku w Teheranie."
+    },
+    {
+      "title": "Sędziowie Trybunału Konstytucyjnego wybrani",
+      "link": "https://tvn24.pl/polska/trybunal-konstytucyjny-czy-prezydent-moze-nie-przyjac-slubowania-nowych-sedziow-st8949620?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 09:09:44 GMT",
+      "description": "• Prezydent nie może wstrzymać decyzji o wyborze sędziów do Trybunału Konstytucyjnego przez Sejm.\n• Jego rola w tym zakresie ma wyłącznie charakter ceremonialny.\n• Profesorem, który to wyjaśnił, jest Marek Safjan.\n• Marek Safjan jest byłem prezesem Trybunału Konstytucyjnego.\n• Marek Safjan jest również byłem sędzią Trybunału Sprawiedliwości Unii Europejskiej.\n• Wyjaśnienia profesora Marka Safjana zostały przedstawione w TVN24.",
+      "originalTitle": "Sędziowie Trybunału Konstytucyjnego wybrani, co może zrobić prezydent? \"Nie ma prawnych możliwości nieprzyjęcia ślubowania\"",
+      "originalDescription": "Prezydent nie może wstrzymać decyzji o wyborze sędziów do Trybunału Konstytucyjnego przez Sejm. Jego rola w tym zakresie ma wyłącznie charakter ceremonialny - tłumaczył w TVN24 profesor Marek Safjan, były prezes Trybunału Konstytucyjnego i były sędzia Trybunału Sprawiedliwości Unii Europejskiej."
+    },
+    {
+      "title": "Bruksela krytykuje decyzję Waszyngtonu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-lagodza-sankcje-na-rosje-ue-bruksela-krytykuje-decyzje-w-sprawie-rosyjskiej-ropy-st8949862?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 09:06:36 GMT",
+      "description": "• Szefowa unijnej dyplomacji to Kaja Kallas\n• Kaja Kallas skrytykowała decyzję amerykańskiego ministerstwa finansów\n• Decyzja amerykańskiego ministerstwa finansów dotyczyła złagodzenia sankcji\n• Sankcje, które zostały złagodzone, dotyczyły rosyjskiej ropy\n• Kaja Kallas mówiła również o wpływie zamknięcia cieśniny Ormuz\n• Zamknięcie cieśniny Ormuz powoduje problemy",
+      "originalTitle": "\"To niebezpieczny precedens\". Bruksela ostro o decyzji Waszyngtonu",
+      "originalDescription": "Szefowa unijnej dyplomacji Kaja Kallas skrytykowała decyzję amerykańskiego ministerstwa finansów o złagodzeniu sankcji na rosyjską ropę. Mówiła również o wpływie i problemach wynikających z zamknięcia cieśniny Ormuz."
+    },
+    {
+      "title": "Wspomnienie zmarłych artystów na gali Oscarów",
+      "link": "https://tvn24.pl/kultura-i-styl/oscary-2026-wzruszajace-wspomnienie-zmarlych-podczas-gali-st8949825?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 08:53:38 GMT",
+      "description": "• Dolby Theatre znajduje się w Los Angeles.\n• Wspomniano o tych, którzy odeszli podczas oscarowej gali.\n• Największe gwiazdy złożyły hołd Robertowi Redfordowi.\n• Największe gwiazdy złożyły hołd Robowi Reinerowi.\n• Największe gwiazdy złożyły hołd Diane Keaton.\n• Podczas oscarowej gali miały miejsce momenty ciszy.\n• Podczas oscarowej gali miały miejsce momenty huraganu braw.\n• Oscarowa gala odbyła się w niedzielny wieczór.",
+      "originalTitle": "Wzruszające wspomnienie zmarłych artystów na oscarowej gali",
+      "originalDescription": "Dolby Theatre w Los Angeles w niedzielny wieczór raz po raz rozbrzmiewał huraganem braw. Cisza zapadała, gdy wspominano tych, którzy odeszli. Największe gwiazdy podczas oscarowej gali złożyły hołd Robertowi Redfordowi, Robowi Reinerowi czy Diane Keaton."
+    },
+    {
+      "title": "Jessie Buckley odbiera Oscara, mówi o macierzyństwie",
+      "link": "https://tvn24.pl/kultura-i-styl/oscary-2026-jessie-buckley-najlepsza-aktorka-wyglosila-emocjonalne-przemowienie-st8949833?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 08:41:13 GMT",
+      "description": "Jessie Buckley zdobyła Oscara dla najlepszej aktorki w roli głównej. Statuetkę zadedykowała \"pięknemu chaosowi matczynego serca\". Wyjątkowe słowa skierowała do ośmiomiesięcznej córeczki.",
+      "originalTitle": "Emocjonalne przemówienie najlepszej aktorki. Odbierając Oscara Jessie Buckley mówiła o macierzyństwie",
+      "originalDescription": "Jessie Buckley zdobyła Oscara dla najlepszej aktorki w roli głównej. Statuetkę zadedykowała \"pięknemu chaosowi matczynego serca\". Wyjątkowe słowa skierowała do ośmiomiesięcznej córeczki."
+    },
+    {
+      "title": "Trump zwiększa presję, ceny rosną",
+      "link": "https://tvn24.pl/biznes/rynki/konflikt-na-bliskim-wschodzie-iran-usa-donald-trump-zwieksza-presje-ceny-ropy-szybuja-st8949725?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 08:39:50 GMT",
+      "description": "• Ceny ropy rosną.\n• Prezydent USA Donald Trump naciska na inne państwa, by pomogły w ponownym otwarciu cieśniny Ormuz.\n• Iran grozi odwetem za każdy atak na obiekty energetyczne.",
+      "originalTitle": "Trump zwiększa presję, ceny szybują",
+      "originalDescription": "Ceny ropy rosną. Do zwyżek przyczynił się prezydent USA Donald Trump, który naciska na inne państwa, by pomogły w ponownym otwarciu cieśniny Ormuz. Z kolei Iran grozi odwetem za każdy atak na obiekty energetyczne."
+    },
+    {
+      "title": "Izrael rozpoczął operacje lądowe",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-izrael-rozpoczyna-operacje-ladowe-przeciw-hezbollahowi-w-poludniowym-libanie-st8949772?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 08:28:10 GMT",
+      "description": "• Izrael ogłosił kolejne działania zbrojne w Libanie.\n• Izraelskie wojsko rozpoczęło operacje lądowe.\n• Operacje lądowe są skierowane przeciw kluczowym bastionom Hezbollahu.\n• Informację o operacjach lądowych podali wojskowi.",
+      "originalTitle": "Izrael rozpoczął \"ukierunkowane operacje lądowe\"",
+      "originalDescription": "Izrael ogłosił kolejne działania zbrojne w Libanie. Izraelskie wojsko rozpoczęło operacje lądowe przeciw kluczowym bastionom Hezbollahu - poinformowali wojskowi."
+    },
+    {
+      "title": "Wypadek drogowy: 2 ofiary śmiertelne",
+      "link": "https://tvn24.pl/lubuskie/marwice-wypadek-smiertelny-zderzenie-samochodu-osobowego-i-dwoch-ciezarowek-nie-zyja-dwie-osoby-st8949859?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 08:18:04 GMT",
+      "description": "• Dwie osoby zginęły w wyniku wypadku.\n• Trzy osoby trafiły do szpitala po wypadku.\n• Wypadek miał miejsce w niedzielę.\n• Wypadek nastąpił na drodze wojewódzkiej nr 119.\n• Miejsce wypadku to wysokość wsi Marwice.\n• Wypadek miał miejsce nieopodal Gorzowa Wielkopolskiego.\n• Do zderzenia doszło między dwoma ciężarówkami i autem osobowym.",
+      "originalTitle": "Zderzenie samochodu osobowego i dwóch ciężarówek. Nie żyją dwie osoby",
+      "originalDescription": "Dwie osoby zginęły, a trzy trafiły do szpitala po wypadku, do którego doszło w niedzielę na drodze wojewódzkiej nr 119, na wysokości wsi Marwice nieopodal Gorzowa Wielkopolskiego. Doszło tam do zderzenia dwóch ciężarówek i auta osobowego."
+    },
+    {
+      "title": "Wypadek drogowy, kierowca pod wpływem alkoholu",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-zjechal-do-rowu-i-dachowal-byl-pijany-st8949845?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 08:11:27 GMT",
+      "description": "• Kierowca opla stracił panowanie nad pojazdem\n• W efekcie wjechał do rowu\n• Pojazd dachował\n• Kierowca prowadził pojazd w stanie nietrzeźwości",
+      "originalTitle": "Zjechał do rowu i dachował. Był pijany",
+      "originalDescription": "Kierowca opla stracił panowanie nad pojazdem, w efekcie wjechał do rowu i dachował. Okazało się, że prowadził pijany."
+    },
+    {
+      "title": "Pożar w Dubaju wpływa na ruch lotniczy",
+      "link": "https://tvn24.pl/swiat/zea-pozar-w-dubaju-po-incydencie-z-udzialem-drona-st8949612?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 05:13:59 GMT",
+      "description": "• W pobliżu międzynarodowego lotniska w Dubaju wybuchł pożar.\n• Pożar został wywołany \"incydentem z udziałem drona\".\n• Władze stolicy Zjednoczonych Emiratów Arabskich poinformowały o pożarze.\n• Ruch na lotnisku został tymczasowo zawieszony.\n• Niektóre loty zostały przekierowane.",
+      "originalTitle": "Pożar w Dubaju po \"incydencie z udziałem drona\". Zmiany w ruchu lotniczym",
+      "originalDescription": "W pobliżu międzynarodowego lotniska w Dubaju wybuchł pożar wywołany \"incydentem z udziałem drona\" - poinformowały władze stolicy Zjednoczonych Emiratów Arabskich. Ruch na lotnisku został tymczasowo zawieszony, a niektóre loty przekierowano."
+    }
+  ]
 }
