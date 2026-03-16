@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-16T11:47:03.544Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-16T12:21:56.810Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Spotkanie po 19 latach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/erupcja-piton-de-la-fournaise-ogien-i-woda-spotkaly-sie-po-19-latach-zobacz-nagranie-st8950365?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 12:14:02 GMT",
+      "description": "Lawa z erupcji wulkanu Piton de la Fournaise na wyspie Reunion wpłynęła do oceanu. Strumień materiału wulkanicznego przelał się przez brzeg w nocy. Jak podkreślają lokalne media, efektowne widowisko wiąże się ze sporymi problemami dla mieszkańców.",
+      "originalTitle": "Ogień i woda spotkały się po 19 latach. Zobacz nagranie",
+      "originalDescription": "Lawa z erupcji wulkanu Piton de la Fournaise na wyspie Reunion wpłynęła do oceanu. Strumień materiału wulkanicznego przelał się przez brzeg w nocy. Jak podkreślają lokalne media, efektowne widowisko wiąże się ze sporymi problemami dla mieszkańców."
+    },
+    {
+      "title": "Dzieci w rodzinach z problemem alkoholowym",
+      "link": "https://tvn24.pl/rzeszow/gmina-czarna-dzieci-pod-opieka-pijanych-rodzicow-st8950393?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 12:11:21 GMT",
+      "description": "Policjanci z Ustrzyk Dolnych dwukrotnie interweniowali w sprawach nietrzeźwych rodziców, pod których opieką znajdowały się dzieci. W obu przypadkach szybka reakcja funkcjonariuszy zapobiegła potencjalnemu zagrożeniu zdrowia lub życia najmłodszych.",
+      "originalTitle": "Dzieci pod \"opieką\" pijanych rodziców",
+      "originalDescription": "Policjanci z Ustrzyk Dolnych dwukrotnie interweniowali w sprawach nietrzeźwych rodziców, pod których opieką znajdowały się dzieci. W obu przypadkach szybka reakcja funkcjonariuszy zapobiegła potencjalnemu zagrożeniu zdrowia lub życia najmłodszych."
+    },
+    {
+      "title": "Filmy z Oscarami dostępne w HBO Max",
+      "link": "https://tvn24.pl/kultura-i-styl/oscary-2026-te-oscarowe-hity-obejrzysz-w-hbo-max-st8950161?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 12:10:23 GMT",
+      "description": "• Warner Bros. zdobył jedenaście Oscarów.\n• Dzięki temu dołączył do rekordzistów pod względem liczby nagród zdobytych przez jedną wytwórnię w ciągu jednego roku.\n• Wszystkie trzy nagrodzone filmy studia można obejrzeć w serwisie HBO Max.",
+      "originalTitle": "Te oscarowe hity obejrzysz w HBO Max",
+      "originalDescription": "Zdobywając jedenaście Oscarów Warner Bros. dołączył do rekordzistów pod względem liczby nagród zdobytych przez jedną wytwórnię w ciągu jednego roku. Wszystkie trzy nagrodzone filmy studia można obejrzeć w serwisie HBO Max."
+    },
+    {
+      "title": "Śledztwo w sprawie cyberataku na szpital zawieszone",
+      "link": "https://tvn24.pl/krakow/krakow-sledztwo-w-sprawie-cyberataku-na-szpital-mswia-zawieszone-st8949875?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 12:02:38 GMT",
+      "description": "• Prokuratura zawiesiła śledztwo w sprawie cyberataku na szpital MSWiA w Krakowie.\n• Cyberatak miał miejsce w marcu 2025 roku.\n• Śledczy czekają na międzynarodową pomoc prawną.\n• Pomoc prawna jest oczekiwana z USA.\n• Pomoc prawna jest oczekiwana z Irlandii.",
+      "originalTitle": "Śledztwo w sprawie cyberataku na szpital zawieszone. Czekają na pomoc USA i Irlandii",
+      "originalDescription": "Prokuratura zawiesiła śledztwo w sprawie cyberataku na szpital MSWiA w Krakowie z marca 2025 roku. Śledczy czekają na międzynarodową pomoc prawną z USA i Irlandii."
+    },
+    {
+      "title": "Chiny zareagowały na wezwanie Trumpa",
+      "link": "https://tvn24.pl/biznes/ze-swiata/konflikt-na-bliskim-wschodzie-tak-odpowiedzialy-chiny-na-apel-prezydenta-usa-donalda-trumpa-st8950097?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:55:18 GMT",
+      "description": "• Chińskie władze zareagowały na apel Donalda Trumpa.\n• Apel dotyczył sprawy cieśniny Ormuz.\n• Prezydent USA wezwał do pomocy w ochronie statków przepływających przez cieśninę Ormuz.\n• Cieśnina Ormuz jest kluczowym szlakiem dla transportu ropy.",
+      "originalTitle": "Tak odpowiedziały Chiny na wezwanie Trumpa",
+      "originalDescription": "Chińskie władze zareagowały na apel Donalda Trumpa w sprawie cieśniny Ormuz. Prezydent USA wezwał do pomocy w ochronie statków przepływających przez ten kluczowy dla transportu ropy szlak."
+    },
+    {
+      "title": "Pożar - ofiara śmiertelna wśród osób starszych",
+      "link": "https://tvn24.pl/rzeszow/orzechowka-w-pozarze-zginela-90-letnia-kobieta-st8950297?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:47:20 GMT",
+      "description": "• 90-letnia kobieta zginęła w pożarze domu\n• Pożar miał miejsce w Orzechówce\n• Orzechówka znajduje się na Podkarpaciu\n• Kobieta została ewakuowana z płonącego budynku\n• Ewakuacja nastąpiła przed przyjazdem służb\n• Nie udało się jej uratować pomimo ewakuacji",
+      "originalTitle": "W pożarze zginęła 90-letnia kobieta",
+      "originalDescription": "90-letnia kobieta zginęła w pożarze domu w Orzechówce na Podkarpaciu. Została ewakuowana z płonącego budynku jeszcze przed przyjazdem służb, ale nie udało się jej uratować."
+    },
+    {
+      "title": "Mężczyzna znaleziony w lesie",
+      "link": "https://tvn24.pl/rzeszow/pruchnik-policja-odnalazla-37-latka-ktory-zaginal-w-styczniu-st8950160?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:43:14 GMT",
+      "description": "• 37-letni mężczyzna zaginął w styczniu.\n• Przełom w poszukiwaniach nastąpił w niedzielę po północy.\n• Mężczyzna został odnaleziony dzięki czujności mieszkanki Pruchnika.\n• Ostatnie tygodnie mężczyzna spędził w ziemiance.\n• Mężczyzna rzadko opuszczał ziemiankę.",
+      "originalTitle": "Szukali go od stycznia. Mieszkał w ziemiance w lesie",
+      "originalDescription": "37-letni mężczyzn zaginął w styczniu. Przełom w poszukiwaniach nastąpił w niedzielę po północy. Dzięki czujności mieszkanki Pruchnika mężczyzna został odnaleziony. Ostatnie tygodnie spędził w ziemiance, którą rzadko opuszczał"
+    },
+    {
+      "title": "Uprowadzono 8-letnie dziecko",
+      "link": "https://tvn24.pl/lodz/powiat-zgierski-napastnicy-wtargneli-do-domu-i-uprowadzili-8-latka-st8950274?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:40:20 GMT",
+      "description": "• 8-latek został uprowadzony z domu w jednej z miejscowości w powiecie zgierskim.\n• Uprowadzenie miało miejsce w województwie łódzkim.\n• Wobec babci, która opiekowała się chłopcem, napastnicy użyli gazu pieprzowego.\n• Dziecko zostało odnalezione w mieszkaniu w Łodzi.",
+      "originalTitle": "Wtargnęli do domu i uprowadzili 8-latka",
+      "originalDescription": "8-latek został uprowadzony z domu w jednej z miejscowości w powiecie zgierskim (woj. łódzkie). Wobec babci, która opiekowała się chłopcem, napastnicy użyli gazu pieprzowego. Dziecko zostało odnalezione w mieszkaniu w Łodzi."
+    },
+    {
+      "title": "Mężczyzna zgłosił się na policję po zabójstwie ojca",
+      "link": "https://tvn24.pl/katowice/sosnowiec-zadzwonil-i-powiedzial-ze-zabil-ojca-st8950334?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:34:42 GMT",
+      "description": "25-latek zadzwonił w sobotę o godzinie 10 na numer policji i powiedział, że zabił swojego ojca. Usłyszał już zarzut zabójstwa. Grozi mu dożywocie.",
+      "originalTitle": "Zadzwonił i powiedział, że zabił ojca",
+      "originalDescription": "25-latek zadzwonił w sobotę o godzinie 10 na numer policji i powiedział, że zabił swojego ojca. Usłyszał już zarzut zabójstwa. Grozi mu dożywocie."
+    },
+    {
+      "title": "Mężczyzna z zakazem prowadzenia pojazdów zatrzymany przez policję",
+      "link": "https://tvn24.pl/lodz/przedborz-mial-zakaz-prowadzenia-pojazdow-przyjechal-pijany-na-komisariat-st8949987?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:32:43 GMT",
+      "description": "• Mężczyzna ma 39 lat.\n• Na mężczyźnie ciąży sądowy zakaz prowadzenia pojazdów.\n• Mężczyzna przyjechał na komisariat policji w Przedborzu.\n• Przedbórz znajduje się w województwie Łódzkim.\n• Mężczyzna przyjechał w związku z nałożonym na niego policyjnym dozorem.\n• Mężczyzna miał ponad półtora promila alkoholu w organizmie.",
+      "originalTitle": "Miał zakaz prowadzenia pojazdów. Przyjechał pijany na komisariat",
+      "originalDescription": "Na 39-latku ciąży sądowy zakaz prowadzenia pojazdów, mimo to mężczyzna przyjechał pokazać się na komisariat policji w Przedborzu (Łódzkie) w związku z nałożonym na niego policyjnym dozorem. Jak się okazało miał ponad półtora promila alkoholu w organizmie."
+    }
+  ]
 }
