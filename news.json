@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-16T23:10:16.167Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-16T23:42:15.364Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Atak na ambasadę USA, wydano ostrzeżenie",
+      "link": "https://tvn24.pl/swiat/ambasada-usa-zaatakowana-wzywaja-do-opuszczenia-kraju-st8951290?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 21:19:00 GMT",
+      "description": "Ambasada USA w Bagdadzie została zaatakowana. Na nagraniach widać ogień i słup dymu. Placówka ogłosiła wstrzymanie działalności i wezwała Amerykanów w Iraku do opuszczenia kraju.",
+      "originalTitle": "Ambasada USA zaatakowana. Wzywają do opuszczenia kraju",
+      "originalDescription": "Ambasada USA w Bagdadzie została zaatakowana. Na nagraniach widać ogień i słup dymu. Placówka ogłosiła wstrzymanie działalności i wezwała Amerykanów w Iraku do opuszczenia kraju."
+    },
+    {
+      "title": "Wezwanie do zwołania Trybunału Stanu",
+      "link": "https://tvn24.pl/polska/wezwali-do-zwolania-pelnego-skladu-trybunalu-stanu-malgorzata-manowska-odpowiada-st8951287?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 21:11:33 GMT",
+      "description": "• Przewodnicząca Trybunału Stanu to Małgorzata Manowska.\n• Małgorzata Manowska odpowiedziała na postanowienie trzech sędziów.\n• Trzej sędziowie sformułowali serię pytań.\n• Sędziowie zobowiązali Małgorzatę Manowską do zwołania pełnego składu.\n• Zobowiązanie dotyczy zwołania pełnego składu najpóźniej do 4 kwietnia.\n• Małgorzata Manowska oceniła, że \"całokształt okoliczności wskazuje, iż chodzi raczej o działanie o wyraźnie politycznym podłożu\".\n• Działanie ma być nastawione na osiągnięcie z góry oczekiwanego rezultatu.",
+      "originalTitle": "Wezwali do zwołania pełnego składu Trybunału Stanu. Manowska odpowiada",
+      "originalDescription": "Przewodnicząca Trybunału Stanu Małgorzata Manowska odpowiedziała na postanowienie trzech sędziów, którzy sformułowali serię pytań i zobowiązali ją do zwołania pełnego składu najpóźniej do 4 kwietnia. Manowska oceniła, że \"całokształt okoliczności wskazuje, iż chodzi raczej o działanie o wyraźnie politycznym podłożu, nastawione na osiągnięcie z góry oczekiwanego rezultatu\"."
+    },
+    {
+      "title": "Zagrożenia zimowe w nocy",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-ostrzezenia-imgw-16-17-03-oblodzenie-i-opady-sniegu-st8950139?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 11:03:34 GMT",
+      "description": "• Pogoda jest tematem ostrzeżeń IMGW.\n• IMGW ostrzega przed zimowymi zagrożeniami.\n• W nocy i nad ranem w części kraju wystąpią oblodzenie i opady śniegu.\n• Zalecane jest sprawdzenie, gdzie mieć się na baczności.",
+      "originalTitle": "Noc z zimowymi zagrożeniami. Gdzie trzeba uważać",
+      "originalDescription": "Pogoda. IMGW ostrzega przed zimowymi zagrożeniami. W nocy i nad ranem w części kraju wystąpią oblodzenie i opady śniegu. Sprawdź, gdzie mieć się na baczności."
+    },
+    {
+      "title": "Tankowiec dryfuje na Morzu Śródziemnym",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tankowiec-z-floty-cieni-dryfuje-na-morzu-srodziemnym-dziewiec-krajow-alarmuje-st8951257?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 20:13:12 GMT",
+      "description": "• Uszkodzony rosyjski tankowiec dryfuje na Morzu Śródziemnym.\n• Tankowiec stanowi zagrożenie ekologiczne.\n• Dziewięć europejskich krajów zwróciło się do Komisji Europejskiej o podjęcie szybkich działań.",
+      "originalTitle": "Tankowiec z floty cieni dryfuje na Morzu Śródziemnym. Dziewięć krajów alarmuje",
+      "originalDescription": "Uszkodzony rosyjski tankowiec dryfujący na Morzu Śródziemnym stanowi zagrożenie ekologiczne - twierdzi dziewięć europejskich krajów. Zwróciły się do Komisji Europejskiej o podjęcie szybkich działań."
+    },
+    {
+      "title": "Polski generał w NATO",
+      "link": "https://tvn24.pl/polska/polski-general-karol-molenda-zostal-wybrany-na-doradce-dowodcy-nato-ds-transformacji-st8951258?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 20:02:04 GMT",
+      "description": "• Generał dywizji Karol Molenda został wybrany na doradcę dowódcy NATO ds. Transformacji.\n• Informację o wyborze Karola Molendy przekazał szef MON Władysław Kosiniak-Kamysz.\n• Sam Karol Molenda potwierdził informację o swoim wyborze.\n• Karol Molenda określił swoje wybranie jako \"zaszczycie i zobowiązanie\".",
+      "originalTitle": "Polski generał z ważnym stanowiskiem w NATO",
+      "originalDescription": "Generał dywizji Karol Molenda został wybrany na doradcę dowódcy NATO ds. Transformacji - przekazał szef MON Władysław Kosiniak-Kamysz. Informację tę potwierdził sam Molenda, pisząc o \"zaszczycie i zobowiązaniu\"."
+    },
+    {
+      "title": "Generał Polko skierował apel do Nawrockiego",
+      "link": "https://tvn24.pl/polska/safe-general-roman-polko-apeluje-do-karola-nawrockiego-panie-prezydencie-nie-jest-za-pozno-st8951260?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 19:56:00 GMT",
+      "description": "To uderzenie nie tylko w polską armię, ale w nasze bezpieczeństwo - podkreślił w \"Kropce nad i\" w TVN24 były dowódca Jednostki Wojskowej GROM generał Roman Polko. W programie komentował decyzję prezydenta Karola Nawrockiego, który oświadczył, że nie podpisze ustawy o programie SAFE.",
+      "originalTitle": "Generał Polko apeluje do Nawrockiego. \"Nie jest za późno\"",
+      "originalDescription": "To uderzenie nie tylko w polską armię, ale w nasze bezpieczeństwo - podkreślił w \"Kropce nad i\" w TVN24 były dowódca Jednostki Wojskowej GROM generał Roman Polko. W programie komentował decyzję prezydenta Karola Nawrockiego, który oświadczył, że nie podpisze ustawy o programie SAFE."
+    },
+    {
+      "title": "Trump otrzymał informacje o przybyciu krajów",
+      "link": "https://tvn24.pl/swiat/pomoga-w-otwarciu-ciesniny-ormuz-donald-trump-o-rozmowie-z-emmanuelem-macronem-i-keirem-starmerem-st8951223?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 19:33:11 GMT",
+      "description": "Donald Trump oświadczył, że \"liczne kraje\" poinformowały go, że pomogą w otwarciu cieśniny Ormuz. Sugerował, że mogą być wśród nich Francja i Wielka Brytania. Jak przekazał, rozmawiał z francuskim prezydentem Emmanuelem Macronem i brytyjskim premierem Keirem Starmerem.",
+      "originalTitle": "Trump: liczne kraje powiedziały mi, że są już w drodze",
+      "originalDescription": "Donald Trump oświadczył, że \"liczne kraje\" poinformowały go, że pomogą w otwarciu cieśniny Ormuz. Sugerował, że mogą być wśród nich Francja i Wielka Brytania. Jak przekazał, rozmawiał z francuskim prezydentem Emmanuelem Macronem i brytyjskim premierem Keirem Starmerem."
+    },
+    {
+      "title": "Ponad 100 ofiar osuwiska. Tysiące mieszkańców bez dachu nad głową",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/etiopia-ponad-100-ofiar-osuwiska-tysiace-mieszkancow-bez-dachu-nad-glowa-st8951226?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 19:17:32 GMT",
+      "description": "Do 125 wzrósł bilans ofiar śmiertelnych osuwisk, do których doszło w ubiegłym tygodniu w Etiopii. Kilkanaście tysięcy osób musiało opuścić swoje domy. Na miejsce tragedii przybył premier, który złożył kondolencje i zapowiedział rządową pomoc.",
+      "originalTitle": "Ponad 100 ofiar osuwiska. Tysiące mieszkańców bez dachu nad głową",
+      "originalDescription": "Do 125 wzrósł bilans ofiar śmiertelnych osuwisk, do których doszło w ubiegłym tygodniu w Etiopii. Kilkanaście tysięcy osób musiało opuścić swoje domy. Na miejsce tragedii przybył premier, który złożył kondolencje i zapowiedział rządową pomoc."
+    },
+    {
+      "title": "Żurek o ślubowaniu nowych sędziów TK: niekoniecznie trzeba kontynuować tradycję",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-o-slubowaniu-nowych-sedziow-trybunalu-konstytucyjnego-st8951217?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 19:00:25 GMT",
+      "description": "To, że była taka tradycja, że składało się ślubowanie przed prezydentem, nie oznacza, że należy to kontynuować - powiedział w \"Faktach po Faktach\" Waldemar Żurek. Minister sprawiedliwości komentował wybór sędziów Trybunału Konstytucyjnego i złożenie przez nich ślubowania. Powiedział też, ile będzie czekał na decyzję prezydenta w tej sprawie. Skomentował także weto wobec SAFE.",
+      "originalTitle": "Żurek o ślubowaniu nowych sędziów TK: niekoniecznie trzeba kontynuować tradycję",
+      "originalDescription": "To, że była taka tradycja, że składało się ślubowanie przed prezydentem, nie oznacza, że należy to kontynuować - powiedział w \"Faktach po Faktach\" Waldemar Żurek. Minister sprawiedliwości komentował wybór sędziów Trybunału Konstytucyjnego i złożenie przez nich ślubowania. Powiedział też, ile będzie czekał na decyzję prezydenta w tej sprawie. Skomentował także weto wobec SAFE."
+    },
+    {
+      "title": "Duży bank ukarany przez KNF. Ma zapłacić ponad 21 milionów złotych",
+      "link": "https://tvn24.pl/biznes/z-kraju/knf-nalozyla-kary-na-santander-bank-polska-ma-zaplacic-ponad-21-milionow-zlotych-st8951233?source=rss",
+      "pubDate": "Mon, 16 Mar 2026 18:40:33 GMT",
+      "description": "Komisja Nadzoru Finansowego nałożyła na Santander Bank Polska kary w łącznej wysokości 21,1 miliona złotych. Bank zapowiedział, że przeanalizuje decyzję, zapewniając przy tym o niezwłocznym uregulowaniu należności.",
+      "originalTitle": "Duży bank ukarany przez KNF. Ma zapłacić ponad 21 milionów złotych",
+      "originalDescription": "Komisja Nadzoru Finansowego nałożyła na Santander Bank Polska kary w łącznej wysokości 21,1 miliona złotych. Bank zapowiedział, że przeanalizuje decyzję, zapewniając przy tym o niezwłocznym uregulowaniu należności."
+    }
+  ]
 }
