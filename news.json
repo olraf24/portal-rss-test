@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-17T09:21:37.838Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-17T09:49:16.698Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Atak na irańskiego polityka",
+      "link": "https://tvn24.pl/swiat/media-o-ataku-na-czolowego-iranskiego-polityka-minister-obrony-izraela-nie-zyje-st8951554?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:38:55 GMT",
+      "description": "• Izrael przeprowadził atak wymierzony w szefa Najwyższej Rady Bezpieczeństwa Narodowego Iranu Alego Laridżaniego.\n• Atak został poinformowany przez izraelskie media, cytowane przez agencję Reuters.\n• Szef izraelskiego MON poinformował, że Laridżani nie żyje.",
+      "originalTitle": "Media o ataku na czołowego irańskiego polityka. Minister obrony Izraela: nie żyje",
+      "originalDescription": "Izrael przeprowadził atak wymierzony w szefa Najwyższej Rady Bezpieczeństwa Narodowego Iranu Alego Laridżaniego - poinformowały izraelskie media, cytowane przez agencję Reuters. Szef izraelskiego MON poinformował, że Laridżani nie żyje."
+    },
+    {
+      "title": "Ostrzeżenie ambasady Polski dotyczące podróży na wyspę",
+      "link": "https://tvn24.pl/biznes/turystyka/kuba-polska-ambasada-ostrzega-przed-podroza-na-wyspe-st8951498?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 09:12:56 GMT",
+      "description": "• Osoby planujące podróż na Kubę powinny na bieżąco śledzić komunikaty linii lotniczych i organizatorów wyjazdów.\n• Zalecenie takie zostało wydane przez Ambasadę RP w Hawanie.\n• Jeden z przewoźników zawiesił loty do stolicy Kuby.\n• Powodem zawieszenia lotów jest ograniczona dostępność paliwa.",
+      "originalTitle": "Polska ambasada ostrzega przed podróżą na popularną wyspę",
+      "originalDescription": "Osoby planujące podróż na Kubę powinny na bieżąco śledzić komunikaty linii lotniczych i organizatorów wyjazdów - zaleca Ambasada RP w Hawanie. Jeden z przewoźników zawiesił loty do stolicy Kuby z powodu ograniczonej dostępności paliwa."
+    },
+    {
+      "title": "Nowa terapia na chrapanie",
+      "link": "https://tvn24.pl/zdrowie/bezdech-senny-cichy-zabojca-nowa-terapia-budzi-ogromne-nadzieje-st8950976?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 09:07:41 GMT",
+      "description": "• Chrapanie może być objawem bezdechu sennego.\n• Bezdech senny zwiększa ryzyko groźnych chorób serca.\n• W Polsce na diagnozę bezdechu sennego czeka się nawet półtora roku.\n• Naukowcy testują lek, który może odmienić leczenie milionów pacjentów.\n• Lek może sprawić, że nocne maski czy zatyczki odejdą do historii.",
+      "originalTitle": "Chrapanie to dopiero początek. Nowa terapia budzi ogromne nadzieje",
+      "originalDescription": "Dla jednych to powód do żartów, dla lekarzy - poważny sygnał alarmowy. Chrapanie może być objawem bezdechu sennego, który zwiększa ryzyko groźnych chorób serca. W Polsce na jego diagnozę czeka się nawet półtora roku. Tymczasem naukowcy testują lek, który może odmienić leczenie milionów pacjentów - i sprawić, że nocne maski czy zatyczki odejdą do historii."
+    },
+    {
+      "title": "Trzy osoby zatrzymane po incydencie w banku",
+      "link": "https://tvn24.pl/krakow/nowy-sacz-uprowadzony-mezczyzna-mial-wziac-kredyt-trzy-osoby-w-areszcie-st8951547?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:44:07 GMT",
+      "description": "• Sąd zdecydował o tymczasowym aresztowaniu trzech osób podejrzanych o pozbawienie wolności 46-latka w Nowym Sączu.\n• Zastraszony mężczyzna miał wziąć kredyt.\n• Mężczyzna przekazał pieniądze domniemanym przestępcom.\n• Mężczyzna został sam w banku.\n• Mężczyzna powiedział o wszystkim pracownicy banku.\n• Pracownica banku wezwała policję.\n• Ofiarą pozbawienia wolności jest 46-latek.\n• Zdarzenie miało miejsce w Nowym Sączu.",
+      "originalTitle": "Miał wziąć kredyt, pracownica banku wezwała policję. Trzy osoby w areszcie",
+      "originalDescription": "Sąd zdecydował o tymczasowym aresztowaniu trzech osób podejrzanych o pozbawienie wolności 46-latka w Nowym Sączu. Zastraszony mężczyzna miał wziąć kredyt i przekazać pieniądze domniemanym przestępcom. Gdy został sam w banku, powiedział o wszystkim pracownicy, a ta wezwała policję."
+    },
+    {
+      "title": "Wypadek samochodu uszkodził przystanek autobusowy",
+      "link": "https://tvn24.pl/poznan/rawicz-19-latek-wjechal-w-przystanek-autobusowy-zginal-na-miejscu-st8951524?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:41:03 GMT",
+      "description": "• Tragiczny wypadek miał miejsce pod Rawiczem.\n• Rawicz położony jest w Wielkopolsce.\n• Kierujący samochodem miał 19 lat.\n• Kierujący wjechał w przystanek autobusowy z dużą prędkością.\n• Kierujący zginął na miejscu wypadku.",
+      "originalTitle": "Samochód dosłownie zrównał przystanek autobusowy z ziemią. Przód auta praktycznie zniknął",
+      "originalDescription": "Tragiczny wypadek pod Rawiczem (Wielkopolska). Kierujący samochodem 19-latek wjechał z dużą prędkością w przystanek autobusowy. Zginął na miejscu."
+    },
+    {
+      "title": "Ropa notowana z wahaniem",
+      "link": "https://tvn24.pl/biznes/rynki/iran-ropa-naftowa-na-hustawce-rynek-goraczkowo-probuje-st8951425?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:34:21 GMT",
+      "description": "• Wzrosły niepokoje inwestorów na świecie.\n• Niepokoje są spowodowane ostatnimi atakami na infrastrukturę energetyczną.\n• Ataki miały miejsce w Zatoce Perskiej.\n• Niepokoje odbijają się na rynku ropy naftowej.\n• Maklerzy informują o tych niepokojach.\n• Ceny surowca rosną we wtorek.",
+      "originalTitle": "Ropa na huśtawce. \"Rynek gorączkowo próbuje\"",
+      "originalDescription": "Wzrosły niepokoje inwestorów na świcie po ostatnich atakach na infrastrukturę energetyczną w Zatoce Perskiej, co odbija się na rynku ropy naftowej - informują maklerzy. Ceny surowca we wtorek znowu rosną."
+    },
+    {
+      "title": "Kobieta skazana za udawanie opozycjonistki",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-oszustka-wyludzila-dodatek-za-prl-jest-wyrok-sadu-st8951445?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:30:08 GMT",
+      "description": "• Udawała antykomunistyczną opozycjonistkę.\n• Zapadł wyrok w procesie kobiety.\n• Kobieta wyłudzała pieniądze za rzekomą działalność opozycyjną.\n• Działalność opozycyjna miała miejsce w czasach PRL.\n• Wyłudzanie pieniędzy trwało przez kilka lat.",
+      "originalTitle": "Udawała opozycjonistkę z PRL. Sąd skazał kobietę",
+      "originalDescription": "Udawała antykomunistyczną opozycjonistkę. Zapadł wyrok w procesie kobiety, która przez kilka lat wyłudzała pieniądze za rzekomą działalność opozycyjną w czasach PRL."
+    },
+    {
+      "title": "Quiz na Dzień Świętego Patryka",
+      "link": "https://tvn24.pl/quizy/quiz-na-dzien-swietego-patryka-st8950948?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:26:10 GMT",
+      "description": "• Dziś jest 17 marca.\n• 17 marca to Dzień Świętego Patryka.\n• Święty Patryk jest patronem Irlandii.\n• W tym dniu warto mieć na sobie coś zielonego.\n• W Irlandii jest nieco ponad pięć milionów mieszka��ców.\n• Dzień Świętego Patryka celebruje się na całym świecie.",
+      "originalTitle": "Zielono ci? Quiz na Dzień Świętego Patryka",
+      "originalDescription": "Dziś 17 marca, Dzień Świętego Patryka - patrona Irlandii. Macie na sobie coś zielonego? Musi być coś wyjątkowego w tym dniu, bo - choć Irlandia ma nieco ponad pięć milionów mieszkańców - jej święto celebruje się na całym świecie."
+    },
+    {
+      "title": "Uszkodzenia i odwołane loty po zjawisku pogodowym",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-pogoda-tornado-i-burza-uszkodzone-dachy-odwolane-loty-matka-natura-potrafi-siac-zniszczenia-st8951428?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:19:42 GMT",
+      "description": "Gwałtowne burze nawiedziły wschodnie wybrzeże Stanów Zjednoczonych. W mieście Charlotte w Karolinie Północnej pojawiło się tornado. Jak podały lokalne media, żywioł uszkodził wiele budynków.",
+      "originalTitle": "Uszkodzone dachy, odwołane loty. \"Matka Natura potrafi siać zniszczenie\"",
+      "originalDescription": "Gwałtowne burze nawiedziły wschodnie wybrzeże Stanów Zjednoczonych. W mieście Charlotte w Karolinie Północnej pojawiło się tornado. Jak podały lokalne media, żywioł uszkodził wiele budynków."
+    },
+    {
+      "title": "Student recytował liczbę Pi przez 40 minut",
+      "link": "https://tvn24.pl/krakow/krakow-student-recytowal-z-pamieci-liczbe-pi-ustanowil-rekord-st8951475?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 08:19:16 GMT",
+      "description": "• 3102 cyfry liczby Pi wyrecytował z pamięci Kacper Siatkowski\n• Kacper Siatkowski jest studentem z Warszawy\n• Ustanowił nowy rekord podczas konkursu Politechniki Krakowskiej\n• Zajęło mu to prawie 40 minut",
+      "originalTitle": "Student recytował z pamięci liczbę Pi. Mówił przez prawie 40 minut",
+      "originalDescription": "3102 cyfry liczby Pi wyrecytował z pamięci Kacper Siatkowski, student z Warszawy, który ustanowił nowy rekord podczas konkursu Politechniki Krakowskiej. Zajęło mu to prawie 40 minut."
+    }
+  ]
 }
