@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2026-03-17T10:19:49.248Z",
+  "lastUpdate": "2026-03-17T10:47:47.111Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Naukowcy odkryli nową funkcję wyspecjalizowanych komórek naczyń wątroby",
+      "link": "https://dzienniknaukowy.pl/naukowcy-odkryli-nowa-funkcje-wyspecjalizowanych-komorek-naczyn-watroby",
+      "pubDate": "Tue, 17 Mar 2026 10:30:48 +0000",
+      "description": "Nową funkcję wyspecjalizowanych komórek naczyń wątroby odkrył zespół z IIMCB. Badacze wykazali, że komórki te aktywnie usuwają wolną hemoglobinę. Odkrycie zmienia spojrzenie na to, jak organizm radzi sobie z hemoglobiną po rozpadzie krwinek i otwiera pytania o znaczenie tego procesu m.in. w schorzeniach wątroby."
+    },
     {
       "title": "Berberyna i „leaky gut”",
       "link": "https://dzienniknaukowy.pl/berberyna-i-leaky-gut",
       "pubDate": "Tue, 17 Mar 2026 10:10:41 +0000",
       "description": "Zakażenia jelitowe często traktujemy jak epizod: kilka dni objawów, eliminacja patogenu i powrót do zdrowia. W takim ujęciu choroba ma wyraźny początek i koniec. Tymczasem doświadczenia pacjentów oraz dane kliniczne pokazują, że dla części osób historia nie kończy się w momencie ustąpienia biegunki czy normalizacji wyników badań mikrobiologicznych. Przewlekłe bóle brzucha, nadwrażliwość jelit, wzdęcia czy niestabilny rytm wypróżnień potrafią utrzymywać się tygodniami, a nawet miesiącami. Coraz częściej mówi się w tym kontekście o „leaky gut”, czyli rozszczelnieniu bariery jelitowej — ale pojęcie to bywa nadużywane i upraszczane."
+    },
+    {
+      "title": "Obróbka zdjęć w dokumentacji technicznej: jak łączyć obrazy bez specjalistycznego oprogramowania",
+      "link": "https://dzienniknaukowy.pl/obrobka-zdjec-w-dokumentacji-technicznej-jak-laczyc-obrazy-bez-specjalistycznego-oprogramowania",
+      "pubDate": "Tue, 17 Mar 2026 09:34:00 +0000",
+      "description": "W świecie nowoczesnych projektów DIY, recenzji sprzętu oraz profesjonalnych instrukcji serwisowych, komunikacja wizualna odgrywa rolę nadrzędną wobec tekstu. Tworząc dokumentację techniczną, autorzy nieustannie mierzą się z wyzwaniem przekazania złożonych, wielowymiarowych idei w sposób maksymalnie skondensowany i czytelny. Często wymaga to wyjścia poza ramy pojedynczej fotografii i stworzenia kompozycji, która zestawia ze sobą kilka perspektyw tego samego urządzenia, porównuje stan podzespołów przed i po modernizacji lub nakłada schemat ideowy bezpośrednio na zdjęcie rzeczywistej płytki drukowanej. Takie podejście nie tylko optymalizuje przestrzeń w dokumencie, ale przede wszystkim buduje natychmiastowy kontekst analityczny, pozwalając odbiorcy na zrozumienie relacji między poszczególnymi elementami układu bez konieczności wertowania stron."
     },
     {
       "title": "Jak szkoły mogą skutecznie wspierać uczniów w edukacji cyfrowej?",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/polski-nanokompozyt-sam-zabija-bakterie-i-wirusy",
       "pubDate": "Wed, 11 Mar 2026 12:57:34 +0000",
       "description": "Nowy nanokompozyt krzemionkowy B-STING opracowany w Instytucie Fizyki Jądrowej PAN może samoczynnie wytwarzać substancje biobójcze w reakcji na obecność drobnoustrojów. Jest skuteczny wobec bakterii, grzybów i wirusów, a jednocześnie bezpieczny dla ludzkich komórek"
-    },
-    {
-      "title": "Sekrety produkcji kosmetyków i suplementów – technologia, jakość, bezpieczeństwo",
-      "link": "https://dzienniknaukowy.pl/sekrety-produkcji-kosmetykow-i-suplementow-technologia-jakosc-bezpieczenstwo",
-      "pubDate": "Wed, 11 Mar 2026 09:16:00 +0000",
-      "description": "Krem, serum czy kapsułka suplementu to efekt znacznie bardziej złożonego procesu, niż sugeruje minimalistyczne opakowanie. Za gotowym produktem stoją miesiące pracy technologów, badania laboratoryjne i rygorystyczne procedury jakościowe. W branży, w której bezpieczeństwo i zgodność z przepisami są najważniejsze, produkcja nie jest improwizacją, lecz precyzyjnie zaplanowanym procesem."
-    },
-    {
-      "title": "Schematy klawiaturowe jako hasła: Niebezpieczny trend w Polsce",
-      "link": "https://dzienniknaukowy.pl/schematy-klawiaturowe-jako-hasla-niebezpieczny-trend-w-polsce",
-      "pubDate": "Tue, 10 Mar 2026 11:25:07 +0000",
-      "description": "Nie ulega wątpliwości, że mocne hasła to obecnie jeden z priorytetów dla użytkowników internetu. Mimo to, raport NordPass ujawnił, że wielu Polaków wybiera banalne schematy klawiatury jako hasła – np. ciągi takie jak zaq12wsx, 1qaz2wsx, 123qwe czy Qweqwe123!. Zamiast kreatywności, użytkownicy często dosłownie przesuwając palec po klawiaturze. W ten sposób stawiają na proste schematy haseł, co jest ogromnym błędem"
     }
   ]
 }
