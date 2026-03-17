@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-17T15:26:17.980Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-17T15:51:34.044Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Posłowie PiS opuszczają salę",
+      "link": "https://tvn24.pl/polska/zapowiedzi-obchodzenia-weta-prezydenta-poslowie-pis-wychodza-z-sali-st8952783?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:47:58 GMT",
+      "description": "Podczas wtorkowych obrad sejmowej komisji, resort spraw wewnętrznych zapowiadał dalsze działania po wecie prezydenta w sprawie mechanizmu SAFE. Posłowie PiS wyszli z sali po kilkudziesięciu minutach obrad.",
+      "originalTitle": "Zapowiedzi \"obchodzenia\" weta prezydenta. Posłowie PiS wychodzą z sali",
+      "originalDescription": "Podczas wtorkowych obrad sejmowej komisji, resort spraw wewnętrznych zapowiadał dalsze działania po wecie prezydenta w sprawie mechanizmu SAFE. Posłowie PiS wyszli z sali po kilkudziesięciu minutach obrad."
+    },
+    {
+      "title": "Polacy chcą bezpiecznego rozwoju",
+      "link": "https://tvn24.pl/biznes/tech/suwerennosc-technologiczna-priorytetem-wiekszosc-polakow-gotowa-doplacic-st8952889?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:43:26 GMT",
+      "description": "• Siedmiu na dziesięciu Polaków deklaruje gotowość dopłaty za suwerenność technologiczną.\n• Suwerenność technologiczna odnosi się do krajowych lub europejskich rozwiązań.\n• Najnowszy raport Fundacji Digital Poland pokazuje wyraźny zwrot w myśleniu o cyfrowej niezależności.\n• Raport został przygotowany przez Fundację Digital Poland.",
+      "originalTitle": "Tego chcą Polacy. \"Absolutnie kluczowa dla naszego bezpiecznego rozwoju\"",
+      "originalDescription": "Siedmiu na dziesięciu Polaków deklaruje gotowość dopłaty za suwerenność technologiczną, czyli krajowe lub europejskie rozwiązania. Najnowszy raport Fundacji Digital Poland pokazuje wyraźny zwrot w myśleniu o cyfrowej niezależności."
+    },
+    {
+      "title": "Ryzyko globalnej klęski głodu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-usa-izrael-widmo-globalnej-kleski-glodu-to-straszna-straszna-perspektywa-st8952815?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:31:36 GMT",
+      "description": "• Wojna w Iranie może potrwać do czerwca.\n• Ceny ropy mogą utrzymać się na poziomie powyżej 100 dolarów za baryłkę.\n• Światu grozi nowa klęska głodu.\n• Ostrzega przed tym Światowy Program Żywnościowy (WFP).\n• Zagrożonych mogłoby być nawet 45 milionów osób.",
+      "originalTitle": "Widmo globalnej klęski głodu. \"To straszna, straszna perspektywa\"",
+      "originalDescription": "Jeśli wojna w Iranie potrwa do czerwca i jeśli ceny ropy utrzymają się na poziomie powyżej 100 dolarów za baryłkę, to światu grozi nowa klęska głodu - ostrzega Światowy Program Żywnościowy (WFP). Zagrożonych mogłoby być nawet 45 milionów osób."
+    },
+    {
+      "title": "Zalecenia kardiologów dotyczące statyn dla młodych dorosłych",
+      "link": "https://tvn24.pl/zdrowie/nowe-wytyczne-kardiologow-statyny-juz-po-trzydziestce-rewolucja-w-profilaktyce-chorob-serca-st8952642?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:29:37 GMT",
+      "description": "Najważniejsze amerykańskie towarzystwa kardiologiczne opublikowały nowe wytyczne dotyczące stosowania statyn. Eksperci przekonują, że wcześniejsze sięganie po leki obniżające cholesterol może zapobiec milionom przedwczesnych zawałów i udarów. Statyny mają być zalecane nawet osobom po trzydziestce z podwyższonym poziomem tzw. złego cholesterolu LDL.",
+      "originalTitle": "Statyny dla młodszych dorosłych? Nowe zalecenia kardiologów",
+      "originalDescription": "Najważniejsze amerykańskie towarzystwa kardiologiczne opublikowały nowe wytyczne dotyczące stosowania statyn. Eksperci przekonują, że wcześniejsze sięganie po leki obniżające cholesterol może zapobiec milionom przedwczesnych zawałów i udarów. Statyny mają być zalecane nawet osobom po trzydziestce z podwyższonym poziomem tzw. złego cholesterolu LDL."
+    },
+    {
+      "title": "Znaleziono 60 kg narkotyków",
+      "link": "https://tvn24.pl/poznan/zlotow-ponad-60-kilogramow-narkotykow-w-pustostanie-st8952661?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:26:12 GMT",
+      "description": "Policjanci ze Złotowa przejęli prawie 62 kilogramy narkotyków. Przygotowania do akcji zajęły im kilka miesięcy. Zatrzymanemu w sprawie 23-latkowi grozi nawet 10 lat więzienia.",
+      "originalTitle": "Ponad 60 kilogramów narkotyków w pustostanie",
+      "originalDescription": "Policjanci ze Złotowa przejęli prawie 62 kilogramy narkotyków. Przygotowania do akcji zajęły im kilka miesięcy. Zatrzymanemu w sprawie 23-latkowi grozi nawet 10 lat więzienia."
+    },
+    {
+      "title": "Donice z betonu rozbito",
+      "link": "https://tvn24.pl/wroclaw/krajkow-w-betonowych-donicach-znalezli-kokaine-akcja-cbsp-i-policji-st8952256?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:19:59 GMT",
+      "description": "• Na posesji w Krajkowie (Dolny Śląsk) policjanci znaleźli kokainę.\n• Kokainy znaleziono 42 kilogramy.\n• Kokaina była ukryta w trzech betonowych donicach.\n• Policjanci zatrzymali 42-letniego mężczyznę.",
+      "originalTitle": "Tajemnica trzech donic z betonu. Musieli je rozbić",
+      "originalDescription": "Na posesji w Krajkowie (Dolny Śląsk) policjanci znaleźli 42 kilogramy kokainy. Ukryta była w trzech betonowych donicach. Zatrzymali 42-letniego mężczyznę."
+    },
+    {
+      "title": "\"Punkt zwrotny\". Ambitny plan najbardziej wartościowej firmy świata",
+      "link": "https://tvn24.pl/biznes/tech/nvidia-punkt-zwrotny-ambitny-plan-najbardziej-wartosciowej-firmy-swiata-st8951727?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:09:01 GMT",
+      "description": "Nvidia zapowiada skokowy wzrost rynku układów AI. Firma szacuje, że do 2027 roku potencjalny przychód może sięgnąć co najmniej biliona dolarów. Jednocześnie koncern ogłosił strategię, która ma wzmocnić jego pozycję w szybko rosnącym rynku obsługi systemów sztucznej inteligencji w czasie rzeczywistym.",
+      "originalTitle": "\"Punkt zwrotny\". Ambitny plan najbardziej wartościowej firmy świata",
+      "originalDescription": "Nvidia zapowiada skokowy wzrost rynku układów AI. Firma szacuje, że do 2027 roku potencjalny przychód może sięgnąć co najmniej biliona dolarów. Jednocześnie koncern ogłosił strategię, która ma wzmocnić jego pozycję w szybko rosnącym rynku obsługi systemów sztucznej inteligencji w czasie rzeczywistym."
+    },
+    {
+      "title": "Wojna na sześć palców. Dezinformacyjny front Iran-Izrael",
+      "link": "https://konkret24.tvn24.pl/swiat/konflikt-na-bliskim-wschodzie-wojna-na-szesc-palcow-dezinformacyjny-front-iran-izrael-st8945000?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:02:34 GMT",
+      "description": "Propaganda prowadzona przez Iran i Izrael to główny front wojny informacyjnej dotyczącej konfliktu na Bliskim Wschodzie. Dotyczy ona zarówno tego, ile palców u dłoni mają przywódcy obu krajów, jak również tego, jakie zbrodnie mają na sumieniu. A w tle oczywiście działa Kreml.",
+      "originalTitle": "Wojna na sześć palców. Dezinformacyjny front Iran-Izrael",
+      "originalDescription": "Propaganda prowadzona przez Iran i Izrael to główny front wojny informacyjnej dotyczącej konfliktu na Bliskim Wschodzie. Dotyczy ona zarówno tego, ile palców u dłoni mają przywódcy obu krajów, jak również tego, jakie zbrodnie mają na sumieniu. A w tle oczywiście działa Kreml."
+    },
+    {
+      "title": "To najtrudniejsza do wyleczenia choroba zakaźna. Nowa metoda może to zmienić",
+      "link": "https://tvn24.pl/zdrowie/to-najtrudniejsza-do-wyleczenia-choroba-zakazna-nowa-metoda-moze-to-zmienic-st8952260?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:01:27 GMT",
+      "description": "Polscy naukowcy opracowali terapię, która może zrewolucjonizować leczenie groźnych zakażeń kości. \"Nanokwiaty\" dostarczają antybiotyk dokładnie tam, gdzie trzeba - zwiększając skuteczność i ograniczając ryzyko powikłań, także u dzieci.",
+      "originalTitle": "To najtrudniejsza do wyleczenia choroba zakaźna. Nowa metoda może to zmienić",
+      "originalDescription": "Polscy naukowcy opracowali terapię, która może zrewolucjonizować leczenie groźnych zakażeń kości. \"Nanokwiaty\" dostarczają antybiotyk dokładnie tam, gdzie trzeba - zwiększając skuteczność i ograniczając ryzyko powikłań, także u dzieci."
+    },
+    {
+      "title": "Kto zagra w trzeciej części \"Diuny\"? Są pierwsze zdjęcia",
+      "link": "https://tvn24.pl/kultura-i-styl/diuna-czesc-trzecia-pierwsze-zdjecia-z-filmu-premiera-juz-w-tym-roku-st8952694?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 15:00:21 GMT",
+      "description": "W sieci pojawiły się pierwsze zdjęcia z filmu \"Diuna: Część trzecia\". W kontynuacji głośnych filmów zagra plejada gwiazd, w tym Timothee Chalamet, Zendaya, Florence Pugh i Robert Pattinson.",
+      "originalTitle": "Kto zagra w trzeciej części \"Diuny\"? Są pierwsze zdjęcia",
+      "originalDescription": "W sieci pojawiły się pierwsze zdjęcia z filmu \"Diuna: Część trzecia\". W kontynuacji głośnych filmów zagra plejada gwiazd, w tym Timothee Chalamet, Zendaya, Florence Pugh i Robert Pattinson."
+    }
+  ]
 }
