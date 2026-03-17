@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-17T11:19:16.358Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-17T11:46:59.041Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Prezydent Ukrainy przyjmuje ofertę UE",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ukraina-rurociag-przyjazn-wolodymyr-zelenski-przyjmuje-oferte-unii-europejskiej-st8952132?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:39:06 GMT",
+      "description": "• Wołodymyr Zełenski przekazał, że przyjmuje ofertę Unii Europejskiej w sprawie wsparcia technicznego i finansowania w naprawie rurociągu Przyjaźń.\n• Uszkodzona przepompownia w Brodach ma być naprawiona.\n• Naprawa przepompowni ma być zakończona w ciągu półtora miesiąca.\n• Przepompownia, która ma być naprawiona, znajduje się w Brodach.\n• Rurociąg, którego dotyczy naprawa, to rurociąg Przyjaźń.",
+      "originalTitle": "Zełenski: przyjmuję ofertę Unii Europejskiej",
+      "originalDescription": "Wołodymyr Zełenski przekazał, że przyjmuje ofertę Unii Europejskiej w sprawie wsparcia technicznego i finansowania w naprawie rurociągu Przyjaźń. Według prezydenta Ukrainy uszkodzona przepompownia w Brodach ma być naprawiona w ciągu półtora miesiąca."
+    },
+    {
+      "title": "Przyszłość formatu PDF",
+      "link": "https://tvn24.pl/biznes/tech/czy-to-koniec-pdf-a-st8951854?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:36:47 GMT",
+      "description": "• Opis dotyczy dokumentów opublikowanych na stronach amerykańskiego Departamentu Sprawiedliwości.\n• Dokumenty te zostały opublikowane pod koniec roku 2025 i na początku 2026.\n• Liczba opublikowanych stron dokumentów wynosi miliony.\n• Dokumenty są związane ze sprawą Jeffreya Epsteina.\n• Dziennikarze i analitycy odkryli problem techniczny po opublikowaniu dokumentów.\n• Problem techniczny dotyczył modeli sztucznej inteligencji, które nie radzą sobie z odczytem plików.\n• Winny problemu technicznego jest format PDF.",
+      "originalTitle": "Czy to koniec PDF-a?",
+      "originalDescription": "Gdy pod koniec roku 2025 i na początku 2026 na stronach amerykańskiego Departamentu Sprawiedliwości opublikowane zostały miliony stron dokumentów związanych ze sprawą Jeffreya Epsteina, dziennikarze i analitycy szybko odkryli problem techniczny. Okazało się, że modele sztucznej inteligencji często nie radzą sobie z odczytem plików. Wszystkiemu winny jest… format PDF."
+    },
+    {
+      "title": "Ostrzeżenia IMGW dla północy Polski",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-ostrzezenia-imgw-17-18-03-geste-mgly-st8950139?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 05:23:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego stopnia przed mgłami.\n• Ostrzeżenia dotyczą części kraju.\n• W tych miejscach widzialność może być ograniczona.",
+      "originalTitle": "Żółte alarmy na północy Polski. IMGW ostrzega",
+      "originalDescription": "Pogoda. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego stopnia przed mgłami, które będą się snuły w części kraju. Sprawdź, gdzie widzialność może być ograniczona."
+    },
+    {
+      "title": "Wystawiono akt oskarżenia w sprawie zakładnika",
+      "link": "https://tvn24.pl/krakow/zakopane-porwanie-dla-okupu-zakladnik-napisal-sms-do-matki-st8951980?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:35:47 GMT",
+      "description": "• Wstrząsająca historia na Podhalu wkrótce znajdzie swój finał w sądzie.\n• Prokuratura skierowała do sądu akt oskarżenia przeciwko dwóm mężczyznom.\n• Dwóch mężczyzn mieli uprowadzić i przetrzymywać w piwnicy 24-latka.\n• 24-latek był bity, kneblowany i przykuwany do rur ciepłowniczych według śledczych.",
+      "originalTitle": "Zakładnik był \"bity, kneblowany i przykuwany do rur\". Jest akt oskarżenia",
+      "originalDescription": "Wstrząsająca historia na Podhalu wkrótce znajdzie swój finał w sądzie. Prokuratura skierowała do sądu akt oskarżenia przeciwko dwóm mężczyznom, którzy mieli uprowadzić i przetrzymywać w piwnicy 24-latka. Według śledczych był on \"bity, kneblowany i przykuwany do rur ciepłowniczych\"."
+    },
+    {
+      "title": "Uszkodzony blok mieszkalny",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostrow-mazowiecka-ostrzelany-blok-st8951675?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:31:26 GMT",
+      "description": "Ktoś ostrzelał blok w Ostrowi Mazowieckiej. Policjanci podejrzewają, że za sprawą stoi 52-latek. W jego mieszkaniu znaleziono broń pneumatyczną.",
+      "originalTitle": "Ostrzelany blok. Na szybach odpryski i przestrzeliny",
+      "originalDescription": "Ktoś ostrzelał blok w Ostrowi Mazowieckiej. Policjanci podejrzewają, że za sprawą stoi 52-latek. W jego mieszkaniu znaleziono broń pneumatyczną."
+    },
+    {
+      "title": "Pięć osób zatrzymanych w sprawie fikcyjnych faktur VAT",
+      "link": "https://tvn24.pl/szczecin/szczecin-grupa-przestepcza-wyludzala-miliony-piec-osob-zatrzymanych-st8951609?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:29:38 GMT",
+      "description": "Grupę przestępczą wyłudzającą VAT rozbili funkcjonariusze CBŚP we współpracy ze służbami skarbowymi. Pięć osób jest zatrzymanych. Według śledczych chodzi o milionowe kwoty i poważne straty dla budżetu państwa.",
+      "originalTitle": "Miliony na fikcyjnych fakturach VAT. Pięć osób zatrzymanych",
+      "originalDescription": "Grupę przestępczą wyłudzającą VAT rozbili funkcjonariusze CBŚP we współpracy ze służbami skarbowymi. Pięć osób jest zatrzymanych. Według śledczych chodzi o milionowe kwoty i poważne straty dla budżetu państwa."
+    },
+    {
+      "title": "Komunikat MSZ dotyczący podróży",
+      "link": "https://tvn24.pl/biznes/turystyka/wenezuela-odradzamy-wszelkie-podroze-wazny-komunikat-msz-st8951620?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:27:02 GMT",
+      "description": "• Ministerstwo Spraw Zagranicznych odradza polskim obywatelom podróże do Wenezueli, jeśli nie są one absolutnie konieczne.\n• Polski resort poinformował o tym w komunikacie.\n• Stale obowiązują ostrzeżenia przed wszelkimi wyjazdami do regionów przygranicznych.",
+      "originalTitle": "\"Odradzamy wszelkie podróże\". Ważny komunikat MSZ",
+      "originalDescription": "Ministerstwo Spraw Zagranicznych odradza polskim obywatelom podróże do Wenezueli, jeśli nie są one absolutnie konieczne - poinformował polski resort w komunikacie. Dodał, że stale obowiązują także ostrzeżenia przed wszelkimi wyjazdami do regionów przygranicznych."
+    },
+    {
+      "title": "Sprzedaż Browaru Tenczynek",
+      "link": "https://tvn24.pl/krakow/browar-tenczynek-janusza-palikota-wystawiony-na-sprzedaz-oferta-na-olx-st8951713?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:23:34 GMT",
+      "description": "Syndyk wystawił na sprzedaż część majątku byłego polityka i przedsiębiorcy, Janusza Palikota. Mowa o Browaru Tenczynek, działającym pod marką Manufaktura Piwa Wódki i Wina. Oferta pojawiła się m.in. na OLX. Sprzedaż ma pokryć część zobowiązań Palikota, któremu prokuratura zarzuca oszustwa na kwotę około 70 milionów złotych.",
+      "originalTitle": "Piwne imperium Palikota na OLX. Syndyk sprzedaje Browar Tenczynek",
+      "originalDescription": "Syndyk wystawił na sprzedaż część majątku byłego polityka i przedsiębiorcy, Janusza Palikota. Mowa o Browaru Tenczynek, działającym pod marką Manufaktura Piwa Wódki i Wina. Oferta pojawiła się m.in. na OLX. Sprzedaż ma pokryć część zobowiązań Palikota, któremu prokuratura zarzuca oszustwa na kwotę około 70 milionów złotych."
+    },
+    {
+      "title": "Donald Trump o umiejętnościach prezydenta",
+      "link": "https://tvn24.pl/swiat/donald-trump-o-dysleksji-gubernatora-gavina-newsoma-prezydent-nie-powinien-miec-problemow-z-uczeniem-sie-st8952057?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:18:22 GMT",
+      "description": "• Donald Trump atakuje swojego politycznego rywala i potencjalnego kandydata na prezydenta w 2028 roku.\n• Atak jest skierowany przeciwko gubernatorowi Kalifornii Gavina Newsoma.\n• Gubernator Gavin Newsom ma \"trudności w uczeniu się\", według wypowiedzi Donalda Trumpa.\n• Gavin Newsom opowiadał wcześniej o swoich zmaganiach z dysleksją.\n• Informacje o ataku Donalda Trumpa na Gavina Newsoma pochodzą z amerykańskich mediów.\n• Rok, w którym może dojść do walki wyborczej między Donaldem Trumpem a potencjalnymi rywalami, to 2028.",
+      "originalTitle": "Donald Trump: prezydent nie powinien mieć problemów z uczeniem się",
+      "originalDescription": "Donald Trump atakuje swojego politycznego rywala i potencjalnego kandydata na prezydenta w 2028 roku - piszą amerykańskie media. Chodzi o wypowiedzi prezydenta na temat gubernatora Kalifornii Gavina Newsoma i jego \"trudności w uczeniu się\". Demokrata opowiadał wcześniej o swoich zmaganiach z dysleksją."
+    },
+    {
+      "title": "Szybka jazda i szybka kara. Dwóch kierowców  traci prawo jazdy",
+      "link": "https://tvn24.pl/szczecin/stargard-szybka-jazda-kontrola-policji-kierowcy-stracili-prawo-jazdy-st8952023?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 11:12:58 GMT",
+      "description": "Jeden przyspieszył tuż po minięciu patrolu, drugi pędził w terenie zabudowanym. Dwóch kierowców jednego dnia straciło swoje prawa jazdy.",
+      "originalTitle": "Szybka jazda i szybka kara. Dwóch kierowców  traci prawo jazdy",
+      "originalDescription": "Jeden przyspieszył tuż po minięciu patrolu, drugi pędził w terenie zabudowanym. Dwóch kierowców jednego dnia straciło swoje prawa jazdy."
+    }
+  ]
 }
