@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-18T18:48:36.593Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-18T19:23:52.936Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek wagonika, jedna ofiara śmiertelna",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/szwajcaria-wypadek-gondoli-wagonik-urwal-sie-i-przekoziolkowal-po-zboczu-nie-zyje-kobieta-st8955405?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 19:13:05 GMT",
+      "description": "W jednym ze szwajcarskich kurortów w Alpach urwała się gondola kolejki linowej. Jak podała policja, w uszkodzonym wagoniku znajdowała się jedna osoba. Jej życia nie udało się uratować.",
+      "originalTitle": "Wagonik urwał się i przekoziołkował po zboczu. Nie żyje kobieta",
+      "originalDescription": "W jednym ze szwajcarskich kurortów w Alpach urwała się gondola kolejki linowej. Jak podała policja, w uszkodzonym wagoniku znajdowała się jedna osoba. Jej życia nie udało się uratować."
+    },
+    {
+      "title": "Pożar na budowie, ewakuacja",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-pozar-bloku-na-bialolece-st8954475?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 12:35:50 GMT",
+      "description": "Duży pożar w okolicy ulicy Modlińskiej na warszawskiej Białołęce. Paliła się elewacja budowanego bloku. Strażacy musieli ściągać operatora dźwigu, uwięzionego w kabinie. Naruszona konstrukcja żurawia stwarzała zagrożenie, dlatego wieczorem podjęto decyzję o ewakuacji 40 mieszkańców.",
+      "originalTitle": "Pożar na budowie. Operator dźwigu w szpitalu. Ewakuowano mieszkańców",
+      "originalDescription": "Duży pożar w okolicy ulicy Modlińskiej na warszawskiej Białołęce. Paliła się elewacja budowanego bloku. Strażacy musieli ściągać operatora dźwigu, uwięzionego w kabinie. Naruszona konstrukcja żurawia stwarzała zagrożenie, dlatego wieczorem podjęto decyzję o ewakuacji 40 mieszkańców."
+    },
+    {
+      "title": "Urzędnicy nakazali ściszenie kościelnych dzwonów",
+      "link": "https://tvn24.pl/katowice/bielsko-biala-dzwony-bazyliki-w-halcnowie-bija-za-glosno-urzednicy-kazali-je-sciszyc-st8955289?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:47:38 GMT",
+      "description": "• Wojewódzki Inspektorat Ochrony Środowiska kazał uciszyć dzwony sanktuarium w Bielsku-Białej.\n• Sanktuarium znajduje się w województwie Śląskim.\n• Urzędnicy stwierdzili, że pomiary wykazały \"przekroczenie dopuszczalnego poziomu hałasu\".\n• Parafia wyłączyła dwa dzwony w obawie przed karami finansowymi.\n• Parafia skróciła czas dzwonienia.",
+      "originalTitle": "Kościelne dzwony biją za głośno. Urzędnicy kazali je ściszyć",
+      "originalDescription": "Wojewódzki Inspektorat Ochrony Środowiska kazał uciszyć dzwony sanktuarium w Bielsku-Białej (Śląskie). Według urzędników, pomiary wykazały \"przekroczenie dopuszczalnego poziomu hałasu\". W obawie przed karami finansowymi parafia wyłączyła dwa dzwony i skróciła czas dzwonienia."
+    },
+    {
+      "title": "Uszkodzenia samolotów pod Tel Awiwem",
+      "link": "https://tvn24.pl/swiat/trzy-samoloty-uszkodzone-pod-tel-awiwem-po-iranskim-ataku-st8955255?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:36:16 GMT",
+      "description": "• Fragmenty strąconych irańskich rakiet poważnie uszkodziły trzy prywatne samoloty.\n• Zdarzenie miało miejsce na lotnisku Ben Guriona.\n• Lotnisko Ben Guriona znajduje się pod Tel Awiwem.",
+      "originalTitle": "Trzy samoloty uszkodzone pod Tel Awiwem po irańskim ataku",
+      "originalDescription": "Fragmenty strąconych irańskich rakiet poważnie uszkodziły trzy prywatne samoloty na lotnisku Ben Guriona pod Tel Awiwem."
+    },
+    {
+      "title": "Rosja ogranicza eksport ropy do Chin",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zwrot-w-handlu-rosyjska-ropa-nie-trafi-do-chin-st8955370?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:33:51 GMT",
+      "description": "• Co najmniej siedem tankowców z rosyjską ropą zmieniło w trakcie rejsu port docelowy z Chin na Indie.\n• Zmiana portu docelowego nastąpiła po tymczasowej zgodzie USA na zwiększenie przez Indie importu rosyjskiego surowca.\n• Informację o zmianie portu docelowego podała agencja Bloomgerg.\n• Agencja Bloomgerg powołała się na dane firmy Vortexa Ltd.",
+      "originalTitle": "Zwrot w handlu. Rosyjska ropa nie trafi do Chin",
+      "originalDescription": "Co najmniej siedem tankowców z rosyjską ropą zmieniło w trakcie rejsu port docelowy z Chin na Indie - podała agencja Bloomgerg, powołując się na dane firmy Vortexa Ltd. Decyzja nastąpiła tuż po tymczasowej zgodzie USA na zwiększenie przez Indie importu rosyjskiego surowca."
+    },
+    {
+      "title": "Remont budynków zakończony, planowany sezon orkiestry",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-remont-siedziby-sinfonii-varsovii-kiedy-koncerty-st8955279?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:32:04 GMT",
+      "description": "• Dobiega końca pierwszy etap remontu siedziby Sinfonii Varsovii.\n• W trzech zabytkowych budynkach przewidziano małe sale koncertowe.\n• W trzech zabytkowych budynkach przewidziano przestrzeń edukacyjną.\n• W trzech zabytkowych budynkach przewidziano kawiarnię.\n• Pierwsze koncerty planowane są we wrześniu.",
+      "originalTitle": "Kończą remont budynków. Orkiestra planuje sezon",
+      "originalDescription": "Dobiega końca pierwszy etap remontu siedziby Sinfonii Varsovii. W trzech zabytkowych budynkach przewidziano małe sale koncertowe, przestrzeń edukacyjną i kawiarnię. Pierwsze koncerty planowane są we wrześniu."
+    },
+    {
+      "title": "Esmail Chatib nie żyje. Przywódca Iranu potwierdził informacje",
+      "link": "https://tvn24.pl/swiat/esmail-chatib-nie-zyje-przywodca-iranu-potwierdzil-informacje-st8955345?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:31:33 GMT",
+      "description": "Prezydent Iranu Masud Pezeszkian potwierdził śmierć ministra wywiadu Esmaila Chatiba. Izrael informował, że został on zabity w \"precyzyjnym uderzeniu\" w Teheranie.",
+      "originalTitle": "Esmail Chatib nie żyje. Przywódca Iranu potwierdził informacje",
+      "originalDescription": "Prezydent Iranu Masud Pezeszkian potwierdził śmierć ministra wywiadu Esmaila Chatiba. Izrael informował, że został on zabity w \"precyzyjnym uderzeniu\" w Teheranie."
+    },
+    {
+      "title": "Pogoda na jutro - czwartek, 19.03. Nocą miejscami chwyci mróz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-19-03-noca-miejscami-chwyci-mroz-st8955346?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:25:56 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek, 19.03. W nocy na przeważającym obszarze Polski będzie pogodnie, choć lokalnie pojawią się mgły i mgły marznące. W dzień dominować będzie słoneczna aura.",
+      "originalTitle": "Pogoda na jutro - czwartek, 19.03. Nocą miejscami chwyci mróz",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 19.03. W nocy na przeważającym obszarze Polski będzie pogodnie, choć lokalnie pojawią się mgły i mgły marznące. W dzień dominować będzie słoneczna aura."
+    },
+    {
+      "title": "Zatrzymano lidera potężnego gangu. W tle zabójstwo kandydata na prezydenta",
+      "link": "https://tvn24.pl/swiat/w-meksyku-zatrzymano-lidera-gangu-narkotykowego-los-lobos-st8955296?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 18:15:51 GMT",
+      "description": "W Meksyku zatrzymano lidera jednego z największych gangów narkotykowych Ekwadoru - Los Lobos. Mężczyzna był poszukiwany między innymi w związku z zabójstwem kandydata na prezydenta. Według władz próbował uciec, posługując się fałszywymi dokumentami.",
+      "originalTitle": "Zatrzymano lidera potężnego gangu. W tle zabójstwo kandydata na prezydenta",
+      "originalDescription": "W Meksyku zatrzymano lidera jednego z największych gangów narkotykowych Ekwadoru - Los Lobos. Mężczyzna był poszukiwany między innymi w związku z zabójstwem kandydata na prezydenta. Według władz próbował uciec, posługując się fałszywymi dokumentami."
+    },
+    {
+      "title": "Bogucki pisze do Czarzastego w imieniu prezydenta. \"Poważne wątpliwości\"",
+      "link": "https://tvn24.pl/polska/spor-o-sedziow-trybunalu-konstytucyjnego-zbigniew-bogucki-pisze-do-wlodzimierza-czarzastego-w-imieniu-prezydenta-st8955246?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 17:45:29 GMT",
+      "description": "Szef kancelarii prezydenta Zbigniew Bogucki napisał, że wysłał do marszałka Sejmu Włodzimierza Czarzastego pisma w sprawie wyboru sędziów Trybunału Konstytucyjnego. Ocenił, że \"analiza procesu powołania budzi bardzo poważne wątpliwości\" i zadał pytania.",
+      "originalTitle": "Bogucki pisze do Czarzastego w imieniu prezydenta. \"Poważne wątpliwości\"",
+      "originalDescription": "Szef kancelarii prezydenta Zbigniew Bogucki napisał, że wysłał do marszałka Sejmu Włodzimierza Czarzastego pisma w sprawie wyboru sędziów Trybunału Konstytucyjnego. Ocenił, że \"analiza procesu powołania budzi bardzo poważne wątpliwości\" i zadał pytania."
+    }
+  ]
 }
