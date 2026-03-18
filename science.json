@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-18T10:21:52.028Z",
+  "lastUpdate": "2026-03-18T10:47:54.246Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Nowy mechanizm wpływania na właściwości stopów półprzewodników",
+      "link": "https://dzienniknaukowy.pl/nowy-mechanizm-wplywania-na-wlasciwosci-stopow-polprzewodnikow",
+      "pubDate": "Wed, 18 Mar 2026 10:24:24 +0000",
+      "description": "Międzynarodowy zespół naukowców z udziałem fizyków z Uniwersytetu Warszawskiego odkrył mechanizm pozwalający na precyzyjną zmianę właściwości magnetooptycznych stopów dwuwymiarowych półprzewodników. Odkrycie to stwarza nowe możliwości rozwoju dolinotroniki."
+    },
     {
       "title": "Mleczarskie odpady zamiast chemii. Przełomowe bionawozy z PWr",
       "link": "https://dzienniknaukowy.pl/mleczarskie-odpady-zamiast-chemii-przelomowe-bionawozy-z-pwr",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/dym-papierosowy-i-ciaza-a-niedobor-selenu",
       "pubDate": "Thu, 12 Mar 2026 10:56:46 +0000",
       "description": "Niedobory nie zawsze zaczynają się po urodzeniu. Czasem są skutkiem decyzji podejmowanych przez otoczenie matki. Badania naukowców z Uniwersytetu Medycznego we Wrocławiu ujawniają, jak bierna ekspozycja ciężarnej kobiety na dym tytoniowy może wpłynąć na jeden z kluczowych pierwiastków w organizmie dziecka – selen, od którego zależą m.in. odporność, metabolizm i ochrona przed stresem oksydacyjnym."
-    },
-    {
-      "title": "UPP Arką Noego dla żółwi kantońskich, które wymarły na wolności",
-      "link": "https://dzienniknaukowy.pl/upp-arka-noego-dla-zolwi-kantonskich-ktore-wymarly-na-wolnosci",
-      "pubDate": "Wed, 11 Mar 2026 13:11:11 +0000",
-      "description": "Uniwersytet Przyrodniczy w Poznaniu ratuje jeden z najbardziej zagrożonych wyginięciem gatunków na świecie - żółwie kantońskie (Mauremys nigricans). W Pracowni Rybactwa Śródlądowego i Akwakultury (Katedra Zoologii) na Wydziale Medycyny Weterynaryjnej i Nauk o Zwierzętach Uniwersytetu Przyrodniczego w Poznaniu utworzono kolonię bezpieczeństwa żółwi kantońskich, która w przyszłości może stać się ważnym źródłem zasobów genetycznych do reintrodukcji tego gatunku"
     }
   ]
 }
