@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-18T16:49:51.604Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-18T17:26:10.711Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ceny ropy i gazu wzrosły po ataku na złoże",
+      "link": "https://tvn24.pl/biznes/rynki/iran-usa-izrael-ropa-i-gaz-drozeja-po-ataku-na-najwieksze-zloze-swiata-st8955277?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 17:09:22 GMT",
+      "description": "• Po amerykańsko-izraelskich uderzeniach na irańskie instalacje gazowe w Zatoce Perskiej ceny ropy i gazu gwałtownie wzrosły.\n• Rynki obawiają się eskalacji konfliktu.\n• Rynki obawiają się możliwych ataków odwetowych Iranu.\n• Ataki odwetowe Iranu mogą być skierowane na infrastrukturę energetyczną w regionie.",
+      "originalTitle": "Ropa i gaz drożeją po ataku na największe złoże świata",
+      "originalDescription": "Po amerykańsko-izraelskich uderzeniach na irańskie instalacje gazowe w Zatoce Perskiej ceny ropy i gazu gwałtownie wzrosły. Rynki obawiają się eskalacji konfliktu i możliwych ataków odwetowych Iranu na infrastrukturę energetyczną w regionie."
+    },
+    {
+      "title": "Ewakuacja setek osób z powodu pożaru",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/norwegia-ogien-blisko-domow-setki-osob-ewakuowanych-st8955256?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 17:08:12 GMT",
+      "description": "• Groźny pożar wystąpił na zboczach Sukkertoppen.\n• Pożar znajduje się w norweskim Alesund.\n• Pożar zmusił setki osób do ewakuacji.\n• Żywioł zbliżył się do zabudowań.\n• Niektórzy mieszkańcy musieli opuszczać domy w pośpiechu.",
+      "originalTitle": "Ogień blisko domów, setki osób ewakuowanych",
+      "originalDescription": "Groźny pożar na zboczach Sukkertoppen w norweskim Alesund zmusił setki osób do ewakuacji. Żywioł zbliżył się do zabudowań. Niektórzy mieszkańcy musieli opuszczać domy w pośpiechu."
+    },
+    {
+      "title": "Pracownik uratowany z wysokości",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-pozar-na-budowie-ewakuacja-operatora-dzwigu-st8955132?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 17:01:24 GMT",
+      "description": "• Pożar wybuchł w budynku na warszawskiej Białołęce.\n• Pożar odciął drogę ucieczki operatorowi dźwigu.\n• Operator dźwigu został ewakuowany z kabiny przez strażaków.\n• Posiadamy nagranie z tej akcji ewakuacyjnej.",
+      "originalTitle": "Na górze dym, na dole ogień. Pracownik w potrzasku. Tak ściągnęli go na ziemię",
+      "originalDescription": "Pożaru budynku na warszawskiej Białołęce odciął drogę ucieczki operatorowi dźwigu. Z kabiny mężczyznę ewakuowali strażacy. Mamy nagranie z tej akcji."
+    },
+    {
+      "title": "Ewakuacja Polaków: koszty i odpowiedzialność",
+      "link": "https://tvn24.pl/polska/kto-powinien-placic-za-ewakuacje-polakow-z-bliskiego-wschodu-debata-w-tvn24-st8955107?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:58:16 GMT",
+      "description": "Goście Debaty w TVN24+ dyskutowali o tym, czy rząd powinien finansować ewakuację turystów z niebezpiecznych rejonów. Pytanie to odżyło w związku z konfliktem na Bliskim Wschodzie. Uczestnicy debaty zastanawiali się, czy podróżujący w rejony niebezpieczne wbrew ostrzeżeniom powinni być wyłączeni z bezpłatnej opieki konsularnej i ratunkowej, czy państwo powinno płacić za błędy ryzykantów i kto powinien finansować akcje ratunkowe.",
+      "originalTitle": "Kto powinien płacić za ewakuację Polaków? \"Niebezpieczny precedens\"",
+      "originalDescription": "Goście Debaty w TVN24+ dyskutowali o tym, czy rząd powinien finansować ewakuację turystów z niebezpiecznych rejonów. Pytanie to odżyło w związku z konfliktem na Bliskim Wschodzie. Uczestnicy debaty zastanawiali się, czy podróżujący w rejony niebezpieczne wbrew ostrzeżeniom powinni być wyłączeni z bezpłatnej opieki konsularnej i ratunkowej, czy państwo powinno płacić za błędy ryzykantów i kto powinien finansować akcje ratunkowe."
+    },
+    {
+      "title": "Wypadek na autostradzie, ofiara śmiertelna",
+      "link": "https://tvn24.pl/swiat/usa-wypadek-na-autostradzie-chcial-pomoc-wnukowi-zginal-po-uderzeniu-karetki-st8955199?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:54:00 GMT",
+      "description": "Policja w Georgii (USA) wszczęła śledztwo w sprawie śmiertelnego wypadku na autostradzie. Według mediów zginął w nim mężczyzna po tym, jak ambulans uderzył w samochód jego wnuka. Wześniej zatrzymał się, by pomóc nastolatkowi, który utknął na autostradzie.",
+      "originalTitle": "Chciał pomóc wnukowi, zginął na autostradzie. Ambulans uderzył w stojące samochody",
+      "originalDescription": "Policja w Georgii (USA) wszczęła śledztwo w sprawie śmiertelnego wypadku na autostradzie. Według mediów zginął w nim mężczyzna po tym, jak ambulans uderzył w samochód jego wnuka. Wześniej zatrzymał się, by pomóc nastolatkowi, który utknął na autostradzie."
+    },
+    {
+      "title": "Informacja o jakości wody w trzech miejscowościach",
+      "link": "https://tvn24.pl/wroclaw/walim-woda-niezdatna-do-spozycia-sanepid-wydal-komunikat-st8955175?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:26:12 GMT",
+      "description": "Woda w Walimiu, Jugowicach i Zagórzu na Dolnym Śląsku nie nadaje się do spożycia - poinformował sanepid w Wałbrzychu. W próbce stwierdzono obecność bakterii grupy coli. Do mieszkańców kursują beczkowozy.",
+      "originalTitle": "Woda nie nadaje się do spożycia. Komunikat dla trzech miejscowości",
+      "originalDescription": "Woda w Walimiu, Jugowicach i Zagórzu na Dolnym Śląsku nie nadaje się do spożycia - poinformował sanepid w Wałbrzychu. W próbce stwierdzono obecność bakterii grupy coli. Do mieszkańców kursują beczkowozy."
+    },
+    {
+      "title": "Małe czerwone kropki w kosmosie. \"Śmiało można nazwać je tajemnicą\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/male-czerwone-kropki-w-kosmosie-smialo-mozna-nazwac-je-tajemnica-st8953838?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:22:31 GMT",
+      "description": "Czym są małe czerwone kropki (Little Red Dots), odkryte przez naukowców z NASA, widoczne na zdjęciach z kosmosu? Na pierwszy rzut oka mogą przypominać zakłócenia, ale kryje się za nimi znacznie więcej. Badacze wciąż nie wiedzą, czym one dokładnie są, ale mają różne hipotezy.",
+      "originalTitle": "Małe czerwone kropki w kosmosie. \"Śmiało można nazwać je tajemnicą\"",
+      "originalDescription": "Czym są małe czerwone kropki (Little Red Dots), odkryte przez naukowców z NASA, widoczne na zdjęciach z kosmosu? Na pierwszy rzut oka mogą przypominać zakłócenia, ale kryje się za nimi znacznie więcej. Badacze wciąż nie wiedzą, czym one dokładnie są, ale mają różne hipotezy."
+    },
+    {
+      "title": "Zagadkowe posiłki w urzędzie miasta. \"Obrzydliwe kłamstwo\"",
+      "link": "https://tvn24.pl/krakow/krakow-catering-w-urzedzie-miasta-opozycja-zarzuca-rozrzutnosc-prezydent-odpowiada-st8954799?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:08:11 GMT",
+      "description": "Radni opozycji zaatakowali prezydenta Krakowa Aleksandra Miszalskiego za \"trzykrotny\" wzrost wydatków urzędu miasta na catering. - Obrzydliwe kłamstwo - stwierdził zastępca prezydenta Łukasz Sęk. Polityk wskazał, że opozycja doliczyła do wydatków za ostatni rok m.in. koszt obiadów dla osób w kryzysie bezdomności. Lider opozycyjnego klubu najpierw stwierdził, że w błąd wprowadzili go urzędnicy. Potem przyznał, że to błąd jego współpracowniczki.",
+      "originalTitle": "Zagadkowe posiłki w urzędzie miasta. \"Obrzydliwe kłamstwo\"",
+      "originalDescription": "Radni opozycji zaatakowali prezydenta Krakowa Aleksandra Miszalskiego za \"trzykrotny\" wzrost wydatków urzędu miasta na catering. - Obrzydliwe kłamstwo - stwierdził zastępca prezydenta Łukasz Sęk. Polityk wskazał, że opozycja doliczyła do wydatków za ostatni rok m.in. koszt obiadów dla osób w kryzysie bezdomności. Lider opozycyjnego klubu najpierw stwierdził, że w błąd wprowadzili go urzędnicy. Potem przyznał, że to błąd jego współpracowniczki."
+    },
+    {
+      "title": "\"Nie jest potworem\". Prokurator domaga się dla syna księżnej siedmiu lat więzienia",
+      "link": "https://tvn24.pl/swiat/norwegia-proces-syna-ksieznej-prokurator-chce-dla-mariusa-borga-hoiby-ego-7-lat-wiezienia-st8955068?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 16:02:24 GMT",
+      "description": "W czwartek może zapaść wyrok w sprawie pasierba norweskiego następcy tronu. Za gwałty na czterech kobietach oraz przemoc domową i inne przestępstwa prokurator zażądał dla niego w środę siedmiu lat więzienia.",
+      "originalTitle": "\"Nie jest potworem\". Prokurator domaga się dla syna księżnej siedmiu lat więzienia",
+      "originalDescription": "W czwartek może zapaść wyrok w sprawie pasierba norweskiego następcy tronu. Za gwałty na czterech kobietach oraz przemoc domową i inne przestępstwa prokurator zażądał dla niego w środę siedmiu lat więzienia."
+    },
+    {
+      "title": "Kredyt koreański, obligacje a SAFE. Różnica to ponad 160 miliardów",
+      "link": "https://tvn24.pl/biznes/z-kraju/safe-a-kredyt-koreanski-obligacje-bgk-i-skarbowe-roznica-to-ponad-160-miliardow-st8955198?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 15:53:12 GMT",
+      "description": "Polska, mimo weta prezydenta Karola Nawrockiego, wciąż ma szansę skorzystać z unijnego programu SAFE. Pożyczka w wysokości 43,7 miliarda euro, z długim okresem spłaty i niskim oprocentowaniem, może okazać się najtańszym i najbezpieczniejszym sposobem pozyskania kapitału w porównaniu z innymi dostępnymi źródłami finansowania. Oto, jak wygląda ta oferta na tle alternatyw.",
+      "originalTitle": "Kredyt koreański, obligacje a SAFE. Różnica to ponad 160 miliardów",
+      "originalDescription": "Polska, mimo weta prezydenta Karola Nawrockiego, wciąż ma szansę skorzystać z unijnego programu SAFE. Pożyczka w wysokości 43,7 miliarda euro, z długim okresem spłaty i niskim oprocentowaniem, może okazać się najtańszym i najbezpieczniejszym sposobem pozyskania kapitału w porównaniu z innymi dostępnymi źródłami finansowania. Oto, jak wygląda ta oferta na tle alternatyw."
+    }
+  ]
 }
