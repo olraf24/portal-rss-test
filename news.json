@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-18T08:47:32.688Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-18T09:22:21.361Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zima w Zakopanem",
+      "link": "https://tvn24.pl/tvnmeteo/polska/spadl-snieg-zima-wrocila-do-zakopanego-bialo-zrobilo-sie-w-kuznicach-st8953565?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 09:14:14 GMT",
+      "description": "• W Zakopanem spadł śnieg.\n• Na szlakach zrobiło się ślisko.\n• Zdzisław Chmiel jest przewodnikiem tatrzańskim.\n• Zdzisław Chmiel powiedział, że idąc w góry należy być przygotowanym na zimowe warunki.",
+      "originalTitle": "Zima wróciła do Zakopanego",
+      "originalDescription": "W Zakopanem spadł śnieg, przez co na szlakach zrobiło się ślisko. Zdzisław Chmiel, przewodnik tatrzański, powiedział, że idąc w góry należy być przygotowanym na zimowe warunki."
+    },
+    {
+      "title": "Mężczyzna użył noża i tłuczka w incydencie związanych z samochodem",
+      "link": "https://tvn24.pl/bialystok/bialystok-grozil-nozem-pobil-tluczkiem-do-miesa-zmusil-do-sprzedazy-samochodu-st8953689?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 09:09:06 GMT",
+      "description": "• Policja zatrzymała 44-latka z Białegostoku.\n• Zatrzymany odpowie za pobicie i groźby wobec znajomego.\n• Z ustaleń wynika, że zmusił go w ten sposób do podpisania umowy sprzedaży samochodu.\n• Zatrzymany użył \"kupionego\" autem do odjechania.\n• Uderzył w znak drogowy \"kupionym\" autem.",
+      "originalTitle": "Groził nożem i bił tłuczkiem do mięsa, by \"kupić\" auto",
+      "originalDescription": "Policja zatrzymała 44-latka z Białegostoku, który odpowie za pobicie i groźby wobec znajomego. Z ustaleń wynika, że zmusił go w ten sposób do podpisania umowy sprzedaży samochodu. Tak \"kupionym\" autem odjechał i uderzył w znak drogowy."
+    },
+    {
+      "title": "Zapowiedź odwetu po incydencie",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-iran-zapowiedzial-zdecydowana-odpowiedz-na-smierc-alego-laridzaniego-st8953450?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 09:03:58 GMT",
+      "description": "• Iran zapowiedział \"zdecydowaną i bolesną odpowiedź\" za zabicie Alego Laridżaniego.\n• Ali Laridżani był szefem Najwyższej Rady Bezpieczeństwa Narodowego.\n• Ali Laridżani był uznawany za osobę faktycznie kierującą państwem po śmierci Alego Chameneiego.\n• Ali Laridżani zginął w izraelskim ataku.",
+      "originalTitle": "\"Czysta krew\" zostanie pomszczona. Zapowiedzieli \"zdecydowany odwet\"",
+      "originalDescription": "Iran zapowiedział \"zdecydowaną i bolesną odpowiedź\" za zabicie Alego Laridżaniego. Szef Najwyższej Rady Bezpieczeństwa Narodowego był uznawany za osobę faktycznie kierującą państwem po śmierci Alego Chameneiego. Zginął w izraelskim ataku."
+    },
+    {
+      "title": "Koszty prezydenckiego weta rosną",
+      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-i-weto-safe-agencja-fitch-alarmuje-minister-finansow-andrzej-domanski-komentuje-st8953659?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 08:56:49 GMT",
+      "description": "Fitch Ratings ocenił, że blokowanie działań rządu przez Karola Nawrockiego zwiększa ryzyko politycznego impasu, który może ograniczyć wdrażanie reform w Polsce. Minister finansów Andrzej Domański również odniósł się do konsekwencji decyzji prezydenta.",
+      "originalTitle": "\"Rosną koszty prezydenckiego weta\". Wielka agencja alarmuje, minister komentuje",
+      "originalDescription": "Fitch Ratings ocenił, że blokowanie działań rządu przez Karola Nawrockiego zwiększa ryzyko politycznego impasu, który może ograniczyć wdrażanie reform w Polsce. Minister finansów Andrzej Domański również odniósł się do konsekwencji decyzji prezydenta."
+    },
+    {
+      "title": "Mężczyzna usunął krzyż z ołtarza",
+      "link": "https://tvn24.pl/bialystok/bialystok-rzucil-krzyzem-rozpoznal-go-dzielnicowy-jest-nagranie-st8953547?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 08:44:33 GMT",
+      "description": "• Do jednego z kościołów w Białymstoku wszedł zakapturzony mężczyzna.\n• Mężczyzna gestykulował w kierunku ołtarza.\n• Na nagraniu z monitoringu widać, jak rzuca krzyżem w tabernakulum.\n• Proboszcz zawiadomił policję.\n• Mężczyzna, który wszedł do kościoła, ma 33 lata.\n• 33-latek usłyszał zarzuty obrazy uczuć religijnych.",
+      "originalTitle": "\"Wziął krzyż z ołtarza i rzucił nim\"",
+      "originalDescription": "Do jednego z kościołów w Białymstoku wszedł zakapturzony mężczyzna i gestykulował w kierunku ołtarza. Na nagraniu z monitoringu widać, jak rzuca krzyżem w tabernakulum. Proboszcz zawiadomił policję. 33-latek usłyszał zarzuty obrazy uczuć religijnych."
+    },
+    {
+      "title": "Finansowanie powrotów Polaków z UE",
+      "link": "https://tvn24.pl/biznes/z-kraju/dubaj-i-bliski-wschod-media-powroty-polakow-sfinansowane-za-pieniadze-z-unii-europejskiej-ue-st8953393?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 08:32:37 GMT",
+      "description": "• Rządowa Agencja Rezerw Strategicznych sfinansowała powroty Polaków, którzy utknęli z powodu wojny na Bliskim Wschodzie.\n• Powroty zostały sfinansowane za pieniądze z Unii Europejskiej.\n• Polacy, którzy zostali sfinansowani, utknęli między innymi w Dubaju i Katarze.\n• RARS otrzymała na loty ponad 135 milionów euro.\n• Informacje o tym zostały podane przez \"Rzeczpospolitą\".",
+      "originalTitle": "Media: powroty Polaków sfinansowane za pieniądze z Unii Europejskiej",
+      "originalDescription": "Rządowa Agencja Rezerw Strategicznych sfinansowała za pieniądze z Unii Europejskiej powroty Polaków, którzy utknęli z powodu wojny na Bliskim Wschodzie, między innymi z Dubaju i Kataru - pisze \"Rzeczpospolita\". Dziennik dodaje, że RARS otrzymała na loty ponad 135 milionów euro."
+    },
+    {
+      "title": "Wyniki badań na gruźlicę w szkole",
+      "link": "https://tvn24.pl/szczecin/swinoujscie-przypadek-gruzlicy-w-szkole-sa-wyniki-badan-uczniow-i-nauczycieli-st8952735?source=rss",
+      "pubDate": "Tue, 17 Mar 2026 14:51:53 GMT",
+      "description": "• Nie ma żadnego nowego przypadku gruźlicy w Świnoujściu.\n• Informację tę podaje Powiatowa Stacja Sanitarno‑Epidemiologiczna.\n• Wyniki badań próbek pobranych od uczniów i nauczycieli nie wykazały obecności bakterii.",
+      "originalTitle": "Przypadek gruźlicy w szkole. Są wyniki badań uczniów i nauczycieli",
+      "originalDescription": "Nie ma żadnego nowego przypadku gruźlicy w Świnoujściu. Jak informuje Powiatowa Stacja Sanitarno‑Epidemiologiczna, wyniki badań próbek pobranych od uczniów i nauczycieli nie wykazały obecności bakterii."
+    },
+    {
+      "title": "USA wysyłają drony na Bliski Wschód",
+      "link": "https://tvn24.pl/swiat/mowia-o-nich-lowcy-dronow-amerykanie-wyslali-je-na-bliski-wschod-st8953327?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 08:17:29 GMT",
+      "description": "• Pięć najnowocześniejszych samolotów wczesnego ostrzegania i kontroli E-2D Hawkeye, zwanych łowcami dronów, zostało wysłanych przez marynarkę wojenną USA na Bliski Wschód.\n• Samoloty wyleciały z Bangor w stanie Maine.\n• Samoloty kierują się na wschód.\n• W towarzystwie samolotów E-2D Hawkeye wyleciały dwa tankowce KC-46A.",
+      "originalTitle": "Mówią o nich \"łowcy dronów\". Amerykanie wysłali je na Bliski Wschód",
+      "originalDescription": "Pięć najnowocześniejszych samolotów wczesnego ostrzegania i kontroli E-2D Hawkeye, zwanych łowcami dronów, zostało wysłanych przez marynarkę wojenną USA na Bliski Wschód. W towarzystwie dwóch tankowców KC-46A wyleciały z Bangor w stanie Maine i kierują się na wschód."
+    },
+    {
+      "title": "Polacy wyrzucają leki",
+      "link": "https://tvn24.pl/fakty-artykuly/tony-lekow-wyrzucanych-w-aptekach-to-problem-czasem-sa-calkiem-dobre-st8953281?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 08:16:38 GMT",
+      "description": "• W 2025 roku apteki we Wrocławiu zebrały 44 tony leków wyrzuconych przez pacjentów.\n• W 2025 roku apteki w Warszawie zebrały 155 ton leków wyrzuconych przez pacjentów.\n• Problem wyrzucania leków dotyka całej Polski.\n• W Porąbce rodzina chorego przyniosła leki w foliówce.\n• Leki przyniesione przez rodzinę chorego w Porąbce były warte 240 tysięcy złotych.\n• Leki przyniesione przez rodzinę chorego w Porąbce były wciąż dobre.\n• Leki przyniesione przez rodzinę chorego w Porąbce trafiły do kosza.",
+      "originalTitle": "Polacy wyrzucają tony leków, czasem całkiem dobrych",
+      "originalDescription": "W 2025 roku apteki we Wrocławiu zebrały 44 tony leków wyrzuconych przez pacjentów, a w Warszawie - 155 ton. Problem jest w całej Polsce. W Porąbce rodzina chorego przyniosła w foliówce leki za 240 tysięcy złotych - chociaż wciąż były dobre, to trafiły do kosza."
+    },
+    {
+      "title": "Dwóch osób zabitych, podejrzany zatrzymany",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/siedlce-zakonnik-i-sprzataczka-brutalnie-zamordowani-w-srode-wyrok-w-glosnej-sprawie-st8952320?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 08:06:25 GMT",
+      "description": "Jest oskarżony o zabicie zakonnika, sprzątaczki i usiłowanie pozbawienia życia dwóch innych mężczyzn, w tym współwięźnia. W środę zapadnie wyrok w procesie Rafała J. oskarżonego o serię brutalnych ataków. Biegli psychiatrzy uznali mężczyznę za niepoczytalnego.",
+      "originalTitle": "Zakonnik i sprzątaczka brutalnie zamordowani. Podejrzany o zabójstwa może uniknąć więzienia",
+      "originalDescription": "Jest oskarżony o zabicie zakonnika, sprzątaczki i usiłowanie pozbawienia życia dwóch innych mężczyzn, w tym współwięźnia. W środę zapadnie wyrok w procesie Rafała J. oskarżonego o serię brutalnych ataków. Biegli psychiatrzy uznali mężczyznę za niepoczytalnego."
+    }
+  ]
 }
