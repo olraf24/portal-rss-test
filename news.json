@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-18T13:35:12.222Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-18T14:34:56.798Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Skarbówka licytuje diamenty",
+      "link": "https://tvn24.pl/katowice/urzad-skarbowy-w-wodzislawiu-slaskim-sprzedaje-diamenty-bizuteria-lezala-na-wysypisku-st8954976?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 14:30:15 GMT",
+      "description": "• Biżuteria znaleziona na wysypisku gruzu zostanie sprzedana na licytacji przez urząd skarbowy.\n• Wśród licytowanych przedmiotów jest między innymi pierścionek z brylantem.\n• Pierścionek z brylantem ma wartość około 95 tysięcy złotych.",
+      "originalTitle": "Skarbówka sprzedaje diamenty z gruzowiska",
+      "originalDescription": "Biżuteria znaleziona na wysypisku gruzu zostanie sprzedana na licytacji przez urząd skarbowy. Wśród licytowanych przedmiotów jest między innymi pierścionek z brylantem o wartości około 95 tysięcy złotych."
+    },
+    {
+      "title": "Fałszywe alarmy bombowe w stolicy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-seria-falszywych-alarmow-bombowych-w-stolicy-policja-nie-ma-podstaw-do-niepokoju-st8954347?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 14:28:47 GMT",
+      "description": "Od początku tygodnia anonimowe maile dotyczące podłożenia ładunków wybuchowych wpływają do zarówno do warszawskich instytucji publicznych, jak i do innych tego typu miejsc w całym kraju. Dotyczą głównie szkół, przedszkoli i urzędów oraz pojedynczych placówek ochrony zdrowia. Zarządcy części obiektów decydują się na ich ewakuację. Sprawą zajmuje się stołeczna policja. Dotychczas w żadnym z przypadków nie potwierdzono istnienia zagrożenia.",
+      "originalTitle": "Seria fałszywych alarmów bombowych w stolicy. Policja: nie było żadnego zagrożenia",
+      "originalDescription": "Od początku tygodnia anonimowe maile dotyczące podłożenia ładunków wybuchowych wpływają do zarówno do warszawskich instytucji publicznych, jak i do innych tego typu miejsc w całym kraju. Dotyczą głównie szkół, przedszkoli i urzędów oraz pojedynczych placówek ochrony zdrowia. Zarządcy części obiektów decydują się na ich ewakuację. Sprawą zajmuje się stołeczna policja. Dotychczas w żadnym z przypadków nie potwierdzono istnienia zagrożenia."
+    },
+    {
+      "title": "Order Virtuti Militari na aukcji, IPN bada sprawę",
+      "link": "https://tvn24.pl/polska/instytut-pamieci-narodowej-na-ukrainskim-portalu-wystawiono-na-sprzedaz-order-virtuti-militari-st8953333?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 14:24:08 GMT",
+      "description": "• Instytut Pamięci Narodowej poinformował o pojawieniu się oferty sprzedaży rzekomego Orderu Wojennego Virtuti Militari na jednym z ukraińskich portali internetowych.\n• Oferowany order to falsyfikat, jak wynika z ustaleń IPN.\n• Ustalenia komentował między innymi rzecznik MSZ Maciej Wewiór.\n• Ustalenia komentował również ambasador Polski w Ukrainie.",
+      "originalTitle": "Order Virtuti Militari na portalu aukcyjnym. IPN o \"próbie oszustwa\"",
+      "originalDescription": "Instytut Pamięci Narodowej poinformował, że na jednym z ukraińskich portali internetowych pojawiła się oferta sprzedaży rzekomego Orderu Wojennego Virtuti Militari. Jak jednak wynika z ustaleń IPN, oferowany order to falsyfikat. Ustalenia komentował między innymi rzecznik MSZ Maciej Wewiór i ambasador Polski w Ukrainie."
+    },
+    {
+      "title": "Były minister o polexitu",
+      "link": "https://tvn24.pl/polska/byly-minister-w-rzadzie-pis-konrad-szymanski-o-drodze-do-polexitu-st8954284?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 14:02:47 GMT",
+      "description": "• Minister do spraw Unii Europejskiej w rządzie PiS to Konrad Szymański.\n• Konrad Szymański ocenia w artykule dla \"Rzeczpospolitej\", że \"Polska weszła na drogę do polexitu\".\n• Konrad Szymański podkreśla, że \"liczy się trend\".\n• Konrad Szymański podkreśla, że \"liczy się całkowita bezbronność prawicy wobec antyeuropejskiego resentymentu\".\n• Artykuł, w którym Konrad Szymański wyraził swoją opinię, został opublikowany w \"Rzeczpospolitej\".",
+      "originalTitle": "\"Proces jest już poza kontrolą\". Były minister w rządzie PiS o \"drodze do polexitu\"",
+      "originalDescription": "Minister do spraw Unii Europejskiej w rządzie PiS Konrad Szymański ocenia w artykule dla \"Rzeczpospolitej\", że \"Polska weszła na drogę do polexitu\". Podkreśla, że \"liczy się trend i całkowita bezbronność prawicy wobec antyeuropejskiego resentymentu\"."
+    },
+    {
+      "title": "Orban ogłasza blokadę",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wegry-ukraina-viktor-orban-zapowiada-blokade-pozyczki-sytuacja-jest-prosta-st8954288?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 13:51:50 GMT",
+      "description": "Premier Viktor Orban ogłosił, że będzie blokował pożyczkę dla Ukrainy do czasu przywrócenia transportu ropy z Rosji. Surowiec jest dostarczany rurociągiem Przyjaźń przez Ukrainę. Na wielu stacjach benzynowych na Węgrzech obowiązują ograniczenia w sprzedaży paliwa.",
+      "originalTitle": "Orban zapowiada blokadę. \"Sytuacja jest prosta\"",
+      "originalDescription": "Premier Viktor Orban ogłosił, że będzie blokował pożyczkę dla Ukrainy do czasu przywrócenia transportu ropy z Rosji. Surowiec jest dostarczany rurociągiem Przyjaźń przez Ukrainę. Na wielu stacjach benzynowych na Węgrzech obowiązują ograniczenia w sprzedaży paliwa."
+    },
+    {
+      "title": "Kierowca pomagał pasażerom po wypadku",
+      "link": "https://tvn24.pl/lublin/zwierzyniec-widzac-wypadek-ruszyl-na-pomoc-pasazerom-w-tym-czasie-skradziono-mu-auto-st8954778?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 13:42:14 GMT",
+      "description": "• 35-latek przejeżdżał przez miejscowość Zwierzyniec (Lubelskie)\n• Zauważył auto, które uderzyło w pień po ściętym drzewie\n• Pobiegł pomagać pasażerom\n• 37-latek ze zniszczonego pojazdu wsiadł do jego samochodu\n• 37-latek odjechał samochodem 35-latka\n• Stracił panowanie nad autem kilkanaście kilometrów dalej\n• Wjechał do rowu po stracie panowania nad autem",
+      "originalTitle": "Pomagał pasażerom, gdy kierowca rozbitego pojazdu odjechał jego autem",
+      "originalDescription": "35-latek, przejeżdżając przez miejscowość Zwierzyniec (Lubelskie), zauważył auto, które uderzyło w pień po ściętym drzewie. Pobiegł pomagać pasażerom, a w tym czasie 37-latek ze zniszczonego pojazdu wsiadł do jego samochodu i odjechał. Kilkanaście kilometrów dalej stracił panowanie nad autem i wjechał do rowu."
+    },
+    {
+      "title": "Rzadsze imiona w użyciu",
+      "link": "https://tvn24.pl/polska/jakie-sa-najrzadsze-imiona-w-polsce-st8954035?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 13:36:22 GMT",
+      "description": "• W Polsce można znaleźć dane o liczbie osób o różnych imionach.\n• Dane te są zgromadzone w dostępnych publicznie bazach.\n• Bazy pozwalają sprawdzić, które imiona występują najrzadziej.\n• Można również sprawdzić, które imiona zyskują na popularności.\n• Bazy pozwalają również sprawdzić, które imiona, które niegdyś były całkiem popularne, niemal całkowicie zniknęły.\n• Przykładowe rzadkie imiona to Szawłów, Ozzych, Shakir, Dżesik i Izaur.",
+      "originalTitle": "Jakie są najrzadsze imiona? Te niegdyś popularne niemal całkiem zniknęły",
+      "originalDescription": "Ilu w Polsce jest Szawłów, Ozzych, Shakir, Dżesik i Izaur? Dane zgromadzone w dostępnych publicznie bazach pozwalają nie tylko sprawdzić, które imiona występują najrzadziej, ale i to, które imiona zyskują na popularności, a które - niegdyś całkiem popularne - niemal całkowicie zniknęły."
+    },
+    {
+      "title": "Szkocki parlament odrzuca eutanazję",
+      "link": "https://tvn24.pl/zdrowie/szkocja-odrzuca-ustawe-o-wspomaganym-umieraniu-gdzie-na-swiecie-jest-to-legalne-st8954194?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 13:32:56 GMT",
+      "description": "• Szkoccy parlamentarzyści odrzucili projekt ustawy legalizującej wspomagane umieranie.\n• Głosowanie poprzedziła burzliwa, nocna debata.\n• Gdyby przepisy przeszły, Szkocja jako pierwszy kraj w Zjednoczonym Królestwie zalegalizowałaby wspomagane umieranie.",
+      "originalTitle": "Szkocki parlament mówi \"nie\" eutanazji",
+      "originalDescription": "Szkoccy parlamentarzyści już po raz odrzucili projekt ustawy legalizującej wspomagane umieranie. Głosowanie poprzedziła burzliwa, nocna debata. Gdyby przepisy przeszły, Szkocja jako pierwszy kraj w Zjednoczonym Królestwie zalegalizowałaby taką procedurę. W jakich krajach jest ona legalna?"
+    },
+    {
+      "title": "Ocena szpitali onkologicznych przez pacjentów",
+      "link": "https://tvn24.pl/zdrowie/ranking-zaufania-w-onkologii-118-szpitali-ocenionych-przez-pacjentow-st8954263?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 13:28:20 GMT",
+      "description": "• 118 szpitali brało udział w rankingu.\n• 3373 oceny zostały zebrane od pacjentów onkologicznych.\n• Pacjenci onkologiczni wskazali placówki, które cieszą się największym zaufaniem.\n• Ranking ma charakter niezależny.\n• Celem rankingu jest pomoc w wyborze miejsca leczenia.\n• Eksperci alarmują o możliwości cichego limitowania świadczeń, nawet w najbardziej przyjaznych szpitalach.",
+      "originalTitle": "Pacjenci ocenili szpitale onkologiczne. Które placówki wypadły najlepiej?",
+      "originalDescription": "118 szpitali i 3373 oceny. Pacjenci onkologiczni wskazali placówki, które cieszą się największym zaufaniem. Niezależny ranking ma pomagać w wyborze miejsca leczenia. Jednak nawet najbardziej przyjazny szpital może nie poradzić sobie z cichym limitowaniem świadczeń - alarmują eksperci."
+    },
+    {
+      "title": "Uszkodzenie kościoła przez osuwisko",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-osuwisko-uszkodzilo-zabytkowy-kosciol-st8954401?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 13:26:47 GMT",
+      "description": "• Ulewy wystąpiły we włoskiej Kalabrii.\n• Ulewy doprowadziły do powodzi i osunięć ziemi.\n• W wyniku gwałtownej aury uszkodzony został kościół Cattolica di Stilo.\n• Kościół Cattolica di Stilo jest zabytkiem wpisanym na listę światowego dziedzictwa UNESCO.",
+      "originalTitle": "Osuwisko uszkodziło zabytkowy kościół",
+      "originalDescription": "Ulewy we włoskiej Kalabrii doprowadziły do powodzi i osunięć ziemi. W wyniku gwałtownej aury uszkodzony został kościół Cattolica di Stilo, który jest zabytkiem wpisanym na listę światowego dziedzictwa UNESCO."
+    }
+  ]
 }
