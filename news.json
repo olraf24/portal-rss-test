@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-19T12:48:23.716Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-19T13:33:17.665Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Flota Iranu straciła zdolność zagrożenia",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-pete-hegseth-o-flocie-iranu-st8956418?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 13:25:10 GMT",
+      "description": "• Zatopiono lub zniszczono ponad 120 okrętów Iranu.\n• Okręty podwodne Iranu zniknęły.\n• Szefem Pentagonu jest Pete Hegseth.\n• Cele wojny pozostają takie same, jak w pierwszym dniu.",
+      "originalTitle": "Hegseth: flota Iranu nie stanowi już zagrożenia",
+      "originalDescription": "Zatopiliśmy lub zniszczyliśmy ponad 120 okrętów Iranu, ich okręty podwodne zniknęły - poinformował szef Pentagonu Pete Hegseth. Powiedział też, że cele wojny \"pozostają takie same, jak w pierwszym dniu\"."
+    },
+    {
+      "title": "Trzy osoby oskarżone o gwałty na dzieciach",
+      "link": "https://tvn24.pl/katowice/czestochowa-dwie-kobiety-i-mezczyzna-oskarzeni-o-gwalty-na-malych-dzieciach-st8956682?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 13:21:38 GMT",
+      "description": "Dwie kobiety i mężczyzna zostali oskarżeni o gwałty na dzieciach oraz utrwalanie i posiadanie treści pornograficznych. Jedna z ofiar miała półtora roku, a druga trzy lata. Śledczy mają już gotowy akt oskarżenia w tej sprawie. Podejrzanym grozi dożywocie.",
+      "originalTitle": "Dwie kobiety i mężczyzna oskarżeni o gwałty na dzieciach",
+      "originalDescription": "Dwie kobiety i mężczyzna zostali oskarżeni o gwałty na dzieciach oraz utrwalanie i posiadanie treści pornograficznych. Jedna z ofiar miała półtora roku, a druga trzy lata. Śledczy mają już gotowy akt oskarżenia w tej sprawie. Podejrzanym grozi dożywocie."
+    },
+    {
+      "title": "Motocyklista bez prawa jazdy zatrzymany",
+      "link": "https://tvn24.pl/lublin/chmielnik-kolonia-ruszyli-w-poscig-motocyklista-bez-prawa-jazdy-a-jednoslad-bez-przegladu-od-11-lat-st8956446?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 13:15:30 GMT",
+      "description": "• 39-letni motocyklista nie zatrzymał się w miejscowości Chmielnik-Kolonia (Lubelskie) do kontroli.\n• Policjanci ruszyli w pościg za motocyklistą.\n• Pościg zakończył się, gdy mężczyzna stracił panowanie nad pojazdem i się wywrócił.\n• Motocyklista był trzeźwy.\n• Mężczyzna nie miał prawa jazdy.\n• Motocykl nie miał ważnego przeglądu.",
+      "originalTitle": "Ruszyli w pościg. Motocyklista bez prawa jazdy, a jednoślad bez przeglądu od 11 lat",
+      "originalDescription": "Gdy 39-letni motocyklista nie zatrzymał się w miejscowości Chmielnik-Kolonia (Lubelskie) do kontroli, policjanci ruszyli w pościg. Ten zakończył się, gdy mężczyzna stracił panowanie nad pojazdem i się wywrócił. Był trzeźwy. Nie miał jednak prawa jazdy, a motocykl ważnego przeglądu."
+    },
+    {
+      "title": "Raper wygrał sprawę przeciwko policji",
+      "link": "https://tvn24.pl/kultura-i-styl/usa-afroman-pokazal-w-teledysku-przeszukanie-w-swoim-domu-raper-wygrywa-w-sadzie-z-policja-st8956061?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 13:15:15 GMT",
+      "description": "• Ława przysięgłych sądu w Ohio ogłosiła decyzję w sprawie popularnego rapera Afromana.\n• Decyzja została ogłoszona w środę.\n• Afroman wykorzystał nagranie w swoim teledysku.\n• Nagranie przedstawia przeszukanie w jego domu.\n• Na nagraniu widoczni są funkcjonariusze.\n• Funkcjonariusze, widoczni na nagraniu, postanowili pozwać Afromana.",
+      "originalTitle": "Pokazał w teledysku przeszukanie w swoim domu. Raper wygrywa w sądzie z policją",
+      "originalDescription": "Ława przysięgłych sądu w Ohio ogłosiła w środę decyzję w sprawie popularnego rapera Afromana. W swoim teledysku wykorzystał nagranie, na którym widać przeszukanie w jego domu, a widoczni na nim funkcjonariusze postanowili go pozwać."
+    },
+    {
+      "title": "Pomysł Iranu na cieśninę Ormuz",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-ciesnina-ormuz-nowy-porzadek-byly-doradca-alego-chameneiego-o-pomysle-st8956183?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 13:08:00 GMT",
+      "description": "• Irańskie władze analizują możliwość wprowadzenia opłat dla jednostek przepływających przez cieśninę Ormuz.\n• Informację tę podał deputowany Mohammad Mokber.\n• Deputowany Mohammad Mokber został cytowany przez agencję Mehr.\n• Cieśnina Ormuz pozostaje zablokowana przez Teheran.\n• Blokada cieśniny Ormuz jest reakcją na uderzenia USA i Izraela na Iran.",
+      "originalTitle": "\"Nowy porządek w cieśninie Ormuz\". Oto pomysł Iranu",
+      "originalDescription": "Irańskie władze analizują możliwość wprowadzenia opłat dla jednostek przepływających przez cieśninę Ormuz - poinformował deputowany Mohammad Mokber, cytowany przez agencję Mehr. Kluczowy szlak żeglugowy pozostaje zablokowany przez Teheran w reakcji na uderzenia USA i Izraela na Iran."
+    },
+    {
+      "title": "Dieta a zdrowie mózgu i odchudzanie",
+      "link": "https://tvn24.pl/zdrowie/ta-dieta-odchudza-i-chroni-przed-demencja-jakie-sa-zalecenia-st8956422?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 13:06:34 GMT",
+      "description": "Czy to, co jemy, może spowolnić starzenie się mózgu? Najnowsze badania opublikowane w \"Journal of Neurology, Neurosurgery & Psychiatry\" pokazują jasno: odpowiednia dieta może \"odmłodzić\" nasz umysł nawet o ponad dwa lata. Naukowcy wskazują konkretny model - dietę stworzoną z myślą o ochronie funkcji poznawczych. Jak ją skomponować?",
+      "originalTitle": "Ta dieta odchudza i chroni przed demencją. Jakie są zalecenia?",
+      "originalDescription": "Czy to, co jemy, może spowolnić starzenie się mózgu? Najnowsze badania opublikowane w \"Journal of Neurology, Neurosurgery & Psychiatry\" pokazują jasno: odpowiednia dieta może \"odmłodzić\" nasz umysł nawet o ponad dwa lata. Naukowcy wskazują konkretny model - dietę stworzoną z myślą o ochronie funkcji poznawczych. Jak ją skomponować?"
+    },
+    {
+      "title": "Włosowicz opuszcza klub PiS",
+      "link": "https://tvn24.pl/polska/wiceszef-klubu-pis-stanislaw-karczewski-poinformowal-o-wykluczeniu-z-klubu-senatora-jacka-wlosowicza-st8955895?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 10:04:40 GMT",
+      "description": "• Senator Jacek Włosowicz został wykluczony z klubu PiS.\n• Niedawno krytykował partię na antenie TVN24.\n• Powody wyrzucenia senatora wskazał w rozmowie z reporterem TVN24 Radomirem Witem wiceszef klubu, Stanisław Karczewski.\n• Stanisław Karczewski uważa, że Jacek Włosowicz zachował się w sposób \"agresywny\".\n• Stanisław Karczewski uważa, że krytyka Jacka Włosowicza była \"nieuzasadniona\".",
+      "originalTitle": "Włosowicz wyrzucony z klubu PiS. Oto powody",
+      "originalDescription": "Senator Jacek Włosowicz został wykluczony z klubu PiS. Niedawno krytykował partię na antenie TVN24. Powody wyrzucenia senatora wskazał w rozmowie z reporterem TVN24 Radomirem Witem wiceszef klubu, Stanisław Karczewski. Jego zdaniem Wołosowicz zachował się w sposób \"agresywny\", a krytyka była \"nieuzasadniona\"."
+    },
+    {
+      "title": "Związek bakterii jelitowych z kondycją serca",
+      "link": "https://tvn24.pl/zdrowie/bakterie-jelitowe-a-zdrowie-serca-odkryto-9-substancji-wplywajacych-na-ryzyko-choroby-wiencowej-st8956360?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 12:59:53 GMT",
+      "description": "Dziewięć substancji wytwarzanych przez bakterie jelitowe może wpływać na zdrowie serca - ustalili badacze z Vanderbilt University w USA. To odkrycie może pomóc w profilaktyce choroby wieńcowej i opracowaniu nowych terapii w kardiologii.",
+      "originalTitle": "Bakterie jelitowe mogą decydować o kondycji serca. Zaskakujące odkrycie",
+      "originalDescription": "Dziewięć substancji wytwarzanych przez bakterie jelitowe może wpływać na zdrowie serca - ustalili badacze z Vanderbilt University w USA. To odkrycie może pomóc w profilaktyce choroby wieńcowej i opracowaniu nowych terapii w kardiologii."
+    },
+    {
+      "title": "Pędził 156 km/h, wyprzedzał na podwójnej ciągłej i był pijany. Wiózł 13-letniego brata",
+      "link": "https://tvn24.pl/rzeszow/wola-cieklinska-kierowca-pedzil-156-km-h-wyprzedzal-na-podwojnej-ciaglej-i-byl-pijany-wiozl-13-letniego-brata-st8956270?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 12:54:07 GMT",
+      "description": "Pijany kierowca, rażące przekroczenie prędkości i niebezpieczne manewry. Policjanci z jasielskiej grupy SPEED zatrzymali mężczyznę, który był nietrzeźwy i wiózł 13-letniego brata i trzech pasażerów bez pasów.",
+      "originalTitle": "Pędził 156 km/h, wyprzedzał na podwójnej ciągłej i był pijany. Wiózł 13-letniego brata",
+      "originalDescription": "Pijany kierowca, rażące przekroczenie prędkości i niebezpieczne manewry. Policjanci z jasielskiej grupy SPEED zatrzymali mężczyznę, który był nietrzeźwy i wiózł 13-letniego brata i trzech pasażerów bez pasów."
+    },
+    {
+      "title": "\"Eksplozja cenowa\" czekolady. Polska na czele",
+      "link": "https://tvn24.pl/biznes/z-kraju/czekolada-eksplozja-cenowa-polska-na-czele-st8952794?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 12:37:09 GMT",
+      "description": "Wzrost ceny czekolady w Polsce w 2025 roku był najwyższy w całej Unii Europejskiej. Dobra wiadomość jest taka, że od ponad roku koszt podstawowego składnika - kakao - spada. Zła - że na horyzoncie pojawiają się nowe ryzyka, w tym groźba \"dodatku wojennego\" związanego z konfliktem na Bliskim Wschodzie.",
+      "originalTitle": "\"Eksplozja cenowa\" czekolady. Polska na czele",
+      "originalDescription": "Wzrost ceny czekolady w Polsce w 2025 roku był najwyższy w całej Unii Europejskiej. Dobra wiadomość jest taka, że od ponad roku koszt podstawowego składnika - kakao - spada. Zła - że na horyzoncie pojawiają się nowe ryzyka, w tym groźba \"dodatku wojennego\" związanego z konfliktem na Bliskim Wschodzie."
+    }
+  ]
 }
