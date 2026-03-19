@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-19T03:06:37.520Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-19T04:18:45.320Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na 19.03 - zachmurzenie wieczorem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-19-03-tutaj-pod-koniec-dnia-mocno-sie-zachmurzy-st8955452?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 01:00:00 GMT",
+      "description": "• Dzień to czwartek.\n• Data to 19.03.\n• Dzień przyniesie dużo słońca przez większą część czwartku.\n• Na termometrach zobaczymy do 14 stopni.",
+      "originalTitle": "Pogoda na dziś - czwartek, 19.03. Tutaj pod koniec dnia mocno się zachmurzy",
+      "originalDescription": "Pogoda na dziś, czyli czwartek, 19.03. Dzień przyniesie dużo słońca przez większą część czwartku. Na termometrach zobaczymy do 14 stopni."
+    },
+    {
+      "title": "Iran atakuje kompleks energetyczny",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rozlegle-zniszczenia-iran-zaatakowal-kluczowy-kompleks-energetyczny-st8955493?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 20:51:13 GMT",
+      "description": "• Pożar wybuchł w środę.\n• Pożar był wynikiem irańskiego ataku na instalację gazową.\n• Instalacja gazowa znajduje się w katarskim Ras Laffan.\n• Pożar został już opanowany.\n• O opanowaniu pożaru poinformowało Ministerstwo Obrony Kataru.\n• Ministerstwo Obrony Kataru poinformowało o tym wieczorem.\n• Koncern QatarEnergy przekazał, że uderzenie spowodowało poważne uszkodzenia infrastruktury.\n• Uszkodzenia dotknęły strategiczny kompleks energetyczny w Ras Laffan.",
+      "originalTitle": "\"Rozległe zniszczenia\". Iran zaatakował kluczowy kompleks energetyczny",
+      "originalDescription": "Pożar, który wybuchł w środę w wyniku irańskiego ataku na kluczową instalację gazową w katarskim Ras Laffan, został już opanowany - poinformowało wieczorem Ministerstwo Obrony Kataru. Wcześniej koncern QatarEnergy przekazał, że uderzenie spowodowało poważne uszkodzenia infrastruktury w tym strategicznym kompleksie energetycznym."
+    },
+    {
+      "title": "Senator Włosowicz zawieszony w PiS",
+      "link": "https://tvn24.pl/polska/echa-slow-senatora-pis-jacka-wlosowicza-wyleci-z-partii-nie-ma-szans-zeby-sie-utrzymal-ustalenia-podcastu-politycznego-st8953580?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 09:58:18 GMT",
+      "description": "• Senator Prawa i Sprawiedliwości Jacek Włosowicz najpierw zagłosował za przyjęciem unijnego programu SAFE.\n• Jacek Włosowicz otwarcie skrytykował ugrupowanie za kierunek, który obiera.\n• Władze partii poinformowały o zawieszeniu Jacka Włosowicza w środę wieczorem.\n• Arleta Zalewska i Konrad Piasecki mówili o tym, co działo się w ugrupowaniu.\n• Zawieszenie Jacka Włosowicza nastąpiło po jego skrytycznych wypowiedziach wobec ugrupowania.",
+      "originalTitle": "\"Kaczyński musi ucinać takie głosy na starcie\". Senator Włosowicz zawieszony w PiS",
+      "originalDescription": "Senator Prawa i Sprawiedliwości Jacek Włosowicz najpierw zagłosował za przyjęciem unijnego programu SAFE, a teraz otwarcie skrytykował ugrupowanie za kierunek, który obiera. W środę wieczorem władze partii poinformowały o jego zawieszeniu. Zanim się to stało, Arleta Zalewska i Konrad Piasecki mówili o tym, co działo się w ugrupowaniu."
+    },
+    {
+      "title": "Prognoza IMGW: zimno i mgła",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-przymrozki-i-gesta-mgla-imgw-ostrzega-st8955137?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 15:27:47 GMT",
+      "description": "• W części kraju nocą temperatura spadnie poniżej zera\n• Mgły znacząco ograniczą widzialność\n• Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne",
+      "originalTitle": "Tu będzie zimno i mgliście. IMGW ostrzega",
+      "originalDescription": "Pogoda w Polsce. W części kraju nocą temperatura spadnie poniżej zera, a mgły znacząco ograniczą widzialność. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "PiS zawiesiło senatora Jacka Włosowicza",
+      "link": "https://tvn24.pl/polska/senator-jacek-wlosowicz-zawieszony-w-pis-za-medialne-wypowiedzi-st8955492?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 20:28:48 GMT",
+      "description": "• Kierownictwo PiS podjęło decyzję o zawieszeniu senatora Jacka Włosowicza.\n• Równocześnie z zawieszeniem, wszczęto procedurę usunięcia Jacka Włosowicza z klubu.\n• Powodem tych decyzji były medialne wypowiedzi Jacka Włosowicza.\n• O podjętych decyzjach poinformował rzecznik partii Rafał Bochenek.",
+      "originalTitle": "PiS zawiesiło senatora Jacka Włosowicza za medialne wypowiedzi",
+      "originalDescription": "Kierownictwo PiS podjęło decyzję o zawieszeniu senatora Jacka Włosowicza i równocześnie wszczęto procedurę usunięcia go z klubu za jego medialne wypowiedzi - przekazał rzecznik partii Rafał Bochenek."
+    },
+    {
+      "title": "Jeden promil PKB",
+      "link": "https://tvn24.pl/polska/marek-borowski-do-moniki-olejnik-pani-redaktor-niech-pani-sledzi-moje-usta-jeden-promil-pkb-st8955444?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 20:23:38 GMT",
+      "description": "• Senator KO Marek Borowski porównywał w \"Kropce nad i\" TVN24 oprocentowanie unijnej pożyczki SAFE do innych źródeł finansowania.\n• Jeden promil PKB to obciążenie przez dziesięć lat, jak podkreślił Marek Borowski.\n• Gość Moniki Olejnik uważa, że rząd powinien wziąć pożyczkę mimo weta prezydenta.\n• Następnie rząd powinien zająć się propozycją głowy państwa, zdaniem Marka Borowskiego.",
+      "originalTitle": "\"Pani redaktor, niech pani śledzi moje usta: jeden promil PKB\"",
+      "originalDescription": "Senator KO Marek Borowski porównywał w \"Kropce nad i\" TVN24 oprocentowanie unijnej pożyczki SAFE do innych źródeł finansowania. - Jeden promil PKB. Takie obciążenie przez dziesięć lat - podkreślił. Gość Moniki Olejnik uważa, że rząd powinien ją wziąć mimo weta prezydenta, a następnie zająć się propozycją głowy państwa."
+    },
+    {
+      "title": "Rola prezydenta według profesora Wróbla",
+      "link": "https://tvn24.pl/polska/profesor-wrobel-o-roli-prezydenta-jest-pasywny-on-ma-tylko-tyle-zrobic-ze-przyjmuje-slubowanie-st8955373?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 20:16:44 GMT",
+      "description": "• Prezydent nie bada procedury.\n• Prezydent nie ma kompetencji do badania procedury.\n• Brak zapisu, że prezydent ma badać procedurę powoływania sędziów Trybunału Konstytucyjnego.\n• Profesorem, który wypowiedział się na ten temat, jest Włodzimierz Wróbel.\n• Wypowiedź profesora Włodzimierza Wróbla miała miejsce w programie \"Faktach po Faktach\".\n• Program \"Faktach po Faktach\" jest emitowany w TVN24.\n• Prezydent pełni rolę pasywnego odbiorcy ślubowania sędziów TK.",
+      "originalTitle": "Profesor Wróbel o roli prezydenta: jest pasywny. \"On ma tylko tyle zrobić, że przyjmuje ślubowanie\"",
+      "originalDescription": "Prezydent nie bada procedury, nie ma takiej kompetencji, nigdzie to nie jest zapisane, żeby badał procedurę powoływania sędziów Trybunału Konstytucyjnego - mówił profesor Włodzimierz Wróbel w \"Faktach po Faktach\" w TVN24. Zaznaczył, że prezydent pełni wyłącznie rolę pasywnego odbiorcy ślubowania sędziów TK."
+    },
+    {
+      "title": "Ptak siedzi na drzewie z słoikiem na głowie",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/szop-siedzial-na-drzewie-na-glowie-mial-sloik-po-masle-orzechowym-st8955436?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 20:06:33 GMT",
+      "description": "• Pewien szop pracz znalazł się w nie lada opresji.\n• Zwierzak pochodzi z amerykańskiego stanu Vermont.\n• Zwierzak siedział wysoko na drzewie.\n• Na głowie zwierzaka tkwił słoik.\n• Na miejsce wezwano stra��aków.",
+      "originalTitle": "Szop siedział na drzewie, na głowie miał słoik po maśle orzechowym",
+      "originalDescription": "Pewien szop pracz z amerykańskiego stanu Vermont znalazł się w nie lada opresji. Zwierzak siedział wysoko na drzewie, a na jego głowie tkwił słoik. Na miejsce wezwano strażaków."
+    },
+    {
+      "title": "Stan zdrowia Cristiny po operacji jest stabilny",
+      "link": "https://tvn24.pl/fakty-artykuly/cristina-jeszcze-nie-moze-sie-usmiechnac-przede-wszystkim-uratowalismy-jej-zycie-st8955324?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 19:34:03 GMT",
+      "description": "• Na co dzień żyje w Angoli\n• Radość życia i zdrowie odzyskuje w Polsce\n• Trafiła do szpitala w Olsztynie jako dziewczynka\n• Lekarze uporali się wtedy z wielkim guzem żuchwy\n• Teraz lekarze walczą, by młoda kobieta znowu mogła się uśmiechać",
+      "originalTitle": "Cristina jeszcze nie może się uśmiechnąć. \"Przede wszystkim uratowaliśmy jej życie\"",
+      "originalDescription": "Na co dzień żyje w Angoli, ale radość życia i zdrowie odzyskuje w Polsce. Do szpitala w Olsztynie trafiła jako dziewczynka. Lekarze uporali się wtedy z wielkim guzem żuchwy. Teraz walczą, by młoda kobieta, jaką się stała, znowu mogła się uśmiechać."
+    },
+    {
+      "title": "Gawkowski komentuje decyzję prezydenta",
+      "link": "https://tvn24.pl/polska/safe-krzysztof-gawkowski-o-decyzji-prezydenta-zdrada-interesu-polskiej-armii-i-bezpieczenstwa-st8955420?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 19:29:19 GMT",
+      "description": "• Polski żołnierz otrzymał strzał w plecy tym wetem.\n• Wicepremier, minister cyfryzacji to Krzysztof Gawkowski.\n• Krzysztof Gawkowski wypowiedział się w \"Faktach po Faktach\" w TVN24.\n• Krzysztof Gawkowski komentował decyzję prezydenta w sprawie ustawy o SAFE.\n• Zdaniem Krzysztofa Gawkowskiego Karol Nawrocki \"mentalnie nie dorósł do tego, żeby być zwierzchnikiem Sił Zbrojnych\".\n• Karol Nawrocki jest problemem według Krzysztofa Gawkowskiego.",
+      "originalTitle": "Gawkowski o decyzji prezydenta: zdrada interesu polskiej armii i bezpieczeństwa",
+      "originalDescription": "Polski żołnierz otrzymał strzał w plecy tym wetem - ocenił w \"Faktach po Faktach\" w TVN24 wicepremier, minister cyfryzacji Krzysztof Gawkowski, komentując decyzję prezydenta w sprawie ustawy o SAFE. Jego zdaniem Karol Nawrocki \"mentalnie nie dorósł do tego, żeby być zwierzchnikiem Sił Zbrojnych i to jest problem\"."
+    }
+  ]
 }
