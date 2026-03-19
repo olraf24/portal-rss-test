@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-19T05:06:29.281Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-19T05:49:52.945Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rozpoczęcie remontu linii otwockiej",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/remont-linii-otwockiej-dwa-tygodnie-bez-pociagow-i-co-dalej-plan-kolejarzy-i-miasta-st8955455?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 05:43:00 GMT",
+      "description": "• Pierwszy rok będzie najtrudniejszy.\n• Mieszkańcy Otwocka usłyszeli tę informację w środę na spotkaniu dotyczącym modernizacji linii otwockiej.\n• Ruch pociągów zostanie całkowicie wstrzymany na dwa tygodnie, począwszy od połowy kwietnia.\n• Wstrzymanie ruchu pociągów w połowie kwietnia jest pierwszą fazą prac.\n• Prace modernizacyjne potrwają dwa lata.\n• Prace modernizacyjne zakończą się w 2028 roku.\n• Po zakończeniu prac, czas dojazdu z Otwocka do Warszawy będzie nawet o połowę krótszy.",
+      "originalTitle": "Rusza remont linii otwockiej. \"Pierwszy rok będzie najtrudniejszy\"",
+      "originalDescription": "Pierwszy rok będzie najtrudniejszy - usłyszeli w środę mieszkańcy Otwocka na spotkaniu dotyczącym modernizacji linii otwockiej. Już w połowie kwietnia ruch pociągów zostanie całkowicie wstrzymany na dwa tygodnie, a to dopiero pierwsza faza prac, które potrwają dwa lata. Gdy zakończą się w 2028 roku, czas dojazdu z Otwocka do Warszawy będzie nawet o połowę krótszy."
+    },
+    {
+      "title": "Złodziej ukradł pieniądze i wyrzucił dokumenty",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sobolewo-pieniadze-zabral-portfel-z-dokumentami-wyrzucil-st8955544?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 05:35:07 GMT",
+      "description": "• Przed jednym ze sklepów w Sobolewie (powiat garwoliński) znalazł portfel.\n• Wziął pieniądze z portfela.\n• Resztę zawartości portfela wyrzucił.\n• 52-latkowi grozi do trzech lat więzienia.",
+      "originalTitle": "Pieniądze zabrał, portfel z dokumentami wyrzucił",
+      "originalDescription": "Przed jednym ze sklepów w Sobolewie (powiat garwoliński) znalazł portfel. Wziął pieniądze, resztę wyrzucił. 52-latkowi grozi do trzech lat więzienia."
+    },
+    {
+      "title": "USA rozszerzają listę krajów o nowe państwa",
+      "link": "https://tvn24.pl/biznes/turystyka/usa-15-tysiecy-dolarow-za-wize-nowe-kraje-na-amerykanskiej-liscie-st8955511?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 05:25:40 GMT",
+      "description": "• Stany Zjednoczone ogłosiły nowe przepisy w środę.\n• Obywatele 12 kolejnych państw zostaną zobowiązani do wpłacania kaucji.\n• Kaucja może wynosić do 15 tysięcy dolarów.\n• Kaucja jest wymagana przy ubieganiu się o wizę.\n• Na listę państw, których obywatele muszą wpłacać kaucję, trafiły między innymi Gruzja, Tunezja oraz Mongolia.\n• Celem nowych przepisów jest ograniczenie przypadków przekraczania dozwolonego okresu pobytu w USA.",
+      "originalTitle": "15 tysięcy dolarów za wizę. Nowe kraje na liście USA",
+      "originalDescription": "Stany Zjednoczone ogłosiły w środę, że obywatele 12 kolejnych państw zostaną zobowiązani do wpłacania kaucji w wysokości do 15 tysięcy dolarów przy ubieganiu się o wizę. Na listę trafiły między innymi Gruzja, Tunezja oraz Mongolia. Celem nowych przepisów jest ograniczenie przypadków przekraczania dozwolonego okresu pobytu w USA."
+    },
+    {
+      "title": "Ostrzeżenia IMGW o przymrozki i mgły",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-przymrozki-i-gesta-mgla-imgw-ostrzega-st8955137?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 15:27:47 GMT",
+      "description": "• W części kraju o poranku temperatura wyniesie poniżej zera.\n• Mgły znacząco ograniczą widzialność.\n• Rano Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne.\n• Należy sprawdzić, gdzie należy uważać.",
+      "originalTitle": "Przymrozki i mgły. Ostrzeżenia IMGW nadal w mocy",
+      "originalDescription": "Pogoda w Polsce. W części kraju o poranku temperatura wyniesie poniżej zera, a mgły znacząco ograniczą widzialność. Rano Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "Pożar obiektu energetycznego przy granicy z Polską",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-atak-przy-granicy-z-polska-na-obiekt-energetyczny-doszlo-do-pozaru-st8955537?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 05:14:22 GMT",
+      "description": "• Rosjanie zaatakowali obiekt energetyczny w pobliżu Nowowołyńska na terenie Ukrainy.\n• Atak został potwierdzony przez lokalne władze.\n• Miasto Nowowołyńsk znajduje się zaledwie kilka kilometrów od granicy Polski.\n• Doszło również do zmasowanego ataku na inne ukraińskie miasta.\n• Jednym z miast, które zostało zaatakowane, jest Lwów.\n• Innym miastem, które zostało zaatakowane, jest Odessa.",
+      "originalTitle": "Atak przy granicy z Polską na obiekt energetyczny. Doszło do pożaru",
+      "originalDescription": "Rosjanie zaatakowali obiekt energetyczny w pobliżu Nowowołyńska na terenie Ukrainy - poinformowały lokalne władze. Miasto znajduje się zaledwie kilka kilometrów od granicy Polski. Doszło również do zmasowanego ataku na inne ukraińskie miasta, w tym Lwów i Odessę."
+    },
+    {
+      "title": "USA grożą zniszczeniem złoża South Pars",
+      "link": "https://tvn24.pl/swiat/trump-ostrzega-wtedy-usa-wysadza-cale-zloza-south-pars-st8955536?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 05:02:17 GMT",
+      "description": "• USA rozważają wysłanie tysięcy dodatkowych żołnierzy na Bliski Wschód.\n• Pentagon zwrócił się do Kongresu o ponad 200 miliardów dolarów na prowadzenie wojny z Iranem.\n• Donald Trump zagroził całkowitym zniszczeniem irańskiego złoża South Pars, jeśli Iran będzie nadal przeprowadzał ataki na Katar.\n• Wojna dotyczy USA, Izraela i Iranu.\n• Informacje te dotyczą sytuacji w czwartek 19 marca.",
+      "originalTitle": "Trump ostrzega: wtedy USA wysadzą całe złoża South Pars",
+      "originalDescription": "USA rozważają wysłanie tysięcy dodatkowych żołnierzy na Bliski Wschód - przekazał Reuters. Pentagon zwrócił się do Kongresu o ponad 200 miliardów dolarów na prowadzenie wojny z Iranem. Donald Trump zagroził całkowitym zniszczeniem irańskiego złoża South Pars, jeśli Iran będzie nadal przeprowadzał ataki na Katar. Oto co warto wiedzieć w czwartek 19 marca na temat wojny USA i Izraela z Iranem."
+    },
+    {
+      "title": "Faktura o wartości miliona euro została sfałszowana",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/oszustwo-podmieniona-faktura-na-milion-euro-st8955538?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 05:00:08 GMT",
+      "description": "• Wszystko wyglądało wiarygodnie.\n• Faktura dotyczyła prowadzonej współpracy.\n• Coś zaniepokoiło pracownika.\n• Pracownik zgłosił sprawę policji.\n• Faktura była fałszywa.\n• Faktura dotyczyła kwoty miliona euro.\n• Numer rachunku bankowego do płatności został podmieniony.",
+      "originalTitle": "Podmieniona faktura na milion euro",
+      "originalDescription": "Wszystko wyglądało wiarygodnie. Faktura dotyczyła prowadzonej współpracy, a jednak coś zaniepokoiło pracownika. Zgłosił sprawę policji. Miał rację, faktura na milion euro była fałszywa. Podmieniony został numer rachunku bankowego do płatności."
+    },
+    {
+      "title": "ABW zawiadamia prokuraturę w sprawie sędziów TK",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-19-marca-najwazniejsze-informacje-st8955535?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 04:25:43 GMT",
+      "description": "• Marszałek Sejmu Włodzimierz Czarzasty wysłał do prezydenta Karola Nawrockiego pismo, w sprawie powołania wybranych sędziów do Trybunału Konstytucyjnego.\n• Agencja Bezpieczeństwa Wewnętrznego zawiadomiła prokuraturę o możliwości popełnienia przestępstwa dotyczącego posiedzenia Rady Bezpieczeństwa Narodowego.\n• Na warszawskiej Białołęce doszło do dużego pożaru.\n• Dzień, w którym warto wiedzieć o tych informacjach, to czwartek.\n• Data, w której warto wiedzieć o tych informacjach, to 19 marca.",
+      "originalTitle": "Pisma w sprawie sędziów TK, ABW zawiadamia prokuraturę, pożar w Warszawie",
+      "originalDescription": "Marszałek Sejmu Włodzimierz Czarzasty wysłał do prezydenta Karola Nawrockiego pismo, w sprawie powołania wybranych sędziów do Trybunału Konstytucyjnego. Agencja Bezpieczeństwa Wewnętrznego zawiadomiła prokuraturę o możliwości popełnienia przestępstwa dotyczącego posiedzenia Rady Bezpieczeństwa Narodowego. Na warszawskiej Białołęce doszło do dużego pożaru. Oto pięć rzeczy, które warto wiedzieć w czwartek 19 marca."
+    },
+    {
+      "title": "Pogoda na 19.03: zachmurzenie i temperatury",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-19-03-w-czesci-kraju-bedzie-sie-chmurzyc-a-ile-pokaza-termometry-st8955452?source=rss",
+      "pubDate": "Thu, 19 Mar 2026 01:00:00 GMT",
+      "description": "• Dziś jest czwartek.\n• Data to 19.03.\n• Czeka nas pogodny dzień.\n• Miejscami będzie się mocniej zachmurzać.\n• Na termometrach zobaczymy do 14 stopni.",
+      "originalTitle": "Pogoda na dziś - czwartek, 19.03. W części kraju będzie się chmurzyć. A ile pokażą termometry?",
+      "originalDescription": "Pogoda na dziś, czyli na czwartek, 19.03. Czeka nas pogodny dzień, choć miejscami mocniej się zachmurzy. Na termometrach zobaczymy do 14 stopni."
+    },
+    {
+      "title": "Iran atakuje kompleks energetyczny",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rozlegle-zniszczenia-iran-zaatakowal-kluczowy-kompleks-energetyczny-st8955493?source=rss",
+      "pubDate": "Wed, 18 Mar 2026 20:51:13 GMT",
+      "description": "• Pożar wybuchł w środę.\n• Pożar był wynikiem irańskiego ataku na kluczową instalację gazową.\n• Instalacja gazowa znajduje się w katarskim Ras Laffan.\n• Pożar został już opanowany.\n��� O opanowaniu pożaru poinformowało Ministerstwo Obrony Kataru.\n• Ministerstwo Obrony Kataru poinformowało o opanowaniu pożaru wieczorem.\n• Koncern QatarEnergy przekazał, że uderzenie spowodowało poważne uszkodzenia infrastruktury.\n• Uszkodzenia dotknęły strategiczny kompleks energetyczny w Ras Laffan.",
+      "originalTitle": "\"Rozległe zniszczenia\". Iran zaatakował kluczowy kompleks energetyczny",
+      "originalDescription": "Pożar, który wybuchł w środę w wyniku irańskiego ataku na kluczową instalację gazową w katarskim Ras Laffan, został już opanowany - poinformowało wieczorem Ministerstwo Obrony Kataru. Wcześniej koncern QatarEnergy przekazał, że uderzenie spowodowało poważne uszkodzenia infrastruktury w tym strategicznym kompleksie energetycznym."
+    }
+  ]
 }
