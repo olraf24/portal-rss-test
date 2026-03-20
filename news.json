@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-20T16:16:43.767Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-20T16:47:31.565Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zniszczono tablicę pamiątkową i kamienicę",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-graffiti-na-tablicy-tchorka-farba-oberwala-tez-elewacja-zabytkowej-kamienicy-st8958047?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 16:39:19 GMT",
+      "description": "• Ktoś pomazał czarną farbą elewację zabytkowej kamienicy w centrum.\n• Zniszczeniu uległa pamiątkowa tablica Tchorka.\n• Pamiątkowa tablica Tchorka znajduje się w miejscu, gdzie w trakcie Powstania Warszawskiego Niemcy rozstrzelali 90 osób.",
+      "originalTitle": "Graffiti na pamiątkowej tablicy. Farbą oberwała też zabytkowa kamienica",
+      "originalDescription": "Ktoś pomazał czarną farbą elewację zabytkowej kamienicy w centrum. Zniszczeniu uległa też pamiątkowa tablica Tchorka, znajdująca się w miejscu, gdzie w trakcie Powstania Warszawskiego Niemcy rozstrzelali 90 osób."
+    },
+    {
+      "title": "Skarbówka zmienia plan licytacji diamentów",
+      "link": "https://tvn24.pl/katowice/wodzislaw-slaski-skarbowka-miala-licytowac-diamenty-z-gruzowiska-zaskakujaca-zmiana-planow-st8958964?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 16:17:47 GMT",
+      "description": "• Odwołano licytację diamentów z gruzowiska.\n• Licytację diamentów zamierzał przeprowadzić Urząd Skarbowy.\n• Urząd Skarbowy, który planował licytację, znajduje się w Wodzisławiu Śląskim.\n• Muzeum wysłało prośbę o przekazanie przedmiotów do jego zbiorów.",
+      "originalTitle": "Skarbówka miała licytować diamenty z gruzowiska. Zaskakująca zmiana planów",
+      "originalDescription": "Odwołano licytację diamentów z gruzowiska, które zamierzał sprzedać Urząd Skarbowy w Wodzisławiu Śląskim. Muzeum wysłało prośbę o przekazanie przedmiotów do jego zbiorów."
+    },
+    {
+      "title": "Ulewy i śnieg na wyspie, wioska odcięta",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hiszpania-wyspy-kanaryjskie-ulewy-i-snieg-na-rajskiej-wyspie-wioska-odcieta-od-swiata-st8958876?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 16:15:03 GMT",
+      "description": "Burza Therese przechodzi nad Wyspami Kanaryjskimi. W nocy z czwartku na piątek na Teneryfie i Gran Canarii strażacy interweniowali ponad 300 razy w związku z trudnymi warunkami. Wystąpiły przerwy w dostawie prądu, a kilkaset osób zostało uwięzionych przez podnoszący się poziom wód.",
+      "originalTitle": "Ulewy i śnieg na rajskiej wyspie. Wioska odcięta od świata",
+      "originalDescription": "Burza Therese przechodzi nad Wyspami Kanaryjskimi. W nocy z czwartku na piątek na Teneryfie i Gran Canarii strażacy interweniowali ponad 300 razy w związku z trudnymi warunkami. Wystąpiły przerwy w dostawie prądu, a kilkaset osób zostało uwięzionych przez podnoszący się poziom wód."
+    },
+    {
+      "title": "Oświadczenie premiera Japonii w sprawie relacji z USA",
+      "link": "https://tvn24.pl/swiat/usa-premierka-japonii-skomplementowala-donalda-trumpa-oraz-jego-syna-barrona-st8958192?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 16:07:29 GMT",
+      "description": "• Szefowa japońskiego rządu to Sanae Takaichi.\n• Sanae Takaichi gościła w czwartek w Białym Domu.\n• Głównym tematem rozmów była sytuacja na Bliskim Wschodzie.\n• Głównym tematem rozmów była również współpraca gospodarcza.\n• Premierka Japonii postawiła na \"urok osobisty\" podczas spotkania.\n• Sanae Takaichi komplementowała Donalda Trumpa.\n• Sanae Takaichi komplementowała również syna Donalda Trumpa, Barrona.",
+      "originalTitle": "Premierka Japonii: jak na ciebie patrzę, Donaldzie, jest to dla mnie jasne",
+      "originalDescription": "Szefowa japońskiego rządu, Sanae Takaichi, gościła w czwartek w Białym Domu. Głównym tematem rozmów była sytuacja na Bliskim Wschodzie oraz współpraca gospodarcza. Premierka Japonii - jak odnotowały media - postawiła na \"urok osobisty\" i komplementowała Donalda Trumpa oraz jego syna Barrona."
+    },
+    {
+      "title": "Kariera aktora w epoce VHS",
+      "link": "https://tvn24.pl/swiat/chuck-norris-nie-zyje-legenda-epoki-vhs-ow-pod-koniec-kariery-stal-sie-fenomenem-st8958750?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 16:05:56 GMT",
+      "description": "• Chuck Norris nie żyje, a świat kina wspomina gwiazdę.\n• Redaktor naczelny Filmwebu Łukasz Muszyński wypowiedział się w TVN24 o Chucku Norrisie.\n• Chuck Norris stał się legendą internetu i fenomenem.\n• Krytyk filmowy Łukasz Maciejewski nazwał Chucka Norrisa \"ikoną\".\n• Łukasz Maciejewski podkreślił, że dowcipy o Norrisie \"weszły do elementarza popkultury\".",
+      "originalTitle": "Legenda \"epoki VHS-ów\". Pod koniec kariery stał się kimś więcej",
+      "originalDescription": "Chuck Norris nie żyje, a świat kina wspomina gwiazdę. Jak mówił w TVN24 redaktor naczelny Filmwebu Łukasz Muszyński, Chuck Norris stał się też legendą internetu i fenomenem. Krytyk filmowy Łukasz Maciejewski nazwał Chucka Norrisa \"ikoną\" i podkreślił, że dowcipy o Norrisie \"weszły do elementarza popkultury\"."
+    },
+    {
+      "title": "Wypadek byłej premier Szydło: 9 osób z zarzutami",
+      "link": "https://tvn24.pl/bialystok/bialystok-wypadek-z-udzialem-bylej-premier-beaty-szydlo-juz-dziewiec-osob-z-zarzutami-st8958865?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 16:05:42 GMT",
+      "description": "• Dziewięć osób usłyszało już zarzuty w śledztwie dotyczącym nieprawidłowości w postępowaniach po wypadku.\n• Wypadkowi uległa premier Beata Szydło.\n• Wypadek miał miejsce w Oświęcimiu.\n• Wypadek miał miejsce w 2017 roku.\n• Śledztwo dotyczy nieprawidłowości w postępowaniach po wypadku.\n• Osiem osób, które usłyszały zarzuty, to byli funkcjonariusze Biura Ochrony Rządu.\n• Jedna osoba, która usłyszała zarzuty, to osoba cywilna.",
+      "originalTitle": "Sprawa wypadku byłej premier Beaty Szydło. Już dziewięć osób z zarzutami",
+      "originalDescription": "Dziewięć osób usłyszało już zarzuty w śledztwie dotyczącym nieprawidłowości w postępowaniach po wypadku premier Beaty Szydło w Oświęcimiu w 2017 roku. To ośmiu byłych funkcjonariuszy Biura Ochrony Rządu i jedna osoba cywilna."
+    },
+    {
+      "title": "Niemcy o największym błędzie Trumpa. \"Świat będzie musiał za to zapłacić\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-usa-izrael-der-spiegel-o-najwiekszym-bledzie-donalda-trumpa-swiat-bedzie-musial-za-to-zaplacic-st8958709?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 15:55:35 GMT",
+      "description": "Działania USA i Donalda Trumpa oraz Izraela i Benjamina Netanjahu wobec Iranu prowokują światowy kryzys finansowy - ocenił portal niemieckiego tygodnika \"Der Spiegel\". Dodał, że konsekwencje długotrwałej blokady cieśniny Ormuz wywrą presję na banki centralne.",
+      "originalTitle": "Niemcy o największym błędzie Trumpa. \"Świat będzie musiał za to zapłacić\"",
+      "originalDescription": "Działania USA i Donalda Trumpa oraz Izraela i Benjamina Netanjahu wobec Iranu prowokują światowy kryzys finansowy - ocenił portal niemieckiego tygodnika \"Der Spiegel\". Dodał, że konsekwencje długotrwałej blokady cieśniny Ormuz wywrą presję na banki centralne."
+    },
+    {
+      "title": "18 osób zatrzymanych na warszawskich targowiskach",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/18-osob-zatrzymanych-na-warszawskich-targowiskach-st8958579?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 15:50:54 GMT",
+      "description": "Akcja służb na dwóch warszawskich targowiskach: przy Bakalarskiej i na Bazarze Różyckiego. Zatrzymano 18 osób, w tym 15 cudzoziemców.",
+      "originalTitle": "18 osób zatrzymanych na warszawskich targowiskach",
+      "originalDescription": "Akcja służb na dwóch warszawskich targowiskach: przy Bakalarskiej i na Bazarze Różyckiego. Zatrzymano 18 osób, w tym 15 cudzoziemców."
+    },
+    {
+      "title": "\"Kiedy przechodził przez ulicę, to samochody musiały się rozglądać\"",
+      "link": "https://tvn24.pl/kultura-i-styl/chuck-norris-nie-zyje-kiedy-przechodzil-przez-ulice-to-samochody-musialy-sie-rozgladac-st8958812?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 15:49:26 GMT",
+      "description": "Chuck Norris przekuł swoje umiejętności w sztukach walki w karierę aktorską, co przyniosło mu uwielbienie na całym świecie. Dla milionów widzów był wojownikiem, który nie przybywa z bronią, ale z \"kopnięciami z półobrotu\". \"Był prawdziwym twardzielem\", piszą o nim media.",
+      "originalTitle": "\"Kiedy przechodził przez ulicę, to samochody musiały się rozglądać\"",
+      "originalDescription": "Chuck Norris przekuł swoje umiejętności w sztukach walki w karierę aktorską, co przyniosło mu uwielbienie na całym świecie. Dla milionów widzów był wojownikiem, który nie przybywa z bronią, ale z \"kopnięciami z półobrotu\". \"Był prawdziwym twardzielem\", piszą o nim media."
+    },
+    {
+      "title": "Zarzuty dla lekarki po śmierci 29-latka",
+      "link": "https://tvn24.pl/rzeszow/rzeszow-zarzuty-dla-lekarki-po-smierci-29-latka-st8958832?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 15:45:30 GMT",
+      "description": "Lekarka ze szpitala MSWiA w Rzeszowie usłyszała zarzuty w związku ze śmiercią 29-letniego pacjenta. Mężczyzna zmarł chwilę po opuszczeniu placówki. Śledczy zarzucają lekarce błędy diagnostyczne. Grozi jej do 5 lat więzienia.",
+      "originalTitle": "Zarzuty dla lekarki po śmierci 29-latka",
+      "originalDescription": "Lekarka ze szpitala MSWiA w Rzeszowie usłyszała zarzuty w związku ze śmiercią 29-letniego pacjenta. Mężczyzna zmarł chwilę po opuszczeniu placówki. Śledczy zarzucają lekarce błędy diagnostyczne. Grozi jej do 5 lat więzienia."
+    }
+  ]
 }
