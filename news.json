@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-20T11:42:15.793Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-20T12:15:19.742Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek na jeziorze, trzy ofiary",
+      "link": "https://tvn24.pl/olsztyn/szczytno-smierc-trzech-mlodych-kajakarzy-decyzja-prokuratury-st8958123?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 12:11:44 GMT",
+      "description": "• Umorzono śledztwo w sprawie śmierci trzech młodych kajakarzy na jeziorze Małszewskim.\n• Śledztwo dotyczyło zdarzenia, które miało miejsce w województwie warmińsko-mazurskim.\n• Śledczy nie stwierdzili, by do zgonów przyczyniły się osoby trzecie.\n• Postanowienie o umorzeniu śledztwa jest nieprawomocne.",
+      "originalTitle": "Śmierć trzech młodych kajakarzy na jeziorze. Decyzja prokuratury",
+      "originalDescription": "Umorzono śledztwo w sprawie śmierci trzech młodych kajakarzy na jeziorze Małszewskim (woj. warmińsko-mazurskie). Śledczy nie stwierdzili, by do zgonów przyczyniły się osoby trzecie. Postanowienie jest nieprawomocne."
+    },
+    {
+      "title": "Ginekolog skazany za błąd medyczny",
+      "link": "https://tvn24.pl/bialystok/bialystok-blad-w-sztuce-podczas-porodu-dziecko-jest-trwale-niepelnosprawne-ginekolog-uslyszal-wyrok-st8957562?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 12:10:07 GMT",
+      "description": "• W czasie porodu doszło do błędu w sztuce medycznej.\n• Dziecko jest trwale niepełnosprawne i wymaga stałej opieki.\n• 75-letni lekarz ginekolog został skazany.\n• Kara jest surowsza niż w pierwszej instancji.\n• Skazanie lekarza jest już prawomocne.",
+      "originalTitle": "\"Moje dziecko jest w wysokim stopniu niepełnosprawne\". Ginekolog prawomocnie skazany",
+      "originalDescription": "W czasie porodu doszło do błędu w sztuce medycznej. Dziecko jest trwale niepełnosprawne i wymaga stałej opieki. 75-letni lekarz ginekolog został, już prawomocnie, skazany. Kara jest surowsza niż w pierwszej instancji."
+    },
+    {
+      "title": "Puchar pod ochroną w Senegalu",
+      "link": "https://konkret24.tvn24.pl/rozrywka/senegal-dal-puchar-pod-ochrone-zolnierzy-bo-czyha-na-niego-maroko-jest-afera-jest-historia-st8957560?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 12:04:00 GMT",
+      "description": "• Trener piłkarskiej reprezentacji Senegalu rzekomo schronił się z Pucharem Narodów Afryki w wojskowej bazie.\n• Nagranie, które pokazuje ten incydent, ma już miliony wyświetleń w sieci.\n• Powodem schronienia się trenera z Pucharem Narodów Afryki w wojskowej bazie ma być Maroko, które miałoby czyhać na to trofeum.\n• Incydent ten jest jedną z większych awantur sportowych ostatnich lat.",
+      "originalTitle": "Senegal dał puchar \"pod ochronę żołnierzy\", bo czyha na niego Maroko? Jest afera, jest historia",
+      "originalDescription": "Trener piłkarskiej reprezentacji Senegalu rzekomo schronił się z Pucharem Narodów Afryki w wojskowej bazie - pokazuje nagranie, które ma już miliony wyświetleń w sieci. Powód? Na to trofeum miałoby czyhać Maroko. W tle jedna z większych awantur sportowych ostatnich lat. Ale co to za film?"
+    },
+    {
+      "title": "Dwa pisma w Sejmie dotyczące immunitetu",
+      "link": "https://tvn24.pl/polska/immunitet-lukasza-mejzy-do-sejmu-mialy-wplynac-wnioski-st8958051?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:58:16 GMT",
+      "description": "• Do Sejmu wpłynęły dwa pisma w sprawie zrzeczenia się immunitetu przez Łukasza Mejzę.\n• Pisma mają związek z ubiegłorocznym zatrzymaniem polityka PiS na ekspresówce.\n• Pisma mają związek z wykroczeniami zarejestrowanymi przez fotoradary.",
+      "originalTitle": "Immunitet Mejzy. Do Sejmu \"wpłynęły dwa pisma\"",
+      "originalDescription": "Do Sejmu \"wpłynęły dwa pisma\" w sprawie zrzeczenia się immunitetu przez Łukasza Mejzę. Mają mieć związek z ubiegłorocznym zatrzymaniem polityka PiS na ekspresówce i wykroczeniami zarejestrowanymi przez fotoradary."
+    },
+    {
+      "title": "Atak na personel medyczny w szpitalu",
+      "link": "https://tvn24.pl/rzeszow/rzeszow-pacjent-ranil-nozem-pielegniarke-i-lekarza-st8957500?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:56:46 GMT",
+      "description": "82-letni pacjent jednego z rzeszowskich szpitali ranił nożem pielęgniarkę i lekarza. Mężczyzna przebywa w izolatce, życiu medyków nie zagraża niebezpieczeństwo.",
+      "originalTitle": "Pacjent ranił nożem pielęgniarkę i lekarza",
+      "originalDescription": "82-letni pacjent jednego z rzeszowskich szpitali ranił nożem pielęgniarkę i lekarza. Mężczyzna przebywa w izolatce, życiu medyków nie zagraża niebezpieczeństwo."
+    },
+    {
+      "title": "Decyzja prezydenta w sprawie nominacji oficerskich",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-zdecydowal-w-sprawie-nominacji-oficerskich-st8958149?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:56:14 GMT",
+      "description": "• Prezydent Karol Nawrocki wyraził zgodę na mianowanie na pierwszy stopień oficerski.\n• Zgodę dotyczy 78 żołnierzy i funkcjonariuszy.\n• Żołnierze i funkcjonariusze należą do Służby Kontrwywiadu Wojskowego.\n• Informację o zgodzie podało Biuro Bezpieczeństwa Narodowego.",
+      "originalTitle": "Prezydent zdecydował w sprawie nominacji oficerskich",
+      "originalDescription": "Prezydent Karol Nawrocki wyraził zgodę na mianowanie na pierwszy stopień oficerski 78 żołnierzy i funkcjonariuszy Służby Kontrwywiadu Wojskowego - poinformowało Biuro Bezpieczeństwa Narodowego."
+    },
+    {
+      "title": "Rusza Warszawski Tydzień Zdrowia Psychicznego. Będą darmowe konsultacje i warsztaty",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawski-tydzien-zdrowia-psychicznego-beda-darmowe-konsultacje-i-warsztaty-st8958086?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:56:11 GMT",
+      "description": "Stołeczny ratusz po raz trzeci organizuje Warszawski Tydzień Zdrowia Psychicznego. Mieszkańcy mają możliwość wziąć udział w bezpłatnych spotkaniach poświęconych problemom zdrowia psychicznego dzieci i młodzieży.",
+      "originalTitle": "Rusza Warszawski Tydzień Zdrowia Psychicznego. Będą darmowe konsultacje i warsztaty",
+      "originalDescription": "Stołeczny ratusz po raz trzeci organizuje Warszawski Tydzień Zdrowia Psychicznego. Mieszkańcy mają możliwość wziąć udział w bezpłatnych spotkaniach poświęconych problemom zdrowia psychicznego dzieci i młodzieży."
+    },
+    {
+      "title": "W małych sklepach \"rozmieniali\" fałszywe banknoty 200-złotowe",
+      "link": "https://tvn24.pl/trojmiasto/bytow-placili-w-sklepach-falszywymi-banknotami-wpadli-podczas-rozmieniania-st8957775?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:53:41 GMT",
+      "description": "Dwaj mężczyźni płacili w małych bytowskich sklepach fałszywymi banknotami o nominale 200 złotych. Wpadli podczas kolejnej próby \"rozmieniania\" pieniędzy.",
+      "originalTitle": "W małych sklepach \"rozmieniali\" fałszywe banknoty 200-złotowe",
+      "originalDescription": "Dwaj mężczyźni płacili w małych bytowskich sklepach fałszywymi banknotami o nominale 200 złotych. Wpadli podczas kolejnej próby \"rozmieniania\" pieniędzy."
+    },
+    {
+      "title": "Pacjenci zwracają się do ministerstwa zdrowia",
+      "link": "https://tvn24.pl/zdrowie/pacjenci-apeluja-do-ministry-zdrowia-ciecia-nfz-w-rozliczaniu-nadwykonan-wydluza-kolejki-do-lekarzy-st8957926?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:49:45 GMT",
+      "description": "Planowane przez Narodowy Fundusz Zdrowia cięcia w rozliczaniu nadwykonań mocno uderzą w pacjentów. Głównie w taki sposób, że wydłużą się i tak już długie kolejki do badań i wizyt u specjalistów. To prognoza, jaką zgodnie przedstawiają zarówno ekonomiści, jak i lekarze oraz przedstawiciele organizacji pacjenckich. Ci ostatni apelują do ministry zdrowia, żeby doprowadziła do zmiany tych planów.",
+      "originalTitle": "Pacjenci apelują do ministry zdrowia. \"Obawiamy się\"",
+      "originalDescription": "Planowane przez Narodowy Fundusz Zdrowia cięcia w rozliczaniu nadwykonań mocno uderzą w pacjentów. Głównie w taki sposób, że wydłużą się i tak już długie kolejki do badań i wizyt u specjalistów. To prognoza, jaką zgodnie przedstawiają zarówno ekonomiści, jak i lekarze oraz przedstawiciele organizacji pacjenckich. Ci ostatni apelują do ministry zdrowia, żeby doprowadziła do zmiany tych planów."
+    },
+    {
+      "title": "Zastrzelił kota z wiatrówki",
+      "link": "https://tvn24.pl/lodz/leczyca-strzelal-do-kota-z-wiatrowki-zwierze-nie-przezylo-47-latek-z-zarzutami-st8958067?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 11:45:54 GMT",
+      "description": "Strzelał z wiatrówki do kota. Ciężko rannego zwierzęcia nie udało się uratować. 47-latek usłyszał zarzuty znęcania się ze szczególnym okrucieństwem, grozi mu do pięciu lat więzienia.",
+      "originalTitle": "Zastrzelił kota z wiatrówki",
+      "originalDescription": "Strzelał z wiatrówki do kota. Ciężko rannego zwierzęcia nie udało się uratować. 47-latek usłyszał zarzuty znęcania się ze szczególnym okrucieństwem, grozi mu do pięciu lat więzienia."
+    }
+  ]
 }
