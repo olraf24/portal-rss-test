@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-20T10:45:55.157Z",
+  "lastUpdate": "2026-03-20T11:12:46.702Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Ekspert: badając tętno można zapobiec groźnemu udarowi mózgu",
+      "link": "https://dzienniknaukowy.pl/ekspert-badajac-tetno-mozna-zapobiec-groznemu-udarowi-mozgu",
+      "pubDate": "Fri, 20 Mar 2026 10:56:05 +0000",
+      "description": "Regularne badanie tętna zwiększa szansę na wczesne wykrycie migotania przedsionków i zapobiegnięcie udarowi niedokrwiennemu mózgu – przekonują eksperci. Udar jest wyjątkowo groźnym powikłaniem tej najczęściej występującej arytmii"
+    },
     {
       "title": "Sonda Vigil do obserwacji Słońca będzie wyposażona w polskie wysięgniki",
       "link": "https://dzienniknaukowy.pl/sonda-vigil-do-obserwacji-slonca-bedzie-wyposazona-w-polskie-wysiegniki",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/obrobka-zdjec-w-dokumentacji-technicznej-jak-laczyc-obrazy-bez-specjalistycznego-oprogramowania",
       "pubDate": "Tue, 17 Mar 2026 09:34:00 +0000",
       "description": "W świecie nowoczesnych projektów DIY, recenzji sprzętu oraz profesjonalnych instrukcji serwisowych, komunikacja wizualna odgrywa rolę nadrzędną wobec tekstu. Tworząc dokumentację techniczną, autorzy nieustannie mierzą się z wyzwaniem przekazania złożonych, wielowymiarowych idei w sposób maksymalnie skondensowany i czytelny. Często wymaga to wyjścia poza ramy pojedynczej fotografii i stworzenia kompozycji, która zestawia ze sobą kilka perspektyw tego samego urządzenia, porównuje stan podzespołów przed i po modernizacji lub nakłada schemat ideowy bezpośrednio na zdjęcie rzeczywistej płytki drukowanej. Takie podejście nie tylko optymalizuje przestrzeń w dokumencie, ale przede wszystkim buduje natychmiastowy kontekst analityczny, pozwalając odbiorcy na zrozumienie relacji między poszczególnymi elementami układu bez konieczności wertowania stron."
-    },
-    {
-      "title": "Jak szkoły mogą skutecznie wspierać uczniów w edukacji cyfrowej?",
-      "link": "https://dzienniknaukowy.pl/jak-szkoly-moga-skutecznie-wspierac-uczniow-w-edukacji-cyfrowej",
-      "pubDate": "Mon, 16 Mar 2026 13:27:27 +0000",
-      "description": "Wprowadzenie nowoczesnych technologii do szkół to dopiero pierwszy krok na drodze do prawdziwej cyfrowej transformacji. Zakup interaktywnych monitorów, tabletów czy gogli VR nie gwarantuje jeszcze sukcesu edukacyjnego. Aby cyfrowa edukacja przynosiła realne korzyści, szkoły muszą zbudować kompleksowy system wsparcia, który stawia ucznia w centrum, a technologię traktuje jedynie jako narzędzie do osiągania celów"
     }
   ]
 }
