@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-20T19:43:38.050Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-20T20:10:09.587Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dwa zabiegi w warszawskim szpitalu",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-lekarze-w-chinach-operowani-pacjenci-w-warszawskim-szpitalu-dwa-przelomowe-zabiegi-st8959036?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 19:38:44 GMT",
+      "description": "• Pacjenci byli w Warszawie\n• Lekarze byli w Chinach\n• Chirurdzy pochodzili z Państwowego Instytutu Medycznego MSWiA\n• Przeprowadzono pierwsze w historii operacje z wykorzystaniem robotów na dużą odległość\n• Operacje były przeprowadzane na tak dużą odległość\n• Dwa zabiegi zostały wykonane\n• Jednym z zabiegów była prostatektomia\n• Drugim zabiegiem była operacja kardiochirurgiczna",
+      "originalTitle": "Lekarze w Chinach, operowani pacjenci w warszawskim szpitalu. Dwa przełomowe zabiegi",
+      "originalDescription": "Pacjenci byli w Warszawie a lekarze w Chinach. Chirurdzy z Państwowego Instytutu Medycznego MSWiA przeprowadzili pierwsze w historii operacje z wykorzystaniem robotów, na tak dużą odległość. Dwa zabiegi objęły prostatektomię i operację kardiochirurgiczną."
+    },
+    {
+      "title": "Fala ciepła w kraju, temperatura ponad 40 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kopula-ciepla-nad-usa-upaly-ponad-40-stopni-na-koniec-zimy-mogl-pasc-rekord-dla-marca-st8959238?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 19:27:40 GMT",
+      "description": "Fala upałów trwa w części Stanach Zjednoczonych. W czwartek na jednej ze stacji zmierzono 43,3 stopnia Celsjusza - tak wysokiej wartości jeszcze nigdy nie zaobserwowano w marcu w tym kraju. Naukowcy alarmują, że tak wczesne fale upałów stanowią poważne zagrożenie i są związane ze zmianami klimatu.",
+      "originalTitle": "\"Kopuła ciepła\" nad krajem. Ponad 40 stopni na koniec zimy",
+      "originalDescription": "Fala upałów trwa w części Stanach Zjednoczonych. W czwartek na jednej ze stacji zmierzono 43,3 stopnia Celsjusza - tak wysokiej wartości jeszcze nigdy nie zaobserwowano w marcu w tym kraju. Naukowcy alarmują, że tak wczesne fale upałów stanowią poważne zagrożenie i są związane ze zmianami klimatu."
+    },
+    {
+      "title": "Tusk komentuje wypowiedź prezydenta",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-relacjach-z-karolem-nawrockim-nie-mam-o-to-pretensji-bo-prezydent-nigdy-tego-nie-ukrywal-st8959271?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 19:23:54 GMT",
+      "description": "• Premierem, który mówił w programie \"#BezKitu\" w TVN24, jest Donald Tusk.\n• Program, w którym wystąpił Donald Tusk, to \"#BezKitu\" w TVN24.\n• Tematem rozmowy Donalda Tuska były jego relacje z prezydentem Karolem Nawrockim.\n• Donald Tusk spodziewał się, że relacje z prezydentem Karolem Nawrockim \"będą pod górkę\".\n• Prezydentura Karola Nawrockiego jest \"nacechowana dużo większą skalą politycznej agresji i konfrontacji z rządem\" niż poprzednie.\n• Donald Tusk porównywał prezydenturę Karola Nawrockiego do poprzednich.",
+      "originalTitle": "Tusk: nie mam o to pretensji, bo prezydent nigdy tego nie ukrywał",
+      "originalDescription": "Premier Donald Tusk mówił w programie \"#BezKitu\" w TVN24 o swoich relacjach z prezydentem Karolem Nawrockim. Przyznał, że od razu spodziewał się, że \"będzie pod górkę\". Jak mówił, prezydentura Nawrockiego jest \"nacechowana dużo większą skalą politycznej agresji i konfrontacji z rządem\" niż poprzednie."
+    },
+    {
+      "title": "Status małżeństwa w Polsce",
+      "link": "https://tvn24.pl/polska/katarzyna-kotula-wyrok-nsa-w-sprawie-malzenstw-osob-tej-samej-plci-to-krok-milowy-st8959224?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 19:15:22 GMT",
+      "description": "• Jeśli ktoś rozpoczął za granicą życie rodzinne, zdecydował się na małżeństwo, to należy uznać to małżeństwo w Polsce.\n• Uznać to małżeństwo znaczy transkrybować zagraniczny akt małżeństwa.\n��� Pełnomocniczka rządu do spraw równości Katarzyna Kotula mówiła o konieczności transkrypcji zagranicznego aktu małżeństwa.\n• Rozporządzenie, które pozwoli na transkrypcję aktów par jednopłciowych, jest w przygotowaniu.\n• Europoseł PSL Krzysztof Herman zwrócił uwagę, że to nie rozwiązuje wszystkich problemów.",
+      "originalTitle": "\"Należy uznać to małżeństwo w Polsce\"",
+      "originalDescription": "Jeśli ktoś rozpoczął za granicą życie rodzinne, zdecydował się na małżeństwo, to należy uznać to małżeństwo w Polsce. Co to znaczy uznać? To znaczy transkrybować zagraniczny akt małżeństwa - mówiła pełnomocniczka rządu do spraw równości Katarzyna Kotula. Zapewniła, że rozporządzenie, które pozwoli na transkrypcję aktów par jednopłciowych, jest w przygotowaniu. Europoseł PSL Krzysztof Herman zwrócił uwagę, że to nie rozwiązuje wszystkich problemów."
+    },
+    {
+      "title": "USA wprowadzają sankcje wobec osób wspierających Hezbollahu",
+      "link": "https://tvn24.pl/swiat/usa-nakladaja-sankcje-za-wspieranie-hezbollahu-na-liscie-polak-st8959228?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:59:55 GMT",
+      "description": "• Obywatel Polski i jego zarejestrowana w Warszawie firma zostali objęci amerykańskimi sankcjami.\n• Sankcje zostały nałożone w związku z finansowym wspieraniem proirańskiego Hezbollahu.\n• Informacja o sankcjach wynika z komunikatu Departamentu Skarbu USA.\n• Zarzucono obywatelowi Polski udział w praniu brudnych pieniędzy na rzecz proirańskiej grupy.",
+      "originalTitle": "USA nakładają sankcje za wspieranie Hezbollahu. Na liście Polak",
+      "originalDescription": "Obywatel Polski i jego zarejestrowana w Warszawie firma zostali objęci amerykańskimi sankcjami w związku z finansowym wspieraniem proirańskiego Hezbollahu - wynika z komunikatu Departamentu Skarbu USA. Zarzucono mu udział w praniu brudnych pieniędzy na rzecz proirańskiej grupy."
+    },
+    {
+      "title": "Wypadek małego samolotu podczas startu",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-samolot-zjechal-z-pasa-startowego-uderzyl-przodem-w-ziemie-st8959252?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:55:38 GMT",
+      "description": "• Do groźnego incydentu z udziałem małego samolotu pasażerskiego doszło na Lotnisku Babice w Warszawie.\n• Maszyna tuż po lądowaniu zjechała z pasa startowego.\n• Samolot uderzył przodem w trawiaste podłoże.",
+      "originalTitle": "Mały samolot zjechał z pasa startowego, zarył przodem w ziemię",
+      "originalDescription": "Do groźnego incydentu z udziałem małego samolotu pasażerskiego doszło na Lotnisku Babice w Warszawie. Maszyna tuż po lądowaniu zjechała z pasa startowego i uderzyła przodem w trawiaste podłoże."
+    },
+    {
+      "title": "Trump skomentował NATO",
+      "link": "https://tvn24.pl/swiat/donald-trump-o-nato-tchorze-zapamietamy-to-st8959139?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:13:19 GMT",
+      "description": "• Prezydent USA to Donald Trump\n• Donald Trump skrytykował państwa NATO w obraźliwych słowach\n• Państwa NATO nie chcą pomóc w otwarciu cieśniny Ormuz według Donalda Trumpa\n• Donald Trump uważa, że otwarcie cieśniny Ormuz wiązałoby się z małym ryzykiem",
+      "originalTitle": "Trump o NATO. \"Tchórze, zapamiętamy to\"",
+      "originalDescription": "Prezydent USA Donald Trump w obraźliwych słowach skrytykował państwa NATO, które jego zdaniem \"nie chcą pomóc w otwarciu cieśniny Ormuz\". Uważa, że taka akcja wiązałaby się z małym ryzykiem."
+    },
+    {
+      "title": "Mężczyzna zatrzymany przez policję",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-nekal-mieszkancow-osiedla-zostal-zatrzymany-st8959111?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:06:51 GMT",
+      "description": "• Policja zatrzymała mężczyznę, który od lat nękał i prześladował mieszkańców wrocławskich Popowic.\n• Mężczyzna ma 45 lat.\n• Mężczyzna usłyszał prokuratorskie zarzuty w piątek.",
+      "originalTitle": "Nękał mieszkańców osiedla, został zatrzymany",
+      "originalDescription": "Policja zatrzymała mężczyznę, który od lat nękał i prześladował mieszkańców wrocławskich Popowic. 45-latek usłyszał w piątek prokuratorskie zarzuty."
+    },
+    {
+      "title": "Weekendowe utrudnienia w Warszawie. Będą objazdy. Na ulicach bieg i marsz",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-utrudnienia-w-ruchu-polmaraton-warszawski-i-marsz-przeciwko-agresji-usa-i-izraela-st8957818?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:05:39 GMT",
+      "description": "W jubileuszowej 20. edycji Półmaratonu Warszawskiego, który odbędzie się w niedzielę, weźmie udział 25 tysięcy osób. Ponadto osiem tysięcy wystartuje w towarzyszącym biegu na 5 km. W sobotę zaś ulicami stolicy przejdzie antywojenny marsz solidarności z Iranem, Libanem i Palestyną. Kierowców czekają utrudnienia w ruchu.",
+      "originalTitle": "Weekendowe utrudnienia w Warszawie. Będą objazdy. Na ulicach bieg i marsz",
+      "originalDescription": "W jubileuszowej 20. edycji Półmaratonu Warszawskiego, który odbędzie się w niedzielę, weźmie udział 25 tysięcy osób. Ponadto osiem tysięcy wystartuje w towarzyszącym biegu na 5 km. W sobotę zaś ulicami stolicy przejdzie antywojenny marsz solidarności z Iranem, Libanem i Palestyną. Kierowców czekają utrudnienia w ruchu."
+    },
+    {
+      "title": "Pogoda na jutro - sobota 21.03. Nocą miejscami możliwy deszcz ze śniegiem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-21-03-noca-miejscami-mozliwy-deszcz-ze-sniegiem-st8959196?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:01:00 GMT",
+      "description": "Pogoda na jutro, czyli na 21.03. W nocy w wielu regionach przydadzą się parasole, miejscami możliwy jest deszcz ze śniegiem. Sobota zapowiada się dość chłodno.",
+      "originalTitle": "Pogoda na jutro - sobota 21.03. Nocą miejscami możliwy deszcz ze śniegiem",
+      "originalDescription": "Pogoda na jutro, czyli na 21.03. W nocy w wielu regionach przydadzą się parasole, miejscami możliwy jest deszcz ze śniegiem. Sobota zapowiada się dość chłodno."
+    }
+  ]
 }
