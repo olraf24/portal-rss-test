@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-21T08:45:11.338Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-21T09:11:07.334Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zatrzymano dwie osoby, znaleziono 90 kg substancji",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/szeromin-90-kilogramow-substancji-na-posesji-dwie-osoby-zatrzymane-st8959532?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 09:06:12 GMT",
+      "description": "• Policjanci z Komendy Stołecznej Policji zlikwidowali linię produkcyjną do wytwarzania środków odurzających.\n• Linię produkcyjną znaleziono koło Nowego Dworu Mazowieckiego.\n• Na miejscu znaleziono gotowe ju�� do sprzedaży narkotyki.\n• Zatrzymano dwóch mężczyzn.",
+      "originalTitle": "90 kilogramów substancji na posesji, dwie osoby zatrzymane",
+      "originalDescription": "Policjanci z Komendy Stołecznej Policji zlikwidowali linię produkcyjną do wytwarzania środków odurzających znajdującą się koło Nowego Dworu Mazowieckiego. Na miejscu znaleźli gotowe już do sprzedaży narkotyki i zatrzymali dwóch mężczyzn."
+    },
+    {
+      "title": "Była tłumaczka Putina obserwatorką OBWE na Węgrzech",
+      "link": "https://tvn24.pl/swiat/wegierskie-media-objeta-polskimi-sankcjami-daria-bojarska-byla-tlumaczka-wladimira-putina-obserwatorka-obwe-na-wegrzech-st8959418?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 08:53:57 GMT",
+      "description": "Portal VSquare ustalił, że OBWE wysyła na misję obserwacji wyborów na Węgrzech Darię Bojarską. Dziennikarz śledczy Szabolcs Panyi przypomina, że kobieta jest byłą tłumaczką Władimira Putina i ma zakaz wjazdu do Polski.",
+      "originalTitle": "Była tłumaczka Putina z zakazem wjazdu do Polski obserwatorką OBWE na Węgrzech",
+      "originalDescription": "Portal VSquare ustalił, że OBWE wysyła na misję obserwacji wyborów na Węgrzech Darię Bojarską. Dziennikarz śledczy Szabolcs Panyi przypomina, że kobieta jest byłą tłumaczką Władimira Putina i ma zakaz wjazdu do Polski."
+    },
+    {
+      "title": "Monika miała być sprzedana przez ojca w wieku 1,5 roku, urodziła się 33 lata temu",
+      "link": "https://tvn24.pl/wroclaw/zaginiecie-moniki-bielawskiej-nie-widzieli-jej-od-lat-teraz-konczylaby-33-lata-st8945168?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 08:38:56 GMT",
+      "description": "Miała niecałe półtora roku, kiedy zaginęła. Za porwanie i sprzedaż córki sąd skazał jej ojca. Jeśli Monika żyje, właśnie kończyłaby 33 lata. - Jej ojciec, Robert B., dostał maksymalny wyrok kary - 15 lat więzienia. Trudno to jednak nazwać sukcesem. Nie wiemy, co się stało z Moniką. Ja myślę, że B. nigdy nie powiedział prawdy - mówi TVN24+ Zbigniew Prokop, emerytowany policjant, który prowadził sprawę zaginięcia.",
+      "originalTitle": "Nie miała nawet półtora roku, gdy została sprzedana przez ojca. Teraz Monika skończyłaby 33 lata",
+      "originalDescription": "Miała niecałe półtora roku, kiedy zaginęła. Za porwanie i sprzedaż córki sąd skazał jej ojca. Jeśli Monika żyje, właśnie kończyłaby 33 lata. - Jej ojciec, Robert B., dostał maksymalny wyrok kary - 15 lat więzienia. Trudno to jednak nazwać sukcesem. Nie wiemy, co się stało z Moniką. Ja myślę, że B. nigdy nie powiedział prawdy - mówi TVN24+ Zbigniew Prokop, emerytowany policjant, który prowadził sprawę zaginięcia."
+    },
+    {
+      "title": "Niedziela handlowa w marcu",
+      "link": "https://tvn24.pl/biznes/handel/kiedy-niedziela-handlowa-w-marcu-kalendarz-otwartych-sklepow-st8959524?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 08:23:07 GMT",
+      "description": "W tym roku będziemy mieli aż osiem niedziel handlowych. Jedna z nich wypada w marcu. Przypominamy, jak planować weekendowe zakupy w najbliższych tygodniach.",
+      "originalTitle": "Kiedy wypada niedziela handlowa w marcu? Będzie można zrobić zakupy przed Wielkanocą",
+      "originalDescription": "W tym roku będziemy mieli aż osiem niedziel handlowych. Jedna z nich wypada w marcu. Przypominamy, jak planować weekendowe zakupy w najbliższych tygodniach."
+    },
+    {
+      "title": "Deszcze na Hawajach powodują powodzie i ewakuację",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hawaje-rwace-potoki-wody-porywaly-auta-zarzadzono-ewakuacje-st8959483?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 08:21:10 GMT",
+      "description": "Obfite opady deszczu nawiedzają od wielu dni hawajską wyspę O'ahu. Władze zarządziły ewakuację ponad 5,5 tysiąca osób, ponieważ 120-letnia tama, położona w pobliżu Honolulu, może się przerwać.",
+      "originalTitle": "Hawaje. Rwące potoki wody porywały auta. Zarządzono ewakuację",
+      "originalDescription": "Obfite opady deszczu nawiedzają od wielu dni hawajską wyspę O'ahu. Władze zarządziły ewakuację ponad 5,5 tysiąca osób, ponieważ 120-letnia tama, położona w pobliżu Honolulu, może się przerwać."
+    },
+    {
+      "title": "Siemoniak skierował wniosek do Nawrockiego",
+      "link": "https://tvn24.pl/polska/nominacje-oficerskie-dla-funkcjonariuszy-abw-tomasz-siemoniak-zwrocil-sie-do-karola-nawrockiego-st8959518?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 07:52:06 GMT",
+      "description": "• Minister koordynator służb specjalnych to Tomasz Siemoniak\n• Tomasz Siemoniak zwrócił się do prezydenta\n• Prezydentem jest Karol Nawrocki\n• Przedmiotem wniosku jest odblokowanie nominacji oficerskich\n• Nominacje oficerskie dotyczą Agencji Bezpieczeństwa Wewnętrznego (ABW)",
+      "originalTitle": "Siemoniak zwrócił się do Nawrockiego. \"Traci Polska i jej bezpieczeństwo\"",
+      "originalDescription": "Minister koordynator służb specjalnych Tomasz Siemoniak zwrócił się do prezydenta Karola Nawrockiego, aby ten odblokował nominacje oficerskie w ABW."
+    },
+    {
+      "title": "Co z porodówką w Lesku? Premier odpowiada",
+      "link": "https://tvn24.pl/polska/porodowka-w-lesku-nie-zostala-zamknieta-premier-donald-tusk-odpowiada-st8959467?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 07:20:39 GMT",
+      "description": "Premier Donald Tusk, pytany w programie #BezKitu o porodówkę w podkarpackim Lesku, mówił, że nie jest ona zamknięta. - Musimy brać pod uwagę logistykę, demografię, ilość potencjalnych pacjentów na placówkę - tłumaczył szef rządu. Na uwagę prowadzącego, który powiedział, że lokalne media podają, że oddział został zamknięty, Tusk odparł, że \"ostatnimi decyzjami byłyby takie, które naraziłyby przyszłe matki na jakiekolwiek ryzyko\".",
+      "originalTitle": "Co z porodówką w Lesku? Premier odpowiada",
+      "originalDescription": "Premier Donald Tusk, pytany w programie #BezKitu o porodówkę w podkarpackim Lesku, mówił, że nie jest ona zamknięta. - Musimy brać pod uwagę logistykę, demografię, ilość potencjalnych pacjentów na placówkę - tłumaczył szef rządu. Na uwagę prowadzącego, który powiedział, że lokalne media podają, że oddział został zamknięty, Tusk odparł, że \"ostatnimi decyzjami byłyby takie, które naraziłyby przyszłe matki na jakiekolwiek ryzyko\"."
+    },
+    {
+      "title": "\"Do psychiatry, chłopie!\". Wysyłają przeciwników do lekarza, dokąd nas prowadzą?",
+      "link": "https://tvn24.pl/polska/dokad-prowadza-nas-politycy-ktorzy-wysylaja-swoich-przeciwnikow-do-psychiatry-st8958247?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 06:50:01 GMT",
+      "description": "Nazwanie przeciwnika politycznego \"wariatem\" lub \"świrem\" przynosi autorowi tych słów określone korzyści. To może być chwilowe uzyskanie przewagi w dyskusji, przerwanie trudnego dialogu albo natychmiastowy poklask stronników. W Sejmie posłowie biją brawo, na ulicy tłum wznosi przyjazne okrzyki wsparcia. W mózgu uaktywnia się układ nagrody.",
+      "originalTitle": "\"Do psychiatry, chłopie!\". Wysyłają przeciwników do lekarza, dokąd nas prowadzą?",
+      "originalDescription": "Nazwanie przeciwnika politycznego \"wariatem\" lub \"świrem\" przynosi autorowi tych słów określone korzyści. To może być chwilowe uzyskanie przewagi w dyskusji, przerwanie trudnego dialogu albo natychmiastowy poklask stronników. W Sejmie posłowie biją brawo, na ulicy tłum wznosi przyjazne okrzyki wsparcia. W mózgu uaktywnia się układ nagrody."
+    },
+    {
+      "title": "Trump o \"łatwej operacji\", kolejne ataki Izraela, nieudany ostrzał bazy Diego Garcia",
+      "link": "https://tvn24.pl/swiat/konflikt-na-bliskim-wschodzie-szesc-rzeczy-ktore-warto-wiedziec-w-sobote-21-marca-st8959434?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 06:45:27 GMT",
+      "description": "Donald Trump ocenił, że cieśnina Ormuz, w razie potrzeby, będzie musiała być strzeżona i kontrolowana przez inne kraje. Izrael przeprowadził kolejne ataki w Teheranie i Bejrucie. Media w USA przekazały, że Iran przeprowadził nieudany atak na bazę Diego Garcia na Oceanie Indyjskim. Przedstawiamy najważniejsze wydarzenia ostatnich godzin skupione wokół wojny na Bliskim Wschodzie.",
+      "originalTitle": "Trump o \"łatwej operacji\", kolejne ataki Izraela, nieudany ostrzał bazy Diego Garcia",
+      "originalDescription": "Donald Trump ocenił, że cieśnina Ormuz, w razie potrzeby, będzie musiała być strzeżona i kontrolowana przez inne kraje. Izrael przeprowadził kolejne ataki w Teheranie i Bejrucie. Media w USA przekazały, że Iran przeprowadził nieudany atak na bazę Diego Garcia na Oceanie Indyjskim. Przedstawiamy najważniejsze wydarzenia ostatnich godzin skupione wokół wojny na Bliskim Wschodzie."
+    },
+    {
+      "title": "Filmowa reputacja go wyprzedzała. \"Nie starzeję się, wchodzę na wyższy poziom\"",
+      "link": "https://tvn24.pl/swiat/chuck-norris-nie-zyje-aktor-zmarl-w-wieku-86-lat-st8959426?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 06:21:54 GMT",
+      "description": "Słynny aktor i mistrz sztuk walki Chuck Norris zmarł w wieku 86 lat. Bił się z Brucem Lee, walczył w filmach akcji, a w polskich domach gościł co tydzień jako \"Strażnik Teksasu\". To było jeszcze w ubiegłym wieku. Później przeżył drugą młodość, dając ludziom wiele powodów do uśmiechu. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Filmowa reputacja go wyprzedzała. \"Nie starzeję się, wchodzę na wyższy poziom\"",
+      "originalDescription": "Słynny aktor i mistrz sztuk walki Chuck Norris zmarł w wieku 86 lat. Bił się z Brucem Lee, walczył w filmach akcji, a w polskich domach gościł co tydzień jako \"Strażnik Teksasu\". To było jeszcze w ubiegłym wieku. Później przeżył drugą młodość, dając ludziom wiele powodów do uśmiechu. Materiał magazynu \"Polska i Świat\"."
+    }
+  ]
 }
