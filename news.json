@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-22T01:36:15.146Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-22T03:06:57.574Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś: wiatr",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-22-03-miejscami-we-znaki-da-sie-silniejszy-wiatr-st8960469?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 01:00:00 GMT",
+      "description": "• Niedziela, 22.03 przyniesie w większości Polski pogodną aurę.\n• W większości Polski będą dwucyfrowe wartości na termometrach.\n• W części kraju odczuwalną temperaturę obniżą dość silne podmuchy.",
+      "originalTitle": "Pogoda na dziś - niedziela, 22.03. Miejscami we znaki da się silniejszy wiatr",
+      "originalDescription": "Pogoda na dziś. Niedziela, 22.03 przyniesie w większości Polski pogodną aurę i dwucyfrowe wartości na termometrach. W części kraju odczuwalną temperaturę obniżą dość silne podmuchy."
+    },
+    {
+      "title": "Ostrzeżenia IMGW przed przymrozkami",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/przymrozki-ostrzezenia-imgw-w-15-wojewodztwach-prognoza-zagrozen-st8958253?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 13:09:53 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami.\n• Przymrozki pojawią się w sobotę wieczorem.\n• Przymrozki pojawią się w niedzielę rano.\n• Przymrozki wystąpią w większości kraju.\n��� Niska temperatura przy gruncie może wystąpić także w kolejnych dniach.",
+      "originalTitle": "Przymrozki. Ostrzeżenia IMGW w prawie całej Polsce",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami, które w sobotę wieczorem i niedzielę rano pojawią się w większości kraju. Niska temperatura przy gruncie może wystąpić także w kolejnych dniach."
+    },
+    {
+      "title": "Atak na Izrael w pobliżu reaktora Dimona",
+      "link": "https://tvn24.pl/swiat/iran-uderzyl-w-dimone-w-izraelu-to-miejsce-kojarzone-z-izraelskim-programem-zbrojen-jadrowych-st8960442?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 20:13:05 GMT",
+      "description": "Około 20 osób zostało rannych w irańskim ataku rakietowym na miasto Dimona w Izraelu. Niedaleko Dimony znajduje się Centrum Badań Jądrowych im. Szymona Peresa, które jest ważnym miejscem dla izraelskiego programu broni atomowej.",
+      "originalTitle": "Iran zaatakował Izrael. Kilkanaście kilometrów od \"Reaktora Dimona\"",
+      "originalDescription": "Około 20 osób zostało rannych w irańskim ataku rakietowym na miasto Dimona w Izraelu. Niedaleko Dimony znajduje się Centrum Badań Jądrowych im. Szymona Peresa, które jest ważnym miejscem dla izraelskiego programu broni atomowej."
+    },
+    {
+      "title": "Ptaki budują gniazda z niedopałków",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/buduja-gniazda-z-niedopalkow-dzieki-temu-ich-piskleta-sa-zdrowsze-st8960426?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 20:10:22 GMT",
+      "description": "Polscy naukowcy odkryli, że modraszki wykorzystują niedopałki do budowy swoich gniazd. Wyjaśniają, z czego wynika to zachowanie i dlaczego wpływa pozytywnie na zdrowie piskląt. Jednocześnie zauważają potrzebę dalszych badań tego nietypowego zjawiska.",
+      "originalTitle": "Budują gniazda z niedopałków. Dzięki temu ich pisklęta są zdrowsze",
+      "originalDescription": "Polscy naukowcy odkryli, że modraszki wykorzystują niedopałki do budowy swoich gniazd. Wyjaśniają, z czego wynika to zachowanie i dlaczego wpływa pozytywnie na zdrowie piskląt. Jednocześnie zauważają potrzebę dalszych badań tego nietypowego zjawiska."
+    },
+    {
+      "title": "Prezydent rozszerza swoje uprawnienia",
+      "link": "https://tvn24.pl/polska/trybunal-konstytucyjny-marcin-matczak-rezydent-znowu-uzurpuje-sobie-prawa-i-kompetencje-ktorych-nie-ma-st8960387?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 19:15:45 GMT",
+      "description": "• My nie powinniśmy mówić o ślubowaniu, tylko pytać prezydenta: panie prezydencie, na jakiej podstawie pan odmawia? \n• To zdanie wypowiedział profesor Marcin Matczak.\n• Wypowiedź profesora Marcin Matczaka mia��a miejsce w programie \"Faktach po Faktach\".\n• Profesor Marcin Matczak odniósł się do sporu o zaprzysiężenie nowo wybranych sędziów Trybunału Konstytucyjnego.\n• Prezydentem, który nie odebrał ślubowania nowo wybranych sędziów, jest Karol Nawrocki.\n• Prezydent Karol Nawrocki nadal nie odebrał ślubowania nowo wybranych sędziów Trybunału Konstytucyjnego.",
+      "originalTitle": "\"Prezydent znowu uzurpuje sobie prawa i kompetencje, których nie ma\"",
+      "originalDescription": "My nie powinniśmy mówić o ślubowaniu, tylko pytać prezydenta: panie prezydencie, na jakiej podstawie pan odmawia? - powiedział w \"Faktach po Faktach\" profesor Marcin Matczak. Odniósł się do sporu o zaprzysiężenie nowo wybranych sędziów Trybunału Konstytucyjnego. Prezydent Karol Nawrocki nadal nie odebrał ich ślubowania."
+    },
+    {
+      "title": "Spotkanie Nawrockiego z Orbanem",
+      "link": "https://tvn24.pl/swiat/karol-nawrocki-uda-sie-na-wegry-i-spotka-z-viktorem-orbanem-donald-tusk-to-fatalny-blad-st8960410?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 19:09:36 GMT",
+      "description": "• Prezydent Karol Nawrocki spotka się w poniedziałek w Polsce z prezydentem Węgier.\n• Prezydent Karol Nawrocki uda się do Budapesztu.\n• W Budapeszcie prezydenta Karola Nawrockiego podejmie szef węgierskiego rz��du Viktor Orban.\n• Premier Donald Tusk krytykuje to posunięcie.\n• Szef MSZ Radosław Sikorski krytykuje to posunięcie.\n• Premier Donald Tusk i szef MSZ Radosław Sikorski zwracają uwagę na inne wydarzenie, które tego dnia będzie się odbywało w Budapeszcie.",
+      "originalTitle": "Nawrocki jedzie do Orbana. Tusk: fatalny błąd",
+      "originalDescription": "Prezydent Karol Nawrocki w poniedziałek spotka się w Polsce z prezydentem Węgier, a potem uda się do Budapesztu, gdzie podejmie go szef węgierskiego rządu Viktor Orban. Premier Donald Tusk i szef MSZ Radosław Sikorski krytykują to posunięcie i zwracają uwagę na inne wydarzenie, które tego dnia będzie się odbywało w Budapeszcie."
+    },
+    {
+      "title": "Pogoda na 22.03: zamglenia nocą",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-22-03-tutaj-noca-moga-wystapic-silne-zamglenia-st8960379?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 18:52:59 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli niedzieli.\n• Data tego dnia to 22.03.\n• Nocą temperatura spadnie poniżej zera w wielu rejonach.\n• W części kraju mogą pojawić się silne zamglenia.\n• Niedziela przyniesie ładną aurę.\n• Temperatura w niedzielę będzie dwucyfrowa.\n• Miejscami we znaki da się silniejszy wiatr.",
+      "originalTitle": "Pogoda na jutro - niedziela, 22.03. Tutaj nocą mogą wystąpić silne zamglenia",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę, 22.03. Nocą w wielu rejonach temperatura spadnie poniżej zera. W części kraju mogą pojawić się silne zamglenia. Niedziela przyniesie ładną aurę z dwucyfrową temperaturą, choć miejscami we znaki da się silniejszy wiatr."
+    },
+    {
+      "title": "Zmarł były szef FBI Robert Mueller",
+      "link": "https://tvn24.pl/swiat/byly-szef-fbi-robert-mueller-nie-zyje-trump-dobrze-st8960378?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 18:36:47 GMT",
+      "description": "• Robert Mueller był byłem szefem FBI.\n• Robert Mueller badał rosyjską ingerencję w wybory prezydenckie w USA w 2016 roku.\n• Robert Mueller zmarł w wieku 81 lat.\n• Donald Trump wyraził radość z powodu śmierci Roberta Muellera.\n• Donald Trump napisał o śmierci Roberta Muellera w serwisie Truth Social.\n• W swoim wpisie Donald Trump stwierdził, że \"To dobrze, cieszę się, że nie żyje\".",
+      "originalTitle": "Były szef FBI Robert Mueller nie żyje. Trump: dobrze",
+      "originalDescription": "Robert Mueller, były szef FBI, który badał rosyjską ingerencję w wybory prezydenckie w USA w 2016 roku, zmarł w wieku 81 lat. Donald Trump wyraził z tego powodu radość. \"To dobrze, cieszę się, że nie żyje\" - napisał Trump serwisie Truth Social."
+    },
+    {
+      "title": "Dwie ofiary lawiny na stoku",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-alpy-lawina-zeszla-stokiem-dwie-osoby-nie-zyja-st8960367?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 17:36:15 GMT",
+      "description": "• W Górnej Adydze na północy Włoch wystąpiła lawina.\n• Lawina zeszła stokiem, na którym znajdowało się 25 narciarzy.\n• Dwie osoby zginęły w wyniku lawiny.\n• Pięć osób zostało rannych w wyniku lawiny.",
+      "originalTitle": "Lawina zeszła stokiem. Dwie osoby nie żyją",
+      "originalDescription": "W Górnej Adydze na północy Włoch wystąpiła lawina. Zeszła stokiem, na którym znajdowało się 25 narciarzy. Dwie osoby zginęły, a pięć zostało rannych."
+    },
+    {
+      "title": "Trump wyraża poparcie dla Orbana",
+      "link": "https://tvn24.pl/swiat/wegry-donald-trump-poparl-viktora-orbana-przed-wyborami-st8960308?source=rss",
+      "pubDate": "Sat, 21 Mar 2026 17:02:59 GMT",
+      "description": "• Jest silnym przywódcą, który pokazał światu, co jest możliwe, gdy broni się swoich granic, swojej kultury, swojego dziedzictwa, swojej suwerenności i swoich wartości - mówił o Viktorze Orbanie prezydent USA Donald Trump.\n• Prezydent USA Donald Trump wypowiedział te słowa na nagraniu wyświetlonym podczas sobotniej konferencji konserwatystów w Budapeszcie.\n• Amerykański przywódca udzielił Orbanowi poparcia przed kwietniowymi wyborami na Węgrzech.\n• Konferencja konserwatystów, na której wyświetlono nagranie z wypowiedzią Donalda Trumpa, odbyła się w sobotę.\n• Konferencja konserwatystów, na której wyświetlono nagranie z wypowiedzią Donalda Trumpa, odbyła się w Budapeszcie.\n• Wybory na Węgrzech, przed którymi Donald Trump udzielił poparcia Viktorowi Orbanowi, odbędą się w kwietniu.",
+      "originalTitle": "\"Pełne i całkowite poparcie\" Trumpa dla Orbana",
+      "originalDescription": "Jest silnym przywódcą, który pokazał światu, co jest możliwe, gdy broni się swoich granic, swojej kultury, swojego dziedzictwa, swojej suwerenności i swoich wartości - mówił o Viktorze Orbanie prezydent USA Donald Trump na nagraniu wyświetlonym podczas sobotniej konferencji konserwatystów w Budapeszcie. Amerykański przywódca udzielił Orbanowi poparcia przed kwietniowymi wyborami na Węgrzech."
+    }
+  ]
 }
