@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-22T13:20:04.030Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-22T13:46:55.163Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dieta Justyny oparta na algorytmie",
+      "link": "https://konkret24.tvn24.pl/zdrowie/justyna-od-diety-zlota-recepta-z-algorytmu-ale-zlotowki-twoje-st8960687?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 13:21:36 GMT",
+      "description": "• Sprawia wrażenie profesjonalistki\n• Doradza w sieci, jak zdrowo jeść i chudnąć\n• Oferuje indywidualne plany żywieniowe\n• Porady Justyny są oceniane przez prawdziwe ekspertki",
+      "originalTitle": "Justyna \"od diety\". Złota recepta z algorytmu, ale złotówki twoje",
+      "originalDescription": "Sprawia wrażenie profesjonalistki, w sieci doradza, jak zdrowo jeść i chudnąć. Oferuje indywidualne plany żywieniowe. Jednak zanim kupisz od niej \"złotą receptę\", przeczytaj, jak porady Justyny oceniają prawdziwe ekspertki."
+    },
+    {
+      "title": "Ostrzeżenia przed mrozem w kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-przymrozki-ostrzezenia-imgw-we-wszystkich-wojewodztwach-st8958253?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 05:19:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami.\n• Przymrozki mają wystąpić niemal w całym kraju.\n• Temperatura spadnie poniżej zera w niektórych miejscach.",
+      "originalTitle": "Mróz ściśnie niemal wszędzie. Ostrzeżenia IMGW",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami, które mają wystąpić niemal w całym kraju. Sprawdź, gdzie temperatura spadnie poniżej zera."
+    },
+    {
+      "title": "Publikacja listu Episkopatu",
+      "link": "https://tvn24.pl/poznan/list-episkopatu-burzliwe-komentarze-z-antysemityzmem-w-tle-st8960976?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 12:56:50 GMT",
+      "description": "• Episkopat opublikował list w związku z 40. rocznicą wizyty Jana Pawła II w rzymskiej synagodze.\n• List jest czytany w kościołach.\n• Biskupi przypominają, że śmierć i zmartwychwstanie Chrystusa są znakami sprzeciwu wobec duchowej śmierci.\n• Duchowa śmierć ma przejawem antysemityzm.\n• Nie wszystkim duchownym list się podoba.",
+      "originalTitle": "Emocje po publikacji listu Episkopatu",
+      "originalDescription": "Episkopat w związku z 40. rocznicą wizyty Jana Pawła II w rzymskiej synagodze opublikował list, który jest czytany w kościołach. Biskupi przypominają, że śmierć i zmartwychwstanie Chrystusa są znakami sprzeciwu wobec duchowej śmierci, której przejawem jest antysemityzm. Nie wszystkim duchownym list się podoba."
+    },
+    {
+      "title": "Zjawisko niezwykłego grzmotu nad Teksasem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-uslyszeli-grzmot-a-niebo-bylo-bezchmurne-co-sie-stalo-nad-teksasem-st8960757?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 12:50:08 GMT",
+      "description": "• Meteor pojawił się na niebie w rejonie miasta Houston.\n• Meteor pojawił się w Teksasie.\n• Z relacji lokalnej straży pożarnej wynika, że fragment kosmicznej skały miał spaść na jeden z domów.\n• Informację o zdarzeniu przekazały amerykańskie media.",
+      "originalTitle": "Usłyszeli grzmot, a niebo było bezchmurne. Co się stało nad Teksasem",
+      "originalDescription": "Meteor pojawił się na niebie w rejonie miasta Houston w Teksasie. Z relacji lokalnej straży pożarnej wynika, że fragment kosmicznej skały miał spaść na jeden z domów - przekazały amerykańskie media."
+    },
+    {
+      "title": "Polska rozważa wysłanie wojska na Bliski Wschód",
+      "link": "https://tvn24.pl/polska/polska-powinna-wyslac-wojsko-na-bliski-wschod-jednoznaczne-stanowisko-st8960873?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 12:32:50 GMT",
+      "description": "• Prezydencki minister Karol Rabenda powiedział w programie \"Kawa na ławę\" w TVN24, że nie ma wniosku, więc nie ma tej dyskusji, pytany o to, czy Polska powinna wysłać wojsko na Bliski Wschód.\n• Wiceminister edukacji Katarzyna Lubnauer podkreśliła, że \"to nie nasza wojna\".\n• Stanowisko rządu w tej sprawie jest jednoznaczne, według wypowiedzi Katarzyny Lubnauer.\n• Poseł Konfederacji Przemysław Wipler stwierdził, że \"żaden polski żołnierz nie powinien pojechać na Bliski Wschód\".",
+      "originalTitle": "Polska powinna wysłać wojsko na Bliski Wschód? \"Jednoznaczne stanowisko\"",
+      "originalDescription": "Nie ma wniosku, więc nie ma tej dyskusji - powiedział w programie \"Kawa na ławę\" w TVN24 prezydencki minister Karol Rabenda pytany, czy Polska powinna wysłać wojsko na Bliski Wschód. Wiceministra edukacji Katarzyna Lubnauer podkreśliła, że \"to nie nasza wojna\" i stanowisko rządu jest jednoznaczne. - Żaden polski żołnierz nie powinien pojechać na Bliski Wschód - mówił poseł Konfederacji Przemysław Wipler."
+    },
+    {
+      "title": "Wyniki Półmaratonu Warszawskiego",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-polmaraton-najlepsi-zawodnicy-na-mecie-st8957818?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:05:39 GMT",
+      "description": "W jubileuszowej 20. edycji Półmaratonu Warszawskiego bierze udział 25 tysięcy osób. Trasa biegu przechodzi przez pięć dzielnic: Śródmieście, Żoliborz, Bielany, Pragę Północ i Pragę Południe. Najlepsi zawodnicy dotarli do mety po godzinie biegu.",
+      "originalTitle": "Najlepsi zawodnicy Półmaratonu Warszawskiego na mecie",
+      "originalDescription": "W jubileuszowej 20. edycji Półmaratonu Warszawskiego bierze udział 25 tysięcy osób. Trasa biegu przechodzi przez pięć dzielnic: Śródmieście, Żoliborz, Bielany, Pragę Północ i Pragę Południe. Najlepsi zawodnicy dotarli do mety po godzinie biegu."
+    },
+    {
+      "title": "Telefony węgierskiego ministra do Moskwy. Tusk: od dawna mamy podejrzenia",
+      "link": "https://tvn24.pl/swiat/telefony-wegierskiego-ministra-do-moskwy-tusk-od-dawna-mamy-podejrzenia-st8960960?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 12:20:49 GMT",
+      "description": "Wiadomość, że ludzie Orbana informują Moskwę o posiedzeniach Rady UE ze szczegółami, nie powinna nikogo dziwić - napisał w niedzielę premier Donald Tusk, odnosząc się do medialnych doniesień o kontaktach szefa węgierskiej dyplomacji Petera Szijjarto z Kremlem. Głos zabrał też wicepremier, minister spraw zagranicznych Radosław Sikorski, który wielokrotnie wdawał się w polemikę z węgierskim politykiem.",
+      "originalTitle": "Telefony węgierskiego ministra do Moskwy. Tusk: od dawna mamy podejrzenia",
+      "originalDescription": "Wiadomość, że ludzie Orbana informują Moskwę o posiedzeniach Rady UE ze szczegółami, nie powinna nikogo dziwić - napisał w niedzielę premier Donald Tusk, odnosząc się do medialnych doniesień o kontaktach szefa węgierskiej dyplomacji Petera Szijjarto z Kremlem. Głos zabrał też wicepremier, minister spraw zagranicznych Radosław Sikorski, który wielokrotnie wdawał się w polemikę z węgierskim politykiem."
+    },
+    {
+      "title": "Z Szanghaju do Płocka. Transport gigantycznej stalowej kolumny",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/z-szanghaju-do-plocka-transport-gigantycznej-stalowej-kolumny-st8960784?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:54:42 GMT",
+      "description": "W nocy z soboty na niedzielę przeprowadzono transport pierwszej z dwóch gigantycznych kolumn dla realizowanej w zakładzie głównym Orlenu w Płocku inwestycji petrochemicznej. Obiekt był przewożony z nabrzeża Wisły do zakładu.",
+      "originalTitle": "Z Szanghaju do Płocka. Transport gigantycznej stalowej kolumny",
+      "originalDescription": "W nocy z soboty na niedzielę przeprowadzono transport pierwszej z dwóch gigantycznych kolumn dla realizowanej w zakładzie głównym Orlenu w Płocku inwestycji petrochemicznej. Obiekt był przewożony z nabrzeża Wisły do zakładu."
+    },
+    {
+      "title": "Zełenski: dochody Rosji z ropy zapewniają jej bezkarność",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wolodymyr-zelenski-dochody-rosji-z-ropy-naftowej-zapewniaja-jej-bezkarnosc-st8960927?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:40:12 GMT",
+      "description": "Prezydent Ukrainy Wołodymyr Zełenski ponownie zaapelował o utrzymanie presji na Moskwę. Jego komentarz pojawia się niedługo po decyzji USA o częściowym zniesieniu sankcji na rosyjską ropę. Zmniejszanie presji na Rosję jest spowodowane kryzysem na rynku paliwowym, wywołanym blokadą cieśniny Ormuz.",
+      "originalTitle": "Zełenski: dochody Rosji z ropy zapewniają jej bezkarność",
+      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski ponownie zaapelował o utrzymanie presji na Moskwę. Jego komentarz pojawia się niedługo po decyzji USA o częściowym zniesieniu sankcji na rosyjską ropę. Zmniejszanie presji na Rosję jest spowodowane kryzysem na rynku paliwowym, wywołanym blokadą cieśniny Ormuz."
+    },
+    {
+      "title": "Zderzenie z koparką, jedna osoba w szpitalu",
+      "link": "https://tvn24.pl/rzeszow/wypadek-w-miejscowosci-blonie-jedna-osoba-trafila-do-szpitala-st8960768?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:32:16 GMT",
+      "description": "Jedna osoba została ranna w wyniku zderzenia samochodu osobowego z koparką w miejscowości Błonie na Podkarpaciu.",
+      "originalTitle": "Zderzenie z koparką, jedna osoba w szpitalu",
+      "originalDescription": "Jedna osoba została ranna w wyniku zderzenia samochodu osobowego z koparką w miejscowości Błonie na Podkarpaciu."
+    }
+  ]
 }
