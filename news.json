@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-22T11:07:36.267Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-22T11:39:09.354Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek z udziałem koparki, osoba w szpitalu",
+      "link": "https://tvn24.pl/rzeszow/wypadek-w-miejscowosci-blonie-jedna-osoba-trafila-do-szpitala-st8960768?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:32:16 GMT",
+      "description": "• Jedna osoba została ranna w wyniku zderzenia samochodu osobowego z koparką.\n• Zderzenie miało miejsce w miejscowości Błonie.\n• Miejscowość Błonie znajduje się na Podkarpaciu.",
+      "originalTitle": "Zderzenie z koparką, jedna osoba w szpitalu",
+      "originalDescription": "Jedna osoba została ranna w wyniku zderzenia samochodu osobowego z koparką w miejscowości Błonie na Podkarpaciu."
+    },
+    {
+      "title": "Ranking bezpieczeństwa: Ukraina wyprzedza Włochy",
+      "link": "https://konkret24.tvn24.pl/swiat/mapa-najbezpieczniejszych-krajow-skad-ukraina-przed-wlochami-st8956855?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:22:38 GMT",
+      "description": "• Pozycja Polski na rozpowszechnianej w sieci mapie \"najbezpieczniejszych krajów w Europie\" wzbudza dyskusje internautów.\n• Mapa jest rozpowszechniana w sieci.\n• Mapa przedstawia \"najbezpieczniejsze kraje w Europie\".\n• Internauci dyskutują na temat pozycji Polski na mapie.",
+      "originalTitle": "Mapa \"najbezpieczniejszych krajów\"? Skąd Ukraina przed Włochami",
+      "originalDescription": "Pozycja Polski na rozpowszechnianej w sieci mapie \"najbezpieczniejszych krajów w Europie\" wzbudza dyskusje internautów. A co tak naprawdę pokazuje ta mapa?"
+    },
+    {
+      "title": "Zimowe warunki w Polsce",
+      "link": "https://tvn24.pl/tvnmeteo/polska/swiatowy-dzien-wody-22-marca-susza-w-polsce-tak-dobrej-i-snieznej-zimy-dawno-nie-mielismy-st8960682?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:19:12 GMT",
+      "description": "• Zima w tym sezonie obfitowała w opady śniegu.\n• W wielu regionach kraju pokrywa śnieżna utrzymywała się przez kilka miesięcy.\n• Profesorem, który opowiadał na antenie TVN24, jest Artur Magnuszewski.\n• Artur Magnuszewski stwierdził, że są miejsca w kraju, w których sytuacja hydrologiczna się poprawiła.",
+      "originalTitle": "\"Tak dobrej i śnieżnej zimy dawno nie mieliśmy\". Ten rejon Polski na tym skorzystał",
+      "originalDescription": "Zima w tym sezonie obfitowała w opady śniegu. W wielu regionach kraju pokrywa śnieżna utrzymywała się przez kilka miesięcy. Jak opowiadał na antenie TVN24 profesor Artur Magnuszewski, są miejsca w kraju, w których sytuacja hydrologiczna się poprawiła."
+    },
+    {
+      "title": "Wypadek drogowy z ofiarą śmiertelną",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-smiertelne-potracenie-pieszy-zginal-na-pasach-st8960744?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 11:13:58 GMT",
+      "description": "• Tragiczny wypadek miał miejsce w centrum Gdańska.\n• Ofiarą wypadku był pieszy.\n• Pieszy zginął potrącony na pasach.\n• Okoliczności śmiertelnego wypadku wyjaśnia prokurator.",
+      "originalTitle": "Śmiertelne potrącenie pieszego na pasach",
+      "originalDescription": "Tragiczny wypadek w centrum Gdańska. Pieszy zginął potrącony na pasach. Okoliczności śmiertelnego wypadku wyjaśnia prokurator"
+    },
+    {
+      "title": "Biegacze na stołecznych ulicach",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/stoleczne-ulice-opanowali-biegacze-zawodnicy-polmaratonu-juz-na-trasie-st8957818?source=rss",
+      "pubDate": "Fri, 20 Mar 2026 18:05:39 GMT",
+      "description": "• W jubileuszowej 20. edycji Półmaratonu Warszawskiego bierze udział 25 tysięcy osób.\n• Trasa biegu przechodzi przez pięć dzielnic.\n• Dzielnicami, przez które przechodzi trasa biegu, są: Śródmieście, Żoliborz, Bielany, Praga Północ i Praga Południe.",
+      "originalTitle": "Stołeczne ulice opanowali biegacze. Zawodnicy półmaratonu już na trasie",
+      "originalDescription": "W jubileuszowej 20. edycji Półmaratonu Warszawskiego bierze udział 25 tysięcy osób. Trasa biegu przechodzi przez pięć dzielnic: Śródmieście, Żoliborz, Bielany, Pragę Północ i Pragę Południe."
+    },
+    {
+      "title": "Osoba zagroziła krzywdą, podjęto negocjacje",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-grozil-ze-zrobi-krzywde-sobie-lub-innym-podjeto-negocjacje-st8960735?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 10:56:35 GMT",
+      "description": "• Dwóch mężczyzn zabarykadowało się w mieszkaniu przy ulicy Serockiej.\n• W mieszkaniu przebywała babcia jednego z nich.\n• Jeden z mężczyzn trafił na obserwację psychiatryczną.\n• Drugiego mężczyznę zatrzymała policja.\n• Pierwszą informację o zdarzeniu otrzymaliśmy na Kontakt24.\n• Zdjęcia z miejsca zdarzenia również zostały otrzymane na Kontakt24.",
+      "originalTitle": "Groził, że zrobi krzywdę sobie lub innym. Podjęto negocjacje",
+      "originalDescription": "Dwóch mężczyzn zabarykadowało się w mieszkaniu przy ulicy Serockiej, w którym przebywała babcia jednego z nich. Jeden trafił na obserwację psychiatryczną, drugiego zatrzymała policja. Pierwszą informację oraz zdjęcia z miejsca zdarzenia otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Echa wpisu Trumpa o byłym szefie FBI. \"Nie powinno już szokować, a jednak\"",
+      "link": "https://tvn24.pl/swiat/echa-wpisu-trumpa-o-bylym-szefie-fbi-nie-powinno-juz-szokowac-a-jednak-st8960717?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 10:53:44 GMT",
+      "description": "Nie cieszę się z niczyjej śmierci, a już na pewno nie ze śmierci kogoś, z kim można się nie zgadzać w pewnych sprawach, ale kto jednak służył temu krajowi - powiedział amerykańskiej stacji CNN republikanin Thom Tillis, komentując słowa Donalda Trumpa o zmarłym Robercie Muellerze, byłym szefie FBI. Wpis amerykańskiego prezydenta krytykują też demokraci.",
+      "originalTitle": "Echa wpisu Trumpa o byłym szefie FBI. \"Nie powinno już szokować, a jednak\"",
+      "originalDescription": "Nie cieszę się z niczyjej śmierci, a już na pewno nie ze śmierci kogoś, z kim można się nie zgadzać w pewnych sprawach, ale kto jednak służył temu krajowi - powiedział amerykańskiej stacji CNN republikanin Thom Tillis, komentując słowa Donalda Trumpa o zmarłym Robercie Muellerze, byłym szefie FBI. Wpis amerykańskiego prezydenta krytykują też demokraci."
+    },
+    {
+      "title": "Pogoda na 16 dni: im bliżej świąt, tym chłodniej",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-pogoda-na-wielkanoc-dlugoterminowa-prognoza-temperatury-tomasza-wasilewskiego-im-blizej-swiat-tym-chlodniej-st8960668?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 10:01:56 GMT",
+      "description": "Pogoda na 16 dni. Najzimniej ma być na przełomie marca i kwietnia. Jakie wartości na termometrach zobaczymy w Wielkanoc? Sprawdź szczegóły długoterminowej prognozy temperatury, opracowanej przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego.",
+      "originalTitle": "Pogoda na 16 dni: im bliżej świąt, tym chłodniej",
+      "originalDescription": "Pogoda na 16 dni. Najzimniej ma być na przełomie marca i kwietnia. Jakie wartości na termometrach zobaczymy w Wielkanoc? Sprawdź szczegóły długoterminowej prognozy temperatury, opracowanej przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego."
+    },
+    {
+      "title": "Analitycy: Polska szczególnie narażona na skutki blokady cieśniny Ormuz",
+      "link": "https://tvn24.pl/biznes/ze-swiata/analitycy-polska-szczegolnie-narazona-na-skutki-blokady-ciesniny-ormuz-st8960688?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 10:00:27 GMT",
+      "description": "Polska należy do krajów najbardziej zagrożonych skutkami zamknięcia kluczowej dla rynku paliw i nawozów trasy - wynika z analizy Allianz Trade. Jeśli cieśnina Ormuz pozostanie zablokowana dłużej niż trzy miesiące, grozi nam osłabienie złotego oraz wzrost inflacji i zadłużenia. Według analityków przedłużająca się blokada mogłaby również zwiększyć ryzyko recesji.",
+      "originalTitle": "Analitycy: Polska szczególnie narażona na skutki blokady cieśniny Ormuz",
+      "originalDescription": "Polska należy do krajów najbardziej zagrożonych skutkami zamknięcia kluczowej dla rynku paliw i nawozów trasy - wynika z analizy Allianz Trade. Jeśli cieśnina Ormuz pozostanie zablokowana dłużej niż trzy miesiące, grozi nam osłabienie złotego oraz wzrost inflacji i zadłużenia. Według analityków przedłużająca się blokada mogłaby również zwiększyć ryzyko recesji."
+    },
+    {
+      "title": "Śmiertelny wypadek na prostej drodze. Auto wbiło się w drzewo",
+      "link": "https://tvn24.pl/poznan/ostrow-wielkopolski-smiertelny-wypadek-na-prostej-drodze-nie-zyje-42-letni-mezczyzna-st8960683?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 09:54:22 GMT",
+      "description": "Kobieta zjechała z drogi i uderzyła w drzewo. Zginął jadący z nią mężczyzna. Tragedia rozegrała się na prostym odcinku drogi. Okoliczności zdarzenia wyjaśnia prokurator.",
+      "originalTitle": "Śmiertelny wypadek na prostej drodze. Auto wbiło się w drzewo",
+      "originalDescription": "Kobieta zjechała z drogi i uderzyła w drzewo. Zginął jadący z nią mężczyzna. Tragedia rozegrała się na prostym odcinku drogi. Okoliczności zdarzenia wyjaśnia prokurator."
+    }
+  ]
 }
