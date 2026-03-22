@@ -1,29 +1,69 @@
 {
-  "lastUpdate": "2026-03-22T15:40:37.152Z",
+  "lastUpdate": "2026-03-22T16:08:56.502Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Stany Zjednoczone i Iran w konflikcie",
+      "title": "Odkryto rzymskie monety i amulet na polu",
+      "link": "https://tvn24.pl/trojmiasto/starogard-gdanski-historyczne-odkrycie-rzymskie-monety-i-dziwny-amulet-st8961250?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 16:03:33 GMT",
+      "description": "• Rzymski amulet szczęścia i srebrne denary wydobyto z ziemi w okolicy miejscowości Osieczna.\n• Miejscowość Osieczna znajduje się w powiecie starogardzkim.\n• Powiat starogardzki położony jest na Pomorzu.\n• Przedmioty, które wydobyto, pochodzą sprzed niemal dwóch tysięcy lat.\n• Kilkanaście przedmiotów trafiło na światło dzienne w Borach Tucholskich.",
+      "originalTitle": "Na polu znaleźli rzymskie monety i amulet w kształcie fallusa",
+      "originalDescription": "Rzymski amulet szczęścia i srebrne denary wydobyto z ziemi w okolicy miejscowości Osieczna w powiecie starogardzkim na Pomorzu. Kilkanaście przedmiotów sprzed niemal dwóch tysięcy lat trafiło na światło dzienne w Borach Tucholskich."
+    },
+    {
+      "title": "Wzrost cen paliw w Polsce",
+      "link": "https://tvn24.pl/biznes/rynki/wzrost-cen-paliw-w-polsce-bedzie-historyczny-rekord-st8961302?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 16:01:47 GMT",
+      "description": "Wojna na Bliskim Wschodzie i blokada cieśniny Ormuz uderzają w polskie rafinerie. Od początku konfliktu hurtowe ceny oleju napędowego w Orlenie wzrosły o niemal 2,5 tysiąca złotych za metr sześcienny. Analitycy ostrzegają: to dopiero początek podwyżek na stacjach, gdzie cena diesla może wkrótce ustanowić historyczny rekord.",
+      "originalTitle": "Wzrost cen paliw w Polsce. \"Może ustanowić historyczny rekord\"",
+      "originalDescription": "Wojna na Bliskim Wschodzie i blokada cieśniny Ormuz uderzają w polskie rafinerie. Od początku konfliktu hurtowe ceny oleju napędowego w Orlenie wzrosły o niemal 2,5 tysiąca złotych za metr sześcienny. Analitycy ostrzegają: to dopiero początek podwyżek na stacjach, gdzie cena diesla może wkrótce ustanowić historyczny rekord."
+    },
+    {
+      "title": "Kontrola aut: 1200 pojazdów, 18 zatrzymań",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-prawie-1200-skontrolowanych-aut-18-osob-zatrzymanych-st8960676?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 15:51:58 GMT",
+      "description": "Policjanci z Warszawy przeprowadzili kolejną akcję \"Bezpieczne przewozy\". W ciągu kilku godzin skontrolowali 1190 pojazdów. Wśród sprawdzanych osób, aż 952 kierujących to obcokrajowcy. 18 osób zostało zatrzymanych.",
+      "originalTitle": "Prawie 1200 skontrolowanych aut, 18 osób zatrzymanych",
+      "originalDescription": "Policjanci z Warszawy przeprowadzili kolejną akcję \"Bezpieczne przewozy\". W ciągu kilku godzin skontrolowali 1190 pojazdów. Wśród sprawdzanych osób, aż 952 kierujących to obcokrajowcy. 18 osób zostało zatrzymanych."
+    },
+    {
+      "title": "Kolejna wyprawa szerpów nadziei i \"skarbów\". \"Wystarczy popatrzeć na ich twarze\"",
+      "link": "https://tvn24.pl/polska/kolejna-wyprawa-szerpow-nadziei-i-skarbow-wystarczy-popatrzec-na-ich-twarze-st8961354?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 15:44:09 GMT",
+      "description": "Szerpowie nadziei ponownie na górskim szlaku. Zabrali na Kasprowy Wierch swoje \"skarby\" - tych, którzy samodzielnie dotrzeć by tam nie mogli. W grupie siła, zwłaszcza gdy chęci i marzenia łączą się z empatią i chęcią pomocy.",
+      "originalTitle": "Kolejna wyprawa szerpów nadziei i \"skarbów\". \"Wystarczy popatrzeć na ich twarze\"",
+      "originalDescription": "Szerpowie nadziei ponownie na górskim szlaku. Zabrali na Kasprowy Wierch swoje \"skarby\" - tych, którzy samodzielnie dotrzeć by tam nie mogli. W grupie siła, zwłaszcza gdy chęci i marzenia łączą się z empatią i chęcią pomocy."
+    },
+    {
+      "title": "Pogoda. Szykuje się załamanie pogody. W prognozach widać deszcz ze śniegiem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-szykuje-sie-zalamanie-pogody-w-prognozach-widac-deszcz-ze-sniegiem-i-snieg-st8961309?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 15:37:09 GMT",
+      "description": "Tydzień rozpocznie się pogodnie, ale ładna aura nie utrzyma się długo. Już we wtorek do Polski zbliży się zatoka niżowa, która przyniesie opady - i to nie tylko deszczu. W drugiej części tygodnia zaznaczy się wpływ arktycznego powietrza.",
+      "originalTitle": "Pogoda. Szykuje się załamanie pogody. W prognozach widać deszcz ze śniegiem",
+      "originalDescription": "Tydzień rozpocznie się pogodnie, ale ładna aura nie utrzyma się długo. Już we wtorek do Polski zbliży się zatoka niżowa, która przyniesie opady - i to nie tylko deszczu. W drugiej części tygodnia zaznaczy się wpływ arktycznego powietrza."
+    },
+    {
+      "title": "Donald Trump daje ultimatum, Iran grozi odwetem. \"Nie ma już odwrotu\"",
       "link": "https://tvn24.pl/swiat/donald-trump-daje-ultimatum-iran-grozi-odwetem-nie-ma-juz-odwrotu-st8961257?source=rss",
       "pubDate": "Sun, 22 Mar 2026 15:32:40 GMT",
-      "description": "• Iran ma 48 godzin na odblokowanie cieśniny Ormuz.\n• Prezydent USA Donald Trump napisał w mediach społecznościowych, że jeśli Iran nie odblokuje cieśniny Ormuz, USA zrównają z ziemią irańskie elektrownie.\n• Irańskie władze zagroziły zmasowanym odwetem na kraje, w których USA posiadają bazy wojskowe.\n• Profesor Rafał Ożarowski, specjalista do spraw Bliskiego Wschodu, ocenił, że Trump zabrnął w ślepą uliczkę, ponieważ nie ma odwrotu.\n• Profesor Rafał Ożarowski wypowiedział się na antenie TVN24.",
+      "description": "Iran ma 48 godzin na odblokowanie cieśniny Ormuz albo zrównamy z ziemią ich elektrownie - napisał w mediach społecznościowych prezydent USA Donald Trump. Irańskie władze zagroziły zmasowanym odwetem na kraje, w których USA posiadają bazy wojskowe. - Trump zabrnął w tej sytuacji w ślepą uliczkę, ponieważ nie ma odwrotu - ocenił na antenie TVN24 profesor Rafał Ożarowski, specjalista do spraw Bliskiego Wschodu.",
       "originalTitle": "Donald Trump daje ultimatum, Iran grozi odwetem. \"Nie ma już odwrotu\"",
       "originalDescription": "Iran ma 48 godzin na odblokowanie cieśniny Ormuz albo zrównamy z ziemią ich elektrownie - napisał w mediach społecznościowych prezydent USA Donald Trump. Irańskie władze zagroziły zmasowanym odwetem na kraje, w których USA posiadają bazy wojskowe. - Trump zabrnął w tej sytuacji w ślepą uliczkę, ponieważ nie ma odwrotu - ocenił na antenie TVN24 profesor Rafał Ożarowski, specjalista do spraw Bliskiego Wschodu."
     },
     {
-      "title": "Przywileje fundacji rodzinnych",
+      "title": "Fundacje rodzinne i duże przywileje, których \"szary podatnik nie ma\"",
       "link": "https://tvn24.pl/polska/fundacje-rodzinne-politykow-duze-przywileje-ktorych-szary-podatnik-nie-ma-st8961255?source=rss",
       "pubDate": "Sun, 22 Mar 2026 15:14:12 GMT",
-      "description": "• Mają szereg przywilejów, z których korzysta także wielu posłów.\n• Obciążenia podatkowe dla beneficjentów są niskie.\n• Mowa o fundacjach rodzinnych.\n• Dzięki nim posłowie mogą ukrywać swój majątek.\n• Poseł Konfederacji Sławomir Mentzen przyznaje, że dzięki fundacjom rodzinnych posłowie mogą ukrywać swój majątek.",
+      "description": "Mają szereg przywilejów, z których korzysta także wielu posłów. Obciążenia podatkowe dla beneficjentów są niskie. Mowa o fundacjach rodzinnych. Dzięki nim posłowie mogą ukrywać swój majątek - jak zresztą przyznaje poseł Konfederacji Sławomir Mentzen.",
       "originalTitle": "Fundacje rodzinne i duże przywileje, których \"szary podatnik nie ma\"",
       "originalDescription": "Mają szereg przywilejów, z których korzysta także wielu posłów. Obciążenia podatkowe dla beneficjentów są niskie. Mowa o fundacjach rodzinnych. Dzięki nim posłowie mogą ukrywać swój majątek - jak zresztą przyznaje poseł Konfederacji Sławomir Mentzen."
     },
     {
-      "title": "Pożar spowodował zawalenie się stropu, znaleziono ofiarę",
+      "title": "W wyniku pożaru zawalił się strop. Pod gruzami znaleziono ciało",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/komorow-w-wyniku-pozaru-zawalil-sie-strop-cialo-pod-gruzami-st8961194?source=rss",
       "pubDate": "Sun, 22 Mar 2026 14:06:31 GMT",
-      "description": "• W starym domu w miejscowości Komorów w powiecie pruszkowskim wybuchł pożar.\n• Pożar spowodował zawalenie się stropu.\n• Ratownicy znaleźli pod gruzami szczątki osoby.",
+      "description": "W starym domu w miejscowości Komorów w powiecie pruszkowskim wybuchł pożar i zawalił się strop. Pod gruzami ratownicy znaleźli szczątki osoby.",
       "originalTitle": "W wyniku pożaru zawalił się strop. Pod gruzami znaleziono ciało",
       "originalDescription": "W starym domu w miejscowości Komorów w powiecie pruszkowskim wybuchł pożar i zawalił się strop. Pod gruzami ratownicy znaleźli szczątki osoby."
     },
@@ -42,46 +82,6 @@
       "description": "Z powodu niedoboru na stacjach benzynowych Słowenia wprowadziła tymczasowe ograniczenia w sprzedaży paliw - poinformował Reuters. Problem ma wynikać z gromadzenia zapasów w związku z konfliktem w Iranie oraz masowego tankowania przez kierowców z zagranicy. Ograniczenia wprowadzono w dniu wyborów do słoweńskiego parlamentu.",
       "originalTitle": "Słowenia wprowadziła limit tankowania. \"Nie sądziłem, że wpływ wydarzeń w Iranie będzie tak szybki\"",
       "originalDescription": "Z powodu niedoboru na stacjach benzynowych Słowenia wprowadziła tymczasowe ograniczenia w sprzedaży paliw - poinformował Reuters. Problem ma wynikać z gromadzenia zapasów w związku z konfliktem w Iranie oraz masowego tankowania przez kierowców z zagranicy. Ograniczenia wprowadzono w dniu wyborów do słoweńskiego parlamentu."
-    },
-    {
-      "title": "Akcja CBŚP na Lotnisku Chopina. Chodzi o \"zorganizowaną przestępczość narkotykową\"",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-akcja-cbsp-na-lotnisku-chopina-zatrzymano-podejrzanego-o-przestepczosc-narkotykowa-st8961254?source=rss",
-      "pubDate": "Sun, 22 Mar 2026 14:28:28 GMT",
-      "description": "W niedzielę na Lotnisku Chopina doszło do zatrzymania obywatela Polski, który przyleciał do kraju z Hiszpanii. Jak poinformował przedstawiciel policji, to działania wymierzone w przestępczość narkotykową.",
-      "originalTitle": "Akcja CBŚP na Lotnisku Chopina. Chodzi o \"zorganizowaną przestępczość narkotykową\"",
-      "originalDescription": "W niedzielę na Lotnisku Chopina doszło do zatrzymania obywatela Polski, który przyleciał do kraju z Hiszpanii. Jak poinformował przedstawiciel policji, to działania wymierzone w przestępczość narkotykową."
-    },
-    {
-      "title": "Był przystanek, nie ma przystanku. \"Nawet jednego gruzika nie zostawili\"",
-      "link": "https://tvn24.pl/lodz/jeden-z-folkowych-przystankow-zniknal-co-sie-stalo-st8953499?source=rss",
-      "pubDate": "Sun, 22 Mar 2026 13:59:42 GMT",
-      "description": "Wiat przystankowych pamiętających jeszcze czasy PRL, które zostały zamienione w kolorowe obrazy inspirowane klasyką malarstwa i lokalnym folklorem, było 17. Niedawno \"Folkowych Przystanków\" ubyło. Zaczęło się od tego, że w jeden z nich - ten z malowidłem \"Panna Młoda\" w Businie-Kolonii (Łódzkie) - wjechał kierowca auta osobowego. Okoliczni mieszkańcy i pomysłodawczyni projektu zastanawiają się, dlaczego obiekt zniknął w zaledwie kilka godzin.",
-      "originalTitle": "Był przystanek, nie ma przystanku. \"Nawet jednego gruzika nie zostawili\"",
-      "originalDescription": "Wiat przystankowych pamiętających jeszcze czasy PRL, które zostały zamienione w kolorowe obrazy inspirowane klasyką malarstwa i lokalnym folklorem, było 17. Niedawno \"Folkowych Przystanków\" ubyło. Zaczęło się od tego, że w jeden z nich - ten z malowidłem \"Panna Młoda\" w Businie-Kolonii (Łódzkie) - wjechał kierowca auta osobowego. Okoliczni mieszkańcy i pomysłodawczyni projektu zastanawiają się, dlaczego obiekt zniknął w zaledwie kilka godzin."
-    },
-    {
-      "title": "Justyna \"od diety\". Złota recepta z algorytmu, ale złotówki twoje",
-      "link": "https://konkret24.tvn24.pl/zdrowie/justyna-od-diety-zlota-recepta-z-algorytmu-ale-zlotowki-twoje-st8960687?source=rss",
-      "pubDate": "Sun, 22 Mar 2026 13:21:36 GMT",
-      "description": "Sprawia wrażenie profesjonalistki, w sieci doradza, jak zdrowo jeść i chudnąć. Oferuje indywidualne plany żywieniowe. Jednak zanim kupisz od niej \"złotą receptę\", przeczytaj, jak porady Justyny oceniają prawdziwe ekspertki.",
-      "originalTitle": "Justyna \"od diety\". Złota recepta z algorytmu, ale złotówki twoje",
-      "originalDescription": "Sprawia wrażenie profesjonalistki, w sieci doradza, jak zdrowo jeść i chudnąć. Oferuje indywidualne plany żywieniowe. Jednak zanim kupisz od niej \"złotą receptę\", przeczytaj, jak porady Justyny oceniają prawdziwe ekspertki."
-    },
-    {
-      "title": "Mróz ściśnie niemal wszędzie. Ostrzeżenia IMGW",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-przymrozki-ostrzezenia-imgw-we-wszystkich-wojewodztwach-st8958253?source=rss",
-      "pubDate": "Sun, 22 Mar 2026 05:19:00 GMT",
-      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami, które mają wystąpić niemal w całym kraju. Sprawdź, gdzie temperatura spadnie poniżej zera.",
-      "originalTitle": "Mróz ściśnie niemal wszędzie. Ostrzeżenia IMGW",
-      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami, które mają wystąpić niemal w całym kraju. Sprawdź, gdzie temperatura spadnie poniżej zera."
-    },
-    {
-      "title": "Emocje po publikacji listu Episkopatu",
-      "link": "https://tvn24.pl/poznan/list-episkopatu-burzliwe-komentarze-z-antysemityzmem-w-tle-st8960976?source=rss",
-      "pubDate": "Sun, 22 Mar 2026 12:56:50 GMT",
-      "description": "Episkopat w związku z 40. rocznicą wizyty Jana Pawła II w rzymskiej synagodze opublikował list, który jest czytany w kościołach. Biskupi przypominają, że śmierć i zmartwychwstanie Chrystusa są znakami sprzeciwu wobec duchowej śmierci, której przejawem jest antysemityzm. Nie wszystkim duchownym list się podoba.",
-      "originalTitle": "Emocje po publikacji listu Episkopatu",
-      "originalDescription": "Episkopat w związku z 40. rocznicą wizyty Jana Pawła II w rzymskiej synagodze opublikował list, który jest czytany w kościołach. Biskupi przypominają, że śmierć i zmartwychwstanie Chrystusa są znakami sprzeciwu wobec duchowej śmierci, której przejawem jest antysemityzm. Nie wszystkim duchownym list się podoba."
     }
   ]
 }
