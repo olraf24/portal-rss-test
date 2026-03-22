@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-22T19:39:07.532Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-22T20:07:20.116Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Karol Nawrocki spotkał się z Viktorem Orbanem",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-u-viktora-orbana-to-jest-igranie-z-polskim-bezpieczenstwem-st8961470?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 19:03:46 GMT",
+      "description": "• Nawrocki wysyła jasny komunikat \"stoję po stronie Orbana\".\n• Orban to kumpel Putina, to podnóżek Putina - powiedział Marcin Kierwiński.\n• Marcin Kierwiński jest szefem MSWiA.\n• Marcin Kierwiński komentował decyzję prezydenta Karola Nawrockiego o spotkaniu się w Budapeszcie z premierem Węgier.\n• Prezydent Karol Nawrocki spotkał się w Budapeszcie z premierem Węgier.\n• Spotkanie odbyło się w Budapeszcie.\n• Marcin Kierwiński wypowiedział się w programie \"Faktach po Faktach\" w TVN24.\n• Marcin Kierwiński odniósł się do antyunijnej narracji na prawicy.\n• Marcin Kierwiński ocenił, dlaczego wybór Przemysława Czarnka na kandydata na premiera zwiększa ryzyko Polexitu.\n• Przemysław Czarnek został wybrany na kandydata na premiera.\n• Wybór Przemysława Czarnka zwiększa ryzyko Polexitu - według Marcina Kierwińskiego.",
+      "originalTitle": "Karol Nawrocki u Viktora Orbana. \"To jest igranie z polskim bezpieczeństwem\"",
+      "originalDescription": "Nawrocki wysyła jasny komunikat \"stoję po stronie Orbana\", a Orban to kumpel Putina, to podnóżek Putina - powiedział w \"Faktach po Faktach\" w TVN24 szef MSWiA Marcin Kierwiński, komentując decyzję prezydenta Karola Nawrockiego o spotkaniu się w Budapeszcie z premierem Węgier. Odniósł się również do antyunijnej narracji na prawicy i ocenił, dlaczego wybór Przemysława Czarnka na kandydata na premiera zwiększa ryzyko Polexitu."
+    },
+    {
+      "title": "Pogoda na poniedziałek 23.03",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-23-03-noca-przejsciowo-pojawi-sie-wiecej-chmur-st8961392?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 18:45:43 GMT",
+      "description": "• Pogoda opisana jest na jutro, czyli na poniedziałek.\n• Data jutrzejsza to 23.03.\n• Noc będzie na ogół pogodna.\n• Miejscami wystąpi większe zachmurzenie.\n• W części kraju temperatura spadnie poniżej zera.\n• W poniedziałek w niektórych rejonach może przelotnie popadać.",
+      "originalTitle": "Pogoda na jutro - poniedziałek, 23.03. Nocą przejściowo pojawi się więcej chmur",
+      "originalDescription": "Pogoda na jutro, czyli na poniedziałek, 23.03. Noc będzie na ogół pogodna, ale miejscami wystąpi większe zachmurzenie. W części kraju temperatura spadnie poniżej zera. W poniedziałek w niektórych rejonach może przelotnie popadać."
+    },
+    {
+      "title": "Izrael niszczy mosty w Libanie",
+      "link": "https://tvn24.pl/swiat/preludium-do-inwazji-izrael-wysadza-mosty-w-libanie-nagranie-st8961389?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 18:33:51 GMT",
+      "description": "• Armia Izraela dostała rozkaz zniszczenia libańskich wiosek na linii frontu.\n• Rozkaz obejmuje również zniszczenie wszystkich mostów na rzece Litani na południu Libanu.\n• Szef MON Izraela potwierdził rozkaz w niedzielę.\n• Według szefa MON Izraela, wioski i mosty są wykorzystywane przez Hezbollah.\n• Prezydent Libanu skrytykował ataki.\n• Prezydent Libanu nazwał ataki \"preludium do inwazji lądowej\".",
+      "originalTitle": "\"Preludium do inwazji\". Izrael wysadza mosty w Libanie. Nagranie",
+      "originalDescription": "Armia Izraela dostała rozkaz zniszczenia libańskich wiosek na linii frontu, a także wszystkich mostów na rzece Litani na południu Libanu - potwierdził w niedzielę szef MON Izraela. Jego zdaniem są one wykorzystywane przez Hezbollah. Ataki skrytykował prezydent Libanu, który nazwał je \"preludium do inwazji lądowej\"."
+    },
+    {
+      "title": "Światła północy widoczne na niebie",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/zorza-polarna-22-03-alert-zorzowy-tej-nocy-na-niebie-moga-pojawic-sie-swiatla-polnocy-st8961435?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 18:00:13 GMT",
+      "description": "• W niedzielną noc na niebie może być widoczna zorza polarna.\n• Karol Wójcicki poinformował, że warunki do powstania zjawiska są bardzo sprzyjające.\n• Warunki do powstania zjawiska mogą być zakłócone przez pogodę.",
+      "originalTitle": "Alert zorzowy. Tej nocy na niebie mogą pojawić się światła północy",
+      "originalDescription": "W niedzielną noc na niebie może być widoczna zorza polarna. Jak poinformował popularyzator astronomii Karol Wójcicki, warunki do powstania zjawiska są bardzo sprzyjające. Tylko czy w jego obserwacji nie przeszkodzi pogoda?"
+    },
+    {
+      "title": "Wypadek w Tarczynie, 4 osoby ranne, interwencja śmigłowca LPR",
+      "link": "https://tvn24.pl/polska/wypadek-w-tarczynie-samochody-zderzyl-sie-w-okolicy-przejscia-wielu-rannych-ladowal-lpr-st8961430?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 17:49:55 GMT",
+      "description": "• Cztery samochody zderzyły się w rejonie przejścia dla pieszych.\n• Zderzenie miało miejsce w Alei Krakowskiej.\n• Wypadek nastąpił w Tarczynie.\n• Ranni są kierowcy.\n• Ranny jest pasażer.\n• Ranna jest piesza.\n• Piesza została zabrana śmigłowcem LPR.",
+      "originalTitle": "Wypadek w Tarczynie, cztery osoby ranne. Lądował śmigłowiec LPR",
+      "originalDescription": "Cztery samochody zderzyły się w rejonie przejścia dla pieszych w Alei Krakowskiej w Tarczynie. Ranni są kierowcy i pasażer oraz piesza, którą zabrał śmigłowiec LPR."
+    },
+    {
+      "title": "Po stoku pędzi za przewodnikiem. \"Złoto zabrała nam mgła\"",
+      "link": "https://tvn24.pl/polska/igrzyska-paralimpijskie-2026-michal-golas-i-kacper-walas-z-medalami-st8958531?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 17:17:42 GMT",
+      "description": "Nigdy nie uważał się za osobę z niepełnosprawnością, choć ze szkolnej ławki to, co napisane na tablicy, czytać musiał przez lornetkę. Rywalizacja na stoku z tymi, którzy problemów ze wzrokiem nie mają, okazała się niemożliwa. Michał Gołaś, wspomagany przez przewodnika Kacpra Walasa, z XIV Zimowych Igrzysk Paralimpijskich Mediolan-Cortina 2026 wrócił z aż dwoma medalami. Jak to zrobił?",
+      "originalTitle": "Po stoku pędzi za przewodnikiem. \"Złoto zabrała nam mgła\"",
+      "originalDescription": "Nigdy nie uważał się za osobę z niepełnosprawnością, choć ze szkolnej ławki to, co napisane na tablicy, czytać musiał przez lornetkę. Rywalizacja na stoku z tymi, którzy problemów ze wzrokiem nie mają, okazała się niemożliwa. Michał Gołaś, wspomagany przez przewodnika Kacpra Walasa, z XIV Zimowych Igrzysk Paralimpijskich Mediolan-Cortina 2026 wrócił z aż dwoma medalami. Jak to zrobił?"
+    },
+    {
+      "title": "Foki wygrzewają się na bałtyckiej plaży. Zobacz nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mierzeja-wislana-foki-wygrzewaja-sie-na-baltyckiej-plazy-zobacz-nagranie-st8961363?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 16:48:48 GMT",
+      "description": "Dopiero co rozpoczęła się wiosna, a nad Bałtykiem już można zobaczyć wygrzewające się foki. W mediach społecznościowych pojawiło się wideo, na którym widać sporą grupę tych morskich ssaków.",
+      "originalTitle": "Foki wygrzewają się na bałtyckiej plaży. Zobacz nagranie",
+      "originalDescription": "Dopiero co rozpoczęła się wiosna, a nad Bałtykiem już można zobaczyć wygrzewające się foki. W mediach społecznościowych pojawiło się wideo, na którym widać sporą grupę tych morskich ssaków."
+    },
+    {
+      "title": "Na polu znaleźli rzymskie monety i amulet w kształcie fallusa",
+      "link": "https://tvn24.pl/trojmiasto/starogard-gdanski-historyczne-odkrycie-rzymskie-monety-i-dziwny-amulet-st8961250?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 16:03:33 GMT",
+      "description": "Rzymski amulet szczęścia i srebrne denary wydobyto z ziemi w okolicy miejscowości Osieczna w powiecie starogardzkim na Pomorzu. Kilkanaście przedmiotów sprzed niemal dwóch tysięcy lat trafiło na światło dzienne w Borach Tucholskich.",
+      "originalTitle": "Na polu znaleźli rzymskie monety i amulet w kształcie fallusa",
+      "originalDescription": "Rzymski amulet szczęścia i srebrne denary wydobyto z ziemi w okolicy miejscowości Osieczna w powiecie starogardzkim na Pomorzu. Kilkanaście przedmiotów sprzed niemal dwóch tysięcy lat trafiło na światło dzienne w Borach Tucholskich."
+    },
+    {
+      "title": "Wzrost cen paliw w Polsce. \"Może ustanowić historyczny rekord\"",
+      "link": "https://tvn24.pl/biznes/rynki/wzrost-cen-paliw-w-polsce-bedzie-historyczny-rekord-st8961302?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 16:01:47 GMT",
+      "description": "Wojna na Bliskim Wschodzie i blokada cieśniny Ormuz uderzają w polskie rafinerie. Od początku konfliktu hurtowe ceny oleju napędowego w Orlenie wzrosły o niemal 2,5 tysiąca złotych za metr sześcienny. Analitycy ostrzegają: to dopiero początek podwyżek na stacjach, gdzie cena diesla może wkrótce ustanowić historyczny rekord.",
+      "originalTitle": "Wzrost cen paliw w Polsce. \"Może ustanowić historyczny rekord\"",
+      "originalDescription": "Wojna na Bliskim Wschodzie i blokada cieśniny Ormuz uderzają w polskie rafinerie. Od początku konfliktu hurtowe ceny oleju napędowego w Orlenie wzrosły o niemal 2,5 tysiąca złotych za metr sześcienny. Analitycy ostrzegają: to dopiero początek podwyżek na stacjach, gdzie cena diesla może wkrótce ustanowić historyczny rekord."
+    },
+    {
+      "title": "Prawie 1200 skontrolowanych aut, 18 osób zatrzymanych",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-prawie-1200-skontrolowanych-aut-18-osob-zatrzymanych-st8960676?source=rss",
+      "pubDate": "Sun, 22 Mar 2026 15:51:58 GMT",
+      "description": "Policjanci z Warszawy przeprowadzili kolejną akcję \"Bezpieczne przewozy\". W ciągu kilku godzin skontrolowali 1190 pojazdów. Wśród sprawdzanych osób, aż 952 kierujących to obcokrajowcy. 18 osób zostało zatrzymanych.",
+      "originalTitle": "Prawie 1200 skontrolowanych aut, 18 osób zatrzymanych",
+      "originalDescription": "Policjanci z Warszawy przeprowadzili kolejną akcję \"Bezpieczne przewozy\". W ciągu kilku godzin skontrolowali 1190 pojazdów. Wśród sprawdzanych osób, aż 952 kierujących to obcokrajowcy. 18 osób zostało zatrzymanych."
+    }
+  ]
 }
