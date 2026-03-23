@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-23T12:48:22.282Z",
+  "lastUpdate": "2026-03-23T13:34:38.299Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Naukowcy z Politechniki Warszawskiej zmierzyli tarcie wzajemne wirów w superpłynie",
+      "link": "https://dzienniknaukowy.pl/naukowcy-z-politechniki-warszawskiej-zmierzyli-tarcie-wzajemne-wirow-w-superplynie",
+      "pubDate": "Mon, 23 Mar 2026 13:27:33 +0000",
+      "description": "Ruch pojedynczego wiru w silnie oddziałującym superpłynie z ultrazimnych atomów zaobserwowali naukowcy z Włoch, Polski i Niemiec. Po raz pierwszy wyznaczyli też dwa współczynniki opisujące tarcie między częścią normalną i nadpłynną takiego układu."
+    },
     {
       "title": "Ekspert: badając tętno można zapobiec groźnemu udarowi mózgu",
       "link": "https://dzienniknaukowy.pl/ekspert-badajac-tetno-mozna-zapobiec-groznemu-udarowi-mozgu",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/berberyna-i-leaky-gut",
       "pubDate": "Tue, 17 Mar 2026 10:10:41 +0000",
       "description": "Zakażenia jelitowe często traktujemy jak epizod: kilka dni objawów, eliminacja patogenu i powrót do zdrowia. W takim ujęciu choroba ma wyraźny początek i koniec. Tymczasem doświadczenia pacjentów oraz dane kliniczne pokazują, że dla części osób historia nie kończy się w momencie ustąpienia biegunki czy normalizacji wyników badań mikrobiologicznych. Przewlekłe bóle brzucha, nadwrażliwość jelit, wzdęcia czy niestabilny rytm wypróżnień potrafią utrzymywać się tygodniami, a nawet miesiącami. Coraz częściej mówi się w tym kontekście o „leaky gut”, czyli rozszczelnieniu bariery jelitowej — ale pojęcie to bywa nadużywane i upraszczane."
-    },
-    {
-      "title": "Obróbka zdjęć w dokumentacji technicznej: jak łączyć obrazy bez specjalistycznego oprogramowania",
-      "link": "https://dzienniknaukowy.pl/obrobka-zdjec-w-dokumentacji-technicznej-jak-laczyc-obrazy-bez-specjalistycznego-oprogramowania",
-      "pubDate": "Tue, 17 Mar 2026 09:34:00 +0000",
-      "description": "W świecie nowoczesnych projektów DIY, recenzji sprzętu oraz profesjonalnych instrukcji serwisowych, komunikacja wizualna odgrywa rolę nadrzędną wobec tekstu. Tworząc dokumentację techniczną, autorzy nieustannie mierzą się z wyzwaniem przekazania złożonych, wielowymiarowych idei w sposób maksymalnie skondensowany i czytelny. Często wymaga to wyjścia poza ramy pojedynczej fotografii i stworzenia kompozycji, która zestawia ze sobą kilka perspektyw tego samego urządzenia, porównuje stan podzespołów przed i po modernizacji lub nakłada schemat ideowy bezpośrednio na zdjęcie rzeczywistej płytki drukowanej. Takie podejście nie tylko optymalizuje przestrzeń w dokumencie, ale przede wszystkim buduje natychmiastowy kontekst analityczny, pozwalając odbiorcy na zrozumienie relacji między poszczególnymi elementami układu bez konieczności wertowania stron."
     }
   ]
 }
