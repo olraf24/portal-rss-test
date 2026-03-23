@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-23T18:48:07.635Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-23T19:21:59.989Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na 24.03: nocny mróz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-24-03-noca-scisnie-lekki-mroz-st8963188?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:12:13 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli wtorku.\n• Data jutrzejszego dnia to 24.03.\n• W nocy temperatura spadnie poniżej zera w części kraju.\n• Dzień przyniesie pochmurną aurę.\n• Będzie silniejszy wiatr.\n• Warunki biometeo będą przeważnie korzystne lub neutralne.",
+      "originalTitle": "Pogoda na jutro - wtorek, 24.03. Nocą ściśnie lekki mróz",
+      "originalDescription": "Pogoda na jutro, czyli na wtorek, 24.03. W nocy w części kraju temperatura spadnie poniżej zera. Dzień przyniesie pochmurną aurę i silniejszy wiatr. Warunki biometeo przeważnie będą korzystne lub neutralne."
+    },
+    {
+      "title": "PIP: projekt nowych uprawnień",
+      "link": "https://tvn24.pl/biznes/z-kraju/badanie-cbos-w-sprawie-reformy-pip-polowa-polakow-popiera-zmiany-typu-umow-przez-inspektorow-st8963341?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:05:24 GMT",
+      "description": "• Inspektorzy Państwowej Inspekcji Pracy powinni mieć prawo do zmiany umów-zleceń, o dzieło i kontraktów B2B na umowy o pracę, jeśli stwierdzą, że ta praca spełnia kryteria pracy na etacie.\n• Połowa badanych w sondażu CBOS uważa, że inspektorzy powinni mieć takie prawo.\n• 27 procent badanych wyraziło sprzeciw wobec przyznania inspektorom prawa do zmiany umów.\n• Reszta badanych nie ma zdania w tej kwestii.",
+      "originalTitle": "Więcej uprawnień dla inspektorów PIP? Sondaż",
+      "originalDescription": "Inspektorzy Państwowej Inspekcji Pracy powinni mieć prawo do zmiany umów-zleceń, o dzieło i kontraktów B2B na umowy o pracę, jeśli stwierdzą, że ta praca spełnia kryteria pracy na etacie - uważa połowa badanych w sondażu CBOS. Sprzeciw wyraziło 27 procent badanych, a reszta nie ma zdania w tej kwestii."
+    },
+    {
+      "title": "Bruksela żąda wyjaśnień od Węgier",
+      "link": "https://tvn24.pl/swiat/bruksela-oczekuje-od-wegier-wyjasnien-w-tle-doniesienia-o-telefonach-do-moskwy-st8963274?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 18:51:18 GMT",
+      "description": "• Rzeczniczka Komisji Europejskiej zażądała od węgierskiego rządu wyjaśnień po doniesieniach medialnych.\n• Doniesienia medialne dotyczyły relacjonowania przez szefa MSZ Węgier treści spotkań Rady Unii Europejskiej Rosji.\n• Jeden z unijnych urzędników poinformował, że europejscy liderzy zaczęli spotykać się w mniejszych grupach.\n• Spotkania w mniejszych grupach odbywają się bez przedstawicieli Węgier.\n• Powodem spotkań w mniejszych grupach jest obawa o przecieki.\n• Decyzja o spotkaniach w mniejszych grupach została podjęta jakiś czas temu.",
+      "originalTitle": "Bruksela \"oczekuje od Węgier wyjaśnień\". W tle doniesienia o telefonach do Moskwy",
+      "originalDescription": "Rzeczniczka Komisji Europejskiej zażądała od węgierskiego rządu wyjaśnień po doniesieniach medialnych, że szef MSZ Węgier relacjonuje Rosji treść spotkań Rady Unii Europejskiej. Jak mówi jeden z unijnych urzędników, z obawy o przecieki już jakiś czas temu europejscy liderzy zaczęli spotykać się w mniejszych grupach bez przedstawicieli Węgier."
+    },
+    {
+      "title": "Dziecko spadło z ciągnika, przetransportowane śmigłowcem do szpitala",
+      "link": "https://tvn24.pl/krakow/czermna-dziecko-spadlo-z-ciagnika-smiglowiec-zabral-je-do-szpitala-st8963364?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 18:50:18 GMT",
+      "description": "W Czermnej (woj. małopolskie) doszło do wypadku w lesie. Z ciągnika podczas prac spadł 10-latek. Dziecko w ciężkim stanie trafiło do szpitala.",
+      "originalTitle": "Dziecko spadło z ciągnika. Śmigłowiec zabrał je do szpitala",
+      "originalDescription": "W Czermnej (woj. małopolskie) doszło do wypadku w lesie. Z ciągnika podczas prac spadł 10-latek. Dziecko w ciężkim stanie trafiło do szpitala."
+    },
+    {
+      "title": "Meteoryt wpadł do domu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/meteor-nad-teksasem-zobaczylam-dziure-w-suficie-twierdzi-ze-do-jej-domu-wpadl-meteoryt-st8962896?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 18:47:54 GMT",
+      "description": "• Jasna kula ognia przecięła niebo w rejonie miasta Houston.\n• Miasto Houston znajduje się w stanie Teksasie.\n• Sherrie James mieszka w okolicach, gdzie zjawisko się wydarzyło.\n• Sherrie James uważa, że fragment asteroidy przebił się przez dach.\n• Fragment asteroidy wpadł do domu Sherrie James.",
+      "originalTitle": "\"Zobaczyłam dziurę w suficie\". Twierdzi, że do jej domu wpadł meteoryt",
+      "originalDescription": "Jasna kula ognia przecięła niebo w rejonie miasta Houston w Teksasie. Sherrie James, która mieszka w tych okolicach uważa, że fragment asteroidy przebił się przez dach i wpadł do jej domu."
+    },
+    {
+      "title": "Dzikie zwierzęta w miastach",
+      "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-dziki-juz-nie-przychodza-do-miasta-tylko-w-nim-mieszkaja-st8963316?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 18:42:19 GMT",
+      "description": "• Dziki od dawna nie przychodzą do nas, one już u nas mieszkają - stwierdził burmistrz Bielan Grzegorz Pietruczuk w programie \"Tak jest\".\n• Zdaniem zoologa i biologa z Uniwersytetu Wrocławskiego istnieją sposoby, które mogą przystopować napływ tych zwierząt do miast bez konieczności odstrzału.\n• To może być zmiana sposobu gospodarki odpadami - zauważył dr Robert Maślak.\n• Burmistrz Bielan to Grzegorz Pietruczuk.\n• Ekspertem, który wypowiedział się na temat dzików, jest dr Robert Maślak.\n• Dr Robert Maślak jest zoologiem i biologiem z Uniwersytetu Wrocławskiego.\n• Program, w którym wypowiedział się burmistrz Bielan, to \"Tak jest\".",
+      "originalTitle": "Dziki nie są już \"dzikie\", tylko miejskie. \"One już u nas mieszkają\"",
+      "originalDescription": "Dziki od dawna nie przychodzą do nas, one już u nas mieszkają - stwierdził burmistrz Bielan Grzegorz Pietruczuk w programie \"Tak jest\". Zdaniem zoologa i biologa z Uniwersytetu Wrocławskiego istnieją sposoby, które mogą przystopować napływ tych zwierząt do miast bez konieczności odstrzału. - To może być zmiana sposobu gospodarki odpadami - zauważył dr Robert Maślak."
+    },
+    {
+      "title": "Pod ziemią zniknęło ogrodzenie z furtką. Zapadlisko w Będzinie",
+      "link": "https://tvn24.pl/katowice/zapadlisko-w-bedzinie-pod-ziemia-zniknelo-ogrodzenie-z-furtka-st8963225?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 18:32:43 GMT",
+      "description": "W Będzinie na prywatnej posesji w sobotę zapadła się ziemia pochłaniając fragmenty ogrodu i drogi gminnej, a także dzielące je ogrodzenie z furtką.",
+      "originalTitle": "Pod ziemią zniknęło ogrodzenie z furtką. Zapadlisko w Będzinie",
+      "originalDescription": "W Będzinie na prywatnej posesji w sobotę zapadła się ziemia pochłaniając fragmenty ogrodu i drogi gminnej, a także dzielące je ogrodzenie z furtką."
+    },
+    {
+      "title": "Porażka Meloni i jej rządu. Jest komentarz",
+      "link": "https://tvn24.pl/swiat/wlochy-porazka-rzadu-w-referendum-w-sprawie-sadownictwa-giorgia-meloni-komentuje-st8963276?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 18:15:33 GMT",
+      "description": "Rząd Giorgii Meloni przegrał referendum w sprawie reformy sądownictwa. Premier Włoch wyraziła żal z powodu \"straconej okazji na modernizację\" kraju. Podkreśliła jednak, że szanuje decyzję obywateli.",
+      "originalTitle": "Porażka Meloni i jej rządu. Jest komentarz",
+      "originalDescription": "Rząd Giorgii Meloni przegrał referendum w sprawie reformy sądownictwa. Premier Włoch wyraziła żal z powodu \"straconej okazji na modernizację\" kraju. Podkreśliła jednak, że szanuje decyzję obywateli."
+    },
+    {
+      "title": "Nawrocki spotkał się z Orbanem",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-spotkal-sie-z-viktorem-orbanem-st8962981?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 15:01:36 GMT",
+      "description": "Prezydent Karol Nawrocki przyleciał w poniedziałek do Budapesztu, gdzie spotkał się z premierem Węgier Viktorem Orbanem. Wizyta ta wzbudziła kontrowersje ze względu na relacje Orbana z Władimirem Putinem.",
+      "originalTitle": "Nawrocki spotkał się z Orbanem",
+      "originalDescription": "Prezydent Karol Nawrocki przyleciał w poniedziałek do Budapesztu, gdzie spotkał się z premierem Węgier Viktorem Orbanem. Wizyta ta wzbudziła kontrowersje ze względu na relacje Orbana z Władimirem Putinem."
+    },
+    {
+      "title": "Katastrofa wojskowego samolotu. Uratowano blisko 50 osób",
+      "link": "https://tvn24.pl/swiat/kolumbia-katastrofa-samolotu-wojskowego-st8963168?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 16:22:05 GMT",
+      "description": "Na południowym wschodzie Kolumbii doszło do katastrofy samolotu wojskowego. Kolumbijski generał Fernando Silva poinformował, że na pokładzie było 125 osób. 48 zostało uratowanych.",
+      "originalTitle": "Katastrofa wojskowego samolotu. Uratowano blisko 50 osób",
+      "originalDescription": "Na południowym wschodzie Kolumbii doszło do katastrofy samolotu wojskowego. Kolumbijski generał Fernando Silva poinformował, że na pokładzie było 125 osób. 48 zostało uratowanych."
+    }
+  ]
 }
