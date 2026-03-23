@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-23T07:32:26.920Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-03-23T08:23:32.135Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek samochodowy, uszkodzone pojazdy",
+      "link": "https://tvn24.pl/lodz/lodz-ulica-przyszkole-uderzyl-w-drzewo-dachowal-i-rozbil-zaparkowane-samochody-dramatyczne-nagranie-st8961852?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 08:06:29 GMT",
+      "description": "• Mieszkańcy bloków przy ulicy Przyszkole w Łodzi usłyszeli pisk opon w niedzielny poranek.\n• Po pisku opon usłyszeli ogromny huk.\n• Kierujący samochodem osobowym uderzył z impetem w drzewo.\n• Samochód dachował po uderzeniu w drzewo.\n• Po dachowaniu samochód zmiótł cztery zaparkowane samochody.\n• Kierujący samochodem wyszedł z rozbitego pojazdu o własnych siłach.",
+      "originalTitle": "Uderzył w drzewo, dachował i rozbił zaparkowane samochody. Dramatyczne nagranie",
+      "originalDescription": "Najpierw pisk opon, potem ogromny huk - to usłyszeli mieszkańcy bloków przy ulicy Przyszkole w Łodzi w niedzielny poranek. Kierujący samochodem osobowym uderzył z impetem w drzewo, dachował, a potem dosłownie zmiótł cztery zaparkowane samochody. Po czym wyszedł z rozbitego pojazdu o własnych siłach."
+    },
+    {
+      "title": "Wypadek drogowy: 3 auta zderzyły się, 1 ofiara śmiertelna",
+      "link": "https://tvn24.pl/szczecin/gryfice-kobieta-zginela-w-zderzeniu-trzech-aut-znamy-przyczyny-tragedii-st8961808?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 07:58:34 GMT",
+      "description": "• Śmiertelny wypadek miał miejsce na drodze wojewódzkiej.\n• Przy wypadku panowały dobre warunki drogowe.\n• Zderzyły się trzy samochody osobowe.\n• Zginęła jedna osoba w wyniku wypadku.\n• Osiem osób zostało rannych.\n• Prokurator ustalił okoliczności wypadku.",
+      "originalTitle": "Kobieta zginęła w zderzeniu trzech aut. Znamy przyczyny tragedii",
+      "originalDescription": "Śmiertelny wypadek na drodze wojewódzkiej. Przy dobrych warunkach drogowych zderzyły się trzy samochody osobowe. Zginęła jedna osoba, a osiem zostało rannych. Wiemy, co ustalił prokurator."
+    },
+    {
+      "title": "Pełczyńska-Nałęcz komentuje zdjęcie z AI",
+      "link": "https://tvn24.pl/polska/dlaczego-katarzyna-pelczynska-nalecz-opublikowala-zdjecie-wygenerowane-przez-ai-odpowiedziala-st8961594?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 07:45:18 GMT",
+      "description": "• Opublikowane przez Katarzynę Pełczyńską-Nałęcz zdjęcie zmodyfikowane za pomocą sztucznej inteligencji miało być żartem.\n• Dziennikarka TVN24 Maja Wójcikowska przekazała tę informację w programie \"W kuluarach\".\n• Liderka Polski 2050 uznała się za matkę rządowej strategii mieszkaniowej.",
+      "originalTitle": "Pełczyńska-Nałęcz \"sama siebie dokleiła\". Komentuje zdjęcie z AI",
+      "originalDescription": "Opublikowane przez Katarzynę Pełczyńską-Nałęcz zdjęcie zmodyfikowane za pomocą sztucznej inteligencji miało być żartem - przekazała dziennikarka TVN24 Maja Wójcikowska w programie \"W kuluarach\". Wszystko dlatego, że liderka Polski 2050 uznała się za matkę rządowej strategii mieszkaniowej."
+    },
+    {
+      "title": "Zatrzymanie w banku podczas podpisywania umowy kredytowej",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-przyszli-do-banku-podpisac-umowe-o-kredyt-zostali-zatrzymani-st8961757?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 07:37:27 GMT",
+      "description": "Chciała zaciągnąć kredyt na zakup mieszkania. Skorzystała z oferty pośrednika. Zostali zatrzymani, gdy razem przyszli podpisać umowę. Powodem były przerobione księgi przychodów i rozchodów. Grozi im do pięciu lat więzienia.",
+      "originalTitle": "Przyszli do banku podpisać umowę o kredyt mieszkaniowy i zostali zatrzymani",
+      "originalDescription": "Chciała zaciągnąć kredyt na zakup mieszkania. Skorzystała z oferty pośrednika. Zostali zatrzymani, gdy razem przyszli podpisać umowę. Powodem były przerobione księgi przychodów i rozchodów. Grozi im do pięciu lat więzienia."
+    },
+    {
+      "title": "Kuba przygotowuje się do ewentualnego konfliktu",
+      "link": "https://tvn24.pl/swiat/kuba-przygotowuje-sie-do-mozliwego-ataku-usa-st8961623?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 07:25:52 GMT",
+      "description": "• Kuba przygotowuje się na ewentualny atak Stanów Zjednoczonych.\n• Wiceszef dyplomacji Kuby poinformował o przygotowaniach kraju na ewentualny atak.\n• Wiceszef dyplomacji wyraził gotowość Hawany do negocjacji.\n• Negocjacje nie mogą dotyczyć kwestii zagrażających suwerenności państwa.",
+      "originalTitle": "Władze Kuby szykują się na atak USA",
+      "originalDescription": "Kuba przygotowuje się na ewentualny atak Stanów Zjednoczonych - poinformował wiceszef dyplomacji tego kraju. Jednocześnie wyraził gotowość Hawany do negocjacji, zastrzegając, że nie mogą one dotyczyć kwestii zagrażających suwerenności państwa."
+    },
+    {
+      "title": "Wprowadzono podwójny cennik",
+      "link": "https://tvn24.pl/biznes/ze-swiata/slowacja-obcokrajowcy-zaplaca-wiecej-wladze-wprowadzaja-podwojny-cennik-st8961726?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 07:03:07 GMT",
+      "description": "• Od poniedziałku na słowackich stacjach paliw obowiązują nowe, wyższe ceny oleju napędowego dla obcokrajowców.\n• Wprowadzono również ograniczenia w sprzedaży.\n• Rząd Roberta Ficy uzasadnia wprowadzenie tych przepisów walką z tak zwaną turystyką paliwową.\n• Turystyka paliwowa dotyczy szczególnie kierowców przyjeżdżających z Polski.",
+      "originalTitle": "Oskarżają Polaków o \"wysuszanie stacji\". Wprowadzili podwójny cennik",
+      "originalDescription": "Od poniedziałku na słowackich stacjach paliw obowiązują nowe, wyższe ceny oleju napędowego dla obcokrajowców. Wprowadzono również ograniczenia w sprzedaży. Rząd Roberta Ficy uzasadnia wprowadzenie tych przepisów walką z tak zwaną turystyką paliwową, szczególnie z kierowcami przyjeżdżającymi z Polski."
+    },
+    {
+      "title": "Osuwisko na autostradzie, skała uszkodziła jezdnię",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-osuwisko-zamknelo-autostrade-spadla-skala-wieksza-niz-autobus-st8961743?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 07:01:30 GMT",
+      "description": "• Osuwisko zablokowało na kilka dni jedną z najważniejszych autostrad Stanów Zjednoczonych.\n• Masy ziemi, połamanych drzew i gigantycznych skał zeszły na drogę.\n• Zdarzenie miało miejsce na drodze międzystanowej I-5.\n• Drogą, na której doszło do osuwiska, jest autostrada niedaleko kanadyjskiej granicy.",
+      "originalTitle": "Osuwisko zamknęło autostradę. Spadła skała \"większa niż autobus\"",
+      "originalDescription": "Osuwisko zablokowało na kilka dni jedną z najważniejszych autostrad Stanów Zjednoczonych. Masy ziemi, połamanych drzew i gigantycznych skał zeszły na drogę międzystanową I-5 niedaleko kanadyjskiej granicy."
+    },
+    {
+      "title": "Policja znalazła ciało kierowcy pod rozbitym pojeździe",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wegrow-samochod-wypadl-z-jezdni-i-rozbil-sie-na-drzewie-kierowca-zginal-st8961725?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 06:57:39 GMT",
+      "description": "• Do tragicznego wypadku doszło w poniedziałek rano.\n• Wypadek miał miejsce na drodze krajowej numer 62.\n• Zdarzenie miało miejsce na wyjeździe z Węgrowa.\n• Węgrowo położone jest na Mazowszu.\n• Auto wypadło z jezdni.\n• Po wypadnięciu z jezdni auto uderzyło w drzewo.\n• W wyniku wypadku zginął kierowca.",
+      "originalTitle": "Dostali zgłoszenie o rozbitym pojeździe poza jezdnią. Pod wrakiem znaleźli ciało kierowcy",
+      "originalDescription": "Do tragicznego wypadku doszło w poniedziałek rano na drodze krajowej numer 62 na wyjeździe z Węgrowa (Mazowsze). Auto wypadło z jezdni i uderzyło w drzewo, zginął kierowca."
+    },
+    {
+      "title": "Policja śledzi sprawę podpalenia ambulansów",
+      "link": "https://tvn24.pl/swiat/ambulanse-zydowskiej-organizacji-podpalone-w-londynie-st8961629?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 04:48:19 GMT",
+      "description": "• Kilka ambulansów należących do żydowskiej organizacji zostało podpalonych w Londynie.\n• Policja poinformowała o podpaleniu ambulansów.\n• Kamery monitoringu uchwyciły trzy osoby, które są poszukiwane przez funkcjonariuszy.\n• Podpalenie jest traktowane jako przestępstwo z nienawiści na tle antysemickim.\n• Władze wydały oświadczenie w tej sprawie.",
+      "originalTitle": "Ambulanse żydowskiej organizacji podpalone. Policja szuka trzech osób",
+      "originalDescription": "Kilka ambulansów należących do żydowskiej organizacji zostało podpalonych w Londynie - poinformowała policja. Kamery monitoringu uchwyciły trzy osoby, których teraz szukają funkcjonariusze. Jak wynika z oświadczenia władz, podpalenie jest traktowane \"jako przestępstwo z nienawiści na tle antysemickim\"."
+    },
+    {
+      "title": "Klientka banku postępuje zgodnie z instrukcją pracownika",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/siedlce-bala-sie-milionowej-kary-robila-to-co-jej-kazal-pracownik-banku-st8961397?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 06:23:48 GMT",
+      "description": "• Pracownik banku zadzwonił do 25-latki z informacją, że ktoś na jej dane wziął kredyt.\n• Zabronił jej rozmawiać o tym z kimkolwiek pod groźbą kary.\n• Groźba kary obejmowała milion złotych.\n• Groźba kary obejmowała również trzy lata więzienia.\n• 25-latka była przestraszona.\n• Spełniała wszystkie polecenia.",
+      "originalTitle": "Bała się \"milionowej kary\". Zrobiła to, co jej kazał \"pracownik banku\"",
+      "originalDescription": "\"Pracownik banku\" zadzwonił do 25-latki z informacją, że ktoś na jej dane wziął kredyt. Zabronił jej - pod groźbą kary miliona złotych i trzech lat więzienia - rozmawiać o tym z kimkolwiek. Przestraszona spełniała wszystkie polecenia."
+    }
+  ]
 }
