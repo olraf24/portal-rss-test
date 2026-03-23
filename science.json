@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-03-23T13:34:38.299Z",
+  "lastUpdate": "2026-03-23T14:28:00.657Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Badanie: gorszy nastrój i objawy depresyjne widać w języku, którego używamy",
+      "link": "https://dzienniknaukowy.pl/badanie-gorszy-nastroj-i-objawy-depresyjne-widac-w-jezyku-ktorego-uzywamy",
+      "pubDate": "Mon, 23 Mar 2026 13:41:19 +0000",
+      "description": "Dobór używanych słów może świadczyć o podwyższonym ryzyku depresji. Osoby, które w badaniach przesiewowych mają wyższy poziom objawów depresyjnych mówią o sobie jako o kimś, komu wydarzenia się przytrafiają, a nie jako o kimś, kto je aktywnie kształtuje. Analiza słownictwa może być pomocna w wykrywaniu oznak depresji."
+    },
     {
       "title": "Naukowcy z Politechniki Warszawskiej zmierzyli tarcie wzajemne wirów w superpłynie",
       "link": "https://dzienniknaukowy.pl/naukowcy-z-politechniki-warszawskiej-zmierzyli-tarcie-wzajemne-wirow-w-superplynie",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-odkryli-nowa-funkcje-wyspecjalizowanych-komorek-naczyn-watroby",
       "pubDate": "Tue, 17 Mar 2026 10:30:48 +0000",
       "description": "Nową funkcję wyspecjalizowanych komórek naczyń wątroby odkrył zespół z IIMCB. Badacze wykazali, że komórki te aktywnie usuwają wolną hemoglobinę. Odkrycie zmienia spojrzenie na to, jak organizm radzi sobie z hemoglobiną po rozpadzie krwinek i otwiera pytania o znaczenie tego procesu m.in. w schorzeniach wątroby."
-    },
-    {
-      "title": "Berberyna i „leaky gut”",
-      "link": "https://dzienniknaukowy.pl/berberyna-i-leaky-gut",
-      "pubDate": "Tue, 17 Mar 2026 10:10:41 +0000",
-      "description": "Zakażenia jelitowe często traktujemy jak epizod: kilka dni objawów, eliminacja patogenu i powrót do zdrowia. W takim ujęciu choroba ma wyraźny początek i koniec. Tymczasem doświadczenia pacjentów oraz dane kliniczne pokazują, że dla części osób historia nie kończy się w momencie ustąpienia biegunki czy normalizacji wyników badań mikrobiologicznych. Przewlekłe bóle brzucha, nadwrażliwość jelit, wzdęcia czy niestabilny rytm wypróżnień potrafią utrzymywać się tygodniami, a nawet miesiącami. Coraz częściej mówi się w tym kontekście o „leaky gut”, czyli rozszczelnieniu bariery jelitowej — ale pojęcie to bywa nadużywane i upraszczane."
     }
   ]
 }
