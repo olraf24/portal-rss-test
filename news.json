@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-23T10:48:10.625Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-23T11:19:43.848Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Karapaksy żółwi przechowują informacje o przeszłości",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/karapaksy-zolwi-jak-kapsuly-czasu-st8962063?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:12:39 GMT",
+      "description": "• Próby jądrowe na oceanie pozostawiają nieodwracalny ślad na kolejnych pokoleniach żółwi morskich.\n• Zakwity toksycznych glonów pozostawiają nieodwracalny ślad na kolejnych pokoleniach żółwi morskich.\n�� Wycieki ropy naftowej pozostawiają nieodwracalny ślad na kolejnych pokoleniach żółwi morskich.\n• Zmiany spowodowane przez te zdarzenia można odczytać z karapaksów żółwi morskich.\n• Karapaksy są powłokami grzbietowymi żółwi morskich.",
+      "originalTitle": "Karapaksy żółwi jak kapsuły czasu",
+      "originalDescription": "Próby jądrowe na oceanie, zakwity toksycznych glonów czy wycieki ropy naftowej - wszystkie te i podobne zdarzenia pozostawiają nieodwracalny ślad na kolejnych pokoleniach żółwi morskich. Zmiany te można odczytać z karapaksów, czyli powłok grzbietowych tych zwierząt."
+    },
+    {
+      "title": "Wypadek na przejeździe kolejowym",
+      "link": "https://tvn24.pl/rzeszow/chorzelow-dziadek-z-wnuczka-zgineli-na-przejezdzie-kolejowym-ostatnia-opinia-i-koniec-sledztwa-st8962065?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:10:55 GMT",
+      "description": "• Śledczy czekają już na ostatnią opinię i będą kończyć śledztwo.\n• Dowiedział się portal tvn24.pl o tym, że śledczy czekają na ostatnią opinię.\n• Chodzi o wypadek w Chorzelowie na Podkarpaciu.\n• Wypadek miał miejsce na przejeździe kolejowym.\n• W wypadku zginął 85-letni mężczyzna.\n• W wypadku zginęła również 11-letnia wnuczka zmarłego mężczyzny.",
+      "originalTitle": "Dziadek z wnuczką zginęli na przejeździe kolejowym. Ostatnia opinia i koniec śledztwa",
+      "originalDescription": "Śledczy czekają już na ostatnią opinię i będą kończyć śledztwo - dowiedział się portal tvn24.pl. Chodzi o wypadek w Chorzelowie na Podkarpaciu, w którym na przejeździe kolejowym zginął 85-letni mężczyzna i jego 11-letnia wnuczka."
+    },
+    {
+      "title": "Wzrost cen gazu i malejące zapasy",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-gazu-wymiana-grozb-drozszy-gaz-i-kurczace-sie-zapasy-analitycy-widza-dalsze-problemy-st8961875?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:04:23 GMT",
+      "description": "• Na europejskich rynkach cena gazu wyraźnie rośnie.\n• Cena gazu rośnie w reakcji na rosnące napięcia między USA a Iranem.\n• Napięcia między USA a Iranem dotyczą cieśniny Ormuz.\n• Rosnące napięcia zwi��kszają niepewność na rynku energii.\n• Rynki energii są już rozchwiane.\n• Maklerzy podkreślają, że rosnące napięcia między USA a Iranem wpływają na cenę gazu.",
+      "originalTitle": "Wymiana gróźb, droższy gaz i kurczące się zapasy. A to nie koniec problemów",
+      "originalDescription": "Na europejskich rynkach cena gazu wyraźnie rośnie. To reakcja inwestorów na rosnące napięcia między USA a Iranem wokół cieśniny Ormuz, które zwiększają niepewność na i tak rozchwianym rynku energii - podkreślają maklerzy."
+    },
+    {
+      "title": "Osoby zatrzymane po wyjściu z więzienia muszą opuścić Polskę",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/migranci-w-polsce-zatrzymali-ich-po-wyjsciu-z-wiezienia-musza-opuscic-polske-st8962223?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:03:48 GMT",
+      "description": "• Wyszli z więzienia \n• Zostali zatrzymani \n• Muszą opuścić Polskę \n• Nie będą mogli wrócić do Polski przez 10 lat",
+      "originalTitle": "Zatrzymali ich po wyjściu z więzienia, muszą opuścić Polskę",
+      "originalDescription": "Wyszli z więzienia i od razu zostali zatrzymani. Muszą opuścić Polskę i nawet przez 10 lat nie będą mogli wrócić."
+    },
+    {
+      "title": "Zmiany w odbiorze śmieci",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-nowe-kontenery-i-harmonogram-zmiany-w-odbiorze-smieci-z-trzech-dzielnic-st8961913?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:02:17 GMT",
+      "description": "Od początku kwietnia za odbiór odpadów w Wawrze, Rembertowie i Wesołej będzie odpowiadało Miejskie Przedsiębiorstwo Oczyszczania. Mieszkańcy muszą liczyć się ze zmianą harmonogramu wywozu śmieci. Otrzymają też nowe kontenery.",
+      "originalTitle": "Nowe kontenery i harmonogram. Zmiany w odbiorze śmieci z trzech dzielnic",
+      "originalDescription": "Od początku kwietnia za odbiór odpadów w Wawrze, Rembertowie i Wesołej będzie odpowiadało Miejskie Przedsiębiorstwo Oczyszczania. Mieszkańcy muszą liczyć się ze zmianą harmonogramu wywozu śmieci. Otrzymają też nowe kontenery."
+    },
+    {
+      "title": "Matka pozywa syna o wyprowadzkę",
+      "link": "https://tvn24.pl/swiat/wlochy-nie-chcial-sie-wyprowadzic-zostal-pozwany-przez-matke-jest-werdykt-st8962037?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:01:39 GMT",
+      "description": "• Sąd w Rawennie w północnych Włoszech zdecydował, że 31-latek będzie musiał opuścić dom matki.\n• Kobieta domagała się wyprowadzki syna.\n• Powodem żądania wyprowadzki było to, że syn nie sprząta.\n��� Syn ma pracę.\n• Mimo posiadania pracy, syn nie płaci rachunków.",
+      "originalTitle": "Nie chciał się wyprowadzić, został pozwany przez matkę",
+      "originalDescription": "Sąd w Rawennie w północnych Włoszech zdecydował, że 31-latek będzie musiał opuścić dom matki. Kobieta domagała się wyprowadzki syna argumentując, że jej syn nie sprząta i mimo że ma pracę, nie płaci rachunków."
+    },
+    {
+      "title": "Lekarze komentują wypowiedź Dodii na temat otyłości",
+      "link": "https://tvn24.pl/zdrowie/doda-o-stosowaniu-analogow-glp-1-tlusciochy-sa-leniami-lekarze-wyjasniaja-czemu-dieta-i-ruch-to-za-malo-st8962053?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 11:00:35 GMT",
+      "description": "• Dorota Rabczewska jest znana jako Doda.\n• Doda wypowiedziała się o analogach GLP-1.\n• Doda nazwała osoby, które stosują analogi GLP-1 w leczeniu otyłości \"leniami\" i \"tłuściochami\".\n• Doda twierdzi, że osoby stosujące analogi GLP-1 w leczeniu otyłości wybierają drogę na skróty.\n• Dr hab. n. med. Alina Kuryłowicz jest członkiem zarządu Polskiego Towarzystwa Leczenia Otyłości.\n• Dr hab. n. med. Alina Kuryłowicz odpowiedziała na wypowiedź Dody.\n• Dr hab. n. med. Alina Kuryłowicz stwierdziła, że stosowanie analogów GLP-1 to usankcjonowana, oparta na dowodach i ratująca życie terapia.",
+      "originalTitle": "\"Tłuściochy są leniami\". Lekarze od otyłości odpowiadają Dodzie",
+      "originalDescription": "Dorota Rabczewska, znana jako Doda, wypowiedziała się o analogach GLP-1. Nazwała osoby, które stosują je w leczeniu otyłości \"leniami\" i \"tłuściochami\", twierdząc, że wybierają drogę na skróty. - To żadna \"droga na skróty\". To usankcjonowana, oparta na dowodach i ratująca życie terapia - odpowiada dr hab. n. med. Alina Kuryłowicz z zarządu Polskiego Towarzystwa Leczenia Otyłości."
+    },
+    {
+      "title": "Policja zatrzymała myśliwego po wypadku",
+      "link": "https://tvn24.pl/trojmiasto/smierc-na-polowaniu-policja-zatrzymala-mysliwego-st8962144?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 10:39:18 GMT",
+      "description": "Nocne weekendowe polowanie na Pomorzu zakończyło się tragicznie. Jeden z myśliwych zginął.",
+      "originalTitle": "Śmierć na polowaniu. Policja zatrzymała myśliwego",
+      "originalDescription": "Nocne weekendowe polowanie na Pomorzu zakończyło się tragicznie. Jeden z myśliwych zginął."
+    },
+    {
+      "title": "Spadek cen złota od 40 lat",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ceny-zlota-nurkuja-tego-nie-widziano-od-czterech-dekad-st8961876?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 10:32:41 GMT",
+      "description": "• Cena złota osiągnęła najniższy poziom od czterech miesięcy.\n• Eskalacja konfliktu na Bliskim Wschodzie podsyca obawy o inflację.\n• Konflikt na Bliskim Wschodzie wzbudza oczekiwania dotyczące podwyżek globalnych stóp procentowych.\n• Informacje te zostały podane przez Reuters.",
+      "originalTitle": "Ceny złota nurkują. Tego nie widziano od czterech dekad",
+      "originalDescription": "Cena złota osiągnęła najniższy poziom od czterech miesięcy. Eskalacja konfliktu na Bliskim Wschodzie podsyca obawy o inflację i wzbudza oczekiwania dotyczące podwyżek globalnych stóp procentowych - podaje Reuters."
+    },
+    {
+      "title": "Rosyjski statek kosmiczny leci na ISS, ma awarię",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/progress-ms-33-rosyjski-statek-kosmiczny-leci-na-iss-ma-awarie-st8962005?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 10:21:35 GMT",
+      "description": "Progress MS-33, czyli rosyjski statek transportowy, który leci na Międzynarodową Stację Kosmiczną (ISS), ma problemy techniczne. Uszkodzona jest jedna z anten służąca do automatycznego dokowania. Pojazd będzie musiał zostać przyłączony do stacji ręcznie.",
+      "originalTitle": "Rosyjski statek kosmiczny leci na ISS, ma awarię",
+      "originalDescription": "Progress MS-33, czyli rosyjski statek transportowy, który leci na Międzynarodową Stację Kosmiczną (ISS), ma problemy techniczne. Uszkodzona jest jedna z anten służąca do automatycznego dokowania. Pojazd będzie musiał zostać przyłączony do stacji ręcznie."
+    }
+  ]
 }
