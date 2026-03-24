@@ -1,8 +1,24 @@
 {
-  "lastUpdate": "2026-03-24T20:46:57.469Z",
+  "lastUpdate": "2026-03-24T21:15:21.431Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Oskarżenia o inwigilację węgierskiej opozycji",
+      "link": "https://tvn24.pl/swiat/lider-tiszy-o-orbangate-czy-wegierskie-sluzby-inwigilowaly-opozycje-st8965287?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 20:59:19 GMT",
+      "description": "Do wyborów na Węgrzech zostało niespełna trzy tygodnie. Portal śledczy \"Direkt36\" donosi o próbie infiltracji opozycyjnej Tiszy, która prowadzi w dotychczasowych sondażach. Według lidera partii Petera Magyara węgierskie służby działały \"na polecenie Orbana\".",
+      "originalTitle": "Próba inwigilacji węgierskiej opozycji. Jej lider mówi o czymś \"poważniejszym niż Watergate\"",
+      "originalDescription": "Do wyborów na Węgrzech zostało niespełna trzy tygodnie. Portal śledczy \"Direkt36\" donosi o próbie infiltracji opozycyjnej Tiszy, która prowadzi w dotychczasowych sondażach. Według lidera partii Petera Magyara węgierskie służby działały \"na polecenie Orbana\"."
+    },
+    {
+      "title": "Przymrozki, ulewy i śnieg w prognozie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-przymrozki-opady-sniegu-tu-moze-obficie-sypnac-sniegiem-st8961830?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 06:56:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami.\n• Kolejne dni przyniosą szereg zagrożeń ze strony pogody.\n• Zagrożenia będą obejmowały oblodzenia.\n• Zagrożenia będą obejmowały opady śniegu.",
+      "originalTitle": "Alarmy przed przymrozkami. Później czekają nas ulewy, śnieg i ślizgawica",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. Kolejne dni przyniosą szereg zagrożeń ze strony pogody, w tym oblodzenia i opady śniegu."
+    },
     {
       "title": "Osoba uratowana z wody była zmarznięta",
       "link": "https://tvn24.pl/tvnmeteo/swiat/usa-pies-wpadl-do-lodowatej-rzeki-z-trudem-utrzymywal-sie-na-powierzchni-byl-bardzo-zmarzniety-ciagle-drzal-st8965350?source=rss",
@@ -12,7 +28,7 @@
       "originalDescription": "Policja z hrabstwa Onondaga w stanie Nowy Jork przeprowadziła w poniedziałek trudną akcję ratunkową. Przy pomocy śmigłowca wyciągnęła z lodowatej rzeki wyziębionego psa."
     },
     {
-      "title": "Nagroda w Eurojackpot wynosi 250 mln",
+      "title": "250 milionów do wygrania w Eurojackpot",
       "link": "https://tvn24.pl/biznes/z-kraju/eurojackpot-wyniki-z-24-marca-2026-jakie-liczby-padly-w-trakcie-losowania-st8965367?source=rss",
       "pubDate": "Tue, 24 Mar 2026 20:25:46 GMT",
       "description": "We wtorkowym losowaniu Eurojackpot po raz kolejny nie padła główna wygrana. Kumulacja rośnie zatem do 250 milionów złotych. W Polsce najwyższe odnotowane wygrane to te czwartego stopnia. Oto wyniki losowania Eurojackpot z 24 marca.",
@@ -20,15 +36,23 @@
       "originalDescription": "We wtorkowym losowaniu Eurojackpot po raz kolejny nie padła główna wygrana. Kumulacja rośnie zatem do 250 milionów złotych. W Polsce najwyższe odnotowane wygrane to te czwartego stopnia. Oto wyniki losowania Eurojackpot z 24 marca."
     },
     {
-      "title": "Domański omawia programy, w tym SAFE",
+      "title": "\"Absolutnie nie przystoi takie zachowanie prezydentowi\"",
+      "link": "https://tvn24.pl/polska/reakcja-karola-nawrockiego-na-pytanie-nie-przystoi-takie-zachowanie-prezydentowi-st8965330?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 19:59:48 GMT",
+      "description": "Chciałabym, żeby pan prezydent wyciągał rękę do potrzebujących, a nie groził dziennikarzom palcem za to, że zadają mu pytania - powiedziała w \"Kropce nad i\" Aleksandra Gajewska z KO, komentując nerwową reakcję Karola Nawrockiego na pytanie reportera TVN24. Innego zdania był poseł PiS Kazimierz Smoliński. - To nie była konferencja prasowa - powiedział.",
+      "originalTitle": "\"Absolutnie nie przystoi takie zachowanie prezydentowi\"",
+      "originalDescription": "Chciałabym, żeby pan prezydent wyciągał rękę do potrzebujących, a nie groził dziennikarzom palcem za to, że zadają mu pytania - powiedziała w \"Kropce nad i\" Aleksandra Gajewska z KO, komentując nerwową reakcję Karola Nawrockiego na pytanie reportera TVN24. Innego zdania był poseł PiS Kazimierz Smoliński. - To nie była konferencja prasowa - powiedział."
+    },
+    {
+      "title": "Domański: SAFE to priorytet, ale analizujemy też inne programy",
       "link": "https://tvn24.pl/biznes/z-kraju/andrzej-domanski-safe-to-priorytet-ale-analizujemy-tez-inne-programy-st8965352?source=rss",
       "pubDate": "Tue, 24 Mar 2026 19:45:49 GMT",
-      "description": "• Program SAFE pozostaje obecnie priorytetem\n• Rząd uczestniczy w pracach nad innymi inicjatywami obronnymi\n• Minister finansów i gospodarki to Andrzej Domański\n• Andrzej Domański wypowiedział się we wtorek\n• Wypowiedź Andrzeja Domańskiego miała miejsce w rozmowie z Reutersem",
+      "description": "Program SAFE pozostaje obecnie priorytetem, jednak rząd uczestniczy też w pracach nad innymi inicjatywami obronnymi - powiedział we wtorek minister finansów i gospodarki Andrzej Domański w rozmowie z Reutersem.",
       "originalTitle": "Domański: SAFE to priorytet, ale analizujemy też inne programy",
       "originalDescription": "Program SAFE pozostaje obecnie priorytetem, jednak rząd uczestniczy też w pracach nad innymi inicjatywami obronnymi - powiedział we wtorek minister finansów i gospodarki Andrzej Domański w rozmowie z Reutersem."
     },
     {
-      "title": "Stanowisko Nawrockiego w sprawie Orbana",
+      "title": "Schetyna: poparcie Nawrockiego dla Orbana może mieć znaczenie",
       "link": "https://tvn24.pl/polska/grzegorz-schetyna-o-wizycie-karola-nawrockiego-poparcie-dla-orbana-moze-okazac-sie-znaczace-st8965288?source=rss",
       "pubDate": "Tue, 24 Mar 2026 19:42:26 GMT",
       "description": "Poparcie ze strony Karola Nawrockiego dla Viktora Orbana może mieć znaczenie, jeśli wybory na Węgrzech będą \"na żyletki\" - ocenił w \"Faktach po Faktach\" senator KO Grzegorz Schetyna. Komentował poniedziałkową wizytę polskiego prezydenta w Budapeszcie i spotkanie z węgierskim premierem.",
@@ -58,30 +82,6 @@
       "description": "Pogoda na jutro, czyli na środę, 25.03. Noc przyniesie zróżnicowaną aurę - u jednych będzie pogodnie, u drugich - pochmurno, a nawet deszczowo. W dzień termometry pokażą maksymalnie 17 stopni.",
       "originalTitle": "Pogoda na jutro - środa, 25.03. Przed nami noc pełna kontrastów",
       "originalDescription": "Pogoda na jutro, czyli na środę, 25.03. Noc przyniesie zróżnicowaną aurę - u jednych będzie pogodnie, u drugich - pochmurno, a nawet deszczowo. W dzień termometry pokażą maksymalnie 17 stopni."
-    },
-    {
-      "title": "Miał strzelić \"przez przypadek\" w kierunku tramwaju, wiatrówkę wyrzucił do kosza",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-policja-zatrzymala-podejrzanego-o-strzelanie-z-wiatrowki-do-tramwaju-st8965160?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 18:12:30 GMT",
-      "description": "W powiecie wołomińskim zatrzymano mężczyznę podejrzanego o uszkodzenie pod koniec lutego szyby tramwaju linii numer 13 na warszawskiej Pradze. 22-latek podczas przesłuchania twierdził, że oddał strzał \"przez przypadek\". Mężczyzna usłyszał zarzuty, teraz grozi mu do pięciu lat pozbawienia wolności.",
-      "originalTitle": "Miał strzelić \"przez przypadek\" w kierunku tramwaju, wiatrówkę wyrzucił do kosza",
-      "originalDescription": "W powiecie wołomińskim zatrzymano mężczyznę podejrzanego o uszkodzenie pod koniec lutego szyby tramwaju linii numer 13 na warszawskiej Pradze. 22-latek podczas przesłuchania twierdził, że oddał strzał \"przez przypadek\". Mężczyzna usłyszał zarzuty, teraz grozi mu do pięciu lat pozbawienia wolności."
-    },
-    {
-      "title": "Na to zagrożenie Europa wciąż nie jest przygotowana",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/zmiana-klimatu-pozary-w-europie-na-to-zagrozenie-europa-wciaz-nie-jest-przygotowana-st8964975?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 17:56:29 GMT",
-      "description": "W Europie, wraz z postępującymi zmianami klimatu, wydłuża się sezon podwyższonego zagrożenia pożarowego. Według najnowszego raportu, mamy niedostatecznie dużo sprzętu, by skutecznie reagować na coraz częstsze i bardziej niszczycielskie pożary.",
-      "originalTitle": "Na to zagrożenie Europa wciąż nie jest przygotowana",
-      "originalDescription": "W Europie, wraz z postępującymi zmianami klimatu, wydłuża się sezon podwyższonego zagrożenia pożarowego. Według najnowszego raportu, mamy niedostatecznie dużo sprzętu, by skutecznie reagować na coraz częstsze i bardziej niszczycielskie pożary."
-    },
-    {
-      "title": "Sędziowie TK czekają na ślubowanie. RPO o \"możliwości złożenia skargi na bezczynność\"",
-      "link": "https://tvn24.pl/polska/sedziowie-tk-czekaja-na-slubowanie-rpo-o-mozliwosci-zlozenia-skargi-na-bezczynnosc-st8965182?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 17:51:00 GMT",
-      "description": "Jeżeli to opóźnienie będzie przekraczało pewne ramy, to ja uważam, że w państwie prawa należy poszukiwać ścieżki sądowej - powiedział w \"Tak jest\" w TVN24 Rzecznik Praw Obywatelskich profesor Marcin Wiącek. Pytany był o możliwe rozwiązania, jeśli prezydent Karol Nawrocki będzie opóźniał ślubowanie sędziów Trybunału Konstytucyjnego.",
-      "originalTitle": "Sędziowie TK czekają na ślubowanie. RPO o \"możliwości złożenia skargi na bezczynność\"",
-      "originalDescription": "Jeżeli to opóźnienie będzie przekraczało pewne ramy, to ja uważam, że w państwie prawa należy poszukiwać ścieżki sądowej - powiedział w \"Tak jest\" w TVN24 Rzecznik Praw Obywatelskich profesor Marcin Wiącek. Pytany był o możliwe rozwiązania, jeśli prezydent Karol Nawrocki będzie opóźniał ślubowanie sędziów Trybunału Konstytucyjnego."
     }
   ]
 }
