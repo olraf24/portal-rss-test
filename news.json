@@ -1,21 +1,61 @@
 {
-  "lastUpdate": "2026-03-24T07:50:39.697Z",
+  "lastUpdate": "2026-03-24T08:18:57.688Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek samochodowy w sklepie, kierowca zidentyfikowany",
+      "title": "Powódź dotknęła południe, północ sprząta",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/polnoc-sprzata-po-powodzi-poludnie-zostalo-zalane-st8963553?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 08:07:52 GMT",
+      "description": "Mieszkańcy północnej części wyspy O'ahu w archipelagu Hawajów próbują otrząsnąć się z powodzi, która nawiedziła ich w ubiegłym tygodniu. Woda zalała wiele budynków, pozbawiając mieszkańców dobytku. W poniedziałek żywioł zaatakował ponownie, tym razem w południowej części wyspy.",
+      "originalTitle": "Północ sprząta po powodzi, południe zostało zalane",
+      "originalDescription": "Mieszkańcy północnej części wyspy O'ahu w archipelagu Hawajów próbują otrząsnąć się z powodzi, która nawiedziła ich w ubiegłym tygodniu. Woda zalała wiele budynków, pozbawiając mieszkańców dobytku. W poniedziałek żywioł zaatakował ponownie, tym razem w południowej części wyspy."
+    },
+    {
+      "title": "Wybory w Danii rozpoczęte",
+      "link": "https://tvn24.pl/swiat/wybory-w-danii-czy-trump-pomoze-obecnej-premierce-kto-ma-szanse-stworzyc-koalicje-st8962792?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 08:01:29 GMT",
+      "description": "• W Danii odbędą się wybory, w których zostanie wybrany nowy premier.\n• Wybory odbędą się we wtorek.\n• W wyborach biorą udział Duńczycy.\n• W wyborach biorą udział mieszkańcy Grenlandii.\n• W wyborach biorą udział mieszkańcy Wysp Owczych.\n• W wyborach wybieranych jest 179 posłów do duńskiego parlamentu.\n• Obecny szef dyplomacji może zdecydować o przyszłej koalicji rządzącej.\n• Obecny szef dyplomacji jest określany jako \"pragmatyczny i nonszalancki\".",
+      "originalTitle": "Wybory w Danii. Czy Trump pomoże obecnej premierce?",
+      "originalDescription": "Czy \"obrończyni suwerenności królestwa\" po raz kolejny zostanie premierką Danii? We wtorek Duńczycy, a także mieszkańcy Grenlandii i Wysp Owczych wybierają 179 posłów do duńskiego parlamentu. Wiele wskazuje na to, że o tym, jak będzie wyglądała przyszła koalicja rządząca, zdecyduje obecny - \"pragmatyczny i nonszalancki\" - szef dyplomacji."
+    },
+    {
+      "title": "Spotkanie Nawrockiego z Orbanem",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-u-viktora-orbana-bez-materialow-msz-kulisy-wizyty-prezydenta-u-sojusznika-putina-st8963472?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:52:52 GMT",
+      "description": "Kancelaria prezydenta nie wystąpiła do MSZ o przygotowanie materiałów do rozmowy Karola Nawrockiego z Viktorem Orbanem - ujawnił Patryk Michalski, autor podcastu \"News Michalskiego\" w TVN24+. Rzecznik prezydenta twierdzi, że mimo wcześniejszych ustaleń MSZ w niedzielę po południu odwołało udział swojej przedstawicielki w rozmowach w Budapeszcie.",
+      "originalTitle": "Nawrocki u Orbana bez materiałów MSZ. Kulisy wizyty prezydenta u sojusznika Putina",
+      "originalDescription": "Kancelaria prezydenta nie wystąpiła do MSZ o przygotowanie materiałów do rozmowy Karola Nawrockiego z Viktorem Orbanem - ujawnił Patryk Michalski, autor podcastu \"News Michalskiego\" w TVN24+. Rzecznik prezydenta twierdzi, że mimo wcześniejszych ustaleń MSZ w niedzielę po południu odwołało udział swojej przedstawicielki w rozmowach w Budapeszcie."
+    },
+    {
+      "title": "Alert RCB. \"Nie wietrz pomieszczeń\"",
+      "link": "https://tvn24.pl/tvnmeteo/smog/alert-rcb-nie-wietrz-pomieszczen-st8963704?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:51:11 GMT",
+      "description": "Smog. Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed złą jakością powietrza. Wiadomość z alertem trafiła we wtorek do mieszkańców jednego powiatu.",
+      "originalTitle": "Alert RCB. \"Nie wietrz pomieszczeń\"",
+      "originalDescription": "Smog. Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed złą jakością powietrza. Wiadomość z alertem trafiła we wtorek do mieszkańców jednego powiatu."
+    },
+    {
+      "title": "Ranny motocyklista na Południowej Obwodnicy Warszawy. Ogromne utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-ranny-motocyklista-na-poludniowej-obwodnicy-warszawy-ogromne-utrudnienia-st8963686?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:48:12 GMT",
+      "description": "Na Południowej Obwodnicy Warszawy w rejonie węzła Lotnisko doszło do wypadku z udziałem motocyklisty - dowiedział się nasz reporter. Są ogromne utrudnienia w ruchu. Jezdnia w kierunku Wawra została zablokowana.",
+      "originalTitle": "Ranny motocyklista na Południowej Obwodnicy Warszawy. Ogromne utrudnienia",
+      "originalDescription": "Na Południowej Obwodnicy Warszawy w rejonie węzła Lotnisko doszło do wypadku z udziałem motocyklisty - dowiedział się nasz reporter. Są ogromne utrudnienia w ruchu. Jezdnia w kierunku Wawra została zablokowana."
+    },
+    {
+      "title": "Wjechał autem w sklep i uciekł, na miejscu zostawił 22-latkę. Policja już wie, kto prowadził",
       "link": "https://tvn24.pl/rzeszow/brzozow-wjechal-autem-w-sklep-i-uciekl-na-miejscu-zostawil-22-latke-policja-ustalila-kierowce-st8963597?source=rss",
       "pubDate": "Tue, 24 Mar 2026 07:45:04 GMT",
-      "description": "• Policja ustaliła kierowcę opla, który w weekend wjechał w budynek sklepu w Brzozowie i uciekł z miejsca zdarzenia.\n• Kierowcą był 27-letni mężczyzna.\n• Mężczyzna był mieszkańcem powiatu jasielskiego.\n��� Kierowca nie miał prawa jazdy.\n• W aucie kierowcy policjanci znaleźli marihuanę.",
+      "description": "Policja ustaliła kierowcę opla, który w weekend wjechał w budynek sklepu w Brzozowie i uciekł z miejsca zdarzenia. Okazało się, że to 27-letni mieszkaniec powiatu jasielskiego. Mężczyzna nie miał prawa jazdy, a w jego aucie policjanci znaleźli marihuanę.",
       "originalTitle": "Wjechał autem w sklep i uciekł, na miejscu zostawił 22-latkę. Policja już wie, kto prowadził",
       "originalDescription": "Policja ustaliła kierowcę opla, który w weekend wjechał w budynek sklepu w Brzozowie i uciekł z miejsca zdarzenia. Okazało się, że to 27-letni mieszkaniec powiatu jasielskiego. Mężczyzna nie miał prawa jazdy, a w jego aucie policjanci znaleźli marihuanę."
     },
     {
-      "title": "Lionel Jospin zmarł w wieku 88 lat",
+      "title": "Francja żegna byłego premiera. Lionel Jospin zmarł w wieku 88 lat",
       "link": "https://tvn24.pl/swiat/nie-zyje-lionel-jospin-byly-socjalistyczny-premier-francji-i-architekt-krotszego-tygodnia-pracy-mial-88-lat-st8963643?source=rss",
       "pubDate": "Tue, 24 Mar 2026 07:41:30 GMT",
-      "description": "• Nie żyje były socjalistyczny premier Francji, Lionel Jospin.\n• Był architektem 35-godzinnego tygodnia pracy.\n• Prezydent Emmanuel Macron określił go jako wybitną postać francuskiej polityki.\n• Prezydent Emmanuel Macron napisał, że Lionel Jospin \"Dzięki swej rzetelności, odwadze, idei postępu ucieleśniał wzniosły ideał Republiki\".",
+      "description": "Nie żyje były socjalistyczny premier Francji, Lionel Jospin. Był architektem 35-godzinnego tygodnia pracy. Prezydent Emmanuel Macron określił go jako wybitną postać francuskiej polityki. \"Dzięki swej rzetelności, odwadze, idei postępu ucieleśniał wzniosły ideał Republiki\" - napisał.",
       "originalTitle": "Francja żegna byłego premiera. Lionel Jospin zmarł w wieku 88 lat",
       "originalDescription": "Nie żyje były socjalistyczny premier Francji, Lionel Jospin. Był architektem 35-godzinnego tygodnia pracy. Prezydent Emmanuel Macron określił go jako wybitną postać francuskiej polityki. \"Dzięki swej rzetelności, odwadze, idei postępu ucieleśniał wzniosły ideał Republiki\" - napisał."
     },
@@ -26,14 +66,6 @@
       "description": "Prezydent Mołdawii Maia Sandu przekazała, że ataki na infrastrukturę energetyczną na Ukrainie spowodowały odłączenie kluczowego połączenia energetycznego tego kraju z Europą. \"Alternatywne trasy są dostępne, ale sytuacja pozostaje niestabilna\" - napisała Sandu w serwisie X.",
       "originalTitle": "Odcięte kluczowe połączenie energetyczne Mołdawii z Europą. \"Odpowiedzialność ponosi wyłącznie Rosja\"",
       "originalDescription": "Prezydent Mołdawii Maia Sandu przekazała, że ataki na infrastrukturę energetyczną na Ukrainie spowodowały odłączenie kluczowego połączenia energetycznego tego kraju z Europą. \"Alternatywne trasy są dostępne, ale sytuacja pozostaje niestabilna\" - napisała Sandu w serwisie X."
-    },
-    {
-      "title": "Eksplozja w rafinerii w Teksasie. Czarny dym nad miastem",
-      "link": "https://tvn24.pl/swiat/eksplozja-w-rafinerii-w-teksasie-czarny-dym-nad-miastem-st8963640?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 07:38:48 GMT",
-      "description": "W rafinerii ropy naftowej Valero w Port Arthur w stanie Teksas doszło do eksplozji - poinformowały władze. Kłęby czarnego dymu były widoczne z odległości wielu kilometrów.",
-      "originalTitle": "Eksplozja w rafinerii w Teksasie. Czarny dym nad miastem",
-      "originalDescription": "W rafinerii ropy naftowej Valero w Port Arthur w stanie Teksas doszło do eksplozji - poinformowały władze. Kłęby czarnego dymu były widoczne z odległości wielu kilometrów."
     },
     {
       "title": "Mknął przez miasto jak po autostradzie i uciekał przed policją",
@@ -50,38 +82,6 @@
       "description": "Nie żyje 63-letni kierowca audi, który zginął w wypadku na drodze krajowej nr 10 w Przyłubiu. Ofiara to znany bydgoski śpiewak operowy Janusz Ratajczak. Według wstępnych ustaleń policji kierujący ciężarówką zjechał na przeciwległy pas ruchu i doprowadził do zderzenia z trzema samochodami osobowymi.",
       "originalTitle": "Nie żyje solista Opery Nova. Śpiewak zginął w tragicznym wypadku drogowym w Przyłubiu",
       "originalDescription": "Nie żyje 63-letni kierowca audi, który zginął w wypadku na drodze krajowej nr 10 w Przyłubiu. Ofiara to znany bydgoski śpiewak operowy Janusz Ratajczak. Według wstępnych ustaleń policji kierujący ciężarówką zjechał na przeciwległy pas ruchu i doprowadził do zderzenia z trzema samochodami osobowymi."
-    },
-    {
-      "title": "Wulgarne słowa ministry. \"Ja się nie wstydzę, mam to po tacie\"",
-      "link": "https://tvn24.pl/polska/ministra-marta-cienkowska-o-wulgarnych-slowach-nie-wstydze-sie-mam-to-po-tacie-st8963606?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 07:19:44 GMT",
-      "description": "Ministra kultury Marta Cienkowska była pytana w \"Rozmowie Piaseckiego\" w TVN24 o wulgarne wiadomości, które pisała na grupie polityków Polski 2050. Przyznała, że używa takiego języka w prywatnych rozmowach i się tego nie wstydzi.",
-      "originalTitle": "Wulgarne słowa ministry. \"Ja się nie wstydzę, mam to po tacie\"",
-      "originalDescription": "Ministra kultury Marta Cienkowska była pytana w \"Rozmowie Piaseckiego\" w TVN24 o wulgarne wiadomości, które pisała na grupie polityków Polski 2050. Przyznała, że używa takiego języka w prywatnych rozmowach i się tego nie wstydzi."
-    },
-    {
-      "title": "Zachorowało 150 osób, zakazali sprzedaży popularnego dania",
-      "link": "https://tvn24.pl/biznes/turystyka/zakazali-sprzedazy-surowych-owocow-morza-wzrost-zachorowan-na-wirusowe-zapalenie-watroby-st8963532?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 07:00:32 GMT",
-      "description": "Władze Neapolu wprowadziły zakaz serwowania surowych owoców morza w lokalnych restauracjach. Decyzja ma związek ze wzrostem liczby przypadków wirusowego zapalenia wątroby typu A odnotowanych w mieście. Za nieprzestrzeganie nowych przepisów grożą ogromne kary.",
-      "originalTitle": "Zachorowało 150 osób, zakazali sprzedaży popularnego dania",
-      "originalDescription": "Władze Neapolu wprowadziły zakaz serwowania surowych owoców morza w lokalnych restauracjach. Decyzja ma związek ze wzrostem liczby przypadków wirusowego zapalenia wątroby typu A odnotowanych w mieście. Za nieprzestrzeganie nowych przepisów grożą ogromne kary."
-    },
-    {
-      "title": "Pożar w hali zakładu cukierniczego",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/marianow-pozar-w-hali-zakladu-cukierniczego-st8963557?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 06:59:00 GMT",
-      "description": "W powiecie wołomińskim wybuchł nad ranem pożar w hali produkcyjnej zakładu cukierniczego. Z ogniem walczyło 11 zastępów straży pożarnej. Nikt nie ucierpiał.",
-      "originalTitle": "Pożar w hali zakładu cukierniczego",
-      "originalDescription": "W powiecie wołomińskim wybuchł nad ranem pożar w hali produkcyjnej zakładu cukierniczego. Z ogniem walczyło 11 zastępów straży pożarnej. Nikt nie ucierpiał."
-    },
-    {
-      "title": "Prognoza zagrożeń IMGW. W kolejne dni aura może nam zagrozić na wiele sposobów",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-przymrozki-opady-sniegu-tu-moze-obficie-sypnac-sniegiem-st8961830?source=rss",
-      "pubDate": "Tue, 24 Mar 2026 06:56:00 GMT",
-      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń na kolejne dni. Wynika z niej, że pogoda ma w zanadrzu wiele niebezpiecznych zjawisk, w tym tych bardziej charakterystycznych dla zimy niż początku wiosny.",
-      "originalTitle": "Prognoza zagrożeń IMGW. W kolejne dni aura może nam zagrozić na wiele sposobów",
-      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń na kolejne dni. Wynika z niej, że pogoda ma w zanadrzu wiele niebezpiecznych zjawisk, w tym tych bardziej charakterystycznych dla zimy niż początku wiosny."
     }
   ]
 }
