@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-24T08:47:42.497Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-24T09:22:22.629Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "TSUE wydał wyrok w sprawie sędziów",
+      "link": "https://tvn24.pl/polska/tsue-zdecydowal-w-sprawie-polskich-sedziow-st8963864?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 09:13:25 GMT",
+      "description": "• Nieprawidłowość, której dopuszczono się przy powołaniu sędziego, nie wystarczy sama w sobie, by stwierdzić, że sędzia ten nie jest niezawisły.\n• Trybunał Sprawiedliwości Unii Europejskiej orzekł, że nieprawidłowość przy powołaniu sędziego nie jest wystarczającym powodem do stwierdzenia braku niezawisłości sędziego.",
+      "originalTitle": "TSUE zdecydował w sprawie polskich sędziów",
+      "originalDescription": "Nieprawidłowość, której dopuszczono się przy powołaniu sędziego, nie wystarczy sama w sobie, by stwierdzić, że sędzia ten nie jest niezawisły - orzekł Trybunał Sprawiedliwości Unii Europejskiej."
+    },
+    {
+      "title": "Wypadek na trasie S2, ranny motocyklista",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-ranny-motocyklista-na-poludniowej-obwodnicy-warszawy-ogromne-utrudnienia-st8963686?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:48:12 GMT",
+      "description": "Na Południowej Obwodnicy Warszawy w rejonie węzła Lotnisko doszło do wypadku z udziałem motocyklisty. Są ogromne utrudnienia w ruchu na obu jezdniach. Z powodu zatoru, drogowcy ograniczali możliwość wjazdu do tunelu.",
+      "originalTitle": "W ciężarówce wystrzeliła opona, ranny motocyklista. Ogromne utrudnienia na trasie S2",
+      "originalDescription": "Na Południowej Obwodnicy Warszawy w rejonie węzła Lotnisko doszło do wypadku z udziałem motocyklisty. Są ogromne utrudnienia w ruchu na obu jezdniach. Z powodu zatoru, drogowcy ograniczali możliwość wjazdu do tunelu."
+    },
+    {
+      "title": "Kolizja dwóch pociągów",
+      "link": "https://tvn24.pl/poznan/gniezno-dwa-pociagi-znalazly-sie-na-jednym-torze-st8963850?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 09:08:08 GMT",
+      "description": "W Gnieźnie doszło do bardzo niebezpiecznej sytuacji. Na linii kolejowej Poznań - Bydgoszcz na jednym torze znalazły się dwa pociągi jadące w przeciwnych kierunkach. Na szczęście nie doszło do ich zderzenia.",
+      "originalTitle": "Dwa pociągi znalazły się na jednym torze",
+      "originalDescription": "W Gnieźnie doszło do bardzo niebezpiecznej sytuacji. Na linii kolejowej Poznań - Bydgoszcz na jednym torze znalazły się dwa pociągi jadące w przeciwnych kierunkach. Na szczęście nie doszło do ich zderzenia."
+    },
+    {
+      "title": "Wypadek lotniczy: 2 pilotów zginęło, 1 osoba przeżyła",
+      "link": "https://tvn24.pl/swiat/katastrofa-samolotu-air-canada-express-piloci-zgineli-stewardesa-przezyla-ekspert-zwrocil-uwage-na-wazny-element-st8963689?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 08:46:01 GMT",
+      "description": "• Stewardesa przeżyła katastrofę na lotnisku LaGuardia w Nowym Jorku.\n• Siła uderzenia wyrzuciła ją z samolotu na odległość ponad stu metrów.\n• Ofiarą katastrofy była Solange Tremblay.\n• Solange Tremblay pracowała na pokładzie podczas tragicznego rejsu.\n• Rejs, w którym uczestniczyła Solange Tremblay, był lotem Air Canada Express.\n• O Solange Tremblay pisze wiele mediów.",
+      "originalTitle": "Piloci zginęli, stewardesa przeżyła. Ekspert zwrócił uwagę na ważny element",
+      "originalDescription": "Stewardesa przeżyła katastrofę na lotnisku LaGuardia w Nowym Jorku, mimo że siła uderzenia wyrzuciła ją z samolotu na odległość ponad stu metrów. O Solange Tremblay pracującej na pokładzie podczas tragicznego rejsu Air Canada Express pisze wiele mediów."
+    },
+    {
+      "title": "Zagubiony wąż odnaleziony w Elblągu",
+      "link": "https://tvn24.pl/olsztyn/elblag-poszukiwany-waz-sam-wrocil-do-wlasciciela-st8963740?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 08:20:04 GMT",
+      "description": "• Zakończyły się poszukiwania węża.\n• Wąż uciekł z mieszkania w Elblągu.\n• Wąż uciekł ponad dwa tygodnie temu.\n• Zwierzę samo wróciło do właściciela.\n• Służby odwołały akcj��.",
+      "originalTitle": "Poszukiwany wąż sam wrócił do właściciela. Szczęśliwy finał akcji w Elblągu",
+      "originalDescription": "Zakończyły się poszukiwania węża, który ponad dwa tygodnie temu uciekł z mieszkania w Elblągu. Zwierzę samo wróciło do właściciela, a służby odwołały akcję."
+    },
+    {
+      "title": "Powódź dotknęła południe, północ sprząta",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/polnoc-sprzata-po-powodzi-poludnie-zostalo-zalane-st8963553?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 08:07:52 GMT",
+      "description": "Mieszkańcy północnej części wyspy O'ahu w archipelagu Hawajów próbują otrząsnąć się z powodzi, która nawiedziła ich w ubiegłym tygodniu. Woda zalała wiele budynków, pozbawiając mieszkańców dobytku. W poniedziałek żywioł zaatakował ponownie, tym razem w południowej części wyspy.",
+      "originalTitle": "Północ sprząta po powodzi, południe zostało zalane",
+      "originalDescription": "Mieszkańcy północnej części wyspy O'ahu w archipelagu Hawajów próbują otrząsnąć się z powodzi, która nawiedziła ich w ubiegłym tygodniu. Woda zalała wiele budynków, pozbawiając mieszkańców dobytku. W poniedziałek żywioł zaatakował ponownie, tym razem w południowej części wyspy."
+    },
+    {
+      "title": "Wybory w Danii rozpoczęte",
+      "link": "https://tvn24.pl/swiat/wybory-w-danii-czy-trump-pomoze-obecnej-premierce-kto-ma-szanse-stworzyc-koalicje-st8962792?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 08:01:29 GMT",
+      "description": "Czy \"obrończyni suwerenności królestwa\" po raz kolejny zostanie premierką Danii? We wtorek Duńczycy, a także mieszkańcy Grenlandii i Wysp Owczych wybierają 179 posłów do duńskiego parlamentu. Wiele wskazuje na to, że o tym, jak będzie wyglądała przyszła koalicja rządząca, zdecyduje obecny - \"pragmatyczny i nonszalancki\" - szef dyplomacji.",
+      "originalTitle": "Wybory w Danii. Czy Trump pomoże obecnej premierce?",
+      "originalDescription": "Czy \"obrończyni suwerenności królestwa\" po raz kolejny zostanie premierką Danii? We wtorek Duńczycy, a także mieszkańcy Grenlandii i Wysp Owczych wybierają 179 posłów do duńskiego parlamentu. Wiele wskazuje na to, że o tym, jak będzie wyglądała przyszła koalicja rządząca, zdecyduje obecny - \"pragmatyczny i nonszalancki\" - szef dyplomacji."
+    },
+    {
+      "title": "Nawrocki u Orbana bez materiałów MSZ. Kulisy wizyty prezydenta u sojusznika Putina",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-u-viktora-orbana-bez-materialow-msz-kulisy-wizyty-prezydenta-u-sojusznika-putina-st8963472?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:52:52 GMT",
+      "description": "Kancelaria prezydenta nie wystąpiła do MSZ o przygotowanie materiałów do rozmowy Karola Nawrockiego z Viktorem Orbanem - ujawnił Patryk Michalski, autor podcastu \"News Michalskiego\" w TVN24+. Rzecznik prezydenta twierdzi, że mimo wcześniejszych ustaleń MSZ w niedzielę po południu odwołało udział swojej przedstawicielki w rozmowach w Budapeszcie.",
+      "originalTitle": "Nawrocki u Orbana bez materiałów MSZ. Kulisy wizyty prezydenta u sojusznika Putina",
+      "originalDescription": "Kancelaria prezydenta nie wystąpiła do MSZ o przygotowanie materiałów do rozmowy Karola Nawrockiego z Viktorem Orbanem - ujawnił Patryk Michalski, autor podcastu \"News Michalskiego\" w TVN24+. Rzecznik prezydenta twierdzi, że mimo wcześniejszych ustaleń MSZ w niedzielę po południu odwołało udział swojej przedstawicielki w rozmowach w Budapeszcie."
+    },
+    {
+      "title": "Zalecenia RCB dotyczące wentylacji",
+      "link": "https://tvn24.pl/tvnmeteo/smog/alert-rcb-nie-wietrz-pomieszczen-st8963704?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:51:11 GMT",
+      "description": "Smog. Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed złą jakością powietrza. Wiadomość z alertem trafiła we wtorek do mieszkańców jednego powiatu.",
+      "originalTitle": "Alert RCB. \"Nie wietrz pomieszczeń\"",
+      "originalDescription": "Smog. Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega przed złą jakością powietrza. Wiadomość z alertem trafiła we wtorek do mieszkańców jednego powiatu."
+    },
+    {
+      "title": "Wjechał autem w sklep i uciekł, na miejscu zostawił 22-latkę. Policja już wie, kto prowadził",
+      "link": "https://tvn24.pl/rzeszow/brzozow-wjechal-autem-w-sklep-i-uciekl-na-miejscu-zostawil-22-latke-policja-ustalila-kierowce-st8963597?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 07:45:04 GMT",
+      "description": "Policja ustaliła kierowcę opla, który w weekend wjechał w budynek sklepu w Brzozowie i uciekł z miejsca zdarzenia. Okazało się, że to 27-letni mieszkaniec powiatu jasielskiego. Mężczyzna nie miał prawa jazdy, a w jego aucie policjanci znaleźli marihuanę.",
+      "originalTitle": "Wjechał autem w sklep i uciekł, na miejscu zostawił 22-latkę. Policja już wie, kto prowadził",
+      "originalDescription": "Policja ustaliła kierowcę opla, który w weekend wjechał w budynek sklepu w Brzozowie i uciekł z miejsca zdarzenia. Okazało się, że to 27-letni mieszkaniec powiatu jasielskiego. Mężczyzna nie miał prawa jazdy, a w jego aucie policjanci znaleźli marihuanę."
+    }
+  ]
 }
