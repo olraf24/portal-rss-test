@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-24T12:48:44.178Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-24T13:34:43.878Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pożar pod Piłą, dwoje dzieci zmarło",
+      "link": "https://tvn24.pl/poznan/wysoka-tragiczny-pozar-nie-zyje-dwoje-dzieci-st8963877?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 09:21:24 GMT",
+      "description": "• W Wysokiej w Wielkopolsce doszło do pożaru domu.\n• W pożarze zginęła dwójka dzieci.\n• Ofiary to półtoraroczny chłopiec.\n• Ofiary to dziewczynka w wieku trzech lat.",
+      "originalTitle": "Tragiczny pożar pod Piłą. Nie żyje dwoje dzieci",
+      "originalDescription": "W Wysokiej w Wielkopolsce w pożarze domu zginęła dwójka dzieci. Ofiary to półtoraroczny chłopiec oraz dziewczynka w wieku trzech lat."
+    },
+    {
+      "title": "Rzecznik rządu przeprasza za wypowiedź",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-porodowce-w-lesku-rzecznik-rzadu-adam-szlapka-przeprasza-st8964786?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 13:28:50 GMT",
+      "description": "• Mam bezpośrednie upoważnienie od pana premiera.\n• Chciałbym bardzo serdecznie przeprosić za wprowadzenie opinii publicznej w błąd w sprawie związanej z porodówką w Lesku.\n• Rzecznik rządu to Adam Szłapka.\n• Adam Szłapka wypowiedział się po posiedzeniu Rady Ministrów.\n• Chodzi o wypowiedź Donalda Tuska.\n• Wypowiedź Donalda Tuska była w programie \"#BezKitu\".\n• Program \"#BezKitu\" jest emitowany w TVN24.",
+      "originalTitle": "Rzecznik rządu przeprasza w imieniu premiera. Chodzi o wypowiedź z TVN24",
+      "originalDescription": "Mam bezpośrednie upoważnienie od pana premiera. Chciałbym bardzo serdecznie przeprosić za wprowadzenie opinii publicznej w błąd w sprawie związanej z porodówką w Lesku - powiedział rzecznik rządu Adam Szłapka po posiedzeniu Rady Ministrów. Chodzi o wypowiedź Donalda Tuska z programu \"#BezKitu\" w TVN24."
+    },
+    {
+      "title": "Polski gigant komentuje zamieszanie",
+      "link": "https://tvn24.pl/biznes/rynki/orlen-obniza-hurtowe-ceny-paliw-nie-mielismy-do-czynienia-z-takim-zamieszaniem-st8964207?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 13:27:17 GMT",
+      "description": "• Orlen zdecydował o obniżce hurtowych cen paliw.\n• Cena benzyny bezołowiowej Eurosuper 95 została zmniejszona o 45 złotych.\n• Cena oleju napędowego Ekodiesel została zmniejszona o 87 złotych.\n• Obniżka dotyczy cen za metr sześcienny.",
+      "originalTitle": "\"Nie mieliśmy do czynienia z takim zamieszaniem\". Polski gigant reaguje",
+      "originalDescription": "Orlen zdecydował o obniżce hurtowych cen paliw. Cena benzyny bezołowiowej Eurosuper 95 została zmniejszona o 45 złotych, natomiast oleju napędowego Ekodiesel o 87 złotych za metr sześcienny."
+    },
+    {
+      "title": "Bill Cosby skazany za napaść seksualną",
+      "link": "https://tvn24.pl/kultura-i-styl/usa-bill-cosby-winny-napasci-sprzed-50-lat-musi-zaplacic-gigantyczne-odszkodowanie-zapadl-wyrok-st8964156?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 13:16:07 GMT",
+      "description": "Ława przysięgłych sądu w Santa Monica w Kalifornii uznała w poniedziałek Billa Cosby'ego winnym odurzenia kobiety i napaści seksualnej na nią w 1972 roku. Nakazała mu zapłacenie 19,25 mln dolarów odszkodowania (ok. 71 mln zł). Obrona słynnego komika zapowiedziała apelację.",
+      "originalTitle": "Bill Cosby skazany za napaść seksualną sprzed pół wieku. Gigantyczne odszkodowanie",
+      "originalDescription": "Ława przysięgłych sądu w Santa Monica w Kalifornii uznała w poniedziałek Billa Cosby'ego winnym odurzenia kobiety i napaści seksualnej na nią w 1972 roku. Nakazała mu zapłacenie 19,25 mln dolarów odszkodowania (ok. 71 mln zł). Obrona słynnego komika zapowiedziała apelację."
+    },
+    {
+      "title": "Celine Dion planuje koncerty",
+      "link": "https://tvn24.pl/kultura-i-styl/media-celine-dion-wraca-do-koncertowania-wystapi-w-jednym-miescie-st8964412?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 13:05:24 GMT",
+      "description": "• Celine Dion będzie koncertowała w Paryżu jesienią.\n• Informację o planowanych koncertach przekazała kanadyjsko-francuska gazeta \"La Presse\".\n• Na ulicach francuskiej stolicy pojawiły się plakaty sugerujące, że gwiazda planuje nowe aktywności.\n• Celine Dion nie potwierdziła dotąd doniesień o koncertach.",
+      "originalTitle": "Media: Celine Dion wraca do koncertowania",
+      "originalDescription": "Celine Dion jesienią będzie koncertowała w Paryżu - przekazała kanadyjsko-francuska gazeta \"La Presse\". Na ulicach francuskiej stolicy pojawiły się już plakaty sugerujące, że gwiazda planuje nowe aktywności. Ona sama nie potwierdziła jednak dotąd doniesień o koncertach."
+    },
+    {
+      "title": "Musk omawia plany Terafab i dostępność chipów",
+      "link": "https://tvn24.pl/biznes/tech/elon-musk-albo-zbudujemy-terafab-albo-nie-bedziemy-miec-chipow-st8964140?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 12:57:24 GMT",
+      "description": "• Elon Musk zapowiedział, że SpaceX i Tesla zbudują w Teksasie dwa zaawansowane zakłady produkcji chipów.\n• Zakłady te będą częścią kompleksu nazwanego Terafab.\n• Jeden z zakładów ma wytwarzać układy dla samochodów Tesli.\n• Ten sam zakład ma również wytwarzać układy dla humanoidalnych robotów Optimus.\n• Drugi zakład ma produkować chipy przeznaczone dla kosmicznych centrów danych.\n• Kosmiczne centra danych będą oparte na sztucznej inteligencji.",
+      "originalTitle": "Musk: albo zbudujemy Terafab, albo nie będziemy mieć chipów",
+      "originalDescription": "Elon Musk zapowiedział, że SpaceX i Tesla zbudują w Teksasie dwa zaawansowane zakłady produkcji chipów w ramach kompleksu nazwanego Terafab. Jak przekazał, jeden z nich ma wytwarzać układy dla samochodów Tesli i humanoidalnych robotów Optimus, a drugi - chipy przeznaczone dla kosmicznych centrów danych opartych na sztucznej inteligencji."
+    },
+    {
+      "title": "13-latek zmarł po niepowstaniu rano",
+      "link": "https://tvn24.pl/rzeszow/harklowa-13-latek-nie-wstal-rano-do-szkoly-nie-zyje-st8964502?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 12:50:45 GMT",
+      "description": "• Policja i prokuratura wyjaśniają przyczyny i okoliczności śmierci 13-latka.\n• Zdarzenie miało miejsce w Harklowej na Podkarpaciu.\n• Chłopiec nie wstał do szkoły.\n• Nie udało się go uratować.",
+      "originalTitle": "13-latek nie wstał rano do szkoły, nie żyje",
+      "originalDescription": "Policja i prokuratura wyjaśniają przyczyny i okoliczności śmierci 13-latka w Harklowej na Podkarpaciu. Chłopiec nie wstał do szkoły, nie udało się go uratować."
+    },
+    {
+      "title": "Trzy incydenty, oczekiwany czwarty",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/australia-cyklon-narelle-uderzyl-juz-trzy-razy-ma-to-zrobic-po-raz-czwarty-st8964013?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 12:34:15 GMT",
+      "description": "Cyklon Narelle przetacza się od kilku dni przez północną Australię. Według prognoz po trzykrotnym uderzeniu w kontynent ma się znaleźć na lądzie po raz czwarty. Zdaniem meteorologa z portalu AccuWeather, coś takiego nie zdarza się często.",
+      "originalTitle": "Uderzył już trzy razy, ma to zrobić po raz czwarty",
+      "originalDescription": "Cyklon Narelle przetacza się od kilku dni przez północną Australię. Według prognoz po trzykrotnym uderzeniu w kontynent ma się znaleźć na lądzie po raz czwarty. Zdaniem meteorologa z portalu AccuWeather, coś takiego nie zdarza się często."
+    },
+    {
+      "title": "Pleśń a przewlekłe objawy",
+      "link": "https://tvn24.pl/zdrowie/plesn-w-domu-czy-naprawde-moze-szkodzic-zdrowiu-lekarka-wyjasnia-fakty-i-mity-st8962500?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 12:33:29 GMT",
+      "description": "Zatruciu pleśnią obecną w wilgotnych pomieszczeniach przypisuje się przewlekłe objawy takie jak mgła mózgowa, uogólnione bóle i stany depresyjne. Na rynku dostępne są mykotesty z moczu, pozwalające wykryć toksyczne substancje wytwarzane przez niektóre gatunki pleśni. Ich koszt przekracza 2000 złotych. Czy warto je robić? Specjalistka od chorób wewnętrznych, alergologii i immunologii klinicznej, wyjaśnia, w jaki sposób pleśń faktycznie może szkodzić naszemu zdrowiu.",
+      "originalTitle": "Pleśń wywołuje przewlekłe objawy? Z immunologiem wyjaśniamy, co na to nauka",
+      "originalDescription": "Zatruciu pleśnią obecną w wilgotnych pomieszczeniach przypisuje się przewlekłe objawy takie jak mgła mózgowa, uogólnione bóle i stany depresyjne. Na rynku dostępne są mykotesty z moczu, pozwalające wykryć toksyczne substancje wytwarzane przez niektóre gatunki pleśni. Ich koszt przekracza 2000 złotych. Czy warto je robić? Specjalistka od chorób wewnętrznych, alergologii i immunologii klinicznej, wyjaśnia, w jaki sposób pleśń faktycznie może szkodzić naszemu zdrowiu."
+    },
+    {
+      "title": "W tych krajach odetchniesz najlepszym powietrzem. Trzy w Europie",
+      "link": "https://tvn24.pl/tvnmeteo/smog/jakosc-powietrza-na-swiecie-2025-wedlug-raportu-iqair-91-procent-krajow-nie-spelnia-limitu-zanieczyszczen-ustalonego-przez-who-st8964027?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 12:24:36 GMT",
+      "description": "Według najnowszego raportu \"Jakość powietrza na świecie w 2025 roku\", przygotowywanego corocznie przez szwajcarską firmę IQAir, zaledwie 13 krajów spełniało limity dla pyłu zawieszonego PM2,5 zgodne z wytycznymi WHO. W porównaniu do ubiegłorocznych danych w miastach oddycha się gorzej.",
+      "originalTitle": "W tych krajach odetchniesz najlepszym powietrzem. Trzy w Europie",
+      "originalDescription": "Według najnowszego raportu \"Jakość powietrza na świecie w 2025 roku\", przygotowywanego corocznie przez szwajcarską firmę IQAir, zaledwie 13 krajów spełniało limity dla pyłu zawieszonego PM2,5 zgodne z wytycznymi WHO. W porównaniu do ubiegłorocznych danych w miastach oddycha się gorzej."
+    }
+  ]
 }
