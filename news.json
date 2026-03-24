@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-24T16:50:47.768Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-24T17:23:51.833Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Sędzia może stracić stanowisko z powodu opóźnień",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/kozienice-zalegal-ze-sporzadzaniem-uzasadnien-wkrotce-moze-przestac-byc-sedzia-st8965096?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 17:16:44 GMT",
+      "description": "• Od co najmniej 2017 roku miał problem ze sporządzaniem uzasadnień do wydawanych przez siebie wyroków.\n• Sąd dyscyplinarny zadecydował w sprawie sędziego Michała Mańkowskiego z Kozienic (Mazowieckie).\n• Sędzia Michał Mańkowski zalegał z nawet setką uzasadnień.\n• Sąd dyscyplinarny wymierzył najsurowszą w tym przypadku karę.",
+      "originalTitle": "Zalegał ze sporządzaniem uzasadnień. Wkrótce może przestać być sędzią",
+      "originalDescription": "Od co najmniej 2017 roku miał problem ze sporządzaniem uzasadnień do wydawanych przez siebie wyroków. Sąd dyscyplinarny zadecydował w sprawie sędziego Michała Mańkowskiego z Kozienic (Mazowieckie), który zalegał z nawet setką uzasadnień i wymierzył najsurowszą w tym przypadku karę."
+    },
+    {
+      "title": "Wizyta Łukaszenki na Białorusi",
+      "link": "https://tvn24.pl/swiat/bialorus-alaksandr-lukaszenka-uda-sie-do-korei-polnocnej-pierwsza-taka-wizyta-st8965092?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 16:46:13 GMT",
+      "description": "• Alaksandr Łukaszenka uda się do Korei Północnej.\n• Poinformowały o tym północnokoreańskie media.\n• Będzie to pierwsza wizyta białoruskiego przywódcy w tym kraju.",
+      "originalTitle": "Pierwsza taka wizyta Łukaszenki. Strona białoruska zabiegała o to \"przynajmniej od dwóch lat\"",
+      "originalDescription": "Alaksandr Łukaszenka uda się do Korei Północnej - poinformowały północnokoreańskie media. Będzie to pierwsza wizyta białoruskiego przywódcy w tym kraju."
+    },
+    {
+      "title": "Bocian powrócił do gniazda z partnerką",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mazury-bocian-krutek-slynny-bocian-powital-w-gniezdzie-partnerke-st8965057?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 16:40:28 GMT",
+      "description": "• Do słynnego, mazurskiego bociana Krutka przyleciała we wtorek jego partnerka.\n• Para wspólnie uzupełnia braki w gnieździe.\n• Jeśli wszystko pójdzie dobrze, to samica złoży jaja, z których wyklują się m��ode.\n• Informację o tym podał Mazurski Park Krajobrazowy.",
+      "originalTitle": "Słynny bocian powitał w gnieździe partnerkę",
+      "originalDescription": "Do słynnego, mazurskiego bociana Krutka przyleciała we wtorek jego partnerka. Para wspólnie uzupełnia braki w gnieździe. Jeśli wszystko pójdzie dobrze, to samica złoży jaja, z których wyklują się młode - poinformował Mazurski Park Krajobrazowy."
+    },
+    {
+      "title": "Ruch monitorował dwóch kontrolerów na lotnisku",
+      "link": "https://tvn24.pl/swiat/tragedia-na-lotnisku-laguardia-w-usa-nowe-doniesienia-mediow-st8965126?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 16:33:23 GMT",
+      "description": "• W momencie wypadku samolotu na nowojorskim lotnisku LaGuardia wieżę kontroli lotów obsługiwało dwóch z czterech kontrolerów na służbie.\n• Informację tę podał Bloomberg we wtorek.\n• W wyniku zderzenia samolotu z wozem strażackim zginęło dwóch pilotów.",
+      "originalTitle": "\"Ruch monitorowało tylko dwóch kontrolerów\". Nowe informacje o tragedii na lotnisku",
+      "originalDescription": "W momencie wypadku samolotu na nowojorskim lotnisku LaGuardia wieżę kontroli lotów obsługiwało dwóch z czterech kontrolerów na służbie - podał we wtorek Bloomberg. W wyniku zderzenia samolotu z wozem strażackim zginęło dwóch pilotów."
+    },
+    {
+      "title": "Zmarł Gino Paoli w wieku 91 lat",
+      "link": "https://tvn24.pl/kultura-i-styl/gino-paoli-nie-zyje-slynny-wloski-piosenkarz-mial-91-lat-st8965128?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 16:30:52 GMT",
+      "description": "• Nie żyje Gino Paoli.\n• Był popularnym włoskim piosenkarzem, kompozytorem i autorem tekstów.\n• Nazywany był poetą piosenki.\n• Zmarł we wtorek.\n• Zmarł w Genui.\n• Miał 91 lat w momencie śmierci.",
+      "originalTitle": "Gino Paoli nie żyje. Słynny włoski piosenkarz miał 91 lat",
+      "originalDescription": "Nie żyje Gino Paoli. Popularny włoski piosenkarz, kompozytor i autor tekstów, nazywany poetą piosenki, zmarł we wtorek w Genui w wieku 91 lat."
+    },
+    {
+      "title": "Izrael tworzy strefę bezpieczeństwa",
+      "link": "https://tvn24.pl/swiat/izrael-tworzy-strefe-bezpieczenstwa-w-libanie-st8965021?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 16:10:49 GMT",
+      "description": "• Zasada jest jasna, że tam, gdzie jest terror i rakiety, nie będzie domów ani mieszkańców, będą tam siły Izraela.\n• Oświadczenie to zostało wygłoszone przez ministra obrony Izraela, Israela Kaca, we wtorek.\n• Minister Israel Kac zapowiedział stworzenie \"strefy bezpieczeństwa\" w południowym Libanie.\n• W ostatnich dniach Izrael zbombardował szereg mostów na rzece Litani.\n• Zbombardowanie mostów na rzece Litani spowodowało odcięcie południowego Libanu od reszty kraju.",
+      "originalTitle": "\"Zasada jest jasna\". Izrael tworzy \"strefę bezpieczeństwa\"",
+      "originalDescription": "Zasada jest jasna. Tam, gdzie jest terror i rakiety, nie będzie domów ani mieszkańców, będą tam siły Izraela - oświadczył we wtorek minister obrony Izraela Israel Kac, zapowiadając stworzenie \"strefy bezpieczeństwa\" w południowym Libanie. W ostatnich dniach Izrael zbombardował szereg mostów na rzece Litani, odcinając ten rejon od reszty kraju."
+    },
+    {
+      "title": "W brutalny sposób pobili kapibarę. \"To akt skrajnego okrucieństwa\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/brazylia-w-brutalny-sposob-pobili-kapibare-to-akt-skrajnego-okrucienstwa-st8964783?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 15:48:17 GMT",
+      "description": "Policja z Rio de Janeiro w Brazylii aresztowała w poniedziałek osiem osób, które w brutalny sposób pobiły kapibarę. - To zbrodnia, która szokuje całe społeczeństwo - powiedział Felipe Santoro, komisarz policji.",
+      "originalTitle": "W brutalny sposób pobili kapibarę. \"To akt skrajnego okrucieństwa\"",
+      "originalDescription": "Policja z Rio de Janeiro w Brazylii aresztowała w poniedziałek osiem osób, które w brutalny sposób pobiły kapibarę. - To zbrodnia, która szokuje całe społeczeństwo - powiedział Felipe Santoro, komisarz policji."
+    },
+    {
+      "title": "\"Nigdy bym w tę dotację nie weszła\". Po latach ZUS zmienił zdanie",
+      "link": "https://tvn24.pl/biznes/dlafirm/zus-i-dotacja-na-firme-spac-nie-moge-po-nocach-st8961984?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 15:46:12 GMT",
+      "description": "Zakładali firmy, korzystali z dotacji, byli pewni, że działają zgodnie z zasadami. Po latach dowiadują się, że mogą zostać wezwani do zwrotu pieniędzy wraz z wysokimi odsetkami. Dla przedsiębiorców to początek wieloletnich sporów z państwem - obciążających nie tylko finansowo, ale też psychicznie. - Dla wielu osób to koszt nie do udźwignięcia - mówi adwokat Wojciech Przybyła.",
+      "originalTitle": "\"Nigdy bym w tę dotację nie weszła\". Po latach ZUS zmienił zdanie",
+      "originalDescription": "Zakładali firmy, korzystali z dotacji, byli pewni, że działają zgodnie z zasadami. Po latach dowiadują się, że mogą zostać wezwani do zwrotu pieniędzy wraz z wysokimi odsetkami. Dla przedsiębiorców to początek wieloletnich sporów z państwem - obciążających nie tylko finansowo, ale też psychicznie. - Dla wielu osób to koszt nie do udźwignięcia - mówi adwokat Wojciech Przybyła."
+    },
+    {
+      "title": "Rosjanie zbudują im elektrownię jądrową. \"Fundament długoterminowego partnerstwa\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wietnam-rosja-zbuduje-elektrownie-jadrowa-ninh-thuan-1-st8964554?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 15:44:16 GMT",
+      "description": "W Wietnamie powstanie elektrownia jądrowa o mocy 2400 megawatów oparta na rosyjskiej technologii - informuje \"Vietnam Investment Review\". Umowę zawarto w Moskwie podczas wizyty wietnamskiego premiera Pham Minh Chinha.",
+      "originalTitle": "Rosjanie zbudują im elektrownię jądrową. \"Fundament długoterminowego partnerstwa\"",
+      "originalDescription": "W Wietnamie powstanie elektrownia jądrowa o mocy 2400 megawatów oparta na rosyjskiej technologii - informuje \"Vietnam Investment Review\". Umowę zawarto w Moskwie podczas wizyty wietnamskiego premiera Pham Minh Chinha."
+    },
+    {
+      "title": "Węgierski minister potwierdza telefony na Kreml. Mówi o \"istocie dyplomacji\"",
+      "link": "https://tvn24.pl/swiat/wegierski-minister-peter-szijjarto-potwierdza-telefony-do-rosji-st8964915?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 15:42:01 GMT",
+      "description": "Minister spraw zagranicznych Węgier Peter Szijjarto potwierdził, że regularnie konsultuje się ze swoim rosyjskim odpowiednikiem Sergiejem Ławrowem podczas spotkań na forum Unii Europejskiej - przekazał portal Euronews. Polityk przyznał, że omawiał z nim sytuację przed wyborami na Słowacji. Swoje kontakty z Kremlem tłumaczył \"istotą dyplomacji\".",
+      "originalTitle": "Węgierski minister potwierdza telefony na Kreml. Mówi o \"istocie dyplomacji\"",
+      "originalDescription": "Minister spraw zagranicznych Węgier Peter Szijjarto potwierdził, że regularnie konsultuje się ze swoim rosyjskim odpowiednikiem Sergiejem Ławrowem podczas spotkań na forum Unii Europejskiej - przekazał portal Euronews. Polityk przyznał, że omawiał z nim sytuację przed wyborami na Słowacji. Swoje kontakty z Kremlem tłumaczył \"istotą dyplomacji\"."
+    }
+  ]
 }
