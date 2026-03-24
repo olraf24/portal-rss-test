@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-24T01:36:39.211Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-24T03:03:59.215Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Myśliwce Polski wystartowały",
+      "link": "https://tvn24.pl/polska/polskie-mysliwce-poderwane-atak-rosji-na-ukraine-st8963492?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 02:14:55 GMT",
+      "description": "• W związku z atakami Rosji na Ukrainę rozpoczęło się operowanie wojskowego lotnictwa w naszej przestrzeni powietrznej.\n• Poinformowało o tym Dowództwo Operacyjne Rodzajów Sił Zbrojnych.",
+      "originalTitle": "Polskie myśliwce poderwane",
+      "originalDescription": "W związku z atakami Rosji na Ukrainę rozpoczęło się operowanie wojskowego lotnictwa w naszej przestrzeni powietrznej - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych."
+    },
+    {
+      "title": "Pogoda na wtorek: zachmurzenia, do 16 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-wtorek-24-03-miejscami-bedzie-sie-chmurzyc-do-16-stopni-st8963433?source=rss",
+      "pubDate": "Tue, 24 Mar 2026 01:00:00 GMT",
+      "description": "• We wtorek, 24.03, termometry pokażą maksymalnie 16 stopni Celsjusza.\n• Powieje umiarkowany wiatr.\n• Na zachodzie i Pomorzu wiatr będzie dość silny.\n• Lokalnie może popadać słaby deszcz.",
+      "originalTitle": "Pogoda na dziś - wtorek, 24.03. Miejscami będzie się chmurzyć, do 16 stopni",
+      "originalDescription": "Pogoda na dziś. We wtorek, 24.03, termometry pokażą maksymalnie 16 stopni Celsjusza. Powieje umiarkowany, na zachodzie i Pomorzu dość silny wiatr. Lokalnie może popadać słaby deszcz."
+    },
+    {
+      "title": "Loty na Bliski Wschód wstrzymane do października",
+      "link": "https://tvn24.pl/biznes/turystyka/lufthansa-przedluza-zawieszenie-lotow-na-bliski-wschod-niektore-do-pazdziernika-st8963424?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 21:26:51 GMT",
+      "description": "• Linie lotnicze należące do Lufthansa Group przedłużyły zawieszenie lotów do Iranu i niektórych części Bliskiego Wschodu.\n• Przedłużenie zawieszenia lotów nastąpiło w związku z wojną na Bliskim Wschodzie.\n• Zawieszenie lotów zostało przedłużone o kolejne kilka miesięcy.",
+      "originalTitle": "Loty na Bliski Wschód wstrzymane na dłużej. Niektóre do października",
+      "originalDescription": "Linie lotnicze należące do Lufthansa Group przedłużyły zawieszenie lotów do Iranu i niektórych części Bliskiego Wschodu o kolejne kilka miesięcy w związku z wojną na Bliskim Wschodzie."
+    },
+    {
+      "title": "Rozmowa Szijjarto z Ławrowem",
+      "link": "https://tvn24.pl/swiat/wegry-minister-spraw-zagranicznych-dzwonil-do-rosji-chodzilo-o-wsparcie-w-wyborach-na-slowacji-zapis-rozmowy-st8963430?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 21:20:28 GMT",
+      "description": "• Zbliżają się wybory na Słowacji.\n• Kluczowe dla Węgier jest, aby tamtejsza koalicja mogła trwać.\n• Szef dyplomacji Węgier odbył rozmowę ze swoim rosyjskim odpowiednikiem.\n• Rozmowa odbyła się w 2020 roku.\n• Treść rozmowy opublikował węgierski dziennikarz śledczy.\n• W rozmowie uczestniczyli Peter Szijjarto i Siergiej Ławrow.\n• Peter Szijjarto prosił Siergieja Ławrowa o wsparcie Rosji dla \"jedynej racjonalnej siły w słowackiej polityce\".\n• Peter Szijjarto wyjaśniał, na czym to wsparcie miałoby polegać.",
+      "originalTitle": "Dzwoni Szijjarto do Ławrowa. \"Orban poprosił mnie o tę rozmowę\"",
+      "originalDescription": "Zbliżają się wybory na Słowacji i kluczowe dla nas jest, aby tamtejsza koalicja mogła trwać - mówił szef dyplomacji Węgier w rozmowie ze swoim rosyjskim odpowiednikiem. Treść rozmowy, którą politycy odbyli w 2020 roku, opublikował węgierski dziennikarz śledczy. Peter Szijjarto prosił w jej trakcie Siergieja Ławrowa o wsparcie Rosji dla \"jedynej racjonalnej siły w słowackiej polityce\". Wyjaśniał też, na czym to wsparcie miałoby polegać."
+    },
+    {
+      "title": "Ulewy i opady śniegu w 13 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-przymrozki-opady-sniegu-tu-moze-obficie-sypnac-sniegiem-st8961830?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 08:37:34 GMT",
+      "description": "• Noc i poranek przyniosą w wielu regionach kraju spadek temperatury poniżej zera.\n• Później czeka nas powrót zimowej aury.\n• IMGW planuje wydać ostrzeżenia przed intensywnymi opadami śniegu.\n• IMGW planuje wydać ostrzeżenia przed ulewami.\n• IMGW planuje wydać ostrzeżenia przed przymrozkami.",
+      "originalTitle": "Alarmy w 13 województwach. Na horyzoncie ulewy i obfite opady śniegu",
+      "originalDescription": "Pogoda w Polsce. Noc i poranek przyniosą w wielu regionach kraju spadek temperatury poniżej zera. Później czeka nas powrót zimowej aury. IMGW planuje wydać ostrzeżenia przed intensywnymi opadami śniegu, a także ulewami i przymrozkami."
+    },
+    {
+      "title": "Polska z wetem w sprawie",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-zawetowal-nowelizacje-kodeksu-postepowania-karnego-sylwia-gregorczyk-abram-bardzo-szkodliwe-weto-st8963392?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:59:58 GMT",
+      "description": "• Polska jest gdzieś między Albanią a Turcją, jeśli chodzi o długość i częstość stosowania aresztowania tymczasowego.\n• Mecenas Sylwia Gregorczyk-Abram z inicjatywy \"Wolne sądy\" wypowiedziała się na ten temat w \"Faktach po Faktach\" TVN24.\n• Mecenas Sylwia Gregorczyk-Abram skrytykowała prezydenta Karola Nawrockiego.\n• Prezydent Karol Nawrocki zawetował przepisy, które miały zmienić sytuację związaną z aresztowaniem tymczasowym.",
+      "originalTitle": "\"Bardzo szkodliwe weto\", a Polska \"na niechlubnym miejscu\"",
+      "originalDescription": "Polska jest gdzieś między Albanią a Turcją, jeśli chodzi o długość i częstość stosowania aresztowania tymczasowego - mówiła w \"Faktach po Faktach\" TVN24 mecenas Sylwia Gregorczyk-Abram z inicjatywy \"Wolne sądy\". Skrytykowała prezydenta Karola Nawrockiego za to, że zawetował przepisy, które miały to zmienić."
+    },
+    {
+      "title": "Zwiększa się liczba trudnych sytuacji",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-nerwowo-odpowiedzial-dziennikarzowi-profesor-antoni-dudek-bedziemy-takich-sytuacji-mieli-wiecej-st8963373?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:50:34 GMT",
+      "description": "• Polacy wybrali boksera na prezydenta.\n• To będzie dawało o sobie znać coraz częściej - ocenił historyk i politolog profesor Antoni Dudek.\n• Historyk i politolog profesor Antoni Dudek wypowiedział się w programie \"Kropka nad i\".\n• Profesor Antoni Dudek odniósł się do nerwowej reakcji prezydenta.\n• Prezydentem, o którym mowa, jest Karol Nawrocki.\n• Prezydent Karol Nawrocki zareagował nerwowo na pytanie reportera TVN24.\n• Pytanie dotyczyło spotkania z Viktorem Orbanem.",
+      "originalTitle": "\"Będziemy takich sytuacji mieli więcej\"",
+      "originalDescription": "Polacy wybrali boksera na prezydenta i to będzie dawało o sobie znać coraz częściej - ocenił w \"Kropce nad i\" historyk i politolog profesor Antoni Dudek. Odniósł się do nerwowej reakcji prezydenta Karola Nawrockiego na pytanie reportera TVN24 o spotkanie z Viktorem Orbanem."
+    },
+    {
+      "title": "Błędy na egzaminach na prawo jazdy potwierdzone",
+      "link": "https://tvn24.pl/biznes/z-kraju/bledy-w-egzaminach-na-prawo-jazdy-ministerstwo-infrastruktury-potwierdza-st8963391?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:42:54 GMT",
+      "description": "• W ośmiu pytaniach losowanych podczas egzaminów na prawo jazdy były błędy.\n• Zidentyfikowano 21 osób, które w związku z tym mogły zostać poszkodowane.\n• Ministerstwo Infrastruktury poinformowało o tym fakcie.\n• Resort zapowiedział zmiany, które mają zapobiec takim sytuacjom w przyszłości.",
+      "originalTitle": "Błędy na egzaminach na prawo jazdy. Ministerstwo potwierdza",
+      "originalDescription": "W ośmiu pytaniach losowanych podczas egzaminów na prawo jazdy były błędy. Zidentyfikowano 21 osób, które w związku z tym mogły zostać poszkodowane - poinformowało Ministerstwo Infrastruktury. Resort zapowiedział zmiany, które mają zapobiec takim sytuacjom w przyszłości."
+    },
+    {
+      "title": "Nowacka o terminie decyzji ws edukacji zdrowotnej",
+      "link": "https://tvn24.pl/polska/edukacja-zdrowotna-bedzie-obowiazkowa-barbara-nowacka-mowi-kiedy-oglosi-decyzje-st8963372?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:30:29 GMT",
+      "description": "• Decyzję w sprawie edukacji zdrowotnej zostanie przedstawiona za kilka dni.\n• Decyzję w sprawie edukacji zdrowotnej przedstawi ministra edukacji Barbara Nowacka.\n• Ministra edukacji Barbara Nowacka wyraziła nadzieję, że \"rok przekonywania zadziałał\".\n• Ministra edukacji Barbara Nowacka wypowiedziała się w programie \"Faktach po Faktach\" w TVN24.\n• Prezydent Karol Nawrocki odwiedził Budapeszt.\n• Prezydent Karol Nawrocki miał nerwową reakcję na pytanie reportera TVN24 o Viktora Orbana.",
+      "originalTitle": "Edukacja zdrowotna będzie obowiązkowa? Nowacka mówi, kiedy ogłosi decyzję",
+      "originalDescription": "Decyzję w sprawie edukacji zdrowotnej przedstawię za kilka dni - powiedziała w \"Faktach po Faktach\" w TVN24 ministra edukacji Barbara Nowacka. Wyraziła nadzieję, że \"rok przekonywania zadziałał\". Komentowała też wizytę prezydenta Karola Nawrockiego w Budapeszcie oraz jego nerwową reakcję na pytanie reportera TVN24 o Viktora Orbana."
+    },
+    {
+      "title": "Pogoda na wtorek 24.03",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-24-03-noca-scisnie-lekki-mroz-st8963188?source=rss",
+      "pubDate": "Mon, 23 Mar 2026 19:12:13 GMT",
+      "description": "• Pogoda dotyczy dnia jutrzejszego, czyli wtorku.\n• Data jutrzejszego dnia to 24.03.\n• W nocy temperatura spadnie poniżej zera w części kraju.\n• Dzień przyniesie pochmurną aurę.\n• Będzie silniejszy wiatr.\n• Warunki biometeo będą przeważnie korzystne lub neutralne.",
+      "originalTitle": "Pogoda na jutro - wtorek, 24.03. Nocą ściśnie lekki mróz",
+      "originalDescription": "Pogoda na jutro, czyli na wtorek, 24.03. W nocy w części kraju temperatura spadnie poniżej zera. Dzień przyniesie pochmurną aurę i silniejszy wiatr. Warunki biometeo przeważnie będą korzystne lub neutralne."
+    }
+  ]
 }
