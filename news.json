@@ -1,34 +1,58 @@
 {
-  "lastUpdate": "2026-03-25T06:27:43.482Z",
+  "lastUpdate": "2026-03-25T06:52:00.056Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Dwaj bracia zginęli przy montażu monitoringu",
+      "title": "Strefa Czystego Transportu obejmie 130 tys aut",
+      "link": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-kolejny-etap-wdrazania-strefy-czystego-transportu-bedzie-dotyczyl-130-tysiecy-zarejestrowanych-teraz-aut-st8965482?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 06:46:19 GMT",
+      "description": "W 2028 roku wejdzie w życie kolejny etap wdrażania strefy czystego transportu (SCT) w stolicy. Obejmie samochody z silnikiem benzynowym o normie Euro 3 i silnikiem Diesla z normą Euro 5. Obecnie w Warszawie zarejestrowanych jest prawie 130 tysięcy takich aut.",
+      "originalTitle": "Kolejny etap wdrażania Strefy Czystego Transportu będzie dotyczył 130 tysięcy zarejestrowanych teraz aut",
+      "originalDescription": "W 2028 roku wejdzie w życie kolejny etap wdrażania strefy czystego transportu (SCT) w stolicy. Obejmie samochody z silnikiem benzynowym o normie Euro 3 i silnikiem Diesla z normą Euro 5. Obecnie w Warszawie zarejestrowanych jest prawie 130 tysięcy takich aut."
+    },
+    {
+      "title": "NASA aktualizuje plany dotyczące Księżyca",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/nasa-zmienia-plan-w-sprawie-ksiezyca-chca-budowac-tam-baze-st8965480?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 06:39:04 GMT",
+      "description": "• NASA poinformowała o wstrzymaniu planów dotyczących umieszczenia stacji orbitalnej na orbicie Księżyca.\n• Zamiast tego zamierza zbudować bazę na powierzchni Srebrnego Globu.\n• Astronauci mają zamiar lądowa�� na Księżycu.",
+      "originalTitle": "NASA zmienia plan w sprawie Księżyca",
+      "originalDescription": "NASA poinformowała o wstrzymaniu planów dotyczących umieszczenia stacji orbitalnej na orbicie Księżyca. Zamiast tego zamierza zbudować bazę na powierzchni Srebrnego Globu. Wiemy, kiedy astronauci mają zamiar tam lądować."
+    },
+    {
+      "title": "Słowacja komentuje wybory na Węgrzech",
+      "link": "https://tvn24.pl/swiat/slowacja-grozi-przed-wyborami-na-wegrzech-wkroczylibysmy-na-cienki-lod-st8965458?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 06:25:48 GMT",
+      "description": "Słowacki premier Robert Fico ocenił, że jeśli lider opozycji Peter Magyar wygra w wyborach parlamentarnych na Węgrzech, relacje tego kraju ze Słowacją mogą ulec pogorszeniu. Zapowiedział, że stanie w obronie Viktora Orbana, jeśli ktoś będzie podważał jego ewentualne zwycięstwo.",
+      "originalTitle": "Słowacja grozi przed wyborami na Węgrzech. \"Wkroczylibyśmy na cienki lód\"",
+      "originalDescription": "Słowacki premier Robert Fico ocenił, że jeśli lider opozycji Peter Magyar wygra w wyborach parlamentarnych na Węgrzech, relacje tego kraju ze Słowacją mogą ulec pogorszeniu. Zapowiedział, że stanie w obronie Viktora Orbana, jeśli ktoś będzie podważał jego ewentualne zwycięstwo."
+    },
+    {
+      "title": "Montowali monitoring, hala runęła, dwaj bracia zginęli. Opinia biegłego",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/mlawa-zawalil-sie-budynek-zginelo-dwoch-braci-katastrofe-wywolalo-wywiercenie-kilku-otworow-st8965484?source=rss",
       "pubDate": "Wed, 25 Mar 2026 06:16:36 GMT",
-      "description": "• W listopadzie 2024 roku w Mławie zawalił się budynek dawnej zajezdni PKS.\n• Pod gruzami zginęło dwóch młodych mężczyzn.\n• Wystąpiła możliwość, że kilka wywierconych wiertarką akumulatorową otworów spowodowało zawalenie dużej hali.\n• Materiał dotyczący tego zdarzenia został przedstawiony w programie \"Uwagi!\" TVN.",
+      "description": "W listopadzie 2024 roku w Mławie zawalił się budynek dawnej zajezdni PKS. Pod gruzami zginęło dwóch młodych mężczyzn. Czy możliwe, by kilka wywierconych wiertarką akumulatorową otworów, spowodowało zawalenie dużej hali? Materiał \"Uwagi!\" TVN.",
       "originalTitle": "Montowali monitoring, hala runęła, dwaj bracia zginęli. Opinia biegłego",
       "originalDescription": "W listopadzie 2024 roku w Mławie zawalił się budynek dawnej zajezdni PKS. Pod gruzami zginęło dwóch młodych mężczyzn. Czy możliwe, by kilka wywierconych wiertarką akumulatorową otworów, spowodowało zawalenie dużej hali? Materiał \"Uwagi!\" TVN."
     },
     {
-      "title": "Osoby znalezione z kradzionym skuterem",
+      "title": "Rozkręcali kradziony skuter. Nie wiedzieli, co w nim ukrył właściciel",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/jozefoslaw-kradziony-skuter-rozkrecali-juz-na-czesci-zapomnieli-o-nadajniku-gps-st8964940?source=rss",
       "pubDate": "Wed, 25 Mar 2026 06:00:06 GMT",
-      "description": "• Nadajnik GPS doprowadził policjantów do kradzionego skutera.\n• Kradziony skuter został znaleziony w garażu.\n• Garaż, w którym znaleziono skuter, znajduje się w Józefosławiu.\n• Józefosław, gdzie znaleziono skuter, położony jest w województwie Mazowieckim.\n• W garażu skuter rozkręcali dwaj młodzi mężczyźni.\n• Mężczyźni twierdzili, że skuter \"tylko naprawiają\".",
+      "description": "Nadajnik GPS doprowadził policjantów do kradzionego skutera. W garażu w Józefosławiu (Mazowieckie) jednoślad na części rozkręcali już dwaj młodzi mężczyźni. Tłumaczyli, że go \"tylko naprawiają\".",
       "originalTitle": "Rozkręcali kradziony skuter. Nie wiedzieli, co w nim ukrył właściciel",
       "originalDescription": "Nadajnik GPS doprowadził policjantów do kradzionego skutera. W garażu w Józefosławiu (Mazowieckie) jednoślad na części rozkręcali już dwaj młodzi mężczyźni. Tłumaczyli, że go \"tylko naprawiają\"."
     },
     {
-      "title": "USA rozwijają system obrony przeciwrakietowej",
+      "title": "Powstaje kosmiczna tarcza Trumpa. Ujawnili, kto nad nią pracuje",
       "link": "https://tvn24.pl/swiat/usa-kosmiczna-tarcza-antyrakietowa-donalda-trumpa-kto-ma-pracowac-nad-projektem-st8965467?source=rss",
       "pubDate": "Wed, 25 Mar 2026 05:59:09 GMT",
-      "description": "• Prezydent USA to Donald Trump.\n• Prezydent USA firmuje projekt tarczy antyrakietowej.\n• Tarcza antyrakietowa oparta jest na systemach kosmicznych Złotej Kopuły.\n• Informację o projekcie przekazał Reuters.\n�� W realizacji projektu uczestniczą firmy Anduril i Palantir Technologies.",
+      "description": "Prezydent USA Donald Trump firmuje projekt tarczy antyrakietowej opartej na systemach kosmicznych Złotej Kopuły - przekazał Reuters. Według jego źródeł w realizacji projektu uczestniczą firmy Anduril i Palantir Technologies.",
       "originalTitle": "Powstaje kosmiczna tarcza Trumpa. Ujawnili, kto nad nią pracuje",
       "originalDescription": "Prezydent USA Donald Trump firmuje projekt tarczy antyrakietowej opartej na systemach kosmicznych Złotej Kopuły - przekazał Reuters. Według jego źródeł w realizacji projektu uczestniczą firmy Anduril i Palantir Technologies."
     },
     {
-      "title": "Mężczyzna tonie, wzywa pomocy",
+      "title": "\"Jego głowa znikała pod wodą. Ledwo łapał powietrze i wzywał pomocy\"",
       "link": "https://tvn24.pl/tvnwarszawa/bialoleka/bialoleka-dramatyczna-akcja-ratunkowa-na-kanale-zeranskim-st8965471?source=rss",
       "pubDate": "Wed, 25 Mar 2026 05:58:11 GMT",
       "description": "Strażnicy miejscy, strażacy i wędkarze walczyli o życie mężczyzny, który topił się w lodowatej wodzie. Wspólnymi siłami wydostali go na brzeg. W stanie silnego wychłodzenia został przetransportowany do szpitala.",
@@ -36,15 +60,15 @@
       "originalDescription": "Strażnicy miejscy, strażacy i wędkarze walczyli o życie mężczyzny, który topił się w lodowatej wodzie. Wspólnymi siłami wydostali go na brzeg. W stanie silnego wychłodzenia został przetransportowany do szpitala."
     },
     {
-      "title": "Żołnierze elitarnej jednostki na Bliskim Wschodzie",
+      "title": "\"Tysiące żołnierzy elitarnej jednostki\" mogą trafić na Bliski Wschód",
       "link": "https://tvn24.pl/swiat/usa-pentagon-planuje-wyslac-zolnierzy-elitarnej-jednostki-na-bliski-wschod-st8965479?source=rss",
       "pubDate": "Wed, 25 Mar 2026 05:48:41 GMT",
-      "description": "• Pentagon planuje skierować trzy tysiące żołnierzy elitarnej 82. Dywizji Powietrznodesantowej na Bliski Wschód.\n• Informację tę podał \"Wall Street Journal\".\n• Reuters, powołując się na swoje źródła, napisał o \"tysiącach żołnierzy\".",
+      "description": "Pentagon planuje skierować trzy tysiące żołnierzy elitarnej 82. Dywizji Powietrznodesantowej na Bliski Wschód - podał \"Wall Street Journal\". Reuters z kolei, powołując się na swoje źródła, napisał o \"tysiącach żołnierzy\".",
       "originalTitle": "\"Tysiące żołnierzy elitarnej jednostki\" mogą trafić na Bliski Wschód",
       "originalDescription": "Pentagon planuje skierować trzy tysiące żołnierzy elitarnej 82. Dywizji Powietrznodesantowej na Bliski Wschód - podał \"Wall Street Journal\". Reuters z kolei, powołując się na swoje źródła, napisał o \"tysiącach żołnierzy\"."
     },
     {
-      "title": "Wyniki Lotto: wygrane do 30 mln zł",
+      "title": "Wysyp wygranych w Lotto. Jedna to ponad 30 milionów złotych",
       "link": "https://tvn24.pl/biznes/pieniadze/lotto-i-lotto-plus-wyniki-losowania-z-24-marca-2026-jakie-liczby-padly-podczas-ostatniego-losowania-st8965478?source=rss",
       "pubDate": "Wed, 25 Mar 2026 05:44:43 GMT",
       "description": "We wtorkowym losowaniu Lotto padła główna wygrana. To ponad 30 milionów złotych. Padły także dwie główne wygrane w Lotto Plus. Oto wyniki losowania z 24 marca 2026 roku.",
@@ -52,36 +76,12 @@
       "originalDescription": "We wtorkowym losowaniu Lotto padła główna wygrana. To ponad 30 milionów złotych. Padły także dwie główne wygrane w Lotto Plus. Oto wyniki losowania z 24 marca 2026 roku."
     },
     {
-      "title": "Atak Iranu",
+      "title": "Pierwszy taki atak Iranu",
       "link": "https://tvn24.pl/swiat/pierwszy-taki-atak-iranu-st8965457?source=rss",
       "pubDate": "Wed, 25 Mar 2026 05:29:14 GMT",
-      "description": "• Iran wystrzelił rakiety w kierunku Bejrutu.\n• Agencja Reutera poinformowała o tym we wtorek.\n• Informacja pochodzi z trzech libańskich źródeł, które chcą zachować anonimowość.\n• Jest to pierwszy raz, kiedy Teheran uderza w cele położone w Libanie od wybuchu wojny.",
+      "description": "Iran wystrzelił rakiety w kierunku Bejrutu - poinformowała we wtorek agencja Reutera, powołując się na trzy libańskie źródła, chcące zachować anonimowość. Od wybuchu wojny to pierwszy raz, kiedy Teheran uderza w cele położone w Libanie.",
       "originalTitle": "Pierwszy taki atak Iranu",
       "originalDescription": "Iran wystrzelił rakiety w kierunku Bejrutu - poinformowała we wtorek agencja Reutera, powołując się na trzy libańskie źródła, chcące zachować anonimowość. Od wybuchu wojny to pierwszy raz, kiedy Teheran uderza w cele położone w Libanie."
-    },
-    {
-      "title": "Osoby nie odniosły obrażeń, występują jednak problemy",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/drogi-mazowsza-wyszli-z-wypadkow-bez-obrazen-maja-powazne-problemy-st8965365?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 05:19:04 GMT",
-      "description": "• Po uderzeniu w kapliczkę auto zostało całkowicie zniszczone.\n• Kierowca, który uderzył w kapliczkę, nie odniósł żadnych obrażeń.\n• Doszło do uderzenia ciągnikiem w słup energetyczny.\n• Kierowca ciągnika, który uderzył w słup energetyczny, nie odniósł żadnych obrażeń.\n• Doszło do uderzenia samochodem osobowym w budynek mieszkalny.\n• Kierowca samochodu osobowego, który uderzył w budynek mieszkalny, nie odniósł żadnych obrażeń.\n• Wszystkie wypadki miały miejsce, gdy kierowcy mieli alkohol w organizmie.\n• Wyniki badania alkomatem wykazały, że kierowcy mieli od dwóch do czterech promili alkoholu w organizmach.",
-      "originalTitle": "Nie odnieśli obrażeń, ale mają poważne problemy",
-      "originalDescription": "Po uderzeniu w kapliczkę auto zostało całkowicie zniszczone, ale kierowca nie odniósł żadnych obrażeń. Bez szwanku dla kierujących zakończyły się też uderzenia ciągnikiem w słup energetyczny i samochodem osobowym w budynek mieszkalny. Wszystkich łączy jedno - wyniki badania alkomatem. Mieli od dwóch do czterech promili alkoholu w organizmach."
-    },
-    {
-      "title": "Więzień Łukaszenki. Pięć lat od  zatrzymania i uwięzienia Andrzeja Poczobuta",
-      "link": "https://tvn24.pl/swiat/andrzej-poczobut-wciaz-jest-wiezniem-lukaszenki-traktuje-go-jak-karte-przetargowa-st8965470?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 05:05:29 GMT",
-      "description": "25 marca mija pięć lat od zatrzymania Andrzeja Poczobuta, dziennikarza i działacza mniejszości polskiej na Białorusi. Został skazany na osiem lat więzienia i osadzony w kolonii karnej. Choć kolejne grupy więźniów politycznych są uwalniane na Białorusi, on nadal pozostaje więźniem reżimu.",
-      "originalTitle": "Więzień Łukaszenki. Pięć lat od  zatrzymania i uwięzienia Andrzeja Poczobuta",
-      "originalDescription": "25 marca mija pięć lat od zatrzymania Andrzeja Poczobuta, dziennikarza i działacza mniejszości polskiej na Białorusi. Został skazany na osiem lat więzienia i osadzony w kolonii karnej. Choć kolejne grupy więźniów politycznych są uwalniane na Białorusi, on nadal pozostaje więźniem reżimu."
-    },
-    {
-      "title": "Ilość \"wystarczająca, by odurzyć ponad 10 milionów osób\"",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/zyrardow-ilosc-narkotykow-wystarczylaby-do-odurzenia-ponad-10-milionow-osob-st8965468?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 04:58:54 GMT",
-      "description": "Żyrardowscy policjanci zlikwidowali laboratorium narkotykowe oraz dwa magazyny. Przejęli ponad 100 kilogramów narkotyków oraz półprodukty pozwalające na wytworzenie nawet tony kolejnych. Jak podała prokuratura, była to ilość \"wystarczająca, by odurzyć ponad 10 milionów osób\".",
-      "originalTitle": "Ilość \"wystarczająca, by odurzyć ponad 10 milionów osób\"",
-      "originalDescription": "Żyrardowscy policjanci zlikwidowali laboratorium narkotykowe oraz dwa magazyny. Przejęli ponad 100 kilogramów narkotyków oraz półprodukty pozwalające na wytworzenie nawet tony kolejnych. Jak podała prokuratura, była to ilość \"wystarczająca, by odurzyć ponad 10 milionów osób\"."
     }
   ]
 }
