@@ -1,29 +1,77 @@
 {
-  "lastUpdate": "2026-03-25T09:21:31.129Z",
+  "lastUpdate": "2026-03-25T09:48:38.762Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Osoba z Nowego Jorku zatrzymana",
+      "title": "Kancelaria Sejmu zakończyła korespondencję z prezydentem",
+      "link": "https://tvn24.pl/polska/wybor-sedziow-trybunalu-konstytucyjnego-wlodzimierz-czarzasty-kancelaria-sejmu-zakonczyla-korespondencje-z-kancelaria-prezydenta-st8965714?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 09:44:17 GMT",
+      "description": "• Nie odpowiemy na drugie pismo z kancelarii prezydenta w sprawie sędziów Trybunału Konstytucyjnego.\n• Marszałek Sejmu Włodzimierz Czarzasty poinformował o powyższej decyzji.\n• Oczekujemy, żeby pan prezydent przyjął ślubowanie sędziów.",
+      "originalTitle": "Czarzasty: kancelaria Sejmu zakończyła korespondencję z kancelarią prezydenta",
+      "originalDescription": "- Nie odpowiemy na drugie pismo z kancelarii prezydenta w sprawie sędziów Trybunału Konstytucyjnego - poinformował marszałek Sejmu Włodzimierz Czarzasty. Jak mówił, \"oczekujemy, żeby pan prezydent przyjął ślubowanie sędziów\"."
+    },
+    {
+      "title": "Węgry wstrzymują dostawy dla Ukrainy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wegry-viktor-orban-uderza-w-ukraine-wstrzymujemy-dostawy-gazu-st8965850?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 09:43:43 GMT",
+      "description": "• Węgry wstrzymują dostawy gazu na Ukrainę.\n• Decyzję o wstrzymaniu dostaw gazu podjął premier Węgier Viktor Orban.\n• Decyzja będzie obowiązywać do czasu wznowienia dostaw rosyjskiej ropy naftowej.\n• Dostawy rosyjskiej ropy naftowej mają być wznowione rurociągiem Przyjaźń.",
+      "originalTitle": "Orban uderza w Ukrainę. \"Wstrzymujemy dostawy\"",
+      "originalDescription": "Węgry wstrzymują dostawy gazu na Ukrainę - poinformował premier Węgier Viktor Orban. Dodał, że decyzja będzie obowiązywać do czasu wznowienia dostaw rosyjskiej ropy naftowej rurociągiem Przyjaźń."
+    },
+    {
+      "title": "Kasjerka podejrzana o 206 nieprawidłowości",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nowy-dwor-mazowiecki-anulowane-transakcje-206-zarzutow-dla-kasjerki-st8965812?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 09:41:39 GMT",
+      "description": "Kasjerka anulowała transakcje klientów i pieniądze brała dla siebie. W sumie było to 12 tysięcy złotych. 43-latka usłyszała 206 zarzutów, przyznała się.",
+      "originalTitle": "Anulowane transakcje, 206 zarzutów dla kasjerki",
+      "originalDescription": "Kasjerka anulowała transakcje klientów i pieniądze brała dla siebie. W sumie było to 12 tysięcy złotych. 43-latka usłyszała 206 zarzutów, przyznała się."
+    },
+    {
+      "title": "\"Nie odpuszczajmy, dociskajmy\". Ma być spotkanie z Tuskiem w sprawie projektu Kosiniaka-Kamysza",
+      "link": "https://tvn24.pl/polska/nie-odpuszczajmy-dociskajmy-ma-byc-spotkanie-z-tuskiem-w-sprawie-projektu-kosiniaka-kamysza-st8965622?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 09:38:33 GMT",
+      "description": "W środę ma odbyć się spotkanie Donalda Tuska z Władysławem Kosiniakiem-Kamyszem - ujawniła w \"Podcaście politycznym\" w TVN24+ Arleta Zalewska. Ma ono dotyczyć projektu PSL w sprawie Polskiego Funduszu Inwestycji Obronnych. W rozmowach ma uczestniczyć także kilku innych ministrów.",
+      "originalTitle": "\"Nie odpuszczajmy, dociskajmy\". Ma być spotkanie z Tuskiem w sprawie projektu Kosiniaka-Kamysza",
+      "originalDescription": "W środę ma odbyć się spotkanie Donalda Tuska z Władysławem Kosiniakiem-Kamyszem - ujawniła w \"Podcaście politycznym\" w TVN24+ Arleta Zalewska. Ma ono dotyczyć projektu PSL w sprawie Polskiego Funduszu Inwestycji Obronnych. W rozmowach ma uczestniczyć także kilku innych ministrów."
+    },
+    {
+      "title": "Wolta na rynku po słowach Trumpa. \"Może stać się etapem unicestwienia wojny\"",
+      "link": "https://tvn24.pl/biznes/rynki/cena-ropy-iran-usa-wolta-na-rynku-po-slowach-donalda-trumpa-moze-stac-sie-etapem-unicestwienia-wojny-st8965569?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 09:26:48 GMT",
+      "description": "Wahania na rynku ropy nie ustają. W środę ceny surowca mocno spadają po wtorkowych wzrostach - informują maklerzy. To reakcja na doniesienia o nasileniu działań dyplomatycznych USA, które mają zmierzać do zakończenia wojny na Bliskim Wschodzie.",
+      "originalTitle": "Wolta na rynku po słowach Trumpa. \"Może stać się etapem unicestwienia wojny\"",
+      "originalDescription": "Wahania na rynku ropy nie ustają. W środę ceny surowca mocno spadają po wtorkowych wzrostach - informują maklerzy. To reakcja na doniesienia o nasileniu działań dyplomatycznych USA, które mają zmierzać do zakończenia wojny na Bliskim Wschodzie."
+    },
+    {
+      "title": "\"Tysiące Polaków zginęło, ratując Żydów\". Ambasador USA apeluje",
+      "link": "https://tvn24.pl/polska/ambasador-usa-w-polsce-thomas-rose-o-polakach-ratujacych-zydow-podczas-holokaustu-st8965570?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 08:54:33 GMT",
+      "description": "W Polsce było wielu, którzy ryzykowali wszystko, by ratować Żydów podczas nazistowskiego Holokaustu - powiedział ambasador USA w Polsce Thomas Rose. Zamieścił w mediach społecznościowych film z okazji obchodów Narodowego Dnia Pamięci Polaków Ratujących Żydów. Zawarł w nim apel.",
+      "originalTitle": "\"Tysiące Polaków zginęło, ratując Żydów\". Ambasador USA apeluje",
+      "originalDescription": "W Polsce było wielu, którzy ryzykowali wszystko, by ratować Żydów podczas nazistowskiego Holokaustu - powiedział ambasador USA w Polsce Thomas Rose. Zamieścił w mediach społecznościowych film z okazji obchodów Narodowego Dnia Pamięci Polaków Ratujących Żydów. Zawarł w nim apel."
+    },
+    {
+      "title": "Przyleciał z Nowego Jorku i został zatrzymany",
       "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-przylecial-z-nowego-jorku-i-zostal-zatrzymany-st8965628?source=rss",
       "pubDate": "Wed, 25 Mar 2026 08:54:30 GMT",
-      "description": "• Strażnicy graniczni zatrzymali 33-letniego obywatela Rumunii na Lotnisku Chopina.\n• Zatrzymany był poszukiwany.\n• Wystawiony został Europejski Nakaz Aresztowania.",
+      "description": "Strażnicy graniczni na Lotnisku Chopina zatrzymali 33-letniego obywatela Rumunii. Był poszukiwany, wystawiony został Europejski Nakaz Aresztowania.",
       "originalTitle": "Przyleciał z Nowego Jorku i został zatrzymany",
       "originalDescription": "Strażnicy graniczni na Lotnisku Chopina zatrzymali 33-letniego obywatela Rumunii. Był poszukiwany, wystawiony został Europejski Nakaz Aresztowania."
     },
     {
-      "title": "Zmiany w cieśninie Ormuz",
+      "title": "Nowe zasady w cieśninie Ormuz. \"Tankowce chętnie płacą\"",
       "link": "https://tvn24.pl/biznes/ze-swiata/ciesnina-ormuz-nowe-zasady-iranu-tankowce-chetnie-placa-st8965483?source=rss",
       "pubDate": "Wed, 25 Mar 2026 08:38:16 GMT",
-      "description": "• Irańskie władze przekazały państwom Międzynarodowej Organizacji Morskiej informację o ograniczeniach w cieśninie Ormuz.\n• Statki, które będą mogły przepływać przez cieśninę Ormuz, to te, które Iran \"nie uzna za wrogie\".\n• Statki muszą koordynować tranzyt z władzami w Teheranie.\n• Informacja o ograniczeniach w cieśninie Ormuz została podana przez dziennik \"Financial Times\".",
+      "description": "Irańskie władze przekazały państwom Międzynarodowej Organizacji Morskiej, że przez cieśninę Ormuz będą mogły przepływać jedynie statki, których Iran \"nie uzna za wrogie\" - informuje dziennik \"Financial Times\". Przy czym jednostki muszą koordynować tranzyt z władzami w Teheranie.",
       "originalTitle": "Nowe zasady w cieśninie Ormuz. \"Tankowce chętnie płacą\"",
       "originalDescription": "Irańskie władze przekazały państwom Międzynarodowej Organizacji Morskiej, że przez cieśninę Ormuz będą mogły przepływać jedynie statki, których Iran \"nie uzna za wrogie\" - informuje dziennik \"Financial Times\". Przy czym jednostki muszą koordynować tranzyt z władzami w Teheranie."
     },
     {
-      "title": "Mężczyzna potrącony przez pociąg",
+      "title": "\"Wszedł w słuchawkach na uszach\". Potrącił go pociąg",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/michalin-wszedl-na-tory-w-sluchawkach-na-uszach-potracil-go-pociag-st8965496?source=rss",
       "pubDate": "Wed, 25 Mar 2026 08:38:06 GMT",
-      "description": "• W Michalinie pod Warszawą pociąg potrącił pieszego.\n• Ofiarą wypadku był 22-latek.\n• Mężczyzna wszedł na torowisko w słuchawkach na uszach.\n• Nie słyszał nadjeżdżającego składu z powodu słuchawek.\n• Trafił do szpitala.\n• Policja informuje o okolicznościach wypadku.",
+      "description": "W Michalinie pod Warszawą pociąg potrącił pieszego. Jak informuje policja, 22-latek wszedł na torowisko w słuchawkach na uszach i nie słyszał nadjeżdżającego składu. Trafił do szpitala.",
       "originalTitle": "\"Wszedł w słuchawkach na uszach\". Potrącił go pociąg",
       "originalDescription": "W Michalinie pod Warszawą pociąg potrącił pieszego. Jak informuje policja, 22-latek wszedł na torowisko w słuchawkach na uszach i nie słyszał nadjeżdżającego składu. Trafił do szpitala."
     },
@@ -34,54 +82,6 @@
       "description": "Pogoda w Polsce. W środę przez część kraju przetoczy się chłodny front atmosferyczny związany z układem niskiego ciśnienia, przynosząc deszcz. Sprawdź na radarze, czy spodziewać się opadów.",
       "originalTitle": "Strefa opadów wkroczyła do Polski. Tak będzie wędrować",
       "originalDescription": "Pogoda w Polsce. W środę przez część kraju przetoczy się chłodny front atmosferyczny związany z układem niskiego ciśnienia, przynosząc deszcz. Sprawdź na radarze, czy spodziewać się opadów."
-    },
-    {
-      "title": "Dron rozbił się na Łotwie",
-      "link": "https://tvn24.pl/swiat/lotwa-rozbil-sie-dron-ktory-wlecial-z-terytorium-rosji-st8965535?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 08:29:10 GMT",
-      "description": "W przestrzeń powietrzną Łotwy wleciał dron z terytorium Rosji i rozbił się - poinformowały łotewskie siły zbrojne. Według agencja LETA, nikt nie odniósł obrażeń, a infrastruktura cywilna nie uległa zniszczeniu.",
-      "originalTitle": "Dron z terytorium Rosji rozbił się na Łotwie",
-      "originalDescription": "W przestrzeń powietrzną Łotwy wleciał dron z terytorium Rosji i rozbił się - poinformowały łotewskie siły zbrojne. Według agencja LETA, nikt nie odniósł obrażeń, a infrastruktura cywilna nie uległa zniszczeniu."
-    },
-    {
-      "title": "Po ujawnieniu nagrań nie będzie zarzutów pobicia dla aktora. Oświadczenie policji",
-      "link": "https://tvn24.pl/kultura-i-styl/usa-po-ujawnieniu-nagran-aktora-alana-ritchsona-policja-zamyka-sprawe-pobicia-st8965254?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 08:16:50 GMT",
-      "description": "Amerykańskie media pokazały nagrania, na których widać jak aktor Alan Ritchson, znany z serialu \"Reacher\", bije swojego sąsiada. W sprawie pojawiały się sprzeczne relacje, ostatecznie policja postanowiła ją zamknąć, nie stawiając nikomu zarzutów. Co ustalono?",
-      "originalTitle": "Po ujawnieniu nagrań nie będzie zarzutów pobicia dla aktora. Oświadczenie policji",
-      "originalDescription": "Amerykańskie media pokazały nagrania, na których widać jak aktor Alan Ritchson, znany z serialu \"Reacher\", bije swojego sąsiada. W sprawie pojawiały się sprzeczne relacje, ostatecznie policja postanowiła ją zamknąć, nie stawiając nikomu zarzutów. Co ustalono?"
-    },
-    {
-      "title": "Pierwsze dni badań i nowe odkrycia na terenie dawnego Pałacu Brühla",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/srodmiescie-pierwsze-dni-badan-i-nowe-odkrycia-na-terenie-dawnego-palacu-bruhla-st8965555?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 07:54:33 GMT",
-      "description": "W trakcie badań archeologicznych u zbiegu ulic Wierzbowej i Fredry związanych z odbudową Pałacu Saskiego i Pałacu Brühla odnaleziono kilka ciekawych przedmiotów z początku XX wieku.",
-      "originalTitle": "Pierwsze dni badań i nowe odkrycia na terenie dawnego Pałacu Brühla",
-      "originalDescription": "W trakcie badań archeologicznych u zbiegu ulic Wierzbowej i Fredry związanych z odbudową Pałacu Saskiego i Pałacu Brühla odnaleziono kilka ciekawych przedmiotów z początku XX wieku."
-    },
-    {
-      "title": "Tragedia w kopalni. Nie żyje 42-letni górnik",
-      "link": "https://tvn24.pl/katowice/rybnik-tragedia-w-kopalni-jankowice-nie-zyje-42-letni-gornik-st8965602?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 07:45:28 GMT",
-      "description": "42-letni górnik zginął podczas prac prowadzonych 700 metrów pod ziemią w rybnickiej kopalni Jankowice. Do zdarzenia doszło przy przeładunku sekcji obudów ścianowych.",
-      "originalTitle": "Tragedia w kopalni. Nie żyje 42-letni górnik",
-      "originalDescription": "42-letni górnik zginął podczas prac prowadzonych 700 metrów pod ziemią w rybnickiej kopalni Jankowice. Do zdarzenia doszło przy przeładunku sekcji obudów ścianowych."
-    },
-    {
-      "title": "Kompletna linia do produkcji fałszywek i gotowe wydruki. Siedem osób zatrzymanych",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/sochaczew-kompletna-linia-produkcyjna-do-falszywek-i-gotowe-wydruki-siedem-osob-zatrzymanych-st8965563?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 07:35:09 GMT",
-      "description": "Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości, wspólnie z policjantami z Wrocławia, Radomia i Warszawy, zatrzymali siedem osób w sprawie fałszowania pieniędzy. Wśród zatrzymanych jest były funkcjonariusz służb ukraińskich. To on miał być fałszerzem.",
-      "originalTitle": "Kompletna linia do produkcji fałszywek i gotowe wydruki. Siedem osób zatrzymanych",
-      "originalDescription": "Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości, wspólnie z policjantami z Wrocławia, Radomia i Warszawy, zatrzymali siedem osób w sprawie fałszowania pieniędzy. Wśród zatrzymanych jest były funkcjonariusz służb ukraińskich. To on miał być fałszerzem."
-    },
-    {
-      "title": "Ciężarówka stanęła w płomieniach",
-      "link": "https://tvn24.pl/olsztyn/elblag-ciezarowka-stanela-w-plomieniach-st8965531?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 07:22:45 GMT",
-      "description": "Pożar samochodu ciężarowego w Elblągu. Pojazd stanął w płomieniach najprawdopodobniej w wyniku awarii. Na szczęście nikt nie ucierpiał.",
-      "originalTitle": "Ciężarówka stanęła w płomieniach",
-      "originalDescription": "Pożar samochodu ciężarowego w Elblągu. Pojazd stanął w płomieniach najprawdopodobniej w wyniku awarii. Na szczęście nikt nie ucierpiał."
     }
   ]
 }
