@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-25T15:55:16.142Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-25T16:30:24.644Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Liczą straty po pożarze nowego bloku, chcą budować obok",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-tak-wyglada-blok-na-bialolece-po-wielkim-pozarze-generalny-wykonawca-liczy-straty-st8966897?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 16:21:00 GMT",
+      "description": "Prace na budowie nowych mieszkań na Żeraniu, gdzie w ubiegłym tygodniu wybuchł pożar, są wstrzymane. Ogień zniszczył nie tylko elewację i okna nowego budynku, ale wdarł się również do środka, uszkadzając ścianki działowe i tynki w lokalach. Nie oszczędził też balkonów, konstrukcji stropu patia i izolacji dachu.",
+      "originalTitle": "Liczą straty po pożarze nowego bloku, chcą budować obok",
+      "originalDescription": "Prace na budowie nowych mieszkań na Żeraniu, gdzie w ubiegłym tygodniu wybuchł pożar, są wstrzymane. Ogień zniszczył nie tylko elewację i okna nowego budynku, ale wdarł się również do środka, uszkadzając ścianki działowe i tynki w lokalach. Nie oszczędził też balkonów, konstrukcji stropu patia i izolacji dachu."
+    },
+    {
+      "title": "Sikorski: zakładam, że wszyscy byśmy chcieli, żeby Poczobut został wypuszczony",
+      "link": "https://tvn24.pl/polska/radoslaw-sikorski-zakladam-ze-wszyscy-bysmy-chcieli-zeby-andrzej-poczobut-zostal-wypuszczony-st8966907?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 16:05:55 GMT",
+      "description": "Minister spraw zagranicznych Radosław Sikorski przekazał, że w sprawie uwolnienia Andrzeja Poczobuta rząd Donalda Tuska robi to samo, co poprzedni. Ocenił, że o ile wszyscy chcą, żeby został wypuszczony, to zależy to od woli białoruskiego reżimu.",
+      "originalTitle": "Sikorski: zakładam, że wszyscy byśmy chcieli, żeby Poczobut został wypuszczony",
+      "originalDescription": "Minister spraw zagranicznych Radosław Sikorski przekazał, że w sprawie uwolnienia Andrzeja Poczobuta rząd Donalda Tuska robi to samo, co poprzedni. Ocenił, że o ile wszyscy chcą, żeby został wypuszczony, to zależy to od woli białoruskiego reżimu."
+    },
+    {
+      "title": "Pofalowany front przyniesie opady. Co z pogodą w weekend?",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-i-5-dni-spadnie-snieg-pofalowany-front-przyniesie-zimowe-opady-sprawdz-gdzie-sypnie-sniegiem-st8966818?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 16:01:44 GMT",
+      "description": "Pogoda w Polsce. Nadchodzące dni przyniosą zróżnicowane opady - pojawi się deszcz, deszcz ze śniegiem, a także śnieg. W pewnym momencie aura się ustabilizuje.",
+      "originalTitle": "Pofalowany front przyniesie opady. Co z pogodą w weekend?",
+      "originalDescription": "Pogoda w Polsce. Nadchodzące dni przyniosą zróżnicowane opady - pojawi się deszcz, deszcz ze śniegiem, a także śnieg. W pewnym momencie aura się ustabilizuje."
+    },
+    {
+      "title": "Łukaszenka przybył do Korei Północnej. Z Kimem podpisze traktat o przyjaźni",
+      "link": "https://tvn24.pl/swiat/korea-polnocna-lukaszenka-spotkal-sie-z-kimem-w-pjongjangu-st8966908?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:57:53 GMT",
+      "description": "Kim Dzong Un w środę z honorami przyjął w Pjongjangu Alaksandra Łukaszenkę. Obaj przywódcy mają podpisać traktat o przyjaźni i współpracy. Północnokoreański dyktator powitał gościa wystawną ceremonią z udziałem żołnierzy, kawalerii i z salwą honorową.",
+      "originalTitle": "Łukaszenka przybył do Korei Północnej. Z Kimem podpisze traktat o przyjaźni",
+      "originalDescription": "Kim Dzong Un w środę z honorami przyjął w Pjongjangu Alaksandra Łukaszenkę. Obaj przywódcy mają podpisać traktat o przyjaźni i współpracy. Północnokoreański dyktator powitał gościa wystawną ceremonią z udziałem żołnierzy, kawalerii i z salwą honorową."
+    },
+    {
+      "title": "MSZ Ukrainy: mimo gróźb Orbana gaz cały czas płynie",
+      "link": "https://tvn24.pl/swiat/viktor-orban-grozil-wstrzymaniem-dostaw-ukraina-gaz-caly-czas-plynie-st8966894?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:56:40 GMT",
+      "description": "W środę Węgry poinformowały, że zablokują dostawy gazu na Ukrainę w związku ze sporem o rurociąg Przyjaźń. Jednak według ukraińskiego MSZ, gaz cały czas na Ukrainę płynie.",
+      "originalTitle": "MSZ Ukrainy: mimo gróźb Orbana gaz cały czas płynie",
+      "originalDescription": "W środę Węgry poinformowały, że zablokują dostawy gazu na Ukrainę w związku ze sporem o rurociąg Przyjaźń. Jednak według ukraińskiego MSZ, gaz cały czas na Ukrainę płynie."
+    },
+    {
+      "title": "Wielkie akcje serwisowe. Chodzi o setki tysięcy aut",
+      "link": "https://tvn24.pl/biznes/moto/usa-toyota-i-ford-wielkie-akcje-serwisowe-chodzi-o-setki-tysiecy-aut-st8966924?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:51:50 GMT",
+      "description": "Toyota i Ford wzywają do serwisów właścicieli około 400 tysięcy aut - przekazała agencja Reuters. Powodem są usterki oprogramowania i systemów kamer cofania, które mogą prowadzić do utraty obrazu i zwiększać ryzyko kolizji.",
+      "originalTitle": "Wielkie akcje serwisowe. Chodzi o setki tysięcy aut",
+      "originalDescription": "Toyota i Ford wzywają do serwisów właścicieli około 400 tysięcy aut - przekazała agencja Reuters. Powodem są usterki oprogramowania i systemów kamer cofania, które mogą prowadzić do utraty obrazu i zwiększać ryzyko kolizji."
+    },
+    {
+      "title": "Kiedy portfel chudnie, pamięć słabnie. Jak finanse wpływają na mózg seniorów?",
+      "link": "https://tvn24.pl/zdrowie/kiedy-portfel-chudnie-pamiec-slabnie-jak-finanse-wplywaja-na-mozg-seniorow-st8966875?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:44:57 GMT",
+      "description": "Naukowcy wykazali, że pogarszająca się sytuacja finansowa w wieku średnim i starszym wiąże się z szybszym spadkiem funkcji poznawczych. Osoby, które doświadczyły znacznego pogorszenia dobrostanu finansowego, traciły pamięć w tempie odpowiadającym nawet pięciu dodatkowym miesiącom starzenia się rocznie.",
+      "originalTitle": "Kiedy portfel chudnie, pamięć słabnie. Jak finanse wpływają na mózg seniorów?",
+      "originalDescription": "Naukowcy wykazali, że pogarszająca się sytuacja finansowa w wieku średnim i starszym wiąże się z szybszym spadkiem funkcji poznawczych. Osoby, które doświadczyły znacznego pogorszenia dobrostanu finansowego, traciły pamięć w tempie odpowiadającym nawet pięciu dodatkowym miesiącom starzenia się rocznie."
+    },
+    {
+      "title": "Sławomir Nowak złożył zawiadomienie na prokuratora, który go ścigał",
+      "link": "https://tvn24.pl/polska/slawomir-nowak-zlozyl-zawiadomienie-na-jana-drelewskiego-prokuratora-ktory-go-scigal-st8963352?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:35:02 GMT",
+      "description": "Sławomir Nowak złożył zawiadomienie o możliwości popełnienia serii przestępstw przez prokuratora Jana Drelewskiego, który prowadził śledztwa przeciwko niemu. Sprawa trafi do wydziału spraw wewnętrznych, który specjalizuje się w postępowaniach dotyczących sędziów i prokuratorów.",
+      "originalTitle": "Sławomir Nowak złożył zawiadomienie na prokuratora, który go ścigał",
+      "originalDescription": "Sławomir Nowak złożył zawiadomienie o możliwości popełnienia serii przestępstw przez prokuratora Jana Drelewskiego, który prowadził śledztwa przeciwko niemu. Sprawa trafi do wydziału spraw wewnętrznych, który specjalizuje się w postępowaniach dotyczących sędziów i prokuratorów."
+    },
+    {
+      "title": "Ciało mężczyzny w rowie. Leżał z twarzą w wodze",
+      "link": "https://tvn24.pl/lublin/czermno-cialo-mezczyzny-w-rowie-lezal-z-twarza-w-wodze-st8966867?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:28:09 GMT",
+      "description": "Policjanci wyjaśniają okoliczności utonięcia 62-letniego mężczyzny. Jego ciało odnaleziono w rowie melioracyjnym w miejscowości Czermno na Lubelszczyźnie. Zabezpieczono je do badań sekcyjnych.",
+      "originalTitle": "Ciało mężczyzny w rowie. Leżał z twarzą w wodze",
+      "originalDescription": "Policjanci wyjaśniają okoliczności utonięcia 62-letniego mężczyzny. Jego ciało odnaleziono w rowie melioracyjnym w miejscowości Czermno na Lubelszczyźnie. Zabezpieczono je do badań sekcyjnych."
+    },
+    {
+      "title": "Zderzenie z autobusem. Jedna osoba w szpitalu",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-zderzenie-z-udzialem-autobusu-na-czerniakowskiej-jedna-osoba-w-szpitalu-st8966729?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 15:27:58 GMT",
+      "description": "Na Czerniakowskiej, podczas zmiany pasa ruchu, zderzyły się autobus miejski i samochód osobowy. Jedna z pasażerek autobusu trafiła do szpitala.",
+      "originalTitle": "Zderzenie z autobusem. Jedna osoba w szpitalu",
+      "originalDescription": "Na Czerniakowskiej, podczas zmiany pasa ruchu, zderzyły się autobus miejski i samochód osobowy. Jedna z pasażerek autobusu trafiła do szpitala."
+    }
+  ]
 }
