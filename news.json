@@ -1,26 +1,66 @@
 {
-  "lastUpdate": "2026-03-25T10:20:47.155Z",
+  "lastUpdate": "2026-03-25T10:48:00.783Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
-      "title": "Wypadek w windzie, ofiara śmiertelna",
+      "title": "Uwaga na słowa wobec położnej",
+      "link": "https://tvn24.pl/zdrowie/prywatna-polozna-ile-to-kosztuje-i-dlaczego-kobiety-wybieraja-te-usluge-st8963886?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 10:39:25 GMT",
+      "description": "• Ciężarne w Polsce są skłonne płacić lekarzom i położnym niemałe pieniądze.\n• Nie płacą dlatego, że wierzą, iż wtedy ich usługa będzie \"lepsza\".\n• Płacą, bo liczą na zbudowanie relacji.\n• Pa��stwo nie zapewnia im ciągłości opieki.\n• Wypowiedź została wygłoszona przez położną dr hab. Marię Węgrzynowską.",
+      "originalTitle": "\"Wykupiłaś położną?\" Lepiej uważać na słowa",
+      "originalDescription": "Ciężarne w Polsce są skłonne płacić lekarzom i położnym niemałe pieniądze nie dlatego, że wierzą, iż wtedy ich usługa będzie \"lepsza\". Robią to, bo liczą na zbudowanie relacji. - Państwo nie zapewnia im ciągłości opieki - mówi położna dr hab. Maria Węgrzynowska."
+    },
+    {
+      "title": "Osoba zaginiona, brak kontaktu",
+      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-straz-miejska-szukala-zaginionego-mezczyzny-st8965867?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 10:34:41 GMT",
+      "description": "• Strażnicy miejscy interweniowali w związku ze zgłoszeniem kobiety.\n• Kobieta zgłosiła, że jej mąż zaginął w lesie.\n• Mąż kobiety zaginął podczas powrotu do domu.\n• Okazało się, że mężczyzna był ranny.",
+      "originalTitle": "\"Miał się meldować z drogi, kontakt się urwał\"",
+      "originalDescription": "Strażnicy miejscy interweniowali w związku ze zgłoszeniem kobiety, której mąż zaginął w lesie podczas powrotu do domu. Okazało się, że mężczyzna był ranny."
+    },
+    {
+      "title": "Tusk skomentował posiedzenie rządu",
+      "link": "https://tvn24.pl/polska/rekonstrukcja-rzadu-dementi-na-posiedzeniu-donald-tusk-do-ministrow-spijcie-spokojnie-ale-st8965852?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 10:34:23 GMT",
+      "description": "• Donald Tusk komentował doniesienia o rzekomej rekonstrukcji rządu w trakcie posiedzenia Rady Ministrów.\n• Arleta Zalewska i Konrad Piasecki relacjonowali w \"Podcaście Politycznym\" w TVN24+ zapewnienia szefa rządu wobec ministrów.\n• Słowa premiera miały uspokoić nastroje.",
+      "originalTitle": "Dementi na posiedzeniu rządu. Tusk do ministrów: śpijcie spokojnie, ale...",
+      "originalDescription": "Donald Tusk komentował doniesienia o rzekomej rekonstrukcji rządu w trakcie posiedzenia Rady Ministrów. Arleta Zalewska i Konrad Piasecki relacjonowali w \"Podcaście Politycznym\" w TVN24+ zapewnienia szefa rządu wobec ministrów. Czy słowa premiera uspokoiły nastroje?"
+    },
+    {
+      "title": "Zespół kruchości u seniorów. \"Brak szczepień zwiększa ryzyko utraty sprawności\"",
+      "link": "https://tvn24.pl/zdrowie/zespol-kruchosci-u-seniorow-brak-szczepien-zwieksza-ryzyko-utraty-sprawnosci-st8964928?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 10:26:12 GMT",
+      "description": "Tak zwany zespół kruchości to stan, w którym nawet drobny stresor może doprowadzić do znacznego pogorszenia sprawności u osób starszych. Eksperci przypominają, że aktywność fizyczna, zdrowy tryb życia i profilaktyka, w tym szczepienia, pozwalają dłużej zachować sprawność. Tymczasem odsetek zaszczepionych seniorów w Polsce wciąż jest znacznie niższy niż zaleca WHO.",
+      "originalTitle": "Zespół kruchości u seniorów. \"Brak szczepień zwiększa ryzyko utraty sprawności\"",
+      "originalDescription": "Tak zwany zespół kruchości to stan, w którym nawet drobny stresor może doprowadzić do znacznego pogorszenia sprawności u osób starszych. Eksperci przypominają, że aktywność fizyczna, zdrowy tryb życia i profilaktyka, w tym szczepienia, pozwalają dłużej zachować sprawność. Tymczasem odsetek zaszczepionych seniorów w Polsce wciąż jest znacznie niższy niż zaleca WHO."
+    },
+    {
+      "title": "W barażach Polska zagra z Albanią. Jak dojechać na mecz?",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/baraze-mistrzostw-swiata-w-czwartek-polska-gra-z-albania-jak-dojechac-na-mecz-st8965685?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 10:19:47 GMT",
+      "description": "Polska walczy w barażach o awans do Mistrzostw Świata w Piłce Nożnej 2026. W czwartek, 26 marca, na Narodowym rozegra mecz z Albanią. Przed spotkaniem nie będzie można wjechać na Saską Kępę. Na mecz najlepiej dojechać komunikacją miejską.",
+      "originalTitle": "W barażach Polska zagra z Albanią. Jak dojechać na mecz?",
+      "originalDescription": "Polska walczy w barażach o awans do Mistrzostw Świata w Piłce Nożnej 2026. W czwartek, 26 marca, na Narodowym rozegra mecz z Albanią. Przed spotkaniem nie będzie można wjechać na Saską Kępę. Na mecz najlepiej dojechać komunikacją miejską."
+    },
+    {
+      "title": "Kobieta wsiadła do windy z łatwopalną cieczą. Nie żyje",
       "link": "https://tvn24.pl/lodz/lodz-kobieta-wsiadla-do-windy-z-latwopalna-ciecza-nie-zyje-st8965924?source=rss",
       "pubDate": "Wed, 25 Mar 2026 10:17:24 GMT",
-      "description": "• Tragiczne zdarzenie miało miejsce w Łodzi.\n• Zdarzenie dotyczy mieszkańca jednego z wieżowców.\n• Wieżowiec, w którym znaleziono spalone ciało, znajduje się w dzielnicy Widzew.\n• W wieżowcu odnaleziono spalone ciało kobiety.\n• Prokurator wstępnie informuje, że doszło do nieszczęśliwego wypadku.",
+      "description": "Tragiczne zdarzenie w Łodzi. Mieszkaniec jednego z wieżowców w dzielnicy Widzew odnalazł spalone ciało kobiety. Prokuratora wstępnie informuje, że doszło do nieszczęśliwego wypadku.",
       "originalTitle": "Kobieta wsiadła do windy z łatwopalną cieczą. Nie żyje",
       "originalDescription": "Tragiczne zdarzenie w Łodzi. Mieszkaniec jednego z wieżowców w dzielnicy Widzew odnalazł spalone ciało kobiety. Prokuratora wstępnie informuje, że doszło do nieszczęśliwego wypadku."
     },
     {
-      "title": "Sondaż: poparcie dla Trumpa",
+      "title": "Poparcie dla Trumpa. Takiego sondażu w tej kadencji jeszcze nie było",
       "link": "https://tvn24.pl/swiat/sondaz-reuters-ipsos-poparcie-dla-prezydenta-donalda-trumpa-w-marcu-2026-st8965807?source=rss",
       "pubDate": "Wed, 25 Mar 2026 10:13:00 GMT",
-      "description": "• Wskaźnik poparcia dla prezydenta Donalda Trumpa spadł w ostatnich dniach do najniższego poziomu od czasu jego powrotu do Białego Domu.\n• Spadek poparcia wynika z sondażu Reuters/Ipsos.\n• Ocena sposobu zarządzania przez Donalda Trumpa amerykańską gospodarką jest jeszcze gorsza niż wskaźnik poparcia.",
+      "description": "Wskaźnik poparcia dla prezydenta Donalda Trumpa spadł w ostatnich dniach do najniższego poziomu od czasu jego powrotu do Białego Domu - wynika z sondażu Reuters/Ipsos. Jeszcze gorzej wygląda ocena sposobu zarządzania przez niego amerykańską gospodarką. Co jeszcze pokazało badanie?",
       "originalTitle": "Poparcie dla Trumpa. Takiego sondażu w tej kadencji jeszcze nie było",
       "originalDescription": "Wskaźnik poparcia dla prezydenta Donalda Trumpa spadł w ostatnich dniach do najniższego poziomu od czasu jego powrotu do Białego Domu - wynika z sondażu Reuters/Ipsos. Jeszcze gorzej wygląda ocena sposobu zarządzania przez niego amerykańską gospodarką. Co jeszcze pokazało badanie?"
     },
     {
-      "title": "Kierowca myli pas awaryjny z drogą dla rowerów",
+      "title": "Był przekonany, że pas awaryjny na autostradzie jest dla rowerów. Nagranie",
       "link": "https://tvn24.pl/lodz/lodz-byl-przekonany-ze-pas-awaryjny-na-autostradzie-a1-jest-dla-rowerow-nagranie-st8965790?source=rss",
       "pubDate": "Wed, 25 Mar 2026 10:01:47 GMT",
       "description": "55-letni mężczyzna jechał rowerem pasem awaryjnym autostrady A1 pod Łodzią. Nagranie ze zdarzenia pokazała Generalna Dyrekcja Dróg Krajowych i Autostrad. Rowerzysta został zatrzymany przez policję, a jego tłumaczenie było zaskakujące.",
@@ -42,46 +82,6 @@
       "description": "Węgry wstrzymują dostawy gazu na Ukrainę - poinformował premier Węgier Viktor Orban. Dodał, że decyzja będzie obowiązywać do czasu wznowienia dostaw rosyjskiej ropy naftowej rurociągiem Przyjaźń.",
       "originalTitle": "Orban uderza w Ukrainę. \"Wstrzymujemy dostawy\"",
       "originalDescription": "Węgry wstrzymują dostawy gazu na Ukrainę - poinformował premier Węgier Viktor Orban. Dodał, że decyzja będzie obowiązywać do czasu wznowienia dostaw rosyjskiej ropy naftowej rurociągiem Przyjaźń."
-    },
-    {
-      "title": "Anulowane transakcje, 206 zarzutów dla kasjerki",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/nowy-dwor-mazowiecki-anulowane-transakcje-206-zarzutow-dla-kasjerki-st8965812?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 09:41:39 GMT",
-      "description": "Kasjerka anulowała transakcje klientów i pieniądze brała dla siebie. W sumie było to 12 tysięcy złotych. 43-latka usłyszała 206 zarzutów, przyznała się.",
-      "originalTitle": "Anulowane transakcje, 206 zarzutów dla kasjerki",
-      "originalDescription": "Kasjerka anulowała transakcje klientów i pieniądze brała dla siebie. W sumie było to 12 tysięcy złotych. 43-latka usłyszała 206 zarzutów, przyznała się."
-    },
-    {
-      "title": "\"Nie odpuszczajmy, dociskajmy\". Ma być spotkanie z Tuskiem w sprawie projektu Kosiniaka-Kamysza",
-      "link": "https://tvn24.pl/polska/nie-odpuszczajmy-dociskajmy-ma-byc-spotkanie-z-tuskiem-w-sprawie-projektu-kosiniaka-kamysza-st8965622?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 09:38:33 GMT",
-      "description": "W środę ma odbyć się spotkanie Donalda Tuska z Władysławem Kosiniakiem-Kamyszem - ujawniła w \"Podcaście politycznym\" w TVN24+ Arleta Zalewska. Ma ono dotyczyć projektu PSL w sprawie Polskiego Funduszu Inwestycji Obronnych. W rozmowach ma uczestniczyć także kilku innych ministrów.",
-      "originalTitle": "\"Nie odpuszczajmy, dociskajmy\". Ma być spotkanie z Tuskiem w sprawie projektu Kosiniaka-Kamysza",
-      "originalDescription": "W środę ma odbyć się spotkanie Donalda Tuska z Władysławem Kosiniakiem-Kamyszem - ujawniła w \"Podcaście politycznym\" w TVN24+ Arleta Zalewska. Ma ono dotyczyć projektu PSL w sprawie Polskiego Funduszu Inwestycji Obronnych. W rozmowach ma uczestniczyć także kilku innych ministrów."
-    },
-    {
-      "title": "Wolta na rynku po słowach Trumpa. \"Może stać się etapem unicestwienia wojny\"",
-      "link": "https://tvn24.pl/biznes/rynki/cena-ropy-iran-usa-wolta-na-rynku-po-slowach-donalda-trumpa-moze-stac-sie-etapem-unicestwienia-wojny-st8965569?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 09:26:48 GMT",
-      "description": "Wahania na rynku ropy nie ustają. W środę ceny surowca mocno spadają po wtorkowych wzrostach - informują maklerzy. To reakcja na doniesienia o nasileniu działań dyplomatycznych USA, które mają zmierzać do zakończenia wojny na Bliskim Wschodzie.",
-      "originalTitle": "Wolta na rynku po słowach Trumpa. \"Może stać się etapem unicestwienia wojny\"",
-      "originalDescription": "Wahania na rynku ropy nie ustają. W środę ceny surowca mocno spadają po wtorkowych wzrostach - informują maklerzy. To reakcja na doniesienia o nasileniu działań dyplomatycznych USA, które mają zmierzać do zakończenia wojny na Bliskim Wschodzie."
-    },
-    {
-      "title": "\"Tysiące Polaków zginęło, ratując Żydów\". Ambasador USA apeluje",
-      "link": "https://tvn24.pl/polska/ambasador-usa-w-polsce-thomas-rose-o-polakach-ratujacych-zydow-podczas-holokaustu-st8965570?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 08:54:33 GMT",
-      "description": "W Polsce było wielu, którzy ryzykowali wszystko, by ratować Żydów podczas nazistowskiego Holokaustu - powiedział ambasador USA w Polsce Thomas Rose. Zamieścił w mediach społecznościowych film z okazji obchodów Narodowego Dnia Pamięci Polaków Ratujących Żydów. Zawarł w nim apel.",
-      "originalTitle": "\"Tysiące Polaków zginęło, ratując Żydów\". Ambasador USA apeluje",
-      "originalDescription": "W Polsce było wielu, którzy ryzykowali wszystko, by ratować Żydów podczas nazistowskiego Holokaustu - powiedział ambasador USA w Polsce Thomas Rose. Zamieścił w mediach społecznościowych film z okazji obchodów Narodowego Dnia Pamięci Polaków Ratujących Żydów. Zawarł w nim apel."
-    },
-    {
-      "title": "Przyleciał z Nowego Jorku i został zatrzymany",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-przylecial-z-nowego-jorku-i-zostal-zatrzymany-st8965628?source=rss",
-      "pubDate": "Wed, 25 Mar 2026 08:54:30 GMT",
-      "description": "Strażnicy graniczni na Lotnisku Chopina zatrzymali 33-letniego obywatela Rumunii. Był poszukiwany, wystawiony został Europejski Nakaz Aresztowania.",
-      "originalTitle": "Przyleciał z Nowego Jorku i został zatrzymany",
-      "originalDescription": "Strażnicy graniczni na Lotnisku Chopina zatrzymali 33-letniego obywatela Rumunii. Był poszukiwany, wystawiony został Europejski Nakaz Aresztowania."
     }
   ]
 }
