@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-25T22:45:36.415Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-25T23:13:32.210Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zderzyło się pięć samochodów. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/polska/olesnica-zderzylo-sie-piec-samochodow-jedna-osoba-nie-zyje-st8967321?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 21:39:23 GMT",
+      "description": "Na drodze ekspresowej w okolicy Oleśnicy doszło do wypadku drogowego. Zderzyło się pięć aut, jedna osoba nie żyje, są ranni.",
+      "originalTitle": "Zderzyło się pięć samochodów. Jedna osoba nie żyje",
+      "originalDescription": "Na drodze ekspresowej w okolicy Oleśnicy doszło do wypadku drogowego. Zderzyło się pięć aut, jedna osoba nie żyje, są ranni."
+    },
+    {
+      "title": "Szef MSZ Iranu ma \"wiadomość dla sąsiadów\"",
+      "link": "https://tvn24.pl/swiat/iran-kontynuuje-wojne-nie-prowadzi-negocjacji-z-usa-minister-spraw-zagranicznych-abbas-aragczi-st8967322?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 21:24:56 GMT",
+      "description": "Iran ma zamiar kontynuować wojnę - oświadczył w środę minister spraw zagranicznych tego kraju Abbas Aragczi. Ocenił, że istniejąca komunikacja z Waszyngtonem to nie są negocjacje. Zaapelował także do sąsiednich krajów, aby zdystansowały się od USA.",
+      "originalTitle": "Szef MSZ Iranu ma \"wiadomość dla sąsiadów\"",
+      "originalDescription": "Iran ma zamiar kontynuować wojnę - oświadczył w środę minister spraw zagranicznych tego kraju Abbas Aragczi. Ocenił, że istniejąca komunikacja z Waszyngtonem to nie są negocjacje. Zaapelował także do sąsiednich krajów, aby zdystansowały się od USA."
+    },
+    {
+      "title": "MSZ o \"barbarzyńskim ataku\" na Lwów",
+      "link": "https://tvn24.pl/swiat/komunikat-msz-polska-potepia-atak-na-lwow-st8967289?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 21:06:18 GMT",
+      "description": "Ministerstwo Spraw Zagranicznych potępiło \"barbarzyński rosyjski atak dronowy\" na historyczne centrum Lwowa, gdzie trafiony został między innymi XVII‑wieczny klasztor wpisany na listę światowego dziedzictwa UNESCO. Na ostrzał zareagowała sama agencja ONZ, jednak - jak podkreślił rzecznik ukraińskiej dyplomacji - unikała wskazania sprawcy ataku.",
+      "originalTitle": "MSZ o \"barbarzyńskim ataku\" na Lwów",
+      "originalDescription": "Ministerstwo Spraw Zagranicznych potępiło \"barbarzyński rosyjski atak dronowy\" na historyczne centrum Lwowa, gdzie trafiony został między innymi XVII‑wieczny klasztor wpisany na listę światowego dziedzictwa UNESCO. Na ostrzał zareagowała sama agencja ONZ, jednak - jak podkreślił rzecznik ukraińskiej dyplomacji - unikała wskazania sprawcy ataku."
+    },
+    {
+      "title": "Nawet 20 centymetrów śniegu. Tu należy zachować ostrożność",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-na-25-26-03-20-centymetrow-sniegu-intensywne-opady-deszczu-przymrozki-mapy-st8961830?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:14:00 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed intensywnymi opadami śniegu. Obowiązują też alarmy przed przymrozkami i ulewami. Sprawdź, gdzie należy zachować ostrożność.",
+      "originalTitle": "Nawet 20 centymetrów śniegu. Tu należy zachować ostrożność",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed intensywnymi opadami śniegu. Obowiązują też alarmy przed przymrozkami i ulewami. Sprawdź, gdzie należy zachować ostrożność."
+    },
+    {
+      "title": "Meloni w \"furii\". Minister turystyki podała się do dymisji",
+      "link": "https://tvn24.pl/swiat/giorgia-meloni-w-furii-minister-turystyki-wloch-daniela-santanche-podala-sie-do-dymisji-st8967228?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 20:42:39 GMT",
+      "description": "Daniela Santanche, która w rządzie Włoch odpowiada za turystykę, zrezygnowała z urzędu. Zażądała tego premier Giorgia Meloni - oficjalnie z powodu śledztwa w sprawie nieprawidłowości, w które ma być zamieszana minister. Zdaniem włoskich mediów to także pokłosie przegranego przez rząd referendum.",
+      "originalTitle": "Meloni w \"furii\". Minister turystyki podała się do dymisji",
+      "originalDescription": "Daniela Santanche, która w rządzie Włoch odpowiada za turystykę, zrezygnowała z urzędu. Zażądała tego premier Giorgia Meloni - oficjalnie z powodu śledztwa w sprawie nieprawidłowości, w które ma być zamieszana minister. Zdaniem włoskich mediów to także pokłosie przegranego przez rząd referendum."
+    },
+    {
+      "title": "Reagują na podwyżki cen paliw. Będą rekompensaty",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ceny-paliw-wladze-w-bulgarii-reaguja-na-podwyzki-cen-paliw-beda-rekompensaty-st8967253?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 20:11:02 GMT",
+      "description": "W środę tymczasowy rząd Bułgarii ogłosił wprowadzenie rekompensaty z tytułu rosnących cen na stacjach paliw. Miesięczny dodatek w wysokości 20 euro przysługiwać będzie właścicielom samochodów, których deklarowany dochód za 2025 rok nie przekraczał 652 euro miesięcznie.",
+      "originalTitle": "Reagują na podwyżki cen paliw. Będą rekompensaty",
+      "originalDescription": "W środę tymczasowy rząd Bułgarii ogłosił wprowadzenie rekompensaty z tytułu rosnących cen na stacjach paliw. Miesięczny dodatek w wysokości 20 euro przysługiwać będzie właścicielom samochodów, których deklarowany dochód za 2025 rok nie przekraczał 652 euro miesięcznie."
+    },
+    {
+      "title": "Będą kary za hotele w domach. Rząd szykuje nowe przepisy",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/beda-kary-za-hotele-w-domach-rzad-szykuje-nowe-przepisy-st8967121?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 20:08:22 GMT",
+      "description": "Rząd chce ukrócić proceder tworzenia tak zwanych hoteli robotniczych w domach jednorodzinnych. Właściciele, którzy bez zgody urzędów zmieniają sposób użytkowania swoich nieruchomości, mogą zapłacić nawet 10 tysięcy złotych kary - zapowiedział wiceminister rozwoju Tomasz Lewandowski.",
+      "originalTitle": "Będą kary za hotele w domach. Rząd szykuje nowe przepisy",
+      "originalDescription": "Rząd chce ukrócić proceder tworzenia tak zwanych hoteli robotniczych w domach jednorodzinnych. Właściciele, którzy bez zgody urzędów zmieniają sposób użytkowania swoich nieruchomości, mogą zapłacić nawet 10 tysięcy złotych kary - zapowiedział wiceminister rozwoju Tomasz Lewandowski."
+    },
+    {
+      "title": "Trump \"gotowy rozpętać piekło\"",
+      "link": "https://tvn24.pl/swiat/donald-trump-gotowy-rozpetac-pieklo-rzeczniczka-bialego-domu-o-wojnie-w-iranie-st8967237?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 20:06:12 GMT",
+      "description": "Jeśli Iran nie zaakceptuje realiów, jeśli nie zrozumie, że został pokonany militarnie, to prezydent Donald Trump dopilnuje, aby został uderzony mocniej niż kiedykolwiek wcześniej - powiedziała rzeczniczka Białego Domu Karoline Leavitt. Jak dodała, doniesienia o 15-punktowym planie pokojowym \"są tylko częściowo prawdziwe\".",
+      "originalTitle": "Trump \"gotowy rozpętać piekło\"",
+      "originalDescription": "Jeśli Iran nie zaakceptuje realiów, jeśli nie zrozumie, że został pokonany militarnie, to prezydent Donald Trump dopilnuje, aby został uderzony mocniej niż kiedykolwiek wcześniej - powiedziała rzeczniczka Białego Domu Karoline Leavitt. Jak dodała, doniesienia o 15-punktowym planie pokojowym \"są tylko częściowo prawdziwe\"."
+    },
+    {
+      "title": "Pożar szaleje w Teksasie. \"Ogień z łatwością może się rozprzestrzeniać\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-pozar-szaleje-w-teksasie-ogien-z-latwoscia-moze-sie-rozprzestrzeniac-st8967213?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 20:04:18 GMT",
+      "description": "Strażacy walczą z pożarem, który szaleje na terenie Teksasu. Walkę z ogniem utrudniają wysoka temperatura powietrza i porywisty wiatr.",
+      "originalTitle": "Pożar szaleje w Teksasie. \"Ogień z łatwością może się rozprzestrzeniać\"",
+      "originalDescription": "Strażacy walczą z pożarem, który szaleje na terenie Teksasu. Walkę z ogniem utrudniają wysoka temperatura powietrza i porywisty wiatr."
+    },
+    {
+      "title": "Obsesyjna zazdrość i agresja byłego policjanta. \"Wyjął broń, powiedział, że nie pozwoli mi z nikim być\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/obsesyjna-zazdrosc-i-agresja-bylego-policjanta-wyjal-bron-powiedzial-ze-nie-pozwoli-mi-z-nikim-byc-st8967192?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 20:04:12 GMT",
+      "description": "Pani Agnieszka i jej nastoletnia córka żyją w strachu przed dawnym partnerem kobiety: byłym policjantem, który groził kobiecie śmiercią. Materiał \"Uwagi!\" TVN.",
+      "originalTitle": "Obsesyjna zazdrość i agresja byłego policjanta. \"Wyjął broń, powiedział, że nie pozwoli mi z nikim być\"",
+      "originalDescription": "Pani Agnieszka i jej nastoletnia córka żyją w strachu przed dawnym partnerem kobiety: byłym policjantem, który groził kobiecie śmiercią. Materiał \"Uwagi!\" TVN."
+    }
+  ]
 }
