@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-25T07:25:26.820Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-25T07:49:12.251Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek w kopalni śmiertelny dla górnika",
+      "link": "https://tvn24.pl/katowice/rybnik-tragedia-w-kopalni-jankowice-nie-zyje-42-letni-gornik-st8965602?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:45:28 GMT",
+      "description": "• 42-letni górnik zginął podczas prac prowadzonych w kopalni.\n• Prace prowadzone były 700 metrów pod ziemią.\n• Zdarzenie miało miejsce w rybnickiej kopalni Jankowice.\n• Do zdarzenia doszło przy przeładunku sekcji obudów ścianowych.",
+      "originalTitle": "Tragedia w kopalni. Nie żyje 42-letni górnik",
+      "originalDescription": "42-letni górnik zginął podczas prac prowadzonych 700 metrów pod ziemią w rybnickiej kopalni Jankowice. Do zdarzenia doszło przy przeładunku sekcji obudów ścianowych."
+    },
+    {
+      "title": "Zatrzymano siedem osób w sprawie fałszywek",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sochaczew-kompletna-linia-produkcyjna-do-falszywek-i-gotowe-wydruki-siedem-osob-zatrzymanych-st8965563?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:35:09 GMT",
+      "description": "Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości, wspólnie z policjantami z Wrocławia, Radomia i Warszawy, zatrzymali siedem osób w sprawie fałszowania pieniędzy. Wśród zatrzymanych jest były funkcjonariusz służb ukraińskich. To on miał być fałszerzem.",
+      "originalTitle": "Kompletna linia do produkcji fałszywek i gotowe wydruki. Siedem osób zatrzymanych",
+      "originalDescription": "Funkcjonariusze Centralnego Biura Zwalczania Cyberprzestępczości, wspólnie z policjantami z Wrocławia, Radomia i Warszawy, zatrzymali siedem osób w sprawie fałszowania pieniędzy. Wśród zatrzymanych jest były funkcjonariusz służb ukraińskich. To on miał być fałszerzem."
+    },
+    {
+      "title": "Pożar ciężarówki",
+      "link": "https://tvn24.pl/olsztyn/elblag-ciezarowka-stanela-w-plomieniach-st8965531?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:22:45 GMT",
+      "description": "• Pożar samochodu ciężarowego miał miejsce w Elblągu.\n• Pojazd stanął w płomieniach najprawdopodobniej w wyniku awarii.\n• Nikt nie ucierpiał w wyniku pożaru.",
+      "originalTitle": "Ciężarówka stanęła w płomieniach",
+      "originalDescription": "Pożar samochodu ciężarowego w Elblągu. Pojazd stanął w płomieniach najprawdopodobniej w wyniku awarii. Na szczęście nikt nie ucierpiał."
+    },
+    {
+      "title": "Śmierć Jerzego Malewicza, powstaniec warszawski",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/zmarl-jerzy-malewicz-walczyl-w-powstaniu-warszawskim-st8965532?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:22:00 GMT",
+      "description": "• W Nowym Jorku zmarł Jerzy Malewicz w wieku 97 lat.\n• Jerzy Malewicz był powstaniec warszawski.\n• Jako 16-latek walczył w batalionie \"Gozdawa\" na Starym Mieście.\n• Został ranny podczas walk w batalionie \"Gozdawa\" na Starym Mieście.\n• Był kawalerem Krzyża Walecznych.\n• Był kawalerem Orderu Odrodzenia Polski.",
+      "originalTitle": "Zmarł Jerzy Malewicz, walczył w Powstaniu Warszawskim",
+      "originalDescription": "W Nowym Jorku, w wieku 97 lat zmarł Jerzy Malewicz, powstaniec warszawski. Jako 16-latek walczył między innymi w batalionie \"Gozdawa\" na Starym Mieście, gdzie został ranny. Był kawalerem Krzyża Walecznych i Orderu Odrodzenia Polski."
+    },
+    {
+      "title": "Pracownicy kopalni hospitalizowani",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/inowroclaw-glodowka-w-kopalni-pracownicy-trafili-do-szpitala-st8965543?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:20:00 GMT",
+      "description": "Trwa protest głodowy w inowrocławskich kopalniach soli \"Solino\". Z powodu pogorszenia stanu zdrowia trzech pracowników trafiło do szpitala.",
+      "originalTitle": "Głodówka w kopalni. Pracownicy w szpitalu",
+      "originalDescription": "Trwa protest głodowy w inowrocławskich kopalniach soli \"Solino\". Z powodu pogorszenia stanu zdrowia trzech pracowników trafiło do szpitala."
+    },
+    {
+      "title": "Zmiany w pogodzie, możliwe zimowe zagrożenia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-przymrozki-opady-sniegu-tu-moze-obficie-sypnac-sniegiem-st8961830?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:14:00 GMT",
+      "description": "• Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym wiatrem.\n• Silny wiatr da się we znaki w kilku województwach w środę.\n• W kolejnych dniach możemy spodziewać się wielu innych zagrożeń ze strony pogody.",
+      "originalTitle": "Dziś silniej powieje. Niebawem wrócą zimowe zagrożenia",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym wiatrem, który w środę da się we znaki w kilku województwach. W kolejnych dniach możemy spodziewać się wielu innych zagrożeń ze strony pogody."
+    },
+    {
+      "title": "Nawrocki chciał \"wyjaśniać sprawę na pięści\"? Szef kancelarii odpowiada",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-chcial-wyjasniac-sprawe-na-piesci-szef-kancelarii-odpowiada-st8965506?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:10:10 GMT",
+      "description": "Odpowiadam jednym słowem: bzdury - stwierdził w \"Rozmowie Piaseckiego\" w TVN24 szef kancelarii prezydenta Zbigniew Bogucki. Komentował wtorkowe słowa posła KO w sprawie sytuacji, do której miało dojść na posiedzeniu komisji finansów z udziałem Karola Nawrockiego.",
+      "originalTitle": "Nawrocki chciał \"wyjaśniać sprawę na pięści\"? Szef kancelarii odpowiada",
+      "originalDescription": "Odpowiadam jednym słowem: bzdury - stwierdził w \"Rozmowie Piaseckiego\" w TVN24 szef kancelarii prezydenta Zbigniew Bogucki. Komentował wtorkowe słowa posła KO w sprawie sytuacji, do której miało dojść na posiedzeniu komisji finansów z udziałem Karola Nawrockiego."
+    },
+    {
+      "title": "Dziesiątki interwencji policji i pogotowia. Dzieci boją się chodzić do szkoły przez jednego ucznia",
+      "link": "https://tvn24.pl/polska/dziesiatki-interwencji-policji-i-pogotowia-dzieci-boja-sie-chodzic-do-szkoly-przez-jednego-ucznia-st8962941?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 07:00:11 GMT",
+      "description": "Przed szkołą podstawową znów stoi radiowóz. I karetka. Tutaj ten widok już nie dziwi. Ale wciąż wywołuje lęk. Policja przyjeżdżała wiele razy. Bo dziecko miało szarpać nauczyciela. Odgrażać się koledze. Próbować wyskoczyć przez okno. Teraz w tym oknie są kraty. Jednak problem nie jest rozwiązany. Trwa dramat ucznia, jego kolegów i koleżanek, bezradnego zespołu pedagogicznego i rodziców.",
+      "originalTitle": "Dziesiątki interwencji policji i pogotowia. Dzieci boją się chodzić do szkoły przez jednego ucznia",
+      "originalDescription": "Przed szkołą podstawową znów stoi radiowóz. I karetka. Tutaj ten widok już nie dziwi. Ale wciąż wywołuje lęk. Policja przyjeżdżała wiele razy. Bo dziecko miało szarpać nauczyciela. Odgrażać się koledze. Próbować wyskoczyć przez okno. Teraz w tym oknie są kraty. Jednak problem nie jest rozwiązany. Trwa dramat ucznia, jego kolegów i koleżanek, bezradnego zespołu pedagogicznego i rodziców."
+    },
+    {
+      "title": "Irańska rakieta nad Libanem. Pierwsza taka sytuacja",
+      "link": "https://tvn24.pl/swiat/iranska-rakieta-nad-libanem-pierwsza-taka-sytuacja-st8965457?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 05:29:14 GMT",
+      "description": "Irańska rakieta została przechwycona nad terytorium Libanu. Jej fragmenty spadły na okolice Bejrutu. Od wybuchu wojny to pierwsza taka sytuacja.",
+      "originalTitle": "Irańska rakieta nad Libanem. Pierwsza taka sytuacja",
+      "originalDescription": "Irańska rakieta została przechwycona nad terytorium Libanu. Jej fragmenty spadły na okolice Bejrutu. Od wybuchu wojny to pierwsza taka sytuacja."
+    },
+    {
+      "title": "Kolejny etap wdrażania Strefy Czystego Transportu będzie dotyczył 130 tysięcy zarejestrowanych teraz aut",
+      "link": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-kolejny-etap-wdrazania-strefy-czystego-transportu-bedzie-dotyczyl-130-tysiecy-zarejestrowanych-teraz-aut-st8965482?source=rss",
+      "pubDate": "Wed, 25 Mar 2026 06:46:19 GMT",
+      "description": "W 2028 roku wejdzie w życie kolejny etap wdrażania strefy czystego transportu (SCT) w stolicy. Obejmie samochody z silnikiem benzynowym o normie Euro 3 i silnikiem Diesla z normą Euro 5. Obecnie w Warszawie zarejestrowanych jest prawie 130 tysięcy takich aut.",
+      "originalTitle": "Kolejny etap wdrażania Strefy Czystego Transportu będzie dotyczył 130 tysięcy zarejestrowanych teraz aut",
+      "originalDescription": "W 2028 roku wejdzie w życie kolejny etap wdrażania strefy czystego transportu (SCT) w stolicy. Obejmie samochody z silnikiem benzynowym o normie Euro 3 i silnikiem Diesla z normą Euro 5. Obecnie w Warszawie zarejestrowanych jest prawie 130 tysięcy takich aut."
+    }
+  ]
 }
