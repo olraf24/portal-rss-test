@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-26T20:45:07.086Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-26T21:11:57.847Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ostrzeżenia IMGW. Tu w nocy może sypać śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-na-25-26-03-20-centymetrow-sniegu-intensywne-opady-deszczu-mapy-st8961830?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 05:20:25 GMT",
+      "description": "Pogoda w Polsce. IMGW wydał ostrzeżenia meteorologiczne. W niektórych regionach spodziewane są opady deszczu i śniegu. Sprawdź szczegóły.",
+      "originalTitle": "Ostrzeżenia IMGW. Tu w nocy może sypać śnieg",
+      "originalDescription": "Pogoda w Polsce. IMGW wydał ostrzeżenia meteorologiczne. W niektórych regionach spodziewane są opady deszczu i śniegu. Sprawdź szczegóły."
+    },
+    {
+      "title": "Komisja Europejska bierze pod lupę Snapchat",
+      "link": "https://tvn24.pl/biznes/tech/snapchat-i-strony-dla-doroslych-na-celowniku-ue-komisja-europejska-wszczyna-dochodzenie-st8969013?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 20:36:25 GMT",
+      "description": "Komisja Europejska wszczęła w czwartek postępowanie przeciwko aplikacji Snapchat w związku z narażaniem dzieci na wykorzystywanie seksualne i inne przestępstwa. Instytucja zarzuciła jednocześnie stronom dla dorosłych naruszenie unijnych przepisów o usługach cyfrowych.",
+      "originalTitle": "Komisja Europejska bierze pod lupę Snapchat",
+      "originalDescription": "Komisja Europejska wszczęła w czwartek postępowanie przeciwko aplikacji Snapchat w związku z narażaniem dzieci na wykorzystywanie seksualne i inne przestępstwa. Instytucja zarzuciła jednocześnie stronom dla dorosłych naruszenie unijnych przepisów o usługach cyfrowych."
+    },
+    {
+      "title": "Szukał go Interpol. Wpadł, bo zatrzymał się w niedozwolonym miejscu",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-szukal-go-interpol-wpadl-bo-zaparkowal-w-zatoce-autobusowej-st8968846?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 20:35:18 GMT",
+      "description": "Zatrzymanie auta w zatoce autobusowej zakończyło się dla kierowcy znacznie poważniej, niż policjanci mogli przypuszczać. Funkcjonariusze warszawskiej drogówki, podejmując interwencję wobec kierowcy Toyoty, ustalili, że mężczyzna był poszukiwany czerwoną notą Interpolu. Obywatel Azerbejdżanu został zatrzymany i trafił do aresztu.",
+      "originalTitle": "Szukał go Interpol. Wpadł, bo zatrzymał się w niedozwolonym miejscu",
+      "originalDescription": "Zatrzymanie auta w zatoce autobusowej zakończyło się dla kierowcy znacznie poważniej, niż policjanci mogli przypuszczać. Funkcjonariusze warszawskiej drogówki, podejmując interwencję wobec kierowcy Toyoty, ustalili, że mężczyzna był poszukiwany czerwoną notą Interpolu. Obywatel Azerbejdżanu został zatrzymany i trafił do aresztu."
+    },
+    {
+      "title": "\"Klienci indywidualni odczują zmianę, bo to bardzo duża obniżka\"",
+      "link": "https://tvn24.pl/polska/ceny-paliw-rzadowy-pakiet-klienci-indywidualni-odczuja-zmiane-bo-to-bardzo-duza-obnizka-st8969023?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 19:54:56 GMT",
+      "description": "Trzeba było to zrobić. Czy to jest już ten moment? Czy należało jeszcze poczekać? Nikt nie wie - mówił w \"Faktach po Faktach\" w TVN24 ekonomista profesor Witold Orłowski, komentując przygotowany przez rząd pakiet dotyczący obniżenia cen paliw. Grażyna Piotrowska-Oliwa, menadżerka, inwestorka, była prezeska zarządu PGNiG, podkreśliła, że \"klienci indywidualni odczują zmianę, bo to jest bardzo duża obniżka\".",
+      "originalTitle": "\"Klienci indywidualni odczują zmianę, bo to bardzo duża obniżka\"",
+      "originalDescription": "Trzeba było to zrobić. Czy to jest już ten moment? Czy należało jeszcze poczekać? Nikt nie wie - mówił w \"Faktach po Faktach\" w TVN24 ekonomista profesor Witold Orłowski, komentując przygotowany przez rząd pakiet dotyczący obniżenia cen paliw. Grażyna Piotrowska-Oliwa, menadżerka, inwestorka, była prezeska zarządu PGNiG, podkreśliła, że \"klienci indywidualni odczują zmianę, bo to jest bardzo duża obniżka\"."
+    },
+    {
+      "title": "Sasin o obniżkach cen paliw: nie mamy powodu, by być przeciw",
+      "link": "https://tvn24.pl/polska/jacek-sasin-o-obnizkach-cen-paliw-nie-mamy-powodow-byc-przeciw-st8968980?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 19:45:42 GMT",
+      "description": "Jesteśmy za wszystkimi rozwiązaniami, które spowodują, że na stacjach benzynowych będzie taniej. To jest oczywiste - oznajmił w \"Kropce nad i\" w TVN24 poseł PiS Jacek Sasin. Jego zdaniem analogiczny projekt był wcześniej składany przez jego partię.",
+      "originalTitle": "Sasin o obniżkach cen paliw: nie mamy powodu, by być przeciw",
+      "originalDescription": "Jesteśmy za wszystkimi rozwiązaniami, które spowodują, że na stacjach benzynowych będzie taniej. To jest oczywiste - oznajmił w \"Kropce nad i\" w TVN24 poseł PiS Jacek Sasin. Jego zdaniem analogiczny projekt był wcześniej składany przez jego partię."
+    },
+    {
+      "title": "Posłowie zajmują się ustawami, które mają obniżyć ceny paliw",
+      "link": "https://tvn24.pl/polska/cpn-ceny-paliw-nizej-projekty-ustaw-trafily-do-pierwszego-czytania-sejm-rozpoczal-prace-st8969010?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 19:34:23 GMT",
+      "description": "Posłowie rozpoczęli rozpatrywanie rządowych projektów ustaw z pakietu \"CPN - ceny paliw niżej\". Chodzi między innymi o obniżenie akcyzy i stawki VAT, a także codzienne ustalanie maksymalnych cen detalicznych przez ministra energii. Rząd chce, aby ceny do świąt spadły o około 1,20 złotego na litrze.",
+      "originalTitle": "Posłowie zajmują się ustawami, które mają obniżyć ceny paliw",
+      "originalDescription": "Posłowie rozpoczęli rozpatrywanie rządowych projektów ustaw z pakietu \"CPN - ceny paliw niżej\". Chodzi między innymi o obniżenie akcyzy i stawki VAT, a także codzienne ustalanie maksymalnych cen detalicznych przez ministra energii. Rząd chce, aby ceny do świąt spadły o około 1,20 złotego na litrze."
+    },
+    {
+      "title": "USA znoszą sankcje na białoruskie ministerstwo finansów i bank",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-znosza-sankcje-na-bialoruskie-firmy-banki-i-ministerstwo-finansow-reakcja-na-uwolnienie-wiezniow-st8968717?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 15:45:09 GMT",
+      "description": "Amerykański Departament Skarbu częściowo zniósł w czwartek sankcje nałożone na białoruskie ministerstwo finansów i Bank Rozwoju. Z listy sankcyjnej w pełni usunięto też tamtejsze firmy potasowe. To efekt uwolnienia przez Białoruś więźniów politycznych.",
+      "originalTitle": "USA znoszą sankcje na białoruskie ministerstwo finansów i bank",
+      "originalDescription": "Amerykański Departament Skarbu częściowo zniósł w czwartek sankcje nałożone na białoruskie ministerstwo finansów i Bank Rozwoju. Z listy sankcyjnej w pełni usunięto też tamtejsze firmy potasowe. To efekt uwolnienia przez Białoruś więźniów politycznych."
+    },
+    {
+      "title": "Bomba w siedzibie Centralnego Dowództwa USA. Zarzuty dla rodzeństwa",
+      "link": "https://tvn24.pl/swiat/postawiono-zarzuty-za-podlozenie-bomby-pod-baza-centralnego-dowodztwa-usa-st8968987?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 19:16:15 GMT",
+      "description": "Rodzeństwo z zarzutami w związku z podłożeniem bomby w siedzibie Centralnego Dowództwa USA - poinformowało FBI. Mężczyzna przebywa obecnie w Chinach, kobietę zatrzymano na Florydzie.",
+      "originalTitle": "Bomba w siedzibie Centralnego Dowództwa USA. Zarzuty dla rodzeństwa",
+      "originalDescription": "Rodzeństwo z zarzutami w związku z podłożeniem bomby w siedzibie Centralnego Dowództwa USA - poinformowało FBI. Mężczyzna przebywa obecnie w Chinach, kobietę zatrzymano na Florydzie."
+    },
+    {
+      "title": "Planowali skrócenie trasy linii 521. Dokąd dojedzie?",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-autobusy-linii-521-wciaz-beda-dojezdzac-do-centrum-st8968988?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 19:11:20 GMT",
+      "description": "Autobusy linii 521 będą dojeżdżały z Falenicy do Dworca Centralnego. Nie będzie skrócenia trasy z powodu remontu na linii otwockiej. Taką decyzję władze Warszawy podjęły po sprzeciwie pasażerów.",
+      "originalTitle": "Planowali skrócenie trasy linii 521. Dokąd dojedzie?",
+      "originalDescription": "Autobusy linii 521 będą dojeżdżały z Falenicy do Dworca Centralnego. Nie będzie skrócenia trasy z powodu remontu na linii otwockiej. Taką decyzję władze Warszawy podjęły po sprzeciwie pasażerów."
+    },
+    {
+      "title": "Kuter rybacki zakłócił start rakiety",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/norwegia-kuter-rybacki-zaklocil-start-rakiety-st8968863?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 19:09:20 GMT",
+      "description": "W środowy wieczór w Norwegii miało dojść do startu rakiety. Został on jednak wstrzymany w ostatniej chwili z zaskakującego powodu - w pobliżu centrum kosmicznego wykryto cywilną, nieautoryzowaną jednostkę.",
+      "originalTitle": "Kuter rybacki zakłócił start rakiety",
+      "originalDescription": "W środowy wieczór w Norwegii miało dojść do startu rakiety. Został on jednak wstrzymany w ostatniej chwili z zaskakującego powodu - w pobliżu centrum kosmicznego wykryto cywilną, nieautoryzowaną jednostkę."
+    }
+  ]
 }
