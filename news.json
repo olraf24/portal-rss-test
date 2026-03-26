@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-26T09:24:25.536Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-26T09:50:03.985Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Izrael: ważny irański dowódca zabity. Odpowiadał za blokowanie cieśniny Ormuz",
+      "link": "https://tvn24.pl/swiat/izrael-wazny-iranski-dowodca-zabity-odpowiadal-za-blokowanie-ciesniny-ormuz-st8967749?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 09:39:39 GMT",
+      "description": "Dowódca marynarki wojennej Korpusu Strażników Rewolucji Islamskiej Alireza Tangsiri został zabity w ataku w mieście Bandar Abbas w południowym Iranie – poinformował w czwartek portal Times of Israel, powołując się na izraelskiego urzędnika.",
+      "originalTitle": "Izrael: ważny irański dowódca zabity. Odpowiadał za blokowanie cieśniny Ormuz",
+      "originalDescription": "Dowódca marynarki wojennej Korpusu Strażników Rewolucji Islamskiej Alireza Tangsiri został zabity w ataku w mieście Bandar Abbas w południowym Iranie – poinformował w czwartek portal Times of Israel, powołując się na izraelskiego urzędnika."
+    },
+    {
+      "title": "\"Wiosenna rzeź\". Ukraińcy wybijają nad Rosją \"korytarze\"",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-skuteczne-ataki-na-rosyjska-obrone-powietrzna-i-wybijanie-korytarzy-st8955697?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 09:38:09 GMT",
+      "description": "Rosjanie mają problem z zapewnianiem obrony powietrznej na całym terytorium kraju - oceniają ukraińscy analitycy. Ma to być efekt nowej taktyki wybijania \"korytarzy\", w której od początku roku siły ukraińskie trafiły już 22 rosyjskie radary - zaledwie o jeden mniej, niż w całym 2025.",
+      "originalTitle": "\"Wiosenna rzeź\". Ukraińcy wybijają nad Rosją \"korytarze\"",
+      "originalDescription": "Rosjanie mają problem z zapewnianiem obrony powietrznej na całym terytorium kraju - oceniają ukraińscy analitycy. Ma to być efekt nowej taktyki wybijania \"korytarzy\", w której od początku roku siły ukraińskie trafiły już 22 rosyjskie radary - zaledwie o jeden mniej, niż w całym 2025."
+    },
+    {
+      "title": "Samochód na dachu, duże utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-samochod-na-dachu-duze-utrudnienia-st8967642?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 09:01:11 GMT",
+      "description": "Na Pradze Północ zderzyły się dwa auta. Jedno dachowało. Do szpitala trafiła jedna osoba. Są duże utrudnienia w ruchu.",
+      "originalTitle": "Samochód na dachu, duże utrudnienia",
+      "originalDescription": "Na Pradze Północ zderzyły się dwa auta. Jedno dachowało. Do szpitala trafiła jedna osoba. Są duże utrudnienia w ruchu."
+    },
+    {
+      "title": "NFZ planuje cięcia. \"To się odbędzie kosztem pacjentów\"",
+      "link": "https://tvn24.pl/zdrowie/ministerstwo-zdrowia-planuje-ciecia-rozmowa-z-jakubem-szulcem-i-waldemarem-malinowskim-st8967349?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 09:03:04 GMT",
+      "description": "Prezes Ogólnopolskiego Związku Pracodawców Szpitali Powiatowych (OZPSP) Waldemar Malinowski w programie \"Tak jest\" w TVN24 stwierdził, że planowane cięcia w rozliczaniu płatności za nadwykonania uderzą w pacjentów. Wiceprezes NFZ Jakub Szulc przyznał, że nie jest w stanie zagwarantować, że badań nie będzie się wykonywało mniej.",
+      "originalTitle": "NFZ planuje cięcia. \"To się odbędzie kosztem pacjentów\"",
+      "originalDescription": "Prezes Ogólnopolskiego Związku Pracodawców Szpitali Powiatowych (OZPSP) Waldemar Malinowski w programie \"Tak jest\" w TVN24 stwierdził, że planowane cięcia w rozliczaniu płatności za nadwykonania uderzą w pacjentów. Wiceprezes NFZ Jakub Szulc przyznał, że nie jest w stanie zagwarantować, że badań nie będzie się wykonywało mniej."
+    },
+    {
+      "title": "Trump powiedział, kiedy chce zakończyć wojnę",
+      "link": "https://tvn24.pl/swiat/trump-podjal-decyzje-w-sprawie-iranu-przekazal-ja-swoim-wspolpracownikom-st8967450?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 08:53:21 GMT",
+      "description": "Według \"Wall Street Journal\" prezydent USA Donald Trump wskazał swoim współpracownikom, w jakim czasie ma zamiar doprowadzić do zakończenia konfliktu z Iranem. Amerykański przywódca coraz częściej mówi o negocjacjach z Teheranem. Przedstawiciele irańskiego reżimu dystansują się.",
+      "originalTitle": "Trump powiedział, kiedy chce zakończyć wojnę",
+      "originalDescription": "Według \"Wall Street Journal\" prezydent USA Donald Trump wskazał swoim współpracownikom, w jakim czasie ma zamiar doprowadzić do zakończenia konfliktu z Iranem. Amerykański przywódca coraz częściej mówi o negocjacjach z Teheranem. Przedstawiciele irańskiego reżimu dystansują się."
+    },
+    {
+      "title": "Eksplozja na Morzu Czarnym. Tankowiec trafiony",
+      "link": "https://tvn24.pl/swiat/eksplozja-na-morzu-czarnym-tankowiec-z-floty-cieni-trafiony-st8967442?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 08:36:52 GMT",
+      "description": "Turecki tankowiec Altura został trafiony przez drona na Morzu Czarnym, 15 mil morskich od wybrzeża Bosforu - przekazała turecka telewizja NTV. Statek objęty jest europejskimi sankcjami.",
+      "originalTitle": "Eksplozja na Morzu Czarnym. Tankowiec trafiony",
+      "originalDescription": "Turecki tankowiec Altura został trafiony przez drona na Morzu Czarnym, 15 mil morskich od wybrzeża Bosforu - przekazała turecka telewizja NTV. Statek objęty jest europejskimi sankcjami."
+    },
+    {
+      "title": "Pogoda na mecz Polski z Albanią. Czy będzie padać?",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-na-mecz-polski-z-albania-w-czwartek-26-marca-czy-bedzie-padac-st8967503?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 08:32:50 GMT",
+      "description": "Dziś wieczorem na PGE Narodowym w Warszawie polscy piłkarze zmierzą się z Albanią w meczu barażowym o awans do mistrzostw świata. Jaka pogoda czeka kibiców wybierających się na to wydarzenie?",
+      "originalTitle": "Pogoda na mecz Polski z Albanią. Czy będzie padać?",
+      "originalDescription": "Dziś wieczorem na PGE Narodowym w Warszawie polscy piłkarze zmierzą się z Albanią w meczu barażowym o awans do mistrzostw świata. Jaka pogoda czeka kibiców wybierających się na to wydarzenie?"
+    },
+    {
+      "title": "10 lat, dziesiątki miliardów. Tyle ma kosztować odbudowa sektora",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ukraina-koszt-odbudowy-sektora-energetycznego-minister-energetyki-ukrainy-denys-szmyhal-podal-kwote-st8967536?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 08:29:44 GMT",
+      "description": "Odbudowa infrastruktury energetycznej kraju po zakończeniu wojny z Rosją będzie kosztować około 91 miliardów dolarów - ocenił minister energetyki Ukrainy Denys Szmyhal. Zgodnie z ocenami Banku Światowego odbudowa potrwa co najmniej dziesięć lat.",
+      "originalTitle": "10 lat, dziesiątki miliardów. Tyle ma kosztować odbudowa sektora",
+      "originalDescription": "Odbudowa infrastruktury energetycznej kraju po zakończeniu wojny z Rosją będzie kosztować około 91 miliardów dolarów - ocenił minister energetyki Ukrainy Denys Szmyhal. Zgodnie z ocenami Banku Światowego odbudowa potrwa co najmniej dziesięć lat."
+    },
+    {
+      "title": "Twierdził, że \"ma podwójną rolę\". Kulisy sprawy byłego wiceministra",
+      "link": "https://tvn24.pl/polska/sprawa-bylego-wiceministra-finansow-konrada-r-szczegoly-st8945255?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 08:12:25 GMT",
+      "description": "Twierdził, że tajną misję osobiście zlecił mu premier Mateusz Morawiecki. Stawką rozgrywki był miliard złotych. Oto szczegóły historii, która zaprowadziła Konrada R., byłego wiceministra finansów, członka prezydenckiej rady rozwoju i belwederskiego profesora na ławę oskarżonych.",
+      "originalTitle": "Twierdził, że \"ma podwójną rolę\". Kulisy sprawy byłego wiceministra",
+      "originalDescription": "Twierdził, że tajną misję osobiście zlecił mu premier Mateusz Morawiecki. Stawką rozgrywki był miliard złotych. Oto szczegóły historii, która zaprowadziła Konrada R., byłego wiceministra finansów, członka prezydenckiej rady rozwoju i belwederskiego profesora na ławę oskarżonych."
+    },
+    {
+      "title": "Powstanie nowa część \"Władcy Pierścieni\". Scenariusz pisze znany komik",
+      "link": "https://tvn24.pl/kultura-i-styl/film-powstanie-nowa-czesc-wladcy-pierscieni-scenariusz-pisze-komik-stephen-colbert-st8966367?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 08:11:33 GMT",
+      "description": "Stephen Colbert pisze scenariusz do nowego filmu o roboczym tytule \"Władca Pierścieni. Cienie przeszłości\". Komik jest fanem twórczości J.R.R. Tolkiena, a produkcja oparta będzie na rozdziałach powieści o Drużynie Pierścienia, które dotąd nie były zekranizowane.",
+      "originalTitle": "Powstanie nowa część \"Władcy Pierścieni\". Scenariusz pisze znany komik",
+      "originalDescription": "Stephen Colbert pisze scenariusz do nowego filmu o roboczym tytule \"Władca Pierścieni. Cienie przeszłości\". Komik jest fanem twórczości J.R.R. Tolkiena, a produkcja oparta będzie na rozdziałach powieści o Drużynie Pierścienia, które dotąd nie były zekranizowane."
+    }
+  ]
 }
