@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2026-03-26T12:49:01.519Z",
+  "lastUpdate": "2026-03-26T13:34:10.460Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Skład i budowa ciała wpływają na parametry ludzkiego głosu",
+      "link": "https://dzienniknaukowy.pl/sklad-i-budowa-ciala-wplywaja-na-parametry-ludzkiego-glosu",
+      "pubDate": "Thu, 26 Mar 2026 13:01:58 +0000",
+      "description": "Skład ciała, a dokładniej proporcja tkanki tłuszczowej do tzw. beztłuszczowej masy ciała, wpływa na parametry ludzkiego głosu. Większa zawartość tłuszczu u kobiet wiąże się z większą donośnością głosu, natomiast u mężczyzn sprawia, że barwa staje się „jaśniejsza” – wynika z badań polskiego antropologa."
+    },
     {
       "title": "Matematyczny kod średniowiecza. W poszukiwaniu „ukrytej miary&#8221; dawnych miast",
       "link": "https://dzienniknaukowy.pl/matematyczny-kod-sredniowiecza-w-poszukiwaniu-ukrytej-miary-dawnych-miast",
       "pubDate": "Thu, 26 Mar 2026 12:44:48 +0000",
       "description": "To, jak dziś wyglądają centra naszych miast, nie jest dziełem przypadku, lecz precyzyjnego planowania sprzed ponad siedmiu stuleci. Choć trudno znaleźć oryginalne plany urbanistyczne z XIII wieku, to badaczki z Politechniki Wrocławskiej, stosując zaawansowane metody statystyczne i skanowanie laserowe, zdołały zrekonstruować zasady, według których mierzono dawną przestrzeń"
+    },
+    {
+      "title": "Czy podłogówka na podczerwień jest naprawdę zdrowsza? Fakty, nie marketing",
+      "link": "https://dzienniknaukowy.pl/czy-podlogowka-na-podczerwien-jest-naprawde-zdrowsza-fakty-nie-marketing",
+      "pubDate": "Thu, 26 Mar 2026 10:05:00 +0000",
+      "description": "Wraz z transformacją energetyczną rośnie zainteresowanie technologiami grzewczymi o niskiej lub zerowej emisji lokalnej. Zaliczają się do nich systemy na podczerwień, w tym elektryczne ogrzewanie podłogowe oparte na foliach i matach grzewczych. Zwolennicy tej technologii wskazują na jej potencjalne przewagi nad klasycznymi systemami konwekcyjnymi, w tym korzystny wpływ na komfort i mikroklimat wnętrz. Czy podłogówka na podczerwień rzeczywiście może być uznana za rozwiązanie zdrowsze?"
     },
     {
       "title": "Berberyna jako „naturalny Ozempik”?",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-z-politechniki-warszawskiej-zmierzyli-tarcie-wzajemne-wirow-w-superplynie",
       "pubDate": "Mon, 23 Mar 2026 13:27:33 +0000",
       "description": "Ruch pojedynczego wiru w silnie oddziałującym superpłynie z ultrazimnych atomów zaobserwowali naukowcy z Włoch, Polski i Niemiec. Po raz pierwszy wyznaczyli też dwa współczynniki opisujące tarcie między częścią normalną i nadpłynną takiego układu."
-    },
-    {
-      "title": "Ekspert: badając tętno można zapobiec groźnemu udarowi mózgu",
-      "link": "https://dzienniknaukowy.pl/ekspert-badajac-tetno-mozna-zapobiec-groznemu-udarowi-mozgu",
-      "pubDate": "Fri, 20 Mar 2026 10:56:05 +0000",
-      "description": "Regularne badanie tętna zwiększa szansę na wczesne wykrycie migotania przedsionków i zapobiegnięcie udarowi niedokrwiennemu mózgu – przekonują eksperci. Udar jest wyjątkowo groźnym powikłaniem tej najczęściej występującej arytmii"
-    },
-    {
-      "title": "Sonda Vigil do obserwacji Słońca będzie wyposażona w polskie wysięgniki",
-      "link": "https://dzienniknaukowy.pl/sonda-vigil-do-obserwacji-slonca-bedzie-wyposazona-w-polskie-wysiegniki",
-      "pubDate": "Fri, 20 Mar 2026 10:10:24 +0000",
-      "description": "Europejska Agencja Kosmiczna (ESA) szykuje sondę Vigil, która ma zapewnić bezpieczeństwo satelitom, statkom kosmicznym i ludziom znajdującym się w przestrzeni kosmicznej. Wysięgniki do urządzeń pomiarowych sondy przygotuje polska firma Astronika. Misja ma wystartować w 2031 r."
     }
   ]
 }
