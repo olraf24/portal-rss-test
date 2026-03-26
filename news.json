@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-26T12:23:34.432Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-26T12:49:35.890Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Gorzka czekolada. Tak zdrożał koszyk wielkanocny",
+      "link": "https://tvn24.pl/biznes/z-kraju/wielkanoc-2026-ceny-w-sklepach-gorzka-czekolada-drozszy-koszyk-wielkanocny-st8967982?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:42:53 GMT",
+      "description": "Za wielkanocny koszyk zapłacimy w tym roku średnio o 12,8 procent więcej za wybrane produkty żywnościowe w porównaniu do danych z ubiegłego roku - wynika z najnowszej analizy CASE. Głównym winowajcą podwyżki okazała się gorzka czekolada, której cena wzrosła najbardziej.",
+      "originalTitle": "Gorzka czekolada. Tak zdrożał koszyk wielkanocny",
+      "originalDescription": "Za wielkanocny koszyk zapłacimy w tym roku średnio o 12,8 procent więcej za wybrane produkty żywnościowe w porównaniu do danych z ubiegłego roku - wynika z najnowszej analizy CASE. Głównym winowajcą podwyżki okazała się gorzka czekolada, której cena wzrosła najbardziej."
+    },
+    {
+      "title": "Opady deszczu i śniegu oraz przymrozki. Alarmy IMGW w 10 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-na-25-26-03-20-centymetrow-sniegu-intensywne-opady-deszczu-mapy-st8961830?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 05:20:25 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami oraz intensywnymi opadami deszczu i śniegu. W 10 województwach obowiązują żółte alarmy. Sprawdź szczegóły.",
+      "originalTitle": "Opady deszczu i śniegu oraz przymrozki. Alarmy IMGW w 10 województwach",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami oraz intensywnymi opadami deszczu i śniegu. W 10 województwach obowiązują żółte alarmy. Sprawdź szczegóły."
+    },
+    {
+      "title": "Znaki strefy czystego transportu były niszczone i kradzione. Są pierwsze zatrzymania",
+      "link": "https://tvn24.pl/krakow/krakow-znikajace-i-niszczone-znaki-strefy-czystego-transportu-sa-pierwsze-zatrzymania-st8968217?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:30:13 GMT",
+      "description": "Policja zatrzymała dwie osoby podejrzewane o kradzież znaku informującego o strefie czystego transportu w Krakowie. Wandalizmy związane z wprowadzeniem obostrzeń dla kierowców trwają od początku roku. Około 10 kolejnych znaków miało być zniszczonych w ostatni weekend.",
+      "originalTitle": "Znaki strefy czystego transportu były niszczone i kradzione. Są pierwsze zatrzymania",
+      "originalDescription": "Policja zatrzymała dwie osoby podejrzewane o kradzież znaku informującego o strefie czystego transportu w Krakowie. Wandalizmy związane z wprowadzeniem obostrzeń dla kierowców trwają od początku roku. Około 10 kolejnych znaków miało być zniszczonych w ostatni weekend."
+    },
+    {
+      "title": "Kometa się rozpadła, a teleskop zrobił zdjęcia. \"To coś wyjątkowego\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/kometa-sie-rozpadla-a-teleskop-zrobil-zdjecia-to-cos-wyjatkowego-st8967736?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:23:02 GMT",
+      "description": "Kosmiczny Teleskop Hubble'a zarejestrował rozpad komety. Jak wyjaśnili specjaliści uczestniczący w obserwacjach, szansa na zarejestrowanie takiego zjawiska była niewielka.",
+      "originalTitle": "Kometa się rozpadła, a teleskop zrobił zdjęcia. \"To coś wyjątkowego\"",
+      "originalDescription": "Kosmiczny Teleskop Hubble'a zarejestrował rozpad komety. Jak wyjaśnili specjaliści uczestniczący w obserwacjach, szansa na zarejestrowanie takiego zjawiska była niewielka."
+    },
+    {
+      "title": "Blisko 500 litrów chemikaliów dostało się do rzeki",
+      "link": "https://tvn24.pl/lodz/lodz-blisko-500-litrow-chemikaliow-dostalo-sie-do-rzeki-st8968137?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:20:53 GMT",
+      "description": "Blisko 500 litrów chemikaliów dostało się do rzeki Olechówka w Łodzi. Służby zlokalizowały miejsce wycieku oraz firmę, która może mieć związek z tą sprawą.",
+      "originalTitle": "Blisko 500 litrów chemikaliów dostało się do rzeki",
+      "originalDescription": "Blisko 500 litrów chemikaliów dostało się do rzeki Olechówka w Łodzi. Służby zlokalizowały miejsce wycieku oraz firmę, która może mieć związek z tą sprawą."
+    },
+    {
+      "title": "Atak hakerów na szpital. Ministerstwo zapowiada zmiany",
+      "link": "https://tvn24.pl/szczecin/szczecin-atak-hakerow-na-szpital-ministerstwo-zapowiada-zmiany-st8967836?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:16:45 GMT",
+      "description": "Atak hakerski na szpital w Szczecinie ujawnił skalę zagrożeń, na jakie narażone są placówki ochrony zdrowia w Polsce. W szpitalu trwa odbudowa systemów informatycznych, a rząd zapowiada zmiany w przepisach i dodatkowe środki na bezpieczeństwo cyfrowe.",
+      "originalTitle": "Atak hakerów na szpital. Ministerstwo zapowiada zmiany",
+      "originalDescription": "Atak hakerski na szpital w Szczecinie ujawnił skalę zagrożeń, na jakie narażone są placówki ochrony zdrowia w Polsce. W szpitalu trwa odbudowa systemów informatycznych, a rząd zapowiada zmiany w przepisach i dodatkowe środki na bezpieczeństwo cyfrowe."
+    },
+    {
+      "title": "Jedenastu przyleciało jednym samolotem, żaden nie przekroczył granicy",
+      "link": "https://tvn24.pl/katowice/katowice-pyrzowice-11-przylecialo-jednym-samolotem-zaden-nie-przekroczyl-granicy-st8968223?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:14:24 GMT",
+      "description": "Przylecieli do Katowic jednym samolotem. Problemy jedenastu Gruzinów zaczęły się podczas kontroli granicznej. Mieli problemy z odpowiedziami na pytania o cel pobytu w Polsce. Ostatecznie żaden nie przekroczył granicy, wszyscy wrócili do Gruzji.",
+      "originalTitle": "Jedenastu przyleciało jednym samolotem, żaden nie przekroczył granicy",
+      "originalDescription": "Przylecieli do Katowic jednym samolotem. Problemy jedenastu Gruzinów zaczęły się podczas kontroli granicznej. Mieli problemy z odpowiedziami na pytania o cel pobytu w Polsce. Ostatecznie żaden nie przekroczył granicy, wszyscy wrócili do Gruzji."
+    },
+    {
+      "title": "Zatrzymana po ostrzelaniu rezydencji Rihanny nie przyznaje się do zarzutów",
+      "link": "https://tvn24.pl/kultura-i-styl/zatrzymana-po-ostrzelaniu-rezydencji-rihanny-nie-przyznaje-sie-do-zarzutow-st8968234?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:13:37 GMT",
+      "description": "35-latka z Florydy zatrzymana po ostrzelaniu domu Rihanny w Los Angeles nie przyznała się do zarzutów, w tym usiłowania zabójstwa gwiazdy - informuje BBC. Grozi jej kara dożywotniego pozbawienia wolności.",
+      "originalTitle": "Zatrzymana po ostrzelaniu rezydencji Rihanny nie przyznaje się do zarzutów",
+      "originalDescription": "35-latka z Florydy zatrzymana po ostrzelaniu domu Rihanny w Los Angeles nie przyznała się do zarzutów, w tym usiłowania zabójstwa gwiazdy - informuje BBC. Grozi jej kara dożywotniego pozbawienia wolności."
+    },
+    {
+      "title": "Pod Warszawą zawyją syreny alarmowe",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pod-warszawa-zawyja-syreny-alarmowe-st8967929?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:13:01 GMT",
+      "description": "W piątek służby przeprowadzą testy działania syren alarmowych na terenie powiatu wołomińskiego. Mieszkańcy mogą usłyszeć krótkie, pięciosekundowe alarmy i komunikaty głosowe.",
+      "originalTitle": "Pod Warszawą zawyją syreny alarmowe",
+      "originalDescription": "W piątek służby przeprowadzą testy działania syren alarmowych na terenie powiatu wołomińskiego. Mieszkańcy mogą usłyszeć krótkie, pięciosekundowe alarmy i komunikaty głosowe."
+    },
+    {
+      "title": "To nagranie widziały miliony osób. Jest prawdziwe, ale...",
+      "link": "https://tvn24.pl/swiat/chiny-nagranie-z-siedmioma-psami-widzialy-miliony-osob-jest-prawdziwe-ale-st8967847?source=rss",
+      "pubDate": "Thu, 26 Mar 2026 12:08:32 GMT",
+      "description": "Film z siedmioma psami, które rzekomo uniknęły przerobienia na mięso, uciekając z ciężarówki, obejrzały miliony osób na całym świecie. Jak się jednak okazuje, historia była inna. Chińskie media dementują przekaz na temat zwierząt, które stały się bohaterami internetu.",
+      "originalTitle": "To nagranie widziały miliony osób. Jest prawdziwe, ale...",
+      "originalDescription": "Film z siedmioma psami, które rzekomo uniknęły przerobienia na mięso, uciekając z ciężarówki, obejrzały miliony osób na całym świecie. Jak się jednak okazuje, historia była inna. Chińskie media dementują przekaz na temat zwierząt, które stały się bohaterami internetu."
+    }
+  ]
 }
