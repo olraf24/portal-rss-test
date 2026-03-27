@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-27T17:47:28.406Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-27T18:22:18.909Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Tak kupowano głosy na węgierskiej prowincji. \"To tylko wisienka na torcie\"",
+      "link": "https://tvn24.pl/swiat/wegry-tak-kupowano-glosy-na-prowincji-to-tylko-wisienka-na-torcie-st8970844?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 18:10:27 GMT",
+      "description": "Płatności gotówkowe, dystrybucja żywności, drewna opałowego, zwierząt gospodarskich, dostarczanie alkoholu i narkotyków, a nawet groźby - według węgierskiej organizacji De!Akciokozosseg to metody kupowania głosów na węgierskiej prowincji. Proceder miał przynosić korzyści partii rządzącej. Szczegóły ujawniono w filmie dokumentalnym, opublikowanym na dwa tygodnie przed wyborami parlamentarnymi.",
+      "originalTitle": "Tak kupowano głosy na węgierskiej prowincji. \"To tylko wisienka na torcie\"",
+      "originalDescription": "Płatności gotówkowe, dystrybucja żywności, drewna opałowego, zwierząt gospodarskich, dostarczanie alkoholu i narkotyków, a nawet groźby - według węgierskiej organizacji De!Akciokozosseg to metody kupowania głosów na węgierskiej prowincji. Proceder miał przynosić korzyści partii rządzącej. Szczegóły ujawniono w filmie dokumentalnym, opublikowanym na dwa tygodnie przed wyborami parlamentarnymi."
+    },
+    {
+      "title": "Trzy razy grał ze Szwecją, trzy razy przegrał. \"Teraz boję się jednego\"",
+      "link": "https://tvn24.pl/polska/ms-w-pilce-noznej-baraze-mecz-polska-albania-rozmowa-z-jackiem-krzynowkiem-st8970397?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 18:04:38 GMT",
+      "description": "Do przerwy 0:1, w drugiej połowie strzelone dwa gole, wyszarpane zwycięstwo i wzruszenie Roberta Lewandowskiego. Albańczyków Biało-Czerwoni w Warszawie pokonali, we wtorek, w finale baraży o awans do mistrzostw świata, zmierzą się ze Szwedami. Jak grę młodszych kolegów ocenia Jacek Krzynówek? Czego obawia się przed tym decydującym meczem?",
+      "originalTitle": "Trzy razy grał ze Szwecją, trzy razy przegrał. \"Teraz boję się jednego\"",
+      "originalDescription": "Do przerwy 0:1, w drugiej połowie strzelone dwa gole, wyszarpane zwycięstwo i wzruszenie Roberta Lewandowskiego. Albańczyków Biało-Czerwoni w Warszawie pokonali, we wtorek, w finale baraży o awans do mistrzostw świata, zmierzą się ze Szwedami. Jak grę młodszych kolegów ocenia Jacek Krzynówek? Czego obawia się przed tym decydującym meczem?"
+    },
+    {
+      "title": "Pojazd za długi i za ciężki, kierowca bez prawa jazdy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nieporet-obladowana-drewnem-ciezarowka-wjechal-na-zakazie-st8970853?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 18:00:01 GMT",
+      "description": "Policjant z Legionowa razem z żołnierzem Wojsk Obrony Terytorialnej zatrzymali do kontroli w Nieporęcie (Mazowieckie) kierowcę ciężarowego Volvo. Mężczyzna zignorował znaki drogowe zakazujące wjazdu tak ciężkim pojazdom. 32-latek nie miał też uprawnień do kierowania takimi autami.",
+      "originalTitle": "Pojazd za długi i za ciężki, kierowca bez prawa jazdy",
+      "originalDescription": "Policjant z Legionowa razem z żołnierzem Wojsk Obrony Terytorialnej zatrzymali do kontroli w Nieporęcie (Mazowieckie) kierowcę ciężarowego Volvo. Mężczyzna zignorował znaki drogowe zakazujące wjazdu tak ciężkim pojazdom. 32-latek nie miał też uprawnień do kierowania takimi autami."
+    },
+    {
+      "title": "Atak zimy we Włoszech. Ponad 100 aut utknęło",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/atak-zimy-we-wloszech-ponad-100-aut-utknelo-st8970758?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:43:44 GMT",
+      "description": "Ponad 100 pojazdów utknęło na drodze w północnych Włoszech wskutek intensywnych opadów śniegu. Śnieżyca była związana z burzą Deborah. W innych regionach żywioł przyniósł silne podmuchy wiatru, przewracające drzewa i zrywające dachy.",
+      "originalTitle": "Atak zimy we Włoszech. Ponad 100 aut utknęło",
+      "originalDescription": "Ponad 100 pojazdów utknęło na drodze w północnych Włoszech wskutek intensywnych opadów śniegu. Śnieżyca była związana z burzą Deborah. W innych regionach żywioł przyniósł silne podmuchy wiatru, przewracające drzewa i zrywające dachy."
+    },
+    {
+      "title": "25-latka poddała się eutanazji. \"Chcę po prostu odejść spokojnie\"",
+      "link": "https://tvn24.pl/zdrowie/25-latka-poddala-sie-eutanazji-chce-po-prostu-odejsc-spokojnie-st8970773?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:33:11 GMT",
+      "description": "Po blisko dwóch latach postępowań sądowych 25-letnia Hiszpanka Noelia Castillo Ramos poddała się procedurze eutanazji. Jej spór z ojcem o tę decyzję rozstrzygały sądy krajowe i europejskie. \"Chcę po prostu odejść spokojnie i przestać cierpieć. To wszystko…\" - mówiła w ostatnim wywiadzie. Zmarła 26 marca.",
+      "originalTitle": "25-latka poddała się eutanazji. \"Chcę po prostu odejść spokojnie\"",
+      "originalDescription": "Po blisko dwóch latach postępowań sądowych 25-letnia Hiszpanka Noelia Castillo Ramos poddała się procedurze eutanazji. Jej spór z ojcem o tę decyzję rozstrzygały sądy krajowe i europejskie. \"Chcę po prostu odejść spokojnie i przestać cierpieć. To wszystko…\" - mówiła w ostatnim wywiadzie. Zmarła 26 marca."
+    },
+    {
+      "title": "Serafin ostro o SAFE: nie mamy czasu do stracenia",
+      "link": "https://tvn24.pl/biznes/z-kraju/komisarz-ue-piotr-serafin-ostro-o-safe-nie-mamy-czasu-do-stracenia-st8970830?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:29:08 GMT",
+      "description": "Nie przypuszczałem, że można budować antyunijną narrację dla opozycji do programu, którego celem jest wzmacnianie polskiego przemysłu obronnego - powiedział unijny komisarz do spraw budżetu Piotr Serafin w trakcie konferencji Warsaw European Conversation.",
+      "originalTitle": "Serafin ostro o SAFE: nie mamy czasu do stracenia",
+      "originalDescription": "Nie przypuszczałem, że można budować antyunijną narrację dla opozycji do programu, którego celem jest wzmacnianie polskiego przemysłu obronnego - powiedział unijny komisarz do spraw budżetu Piotr Serafin w trakcie konferencji Warsaw European Conversation."
+    },
+    {
+      "title": "Ile rakiet ma jeszcze Iran? Część może \"czekać w ukryciu\"",
+      "link": "https://tvn24.pl/swiat/ile-rakiet-ma-jeszcze-iran-nie-wiem-czy-kiedykolwiek-poznamy-dokladna-liczbe-st8970795?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:26:29 GMT",
+      "description": "Jeśli Iran jest mądry, to zachował część swojego potencjału (rakietowego), nie wykorzystuje wszystkiego, co ma - stwierdził kongresmen Partii Demokratycznej, weteran wojny w Iraku Seth Moulton. Armia USA nie informuje, ile dokładnie zniszczono irańskich rakiet. Reuters ujawnił szacunki amerykańskiej administracji.",
+      "originalTitle": "Ile rakiet ma jeszcze Iran? Część może \"czekać w ukryciu\"",
+      "originalDescription": "Jeśli Iran jest mądry, to zachował część swojego potencjału (rakietowego), nie wykorzystuje wszystkiego, co ma - stwierdził kongresmen Partii Demokratycznej, weteran wojny w Iraku Seth Moulton. Armia USA nie informuje, ile dokładnie zniszczono irańskich rakiet. Reuters ujawnił szacunki amerykańskiej administracji."
+    },
+    {
+      "title": "Sąd: \"Franciszkańska 3\" nie była atakiem na Kościół",
+      "link": "https://tvn24.pl/polska/reportaz-franciszkanska-3-sad-uchylil-decyzje-owczesnego-przewodniczacego-krrit-macieja-swirskiego-st8970602?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:23:56 GMT",
+      "description": "Sąd Okręgowy w Warszawie uchylił decyzję o nałożeniu na TVN ponad półmilionowej kary za emisję reportażu \"Franciszkańska 3\". W ustnych motywach uzasadnienia Sąd wskazał, że materiał nie był atakiem na Kościół katolicki, a poruszanie tematu ochrony małoletnich stanowi fundament demokracji. Wyrok jest nieprawomocny.",
+      "originalTitle": "Sąd: \"Franciszkańska 3\" nie była atakiem na Kościół",
+      "originalDescription": "Sąd Okręgowy w Warszawie uchylił decyzję o nałożeniu na TVN ponad półmilionowej kary za emisję reportażu \"Franciszkańska 3\". W ustnych motywach uzasadnienia Sąd wskazał, że materiał nie był atakiem na Kościół katolicki, a poruszanie tematu ochrony małoletnich stanowi fundament demokracji. Wyrok jest nieprawomocny."
+    },
+    {
+      "title": "Twierdziła, że dowódca miał ją napastować. Śledczy nie znaleźli dowodów",
+      "link": "https://tvn24.pl/poznan/poznan-szczecin-umorzono-sledztwo-w-sprawie-molestowania-zolnierki-st8970843?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:18:18 GMT",
+      "description": "Poznańska prokuratura umorzyła śledztwo w sprawie napaści seksualnej na szeregową 14. Zachodniopomorskiej Brygady Obrony Terytorialnej w Szczecinie. Śledczy nie znaleźli dowodów na popełnienie przestępstwa przez ówczesnego dowódcę jednostki Piotra S. Postanowienie nie jest prawomocne.",
+      "originalTitle": "Twierdziła, że dowódca miał ją napastować. Śledczy nie znaleźli dowodów",
+      "originalDescription": "Poznańska prokuratura umorzyła śledztwo w sprawie napaści seksualnej na szeregową 14. Zachodniopomorskiej Brygady Obrony Terytorialnej w Szczecinie. Śledczy nie znaleźli dowodów na popełnienie przestępstwa przez ówczesnego dowódcę jednostki Piotra S. Postanowienie nie jest prawomocne."
+    },
+    {
+      "title": "Pobierała zasiłek, twierdząc że jest chora. Pojechała na wakacje do Meksyku",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-wyrok-za-oszustwo-pobierala-zasilek-musi-zwrocic-pieniadze-st8970726?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 17:08:59 GMT",
+      "description": "33-latka przekonywała, że w związku z przewlekłą chorobą nie jest w stanie wyjść z domu. Tymczasem za pieniądze z zasiłku m.in. odwiedzała puby, kosmetyczkę, pojechała też na wakacje do Meksyku. Właśnie usłyszała wyrok.",
+      "originalTitle": "Pobierała zasiłek, twierdząc że jest chora. Pojechała na wakacje do Meksyku",
+      "originalDescription": "33-latka przekonywała, że w związku z przewlekłą chorobą nie jest w stanie wyjść z domu. Tymczasem za pieniądze z zasiłku m.in. odwiedzała puby, kosmetyczkę, pojechała też na wakacje do Meksyku. Właśnie usłyszała wyrok."
+    }
+  ]
 }
