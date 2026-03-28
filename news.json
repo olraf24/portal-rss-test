@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-27T23:43:18.166Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-28T00:32:18.627Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rozmowy USA z Iranem już \"w tym tygodniu\"? Witkoff o szczegółach",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-rozmowy-na-linii-usa-iran-juz-w-tym-tygodniu-steve-witkoff-o-szczegolach-st8971090?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 21:56:47 GMT",
+      "description": "Specjalny wysłannik USA Steve Witkoff poinformował, że jeszcze w tym tygodniu dojdzie do spotkania z przedstawicielami Iranu. Przekazał też, że już niedługo spodziewa się odpowiedzi kraju na amerykańską propozycję pokojową. - To rozwiązałoby wszystko - ocenił.",
+      "originalTitle": "Rozmowy USA z Iranem już \"w tym tygodniu\"? Witkoff o szczegółach",
+      "originalDescription": "Specjalny wysłannik USA Steve Witkoff poinformował, że jeszcze w tym tygodniu dojdzie do spotkania z przedstawicielami Iranu. Przekazał też, że już niedługo spodziewa się odpowiedzi kraju na amerykańską propozycję pokojową. - To rozwiązałoby wszystko - ocenił."
+    },
+    {
+      "title": "\"Nie jedź\". Najwyższy stopień ostrzeżenia dla egzotycznego kierunku",
+      "link": "https://tvn24.pl/biznes/z-kraju/komunikat-msz-w-sprawie-kuby-najwyzszy-stopien-ostrzezenia-st8971101?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 21:50:24 GMT",
+      "description": "Ministerstwo Spraw Zagranicznych odradza wszelkie podróże na Kubę - powiadomił resort, informując o zmianie poziomu ostrzeżenia dla podróżujących.",
+      "originalTitle": "\"Nie jedź\". Najwyższy stopień ostrzeżenia dla egzotycznego kierunku",
+      "originalDescription": "Ministerstwo Spraw Zagranicznych odradza wszelkie podróże na Kubę - powiadomił resort, informując o zmianie poziomu ostrzeżenia dla podróżujących."
+    },
+    {
+      "title": "Zaciągnął hamulec awaryjny, zgłosił informację o ładunku wybuchowym. Ewakuacja na torach",
+      "link": "https://tvn24.pl/lodz/krzewie-22-latek-zaciagnal-hamulec-awaryjny-zglosil-informacje-o-ladunku-wybuchowym-ewakuacja-na-torach-st8971093?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 21:35:45 GMT",
+      "description": "Na wysokości miejscowości Krzewie w województwie łódzkim mężczyzna zaciągnął hamulec awaryjny w pociągu - poinformowała policja. Następnie - jak przekazano - 22-latek opuścił skład i zgłosił informację o pozostawionej walizce z ładunkiem wybuchowym.",
+      "originalTitle": "Zaciągnął hamulec awaryjny, zgłosił informację o ładunku wybuchowym. Ewakuacja na torach",
+      "originalDescription": "Na wysokości miejscowości Krzewie w województwie łódzkim mężczyzna zaciągnął hamulec awaryjny w pociągu - poinformowała policja. Następnie - jak przekazano - 22-latek opuścił skład i zgłosił informację o pozostawionej walizce z ładunkiem wybuchowym."
+    },
+    {
+      "title": "Usterka promu w Karlskronie. Nowe informacje",
+      "link": "https://tvn24.pl/trojmiasto/karlskrona-usterka-promu-stena-spirit-statek-stal-w-porcie-rejsy-opoznione-st8970118?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 13:58:00 GMT",
+      "description": "Polacy utknęli w Karlskronie po usterce promu Stena Line. Jednostka od środy stała zacumowana w porcie i nie wiadomo było, kiedy będzie mogła wypłynąć. W piątek wieczorem przewoźnik poinformował, że pasażerowie \"są już w drodze do domu\". Podróżnym zorganizowano alternatywne środki transportu do kraju.",
+      "originalTitle": "Usterka promu w Karlskronie. Nowe informacje",
+      "originalDescription": "Polacy utknęli w Karlskronie po usterce promu Stena Line. Jednostka od środy stała zacumowana w porcie i nie wiadomo było, kiedy będzie mogła wypłynąć. W piątek wieczorem przewoźnik poinformował, że pasażerowie \"są już w drodze do domu\". Podróżnym zorganizowano alternatywne środki transportu do kraju."
+    },
+    {
+      "title": "\"Ucieczka przed brakiem argumentów\". Kalisz o reakcjach Boguckiego",
+      "link": "https://tvn24.pl/polska/bezkitu-ryszard-kalisz-o-nerwowych-reakcjach-zbigniewa-boguckiego-ucieczka-przed-brakiem-argumentow-st8970973?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 21:02:13 GMT",
+      "description": "Brakuje argumentacji merytorycznej i wtedy następuje kontratak ad personam - ocenił w programie \"#BezKitu\" w TVN24 adwokat Ryszard Kalisz. Komentował między innymi ostatnie nerwowe reakcje szefa kancelarii prezydenta, co według niego \"świadczy o ucieczce przed brakiem argumentów\".",
+      "originalTitle": "\"Ucieczka przed brakiem argumentów\". Kalisz o reakcjach Boguckiego",
+      "originalDescription": "Brakuje argumentacji merytorycznej i wtedy następuje kontratak ad personam - ocenił w programie \"#BezKitu\" w TVN24 adwokat Ryszard Kalisz. Komentował między innymi ostatnie nerwowe reakcje szefa kancelarii prezydenta, co według niego \"świadczy o ucieczce przed brakiem argumentów\"."
+    },
+    {
+      "title": "IMGW ostrzega, gdzie w nocy szczypnie mróz i sypnie śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-na-26-27-03-20-centymetrow-sniegu-intensywne-opady-deszczu-przymrozki-mapy-st8961830?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 05:23:48 GMT",
+      "description": "Pogoda w Polsce. IMGW wydał ostrzeżenia meteorologiczne. W ponad połowie województw w nocy spodziewane są przymrozki, a miejscami może dosypać śniegu. Sprawdź, gdzie ma być niebezpiecznie.",
+      "originalTitle": "IMGW ostrzega, gdzie w nocy szczypnie mróz i sypnie śnieg",
+      "originalDescription": "Pogoda w Polsce. IMGW wydał ostrzeżenia meteorologiczne. W ponad połowie województw w nocy spodziewane są przymrozki, a miejscami może dosypać śniegu. Sprawdź, gdzie ma być niebezpiecznie."
+    },
+    {
+      "title": "Trump rozmawiał z premierem Indii. Do rozmowy dołączył Musk",
+      "link": "https://tvn24.pl/biznes/ze-swiata/elon-musk-dolaczyl-do-rozmowy-telefonicznej-donalda-trumpa-z-premierem-indii-narendra-modim-st8971072?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 20:50:32 GMT",
+      "description": "Najbogatszy człowiek świata wziął udział w rozmowie telefonicznej Donalda Trumpa z premierem Indii Narendrą Modim - podał \"New York Times\". Miała ona dotyczyć między innymi wojny w Iranie i blokady cieśniny Ormuz. Żaden z rządów nie wspomniał w swoich komunikatach o udziale Muska.",
+      "originalTitle": "Trump rozmawiał z premierem Indii. Do rozmowy dołączył Musk",
+      "originalDescription": "Najbogatszy człowiek świata wziął udział w rozmowie telefonicznej Donalda Trumpa z premierem Indii Narendrą Modim - podał \"New York Times\". Miała ona dotyczyć między innymi wojny w Iranie i blokady cieśniny Ormuz. Żaden z rządów nie wspomniał w swoich komunikatach o udziale Muska."
+    },
+    {
+      "title": "Zabytkowe tramwaje w rocznicę elektryfikacji",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zabytkowe-tramwaje-w-rocznice-elektryfikacji-st8971073?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 20:38:22 GMT",
+      "description": "Wyjadą na tory by uczcić 118. rocznicę elektryfikacji warszawskich tramwajów. W weekend dla pasażerów udostępnione będą zabytkowe tramwaje. Będzie to linia E.",
+      "originalTitle": "Zabytkowe tramwaje w rocznicę elektryfikacji",
+      "originalDescription": "Wyjadą na tory by uczcić 118. rocznicę elektryfikacji warszawskich tramwajów. W weekend dla pasażerów udostępnione będą zabytkowe tramwaje. Będzie to linia E."
+    },
+    {
+      "title": "Kolejne ciosy w irański program nuklearny. Zbombardowano dwa obiekty",
+      "link": "https://tvn24.pl/swiat/izrael-zbombardowal-obiekty-jadrowe-w-iranie-st8970927?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 19:23:13 GMT",
+      "description": "Izrael uderzył w dwie instalacje jądrowe w Iranie. Celem nalotów były ciężkowodny reaktor w Araku oraz zakład obróbki uranu w Ardakanie. Zdaniem izraelskich sił zbrojnych obiekty te miały kluczowe znaczenie dla irańskich prac nad opracowaniem broni nuklearnej. Dyrektor Międzynarodowej Agencji Energii Atomowej zaapelował o powściągliwość w działaniach militarnych.",
+      "originalTitle": "Kolejne ciosy w irański program nuklearny. Zbombardowano dwa obiekty",
+      "originalDescription": "Izrael uderzył w dwie instalacje jądrowe w Iranie. Celem nalotów były ciężkowodny reaktor w Araku oraz zakład obróbki uranu w Ardakanie. Zdaniem izraelskich sił zbrojnych obiekty te miały kluczowe znaczenie dla irańskich prac nad opracowaniem broni nuklearnej. Dyrektor Międzynarodowej Agencji Energii Atomowej zaapelował o powściągliwość w działaniach militarnych."
+    },
+    {
+      "title": "Powiązani z Iranem hakerzy włamali się na maila szefa FBI",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-powiazani-z-iranem-hakerzy-wlamali-sie-na-maila-szefa-fbi-kasha-patela-st8970704?source=rss",
+      "pubDate": "Fri, 27 Mar 2026 20:21:09 GMT",
+      "description": "Powiązana z Iranem grupa Handala ogłosiła, że stoi za włamaniem na prywatną skrzynkę mailową dyrektora FBI Kasha Patela. Hakerzy opublikowali między innymi jego prywatne zdjęcia. Amerykański resort sprawiedliwości potwierdził zajście.",
+      "originalTitle": "Powiązani z Iranem hakerzy włamali się na maila szefa FBI",
+      "originalDescription": "Powiązana z Iranem grupa Handala ogłosiła, że stoi za włamaniem na prywatną skrzynkę mailową dyrektora FBI Kasha Patela. Hakerzy opublikowali między innymi jego prywatne zdjęcia. Amerykański resort sprawiedliwości potwierdził zajście."
+    }
+  ]
 }
