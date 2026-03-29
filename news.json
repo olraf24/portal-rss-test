@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-03-29T06:35:03.364Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-03-29T07:25:47.718Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Padła szóstka w Lotto Plus",
+      "link": "https://tvn24.pl/biznes/pieniadze/lotto-i-lotto-plus-wyniki-z-28-marca-2026-jakie-liczby-padly-w-trakcie-losowania-st8972163?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 07:14:38 GMT",
+      "description": "W sobotnim losowaniu Lotto nikt nie wytypował prawidłowo wszystkich sześciu liczb. Szóstkę udało się jednak trafić w Lotto Plus. Oto wyniki losowania z 28 marca.",
+      "originalTitle": "Padła szóstka w Lotto Plus",
+      "originalDescription": "W sobotnim losowaniu Lotto nikt nie wytypował prawidłowo wszystkich sześciu liczb. Szóstkę udało się jednak trafić w Lotto Plus. Oto wyniki losowania z 28 marca."
+    },
+    {
+      "title": "Po tragedii na krajowej \"10\" sprawdzili stan drogi i jej oznakowanie",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/przylubie-po-tragedii-na-krajowej-10-badali-stan-drogi-i-jej-oznakowanie-pierwsze-ustalenia-st8972101?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 07:05:40 GMT",
+      "description": "Policjanci oraz przedstawiciel Generalnej Dyrekcji Dróg Krajowych i Autostrad w Bydgoszczy sprawdzali miejsce wypadku w Przyłubiu (Kujawsko-Pomorskie). Zginął tam 63-letni kierujący audi. Ich zadaniem była ocena stanu technicznego drogi i jej oznakowania.",
+      "originalTitle": "Po tragedii na krajowej \"10\" sprawdzili stan drogi i jej oznakowanie",
+      "originalDescription": "Policjanci oraz przedstawiciel Generalnej Dyrekcji Dróg Krajowych i Autostrad w Bydgoszczy sprawdzali miejsce wypadku w Przyłubiu (Kujawsko-Pomorskie). Zginął tam 63-letni kierujący audi. Ich zadaniem była ocena stanu technicznego drogi i jej oznakowania."
+    },
+    {
+      "title": "Uderzył w przyczepę z drewnem. Nie żyje 11-letnia dziewczynka",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zawiszyn-auto-zderzylo-sie-z-przyczepa-ciagnika-rolniczego-nie-zyje-11-letnia-pasazerka-st8972168?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 06:57:51 GMT",
+      "description": "Tragiczny wypadek na drodze krajowej numer 50 w miejscowości Zawiszyn w powiecie wołomińskim. Samochód osobowy uderzył w przyczepę z drewnem. Zginęła 11-letnia dziewczynka.",
+      "originalTitle": "Uderzył w przyczepę z drewnem. Nie żyje 11-letnia dziewczynka",
+      "originalDescription": "Tragiczny wypadek na drodze krajowej numer 50 w miejscowości Zawiszyn w powiecie wołomińskim. Samochód osobowy uderzył w przyczepę z drewnem. Zginęła 11-letnia dziewczynka."
+    },
+    {
+      "title": "Zatrzymali go, bo jechał za szybko. \"Przekroczył nie tylko prędkość\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-zatrzymali-go-bo-jechal-za-szybko-przekroczyl-nie-tylko-dozwolona-predkosc-st8971512?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 06:36:52 GMT",
+      "description": "Policjanci zatrzymali kierowcę, który przekroczył dozwoloną prędkość. Podczas interwencji okazało się, że był pod wpływem narkotyków, wcześniej pił też alkohol. Mężczyzna stracił prawo jazdy, grozi mu do trzech lat więzienia.",
+      "originalTitle": "Zatrzymali go, bo jechał za szybko. \"Przekroczył nie tylko prędkość\"",
+      "originalDescription": "Policjanci zatrzymali kierowcę, który przekroczył dozwoloną prędkość. Podczas interwencji okazało się, że był pod wpływem narkotyków, wcześniej pił też alkohol. Mężczyzna stracił prawo jazdy, grozi mu do trzech lat więzienia."
+    },
+    {
+      "title": "Tutaj opady śniegu nadal mogą dać się we znaki",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-28-29-03-przymrozki-snieg-alerty-w-osmiu-wojewodztwach-st8971507?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 04:23:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą w niedzielny poranek. W jednym powiecie obowiązują alarmy przed opadami śniegu. Sprawdź, czy musisz je uwzględnić w swoich planach.",
+      "originalTitle": "Tutaj opady śniegu nadal mogą dać się we znaki",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niebezpieczną pogodą w niedzielny poranek. W jednym powiecie obowiązują alarmy przed opadami śniegu. Sprawdź, czy musisz je uwzględnić w swoich planach."
+    },
+    {
+      "title": "Utknął ponownie, uwolnił się sam. Władze obawiają się powtórki",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/niemcy-humbak-w-morzu-baltyckim-utknal-ponownie-ale-tym-razem-uwolnil-sie-sam-st8972085?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 05:55:24 GMT",
+      "description": "Humbak, którego po kilku dniach udało się oswobodzić z mielizny północnych wybrzeży Niemiec, ponownie utknął. Tym razem zwierzęciu udało się samodzielnie odzyskać wolność, ale władze obawiają się, że podczas powrotu na głębsze wody może napotkać kolejne trudności.",
+      "originalTitle": "Utknął ponownie, uwolnił się sam. Władze obawiają się powtórki",
+      "originalDescription": "Humbak, którego po kilku dniach udało się oswobodzić z mielizny północnych wybrzeży Niemiec, ponownie utknął. Tym razem zwierzęciu udało się samodzielnie odzyskać wolność, ale władze obawiają się, że podczas powrotu na głębsze wody może napotkać kolejne trudności."
+    },
+    {
+      "title": "W imię zasad. Brajan i Dżesika już nie dziwią",
+      "link": "https://tvn24.pl/polska/imiona-w-polsce-jakie-nadawane-sa-najrzadziej-jakich-nie-powinno-sie-nadawac-na-jakie-imiona-stawiaja-rodzice-st8965424?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 05:52:23 GMT",
+      "description": "Kuba to nie imię dla dziewczynki, Nikola to nie imię dla chłopca, a Opieniek nie jest imieniem wcale - musiała 20 lat temu ogłosić Rada Języka Polskiego. Od tej pory listę niezalecanych imion, których żaden urząd stanu cywilnego nie powinien przyjąć, można poszerzyć o kilka pozycji. Na przykład o Blika i Woja, których rodzicom nie tak dawno odmówili urzędnicy z Katowic. Przeciąganie liny między twórcami regulacji a pragnącymi ekstrawagancji petentami trwa.",
+      "originalTitle": "W imię zasad. Brajan i Dżesika już nie dziwią",
+      "originalDescription": "Kuba to nie imię dla dziewczynki, Nikola to nie imię dla chłopca, a Opieniek nie jest imieniem wcale - musiała 20 lat temu ogłosić Rada Języka Polskiego. Od tej pory listę niezalecanych imion, których żaden urząd stanu cywilnego nie powinien przyjąć, można poszerzyć o kilka pozycji. Na przykład o Blika i Woja, których rodzicom nie tak dawno odmówili urzędnicy z Katowic. Przeciąganie liny między twórcami regulacji a pragnącymi ekstrawagancji petentami trwa."
+    },
+    {
+      "title": "Wciąż można zatankować na CPN. Jedyna taka stacja",
+      "link": "https://tvn24.pl/polska/w-warszawie-wciaz-dziala-stacja-cpn-st8972134?source=rss",
+      "pubDate": "Sun, 29 Mar 2026 05:50:33 GMT",
+      "description": "CPN to dzisiaj skrót nazwy rządowego programu - \"Ceny Paliwa Niżej\", ale przed laty napis CPN widniał na stacjach benzynowych i oznaczał Centralę Produktów Naftowych. Ze stacjami CPN kojarzą się kolejki, kartki i braki. Jedna taka stacja istnieje do dzisiaj.",
+      "originalTitle": "Wciąż można zatankować na CPN. Jedyna taka stacja",
+      "originalDescription": "CPN to dzisiaj skrót nazwy rządowego programu - \"Ceny Paliwa Niżej\", ale przed laty napis CPN widniał na stacjach benzynowych i oznaczał Centralę Produktów Naftowych. Ze stacjami CPN kojarzą się kolejki, kartki i braki. Jedna taka stacja istnieje do dzisiaj."
+    },
+    {
+      "title": "Huti dołączają do wojny. Desant żołnierzy USA, są ich tysiące",
+      "link": "https://tvn24.pl/swiat/wojna-z-iranem-huti-zaatakowali-izrael-st8971909?source=rss",
+      "pubDate": "Sat, 28 Mar 2026 18:17:50 GMT",
+      "description": "Rebelianci Huti w Jemenie wystrzelili pociski w kierunku Izraela i oficjalnie poinformowali o dołączeniu do konfliktu. W regionie Zatoki Perskiej doszło do zmasowanych ataków rakietowych i dronowych. Przedstawiamy najważniejsze wydarzenia ostatnich godzin wokół wojny na Bliskim Wschodzie.",
+      "originalTitle": "Huti dołączają do wojny. Desant żołnierzy USA, są ich tysiące",
+      "originalDescription": "Rebelianci Huti w Jemenie wystrzelili pociski w kierunku Izraela i oficjalnie poinformowali o dołączeniu do konfliktu. W regionie Zatoki Perskiej doszło do zmasowanych ataków rakietowych i dronowych. Przedstawiamy najważniejsze wydarzenia ostatnich godzin wokół wojny na Bliskim Wschodzie."
+    },
+    {
+      "title": "Prezydent na konferencji CPAC. \"Nasza cywilizacja jest zagrożona\"",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-na-konferencji-cpac-w-usa-nasza-cywilizacja-jest-zagrozona-st8972068?source=rss",
+      "pubDate": "Sat, 28 Mar 2026 20:49:31 GMT",
+      "description": "Łączy nas tam sama chrześcijańska cywilizacja. I dzisiaj ta cywilizacja jest niestety zagrożona. Nie tylko z zewnątrz, ale również wewnątrz - powiedział prezydent Karol Nawrocki w trakcie konferencji konserwatystów CPAC w Stanach Zjednoczonych. Głowa państwa wspomniała też o Rosji.",
+      "originalTitle": "Prezydent na konferencji CPAC. \"Nasza cywilizacja jest zagrożona\"",
+      "originalDescription": "Łączy nas tam sama chrześcijańska cywilizacja. I dzisiaj ta cywilizacja jest niestety zagrożona. Nie tylko z zewnątrz, ale również wewnątrz - powiedział prezydent Karol Nawrocki w trakcie konferencji konserwatystów CPAC w Stanach Zjednoczonych. Głowa państwa wspomniała też o Rosji."
+    }
+  ]
 }
