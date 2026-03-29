@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2026-03-29T23:10:57.813Z",
+  "lastUpdate": "2026-03-29T23:44:45.193Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Nawet w próżni krótkotrwale pojawiają się i znikają wirtualne pary cząstek i antycząstek",
-      "link": "https://dzienniknaukowy.pl/nawet-w-prozni-krotkotrwale-pojawiaja-sie-i-znikaja-wirtualne-pary-czastek-i-antyczastek",
-      "pubDate": "Fri, 27 Mar 2026 13:19:09 +0000",
-      "description": "W eksperymencie STAR w zderzeniach protonów zaobserwowano, że pary cząstek - zwanych hiperonami lambda - potrafią wychodzić ze zderzenia z wyraźnie skorelowanymi spinami. Sugeruje to, że część tej korelacji została odziedziczona po parach kwark–antykwark obecnych w próżni kwantowej, zanim jeszcze zderzenie w ogóle zaszło."
-    },
-    {
-      "title": "Eksperci UPWr: czy warto zmieniać czas?",
-      "link": "https://dzienniknaukowy.pl/eksperci-upwr-czy-warto-zmieniac-czas",
-      "pubDate": "Fri, 27 Mar 2026 13:04:40 +0000",
-      "description": "W nocy z 28 na 29 marca czeka nas zmiana czasu. Politycy zapowiadają, że tym razem to już ostatnia i kraje Unii Europejskiej będą posługiwać się na stałe czasem letnim. Dr n. med. Aleksandra Karykowska z Katedry Antropologii mówi o jetlagu społecznym i konsekwencjach odejścia od czasu zimowego."
-    },
-    {
-      "title": "Cyfrowy szpital to nie jedna aplikacja. To proces, w którym pacjent i personel muszą się odnaleźć.",
-      "link": "https://dzienniknaukowy.pl/cyfrowy-szpital-to-nie-jedna-aplikacja-to-proces-w-ktorym-pacjent-i-personel-musza-sie-odnalezc",
-      "pubDate": "Fri, 27 Mar 2026 10:20:00 +0000",
-      "description": "Najczęstszy błąd w digitalizacji usług medycznych? Zaczynamy od pytania „jaką aplikację budujemy”, zamiast od pytania „jak działa proces”. A proces w medycynie jest brutalnie konkretny: pacjent ma się nie zgubić, personel ma nie tracić czasu, a ryzyko błędów ma spaść, nie wzrosnąć."
-    },
-    {
-      "title": "Skład i budowa ciała wpływają na parametry ludzkiego głosu",
-      "link": "https://dzienniknaukowy.pl/sklad-i-budowa-ciala-wplywaja-na-parametry-ludzkiego-glosu",
-      "pubDate": "Thu, 26 Mar 2026 13:01:58 +0000",
-      "description": "Skład ciała, a dokładniej proporcja tkanki tłuszczowej do tzw. beztłuszczowej masy ciała, wpływa na parametry ludzkiego głosu. Większa zawartość tłuszczu u kobiet wiąże się z większą donośnością głosu, natomiast u mężczyzn sprawia, że barwa staje się „jaśniejsza” – wynika z badań polskiego antropologa."
-    },
-    {
-      "title": "Matematyczny kod średniowiecza. W poszukiwaniu „ukrytej miary&#8221; dawnych miast",
-      "link": "https://dzienniknaukowy.pl/matematyczny-kod-sredniowiecza-w-poszukiwaniu-ukrytej-miary-dawnych-miast",
-      "pubDate": "Thu, 26 Mar 2026 12:44:48 +0000",
-      "description": "To, jak dziś wyglądają centra naszych miast, nie jest dziełem przypadku, lecz precyzyjnego planowania sprzed ponad siedmiu stuleci. Choć trudno znaleźć oryginalne plany urbanistyczne z XIII wieku, to badaczki z Politechniki Wrocławskiej, stosując zaawansowane metody statystyczne i skanowanie laserowe, zdołały zrekonstruować zasady, według których mierzono dawną przestrzeń"
-    },
-    {
-      "title": "Czy podłogówka na podczerwień jest naprawdę zdrowsza? Fakty, nie marketing",
-      "link": "https://dzienniknaukowy.pl/czy-podlogowka-na-podczerwien-jest-naprawde-zdrowsza-fakty-nie-marketing",
-      "pubDate": "Thu, 26 Mar 2026 10:05:00 +0000",
-      "description": "Wraz z transformacją energetyczną rośnie zainteresowanie technologiami grzewczymi o niskiej lub zerowej emisji lokalnej. Zaliczają się do nich systemy na podczerwień, w tym elektryczne ogrzewanie podłogowe oparte na foliach i matach grzewczych. Zwolennicy tej technologii wskazują na jej potencjalne przewagi nad klasycznymi systemami konwekcyjnymi, w tym korzystny wpływ na komfort i mikroklimat wnętrz. Czy podłogówka na podczerwień rzeczywiście może być uznana za rozwiązanie zdrowsze?"
-    },
-    {
-      "title": "Berberyna jako „naturalny Ozempik”?",
-      "link": "https://dzienniknaukowy.pl/berberyna-jako-naturalny-ozempik",
-      "pubDate": "Wed, 25 Mar 2026 13:11:14 +0000",
-      "description": "W ostatnich latach berberyna coraz częściej pojawia się w przestrzeni publicznej jako „naturalny sposób” na poprawę metabolizmu. W mediach społecznościowych bywa zestawiana z lekami inkretynowymi, a nawet określana mianem „roślinnego Ozempiku”. Tego typu porównania sugerują prosty mechanizm działania i przewidywalny efekt. Niedawne badania pokazuje jednak, że taka narracja jest zbyt dużym uproszczeniem, nie odzwierciedlającym ani mechanizmu działania berberyny, ani zakresu dowodów klinicznych"
-    },
-    {
-      "title": "Co było pierwsze: białka, RNA czy DNA?",
-      "link": "https://dzienniknaukowy.pl/co-bylo-pierwsze-bialka-rna-czy-dna",
-      "pubDate": "Wed, 25 Mar 2026 12:57:08 +0000",
-      "description": "Układ przestrzenny RNA – w przeciwieństwie do DNA – sprawia, że polimer ten potrafi efektywnie replikować się nawet bez udziału enzymów. To kolejny silny argument przemawiający za tym, że RNA miałby większe szanse zapoczątkować życie niż DNA – co wykazują najnowsze analizy polskich naukowców z Wydziału Chemicznego Politechniki Wrocławskiej."
-    },
-    {
-      "title": "Jak często warto korzystać z masażu?",
-      "link": "https://dzienniknaukowy.pl/jak-czesto-warto-korzystac-z-masazu",
-      "pubDate": "Wed, 25 Mar 2026 09:15:00 +0000",
-      "description": "Masaż od lat cieszy się ogromną popularnością jako sposób na relaks, regenerację oraz poprawę samopoczucia. Coraz więcej osób zastanawia się jednak, jak często warto z niego korzystać, aby osiągnąć najlepsze efekty. Czy masaże powinny być stałym elementem codziennej profilaktyki zdrowotnej, czy raczej okazjonalną przyjemnością?"
-    },
-    {
-      "title": "Zanieczyszczone powietrze sprzyja chorobie Alzheimera",
-      "link": "https://dzienniknaukowy.pl/zanieczyszczone-powietrze-sprzyja-chorobie-alzheimera",
-      "pubDate": "Tue, 24 Mar 2026 13:41:44 +0000",
-      "description": "Osoby narażone na działanie zawieszonych w powietrzu cząstek stałych mają wyższe ryzyko rozwoju choroby Alzheimera. To wynik analizy danych prawie 30 milionów Amerykanów."
-    }
-  ]
+  "articles": []
 }
