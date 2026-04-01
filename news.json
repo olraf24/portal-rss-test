@@ -1,6 +1,85 @@
 {
-  "lastUpdate": "2026-04-01T14:34:09.321Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-01T15:32:47.152Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Przeskoczył płot, wszedł do biura i strzelił. Napastnik zatrzymany",
+      "link": "https://tvn24.pl/lodz/lodz-ewakuacja-w-fabryce-po-zgloszeniu-o-mezczyznie-z-bronia-strzelal-w-kierunku-innego-pracownika-st8976917?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 07:26:42 GMT",
+      "description": "W Łodzi ewakuowano pracowników jednej z fabryk po tym, jak na jej teren wszedł mężczyzna z bronią i oddał strzały w kierunku jednego z pracowników. Nikt nie został ranny. Napastnikiem jest 42-letni były pracownik firmy, który był zatrudniony od 14 lat. Mężczyznę zatrzymano przed godziną 17.",
+      "originalTitle": "Przeskoczył płot, wszedł do biura i strzelił. Napastnik zatrzymany",
+      "originalDescription": "W Łodzi ewakuowano pracowników jednej z fabryk po tym, jak na jej teren wszedł mężczyzna z bronią i oddał strzały w kierunku jednego z pracowników. Nikt nie został ranny. Napastnikiem jest 42-letni były pracownik firmy, który był zatrudniony od 14 lat. Mężczyznę zatrzymano przed godziną 17."
+    },
+    {
+      "title": "Żurek apeluje do Nawrockiego. \"Prezydent nie może wybierać według własnego widzimisię\"",
+      "link": "https://tvn24.pl/polska/trybunal-konstytucyjny-waldemar-zurek-prezydent-nie-moze-wybierac-wedlug-wlasnego-widzimisie-st8978241?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 14:53:52 GMT",
+      "description": "Apeluję do pana prezydenta, żeby jak najszybciej zaprosił pozostałą czwórkę, tak żeby Trybunał mógł prawidłowo funkcjonować - powiedział minister sprawiedliwości Waldemar Żurek. W środę prezydent przyjął ślubowanie od dwojga z sześciorga wybranych przez Sejm sędziów Trybunału Konstytucyjnego. - Wpadli we własną pułapkę. Najpierw kwestionowali wszystkich, teraz wzięli dwóch i nie mają żadnego umocowania prawnego, żeby powiedzieć, dlaczego - dodał Żurek.",
+      "originalTitle": "Żurek apeluje do Nawrockiego. \"Prezydent nie może wybierać według własnego widzimisię\"",
+      "originalDescription": "Apeluję do pana prezydenta, żeby jak najszybciej zaprosił pozostałą czwórkę, tak żeby Trybunał mógł prawidłowo funkcjonować - powiedział minister sprawiedliwości Waldemar Żurek. W środę prezydent przyjął ślubowanie od dwojga z sześciorga wybranych przez Sejm sędziów Trybunału Konstytucyjnego. - Wpadli we własną pułapkę. Najpierw kwestionowali wszystkich, teraz wzięli dwóch i nie mają żadnego umocowania prawnego, żeby powiedzieć, dlaczego - dodał Żurek."
+    },
+    {
+      "title": "Tak potraktowali ambasadora Iranu? Nie jego",
+      "link": "https://konkret24.tvn24.pl/swiat/tak-potraktowali-ambasadora-iranu-nie-jego-st8977839?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 15:22:34 GMT",
+      "description": "Brak opisu"
+    },
+    {
+      "title": "Trump: prezydent nowego reżimu poprosił o zawieszenie broni. Iran dementuje",
+      "link": "https://tvn24.pl/swiat/donald-trump-prezydent-nowego-rezimu-poprosil-o-zawieszenie-broni-iran-dementuje-st8978233?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 15:15:53 GMT",
+      "description": "Donald Trump napisał, że \"prezydent nowego irańskiego reżimu\" poprosił Stany Zjednoczone o zawieszenie broni. Rzecznik irańskiego ministerstwa spraw zagranicznych cytowany przez irańską telewizję państwową przekazał, że oświadczenie prezydenta USA jest nieprawdziwe i bezpodstawne.",
+      "originalTitle": "Trump: prezydent nowego reżimu poprosił o zawieszenie broni. Iran dementuje",
+      "originalDescription": "Donald Trump napisał, że \"prezydent nowego irańskiego reżimu\" poprosił Stany Zjednoczone o zawieszenie broni. Rzecznik irańskiego ministerstwa spraw zagranicznych cytowany przez irańską telewizję państwową przekazał, że oświadczenie prezydenta USA jest nieprawdziwe i bezpodstawne."
+    },
+    {
+      "title": "Tankowanie \"nawet w niższych cenach\" niż maksymalne. Raport",
+      "link": "https://tvn24.pl/biznes/pieniadze/paliwo-na-stacjach-w-srode-nawet-w-nizszych-cenach-niz-maksymalne-st8978157?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 15:14:18 GMT",
+      "description": "We wtorek i środę na części stacji benzynowych ceny paliw były niższe, niże te ustalone przez resort energii - wynika z najnowszego badania e-petrol.pl. Według portalu po wejściu w życie pakietu \"Ceny Paliwa Niżej\" seria drastycznych podwyżek została zatrzymana.",
+      "originalTitle": "Tankowanie \"nawet w niższych cenach\" niż maksymalne. Raport",
+      "originalDescription": "We wtorek i środę na części stacji benzynowych ceny paliw były niższe, niże te ustalone przez resort energii - wynika z najnowszego badania e-petrol.pl. Według portalu po wejściu w życie pakietu \"Ceny Paliwa Niżej\" seria drastycznych podwyżek została zatrzymana."
+    },
+    {
+      "title": "Slavko Vinczić nie działał sam. Sędziowie musieli faworyzować Szwedów",
+      "link": "https://tvn24.pl/polska/mecz-polska-szwecja-slavko-vinczic-nie-dzialal-sam-sedziowie-musieli-faworyzowac-szwedow-st8977836?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 15:09:06 GMT",
+      "description": "Było sporo błędnych decyzji sędziego w Sztokholmie, które mogły kosztować Polskę mundial. Przypadek? Naukowcy twierdzą, że nie. I mają na to twarde dane.",
+      "originalTitle": "Slavko Vinczić nie działał sam. Sędziowie musieli faworyzować Szwedów",
+      "originalDescription": "Było sporo błędnych decyzji sędziego w Sztokholmie, które mogły kosztować Polskę mundial. Przypadek? Naukowcy twierdzą, że nie. I mają na to twarde dane."
+    },
+    {
+      "title": "Obniżka cen paliw do końca roku? Taki byłby rachunek dla państwa",
+      "link": "https://tvn24.pl/biznes/z-kraju/obnizka-cen-paliw-do-konca-roku-oznaczalaby-wzrost-deficytu-i-nowelizacje-ustawy-budzetowej-st8978028?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 14:55:14 GMT",
+      "description": "Przedłużenie rządowego pakietu \"Ceny Paliw Niżej\" (CPN) do końca roku oznaczałoby dalszy wzrost deficytu i prawdopodobnie nowelizację budżetu - oceniła Rada Fiskalna. W jej ocenie jest do narzędzie kosztowne i niewłaściwie ukierunkowane. Do tego \"nie usuwa przyczyn wzrostu cen paliw, a zarazem zwiększa ryzyko dla stabilności finansów publicznych\".",
+      "originalTitle": "Obniżka cen paliw do końca roku? Taki byłby rachunek dla państwa",
+      "originalDescription": "Przedłużenie rządowego pakietu \"Ceny Paliw Niżej\" (CPN) do końca roku oznaczałoby dalszy wzrost deficytu i prawdopodobnie nowelizację budżetu - oceniła Rada Fiskalna. W jej ocenie jest do narzędzie kosztowne i niewłaściwie ukierunkowane. Do tego \"nie usuwa przyczyn wzrostu cen paliw, a zarazem zwiększa ryzyko dla stabilności finansów publicznych\"."
+    },
+    {
+      "title": "Podwójne zabójstwo w Wołominie. Wnuczek ofiar trafi do aresztu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolomin-zabojstwo-seniorow-w-wolominie-decyzja-prokuratury-st8975596?source=rss",
+      "pubDate": "Tue, 31 Mar 2026 11:52:17 GMT",
+      "description": "Prokuratura prowadzi śledztwo w sprawie śmierci dwojga seniorów z podwarszawskiego Wołomina. 19-letni wnuk ofiar usłyszał dwa zarzuty zabójstwa. Sąd zdecydował o jego aresztowaniu.",
+      "originalTitle": "Podwójne zabójstwo w Wołominie. Wnuczek ofiar trafi do aresztu",
+      "originalDescription": "Prokuratura prowadzi śledztwo w sprawie śmierci dwojga seniorów z podwarszawskiego Wołomina. 19-letni wnuk ofiar usłyszał dwa zarzuty zabójstwa. Sąd zdecydował o jego aresztowaniu."
+    },
+    {
+      "title": "Jajka coraz droższe. Tyle zapłacimy przed świętami",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-jaj-przed-wielkanoca-nowe-dane-st8978159?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 14:46:15 GMT",
+      "description": "W lutym 2026 roku ceny jaj były wyższe o 7,5-22,2 procent rok do roku. Obecnie za jedno jajko konsumenci płacą średnio od 1,05 do 1,28 złotego, podczas gdy rok wcześniej cena mieściła się w przedziale 0,93-1,17 złotego.",
+      "originalTitle": "Jajka coraz droższe. Tyle zapłacimy przed świętami",
+      "originalDescription": "W lutym 2026 roku ceny jaj były wyższe o 7,5-22,2 procent rok do roku. Obecnie za jedno jajko konsumenci płacą średnio od 1,05 do 1,28 złotego, podczas gdy rok wcześniej cena mieściła się w przedziale 0,93-1,17 złotego."
+    },
+    {
+      "title": "Pogoda. Schronisko w Tatrach odcięte od świata. Co z turystami?",
+      "link": "https://tvn24.pl/tvnmeteo/polska/schronisko-w-dolinie-pieciu-stawow-polskich-odciete-od-swiata-co-z-turystami-st8977539?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 11:57:10 GMT",
+      "description": "Opady śniegu, które wystąpiły w Tatrach w ostatnich dniach sprawiły, że schronisko w Dolinie Pięciu Stawów Polskich zostało odcięte od świata. Znajduje się w nim kilkunastu turystów. Na nagraniach i zdjęciach można zobaczyć, jak wygląda krajobraz wokół schroniska.",
+      "originalTitle": "Pogoda. Schronisko w Tatrach odcięte od świata. Co z turystami?",
+      "originalDescription": "Opady śniegu, które wystąpiły w Tatrach w ostatnich dniach sprawiły, że schronisko w Dolinie Pięciu Stawów Polskich zostało odcięte od świata. Znajduje się w nim kilkunastu turystów. Na nagraniach i zdjęciach można zobaczyć, jak wygląda krajobraz wokół schroniska."
+    }
+  ]
 }
