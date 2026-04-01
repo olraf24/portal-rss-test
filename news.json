@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-01T12:23:52.932Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-01T12:49:55.891Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ustawienia Hellingera. Zobacz, jak wygląda pseudoterapia",
+      "link": "https://tvn24.pl/polska/ustawienia-hellingera-co-to-jest-czy-ustawienia-hellingerowskie-sa-bezpieczne-st8975201?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:36:37 GMT",
+      "description": "W internecie z łatwością można znaleźć oferty dotyczące ustawień Hellingera. Metoda ta - praktyka pracy z ludzką psychiką - ma rzekomo pomagać w szybkim rozwiązywaniu problemów. Dziennikarze \"Superwizjera\" pokazują, jak wyglądają takie ustawienia.",
+      "originalTitle": "Ustawienia Hellingera. Zobacz, jak wygląda pseudoterapia",
+      "originalDescription": "W internecie z łatwością można znaleźć oferty dotyczące ustawień Hellingera. Metoda ta - praktyka pracy z ludzką psychiką - ma rzekomo pomagać w szybkim rozwiązywaniu problemów. Dziennikarze \"Superwizjera\" pokazują, jak wyglądają takie ustawienia."
+    },
+    {
+      "title": "Uruchomili nowy odcinkowy pomiar prędkości. Jest na A2",
+      "link": "https://tvn24.pl/poznan/wielkopolska-kolo-nowy-punkt-odcinkowego-pomiary-predkosci-na-a2-st8977190?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:35:11 GMT",
+      "description": "Trwa rozbudowa systemu CANARD, w ramach którego na wybranych drogach sprawdzany jest odcinkowy pomiar prędkości. W Wielkopolsce na autostradzie A2 kamery pojawiły się w nowym miejscu. Już działają.",
+      "originalTitle": "Uruchomili nowy odcinkowy pomiar prędkości. Jest na A2",
+      "originalDescription": "Trwa rozbudowa systemu CANARD, w ramach którego na wybranych drogach sprawdzany jest odcinkowy pomiar prędkości. W Wielkopolsce na autostradzie A2 kamery pojawiły się w nowym miejscu. Już działają."
+    },
+    {
+      "title": "Tańsze paliwo nie dla wszystkich. Jest apel branży",
+      "link": "https://tvn24.pl/biznes/moto/tansze-paliwo-nie-dla-wszystkich-jest-apel-branzy-st8977125?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:34:21 GMT",
+      "description": "Pominięcie autogazu LPG w rządowym pakiecie obniżek to przejaw nierównego traktowania kierowców oraz obojętności wobec rosnących kosztów tego paliwa - oceniła w oświadczeniu Polska Izba Gazu Płynnego (PIGP). Organizacja zaapelowała o szybkie i rozsądne decyzje, które uchronią około trzy miliony użytkowników LPG przed stratami.",
+      "originalTitle": "Tańsze paliwo nie dla wszystkich. Jest apel branży",
+      "originalDescription": "Pominięcie autogazu LPG w rządowym pakiecie obniżek to przejaw nierównego traktowania kierowców oraz obojętności wobec rosnących kosztów tego paliwa - oceniła w oświadczeniu Polska Izba Gazu Płynnego (PIGP). Organizacja zaapelowała o szybkie i rozsądne decyzje, które uchronią około trzy miliony użytkowników LPG przed stratami."
+    },
+    {
+      "title": "Wybili szybę w aucie i zatrzymali go, gdy prowadził transmisję",
+      "link": "https://tvn24.pl/katowice/bedzin-wybili-szybe-w-aucie-zatrzymali-go-gdy-prowadzil-transmisje-st8975946?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:27:43 GMT",
+      "description": "Przemysław B., pseudonim \"Bieniek\", usłyszał zarzut udziału w zorganizowanej grupie przestępczej i trafił do tymczasowego aresztu. Mężczyzna, związany z gangiem \"Torcida\", został zatrzymany na oczach dziecka, które przebywało z mężczyzną w samochodzie. Akcję policji oglądali też na żywo sympatycy pseudokibica, bo ten prowadził akurat transmisję na żywo.",
+      "originalTitle": "Wybili szybę w aucie i zatrzymali go, gdy prowadził transmisję",
+      "originalDescription": "Przemysław B., pseudonim \"Bieniek\", usłyszał zarzut udziału w zorganizowanej grupie przestępczej i trafił do tymczasowego aresztu. Mężczyzna, związany z gangiem \"Torcida\", został zatrzymany na oczach dziecka, które przebywało z mężczyzną w samochodzie. Akcję policji oglądali też na żywo sympatycy pseudokibica, bo ten prowadził akurat transmisję na żywo."
+    },
+    {
+      "title": "Wchodził do sklepów z pistoletem. Groził zabiciem",
+      "link": "https://tvn24.pl/bialystok/bialystok-do-sklepow-w-kapturze-i-w-kominiarce-z-pistoletem-maja-podejrzanego-st8977512?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:17:05 GMT",
+      "description": "Policja zatrzymała 42-latka podejrzanego o napady na dwa sklepy całodobowe w Białymstoku. Mężczyzna wchodził do nich w środku nocy w kapturze i w kominiarce, a w ręku trzymał pistolet. Groził kasjerkom, że je zabije. Zabrał z kasy łącznie 1,4 tys. zł.",
+      "originalTitle": "Wchodził do sklepów z pistoletem. Groził zabiciem",
+      "originalDescription": "Policja zatrzymała 42-latka podejrzanego o napady na dwa sklepy całodobowe w Białymstoku. Mężczyzna wchodził do nich w środku nocy w kapturze i w kominiarce, a w ręku trzymał pistolet. Groził kasjerkom, że je zabije. Zabrał z kasy łącznie 1,4 tys. zł."
+    },
+    {
+      "title": "Pacjent ma wrażenie, że jego serce \"się potyka\". Jak diagnozować arytmie?",
+      "link": "https://tvn24.pl/zdrowie/arytmie-objawy-diagnostyka-leczenie-kardiolog-mowi-kiedy-zaburzenia-rytmu-serca-zagrazaja-zyciu-st8974876?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:14:27 GMT",
+      "description": "U młodych osób najczęściej są nieprzyjemne, ale niegroźne. Zaburzenia rytmu serca mogą jednak zagrażać życiu. Problem w tym, że bywają zupełnie bezobjawowe. Zdarza się również, że pacjent ma poczucie arytmii, choć ta wcale u niego nie występuje. Dlatego tak ważna jest prawidłowa diagnostyka. Mogą w tym pomóc tzw. wearables, czyli zegarki mierzące tętno.",
+      "originalTitle": "Pacjent ma wrażenie, że jego serce \"się potyka\". Jak diagnozować arytmie?",
+      "originalDescription": "U młodych osób najczęściej są nieprzyjemne, ale niegroźne. Zaburzenia rytmu serca mogą jednak zagrażać życiu. Problem w tym, że bywają zupełnie bezobjawowe. Zdarza się również, że pacjent ma poczucie arytmii, choć ta wcale u niego nie występuje. Dlatego tak ważna jest prawidłowa diagnostyka. Mogą w tym pomóc tzw. wearables, czyli zegarki mierzące tętno."
+    },
+    {
+      "title": "18-latek skazany za przygotowywanie zamachu",
+      "link": "https://tvn24.pl/rzeszow/tarnobrzeg-18-latek-skazany-za-przygotowania-do-masowego-zamachu-i-pochwalanie-dzihadu-st8977600?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:08:12 GMT",
+      "description": "Sąd Okręgowy w Tarnobrzegu skazał 18-letniego Remigiusza Ż. za przygotowania do masowego zamachu, popieranie dżihadu, akcji zbrojnych islamistów oraz za nawoływanie do zbrodni i nienawiści na tle różnic narodowościowych i wyznaniowych. Wyrok nie jest prawomocny. Mężczyzna usłyszał wyrok dwóch i pół roku pozbawienia wolności.",
+      "originalTitle": "18-latek skazany za przygotowywanie zamachu",
+      "originalDescription": "Sąd Okręgowy w Tarnobrzegu skazał 18-letniego Remigiusza Ż. za przygotowania do masowego zamachu, popieranie dżihadu, akcji zbrojnych islamistów oraz za nawoływanie do zbrodni i nienawiści na tle różnic narodowościowych i wyznaniowych. Wyrok nie jest prawomocny. Mężczyzna usłyszał wyrok dwóch i pół roku pozbawienia wolności."
+    },
+    {
+      "title": "\"Biegaliśmy jak rumaki, walczyliśmy\". Czego zabrakło?",
+      "link": "https://tvn24.pl/polska/mistrzostwa-swiata-2026-baraze-mecz-polska-szwecja-tomasz-frankowski-komentuje-st8977565?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 12:01:30 GMT",
+      "description": "Awansu nie ma, piłkarskie mistrzostwa świata bez Polski, w finale baraży Biało-Czerwoni przegrali w Sztokholmie ze Szwecją 2:3. Czego zabrakło? Co teraz? Co z Robertem Lewandowskim w kadrze? Na pytania TVN24+ odpowiada Tomasz Frankowski, były napastnik reprezentacji.",
+      "originalTitle": "\"Biegaliśmy jak rumaki, walczyliśmy\". Czego zabrakło?",
+      "originalDescription": "Awansu nie ma, piłkarskie mistrzostwa świata bez Polski, w finale baraży Biało-Czerwoni przegrali w Sztokholmie ze Szwecją 2:3. Czego zabrakło? Co teraz? Co z Robertem Lewandowskim w kadrze? Na pytania TVN24+ odpowiada Tomasz Frankowski, były napastnik reprezentacji."
+    },
+    {
+      "title": "Pogoda. Schronisko w Tatrach odcięte od świata. Co z turystami?",
+      "link": "https://tvn24.pl/tvnmeteo/polska/schronisko-w-dolinie-pieciu-stawow-polskich-odciete-od-swiata-co-z-turystami-st8977539?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 11:57:10 GMT",
+      "description": "Schronisko w Dolinie Pięciu Stawów Polskich zostało odcięte od świata z powodu bardzo trudnych warunków w Tatrach. Znajduje się w nim kilkunastu turystów. Gospodyni schroniska poinformowała, czy mają się czego obawiać.",
+      "originalTitle": "Pogoda. Schronisko w Tatrach odcięte od świata. Co z turystami?",
+      "originalDescription": "Schronisko w Dolinie Pięciu Stawów Polskich zostało odcięte od świata z powodu bardzo trudnych warunków w Tatrach. Znajduje się w nim kilkunastu turystów. Gospodyni schroniska poinformowała, czy mają się czego obawiać."
+    },
+    {
+      "title": "Wskazano infekcje, które mogą nawet dwukrotnie przyspieszać problemy z pamięcią",
+      "link": "https://tvn24.pl/zdrowie/infekcje-bakteryjne-a-demencja-finscy-naukowcy-odkrywaja-niepokojacy-zwiazek-st8977524?source=rss",
+      "pubDate": "Wed, 01 Apr 2026 11:56:01 GMT",
+      "description": "Ciężka infekcja bakteryjna może zostawić ślad w mózgu na lata. Najnowsze badania fińskich naukowców wskazują na wyraźną korelację między przebytymi stanami zapalnymi i hospitalizacją a ryzykiem wystąpienia otępienia w ciągu kilku kolejnych lat. W przypadku jakich schorzeń ryzyko rozwoju demencji może wzrosnąć nawet dwukrotnie?",
+      "originalTitle": "Wskazano infekcje, które mogą nawet dwukrotnie przyspieszać problemy z pamięcią",
+      "originalDescription": "Ciężka infekcja bakteryjna może zostawić ślad w mózgu na lata. Najnowsze badania fińskich naukowców wskazują na wyraźną korelację między przebytymi stanami zapalnymi i hospitalizacją a ryzykiem wystąpienia otępienia w ciągu kilku kolejnych lat. W przypadku jakich schorzeń ryzyko rozwoju demencji może wzrosnąć nawet dwukrotnie?"
+    }
+  ]
 }
