@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2026-04-02T09:24:45.112Z",
+  "lastUpdate": "2026-04-02T09:49:37.863Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Prehistoryczni kucharze z Dąbek",
-      "link": "https://dzienniknaukowy.pl/prehistoryczni-kucharze-z-dabek",
-      "pubDate": "Wed, 01 Apr 2026 14:58:21 +0000",
-      "description": "Około 7 tys. lat temu społeczności europejskie wykorzystywały różne produkty roślinne i zwierzęce do tworzenia złożonych potraw. Już wtedy istniały lokalne tradycje kulinarne i style gotowania. Prehistoryczna kuchnia była bardziej złożona, niż sądzono – pokazują najnowsze badania, m.in. z okolic Dąbek."
-    },
-    {
-      "title": "Politechnika Wrocławska rozwija technologię druku 3D z metalu w stanie nieważkości",
-      "link": "https://dzienniknaukowy.pl/politechnika-wroclawska-rozwija-technologie-druku-3d-z-metalu-w-stanie-niewazkosci",
-      "pubDate": "Wed, 01 Apr 2026 14:36:45 +0000",
-      "description": "Czy w przyszłości astronauci sami będą mogli wydrukować potrzebne części zamienne? Międzynarodowe konsorcjum, w skład którego wchodzą badacze z Politechniki Wrocławskiej, pracuje nad technologią druku 3D z metalu w stanie nieważkości. Projekt „Lamda-g\" jest realizowany pod egidą Europejskiej Agencji Kosmicznej (ESA)."
-    },
-    {
-      "title": "Naukowcy z UJ odkryli sposób na blokowanie podziału komórek nowotworowych",
-      "link": "https://dzienniknaukowy.pl/naukowcy-z-uj-odkryli-sposob-na-blokowanie-podzialu-komorek-nowotworowych",
-      "pubDate": "Tue, 31 Mar 2026 14:16:59 +0000",
-      "description": "Naukowcy z Uniwersytetu Jagiellońskiego prowadzą badania mające na celu zatrzymanie procesu podziału komórek nowotworowych poprzez upośledzenie powielania i naprawy ich materiału genetycznego. Idea polega na zablokowaniu działania białka odgrywającego kluczową rolę w replikacji i naprawie DNA. Zespół poszukuje działających w ten sposób cząsteczek, co mogłoby otworzyć drogę do dalszych badań i rozwoju nowej terapii przeciwnowotworowej."
-    },
-    {
-      "title": "Co czwarty Polak z objawami PTSD. Ważna rola doświadczeń z dzieciństwa",
-      "link": "https://dzienniknaukowy.pl/co-czwarty-polak-z-objawami-ptsd-wazna-rola-doswiadczen-z-dziecinstwa",
-      "pubDate": "Tue, 31 Mar 2026 13:58:05 +0000",
-      "description": "Około 24 proc. Polaków może zmagać się z objawami zaburzenia po stresie traumatycznym (PTSD), co kilkakrotnie przewyższa średnią europejską - wynika z nowych badań z UW, które rzucają światło na to, jak z ryzykiem PTSD wiążą się negatywne i pozytywne doświadczenia z dzieciństwa."
-    },
-    {
-      "title": "Jak rozpoznać objawy stresu przewlekłego? Objawy, ryzyka i pomoc",
-      "link": "https://dzienniknaukowy.pl/jak-rozpoznac-objawy-stresu-przewleklego-objawy-ryzyka-i-pomoc",
-      "pubDate": "Tue, 31 Mar 2026 10:20:00 +0000",
-      "description": "Przewlekły stres działa po cichu, a jego pierwsze symptomy łatwo zignorować, myląc je ze zwykłym zmęczeniem. Napięciowe bóle głowy, problemy ze snem czy ciągłe rozdrażnienie to sygnały, których nie należy ignorować. Zrozumienie, jak rozpoznać objawy stresu przewlekłego, jest kluczowe dla odzyskania kontroli nad zdrowiem. Sprawdź, na co zwrócić uwagę."
-    },
-    {
-      "title": "Biolog: dziki w miastach to nie inwazja, lecz dowód ich elastyczności i inteligencji",
-      "link": "https://dzienniknaukowy.pl/biolog-dziki-w-miastach-to-nie-inwazja-lecz-dowod-ich-elastycznosci-i-inteligencji",
-      "pubDate": "Mon, 30 Mar 2026 14:01:01 +0000",
-      "description": "W polskich miastach coraz trudniej nie natknąć się na dziki. Zdaniem prof. Dagny Krauze-Gryz z SGGW to nie dowód „dziczej” agresji, lecz ogromnej plastyczności i zdolności przystosowawczej tych zwierząt, które potrafią odczytywać rytm miasta i wykorzystywać stworzone przez człowieka nisze"
-    },
-    {
-      "title": "Naukowiec z UJ zbadał wpływ gry w szachy na rozwój samoświadomości",
-      "link": "https://dzienniknaukowy.pl/naukowiec-z-uj-zbadal-wplyw-gry-w-szachy-na-rozwoj-samoswiadomosci",
-      "pubDate": "Mon, 30 Mar 2026 13:44:56 +0000",
-      "description": "Gra w szachy może umożliwiać rozwój samoświadomości, a nawet zmianę wzorców życiowych – uważa dr hab. Jacek Bylica z Uniwersytetu Jagiellońskiego. Naukowiec sprawdził, jak grające w szachy studentki przenosiły doświadczenia z gry na rozumienie własnych zachowań."
-    },
-    {
-      "title": "Kim jest fleksument w fotowoltaice i czym różni się od prosumenta?",
-      "link": "https://dzienniknaukowy.pl/kim-jest-fleksument-w-fotowoltaice-i-czym-rozni-sie-od-prosumenta",
-      "pubDate": "Mon, 30 Mar 2026 10:06:00 +0000",
-      "description": "Polska, ale też cała Unia Europejska, od lat promują ekologiczne moduły fotowoltaiczne, traktowane jako kluczowe źródła odnawialnej energii. To ekologiczne rozwiązanie nie tylko redukuje emisję CO2 i ogranicza zapotrzebowanie na energię wytwarzaną w elektrowniach, ale przynosi szereg korzyści osobom decydującym się na taką instalację"
-    },
-    {
-      "title": "Nawet w próżni krótkotrwale pojawiają się i znikają wirtualne pary cząstek i antycząstek",
-      "link": "https://dzienniknaukowy.pl/nawet-w-prozni-krotkotrwale-pojawiaja-sie-i-znikaja-wirtualne-pary-czastek-i-antyczastek",
-      "pubDate": "Fri, 27 Mar 2026 13:19:09 +0000",
-      "description": "W eksperymencie STAR w zderzeniach protonów zaobserwowano, że pary cząstek - zwanych hiperonami lambda - potrafią wychodzić ze zderzenia z wyraźnie skorelowanymi spinami. Sugeruje to, że część tej korelacji została odziedziczona po parach kwark–antykwark obecnych w próżni kwantowej, zanim jeszcze zderzenie w ogóle zaszło."
-    },
-    {
-      "title": "Eksperci UPWr: czy warto zmieniać czas?",
-      "link": "https://dzienniknaukowy.pl/eksperci-upwr-czy-warto-zmieniac-czas",
-      "pubDate": "Fri, 27 Mar 2026 13:04:40 +0000",
-      "description": "W nocy z 28 na 29 marca czeka nas zmiana czasu. Politycy zapowiadają, że tym razem to już ostatnia i kraje Unii Europejskiej będą posługiwać się na stałe czasem letnim. Dr n. med. Aleksandra Karykowska z Katedry Antropologii mówi o jetlagu społecznym i konsekwencjach odejścia od czasu zimowego."
-    }
-  ]
+  "articles": []
 }
