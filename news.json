@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-02T05:11:56.028Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-02T05:59:33.903Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rynek zareagował na orędzie Trumpa",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-ropy-rynki-reaguja-na-oredzie-donalda-trumpa-st8978834?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 05:31:50 GMT",
+      "description": "Ceny ropy w czwartek wyraźnie wzrosły po zapowiedzi prezydenta USA Donalda Trumpa o kontynuowaniu ataków na Iran. Brak wskazania terminu zakończenia działań wojennych w jego orędziu wzmocnił obawy inwestorów przed długotrwałymi zakłóceniami w dostawach surowca.",
+      "originalTitle": "Rynek zareagował na orędzie Trumpa",
+      "originalDescription": "Ceny ropy w czwartek wyraźnie wzrosły po zapowiedzi prezydenta USA Donalda Trumpa o kontynuowaniu ataków na Iran. Brak wskazania terminu zakończenia działań wojennych w jego orędziu wzmocnił obawy inwestorów przed długotrwałymi zakłóceniami w dostawach surowca."
+    },
+    {
+      "title": "Orędzie jak \"spóźniona reklama\". Trump \"nie odpowiedział na najważniejsze pytanie\"",
+      "link": "https://tvn24.pl/swiat/oredzie-jak-spozniona-reklama-donald-trump-nie-odpowiedzial-na-najwazniejsze-pytanie-st8978809?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 05:20:43 GMT",
+      "description": "Donald Trump nie wygłosił w przemówieniu żadnych odkrywczych deklaracji - komentuje orędzie prezydenta \"New York Times\". Według CNN wystąpienie było spóźnioną walką o poparcie Amerykanów dla prowadzenia wojny z Iranem. Media z USA skupiają się na gospodarczych skutkach konfliktu, który coraz bardziej odbija się także na kieszeniach Amerykanów i może zaszkodzić republikanom w zbliżających się wyborach.",
+      "originalTitle": "Orędzie jak \"spóźniona reklama\". Trump \"nie odpowiedział na najważniejsze pytanie\"",
+      "originalDescription": "Donald Trump nie wygłosił w przemówieniu żadnych odkrywczych deklaracji - komentuje orędzie prezydenta \"New York Times\". Według CNN wystąpienie było spóźnioną walką o poparcie Amerykanów dla prowadzenia wojny z Iranem. Media z USA skupiają się na gospodarczych skutkach konfliktu, który coraz bardziej odbija się także na kieszeniach Amerykanów i może zaszkodzić republikanom w zbliżających się wyborach."
+    },
+    {
+      "title": "Pieniądze dla fundacji dyrektora pogotowia. 100 tysięcy za wyświetlanie logo urzędu",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/pieniadze-dla-fundacji-dyrektora-pogotowia-100-tysiecy-za-wyswietlanie-logo-urzedu-st8973405?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 05:09:44 GMT",
+      "description": "Sto tysięcy złotych przelał urząd marszałkowski na konto fundacji, którą założył dyrektor stołecznego pogotowia - podlegający bezpośrednio marszałkowi. Za co? Za \"eksponowanie logo urzędu\" w trakcie uroczystej gali i na materiałach promocyjnych. Zarówno prezes fundacji-dyrektor, jak i marszałek Mazowsza to starzy znajomi z PSL.",
+      "originalTitle": "Pieniądze dla fundacji dyrektora pogotowia. 100 tysięcy za wyświetlanie logo urzędu",
+      "originalDescription": "Sto tysięcy złotych przelał urząd marszałkowski na konto fundacji, którą założył dyrektor stołecznego pogotowia - podlegający bezpośrednio marszałkowi. Za co? Za \"eksponowanie logo urzędu\" w trakcie uroczystej gali i na materiałach promocyjnych. Zarówno prezes fundacji-dyrektor, jak i marszałek Mazowsza to starzy znajomi z PSL."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Gęsta mgła. Tu widzialność może być znacznie ograniczona",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-1-2-04-opady-sniegu-tutaj-sypnie-sniegiem-imgw-ostrzega-st8976903?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 05:03:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstą mgłą, która w czwartek rano może osadzać szadź na drogach. W części kraju wciąż obowiązują ostrzeżenia przed przymrozkami. Sprawdź, gdzie należy uważać.",
+      "originalTitle": "Ostrzeżenia IMGW. Gęsta mgła. Tu widzialność może być znacznie ograniczona",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstą mgłą, która w czwartek rano może osadzać szadź na drogach. W części kraju wciąż obowiązują ostrzeżenia przed przymrozkami. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "Tyle kosztują paliwa w czwartek",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliw-dzisiaj-ile-wynosza-ceny-maksymalne-2-kwietnia-pb95-pb98-on-st8977386?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 04:45:00 GMT",
+      "description": "Od czwartku, 2 kwietnia, obowiązują nowe maksymalne ceny paliw. Zgodnie z opublikowanym dzień wcześniej obwieszczeniem ministra energii Miłosza Motyki, benzyna nieznacznie podrożała, natomiast olej napędowy potaniał.",
+      "originalTitle": "Tyle kosztują paliwa w czwartek",
+      "originalDescription": "Od czwartku, 2 kwietnia, obowiązują nowe maksymalne ceny paliw. Zgodnie z opublikowanym dzień wcześniej obwieszczeniem ministra energii Miłosza Motyki, benzyna nieznacznie podrożała, natomiast olej napędowy potaniał."
+    },
+    {
+      "title": "Debata w Jasionce i pytania o nową koalicję. Komentarze polityków",
+      "link": "https://tvn24.pl/polska/mateusz-morawiecki-debatowal-z-wladyslawem-kosiniakiem-kamyszem-politycy-o-mozliwej-nowej-koalicji-st8978756?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 04:43:11 GMT",
+      "description": "Urzędujący wicepremier z koalicji kontra były premier z PiS, czyli polityczne starcie Władysława Kosiniaka-Kamysza z Mateuszem Morawieckim. Debatowali w Jasionce o rolnictwie i bezpieczeństwie. Pojawiają się jednak pytania: po co? Materiał \"Faktów\" TVN.",
+      "originalTitle": "Debata w Jasionce i pytania o nową koalicję. Komentarze polityków",
+      "originalDescription": "Urzędujący wicepremier z koalicji kontra były premier z PiS, czyli polityczne starcie Władysława Kosiniaka-Kamysza z Mateuszem Morawieckim. Debatowali w Jasionce o rolnictwie i bezpieczeństwie. Pojawiają się jednak pytania: po co? Materiał \"Faktów\" TVN."
+    },
+    {
+      "title": "Silne trzęsienie ziemi u wybrzeży Indonezji. Nie żyje jedna osoba",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/silne-trzesienie-ziemi-u-wybrzezy-indonezji-nie-zyje-jedna-osoba-st8978764?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 04:40:44 GMT",
+      "description": "Trzęsienie ziemi o magnitudzie 7,4 nawiedziło w czwartek północne Morze Moluckie. Doszło do niego nieopodal wybrzeży indonezyjskiej wyspy Ternate - poinformowała Służba Geologiczna Stanów Zjednoczonych (USGS). Zginęła jedna osoba.",
+      "originalTitle": "Silne trzęsienie ziemi u wybrzeży Indonezji. Nie żyje jedna osoba",
+      "originalDescription": "Trzęsienie ziemi o magnitudzie 7,4 nawiedziło w czwartek północne Morze Moluckie. Doszło do niego nieopodal wybrzeży indonezyjskiej wyspy Ternate - poinformowała Służba Geologiczna Stanów Zjednoczonych (USGS). Zginęła jedna osoba."
+    },
+    {
+      "title": "Czego Trump nie powiedział? Sojusznicy \"mogą poczuć się nieco uspokojeni\"",
+      "link": "https://tvn24.pl/swiat/czego-trump-nie-powiedzial-sojusznicy-moga-poczuc-sie-nieco-uspokojeni-st8978791?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 04:35:17 GMT",
+      "description": "W dużej mierze recytował te same stwierdzenia - tak orędzie amerykańskiego przywódcy ocenia brytyjska stacja Sky News. Według dziennika \"The Guardian\" w piątym tygodniu wojny \"kluczowe cele USA pozostają wciąż niejasne\". Brytyjskie media analizują słowa Donalda Trumpa i wskazują na kwestię, o której nie wspomniał.",
+      "originalTitle": "Czego Trump nie powiedział? Sojusznicy \"mogą poczuć się nieco uspokojeni\"",
+      "originalDescription": "W dużej mierze recytował te same stwierdzenia - tak orędzie amerykańskiego przywódcy ocenia brytyjska stacja Sky News. Według dziennika \"The Guardian\" w piątym tygodniu wojny \"kluczowe cele USA pozostają wciąż niejasne\". Brytyjskie media analizują słowa Donalda Trumpa i wskazują na kwestię, o której nie wspomniał."
+    },
+    {
+      "title": "2500 dronów poleciało na rosyjskie porty. Finowie policzyli",
+      "link": "https://tvn24.pl/swiat/ukraina-atakuje-cele-rosjan-nad-baltykiem-uzyto-ponad-dwa-tysiace-dronow-st8978792?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 04:08:36 GMT",
+      "description": "Ukraina kontynuuje ataki na rosyjskie porty naftowe nad Morzem Bałtyckim. Według fińskiej armii w ciągu ponad tygodnia w kierunku rosyjskich obiektów wysłano 2500 dronów. W tle intensyfikacji działań bezzałogowce pojawiają się też w przestrzeni powietrznej państw bałyckich.",
+      "originalTitle": "2500 dronów poleciało na rosyjskie porty. Finowie policzyli",
+      "originalDescription": "Ukraina kontynuuje ataki na rosyjskie porty naftowe nad Morzem Bałtyckim. Według fińskiej armii w ciągu ponad tygodnia w kierunku rosyjskich obiektów wysłano 2500 dronów. W tle intensyfikacji działań bezzałogowce pojawiają się też w przestrzeni powietrznej państw bałyckich."
+    },
+    {
+      "title": "Trump: jesteśmy jedynym krajem tak głupim, by na to pozwalać",
+      "link": "https://tvn24.pl/swiat/usa-donald-trump-krytykuje-glupie-prawo-do-obywatelstwa-z-urodzenia-st8978738?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 03:43:14 GMT",
+      "description": "Prezydent USA wziął udział w rozprawie w Sądzie Najwyższym dotyczącej jego dekretu ograniczającego nabywanie obywatelstwa USA wraz z urodzeniem na terenie tego kraju. Później Donald Trump opublikował wpis, w którym skrytykował to \"głupie\" prawo. Wyrok w sprawie ma zapaść do czerwca.",
+      "originalTitle": "Trump: jesteśmy jedynym krajem tak głupim, by na to pozwalać",
+      "originalDescription": "Prezydent USA wziął udział w rozprawie w Sądzie Najwyższym dotyczącej jego dekretu ograniczającego nabywanie obywatelstwa USA wraz z urodzeniem na terenie tego kraju. Później Donald Trump opublikował wpis, w którym skrytykował to \"głupie\" prawo. Wyrok w sprawie ma zapaść do czerwca."
+    }
+  ]
 }
