@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-03T04:18:54.169Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-03T05:13:52.768Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Przyznali, że nielegalnie przekroczyli granicę. Dokumentów nie mają",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wyszkow-przyznali-ze-nielegalnie-przekroczyli-granice-twierdza-ze-sa-z-pakistanu-st8980588?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 04:49:25 GMT",
+      "description": "Wiózł trzech obcokrajowców, żaden z nich nie miał dokumentów. Powiedzieli, że są z Pakistanu i przyznali, że nielegalnie przekroczyli granicę polsko-litewską. Kierowca trafił do aresztu, a pasażerowie do strzeżonego ośrodka dla cudzoziemców.",
+      "originalTitle": "Przyznali, że nielegalnie przekroczyli granicę. Dokumentów nie mają",
+      "originalDescription": "Wiózł trzech obcokrajowców, żaden z nich nie miał dokumentów. Powiedzieli, że są z Pakistanu i przyznali, że nielegalnie przekroczyli granicę polsko-litewską. Kierowca trafił do aresztu, a pasażerowie do strzeżonego ośrodka dla cudzoziemców."
+    },
+    {
+      "title": "\"Prezydent zrobił sobie swoją bańkę i uważa się za jej króla\"",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-uprawnienia-prezydenta-a-konstytucja-komentarze-st8980705?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 04:41:24 GMT",
+      "description": "Najważniejsza ustawa, czyli konstytucja, obowiązuje wszystkich. Z prezydentem włącznie. Jak to się ma do zaprzysiężenia tylko wybranych sędziów do Trybunału Konstytucyjnego? Karol Nawrocki i jego otoczenie chce konstytucję zmienić i z takimi deklaracjami się nie kryje. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "\"Prezydent zrobił sobie swoją bańkę i uważa się za jej króla\"",
+      "originalDescription": "Najważniejsza ustawa, czyli konstytucja, obowiązuje wszystkich. Z prezydentem włącznie. Jak to się ma do zaprzysiężenia tylko wybranych sędziów do Trybunału Konstytucyjnego? Karol Nawrocki i jego otoczenie chce konstytucję zmienić i z takimi deklaracjami się nie kryje. Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Ceny paliw w piątek. Tyle kosztują",
+      "link": "https://tvn24.pl/biznes/pieniadze/ceny-paliw-w-wielki-piatek-ile-wynosza-ceny-maksymalne-3-kwietnia-pb95-pb98-on-st8979049?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 09:59:15 GMT",
+      "description": "Od piątku, 3 kwietnia, obowiązują nowe maksymalne ceny paliw. Wobec opublikowanego dzień wcześniej obwieszczenia ministra energii Miłosza Motyki, ceny w Wielki Piątek są niższe niż w czwartek.",
+      "originalTitle": "Ceny paliw w piątek. Tyle kosztują",
+      "originalDescription": "Od piątku, 3 kwietnia, obowiązują nowe maksymalne ceny paliw. Wobec opublikowanego dzień wcześniej obwieszczenia ministra energii Miłosza Motyki, ceny w Wielki Piątek są niższe niż w czwartek."
+    },
+    {
+      "title": "Jaki jest cel Trumpa? \"W jednym zdaniu potrafi wyznaczyć różne\"",
+      "link": "https://tvn24.pl/polska/jaki-jest-cel-donalda-trumpa-w-iranie-general-roman-polko-komentuje-st8980706?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 04:25:17 GMT",
+      "description": "Tak naprawdę trudno w tej chwili powiedzieć, jaki cel sobie zakładał prezydent Trump i na jakiej podstawie mówi, że ta misja już jest prawie ukończona - powiedział generał Roman Polko. Komentował orędzie prezydenta USA i zapowiedź \"bardzo szybkiego\" zakończenia wojny z Iranem.",
+      "originalTitle": "Jaki jest cel Trumpa? \"W jednym zdaniu potrafi wyznaczyć różne\"",
+      "originalDescription": "Tak naprawdę trudno w tej chwili powiedzieć, jaki cel sobie zakładał prezydent Trump i na jakiej podstawie mówi, że ta misja już jest prawie ukończona - powiedział generał Roman Polko. Komentował orędzie prezydenta USA i zapowiedź \"bardzo szybkiego\" zakończenia wojny z Iranem."
+    },
+    {
+      "title": "Ostrzeżenia w 11 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-2-3-04-przymrozki-tu-niska-temperatura-znow-bedzie-zagrozeniem-st8979555?source=rss",
+      "pubDate": "Thu, 02 Apr 2026 11:24:46 GMT",
+      "description": "Pogoda w Polsce. IMGW ostrzega przed porannymi przymrozkami. Żółte alarmy obowiązują w ponad połowie kraju. Sprawdź, gdzie ściśnie lekki mróz.",
+      "originalTitle": "Ostrzeżenia w 11 województwach",
+      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed porannymi przymrozkami. Żółte alarmy obowiązują w ponad połowie kraju. Sprawdź, gdzie ściśnie lekki mróz."
+    },
+    {
+      "title": "Zaatakował kobietę z psem. Okładał ją pięściami i kopał po całym ciele",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zaatakowal-kobiete-z-psem-okladal-ja-piesciami-i-kopal-po-calym-ciele-st8980436?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 04:01:56 GMT",
+      "description": "W okolicach Placu Konstytucji w centrum Warszawy 37-letni mężczyzna bez powodu zaatakował kobietę spacerującą z psem. Bił ją pięściami po głowie i kopał. Zareagował policjant, który akurat szedł na służbę.",
+      "originalTitle": "Zaatakował kobietę z psem. Okładał ją pięściami i kopał po całym ciele",
+      "originalDescription": "W okolicach Placu Konstytucji w centrum Warszawy 37-letni mężczyzna bez powodu zaatakował kobietę spacerującą z psem. Bił ją pięściami po głowie i kopał. Zareagował policjant, który akurat szedł na służbę."
+    },
+    {
+      "title": "Największy okręt świata wraca do akcji. \"Gotowy do pełnego wykonania misji\"",
+      "link": "https://tvn24.pl/swiat/uss-gerald-r-ford-wraca-do-operacji-przeciwko-iranowi-na-bliskim-wschodzie-st8980733?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 03:48:03 GMT",
+      "description": "USS Gerald R. Ford jest \"gotowy do pełnego wykonania misji\" - poinformowało wojsko USA, cytowane przez \"Wall Street Jounal\". Największy okręt świata wraca do operacji przeciwko Iranowi po pożarze na pokładzie.",
+      "originalTitle": "Największy okręt świata wraca do akcji. \"Gotowy do pełnego wykonania misji\"",
+      "originalDescription": "USS Gerald R. Ford jest \"gotowy do pełnego wykonania misji\" - poinformowało wojsko USA, cytowane przez \"Wall Street Jounal\". Największy okręt świata wraca do operacji przeciwko Iranowi po pożarze na pokładzie."
+    },
+    {
+      "title": "Burzliwe obrady rady miasta. \"To jest moment, że trzeba na was krzyczeć\"",
+      "link": "https://tvn24.pl/polska/burzliwe-obrady-rady-miasta-w-bialogardzie-burmistrzyni-ostro-do-radnych-st8980704?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 03:43:46 GMT",
+      "description": "Rozmawiali o placu zabaw, ale zabawnie nie było. Burmistrzyni Białogardu na posiedzeniu rady miasta kierowała do radnych mocne słowa. Jednym kazała \"zamknąć się\", mówiła też o zarobkach. Kamery wszystko nagrały, a film trafił do sieci. Co i kto powiedział i co usłyszał? Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Burzliwe obrady rady miasta. \"To jest moment, że trzeba na was krzyczeć\"",
+      "originalDescription": "Rozmawiali o placu zabaw, ale zabawnie nie było. Burmistrzyni Białogardu na posiedzeniu rady miasta kierowała do radnych mocne słowa. Jednym kazała \"zamknąć się\", mówiła też o zarobkach. Kamery wszystko nagrały, a film trafił do sieci. Co i kto powiedział i co usłyszał? Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Wiceprezydent USA poleci na Węgry. Tuż przed wyborami",
+      "link": "https://tvn24.pl/swiat/wiceprezydent-usa-j-d-vance-poleci-na-wegry-tuz-przed-wyborami-st8980729?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 03:35:59 GMT",
+      "description": "Wiceprezydent USA J.D. Vance przyleci we wtorek 7 kwietnia do Budapesztu.. Ma się spotkać w cztery oczy z Viktorem Orbanem. Wizyta odbędzie się tuż przed wyborami parlamentarnymi zaplanowanymi na 12 kwietnia. To kolejny gest wsparcia dla Orbana ze strony USA.",
+      "originalTitle": "Wiceprezydent USA poleci na Węgry. Tuż przed wyborami",
+      "originalDescription": "Wiceprezydent USA J.D. Vance przyleci we wtorek 7 kwietnia do Budapesztu.. Ma się spotkać w cztery oczy z Viktorem Orbanem. Wizyta odbędzie się tuż przed wyborami parlamentarnymi zaplanowanymi na 12 kwietnia. To kolejny gest wsparcia dla Orbana ze strony USA."
+    },
+    {
+      "title": "Nowy trener Świątek, spotkanie na Nowogrodzkiej, Pam Bondi odwołana",
+      "link": "https://tvn24.pl/polska/nowy-trener-swiatek-spotkanie-na-nowogrodzkiej-pam-bondi-odwolana-st8980724?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 03:15:45 GMT",
+      "description": "Iga Świątek ogłosiła, że jej nowym trenerem zostanie Francisco Roig. Mateusz Morawiecki spotkał się z prezesem Prawa i Sprawiedliwości Jarosławem Kaczyńskim w siedzibie partii. Pam Bondi została odwołana ze stanowiska Prokuratora Generalnego USA. Oto pięć rzeczy, które warto wiedzieć w piątek 3 kwietnia.",
+      "originalTitle": "Nowy trener Świątek, spotkanie na Nowogrodzkiej, Pam Bondi odwołana",
+      "originalDescription": "Iga Świątek ogłosiła, że jej nowym trenerem zostanie Francisco Roig. Mateusz Morawiecki spotkał się z prezesem Prawa i Sprawiedliwości Jarosławem Kaczyńskim w siedzibie partii. Pam Bondi została odwołana ze stanowiska Prokuratora Generalnego USA. Oto pięć rzeczy, które warto wiedzieć w piątek 3 kwietnia."
+    }
+  ]
 }
