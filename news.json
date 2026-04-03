@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-03T17:13:04.845Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-03T17:45:39.476Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Trump wie, Amerykanie szukają. Są nowe informacje",
+      "link": "https://tvn24.pl/swiat/wojna-w-iranie-amerykanski-mysliwiec-zestrzelony-jeden-z-czlonkow-zalogi-uratowany-st8981879?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 13:31:55 GMT",
+      "description": "Prezydent Donald Trump został poinformowany o zestrzeleniu amerykańskiego myśliwca nad Iranem - przekazała rzeczniczka Białego Domu w pierwszym oficjalnym komentarzu Waszyngtonu w tej sprawie. Amerykanie rozpoczęli operację poszukiwawczo-ratowniczą. Obydwaj członkowie załogi mieli się katapultować, a jednego z nich udało się już uratować - wynika z nieoficjalnych informacji.",
+      "originalTitle": "Trump wie, Amerykanie szukają. Są nowe informacje",
+      "originalDescription": "Prezydent Donald Trump został poinformowany o zestrzeleniu amerykańskiego myśliwca nad Iranem - przekazała rzeczniczka Białego Domu w pierwszym oficjalnym komentarzu Waszyngtonu w tej sprawie. Amerykanie rozpoczęli operację poszukiwawczo-ratowniczą. Obydwaj członkowie załogi mieli się katapultować, a jednego z nich udało się już uratować - wynika z nieoficjalnych informacji."
+    },
+    {
+      "title": "Timmy coraz bliżej śmierci. Służby nie będą go ratować",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/niemcy-humbak-timmy-coraz-blizej-smierci-sluzby-nie-beda-go-ratowac-st8982287?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 16:57:02 GMT",
+      "description": "Humbak Timmy, którego losy śledzi niemiecka opinia publiczna, jest coraz bliżej śmierci. Służby poinformowały, że nie będą już podejmować dalszych działań, by pomóc zwierzęciu.",
+      "originalTitle": "Timmy coraz bliżej śmierci. Służby nie będą go ratować",
+      "originalDescription": "Humbak Timmy, którego losy śledzi niemiecka opinia publiczna, jest coraz bliżej śmierci. Służby poinformowały, że nie będą już podejmować dalszych działań, by pomóc zwierzęciu."
+    },
+    {
+      "title": "Drzewa oblane lodem. \"Usłyszeliśmy głośny huk\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-lodowa-w-usa-drzewa-oblane-lodem-uslyszelismy-glosny-huk-st8982132?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 16:05:41 GMT",
+      "description": "Burza lodowa nawiedziła północno-wschodnią część amerykańskiego stanu Wisconsin. Doprowadziła do paraliżu komunikacyjnego. Drzewa łamały się pod naporem lodu i spadały na drogi.",
+      "originalTitle": "Drzewa oblane lodem. \"Usłyszeliśmy głośny huk\"",
+      "originalDescription": "Burza lodowa nawiedziła północno-wschodnią część amerykańskiego stanu Wisconsin. Doprowadziła do paraliżu komunikacyjnego. Drzewa łamały się pod naporem lodu i spadały na drogi."
+    },
+    {
+      "title": "Szał na fioletowe bulwy. Świat zmaga się z niedoborami",
+      "link": "https://tvn24.pl/biznes/ze-swiata/globalny-popyt-na-ube-coraz-wiekszy-niedobory-upraw-rosna-st8981968?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 15:29:35 GMT",
+      "description": "Na całym świecie coraz popularniejsze staje się ube, czyli pochodzące z Filipin warzywo korzeniowe. Kawiarnie włączają je do swoich menu jako składnik napojów, zarówno w kawie, jak i matchy. Tymczasem ze względu na znaczny popyt i niesprzyjające warunki pogodowe jego produkcja spada - przekazała stacja CNN.",
+      "originalTitle": "Szał na fioletowe bulwy. Świat zmaga się z niedoborami",
+      "originalDescription": "Na całym świecie coraz popularniejsze staje się ube, czyli pochodzące z Filipin warzywo korzeniowe. Kawiarnie włączają je do swoich menu jako składnik napojów, zarówno w kawie, jak i matchy. Tymczasem ze względu na znaczny popyt i niesprzyjające warunki pogodowe jego produkcja spada - przekazała stacja CNN."
+    },
+    {
+      "title": "Autobus na boku, osiem osób rannych",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/marki-autobus-na-boku-ranni-st8982222?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 15:15:45 GMT",
+      "description": "Na skrzyżowaniu alei Piłsudskiego z ulicą Bandurskiego w podwarszawskich Markach doszło do poważnego wypadku. Autobus miejski zderzył się tam z autem osobowym, po czym przewrócił się na bok. Policja podaje, że poszkodowanych zostało osiem osób. To pasażerowie autobusu.",
+      "originalTitle": "Autobus na boku, osiem osób rannych",
+      "originalDescription": "Na skrzyżowaniu alei Piłsudskiego z ulicą Bandurskiego w podwarszawskich Markach doszło do poważnego wypadku. Autobus miejski zderzył się tam z autem osobowym, po czym przewrócił się na bok. Policja podaje, że poszkodowanych zostało osiem osób. To pasażerowie autobusu."
+    },
+    {
+      "title": "Zatrudnienie w USA zaskoczyło. Jaki wpływ miała wojna",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zatrudnienie-w-usa-przybylo-178-tysiecy-miejsc-pracy-wynik-zaskoczyl-st8982156?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 14:55:01 GMT",
+      "description": "W Stanach Zjednoczonych przybyło w marcu 178 tysięcy nowych miejsc pracy - wynika z danych amerykańskiego Biura Statystyki Pracy. Wynik okazał się zaskoczeniem dla ekonomistów, którzy oczekiwali niższego wyniku.",
+      "originalTitle": "Zatrudnienie w USA zaskoczyło. Jaki wpływ miała wojna",
+      "originalDescription": "W Stanach Zjednoczonych przybyło w marcu 178 tysięcy nowych miejsc pracy - wynika z danych amerykańskiego Biura Statystyki Pracy. Wynik okazał się zaskoczeniem dla ekonomistów, którzy oczekiwali niższego wyniku."
+    },
+    {
+      "title": "Największy błąd przy wielkanocnym stole. Dietetyk: nie chodzi o to, ile zjemy",
+      "link": "https://tvn24.pl/zdrowie/najwiekszy-blad-przy-wielkanocnym-stole-dietetyk-nie-chodzi-o-to-ile-zjemy-st8982051?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 14:48:45 GMT",
+      "description": "Przed nami Wielkanoc i najbardziej obfite śniadanie w roku - a wraz z nim dobrze znany lęk przed przejedzeniem i liczeniem kalorii. Nauka mówi: to właśnie syty poranek może decydować o naszej wadze bardziej niż to, co zjemy później. Czy żurek, faszerowane jajka i sałatka jarzynowa mogą więc działać na naszą korzyść? Zapytaliśmy dietetyka klinicznego Sebastiana Dzułę.",
+      "originalTitle": "Największy błąd przy wielkanocnym stole. Dietetyk: nie chodzi o to, ile zjemy",
+      "originalDescription": "Przed nami Wielkanoc i najbardziej obfite śniadanie w roku - a wraz z nim dobrze znany lęk przed przejedzeniem i liczeniem kalorii. Nauka mówi: to właśnie syty poranek może decydować o naszej wadze bardziej niż to, co zjemy później. Czy żurek, faszerowane jajka i sałatka jarzynowa mogą więc działać na naszą korzyść? Zapytaliśmy dietetyka klinicznego Sebastiana Dzułę."
+    },
+    {
+      "title": "Pogoda na Wielkanoc i lany poniedziałek. W święta może zagrzmieć",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-2026-i-lany-poniedzialek-prognoza-pogody-na-swieta-wielkanocne-mozliwe-burze-st8981949?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 14:46:20 GMT",
+      "description": "Pogoda na Wielkanoc i lany poniedziałek. Nadchodzące dni przyniosą w Polsce dynamiczną aurę. Najpierw zrobi się bardzo ciepło, a później się mocno ochłodzi. Taka zmiana pogody sprawi, że silnie powieje, mogą też pojawić się burze.",
+      "originalTitle": "Pogoda na Wielkanoc i lany poniedziałek. W święta może zagrzmieć",
+      "originalDescription": "Pogoda na Wielkanoc i lany poniedziałek. Nadchodzące dni przyniosą w Polsce dynamiczną aurę. Najpierw zrobi się bardzo ciepło, a później się mocno ochłodzi. Taka zmiana pogody sprawi, że silnie powieje, mogą też pojawić się burze."
+    },
+    {
+      "title": "Kiepskie wyniki portu w Radomiu. Jeszcze mniej podróżnych",
+      "link": "https://tvn24.pl/biznes/turystyka/spadek-ruchu-lotniczego-w-radomiu-nowe-polaczenia-szansa-na-lepsze-wyniki-st8982093?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 14:36:22 GMT",
+      "description": "W pierwszym kwartale port lotniczy w Radomiu obsłużył o 34 proc. mniej podróżnych niż rok wcześniej w tym samym okresie. Zarządzający lotniskiem zakładają, że wraz z sezonowym wzrostem ruchu wakacyjnego statystyki ulegną poprawie. Jak przekazały w piątek Polskie Porty Lotnicze, w maju z Radomia wystartują m.in. czartery do Egiptu i Turcji.",
+      "originalTitle": "Kiepskie wyniki portu w Radomiu. Jeszcze mniej podróżnych",
+      "originalDescription": "W pierwszym kwartale port lotniczy w Radomiu obsłużył o 34 proc. mniej podróżnych niż rok wcześniej w tym samym okresie. Zarządzający lotniskiem zakładają, że wraz z sezonowym wzrostem ruchu wakacyjnego statystyki ulegną poprawie. Jak przekazały w piątek Polskie Porty Lotnicze, w maju z Radomia wystartują m.in. czartery do Egiptu i Turcji."
+    },
+    {
+      "title": "Więcej dla armii, mniej dla Amerykanów. Trump stawia na zbrojenia",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-wiecej-dla-armii-mniej-dla-amerykanow-donald-trump-stawia-na-zbrojenia-st8982031?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 14:28:01 GMT",
+      "description": "W piątek Biały Dom ogłosił, że zwróci się do Kongresu o zatwierdzenie około 1,5 biliona dolarów na obronę w 2027 roku. \"The New York Times\" podkreślił, że w przypadku przyjęcia wniosku \"poziom wydatków wojskowych osiągnie najwyższy poziom we współczesnej historii Stanów Zjednoczonych\".",
+      "originalTitle": "Więcej dla armii, mniej dla Amerykanów. Trump stawia na zbrojenia",
+      "originalDescription": "W piątek Biały Dom ogłosił, że zwróci się do Kongresu o zatwierdzenie około 1,5 biliona dolarów na obronę w 2027 roku. \"The New York Times\" podkreślił, że w przypadku przyjęcia wniosku \"poziom wydatków wojskowych osiągnie najwyższy poziom we współczesnej historii Stanów Zjednoczonych\"."
+    }
+  ]
 }
