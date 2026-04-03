@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-03T11:17:42.187Z",
+  "lastUpdate": "2026-04-03T11:45:21.398Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Francja boi się dronów z Białorusi",
+      "link": "https://defence24.pl/geopolityka/francja-boi-sie-dronow-z-bialorusi",
+      "pubDate": "Fri, 03 Apr 2026 13:33:29 +0200",
+      "description": "Rosyjskie drony na Białorusi przestają być problemem wyłącznie dla Ukrainy i wschodniej flanki NATO. W Pałacu Elizejskim i Sztabie Generalnym coraz mocniej wybrzmiewa obawa, że współczesna wojna może szybciej niż zakładano dosięgnąć także Francji."
+    },
     {
       "title": "Czarna seria agresora. Rozbił się rosyjski samolot bojowy",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/czarna-seria-agresora-rozbil-sie-rosyjski-samolot-bojowy",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/sily-zbrojne/lotniskowiec-ford-jednak-wraca-na-wojne",
       "pubDate": "Fri, 03 Apr 2026 07:05:52 +0200",
       "description": "Amerykański lotniskowiec USS Gerald R. Ford powraca do operacji Epic Fury po pięciodniowej wizycie w porcie w Splicie w Chorwacji - poinformowała w czwartek marynarka wojenna USA, cytowana przez dziennik „Wall Street Journal”."
-    },
-    {
-      "title": "Silniki do dronów z Polski. Bez nich nic nie poleci [WYWIAD]",
-      "link": "https://defence24.pl/technologie/silniki-do-dronow-z-polski-bez-nich-nic-nie-poleci-wywiad",
-      "pubDate": "Fri, 03 Apr 2026 06:40:50 +0200",
-      "description": "Choć produkcja systemów bezzałogowych w Polsce i Europie rozwija się dynamicznie, to w większości komponenty do nich są importowane i to w dużej mierze z Chin. Stąd tak istotną kwestią jest rozwój produkcji podzespołów w kraju oraz na Starym Kontynencie. Pojawiają się pierwsze „jaskółki”, jak firma EUMOTORS, zajmująca się wytwarzaniem silników BLDC. O jej historii i planach rozwoju rozmawiamy z Michaelem Bergerem, CEO EUMOTORS Sp. z o.o."
     }
   ]
 }

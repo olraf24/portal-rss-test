@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-03T11:17:51.662Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-04-03T11:45:55.762Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Rzucili na mnie wszystkie siły\". Czym podpadł Orbanowi",
+      "link": "https://tvn24.pl/swiat/wegry-wybory-szabolcs-panyi-dziennikarz-sledczy-o-wladzy-viktora-orbana-i-wyborach-parlamentarnych-st8980968?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:29:53 GMT",
+      "description": "Ujawnia nadużycia władzy, które - jak mówi - sięgają samego Viktora Orbana. Teraz sam znalazł się na celowniku węgierskiego systemu. Zapowiada jednak, że to nie koniec. A Szabolcs Panyi nie rzuca takich słów na wiatr.",
+      "originalTitle": "\"Rzucili na mnie wszystkie siły\". Czym podpadł Orbanowi",
+      "originalDescription": "Ujawnia nadużycia władzy, które - jak mówi - sięgają samego Viktora Orbana. Teraz sam znalazł się na celowniku węgierskiego systemu. Zapowiada jednak, że to nie koniec. A Szabolcs Panyi nie rzuca takich słów na wiatr."
+    },
+    {
+      "title": "Microsoft inwestuje w Japonii. Miliardy na rozwój AI",
+      "link": "https://tvn24.pl/biznes/tech/microsoft-inwestuje-miliardy-w-strategiczne-technologie-w-japonii-st8981004?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:26:30 GMT",
+      "description": "Microsoft zapowiada wielomiliardową ofensywę technologiczną w Japonii. Koncern chce zainwestować równowartość 10 miliardów dolarów w rozwój sztucznej inteligencji i cyberbezpieczeństwa, a także przeszkolić setki tysięcy specjalistów.",
+      "originalTitle": "Microsoft inwestuje w Japonii. Miliardy na rozwój AI",
+      "originalDescription": "Microsoft zapowiada wielomiliardową ofensywę technologiczną w Japonii. Koncern chce zainwestować równowartość 10 miliardów dolarów w rozwój sztucznej inteligencji i cyberbezpieczeństwa, a także przeszkolić setki tysięcy specjalistów."
+    },
+    {
+      "title": "Dwa miliony Polaków choruje, większość o tym nie wie. To trzecia przyczyna zgonów",
+      "link": "https://tvn24.pl/zdrowie/zabija-po-cichu-prawie-2-miliony-polakow-choruje-na-pochp-wielu-o-tym-nie-wie-st8981267?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:24:59 GMT",
+      "description": "Zabija po cichu i przez lata nie daje wyraźnych sygnałów. Przewlekła obturacyjna choroba płuc (POChP) - trzecia przyczyna przedwczesnych zgonów na świecie - w Polsce wciąż umyka diagnozie, choć choruje już blisko dwa miliony osób. Dlaczego wykrywamy ją tak późno?",
+      "originalTitle": "Dwa miliony Polaków choruje, większość o tym nie wie. To trzecia przyczyna zgonów",
+      "originalDescription": "Zabija po cichu i przez lata nie daje wyraźnych sygnałów. Przewlekła obturacyjna choroba płuc (POChP) - trzecia przyczyna przedwczesnych zgonów na świecie - w Polsce wciąż umyka diagnozie, choć choruje już blisko dwa miliony osób. Dlaczego wykrywamy ją tak późno?"
+    },
+    {
+      "title": "\"Rozgniewany\" Macron o Trumpie. Zasugerował jedną rzecz",
+      "link": "https://tvn24.pl/swiat/donald-trump-szydzil-z-emmanuela-macrona-i-jego-zony-odpowiedz-prezydenta-francji-st8981286?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:24:56 GMT",
+      "description": "Emmanuel Macron ostro skrytykował Donalda Trumpa za jego podejście do wojny i ataki na NATO. Media zauważyły, że francuski prezydent jest \"rozgniewany\", a sytuację komplikuje fakt, że amerykański prezydent przypomniał incydent z Brigitte Macron i szydził z małżonków.",
+      "originalTitle": "\"Rozgniewany\" Macron o Trumpie. Zasugerował jedną rzecz",
+      "originalDescription": "Emmanuel Macron ostro skrytykował Donalda Trumpa za jego podejście do wojny i ataki na NATO. Media zauważyły, że francuski prezydent jest \"rozgniewany\", a sytuację komplikuje fakt, że amerykański prezydent przypomniał incydent z Brigitte Macron i szydził z małżonków."
+    },
+    {
+      "title": "Sąsiedzi się poskarżyli. Wniosek prokuratury w sprawie Karty Krakowskiej",
+      "link": "https://tvn24.pl/krakow/krakow-karta-krakowska-zagrozona-wniosek-prokuratury-po-skardze-radnych-wieliczki-st8981464?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:24:37 GMT",
+      "description": "Prokuratura Okręgowa w Krakowie zawnioskowała do rady miasta o rozważenie uchylenia uchwały wprowadzającej Kartę Krakowską. Zniżki dla Krakowian zaskarżyli radni sąsiedniej Wieliczki, którzy nazwali miejski program \"dyskryminacją\". Władze Krakowa uspokajają: obecna sytuacja nie skutkuje unieważnieniem karty.",
+      "originalTitle": "Sąsiedzi się poskarżyli. Wniosek prokuratury w sprawie Karty Krakowskiej",
+      "originalDescription": "Prokuratura Okręgowa w Krakowie zawnioskowała do rady miasta o rozważenie uchylenia uchwały wprowadzającej Kartę Krakowską. Zniżki dla Krakowian zaskarżyli radni sąsiedniej Wieliczki, którzy nazwali miejski program \"dyskryminacją\". Władze Krakowa uspokajają: obecna sytuacja nie skutkuje unieważnieniem karty."
+    },
+    {
+      "title": "Nie żyje Wojciech Morawski",
+      "link": "https://tvn24.pl/polska/wojtek-morawski-nie-zyje-byly-perkusista-perfectu-mial-76-lat-st8981422?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:05:18 GMT",
+      "description": "Wojciech Morawski, perkusista, jeden z założycieli Perfectu, nie żyje - przekazał były lider zespołu Zbigniew Hołdys.",
+      "originalTitle": "Nie żyje Wojciech Morawski",
+      "originalDescription": "Wojciech Morawski, perkusista, jeden z założycieli Perfectu, nie żyje - przekazał były lider zespołu Zbigniew Hołdys."
+    },
+    {
+      "title": "Zebrali pieniądze rozsypane na chodniku. Mają kłopoty",
+      "link": "https://tvn24.pl/lodz/pabianice-zabrali-pieniadze-z-ulicy-odpowiedza-za-przywlaszczenie-st8981443?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 11:04:18 GMT",
+      "description": "Gotówka wypadła z kieszeni kobiety, a banknoty zebrała trójka przechodniów. Zdarzenie nagrała kamera miejskiego monitoringu. Trzy osoby odpowiedzą przed sądem za przywłaszczenie.",
+      "originalTitle": "Zebrali pieniądze rozsypane na chodniku. Mają kłopoty",
+      "originalDescription": "Gotówka wypadła z kieszeni kobiety, a banknoty zebrała trójka przechodniów. Zdarzenie nagrała kamera miejskiego monitoringu. Trzy osoby odpowiedzą przed sądem za przywłaszczenie."
+    },
+    {
+      "title": "IMGW znów ostrzega. Alarmy w 12 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-3-4-04-przymrozki-tu-niska-temperatura-znow-bedzie-zagrozeniem-st8981366?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 10:57:19 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W znacznej części kraju obowiązują żółte alarmy przed przymrozkami. Są też miejsca, gdzie zagrożeniem staną się roztopy. Sprawdź szczegóły.",
+      "originalTitle": "IMGW znów ostrzega. Alarmy w 12 województwach",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W znacznej części kraju obowiązują żółte alarmy przed przymrozkami. Są też miejsca, gdzie zagrożeniem staną się roztopy. Sprawdź szczegóły."
+    },
+    {
+      "title": "Zachodni statek przepłynął przez cieśninę Ormuz. Pierwszy raz od wybuchu wojny",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-pierwszy-raz-od-jej-wybuchu-zachodni-statek-przeplynal-przez-ciesnine-ormuz-st8981288?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 10:55:25 GMT",
+      "description": "Pierwszy raz od początku wojny USA i Izraela z Iranem przez cieśninę Ormuz przepłynął zachodni statek - poinformował Bloomberg. Wciąż nie jest jasne, w jaki sposób kontenerowiec należący do francuskiej grupy żeglugowej zapewnił sobie bezpieczne przepłynięcie przez zablokowaną cieśninę.",
+      "originalTitle": "Zachodni statek przepłynął przez cieśninę Ormuz. Pierwszy raz od wybuchu wojny",
+      "originalDescription": "Pierwszy raz od początku wojny USA i Izraela z Iranem przez cieśninę Ormuz przepłynął zachodni statek - poinformował Bloomberg. Wciąż nie jest jasne, w jaki sposób kontenerowiec należący do francuskiej grupy żeglugowej zapewnił sobie bezpieczne przepłynięcie przez zablokowaną cieśninę."
+    },
+    {
+      "title": "Zderzenie z ciężarówką. Zginął 28-latek",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/labedz-kujawsko-pomorskie-tragiczny-wypadek-nie-zyje-mlody-kierowca-st8981391?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 10:54:01 GMT",
+      "description": "Tragiczny wypadek na drodze wojewódzkiej numer 548 w miejscowości Łabędź (woj. kujawsko-pomorskie). Po zderzeniu z ciężarówką zginął kierowca samochodu osobowego.",
+      "originalTitle": "Zderzenie z ciężarówką. Zginął 28-latek",
+      "originalDescription": "Tragiczny wypadek na drodze wojewódzkiej numer 548 w miejscowości Łabędź (woj. kujawsko-pomorskie). Po zderzeniu z ciężarówką zginął kierowca samochodu osobowego."
+    }
+  ]
 }
