@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-04T12:14:17.719Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-04T12:48:09.591Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Parafianie zbierali na remont organów. Z plebanii skradziono 100 tysięcy złotych",
+      "link": "https://tvn24.pl/lublin/moniatycze-z-plebanii-skradziono-100-tysiecy-zlotych-st8983166?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 12:36:01 GMT",
+      "description": "Wystarczyło 10 minut. Proboszcz parafii w Moniatyczach (Lubelskie) przyszedł z kościoła na plebanię, żeby się przebrać, nie zamknął za sobą drzwi. W tym czasie do budynku wszedł złodziej i ukrył się w jednym z pomieszczeń. Gdy ksiądz wyjechał, ukradł 100 tysięcy złotych, które wierni zebrali na na odnowienie zabytkowych organów. Sprawą zajmuje się policja.",
+      "originalTitle": "Parafianie zbierali na remont organów. Z plebanii skradziono 100 tysięcy złotych",
+      "originalDescription": "Wystarczyło 10 minut. Proboszcz parafii w Moniatyczach (Lubelskie) przyszedł z kościoła na plebanię, żeby się przebrać, nie zamknął za sobą drzwi. W tym czasie do budynku wszedł złodziej i ukrył się w jednym z pomieszczeń. Gdy ksiądz wyjechał, ukradł 100 tysięcy złotych, które wierni zebrali na na odnowienie zabytkowych organów. Sprawą zajmuje się policja."
+    },
+    {
+      "title": "Wielka Sobota z niebezpieczną aurą. Alarmy w 10 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-ostrzezenia-imgw-4-5-04-silny-wiatr-roztopy-przymrozki-tutaj-aura-bedzie-niebezpieczna-st8982548?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 04:42:41 GMT",
+      "description": "W Wielką Sobotę i nadchodzącą noc czeka nas kilka zagrożeń ze strony pogody. W części kraju już teraz ważne są alerty przed silnym wiatrem i roztopami, a w kolejnych godzinach w wielu województwach spodziewane są przymrozki. Sprawdź, na co się przygotować.",
+      "originalTitle": "Wielka Sobota z niebezpieczną aurą. Alarmy w 10 województwach",
+      "originalDescription": "W Wielką Sobotę i nadchodzącą noc czeka nas kilka zagrożeń ze strony pogody. W części kraju już teraz ważne są alerty przed silnym wiatrem i roztopami, a w kolejnych godzinach w wielu województwach spodziewane są przymrozki. Sprawdź, na co się przygotować."
+    },
+    {
+      "title": "Kontrwywiad ostrzega przed rosyjskimi kutrami",
+      "link": "https://tvn24.pl/biznes/ze-swiata/norwegia-kontrwywiad-ostrzega-przed-rosyjskimi-kutrami-st8982842?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 12:31:48 GMT",
+      "description": "Odkąd Rosja zaatakowała Ukrainę rosyjskie statki co najmniej raz w tygodniu szukały schronienia w fiordach przed złą pogodą. Norweski wywiad ostrzega, że w ten sposób mogą zbierać dane o infrastrukturze oraz zdolnościach wojskowych Norwegii i jej sojuszników.",
+      "originalTitle": "Kontrwywiad ostrzega przed rosyjskimi kutrami",
+      "originalDescription": "Odkąd Rosja zaatakowała Ukrainę rosyjskie statki co najmniej raz w tygodniu szukały schronienia w fiordach przed złą pogodą. Norweski wywiad ostrzega, że w ten sposób mogą zbierać dane o infrastrukturze oraz zdolnościach wojskowych Norwegii i jej sojuszników."
+    },
+    {
+      "title": "Plaga zwolnień lekarskich w komendzie. Są decyzje personalne",
+      "link": "https://tvn24.pl/poznan/srem-plaga-zwolnien-lekarskich-w-komendzie-sa-decyzje-personalne-st8982923?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 12:14:39 GMT",
+      "description": "W Śremie (Wielkopolskie) na zwolnieniu lekarskim znalazła się duża grupa policjantów. Miał to być złej efekt atmosfery, jaka panuje w jednostce. Sprawą zainteresował się komendant wojewódzki. Po jego wizycie, odwołana została miejscowa komendant.",
+      "originalTitle": "Plaga zwolnień lekarskich w komendzie. Są decyzje personalne",
+      "originalDescription": "W Śremie (Wielkopolskie) na zwolnieniu lekarskim znalazła się duża grupa policjantów. Miał to być złej efekt atmosfery, jaka panuje w jednostce. Sprawą zainteresował się komendant wojewódzki. Po jego wizycie, odwołana została miejscowa komendant."
+    },
+    {
+      "title": "Czerwony alert na Wielkanoc. \"Skrajnie niebezpieczne\" warunki",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/norwegia-czerwony-alert-na-wielkanoc-skrajnie-niebezpieczne-warunki-st8983193?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 12:08:23 GMT",
+      "description": "Burza Dave zbliża się do wybrzeży Norwegii, niosąc ze sobą ekstremalnie silny wiatr. W Wielkanoc na południu kraju obowiązywać mają alarmy najwyższego stopnia - tam prędkość najpotężniejszych podmuchów może przekraczać 160 kilometrów na godzinę.",
+      "originalTitle": "Czerwony alert na Wielkanoc. \"Skrajnie niebezpieczne\" warunki",
+      "originalDescription": "Burza Dave zbliża się do wybrzeży Norwegii, niosąc ze sobą ekstremalnie silny wiatr. W Wielkanoc na południu kraju obowiązywać mają alarmy najwyższego stopnia - tam prędkość najpotężniejszych podmuchów może przekraczać 160 kilometrów na godzinę."
+    },
+    {
+      "title": "Wypadł z drogi, zjechał do rowu, dachował, zginął",
+      "link": "https://tvn24.pl/lublin/sielce-zjechal-do-rowu-i-dachowal-zginal-na-miejscu-st8983005?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 11:40:02 GMT",
+      "description": "Nie żyje 23-letni kierowca samochodu osobowego, który pomiędzy Kurowem a Sielcami (Lubelskie) stracił panowanie nad autem i wylądował w rowie. Prawdopodobnie jechał ze zbyt dużą prędkością.",
+      "originalTitle": "Wypadł z drogi, zjechał do rowu, dachował, zginął",
+      "originalDescription": "Nie żyje 23-letni kierowca samochodu osobowego, który pomiędzy Kurowem a Sielcami (Lubelskie) stracił panowanie nad autem i wylądował w rowie. Prawdopodobnie jechał ze zbyt dużą prędkością."
+    },
+    {
+      "title": "Zakupy w święta. Jakie sklepy będą czynne",
+      "link": "https://tvn24.pl/biznes/z-kraju/wielkanoc-2026-do-ktorej-sa-czynne-sklepy-czy-sa-otwarte-zakupy-w-sobote-niedziele-i-poniedzialek-st8982619?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 07:06:48 GMT",
+      "description": "W Wielką Sobotę w większości sklepów świąteczne zakupy można było zrobić do godziny 13. Z kolei w święta, czyli w niedzielę i w poniedziałek większe sklepy będą nieczynne.",
+      "originalTitle": "Zakupy w święta. Jakie sklepy będą czynne",
+      "originalDescription": "W Wielką Sobotę w większości sklepów świąteczne zakupy można było zrobić do godziny 13. Z kolei w święta, czyli w niedzielę i w poniedziałek większe sklepy będą nieczynne."
+    },
+    {
+      "title": "Pogorszył się stan pięciomiesięcznego chłopca. Zarzuty dla trzech osób",
+      "link": "https://tvn24.pl/poznan/poznan-dziecko-trafilo-do-szpitala-obrazenia-moga-wskazywac-na-uzycie-przemocy-st8981247?source=rss",
+      "pubDate": "Fri, 03 Apr 2026 10:15:03 GMT",
+      "description": "Do jednego z poznańskich szpitali trafiło pięciomiesięczne dziecko. Lekarze, którzy zajęli się niemowlęciem, zauważyli obrażenia mogące świadczyć o tym, że wobec chłopca użyto przemocy. W sprawie policjanci zatrzymali między innymi 40-letnią matkę dziecka.",
+      "originalTitle": "Pogorszył się stan pięciomiesięcznego chłopca. Zarzuty dla trzech osób",
+      "originalDescription": "Do jednego z poznańskich szpitali trafiło pięciomiesięczne dziecko. Lekarze, którzy zajęli się niemowlęciem, zauważyli obrażenia mogące świadczyć o tym, że wobec chłopca użyto przemocy. W sprawie policjanci zatrzymali między innymi 40-letnią matkę dziecka."
+    },
+    {
+      "title": "Politolożka o Donaldzie Trumpie: widać, że coś tu nie gra",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-politolozka-o-donaldzie-trumpie-widac-ze-cos-tu-nie-gra-st8982827?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 11:32:29 GMT",
+      "description": "Stany Zjednoczone interwencję w Wenezueli są w stanie przeprowadzić, ale już z państwem, które ma znacznie większy kapitał polityczny, kulturowy i większy potencjał, sobie nie radzą - oceniła politolożka Agnieszka Bryc z Uniwersytetu Mikołaja Kopernika w Toruniu. Komentowała ostatnie straty wojskowe USA w Iranie.",
+      "originalTitle": "Politolożka o Donaldzie Trumpie: widać, że coś tu nie gra",
+      "originalDescription": "Stany Zjednoczone interwencję w Wenezueli są w stanie przeprowadzić, ale już z państwem, które ma znacznie większy kapitał polityczny, kulturowy i większy potencjał, sobie nie radzą - oceniła politolożka Agnieszka Bryc z Uniwersytetu Mikołaja Kopernika w Toruniu. Komentowała ostatnie straty wojskowe USA w Iranie."
+    },
+    {
+      "title": "Misja Artemis II. Widzą Księżyc coraz lepiej. Żadna symulacja nie przygotowała ich na te emocje",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/misja-artemis-ii-widza-ksiezyc-coraz-lepiej-zadna-symulacja-nie-przygotowala-ich-na-te-emocje-st8983026?source=rss",
+      "pubDate": "Sat, 04 Apr 2026 11:30:24 GMT",
+      "description": "Trwa misja Artemis II. Astronauci pokonali już ponad połowę drogi w stronę Księżyca i przygotowują się do obserwacji Srebrnego Globu z bliska. Jak opowiadali, symulacje nie mogły przygotować ich na emocje, z jakimi wiąże się tak daleki lot.",
+      "originalTitle": "Misja Artemis II. Widzą Księżyc coraz lepiej. Żadna symulacja nie przygotowała ich na te emocje",
+      "originalDescription": "Trwa misja Artemis II. Astronauci pokonali już ponad połowę drogi w stronę Księżyca i przygotowują się do obserwacji Srebrnego Globu z bliska. Jak opowiadali, symulacje nie mogły przygotować ich na emocje, z jakimi wiąże się tak daleki lot."
+    }
+  ]
 }
