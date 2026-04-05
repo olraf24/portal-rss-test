@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-05T20:09:46.241Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-05T20:45:52.024Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Żywe piekło dla każdej amerykańskiej rodziny\". Odpowiedź z Iranu",
+      "link": "https://tvn24.pl/swiat/iran-odpowiada-na-ultiamtum-donalda-trumpa-w-sprawie-ciesniny-ormuz-st8984572?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 20:05:21 GMT",
+      "description": "Iran zapowiedział możliwy odwet po tym, jak Donald Trump zagroził zniszczeniem jego infrastruktury, jeśli cieśnina Ormuz nie zostanie otwarta. Z kolei przewodniczący parlamentu tego kraju oskarżył prezydenta USA.",
+      "originalTitle": "\"Żywe piekło dla każdej amerykańskiej rodziny\". Odpowiedź z Iranu",
+      "originalDescription": "Iran zapowiedział możliwy odwet po tym, jak Donald Trump zagroził zniszczeniem jego infrastruktury, jeśli cieśnina Ormuz nie zostanie otwarta. Z kolei przewodniczący parlamentu tego kraju oskarżył prezydenta USA."
+    },
+    {
+      "title": "Silny wiatr. Ostrzeżenia IMGW dla ponad połowy województw",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-ostrzezenia-imgw-5-6-04-silny-wiatr-gdzie-bedzie-wialo-st8982548?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 04:27:00 GMT",
+      "description": "Pogoda w Polsce. IMGW ostrzega przed silnym wiatrem. Miejscami podmuchy mogą być niebezpieczne już w nocy, ale najtrudniejsza sytuacja prognozowana jest na poniedziałek.",
+      "originalTitle": "Silny wiatr. Ostrzeżenia IMGW dla ponad połowy województw",
+      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed silnym wiatrem. Miejscami podmuchy mogą być niebezpieczne już w nocy, ale najtrudniejsza sytuacja prognozowana jest na poniedziałek."
+    },
+    {
+      "title": "Pioruny, grad i silny wiatr. Za nami niespokojna Wielkanoc",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-silny-wiatr-strazacy-wyjezdzaja-do-polamanych-drzew-st8984360?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 15:32:29 GMT",
+      "description": "Pogoda w Polsce. Wielkanoc w części kraju przyniosła silny wiatr i burze. W niektórych regionach spadł grad i pojawiły się efektowne chmury. Nie obyło się także bez interwencji strażaków.",
+      "originalTitle": "Pioruny, grad i silny wiatr. Za nami niespokojna Wielkanoc",
+      "originalDescription": "Pogoda w Polsce. Wielkanoc w części kraju przyniosła silny wiatr i burze. W niektórych regionach spadł grad i pojawiły się efektowne chmury. Nie obyło się także bez interwencji strażaków."
+    },
+    {
+      "title": "Zdrowe w każdej postaci? Można z nim przesadzić? Prawdy i mity o białku",
+      "link": "https://tvn24.pl/zdrowie/polacy-jedza-za-malo-bialka-ale-czy-produkty-proteinowe-i-odzywki-bialkowe-sa-nam-potrzebne-prawdy-i-mity-o-bialku-st8982029?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 19:20:51 GMT",
+      "description": "Choć na naszych talerzach nadal królują kanapki z wędliną i kotlety, częściej jemy za mało niż za dużo białka. Ile byłoby w sam raz? Według wytycznych żywieniowych 0,83 grama na kilogram masy ciała. Gdzie najlepiej szukać tego mikroskładnika? Czy produkty proteinowe i odżywki białkowe to dobra opcja? Zapytaliśmy ekspertki.",
+      "originalTitle": "Zdrowe w każdej postaci? Można z nim przesadzić? Prawdy i mity o białku",
+      "originalDescription": "Choć na naszych talerzach nadal królują kanapki z wędliną i kotlety, częściej jemy za mało niż za dużo białka. Ile byłoby w sam raz? Według wytycznych żywieniowych 0,83 grama na kilogram masy ciała. Gdzie najlepiej szukać tego mikroskładnika? Czy produkty proteinowe i odżywki białkowe to dobra opcja? Zapytaliśmy ekspertki."
+    },
+    {
+      "title": "\"To zaczyna pachnieć czymś kompletnie nieprzewidywalnym\"",
+      "link": "https://tvn24.pl/polska/co-z-wyborami-na-wegrzech-profesor-andrzej-rychard-to-zaczyna-pachniec-czyms-kompletnie-nieprzewidywalnym-st8984482?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 19:15:12 GMT",
+      "description": "Żyjemy w takich czasach, kiedy niepewność już nie dotyczy tego, co będzie i co powinno być, ale ta niepewność zaczyna dotyczyć w ogóle tego, co jest - ocenił w \"Faktach po Faktach\" profesor Andrzej Rychard, odnosząc się między innymi do podejrzeń na temat operacji pod fałszywą flagą na Węgrzech. Komentował także niepewną przyszłość Prawa i Sprawiedliwości.",
+      "originalTitle": "\"To zaczyna pachnieć czymś kompletnie nieprzewidywalnym\"",
+      "originalDescription": "Żyjemy w takich czasach, kiedy niepewność już nie dotyczy tego, co będzie i co powinno być, ale ta niepewność zaczyna dotyczyć w ogóle tego, co jest - ocenił w \"Faktach po Faktach\" profesor Andrzej Rychard, odnosząc się między innymi do podejrzeń na temat operacji pod fałszywą flagą na Węgrzech. Komentował także niepewną przyszłość Prawa i Sprawiedliwości."
+    },
+    {
+      "title": "Tak ratowali pilota F-15 w Iranie. Szczegóły amerykańskiej operacji",
+      "link": "https://tvn24.pl/swiat/tak-ratowali-amerykanskiego-pilota-f-15-w-iranie-nowe-informacje-st8984448?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 18:36:11 GMT",
+      "description": "Amerykański pilot zestrzelonego myśliwca spędził ponad dobę w górach, ukrywając się przed wrogiem, zanim został uratowany przez komandosów - podała amerykańska stacja CNN, przedstawiając szczegóły akcji ratunkowej w Iranie. Wojskowym miała pomagać również CIA.",
+      "originalTitle": "Tak ratowali pilota F-15 w Iranie. Szczegóły amerykańskiej operacji",
+      "originalDescription": "Amerykański pilot zestrzelonego myśliwca spędził ponad dobę w górach, ukrywając się przed wrogiem, zanim został uratowany przez komandosów - podała amerykańska stacja CNN, przedstawiając szczegóły akcji ratunkowej w Iranie. Wojskowym miała pomagać również CIA."
+    },
+    {
+      "title": "Pogoda na jutro - poniedziałek 6.04. Deszczowa, miejscami burzowa noc, w dzień chłodno",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-6-04-deszczowa-miejscami-burzowa-noc-w-dzien-chlodno-st8984483?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 17:55:41 GMT",
+      "description": "Pogoda na jutro, czyli na poniedziałek 6.04. Noc w całym kraju zapowiada się pochmurno i deszczowo, lokalnie niewykluczone będą burze. W Poniedziałek Wielkanocny będzie nam chłodno - chociaż termometry pokażą od 7 do 12 stopni Celsjusza, silny wiatr obniży temperaturę odczuwalną.",
+      "originalTitle": "Pogoda na jutro - poniedziałek 6.04. Deszczowa, miejscami burzowa noc, w dzień chłodno",
+      "originalDescription": "Pogoda na jutro, czyli na poniedziałek 6.04. Noc w całym kraju zapowiada się pochmurno i deszczowo, lokalnie niewykluczone będą burze. W Poniedziałek Wielkanocny będzie nam chłodno - chociaż termometry pokażą od 7 do 12 stopni Celsjusza, silny wiatr obniży temperaturę odczuwalną."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi, wieje, może padać grad",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-niedziele-5-04-mapa-i-radar-burz-st8984468?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 17:11:35 GMT",
+      "description": "Pogoda w Polsce. W niedzielę 5.04 nad częścią Polski występują wyładowania atmosferyczne. Sprawdź, gdzie jest burza i jakie niebezpieczeństwa jej towarzyszą.",
+      "originalTitle": "Gdzie jest burza? Grzmi, wieje, może padać grad",
+      "originalDescription": "Pogoda w Polsce. W niedzielę 5.04 nad częścią Polski występują wyładowania atmosferyczne. Sprawdź, gdzie jest burza i jakie niebezpieczeństwa jej towarzyszą."
+    },
+    {
+      "title": "Duży pożar w centrum handlowym blisko polskiej granicy",
+      "link": "https://tvn24.pl/swiat/krolewiec-duzy-pozar-w-centrum-handlowym-blisko-polskiej-granicy-st8984490?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 17:48:30 GMT",
+      "description": "W centrum handlowym w Królewcu wybuchł pożar - powiadomiły rosyjskie media państwowe, powołując się na służby ratownicze i władze regionalne. Według tych doniesień ogień miał rozprzestrzenić się na zaparkowane samochody.",
+      "originalTitle": "Duży pożar w centrum handlowym blisko polskiej granicy",
+      "originalDescription": "W centrum handlowym w Królewcu wybuchł pożar - powiadomiły rosyjskie media państwowe, powołując się na służby ratownicze i władze regionalne. Według tych doniesień ogień miał rozprzestrzenić się na zaparkowane samochody."
+    },
+    {
+      "title": "Wulgarny wpis Trumpa. \"Szalone bękarty\". Jest też nowe ultimatum",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wulgarny-wpis-trumpa-szalone-bekarty-jest-tez-nowe-ultimatum-st8984332?source=rss",
+      "pubDate": "Sun, 05 Apr 2026 12:27:05 GMT",
+      "description": "Donald Trump w mediach społecznościowych zapowiedział kolejny atak na Iran. Prezydent USA w wulgarnym wpisie zagroził uderzeniem w irańską infrastrukturę i elektrownie, jeśli nie zostanie otwarta cieśnina Ormuz. W rozmowie z dziennikiem \"Wall Street Journal\" wyznaczył kolejny deadline. Z kolei w rozmowie z Fox News przekazał, że może dojść do porozumienia z Iranem.",
+      "originalTitle": "Wulgarny wpis Trumpa. \"Szalone bękarty\". Jest też nowe ultimatum",
+      "originalDescription": "Donald Trump w mediach społecznościowych zapowiedział kolejny atak na Iran. Prezydent USA w wulgarnym wpisie zagroził uderzeniem w irańską infrastrukturę i elektrownie, jeśli nie zostanie otwarta cieśnina Ormuz. W rozmowie z dziennikiem \"Wall Street Journal\" wyznaczył kolejny deadline. Z kolei w rozmowie z Fox News przekazał, że może dojść do porozumienia z Iranem."
+    }
+  ]
 }
