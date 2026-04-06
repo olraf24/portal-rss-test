@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-06T11:47:10.718Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-06T12:22:18.312Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Płonęła turbina wiatrowa. Strażacy o uderzeniu pioruna",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/minsk-mazowiecki-pozar-turbiny-wiatrowej-st8985130?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 11:40:07 GMT",
+      "description": "W niedzielę wieczorem w okolicach Mińska Mazowieckiego w płomieniach stanęła turbina wiatrowa. Pradopodobną przyczyną pożaru było uderzenie pioruna.",
+      "originalTitle": "Płonęła turbina wiatrowa. Strażacy o uderzeniu pioruna",
+      "originalDescription": "W niedzielę wieczorem w okolicach Mińska Mazowieckiego w płomieniach stanęła turbina wiatrowa. Pradopodobną przyczyną pożaru było uderzenie pioruna."
+    },
+    {
+      "title": "Ponad dwukrotny wzrost liczby ładowarek przy drogach szybkiego ruchu",
+      "link": "https://tvn24.pl/biznes/moto/ladowarki-do-samochodow-elektrycznych-na-mop-w-polsce-dwukrotny-wzrost-w-cztery-lata-ile-jest-ladowarek-w-kraju-st8985094?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 11:34:35 GMT",
+      "description": "Ponad dwa razy więcej ładowarek samochodów elektrycznych niż w 2022 roku ma być dostępne na Miejscach Obsługi Podróżnych (MOP) przy drogach szybkiego ruchu. Według informacji Generalnej Dyrekcji Dróg Krajowych i Autostrad blisko połowa z nich to ładowarki ultraszybkie.",
+      "originalTitle": "Ponad dwukrotny wzrost liczby ładowarek przy drogach szybkiego ruchu",
+      "originalDescription": "Ponad dwa razy więcej ładowarek samochodów elektrycznych niż w 2022 roku ma być dostępne na Miejscach Obsługi Podróżnych (MOP) przy drogach szybkiego ruchu. Według informacji Generalnej Dyrekcji Dróg Krajowych i Autostrad blisko połowa z nich to ładowarki ultraszybkie."
+    },
+    {
+      "title": "Lany poniedziałek w zoo. \"Nie nudzimy się, bo zabawia nas Nelson\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/lany-poniedzialek-w-zoo-nie-nudzimy-sie-bo-zabawia-nas-nelson-st8984912?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 11:22:22 GMT",
+      "description": "Jak wygląda lany poniedziałek na wybiegu kotików afrykańskich? Sprawdził to dla nas reporter TVN24 Tomasz Kanik. - Nie nudzimy się - powiedział.",
+      "originalTitle": "Lany poniedziałek w zoo. \"Nie nudzimy się, bo zabawia nas Nelson\"",
+      "originalDescription": "Jak wygląda lany poniedziałek na wybiegu kotików afrykańskich? Sprawdził to dla nas reporter TVN24 Tomasz Kanik. - Nie nudzimy się - powiedział."
+    },
+    {
+      "title": "Przybyło alarmów IMGW. Gdzie należy uważać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-ostrzezenia-imgw-5-6-04-silny-wiatr-przymrozki-roztopy-gdzie-bedzie-wialo-st8982548?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 04:41:00 GMT",
+      "description": "Pogoda w Polsce. IMGW ostrzega przed silnym wiatrem. Miejscami obowiązują alarmy nawet drugiego stopnia. Sprawdź, gdzie należy zachować szczególną ostrożność.",
+      "originalTitle": "Przybyło alarmów IMGW. Gdzie należy uważać",
+      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed silnym wiatrem. Miejscami obowiązują alarmy nawet drugiego stopnia. Sprawdź, gdzie należy zachować szczególną ostrożność."
+    },
+    {
+      "title": "Jeden \"umie i chce mówić\", drugi \"pozostaje dla nas pewną niewiadomą\"",
+      "link": "https://tvn24.pl/polska/nowe-twarze-kosciola-w-polsce-tomasz-terlikowski-o-kardynalach-i-biskupach-st8984708?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 10:31:02 GMT",
+      "description": "Chcą być blisko ludzi i nie boją się być w kontrze do innych biskupów. Kardynałowie Grzegorz Ryś i Konrad Krajewski stoją na czele dwóch kluczowych metropolii. Jak powiedział Tomasz Terlikowski, \"ten pierwszy umie i chce mówić, a ten drugi pozostaje dla nas pewną niewiadomą\".",
+      "originalTitle": "Jeden \"umie i chce mówić\", drugi \"pozostaje dla nas pewną niewiadomą\"",
+      "originalDescription": "Chcą być blisko ludzi i nie boją się być w kontrze do innych biskupów. Kardynałowie Grzegorz Ryś i Konrad Krajewski stoją na czele dwóch kluczowych metropolii. Jak powiedział Tomasz Terlikowski, \"ten pierwszy umie i chce mówić, a ten drugi pozostaje dla nas pewną niewiadomą\"."
+    },
+    {
+      "title": "Niebezpieczny lany poniedziałek. Ponad 1300 interwencji strażaków",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-poniedzialek-6-04-sypnelo-gradem-silny-wiatr-st8984868?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:44:04 GMT",
+      "description": "W poniedziałek od rana w Polsce panuje dynamiczna aura. Z powodu silnych podmuchów wiatru konieczne były interwencje strażaków. Nad częścią Polski przechodziły też burze, a lokalnie wyładowaniom towarzyszyły opady gradu. Materiały otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Niebezpieczny lany poniedziałek. Ponad 1300 interwencji strażaków",
+      "originalDescription": "W poniedziałek od rana w Polsce panuje dynamiczna aura. Z powodu silnych podmuchów wiatru konieczne były interwencje strażaków. Nad częścią Polski przechodziły też burze, a lokalnie wyładowaniom towarzyszyły opady gradu. Materiały otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Tankowce z LNG płyną w kierunku cieśniny. Możliwy precedens w dostawach gazu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/tankowce-plyna-w-kierunku-ciesniny-ormuz-mozliwy-precedens-w-dostawach-lng-st8984919?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 10:08:00 GMT",
+      "description": "Dwa tankowce przewożące skroplony gaz ziemny (LNG) z Kataru zmierzają w kierunku cieśniny Ormuz - przekazał Bloomberg. Opuszczenie Zatoki Perskiej oznaczałoby pierwszy eksport surowca do odbiorców spoza regionu od czasu wybuchu wojny USA i Izraela z Iranem.",
+      "originalTitle": "Tankowce z LNG płyną w kierunku cieśniny. Możliwy precedens w dostawach gazu",
+      "originalDescription": "Dwa tankowce przewożące skroplony gaz ziemny (LNG) z Kataru zmierzają w kierunku cieśniny Ormuz - przekazał Bloomberg. Opuszczenie Zatoki Perskiej oznaczałoby pierwszy eksport surowca do odbiorców spoza regionu od czasu wybuchu wojny USA i Izraela z Iranem."
+    },
+    {
+      "title": "Uderzyli w drzewo. Zginęła 17-latka, 20-latek miał zakaz prowadzenia",
+      "link": "https://tvn24.pl/wroclaw/mala-wies-dolna-uderzyli-w-drzewo-zginela-17-latka-pasazerka-20-latek-mial-zakaz-prowadzenia-st8984923?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 10:01:18 GMT",
+      "description": "W miejscowości Mała Wieś Dolna na Dolnym Śląsku kierowca samochodu osobowego uderzył w drzewo. Za kierownicą siedział 20-latek z zakazem prowadzenia. Zginęła 17-latka pasażerka, a 16-latka i 26-latek trafili do szpitala.",
+      "originalTitle": "Uderzyli w drzewo. Zginęła 17-latka, 20-latek miał zakaz prowadzenia",
+      "originalDescription": "W miejscowości Mała Wieś Dolna na Dolnym Śląsku kierowca samochodu osobowego uderzył w drzewo. Za kierownicą siedział 20-latek z zakazem prowadzenia. Zginęła 17-latka pasażerka, a 16-latka i 26-latek trafili do szpitala."
+    },
+    {
+      "title": "Zginął ważny irański dowódca. \"Dopadniemy ich\"",
+      "link": "https://tvn24.pl/swiat/iran-szef-wywiadu-iranskiej-armii-zginal-w-ataku-st8984925?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:53:30 GMT",
+      "description": "Szef wywiadu Korpusu Strażników Rewolucji Islamskiej, generał Madżid Chademi, zginął w amerykańsko-izraelskim ataku - poinformowały irańskie media, cytowane przez Reutersa. Władze Izraela potwierdziły, że Chademi zginął w izraelskim ataku.",
+      "originalTitle": "Zginął ważny irański dowódca. \"Dopadniemy ich\"",
+      "originalDescription": "Szef wywiadu Korpusu Strażników Rewolucji Islamskiej, generał Madżid Chademi, zginął w amerykańsko-izraelskim ataku - poinformowały irańskie media, cytowane przez Reutersa. Władze Izraela potwierdziły, że Chademi zginął w izraelskim ataku."
+    },
+    {
+      "title": "Potrącił dwóch pieszych, jeden nie żyje",
+      "link": "https://tvn24.pl/katowice/sosnowiec-samochod-potracil-pieszych-nie-zyje-25-latek-st8984909?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:32:53 GMT",
+      "description": "Tragiczny wypadek w Sosnowcu. Kierowca samochodu osobowego potrącił tam dwóch pieszych. Jeden z nich zginął na miejscu, drugi trafił do szpitala.",
+      "originalTitle": "Potrącił dwóch pieszych, jeden nie żyje",
+      "originalDescription": "Tragiczny wypadek w Sosnowcu. Kierowca samochodu osobowego potrącił tam dwóch pieszych. Jeden z nich zginął na miejscu, drugi trafił do szpitala."
+    }
+  ]
 }
