@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-06T08:55:55.699Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-06T09:35:56.559Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Potrącił dwóch pieszych, jeden nie żyje",
+      "link": "https://tvn24.pl/katowice/sosnowiec-samochod-potracil-pieszych-nie-zyje-25-latek-st8984909?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:32:53 GMT",
+      "description": "Tragiczny wypadek w Sosnowcu. Kierowca samochodu osobowego potrącił tam dwóch pieszych. Jeden z nich zginął na miejscu, drugi trafił do szpitala.",
+      "originalTitle": "Potrącił dwóch pieszych, jeden nie żyje",
+      "originalDescription": "Tragiczny wypadek w Sosnowcu. Kierowca samochodu osobowego potrącił tam dwóch pieszych. Jeden z nich zginął na miejscu, drugi trafił do szpitala."
+    },
+    {
+      "title": "Chińskie platformy na celowniku UE. Niebezpieczne produkty i uzależniające aplikacje",
+      "link": "https://tvn24.pl/biznes/handel/chinskie-platformy-na-celowniku-ue-niebezpieczne-produkty-i-uzalezniajace-aplikacje-st8984807?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:12:48 GMT",
+      "description": "Niemal połowa niebezpiecznych produktów zgłoszonych w ubiegłym roku na rynku europejskim pochodziła z Chin. - Mówimy tu o zabawkach, którymi dzieci mogą się zadławić, kosmetykach, które powodują wysypki czy ładowarkach, które rażą użytkowników prądem - powiedział szef unijnej organizacji konsumentów BEUC Agustin Reina. Sprawą zajmuje się również delegacja Parlamentu Europejskiego, która po raz pierwszy od ośmiu lat odwiedziła Pekin.",
+      "originalTitle": "Chińskie platformy na celowniku UE. Niebezpieczne produkty i uzależniające aplikacje",
+      "originalDescription": "Niemal połowa niebezpiecznych produktów zgłoszonych w ubiegłym roku na rynku europejskim pochodziła z Chin. - Mówimy tu o zabawkach, którymi dzieci mogą się zadławić, kosmetykach, które powodują wysypki czy ładowarkach, które rażą użytkowników prądem - powiedział szef unijnej organizacji konsumentów BEUC Agustin Reina. Sprawą zajmuje się również delegacja Parlamentu Europejskiego, która po raz pierwszy od ośmiu lat odwiedziła Pekin."
+    },
+    {
+      "title": "Kluczowy moment misji Artemis II. \"Tak daleko nikt się nie zapuścił w kosmos\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/kluczowy-moment-misji-artemis-ii-tak-daleko-nikt-sie-nie-zapuscil-w-kosmos-st8984684?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:09:13 GMT",
+      "description": "Misja Artemis II trwa. Astronauci są coraz bliżej Księżyca i już za kilkanaście godzin zbliżą się do jego powierzchni. - Pobiją rekord ustanowiony przez załogę misji Apollo 13, bo polecą dalej niż oni - powiedział w poniedziałek na antenie TVN24 Hubert Kijek, reporter TVN24 BiS.",
+      "originalTitle": "Kluczowy moment misji Artemis II. \"Tak daleko nikt się nie zapuścił w kosmos\"",
+      "originalDescription": "Misja Artemis II trwa. Astronauci są coraz bliżej Księżyca i już za kilkanaście godzin zbliżą się do jego powierzchni. - Pobiją rekord ustanowiony przez załogę misji Apollo 13, bo polecą dalej niż oni - powiedział w poniedziałek na antenie TVN24 Hubert Kijek, reporter TVN24 BiS."
+    },
+    {
+      "title": "Rosjanie zaatakowali budynki mieszkalne. Wśród ofiar śmiertelnych jest dziecko",
+      "link": "https://tvn24.pl/swiat/ukraina-zmasowany-atak-na-odesse-nie-zyja-co-najmniej-trzy-osoby-st8984797?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:09:03 GMT",
+      "description": "Co najmniej trzy osoby, w tym dziecko zginęły w wyniku zmasowanego rosyjskiego ataku na Odessę na południu Ukrainy. 10 osób zostało rannych - przekazał szef administracji wojskowej miasta Serhij Łysak.",
+      "originalTitle": "Rosjanie zaatakowali budynki mieszkalne. Wśród ofiar śmiertelnych jest dziecko",
+      "originalDescription": "Co najmniej trzy osoby, w tym dziecko zginęły w wyniku zmasowanego rosyjskiego ataku na Odessę na południu Ukrainy. 10 osób zostało rannych - przekazał szef administracji wojskowej miasta Serhij Łysak."
+    },
+    {
+      "title": "Samochód uderzył w bariery, most zamknięty do odwołania",
+      "link": "https://tvn24.pl/trojmiasto/bolszewo-samochod-stanal-w-poprzek-most-zamkniety-do-odwolania-st8984855?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 09:04:57 GMT",
+      "description": "Kierowca samochodu osobowego uderzył w bariery mostu w Bolszewie. Przeprawa została uszkodzona i zamknięta do odwołania dla ruchu pieszych i pojazdów.",
+      "originalTitle": "Samochód uderzył w bariery, most zamknięty do odwołania",
+      "originalDescription": "Kierowca samochodu osobowego uderzył w bariery mostu w Bolszewie. Przeprawa została uszkodzona i zamknięta do odwołania dla ruchu pieszych i pojazdów."
+    },
+    {
+      "title": "Traciła przytomność, mdlała na trasie, wróciła. \"Dla mnie jest mistrzynią\"",
+      "link": "https://tvn24.pl/polska/eliza-rucka-michalek-byla-pewna-ze-zegna-sie-ze-sportem-wrocila-i-zajela-osme-miejsce-na-igrzyskach-st8934592?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 08:55:26 GMT",
+      "description": "Narty rzuciła w kąt. Była pewna, że na zawsze. Miała 20 lat, dopiero na dobre zaczynała karierę, jednak lekarze nie wyrazili zgody na treningi. Została żoną i matką. Do sportu wróciła i tak, w igrzyskach Mediolan-Cortina 2026 dokonując niemożliwego, zachwycając w morderczej konkurencji. - Chyba lubię ten wysiłek. I ten ból - mówi TVN24+ biegaczka narciarska Eliza Rucka-Michałek.",
+      "originalTitle": "Traciła przytomność, mdlała na trasie, wróciła. \"Dla mnie jest mistrzynią\"",
+      "originalDescription": "Narty rzuciła w kąt. Była pewna, że na zawsze. Miała 20 lat, dopiero na dobre zaczynała karierę, jednak lekarze nie wyrazili zgody na treningi. Została żoną i matką. Do sportu wróciła i tak, w igrzyskach Mediolan-Cortina 2026 dokonując niemożliwego, zachwycając w morderczej konkurencji. - Chyba lubię ten wysiłek. I ten ból - mówi TVN24+ biegaczka narciarska Eliza Rucka-Michałek."
+    },
+    {
+      "title": "Dom stanął w płomieniach. Akcja gaśnicza trwała kilka godzin",
+      "link": "https://tvn24.pl/trojmiasto/swolowo-pozar-domu-akcja-gasnicza-trwala-kilka-godzin-st8984793?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 08:39:24 GMT",
+      "description": "Pożar domu w miejscowości Swołowo na Pomorzu. Ogień najpierw pojawił się w kominie, a następnie przeniósł się na pozostałą część budynku. Akcja gaśnicza trwała kilka godzin.",
+      "originalTitle": "Dom stanął w płomieniach. Akcja gaśnicza trwała kilka godzin",
+      "originalDescription": "Pożar domu w miejscowości Swołowo na Pomorzu. Ogień najpierw pojawił się w kominie, a następnie przeniósł się na pozostałą część budynku. Akcja gaśnicza trwała kilka godzin."
+    },
+    {
+      "title": "Ukrywał się w schowku pod sufitem",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/otwock-ukrywal-sie-w-schowku-pod-sufitem-st8984833?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 08:36:24 GMT",
+      "description": "42-latek był poszukiwany listem gończym i się ukrywał. Przygotował sobie w tym celu schowek pod sufitem. Nic to nie dało, został zatrzymany. Za kratami spędzi rok i osiem miesięcy.",
+      "originalTitle": "Ukrywał się w schowku pod sufitem",
+      "originalDescription": "42-latek był poszukiwany listem gończym i się ukrywał. Przygotował sobie w tym celu schowek pod sufitem. Nic to nie dało, został zatrzymany. Za kratami spędzi rok i osiem miesięcy."
+    },
+    {
+      "title": "Konar spadł na jadący samochód",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/grudziadz-konar-drzewa-spadl-na-przejezdzajacy-samochod-st8984727?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 08:13:47 GMT",
+      "description": "Pod Grudziądzem konar drzewa spadł na przejeżdżający samochód. Jedna osoba została ranna.",
+      "originalTitle": "Konar spadł na jadący samochód",
+      "originalDescription": "Pod Grudziądzem konar drzewa spadł na przejeżdżający samochód. Jedna osoba została ranna."
+    },
+    {
+      "title": "Huśtawka cen ropy. Inwestorzy z obawą obserwują kolejną fazę wojny",
+      "link": "https://tvn24.pl/biznes/rynki/cena-ropy-hustawka-na-rynkach-inwestorzy-z-obawa-obserwuja-kolejna-faze-wojny-z-iranem-st8984668?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 07:57:20 GMT",
+      "description": "W poniedziałek kolejne wahania na rynku ropy. Uwaga inwestorów jest niezmiennie zwrócona na Bliski Wschód. Cenę surowca warunkuje między innymi decyzja państw OPEC+, które symbolicznie zwiększyły produkcję ropy, jak i ostatnie groźby Trumpa, który zapowiedział kolejne ataki na Iran.",
+      "originalTitle": "Huśtawka cen ropy. Inwestorzy z obawą obserwują kolejną fazę wojny",
+      "originalDescription": "W poniedziałek kolejne wahania na rynku ropy. Uwaga inwestorów jest niezmiennie zwrócona na Bliski Wschód. Cenę surowca warunkuje między innymi decyzja państw OPEC+, które symbolicznie zwiększyły produkcję ropy, jak i ostatnie groźby Trumpa, który zapowiedział kolejne ataki na Iran."
+    }
+  ]
 }
