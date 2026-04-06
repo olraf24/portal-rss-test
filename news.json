@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-06T05:22:50.033Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-06T06:09:23.075Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pierwszy taki przypadek na świecie. W tym kraju blokada internetu trwa prawie 40 dni",
+      "link": "https://tvn24.pl/biznes/tech/iran-pierwszy-taki-przypadek-na-swiecie-w-tym-kraju-blokada-internetu-trwa-prawie-40-dni-st8984627?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 06:03:01 GMT",
+      "description": "Blokada internetu w Iranie trwa już blisko 40 dni. To najdłuższa przerwa w dostępie do sieci, jaką odnotowano kiedykolwiek na świecie - podała organizacja NetBlocks, zajmująca się monitorowaniem cyberbezpieczeństwa. Odciętych od świata poza granicami kraju jest ponad 90 milionów osób.",
+      "originalTitle": "Pierwszy taki przypadek na świecie. W tym kraju blokada internetu trwa prawie 40 dni",
+      "originalDescription": "Blokada internetu w Iranie trwa już blisko 40 dni. To najdłuższa przerwa w dostępie do sieci, jaką odnotowano kiedykolwiek na świecie - podała organizacja NetBlocks, zajmująca się monitorowaniem cyberbezpieczeństwa. Odciętych od świata poza granicami kraju jest ponad 90 milionów osób."
+    },
+    {
+      "title": "Szukali w ogrodzie prezentów. Znaleźli butelkę z etykietą \"Polonium 210\"",
+      "link": "https://tvn24.pl/swiat/niemcy-szukali-w-ogrodzie-prezentow-znalezli-butelke-z-etykieta-polonium-210-st8984620?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 06:00:14 GMT",
+      "description": "Dwaj mężczyźni, którzy szukali wielkanocnych prezentów w ogrodzie w niemieckim mieście Vaihingen an der Enz, znaleźli niewielką butelkę z etykietą \"Polonium 210\" - przekazała miejscowa policja. Zawartość butelki zbada ministerstwo środowiska Badenii-Wirtembergii.",
+      "originalTitle": "Szukali w ogrodzie prezentów. Znaleźli butelkę z etykietą \"Polonium 210\"",
+      "originalDescription": "Dwaj mężczyźni, którzy szukali wielkanocnych prezentów w ogrodzie w niemieckim mieście Vaihingen an der Enz, znaleźli niewielką butelkę z etykietą \"Polonium 210\" - przekazała miejscowa policja. Zawartość butelki zbada ministerstwo środowiska Badenii-Wirtembergii."
+    },
+    {
+      "title": "Kara śmierci na obywatelu Francji. Jest oświadczenie ambasady Chin",
+      "link": "https://tvn24.pl/swiat/chiny-kara-smierci-na-obywatelu-francji-za-handel-narkotykami-jest-oswiadczenie-chinskiej-ambasady-st8984582?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 05:55:06 GMT",
+      "description": "Ambasada Chin we Francji potwierdziła wykonanie egzekucji na 62-letnim obywatelu Francji, który w 2010 roku został skazany na karę śmierci za przemyt narkotyków. Dzień wcześniej francuski resort spraw zagranicznych skrytykował sposób prowadzenia jego sprawy przez sąd. Mężczyzna spędził w więzieniu 20 lat.",
+      "originalTitle": "Kara śmierci na obywatelu Francji. Jest oświadczenie ambasady Chin",
+      "originalDescription": "Ambasada Chin we Francji potwierdziła wykonanie egzekucji na 62-letnim obywatelu Francji, który w 2010 roku został skazany na karę śmierci za przemyt narkotyków. Dzień wcześniej francuski resort spraw zagranicznych skrytykował sposób prowadzenia jego sprawy przez sąd. Mężczyzna spędził w więzieniu 20 lat."
+    },
+    {
+      "title": "Widmo 150 dolarów za baryłkę. OPEC+ podjęło symboliczną decyzję",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ropa-naftowa-organizacja-opec-podnioslo-limit-produkcji-ropy-o-206-tysiecy-barylek-dziennie-st8984619?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 05:40:08 GMT",
+      "description": "OPEC+ podjęło decyzję o zwiększeniu limitów produkcji ropy w maju o 206 tysięcy baryłek dziennie. Według ekspertów jest to umiarkowany wzrost, który dodatkowo pozostanie głównie na papierze. A to dlatego, że z powodu wojny na Bliskim Wschodzie kluczowi członkowie grupy nie są w stanie zwiększyć produkcji.",
+      "originalTitle": "Widmo 150 dolarów za baryłkę. OPEC+ podjęło symboliczną decyzję",
+      "originalDescription": "OPEC+ podjęło decyzję o zwiększeniu limitów produkcji ropy w maju o 206 tysięcy baryłek dziennie. Według ekspertów jest to umiarkowany wzrost, który dodatkowo pozostanie głównie na papierze. A to dlatego, że z powodu wojny na Bliskim Wschodzie kluczowi członkowie grupy nie są w stanie zwiększyć produkcji."
+    },
+    {
+      "title": "Henio walczy z ostrą białaczką szpikową. Jest lek i \"ogromna szansa\"",
+      "link": "https://tvn24.pl/polska/henio-walczy-z-ostra-bialaczka-szpikowa-jest-lek-i-ogromna-szansa-st8984580?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 05:30:35 GMT",
+      "description": "Nawet nie chce się myśleć o tym, że własne dziecko może być chore - wyznał Krzysztof Ostaszewski, onkolog kliniczny i tata dwuletniego Henia, który choruje na ostrą białaczkę szpikową. Chłopiec przeszedł przez pięć cykli chemioterapii, jednak mimo stanu remisji, doszło do nawrotu choroby. Pomogło podanie nowego i kosztownego leku celowanego. Materiał Marii Mikołajewskiej \"Fakty\" TVN.",
+      "originalTitle": "Henio walczy z ostrą białaczką szpikową. Jest lek i \"ogromna szansa\"",
+      "originalDescription": "Nawet nie chce się myśleć o tym, że własne dziecko może być chore - wyznał Krzysztof Ostaszewski, onkolog kliniczny i tata dwuletniego Henia, który choruje na ostrą białaczkę szpikową. Chłopiec przeszedł przez pięć cykli chemioterapii, jednak mimo stanu remisji, doszło do nawrotu choroby. Pomogło podanie nowego i kosztownego leku celowanego. Materiał Marii Mikołajewskiej \"Fakty\" TVN."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi, pada krupa śnieżna",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-6-04-mapa-i-radar-burz-st8984621?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 05:29:21 GMT",
+      "description": "Pogoda w Polsce. W poniedziałek 6.04 nad częścią Polski występują wyładowania atmosferyczne. Towarzyszą im opady deszczu i silne porywy wiatru. Sprawdź, gdzie jest burza i jakie niebezpieczeństwa jej towarzyszą.",
+      "originalTitle": "Gdzie jest burza? Grzmi, pada krupa śnieżna",
+      "originalDescription": "Pogoda w Polsce. W poniedziałek 6.04 nad częścią Polski występują wyładowania atmosferyczne. Towarzyszą im opady deszczu i silne porywy wiatru. Sprawdź, gdzie jest burza i jakie niebezpieczeństwa jej towarzyszą."
+    },
+    {
+      "title": "Dwa fronty nad Polską. Tu pada deszcz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-poniedzialek-wielkanocny-6-04-dwa-fronty-nad-polska-tu-pada-deszcz-st8984613?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 05:18:17 GMT",
+      "description": "Pogoda w Polsce. Nad krajem rozciągają się dwa fronty chłodne, niosące opady deszczu. Miejscami grzmi, a lokalnie pojawiła się też krupa śnieżna.",
+      "originalTitle": "Dwa fronty nad Polską. Tu pada deszcz",
+      "originalDescription": "Pogoda w Polsce. Nad krajem rozciągają się dwa fronty chłodne, niosące opady deszczu. Miejscami grzmi, a lokalnie pojawiła się też krupa śnieżna."
+    },
+    {
+      "title": "\"Pozwoliłam komuś umrzeć\"",
+      "link": "https://tvn24.pl/polska/czy-mozna-dobrze-umrzec-uporczywa-terapia-wyrzuty-sumienia-zgoda-na-odejscie-st8961434?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 05:03:56 GMT",
+      "description": "Opiekunowie boją się, że zostaną obwinieni o śmierć. Że ktoś powie: gdybyś podała kroplówkę, gdybyś podał jedzenie, gdybyś zawiózł jeszcze do innego szpitala, gdybyś..., toby się udało. - Często słyszymy: walczyliśmy do końca - mówi Żaneta Gromek, wolontariuszka z holenderskiego hospicjum. - A rzadko mówimy: pozwoliłam komuś umrzeć.",
+      "originalTitle": "\"Pozwoliłam komuś umrzeć\"",
+      "originalDescription": "Opiekunowie boją się, że zostaną obwinieni o śmierć. Że ktoś powie: gdybyś podała kroplówkę, gdybyś podał jedzenie, gdybyś zawiózł jeszcze do innego szpitala, gdybyś..., toby się udało. - Często słyszymy: walczyliśmy do końca - mówi Żaneta Gromek, wolontariuszka z holenderskiego hospicjum. - A rzadko mówimy: pozwoliłam komuś umrzeć."
+    },
+    {
+      "title": "Media: trwają rozmowy o zawieszeniu broni w Iranie",
+      "link": "https://tvn24.pl/swiat/45-dniowego-zawieszenie-broni-na-bliskim-wschodzie-przelom-w-konflikcie-trwaja-rozmowy-st8984603?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 04:49:55 GMT",
+      "description": "USA, Iran i regionalni mediatorzy prowadzą rozmowy w sprawie 45-dniowego zawieszenia broni - podał portal Axios, powołując się na źródła. Ewentualne porozumienie miałoby składać się z dwóch faz. Dzieje się to przed upływem ultimatum prezydenta USA Donalda Trumpa.",
+      "originalTitle": "Media: trwają rozmowy o zawieszeniu broni w Iranie",
+      "originalDescription": "USA, Iran i regionalni mediatorzy prowadzą rozmowy w sprawie 45-dniowego zawieszenia broni - podał portal Axios, powołując się na źródła. Ewentualne porozumienie miałoby składać się z dwóch faz. Dzieje się to przed upływem ultimatum prezydenta USA Donalda Trumpa."
+    },
+    {
+      "title": "Uwaga na silny wiatr. IMGW wydał alarmy nawet drugiego stopnia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-wielkanoc-ostrzezenia-imgw-5-6-04-silny-wiatr-gdzie-bedzie-wialo-st8982548?source=rss",
+      "pubDate": "Mon, 06 Apr 2026 04:41:00 GMT",
+      "description": "Pogoda w Polsce. IMGW wydał alarmy pierwszego i drugiego stopnia przed silnym wiatrem. Porywy mogą sięgać 95 kilometrów na godzinę. Sprawdź, gdzie aura będzie groźna.",
+      "originalTitle": "Uwaga na silny wiatr. IMGW wydał alarmy nawet drugiego stopnia",
+      "originalDescription": "Pogoda w Polsce. IMGW wydał alarmy pierwszego i drugiego stopnia przed silnym wiatrem. Porywy mogą sięgać 95 kilometrów na godzinę. Sprawdź, gdzie aura będzie groźna."
+    }
+  ]
 }
