@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2026-04-06T16:18:37.998Z",
+  "lastUpdate": "2026-04-06T16:47:11.143Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Jajo &#8211; fenomen natury i kultury",
-      "link": "https://dzienniknaukowy.pl/jajo-fenomen-natury-i-kultury",
-      "pubDate": "Fri, 03 Apr 2026 09:21:47 +0000",
-      "description": "Jajo to jeden z najbardziej uniwersalnych produktów w historii ludzkości – obecny zarówno w codziennej diecie, jak i w symbolice wielu kultur. Jak podkreśla dr inż. Tomasz Szablewski z Katedry Zarządzania Jakością i Bezpieczeństwem Żywności Uniwersytetu Przyrodniczego w Poznaniu, jego fenomen polega na unikalnym połączeniu wartości odżywczych i znaczeń kulturowych. Takie interdyscyplinarne spojrzenie, łączące wiedzę z zakresu nauk o żywności, historii i antropologii, pozwala lepiej zrozumieć rolę żywności w życiu człowieka."
-    },
-    {
-      "title": "Prof. Wrochna: astronauci Artemis II jako pierwsi spojrzą na niewidoczną z Ziemi stronę Księżyca",
-      "link": "https://dzienniknaukowy.pl/prof-wrochna-astronauci-artemis-ii-jako-pierwsi-spojrza-na-niewidoczna-z-ziemi-strone-ksiezyca",
-      "pubDate": "Fri, 03 Apr 2026 09:08:11 +0000",
-      "description": "Astronauci testowej misji Artemis II pobiją rekord odległości od Ziemi. Znajdą się prawie 400 tys. km od niej. Będą pierwszymi ludźmi, którzy spojrzą na niewidoczną z Ziemi stronę Księżyca - powiedział prof. Grzegorz Wrochna, były szef POLSA."
-    },
-    {
-      "title": "Ekspert: szkodliwość kawy jest mitem",
-      "link": "https://dzienniknaukowy.pl/ekspert-szkodliwosc-kawy-jest-mitem",
-      "pubDate": "Thu, 02 Apr 2026 15:09:05 +0000",
-      "description": "Kawa, do niedawna uważana za używkę, w świetle najnowszych badań wykazuje liczne korzyści zdrowotne: obniża ryzyko nadciśnienia tętniczego, chorób serca i kamicy nerkowej, wspiera zdrowie wątroby i naczyń, zmniejsza stan zapalny oraz ryzyko zgonu. Warunkiem jest, aby pić ją w sposób regularny i umiarkowany - podkreśla lek. Stanisław Surma."
-    },
-    {
-      "title": "Gdy “śmieciowe DNA” bywa kluczowe. Małe mutacje mogą prowadzić do wielkich problemów",
-      "link": "https://dzienniknaukowy.pl/gdy-smieciowe-dna-bywa-kluczowe-male-mutacje-moga-prowadzic-do-wielkich-problemow",
-      "pubDate": "Thu, 02 Apr 2026 14:58:57 +0000",
-      "description": "W DNA człowieka znajdują się geny kodujące ok. 2 tys. różnych cząsteczek mikroRNA, które regulują niemal wszystkie biologiczne procesy. Polacy zidentyfikowali tysiące mutacji w genach mikroRNA, a teraz pokazują, że większość tych mutacji prowadzi do nieprawidłowego działania cząsteczek mikroRNA."
-    },
-    {
-      "title": "Woda lodowa &#8211; pytania i odpowiedzi",
-      "link": "https://dzienniknaukowy.pl/woda-lodowa-pytania-i-odpowiedzi",
-      "pubDate": "Thu, 02 Apr 2026 11:10:00 +0000",
-      "description": "Woda lodowa powstaje w specjalnych agregatach (tzw. chillerach), które wykorzystuje się do chłodzenia pomieszczeń, maszyn i procesów. Układy bazujące na tym nietypowym chłodziwie stosuje się w różnych obszarach: od przemysłu spożywczego i farmaceutycznego, przez medycynę, aż po branżę informatyczną. W tym artykule odpowiadamy na najważniejsze pytania dotyczące wytwarzania i zastosowania wody lodowej."
-    },
-    {
-      "title": "Prehistoryczni kucharze z Dąbek",
-      "link": "https://dzienniknaukowy.pl/prehistoryczni-kucharze-z-dabek",
-      "pubDate": "Wed, 01 Apr 2026 14:58:21 +0000",
-      "description": "Około 7 tys. lat temu społeczności europejskie wykorzystywały różne produkty roślinne i zwierzęce do tworzenia złożonych potraw. Już wtedy istniały lokalne tradycje kulinarne i style gotowania. Prehistoryczna kuchnia była bardziej złożona, niż sądzono – pokazują najnowsze badania, m.in. z okolic Dąbek."
-    },
-    {
-      "title": "Politechnika Wrocławska rozwija technologię druku 3D z metalu w stanie nieważkości",
-      "link": "https://dzienniknaukowy.pl/politechnika-wroclawska-rozwija-technologie-druku-3d-z-metalu-w-stanie-niewazkosci",
-      "pubDate": "Wed, 01 Apr 2026 14:36:45 +0000",
-      "description": "Czy w przyszłości astronauci sami będą mogli wydrukować potrzebne części zamienne? Międzynarodowe konsorcjum, w skład którego wchodzą badacze z Politechniki Wrocławskiej, pracuje nad technologią druku 3D z metalu w stanie nieważkości. Projekt „Lamda-g\" jest realizowany pod egidą Europejskiej Agencji Kosmicznej (ESA)."
-    },
-    {
-      "title": "Naukowcy z UJ odkryli sposób na blokowanie podziału komórek nowotworowych",
-      "link": "https://dzienniknaukowy.pl/naukowcy-z-uj-odkryli-sposob-na-blokowanie-podzialu-komorek-nowotworowych",
-      "pubDate": "Tue, 31 Mar 2026 14:16:59 +0000",
-      "description": "Naukowcy z Uniwersytetu Jagiellońskiego prowadzą badania mające na celu zatrzymanie procesu podziału komórek nowotworowych poprzez upośledzenie powielania i naprawy ich materiału genetycznego. Idea polega na zablokowaniu działania białka odgrywającego kluczową rolę w replikacji i naprawie DNA. Zespół poszukuje działających w ten sposób cząsteczek, co mogłoby otworzyć drogę do dalszych badań i rozwoju nowej terapii przeciwnowotworowej."
-    },
-    {
-      "title": "Co czwarty Polak z objawami PTSD. Ważna rola doświadczeń z dzieciństwa",
-      "link": "https://dzienniknaukowy.pl/co-czwarty-polak-z-objawami-ptsd-wazna-rola-doswiadczen-z-dziecinstwa",
-      "pubDate": "Tue, 31 Mar 2026 13:58:05 +0000",
-      "description": "Około 24 proc. Polaków może zmagać się z objawami zaburzenia po stresie traumatycznym (PTSD), co kilkakrotnie przewyższa średnią europejską - wynika z nowych badań z UW, które rzucają światło na to, jak z ryzykiem PTSD wiążą się negatywne i pozytywne doświadczenia z dzieciństwa."
-    },
-    {
-      "title": "Jak rozpoznać objawy stresu przewlekłego? Objawy, ryzyka i pomoc",
-      "link": "https://dzienniknaukowy.pl/jak-rozpoznac-objawy-stresu-przewleklego-objawy-ryzyka-i-pomoc",
-      "pubDate": "Tue, 31 Mar 2026 10:20:00 +0000",
-      "description": "Przewlekły stres działa po cichu, a jego pierwsze symptomy łatwo zignorować, myląc je ze zwykłym zmęczeniem. Napięciowe bóle głowy, problemy ze snem czy ciągłe rozdrażnienie to sygnały, których nie należy ignorować. Zrozumienie, jak rozpoznać objawy stresu przewlekłego, jest kluczowe dla odzyskania kontroli nad zdrowiem. Sprawdź, na co zwrócić uwagę."
-    }
-  ]
+  "articles": []
 }
