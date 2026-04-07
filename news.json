@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-07T18:48:43.091Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-07T19:28:03.506Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "W ciągu 24 godzin został dwa razy zatrzymany. Powód był ten sam",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sokolow-podlaski-w-ciagu-24-godzin-zostal-dwukrotnie-zatrzymany-powod-byl-ten-sam-st8987032?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 19:11:42 GMT",
+      "description": "W Wielkanoc policjanci prowadzili pościg za 53-letnim kierowcą Forda Mustanga. Okazało się, że zatrzymany we krwi miał prawie trzy promile alkoholu. Wyszło też na jaw, że drugi raz w ciągu doby został zatrzymany za jazdę na podwójnym gazie.",
+      "originalTitle": "W ciągu 24 godzin został dwa razy zatrzymany. Powód był ten sam",
+      "originalDescription": "W Wielkanoc policjanci prowadzili pościg za 53-letnim kierowcą Forda Mustanga. Okazało się, że zatrzymany we krwi miał prawie trzy promile alkoholu. Wyszło też na jaw, że drugi raz w ciągu doby został zatrzymany za jazdę na podwójnym gazie."
+    },
+    {
+      "title": "Wojna na Bliskim Wschodzie. Papież apeluje po \"nieakceptowalnym\" wpisie Donalda Trumpa",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-najwazniejsze-wydarzenia-relacja-7-kwietnia-st8987103?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 19:02:04 GMT",
+      "description": "Dziś w nocy mija ultimatum Donalda Trumpa dla Iranu. Stany Zjednoczone żądają odblokowania cieśniny Ormuz. Prezydent USA znów zagroził Teheranowi w mediach społecznościowych i napisał o \"końcu cywilizacji\" Iranu. Głos zabrał papież Leon XIV. Wydarzenia na Bliskim Wschodzie relacjonujmy na bieżąco w tvn24.",
+      "originalTitle": "Wojna na Bliskim Wschodzie. Papież apeluje po \"nieakceptowalnym\" wpisie Donalda Trumpa",
+      "originalDescription": "Dziś w nocy mija ultimatum Donalda Trumpa dla Iranu. Stany Zjednoczone żądają odblokowania cieśniny Ormuz. Prezydent USA znów zagroził Teheranowi w mediach społecznościowych i napisał o \"końcu cywilizacji\" Iranu. Głos zabrał papież Leon XIV. Wydarzenia na Bliskim Wschodzie relacjonujmy na bieżąco w tvn24."
+    },
+    {
+      "title": "Ukraina \"na pewno zyska finansowo\" na wojnie w Iranie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/piotr-lukasiewicz-sprawiedliwy-pokoj-dla-ukrainy-to-zadbanie-o-ludzi-st8987094?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 18:59:54 GMT",
+      "description": "Ukraina zyska uznanie, jako dostarczyciel wartości, których brakuje w tej chwili na świecie - powiedział w \"Faktach po Faktach\" Piotr Łukasiewicz, chargé d'affaires Polski w Ukrainie i były ambasador w Afganistanie.",
+      "originalTitle": "Ukraina \"na pewno zyska finansowo\" na wojnie w Iranie",
+      "originalDescription": "Ukraina zyska uznanie, jako dostarczyciel wartości, których brakuje w tej chwili na świecie - powiedział w \"Faktach po Faktach\" Piotr Łukasiewicz, chargé d'affaires Polski w Ukrainie i były ambasador w Afganistanie."
+    },
+    {
+      "title": "Wilk przechadza się w promieniach słońca. Zobacz nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/polska/wilk-przechadza-sie-w-promieniach-slonca-zobacz-nagranie-st8985378?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 18:55:22 GMT",
+      "description": "Miłośnikowi leśnych wędrówek i zwierząt udało się nagrać przechadzającego się wilka. Jak tłumaczy autor materiału, na jego wyjątkowość złożyło się kilka czynników. Wideo otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Wilk przechadza się w promieniach słońca. Zobacz nagranie",
+      "originalDescription": "Miłośnikowi leśnych wędrówek i zwierząt udało się nagrać przechadzającego się wilka. Jak tłumaczy autor materiału, na jego wyjątkowość złożyło się kilka czynników. Wideo otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Donald Trump grozi \"końcem cywilizacji\". Były ambasador Marek Magierowski: przerażające",
+      "link": "https://tvn24.pl/swiat/donald-trump-grozi-koncem-cywilizacji-byly-ambasador-marek-magierowski-przerazajace-st8987024?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 18:13:00 GMT",
+      "description": "Z każdym kolejnym postem opublikowanym przez prezydenta Trumpa jesteśmy zaskoczeni przekraczaniem kolejnych granic - powiedział były ambasador Polski w USA Marek Magierowski w \"Faktach po Faktach\" w TVN24, komentując wtorkowy wpis i groźby amerykańskiego prezydenta wobec Iranu. Zdaniem Magierowskiego \"nic nie wskazuje na to, żeby obie strony konfliktu miały podpisać\" porozumienie.",
+      "originalTitle": "Donald Trump grozi \"końcem cywilizacji\". Były ambasador Marek Magierowski: przerażające",
+      "originalDescription": "Z każdym kolejnym postem opublikowanym przez prezydenta Trumpa jesteśmy zaskoczeni przekraczaniem kolejnych granic - powiedział były ambasador Polski w USA Marek Magierowski w \"Faktach po Faktach\" w TVN24, komentując wtorkowy wpis i groźby amerykańskiego prezydenta wobec Iranu. Zdaniem Magierowskiego \"nic nie wskazuje na to, żeby obie strony konfliktu miały podpisać\" porozumienie."
+    },
+    {
+      "title": "Noc z alarmami IMGW w 11 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-7-8-04-silny-wiatr-przymrozki-gdzie-powieje-i-zlapie-mroz-st8982548?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 04:29:40 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. W nocy i nad ranem są one spodziewane w 11 województwach. Sprawdź, czy przygotować się na przygruntowy spadek temperatury.",
+      "originalTitle": "Noc z alarmami IMGW w 11 województwach",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. W nocy i nad ranem są one spodziewane w 11 województwach. Sprawdź, czy przygotować się na przygruntowy spadek temperatury."
+    },
+    {
+      "title": "Uciekał przed policją, uderzył w bariery. Był pod wpływem alkoholu i narkotyków",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zakret-pruszkow-uciekal-przed-policja-uderzyl-w-bariery-byl-pod-wplywem-alkoholu-i-narkotykow-st8986882?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 18:10:46 GMT",
+      "description": "Kierujący Audi nie zatrzymywał się do kontroli drogowej i uciekał Alejami Jerozolimskimi oraz Południową Obwodnicą Warszawy do trasy S17. Tam uderzył w bariery. Okazało się, że prowadził pod wpływem alkoholu i narkotyków. Miał także zakazy prowadzenia pojazdów. Usłyszał zarzuty.",
+      "originalTitle": "Uciekał przed policją, uderzył w bariery. Był pod wpływem alkoholu i narkotyków",
+      "originalDescription": "Kierujący Audi nie zatrzymywał się do kontroli drogowej i uciekał Alejami Jerozolimskimi oraz Południową Obwodnicą Warszawy do trasy S17. Tam uderzył w bariery. Okazało się, że prowadził pod wpływem alkoholu i narkotyków. Miał także zakazy prowadzenia pojazdów. Usłyszał zarzuty."
+    },
+    {
+      "title": "Media: Amerykanka Shelly Kittleson, porwana przez Kataib Hezbollah, została uwolniona",
+      "link": "https://tvn24.pl/swiat/media-amerykanka-shelly-kittleson-porwana-przez-kataib-hezbollah-zostala-uwolniona-st8986988?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 16:59:47 GMT",
+      "description": "Proirańska bojówka Kataib Hezbollah w Iraku uwolniła amerykańską dziennikarkę Shelly Kittleson - poinformowała agencja AP, powołując się na władze irackie. Kobieta była przetrzymywana przez tydzień.",
+      "originalTitle": "Media: Amerykanka Shelly Kittleson, porwana przez Kataib Hezbollah, została uwolniona",
+      "originalDescription": "Proirańska bojówka Kataib Hezbollah w Iraku uwolniła amerykańską dziennikarkę Shelly Kittleson - poinformowała agencja AP, powołując się na władze irackie. Kobieta była przetrzymywana przez tydzień."
+    },
+    {
+      "title": "Byli więzieni przez ponad trzy lata. Wracają do Francji",
+      "link": "https://tvn24.pl/swiat/byli-wiezieni-przez-ponad-trzy-lata-w-iranie-cecile-kohler-i-jacques-paris-wracaja-do-francji-st8986905?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 17:48:40 GMT",
+      "description": "Francuscy obywatele - Cecile Kohler i Jacques Paris - są wolni i zmierzają do Francji po trzech i pół roku aresztu w Iranie - poinformował prezydent Emmanuel Macron. Według irańskiej agencji IRNA doszło do tego w ramach porozumienia pomiędzy Teheranem a Paryżem. Francja miała uwolnić skazaną obywatelkę Iranu.",
+      "originalTitle": "Byli więzieni przez ponad trzy lata. Wracają do Francji",
+      "originalDescription": "Francuscy obywatele - Cecile Kohler i Jacques Paris - są wolni i zmierzają do Francji po trzech i pół roku aresztu w Iranie - poinformował prezydent Emmanuel Macron. Według irańskiej agencji IRNA doszło do tego w ramach porozumienia pomiędzy Teheranem a Paryżem. Francja miała uwolnić skazaną obywatelkę Iranu."
+    },
+    {
+      "title": "Pogoda na jutro - środa, 8.04. Jednym noc przyniesie opady, innym - lekki mróz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-8-04-jednym-noc-przyniesie-opady-innym-lekki-mroz-st8986972?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 17:21:59 GMT",
+      "description": "Pogoda na jutro, czyli na środę, 8.04. W części Polski noc przyniesie deszcz oraz deszcz ze śniegiem. W niektórych rejonach złapie lekki mróz. W środę opady spodziewane są już w większości kraju.",
+      "originalTitle": "Pogoda na jutro - środa, 8.04. Jednym noc przyniesie opady, innym - lekki mróz",
+      "originalDescription": "Pogoda na jutro, czyli na środę, 8.04. W części Polski noc przyniesie deszcz oraz deszcz ze śniegiem. W niektórych rejonach złapie lekki mróz. W środę opady spodziewane są już w większości kraju."
+    }
+  ]
 }
