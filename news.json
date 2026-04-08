@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-08T05:16:01.718Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-08T06:03:42.547Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Osuwisko we Włoszech. Wygięły się tory, zamknięto autostradę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-osuwisko-w-molise-tory-wygiely-sie-o-dziesiec-centymetrow-st8987263?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 05:44:34 GMT",
+      "description": "Ziemia osunęła się po ulewach na adriatyckim wybrzeżu Włoch. Zdarzenie sparaliżowało ruch w regionie - konieczne było wstrzymanie ruchu na jednej z głównych autostrad oraz na linii kolejowej. Jak podały lokalne media, nie jest to pierwsze osunięcie ziemi w tym miejscu.",
+      "originalTitle": "Osuwisko we Włoszech. Wygięły się tory, zamknięto autostradę",
+      "originalDescription": "Ziemia osunęła się po ulewach na adriatyckim wybrzeżu Włoch. Zdarzenie sparaliżowało ruch w regionie - konieczne było wstrzymanie ruchu na jednej z głównych autostrad oraz na linii kolejowej. Jak podały lokalne media, nie jest to pierwsze osunięcie ziemi w tym miejscu."
+    },
+    {
+      "title": "Parking przy bloku tylko dla członków stowarzyszenia. Urzędnicy tłumaczą",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-parking-na-woli-tylko-dla-wybranych-mieszkancow-st8977589?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 05:42:30 GMT",
+      "description": "Parking przed jednym z bloków na Woli dzierżawi stowarzyszenie. Parkować mogą tam tylko jego członkowie. Miejsca odgrodzone są łańcuchem z kłódkami. Nie wszystkim się to podoba, ale urząd dzielnicy przekonuje, że nie otrzymał oficjalnych skarg, a w okolicy dostępne są miejsca postojowe.",
+      "originalTitle": "Parking przy bloku tylko dla członków stowarzyszenia. Urzędnicy tłumaczą",
+      "originalDescription": "Parking przed jednym z bloków na Woli dzierżawi stowarzyszenie. Parkować mogą tam tylko jego członkowie. Miejsca odgrodzone są łańcuchem z kłódkami. Nie wszystkim się to podoba, ale urząd dzielnicy przekonuje, że nie otrzymał oficjalnych skarg, a w okolicy dostępne są miejsca postojowe."
+    },
+    {
+      "title": "Ceny ropy \"gwałtownie spadły\" po ogłoszeniu przez Trumpa zawieszenia broni z Iranem",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-ropy-gwaltownie-spadly-zawieszenie-broni-pomiedzy-usa-irazelem-i-iranem-st8987250?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 05:34:05 GMT",
+      "description": "Rynek ropy niemal natychmiast zareagował spadkami cen na zapowiedź prezydenta USA Donalda Trumpa o zawieszeniu broni z Iranem. Baryłka ropy spadła poniżej 100 dolarów, czyli o blisko 15 procent.",
+      "originalTitle": "Ceny ropy \"gwałtownie spadły\" po ogłoszeniu przez Trumpa zawieszenia broni z Iranem",
+      "originalDescription": "Rynek ropy niemal natychmiast zareagował spadkami cen na zapowiedź prezydenta USA Donalda Trumpa o zawieszeniu broni z Iranem. Baryłka ropy spadła poniżej 100 dolarów, czyli o blisko 15 procent."
+    },
+    {
+      "title": "Wojna na Bliskim Wschodzie. Donald Trump zgodził się na zawieszenie broni z Iranem",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-donald-trump-zgodzil-sie-na-zawieszenie-broni-z-iranem-st8987199?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 23:07:13 GMT",
+      "description": "Donald Trump oświadczył we wtorek (w środę czasu polskiego), że zgodził się \"wstrzymać bombardowania i ataki na Iran na dwa tygodnie\". Biały Dom przekazał, że również Izrael zgodził się wstrzymać bombardowania. Rozejm zaakceptowała Najwyższa Rada Bezpieczeństwa Narodowego Iranu. Trump zapowiedział, że USA pomogą w rozładowaniu ruchu w cieśninie Ormuz.",
+      "originalTitle": "Wojna na Bliskim Wschodzie. Donald Trump zgodził się na zawieszenie broni z Iranem",
+      "originalDescription": "Donald Trump oświadczył we wtorek (w środę czasu polskiego), że zgodził się \"wstrzymać bombardowania i ataki na Iran na dwa tygodnie\". Biały Dom przekazał, że również Izrael zgodził się wstrzymać bombardowania. Rozejm zaakceptowała Najwyższa Rada Bezpieczeństwa Narodowego Iranu. Trump zapowiedział, że USA pomogą w rozładowaniu ruchu w cieśninie Ormuz."
+    },
+    {
+      "title": "Przecięli kłódki i łańcuchy. Ich łupem padły rowery i hulajnogi",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-kradzieze-rowerow-i-hulajnog-w-piwnicach-na-woli-dwoch-podejrzanych-st8987251?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 05:17:26 GMT",
+      "description": "W ręce policjantów z warszawskiej Woli wpadli dwaj mężczyźni podejrzani o dokonanie włamania do piwnicy. Okazało się, że to nie było ich jedyne przewinienie.",
+      "originalTitle": "Przecięli kłódki i łańcuchy. Ich łupem padły rowery i hulajnogi",
+      "originalDescription": "W ręce policjantów z warszawskiej Woli wpadli dwaj mężczyźni podejrzani o dokonanie włamania do piwnicy. Okazało się, że to nie było ich jedyne przewinienie."
+    },
+    {
+      "title": "Ceny paliw w środę. Tyle kosztują",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-srode-8-kwietnia-tyle-kosztuje-benzyna-i-olej-napedowy-st8985835?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 04:26:00 GMT",
+      "description": "Zgodnie z opublikowanym obwieszczeniem ministra energii, ceny maksymalne paliw zostały utrzymane na tym samym poziomie, co w okresie świąt wielkanocnych.",
+      "originalTitle": "Ceny paliw w środę. Tyle kosztują",
+      "originalDescription": "Zgodnie z opublikowanym obwieszczeniem ministra energii, ceny maksymalne paliw zostały utrzymane na tym samym poziomie, co w okresie świąt wielkanocnych."
+    },
+    {
+      "title": "\"Powinni je odeskortować\" do lasu. Zabraniają tego europejskie przepisy",
+      "link": "https://tvn24.pl/polska/uspione-dziki-w-centrum-warszawy-aktywisci-oburzeni-lasy-miejskie-wskazuja-na-europejskie-przepisy-st8987213?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 04:07:20 GMT",
+      "description": "Dziki w centrum Warszawy podchodzą coraz bliżej i coraz śmielej. Podwórko nie było miejscem, z którego można było je bezpiecznie przepędzić, dlatego postanowiono je uśpić. Lasy Miejskie bronią decyzji o uśpieniu, mówiąc, że przepisy dotyczące zwalczania ASF uniemożliwiają wywożenie żywych zwierząt poza teren miasta. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "\"Powinni je odeskortować\" do lasu. Zabraniają tego europejskie przepisy",
+      "originalDescription": "Dziki w centrum Warszawy podchodzą coraz bliżej i coraz śmielej. Podwórko nie było miejscem, z którego można było je bezpiecznie przepędzić, dlatego postanowiono je uśpić. Lasy Miejskie bronią decyzji o uśpieniu, mówiąc, że przepisy dotyczące zwalczania ASF uniemożliwiają wywożenie żywych zwierząt poza teren miasta. Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "USA ogłasza uwolnienie dziennikarki porwanej w Iraku",
+      "link": "https://tvn24.pl/swiat/usa-amerykanka-shelly-kittleson-porwana-przez-kataib-hezbollah-zostala-uwolniona-st8986988?source=rss",
+      "pubDate": "Tue, 07 Apr 2026 16:59:47 GMT",
+      "description": "Shelly Kittleson, dziennikarka porwana w Iraku przez proirańską bojówkę Kataib Hezbollah, została uwolniona - przekazał sekretarz stanu USA Marco Rubio. Kobieta była przetrzymywana przez tydzień.",
+      "originalTitle": "USA ogłasza uwolnienie dziennikarki porwanej w Iraku",
+      "originalDescription": "Shelly Kittleson, dziennikarka porwana w Iraku przez proirańską bojówkę Kataib Hezbollah, została uwolniona - przekazał sekretarz stanu USA Marco Rubio. Kobieta była przetrzymywana przez tydzień."
+    },
+    {
+      "title": "Groźba \"końca cywilizacji\", interwencja Pakistanu, zawieszenie broni. Nagły zwrot w wojnie",
+      "link": "https://tvn24.pl/swiat/zawieszenie-broni-na-bliskim-wschodzie-siedem-rzeczy-ktore-warto-wiedziec-w-srode-8-kwietnia-st8987217?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 03:24:00 GMT",
+      "description": "Prezydent USA Donald Trump ogłosił, że zgodził się na pakistańską propozycję dwutygodniowego zawieszenia broni z Iranem pod warunkiem, że Teheran otworzy cieśninę Ormuz. Iran zapowiedział, że pozwoli na żeglugę tym szlakiem \"w koordynacji z siłami zbrojnymi\" swojego kraju. Przedstawiamy najważniejsze informacje na temat zawieszenia broni na Bliskim Wschodzie.",
+      "originalTitle": "Groźba \"końca cywilizacji\", interwencja Pakistanu, zawieszenie broni. Nagły zwrot w wojnie",
+      "originalDescription": "Prezydent USA Donald Trump ogłosił, że zgodził się na pakistańską propozycję dwutygodniowego zawieszenia broni z Iranem pod warunkiem, że Teheran otworzy cieśninę Ormuz. Iran zapowiedział, że pozwoli na żeglugę tym szlakiem \"w koordynacji z siłami zbrojnymi\" swojego kraju. Przedstawiamy najważniejsze informacje na temat zawieszenia broni na Bliskim Wschodzie."
+    },
+    {
+      "title": "Pogoda na dziś - środa, 8.04. Lokalnie popada śnieg z deszczem, może zagrzmieć",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sroda-8-04-lokalnie-popada-snieg-z-deszczem-moze-zagrzmiec-st8987125?source=rss",
+      "pubDate": "Wed, 08 Apr 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Środa, 8.04 przyniesie chmury na przeważającym obszarze kraju. Miejscami popada deszcz i deszcz ze śniegiem, a w górach śnieg. W części Polski temperaturę odczuwalną obniży silniejszy wiatr.",
+      "originalTitle": "Pogoda na dziś - środa, 8.04. Lokalnie popada śnieg z deszczem, może zagrzmieć",
+      "originalDescription": "Pogoda na dziś. Środa, 8.04 przyniesie chmury na przeważającym obszarze kraju. Miejscami popada deszcz i deszcz ze śniegiem, a w górach śnieg. W części Polski temperaturę odczuwalną obniży silniejszy wiatr."
+    }
+  ]
 }
