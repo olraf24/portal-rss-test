@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-08T10:49:54.145Z",
+  "lastUpdate": "2026-04-08T11:22:44.909Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Powstaje nowoczesna infrastruktura kwantowa łącząca Niemcy, Polskę i Czechy",
+      "link": "https://dzienniknaukowy.pl/powstaje-nowoczesna-infrastruktura-kwantowa-laczaca-niemcy-polske-i-czechy",
+      "pubDate": "Wed, 08 Apr 2026 11:04:36 +0000",
+      "description": "W marcu ruszył projekt QKD Network Germany-Poland-Czechia, który zakłada stworzenie bezpiecznej, odpornej na ataki infrastruktury kwantowej (QCI), która połączy trzy państwa naszego regionu. Będzie to pierwsza w Europie Środkowej tak rozbudowana międzynarodowa sieć wykorzystująca Quantum Key Distribution (QKD) – technologię generowania i dystrybucji kluczy kryptograficznych, odporną nawet na przyszłe zagrożenia wynikające z użycia komputerów kwantowych. Inicjatywa wzmacnia cyberbezpieczeństwo państw, zapewniając bezpieczną komunikację pomiędzy instytucjami publicznymi, operatorami infrastruktury krytycznej, sektorem naukowym i centrami danych. Jednym z partnerów projektu jest Ośrodek Przetwarzania Informacji (OPI)."
+    },
     {
       "title": "Polscy naukowcy opisali kluczowy mechanizm transportu enzymów u groźnego pasożyta",
       "link": "https://dzienniknaukowy.pl/polscy-naukowcy-opisali-kluczowy-mechanizm-transportu-enzymow-u-groznego-pasozyta",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/politechnika-wroclawska-rozwija-technologie-druku-3d-z-metalu-w-stanie-niewazkosci",
       "pubDate": "Wed, 01 Apr 2026 14:36:45 +0000",
       "description": "Czy w przyszłości astronauci sami będą mogli wydrukować potrzebne części zamienne? Międzynarodowe konsorcjum, w skład którego wchodzą badacze z Politechniki Wrocławskiej, pracuje nad technologią druku 3D z metalu w stanie nieważkości. Projekt „Lamda-g\" jest realizowany pod egidą Europejskiej Agencji Kosmicznej (ESA)."
-    },
-    {
-      "title": "Naukowcy z UJ odkryli sposób na blokowanie podziału komórek nowotworowych",
-      "link": "https://dzienniknaukowy.pl/naukowcy-z-uj-odkryli-sposob-na-blokowanie-podzialu-komorek-nowotworowych",
-      "pubDate": "Tue, 31 Mar 2026 14:16:59 +0000",
-      "description": "Naukowcy z Uniwersytetu Jagiellońskiego prowadzą badania mające na celu zatrzymanie procesu podziału komórek nowotworowych poprzez upośledzenie powielania i naprawy ich materiału genetycznego. Idea polega na zablokowaniu działania białka odgrywającego kluczową rolę w replikacji i naprawie DNA. Zespół poszukuje działających w ten sposób cząsteczek, co mogłoby otworzyć drogę do dalszych badań i rozwoju nowej terapii przeciwnowotworowej."
     }
   ]
 }
