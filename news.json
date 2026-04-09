@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-09T16:33:20.210Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-09T17:30:06.400Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - piątek, 10.04. W nocy mróz ściśnie w całym kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-10-04-w-nocy-mroz-scisnie-w-calym-kraju-st8990570?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 17:16:17 GMT",
+      "description": "Pogoda na jutro, czyli na piątek, 10.04. W nocy w całym kraju temperatura spadnie poniżej zera stopni. Dzień przyniesie małe i umiarkowane zachmurzenie, miejscami będzie się chmurzyć i padać.",
+      "originalTitle": "Pogoda na jutro - piątek, 10.04. W nocy mróz ściśnie w całym kraju",
+      "originalDescription": "Pogoda na jutro, czyli na piątek, 10.04. W nocy w całym kraju temperatura spadnie poniżej zera stopni. Dzień przyniesie małe i umiarkowane zachmurzenie, miejscami będzie się chmurzyć i padać."
+    },
+    {
+      "title": "Będzie ruch prezydenta. Zapowiedź z pałacu",
+      "link": "https://tvn24.pl/polska/zbigniew-bogucki-prezydent-zlozy-sprawe-slubowania-w-sejmie-do-tk-st8990578?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 17:02:00 GMT",
+      "description": "Zbigniew Bogucki przekazał, że prezydent skieruje skieruje sprawę zaprzysiężenia sędziów Trybunału Konstytucyjnego w Sejmie do Trybunału Konstytucyjnego. Szef kancelarii prezydenta stwierdził, że Karol Nawrocki \"postępuje tu ścieżką konstytucyjną\".",
+      "originalTitle": "Będzie ruch prezydenta. Zapowiedź z pałacu",
+      "originalDescription": "Zbigniew Bogucki przekazał, że prezydent skieruje skieruje sprawę zaprzysiężenia sędziów Trybunału Konstytucyjnego w Sejmie do Trybunału Konstytucyjnego. Szef kancelarii prezydenta stwierdził, że Karol Nawrocki \"postępuje tu ścieżką konstytucyjną\"."
+    },
+    {
+      "title": "Dziki uśmiercane między blokami, mieszkańcy oburzeni, dyrektor Lasów Miejskich odpowiada",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/dziki-usmiercane-miedzy-blokami-mieszkancy-oburzeni-dyrektor-lasow-miejskich-odpowiada-st8989892?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 16:54:24 GMT",
+      "description": "W ostatnich tygodniach doszło do dwóch głośnych przypadków uśmiercania dzików na terenie dużych warszawskich osiedli. Mieszkańców oburzył nie tylko sam fakt ich uśpienia na miejscu, ale również sposób transportu martwych zwierząt - w kubłach na odpady. Dyrektor Lasów Miejskich tłumaczy, dlaczego służby odpowiedzialne za odławianie tak postąpiły.",
+      "originalTitle": "Dziki uśmiercane między blokami, mieszkańcy oburzeni, dyrektor Lasów Miejskich odpowiada",
+      "originalDescription": "W ostatnich tygodniach doszło do dwóch głośnych przypadków uśmiercania dzików na terenie dużych warszawskich osiedli. Mieszkańców oburzył nie tylko sam fakt ich uśpienia na miejscu, ale również sposób transportu martwych zwierząt - w kubłach na odpady. Dyrektor Lasów Miejskich tłumaczy, dlaczego służby odpowiedzialne za odławianie tak postąpiły."
+    },
+    {
+      "title": "Wypadek paralotniarza na lotnisku. Poszkodowany trafił do szpitala",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-przylep-wypadek-paralotniarza-na-lotnisku-spadl-z-wysokosci-kilku-metrow-st8990562?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 16:33:51 GMT",
+      "description": "Wypadek paralotniarza na lotnisku w Przylepie (woj. lubuskie). Mężczyzna spadł z wysokości co najmniej kilku metrów.",
+      "originalTitle": "Wypadek paralotniarza na lotnisku. Poszkodowany trafił do szpitala",
+      "originalDescription": "Wypadek paralotniarza na lotnisku w Przylepie (woj. lubuskie). Mężczyzna spadł z wysokości co najmniej kilku metrów."
+    },
+    {
+      "title": "Tak źle nie było od dwóch dekad. Kryzys niemieckich firm",
+      "link": "https://tvn24.pl/biznes/ze-swiata/niemcy-bankructwo-firm-tak-zle-nie-bylo-od-dwoch-dekad-st8990549?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 16:11:08 GMT",
+      "description": "W Niemczech w pierwszym kwartale 2026 roku upadło najwięcej firm od 2005 roku. Według danych Instytutu Badań Gospodarczych im. Leibniza w Halle (IWH) bankructwo ogłosiły 4573 spółki. To więcej niż w analizowanych kwartałach w trakcie pandemii COVID-19 i kryzysu finansowego w 2009 roku.",
+      "originalTitle": "Tak źle nie było od dwóch dekad. Kryzys niemieckich firm",
+      "originalDescription": "W Niemczech w pierwszym kwartale 2026 roku upadło najwięcej firm od 2005 roku. Według danych Instytutu Badań Gospodarczych im. Leibniza w Halle (IWH) bankructwo ogłosiły 4573 spółki. To więcej niż w analizowanych kwartałach w trakcie pandemii COVID-19 i kryzysu finansowego w 2009 roku."
+    },
+    {
+      "title": "System nawigacji tych ptaków jest lepszy niż GPS. Dziś Światowy Dzień Gołębia",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/swiatowy-dzien-golebia-system-nawigacji-tych-ptakow-jest-lepszy-niz-gps-st8990515?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 16:09:38 GMT",
+      "description": "Gołębie od tysięcy lat towarzyszą człowiekowi. Ich niezwykłe umiejętności wciąż budzą zainteresowanie naukowców. Jak powiedział ornitolog Piotr Tryjanowski, potrafią nie tylko wracać do domu z bardzo daleka, lecz także rozpoznawać wzorce tak złożone jak zapis EKG.",
+      "originalTitle": "System nawigacji tych ptaków jest lepszy niż GPS. Dziś Światowy Dzień Gołębia",
+      "originalDescription": "Gołębie od tysięcy lat towarzyszą człowiekowi. Ich niezwykłe umiejętności wciąż budzą zainteresowanie naukowców. Jak powiedział ornitolog Piotr Tryjanowski, potrafią nie tylko wracać do domu z bardzo daleka, lecz także rozpoznawać wzorce tak złożone jak zapis EKG."
+    },
+    {
+      "title": "Wpływowe postaci MAGA odwracają się od Trumpa. Padły mocne słowa",
+      "link": "https://tvn24.pl/swiat/wplywowe-postaci-maga-odwracaja-sie-od-donalda-trumpa-padly-mocne-slowa-st8990453?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 15:57:36 GMT",
+      "description": "Do niedawna stali za nim murem, dziś publicznie nie szczędzą słów krytyki. Wpływowe postaci ruchu MAGA punktują Donalda Trumpa za konflikt z Iranem. Padają mocne słowa i wezwania do \"każdego chrześcijanina\", by \"natychmiast odszedł z administracji\" obecnego prezydenta.",
+      "originalTitle": "Wpływowe postaci MAGA odwracają się od Trumpa. Padły mocne słowa",
+      "originalDescription": "Do niedawna stali za nim murem, dziś publicznie nie szczędzą słów krytyki. Wpływowe postaci ruchu MAGA punktują Donalda Trumpa za konflikt z Iranem. Padają mocne słowa i wezwania do \"każdego chrześcijanina\", by \"natychmiast odszedł z administracji\" obecnego prezydenta."
+    },
+    {
+      "title": "Mały kraj w cieniu wielkich graczy. Przesądzi o losie rozejmu?",
+      "link": "https://tvn24.pl/swiat/liban-jaka-jest-jego-rola-w-konflikcie-na-bliskim-wschodzie-st8987649?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 15:55:49 GMT",
+      "description": "Głównymi stronami wojny na Bliskim Wschodzie są USA, Izrael i Iran, jednak języczkiem u wagi może okazać się Liban - niewielki kraj wciśnięty między Syrię i Izrael. Jego przyszłość może stać się kartą przetargową w negocjacjach, które mają zakończyć konflikt. Albo gwoździem do ich trumny.",
+      "originalTitle": "Mały kraj w cieniu wielkich graczy. Przesądzi o losie rozejmu?",
+      "originalDescription": "Głównymi stronami wojny na Bliskim Wschodzie są USA, Izrael i Iran, jednak języczkiem u wagi może okazać się Liban - niewielki kraj wciśnięty między Syrię i Izrael. Jego przyszłość może stać się kartą przetargową w negocjacjach, które mają zakończyć konflikt. Albo gwoździem do ich trumny."
+    },
+    {
+      "title": "Ślubowanie sędziów TK w Sejmie. Relacja na żywo",
+      "link": "https://tvn24.pl/polska/sedziowie-trybunalu-konstytucyjnego-zlozyli-slubowanie-w-sejmie-co-dalej-relacja-na-zywo-st8989371?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 08:31:02 GMT",
+      "description": "Były prezes Trybunału Konstytucyjnego Jerzy Stępień w TVN24 zakwestionował słowa szefa kancelarii prezydenta, Zbigniewa Boguckiego. - On mówi, że nie ma terminu, który by wiązał prezydenta. Otóż jest taki termin - wskazał. W czwartek sześcioro sędziów TK złożyło w Sejmie ślubowanie. Wydarzenia i komentarze wokół Trybunał relacjonujemy w tvn24.pl.",
+      "originalTitle": "Ślubowanie sędziów TK w Sejmie. Relacja na żywo",
+      "originalDescription": "Były prezes Trybunału Konstytucyjnego Jerzy Stępień w TVN24 zakwestionował słowa szefa kancelarii prezydenta, Zbigniewa Boguckiego. - On mówi, że nie ma terminu, który by wiązał prezydenta. Otóż jest taki termin - wskazał. W czwartek sześcioro sędziów TK złożyło w Sejmie ślubowanie. Wydarzenia i komentarze wokół Trybunał relacjonujemy w tvn24.pl."
+    },
+    {
+      "title": "Mają już plan na świąteczną iluminację. Szukają wykonawcy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-drogowcy-szukaja-juz-wykonawcy-swiatecznej-iluminacji-st8990520?source=rss",
+      "pubDate": "Thu, 09 Apr 2026 15:43:01 GMT",
+      "description": "To była ostatnia zima ze świąteczną iluminacją nawiązującą do czasów PRL. Drogowcy mają już nowy pomysł. Pod koniec roku pojawią się ozdoby nawiązujące do legend warszawskich i dziedzictwa kulturowego stolicy. Zarząd Dróg Miejskich rozpoczął już poszukiwanie wykonawcy.",
+      "originalTitle": "Mają już plan na świąteczną iluminację. Szukają wykonawcy",
+      "originalDescription": "To była ostatnia zima ze świąteczną iluminacją nawiązującą do czasów PRL. Drogowcy mają już nowy pomysł. Pod koniec roku pojawią się ozdoby nawiązujące do legend warszawskich i dziedzictwa kulturowego stolicy. Zarząd Dróg Miejskich rozpoczął już poszukiwanie wykonawcy."
+    }
+  ]
 }
