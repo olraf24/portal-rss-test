@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-10T22:13:51.445Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-10T22:46:19.513Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Misja Artemis II. Ostatnie chwile astronautów w kosmosie",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/misja-artemis-ii-zaloga-coraz-blizej-domu-plan-historycznego-powrotu-gdzie-ogladac-ladowanie-artemis-ii-godzina-zakonczenia-misji-st8990894?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 05:52:56 GMT",
+      "description": "Misja Artemis II. Członkowie misji są coraz bliżej powrotu na Ziemię. Astronauci prowadzą ostatnie przygotowania, które pozwolą im na wejście w ziemską atmosferę oraz wylądowanie u wybrzeży Kalifornii. W TVN24 trwa program specjalny poświęcony zakończeniu misji Artemis II, a w TVN24+ można oglądać transmisję z tego wydarzenia.",
+      "originalTitle": "Misja Artemis II. Ostatnie chwile astronautów w kosmosie",
+      "originalDescription": "Misja Artemis II. Członkowie misji są coraz bliżej powrotu na Ziemię. Astronauci prowadzą ostatnie przygotowania, które pozwolą im na wejście w ziemską atmosferę oraz wylądowanie u wybrzeży Kalifornii. W TVN24 trwa program specjalny poświęcony zakończeniu misji Artemis II, a w TVN24+ można oglądać transmisję z tego wydarzenia."
+    },
+    {
+      "title": "Misja Artemis II. Taka jest pogoda w miejscu wodowania",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/misja-artemis-ii-kiedy-koniec-i-ladowanie-astronautow-prognoza-pogody-na-ladowanie-st8991501?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 11:46:59 GMT",
+      "description": "Misja Artemis II wraca na Ziemię. Ważną rolę podczas powrotu pełni pogoda - w trudnych warunkach atmosferycznych astronauci mogą mieć problemy z opuszczeniem kapsuły. O północy w TVN24 rusza program specjalny poświęcony powrotowi załogi na Ziemię. Transmisję zobaczysz także w TVN24+.",
+      "originalTitle": "Misja Artemis II. Taka jest pogoda w miejscu wodowania",
+      "originalDescription": "Misja Artemis II wraca na Ziemię. Ważną rolę podczas powrotu pełni pogoda - w trudnych warunkach atmosferycznych astronauci mogą mieć problemy z opuszczeniem kapsuły. O północy w TVN24 rusza program specjalny poświęcony powrotowi załogi na Ziemię. Transmisję zobaczysz także w TVN24+."
+    },
+    {
+      "title": "\"Chcemy nowych Węgier\". Antyrządowy koncert tuż przed wyborami",
+      "link": "https://tvn24.pl/swiat/wybory-parlamentarne-na-wegrzech-antyrzadowy-koncert-w-budapeszcie-nadszedl-czas-na-zmiany-st8992687?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 20:28:33 GMT",
+      "description": "Dziesiątki tysięcy osób pojawiło się na antyrządowym koncercie na Placu Bohaterów w centrum Budapesztu. Wydarzenie odbywa się tuż przed zaplanowanymi na niedzielę wyborami parlamentarnymi. - Nie znam Węgier bez Viktora Orbana. Nadszedł czas na zmiany - mówi jeden z uczestników.",
+      "originalTitle": "\"Chcemy nowych Węgier\". Antyrządowy koncert tuż przed wyborami",
+      "originalDescription": "Dziesiątki tysięcy osób pojawiło się na antyrządowym koncercie na Placu Bohaterów w centrum Budapesztu. Wydarzenie odbywa się tuż przed zaplanowanymi na niedzielę wyborami parlamentarnymi. - Nie znam Węgier bez Viktora Orbana. Nadszedł czas na zmiany - mówi jeden z uczestników."
+    },
+    {
+      "title": "Duża wygrana w Eurojackpot w Polsce",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-10-kwietnia-2026-roku-jakie-liczby-padly-w-trakcie-losowania-st8992661?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 19:30:38 GMT",
+      "description": "W piątkowym losowaniu Eurojackpot nikt nie trafił poprawnie wszystkich liczb, więc kumulacja rośnie do 60 milionów złotych. W Polsce najwyższa wygrana, jaka padła, była czwartego stopnia. Oto wyniki losowania z 10 kwietnia 2026 roku.",
+      "originalTitle": "Duża wygrana w Eurojackpot w Polsce",
+      "originalDescription": "W piątkowym losowaniu Eurojackpot nikt nie trafił poprawnie wszystkich liczb, więc kumulacja rośnie do 60 milionów złotych. W Polsce najwyższa wygrana, jaka padła, była czwartego stopnia. Oto wyniki losowania z 10 kwietnia 2026 roku."
+    },
+    {
+      "title": "Premier Francji: będziemy nadal płacić cenę za cudze wojny",
+      "link": "https://tvn24.pl/biznes/ze-swiata/francja-premier-zapowiada-zmiane-polityki-energetycznej-st8992646?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 19:18:28 GMT",
+      "description": "Wojna na Bliskim Wschodzie nie jest naszą wojną, ale jednak dotyka nas bardzo bezpośrednio - powiedział w piątek premier Francji Sebastien Lecornu. W związku z tym zapowiedział, że jego kraj planuje przyspieszenie przechodzenia na energię elektryczną kosztem importowanych paliw kopalnych.",
+      "originalTitle": "Premier Francji: będziemy nadal płacić cenę za cudze wojny",
+      "originalDescription": "Wojna na Bliskim Wschodzie nie jest naszą wojną, ale jednak dotyka nas bardzo bezpośrednio - powiedział w piątek premier Francji Sebastien Lecornu. W związku z tym zapowiedział, że jego kraj planuje przyspieszenie przechodzenia na energię elektryczną kosztem importowanych paliw kopalnych."
+    },
+    {
+      "title": "Posłowie PiS na Węgrzech wspierają Orbana. Szłapka: nie ma na to parlamentarnych słów",
+      "link": "https://tvn24.pl/polska/wybory-parlamentarne-na-wegrzech-poslowie-pis-wspieraja-viktora-orbana-adam-szlapka-nie-ma-na-to-parlamentarnych-slow-st8992631?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 19:12:31 GMT",
+      "description": "Grupa polityków PiS pojechała na Węgry tuż przed wyborami parlamentarnymi, aby wspierać Viktora Orbana. - To jest kompromitujące - komentował w \"#BezKitu\" w TVN24 rzecznik rządu Adam Szłapka. Wspominał w tym kontekście o \"wiernopoddańczej polityce Orbana wobec Putina\".",
+      "originalTitle": "Posłowie PiS na Węgrzech wspierają Orbana. Szłapka: nie ma na to parlamentarnych słów",
+      "originalDescription": "Grupa polityków PiS pojechała na Węgry tuż przed wyborami parlamentarnymi, aby wspierać Viktora Orbana. - To jest kompromitujące - komentował w \"#BezKitu\" w TVN24 rzecznik rządu Adam Szłapka. Wspominał w tym kontekście o \"wiernopoddańczej polityce Orbana wobec Putina\"."
+    },
+    {
+      "title": "Pogoda. Nawet -8 stopni przy gruncie. Ostrzeżenia IMGW niemal w całej Polsce",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-mroz-przymrozki-nawet-8-stopni-przy-gruncie-ostrzezenia-imgw-niemal-w-calej-polsce-st8992024?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 12:51:58 GMT",
+      "description": "Tej nocy oraz o poranku w sobotę znów chwyci mróz, a przy gruncie pojawią się przymrozki. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia niemal w całym kraju. Temperatura może spaść nawet do -8 stopni.",
+      "originalTitle": "Pogoda. Nawet -8 stopni przy gruncie. Ostrzeżenia IMGW niemal w całej Polsce",
+      "originalDescription": "Tej nocy oraz o poranku w sobotę znów chwyci mróz, a przy gruncie pojawią się przymrozki. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia niemal w całym kraju. Temperatura może spaść nawet do -8 stopni."
+    },
+    {
+      "title": "Pieszo do Lublina trasą ekspresową. Ubrana na czarno szła obok pędzących aut",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/garwolin-ubrana-na-czarno-szla-poboczem-drogi-ekspresowej-st8992623?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 19:00:52 GMT",
+      "description": "Nocna podróż do Lublina mogła zakończyć się tragicznie dla 44-letniej kobiety, która postanowiła pokonać trasę ekspresową S17... pieszo. Ubrana na czarno i niemal niewidoczna dla pędzących kierowców, szła poboczem tuż obok aut. Dzięki szybkiej reakcji policjantów z Garwolina kobieta bezpiecznie trafiła na stację PKP.",
+      "originalTitle": "Pieszo do Lublina trasą ekspresową. Ubrana na czarno szła obok pędzących aut",
+      "originalDescription": "Nocna podróż do Lublina mogła zakończyć się tragicznie dla 44-letniej kobiety, która postanowiła pokonać trasę ekspresową S17... pieszo. Ubrana na czarno i niemal niewidoczna dla pędzących kierowców, szła poboczem tuż obok aut. Dzięki szybkiej reakcji policjantów z Garwolina kobieta bezpiecznie trafiła na stację PKP."
+    },
+    {
+      "title": "Zabite za cztery tulipany? Mieszkańcy oburzeni usypianiem dzików na ich oczach",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/egzekucja-dzikow-w-warszawie-i-reakcja-mieszkancow-st8992458?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 18:53:02 GMT",
+      "description": "Na placu zabaw na warszawskim Bemowie zadomowiły się dziki. Jak twierdzą mieszkańcy, nikomu nie zagrażały, mimo to służby miejskie uśpiły cztery dorosłe osobniki i 12 warchlaków. Odbyło się to na oczach spacerowiczów, w tym dzieci, co wywołało powszechne oburzenie. Do podobnej sytuacji doszło na Mokotowie. Materiał \"Uwagi!\" TVN.",
+      "originalTitle": "Zabite za cztery tulipany? Mieszkańcy oburzeni usypianiem dzików na ich oczach",
+      "originalDescription": "Na placu zabaw na warszawskim Bemowie zadomowiły się dziki. Jak twierdzą mieszkańcy, nikomu nie zagrażały, mimo to służby miejskie uśpiły cztery dorosłe osobniki i 12 warchlaków. Odbyło się to na oczach spacerowiczów, w tym dzieci, co wywołało powszechne oburzenie. Do podobnej sytuacji doszło na Mokotowie. Materiał \"Uwagi!\" TVN."
+    },
+    {
+      "title": "Zyski spółek USA pod lupą. Kluczowy przyszły tydzień",
+      "link": "https://tvn24.pl/biznes/rynki/zyski-amerykanskich-spolek-kluczowe-wyniki-na-wall-street-w-przyszlym-tygodniu-st8992604?source=rss",
+      "pubDate": "Fri, 10 Apr 2026 18:33:14 GMT",
+      "description": "W nadchodzącym tygodniu inwestorzy będą wypatrywać sygnałów, czy zyski amerykańskich spółek faktycznie zaczynają przyspieszać oraz czy wojna na Bliskim Wschodzie i rosnące koszty energii nie podważą optymistycznych perspektyw dla biznesu – informuje Reuters.",
+      "originalTitle": "Zyski spółek USA pod lupą. Kluczowy przyszły tydzień",
+      "originalDescription": "W nadchodzącym tygodniu inwestorzy będą wypatrywać sygnałów, czy zyski amerykańskich spółek faktycznie zaczynają przyspieszać oraz czy wojna na Bliskim Wschodzie i rosnące koszty energii nie podważą optymistycznych perspektyw dla biznesu – informuje Reuters."
+    }
+  ]
 }
