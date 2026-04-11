@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-11T22:09:15.798Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-11T22:45:12.339Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Myśleli, że to guz mózgu albo udar. Lekarka: mnie też boli głowa",
+      "link": "https://tvn24.pl/zdrowie/mysleli-ze-to-guz-mozgu-albo-udar-migrena-to-nie-histeria-to-neurologiczna-pulapka-st8991248?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 20:29:42 GMT",
+      "description": "To nie jest zwykły ból głowy, który minie po tabletce przeciwbólowej. To nie jest \"globus\" rozhisteryzowanych arystokratek ani lenistwo współczesnych, którzy chcą uniknąć obowiązków. Migrena to brutalna, neurologiczna klatka, która w Polsce więzi cztery miliony osób. Większość z nich to kobiety.",
+      "originalTitle": "Myśleli, że to guz mózgu albo udar. Lekarka: mnie też boli głowa",
+      "originalDescription": "To nie jest zwykły ból głowy, który minie po tabletce przeciwbólowej. To nie jest \"globus\" rozhisteryzowanych arystokratek ani lenistwo współczesnych, którzy chcą uniknąć obowiązków. Migrena to brutalna, neurologiczna klatka, która w Polsce więzi cztery miliony osób. Większość z nich to kobiety."
+    },
+    {
+      "title": "Atak maczetą w nowojorskim metrze",
+      "link": "https://tvn24.pl/swiat/nowy-jork-atak-maczeta-w-metrze-sprawca-zastrzelony-st8993677?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 20:23:11 GMT",
+      "description": "Policja w Nowym Jorku zastrzeliła mężczyznę uzbrojonego w maczetę, który zaatakował troje pasażerów na stacji metra. Rannych przewieziono do szpitala.",
+      "originalTitle": "Atak maczetą w nowojorskim metrze",
+      "originalDescription": "Policja w Nowym Jorku zastrzeliła mężczyznę uzbrojonego w maczetę, który zaatakował troje pasażerów na stacji metra. Rannych przewieziono do szpitala."
+    },
+    {
+      "title": "Papież Leon XIV wzywa: dość wojny!",
+      "link": "https://tvn24.pl/swiat/papiez-leon-xiv-wzywa-dosc-wojny-st8993618?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 19:31:43 GMT",
+      "description": "Dość epatowania siłą! Dość wojny! - apelował papież Leon XIV podczas sobotniego czuwania modlitewnego w intencji pokoju na świecie. W Bazylice Świętego Piotra wzywał, by połączyć siły miliardów ludzi, którzy wybierają pokój. Zwrócił się też do rządzących.",
+      "originalTitle": "Papież Leon XIV wzywa: dość wojny!",
+      "originalDescription": "Dość epatowania siłą! Dość wojny! - apelował papież Leon XIV podczas sobotniego czuwania modlitewnego w intencji pokoju na świecie. W Bazylice Świętego Piotra wzywał, by połączyć siły miliardów ludzi, którzy wybierają pokój. Zwrócił się też do rządzących."
+    },
+    {
+      "title": "Temperatura mocno spadnie. Alarmy w 15 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-mroz-przymrozki-nawet-10-stopni-przy-gruncie-ostrzezenia-imgw-niemal-w-calej-polsce-st8992024?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 10:18:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. Alarmy obowiązują w 15 województwach. W części kraju temperatura przy gruncie może spaść nawet do -10 stopni.",
+      "originalTitle": "Temperatura mocno spadnie. Alarmy w 15 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. Alarmy obowiązują w 15 województwach. W części kraju temperatura przy gruncie może spaść nawet do -10 stopni."
+    },
+    {
+      "title": "Kilka osób poszkodowanych w znanym parku rozrywki",
+      "link": "https://tvn24.pl/swiat/wypadek-w-znanym-parku-rozrywki-prater-st8993593?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:52:47 GMT",
+      "description": "W wiedeńskim parku rozrywki Prater - jednej z najbardziej znanych atrakcji stolicy Austrii - doszło do wykolejenia się kolejki górskiej. Kilka osób doznało obrażeń. To kolejny wypadek w tym miejscu w ostatnich latach.",
+      "originalTitle": "Kilka osób poszkodowanych w znanym parku rozrywki",
+      "originalDescription": "W wiedeńskim parku rozrywki Prater - jednej z najbardziej znanych atrakcji stolicy Austrii - doszło do wykolejenia się kolejki górskiej. Kilka osób doznało obrażeń. To kolejny wypadek w tym miejscu w ostatnich latach."
+    },
+    {
+      "title": "Dwa tygodnie bez pociągów. Zaczynają się ogromne utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/linia-otwocka-ruch-kolejowy-otwock-wawer-wstrzymany-st8993059?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:49:04 GMT",
+      "description": "Od niedzieli na dwa tygodnie całkowicie wstrzymany będzie ruch pociągów między Otwockiem a Wawrem. Miasto przygotowano autobusy komunikacji zastępczej.",
+      "originalTitle": "Dwa tygodnie bez pociągów. Zaczynają się ogromne utrudnienia",
+      "originalDescription": "Od niedzieli na dwa tygodnie całkowicie wstrzymany będzie ruch pociągów między Otwockiem a Wawrem. Miasto przygotowano autobusy komunikacji zastępczej."
+    },
+    {
+      "title": "Trzaskowski: z Dudą była przynajmniej nić porozumienia",
+      "link": "https://tvn24.pl/polska/rafal-trzaskowski-o-prezydencie-z-andrzejem-duda-byla-przynajmniej-nic-porozumienia-st8993606?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:20:47 GMT",
+      "description": "Jego (Nawrockiego - red.) jedynym celem i celem Kaczyńskiego, który mu to sufluje do ucha, jest to, żeby doprowadzić do totalnego chaosu - ocenił prezydent Warszawy Rafał Trzaskowski. Powiedział też, że w przeciwieństwie do obecnego prezydenta, z Andrzejem Dudą istniała \"nić porozumienia\" w kwestiach kluczowych dla Polski.",
+      "originalTitle": "Trzaskowski: z Dudą była przynajmniej nić porozumienia",
+      "originalDescription": "Jego (Nawrockiego - red.) jedynym celem i celem Kaczyńskiego, który mu to sufluje do ucha, jest to, żeby doprowadzić do totalnego chaosu - ocenił prezydent Warszawy Rafał Trzaskowski. Powiedział też, że w przeciwieństwie do obecnego prezydenta, z Andrzejem Dudą istniała \"nić porozumienia\" w kwestiach kluczowych dla Polski."
+    },
+    {
+      "title": "Co się dzieje w cieśninie Ormuz? USA: zaczęliśmy oczyszczanie",
+      "link": "https://tvn24.pl/swiat/co-sie-dzieje-w-ciesninie-ormuz-usa-zaczelismy-oczyszczanie-st8993470?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 14:59:04 GMT",
+      "description": "Donald Trump ogłosił, że Stany Zjednoczone rozpoczęły proces \"oczyszczania\" cieśniny Ormuz. W tym samym czasie w mediach pojawiły się doniesienia o przekroczeniu cieśniny przez okręty USA. Irańskie władze zaprzeczyły tym informacjom, zaś Centralne Dowództwo Sił Zbrojnych USA potwierdziło je. Jak podali amerykańscy wojskowi, chodzi o unieszkodliwienie min morskich.",
+      "originalTitle": "Co się dzieje w cieśninie Ormuz? USA: zaczęliśmy oczyszczanie",
+      "originalDescription": "Donald Trump ogłosił, że Stany Zjednoczone rozpoczęły proces \"oczyszczania\" cieśniny Ormuz. W tym samym czasie w mediach pojawiły się doniesienia o przekroczeniu cieśniny przez okręty USA. Irańskie władze zaprzeczyły tym informacjom, zaś Centralne Dowództwo Sił Zbrojnych USA potwierdziło je. Jak podali amerykańscy wojskowi, chodzi o unieszkodliwienie min morskich."
+    },
+    {
+      "title": "Podsumowali marzec. \"Każda z tych liczb jest uderzająca\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/zmiany-klimatu-podsumowali-marzec-2026-kazda-z-tych-liczb-jest-uderzajaca-raport-copernicus-c3s-st8993585?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:07:01 GMT",
+      "description": "Europejska agencja Copernicus C3S badająca średnią globalną temperaturę na naszej planecie podsumowała marzec 2026. Jak wynika z wyliczeń naukowców, miniony miesiąc był drugim najcieplejszym marcem w Europie od początku prowadzenia pomiarów.",
+      "originalTitle": "Podsumowali marzec. \"Każda z tych liczb jest uderzająca\"",
+      "originalDescription": "Europejska agencja Copernicus C3S badająca średnią globalną temperaturę na naszej planecie podsumowała marzec 2026. Jak wynika z wyliczeń naukowców, miniony miesiąc był drugim najcieplejszym marcem w Europie od początku prowadzenia pomiarów."
+    },
+    {
+      "title": "Nawet dzieci podpisywały ten dokument. \"Unikat\"",
+      "link": "https://tvn24.pl/polska/deklaracje-o-podziwie-i-przyjazni-dla-stanow-zjednoczonych-podpisywaly-nawet-dzieci-unikat-st8993547?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 17:18:05 GMT",
+      "description": "W 1926 roku ponad milion Polaków podpisało \"największą laurkę świata\" dla Stanów Zjednoczonych w podziękowaniu za ogromną pomoc humanitarną. Najmłodsi z sygnatariuszy tego wyjątkowego aktu wdzięczności mieli zaledwie osiem lat. Ośrodek Karta chce przywrócić pamięć o ich losach i organizuje konkurs dla młodzieży. Patronem akcji jest TVN24.",
+      "originalTitle": "Nawet dzieci podpisywały ten dokument. \"Unikat\"",
+      "originalDescription": "W 1926 roku ponad milion Polaków podpisało \"największą laurkę świata\" dla Stanów Zjednoczonych w podziękowaniu za ogromną pomoc humanitarną. Najmłodsi z sygnatariuszy tego wyjątkowego aktu wdzięczności mieli zaledwie osiem lat. Ośrodek Karta chce przywrócić pamięć o ich losach i organizuje konkurs dla młodzieży. Patronem akcji jest TVN24."
+    }
+  ]
 }
