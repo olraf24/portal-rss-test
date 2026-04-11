@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-11T06:26:24.998Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-11T06:51:09.767Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Te pieniądze stanowiły zbyt dużą pokusę\". Kulisy działalności wpływowego księdza",
+      "link": "https://tvn24.pl/polska/te-pieniadze-stanowily-zbyt-duza-pokuse-tak-dzialal-wplywowy-ksiadz-st8992828?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 06:45:39 GMT",
+      "description": "Te pieniądze stanowiły zbyt dużą pokusę, żeby przeznaczać je tylko na ten jeden cel - mówi w TVN24 dziennikarz \"Superwizjera\" Michał Fuja, współautor reportażu \"Miliony dla przyjaciela misji\". Razem z Joanną Rubin-Sobolewską sprawdzili, jak pieniądze przeznaczone dla organizacji Pomoc Kościołowi w Potrzebie trafiały na prywatne konta księdza Waldemara Cisły.",
+      "originalTitle": "\"Te pieniądze stanowiły zbyt dużą pokusę\". Kulisy działalności wpływowego księdza",
+      "originalDescription": "Te pieniądze stanowiły zbyt dużą pokusę, żeby przeznaczać je tylko na ten jeden cel - mówi w TVN24 dziennikarz \"Superwizjera\" Michał Fuja, współautor reportażu \"Miliony dla przyjaciela misji\". Razem z Joanną Rubin-Sobolewską sprawdzili, jak pieniądze przeznaczone dla organizacji Pomoc Kościołowi w Potrzebie trafiały na prywatne konta księdza Waldemara Cisły."
+    },
+    {
+      "title": "Zbiera się Rada Krajowa KO. Wybierze nowe władze",
+      "link": "https://tvn24.pl/polska/rada-krajowa-ko-kto-wiceprzewodniczacym-a-kto-moze-stracic-stanowisko-st8992813?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 06:31:02 GMT",
+      "description": "W sobotę Rada Krajowa Koalicji Obywatelskiej wybierze nowych partyjnych liderów, między innymi wiceprzewodniczących i sekretarza generalnego. Będzie to zwieńczenie zmian personalnych w partii po tym, jak PO połączyła się z Nowoczesną i Inicjatywą Polska.",
+      "originalTitle": "Zbiera się Rada Krajowa KO. Wybierze nowe władze",
+      "originalDescription": "W sobotę Rada Krajowa Koalicji Obywatelskiej wybierze nowych partyjnych liderów, między innymi wiceprzewodniczących i sekretarza generalnego. Będzie to zwieńczenie zmian personalnych w partii po tym, jak PO połączyła się z Nowoczesną i Inicjatywą Polska."
+    },
+    {
+      "title": "Władimir Putin marzy o nieśmiertelności. Ma mu ją dać własna córka",
+      "link": "https://tvn24.pl/swiat/rosja-wladimir-putin-marzy-o-niesmiertelnosci-pomagaja-mu-corki-woroncowa-i-tichonowa-st8989275?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 06:24:14 GMT",
+      "description": "Kwestia długości życia 73-letniego przywódcy Rosji Władimira Putina przestała być jego sprawą prywatną. To już część polityki państwa, w której jedną z głównych ról odgrywa jego starsza córka - endokrynolog Maria Woroncowa.",
+      "originalTitle": "Władimir Putin marzy o nieśmiertelności. Ma mu ją dać własna córka",
+      "originalDescription": "Kwestia długości życia 73-letniego przywódcy Rosji Władimira Putina przestała być jego sprawą prywatną. To już część polityki państwa, w której jedną z głównych ról odgrywa jego starsza córka - endokrynolog Maria Woroncowa."
+    },
+    {
+      "title": "Rozmowy pokojowe USA-Iran. Strona irańska stawia warunek",
+      "link": "https://tvn24.pl/swiat/rozmowy-pokojowe-usa-iran-iran-stawia-warunki-st8992716?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 05:32:13 GMT",
+      "description": "Przedstawiciele irańskiej delegaci przybyli w piątkowy wieczór do Islamabadu na rozmowy pokojowe z USA. Władze Iranu postawiły wcześniej dwa warunki, by rozmowy mogły się w ogóle rozpocząć. Wiadomo już, że jeden z nich nie zostanie spełniony.",
+      "originalTitle": "Rozmowy pokojowe USA-Iran. Strona irańska stawia warunek",
+      "originalDescription": "Przedstawiciele irańskiej delegaci przybyli w piątkowy wieczór do Islamabadu na rozmowy pokojowe z USA. Władze Iranu postawiły wcześniej dwa warunki, by rozmowy mogły się w ogóle rozpocząć. Wiadomo już, że jeden z nich nie zostanie spełniony."
+    },
+    {
+      "title": "Lecieli prawie 40 tysięcy kilometrów na godzinę. \"Tak się cieszyłem, słysząc jego głos\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/powrot-artemis-ii-lecieli-prawie-40-tysiecy-kilometrow-na-godzine-tak-sie-cieszylem-slyszac-jego-glos-st8992809?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 05:17:23 GMT",
+      "description": "Załoga misji Artemis II wróciła na Ziemię. Z tej okazji NASA zorganizowała konferencję prasową. W jej trakcie przytoczono najciekawsze dane dotyczące lotu, a menedżerowie misji podsumowali dotychczasowe osiągnięcia.",
+      "originalTitle": "Lecieli prawie 40 tysięcy kilometrów na godzinę. \"Tak się cieszyłem, słysząc jego głos\"",
+      "originalDescription": "Załoga misji Artemis II wróciła na Ziemię. Z tej okazji NASA zorganizowała konferencję prasową. W jej trakcie przytoczono najciekawsze dane dotyczące lotu, a menedżerowie misji podsumowali dotychczasowe osiągnięcia."
+    },
+    {
+      "title": "Były współpracownik Putina skazany na długoletnie więzienie",
+      "link": "https://tvn24.pl/swiat/rosja-byly-wspolpracownik-putina-skazany-na-dlugoletnie-wiezienie-st8992704?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 04:59:26 GMT",
+      "description": "Były współpracownik Władimira Putina, wiceminister obrony Paweł Popow został skazany za korupcję na 19 lat pozbawienia wolności",
+      "originalTitle": "Były współpracownik Putina skazany na długoletnie więzienie",
+      "originalDescription": "Były współpracownik Władimira Putina, wiceminister obrony Paweł Popow został skazany za korupcję na 19 lat pozbawienia wolności"
+    },
+    {
+      "title": "Ceny paliw w sobotę. Są nowe stawki",
+      "link": "https://tvn24.pl/biznes/pieniadze/ceny-paliw-w-sobote-11-kwietnia-2026-ile-kosztuja-na-stacjach-benzyna-i-diesel-pb95-pb98-on-st8991429?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 04:50:17 GMT",
+      "description": "Zgodnie z obwieszczeniem ministra energii w sprawie maksymalnych cen paliw - w sobotę na stacjach benzyna będzie tańsza, a olej napędowy droższy niż dzień wcześniej. Nowe stawki mają obowiązywać do poniedziałku włącznie.",
+      "originalTitle": "Ceny paliw w sobotę. Są nowe stawki",
+      "originalDescription": "Zgodnie z obwieszczeniem ministra energii w sprawie maksymalnych cen paliw - w sobotę na stacjach benzyna będzie tańsza, a olej napędowy droższy niż dzień wcześniej. Nowe stawki mają obowiązywać do poniedziałku włącznie."
+    },
+    {
+      "title": "Jacek Magiera nie żyje, finał misji Artemis II, nowy sondaż partyjny",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-w-sobote-11-kwietnia-najwazniejsze-informacje-st8992719?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 04:35:29 GMT",
+      "description": "Jacek Magiera nie żyje. Załoga kapsuły Orion wylądowała na ziemi. Sędziowie pojawili się w Trybunale Konstytucyjnym. Mamy też nowy sondaż partyjny. Oto sześć rzeczy, które warto wiedzieć w sobotę 11 kwietnia.",
+      "originalTitle": "Jacek Magiera nie żyje, finał misji Artemis II, nowy sondaż partyjny",
+      "originalDescription": "Jacek Magiera nie żyje. Załoga kapsuły Orion wylądowała na ziemi. Sędziowie pojawili się w Trybunale Konstytucyjnym. Mamy też nowy sondaż partyjny. Oto sześć rzeczy, które warto wiedzieć w sobotę 11 kwietnia."
+    },
+    {
+      "title": "\"Kluczowe pytanie\" wyborów 2027",
+      "link": "https://tvn24.pl/polska/wybory-parlamentarne-2027-ile-glosow-zdobedzie-grzegorz-braun-i-konfederacja-korony-polskiej-st8987547?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 04:20:15 GMT",
+      "description": "Za Grzegorzem Braunem idą głównie mężczyźni w wieku 35-64 lat. - Nie widzą, że jest przemocowy, tylko że jest odważny - mówi dr hab. Ewa Marciniak, dyrektorka CBOS. Przy nim Krzysztof Bosak i Sławomir Mentzen są niemal politykami centrum. Popierają ich \"wykształceni i zadowoleni\" z dużych miast - \"wypisz wymaluj wyborcy dawnej Platformy Obywatelskiej\". To co nas czeka w 2027 roku?",
+      "originalTitle": "\"Kluczowe pytanie\" wyborów 2027",
+      "originalDescription": "Za Grzegorzem Braunem idą głównie mężczyźni w wieku 35-64 lat. - Nie widzą, że jest przemocowy, tylko że jest odważny - mówi dr hab. Ewa Marciniak, dyrektorka CBOS. Przy nim Krzysztof Bosak i Sławomir Mentzen są niemal politykami centrum. Popierają ich \"wykształceni i zadowoleni\" z dużych miast - \"wypisz wymaluj wyborcy dawnej Platformy Obywatelskiej\". To co nas czeka w 2027 roku?"
+    },
+    {
+      "title": "Misja Artemis II. \"Była ogromna radość\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/misja-artemis-ii-powrot-astronautow-byla-ogromna-radosc-st8992804?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 03:09:24 GMT",
+      "description": "Wielka radość zapanowała po tym, jak astronauci z misji Artemis II wylądowali na Ziemi. Przed nimi dni wypełnione wieloma obowiązkami. O tym, co czeka astronautów, opowiadała Karolina Twardowska z Polskiego Towarzystwa Astromedycznego, a wrażeniami z centrum kontroli misji dzieliła się Anna Fogtman z Europejskiej Agencji Kosmicznej.",
+      "originalTitle": "Misja Artemis II. \"Była ogromna radość\"",
+      "originalDescription": "Wielka radość zapanowała po tym, jak astronauci z misji Artemis II wylądowali na Ziemi. Przed nimi dni wypełnione wieloma obowiązkami. O tym, co czeka astronautów, opowiadała Karolina Twardowska z Polskiego Towarzystwa Astromedycznego, a wrażeniami z centrum kontroli misji dzieliła się Anna Fogtman z Europejskiej Agencji Kosmicznej."
+    }
+  ]
 }
