@@ -1,8 +1,40 @@
 {
-  "lastUpdate": "2026-04-11T18:47:24.213Z",
+  "lastUpdate": "2026-04-11T19:17:46.628Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Temperatura mocno spadnie. Alarmy w 15 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-mroz-przymrozki-nawet-10-stopni-przy-gruncie-ostrzezenia-imgw-niemal-w-calej-polsce-st8992024?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 10:18:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. Alarmy obowiązują w 15 województwach. W części kraju temperatura przy gruncie może spaść nawet do -10 stopni.",
+      "originalTitle": "Temperatura mocno spadnie. Alarmy w 15 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami. Alarmy obowiązują w 15 województwach. W części kraju temperatura przy gruncie może spaść nawet do -10 stopni."
+    },
+    {
+      "title": "Kilka osób poszkodowanych w znanym parku rozrywki",
+      "link": "https://tvn24.pl/swiat/kilka-osob-poszkodowanych-w-znanym-parku-rozrywki-st8993593?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:52:47 GMT",
+      "description": "W wiedeńskim parku rozrywki Prater - jednej z najbardziej znanych atrakcji stolicy Austrii - doszło do wykolejenia się kolejki górskiej. Kilka osób doznało obrażeń. To kolejny wypadek w tym miejscu w ostatnich latach.",
+      "originalTitle": "Kilka osób poszkodowanych w znanym parku rozrywki",
+      "originalDescription": "W wiedeńskim parku rozrywki Prater - jednej z najbardziej znanych atrakcji stolicy Austrii - doszło do wykolejenia się kolejki górskiej. Kilka osób doznało obrażeń. To kolejny wypadek w tym miejscu w ostatnich latach."
+    },
+    {
+      "title": "Dwa tygodnie bez pociągów. Zaczynają się ogromne utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/linia-otwocka-ruch-kolejowy-otwock-wawer-wstrzymany-st8993059?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:49:04 GMT",
+      "description": "Od niedzieli na dwa tygodnie całkowicie wstrzymany będzie ruch pociągów między Otwockiem a Wawrem. Miasto przygotowano autobusy komunikacji zastępczej.",
+      "originalTitle": "Dwa tygodnie bez pociągów. Zaczynają się ogromne utrudnienia",
+      "originalDescription": "Od niedzieli na dwa tygodnie całkowicie wstrzymany będzie ruch pociągów między Otwockiem a Wawrem. Miasto przygotowano autobusy komunikacji zastępczej."
+    },
+    {
+      "title": "Trzaskowski: z Dudą była przynajmniej nić porozumienia",
+      "link": "https://tvn24.pl/polska/rafal-trzaskowski-o-prezydencie-z-andrzejem-duda-byla-przynajmniej-nic-porozumienia-st8993606?source=rss",
+      "pubDate": "Sat, 11 Apr 2026 18:20:47 GMT",
+      "description": "Jego (Nawrockiego - red.) jedynym celem i celem Kaczyńskiego, który mu to sufluje do ucha, jest to, żeby doprowadzić do totalnego chaosu - ocenił prezydent Warszawy Rafał Trzaskowski. Powiedział też, że w przeciwieństwie do obecnego prezydenta, z Andrzejem Dudą istniała \"nić porozumienia\" w kwestiach kluczowych dla Polski.",
+      "originalTitle": "Trzaskowski: z Dudą była przynajmniej nić porozumienia",
+      "originalDescription": "Jego (Nawrockiego - red.) jedynym celem i celem Kaczyńskiego, który mu to sufluje do ucha, jest to, żeby doprowadzić do totalnego chaosu - ocenił prezydent Warszawy Rafał Trzaskowski. Powiedział też, że w przeciwieństwie do obecnego prezydenta, z Andrzejem Dudą istniała \"nić porozumienia\" w kwestiach kluczowych dla Polski."
+    },
     {
       "title": "Co się dzieje w cieśninie Ormuz? USA: zaczęliśmy oczyszczanie",
       "link": "https://tvn24.pl/swiat/co-sie-dzieje-w-ciesninie-ormuz-usa-zaczelismy-oczyszczanie-st8993470?source=rss",
@@ -50,38 +82,6 @@
       "description": "Mama, babcia, prababcia. Emerytowana nauczycielka. Biegaczka, multimedalistka, tu wszystko jak najbardziej jest aktualne, choć wielkimi krokami zbliżają się 90. urodziny, a zdrowotnych problemów po drodze nie brakowało. - Do Sacramento poleciałam sama, nie mając tam dachu nad głową, z kartką napisaną po angielsku przez koleżankę - opowiada TVN24+ Janina Rosińska.",
       "originalTitle": "Ma 90 lat, rozrusznik serca i worek medali",
       "originalDescription": "Mama, babcia, prababcia. Emerytowana nauczycielka. Biegaczka, multimedalistka, tu wszystko jak najbardziej jest aktualne, choć wielkimi krokami zbliżają się 90. urodziny, a zdrowotnych problemów po drodze nie brakowało. - Do Sacramento poleciałam sama, nie mając tam dachu nad głową, z kartką napisaną po angielsku przez koleżankę - opowiada TVN24+ Janina Rosińska."
-    },
-    {
-      "title": "\"Owiane tajemnicą\" spotkania u Tuska. \"W tych ludzi inwestował miesiącami\"",
-      "link": "https://tvn24.pl/polska/konwencja-ko-donald-tusk-rozpoczal-swoja-kampanie-wyborcza-st8993500?source=rss",
-      "pubDate": "Sat, 11 Apr 2026 15:55:08 GMT",
-      "description": "Donald Tusk rozpoczął swoją kampanię wyborczą - tak sobotnią konwencję Koalicji Obywatelskiej komentowała w TVN24 Arleta Zalewska. Dziennikarka \"Faktów\" TVN i współautorka \"Podcastu politycznego\" podzieliła się też doniesieniami o \"owianych tajemnicą\" spotkaniach w partii.",
-      "originalTitle": "\"Owiane tajemnicą\" spotkania u Tuska. \"W tych ludzi inwestował miesiącami\"",
-      "originalDescription": "Donald Tusk rozpoczął swoją kampanię wyborczą - tak sobotnią konwencję Koalicji Obywatelskiej komentowała w TVN24 Arleta Zalewska. Dziennikarka \"Faktów\" TVN i współautorka \"Podcastu politycznego\" podzieliła się też doniesieniami o \"owianych tajemnicą\" spotkaniach w partii."
-    },
-    {
-      "title": "Pogoda. Prognoza długoterminowa IMGW na lato 2026",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-maj-czerwiec-lipiec-i-sierpien-2026-prognoza-dlugoterminowa-imgw-na-lato-i-wakacje-st8993519?source=rss",
-      "pubDate": "Sat, 11 Apr 2026 15:32:22 GMT",
-      "description": "Instytut Meteorologii i Gospodarki Wodnej przygotował długoterminową, eksperymentalną prognozę pogody na maj, czerwiec, lipiec i sierpień 2026. Sprawdź, jakie będą średnie opady i temperatura w nadchodzących wiosennych i letnich miesiącach według wyliczeń IMGW.",
-      "originalTitle": "Pogoda. Prognoza długoterminowa IMGW na lato 2026",
-      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej przygotował długoterminową, eksperymentalną prognozę pogody na maj, czerwiec, lipiec i sierpień 2026. Sprawdź, jakie będą średnie opady i temperatura w nadchodzących wiosennych i letnich miesiącach według wyliczeń IMGW."
-    },
-    {
-      "title": "Pogoda. Idzie ocieplenie. Jak długo potrwa",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-niz-tamina-idzie-ocieplenie-jak-dlugo-potrwa-bedzie-blisko-20-stopni-st8993488?source=rss",
-      "pubDate": "Sat, 11 Apr 2026 14:33:43 GMT",
-      "description": "Pogoda. Nadchodzące dni przyniosą większe ocieplenie, miejscami będzie prawie 20 stopni. Wyższa temperatura nie zostanie jednak z nami na długo. Pojawią się za to potrzebne opady deszczu.",
-      "originalTitle": "Pogoda. Idzie ocieplenie. Jak długo potrwa",
-      "originalDescription": "Pogoda. Nadchodzące dni przyniosą większe ocieplenie, miejscami będzie prawie 20 stopni. Wyższa temperatura nie zostanie jednak z nami na długo. Pojawią się za to potrzebne opady deszczu."
-    },
-    {
-      "title": "Rozmowy Iran - USA. Ruszyły negocjacje w Pakistanie",
-      "link": "https://tvn24.pl/swiat/rozmowy-pokojowe-usa-iran-w-pakistanie-strony-zasiadly-do-negocjacji-st8992716?source=rss",
-      "pubDate": "Sat, 11 Apr 2026 05:32:13 GMT",
-      "description": "Amerykańskie i irańskie źródła przekazały informację, że trójstronne rozmowy z udziałem Pakistanu już się rozpoczęły. Wcześniej wiceprezydent Stanów Zjednoczonych J.D. Vance spotkał się z premierem Pakistanu Shehbazem Sharifem. Korespondent \"Faktów\" TVN Maciej Woroch mówi o \"przełomowym momencie\".",
-      "originalTitle": "Rozmowy Iran - USA. Ruszyły negocjacje w Pakistanie",
-      "originalDescription": "Amerykańskie i irańskie źródła przekazały informację, że trójstronne rozmowy z udziałem Pakistanu już się rozpoczęły. Wcześniej wiceprezydent Stanów Zjednoczonych J.D. Vance spotkał się z premierem Pakistanu Shehbazem Sharifem. Korespondent \"Faktów\" TVN Maciej Woroch mówi o \"przełomowym momencie\"."
     }
   ]
 }
