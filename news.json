@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-13T16:30:22.867Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-13T17:26:56.207Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - wtorek, 14.04. Szykuje się deszczowy dzień w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-14-04-szykuje-sie-deszczowy-dzien-w-czesci-kraju-st8996201?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 17:13:14 GMT",
+      "description": "Pogoda na jutro, czyli na wtorek 14.04. Noc w części kraju wciąż będzie chłodna, miejscami chwyci mróz. Dzień zapowiada się z lokalnymi opadami deszczu, wszędzie powieje silniejszy wiatr.",
+      "originalTitle": "Pogoda na jutro - wtorek, 14.04. Szykuje się deszczowy dzień w części kraju",
+      "originalDescription": "Pogoda na jutro, czyli na wtorek 14.04. Noc w części kraju wciąż będzie chłodna, miejscami chwyci mróz. Dzień zapowiada się z lokalnymi opadami deszczu, wszędzie powieje silniejszy wiatr."
+    },
+    {
+      "title": "Śmierć 20-latka w szpitalu. Zarzuty dla pielęgniarki",
+      "link": "https://tvn24.pl/kielce/kielce-smierc-20-latka-w-szpitalu-zarzuty-dla-pielegniarki-st8996305?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 17:00:01 GMT",
+      "description": "Pielęgniarka usłyszała zarzuty w związku ze śmiercią 20-letniego pacjenta Centrum Zdrowia Psychicznego w Kielcach. To już siódma osoba oskarżona w tym śledztwie. Wcześniej zarzuty usłyszało sześcioro lekarzy.",
+      "originalTitle": "Śmierć 20-latka w szpitalu. Zarzuty dla pielęgniarki",
+      "originalDescription": "Pielęgniarka usłyszała zarzuty w związku ze śmiercią 20-letniego pacjenta Centrum Zdrowia Psychicznego w Kielcach. To już siódma osoba oskarżona w tym śledztwie. Wcześniej zarzuty usłyszało sześcioro lekarzy."
+    },
+    {
+      "title": "Trump: blokada się zaczęła",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-usa-ciesnina-ormuz-donald-trump-blokada-zaczela-sie-st8996161?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 14:44:51 GMT",
+      "description": "Donald Trump poinformował, że amerykańska blokada cieśniny Ormuz się zaczęła. Wcześniej prezydent USA ostrzegł, że irańskie okręty zbliżające się do blokady zostaną \"natychmiast wyeliminowane\".",
+      "originalTitle": "Trump: blokada się zaczęła",
+      "originalDescription": "Donald Trump poinformował, że amerykańska blokada cieśniny Ormuz się zaczęła. Wcześniej prezydent USA ostrzegł, że irańskie okręty zbliżające się do blokady zostaną \"natychmiast wyeliminowane\"."
+    },
+    {
+      "title": "\"Gigant z Wall Street\" na fali. Wielki debiut dopiero na horyzoncie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/goldman-sachs-gigant-z-wall-street-na-fali-a-wielki-debiut-dopiero-na-horyzoncie-st8995901?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 16:31:48 GMT",
+      "description": "Goldman Sachs odnotował wyraźny wzrost zysku w pierwszym kwartale tego roku - przekazał Reuters. Wynikom jednej z najbardziej wpływowych instytucji świata bankowości pomogła doskonała koniunktura w obszarze transakcji oraz handlu akcjami.",
+      "originalTitle": "\"Gigant z Wall Street\" na fali. Wielki debiut dopiero na horyzoncie",
+      "originalDescription": "Goldman Sachs odnotował wyraźny wzrost zysku w pierwszym kwartale tego roku - przekazał Reuters. Wynikom jednej z najbardziej wpływowych instytucji świata bankowości pomogła doskonała koniunktura w obszarze transakcji oraz handlu akcjami."
+    },
+    {
+      "title": "Tłumy na przystankach i w autobusach. Linia otwocka bez pociągów",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/linia-otwocka-bez-pociagow-tlumy-na-przystankach-i-w-autobusach-st8994912?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 06:43:23 GMT",
+      "description": "Poniedziałek to pierwszy dzień roboczy bez pociągów na linii otwockiej. W porannym i popołudniowym szczycie sytuację w Otwocku i Wawrze obserwowali reporterzy tvnwarszawa.pl.",
+      "originalTitle": "Tłumy na przystankach i w autobusach. Linia otwocka bez pociągów",
+      "originalDescription": "Poniedziałek to pierwszy dzień roboczy bez pociągów na linii otwockiej. W porannym i popołudniowym szczycie sytuację w Otwocku i Wawrze obserwowali reporterzy tvnwarszawa.pl."
+    },
+    {
+      "title": "Erupcja wulkanu na japońskiej wyspie. \"Pierwszy raz spadł na mnie popiół\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/erupcja-wulkanu-sakurajima-na-japonskiej-wyspie-pierwszy-raz-spadl-na-mnie-popiol-st8996078?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 16:00:28 GMT",
+      "description": "Na japońskiej wyspie Kiusiu w weekend przebudził się wulkan Sakurajima. W powietrze na wysokość kilku kilometrów wzbiła się kolumna dymu i popiołu. Erupcja była nie lada wydarzeniem dla turystów, którzy doświadczyli jej po raz pierwszy.",
+      "originalTitle": "Erupcja wulkanu na japońskiej wyspie. \"Pierwszy raz spadł na mnie popiół\"",
+      "originalDescription": "Na japońskiej wyspie Kiusiu w weekend przebudził się wulkan Sakurajima. W powietrze na wysokość kilku kilometrów wzbiła się kolumna dymu i popiołu. Erupcja była nie lada wydarzeniem dla turystów, którzy doświadczyli jej po raz pierwszy."
+    },
+    {
+      "title": "\"Został prawie wskrzeszony\". Po szpitalu nie miał gdzie wrócić",
+      "link": "https://tvn24.pl/lodz/lodz-uratowali-pacjenta-w-skrajnej-hipotermii-pomogli-mu-tez-znalezc-lokum-st8995518?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 15:59:02 GMT",
+      "description": "Pan Tomasz był w stanie skrajnej hipotermii, dzięki walce lekarzy wrócił do żywych. Medycy ze Szpitala im. Kopernika w Łodzi nie tylko go wyleczyli. Poszli o krok dalej.",
+      "originalTitle": "\"Został prawie wskrzeszony\". Po szpitalu nie miał gdzie wrócić",
+      "originalDescription": "Pan Tomasz był w stanie skrajnej hipotermii, dzięki walce lekarzy wrócił do żywych. Medycy ze Szpitala im. Kopernika w Łodzi nie tylko go wyleczyli. Poszli o krok dalej."
+    },
+    {
+      "title": "Z taką flagą występował również Magyar. Co oznacza wycięte koło?",
+      "link": "https://tvn24.pl/swiat/wegry-z-taka-flaga-wystepowal-rowniez-peter-magyar-co-oznacza-wyciete-kolo-st8996239?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 15:55:10 GMT",
+      "description": "Peter Magyar, przywódca zwycięskiej partii TISZA, na zdjęciu z węgierską flagą z wyciętym okręgiem? To nie fotomontaż, ale świadome nawiązanie do historii kraju. Co usuwano z flagi i dlaczego?",
+      "originalTitle": "Z taką flagą występował również Magyar. Co oznacza wycięte koło?",
+      "originalDescription": "Peter Magyar, przywódca zwycięskiej partii TISZA, na zdjęciu z węgierską flagą z wyciętym okręgiem? To nie fotomontaż, ale świadome nawiązanie do historii kraju. Co usuwano z flagi i dlaczego?"
+    },
+    {
+      "title": "Odpalił e-papierosa w samolocie, po wylądowaniu miał problemy",
+      "link": "https://tvn24.pl/krakow/krakow-odpalil-e-papierosa-w-samolocie-po-wyladowaniu-mial-problemy-st8996063?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 15:47:23 GMT",
+      "description": "Straż Graniczna zatrzymała na lotnisku w krakowskich Balicach Francuza, który przyleciał do Polski. O interwencję poprosił kapitan samolotu, ponieważ mężczyzna odpalił na pokładzie e-papierosa i był agresywny. Wśród zatrzymanych znaleźli się również Brytyjczyk oraz Polak, który był poszukiwany przez policję.",
+      "originalTitle": "Odpalił e-papierosa w samolocie, po wylądowaniu miał problemy",
+      "originalDescription": "Straż Graniczna zatrzymała na lotnisku w krakowskich Balicach Francuza, który przyleciał do Polski. O interwencję poprosił kapitan samolotu, ponieważ mężczyzna odpalił na pokładzie e-papierosa i był agresywny. Wśród zatrzymanych znaleźli się również Brytyjczyk oraz Polak, który był poszukiwany przez policję."
+    },
+    {
+      "title": "Zaskoczenie w Niemczech. Padł rekord",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ceny-paliw-niemcy-zaskoczenie-na-stacjach-benzynowych-padl-rekord-st8996065?source=rss",
+      "pubDate": "Mon, 13 Apr 2026 15:39:50 GMT",
+      "description": "Po kilku dniach obniżek ceny paliw w Niemczech ponownie wzrosły. Benzyna i olej napędowy podrożały o około 12 eurocentów za litr. To największy wzrost notowany od czasu wprowadzenia przepisów ograniczających liczbę podwyżek na stacjach do jednej dziennie.",
+      "originalTitle": "Zaskoczenie w Niemczech. Padł rekord",
+      "originalDescription": "Po kilku dniach obniżek ceny paliw w Niemczech ponownie wzrosły. Benzyna i olej napędowy podrożały o około 12 eurocentów za litr. To największy wzrost notowany od czasu wprowadzenia przepisów ograniczających liczbę podwyżek na stacjach do jednej dziennie."
+    }
+  ]
 }
