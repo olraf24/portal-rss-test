@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-14T20:47:50.306Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-14T21:20:18.970Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Bielan po spotkaniu kierownictwa PiS: Przyszłość Morawieckiego? Świetlana",
+      "link": "https://tvn24.pl/polska/spotkanie-kierownictwa-pis-przy-nowogrodzkiej-adam-bielan-komentuje-st8998431?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 20:10:40 GMT",
+      "description": "Mateusz Morawiecki ma przed sobą \"świetlaną przyszłość\" - ocenił po spotkaniu kierownictwa Prawa i Sprawiedliwości europoseł tej partii Adam Bielan. Powiedział, że były premier miał \"bardzo dobre wystąpienie\", podobnie jak Przemysław Czarnek.",
+      "originalTitle": "Bielan po spotkaniu kierownictwa PiS: Przyszłość Morawieckiego? Świetlana",
+      "originalDescription": "Mateusz Morawiecki ma przed sobą \"świetlaną przyszłość\" - ocenił po spotkaniu kierownictwa Prawa i Sprawiedliwości europoseł tej partii Adam Bielan. Powiedział, że były premier miał \"bardzo dobre wystąpienie\", podobnie jak Przemysław Czarnek."
+    },
+    {
+      "title": "\"Jesteśmy po tej samej stronie równania\". Izrael i Liban negocjują w Waszyngtonie",
+      "link": "https://tvn24.pl/swiat/rozmowy-izrael-liban-delegacje-spotkaly-sie-w-waszyngtonie-st8998282?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 19:33:21 GMT",
+      "description": "We wtorek w Waszyngtonie odbyły się rozmowy pokojowe pomiędzy Izraelem a Libanem pod przewodnictwem sekretarza stanu USA Marka Rubio. Po ich zakończeniu delegacja Izraela podkreśliła, że Tel Awiw i Bejrut \"stoją po tej samej stronie\" przeciwko Hezbollahowi. Trwający konflikt Izraela z Libanem jest kluczowy w kontekście negocjacji USA z Iranem.",
+      "originalTitle": "\"Jesteśmy po tej samej stronie równania\". Izrael i Liban negocjują w Waszyngtonie",
+      "originalDescription": "We wtorek w Waszyngtonie odbyły się rozmowy pokojowe pomiędzy Izraelem a Libanem pod przewodnictwem sekretarza stanu USA Marka Rubio. Po ich zakończeniu delegacja Izraela podkreśliła, że Tel Awiw i Bejrut \"stoją po tej samej stronie\" przeciwko Hezbollahowi. Trwający konflikt Izraela z Libanem jest kluczowy w kontekście negocjacji USA z Iranem."
+    },
+    {
+      "title": "Podmienił w sklepie buty, będzie musiał opuścić Polskę",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-zamienil-buty-musi-opuscic-polske-st8998406?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 19:21:34 GMT",
+      "description": "Jeden z klientów sklepu w Ostrołęce przełożył droższe buty do opakowania po tańszych. Zauważyli to pracownicy ochrony. \"Okazało się, że ma on już na sumieniu inne kradzieże sklepowe\" - podała policja. Teraz będzie musiał opuścić Polskę.",
+      "originalTitle": "Podmienił w sklepie buty, będzie musiał opuścić Polskę",
+      "originalDescription": "Jeden z klientów sklepu w Ostrołęce przełożył droższe buty do opakowania po tańszych. Zauważyli to pracownicy ochrony. \"Okazało się, że ma on już na sumieniu inne kradzieże sklepowe\" - podała policja. Teraz będzie musiał opuścić Polskę."
+    },
+    {
+      "title": "USA. Tornada i gradobicia. \"To wyglądało jak strefa wojny\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/grad-wielkosci-kurzych-jaj-i-traby-powietrze-a-najgorsze-jeszcze-przed-nimi-st8996571?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 09:41:49 GMT",
+      "description": "Pogoda w części Stanów Zjednoczonych była i będzie niebezpieczna. W niektórych stanach pojawiły się trąby powietrzne i duże gradobicia. Synoptycy ostrzegają przed wielodniową burzą, prognozowane są ulewy i silny wiatr. Istnieje ryzyko wystąpienia kolejnych tornad i powodzi.",
+      "originalTitle": "USA. Tornada i gradobicia. \"To wyglądało jak strefa wojny\"",
+      "originalDescription": "Pogoda w części Stanów Zjednoczonych była i będzie niebezpieczna. W niektórych stanach pojawiły się trąby powietrzne i duże gradobicia. Synoptycy ostrzegają przed wielodniową burzą, prognozowane są ulewy i silny wiatr. Istnieje ryzyko wystąpienia kolejnych tornad i powodzi."
+    },
+    {
+      "title": "Nie mieszkali razem, ale przychodził często i się nad nią znęcał",
+      "link": "https://tvn24.pl/tvnwarszawa/zoliborz/zoliborz-przemoc-wobec-kobiet-nie-mieszkali-razem-ale-przychodzil-czesto-i-sie-nad-nia-znecal-st8998417?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 19:05:28 GMT",
+      "description": "Policjanci interweniowali w jednym z mieszkań, gdzie doszło do awantury. Kobietę z obrażeniami twarzy przewieźli do szpitala. Mężczyznę zatrzymali, usłyszał już zarzuty.",
+      "originalTitle": "Nie mieszkali razem, ale przychodził często i się nad nią znęcał",
+      "originalDescription": "Policjanci interweniowali w jednym z mieszkań, gdzie doszło do awantury. Kobietę z obrażeniami twarzy przewieźli do szpitala. Mężczyznę zatrzymali, usłyszał już zarzuty."
+    },
+    {
+      "title": "Poseł PiS: prezes Kaczyński popełnił błąd",
+      "link": "https://tvn24.pl/polska/posel-pis-o-wypowiedzi-jaroslawa-kaczynskiego-na-temat-petera-magyara-popelnil-blad-st8998368?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 19:04:06 GMT",
+      "description": "Jarosław Kaczyński popełnił błąd - powiedział w \"Faktach po Faktach\" poseł PiS Szymon Szynkowski vel Sęk, odnosząc się do wtorkowej wypowiedzi prezesa swojej partii na temat Petera Magyara, w której Kaczyński powielił nieprawdziwą informację na temat lidera węgierskiej Tiszy. - Mówiąc kolokwialnie: chyba otoczenie czyta mu internet - skomentował poseł KO Konrad Frysztak.",
+      "originalTitle": "Poseł PiS: prezes Kaczyński popełnił błąd",
+      "originalDescription": "Jarosław Kaczyński popełnił błąd - powiedział w \"Faktach po Faktach\" poseł PiS Szymon Szynkowski vel Sęk, odnosząc się do wtorkowej wypowiedzi prezesa swojej partii na temat Petera Magyara, w której Kaczyński powielił nieprawdziwą informację na temat lidera węgierskiej Tiszy. - Mówiąc kolokwialnie: chyba otoczenie czyta mu internet - skomentował poseł KO Konrad Frysztak."
+    },
+    {
+      "title": "Kupili mieszkania, wprowadzili się i mogą je stracić. Urzędnicy \"powzięli wątpliwość\"",
+      "link": "https://tvn24.pl/polska/nowa-iwiczna-kupili-mieszkania-wprowadzili-sie-i-moga-je-stracic-bo-urzednicy-nabrali-watpliwosci-st8992293?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 18:52:54 GMT",
+      "description": "Jedni kupili mieszkania w nowo powstającym bloku i tuż przed odbiorem dowiedzieli się, że nie dostaną kluczy. Inni zamieszkali w gotowym budynku i boją się, że mogą wkrótce stracić dach nad głową. To dlatego, że urzędy zaczęły kwestionować decyzje, na podstawie których deweloper zbudował osiedle.",
+      "originalTitle": "Kupili mieszkania, wprowadzili się i mogą je stracić. Urzędnicy \"powzięli wątpliwość\"",
+      "originalDescription": "Jedni kupili mieszkania w nowo powstającym bloku i tuż przed odbiorem dowiedzieli się, że nie dostaną kluczy. Inni zamieszkali w gotowym budynku i boją się, że mogą wkrótce stracić dach nad głową. To dlatego, że urzędy zaczęły kwestionować decyzje, na podstawie których deweloper zbudował osiedle."
+    },
+    {
+      "title": "Żurek napisał do węgierskich ministrów. W sprawie Ziobry i Romanowskiego",
+      "link": "https://tvn24.pl/polska/wegry-minister-sprawiedliwosci-napisal-do-wladz-ws-zbigniewa-ziobry-i-marcina-romanowskiego-st8998385?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 18:50:09 GMT",
+      "description": "Minister sprawiedliwości Waldemar Żurek skierował do węgierskich ministrów dwa pisma dotyczące Zbigniewa Ziobry i Marcina Romanowskiego. Dwaj politycy PiS uciekli na Węgry przed polskim wymiarem sprawiedliwości.",
+      "originalTitle": "Żurek napisał do węgierskich ministrów. W sprawie Ziobry i Romanowskiego",
+      "originalDescription": "Minister sprawiedliwości Waldemar Żurek skierował do węgierskich ministrów dwa pisma dotyczące Zbigniewa Ziobry i Marcina Romanowskiego. Dwaj politycy PiS uciekli na Węgry przed polskim wymiarem sprawiedliwości."
+    },
+    {
+      "title": "Amerykańskie firmy w dołku. Najgorsze dane od niemal roku",
+      "link": "https://tvn24.pl/biznes/ze-swiata/amerykanskie-przedsiebiorstwa-w-dolku-najgorsze-dane-od-niemal-roku-st8998115?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 18:48:08 GMT",
+      "description": "Nastroje wśród małych przedsiębiorstw w Stanach Zjednoczonych spadły w marcu do najniższego poziomu od 11 miesięcy. Wzrost cen ropy, wywołany wojną z Iranem, przyćmił korzyści płynące z niskich podatków - podał Reuters, powołując się na dane Krajowej Federacji Niezależnego Biznesu (NFIB).",
+      "originalTitle": "Amerykańskie firmy w dołku. Najgorsze dane od niemal roku",
+      "originalDescription": "Nastroje wśród małych przedsiębiorstw w Stanach Zjednoczonych spadły w marcu do najniższego poziomu od 11 miesięcy. Wzrost cen ropy, wywołany wojną z Iranem, przyćmił korzyści płynące z niskich podatków - podał Reuters, powołując się na dane Krajowej Federacji Niezależnego Biznesu (NFIB)."
+    },
+    {
+      "title": "Prezydent Nawrocki \"postawił na przegranego konia i będzie ponosił tego konsekwencje\"",
+      "link": "https://tvn24.pl/polska/wybory-na-wegrzech-tomasz-siemoniak-o-wsparciu-karola-nawrockiego-i-pis-dla-viktora-orbana-st8998372?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 18:45:50 GMT",
+      "description": "Niepojęte, że można w taki sposób się zachować, bo to był wybór między kandydatem Putina i kandydatem w interesie Polski - powiedział w \"Kropce nad i\" w TVN24 koordynator służb specjalnych Tomasz Siemoniak, komentując decyzję Karola Nawrockiego o wsparciu premiera Viktora Orbana przed przegranymi przez niego wyborami na Węgrzech. Mówił też o roli, jaką na ostatniej prostej kampanii odegrały doniesienia o kontaktach szefa węgierskiego MSZ z Kremlem.",
+      "originalTitle": "Prezydent Nawrocki \"postawił na przegranego konia i będzie ponosił tego konsekwencje\"",
+      "originalDescription": "Niepojęte, że można w taki sposób się zachować, bo to był wybór między kandydatem Putina i kandydatem w interesie Polski - powiedział w \"Kropce nad i\" w TVN24 koordynator służb specjalnych Tomasz Siemoniak, komentując decyzję Karola Nawrockiego o wsparciu premiera Viktora Orbana przed przegranymi przez niego wyborami na Węgrzech. Mówił też o roli, jaką na ostatniej prostej kampanii odegrały doniesienia o kontaktach szefa węgierskiego MSZ z Kremlem."
+    }
+  ]
 }
