@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-14T12:25:59.655Z",
+  "lastUpdate": "2026-04-14T12:51:18.004Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Nieopowiedziana historia mózgu: astrocyty w roli głównej",
+      "link": "https://dzienniknaukowy.pl/nieopowiedziana-historia-mozgu-astrocyty-w-roli-glownej",
+      "pubDate": "Tue, 14 Apr 2026 12:32:36 +0000",
+      "description": "Przez ponad sto lat uważano, że mózg należy do neuronów. Dziś naukowcy odkrywają, że kluczową rolę mogą odgrywać także inne komórki – astrocyty. Badacze przyglądają się ich funkcjom i znaczeniu w chorobach takich jak depresja czy choroba Alzheimera."
+    },
     {
       "title": "W Tatrach odkryto nowy gatunek grzyba",
       "link": "https://dzienniknaukowy.pl/w-tatrach-odkryto-nowy-gatunek-grzyba",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/powstaje-nowoczesna-infrastruktura-kwantowa-laczaca-niemcy-polske-i-czechy",
       "pubDate": "Wed, 08 Apr 2026 11:04:36 +0000",
       "description": "W marcu ruszył projekt QKD Network Germany-Poland-Czechia, który zakłada stworzenie bezpiecznej, odpornej na ataki infrastruktury kwantowej (QCI), która połączy trzy państwa naszego regionu. Będzie to pierwsza w Europie Środkowej tak rozbudowana międzynarodowa sieć wykorzystująca Quantum Key Distribution (QKD) – technologię generowania i dystrybucji kluczy kryptograficznych, odporną nawet na przyszłe zagrożenia wynikające z użycia komputerów kwantowych. Inicjatywa wzmacnia cyberbezpieczeństwo państw, zapewniając bezpieczną komunikację pomiędzy instytucjami publicznymi, operatorami infrastruktury krytycznej, sektorem naukowym i centrami danych. Jednym z partnerów projektu jest Ośrodek Przetwarzania Informacji (OPI)."
-    },
-    {
-      "title": "Polscy naukowcy opisali kluczowy mechanizm transportu enzymów u groźnego pasożyta",
-      "link": "https://dzienniknaukowy.pl/polscy-naukowcy-opisali-kluczowy-mechanizm-transportu-enzymow-u-groznego-pasozyta",
-      "pubDate": "Tue, 07 Apr 2026 11:23:06 +0000",
-      "description": "Naukowcy z Małopolskiego Centrum Biotechnologii Uniwersytetu Jagiellońskiego po raz pierwszy pokazali, że kluczowy system transportu enzymów w komórkach pasożyta Trypanosoma cruzi działa w sposób bardziej złożony, niż dotąd sądzono. To istotny krok w zrozumieniu mechanizmu niezbędnego do przeżycia pasożyta. Wyniki badań opublikowano w prestiżowym czasopiśmie „Nature Communications”."
     }
   ]
 }
