@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-15T17:53:25.643Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-15T18:29:16.519Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Cezary Tomczyk o żądaniach Sławomira Cenckiewicza: absurdalne",
+      "link": "https://tvn24.pl/polska/cezary-tomczyk-o-zadaniach-slawomira-cenckiewicza-absurdalne-st9000079?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 18:14:06 GMT",
+      "description": "Pan Cenckiewicz podlega jurysdykcji Agencji Bezpieczeństwa Wewnętrznego i myślę, że to postępowanie kontrolne po prostu będzie trwać - ocenił w \"Faktach po Faktach\" w TVN24 wiceminister obrony narodowej Cezary Tomczyk.",
+      "originalTitle": "Cezary Tomczyk o żądaniach Sławomira Cenckiewicza: absurdalne",
+      "originalDescription": "Pan Cenckiewicz podlega jurysdykcji Agencji Bezpieczeństwa Wewnętrznego i myślę, że to postępowanie kontrolne po prostu będzie trwać - ocenił w \"Faktach po Faktach\" w TVN24 wiceminister obrony narodowej Cezary Tomczyk."
+    },
+    {
+      "title": "Dziewięć statków zawróconych. Tak USA blokują cieśninę Ormuz",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ciesnina-ormuz-zablokowana-przez-usa-dziewiec-statkow-zawroconych-st9000098?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 17:57:37 GMT",
+      "description": "Dowództwo Centralne USA poinformowało w środę, że w ciągu pierwszych dwóch dób amerykańskiej blokady irańskich portów żaden statek jej nie przełamał. Natomiast dziewięć jednostek płynących z Iranu lub do niego zawrócono na polecenie sił USA.",
+      "originalTitle": "Dziewięć statków zawróconych. Tak USA blokują cieśninę Ormuz",
+      "originalDescription": "Dowództwo Centralne USA poinformowało w środę, że w ciągu pierwszych dwóch dób amerykańskiej blokady irańskich portów żaden statek jej nie przełamał. Natomiast dziewięć jednostek płynących z Iranu lub do niego zawrócono na polecenie sił USA."
+    },
+    {
+      "title": "Pogoda na jutro - czwartek, 16.04. Noc przyniesie zamglenia i mgły",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-16-04-noc-przyniesie-zamglenia-i-mgly-st8999950?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 17:35:11 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek, 16.04. Najbliższa noc zapowiada się mgliście - w niektórych miejscach widzialność może spaść do zaledwie 100 metrów. W części kraju niewykluczony jest deszcz. Mgły i opady spodziewane są także w dzień.",
+      "originalTitle": "Pogoda na jutro - czwartek, 16.04. Noc przyniesie zamglenia i mgły",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 16.04. Najbliższa noc zapowiada się mgliście - w niektórych miejscach widzialność może spaść do zaledwie 100 metrów. W części kraju niewykluczony jest deszcz. Mgły i opady spodziewane są także w dzień."
+    },
+    {
+      "title": "Auto na dachu, kierowca uciekł. Wpadł, bo przyszedł sprawdzić trzeźwość",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/grodzisk-mazowiecki-wpadl-bo-przyszedl-na-komisariat-sprawdzic-czy-jest-trzezwy-st9000056?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 17:26:20 GMT",
+      "description": "Przyszedł na komendę w Grodzisku Mazowieckim sprawdzić stan trzeźwości i miał 0,7 promila alkoholu w organizmie. Okazało się, że chwilę wcześniej jego auto dachowało, a on uciekł z miejsca zdarzenia. Kierowca został zatrzymany.",
+      "originalTitle": "Auto na dachu, kierowca uciekł. Wpadł, bo przyszedł sprawdzić trzeźwość",
+      "originalDescription": "Przyszedł na komendę w Grodzisku Mazowieckim sprawdzić stan trzeźwości i miał 0,7 promila alkoholu w organizmie. Okazało się, że chwilę wcześniej jego auto dachowało, a on uciekł z miejsca zdarzenia. Kierowca został zatrzymany."
+    },
+    {
+      "title": "Rachunek na blisko 60 miliardów dolarów na naprawę infrastruktury energetycznej",
+      "link": "https://tvn24.pl/biznes/ze-swiata/bliski-wschod-rachunek-za-naprawe-infrastruktury-energetycznej-wyniesie-58-miliardow-dolarow-st8999991?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 17:25:19 GMT",
+      "description": "Koszt naprawy zniszczonej infrastruktury energetycznej na Bliskim Wschodzie może wynieść nawet 58 miliardów dolarów - informuje w środę Reuters i zaznacza, że lwią część tej kwoty pochłoną obiekty naftowe i gazowe.",
+      "originalTitle": "Rachunek na blisko 60 miliardów dolarów na naprawę infrastruktury energetycznej",
+      "originalDescription": "Koszt naprawy zniszczonej infrastruktury energetycznej na Bliskim Wschodzie może wynieść nawet 58 miliardów dolarów - informuje w środę Reuters i zaznacza, że lwią część tej kwoty pochłoną obiekty naftowe i gazowe."
+    },
+    {
+      "title": "Polska poderwała myśliwce",
+      "link": "https://tvn24.pl/polska/polska-poderwala-mysliwce-w-zwiazku-z-atakiem-rosji-na-ukraine-st9000089?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 17:22:30 GMT",
+      "description": "W związku z atakiem Rosji na Ukrainę poderwane zostały polskie myśliwce - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. \"Działania te mają charakter prewencyjny\" - napisano w komunikacie. Dwa lotniska wstrzymały loty. Sprawę komentował w TVN24 wiceszef MON Cezary Tomczyk.",
+      "originalTitle": "Polska poderwała myśliwce",
+      "originalDescription": "W związku z atakiem Rosji na Ukrainę poderwane zostały polskie myśliwce - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. \"Działania te mają charakter prewencyjny\" - napisano w komunikacie. Dwa lotniska wstrzymały loty. Sprawę komentował w TVN24 wiceszef MON Cezary Tomczyk."
+    },
+    {
+      "title": "Jest nadzieja dla Timmy'ego. Władze zatwierdziły nowy plan ratunkowy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/niemcy-humbak-timmy-jest-nadzieja-dla-zwierzecia-wladze-zatwierdzily-nowy-plan-ratunkowy-st8999984?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 17:04:41 GMT",
+      "description": "Władze postanowiły dać jeszcze jedną szansę na uratowanie humbaka Timmy'ego. Lokalny minister środowiska zaakceptował plan przedstawiony przez podmioty prywatne, który ma pozwolić na przetransportowanie zwierzęcia na głębsze wody.",
+      "originalTitle": "Jest nadzieja dla Timmy'ego. Władze zatwierdziły nowy plan ratunkowy",
+      "originalDescription": "Władze postanowiły dać jeszcze jedną szansę na uratowanie humbaka Timmy'ego. Lokalny minister środowiska zaakceptował plan przedstawiony przez podmioty prywatne, który ma pozwolić na przetransportowanie zwierzęcia na głębsze wody."
+    },
+    {
+      "title": "Zatrzymali ojca z dwoma synami. Wszyscy byli poszukiwani",
+      "link": "https://tvn24.pl/trojmiasto/pruszcz-gdansk-zatrzymali-ojca-z-dwoma-synami-wszyscy-byli-poszukiwani-st9000057?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 16:58:15 GMT",
+      "description": "Policjanci zatrzymali 40-letniego mężczyznę i jego dwóch synów: 16-latka i 15-latka. Ojciec był poszukiwany listem gończym i miał przy sobie narkotyki. Jego synowie, decyzją sądu, mieli być z kolei doprowadzeni do ośrodka wychowawczego.",
+      "originalTitle": "Zatrzymali ojca z dwoma synami. Wszyscy byli poszukiwani",
+      "originalDescription": "Policjanci zatrzymali 40-letniego mężczyznę i jego dwóch synów: 16-latka i 15-latka. Ojciec był poszukiwany listem gończym i miał przy sobie narkotyki. Jego synowie, decyzją sądu, mieli być z kolei doprowadzeni do ośrodka wychowawczego."
+    },
+    {
+      "title": "\"Stop rzezi dzików\". Protest przed ratuszem",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-protest-obroncow-dzikow-przed-ratuszem-st9000015?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 16:54:57 GMT",
+      "description": "W środę przed warszawskim ratuszem odbył się protest przeciwko odstrzałowi dzików w stolicy. To pokłosie ostatnich wydarzeń, podczas których mieszkańcy byli świadkami uśmiercania dzikich zwierząt w mieście. Protestujący domagali się powołania grupy ekspertów i alternatywnych metod redukcji dzików.",
+      "originalTitle": "\"Stop rzezi dzików\". Protest przed ratuszem",
+      "originalDescription": "W środę przed warszawskim ratuszem odbył się protest przeciwko odstrzałowi dzików w stolicy. To pokłosie ostatnich wydarzeń, podczas których mieszkańcy byli świadkami uśmiercania dzikich zwierząt w mieście. Protestujący domagali się powołania grupy ekspertów i alternatywnych metod redukcji dzików."
+    },
+    {
+      "title": "Nagrody dla turystów. Władze europejskiej stolicy szykują nowy program",
+      "link": "https://tvn24.pl/biznes/turystyka/niemcy-wladze-beda-nagradzac-turystow-st8999818?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 16:32:12 GMT",
+      "description": "Już od nadchodzącego lata turyści odwiedzający Berlin będą mogli otrzymywać drobne nagrody za proekologiczne zachowania takie jak zbieranie śmieci czy wybieranie przyjaznych środowisku form transportu - podała agencja Visit Berlin, zajmująca się promocją turystyki w niemieckiej stolicy.",
+      "originalTitle": "Nagrody dla turystów. Władze europejskiej stolicy szykują nowy program",
+      "originalDescription": "Już od nadchodzącego lata turyści odwiedzający Berlin będą mogli otrzymywać drobne nagrody za proekologiczne zachowania takie jak zbieranie śmieci czy wybieranie przyjaznych środowisku form transportu - podała agencja Visit Berlin, zajmująca się promocją turystyki w niemieckiej stolicy."
+    }
+  ]
 }
