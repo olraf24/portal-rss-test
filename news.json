@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-15T07:36:19.894Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-15T08:38:40.015Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Naczelnik OSP zginął w wypadku. \"Jechał do wezwania\"",
+      "link": "https://tvn24.pl/krakow/biskupice-naczelnik-osp-zginal-w-wypadku-strazacy-wlacza-syreny-st8998764?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 08:28:37 GMT",
+      "description": "We wtorkowym wypadku w Biskupicach pod Krakowem zginął naczelnik OSP w Trąbkach. Jak poinformował rzecznik małopolskich strażaków, 35-latek jechał do wezwania dotyczącego pożaru traw.",
+      "originalTitle": "Naczelnik OSP zginął w wypadku. \"Jechał do wezwania\"",
+      "originalDescription": "We wtorkowym wypadku w Biskupicach pod Krakowem zginął naczelnik OSP w Trąbkach. Jak poinformował rzecznik małopolskich strażaków, 35-latek jechał do wezwania dotyczącego pożaru traw."
+    },
+    {
+      "title": "Prezydent podpisał nominacje oficerskie. \"Lepiej późno niż wcale\"",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-podpisal-nominacje-oficerskie-dla-funkcjonariuszy-abw-st8998558?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 05:52:10 GMT",
+      "description": "Prezydent Karol Nawrocki podpisał 96 nominacji oficerskich dla funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego i nadał odznaczenia państwowe. \"Wyrażam nadzieję, że nominacje oficerskie nigdy już nie będą elementem politycznych gier\" - skomentował minister do spraw koordynacji służb specjalnych Tomasz Siemoniak. Podkreślił, że funkcjonariusze \"od listopada czekali na decyzję prezydenta\".",
+      "originalTitle": "Prezydent podpisał nominacje oficerskie. \"Lepiej późno niż wcale\"",
+      "originalDescription": "Prezydent Karol Nawrocki podpisał 96 nominacji oficerskich dla funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego i nadał odznaczenia państwowe. \"Wyrażam nadzieję, że nominacje oficerskie nigdy już nie będą elementem politycznych gier\" - skomentował minister do spraw koordynacji służb specjalnych Tomasz Siemoniak. Podkreślił, że funkcjonariusze \"od listopada czekali na decyzję prezydenta\"."
+    },
+    {
+      "title": "Nowe zdjęcia z \"rakietowych miast\" w Iranie. Coś się zmieniło",
+      "link": "https://tvn24.pl/swiat/cnn-iran-odkopuje-bazy-rakietowe-podczas-zawieszenia-broni-st8998521?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 08:24:49 GMT",
+      "description": "Ze zdjęć satelitarnych przeanalizowanych przez CNN wynika, że Iran w czasie zawieszenia broni pracował nad przywróceniem dostępu do swoich wyrzutni rakietowych w tzw. rakietowych miastach.",
+      "originalTitle": "Nowe zdjęcia z \"rakietowych miast\" w Iranie. Coś się zmieniło",
+      "originalDescription": "Ze zdjęć satelitarnych przeanalizowanych przez CNN wynika, że Iran w czasie zawieszenia broni pracował nad przywróceniem dostępu do swoich wyrzutni rakietowych w tzw. rakietowych miastach."
+    },
+    {
+      "title": "Medycy wyrażają obawy w sprawie zarządzenia NFZ",
+      "link": "https://tvn24.pl/polska/zarzadzenie-nfz-w-sprawie-centrow-zdrowia-psychicznego-obawy-medykow-i-ekspertow-st8998478?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 07:55:28 GMT",
+      "description": "Centra Zdrowia Psychicznego działają nieodpłatnie od dawna - pomagają przetrwać kryzysy psychiczne. W Polsce jest ich niemal 120. Teraz szykują się zmiany, bo pojawiły się nowe wytyczne. NFZ chce dokładniej sprawdzić jakość i dostępność świadczeń. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Medycy wyrażają obawy w sprawie zarządzenia NFZ",
+      "originalDescription": "Centra Zdrowia Psychicznego działają nieodpłatnie od dawna - pomagają przetrwać kryzysy psychiczne. W Polsce jest ich niemal 120. Teraz szykują się zmiany, bo pojawiły się nowe wytyczne. NFZ chce dokładniej sprawdzić jakość i dostępność świadczeń. Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Magyar w nowym wywiadzie: wstrzymamy nadawanie mediów publicznych",
+      "link": "https://tvn24.pl/swiat/wegry-panstwowe-media-nie-beda-nadawaly-programow-informacyjnych-zapowiedz-petera-magyara-st8996692?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 07:21:54 GMT",
+      "description": "Przyszły premier Węgier Peter Magyar zapowiedział zawieszenie nadawania mediów publicznych po objęciu władzy przez jego partię, TISZĘ. W pierwszej od półtora roku rozmowie z publicznym radiem podkreślił, że \"każdy człowiek zasługuje na media publiczne, które przekazują prawdę\".",
+      "originalTitle": "Magyar w nowym wywiadzie: wstrzymamy nadawanie mediów publicznych",
+      "originalDescription": "Przyszły premier Węgier Peter Magyar zapowiedział zawieszenie nadawania mediów publicznych po objęciu władzy przez jego partię, TISZĘ. W pierwszej od półtora roku rozmowie z publicznym radiem podkreślił, że \"każdy człowiek zasługuje na media publiczne, które przekazują prawdę\"."
+    },
+    {
+      "title": "Przerwane wały przeciwpowodziowe. Ewakuują mieszkańców",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-michigan-przerwane-waly-przeciwpowodziowe-ewakuuja-mieszkancow-st8998601?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 07:44:35 GMT",
+      "description": "Mieszkańcy stanu Michigan w północnej części Stanów Zjednoczonych zmagają się z falą powodzi. Sytuacja jest tak poważna, że gubernator Gretchen Whitmer ogłosiła stan nadzwyczajny w sektorze energetycznym. Według prognoz kolejne dni przyniosą dalsze opady deszczu.",
+      "originalTitle": "Przerwane wały przeciwpowodziowe. Ewakuują mieszkańców",
+      "originalDescription": "Mieszkańcy stanu Michigan w północnej części Stanów Zjednoczonych zmagają się z falą powodzi. Sytuacja jest tak poważna, że gubernator Gretchen Whitmer ogłosiła stan nadzwyczajny w sektorze energetycznym. Według prognoz kolejne dni przyniosą dalsze opady deszczu."
+    },
+    {
+      "title": "Czy wojna na Bliskim Wschodzie była warta poniesionych kosztów? Amerykanie ocenili",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-co-sadza-amerykanie-nowy-sondaz-st8998595?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 07:31:58 GMT",
+      "description": "Ponad połowa Amerykanów uważa, że wojna na Bliskim Wschodzie nie była warta poniesionych kosztów - wynika z nowego sondażu. Większość pytanych ocenia, że konflikt miał negatywny wpływ na ich sytuację finansową oraz spodziewa się wzrostu cen gazu. Zostali też zapytani, czy ich zdaniem USA będą bezpieczniejsze po ataku na Iran.",
+      "originalTitle": "Czy wojna na Bliskim Wschodzie była warta poniesionych kosztów? Amerykanie ocenili",
+      "originalDescription": "Ponad połowa Amerykanów uważa, że wojna na Bliskim Wschodzie nie była warta poniesionych kosztów - wynika z nowego sondażu. Większość pytanych ocenia, że konflikt miał negatywny wpływ na ich sytuację finansową oraz spodziewa się wzrostu cen gazu. Zostali też zapytani, czy ich zdaniem USA będą bezpieczniejsze po ataku na Iran."
+    },
+    {
+      "title": "Najnowsze dane o wzroście cen",
+      "link": "https://tvn24.pl/biznes/handel/inflacja-wzrost-cen-w-marcu-2026-roku-nowe-dane-gus-st8998682?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 07:31:39 GMT",
+      "description": "W marcu 2026 roku ceny towarów i usług konsumpcyjnych wzrosły o 3 procent rok do roku. W stosunku do poprzedniego miesiąca inflacja wyniosła 1,1 procent - wynika z danych Głównego Urzędu Statystycznego.",
+      "originalTitle": "Najnowsze dane o wzroście cen",
+      "originalDescription": "W marcu 2026 roku ceny towarów i usług konsumpcyjnych wzrosły o 3 procent rok do roku. W stosunku do poprzedniego miesiąca inflacja wyniosła 1,1 procent - wynika z danych Głównego Urzędu Statystycznego."
+    },
+    {
+      "title": "Wyczerpani dopaminą w niewoli algorytmów",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-premiera-requiem-dla-snu-w-teatrze-studio-wszyscy-jestesmy-cpunami-st8998470?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 07:12:44 GMT",
+      "description": "Uzależnienie jako niedostrzegalny, choć powszechny element codziennego życia jest głównym tematem \"Requiem dla snu\", najnowszej premiery warszawskiego Teatru Studio w koprodukcji z Narodowym Starym Teatrem w Krakowie. - To, do czego zapraszamy, na pewno nie będzie miłym wieczorem w teatrze - uprzedza reżyser Jakub Skrzywanek.",
+      "originalTitle": "Wyczerpani dopaminą w niewoli algorytmów",
+      "originalDescription": "Uzależnienie jako niedostrzegalny, choć powszechny element codziennego życia jest głównym tematem \"Requiem dla snu\", najnowszej premiery warszawskiego Teatru Studio w koprodukcji z Narodowym Starym Teatrem w Krakowie. - To, do czego zapraszamy, na pewno nie będzie miłym wieczorem w teatrze - uprzedza reżyser Jakub Skrzywanek."
+    },
+    {
+      "title": "Trump nie planuje przedłużenia rozejmu. \"To już prawie koniec\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-przekazal-ze-nie-planuje-przedluzenia-rozejmu-st8998630?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 06:57:09 GMT",
+      "description": "Prezydent USA zapowiedział, że dwutygodniowe zawieszenie broni, które wygasa w przyszłym tygodniu, nie zostanie przedłużone. Donald Trump ocenił jednocześnie, że wojna jest bliska zakończenia, a Iran wykazuje dużą chęć zawarcia porozumienia.",
+      "originalTitle": "Trump nie planuje przedłużenia rozejmu. \"To już prawie koniec\"",
+      "originalDescription": "Prezydent USA zapowiedział, że dwutygodniowe zawieszenie broni, które wygasa w przyszłym tygodniu, nie zostanie przedłużone. Donald Trump ocenił jednocześnie, że wojna jest bliska zakończenia, a Iran wykazuje dużą chęć zawarcia porozumienia."
+    }
+  ]
 }
