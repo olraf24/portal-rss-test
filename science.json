@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-16T11:51:20.649Z",
+  "lastUpdate": "2026-04-16T12:27:51.742Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Hałas to nowy smog. Akustyczny",
+      "link": "https://dzienniknaukowy.pl/halas-to-nowy-smog-akustyczny",
+      "pubDate": "Thu, 16 Apr 2026 12:15:58 +0000",
+      "description": "Hałas jest po zanieczyszczeniu powietrza największym zagrożeniem środowiskowym dla zdrowia publicznego i jednocześnie jednym z najmniej zauważanych problemów w miastach. – A w odróżnieniu od wielu innych zanieczyszczeń, hałas oddziałuje na nas codziennie i często przez wiele godzin, czasami podświadomie – mówi dr Grzegorz Chrobak, kierownik Laboratorium Audiosfery i Akustyki Środowiska UPWr."
+    },
     {
       "title": "Archeolog: starożytne Mazowsze było żelazną potęgą",
       "link": "https://dzienniknaukowy.pl/archeolog-starozytne-mazowsze-bylo-zelazna-potega",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-z-ichf-pan-znalezli-sposob-na-szkodliwe-bakteriofagi",
       "pubDate": "Thu, 09 Apr 2026 10:06:14 +0000",
       "description": "Bakteriofagi mogą niszczyć całe hodowle bakterii wykorzystywanych w przemyśle spożywczym, farmaceutycznym czy biotechnologicznym, powodując poważne straty. Naukowcy z IChF PAN znaleźli rozwiązanie, dzięki któremu można selektywnie dezaktywować fagi, bez szkody dla bakterii i komórek innych organizmów."
-    },
-    {
-      "title": "W Politechnice Łódzkiej powstaje mikroglonowa stacja tlenowa",
-      "link": "https://dzienniknaukowy.pl/w-politechnice-lodzkiej-powstaje-mikroglonowa-stacja-tlenowa",
-      "pubDate": "Thu, 09 Apr 2026 09:45:03 +0000",
-      "description": "Studentki Wydziału Biotechnologii i Nauk o Żywności z koła naukowego AlgoTech pracują nad prototypem mikroglonowego bioreaktora, który ma oczyszczać powietrze na terenie uczelni. Projekt „GLO2xygen – Mikroglonowa stacja tlenowa\" powstaje dzięki dofinansowaniu z programu TURBOgrant przyznanemu przez Fundację ORLEN im. Ignacego Łukasiewicza."
     }
   ]
 }
