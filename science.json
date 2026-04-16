@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-16T12:27:51.742Z",
+  "lastUpdate": "2026-04-16T12:54:46.888Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Światło uwięzione w ultracienkiej siatce",
+      "link": "https://dzienniknaukowy.pl/swiatlo-uwiezione-w-ultracienkiej-siatce",
+      "pubDate": "Thu, 16 Apr 2026 12:28:43 +0000",
+      "description": "W fotonice od lat trwa wyścig o to, by coraz skuteczniej sterować światłem w coraz mniejszych strukturach. Polscy naukowcy pokazali, że światło podczerwone można związać w warstwie dwuselenku molibdenu o grubości zaledwie około 40 nanometrów. Ten wynik otwiera drogę do nowych, płaskich elementów fotonicznych."
+    },
     {
       "title": "Hałas to nowy smog. Akustyczny",
       "link": "https://dzienniknaukowy.pl/halas-to-nowy-smog-akustyczny",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/miasta-radykalnie-zmieniaja-zachowania-zwierzat",
       "pubDate": "Fri, 10 Apr 2026 10:09:46 +0000",
       "description": "Miasta na całym świecie coraz bardziej przypominają się nawzajem. Te same sklepy, podobna architektura, podobny rytm życia. Okazuje się, że podobne zmiany zachodzą także w świecie zwierząt. Nowe badanie opublikowane w czasopiśmie PLOS Biology pokazuje, że urbanizacja może prowadzić do zjawiska, które naukowcy nazywają homogenizacją zachowań."
-    },
-    {
-      "title": "Naukowcy z IChF PAN znaleźli sposób na szkodliwe bakteriofagi",
-      "link": "https://dzienniknaukowy.pl/naukowcy-z-ichf-pan-znalezli-sposob-na-szkodliwe-bakteriofagi",
-      "pubDate": "Thu, 09 Apr 2026 10:06:14 +0000",
-      "description": "Bakteriofagi mogą niszczyć całe hodowle bakterii wykorzystywanych w przemyśle spożywczym, farmaceutycznym czy biotechnologicznym, powodując poważne straty. Naukowcy z IChF PAN znaleźli rozwiązanie, dzięki któremu można selektywnie dezaktywować fagi, bez szkody dla bakterii i komórek innych organizmów."
     }
   ]
 }
