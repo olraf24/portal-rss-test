@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-16T13:36:28.054Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-16T14:39:44.883Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kobieta potrącona na torach, lądował śmigłowiec LPR",
+      "link": "https://tvn24.pl/katowice/taciszow-powiat-gliwicki-kobieta-potracona-na-torach-ladowal-smiglowiec-lpr-st9001791?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 14:28:47 GMT",
+      "description": "Kobieta została potrącona przez lokomotywę. Ranną przetransportowano do szpitala śmigłowcem Lotniczego Pogotowia Ratunkowego.",
+      "originalTitle": "Kobieta potrącona na torach, lądował śmigłowiec LPR",
+      "originalDescription": "Kobieta została potrącona przez lokomotywę. Ranną przetransportowano do szpitala śmigłowcem Lotniczego Pogotowia Ratunkowego."
+    },
+    {
+      "title": "TSUE i frankowicze. Ważne wyroki",
+      "link": "https://tvn24.pl/biznes/pieniadze/trybunal-sprawiedliwosci-unii-europejskiej-wydal-wyrok-w-sprawach-frankowych-przedawnienie-roszczen-banku-o-zwrot-kapitalu-st9001837?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 14:27:58 GMT",
+      "description": "Trybunał Sprawiedliwości Unii Europejskiej w czwartek wydał wyroki w trzech sprawach frankowych. Pytania warszawskiego sądu okręgowego dotyczyły przedawnienia roszczeń banku o zwrot kapitału po stwierdzeniu nieważności umowy kredytowej indeksowanej do franka szwajcarskiego ze względu na zawarte w niej nieuczciwe postanowienia.",
+      "originalTitle": "TSUE i frankowicze. Ważne wyroki",
+      "originalDescription": "Trybunał Sprawiedliwości Unii Europejskiej w czwartek wydał wyroki w trzech sprawach frankowych. Pytania warszawskiego sądu okręgowego dotyczyły przedawnienia roszczeń banku o zwrot kapitału po stwierdzeniu nieważności umowy kredytowej indeksowanej do franka szwajcarskiego ze względu na zawarte w niej nieuczciwe postanowienia."
+    },
+    {
+      "title": "Hegseth \"zacytował fałszywy werset biblijny z Pulp Fiction\"? Nie do końca",
+      "link": "https://konkret24.tvn24.pl/swiat/hegseth-zacytowal-falszywy-werset-biblijny-z-pulp-fiction-nie-do-konca-st9001544?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 14:23:12 GMT",
+      "description": "Szef Pentagonu Pete Hegseth podczas nabożeństwa w siedzibie resortu miał przytoczyć fragment biblijnej Księgi Ezechiela. Ku zaskoczeniu niektórych słuchaczy, słowa te przypominały bardzo te z kultowego filmu Quentina Tarantino. Dochodzi do tego w czasie napięć między amerykańską administracją a Watykanem.",
+      "originalTitle": "Hegseth \"zacytował fałszywy werset biblijny z Pulp Fiction\"? Nie do końca",
+      "originalDescription": "Szef Pentagonu Pete Hegseth podczas nabożeństwa w siedzibie resortu miał przytoczyć fragment biblijnej Księgi Ezechiela. Ku zaskoczeniu niektórych słuchaczy, słowa te przypominały bardzo te z kultowego filmu Quentina Tarantino. Dochodzi do tego w czasie napięć między amerykańską administracją a Watykanem."
+    },
+    {
+      "title": "Jechali kupić samochód, policjanci \"zepsuli im dzień\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zuromin-jechali-kupic-samochod-policjanci-zepsuli-im-dzien-st9001652?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 13:46:57 GMT",
+      "description": "Ojciec i syn jechali kupić samochód. Plany pokrzyżowali im policjanci. Okazało się, że żaden z mężczyzn nie powinien wsiadać za kierownicę. Obaj mają sądowe zakazy.",
+      "originalTitle": "Jechali kupić samochód, policjanci \"zepsuli im dzień\"",
+      "originalDescription": "Ojciec i syn jechali kupić samochód. Plany pokrzyżowali im policjanci. Okazało się, że żaden z mężczyzn nie powinien wsiadać za kierownicę. Obaj mają sądowe zakazy."
+    },
+    {
+      "title": "11-letnia Zuzia nie dotarła do szkoły. Apel policji",
+      "link": "https://tvn24.pl/katowice/knurow-zaginela-11-letnia-zuzanna-rynkiewicz-apel-policji-st9001775?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 13:42:52 GMT",
+      "description": "Policja poszukuje 11-letniej Zuzanny Rynkiewicz z Knurowa (Śląskie). Jak przekazano, dziewczynka wyszła w czwartek rano do szkoły, jednak tam nie dotarła. Policja prosi o pomoc w jej odnalezieniu.",
+      "originalTitle": "11-letnia Zuzia nie dotarła do szkoły. Apel policji",
+      "originalDescription": "Policja poszukuje 11-letniej Zuzanny Rynkiewicz z Knurowa (Śląskie). Jak przekazano, dziewczynka wyszła w czwartek rano do szkoły, jednak tam nie dotarła. Policja prosi o pomoc w jej odnalezieniu."
+    },
+    {
+      "title": "AMOC kształtuje nam pogodę. Może się załamać",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/amoc-ksztaltuje-pogode-w-europie-prawdopodobnie-sie-zalamie-st9001588?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 13:40:10 GMT",
+      "description": "AMOC, kluczowy system prądów morskich na Atlantyku, może załamać się jeszcze przed końcem wieku. Jak wynika z analizy francuskich naukowców, w ciągu kolejnych dekad ma on osłabnąć do tego stopnia, że przestanie pełnić swoje funkcje. To poważne zagrożenie dla pogody i klimatu Europy i nie tylko.",
+      "originalTitle": "AMOC kształtuje nam pogodę. Może się załamać",
+      "originalDescription": "AMOC, kluczowy system prądów morskich na Atlantyku, może załamać się jeszcze przed końcem wieku. Jak wynika z analizy francuskich naukowców, w ciągu kolejnych dekad ma on osłabnąć do tego stopnia, że przestanie pełnić swoje funkcje. To poważne zagrożenie dla pogody i klimatu Europy i nie tylko."
+    },
+    {
+      "title": "Europa liczy zapasy paliwa lotniczego. Na ile starczy",
+      "link": "https://tvn24.pl/biznes/turystyka/alarm-konczy-sie-zapas-paliwa-lotniczego-europy-wkrotce-uslyszy-wiadomosci-st9001656?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 13:39:46 GMT",
+      "description": "Europa stoi w obliczu deficytów paliwa lotniczego. Dyrektor wykonawczy Międzynarodowej Agencji Energetycznej (MAE) ostrzega przed koniecznością odwoływania lotów w najbliższym czasie.",
+      "originalTitle": "Europa liczy zapasy paliwa lotniczego. Na ile starczy",
+      "originalDescription": "Europa stoi w obliczu deficytów paliwa lotniczego. Dyrektor wykonawczy Międzynarodowej Agencji Energetycznej (MAE) ostrzega przed koniecznością odwoływania lotów w najbliższym czasie."
+    },
+    {
+      "title": "Oni poszli z Morawieckim. Lista nazwisk",
+      "link": "https://tvn24.pl/polska/kto-dolaczyl-do-stowarzyszenia-mateusza-morawieckiego-lista-poslow-st9000307?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 05:44:59 GMT",
+      "description": "Mateusz Morawiecki, mimo ultimatum ze strony Jarosława Kaczyńskiego, założył nowe stowarzyszenie. W jego skład weszło blisko 40 polityków PiS. Dziennikarz TVN24+ Patryk Michalski poznał skład władz stowarzyszenia. Lista zapisujących się wydłuża.",
+      "originalTitle": "Oni poszli z Morawieckim. Lista nazwisk",
+      "originalDescription": "Mateusz Morawiecki, mimo ultimatum ze strony Jarosława Kaczyńskiego, założył nowe stowarzyszenie. W jego skład weszło blisko 40 polityków PiS. Dziennikarz TVN24+ Patryk Michalski poznał skład władz stowarzyszenia. Lista zapisujących się wydłuża."
+    },
+    {
+      "title": "Rusznikarz odpowie za usiłowanie zabójstwa czterech osób",
+      "link": "https://tvn24.pl/poznan/smogorzewo-prokuratura-oskarzyla-rusznikarz-o-poczworne-usilowanie-zabojstwa-st9001612?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 13:25:36 GMT",
+      "description": "Dożywocie grozi rusznikarzowi ze Smogorzewa (Wielkopolska). W listopadzie 2025 roku postrzelił on dwóch mężczyzn. Śledczy skierowali do sądu akt, w którym oskarżają go o usiłowanie zabójstwa czterech osób.",
+      "originalTitle": "Rusznikarz odpowie za usiłowanie zabójstwa czterech osób",
+      "originalDescription": "Dożywocie grozi rusznikarzowi ze Smogorzewa (Wielkopolska). W listopadzie 2025 roku postrzelił on dwóch mężczyzn. Śledczy skierowali do sądu akt, w którym oskarżają go o usiłowanie zabójstwa czterech osób."
+    },
+    {
+      "title": "Kaczyński z apelem o wsparcie finansowe PiS",
+      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-z-apelem-o-wsparcie-finansowe-pis-st9001328?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 13:21:40 GMT",
+      "description": "Prezes PiS Jarosław Kaczyński zwrócił się do zwolenników ugrupowania oraz szerzej - prawicy o wsparcie finansowe partii. Jak mówił, brak subwencji powoduje, że PiS ma \"poważne trudności\".",
+      "originalTitle": "Kaczyński z apelem o wsparcie finansowe PiS",
+      "originalDescription": "Prezes PiS Jarosław Kaczyński zwrócił się do zwolenników ugrupowania oraz szerzej - prawicy o wsparcie finansowe partii. Jak mówił, brak subwencji powoduje, że PiS ma \"poważne trudności\"."
+    }
+  ]
 }
