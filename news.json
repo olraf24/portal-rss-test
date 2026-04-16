@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-15T23:46:31.817Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-16T00:42:04.322Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś - czwartek, 16.04. Tu może dziś przelotnie popadać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-16-04-tu-moze-dzis-przelotnie-popadac-st9000219?source=rss",
+      "pubDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Czwartek, 16.04 przyniesie silne zamglenia i mgły. Na niebie pojawi się sporo chmur, z których miejscami może popadać. W części kraju temperatura nie przekroczy kilku stopni, by w niektórych rejonach sięgnąć prawie 20 stopni.",
+      "originalTitle": "Pogoda na dziś - czwartek, 16.04. Tu może dziś przelotnie popadać",
+      "originalDescription": "Pogoda na dziś. Czwartek, 16.04 przyniesie silne zamglenia i mgły. Na niebie pojawi się sporo chmur, z których miejscami może popadać. W części kraju temperatura nie przekroczy kilku stopni, by w niektórych rejonach sięgnąć prawie 20 stopni."
+    },
+    {
+      "title": "Koniec \"ochrony\" przed atakiem Ukrainy. Zmiany na Węgrzech",
+      "link": "https://tvn24.pl/swiat/media-wegry-wycofuja-zolnierzy-z-obiektow-krytycznych-st9000239?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 20:18:48 GMT",
+      "description": "Wojsko wycofuje się sprzed obiektów krytycznych, których miało bronić przed rzekomym ukraińskim atakiem, a zostało rozmieszczone na polecenie Viktora Orbana - poinformowały węgierskie media.",
+      "originalTitle": "Koniec \"ochrony\" przed atakiem Ukrainy. Zmiany na Węgrzech",
+      "originalDescription": "Wojsko wycofuje się sprzed obiektów krytycznych, których miało bronić przed rzekomym ukraińskim atakiem, a zostało rozmieszczone na polecenie Viktora Orbana - poinformowały węgierskie media."
+    },
+    {
+      "title": "Raport Fed: gospodarka USA przyspiesza, ale niepewność firm narasta",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-wzrost-gospodarczy-i-stabilne-zatrudnienie-ale-firmy-coraz-bardziej-niepewne-st9000215?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 19:54:32 GMT",
+      "description": "Aktywność gospodarcza w USA wzrosła, a zatrudnienie w ostatnich tygodniach utrzymywało się na stabilnym poziomie - poinformował Reuters, powołując się na opublikowany w środę raport Rezerwy Federalnej. Dokument, oparty na ankietach i wywiadach z firmami z całego kraju, wskazuje jednak na rosnącą niepewność wśród przedsiębiorstw.",
+      "originalTitle": "Raport Fed: gospodarka USA przyspiesza, ale niepewność firm narasta",
+      "originalDescription": "Aktywność gospodarcza w USA wzrosła, a zatrudnienie w ostatnich tygodniach utrzymywało się na stabilnym poziomie - poinformował Reuters, powołując się na opublikowany w środę raport Rezerwy Federalnej. Dokument, oparty na ankietach i wywiadach z firmami z całego kraju, wskazuje jednak na rosnącą niepewność wśród przedsiębiorstw."
+    },
+    {
+      "title": "Nocne przymrozki. Gdzie się ich spodziewać",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-przymrozki-tu-w-nocy-temperatura-spadnie-ponizej-zera-st8998526?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 06:03:22 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed nocnymi przymrozkami. Sprawdź, czy temperatura spadnie poniżej zera w Twoim regionie.",
+      "originalTitle": "Nocne przymrozki. Gdzie się ich spodziewać",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed nocnymi przymrozkami. Sprawdź, czy temperatura spadnie poniżej zera w Twoim regionie."
+    },
+    {
+      "title": "Jedno auto się zatrzymało, drugie nie. Potrąciła pieszą i straciła prawo jazdy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-ominela-inne-auto-i-potracila-piesza-na-przejsciu-st9000223?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 19:33:02 GMT",
+      "description": "Na przejściu dla pieszych w Radomiu (Mazowieckie) kierująca Fordem ominęła auto, które zatrzymało się przed przejściem dla pieszych i potrąciła kobietę. Poszkodowana trafiła do szpitala. Policjanci nie mieli wątpliwości co do winy. Kierująca straciła prawo jazdy.",
+      "originalTitle": "Jedno auto się zatrzymało, drugie nie. Potrąciła pieszą i straciła prawo jazdy",
+      "originalDescription": "Na przejściu dla pieszych w Radomiu (Mazowieckie) kierująca Fordem ominęła auto, które zatrzymało się przed przejściem dla pieszych i potrąciła kobietę. Poszkodowana trafiła do szpitala. Policjanci nie mieli wątpliwości co do winy. Kierująca straciła prawo jazdy."
+    },
+    {
+      "title": "Ultimatum Kaczyńskiego nie pomogło? \"Potwierdzam, powołaliśmy do życia stowarzyszenie\"",
+      "link": "https://tvn24.pl/polska/ultimatum-jaroslawa-kaczynskiego-nie-pomoglo-media-mateusz-morawiecki-powolal-stowarzyszenie-rozwoj-plus-st8999810?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 14:06:09 GMT",
+      "description": "Jarosław Kaczyński ogłosił grupie bliskich współpracowników, że politycy PiS, którzy zapiszą się do stowarzyszenia Mateusza Morawieckiego, nie znajdą miejsca na listach wyborczych - ustalił Patryk Michalski, autor programu \"News Michalskiego\". Prezes PiS ogłosił ultimatum w wąskim gronie pod nieobecność między innymi Morawieckiego - wynika z ustaleń naszego dziennikarza. Wieczorem Wirtualna Polska podała, że były premier stowarzyszenie mimo wszystko powołał, co potwierdzili w sieci niektórzy politycy PiS.",
+      "originalTitle": "Ultimatum Kaczyńskiego nie pomogło? \"Potwierdzam, powołaliśmy do życia stowarzyszenie\"",
+      "originalDescription": "Jarosław Kaczyński ogłosił grupie bliskich współpracowników, że politycy PiS, którzy zapiszą się do stowarzyszenia Mateusza Morawieckiego, nie znajdą miejsca na listach wyborczych - ustalił Patryk Michalski, autor programu \"News Michalskiego\". Prezes PiS ogłosił ultimatum w wąskim gronie pod nieobecność między innymi Morawieckiego - wynika z ustaleń naszego dziennikarza. Wieczorem Wirtualna Polska podała, że były premier stowarzyszenie mimo wszystko powołał, co potwierdzili w sieci niektórzy politycy PiS."
+    },
+    {
+      "title": "\"Nie będzie nam opozycja meblowała Rady Ministrów\"",
+      "link": "https://tvn24.pl/polska/skierowalem-do-pani-ministry-prosbe-co-dalej-z-paulina-hennig-kloska-st9000147?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 19:19:54 GMT",
+      "description": "Skierowałem do pani ministry prośbę, żeby się spotkała z naszym klubem i porozmawiała o wątpliwościach, które mamy - powiedział w \"Kropce nad i\" poseł Polski 2050 Paweł Śliz o doniesieniach, że część jego partii poprze wniosek opozycji o odwołanie Pauliny Hennig-Kloski z funkcji ministry klimatu. Katarzyna Kotula z Lewicy mówiła o zmianie władz na Węgrzech i Zbigniewie Ziobrze.",
+      "originalTitle": "\"Nie będzie nam opozycja meblowała Rady Ministrów\"",
+      "originalDescription": "Skierowałem do pani ministry prośbę, żeby się spotkała z naszym klubem i porozmawiała o wątpliwościach, które mamy - powiedział w \"Kropce nad i\" poseł Polski 2050 Paweł Śliz o doniesieniach, że część jego partii poprze wniosek opozycji o odwołanie Pauliny Hennig-Kloski z funkcji ministry klimatu. Katarzyna Kotula z Lewicy mówiła o zmianie władz na Węgrzech i Zbigniewie Ziobrze."
+    },
+    {
+      "title": "\"Marnujemy czas\". Co dalej z prezydenckim wetem do ustawy o kryptoaktywach",
+      "link": "https://tvn24.pl/biznes/z-kraju/kryptowaluty-bogucki-o-szansach-na-odrzucenie-weta-prezydenta-st9000152?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 19:09:24 GMT",
+      "description": "Nie ma żadnych szans na odrzucenie prezydenckiego weta do ustawy o kryptoaktywach, a dalsze prace w tej sprawie są marnowaniem czasu - powiedział w środę szef Kancelarii Prezydenta RP Zbigniew Bogucki. Jednak sejmowe komisje finansów i gospodarki opowiedziały się za uchwaleniem ustawy o rynku kryptoaktywów w dotychczasowym brzmieniu.",
+      "originalTitle": "\"Marnujemy czas\". Co dalej z prezydenckim wetem do ustawy o kryptoaktywach",
+      "originalDescription": "Nie ma żadnych szans na odrzucenie prezydenckiego weta do ustawy o kryptoaktywach, a dalsze prace w tej sprawie są marnowaniem czasu - powiedział w środę szef Kancelarii Prezydenta RP Zbigniew Bogucki. Jednak sejmowe komisje finansów i gospodarki opowiedziały się za uchwaleniem ustawy o rynku kryptoaktywów w dotychczasowym brzmieniu."
+    },
+    {
+      "title": "Bogurodzica, cherubiny i anioły. Nikt nie wiedział, co jest pod tynkiem",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-renowacja-kaplicy-na-woli-odkryla-cenne-freski-st9000150?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 19:06:35 GMT",
+      "description": "Zanieczyszczenie tynku, zasolenie i wilgoć przykryły cenne freski XX-wiecznej kaplicy nagrobnej rodziny N.D. Szelichowa na wolskim cmentarzu prawosławnym. Kaplica powstała po 1906 roku i jest drugą pod względem wielkości budowlą na terenie nekropolii. Wcześniej badacze mogli się jedynie domyślać, co kryje się pod zanieczyszczeniami. Teraz pokazują je po renowacji.",
+      "originalTitle": "Bogurodzica, cherubiny i anioły. Nikt nie wiedział, co jest pod tynkiem",
+      "originalDescription": "Zanieczyszczenie tynku, zasolenie i wilgoć przykryły cenne freski XX-wiecznej kaplicy nagrobnej rodziny N.D. Szelichowa na wolskim cmentarzu prawosławnym. Kaplica powstała po 1906 roku i jest drugą pod względem wielkości budowlą na terenie nekropolii. Wcześniej badacze mogli się jedynie domyślać, co kryje się pod zanieczyszczeniami. Teraz pokazują je po renowacji."
+    },
+    {
+      "title": "Trump obejmowany przez Jezusa. \"To całkiem fajne\"",
+      "link": "https://tvn24.pl/swiat/donald-trump-na-grafice-z-jezusem-to-calkiem-fajne-st9000163?source=rss",
+      "pubDate": "Wed, 15 Apr 2026 18:58:30 GMT",
+      "description": "Donald Trump udostępnił w mediach społecznościowych wpis z grafiką, na której jest obejmowany przez Jezusa. \"Moim zdaniem to całkiem fajne\" - ocenił.",
+      "originalTitle": "Trump obejmowany przez Jezusa. \"To całkiem fajne\"",
+      "originalDescription": "Donald Trump udostępnił w mediach społecznościowych wpis z grafiką, na której jest obejmowany przez Jezusa. \"Moim zdaniem to całkiem fajne\" - ocenił."
+    }
+  ]
 }
