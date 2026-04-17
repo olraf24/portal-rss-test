@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-17T18:21:40.002Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-17T18:48:51.592Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - sobota 18.04. W nocy jeszcze chłodno, w dzień nawet 20 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-18-04-w-nocy-jeszcze-chlodno-w-dzien-nawet-20-stopni-st9004125?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 18:33:24 GMT",
+      "description": "Pogoda na jutro, czyli na sobotę 18.04. Noc w całym kraju zapowiada się dość pogodnie, ale chłodno - termometry pokażą co najwyżej 4 stopnie Celsjusza. W dzień aura okaże się łaskawsza, a lokalnie temperatura wzrośnie do 20 stopni.",
+      "originalTitle": "Pogoda na jutro - sobota 18.04. W nocy jeszcze chłodno, w dzień nawet 20 stopni",
+      "originalDescription": "Pogoda na jutro, czyli na sobotę 18.04. Noc w całym kraju zapowiada się dość pogodnie, ale chłodno - termometry pokażą co najwyżej 4 stopnie Celsjusza. W dzień aura okaże się łaskawsza, a lokalnie temperatura wzrośnie do 20 stopni."
+    },
+    {
+      "title": "\"Nawrocki zablokował\" i \"nie ma narzędzi\". A poszkodowanych są tysiące",
+      "link": "https://tvn24.pl/fakty-artykuly/kilkadziesiat-tysiecy-poszkodowanych-przez-zondacrypto-jak-kryptogielda-powiazana-jest-z-politykami-pis-st9004027?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 18:29:44 GMT",
+      "description": "Pod hasłem \"kryptoafera\" kryją się klienci, którzy nie mogą wypłacić swoich pieniędzy z kryptogiełdy. To także politycy prawicy, którzy z pieniędzy kryptogiełdy korzystali. Głosy posłów PiS i Konfederacji utrzymały weto prezydenta wobec ustawy o nadzorze nad rynkiem kryptowalut.",
+      "originalTitle": "\"Nawrocki zablokował\" i \"nie ma narzędzi\". A poszkodowanych są tysiące",
+      "originalDescription": "Pod hasłem \"kryptoafera\" kryją się klienci, którzy nie mogą wypłacić swoich pieniędzy z kryptogiełdy. To także politycy prawicy, którzy z pieniędzy kryptogiełdy korzystali. Głosy posłów PiS i Konfederacji utrzymały weto prezydenta wobec ustawy o nadzorze nad rynkiem kryptowalut."
+    },
+    {
+      "title": "Kierwiński: prokuratura powinna przesłuchać szefa Zondacrypto",
+      "link": "https://tvn24.pl/polska/zondacrypto-glosowanie-w-sejmie-marcin-kierwinski-prokuratura-powinna-przesluchac-szefa-tej-gieldy-kryptowalut-st9004034?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 18:17:55 GMT",
+      "description": "Minister spraw wewnętrznych i administracji Marcin Kierwiński mówił w \"Faktach po Faktach\" w TVN24 o sprawie giełdy kryptowalut Zondacrypto. Jego zdaniem prokuratura powinna przesłuchać jej szefa, który przebywa obecnie za granicą. Zwrócił również uwagę, że giełda ta wspierała prawicowych polityków.",
+      "originalTitle": "Kierwiński: prokuratura powinna przesłuchać szefa Zondacrypto",
+      "originalDescription": "Minister spraw wewnętrznych i administracji Marcin Kierwiński mówił w \"Faktach po Faktach\" w TVN24 o sprawie giełdy kryptowalut Zondacrypto. Jego zdaniem prokuratura powinna przesłuchać jej szefa, który przebywa obecnie za granicą. Zwrócił również uwagę, że giełda ta wspierała prawicowych polityków."
+    },
+    {
+      "title": "Auto na każdą potrzebę. Niecodzienne rozwiązanie chińskiej marki",
+      "link": "https://tvn24.pl/biznes/moto/chiny-auto-na-kazda-potrzebe-elektryki-z-nietypowym-rozwiazaniem-st9004111?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 18:16:10 GMT",
+      "description": "Chiński producent samochodów Seres opatentował nietypowe rozwiązanie, które ma odmienić komfort podróżowania. Firma otrzymała patent na sterowaną głosem toaletę samochodową, która się wysuwa spod fotela pasażera - poinformowało w piątek BBC.",
+      "originalTitle": "Auto na każdą potrzebę. Niecodzienne rozwiązanie chińskiej marki",
+      "originalDescription": "Chiński producent samochodów Seres opatentował nietypowe rozwiązanie, które ma odmienić komfort podróżowania. Firma otrzymała patent na sterowaną głosem toaletę samochodową, która się wysuwa spod fotela pasażera - poinformowało w piątek BBC."
+    },
+    {
+      "title": "Czas na technologie kwantowe. Debiut branżowej spółki na GPW",
+      "link": "https://tvn24.pl/biznes/z-kraju/czas-na-technologie-kwantowe-debiut-creotech-quantum-na-gpw-st9003906?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 18:01:01 GMT",
+      "description": "W piątek, 17 kwietnia, spółka Creotech Quantum zadebiutowała na rynku głównym GPW. Jest to pierwsza firma z branży kwantowej notowana na warszawskiej giełdzie.",
+      "originalTitle": "Czas na technologie kwantowe. Debiut branżowej spółki na GPW",
+      "originalDescription": "W piątek, 17 kwietnia, spółka Creotech Quantum zadebiutowała na rynku głównym GPW. Jest to pierwsza firma z branży kwantowej notowana na warszawskiej giełdzie."
+    },
+    {
+      "title": "Potrącenie sześciolatki na posesji. Dziecko nie żyje",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/opacz-kolonia-smiertelne-potracenie-szesciolatki-na-prywatnej-posesji-st9004083?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 17:58:36 GMT",
+      "description": "Tragiczny wypadek w miejscowości Opacz-Kolonia. Na prywatnej posesji doszło do potrącenia sześcioletniej dziewczynki. Dziecko nie przeżyło.",
+      "originalTitle": "Potrącenie sześciolatki na posesji. Dziecko nie żyje",
+      "originalDescription": "Tragiczny wypadek w miejscowości Opacz-Kolonia. Na prywatnej posesji doszło do potrącenia sześcioletniej dziewczynki. Dziecko nie przeżyło."
+    },
+    {
+      "title": "Europejskie rozmowy o misji w cieśninie Ormuz. \"To krok w dobrym kierunku\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/europejskie-rozmowy-o-misji-w-ciesninie-ormuz-to-krok-w-dobrym-kierunku-st9004062?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 17:47:07 GMT",
+      "description": "Polska poparła międzynarodowe działania na rzecz trwałego otwarcia cieśniny Ormuz, wskazując, że powodzenie inicjatywy zależy od utrzymania zawieszenia broni i deeskalacji napięć między Teheranem a Waszyngtonem - poinformowało Ministerstwo Spraw Zagranicznych po piątkowej wideokonferencji z udziałem przedstawicieli blisko 50 państw.",
+      "originalTitle": "Europejskie rozmowy o misji w cieśninie Ormuz. \"To krok w dobrym kierunku\"",
+      "originalDescription": "Polska poparła międzynarodowe działania na rzecz trwałego otwarcia cieśniny Ormuz, wskazując, że powodzenie inicjatywy zależy od utrzymania zawieszenia broni i deeskalacji napięć między Teheranem a Waszyngtonem - poinformowało Ministerstwo Spraw Zagranicznych po piątkowej wideokonferencji z udziałem przedstawicieli blisko 50 państw."
+    },
+    {
+      "title": "Jak uchronić Wenecję przed zalaniem? Można ją przenieść",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-jak-uchronic-wenecje-przed-zalaniem-mozna-ja-przeniesc-st9003971?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 17:41:20 GMT",
+      "description": "Wenecja może uniknąć zalania przez... przeniesienie miasta. To jedno z rozwiązań zaproponowanych przez badaczy, którzy analizowali długoterminowy wpływ zmian klimatu na Lagunę Wenecką. Jak wyjaśnili eksperci, obecne zabezpieczenia przeciwpowodziowe mogą okazać się niewystarczające.",
+      "originalTitle": "Jak uchronić Wenecję przed zalaniem? Można ją przenieść",
+      "originalDescription": "Wenecja może uniknąć zalania przez... przeniesienie miasta. To jedno z rozwiązań zaproponowanych przez badaczy, którzy analizowali długoterminowy wpływ zmian klimatu na Lagunę Wenecką. Jak wyjaśnili eksperci, obecne zabezpieczenia przeciwpowodziowe mogą okazać się niewystarczające."
+    },
+    {
+      "title": "Komisja Europejska zabiera głos. \"Nic nie wskazuje na systemowe braki\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/paliwa-lotnicze-komisja-europejska-zabiera-glos-nic-nie-wskazuje-na-systemowe-braki-st9004019?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 17:11:06 GMT",
+      "description": "Nie ma sygnałów wskazujących na wystąpienie systemowych niedoborów paliwa, które mogłyby prowadzić do masowego odwoływania lotów w Europie - poinformowała w piątek rzeczniczka Komisji Europejskiej Anna-Kaisa Itkonen. Choć niektóre linie lotnicze zapowiedziały ograniczenie liczby połączeń, Komisja Europejska ocenia, że rynek skutecznie radzi sobie z napiętą obecnie sytuacją.",
+      "originalTitle": "Komisja Europejska zabiera głos. \"Nic nie wskazuje na systemowe braki\"",
+      "originalDescription": "Nie ma sygnałów wskazujących na wystąpienie systemowych niedoborów paliwa, które mogłyby prowadzić do masowego odwoływania lotów w Europie - poinformowała w piątek rzeczniczka Komisji Europejskiej Anna-Kaisa Itkonen. Choć niektóre linie lotnicze zapowiedziały ograniczenie liczby połączeń, Komisja Europejska ocenia, że rynek skutecznie radzi sobie z napiętą obecnie sytuacją."
+    },
+    {
+      "title": "Kłęby dymu nad Wrocławiem. Zapaliła się sterta papy",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-kleby-dymu-nad-miastem-st9003986?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 16:47:22 GMT",
+      "description": "Pożar na terenie jednej z budów we Wrocławiu. Ogień pojawił się w stercie papy, a kłęby dymu były widoczne z daleka.",
+      "originalTitle": "Kłęby dymu nad Wrocławiem. Zapaliła się sterta papy",
+      "originalDescription": "Pożar na terenie jednej z budów we Wrocławiu. Ogień pojawił się w stercie papy, a kłęby dymu były widoczne z daleka."
+    }
+  ]
 }
