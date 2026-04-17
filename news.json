@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-17T09:35:09.699Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-17T10:29:42.110Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pojawiły się ostrzeżenia przed suszą",
+      "link": "https://tvn24.pl/tvnmeteo/polska/susza-pojawily-sie-ostrzezenia-przed-susza-czy-opady-pomoga-st9002764?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 10:24:38 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed suszą hydrologiczną w części Polski. Jednocześnie nasza synoptyczka Arleta Unton-Pyziołek prognozuje, że w drugiej połowie kwietnia czekają nas opady.",
+      "originalTitle": "Pojawiły się ostrzeżenia przed suszą",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed suszą hydrologiczną w części Polski. Jednocześnie nasza synoptyczka Arleta Unton-Pyziołek prognozuje, że w drugiej połowie kwietnia czekają nas opady."
+    },
+    {
+      "title": "W pożarze escape roomu zginęło pięć nastolatek. Będzie ciąg dalszy sprawy",
+      "link": "https://tvn24.pl/szczecin/w-pozarze-escape-roomu-zginelo-piec-nastolatek-bedzie-ciag-dalszy-sprawy-st9002406?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 10:20:16 GMT",
+      "description": "Sąd przyjął apelacje od wyroku w sprawie pożaru escape roomu w Koszalinie, w którym zginęło pięć nastolatek. Jest kolejny etap jednej z najgłośniejszych spraw ostatnich lat. Sprawa trafi do Szczecina.",
+      "originalTitle": "W pożarze escape roomu zginęło pięć nastolatek. Będzie ciąg dalszy sprawy",
+      "originalDescription": "Sąd przyjął apelacje od wyroku w sprawie pożaru escape roomu w Koszalinie, w którym zginęło pięć nastolatek. Jest kolejny etap jednej z najgłośniejszych spraw ostatnich lat. Sprawa trafi do Szczecina."
+    },
+    {
+      "title": "Kolejne osoby skazane na śmierć za udział w protestach. Wśród nich małżeństwo",
+      "link": "https://tvn24.pl/swiat/iran-kolejne-osoby-skazane-na-smierc-za-udzial-w-protestach-wsrod-nich-pierwsza-kobieta-st9001186?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 10:03:49 GMT",
+      "description": "Kolejne cztery osoby zostały skazane na karę śmierci za udział w styczniowych protestach w Iranie - poinformowały agencje broniące praw człowieka. Wśród nich jest małżeństwo i najprawdopodobniej pierwsza kobieta, na którą wydano taki wyrok za udział w tegorocznych demonstracjach.",
+      "originalTitle": "Kolejne osoby skazane na śmierć za udział w protestach. Wśród nich małżeństwo",
+      "originalDescription": "Kolejne cztery osoby zostały skazane na karę śmierci za udział w styczniowych protestach w Iranie - poinformowały agencje broniące praw człowieka. Wśród nich jest małżeństwo i najprawdopodobniej pierwsza kobieta, na którą wydano taki wyrok za udział w tegorocznych demonstracjach."
+    },
+    {
+      "title": "\"Jesteśmy stąd\". Spotkamy się z wami w Siemiatyczach. Taka będzie pogoda",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/jestesmy-stad-spotkamy-sie-z-wami-w-siemiatyczach-taka-bedzie-pogoda-prognoza-dla-siemiatycz-st9002542?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:39:57 GMT",
+      "description": "W sobotę 18 kwietnia rusza urodzinowa trasa TVN24 pod hasłem \"Jesteśmy stąd\". Pierwszym jej przystankiem będą Siemiatycze w województwie podlaskim. Jakiej pogody można się spodziewać podczas wydarzenia?",
+      "originalTitle": "\"Jesteśmy stąd\". Spotkamy się z wami w Siemiatyczach. Taka będzie pogoda",
+      "originalDescription": "W sobotę 18 kwietnia rusza urodzinowa trasa TVN24 pod hasłem \"Jesteśmy stąd\". Pierwszym jej przystankiem będą Siemiatycze w województwie podlaskim. Jakiej pogody można się spodziewać podczas wydarzenia?"
+    },
+    {
+      "title": "Powstanie platforma z mieniem dłużników. Będzie można licytować przez internet",
+      "link": "https://tvn24.pl/biznes/z-kraju/portal-elicytacje-do-wyprzedazy-majatku-dluznikow-prowadzony-przez-kas-krajowa-admnistracje-sadowa-jest-zgoda-sejmu-st9002659?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:36:03 GMT",
+      "description": "Sejm przyjął w piątek przepisy pozwalające Krajowej Administracji Skarbowej uruchomić internetową platformę do sprzedaży majątku dłużników podatkowych.",
+      "originalTitle": "Powstanie platforma z mieniem dłużników. Będzie można licytować przez internet",
+      "originalDescription": "Sejm przyjął w piątek przepisy pozwalające Krajowej Administracji Skarbowej uruchomić internetową platformę do sprzedaży majątku dłużników podatkowych."
+    },
+    {
+      "title": "Ukradli samochód i potrącili policjanta",
+      "link": "https://tvn24.pl/szczecin/gryfice-ukradli-samochod-i-potracili-policjanta-st9002714?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:34:49 GMT",
+      "description": "Uciekając skradzionym samochodem, potrącili policjanta. Do zdarzenia doszło w Gryficach. Interwencja policji była częścią działań pościgowych po kradzieży auta na terenie Międzywodzia w Zachodniopomorskiem.",
+      "originalTitle": "Ukradli samochód i potrącili policjanta",
+      "originalDescription": "Uciekając skradzionym samochodem, potrącili policjanta. Do zdarzenia doszło w Gryficach. Interwencja policji była częścią działań pościgowych po kradzieży auta na terenie Międzywodzia w Zachodniopomorskiem."
+    },
+    {
+      "title": "Tusk do Kaczyńskiego: czy pan wiedział, że pański zastępca bierze pieniądze od Zondacrypto?",
+      "link": "https://tvn24.pl/polska/donald-tusk-zwrocil-sie-do-jaroslawa-kaczynskiego-padlo-pytanie-o-branie-pieniedzy-z-zondacrypto-st9002720?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:17:21 GMT",
+      "description": "Podczas sejmowej debaty przed głosowaniem o odrzucenie weta w sprawie ustawy o kryptowalutach, Donald Tusk zwrócił się do Jarosława Kaczyńskiego. - Czy pan wiedział, że pański zastępca bierze pieniądze od Zondacrypto? - zapytał prezesa PiS.",
+      "originalTitle": "Tusk do Kaczyńskiego: czy pan wiedział, że pański zastępca bierze pieniądze od Zondacrypto?",
+      "originalDescription": "Podczas sejmowej debaty przed głosowaniem o odrzucenie weta w sprawie ustawy o kryptowalutach, Donald Tusk zwrócił się do Jarosława Kaczyńskiego. - Czy pan wiedział, że pański zastępca bierze pieniądze od Zondacrypto? - zapytał prezesa PiS."
+    },
+    {
+      "title": "Tyle zapłacimy za paliwo w weekend. Są nowe ceny",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-weekend-18-19-kwietnia-i-w-poniedzialek-20-kwietnia-ile-kosztuje-na-stacjach-benzyna-i-diesel-pb95-pb98-on-st9002397?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:15:43 GMT",
+      "description": "Ceny paliw w weekend będą niższe niż w piątek - wynika z obwieszczenia ministra energii w sprawie maksymalnych stawek na benzynę i olej napędowy.",
+      "originalTitle": "Tyle zapłacimy za paliwo w weekend. Są nowe ceny",
+      "originalDescription": "Ceny paliw w weekend będą niższe niż w piątek - wynika z obwieszczenia ministra energii w sprawie maksymalnych stawek na benzynę i olej napędowy."
+    },
+    {
+      "title": "Afera Zondacrypto. Gdzie jest klucz?",
+      "link": "https://tvn24.pl/polska/zondacrypto-afera-wokol-gieldy-kryptowalut-analiza-korespondencji-przemyslawa-krala-i-sylwestra-suszka-st9002442?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:12:23 GMT",
+      "description": "Zaskakujące oświadczenie Przemysława Krala, prezesa giełdy Zondakrypto, może być przełomem w ujawnionej przez media aferze. Przeanalizowaliśmy zapisy korespondencji między Kralem a zaginionym przed czterema laty Sylwestrem Suszkiem.",
+      "originalTitle": "Afera Zondacrypto. Gdzie jest klucz?",
+      "originalDescription": "Zaskakujące oświadczenie Przemysława Krala, prezesa giełdy Zondakrypto, może być przełomem w ujawnionej przez media aferze. Przeanalizowaliśmy zapisy korespondencji między Kralem a zaginionym przed czterema laty Sylwestrem Suszkiem."
+    },
+    {
+      "title": "Sprawdzili 100 cudzoziemców pracujących w jednej firmie. 89 ma kłopoty",
+      "link": "https://tvn24.pl/katowice/czestochowa-sprawdzili-100-cudzoziemcow-pracujacych-w-jednej-firmie-89-ma-klopoty-st9002607?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:10:15 GMT",
+      "description": "Strażnicy graniczni skontrolowali cudzoziemców pracujących z jednej z firm w województwie śląskim. 89 ze 100 pracowników przebywało w Polsce nielegalnie.",
+      "originalTitle": "Sprawdzili 100 cudzoziemców pracujących w jednej firmie. 89 ma kłopoty",
+      "originalDescription": "Strażnicy graniczni skontrolowali cudzoziemców pracujących z jednej z firm w województwie śląskim. 89 ze 100 pracowników przebywało w Polsce nielegalnie."
+    }
+  ]
 }
