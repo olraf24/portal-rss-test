@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-18T06:37:11.629Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-18T07:29:42.436Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypuścili pingwiny po rehabilitacji. Cierpiały na pewien syndrom",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/argentyna-wypuscili-pingwiny-po-rehabilitacji-cierpialy-na-pewien-syndrom-st9004206?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 07:08:11 GMT",
+      "description": "Argentyńska fundacja zajmująca się ratowaniem pingwinów wypuściła do morza 15 osobników poddanych rehabilitacji. Gdy zostały znalezione przez członków organizacji, cierpiały na pewien syndrom, który zdaniem biologa jest charakterystyczny dla tych ptaków.",
+      "originalTitle": "Wypuścili pingwiny po rehabilitacji. Cierpiały na pewien syndrom",
+      "originalDescription": "Argentyńska fundacja zajmująca się ratowaniem pingwinów wypuściła do morza 15 osobników poddanych rehabilitacji. Gdy zostały znalezione przez członków organizacji, cierpiały na pewien syndrom, który zdaniem biologa jest charakterystyczny dla tych ptaków."
+    },
+    {
+      "title": "Historyczny wynik na Wall Street. Takiej sytuacji nie było od 34 lat",
+      "link": "https://tvn24.pl/biznes/rynki/usa-gielda-na-wall-street-historyczny-wynik-s-amp-amp-amp-amp-p-najdluzsza-seria-wzrostow-od-ponad-cwierc-wieku-st9004189?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 06:45:11 GMT",
+      "description": "Wall Street zamknęło piątkową sesję z historycznym wynikiem. Indeks S&P po raz pierwszy przekroczył granicę 7100 punktów, a Nasdaq odnotował najdłuższą wzrostową serię od 1992 roku. Inwestorzy z optymizmem obserwują rozwój sytuacji na Bliskim Wschodzie.",
+      "originalTitle": "Historyczny wynik na Wall Street. Takiej sytuacji nie było od 34 lat",
+      "originalDescription": "Wall Street zamknęło piątkową sesję z historycznym wynikiem. Indeks S&P po raz pierwszy przekroczył granicę 7100 punktów, a Nasdaq odnotował najdłuższą wzrostową serię od 1992 roku. Inwestorzy z optymizmem obserwują rozwój sytuacji na Bliskim Wschodzie."
+    },
+    {
+      "title": "Trump o negocjacjach z Iranem. \"Sytuacja wydaje się być bardzo dobra\"",
+      "link": "https://tvn24.pl/swiat/usa-iran-donald-trump-o-negocjacjach-st9004194?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 06:22:49 GMT",
+      "description": "Prezydent USA Donald Trump oświadczył w piątek, że otrzymał dobre wiadomości z Iranu i że spodziewa się pozytywnych rezultatów rozmów z tym krajem. Nie wyjaśnił, jakie to wieści. Zasugerował, że w przypadku braku porozumienia przed środą może wrócić do bombardowania Iranu.",
+      "originalTitle": "Trump o negocjacjach z Iranem. \"Sytuacja wydaje się być bardzo dobra\"",
+      "originalDescription": "Prezydent USA Donald Trump oświadczył w piątek, że otrzymał dobre wiadomości z Iranu i że spodziewa się pozytywnych rezultatów rozmów z tym krajem. Nie wyjaśnił, jakie to wieści. Zasugerował, że w przypadku braku porozumienia przed środą może wrócić do bombardowania Iranu."
+    },
+    {
+      "title": "\"Dzień dobry z Siemiatycz\". Wyjątkowa trasa z okazji urodzin TVN24",
+      "link": "https://tvn24.pl/polska/tvn24-w-siemiatyczach-program-spotkania-18-kwietnia-st8996775?source=rss",
+      "pubDate": "Tue, 14 Apr 2026 10:06:23 GMT",
+      "description": "Ruszyła urodzinowa trasa TVN24 pod hasłem \"Jesteśmy stąd\". W sobotę spotykamy się z mieszkańcami Siemiatycz. Gospodarzami wydarzenia są: pochodząca z tego miasta Joanna Kryńska i związani z Podlasiem Radosław Mróz, Maja Popielarska oraz Mateusz Grzymkowski i Dariusz Łapiński.",
+      "originalTitle": "\"Dzień dobry z Siemiatycz\". Wyjątkowa trasa z okazji urodzin TVN24",
+      "originalDescription": "Ruszyła urodzinowa trasa TVN24 pod hasłem \"Jesteśmy stąd\". W sobotę spotykamy się z mieszkańcami Siemiatycz. Gospodarzami wydarzenia są: pochodząca z tego miasta Joanna Kryńska i związani z Podlasiem Radosław Mróz, Maja Popielarska oraz Mateusz Grzymkowski i Dariusz Łapiński."
+    },
+    {
+      "title": "\"Jesteśmy państwa oczami w północno-wschodniej Polsce\". Dzień z życia podlaskiej redakcji",
+      "link": "https://tvn24.pl/25-lat-TVN24/25-lat-tvn24-dzien-z-zycia-redakcji-w-bialymstoku-st9003444?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 05:59:48 GMT",
+      "description": "Jubileuszową trasę \"Jesteśmy stąd\" TVN24 zaczynamy od Siemiatycz na Podlasiu. W stolicy tego regionu - w Białymstoku - znajduje się jeden z ośmiu naszych ośrodków regionalnych. A tamtejsza redakcja codziennie dba o to, żeby relacjonować i informować o najważniejszych wydarzeniach regionu. Także tych zagranicznych.",
+      "originalTitle": "\"Jesteśmy państwa oczami w północno-wschodniej Polsce\". Dzień z życia podlaskiej redakcji",
+      "originalDescription": "Jubileuszową trasę \"Jesteśmy stąd\" TVN24 zaczynamy od Siemiatycz na Podlasiu. W stolicy tego regionu - w Białymstoku - znajduje się jeden z ośmiu naszych ośrodków regionalnych. A tamtejsza redakcja codziennie dba o to, żeby relacjonować i informować o najważniejszych wydarzeniach regionu. Także tych zagranicznych."
+    },
+    {
+      "title": "Trzęsienie ziemi w Japonii. Powodowało problemy z poruszaniem się",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-trzesienie-ziemi-w-nagano-powodowalo-problemy-z-poruszaniem-sie-st9004208?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 05:41:54 GMT",
+      "description": "W sobotę rano polskiego czasu w japońskiej prefekturze Nagano doszło do trzęsienia ziemi. Japońska agencja meteorogiczna wstępnie oceniła jego magnitudę na 5+.",
+      "originalTitle": "Trzęsienie ziemi w Japonii. Powodowało problemy z poruszaniem się",
+      "originalDescription": "W sobotę rano polskiego czasu w japońskiej prefekturze Nagano doszło do trzęsienia ziemi. Japońska agencja meteorogiczna wstępnie oceniła jego magnitudę na 5+."
+    },
+    {
+      "title": "Tyle zapłacimy za paliwo w weekend. Są nowe ceny",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-weekend-18-19-kwietnia-i-w-poniedzialek-20-kwietnia-ile-kosztuje-na-stacjach-benzyna-i-diesel-pb95-pb98-on-st9002397?source=rss",
+      "pubDate": "Fri, 17 Apr 2026 09:15:43 GMT",
+      "description": "Ceny paliw w weekend są niższe niż w piątek - wynika z obwieszczenia ministra energii w sprawie maksymalnych stawek na benzynę i olej napędowy.",
+      "originalTitle": "Tyle zapłacimy za paliwo w weekend. Są nowe ceny",
+      "originalDescription": "Ceny paliw w weekend są niższe niż w piątek - wynika z obwieszczenia ministra energii w sprawie maksymalnych stawek na benzynę i olej napędowy."
+    },
+    {
+      "title": "Administracja USA wspiera skrajną prawicę w Europie. Media: kieruje tym 27-latek",
+      "link": "https://tvn24.pl/swiat/usa-media-27-latek-odpowiedzialny-za-wsparcie-skrajnej-prawicy-w-europie-st9004190?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 05:28:30 GMT",
+      "description": "Jednym z architektów wsparcia skrajnej prawicy w Europie przez administrację prezydenta USA Donalda Trumpa jest 27-letni urzędnik Departamentu Stanu Alex Samson - przekazał \"New York Times\". Samson miał między innymi spotkać się z reprezentantami niemieckiego AfD i wspierać Marine Le Pen.",
+      "originalTitle": "Administracja USA wspiera skrajną prawicę w Europie. Media: kieruje tym 27-latek",
+      "originalDescription": "Jednym z architektów wsparcia skrajnej prawicy w Europie przez administrację prezydenta USA Donalda Trumpa jest 27-letni urzędnik Departamentu Stanu Alex Samson - przekazał \"New York Times\". Samson miał między innymi spotkać się z reprezentantami niemieckiego AfD i wspierać Marine Le Pen."
+    },
+    {
+      "title": "Marie-Louise Eta pierwszą kobietą w szatni. Patrzy cały świat",
+      "link": "https://tvn24.pl/swiat/marie-louise-eta-pierwsza-kobieta-w-szatni-patrzy-caly-swiat-klub-union-berlin-lamie-tabu-st9001198?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 05:12:39 GMT",
+      "description": "Padła jedna z ostatnich barier w piłce nożnej. Marie-Louise Eta od niedzieli dowodzi zespołem Bundesligi z Berlina. Było dużo pochwał za odwagę, ale nie brakowało zdziwienia i seksistowskich komentarzy. Jakby zapomniano, że to nie płeć powinna być kluczowym kryterium przy nominacji.",
+      "originalTitle": "Marie-Louise Eta pierwszą kobietą w szatni. Patrzy cały świat",
+      "originalDescription": "Padła jedna z ostatnich barier w piłce nożnej. Marie-Louise Eta od niedzieli dowodzi zespołem Bundesligi z Berlina. Było dużo pochwał za odwagę, ale nie brakowało zdziwienia i seksistowskich komentarzy. Jakby zapomniano, że to nie płeć powinna być kluczowym kryterium przy nominacji."
+    },
+    {
+      "title": "USA przedłuża zezwolenie na zakup rosyjskiej ropy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-rosyjska-ropa-administracja-trumpa-przedluza-zwolnienie-z-sankcji-st9004193?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 05:08:33 GMT",
+      "description": "Administracja USA wydała w piątek zezwolenie umożliwiające państwom zakup rosyjskiej ropy i produktów naftowych załadowanych do tej pory na statki - przekazał Reuters. Kolejna zgoda na sprzedaż objętego sankcjami surowca to próba powstrzymania wzrostu światowych cen energii, wywołanego wojną USA i Izraela z Iranem.",
+      "originalTitle": "USA przedłuża zezwolenie na zakup rosyjskiej ropy",
+      "originalDescription": "Administracja USA wydała w piątek zezwolenie umożliwiające państwom zakup rosyjskiej ropy i produktów naftowych załadowanych do tej pory na statki - przekazał Reuters. Kolejna zgoda na sprzedaż objętego sankcjami surowca to próba powstrzymania wzrostu światowych cen energii, wywołanego wojną USA i Izraela z Iranem."
+    }
+  ]
 }
