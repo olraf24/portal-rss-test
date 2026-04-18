@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-18T12:15:43.533Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-18T12:48:37.849Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wegański burger - tak, wegański bekon - nie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/koniec-nazw-stek-i-bekon-dla-roslinnych-zamiennikow-nowe-regulacje-ue-st9004708?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 12:37:18 GMT",
+      "description": "W Unii Europejskiej wkrótce mogą wejść w życie przepisy, które zarezerwują nazwy takie jak \"stek\" czy \"bekon\" wyłącznie dla produktów zawierających mięso. Organizacje konsumenckie zwracają jednak uwagę na niespójność nowych regulacji - choć zniknie określenie \"wegański bekon\", nadal dopuszczalne pozostanie używanie nazwy \"burger\" dla roślinnych odpowiedników.",
+      "originalTitle": "Wegański burger - tak, wegański bekon - nie",
+      "originalDescription": "W Unii Europejskiej wkrótce mogą wejść w życie przepisy, które zarezerwują nazwy takie jak \"stek\" czy \"bekon\" wyłącznie dla produktów zawierających mięso. Organizacje konsumenckie zwracają jednak uwagę na niespójność nowych regulacji - choć zniknie określenie \"wegański bekon\", nadal dopuszczalne pozostanie używanie nazwy \"burger\" dla roślinnych odpowiedników."
+    },
+    {
+      "title": "Pożar w restauracji Stary Młyn. \"Dla osób z niepełnosprawnościami stanowi drugi dom\"",
+      "link": "https://tvn24.pl/rzeszow/debica-palil-sie-stary-mlyn-dla-osob-z-niepelnosprawnosciami-stanowi-drugi-dom-st9004758?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 12:33:06 GMT",
+      "description": "Pożar w restauracji Stary Młyn w Dębicy. W akcji gaśniczej brało udział kilkanaście zastępów straży pożarnej. Z informacji przekazanej przez kierownictwo lokalu wynika, że nikt nie został ranny.",
+      "originalTitle": "Pożar w restauracji Stary Młyn. \"Dla osób z niepełnosprawnościami stanowi drugi dom\"",
+      "originalDescription": "Pożar w restauracji Stary Młyn w Dębicy. W akcji gaśniczej brało udział kilkanaście zastępów straży pożarnej. Z informacji przekazanej przez kierownictwo lokalu wynika, że nikt nie został ranny."
+    },
+    {
+      "title": "Odkryli ogromny zbiornik z magmą. Ma pojemność jak superwulkan Yellowstone",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/wlochy-odkryli-ogromny-zbiornik-z-magma-w-toskanii-ma-pojemnosc-superwulkanu-yellowstone-st9004685?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 12:05:59 GMT",
+      "description": "Naukowcy odkryli pod Toskanią ogromny zbiornik z lawą, porównywalny rozmiarami z największymi, które znamy. Zdaniem badaczy odkrycie to nie tylko ciekawostka dla wulkanologów - pomoże nam także w innych, bardziej praktycznych dziedzinach życia.",
+      "originalTitle": "Odkryli ogromny zbiornik z magmą. Ma pojemność jak superwulkan Yellowstone",
+      "originalDescription": "Naukowcy odkryli pod Toskanią ogromny zbiornik z lawą, porównywalny rozmiarami z największymi, które znamy. Zdaniem badaczy odkrycie to nie tylko ciekawostka dla wulkanologów - pomoże nam także w innych, bardziej praktycznych dziedzinach życia."
+    },
+    {
+      "title": "Morawiecki \"niczego się nie boi\". Spotkanie w Toruniu, na liście członkowie stowarzyszenia",
+      "link": "https://tvn24.pl/polska/torun-spotkanie-pis-czy-mateusza-morawieckiego-na-liscie-czlonkowie-stowarzyszenia-st9004631?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:48:23 GMT",
+      "description": "W Toruniu odbyło się w sobotę spotkanie z politykami PiS, na czele z Mateuszem Morawieckim. Choć impreza oficjalnie zorganizowana jest pod szyldem PiS, na liście uczestników znalazły się osoby związane z nowym stowarzyszeniem Morawieckiego - Rozwój Plus. Były premier zapewnił, że \"jest spokojny\" i będzie realizował swój plan \"w ramach Prawa i Sprawiedliwości\".",
+      "originalTitle": "Morawiecki \"niczego się nie boi\". Spotkanie w Toruniu, na liście członkowie stowarzyszenia",
+      "originalDescription": "W Toruniu odbyło się w sobotę spotkanie z politykami PiS, na czele z Mateuszem Morawieckim. Choć impreza oficjalnie zorganizowana jest pod szyldem PiS, na liście uczestników znalazły się osoby związane z nowym stowarzyszeniem Morawieckiego - Rozwój Plus. Były premier zapewnił, że \"jest spokojny\" i będzie realizował swój plan \"w ramach Prawa i Sprawiedliwości\"."
+    },
+    {
+      "title": "Blady strach padł na banki. Oto powód",
+      "link": "https://tvn24.pl/biznes/tech/claude-mythos-preview-blady-strach-padl-na-banki-potrafi-przeprowadzac-wieloetapowe-ataki-st9001320?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:36:14 GMT",
+      "description": "Rozwój sztucznej inteligencji przynosi nie tylko możliwości i korzyści, ale też zagrożenia. Nowy model narzędzia firmy Anthropic o nazwie Claude Mythos Preview potrafi znajdować dziury w kodzie witryn i całych systemów, w tym finansowych. Choć nie jest dostępny publicznie, wywołał reakcję instytucji regulacyjnych i banków zaniepokojonych jego potencjałem w zakresie cyberprzestępczości.",
+      "originalTitle": "Blady strach padł na banki. Oto powód",
+      "originalDescription": "Rozwój sztucznej inteligencji przynosi nie tylko możliwości i korzyści, ale też zagrożenia. Nowy model narzędzia firmy Anthropic o nazwie Claude Mythos Preview potrafi znajdować dziury w kodzie witryn i całych systemów, w tym finansowych. Choć nie jest dostępny publicznie, wywołał reakcję instytucji regulacyjnych i banków zaniepokojonych jego potencjałem w zakresie cyberprzestępczości."
+    },
+    {
+      "title": "Podali się za policjantów, napadli, związali, razili paralizatorem. Zrabowali ćwierć miliona złotych",
+      "link": "https://tvn24.pl/lublin/lublin-podawali-sie-za-policjantow-i-napadli-mezczyzne-zrabowali-cwierc-miliona-zlotych-st9004572?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:33:33 GMT",
+      "description": "Trzej mężczyźni podający się za policjantów napadli na 67-letniego mieszkańca Lublina. Wdarli się do jego domu, obezwładnili go paralizatorem, pobili i związali. Zabrali 250 tysięcy złotych w gotówce, po czym uciekli. Dzięki pracy operacyjnej kryminalnych z komendy wojewódzkiej podejrzani zostali zatrzymani w Łodzi, Koninie i Lublinie. Sąd tymczasowo aresztował ich na trzy miesiące. Grozi im do 20 lat więzienia.",
+      "originalTitle": "Podali się za policjantów, napadli, związali, razili paralizatorem. Zrabowali ćwierć miliona złotych",
+      "originalDescription": "Trzej mężczyźni podający się za policjantów napadli na 67-letniego mieszkańca Lublina. Wdarli się do jego domu, obezwładnili go paralizatorem, pobili i związali. Zabrali 250 tysięcy złotych w gotówce, po czym uciekli. Dzięki pracy operacyjnej kryminalnych z komendy wojewódzkiej podejrzani zostali zatrzymani w Łodzi, Koninie i Lublinie. Sąd tymczasowo aresztował ich na trzy miesiące. Grozi im do 20 lat więzienia."
+    },
+    {
+      "title": "Seryjny podpalacz w rękach policji. Ma 67 lat",
+      "link": "https://tvn24.pl/bialystok/bialystok-seryjny-podpalacz-w-rekach-policji-ma-67-lat-st9004649?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:24:22 GMT",
+      "description": "67-letni mieszkaniec Białegostoku został zatrzymany przez policję w związku z serią podpaleń kontenerów na odpady. Usłyszał zarzut zniszczenia mienia, a straty oszacowano na ponad 40 tysięcy złotych. Decyzją sądu najbliższe trzy miesiące spędzi w areszcie. Grozi mu do 5 lat więzienia.",
+      "originalTitle": "Seryjny podpalacz w rękach policji. Ma 67 lat",
+      "originalDescription": "67-letni mieszkaniec Białegostoku został zatrzymany przez policję w związku z serią podpaleń kontenerów na odpady. Usłyszał zarzut zniszczenia mienia, a straty oszacowano na ponad 40 tysięcy złotych. Decyzją sądu najbliższe trzy miesiące spędzi w areszcie. Grozi mu do 5 lat więzienia."
+    },
+    {
+      "title": "Miał zostać pobity i przetrzymywany. Pięciu zatrzymanych",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-mial-zostac-pobity-i-przetrzymywany-pieciu-zatrzymanych-st9004711?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:16:52 GMT",
+      "description": "Do policji zgłosił się mężczyzna, który miał być bity i przetrzymywany. Służby pracują nad wyjaśnieniem okoliczności tej sprawy. Zostało do niej zatrzymanych pięciu mężczyzn. Pierwszą informację dostaliśmy na Kontakt24.",
+      "originalTitle": "Miał zostać pobity i przetrzymywany. Pięciu zatrzymanych",
+      "originalDescription": "Do policji zgłosił się mężczyzna, który miał być bity i przetrzymywany. Służby pracują nad wyjaśnieniem okoliczności tej sprawy. Zostało do niej zatrzymanych pięciu mężczyzn. Pierwszą informację dostaliśmy na Kontakt24."
+    },
+    {
+      "title": "Akcja służb w centrum handlowym. Skontrolowano 630 osób",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolka-kosowska-akcja-sluzb-w-centrum-handlowym-skontrolowano-630-osob-st9004623?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:07:04 GMT",
+      "description": "W Wólce Kosowskiej na terenie centrum handlowego pojawiło się 500 funkcjonariuszy policji, Krajowej Administracji Skarbowej i Straży Granicznej. Akcja wymierzona była m.in. w handlarzy sprzedających nielegalny towar i unikających opodatkowania.",
+      "originalTitle": "Akcja służb w centrum handlowym. Skontrolowano 630 osób",
+      "originalDescription": "W Wólce Kosowskiej na terenie centrum handlowego pojawiło się 500 funkcjonariuszy policji, Krajowej Administracji Skarbowej i Straży Granicznej. Akcja wymierzona była m.in. w handlarzy sprzedających nielegalny towar i unikających opodatkowania."
+    },
+    {
+      "title": "Ataki na statki w cieśninie Ormuz",
+      "link": "https://tvn24.pl/biznes/ze-swiata/iran-ciesnina-ormuz-atak-na-tankowce-st9004719?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 11:05:53 GMT",
+      "description": "Co najmniej dwa statki handlowe poinformowały, że zostały ostrzelane, gdy w sobotę próbowały przepłynąć cieśninę Ormuz - podała agencja Reuters. Organizacja do spraw handlu morskiego Wielkiej Brytanii (UKMTO) przekazała, że otrzymała zgłoszenie o ostrzelaniu tankowca.",
+      "originalTitle": "Ataki na statki w cieśninie Ormuz",
+      "originalDescription": "Co najmniej dwa statki handlowe poinformowały, że zostały ostrzelane, gdy w sobotę próbowały przepłynąć cieśninę Ormuz - podała agencja Reuters. Organizacja do spraw handlu morskiego Wielkiej Brytanii (UKMTO) przekazała, że otrzymała zgłoszenie o ostrzelaniu tankowca."
+    }
+  ]
 }
