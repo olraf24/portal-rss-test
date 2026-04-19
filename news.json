@@ -1,6 +1,85 @@
 {
-  "lastUpdate": "2026-04-19T16:46:26.279Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-19T17:14:48.381Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - poniedziałek, 20.04. Tu nocą będzie padać najmocniej",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-20-04-tu-noca-bedzie-padac-najmocniej-st9006035?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 17:12:10 GMT",
+      "description": "Pogoda na jutro, czyli na poniedziałek, 20.04. Nocą niebo nad większością Polski zakryją deszczowe chmury. W niektórych rejonach suma opadów może wynieść kilkadziesiąt litrów na metr kwadratowy. Deszcz nie odpuści także w dzień.",
+      "originalTitle": "Pogoda na jutro - poniedziałek, 20.04. Tu nocą będzie padać najmocniej",
+      "originalDescription": "Pogoda na jutro, czyli na poniedziałek, 20.04. Nocą niebo nad większością Polski zakryją deszczowe chmury. W niektórych rejonach suma opadów może wynieść kilkadziesiąt litrów na metr kwadratowy. Deszcz nie odpuści także w dzień."
+    },
+    {
+      "title": "Ośmioro dzieci zabitych w strzelaninie",
+      "link": "https://tvn24.pl/swiat/usa-luizjana-osmioro-dzieci-zabitych-w-strzelaninie-st9006237?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 16:31:11 GMT",
+      "description": "Brak opisu"
+    },
+    {
+      "title": "Ogromny rój pszczół wydostał się z ciężarówki",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-z-rozbitej-ciezarowki-uwolnil-sie-roj-pszczol-wstrzymano-ruch-na-autostradzie-st9006220?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 16:26:39 GMT",
+      "description": "Kierowcy we wschodnim Tennessee przez niemal godzinę nie mogli skorzystać z jednego ze zjazdów z autostrady. Stało się tak z powodu roju pszczół, który wydostał się z rozbitej ciężarówki.",
+      "originalTitle": "Ogromny rój pszczół wydostał się z ciężarówki",
+      "originalDescription": "Kierowcy we wschodnim Tennessee przez niemal godzinę nie mogli skorzystać z jednego ze zjazdów z autostrady. Stało się tak z powodu roju pszczół, który wydostał się z rozbitej ciężarówki."
+    },
+    {
+      "title": "Wybuch w fabryce fajerwerków. Są ofiary śmiertelne",
+      "link": "https://tvn24.pl/swiat/indie-wybuch-w-fabryce-fajerwerkow-co-najmniej-20-osob-nie-zyje-st9006222?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 16:01:27 GMT",
+      "description": "Na południu Indii doszło w niedzielę do wybuchu w fabryce fajerwerków. W wyniku eksplozji co najmniej 20 osób nie żyje, a sześć zostało rannych - powiedział agencji AFP przedstawiciel lokalnej policji.",
+      "originalTitle": "Wybuch w fabryce fajerwerków. Są ofiary śmiertelne",
+      "originalDescription": "Na południu Indii doszło w niedzielę do wybuchu w fabryce fajerwerków. W wyniku eksplozji co najmniej 20 osób nie żyje, a sześć zostało rannych - powiedział agencji AFP przedstawiciel lokalnej policji."
+    },
+    {
+      "title": "Chcieli podpalić synagogę. Premier \"zszokowany\"",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-w-londynie-doszlo-do-proby-podpalenia-synagogi-st9006176?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 15:33:43 GMT",
+      "description": "W północno-zachodnim Londynie w nocy z soboty na niedzielę doszło do próby podpalenia synagogi. \"To jest odrażające i nie będzie tolerowane\" - zadeklarował brytyjski premier Keir Starmer. To kolejny taki incydent w ostatnich dniach w kraju.",
+      "originalTitle": "Chcieli podpalić synagogę. Premier \"zszokowany\"",
+      "originalDescription": "W północno-zachodnim Londynie w nocy z soboty na niedzielę doszło do próby podpalenia synagogi. \"To jest odrażające i nie będzie tolerowane\" - zadeklarował brytyjski premier Keir Starmer. To kolejny taki incydent w ostatnich dniach w kraju."
+    },
+    {
+      "title": "Wyciek tlenku siarki we Wrocławiu. Ewakuacja mieszkańców i zamknięty SOR",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-ewakuacja-budynku-jedna-osoba-w-szpitalu-z-powody-tlenku-siarki-st9006187?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 15:05:25 GMT",
+      "description": "Kilkanaście osób ewakuowało się z budynku przy ulicy Gazowej we Wrocławiu z powodu wycieku tlenku siarki. Jedna osoba trafiła do szpitala. Służby apelują, aby nie zbliżać się do miejsca zdarzenia.",
+      "originalTitle": "Wyciek tlenku siarki we Wrocławiu. Ewakuacja mieszkańców i zamknięty SOR",
+      "originalDescription": "Kilkanaście osób ewakuowało się z budynku przy ulicy Gazowej we Wrocławiu z powodu wycieku tlenku siarki. Jedna osoba trafiła do szpitala. Służby apelują, aby nie zbliżać się do miejsca zdarzenia."
+    },
+    {
+      "title": "Burza piaskowa pochłania miasto. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-burza-piaskowa-pochlania-miasto-nagranie-st9006142?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 14:56:20 GMT",
+      "description": "Burza piaskowa uderzyła w północno-zachodnie Chiny, co znacząco pogorszyło jakość powietrza. To, jak żywioł nacierał na jedno z miast, widać na nagraniu.",
+      "originalTitle": "Burza piaskowa pochłania miasto. Nagranie",
+      "originalDescription": "Burza piaskowa uderzyła w północno-zachodnie Chiny, co znacząco pogorszyło jakość powietrza. To, jak żywioł nacierał na jedno z miast, widać na nagraniu."
+    },
+    {
+      "title": "Miała 27 lat, odeszła w dniu wybuchu powstania. Ta tabliczka to jedyny ślad jej istnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/zginela-podczas-powstania-w-getcie-warszawskim-zostala-po-niej-tylko-tabliczka-st9006091?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 14:18:38 GMT",
+      "description": "Miała 27 lat, zmarła 19 kwietnia 1943 roku, czyli w dniu wybuchu powstania w getcie warszawskim. Archeolodzy znaleźli tabliczkę nagrobną Aliny Sztarkman. Na razie wiadomo o niej niewiele.",
+      "originalTitle": "Miała 27 lat, odeszła w dniu wybuchu powstania. Ta tabliczka to jedyny ślad jej istnienia",
+      "originalDescription": "Miała 27 lat, zmarła 19 kwietnia 1943 roku, czyli w dniu wybuchu powstania w getcie warszawskim. Archeolodzy znaleźli tabliczkę nagrobną Aliny Sztarkman. Na razie wiadomo o niej niewiele."
+    },
+    {
+      "title": "Praktyka \"porzucania pacjentów\" w USA? Co to za film",
+      "link": "https://konkret24.tvn24.pl/swiat/praktyka-porzucania-pacjentow-w-usa-co-to-za-film-st9003840?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 14:04:24 GMT",
+      "description": "Rozpowszechniane w sieci nagranie porusza internatów: widzimy na nim leżącą na chodniku osobę, której nikt nie pomaga. Film rozchodzi się z informacją, że obecnie szpitale w USA tak właśnie porzucają na ulicy pacjentów, których nie stać na leczenie. Wyjaśniamy kontekst pokazanej sytuacji.",
+      "originalTitle": "Praktyka \"porzucania pacjentów\" w USA? Co to za film",
+      "originalDescription": "Rozpowszechniane w sieci nagranie porusza internatów: widzimy na nim leżącą na chodniku osobę, której nikt nie pomaga. Film rozchodzi się z informacją, że obecnie szpitale w USA tak właśnie porzucają na ulicy pacjentów, których nie stać na leczenie. Wyjaśniamy kontekst pokazanej sytuacji."
+    },
+    {
+      "title": "Rosjanie zaostrzają kontrole na granicach",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rosjanie-zaostrzaja-kontrole-na-granicach-st9006103?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 13:46:34 GMT",
+      "description": "Służby graniczne w Rosji zyskały nowe uprawnienia - mogą skontrolować telefony, tablety i laptopy podróżnych - przekazał niezależny rosyjski portal Nastojaszczeje Wriemia. Za odmowę udostępnienia urządzenia można zostać ukaranym grzywną lub aresztem.",
+      "originalTitle": "Rosjanie zaostrzają kontrole na granicach",
+      "originalDescription": "Służby graniczne w Rosji zyskały nowe uprawnienia - mogą skontrolować telefony, tablety i laptopy podróżnych - przekazał niezależny rosyjski portal Nastojaszczeje Wriemia. Za odmowę udostępnienia urządzenia można zostać ukaranym grzywną lub aresztem."
+    }
+  ]
 }
