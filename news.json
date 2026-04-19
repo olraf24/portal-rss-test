@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-19T11:15:30.601Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-19T11:45:34.169Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wybuch gazu w kamperze, są ciężko ranni",
+      "link": "https://tvn24.pl/trojmiasto/lebork-wybuch-gazu-w-camperze-ladowal-smiglowiec-lpr-st9005838?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 11:36:08 GMT",
+      "description": "Mężczyzna ma poparzoną twarz, a kobieta 50 procent ciała. W kamperze w Lęborku (Pomorskie) doszło do wybuchu instalacji gazowej służącej do ogrzewania. Na miejsce wysłano śmigłowiec Lotniczego Pogotowia Ratunkowego.",
+      "originalTitle": "Wybuch gazu w kamperze, są ciężko ranni",
+      "originalDescription": "Mężczyzna ma poparzoną twarz, a kobieta 50 procent ciała. W kamperze w Lęborku (Pomorskie) doszło do wybuchu instalacji gazowej służącej do ogrzewania. Na miejsce wysłano śmigłowiec Lotniczego Pogotowia Ratunkowego."
+    },
+    {
+      "title": "Pijany wpadł do Odry. Dopłynął o własnych siłach na brzeg",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-pijany-wpadl-do-wody-doplynal-o-wlasnych-silach-na-brzeg-st9005811?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 11:16:05 GMT",
+      "description": "30-letni mężczyzna wpadł w centrum Wrocławia do Odry. Gdy przyjechali ratownicy wodni, był już na wyspie Tamka. Udało mu się o własnych siłach dopłynąć do brzeg i – z pomocą świadka – wydostać na ląd. Z mężczyzną był utrudniony kontakt. Był pijany.",
+      "originalTitle": "Pijany wpadł do Odry. Dopłynął o własnych siłach na brzeg",
+      "originalDescription": "30-letni mężczyzna wpadł w centrum Wrocławia do Odry. Gdy przyjechali ratownicy wodni, był już na wyspie Tamka. Udało mu się o własnych siłach dopłynąć do brzeg i – z pomocą świadka – wydostać na ląd. Z mężczyzną był utrudniony kontakt. Był pijany."
+    },
+    {
+      "title": "Awaryjne lądowanie awionetki. Leciały nią dwie osoby",
+      "link": "https://tvn24.pl/poznan/poznan-awaryjne-ladowanie-awionetki-st9005812?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 11:11:50 GMT",
+      "description": "Na trawiastym lotnisku pod Poznaniem awaryjnie lądowała awionetka. Dwie lecące nią osoby same opuściły maszynę.",
+      "originalTitle": "Awaryjne lądowanie awionetki. Leciały nią dwie osoby",
+      "originalDescription": "Na trawiastym lotnisku pod Poznaniem awaryjnie lądowała awionetka. Dwie lecące nią osoby same opuściły maszynę."
+    },
+    {
+      "title": "Rewolucja zamiast ewolucji. Potężne zmiany na niebie",
+      "link": "https://tvn24.pl/biznes/ze-swiata/drozsze-paliwo-ryzyko-dla-branzy-linie-lotnicze-przed-wyzwaniem-st9005619?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 11:10:48 GMT",
+      "description": "Linie lotnicze w USA zmagają się z rosnącymi kosztami, które napędzają drożejące paliwo i wynagrodzenia pracowników. Skutkiem są wyższe ceny biletów oraz przyspieszone zmiany w branży lotniczej, w tym możliwe przejęcia i fuzje - wynika z analiz przywoływanych przez Axios.",
+      "originalTitle": "Rewolucja zamiast ewolucji. Potężne zmiany na niebie",
+      "originalDescription": "Linie lotnicze w USA zmagają się z rosnącymi kosztami, które napędzają drożejące paliwo i wynagrodzenia pracowników. Skutkiem są wyższe ceny biletów oraz przyspieszone zmiany w branży lotniczej, w tym możliwe przejęcia i fuzje - wynika z analiz przywoływanych przez Axios."
+    },
+    {
+      "title": "Rowerzysta na autostradzie. \"Nie był w stanie podać swoich danych\"",
+      "link": "https://tvn24.pl/lodz/rowerzysta-na-autostradzie-nie-byl-w-stanie-podac-swoich-danych-st9005789?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 11:06:22 GMT",
+      "description": "Nietrzeźwy 63-latek wyjechał rowerem na autostradę. Został zatrzymany przez policję i ukarany wysokim mandatem.",
+      "originalTitle": "Rowerzysta na autostradzie. \"Nie był w stanie podać swoich danych\"",
+      "originalDescription": "Nietrzeźwy 63-latek wyjechał rowerem na autostradę. Został zatrzymany przez policję i ukarany wysokim mandatem."
+    },
+    {
+      "title": "IMGW rozszerza zasięg ostrzeżeń. Tam też będzie lać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-19-20-04-ostrzezenia-imgw-ulewy-gwaltowna-aura-pod-koniec-weekendu-st9004947?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 04:24:00 GMT",
+      "description": "Pogoda w Polsce. IMGW wydał kolejne alarmy meteorologiczne przed intensywnymi opadami deszczu dla obszarów na południu i w centrum kraju. Miejscami ma być niebezpiecznie do poniedziałkowego wieczoru.",
+      "originalTitle": "IMGW rozszerza zasięg ostrzeżeń. Tam też będzie lać",
+      "originalDescription": "Pogoda w Polsce. IMGW wydał kolejne alarmy meteorologiczne przed intensywnymi opadami deszczu dla obszarów na południu i w centrum kraju. Miejscami ma być niebezpiecznie do poniedziałkowego wieczoru."
+    },
+    {
+      "title": "Alert RCB dla trzech województw. \"Nie zbliżaj się do wezbranych rzek\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-niedziela-19-04-pogoda-ulewy-w-polsce-silny-deszcz-tu-nalezy-uwazac-st9005626?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 10:42:31 GMT",
+      "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało w niedzielę alert. Służby ostrzegają przed intensywnymi opadami deszczu w trzech województwach. Eksperci apelują o ostrożność i słuchanie poleceń służb.",
+      "originalTitle": "Alert RCB dla trzech województw. \"Nie zbliżaj się do wezbranych rzek\"",
+      "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało w niedzielę alert. Służby ostrzegają przed intensywnymi opadami deszczu w trzech województwach. Eksperci apelują o ostrożność i słuchanie poleceń służb."
+    },
+    {
+      "title": "Wszystkie rady prezydenta. Pół tysiąca osób do \"odsłuchu\"",
+      "link": "https://konkret24.tvn24.pl/polityka/wszystkie-rady-prezydenta-pol-tysiaca-osob-do-odsluchu-st9005616?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 10:31:09 GMT",
+      "description": "W niespełna rok przy prezydencie Karolu Nawrockim powstało więcej rad niż za całej kadencji poprzednika. On sam mówi o nich \"strefa odsłuchu\". To by potwierdzały składy osobowe owych gremiów – nie zawsze o fachowość tych doradców chodzi.",
+      "originalTitle": "Wszystkie rady prezydenta. Pół tysiąca osób do \"odsłuchu\"",
+      "originalDescription": "W niespełna rok przy prezydencie Karolu Nawrockim powstało więcej rad niż za całej kadencji poprzednika. On sam mówi o nich \"strefa odsłuchu\". To by potwierdzały składy osobowe owych gremiów – nie zawsze o fachowość tych doradców chodzi."
+    },
+    {
+      "title": "Traktorzysta na podwójnym gazie. Policja: blisko trzy promile alkoholu w organizmie",
+      "link": "https://tvn24.pl/bialystok/gmina-grabowo-traktorzysta-na-podwojnym-gazie-mial-blisko-trzy-promile-alkoholu-w-organizmie-st9005589?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 10:11:03 GMT",
+      "description": "To miała być rutynowa kontrola. Policja zatrzymała w gminie Grabowo (Podlaskie) 43-letniego traktorzystę, który miał w organizmie blisko trzy promile alkoholu. Wyszło też na jaw, że – zgodnie z decyzją sądu - nie mógł do końca życia wsiadać za kierownicę.",
+      "originalTitle": "Traktorzysta na podwójnym gazie. Policja: blisko trzy promile alkoholu w organizmie",
+      "originalDescription": "To miała być rutynowa kontrola. Policja zatrzymała w gminie Grabowo (Podlaskie) 43-letniego traktorzystę, który miał w organizmie blisko trzy promile alkoholu. Wyszło też na jaw, że – zgodnie z decyzją sądu - nie mógł do końca życia wsiadać za kierownicę."
+    },
+    {
+      "title": "Trump grozi, trzy kraje reagują",
+      "link": "https://tvn24.pl/swiat/kuba-trzy-panstwa-wzywaja-do-poszanowania-jej-suwerennosci-po-slowach-donalda-trumpa-st9005371?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 10:10:50 GMT",
+      "description": "Brazylia, Hiszpania i Meksyk - władze tych trzech państw podpisały wspólną deklarację, w której wzywają społeczność międzynarodową do poszanowania suwerenności Kuby. To reakcja na sugestię Donalda Trumpa, że USA mogą podjąć działania zbrojne na wyspie.",
+      "originalTitle": "Trump grozi, trzy kraje reagują",
+      "originalDescription": "Brazylia, Hiszpania i Meksyk - władze tych trzech państw podpisały wspólną deklarację, w której wzywają społeczność międzynarodową do poszanowania suwerenności Kuby. To reakcja na sugestię Donalda Trumpa, że USA mogą podjąć działania zbrojne na wyspie."
+    }
+  ]
 }
