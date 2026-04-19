@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-19T09:19:16.890Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-19T09:47:25.134Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Iran grozi atakami. Nawet zbliżenie się \"będzie uznane za współpracę z wrogiem\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ciesnina-ormuz-iran-grozi-atakami-nawet-zblizenie-bedzie-uznane-za-wspolprace-z-wrogiem-st9005560?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 08:57:16 GMT",
+      "description": "Iran zamyka cieśninę Ormuz do czasu zniesienia przez USA blokady irańskich portów. Teheran podkreślił, że zbliżające się do przesmyku statki będą uznawane za cele.",
+      "originalTitle": "Iran grozi atakami. Nawet zbliżenie się \"będzie uznane za współpracę z wrogiem\"",
+      "originalDescription": "Iran zamyka cieśninę Ormuz do czasu zniesienia przez USA blokady irańskich portów. Teheran podkreślił, że zbliżające się do przesmyku statki będą uznawane za cele."
+    },
+    {
+      "title": "\"Chowamy klej do kieszeni\". Ostatnie Pokolenie ogłasza sukces i koniec działalności",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/aktywisci-ostatniego-pokolenia-oglaszaja-sukces-i-koniec-dzialalnosci-st9005502?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 08:56:34 GMT",
+      "description": "Osiągnęliśmy sukces - twierdzą członkowie Ostatniego Pokolenia i ogłaszają koniec działań. Aktywiści znani z kontrowersyjnych metod protestów takich jak przyklejanie się do stołecznych jezdni stwierdzili, że wypełnili swoją misję. Podczas swoich działań deklarowali, że walczą o lepszą politykę klimatyczną w Polsce.",
+      "originalTitle": "\"Chowamy klej do kieszeni\". Ostatnie Pokolenie ogłasza sukces i koniec działalności",
+      "originalDescription": "Osiągnęliśmy sukces - twierdzą członkowie Ostatniego Pokolenia i ogłaszają koniec działań. Aktywiści znani z kontrowersyjnych metod protestów takich jak przyklejanie się do stołecznych jezdni stwierdzili, że wypełnili swoją misję. Podczas swoich działań deklarowali, że walczą o lepszą politykę klimatyczną w Polsce."
+    },
+    {
+      "title": "Pogoda w Polsce. Nadciąga silny deszcz. Tu opady mogą pobić miesięczną normę",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-ulewy-gdzie-spadnie-deszcz-tu-opady-moga-pobic-miesieczna-norme-st9005491?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 08:55:03 GMT",
+      "description": "Pogoda w Polsce. W niedzielę i poniedziałek w naszym kraju wystąpią intensywne opady deszczu. Miejscami w dobę może spaść go tyle, ile zazwyczaj pada przez cały kwiecień.",
+      "originalTitle": "Pogoda w Polsce. Nadciąga silny deszcz. Tu opady mogą pobić miesięczną normę",
+      "originalDescription": "Pogoda w Polsce. W niedzielę i poniedziałek w naszym kraju wystąpią intensywne opady deszczu. Miejscami w dobę może spaść go tyle, ile zazwyczaj pada przez cały kwiecień."
+    },
+    {
+      "title": "J.D. Vance \"wdzięczny\" za słowa papieża",
+      "link": "https://tvn24.pl/swiat/j-d-vance-wdzieczny-za-slowa-papieza-st9005370?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 08:12:28 GMT",
+      "description": "Będziemy modlić się za papieża Leona XIV i mam nadzieję, że on będzie modlił się za nas - napisał wiceprezydent USA J.D. Vance. Komentował wypowiedź papieża, który stwierdził, że nie jest w jego interesie prowadzenie dyskusji z prezydentem USA Donaldem Trumpem.",
+      "originalTitle": "J.D. Vance \"wdzięczny\" za słowa papieża",
+      "originalDescription": "Będziemy modlić się za papieża Leona XIV i mam nadzieję, że on będzie modlił się za nas - napisał wiceprezydent USA J.D. Vance. Komentował wypowiedź papieża, który stwierdził, że nie jest w jego interesie prowadzenie dyskusji z prezydentem USA Donaldem Trumpem."
+    },
+    {
+      "title": "Utrudnienia na Ochocie. Drogowcy wchodzą na plac Narutowicza",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-od-poniedzialku-prace-na-placu-narutowicza-st9005418?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 07:54:30 GMT",
+      "description": "Startuje przebudowa placu Narutowicza. W planach jest zazielenienie torowisk, remont chodników oraz wydłużenie peronów przystankowych. Prace rozpoczną się w poniedziałek od zamknięcia łącznika z ulicą Akademicką, a w kolejnych etapach obejmą modernizację torów, co wymusi czasowe skrócenie tras kilku linii tramwajowych.",
+      "originalTitle": "Utrudnienia na Ochocie. Drogowcy wchodzą na plac Narutowicza",
+      "originalDescription": "Startuje przebudowa placu Narutowicza. W planach jest zazielenienie torowisk, remont chodników oraz wydłużenie peronów przystankowych. Prace rozpoczną się w poniedziałek od zamknięcia łącznika z ulicą Akademicką, a w kolejnych etapach obejmą modernizację torów, co wymusi czasowe skrócenie tras kilku linii tramwajowych."
+    },
+    {
+      "title": "Kamala Harris: Trump wkroczył do wojny, której Amerykanie nie chcą",
+      "link": "https://tvn24.pl/swiat/kamala-harris-benjamin-netanjahu-wciagnal-donalda-trumpa-w-wojne-ktorej-amerykanie-nie-chca-st9005372?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 07:49:27 GMT",
+      "description": "Trump wkroczył do wojny, której Amerykanie nie chcą, narażając na ryzyko amerykańskich żołnierzy - mówiła Kamala Harris, była wiceprezydentka USA i rywalka Trumpa w ostatnich wyborach. Jej zdaniem to premier Izraela Benjamin Netanjahu wciągnął Trumpa w wojnę w Iranie.",
+      "originalTitle": "Kamala Harris: Trump wkroczył do wojny, której Amerykanie nie chcą",
+      "originalDescription": "Trump wkroczył do wojny, której Amerykanie nie chcą, narażając na ryzyko amerykańskich żołnierzy - mówiła Kamala Harris, była wiceprezydentka USA i rywalka Trumpa w ostatnich wyborach. Jej zdaniem to premier Izraela Benjamin Netanjahu wciągnął Trumpa w wojnę w Iranie."
+    },
+    {
+      "title": "Tragiczna noc na S19. Dwie osoby zginęły w wypadku",
+      "link": "https://tvn24.pl/lublin/jonaki-zderzenie-dwoch-aut-nie-zyje-mezczyzna-i-kobieta-st9005469?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 07:46:54 GMT",
+      "description": "54-letnia kobieta i 38-letni mężczyzna zginęli w wypadku na drodze ekspresowej S19 w pobliżu miejscowości Jonaki (Lubelskie). Zderzyły się tam dwa auta. Dwie osoby trafiły do szpitala.",
+      "originalTitle": "Tragiczna noc na S19. Dwie osoby zginęły w wypadku",
+      "originalDescription": "54-letnia kobieta i 38-letni mężczyzna zginęli w wypadku na drodze ekspresowej S19 w pobliżu miejscowości Jonaki (Lubelskie). Zderzyły się tam dwa auta. Dwie osoby trafiły do szpitala."
+    },
+    {
+      "title": "Rocznica Powstania w Getcie Warszawskim. Dyrektor muzeum POLIN: to było połączenie dwóch tradycji",
+      "link": "https://tvn24.pl/polska/83-rocznica-powstania-w-getcie-warszawskim-dyrektor-muzeum-polin-to-bylo-polaczenie-dwoch-tradycji-st9005436?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 07:44:41 GMT",
+      "description": "W niedzielę mija 83. rocznica Powstania w Getcie Warszawskim. - W jednym z pamiętników jest taka poruszająca scena, jak ktoś wchodzi specjalnie na dach wysokiej kamienicy, żeby zobaczyć zieleń poza gettem - mówił w TVN24 Dyrektor Muzeum Żydów Polskich POLIN Dariusz Stola. Jak dodał, powstanie było \"połączeniem dwóch tradycji\".",
+      "originalTitle": "Rocznica Powstania w Getcie Warszawskim. Dyrektor muzeum POLIN: to było połączenie dwóch tradycji",
+      "originalDescription": "W niedzielę mija 83. rocznica Powstania w Getcie Warszawskim. - W jednym z pamiętników jest taka poruszająca scena, jak ktoś wchodzi specjalnie na dach wysokiej kamienicy, żeby zobaczyć zieleń poza gettem - mówił w TVN24 Dyrektor Muzeum Żydów Polskich POLIN Dariusz Stola. Jak dodał, powstanie było \"połączeniem dwóch tradycji\"."
+    },
+    {
+      "title": "Wszyscy tracą, oni biją rekordy. Światowy fenomen",
+      "link": "https://tvn24.pl/biznes/rynki/norwegia-gielda-w-oslo-wszyscy-traca-oni-bija-rekordy-swiatowy-fenomen-st9005438?source=rss",
+      "pubDate": "Sun, 19 Apr 2026 07:33:03 GMT",
+      "description": "Największe giełdy na świecie w kwietniu spadały z powodu konfliktu na Bliskim Wschodzie. Wtedy globalni inwestorzy zwrócili swoją uwagę w kierunku Oslo. Norweski indeks pisze historię i bije rekordy, a zdaniem ekspertów to nie koniec wzrostów.",
+      "originalTitle": "Wszyscy tracą, oni biją rekordy. Światowy fenomen",
+      "originalDescription": "Największe giełdy na świecie w kwietniu spadały z powodu konfliktu na Bliskim Wschodzie. Wtedy globalni inwestorzy zwrócili swoją uwagę w kierunku Oslo. Norweski indeks pisze historię i bije rekordy, a zdaniem ekspertów to nie koniec wzrostów."
+    },
+    {
+      "title": "Warszawa pamięta o bohaterach powstania w getcie. Zawyją syreny",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-rocznica-wybuchu-powstania-w-getcie-warszawskim-zawyja-syreny-alarmowe-st9004993?source=rss",
+      "pubDate": "Sat, 18 Apr 2026 13:43:06 GMT",
+      "description": "W niedzielę przypada 83. rocznica wybuchu powstania w getcie warszawskim. By uczcić największy zbrojny zryw Żydów podczas II wojny światowej, w mieście zawyją syreny. Główne uroczystości odbędą się przy Pomniku Bohaterów Getta.",
+      "originalTitle": "Warszawa pamięta o bohaterach powstania w getcie. Zawyją syreny",
+      "originalDescription": "W niedzielę przypada 83. rocznica wybuchu powstania w getcie warszawskim. By uczcić największy zbrojny zryw Żydów podczas II wojny światowej, w mieście zawyją syreny. Główne uroczystości odbędą się przy Pomniku Bohaterów Getta."
+    }
+  ]
 }
