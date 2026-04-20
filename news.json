@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-20T22:46:30.463Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-20T23:18:37.698Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Apple ogłasza dużą zmianę. To on wkrótce pokieruje firmą",
+      "link": "https://tvn24.pl/swiat/apple-oglasza-duza-zmiane-to-on-wkrotce-pokieruje-firma-st9008123?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 20:52:39 GMT",
+      "description": "John Ternus zastąpi Tima Cooka na stanowisku dyrektora generalnego firmy Apple - przekazała firma w poniedziałkowym komunikacie.",
+      "originalTitle": "Apple ogłasza dużą zmianę. To on wkrótce pokieruje firmą",
+      "originalDescription": "John Ternus zastąpi Tima Cooka na stanowisku dyrektora generalnego firmy Apple - przekazała firma w poniedziałkowym komunikacie."
+    },
+    {
+      "title": "Atak w pobliżu słynnej piramidy. Zabici i ranni",
+      "link": "https://tvn24.pl/swiat/meksyk-strzelanina-w-poblizu-slynnej-piramidy-nie-zyja-dwie-osoby-st9008108?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 20:36:19 GMT",
+      "description": "Na terenie parku archeologicznego w Meksyku doszło do ataku. Mężczyzna otworzył ogień w popularnym wśród turystów miejscu. Są zabici i ranni. Głos zabrała już prezydent kraju Claudia Sheinbaum.",
+      "originalTitle": "Atak w pobliżu słynnej piramidy. Zabici i ranni",
+      "originalDescription": "Na terenie parku archeologicznego w Meksyku doszło do ataku. Mężczyzna otworzył ogień w popularnym wśród turystów miejscu. Są zabici i ranni. Głos zabrała już prezydent kraju Claudia Sheinbaum."
+    },
+    {
+      "title": "Zwłoki nastolatki w bagażniku. Piosenkarz oskarżony o brutalną zbrodnię",
+      "link": "https://tvn24.pl/swiat/d4vd-oskarzony-o-brutalne-morderstwo-15-latki-st9008107?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 20:22:26 GMT",
+      "description": "Piosenkarz David Burke, znany pod pseudonimem D4vd, usłyszał zarzut morderstwa pierwszego stopnia w związku ze śmiercią 15-letniej Celeste Rivas Hernandez - poinformowała prokuratura okręgowa w Los Angeles. Szczątki ofiary odnaleziono w porzuconym samochodzie marki Tesla w Hollywood Hills.",
+      "originalTitle": "Zwłoki nastolatki w bagażniku. Piosenkarz oskarżony o brutalną zbrodnię",
+      "originalDescription": "Piosenkarz David Burke, znany pod pseudonimem D4vd, usłyszał zarzut morderstwa pierwszego stopnia w związku ze śmiercią 15-letniej Celeste Rivas Hernandez - poinformowała prokuratura okręgowa w Los Angeles. Szczątki ofiary odnaleziono w porzuconym samochodzie marki Tesla w Hollywood Hills."
+    },
+    {
+      "title": "Japonia. Były ostrzeżenia przed tsunami, są przed megatrzęsieniem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-trzesienie-ziemi-o-magnitudzie-7-7-fale-tsunami-i-ostrzezenie-przed-megatrzesieniem-st9006705?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 08:27:10 GMT",
+      "description": "Silne trzęsienie ziemi nawiedziło w poniedziałek Japonię. Miało magnitudę 7,7. Występowały fale tsunami, a teraz zagrożenie stanowi megatrzęsienie ziemi.",
+      "originalTitle": "Japonia. Były ostrzeżenia przed tsunami, są przed megatrzęsieniem",
+      "originalDescription": "Silne trzęsienie ziemi nawiedziło w poniedziałek Japonię. Miało magnitudę 7,7. Występowały fale tsunami, a teraz zagrożenie stanowi megatrzęsienie ziemi."
+    },
+    {
+      "title": "Nie żyje chłopiec, który wypadł z balkonu na piątym piętrze",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/bydgoszcz-nie-zyje-chlopiec-ktory-wypadl-z-balkonu-na-piatym-pietrze-st9007974?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 17:16:48 GMT",
+      "description": "Czteroletni chłopiec wypadł z balkonu na piątym piętrze w Bydgoszczy (Kujawsko-Pomorskie). Spadł na balkon cztery piętra niżej. Nie udało się go uratować, zmarł w szpitalu.",
+      "originalTitle": "Nie żyje chłopiec, który wypadł z balkonu na piątym piętrze",
+      "originalDescription": "Czteroletni chłopiec wypadł z balkonu na piątym piętrze w Bydgoszczy (Kujawsko-Pomorskie). Spadł na balkon cztery piętra niżej. Nie udało się go uratować, zmarł w szpitalu."
+    },
+    {
+      "title": "Rząd rozważa scenariusz awaryjny. \"Musimy być przygotowani\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-ceny-paliw-i-gazu-rzad-rozwaza-scenariusz-awaryjny-musimy-byc-przygotowani-st9008080?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 19:37:37 GMT",
+      "description": "Jeśli cena gazu przekroczy 70 euro za megawatogodzinę, może zaistnieć konieczność ponownego uruchomienia elektrowni węglowych - stwierdził włoski minister do spraw środowiska i bezpieczeństwa energetycznego Gilberto Pichetto Fratin. Obecnie cena ta wynosi około 40 euro.",
+      "originalTitle": "Rząd rozważa scenariusz awaryjny. \"Musimy być przygotowani\"",
+      "originalDescription": "Jeśli cena gazu przekroczy 70 euro za megawatogodzinę, może zaistnieć konieczność ponownego uruchomienia elektrowni węglowych - stwierdził włoski minister do spraw środowiska i bezpieczeństwa energetycznego Gilberto Pichetto Fratin. Obecnie cena ta wynosi około 40 euro."
+    },
+    {
+      "title": "Brak rady nadzorczej może utrudnić licencję Zondacrypto",
+      "link": "https://tvn24.pl/biznes/z-kraju/zondacrypto-kryptowaluty-rezygnacja-calej-rady-utrudni-gieldzie-zdobycie-licencji-st9008050?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 19:22:54 GMT",
+      "description": "Cała rada nadzorcza BB Trade Estonia OU podała się do dymisji, co stawia pod znakiem zapytania przyszłość giełdy Zondacrypto. Brak organu nadzorczego może uniemożliwić spółce uzyskanie niezbędnej licencji na dalszą działalność.",
+      "originalTitle": "Brak rady nadzorczej może utrudnić licencję Zondacrypto",
+      "originalDescription": "Cała rada nadzorcza BB Trade Estonia OU podała się do dymisji, co stawia pod znakiem zapytania przyszłość giełdy Zondacrypto. Brak organu nadzorczego może uniemożliwić spółce uzyskanie niezbędnej licencji na dalszą działalność."
+    },
+    {
+      "title": "Zdradziły go nerwy, kłamstwo wyszło na jaw",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-ochota-on-wycinal-katalizator-ona-stala-na-czatach-st9008056?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 19:18:09 GMT",
+      "description": "Policjanci zatrzymali parę, która rzekomo chciała przepchnąć niesprawny pojazd. Kłamstwo szybko wyszło na jaw. Okazało się, że 39-latek wyciął katalizator z zaparkowanego auta, a 38-latka stała na czatach.",
+      "originalTitle": "Zdradziły go nerwy, kłamstwo wyszło na jaw",
+      "originalDescription": "Policjanci zatrzymali parę, która rzekomo chciała przepchnąć niesprawny pojazd. Kłamstwo szybko wyszło na jaw. Okazało się, że 39-latek wyciął katalizator z zaparkowanego auta, a 38-latka stała na czatach."
+    },
+    {
+      "title": "Morawiecki pokazał \"nową twarz\". \"To już jest protopartia\"",
+      "link": "https://tvn24.pl/plus/programy/kropka-nad-i/morawiecki-pokazal-nowa-twarz-to-juz-jest-protopartia-st9007944?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:57:58 GMT",
+      "description": "- Myszy zaczęły harcować i każda, która marzy o tym gabinecie przy Nowogrodzkiej, zaczęła redefiniować swoje interesy - powiedziała doktor Kinga Wojtas, politolożka z Uniwersytetu Kardynała Stefana Wyszyńskiego, w \"Kropce nad i\" w TVN24, komentując spór w PiS wokół nowego stowarzyszenia Mateusza Morawieckiego. Według profesora Andrzeja Rycharda, socjologa z Polskiej Akademii Nauk, do tej pory nie znaliśmy byłego premiera z \"tak odważnych akcji\".",
+      "originalTitle": "Morawiecki pokazał \"nową twarz\". \"To już jest protopartia\"",
+      "originalDescription": "- Myszy zaczęły harcować i każda, która marzy o tym gabinecie przy Nowogrodzkiej, zaczęła redefiniować swoje interesy - powiedziała doktor Kinga Wojtas, politolożka z Uniwersytetu Kardynała Stefana Wyszyńskiego, w \"Kropce nad i\" w TVN24, komentując spór w PiS wokół nowego stowarzyszenia Mateusza Morawieckiego. Według profesora Andrzeja Rycharda, socjologa z Polskiej Akademii Nauk, do tej pory nie znaliśmy byłego premiera z \"tak odważnych akcji\"."
+    },
+    {
+      "title": "Tyle ma kosztować odbudowa Strefy Gazy. Nowe szacunki",
+      "link": "https://tvn24.pl/biznes/ze-swiata/palestyna-koszty-odbudowy-strefy-gazy-kaja-kallas-komentuje-st9008012?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:56:57 GMT",
+      "description": "Według wspólnych szacunków Uni Europejskiej, Banku Światowego i ONZ odbudowa Strefy Gazy będzie kosztować przynajmniej 71 miliardów dolarów - przekazała szefowa unijnej dyplomacji Kaja Kallas.",
+      "originalTitle": "Tyle ma kosztować odbudowa Strefy Gazy. Nowe szacunki",
+      "originalDescription": "Według wspólnych szacunków Uni Europejskiej, Banku Światowego i ONZ odbudowa Strefy Gazy będzie kosztować przynajmniej 71 miliardów dolarów - przekazała szefowa unijnej dyplomacji Kaja Kallas."
+    }
+  ]
 }
