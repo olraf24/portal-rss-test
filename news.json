@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-20T18:24:22.178Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-20T18:49:34.556Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ta noc przypomni nam o zimie. Alarmy IMGW w 14 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-19-20-04-ostrzezenia-imgw-snieg-przymrozki-alarmy-w-14-wojewodztwach-st9004947?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 04:40:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed spadkiem temperatury poniżej zera w nocy i o poranku. W mocy są też ostrzeżenia przed opadami śniegu. Sprawdź, gdzie należy zachować ostrożność.",
+      "originalTitle": "Ta noc przypomni nam o zimie. Alarmy IMGW w 14 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed spadkiem temperatury poniżej zera w nocy i o poranku. W mocy są też ostrzeżenia przed opadami śniegu. Sprawdź, gdzie należy zachować ostrożność."
+    },
+    {
+      "title": "Tusk wrzucił zdjęcie z Wałęsą i Macronem. Wymowny opis",
+      "link": "https://tvn24.pl/polska/donald-tusk-wrzucil-zdjecie-z-lechem-walesa-i-emmanuelem-macronem-wymowny-opis-st9008033?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:38:33 GMT",
+      "description": "Prezydent Francji Emmanuel Macron spotkał się w Gdańsku nie tylko z premierem Donaldem Tuskiem, lecz także z Lechem Wałęsą.",
+      "originalTitle": "Tusk wrzucił zdjęcie z Wałęsą i Macronem. Wymowny opis",
+      "originalDescription": "Prezydent Francji Emmanuel Macron spotkał się w Gdańsku nie tylko z premierem Donaldem Tuskiem, lecz także z Lechem Wałęsą."
+    },
+    {
+      "title": "Rozłam w cieniu referendum. Radna zmieniła barwy",
+      "link": "https://tvn24.pl/krakow/krakow-rozlam-w-koalicji-obywatelskiej-agnieszka-letocha-dolacza-do-razem-w-tle-referendum-st9007857?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:33:12 GMT",
+      "description": "Radna Krakowa Agnieszka Łętocha opuściła szeregi Koalicji Obywatelskiej i przeszła do partii Razem. Decyzję podjęła na nieco ponad miesiąc przed referendum, w którym może zostać odwołany prezydent Aleksander Miszalski.",
+      "originalTitle": "Rozłam w cieniu referendum. Radna zmieniła barwy",
+      "originalDescription": "Radna Krakowa Agnieszka Łętocha opuściła szeregi Koalicji Obywatelskiej i przeszła do partii Razem. Decyzję podjęła na nieco ponad miesiąc przed referendum, w którym może zostać odwołany prezydent Aleksander Miszalski."
+    },
+    {
+      "title": "Magyar apeluje do Zełenskiego. \"Powinni go uprzejmie ponownie otworzyć\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wegry-ukraina-rurociag-przyjazn-peter-magyar-apeluje-do-wolodymyra-zelenskiego-st9007979?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:23:49 GMT",
+      "description": "Peter Magyar zwrócił się do prezydenta Ukrainy Wołodymyra Zełenskiego o ponowne otwarcie rurociągu Przyjaźń. Z powodu wstrzymania tranzytu rosyjskiej ropy naftowej Viktor Orban zablokował unijną pożyczkę dla Kijowa w wysokości 90 miliardów euro.",
+      "originalTitle": "Magyar apeluje do Zełenskiego. \"Powinni go uprzejmie ponownie otworzyć\"",
+      "originalDescription": "Peter Magyar zwrócił się do prezydenta Ukrainy Wołodymyra Zełenskiego o ponowne otwarcie rurociągu Przyjaźń. Z powodu wstrzymania tranzytu rosyjskiej ropy naftowej Viktor Orban zablokował unijną pożyczkę dla Kijowa w wysokości 90 miliardów euro."
+    },
+    {
+      "title": "Andrzej Seweryn uhonorowany Nagrodą im. Bronisława Geremka",
+      "link": "https://tvn24.pl/polska/andrzej-seweryn-odebral-nagrode-im-bronislawa-geremka-stoi-przed-wami-syn-dwoch-ojczyzn-st9007973?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:23:35 GMT",
+      "description": "Polski aktor Andrzej Seweryn otrzymał w poniedziałek Nagrodę im. Bronisława Geremka za swoje osiągnięcia w umacnianiu relacji polsko-francuskich. Premier Donald Tusk i prezydent Francji Emmanuel Macron wzięli udział w uroczystej gali na rzecz laureata.",
+      "originalTitle": "Andrzej Seweryn uhonorowany Nagrodą im. Bronisława Geremka",
+      "originalDescription": "Polski aktor Andrzej Seweryn otrzymał w poniedziałek Nagrodę im. Bronisława Geremka za swoje osiągnięcia w umacnianiu relacji polsko-francuskich. Premier Donald Tusk i prezydent Francji Emmanuel Macron wzięli udział w uroczystej gali na rzecz laureata."
+    },
+    {
+      "title": "\"Najwyższy priorytet\". Zapowiedź zwołania Rady Bezpieczeństwa Narodowego",
+      "link": "https://tvn24.pl/biznes/ze-swiata/niemcy-najwyzszy-priorytet-zapowiedz-zwolania-rady-bezpieczenstwa-narodowego-st9007918?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:06:52 GMT",
+      "description": "Niemiecki rząd szykuje pakiet ratunkowy dla rynku paliw, który zakłada czasową obniżkę podatku od benzyny i diesla. Nowe przepisy mają wejść w życie 1 maja, a ich celem jest powstrzymanie gwałtownego wzrostu cen wywołanego wojną USA i Izraela z Iranem.",
+      "originalTitle": "\"Najwyższy priorytet\". Zapowiedź zwołania Rady Bezpieczeństwa Narodowego",
+      "originalDescription": "Niemiecki rząd szykuje pakiet ratunkowy dla rynku paliw, który zakłada czasową obniżkę podatku od benzyny i diesla. Nowe przepisy mają wejść w życie 1 maja, a ich celem jest powstrzymanie gwałtownego wzrostu cen wywołanego wojną USA i Izraela z Iranem."
+    },
+    {
+      "title": "Druga próba powołania prezesa IPN. Czy podzieli koalicję?",
+      "link": "https://tvn24.pl/polska/mateusz-szpytma-kandydatem-na-prezesa-ipn-czy-ma-szanse-czy-podzieli-koalicje-ko-psl-lewica-polska2050-st9000134?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 18:05:04 GMT",
+      "description": "Parlament drugi raz - odkąd prezydentem został Karol Nawrocki - będzie decydował o powołaniu prezesa Instytutu Pamięci Narodowej. Teraz kandydatem jest doktor Mateusz Szpytma. Czy ma szansę na powodzenie, skoro jego poparcie zapowiada Polskie Stronnictwo Ludowe? I co to może oznaczać dla koalicji rządzącej?",
+      "originalTitle": "Druga próba powołania prezesa IPN. Czy podzieli koalicję?",
+      "originalDescription": "Parlament drugi raz - odkąd prezydentem został Karol Nawrocki - będzie decydował o powołaniu prezesa Instytutu Pamięci Narodowej. Teraz kandydatem jest doktor Mateusz Szpytma. Czy ma szansę na powodzenie, skoro jego poparcie zapowiada Polskie Stronnictwo Ludowe? I co to może oznaczać dla koalicji rządzącej?"
+    },
+    {
+      "title": "Odkopał cztery niewybuchy, saperzy znaleźli ich kilkadziesiąt",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-niewybuchy-z-czasow-ii-wojny-swiatowej-na-dzialce-st9007992?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 17:55:52 GMT",
+      "description": "Mieszkaniec gminy Płońsk (Mazowieckie) poinformował policjantów, że podczas prac ziemnych na prywatnej działce budowlanej natrafił na przedmioty przypominające niewybuchy. Na miejscu przez kilka godzin pracowali saperzy. Znaleźli kilkadziesiąt pocisków artyleryjskich.",
+      "originalTitle": "Odkopał cztery niewybuchy, saperzy znaleźli ich kilkadziesiąt",
+      "originalDescription": "Mieszkaniec gminy Płońsk (Mazowieckie) poinformował policjantów, że podczas prac ziemnych na prywatnej działce budowlanej natrafił na przedmioty przypominające niewybuchy. Na miejscu przez kilka godzin pracowali saperzy. Znaleźli kilkadziesiąt pocisków artyleryjskich."
+    },
+    {
+      "title": "Zginęły dwie osoby. Kierowca był pijany",
+      "link": "https://tvn24.pl/lublin/jonaki-smiertelny-wypadek-na-s19-pijany-kierowca-z-zarzutem-st9007990?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 17:37:49 GMT",
+      "description": "Zarzut spowodowania śmiertelnego wypadku pod wpływem alkoholu usłyszał 59-latek, który na drodze ekspresowej S19 na Lubelszczyźnie wjechał w tył jadącego przed nim samochodu. Zginęły dwie osoby.",
+      "originalTitle": "Zginęły dwie osoby. Kierowca był pijany",
+      "originalDescription": "Zarzut spowodowania śmiertelnego wypadku pod wpływem alkoholu usłyszał 59-latek, który na drodze ekspresowej S19 na Lubelszczyźnie wjechał w tył jadącego przed nim samochodu. Zginęły dwie osoby."
+    },
+    {
+      "title": "Woda w zatoce opada. Duże zagrożenie dla Timmy'ego",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/humbak-timmy-utknal-na-mieliznie-a-woda-w-zatoce-opada-st9005623?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 10:42:00 GMT",
+      "description": "Trwa akcja ratunkowa humbaka Timmy'ego. W poniedziałek wieloryb przez chwilę płynął, po czym ponownie utknął na mieliźnie. Władze wstrzymały wszystkie rejsy między wyspą Poel a Wismarem.",
+      "originalTitle": "Woda w zatoce opada. Duże zagrożenie dla Timmy'ego",
+      "originalDescription": "Trwa akcja ratunkowa humbaka Timmy'ego. W poniedziałek wieloryb przez chwilę płynął, po czym ponownie utknął na mieliźnie. Władze wstrzymały wszystkie rejsy między wyspą Poel a Wismarem."
+    }
+  ]
 }
