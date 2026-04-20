@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-20T13:36:49.054Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-20T14:37:47.272Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nawrocki nie spotka się z Macronem. Kancelaria prezydenta: Tusk tak zaplanował wizytę",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-nie-spotka-sie-z-emmanuelem-macronem-kancelaria-prezydenta-tusk-tak-zaplanowal-wizyte-st9007651?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:34:11 GMT",
+      "description": "Premier Donald Tusk \"zaplanował wizytę tak, aby nie doszło do spotkania prezydentów\" Karola Nawrockiego i Emmanuela Macrona. \"Dlatego naciskał na to, żeby wizyta odbyła się w Gdańsku, a nie w Warszawie\" - przekazała tvn24.pl kancelaria prezydenta. Wicepremier, szef MON Władysław Kosiniak-Kamysz pytany o niezaproszenie Nawrockiego na spotkanie z delegacją francuską stwierdził, że to są spotkania między rządami.",
+      "originalTitle": "Nawrocki nie spotka się z Macronem. Kancelaria prezydenta: Tusk tak zaplanował wizytę",
+      "originalDescription": "Premier Donald Tusk \"zaplanował wizytę tak, aby nie doszło do spotkania prezydentów\" Karola Nawrockiego i Emmanuela Macrona. \"Dlatego naciskał na to, żeby wizyta odbyła się w Gdańsku, a nie w Warszawie\" - przekazała tvn24.pl kancelaria prezydenta. Wicepremier, szef MON Władysław Kosiniak-Kamysz pytany o niezaproszenie Nawrockiego na spotkanie z delegacją francuską stwierdził, że to są spotkania między rządami."
+    },
+    {
+      "title": "Trump uderza we własnego ministra. \"Totalnie się myli\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-ceny-paliw-donald-trump-uderza-w-ministra-energii-chrisa-wrighta-totalnie-sie-myli-st9007766?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:32:20 GMT",
+      "description": "Prezydent USA publicznie podważył prognozy ministra energii Chrisa Wrighta, który stwierdził, że ceny benzyny nie wrócą w tym roku do poziomu sprzed wojny z Iranem. Donald Trump zapewnił też, że paliwo potanieje natychmiast po otwarciu cieśniny Ormuz. Eksperci i członkowie jego gabinetu ostrzegają, że proces ten może potrwać miesiące.",
+      "originalTitle": "Trump uderza we własnego ministra. \"Totalnie się myli\"",
+      "originalDescription": "Prezydent USA publicznie podważył prognozy ministra energii Chrisa Wrighta, który stwierdził, że ceny benzyny nie wrócą w tym roku do poziomu sprzed wojny z Iranem. Donald Trump zapewnił też, że paliwo potanieje natychmiast po otwarciu cieśniny Ormuz. Eksperci i członkowie jego gabinetu ostrzegają, że proces ten może potrwać miesiące."
+    },
+    {
+      "title": "86-latek przeprosił za swoich przodków. \"Bez precedensu\"",
+      "link": "https://tvn24.pl/swiat/francja-86-latek-przeprosil-za-role-przodkow-w-niewolnictwie-pierwszy-taki-gest-st9007509?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:28:14 GMT",
+      "description": "86-letni Francuz przeprosił za to, jaką rolę jego rodzina odegrała w handlu niewolnikami. Według mediów mężczyzna jest prawdopodobnie pierwszą osobą we Francji, która oficjalnie to zrobiła. Wyjaśnił, dlaczego właśnie teraz się na to zdecydował.",
+      "originalTitle": "86-latek przeprosił za swoich przodków. \"Bez precedensu\"",
+      "originalDescription": "86-letni Francuz przeprosił za to, jaką rolę jego rodzina odegrała w handlu niewolnikami. Według mediów mężczyzna jest prawdopodobnie pierwszą osobą we Francji, która oficjalnie to zrobiła. Wyjaśnił, dlaczego właśnie teraz się na to zdecydował."
+    },
+    {
+      "title": "Są oficjalne wyniki wyborów w Bułgarii. Jedna partia zdobyła większość mandatów",
+      "link": "https://tvn24.pl/swiat/ostateczne-wyniki-wyborow-w-bulgarii-partia-rumena-radewa-zdobyla-wiekszosc-mandatow-st9007722?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:20:20 GMT",
+      "description": "Centralna Komisja Wyborcza w Bułgarii podała ostateczne wyniki niedzielnych wyborów. Wygrała je Postępowa Bułgaria byłego prezydenta Rumena Radewa, zdobywając 44,6 procent głosów. Według prognoz będzie miała od 129 do 131 mandatów w 240-osobowym parlamencie.",
+      "originalTitle": "Są oficjalne wyniki wyborów w Bułgarii. Jedna partia zdobyła większość mandatów",
+      "originalDescription": "Centralna Komisja Wyborcza w Bułgarii podała ostateczne wyniki niedzielnych wyborów. Wygrała je Postępowa Bułgaria byłego prezydenta Rumena Radewa, zdobywając 44,6 procent głosów. Według prognoz będzie miała od 129 do 131 mandatów w 240-osobowym parlamencie."
+    },
+    {
+      "title": "Wybuch w szatni klubu sportowego. Budynek się zawalił",
+      "link": "https://tvn24.pl/krakow/maniowy-wybuch-w-szatni-klubu-sportowego-st9007754?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:15:55 GMT",
+      "description": "Jedna osoba została poszkodowana w wyniku eksplozji w szatni klubu sportowego w Maniowach nad Jeziorem Czorsztyńskim (Małopolskie). Prawdopodobnie wybuchła tam butla z gazem. Część budynku uległa zawaleniu.",
+      "originalTitle": "Wybuch w szatni klubu sportowego. Budynek się zawalił",
+      "originalDescription": "Jedna osoba została poszkodowana w wyniku eksplozji w szatni klubu sportowego w Maniowach nad Jeziorem Czorsztyńskim (Małopolskie). Prawdopodobnie wybuchła tam butla z gazem. Część budynku uległa zawaleniu."
+    },
+    {
+      "title": "60 dni i koniec? Rodzice dzieci chorych na raka czekają na obiecane zmiany",
+      "link": "https://tvn24.pl/zdrowie/60-dni-i-koniec-rodzice-dzieci-chorych-na-raka-czekaja-na-obiecane-zmiany-st9007660?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:12:31 GMT",
+      "description": "Obietnice padły już w październiku ubiegłego roku, ale konkretów wciąż brakuje. Rodzice dzieci chorych na nowotwory od dawna apelują o wydłużenie limitu zasiłku opiekuńczego - obecne 60 dni często nie wystarcza nawet na jedną fazę skomplikowanego leczenia. Ministra Agnieszka Dziemianowicz-Bąk zapowiada systemowe zmiany, ale kiedy one nastąpią, wciąż nie wiadomo.",
+      "originalTitle": "60 dni i koniec? Rodzice dzieci chorych na raka czekają na obiecane zmiany",
+      "originalDescription": "Obietnice padły już w październiku ubiegłego roku, ale konkretów wciąż brakuje. Rodzice dzieci chorych na nowotwory od dawna apelują o wydłużenie limitu zasiłku opiekuńczego - obecne 60 dni często nie wystarcza nawet na jedną fazę skomplikowanego leczenia. Ministra Agnieszka Dziemianowicz-Bąk zapowiada systemowe zmiany, ale kiedy one nastąpią, wciąż nie wiadomo."
+    },
+    {
+      "title": "Lisica z młodymi w Łazienkach Królewskich",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-male-lisy-w-lazienkach-krolewskich-lisica-biegala-po-parku-st9007255?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:07:40 GMT",
+      "description": "W Łazienkach Królewskich przyszły na świat małe liski. Ich matka biegała po ścieżkach parku. Nie bała się spacerowiczów, nie była też wobec nich agresywna. Należy jednak. W sytuacji zagrożenia, a takim może być bezpośredni i zbyt bliski kontakt ze strony człowieka, lisica może bronić siebie i młodych.",
+      "originalTitle": "Lisica z młodymi w Łazienkach Królewskich",
+      "originalDescription": "W Łazienkach Królewskich przyszły na świat małe liski. Ich matka biegała po ścieżkach parku. Nie bała się spacerowiczów, nie była też wobec nich agresywna. Należy jednak. W sytuacji zagrożenia, a takim może być bezpośredni i zbyt bliski kontakt ze strony człowieka, lisica może bronić siebie i młodych."
+    },
+    {
+      "title": "\"Wnuczkowie w potrzebie\" dzwonili do emerytów w Niemczech i Szwajcarii",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-wnuczkowie-w-potrzebie-dzwonili-do-emerytow-niemczech-i-szwajcarii-st9007052?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:05:48 GMT",
+      "description": "\"Wnuczkowie\" wyłudzili równowartość blisko dwóch milionów złotych. Dzwonili do starszych osób mieszkających w Niemczech i Szwajcarii, przekonując do przekazania pieniędzy i kosztowności.",
+      "originalTitle": "\"Wnuczkowie w potrzebie\" dzwonili do emerytów w Niemczech i Szwajcarii",
+      "originalDescription": "\"Wnuczkowie\" wyłudzili równowartość blisko dwóch milionów złotych. Dzwonili do starszych osób mieszkających w Niemczech i Szwajcarii, przekonując do przekazania pieniędzy i kosztowności."
+    },
+    {
+      "title": "\"Ktoś chciał ukryć ciało\". Osiem osób zatrzymanych",
+      "link": "https://tvn24.pl/krakow/przeginia-cialo-mezczyzny-w-budynku-osiem-osob-zatrzymanych-st9007705?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 14:05:03 GMT",
+      "description": "Osiem osób zatrzymali policjanci w związku ze śmiercią 53-latka w Przegini pod Krakowem. Cztery z nich zwolniono, a z czterema kolejnymi - w tym z byłą partnerką mężczyzny - trwają czynności.",
+      "originalTitle": "\"Ktoś chciał ukryć ciało\". Osiem osób zatrzymanych",
+      "originalDescription": "Osiem osób zatrzymali policjanci w związku ze śmiercią 53-latka w Przegini pod Krakowem. Cztery z nich zwolniono, a z czterema kolejnymi - w tym z byłą partnerką mężczyzny - trwają czynności."
+    },
+    {
+      "title": "Atak hakerski na partię Mentzena. Rzecznik komentuje",
+      "link": "https://tvn24.pl/biznes/z-kraju/atak-hakerski-nowa-nadzieja-slawomir-mentzen-to-ma-byc-trzeci-taki-cyberatak-st9007596?source=rss",
+      "pubDate": "Mon, 20 Apr 2026 13:49:06 GMT",
+      "description": "Dane członków oraz sympatyków partii Nowa Nadzieja, której prezesem jest Sławomir Mentzen, zostały wykradzione i upublicznione w sieci - przekazał portal Niebezpiecznik. Ma to być trzeci tego typu przypadek od marca ubiegłego roku.",
+      "originalTitle": "Atak hakerski na partię Mentzena. Rzecznik komentuje",
+      "originalDescription": "Dane członków oraz sympatyków partii Nowa Nadzieja, której prezesem jest Sławomir Mentzen, zostały wykradzione i upublicznione w sieci - przekazał portal Niebezpiecznik. Ma to być trzeci tego typu przypadek od marca ubiegłego roku."
+    }
+  ]
 }
