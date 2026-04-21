@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-21T15:32:21.729Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-21T16:28:26.547Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Czy Polska powinna odmówić premierowi Słowacji? Były wiceszef MSZ: nie wydaje mi się",
+      "link": "https://tvn24.pl/polska/robert-fico-chce-leciec-do-rosji-andrzej-szejna-nie-wydaje-mi-sie-ze-polska-powinna-blokowac-przelot-st9009879?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 16:09:06 GMT",
+      "description": "Bratysława zwróciła się do Polski o zgodę na przelot samolotu premiera Roberta Ficy do Rosji. Oficjalnej odpowiedzi jeszcze nie ma, ale były wiceszef MSZ Andrzej Szejna uważa, że nie powinniśmy odmawiać. Innego zdania jest posłanka KO Dorota Łoboda.",
+      "originalTitle": "Czy Polska powinna odmówić premierowi Słowacji? Były wiceszef MSZ: nie wydaje mi się",
+      "originalDescription": "Bratysława zwróciła się do Polski o zgodę na przelot samolotu premiera Roberta Ficy do Rosji. Oficjalnej odpowiedzi jeszcze nie ma, ale były wiceszef MSZ Andrzej Szejna uważa, że nie powinniśmy odmawiać. Innego zdania jest posłanka KO Dorota Łoboda."
+    },
+    {
+      "title": "Przechodziła w pobliżu skrzyżowania, potrącił ją kierowca busa. Piesza nie przeżyła",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nowe-holowczyce-bus-smiertelnie-potracil-piesza-st9009893?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 16:01:04 GMT",
+      "description": "Tragiczny wypadek w miejscowości Nowe Hołowczyce (Mazowieckie). We wtorek rano kierowca busa potrącił tam kobietę, która - jak podała policja - \"przechodziła w miejscu nieoznaczonym\". Piesza poniosła śmierć na miejscu.",
+      "originalTitle": "Przechodziła w pobliżu skrzyżowania, potrącił ją kierowca busa. Piesza nie przeżyła",
+      "originalDescription": "Tragiczny wypadek w miejscowości Nowe Hołowczyce (Mazowieckie). We wtorek rano kierowca busa potrącił tam kobietę, która - jak podała policja - \"przechodziła w miejscu nieoznaczonym\". Piesza poniosła śmierć na miejscu."
+    },
+    {
+      "title": "Odsiedział prawie 22 lata za zabójstwo. Wychodzi na wolność i walczy o niewinność",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-jaroslaw-sosnowski-odsiedzial-prawie-22-lata-za-zabojstwo-wychodzi-na-wolnosc-i-walczy-o-niewinnosc-st9009869?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 16:00:14 GMT",
+      "description": "Po blisko 22 latach więzienie opuścił Jarosław Sosnowski. - Prawdziwa walka zaczyna się dopiero teraz - walka o jego niewinność - mówi w nagraniu senator Grzegorz Fedorowicz, który poinformował o jego zwolnieniu. Sosnowski w 2006 r. został skazany za zabójstwo. Podczas procesu przekonywał, że przyznanie się do winy wymusili na nim policjanci.",
+      "originalTitle": "Odsiedział prawie 22 lata za zabójstwo. Wychodzi na wolność i walczy o niewinność",
+      "originalDescription": "Po blisko 22 latach więzienie opuścił Jarosław Sosnowski. - Prawdziwa walka zaczyna się dopiero teraz - walka o jego niewinność - mówi w nagraniu senator Grzegorz Fedorowicz, który poinformował o jego zwolnieniu. Sosnowski w 2006 r. został skazany za zabójstwo. Podczas procesu przekonywał, że przyznanie się do winy wymusili na nim policjanci."
+    },
+    {
+      "title": "Tesla przegrywa w sądzie w europejskim kraju. Kierowcy niezadowoleni z aktualizacji",
+      "link": "https://tvn24.pl/biznes/moto/samochody-elektryczne-tesla-przegrywa-w-sadzie-aktualizacja-miala-zmniejszyc-predkosc-ladowania-st9009732?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 15:50:19 GMT",
+      "description": "Norweski Sąd Najwyższy orzekł, że Tesla musi wypłacić rekompensaty za celowe spowolnienie ładowania w starszych modelach. Wyrok może otworzyć drogę do roszczeń dla kolejnych tysięcy użytkowników Tesli.",
+      "originalTitle": "Tesla przegrywa w sądzie w europejskim kraju. Kierowcy niezadowoleni z aktualizacji",
+      "originalDescription": "Norweski Sąd Najwyższy orzekł, że Tesla musi wypłacić rekompensaty za celowe spowolnienie ładowania w starszych modelach. Wyrok może otworzyć drogę do roszczeń dla kolejnych tysięcy użytkowników Tesli."
+    },
+    {
+      "title": "Tysiące podpisów pod listem do ministra. \"Nie zgadzamy się na niedasizm\"",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-chca-zieleni-na-linii-otwockiej-protest-st9009801?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 15:43:46 GMT",
+      "description": "Ponad sześć tysięcy mieszkańców linii otwockiej podpisało się pod listem, który trafił do Ministerstwa Infrastruktury. Domagają w nim przywrócenia zieleni wzdłuż modernizowanej linii kolejowej, zaplanowania parkingów i remontu zabytkowych budynków. - Nie zgadzamy się na niedasizm, bylejakość w realizacji tej inwestycji - mówili we wtorek.",
+      "originalTitle": "Tysiące podpisów pod listem do ministra. \"Nie zgadzamy się na niedasizm\"",
+      "originalDescription": "Ponad sześć tysięcy mieszkańców linii otwockiej podpisało się pod listem, który trafił do Ministerstwa Infrastruktury. Domagają w nim przywrócenia zieleni wzdłuż modernizowanej linii kolejowej, zaplanowania parkingów i remontu zabytkowych budynków. - Nie zgadzamy się na niedasizm, bylejakość w realizacji tej inwestycji - mówili we wtorek."
+    },
+    {
+      "title": "Woda z impetem wdziera się do szkolnej stołówki. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-woda-z-impetem-wdziera-sie-do-szkolnej-stolowki-nagranie-st9009806?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 15:39:56 GMT",
+      "description": "Ulewa spowodowana przez burzę zalała szkołę podstawową w amerykańskim stanie Wisconsin. Kilkuset uczniów nie może uczestniczyć w zajęciach. Doprowadzenie budynku do porządku może potrwać nawet kilka tygodni.",
+      "originalTitle": "Woda z impetem wdziera się do szkolnej stołówki. Nagranie",
+      "originalDescription": "Ulewa spowodowana przez burzę zalała szkołę podstawową w amerykańskim stanie Wisconsin. Kilkuset uczniów nie może uczestniczyć w zajęciach. Doprowadzenie budynku do porządku może potrwać nawet kilka tygodni."
+    },
+    {
+      "title": "Zginął strój Madonny. Artystka oferuje nagrodę za zwrot",
+      "link": "https://tvn24.pl/kultura-i-styl/madonna-oferuje-nagrode-za-odnalezienie-zaginionego-stroju-wystapila-w-nim-na-coachelli-st9009856?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 15:35:20 GMT",
+      "description": "Strój, w którym Madonna wystąpiła na ubiegłotygodniowym festiwalu Coachella wraz z Sabriną Carpenter, zniknął. Piosenkarka zaoferowała nagrodę za pomoc w odnalezieniu ważnych dla niej elementów garderoby.",
+      "originalTitle": "Zginął strój Madonny. Artystka oferuje nagrodę za zwrot",
+      "originalDescription": "Strój, w którym Madonna wystąpiła na ubiegłotygodniowym festiwalu Coachella wraz z Sabriną Carpenter, zniknął. Piosenkarka zaoferowała nagrodę za pomoc w odnalezieniu ważnych dla niej elementów garderoby."
+    },
+    {
+      "title": "Awaryjne lądowanie w ogródku. \"Pilot to mistrz\"",
+      "link": "https://tvn24.pl/swiat/kalifornia-balon-z-13-osobami-w-koszu-wyladowal-awaryjnie-w-przydomowym-ogrodku-st9008810?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 11:43:45 GMT",
+      "description": "Ostatni sobotni poranek długo będzie wspominać małżeństwo z Temeculi w Kalifornii. W ich ogródku wylądował awaryjnie balon, w którego koszu znajdowało się 13 osób. Do sieci trafiło nagranie.",
+      "originalTitle": "Awaryjne lądowanie w ogródku. \"Pilot to mistrz\"",
+      "originalDescription": "Ostatni sobotni poranek długo będzie wspominać małżeństwo z Temeculi w Kalifornii. W ich ogródku wylądował awaryjnie balon, w którego koszu znajdowało się 13 osób. Do sieci trafiło nagranie."
+    },
+    {
+      "title": "Dezinformacja groźniejsza niż wirus? \"Ważne są nie tylko szczepienia\"",
+      "link": "https://tvn24.pl/zdrowie/dezinformacja-grozniejsza-niz-wirus-wazne-sa-nie-tylko-szczepienia-st9009604?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 15:22:56 GMT",
+      "description": "Nie tylko chronią przed chorobami, ale przyczyniają się też do budowania odporności zdrowotnej całych społeczeństw. W Europejskim Tygodniu Szczepień eksperci przypominają, jak szybko mogą rozprzestrzeniać się infekcje, gdy zabraknie skutecznej profilaktyki. Pokazał to ostatni sezon grypowy.",
+      "originalTitle": "Dezinformacja groźniejsza niż wirus? \"Ważne są nie tylko szczepienia\"",
+      "originalDescription": "Nie tylko chronią przed chorobami, ale przyczyniają się też do budowania odporności zdrowotnej całych społeczeństw. W Europejskim Tygodniu Szczepień eksperci przypominają, jak szybko mogą rozprzestrzeniać się infekcje, gdy zabraknie skutecznej profilaktyki. Pokazał to ostatni sezon grypowy."
+    },
+    {
+      "title": "Co dalej z rozejmem? Trump: spodziewam się, że będę bombardować",
+      "link": "https://tvn24.pl/swiat/pakistan-niepewny-status-rozmow-iran-usa-trump-spodziewam-sie-ze-bede-bombardowac-st9009622?source=rss",
+      "pubDate": "Tue, 21 Apr 2026 15:18:01 GMT",
+      "description": "Druga tura negocjacji pomiędzy Iranem i USA w Pakistanie nadal pod znakiem zapytania. Tymczasem Donald Trump stwierdził, że nie chce przedłużać kończącego się lada chwila rozejmu pomiędzy USA i Iranem.",
+      "originalTitle": "Co dalej z rozejmem? Trump: spodziewam się, że będę bombardować",
+      "originalDescription": "Druga tura negocjacji pomiędzy Iranem i USA w Pakistanie nadal pod znakiem zapytania. Tymczasem Donald Trump stwierdził, że nie chce przedłużać kończącego się lada chwila rozejmu pomiędzy USA i Iranem."
+    }
+  ]
 }
