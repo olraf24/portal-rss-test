@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-22T18:26:57.731Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-22T18:52:45.435Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Sytuacja sędziów \"urąga godności państwa\"",
+      "link": "https://tvn24.pl/polska/spor-wokol-trybunalu-konstytucyjnego-sedzia-dariusz-mazur-sytuacja-sedziow-uraga-godnosci-panstwa-st9012114?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 18:47:32 GMT",
+      "description": "To sytuacja, która nie tyle uchybia godności sędziów, ile urąga godności państwa polskiego- powiedział w \"Faktach po Faktach\" Dariusz Mazur. Sędzia i wiceminister sprawiedliwości komentował trwający spór o skład Trybunału Konstytucyjnego.",
+      "originalTitle": "Sytuacja sędziów \"urąga godności państwa\"",
+      "originalDescription": "To sytuacja, która nie tyle uchybia godności sędziów, ile urąga godności państwa polskiego- powiedział w \"Faktach po Faktach\" Dariusz Mazur. Sędzia i wiceminister sprawiedliwości komentował trwający spór o skład Trybunału Konstytucyjnego."
+    },
+    {
+      "title": "Zbadali, jak woda z tym narkotykiem zmienia łososie",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/kokaina-w-wodzie-zbadali-to-jak-woda-zanieczyszczona-tym-narkotykiem-zmienia-lososie-st9010528?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 18:37:12 GMT",
+      "description": "Międzynarodowy zespół naukowców sprawdził, jak pływanie w wodzie zanieczyszczonej kokainą, a także jej metabolitami, wpływa na łososie atlantyckie. Badacze przeprowadzili eksperymenty w jednym ze szwedzkich jezior.",
+      "originalTitle": "Zbadali, jak woda z tym narkotykiem zmienia łososie",
+      "originalDescription": "Międzynarodowy zespół naukowców sprawdził, jak pływanie w wodzie zanieczyszczonej kokainą, a także jej metabolitami, wpływa na łososie atlantyckie. Badacze przeprowadzili eksperymenty w jednym ze szwedzkich jezior."
+    },
+    {
+      "title": "Linie podnoszą ceny i tną połączenia",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliwa-lotniczego-linie-podnosza-ceny-i-tna-polaczenia-st9012160?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 18:30:14 GMT",
+      "description": "Linie lotnicze ograniczają liczbę połączeń i podwyższają ceny biletów. Powodem są rosnące ceny paliwa lotniczego. Polskie Linie Lotnicze LOT zapowiedziały dostosowanie siatki połączeń.",
+      "originalTitle": "Linie podnoszą ceny i tną połączenia",
+      "originalDescription": "Linie lotnicze ograniczają liczbę połączeń i podwyższają ceny biletów. Powodem są rosnące ceny paliwa lotniczego. Polskie Linie Lotnicze LOT zapowiedziały dostosowanie siatki połączeń."
+    },
+    {
+      "title": "Arłukowicz o urodzinowym nagraniu: to cały Donald Tusk",
+      "link": "https://tvn24.pl/polska/wspomnienie-o-rekonstrukcji-rzadu-w-filmie-urodzinowym-donalda-tuska-bartosz-arlukowicz-i-ireneusz-ras-komentuja-st9012128?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 18:29:28 GMT",
+      "description": "Jakbym był w rządzie i bym takie coś zobaczył, to czoło by mi się zrosiło potem - powiedział Bartosz Arłukowicz. Odniósł się on do nagrania opublikowanego w dniu urodzin premiera. Arłukowicz stwierdził też, że zna Donalda Tuska\" i że \"lubi on zrobić taki prezencik urodzinowy\".",
+      "originalTitle": "Arłukowicz o urodzinowym nagraniu: to cały Donald Tusk",
+      "originalDescription": "Jakbym był w rządzie i bym takie coś zobaczył, to czoło by mi się zrosiło potem - powiedział Bartosz Arłukowicz. Odniósł się on do nagrania opublikowanego w dniu urodzin premiera. Arłukowicz stwierdził też, że zna Donalda Tuska\" i że \"lubi on zrobić taki prezencik urodzinowy\"."
+    },
+    {
+      "title": "Ukraina gotowa do rozmów z Rosją. \"W każdym formacie, w dowolnym momencie\"",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-bardzo-liczymy-na-wznowienie-trojstronnych-spotkan-z-rosja-i-usa-st9012014?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 18:10:45 GMT",
+      "description": "Wołodymyr Zełenski zadeklarował, że Ukraina jest gotowa wznowić trójstronne rozmowy pokojowe z Rosją z udziałem delegacji ze Stanów Zjednoczonych. Z kolei Kreml wyraził nadzieję, że amerykańscy wysłannicy po raz kolejny odwiedzą Moskwę.",
+      "originalTitle": "Ukraina gotowa do rozmów z Rosją. \"W każdym formacie, w dowolnym momencie\"",
+      "originalDescription": "Wołodymyr Zełenski zadeklarował, że Ukraina jest gotowa wznowić trójstronne rozmowy pokojowe z Rosją z udziałem delegacji ze Stanów Zjednoczonych. Z kolei Kreml wyraził nadzieję, że amerykańscy wysłannicy po raz kolejny odwiedzą Moskwę."
+    },
+    {
+      "title": "Miś Uszatek i Colargol dowodami w śledztwie",
+      "link": "https://tvn24.pl/lodz/lodz-mis-uszatek-i-colargol-dowodami-w-sledztwie-st9012092?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 18:01:36 GMT",
+      "description": "Prokuratura i policja z Łodzi pokazały w środę odzyskane lalki służące do produkcji bajek w łódzkim Se-ma-forze. Eksponaty są teraz dowodami w śledztwie wokół łódzkiej wytwórni filmów animowanych. Zawłaszczone figurki bajkowych postaci oraz elementy scenografii animowanych bajek znaleziono w Warszawie. Były spakowane w 20 pudłach.",
+      "originalTitle": "Miś Uszatek i Colargol dowodami w śledztwie",
+      "originalDescription": "Prokuratura i policja z Łodzi pokazały w środę odzyskane lalki służące do produkcji bajek w łódzkim Se-ma-forze. Eksponaty są teraz dowodami w śledztwie wokół łódzkiej wytwórni filmów animowanych. Zawłaszczone figurki bajkowych postaci oraz elementy scenografii animowanych bajek znaleziono w Warszawie. Były spakowane w 20 pudłach."
+    },
+    {
+      "title": "Pogoda na jutro - czwartek 23.04. Nadchodzące godziny mogą być wietrzne",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-23-04-nadchodzace-godziny-moga-byc-wietrzne-st9012116?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 17:50:21 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek 23.04. W nocy aura w kraju zapowiada się pogodnie i spokojnie - jedynie miejscami mogą wystąpić silniejsze podmuchy. Również w dzień powinniśmy uważać na wiatr. Termometry wskażą od 12 do 17 stopni.",
+      "originalTitle": "Pogoda na jutro - czwartek 23.04. Nadchodzące godziny mogą być wietrzne",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek 23.04. W nocy aura w kraju zapowiada się pogodnie i spokojnie - jedynie miejscami mogą wystąpić silniejsze podmuchy. Również w dzień powinniśmy uważać na wiatr. Termometry wskażą od 12 do 17 stopni."
+    },
+    {
+      "title": "Pożar hali z makulaturą. Strażacy opanowali ogień",
+      "link": "https://tvn24.pl/trojmiasto/gdynia-pozar-hali-z-makulatura-nad-miastem-kleby-dymu-st9011929?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 15:41:04 GMT",
+      "description": "W Gdyni, w hali, gdzie składowana była makulatura, wybuchł pożar. Ogień się już nie rozprzestrzenia, ale akcja strażaków potrwa jeszcze wiele godzin. Pożar strawił pięć samochodów i pochłonął 5000 metrów kwadratowych powierzchni.",
+      "originalTitle": "Pożar hali z makulaturą. Strażacy opanowali ogień",
+      "originalDescription": "W Gdyni, w hali, gdzie składowana była makulatura, wybuchł pożar. Ogień się już nie rozprzestrzenia, ale akcja strażaków potrwa jeszcze wiele godzin. Pożar strawił pięć samochodów i pochłonął 5000 metrów kwadratowych powierzchni."
+    },
+    {
+      "title": "\"Nie zostawimy pokrzywdzonych samym sobie\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/waldemar-zurek-nie-zostawimy-pokrzywdzonych-samym-sobie-st9012094?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 17:44:11 GMT",
+      "description": "Osoby, które poniosły straty w związku z działalnością giełdy Zondacrypto, mogą zgłaszać sprawę na policji lub w prokuraturze - poinformował szef resortu sprawiedliwości Waldemar Żurek.",
+      "originalTitle": "\"Nie zostawimy pokrzywdzonych samym sobie\"",
+      "originalDescription": "Osoby, które poniosły straty w związku z działalnością giełdy Zondacrypto, mogą zgłaszać sprawę na policji lub w prokuraturze - poinformował szef resortu sprawiedliwości Waldemar Żurek."
+    },
+    {
+      "title": "Z jakich ulg możemy skorzystać, rozliczając PIT",
+      "link": "https://tvn24.pl/biznes/pieniadze/podatki-2026-ulgi-podatkowe-z-jakich-odliczen-moge-skorzystac-rozliczajac-pit-st9011529?source=rss",
+      "pubDate": "Wed, 22 Apr 2026 17:22:28 GMT",
+      "description": "Na rozliczenie podatku dochodowego mamy czas tylko do końca kwietnia. Wielu z nas będzie mogło skorzystać przy tym z wielu ulg, które realnie obniżają podatek lub zwiększają kwotę zwrotu. Wyjaśniamy, jakie rodzaje odliczeń przysługują w 2026 roku.",
+      "originalTitle": "Z jakich ulg możemy skorzystać, rozliczając PIT",
+      "originalDescription": "Na rozliczenie podatku dochodowego mamy czas tylko do końca kwietnia. Wielu z nas będzie mogło skorzystać przy tym z wielu ulg, które realnie obniżają podatek lub zwiększają kwotę zwrotu. Wyjaśniamy, jakie rodzaje odliczeń przysługują w 2026 roku."
+    }
+  ]
 }
