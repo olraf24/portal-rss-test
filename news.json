@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-24T05:49:49.056Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-24T06:44:21.752Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zabrakło prądu, więc nie zawyły syreny. Żywioł był niszczycielski",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-tornado-w-oklahomie-zmiotlo-domy-z-powierzchni-ziemi-st9014384?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 06:38:32 GMT",
+      "description": "Tornado spowodowało poważne zniszczenia w mieście Enid w stanie Oklahoma. Co najmniej dziesięć osób odniosło obrażenia. Silny wiatr zniszczył także budynki w pobliskiej bazie wojskowej.",
+      "originalTitle": "Zabrakło prądu, więc nie zawyły syreny. Żywioł był niszczycielski",
+      "originalDescription": "Tornado spowodowało poważne zniszczenia w mieście Enid w stanie Oklahoma. Co najmniej dziesięć osób odniosło obrażenia. Silny wiatr zniszczył także budynki w pobliskiej bazie wojskowej."
+    },
+    {
+      "title": "\"Setki\" zgłoszeń w sprawie kryptoafery. Żurek potwierdza \"rosyjski ślad\"",
+      "link": "https://tvn24.pl/polska/setki-zgloszen-w-sprawie-kryptoafery-minister-waldemar-zurek-potwierdza-rosyjski-slad-st9014367?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 06:28:20 GMT",
+      "description": "Minister sprawiedliwości i prokurator generalny Waldemar Żurek potwierdził w \"Jeden na Jeden\" w TVN24, że ma wiedzę o zamieszaniu rosyjskich pieniędzy w aferę giełdy kryptowalut Zondacrypto. Mówił też o informacjach przekazywanych przez służby prezydentowi Karolowi Nawrockiemu.",
+      "originalTitle": "\"Setki\" zgłoszeń w sprawie kryptoafery. Żurek potwierdza \"rosyjski ślad\"",
+      "originalDescription": "Minister sprawiedliwości i prokurator generalny Waldemar Żurek potwierdził w \"Jeden na Jeden\" w TVN24, że ma wiedzę o zamieszaniu rosyjskich pieniędzy w aferę giełdy kryptowalut Zondacrypto. Mówił też o informacjach przekazywanych przez służby prezydentowi Karolowi Nawrockiemu."
+    },
+    {
+      "title": "Tragedia w żwirowni. Nie żyje nastolatek",
+      "link": "https://tvn24.pl/poznan/tarnowka-nastolatek-przysypany-ziemia-w-zwirowni-chlopiec-zmarl-st9014388?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 06:22:51 GMT",
+      "description": "Nie udało się uratować 13-latka, którego znaleziono przysypanego ziemią w żwirowni w Tarnówce (Wielkopolska). Policja wyjaśnia okoliczności zdarzenia.",
+      "originalTitle": "Tragedia w żwirowni. Nie żyje nastolatek",
+      "originalDescription": "Nie udało się uratować 13-latka, którego znaleziono przysypanego ziemią w żwirowni w Tarnówce (Wielkopolska). Policja wyjaśnia okoliczności zdarzenia."
+    },
+    {
+      "title": "Rusza pobieranie opłat od turystów we włoskim mieście",
+      "link": "https://tvn24.pl/biznes/turystyka/wenecja-wstep-do-miasta-bedzie-platny-to-koniec-darmowego-zwiedzania-st9014392?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 06:17:31 GMT",
+      "description": "W Wenecji od piątku rusza najdłuższy jak dotąd dziesięciodniowy okres pobierania opłaty za wstęp do miasta od turystów odwiedzających je tylko na kilka godzin, bez noclegu. System ten będzie obowiązywał do 3 maja, obejmując pierwszą w tym roku dużą falę wyjazdów z okazji sobotniego Święta Wyzwolenia oraz święta 1 maja.",
+      "originalTitle": "Rusza pobieranie opłat od turystów we włoskim mieście",
+      "originalDescription": "W Wenecji od piątku rusza najdłuższy jak dotąd dziesięciodniowy okres pobierania opłaty za wstęp do miasta od turystów odwiedzających je tylko na kilka godzin, bez noclegu. System ten będzie obowiązywał do 3 maja, obejmując pierwszą w tym roku dużą falę wyjazdów z okazji sobotniego Święta Wyzwolenia oraz święta 1 maja."
+    },
+    {
+      "title": "Chodziarze opanują Śródmieście. Autobusy pojadą objazdami",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-w-sobote-chociarze-swiata-wystartuja-po-raz-piaty-st9014353?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 06:11:33 GMT",
+      "description": "W sobotę odbędzie się piąta edycja mityngu Korzeniowski Warsaw Race Walking Cup. Chodziarze będą rywalizować na ulicy Świętokrzyskiej.",
+      "originalTitle": "Chodziarze opanują Śródmieście. Autobusy pojadą objazdami",
+      "originalDescription": "W sobotę odbędzie się piąta edycja mityngu Korzeniowski Warsaw Race Walking Cup. Chodziarze będą rywalizować na ulicy Świętokrzyskiej."
+    },
+    {
+      "title": "Tusk o \"największym i najważniejszym pytaniu\". \"Czy USA są gotowe być tak lojalne...\"",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-nato-usa-i-ataku-rosji-w-wywiadzie-dla-financial-times-st9014358?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 06:10:16 GMT",
+      "description": "Pytanie brzmi, czy NATO jest nadal organizacją gotową do reagowania, na przykład, przeciwko Rosji - zastanawia się w rozmowie z \"Financial Times\" Donald Tusk. - Dla nas niezwykle ważne jest, aby mieć pewność, że wszyscy będą traktować zobowiązania wobec NATO równie poważnie, jak Polska - mówił.",
+      "originalTitle": "Tusk o \"największym i najważniejszym pytaniu\". \"Czy USA są gotowe być tak lojalne...\"",
+      "originalDescription": "Pytanie brzmi, czy NATO jest nadal organizacją gotową do reagowania, na przykład, przeciwko Rosji - zastanawia się w rozmowie z \"Financial Times\" Donald Tusk. - Dla nas niezwykle ważne jest, aby mieć pewność, że wszyscy będą traktować zobowiązania wobec NATO równie poważnie, jak Polska - mówił."
+    },
+    {
+      "title": "Rezygnacja Cenckiewicza i \"pokrętne tłumaczenie\". Żurek: być może prezydent zrozumiał",
+      "link": "https://tvn24.pl/polska/rezygnacja-slawomira-cenckiewicza-i-pokretne-tlumaczenie-waldemar-zurek-komentuje-st9014352?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 05:55:24 GMT",
+      "description": "Widać, że jest pęknięcie w kancelarii prezydenta i że sama osoba Sławomira Cenckiewicza w jakiś sposób obciążała - ocenił w \"Jeden na jeden\" w TVN24 minister sprawiedliwości Waldemar Żurek. Komentując rezygnację ze stanowiska byłego już szefa Biura Bezpieczeństwa Narodowego, stwierdził, że jest to \"pokrętne tłumaczenie\".",
+      "originalTitle": "Rezygnacja Cenckiewicza i \"pokrętne tłumaczenie\". Żurek: być może prezydent zrozumiał",
+      "originalDescription": "Widać, że jest pęknięcie w kancelarii prezydenta i że sama osoba Sławomira Cenckiewicza w jakiś sposób obciążała - ocenił w \"Jeden na jeden\" w TVN24 minister sprawiedliwości Waldemar Żurek. Komentując rezygnację ze stanowiska byłego już szefa Biura Bezpieczeństwa Narodowego, stwierdził, że jest to \"pokrętne tłumaczenie\"."
+    },
+    {
+      "title": "Nic nie wskazywało na ryzyko oszustwa. Samochody warte pół miliona zniknęły",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-firma-wypozyczyla-samochody-zniknely-odnalezli-je-policjanci-st9014110?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 05:37:14 GMT",
+      "description": "Firma zajmująca się wynajmem i leasingiem pojazdów straciła samochody. Były warte pół miliona złotych. Nieuczciwy klient stanie przed sądem.",
+      "originalTitle": "Nic nie wskazywało na ryzyko oszustwa. Samochody warte pół miliona zniknęły",
+      "originalDescription": "Firma zajmująca się wynajmem i leasingiem pojazdów straciła samochody. Były warte pół miliona złotych. Nieuczciwy klient stanie przed sądem."
+    },
+    {
+      "title": "Obstawił obalenie Maduro. Amerykański żołnierz aresztowany",
+      "link": "https://tvn24.pl/swiat/zolnierz-usa-aresztowany-po-obstawieniu-zakladu-na-obalenie-nicolasa-maduro-st9014336?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 05:23:38 GMT",
+      "description": "Żołnierz sił specjalnych USA miał zarobić ponad 400 tysięcy dolarów, stawiając zakład na obalenie Nicolasa Maduro. Dysponował w tej sprawie tajnymi informacjami. Mężczyzna został aresztowany.",
+      "originalTitle": "Obstawił obalenie Maduro. Amerykański żołnierz aresztowany",
+      "originalDescription": "Żołnierz sił specjalnych USA miał zarobić ponad 400 tysięcy dolarów, stawiając zakład na obalenie Nicolasa Maduro. Dysponował w tej sprawie tajnymi informacjami. Mężczyzna został aresztowany."
+    },
+    {
+      "title": "Co z zakupami przed majówką? Tego dnia sklepy będą otwarte",
+      "link": "https://tvn24.pl/biznes/handel/niedziela-handlowa-w-kwietniu-2026-czy-przed-majowka-zrobimy-zakupy-zakupy-w-niedziele-26-kwietnia-st9014337?source=rss",
+      "pubDate": "Fri, 24 Apr 2026 05:18:47 GMT",
+      "description": "W najbliższą niedzielę, 26 kwietnia, sklepy będą otwarte. To trzecia z ośmiu niedziel handlowych zaplanowanych na ten rok. Kolejne dwie przypadną dopiero w czerwcu oraz sierpniu.",
+      "originalTitle": "Co z zakupami przed majówką? Tego dnia sklepy będą otwarte",
+      "originalDescription": "W najbliższą niedzielę, 26 kwietnia, sklepy będą otwarte. To trzecia z ośmiu niedziel handlowych zaplanowanych na ten rok. Kolejne dwie przypadną dopiero w czerwcu oraz sierpniu."
+    }
+  ]
 }
