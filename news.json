@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-25T20:14:29.793Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-25T20:46:33.045Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Widzę już tylko skórę człowieka\"",
+      "link": "https://tvn24.pl/polska/mieszkania-zasypane-smieciami-myslimy-brudasy-sprzataczka-opowiada-historie-ludzi-st9006714?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 20:30:01 GMT",
+      "description": "Mężczyzna spał na kanapie pośrodku sterty odpadów. Jego wzrok był pusty, nieobecny. - Wtedy uświadomiłam sobie, że widzę już tylko skórę człowieka - mówi Justyna Arciszewska, sprzątaczka. Ludzie piszą do niej, że najbardziej boją się, że ktoś nazwie ich brudasami.",
+      "originalTitle": "\"Widzę już tylko skórę człowieka\"",
+      "originalDescription": "Mężczyzna spał na kanapie pośrodku sterty odpadów. Jego wzrok był pusty, nieobecny. - Wtedy uświadomiłam sobie, że widzę już tylko skórę człowieka - mówi Justyna Arciszewska, sprzątaczka. Ludzie piszą do niej, że najbardziej boją się, że ktoś nazwie ich brudasami."
+    },
+    {
+      "title": "Trump twierdzi, że Iran zmienił stanowisko. \"Po 10 minutach\"",
+      "link": "https://tvn24.pl/swiat/negocjacje-iranu-i-usa-delegacja-opuscila-pakistan-st9016954?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 15:38:46 GMT",
+      "description": "W Pakistanie nie doszło do negocjacji Iranu i USA. Delegacja Iranu w sobotę opuściła Islamabad. Donald Trump z kolei powiedział, że odwołał amerykańską delegację, bo USA nie chcą \"rozmawiać o niczym\". Później stwierdził, że otrzymali \"dużo lepszy\" dokument od Iranu tuż po odwołaniu wyjazdu.",
+      "originalTitle": "Trump twierdzi, że Iran zmienił stanowisko. \"Po 10 minutach\"",
+      "originalDescription": "W Pakistanie nie doszło do negocjacji Iranu i USA. Delegacja Iranu w sobotę opuściła Islamabad. Donald Trump z kolei powiedział, że odwołał amerykańską delegację, bo USA nie chcą \"rozmawiać o niczym\". Później stwierdził, że otrzymali \"dużo lepszy\" dokument od Iranu tuż po odwołaniu wyjazdu."
+    },
+    {
+      "title": "Z powodu upału w szpitalach kończą się miejsca",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/indie-z-powodu-upalu-w-szpitalach-koncza-sie-miejsca-st9017164?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 19:32:02 GMT",
+      "description": "Mieszkańcy Indii zmagają się z ekstremalnym upałem. Temperatura w niektórych częściach kraju przekracza 40 stopni Celsjusza. Władze apelują do mieszkańców o pozostanie w domach.",
+      "originalTitle": "Z powodu upału w szpitalach kończą się miejsca",
+      "originalDescription": "Mieszkańcy Indii zmagają się z ekstremalnym upałem. Temperatura w niektórych częściach kraju przekracza 40 stopni Celsjusza. Władze apelują do mieszkańców o pozostanie w domach."
+    },
+    {
+      "title": "\"Co tu się dzieje?\" Owsiak o zbiórce Łatwoganga",
+      "link": "https://tvn24.pl/polska/latwogang-zbiera-pieniadze-dla-dzieci-chorych-na-raka-jerzy-owsiak-komentuje-st9017140?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 19:25:18 GMT",
+      "description": "Wciąż trwa internetowa zbiórka twórcy o nicku Łatwogang. Na koncie pojawiają się kolejne miliony, które mają trafić do podopiecznych fundacji Cancer Fighters. Fenomen streama skomentował sam Jurek Owsiak.",
+      "originalTitle": "\"Co tu się dzieje?\" Owsiak o zbiórce Łatwoganga",
+      "originalDescription": "Wciąż trwa internetowa zbiórka twórcy o nicku Łatwogang. Na koncie pojawiają się kolejne miliony, które mają trafić do podopiecznych fundacji Cancer Fighters. Fenomen streama skomentował sam Jurek Owsiak."
+    },
+    {
+      "title": "Katarzyna Nosowska ogoliła głowę na łyso na charytatywnym streamie Łatwoganga",
+      "link": "https://tvn24.pl/polska/katarzyna-nosowska-ogolila-glowe-na-lyso-na-charytatywnym-streamie-latwoganga-st9017156?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 19:13:39 GMT",
+      "description": "Piosenkarka Katarzyna Nosowska ogoliła głowę w szczytnym celu. Zrobiła to przed kamerą, na streamie twórcy internetowego o nicku Łatwogang, który zbiera pieniądze dla dzieci chorych na raka.",
+      "originalTitle": "Katarzyna Nosowska ogoliła głowę na łyso na charytatywnym streamie Łatwoganga",
+      "originalDescription": "Piosenkarka Katarzyna Nosowska ogoliła głowę w szczytnym celu. Zrobiła to przed kamerą, na streamie twórcy internetowego o nicku Łatwogang, który zbiera pieniądze dla dzieci chorych na raka."
+    },
+    {
+      "title": "Co z pieniędzmi z Zondacrypto? Rzecznik Praw Obywatelskich o czarnym scenariuszu",
+      "link": "https://tvn24.pl/plus/programy/fakty-po-faktach/co-z-pieniedzmi-z-zondacrypto-rzecznik-praw-obywatelskich-o-czarnym-scenariuszu-st9017078?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 18:47:24 GMT",
+      "description": "Jest duże prawdopodobieństwo, że tych środków, które zostały zainwestowane w giełdę Zondacrypto, po prostu nie da się odzyskać - powiedział w \"Faktach po Faktach\" Rzecznik Praw Obywatelskich Marcin Wiącek, komentując trwające śledztwo w sprawie giełdy kryptowalut. Mówił jednak o krokach, jakie pokrzywdzeni powinni podjąć, aby zwiększyć swoje szanse odzyskania straconych środków.",
+      "originalTitle": "Co z pieniędzmi z Zondacrypto? Rzecznik Praw Obywatelskich o czarnym scenariuszu",
+      "originalDescription": "Jest duże prawdopodobieństwo, że tych środków, które zostały zainwestowane w giełdę Zondacrypto, po prostu nie da się odzyskać - powiedział w \"Faktach po Faktach\" Rzecznik Praw Obywatelskich Marcin Wiącek, komentując trwające śledztwo w sprawie giełdy kryptowalut. Mówił jednak o krokach, jakie pokrzywdzeni powinni podjąć, aby zwiększyć swoje szanse odzyskania straconych środków."
+    },
+    {
+      "title": "Ponad 120 interwencji służb. Gdzie wiatr będzie najsilniejszy?",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-25-26-04-wichury-na-polnocy-ostrzezenia-imgw-na-weekend-silny-wiatr-alarmy-drugiego-stopnia-st9015212?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 18:28:01 GMT",
+      "description": "Pogoda w Polsce. Co najmniej 126 razy interweniowała Państwowa Straż Pożarna z powodu silnego wiatru. Przed niebezpieczną pogodą ostrzega Instytut Meteorologii i Gospodarki Wodnej. Alarmy I i II stopnia obowiązują w większości kraju.",
+      "originalTitle": "Ponad 120 interwencji służb. Gdzie wiatr będzie najsilniejszy?",
+      "originalDescription": "Pogoda w Polsce. Co najmniej 126 razy interweniowała Państwowa Straż Pożarna z powodu silnego wiatru. Przed niebezpieczną pogodą ostrzega Instytut Meteorologii i Gospodarki Wodnej. Alarmy I i II stopnia obowiązują w większości kraju."
+    },
+    {
+      "title": "Milionów przybywa w zawrotnym tempie. Łatwogang o zbiórce: tu nie chodzi o nas, chodzi tylko o dzieciaki",
+      "link": "https://tvn24.pl/polska/latwogang-zbiera-pieniadze-dla-dzieci-chorych-na-raka-milionow-wciaz-przybywa-aktualizujemy-st9017058?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 18:13:24 GMT",
+      "description": "Stream internetowego twórcy o nicku Łatwogang trwa, a wraz z nim zbiórka na szczytny cel. Aktualny licznik z zebraną kwotą trudno pokazać, bo cały czas ona rośnie, z sekundy na sekundę. Milionów przybywa, a przed kamerą pojawiają się kolejne znane osoby. Wszystko dla dzieci chorujących na raka - podopiecznych fundacji Cancer Fighters.",
+      "originalTitle": "Milionów przybywa w zawrotnym tempie. Łatwogang o zbiórce: tu nie chodzi o nas, chodzi tylko o dzieciaki",
+      "originalDescription": "Stream internetowego twórcy o nicku Łatwogang trwa, a wraz z nim zbiórka na szczytny cel. Aktualny licznik z zebraną kwotą trudno pokazać, bo cały czas ona rośnie, z sekundy na sekundę. Milionów przybywa, a przed kamerą pojawiają się kolejne znane osoby. Wszystko dla dzieci chorujących na raka - podopiecznych fundacji Cancer Fighters."
+    },
+    {
+      "title": "Pogoda na jutro - niedziela, 26.04. W nocy może spaść śnieg z deszczem",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-na-jutro-niedziela-26-04-w-nocy-moze-spasc-snieg-z-deszczem-st9017052?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 17:51:50 GMT",
+      "description": "Pogoda na jutro - niedziela, 26.04. Przed nami chłodna noc z opadami deszczu, deszczu ze śniegiem oraz silnym wiatrem. W części kraju jego porywy mogą sięgać nawet 90 km/h. Podobne warunki wystąpią w ciągu dnia.",
+      "originalTitle": "Pogoda na jutro - niedziela, 26.04. W nocy może spaść śnieg z deszczem",
+      "originalDescription": "Pogoda na jutro - niedziela, 26.04. Przed nami chłodna noc z opadami deszczu, deszczu ze śniegiem oraz silnym wiatrem. W części kraju jego porywy mogą sięgać nawet 90 km/h. Podobne warunki wystąpią w ciągu dnia."
+    },
+    {
+      "title": "\"My, dziennikarze wiemy dużo więcej, niż na co dzień możemy powiedzieć\"",
+      "link": "https://tvn24.pl/25-lat-TVN24/piasecki-adamek-wit-w-kuluarach-my-dziennikarze-wiemy-duzo-wiecej-niz-na-co-dzien-mozemy-powiedziec-st9016959?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 17:23:56 GMT",
+      "description": "Przeważnie jest tak, że ta kamera telewizyjna wzmacnia emocje, wzmacnia siłę przekazu, wzmacnia awanturniczość polityczną i trochę zaburza logiczne myślenie - ocenił Konrad Piasecki w specjalnym wydaniu \"W kuluarach\" z Kazimierza Dolnego. Dziennikarze opowiadali o kulisach swojej pracy i początkach programu.",
+      "originalTitle": "\"My, dziennikarze wiemy dużo więcej, niż na co dzień możemy powiedzieć\"",
+      "originalDescription": "Przeważnie jest tak, że ta kamera telewizyjna wzmacnia emocje, wzmacnia siłę przekazu, wzmacnia awanturniczość polityczną i trochę zaburza logiczne myślenie - ocenił Konrad Piasecki w specjalnym wydaniu \"W kuluarach\" z Kazimierza Dolnego. Dziennikarze opowiadali o kulisach swojej pracy i początkach programu."
+    }
+  ]
 }
