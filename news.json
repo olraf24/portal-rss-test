@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-25T17:45:57.837Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-25T18:18:02.216Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - niedziela, 26.04. W nocy może spaść śnieg z deszczem",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-na-jutro-niedziela-26-04-w-nocy-moze-spasc-snieg-z-deszczem-st9017052?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 17:51:50 GMT",
+      "description": "Pogoda na jutro - niedziela, 26.04. Przed nami chłodna noc z opadami deszczu, deszczu ze śniegiem oraz silnym wiatrem. W części kraju jego porywy mogą sięgać nawet 90 km/h. Podobne warunki wystąpią w ciągu dnia.",
+      "originalTitle": "Pogoda na jutro - niedziela, 26.04. W nocy może spaść śnieg z deszczem",
+      "originalDescription": "Pogoda na jutro - niedziela, 26.04. Przed nami chłodna noc z opadami deszczu, deszczu ze śniegiem oraz silnym wiatrem. W części kraju jego porywy mogą sięgać nawet 90 km/h. Podobne warunki wystąpią w ciągu dnia."
+    },
+    {
+      "title": "\"My, dziennikarze wiemy dużo więcej, niż na co dzień możemy powiedzieć\"",
+      "link": "https://tvn24.pl/25-lat-TVN24/piasecki-adamek-wit-w-kuluarach-my-dziennikarze-wiemy-duzo-wiecej-niz-na-co-dzien-mozemy-powiedziec-st9016959?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 17:23:56 GMT",
+      "description": "Przeważnie jest tak, że ta kamera telewizyjna wzmacnia emocje, wzmacnia siłę przekazu, wzmacnia awanturniczość polityczną i trochę zaburza logiczne myślenie - ocenił Konrad Piasecki w specjalnym wydaniu \"W kuluarach\" z Kazimierza Dolnego. Dziennikarze opowiadali o kulisach swojej pracy i początkach programu.",
+      "originalTitle": "\"My, dziennikarze wiemy dużo więcej, niż na co dzień możemy powiedzieć\"",
+      "originalDescription": "Przeważnie jest tak, że ta kamera telewizyjna wzmacnia emocje, wzmacnia siłę przekazu, wzmacnia awanturniczość polityczną i trochę zaburza logiczne myślenie - ocenił Konrad Piasecki w specjalnym wydaniu \"W kuluarach\" z Kazimierza Dolnego. Dziennikarze opowiadali o kulisach swojej pracy i początkach programu."
+    },
+    {
+      "title": "Trwa urodzinowa trasa TVN24. Tak było w Kazimierzu Dolnym",
+      "link": "https://tvn24.pl/25-lat-TVN24/kazimierz-dolny-urodzinowa-trasa-tvn24-st9016983?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 16:56:35 GMT",
+      "description": "Stąd są nasze dziennikarki, dlatego stąd w sobotni poranek przywitały widzów TVN24. Kazimierz Dolny był drugim przystankiem na naszej urodzinowej trasie pod hasłem \"Jesteśmy stąd\". Jak bawiliśmy się w tym urokliwym miasteczku nad Wisłą? O tym w materiale Ewy Koziak.",
+      "originalTitle": "Trwa urodzinowa trasa TVN24. Tak było w Kazimierzu Dolnym",
+      "originalDescription": "Stąd są nasze dziennikarki, dlatego stąd w sobotni poranek przywitały widzów TVN24. Kazimierz Dolny był drugim przystankiem na naszej urodzinowej trasie pod hasłem \"Jesteśmy stąd\". Jak bawiliśmy się w tym urokliwym miasteczku nad Wisłą? O tym w materiale Ewy Koziak."
+    },
+    {
+      "title": "Od środy walczą z pożarami. \"Straszne i przerażające\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-od-srody-walcza-z-pozarami-straszne-i-przerazajace-st9016975?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 16:16:46 GMT",
+      "description": "Ponad trzy tysiące osób musiało opuścić swoje domy w wyniku pożarów, jakie występują w północnej Japonii. Akcja gaśnicza z udziałem helikopterów z kilku prefektur trwa od środy.",
+      "originalTitle": "Od środy walczą z pożarami. \"Straszne i przerażające\"",
+      "originalDescription": "Ponad trzy tysiące osób musiało opuścić swoje domy w wyniku pożarów, jakie występują w północnej Japonii. Akcja gaśnicza z udziałem helikopterów z kilku prefektur trwa od środy."
+    },
+    {
+      "title": "Orban podjął decyzję. \"Postanowiłem z niego zrezygnować\"",
+      "link": "https://tvn24.pl/swiat/viktor-orban-podjal-decyzje-postanowilem-z-niego-zrezygnowac-st9016989?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 15:51:38 GMT",
+      "description": "Ustępujący premier Węgier Viktor Orban ogłosił w sobotę, że nie zasiądzie w nowym parlamencie. Orban zapowiedział w nagraniu opublikowanym na Facebooku, że skupi się na reorganizacji swego obozu politycznego.",
+      "originalTitle": "Orban podjął decyzję. \"Postanowiłem z niego zrezygnować\"",
+      "originalDescription": "Ustępujący premier Węgier Viktor Orban ogłosił w sobotę, że nie zasiądzie w nowym parlamencie. Orban zapowiedział w nagraniu opublikowanym na Facebooku, że skupi się na reorganizacji swego obozu politycznego."
+    },
+    {
+      "title": "Zderzenie trzech pojazdów na krajowej \"50\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/bonki-zderzenie-trzech-pojazdow-na-krajowej-50-st9016955?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 15:18:52 GMT",
+      "description": "W sobotę przed godziną 14 w miejscowości Bońki (powiat płoński) na krajowej \"50\" zderzyły się dwa samochody osobowe oraz ciągnik rolniczy.",
+      "originalTitle": "Zderzenie trzech pojazdów na krajowej \"50\"",
+      "originalDescription": "W sobotę przed godziną 14 w miejscowości Bońki (powiat płoński) na krajowej \"50\" zderzyły się dwa samochody osobowe oraz ciągnik rolniczy."
+    },
+    {
+      "title": "Pogoda na majówkę. Co wyliczają najważniejsze modele",
+      "link": "https://tvn24.pl/tvnmeteo/polska/weekend-majowy-2026-pogoda-na-majowke-taka-prognoze-pokazuja-najwazniejsze-modele-st9016899?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 14:58:11 GMT",
+      "description": "Pogoda na majówkę. Koniec kwietnia ma przynieść ochłodzenie, a nawet opady deszczu ze śniegiem. Czy taka aura utrzyma się także do pierwszych dni maja? Sprawdzam, co pokazują najnowsze prognozy największych ośrodków.",
+      "originalTitle": "Pogoda na majówkę. Co wyliczają najważniejsze modele",
+      "originalDescription": "Pogoda na majówkę. Koniec kwietnia ma przynieść ochłodzenie, a nawet opady deszczu ze śniegiem. Czy taka aura utrzyma się także do pierwszych dni maja? Sprawdzam, co pokazują najnowsze prognozy największych ośrodków."
+    },
+    {
+      "title": "Apel prokuratury po śmierci posła Litewki. \"Jesteśmy o krok od nawoływania do linczu\"",
+      "link": "https://tvn24.pl/katowice/katowice-apel-prokuratury-w-sprawie-sledztwa-po-smierci-posla-litewki-st9016833?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 14:22:23 GMT",
+      "description": "57-latek podejrzany o śmiertelne potrącenie posła Łukasza Litewki został tymczasowo aresztowany przez sąd. Jest ważny apel śledczych w tej sprawie. - Jesteśmy o krok od nawoływania do publicznego linczu i do popełnienia przestępstwa na szkodę podejrzanego. Tego rodzaju aktywność jest całkowicie sprzeczna z dobrem prowadzonego śledztwa - podkreślił prokurator Bartosz Kilian.",
+      "originalTitle": "Apel prokuratury po śmierci posła Litewki. \"Jesteśmy o krok od nawoływania do linczu\"",
+      "originalDescription": "57-latek podejrzany o śmiertelne potrącenie posła Łukasza Litewki został tymczasowo aresztowany przez sąd. Jest ważny apel śledczych w tej sprawie. - Jesteśmy o krok od nawoływania do publicznego linczu i do popełnienia przestępstwa na szkodę podejrzanego. Tego rodzaju aktywność jest całkowicie sprzeczna z dobrem prowadzonego śledztwa - podkreślił prokurator Bartosz Kilian."
+    },
+    {
+      "title": "Alert RCB w kolejnych miejscach. Uwaga na silny wiatr",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-sobota-i-niedziela-25-26-04-silny-wiatr-w-polsce-pogoda-zachowaj-ostroznosc-st9015814?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 13:47:35 GMT",
+      "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało SMS-owe ostrzeżenie w związku z silnym wiatrem, jaki wieje i będzie wiać w Polsce. Otrzymali je odbiorcy w trzech województwach.",
+      "originalTitle": "Alert RCB w kolejnych miejscach. Uwaga na silny wiatr",
+      "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa wysłało SMS-owe ostrzeżenie w związku z silnym wiatrem, jaki wieje i będzie wiać w Polsce. Otrzymali je odbiorcy w trzech województwach."
+    },
+    {
+      "title": "Rozmowy, zdjęcia i mnóstwo uśmiechu w Kazimierzu Dolnym. \"Jesteśmy na żywo w telewizji\"",
+      "link": "https://tvn24.pl/25-lat-TVN24/kazimierz-dolny-25-urodziny-tvn24-kolejny-punkt-na-naszej-jubileuszowej-trasie-st9016194?source=rss",
+      "pubDate": "Sat, 25 Apr 2026 08:37:13 GMT",
+      "description": "Z okazji 25. urodzin TVN24 trwa jubileuszowa trasa po Polsce - \"Jesteśmy stąd\". Tym razem odwiedziliśmy Kazimierz Dolny. Gospodyniami wydarzenia były pochodząca z tego miasta Anna Jędrzejowska oraz związane z województwem lubelskim Agata Adamek i Dorota Gardias. Przygotowaliśmy liczne atrakcje, które pozwoliły między innymi zajrzeć za kulisy codziennej pracy naszej stacji.",
+      "originalTitle": "Rozmowy, zdjęcia i mnóstwo uśmiechu w Kazimierzu Dolnym. \"Jesteśmy na żywo w telewizji\"",
+      "originalDescription": "Z okazji 25. urodzin TVN24 trwa jubileuszowa trasa po Polsce - \"Jesteśmy stąd\". Tym razem odwiedziliśmy Kazimierz Dolny. Gospodyniami wydarzenia były pochodząca z tego miasta Anna Jędrzejowska oraz związane z województwem lubelskim Agata Adamek i Dorota Gardias. Przygotowaliśmy liczne atrakcje, które pozwoliły między innymi zajrzeć za kulisy codziennej pracy naszej stacji."
+    }
+  ]
 }
