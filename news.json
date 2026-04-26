@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-26T07:34:18.265Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-26T08:30:44.968Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Rosja ponownie popycha świat na skraj katastrofy\". Apel Zełenskiego",
+      "link": "https://tvn24.pl/swiat/40-rocznica-katastrofy-w-czarnobylu-zelenski-apeluje-o-zaprzestanie-atakow-nad-elektrownia-st9017426?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 08:23:12 GMT",
+      "description": "W 40. rocznicę awarii elektrowni atomowej w Czarnobylu ukraiński prezydent Wołodymyr Zełenski mówił, że utrzymanie i ochrona sarkofagu nad zniszczonym reaktorem \"są w interesie wszystkich\". Zaapelował o zmuszenie Rosji do zaprzestania ataków zagrażających konstrukcji.",
+      "originalTitle": "\"Rosja ponownie popycha świat na skraj katastrofy\". Apel Zełenskiego",
+      "originalDescription": "W 40. rocznicę awarii elektrowni atomowej w Czarnobylu ukraiński prezydent Wołodymyr Zełenski mówił, że utrzymanie i ochrona sarkofagu nad zniszczonym reaktorem \"są w interesie wszystkich\". Zaapelował o zmuszenie Rosji do zaprzestania ataków zagrażających konstrukcji."
+    },
+    {
+      "title": "Kierowca lawety przygnieciony przez uszkodzony ambulans",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-kierowca-lawety-przygnieciony-przez-uszkodzony-ambulans-st9017430?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 08:18:56 GMT",
+      "description": "Do poważnego w skutkach wypadku doszło przy ulicy Łopuszańskiej. Na kierowcę lawety stoczyła się zepsuta karetka i przygniotła go do stojącego na przystanku autobusu. Mężczyzna w ciężkim stanie trafił do szpitala.",
+      "originalTitle": "Kierowca lawety przygnieciony przez uszkodzony ambulans",
+      "originalDescription": "Do poważnego w skutkach wypadku doszło przy ulicy Łopuszańskiej. Na kierowcę lawety stoczyła się zepsuta karetka i przygniotła go do stojącego na przystanku autobusu. Mężczyzna w ciężkim stanie trafił do szpitala."
+    },
+    {
+      "title": "Polska gospodarka nabiera rozpędu, choć nie znika zagrożenie z zewnątrz",
+      "link": "https://tvn24.pl/biznes/z-kraju/prognoza-pzu-ile-wyniesie-pkb-polski-w-pierwszym-kwartale-2026-st9017413?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 08:15:51 GMT",
+      "description": "Realne tempo wzrostu PKB w pierwszym kwartale 2026 roku mogło przekroczyć 3,5 procent. Jednocześnie powody do niepokoju dostarcza otoczenie zewnętrzne polskiej gospodarki - wynika z comiesięcznego komentarza głównego ekonomisty Powszechnego Zakładu Ubezpieczeń Dawida Pachuckiego.",
+      "originalTitle": "Polska gospodarka nabiera rozpędu, choć nie znika zagrożenie z zewnątrz",
+      "originalDescription": "Realne tempo wzrostu PKB w pierwszym kwartale 2026 roku mogło przekroczyć 3,5 procent. Jednocześnie powody do niepokoju dostarcza otoczenie zewnętrzne polskiej gospodarki - wynika z comiesięcznego komentarza głównego ekonomisty Powszechnego Zakładu Ubezpieczeń Dawida Pachuckiego."
+    },
+    {
+      "title": "Alarmy w dziewięciu województwach. Tu silnie wieje i będzie wiać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-25-26-04-wichury-na-polnocy-ostrzezenia-imgw-na-weekend-silny-wiatr-alarmy-drugiego-stopnia-st9015212?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 04:43:00 GMT",
+      "description": "Pogoda w Polsce. W niedzielę w wielu rejonach Polski silnie wieje i będzie wiać. Przed podmuchami dochodzącymi do 85 kilometrów na godzinę ostrzega Instytut Meteorologii i Gospodarki Wodnej. Sprawdź, gdzie trzeba mieć się na baczności.",
+      "originalTitle": "Alarmy w dziewięciu województwach. Tu silnie wieje i będzie wiać",
+      "originalDescription": "Pogoda w Polsce. W niedzielę w wielu rejonach Polski silnie wieje i będzie wiać. Przed podmuchami dochodzącymi do 85 kilometrów na godzinę ostrzega Instytut Meteorologii i Gospodarki Wodnej. Sprawdź, gdzie trzeba mieć się na baczności."
+    },
+    {
+      "title": "Zdradliwe błękitne niebo. \"Proszę nie wierzyć temu, co widzicie przez okno\"",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/zdradliwe-blekitne-niebo-prosze-nie-wierzyc-temu-co-widzicie-przez-okno-st9017344?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 07:33:48 GMT",
+      "description": "W sobotę zrobiło się wietrznie, a w niedzielę spadła temperatura. Na antenie TVN24 synoptyk i prezenter tvnmeteo.pl Tomasz Wasilewski opowiadał, z czego wynika zmiana aury pod koniec tygodnia. Wspomniał także o prognozach na kolejne dni, w tym na wyczekiwaną przez wielu z nas majówkę.",
+      "originalTitle": "Zdradliwe błękitne niebo. \"Proszę nie wierzyć temu, co widzicie przez okno\"",
+      "originalDescription": "W sobotę zrobiło się wietrznie, a w niedzielę spadła temperatura. Na antenie TVN24 synoptyk i prezenter tvnmeteo.pl Tomasz Wasilewski opowiadał, z czego wynika zmiana aury pod koniec tygodnia. Wspomniał także o prognozach na kolejne dni, w tym na wyczekiwaną przez wielu z nas majówkę."
+    },
+    {
+      "title": "Tragiczny wypadek na Mazurach, dwie osoby nie żyją",
+      "link": "https://tvn24.pl/olsztyn/powiat-pilski-zderzyly-sie-dwa-samochody-dwie-osoby-nie-zyja-st9017407?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 07:25:59 GMT",
+      "description": "Dwie osoby zginęły w zderzeniu dwóch samochodów osobowych na drodze krajowej nr 58 między Rucianem-Nidą a Piszem. Trasa jest całkowicie nieprzejezdna, a ruch odbywa się objazdami lokalnymi.",
+      "originalTitle": "Tragiczny wypadek na Mazurach, dwie osoby nie żyją",
+      "originalDescription": "Dwie osoby zginęły w zderzeniu dwóch samochodów osobowych na drodze krajowej nr 58 między Rucianem-Nidą a Piszem. Trasa jest całkowicie nieprzejezdna, a ruch odbywa się objazdami lokalnymi."
+    },
+    {
+      "title": "Zabrał córkę z przedszkola i zabarykadował się z nią w mieszkaniu",
+      "link": "https://tvn24.pl/lublin/swidnik-uprowadzil-corke-z-przedszkola-i-zabarykadowal-sie-z-nia-w-mieszkaniu-st9016553?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 07:21:06 GMT",
+      "description": "Policjanci ze Świdnika zatrzymali mężczyznę, który siłą zabrał swoją czteroletnią córkę z przedszkola i zabarykadował się z nią w mieszkaniu. Podczas interwencji 44-latek ruszył na funkcjonariuszy z siekierą. Usłyszał zarzuty, grozi mu do dziesięciu lat więzienia.",
+      "originalTitle": "Zabrał córkę z przedszkola i zabarykadował się z nią w mieszkaniu",
+      "originalDescription": "Policjanci ze Świdnika zatrzymali mężczyznę, który siłą zabrał swoją czteroletnią córkę z przedszkola i zabarykadował się z nią w mieszkaniu. Podczas interwencji 44-latek ruszył na funkcjonariuszy z siekierą. Usłyszał zarzuty, grozi mu do dziesięciu lat więzienia."
+    },
+    {
+      "title": "Kierowca z zakazami, kolega poszukiwany",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/mszczonow-kierowca-z-zakazami-kolega-poszukiwany-st9016939?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 07:10:28 GMT",
+      "description": "Policjant zatrzymał 39-letniego mężczyznę, który kierował Skodą, mimo że ma dwa sądowe zakazy. Próbował on jeszcze uciec, ciągnąc za sobą funkcjonariusza. Po auto przyjechał 30-letni kolega kierowcy, który był poszukiwany przez niemieckie służby.",
+      "originalTitle": "Kierowca z zakazami, kolega poszukiwany",
+      "originalDescription": "Policjant zatrzymał 39-letniego mężczyznę, który kierował Skodą, mimo że ma dwa sądowe zakazy. Próbował on jeszcze uciec, ciągnąc za sobą funkcjonariusza. Po auto przyjechał 30-letni kolega kierowcy, który był poszukiwany przez niemieckie służby."
+    },
+    {
+      "title": "Prezydent wzywa do oszczędzania prądu. \"Wywoływanie niezadowolenia\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/prezydent-iranu-wzywa-do-oszczedzania-pradu-obawa-przed-atakami-usa-st9017376?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 07:00:04 GMT",
+      "description": "Prezydent Iranu Masud Pezeszkian wystąpił w sobotę z apelem do obywateli, by oszczędzali energię elektryczną. Jednocześnie ostrzegł, że mimo, że obecnie nie ma niedoborów, administracja Stanów Zjednoczonych wielokrotnie groziła zniszczeniem infrastruktury energetycznej.",
+      "originalTitle": "Prezydent wzywa do oszczędzania prądu. \"Wywoływanie niezadowolenia\"",
+      "originalDescription": "Prezydent Iranu Masud Pezeszkian wystąpił w sobotę z apelem do obywateli, by oszczędzali energię elektryczną. Jednocześnie ostrzegł, że mimo, że obecnie nie ma niedoborów, administracja Stanów Zjednoczonych wielokrotnie groziła zniszczeniem infrastruktury energetycznej."
+    },
+    {
+      "title": "Polski dyplomata był na balu. \"Wszyscy padli na ziemię\"",
+      "link": "https://tvn24.pl/swiat/polski-dyplomata-bogdan-klich-byl-na-balu-w-waszyngtonie-relacjonuje-st9017346?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 06:55:11 GMT",
+      "description": "Wszyscy padli na ziemię, niektórym udało się schować pod stoliki - relacjonował polski charge d'affaires w USA Bogdan Klich w rozmowie z korespondentem \"Faktów\" TVN Marcinem Wroną. Dyplomata był gościem balu dziennikarzy w Waszyngtonie.",
+      "originalTitle": "Polski dyplomata był na balu. \"Wszyscy padli na ziemię\"",
+      "originalDescription": "Wszyscy padli na ziemię, niektórym udało się schować pod stoliki - relacjonował polski charge d'affaires w USA Bogdan Klich w rozmowie z korespondentem \"Faktów\" TVN Marcinem Wroną. Dyplomata był gościem balu dziennikarzy w Waszyngtonie."
+    }
+  ]
 }
