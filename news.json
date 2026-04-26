@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-26T11:45:42.855Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-26T12:19:39.306Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Marsz w obronie praw zwierząt i w hołdzie dla tragicznie zmarłego posła Litewki",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/marsz-w-obronie-praw-zwierzat-i-w-holdzie-dla-tragicznie-zmarlego-posla-litewki-st9017762?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 12:11:35 GMT",
+      "description": "W niedzielę, Traktem Królewskim przechodzi marsz pod hasłem \"Zerwijmy łańcuchy\" połączony z hołdem dla tragicznie zmarłego w wypadku posła Lewicy Łukasz Litewki. Uczestnicy manifestacji domagają się wprowadzenia w życie ustawy zakazującej trzymania psów na łańcuchach.",
+      "originalTitle": "Marsz w obronie praw zwierząt i w hołdzie dla tragicznie zmarłego posła Litewki",
+      "originalDescription": "W niedzielę, Traktem Królewskim przechodzi marsz pod hasłem \"Zerwijmy łańcuchy\" połączony z hołdem dla tragicznie zmarłego w wypadku posła Lewicy Łukasz Litewki. Uczestnicy manifestacji domagają się wprowadzenia w życie ustawy zakazującej trzymania psów na łańcuchach."
+    },
+    {
+      "title": "Technologiczny wyścig o pracowników. Wojna o talenty trwa",
+      "link": "https://tvn24.pl/biznes/tech/firmy-ai-pozyskuja-menedzerow-od-rywali-giganci-oprogramowania-na-tym-traca-st9017745?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 11:53:51 GMT",
+      "description": "Giganci branży oprogramowania odnotowują najgorsze wyniki giełdowe od lat. Obawy napędzają gruntowne zmiany spowodowane przez sztuczną inteligencję. Teraz spółki software'owe czeka nowy problem: exodus kadry kierowniczej do firm zajmujących się AI, na czele z OpenAI - przekazała CNBC.",
+      "originalTitle": "Technologiczny wyścig o pracowników. Wojna o talenty trwa",
+      "originalDescription": "Giganci branży oprogramowania odnotowują najgorsze wyniki giełdowe od lat. Obawy napędzają gruntowne zmiany spowodowane przez sztuczną inteligencję. Teraz spółki software'owe czeka nowy problem: exodus kadry kierowniczej do firm zajmujących się AI, na czele z OpenAI - przekazała CNBC."
+    },
+    {
+      "title": "Pożar warsztatu samochodowego. Spłonęły trzy auta",
+      "link": "https://tvn24.pl/wroclaw/podgorzyn-pozar-warsztatu-samochodowego-splonely-trzy-auta-st9017749?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 11:51:16 GMT",
+      "description": "Pożar warsztatu samochodowego w Podgórzynie na Dolnym Śląsku. Ogień objął trzy auta zaparkowane przed budynkiem oraz elewację. Strażacy walczyli z ogniem ponad dwie godziny.",
+      "originalTitle": "Pożar warsztatu samochodowego. Spłonęły trzy auta",
+      "originalDescription": "Pożar warsztatu samochodowego w Podgórzynie na Dolnym Śląsku. Ogień objął trzy auta zaparkowane przed budynkiem oraz elewację. Strażacy walczyli z ogniem ponad dwie godziny."
+    },
+    {
+      "title": "Od maja worki na śmieci z kodami? O co tu chodzi",
+      "link": "https://konkret24.tvn24.pl/polska/od-maja-worki-na-smieci-z-kodami-o-co-tu-chodzi-st9013732?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 11:49:34 GMT",
+      "description": "\"Jak zmuszą ludzi do używania worków z kodami?\" - zastanawiają się internauci zaniepokojeni rozpowszechnianą w sieci informacją, że już 1 maja czeka nas śmieciowa rewolucja. Chodzi o specjalne kody na workach z odpadami. Jednak w tym przekazie jest niedomówienie, które wprowadza w błąd.",
+      "originalTitle": "Od maja worki na śmieci z kodami? O co tu chodzi",
+      "originalDescription": "\"Jak zmuszą ludzi do używania worków z kodami?\" - zastanawiają się internauci zaniepokojeni rozpowszechnianą w sieci informacją, że już 1 maja czeka nas śmieciowa rewolucja. Chodzi o specjalne kody na workach z odpadami. Jednak w tym przekazie jest niedomówienie, które wprowadza w błąd."
+    },
+    {
+      "title": "Bił ją, groził, dusił sznurówką. 23-latek podejrzany o usiłowanie zabójstwa",
+      "link": "https://tvn24.pl/lublin/biala-podlaska-bil-grozil-rzucal-o-podloge-i-przypalil-papierosem-partnerke-23-latek-zatrzymany-st9017657?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 11:36:53 GMT",
+      "description": "Policjanci zatrzymali 23-latka podejrzanego o usiłowanie zabójstwa swojej partnerki, do którego doszło pod koniec ubiegłego tygodnia w Białej Podlaskiej (woj. lubelskie). Mężczyzna został aresztowany.",
+      "originalTitle": "Bił ją, groził, dusił sznurówką. 23-latek podejrzany o usiłowanie zabójstwa",
+      "originalDescription": "Policjanci zatrzymali 23-latka podejrzanego o usiłowanie zabójstwa swojej partnerki, do którego doszło pod koniec ubiegłego tygodnia w Białej Podlaskiej (woj. lubelskie). Mężczyzna został aresztowany."
+    },
+    {
+      "title": "Tylko bez paniki. \"Pijcie płyn Lugola - to radziecka Coca-Cola\"",
+      "link": "https://tvn24.pl/polska/tylko-bez-paniki-pijcie-plyn-lugola-to-radziecka-coca-cola-st9015684?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 11:15:42 GMT",
+      "description": "Nastroje w kraju były wtedy panikarskie, w kolejkach po płyn Lugola złorzeczenie, padały słowa: zbrodniarze (Rakowski). Płyn nic nie dawał, ale lepiej było zbłądzić nadgorliwością (Urban). Ludzie bali się deszczu, ale nie musieli, \"chyba że piją deszczówkę\" (ekspert). Pochody pierwszomajowe przeszły szybciej niż zwykle, za to kolarze podczas Wyścigu Pokoju jechali jak najwolniej, \"żeby nie wdychać\" (Jaskuła).",
+      "originalTitle": "Tylko bez paniki. \"Pijcie płyn Lugola - to radziecka Coca-Cola\"",
+      "originalDescription": "Nastroje w kraju były wtedy panikarskie, w kolejkach po płyn Lugola złorzeczenie, padały słowa: zbrodniarze (Rakowski). Płyn nic nie dawał, ale lepiej było zbłądzić nadgorliwością (Urban). Ludzie bali się deszczu, ale nie musieli, \"chyba że piją deszczówkę\" (ekspert). Pochody pierwszomajowe przeszły szybciej niż zwykle, za to kolarze podczas Wyścigu Pokoju jechali jak najwolniej, \"żeby nie wdychać\" (Jaskuła)."
+    },
+    {
+      "title": "Rośnie liczba interwencji strażaków. Spadające drzewo raniło kierowcę",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-silny-wiatr-w-polsce-w-niedziele-26-04-drzewo-spadlo-na-samochod-kierowca-zostal-ranny-st9017465?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 08:49:07 GMT",
+      "description": "Pogoda. W niedzielę w wielu rejonach Polski zagrożenie stanowi silny wiatr. Niebezpiecznie jest między innymi w województwie lubelskim, gdzie strażacy interweniowali już niemal 200 razy. W jednej z miejscowości drzewo spadło na auto, a jego kierowca został ranny. Na Podkarpaciu kilka tysięcy odbiorców pozostaje bez prądu.",
+      "originalTitle": "Rośnie liczba interwencji strażaków. Spadające drzewo raniło kierowcę",
+      "originalDescription": "Pogoda. W niedzielę w wielu rejonach Polski zagrożenie stanowi silny wiatr. Niebezpiecznie jest między innymi w województwie lubelskim, gdzie strażacy interweniowali już niemal 200 razy. W jednej z miejscowości drzewo spadło na auto, a jego kierowca został ranny. Na Podkarpaciu kilka tysięcy odbiorców pozostaje bez prądu."
+    },
+    {
+      "title": "Polska goni liderów. Popularność tego sposobu rezerwacji rośnie",
+      "link": "https://tvn24.pl/biznes/turystyka/rosnie-popularnosc-rezerwacji-noclegow-w-polsce-przez-airbnb-i-booking-tempo-prawie-najszybsze-w-ue-st9017634?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 10:59:30 GMT",
+      "description": "Rośnie popularność rezerwowania noclegów w Polsce przez takie platformy, jak Airbnb i Booking - prawie najszybciej w Unii Europejskiej, jak wynika z analizy Państwowego Instytutu Ekonomicznego. Jednocześnie jesteśmy poniżej średniej unijnej. Na szczycie są takie państwa turystyczne jak Chorwacja, Grecja, Malta i Hiszpania.",
+      "originalTitle": "Polska goni liderów. Popularność tego sposobu rezerwacji rośnie",
+      "originalDescription": "Rośnie popularność rezerwowania noclegów w Polsce przez takie platformy, jak Airbnb i Booking - prawie najszybciej w Unii Europejskiej, jak wynika z analizy Państwowego Instytutu Ekonomicznego. Jednocześnie jesteśmy poniżej średniej unijnej. Na szczycie są takie państwa turystyczne jak Chorwacja, Grecja, Malta i Hiszpania."
+    },
+    {
+      "title": "Gdzie jest burza? Tutaj niedziela była burzowa",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-niedziela-26-04-radar-opadow-i-mapa-burz-st9006024?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 07:40:09 GMT",
+      "description": "Pogoda. Gdzie jest burza? W niedzielę 26.04 grzmiało w części kraju. Wyładowaniom towarzyszyły opady deszczu oraz silny wiatr.",
+      "originalTitle": "Gdzie jest burza? Tutaj niedziela była burzowa",
+      "originalDescription": "Pogoda. Gdzie jest burza? W niedzielę 26.04 grzmiało w części kraju. Wyładowaniom towarzyszyły opady deszczu oraz silny wiatr."
+    },
+    {
+      "title": "Pogoda na 16 dni. To będzie lodowaty koniec kwietnia. Co z majówką?",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-pogoda-na-majowke-dlugoterminowa-prognoza-tomasza-wasilewskiego-to-bedzie-lodowaty-koniec-kwietnia-st9017549?source=rss",
+      "pubDate": "Sun, 26 Apr 2026 10:37:50 GMT",
+      "description": "Przed nami chłodne dni i noce z mrozem. Pod koniec kwietnia temperatura miejscami nie przekroczy 10 stopni Celsjusza. Czy w majówkę możemy liczyć na wyższe wartości na termometrach? Sprawdź długoterminową prognozę temperatury, przygotowaną przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego.",
+      "originalTitle": "Pogoda na 16 dni. To będzie lodowaty koniec kwietnia. Co z majówką?",
+      "originalDescription": "Przed nami chłodne dni i noce z mrozem. Pod koniec kwietnia temperatura miejscami nie przekroczy 10 stopni Celsjusza. Czy w majówkę możemy liczyć na wyższe wartości na termometrach? Sprawdź długoterminową prognozę temperatury, przygotowaną przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego."
+    }
+  ]
 }
