@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-28T14:16:48.387Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-28T15:19:14.963Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Szijjarto wiceprzewodniczącym parlamentu? Jest reakcja Magyara",
+      "link": "https://tvn24.pl/swiat/peter-magyar-partia-tisza-nie-poprze-kandydatury-petera-szijjarto-na-wiceprzewodniczacego-parlamentu-wegier-st9021421?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 15:07:58 GMT",
+      "description": "Peter Magyar odmówił poparcia kandydatury ustępującego ministra spraw zagranicznych Petera Szijjarto na stanowisko wiceszefa parlamentu. Na krótko przed kwietniowymi wyborami ujawniono, że szef węgierskiej dyplomacji regularnie relacjonował Kremlowi spotkania Unii Europejskiej.",
+      "originalTitle": "Szijjarto wiceprzewodniczącym parlamentu? Jest reakcja Magyara",
+      "originalDescription": "Peter Magyar odmówił poparcia kandydatury ustępującego ministra spraw zagranicznych Petera Szijjarto na stanowisko wiceszefa parlamentu. Na krótko przed kwietniowymi wyborami ujawniono, że szef węgierskiej dyplomacji regularnie relacjonował Kremlowi spotkania Unii Europejskiej."
+    },
+    {
+      "title": "Giganci pod lupą. Czy inwestycje w AI w końcu się zwrócą?",
+      "link": "https://tvn24.pl/biznes/tech/sztuczna-inteligencja-big-techy-pod-lupa-czy-inwestycje-w-ai-w-koncu-sie-zwroca-st9021341?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 15:06:55 GMT",
+      "description": "Przez ostatnie trzy lata największe koncerny technologiczne prześcigały się w wydatkach na rozwój sztucznej inteligencji. Wciąż czekają jednak na zwrot z tych inwestycji - pisze we wtorek Reuters.",
+      "originalTitle": "Giganci pod lupą. Czy inwestycje w AI w końcu się zwrócą?",
+      "originalDescription": "Przez ostatnie trzy lata największe koncerny technologiczne prześcigały się w wydatkach na rozwój sztucznej inteligencji. Wciąż czekają jednak na zwrot z tych inwestycji - pisze we wtorek Reuters."
+    },
+    {
+      "title": "Miał być uśpiony przez sto tysięcy lat. Teraz odkryto prawdę",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/grecja-wulkan-methana-mial-byc-uspiony-przez-sto-tysiecy-lat-teraz-odkryto-prawde-st9021345?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 15:02:13 GMT",
+      "description": "Grecki wulkan Methana, który przez ponad sto tysięcy lat pozostawał nieaktywny, zaskoczył naukowców. Badacze przyjrzeli się historii geologicznej stożka. Chociaż w pewnym okresie nie odnotowano żadnych erupcji, a z krateru nie wydobywały się popioły, głęboko pod ziemią zachodziły intensywne procesy wulkaniczne.",
+      "originalTitle": "Miał być uśpiony przez sto tysięcy lat. Teraz odkryto prawdę",
+      "originalDescription": "Grecki wulkan Methana, który przez ponad sto tysięcy lat pozostawał nieaktywny, zaskoczył naukowców. Badacze przyjrzeli się historii geologicznej stożka. Chociaż w pewnym okresie nie odnotowano żadnych erupcji, a z krateru nie wydobywały się popioły, głęboko pod ziemią zachodziły intensywne procesy wulkaniczne."
+    },
+    {
+      "title": "Zabrał kobiecie auto, siłą wyciągając ją ze środka, porzucił je na torach. Zarzuty dla 27-latka",
+      "link": "https://tvn24.pl/katowice/mikolow-laziska-gorne-tychy-zabral-kobiecie-auto-sila-wyciagajac-ja-ze-srodka-porzucil-je-na-torach-zarzuty-dla-27-latka-st9018396?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:58:00 GMT",
+      "description": "Prokurator postawił zarzuty 27-latkowi, który zabrał kobiecie auto, wyciągając ją siłą ze środka. Utknął później na torach kolejowych i uciekł. W samochód uderzył pociąg.",
+      "originalTitle": "Zabrał kobiecie auto, siłą wyciągając ją ze środka, porzucił je na torach. Zarzuty dla 27-latka",
+      "originalDescription": "Prokurator postawił zarzuty 27-latkowi, który zabrał kobiecie auto, wyciągając ją siłą ze środka. Utknął później na torach kolejowych i uciekł. W samochód uderzył pociąg."
+    },
+    {
+      "title": "Tusk o szczegółach wymiany Poczobuta. \"Ta historia była długa i miała wiele zwrotów akcji\"",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-uwolniony-donald-tusk-o-kulisach-operacji-st9021436?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:52:05 GMT",
+      "description": "Współpraca sojusznicza, determinacja naszych służb i dyplomatów i bardzo solidne wsparcie ze strony Waszyngtonu doprowadziło do tego szczęśliwego finału - powiedział premier Donald Tusk, komentując uwolnienie Andrzeja Poczobuta po pięciu latach w białoruskiej kolonii karnej.",
+      "originalTitle": "Tusk o szczegółach wymiany Poczobuta. \"Ta historia była długa i miała wiele zwrotów akcji\"",
+      "originalDescription": "Współpraca sojusznicza, determinacja naszych służb i dyplomatów i bardzo solidne wsparcie ze strony Waszyngtonu doprowadziło do tego szczęśliwego finału - powiedział premier Donald Tusk, komentując uwolnienie Andrzeja Poczobuta po pięciu latach w białoruskiej kolonii karnej."
+    },
+    {
+      "title": "Ponad miliard złotych. Znamy koszty rządowego programu",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliwa-nizej-miliardowe-koszty-rzadowego-programu-resort-wskazal-kwote-st9021457?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:41:50 GMT",
+      "description": "Tylko w okresie między 30 marca a 15 maja obniżenie akcyzy na paliwa będzie kosztowało budżet Polski około 1,1 miliarda złotych. Same dwa dodatkowe tygodnie obowiązywania tarczy to koszt rzędu 350 mln zł - wynika z najnowszego uzasadnienia do rozporządzenia.",
+      "originalTitle": "Ponad miliard złotych. Znamy koszty rządowego programu",
+      "originalDescription": "Tylko w okresie między 30 marca a 15 maja obniżenie akcyzy na paliwa będzie kosztowało budżet Polski około 1,1 miliarda złotych. Same dwa dodatkowe tygodnie obowiązywania tarczy to koszt rzędu 350 mln zł - wynika z najnowszego uzasadnienia do rozporządzenia."
+    },
+    {
+      "title": "Ponad osiem tysięcy złotych mandatu dla rowerzysty",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zegrze-poludniowe-rowerem-uciekal-przed-policjantami-mial-przy-sobie-narkotyki-st9021363?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:40:45 GMT",
+      "description": "W Zegrzu Południowym 27-latek uciekał na rowerze przed policjantami. Kiedy został zatrzymany, odkryli powód jego ucieczki. Mężczyzna był trzeźwy, problemem było co innego. Teraz musi zapłacić słony mandat, ma ponieść też konsekwencje karne.",
+      "originalTitle": "Ponad osiem tysięcy złotych mandatu dla rowerzysty",
+      "originalDescription": "W Zegrzu Południowym 27-latek uciekał na rowerze przed policjantami. Kiedy został zatrzymany, odkryli powód jego ucieczki. Mężczyzna był trzeźwy, problemem było co innego. Teraz musi zapłacić słony mandat, ma ponieść też konsekwencje karne."
+    },
+    {
+      "title": "Alert przed wakacjami. Niedobory paliwa lotniczego realne",
+      "link": "https://tvn24.pl/biznes/turystyka/alert-przed-wakacjami-niedobory-paliwa-lotniczego-realne-st9021336?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:34:45 GMT",
+      "description": "Szwedzki rząd ostrzegł we wtorek przed potencjalnym brakiem paliwa lotniczego. Wicepremierka i ministra energii Ebba Busch zaapelowała do obywateli, aby wziąć pod uwagę możliwe zakłócenia w transporcie podczas planowania wyjazdów wakacyjnych.",
+      "originalTitle": "Alert przed wakacjami. Niedobory paliwa lotniczego realne",
+      "originalDescription": "Szwedzki rząd ostrzegł we wtorek przed potencjalnym brakiem paliwa lotniczego. Wicepremierka i ministra energii Ebba Busch zaapelowała do obywateli, aby wziąć pod uwagę możliwe zakłócenia w transporcie podczas planowania wyjazdów wakacyjnych."
+    },
+    {
+      "title": "\"Młodzież potrzebuje przestrzeni\". Chcą strefy legalnego graffiti",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/gora-kalwaria-radni-chca-strefy-free-graffiti-zlozyli-wniosek-do-burmistrza-propozycja-lokalizacji-st9020831?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:29:15 GMT",
+      "description": "Radni z Góry Kalwarii chcą stworzenia w mieście strefy, w której malowanie graffiti byłoby dozwolone. Wniosek w tej sprawie trafił na biurko burmistrza. \"Jeśli tej przestrzeni nie stworzymy, to znajdą ją sami, często w sposób, który szkodzi wspólnemu dobru\" - podkreśliła jedna z radnych",
+      "originalTitle": "\"Młodzież potrzebuje przestrzeni\". Chcą strefy legalnego graffiti",
+      "originalDescription": "Radni z Góry Kalwarii chcą stworzenia w mieście strefy, w której malowanie graffiti byłoby dozwolone. Wniosek w tej sprawie trafił na biurko burmistrza. \"Jeśli tej przestrzeni nie stworzymy, to znajdą ją sami, często w sposób, który szkodzi wspólnemu dobru\" - podkreśliła jedna z radnych"
+    },
+    {
+      "title": "Zginęła po ataku niedźwiedzia. Są wyniki sekcji",
+      "link": "https://tvn24.pl/rzeszow/plonna-zginela-po-ataku-niedzwiedzia-wyniki-sekcji-zwlok-st9021371?source=rss",
+      "pubDate": "Tue, 28 Apr 2026 14:24:47 GMT",
+      "description": "Sekcja zwłok 58-letniej kobiety, która zginęła w lesie w miejscowości Płonna na Podkarpaciu, potwierdziła, że przyczyną jej śmierci był atak niedźwiedzia. Służby apelują o ostrożność i przypominają, jak zachować bezpieczeństwo w lesie.",
+      "originalTitle": "Zginęła po ataku niedźwiedzia. Są wyniki sekcji",
+      "originalDescription": "Sekcja zwłok 58-letniej kobiety, która zginęła w lesie w miejscowości Płonna na Podkarpaciu, potwierdziła, że przyczyną jej śmierci był atak niedźwiedzia. Służby apelują o ostrożność i przypominają, jak zachować bezpieczeństwo w lesie."
+    }
+  ]
 }
