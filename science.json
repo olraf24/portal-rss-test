@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-28T10:16:37.198Z",
+  "lastUpdate": "2026-04-28T11:12:43.241Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Niewyspany mózg działa jak niewydolne lotnisko",
+      "link": "https://dzienniknaukowy.pl/niewyspany-mozg-dziala-jak-niewydolne-lotnisko",
+      "pubDate": "Tue, 28 Apr 2026 10:39:37 +0000",
+      "description": "Zaburzenia snu uniemożliwiają szybki i efektywny przepływ informacji w mózgu, przez co przypomina on niewydolne lotnisko. Jedna całkowicie nieprzespana noc i wielokrotne niedosypianie prowadzą jednak do odmiennych zmian w jego funkcjonowaniu, co po raz pierwszy wykazało polsko-francuskie badanie."
+    },
     {
       "title": "Faza błękitna w optyce: szybki i przezroczysty modulator światła",
       "link": "https://dzienniknaukowy.pl/faza-blekitna-w-optyce-szybki-i-przezroczysty-modulator-swiatla",
@@ -31,7 +37,7 @@
       "title": "Skąd się biorą błędne lub agresywne odpowiedzi chatbotów?",
       "link": "https://dzienniknaukowy.pl/skad-sie-biora-bledne-lub-agresywne-odpowiedzi-chatbotow",
       "pubDate": "Thu, 23 Apr 2026 15:35:10 +0000",
-      "description": "Dlaczego duże modele językowe udzielają czasem bł��dnych, szkodliwych lub agresywnych odpowiedzi? Nawet ich bardzo wąskie i pozornie kontrolowane modyfikacje mogą prowadzić do nieprzewidzianych skutków ubocznych - wynika z publikacji w Nature. Jedną z jej autorek jest badaczka Politechniki Warszawskiej."
+      "description": "Dlaczego duże modele językowe udzielają czasem błędnych, szkodliwych lub agresywnych odpowiedzi? Nawet ich bardzo wąskie i pozornie kontrolowane modyfikacje mogą prowadzić do nieprzewidzianych skutków ubocznych - wynika z publikacji w Nature. Jedną z jej autorek jest badaczka Politechniki Warszawskiej."
     },
     {
       "title": "Przewlekły stres a przebieg choroby nowotworowej",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/meteoryt-z-drelowa-jako-zapis-dawnych-zderzen-w-kosmosie",
       "pubDate": "Wed, 22 Apr 2026 15:10:23 +0000",
       "description": "Meteoryt, który spadł 18 lutego ub.r. w okolicach Drelowa (Lubelskie), okazał się cennym materiałem do badań nad historią planetoid i wczesnego Układu Słonecznego. Międzynarodowy zespół, z udziałem badaczy z Uniwersytetu Śląskiego w Katowicach, wykazał, że jest to chondryt zwyczajny typu L6 z wyraźnymi śladami silnych wstrząsów i przemian zachodzących jeszcze w przestrzeni kosmicznej."
-    },
-    {
-      "title": "Czy nauka pamięciowa chemii ma jeszcze jakiś sens?",
-      "link": "https://dzienniknaukowy.pl/czy-nauka-pamieciowa-chemii-ma-jeszcze-jakis-sens",
-      "pubDate": "Wed, 22 Apr 2026 13:28:00 +0000",
-      "description": "Często słyszy się zalecenie: \"Nie ucz się chemii pamięciowo, opieraj się na zrozumieniu\". Owszem, zrozumienie to podstawa, ale bez zapamiętania istotnych informacji nie ma szans dobrze napisać matury!"
     }
   ]
 }

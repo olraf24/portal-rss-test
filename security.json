@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-04-28T10:16:38.003Z",
+  "lastUpdate": "2026-04-28T11:12:43.223Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Kreml przestał to ukrywać. Rosyjska gospodarka w kryzysie",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/kreml-przestal-to-ukrywac-rosyjska-gospodarka-w-kryzysie",
+      "pubDate": "Tue, 28 Apr 2026 12:36:50 +0200",
+      "description": "Trudna sytuacja rosyjskiej gospodarki zaczyna być oficjalnie dyskutowana na najwyższych szczeblach. Putin żąda wyjaśnień, potwierdzając spadek rosyjskiego PKB."
+    },
     {
       "title": "Stryker dla Wojska Polskiego? Gen. Sokołowski o pancernym skoku [WYWIAD]",
       "link": "https://defence24.pl/sily-zbrojne/stryker-dla-wojska-polskiego-gen-sokolowski-o-pancernym-skoku-wywiad",
@@ -25,7 +31,7 @@
       "title": "Wstrzymane zakupy amunicji dla wojska. Decyzja Agencji Uzbrojenia",
       "link": "https://defence24.pl/przemysl/wstrzymane-zakupy-amunicji-dla-wojska-decyzja-agencji-uzbrojenia",
       "pubDate": "Tue, 28 Apr 2026 10:55:01 +0200",
-      "description": "Agencja Uzbrojenia wstrzymała część prowadzonych przetargów na zakup amunicji i środków bojowych dla Wojska Polskiego. Informacja została przekazana 27 kwietnia, choć same decyzje o unieważnieniu zapadły kilka dni wcześniej, 21 kwietnia. Postępowania były prowadzone od września 2025 roku."
+      "description": "Agencja Uzbrojenia wstrzymała część prowadzonych przetargów na zakup amunicji i środków bojowych dla Wojska Polskiego. Informacja została przekazana 27 kwietnia, choć same decyzje o unieważnieniu zapadły kilka dni wcześniej, 21 kwietnia. Postępowania były prowadzone od września 2025 roku. Powodem jest zmiana formuły finansowania i uwzględnienie instrumentu SAFE."
     },
     {
       "title": "Polski sprzęt będzie testowany na ukraińskim froncie",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/polityka-obronna/wtorkowy-przeglad-mediow-stare-nato-sie-konczy-o-dronach-chcemy-sie-uczyc-od-ukrainy",
       "pubDate": "Tue, 28 Apr 2026 07:18:12 +0200",
       "description": "Codzienny przegląd mediów sektora bezpieczeństwa i obronności."
-    },
-    {
-      "title": "Sobkowiak-Czarnecka: z pieniędzy z programu SAFE pozyskamy nowoczesne technologie dronowe od Ukrainy",
-      "link": "https://defence24.pl/polityka-obronna/sobkowiak-czarnecka-z-pieniedzy-z-programu-safe-pozyskamy-nowoczesne-technologie-dronowe-od-ukrainy",
-      "pubDate": "Mon, 27 Apr 2026 19:29:35 +0200",
-      "description": "Pełnomocniczka rządu Magdalena Sobkowiak-Czarnecka powiedziała PAP, że Polska w ciągu kilku dni podpisze umowę z Komisją Europejską ws. programu SAFE. Pieniądze z programu - dodała - zostaną przeznaczone m.in. na pozyskanie technologii dronowych od Ukrainy."
     }
   ]
 }
