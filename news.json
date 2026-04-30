@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-04-30T03:10:34.995Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-04-30T04:42:01.058Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ceny paliw w czwartek. Ile dzisiaj zapłacimy?",
+      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-w-czwartek-30-kwietnia-ile-zaplacimy-za-benzyne-i-olej-napedowy-st9022135?source=rss",
+      "pubDate": "Wed, 29 Apr 2026 10:02:13 GMT",
+      "description": "Według komunikatu ministra energii w czwartek 30 kwietnia za benzynę zapłacimy więcej niż dzień wcześniej. Tańszy będzie natomiast olej napędowy.",
+      "originalTitle": "Ceny paliw w czwartek. Ile dzisiaj zapłacimy?",
+      "originalDescription": "Według komunikatu ministra energii w czwartek 30 kwietnia za benzynę zapłacimy więcej niż dzień wcześniej. Tańszy będzie natomiast olej napędowy."
+    },
+    {
+      "title": "Żółto w 15 województwach. Tutaj ostrzega IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-29-30-04-przymrozki-prawie-cala-polska-na-zolto-st9022784?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 04:25:00 GMT",
+      "description": "Pogoda w Polsce. W czwartkowy poranek w 15 województwach obowiązują ostrzeżenia przed przymrozkami wydane przez Instytut Meteorologii i Gospodarki Wodnej. Sprawdź, gdzie uważać na przygruntowy mróz.",
+      "originalTitle": "Żółto w 15 województwach. Tutaj ostrzega IMGW",
+      "originalDescription": "Pogoda w Polsce. W czwartkowy poranek w 15 województwach obowiązują ostrzeżenia przed przymrozkami wydane przez Instytut Meteorologii i Gospodarki Wodnej. Sprawdź, gdzie uważać na przygruntowy mróz."
+    },
+    {
+      "title": "Wotum nieufności dla ministry zdrowia. Jest opinia komisji",
+      "link": "https://tvn24.pl/polska/wotum-nieufnosci-dla-ministry-zdrowia-jolanty-sobieranskiej-grendy-oto-co-jej-zarzucaja-st9024109?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 04:19:30 GMT",
+      "description": "Sejmowa Komisja Zdrowia udzieliła negatywnej opinii wnioskowi o odwołanie ministry zdrowia Jolanty Sobierańskiej-Grendy. Szefowa MZ zaznaczyła, że wysłuchała wniosku \"z uwagą i pokorą\". Podkreśliła, że jako ministerstwo \"nie uciekają\" od rozmów na temat reform.",
+      "originalTitle": "Wotum nieufności dla ministry zdrowia. Jest opinia komisji",
+      "originalDescription": "Sejmowa Komisja Zdrowia udzieliła negatywnej opinii wnioskowi o odwołanie ministry zdrowia Jolanty Sobierańskiej-Grendy. Szefowa MZ zaznaczyła, że wysłuchała wniosku \"z uwagą i pokorą\". Podkreśliła, że jako ministerstwo \"nie uciekają\" od rozmów na temat reform."
+    },
+    {
+      "title": "Zabrakło pieniędzy dla medalistów. Kacper Tomasiak i Paweł Wąsek muszą czekać",
+      "link": "https://tvn24.pl/polska/dostali-pieniadze-od-pkol-za-tokeny-ale-kacper-tomasiak-i-pawel-wasek-dalej-czekaja-st9023607?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 04:03:48 GMT",
+      "description": "Obiecane premie od Zondacpryto wreszcie trafiły do olimpijczyków, ale nie wszystkich. Osławione tokeny zdobyło dzięki sukcesom na zimowych igrzyskach dwudziestu sportowców. Na swoje wypłaty niektórzy ciągle czekają.",
+      "originalTitle": "Zabrakło pieniędzy dla medalistów. Kacper Tomasiak i Paweł Wąsek muszą czekać",
+      "originalDescription": "Obiecane premie od Zondacpryto wreszcie trafiły do olimpijczyków, ale nie wszystkich. Osławione tokeny zdobyło dzięki sukcesom na zimowych igrzyskach dwudziestu sportowców. Na swoje wypłaty niektórzy ciągle czekają."
+    },
+    {
+      "title": "Poczobut na nagraniu ze szpitala: są rzeczy trwałe i są ludzie trwali",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-na-nagraniu-ze-szpitala-padly-wazne-slowa-st9024101?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 03:55:31 GMT",
+      "description": "Życzę wszystkim, żebyście byli trwali w tym, co robicie i w tym, co wierzycie - powiedział dziennikarz Andrzej Poczobut na wideo nagranym przez jego przyjaciela. W krótkiej rozmowie z Bartoszem T. Wielińskim, zastępcą redaktora naczelnego \"Gazety Wyborczej\", Poczobut odniósł się też do swojego stanu zdrowia.",
+      "originalTitle": "Poczobut na nagraniu ze szpitala: są rzeczy trwałe i są ludzie trwali",
+      "originalDescription": "Życzę wszystkim, żebyście byli trwali w tym, co robicie i w tym, co wierzycie - powiedział dziennikarz Andrzej Poczobut na wideo nagranym przez jego przyjaciela. W krótkiej rozmowie z Bartoszem T. Wielińskim, zastępcą redaktora naczelnego \"Gazety Wyborczej\", Poczobut odniósł się też do swojego stanu zdrowia."
+    },
+    {
+      "title": "Pożegnanie Litewki, Mejza wyrzucony, atak nożownika w urzędzie",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-w-czwartek-30-kwietnia-najwazniejsze-informacje-st9024108?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 03:30:49 GMT",
+      "description": "Łukasz Litewka spoczął na cmentarzu parafialnym w Sosnowcu. Poseł Łukasz Mejza przestał być członkiem klubu Prawa i Sprawiedliwości. Nożownik zaatakował wójt Starej Kornicy (Mazowieckie) Beatę Jerzman. Oto sześć rzeczy, które warto wiedzieć w czwartek 30 kwietnia.",
+      "originalTitle": "Pożegnanie Litewki, Mejza wyrzucony, atak nożownika w urzędzie",
+      "originalDescription": "Łukasz Litewka spoczął na cmentarzu parafialnym w Sosnowcu. Poseł Łukasz Mejza przestał być członkiem klubu Prawa i Sprawiedliwości. Nożownik zaatakował wójt Starej Kornicy (Mazowieckie) Beatę Jerzman. Oto sześć rzeczy, które warto wiedzieć w czwartek 30 kwietnia."
+    },
+    {
+      "title": "Piąta rozprawa w procesie księdza Olszewskiego. Urszula D.: chcę wskazać konkretnych polityków",
+      "link": "https://tvn24.pl/polska/piata-rozprawa-w-procesie-ksiedza-olszewskiego-oskarzona-o-glownym-swiadku-i-politykach-st9023758?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 03:15:47 GMT",
+      "description": "Absurdalne, kuriozalne, zastanawiające, niezrozumiałe - takimi słowami Urszula D. podczas wczorajszej rozprawy określała kolejno zarzuty, które stawia jej prokuratura. - Mam poczucie wielkiej niesprawiedliwości - powiedziała. Nazwała też siebie marionetką w grze polityków. Których? Wymieniła tylko jedno nazwisko.",
+      "originalTitle": "Piąta rozprawa w procesie księdza Olszewskiego. Urszula D.: chcę wskazać konkretnych polityków",
+      "originalDescription": "Absurdalne, kuriozalne, zastanawiające, niezrozumiałe - takimi słowami Urszula D. podczas wczorajszej rozprawy określała kolejno zarzuty, które stawia jej prokuratura. - Mam poczucie wielkiej niesprawiedliwości - powiedziała. Nazwała też siebie marionetką w grze polityków. Których? Wymieniła tylko jedno nazwisko."
+    },
+    {
+      "title": "Pogoda na dziś - czwartek 30.04. Czeka nas pogodny, miejscami dość ciepły dzień",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-30-04-czeka-nas-pogodny-miejscami-dosc-cieply-dzien-st9023997?source=rss",
+      "pubDate": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Czwartek 30.04 w całym kraju przyniesie raczej spokojną aurę - tylko miejscami może pokropić deszcz. Na termometrach zobaczymy od 8 do 18 stopni Celsjusza.",
+      "originalTitle": "Pogoda na dziś - czwartek 30.04. Czeka nas pogodny, miejscami dość ciepły dzień",
+      "originalDescription": "Pogoda na dziś. Czwartek 30.04 w całym kraju przyniesie raczej spokojną aurę - tylko miejscami może pokropić deszcz. Na termometrach zobaczymy od 8 do 18 stopni Celsjusza."
+    },
+    {
+      "title": "Rejsy o brzasku, kino plenerowe, szanty nad Wisłą",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-majowka-nad-wisla-st9023916?source=rss",
+      "pubDate": "Wed, 29 Apr 2026 19:47:27 GMT",
+      "description": "Manewry łodzi, finał Wiślanej Ligi Żeglarskiej, darmowe rejsy na galarach, szanty i saunowanie. Majówka to finałowy weekend otwarcia sezonu nad Wisłą.",
+      "originalTitle": "Rejsy o brzasku, kino plenerowe, szanty nad Wisłą",
+      "originalDescription": "Manewry łodzi, finał Wiślanej Ligi Żeglarskiej, darmowe rejsy na galarach, szanty i saunowanie. Majówka to finałowy weekend otwarcia sezonu nad Wisłą."
+    },
+    {
+      "title": "\"To była wystarczająco silna waluta, żeby handlować z Łukaszenką i z Putinem\"",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-na-wolnosci-co-przekonalo-lukaszenke-eksperci-komentuja-st9023969?source=rss",
+      "pubDate": "Wed, 29 Apr 2026 19:33:52 GMT",
+      "description": "To próba pokazania Alaksandrowi Łukaszence, że nie jest skazany tylko na wektor moskiewski, czyli może podjąć znowu grę między Wschodem a Zachodem - mówił o rozmowach amerykańsko-białoruskich, które przyczyniły się do uwolnienia Andrzeja Poczobuta, dziennikarz Zbigniew Parafianowicz. - Stany Zjednoczone bardzo mocno wstawiały się za Polską - komentowała politolożka Anna Maria Dyner.",
+      "originalTitle": "\"To była wystarczająco silna waluta, żeby handlować z Łukaszenką i z Putinem\"",
+      "originalDescription": "To próba pokazania Alaksandrowi Łukaszence, że nie jest skazany tylko na wektor moskiewski, czyli może podjąć znowu grę między Wschodem a Zachodem - mówił o rozmowach amerykańsko-białoruskich, które przyczyniły się do uwolnienia Andrzeja Poczobuta, dziennikarz Zbigniew Parafianowicz. - Stany Zjednoczone bardzo mocno wstawiały się za Polską - komentowała politolożka Anna Maria Dyner."
+    }
+  ]
 }
