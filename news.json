@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-01T13:33:11.415Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-01T14:28:14.635Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Tysiące ewakuowanych, ogień blisko domów. \"To był koszmar\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-toskania-tysiace-ewakuowanych-ogien-zbliza-sie-do-domow-sytuacja-pogarsza-sie-z-godziny-na-godzine-st9026767?source=rss",
+      "pubDate": "Fri, 01 May 2026 14:23:44 GMT",
+      "description": "Od kilku dni zbocza góry Faeta w Toskanii trawią pożary. Żywioł zagraża mieszkańcom, ewakuowano już kilka tysięcy osób. Na miejscu trwa trudna akcja gaśnicza, a ogień podsyca silny wiatr.",
+      "originalTitle": "Tysiące ewakuowanych, ogień blisko domów. \"To był koszmar\"",
+      "originalDescription": "Od kilku dni zbocza góry Faeta w Toskanii trawią pożary. Żywioł zagraża mieszkańcom, ewakuowano już kilka tysięcy osób. Na miejscu trwa trudna akcja gaśnicza, a ogień podsyca silny wiatr."
+    },
+    {
+      "title": "Jechali na majówkę do Pragi, utknęli w szczerym polu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-awaria-pociagu-do-pragi-pasazerowie-utkneli-w-polu-st9026790?source=rss",
+      "pubDate": "Fri, 01 May 2026 14:13:19 GMT",
+      "description": "Pasażerowie pociągu PKP Intercity Silesia utknęli w drodze z Warszawy do stolicy Czech. W rejonie Opoczna doszło do awarii.",
+      "originalTitle": "Jechali na majówkę do Pragi, utknęli w szczerym polu",
+      "originalDescription": "Pasażerowie pociągu PKP Intercity Silesia utknęli w drodze z Warszawy do stolicy Czech. W rejonie Opoczna doszło do awarii."
+    },
+    {
+      "title": "Strzały na balu z udziałem Trumpa. Prokuratura pokazała nagranie",
+      "link": "https://tvn24.pl/swiat/usa-strzaly-na-balu-dziennikarzy-z-udzialem-donalda-trumpa-nowe-nagranie-st9026772?source=rss",
+      "pubDate": "Fri, 01 May 2026 14:12:34 GMT",
+      "description": "Jest nowe nagranie ze sprawcą strzelaniny, do której doszło podczas gali dziennikarzy z udziałem prezydenta Donalda Trumpa w Waszyngtonie. Prokuratura opublikowała zapis z kamer monitoringu. Widać, jak napastnik z długą bronią przebiega obok policjantów, zaraz później padają strzały.",
+      "originalTitle": "Strzały na balu z udziałem Trumpa. Prokuratura pokazała nagranie",
+      "originalDescription": "Jest nowe nagranie ze sprawcą strzelaniny, do której doszło podczas gali dziennikarzy z udziałem prezydenta Donalda Trumpa w Waszyngtonie. Prokuratura opublikowała zapis z kamer monitoringu. Widać, jak napastnik z długą bronią przebiega obok policjantów, zaraz później padają strzały."
+    },
+    {
+      "title": "Tragiczny wypadek w Lesznie. Spadochron się otworzył, ale skoczek zginął",
+      "link": "https://tvn24.pl/poznan/leszno-tragiczny-wypadek-na-lotnisku-nie-zyje-spadochroniarz-st9026509?source=rss",
+      "pubDate": "Fri, 01 May 2026 11:47:40 GMT",
+      "description": "Podczas skoku z wysokości czterech tysięcy metrów 39-letni spadochroniarz uderzył w ziemię. Choć spadochron się otworzył, mężczyźnie nie udało się bezpiecznie wylądować. Przyczyny wypadku zdarzenia zbada prokuratura i Państwowa Komisja Badania Wypadków Lotniczych.",
+      "originalTitle": "Tragiczny wypadek w Lesznie. Spadochron się otworzył, ale skoczek zginął",
+      "originalDescription": "Podczas skoku z wysokości czterech tysięcy metrów 39-letni spadochroniarz uderzył w ziemię. Choć spadochron się otworzył, mężczyźnie nie udało się bezpiecznie wylądować. Przyczyny wypadku zdarzenia zbada prokuratura i Państwowa Komisja Badania Wypadków Lotniczych."
+    },
+    {
+      "title": "Zablokowali ekspresówkę po wypadku. Dwie osoby ranne",
+      "link": "https://tvn24.pl/katowice/dabrowa-gornicza-zderzenie-trzech-pojazdow-na-s1-droga-zablokowana-st9026773?source=rss",
+      "pubDate": "Fri, 01 May 2026 13:53:55 GMT",
+      "description": "Dwa samochody osobowe i auto dostawcze zderzyły się na drodze ekspresowej S1 w Dąbrowie Górniczej (woj. śląskie). Droga w kierunku Łodzi jest całkowicie zablokowana. Dwie osoby zostały poszkodowane i trafiły do szpitali.",
+      "originalTitle": "Zablokowali ekspresówkę po wypadku. Dwie osoby ranne",
+      "originalDescription": "Dwa samochody osobowe i auto dostawcze zderzyły się na drodze ekspresowej S1 w Dąbrowie Górniczej (woj. śląskie). Droga w kierunku Łodzi jest całkowicie zablokowana. Dwie osoby zostały poszkodowane i trafiły do szpitali."
+    },
+    {
+      "title": "Minister rolnictwa: stuprocentowe straty. Przymrozki dotknęły sadowników",
+      "link": "https://tvn24.pl/biznes/z-kraju/przymrozki-zniszczone-sady-w-polsce-z-powodu-mrozow-st9026758?source=rss",
+      "pubDate": "Fri, 01 May 2026 13:47:56 GMT",
+      "description": "W niektórych gospodarstwach możemy mówić o stratach stuprocentowych - powiedział w piątek minister rolnictwa Stefan Krajewski w jednej z miejscowości dotkniętych klęską. Zapowiedział także szybkie działania pomocowe.",
+      "originalTitle": "Minister rolnictwa: stuprocentowe straty. Przymrozki dotknęły sadowników",
+      "originalDescription": "W niektórych gospodarstwach możemy mówić o stratach stuprocentowych - powiedział w piątek minister rolnictwa Stefan Krajewski w jednej z miejscowości dotkniętych klęską. Zapowiedział także szybkie działania pomocowe."
+    },
+    {
+      "title": "Wypadek paralotniarza. Wylądował w ogródku, trafił do szpitala",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/inowroclaw-wypadek-z-udzialem-paralotni-mezczyzna-w-szpitalu-st9026683?source=rss",
+      "pubDate": "Fri, 01 May 2026 13:46:01 GMT",
+      "description": "52-letni mężczyzna został ranny w wypadku z udziałem paralotni, do którego doszło w czwartek wieczorem w Inowrocławiu (woj. kujawsko-pomorskie). Poszkodowany trafił do szpitala.",
+      "originalTitle": "Wypadek paralotniarza. Wylądował w ogródku, trafił do szpitala",
+      "originalDescription": "52-letni mężczyzna został ranny w wypadku z udziałem paralotni, do którego doszło w czwartek wieczorem w Inowrocławiu (woj. kujawsko-pomorskie). Poszkodowany trafił do szpitala."
+    },
+    {
+      "title": "Chiny znoszą cła dla afrykańskich państw. Poza jednym",
+      "link": "https://tvn24.pl/biznes/ze-swiata/chiny-zwolnienie-z-cel-dla-53-krajow-z-afryki-program-nie-obejmuje-eswatini-za-stosunki-z-tajwanem-st9026721?source=rss",
+      "pubDate": "Fri, 01 May 2026 13:17:27 GMT",
+      "description": "53 z 54 afrykańskich państw zostało zwolnionych z ceł azjatyckiej potęgi gospodarczej. - Przedstawiają się jako państwo ułatwiające wymianę handlową i przyjazny Afryce partner gospodarczy, w przeciwieństwie do Donalda Trumpa i USA - oceniła badaczka z AustChina Institute.",
+      "originalTitle": "Chiny znoszą cła dla afrykańskich państw. Poza jednym",
+      "originalDescription": "53 z 54 afrykańskich państw zostało zwolnionych z ceł azjatyckiej potęgi gospodarczej. - Przedstawiają się jako państwo ułatwiające wymianę handlową i przyjazny Afryce partner gospodarczy, w przeciwieństwie do Donalda Trumpa i USA - oceniła badaczka z AustChina Institute."
+    },
+    {
+      "title": "Pogoda. Będzie blisko upału. Zmiana przyjdzie po majówce",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-majowke-prognoza-na-dlugi-weekend-majowy-bedzie-blisko-upalu-powrot-burz-i-deszczu-st9026699?source=rss",
+      "pubDate": "Fri, 01 May 2026 13:11:57 GMT",
+      "description": "Pogoda w Polsce. Długi weekend majowy przyniesie wymarzoną aurę sprzyjającą przebywaniu na świeżym powietrzu. Pod koniec tygodnia temperatura może zbliżyć się nawet do 30 stopni. Zmiana w pogodzie przyjdzie na początku przyszłego tygodnia - w prognozach widać chłodniejsze powietrze, ale i potrzebne opady deszczu.",
+      "originalTitle": "Pogoda. Będzie blisko upału. Zmiana przyjdzie po majówce",
+      "originalDescription": "Pogoda w Polsce. Długi weekend majowy przyniesie wymarzoną aurę sprzyjającą przebywaniu na świeżym powietrzu. Pod koniec tygodnia temperatura może zbliżyć się nawet do 30 stopni. Zmiana w pogodzie przyjdzie na początku przyszłego tygodnia - w prognozach widać chłodniejsze powietrze, ale i potrzebne opady deszczu."
+    },
+    {
+      "title": "Ponad 140 tysięcy złotych \"kaucji\". Fałszywy policjant aresztowany",
+      "link": "https://tvn24.pl/lublin/lublin-ponad-140-tysiecy-zlotych-dla-kaucji-falszywy-policjant-oszukal-malzenstwo-seniorow-st9026481?source=rss",
+      "pubDate": "Fri, 01 May 2026 12:58:56 GMT",
+      "description": "36-letni mieszkaniec Zgierza trafił do aresztu po tym, jak podszywając się pod policjanta, wyłudził od małżeństwa z Lublina ponad 140 tysięcy złotych. Mężczyzna wmówił seniorom, że ich syn i synowa spowodowali wypadek i potrzebna jest kaucja, by uniknąć więzienia.",
+      "originalTitle": "Ponad 140 tysięcy złotych \"kaucji\". Fałszywy policjant aresztowany",
+      "originalDescription": "36-letni mieszkaniec Zgierza trafił do aresztu po tym, jak podszywając się pod policjanta, wyłudził od małżeństwa z Lublina ponad 140 tysięcy złotych. Mężczyzna wmówił seniorom, że ich syn i synowa spowodowali wypadek i potrzebna jest kaucja, by uniknąć więzienia."
+    }
+  ]
 }
