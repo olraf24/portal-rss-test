@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-01T20:47:30.024Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-01T21:20:23.549Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Działania wojenne \"zakończyły się\". Trump pisze do Kongresu",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-donald-trump-w-liscie-do-kongresu-napisal-ze-dzialania-wojenne-zakonczyly-sie-st9026954?source=rss",
+      "pubDate": "Fri, 01 May 2026 19:45:51 GMT",
+      "description": "Od 7 kwietnia 2026 roku nie było wymiany ognia między USA i Iranem - napisał w liście do Kongresu Donald Trump. Przekazał, że działania wojenne \"zakończyły się\". Prezydent USA chce w ten sposób obejść wymóg otrzymania zgody ze strony kongresmenów na kontynuację operacji zbrojnej.",
+      "originalTitle": "Działania wojenne \"zakończyły się\". Trump pisze do Kongresu",
+      "originalDescription": "Od 7 kwietnia 2026 roku nie było wymiany ognia między USA i Iranem - napisał w liście do Kongresu Donald Trump. Przekazał, że działania wojenne \"zakończyły się\". Prezydent USA chce w ten sposób obejść wymóg otrzymania zgody ze strony kongresmenów na kontynuację operacji zbrojnej."
+    },
+    {
+      "title": "Najpierw przymrozki, później burze. Ostrzeżenia IMGW i prognoza zagrożeń na kolejne dni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-1-2-05-przymrozki-prognoza-zagrozen-w-kolejnych-dniach-wystapi-ryzyko-burz-st9026813?source=rss",
+      "pubDate": "Fri, 01 May 2026 15:18:10 GMT",
+      "description": "Pogoda w Polsce. Tej nocy w wielu województwach należy spodziewać się lekkich spadków temperatury poniżej zera. Obowiązują alarmy pierwszego stopnia, wydane przez Instytut Meteorologii i Gospodarki Wodnej. Kolejne dni zapowiadają się z ryzykiem wystąpienia burz.",
+      "originalTitle": "Najpierw przymrozki, później burze. Ostrzeżenia IMGW i prognoza zagrożeń na kolejne dni",
+      "originalDescription": "Pogoda w Polsce. Tej nocy w wielu województwach należy spodziewać się lekkich spadków temperatury poniżej zera. Obowiązują alarmy pierwszego stopnia, wydane przez Instytut Meteorologii i Gospodarki Wodnej. Kolejne dni zapowiadają się z ryzykiem wystąpienia burz."
+    },
+    {
+      "title": "\"To byłaby wielka rzecz\". Ministra: jeszcze w maju skierujemy wniosek",
+      "link": "https://tvn24.pl/polska/agnieszka-dziemianowicz-bak-o-dluzszych-zwolnieniach-lekarskich-dla-opiekunow-dzieci-chorych-onkologicznie-st9026933?source=rss",
+      "pubDate": "Fri, 01 May 2026 19:04:24 GMT",
+      "description": "W maju skierujemy wniosek o wpis projektu wydłużającego limity zasiłku opiekuńczego dla rodziców dzieci chorych onkologicznie do wykazu do dalszych prac rządowych - powiedziała w \"Faktach po Faktach\" w TVN24 Agnieszka Dziemianowicz-Bąk. Ministra rodziny, pracy i polityki społecznej zapowiedziała dalsze kroki w tej sprawie.",
+      "originalTitle": "\"To byłaby wielka rzecz\". Ministra: jeszcze w maju skierujemy wniosek",
+      "originalDescription": "W maju skierujemy wniosek o wpis projektu wydłużającego limity zasiłku opiekuńczego dla rodziców dzieci chorych onkologicznie do wykazu do dalszych prac rządowych - powiedziała w \"Faktach po Faktach\" w TVN24 Agnieszka Dziemianowicz-Bąk. Ministra rodziny, pracy i polityki społecznej zapowiedziała dalsze kroki w tej sprawie."
+    },
+    {
+      "title": "Eksplozja hydrotermalna w parku narodowym. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/eksplozja-hydrotermalna-w-parku-narodowym-yellowstone-nagranie-st9026914?source=rss",
+      "pubDate": "Fri, 01 May 2026 18:38:35 GMT",
+      "description": "Park Narodowy Yellowstone słynie z aktywności geotermalnej. W sieci pojawiły się nagrania efektownych eksplozji hydrotermalnych. Można na nich zobaczyć, jak ogromna ilość błotnistej wody i pary wystrzeliwuje w kierunku kamery.",
+      "originalTitle": "Eksplozja hydrotermalna w parku narodowym. Nagranie",
+      "originalDescription": "Park Narodowy Yellowstone słynie z aktywności geotermalnej. W sieci pojawiły się nagrania efektownych eksplozji hydrotermalnych. Można na nich zobaczyć, jak ogromna ilość błotnistej wody i pary wystrzeliwuje w kierunku kamery."
+    },
+    {
+      "title": "\"Nie ograniczała się\", dożyła 100 lat. Ilu ma rówieśników?",
+      "link": "https://tvn24.pl/lodz/ilu-jest-stulatkow-w-polsce-dane-gus-za-2025-rok-rozmowa-ze-100-letnia-elzbieta-tomczak-st9025007?source=rss",
+      "pubDate": "Fri, 01 May 2026 18:20:22 GMT",
+      "description": "Papierosów nie paliła, zdarzało się jej wypić kieliszek alkoholu na przyjęciu, dziś rozwiązuje krzyżówki, czyta gazety i ogląda ulubione seriale - Elżbieta Tomczak ze Zgierza w styczniu skończyła 100 lat. Osób w tym wieku, a nawet starszych, w Polsce żyje dużo więcej. Ile dokładnie? Zapytaliśmy Główny Urząd Statystyczny.",
+      "originalTitle": "\"Nie ograniczała się\", dożyła 100 lat. Ilu ma rówieśników?",
+      "originalDescription": "Papierosów nie paliła, zdarzało się jej wypić kieliszek alkoholu na przyjęciu, dziś rozwiązuje krzyżówki, czyta gazety i ogląda ulubione seriale - Elżbieta Tomczak ze Zgierza w styczniu skończyła 100 lat. Osób w tym wieku, a nawet starszych, w Polsce żyje dużo więcej. Ile dokładnie? Zapytaliśmy Główny Urząd Statystyczny."
+    },
+    {
+      "title": "\"Trzeba mieć najtwardsze argumenty\". Sikorski o negocjacjach w sprawie Poczobuta",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-uwolniony-radoslaw-sikorski-o-kulisach-st9026889?source=rss",
+      "pubDate": "Fri, 01 May 2026 17:58:56 GMT",
+      "description": "Przy negocjacjach w sprawie uwolnienia Andrzeja Poczobuta zbiegły się dwie rzeczy - powiedział w \"Faktach po Faktach\" w TVN24 Radosław Sikorski. Wicepremier mówił, jaki był udział USA i podkreślał, że \"jak się ma coś na wymianę, to się łatwiej negocjuje\". Skomentował też zapowiedź Donalda Trumpa w sprawie podwyższenia ceł.",
+      "originalTitle": "\"Trzeba mieć najtwardsze argumenty\". Sikorski o negocjacjach w sprawie Poczobuta",
+      "originalDescription": "Przy negocjacjach w sprawie uwolnienia Andrzeja Poczobuta zbiegły się dwie rzeczy - powiedział w \"Faktach po Faktach\" w TVN24 Radosław Sikorski. Wicepremier mówił, jaki był udział USA i podkreślał, że \"jak się ma coś na wymianę, to się łatwiej negocjuje\". Skomentował też zapowiedź Donalda Trumpa w sprawie podwyższenia ceł."
+    },
+    {
+      "title": "\"Jesteśmy stąd\". Taka pogoda czeka nas w Bielsku-Białej",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/jestesmy-stad-25-lat-tvn24-pogoda-dla-bielska-bialej-sobota-2-05-przy-jakiej-aurze-bedziemy-swietowac-st9022997?source=rss",
+      "pubDate": "Fri, 01 May 2026 17:29:00 GMT",
+      "description": "W sobotę 2 maja w Bielsku-Białej będziemy świętować 25-lecie istnienia TVN24. Sprawdź, czego możemy spodziewać się tego dnia ze strony pogody.",
+      "originalTitle": "\"Jesteśmy stąd\". Taka pogoda czeka nas w Bielsku-Białej",
+      "originalDescription": "W sobotę 2 maja w Bielsku-Białej będziemy świętować 25-lecie istnienia TVN24. Sprawdź, czego możemy spodziewać się tego dnia ze strony pogody."
+    },
+    {
+      "title": "Pogoda na jutro - sobota, 2.05. Nocą pojawią się zamglenia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-2-05-noca-pojawia-sie-zamglenia-st9026878?source=rss",
+      "pubDate": "Fri, 01 May 2026 17:07:21 GMT",
+      "description": "Pogoda na jutro, czyli sobotę 2.05. Nocą w niektórych miejscach mogą utworzyć się zamglenia. Dzień przyniesie słoneczną aurę w całym kraju, a termometry wskażą nawet powyżej 25 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - sobota, 2.05. Nocą pojawią się zamglenia",
+      "originalDescription": "Pogoda na jutro, czyli sobotę 2.05. Nocą w niektórych miejscach mogą utworzyć się zamglenia. Dzień przyniesie słoneczną aurę w całym kraju, a termometry wskażą nawet powyżej 25 stopni Celsjusza."
+    },
+    {
+      "title": "\"Jesteśmy tutaj dla was\". Kolejny przystanek na urodzinowej trasie TVN24",
+      "link": "https://tvn24.pl/25-lat-TVN24/urodzinowa-trasa-tvn24-bielsko-biala-to-kolejny-przystanek-st9026880?source=rss",
+      "pubDate": "Fri, 01 May 2026 17:06:20 GMT",
+      "description": "Bielsko-Biała to trzeci przystanek na urodzinowej trasie TVN24. Oprócz spotkań z naszymi dziennikarzami pojawi się tam wielu gości specjalnych. To w Bielsku-Białej odbędzie się wyjątkowa debata korespondentów wojennych. Co jeszcze przyniesie wizyta TVN24 na Śląsku?",
+      "originalTitle": "\"Jesteśmy tutaj dla was\". Kolejny przystanek na urodzinowej trasie TVN24",
+      "originalDescription": "Bielsko-Biała to trzeci przystanek na urodzinowej trasie TVN24. Oprócz spotkań z naszymi dziennikarzami pojawi się tam wielu gości specjalnych. To w Bielsku-Białej odbędzie się wyjątkowa debata korespondentów wojennych. Co jeszcze przyniesie wizyta TVN24 na Śląsku?"
+    },
+    {
+      "title": "22 lata w Unii Europejskiej. Tak świętowaliśmy rocznicę",
+      "link": "https://tvn24.pl/polska/22-rocznica-wstapienia-polski-do-unii-europejskiej-st9026856?source=rss",
+      "pubDate": "Fri, 01 May 2026 16:43:08 GMT",
+      "description": "22 lata temu zaczęła się Droga Polski w Unii Europejskiej. To czas rozwoju i otwierania przed Polakami nowych dróg i możliwości. Kolejna rocznica to okazja do świętowania w całej Polsce. - Mam swoje lata, ja pamiętam czasy przed wejściem do Unii. Jesteśmy we wspólnocie i nie wyobrażam sobie, żeby to się miało zmienić - mówi jedna z mieszkanek Szczecina. Materiał \"Faktów po południu\" TVN24.",
+      "originalTitle": "22 lata w Unii Europejskiej. Tak świętowaliśmy rocznicę",
+      "originalDescription": "22 lata temu zaczęła się Droga Polski w Unii Europejskiej. To czas rozwoju i otwierania przed Polakami nowych dróg i możliwości. Kolejna rocznica to okazja do świętowania w całej Polsce. - Mam swoje lata, ja pamiętam czasy przed wejściem do Unii. Jesteśmy we wspólnocie i nie wyobrażam sobie, żeby to się miało zmienić - mówi jedna z mieszkanek Szczecina. Materiał \"Faktów po południu\" TVN24."
+    }
+  ]
 }
