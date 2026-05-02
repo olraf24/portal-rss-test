@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-02T23:18:16.217Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-05-02T23:47:25.898Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Awaria pod Poznaniem. Paraliż na trasie kolejowej do Berlina",
+      "link": "https://tvn24.pl/polska/awaria-pod-poznaniem-paraliz-na-trasie-kolejowej-do-berlina-st9028092?source=rss",
+      "pubDate": "Sat, 02 May 2026 20:45:48 GMT",
+      "description": "Na trasie kolejowej Poznań - Berlin doszło do awarii. Ruch pociągów jest wstrzymany. Jak informuje PKP, usuwanie usterki może potrwać do niedzielnego poranka, a jej przyczyny nie są jeszcze znane.",
+      "originalTitle": "Awaria pod Poznaniem. Paraliż na trasie kolejowej do Berlina",
+      "originalDescription": "Na trasie kolejowej Poznań - Berlin doszło do awarii. Ruch pociągów jest wstrzymany. Jak informuje PKP, usuwanie usterki może potrwać do niedzielnego poranka, a jej przyczyny nie są jeszcze znane."
+    },
+    {
+      "title": "Za nami gorąca sobota. Gdzie było najcieplej",
+      "link": "https://tvn24.pl/tvnmeteo/polska/za-nami-goraca-sobota-gdzie-bylo-najcieplej-st9028055?source=rss",
+      "pubDate": "Sat, 02 May 2026 19:36:16 GMT",
+      "description": "Pogoda w Polsce. Do naszego kraju napłynęło ciepłe powietrze pochodzenia zwrotnikowego. Za jego sprawą termometry pokazały w sobotę ponad 26 stopni Celsjusza.",
+      "originalTitle": "Za nami gorąca sobota. Gdzie było najcieplej",
+      "originalDescription": "Pogoda w Polsce. Do naszego kraju napłynęło ciepłe powietrze pochodzenia zwrotnikowego. Za jego sprawą termometry pokazały w sobotę ponad 26 stopni Celsjusza."
+    },
+    {
+      "title": "Pożar marketu pod Warszawą. Zawalił się dach",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/halinow-pozar-marketu-1500-metrow-kwadratowych-hali-w-ogniu-st9027862?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:16:20 GMT",
+      "description": "Pożaru marketu w Halinowie w powiecie mińskim (woj. mazowieckie) ugaszony po kilku godzinach akcji. W sobotę w ogniu stanęło 1500 metrów kwadratowych hali. Zawalił się dach. Nikt nie został poszkodowany - personel sklepu oraz klienci ewakuowali się przed przyjazdem na miejsce służb ratowniczych.",
+      "originalTitle": "Pożar marketu pod Warszawą. Zawalił się dach",
+      "originalDescription": "Pożaru marketu w Halinowie w powiecie mińskim (woj. mazowieckie) ugaszony po kilku godzinach akcji. W sobotę w ogniu stanęło 1500 metrów kwadratowych hali. Zawalił się dach. Nikt nie został poszkodowany - personel sklepu oraz klienci ewakuowali się przed przyjazdem na miejsce służb ratowniczych."
+    },
+    {
+      "title": "Andrzej Poczobut odbierze z rąk prezydenta Order Orła Białego",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-odbierze-z-rak-prezydenta-order-orla-bialego-st9028032?source=rss",
+      "pubDate": "Sat, 02 May 2026 18:25:13 GMT",
+      "description": "Podczas obchodów Święta Narodowego Trzeciego Maja na Zamku Królewskim Andrzej Poczobut odbierze z rąk prezydenta Karola Nawrockiego Order Orła Białego - poinformował na X Paweł Szefernaker, szef gabinetu prezydenta.",
+      "originalTitle": "Andrzej Poczobut odbierze z rąk prezydenta Order Orła Białego",
+      "originalDescription": "Podczas obchodów Święta Narodowego Trzeciego Maja na Zamku Królewskim Andrzej Poczobut odbierze z rąk prezydenta Karola Nawrockiego Order Orła Białego - poinformował na X Paweł Szefernaker, szef gabinetu prezydenta."
+    },
+    {
+      "title": "Pogoda na jutro - niedziela, 3.05. W części kraju zrobi się gorąco",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-3-05-w-czesci-kraju-zrobi-sie-goraco-st9028003?source=rss",
+      "pubDate": "Sat, 02 May 2026 18:17:52 GMT",
+      "description": "Pogoda na jutro, czyli na niedzielę, 3.05. Ostatni dzień majówki przyniesie pogodną i słoneczna aurę. Temperatura zbliży się miejscami do 30 stopni. Sprawdź, gdzie będzie najcieplej.",
+      "originalTitle": "Pogoda na jutro - niedziela, 3.05. W części kraju zrobi się gorąco",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę, 3.05. Ostatni dzień majówki przyniesie pogodną i słoneczna aurę. Temperatura zbliży się miejscami do 30 stopni. Sprawdź, gdzie będzie najcieplej."
+    },
+    {
+      "title": "\"W ciągu kilkudziesięciu godzin podpiszemy umowę. Pieniądze już czekają\"",
+      "link": "https://tvn24.pl/polska/program-safe-magdalena-sobkowiak-czarnecka-w-ciagu-kilkudziesieciu-godzin-podpiszemy-umowe-st9028007?source=rss",
+      "pubDate": "Sat, 02 May 2026 18:05:09 GMT",
+      "description": "W ciągu kilkudziesięciu godzin podpiszemy umowę SAFE - poinformowała w \"Faktach po Faktach\" w TVN24 pełnomocniczka rządu do spraw tego programu, Magdalena Sobkowiak-Czarnecka. Jak podkreśliła, \"pieniądze już czekają\".",
+      "originalTitle": "\"W ciągu kilkudziesięciu godzin podpiszemy umowę. Pieniądze już czekają\"",
+      "originalDescription": "W ciągu kilkudziesięciu godzin podpiszemy umowę SAFE - poinformowała w \"Faktach po Faktach\" w TVN24 pełnomocniczka rządu do spraw tego programu, Magdalena Sobkowiak-Czarnecka. Jak podkreśliła, \"pieniądze już czekają\"."
+    },
+    {
+      "title": "Świetlisty wir pojawił się na niebie",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/swietlisty-wir-pojawil-sie-na-niebie-deorbitacja-rakiety-falcon-9-st9027940?source=rss",
+      "pubDate": "Sat, 02 May 2026 17:23:21 GMT",
+      "description": "Tajemniczy, świetlisty wir pojawił się na belgijskim niebie. Była to deorbitacja rakiety Falcon 9. Zjawisko widoczne było też w Polsce.",
+      "originalTitle": "Świetlisty wir pojawił się na niebie",
+      "originalDescription": "Tajemniczy, świetlisty wir pojawił się na belgijskim niebie. Była to deorbitacja rakiety Falcon 9. Zjawisko widoczne było też w Polsce."
+    },
+    {
+      "title": "\"Do tego nie da się przyzwyczaić\". Korespondenci o tym, co widzieli na własne oczy",
+      "link": "https://tvn24.pl/polska/25-lat-tvn24-debata-korespondentow-wojennych-wojna-to-jest-taki-system-ekstrakcyjny-st9027912?source=rss",
+      "pubDate": "Sat, 02 May 2026 16:21:50 GMT",
+      "description": "Dziennikarze TVN24 byli tam, gdzie samo przebywanie jest śmiertelnie niebezpieczne, ale praca korespondenta wojennego jest trudna nie tylko z tego powodu. Michał Przedlacki, Paweł Szot i Wojciech Bojanowski opowiedzieli o tym, co wojna ujawnia o ludziach, a także o sensie ich obecności na linii frontu. Swoimi doświadczeniami podzielił się także prowadzący debatę Piotr Świerczek.",
+      "originalTitle": "\"Do tego nie da się przyzwyczaić\". Korespondenci o tym, co widzieli na własne oczy",
+      "originalDescription": "Dziennikarze TVN24 byli tam, gdzie samo przebywanie jest śmiertelnie niebezpieczne, ale praca korespondenta wojennego jest trudna nie tylko z tego powodu. Michał Przedlacki, Paweł Szot i Wojciech Bojanowski opowiedzieli o tym, co wojna ujawnia o ludziach, a także o sensie ich obecności na linii frontu. Swoimi doświadczeniami podzielił się także prowadzący debatę Piotr Świerczek."
+    },
+    {
+      "title": "Utknął na mieliźnie, wywołał burzę, został gwiazdą mediów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/humbak-timmy-utknal-na-mieliznie-wywolal-burze-zostal-gwiazda-mediow-st9026689?source=rss",
+      "pubDate": "Sat, 02 May 2026 15:44:28 GMT",
+      "description": "28 kwietnia Niemcy na chwilę wstrzymały oddech. Kilka dni wcześniej do wybrzeży bałtyckiej wyspy Poel zawitał statek holujący gigantyczną barkę. Ustawiano ją precyzyjnie - w końcu od tego zależało powodzenie akcji. Gdy wszystko znalazło się na swoim miejscu, w ruch poszły szerokie pasy. Za ich pomocą na barkę wciągnięto młodego samca humbaka, całkowicie nieświadomego kontrowersji, jakie wzbudził wśród ekspertów, polityków i opinii publicznej.",
+      "originalTitle": "Utknął na mieliźnie, wywołał burzę, został gwiazdą mediów",
+      "originalDescription": "28 kwietnia Niemcy na chwilę wstrzymały oddech. Kilka dni wcześniej do wybrzeży bałtyckiej wyspy Poel zawitał statek holujący gigantyczną barkę. Ustawiano ją precyzyjnie - w końcu od tego zależało powodzenie akcji. Gdy wszystko znalazło się na swoim miejscu, w ruch poszły szerokie pasy. Za ich pomocą na barkę wciągnięto młodego samca humbaka, całkowicie nieświadomego kontrowersji, jakie wzbudził wśród ekspertów, polityków i opinii publicznej."
+    },
+    {
+      "title": "W tych miejscach będzie lodowato. W prognozach widać burze",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przymrozki-prognoza-zagrozen-imgw-na-poczatek-maja-w-kolejnych-dniach-moze-zagrzmiec-st9026813?source=rss",
+      "pubDate": "Sat, 02 May 2026 05:30:00 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami, które spodziewane są najbliższej nocy i o poranku. Nowy tydzień może w części kraju przynieść niespokojna aurę, bo w prognozach widać burze.",
+      "originalTitle": "W tych miejscach będzie lodowato. W prognozach widać burze",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed przymrozkami, które spodziewane są najbliższej nocy i o poranku. Nowy tydzień może w części kraju przynieść niespokojna aurę, bo w prognozach widać burze."
+    }
+  ]
 }
