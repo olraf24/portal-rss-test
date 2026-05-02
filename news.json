@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-02T14:22:09.770Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-02T14:47:31.380Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Widoki zapierające dech w piersiach\". Reporter TVN24 leciał szybowcem nad Bielskiem-Białą",
+      "link": "https://tvn24.pl/25-lat-TVN24/urodzinowa-trasa-tvn24-reporter-tvn24-lecial-szybowcem-nad-bielskiem-biala-st9027863?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:43:23 GMT",
+      "description": "25. urodziny TVN24 świętowaliśmy dziś w Bielsku-Białej. To jeden z najważniejszych ośrodków szybowcowych w Polsce. Miasto z góry obserwował reporter TVN24 Artur Molęda.",
+      "originalTitle": "\"Widoki zapierające dech w piersiach\". Reporter TVN24 leciał szybowcem nad Bielskiem-Białą",
+      "originalDescription": "25. urodziny TVN24 świętowaliśmy dziś w Bielsku-Białej. To jeden z najważniejszych ośrodków szybowcowych w Polsce. Miasto z góry obserwował reporter TVN24 Artur Molęda."
+    },
+    {
+      "title": "Tysiące osób przyjechało na nielegalny rave w \"wyjątkowo niebezpiecznym\" miejscu",
+      "link": "https://tvn24.pl/swiat/francja-tysiace-osob-przyjechalo-na-rave-kolo-bourges-pomimo-ostrzezen-przed-niewybuchami-st9027828?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:41:25 GMT",
+      "description": "Nawet 30 tysięcy osób może przyjechać na nielegalny rave w centralnej Francji, niedaleko Bourges. Odbywa się on na terenie, który wojsko przez 150 lat wykorzystywało jako poligon. Wciąż odnajdywane są tam niewybuchy.",
+      "originalTitle": "Tysiące osób przyjechało na nielegalny rave w \"wyjątkowo niebezpiecznym\" miejscu",
+      "originalDescription": "Nawet 30 tysięcy osób może przyjechać na nielegalny rave w centralnej Francji, niedaleko Bourges. Odbywa się on na terenie, który wojsko przez 150 lat wykorzystywało jako poligon. Wciąż odnajdywane są tam niewybuchy."
+    },
+    {
+      "title": "To najdłuższa flaga w Polsce. Ma ponad trzy kilometry",
+      "link": "https://tvn24.pl/szczecin/borne-sulinowo-rozwinieto-najdluzsza-flage-polski-ma-ponad-trzy-kilometry-st9027827?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:19:00 GMT",
+      "description": "Najdłuższa, bo ponad trzykilometrową biało-czerwoną flagę rozwinięto w sobotę w Bornem Sulinowie w województwie zachodniopomorskim. Została zaprezentowana w Dniu Flagi.",
+      "originalTitle": "To najdłuższa flaga w Polsce. Ma ponad trzy kilometry",
+      "originalDescription": "Najdłuższa, bo ponad trzykilometrową biało-czerwoną flagę rozwinięto w sobotę w Bornem Sulinowie w województwie zachodniopomorskim. Została zaprezentowana w Dniu Flagi."
+    },
+    {
+      "title": "Rekordzista Polski wokalistą death metalowego zespołu",
+      "link": "https://tvn24.pl/polska/marcin-urbas-rekordzista-polski-wokalista-death-metalowego-zespolu-sceptic-st9022689?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:16:51 GMT",
+      "description": "Na lekkoatletycznej bieżni zachwycał, do jego rekordu kraju na dystansie 200 metrów od lat nikt się nawet nie zbliża. Poza sportem? Pasją była i jest muzyka, ta w ciężkim wydaniu, do której wrócił jako wokalista. - Okazało się, że też potrafię ryknąć do mikrofonu - mówi TVN24+ Marcin Urbaś.",
+      "originalTitle": "Rekordzista Polski wokalistą death metalowego zespołu",
+      "originalDescription": "Na lekkoatletycznej bieżni zachwycał, do jego rekordu kraju na dystansie 200 metrów od lat nikt się nawet nie zbliża. Poza sportem? Pasją była i jest muzyka, ta w ciężkim wydaniu, do której wrócił jako wokalista. - Okazało się, że też potrafię ryknąć do mikrofonu - mówi TVN24+ Marcin Urbaś."
+    },
+    {
+      "title": "Płonie market. Kłęby gęstego dymu nad miastem",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/halinow-pozar-marketu-1500-metrow-kwadratowych-hali-w-ogniu-st9027862?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:16:20 GMT",
+      "description": "Pożar marketu w Halinowie w powiecie mińskim (woj. mazowieckie). W ogniu jest 1500 metrów kwadratowych hali, jej dach się zapadł. Na miejscu trwa akcja strażaków.",
+      "originalTitle": "Płonie market. Kłęby gęstego dymu nad miastem",
+      "originalDescription": "Pożar marketu w Halinowie w powiecie mińskim (woj. mazowieckie). W ogniu jest 1500 metrów kwadratowych hali, jej dach się zapadł. Na miejscu trwa akcja strażaków."
+    },
+    {
+      "title": "\"Merz ma teraz problem, a wraz z nim Niemcy i Europa\"",
+      "link": "https://tvn24.pl/swiat/usa-wycofuja-czesc-wojsk-z-niemiec-media-w-relacjach-donalda-trumpa-i-friedricha-merza-zakonczyl-sie-etap-przyjazni-st9027784?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:02:13 GMT",
+      "description": "Decyzja Pentagonu o wycofaniu części wojsk USA z Niemiec oznacza \"pogorszenie\" relacji obu krajów i \"może mieć odczuwalne skutki dla regionów, których to dotyczy\" - ocenia \"Frankfurter Allgemeine Zeitung\". \"Sueddeutsche Zeitung\" pisze o \"zakończeniu się etapu przyjaźni\" w relacjach Donalda Trumpa i Friedricha Merza.",
+      "originalTitle": "\"Merz ma teraz problem, a wraz z nim Niemcy i Europa\"",
+      "originalDescription": "Decyzja Pentagonu o wycofaniu części wojsk USA z Niemiec oznacza \"pogorszenie\" relacji obu krajów i \"może mieć odczuwalne skutki dla regionów, których to dotyczy\" - ocenia \"Frankfurter Allgemeine Zeitung\". \"Sueddeutsche Zeitung\" pisze o \"zakończeniu się etapu przyjaźni\" w relacjach Donalda Trumpa i Friedricha Merza."
+    },
+    {
+      "title": "Tragedia w bazie nurkowej. Nie żyje 58-letni nurek",
+      "link": "https://tvn24.pl/poznan/dabrowa-duza-tragedia-w-bazie-nurkowej-jedna-osoba-nie-zyje-st9027822?source=rss",
+      "pubDate": "Sat, 02 May 2026 14:01:24 GMT",
+      "description": "W bazie nurkowej Honoratka w miejscowości Dąbrowa Duża koło Konina utonął nurek. Mężczyzna został wyłowiony przez służby, jednak mimo prowadzonej reanimacji życia 58-latka nie udało się uratować.",
+      "originalTitle": "Tragedia w bazie nurkowej. Nie żyje 58-letni nurek",
+      "originalDescription": "W bazie nurkowej Honoratka w miejscowości Dąbrowa Duża koło Konina utonął nurek. Mężczyzna został wyłowiony przez służby, jednak mimo prowadzonej reanimacji życia 58-latka nie udało się uratować."
+    },
+    {
+      "title": "Starsze małżeństwo zakleszczone w pojeździe, w drugim pijany kierowca",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/starsze-malzenstwo-zakleszczone-w-pojezdzie-w-drugim-pijany-kierowca-st9027783?source=rss",
+      "pubDate": "Sat, 02 May 2026 13:39:20 GMT",
+      "description": "Wypadek na lokalnej drodze w pobliżu miejscowości Zbuczyn (Mazowieckie). Po zderzeniu dwóch samochodów, strażacy musieli użyć narzędzi hydraulicznych, aby dotrzeć do rannych. Kierowca jednego z rozbitych aut był pijany. Badanie wykazało trzy promile alkoholu w jego organizmie.",
+      "originalTitle": "Starsze małżeństwo zakleszczone w pojeździe, w drugim pijany kierowca",
+      "originalDescription": "Wypadek na lokalnej drodze w pobliżu miejscowości Zbuczyn (Mazowieckie). Po zderzeniu dwóch samochodów, strażacy musieli użyć narzędzi hydraulicznych, aby dotrzeć do rannych. Kierowca jednego z rozbitych aut był pijany. Badanie wykazało trzy promile alkoholu w jego organizmie."
+    },
+    {
+      "title": "Pogoda. Polska będzie najcieplejszym miejscem w Europie. Co nas czeka po majówce?",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-5-dni-co-nas-czeka-po-majowce-polska-najcieplejszym-miejscem-w-europie-st9027747?source=rss",
+      "pubDate": "Sat, 02 May 2026 13:28:43 GMT",
+      "description": "Znajdujemy się w klinie ciepłego powietrza, który sprawi, że w niedzielę temperatura w naszym kraju zbliży się do 30 stopni. Polska stanie się nietypowo najcieplejszym miejscem w Europie. Po majówce przyjdą tak potrzebne dla roślinności opady. Prognozowane są burze.",
+      "originalTitle": "Pogoda. Polska będzie najcieplejszym miejscem w Europie. Co nas czeka po majówce?",
+      "originalDescription": "Znajdujemy się w klinie ciepłego powietrza, który sprawi, że w niedzielę temperatura w naszym kraju zbliży się do 30 stopni. Polska stanie się nietypowo najcieplejszym miejscem w Europie. Po majówce przyjdą tak potrzebne dla roślinności opady. Prognozowane są burze."
+    },
+    {
+      "title": "Jedyne województwo w kraju ze spadkiem ruchu drogowego",
+      "link": "https://tvn24.pl/biznes/moto/ruch-na-drogach-krajowych-w-2025-roku-w-gore-dane-gddkia-wyjatkiem-podlasie-st9027739?source=rss",
+      "pubDate": "Sat, 02 May 2026 12:47:21 GMT",
+      "description": "W większości województw w 2025 roku wzrosło natężenie ruchu na zamiejskiej sieci dróg krajowych – wynika z Generalnego Pomiaru Ruchu (GPR). Wyjątkiem było jedno województwo gdzie ruch spadł - podała Generalna Dyrekcja Dróg Krajowych i Autostrad.",
+      "originalTitle": "Jedyne województwo w kraju ze spadkiem ruchu drogowego",
+      "originalDescription": "W większości województw w 2025 roku wzrosło natężenie ruchu na zamiejskiej sieci dróg krajowych – wynika z Generalnego Pomiaru Ruchu (GPR). Wyjątkiem było jedno województwo gdzie ruch spadł - podała Generalna Dyrekcja Dróg Krajowych i Autostrad."
+    }
+  ]
 }
