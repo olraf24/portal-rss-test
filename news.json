@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-03T13:33:11.389Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-03T14:22:25.213Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ogień w górach, dym widoczny z daleka",
+      "link": "https://tvn24.pl/katowice/wilkowice-ogien-w-gorach-dym-widoczny-z-daleka-st9028797?source=rss",
+      "pubDate": "Sun, 03 May 2026 13:52:14 GMT",
+      "description": "Strażacy walczyli z pożarem lasu w Wilkowicach w powiecie bielskim w Beskidach. Trudny teren i silny wiatr utrudniały akcję gaśniczą. Na miejscu z ogniem walczyło kilkanaście zastępów straży pożarnej.",
+      "originalTitle": "Ogień w górach, dym widoczny z daleka",
+      "originalDescription": "Strażacy walczyli z pożarem lasu w Wilkowicach w powiecie bielskim w Beskidach. Trudny teren i silny wiatr utrudniały akcję gaśniczą. Na miejscu z ogniem walczyło kilkanaście zastępów straży pożarnej."
+    },
+    {
+      "title": "Jest termin podpisania SAFE. \"Jeżeli wszystko pójdzie dobrze\"",
+      "link": "https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-jezeli-wszystko-pojdzie-dobrze-to-w-piatek-podpiszemy-umowe-safe-st9028778?source=rss",
+      "pubDate": "Sun, 03 May 2026 13:44:56 GMT",
+      "description": "Weto prezydenta utrudniło nam funkcjonowanie, ale nie przeszkodziło - powiedział w niedzielę minister obrony narodowej i wicepremier Władysław Kosiniak-Kamysz, odnosząc się do programu SAFE. Poinformował, kiedy ma zostać podpisana umowa na pożyczkę na polską obronność.",
+      "originalTitle": "Jest termin podpisania SAFE. \"Jeżeli wszystko pójdzie dobrze\"",
+      "originalDescription": "Weto prezydenta utrudniło nam funkcjonowanie, ale nie przeszkodziło - powiedział w niedzielę minister obrony narodowej i wicepremier Władysław Kosiniak-Kamysz, odnosząc się do programu SAFE. Poinformował, kiedy ma zostać podpisana umowa na pożyczkę na polską obronność."
+    },
+    {
+      "title": "W hołdzie Konstytucji 3 Maja. Tradycyjny bieg ulicami stolicy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-bieg-konstytucji-3-maja-utrudnienia-w-ruchu-zamkniete-ulice-st9028183?source=rss",
+      "pubDate": "Sun, 03 May 2026 07:10:20 GMT",
+      "description": "Po raz 34. w Śródmieściu Warszawy odbył się Bieg Konstytucji 3 Maja. Na dystansie pięciu kilometrów rywalizowało około 6,5 tysiąca zawodników.",
+      "originalTitle": "W hołdzie Konstytucji 3 Maja. Tradycyjny bieg ulicami stolicy",
+      "originalDescription": "Po raz 34. w Śródmieściu Warszawy odbył się Bieg Konstytucji 3 Maja. Na dystansie pięciu kilometrów rywalizowało około 6,5 tysiąca zawodników."
+    },
+    {
+      "title": "Więcej ropy na rynku. Kraje OPEC+ zmieniają plany",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ropa-naftowa-opec-zwiekszy-wydobycie-ropy-w-czerwcu-st9028758?source=rss",
+      "pubDate": "Sun, 03 May 2026 13:06:50 GMT",
+      "description": "Arabia Saudyjska, Rosja oraz pięć innych państw OPEC+ uzgodniły zwiększenie limitów wydobycia ropy na czerwiec. Decyzję uzasadniono potrzebą stabilizacji rynku naftowego. W oficjalnym komunikacie nie odniesiono się do doniesień dotyczących możliwego wyjścia Zjednoczonych Emiratów Arabskich z porozumienia.",
+      "originalTitle": "Więcej ropy na rynku. Kraje OPEC+ zmieniają plany",
+      "originalDescription": "Arabia Saudyjska, Rosja oraz pięć innych państw OPEC+ uzgodniły zwiększenie limitów wydobycia ropy na czerwiec. Decyzję uzasadniono potrzebą stabilizacji rynku naftowego. W oficjalnym komunikacie nie odniesiono się do doniesień dotyczących możliwego wyjścia Zjednoczonych Emiratów Arabskich z porozumienia."
+    },
+    {
+      "title": "\"Pierwszy spacer po Warszawie\". Poczobut opublikował wpis",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-andrzej-poczobut-opublikowal-wpis-pierwszy-spacer-po-krakowskim-przedmiesciu-st9028761?source=rss",
+      "pubDate": "Sun, 03 May 2026 13:00:29 GMT",
+      "description": "W niedzielę uwolniony z białoruskiego więzienia Andrzej Poczobut po raz pierwszy od pięciu lat opublikował wpis na platformie X i załączył zdjęcie ze spaceru po Krakowskim Przedmieściu. To szczególne miejsce. Przy tej ulicy znajduje się siedziba stowarzyszenia Wspólnota Polska, a także odbywały się tam protesty solidarnościowe z więzionym przez reżim dziennikarzem.",
+      "originalTitle": "\"Pierwszy spacer po Warszawie\". Poczobut opublikował wpis",
+      "originalDescription": "W niedzielę uwolniony z białoruskiego więzienia Andrzej Poczobut po raz pierwszy od pięciu lat opublikował wpis na platformie X i załączył zdjęcie ze spaceru po Krakowskim Przedmieściu. To szczególne miejsce. Przy tej ulicy znajduje się siedziba stowarzyszenia Wspólnota Polska, a także odbywały się tam protesty solidarnościowe z więzionym przez reżim dziennikarzem."
+    },
+    {
+      "title": "Żmije pojawiły się w Tatrach. Apel do turystów",
+      "link": "https://tvn24.pl/tvnmeteo/polska/zmije-pojawily-sie-w-tatrach-apel-tatrzanskiego-parku-narodowego-do-turystow-st9028387?source=rss",
+      "pubDate": "Sun, 03 May 2026 12:52:24 GMT",
+      "description": "W Tatrach można spotkać już żmije zygzakowate. Sprzyja im ciepła i słoneczna pogoda. Tatrzański Park Narodowy apeluje do turystów, aby uważać podczas pieszych wędrówek, gdyż jad tych gadów może być niebezpieczny dla naszego zdrowia.",
+      "originalTitle": "Żmije pojawiły się w Tatrach. Apel do turystów",
+      "originalDescription": "W Tatrach można spotkać już żmije zygzakowate. Sprzyja im ciepła i słoneczna pogoda. Tatrzański Park Narodowy apeluje do turystów, aby uważać podczas pieszych wędrówek, gdyż jad tych gadów może być niebezpieczny dla naszego zdrowia."
+    },
+    {
+      "title": "Gigant lotniczy apeluje do polskiego rządu. \"Spóźniają się na swoje loty\"",
+      "link": "https://tvn24.pl/biznes/turystyka/ryanair-krytykuje-polski-rzad-i-apeluje-o-wstrzymanie-nowego-systemu-ees-na-lotniskach-st9028406?source=rss",
+      "pubDate": "Sun, 03 May 2026 12:51:43 GMT",
+      "description": "Linie lotnicze Ryanair zwróciły się do polskiego rządu z apelem o wstrzymanie wdrażania unijnego systemu kontroli paszportowej. \"Czas oczekiwania w kolejkach dla pasażerów przekracza już 1–2 godziny na lotniskach w Krakowie i Katowicach, gdzie brak personelu i awarie systemów nadal powodują niepotrzebne utrudnienia dla naszych pasażerów\" - argumentuje Ryanair.",
+      "originalTitle": "Gigant lotniczy apeluje do polskiego rządu. \"Spóźniają się na swoje loty\"",
+      "originalDescription": "Linie lotnicze Ryanair zwróciły się do polskiego rządu z apelem o wstrzymanie wdrażania unijnego systemu kontroli paszportowej. \"Czas oczekiwania w kolejkach dla pasażerów przekracza już 1–2 godziny na lotniskach w Krakowie i Katowicach, gdzie brak personelu i awarie systemów nadal powodują niepotrzebne utrudnienia dla naszych pasażerów\" - argumentuje Ryanair."
+    },
+    {
+      "title": "Pożar na terenie parafii. Zapaliły się tuje przy pomniku Jana Pawła II",
+      "link": "https://tvn24.pl/tvnwarszawa/wesola/warszawa-pozar-na-terenie-parafii-najswietszego-serca-pana-jezusa-w-wesolej-zapalily-sie-tuje-przy-pomniku-jana-pawla-ii-st9028538?source=rss",
+      "pubDate": "Sun, 03 May 2026 12:28:56 GMT",
+      "description": "Na terenie jednej z parafii w warszawskiej Wesołej zapaliły się tuje rosnące przy pomniku Jana Pawła II. Jak informuje straż pożarna, nie ma osób poszkodowanych.",
+      "originalTitle": "Pożar na terenie parafii. Zapaliły się tuje przy pomniku Jana Pawła II",
+      "originalDescription": "Na terenie jednej z parafii w warszawskiej Wesołej zapaliły się tuje rosnące przy pomniku Jana Pawła II. Jak informuje straż pożarna, nie ma osób poszkodowanych."
+    },
+    {
+      "title": "Tragedia na jeziorze, dwie osoby nie żyją. Sternik z zarzutem",
+      "link": "https://tvn24.pl/trojmiasto/tragedia-na-jeziorze-salinskim-dwie-osoby-nie-zyja-sternik-uslyszal-zarzut-st9027116?source=rss",
+      "pubDate": "Sat, 02 May 2026 06:57:25 GMT",
+      "description": "Na jeziorze Salińskim (Pomorskie) w piątek przewróciła się łódź z pięcioma osobami na pokładzie. Nie żyją dwie z nich. Sternik był pijany. Dziś usłyszał zarzut kierowania łodzią w stanie nietrzeźwości. Grozi mu do trzech lat więzienia.",
+      "originalTitle": "Tragedia na jeziorze, dwie osoby nie żyją. Sternik z zarzutem",
+      "originalDescription": "Na jeziorze Salińskim (Pomorskie) w piątek przewróciła się łódź z pięcioma osobami na pokładzie. Nie żyją dwie z nich. Sternik był pijany. Dziś usłyszał zarzut kierowania łodzią w stanie nietrzeźwości. Grozi mu do trzech lat więzienia."
+    },
+    {
+      "title": "Na tacę \"od 50 zł w górę\"? Gdzie księża \"proszą wiernych\"",
+      "link": "https://konkret24.tvn24.pl/swiat/na-tace-od-50-zl-w-gore-gdzie-ksieza-prosza-wiernych-st9025588?source=rss",
+      "pubDate": "Sun, 03 May 2026 12:17:31 GMT",
+      "description": "Czy polscy księża byli niezadowoleni z wysokości datków na tacę? Tak sugeruje rozpowszechniany w sieci przekaz - jednak nie zgadza się ani kraj, ani problem zgłaszany przez duchownych. Wyjaśniamy.",
+      "originalTitle": "Na tacę \"od 50 zł w górę\"? Gdzie księża \"proszą wiernych\"",
+      "originalDescription": "Czy polscy księża byli niezadowoleni z wysokości datków na tacę? Tak sugeruje rozpowszechniany w sieci przekaz - jednak nie zgadza się ani kraj, ani problem zgłaszany przez duchownych. Wyjaśniamy."
+    }
+  ]
 }
