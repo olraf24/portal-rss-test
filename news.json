@@ -1,8 +1,16 @@
 {
-  "lastUpdate": "2026-05-03T11:17:54.197Z",
+  "lastUpdate": "2026-05-03T11:46:49.523Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Wiry pyłowe w Polsce. Jeden był szczególnie ciekawy",
+      "link": "https://tvn24.pl/tvnmeteo/polska/wiry-pylowe-w-polsce-jeden-byl-szczegolnie-ciekawy-st9028291?source=rss",
+      "pubDate": "Sun, 03 May 2026 09:07:10 GMT",
+      "description": "Na Śląsku i w Małopolsce w długi majowy weekend pojawiły się diabełki pyłowe. Nagrania wirujących słupów pyłu w mediach społecznościowych zamieściła Sieć Obserwatorów Burz. To już kolejny przypadek zarejestrowania tego zjawiska w ostatnich dniach w Polsce.",
+      "originalTitle": "Wiry pyłowe w Polsce. Jeden był szczególnie ciekawy",
+      "originalDescription": "Na Śląsku i w Małopolsce w długi majowy weekend pojawiły się diabełki pyłowe. Nagrania wirujących słupów pyłu w mediach społecznościowych zamieściła Sieć Obserwatorów Burz. To już kolejny przypadek zarejestrowania tego zjawiska w ostatnich dniach w Polsce."
+    },
     {
       "title": "\"Przyjaciele\" w prawdziwym życiu. Czy bliskie relacje w dorosłości to mit?",
       "link": "https://tvn24.pl/zdrowie/przyjaciele-w-prawdziwym-zyciu-czy-bliskie-relacje-w-doroslosci-to-mit-st9025637?source=rss",
@@ -12,20 +20,12 @@
       "originalDescription": "Czy prawdziwe przyjaźnie dorosłych mogą wyglądać jak w kultowym serialu \"Przyjaciele\" - wspólne mieszkanie, codzienne spotkania i życie splecione na co dzień? - Tak intensywne relacje są możliwe, ale tylko w pewnych momentach życia. Z wiekiem zmienia się sposób budowania więzi i priorytety - podkreśla w rozmowie z tvn24.pl Katarzyna Kucewicz, psycholożka."
     },
     {
-      "title": "Prezydent chce zmiany konstytucji. \"Niech pokaże, jaki dyktatorski system planuje\"",
-      "link": "https://tvn24.pl/polska/prezydent-chce-zmiany-powolal-rade-nowej-konstytucji-politycy-komentuja-st9028330?source=rss",
-      "pubDate": "Sun, 03 May 2026 11:12:48 GMT",
-      "description": "Prezydent blokuje, wetuje, zaostrza spór polityczny, a jak już go zaostrzył, to mówi, że \"system nie działa\" - powiedział Krzysztof Hetman z PSL, komentując powołanie przez prezydenta Nawrockiego Rady Nowej Konstytucji. - Konstytucję już mamy od 29 lat, więc czas najwyższy poważnie porozmawiać - ocenił z kolei Jarosław Sellin z PiS. Jednak według Katarzyny Lubnauer z KO, Polacy \"na pewno by nie chcieli poszerzać uprawnień prezydenta\".",
-      "originalTitle": "Prezydent chce zmiany konstytucji. \"Niech pokaże, jaki dyktatorski system planuje\"",
-      "originalDescription": "Prezydent blokuje, wetuje, zaostrza spór polityczny, a jak już go zaostrzył, to mówi, że \"system nie działa\" - powiedział Krzysztof Hetman z PSL, komentując powołanie przez prezydenta Nawrockiego Rady Nowej Konstytucji. - Konstytucję już mamy od 29 lat, więc czas najwyższy poważnie porozmawiać - ocenił z kolei Jarosław Sellin z PiS. Jednak według Katarzyny Lubnauer z KO, Polacy \"na pewno by nie chcieli poszerzać uprawnień prezydenta\"."
-    },
-    {
-      "title": "Tragedia na jeziorze, dwie osoby nie żyją. Sternik zostanie przesłuchany",
-      "link": "https://tvn24.pl/trojmiasto/tragedia-na-jeziorze-salinskim-dwie-osoby-nie-zyja-sternik-zostanie-przesluchany-w-prokuraturze-st9027116?source=rss",
-      "pubDate": "Sat, 02 May 2026 06:57:25 GMT",
-      "description": "Na jeziorze Salińskim (Pomorskie) w piątek przewróciła się łódź z pięcioma osobami na pokładzie. Nie żyją dwie z nich. Sternik był pijany. Dziś został doprowadzony do prokuratury, gdzie odpowie na pytania śledczych.",
-      "originalTitle": "Tragedia na jeziorze, dwie osoby nie żyją. Sternik zostanie przesłuchany",
-      "originalDescription": "Na jeziorze Salińskim (Pomorskie) w piątek przewróciła się łódź z pięcioma osobami na pokładzie. Nie żyją dwie z nich. Sternik był pijany. Dziś został doprowadzony do prokuratury, gdzie odpowie na pytania śledczych."
+      "title": "Uroczystości rocznicowe na Placu Zamkowym. Nawrocki mówi o nowej konstytucji",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/uroczystosci-rocznicowe-na-placu-zamkowym-nawrocki-mowi-o-nowej-konstytucji-st9028486?source=rss",
+      "pubDate": "Sun, 03 May 2026 11:06:58 GMT",
+      "description": "W trakcie uroczystych obchodów 235. rocznicy uchwalenia Konstytucji 3 Maja na Placu Zamkowym w Warszawie przemawiał prezydent Karol Nawrocki. Przekonywał, że Polska potrzebuje dziś konstytucji nowej generacji roku 2030. - Nie może być dalej tak, że władza rozkłada się na dwa ośrodki - mówił.",
+      "originalTitle": "Uroczystości rocznicowe na Placu Zamkowym. Nawrocki mówi o nowej konstytucji",
+      "originalDescription": "W trakcie uroczystych obchodów 235. rocznicy uchwalenia Konstytucji 3 Maja na Placu Zamkowym w Warszawie przemawiał prezydent Karol Nawrocki. Przekonywał, że Polska potrzebuje dziś konstytucji nowej generacji roku 2030. - Nie może być dalej tak, że władza rozkłada się na dwa ośrodki - mówił."
     },
     {
       "title": "Obraźliwe napisy na kapliczkach. Policja szuka sprawcy",
@@ -52,6 +52,14 @@
       "originalDescription": "Po gorącej majówce przyjdzie zmiana pogody. Co przyniesie w pogodzie pierwsza połowa maja i jaka temperatura czeka nas w kolejnych dniach? Sprawdź najnowszą, 16-dniową długoterminową prognozę przygotowaną przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego."
     },
     {
+      "title": "Awaria rozjazdów na końcowej stacji",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/awaria-rozjazdow-na-koncowej-stacji-metra-linii-m1-kabaty-st9028426?source=rss",
+      "pubDate": "Sun, 03 May 2026 10:23:45 GMT",
+      "description": "Z powodu awarii rozjazdów na stacji końcowej linii M1 Kabaty pociągi jeździły na skróconej trasie. Zamknięte były trzy stacje: Imielin, Natolin i Kabaty.",
+      "originalTitle": "Awaria rozjazdów na końcowej stacji",
+      "originalDescription": "Z powodu awarii rozjazdów na stacji końcowej linii M1 Kabaty pociągi jeździły na skróconej trasie. Zamknięte były trzy stacje: Imielin, Natolin i Kabaty."
+    },
+    {
       "title": "Strzały w Teksasie. Nie żyją nastolatkowie",
       "link": "https://tvn24.pl/swiat/usa-strzaly-w-teksasie-nie-zyja-nastolatkowie-st9028176?source=rss",
       "pubDate": "Sun, 03 May 2026 09:58:08 GMT",
@@ -74,14 +82,6 @@
       "description": "Kiedy rządy prawa nie są tylko pustym sloganem, wtedy sprawy idą jakoś do przodu - powiedział premier Donald Tusk, komentując działania Karola Nawrockiego w celu stworzenia projektu nowej konstytucji. Zaapelował przy tym do prezydenta i opozycji o przestrzeganie konstytucji, \"zanim zabiorą się za majstrowanie nowej\".",
       "originalTitle": "Nawrocki rusza z projektem nowej konstytucji. Tusk: przestrzegajmy tej istniejącej",
       "originalDescription": "Kiedy rządy prawa nie są tylko pustym sloganem, wtedy sprawy idą jakoś do przodu - powiedział premier Donald Tusk, komentując działania Karola Nawrockiego w celu stworzenia projektu nowej konstytucji. Zaapelował przy tym do prezydenta i opozycji o przestrzeganie konstytucji, \"zanim zabiorą się za majstrowanie nowej\"."
-    },
-    {
-      "title": "Popularny suplement diety Ashwagandha z pestycydem. \"Ryzyko dla zdrowia\"",
-      "link": "https://tvn24.pl/biznes/handel/ashwaganha-nanga-przemyslaw-figura-blekwit-suplement-diety-wycofany-z-obrotu-ryzyko-dla-zdrowia-st9028286?source=rss",
-      "pubDate": "Sun, 03 May 2026 09:26:03 GMT",
-      "description": "Główny Inspektorat Sanitarny (GIS) poinformował o wycofaniu z rynku kilkunastu partii suplementu diety. Decyzja została podjęta po wykryciu przekroczenia dopuszczalnego poziomu pestycydu chlorpiryfosu. GIS ostrzegł, że spożycie produktu może stanowić zagrożenie dla zdrowia konsumentów.",
-      "originalTitle": "Popularny suplement diety Ashwagandha z pestycydem. \"Ryzyko dla zdrowia\"",
-      "originalDescription": "Główny Inspektorat Sanitarny (GIS) poinformował o wycofaniu z rynku kilkunastu partii suplementu diety. Decyzja została podjęta po wykryciu przekroczenia dopuszczalnego poziomu pestycydu chlorpiryfosu. GIS ostrzegł, że spożycie produktu może stanowić zagrożenie dla zdrowia konsumentów."
     }
   ]
 }
