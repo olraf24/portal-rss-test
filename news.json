@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-04T01:38:45.027Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-04T03:11:59.993Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś - poniedziałek 4.05. Mogą kłębić się burzowe chmury",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-4-05-moga-klebic-sie-burzowe-chmury-st9028994?source=rss",
+      "pubDate": "Mon, 04 May 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś, czyli na poniedziałek 4.05. W dzień w części kraju spodziewane są opady deszczu, a miejscami może zagrzmieć. Warunki biometeorologiczne będą początkowo neutralne, ale wraz z upływem dnia staną się coraz słabsze.",
+      "originalTitle": "Pogoda na dziś - poniedziałek 4.05. Mogą kłębić się burzowe chmury",
+      "originalDescription": "Pogoda na dziś, czyli na poniedziałek 4.05. W dzień w części kraju spodziewane są opady deszczu, a miejscami może zagrzmieć. Warunki biometeorologiczne będą początkowo neutralne, ale wraz z upływem dnia staną się coraz słabsze."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Alarmy w nocy, na horyzoncie kolejne zagrożenia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przymrozki-prognoza-zagrozen-imgw-na-poczatek-maja-w-kolejnych-dniach-moze-zagrzmiec-st9026813?source=rss",
+      "pubDate": "Sun, 03 May 2026 04:17:00 GMT",
+      "description": "Pogoda w Polsce. IMGW ostrzega przed przymrozkami na południu kraju. Mimo ciepłych dni lokalnie temperatura może przy gruncie spadać nocami do -3 stopni Celsjusza. W kolejnych dniach zagrożenie stanowić będą burze.",
+      "originalTitle": "Ostrzeżenia IMGW. Alarmy w nocy, na horyzoncie kolejne zagrożenia",
+      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed przymrozkami na południu kraju. Mimo ciepłych dni lokalnie temperatura może przy gruncie spadać nocami do -3 stopni Celsjusza. W kolejnych dniach zagrożenie stanowić będą burze."
+    },
+    {
+      "title": "Pożar w Gliwicach. Ogień objął składowane odpady",
+      "link": "https://tvn24.pl/katowice/gliwice-pozar-w-starej-fabryce-drutu-trwa-akcja-st9029020?source=rss",
+      "pubDate": "Sun, 03 May 2026 19:13:19 GMT",
+      "description": "W Gliwicach na terenie fabryki w niedzielę wieczorem wybuchł pożar, który objął najprawdopodobniej składowane na zewnątrz odpady lub elementy po rozbiórce. Na miejscu trwa akcja gaśnicza.",
+      "originalTitle": "Pożar w Gliwicach. Ogień objął składowane odpady",
+      "originalDescription": "W Gliwicach na terenie fabryki w niedzielę wieczorem wybuchł pożar, który objął najprawdopodobniej składowane na zewnątrz odpady lub elementy po rozbiórce. Na miejscu trwa akcja gaśnicza."
+    },
+    {
+      "title": "Drugi dzień walki z ogniem. Pożar widać z kosmosu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/czechy-pozar-w-parku-narodowym-pozar-w-parku-narodowym-czeska-szwajcaria-wprowadzono-stan-nadzwyczajny-st9028028?source=rss",
+      "pubDate": "Sun, 03 May 2026 18:52:00 GMT",
+      "description": "Trwa gaszenie pożaru w parku narodowym Czeska Szwajcaria. Ogień objął swoim zasięgiem obszar około stu hektarów lasu. Akcję utrudniały wysokie temperatury, silne podmuchy wiatru i niedostępny teren.",
+      "originalTitle": "Drugi dzień walki z ogniem. Pożar widać z kosmosu",
+      "originalDescription": "Trwa gaszenie pożaru w parku narodowym Czeska Szwajcaria. Ogień objął swoim zasięgiem obszar około stu hektarów lasu. Akcję utrudniały wysokie temperatury, silne podmuchy wiatru i niedostępny teren."
+    },
+    {
+      "title": "Amerykańscy żołnierze zaginęli w czasie ćwiczeń w Afryce",
+      "link": "https://tvn24.pl/swiat/amerykanscy-zolnierze-zagineli-w-czasie-cwiczen-w-afryce-st9028987?source=rss",
+      "pubDate": "Sun, 03 May 2026 18:03:12 GMT",
+      "description": "Dwóch amerykańskich żołnierzy zaginęło podczas ćwiczeń wojskowych niedaleko miasta Tantan w południowym Maroku - poinformowało w niedzielę Dowództwo Sił Zbrojnych Stanów Zjednoczonych w Afryce (AFRICOM). Nie był to incydent terrorystyczny, żołnierze mogli wpaść do oceanu - przekazał Reutersowi przedstawiciel armii.",
+      "originalTitle": "Amerykańscy żołnierze zaginęli w czasie ćwiczeń w Afryce",
+      "originalDescription": "Dwóch amerykańskich żołnierzy zaginęło podczas ćwiczeń wojskowych niedaleko miasta Tantan w południowym Maroku - poinformowało w niedzielę Dowództwo Sił Zbrojnych Stanów Zjednoczonych w Afryce (AFRICOM). Nie był to incydent terrorystyczny, żołnierze mogli wpaść do oceanu - przekazał Reutersowi przedstawiciel armii."
+    },
+    {
+      "title": "Pogoda na jutro - poniedziałek 4.05. Nocą miejscami popada, w dzień - zagrzmi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-4-05-noca-miejscami-popada-w-dzien-zagrzmi-st9028971?source=rss",
+      "pubDate": "Sun, 03 May 2026 17:58:04 GMT",
+      "description": "Pogoda na jutro, czyli na poniedziałek 4.05. Nocą czeka nas raczej pogodna aura, tylko miejscami może popadać deszcz i wiać silniejszy wiatr. Dzień w niektórych regionach okaże się natomiast dość burzliwy. Na termometrach znów zobaczymy ponad 20 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - poniedziałek 4.05. Nocą miejscami popada, w dzień - zagrzmi",
+      "originalDescription": "Pogoda na jutro, czyli na poniedziałek 4.05. Nocą czeka nas raczej pogodna aura, tylko miejscami może popadać deszcz i wiać silniejszy wiatr. Dzień w niektórych regionach okaże się natomiast dość burzliwy. Na termometrach znów zobaczymy ponad 20 stopni Celsjusza."
+    },
+    {
+      "title": "Popcorn brain, czyli popcornowy mózg. Czy po tym tekście wyłączysz wieczorem telefon?",
+      "link": "https://tvn24.pl/technologia/dlaczego-nie-mozemy-przestac-scrollowac-uzaleznienie-od-telefonu-i-sposoby-na-ograniczenie-go-wieczorem-st9028919?source=rss",
+      "pubDate": "Sun, 03 May 2026 17:28:59 GMT",
+      "description": "Dlaczego nie potrafimy przestać scrollować, nawet gdy jesteśmy zmęczeni? I czy można odzyskać kontrolę nad własną uwagą? O mechanizmach, które wiążą nas ze smartfonem, rozmawiamy z dr. hab. Magdaleną Hodalską, medioznawczynią z Uniwersytetu Jagiellońskiego.",
+      "originalTitle": "Popcorn brain, czyli popcornowy mózg. Czy po tym tekście wyłączysz wieczorem telefon?",
+      "originalDescription": "Dlaczego nie potrafimy przestać scrollować, nawet gdy jesteśmy zmęczeni? I czy można odzyskać kontrolę nad własną uwagą? O mechanizmach, które wiążą nas ze smartfonem, rozmawiamy z dr. hab. Magdaleną Hodalską, medioznawczynią z Uniwersytetu Jagiellońskiego."
+    },
+    {
+      "title": "Dwa miliony osób na koncercie Shakiry w Rio de Janeiro",
+      "link": "https://tvn24.pl/kultura-i-styl/koncert-shakiry-w-rio-de-janeiro-dwa-miliony-osob-bawilo-sie-na-plazy-copacabana-st9028890?source=rss",
+      "pubDate": "Sun, 03 May 2026 17:13:58 GMT",
+      "description": "Kolumbijska piosenkarka Shakira wystąpiła za darmo na plaży Copacabana w Rio de Janeiro. Na sobotni koncert przyszło około dwóch milionów osób. Władze miasta mają powody do satysfakcji.",
+      "originalTitle": "Dwa miliony osób na koncercie Shakiry w Rio de Janeiro",
+      "originalDescription": "Kolumbijska piosenkarka Shakira wystąpiła za darmo na plaży Copacabana w Rio de Janeiro. Na sobotni koncert przyszło około dwóch milionów osób. Władze miasta mają powody do satysfakcji."
+    },
+    {
+      "title": "Słoń stratował człowieka na terenie świątyni",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/indie-slon-stratowal-czlowieka-na-terenie-swiatyni-st9028916?source=rss",
+      "pubDate": "Sun, 03 May 2026 17:03:30 GMT",
+      "description": "Słoń stratował jedną osobę w Indiach. Zwierzę zostało sprowadzone na festiwal świątynny i najprawdopodobniej spanikowało. Wypadek zwrócił uwagę na problem wykorzystywania słoni do wydarzeń, podczas których panuje ścisk i hałas.",
+      "originalTitle": "Słoń stratował człowieka na terenie świątyni",
+      "originalDescription": "Słoń stratował jedną osobę w Indiach. Zwierzę zostało sprowadzone na festiwal świątynny i najprawdopodobniej spanikowało. Wypadek zwrócił uwagę na problem wykorzystywania słoni do wydarzeń, podczas których panuje ścisk i hałas."
+    },
+    {
+      "title": "Pożar młodego lasu. Trwa dogaszanie",
+      "link": "https://tvn24.pl/katowice/hutki-pozar-mlodego-lasu-zostal-opanowany-trwa-dogaszanie-st9028837?source=rss",
+      "pubDate": "Sun, 03 May 2026 14:40:00 GMT",
+      "description": "Młodnik w miejscowości Hutki w powiecie częstochowskim stanął w niedzielę w płomieniach. Ogień zajął kilkanaście hektarów młodego lasu. Akcję gaśniczą utrudniał silny wiatr, ale żywioł udało się opanować. - Trwa dogaszanie zarzewi ognia i z pewnością będziemy jeszcze tutaj przez długie godziny - powiedział komendant miejski Państwowej Straży Pożarnej w Częstochowie.",
+      "originalTitle": "Pożar młodego lasu. Trwa dogaszanie",
+      "originalDescription": "Młodnik w miejscowości Hutki w powiecie częstochowskim stanął w niedzielę w płomieniach. Ogień zajął kilkanaście hektarów młodego lasu. Akcję gaśniczą utrudniał silny wiatr, ale żywioł udało się opanować. - Trwa dogaszanie zarzewi ognia i z pewnością będziemy jeszcze tutaj przez długie godziny - powiedział komendant miejski Państwowej Straży Pożarnej w Częstochowie."
+    }
+  ]
 }
