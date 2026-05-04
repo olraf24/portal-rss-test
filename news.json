@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-04T18:36:38.582Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-04T19:35:46.221Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zepsuty tramwaj zablokował torowisko",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-awaria-tramwaju-na-okopowej-utrudnienia-st9030883?source=rss",
+      "pubDate": "Mon, 04 May 2026 19:31:33 GMT",
+      "description": "W pobliżu skrzyżowania Okopowej z Aleją \"Solidarności\" zepsuł się tramwaj starszego typu. Skład zablokował torowisko. Sześć linii skierowano na objazdy.",
+      "originalTitle": "Zepsuty tramwaj zablokował torowisko",
+      "originalDescription": "W pobliżu skrzyżowania Okopowej z Aleją \"Solidarności\" zepsuł się tramwaj starszego typu. Skład zablokował torowisko. Sześć linii skierowano na objazdy."
+    },
+    {
+      "title": "Gawkowski: ufam słowom Hołowni",
+      "link": "https://tvn24.pl/polska/immunitety-michala-koboski-i-szymona-holowni-krzysztof-gawkowski-komentuje-doniesienia-st9030823?source=rss",
+      "pubDate": "Mon, 04 May 2026 19:26:38 GMT",
+      "description": "Szymon Hołownia przedstawił cały element swojego zaangażowania w uczelnię Collegium Humanum. Wydaje się to wszystko być bardzo przejrzyste - powiedział w \"Faktach po Faktach\" wicepremier Krzysztof Gawkowski. Jego zdaniem \"jeżeli ktoś jest w tej sprawie pokrzywdzony, to jest to Hołownia\".",
+      "originalTitle": "Gawkowski: ufam słowom Hołowni",
+      "originalDescription": "Szymon Hołownia przedstawił cały element swojego zaangażowania w uczelnię Collegium Humanum. Wydaje się to wszystko być bardzo przejrzyste - powiedział w \"Faktach po Faktach\" wicepremier Krzysztof Gawkowski. Jego zdaniem \"jeżeli ktoś jest w tej sprawie pokrzywdzony, to jest to Hołownia\"."
+    },
+    {
+      "title": "Awaria urządzeń, usterka pociągu, wypadek. Seria zdarzeń na kolei",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-awaria-urzadzen-usterka-pociagu-wypadek-seria-zdarzen-na-kolei-st9030479?source=rss",
+      "pubDate": "Mon, 04 May 2026 13:57:55 GMT",
+      "description": "Na stacji Warszawa Praga doszło do awarii urządzeń sterowania ruchem. Usterkę udało się usunąć, ale niedługo później na Warszawie Wschodniej zepsuł się pociąg. Oznaczało to dużo odwołanych pociągów lub skróconych relacji na liniach do Otwocka i Sulejówka.",
+      "originalTitle": "Awaria urządzeń, usterka pociągu, wypadek. Seria zdarzeń na kolei",
+      "originalDescription": "Na stacji Warszawa Praga doszło do awarii urządzeń sterowania ruchem. Usterkę udało się usunąć, ale niedługo później na Warszawie Wschodniej zepsuł się pociąg. Oznaczało to dużo odwołanych pociągów lub skróconych relacji na liniach do Otwocka i Sulejówka."
+    },
+    {
+      "title": "Rozbudują jedną z głównych ulic w Wesołej. Tunel już jest",
+      "link": "https://tvn24.pl/tvnwarszawa/wesola/warszawa-rozbuduja-aleje-pilsudskiego-w-wesolej-st9030706?source=rss",
+      "pubDate": "Mon, 04 May 2026 19:14:47 GMT",
+      "description": "Trwają przygotowania do rozbudowy Alei Piłsudskiego w Wesołej. Drogowcy ogłosili przetarg na opracowanie projektu. Inwestycja obejmie odcinek od skrzyżowania z ulicą Trakt Brzeski do granicy miasta.",
+      "originalTitle": "Rozbudują jedną z głównych ulic w Wesołej. Tunel już jest",
+      "originalDescription": "Trwają przygotowania do rozbudowy Alei Piłsudskiego w Wesołej. Drogowcy ogłosili przetarg na opracowanie projektu. Inwestycja obejmie odcinek od skrzyżowania z ulicą Trakt Brzeski do granicy miasta."
+    },
+    {
+      "title": "Pogoda na jutro - wtorek, 5.05. Nocą lokalnie może się błyskać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-5-05-noca-lokalnie-moze-sie-blyskac-st9030839?source=rss",
+      "pubDate": "Mon, 04 May 2026 19:07:54 GMT",
+      "description": "Pogoda na jutro, czyli na wtorek, 5.05. W nocy mogą pojawić się w niektórych regionach kraju burze. Dzień przyniesie opady, będzie też grzmieć. Aura niekorzystnie wpłynie na nasze samopoczucie.",
+      "originalTitle": "Pogoda na jutro - wtorek, 5.05. Nocą lokalnie może się błyskać",
+      "originalDescription": "Pogoda na jutro, czyli na wtorek, 5.05. W nocy mogą pojawić się w niektórych regionach kraju burze. Dzień przyniesie opady, będzie też grzmieć. Aura niekorzystnie wpłynie na nasze samopoczucie."
+    },
+    {
+      "title": "Zgorzelski: To naród zdecydował. Pan prezydent raczy zapominać",
+      "link": "https://tvn24.pl/polska/piotr-zgorzelski-o-prezydencie-karolu-nawrockim-i-planach-nowej-konstytucji-st9030850?source=rss",
+      "pubDate": "Mon, 04 May 2026 19:02:38 GMT",
+      "description": "To naród wybrał obecną konstytucję w referendum w 1997 roku - przypominał w \"Kropce nad i\" w TVN24 Piotr Zgorzelski, wicemarszałek Sejmu z PSL. Komentował plany Karola Nawrockiego, który chce stworzenia nowej konstytucji. Przyznał przy tym, że twórcy obecnej ustawy zasadniczej\"zatrzymali się jakby w pół drogi\", jeśli chodzi o uprawnienia głowy państwa.",
+      "originalTitle": "Zgorzelski: To naród zdecydował. Pan prezydent raczy zapominać",
+      "originalDescription": "To naród wybrał obecną konstytucję w referendum w 1997 roku - przypominał w \"Kropce nad i\" w TVN24 Piotr Zgorzelski, wicemarszałek Sejmu z PSL. Komentował plany Karola Nawrockiego, który chce stworzenia nowej konstytucji. Przyznał przy tym, że twórcy obecnej ustawy zasadniczej\"zatrzymali się jakby w pół drogi\", jeśli chodzi o uprawnienia głowy państwa."
+    },
+    {
+      "title": "Spadkobiercy znanej firmy zapłacili największy podatek w historii kraju",
+      "link": "https://tvn24.pl/biznes/tech/korea-poludniowa-spadkobiercy-firmy-samsung-zaplacili-fiskusowi-osiem-miliardow-dolarow-st9030838?source=rss",
+      "pubDate": "Mon, 04 May 2026 19:01:46 GMT",
+      "description": "Rodzina zmarłego prezesa Samsunga Li Kun Hi zapłaciła 12 bilionów wonów, czyli około ośmiu miliardów dolarów podatku od spadku - przekazało BBC. To największy tego typu podatek w historii Korei Południowej, stanowiący około 150 procent wpływów kraju z podatku spadkowego za 2024 rok.",
+      "originalTitle": "Spadkobiercy znanej firmy zapłacili największy podatek w historii kraju",
+      "originalDescription": "Rodzina zmarłego prezesa Samsunga Li Kun Hi zapłaciła 12 bilionów wonów, czyli około ośmiu miliardów dolarów podatku od spadku - przekazało BBC. To największy tego typu podatek w historii Korei Południowej, stanowiący około 150 procent wpływów kraju z podatku spadkowego za 2024 rok."
+    },
+    {
+      "title": "Kaczyński \"dowiezie\" partię do wyborów? Mastalerek: robi wszystko, żeby się nie udało",
+      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-dowiezie-partie-w-calosci-do-wyborow-marcin-mastalerek-komentuje-konflikty-w-pis-st9030845?source=rss",
+      "pubDate": "Mon, 04 May 2026 18:36:22 GMT",
+      "description": "To zależy tylko od prezesa Jarosława Kaczyńskiego - powiedział w \"Faktach po Faktach\" w TVN24 Marcin Mastalerek, były szef gabinetu prezydenta Andrzeja Dudy. Odpowiedział tak na pytanie, czy do 2027 roku PiS się rozpadnie. - Jeśli prezes dalej będzie sprzyjał tym, którzy wypychają Mateusza Morawieckiego z PiS-u, to się rozpadnie - ocenił.",
+      "originalTitle": "Kaczyński \"dowiezie\" partię do wyborów? Mastalerek: robi wszystko, żeby się nie udało",
+      "originalDescription": "To zależy tylko od prezesa Jarosława Kaczyńskiego - powiedział w \"Faktach po Faktach\" w TVN24 Marcin Mastalerek, były szef gabinetu prezydenta Andrzeja Dudy. Odpowiedział tak na pytanie, czy do 2027 roku PiS się rozpadnie. - Jeśli prezes dalej będzie sprzyjał tym, którzy wypychają Mateusza Morawieckiego z PiS-u, to się rozpadnie - ocenił."
+    },
+    {
+      "title": "Pożar buszu. \"Widziałem 12-metrowe płomienie\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-arizona-pozar-buszu-widzialem-12-metrowe-plomienie-i-to-jak-szybko-sie-rozprzestrzeniaja-st9030675?source=rss",
+      "pubDate": "Mon, 04 May 2026 18:15:32 GMT",
+      "description": "Strażacy od kilku dni walczą z potężnym pożarem buszu, który wybuchł na terenie amerykańskiego stanu Arizona. Walkę z ogniem utrudniają silny wiatr, wysuszona jak wiór roślinność i dość wysoka temperatura.",
+      "originalTitle": "Pożar buszu. \"Widziałem 12-metrowe płomienie\"",
+      "originalDescription": "Strażacy od kilku dni walczą z potężnym pożarem buszu, który wybuchł na terenie amerykańskiego stanu Arizona. Walkę z ogniem utrudniają silny wiatr, wysuszona jak wiór roślinność i dość wysoka temperatura."
+    },
+    {
+      "title": "\"Jedno zdanie za dużo\". Kanclerz stracił cierpliwość?",
+      "link": "https://tvn24.pl/swiat/friedrich-merz-donald-trump-relacje-kanclerza-niemiec-i-prezydenta-usa-co-z-wojskami-usa-w-niemczech-st9030530?source=rss",
+      "pubDate": "Mon, 04 May 2026 18:09:47 GMT",
+      "description": "Miesiące gryzienia się w język i jedno zdanie, które przekreśliło wszystko. Kanclerz Niemiec Friedrich Merz przekonał się, jak krucha jest \"przyjaźń\" z Donaldem Trumpem. - Mówiąc kolokwialnie: poniosło go - komentuje w rozmowie z TVN24+ doktor Łukasz Jasiński z PISM. Jaka może być tego cena?",
+      "originalTitle": "\"Jedno zdanie za dużo\". Kanclerz stracił cierpliwość?",
+      "originalDescription": "Miesiące gryzienia się w język i jedno zdanie, które przekreśliło wszystko. Kanclerz Niemiec Friedrich Merz przekonał się, jak krucha jest \"przyjaźń\" z Donaldem Trumpem. - Mówiąc kolokwialnie: poniosło go - komentuje w rozmowie z TVN24+ doktor Łukasz Jasiński z PISM. Jaka może być tego cena?"
+    }
+  ]
 }
