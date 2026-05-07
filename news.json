@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-07T00:44:50.887Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-07T01:39:29.321Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś - czwartek, 7.05. Deszcz, burze i niekorzystny biomet",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-7-05-deszcz-burze-i-niekorzystny-biomet-st9035191?source=rss",
+      "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Czwartek, 7.05, przyniesie długo wyczekiwany deszcz. Padać ma niemal wszędzie, ponadto pojawić się mogą burze. Aura niekorzystnie wpłynie na nasze samopoczucie.",
+      "originalTitle": "Pogoda na dziś - czwartek, 7.05. Deszcz, burze i niekorzystny biomet",
+      "originalDescription": "Pogoda na dziś. Czwartek, 7.05, przyniesie długo wyczekiwany deszcz. Padać ma niemal wszędzie, ponadto pojawić się mogą burze. Aura niekorzystnie wpłynie na nasze samopoczucie."
+    },
+    {
+      "title": "Wycieczkowiec z groźnym wirusem płynie w stronę portu docelowego. Mimo sprzeciwu władz",
+      "link": "https://tvn24.pl/swiat/wycieczkowiec-z-groznym-hantawirusem-plynie-w-strone-portu-docelowego-mimo-sprzeciwu-wladz-st9035204?source=rss",
+      "pubDate": "Wed, 06 May 2026 20:25:45 GMT",
+      "description": "Wycieczkowiec MV Hondius, na którym stwierdzono zakażenie niebezpiecznym hantawirusem, odpłynął z Republiki Zielonego Przylądka i płynie w stronę Wysp Kanaryjskich - podała agencja AFP.",
+      "originalTitle": "Wycieczkowiec z groźnym wirusem płynie w stronę portu docelowego. Mimo sprzeciwu władz",
+      "originalDescription": "Wycieczkowiec MV Hondius, na którym stwierdzono zakażenie niebezpiecznym hantawirusem, odpłynął z Republiki Zielonego Przylądka i płynie w stronę Wysp Kanaryjskich - podała agencja AFP."
+    },
+    {
+      "title": "Niebezpieczna aura. W mocy żółte alarmy IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-w-srode-6-maja-burze-w-polsce-tam-moze-zagrzmiec-st9031828?source=rss",
+      "pubDate": "Wed, 06 May 2026 04:28:33 GMT",
+      "description": "Pogoda w Polsce. Noc ze środy na czwartek przyniesie niektórych regionom kraju burze. Instytut Meteorologii i Gospodarki Wodnej wydał przed nimi alarmy pierwszego stopnia.",
+      "originalTitle": "Niebezpieczna aura. W mocy żółte alarmy IMGW",
+      "originalDescription": "Pogoda w Polsce. Noc ze środy na czwartek przyniesie niektórych regionom kraju burze. Instytut Meteorologii i Gospodarki Wodnej wydał przed nimi alarmy pierwszego stopnia."
+    },
+    {
+      "title": "Domański: Kaczyński i Błaszczak już wiedzą, w jakim bagnie jest polska prawica",
+      "link": "https://tvn24.pl/biznes/z-kraju/afera-zondacrypto-andrzej-domanski-jaroslaw-kaczynski-i-mariusz-blaszczak-wiedza-w-jakim-sa-bagnie-st9035114?source=rss",
+      "pubDate": "Wed, 06 May 2026 19:24:15 GMT",
+      "description": "PiS od kilku tygodni, gdy zorientował się, w jak potężnym jest bagnie, próbuje w taki naprawdę żenujący sposób odwracać kota ogonem - powiedział Andrzej Domański w \"Kropce nad i\". Minister finansów i gospodarki mówił na antenie TVN24 o aferze Zondacrypto oraz o nowej ustawie regulującej rynek kryptowalut.",
+      "originalTitle": "Domański: Kaczyński i Błaszczak już wiedzą, w jakim bagnie jest polska prawica",
+      "originalDescription": "PiS od kilku tygodni, gdy zorientował się, w jak potężnym jest bagnie, próbuje w taki naprawdę żenujący sposób odwracać kota ogonem - powiedział Andrzej Domański w \"Kropce nad i\". Minister finansów i gospodarki mówił na antenie TVN24 o aferze Zondacrypto oraz o nowej ustawie regulującej rynek kryptowalut."
+    },
+    {
+      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-srode-6-05-mapa-i-radar-burz-st9034914?source=rss",
+      "pubDate": "Wed, 06 May 2026 15:37:15 GMT",
+      "description": "Pogoda w Polsce. W środę, 6.05, w części kraju pojawiają się burze. Zjawiskom towarzyszą opady deszczu i silne porywy wiatru. Sprawdź, gdzie grzmi.",
+      "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "originalDescription": "Pogoda w Polsce. W środę, 6.05, w części kraju pojawiają się burze. Zjawiskom towarzyszą opady deszczu i silne porywy wiatru. Sprawdź, gdzie grzmi."
+    },
+    {
+      "title": "Susza w Kampinosie. Dyrekcja wprowadza restrykcje",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-w-kampinoskim-parku-narodowym-bez-ognisk-i-grillow-zakaz-uzywania-ognia-powodem-zagrozenie-pozarowe-st9035043?source=rss",
+      "pubDate": "Wed, 06 May 2026 19:06:15 GMT",
+      "description": "Kampinoski Park Narodowy wprowadził całkowity zakaz używania ognia. Nie można m.in. rozpalać ognisk i grillować. Zakaz obowiązuje do 14 maja. Powodem jego wprowadzenia jest zagrożenie pożarowe.",
+      "originalTitle": "Susza w Kampinosie. Dyrekcja wprowadza restrykcje",
+      "originalDescription": "Kampinoski Park Narodowy wprowadził całkowity zakaz używania ognia. Nie można m.in. rozpalać ognisk i grillować. Zakaz obowiązuje do 14 maja. Powodem jego wprowadzenia jest zagrożenie pożarowe."
+    },
+    {
+      "title": "Socjaldemokraci połączyli siły z prawicą i obalili rząd. Tylko co dalej?",
+      "link": "https://tvn24.pl/swiat/rumunia-upadl-rzad-ilie-bolojana-powody-co-dalej-st9035039?source=rss",
+      "pubDate": "Wed, 06 May 2026 19:05:19 GMT",
+      "description": "To było historyczne głosowanie - żaden rumuński rząd nie upadł dotąd przy tak miażdżącej przewadze głosów. Tego samego dnia rumuński lej osiągnął rekordowo niski kurs wobec euro. Kryzys polityczny w Bukareszcie się rozkręca, a zegar odliczający czas na uratowanie unijnych miliardów bezlitośnie tyka.",
+      "originalTitle": "Socjaldemokraci połączyli siły z prawicą i obalili rząd. Tylko co dalej?",
+      "originalDescription": "To było historyczne głosowanie - żaden rumuński rząd nie upadł dotąd przy tak miażdżącej przewadze głosów. Tego samego dnia rumuński lej osiągnął rekordowo niski kurs wobec euro. Kryzys polityczny w Bukareszcie się rozkręca, a zegar odliczający czas na uratowanie unijnych miliardów bezlitośnie tyka."
+    },
+    {
+      "title": "Przeszukanie CBA w biurze posła i wniosek o uchylenie immunitetu. Media: to Wojciech Król",
+      "link": "https://tvn24.pl/katowice/katowice-przeszukanie-cba-w-biurze-posla-jest-wniosek-o-uchylenie-immunitetu-media-to-wojciech-krol-st9031409?source=rss",
+      "pubDate": "Tue, 05 May 2026 09:28:52 GMT",
+      "description": "Prokuratura Europejska zawnioskowała do Sejmu o uchylenie immunitetu jednego z obecnych posłów. Ma to związek ze śledztwem dotyczącym korupcji przy inwestycji dofinansowanej ze środków UE. Wniosek został złożony w trybie poufnym. Choć nie podano, kogo on dotyczy, według nieoficjalnych informacji chodzi o posła KO Wojciecha Króla. Poseł wydał oświadczenie.",
+      "originalTitle": "Przeszukanie CBA w biurze posła i wniosek o uchylenie immunitetu. Media: to Wojciech Król",
+      "originalDescription": "Prokuratura Europejska zawnioskowała do Sejmu o uchylenie immunitetu jednego z obecnych posłów. Ma to związek ze śledztwem dotyczącym korupcji przy inwestycji dofinansowanej ze środków UE. Wniosek został złożony w trybie poufnym. Choć nie podano, kogo on dotyczy, według nieoficjalnych informacji chodzi o posła KO Wojciecha Króla. Poseł wydał oświadczenie."
+    },
+    {
+      "title": "Jacek Siewiera: Rosja nie będzie czekała, aż Unia Europejska się uzbroi",
+      "link": "https://tvn24.pl/polska/jacek-siewiera-rosja-nie-bedzie-czekala-az-unia-europejska-sie-uzbroi-st9035119?source=rss",
+      "pubDate": "Wed, 06 May 2026 18:56:19 GMT",
+      "description": "Rosja będzie testować NATO i to jest potężna próba jedności transatlantyckiej - powiedział w \"Faktach po Faktach\" w TVN24 były szef Biura Bezpieczeństwa Narodowego Jacek Siewiera. Mówił o rosyjskiej agresji wobec Sojuszu i wskazywał trzy istotne rzeczy dla interesu Polski.",
+      "originalTitle": "Jacek Siewiera: Rosja nie będzie czekała, aż Unia Europejska się uzbroi",
+      "originalDescription": "Rosja będzie testować NATO i to jest potężna próba jedności transatlantyckiej - powiedział w \"Faktach po Faktach\" w TVN24 były szef Biura Bezpieczeństwa Narodowego Jacek Siewiera. Mówił o rosyjskiej agresji wobec Sojuszu i wskazywał trzy istotne rzeczy dla interesu Polski."
+    },
+    {
+      "title": "Pogoda na jutro - czwartek, 7.05. Nocna wędrówka strefy opadów. Tu popada i zagrzmi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-7-05-nocna-wedrowka-strefy-opadow-tu-popada-i-zagrzmi-st9035079?source=rss",
+      "pubDate": "Wed, 06 May 2026 18:44:06 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek, 7.05. Noc upłynie pod znakiem opadów deszczu, pojawić się też mogą burze. W dzień termometry pokażą maksymalnie 25 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - czwartek, 7.05. Nocna wędrówka strefy opadów. Tu popada i zagrzmi",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 7.05. Noc upłynie pod znakiem opadów deszczu, pojawić się też mogą burze. W dzień termometry pokażą maksymalnie 25 stopni Celsjusza."
+    }
+  ]
 }
