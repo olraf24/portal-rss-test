@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-07T03:11:15.927Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-07T04:42:40.864Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Tyle zapłacimy za paliwo w czwartek",
+      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-w-czwartek-7-maja-2026-tyle-na-stacjach-kosztuje-benzyna-95-98-i-olej-napedowy-st9033481?source=rss",
+      "pubDate": "Wed, 06 May 2026 10:01:02 GMT",
+      "description": "Zgodnie z obwieszczeniem ministra energii Miłosza Motyki w czwartek 7 maja za benzynę i olej napędowy zapłacimy mniej niż w środę.",
+      "originalTitle": "Tyle zapłacimy za paliwo w czwartek",
+      "originalDescription": "Zgodnie z obwieszczeniem ministra energii Miłosza Motyki w czwartek 7 maja za benzynę i olej napędowy zapłacimy mniej niż w środę."
+    },
+    {
+      "title": "Tu może zagrzmieć. IMGW wydał prognozę zagrożeń",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-w-srode-6-maja-burze-w-polsce-tam-moze-zagrzmiec-st9031828?source=rss",
+      "pubDate": "Thu, 07 May 2026 04:24:00 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej planuje wydać ostrzeżenia przed burzami. Sprawdź, gdzie aura może być groźna.",
+      "originalTitle": "Tu może zagrzmieć. IMGW wydał prognozę zagrożeń",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej planuje wydać ostrzeżenia przed burzami. Sprawdź, gdzie aura może być groźna."
+    },
+    {
+      "title": "Na Łotwie \"rozbiły się obce drony\". Miały nadlecieć z Rosji",
+      "link": "https://tvn24.pl/swiat/na-lotwie-rozbily-sie-obce-drony-mialy-nadleciec-z-rosji-st9035277?source=rss",
+      "pubDate": "Thu, 07 May 2026 03:51:47 GMT",
+      "description": "Dwa obce drony wleciały na Łotwę z Rosji i rozbiły się - poinformował w czwartek rano publiczny łotewski nadawca LSM, powołując się na siły zbrojne. Według LSM jeden dron uderzył w skład ropy naftowej w mieście położonym przy granicy z Rosją.",
+      "originalTitle": "Na Łotwie \"rozbiły się obce drony\". Miały nadlecieć z Rosji",
+      "originalDescription": "Dwa obce drony wleciały na Łotwę z Rosji i rozbiły się - poinformował w czwartek rano publiczny łotewski nadawca LSM, powołując się na siły zbrojne. Według LSM jeden dron uderzył w skład ropy naftowej w mieście położonym przy granicy z Rosją."
+    },
+    {
+      "title": "Wiele niewiadomych wokół zakażeń hantawirusem na wycieczkowcu",
+      "link": "https://tvn24.pl/swiat/hantawirus-na-wycieczkowcu-ecdc-nalezy-rozwazyc-ewakuacje-medyczna-pasazerow-i-zalogi-st9035259?source=rss",
+      "pubDate": "Thu, 07 May 2026 03:45:32 GMT",
+      "description": "Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC) uważa, że należy rozważyć podjęcie dodatkowych środków ostrożności, w tym ewakuację medyczną pasażerów i załogi wycieczkowca, na którym wykryto zakażenia hantawirusem. Argentyńskie służby epidemiologiczne poszukują możliwych źródeł zakażeń. W związku z tą sprawą zareagowały również amerykańskie służby.",
+      "originalTitle": "Wiele niewiadomych wokół zakażeń hantawirusem na wycieczkowcu",
+      "originalDescription": "Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC) uważa, że należy rozważyć podjęcie dodatkowych środków ostrożności, w tym ewakuację medyczną pasażerów i załogi wycieczkowca, na którym wykryto zakażenia hantawirusem. Argentyńskie służby epidemiologiczne poszukują możliwych źródeł zakażeń. W związku z tą sprawą zareagowały również amerykańskie służby."
+    },
+    {
+      "title": "Tusk we Włoszech. Audiencja u papieża, później spotkanie z Meloni",
+      "link": "https://tvn24.pl/polska/donald-tusk-we-wloszech-audiencja-u-papieza-pozniej-spotkanie-z-giorgia-meloni-st9035257?source=rss",
+      "pubDate": "Thu, 07 May 2026 03:25:48 GMT",
+      "description": "Podczas wizyty we Włoszech premier Donald Tusk weźmie udział w porannej audiencji u papieża Leona XIV w Watykanie. Następnie spotka się w Rzymie ze swoją włoską odpowiedniczką Giorgią Meloni.",
+      "originalTitle": "Tusk we Włoszech. Audiencja u papieża, później spotkanie z Meloni",
+      "originalDescription": "Podczas wizyty we Włoszech premier Donald Tusk weźmie udział w porannej audiencji u papieża Leona XIV w Watykanie. Następnie spotka się w Rzymie ze swoją włoską odpowiedniczką Giorgią Meloni."
+    },
+    {
+      "title": "Płonie puszcza, nakaz w sprawie sędziów TK, skazania po śmierci Kamilka",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-7-maja-najwazniejsze-informacje-st9035262?source=rss",
+      "pubDate": "Thu, 07 May 2026 03:17:00 GMT",
+      "description": "Pożarem w powiecie biłgorajskim objętych jest około 500 hektarów Puszczy Solskiej. Europejski Trybunał Praw Człowieka wydał nakaz w sprawie sędziów Trybunału Konstytucyjnego\", których prezes TK Bogdan Święczkowski nie dopuszcza do orzekania. Zapadł wyrok w głośnej sprawie Kamilka. Oto pięć rzeczy, które warto wiedzieć w czwartek 7 maja.",
+      "originalTitle": "Płonie puszcza, nakaz w sprawie sędziów TK, skazania po śmierci Kamilka",
+      "originalDescription": "Pożarem w powiecie biłgorajskim objętych jest około 500 hektarów Puszczy Solskiej. Europejski Trybunał Praw Człowieka wydał nakaz w sprawie sędziów Trybunału Konstytucyjnego\", których prezes TK Bogdan Święczkowski nie dopuszcza do orzekania. Zapadł wyrok w głośnej sprawie Kamilka. Oto pięć rzeczy, które warto wiedzieć w czwartek 7 maja."
+    },
+    {
+      "title": "Pogoda na dziś - czwartek, 7.05. Deszcz, burze i niekorzystny biomet",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-7-05-deszcz-burze-i-niekorzystny-biomet-st9035191?source=rss",
+      "pubDate": "Thu, 07 May 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Czwartek, 7.05, przyniesie długo wyczekiwany deszcz. Padać ma niemal wszędzie, ponadto pojawić się mogą burze. Aura niekorzystnie wpłynie na nasze samopoczucie.",
+      "originalTitle": "Pogoda na dziś - czwartek, 7.05. Deszcz, burze i niekorzystny biomet",
+      "originalDescription": "Pogoda na dziś. Czwartek, 7.05, przyniesie długo wyczekiwany deszcz. Padać ma niemal wszędzie, ponadto pojawić się mogą burze. Aura niekorzystnie wpłynie na nasze samopoczucie."
+    },
+    {
+      "title": "Wycieczkowiec z groźnym wirusem płynie w stronę portu docelowego. Mimo sprzeciwu władz",
+      "link": "https://tvn24.pl/swiat/wycieczkowiec-z-groznym-hantawirusem-plynie-w-strone-portu-docelowego-mimo-sprzeciwu-wladz-st9035204?source=rss",
+      "pubDate": "Wed, 06 May 2026 20:25:45 GMT",
+      "description": "Wycieczkowiec MV Hondius, na którym stwierdzono zakażenie niebezpiecznym hantawirusem, odpłynął z Republiki Zielonego Przylądka i płynie w stronę Wysp Kanaryjskich - podała agencja AFP.",
+      "originalTitle": "Wycieczkowiec z groźnym wirusem płynie w stronę portu docelowego. Mimo sprzeciwu władz",
+      "originalDescription": "Wycieczkowiec MV Hondius, na którym stwierdzono zakażenie niebezpiecznym hantawirusem, odpłynął z Republiki Zielonego Przylądka i płynie w stronę Wysp Kanaryjskich - podała agencja AFP."
+    },
+    {
+      "title": "Domański: Kaczyński i Błaszczak już wiedzą, w jakim bagnie jest polska prawica",
+      "link": "https://tvn24.pl/biznes/z-kraju/afera-zondacrypto-andrzej-domanski-jaroslaw-kaczynski-i-mariusz-blaszczak-wiedza-w-jakim-sa-bagnie-st9035114?source=rss",
+      "pubDate": "Wed, 06 May 2026 19:24:15 GMT",
+      "description": "PiS od kilku tygodni, gdy zorientował się, w jak potężnym jest bagnie, próbuje w taki naprawdę żenujący sposób odwracać kota ogonem - powiedział Andrzej Domański w \"Kropce nad i\". Minister finansów i gospodarki mówił na antenie TVN24 o aferze Zondacrypto oraz o nowej ustawie regulującej rynek kryptowalut.",
+      "originalTitle": "Domański: Kaczyński i Błaszczak już wiedzą, w jakim bagnie jest polska prawica",
+      "originalDescription": "PiS od kilku tygodni, gdy zorientował się, w jak potężnym jest bagnie, próbuje w taki naprawdę żenujący sposób odwracać kota ogonem - powiedział Andrzej Domański w \"Kropce nad i\". Minister finansów i gospodarki mówił na antenie TVN24 o aferze Zondacrypto oraz o nowej ustawie regulującej rynek kryptowalut."
+    },
+    {
+      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-srode-6-05-mapa-i-radar-burz-st9034914?source=rss",
+      "pubDate": "Wed, 06 May 2026 15:37:15 GMT",
+      "description": "Pogoda w Polsce. W środę, 6.05, w części kraju pojawiają się burze. Zjawiskom towarzyszą opady deszczu i silne porywy wiatru. Sprawdź, gdzie grzmi.",
+      "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "originalDescription": "Pogoda w Polsce. W środę, 6.05, w części kraju pojawiają się burze. Zjawiskom towarzyszą opady deszczu i silne porywy wiatru. Sprawdź, gdzie grzmi."
+    }
+  ]
 }
