@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-08T14:39:20.650Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-08T15:36:14.510Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "W sobotę parada motocyklistów, w niedzielę przemarsz. Będą utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-w-sobote-parada-motocyklistow-w-niedziele-przemarsz-beda-utrudnienia-st9038566?source=rss",
+      "pubDate": "Fri, 08 May 2026 15:34:39 GMT",
+      "description": "W sobotę przez Warszawę przejadą w paradzie motocykliści, a w niedzielę na Trakcie Królewskim zaplanowano przemarsz. Będą utrudnienia w ruchu - poinformował stołeczny ratusz.",
+      "originalTitle": "W sobotę parada motocyklistów, w niedzielę przemarsz. Będą utrudnienia",
+      "originalDescription": "W sobotę przez Warszawę przejadą w paradzie motocykliści, a w niedzielę na Trakcie Królewskim zaplanowano przemarsz. Będą utrudnienia w ruchu - poinformował stołeczny ratusz."
+    },
+    {
+      "title": "Projekt ustawy o kryptowalutach został przyjęty przez rząd",
+      "link": "https://tvn24.pl/biznes/z-kraju/kryptowaluty-projekt-ustawy-o-rynku-kryptoaktywow-zostal-przyjety-przez-rzad-i-skierowany-do-sejmu-st9038551?source=rss",
+      "pubDate": "Fri, 08 May 2026 15:28:56 GMT",
+      "description": "Rząd przyjął projekt ustawy o rynku kryptoaktywów i skierował go do Sejmu - przekazał minister ds. nadzoru nad wdrażaniem polityki rządu Maciej Berek. To trzecie podejście do ustawy, wcześniejsze nie przetrwały prezydenckiego weta.",
+      "originalTitle": "Projekt ustawy o kryptowalutach został przyjęty przez rząd",
+      "originalDescription": "Rząd przyjął projekt ustawy o rynku kryptoaktywów i skierował go do Sejmu - przekazał minister ds. nadzoru nad wdrażaniem polityki rządu Maciej Berek. To trzecie podejście do ustawy, wcześniejsze nie przetrwały prezydenckiego weta."
+    },
+    {
+      "title": "\"Sporych rozmiarów bóbr utknął na drodze. Taki gość na to ogromne ryzyko\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sochaczew-policjanci-uratowali-bobra-zwierze-przechadzalo-sie-noca-po-jezdni-st9038471?source=rss",
+      "pubDate": "Fri, 08 May 2026 15:15:59 GMT",
+      "description": "To była nietypowa interwencja. Policjanci podczas patrolu zauważyli na środku jezdni ulicy bobra. Pomogli mu bezpiecznie opuścić drogę.",
+      "originalTitle": "\"Sporych rozmiarów bóbr utknął na drodze. Taki gość na to ogromne ryzyko\"",
+      "originalDescription": "To była nietypowa interwencja. Policjanci podczas patrolu zauważyli na środku jezdni ulicy bobra. Pomogli mu bezpiecznie opuścić drogę."
+    },
+    {
+      "title": "Ratunek dla europejskich linii lotniczych. To paliwo może pomóc",
+      "link": "https://tvn24.pl/biznes/ze-swiata/niedobory-paliwa-lotniczego-w-europie-pomoc-moze-paliwo-z-usa-st9038450?source=rss",
+      "pubDate": "Fri, 08 May 2026 15:09:34 GMT",
+      "description": "Europejskie linie lotnicze powinny korzystać z paliwa wyprodukowanego w USA, żeby zniwelować skutki niedoborów spowodowanych wojną na Bliskim Wschodzie - oceniają organizacje Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA) oraz Agencja Unii Europejskiej ds. Bezpieczeństwa Lotniczego (EASA).",
+      "originalTitle": "Ratunek dla europejskich linii lotniczych. To paliwo może pomóc",
+      "originalDescription": "Europejskie linie lotnicze powinny korzystać z paliwa wyprodukowanego w USA, żeby zniwelować skutki niedoborów spowodowanych wojną na Bliskim Wschodzie - oceniają organizacje Międzynarodowe Zrzeszenie Przewoźników Powietrznych (IATA) oraz Agencja Unii Europejskiej ds. Bezpieczeństwa Lotniczego (EASA)."
+    },
+    {
+      "title": "\"Feniks z popiołów\" i \"martwy\" system. \"Kolejne przetasowanie\" nad Tamizą?",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-wybory-lokalne-sukces-nigela-farage-a-co-dalej-z-partia-pracy-i-pozycja-keira-starmera-st9037353?source=rss",
+      "pubDate": "Fri, 08 May 2026 15:06:10 GMT",
+      "description": "Partia Pracy się wykrwawia, torysi tracą grunt pod nogami, a Nigel Farage politycznie odradza się po raz kolejny. Wyniki wyborów lokalnych pokazują, że Wielka Brytania może stać u progu nowej politycznej epoki. Nad Tamizą nudy nie ma i nie będzie.",
+      "originalTitle": "\"Feniks z popiołów\" i \"martwy\" system. \"Kolejne przetasowanie\" nad Tamizą?",
+      "originalDescription": "Partia Pracy się wykrwawia, torysi tracą grunt pod nogami, a Nigel Farage politycznie odradza się po raz kolejny. Wyniki wyborów lokalnych pokazują, że Wielka Brytania może stać u progu nowej politycznej epoki. Nad Tamizą nudy nie ma i nie będzie."
+    },
+    {
+      "title": "Kiedy opadające powieki to nie tylko kwestia estetyki",
+      "link": "https://tvn24.pl/zdrowie/kiedy-opadajace-powieki-to-nie-tylko-kwestia-estetyki-st9038451?source=rss",
+      "pubDate": "Fri, 08 May 2026 14:54:20 GMT",
+      "description": "Coraz więcej osób, nie tylko starszych, zwraca uwagę na problem opadających powiek. Choć wielu utożsamia go wyłącznie z estetyką, w rzeczywistości może on wpływać także na zdrowie i komfort widzenia. Okulistka wyjaśnia, skąd bierze się ten problem i co można z nim zrobić.",
+      "originalTitle": "Kiedy opadające powieki to nie tylko kwestia estetyki",
+      "originalDescription": "Coraz więcej osób, nie tylko starszych, zwraca uwagę na problem opadających powiek. Choć wielu utożsamia go wyłącznie z estetyką, w rzeczywistości może on wpływać także na zdrowie i komfort widzenia. Okulistka wyjaśnia, skąd bierze się ten problem i co można z nim zrobić."
+    },
+    {
+      "title": "Po wielu latach wraca woda. \"Ziemia była sucha, ale teraz znów ożyła\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/irak-po-wielu-latach-wraca-woda-ziemia-byla-sucha-ale-teraz-znow-ozyla-st9038361?source=rss",
+      "pubDate": "Fri, 08 May 2026 14:53:00 GMT",
+      "description": "Na mokradła w południowym Iraku powraca woda. Ich rdzenni mieszkańcy - spośród których wielu wyemigrowało w ostatnich latach z powodu suszy - mają nadzieję, że sytuacja poprawi się na dłużej i będą mogli powrócić do swoich domów.",
+      "originalTitle": "Po wielu latach wraca woda. \"Ziemia była sucha, ale teraz znów ożyła\"",
+      "originalDescription": "Na mokradła w południowym Iraku powraca woda. Ich rdzenni mieszkańcy - spośród których wielu wyemigrowało w ostatnich latach z powodu suszy - mają nadzieję, że sytuacja poprawi się na dłużej i będą mogli powrócić do swoich domów."
+    },
+    {
+      "title": "Tragedia pod Warszawą. Nie żyją kobieta i mężczyzna. Nowe informacje",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/tragedia-pod-warszawa-nie-zyja-kobieta-i-mezczyzna-nowe-informacje-st9038402?source=rss",
+      "pubDate": "Fri, 08 May 2026 14:41:47 GMT",
+      "description": "Prokuratura Rejonowa w Pruszkowie wszczęła śledztwo w sprawie zabójstwa kobiety w podwarszawskim Raszynie. Jak podali śledczy, jej były mąż, który po zbrodni targnął się na własne życie, miał wyrok za znęcanie się nad rodziną. Posiadał broń nielegalnie.",
+      "originalTitle": "Tragedia pod Warszawą. Nie żyją kobieta i mężczyzna. Nowe informacje",
+      "originalDescription": "Prokuratura Rejonowa w Pruszkowie wszczęła śledztwo w sprawie zabójstwa kobiety w podwarszawskim Raszynie. Jak podali śledczy, jej były mąż, który po zbrodni targnął się na własne życie, miał wyrok za znęcanie się nad rodziną. Posiadał broń nielegalnie."
+    },
+    {
+      "title": "Wielka akcja przeciwko pedofilom. Wśród zatrzymanych były asystent posła PiS",
+      "link": "https://tvn24.pl/trojmiasto/pomorze-wielka-akcja-przeciwko-pedofilom-wsrod-zatrzymanych-byly-asystent-posla-pis-st9038410?source=rss",
+      "pubDate": "Fri, 08 May 2026 14:30:53 GMT",
+      "description": "Cztery osoby zostały zatrzymane na Pomorzu w ramach ogólnopolskiej operacji służb \"Hellfire\" wymierzonej w przestępczość pedofilską. Jak się dowiedzieliśmy, wśród zatrzymanych jest były asystent jednego z polityków PiS.",
+      "originalTitle": "Wielka akcja przeciwko pedofilom. Wśród zatrzymanych były asystent posła PiS",
+      "originalDescription": "Cztery osoby zostały zatrzymane na Pomorzu w ramach ogólnopolskiej operacji służb \"Hellfire\" wymierzonej w przestępczość pedofilską. Jak się dowiedzieliśmy, wśród zatrzymanych jest były asystent jednego z polityków PiS."
+    },
+    {
+      "title": "Oni zyskali najwięcej na wojnie na Bliskim Wschodzie. Miliardowe zyski",
+      "link": "https://tvn24.pl/biznes/ze-swiata/kto-zarabia-na-wojnie-na-bliskim-wschodzie-miliardowe-zyski-st9037684?source=rss",
+      "pubDate": "Fri, 08 May 2026 14:24:39 GMT",
+      "description": "Niektóre branże i firmy odnotowują miliardowe zyski w związku z trwającym konfliktem na Bliskim Wschodzie - opisuje BBC. Rekordowe wyniki notują firmy z branż takich jak energetyka i finanse, a także chińska motoryzacja.",
+      "originalTitle": "Oni zyskali najwięcej na wojnie na Bliskim Wschodzie. Miliardowe zyski",
+      "originalDescription": "Niektóre branże i firmy odnotowują miliardowe zyski w związku z trwającym konfliktem na Bliskim Wschodzie - opisuje BBC. Rekordowe wyniki notują firmy z branż takich jak energetyka i finanse, a także chińska motoryzacja."
+    }
+  ]
 }
