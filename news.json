@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-08T00:45:45.779Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-08T01:39:41.575Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś - piątek, 8.05. Tutaj warto zabrać ze sobą parasol",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-8-05-tutaj-warto-zabrac-ze-soba-parasol-st9037120?source=rss",
+      "pubDate": "Fri, 08 May 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Piątek, 8.05 przyniesie pochmurną aurę z opadami w wielu rejonach kraju. Miejscami mogą pojawić się jeszcze burze. Na termometrach zobaczymy nie więcej niż kilkanaście stopni.",
+      "originalTitle": "Pogoda na dziś - piątek, 8.05. Tutaj warto zabrać ze sobą parasol",
+      "originalDescription": "Pogoda na dziś. Piątek, 8.05 przyniesie pochmurną aurę z opadami w wielu rejonach kraju. Miejscami mogą pojawić się jeszcze burze. Na termometrach zobaczymy nie więcej niż kilkanaście stopni."
+    },
+    {
+      "title": "Zmiana po rozmowie z Von der Leyen. Trump odsuwa cła",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-rozmawial-z-ursula-von-der-leyen-usa-naloza-wyzsze-oplaty-na-ue-jesli-europa-nie-spelni-warunkow-umowy-handlowej-st9037119?source=rss",
+      "pubDate": "Thu, 07 May 2026 20:03:16 GMT",
+      "description": "Prezydent Donald Trump ogłosił w czwartek po rozmowie z przewodniczącą Komisji Europejskiej Ursulą von der Leyen, że daje Unii Europejskiej czas do 4 lipca, by wdrożyła porozumienie handlowe z USA. Ostrzegł, że w przeciwnym razie podniesie cła na towary z UE. To zmiana w stosunku do jego poprzedniej decyzji.",
+      "originalTitle": "Zmiana po rozmowie z Von der Leyen. Trump odsuwa cła",
+      "originalDescription": "Prezydent Donald Trump ogłosił w czwartek po rozmowie z przewodniczącą Komisji Europejskiej Ursulą von der Leyen, że daje Unii Europejskiej czas do 4 lipca, by wdrożyła porozumienie handlowe z USA. Ostrzegł, że w przeciwnym razie podniesie cła na towary z UE. To zmiana w stosunku do jego poprzedniej decyzji."
+    },
+    {
+      "title": "Burza po słowach Mentzena. Generał Polko: to problem dla armii, obrażono dowódcę",
+      "link": "https://tvn24.pl/polska/burza-po-slowach-mentzena-general-polko-to-problem-dla-armii-obrazono-dowodce-st9037000?source=rss",
+      "pubDate": "Thu, 07 May 2026 19:49:56 GMT",
+      "description": "Politycy, którzy powinni odpowiadać za nasze bezpieczeństwo i mocno wspierać armię, wykorzystują wojsko do gierek politycznych - powiedział generał Roman Polko w \"Faktach po Faktach\" w TVN24. Komentował obraźliwe słowa Sławomira Mentzena pod adresem szefa Sztabu Generalnego Wojska Polskiego generała Wiesława Kukuły.",
+      "originalTitle": "Burza po słowach Mentzena. Generał Polko: to problem dla armii, obrażono dowódcę",
+      "originalDescription": "Politycy, którzy powinni odpowiadać za nasze bezpieczeństwo i mocno wspierać armię, wykorzystują wojsko do gierek politycznych - powiedział generał Roman Polko w \"Faktach po Faktach\" w TVN24. Komentował obraźliwe słowa Sławomira Mentzena pod adresem szefa Sztabu Generalnego Wojska Polskiego generała Wiesława Kukuły."
+    },
+    {
+      "title": "Tragedia pod Warszawą. Ciało kobiety w mieszkaniu, na miejscu było dwoje dzieci",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/raszyn-policyjne-tasmy-przy-budynku-zdarzenie-o-charakterze-kryminalnym-st9037012?source=rss",
+      "pubDate": "Thu, 07 May 2026 18:26:33 GMT",
+      "description": "Policjanci dostali wezwanie do jednego z domów w podwarszawskim Raszynie. Na miejscu zastali dwoje dzieci i znaleźli ciało kobiety. Z posesji uciekł jej 67-letni partner, po kilku godzinach funkcjonariusze odnaleźli go na cmentarzu, nie żył.",
+      "originalTitle": "Tragedia pod Warszawą. Ciało kobiety w mieszkaniu, na miejscu było dwoje dzieci",
+      "originalDescription": "Policjanci dostali wezwanie do jednego z domów w podwarszawskim Raszynie. Na miejscu zastali dwoje dzieci i znaleźli ciało kobiety. Z posesji uciekł jej 67-letni partner, po kilku godzinach funkcjonariusze odnaleźli go na cmentarzu, nie żył."
+    },
+    {
+      "title": "Gdzie jest burza? Wciąż grzmi w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-czwartek-7-05-mapa-i-radar-burz-slychac-pierwsze-grzmoty-st9036000?source=rss",
+      "pubDate": "Thu, 07 May 2026 11:27:23 GMT",
+      "description": "Pogoda w Polsce. W czwartek 7.05 wieczorem w części kraju wciąż aktywne są burze. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Sprawdź, gdzie nadal się błyska.",
+      "originalTitle": "Gdzie jest burza? Wciąż grzmi w części kraju",
+      "originalDescription": "Pogoda w Polsce. W czwartek 7.05 wieczorem w części kraju wciąż aktywne są burze. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Sprawdź, gdzie nadal się błyska."
+    },
+    {
+      "title": "Ostrzeżenia przed burzami. Miejscami będą ważne niemal do wschodu słońca",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-imgw-wydalo-ostrzezenia-przed-burzami-z-gradem-w-polsce-st9031828?source=rss",
+      "pubDate": "Thu, 07 May 2026 04:24:00 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed nocnymi burzami w wielu województwach. Poza tym w części kraju spodziewane są przymrozki. Sprawdź, gdzie pogoda da się we znaki.",
+      "originalTitle": "Ostrzeżenia przed burzami. Miejscami będą ważne niemal do wschodu słońca",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej ostrzega przed nocnymi burzami w wielu województwach. Poza tym w części kraju spodziewane są przymrozki. Sprawdź, gdzie pogoda da się we znaki."
+    },
+    {
+      "title": "Pogoda na jutro - piątek, 8.05. Tutaj nocą spadnie najwięcej deszczu",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-8-05-tutaj-noca-spadnie-najwiecej-deszczu-st9037031?source=rss",
+      "pubDate": "Thu, 07 May 2026 18:54:19 GMT",
+      "description": "Pogoda na jutro, czyli na piątek, 8.05. Noc zapowiada się pochmurnie i deszczowo. Miejscami możliwe są burze - jeśli się pojawią, przyniosą solidniejsze opady i silniejszy wiatr. W wielu rejonach popada także w dzień.",
+      "originalTitle": "Pogoda na jutro - piątek, 8.05. Tutaj nocą spadnie najwięcej deszczu",
+      "originalDescription": "Pogoda na jutro, czyli na piątek, 8.05. Noc zapowiada się pochmurnie i deszczowo. Miejscami możliwe są burze - jeśli się pojawią, przyniosą solidniejsze opady i silniejszy wiatr. W wielu rejonach popada także w dzień."
+    },
+    {
+      "title": "Profesor Dudek: prezydent przechodzi do wiosennej ofensywy",
+      "link": "https://tvn24.pl/polska/profesor-antoni-dudek-o-propozycji-referendum-prezydent-przechodzi-do-wiosennej-ofensywy-st9037034?source=rss",
+      "pubDate": "Thu, 07 May 2026 18:47:18 GMT",
+      "description": "Strategicznym celem Karola Nawrockiego jest przekonanie większości Polaków, że trzeba ustanowić system prezydencki - ocenił profesor Antoni Dudek w \"Kropce nad i\" w TVN24. Mówił też, że wniosek prezydenta w sprawie referendum dotyczącego Zielonego Ładu nie uzyska większości w Senacie.",
+      "originalTitle": "Profesor Dudek: prezydent przechodzi do wiosennej ofensywy",
+      "originalDescription": "Strategicznym celem Karola Nawrockiego jest przekonanie większości Polaków, że trzeba ustanowić system prezydencki - ocenił profesor Antoni Dudek w \"Kropce nad i\" w TVN24. Mówił też, że wniosek prezydenta w sprawie referendum dotyczącego Zielonego Ładu nie uzyska większości w Senacie."
+    },
+    {
+      "title": "Prezydent wyznaczy nowego szefa BBN",
+      "link": "https://tvn24.pl/polska/prezydent-wyznaczy-nowego-szefa-biura-bezpieczenstwa-narodowego-jest-termin-st9037066?source=rss",
+      "pubDate": "Thu, 07 May 2026 18:37:46 GMT",
+      "description": "W piątek prezydent Karol Nawrocki przedstawi szefa Biura Bezpieczeństwa Narodowego. Po rezygnacji Sławomira Cenckiewicza, pełniącym obowiązki na tym stanowisku został generał Andrzej Kowalski.",
+      "originalTitle": "Prezydent wyznaczy nowego szefa BBN",
+      "originalDescription": "W piątek prezydent Karol Nawrocki przedstawi szefa Biura Bezpieczeństwa Narodowego. Po rezygnacji Sławomira Cenckiewicza, pełniącym obowiązki na tym stanowisku został generał Andrzej Kowalski."
+    },
+    {
+      "title": "\"To heroiczna praca po to, by ratować naturę\"",
+      "link": "https://tvn24.pl/polska/pozar-w-puszczy-solskiej-komendant-glowny-psp-o-bardzo-trudnych-warunkach-i-heroicznej-pracy-po-to-by-ratowac-nature-st9037043?source=rss",
+      "pubDate": "Thu, 07 May 2026 18:30:24 GMT",
+      "description": "Pożar w Puszczy Solskiej jest opanowany, ale zagrożenie całkowicie nie zostało zażegnane - mówił w \"Faktach po Faktach\" w TVN24 komendant główny Państwowej Straży Pożarnej nadbrygadier Wojciech Kruczek. Podkreślił, że strażacy będą musieli metr po metrze każde zarzewie pożaru \"przekopać, dogasić, przelać\".",
+      "originalTitle": "\"To heroiczna praca po to, by ratować naturę\"",
+      "originalDescription": "Pożar w Puszczy Solskiej jest opanowany, ale zagrożenie całkowicie nie zostało zażegnane - mówił w \"Faktach po Faktach\" w TVN24 komendant główny Państwowej Straży Pożarnej nadbrygadier Wojciech Kruczek. Podkreślił, że strażacy będą musieli metr po metrze każde zarzewie pożaru \"przekopać, dogasić, przelać\"."
+    }
+  ]
 }
