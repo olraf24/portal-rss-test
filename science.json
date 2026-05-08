@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2026-05-08T11:33:35.816Z",
+  "lastUpdate": "2026-05-08T12:34:01.189Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Terapia w wirtualnej rzeczywistości",
+      "link": "https://dzienniknaukowy.pl/terapia-w-wirtualnej-rzeczywistosci",
+      "pubDate": "Fri, 08 May 2026 12:20:28 +0000",
+      "description": "Wirtualna rzeczywistość przestaje być domeną gier i rozrywki – coraz śmielej wchodzi do gabinetów terapeutycznych. Dzięki niej pacjent może nie tylko mówić o swoim lęku, ale też bezpiecznie go przeżyć. To narzędzie, które zaczyna redefiniować terapię, szczególnie tam, gdzie kluczowe jest realne doświadczenie emocji."
+    },
+    {
+      "title": "Niedaleko Łodzi odnaleziono meteoryt żelazny",
+      "link": "https://dzienniknaukowy.pl/niedaleko-lodzi-odnaleziono-meteoryt-zelazny",
+      "pubDate": "Fri, 08 May 2026 12:04:12 +0000",
+      "description": "Niemal 3 kg ma meteoryt żelazny - pozostałość po bolidzie, który przeleciał 17 kwietnia nad Polską. Kilka dni później znaleźli go pod Łodzią naukowcy i poszukiwacze z sieci bolidowej. W ustaleniu miejsca pomogły dane z kamer sieci bolidowej Skytinel."
+    },
     {
       "title": "Polacy współautorami pierwszej czterowymiarowej mapy ułożenia DNA w jądrze komórkowym",
       "link": "https://dzienniknaukowy.pl/polacy-wspolautorami-pierwszej-czterowymiarowej-mapy-ulozenia-dna-w-jadrze-komorkowym",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/analiza-temperatura-wody-przy-polskim-wybrzezu-baltyku-bedzie-stale-rosla-do-konca-wieku",
       "pubDate": "Tue, 05 May 2026 12:40:07 +0000",
       "description": "Morze nie nagrzewa się tak szybko jak powietrze, ale długo trzyma ciepło. Dlatego zmiany temperatury wody nie są tylko ciekawostką. To problem, który może wpływać na sinice, ryby, turystykę i to, jak będzie wyglądać polskie wybrzeże pod koniec tego wieku."
-    },
-    {
-      "title": "Jak radzić sobie z bólem kręgosłupa przy siedzącym trybie życia?",
-      "link": "https://dzienniknaukowy.pl/jak-radzic-sobie-z-bolem-kregoslupa-przy-siedzacym-trybie-zycia",
-      "pubDate": "Tue, 05 May 2026 11:52:00 +0000",
-      "description": "Kręgosłup nie jest przystosowany do wielogodzinnego pozostawania w jednej pozycji. Niestety siedzący tryb życia zmusza go do tego, co może wiązać się z wystąpieniem dolegliwości bólowych oraz długofalowych problemów zdrowotnych. W jaki sposób możemy zadbać o kręgosłup w domu i w pracy, by odciążyć go i złagodzić dolegliwości bólowe?"
-    },
-    {
-      "title": "Sztuczna inteligencja w nefrologii",
-      "link": "https://dzienniknaukowy.pl/sztuczna-inteligencja-w-nefrologii",
-      "pubDate": "Thu, 30 Apr 2026 09:44:58 +0000",
-      "description": "Sztuczna inteligencja coraz śmielej wkracza do medycyny, pomagając nie tylko rozpoznawać choroby nerek, ale także przewidywać ich przebieg. Dzięki analizie złożonych danych klinicznych, biologicznych i obrazowych algorytmy mogą wspierać lekarzy w szybszym wykrywaniu zmian oraz lepszym dopasowaniu terapii do konkretnego pacjenta."
     }
   ]
 }
