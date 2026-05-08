@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-08T06:40:38.388Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-08T07:36:18.088Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Samorząd lekarski domaga się dymisji wiceministry zdrowia",
+      "link": "https://tvn24.pl/zdrowie/samorzad-lekarski-domaga-sie-dymisji-wiceministry-zdrowia-st9036834?source=rss",
+      "pubDate": "Fri, 08 May 2026 07:30:58 GMT",
+      "description": "Naczelna Rada Lekarska zarzuca wiceminister zdrowia Katarzynie Kęckiej brak dialogu z samorządem lekarskim oraz zachęcanie izb lekarskich do łamania obowiązujących przepisów. W związku z tym Rada zapowiedziała złożenie wniosku dzisiaj do Kancelarii Premiera o jej odwołanie.",
+      "originalTitle": "Samorząd lekarski domaga się dymisji wiceministry zdrowia",
+      "originalDescription": "Naczelna Rada Lekarska zarzuca wiceminister zdrowia Katarzynie Kęckiej brak dialogu z samorządem lekarskim oraz zachęcanie izb lekarskich do łamania obowiązujących przepisów. W związku z tym Rada zapowiedziała złożenie wniosku dzisiaj do Kancelarii Premiera o jej odwołanie."
+    },
+    {
+      "title": "Ataki dronów w Rosji. Zełenski: celem była kluczowa rafineria",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ataki-dronow-w-rosji-zelenski-celem-byla-kluczowa-rafineria-w-jaroslawiu-st9037331?source=rss",
+      "pubDate": "Fri, 08 May 2026 07:30:22 GMT",
+      "description": "Rosja ponownie znalazła się pod ostrzałem dronów. Wołodymyr Zełenski przekazał, że celem ataku była jedna z najważniejszych rosyjskich rafinerii w Jarosławiu. Według ukraińskich mediów naloty objęły także Moskwę i Rostów nad Donem.",
+      "originalTitle": "Ataki dronów w Rosji. Zełenski: celem była kluczowa rafineria",
+      "originalDescription": "Rosja ponownie znalazła się pod ostrzałem dronów. Wołodymyr Zełenski przekazał, że celem ataku była jedna z najważniejszych rosyjskich rafinerii w Jarosławiu. Według ukraińskich mediów naloty objęły także Moskwę i Rostów nad Donem."
+    },
+    {
+      "title": "Szok energetyczny. Wysokie ceny coraz silniej przenikają do gospodarki",
+      "link": "https://tvn24.pl/biznes/z-kraju/raport-pie-szok-energetyczny-wysokie-ceny-coraz-silniej-przenikaja-do-gospodarki-st9037263?source=rss",
+      "pubDate": "Fri, 08 May 2026 07:17:53 GMT",
+      "description": "Drogą energię zaczynamy odczuwać nie tylko na rachunkach. Jak wskazuje Polski Instytut Ekonomiczny, szok energetyczny utrudnia dziś obniżki stóp procentowych i coraz wyraźniej wpływa na inne ceny w gospodarce.",
+      "originalTitle": "Szok energetyczny. Wysokie ceny coraz silniej przenikają do gospodarki",
+      "originalDescription": "Drogą energię zaczynamy odczuwać nie tylko na rachunkach. Jak wskazuje Polski Instytut Ekonomiczny, szok energetyczny utrudnia dziś obniżki stóp procentowych i coraz wyraźniej wpływa na inne ceny w gospodarce."
+    },
+    {
+      "title": "Ktoś zabił jeża kostką brukową. Policja szuka sprawcy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wiskitki-jez-zabity-kostka-brukowa-st9037327?source=rss",
+      "pubDate": "Fri, 08 May 2026 07:09:09 GMT",
+      "description": "Policja szuka osoby, która kilka dni w w Wiskitkach (Mazowieckie) temu zabiła jeża kostką brukową.",
+      "originalTitle": "Ktoś zabił jeża kostką brukową. Policja szuka sprawcy",
+      "originalDescription": "Policja szuka osoby, która kilka dni w w Wiskitkach (Mazowieckie) temu zabiła jeża kostką brukową."
+    },
+    {
+      "title": "Bonnie Tyler w stanie śpiączki farmakologicznej po pilnej operacji",
+      "link": "https://tvn24.pl/kultura-i-styl/muzyka-bonnie-tyler-w-stanie-spiaczki-farmakologicznej-po-operacji-w-portugalii-st9037240?source=rss",
+      "pubDate": "Fri, 08 May 2026 06:44:51 GMT",
+      "description": "Lekarze wprowadzili Bonnie Tyler w stan śpiączki farmakologicznej - informuje rzecznik brytyjskiej piosenkarki. Jak podkreśla, ma to pomóc w jej powrocie do zdrowia po pilnej operacji w portugalskim szpitalu.",
+      "originalTitle": "Bonnie Tyler w stanie śpiączki farmakologicznej po pilnej operacji",
+      "originalDescription": "Lekarze wprowadzili Bonnie Tyler w stan śpiączki farmakologicznej - informuje rzecznik brytyjskiej piosenkarki. Jak podkreśla, ma to pomóc w jej powrocie do zdrowia po pilnej operacji w portugalskim szpitalu."
+    },
+    {
+      "title": "W tych rejonach będzie niespokojnie. Są alarmy IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-ostrzezenia-imgw-w-piatek-8-maja-w-tych-rejonach-bedzie-niespokojnie-sa-alarmy-imgw-st9037191?source=rss",
+      "pubDate": "Fri, 08 May 2026 04:38:05 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami. W części kraju wydano żółte alarmy. Z prognozy zagrożeń wynika, że w kolejnych dniach aura również będzie niespokojna.",
+      "originalTitle": "W tych rejonach będzie niespokojnie. Są alarmy IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami. W części kraju wydano żółte alarmy. Z prognozy zagrożeń wynika, że w kolejnych dniach aura również będzie niespokojna."
+    },
+    {
+      "title": "Tysiące przedsiębiorców nie reguluje rat. KRD alarmuje",
+      "link": "https://tvn24.pl/biznes/pieniadze/krajowy-rejestr-dlugow-tysiace-przedsiebiorcow-nie-reguluje-rat-leasingowych-st9037223?source=rss",
+      "pubDate": "Fri, 08 May 2026 06:22:03 GMT",
+      "description": "Ponad 13 tysięcy przedsiębiorstw korzystających z leasingu nie reguluje rat w terminie - wynika z danych Krajowego Rejestru Długów. Przeważają wśród nich jednoosobowe działalności gospodarcze. - Przedsiębiorcy, którzy dopiero zaczynają działalność, powinni dobrze przemyśleć, czy nowy, drogi samochód rzeczywiście jest im niezbędny - podkreśla Mateusz Lasota z Kaczmarski Inkasso.",
+      "originalTitle": "Tysiące przedsiębiorców nie reguluje rat. KRD alarmuje",
+      "originalDescription": "Ponad 13 tysięcy przedsiębiorstw korzystających z leasingu nie reguluje rat w terminie - wynika z danych Krajowego Rejestru Długów. Przeważają wśród nich jednoosobowe działalności gospodarcze. - Przedsiębiorcy, którzy dopiero zaczynają działalność, powinni dobrze przemyśleć, czy nowy, drogi samochód rzeczywiście jest im niezbędny - podkreśla Mateusz Lasota z Kaczmarski Inkasso."
+    },
+    {
+      "title": "Ministra zdrowia zapowiada limity dla szpitali. Chodzi o pensje",
+      "link": "https://tvn24.pl/polska/ministra-zdrowia-zapowiada-limity-dla-szpitali-chodzi-o-pensje-st9037220?source=rss",
+      "pubDate": "Fri, 08 May 2026 06:12:51 GMT",
+      "description": "Przymierzamy się, aby określić procentowo granice budżetu szpitali, który przeznaczony będzie na pensje pracowników - zapowiedziała ministra zdrowia Jolanta Sobierańska-Grenda w \"Jeden na jeden\" w TVN24.",
+      "originalTitle": "Ministra zdrowia zapowiada limity dla szpitali. Chodzi o pensje",
+      "originalDescription": "Przymierzamy się, aby określić procentowo granice budżetu szpitali, który przeznaczony będzie na pensje pracowników - zapowiedziała ministra zdrowia Jolanta Sobierańska-Grenda w \"Jeden na jeden\" w TVN24."
+    },
+    {
+      "title": "Zakątek nurogęsi. Ich wędrówki Warszawa śledzi z zapartym tchem",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-powstal-zakatek-nurogesi-st9036935?source=rss",
+      "pubDate": "Fri, 08 May 2026 06:11:18 GMT",
+      "description": "Nurogęsi doczekały się skwerku własnego imienia. Przestrzeń inspirowana czubatymi bohaterkami wiosny powstała na trasie, którą ptaki pokonują w drodze z Łazienek Królewskich do Wisły.",
+      "originalTitle": "Zakątek nurogęsi. Ich wędrówki Warszawa śledzi z zapartym tchem",
+      "originalDescription": "Nurogęsi doczekały się skwerku własnego imienia. Przestrzeń inspirowana czubatymi bohaterkami wiosny powstała na trasie, którą ptaki pokonują w drodze z Łazienek Królewskich do Wisły."
+    },
+    {
+      "title": "Miał być ministrem sprawiedliwości na Węgrzech. Rezygnuje",
+      "link": "https://tvn24.pl/swiat/szwagier-petera-magyara-oglosil-rezygnacje-mial-byc-ministrem-sprawiedliwosci-na-wegrzech-st9037170?source=rss",
+      "pubDate": "Fri, 08 May 2026 06:03:00 GMT",
+      "description": "Główny prawnik partii TISZA Marton Mellethei-Barna poinformował w czwartek na Facebooku, że rezygnuje z ubiegania się o stanowisko ministra sprawiedliwości przez związki rodzinne z przyszłym szefem rządu. Mellethei-Barna jest szwagrem przyszłego premiera Węgier Petera Magyara.",
+      "originalTitle": "Miał być ministrem sprawiedliwości na Węgrzech. Rezygnuje",
+      "originalDescription": "Główny prawnik partii TISZA Marton Mellethei-Barna poinformował w czwartek na Facebooku, że rezygnuje z ubiegania się o stanowisko ministra sprawiedliwości przez związki rodzinne z przyszłym szefem rządu. Mellethei-Barna jest szwagrem przyszłego premiera Węgier Petera Magyara."
+    }
+  ]
 }
