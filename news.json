@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-09T11:20:18.299Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-09T11:48:08.640Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "W lesie znaleźli ponad tonę niewybuchów",
+      "link": "https://tvn24.pl/szczecin/karlino-ponad-tona-niewybuchow-odkryta-w-lasach-st9039402?source=rss",
+      "pubDate": "Sat, 09 May 2026 11:36:33 GMT",
+      "description": "Ponad tonę niewybuchów z okresu II wojny światowej znaleziono w lasach w okolicach Rościna i Karlina (Zachodniopomorskie). Saperzy przetransportowali je na poligon, gdzie zostaną bezpiecznie zdetonowane.",
+      "originalTitle": "W lesie znaleźli ponad tonę niewybuchów",
+      "originalDescription": "Ponad tonę niewybuchów z okresu II wojny światowej znaleziono w lasach w okolicach Rościna i Karlina (Zachodniopomorskie). Saperzy przetransportowali je na poligon, gdzie zostaną bezpiecznie zdetonowane."
+    },
+    {
+      "title": "Nastolatek zaginiony w Holandii odnaleziony pod Białymstokiem",
+      "link": "https://tvn24.pl/bialystok/nastolatek-zaginiony-w-holandii-odnaleziony-pod-bialymstokiem-st9039428?source=rss",
+      "pubDate": "Sat, 09 May 2026 11:22:58 GMT",
+      "description": "14-letniego Maxima, który 18 kwietnia zaginął w Holandii, odnaleźli białostoccy policjanci. Spał na przystanku. Do Polski już jadą jego rodzice.",
+      "originalTitle": "Nastolatek zaginiony w Holandii odnaleziony pod Białymstokiem",
+      "originalDescription": "14-letniego Maxima, który 18 kwietnia zaginął w Holandii, odnaleźli białostoccy policjanci. Spał na przystanku. Do Polski już jadą jego rodzice."
+    },
+    {
+      "title": "Co z ewakuacją wycieczkowca? Hiszpańskie władze o szczegółach operacji",
+      "link": "https://tvn24.pl/swiat/ministra-zdrowia-hiszpanii-wycieczkowiec-gdzie-zostal-wykryty-hantawirus-przyplynie-do-portu-w-niedziele-st9039320?source=rss",
+      "pubDate": "Sat, 09 May 2026 11:11:21 GMT",
+      "description": "Statek, na którego pokładzie wykryto ognisko hantawirusa, przypłynie do portu w niedzielę po południu - poinformowała hiszpańska ministra zdrowia. Z kolei szef resortu spraw wewnętrznych przekazał szczegóły dotyczące ewakuacji części pasażerów z Hiszpanii.",
+      "originalTitle": "Co z ewakuacją wycieczkowca? Hiszpańskie władze o szczegółach operacji",
+      "originalDescription": "Statek, na którego pokładzie wykryto ognisko hantawirusa, przypłynie do portu w niedzielę po południu - poinformowała hiszpańska ministra zdrowia. Z kolei szef resortu spraw wewnętrznych przekazał szczegóły dotyczące ewakuacji części pasażerów z Hiszpanii."
+    },
+    {
+      "title": "Alarmy IMGW dla ponad połowy województw",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-przymrozki-prognoza-zagrozen-imgw-co-szykuje-dla-nas-pogoda-st9038728?source=rss",
+      "pubDate": "Sat, 09 May 2026 04:35:00 GMT",
+      "description": "Pogoda w Polsce. IMGW ostrzega przed przymrozkami - w nocy temperatura przy gruncie może lokalnie spadać do -4 stopni Celsjusza. Kolejne dni mają natomiast przynieść burze.",
+      "originalTitle": "Alarmy IMGW dla ponad połowy województw",
+      "originalDescription": "Pogoda w Polsce. IMGW ostrzega przed przymrozkami - w nocy temperatura przy gruncie może lokalnie spadać do -4 stopni Celsjusza. Kolejne dni mają natomiast przynieść burze."
+    },
+    {
+      "title": "Ryanair tnie koszty. Mniej połączeń i zamknięcie bazy",
+      "link": "https://tvn24.pl/biznes/turystyka/grecja-ryanair-tnie-koszty-mniej-polaczen-i-zamkniecie-bazy-st9039338?source=rss",
+      "pubDate": "Sat, 09 May 2026 10:57:39 GMT",
+      "description": "Ryanair ogłosił, że tej zimy zamknie swoją bazę operacyjną na lotnisku w Salonikach oraz ograniczy liczbę lotów do i z tego miasta. Decyzja ma związek z podniesieniem opłat lotniskowych przez operatora portu - przekazał Reuters. Z bazy zostaną wycofane trzy samoloty, co przełoży się na redukcję o 500 tysięcy miejsc i likwidację dziesięciu tras w sezonie zimowym.",
+      "originalTitle": "Ryanair tnie koszty. Mniej połączeń i zamknięcie bazy",
+      "originalDescription": "Ryanair ogłosił, że tej zimy zamknie swoją bazę operacyjną na lotnisku w Salonikach oraz ograniczy liczbę lotów do i z tego miasta. Decyzja ma związek z podniesieniem opłat lotniskowych przez operatora portu - przekazał Reuters. Z bazy zostaną wycofane trzy samoloty, co przełoży się na redukcję o 500 tysięcy miejsc i likwidację dziesięciu tras w sezonie zimowym."
+    },
+    {
+      "title": "Znaleźli drona przy granicy z Rosją. Żandarmeria: prawdopodobnie wojskowy",
+      "link": "https://tvn24.pl/olsztyn/bartoszyce-dron-znaleziony-przy-polsko-rosyjskiej-granicy-st9039316?source=rss",
+      "pubDate": "Sat, 09 May 2026 10:36:41 GMT",
+      "description": "Przy granicy z Obwodem Królewieckim znaleziono drona. \"Prawdopodobnie to dron pochodzenia wojskowego, przeznaczony do obserwacji, nie posiadający cech bojowych\" - poinformował w komunikacie rzecznik prasowy komendanta głównego Żandarmerii Wojskowej ppłk Dariusz Rozkosz.",
+      "originalTitle": "Znaleźli drona przy granicy z Rosją. Żandarmeria: prawdopodobnie wojskowy",
+      "originalDescription": "Przy granicy z Obwodem Królewieckim znaleziono drona. \"Prawdopodobnie to dron pochodzenia wojskowego, przeznaczony do obserwacji, nie posiadający cech bojowych\" - poinformował w komunikacie rzecznik prasowy komendanta głównego Żandarmerii Wojskowej ppłk Dariusz Rozkosz."
+    },
+    {
+      "title": "Jaśkowiak chciał się go pozbyć. Wraca z nowym pomysłem",
+      "link": "https://tvn24.pl/poznan/jaskowiak-chcial-sie-go-pozbyc-wraca-z-nowym-pomyslem-st9038369?source=rss",
+      "pubDate": "Sat, 09 May 2026 10:35:11 GMT",
+      "description": "Mariusz Wiśniewski, były zastępca prezydenta Poznania, założył stowarzyszenie Poznań Jutra. Inicjatywa ma być ponadpolityczna, choć na razie tworzą ją głównie osoby z Koalicji Obywatelskiej.",
+      "originalTitle": "Jaśkowiak chciał się go pozbyć. Wraca z nowym pomysłem",
+      "originalDescription": "Mariusz Wiśniewski, były zastępca prezydenta Poznania, założył stowarzyszenie Poznań Jutra. Inicjatywa ma być ponadpolityczna, choć na razie tworzą ją głównie osoby z Koalicji Obywatelskiej."
+    },
+    {
+      "title": "Gortat w nowej roli. \"42 lata na karku i człowiek nadal się uczy\"",
+      "link": "https://tvn24.pl/25-lat-TVN24/gortat-w-nowej-roli-42-lata-na-karku-i-czlowiek-nadal-sie-uczy-st9039163?source=rss",
+      "pubDate": "Sat, 09 May 2026 10:33:45 GMT",
+      "description": "Marcin Gortat, były reprezentant Polski, jedyny Polak w historii NBA, który awansował do jej finału, opowiada o swojej nowej roli. \"Zwracam uwagę na wszystko, co mówię, co robię\" - podkreśla koszykarz, który był jednym z gości podczas spotkania w Łodzi z okazji urodzinowej trasy TVN24 \"Jesteśmy stąd\".",
+      "originalTitle": "Gortat w nowej roli. \"42 lata na karku i człowiek nadal się uczy\"",
+      "originalDescription": "Marcin Gortat, były reprezentant Polski, jedyny Polak w historii NBA, który awansował do jej finału, opowiada o swojej nowej roli. \"Zwracam uwagę na wszystko, co mówię, co robię\" - podkreśla koszykarz, który był jednym z gości podczas spotkania w Łodzi z okazji urodzinowej trasy TVN24 \"Jesteśmy stąd\"."
+    },
+    {
+      "title": "Z okien wydobywał się dym, w mieszkaniu znaleźli ciała dwóch osób",
+      "link": "https://tvn24.pl/olsztyn/szczytno-pozar-mieszkania-w-srodku-znaleziono-ciala-dwoch-osob-st9039303?source=rss",
+      "pubDate": "Sat, 09 May 2026 10:27:37 GMT",
+      "description": "Dwie osoby zginęły w pożarze mieszkania w budynku wielorodzinnym w Szczytnie (Warmińsko-mazurskie).",
+      "originalTitle": "Z okien wydobywał się dym, w mieszkaniu znaleźli ciała dwóch osób",
+      "originalDescription": "Dwie osoby zginęły w pożarze mieszkania w budynku wielorodzinnym w Szczytnie (Warmińsko-mazurskie)."
+    },
+    {
+      "title": "Myśleli, że to tornado. Czym jest zjawisko macroburst",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-mysleli-ze-to-tornado-czym-jest-zjawisko-macroburst-st9039225?source=rss",
+      "pubDate": "Sat, 09 May 2026 10:21:05 GMT",
+      "description": "Zjawisko macroburst spowodowało ogromne szkody w kilku miejscowościach w stanie Luizjana. Jak podały lokalne media, początkowo zostało ono uznane za tornado. Co to za zjawisko i jak powstaje?",
+      "originalTitle": "Myśleli, że to tornado. Czym jest zjawisko macroburst",
+      "originalDescription": "Zjawisko macroburst spowodowało ogromne szkody w kilku miejscowościach w stanie Luizjana. Jak podały lokalne media, początkowo zostało ono uznane za tornado. Co to za zjawisko i jak powstaje?"
+    }
+  ]
 }
