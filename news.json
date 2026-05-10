@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-10T16:47:45.559Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-10T17:22:36.584Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zderzenie pięciu aut na A2. Dwie osoby zostały ranne",
+      "link": "https://kontakt24.tvn24.pl/najnowsze/zderzenie-pieciu-aut-na-a2-dwie-osoby-zostaly-ranne-st9040912?source=rss",
+      "pubDate": "Sun, 10 May 2026 17:05:54 GMT",
+      "description": "Pięć samochodów zderzyło się na 419 kilometrze trasy A2 w pobliżu węzła Wiskitki w województwie mazowieckim, między Skierniewicami a Grodziskiem Mazowieckim. Do zdarzenia doszło w niedzielę około godz. 17.35.",
+      "originalTitle": "Zderzenie pięciu aut na A2. Dwie osoby zostały ranne",
+      "originalDescription": "Pięć samochodów zderzyło się na 419 kilometrze trasy A2 w pobliżu węzła Wiskitki w województwie mazowieckim, między Skierniewicami a Grodziskiem Mazowieckim. Do zdarzenia doszło w niedzielę około godz. 17.35."
+    },
+    {
+      "title": "Media: Izrael utworzył tajną bazę na terenie Iraku. Za jej pomocą pomagał USA",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-tajna-baza-izraela-w-iraku-st9040822?source=rss",
+      "pubDate": "Sun, 10 May 2026 16:43:35 GMT",
+      "description": "Izrael miał utworzyć na terenie Iraku tajną bazę wspierającą operację przeciw Iranowi - przekazał \"Wall Street Journal\". Iracki parlament miał wezwać ministrów do złożenia wyjaśnień w tej sprawie. Irańskie media państwowe podały z kolei, że Teheran przekazał USA odpowiedź na propozycję porozumienia pokojowego.",
+      "originalTitle": "Media: Izrael utworzył tajną bazę na terenie Iraku. Za jej pomocą pomagał USA",
+      "originalDescription": "Izrael miał utworzyć na terenie Iraku tajną bazę wspierającą operację przeciw Iranowi - przekazał \"Wall Street Journal\". Iracki parlament miał wezwać ministrów do złożenia wyjaśnień w tej sprawie. Irańskie media państwowe podały z kolei, że Teheran przekazał USA odpowiedź na propozycję porozumienia pokojowego."
+    },
+    {
+      "title": "Piorun trafił nastolatka łowiącego ryby",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-teksas-piorun-trafil-nastolatka-lowiacego-ryby-st9040861?source=rss",
+      "pubDate": "Sun, 10 May 2026 16:15:09 GMT",
+      "description": "Piorun poraził nastolatka, który łowił ryby nad rzeką w Teksasie. Na miejsce zdarzenia przybyła straż pożarna, która zaopiekowała się chłopakiem. Służby przybliżyły okoliczności zdarzenia.",
+      "originalTitle": "Piorun trafił nastolatka łowiącego ryby",
+      "originalDescription": "Piorun poraził nastolatka, który łowił ryby nad rzeką w Teksasie. Na miejsce zdarzenia przybyła straż pożarna, która zaopiekowała się chłopakiem. Służby przybliżyły okoliczności zdarzenia."
+    },
+    {
+      "title": "Nastolatek z Holandii znaleziony pod Białymstokiem znów uciekł",
+      "link": "https://tvn24.pl/polska/nastolatek-z-holandii-znaleziony-pod-bialymstokiem-znow-uciekl-st9040853?source=rss",
+      "pubDate": "Sun, 10 May 2026 15:55:30 GMT",
+      "description": "W sobotę policja poinformowała, że 15-latek z Holandii - poszukiwany w swoim kraju jako osoba zaginiona - odnalazł się pod Białymstokiem. W niedzielę uciekł, ale już wrócił. Funkcjonariusze nie informują, czemu doszło do ucieczki.",
+      "originalTitle": "Nastolatek z Holandii znaleziony pod Białymstokiem znów uciekł",
+      "originalDescription": "W sobotę policja poinformowała, że 15-latek z Holandii - poszukiwany w swoim kraju jako osoba zaginiona - odnalazł się pod Białymstokiem. W niedzielę uciekł, ale już wrócił. Funkcjonariusze nie informują, czemu doszło do ucieczki."
+    },
+    {
+      "title": "Nadchodzi deszczowy tydzień. Kiedy i gdzie popada najmocniej",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-deszcz-opady-burze-nadchodzi-deszczowy-tydzien-kiedy-i-gdzie-popada-najmocniej-st9040830?source=rss",
+      "pubDate": "Sun, 10 May 2026 15:24:32 GMT",
+      "description": "Pogoda. Kolejny tydzień, za sprawą niżu, przyniesie opady. W wielu rejonach Polski nie obejdzie się bez burz, podczas których popada mocniej. Sprawdź, gdzie spodziewać się deszczu w nadchodzących dniach.",
+      "originalTitle": "Nadchodzi deszczowy tydzień. Kiedy i gdzie popada najmocniej",
+      "originalDescription": "Pogoda. Kolejny tydzień, za sprawą niżu, przyniesie opady. W wielu rejonach Polski nie obejdzie się bez burz, podczas których popada mocniej. Sprawdź, gdzie spodziewać się deszczu w nadchodzących dniach."
+    },
+    {
+      "title": "Wyrwała pieniądze z rąk oszusta i wypchnęła go z domu",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-oszukiwali-seniorow-metoda-na-policjanta-trzy-osoby-zatrzymane-st9040223?source=rss",
+      "pubDate": "Sun, 10 May 2026 15:01:24 GMT",
+      "description": "Gdańscy seniorzy przekazywali oszczędności fałszywym policjantom, przekonani, że chronią swoje pieniądze przed przestępcami. W sprawie zatrzymano trzy osoby, które decyzją sądu trafiły do aresztu.",
+      "originalTitle": "Wyrwała pieniądze z rąk oszusta i wypchnęła go z domu",
+      "originalDescription": "Gdańscy seniorzy przekazywali oszczędności fałszywym policjantom, przekonani, że chronią swoje pieniądze przed przestępcami. W sprawie zatrzymano trzy osoby, które decyzją sądu trafiły do aresztu."
+    },
+    {
+      "title": "Hantawirus na wycieczkowcu. Pierwsi pasażerowie odlecieli do swoich krajów",
+      "link": "https://tvn24.pl/swiat/hantawirus-na-wycieczkowcu-pierwsi-pasazerowie-odlecieli-do-swoich-krajow-st9040042?source=rss",
+      "pubDate": "Sun, 10 May 2026 05:28:34 GMT",
+      "description": "W niedzielę rano na Teneryfę dotarł wycieczkowiec MV Hondius, na którego pokładzie wykryto zakażenie hantawirusem. Pierwsi pasażerowie odlecieli już do swoich krajów. Na miejscu jest reporter TVN24 Artur Molęda.",
+      "originalTitle": "Hantawirus na wycieczkowcu. Pierwsi pasażerowie odlecieli do swoich krajów",
+      "originalDescription": "W niedzielę rano na Teneryfę dotarł wycieczkowiec MV Hondius, na którego pokładzie wykryto zakażenie hantawirusem. Pierwsi pasażerowie odlecieli już do swoich krajów. Na miejscu jest reporter TVN24 Artur Molęda."
+    },
+    {
+      "title": "Trzymali się nawzajem. Służby znalazły ich ciała",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/erupcja-wulkanu-dukono-w-indonezji-odnaleziono-ciala-zaginionych-turystow-caly-czas-trwa-erupcja-st9040062?source=rss",
+      "pubDate": "Sun, 10 May 2026 06:37:34 GMT",
+      "description": "Indonezyjskie władze poinformowały w niedzielę o odnalezieniu ciał dwóch obywateli Singapuru poszukiwanych po erupcji wulkanu Dukono. Wcześniej, w sobotę, służby zlokalizowały ciało trzeciej ofiary żywioły. Akcję poszukiwawczo-ratowniczą utrudniała aktywność wulkanu oraz pogoda.",
+      "originalTitle": "Trzymali się nawzajem. Służby znalazły ich ciała",
+      "originalDescription": "Indonezyjskie władze poinformowały w niedzielę o odnalezieniu ciał dwóch obywateli Singapuru poszukiwanych po erupcji wulkanu Dukono. Wcześniej, w sobotę, służby zlokalizowały ciało trzeciej ofiary żywioły. Akcję poszukiwawczo-ratowniczą utrudniała aktywność wulkanu oraz pogoda."
+    },
+    {
+      "title": "Berkowicz komentuje oświetlenie Pałacu Kultury. \"Elementarny brak wiedzy\"",
+      "link": "https://konkret24.tvn24.pl/polityka/berkowicz-komentuje-oswietlenie-palacu-kultury-elementarny-brak-wiedzy-st9040219?source=rss",
+      "pubDate": "Sun, 10 May 2026 14:14:07 GMT",
+      "description": "Według Konrada Berkowicza stolica uczciła podpisanie umowy SAFE, wyświetlając europejską symbolikę na Pałacu Kultury i Nauki. Internauci ironizowali: \"Symbol nowego komunizmu na symbolu starego komunizmu\". Tylko że sugestia posła Konfederacji była fałszywa.",
+      "originalTitle": "Berkowicz komentuje oświetlenie Pałacu Kultury. \"Elementarny brak wiedzy\"",
+      "originalDescription": "Według Konrada Berkowicza stolica uczciła podpisanie umowy SAFE, wyświetlając europejską symbolikę na Pałacu Kultury i Nauki. Internauci ironizowali: \"Symbol nowego komunizmu na symbolu starego komunizmu\". Tylko że sugestia posła Konfederacji była fałszywa."
+    },
+    {
+      "title": "\"Stolicę Polski na parę dni przenosimy do Poznania\". Wkrótce Impact'26",
+      "link": "https://tvn24.pl/polska/konferencja-impact-26-szef-rady-programowej-ujawnil-szczegoly-i-gosci-st9040505?source=rss",
+      "pubDate": "Sun, 10 May 2026 14:01:26 GMT",
+      "description": "Będą wszyscy liderzy gospodarczy największych spółek sektora prywatnego, publicznego, szefowie Orlenu, szefowie banków największych, ale też będzie plejada najwybitniejszych intelektualistów światowych - zapowiedział w TVN24 Sławomir Sierakowski, który pełni funkcję szefa rady programowej tegorocznej konferencji Impact w Poznaniu. Zdradził też tematy i nazwiska gości tego wydarzenia.",
+      "originalTitle": "\"Stolicę Polski na parę dni przenosimy do Poznania\". Wkrótce Impact'26",
+      "originalDescription": "Będą wszyscy liderzy gospodarczy największych spółek sektora prywatnego, publicznego, szefowie Orlenu, szefowie banków największych, ale też będzie plejada najwybitniejszych intelektualistów światowych - zapowiedział w TVN24 Sławomir Sierakowski, który pełni funkcję szefa rady programowej tegorocznej konferencji Impact w Poznaniu. Zdradził też tematy i nazwiska gości tego wydarzenia."
+    }
+  ]
 }
