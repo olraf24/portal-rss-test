@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-10T20:18:32.203Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-10T20:47:33.612Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Żurek dla TVN24: mieliśmy informacje, które nas uspokajały",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-ktos-w-usa-ziobrze-pomogl-st9040960?source=rss",
+      "pubDate": "Sun, 10 May 2026 18:33:55 GMT",
+      "description": "Najpierw chcę mieć pewność, że Zbigniew Ziobro zagościł na stałe w Stanach Zjednoczonych - powiedział minister sprawiedliwości Waldemar Żurek. Tak przekazał w rozmowie z Radomirem Witem, która została wyemitowana w programie \"W kuluarach\" TVN24. Żurek mówił też, że resort otrzymywał \"uspokajające\" informacje z USA, że \"nie chcą pomagać Ziobrze\".",
+      "originalTitle": "Żurek dla TVN24: mieliśmy informacje, które nas uspokajały",
+      "originalDescription": "Najpierw chcę mieć pewność, że Zbigniew Ziobro zagościł na stałe w Stanach Zjednoczonych - powiedział minister sprawiedliwości Waldemar Żurek. Tak przekazał w rozmowie z Radomirem Witem, która została wyemitowana w programie \"W kuluarach\" TVN24. Żurek mówił też, że resort otrzymywał \"uspokajające\" informacje z USA, że \"nie chcą pomagać Ziobrze\"."
+    },
+    {
+      "title": "Najpierw przymrozki, potem burze, ulewy i silny wiatr. Prognoza zagrożeń IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/przymrozki-imgw-wydal-ostrzezenia-10-05-11-05-co-szykuje-dla-nas-pogoda-st9038728?source=rss",
+      "pubDate": "Sun, 10 May 2026 05:02:00 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed przymrozkami. Zgodnie z prognozami specjalistów w kolejnych dnia pogoda może być groźna także w kolejnych dniach. Czego się spodziewać?",
+      "originalTitle": "Najpierw przymrozki, potem burze, ulewy i silny wiatr. Prognoza zagrożeń IMGW",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia przed przymrozkami. Zgodnie z prognozami specjalistów w kolejnych dnia pogoda może być groźna także w kolejnych dniach. Czego się spodziewać?"
+    },
+    {
+      "title": "Zderzenie pięciu aut na A2. Trzy osoby zostały ranne",
+      "link": "https://kontakt24.tvn24.pl/najnowsze/zderzenie-pieciu-aut-na-a2-trzy-osoby-zostaly-ranne-st9040912?source=rss",
+      "pubDate": "Sun, 10 May 2026 17:05:54 GMT",
+      "description": "Pięć samochodów zderzyło się na 419 kilometrze trasy A2 w pobliżu węzła Wiskitki w województwie mazowieckim. Do zdarzenia doszło w niedzielę około godz. 17.35.",
+      "originalTitle": "Zderzenie pięciu aut na A2. Trzy osoby zostały ranne",
+      "originalDescription": "Pięć samochodów zderzyło się na 419 kilometrze trasy A2 w pobliżu węzła Wiskitki w województwie mazowieckim. Do zdarzenia doszło w niedzielę około godz. 17.35."
+    },
+    {
+      "title": "Nie zobaczą zachodu słońca przez prawie trzy miesiące",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/alaska-nie-zobacza-zachodu-slonca-przez-prawie-trzy-miesiace-st9040951?source=rss",
+      "pubDate": "Sun, 10 May 2026 18:42:45 GMT",
+      "description": "Najdalej wysunięte na północ miasto USA nie doświadczy zachodu słońca przez 83 dni. Po niedzielnym wschodzie słońca mieszkańcy będą cały czas widzieć naszą gwiazdę aż do początku sierpnia.",
+      "originalTitle": "Nie zobaczą zachodu słońca przez prawie trzy miesiące",
+      "originalDescription": "Najdalej wysunięte na północ miasto USA nie doświadczy zachodu słońca przez 83 dni. Po niedzielnym wschodzie słońca mieszkańcy będą cały czas widzieć naszą gwiazdę aż do początku sierpnia."
+    },
+    {
+      "title": "Ziobro potwierdza: wczoraj przyleciałem",
+      "link": "https://tvn24.pl/swiat/zbigniew-ziobro-potwierdza-gdzie-jest-wczoraj-przylecialem-st9040967?source=rss",
+      "pubDate": "Sun, 10 May 2026 18:26:17 GMT",
+      "description": "Zbigniew Ziobro - w rozmowie ze sprzyjającą mu Telewizją Republika - potwierdził miejsce swojego pobytu. Posła PiS na lotnisku Newark w New Jersey w USA widział internauta Kontaktu24.",
+      "originalTitle": "Ziobro potwierdza: wczoraj przyleciałem",
+      "originalDescription": "Zbigniew Ziobro - w rozmowie ze sprzyjającą mu Telewizją Republika - potwierdził miejsce swojego pobytu. Posła PiS na lotnisku Newark w New Jersey w USA widział internauta Kontaktu24."
+    },
+    {
+      "title": "Hantawirus na wycieczkowcu. Pierwsi pasażerowie odlecieli do swoich krajów",
+      "link": "https://tvn24.pl/swiat/hantawirus-na-wycieczkowcu-pierwsi-pasazerowie-odlecieli-do-swoich-krajow-st9040042?source=rss",
+      "pubDate": "Sun, 10 May 2026 05:28:34 GMT",
+      "description": "W niedzielę rano na Teneryfę dotarł wycieczkowiec MV Hondius, na którego pokładzie wykryto zakażenie hantawirusem. Pierwsi pasażerowie odlecieli już do swoich krajów. Francja poinformowała, że jeden z obywateli tego kraju podczas lotu do domu wykazywał objawy. Został objęty izolacją wraz z innymi pasażerami.",
+      "originalTitle": "Hantawirus na wycieczkowcu. Pierwsi pasażerowie odlecieli do swoich krajów",
+      "originalDescription": "W niedzielę rano na Teneryfę dotarł wycieczkowiec MV Hondius, na którego pokładzie wykryto zakażenie hantawirusem. Pierwsi pasażerowie odlecieli już do swoich krajów. Francja poinformowała, że jeden z obywateli tego kraju podczas lotu do domu wykazywał objawy. Został objęty izolacją wraz z innymi pasażerami."
+    },
+    {
+      "title": "Pogoda na jutro - poniedziałek, 11.05. Jednym noc da lekki mróz, innym prawie 10 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-11-05-jednym-noc-da-lekki-mroz-innym-prawie-10-stopni-st9040893?source=rss",
+      "pubDate": "Sun, 10 May 2026 17:30:05 GMT",
+      "description": "Pogoda na jutro, czyli na poniedziałek, 11.05. Nocą przyniesie różną temperaturę w poszczególnych częściach kraju. Miejscami złapie lekki mróz, ale będą też rejony, gdzie termometry pokażą prawie 10 stopni. W poniedziałek przez kraj przetoczy się strefa opadów.",
+      "originalTitle": "Pogoda na jutro - poniedziałek, 11.05. Jednym noc da lekki mróz, innym prawie 10 stopni",
+      "originalDescription": "Pogoda na jutro, czyli na poniedziałek, 11.05. Nocą przyniesie różną temperaturę w poszczególnych częściach kraju. Miejscami złapie lekki mróz, ale będą też rejony, gdzie termometry pokażą prawie 10 stopni. W poniedziałek przez kraj przetoczy się strefa opadów."
+    },
+    {
+      "title": "Zbigniew Ziobro widziany w USA. Waldemar Żurek: zapytamy Węgrów i Amerykanów o podstawy prawne",
+      "link": "https://tvn24.pl/polska/zbigniew-ziobro-widziany-w-usa-minister-sprawiedliwosci-zapowiada-kolejny-krok-st9040514?source=rss",
+      "pubDate": "Sun, 10 May 2026 11:23:14 GMT",
+      "description": "Minister sprawiedliwości Waldemar Żurek zapowiedział, że wystąpi o ekstradycję Zbigniewa Ziobry. Ministerstwo Spraw Zagranicznych wesprze te wysiłki. Rząd zwróci się też do władz USA i Węgier z pytaniami o podstawy prawne, które umożliwiły byłemu szefowi MS wylecieć do Ameryki.",
+      "originalTitle": "Zbigniew Ziobro widziany w USA. Waldemar Żurek: zapytamy Węgrów i Amerykanów o podstawy prawne",
+      "originalDescription": "Minister sprawiedliwości Waldemar Żurek zapowiedział, że wystąpi o ekstradycję Zbigniewa Ziobry. Ministerstwo Spraw Zagranicznych wesprze te wysiłki. Rząd zwróci się też do władz USA i Węgier z pytaniami o podstawy prawne, które umożliwiły byłemu szefowi MS wylecieć do Ameryki."
+    },
+    {
+      "title": "Media: Izrael utworzył tajną bazę na terenie Iraku. Za jej pomocą pomagał USA",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-tajna-baza-izraela-w-iraku-st9040822?source=rss",
+      "pubDate": "Sun, 10 May 2026 16:43:35 GMT",
+      "description": "Izrael miał utworzyć na terenie Iraku tajną bazę wspierającą operację przeciw Iranowi - przekazał \"Wall Street Journal\". Iracki parlament miał wezwać ministrów do złożenia wyjaśnień w tej sprawie. Irańskie media państwowe podały z kolei, że Teheran przekazał USA odpowiedź na propozycję porozumienia pokojowego.",
+      "originalTitle": "Media: Izrael utworzył tajną bazę na terenie Iraku. Za jej pomocą pomagał USA",
+      "originalDescription": "Izrael miał utworzyć na terenie Iraku tajną bazę wspierającą operację przeciw Iranowi - przekazał \"Wall Street Journal\". Iracki parlament miał wezwać ministrów do złożenia wyjaśnień w tej sprawie. Irańskie media państwowe podały z kolei, że Teheran przekazał USA odpowiedź na propozycję porozumienia pokojowego."
+    },
+    {
+      "title": "Piorun trafił nastolatka łowiącego ryby",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-teksas-piorun-trafil-nastolatka-lowiacego-ryby-st9040861?source=rss",
+      "pubDate": "Sun, 10 May 2026 16:15:09 GMT",
+      "description": "Piorun poraził nastolatka, który łowił ryby nad rzeką w Teksasie. Na miejsce zdarzenia przybyła straż pożarna, która zaopiekowała się chłopakiem. Służby przybliżyły okoliczności zdarzenia.",
+      "originalTitle": "Piorun trafił nastolatka łowiącego ryby",
+      "originalDescription": "Piorun poraził nastolatka, który łowił ryby nad rzeką w Teksasie. Na miejsce zdarzenia przybyła straż pożarna, która zaopiekowała się chłopakiem. Służby przybliżyły okoliczności zdarzenia."
+    }
+  ]
 }
