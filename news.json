@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-11T18:41:51.853Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-11T19:35:55.780Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zerwane dachy, zalane drogi. Jest ofiara śmiertelna",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/rpa-burza-kapsztad-zerwane-dachy-zalane-drogi-jest-ofiara-smiertelna-st9042841?source=rss",
+      "pubDate": "Mon, 11 May 2026 19:28:51 GMT",
+      "description": "Nawałnica przetoczyła się przez Kapsztad, stolicę Republiki Południowej Afryki. Na skutek żywiołu zginęła co najmniej jedna osoba - poinformowali lokalni urzędnicy.",
+      "originalTitle": "Zerwane dachy, zalane drogi. Jest ofiara śmiertelna",
+      "originalDescription": "Nawałnica przetoczyła się przez Kapsztad, stolicę Republiki Południowej Afryki. Na skutek żywiołu zginęła co najmniej jedna osoba - poinformowali lokalni urzędnicy."
+    },
+    {
+      "title": "Kotula o Zondacrypto: afera PiS, prawicy i dużego pałacu",
+      "link": "https://tvn24.pl/biznes/z-kraju/kryptowaluty-kotula-o-zondacrypto-afera-pis-prawicy-i-duzego-palacu-st9042861?source=rss",
+      "pubDate": "Mon, 11 May 2026 19:24:06 GMT",
+      "description": "Afera przykleiła się do PiSu, próbujecie się od niej odkleić - powiedziała o kontrowersjach wokół giełdy kryptowalut Zondacrypto Katarzyna Kotula, pełnomocniczka rządu do spraw równości. Wraz z posłem PiS Piotrem Kaletą była gościnią programu \"Kropki nad i\" w TVN24.",
+      "originalTitle": "Kotula o Zondacrypto: afera PiS, prawicy i dużego pałacu",
+      "originalDescription": "Afera przykleiła się do PiSu, próbujecie się od niej odkleić - powiedziała o kontrowersjach wokół giełdy kryptowalut Zondacrypto Katarzyna Kotula, pełnomocniczka rządu do spraw równości. Wraz z posłem PiS Piotrem Kaletą była gościnią programu \"Kropki nad i\" w TVN24."
+    },
+    {
+      "title": "Były szef biura Zełenskiego podejrzany. W tle budowa luksusowej inwestycji",
+      "link": "https://tvn24.pl/swiat/andrij-jermak-byly-szef-biura-wolodymyra-zelenskiego-podejrzany-st9042860?source=rss",
+      "pubDate": "Mon, 11 May 2026 19:14:47 GMT",
+      "description": "Były szef Biura Prezydenta Ukrainy Andrij Jermak jest podejrzany o udział w zorganizowanej grupie przestępczej powiązanej z legalizacją 460 mln hrywien (37,6 mln złotych) - powiadomiła Specjalna Prokuratura Antykorupcyjna Ukrainy (SAP).",
+      "originalTitle": "Były szef biura Zełenskiego podejrzany. W tle budowa luksusowej inwestycji",
+      "originalDescription": "Były szef Biura Prezydenta Ukrainy Andrij Jermak jest podejrzany o udział w zorganizowanej grupie przestępczej powiązanej z legalizacją 460 mln hrywien (37,6 mln złotych) - powiadomiła Specjalna Prokuratura Antykorupcyjna Ukrainy (SAP)."
+    },
+    {
+      "title": "Zbieranie danych i uzależnianie użytkowników. Pozew przeciwko Netflixowi",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-pozew-o-rzekome-szpiegowanie-kiedy-ty-ogladasz-netfliksa-netflix-oglada-ciebie-st9042799?source=rss",
+      "pubDate": "Mon, 11 May 2026 18:34:40 GMT",
+      "description": "Prokurator generalny Teksasu Ken Paxton pozwał platformę Netflix, oskarżając ją o szpiegowanie użytkowników, w tym dzieci, poprzez zbieranie danych bez zgody - przekazał Reuters. Wśród oskarżeń pojawia się również projektowanie serwisu w sposób wywołujący uzależnienie.",
+      "originalTitle": "Zbieranie danych i uzależnianie użytkowników. Pozew przeciwko Netflixowi",
+      "originalDescription": "Prokurator generalny Teksasu Ken Paxton pozwał platformę Netflix, oskarżając ją o szpiegowanie użytkowników, w tym dzieci, poprzez zbieranie danych bez zgody - przekazał Reuters. Wśród oskarżeń pojawia się również projektowanie serwisu w sposób wywołujący uzależnienie."
+    },
+    {
+      "title": "Pogoda na jutro - wtorek, 12.05. Nocą pod znakiem opadów, lokalnie zagrzmi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-12-05-noca-pod-znakiem-opadow-lokalnie-zagrzmi-st9042735?source=rss",
+      "pubDate": "Mon, 11 May 2026 18:26:13 GMT",
+      "description": "Pogoda na jutro, czyli na wtorek, 12.05. W nocy przelotnie popada deszcz, miejscami spodziewane są też burze. Dzień przyniesie opady, które gdzieniegdzie będą intensywne.",
+      "originalTitle": "Pogoda na jutro - wtorek, 12.05. Nocą pod znakiem opadów, lokalnie zagrzmi",
+      "originalDescription": "Pogoda na jutro, czyli na wtorek, 12.05. W nocy przelotnie popada deszcz, miejscami spodziewane są też burze. Dzień przyniesie opady, które gdzieniegdzie będą intensywne."
+    },
+    {
+      "title": "Ziobry w Polsce nie ma, koledzy z partii mają problem. Sami twierdzą, że z kraju nie uciekną",
+      "link": "https://tvn24.pl/fakty-artykuly/ziobry-w-polsce-nie-ma-koledzy-z-partii-maja-problem-sami-twierdza-ze-z-kraju-nie-uciekna-st9042702?source=rss",
+      "pubDate": "Mon, 11 May 2026 18:17:55 GMT",
+      "description": "Prawo i Sprawiedliwość ma coraz większy problem ze Zbigniewem Ziobrą. Politycznie to temat, który coraz trudniej wytłumaczyć. Jednocześnie politycy PiS mówią, że ewentualnych zarzutów się nie boją i z kraju nie chcą uciekać.",
+      "originalTitle": "Ziobry w Polsce nie ma, koledzy z partii mają problem. Sami twierdzą, że z kraju nie uciekną",
+      "originalDescription": "Prawo i Sprawiedliwość ma coraz większy problem ze Zbigniewem Ziobrą. Politycznie to temat, który coraz trudniej wytłumaczyć. Jednocześnie politycy PiS mówią, że ewentualnych zarzutów się nie boją i z kraju nie chcą uciekać."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi, pada i mocno wieje",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-11-05-mapa-i-radar-burz-pojawily-sie-wyladowania-st9041628?source=rss",
+      "pubDate": "Mon, 11 May 2026 09:44:22 GMT",
+      "description": "Pogoda w Polsce. W poniedziałek, 11 maja, w kraju występują burze. Wyładowaniom towarzyszą opady deszczu oraz silny wiatr. Śledź sytuację pogodową na tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi, pada i mocno wieje",
+      "originalDescription": "Pogoda w Polsce. W poniedziałek, 11 maja, w kraju występują burze. Wyładowaniom towarzyszą opady deszczu oraz silny wiatr. Śledź sytuację pogodową na tvnmeteo.pl."
+    },
+    {
+      "title": "Polska uratuje niemiecką rafinerię? PERN gotowy do dostaw",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ropa-polska-uratuje-niemiecka-rafinerie-pern-gotowy-do-dostaw-st9042752?source=rss",
+      "pubDate": "Mon, 11 May 2026 18:05:28 GMT",
+      "description": "PERN ma możliwość szybkiego uruchomienia dostaw ropy naftowej do rafinerii Schwedt w Niemczech, z wykorzystaniem Naftoportu w Gdańsku, aby następnie transportować tam rurociągami około dwóch milionów ton surowca rocznie - poinformował rzecznik spółki Paweł Łukaszewicz. Od początku maja Schwedt przestało otrzymywać rosyjską ropę.",
+      "originalTitle": "Polska uratuje niemiecką rafinerię? PERN gotowy do dostaw",
+      "originalDescription": "PERN ma możliwość szybkiego uruchomienia dostaw ropy naftowej do rafinerii Schwedt w Niemczech, z wykorzystaniem Naftoportu w Gdańsku, aby następnie transportować tam rurociągami około dwóch milionów ton surowca rocznie - poinformował rzecznik spółki Paweł Łukaszewicz. Od początku maja Schwedt przestało otrzymywać rosyjską ropę."
+    },
+    {
+      "title": "Prokuratorzy podjęli decyzję. Szef przychylnej PiS stacji wezwany na przesłuchanie",
+      "link": "https://tvn24.pl/polska/tomasz-sakiewicz-z-tv-republika-wezwany-do-prokuratury-prokurator-krajowy-dariusz-korneluk-o-sprawie-zbigniewa-ziobry-st9042697?source=rss",
+      "pubDate": "Mon, 11 May 2026 18:05:22 GMT",
+      "description": "Prokuratorzy podjęli decyzję o wezwaniu Tomasza Sakiewicza [prezesa przychylnej PiS Telewizji Republika - red.] w charakterze świadka - poinformował w TVN24 prokurator krajowy Dariusz Korneluk. Śledczy zbadają sprawę tego, jak \"z dnia na dzień pan Ziobro został zatrudniony przez tę stację telewizyjną\" - mówił w \"Faktach po Faktach\" Korneluk.",
+      "originalTitle": "Prokuratorzy podjęli decyzję. Szef przychylnej PiS stacji wezwany na przesłuchanie",
+      "originalDescription": "Prokuratorzy podjęli decyzję o wezwaniu Tomasza Sakiewicza [prezesa przychylnej PiS Telewizji Republika - red.] w charakterze świadka - poinformował w TVN24 prokurator krajowy Dariusz Korneluk. Śledczy zbadają sprawę tego, jak \"z dnia na dzień pan Ziobro został zatrudniony przez tę stację telewizyjną\" - mówił w \"Faktach po Faktach\" Korneluk."
+    },
+    {
+      "title": "Runął strop w łazience, ranny mężczyzna",
+      "link": "https://tvn24.pl/katowice/zabrze-runal-strop-w-lazience-ranny-mezczyzna-st9042773?source=rss",
+      "pubDate": "Mon, 11 May 2026 18:04:01 GMT",
+      "description": "Chwile grozy przeżyli mieszkańcy kamienicy przy ulicy Damrota w Zabrzu. Runął tam strop w łazience. Ranny został jeden z lokatorów.",
+      "originalTitle": "Runął strop w łazience, ranny mężczyzna",
+      "originalDescription": "Chwile grozy przeżyli mieszkańcy kamienicy przy ulicy Damrota w Zabrzu. Runął tam strop w łazience. Ranny został jeden z lokatorów."
+    }
+  ]
 }
