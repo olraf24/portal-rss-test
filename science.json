@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-05-11T09:14:25.055Z",
+  "lastUpdate": "2026-05-11T10:42:25.264Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Kontrast w obrazowaniu",
+      "link": "https://dzienniknaukowy.pl/kontrast-w-obrazowaniu",
+      "pubDate": "Mon, 11 May 2026 09:28:06 +0000",
+      "description": "„Kontrast szkodzi nerkom” – to przekonanie od lat funkcjonuje wśród pacjentów, a czasem także wśród lekarzy. W praktyce klinicznej bywa powodem obaw przed badaniami obrazowymi i zabiegami, w których stosuje się środki kontrastowe. Najnowsze badanie opublikowane w czasopiśmie Neurology, którego współautorami są naukowcy z Uniwersytetu Medycznego we Wrocławiu, pokazuje jednak, że w przypadku pacjentów z udarem niedokrwiennym mózgu leczonych trombektomią mechaniczną powikłania nerkowe po podaniu kontrastu są rzadkie. Co więcej, ryzyko ich wystąpienia można oszacować jeszcze przed zabiegiem."
+    },
     {
       "title": "Śmietnik jako fabryka chemikaliów: naukowcy pokazują, jak przetwarzać odpady kuchenne na cenne substancje",
       "link": "https://dzienniknaukowy.pl/smietnik-jako-fabryka-chemikaliow-naukowcy-pokazuja-jak-przetwarzac-odpady-kuchenne-na-cenne-substancje",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/pluskwa-domowa-jak-ja-rozpoznac-skad-sie-bierze-i-jak-skutecznie-sie-jej-pozbyc",
       "pubDate": "Wed, 06 May 2026 10:27:00 +0000",
       "description": "Pluskwa domowa to jeden z najbardziej uciążliwych pasożytów, z jakimi można zetknąć się w swoim otoczeniu. Choć przez lata była uznawana za problem marginalny, dziś powraca z dużą siłą – zarówno w dużych miastach, jak i mniejszych miejscowościach. Coraz częściej pojawia się w mieszkaniach, hotelach, środkach transportu, a nawet biurach."
-    },
-    {
-      "title": "Bakterie jelitowe i alergie",
-      "link": "https://dzienniknaukowy.pl/bakterie-jelitowe-i-alergie",
-      "pubDate": "Tue, 05 May 2026 12:47:38 +0000",
-      "description": "Alergie zwykle kojarzymy z układem odpornościowym, genetyką i środowiskiem. Coraz częściej jednak w tej układance pojawia się jeszcze jeden element: mikrobiota jelitowa. Przegląd badań opublikowany w czasopiśmie International Journal of Molecular Sciences sugeruje, że przerost bakterii w jelicie cienkim (SIBO) może mieć związek z nasileniem objawów chorób atopowych, takich jak astma oskrzelowa, alergie pokarmowe czy przewlekła pokrzywka."
     }
   ]
 }
