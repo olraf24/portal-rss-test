@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2026-05-11T16:56:08.295Z",
+  "lastUpdate": "2026-05-11T17:42:28.255Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Kontrast w obrazowaniu",
-      "link": "https://dzienniknaukowy.pl/kontrast-w-obrazowaniu",
-      "pubDate": "Mon, 11 May 2026 09:28:06 +0000",
-      "description": "„Kontrast szkodzi nerkom” – to przekonanie od lat funkcjonuje wśród pacjentów, a czasem także wśród lekarzy. W praktyce klinicznej bywa powodem obaw przed badaniami obrazowymi i zabiegami, w których stosuje się środki kontrastowe. Najnowsze badanie opublikowane w czasopiśmie Neurology, którego współautorami są naukowcy z Uniwersytetu Medycznego we Wrocławiu, pokazuje jednak, że w przypadku pacjentów z udarem niedokrwiennym mózgu leczonych trombektomią mechaniczną powikłania nerkowe po podaniu kontrastu są rzadkie. Co więcej, ryzyko ich wystąpienia można oszacować jeszcze przed zabiegiem."
-    },
-    {
-      "title": "Śmietnik jako fabryka chemikaliów: naukowcy pokazują, jak przetwarzać odpady kuchenne na cenne substancje",
-      "link": "https://dzienniknaukowy.pl/smietnik-jako-fabryka-chemikaliow-naukowcy-pokazuja-jak-przetwarzac-odpady-kuchenne-na-cenne-substancje",
-      "pubDate": "Mon, 11 May 2026 09:13:24 +0000",
-      "description": "Resztki warzyw, owoce, pieczywo, fusy z kawy – to, co ląduje w pojemniku na odpady bio, może stać się surowcem do produkcji związków chemicznych stosowanych w przemyśle farmaceutycznym, kosmetycznym i przy produkcji bioplastiku. Naukowcy z Polski i Holandii wykazali, że odpowiednio kontrolując warunki fermentacji, można precyzyjnie kierować tym procesem."
-    },
-    {
-      "title": "Terapia w wirtualnej rzeczywistości",
-      "link": "https://dzienniknaukowy.pl/terapia-w-wirtualnej-rzeczywistosci",
-      "pubDate": "Fri, 08 May 2026 12:20:28 +0000",
-      "description": "Wirtualna rzeczywistość przestaje być domeną gier i rozrywki – coraz śmielej wchodzi do gabinetów terapeutycznych. Dzięki niej pacjent może nie tylko mówić o swoim lęku, ale też bezpiecznie go przeżyć. To narzędzie, które zaczyna redefiniować terapię, szczególnie tam, gdzie kluczowe jest realne doświadczenie emocji."
-    },
-    {
-      "title": "Niedaleko Łodzi odnaleziono meteoryt żelazny",
-      "link": "https://dzienniknaukowy.pl/niedaleko-lodzi-odnaleziono-meteoryt-zelazny",
-      "pubDate": "Fri, 08 May 2026 12:04:12 +0000",
-      "description": "Niemal 3 kg ma meteoryt żelazny - pozostałość po bolidzie, który przeleciał 17 kwietnia nad Polską. Kilka dni później znaleźli go pod Łodzią naukowcy i poszukiwacze z sieci bolidowej. W ustaleniu miejsca pomogły dane z kamer sieci bolidowej Skytinel."
-    },
-    {
-      "title": "Polacy współautorami pierwszej czterowymiarowej mapy ułożenia DNA w jądrze komórkowym",
-      "link": "https://dzienniknaukowy.pl/polacy-wspolautorami-pierwszej-czterowymiarowej-mapy-ulozenia-dna-w-jadrze-komorkowym",
-      "pubDate": "Thu, 07 May 2026 10:20:43 +0000",
-      "description": "Naukowcy, m.in. z Polski, opublikowali na łamach „Nature” najpełniejszą mapę 4D ułożenia DNA w jądrze komórkowym człowieka. Pokazali, że sposób jego upakowania w przestrzeni i w czasie wpływa na działanie genów i może pomóc przewidywać skutki mutacji."
-    },
-    {
-      "title": "Naukowcy z PWr opracowują „kosmiczny internet&#8221;. Dzięki nim każdy satelita obsłuży tysiące czujników w&#8230; sekundę",
-      "link": "https://dzienniknaukowy.pl/naukowcy-z-pwr-opracowuja-kosmiczny-internet-dzieki-nim-kazdy-satelita-obsluzy-tysiace-czujnikow-w-sekunde",
-      "pubDate": "Thu, 07 May 2026 10:04:12 +0000",
-      "description": "Dzięki unikalnemu rozwiązaniu, rozwijanemu przez naukowców Politechniki Wrocławskiej, firmę OrbitsIQ Global oraz Europejską Agencję Kosmiczną, przesyłanie danych z milionów urządzeń na całym świecie stanie się szybsze i bardziej niezawodne. To przełom w dziedzinie łączności satelitarnej dla Internetu Rzeczy (IoT)."
-    },
-    {
-      "title": "Czujesz, że masz mniej energii niż kiedyś? To może być powód",
-      "link": "https://dzienniknaukowy.pl/czujesz-ze-masz-mniej-energii-niz-kiedys-to-moze-byc-powod",
-      "pubDate": "Thu, 07 May 2026 08:25:00 +0000",
-      "description": "Coraz więcej osób zauważa, że wraz z wiekiem zmienia się nie tylko wygląd skóry, ale też poziom energii, koncentracja i ogólne samopoczucie. Tempo życia, stres i brak regeneracji sprawiają, że organizm przestaje działać tak jak kiedyś. Nic więc dziwnego, że rośnie zainteresowanie sposobami, które pozwalają zadbać o ciało od środka."
-    },
-    {
-      "title": "Aktywność fizyczna wpływa na przebieg starzenia się",
-      "link": "https://dzienniknaukowy.pl/aktywnosc-fizyczna-wplywa-na-przebieg-starzenia-sie",
-      "pubDate": "Wed, 06 May 2026 12:23:18 +0000",
-      "description": "Aktywność fizyczna odgrywa istotną rolę w kształtowaniu procesu starzenia się, wpływając na kondycję fizyczną i psychiczną osób starszych - wskazali w najnowszych badaniach naukowcy ze Śląskiego Uniwersytetu Medycznego."
-    },
-    {
-      "title": "Nowy sposób na zatrzymywanie wody w przestrzeni miejskiej",
-      "link": "https://dzienniknaukowy.pl/nowy-sposob-na-zatrzymywanie-wody-w-przestrzeni-miejskiej",
-      "pubDate": "Wed, 06 May 2026 12:13:34 +0000",
-      "description": "Woda deszczowa może dłużej pozostawać w miastach. Na Uniwersytecie Jagiellońskim opracowano nowe rozwiązania dla błękitno-zielonej infrastruktury. Estetyczne, trwałe i przede wszystkim przyjazne środowisku, bo oparte na materiałach pochodzących z recyklingu."
-    },
-    {
-      "title": "Pluskwa domowa – jak ją rozpoznać, skąd się bierze i jak skutecznie się jej pozbyć?",
-      "link": "https://dzienniknaukowy.pl/pluskwa-domowa-jak-ja-rozpoznac-skad-sie-bierze-i-jak-skutecznie-sie-jej-pozbyc",
-      "pubDate": "Wed, 06 May 2026 10:27:00 +0000",
-      "description": "Pluskwa domowa to jeden z najbardziej uciążliwych pasożytów, z jakimi można zetknąć się w swoim otoczeniu. Choć przez lata była uznawana za problem marginalny, dziś powraca z dużą siłą – zarówno w dużych miastach, jak i mniejszych miejscowościach. Coraz częściej pojawia się w mieszkaniach, hotelach, środkach transportu, a nawet biurach."
-    }
-  ]
+  "articles": []
 }
