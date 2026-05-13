@@ -1,6 +1,85 @@
 {
-  "lastUpdate": "2026-05-13T17:16:46.616Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-13T18:12:18.808Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - czwartek, 14.05. U kogo nocą przelotnie popada",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-czwartek-14-05-u-kogo-noca-przelotnie-popada-st9046767?source=rss",
+      "pubDate": "Wed, 13 May 2026 17:43:50 GMT",
+      "description": "Pogoda na jutro, czyli na czwartek, 14.05. Nocą wystąpią zarówno przejaśnienia i rozpogodzenia, jak i przelotne opady deszczu. W części kraju powieje silniejszy wiatr. Deszcz popada także w czwartek, który może przynieść burze.",
+      "originalTitle": "Pogoda na jutro - czwartek, 14.05. U kogo nocą przelotnie popada",
+      "originalDescription": "Pogoda na jutro, czyli na czwartek, 14.05. Nocą wystąpią zarówno przejaśnienia i rozpogodzenia, jak i przelotne opady deszczu. W części kraju powieje silniejszy wiatr. Deszcz popada także w czwartek, który może przynieść burze."
+    },
+    {
+      "title": "Jedna straciła panowanie nad hulajnogą, druga wyjechała wprost przed auto",
+      "link": "https://tvn24.pl/kielce/ostrowiec-swietokrzyski-wypadki-nastolatek-na-hulajnogach-nagranie-st9046869?source=rss",
+      "pubDate": "Wed, 13 May 2026 17:38:23 GMT",
+      "description": "W Ostrowcu Świętokrzyskim doszło do dwóch wypadków z udziałem nastolatek na hulajnogach elektrycznych. Jedna z dziewczyn trafiła do szpitala śmigłowcem LPR.",
+      "originalTitle": "Jedna straciła panowanie nad hulajnogą, druga wyjechała wprost przed auto",
+      "originalDescription": "W Ostrowcu Świętokrzyskim doszło do dwóch wypadków z udziałem nastolatek na hulajnogach elektrycznych. Jedna z dziewczyn trafiła do szpitala śmigłowcem LPR."
+    },
+    {
+      "title": "Zabójstwo małżeństwa w Kudowie-Zdroju. Sąd Najwyższy uchylił wyrok",
+      "link": "https://tvn24.pl/wroclaw/kudowa-zdroj-zabojstwo-malzenstwa-sad-najwyzszy-uchylil-wyrok-st9046837?source=rss",
+      "pubDate": "Wed, 13 May 2026 17:25:00 GMT",
+      "description": "Sąd Najwyższy uchylił wyrok wobec trojga skazanych w sprawie zabójstwa małżeństwa w Kudowie-Zdroju i nakazał ponowne rozpoznanie sprawy. Decyzja zapadła po kasacjach prokuratury i obrony oraz wskazaniu poważnych błędów sądu apelacyjnego. Do czasu nowego procesu oskarżeni pozostają w areszcie.",
+      "originalTitle": "Zabójstwo małżeństwa w Kudowie-Zdroju. Sąd Najwyższy uchylił wyrok",
+      "originalDescription": "Sąd Najwyższy uchylił wyrok wobec trojga skazanych w sprawie zabójstwa małżeństwa w Kudowie-Zdroju i nakazał ponowne rozpoznanie sprawy. Decyzja zapadła po kasacjach prokuratury i obrony oraz wskazaniu poważnych błędów sądu apelacyjnego. Do czasu nowego procesu oskarżeni pozostają w areszcie."
+    },
+    {
+      "title": "\"Wie pan, kim jest ten pan?\"",
+      "link": "https://tvn24.pl/polska/prorosyjski-polityk-afd-steffen-kotre-w-sejmie-na-zaproszenie-konfederacji-korony-polskiej-st9046704?source=rss",
+      "pubDate": "Wed, 13 May 2026 17:24:29 GMT",
+      "description": "Obywatele Niemiec usłyszeli wasz głos i dostrzegli, że to jest dobra alternatywa dla Niemiec - mówił podczas konferencji prasowej poseł Konfederacji Korony Polskiej Włodzimierz Skalik. Obok niego stali politycy AfD, których partia Grzegorza Brauna zaprosiła do Sejmu. Reporter TVN24 Radomir Wit próbował pytać polityków o to, czy wiedzą, kogo zaprosili do polskiego parlamentu. Wśród gości znalazł się bowiem polityk znany z występu u putinowskiego propagandysty.",
+      "originalTitle": "\"Wie pan, kim jest ten pan?\"",
+      "originalDescription": "Obywatele Niemiec usłyszeli wasz głos i dostrzegli, że to jest dobra alternatywa dla Niemiec - mówił podczas konferencji prasowej poseł Konfederacji Korony Polskiej Włodzimierz Skalik. Obok niego stali politycy AfD, których partia Grzegorza Brauna zaprosiła do Sejmu. Reporter TVN24 Radomir Wit próbował pytać polityków o to, czy wiedzą, kogo zaprosili do polskiego parlamentu. Wśród gości znalazł się bowiem polityk znany z występu u putinowskiego propagandysty."
+    },
+    {
+      "title": "Znamy szczegóły wizyty Magyara w Polsce",
+      "link": "https://tvn24.pl/polska/znamy-szczegoly-wizyty-magyara-w-polsce-st9046870?source=rss",
+      "pubDate": "Wed, 13 May 2026 17:00:58 GMT",
+      "description": "Nowy premier Węgier Peter Magyar w przyszłym tygodniu odwiedzi Kraków, Warszawę i Gdańsk. W trakcie swojej pierwszej zagranicznej wizyty w roli szefa rządu spotka się z premierem Donaldem Tuskiem oraz prezydentem Karolem Nawrockim.",
+      "originalTitle": "Znamy szczegóły wizyty Magyara w Polsce",
+      "originalDescription": "Nowy premier Węgier Peter Magyar w przyszłym tygodniu odwiedzi Kraków, Warszawę i Gdańsk. W trakcie swojej pierwszej zagranicznej wizyty w roli szefa rządu spotka się z premierem Donaldem Tuskiem oraz prezydentem Karolem Nawrockim."
+    },
+    {
+      "title": "Ziobro w USA. Nawrocki zabrał głos",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-o-wizie-dla-prywatnego-czlowieka-tak-skomentowal-sprawe-ziobry-st9046830?source=rss",
+      "pubDate": "Wed, 13 May 2026 17:00:20 GMT",
+      "description": "Uznaję, że to jest rzecz naprawdę odnosząca się do prywatnego życia - powiedział prezydent Karol Nawrocki, pytany czy wyjazd byłego ministra sprawiedliwości Zbigniewa Ziobry do Stanów Zjednoczonych wpłynie na relacje polsko-amerykańskie. Przekonywał też, że kontakty z Amerykanami są budowane w oparciu o \"naprawdę ważne sprawy\".",
+      "originalTitle": "Ziobro w USA. Nawrocki zabrał głos",
+      "originalDescription": "Uznaję, że to jest rzecz naprawdę odnosząca się do prywatnego życia - powiedział prezydent Karol Nawrocki, pytany czy wyjazd byłego ministra sprawiedliwości Zbigniewa Ziobry do Stanów Zjednoczonych wpłynie na relacje polsko-amerykańskie. Przekonywał też, że kontakty z Amerykanami są budowane w oparciu o \"naprawdę ważne sprawy\"."
+    },
+    {
+      "title": "Znęcali się nad niemowlęciem. Jest wyrok sądu",
+      "link": "https://tvn24.pl/bialystok/bialystok-znecali-sie-nad-niemowleciem-jest-wyrok-sadu-st9046718?source=rss",
+      "pubDate": "Wed, 13 May 2026 16:51:48 GMT",
+      "description": "Sąd Rejonowy w Białymstoku skazał rodziców czteromiesięcznej dziewczynki na rok więzienia w zawieszeniu za znęcanie się nad dzieckiem. Zdaniem sądu i biegłych obrażenia nie były przypadkowe. Wyrok jest nieprawomocny.",
+      "originalTitle": "Znęcali się nad niemowlęciem. Jest wyrok sądu",
+      "originalDescription": "Sąd Rejonowy w Białymstoku skazał rodziców czteromiesięcznej dziewczynki na rok więzienia w zawieszeniu za znęcanie się nad dzieckiem. Zdaniem sądu i biegłych obrażenia nie były przypadkowe. Wyrok jest nieprawomocny."
+    },
+    {
+      "title": "Nieznośny upał. Rekord temperatury w trzecim największym mieście kraju",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/salwador-nieznosny-upal-rekord-temperatury-w-trzecim-najwiekszym-miescie-kraju-st9046774?source=rss",
+      "pubDate": "Wed, 13 May 2026 16:40:15 GMT",
+      "description": "Salwador zmaga się z falą upałów. Wartości na termometrach przekraczają 40 stopni Celsjusza, a w jednym z największych miast kraju padł rekord temperatury. Władze ostrzegają mieszkańców przed niebezpiecznym skwarem.",
+      "originalTitle": "Nieznośny upał. Rekord temperatury w trzecim największym mieście kraju",
+      "originalDescription": "Salwador zmaga się z falą upałów. Wartości na termometrach przekraczają 40 stopni Celsjusza, a w jednym z największych miast kraju padł rekord temperatury. Władze ostrzegają mieszkańców przed niebezpiecznym skwarem."
+    },
+    {
+      "title": "Zełenski spotkał się z Nawrockim. \"Ważne jest, że mamy wspólne stanowisko\"",
+      "link": "https://tvn24.pl/swiat/karol-nawrocki-i-wolodymyr-zelenski-spotkali-sie-w-bukareszczie-st9046814?source=rss",
+      "pubDate": "Wed, 13 May 2026 16:36:07 GMT",
+      "description": "Brak opisu"
+    },
+    {
+      "title": "Robotnik utknął w głębokiej studni",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-robotnik-utknal-w-studni-na-placu-budowy-akcja-ratownicza-st9046632?source=rss",
+      "pubDate": "Wed, 13 May 2026 16:13:30 GMT",
+      "description": "Warszawscy strażacy ratowali mężczyznę, który utknął w studni. Do zdarzenia doszło na placu budowy na Mokotowie.",
+      "originalTitle": "Robotnik utknął w głębokiej studni",
+      "originalDescription": "Warszawscy strażacy ratowali mężczyznę, który utknął w studni. Do zdarzenia doszło na placu budowy na Mokotowie."
+    }
+  ]
 }
