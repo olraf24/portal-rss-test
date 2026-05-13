@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-05-13T12:14:31.532Z",
+  "lastUpdate": "2026-05-13T13:16:20.051Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Dziury w nanoobrazowaniu załatane dzięki… czarnym dziurom",
+      "link": "https://dzienniknaukowy.pl/dziury-w-nanoobrazowaniu-zalatane-dzieki-czarnym-dziurom",
+      "pubDate": "Wed, 13 May 2026 12:18:32 +0000",
+      "description": "Jeśli naukowiec wie, czego szuka - algorytm pomoże to wypatrzyć nawet tam, gdzie pozornie jest to niewidoczne. Tak było w przypadku pierwszych zdjęć czarnej dziury, i tak może być w obrazowaniu obliczeniowym obiektów w skali nano – mówi prof. Maciej Trusiak z Politechniki Warszawskiej. Badacz pokazuje, jak dokładniej zobrazować elementy półprzewodnikowe o przekroju kilkudziesięciu atomów."
+    },
     {
       "title": "Skręcone światło dla świata pełnego danych",
       "link": "https://dzienniknaukowy.pl/skrecone-swiatlo-dla-swiata-pelnego-danych",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-z-pwr-opracowuja-kosmiczny-internet-dzieki-nim-kazdy-satelita-obsluzy-tysiace-czujnikow-w-sekunde",
       "pubDate": "Thu, 07 May 2026 10:04:12 +0000",
       "description": "Dzięki unikalnemu rozwiązaniu, rozwijanemu przez naukowców Politechniki Wrocławskiej, firmę OrbitsIQ Global oraz Europejską Agencję Kosmiczną, przesyłanie danych z milionów urządzeń na całym świecie stanie się szybsze i bardziej niezawodne. To przełom w dziedzinie łączności satelitarnej dla Internetu Rzeczy (IoT)."
-    },
-    {
-      "title": "Czujesz, że masz mniej energii niż kiedyś? To może być powód",
-      "link": "https://dzienniknaukowy.pl/czujesz-ze-masz-mniej-energii-niz-kiedys-to-moze-byc-powod",
-      "pubDate": "Thu, 07 May 2026 08:25:00 +0000",
-      "description": "Coraz więcej osób zauważa, że wraz z wiekiem zmienia się nie tylko wygląd skóry, ale też poziom energii, koncentracja i ogólne samopoczucie. Tempo życia, stres i brak regeneracji sprawiają, że organizm przestaje działać tak jak kiedyś. Nic więc dziwnego, że rośnie zainteresowanie sposobami, które pozwalają zadbać o ciało od środka."
     }
   ]
 }
