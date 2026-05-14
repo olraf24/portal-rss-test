@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-14T23:21:07.839Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-14T23:48:52.402Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Eurowizja 2026. Wyniki drugiego półfinału",
+      "link": "https://tvn24.pl/kultura-i-styl/eurowizja-2026-wyniki-drugiego-polfinalu-st9048945?source=rss",
+      "pubDate": "Thu, 14 May 2026 21:19:40 GMT",
+      "description": "Znamy wszystkich finalistów 70. Konkursu Piosenki Eurowizji w Wiedniu. Po drugim koncercie półfinałowym do dalszego etapu zakwalifikowały się piosenki między innymi z Ukrainy, Bułgarii, Australii, Rumunii i Cypru.",
+      "originalTitle": "Eurowizja 2026. Wyniki drugiego półfinału",
+      "originalDescription": "Znamy wszystkich finalistów 70. Konkursu Piosenki Eurowizji w Wiedniu. Po drugim koncercie półfinałowym do dalszego etapu zakwalifikowały się piosenki między innymi z Ukrainy, Bułgarii, Australii, Rumunii i Cypru."
+    },
+    {
+      "title": "\"Moskwa wybiera eskalację zamiast negocjacji\". Rośnie liczba ofiar ataku na Kijów",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rosja-zaatakowala-w-kijowie-rosnie-liczba-ofiar-st9048983?source=rss",
+      "pubDate": "Thu, 14 May 2026 20:53:51 GMT",
+      "description": "Liczba ofiar ataku w dzielnicy Darnica w Kijowie wzrosła do 16 - poinformowały ukraińskie służby. Wciąż jednak szukają ludzi pod gruzami bloku, w który uderzyli Rosjanie. Atak na stolicę Ukrainy skomentował kanclerz Niemiec Friedrich Merz, który ocenił, że Rosja, przeprowadzając kolejne uderzenia, \"wysyła jasny sygnał\".",
+      "originalTitle": "\"Moskwa wybiera eskalację zamiast negocjacji\". Rośnie liczba ofiar ataku na Kijów",
+      "originalDescription": "Liczba ofiar ataku w dzielnicy Darnica w Kijowie wzrosła do 16 - poinformowały ukraińskie służby. Wciąż jednak szukają ludzi pod gruzami bloku, w który uderzyli Rosjanie. Atak na stolicę Ukrainy skomentował kanclerz Niemiec Friedrich Merz, który ocenił, że Rosja, przeprowadzając kolejne uderzenia, \"wysyła jasny sygnał\"."
+    },
+    {
+      "title": "Elon Musk w Pekinie. Nagrania obiegły sieć",
+      "link": "https://tvn24.pl/biznes/ze-swiata/chiny-elon-musk-w-pekinie-nagrania-obiegly-siec-st9048976?source=rss",
+      "pubDate": "Thu, 14 May 2026 20:46:13 GMT",
+      "description": "Elon Musk towarzyszy Donaldowi Trumpowi w Chinach. Szef Tesli przyciągnął uwagę mediów, pozując do zdjęć. Internet obiegły nagrania ukazujące, jak robi różne miny.",
+      "originalTitle": "Elon Musk w Pekinie. Nagrania obiegły sieć",
+      "originalDescription": "Elon Musk towarzyszy Donaldowi Trumpowi w Chinach. Szef Tesli przyciągnął uwagę mediów, pozując do zdjęć. Internet obiegły nagrania ukazujące, jak robi różne miny."
+    },
+    {
+      "title": "Czarzasty przyniósł do studia dokument. \"To jest duża sprawa\"",
+      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-przyniosl-do-kropki-nad-i-dokument-to-jest-duza-sprawa-st9048811?source=rss",
+      "pubDate": "Thu, 14 May 2026 19:44:03 GMT",
+      "description": "Dwa wyroki - i sądu polskiego, i sądu zagranicznego - są spełniane. Powiem szczerze, fajniej się czuję w tej sprawie - tak Włodzimierz Czarzasty odniósł się do opracowywanego przez rząd rozporządzenia w sprawie transkrypcji zagranicznych małżeństw jednopłciowych. Marszałek Sejmu przyniósł też projekt nowego aktu do studia.",
+      "originalTitle": "Czarzasty przyniósł do studia dokument. \"To jest duża sprawa\"",
+      "originalDescription": "Dwa wyroki - i sądu polskiego, i sądu zagranicznego - są spełniane. Powiem szczerze, fajniej się czuję w tej sprawie - tak Włodzimierz Czarzasty odniósł się do opracowywanego przez rząd rozporządzenia w sprawie transkrypcji zagranicznych małżeństw jednopłciowych. Marszałek Sejmu przyniósł też projekt nowego aktu do studia."
+    },
+    {
+      "title": "Burze i ulewy. Tu mogą pojawić się żółte alarmy",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-burze-ulewy-15-18-05-prognoza-zagrozen-imgw-tu-moga-pojawic-sie-zolte-alarmy-st9047067?source=rss",
+      "pubDate": "Thu, 14 May 2026 04:38:43 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń na piątek, sobotę, niedzielę i poniedziałek. Wynika z niej, że pojawią się burze, ma też mocno padać.",
+      "originalTitle": "Burze i ulewy. Tu mogą pojawić się żółte alarmy",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej wydał prognozę zagrożeń na piątek, sobotę, niedzielę i poniedziałek. Wynika z niej, że pojawią się burze, ma też mocno padać."
+    },
+    {
+      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-w-czwartek-14-05-liczne-komorki-konwekcyjne-mapa-i-radar-burz-st9047792?source=rss",
+      "pubDate": "Thu, 14 May 2026 10:40:10 GMT",
+      "description": "Gdzie jest burza? W czwartek 14.05 grzmi w części kraju. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "originalDescription": "Gdzie jest burza? W czwartek 14.05 grzmi w części kraju. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Jak walczyć z dezinformacją? \"Tracimy wspólną bazę faktów\"",
+      "link": "https://tvn24.pl/polska/impact26-jak-walczyc-z-dezinformacja-tracimy-wspolna-baze-faktow-st9048748?source=rss",
+      "pubDate": "Thu, 14 May 2026 19:02:45 GMT",
+      "description": "Jest to wstydliwe dla mnie jako Amerykanina, że stajemy się schronieniem dla ludzi z całego świata, którzy łamią prawo - powiedział historyk i publicysta prof. Tymothy Snyder podczas panelu \"Prawda pod presją\" na kongresie Impact'26 w Poznaniu. O obronie demokracji, roli i odpowiedzialności mediów w epoce dezinformacji mówili również dziennikarz Reporterów bez Granic Pavol Szalai oraz zastępczyni redaktora naczelnego TVN24 Brygida Grysiak.",
+      "originalTitle": "Jak walczyć z dezinformacją? \"Tracimy wspólną bazę faktów\"",
+      "originalDescription": "Jest to wstydliwe dla mnie jako Amerykanina, że stajemy się schronieniem dla ludzi z całego świata, którzy łamią prawo - powiedział historyk i publicysta prof. Tymothy Snyder podczas panelu \"Prawda pod presją\" na kongresie Impact'26 w Poznaniu. O obronie demokracji, roli i odpowiedzialności mediów w epoce dezinformacji mówili również dziennikarz Reporterów bez Granic Pavol Szalai oraz zastępczyni redaktora naczelnego TVN24 Brygida Grysiak."
+    },
+    {
+      "title": "Pogoda na jutro - piątek, 15.05. Strefa opadów będzie wędrować nad Polską",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-15-05-strefa-opadow-bedzie-wedrowac-nad-polska-st9048825?source=rss",
+      "pubDate": "Thu, 14 May 2026 18:50:59 GMT",
+      "description": "Pogoda na jutro, czyli na piątek, 15.05. W nocy strefa opadów będzie przemieszczać się nad częścią kraju. W dzień również popada, pojawią się też burze. Warunki biometeo przeważnie będą niekorzystne.",
+      "originalTitle": "Pogoda na jutro - piątek, 15.05. Strefa opadów będzie wędrować nad Polską",
+      "originalDescription": "Pogoda na jutro, czyli na piątek, 15.05. W nocy strefa opadów będzie przemieszczać się nad częścią kraju. W dzień również popada, pojawią się też burze. Warunki biometeo przeważnie będą niekorzystne."
+    },
+    {
+      "title": "Trzy tysiące eksponatów w sześciu galeriach. Powstaje wystawa stała Muzeum Historii Polski",
+      "link": "https://tvn24.pl/tvnwarszawa/zoliborz/trzy-tysiace-eksponatow-w-szesciu-galeriach-powstaje-wystawa-stala-muzeum-historii-polski-st9048316?source=rss",
+      "pubDate": "Thu, 14 May 2026 18:44:48 GMT",
+      "description": "Dźwięki wiertarek, szlifierek i młotków rozchodzą się po drugim piętrze gmachu Muzeum Historii Polski na warszawskiej Cytadeli. Trwa tam budowa ekspozycji stałej. Dyrekcja podała wstępny termin jej otwarcia w przyszłym roku.",
+      "originalTitle": "Trzy tysiące eksponatów w sześciu galeriach. Powstaje wystawa stała Muzeum Historii Polski",
+      "originalDescription": "Dźwięki wiertarek, szlifierek i młotków rozchodzą się po drugim piętrze gmachu Muzeum Historii Polski na warszawskiej Cytadeli. Trwa tam budowa ekspozycji stałej. Dyrekcja podała wstępny termin jej otwarcia w przyszłym roku."
+    },
+    {
+      "title": "\"Trochę nie wiadomo, w którym kierunku nasza partia zmierza\". Wszystkie konflikty w PiS",
+      "link": "https://tvn24.pl/polska/prawo-i-sprawiedliwosc-spory-personalne-stowarzyszenia-sprawa-ziobry-i-kryptowalut-st9047500?source=rss",
+      "pubDate": "Thu, 14 May 2026 18:33:29 GMT",
+      "description": "Jest poczucie pewnego znużenia, stagnacji, oswajania się z możliwą porażką wyborczą. Trochę nie wiadomo, w którym kierunku nasza partia zmierza - przyznaje jeden z posłów PiS-u. Uwidoczniło się tam ostatnio wiele konfliktów, zarówno tych personalnych, jak i merytorycznych. O co w nich chodzi?",
+      "originalTitle": "\"Trochę nie wiadomo, w którym kierunku nasza partia zmierza\". Wszystkie konflikty w PiS",
+      "originalDescription": "Jest poczucie pewnego znużenia, stagnacji, oswajania się z możliwą porażką wyborczą. Trochę nie wiadomo, w którym kierunku nasza partia zmierza - przyznaje jeden z posłów PiS-u. Uwidoczniło się tam ostatnio wiele konfliktów, zarówno tych personalnych, jak i merytorycznych. O co w nich chodzi?"
+    }
+  ]
 }
