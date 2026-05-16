@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-16T10:00:23.053Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-16T10:50:28.735Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nie żyje szef zbrojnego ramienia Hamasu",
+      "link": "https://tvn24.pl/swiat/konflikt-w-strefie-gazy-nie-zyje-izz-al-dina-haddad-jeden-z-liderow-hamasu-st9051104?source=rss",
+      "pubDate": "Sat, 16 May 2026 10:37:58 GMT",
+      "description": "Izz al-Dina Haddad, szef wojskowego skrzydła Hamasu, nie żyje - przekazał Reuters, powołując się na wysokiego rangą przedstawiciela organizacji. Oficjalny komunikat, potwierdzający zabicie tego bojownika, opublikowały następnie Siły Obronne Izraela.",
+      "originalTitle": "Nie żyje szef zbrojnego ramienia Hamasu",
+      "originalDescription": "Izz al-Dina Haddad, szef wojskowego skrzydła Hamasu, nie żyje - przekazał Reuters, powołując się na wysokiego rangą przedstawiciela organizacji. Oficjalny komunikat, potwierdzający zabicie tego bojownika, opublikowały następnie Siły Obronne Izraela."
+    },
+    {
+      "title": "Luksusowe jachty poza kontrolą fiskusa. Flota \"widmo\" na Sardynii",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-luksusowe-jachty-poza-kontrola-fiskusa-flota-widmo-w-portach-sardynii-st9051136?source=rss",
+      "pubDate": "Sat, 16 May 2026 10:21:22 GMT",
+      "description": "Gwardia Finansowa odkryła sto jachtów zacumowanych w portach na Sardynii, zupełnie nieznanych włoskiemu fiskusowi. Ich właściciele są zameldowani we Włoszech, ale jednostki te, niektóre luksusowe, pływały pod banderami innych państw - podały media informując o policyjnej operacji pod kryptonimem \"Red Jack\".",
+      "originalTitle": "Luksusowe jachty poza kontrolą fiskusa. Flota \"widmo\" na Sardynii",
+      "originalDescription": "Gwardia Finansowa odkryła sto jachtów zacumowanych w portach na Sardynii, zupełnie nieznanych włoskiemu fiskusowi. Ich właściciele są zameldowani we Włoszech, ale jednostki te, niektóre luksusowe, pływały pod banderami innych państw - podały media informując o policyjnej operacji pod kryptonimem \"Red Jack\"."
+    },
+    {
+      "title": "Wykluły się zaledwie wczoraj. Młode bociany na nagraniu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/lubuskie-wykluly-sie-zaledwie-wczoraj-mlode-bociany-na-nagraniu-st9051106?source=rss",
+      "pubDate": "Sat, 16 May 2026 10:20:51 GMT",
+      "description": "W Polsce zaczęły się już wykluwać bociany. Na Kontakt24 otrzymaliśmy nagranie z województwa lubuskiego, na którym widać, jak dorosły osobnik dogląda swoich młodziutkich piskląt.",
+      "originalTitle": "Wykluły się zaledwie wczoraj. Młode bociany na nagraniu",
+      "originalDescription": "W Polsce zaczęły się już wykluwać bociany. Na Kontakt24 otrzymaliśmy nagranie z województwa lubuskiego, na którym widać, jak dorosły osobnik dogląda swoich młodziutkich piskląt."
+    },
+    {
+      "title": "Jedna z głównych ulic Bielan do remontu. Ma być bezpieczniej",
+      "link": "https://tvn24.pl/tvnwarszawa/bielany/jedna-z-glownych-ulic-bielan-do-remontu-ma-byc-bezpieczniej-st9051032?source=rss",
+      "pubDate": "Sat, 16 May 2026 10:19:50 GMT",
+      "description": "Radni Warszawy przegłosowali w czwartek zmiany w budżecie. Dorzucono środków na remonty ulic. W zestawieniu pojawiły się też nowe inwestycje. Wśród nich zapowiedziana w tym tygodniu budowa mostu na Kanale Żerańskim na wysokości ulicy Zdziarskiej, a także przebudowa ulicy Żeromskiego na Bielanach.",
+      "originalTitle": "Jedna z głównych ulic Bielan do remontu. Ma być bezpieczniej",
+      "originalDescription": "Radni Warszawy przegłosowali w czwartek zmiany w budżecie. Dorzucono środków na remonty ulic. W zestawieniu pojawiły się też nowe inwestycje. Wśród nich zapowiedziana w tym tygodniu budowa mostu na Kanale Żerańskim na wysokości ulicy Zdziarskiej, a także przebudowa ulicy Żeromskiego na Bielanach."
+    },
+    {
+      "title": "Będzie wspólny wiec Morawieckiego i Czarnka",
+      "link": "https://tvn24.pl/polska/spory-w-pis-bedzie-wspolny-wiec-mateusza-morawieckiego-i-przemyslawa-czarnka-st9051033?source=rss",
+      "pubDate": "Sat, 16 May 2026 10:01:43 GMT",
+      "description": "Poseł PiS Janusz Cieszyński poinformował, że Mateusz Morawiecki i Przemysław Czarnek zorganizują wspólne spotkanie. To reakcja na doniesienia medialne o burzliwym przebiegu posiedzenia wyjazdowego klubu PiS.",
+      "originalTitle": "Będzie wspólny wiec Morawieckiego i Czarnka",
+      "originalDescription": "Poseł PiS Janusz Cieszyński poinformował, że Mateusz Morawiecki i Przemysław Czarnek zorganizują wspólne spotkanie. To reakcja na doniesienia medialne o burzliwym przebiegu posiedzenia wyjazdowego klubu PiS."
+    },
+    {
+      "title": "Wizyta Trumpa w Chinach. \"Świat stoi na rozdrożu\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/janusz-piechocinski-w-faktach-o-swiecie-rozmowa-o-spotkaniu-donalda-trumpa-z-xi-jinpingiem-st9050898?source=rss",
+      "pubDate": "Sat, 16 May 2026 09:39:09 GMT",
+      "description": "Szczyt pokazał, że świat jest na rozdrożu. Wiele się zmieniło, nie ma już klasycznego podziału \"wschód-zachód\", jak to było za Związku Radzieckiego - były wicepremier i szef Izby Przemysłowo-Handlowej Janusz Piechociński ocenił spotkanie prezydenta USA Donalda Trumpa i chińskiego przywódcy Xi Jinpinga w Pekinie. Ekspert gościł w piątkowym wydaniu \"Faktów o świecie\" TVN24 BiŚ.",
+      "originalTitle": "Wizyta Trumpa w Chinach. \"Świat stoi na rozdrożu\"",
+      "originalDescription": "Szczyt pokazał, że świat jest na rozdrożu. Wiele się zmieniło, nie ma już klasycznego podziału \"wschód-zachód\", jak to było za Związku Radzieckiego - były wicepremier i szef Izby Przemysłowo-Handlowej Janusz Piechociński ocenił spotkanie prezydenta USA Donalda Trumpa i chińskiego przywódcy Xi Jinpinga w Pekinie. Ekspert gościł w piątkowym wydaniu \"Faktów o świecie\" TVN24 BiŚ."
+    },
+    {
+      "title": "Kładka nad rzeką w letniej stolicy Polski? \"Powinna powstać już 30 lat temu\"",
+      "link": "https://tvn24.pl/bialystok/augustow-kladka-nad-rzeka-impas-trwa-mieszkancy-czekaja-st9042551?source=rss",
+      "pubDate": "Sat, 16 May 2026 09:34:55 GMT",
+      "description": "Władze miasta, konserwator zabytków, mieszkańcy i turyści. Ci, z którymi rozmawiamy nie mają wątpliwości, że w Augustowie (Podlaskie) powinna powstać kładka nad Nettą. Problem w tym, że zaproponowanego projektu nie zamierza zaakceptować konserwator zabytków. Impas trwa, a na realizację inwestycji zarezerwowano pieniądze unijne, które nie będą czekać w nieskończoność.",
+      "originalTitle": "Kładka nad rzeką w letniej stolicy Polski? \"Powinna powstać już 30 lat temu\"",
+      "originalDescription": "Władze miasta, konserwator zabytków, mieszkańcy i turyści. Ci, z którymi rozmawiamy nie mają wątpliwości, że w Augustowie (Podlaskie) powinna powstać kładka nad Nettą. Problem w tym, że zaproponowanego projektu nie zamierza zaakceptować konserwator zabytków. Impas trwa, a na realizację inwestycji zarezerwowano pieniądze unijne, które nie będą czekać w nieskończoność."
+    },
+    {
+      "title": "Jeleń kręcił się, chaotycznie skakał. To mogło być przyczyną",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/francja-jelen-kreci-sie-w-kolko-dlaczego-to-robi-st9049465?source=rss",
+      "pubDate": "Sat, 16 May 2026 09:28:04 GMT",
+      "description": "Kręcący się w kółko jeleń o nieskoordynowanych ruchach - takie wideo udostępnili francuscy policjanci. W poście opublikowanym w mediach społecznościowych wytłumaczyli, co prawdopodobnie odpowiada za niezwykłe ruchy zwierzęcia. Ponadto poradzili kierowcom, jak zachować się, gdy spotkają podobnie zachowującego się osobnika.",
+      "originalTitle": "Jeleń kręcił się, chaotycznie skakał. To mogło być przyczyną",
+      "originalDescription": "Kręcący się w kółko jeleń o nieskoordynowanych ruchach - takie wideo udostępnili francuscy policjanci. W poście opublikowanym w mediach społecznościowych wytłumaczyli, co prawdopodobnie odpowiada za niezwykłe ruchy zwierzęcia. Ponadto poradzili kierowcom, jak zachować się, gdy spotkają podobnie zachowującego się osobnika."
+    },
+    {
+      "title": "Groźne substancje w akcesoriach i tekstyliach. UOKIK wstrzymuje sprzedaż",
+      "link": "https://tvn24.pl/biznes/z-kraju/grozne-substancje-w-akcesoriach-i-tekstyliach-uokik-wstrzymuje-sprzedaz-st9051016?source=rss",
+      "pubDate": "Sat, 16 May 2026 09:00:52 GMT",
+      "description": "W siedmiu procentach skontrolowanych w 2025 roku partiach biżuterii, wyrobów skórzanych i obrusów Urząd Ochrony Konkurencji i Konsumentów stwierdził przekroczenie dopuszczalnej zawartości substancji chemicznych, w tym kadmu i ołowiu - podał urząd. W konsekwencji wydano siedem decyzji zakazujących przedsiębiorcom dalszej sprzedaży produktów.",
+      "originalTitle": "Groźne substancje w akcesoriach i tekstyliach. UOKIK wstrzymuje sprzedaż",
+      "originalDescription": "W siedmiu procentach skontrolowanych w 2025 roku partiach biżuterii, wyrobów skórzanych i obrusów Urząd Ochrony Konkurencji i Konsumentów stwierdził przekroczenie dopuszczalnej zawartości substancji chemicznych, w tym kadmu i ołowiu - podał urząd. W konsekwencji wydano siedem decyzji zakazujących przedsiębiorcom dalszej sprzedaży produktów."
+    },
+    {
+      "title": "Alert RCB. \"Nie parkuj pod drzewami\"",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/alert-rcb-16-05-burze-z-intensywnym-deszczem-nie-parkuj-pod-drzewami-st9051031?source=rss",
+      "pubDate": "Sat, 16 May 2026 08:48:04 GMT",
+      "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega w sobotę przed burzami i towarzyszącymi im niebezpiecznymi zjawiskami. Ostrzeżenie otrzymały osoby przebywające na terenie części jednego z województw.",
+      "originalTitle": "Alert RCB. \"Nie parkuj pod drzewami\"",
+      "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa ostrzega w sobotę przed burzami i towarzyszącymi im niebezpiecznymi zjawiskami. Ostrzeżenie otrzymały osoby przebywające na terenie części jednego z województw."
+    }
+  ]
 }
