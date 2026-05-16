@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-16T06:01:31.255Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-16T07:16:52.004Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pochylnia pieszo-rowerowa połączyła Ostrobramską z Kinową",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-przyczolek-grochowski-wygodniejszy-jest-juz-pochylnia-pieszo-rowerowa-st9050647?source=rss",
+      "pubDate": "Sat, 16 May 2026 07:06:34 GMT",
+      "description": "Drogowcy pokazali, jak wygląda ukończona pochylnia dla pieszych i rowerzystów, która połączyła Ostrobramską z ulicą Kinową. Nie trzeba już nadkładać drogi, każdy może wygodnie przejść na drugą stronę Alei Stanów Zjednoczonych.",
+      "originalTitle": "Pochylnia pieszo-rowerowa połączyła Ostrobramską z Kinową",
+      "originalDescription": "Drogowcy pokazali, jak wygląda ukończona pochylnia dla pieszych i rowerzystów, która połączyła Ostrobramską z ulicą Kinową. Nie trzeba już nadkładać drogi, każdy może wygodnie przejść na drugą stronę Alei Stanów Zjednoczonych."
+    },
+    {
+      "title": "Beckhamowie podwoili majątek. Piłkarz pobił rekord",
+      "link": "https://tvn24.pl/biznes/ze-swiata/beckhamowie-zostali-miliarderami-podwojenie-majatku-w-rok-st9050833?source=rss",
+      "pubDate": "Sat, 16 May 2026 07:06:06 GMT",
+      "description": "Były kapitan reprezentacji Anglii David Beckham i jego żona Victoria zostali miliarderami. Ich majątek podwoił się w ubiegłym roku - donosi \"Sunday Times\". Słynny piłkarz stał się pierwszym brytyjskim sportowcem miliarderem.",
+      "originalTitle": "Beckhamowie podwoili majątek. Piłkarz pobił rekord",
+      "originalDescription": "Były kapitan reprezentacji Anglii David Beckham i jego żona Victoria zostali miliarderami. Ich majątek podwoił się w ubiegłym roku - donosi \"Sunday Times\". Słynny piłkarz stał się pierwszym brytyjskim sportowcem miliarderem."
+    },
+    {
+      "title": "Paraliż linii kolejowej. Utrudnienia dla setek tysięcy pasażerów",
+      "link": "https://tvn24.pl/biznes/ze-swiata/nowy-jork-paraliz-linii-kolejowej-utrudnienia-dla-setek-tysiecy-pasazerow-st9050826?source=rss",
+      "pubDate": "Sat, 16 May 2026 06:58:23 GMT",
+      "description": "Ponad 3,5 tysiąca pracowników Long Island Rail Road, linii kolejowej łączącej wyspę Long Island z centrum Nowego Jorku, rozpoczęło w sobotę tuż po północy bezterminowy strajk. Protest spowoduje znaczące zakłócenia, ponieważ jest to najczęściej wykorzystywana kolej dojazdowa w całych Stanach Zjednoczonych.",
+      "originalTitle": "Paraliż linii kolejowej. Utrudnienia dla setek tysięcy pasażerów",
+      "originalDescription": "Ponad 3,5 tysiąca pracowników Long Island Rail Road, linii kolejowej łączącej wyspę Long Island z centrum Nowego Jorku, rozpoczęło w sobotę tuż po północy bezterminowy strajk. Protest spowoduje znaczące zakłócenia, ponieważ jest to najczęściej wykorzystywana kolej dojazdowa w całych Stanach Zjednoczonych."
+    },
+    {
+      "title": "Trump: Xi spytał, czy będę bronił Tajwanu. Powiedziałem, że nie rozmawiam o tym",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-pytany-o-tajwan-powiedzialem-ze-nie-rozmawiam-o-tym-st9050825?source=rss",
+      "pubDate": "Sat, 16 May 2026 06:43:22 GMT",
+      "description": "Prezydent USA Donald Trump pytany przez dziennikarzy na pokładzie Air Force One, czy będzie bronić Tajwanu w razie chińskiej inwazji, odparł, że nie chce odpowiadać. Rezultaty szczytu w Pekinie są złą wiadomością dla Tajwanu, bo prezydent USA przedkłada interesy biznesowe nad bezpieczeństwo i prawa człowieka - ocenił chiński dysydent i politolog dr Jianli Yang.",
+      "originalTitle": "Trump: Xi spytał, czy będę bronił Tajwanu. Powiedziałem, że nie rozmawiam o tym",
+      "originalDescription": "Prezydent USA Donald Trump pytany przez dziennikarzy na pokładzie Air Force One, czy będzie bronić Tajwanu w razie chińskiej inwazji, odparł, że nie chce odpowiadać. Rezultaty szczytu w Pekinie są złą wiadomością dla Tajwanu, bo prezydent USA przedkłada interesy biznesowe nad bezpieczeństwo i prawa człowieka - ocenił chiński dysydent i politolog dr Jianli Yang."
+    },
+    {
+      "title": "24-latka poleciała do Chin spełniać marzenia. Od kilku tygodni leży nieprzytomna w szpitalu",
+      "link": "https://tvn24.pl/zdrowie/24-letnia-klaudia-poleciala-do-chin-spelniac-marzenia-od-kilku-tygodni-lezy-nieprzytomna-w-szpitalu-st9050292?source=rss",
+      "pubDate": "Sat, 16 May 2026 06:36:14 GMT",
+      "description": "Klaudia Uciechowska, młoda i ambitna 24-latka z Wałbrzycha, studiowała dziennikarstwo w Chinach. W kwietniu źle się poczuła i zemdlała, potem dostała ataku psychotycznego. Okazało się, że przeszła nie jedno, a dwa bardzo rzadkie powikłania potworniaka jajnika. Dziewczyna jest nieprzytomna. Rodzice starają się sprowadzić ją do Polski. Zbierają pieniądze na koszty leczenia i rehabilitację.",
+      "originalTitle": "24-latka poleciała do Chin spełniać marzenia. Od kilku tygodni leży nieprzytomna w szpitalu",
+      "originalDescription": "Klaudia Uciechowska, młoda i ambitna 24-latka z Wałbrzycha, studiowała dziennikarstwo w Chinach. W kwietniu źle się poczuła i zemdlała, potem dostała ataku psychotycznego. Okazało się, że przeszła nie jedno, a dwa bardzo rzadkie powikłania potworniaka jajnika. Dziewczyna jest nieprzytomna. Rodzice starają się sprowadzić ją do Polski. Zbierają pieniądze na koszty leczenia i rehabilitację."
+    },
+    {
+      "title": "Niski stan wód podziemnych. \"Kropla wody, która wpadnie do rzeki, jest kroplą straconą\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/susza-niski-stan-wod-podziemnych-eksperci-o-tym-jak-zatrzymac-wode-st9050793?source=rss",
+      "pubDate": "Sat, 16 May 2026 06:20:06 GMT",
+      "description": "Susza w Polsce. Musimy zatrzymywać jak najwięcej opadów w gruncie - alarmują eksperci. Wyjaśniają, że mimo dość śnieżnej zimy zasoby podziemne są uszczuplone i radzą, jak wspierać naturalną retencję wodną.",
+      "originalTitle": "Niski stan wód podziemnych. \"Kropla wody, która wpadnie do rzeki, jest kroplą straconą\"",
+      "originalDescription": "Susza w Polsce. Musimy zatrzymywać jak najwięcej opadów w gruncie - alarmują eksperci. Wyjaśniają, że mimo dość śnieżnej zimy zasoby podziemne są uszczuplone i radzą, jak wspierać naturalną retencję wodną."
+    },
+    {
+      "title": "Ponad miesiąc liczyli głosy. A to jeszcze nie koniec",
+      "link": "https://tvn24.pl/swiat/peru-keiko-fujimori-z-najwieksza-liczba-glosow-po-pierwszej-turze-wyborow-prezydenckich-st9050755?source=rss",
+      "pubDate": "Sat, 16 May 2026 05:44:50 GMT",
+      "description": "Lewicowy kandydat na prezydenta Peru Roberto Sanchez zmierzy się z Keiko Fujimori w czerwcowej drugiej turze wyborów, po tym jak w kwietniowej pierwszej turze głosowania zajął drugie miejsce. Oficjalne wyniki opublikowano po ponad miesiącu od głosowania. Przedłużające się zliczanie głosów doprowadziło do oskarżeń o oszustwa.",
+      "originalTitle": "Ponad miesiąc liczyli głosy. A to jeszcze nie koniec",
+      "originalDescription": "Lewicowy kandydat na prezydenta Peru Roberto Sanchez zmierzy się z Keiko Fujimori w czerwcowej drugiej turze wyborów, po tym jak w kwietniowej pierwszej turze głosowania zajął drugie miejsce. Oficjalne wyniki opublikowano po ponad miesiącu od głosowania. Przedłużające się zliczanie głosów doprowadziło do oskarżeń o oszustwa."
+    },
+    {
+      "title": "Trzecia runda negocjacji przyniosła efekt. Jest decyzja",
+      "link": "https://tvn24.pl/swiat/departament-stanu-usa-oglosil-przedluzenie-rozejmu-miedzy-izraelem-a-libanem-o-45-dni-st9050750?source=rss",
+      "pubDate": "Sat, 16 May 2026 05:30:32 GMT",
+      "description": "Departament Stanu USA poinformował, że Izrael i Liban zgodziły się przedłużyć zawieszenie broni o kolejnych 45 dni. Od czwartku w Waszyngtonie toczyła się trzecia runda rokowań między oboma państwami.",
+      "originalTitle": "Trzecia runda negocjacji przyniosła efekt. Jest decyzja",
+      "originalDescription": "Departament Stanu USA poinformował, że Izrael i Liban zgodziły się przedłużyć zawieszenie broni o kolejnych 45 dni. Od czwartku w Waszyngtonie toczyła się trzecia runda rokowań między oboma państwami."
+    },
+    {
+      "title": "TVN24 już w Lądku-Zdroju. \"Możemy ujawnić tajemnice\"",
+      "link": "https://tvn24.pl/25-lat-TVN24/ladek-zdroj-urodzinowa-trasa-tvn24-st9050781?source=rss",
+      "pubDate": "Sat, 16 May 2026 04:59:00 GMT",
+      "description": "Zespół TVN24 dotarł do Lądka-Zdroju, kolejnego przystanku urodzinowej trasy \"Jesteśmy stąd\". Na widzów czeka wiele atrakcji. Zapraszamy do wspólnego świętowania!",
+      "originalTitle": "TVN24 już w Lądku-Zdroju. \"Możemy ujawnić tajemnice\"",
+      "originalDescription": "Zespół TVN24 dotarł do Lądka-Zdroju, kolejnego przystanku urodzinowej trasy \"Jesteśmy stąd\". Na widzów czeka wiele atrakcji. Zapraszamy do wspólnego świętowania!"
+    },
+    {
+      "title": "Kościół jest w tej sprawie podzielony. Kolejni papieże obawiają się schizmy",
+      "link": "https://tvn24.pl/swiat/terlikowski-watykan-wyslal-do-wiernych-sygnal-w-sprawie-osob-lgbtq-st9050252?source=rss",
+      "pubDate": "Sat, 16 May 2026 04:57:31 GMT",
+      "description": "Chyba po raz pierwszy w oficjalnym dokumencie watykańskim oddany został głos wierzącym gejom i lesbijkom. Mówią w nim własnym głosem, a nie tylko traktowani są jako przedmiot analizy innych. Autorzy dokumentu odrzucają też terapię reparatywną, która rzekomo ma pomagać w zmianie orientacji z homoseksualnej na heteroseksualną - pisze filozof i publicysta Tomasz P. Terlikowski. I stawia pytanie: jaki sygnał wysyła do wiernych Kościół?",
+      "originalTitle": "Kościół jest w tej sprawie podzielony. Kolejni papieże obawiają się schizmy",
+      "originalDescription": "Chyba po raz pierwszy w oficjalnym dokumencie watykańskim oddany został głos wierzącym gejom i lesbijkom. Mówią w nim własnym głosem, a nie tylko traktowani są jako przedmiot analizy innych. Autorzy dokumentu odrzucają też terapię reparatywną, która rzekomo ma pomagać w zmianie orientacji z homoseksualnej na heteroseksualną - pisze filozof i publicysta Tomasz P. Terlikowski. I stawia pytanie: jaki sygnał wysyła do wiernych Kościół?"
+    }
+  ]
 }
