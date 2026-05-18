@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-18T18:40:38.106Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-18T19:35:24.841Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Trump: Wstrzymałem zaplanowany atak na Iran. Na prośbę sojuszników",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-donald-trump-wstrzymalem-zaplanowany-atak-na-iran-na-prosbe-sojusznikow-st9054396?source=rss",
+      "pubDate": "Mon, 18 May 2026 19:28:45 GMT",
+      "description": "Na prośbę przywódców Arabii Saudyjskiej, Kataru i Zjednoczonych Emiratów Arabskich wstrzymałem zaplanowany na jutro atak na Iran - przekazał prezydent USA Donald Trump. Zastrzegł jednak, że poinstruował szefa Pentagonu i dowódcę armii, \"aby byli gotowi do przeprowadzenia pełnego, zakrojonego na szeroką skalę ataku w każdej chwili\".",
+      "originalTitle": "Trump: Wstrzymałem zaplanowany atak na Iran. Na prośbę sojuszników",
+      "originalDescription": "Na prośbę przywódców Arabii Saudyjskiej, Kataru i Zjednoczonych Emiratów Arabskich wstrzymałem zaplanowany na jutro atak na Iran - przekazał prezydent USA Donald Trump. Zastrzegł jednak, że poinstruował szefa Pentagonu i dowódcę armii, \"aby byli gotowi do przeprowadzenia pełnego, zakrojonego na szeroką skalę ataku w każdej chwili\"."
+    },
+    {
+      "title": "Lider tanich linii zapowiada przeceny. Chce zachęcić podróżnych",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ceny-biletow-lotniczych-w-dol-ryanair-chce-zachecic-podroznych-st9054393?source=rss",
+      "pubDate": "Mon, 18 May 2026 19:00:55 GMT",
+      "description": "Ryanair zapowiedział letnie obniżki cen biletów, by zachęcić klientów, którzy z większą rezerwą planują podróże. Linia podjęła tę decyzję po ogłoszeniu rekordowego, rocznego zysku, podkreślając jednocześnie, że ryzyko niedoboru paliwa lotniczego w Europie praktycznie zniknęło - przekazał w poniedziałek Reuters.",
+      "originalTitle": "Lider tanich linii zapowiada przeceny. Chce zachęcić podróżnych",
+      "originalDescription": "Ryanair zapowiedział letnie obniżki cen biletów, by zachęcić klientów, którzy z większą rezerwą planują podróże. Linia podjęła tę decyzję po ogłoszeniu rekordowego, rocznego zysku, podkreślając jednocześnie, że ryzyko niedoboru paliwa lotniczego w Europie praktycznie zniknęło - przekazał w poniedziałek Reuters."
+    },
+    {
+      "title": "\"Sprawa będzie wyjaśniana przez komendanta\". Kierwiński o telefonie zabitej Danusi",
+      "link": "https://tvn24.pl/polska/marcin-kierwinski-o-sprawie-zabojstwa-11-letniej-danusi-z-jeleniej-gory-st9054381?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:54:20 GMT",
+      "description": "Szef MSWiA Marcin Kierwiński w \"Kropce nad i\" w TVN24 komentował postępowanie w sprawie zabójstwa 11-letniej Danusi z Jeleniej Góry. Przyznał, że fakty przedstawione przez matkę dziewczynki w rozmowie z TVN24+ to \"niezrozumiała\" dla niego sytuacja. Zapowiedział wyjaśnienie sprawy.",
+      "originalTitle": "\"Sprawa będzie wyjaśniana przez komendanta\". Kierwiński o telefonie zabitej Danusi",
+      "originalDescription": "Szef MSWiA Marcin Kierwiński w \"Kropce nad i\" w TVN24 komentował postępowanie w sprawie zabójstwa 11-letniej Danusi z Jeleniej Góry. Przyznał, że fakty przedstawione przez matkę dziewczynki w rozmowie z TVN24+ to \"niezrozumiała\" dla niego sytuacja. Zapowiedział wyjaśnienie sprawy."
+    },
+    {
+      "title": "Rozpoczęły się prace w jednym z najbardziej tajemniczych zabytków stolicy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-to-jeden-z-najbardziej-tajemniczych-zabytkow-ruszyly-prace-w-elizeum-st9054293?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:48:44 GMT",
+      "description": "Nietoperze dostały nowy dom, dzięki czemu mogły ruszyć prace w Elizeum. Po wyprowadzce zwierząt na teren wkroczyli specjaliści, którzy będą obserwować, jak zachowuje się cegła w trakcie osuszania - przekazał Stołeczny Konserwator Zabytków Michał Krasucki.",
+      "originalTitle": "Rozpoczęły się prace w jednym z najbardziej tajemniczych zabytków stolicy",
+      "originalDescription": "Nietoperze dostały nowy dom, dzięki czemu mogły ruszyć prace w Elizeum. Po wyprowadzce zwierząt na teren wkroczyli specjaliści, którzy będą obserwować, jak zachowuje się cegła w trakcie osuszania - przekazał Stołeczny Konserwator Zabytków Michał Krasucki."
+    },
+    {
+      "title": "\"Chwycił mój smartfon i uciekł\". Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/sokol-zabral-smartfon-ornitologowi-chwycil-moj-smartfon-i-uciekl-nagranie-st9054281?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:36:00 GMT",
+      "description": "Belgijski ornitolog obrączkował młode sokoły w gnieździe na wieży jednego z kościołów. W pewnym momencie mężczyzna zrobił coś, co bardzo nie spodobało się matce ptaków. Wszystko zarejestrowała kamera.",
+      "originalTitle": "\"Chwycił mój smartfon i uciekł\". Nagranie",
+      "originalDescription": "Belgijski ornitolog obrączkował młode sokoły w gnieździe na wieży jednego z kościołów. W pewnym momencie mężczyzna zrobił coś, co bardzo nie spodobało się matce ptaków. Wszystko zarejestrowała kamera."
+    },
+    {
+      "title": "Interwencja w mieszkaniu Sakiewicza. Szef MSWiA tłumaczy",
+      "link": "https://tvn24.pl/polska/interwencja-w-mieszkaniu-sakiewicza-szef-mswia-tlumaczy-st9054323?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:26:32 GMT",
+      "description": "Policjanci przyjechali, ponieważ mieli takie zgłoszenie i taki był obowiązek - powiedział minister spraw wewnętrznych i administracji Marcin Kierwiński w \"Kropce nad i\" w TVN24. W ten sposób tłumaczył pojawienie się funkcjonariuszy w mieszkaniu Tomasza Sakiewicza. Zdaniem ministra prezes Telewizji Republika próbuje budować wokół tej sprawy atmosferę \"nadzwyczajnej interwencji\".",
+      "originalTitle": "Interwencja w mieszkaniu Sakiewicza. Szef MSWiA tłumaczy",
+      "originalDescription": "Policjanci przyjechali, ponieważ mieli takie zgłoszenie i taki był obowiązek - powiedział minister spraw wewnętrznych i administracji Marcin Kierwiński w \"Kropce nad i\" w TVN24. W ten sposób tłumaczył pojawienie się funkcjonariuszy w mieszkaniu Tomasza Sakiewicza. Zdaniem ministra prezes Telewizji Republika próbuje budować wokół tej sprawy atmosferę \"nadzwyczajnej interwencji\"."
+    },
+    {
+      "title": "Policja na posesji Jarosława Kaczyńskiego",
+      "link": "https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-policja-na-posesji-jaroslawa-kaczynskiego-st9054325?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:21:36 GMT",
+      "description": "Rzecznik Prawa i Sprawiedliwości Rafał Bochenek poinformował, że w niedzielę policja interweniowała na posesji Jarosława Kaczyńskiego na warszawskim Żoliborzu. Funkcjonariusze sprawdzali zgłoszenie o zagrożeniu, które wpłynęło do komendy mailowo. Nie potwierdziło się.",
+      "originalTitle": "Policja na posesji Jarosława Kaczyńskiego",
+      "originalDescription": "Rzecznik Prawa i Sprawiedliwości Rafał Bochenek poinformował, że w niedzielę policja interweniowała na posesji Jarosława Kaczyńskiego na warszawskim Żoliborzu. Funkcjonariusze sprawdzali zgłoszenie o zagrożeniu, które wpłynęło do komendy mailowo. Nie potwierdziło się."
+    },
+    {
+      "title": "Kolejny cios w Zondacrypto. Estoński nadzór reaguje",
+      "link": "https://tvn24.pl/biznes/tech/estonia-cios-w-spolke-powiazana-z-zondacrypto-licencja-czesciowo-zawieszona-st9054359?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:10:59 GMT",
+      "description": "Licencja operacyjna spółki BB Trade Estonia OU, powiązanej z Zondacrypto, została częściowo zawieszona - poinformowała w poniedziałek estońska jednostka wywiadu finansowego (FIU). Decyzja oznacza, że firma nie może obecnie przyjmować nowych środków od klientów ani nawiązywać relacji z nowymi użytkownikami, a jej dalsze funkcjonowanie zależy od spełnienia wymogów stawianych przez estońskie prawo.",
+      "originalTitle": "Kolejny cios w Zondacrypto. Estoński nadzór reaguje",
+      "originalDescription": "Licencja operacyjna spółki BB Trade Estonia OU, powiązanej z Zondacrypto, została częściowo zawieszona - poinformowała w poniedziałek estońska jednostka wywiadu finansowego (FIU). Decyzja oznacza, że firma nie może obecnie przyjmować nowych środków od klientów ani nawiązywać relacji z nowymi użytkownikami, a jej dalsze funkcjonowanie zależy od spełnienia wymogów stawianych przez estońskie prawo."
+    },
+    {
+      "title": "Sytuacja w sądach jest \"dramatyczna\". To \"prowadzi dzisiaj do blokady\"",
+      "link": "https://tvn24.pl/polska/sytuacja-w-sadach-jest-dramatyczna-to-prowadzi-dzisiaj-do-blokady-st9054282?source=rss",
+      "pubDate": "Mon, 18 May 2026 18:06:38 GMT",
+      "description": "Jesteśmy świadkami demontowania państwa pomimo wysiłków podejmowanych w kierunku powrotu do rządów prawa - powiedział w \"Faktach po Faktach\" w TVN24 profesor Marek Safjan, który komentował sytuację w wymiarze sprawiedliwości. Jak mówił, \"sprytnie zostało to zaaranżowane przez poprzednio rządzących\".",
+      "originalTitle": "Sytuacja w sądach jest \"dramatyczna\". To \"prowadzi dzisiaj do blokady\"",
+      "originalDescription": "Jesteśmy świadkami demontowania państwa pomimo wysiłków podejmowanych w kierunku powrotu do rządów prawa - powiedział w \"Faktach po Faktach\" w TVN24 profesor Marek Safjan, który komentował sytuację w wymiarze sprawiedliwości. Jak mówił, \"sprytnie zostało to zaaranżowane przez poprzednio rządzących\"."
+    },
+    {
+      "title": "Ebola w Afryce Środkowej. Amerykanie wprowadzają nadzwyczajne środki",
+      "link": "https://tvn24.pl/swiat/epidemia-eboli-w-afryce-srodkowej-usa-wprowadzaja-nowe-srodki-bezpieczenstwa-st9054227?source=rss",
+      "pubDate": "Mon, 18 May 2026 17:58:39 GMT",
+      "description": "Po wprowadzeniu w poniedziałek stanu zagrożenia zdrowia publicznego przez Światową Organizację Zdrowia (WHO), kolejna agencja reaguje na potencjalne zagrożenie wirusem ebola. Amerykańskie Centrum Prewencji i Kontroli Chorób wprowadza środki mające zapobiec rozprzestrzenieniu się wirusa ze źródła epidemii w Afryce Środkowej do USA.",
+      "originalTitle": "Ebola w Afryce Środkowej. Amerykanie wprowadzają nadzwyczajne środki",
+      "originalDescription": "Po wprowadzeniu w poniedziałek stanu zagrożenia zdrowia publicznego przez Światową Organizację Zdrowia (WHO), kolejna agencja reaguje na potencjalne zagrożenie wirusem ebola. Amerykańskie Centrum Prewencji i Kontroli Chorób wprowadza środki mające zapobiec rozprzestrzenieniu się wirusa ze źródła epidemii w Afryce Środkowej do USA."
+    }
+  ]
 }
