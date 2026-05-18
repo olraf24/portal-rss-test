@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-18T16:35:59.975Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-18T17:44:16.230Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "W Niemczech zawalił się budynek. Trwa akcja",
+      "link": "https://tvn24.pl/swiat/niemcy-w-gorlitz-zawalil-sie-budynek-trwa-akcja-st9054301?source=rss",
+      "pubDate": "Mon, 18 May 2026 17:28:12 GMT",
+      "description": "W niemieckim mieście Görlitz przy granicy z Polską zawaliła się kamienica - informują niemieckie media. Na miejscu zdarzenia pracują służby. Zabezpieczają teren przed rozpoczęciem poszukiwań ewentualnych ofiar zdarzenia.",
+      "originalTitle": "W Niemczech zawalił się budynek. Trwa akcja",
+      "originalDescription": "W niemieckim mieście Görlitz przy granicy z Polską zawaliła się kamienica - informują niemieckie media. Na miejscu zdarzenia pracują służby. Zabezpieczają teren przed rozpoczęciem poszukiwań ewentualnych ofiar zdarzenia."
+    },
+    {
+      "title": "Trump ma jedyną opcję. Kluczem cieśnina Ormuz",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-ma-jedyna-opcje-kluczem-ciesnina-ormuz-st9054296?source=rss",
+      "pubDate": "Mon, 18 May 2026 17:25:18 GMT",
+      "description": "Kryzys energetyczny stał się finansowym koszmarem dla amerykańskiej klasy średniej i politycznym problemem dla Białego Domu. Inflacja ponownie przyspiesza, realne płace spadają, a wyborcy obwiniają prezydenta Donalda Trumpa za benzynę kosztującą 4,50 dolara za galon - podał portal stacji CNN.",
+      "originalTitle": "Trump ma jedyną opcję. Kluczem cieśnina Ormuz",
+      "originalDescription": "Kryzys energetyczny stał się finansowym koszmarem dla amerykańskiej klasy średniej i politycznym problemem dla Białego Domu. Inflacja ponownie przyspiesza, realne płace spadają, a wyborcy obwiniają prezydenta Donalda Trumpa za benzynę kosztującą 4,50 dolara za galon - podał portal stacji CNN."
+    },
+    {
+      "title": "Nie żyje osoba zakażona hantawirusem. Przypadek nie był związany z MV Hondius",
+      "link": "https://tvn24.pl/swiat/usa-nie-zyje-osoba-zakazona-hantawirusem-st9054292?source=rss",
+      "pubDate": "Mon, 18 May 2026 17:23:22 GMT",
+      "description": "Mieszkaniec hrabstwa Douglas w stanie Kolorado zmarł z powodu infekcji hantawirusem - poinformowały stanowe organy zdrowia publicznego. Zaznaczyły jednak, że nie jest to związane z ogniskiem na statku MV Hondius. Przypadek dotyczy innej odmiany wirusa.",
+      "originalTitle": "Nie żyje osoba zakażona hantawirusem. Przypadek nie był związany z MV Hondius",
+      "originalDescription": "Mieszkaniec hrabstwa Douglas w stanie Kolorado zmarł z powodu infekcji hantawirusem - poinformowały stanowe organy zdrowia publicznego. Zaznaczyły jednak, że nie jest to związane z ogniskiem na statku MV Hondius. Przypadek dotyczy innej odmiany wirusa."
+    },
+    {
+      "title": "Blacha spadła na przedszkolaków, cztery osoby oskarżone",
+      "link": "https://tvn24.pl/szczecin/polanow-blacha-z-dachu-spadla-na-przedszkolakow-cztery-osoby-oskarzone-st9054283?source=rss",
+      "pubDate": "Mon, 18 May 2026 17:06:56 GMT",
+      "description": "Prokuratura oskarżyła cztery osoby o nieumyślne sprowadzenie niebezpieczeństwa dla życia lub zdrowia wielu osób i spowodowanie lekkich obrażeń trzech osób. Trzy lata temu z dachu przedszkola w Polanowie (Zachodniopomorskie) spadła blacha, uderzając w dwoje dzieci i nauczycielkę. Według biegłego remont był wykonywany nieprawidłowo.",
+      "originalTitle": "Blacha spadła na przedszkolaków, cztery osoby oskarżone",
+      "originalDescription": "Prokuratura oskarżyła cztery osoby o nieumyślne sprowadzenie niebezpieczeństwa dla życia lub zdrowia wielu osób i spowodowanie lekkich obrażeń trzech osób. Trzy lata temu z dachu przedszkola w Polanowie (Zachodniopomorskie) spadła blacha, uderzając w dwoje dzieci i nauczycielkę. Według biegłego remont był wykonywany nieprawidłowo."
+    },
+    {
+      "title": "Najstarszy mrówkojad pod opieką człowieka żyje w Warszawie",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-30-urodziny-mrowkojada-st9054253?source=rss",
+      "pubDate": "Mon, 18 May 2026 17:05:50 GMT",
+      "description": "Warszawskie zoo zaprasza na urodziny najstarszego mrówkojada na świecie żyjącego pod opieką człowieka. Yuri to wyjątkowa mieszkanka warszawskiego ogrodu zoologicznego, a osiągnięcie 30 lat jest ewenementem na skalę światową.",
+      "originalTitle": "Najstarszy mrówkojad pod opieką człowieka żyje w Warszawie",
+      "originalDescription": "Warszawskie zoo zaprasza na urodziny najstarszego mrówkojada na świecie żyjącego pod opieką człowieka. Yuri to wyjątkowa mieszkanka warszawskiego ogrodu zoologicznego, a osiągnięcie 30 lat jest ewenementem na skalę światową."
+    },
+    {
+      "title": "Gdzie jest burza? Tu wciąż grzmi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-poniedzialek-18-05-mapa-i-radar-burz-wyladowania-wedruja-nad-krajem-st9052799?source=rss",
+      "pubDate": "Mon, 18 May 2026 04:21:25 GMT",
+      "description": "Gdzie jest burza? W poniedziałek w części kraju słychać grzmoty. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu wciąż grzmi",
+      "originalDescription": "Gdzie jest burza? W poniedziałek w części kraju słychać grzmoty. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Rosyjska ropa bez sankcji. Jest decyzja USA",
+      "link": "https://tvn24.pl/biznes/ze-swiata/sankcje-na-rosje-zawieszone-jest-decyzja-administracji-trumpa-st9054274?source=rss",
+      "pubDate": "Mon, 18 May 2026 16:36:03 GMT",
+      "description": "Amerykański Departament Skarbu zdecydował o wydaniu kolejnej licencji czasowo znoszącej sankcje na zakup rosyjskiej ropy naftowej załadowanej na statki - poinformował w poniedziałek Reuters. To już trzecia taka decyzja od momentu wybuchu wojny z Iranem.",
+      "originalTitle": "Rosyjska ropa bez sankcji. Jest decyzja USA",
+      "originalDescription": "Amerykański Departament Skarbu zdecydował o wydaniu kolejnej licencji czasowo znoszącej sankcje na zakup rosyjskiej ropy naftowej załadowanej na statki - poinformował w poniedziałek Reuters. To już trzecia taka decyzja od momentu wybuchu wojny z Iranem."
+    },
+    {
+      "title": "Izrael \"dopuszcza się piractwa\". Polak zatrzymany na pokładzie łodzi",
+      "link": "https://tvn24.pl/swiat/plyna-do-strefy-gazy-z-pomoca-humanitarna-msz-i-organizatorzy-na-statkach-sa-polacy-st9053711?source=rss",
+      "pubDate": "Mon, 18 May 2026 12:31:05 GMT",
+      "description": "Na pokładzie jednej z łodzi Globalnej Flotylli Sumud zatrzymany został Polak - poinformował rzecznik Global Sumud Polska Rafał Piotrowski. Wicemarszałkini Senatu Magdalena Biejat zapowiedziała w tej sprawie interwencję w resorcie spraw zagranicznych.",
+      "originalTitle": "Izrael \"dopuszcza się piractwa\". Polak zatrzymany na pokładzie łodzi",
+      "originalDescription": "Na pokładzie jednej z łodzi Globalnej Flotylli Sumud zatrzymany został Polak - poinformował rzecznik Global Sumud Polska Rafał Piotrowski. Wicemarszałkini Senatu Magdalena Biejat zapowiedziała w tej sprawie interwencję w resorcie spraw zagranicznych."
+    },
+    {
+      "title": "Pogoda na jutro - wtorek, 19.05. Nocą zrobi się mgliście",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-wtorek-19-05-noca-zrobi-sie-mgliscie-st9054216?source=rss",
+      "pubDate": "Mon, 18 May 2026 16:32:57 GMT",
+      "description": "Pogoda na jutro. Noc przyniesie lokalnie niewielkie opady deszczu oraz mgły. Wtorek 19.05 zapowiada się z pochmurną, a miejscami burzową aurą.",
+      "originalTitle": "Pogoda na jutro - wtorek, 19.05. Nocą zrobi się mgliście",
+      "originalDescription": "Pogoda na jutro. Noc przyniesie lokalnie niewielkie opady deszczu oraz mgły. Wtorek 19.05 zapowiada się z pochmurną, a miejscami burzową aurą."
+    },
+    {
+      "title": "Strefa Tempo 30 na Targówku. Obejmie sześć ulic",
+      "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-strefa-tempo-30-na-targowku-obejmie-szesc-ulic-st9053983?source=rss",
+      "pubDate": "Mon, 18 May 2026 16:21:29 GMT",
+      "description": "Targówek przygotowuje się na wprowadzenie strefy Tempo 30. Po zmianach maksymalna prędkość na poszczególnych drogach dojazdowych w dzielnicy wyniesie 30 kilometrów na godzinę. Wiadomo, które ulice obejmie projekt.",
+      "originalTitle": "Strefa Tempo 30 na Targówku. Obejmie sześć ulic",
+      "originalDescription": "Targówek przygotowuje się na wprowadzenie strefy Tempo 30. Po zmianach maksymalna prędkość na poszczególnych drogach dojazdowych w dzielnicy wyniesie 30 kilometrów na godzinę. Wiadomo, które ulice obejmie projekt."
+    }
+  ]
 }
