@@ -1,16 +1,40 @@
 {
-  "lastUpdate": "2026-05-19T10:42:04.839Z",
+  "lastUpdate": "2026-05-19T12:02:51.967Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
     {
-      "title": "Samolot NATO zestrzelił ukraińskiego drona nad Estonią",
+      "title": "Prawie 1200 km dróg pod siatkami. Ukraina chroni trasy logistyczne przed dronami",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/prawie-1200-km-drog-pod-siatkami-ukraina-chroni-trasy-logistyczne-przed-dronami",
+      "pubDate": "Tue, 19 May 2026 13:36:40 +0200",
+      "description": "Ukraińskie władze poinformowały o znaczącym przyspieszeniu prac nad budową infrastruktury chroniącej kluczowe trasy logistyczne przed atakami dronów FPV w regionach przyfrontowych. Jak przekazał Minister Obrony Ukrainy Mychajło Fiedorow, łączna długość zabezpieczonych odcinków dróg przekroczyła już 1176 kilometrów, a tempo realizacji projektu wzrosło ponad dwukrotnie w porównaniu z poprzednimi latami."
+    },
+    {
+      "title": "Amerykański ekspert: Pentagon popełnił błąd. Rotację w Polsce trzeba przywrócić",
+      "link": "https://defence24.pl/geopolityka/amerykanski-ekspert-pentagon-popelnil-blad-rotacje-w-polsce-trzeba-przywrocic",
+      "pubDate": "Tue, 19 May 2026 13:10:26 +0200",
+      "description": "Anulowanie rozmieszczenia brygady pancernej było błędem; trzeba przeprosić i przywrócić jej rotację – powiedział PAP Mark Montgomery, emerytowany kadm. marynarki wojennej USA. Dodał, że trzeba też rozważyć utworzenie w Polsce stałej bazy."
+    },
+    {
+      "title": "BAE Systems zwiększa wydajność F-16",
+      "link": "https://defence24.pl/przemysl/firma-bae-systems-zwiekszy-wydajnosc-f-16",
+      "pubDate": "Tue, 19 May 2026 13:00:02 +0200",
+      "description": "Firma BAE Systems pomyślnie zakończyła prace nad rozwojem i integracją zmodernizowanej funkcjonalności testowej Link 16 dla terminali MIDS JTRS (Multifunctional Information Distribution System Joint Tactical Radio System) w samolotach F-16 Sił Powietrznych USA. Ta modernizacja usprawnia proces obsługi, umożliwiając szybszy powrót samolotów do eksploatacji."
+    },
+    {
+      "title": "Państwowy Węglokoks i Agencja Mienia Wojskowego właścicielami Huty Częstochowa",
+      "link": "https://defence24.pl/przemysl/panstwowy-weglokoks-i-agencja-mienia-wojskowego-wlascicielami-huty-czestochowa",
+      "pubDate": "Tue, 19 May 2026 12:45:01 +0200",
+      "description": "W poniedziałek podpisano dokumenty kończące proces budowy docelowej struktury właścicielskiej Huty Częstochowa: 50,1 proc. udziałów przejął Węglokoks, a AMW 49,9 proc. Zakład jest jedynym w Polsce producentem hartowanych blach do budowy czołgów, transporterów opancerzonych i okrętów."
+    },
+    {
+      "title": "F-16 zestrzelił ukraińskiego drona. „Celem była Rosja” [AKTUALIZACJA]",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/samolot-nato-zestrzelil-ukrainskiego-drona-nad-estonia",
       "pubDate": "Tue, 19 May 2026 12:30:00 +0200",
       "description": "W przestrzeni powietrznej Estonii doszło do incydentu z udziałem bezzałogowego statku powietrznego, który został przechwycony i zestrzelony przez samolot NATO. Zdarzenie zostało potwierdzone przez estońskiego ministra obrony Hanno Pevkura, który podkreślił, że był to pierwszy przypadek użycia siły wobec drona nad terytorium kraju."
     },
     {
-      "title": "Śmigłowiec szkoleniowy zza Atlantyku",
+      "title": "Śmigłowiec Szkoleniowy sprawdzony w boju",
       "link": "https://defence24.pl/przemysl/smiglowiec-szkoleniowy-zza-atlantyku",
       "pubDate": "Tue, 19 May 2026 12:16:35 +0200",
       "description": "Śmigłowiec szkoleniowy zza Atlantyku. Czy MD530F jest poważnym kandydatem do zaspokojenia przyszłych potrzeb Polski w zakresie szkolenia na śmigłowcach?"
@@ -68,30 +92,6 @@
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosja-mogla-utracic-jeden-z-najcenniejszych-smiglowcow-wre",
       "pubDate": "Tue, 19 May 2026 08:35:36 +0200",
       "description": "Rosyjskie lotnictwo prawdopodobnie straciło śmigłowiec Mi-8 w rzadkiej wersji Mi-8MTP-1 przeznaczonej do walki radioelektronicznej. Informację podały rosyjskie kanały związane z lotnictwem wojskowym, m.in. „Wojewoda Weszczajet” oraz „Me and My Helicopter”."
-    },
-    {
-      "title": "Optoelektronika - jak się rozwija i jak ją „oszukać”",
-      "link": "https://defence24.pl/przemysl/optoelektronika-jak-sie-rozwija-i-jak-ja-oszukac",
-      "pubDate": "Tue, 19 May 2026 08:19:56 +0200",
-      "description": "Pod wpływem doświadczeń płynących z pól bitewnych Ukrainy pojawiło się określenie „przezroczystego pola walki”, odnoszące się do powszechnego wykorzystania bezzałogowych systemów wyposażonych w optoelektronikę pozwalającą na obserwację w różnych warunkach, w dzień i w nocy. Stawia to ogromne wymagania przed projektantami odzieży, wyposażenia i kamuflażu, ale jednocześnie jest to wyzwanie dla producentów pokroju PCO, którzy z kolei chcą, by ich urządzenia jak najskuteczniej demaskowały wroga. To klasyczne starcie tarczy i miecza."
-    },
-    {
-      "title": "Rosyjscy żołnierze odsyłani na front mimo ciężkich ran. Udokumentowano setki przypadków",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosyjscy-zolnierze-odsylani-na-front-mimo-ciezkich-ran-udokumentowano-setki-przypadkow",
-      "pubDate": "Tue, 19 May 2026 08:13:59 +0200",
-      "description": "Niezależni dziennikarze i badacze z projektu Veter udokumentowali co najmniej 319 przypadków rosyjskich żołnierzy, którzy mimo poważnych obrażeń byli odsyłani z powrotem na front przed zakończeniem leczenia. Według autorów raportu podobne sytuacje mają miejsce od 2022 roku, a rzeczywista skala zjawiska może być znacznie większa."
-    },
-    {
-      "title": "Klasy wojskowe niewypałem? Nie korzystamy z potencjału młodzieży",
-      "link": "https://defence24.pl/polityka-obronna/klasy-wojskowe-niewypalem-nie-korzystamy-z-potencjalu-mlodziezy",
-      "pubDate": "Tue, 19 May 2026 07:43:32 +0200",
-      "description": "Ukończyłeś naukę w pięcioletnim Oddziale Przygotowania Wojskowego i marzysz o służbie w Siłach Zbrojnych? Istnieje znikoma szansa, że dostaniesz etat."
-    },
-    {
-      "title": "Wtorkowy przegląd mediów; Kolejny cel- Kuba?; MSZ o decyzji USA: trwa ustalanie szczegółów",
-      "link": "https://defence24.pl/polityka-obronna/wtorkowy-przeglad-mediow-kolejny-cel-kuba-msz-o-decyzji-usa-trwa-ustalanie-szczegolow",
-      "pubDate": "Tue, 19 May 2026 07:27:14 +0200",
-      "description": "Codzienny przegląd mediów sektora bezpieczeństwa i obronności."
     }
   ]
 }
