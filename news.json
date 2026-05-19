@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-19T15:08:30.425Z",
-  "enhancedWithGroq": false,
-  "error": "Request timeout",
-  "articles": []
+  "lastUpdate": "2026-05-19T16:35:32.971Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dlaczego Putin tak spieszył się do Chin? Zaskakująca wizyta",
+      "link": "https://tvn24.pl/swiat/chiny-wladimir-putin-z-wizyta-tuz-po-trumpie-czego-sie-spodziewac-st9053369?source=rss",
+      "pubDate": "Tue, 19 May 2026 16:19:47 GMT",
+      "description": "Władimir Putin przybywa do Chin z zaskakującą wizytą tuż po Donaldzie Trumpie. Co się dzieje w relacjach pomiędzy trzema mocarstwami? - Chiński przywódca jest dziś wielkim beneficjentem błędów innych - mówi TVN24+ prof. Michał Lubina, ekspert od relacji rosyjsko-chińskich.",
+      "originalTitle": "Dlaczego Putin tak spieszył się do Chin? Zaskakująca wizyta",
+      "originalDescription": "Władimir Putin przybywa do Chin z zaskakującą wizytą tuż po Donaldzie Trumpie. Co się dzieje w relacjach pomiędzy trzema mocarstwami? - Chiński przywódca jest dziś wielkim beneficjentem błędów innych - mówi TVN24+ prof. Michał Lubina, ekspert od relacji rosyjsko-chińskich."
+    },
+    {
+      "title": "Zwrot na rynku złota. \"Najgorszy możliwy czynnik\"",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-zlota-prognoza-dla-cen-zlota-od-czego-zalezy-cena-zlota-michal-stajniak-wicedyrektor-dzialu-analiz-xtb-st9055940?source=rss",
+      "pubDate": "Tue, 19 May 2026 16:07:01 GMT",
+      "description": "Na rynku złota coraz więcej zależy od czynników, których kierunek pozostaje niepewny - od napięć na Bliskim Wschodzie po decyzje nowego szefa Fed w USA. Choć banki centralne, w tym NBP i Chiny, konsekwentnie skupują kruszec, a inwestorzy nadal po niego sięgają, pojawia się pytanie, co dalej z cenami złota.",
+      "originalTitle": "Zwrot na rynku złota. \"Najgorszy możliwy czynnik\"",
+      "originalDescription": "Na rynku złota coraz więcej zależy od czynników, których kierunek pozostaje niepewny - od napięć na Bliskim Wschodzie po decyzje nowego szefa Fed w USA. Choć banki centralne, w tym NBP i Chiny, konsekwentnie skupują kruszec, a inwestorzy nadal po niego sięgają, pojawia się pytanie, co dalej z cenami złota."
+    },
+    {
+      "title": "Był bliski śmierci. \"Ile osób dostaje drugą szansę?\"",
+      "link": "https://tvn24.pl/kultura-i-styl/rezyser-drive-nicolas-winding-refn-byl-bliski-smierci-ile-osob-dostaje-druga-szanse-st9056036?source=rss",
+      "pubDate": "Tue, 19 May 2026 15:58:42 GMT",
+      "description": "Duński reżyser Nicolas Winding Refn rozpłakał się podczas konferencji prasowej w Cannes, wspominając doświadczenie bliskie śmierci. Jak mówi, \"przez 25 minut był martwy\" na stole operacyjnym. Gdy wrócił do życia, zdecydował się \"wykorzystać drugą szansę od Boga\".",
+      "originalTitle": "Był bliski śmierci. \"Ile osób dostaje drugą szansę?\"",
+      "originalDescription": "Duński reżyser Nicolas Winding Refn rozpłakał się podczas konferencji prasowej w Cannes, wspominając doświadczenie bliskie śmierci. Jak mówi, \"przez 25 minut był martwy\" na stole operacyjnym. Gdy wrócił do życia, zdecydował się \"wykorzystać drugą szansę od Boga\"."
+    },
+    {
+      "title": "W środę manifestacja w centrum Warszawy. Utrudnienia i objazdy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-manifestacja-w-srode-20-maja-utrudnienia-i-objazdy-st9055490?source=rss",
+      "pubDate": "Tue, 19 May 2026 15:54:11 GMT",
+      "description": "Z Placu Zamkowego przed Sejm przejdzie w środę, w samo południe, manifestacja organizowana przez \"Solidarność\". Stołeczny ratusz informuje o utrudnieniach i objazdach komunikacji miejskiej.",
+      "originalTitle": "W środę manifestacja w centrum Warszawy. Utrudnienia i objazdy",
+      "originalDescription": "Z Placu Zamkowego przed Sejm przejdzie w środę, w samo południe, manifestacja organizowana przez \"Solidarność\". Stołeczny ratusz informuje o utrudnieniach i objazdach komunikacji miejskiej."
+    },
+    {
+      "title": "Gdzie jest burza? Przybyło burz. Miejscami mogą być silne",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-wtorek-19-05-mapa-i-radar-burz-spodziewane-sa-intensywne-opady-st9055915?source=rss",
+      "pubDate": "Tue, 19 May 2026 13:40:35 GMT",
+      "description": "Gdzie jest burza? We wtorek nad Polską kłębią się burzowe chmury. Miejscami mogą one nieść obfite opady deszczu. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Przybyło burz. Miejscami mogą być silne",
+      "originalDescription": "Gdzie jest burza? We wtorek nad Polską kłębią się burzowe chmury. Miejscami mogą one nieść obfite opady deszczu. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Rower wodny wywrócił się na jeziorze Juksty. Odnaleziono ciało mężczyzny",
+      "link": "https://tvn24.pl/olsztyn/sniadowo-rower-wodny-wywrocil-sie-na-jeziorze-juksty-odnaleziono-cialo-mezczyzny-st9054712?source=rss",
+      "pubDate": "Tue, 19 May 2026 07:43:21 GMT",
+      "description": "Z jeziora Juksty, gdzie trwały poszukiwania młodego mężczyzny, wydobyto ciało. Do czasu ustalenia jego tożsamości policja nie informuje, czy to poszukiwany 18-latek, który z trzema kolegami wypadł rano z roweru wodnego.",
+      "originalTitle": "Rower wodny wywrócił się na jeziorze Juksty. Odnaleziono ciało mężczyzny",
+      "originalDescription": "Z jeziora Juksty, gdzie trwały poszukiwania młodego mężczyzny, wydobyto ciało. Do czasu ustalenia jego tożsamości policja nie informuje, czy to poszukiwany 18-latek, który z trzema kolegami wypadł rano z roweru wodnego."
+    },
+    {
+      "title": "Wojaże Ziobry. Co wiadomo o wyjeździe do USA?",
+      "link": "https://tvn24.pl/polska/zbigniew-ziobro-w-usa-wszystkie-nowe-informacje-o-wyjezdzie-polityka-pis-st9042422?source=rss",
+      "pubDate": "Tue, 19 May 2026 15:35:00 GMT",
+      "description": "Ponad tydzień po tym, jak Zbigniew Ziobro ogłosił, że znalazł się w USA, władze żadnego z państw nie podały dotąd oficjalnie, kiedy i w jaki sposób przekraczał granice. W jego sprawie pojawiają się jednak nowe informacje. Co wiadomo na temat wyjazdu posła PiS? Podsumowujemy.",
+      "originalTitle": "Wojaże Ziobry. Co wiadomo o wyjeździe do USA?",
+      "originalDescription": "Ponad tydzień po tym, jak Zbigniew Ziobro ogłosił, że znalazł się w USA, władze żadnego z państw nie podały dotąd oficjalnie, kiedy i w jaki sposób przekraczał granice. W jego sprawie pojawiają się jednak nowe informacje. Co wiadomo na temat wyjazdu posła PiS? Podsumowujemy."
+    },
+    {
+      "title": "Nowe zasady dla badań technicznych samochodów. Jest projekt",
+      "link": "https://tvn24.pl/biznes/moto/badanie-techniczne-samochodu-projekt-ministerstwa-infrastruktury-zdjecie-licznika-i-samochodu-w-trakcie-badania-technicznego-st9055738?source=rss",
+      "pubDate": "Tue, 19 May 2026 15:34:58 GMT",
+      "description": "Ministerstwo Infrastruktury przygotowało projekt zmiany ustawy o prawie drogowym, w ramach którego między innymi zostanie wprowadzony obowiązek sporządzania dokumentacji fotograficznej w trakcie badania technicznego samochodów - poinformował resort redakcję tvn24.pl.",
+      "originalTitle": "Nowe zasady dla badań technicznych samochodów. Jest projekt",
+      "originalDescription": "Ministerstwo Infrastruktury przygotowało projekt zmiany ustawy o prawie drogowym, w ramach którego między innymi zostanie wprowadzony obowiązek sporządzania dokumentacji fotograficznej w trakcie badania technicznego samochodów - poinformował resort redakcję tvn24.pl."
+    },
+    {
+      "title": "Kosiniak-Kamysz rozmawiał z Hegsethem. To usłyszał w sprawie amerykańskich żołnierzy",
+      "link": "https://tvn24.pl/polska/kosiniak-kamysz-rozmawial-z-hegsethem-to-uslyszal-w-sprawie-amerykanskich-zolnierzy-st9055951?source=rss",
+      "pubDate": "Tue, 19 May 2026 13:53:57 GMT",
+      "description": "Żadna decyzja o zmniejszeniu zdolności wojsk amerykańskich w Polsce nie zapadła - poinformował minister obrony narodowej Władysław Kosiniak-Kamysz, odnosząc się do telefonicznej rozmowy z szefem Pentagonu Pete'em Hegsethem. Przekazał, że w jej czasie wielokrotnie \"usłyszał, że Polska jest modelowym sojusznikiem i w pełni może liczyć na Stany Zjednoczone\".",
+      "originalTitle": "Kosiniak-Kamysz rozmawiał z Hegsethem. To usłyszał w sprawie amerykańskich żołnierzy",
+      "originalDescription": "Żadna decyzja o zmniejszeniu zdolności wojsk amerykańskich w Polsce nie zapadła - poinformował minister obrony narodowej Władysław Kosiniak-Kamysz, odnosząc się do telefonicznej rozmowy z szefem Pentagonu Pete'em Hegsethem. Przekazał, że w jej czasie wielokrotnie \"usłyszał, że Polska jest modelowym sojusznikiem i w pełni może liczyć na Stany Zjednoczone\"."
+    },
+    {
+      "title": "Wyciek gazu na stacji paliw. Trwa akcja służb",
+      "link": "https://tvn24.pl/szczecin/walcz-wyciek-gazu-na-stacji-paliw-trwa-akcja-sluzb-st9056082?source=rss",
+      "pubDate": "Tue, 19 May 2026 15:10:25 GMT",
+      "description": "Wyciek gazu na stacji paliw w Wałczu (woj. zachodniopomorskie). Ewakuowano mieszkańców pobliskich domów. Trwa akcja służb.",
+      "originalTitle": "Wyciek gazu na stacji paliw. Trwa akcja służb",
+      "originalDescription": "Wyciek gazu na stacji paliw w Wałczu (woj. zachodniopomorskie). Ewakuowano mieszkańców pobliskich domów. Trwa akcja służb."
+    }
+  ]
 }
