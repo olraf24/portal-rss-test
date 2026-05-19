@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-19T20:37:38.770Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-19T21:34:22.926Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rozmowa z Peterem Magyarem w TVN24",
+      "link": "https://tvn24.pl/polska/peter-magyar-w-polsce-wywiad-z-premierem-wegier-st9056447?source=rss",
+      "pubDate": "Tue, 19 May 2026 20:31:23 GMT",
+      "description": "Dziennikarz \"Faktów\" TVN Piotr Marciniak przeprowadził wywiad z premierem Węgier Peterem Magyarem. Jest dostępna w TVN24+.",
+      "originalTitle": "Rozmowa z Peterem Magyarem w TVN24",
+      "originalDescription": "Dziennikarz \"Faktów\" TVN Piotr Marciniak przeprowadził wywiad z premierem Węgier Peterem Magyarem. Jest dostępna w TVN24+."
+    },
+    {
+      "title": "Peter Magyar w Polsce. Najpierw Kraków, później Warszawa i zaskoczenie",
+      "link": "https://tvn24.pl/polska/peter-magyar-pierwszy-dzien-wizyty-w-polsce-zwiedzil-krakow-potem-przyjechal-pociagiem-do-warszawy-i-zaskoczyl-st9056419?source=rss",
+      "pubDate": "Tue, 19 May 2026 20:28:27 GMT",
+      "description": "Za nami pierwszy dzień wizyty nowego premiera Węgier w Polsce. Peter Magyar wylądował po południu na lotnisku w Balicach, potem pojechał na Wawel, gdzie spotkał się z kardynałem Grzegorzem Rysiem. Chodził po Rynku Głównym w Krakowie, a pod wieczór pojechał pociągiem do Warszawy, gdzie zaskoczył czekających na niego dziennikarzy.",
+      "originalTitle": "Peter Magyar w Polsce. Najpierw Kraków, później Warszawa i zaskoczenie",
+      "originalDescription": "Za nami pierwszy dzień wizyty nowego premiera Węgier w Polsce. Peter Magyar wylądował po południu na lotnisku w Balicach, potem pojechał na Wawel, gdzie spotkał się z kardynałem Grzegorzem Rysiem. Chodził po Rynku Głównym w Krakowie, a pod wieczór pojechał pociągiem do Warszawy, gdzie zaskoczył czekających na niego dziennikarzy."
+    },
+    {
+      "title": "Ponad pół miliarda złotych w puli Eurojackpot",
+      "link": "https://tvn24.pl/biznes/pieniadze/wyniki-eurojackpot-z-19-maja-2026-roku-oto-liczby-jakie-padly-w-trakcie-losowania-st9056405?source=rss",
+      "pubDate": "Tue, 19 May 2026 19:58:44 GMT",
+      "description": "Wtorkowe losowanie Eurojackpot ponownie nie przyniosło głównej wygranej. Oznacza to, że kumulacja rośnie do 520 milionów złotych. W Polsce najwyższe były dwie wygrane trzeciego stopnia o wartości prawie 1,2 miliona złotych. Oto wyniki losowania z 19 maja 2026 roku.",
+      "originalTitle": "Ponad pół miliarda złotych w puli Eurojackpot",
+      "originalDescription": "Wtorkowe losowanie Eurojackpot ponownie nie przyniosło głównej wygranej. Oznacza to, że kumulacja rośnie do 520 milionów złotych. W Polsce najwyższe były dwie wygrane trzeciego stopnia o wartości prawie 1,2 miliona złotych. Oto wyniki losowania z 19 maja 2026 roku."
+    },
+    {
+      "title": "Kotula o transkrypcji aktów małżeństw. \"Apelowaliśmy do premiera o zmianę\"",
+      "link": "https://tvn24.pl/polska/transkrypcja-aktow-malzenstw-jednoplciowych-katarzyna-kotula-apelowalismy-do-premiera-o-zmiane-st9056296?source=rss",
+      "pubDate": "Tue, 19 May 2026 19:37:24 GMT",
+      "description": "Bardzo żałuję, że zabrakło nam trochę odwagi i determinacji do tego, żebyśmy wprowadzili zmianę, na przykład rejestrowane związki partnerskie, w tamtym roku - przyznała w \"Faktach po Faktach\" w TVN24 posłanka Lewicy, pełnomocniczka rządu do spraw równości Katarzyna Kotula. Mówiła też o drodze do wypracowania wspólnego stanowiska rządu w sprawie transkrypcji aktów małżeństw jednopłciowych.",
+      "originalTitle": "Kotula o transkrypcji aktów małżeństw. \"Apelowaliśmy do premiera o zmianę\"",
+      "originalDescription": "Bardzo żałuję, że zabrakło nam trochę odwagi i determinacji do tego, żebyśmy wprowadzili zmianę, na przykład rejestrowane związki partnerskie, w tamtym roku - przyznała w \"Faktach po Faktach\" w TVN24 posłanka Lewicy, pełnomocniczka rządu do spraw równości Katarzyna Kotula. Mówiła też o drodze do wypracowania wspólnego stanowiska rządu w sprawie transkrypcji aktów małżeństw jednopłciowych."
+    },
+    {
+      "title": "Tu może grzmieć. IMGW wydał prognozę zagrożeń",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-prognoza-zagrozen-imgw-20-21-05-tutaj-moze-zagrzmiec-st9054498?source=rss",
+      "pubDate": "Tue, 19 May 2026 04:34:59 GMT",
+      "description": "Pogoda w Polsce. Niebezpieczna aura może powrócić w środę i czwartek. Instytut Meteorologii i Gospodarki Wodnej planuje w te dni wydać ostrzeżenia przed burzami. Sprawdź, gdzie warto będzie zachować ostrożność.",
+      "originalTitle": "Tu może grzmieć. IMGW wydał prognozę zagrożeń",
+      "originalDescription": "Pogoda w Polsce. Niebezpieczna aura może powrócić w środę i czwartek. Instytut Meteorologii i Gospodarki Wodnej planuje w te dni wydać ostrzeżenia przed burzami. Sprawdź, gdzie warto będzie zachować ostrożność."
+    },
+    {
+      "title": "Wyjątek od sankcji. Olej napędowy i paliwo lotnicze z rosyjskiej ropy dostały zielone światło",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rosyjska-ropa-wielka-brytania-lagodzi-sankcje-i-zezwala-na-zakup-oleju-napedowego-i-paliwa-lotniczego-z-rosyjskiej-ropy-st9056376?source=rss",
+      "pubDate": "Tue, 19 May 2026 19:23:54 GMT",
+      "description": "Rząd Wielkiej Brytanii wydał zezwolenie na zakup oleju napędowego i paliwa lotniczego, które są rafinowane z rosyjskiej ropy w państwach trzecich. Nowe przepisy zaczną obowiązywać w środę i będą obowiązywać bezterminowo, choć będą okresowo poddawane przeglądowi i mogą zostać zmienione lub odwołane – poinformował rząd w komunikacie.",
+      "originalTitle": "Wyjątek od sankcji. Olej napędowy i paliwo lotnicze z rosyjskiej ropy dostały zielone światło",
+      "originalDescription": "Rząd Wielkiej Brytanii wydał zezwolenie na zakup oleju napędowego i paliwa lotniczego, które są rafinowane z rosyjskiej ropy w państwach trzecich. Nowe przepisy zaczną obowiązywać w środę i będą obowiązywać bezterminowo, choć będą okresowo poddawane przeglądowi i mogą zostać zmienione lub odwołane – poinformował rząd w komunikacie."
+    },
+    {
+      "title": "Jeszcze dobrze nie skończyli, już muszą poprawiać",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-tramwaj-do-wilanowa-poprawki-przy-kraweznikach-st9056156?source=rss",
+      "pubDate": "Tue, 19 May 2026 19:11:44 GMT",
+      "description": "Choć ta inwestycja rozpoczęła się cztery lata temu i wciąż nie jest w stu procentach ukończona, już wymaga poprawek. W kilku miejscach główny wykonawca tramwaju do Wilanowa musi naprawić krzywe krawężniki przy torach.",
+      "originalTitle": "Jeszcze dobrze nie skończyli, już muszą poprawiać",
+      "originalDescription": "Choć ta inwestycja rozpoczęła się cztery lata temu i wciąż nie jest w stu procentach ukończona, już wymaga poprawek. W kilku miejscach główny wykonawca tramwaju do Wilanowa musi naprawić krzywe krawężniki przy torach."
+    },
+    {
+      "title": "Tysiące aut pod wodą. Rośnie bilans ofiar powodzi",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-smiercionosne-powodzie-nie-zyje-kilkanascie-osob-st9054725?source=rss",
+      "pubDate": "Tue, 19 May 2026 08:45:42 GMT",
+      "description": "W wyniku gwałtownych powodzi, które nawiedziły Chiny, zginęło 21 osób. Wciąż wiele prowincji i regionów autonomicznych jest narażonych na powodzie i osuwiska - przekazała krajowa agencja meteorologiczna.",
+      "originalTitle": "Tysiące aut pod wodą. Rośnie bilans ofiar powodzi",
+      "originalDescription": "W wyniku gwałtownych powodzi, które nawiedziły Chiny, zginęło 21 osób. Wciąż wiele prowincji i regionów autonomicznych jest narażonych na powodzie i osuwiska - przekazała krajowa agencja meteorologiczna."
+    },
+    {
+      "title": "Peter Magyar dotarł do Warszawy i od razu zaskoczył",
+      "link": "https://tvn24.pl/polska/premier-wegier-peter-magyar-w-polsce-relacja-na-zywo-st9055683?source=rss",
+      "pubDate": "Tue, 19 May 2026 12:10:28 GMT",
+      "description": "Premier Węgier Peter Magyar przebywa z wizytą w Polsce. Pierwszym punktem wizyty była katedra wawelska i spotkanie z metropolitą krakowskim kardynałem Grzegorzem Rysiem. Po południu wystąpił na konferencji prasowej, na której między innymi opowiedział o okolicznościach wyjazdu z Węgier Zbigniewa Ziobry. Wieczorem dotarł do Warszawy i zaskoczył oczekujących. Wydarzenie relacjonujemy w TVN24 i tvn24.pl.",
+      "originalTitle": "Peter Magyar dotarł do Warszawy i od razu zaskoczył",
+      "originalDescription": "Premier Węgier Peter Magyar przebywa z wizytą w Polsce. Pierwszym punktem wizyty była katedra wawelska i spotkanie z metropolitą krakowskim kardynałem Grzegorzem Rysiem. Po południu wystąpił na konferencji prasowej, na której między innymi opowiedział o okolicznościach wyjazdu z Węgier Zbigniewa Ziobry. Wieczorem dotarł do Warszawy i zaskoczył oczekujących. Wydarzenie relacjonujemy w TVN24 i tvn24.pl."
+    },
+    {
+      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-wtorek-19-05-mapa-i-radar-burz-spodziewane-sa-intensywne-opady-st9055915?source=rss",
+      "pubDate": "Tue, 19 May 2026 13:40:35 GMT",
+      "description": "Gdzie jest burza? We wtorek nad Polską kłębią się burzowe chmury. Miejscami mogą one nieść obfite opady deszczu. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "originalDescription": "Gdzie jest burza? We wtorek nad Polską kłębią się burzowe chmury. Miejscami mogą one nieść obfite opady deszczu. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    }
+  ]
 }
