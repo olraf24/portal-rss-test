@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-20T20:16:41.475Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-20T21:10:50.499Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Trump: mógłbym kandydować na premiera Izraela",
+      "link": "https://tvn24.pl/swiat/donald-trump-moglbym-kandydowac-na-premiera-izraela-st9058435?source=rss",
+      "pubDate": "Wed, 20 May 2026 20:28:58 GMT",
+      "description": "Prezydent USA Donald Trump ocenił, że premier Benjamin Netanjahu nie jest dobrze traktowany w Izraelu. Zadeklarował też, że sam mógłby zostać szefem izraelskiego rządu ze względu na wysokie poparcie, jakim - jego zdaniem - cieszy się w tym kraju.",
+      "originalTitle": "Trump: mógłbym kandydować na premiera Izraela",
+      "originalDescription": "Prezydent USA Donald Trump ocenił, że premier Benjamin Netanjahu nie jest dobrze traktowany w Izraelu. Zadeklarował też, że sam mógłby zostać szefem izraelskiego rządu ze względu na wysokie poparcie, jakim - jego zdaniem - cieszy się w tym kraju."
+    },
+    {
+      "title": "Celowo wjechał Teslą do jeziora i utknął. Został aresztowany",
+      "link": "https://tvn24.pl/swiat/usa-celowo-wjechal-tesla-cybertruck-do-jeziora-i-utknal-zostal-aresztowany-st9058610?source=rss",
+      "pubDate": "Wed, 20 May 2026 20:12:25 GMT",
+      "description": "Kierowca Tesli celowo wjechał do jeziora w Teksasie, chcąc sprawdzić \"tryb brodzenia\" pojazdu. Cybertruck jednak utknął, a mężczyzna i jego pasażer musieli wzywać pomocy.",
+      "originalTitle": "Celowo wjechał Teslą do jeziora i utknął. Został aresztowany",
+      "originalDescription": "Kierowca Tesli celowo wjechał do jeziora w Teksasie, chcąc sprawdzić \"tryb brodzenia\" pojazdu. Cybertruck jednak utknął, a mężczyzna i jego pasażer musieli wzywać pomocy."
+    },
+    {
+      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-sroda-20-05-mapa-i-radar-burz-tu-silnie-pada-deszcz-st9058009?source=rss",
+      "pubDate": "Wed, 20 May 2026 13:24:06 GMT",
+      "description": "Gdzie jest burza? W środę w części kraju pojawiły się wyładowania atmosferyczne, silnie wieje i pada. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "originalDescription": "Gdzie jest burza? W środę w części kraju pojawiły się wyładowania atmosferyczne, silnie wieje i pada. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Jechał dużo za szybko. Na koncie miał dwa aktywne zakazy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/przyborowice-plonsk-jechal-za-szybko-mial-dwa-zakazy-st9058444?source=rss",
+      "pubDate": "Wed, 20 May 2026 19:30:20 GMT",
+      "description": "Policjanci zatrzymali kierowcę, który zignorował nie tylko znaki drogowe, ale także dwa zakazy sądowe prowadzenia pojazdów. Usłyszał już zarzut.",
+      "originalTitle": "Jechał dużo za szybko. Na koncie miał dwa aktywne zakazy",
+      "originalDescription": "Policjanci zatrzymali kierowcę, który zignorował nie tylko znaki drogowe, ale także dwa zakazy sądowe prowadzenia pojazdów. Usłyszał już zarzut."
+    },
+    {
+      "title": "Ustawa o kryptowalutach. Jest decyzja Senatu",
+      "link": "https://tvn24.pl/biznes/z-kraju/ustawa-o-kryptowalutach-jest-decyzja-senatu-st9058341?source=rss",
+      "pubDate": "Wed, 20 May 2026 19:23:21 GMT",
+      "description": "W trakcie środowych obrad plenarnych Senatu zgłoszono poprawki do ustawy dotyczącej rynku kryptoaktywów. W związku z tym dokument ponownie trafił do komisji budżetu i finansów publicznych. Głosowanie nad ustawą zaplanowano na czwartek.",
+      "originalTitle": "Ustawa o kryptowalutach. Jest decyzja Senatu",
+      "originalDescription": "W trakcie środowych obrad plenarnych Senatu zgłoszono poprawki do ustawy dotyczącej rynku kryptoaktywów. W związku z tym dokument ponownie trafił do komisji budżetu i finansów publicznych. Głosowanie nad ustawą zaplanowano na czwartek."
+    },
+    {
+      "title": "Chronią się przed turystami w trudno dostępnych miejscach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chronia-sie-przed-turystami-w-trudno-dostepnych-miejscach-st9058324?source=rss",
+      "pubDate": "Wed, 20 May 2026 19:15:05 GMT",
+      "description": "Zagrożone wyginięciem foki z Grecji opracowały sposób ucieczki przed turystami. Mniszki śródziemnomorskie wykorzystują niedostępne dla ludzi jaskinie, by odpocząć od zgiełku. Jest to szczególnie ważne w okresie, gdy na świecie pojawiają się młode.",
+      "originalTitle": "Chronią się przed turystami w trudno dostępnych miejscach",
+      "originalDescription": "Zagrożone wyginięciem foki z Grecji opracowały sposób ucieczki przed turystami. Mniszki śródziemnomorskie wykorzystują niedostępne dla ludzi jaskinie, by odpocząć od zgiełku. Jest to szczególnie ważne w okresie, gdy na świecie pojawiają się młode."
+    },
+    {
+      "title": "Burze powrócą. Sprawdź, gdzie aura może być groźna",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-ostrzezenia-meteorologiczne-imgw-sroda-21-05-gdzie-spodziewac-sie-groznych-zjawisk-st9054498?source=rss",
+      "pubDate": "Wed, 20 May 2026 04:36:00 GMT",
+      "description": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej planuje w najbliższych dniach wydać ostrzeżenia przed burzami. Sprawdź, gdzie aura może być groźna.",
+      "originalTitle": "Burze powrócą. Sprawdź, gdzie aura może być groźna",
+      "originalDescription": "Pogoda w Polsce. Instytut Meteorologii i Gospodarki Wodnej planuje w najbliższych dniach wydać ostrzeżenia przed burzami. Sprawdź, gdzie aura może być groźna."
+    },
+    {
+      "title": "Generał o decyzjach Pentagonu: dajemy sygnał, że się boimy, a nie powinniśmy",
+      "link": "https://tvn24.pl/polska/usa-wycofuja-czesc-wojsk-z-europy-general-kraszewski-jaroslaw-uspokaja-st9058545?source=rss",
+      "pubDate": "Wed, 20 May 2026 18:51:34 GMT",
+      "description": "Prezydent Trump chciał obudzić Europę i mu się to udało - powiedział generał brygady, dr Jarosław Kraszewski w \"Faktach po Faktach\", komentując decyzję administracji USA dotyczącą obecności amerykańskich wojsk w Europie. - Jedna brygada nie zachwieje równowagą sił - ocenił.",
+      "originalTitle": "Generał o decyzjach Pentagonu: dajemy sygnał, że się boimy, a nie powinniśmy",
+      "originalDescription": "Prezydent Trump chciał obudzić Europę i mu się to udało - powiedział generał brygady, dr Jarosław Kraszewski w \"Faktach po Faktach\", komentując decyzję administracji USA dotyczącą obecności amerykańskich wojsk w Europie. - Jedna brygada nie zachwieje równowagą sił - ocenił."
+    },
+    {
+      "title": "\"Mamy gwarancje\". Szef MON o żołnierzach USA w Polsce",
+      "link": "https://tvn24.pl/polska/szef-mon-wladyslaw-kosiniak-kamysz-o-zolnierzach-usa-w-polsce-mamy-gwarancje-st9058535?source=rss",
+      "pubDate": "Wed, 20 May 2026 18:51:31 GMT",
+      "description": "Trwa reorganizacja wojsk amerykańskich w Europie i Polska będzie uczestniczyła w procesie planowania - mówił w \"Kropce nad i\" w TVN24 wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz. Zapewniał również, że liczba amerykańskich żołnierzy w Polsce nie ulegnie zmniejszeniu. Komentował także ucieczkę Zbigniewa Ziobry do USA oraz sytuację wokół Globalnej Flotylli Sumud.",
+      "originalTitle": "\"Mamy gwarancje\". Szef MON o żołnierzach USA w Polsce",
+      "originalDescription": "Trwa reorganizacja wojsk amerykańskich w Europie i Polska będzie uczestniczyła w procesie planowania - mówił w \"Kropce nad i\" w TVN24 wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz. Zapewniał również, że liczba amerykańskich żołnierzy w Polsce nie ulegnie zmniejszeniu. Komentował także ucieczkę Zbigniewa Ziobry do USA oraz sytuację wokół Globalnej Flotylli Sumud."
+    },
+    {
+      "title": "Kowal: wzywam, żeby na poważnie włączył się ośrodek prezydencki",
+      "link": "https://tvn24.pl/polska/zolnierze-usa-w-polsce-pawel-kowal-wzywam-zeby-sie-na-powaznie-wlaczyl-osrodek-prezydencki-st9058556?source=rss",
+      "pubDate": "Wed, 20 May 2026 18:47:46 GMT",
+      "description": "Musimy mieć scenariusz na każdy wariant. Także taki, że zmniejszy się w przyszłości obecność amerykańska w Europie - powiedział w \"Faktach po Faktach\" w TVN24 szef sejmowej komisji spraw zagranicznych Paweł Kowal (KO). Zapowiedział, że niebawem poleci do swoich odpowiedników w USA oraz wezwał do takiego samego działania prezydenta Karola Nawrockiego.",
+      "originalTitle": "Kowal: wzywam, żeby na poważnie włączył się ośrodek prezydencki",
+      "originalDescription": "Musimy mieć scenariusz na każdy wariant. Także taki, że zmniejszy się w przyszłości obecność amerykańska w Europie - powiedział w \"Faktach po Faktach\" w TVN24 szef sejmowej komisji spraw zagranicznych Paweł Kowal (KO). Zapowiedział, że niebawem poleci do swoich odpowiedników w USA oraz wezwał do takiego samego działania prezydenta Karola Nawrockiego."
+    }
+  ]
 }
