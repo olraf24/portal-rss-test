@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-20T13:11:10.392Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-20T14:22:17.831Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zarzuty i areszt dla policjantki",
+      "link": "https://tvn24.pl/lodz/lodz-zarzuty-i-areszt-dla-policjantki-st9055374?source=rss",
+      "pubDate": "Wed, 20 May 2026 12:31:44 GMT",
+      "description": "Policjantka z komendy miejskiej w Łodzi została zawieszona w czynnościach służbowych z uwagi na postawione jej zarzuty. Na wniosek prokuratury sąd tymczasowo ją aresztował. Trwa postępowanie dyscyplinarne.",
+      "originalTitle": "Zarzuty i areszt dla policjantki",
+      "originalDescription": "Policjantka z komendy miejskiej w Łodzi została zawieszona w czynnościach służbowych z uwagi na postawione jej zarzuty. Na wniosek prokuratury sąd tymczasowo ją aresztował. Trwa postępowanie dyscyplinarne."
+    },
+    {
+      "title": "Gdzie jest burza? Tu silnie pada deszcz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-sroda-20-05-mapa-i-radar-burz-tu-silnie-pada-deszcz-st9058009?source=rss",
+      "pubDate": "Wed, 20 May 2026 13:24:06 GMT",
+      "description": "Gdzie jest burza? W środę w części kraju pojawiły się wyładowania atmosferyczne, silniej wieje i pada. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu silnie pada deszcz",
+      "originalDescription": "Gdzie jest burza? W środę w części kraju pojawiły się wyładowania atmosferyczne, silniej wieje i pada. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Niemcy tracą na chińskiej ekspansji. Zniknęło prawie kilkaset tysięcy etatów",
+      "link": "https://tvn24.pl/biznes/ze-swiata/niemiecka-gospodarka-traci-na-chinskiej-ekspansji-zniknelo-400-tysiecy-miejsc-pracy-w-niemczech-raport-think-tanku-center-for-european-reform-cer-st9058173?source=rss",
+      "pubDate": "Wed, 20 May 2026 14:04:59 GMT",
+      "description": "Chińscy konkurenci z branży motoryzacyjnej, maszynowej, chemicznej i lotniczej szybko przejmują udziały rynkowe należące wcześniej do niemieckich konkurentów. Policzono, ile naszych sąsiadów kosztuje rozwój chińskiego eksportu.",
+      "originalTitle": "Niemcy tracą na chińskiej ekspansji. Zniknęło prawie kilkaset tysięcy etatów",
+      "originalDescription": "Chińscy konkurenci z branży motoryzacyjnej, maszynowej, chemicznej i lotniczej szybko przejmują udziały rynkowe należące wcześniej do niemieckich konkurentów. Policzono, ile naszych sąsiadów kosztuje rozwój chińskiego eksportu."
+    },
+    {
+      "title": "Sędziowie KRS pojawili się przed budynkiem TK. Prezes \"mocno zdenerwowany\"",
+      "link": "https://tvn24.pl/polska/sedziowie-krajowej-rady-sadownictwa-pod-budynkiem-trybunalu-konstytucyjnego-prezes-bogdan-swieczkowski-mocno-zdenerwowany-st9057667?source=rss",
+      "pubDate": "Wed, 20 May 2026 14:02:07 GMT",
+      "description": "Grupa sędziów z Krajowej Rady Sądownictwa próbowała wejść do budynku Trybunału Konstytucyjnego, gdzie chciała się spotkać z wybranymi w marcu sędziami TK. Nie zostali jednak wpuszczeni, dlatego do spotkania doszło przed siedzibą Trybunału. - Praworządność może być przywrócona dopiero wówczas, kiedy Trybunał zacznie funkcjonować - mówiła sędzia Monika Frąckowiak. Wydarzenie miało też \"mocno zdenerwować\" prezesa Bogdana Święczkowskiego.",
+      "originalTitle": "Sędziowie KRS pojawili się przed budynkiem TK. Prezes \"mocno zdenerwowany\"",
+      "originalDescription": "Grupa sędziów z Krajowej Rady Sądownictwa próbowała wejść do budynku Trybunału Konstytucyjnego, gdzie chciała się spotkać z wybranymi w marcu sędziami TK. Nie zostali jednak wpuszczeni, dlatego do spotkania doszło przed siedzibą Trybunału. - Praworządność może być przywrócona dopiero wówczas, kiedy Trybunał zacznie funkcjonować - mówiła sędzia Monika Frąckowiak. Wydarzenie miało też \"mocno zdenerwować\" prezesa Bogdana Święczkowskiego."
+    },
+    {
+      "title": "Ponad 30 stopni w Hiszpanii. Wydano alarmy przed skwarem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hiszpania-fala-upalow-bedzie-ponad-30-stopni-wydano-alarmy-przed-skwarem-st9058051?source=rss",
+      "pubDate": "Wed, 20 May 2026 13:54:27 GMT",
+      "description": "Antycyklon przyniósł podmuch lata do Hiszpanii. W środę temperatura w wielu miejscach przekroczyła 30 stopni Celsjusza. W kolejnych dniach termometry mogą pokazać nawet 38 stopni. Przed upałem ostrzegają synoptycy.",
+      "originalTitle": "Ponad 30 stopni w Hiszpanii. Wydano alarmy przed skwarem",
+      "originalDescription": "Antycyklon przyniósł podmuch lata do Hiszpanii. W środę temperatura w wielu miejscach przekroczyła 30 stopni Celsjusza. W kolejnych dniach termometry mogą pokazać nawet 38 stopni. Przed upałem ostrzegają synoptycy."
+    },
+    {
+      "title": "Poczobut w Senacie. \"Ani przez chwilę nie wątpiłem\"",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-uhonorowany-w-senacie-moja-sprawa-to-czesc-losu-zwiazku-polakow-na-bialorusi-st9058056?source=rss",
+      "pubDate": "Wed, 20 May 2026 13:33:52 GMT",
+      "description": "Ani przez chwilę nie wątpiłem, że w Polsce, rodacy w świecie i Polacy na Białorusi będą pamiętali o mnie - powiedział Andrzej Poczobut, który wystąpił w środę w Senacie. Dziennikarz i działacz mniejszości polskiej na Białorusi odebrał tam akt powołania do Polonijnej Rady Konsultacyjnej przy Marszałku Senatu RP.",
+      "originalTitle": "Poczobut w Senacie. \"Ani przez chwilę nie wątpiłem\"",
+      "originalDescription": "Ani przez chwilę nie wątpiłem, że w Polsce, rodacy w świecie i Polacy na Białorusi będą pamiętali o mnie - powiedział Andrzej Poczobut, który wystąpił w środę w Senacie. Dziennikarz i działacz mniejszości polskiej na Białorusi odebrał tam akt powołania do Polonijnej Rady Konsultacyjnej przy Marszałku Senatu RP."
+    },
+    {
+      "title": "Został miesiąc. Ustawy o kryptowalutach nie ma. Nie jest potrzebna?",
+      "link": "https://konkret24.tvn24.pl/polityka/zostal-miesiac-ustawy-o-kryptowalutach-nie-ma-nie-jest-potrzebna-st9055821?source=rss",
+      "pubDate": "Wed, 20 May 2026 13:32:20 GMT",
+      "description": "Trzecia wersja ustawy o rynku kryptoaktywów trafiła do Senatu. Nie wiadomo, czy prezydent, który wcześniejsze rozwiązania już dwa razy zawetował, tym razem ustawę podpisze. A polityk Konfederacji przekonuje, że nawet jak tego nie zrobi, to \"nie będzie to miało żadnego wpływu\" na rynek. To nieprawda.",
+      "originalTitle": "Został miesiąc. Ustawy o kryptowalutach nie ma. Nie jest potrzebna?",
+      "originalDescription": "Trzecia wersja ustawy o rynku kryptoaktywów trafiła do Senatu. Nie wiadomo, czy prezydent, który wcześniejsze rozwiązania już dwa razy zawetował, tym razem ustawę podpisze. A polityk Konfederacji przekonuje, że nawet jak tego nie zrobi, to \"nie będzie to miało żadnego wpływu\" na rynek. To nieprawda."
+    },
+    {
+      "title": "Spadł w czasie pracy przy balkonach, nie żyje",
+      "link": "https://tvn24.pl/opole/nysa-spadl-w-czasie-pracy-przy-balkonach-nie-zyje-st9058076?source=rss",
+      "pubDate": "Wed, 20 May 2026 13:07:56 GMT",
+      "description": "64-latek spadł w czasie wykonywania prac przy balustradach balkonowych. Zginął na miejscu. Sprawę badają policja i prokuratura.",
+      "originalTitle": "Spadł w czasie pracy przy balkonach, nie żyje",
+      "originalDescription": "64-latek spadł w czasie wykonywania prac przy balustradach balkonowych. Zginął na miejscu. Sprawę badają policja i prokuratura."
+    },
+    {
+      "title": "Związkowcy dotarli przed Sejm",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-manifestacja-w-srode-20-maja-utrudnienia-i-objazdy-st9055490?source=rss",
+      "pubDate": "Tue, 19 May 2026 15:54:11 GMT",
+      "description": "Trwa manifestacja \"Solidarności\" w centrum Warszawy. Po południu związkowcy dotarli przed budynek Sejmu. Idąc z Placu Zamkowego, zatrzymali się przed Pałacem Prezydenckim.",
+      "originalTitle": "Związkowcy dotarli przed Sejm",
+      "originalDescription": "Trwa manifestacja \"Solidarności\" w centrum Warszawy. Po południu związkowcy dotarli przed budynek Sejmu. Idąc z Placu Zamkowego, zatrzymali się przed Pałacem Prezydenckim."
+    },
+    {
+      "title": "Balon awaryjnie wylądował na szkolnym boisku",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-balon-wyladowal-na-szkolnym-boisku-to-bylo-ladowanie-awaryjne-st9058044?source=rss",
+      "pubDate": "Wed, 20 May 2026 12:57:27 GMT",
+      "description": "Balon awaryjnie wylądował na boisku szkoły podstawowej w Olsztynie. Stało się to w środę przed południem, w czasie lekcji.",
+      "originalTitle": "Balon awaryjnie wylądował na szkolnym boisku",
+      "originalDescription": "Balon awaryjnie wylądował na boisku szkoły podstawowej w Olsztynie. Stało się to w środę przed południem, w czasie lekcji."
+    }
+  ]
 }
