@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-21T03:12:45.562Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-21T04:57:56.798Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "IMGW ostrzega. Nad częścią kraju przewędrują burze",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-burze-i-silny-deszcz-w-czwartek-21-05-nad-czescia-kraju-przewedruja-burze-st9058688?source=rss",
+      "pubDate": "Thu, 21 May 2026 04:45:28 GMT",
+      "description": "Pogoda w Polsce. Środa ma być kolejnym burzowym dniem. IMGW wydał alarmy meteorologiczne dla pięciu województw - sprawdź, gdzie w kolejnych godzinach może być niebezpiecznie.",
+      "originalTitle": "IMGW ostrzega. Nad częścią kraju przewędrują burze",
+      "originalDescription": "Pogoda w Polsce. Środa ma być kolejnym burzowym dniem. IMGW wydał alarmy meteorologiczne dla pięciu województw - sprawdź, gdzie w kolejnych godzinach może być niebezpiecznie."
+    },
+    {
+      "title": "Atak na rosyjski ośrodek szkoleniowy. Nie żyje 65 kadetów",
+      "link": "https://tvn24.pl/swiat/ukraina-atak-na-rosyjski-osrodek-szkoleniowy-nie-zyje-65-kadetow-st9058670?source=rss",
+      "pubDate": "Thu, 21 May 2026 04:38:18 GMT",
+      "description": "Ukraina uderzyła w rosyjski ośrodek szkoleniowy oraz produkcji dronów i amunicji - przekazało wojsko. W opublikowanym oświadczeniu napisano, że zginęło 65 rosyjskich kadetów.",
+      "originalTitle": "Atak na rosyjski ośrodek szkoleniowy. Nie żyje 65 kadetów",
+      "originalDescription": "Ukraina uderzyła w rosyjski ośrodek szkoleniowy oraz produkcji dronów i amunicji - przekazało wojsko. W opublikowanym oświadczeniu napisano, że zginęło 65 rosyjskich kadetów."
+    },
+    {
+      "title": "Córka Fidela Castro ostrzega USA. \"To może zadecydować o krwawej łaźni\"",
+      "link": "https://tvn24.pl/swiat/kuba-corka-fidela-castro-ostrzega-usa-to-moze-zadecydowac-o-krwawej-lazni-st9058660?source=rss",
+      "pubDate": "Thu, 21 May 2026 04:31:09 GMT",
+      "description": "W wywiadzie dla CNN Alina Fernandez, mieszkająca w Miami córka Fidela Castro, oceniła, że kubańskie przywództwo jest gotowe na każdą konfrontację, w tym widmo inwazji.",
+      "originalTitle": "Córka Fidela Castro ostrzega USA. \"To może zadecydować o krwawej łaźni\"",
+      "originalDescription": "W wywiadzie dla CNN Alina Fernandez, mieszkająca w Miami córka Fidela Castro, oceniła, że kubańskie przywództwo jest gotowe na każdą konfrontację, w tym widmo inwazji."
+    },
+    {
+      "title": "Do zobaczenia w Mińsku Mazowieckim. Kolejny przystanek na urodzinowej trasie TVN24",
+      "link": "https://tvn24.pl/polska/25-lecie-tvn24-nastepny-przystanek-minsk-mazowiecki-st9058662?source=rss",
+      "pubDate": "Thu, 21 May 2026 04:14:18 GMT",
+      "description": "W sobotę TVN24 zawita do Mińska Mazowieckiego. Właśnie stąd pochodzi Tomasz Sianecki. To kolejny przystanek naszej jubileuszowej trasy z okazji 25-lecia. Przyjdź i zobacz telewizję od kuchni.",
+      "originalTitle": "Do zobaczenia w Mińsku Mazowieckim. Kolejny przystanek na urodzinowej trasie TVN24",
+      "originalDescription": "W sobotę TVN24 zawita do Mińska Mazowieckiego. Właśnie stąd pochodzi Tomasz Sianecki. To kolejny przystanek naszej jubileuszowej trasy z okazji 25-lecia. Przyjdź i zobacz telewizję od kuchni."
+    },
+    {
+      "title": "Ceny paliw w czwartek. Tyle zapłacimy na stacjach",
+      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-w-czwartek-21-maja-2026-roku-tyle-zaplacimy-za-benzyne-i-olej-napedowy-st9056732?source=rss",
+      "pubDate": "Wed, 20 May 2026 10:02:12 GMT",
+      "description": "W czwartek, 21 maja, obowiązują zaktualizowane maksymalne ceny paliw. Zgodnie obwieszczeniem ministra energii Miłosza Motyki ceny benzyny i oleju napędowego są niższe niż w środę.",
+      "originalTitle": "Ceny paliw w czwartek. Tyle zapłacimy na stacjach",
+      "originalDescription": "W czwartek, 21 maja, obowiązują zaktualizowane maksymalne ceny paliw. Zgodnie obwieszczeniem ministra energii Miłosza Motyki ceny benzyny i oleju napędowego są niższe niż w środę."
+    },
+    {
+      "title": "Parlament Izraela zatwierdził projekt ustawy o samorozwiązaniu. Kiedy nowe wybory?",
+      "link": "https://tvn24.pl/swiat/izrael-parlament-zatwierdzil-projekt-ustawy-o-samorozwiazaniu-kiedy-nowe-wybory-st9058665?source=rss",
+      "pubDate": "Thu, 21 May 2026 04:05:52 GMT",
+      "description": "Projekt ustawy o samorozwiązaniu został zatwierdzony przez izraelski parlament. Ruch ten może o kilka tygodni przyspieszyć kolejne wybory w kraju. Według sondaży, premier Benjamin Netanjahu może je przegrać. Zgodnie z prawem muszą odbyć się najpóźniej 27 października.",
+      "originalTitle": "Parlament Izraela zatwierdził projekt ustawy o samorozwiązaniu. Kiedy nowe wybory?",
+      "originalDescription": "Projekt ustawy o samorozwiązaniu został zatwierdzony przez izraelski parlament. Ruch ten może o kilka tygodni przyspieszyć kolejne wybory w kraju. Według sondaży, premier Benjamin Netanjahu może je przegrać. Zgodnie z prawem muszą odbyć się najpóźniej 27 października."
+    },
+    {
+      "title": "Incydent nad Morzem Czarnym. Rosyjskie myśliwce przechwyciły brytyjski samolot",
+      "link": "https://tvn24.pl/swiat/incydent-nad-morzem-czarnym-rosyjskie-mysliwce-przechwycily-brytyjski-samolot-st9058669?source=rss",
+      "pubDate": "Thu, 21 May 2026 03:40:23 GMT",
+      "description": "Niebezpieczny incydent nad Morzem Czarnym. Jak przekazuje brytyjskie MON, brytyjski samolot rozpoznawczy RC-135 Rivet Joint został przechwycony przez rosyjskie myśliwce Su-35 i Su-27.",
+      "originalTitle": "Incydent nad Morzem Czarnym. Rosyjskie myśliwce przechwyciły brytyjski samolot",
+      "originalDescription": "Niebezpieczny incydent nad Morzem Czarnym. Jak przekazuje brytyjskie MON, brytyjski samolot rozpoznawczy RC-135 Rivet Joint został przechwycony przez rosyjskie myśliwce Su-35 i Su-27."
+    },
+    {
+      "title": "Peter Magyar w Polsce, nowe ustalenia w sprawie Zbigniewa Ziobry, burza wokół izraelskiego ministra",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-21-maja-najwazniejsze-informacje-st9058668?source=rss",
+      "pubDate": "Thu, 21 May 2026 03:17:38 GMT",
+      "description": "Węgierski premier Peter Magyar spotkał się z premierem Donaldem Tuskiem i byłym prezydentem Lechem Wałęsą. Rzecznik Prokuratury Krajowej Przemysław Nowak poinformował o nowych ustaleniach w sprawie ucieczki Zbigniewa Ziobry do USA. Nie milknie burza po nagraniu izraelskiego ministra. Oto pięć rzeczy, które warto wiedzieć w czwartek 21 maja.",
+      "originalTitle": "Peter Magyar w Polsce, nowe ustalenia w sprawie Zbigniewa Ziobry, burza wokół izraelskiego ministra",
+      "originalDescription": "Węgierski premier Peter Magyar spotkał się z premierem Donaldem Tuskiem i byłym prezydentem Lechem Wałęsą. Rzecznik Prokuratury Krajowej Przemysław Nowak poinformował o nowych ustaleniach w sprawie ucieczki Zbigniewa Ziobry do USA. Nie milknie burza po nagraniu izraelskiego ministra. Oto pięć rzeczy, które warto wiedzieć w czwartek 21 maja."
+    },
+    {
+      "title": "Pogoda na dziś - czwartek 21.05. W wielu regionach przydadzą się parasole",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-na-dzis-czwartek-21-05-w-wielu-regionach-przydadza-sie-parasole-st9058634?source=rss",
+      "pubDate": "Thu, 21 May 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Czwartek 21.05 upłynie pod znakiem pochmurnej i deszczowej aury. Termometry pokażą maksymalnie 23 stopnie Celsjusza.",
+      "originalTitle": "Pogoda na dziś - czwartek 21.05. W wielu regionach przydadzą się parasole",
+      "originalDescription": "Pogoda na dziś. Czwartek 21.05 upłynie pod znakiem pochmurnej i deszczowej aury. Termometry pokażą maksymalnie 23 stopnie Celsjusza."
+    },
+    {
+      "title": "Senat zdecydował w sprawie propozycji referendum Nawrockiego",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-chcial-referendum-ws-unijnej-polityki-klimatycznej-senat-nie-wyrazil-zgody-st9058656?source=rss",
+      "pubDate": "Wed, 20 May 2026 21:57:56 GMT",
+      "description": "Senat nie wyraził zgody na zarządzenie przez prezydenta referendum w sprawie unijnej polityki klimatycznej. Wcześniej odrzucenie tego wniosku zarekomendowały połączone komisje senackie.",
+      "originalTitle": "Senat zdecydował w sprawie propozycji referendum Nawrockiego",
+      "originalDescription": "Senat nie wyraził zgody na zarządzenie przez prezydenta referendum w sprawie unijnej polityki klimatycznej. Wcześniej odrzucenie tego wniosku zarekomendowały połączone komisje senackie."
+    }
+  ]
 }
