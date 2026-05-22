@@ -1,8 +1,32 @@
 {
-  "lastUpdate": "2026-05-22T13:02:34.674Z",
+  "lastUpdate": "2026-05-22T14:18:45.657Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Europa kupuje F-35. Dziś przylecą polskie Husarze",
+      "link": "https://defence24.pl/sily-zbrojne/europa-kupuje-f-35-dzis-przyleca-polskie-husarze",
+      "pubDate": "Fri, 22 May 2026 16:03:20 +0200",
+      "description": "F-35 jest na dobrej drodze, by stać się najliczniejszym samolotem bojowym w Europie. Czy Lightning II zmieni lotniczy układ sił na Starym Kontynencie? Liczby są jednoznaczne."
+    },
+    {
+      "title": "PKP Intercity: nowe projekty i rola w systemie obrony państwa",
+      "link": "https://defence24.pl/przemysl/pkp-intercity-nowe-projekty-i-rola-w-systemie-obrony-panstwa",
+      "pubDate": "Fri, 22 May 2026 15:45:00 +0200",
+      "description": "Podczas tegorocznej, 8. edycji konferencji Defence24 Days rozmawialiśmy z Joanną Siecińską, Wiceprezes PKP Intercity. Tematami rozmowy były rola PKP Intercity w systemie obrony państwa, nowe projekty mające uchronić transporty przed potencjalnymi aktami sabotażu oraz o zadaniach, jakie będą stały przed spółką w sytuacji zagrożenia."
+    },
+    {
+      "title": "Przemysł obronny przeciwko dronom. Niemcy i Ukraina łączą siły",
+      "link": "https://defence24.pl/przemysl/przemysl-obronny-przeciwko-dronom-niemcy-i-ukraina-lacza-sily",
+      "pubDate": "Fri, 22 May 2026 15:30:02 +0200",
+      "description": "Niemiecki koncern technologiczny Rohde & Schwarz oraz ukraiński INFOZAHYST podpisały porozumienie dotyczące wspólnego rozwoju systemów walki radioelektronicznej i rozwiązań antydronowych. Współpraca została ogłoszona podczas targów AOC Europe 2026 w Helsinkach."
+    },
+    {
+      "title": "Nie „wyspa”, tylko „system systemów”. F-35 to milowy krok polskiego lotnictwa",
+      "link": "https://defence24.pl/sily-zbrojne/nie-wyspa-tylko-system-systemow-f-35-to-milowy-krok-polskiego-lotnictwa",
+      "pubDate": "Fri, 22 May 2026 15:10:10 +0200",
+      "description": "Przy okazji przylotu do Polski pierwszych polskich myśliwców 5. generacji, warto zastanowić się, co zmienia ta maszyna dla Sił Zbrojnych RP i polskiej obronności. A zmiana jest kopernikańska."
+    },
     {
       "title": "Tomczyk: Szczegóły ws. wojsk USA ustali Sztab Generalny",
       "link": "https://defence24.pl/polityka-obronna/tomczyk-szczegoly-ws-wojsk-usa-ustali-sztab-generalny",
@@ -68,30 +92,6 @@
       "link": "https://defence24.pl/polityka-obronna/znamy-godzine-ladowania-f-35-w-lasku",
       "pubDate": "Fri, 22 May 2026 10:15:28 +0200",
       "description": "Trzy polskie myśliwce F-35 mają dziś, około godziny 18:00 wylądować w 32. Bazie Lotnictwa Taktycznego w Łasku. Informację tę potwierdził wicepremier i minister obrony narodowej Władysław Kosiniak-Kamysz."
-    },
-    {
-      "title": "Sikorski dziękuje Trumpowi",
-      "link": "https://defence24.pl/polityka-obronna/sikorski-dziekuje-trumpowi",
-      "pubDate": "Fri, 22 May 2026 10:05:15 +0200",
-      "description": "Szef MSZ Radosław Sikorski powiedział w piątek, że chce podziękować prezydentowi USA Donaldowi Trumpowi za ogłoszenie, że obecność wojsk amerykańskich w Polsce pozostanie mniej więcej na dotychczasowym poziomie. Reputacja Polski jako kraju, który poważnie traktuje obronność, również pomaga – ocenił."
-    },
-    {
-      "title": "Nawrocki komentuje decyzję Trumpa ws. żołnierzy USA w Polsce",
-      "link": "https://defence24.pl/polityka-obronna/nawrocki-komentuje-decyzje-trumpa-ws-zolnierzy-usa-w-polsce",
-      "pubDate": "Fri, 22 May 2026 09:51:17 +0200",
-      "description": "Prezydent RP Karol Nawrocki skomentował zapowiedź prezydenta USA Donalda Trumpa o wysłaniu dodatkowych 5 tysięcy amerykańskich żołnierzy do Polski. „Dobre sojusze to sojusze oparte na współpracy” - napisał."
-    },
-    {
-      "title": "Eksperci: stałe amerykańskie bazy wojskowe mają przewagę nad rotacyjnymi",
-      "link": "https://defence24.pl/polityka-obronna/eksperci-stale-amerykanskie-bazy-wojskowe-maja-przewage-nad-rotacyjnymi",
-      "pubDate": "Fri, 22 May 2026 09:49:55 +0200",
-      "description": "Stała obecność amerykańskich żo��nierzy jest długoterminowo tańsza i skuteczniej odstrasza przeciwnika; jest także lepsza dla rodzin żołnierzy – powiedzieli PAP eksperci ds. bezpieczeństwa i zastrzegli, że przeszkodą w utworzeniu stałej bazy w Polsce może być na razie brak odpowiedniej infrastruktury."
-    },
-    {
-      "title": "USA zatwierdziły sprzedaż systemów Hawk dla Ukrainy",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/usa-zatwierdzily-sprzedaz-systemow-hawk-dla-ukrainy",
-      "pubDate": "Fri, 22 May 2026 08:16:50 +0200",
-      "description": "Stany Zjednoczone zatwierdziły możliwą sprzedaż Ukrainie wyposażenia oraz usług wsparcia dla systemów obrony przeciwlotniczej Hawk o wartości 108,1 mln dolarów. Informację przekazał Departament Stanu USA, podkreślając, że decyzja ma wesprzeć bezpieczeństwo europejskiego partnera w obliczu trwających rosyjskich ataków."
     }
   ]
 }
