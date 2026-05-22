@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-22T15:31:55.868Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-22T16:48:30.721Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Potrącił 18-latka na hulajnodze, pobił i okradł",
+      "link": "https://tvn24.pl/opole/niemodlin-potracil-18-latka-na-hulajnodze-pobil-i-okradl-st9062080?source=rss",
+      "pubDate": "Fri, 22 May 2026 16:12:23 GMT",
+      "description": "W Niemodlinie na Opolszczyźnie kierowca potrącił 18-latka na hulajnodze i go pobił. Policjanci zatrzymali w tej sprawie 26-latka. Usłyszał on zarzuty i decyzją sądu mężczyzna został aresztowany na trzy miesiące.",
+      "originalTitle": "Potrącił 18-latka na hulajnodze, pobił i okradł",
+      "originalDescription": "W Niemodlinie na Opolszczyźnie kierowca potrącił 18-latka na hulajnodze i go pobił. Policjanci zatrzymali w tej sprawie 26-latka. Usłyszał on zarzuty i decyzją sądu mężczyzna został aresztowany na trzy miesiące."
+    },
+    {
+      "title": "F-35 wreszcie w Polsce. Wylądowały w bazie w Łasku",
+      "link": "https://tvn24.pl/polska/pierwsze-polskie-f-35-wyladowaly-w-bazie-w-lasku-st9060995?source=rss",
+      "pubDate": "Fri, 22 May 2026 09:40:08 GMT",
+      "description": "Trzy myśliwce F-35 przyleciały w piątek po południu z USA do bazy w Łasku. Do końca przyszłego roku do Polski ma trafić ich w sumie 32. Na miejscu jest reporter TVN24 Piotr Borowski.",
+      "originalTitle": "F-35 wreszcie w Polsce. Wylądowały w bazie w Łasku",
+      "originalDescription": "Trzy myśliwce F-35 przyleciały w piątek po południu z USA do bazy w Łasku. Do końca przyszłego roku do Polski ma trafić ich w sumie 32. Na miejscu jest reporter TVN24 Piotr Borowski."
+    },
+    {
+      "title": "Jedna ferma rybna, a jakby 25-tysięczne miasto. Raport o zanieczyszczeniach w Norwegii",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/norwegia-alarmujacy-raport-ogromne-ilosci-zanieczyszczen-trafiaja-do-wod-st9062004?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:56:49 GMT",
+      "description": "Fermy rybne w Norwegii dostarczają do wód przybrzeżnych i Atlantyku dużych ilości zanieczyszczeń. Ilość azotu, jaka tam trafia, odpowiada ściekom produkowanym przez ponad 17 milionów ludzi - wynika z raportu opracowanego przez firmę Sunstone Institute.",
+      "originalTitle": "Jedna ferma rybna, a jakby 25-tysięczne miasto. Raport o zanieczyszczeniach w Norwegii",
+      "originalDescription": "Fermy rybne w Norwegii dostarczają do wód przybrzeżnych i Atlantyku dużych ilości zanieczyszczeń. Ilość azotu, jaka tam trafia, odpowiada ściekom produkowanym przez ponad 17 milionów ludzi - wynika z raportu opracowanego przez firmę Sunstone Institute."
+    },
+    {
+      "title": "Milion złotych kary dla banku. Decyzja KNF w sprawie odwołania",
+      "link": "https://tvn24.pl/biznes/z-kraju/knf-utrzymal-kare-1-mln-zl-dla-bnp-paribas-za-nadzor-nad-funduszami-psf-st9062048?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:49:44 GMT",
+      "description": "Komisja Nadzoru Finansowego podtrzymała decyzję o nałożeniu miliona złotych kary na BNP Paribas Bank Polska - wynika z opublikowanego komunikatu.",
+      "originalTitle": "Milion złotych kary dla banku. Decyzja KNF w sprawie odwołania",
+      "originalDescription": "Komisja Nadzoru Finansowego podtrzymała decyzję o nałożeniu miliona złotych kary na BNP Paribas Bank Polska - wynika z opublikowanego komunikatu."
+    },
+    {
+      "title": "\"Porządek musi być\". Ograniczenia i zakazy dla elektrycznych hulajnóg w stolicy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-kolejne-ograniczenia-dla-hulajnog-elektrycznych-st9061911?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:41:22 GMT",
+      "description": "W zeszłym roku w stolicy było 66 wypadków z udziałem użytkowników hulajnóg, z czego ranne zostały 73 osoby. Warszawa w związku z tym wprowadza ograniczenia. Wytyczono kolejne obszary z mniejszym natężeniem lub całkowitym zakazem poruszania się hulajnóg elektrycznych. Ma to też zapobiec między innymi porzucaniu jednośladów w losowych miejscach.",
+      "originalTitle": "\"Porządek musi być\". Ograniczenia i zakazy dla elektrycznych hulajnóg w stolicy",
+      "originalDescription": "W zeszłym roku w stolicy było 66 wypadków z udziałem użytkowników hulajnóg, z czego ranne zostały 73 osoby. Warszawa w związku z tym wprowadza ograniczenia. Wytyczono kolejne obszary z mniejszym natężeniem lub całkowitym zakazem poruszania się hulajnóg elektrycznych. Ma to też zapobiec między innymi porzucaniu jednośladów w losowych miejscach."
+    },
+    {
+      "title": "Zakładał czapkę z peruką, tankował ciężarówkę i odjeżdżał bez płacenia",
+      "link": "https://tvn24.pl/katowice/tarnowskie-gory-zakladal-czapke-z-peruka-wsiadal-do-tir-a-i-kradl-st9061939?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:40:28 GMT",
+      "description": "Zmieniał tablice rejestracyjne, zakładał czapkę z peruką, tankował ciężarówkę na stacji paliw i odjeżdżał bez płacenia. W sprawie serii kradzieży policjanci z Tarnowskich Gór zatrzymali 37-latka. Usłyszał 26 zarzutów.",
+      "originalTitle": "Zakładał czapkę z peruką, tankował ciężarówkę i odjeżdżał bez płacenia",
+      "originalDescription": "Zmieniał tablice rejestracyjne, zakładał czapkę z peruką, tankował ciężarówkę na stacji paliw i odjeżdżał bez płacenia. W sprawie serii kradzieży policjanci z Tarnowskich Gór zatrzymali 37-latka. Usłyszał 26 zarzutów."
+    },
+    {
+      "title": "Dwie kolizje na A2 i korek",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-zderzenie-trzech-pojazdow-byly-utrudnienia-st9062019?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:31:59 GMT",
+      "description": "Na trasie A2 doszło do dwóch kolizji z udziałem sześciu pojazdów. Były spore utrudnienia drogowe.",
+      "originalTitle": "Dwie kolizje na A2 i korek",
+      "originalDescription": "Na trasie A2 doszło do dwóch kolizji z udziałem sześciu pojazdów. Były spore utrudnienia drogowe."
+    },
+    {
+      "title": "Bitwa o apartamenty. \"Chaos i niepewność\"",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/najem-krotkoterminowy-bitwa-o-apartamenty-chaos-i-ogromna-niepewnosc-st9060920?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:30:28 GMT",
+      "description": "Mieszkania znikają z rynku, sąsiedzi skarżą się na imprezy za ścianą, a rynek apartamentów na doby zamienia się w coraz ostrzejszą walkę o lukratywny biznes. Społecznicy alarmują, że centra miast mogą wkrótce przypominać turystyczne parki rozrywki na wzór Barcelony czy Rzymu. Tymczasem wokół nowych regulacji narasta chaos - przepisy w teorii już obowiązują, ale w praktyce nadal nie.",
+      "originalTitle": "Bitwa o apartamenty. \"Chaos i niepewność\"",
+      "originalDescription": "Mieszkania znikają z rynku, sąsiedzi skarżą się na imprezy za ścianą, a rynek apartamentów na doby zamienia się w coraz ostrzejszą walkę o lukratywny biznes. Społecznicy alarmują, że centra miast mogą wkrótce przypominać turystyczne parki rozrywki na wzór Barcelony czy Rzymu. Tymczasem wokół nowych regulacji narasta chaos - przepisy w teorii już obowiązują, ale w praktyce nadal nie."
+    },
+    {
+      "title": "Dwulatka zmarła w samochodzie. Ogłoszono dwudniową żałobę",
+      "link": "https://tvn24.pl/swiat/hiszpania-dwulatka-zmarla-w-rozgrzanym-samochodzie-oglosili-dwudniowa-zalobe-st9062024?source=rss",
+      "pubDate": "Fri, 22 May 2026 15:22:29 GMT",
+      "description": "Rada miasta Brion w północno-zachodniej Hiszpanii ogłosiła dwa dni żałoby po śmierci dwulatki, która zmarła w rozgrzanym samochodzie. Ojciec miał zapomnieć zawieźć dziecko do żłobka i pozostawił je w aucie, a sam poszedł do pracy - podają media.",
+      "originalTitle": "Dwulatka zmarła w samochodzie. Ogłoszono dwudniową żałobę",
+      "originalDescription": "Rada miasta Brion w północno-zachodniej Hiszpanii ogłosiła dwa dni żałoby po śmierci dwulatki, która zmarła w rozgrzanym samochodzie. Ojciec miał zapomnieć zawieźć dziecko do żłobka i pozostawił je w aucie, a sam poszedł do pracy - podają media."
+    },
+    {
+      "title": "Łatwogang nie odpuszcza. Właśnie ruszył z kolejną zbiórką",
+      "link": "https://tvn24.pl/polska/latwogang-ruszyl-w-charytatywna-trase-rowerowa-st9060304?source=rss",
+      "pubDate": "Thu, 21 May 2026 15:36:20 GMT",
+      "description": "Jego zbiórką na rzecz Fundacji Cancer Fighters żyła cała Polska. W akcję pomocy dla dzieci zaangażowały się światowe gwiazdy, a jej ostateczny wynik przerósł najśmielsze oczekiwania. Łatwogang właśnie rozpoczął nową akcję i ruszył rowerem przez Polskę.",
+      "originalTitle": "Łatwogang nie odpuszcza. Właśnie ruszył z kolejną zbiórką",
+      "originalDescription": "Jego zbiórką na rzecz Fundacji Cancer Fighters żyła cała Polska. W akcję pomocy dla dzieci zaangażowały się światowe gwiazdy, a jej ostateczny wynik przerósł najśmielsze oczekiwania. Łatwogang właśnie rozpoczął nową akcję i ruszył rowerem przez Polskę."
+    }
+  ]
 }
