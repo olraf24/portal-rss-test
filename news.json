@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-23T21:20:15.005Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-23T21:48:42.362Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Fałszywe zgłoszenie, służby w domu rodzinnym prezydenta. Jest reakcja premiera",
+      "link": "https://tvn24.pl/polska/falszywe-zgloszenie-sluzby-w-domu-rodzinnym-prezydenta-karola-nawrockiego-jest-reakcja-premiera-st9063451?source=rss",
+      "pubDate": "Sat, 23 May 2026 20:02:27 GMT",
+      "description": "Po fałszywym zgłoszeniu o pożarze i zagrożeniu dla lokatorów strażacy \"siłowo weszli\" do domu rodzinnego prezydenta Karola Nawrockiego. Premier Donald Tusk napisał, że \"jest w stałym kontakcie z ministrami i służbami\", a na niedzielę zwołał odprawę rządu. Zareagował też minister spraw wewnętrznych.",
+      "originalTitle": "Fałszywe zgłoszenie, służby w domu rodzinnym prezydenta. Jest reakcja premiera",
+      "originalDescription": "Po fałszywym zgłoszeniu o pożarze i zagrożeniu dla lokatorów strażacy \"siłowo weszli\" do domu rodzinnego prezydenta Karola Nawrockiego. Premier Donald Tusk napisał, że \"jest w stałym kontakcie z ministrami i służbami\", a na niedzielę zwołał odprawę rządu. Zareagował też minister spraw wewnętrznych."
+    },
+    {
+      "title": "Trump: porozumienie w dużej mierze wynegocjowane",
+      "link": "https://tvn24.pl/polska/donald-trump-porozumienie-z-iranem-w-duzej-mierze-wynegocjowane-st9063486?source=rss",
+      "pubDate": "Sat, 23 May 2026 21:15:49 GMT",
+      "description": "Prezydent USA Donald Trump napisał, że porozumienie z Iranem jest \"w dużej mierze wynegocjowane\", omawiane są ostatnie jego szczegóły.",
+      "originalTitle": "Trump: porozumienie w dużej mierze wynegocjowane",
+      "originalDescription": "Prezydent USA Donald Trump napisał, że porozumienie z Iranem jest \"w dużej mierze wynegocjowane\", omawiane są ostatnie jego szczegóły."
+    },
+    {
+      "title": "Tornado w Alabamie. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tornado-usa-tornado-w-alabamie-nagranie-st9063421?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:56:15 GMT",
+      "description": "Kamera samochodowa uchwyciła na nagraniu, jak nad autostradą stanową w hrabstwie Tuscaloosa w Alabamie przeszło tornado. Eksperci z amerykańskiej Narodowej Służby Meteorologicznej (NWS) wydali dla tego regionu ostrzeżenie.",
+      "originalTitle": "Tornado w Alabamie. Nagranie",
+      "originalDescription": "Kamera samochodowa uchwyciła na nagraniu, jak nad autostradą stanową w hrabstwie Tuscaloosa w Alabamie przeszło tornado. Eksperci z amerykańskiej Narodowej Służby Meteorologicznej (NWS) wydali dla tego regionu ostrzeżenie."
+    },
+    {
+      "title": "Cannes 2026. \"Fjord\" ze Złotą Palmą",
+      "link": "https://tvn24.pl/kultura-i-styl/cannes-2026-fjord-ze-zlota-palma-lista-nagrodzonych-st9061725?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:43:05 GMT",
+      "description": "Za nami 79. Festiwal Filmowy w Cannes. Złotą Palmę otrzymał film \"Fjord\" Cristiana Mungiu. To druga jego Złota Palma w karierze. Wielką Nagrodę Jury otrzymał film \"Minotaur\".",
+      "originalTitle": "Cannes 2026. \"Fjord\" ze Złotą Palmą",
+      "originalDescription": "Za nami 79. Festiwal Filmowy w Cannes. Złotą Palmę otrzymał film \"Fjord\" Cristiana Mungiu. To druga jego Złota Palma w karierze. Wielką Nagrodę Jury otrzymał film \"Minotaur\"."
+    },
+    {
+      "title": "\"Ojczyzna\" Pawła Pawlikowskiego. O czym jest film?",
+      "link": "https://tvn24.pl/kultura-i-styl/ojczyzna-pawla-pawlikowskiego-w-cannes-o-czym-jest-film-wybor-wrony-st9048640?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:26:00 GMT",
+      "description": "Paweł Pawlikowski wrócił po ośmiu latach z nowym filmem \"Ojczyzna\". W sobotę zdobył nagrodę za reżyserię na festiwalu w Cannes. O czym jest nagrodzony film?",
+      "originalTitle": "\"Ojczyzna\" Pawła Pawlikowskiego. O czym jest film?",
+      "originalDescription": "Paweł Pawlikowski wrócił po ośmiu latach z nowym filmem \"Ojczyzna\". W sobotę zdobył nagrodę za reżyserię na festiwalu w Cannes. O czym jest nagrodzony film?"
+    },
+    {
+      "title": "Pogoda na jutro - niedziela 24.05. Po spokojnej nocy czeka nas burzowy dzień",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-24-05-po-spokojnej-nocy-czeka-nas-burzowy-dzien-st9063382?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:24:35 GMT",
+      "description": "Pogoda na jutro, czyli na niedzielę 24.05. Noc zapowiada się na ogół pogodnie, natomiast dzień przyniesie niespokojna aurę. W wielu regionach popada deszcz, pojawią się też burze.",
+      "originalTitle": "Pogoda na jutro - niedziela 24.05. Po spokojnej nocy czeka nas burzowy dzień",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę 24.05. Noc zapowiada się na ogół pogodnie, natomiast dzień przyniesie niespokojna aurę. W wielu regionach popada deszcz, pojawią się też burze."
+    },
+    {
+      "title": "Cannes 2026. Paweł Pawlikowski z nagrodą za reżyserię",
+      "link": "https://tvn24.pl/kultura-i-styl/cannes-2026-pawel-pawlikowski-z-nagroda-za-rezyserie-st9061729?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:23:30 GMT",
+      "description": "Paweł Pawlikowski zdobył nagrodę za reżyserię na 79. Festiwalu Filmowym w Cannes. Dostał statuetkę za film \"Ojczyzna\".",
+      "originalTitle": "Cannes 2026. Paweł Pawlikowski z nagrodą za reżyserię",
+      "originalDescription": "Paweł Pawlikowski zdobył nagrodę za reżyserię na 79. Festiwalu Filmowym w Cannes. Dostał statuetkę za film \"Ojczyzna\"."
+    },
+    {
+      "title": "Zderzenie pociągu z samochodem. Są ranni",
+      "link": "https://tvn24.pl/szczecin/kosciernica-pociag-zderzyl-sie-z-samochodem-sa-ranni-st9063386?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:19:14 GMT",
+      "description": "Na przejeździe kolejowym w Kościernicy (województwo zachodniopomorskie) doszło do zderzenia pociągu z samochodem osobowym. Dwie osoby zostały ranne, jedna z nich jest w stanie ciężkim.",
+      "originalTitle": "Zderzenie pociągu z samochodem. Są ranni",
+      "originalDescription": "Na przejeździe kolejowym w Kościernicy (województwo zachodniopomorskie) doszło do zderzenia pociągu z samochodem osobowym. Dwie osoby zostały ranne, jedna z nich jest w stanie ciężkim."
+    },
+    {
+      "title": "Nowa wersja porozumienia. Reuters: przekazali ją Stanom Zjednoczonym",
+      "link": "https://tvn24.pl/polska/nowa-wersja-porozumienia-iran-usa-reuters-przekazali-ja-stanom-zjednoczonym-st9063406?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:14:22 GMT",
+      "description": "Iran ma poprawioną wersję porozumienia, które ma zakończyć wojnę. Razem z Pakistanem, mediatorem w negocjacjach, przekazali je USA - podał Reuters.",
+      "originalTitle": "Nowa wersja porozumienia. Reuters: przekazali ją Stanom Zjednoczonym",
+      "originalDescription": "Iran ma poprawioną wersję porozumienia, które ma zakończyć wojnę. Razem z Pakistanem, mediatorem w negocjacjach, przekazali je USA - podał Reuters."
+    },
+    {
+      "title": "Zaginęła 14-latka, trwają poszukiwania. Jest alert RCB",
+      "link": "https://tvn24.pl/polska/ruda-slaska-zaginela-14-letnia-klaudia-gawron-trwaja-poszukiwania-jest-alert-rcb-st9063388?source=rss",
+      "pubDate": "Sat, 23 May 2026 18:59:17 GMT",
+      "description": "Policja z Rudy Śląskiej poszukuje 14-letniej Klaudii Gawron. Nastolatka nad ranem wyszła z mieszkania i nie ma z nią kontaktu. W sprawie poszukiwań wysłano alert RCB.",
+      "originalTitle": "Zaginęła 14-latka, trwają poszukiwania. Jest alert RCB",
+      "originalDescription": "Policja z Rudy Śląskiej poszukuje 14-letniej Klaudii Gawron. Nastolatka nad ranem wyszła z mieszkania i nie ma z nią kontaktu. W sprawie poszukiwań wysłano alert RCB."
+    }
+  ]
 }
