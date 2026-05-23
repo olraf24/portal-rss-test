@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-23T18:24:24.775Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-23T18:49:44.423Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Fala upałów we Włoszech. Lato przyszło szybciej niż zwykle",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/fala-upalow-we-wloszech-lato-przyszlo-szybciej-niz-zwykle-st9063333?source=rss",
+      "pubDate": "Sat, 23 May 2026 18:36:01 GMT",
+      "description": "Pierwsza w tym roku fala upałów nawiedziła Włochy. W wielu regionach kraju termometry pokażą ponad 30 stopni Celsjusza. Sprawdź, kiedy nastąpi kulminacja skwaru.",
+      "originalTitle": "Fala upałów we Włoszech. Lato przyszło szybciej niż zwykle",
+      "originalDescription": "Pierwsza w tym roku fala upałów nawiedziła Włochy. W wielu regionach kraju termometry pokażą ponad 30 stopni Celsjusza. Sprawdź, kiedy nastąpi kulminacja skwaru."
+    },
+    {
+      "title": "Politico dotarło do depeszy od ambasadora. \"Dominującą reakcją jest poczucie zdrady\"",
+      "link": "https://tvn24.pl/polska/zolnierze-usa-w-polsce-ujawniono-depesze-ambasadora-dominujaca-reakcja-jest-poczucie-zdrady-st9063266?source=rss",
+      "pubDate": "Sat, 23 May 2026 17:37:06 GMT",
+      "description": "Zanim Donald Trump ogłosił decyzję o wysłaniu do Polski dodatkowych żołnierzy, wśród polskich władz narastało poczucie \"zdrady\" i \"rozczarowania\" - wynika z poufnej depeszy ambasadora USA, którą ujawnił portal Politico. Takie informacje Tom Rose miał przekazać między innymi do biura sekretarza stanu USA.",
+      "originalTitle": "Politico dotarło do depeszy od ambasadora. \"Dominującą reakcją jest poczucie zdrady\"",
+      "originalDescription": "Zanim Donald Trump ogłosił decyzję o wysłaniu do Polski dodatkowych żołnierzy, wśród polskich władz narastało poczucie \"zdrady\" i \"rozczarowania\" - wynika z poufnej depeszy ambasadora USA, którą ujawnił portal Politico. Takie informacje Tom Rose miał przekazać między innymi do biura sekretarza stanu USA."
+    },
+    {
+      "title": "Łoś w centrum Szczecina. \"To dla nas duże zaskoczenie\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/los-w-centrum-szczecina-to-dla-nas-duze-zaskoczenie-st9063259?source=rss",
+      "pubDate": "Sat, 23 May 2026 17:32:09 GMT",
+      "description": "Łoś biegał w sobotę po centrum Szczecina i wywołał niemałe zamieszanie. Zwierzę przepłynęło Odrę, aby dostać się do miasta.",
+      "originalTitle": "Łoś w centrum Szczecina. \"To dla nas duże zaskoczenie\"",
+      "originalDescription": "Łoś biegał w sobotę po centrum Szczecina i wywołał niemałe zamieszanie. Zwierzę przepłynęło Odrę, aby dostać się do miasta."
+    },
+    {
+      "title": "Zełenski: mamy informacje, że Rosja może użyć Oriesznika",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-wolodymyr-zelenski-mamy-informacje-ze-rosja-moze-uzyc-oriesznika-st9063254?source=rss",
+      "pubDate": "Sat, 23 May 2026 16:33:31 GMT",
+      "description": "Prezydent Ukrainy Wołodymyr Zełenski ostrzegł, że Rosja przygotowuje się do zmasowanego ataku, w którym może zostać użyty pocisk Oriesznik. - Użycie takiej broni i przedłużanie tej wojny tworzy globalny precedens dla innych potencjalnych agresorów - ocenił ukraiński przywódca.",
+      "originalTitle": "Zełenski: mamy informacje, że Rosja może użyć Oriesznika",
+      "originalDescription": "Prezydent Ukrainy Wołodymyr Zełenski ostrzegł, że Rosja przygotowuje się do zmasowanego ataku, w którym może zostać użyty pocisk Oriesznik. - Użycie takiej broni i przedłużanie tej wojny tworzy globalny precedens dla innych potencjalnych agresorów - ocenił ukraiński przywódca."
+    },
+    {
+      "title": "Czy pary jednopłciowe mogą się rozwieść w Polsce? Sprawdzamy",
+      "link": "https://konkret24.tvn24.pl/polska/czy-pary-jednoplciowe-moga-sie-rozwiesc-w-polsce-sprawdzamy-st9061329?source=rss",
+      "pubDate": "Sat, 23 May 2026 16:18:57 GMT",
+      "description": "Rozporządzenie w sprawie transkrypcji aktów małżeństwa par jednopłciowych zawartych za granicą dopiero co opublikowano w Dzienniku Ustaw. Pozwoli na przeniesienie zagranicznego aktu do polskiego rejestru niezależnie od płci małżonków. Od razu pojawiły się jednak pytania, co z rozwodami par jednopłciowych. Nie potrafiła sobie poradzić ministra do spraw równości Katarzyna Kotula. My zapytaliśmy o to ekspertów.",
+      "originalTitle": "Czy pary jednopłciowe mogą się rozwieść w Polsce? Sprawdzamy",
+      "originalDescription": "Rozporządzenie w sprawie transkrypcji aktów małżeństwa par jednopłciowych zawartych za granicą dopiero co opublikowano w Dzienniku Ustaw. Pozwoli na przeniesienie zagranicznego aktu do polskiego rejestru niezależnie od płci małżonków. Od razu pojawiły się jednak pytania, co z rozwodami par jednopłciowych. Nie potrafiła sobie poradzić ministra do spraw równości Katarzyna Kotula. My zapytaliśmy o to ekspertów."
+    },
+    {
+      "title": "Wjechał nad Morskie Oko, dostał 100 złotych mandatu. Policja tłumaczy",
+      "link": "https://tvn24.pl/krakow/influencer-andriy-gavryliv-wjechal-sportowym-autem-nad-morskie-oko-st9062555?source=rss",
+      "pubDate": "Sat, 23 May 2026 09:48:17 GMT",
+      "description": "Ukraiński influencer wjechał sportowym autem nad Morskie Oko. Dostał za to 100 złotych mandatu. Dlaczego tak mało? Policja zabrała głos. Wcześniej zareagował też premier i minister spraw wewnętrznych.",
+      "originalTitle": "Wjechał nad Morskie Oko, dostał 100 złotych mandatu. Policja tłumaczy",
+      "originalDescription": "Ukraiński influencer wjechał sportowym autem nad Morskie Oko. Dostał za to 100 złotych mandatu. Dlaczego tak mało? Policja zabrała głos. Wcześniej zareagował też premier i minister spraw wewnętrznych."
+    },
+    {
+      "title": "\"Myśleliśmy krajami, kontynentami, konkretnymi twórcami\". Maciej Musiał o nowym spojrzeniu na \"Dekalog\"",
+      "link": "https://tvn24.pl/kultura-i-styl/cannes-2026-film-historie-rownolegle-maciej-musial-o-nowym-spojrzeniu-na-dekalog-krzysztofa-kieslowskiego-st9060754?source=rss",
+      "pubDate": "Sat, 23 May 2026 16:04:14 GMT",
+      "description": "Po ponad sześciu latach prac ziścił się pomysł, by stworzyć międzynarodowy cykl inspirowany \"Dekalogiem\" Krzysztofa Kieślowskiego. Jego pierwsza odsłona - \"Historie równoległe\" - ma szanse na Złotą Palmę. - Jestem onieśmielony i podekscytowany. Pojawił się też duży stres - przyznaje w rozmowie z TVN24+ Maciej Musiał, jeden z producentów filmu.",
+      "originalTitle": "\"Myśleliśmy krajami, kontynentami, konkretnymi twórcami\". Maciej Musiał o nowym spojrzeniu na \"Dekalog\"",
+      "originalDescription": "Po ponad sześciu latach prac ziścił się pomysł, by stworzyć międzynarodowy cykl inspirowany \"Dekalogiem\" Krzysztofa Kieślowskiego. Jego pierwsza odsłona - \"Historie równoległe\" - ma szanse na Złotą Palmę. - Jestem onieśmielony i podekscytowany. Pojawił się też duży stres - przyznaje w rozmowie z TVN24+ Maciej Musiał, jeden z producentów filmu."
+    },
+    {
+      "title": "Powodzie w Bułgarii. Wprowadzono stan wyjątkowy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-bulgarii-wprowadzono-stan-wyjatkowy-ulice-jak-rwace-potoki-st9063219?source=rss",
+      "pubDate": "Sat, 23 May 2026 15:50:48 GMT",
+      "description": "Powodzie, które były następstwem ulewnych opadów deszczu, nawiedziły północne regiony Bułgarii. Wiele domów zostało zalanych, a ulice zmieniły się w rwące potoki. Władze wprowadziły stan wyjątkowy.",
+      "originalTitle": "Powodzie w Bułgarii. Wprowadzono stan wyjątkowy",
+      "originalDescription": "Powodzie, które były następstwem ulewnych opadów deszczu, nawiedziły północne regiony Bułgarii. Wiele domów zostało zalanych, a ulice zmieniły się w rwące potoki. Władze wprowadziły stan wyjątkowy."
+    },
+    {
+      "title": "Motoszybowiec rozbił się na autostradzie. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/swiat/niemcy-motoszybowiec-rozbil-sie-na-autostradzie-w-poblizu-olpe-jedna-osoba-nie-zyje-st9063203?source=rss",
+      "pubDate": "Sat, 23 May 2026 15:01:34 GMT",
+      "description": "Motoszybowiec rozbił się w sobotę na autostradzie w pobliżu Olpe w Niemczech. W maszynie miały znajdować się dwie osoby - podały media. Jedna z nich nie żyje.",
+      "originalTitle": "Motoszybowiec rozbił się na autostradzie. Jedna osoba nie żyje",
+      "originalDescription": "Motoszybowiec rozbił się w sobotę na autostradzie w pobliżu Olpe w Niemczech. W maszynie miały znajdować się dwie osoby - podały media. Jedna z nich nie żyje."
+    },
+    {
+      "title": "To będzie najdłuższy tunel drogowy w Polsce. Umowa już podpisana",
+      "link": "https://tvn24.pl/szczecin/szczecin-powstanie-najdluzszy-tunel-drogowy-w-polsce-umowa-juz-podpisana-st9062672?source=rss",
+      "pubDate": "Sat, 23 May 2026 15:00:03 GMT",
+      "description": "Pod Odrą w okolicy Szczecina powstanie najdłuższy tunel drogowy w Polsce. Będzie miał pięć kilometrów długości. Umowa na budowę już jest podpisana. Generalna Dyrekcja Dróg Krajowych i Autostrad przedstawiła wizualizacje.",
+      "originalTitle": "To będzie najdłuższy tunel drogowy w Polsce. Umowa już podpisana",
+      "originalDescription": "Pod Odrą w okolicy Szczecina powstanie najdłuższy tunel drogowy w Polsce. Będzie miał pięć kilometrów długości. Umowa na budowę już jest podpisana. Generalna Dyrekcja Dróg Krajowych i Autostrad przedstawiła wizualizacje."
+    }
+  ]
 }
