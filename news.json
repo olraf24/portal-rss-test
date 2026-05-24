@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-23T23:48:40.540Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-24T00:52:41.406Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na dziś - niedziela 24.05. Strefa opadów będzie wędrować nad Polską. Uważajmy na burze",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-24-05-strefa-opadow-bedzie-wedrowac-nad-polska-uwazajmy-na-burze-st9063467?source=rss",
+      "pubDate": "Sun, 24 May 2026 00:00:00 GMT",
+      "description": "Pogoda na dziś. Na niedzielę prognozuje się przelotne opady deszczu, których strefa będzie przemieszczać się nad Polską. Pojawią się też burze, podczas których mocno powieje wiatr.",
+      "originalTitle": "Pogoda na dziś - niedziela 24.05. Strefa opadów będzie wędrować nad Polską. Uważajmy na burze",
+      "originalDescription": "Pogoda na dziś. Na niedzielę prognozuje się przelotne opady deszczu, których strefa będzie przemieszczać się nad Polską. Pojawią się też burze, podczas których mocno powieje wiatr."
+    },
+    {
+      "title": "Odnaleziono zaginioną 14-latkę",
+      "link": "https://tvn24.pl/polska/ruda-slaska-odnaleziono-zaginiona-14-latke-st9063388?source=rss",
+      "pubDate": "Sat, 23 May 2026 18:59:17 GMT",
+      "description": "Policja z Rudy Śląskiej odnalazła poszukiwaną 14-latkę, która nad ranem wyszła z mieszkania i nie było z nią kontaktu.",
+      "originalTitle": "Odnaleziono zaginioną 14-latkę",
+      "originalDescription": "Policja z Rudy Śląskiej odnalazła poszukiwaną 14-latkę, która nad ranem wyszła z mieszkania i nie było z nią kontaktu."
+    },
+    {
+      "title": "CNN: odgłosy strzałów w pobliżu Białego Domu",
+      "link": "https://tvn24.pl/swiat/cnn-odglosy-strzalow-w-poblizu-bialego-domu-st9063496?source=rss",
+      "pubDate": "Sat, 23 May 2026 22:44:29 GMT",
+      "description": "W pobliżu Białego Domu było słychać kilkadziesiąt wybuchów, które brzmiały jak strzały z broni palnej - podał CNN, powołując się na swoich dziennikarzy, którzy są na miejscu. Napastnik został zatrzymany.",
+      "originalTitle": "CNN: odgłosy strzałów w pobliżu Białego Domu",
+      "originalDescription": "W pobliżu Białego Domu było słychać kilkadziesiąt wybuchów, które brzmiały jak strzały z broni palnej - podał CNN, powołując się na swoich dziennikarzy, którzy są na miejscu. Napastnik został zatrzymany."
+    },
+    {
+      "title": "Pilna narada w MSWiA. Przyjechali szefowie służb",
+      "link": "https://tvn24.pl/polska/strazacy-po-falszywym-zgloszeniu-w-mieszkaniu-rodzinnym-prezydenta-pilna-narada-w-mswia-st9063495?source=rss",
+      "pubDate": "Sat, 23 May 2026 22:25:17 GMT",
+      "description": "W MSWiA odbyła się pilna narada ministra z szefami służb. Ma to związek z wejściem strażaków do mieszkania rodzinnego prezydenta po fałszywym zgłoszeniu. Po zakończeniu spotkania rzeczniczka wydała komunikat.",
+      "originalTitle": "Pilna narada w MSWiA. Przyjechali szefowie służb",
+      "originalDescription": "W MSWiA odbyła się pilna narada ministra z szefami służb. Ma to związek z wejściem strażaków do mieszkania rodzinnego prezydenta po fałszywym zgłoszeniu. Po zakończeniu spotkania rzeczniczka wydała komunikat."
+    },
+    {
+      "title": "Trump: porozumienie w dużej mierze wynegocjowane",
+      "link": "https://tvn24.pl/polska/donald-trump-porozumienie-z-iranem-w-duzej-mierze-wynegocjowane-st9063486?source=rss",
+      "pubDate": "Sat, 23 May 2026 21:15:49 GMT",
+      "description": "Prezydent USA Donald Trump napisał, że porozumienie z Iranem jest \"w dużej mierze wynegocjowane\", omawiane są ostatnie jego szczegóły.",
+      "originalTitle": "Trump: porozumienie w dużej mierze wynegocjowane",
+      "originalDescription": "Prezydent USA Donald Trump napisał, że porozumienie z Iranem jest \"w dużej mierze wynegocjowane\", omawiane są ostatnie jego szczegóły."
+    },
+    {
+      "title": "Tornado w Alabamie. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tornado-usa-tornado-w-alabamie-nagranie-st9063421?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:56:15 GMT",
+      "description": "Kamera samochodowa uchwyciła na nagraniu, jak nad autostradą stanową w hrabstwie Tuscaloosa w Alabamie przeszło tornado. Eksperci z amerykańskiej Narodowej Służby Meteorologicznej (NWS) wydali dla tego regionu ostrzeżenie.",
+      "originalTitle": "Tornado w Alabamie. Nagranie",
+      "originalDescription": "Kamera samochodowa uchwyciła na nagraniu, jak nad autostradą stanową w hrabstwie Tuscaloosa w Alabamie przeszło tornado. Eksperci z amerykańskiej Narodowej Służby Meteorologicznej (NWS) wydali dla tego regionu ostrzeżenie."
+    },
+    {
+      "title": "Cannes 2026. \"Fjord\" ze Złotą Palmą",
+      "link": "https://tvn24.pl/kultura-i-styl/cannes-2026-fjord-ze-zlota-palma-lista-nagrodzonych-st9061725?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:43:05 GMT",
+      "description": "Za nami 79. Festiwal Filmowy w Cannes. Złotą Palmę otrzymał film \"Fjord\" Cristiana Mungiu. To druga jego Złota Palma w karierze. Wielką Nagrodę Jury otrzymał film \"Minotaur\".",
+      "originalTitle": "Cannes 2026. \"Fjord\" ze Złotą Palmą",
+      "originalDescription": "Za nami 79. Festiwal Filmowy w Cannes. Złotą Palmę otrzymał film \"Fjord\" Cristiana Mungiu. To druga jego Złota Palma w karierze. Wielką Nagrodę Jury otrzymał film \"Minotaur\"."
+    },
+    {
+      "title": "\"Ojczyzna\" Pawła Pawlikowskiego. O czym jest film?",
+      "link": "https://tvn24.pl/kultura-i-styl/ojczyzna-pawla-pawlikowskiego-w-cannes-o-czym-jest-film-wybor-wrony-st9048640?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:26:00 GMT",
+      "description": "Paweł Pawlikowski wrócił po ośmiu latach z nowym filmem \"Ojczyzna\". W sobotę zdobył nagrodę za reżyserię na festiwalu w Cannes. O czym jest nagrodzony film?",
+      "originalTitle": "\"Ojczyzna\" Pawła Pawlikowskiego. O czym jest film?",
+      "originalDescription": "Paweł Pawlikowski wrócił po ośmiu latach z nowym filmem \"Ojczyzna\". W sobotę zdobył nagrodę za reżyserię na festiwalu w Cannes. O czym jest nagrodzony film?"
+    },
+    {
+      "title": "Pogoda na jutro - niedziela 24.05. Po spokojnej nocy czeka nas burzowy dzień",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-24-05-po-spokojnej-nocy-czeka-nas-burzowy-dzien-st9063382?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:24:35 GMT",
+      "description": "Pogoda na jutro, czyli na niedzielę 24.05. Noc zapowiada się na ogół pogodnie, natomiast dzień przyniesie niespokojna aurę. W wielu regionach popada deszcz, pojawią się też burze.",
+      "originalTitle": "Pogoda na jutro - niedziela 24.05. Po spokojnej nocy czeka nas burzowy dzień",
+      "originalDescription": "Pogoda na jutro, czyli na niedzielę 24.05. Noc zapowiada się na ogół pogodnie, natomiast dzień przyniesie niespokojna aurę. W wielu regionach popada deszcz, pojawią się też burze."
+    },
+    {
+      "title": "Cannes 2026. Paweł Pawlikowski z nagrodą za reżyserię",
+      "link": "https://tvn24.pl/kultura-i-styl/cannes-2026-pawel-pawlikowski-z-nagroda-za-rezyserie-st9061729?source=rss",
+      "pubDate": "Sat, 23 May 2026 19:23:30 GMT",
+      "description": "Paweł Pawlikowski zdobył nagrodę za reżyserię na 79. Festiwalu Filmowym w Cannes. Dostał statuetkę za film \"Ojczyzna\".",
+      "originalTitle": "Cannes 2026. Paweł Pawlikowski z nagrodą za reżyserię",
+      "originalDescription": "Paweł Pawlikowski zdobył nagrodę za reżyserię na 79. Festiwalu Filmowym w Cannes. Dostał statuetkę za film \"Ojczyzna\"."
+    }
+  ]
 }
