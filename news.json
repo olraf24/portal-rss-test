@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-24T21:21:26.566Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-24T21:48:46.435Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Inicjator referendum ogłosił sukces i zaapelował do premiera",
+      "link": "https://tvn24.pl/krakow/krakow-inicjator-referendum-oglosil-sukces-i-zaapelowal-do-premiera-st9064524?source=rss",
+      "pubDate": "Sun, 24 May 2026 21:31:53 GMT",
+      "description": "- Z całą pewnością możemy powiedzieć, że 24 maja zakończyliśmy tę niezbyt udaną prezydenturę - powiedział w niedzielę wieczorem inicjator referendum w sprawie odwołania prezydenta Krakowa i rady miasta Jan Hoffman. Według badania OGB, Aleksander Miszalski straci stanowisko. Hoffman zaapelował do premiera o powołanie komisarza, który będzie \"uczulony na to, co ważne dla Krakowa\".",
+      "originalTitle": "Inicjator referendum ogłosił sukces i zaapelował do premiera",
+      "originalDescription": "- Z całą pewnością możemy powiedzieć, że 24 maja zakończyliśmy tę niezbyt udaną prezydenturę - powiedział w niedzielę wieczorem inicjator referendum w sprawie odwołania prezydenta Krakowa i rady miasta Jan Hoffman. Według badania OGB, Aleksander Miszalski straci stanowisko. Hoffman zaapelował do premiera o powołanie komisarza, który będzie \"uczulony na to, co ważne dla Krakowa\"."
+    },
+    {
+      "title": "Jest pierwszy kandydat w wyborach na prezydenta Krakowa",
+      "link": "https://tvn24.pl/krakow/jest-pierwszy-kandydat-w-wyborach-na-prezydenta-krakowa-st9064526?source=rss",
+      "pubDate": "Sun, 24 May 2026 21:22:22 GMT",
+      "description": "\"Wystartuję w wyborach na prezydenta Krakowa i przedstawię kandydatów do rady miasta\" - ogłosił na X Marian Banaś. Jeśli potwierdzą się sondażowe wyniki exit poll, Aleksander Miszalski zostanie odwołany ze stanowiska.",
+      "originalTitle": "Jest pierwszy kandydat w wyborach na prezydenta Krakowa",
+      "originalDescription": "\"Wystartuję w wyborach na prezydenta Krakowa i przedstawię kandydatów do rady miasta\" - ogłosił na X Marian Banaś. Jeśli potwierdzą się sondażowe wyniki exit poll, Aleksander Miszalski zostanie odwołany ze stanowiska."
+    },
+    {
+      "title": "\"Marsz w kierunku władzy\" po referendum w Krakowie",
+      "link": "https://tvn24.pl/krakow/marsz-w-kierunku-wladzy-po-referendum-w-krakowie-st9064518?source=rss",
+      "pubDate": "Sun, 24 May 2026 20:49:26 GMT",
+      "description": "- To symboliczne przejmowanie władzy przez Prawo i Sprawiedliwość - tak sondażowy wynik referendum w sprawie odwołania prezydenta Krakowa oceniła prof. Agnieszka Kasińska-Metryka, politolożka z Uniwersytetu Jana Kochanowskiego w Kielcach. Zdaniem ekspertki decyzja Krakowian nie jest lokalnym incydentem, a początkiem ogólnopolskiej fali.",
+      "originalTitle": "\"Marsz w kierunku władzy\" po referendum w Krakowie",
+      "originalDescription": "- To symboliczne przejmowanie władzy przez Prawo i Sprawiedliwość - tak sondażowy wynik referendum w sprawie odwołania prezydenta Krakowa oceniła prof. Agnieszka Kasińska-Metryka, politolożka z Uniwersytetu Jana Kochanowskiego w Kielcach. Zdaniem ekspertki decyzja Krakowian nie jest lokalnym incydentem, a początkiem ogólnopolskiej fali."
+    },
+    {
+      "title": "Dojechał do Gdańska. Sukces akcji Łatwoganga",
+      "link": "https://tvn24.pl/biznes/z-kraju/latwogang-kolejny-sukces-akcji-st9063615?source=rss",
+      "pubDate": "Sun, 24 May 2026 07:11:23 GMT",
+      "description": "Łatwogang dotarł do Gdańska. Po gigantycznym sukcesie zbiórki na Fundację Cancer Fighters Piotr Hancke ruszył rowerem z Zakopanego. Przez większą część trasy zbierał pieniądze na leczenie Maksa, który żyje ze śmiertelną chorobą genetyczną. Zbiórka przekroczyła 12 milionów złotych, czyli zakładany cel. Następnie zebrał środki dla czteroletniego Adasia i uruchomił trzecią zbiórkę na leczenie dwuletniego dziecka.",
+      "originalTitle": "Dojechał do Gdańska. Sukces akcji Łatwoganga",
+      "originalDescription": "Łatwogang dotarł do Gdańska. Po gigantycznym sukcesie zbiórki na Fundację Cancer Fighters Piotr Hancke ruszył rowerem z Zakopanego. Przez większą część trasy zbierał pieniądze na leczenie Maksa, który żyje ze śmiertelną chorobą genetyczną. Zbiórka przekroczyła 12 milionów złotych, czyli zakładany cel. Następnie zebrał środki dla czteroletniego Adasia i uruchomił trzecią zbiórkę na leczenie dwuletniego dziecka."
+    },
+    {
+      "title": "Polecieli na orbitę. Jedno z nich ma zostać tam na rok",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-kosmos-misja-shenzhou-23-polecieli-na-orbite-jedno-z-nich-ma-zostac-tam-na-rok-st9064436?source=rss",
+      "pubDate": "Sun, 24 May 2026 19:38:32 GMT",
+      "description": "W kierunku chińskiej stacji kosmicznej Tiangong wyruszyła misja Shenzhou-23 z trójką tajkonautów na pokładzie. Jeden z członków załogi ma spędzić w kosmosie rok.",
+      "originalTitle": "Polecieli na orbitę. Jedno z nich ma zostać tam na rok",
+      "originalDescription": "W kierunku chińskiej stacji kosmicznej Tiangong wyruszyła misja Shenzhou-23 z trójką tajkonautów na pokładzie. Jeden z członków załogi ma spędzić w kosmosie rok."
+    },
+    {
+      "title": "Koniec referendum w Krakowie. Są wyniki exit poll",
+      "link": "https://tvn24.pl/krakow/koniec-referendum-w-krakowie-sa-wyniki-exit-poll-st9064422?source=rss",
+      "pubDate": "Sun, 24 May 2026 19:01:51 GMT",
+      "description": "W referendum w Krakowie wzięło udział 33,4 procent mieszkańców - wynika z badania exit poll, przeprowadzonego przez Ogólnopolską Grupę Badawczą na zlecenie Polsat News. Zdecydowana większość, blisko 98 procent, opowiedziała się za odwołaniem Aleksandra Miszalskiego i rady miasta. Jeśli te sondażowe wyniki się potwierdzą, referendum będzie ważne i prezydent Krakowa zostanie odwołany.",
+      "originalTitle": "Koniec referendum w Krakowie. Są wyniki exit poll",
+      "originalDescription": "W referendum w Krakowie wzięło udział 33,4 procent mieszkańców - wynika z badania exit poll, przeprowadzonego przez Ogólnopolską Grupę Badawczą na zlecenie Polsat News. Zdecydowana większość, blisko 98 procent, opowiedziała się za odwołaniem Aleksandra Miszalskiego i rady miasta. Jeśli te sondażowe wyniki się potwierdzą, referendum będzie ważne i prezydent Krakowa zostanie odwołany."
+    },
+    {
+      "title": "\"Ta nowa informacja może zmienić naszą strategię działania\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-temperatura-zbiornika-z-toksyczna-substancja-rosnie-to-bardzo-zla-informacja-st9063580?source=rss",
+      "pubDate": "Sun, 24 May 2026 06:45:10 GMT",
+      "description": "W niedzielę kalifornijscy strażacy przekazali, że w uszkodzonym zbiorniku z toksyczną substancją w mieście Garden Grove mogło pojawić się pęknięcie. Informacja ta może potencjalnie zmniejszać ryzyko eksplozji. Wciąż obowiązuje nakaz ewakuacji dla kilkudziesięciu tysięcy mieszkańców.",
+      "originalTitle": "\"Ta nowa informacja może zmienić naszą strategię działania\"",
+      "originalDescription": "W niedzielę kalifornijscy strażacy przekazali, że w uszkodzonym zbiorniku z toksyczną substancją w mieście Garden Grove mogło pojawić się pęknięcie. Informacja ta może potencjalnie zmniejszać ryzyko eksplozji. Wciąż obowiązuje nakaz ewakuacji dla kilkudziesięciu tysięcy mieszkańców."
+    },
+    {
+      "title": "O włos od upału. Gdzie w niedzielę było najgoręcej",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-bylo-prawie-30-stopni-o-wlos-od-upalu-gdzie-w-niedziele-bylo-najgorecej-mapa-z-temperaturami-st9064457?source=rss",
+      "pubDate": "Sun, 24 May 2026 18:44:46 GMT",
+      "description": "Za nami gorąca niedziela. Lokalnie do osiągnięcia upału zabrakło niewiele. Jakie polskie zanotowało prawie 30 stopni Celsjusza? Można to zobaczyć na mapie.",
+      "originalTitle": "O włos od upału. Gdzie w niedzielę było najgoręcej",
+      "originalDescription": "Za nami gorąca niedziela. Lokalnie do osiągnięcia upału zabrakło niewiele. Jakie polskie zanotowało prawie 30 stopni Celsjusza? Można to zobaczyć na mapie."
+    },
+    {
+      "title": "Fałszywy alarm i służby w domu rodziny prezydenta. Szef MSWiA o szczegółach zgłoszenia",
+      "link": "https://tvn24.pl/polska/falszywy-alarm-i-sluzby-w-domu-rodziny-prezydenta-szef-mswia-o-szczegolach-zgloszenia-st9064444?source=rss",
+      "pubDate": "Sun, 24 May 2026 18:30:28 GMT",
+      "description": "Służby prowadzą bardzo intensywne śledztwo - powiedział w \"Faktach po Faktach\" w TVN24 szef MSWiA Marcin Kierwiński. Komentował sprawę fałszywego zgłoszenia i interwencji w domu członka rodziny prezydenta. Przekazał też, że mieszkanie należące do matki Karola Nawrockiego \"nie podlega jako takie ochronie SOP-u\". Jak mówił, \"nie było zgłaszane ani przez pana prezydenta, ani przez jego urzędników do tego, aby było mieszkaniem, w którym na stałe przebywa pan prezydent\".",
+      "originalTitle": "Fałszywy alarm i służby w domu rodziny prezydenta. Szef MSWiA o szczegółach zgłoszenia",
+      "originalDescription": "Służby prowadzą bardzo intensywne śledztwo - powiedział w \"Faktach po Faktach\" w TVN24 szef MSWiA Marcin Kierwiński. Komentował sprawę fałszywego zgłoszenia i interwencji w domu członka rodziny prezydenta. Przekazał też, że mieszkanie należące do matki Karola Nawrockiego \"nie podlega jako takie ochronie SOP-u\". Jak mówił, \"nie było zgłaszane ani przez pana prezydenta, ani przez jego urzędników do tego, aby było mieszkaniem, w którym na stałe przebywa pan prezydent\"."
+    },
+    {
+      "title": "Gdzie jest burza? Pada deszcz, dość silnie wieje",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-niedziela-24-05-pogoda-mapa-i-radar-burz-grzmi-i-silnie-wieje-w-czesci-polski-st9064275?source=rss",
+      "pubDate": "Sun, 24 May 2026 13:11:47 GMT",
+      "description": "Gdzie jest burza? W niedzielę 24.05 nad Polską pojawiają się wyładowania. Grzmi na przechodzącym przez kraj chłodnym froncie atmosferycznym. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Pada deszcz, dość silnie wieje",
+      "originalDescription": "Gdzie jest burza? W niedzielę 24.05 nad Polską pojawiają się wyładowania. Grzmi na przechodzącym przez kraj chłodnym froncie atmosferycznym. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    }
+  ]
 }
