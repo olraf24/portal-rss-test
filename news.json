@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-25T15:06:03.755Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-25T16:18:52.965Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"To niezwykle pozytywna wiadomość\". Co dalej z uszkodzonym zbiornikiem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-temperatura-zbiornika-z-toksyczna-substancja-rosnie-to-bardzo-zla-informacja-st9063580?source=rss",
+      "pubDate": "Sun, 24 May 2026 06:45:10 GMT",
+      "description": "Trwa akcja zabezpieczania uszkodzonego zbiornika z silnie drażniącą substancją w kalifornijskim Garden Grove. W niedzielę zaczął on powoli pękać, co wbrew pozorom okazało się dobrą informacją - wewnątrz spadło ciśnienie, obniżając ryzyko eksplozji.",
+      "originalTitle": "\"To niezwykle pozytywna wiadomość\". Co dalej z uszkodzonym zbiornikiem",
+      "originalDescription": "Trwa akcja zabezpieczania uszkodzonego zbiornika z silnie drażniącą substancją w kalifornijskim Garden Grove. W niedzielę zaczął on powoli pękać, co wbrew pozorom okazało się dobrą informacją - wewnątrz spadło ciśnienie, obniżając ryzyko eksplozji."
+    },
+    {
+      "title": "Samochód zderzył się ze słoniem. Trzy osoby nie żyją",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/uganda-samochod-zderzyl-sie-ze-sloniem-trzy-osoby-nie-zyja-st9065842?source=rss",
+      "pubDate": "Mon, 25 May 2026 15:49:47 GMT",
+      "description": "Trzy osoby zginęły w zderzeniu samochodu ze słoniem w Ugandzie. Do wypadku doszło na terenie Parku Narodowego Murchison Falls, stanowiącego ostoję wielu gatunków zwierząt.",
+      "originalTitle": "Samochód zderzył się ze słoniem. Trzy osoby nie żyją",
+      "originalDescription": "Trzy osoby zginęły w zderzeniu samochodu ze słoniem w Ugandzie. Do wypadku doszło na terenie Parku Narodowego Murchison Falls, stanowiącego ostoję wielu gatunków zwierząt."
+    },
+    {
+      "title": "Surowsze zasady dla władz KNF. Rząd szykuje zmiany",
+      "link": "https://tvn24.pl/biznes/z-kraju/knf-nowe-zasady-dla-nadzoru-finansowego-rzad-chce-wdrozyc-unijne-dyrektywy-st9065847?source=rss",
+      "pubDate": "Mon, 25 May 2026 15:49:26 GMT",
+      "description": "Przewodniczący Komisji Nadzoru Finansowego i jego zastępcy mają pełnić funkcję maksymalnie przez 14 lat. Później nie mogliby być zatrudniani przez określony czas w podmiotach nadzorowanych, czy obracać instrumentami finansowymi. Takie limity zakłada projekt ustawy, którym we wtorek ma zająć się rząd.",
+      "originalTitle": "Surowsze zasady dla władz KNF. Rząd szykuje zmiany",
+      "originalDescription": "Przewodniczący Komisji Nadzoru Finansowego i jego zastępcy mają pełnić funkcję maksymalnie przez 14 lat. Później nie mogliby być zatrudniani przez określony czas w podmiotach nadzorowanych, czy obracać instrumentami finansowymi. Takie limity zakłada projekt ustawy, którym we wtorek ma zająć się rząd."
+    },
+    {
+      "title": "\"Nie wyhamował na przejeździe kolejowym i wjechał w bok jadącego pociągu\"",
+      "link": "https://tvn24.pl/poznan/poznan-wykolejony-pociag-komentarz-ministra-infrastruktury-st9065864?source=rss",
+      "pubDate": "Mon, 25 May 2026 15:19:16 GMT",
+      "description": "Minister infrastruktury Dariusz Klimczak zabrał głos po tragicznym wypadku i wykolejeniu pociągu. Jak przekazał, kierowca tira \"najprawdopodobniej nie wyhamował na przejeździe kolejowym i wjechał w bok jadącego pociągu Kolei Wielkopolskich\".",
+      "originalTitle": "\"Nie wyhamował na przejeździe kolejowym i wjechał w bok jadącego pociągu\"",
+      "originalDescription": "Minister infrastruktury Dariusz Klimczak zabrał głos po tragicznym wypadku i wykolejeniu pociągu. Jak przekazał, kierowca tira \"najprawdopodobniej nie wyhamował na przejeździe kolejowym i wjechał w bok jadącego pociągu Kolei Wielkopolskich\"."
+    },
+    {
+      "title": "Agnieszka Holland i komentarz o referendum. \"Hucpa\"? Tak, ale nie krakowska",
+      "link": "https://konkret24.tvn24.pl/polska/agnieszka-holland-i-komentarz-o-referendum-hucpa-tak-ale-nie-krakowska-st9064977?source=rss",
+      "pubDate": "Mon, 25 May 2026 15:11:33 GMT",
+      "description": "\"Krakowianie nie dorośli do demokracji\" - tak wyniki niedzielnego referendum w Krakowie miała podsumować reżyserka Agnieszka Holland. Jej rzekomy post notuje setki tysięcy wyświetleń i tysiące komentarzy. Oto jak powstał.",
+      "originalTitle": "Agnieszka Holland i komentarz o referendum. \"Hucpa\"? Tak, ale nie krakowska",
+      "originalDescription": "\"Krakowianie nie dorośli do demokracji\" - tak wyniki niedzielnego referendum w Krakowie miała podsumować reżyserka Agnieszka Holland. Jej rzekomy post notuje setki tysięcy wyświetleń i tysiące komentarzy. Oto jak powstał."
+    },
+    {
+      "title": "Rusza konkurs na szefa kluczowej agencji. Takie są wymagania",
+      "link": "https://tvn24.pl/biznes/z-kraju/paih-rusza-konkurs-na-stanowisko-prezesa-i-wiceprezesa-oto-wymagania-dla-kandydatow-st9065818?source=rss",
+      "pubDate": "Mon, 25 May 2026 14:48:54 GMT",
+      "description": "Rada nadzorcza Polskiej Agencji Inwestycji i Handlu ogłosiła konkurs na stanowiska prezesa i wiceprezesa. Z najważniejszej funkcji w firmie miesiąc temu został odwołany Andrzej Dycha, który był związany z PAIH od lutego 2024 roku.",
+      "originalTitle": "Rusza konkurs na szefa kluczowej agencji. Takie są wymagania",
+      "originalDescription": "Rada nadzorcza Polskiej Agencji Inwestycji i Handlu ogłosiła konkurs na stanowiska prezesa i wiceprezesa. Z najważniejszej funkcji w firmie miesiąc temu został odwołany Andrzej Dycha, który był związany z PAIH od lutego 2024 roku."
+    },
+    {
+      "title": "Brakuje młodych pielęgniarek. \"System opiera się na tych, które mogłyby już odejść z zawodu\"",
+      "link": "https://tvn24.pl/zdrowie/brakuje-mlodych-pielegniarek-system-opiera-sie-na-tych-ktore-moglyby-juz-odejsc-z-zawodu-st9065647?source=rss",
+      "pubDate": "Mon, 25 May 2026 14:35:59 GMT",
+      "description": "Ponad pięć tysięcy pielęgniarek w Polsce przekroczyło 70. rok życia i wciąż pracuje z pacjentami. Średni wiek odejścia z zawodu jest już o cztery lata wyższy niż w przypadku ogółu kobiet. Eksperci Naczelnej Rady Lekarskiej przestrzegają: system ochrony zdrowia stanął w obliczu poważnego problemu kadrowego, a czas na działanie dramatycznie się kurczy.",
+      "originalTitle": "Brakuje młodych pielęgniarek. \"System opiera się na tych, które mogłyby już odejść z zawodu\"",
+      "originalDescription": "Ponad pięć tysięcy pielęgniarek w Polsce przekroczyło 70. rok życia i wciąż pracuje z pacjentami. Średni wiek odejścia z zawodu jest już o cztery lata wyższy niż w przypadku ogółu kobiet. Eksperci Naczelnej Rady Lekarskiej przestrzegają: system ochrony zdrowia stanął w obliczu poważnego problemu kadrowego, a czas na działanie dramatycznie się kurczy."
+    },
+    {
+      "title": "Jest decyzja o karze dla Sakiewicza",
+      "link": "https://tvn24.pl/polska/jest-decyzja-o-karze-dla-tomasza-sakiewicza-st9065820?source=rss",
+      "pubDate": "Mon, 25 May 2026 14:33:14 GMT",
+      "description": "Prokurator nałożył na Tomasza Sakiewicza karę pieniężną w wysokości trzech tysięcy złotych w związku z bezpodstawnym uchyleniem się od złożenia zeznań podczas przesłuchania szefa Telewizji Republika - przekazała Prokuratura Krajowa.",
+      "originalTitle": "Jest decyzja o karze dla Sakiewicza",
+      "originalDescription": "Prokurator nałożył na Tomasza Sakiewicza karę pieniężną w wysokości trzech tysięcy złotych w związku z bezpodstawnym uchyleniem się od złożenia zeznań podczas przesłuchania szefa Telewizji Republika - przekazała Prokuratura Krajowa."
+    },
+    {
+      "title": "Kurczą się zapasy ropy. Nadchodzi krytyczny moment",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ekspert-iran-ma-najsilniejsza-pozycje-negocjacyjna-od-47-lat-europa-zagrozona-kryzysem-paliwowym-st9065739?source=rss",
+      "pubDate": "Mon, 25 May 2026 14:21:18 GMT",
+      "description": "Azja znajduje się coraz bliżej krytycznych minimów operacyjnych w rafineriach, a kurczące się zapasy ropy naftowej mogą wkrótce uderzyć także w Europę i Stany Zjednoczone - ostrzega CNBC. Jak zauważa były strateg rynkowy Jeff Currie, \"pozycja negocjacyjna Iranu nie była tak silna od 47 lat\".",
+      "originalTitle": "Kurczą się zapasy ropy. Nadchodzi krytyczny moment",
+      "originalDescription": "Azja znajduje się coraz bliżej krytycznych minimów operacyjnych w rafineriach, a kurczące się zapasy ropy naftowej mogą wkrótce uderzyć także w Europę i Stany Zjednoczone - ostrzega CNBC. Jak zauważa były strateg rynkowy Jeff Currie, \"pozycja negocjacyjna Iranu nie była tak silna od 47 lat\"."
+    },
+    {
+      "title": "Pociąg zderzył się z ciężarówką i wykoleił. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/poznan/garbatka-pociag-zderzyl-sie-z-ciezarowka-i-wykoleil-jedna-osoba-nie-zyje-st9065791?source=rss",
+      "pubDate": "Mon, 25 May 2026 14:18:56 GMT",
+      "description": "Tragiczny wypadek w Wielkopolsce. W miejscowości Garbatka pociąg zderzył się z ciężarówką. Skład wykoleił się. Jedna osoba zginęła.",
+      "originalTitle": "Pociąg zderzył się z ciężarówką i wykoleił. Jedna osoba nie żyje",
+      "originalDescription": "Tragiczny wypadek w Wielkopolsce. W miejscowości Garbatka pociąg zderzył się z ciężarówką. Skład wykoleił się. Jedna osoba zginęła."
+    }
+  ]
 }
