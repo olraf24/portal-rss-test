@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2026-05-27T06:36:52.945Z",
+  "lastUpdate": "2026-05-27T08:21:05.069Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Modele AI potrafią przemycać dane poza kontrolą człowieka",
+      "link": "https://dzienniknaukowy.pl/modele-ai-potrafia-przemycac-dane-poza-kontrola-czlowieka",
+      "pubDate": "Wed, 27 May 2026 07:43:20 +0000",
+      "description": "Modele sztucznej inteligencji potrafią kodować swoje preferencje i cechy w pozornie przypadkowych ciągach danych, przekazując je kolejnym systemom w procesie tzw. destylacji. Naukowcy zaobserwowali np. jak system – w pozornie losowym ciągu liczb – koduje swoje preferencje, dotyczące... sympatii do sów - które następnie przejął kolejny model szkolony na tych danych."
+    },
+    {
+      "title": "Czy płyn do płukania jamy ustnej to konieczność czy dodatek?",
+      "link": "https://dzienniknaukowy.pl/czy-plyn-do-plukania-jamy-ustnej-to-koniecznosc-czy-dodatek",
+      "pubDate": "Wed, 27 May 2026 07:09:00 +0000",
+      "description": "Szczotkujesz zęby dwa razy dziennie, a dentysta na wizycie kontrolnej i tak znajduje coś do „poprawienia”? Być może w Twojej rutynie higienizacyjnej brakuje jednego, ważnego elementu – stosowania dobrego płynu do płukania jamy ustnej. Dowiedz się, dlaczego warto sięgnąć po ten produkt."
+    },
     {
       "title": "Naukowcy zbadają możliwość pozyskiwania surowców z solanki",
       "link": "https://dzienniknaukowy.pl/naukowcy-zbadaja-mozliwosc-pozyskiwania-surowcow-z-solanki",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/masci-na-hemoroidy-kiedy-warto-je-stosowac-i-jak-dzialaja-miejscowo",
       "pubDate": "Wed, 20 May 2026 08:49:00 +0000",
       "description": "Nagły dyskomfort w okolicach odbytu może utrudniać skupienie w pracy czy spokojny odpoczynek. Maść na hemoroidy stanowi w takich chwilach pierwszą pomoc, ponieważ działa bezpośrednio w miejscu wystąpienia problemu na źródło pieczenia i obrzęku. Poznaj mechanizm jej działania i dowiedz się, kiedy warto po nią sięgnąć. Jak działa maść na hemoroidy? Działanie maści wynika z&#8230;&#160;Read More &#187;Maści na hemoroidy – kiedy warto je stosować i jak działają miejscowo?"
-    },
-    {
-      "title": "Kopernikit – nowy minerał z meteorytu Morasko. Odkrycie mniejsze niż ziarnko piasku",
-      "link": "https://dzienniknaukowy.pl/kopernikit-nowy-mineral-z-meteorytu-morasko-odkrycie-mniejsze-niz-ziarnko-piasku",
-      "pubDate": "Tue, 19 May 2026 13:00:01 +0000",
-      "description": "Zaledwie 0,3 mm średnicy ma kopernikit – minerał, który przywędrował na Ziemię wewnątrz żelazowego meteorytu Morasko. O kulisach współczesnych odkryć mineralogicznych opowiedzieli profesorowie Evgeny i Irina Galuskinowie z Uniwersytetu Śląskiego."
-    },
-    {
-      "title": "Badanie: użytkownicy psychodelików mogą inaczej przetwarzać emocje",
-      "link": "https://dzienniknaukowy.pl/badanie-uzytkownicy-psychodelikow-moga-inaczej-przetwarzac-emocje",
-      "pubDate": "Tue, 19 May 2026 12:37:27 +0000",
-      "description": "Użytkownicy psychodelików inaczej przetwarzają emocje, m.in. szybciej rozpoznają zagrożenie - wynika z badania UJ. Kierujący nim prof. Michał Bola podkreślił, że przeciera ono szlaki w obszarze neuroobrazowania użytkowników psychodelików, jednak pełne zrozumienie ich wpływu na mózg wymaga wielu lat pracy"
     }
   ]
 }
