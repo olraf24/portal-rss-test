@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-27T19:18:10.050Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-27T20:17:34.518Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Czy można zmienić zdanie w kilka sekund? Tak, jeżeli prezes uważa inaczej",
+      "link": "https://tvn24.pl/polska/czy-mozna-zmienic-zdanie-w-kilka-sekund-tak-jezeli-prezes-jaroslaw-kaczynski-uwaza-inaczej-st9069899?source=rss",
+      "pubDate": "Wed, 27 May 2026 20:06:25 GMT",
+      "description": "Reporterka \"Faktów\" TVN24 Arleta Zalewska zapytała Marka Kuchcińskiego, czy powinien zostać opublikowany aneks do raportu z likwidacji Wojskowych Służb Informacyjnych. Poseł PiS odpowiedział, ale po chwili całkowicie zmienił zdanie.",
+      "originalTitle": "Czy można zmienić zdanie w kilka sekund? Tak, jeżeli prezes uważa inaczej",
+      "originalDescription": "Reporterka \"Faktów\" TVN24 Arleta Zalewska zapytała Marka Kuchcińskiego, czy powinien zostać opublikowany aneks do raportu z likwidacji Wojskowych Służb Informacyjnych. Poseł PiS odpowiedział, ale po chwili całkowicie zmienił zdanie."
+    },
+    {
+      "title": "Pożar lasu na Pomorzu został opanowany",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pomorskie-pozar-lasu-miedzy-miejscowosciami-duza-klonia-i-okreglik-trwa-akcja-gasnicza-st9069516?source=rss",
+      "pubDate": "Wed, 27 May 2026 15:24:35 GMT",
+      "description": "W środę w województwie pomorskim wybuchł pożar lasu. Jego front miał około 400 metrów, a ogień objął obszar około czterech hektarów.",
+      "originalTitle": "Pożar lasu na Pomorzu został opanowany",
+      "originalDescription": "W środę w województwie pomorskim wybuchł pożar lasu. Jego front miał około 400 metrów, a ogień objął obszar około czterech hektarów."
+    },
+    {
+      "title": "Rachunki za prąd i gaz najwyższe od dwóch lat. \"Bardzo niepokojąca wiadomość\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wielka-brytania-rachunki-za-prad-i-gaz-najwyzsze-od-dwoch-lat-bardzo-niepokojaca-wiadomosc-st9069856?source=rss",
+      "pubDate": "Wed, 27 May 2026 19:40:43 GMT",
+      "description": "Koszty energii dla gospodarstw domowych w Wielkiej Brytanii osiągną latem najwyższy poziom od dwóch lat - podał w środę portal stacji CNBC, powołując się na komunikat krajowego regulatora energetycznego.",
+      "originalTitle": "Rachunki za prąd i gaz najwyższe od dwóch lat. \"Bardzo niepokojąca wiadomość\"",
+      "originalDescription": "Koszty energii dla gospodarstw domowych w Wielkiej Brytanii osiągną latem najwyższy poziom od dwóch lat - podał w środę portal stacji CNBC, powołując się na komunikat krajowego regulatora energetycznego."
+    },
+    {
+      "title": "Marcin Mastalerek: wystawianie kandydata na premiera półtora roku przed wyborami to absurd",
+      "link": "https://tvn24.pl/polska/marcin-mastalerek-wystawianie-kandydata-na-premiera-poltora-roku-przed-wyborami-to-absurd-st9069843?source=rss",
+      "pubDate": "Wed, 27 May 2026 19:04:18 GMT",
+      "description": "Wystawianie półtora roku przed wyborami kandydata na premiera to jest polityczny absurd - ocenił w \"Faktach po Faktach\" w TVN24 Marcin Mastalerek, były szef gabinetu prezydenta Andrzeja Dudy. Według niego, kandydat PiS Przemysław Czarnek \"swoją aktywnością, słowami, które wypowiada, odciągnie uwagę od rozliczania\" Donalda Tuska.",
+      "originalTitle": "Marcin Mastalerek: wystawianie kandydata na premiera półtora roku przed wyborami to absurd",
+      "originalDescription": "Wystawianie półtora roku przed wyborami kandydata na premiera to jest polityczny absurd - ocenił w \"Faktach po Faktach\" w TVN24 Marcin Mastalerek, były szef gabinetu prezydenta Andrzeja Dudy. Według niego, kandydat PiS Przemysław Czarnek \"swoją aktywnością, słowami, które wypowiada, odciągnie uwagę od rozliczania\" Donalda Tuska."
+    },
+    {
+      "title": "\"Rozejście\" Jarosława Kaczyńskiego i Karola Nawrockiego. Prof. Dudek: jestem zaskoczony, że o tak drobną sprawę",
+      "link": "https://tvn24.pl/polska/rozejscie-jaroslawa-kaczynskiego-i-karola-nawrockiego-prof-dudek-jestem-zaskoczony-ze-o-tak-drobna-sprawe-st9069732?source=rss",
+      "pubDate": "Wed, 27 May 2026 18:56:52 GMT",
+      "description": "Profesor Antoni Dudek ocenił w środę w \"Kropce nad i\" w TVN24, że powołanie sędziego Zbigniewa Kapińskiego na I prezesa Sądu Najwyższego to \"początek procesu rozchodzenia się prezydenta Karola Nawrockiego i prezesa Jarosława Kaczyńskiego\".",
+      "originalTitle": "\"Rozejście\" Jarosława Kaczyńskiego i Karola Nawrockiego. Prof. Dudek: jestem zaskoczony, że o tak drobną sprawę",
+      "originalDescription": "Profesor Antoni Dudek ocenił w środę w \"Kropce nad i\" w TVN24, że powołanie sędziego Zbigniewa Kapińskiego na I prezesa Sądu Najwyższego to \"początek procesu rozchodzenia się prezydenta Karola Nawrockiego i prezesa Jarosława Kaczyńskiego\"."
+    },
+    {
+      "title": "Upał zbiera śmiertelne żniwo",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/upaly-w-europie-na-wyspach-zginelo-szesc-osob-we-francji-siedem-st9068247?source=rss",
+      "pubDate": "Wed, 27 May 2026 10:18:55 GMT",
+      "description": "Fala upałów nawiedziła południową i zachodnią część Europy. Służby zdrowia we Włoszech i w Portugalii ostrzegają przed wysoką temperaturą, która zagraża zdrowiu, a nawet życiu. Wiele osób szuka ochłody nad wodą i dochodzi do śmiertelnych wypadków. We Francji i w Wielkiej Brytanii doszło do utonięć.",
+      "originalTitle": "Upał zbiera śmiertelne żniwo",
+      "originalDescription": "Fala upałów nawiedziła południową i zachodnią część Europy. Służby zdrowia we Włoszech i w Portugalii ostrzegają przed wysoką temperaturą, która zagraża zdrowiu, a nawet życiu. Wiele osób szuka ochłody nad wodą i dochodzi do śmiertelnych wypadków. We Francji i w Wielkiej Brytanii doszło do utonięć."
+    },
+    {
+      "title": "\"Dolar może się jeszcze umocnić\". Rynek dostrzega potencjał",
+      "link": "https://tvn24.pl/biznes/rynki/inflacja-i-wojna-wspieraja-dolara-fed-bliski-zmiany-kursu-st9069742?source=rss",
+      "pubDate": "Wed, 27 May 2026 18:23:48 GMT",
+      "description": "Dolar amerykański może rosnąć, bo Fed zaostrza walkę z inflacją - wynika z analiz Reutersa. - Jeśli ceny ropy utrzymają się na wysokim poziomie, a Fed zasygnalizuje dalsze zacieśnianie polityki pieniężnej, dolar może się jeszcze umocnić - ocenił Thierry Wizman z Macquarie Group.",
+      "originalTitle": "\"Dolar może się jeszcze umocnić\". Rynek dostrzega potencjał",
+      "originalDescription": "Dolar amerykański może rosnąć, bo Fed zaostrza walkę z inflacją - wynika z analiz Reutersa. - Jeśli ceny ropy utrzymają się na wysokim poziomie, a Fed zasygnalizuje dalsze zacieśnianie polityki pieniężnej, dolar może się jeszcze umocnić - ocenił Thierry Wizman z Macquarie Group."
+    },
+    {
+      "title": "Klienci Vectry bez dostępu do usług",
+      "link": "https://tvn24.pl/biznes/z-kraju/awaria-w-vectrze-27-maja-2026-klienci-bez-dostepu-do-uslug-st9069818?source=rss",
+      "pubDate": "Wed, 27 May 2026 18:18:20 GMT",
+      "description": "U części klientów występują problemy z internetem i telewizją ze względu na uszkodzenie światłowodów zewnętrznego operatora - podała Vectra na swojej stronie internetowej. Jak dodała, \"trwają intensywne prace naprawcze\".",
+      "originalTitle": "Klienci Vectry bez dostępu do usług",
+      "originalDescription": "U części klientów występują problemy z internetem i telewizją ze względu na uszkodzenie światłowodów zewnętrznego operatora - podała Vectra na swojej stronie internetowej. Jak dodała, \"trwają intensywne prace naprawcze\"."
+    },
+    {
+      "title": "Projekt o osobie najbliższej w Sejmie. \"Zrezygnowaliśmy z wielkich ideologicznych zmian\"",
+      "link": "https://tvn24.pl/polska/katarzyna-kotula-i-urszula-paslawska-bronia-ustawy-o-osobie-najblizszej-st9069758?source=rss",
+      "pubDate": "Wed, 27 May 2026 18:11:00 GMT",
+      "description": "Sejm zajmuje się rządowym projektem ustawy o osobie najbliższej. - Wszystko to, co mogło budzić emocje, zostało usunięte - powiedziała Katarzyna Kotula z Lewicy w \"Faktach po Faktach\" w TVN24. Urszula Pasławska z PSL oceniła, że \"zrezygnowaliśmy z wielkich ideologicznych zmian na rzecz konkretnych rozwiązań\". Posłanki odniosły się też do zapowiedzi kancelarii prezydenta, że propozycja ta zostanie zawetowana.",
+      "originalTitle": "Projekt o osobie najbliższej w Sejmie. \"Zrezygnowaliśmy z wielkich ideologicznych zmian\"",
+      "originalDescription": "Sejm zajmuje się rządowym projektem ustawy o osobie najbliższej. - Wszystko to, co mogło budzić emocje, zostało usunięte - powiedziała Katarzyna Kotula z Lewicy w \"Faktach po Faktach\" w TVN24. Urszula Pasławska z PSL oceniła, że \"zrezygnowaliśmy z wielkich ideologicznych zmian na rzecz konkretnych rozwiązań\". Posłanki odniosły się też do zapowiedzi kancelarii prezydenta, że propozycja ta zostanie zawetowana."
+    },
+    {
+      "title": "Pożar na grobie Łukasza Litewki. \"Samozapłon\"",
+      "link": "https://tvn24.pl/katowice/sosnowiec-pozar-na-grobie-lukasza-litewki-interweniowali-strazacy-st9069829?source=rss",
+      "pubDate": "Wed, 27 May 2026 17:59:57 GMT",
+      "description": "Na cmentarzu w Sosnowcu doszło do pożaru grobu Łukasza Litewki. Ogień zniszczył znicze i wiązanki.",
+      "originalTitle": "Pożar na grobie Łukasza Litewki. \"Samozapłon\"",
+      "originalDescription": "Na cmentarzu w Sosnowcu doszło do pożaru grobu Łukasza Litewki. Ogień zniszczył znicze i wiązanki."
+    }
+  ]
 }
