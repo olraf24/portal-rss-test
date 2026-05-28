@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-28T09:20:08.439Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-28T10:48:53.425Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Jechał z prędkością 185 km/h przy ograniczeniu do 90. Kierowca stracił prawo jazdy",
+      "link": "https://tvn24.pl/szczecin/szczecinek-jechal-z-predkoscia-185-km-h-przy-ograniczeniu-do-90-kierowca-stracil-prawo-jazdy-st9070391?source=rss",
+      "pubDate": "Thu, 28 May 2026 10:35:26 GMT",
+      "description": "49-letni kierowca pędził 185 km/h poza obszarem zabudowanym. Kontrola zakończyła się wysokim mandatem i utratą prawa jazdy. Policjanci ze Szczecinka zatrzymali pirata drogowego na drodze krajowej nr 20.",
+      "originalTitle": "Jechał z prędkością 185 km/h przy ograniczeniu do 90. Kierowca stracił prawo jazdy",
+      "originalDescription": "49-letni kierowca pędził 185 km/h poza obszarem zabudowanym. Kontrola zakończyła się wysokim mandatem i utratą prawa jazdy. Policjanci ze Szczecinka zatrzymali pirata drogowego na drodze krajowej nr 20."
+    },
+    {
+      "title": "Ceny paliw w piątek. Nowe obwieszczenie",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-paliw-w-piatek-29-maja-benzyna-pb95-pb98-olej-napedowy-nowe-obwieszczenie-st9070227?source=rss",
+      "pubDate": "Thu, 28 May 2026 10:21:00 GMT",
+      "description": "Ministerstwo Energii wydało nowe obwieszczenie dotyczące maksymalnych cen paliw, jakie będą obowiązywać w piątek, 29 maja. Według wytycznych resortu benzyna i olej napędowy będą tańsze niż w czwartek.",
+      "originalTitle": "Ceny paliw w piątek. Nowe obwieszczenie",
+      "originalDescription": "Ministerstwo Energii wydało nowe obwieszczenie dotyczące maksymalnych cen paliw, jakie będą obowiązywać w piątek, 29 maja. Według wytycznych resortu benzyna i olej napędowy będą tańsze niż w czwartek."
+    },
+    {
+      "title": "\"To jest moje miejsce\". TVN24 w sobotę obchodzi swoje urodziny w Zakopanem",
+      "link": "https://tvn24.pl/25-lat-TVN24/urodziny-tvn24-jestesmy-stad-30-maja-w-zakopanem-gdzie-nas-znalezc-i-co-bedzie-sie-dzialo-st9069235?source=rss",
+      "pubDate": "Thu, 28 May 2026 10:11:54 GMT",
+      "description": "Już w najbliższą sobotę spotkamy się z widzami w Zakopanem. To kolejny przystanek na naszej urodzinowej trasie. Jakie atrakcje przygotowano, z kim będzie można porozmawiać? Goście \"Wstajesz i wiesz\" zachęcali do spotkania się z nami na Placu Niepodległości.",
+      "originalTitle": "\"To jest moje miejsce\". TVN24 w sobotę obchodzi swoje urodziny w Zakopanem",
+      "originalDescription": "Już w najbliższą sobotę spotkamy się z widzami w Zakopanem. To kolejny przystanek na naszej urodzinowej trasie. Jakie atrakcje przygotowano, z kim będzie można porozmawiać? Goście \"Wstajesz i wiesz\" zachęcali do spotkania się z nami na Placu Niepodległości."
+    },
+    {
+      "title": "Gdzie jest burza? Tutaj pojawiły się wyładowania",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-gdzie-jest-burza-28-05-tutaj-pojawily-sie-wyladowania-mapa-i-radar-burz-st9070441?source=rss",
+      "pubDate": "Thu, 28 May 2026 10:04:29 GMT",
+      "description": "Gdzie jest burza? W czwartek 28.05. nad naszym krajem występują wyładowania atmosferyczne. Grzmi na przechodzącym przez Polskę chłodnym froncie. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tutaj pojawiły się wyładowania",
+      "originalDescription": "Gdzie jest burza? W czwartek 28.05. nad naszym krajem występują wyładowania atmosferyczne. Grzmi na przechodzącym przez Polskę chłodnym froncie. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Chiński rynek samochodów elektrycznych zwalnia",
+      "link": "https://tvn24.pl/biznes/moto/chinskie-samochody-elektryczne-koniec-zlotej-ery-rynek-wyraznie-hamuje-st9070308?source=rss",
+      "pubDate": "Thu, 28 May 2026 10:03:44 GMT",
+      "description": "Chiński rynek motoryzacyjny najprawdopodobniej ma już za sobą swoją \"złotą erę\" - ocenił prezes NIO William Li. Szef producenta aut elektrycznych wskazał na przedłużający się spadek sprzedaży samochodów w Chinach.",
+      "originalTitle": "Chiński rynek samochodów elektrycznych zwalnia",
+      "originalDescription": "Chiński rynek motoryzacyjny najprawdopodobniej ma już za sobą swoją \"złotą erę\" - ocenił prezes NIO William Li. Szef producenta aut elektrycznych wskazał na przedłużający się spadek sprzedaży samochodów w Chinach."
+    },
+    {
+      "title": "Uczniowie uratowali użądloną koleżankę",
+      "link": "https://tvn24.pl/szczecin/police-uczniowie-uratowali-uzadlona-kolezanke-przylecial-smiglowiec-ratunkowy-st9070237?source=rss",
+      "pubDate": "Thu, 28 May 2026 10:02:57 GMT",
+      "description": "Uczniowie podstawówki w Policach wezwali ratowników do użądlonej koleżanki. Wcześniej skonsultowali się z czatem AI. Lądował śmigłowiec Lotniczego Pogotowia Ratunkowego.",
+      "originalTitle": "Uczniowie uratowali użądloną koleżankę",
+      "originalDescription": "Uczniowie podstawówki w Policach wezwali ratowników do użądlonej koleżanki. Wcześniej skonsultowali się z czatem AI. Lądował śmigłowiec Lotniczego Pogotowia Ratunkowego."
+    },
+    {
+      "title": "Co znajduje się w polsko-brytyjskim traktacie?",
+      "link": "https://tvn24.pl/polska/polsko-brytyjski-traktat-podpisany-czego-dotyczy-st9070256?source=rss",
+      "pubDate": "Thu, 28 May 2026 09:57:29 GMT",
+      "description": "Zaangażowanie we wzajemną obronę, bezpieczeństwo, Rosja jako zagrożenie dla międzynarodowego pokoju i 14 projektów, które mają być realizowane w ramach wypełnienia zapisów. Co znajduje się w polsko-brytyjskim traktacie i czego on dotyczy?",
+      "originalTitle": "Co znajduje się w polsko-brytyjskim traktacie?",
+      "originalDescription": "Zaangażowanie we wzajemną obronę, bezpieczeństwo, Rosja jako zagrożenie dla międzynarodowego pokoju i 14 projektów, które mają być realizowane w ramach wypełnienia zapisów. Co znajduje się w polsko-brytyjskim traktacie i czego on dotyczy?"
+    },
+    {
+      "title": "\"Czas na darmową sławę\". Schronisko opublikowało nagranie złodziei",
+      "link": "https://tvn24.pl/kielce/nowiny-czas-na-darmowa-slawe-schronisko-opublikowalo-nagranie-zlodziei-st9070163?source=rss",
+      "pubDate": "Thu, 28 May 2026 09:57:20 GMT",
+      "description": "Dwójka złodziei okradła Schronisko dla Bezdomnych Zwierząt \"Ogonki\" w Nowinach pod Kielcami. Po apelu opublikowanym na Facebooku sprawcy zwrócili tylko część skradzionych roślin. Resztę postanowili zatrzymać. W odpowiedzi schronisko opublikowało nagranie z monitoringu, opisując je słowami: \"skoro zabrakło odwagi na pełne rozliczenie, czas na darmową sławę.\" Sprawców szuka też policja.",
+      "originalTitle": "\"Czas na darmową sławę\". Schronisko opublikowało nagranie złodziei",
+      "originalDescription": "Dwójka złodziei okradła Schronisko dla Bezdomnych Zwierząt \"Ogonki\" w Nowinach pod Kielcami. Po apelu opublikowanym na Facebooku sprawcy zwrócili tylko część skradzionych roślin. Resztę postanowili zatrzymać. W odpowiedzi schronisko opublikowało nagranie z monitoringu, opisując je słowami: \"skoro zabrakło odwagi na pełne rozliczenie, czas na darmową sławę.\" Sprawców szuka też policja."
+    },
+    {
+      "title": "Młode lisy \"bawią się jak psy\" na niezwykłym nagraniu",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/niedoliski-mlode-lisy-bawia-sie-jak-psy-na-niezwyklym-nagraniu-st9069505?source=rss",
+      "pubDate": "Thu, 28 May 2026 09:54:10 GMT",
+      "description": "Na Kontakt24 otrzymaliśmy nagranie, na którym widać, jak wyglądają zabawy młodych lisów. Niedoliski udało się uchwycić panu Michałowi.",
+      "originalTitle": "Młode lisy \"bawią się jak psy\" na niezwykłym nagraniu",
+      "originalDescription": "Na Kontakt24 otrzymaliśmy nagranie, na którym widać, jak wyglądają zabawy młodych lisów. Niedoliski udało się uchwycić panu Michałowi."
+    },
+    {
+      "title": "Aborcja po wyroku Trybunału Konstytucyjnego. Jakie prawa mają dziś Polki?",
+      "link": "https://tvn24.pl/zdrowie/aborcja-po-wyroku-trybunalu-konstytucyjnego-jakie-prawa-maja-dzis-polki-st9069634?source=rss",
+      "pubDate": "Thu, 28 May 2026 09:41:24 GMT",
+      "description": "Wyrok TK zaostrzający prawo aborcyjne w Polsce zapadł ponad pięć lat temu. Jakie prawa mają od tego czasu kobiety w Polsce? Czy mogą legalnie usunąć ciążę? A jeśli tak, to w jakich wypadkach? Czy coś grozi Polkom za dokonanie farmakologicznej aborcji? O to wszystko pytamy prawnika.",
+      "originalTitle": "Aborcja po wyroku Trybunału Konstytucyjnego. Jakie prawa mają dziś Polki?",
+      "originalDescription": "Wyrok TK zaostrzający prawo aborcyjne w Polsce zapadł ponad pięć lat temu. Jakie prawa mają od tego czasu kobiety w Polsce? Czy mogą legalnie usunąć ciążę? A jeśli tak, to w jakich wypadkach? Czy coś grozi Polkom za dokonanie farmakologicznej aborcji? O to wszystko pytamy prawnika."
+    }
+  ]
 }
