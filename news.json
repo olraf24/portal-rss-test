@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-28T18:03:19.057Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-28T19:25:14.883Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na jutro - piątek 29.05. Przed nami spokojna, ale zimna noc",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-29-05-przed-nami-spokojna-ale-zimna-noc-st9071580?source=rss",
+      "pubDate": "Thu, 28 May 2026 19:01:00 GMT",
+      "description": "Pogoda na jutro, czyli na piątek 29.05. W nocy aura będzie spokojna i pogodna, chociaż miejscami będzie zimno. W dzień w większości Polski czeka nas słoneczna aura - jedynie w niektórych regionach może padać słaby deszcz. Termometry pokażą do 26 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - piątek 29.05. Przed nami spokojna, ale zimna noc",
+      "originalDescription": "Pogoda na jutro, czyli na piątek 29.05. W nocy aura będzie spokojna i pogodna, chociaż miejscami będzie zimno. W dzień w większości Polski czeka nas słoneczna aura - jedynie w niektórych regionach może padać słaby deszcz. Termometry pokażą do 26 stopni Celsjusza."
+    },
+    {
+      "title": "Czarzasty nie otworzył aneksu do raportu z likwidacji WSI. Szef Kancelarii Sejmu tłumaczy",
+      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-nie-otworzyl-aneksu-do-raportu-z-likwidacji-wsi-szef-kancelarii-sejmu-marek-siwiec-tlumaczy-st9071546?source=rss",
+      "pubDate": "Thu, 28 May 2026 18:47:41 GMT",
+      "description": "Marszałek Włodzimierz Czarzasty z bardzo logicznym i pełnym uzasadnieniem prawnym powiedział, dlaczego nie chce uczestniczyć w procedurze, którą zakwestionował Trybunał Konstytucyjny - powiedział w \"Faktach po Faktach\" w TVN24 szef Kancelarii Sejmu Marek Siwiec. Mówił również, dlaczego marszałek nie otworzył aneksu do raportu z likwidacji Wojskowych Służb Informacyjnych.",
+      "originalTitle": "Czarzasty nie otworzył aneksu do raportu z likwidacji WSI. Szef Kancelarii Sejmu tłumaczy",
+      "originalDescription": "Marszałek Włodzimierz Czarzasty z bardzo logicznym i pełnym uzasadnieniem prawnym powiedział, dlaczego nie chce uczestniczyć w procedurze, którą zakwestionował Trybunał Konstytucyjny - powiedział w \"Faktach po Faktach\" w TVN24 szef Kancelarii Sejmu Marek Siwiec. Mówił również, dlaczego marszałek nie otworzył aneksu do raportu z likwidacji Wojskowych Służb Informacyjnych."
+    },
+    {
+      "title": "Płoną lasy pod Warszawą. Ewakuacja mieszkańców wsi",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plona-lasy-pod-warszawa-ewakuacja-mieszkancow-st9071581?source=rss",
+      "pubDate": "Thu, 28 May 2026 18:36:43 GMT",
+      "description": "W związku z pożarem na terenie powiatu mińskiego i wołomińskiego trwa ewakuacja mieszkańców wsi Ołdakowizna. - Ewakuacją dowodzi policja. Przewozi mieszkańców w bezpieczne miejsce, do szkoły podstawowej w Stanisławowie - powiedziała burmistrzyni Stanisławowa Kinga Sosińska.",
+      "originalTitle": "Płoną lasy pod Warszawą. Ewakuacja mieszkańców wsi",
+      "originalDescription": "W związku z pożarem na terenie powiatu mińskiego i wołomińskiego trwa ewakuacja mieszkańców wsi Ołdakowizna. - Ewakuacją dowodzi policja. Przewozi mieszkańców w bezpieczne miejsce, do szkoły podstawowej w Stanisławowie - powiedziała burmistrzyni Stanisławowa Kinga Sosińska."
+    },
+    {
+      "title": "Spór wokół traktatu. Rzecznik MSZ: my jesteśmy zaskoczeni ich zaskoczeniem",
+      "link": "https://tvn24.pl/polska/traktat-z-wielka-brytania-rzecznik-msz-maciej-wewior-kancelaria-prezydenta-byla-regularnie-informowana-st9071495?source=rss",
+      "pubDate": "Thu, 28 May 2026 18:31:57 GMT",
+      "description": "Kancelaria prezydenta była regularnie informowana o postępach prac - powiedział rzecznik MSZ Maciej Wiewór. Komentował tak zarzuty pałacu prezydenckiego o tym, że rząd nie konsultował się w sprawie polsko-brytyjskiego traktatu o partnerstwie. Mówił też o tym, jak przebiegała komunikacja na przestrzeni miesięcy.",
+      "originalTitle": "Spór wokół traktatu. Rzecznik MSZ: my jesteśmy zaskoczeni ich zaskoczeniem",
+      "originalDescription": "Kancelaria prezydenta była regularnie informowana o postępach prac - powiedział rzecznik MSZ Maciej Wiewór. Komentował tak zarzuty pałacu prezydenckiego o tym, że rząd nie konsultował się w sprawie polsko-brytyjskiego traktatu o partnerstwie. Mówił też o tym, jak przebiegała komunikacja na przestrzeni miesięcy."
+    },
+    {
+      "title": "Maciej zginął w bramie od ciosów nożem. Koniec procesu w sprawie zabójstwa na Nowym Świecie",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/maciej-zginal-w-bramie-od-ciosow-nozem-koniec-procesu-w-sprawie-zabojstwa-na-nowym-swiecie-st9067233?source=rss",
+      "pubDate": "Thu, 28 May 2026 18:18:14 GMT",
+      "description": "Maciej wstawił się w obronie zaczepianych przez trzech mężczyzn koleżanek. Chwilę później na został sześciokrotnie dźgnięty nożem na głównym deptaku Warszawy. Jego życia nie udało się uratować. Cztery lata po tragedii, w Sądzie Okręgowym w Warszawie zakończył się proces Dawida Mirkowskiego - głównego oskarżonego w tej sprawie. \"Skazał mamę Macieja na dożywotnie cierpienie\" - mówiła pełnomocniczka rodziny zmarłego.",
+      "originalTitle": "Maciej zginął w bramie od ciosów nożem. Koniec procesu w sprawie zabójstwa na Nowym Świecie",
+      "originalDescription": "Maciej wstawił się w obronie zaczepianych przez trzech mężczyzn koleżanek. Chwilę później na został sześciokrotnie dźgnięty nożem na głównym deptaku Warszawy. Jego życia nie udało się uratować. Cztery lata po tragedii, w Sądzie Okręgowym w Warszawie zakończył się proces Dawida Mirkowskiego - głównego oskarżonego w tej sprawie. \"Skazał mamę Macieja na dożywotnie cierpienie\" - mówiła pełnomocniczka rodziny zmarłego."
+    },
+    {
+      "title": "Zabawki spoza UE pod lupą. Wykryto setki nieprawidłowości",
+      "link": "https://tvn24.pl/biznes/z-kraju/zabawki-spoza-ue-pod-lupa-kas-wykryto-setki-nieprawidlowosci-st9071558?source=rss",
+      "pubDate": "Thu, 28 May 2026 18:17:54 GMT",
+      "description": "Krajowa Administracja Skarbowa skontrolowała ponad 818 tysięcy zabawek sprowadzonych spoza Unii Europejskiej. W wyniku przeprowadzonych kontroli wykryto nieprawidłowości, które dotyczyły między innymi braku wymaganych oznaczeń, braku instrukcji obsługi w języku polskim oraz przekroczenia dopuszczalnych norm zawartości ftalanów - poinformowało Ministerstwo Finansów.",
+      "originalTitle": "Zabawki spoza UE pod lupą. Wykryto setki nieprawidłowości",
+      "originalDescription": "Krajowa Administracja Skarbowa skontrolowała ponad 818 tysięcy zabawek sprowadzonych spoza Unii Europejskiej. W wyniku przeprowadzonych kontroli wykryto nieprawidłowości, które dotyczyły między innymi braku wymaganych oznaczeń, braku instrukcji obsługi w języku polskim oraz przekroczenia dopuszczalnych norm zawartości ftalanów - poinformowało Ministerstwo Finansów."
+    },
+    {
+      "title": "Cudowna broń czy drogi straszak. Co wiadomo po użyciu Oriesznika",
+      "link": "https://tvn24.pl/swiat/rosja-pocisk-oriesznik-cudowna-bron-czy-straszak-co-wiadomo-po-atakach-st9067515?source=rss",
+      "pubDate": "Thu, 28 May 2026 17:57:02 GMT",
+      "description": "\"Cudowna broń\", przed którą nie ma obrony, czy kosztowny straszak, którym Władimir Putin próbuje przestraszyć Europę? Oriesznik już kilkakrotnie uderzył w Ukrainę. Ukraińscy analitycy mówią dla TVN24+, czego się dzięki temu dowiedzieliśmy.",
+      "originalTitle": "Cudowna broń czy drogi straszak. Co wiadomo po użyciu Oriesznika",
+      "originalDescription": "\"Cudowna broń\", przed którą nie ma obrony, czy kosztowny straszak, którym Władimir Putin próbuje przestraszyć Europę? Oriesznik już kilkakrotnie uderzył w Ukrainę. Ukraińscy analitycy mówią dla TVN24+, czego się dzięki temu dowiedzieliśmy."
+    },
+    {
+      "title": "Uniewinniony żołnierz w koszulce neonazistowskiej grupy. \"To przypadek\"",
+      "link": "https://tvn24.pl/lublin/lublin-uniewinniony-zolnierz-w-koszulce-neonazistowskiej-grupy-to-przypadek-st9071060?source=rss",
+      "pubDate": "Thu, 28 May 2026 17:53:45 GMT",
+      "description": "Żołnierz uniewinniony w głośnej sprawie strzałów na granicy z Białorusią przyszedł do sądu w koszulce neonazistowskiej grupy. Jego prawniczka przekonuje, że \"to przypadek\", a koszulka miała być prezentem od znajomego.",
+      "originalTitle": "Uniewinniony żołnierz w koszulce neonazistowskiej grupy. \"To przypadek\"",
+      "originalDescription": "Żołnierz uniewinniony w głośnej sprawie strzałów na granicy z Białorusią przyszedł do sądu w koszulce neonazistowskiej grupy. Jego prawniczka przekonuje, że \"to przypadek\", a koszulka miała być prezentem od znajomego."
+    },
+    {
+      "title": "Spadł z trzydziestu metrów. Turysta zginął w Tatrach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/tatry-turysta-spadl-30-metrow-po-skalach-nie-przezyl-st9071470?source=rss",
+      "pubDate": "Thu, 28 May 2026 17:49:20 GMT",
+      "description": "Turysta zginął w Tatrach. W czwartek rano ratownicy TOPR otrzymali informację, że młody mężczyzna nie wrócił z górskiej wycieczki. Ciało turysty zostało znalezione w okolicach Zawraciku Kasprowego.",
+      "originalTitle": "Spadł z trzydziestu metrów. Turysta zginął w Tatrach",
+      "originalDescription": "Turysta zginął w Tatrach. W czwartek rano ratownicy TOPR otrzymali informację, że młody mężczyzna nie wrócił z górskiej wycieczki. Ciało turysty zostało znalezione w okolicach Zawraciku Kasprowego."
+    },
+    {
+      "title": "Nietypowa seria kradzieży w Lesznie. Z balkonu znikała bielizna",
+      "link": "https://tvn24.pl/poznan/leszno-nietypowa-seria-kradziezy-z-balkonu-znikala-bielizna-st9070528?source=rss",
+      "pubDate": "Thu, 28 May 2026 17:48:52 GMT",
+      "description": "W Lesznie zatrzymano 33-letniego mężczyznę podejrzanego o serię nietypowych kradzieży. Jego łupem była głównie bielizna susząca się na balkonie.",
+      "originalTitle": "Nietypowa seria kradzieży w Lesznie. Z balkonu znikała bielizna",
+      "originalDescription": "W Lesznie zatrzymano 33-letniego mężczyznę podejrzanego o serię nietypowych kradzieży. Jego łupem była głównie bielizna susząca się na balkonie."
+    }
+  ]
 }
