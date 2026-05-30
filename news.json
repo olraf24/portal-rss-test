@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-30T19:32:28.468Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-30T20:25:32.380Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Mężczyzna z podejrzeniem eboli w Brazylii",
+      "link": "https://tvn24.pl/swiat/mezczyzna-z-podejrzeniem-eboli-w-brazylii-st9074692?source=rss",
+      "pubDate": "Sat, 30 May 2026 19:36:21 GMT",
+      "description": "W stanie Sao Paulo w Brazylii prowadzone jest dochodzenie w sprawie podejrzenia przypadku zakażenia wirusem ebola. Dotyczy mężczyzny z Demokratycznej Republiki Konga, który niedawno odwiedził ten kraj. Obecnie przebywa w izolacji w specjalistycznym szpitalu.",
+      "originalTitle": "Mężczyzna z podejrzeniem eboli w Brazylii",
+      "originalDescription": "W stanie Sao Paulo w Brazylii prowadzone jest dochodzenie w sprawie podejrzenia przypadku zakażenia wirusem ebola. Dotyczy mężczyzny z Demokratycznej Republiki Konga, który niedawno odwiedził ten kraj. Obecnie przebywa w izolacji w specjalistycznym szpitalu."
+    },
+    {
+      "title": "Poważne zniszczenia na Opolszczyźnie. To mogła być trąba powietrzna",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-balcarzowice-burze-i-silny-wiatr-w-polsce-w-sobote-30-05-opolskie-uszkodzone-dachy-polamane-drzewa-mozliwa-traba-powietrzna-st9074636?source=rss",
+      "pubDate": "Sat, 30 May 2026 17:00:33 GMT",
+      "description": "Pogoda w sobotę w części kraju była groźna. W województwie opolskim w powiecie strzeleckim w miejscowości Balcarzowice uszkodzone zostały dachy domów i budynków gospodarczych. Za zniszczenia może być odpowiedzialna trąba powietrzna.",
+      "originalTitle": "Poważne zniszczenia na Opolszczyźnie. To mogła być trąba powietrzna",
+      "originalDescription": "Pogoda w sobotę w części kraju była groźna. W województwie opolskim w powiecie strzeleckim w miejscowości Balcarzowice uszkodzone zostały dachy domów i budynków gospodarczych. Za zniszczenia może być odpowiedzialna trąba powietrzna."
+    },
+    {
+      "title": "Kolejne umowy w ramach SAFE podpisane. Gasiuk-Pihowicz: refleksji u prezydenta nie będzie",
+      "link": "https://tvn24.pl/polska/kolejne-umowy-w-ramach-safe-podpisane-gasiuk-pihowicz-refleksji-u-prezydenta-nie-bedzie-st9074655?source=rss",
+      "pubDate": "Sat, 30 May 2026 19:12:18 GMT",
+      "description": "W sobotę podpisano 29 umów w ramach programu SAFE. Goście \"Faktów po Faktach\" Kamila Gasiuk-Pihowicz i Jakub Stefaniak byli pytani, czy będzie na ten temat refleksja w pałacu prezydenckim lub Prawie i Sprawiedliwości. Komentowali też zapowiedź odebrania prezydentowi Ukrainy Orderu Orła Białego.",
+      "originalTitle": "Kolejne umowy w ramach SAFE podpisane. Gasiuk-Pihowicz: refleksji u prezydenta nie będzie",
+      "originalDescription": "W sobotę podpisano 29 umów w ramach programu SAFE. Goście \"Faktów po Faktach\" Kamila Gasiuk-Pihowicz i Jakub Stefaniak byli pytani, czy będzie na ten temat refleksja w pałacu prezydenckim lub Prawie i Sprawiedliwości. Komentowali też zapowiedź odebrania prezydentowi Ukrainy Orderu Orła Białego."
+    },
+    {
+      "title": "Gdzie jest burza? Za nami burzowa sobota",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-sobota-30-05-wyladowania-i-silny-wiatr-mapa-i-radar-burz-st9073863?source=rss",
+      "pubDate": "Sat, 30 May 2026 11:05:58 GMT",
+      "description": "Gdzie jest burza? W sobotę 30.05 grzmiało na froncie przetaczającym się przez Polskę. Wyładowaniom towarzyszyły opady deszczu oraz silne porywy wiatru.",
+      "originalTitle": "Gdzie jest burza? Za nami burzowa sobota",
+      "originalDescription": "Gdzie jest burza? W sobotę 30.05 grzmiało na froncie przetaczającym się przez Polskę. Wyładowaniom towarzyszyły opady deszczu oraz silne porywy wiatru."
+    },
+    {
+      "title": "Pogoda na jutro - niedziela, 31.05. Deszczowa noc w części kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-31-05-deszczowa-noc-w-czesci-kraju-st9074595?source=rss",
+      "pubDate": "Sat, 30 May 2026 18:24:16 GMT",
+      "description": "Pogoda na jutro. Noc w części kraju może przynieść deszcz i burze. W niedzielę 31.05 opady pojawią się lokalnie, można spodziewać się ponownie wyładowań atmosferycznych.",
+      "originalTitle": "Pogoda na jutro - niedziela, 31.05. Deszczowa noc w części kraju",
+      "originalDescription": "Pogoda na jutro. Noc w części kraju może przynieść deszcz i burze. W niedzielę 31.05 opady pojawią się lokalnie, można spodziewać się ponownie wyładowań atmosferycznych."
+    },
+    {
+      "title": "Duże utrudnienia na autostradzie A2 po zderzeniu. Są objazdy",
+      "link": "https://tvn24.pl/polska/wielkopolskie-utrudnienia-na-autostradzie-a2-po-zderzeniu-objazdy-w-kierunku-poznania-st9074597?source=rss",
+      "pubDate": "Sat, 30 May 2026 15:47:18 GMT",
+      "description": "Autostrada A2 była zablokowana na wysokości Nowego Tomyśla (Wielkopolskie) po zderzeniu trzech pojazdów. Ruch częściowo udrożniono w kierunku Świecka. Kierowcy, którzy jadą do Poznania, muszą nadal korzystać z objazdu.",
+      "originalTitle": "Duże utrudnienia na autostradzie A2 po zderzeniu. Są objazdy",
+      "originalDescription": "Autostrada A2 była zablokowana na wysokości Nowego Tomyśla (Wielkopolskie) po zderzeniu trzech pojazdów. Ruch częściowo udrożniono w kierunku Świecka. Kierowcy, którzy jadą do Poznania, muszą nadal korzystać z objazdu."
+    },
+    {
+      "title": "Ta kampania rozwścieczyła rowerzystów. \"Dobre intencje to za mało\"",
+      "link": "https://tvn24.pl/polska/kampania-pzu-mistrzu-pomysl-i-reakcje-rowerzystow-st9066162?source=rss",
+      "pubDate": "Sat, 30 May 2026 16:29:45 GMT",
+      "description": "Miała być edukacja, budowanie wzajemnego szacunku i troska o poprawę bezpieczeństwa na drodze. Skończyło się na pretensjach i oskarżeniach o utrwalanie krzywdzących stereotypów. Środowisko rowerowe nie kryje oburzenia sposobem realizacji kampanii PZU \"Mistrzu, pomyśl\". Zaskoczeni są też eksperci.",
+      "originalTitle": "Ta kampania rozwścieczyła rowerzystów. \"Dobre intencje to za mało\"",
+      "originalDescription": "Miała być edukacja, budowanie wzajemnego szacunku i troska o poprawę bezpieczeństwa na drodze. Skończyło się na pretensjach i oskarżeniach o utrwalanie krzywdzących stereotypów. Środowisko rowerowe nie kryje oburzenia sposobem realizacji kampanii PZU \"Mistrzu, pomyśl\". Zaskoczeni są też eksperci."
+    },
+    {
+      "title": "Tajemniczy huk w środku dnia. \"Co to było, do diabła?!\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-karolina-poludniowa-co-to-bylo-do-diabla-tajemniczy-huk-wywolal-poruszenie-mieszkancow-wideo-st9074492?source=rss",
+      "pubDate": "Sat, 30 May 2026 15:36:24 GMT",
+      "description": "Tajemniczy, głośny huk wywołał ogromne poruszenie wśród mieszkańców stanu Karolina Południowa. Nietypowe zdarzenie zostało zarejestrowane na nagraniu. To, co odpowiadało za ten rozległy dźwięk, wciąż pozostaje zagadką. Są jednak pewne hipotezy.",
+      "originalTitle": "Tajemniczy huk w środku dnia. \"Co to było, do diabła?!\"",
+      "originalDescription": "Tajemniczy, głośny huk wywołał ogromne poruszenie wśród mieszkańców stanu Karolina Południowa. Nietypowe zdarzenie zostało zarejestrowane na nagraniu. To, co odpowiadało za ten rozległy dźwięk, wciąż pozostaje zagadką. Są jednak pewne hipotezy."
+    },
+    {
+      "title": "11-latka na rowerze potrącona przez auto. Lądował śmigłowiec LPR",
+      "link": "https://tvn24.pl/lodz/nowy-gluchowek-11-latka-na-rowerze-potracona-przez-auto-ladowal-smiglowiec-lpr-st9074566?source=rss",
+      "pubDate": "Sat, 30 May 2026 15:03:27 GMT",
+      "description": "11-letnia rowerzystka została potrącona przez samochód w Nowym Głuchówku (woj. łódzkie). Dziewczynka została przetransportowana śmigłowcem do szpitala.",
+      "originalTitle": "11-latka na rowerze potrącona przez auto. Lądował śmigłowiec LPR",
+      "originalDescription": "11-letnia rowerzystka została potrącona przez samochód w Nowym Głuchówku (woj. łódzkie). Dziewczynka została przetransportowana śmigłowcem do szpitala."
+    },
+    {
+      "title": "Drzwi Konsulatu Generalnego RP i pomnik Jana Karskiego pomazane czerwoną farbą",
+      "link": "https://tvn24.pl/swiat/nowy-jork-drzwi-konsulatu-generalnego-rp-i-pomnik-jana-karskiego-oblane-czerwona-farba-st9074494?source=rss",
+      "pubDate": "Sat, 30 May 2026 14:46:24 GMT",
+      "description": "Konsulat Generalny RP oraz pomnik Jana Karskiego w Nowym Jorku zostały pomazane czerwoną farbą. Placówka przekazała, że pracuje nad wyjaśnieniem sprawy i \"traktuje ją bardzo poważnie\".",
+      "originalTitle": "Drzwi Konsulatu Generalnego RP i pomnik Jana Karskiego pomazane czerwoną farbą",
+      "originalDescription": "Konsulat Generalny RP oraz pomnik Jana Karskiego w Nowym Jorku zostały pomazane czerwoną farbą. Placówka przekazała, że pracuje nad wyjaśnieniem sprawy i \"traktuje ją bardzo poważnie\"."
+    }
+  ]
 }
