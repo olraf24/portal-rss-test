@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-05-31T03:13:23.290Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-05-31T05:02:22.681Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zamieszki we Francji po wygranej PSG w Lidze Mistrzów. Zatrzymane kilkaset osób",
+      "link": "https://tvn24.pl/swiat/paryz-zamieszki-po-wygranej-psg-zatrzymane-416-osob-st9074748?source=rss",
+      "pubDate": "Sun, 31 May 2026 04:54:30 GMT",
+      "description": "Francuska policja zatrzymała 416 osób w związku z zamieszkami, do których doszło po zwycięstwie Paris Saint-Germain nad Arsenalem Londyn w piłkarskiej Lidze Mistrzów. Rannych zostało siedmiu funkcjonariuszy. Stan jednego z nich określany jest jako poważny.",
+      "originalTitle": "Zamieszki we Francji po wygranej PSG w Lidze Mistrzów. Zatrzymane kilkaset osób",
+      "originalDescription": "Francuska policja zatrzymała 416 osób w związku z zamieszkami, do których doszło po zwycięstwie Paris Saint-Germain nad Arsenalem Londyn w piłkarskiej Lidze Mistrzów. Rannych zostało siedmiu funkcjonariuszy. Stan jednego z nich określany jest jako poważny."
+    },
+    {
+      "title": "Dron miał uderzyć w budynek Zaporoskiej Elektrowni Jądrowej. \"Igranie z ogniem\"",
+      "link": "https://tvn24.pl/swiat/ukraina-dron-mial-uderzyc-w-budynek-turbiny-zaporoskiej-elektrowni-jadrowej-igranie-z-ogniem-st9074741?source=rss",
+      "pubDate": "Sun, 31 May 2026 04:41:10 GMT",
+      "description": "Międzynarodowa Agencja Energii Atomowej otrzymała informację, że dron uderzył w budynek turbiny elektrowni jądrowej w Zaporożu w południowo-wschodniej Ukrainie. Prawdopodobnie przebił ścianę.",
+      "originalTitle": "Dron miał uderzyć w budynek Zaporoskiej Elektrowni Jądrowej. \"Igranie z ogniem\"",
+      "originalDescription": "Międzynarodowa Agencja Energii Atomowej otrzymała informację, że dron uderzył w budynek turbiny elektrowni jądrowej w Zaporożu w południowo-wschodniej Ukrainie. Prawdopodobnie przebił ścianę."
+    },
+    {
+      "title": "\"Matko, przecież ja powinnam tu też leżeć\"",
+      "link": "https://tvn24.pl/zdrowie/wypalenie-zawodowe-lekarzy-objawy-i-prawdziwe-historie-medykow-st9071941?source=rss",
+      "pubDate": "Sun, 31 May 2026 04:31:47 GMT",
+      "description": "Czułem, że nie daję rady, że jestem za miękki, jak ślimak bez skorupy - wspomina Wojciech. Jagoda już na pierwszych praktykach dostała ataku płaczu. Konrad też płakał. Tygodniami, gdy tylko miał wolną chwilę w szpitalu. Daria trzy razy szła stwierdzić zgon, żeby mieć pewność. Medycy opowiadają nam, jak wygląda ich praca i jak się w niej wypalają.",
+      "originalTitle": "\"Matko, przecież ja powinnam tu też leżeć\"",
+      "originalDescription": "Czułem, że nie daję rady, że jestem za miękki, jak ślimak bez skorupy - wspomina Wojciech. Jagoda już na pierwszych praktykach dostała ataku płaczu. Konrad też płakał. Tygodniami, gdy tylko miał wolną chwilę w szpitalu. Daria trzy razy szła stwierdzić zgon, żeby mieć pewność. Medycy opowiadają nam, jak wygląda ich praca i jak się w niej wypalają."
+    },
+    {
+      "title": "Wielki sukces Mai Chwalińskiej, 29 umów w ramach SAFE, wandalizm przed konsulatem RP",
+      "link": "https://tvn24.pl/swiat/piec-rzeczy-ktore-warto-wiedziec-w-niedziele-31-maja-najwazniejsze-informacje-st9074742?source=rss",
+      "pubDate": "Sun, 31 May 2026 04:27:15 GMT",
+      "description": "29 umów na zakup sprzętu wojskowego podpisano w sobotę w ramach programu SAFE. Maja Chwalińska awansowała do 1/8 finału Rolanda Garrosa. Ktoś zdewastował wejście do polskiego konsulatu w USA. Możliwa trąba powietrzna zerwała dachy i połamała drzewa na Opolszczyźnie. Oto pięć rzeczy, które warto wiedzieć w niedzielę 31 maja.",
+      "originalTitle": "Wielki sukces Mai Chwalińskiej, 29 umów w ramach SAFE, wandalizm przed konsulatem RP",
+      "originalDescription": "29 umów na zakup sprzętu wojskowego podpisano w sobotę w ramach programu SAFE. Maja Chwalińska awansowała do 1/8 finału Rolanda Garrosa. Ktoś zdewastował wejście do polskiego konsulatu w USA. Możliwa trąba powietrzna zerwała dachy i połamała drzewa na Opolszczyźnie. Oto pięć rzeczy, które warto wiedzieć w niedzielę 31 maja."
+    },
+    {
+      "title": "Pogoda na dziś - niedziela, 31.05. Przelotnie popada, miejscami może zagrzmieć",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-31-05-przelotnie-popada-miejscami-moze-zagrzmiec-st9074595?source=rss",
+      "pubDate": "Sat, 30 May 2026 18:24:16 GMT",
+      "description": "Pogoda na dziś. Niedziela, 31.05 przyniesie w większości kraju temperaturę powyżej 20 stopni Celsjusza. W większości kraju będzie pochmurnie. Lokalnie przelotnie popada, a miejscami mogą rozwinąć się burze.",
+      "originalTitle": "Pogoda na dziś - niedziela, 31.05. Przelotnie popada, miejscami może zagrzmieć",
+      "originalDescription": "Pogoda na dziś. Niedziela, 31.05 przyniesie w większości kraju temperaturę powyżej 20 stopni Celsjusza. W większości kraju będzie pochmurnie. Lokalnie przelotnie popada, a miejscami mogą rozwinąć się burze."
+    },
+    {
+      "title": "Mężczyzna z podejrzeniem eboli w Brazylii",
+      "link": "https://tvn24.pl/swiat/mezczyzna-z-podejrzeniem-eboli-w-brazylii-st9074692?source=rss",
+      "pubDate": "Sat, 30 May 2026 19:36:21 GMT",
+      "description": "W stanie Sao Paulo w Brazylii prowadzone jest dochodzenie w sprawie podejrzenia przypadku zakażenia wirusem ebola. Dotyczy mężczyzny z Demokratycznej Republiki Konga, który niedawno odwiedził ten kraj. Obecnie przebywa w izolacji w specjalistycznym szpitalu.",
+      "originalTitle": "Mężczyzna z podejrzeniem eboli w Brazylii",
+      "originalDescription": "W stanie Sao Paulo w Brazylii prowadzone jest dochodzenie w sprawie podejrzenia przypadku zakażenia wirusem ebola. Dotyczy mężczyzny z Demokratycznej Republiki Konga, który niedawno odwiedził ten kraj. Obecnie przebywa w izolacji w specjalistycznym szpitalu."
+    },
+    {
+      "title": "Poważne zniszczenia na Opolszczyźnie. To mogła być trąba powietrzna",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-balcarzowice-burze-i-silny-wiatr-w-polsce-w-sobote-30-05-opolskie-uszkodzone-dachy-polamane-drzewa-mozliwa-traba-powietrzna-st9074636?source=rss",
+      "pubDate": "Sat, 30 May 2026 17:00:33 GMT",
+      "description": "Pogoda w sobotę w części kraju była groźna. W województwie opolskim w powiecie strzeleckim w miejscowości Balcarzowice uszkodzone zostały dachy domów i budynków gospodarczych. Za zniszczenia może być odpowiedzialna trąba powietrzna.",
+      "originalTitle": "Poważne zniszczenia na Opolszczyźnie. To mogła być trąba powietrzna",
+      "originalDescription": "Pogoda w sobotę w części kraju była groźna. W województwie opolskim w powiecie strzeleckim w miejscowości Balcarzowice uszkodzone zostały dachy domów i budynków gospodarczych. Za zniszczenia może być odpowiedzialna trąba powietrzna."
+    },
+    {
+      "title": "Kolejne umowy w ramach SAFE podpisane. Gasiuk-Pihowicz: refleksji u prezydenta nie będzie",
+      "link": "https://tvn24.pl/polska/kolejne-umowy-w-ramach-safe-podpisane-gasiuk-pihowicz-refleksji-u-prezydenta-nie-bedzie-st9074655?source=rss",
+      "pubDate": "Sat, 30 May 2026 19:12:18 GMT",
+      "description": "W sobotę podpisano 29 umów w ramach programu SAFE. Goście \"Faktów po Faktach\" Kamila Gasiuk-Pihowicz i Jakub Stefaniak byli pytani, czy będzie na ten temat refleksja w pałacu prezydenckim lub Prawie i Sprawiedliwości. Komentowali też zapowiedź odebrania prezydentowi Ukrainy Orderu Orła Białego.",
+      "originalTitle": "Kolejne umowy w ramach SAFE podpisane. Gasiuk-Pihowicz: refleksji u prezydenta nie będzie",
+      "originalDescription": "W sobotę podpisano 29 umów w ramach programu SAFE. Goście \"Faktów po Faktach\" Kamila Gasiuk-Pihowicz i Jakub Stefaniak byli pytani, czy będzie na ten temat refleksja w pałacu prezydenckim lub Prawie i Sprawiedliwości. Komentowali też zapowiedź odebrania prezydentowi Ukrainy Orderu Orła Białego."
+    },
+    {
+      "title": "Gdzie jest burza? Za nami burzowa sobota",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-sobota-30-05-wyladowania-i-silny-wiatr-mapa-i-radar-burz-st9073863?source=rss",
+      "pubDate": "Sat, 30 May 2026 11:05:58 GMT",
+      "description": "Gdzie jest burza? W sobotę 30.05 grzmiało na froncie przetaczającym się przez Polskę. Wyładowaniom towarzyszyły opady deszczu oraz silne porywy wiatru.",
+      "originalTitle": "Gdzie jest burza? Za nami burzowa sobota",
+      "originalDescription": "Gdzie jest burza? W sobotę 30.05 grzmiało na froncie przetaczającym się przez Polskę. Wyładowaniom towarzyszyły opady deszczu oraz silne porywy wiatru."
+    },
+    {
+      "title": "Duże utrudnienia na autostradzie A2 po zderzeniu. Są objazdy",
+      "link": "https://tvn24.pl/polska/wielkopolskie-utrudnienia-na-autostradzie-a2-po-zderzeniu-objazdy-w-kierunku-poznania-st9074597?source=rss",
+      "pubDate": "Sat, 30 May 2026 15:47:18 GMT",
+      "description": "Autostrada A2 była zablokowana na wysokości Nowego Tomyśla (Wielkopolskie) po zderzeniu trzech pojazdów. Ruch częściowo udrożniono w kierunku Świecka. Kierowcy, którzy jadą do Poznania, muszą nadal korzystać z objazdu.",
+      "originalTitle": "Duże utrudnienia na autostradzie A2 po zderzeniu. Są objazdy",
+      "originalDescription": "Autostrada A2 była zablokowana na wysokości Nowego Tomyśla (Wielkopolskie) po zderzeniu trzech pojazdów. Ruch częściowo udrożniono w kierunku Świecka. Kierowcy, którzy jadą do Poznania, muszą nadal korzystać z objazdu."
+    }
+  ]
 }
