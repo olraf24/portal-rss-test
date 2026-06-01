@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-01T03:14:59.637Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-01T05:12:19.740Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Drzwi polskiego konsulatu oblane farbą. Radni Nowego Jorku reagują",
+      "link": "https://tvn24.pl/swiat/nowojorscy-radni-potepili-serie-atakow-na-polski-konsulat-nieakceptowalne-st9075690?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 05:10:00 GMT",
+      "description": "Nowojorscy radni potępili akty wandalizmu wobec polskiego konsulatu w Nowym Jorku z ubiegłego tygodnia. Podkreślili, że to atak \"na wartości wzajemnego szacunku i międzynarodowej przyjaźni\".",
+      "originalTitle": "Drzwi polskiego konsulatu oblane farbą. Radni Nowego Jorku reagują",
+      "originalDescription": "Nowojorscy radni potępili akty wandalizmu wobec polskiego konsulatu w Nowym Jorku z ubiegłego tygodnia. Podkreślili, że to atak \"na wartości wzajemnego szacunku i międzynarodowej przyjaźni\"."
+    },
+    {
+      "title": "Wybuch materiałów górniczych. Są ofiary śmiertelne",
+      "link": "https://tvn24.pl/swiat/mjanma-birma-wybuch-materialow-gorniczych-sa-ranni-i-ofiary-smiertelne-st9075692?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 05:05:28 GMT",
+      "description": "W Mjanmie (Birma) doszło do eksplozji materiałów wykorzystywanych w górnictwie. Według agencji Reutersa, w wyniku wybuchu zginęło co najmniej 55 osób. Lokalne władze określiły to zdarzenie jako \"przypadkowe\", lecz zapewniły o pociągnięciu winnych do odpowiedzialności.",
+      "originalTitle": "Wybuch materiałów górniczych. Są ofiary śmiertelne",
+      "originalDescription": "W Mjanmie (Birma) doszło do eksplozji materiałów wykorzystywanych w górnictwie. Według agencji Reutersa, w wyniku wybuchu zginęło co najmniej 55 osób. Lokalne władze określiły to zdarzenie jako \"przypadkowe\", lecz zapewniły o pociągnięciu winnych do odpowiedzialności."
+    },
+    {
+      "title": "Ulewy i burze. Alarmy w 14 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-burze-i-ulewy-ostrzezenia-imgw-grozna-aura-w-w-poniedzialek-1-06-alarmy-w-14-wojewodztwach-st9075092?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 04:53:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami, podczas których wiatr może rozpędzać się do 60 kilometrów na godzinę. Obowiązują też alarmy przed ulewami, które wystąpią w czasie wyładowań atmosferycznych.",
+      "originalTitle": "Ulewy i burze. Alarmy w 14 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami, podczas których wiatr może rozpędzać się do 60 kilometrów na godzinę. Obowiązują też alarmy przed ulewami, które wystąpią w czasie wyładowań atmosferycznych."
+    },
+    {
+      "title": "ONZ \"bankrutuje\". Ogromne zaległości \"największych płatników\"",
+      "link": "https://tvn24.pl/swiat/onz-bankrutuje-media-to-efekt-niesplaconych-zaleglosci-usa-i-chin-st9075678?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 04:47:06 GMT",
+      "description": "Stany Zjednoczone nie zapłaciły Organizacji Narodów Zjednoczonych miliardów dolarów, które jej zalegają - zaalarmował dziennik \"Wall Street Journal\". Za kłopoty finansowe instytucji mają odpowiadać też zaległości Pekinu.",
+      "originalTitle": "ONZ \"bankrutuje\". Ogromne zaległości \"największych płatników\"",
+      "originalDescription": "Stany Zjednoczone nie zapłaciły Organizacji Narodów Zjednoczonych miliardów dolarów, które jej zalegają - zaalarmował dziennik \"Wall Street Journal\". Za kłopoty finansowe instytucji mają odpowiadać też zaległości Pekinu."
+    },
+    {
+      "title": "Stany Zjednoczone zaatakowały cele w Iranie",
+      "link": "https://tvn24.pl/swiat/stany-zjednoczone-zaatakowaly-cele-w-iranie-st9075693?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 04:24:48 GMT",
+      "description": "Stany Zjednoczone poinformowały, że przeprowadziły w niedzielę \"uderzenia w samoobronie\" co, jak stwierdziło Dowództwo Centralne USA (CENTCOM), było odpowiedzią na \"agresywne\" działania Iranu. Teheran również przekazał informacje o swoich działaniach odwetowych.",
+      "originalTitle": "Stany Zjednoczone zaatakowały cele w Iranie",
+      "originalDescription": "Stany Zjednoczone poinformowały, że przeprowadziły w niedzielę \"uderzenia w samoobronie\" co, jak stwierdziło Dowództwo Centralne USA (CENTCOM), było odpowiedzią na \"agresywne\" działania Iranu. Teheran również przekazał informacje o swoich działaniach odwetowych."
+    },
+    {
+      "title": "Pogoda na dziś - poniedziałek 1.06. Zagrzmi i popada",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-poniedzialek-1-06-zagrzmi-i-popada-st9075538?source=rss",
+      "pubDate": "Sun, 31 May 2026 17:50:00 GMT",
+      "description": "Pogoda na dziś. W poniedziałek 1.06 w wielu regionach kraju wystąpią opady deszczu. Prognozowane są też burze, podczas których mocniej popada i powieje. Sprawdź, gdzie aura będzie groźna.",
+      "originalTitle": "Pogoda na dziś - poniedziałek 1.06. Zagrzmi i popada",
+      "originalDescription": "Pogoda na dziś. W poniedziałek 1.06 w wielu regionach kraju wystąpią opady deszczu. Prognozowane są też burze, podczas których mocniej popada i powieje. Sprawdź, gdzie aura będzie groźna."
+    },
+    {
+      "title": "Ceny paliw w poniedziałek. Tyle kosztują",
+      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-w-poniedzialek-1-czerwca-tyle-zaplacimy-za-benzyne-i-olej-napedowy-st9072262?source=rss",
+      "pubDate": "Fri, 29 May 2026 10:01:21 GMT",
+      "description": "W poniedziałek, 1 czerwca, obowiązują te same maksymalne ceny paliw, co w weekend. Zgodnie z piątkowym obwieszczeniem ceny benzyny i oleju napędowego mają być niższe niż w piątek 29 maja.",
+      "originalTitle": "Ceny paliw w poniedziałek. Tyle kosztują",
+      "originalDescription": "W poniedziałek, 1 czerwca, obowiązują te same maksymalne ceny paliw, co w weekend. Zgodnie z piątkowym obwieszczeniem ceny benzyny i oleju napędowego mają być niższe niż w piątek 29 maja."
+    },
+    {
+      "title": "Polityczny \"outsider\", sympatyk Trumpa. Ma szansę zostać prezydentem",
+      "link": "https://tvn24.pl/swiat/wybory-w-kolumbii-do-drugiej-tury-wszedl-zwolennik-donalda-trumpa-st9075686?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 04:10:44 GMT",
+      "description": "Do drugiej tury wyborów prezydenckich w Kolumbii wszedł prawicowy kandydat i sympatyk Donalda Trumpa Abelardo de la Espriella - wynika ze wstępnych wyników. O fotel prezydenta zawalczy z wyznaczonym przez obecnego, lewicowego szefa państwa Ivanem Cepedą.",
+      "originalTitle": "Polityczny \"outsider\", sympatyk Trumpa. Ma szansę zostać prezydentem",
+      "originalDescription": "Do drugiej tury wyborów prezydenckich w Kolumbii wszedł prawicowy kandydat i sympatyk Donalda Trumpa Abelardo de la Espriella - wynika ze wstępnych wyników. O fotel prezydenta zawalczy z wyznaczonym przez obecnego, lewicowego szefa państwa Ivanem Cepedą."
+    },
+    {
+      "title": "Rosja ponosi \"wyłączną odpowiedzialność\". Rumunia zebrała dowody",
+      "link": "https://tvn24.pl/swiat/rosja-ponosi-wylaczna-odpowiedzialnosc-za-incydent-w-rumunii-sa-dowody-st9075680?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 04:06:23 GMT",
+      "description": "Analiza ekspertów potwierdziła, że dron, który spadł na blok mieszkalny w Rumunii to rosyjski bezzałogowiec. O wynikach raportu poinformował prezydent kraju Nicosur Dan, dementując tym samym wcześniejsze sugestie Kremla.",
+      "originalTitle": "Rosja ponosi \"wyłączną odpowiedzialność\". Rumunia zebrała dowody",
+      "originalDescription": "Analiza ekspertów potwierdziła, że dron, który spadł na blok mieszkalny w Rumunii to rosyjski bezzałogowiec. O wynikach raportu poinformował prezydent kraju Nicosur Dan, dementując tym samym wcześniejsze sugestie Kremla."
+    },
+    {
+      "title": "Specjalny samolot poleci do Chin po Polkę. Mama Klaudii: boję się tego przelotu",
+      "link": "https://tvn24.pl/polska/specjalny-samolot-poleci-do-chin-po-chora-polke-mama-24-latki-boje-sie-tego-przelotu-st9075667?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 03:43:11 GMT",
+      "description": "Dziś z Warszawy specjalny samolot, z wojskowym zespołem medycznym na pokładzie, wyleci do Chin. Ma przetransportować do Polski 24-letnią Polkę, która przebywa w śpiączce w Pekinie. - Nawet nie wiem, czy jeżeli się wybudzi, czy będzie mówić, czy będzie chodzić, czy zaczynamy wszystko od nowa - mówi matka kobiety w rozmowie z TVN24.",
+      "originalTitle": "Specjalny samolot poleci do Chin po Polkę. Mama Klaudii: boję się tego przelotu",
+      "originalDescription": "Dziś z Warszawy specjalny samolot, z wojskowym zespołem medycznym na pokładzie, wyleci do Chin. Ma przetransportować do Polski 24-letnią Polkę, która przebywa w śpiączce w Pekinie. - Nawet nie wiem, czy jeżeli się wybudzi, czy będzie mówić, czy będzie chodzić, czy zaczynamy wszystko od nowa - mówi matka kobiety w rozmowie z TVN24."
+    }
+  ]
 }
