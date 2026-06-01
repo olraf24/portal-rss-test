@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-01T11:18:16.195Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-01T13:22:05.200Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Sprzątają po trąbie powietrznej, a \"pogoda zapowiada się dynamicznie\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/balcarzowice-opolskie-sprzataja-po-trabie-powietrznej-pogoda-w-najblizszych-dniach-zapowiada-sie-dynamicznie-st9076400?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 13:07:47 GMT",
+      "description": "Trwa usuwanie skutków przejścia trąby powietrznej nad Opolszczyzną. W sobotę wieczorem silny wiatr spowodował duże zniszczenia w miejscowości Balcarzowice - uszkodzeniu uległo 18 budynków, w tym 11 domów. W poniedziałek służby wyjaśniły mieszkańcom, w jaki sposób mogą ubiegać się o pomoc finansową.",
+      "originalTitle": "Sprzątają po trąbie powietrznej, a \"pogoda zapowiada się dynamicznie\"",
+      "originalDescription": "Trwa usuwanie skutków przejścia trąby powietrznej nad Opolszczyzną. W sobotę wieczorem silny wiatr spowodował duże zniszczenia w miejscowości Balcarzowice - uszkodzeniu uległo 18 budynków, w tym 11 domów. W poniedziałek służby wyjaśniły mieszkańcom, w jaki sposób mogą ubiegać się o pomoc finansową."
+    },
+    {
+      "title": "\"Cztery kartony\". Kontrowersje wokół wystawy w Senacie, NCK odpowiada",
+      "link": "https://tvn24.pl/polska/kontrowersje-wokol-wystawy-o-andrzeju-wajdzie-w-senacie-narodowe-centrum-kultury-odpowiada-st9076310?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 13:07:24 GMT",
+      "description": "W Senacie pokazano wystawę poświęconą reżyserowi Andrzejowi Wajdzie. Jej koszt w połączeniu z charakterem ekspozycji wywołał krytykę o zasadność przedsięwzięcia. Odpowiedziało na nią Narodowe Centrum Kultury.",
+      "originalTitle": "\"Cztery kartony\". Kontrowersje wokół wystawy w Senacie, NCK odpowiada",
+      "originalDescription": "W Senacie pokazano wystawę poświęconą reżyserowi Andrzejowi Wajdzie. Jej koszt w połączeniu z charakterem ekspozycji wywołał krytykę o zasadność przedsięwzięcia. Odpowiedziało na nią Narodowe Centrum Kultury."
+    },
+    {
+      "title": "Toksyny w zabawkach. Kontrola pokazała, ile z nich nie spełnia norm",
+      "link": "https://tvn24.pl/biznes/handel/uokik-przebadal-250-zabawek-w-wielu-wykryto-nadmiar-niebezpiecznych-substancji-st9076237?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 13:06:57 GMT",
+      "description": "Urząd Ochrony Konkurencji i Konsumentów przeprowadził kontrolę, w ramach której przebadano 250 modeli zabawek. Ponad 16 procent z nich przekraczało dopuszczalne normy ftalanów i migracji boru. Ponadto jedna czwarta przedmiotów była nieprawidłowo oznakowana.",
+      "originalTitle": "Toksyny w zabawkach. Kontrola pokazała, ile z nich nie spełnia norm",
+      "originalDescription": "Urząd Ochrony Konkurencji i Konsumentów przeprowadził kontrolę, w ramach której przebadano 250 modeli zabawek. Ponad 16 procent z nich przekraczało dopuszczalne normy ftalanów i migracji boru. Ponadto jedna czwarta przedmiotów była nieprawidłowo oznakowana."
+    },
+    {
+      "title": "Ksiądz Wodniak drugi raz wpisany do rejestru pedofili. \"Nazwano po imieniu to, co się stało\"",
+      "link": "https://tvn24.pl/katowice/miedzybrodzie-ksiadz-wodniak-drugi-raz-wpisany-do-rejestru-pedofilii-nazwano-po-imieniu-to-co-sie-stalo-st9074976?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 13:06:42 GMT",
+      "description": "Ks. Jan Wodniak po raz drugi został wpisany do publicznego Rejestru Sprawców Przestępstw na Tle Seksualnym. \"Poczułem ulgę i wiem, że należało tak zrobić - zgłosić i nie czekać nie wiadomo na co\" - przekazał tvn24.pl mężczyzna, który był w młodości molestowany przez byłego proboszcza z Międzybrodzia Bialskiego.",
+      "originalTitle": "Ksiądz Wodniak drugi raz wpisany do rejestru pedofili. \"Nazwano po imieniu to, co się stało\"",
+      "originalDescription": "Ks. Jan Wodniak po raz drugi został wpisany do publicznego Rejestru Sprawców Przestępstw na Tle Seksualnym. \"Poczułem ulgę i wiem, że należało tak zrobić - zgłosić i nie czekać nie wiadomo na co\" - przekazał tvn24.pl mężczyzna, który był w młodości molestowany przez byłego proboszcza z Międzybrodzia Bialskiego."
+    },
+    {
+      "title": "Co ma powstać na dachu sali balowej? Trump pokazał wizualizacje",
+      "link": "https://tvn24.pl/swiat/usa-port-dronowy-na-dachu-sali-balowej-trump-pokazal-wizualizacje-st9076376?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 13:03:09 GMT",
+      "description": "Donald Trump zamieścił w serwisie Truth Social wizualizacje \"portu dronowego\", który miałby powstać na dachu sali balowej budowanej przy Białym Domu. Prezydent USA wykorzystał okazję, by skrytykować sędziego, który zablokował budowę budzącej kontrowersje sali.",
+      "originalTitle": "Co ma powstać na dachu sali balowej? Trump pokazał wizualizacje",
+      "originalDescription": "Donald Trump zamieścił w serwisie Truth Social wizualizacje \"portu dronowego\", który miałby powstać na dachu sali balowej budowanej przy Białym Domu. Prezydent USA wykorzystał okazję, by skrytykować sędziego, który zablokował budowę budzącej kontrowersje sali."
+    },
+    {
+      "title": "Mecz z Nigerią na Narodowym. Jak dojechać i wrócić ze stadionu?",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-mecz-polska-nigeria-na-stadionie-narodowym-jak-dojechac-i-wrocic-ze-stadionu-st9076349?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 13:00:39 GMT",
+      "description": "Biało-czerwoni w środę, trzeciego czerwca, na Stadionie Narodowym zagrają z Nigerią. Początek towarzyskiego spotkania o godzinie 20.45. Stołeczny ratusz zachęca, by w drodze na i ze stadionu wybrać komunikację miejską. Jak będzie kursować?",
+      "originalTitle": "Mecz z Nigerią na Narodowym. Jak dojechać i wrócić ze stadionu?",
+      "originalDescription": "Biało-czerwoni w środę, trzeciego czerwca, na Stadionie Narodowym zagrają z Nigerią. Początek towarzyskiego spotkania o godzinie 20.45. Stołeczny ratusz zachęca, by w drodze na i ze stadionu wybrać komunikację miejską. Jak będzie kursować?"
+    },
+    {
+      "title": "Zniszczone budynki, zerwane dachy, połamane drzewa. Trwa usuwanie skutków nawałnicy",
+      "link": "https://tvn24.pl/opole/balcarzowice-zniszczone-domy-zerwane-dachy-polamane-drzewa-trwa-usuwanie-skutkow-nawalnicy-st9076298?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 12:58:42 GMT",
+      "description": "Trwa usuwanie skutków nawałnicy, która w sobotę przeszła przez Balcarzowice (woj. opolskie), uszkadzając łącznie 18 budynków. Najbardziej ucierpiały starsze zabudowania gospodarcze - część z nich runęła, inne mają uszkodzone dachy. Władze zapowiadają wsparcie dla mieszkańców.",
+      "originalTitle": "Zniszczone budynki, zerwane dachy, połamane drzewa. Trwa usuwanie skutków nawałnicy",
+      "originalDescription": "Trwa usuwanie skutków nawałnicy, która w sobotę przeszła przez Balcarzowice (woj. opolskie), uszkadzając łącznie 18 budynków. Najbardziej ucierpiały starsze zabudowania gospodarcze - część z nich runęła, inne mają uszkodzone dachy. Władze zapowiadają wsparcie dla mieszkańców."
+    },
+    {
+      "title": "Uderzył motocyklem w pryzmę drewna. 17-latek zginął na miejscu",
+      "link": "https://tvn24.pl/krakow/czarna-gorlice-stracil-panowanie-nad-motocyklem-i-uderzyl-w-pryzme-drewna-17-latek-zginal-na-miejscu-st9076670?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 12:44:50 GMT",
+      "description": "Tragiczny wypadek w miejscowości Czarna w powiecie gorlickim (woj. małopolskie). 17-latek, jadący motocyklem typu cross, stracił panowanie nad pojazdem i uderzył w pryzmę drewna. Jego życia nie udało się uratować.",
+      "originalTitle": "Uderzył motocyklem w pryzmę drewna. 17-latek zginął na miejscu",
+      "originalDescription": "Tragiczny wypadek w miejscowości Czarna w powiecie gorlickim (woj. małopolskie). 17-latek, jadący motocyklem typu cross, stracił panowanie nad pojazdem i uderzył w pryzmę drewna. Jego życia nie udało się uratować."
+    },
+    {
+      "title": "Warszawska palma zyska własny \"ocean\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-tak-zmieni-sie-otoczenie-slynnej-palmy-wizualizacja-st9076522?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 12:42:24 GMT",
+      "description": "\"Ocean\" szałwii i wyspy z werbeny w samym środku ruchliwego warszawskiego skrzyżowania. Taki widok już wkrótce zastąpi szary beton wokół sztucznej palmy na Rondzie de Gaulle'a. Stołeczni drogowcy dali zielone światło na realizację tego projektu.",
+      "originalTitle": "Warszawska palma zyska własny \"ocean\"",
+      "originalDescription": "\"Ocean\" szałwii i wyspy z werbeny w samym środku ruchliwego warszawskiego skrzyżowania. Taki widok już wkrótce zastąpi szary beton wokół sztucznej palmy na Rondzie de Gaulle'a. Stołeczni drogowcy dali zielone światło na realizację tego projektu."
+    },
+    {
+      "title": "Czek Turystyczny na podróże w Polsce. Kto może liczyć na dofinansowanie wakacji",
+      "link": "https://tvn24.pl/biznes/turystyka/ministerstwo-turystyki-zapowiada-czek-turystyczne-ma-wesprzec-regiony-przygraniczne-st9076059?source=rss",
+      "pubDate": "Mon, 01 Jun 2026 12:35:53 GMT",
+      "description": "Ministerstwo Sportu i Turystyki zapowiedziało program, który ma wesprzeć regiony i obszary przygraniczne, w których ucierpiał ruch turystyczny w związku z geopolityką. W związku z tym będzie przyznawało Czeki Turystyczne - dopłaty do pobytu w tych miejscach. Kto będzie mógł z nich skorzystać?",
+      "originalTitle": "Czek Turystyczny na podróże w Polsce. Kto może liczyć na dofinansowanie wakacji",
+      "originalDescription": "Ministerstwo Sportu i Turystyki zapowiedziało program, który ma wesprzeć regiony i obszary przygraniczne, w których ucierpiał ruch turystyczny w związku z geopolityką. W związku z tym będzie przyznawało Czeki Turystyczne - dopłaty do pobytu w tych miejscach. Kto będzie mógł z nich skorzystać?"
+    }
+  ]
 }
