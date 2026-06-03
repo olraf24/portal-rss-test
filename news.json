@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-03T01:04:07.586Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-03T02:22:03.358Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Poseł PiS Marcin Porzucek pijany na lotnisku. \"Bardzo przykry i bardzo smutny obraz\"",
+      "link": "https://tvn24.pl/polska/posel-pis-marcin-porzucek-pijany-na-lotnisku-bardzo-przykry-i-bardzo-smutny-obraz-st9078756?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 20:08:46 GMT",
+      "description": "Bardzo smutny widok, bo to jest obraz części polskiego parlamentaryzmu - tak Krzysztof Brejza skomentował w \"Kropce nad i\" w TVN24 incydent na warszawskim lotnisku z udziałem posła PiS Marcina Porzucka. Ryszard Petru ocenił, że to \"wpływa na wizerunek całej klasy politycznej\".",
+      "originalTitle": "Poseł PiS Marcin Porzucek pijany na lotnisku. \"Bardzo przykry i bardzo smutny obraz\"",
+      "originalDescription": "Bardzo smutny widok, bo to jest obraz części polskiego parlamentaryzmu - tak Krzysztof Brejza skomentował w \"Kropce nad i\" w TVN24 incydent na warszawskim lotnisku z udziałem posła PiS Marcina Porzucka. Ryszard Petru ocenił, że to \"wpływa na wizerunek całej klasy politycznej\"."
+    },
+    {
+      "title": "Prognoza zagrożeń IMGW. Tu aura w długi weekend nie dopisze",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-na-boze-cialo-burze-silny-deszcz-z-burzami-tu-aura-w-dlugi-weekend-nie-dopisze-st9078780?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 19:52:28 GMT",
+      "description": "IMGW opublikował prognozę zagrożeń meteorologicznych na kolejne dni. Trudna aura miejscami będzie nam towarzyszyć także podczas długiego weekendu. Sprawdź, w których regionach warto będzie zachować ostrożność.",
+      "originalTitle": "Prognoza zagrożeń IMGW. Tu aura w długi weekend nie dopisze",
+      "originalDescription": "IMGW opublikował prognozę zagrożeń meteorologicznych na kolejne dni. Trudna aura miejscami będzie nam towarzyszyć także podczas długiego weekendu. Sprawdź, w których regionach warto będzie zachować ostrożność."
+    },
+    {
+      "title": "120 milionów złotych do wygrania w Eurojackpot",
+      "link": "https://tvn24.pl/biznes/z-kraju/eurojackpot-120-milionow-zlotych-do-wygrania-wyniki-z-2-czerwca-2026-jakie-liczby-padly-podczas-ostatniego-losowania-st9078789?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 19:46:39 GMT",
+      "description": "We wtorkowym losowaniu Eurojackpot ponownie nie padła główna wygrana. Kumulacja rośnie zatem do 120 milionów złotych. Oto wyniki losowania z 2 czerwca 2026 roku.",
+      "originalTitle": "120 milionów złotych do wygrania w Eurojackpot",
+      "originalDescription": "We wtorkowym losowaniu Eurojackpot ponownie nie padła główna wygrana. Kumulacja rośnie zatem do 120 milionów złotych. Oto wyniki losowania z 2 czerwca 2026 roku."
+    },
+    {
+      "title": "Nowe szefostwo Orlenu wybrane. Bez zmian na fotelu prezesa",
+      "link": "https://tvn24.pl/biznes/z-kraju/rada-nadzorcza-orlenu-wybrala-prezesa-ireneusz-fafara-pozostanie-na-stanowisku-st9078782?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 19:13:01 GMT",
+      "description": "Rada Nadzorcza Orlenu podczas posiedzenia 2 czerwca 2026 roku powołała zarząd spółki na nową wspólną kadencję. Na stanowisku prezesa pozostanie Ireneusz Fąfara, który kieruje koncernem od kwietnia 2024 roku. W skład zarządu weszli również jego dotychczasowi członkowie - przekazała we wtorek spółka.",
+      "originalTitle": "Nowe szefostwo Orlenu wybrane. Bez zmian na fotelu prezesa",
+      "originalDescription": "Rada Nadzorcza Orlenu podczas posiedzenia 2 czerwca 2026 roku powołała zarząd spółki na nową wspólną kadencję. Na stanowisku prezesa pozostanie Ireneusz Fąfara, który kieruje koncernem od kwietnia 2024 roku. W skład zarządu weszli również jego dotychczasowi członkowie - przekazała we wtorek spółka."
+    },
+    {
+      "title": "Niezapowiedziany strajk na belgijskich lotniskach. Loty mają zostać przywrócone",
+      "link": "https://tvn24.pl/biznes/ze-swiata/stajk-kontrolerow-ruchu-lotniczego-w-belgii-loty-wstrzymane-do-wieczora-st9078524?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 15:18:07 GMT",
+      "description": "W Belgii trwa niezapowiedziany protest kontrolerów lotniczych, w związku z czym ruch do i z kraju został wstrzymany od godziny 14. Według najnowszego komunikatu, loty mają być wznowione po godzinie 21.",
+      "originalTitle": "Niezapowiedziany strajk na belgijskich lotniskach. Loty mają zostać przywrócone",
+      "originalDescription": "W Belgii trwa niezapowiedziany protest kontrolerów lotniczych, w związku z czym ruch do i z kraju został wstrzymany od godziny 14. Według najnowszego komunikatu, loty mają być wznowione po godzinie 21."
+    },
+    {
+      "title": "Od resortu finansów do MFW. Były minister obejmie prestiżowe stanowisko",
+      "link": "https://tvn24.pl/biznes/ze-swiata/byly-minister-finansow-mateusz-szczurek-w-elicie-mfw-pokieruje-departamentem-europejskim-st9078764?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 18:43:42 GMT",
+      "description": "Mateusz Szczurek, były minister finansów RP, obejmie stanowisko dyrektora Departamentu Europejskiego Międzynarodowego Funduszu Walutowego (MFW) - poinformowała we wtorek szefowa Funduszu Kristalina Georgiewa. Nową funkcję będzie pełnił od 27 lipca 2026 roku.",
+      "originalTitle": "Od resortu finansów do MFW. Były minister obejmie prestiżowe stanowisko",
+      "originalDescription": "Mateusz Szczurek, były minister finansów RP, obejmie stanowisko dyrektora Departamentu Europejskiego Międzynarodowego Funduszu Walutowego (MFW) - poinformowała we wtorek szefowa Funduszu Kristalina Georgiewa. Nową funkcję będzie pełnił od 27 lipca 2026 roku."
+    },
+    {
+      "title": "Bodnar o odebraniu orderu Zełenskiemu: to jednoznaczny sygnał dyplomatyczny",
+      "link": "https://tvn24.pl/polska/odebranie-orderu-orla-bialego-wolodymyrowi-zelenskiemu-adam-bodnar-komentuje-st9078708?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 18:17:19 GMT",
+      "description": "Decyzja Wołodymyra Zełenskiego jest z punktu widzenia Polski zła, haniebna i nie powinna mieć miejsca - powiedział w \"Faktach po Faktach\" w TVN24 senator KO Adam Bodnar. Były minister sprawiedliwości komentował nadanie jednej z ukraińskich jednostek imienia \"Bohaterów UPA\". Mówił też o ewentualnym odebraniu Zełenskiemu Orderu Orła Białego.",
+      "originalTitle": "Bodnar o odebraniu orderu Zełenskiemu: to jednoznaczny sygnał dyplomatyczny",
+      "originalDescription": "Decyzja Wołodymyra Zełenskiego jest z punktu widzenia Polski zła, haniebna i nie powinna mieć miejsca - powiedział w \"Faktach po Faktach\" w TVN24 senator KO Adam Bodnar. Były minister sprawiedliwości komentował nadanie jednej z ukraińskich jednostek imienia \"Bohaterów UPA\". Mówił też o ewentualnym odebraniu Zełenskiemu Orderu Orła Białego."
+    },
+    {
+      "title": "Pogoda na jutro - środa 3.06. Spokojna noc, w dzień wrócą wyładowania",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-3-06-spokojna-noc-w-dzien-wroca-wyladowania-st9078744?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 18:08:41 GMT",
+      "description": "Pogoda na jutro, czyli na środę 3.06. Noc w większości kraju przyniesie spokojną aurę. W dzień nad krajem ma jednak przemieszczać się strefa opadów, w której może zagrzmieć. Termometry pokażą maksymalnie 26 stopni Celsjusza.",
+      "originalTitle": "Pogoda na jutro - środa 3.06. Spokojna noc, w dzień wrócą wyładowania",
+      "originalDescription": "Pogoda na jutro, czyli na środę 3.06. Noc w większości kraju przyniesie spokojną aurę. W dzień nad krajem ma jednak przemieszczać się strefa opadów, w której może zagrzmieć. Termometry pokażą maksymalnie 26 stopni Celsjusza."
+    },
+    {
+      "title": "Nowy zespół w stołecznym ratuszu. Ma rozwiązać problem dzików",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/nowy-zespol-w-stolecznym-ratuszu-ma-rozwiazac-problem-dzikow-st9078665?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 17:51:26 GMT",
+      "description": "Prezydent Warszawy powołał zespół do spraw dzikich zwierząt na terenie stolicy. W jego skład weszli przedstawiciele miejskich jednostek oraz instytucji państwowych, a także leśnicy, przyrodnicy i łowczy. Będą szukać wspólnie rozwiązań ograniczających między innymi problem zwiększającej się populacji warszawskich dzików.",
+      "originalTitle": "Nowy zespół w stołecznym ratuszu. Ma rozwiązać problem dzików",
+      "originalDescription": "Prezydent Warszawy powołał zespół do spraw dzikich zwierząt na terenie stolicy. W jego skład weszli przedstawiciele miejskich jednostek oraz instytucji państwowych, a także leśnicy, przyrodnicy i łowczy. Będą szukać wspólnie rozwiązań ograniczających między innymi problem zwiększającej się populacji warszawskich dzików."
+    },
+    {
+      "title": "Blik rusza za granicę. \"Nie możemy pozwolić, by pociąg odjechał\"",
+      "link": "https://tvn24.pl/biznes/rynki/polski-system-platnosci-mobilnych-blik-planuje-ekspansje-w-strefie-euro-po-wejsciu-na-rynki-rumunii-i-slowacji-st9078729?source=rss",
+      "pubDate": "Tue, 02 Jun 2026 17:48:56 GMT",
+      "description": "Jeszcze w tym roku co najmniej trzy duże banki rumuńskie wdrożą technologię polskiego systemu płatności mobilnych Blik - poinformował w rozmowie z Reutersem prezes Polskiego Standardu Płatności (PSP) Dariusz Mazurkiewicz. Słowacja ma natomiast odegrać kluczową rolę w rozwoju blika w strefie euro.",
+      "originalTitle": "Blik rusza za granicę. \"Nie możemy pozwolić, by pociąg odjechał\"",
+      "originalDescription": "Jeszcze w tym roku co najmniej trzy duże banki rumuńskie wdrożą technologię polskiego systemu płatności mobilnych Blik - poinformował w rozmowie z Reutersem prezes Polskiego Standardu Płatności (PSP) Dariusz Mazurkiewicz. Słowacja ma natomiast odegrać kluczową rolę w rozwoju blika w strefie euro."
+    }
+  ]
 }
