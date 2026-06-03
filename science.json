@@ -1,13 +1,25 @@
 {
-  "lastUpdate": "2026-06-03T15:37:28.457Z",
+  "lastUpdate": "2026-06-03T17:43:57.391Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Ekspertka: kleszcz to tylko pośrednik; krętki Borrelia to częściowo „prezent” od gryzoni i ptaków",
+      "link": "https://dzienniknaukowy.pl/ekspertka-kleszcz-to-tylko-posrednik-kretki-borrelia-to-czesciowo-prezent-od-gryzoni-i-ptakow",
+      "pubDate": "Wed, 03 Jun 2026 15:39:16 +0000",
+      "description": "Rezerwuarem krętków boreliozy w przyrodzie są małe ssaki i ptaki. To właśnie od nich kleszcze – głównie na etapie larwy lub nimfy – infekują się bakteriami. O cyklu rozwojowym kleszcza i mechanizmach przenoszenia boreliozy mówi parazytolożka dr hab. Katarzyna Bartosik, prof. UM w Lublinie."
+    },
     {
       "title": "Zapalenie płuc wciąż zbiera żniwo",
       "link": "https://dzienniknaukowy.pl/zapalenie-pluc-wciaz-zbiera-zniwo",
       "pubDate": "Wed, 03 Jun 2026 15:25:11 +0000",
       "description": "Kiedy myślimy o największych zagrożeniach zdrowotnych, wyobraźnia podsuwa zwykle nowotwory, choroby serca albo kolejne wirusy, które mogą wywołać globalne pandemie. Tymczasem jeden z najstarszych przeciwników medycyny wciąż pozostaje zabójczo skuteczny. Infekcje dolnych dróg oddechowych, przede wszystkim zapalenia płuc i oskrzelików, nadal są najważniejszą zakaźną przyczyną zgonów na świecie."
+    },
+    {
+      "title": "Substancje roślinne w terapii zapalenia zatok – co mówią badania?",
+      "link": "https://dzienniknaukowy.pl/substancje-roslinne-w-terapii-zapalenia-zatok-co-mowia-badania",
+      "pubDate": "Wed, 03 Jun 2026 14:42:00 +0000",
+      "description": "Zapalenie zatok to powszechnie występująca infekcja, która objawia się m.in. bólem głowy, uczuciem zatkanego nosa, zaburzeniami węchu czy gęstą, zalegającą wydzieliną. Leczenie tej dolegliwości obejmuje różne metody łagodzenia objawów, wśród których dużą popularnością cieszą się substancje pochodzenia roślinnego. Czy rzeczywiście są one skuteczne?"
     },
     {
       "title": "Naukowcy odkrywają nieznane dotąd umiejętności bakteriofagów",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/modele-ai-potrafia-przemycac-dane-poza-kontrola-czlowieka",
       "pubDate": "Wed, 27 May 2026 07:43:20 +0000",
       "description": "Modele sztucznej inteligencji potrafią kodować swoje preferencje i cechy w pozornie przypadkowych ciągach danych, przekazując je kolejnym systemom w procesie tzw. destylacji. Naukowcy zaobserwowali np. jak system – w pozornie losowym ciągu liczb – koduje swoje preferencje, dotyczące... sympatii do sów - które następnie przejął kolejny model szkolony na tych danych."
-    },
-    {
-      "title": "Czy płyn do płukania jamy ustnej to konieczność czy dodatek?",
-      "link": "https://dzienniknaukowy.pl/czy-plyn-do-plukania-jamy-ustnej-to-koniecznosc-czy-dodatek",
-      "pubDate": "Wed, 27 May 2026 07:09:00 +0000",
-      "description": "Szczotkujesz zęby dwa razy dziennie, a dentysta na wizycie kontrolnej i tak znajduje coś do „poprawienia”? Być może w Twojej rutynie higienizacyjnej brakuje jednego, ważnego elementu – stosowania dobrego płynu do płukania jamy ustnej. Dowiedz się, dlaczego warto sięgnąć po ten produkt."
-    },
-    {
-      "title": "Naukowcy zbadają możliwość pozyskiwania surowców z solanki",
-      "link": "https://dzienniknaukowy.pl/naukowcy-zbadaja-mozliwosc-pozyskiwania-surowcow-z-solanki",
-      "pubDate": "Mon, 25 May 2026 08:01:05 +0000",
-      "description": "Naukowcy Politechniki Wrocławskiej zbadają możliwość pozyskiwania surowców z solanki - odpadu odsalania wody. Uczelnia została liderem projektu w konkursie EIC Pathfinder Challenges 2025. Jego budżet to blisko 4 mln euro, z czego 780 tys. euro trafi na badania we wrocławskich laboratoriach."
     }
   ]
 }
