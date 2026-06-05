@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-05T20:10:14.434Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-05T21:04:17.523Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Sąd uchylił restrykcje wprowadzone przez Trumpa. Chodzi o wizy dla migrantów",
+      "link": "https://tvn24.pl/swiat/sad-uchylil-restrykcje-wprowadzone-przez-trumpa-chodzi-o-wizy-dla-migrantow-st9082893?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 20:52:00 GMT",
+      "description": "Sąd uchylił w piątek pakiet restrykcji imigracyjnych administracji Donalda Trumpa, uznając je za sprzeczne z prawem i motywowane \"nastrojami antyimigracyjnymi\". Ta decyzja wpłynie na proces rozpatrywania wniosków imigracyjnych obywateli z kilkudziesięciu państw.",
+      "originalTitle": "Sąd uchylił restrykcje wprowadzone przez Trumpa. Chodzi o wizy dla migrantów",
+      "originalDescription": "Sąd uchylił w piątek pakiet restrykcji imigracyjnych administracji Donalda Trumpa, uznając je za sprzeczne z prawem i motywowane \"nastrojami antyimigracyjnymi\". Ta decyzja wpłynie na proces rozpatrywania wniosków imigracyjnych obywateli z kilkudziesięciu państw."
+    },
+    {
+      "title": "\"Widzę tylko pedał gazu. Nie mamy hamulca\"",
+      "link": "https://tvn24.pl/biznes/tech/wspolzalozyciel-anthropic-o-ai-widze-tylko-pedal-gazu-nie-mamy-hamulca-st9082856?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 20:08:13 GMT",
+      "description": "Kierownictwo firmy Anthropic ostrzegło, że modele sztucznej inteligencji rozwijają się tak szybko, iż wkrótce będą mogły to robić bez pomocy człowieka. Wezwali firmy technologiczne do stosowania zabezpieczeń i monitorowania zachowań AI.",
+      "originalTitle": "\"Widzę tylko pedał gazu. Nie mamy hamulca\"",
+      "originalDescription": "Kierownictwo firmy Anthropic ostrzegło, że modele sztucznej inteligencji rozwijają się tak szybko, iż wkrótce będą mogły to robić bez pomocy człowieka. Wezwali firmy technologiczne do stosowania zabezpieczeń i monitorowania zachowań AI."
+    },
+    {
+      "title": "Ogromna kumulacja Eurojackpot. Wysokie wygrane Polaków",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-5-czerwca-2026-roku-jakie-liczby-padly-w-trakcie-losowania-st9082872?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 20:03:13 GMT",
+      "description": "W piątkowym losowaniu Eurojackpot nikt nie wytypował poprawnie wszystkich siedmiu cyfr, natomiast dwóm mieszkańcom Polski udało się zdobyć wygrane trzeciego stopnia. Kumulacja loterii rośnie do 150 milionów złotych. Oto wyniki losowania z 5 czerwca 2026 roku.",
+      "originalTitle": "Ogromna kumulacja Eurojackpot. Wysokie wygrane Polaków",
+      "originalDescription": "W piątkowym losowaniu Eurojackpot nikt nie wytypował poprawnie wszystkich siedmiu cyfr, natomiast dwóm mieszkańcom Polski udało się zdobyć wygrane trzeciego stopnia. Kumulacja loterii rośnie do 150 milionów złotych. Oto wyniki losowania z 5 czerwca 2026 roku."
+    },
+    {
+      "title": "Gdzie jest burza? Wciąż pada i mocno wieje",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-piatek-5-06-od-rana-grzmi-w-czesci-kraju-st9081741?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 05:51:10 GMT",
+      "description": "Gdzie jest burza? Wieczorem w piątek 5.06 przez Polskę wędrują wyładowania atmosferyczne. Towarzyszą im opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Wciąż pada i mocno wieje",
+      "originalDescription": "Gdzie jest burza? Wieczorem w piątek 5.06 przez Polskę wędrują wyładowania atmosferyczne. Towarzyszą im opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Umorzyć zadłużenie z SAFE? Europoseł: musi być pełen konsensus",
+      "link": "https://tvn24.pl/polska/umorzyc-zadluzenie-z-safe-adam-jarubas-musi-byc-pelen-konsensus-st9082839?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 19:23:47 GMT",
+      "description": "Musiałby być pełen konsensus wszystkich państw unijnych - powiedział europoseł PSL Adam Jarubas, odnosząc się do ewentualnego umorzenia części zadłużenia z unijnego programu SAFE. Mówił też o tym, co mogłoby przeszkodzić w osiągnięciu porozumienia. Wspólnie z europosłem KO Michałem Szczerbą komentowali również sprzeciw PiS i prezydenta Karola Nawrockiego wobec unijnego instrumentu.",
+      "originalTitle": "Umorzyć zadłużenie z SAFE? Europoseł: musi być pełen konsensus",
+      "originalDescription": "Musiałby być pełen konsensus wszystkich państw unijnych - powiedział europoseł PSL Adam Jarubas, odnosząc się do ewentualnego umorzenia części zadłużenia z unijnego programu SAFE. Mówił też o tym, co mogłoby przeszkodzić w osiągnięciu porozumienia. Wspólnie z europosłem KO Michałem Szczerbą komentowali również sprzeciw PiS i prezydenta Karola Nawrockiego wobec unijnego instrumentu."
+    },
+    {
+      "title": "Burze. Groźna pogoda, są ostrzeżenia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-ulewy-ostrzezenia-imgw-piatek-5-06-prognoza-zagrozen-na-dlugi-weekend-alarmy-drugiego-stopnia-st9080633?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 04:46:00 GMT",
+      "description": "Piątek to dzień z burzami w części kraju. W mocy do późnych godzin wieczornych pozostają alarmy przed tym zjawiskiem, wydane przez Instytut Meteorologii i Gospodarki Wodnej (IMGW). Sprawdź, gdzie należy uważać na groźną pogodę.",
+      "originalTitle": "Burze. Groźna pogoda, są ostrzeżenia",
+      "originalDescription": "Piątek to dzień z burzami w części kraju. W mocy do późnych godzin wieczornych pozostają alarmy przed tym zjawiskiem, wydane przez Instytut Meteorologii i Gospodarki Wodnej (IMGW). Sprawdź, gdzie należy uważać na groźną pogodę."
+    },
+    {
+      "title": "Tak mieli dostosować szczyt G7 pod Trumpa. Specjalna lista gości i kolacja",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-przyjedzie-na-szczyt-g7-do-francji-bedzie-tez-swiadkiem-walk-mma-st9082823?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 19:08:54 GMT",
+      "description": "Prezydent Stanów Zjednoczonych Donald Trump ma wziąć udział w szczycie G7 we Francji. Portal Politico opisał, że organizatorzy uwzględnili upodobania Trumpa i jego plany.",
+      "originalTitle": "Tak mieli dostosować szczyt G7 pod Trumpa. Specjalna lista gości i kolacja",
+      "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump ma wziąć udział w szczycie G7 we Francji. Portal Politico opisał, że organizatorzy uwzględnili upodobania Trumpa i jego plany."
+    },
+    {
+      "title": "\"Ja ci teraz zagram na woleja\". Lekcja tenisa na antenie",
+      "link": "https://tvn24.pl/polska/wolej-lob-slajs-poznaj-najwazniejsze-terminy-ze-swiata-tenisa-przed-meczem-mai-chwalinskiej-st9082772?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 18:42:20 GMT",
+      "description": "Co to jest wolej, slajs, topspin i dropszot? Na czym polega lob? Gdzie jest linia serwisowa? Dziennikarze TVN24 BiS Jan Niedziałek i Cezary Królak wyjaśnili na antenie pojęcia ze świata tenisa, a nawet przeprowadzili demonstrację.",
+      "originalTitle": "\"Ja ci teraz zagram na woleja\". Lekcja tenisa na antenie",
+      "originalDescription": "Co to jest wolej, slajs, topspin i dropszot? Na czym polega lob? Gdzie jest linia serwisowa? Dziennikarze TVN24 BiS Jan Niedziałek i Cezary Królak wyjaśnili na antenie pojęcia ze świata tenisa, a nawet przeprowadzili demonstrację."
+    },
+    {
+      "title": "Przechwycili 100 tysięcy karaczanów. Największa konfiskata w historii kraju",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/australia-przechwycili-100-tysiecy-karaczanow-najwieksza-konfiskata-w-historii-kraju-st9082811?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 18:36:15 GMT",
+      "description": "Australijskie władze przechwyciły ponad 100 tysięcy egzotycznych karaczanów. Owady były hodowane nielegalnie i są potencjalnym zagrożeniem dla rodzimych gatunków zwierząt. Wartość konfiskaty sięga 200 tysięcy dolarów australijskich.",
+      "originalTitle": "Przechwycili 100 tysięcy karaczanów. Największa konfiskata w historii kraju",
+      "originalDescription": "Australijskie władze przechwyciły ponad 100 tysięcy egzotycznych karaczanów. Owady były hodowane nielegalnie i są potencjalnym zagrożeniem dla rodzimych gatunków zwierząt. Wartość konfiskaty sięga 200 tysięcy dolarów australijskich."
+    },
+    {
+      "title": "AI wprost pożera otoczenie. Niepokojący raport",
+      "link": "https://tvn24.pl/biznes/tech/raport-uniwersytetu-narodow-zjednoczonych-ai-zuzyje-tyle-wody-do-2030-r-co-1-3-mld-osob-st9082744?source=rss",
+      "pubDate": "Fri, 05 Jun 2026 18:15:06 GMT",
+      "description": "Centra danych obsługujące sztuczną inteligencję będą do 2030 roku zużywać tyle wody, ile wynoszą roczne potrzeby domowe 1,3 miliarda ludzi. Zapotrzebowanie obiektów na energię elektryczną potroi się - wynika z raportu naukowców z Uniwersytetu Narodów Zjednoczonych (UNU). A to tylko część kosztów środowiskowych.",
+      "originalTitle": "AI wprost pożera otoczenie. Niepokojący raport",
+      "originalDescription": "Centra danych obsługujące sztuczną inteligencję będą do 2030 roku zużywać tyle wody, ile wynoszą roczne potrzeby domowe 1,3 miliarda ludzi. Zapotrzebowanie obiektów na energię elektryczną potroi się - wynika z raportu naukowców z Uniwersytetu Narodów Zjednoczonych (UNU). A to tylko część kosztów środowiskowych."
+    }
+  ]
 }
