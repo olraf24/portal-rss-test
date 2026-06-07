@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-07T21:32:18.036Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-07T22:26:40.089Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zełenski w Londynie. \"Europa musi brać udział w negocjacjach\"",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-w-londynie-europa-musi-brac-udzial-w-negocjacjach-st9084945?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 19:52:15 GMT",
+      "description": "W Londynie trwa spotkanie prezydenta Wołodymyra Zełenskiego z przywódcami Wielkiej Brytanii, Francji i Niemiec - Keirem Starmerem, Emmanuelem Macronem i Friedrichem Merzem.",
+      "originalTitle": "Zełenski w Londynie. \"Europa musi brać udział w negocjacjach\"",
+      "originalDescription": "W Londynie trwa spotkanie prezydenta Wołodymyra Zełenskiego z przywódcami Wielkiej Brytanii, Francji i Niemiec - Keirem Starmerem, Emmanuelem Macronem i Friedrichem Merzem."
+    },
+    {
+      "title": "Ryzyko podtopień po ulewach. IMGW alarmuje",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-niedziela-7-06-ostrzezenia-hydrologiczne-imgw-burze-moga-powodowac-podtopienia-st9084258?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 09:10:02 GMT",
+      "description": "W niedzielę w wielu rejonach Polski grzmiało. Wyładowaniom towarzyszyły opady deszczu, miejscami ulewne, które powodowały gwałtowne wzrosty poziomu wody. W związku z nimi Instytut Meteorologii i Gospodarki Wodnej wydał alarmy hydrologiczne.",
+      "originalTitle": "Ryzyko podtopień po ulewach. IMGW alarmuje",
+      "originalDescription": "W niedzielę w wielu rejonach Polski grzmiało. Wyładowaniom towarzyszyły opady deszczu, miejscami ulewne, które powodowały gwałtowne wzrosty poziomu wody. W związku z nimi Instytut Meteorologii i Gospodarki Wodnej wydał alarmy hydrologiczne."
+    },
+    {
+      "title": "Wybory w Kosowie. Są wyniki exit poll",
+      "link": "https://tvn24.pl/swiat/wybory-w-kosowie-sa-wyniki-exit-poll-na-pierwszym-miejscu-partia-samostanowienie-albina-kurtiego-st9084918?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 19:33:51 GMT",
+      "description": "Partia obecnego szefa rządu Albina Kurtiego wygrała niedzielne wybory parlamentarne w Kosowie. Uzyskała jednak gorszy wynik niż w poprzednim głosowaniu, w grudniu ubiegłego roku. Wybory odbyły się przed terminem, bo parlament nie wybrał prezydenta.",
+      "originalTitle": "Wybory w Kosowie. Są wyniki exit poll",
+      "originalDescription": "Partia obecnego szefa rządu Albina Kurtiego wygrała niedzielne wybory parlamentarne w Kosowie. Uzyskała jednak gorszy wynik niż w poprzednim głosowaniu, w grudniu ubiegłego roku. Wybory odbyły się przed terminem, bo parlament nie wybrał prezydenta."
+    },
+    {
+      "title": "Burze. Tutaj IMGW ostrzega do późnego wieczora",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-moga-pojawic-sie-burze-alarmy-imgw-przed-burzami-niebezpiecznie-w-niedziele-7-06-prognoza-zagrozen-imgw-st9083010?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 04:28:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wciąż ostrzega przed burzami w części kraju. Sprawdź, gdzie może być niebezpiecznie aż do późnego wieczora.",
+      "originalTitle": "Burze. Tutaj IMGW ostrzega do późnego wieczora",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wciąż ostrzega przed burzami w części kraju. Sprawdź, gdzie może być niebezpiecznie aż do późnego wieczora."
+    },
+    {
+      "title": "Noc z deszczem w części kraju. W poniedziałek popada i zagrzmi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-noc-z-deszczem-w-czesci-kraju-w-poniedzialek-popada-i-zagrzmi-st9084863?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 18:43:07 GMT",
+      "description": "W nocy i poniedziałek przez Polskę wciąż będzie wędrować strefa opadów, która w niedzielę przyniosła deszcz i burze w wielu rejonach kraju. Zapoznaj się z prognozą naszego synoptyka i zobacz na mapach, gdzie lepiej nie zapomnieć ze sobą parasola.",
+      "originalTitle": "Noc z deszczem w części kraju. W poniedziałek popada i zagrzmi",
+      "originalDescription": "W nocy i poniedziałek przez Polskę wciąż będzie wędrować strefa opadów, która w niedzielę przyniosła deszcz i burze w wielu rejonach kraju. Zapoznaj się z prognozą naszego synoptyka i zobacz na mapach, gdzie lepiej nie zapomnieć ze sobą parasola."
+    },
+    {
+      "title": "Tomczyk pokazał dokument. \"Głęboka hipokryzja\" Błaszczaka",
+      "link": "https://tvn24.pl/polska/cezary-tomczyk-pokazal-dokument-gleboka-hipokryzja-mariusza-blaszczaka-st9084868?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 18:30:50 GMT",
+      "description": "Mariusz Błaszczak po tym reportażu powinien wycofać się z życia publicznego - mówił wiceminister obrony narodowej Cezary Tomczyk, komentując ustalenia \"Czarno na białym\" na temat zakupów dokonywanych przez MON za rządów PiS. Tomczyk \"głęboką hipokryzją\" określił krytykę programu SAFE ze strony PiS i Błaszczaka.",
+      "originalTitle": "Tomczyk pokazał dokument. \"Głęboka hipokryzja\" Błaszczaka",
+      "originalDescription": "Mariusz Błaszczak po tym reportażu powinien wycofać się z życia publicznego - mówił wiceminister obrony narodowej Cezary Tomczyk, komentując ustalenia \"Czarno na białym\" na temat zakupów dokonywanych przez MON za rządów PiS. Tomczyk \"głęboką hipokryzją\" określił krytykę programu SAFE ze strony PiS i Błaszczaka."
+    },
+    {
+      "title": "Gdzie jest burza? Tu wieczorem wciąż słychać grzmoty",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-gdzie-jest-burza-niedziela-7-06-radar-opadow-i-mapa-burz-na-zywo-st9084121?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 08:22:08 GMT",
+      "description": "Gdzie jest burza? W niedzielę 7.06 pod wieczór w części Polski nadal grzmi. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu wieczorem wciąż słychać grzmoty",
+      "originalDescription": "Gdzie jest burza? W niedzielę 7.06 pod wieczór w części Polski nadal grzmi. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Wysłał zdjęcie do rodziny i kontakt się urwał. Znaleźli jego ciało",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/slowacja-tatry-zginal-polski-turysta-wyslal-zdjecie-do-rodziny-i-kontakt-sie-urwal-znalezli-jego-cialo-st9084833?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 16:46:35 GMT",
+      "description": "Słowaccy ratownicy górscy znaleźli w niedzielę ciało polskiego taternika. Kontakt z mężczyzną urwał się w sobotę. Według informacji ratowników mężczyzna spadł z dużej wysokości.",
+      "originalTitle": "Wysłał zdjęcie do rodziny i kontakt się urwał. Znaleźli jego ciało",
+      "originalDescription": "Słowaccy ratownicy górscy znaleźli w niedzielę ciało polskiego taternika. Kontakt z mężczyzną urwał się w sobotę. Według informacji ratowników mężczyzna spadł z dużej wysokości."
+    },
+    {
+      "title": "Czarnek chce dymisji rządu po słowach wiceministra o UPA",
+      "link": "https://tvn24.pl/polska/przemyslaw-czarnek-chce-dymisji-rzadu-donalda-tuska-chodzi-o-slowa-andrzeja-szeptyckiego-o-upa-i-zolnierzach-niezlomnych-st9084785?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 16:14:01 GMT",
+      "description": "Poseł PiS Przemysław Czarnek zażądał w niedzielę dymisji rządu Donalda Tuska. Powodem były słowa wiceministra nauki Andrzeja Szeptyckiego, który w wywiadzie radiowym określił członków UPA jako \"trochę takich ukraińskich żołnierzy niezłomnych\".",
+      "originalTitle": "Czarnek chce dymisji rządu po słowach wiceministra o UPA",
+      "originalDescription": "Poseł PiS Przemysław Czarnek zażądał w niedzielę dymisji rządu Donalda Tuska. Powodem były słowa wiceministra nauki Andrzeja Szeptyckiego, który w wywiadzie radiowym określił członków UPA jako \"trochę takich ukraińskich żołnierzy niezłomnych\"."
+    },
+    {
+      "title": "Trzęsienie ziemi w Grecji. Zniszczenia na zdjęciach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-grecji-odnotowano-kilka-wstrzasow-st9084403?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 11:04:27 GMT",
+      "description": "Trzęsienie ziemi nawiedziło w niedzielę grecką wyspę Eubea w zachodniej części Morza Egejskiego. Odnotowano trzy silniejsze wstrząsy oraz szereg słabszych wstrząsów wtórnych. Na zdjęciach widać poważne zniszczenia budynków mieszkalnych.",
+      "originalTitle": "Trzęsienie ziemi w Grecji. Zniszczenia na zdjęciach",
+      "originalDescription": "Trzęsienie ziemi nawiedziło w niedzielę grecką wyspę Eubea w zachodniej części Morza Egejskiego. Odnotowano trzy silniejsze wstrząsy oraz szereg słabszych wstrząsów wtórnych. Na zdjęciach widać poważne zniszczenia budynków mieszkalnych."
+    }
+  ]
 }
