@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-07T13:36:02.498Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-07T14:39:20.431Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Powroty z długiego weekendu, spory ruch na głównych trasach",
+      "link": "https://tvn24.pl/katowice/powroty-z-dlugiego-weekendu-spory-ruch-na-glownych-trasach-st9084689?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 14:18:37 GMT",
+      "description": "Utrudnienia na autostradach i drogach ekspresowych - choć nie wszędzie są korki, to w wielu miejscach ruch jest spowolniony. Obecnie zablokowana jest autostrada A1 na granicy powiatu lublinieckiego i Częstochowy.",
+      "originalTitle": "Powroty z długiego weekendu, spory ruch na głównych trasach",
+      "originalDescription": "Utrudnienia na autostradach i drogach ekspresowych - choć nie wszędzie są korki, to w wielu miejscach ruch jest spowolniony. Obecnie zablokowana jest autostrada A1 na granicy powiatu lublinieckiego i Częstochowy."
+    },
+    {
+      "title": "Zatrzymali podejrzanego o zabójstwo młodej kobiety",
+      "link": "https://tvn24.pl/lublin/biala-podlaska-zatrzymali-podejrzanego-o-zabojstwo-kobiety-st9084772?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 14:17:54 GMT",
+      "description": "Policja zatrzymała mężczyznę podejrzanego o zabójstwo młodej kobiety w Białej Podlaskiej. Prokuratura zapowiada wniosek o areszt.",
+      "originalTitle": "Zatrzymali podejrzanego o zabójstwo młodej kobiety",
+      "originalDescription": "Policja zatrzymała mężczyznę podejrzanego o zabójstwo młodej kobiety w Białej Podlaskiej. Prokuratura zapowiada wniosek o areszt."
+    },
+    {
+      "title": "Czy istnieją dobrzy miliarderzy?",
+      "link": "https://tvn24.pl/swiat/bill-gates-rozdaje-miliardy-tim-schwab-autor-ksiazki-problem-z-billem-gatesem-o-filantropii-miliarderow-st9077942?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 14:01:28 GMT",
+      "description": "Filantropia miliarderów jest sposobem na to, by superbogaci mogli sprawować niedemokratyczną, oligarchiczną władzę - przekonuje w rozmowie z TVN24+ Tim Schwab, autor głośnej książki \"Problem z Billem Gatesem. Rozliczenie z mitem dobrego miliardera\".",
+      "originalTitle": "Czy istnieją dobrzy miliarderzy?",
+      "originalDescription": "Filantropia miliarderów jest sposobem na to, by superbogaci mogli sprawować niedemokratyczną, oligarchiczną władzę - przekonuje w rozmowie z TVN24+ Tim Schwab, autor głośnej książki \"Problem z Billem Gatesem. Rozliczenie z mitem dobrego miliardera\"."
+    },
+    {
+      "title": "Gdzie jest burza? Deszcz się nasila",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-gdzie-jest-burza-niedziela-7-06-radar-opadow-i-mapa-burz-na-zywo-st9084121?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 08:22:08 GMT",
+      "description": "Gdzie jest burza? W niedzielę 7.06 grzmi w wielu rejonach Polski. Wyładowaniom towarzyszą opady deszczu i silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Deszcz się nasila",
+      "originalDescription": "Gdzie jest burza? W niedzielę 7.06 grzmi w wielu rejonach Polski. Wyładowaniom towarzyszą opady deszczu i silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Burze. IMGW ostrzega w 10 województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-moga-pojawic-sie-burze-alarmy-imgw-przed-burzami-niebezpiecznie-w-niedziele-7-06-prognoza-zagrozen-imgw-st9083010?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 04:28:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niedzielnymi burzami z silnym deszczem i wiatrem. Alarmy obowiązują w 10 województwach. Sprawdź, gdzie uważać na groźną pogodę.",
+      "originalTitle": "Burze. IMGW ostrzega w 10 województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed niedzielnymi burzami z silnym deszczem i wiatrem. Alarmy obowiązują w 10 województwach. Sprawdź, gdzie uważać na groźną pogodę."
+    },
+    {
+      "title": "Krzysztof Zanussi miał wypadek. Złamał rękę i kość czaszki",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/w-toruniu-krzysztof-zanussi-mial-wypadek-na-planie-filmu-calopalenie-st9084495?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 13:09:05 GMT",
+      "description": "Krzysztof Zanussi podczas zdjęć do swojego najnowszego filmu spadł ze schodów i trafił do szpitala. \"Reżyserowałem ze szpitalnego łóżka\" - powiedział w opublikowanym na Facebooku nagraniu. Ma złamaną rękę i kość czaszki.",
+      "originalTitle": "Krzysztof Zanussi miał wypadek. Złamał rękę i kość czaszki",
+      "originalDescription": "Krzysztof Zanussi podczas zdjęć do swojego najnowszego filmu spadł ze schodów i trafił do szpitala. \"Reżyserowałem ze szpitalnego łóżka\" - powiedział w opublikowanym na Facebooku nagraniu. Ma złamaną rękę i kość czaszki."
+    },
+    {
+      "title": "Sypnęło gradem. Burzowa niedziela na zdjęciach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-niedziela-7-06-grad-na-pomorzu-zdjecia-st9084475?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 13:01:02 GMT",
+      "description": "Burze w Polsce w niedzielę przynoszą opady gradu. W wielu regionach kraju grzmi i mocno wieje wiatr. To, jakie zjawiska towarzyszą wyładowaniom, można zobaczyć na zdjęciach.",
+      "originalTitle": "Sypnęło gradem. Burzowa niedziela na zdjęciach",
+      "originalDescription": "Burze w Polsce w niedzielę przynoszą opady gradu. W wielu regionach kraju grzmi i mocno wieje wiatr. To, jakie zjawiska towarzyszą wyładowaniom, można zobaczyć na zdjęciach."
+    },
+    {
+      "title": "Drugi dzień pielgrzymki Leona XIV do Hiszpanii. Papież przemówił do wiernych w Madrycie",
+      "link": "https://tvn24.pl/swiat/papiez-leon-xiv-na-pielgrzymce-w-hiszpanii-papiez-przemowil-do-wiernych-w-madrycie-podczas-uroczystosci-bozego-ciala-st9084488?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 12:37:11 GMT",
+      "description": "Papież wziął udział w mszy i procesji w Madrycie z okazji święta Bożego Ciała. Leon XIV wezwał Hiszpanów, aby ich religijność \"nie była muzeum przeszłości, które się zwiedza, lecz szkołą wiary, z której także dzisiaj można czerpać\".",
+      "originalTitle": "Drugi dzień pielgrzymki Leona XIV do Hiszpanii. Papież przemówił do wiernych w Madrycie",
+      "originalDescription": "Papież wziął udział w mszy i procesji w Madrycie z okazji święta Bożego Ciała. Leon XIV wezwał Hiszpanów, aby ich religijność \"nie była muzeum przeszłości, które się zwiedza, lecz szkołą wiary, z której także dzisiaj można czerpać\"."
+    },
+    {
+      "title": "Żołnierz zginął, jadąc motocyklem. Uderzył w krzyż",
+      "link": "https://tvn24.pl/polska/strzyzow-zolnierz-zginal-jadac-motocyklem-uderzyl-w-krzyz-st9084404?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 12:21:03 GMT",
+      "description": "Zginął żołnierz z 41. bazy Lotnictwa Szkolnego w Dęblinie. Mężczyzna miał wypadek na motocyklu",
+      "originalTitle": "Żołnierz zginął, jadąc motocyklem. Uderzył w krzyż",
+      "originalDescription": "Zginął żołnierz z 41. bazy Lotnictwa Szkolnego w Dęblinie. Mężczyzna miał wypadek na motocyklu"
+    },
+    {
+      "title": "Odbudowa za pieniądze Iranu. USA chcą rozdać zamrożone aktywa",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wojna-usa-iran-odbudowa-za-iranskie-pieniadze-stany-zjednoczone-chca-rozdac-zamrozone-aktywa-st9084449?source=rss",
+      "pubDate": "Sun, 07 Jun 2026 12:01:21 GMT",
+      "description": "Stany Zjednoczone planują przekazać zamrożone aktywa Iranu państwom Zatoki Perskiej w celu sfinansowania odbudowy i naprawy zniszczeń wojennych - przekazał Reuters. Informacja ta pojawiła się kilka dni po ostatnich atakach Iranu na Bahrajn oraz Kuwejt, w których zginęła jedna osoba, a kilkadziesiąt zostało rannych.",
+      "originalTitle": "Odbudowa za pieniądze Iranu. USA chcą rozdać zamrożone aktywa",
+      "originalDescription": "Stany Zjednoczone planują przekazać zamrożone aktywa Iranu państwom Zatoki Perskiej w celu sfinansowania odbudowy i naprawy zniszczeń wojennych - przekazał Reuters. Informacja ta pojawiła się kilka dni po ostatnich atakach Iranu na Bahrajn oraz Kuwejt, w których zginęła jedna osoba, a kilkadziesiąt zostało rannych."
+    }
+  ]
 }
