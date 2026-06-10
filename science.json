@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2026-06-10T11:18:23.284Z",
+  "lastUpdate": "2026-06-10T12:37:31.206Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "AI wchodzi do laboratorium. Sztuczna inteligencja vs. naukowcy",
+      "link": "https://dzienniknaukowy.pl/ai-wchodzi-do-laboratorium-sztuczna-inteligencja-vs-naukowcy",
+      "pubDate": "Wed, 10 Jun 2026 12:02:47 +0000",
+      "description": "Generatywna sztuczna inteligencja coraz mocniej zaznacza swoją obecność w świecie nauki. Pomaga przygotowywać publikacje, analizować dane i tworzyć materiały dydaktyczne. Jednocześnie środowisko akademickie coraz wyraźniej definiuje granice, których AI nie powinna przekraczać – szczególnie tam, gdzie chodzi o odpowiedzialność, etykę i ocenę jakości badań. Takie wnioski wyciągnęli badacze z Ośrodka Przetwarzania Informacji – Państwowego Instytutu Badawczego (OPI), którzy razem z partnerami z Polski, Hiszpanii i Portugalii realizują badanie AIResearchers, współfinansowane ze środków UE z programu Erasmus+."
+    },
+    {
+      "title": "Na Podlasiu odkryto pozostałości napojów alkoholowych w naczyniach sprzed 4,5 tys. lat",
+      "link": "https://dzienniknaukowy.pl/na-podlasiu-odkryto-pozostalosci-napojow-alkoholowych-w-naczyniach-sprzed-45-tys-lat",
+      "pubDate": "Wed, 10 Jun 2026 11:53:23 +0000",
+      "description": "Ślady sfermentowanych napojów alkoholowych przypominających piwo lub tzw. nordic grog zidentyfikowali naukowcy UW i PŁ w naczyniach ceramicznych sprzed 4,5 tys. lat, które odkryto na Podlasiu. To najwcześniejsze ślady chemiczne sfermentowanych napojów alkoholowych w tym regionie."
+    },
+    {
+      "title": "Dzień Pluszowego Misia w szkole &#8211; jak połączyć dobrą zabawę z nauką o emocjach i empatii?",
+      "link": "https://dzienniknaukowy.pl/dzien-pluszowego-misia-w-szkole-jak-polaczyc-dobra-zabawe-z-nauka-o-emocjach-i-empatii",
+      "pubDate": "Wed, 10 Jun 2026 10:08:00 +0000",
+      "description": "Dzień Pluszowego Misia to nie tylko sympatyczne święto znane dzieciom na całym świecie, ale również realne narzędzie edukacyjne wykorzystywane w szkołach. Dzień ten daje nauczycielom możliwość połączenia zabawy z rozwijaniem kompetencji społecznych, takich jak empatia, komunikacja i rozumienie emocji. W praktyce coraz więcej placówek traktuje ten dzień jako element świadomej edukacji emocjonalnej."
+    },
     {
       "title": "Zmiany w czterech genach pomogły śledziowi opanować Bałtyk",
       "link": "https://dzienniknaukowy.pl/zmiany-w-czterech-genach-pomogly-sledziowi-opanowac-baltyk",
@@ -44,24 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-odkrywaja-nieznane-dotad-umiejetnosci-bakteriofagow",
       "pubDate": "Tue, 02 Jun 2026 10:05:14 +0000",
       "description": "Bakteriofagi, czyli wirusy infekujące bakterie, posługują się znacznie bogatszym zestawem narzędzi niż dotąd sądzono. Badacze z MCB UJ odkryli białka fagów, które w nieznany dotąd sposób potrafią pokonać pancerz ochronny bakterii i zniszczyć ją. Każdy taki mechanizm to potencjalnie nowe narzędzie terapeutyczne."
-    },
-    {
-      "title": "Koniec zgadywania przy projektowaniu leków. ICTER pokazuje nową drogę",
-      "link": "https://dzienniknaukowy.pl/koniec-zgadywania-przy-projektowaniu-lekow-icter-pokazuje-nowa-droge",
-      "pubDate": "Tue, 02 Jun 2026 09:53:52 +0000",
-      "description": "Tworzenie nowych leków wciąż zbyt często przypomina kosztowną zgadywankę. Naukowcy z ICTER pokazują, że można to robić inaczej – budując cząsteczki krok po kroku i obserwując ich działanie z dokładnością do pojedynczych atomów. To podejście może znacząco przyspieszyć powstawanie terapii i ograniczyć działania niepożądane."
-    },
-    {
-      "title": "Ekspert: w alergii krzyżowej są objawy, których pacjent nie łączy z alergią",
-      "link": "https://dzienniknaukowy.pl/ekspert-w-alergii-krzyzowej-sa-objawy-ktorych-pacjent-nie-laczy-z-alergia",
-      "pubDate": "Fri, 29 May 2026 12:24:47 +0000",
-      "description": "Alergie krzyżowe to złożone zjawisko immunologiczne, które coraz częściej diagnozowane jest u pacjentów zgłaszających objawy alergii sezonowej i pokarmowej. Kluczową w nich rolę odgrywa podobieństwo białek występujących w różnych produktach – ocenił ekspert alergolog dr Robert Pawłowicz"
-    },
-    {
-      "title": "Obraz kliniczny odczynów poprzetoczeniowych",
-      "link": "https://dzienniknaukowy.pl/obraz-kliniczny-odczynow-poprzetoczeniowych",
-      "pubDate": "Fri, 29 May 2026 12:05:42 +0000",
-      "description": "Odczyny poprzetoczeniowe stanowią grupę niepożądanych reakcji, które mogą wystąpić u pacjenta w trakcie lub po przetoczeniu krwi i jej składników, takich jak osocze lub płytki krwi. Są wynikiem odpowiedzi układu immunologicznego, która wiąże się z różnicą genetyczną między przetaczanym składnikiem a tkankami ustroju biorcy lub z reakcją o charakterze zapalnym."
     }
   ]
 }
