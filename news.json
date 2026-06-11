@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-11T17:44:40.502Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-11T19:03:56.063Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Weterani nie będą płacić w stolicy za przejazdy komunikacją miejską",
+      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-weterani-nie-beda-placic-w-stolicy-za-korzystanie-z-komunikacji-miejskiej-st9091697?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 18:50:32 GMT",
+      "description": "Stołeczni radni przegłosowali nowe przepisy przyznające weteranom uprawnienia do bezpłatnych przejazdów komunikacją miejską.",
+      "originalTitle": "Weterani nie będą płacić w stolicy za przejazdy komunikacją miejską",
+      "originalDescription": "Stołeczni radni przegłosowali nowe przepisy przyznające weteranom uprawnienia do bezpłatnych przejazdów komunikacją miejską."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi w dwóch regionach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-czwartek-11-06-w-tych-regionach-jest-niebezpiecznie-st9090139?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 05:33:14 GMT",
+      "description": "Gdzie jest burza? W czwartek 11.06 grzmi w części Polski. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi w dwóch regionach",
+      "originalDescription": "Gdzie jest burza? W czwartek 11.06 grzmi w części Polski. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Pasożyty, choroby weneryczne, rasa i narodowość. Język nienawiści kwitnie",
+      "link": "https://tvn24.pl/fakty-artykuly/jezyk-nienawisci-w-sejmie-i-polityce-taki-przyklad-daja-politycy-st9091642?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 18:33:22 GMT",
+      "description": "W publicznej debacie i w polskim Sejmie, na sali plenarnej, z mównicy padają słowa, które mają silne brunatne zabarwienie. Jakub Sobieniowski zebrał przykłady z ostatnich dni - jak wypowiedzi Grzegorza Brauna, ale nie tylko. Padają też mocne ostrzeżenia. \"Najgorsze katastrofy zaczęły się od słów\" - powiedział w środę premier Donald Tusk do polityków opozycji.",
+      "originalTitle": "Pasożyty, choroby weneryczne, rasa i narodowość. Język nienawiści kwitnie",
+      "originalDescription": "W publicznej debacie i w polskim Sejmie, na sali plenarnej, z mównicy padają słowa, które mają silne brunatne zabarwienie. Jakub Sobieniowski zebrał przykłady z ostatnich dni - jak wypowiedzi Grzegorza Brauna, ale nie tylko. Padają też mocne ostrzeżenia. \"Najgorsze katastrofy zaczęły się od słów\" - powiedział w środę premier Donald Tusk do polityków opozycji."
+    },
+    {
+      "title": "Nowy szef KRS: liczę na to, że to początek zmian",
+      "link": "https://tvn24.pl/polska/nowy-szef-krs-dariusz-zawistowski-licze-na-to-ze-to-poczatek-zmian-na-ktore-wszyscy-czekali-st9091682?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 18:32:10 GMT",
+      "description": "To jest bardzo ważny moment dla wszystkich sędziów w Polsce, bo liczę na to, że to jest początek pewnych zmian, na które wszyscy czekali - mówił w \"Faktach po Faktach w TVN24 sędzia Dariusz Zawistowski, który został nowym przewodniczącym Krajowej Rady Sądownictwa. Wyraził przekonanie, że KRS \"będzie uznawana za niezależny organ\".",
+      "originalTitle": "Nowy szef KRS: liczę na to, że to początek zmian",
+      "originalDescription": "To jest bardzo ważny moment dla wszystkich sędziów w Polsce, bo liczę na to, że to jest początek pewnych zmian, na które wszyscy czekali - mówił w \"Faktach po Faktach w TVN24 sędzia Dariusz Zawistowski, który został nowym przewodniczącym Krajowej Rady Sądownictwa. Wyraził przekonanie, że KRS \"będzie uznawana za niezależny organ\"."
+    },
+    {
+      "title": "Nadeszło El Nino. Co to dla nas oznacza",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/zjawisko-el-nino-nadeszlo-el-nino-co-to-dla-nas-oznacza-st9091607?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 18:14:29 GMT",
+      "description": "Temperatura wód powierzchniowych Pacyfiku wzrosła powyżej normy, co oznacza, że rozpoczęło się El Nino. Ta anomalia pogodowa może mocno podgrzać naszą planetę.",
+      "originalTitle": "Nadeszło El Nino. Co to dla nas oznacza",
+      "originalDescription": "Temperatura wód powierzchniowych Pacyfiku wzrosła powyżej normy, co oznacza, że rozpoczęło się El Nino. Ta anomalia pogodowa może mocno podgrzać naszą planetę."
+    },
+    {
+      "title": "Śmiertelny wypadek. Auto uderzyło w drzewo, zginął kierowca",
+      "link": "https://tvn24.pl/poznan/slupca-smiertelny-wypadek-auto-uderzylo-w-drzewo-kierowca-zginal-st9091674?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 18:06:11 GMT",
+      "description": "Śmiertelny wypadek na drodze wojewódzkiej 260 w Kokczynie w powiecie słupeckim. Samochód osobowy uderzył w drzewo. Na miejscu lądował śmigłowiec Lotniczego Pogotowia Ratunkowego.",
+      "originalTitle": "Śmiertelny wypadek. Auto uderzyło w drzewo, zginął kierowca",
+      "originalDescription": "Śmiertelny wypadek na drodze wojewódzkiej 260 w Kokczynie w powiecie słupeckim. Samochód osobowy uderzył w drzewo. Na miejscu lądował śmigłowiec Lotniczego Pogotowia Ratunkowego."
+    },
+    {
+      "title": "Trump odwołuje ataki. Zapowiada podpisanie porozumienia",
+      "link": "https://tvn24.pl/swiat/donald-trump-odwoluje-ataki-na-iran-zapowiada-porozumienie-z-teheranem-st9091303?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 13:50:42 GMT",
+      "description": "Prezydent Stanów Zjednoczonych Donald Trump odwołał zaplanowany na czwartek atak na Iran. Wcześniej groził \"bardzo mocnym\" uderzeniem i przejęciem kontroli nad wyspą Chark.",
+      "originalTitle": "Trump odwołuje ataki. Zapowiada podpisanie porozumienia",
+      "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump odwołał zaplanowany na czwartek atak na Iran. Wcześniej groził \"bardzo mocnym\" uderzeniem i przejęciem kontroli nad wyspą Chark."
+    },
+    {
+      "title": "Ustawa o przedawnieniach podatkowych. Jest weto",
+      "link": "https://tvn24.pl/biznes/z-kraju/ustawa-o-przedawnieniach-podatkowych-prezydent-zawetowal-projekt-st9091562?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 17:45:58 GMT",
+      "description": "Prezydent Karol Nawrocki zawetował w czwartek ustawę dotyczącą przedawnienia zobowiązań podatkowych. Jak zaznaczył, projekt przewidywał wprowadzenie instrumentów pozwalających organom państwa dochodzić roszczeń podatkowych po wielu latach, bez faktycznego ograniczenia czasowego.",
+      "originalTitle": "Ustawa o przedawnieniach podatkowych. Jest weto",
+      "originalDescription": "Prezydent Karol Nawrocki zawetował w czwartek ustawę dotyczącą przedawnienia zobowiązań podatkowych. Jak zaznaczył, projekt przewidywał wprowadzenie instrumentów pozwalających organom państwa dochodzić roszczeń podatkowych po wielu latach, bez faktycznego ograniczenia czasowego."
+    },
+    {
+      "title": "Legendy kina w końcu ze statuetkami. \"Za wyjątkowy wkład\"",
+      "link": "https://tvn24.pl/kultura-i-styl/legendy-kina-w-koncu-ze-statuetkami-za-wyjatkowy-wklad-st9091484?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 17:43:11 GMT",
+      "description": "Amerykańska Akademia Sztuki i Wiedzy Filmowej ogłosiła tegorocznych laureatów honorowych Oscarów. Trafią one do dwóch wielkich legend kina: aktorki Glenn Close i reżysera Ridleya Scotta, a także do Floyda Normana - pierwszego czarnoskórego animatora w historii Disneya.",
+      "originalTitle": "Legendy kina w końcu ze statuetkami. \"Za wyjątkowy wkład\"",
+      "originalDescription": "Amerykańska Akademia Sztuki i Wiedzy Filmowej ogłosiła tegorocznych laureatów honorowych Oscarów. Trafią one do dwóch wielkich legend kina: aktorki Glenn Close i reżysera Ridleya Scotta, a także do Floyda Normana - pierwszego czarnoskórego animatora w historii Disneya."
+    },
+    {
+      "title": "Zaatakował mężczyznę na ulicy, w restauracji rzucał krzesłami i butelkami. Szukają pokrzywdzonych",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-srodmiescie-zaatakowal-mezczyzne-na-ulicy-w-restauracji-rzucal-krzeslami-i-butelkami-szukaja-pokrzywdzonych-st9091630?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 17:36:58 GMT",
+      "description": "Policjanci ze Śródmieścia zatrzymali agresywnego 23-latka, który zaatakował na ulicy nieznanego mu mężczyznę, a następnie wszedł do restauracji i rzucał krzesłami oraz butelkami w obsługę. Napastnik był pijany. Funkcjonariusze szukają innych osób, które mogły zostać pokrzywdzone przez podejrzanego.",
+      "originalTitle": "Zaatakował mężczyznę na ulicy, w restauracji rzucał krzesłami i butelkami. Szukają pokrzywdzonych",
+      "originalDescription": "Policjanci ze Śródmieścia zatrzymali agresywnego 23-latka, który zaatakował na ulicy nieznanego mu mężczyznę, a następnie wszedł do restauracji i rzucał krzesłami oraz butelkami w obsługę. Napastnik był pijany. Funkcjonariusze szukają innych osób, które mogły zostać pokrzywdzone przez podejrzanego."
+    }
+  ]
 }
