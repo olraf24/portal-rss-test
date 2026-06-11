@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-06-11T09:34:18.474Z",
+  "lastUpdate": "2026-06-11T11:35:08.355Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Zaobserwowano jedną z najszybszych przemian promieniotwórczych alfa",
+      "link": "https://dzienniknaukowy.pl/zaobserwowano-jedna-z-najszybszych-przemian-promieniotworczych-alfa",
+      "pubDate": "Thu, 11 Jun 2026 11:32:37 +0000",
+      "description": "Międzynarodowy zespół naukowców z udziałem Aleksandra Augustyna, doktoranta IV roku Szkoły Doktorskiej Narodowego Centrum Badań Jądrowych, po raz pierwszy bezpośrednio zaobserwował wyjątkowo szybką przemianę alfa telluru-104. Wyniki badań, opublikowane w prestiżowym czasopiśmie „Nature”, pokazują, że to nietrwałe jądro atomowe rozpada się w czasie liczonym w nanosekundach. Tellur-104 jest najszybszym znanym emiterem alfa ze stanu podstawowego."
+    },
     {
       "title": "AI wchodzi do laboratorium. Sztuczna inteligencja vs. naukowcy",
       "link": "https://dzienniknaukowy.pl/ai-wchodzi-do-laboratorium-sztuczna-inteligencja-vs-naukowcy",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/substancje-roslinne-w-terapii-zapalenia-zatok-co-mowia-badania",
       "pubDate": "Wed, 03 Jun 2026 14:42:00 +0000",
       "description": "Zapalenie zatok to powszechnie występująca infekcja, która objawia się m.in. bólem głowy, uczuciem zatkanego nosa, zaburzeniami węchu czy gęstą, zalegającą wydzieliną. Leczenie tej dolegliwości obejmuje różne metody łagodzenia objawów, wśród których dużą popularnością cieszą się substancje pochodzenia roślinnego. Czy rzeczywiście są one skuteczne?"
-    },
-    {
-      "title": "Naukowcy odkrywają nieznane dotąd umiejętności bakteriofagów",
-      "link": "https://dzienniknaukowy.pl/naukowcy-odkrywaja-nieznane-dotad-umiejetnosci-bakteriofagow",
-      "pubDate": "Tue, 02 Jun 2026 10:05:14 +0000",
-      "description": "Bakteriofagi, czyli wirusy infekujące bakterie, posługują się znacznie bogatszym zestawem narzędzi niż dotąd sądzono. Badacze z MCB UJ odkryli białka fagów, które w nieznany dotąd sposób potrafią pokonać pancerz ochronny bakterii i zniszczyć ją. Każdy taki mechanizm to potencjalnie nowe narzędzie terapeutyczne."
     }
   ]
 }
