@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-12T03:13:46.045Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-12T05:08:14.247Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dan Jarvis nowym brytyjskim ministrem obrony",
+      "link": "https://tvn24.pl/swiat/dan-jarvis-nowym-brytyjskim-ministrem-obrony-st9091777?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 04:58:05 GMT",
+      "description": "Downing Street ogłosiło w czwartek wieczorem, że Dan Jarvis został nowym brytyjskim ministrem obrony. To efekt niespodziewanej dymisji Johna Healeya, który ogłosił, że rezygnuje ze stanowiska z powodu braku pieniędzy na obronność.",
+      "originalTitle": "Dan Jarvis nowym brytyjskim ministrem obrony",
+      "originalDescription": "Downing Street ogłosiło w czwartek wieczorem, że Dan Jarvis został nowym brytyjskim ministrem obrony. To efekt niespodziewanej dymisji Johna Healeya, który ogłosił, że rezygnuje ze stanowiska z powodu braku pieniędzy na obronność."
+    },
+    {
+      "title": "Padła szóstka w Lotto. Wygrana jest ogromna",
+      "link": "https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-11-czerwca-2026-padla-szostka-ogromna-wygrana-st9091813?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 04:43:23 GMT",
+      "description": "W czwartkowym losowaniu Lotto jeden z graczy poprawnie wytypował wszystkie sześć liczb i wygrał prawie 30 milionów złotych. Z kolei w Lotto Plus nikt nie zdobył głównej nagrody. Oto wyniki losowania z 11 czerwca 2026 roku.",
+      "originalTitle": "Padła szóstka w Lotto. Wygrana jest ogromna",
+      "originalDescription": "W czwartkowym losowaniu Lotto jeden z graczy poprawnie wytypował wszystkie sześć liczb i wygrał prawie 30 milionów złotych. Z kolei w Lotto Plus nikt nie zdobył głównej nagrody. Oto wyniki losowania z 11 czerwca 2026 roku."
+    },
+    {
+      "title": "Zmarł wybitny aktor Janusz Michałowski",
+      "link": "https://tvn24.pl/polska/janusz-michalowski-nie-zyje-aktor-mial-89-lat-st9091804?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 04:39:55 GMT",
+      "description": "W wieku 89 lat zmarł Janusz Michałowski, aktor teatralny i filmowy. Michałowski występował na deskach teatrów w całej Polsce, a także w Teatrze Telewizji. Zagrał też między innymi w \"Seksmisji\".",
+      "originalTitle": "Zmarł wybitny aktor Janusz Michałowski",
+      "originalDescription": "W wieku 89 lat zmarł Janusz Michałowski, aktor teatralny i filmowy. Michałowski występował na deskach teatrów w całej Polsce, a także w Teatrze Telewizji. Zagrał też między innymi w \"Seksmisji\"."
+    },
+    {
+      "title": "Piątek też będzie burzowy. Ostrzeżenia IMGW w sześciu województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-ostrzezenia-imgw-piatek-12-06-wyladowania-silny-deszcz-i-wiatr-tutaj-trzeba-uwazac-st9091811?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 04:38:10 GMT",
+      "description": "Piątek to kolejny burzowy dzień. Instytut Meteorologii i Gospodarki Wodnej wydał alarmy przed wyładowaniami w sześciu województwach. Sprawdź, gdzie może zagrzmieć.",
+      "originalTitle": "Piątek też będzie burzowy. Ostrzeżenia IMGW w sześciu województwach",
+      "originalDescription": "Piątek to kolejny burzowy dzień. Instytut Meteorologii i Gospodarki Wodnej wydał alarmy przed wyładowaniami w sześciu województwach. Sprawdź, gdzie może zagrzmieć."
+    },
+    {
+      "title": "Ceny paliw w piątek. Ile kosztuje paliwo?",
+      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-w-piatek-12-czerwca-za-benzyne-95-zaplacimy-wiecej-a-za-benzyne-98-i-olej-napedowy-mniej-st9091806?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 04:30:54 GMT",
+      "description": "Zgodnie z obwieszczeniem ministra energii Miłosza Motyki w piątek 12 czerwca obowiązują nowe maksymalne ceny paliw. Benzyna 95 jest droższa, natomiast olej napędowy i benzyna 98 tańsza niż w czwartek.",
+      "originalTitle": "Ceny paliw w piątek. Ile kosztuje paliwo?",
+      "originalDescription": "Zgodnie z obwieszczeniem ministra energii Miłosza Motyki w piątek 12 czerwca obowiązują nowe maksymalne ceny paliw. Benzyna 95 jest droższa, natomiast olej napędowy i benzyna 98 tańsza niż w czwartek."
+    },
+    {
+      "title": "Alert NATO na Węgrzech. Samolot nie nawiązał kontaktu",
+      "link": "https://tvn24.pl/swiat/wegry-izraelski-samolot-nie-nawiazal-lacznosci-alarm-nato-poderwano-mysliwce-st9091799?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 03:51:20 GMT",
+      "description": "NATO ogłosiło najwyższy stopień alertu dla węgierskiego wojska po tym, jak samolot izraelskich linii lotniczych nie nawiązał kontaktu z kontrolą ruchu lotniczego - przekazał premier Węgier Peter Magyar.",
+      "originalTitle": "Alert NATO na Węgrzech. Samolot nie nawiązał kontaktu",
+      "originalDescription": "NATO ogłosiło najwyższy stopień alertu dla węgierskiego wojska po tym, jak samolot izraelskich linii lotniczych nie nawiązał kontaktu z kontrolą ruchu lotniczego - przekazał premier Węgier Peter Magyar."
+    },
+    {
+      "title": "Hasło \"8647\" w centrum Waszyngtonu. Służby badają incydent",
+      "link": "https://tvn24.pl/swiat/haslo-8647-uzywane-przez-przeciwnikow-donalda-trumpa-w-centrum-waszyngtonu-sluzby-badaja-incydent-st9091783?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 03:40:12 GMT",
+      "description": "Amerykańska policja prowadzi dochodzenie w sprawie oznaczenia \"8647\" na terenie National Mall w Waszyngtonie - poinformował departament spraw wewnętrznych w oświadczeniu wydanym w czwartek. Termin \"8647\" został przyjęty przez przeciwników prezydenta Donalda Trumpa w ramach protestu przeciwko jego administracji.",
+      "originalTitle": "Hasło \"8647\" w centrum Waszyngtonu. Służby badają incydent",
+      "originalDescription": "Amerykańska policja prowadzi dochodzenie w sprawie oznaczenia \"8647\" na terenie National Mall w Waszyngtonie - poinformował departament spraw wewnętrznych w oświadczeniu wydanym w czwartek. Termin \"8647\" został przyjęty przez przeciwników prezydenta Donalda Trumpa w ramach protestu przeciwko jego administracji."
+    },
+    {
+      "title": "Makabryczne odkrycie pod Rzeszowem, kolejne weto, Trump odwołuje ataki",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-piatek-12-czerwca-najwazniejsze-informacje-st9091794?source=rss",
+      "pubDate": "Fri, 12 Jun 2026 03:21:58 GMT",
+      "description": "W Lutoryżu pod Rzeszowem pracownik budowy miał natknąć się na zakopane w ziemi płody. Informację potwierdziliśmy nieoficjalnie w służbach. W TVN24+ odsłoniliśmy kulisy pracy w Biurze Rzecznika Praw Dziecka. Prezydent Karol Nawrocki po raz kolejny zawetował rządową ustawę o rynku kryptoaktywów. Oto pięć rzeczy, które warto wiedzieć w piątek 12 czerwca.",
+      "originalTitle": "Makabryczne odkrycie pod Rzeszowem, kolejne weto, Trump odwołuje ataki",
+      "originalDescription": "W Lutoryżu pod Rzeszowem pracownik budowy miał natknąć się na zakopane w ziemi płody. Informację potwierdziliśmy nieoficjalnie w służbach. W TVN24+ odsłoniliśmy kulisy pracy w Biurze Rzecznika Praw Dziecka. Prezydent Karol Nawrocki po raz kolejny zawetował rządową ustawę o rynku kryptoaktywów. Oto pięć rzeczy, które warto wiedzieć w piątek 12 czerwca."
+    },
+    {
+      "title": "Wstrząsające odkrycie w miejscowości Lutoryż pod Rzeszowem. Płody zakopane na posesji",
+      "link": "https://tvn24.pl/rzeszow/wstrzasajace-odkrycie-w-miejscowosci-lutoryz-pod-rzeszowem-plody-zakopane-na-posesji-st9091728?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 20:09:00 GMT",
+      "description": "W Lutoryżu pod Rzeszowem dokonano makabrycznego znaleziska. Pracownik budowy miał natknąć się na zakopane w ziemi płody. Informację potwierdziliśmy nieoficjalnie w służbach. Jak wynika z naszych ustaleń, poprzednią właścicielką posesji była patomorfolożka.",
+      "originalTitle": "Wstrząsające odkrycie w miejscowości Lutoryż pod Rzeszowem. Płody zakopane na posesji",
+      "originalDescription": "W Lutoryżu pod Rzeszowem dokonano makabrycznego znaleziska. Pracownik budowy miał natknąć się na zakopane w ziemi płody. Informację potwierdziliśmy nieoficjalnie w służbach. Jak wynika z naszych ustaleń, poprzednią właścicielką posesji była patomorfolożka."
+    },
+    {
+      "title": "Przemysław Czarnek chce szukać Ukraińców w rządzie. \"Lepiej by się zajął szukaniem swojego efektu\"",
+      "link": "https://tvn24.pl/polska/przemyslaw-czarnek-chce-szukac-ukraincow-w-rzadzie-dorota-loboda-lepiej-by-sie-zajal-szukaniem-swojego-efektu-st9091704?source=rss",
+      "pubDate": "Thu, 11 Jun 2026 19:48:04 GMT",
+      "description": "To skandal, że Przemysław Czarnek wychodzi na mównicę sejmową i piętnuje osoby pochodzenia ukraińskiego - oceniła w \"Kropce nad i\" TVN24 posłanka KO Dorota Łoboda. Poseł PiS Marcin Horała przekonywał, że Czarnkowi nie chodziło o pochodzenie urzędników.",
+      "originalTitle": "Przemysław Czarnek chce szukać Ukraińców w rządzie. \"Lepiej by się zajął szukaniem swojego efektu\"",
+      "originalDescription": "To skandal, że Przemysław Czarnek wychodzi na mównicę sejmową i piętnuje osoby pochodzenia ukraińskiego - oceniła w \"Kropce nad i\" TVN24 posłanka KO Dorota Łoboda. Poseł PiS Marcin Horała przekonywał, że Czarnkowi nie chodziło o pochodzenie urzędników."
+    }
+  ]
 }
