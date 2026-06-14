@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-14T18:34:14.718Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-14T19:34:12.564Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ostrzeżenia IMGW. Ponad połowa kraju objęta alarmami",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-ostrzezenia-imgw-niedziela-14-06-wyladowania-silny-deszcz-i-wiatr-w-wielu-wojewodztwach-st9091811?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 04:46:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał alarmy pierwszego stopnia w ponad połowie kraju. Synoptycy ostrzegają przed burzami, a także ulewnym deszczem, który będzie im towarzyszył. Sprawdź, gdzie zachować ostrożność.",
+      "originalTitle": "Ostrzeżenia IMGW. Ponad połowa kraju objęta alarmami",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał alarmy pierwszego stopnia w ponad połowie kraju. Synoptycy ostrzegają przed burzami, a także ulewnym deszczem, który będzie im towarzyszył. Sprawdź, gdzie zachować ostrożność."
+    },
+    {
+      "title": "Oliver Tree nie żyje. Zginął w katastrofie",
+      "link": "https://tvn24.pl/swiat/oliver-tree-nie-zyje-zginal-w-katastrofie-smiglowca-st9095907?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 19:21:00 GMT",
+      "description": "Sześć osób zgineło w wyniku zderzeniu dwóch helikopterów nad Rio de Janeiro. Jedną z ofiar jest amerykański muzyk Oliver Tree.",
+      "originalTitle": "Oliver Tree nie żyje. Zginął w katastrofie",
+      "originalDescription": "Sześć osób zgineło w wyniku zderzeniu dwóch helikopterów nad Rio de Janeiro. Jedną z ofiar jest amerykański muzyk Oliver Tree."
+    },
+    {
+      "title": "Rozbił się samolot ze spadochroniarzami. Wszyscy zginęli",
+      "link": "https://tvn24.pl/polska/usa-butler-rozbil-sie-samolot-ze-spadochroniarzami-wszyscy-zgineli-st9095899?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 18:53:45 GMT",
+      "description": "12 osób zginęło w niedzielę w katastrofie samolotu, do której doszło w stanie Missouri w USA - przekazała tamtejsza policja stanowa. Nie żyje 11 skoczków spadochronowych i pilot.",
+      "originalTitle": "Rozbił się samolot ze spadochroniarzami. Wszyscy zginęli",
+      "originalDescription": "12 osób zginęło w niedzielę w katastrofie samolotu, do której doszło w stanie Missouri w USA - przekazała tamtejsza policja stanowa. Nie żyje 11 skoczków spadochronowych i pilot."
+    },
+    {
+      "title": "Gdzie jest burza? Nie przestaje grzmieć",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-niedziele-14-06-radar-burz-i-mapa-opadow-na-zywo-st9095108?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 09:23:20 GMT",
+      "description": "Gdzie jest burza? W niedzielę 14.06 nad Polską wędrują rozproszone wyładowania atmosferyczne. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Nie przestaje grzmieć",
+      "originalDescription": "Gdzie jest burza? W niedzielę 14.06 nad Polską wędrują rozproszone wyładowania atmosferyczne. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Karol Nawrocki w USA. Ma \"cel strategiczny\"",
+      "link": "https://tvn24.pl/swiat/prezydent-karol-nawrocki-w-usa-wezmie-udzial-w-urodzinach-donalda-trumpa-rozmawial-z-dziennikarzami-st9095738?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 16:16:46 GMT",
+      "description": "Prezydent Karol Nawrocki jest w USA, gdzie weźmie udział w obchodach 80. urodzin Donalda Trumpa. Wcześniej, jeszcze przed wieczorną uroczystością, uczestniczył w mszy w polskim kościele w Silver Spring. - Naszym celem strategicznym jest oczywiście stała obecność wojsk amerykańskich w Polsce - powiedział później w rozmowie z dziennikarzami. Zdradził też, czego będzie życzył Trumpowi.",
+      "originalTitle": "Karol Nawrocki w USA. Ma \"cel strategiczny\"",
+      "originalDescription": "Prezydent Karol Nawrocki jest w USA, gdzie weźmie udział w obchodach 80. urodzin Donalda Trumpa. Wcześniej, jeszcze przed wieczorną uroczystością, uczestniczył w mszy w polskim kościele w Silver Spring. - Naszym celem strategicznym jest oczywiście stała obecność wojsk amerykańskich w Polsce - powiedział później w rozmowie z dziennikarzami. Zdradził też, czego będzie życzył Trumpowi."
+    },
+    {
+      "title": "Grad i \"krowie wymiona\". Burzowa niedziela",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-w-niedziele-14-06-grad-i-krowie-wymiona-burzowa-niedziela-st9095796?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 18:08:29 GMT",
+      "description": "Niedziela była kolejnym burzowym dniem. Wyładowaniom towarzyszyły opady deszczu, lokalnie pojawił się też grad. Nad Mazowszem, Lubelszczyzną i Ziemią Łódzką zawisły \"krowie wymiona\".",
+      "originalTitle": "Grad i \"krowie wymiona\". Burzowa niedziela",
+      "originalDescription": "Niedziela była kolejnym burzowym dniem. Wyładowaniom towarzyszyły opady deszczu, lokalnie pojawił się też grad. Nad Mazowszem, Lubelszczyzną i Ziemią Łódzką zawisły \"krowie wymiona\"."
+    },
+    {
+      "title": "Co Nawrocki może załatwić w USA? \"Będę pierwsza, która pogratuluje prezydentowi\"",
+      "link": "https://tvn24.pl/polska/co-karol-nawrocki-moze-zalatwic-w-usa-kamila-gasiuk-pihowicz-bede-pierwsza-ktora-pogratuluje-prezydentowi-st9095839?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 18:06:40 GMT",
+      "description": "Kamila Gasiuk-Pihowicz, europosłanka KO, życzyła w \"Faktach po Faktach\" w TVN24 prezydentowi Karolowi Nawrockiemu \"udanej zabawy\" w Waszyngtonie. Wyraziła nadzieję, że znajdzie \"chwilę na rozmowę o ważnych sprawach dla Polaków\". Europoseł Lewicy Krzysztof Śmiszek też \"trzyma kciuki\" za Nawrockiego. - Ale nie liczę na jakieś wielkie owoce tej wyprawy - zaznaczył.",
+      "originalTitle": "Co Nawrocki może załatwić w USA? \"Będę pierwsza, która pogratuluje prezydentowi\"",
+      "originalDescription": "Kamila Gasiuk-Pihowicz, europosłanka KO, życzyła w \"Faktach po Faktach\" w TVN24 prezydentowi Karolowi Nawrockiemu \"udanej zabawy\" w Waszyngtonie. Wyraziła nadzieję, że znajdzie \"chwilę na rozmowę o ważnych sprawach dla Polaków\". Europoseł Lewicy Krzysztof Śmiszek też \"trzyma kciuki\" za Nawrockiego. - Ale nie liczę na jakieś wielkie owoce tej wyprawy - zaznaczył."
+    },
+    {
+      "title": "Dla Europy to statystyki, dla niej \"niespełnione marzenia\". \"Mogłam być jedną z nich\"",
+      "link": "https://tvn24.pl/kultura-i-styl/soraya-akhalaghi-mehrdad-oskouei-o-filmie-lis-i-rozowy-ksiezyc-st9085824?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 17:38:18 GMT",
+      "description": "Urodziła się w Afganistanie, dorastała w Iranie, gdzie przeżyła piekło. Przez pięć lat nagrywała swoją rzeczywistość, w tym próby dotarcia do Europy. - Gdyby nie sztuka, już dawno temu odebrałabym sobie życie - mówi Soraya Akhalaghi. Wspólnie z Mehrdadem Oskoueiem stworzyli jeden z najważniejszych filmów dokumentalnych tego roku - \"Lis i różowy księżyc\".",
+      "originalTitle": "Dla Europy to statystyki, dla niej \"niespełnione marzenia\". \"Mogłam być jedną z nich\"",
+      "originalDescription": "Urodziła się w Afganistanie, dorastała w Iranie, gdzie przeżyła piekło. Przez pięć lat nagrywała swoją rzeczywistość, w tym próby dotarcia do Europy. - Gdyby nie sztuka, już dawno temu odebrałabym sobie życie - mówi Soraya Akhalaghi. Wspólnie z Mehrdadem Oskoueiem stworzyli jeden z najważniejszych filmów dokumentalnych tego roku - \"Lis i różowy księżyc\"."
+    },
+    {
+      "title": "Tak będzie wędrować strefa opadów. Mapa i radar",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/radar-i-mapa-opadow-na-zywo-pogoda-w-polsce-tu-bedzie-padac-i-grzmiec-radar-opadow-st9095721?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 16:49:36 GMT",
+      "description": "Noc w wielu regionach kraju przyniesie opady deszczu. W poniedziałek również będzie padać, a także i grzmieć. Zobacz na mapach, jak strefa opadów będzie przemierzać Polskę.",
+      "originalTitle": "Tak będzie wędrować strefa opadów. Mapa i radar",
+      "originalDescription": "Noc w wielu regionach kraju przyniesie opady deszczu. W poniedziałek również będzie padać, a także i grzmieć. Zobacz na mapach, jak strefa opadów będzie przemierzać Polskę."
+    },
+    {
+      "title": "\"Doszło do kolizji drogowej\". W jednym z samochodów Czarnek",
+      "link": "https://tvn24.pl/polska/przemyslaw-czarnek-bral-udzial-w-kolizji-drogowej-rzecznik-pis-potwierdza-st9095778?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 16:34:33 GMT",
+      "description": "Doszło do kolizji drogowej z udziałem samochodu, którym jechał Przemysław Czarnek - potwierdził rzecznik PiS Rafał Bochenek. O szczegółach zdarzenia poinformowała policja.",
+      "originalTitle": "\"Doszło do kolizji drogowej\". W jednym z samochodów Czarnek",
+      "originalDescription": "Doszło do kolizji drogowej z udziałem samochodu, którym jechał Przemysław Czarnek - potwierdził rzecznik PiS Rafał Bochenek. O szczegółach zdarzenia poinformowała policja."
+    }
+  ]
 }
