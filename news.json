@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-14T13:06:38.241Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-14T14:16:29.095Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Plan Czarnka\" dla Polski. Deklaracje Prawa i Sprawiedliwości",
+      "link": "https://tvn24.pl/biznes/z-kraju/plan-czarnka-wsrod-propozycji-podwyzszenie-drugiego-progu-podatkowego-do-180-tysiecy-zlotych-st9095621?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 14:14:44 GMT",
+      "description": "Prawo i Sprawiedliwość zaprezentowało trzy z dwudziestu jeden punktów programu obietnic dla Polski. Obejmują one wyjście z Europejskiego Systemu Handlu Emisjami (ETS), zwolnienie emerytów z podatku i składek emerytalno-rentowych do 2,5 tysiąca złotych oraz podniesienie drugiego progu podatkowego do 180 tysięcy złotych rocznie.",
+      "originalTitle": "\"Plan Czarnka\" dla Polski. Deklaracje Prawa i Sprawiedliwości",
+      "originalDescription": "Prawo i Sprawiedliwość zaprezentowało trzy z dwudziestu jeden punktów programu obietnic dla Polski. Obejmują one wyjście z Europejskiego Systemu Handlu Emisjami (ETS), zwolnienie emerytów z podatku i składek emerytalno-rentowych do 2,5 tysiąca złotych oraz podniesienie drugiego progu podatkowego do 180 tysięcy złotych rocznie."
+    },
+    {
+      "title": "Samochód dachował na polu. Pięcioro młodych ludzi w szpitalu",
+      "link": "https://tvn24.pl/poznan/kepno-samochod-dachowal-na-polu-piec-osob-w-szpitalu-st9095593?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 14:08:08 GMT",
+      "description": "Pięć osób w wieku od 20 do 23 lat trafiło do szpitala. Samochód, którym podróżowali ranni, wypadł z drogi i dachował na polu. Policja informuje, że do wypadku doszło w trakcie wyprzedzania.",
+      "originalTitle": "Samochód dachował na polu. Pięcioro młodych ludzi w szpitalu",
+      "originalDescription": "Pięć osób w wieku od 20 do 23 lat trafiło do szpitala. Samochód, którym podróżowali ranni, wypadł z drogi i dachował na polu. Policja informuje, że do wypadku doszło w trakcie wyprzedzania."
+    },
+    {
+      "title": "Zbadali odchody susłogonów sprzed setek tysięcy lat. Wynik ich zaskoczył",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/zbadali-odchody-suslogonow-sprzed-setek-tysiecy-lat-wynik-ich-zaskoczyl-st9094762?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:57:39 GMT",
+      "description": "Zespół naukowców przebadał liczące setki tysięcy lat odchody krewnych wiewiórek i świstaków. Materiał zebrany przez badaczy zawierał doskonale zachowany materiał genetyczny innych zwierząt, a także roślin.",
+      "originalTitle": "Zbadali odchody susłogonów sprzed setek tysięcy lat. Wynik ich zaskoczył",
+      "originalDescription": "Zespół naukowców przebadał liczące setki tysięcy lat odchody krewnych wiewiórek i świstaków. Materiał zebrany przez badaczy zawierał doskonale zachowany materiał genetyczny innych zwierząt, a także roślin."
+    },
+    {
+      "title": "15-latka trafiła do szpitala, wcześniej \"mogła urodzić dziecko\". Trzy osoby zatrzymane",
+      "link": "https://tvn24.pl/rzeszow/krosno-15-latka-trafila-do-szpitala-wczesniej-mogla-urodzic-dziecko-trzy-osoby-zatrzymane-st9093710?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:56:06 GMT",
+      "description": "Do szpitala w Krośnie trafiła 15-letnia dziewczynka. Wcześniej, jak ustalili śledczy, najprawdopodobniej urodziła dziecko. Policja zatrzymała trzy osoby.",
+      "originalTitle": "15-latka trafiła do szpitala, wcześniej \"mogła urodzić dziecko\". Trzy osoby zatrzymane",
+      "originalDescription": "Do szpitala w Krośnie trafiła 15-letnia dziewczynka. Wcześniej, jak ustalili śledczy, najprawdopodobniej urodziła dziecko. Policja zatrzymała trzy osoby."
+    },
+    {
+      "title": "Zuckerberg o zmianach w Mecie. \"Popełniliśmy błędy\"",
+      "link": "https://tvn24.pl/biznes/tech/meta-zuckerberg-przyznaje-sie-do-bledow-w-ai-ale-zapowiada-dalsze-inwestycje-i-zmiany-w-firmie-st9095556?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:34:15 GMT",
+      "description": "Mark Zuckerberg, właściciel Mety, przekazał pracownikom, że koncern popełnił błędy w przekształcaniu swojej siły roboczej w związku z rozwojem sztucznej inteligencji - wynika z wewnętrznej notatki, do której dotarł Reuters.",
+      "originalTitle": "Zuckerberg o zmianach w Mecie. \"Popełniliśmy błędy\"",
+      "originalDescription": "Mark Zuckerberg, właściciel Mety, przekazał pracownikom, że koncern popełnił błędy w przekształcaniu swojej siły roboczej w związku z rozwojem sztucznej inteligencji - wynika z wewnętrznej notatki, do której dotarł Reuters."
+    },
+    {
+      "title": "Gdzie jest burza? Wiatr przybiera na sile",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-niedziele-14-06-radar-burz-i-mapa-opadow-na-zywo-st9095108?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 09:23:20 GMT",
+      "description": "Gdzie jest burza? W niedzielę 14.06 nad Polską wędrują rozproszone wyładowania atmosferyczne. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Wiatr przybiera na sile",
+      "originalDescription": "Gdzie jest burza? W niedzielę 14.06 nad Polską wędrują rozproszone wyładowania atmosferyczne. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Julia opłakiwała Romea, a nieproszony gość bawił się jego włosami",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/turcja-kot-na-scenie-julia-oplakiwala-romea-a-nieproszony-gosc-bawil-sie-jego-wlosami-nagranie-st9095364?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:13:50 GMT",
+      "description": "Kot stał się nieoczekiwaną gwiazdą spektaklu baletowego w Turcji. Zwierzę wyszło na scenę w kluczowym momencie przedstawienia \"Romeo i Julia\". Nie przejmowało się tragedią głównych bohaterów i zaczęło bawić się włosami Romea. Można to zobaczyć na nagraniu.",
+      "originalTitle": "Julia opłakiwała Romea, a nieproszony gość bawił się jego włosami",
+      "originalDescription": "Kot stał się nieoczekiwaną gwiazdą spektaklu baletowego w Turcji. Zwierzę wyszło na scenę w kluczowym momencie przedstawienia \"Romeo i Julia\". Nie przejmowało się tragedią głównych bohaterów i zaczęło bawić się włosami Romea. Można to zobaczyć na nagraniu."
+    },
+    {
+      "title": "Restauracja z gwiazdką. \"Od razu ruszyliśmy pełną parą\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/polskie-restauracje-z-gwiazdka-michelin-nareszcie-potrafimy-sie-nasza-gastronomia-chwalic-st9086044?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:12:25 GMT",
+      "description": "Takich restauracji jest w Polsce jedenaście, dziesięć z jedną gwiazdką Michelin, jedna - z dwiema. - Mówi się, że to Święty Graal w świecie gastronomii - mówi ekspertka kulinarna Małgorzata Minta. Dla właścicieli restauracji to jednocześnie prestiż i wyzwanie. Tak jak dla klientów, którzy muszą sięgnąć nieco głębiej do kieszeni.",
+      "originalTitle": "Restauracja z gwiazdką. \"Od razu ruszyliśmy pełną parą\"",
+      "originalDescription": "Takich restauracji jest w Polsce jedenaście, dziesięć z jedną gwiazdką Michelin, jedna - z dwiema. - Mówi się, że to Święty Graal w świecie gastronomii - mówi ekspertka kulinarna Małgorzata Minta. Dla właścicieli restauracji to jednocześnie prestiż i wyzwanie. Tak jak dla klientów, którzy muszą sięgnąć nieco głębiej do kieszeni."
+    },
+    {
+      "title": "Co z orderem Zełenskiego? \"W niedługim czasie należy spodziewać się decyzji\"",
+      "link": "https://tvn24.pl/polska/co-z-orderem-orla-bialego-wolodymyra-zelenskiego-jakub-banaszek-w-niedlugim-czasie-nalezy-spodziewac-sie-decyzji-st9095204?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 12:53:31 GMT",
+      "description": "Opinia kapituły została już panu prezydentowi wyrażona. Pan prezydent też ma swoje zdanie w tym temacie i należy się spodziewać w niedługim czasie decyzji - mówił w \"Kawie na Ławę\" w TVN24 doradca prezydenta Jakub Banaszek. Goście dyskutowali o kwestii ewentualnego odebrania Orderu Orła Białego prezydentowi Ukrainy Wołodymyrowi Zełenskiemu oraz dyskusji, która wybuchła wokół polsko-ukraińskich stosunków.",
+      "originalTitle": "Co z orderem Zełenskiego? \"W niedługim czasie należy spodziewać się decyzji\"",
+      "originalDescription": "Opinia kapituły została już panu prezydentowi wyrażona. Pan prezydent też ma swoje zdanie w tym temacie i należy się spodziewać w niedługim czasie decyzji - mówił w \"Kawie na Ławę\" w TVN24 doradca prezydenta Jakub Banaszek. Goście dyskutowali o kwestii ewentualnego odebrania Orderu Orła Białego prezydentowi Ukrainy Wołodymyrowi Zełenskiemu oraz dyskusji, która wybuchła wokół polsko-ukraińskich stosunków."
+    },
+    {
+      "title": "\"Wypędzimy ich z naszego Polin\". Nagranie z Netanjahu oburza. Słusznie?",
+      "link": "https://konkret24.tvn24.pl/swiat/wypedzimy-ich-z-naszego-polin-nagranie-z-netanjahu-oburza-slusznie-st9091392?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 12:48:01 GMT",
+      "description": "\"Najpierw była Gaza, teraz Iran, a następnie Polin\" - miał powiedzieć premier Benjamin Netanjahu, zapowiadając \"wypędzenie\" Polaków z kraju. Nagranie z taką treścią krąży w sieci, powodując oburzenie. Jest ono słuszne, tylko powód do krytyki powinien być inny.",
+      "originalTitle": "\"Wypędzimy ich z naszego Polin\". Nagranie z Netanjahu oburza. Słusznie?",
+      "originalDescription": "\"Najpierw była Gaza, teraz Iran, a następnie Polin\" - miał powiedzieć premier Benjamin Netanjahu, zapowiadając \"wypędzenie\" Polaków z kraju. Nagranie z taką treścią krąży w sieci, powodując oburzenie. Jest ono słuszne, tylko powód do krytyki powinien być inny."
+    }
+  ]
 }
