@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-15T15:28:51.927Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-15T17:22:19.923Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Opiekunka w żłobku szarpała dziecko. Usłyszała zarzut",
+      "link": "https://tvn24.pl/opole/opole-szarpala-i-ciagnela-dziecko-w-zlobku-zarzut-dla-opiekunki-z-nagrania-st9097443?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:34:36 GMT",
+      "description": "Najpierw straciła pracę, teraz usłyszała zarzut. Prokuratura chce, by opiekunka, która szarpała dziecko w żłobku \"Autobusik\" w Opolu, odpowiedziała za spowodowanie średniego uszczerbku na zdrowiu. Zachowanie pracownicy nagrała kamera monitoringu.",
+      "originalTitle": "Opiekunka w żłobku szarpała dziecko. Usłyszała zarzut",
+      "originalDescription": "Najpierw straciła pracę, teraz usłyszała zarzut. Prokuratura chce, by opiekunka, która szarpała dziecko w żłobku \"Autobusik\" w Opolu, odpowiedziała za spowodowanie średniego uszczerbku na zdrowiu. Zachowanie pracownicy nagrała kamera monitoringu."
+    },
+    {
+      "title": "Kolejna porcja opadów, możliwe burze. Radar i mapy",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-opady-w-polsce-we-wtorek-wedrowka-opadow-radar-i-mapa-opadow-na-zywo-st9097471?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:33:20 GMT",
+      "description": "Zarówno w nocy, jak i we wtorek spodziewane są opady deszczu. Pojawią się też burze. Sprawdź na mapach, jak strefa opadów będzie wędrować nad Polską w ciągu najbliższej doby.",
+      "originalTitle": "Kolejna porcja opadów, możliwe burze. Radar i mapy",
+      "originalDescription": "Zarówno w nocy, jak i we wtorek spodziewane są opady deszczu. Pojawią się też burze. Sprawdź na mapach, jak strefa opadów będzie wędrować nad Polską w ciągu najbliższej doby."
+    },
+    {
+      "title": "Tysiącletni symbol w ogniu. Czym jest zaatakowana Ławra?",
+      "link": "https://tvn24.pl/swiat/ukraina-atak-na-lawre-peczerska-w-kijowie-czym-jest-lawra-tysiacletni-symbol-st9096724?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:23:49 GMT",
+      "description": "Po uderzeniu rosyjskiego drona w ogniu stanęła kijowska Ławra Peczerska. To miejsce o tysiącletniej historii, nierozerwalnie związane z narodzinami narodów ukraińskiego i rosyjskiego. Dlaczego stała się celem? - To ciągły labirynt szaleństwa - mówi TVN24+ ukraiński religioznawca i publicysta Jarosław Kociuba.",
+      "originalTitle": "Tysiącletni symbol w ogniu. Czym jest zaatakowana Ławra?",
+      "originalDescription": "Po uderzeniu rosyjskiego drona w ogniu stanęła kijowska Ławra Peczerska. To miejsce o tysiącletniej historii, nierozerwalnie związane z narodzinami narodów ukraińskiego i rosyjskiego. Dlaczego stała się celem? - To ciągły labirynt szaleństwa - mówi TVN24+ ukraiński religioznawca i publicysta Jarosław Kociuba."
+    },
+    {
+      "title": "Wstępne porozumienie USA z Iranem podpisane",
+      "link": "https://tvn24.pl/swiat/wstepne-porozumienie-usa-z-iranem-podpisane-st9097524?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:22:48 GMT",
+      "description": "Prezydent USA Donald Trump i wiceprezydent J.D. Vance podpisali w poniedziałek wstępne porozumienie w sprawie zakończenia wojny z Iranem. W imieniu Teheranu podpis złożył przewodniczący parlamentu Mohammad Bagher Ghalibaf.",
+      "originalTitle": "Wstępne porozumienie USA z Iranem podpisane",
+      "originalDescription": "Prezydent USA Donald Trump i wiceprezydent J.D. Vance podpisali w poniedziałek wstępne porozumienie w sprawie zakończenia wojny z Iranem. W imieniu Teheranu podpis złożył przewodniczący parlamentu Mohammad Bagher Ghalibaf."
+    },
+    {
+      "title": "Odcinkowy pomiar prędkości pod Gorzowem. Sypią się mandaty",
+      "link": "https://tvn24.pl/lubuskie/odcinkowy-pomiar-predkosci-na-s3-miedzy-wezlami-gorzow-zachod-i-gorzow-poludnie-ilu-kierowcow-dostalo-mandaty-st9097113?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:17:37 GMT",
+      "description": "Na trasie S3 pod Gorzowem od kwietnia działa nowy punkt odcinkowego pomiaru prędkości. Tylko w pierwszych dwóch tygodniach od jego uruchomienia mandaty za zbyt szybką jazdę otrzymało ponad 4,5 tysiąca kierowców.",
+      "originalTitle": "Odcinkowy pomiar prędkości pod Gorzowem. Sypią się mandaty",
+      "originalDescription": "Na trasie S3 pod Gorzowem od kwietnia działa nowy punkt odcinkowego pomiaru prędkości. Tylko w pierwszych dwóch tygodniach od jego uruchomienia mandaty za zbyt szybką jazdę otrzymało ponad 4,5 tysiąca kierowców."
+    },
+    {
+      "title": "Mieli zapewnić dziewczynkom bezpieczny dom. Wyrok w sprawie rodziny zastępczej",
+      "link": "https://tvn24.pl/wroclaw/glogow-mieli-zapewnic-dziewczynkom-bezpieczny-dom-wyrok-w-sprawie-rodziny-zastepczej-st9096684?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:17:06 GMT",
+      "description": "Sąd Rejonowy w Głogowie ogłosił wyrok w sprawie małżeństwa prowadzącego rodzinę zastępczą, które było oskarżone o znęcanie się i molestowanie dzieci. Marta D. została uniewinniona, a Mariusz D. usłyszał wyrok 15 lat więzienia za przestępstwa seksualne wobec dwóch małoletnich dziewczynek.",
+      "originalTitle": "Mieli zapewnić dziewczynkom bezpieczny dom. Wyrok w sprawie rodziny zastępczej",
+      "originalDescription": "Sąd Rejonowy w Głogowie ogłosił wyrok w sprawie małżeństwa prowadzącego rodzinę zastępczą, które było oskarżone o znęcanie się i molestowanie dzieci. Marta D. została uniewinniona, a Mariusz D. usłyszał wyrok 15 lat więzienia za przestępstwa seksualne wobec dwóch małoletnich dziewczynek."
+    },
+    {
+      "title": "Protestują przeciwko obwodnicy Augustowa. \"Jeśli będzie trzeba, przykuję się do drzewa\"",
+      "link": "https://tvn24.pl/bialystok/protestuja-przeciwko-obwodnicy-augustowa-jesli-bedzie-trzeba-przykuje-sie-do-drzewa-st9097146?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:16:23 GMT",
+      "description": "Są zdeterminowani, mają blisko siedem tysięcy podpisów. Mieszkańcy Augustowa (Podlaskie) sprzeciwiają się, zaproponowanemu przez drogowców, wariantowi budowy nowej obwodnicy miasta. 20 lat temu protesty sprawiły, że tiry nie pojechały przez Dolinę Rospudy, teraz mieszkańcy liczą, że nie pojadą w pobliżu ich domów oraz tuż obok ośrodka wypoczynkowego z 65-letnią tradycją i Jeziora Sajno.",
+      "originalTitle": "Protestują przeciwko obwodnicy Augustowa. \"Jeśli będzie trzeba, przykuję się do drzewa\"",
+      "originalDescription": "Są zdeterminowani, mają blisko siedem tysięcy podpisów. Mieszkańcy Augustowa (Podlaskie) sprzeciwiają się, zaproponowanemu przez drogowców, wariantowi budowy nowej obwodnicy miasta. 20 lat temu protesty sprawiły, że tiry nie pojechały przez Dolinę Rospudy, teraz mieszkańcy liczą, że nie pojadą w pobliżu ich domów oraz tuż obok ośrodka wypoczynkowego z 65-letnią tradycją i Jeziora Sajno."
+    },
+    {
+      "title": "\"Podczas wet posługiwali się argumentami Zondy\". Co z ustawą o rynku kryptowalut?",
+      "link": "https://tvn24.pl/biznes/z-kraju/zondacrypto-ustawa-o-kryptowalutach-jan-grabiec-podczas-wet-poslugiwali-sie-argumentami-zondy-st9097415?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:15:30 GMT",
+      "description": "Po trzech propozycjach rządu i trzech wetach prezydenta wciąż nie udało się wprowadzić w Polsce regulacji rynku kryptoaktywów. Jednak na treść projektów ustaw mógł mieć wpływ szef upadłej giełdy kryptowalut Zondacrypto. Jego sugestie miał później powtarzać również szef kancelarii prezydenta, Zbigniew Bogucki.",
+      "originalTitle": "\"Podczas wet posługiwali się argumentami Zondy\". Co z ustawą o rynku kryptowalut?",
+      "originalDescription": "Po trzech propozycjach rządu i trzech wetach prezydenta wciąż nie udało się wprowadzić w Polsce regulacji rynku kryptoaktywów. Jednak na treść projektów ustaw mógł mieć wpływ szef upadłej giełdy kryptowalut Zondacrypto. Jego sugestie miał później powtarzać również szef kancelarii prezydenta, Zbigniew Bogucki."
+    },
+    {
+      "title": "Rosja prosi sojuszników o paliwo? Co mówiła Zacharowa",
+      "link": "https://konkret24.tvn24.pl/swiat/rosja-prosi-sojusznikow-o-paliwo-co-mowila-zacharowa-st9096445?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 16:08:22 GMT",
+      "description": "Po ukraińskich atakach Rosja prosi zaprzyjaźnione kraje o dostawy paliwa - słyszymy na nagraniu. Ale rzeczniczka rosyjskiego resortu spraw zagranicznych powiedziała coś zupełnie innego.",
+      "originalTitle": "Rosja prosi sojuszników o paliwo? Co mówiła Zacharowa",
+      "originalDescription": "Po ukraińskich atakach Rosja prosi zaprzyjaźnione kraje o dostawy paliwa - słyszymy na nagraniu. Ale rzeczniczka rosyjskiego resortu spraw zagranicznych powiedziała coś zupełnie innego."
+    },
+    {
+      "title": "\"Dziś przyjąłem rezygnację\". Radny lekarz nie jest już członkiem KO",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-dawid-kacprzyk-zrezygnowal-z-czlonkostwa-w-koalicji-obywatelskiej-st9097491?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 15:58:38 GMT",
+      "description": "Lekarz i radny Dawid Kacprzyk nie jest już członkiem Koalicji Obywatelskiej. O jego rezygnacji poinformował w poniedziałek szef warszawskich struktur partii Marcin Kierwiński.",
+      "originalTitle": "\"Dziś przyjąłem rezygnację\". Radny lekarz nie jest już członkiem KO",
+      "originalDescription": "Lekarz i radny Dawid Kacprzyk nie jest już członkiem Koalicji Obywatelskiej. O jego rezygnacji poinformował w poniedziałek szef warszawskich struktur partii Marcin Kierwiński."
+    }
+  ]
 }
