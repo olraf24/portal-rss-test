@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-15T10:36:32.387Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-15T13:05:23.823Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zabójstwo 16-letniej Mai. Psychiatrzy zbadali Bartosza G. i wydali opinię",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/zabojstwo-mai-z-mlawy-jest-opinia-bieglych-w-sprawie-podejrzanego-st9097119?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:58:32 GMT",
+      "description": "Zdaniem biegłych psychiatrów, 18-latni Bartosz G., podejrzany o zabójstwo ze szczególnym okrucieństwem 16-letniej Mai, \"mógł rozpoznać znaczenie swojego czynu\". Ich zdaniem nie ma podstaw do zakwestionowania poczytalności 18-latka.",
+      "originalTitle": "Zabójstwo 16-letniej Mai. Psychiatrzy zbadali Bartosza G. i wydali opinię",
+      "originalDescription": "Zdaniem biegłych psychiatrów, 18-latni Bartosz G., podejrzany o zabójstwo ze szczególnym okrucieństwem 16-letniej Mai, \"mógł rozpoznać znaczenie swojego czynu\". Ich zdaniem nie ma podstaw do zakwestionowania poczytalności 18-latka."
+    },
+    {
+      "title": "\"Fakty\" TVN: były dwie rozmowy Nawrockiego z Trumpem",
+      "link": "https://tvn24.pl/swiat/karol-nawrocki-w-usa-fakty-tvn-byly-dwie-rozmowy-z-donaldem-trumpem-na-jego-urodzinach-st9097130?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:53:12 GMT",
+      "description": "Prezydent Karol Nawrocki rozmawiał w nocy dwukrotnie z prezydentem Donaldem Trumpem. Do rozmów doszło przy okazji uroczystych obchodów 80. urodzin amerykańskiego przywódcy - dowiedział się korespondent \"Faktów\" TVN Marcin Wrona.",
+      "originalTitle": "\"Fakty\" TVN: były dwie rozmowy Nawrockiego z Trumpem",
+      "originalDescription": "Prezydent Karol Nawrocki rozmawiał w nocy dwukrotnie z prezydentem Donaldem Trumpem. Do rozmów doszło przy okazji uroczystych obchodów 80. urodzin amerykańskiego przywódcy - dowiedział się korespondent \"Faktów\" TVN Marcin Wrona."
+    },
+    {
+      "title": "Archidiecezja katowicka powołała specjalną komisję. Chodzi o zgłoszenie na temat biskupa",
+      "link": "https://tvn24.pl/katowice/archidiecezja-katowicka-powolala-specjalna-komisje-chodzi-o-zgloszenie-na-temat-biskupa-gerarda-bernackiego-st9096787?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:45:55 GMT",
+      "description": "Do kurii w Katowicach miało wpłynąć zgłoszenie o molestowaniu małoletniego przez nieżyjącego już biskupa pomocniczego. Archidiecezja powołała specjalny zespół, który zajmuje się sprawą domniemanego przestępstwa, którego miał dopuścić się bp Gerard Bernacki.",
+      "originalTitle": "Archidiecezja katowicka powołała specjalną komisję. Chodzi o zgłoszenie na temat biskupa",
+      "originalDescription": "Do kurii w Katowicach miało wpłynąć zgłoszenie o molestowaniu małoletniego przez nieżyjącego już biskupa pomocniczego. Archidiecezja powołała specjalny zespół, który zajmuje się sprawą domniemanego przestępstwa, którego miał dopuścić się bp Gerard Bernacki."
+    },
+    {
+      "title": "Maja Chwalińska na wakacjach. \"Wyczuwam nowy trend\"",
+      "link": "https://tvn24.pl/ciekawostki/maja-chwalinska-na-wakacjach-zdjecia-w-mediach-spolecznosciowych-st9096799?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:40:39 GMT",
+      "description": "Maja Chwalińska pokazała, jak odpoczywa po intensywnym turnieju. Tenisistka, która za sprawą ostatnich występów stała się międzynarodową gwiazdą, opublikowała kilka zdjęć z wakacji. Zgodnie z zapowiedzią, nie zabrakło jednej aktywności.",
+      "originalTitle": "Maja Chwalińska na wakacjach. \"Wyczuwam nowy trend\"",
+      "originalDescription": "Maja Chwalińska pokazała, jak odpoczywa po intensywnym turnieju. Tenisistka, która za sprawą ostatnich występów stała się międzynarodową gwiazdą, opublikowała kilka zdjęć z wakacji. Zgodnie z zapowiedzią, nie zabrakło jednej aktywności."
+    },
+    {
+      "title": "15-latka trafiła do szpitala. W jej mieszkaniu znaleziono ciało noworodka",
+      "link": "https://tvn24.pl/rzeszow/krosno-15-latka-trafila-do-szpitala-po-porodzie-w-jej-mieszkaniu-znaleziono-cialo-noworodka-st9093710?source=rss",
+      "pubDate": "Sun, 14 Jun 2026 13:56:06 GMT",
+      "description": "15-latka po porodzie trafiła do szpitala w Krośnie. Służby szukały noworodka. Prokuratura poinformowała, że w miejscu zamieszkania dziewczyny odnaleziono ciało dziecka. Śledztwo jest prowadzone w kierunku zabójstwa.",
+      "originalTitle": "15-latka trafiła do szpitala. W jej mieszkaniu znaleziono ciało noworodka",
+      "originalDescription": "15-latka po porodzie trafiła do szpitala w Krośnie. Służby szukały noworodka. Prokuratura poinformowała, że w miejscu zamieszkania dziewczyny odnaleziono ciało dziecka. Śledztwo jest prowadzone w kierunku zabójstwa."
+    },
+    {
+      "title": "Kolejny atak na Nowy Dom Polski w Jerozolimie.  \"Powtarzające się nękanie zakonnic jest nie do przyjęcia\"",
+      "link": "https://tvn24.pl/swiat/kolejny-atak-na-nowy-dom-polski-w-jerozolimie-powtarzajace-sie-nekanie-zakonnic-jest-nie-do-przyjecia-st9097052?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:18:24 GMT",
+      "description": "Ambasada RP w Izraelu opublikowała zdjęcia rozbitych butelek rzuconych w kierunku klasztoru Nowy Dom Polski w Jerozolimie. \"Powtarzające się nękanie polskich zakonnic w Nowym Domu Polskim w Jerozolimie w ostatnich tygodniach jest nie do przyjęcia\" - oświadczyła placówka.",
+      "originalTitle": "Kolejny atak na Nowy Dom Polski w Jerozolimie.  \"Powtarzające się nękanie zakonnic jest nie do przyjęcia\"",
+      "originalDescription": "Ambasada RP w Izraelu opublikowała zdjęcia rozbitych butelek rzuconych w kierunku klasztoru Nowy Dom Polski w Jerozolimie. \"Powtarzające się nękanie polskich zakonnic w Nowym Domu Polskim w Jerozolimie w ostatnich tygodniach jest nie do przyjęcia\" - oświadczyła placówka."
+    },
+    {
+      "title": "Wybite szyby, podpalane samochody. Starcia z policją w środku Europy",
+      "link": "https://tvn24.pl/swiat/szwajcaria-demonstracja-w-genewie-przeciwko-szczytowi-g7-doszlo-do-starc-z-policja-st9096544?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:16:40 GMT",
+      "description": "Przed szczytem G7, który rozpoczyna się dziś we francuskim Evian-les-Bains, w sąsiedniej Szwajcarii odbyła się demonstracja przeciwników kapitalizmu i globalizacji. Po tym jak uczestnicy protestu zaczęli podpalać samochody i wybijać szyby, doszło do starć z policją.",
+      "originalTitle": "Wybite szyby, podpalane samochody. Starcia z policją w środku Europy",
+      "originalDescription": "Przed szczytem G7, który rozpoczyna się dziś we francuskim Evian-les-Bains, w sąsiedniej Szwajcarii odbyła się demonstracja przeciwników kapitalizmu i globalizacji. Po tym jak uczestnicy protestu zaczęli podpalać samochody i wybijać szyby, doszło do starć z policją."
+    },
+    {
+      "title": "Polska nie przekazała jeszcze Ukrainie myśliwców MiG. Wiceszef MON wyjaśnia",
+      "link": "https://tvn24.pl/polska/polska-nie-przekazala-jeszcze-ukrainie-mig-ow-wiceszef-mon-cezary-tomczyk-wyjasnia-st9096777?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:04:51 GMT",
+      "description": "Ukraina nie otrzymała jeszcze od Polski samolotów bojowych MiG-29, ponieważ nie została \"dopięta\" sprawa transferu ukraińskich technologii dronowych - powiedział wiceszef MON Cezary Tomczyk. Kijów miał je przekazać polskiemu wojsku w zamian za maszyny.",
+      "originalTitle": "Polska nie przekazała jeszcze Ukrainie myśliwców MiG. Wiceszef MON wyjaśnia",
+      "originalDescription": "Ukraina nie otrzymała jeszcze od Polski samolotów bojowych MiG-29, ponieważ nie została \"dopięta\" sprawa transferu ukraińskich technologii dronowych - powiedział wiceszef MON Cezary Tomczyk. Kijów miał je przekazać polskiemu wojsku w zamian za maszyny."
+    },
+    {
+      "title": "Pierwsze takie nagranie \"żywej skamieniałości\". Zobacz ją w naturalnym środowisku",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/rekin-chochlik-nagrali-tajemniczego-rekina-w-naturalnym-srodowisku-to-wyjatkowy-zaszczyt-st9096642?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 12:01:43 GMT",
+      "description": "Badacze opublikowali dwie pierwsze zarejestrowane obserwacje rekina chochlika w naturalnym środowisku. Dokonali ich w miejscach, w których wcale się go nie spodziewano. Jak zauważają naukowcy, dzięki temu będzie można lepiej chronić ten tajemniczy gatunek.",
+      "originalTitle": "Pierwsze takie nagranie \"żywej skamieniałości\". Zobacz ją w naturalnym środowisku",
+      "originalDescription": "Badacze opublikowali dwie pierwsze zarejestrowane obserwacje rekina chochlika w naturalnym środowisku. Dokonali ich w miejscach, w których wcale się go nie spodziewano. Jak zauważają naukowcy, dzięki temu będzie można lepiej chronić ten tajemniczy gatunek."
+    },
+    {
+      "title": "Podejrzanie tani nocleg? Jak nie dać się oszukać przed wakacjami",
+      "link": "https://tvn24.pl/polska/wakacje-tani-nocleg-w-polsce-jak-nie-dac-sie-oszukac-piec-krokow-st9096589?source=rss",
+      "pubDate": "Mon, 15 Jun 2026 11:57:49 GMT",
+      "description": "Kiedy my wypoczywamy, oszuści nie śpią. W wakacje szczególnie łatwo o fałszywe oferty noclegu w sieci. Jak nie dać się nabrać i nie stracić pieniędzy?",
+      "originalTitle": "Podejrzanie tani nocleg? Jak nie dać się oszukać przed wakacjami",
+      "originalDescription": "Kiedy my wypoczywamy, oszuści nie śpią. W wakacje szczególnie łatwo o fałszywe oferty noclegu w sieci. Jak nie dać się nabrać i nie stracić pieniędzy?"
+    }
+  ]
 }
