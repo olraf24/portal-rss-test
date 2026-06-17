@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-17T22:36:20.366Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-17T23:36:03.710Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek w kopalni. Trwa akcja ratunkowa",
+      "link": "https://tvn24.pl/katowice/bytom-wypadek-w-kopalni-trwa-akcja-ratunkowa-st9101373?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 17:34:32 GMT",
+      "description": "Wypadek w kopalni w Bytomiu. Czterech górników zostało poszkodowanych. Trzech z nich udało się uratować, jeden zmarł.",
+      "originalTitle": "Wypadek w kopalni. Trwa akcja ratunkowa",
+      "originalDescription": "Wypadek w kopalni w Bytomiu. Czterech górników zostało poszkodowanych. Trzech z nich udało się uratować, jeden zmarł."
+    },
+    {
+      "title": "Nowa umowa Polski i Niemiec. Bartosz Grodecki krytykuje, Tomasz Siemoniak odpowiada",
+      "link": "https://tvn24.pl/polska/nowa-umowa-polski-i-niemiec-bartosz-grodecki-krytykuje-tomasz-siemoniak-odpowiada-st9101519?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 20:04:57 GMT",
+      "description": "Umowa obronna Polski z Niemcami jest dość niesymetryczna - ocenił szef BBN Bartosz Grodecki. Wskazał też na artykuł, który \"budzi nieco wątpliwości\" i sprecyzował, że dotyczy on \"kompetencji pana prezydenta\". Na zarzuty Grodeckiego odpowiedział minister koordynator służb specjalnych Tomasz Siemoniak, oceniając, że to \"niepotrzebne działanie\".",
+      "originalTitle": "Nowa umowa Polski i Niemiec. Bartosz Grodecki krytykuje, Tomasz Siemoniak odpowiada",
+      "originalDescription": "Umowa obronna Polski z Niemcami jest dość niesymetryczna - ocenił szef BBN Bartosz Grodecki. Wskazał też na artykuł, który \"budzi nieco wątpliwości\" i sprecyzował, że dotyczy on \"kompetencji pana prezydenta\". Na zarzuty Grodeckiego odpowiedział minister koordynator służb specjalnych Tomasz Siemoniak, oceniając, że to \"niepotrzebne działanie\"."
+    },
+    {
+      "title": "\"Jest decyzja\" w sprawie RPO. Posłowie dostali SMS-y",
+      "link": "https://tvn24.pl/polska/kto-kandydatem-ko-na-rpo-jest-decyzja-ustalenia-tvn24-st9101601?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 20:03:44 GMT",
+      "description": "Szef klubu Koalicji Obywatelskiej rozesłał do posłów ugrupowania \"prośbę\" o podpisywanie się pod listą poparcia dla Sylwii Gregorczyk-Abram jako kandydatki na nowego Rzecznika Praw Obywatelskich - ustalił dziennikarz TVN24 Konrad Piasecki.",
+      "originalTitle": "\"Jest decyzja\" w sprawie RPO. Posłowie dostali SMS-y",
+      "originalDescription": "Szef klubu Koalicji Obywatelskiej rozesłał do posłów ugrupowania \"prośbę\" o podpisywanie się pod listą poparcia dla Sylwii Gregorczyk-Abram jako kandydatki na nowego Rzecznika Praw Obywatelskich - ustalił dziennikarz TVN24 Konrad Piasecki."
+    },
+    {
+      "title": "Była świadkiem \"narodzin nowoczesnej, wielkomiejskiej Warszawy\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-kamienica-fuchsa-przy-ulicy-wilczej-zostala-zabytkiem-st9101568?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 19:59:01 GMT",
+      "description": "Jest bogato zdobiona. Powstała w 1912 roku dla przedsiębiorcy Moszka Fuchsa. Potem mieściła Warszawskie Biuro Targów Wschodnich. II wojnę światową przetrwała nienaruszona. Kamienica przy Wilczej właśnie została zabytkiem.",
+      "originalTitle": "Była świadkiem \"narodzin nowoczesnej, wielkomiejskiej Warszawy\"",
+      "originalDescription": "Jest bogato zdobiona. Powstała w 1912 roku dla przedsiębiorcy Moszka Fuchsa. Potem mieściła Warszawskie Biuro Targów Wschodnich. II wojnę światową przetrwała nienaruszona. Kamienica przy Wilczej właśnie została zabytkiem."
+    },
+    {
+      "title": "Trump o umowie z Iranem: chciałem uniknąć katastrofy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/szczyt-g7-donald-trump-o-porozumieniu-z-iranem-chcialem-uniknac-katastrofy-gospodarczej-st9101446?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 19:51:46 GMT",
+      "description": "Prezydent USA Donald Trump stwierdził, że zawarł porozumienie z Iranem, bo chciał uniknąć katastrofy gospodarczej, spowodowanej zablokowaniem cieśniny Ormuz. W trakcie konferencji prasowej w Evian-les-Bains we Francji zapowiedział, że do podpisania umowy dojdzie w czwartek lub w piątek.",
+      "originalTitle": "Trump o umowie z Iranem: chciałem uniknąć katastrofy",
+      "originalDescription": "Prezydent USA Donald Trump stwierdził, że zawarł porozumienie z Iranem, bo chciał uniknąć katastrofy gospodarczej, spowodowanej zablokowaniem cieśniny Ormuz. W trakcie konferencji prasowej w Evian-les-Bains we Francji zapowiedział, że do podpisania umowy dojdzie w czwartek lub w piątek."
+    },
+    {
+      "title": "Autobus w płomieniach i ogromny słup dymu. Nagranie z Warszawy",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/autobus-w-plomieniach-i-ogromny-slup-dymu-nagranie-z-warszawy-st9101359?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 17:19:06 GMT",
+      "description": "W Alei Stanów Zjednoczonych w płomieniach stanął autobus miejski linii 411. Nad Warszawą unosiły się kłęby czarnego dymu. Nie ma osób poszkodowanych.",
+      "originalTitle": "Autobus w płomieniach i ogromny słup dymu. Nagranie z Warszawy",
+      "originalDescription": "W Alei Stanów Zjednoczonych w płomieniach stanął autobus miejski linii 411. Nad Warszawą unosiły się kłęby czarnego dymu. Nie ma osób poszkodowanych."
+    },
+    {
+      "title": "Upał i burze. Mapy pokazują, jak groźna będzie pogoda",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/upal-i-burze-upal-i-burze-mapy-pokazuja-jak-grozna-bedzie-pogoda-st9097876?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 04:31:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej opublikował prognozę zagrożeń. Wynika w niej, że kolejne dni przyniosą upał i burze. W wielu miejscach mogą pojawić się nawet pomarańczowe - prawie najwyższe - alarmy. Sprawdź szczegóły.",
+      "originalTitle": "Upał i burze. Mapy pokazują, jak groźna będzie pogoda",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej opublikował prognozę zagrożeń. Wynika w niej, że kolejne dni przyniosą upał i burze. W wielu miejscach mogą pojawić się nawet pomarańczowe - prawie najwyższe - alarmy. Sprawdź szczegóły."
+    },
+    {
+      "title": "Zwrot na rynku ropy. Nadchodzi potężna nadwyżka",
+      "link": "https://tvn24.pl/biznes/rynki/ropa-naftowa-porozumienie-usa-iran-zwrot-na-rynku-paliw-nadchodzi-potezna-nadwyzka-st9101524?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 19:34:41 GMT",
+      "description": "Wojna z Iranem i wywołany nią szok podażowy osłabiły globalny popyt na ropę. Jednak trwałe rozwiązanie konfliktu z USA może wkrótce zalać rynek falą nowych dostaw i doprowadzić do potężnej nadwyżki surowca w przyszłym roku - przekazał portal CNBC, powołując się na dane Międzynarodowej Agencji Energetycznej (MAE).",
+      "originalTitle": "Zwrot na rynku ropy. Nadchodzi potężna nadwyżka",
+      "originalDescription": "Wojna z Iranem i wywołany nią szok podażowy osłabiły globalny popyt na ropę. Jednak trwałe rozwiązanie konfliktu z USA może wkrótce zalać rynek falą nowych dostaw i doprowadzić do potężnej nadwyżki surowca w przyszłym roku - przekazał portal CNBC, powołując się na dane Międzynarodowej Agencji Energetycznej (MAE)."
+    },
+    {
+      "title": "Hulajnogą na jednym kole",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ciechanow-hulajnoga-na-jednym-kole-st9101552?source=rss",
+      "pubDate": "Wed, 17 Jun 2026 19:31:54 GMT",
+      "description": "W Ciechanowie policjanci zatrzymali 15-latka, który na hulajnodze wykonywał niebezpieczne manewry, jadąc na jednym kole. Za swoje zachowanie odpowie przed sądem rodzinnym i nieletnich.",
+      "originalTitle": "Hulajnogą na jednym kole",
+      "originalDescription": "W Ciechanowie policjanci zatrzymali 15-latka, który na hulajnodze wykonywał niebezpieczne manewry, jadąc na jednym kole. Za swoje zachowanie odpowie przed sądem rodzinnym i nieletnich."
+    },
+    {
+      "title": "\"Żądamy podwyżki\". Pracownicy ZUS odeszli od biurek na dwie godziny",
+      "link": "https://tvn24.pl/biznes/z-kraju/strajk-w-oddzialach-zus-17-czerwca-2026-pracownicy-domagaja-sie-podwyzek-st9098151?source=rss",
+      "pubDate": "Tue, 16 Jun 2026 10:52:32 GMT",
+      "description": "Pracownicy Zakładu Ubezpieczeń Społecznych przeprowadzili w środę dwugodzinny strajk ostrzegawczy - poinformował NSZZ \"Solidarność\". To efekt trwającego sporu zbiorowego o podwyżki wynagrodzeń.",
+      "originalTitle": "\"Żądamy podwyżki\". Pracownicy ZUS odeszli od biurek na dwie godziny",
+      "originalDescription": "Pracownicy Zakładu Ubezpieczeń Społecznych przeprowadzili w środę dwugodzinny strajk ostrzegawczy - poinformował NSZZ \"Solidarność\". To efekt trwającego sporu zbiorowego o podwyżki wynagrodzeń."
+    }
+  ]
 }
