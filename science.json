@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2026-06-19T09:11:37.761Z",
+  "lastUpdate": "2026-06-19T11:02:28.634Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Jedna litera w RNA decyduje o przebiegu wojny z wirusem",
+      "link": "https://dzienniknaukowy.pl/jedna-litera-w-rna-decyduje-o-przebiegu-wojny-z-wirusem",
+      "pubDate": "Fri, 19 Jun 2026 10:07:04 +0000",
+      "description": "Niewielka zmiana na początku cząsteczki RNA potrafi postawić na nogi układ odpornościowy lub go uśpić - pokazał zespół z Międzynarodowego Instytutu Biologii Molekularnej i Komórkowej w Warszawie (IIMCB). Wiedza ta otwiera nowe drzwi dla projektowania nowych terapii."
+    },
+    {
+      "title": "Nowa metoda polskich chemików pozwala odzyskiwać lit z odpadów solnych",
+      "link": "https://dzienniknaukowy.pl/nowa-metoda-polskich-chemikow-pozwala-odzyskiwac-lit-z-odpadow-solnych",
+      "pubDate": "Fri, 19 Jun 2026 09:55:02 +0000",
+      "description": "Znane od dawna związki chemiczne, które potrafią wykrywać jony sodu, po niewielkiej modyfikacji mogą też selektywnie wychwytywać lit ze stałych mieszanin soli. Polscy chemicy pokazują, jak odzyskać niemal cały dostępny chlorek litu z próbki naśladującej odpadowe osady solne po przetwarzaniu solanek."
+    },
+    {
+      "title": "Co to jest GEO/AEO i dlaczego jest ważne właśnie teraz?",
+      "link": "https://dzienniknaukowy.pl/co-to-jest-geo-aeo-i-dlaczego-jest-wazne-wlasnie-teraz",
+      "pubDate": "Fri, 19 Jun 2026 08:16:00 +0000",
+      "description": "Zmieniające się algorytmy sprawiają, że tradycyjne metody pozycjonowania przestają wystarczać do utrzymania stabilnej widoczności witryny. Marketerzy muszą zmierzyć się z faktem, że sztuczna inteligencja coraz częściej serwuje gotowe odpowiedzi, zamiast jedynie odsyłać użytkownika do listy niebieskich linków. Artykuł wyjaśnia, jak zrozumieć koncepcje GEO oraz AEO i dlaczego stanowią one fundament nowoczesnej komunikacji cyfrowej."
+    },
     {
       "title": "Matematyk: w nieprzewidywalności świata kryje się klucz do rozwoju",
       "link": "https://dzienniknaukowy.pl/matematyk-w-nieprzewidywalnosci-swiata-kryje-sie-klucz-do-rozwoju",
@@ -44,24 +62,6 @@
       "link": "https://dzienniknaukowy.pl/polpasiec-to-nie-tylko-choroba-seniorow",
       "pubDate": "Mon, 15 Jun 2026 12:29:10 +0000",
       "description": "Półpasiec bywa błędnie postrzegany jako banalna choroba skóry albo schorzenie dotyczące wyłącznie osób starszych i ciężko chorych. Tymczasem może wystąpić w każdym wieku, także u dzieci, a jego objawy nie zawsze są podręcznikowe. Szczególnie groźnym następstwem choroby jest neuralgia popółpaścowa, która może trwać wiele lat."
-    },
-    {
-      "title": "Naukowcy z IFJ PAN mają pomysł na zwiększenie precyzji wiązek protonów m.in. w radioterapii",
-      "link": "https://dzienniknaukowy.pl/naukowcy-z-ifj-pan-maja-pomysl-na-zwiekszenie-precyzji-wiazek-protonow-m-in-w-radioterapii",
-      "pubDate": "Fri, 12 Jun 2026 11:41:43 +0000",
-      "description": "Wiązki protonów znajdują obecnie zastosowanie nie tylko w wyrafinowanych eksperymentach fizyki jądrowej, ale robią coraz większą karierę w radioterapii. W tej dziedzinie są trudnym do zastąpienia narzędziem niszczenia komórek nowotworowych. Ich precyzję lekarze i fizycy mogą zwiększyć dzięki dwóm rozwiązaniom opracowanym w Centrum Cyklotronowym Bronowice IFJ PAN."
-    },
-    {
-      "title": "Kombucha kombusze nierówna. O smaku i właściwościach decyduje herbata",
-      "link": "https://dzienniknaukowy.pl/kombucha-kombusze-nierowna-o-smaku-i-wlasciwosciach-decyduje-herbata",
-      "pubDate": "Fri, 12 Jun 2026 11:22:37 +0000",
-      "description": "Kombucha przygotowana z zielonej herbaty i herbaty oolong wykazuje najwyższą aktywność antyoksydacyjną spośród badanych wariantów — wynika z analiz naukowców z Uniwersytetu Przyrodniczego i Uniwersytetu Medycznego we Wrocławiu. Badacze sprawdzili, jak pięć rodzajów herbaty wpływa na skład chemiczny, aromat i potencjalne właściwości biologiczne popularnego napoju fermentowanego. Wyniki pokazują, że kombucha nie jest jednym uniwersalnym produktem: jej charakter zależy w dużej mierze od surowca, z którego powstaje."
-    },
-    {
-      "title": "Nowy pomiar masy bozonu W wzmacnia Model Standardowy",
-      "link": "https://dzienniknaukowy.pl/nowy-pomiar-masy-bozonu-w-wzmacnia-model-standardowy",
-      "pubDate": "Thu, 11 Jun 2026 11:51:34 +0000",
-      "description": "Eksperyment CMS w CERN zmierzył masę bozonu W z dokładnością bliską 10 MeV. Wynik jest zgodny z przewidywaniami Modelu Standardowego i osłabia wcześniejsze napięcie wywołane pomiarem CDF, który sugerował możliwy ślad nowej fizyki."
     }
   ]
 }
