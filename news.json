@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-22T10:25:06.912Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-22T12:32:37.598Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pożar fabryki aerozoli. Ogień opanowany, prokurator wszczyna dochodzenie",
+      "link": "https://tvn24.pl/trojmiasto/charnowo-pozar-fabryki-aerozoli-prokurator-wszczyna-dochodzenie-st9108525?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 12:24:04 GMT",
+      "description": "Strażacy dogaszają pożar zakładu w Charnowie na Pomorzu. Ewakuowani wcześniej mieszkańcy mogą wrócić na swoje posesje. Skala zniszczeń jest ogromna - ogień strawił znaczną część fabryki. Przyczyny pożaru wyjaśnia prokuratura w Słupsku.",
+      "originalTitle": "Pożar fabryki aerozoli. Ogień opanowany, prokurator wszczyna dochodzenie",
+      "originalDescription": "Strażacy dogaszają pożar zakładu w Charnowie na Pomorzu. Ewakuowani wcześniej mieszkańcy mogą wrócić na swoje posesje. Skala zniszczeń jest ogromna - ogień strawił znaczną część fabryki. Przyczyny pożaru wyjaśnia prokuratura w Słupsku."
+    },
+    {
+      "title": "W Puźnikach ruszyły kolejne poszukiwana ofiar zbrodni UPA",
+      "link": "https://tvn24.pl/swiat/ruszyly-poszukiwania-kolejnych-ofiar-zbrodni-upa-w-puznikach-na-ukrainie-st9108192?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 12:22:56 GMT",
+      "description": "W ukraińskich Puźnikach rozpoczęły się kolejne poszukiwania zbiorowych mogił Polaków zamordowanych przez UPA. Naukowcy szacują, że ofiar było więcej, niż dotąd odnaleziono.",
+      "originalTitle": "W Puźnikach ruszyły kolejne poszukiwana ofiar zbrodni UPA",
+      "originalDescription": "W ukraińskich Puźnikach rozpoczęły się kolejne poszukiwania zbiorowych mogił Polaków zamordowanych przez UPA. Naukowcy szacują, że ofiar było więcej, niż dotąd odnaleziono."
+    },
+    {
+      "title": "Nie żyje były szef Rezerwy Federalnej Alan Greenspan",
+      "link": "https://tvn24.pl/biznes/ze-swiata/nie-zyje-byly-szef-rezerwy-federalnej-alan-greenspan-st9108568?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 12:20:49 GMT",
+      "description": "Alan Greenspan, legendarny ekonomista i wieloletni szef amerykańskiej Rezerwy Federalnej, zmarł w wieku 100 lat z powodu powikłań choroby Parkinsona - poinformowała jego żona, dziennikarka Andrea Mitchell. Greenspan był jednym z najbardziej wpływowych architektów współczesnej polityki pieniężnej, ale też postacią budzącą kontrowersje za swoje podejście do deregulacji rynków finansowych.",
+      "originalTitle": "Nie żyje były szef Rezerwy Federalnej Alan Greenspan",
+      "originalDescription": "Alan Greenspan, legendarny ekonomista i wieloletni szef amerykańskiej Rezerwy Federalnej, zmarł w wieku 100 lat z powodu powikłań choroby Parkinsona - poinformowała jego żona, dziennikarka Andrea Mitchell. Greenspan był jednym z najbardziej wpływowych architektów współczesnej polityki pieniężnej, ale też postacią budzącą kontrowersje za swoje podejście do deregulacji rynków finansowych."
+    },
+    {
+      "title": "Zełenski przyjedzie do Polski? Przedstawiciel jego kancelarii zabrał głos",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-przyjedzie-do-polski-przedstawiciel-jego-kancelarii-zabral-glos-st9108326?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 12:01:50 GMT",
+      "description": "Doradca prezydenta Ukrainy do spraw komunikacji przekazał, że temat wizyty Wołodymyra Zełenskiego w Polsce jest wciąż otwarty. W dniach 25-26 czerwca w Gdańsku planowana jest Konferencja na rzecz Odbudowy Ukrainy.",
+      "originalTitle": "Zełenski przyjedzie do Polski? Przedstawiciel jego kancelarii zabrał głos",
+      "originalDescription": "Doradca prezydenta Ukrainy do spraw komunikacji przekazał, że temat wizyty Wołodymyra Zełenskiego w Polsce jest wciąż otwarty. W dniach 25-26 czerwca w Gdańsku planowana jest Konferencja na rzecz Odbudowy Ukrainy."
+    },
+    {
+      "title": "Nawałnica w Krakowie. \"Drzewo spadło na mój balkon\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burza-w-krakowie-szkody-po-nawalnicy-drzewo-spadlo-na-moj-balkon-st9108323?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 11:58:20 GMT",
+      "description": "Nawałnica przeszła w poniedziałek nad Krakowem. W stolicy Małopolski strażacy do godziny 13 otrzymali aż 217 zgłoszeń. Do niebezpiecznej sytuacji doszło na osiedlu Dywizjonu 303, gdzie drzewo spadło na balkon w domu wielorodzinnym. Materiały otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Nawałnica w Krakowie. \"Drzewo spadło na mój balkon\"",
+      "originalDescription": "Nawałnica przeszła w poniedziałek nad Krakowem. W stolicy Małopolski strażacy do godziny 13 otrzymali aż 217 zgłoszeń. Do niebezpiecznej sytuacji doszło na osiedlu Dywizjonu 303, gdzie drzewo spadło na balkon w domu wielorodzinnym. Materiały otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Koniec tanich samochodów z Chin? Pekin już grozi",
+      "link": "https://tvn24.pl/swiat/samochody-z-chin-podrozeja-ue-pracuje-nad-barierami-i-cenami-minimalnymi-pekin-grozi-st9088974?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 11:52:32 GMT",
+      "description": "Boom na chińskie samochody może się wkrótce skończyć. Sprzedawane często poniżej wartości wywołały taki wstrząs, że nawet najbardziej przychylne Chinom unijne państwa zaczynają się bać. Bruksela pracuje nad planem, który ma wyrównać szanse. Czy to zatrzyma chińskie samochody?",
+      "originalTitle": "Koniec tanich samochodów z Chin? Pekin już grozi",
+      "originalDescription": "Boom na chińskie samochody może się wkrótce skończyć. Sprzedawane często poniżej wartości wywołały taki wstrząs, że nawet najbardziej przychylne Chinom unijne państwa zaczynają się bać. Bruksela pracuje nad planem, który ma wyrównać szanse. Czy to zatrzyma chińskie samochody?"
+    },
+    {
+      "title": "Narażone przed narodzinami. Jak chemikalia wpływają na zdrowie dzieci?",
+      "link": "https://tvn24.pl/zdrowie/chemikalia-w-ciazy-moga-wplywac-na-cale-zycie-dziecka-st9108250?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 11:49:03 GMT",
+      "description": "Kobiety w ciąży mają kontakt z dziesiątkami powszechnie występujących substancji chemicznych - ostrzegają naukowcy z University of North Carolina oraz Stanford University. Część z nich może zwiększać ryzyko wcześniejszego porodu i powodować inne niekorzystne skutki zdrowotne u dziecka, które mogą utrzymywać się przez całe życie.",
+      "originalTitle": "Narażone przed narodzinami. Jak chemikalia wpływają na zdrowie dzieci?",
+      "originalDescription": "Kobiety w ciąży mają kontakt z dziesiątkami powszechnie występujących substancji chemicznych - ostrzegają naukowcy z University of North Carolina oraz Stanford University. Część z nich może zwiększać ryzyko wcześniejszego porodu i powodować inne niekorzystne skutki zdrowotne u dziecka, które mogą utrzymywać się przez całe życie."
+    },
+    {
+      "title": "Chcieli wyłudzić ponad 36 milionów złotych. Nowy akt oskarżenia w aferze NCBiR",
+      "link": "https://tvn24.pl/biznes/z-kraju/ncbir-chcieli-wyludzic-ponad-36-milionow-zlotych-prokuratura-w-warszawie-sklada-nowy-akt-oskarzenia-st9108251?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 11:47:12 GMT",
+      "description": "Prokuratura Regionalna w Warszawie skierowała do Sądu Okręgowego w Warszawie kolejny akt oskarżenia w sprawie nieprawidłowości w Narodowym Centrum Badań i Rozwoju (NCBiR). Oskarżeni usiłowali wyłudzić niemal 36,5 miliona złotych.",
+      "originalTitle": "Chcieli wyłudzić ponad 36 milionów złotych. Nowy akt oskarżenia w aferze NCBiR",
+      "originalDescription": "Prokuratura Regionalna w Warszawie skierowała do Sądu Okręgowego w Warszawie kolejny akt oskarżenia w sprawie nieprawidłowości w Narodowym Centrum Badań i Rozwoju (NCBiR). Oskarżeni usiłowali wyłudzić niemal 36,5 miliona złotych."
+    },
+    {
+      "title": "Kardynał Dziwisz nie zeznawał w sprawie pedofilii. Archidiecezja: rozchorował się",
+      "link": "https://tvn24.pl/krakow/krakow-kardynal-stanislaw-dziwisz-nie-zeznawal-w-sadzie-w-sprawie-pedofilii-archidiecezja-rozchorowal-sie-st9108179?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 11:47:05 GMT",
+      "description": "Kardynał Stanisław Dziwisz nie przyszedł zeznawać na rozprawie, która dotyczyła pedofilii w archidiecezji krakowskiej. Kuria tłumaczy to chorobą emerytowanego hierarchy. Zadośćuczynienia chce Janusz Szymik - ofiara księdza-pedofila. Pozwał archidiecezję na 20 milionów złotych.",
+      "originalTitle": "Kardynał Dziwisz nie zeznawał w sprawie pedofilii. Archidiecezja: rozchorował się",
+      "originalDescription": "Kardynał Stanisław Dziwisz nie przyszedł zeznawać na rozprawie, która dotyczyła pedofilii w archidiecezji krakowskiej. Kuria tłumaczy to chorobą emerytowanego hierarchy. Zadośćuczynienia chce Janusz Szymik - ofiara księdza-pedofila. Pozwał archidiecezję na 20 milionów złotych."
+    },
+    {
+      "title": "Wiceprezydent USA: cieśnina Ormuz jest otwarta",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wiceprezydent-usa-ciesnina-ormuz-jest-otwarta-st9108255?source=rss",
+      "pubDate": "Mon, 22 Jun 2026 11:37:08 GMT",
+      "description": "Wiceprezydent USA J.D. Vance przekazał, że cieśnina Ormuz jest otwarta. To efekt zawartego porozumienia pomiędzy USA a Iranem.",
+      "originalTitle": "Wiceprezydent USA: cieśnina Ormuz jest otwarta",
+      "originalDescription": "Wiceprezydent USA J.D. Vance przekazał, że cieśnina Ormuz jest otwarta. To efekt zawartego porozumienia pomiędzy USA a Iranem."
+    }
+  ]
 }
