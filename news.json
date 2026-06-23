@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-23T20:46:33.735Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-23T21:35:55.771Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ewakuacja komisariatu w Iławie. Z podejrzanej paczki wydobyła się substancja, policjant ranny",
+      "link": "https://tvn24.pl/olsztyn/ilawa-ewakuacja-komisariatu-policji-z-podejrzanej-paczki-wydobyla-sie-substancja-policjant-ranny-st9111077?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 20:32:10 GMT",
+      "description": "Na komendzie policji w Iławie doszło do groźnego zdarzenia. Z paczki, którą na miejsce przyniosła kobieta, wydobyła się substancja, która raniła policjanta w twarz. \"Budynek komendy został ewakuowany na czas prowadzonych działań. Równolegle prowadzone są czynności mające ustalić nadawcę przesyłki\" - przekazała policja.",
+      "originalTitle": "Ewakuacja komisariatu w Iławie. Z podejrzanej paczki wydobyła się substancja, policjant ranny",
+      "originalDescription": "Na komendzie policji w Iławie doszło do groźnego zdarzenia. Z paczki, którą na miejsce przyniosła kobieta, wydobyła się substancja, która raniła policjanta w twarz. \"Budynek komendy został ewakuowany na czas prowadzonych działań. Równolegle prowadzone są czynności mające ustalić nadawcę przesyłki\" - przekazała policja."
+    },
+    {
+      "title": "Donald Tusk: traktuję to jako gest na rzecz deeskalacji napięcia",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-nieobecnosci-wolodymyra-zelenskiego-w-gdansku-traktuje-to-jako-gest-na-rzecz-deeskalacji-napiecia-st9111018?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 20:05:11 GMT",
+      "description": "Z mojego punktu widzenia obecność premier, a nie prezydenta Ukrainy oznacza być może nawet sprawniejsze przeprowadzenie konferencji - powiedział Donald Tusk, komentując wybór ukraińskiej delegacji, która weźmie udział w wydarzeniu w Gdańsku. Zaznaczył, że traktuje to jako \"gest na rzecz deeskalacji napięcia\".",
+      "originalTitle": "Donald Tusk: traktuję to jako gest na rzecz deeskalacji napięcia",
+      "originalDescription": "Z mojego punktu widzenia obecność premier, a nie prezydenta Ukrainy oznacza być może nawet sprawniejsze przeprowadzenie konferencji - powiedział Donald Tusk, komentując wybór ukraińskiej delegacji, która weźmie udział w wydarzeniu w Gdańsku. Zaznaczył, że traktuje to jako \"gest na rzecz deeskalacji napięcia\"."
+    },
+    {
+      "title": "Duża wygrana w Eurojackpot w Polsce",
+      "link": "https://tvn24.pl/biznes/z-kraju/eurojackpot-wyniki-z-23-czerwca-2026-roku-jakie-liczby-padly-w-trakcie-losowania-st9111056?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 20:00:17 GMT",
+      "description": "We wtorek w losowaniu Eurojackpot po raz kolejny nie padła główna wygrana. Kumulacja rośnie zatem do 360 milionów złotych. W Polsce najwyższa okazała się wygrana trzeciego stopnia w wysokości ponad 1,3 miliona złotych. Oto wyniki losowania z 23 czerwca 2026 roku.",
+      "originalTitle": "Duża wygrana w Eurojackpot w Polsce",
+      "originalDescription": "We wtorek w losowaniu Eurojackpot po raz kolejny nie padła główna wygrana. Kumulacja rośnie zatem do 360 milionów złotych. W Polsce najwyższa okazała się wygrana trzeciego stopnia w wysokości ponad 1,3 miliona złotych. Oto wyniki losowania z 23 czerwca 2026 roku."
+    },
+    {
+      "title": "Sekretarz skarbu USA deklaruje: cieśnina Ormuz bez opłat",
+      "link": "https://tvn24.pl/biznes/ze-swiata/sekretarz-skarbu-usa-deklaruje-ciesnina-ormuz-bez-oplat-st9111046?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 19:37:46 GMT",
+      "description": "Sekretarz stanu USA Marco Rubio oświadczył we wtorek w Abu Zabi, że statki przepływające przez cieśninę Ormuz nie będą objęte opłatami. Dodał, że stanowisko to ma poparcie wszystkich państw regionu.",
+      "originalTitle": "Sekretarz skarbu USA deklaruje: cieśnina Ormuz bez opłat",
+      "originalDescription": "Sekretarz stanu USA Marco Rubio oświadczył we wtorek w Abu Zabi, że statki przepływające przez cieśninę Ormuz nie będą objęte opłatami. Dodał, że stanowisko to ma poparcie wszystkich państw regionu."
+    },
+    {
+      "title": "Upały w Polsce. Są alarmy drugiego stopnia",
+      "link": "https://tvn24.pl/tvnmeteo/polska/upal-w-polsce-gdzie-i-kiedy-polska-zacznie-sie-podgrzewac-ostrzezenia-imgw-i-rcb-st9109523?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 07:35:38 GMT",
+      "description": "Do Polski zbliża się fala upałów. Instytut Meteorologii i Gospodarki Wodnej wydał na środę pomarańczowe ostrzeżenia meteorologiczne. Przed niebezpieczną pogodą ostrzega także Rządowe Centrum Bezpieczeństwa.",
+      "originalTitle": "Upały w Polsce. Są alarmy drugiego stopnia",
+      "originalDescription": "Do Polski zbliża się fala upałów. Instytut Meteorologii i Gospodarki Wodnej wydał na środę pomarańczowe ostrzeżenia meteorologiczne. Przed niebezpieczną pogodą ostrzega także Rządowe Centrum Bezpieczeństwa."
+    },
+    {
+      "title": "Upały. To zagrożenie czyha na nas także w upalne dni",
+      "link": "https://tvn24.pl/tvnmeteo/polska/upaly-czad-to-zagrozenie-czyha-na-nas-takze-w-upalne-dni-st9111006?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 19:08:07 GMT",
+      "description": "Czad może być zagrożeniem dla naszego życia i zdrowia nie tylko w okresie zimowym. W ostatnim czasie strażacy na Śląsku odnotowali kilkaset zgłoszeń związanych z podwyższonym poziomem tlenku węgla w mieszkaniach. Jak się przed tym zabezpieczyć? Służby doradzają.",
+      "originalTitle": "Upały. To zagrożenie czyha na nas także w upalne dni",
+      "originalDescription": "Czad może być zagrożeniem dla naszego życia i zdrowia nie tylko w okresie zimowym. W ostatnim czasie strażacy na Śląsku odnotowali kilkaset zgłoszeń związanych z podwyższonym poziomem tlenku węgla w mieszkaniach. Jak się przed tym zabezpieczyć? Służby doradzają."
+    },
+    {
+      "title": "Po co nam konferencja w Gdańsku? \"Byłaby to ogromna porażka\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/gdansk-konferencja-o-odbudowie-ukrainy-jakie-znaczenie-dla-polskich-firm-st9110955?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 19:01:56 GMT",
+      "description": "Gdańska konferencja dotycząca odbudowy Ukrainy odbędzie się bez Wołodymyra Zełenskiego, prezydenta tego państwa. Będzie premier. Co to zmienia? Okaże się w czwartek. Czy w atmosferze konfliktu da się robić biznes, podpisywać umowy i planować inwestycje? W Gdańsku będą szefowa Komisji Europejskiej, kanclerz Niemiec, premierzy i ministrowie. Materiał Michała Tracza, reportera \"Faktów\" TVN.",
+      "originalTitle": "Po co nam konferencja w Gdańsku? \"Byłaby to ogromna porażka\"",
+      "originalDescription": "Gdańska konferencja dotycząca odbudowy Ukrainy odbędzie się bez Wołodymyra Zełenskiego, prezydenta tego państwa. Będzie premier. Co to zmienia? Okaże się w czwartek. Czy w atmosferze konfliktu da się robić biznes, podpisywać umowy i planować inwestycje? W Gdańsku będą szefowa Komisji Europejskiej, kanclerz Niemiec, premierzy i ministrowie. Materiał Michała Tracza, reportera \"Faktów\" TVN."
+    },
+    {
+      "title": "Szymon Hołownia już nie jest wiceszefem Polski 2050. Złożył rezygnację i założył nową grupę",
+      "link": "https://tvn24.pl/polska/szymon-holownia-juz-nie-jest-wiceszefem-polski-2050-zlozyl-rezygnacje-i-zalozyl-nowa-grupe-st9111024?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 18:59:57 GMT",
+      "description": "Szymon Hołownia złożył rezygnację z funkcji wiceprzewodniczącego Polski 2050 - ustalił Patryk Michalski, autor programu \"News Michalskiego\" w TVN24+. Jego nazwisko po cichu zniknęło z zakładki \"zarząd krajowy\" na stronie internetowej partii, choć pozostaje wicemarszałkiem z ramienia Polski 2050 i członkiem tego ugrupowania. Z ustaleń naszego dziennikarza wynika, że Hołownia niedawno założył w mediach społecznościowych grupę \"Umiarkowani\".",
+      "originalTitle": "Szymon Hołownia już nie jest wiceszefem Polski 2050. Złożył rezygnację i założył nową grupę",
+      "originalDescription": "Szymon Hołownia złożył rezygnację z funkcji wiceprzewodniczącego Polski 2050 - ustalił Patryk Michalski, autor programu \"News Michalskiego\" w TVN24+. Jego nazwisko po cichu zniknęło z zakładki \"zarząd krajowy\" na stronie internetowej partii, choć pozostaje wicemarszałkiem z ramienia Polski 2050 i członkiem tego ugrupowania. Z ustaleń naszego dziennikarza wynika, że Hołownia niedawno założył w mediach społecznościowych grupę \"Umiarkowani\"."
+    },
+    {
+      "title": "Kowal o napięciach z Ukrainą: naszą rolą jest łagodzić",
+      "link": "https://tvn24.pl/polska/pawel-kowal-o-napieciach-z-ukraina-nasza-rola-jest-lagodzic-st9110947?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 18:55:18 GMT",
+      "description": "Potwierdziliśmy sobie, że w sprawach historii różnimy się zasadniczo, ale też, że w innych sprawach będziemy współpracować - mówił w \"Kropce nad i\" w TVN24 poseł KO Paweł Kowal, komentując napięcie w relacjach polsko-ukraińskich. Odniósł się również do nieobecności Wołodymyra Zełenskiego na konferencji na rzecz odbudowy Ukrainy.",
+      "originalTitle": "Kowal o napięciach z Ukrainą: naszą rolą jest łagodzić",
+      "originalDescription": "Potwierdziliśmy sobie, że w sprawach historii różnimy się zasadniczo, ale też, że w innych sprawach będziemy współpracować - mówił w \"Kropce nad i\" w TVN24 poseł KO Paweł Kowal, komentując napięcie w relacjach polsko-ukraińskich. Odniósł się również do nieobecności Wołodymyra Zełenskiego na konferencji na rzecz odbudowy Ukrainy."
+    },
+    {
+      "title": "Kryzys w relacjach polsko-ukraińskich. Marek Magierowski: Wołodymyr Zełenski nie spodziewał się",
+      "link": "https://tvn24.pl/polska/kryzys-w-relacjach-polsko-ukrainskich-marek-magierowski-wolodymyr-zelenski-nie-spodziewal-sie-st9110884?source=rss",
+      "pubDate": "Tue, 23 Jun 2026 18:45:41 GMT",
+      "description": "Wołodymyr Zełenski robił to absolutnie cynicznie, natomiast przekalkulował - powiedział w \"Faktach po Faktach\" w TVN24 były ambasador Polski w Izraelu i w Stanach Zjednoczonych Marek Magierowski. Komentował ostatnie wydarzenia po decyzji prezydenta Ukrainy o nadaniu jednej z jednostek wojskowych nazwy \"Bohaterów UPA\".",
+      "originalTitle": "Kryzys w relacjach polsko-ukraińskich. Marek Magierowski: Wołodymyr Zełenski nie spodziewał się",
+      "originalDescription": "Wołodymyr Zełenski robił to absolutnie cynicznie, natomiast przekalkulował - powiedział w \"Faktach po Faktach\" w TVN24 były ambasador Polski w Izraelu i w Stanach Zjednoczonych Marek Magierowski. Komentował ostatnie wydarzenia po decyzji prezydenta Ukrainy o nadaniu jednej z jednostek wojskowych nazwy \"Bohaterów UPA\"."
+    }
+  ]
 }
