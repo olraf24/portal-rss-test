@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-24T22:30:30.863Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-24T23:28:52.747Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Brak kworum i sprzeczne oświadczenia. Zamieszanie w Trybunale Konstytucyjnym",
+      "link": "https://tvn24.pl/polska/brak-kworum-na-posiedzeniu-sedziow-trybunalu-konstytucyjnego-bogdan-swieczkowski-wezwal-do-opuszczenia-sali-st9112831?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 20:36:51 GMT",
+      "description": "Z powodu braku kworum nie odbyło się posiedzenie Zgromadzenia Ogólnego Sędziów Trybunału Konstytucyjnego. Na listę obecności nie wpisało się bowiem dwoje sędziów. Na spotkaniu pojawili się też sędziowie, których prezes Bogdan Święczkowski nie dopuszcza do pracy.",
+      "originalTitle": "Brak kworum i sprzeczne oświadczenia. Zamieszanie w Trybunale Konstytucyjnym",
+      "originalDescription": "Z powodu braku kworum nie odbyło się posiedzenie Zgromadzenia Ogólnego Sędziów Trybunału Konstytucyjnego. Na listę obecności nie wpisało się bowiem dwoje sędziów. Na spotkaniu pojawili się też sędziowie, których prezes Bogdan Święczkowski nie dopuszcza do pracy."
+    },
+    {
+      "title": "Pożar składowiska odpadów. Ostrzeżenie dla mieszkańców kilku powiatów",
+      "link": "https://tvn24.pl/katowice/plonie-tysiac-metrow-skladowiska-odpadow-w-chorzowie-ogien-sie-rozszerza-nagranie-st9112532?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 15:57:42 GMT",
+      "description": "Strażacy opanowali pożar składowiska odpadów w Chorzowie. Kłęby czarnego dymu przez wiele godzin były widoczne z kilkudziesięciu kilometrów. Wydano ostrzeżenie dla mieszkańców.",
+      "originalTitle": "Pożar składowiska odpadów. Ostrzeżenie dla mieszkańców kilku powiatów",
+      "originalDescription": "Strażacy opanowali pożar składowiska odpadów w Chorzowie. Kłęby czarnego dymu przez wiele godzin były widoczne z kilkudziesięciu kilometrów. Wydano ostrzeżenie dla mieszkańców."
+    },
+    {
+      "title": "Burza po słowach szefa NATO. Rzeczniczka tłumaczy",
+      "link": "https://tvn24.pl/swiat/burza-po-slowach-szefa-nato-marka-ruttego-rzeczniczka-sojuszu-tlumaczy-st9112861?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 20:09:54 GMT",
+      "description": "Sekretarz generalny NATO Mark Rutte powiedział, że 500 samolotów wystartowało z amerykańskich baz we Włoszech, by wesprzeć działania wojenne USA na Bliskim Wschodzie. Słowa szefa sojuszu wywołały burzę, włoska opozycja natychmiast zażądała wyjaśnień od rządu, zareagował resort obrony. Później rzeczniczka NATO wytłumaczyła wypowiedź Ruttego.",
+      "originalTitle": "Burza po słowach szefa NATO. Rzeczniczka tłumaczy",
+      "originalDescription": "Sekretarz generalny NATO Mark Rutte powiedział, że 500 samolotów wystartowało z amerykańskich baz we Włoszech, by wesprzeć działania wojenne USA na Bliskim Wschodzie. Słowa szefa sojuszu wywołały burzę, włoska opozycja natychmiast zażądała wyjaśnień od rządu, zareagował resort obrony. Później rzeczniczka NATO wytłumaczyła wypowiedź Ruttego."
+    },
+    {
+      "title": "Ostrzeżenia IMGW dla dziesięciu województw",
+      "link": "https://tvn24.pl/tvnmeteo/polska/upal-w-polsce-gdzie-i-kiedy-polska-zacznie-sie-podgrzewac-ostrzezenia-imgw-i-rcb-st9109523?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 04:49:00 GMT",
+      "description": "IMGW ostrzega przed upałem. W dziesięciu województwach w mocy są alarmy drugiego stopnia. Jak podkreślają meteorolodzy, skwar szybko nie odpuści.",
+      "originalTitle": "Ostrzeżenia IMGW dla dziesięciu województw",
+      "originalDescription": "IMGW ostrzega przed upałem. W dziesięciu województwach w mocy są alarmy drugiego stopnia. Jak podkreślają meteorolodzy, skwar szybko nie odpuści."
+    },
+    {
+      "title": "Koniec wielkiej hossy. Złoto najtańsze od miesięcy",
+      "link": "https://tvn24.pl/biznes/rynki/cena-zlota-24-czerwca-2026-koniec-wielkiej-hossy-kruszec-najtanszy-od-miesiecy-st9112816?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 19:44:39 GMT",
+      "description": "Cena złota na globalnych rynkach spadła po raz pierwszy od listopada do poziomu poniżej czterech tysięcy dolarów za uncję. W swoim ostatnim szczycie kruszec kosztował blisko pięć tysięcy dolarów. Ceny srebra również spadają.",
+      "originalTitle": "Koniec wielkiej hossy. Złoto najtańsze od miesięcy",
+      "originalDescription": "Cena złota na globalnych rynkach spadła po raz pierwszy od listopada do poziomu poniżej czterech tysięcy dolarów za uncję. W swoim ostatnim szczycie kruszec kosztował blisko pięć tysięcy dolarów. Ceny srebra również spadają."
+    },
+    {
+      "title": "Asteroida mknie ku Ziemi. Taki przelot zdarza się \"raz na kilka lat\"",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/asteroida-1997nc1-mknie-ku-ziemi-taki-przelot-zdarza-sie-raz-na-kilka-lat-st9112770?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 19:22:44 GMT",
+      "description": "Asteroida 1997NC1 przeleci blisko Ziemi w sobotę. Obiekt nie będzie stanowił zagrożenia dla naszej planety. Przelot kosmicznej skały jest jednak wart uwagi z innego powodu - tak duże asteroidy odwiedzają nas dość rzadko.",
+      "originalTitle": "Asteroida mknie ku Ziemi. Taki przelot zdarza się \"raz na kilka lat\"",
+      "originalDescription": "Asteroida 1997NC1 przeleci blisko Ziemi w sobotę. Obiekt nie będzie stanowił zagrożenia dla naszej planety. Przelot kosmicznej skały jest jednak wart uwagi z innego powodu - tak duże asteroidy odwiedzają nas dość rzadko."
+    },
+    {
+      "title": "Posłowie o Jędrzejewskim. \"To jest teraz jego zadanie, żeby udowodnić\"",
+      "link": "https://tvn24.pl/polska/bardzo-mocne-oskarzenia-poslowie-komentuja-slowa-emila-jedrzejewskiego-st9112712?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 19:16:52 GMT",
+      "description": "Posłowie z sejmowej komisji zdrowia komentowali w \"Kropce nad i\" w TVN24 oskarżenia Emila Jędrzejewskiego, byłego ordynatora, w sprawie działania Szpitala Południowego. - Pojawia się pytanie, dlaczego w prokuraturze nie odpowiadał - mówiła Marta Golbik z KO. Janusz Cieszyński z PiS podkreślił, że teraz zadaniem Jędrzejewskiego jest \"udowodnienie tych wszystkich rzeczy\".",
+      "originalTitle": "Posłowie o Jędrzejewskim. \"To jest teraz jego zadanie, żeby udowodnić\"",
+      "originalDescription": "Posłowie z sejmowej komisji zdrowia komentowali w \"Kropce nad i\" w TVN24 oskarżenia Emila Jędrzejewskiego, byłego ordynatora, w sprawie działania Szpitala Południowego. - Pojawia się pytanie, dlaczego w prokuraturze nie odpowiadał - mówiła Marta Golbik z KO. Janusz Cieszyński z PiS podkreślił, że teraz zadaniem Jędrzejewskiego jest \"udowodnienie tych wszystkich rzeczy\"."
+    },
+    {
+      "title": "Mieszkania w Hiszpanii na celowniku. Zamożni Polacy znaleźli tu bezpieczną przystań",
+      "link": "https://tvn24.pl/biznes/ze-swiata/nieruchomosci-w-hiszpanii-bogaci-uciekaja-przed-wojna-w-ukrainie-i-iranie-ceny-nieruchomosci-ostro-w-gore-st9112766?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 19:07:37 GMT",
+      "description": "Osoby zamożne z Polski, Stanów Zjednoczonych oraz krajów Zatoki Perskiej napływają do Madrytu i na hiszpańskie wybrzeże Costa del Sol - przekazał Reuters. Masowo wykupują tam nieruchomości, w których widzą schronienie przed wojnami w Ukrainie i na Bliskim Wschodzie, a także przed zawirowaniami politycznymi w USA.",
+      "originalTitle": "Mieszkania w Hiszpanii na celowniku. Zamożni Polacy znaleźli tu bezpieczną przystań",
+      "originalDescription": "Osoby zamożne z Polski, Stanów Zjednoczonych oraz krajów Zatoki Perskiej napływają do Madrytu i na hiszpańskie wybrzeże Costa del Sol - przekazał Reuters. Masowo wykupują tam nieruchomości, w których widzą schronienie przed wojnami w Ukrainie i na Bliskim Wschodzie, a także przed zawirowaniami politycznymi w USA."
+    },
+    {
+      "title": "Afera w Szpitalu Południowym. Lekarze o okazji do \"oczyszczenia\"",
+      "link": "https://tvn24.pl/polska/afera-w-szpitalu-poludniowym-lekarze-o-okazji-do-oczyszczenia-st9112759?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 19:01:47 GMT",
+      "description": "To, z czym mamy do czynienia, jest efektem decyzji, które podjęto z górą 20 lat temu - powiedział w \"Faktach po Faktach\" w TVN24 doktor nauk medycznych Konstanty Szułdrzyński. Aferę w Warszawskim Szpitalu Południowym i kryzys w ochronie zdrowia komentował też doktor nauk medycznych Michał Sutkowski.",
+      "originalTitle": "Afera w Szpitalu Południowym. Lekarze o okazji do \"oczyszczenia\"",
+      "originalDescription": "To, z czym mamy do czynienia, jest efektem decyzji, które podjęto z górą 20 lat temu - powiedział w \"Faktach po Faktach\" w TVN24 doktor nauk medycznych Konstanty Szułdrzyński. Aferę w Warszawskim Szpitalu Południowym i kryzys w ochronie zdrowia komentował też doktor nauk medycznych Michał Sutkowski."
+    },
+    {
+      "title": "\"Zwykli ludzie nie mogą nawet marzyć\". Nowy trend w Korei Północnej",
+      "link": "https://tvn24.pl/biznes/ze-swiata/korea-polnocna-nowy-trend-modowy-stroje-zony-i-corki-kim-dzong-una-st9112344?source=rss",
+      "pubDate": "Wed, 24 Jun 2026 18:54:05 GMT",
+      "description": "Rodzina Kim Dzong Una wyznacza nowy trend wśród zamożnej elity w Korei Północnej. Stroje, które żona i córka przywódcy prezentują podczas publicznych wystąpień, wyznaczają standardy modowe - wskazuje portal Daily NK.",
+      "originalTitle": "\"Zwykli ludzie nie mogą nawet marzyć\". Nowy trend w Korei Północnej",
+      "originalDescription": "Rodzina Kim Dzong Una wyznacza nowy trend wśród zamożnej elity w Korei Północnej. Stroje, które żona i córka przywódcy prezentują podczas publicznych wystąpień, wyznaczają standardy modowe - wskazuje portal Daily NK."
+    }
+  ]
 }
