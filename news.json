@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-26T10:33:17.724Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-26T11:53:31.170Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nawet 42 stopnie. Są alerty IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/upaly-w-polsce-czerwone-alarmy-imgw-nawet-42-stopnie-st9115734?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:50:33 GMT",
+      "description": "IMGW wydał ostrzeżenia przed upałami. W kolejnych dniach prognozowane są ekstremalne upały. Będą takie miejsca, gdzie temperatura może osiągnąć nawet 42 stopnie Celsjusza.",
+      "originalTitle": "Nawet 42 stopnie. Są alerty IMGW",
+      "originalDescription": "IMGW wydał ostrzeżenia przed upałami. W kolejnych dniach prognozowane są ekstremalne upały. Będą takie miejsca, gdzie temperatura może osiągnąć nawet 42 stopnie Celsjusza."
+    },
+    {
+      "title": "Katastrofa samolotu na lotnisku Bemowo. Nagranie",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/katastrofa-samolotu-na-lotnisku-bemowo-nagranie-st9115652?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:49:10 GMT",
+      "description": "W czwartek w rejonie lotniska na Bemowie doszło do katastrofy małego samolotu pasażerskiego. Zginęły dwie osoby. Kamera monitoringu szkoły jazdy, która sąsiaduje z lotniskiem, zarejestrowała moment wypadku.",
+      "originalTitle": "Katastrofa samolotu na lotnisku Bemowo. Nagranie",
+      "originalDescription": "W czwartek w rejonie lotniska na Bemowie doszło do katastrofy małego samolotu pasażerskiego. Zginęły dwie osoby. Kamera monitoringu szkoły jazdy, która sąsiaduje z lotniskiem, zarejestrowała moment wypadku."
+    },
+    {
+      "title": "Ochrona pracowników w czasie upałów. Zwołano nadzwyczajne posiedzenie",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/praca-w-upale-zwolano-nadzwyczajne-posiedzenie-dziemianowicz-bak-prawo-musi-nadazac-za-zachodzacymi-zmianami-st9115663?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:48:46 GMT",
+      "description": "Projekt rozporządzenia ministra rodziny, pracy i polityki społecznej dotyczący bezpieczeństwa pracy w wysokich temperaturach będzie rozpatrywany w poniedziałek na specjalnym, dodatkowym posiedzeniu Stałego Komitetu Rady Ministrów - przekazał resort.",
+      "originalTitle": "Ochrona pracowników w czasie upałów. Zwołano nadzwyczajne posiedzenie",
+      "originalDescription": "Projekt rozporządzenia ministra rodziny, pracy i polityki społecznej dotyczący bezpieczeństwa pracy w wysokich temperaturach będzie rozpatrywany w poniedziałek na specjalnym, dodatkowym posiedzeniu Stałego Komitetu Rady Ministrów - przekazał resort."
+    },
+    {
+      "title": "Groził spaleniem wicepremiera, miał arsenał broni. Zapadł wyrok",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-grozil-spaleniem-wicepremiera-mial-arsenal-broni-zapadl-wyrok-st9115386?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:46:55 GMT",
+      "description": "Groził spaleniem wicepremiera, miał nielegalną broń, koktajle Mołotowa i amunicję. Sąd we Wrocławiu skazał Krzysztofa K. na 2 lata i 6 miesięcy pozbawienia wolności. Wyrok nie jest prawomocny.",
+      "originalTitle": "Groził spaleniem wicepremiera, miał arsenał broni. Zapadł wyrok",
+      "originalDescription": "Groził spaleniem wicepremiera, miał nielegalną broń, koktajle Mołotowa i amunicję. Sąd we Wrocławiu skazał Krzysztofa K. na 2 lata i 6 miesięcy pozbawienia wolności. Wyrok nie jest prawomocny."
+    },
+    {
+      "title": "19-latek zaatakował nożem w szpitalu. \"Zasłaniał się niepamięcią\"",
+      "link": "https://tvn24.pl/katowice/jastrzebie-zdroj-nozownik-zaatakowal-w-szpitalu-prokuratura-po-przesluchaniu-zaslanial-sie-niepamiecia-st9115637?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:42:26 GMT",
+      "description": "Prokuratura Rejonowa w Jastrzębiu-Zdroju odniosła się do zatrzymania 19-letniego nożownika, który ranił w czwartek w szpitalu cztery osoby. Śledczy wszczęli postępowanie. W najbliższych godzinach mężczyzna powinien usłyszeć zarzut usiłowania zabójstwa. Prokuratura planuje wystąpić do sądu z wnioskiem o tymczasowe aresztowanie.",
+      "originalTitle": "19-latek zaatakował nożem w szpitalu. \"Zasłaniał się niepamięcią\"",
+      "originalDescription": "Prokuratura Rejonowa w Jastrzębiu-Zdroju odniosła się do zatrzymania 19-letniego nożownika, który ranił w czwartek w szpitalu cztery osoby. Śledczy wszczęli postępowanie. W najbliższych godzinach mężczyzna powinien usłyszeć zarzut usiłowania zabójstwa. Prokuratura planuje wystąpić do sądu z wnioskiem o tymczasowe aresztowanie."
+    },
+    {
+      "title": "Myślał, że w internecie jest bezkarny. Groził śmiercią prezydentowi i premierowi. 61-latek usłyszał zarzuty",
+      "link": "https://tvn24.pl/szczecin/koszalin-myslal-ze-w-internecie-jest-bezkarny-grozil-smiercia-prezydentowi-i-premierowi-61-latek-uslyszal-zarzuty-st9114960?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:41:50 GMT",
+      "description": "61-letni mieszkaniec Koszalina usłyszał zarzut po publikacji internetowych wpisów, w których groził śmiercią najważniejszym politykom w Polsce. Śledczy ustalili, że hejter przez kilka miesięcy publikował nienawistne posty.",
+      "originalTitle": "Myślał, że w internecie jest bezkarny. Groził śmiercią prezydentowi i premierowi. 61-latek usłyszał zarzuty",
+      "originalDescription": "61-letni mieszkaniec Koszalina usłyszał zarzut po publikacji internetowych wpisów, w których groził śmiercią najważniejszym politykom w Polsce. Śledczy ustalili, że hejter przez kilka miesięcy publikował nienawistne posty."
+    },
+    {
+      "title": "W Środzie Wielkopolskiej brakuje wody. W nocy się nie wykąpiesz",
+      "link": "https://tvn24.pl/poznan/sroda-wielkopolska-problemy-z-dostawa-wody-przez-upaly-st9115633?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:37:12 GMT",
+      "description": "W nocy w Środzie Wielkopolskiej i trzech okolicznych miejscowościach brakuje wody. Jak tłumaczy spółka wodociągowa powodem są upały i \"ekstremalnie wysoki pobór wody\". Irytacji nie kryją mieszkańcy, którzy wody w kranach nie mieli znacznie wcześniej niż zapowiadano. - Jak ludzie, którzy pracują do godziny 22 mają się umyć - pytają mieszkańcy.",
+      "originalTitle": "W Środzie Wielkopolskiej brakuje wody. W nocy się nie wykąpiesz",
+      "originalDescription": "W nocy w Środzie Wielkopolskiej i trzech okolicznych miejscowościach brakuje wody. Jak tłumaczy spółka wodociągowa powodem są upały i \"ekstremalnie wysoki pobór wody\". Irytacji nie kryją mieszkańcy, którzy wody w kranach nie mieli znacznie wcześniej niż zapowiadano. - Jak ludzie, którzy pracują do godziny 22 mają się umyć - pytają mieszkańcy."
+    },
+    {
+      "title": "Prokurator w Serbii \"zadeklarowała współpracę\" w sprawie Romanowskiego",
+      "link": "https://tvn24.pl/polska/sprawa-marcina-romanowskiego-waldemar-zurek-rozmawial-z-prokurator-generalna-serbii-st9115619?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:29:48 GMT",
+      "description": "Rozmawiałem w sprawie Marcina Romanowskiego z prokurator generalną Serbii - poinformował Waldemar Żurek. Ma to związek z doniesieniami, że były wiceminister sprawiedliwości przebywa w tym kraju.",
+      "originalTitle": "Prokurator w Serbii \"zadeklarowała współpracę\" w sprawie Romanowskiego",
+      "originalDescription": "Rozmawiałem w sprawie Marcina Romanowskiego z prokurator generalną Serbii - poinformował Waldemar Żurek. Ma to związek z doniesieniami, że były wiceminister sprawiedliwości przebywa w tym kraju."
+    },
+    {
+      "title": "To nie koniec problemów w JSW. Związkowcy stawiają zarzuty zarządowi",
+      "link": "https://tvn24.pl/biznes/z-kraju/jastrzebska-spolka-weglowa-problemy-finansowe-spolki-zwiazki-zawodowe-stawiaja-zarzuty-zarzadowi-st9115601?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:24:51 GMT",
+      "description": "Związkowcy z Jastrzębskiej Spółki Węglowej podczas piątkowej konferencji prasowej wskazali, że mimo zobowiązań zarządu, spółka wciąż jest w trudnej sytuacji finansowej. JSW podpisała z Ministerstwem Energii umowę dotacyjną w sprawie finansowania odejść pracowników na urlopy zawodowe.",
+      "originalTitle": "To nie koniec problemów w JSW. Związkowcy stawiają zarzuty zarządowi",
+      "originalDescription": "Związkowcy z Jastrzębskiej Spółki Węglowej podczas piątkowej konferencji prasowej wskazali, że mimo zobowiązań zarządu, spółka wciąż jest w trudnej sytuacji finansowej. JSW podpisała z Ministerstwem Energii umowę dotacyjną w sprawie finansowania odejść pracowników na urlopy zawodowe."
+    },
+    {
+      "title": "Politycy PiS oddają ukraińskie odznaczenia",
+      "link": "https://tvn24.pl/polska/zbigniew-rau-mariusz-blaszczak-i-marek-kuchcinski-oddaja-swoje-ukrainskie-odznaczenia-st9115369?source=rss",
+      "pubDate": "Fri, 26 Jun 2026 11:22:15 GMT",
+      "description": "Rzecznik PiS Rafał Bochenek przekazał informację o decyzji byłego szefa MSZ Zbigniewa Raua, byłego ministra obrony Mariusza Błaszczaka oraz byłego marszałka Sejmu Marka Kuchcińskiego o zwrocie ukraińskich odznaczeń. Błaszczak opublikował też swoje oświadczenie, w którym wskazuje, że jest to \"wyraz sprzeciwu\" wobec obecnych władz Ukrainy.",
+      "originalTitle": "Politycy PiS oddają ukraińskie odznaczenia",
+      "originalDescription": "Rzecznik PiS Rafał Bochenek przekazał informację o decyzji byłego szefa MSZ Zbigniewa Raua, byłego ministra obrony Mariusza Błaszczaka oraz byłego marszałka Sejmu Marka Kuchcińskiego o zwrocie ukraińskich odznaczeń. Błaszczak opublikował też swoje oświadczenie, w którym wskazuje, że jest to \"wyraz sprzeciwu\" wobec obecnych władz Ukrainy."
+    }
+  ]
 }
