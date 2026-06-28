@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-28T03:12:33.903Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-28T05:02:10.026Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Alert RCB wciąż w mocy. \"Unikaj przebywania na słońcu\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/upaly-w-polsce-alert-rcb-na-sobote-27-06-i-niedziele-28-06-unikaj-przebywania-na-sloncu-st9116490?source=rss",
+      "pubDate": "Sun, 28 Jun 2026 04:58:16 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa ostrzega przed upałem, który może stanowić zagrożenie dla naszego zdrowia, a nawet życia. Eksperci przypominają, aby w gorące dni nawadniać się i unikać aktywności fizycznej.",
+      "originalTitle": "Alert RCB wciąż w mocy. \"Unikaj przebywania na słońcu\"",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega przed upałem, który może stanowić zagrożenie dla naszego zdrowia, a nawet życia. Eksperci przypominają, aby w gorące dni nawadniać się i unikać aktywności fizycznej."
+    },
+    {
+      "title": "Polak zasłabł podczas pracy w Belgii. Nie żyje",
+      "link": "https://tvn24.pl/swiat/50-letni-polak-zmarl-podczas-pracy-na-plantacji-w-belgii-st9117730?source=rss",
+      "pubDate": "Sun, 28 Jun 2026 04:53:52 GMT",
+      "description": "Obywatel Polski zasłabł i zmarł podczas pracy w gospodarstwie w Belgii - przekazały tamtejsze media. Do jego śmierci mogła przyczyć się zbyt wysoka temperatura.",
+      "originalTitle": "Polak zasłabł podczas pracy w Belgii. Nie żyje",
+      "originalDescription": "Obywatel Polski zasłabł i zmarł podczas pracy w gospodarstwie w Belgii - przekazały tamtejsze media. Do jego śmierci mogła przyczyć się zbyt wysoka temperatura."
+    },
+    {
+      "title": "Czerwone ostrzeżenia IMGW przed skwarem w niemal całym kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/upaly-w-polsce-czerwone-alarmy-imgw-nawet-42-stopnie-powrot-burz-gwaltowne-burze-z-gradem-st9115734?source=rss",
+      "pubDate": "Sun, 28 Jun 2026 04:30:00 GMT",
+      "description": "IMGW wydał alarmy trzeciego, najwyższego stopnia przed upałem. Miejscami temperatura może sięgnąć nawet 42 stopni. Synoptycy ostrzegają też przed gwałtownymi burzami, podczas których powieje do 100 kilometrów na godzinę.",
+      "originalTitle": "Czerwone ostrzeżenia IMGW przed skwarem w niemal całym kraju",
+      "originalDescription": "IMGW wydał alarmy trzeciego, najwyższego stopnia przed upałem. Miejscami temperatura może sięgnąć nawet 42 stopni. Synoptycy ostrzegają też przed gwałtownymi burzami, podczas których powieje do 100 kilometrów na godzinę."
+    },
+    {
+      "title": "Rekord ciepła, fale ataków na Bliskim Wschodzie, decyzja w sprawie patomorfolożki",
+      "link": "https://tvn24.pl/swiat/szesc-rzeczy-ktore-warto-wiedziec-w-niedziele-28-czerwca-najwazniejsze-informacje-st9117754?source=rss",
+      "pubDate": "Sun, 28 Jun 2026 04:23:16 GMT",
+      "description": "W Polsce odnotowano rekordową temperaturę zmierzoną w czerwcu. Stany Zjednoczone i Iran przypuściły kolejną falę ataków na Bliskim Wschodzie. W Mszanie Dolnej płonęła hala produkcyjna. Oto sześć rzeczy, które warto wiedzieć w niedzielę 28 czerwca.",
+      "originalTitle": "Rekord ciepła, fale ataków na Bliskim Wschodzie, decyzja w sprawie patomorfolożki",
+      "originalDescription": "W Polsce odnotowano rekordową temperaturę zmierzoną w czerwcu. Stany Zjednoczone i Iran przypuściły kolejną falę ataków na Bliskim Wschodzie. W Mszanie Dolnej płonęła hala produkcyjna. Oto sześć rzeczy, które warto wiedzieć w niedzielę 28 czerwca."
+    },
+    {
+      "title": "Gry operacyjne i śmierć zastępcy naczelnika CBŚP",
+      "link": "https://tvn24.pl/polska/sprawa-detektywa-pawla-koterskiego-kulisy-sledztwa-st9116244?source=rss",
+      "pubDate": "Sun, 28 Jun 2026 04:12:55 GMT",
+      "description": "Byli partnerami z radiowozu operacyjnego. Po nocach inwigilowali podejrzanych o nielegalną produkcję papierosów. Dziś jeden nie żyje, drugi czeka na proces za udział w zorganizowanej grupie przestępczej.",
+      "originalTitle": "Gry operacyjne i śmierć zastępcy naczelnika CBŚP",
+      "originalDescription": "Byli partnerami z radiowozu operacyjnego. Po nocach inwigilowali podejrzanych o nielegalną produkcję papierosów. Dziś jeden nie żyje, drugi czeka na proces za udział w zorganizowanej grupie przestępczej."
+    },
+    {
+      "title": "Fala ataków na Bliskim Wschodzie. Donald Trump grozi: Islamska Republika Iranu przestanie istnieć",
+      "link": "https://tvn24.pl/swiat/fala-atakow-na-bliskim-wschodzie-donald-trump-grozi-islamska-republika-iranu-przestanie-istniec-st9117711?source=rss",
+      "pubDate": "Sun, 28 Jun 2026 02:25:48 GMT",
+      "description": "Stany Zjednoczone po raz kolejny uderzyły w Iran. Amerykańskie dowództwo przekazało, że ataki przeprowadzono \"w bezpośredniej odpowiedzi na trwającą irańską agresję wobec żeglugi handlowej\". Donald Trump skierował pod adresem Teheranu kolejne groźby. Niedługo później poinformowano o atakach na sąsiednie kraje - w tym Bahrajn i Kuwejt.",
+      "originalTitle": "Fala ataków na Bliskim Wschodzie. Donald Trump grozi: Islamska Republika Iranu przestanie istnieć",
+      "originalDescription": "Stany Zjednoczone po raz kolejny uderzyły w Iran. Amerykańskie dowództwo przekazało, że ataki przeprowadzono \"w bezpośredniej odpowiedzi na trwającą irańską agresję wobec żeglugi handlowej\". Donald Trump skierował pod adresem Teheranu kolejne groźby. Niedługo później poinformowano o atakach na sąsiednie kraje - w tym Bahrajn i Kuwejt."
+    },
+    {
+      "title": "24 godziny na scenie. Magdalena Cielecka zagrała w \"The Second Woman\" i zna odpowiedź na swoje pytanie",
+      "link": "https://tvn24.pl/kultura-i-styl/malta-festival-2026-w-poznaniu-zakonczyl-sie-24-godzinny-spektakl-the-second-woman-z-udzialem-magdaleny-cieleckiej-st9117507?source=rss",
+      "pubDate": "Sat, 27 Jun 2026 14:34:21 GMT",
+      "description": "Na Malta Festival zakończył się w sobotę po południu 24-godzinny spektakl \"The Second Woman\" z udziałem Magdaleny Cieleckiej. Aktorka odgrywała jedną scenę wraz z setką mężczyzn wybranych w castingu. W kluczowym momencie sceny mogli oni powiedzieć jej, że \"zawsze kochali\" albo że \"nigdy nie kochali\". Co padało częściej?",
+      "originalTitle": "24 godziny na scenie. Magdalena Cielecka zagrała w \"The Second Woman\" i zna odpowiedź na swoje pytanie",
+      "originalDescription": "Na Malta Festival zakończył się w sobotę po południu 24-godzinny spektakl \"The Second Woman\" z udziałem Magdaleny Cieleckiej. Aktorka odgrywała jedną scenę wraz z setką mężczyzn wybranych w castingu. W kluczowym momencie sceny mogli oni powiedzieć jej, że \"zawsze kochali\" albo że \"nigdy nie kochali\". Co padało częściej?"
+    },
+    {
+      "title": "Noc tropikalna. Jak ją przetrwać? Sześć porad",
+      "link": "https://tvn24.pl/tvnmeteo/polska/upal-w-polsce-noc-tropikalna-jak-ja-przetrwac-szesc-porad-st9111437?source=rss",
+      "pubDate": "Sat, 27 Jun 2026 18:45:55 GMT",
+      "description": "Przed nami noc tropikalna. Wysoka temperatura po zmroku może utrudniać zasypianie i osłabiać jakość snu. Jak odpowiednio zadbać o komfort i regenerację, gdy nie sprzyjają nam warunki atmosferyczne.",
+      "originalTitle": "Noc tropikalna. Jak ją przetrwać? Sześć porad",
+      "originalDescription": "Przed nami noc tropikalna. Wysoka temperatura po zmroku może utrudniać zasypianie i osłabiać jakość snu. Jak odpowiednio zadbać o komfort i regenerację, gdy nie sprzyjają nam warunki atmosferyczne."
+    },
+    {
+      "title": "Trzęsienie ziemi w Wenezueli. Zginęło co najmniej 1430 osób",
+      "link": "https://tvn24.pl/swiat/trzesienie-ziemi-w-wenezueli-zginelo-co-najmniej-1430-osob-najnowszy-bilans-st9117617?source=rss",
+      "pubDate": "Sat, 27 Jun 2026 18:20:58 GMT",
+      "description": "Przewodniczący parlamentu Wenezueli przekazał, że bilans ofiar śmiertelnych środowego trzęsienia ziemi wzrósł do 1430 osób. Dodał, że ponad trzy tysiące osób zostało rannych, a kolejne ponad trzy tysiące straciło dach nad głową.",
+      "originalTitle": "Trzęsienie ziemi w Wenezueli. Zginęło co najmniej 1430 osób",
+      "originalDescription": "Przewodniczący parlamentu Wenezueli przekazał, że bilans ofiar śmiertelnych środowego trzęsienia ziemi wzrósł do 1430 osób. Dodał, że ponad trzy tysiące osób zostało rannych, a kolejne ponad trzy tysiące straciło dach nad głową."
+    },
+    {
+      "title": "Prezydent Serbii Aleksandar Vuczić planuje zrezygnować z urzędu",
+      "link": "https://tvn24.pl/swiat/serbia-prezydent-aleksandar-vuczic-planuje-zrezygnowac-z-urzedu-w-najblizszych-tygodniach-st9117609?source=rss",
+      "pubDate": "Sat, 27 Jun 2026 17:42:48 GMT",
+      "description": "Aleksandar Vuczić ogłosił, że w najbliższych tygodniach ustąpi z urzędu prezydenta Serbii. Jak podaje Reuters, odbędą się wcześniejsze wybory prezydenckie i parlamentarne.",
+      "originalTitle": "Prezydent Serbii Aleksandar Vuczić planuje zrezygnować z urzędu",
+      "originalDescription": "Aleksandar Vuczić ogłosił, że w najbliższych tygodniach ustąpi z urzędu prezydenta Serbii. Jak podaje Reuters, odbędą się wcześniejsze wybory prezydenckie i parlamentarne."
+    }
+  ]
 }
