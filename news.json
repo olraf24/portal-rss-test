@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-06-29T07:07:37.137Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-06-29T09:09:15.179Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dwie osoby ranne po pożarze. Zniszczone dach i elewacja bloku",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-pozar-mieszkania-na-osiedlu-poludnie-dwie-osoby-ranne-zniszczony-dach-i-elewacja-st9118901?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 09:06:12 GMT",
+      "description": "Dwie osoby zostały poszkodowane w pożarze mieszkania w Radomiu. Straż pożarna relacjonuje, że płomienie wydostały się z lokalu na dach i elewację bloku. Na Kontakt24 otrzymaliśmy nagranie z akcji gaśniczej.",
+      "originalTitle": "Dwie osoby ranne po pożarze. Zniszczone dach i elewacja bloku",
+      "originalDescription": "Dwie osoby zostały poszkodowane w pożarze mieszkania w Radomiu. Straż pożarna relacjonuje, że płomienie wydostały się z lokalu na dach i elewację bloku. Na Kontakt24 otrzymaliśmy nagranie z akcji gaśniczej."
+    },
+    {
+      "title": "Wielka wyprzedaż akcji AI. Miliardy znikają z giełdy",
+      "link": "https://tvn24.pl/biznes/tech/ai-wielka-wyprzedaz-akcji-sektora-sztucznej-inteligencji-inwestorzy-na-rynku-akcji-technologicznych-bywaja-niecierpliwi-st9119030?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 09:05:41 GMT",
+      "description": "Inwestorzy są \"poważnie wkurzeni\" z powodu braku zapowiadanego zysku z segmentu sztucznej inteligencji - podał CNN. Indeksy technologiczne w różnych częściach świata - od Korei po Stany Zjednoczone - notują spadki z powodu rosnących obaw, czy nowa technologia zdoła przynieść obiecane zyski.",
+      "originalTitle": "Wielka wyprzedaż akcji AI. Miliardy znikają z giełdy",
+      "originalDescription": "Inwestorzy są \"poważnie wkurzeni\" z powodu braku zapowiadanego zysku z segmentu sztucznej inteligencji - podał CNN. Indeksy technologiczne w różnych częściach świata - od Korei po Stany Zjednoczone - notują spadki z powodu rosnących obaw, czy nowa technologia zdoła przynieść obiecane zyski."
+    },
+    {
+      "title": "Wędkarz zauważył dryfujące ciało",
+      "link": "https://tvn24.pl/bialystok/suwalki-wedkarz-zauwazyl-dryfujace-cialo-st9119028?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 09:02:05 GMT",
+      "description": "W zalewie w Suwałkach wędkarz zauważył dryfujące ciało mężczyzny. Na miejscu pracują służby ratunkowe, policja oraz prokurator, którzy ustalają okoliczności tragicznego zdarzenia.",
+      "originalTitle": "Wędkarz zauważył dryfujące ciało",
+      "originalDescription": "W zalewie w Suwałkach wędkarz zauważył dryfujące ciało mężczyzny. Na miejscu pracują służby ratunkowe, policja oraz prokurator, którzy ustalają okoliczności tragicznego zdarzenia."
+    },
+    {
+      "title": "\"Topią się sygnalizatory świetlne\". W Weronie aż tak gorąco?",
+      "link": "https://konkret24.tvn24.pl/swiat/upaly-w-europie-topia-sie-sygnalizatory-swietlne-w-weronie-az-tak-goraco-st9115700?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 08:58:07 GMT",
+      "description": "W obliczu upałów, które nawiedziły Europę, popularność w sieci zdobywa nagranie mające przedstawiać rzekome skutki niespotykanego nawet jak na tę porę żaru. Otóż we Włoszech z powodu wysokich temperatur miał się stopić... sygnalizator świetlny. Wszystko wskazuje na to, że powód był jednak inny.",
+      "originalTitle": "\"Topią się sygnalizatory świetlne\". W Weronie aż tak gorąco?",
+      "originalDescription": "W obliczu upałów, które nawiedziły Europę, popularność w sieci zdobywa nagranie mające przedstawiać rzekome skutki niespotykanego nawet jak na tę porę żaru. Otóż we Włoszech z powodu wysokich temperatur miał się stopić... sygnalizator świetlny. Wszystko wskazuje na to, że powód był jednak inny."
+    },
+    {
+      "title": "Gdzie jest burza? Od rana grzmi, może padać grad",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-poniedzialek-29-06-radar-burz-i-mapa-opadow-na-zywo-st9118958?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 06:01:15 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 29.06 w części Polski od rana pojawiają się burze. Lokalnie może padać grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Od rana grzmi, może padać grad",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 29.06 w części Polski od rana pojawiają się burze. Lokalnie może padać grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Ciężarówka potrąciła pracownika służby drogowej. Mężczyzna nie żyje",
+      "link": "https://tvn24.pl/poznan/napachanie-rokietnica-ciezarowka-potracila-pracownika-sluzby-drogowej-na-s11-st9119031?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 08:42:43 GMT",
+      "description": "Na drodze S11 między węzłami Napachanie i Rokietnica kierowca ciężarówki śmiertelnie potrącił pracownika ekipy zajmującej się koszeniem traw. Droga jest zablokowana.",
+      "originalTitle": "Ciężarówka potrąciła pracownika służby drogowej. Mężczyzna nie żyje",
+      "originalDescription": "Na drodze S11 między węzłami Napachanie i Rokietnica kierowca ciężarówki śmiertelnie potrącił pracownika ekipy zajmującej się koszeniem traw. Droga jest zablokowana."
+    },
+    {
+      "title": "Dwóch kolarzy zmarło podczas wyścigu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/marki-kolarze-zmarli-w-trakcie-wyscigu-st9118955?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 07:38:49 GMT",
+      "description": "Dwóch kolarzy uczestniczących w maratonie rowerowym w podwarszawskich Markach nie dojechało do mety. Obaj nie żyją. Jeden z nich został odnaleziony jeszcze w niedzielę, poszukiwania drugiego trwały kilkanaście godzin.",
+      "originalTitle": "Dwóch kolarzy zmarło podczas wyścigu",
+      "originalDescription": "Dwóch kolarzy uczestniczących w maratonie rowerowym w podwarszawskich Markach nie dojechało do mety. Obaj nie żyją. Jeden z nich został odnaleziony jeszcze w niedzielę, poszukiwania drugiego trwały kilkanaście godzin."
+    },
+    {
+      "title": "Dostawy prądu w czasie upałów. Operator uspokaja",
+      "link": "https://tvn24.pl/biznes/z-kraju/dostawy-pradu-w-czasie-upalow-polskie-sieci-elektroenergetyczne-uspokajaja-st9119148?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 08:31:03 GMT",
+      "description": "Rekordowe temperatury w kraju wyraźnie zwiększają zapotrzebowanie na prąd. Jednak pomimo upałów nie ma przerw w dostawach energii elektrycznej do odbiorców - przekazał rzecznik prasowy Polskich Sieci Elektroenergetycznych Maciej Wapiński.",
+      "originalTitle": "Dostawy prądu w czasie upałów. Operator uspokaja",
+      "originalDescription": "Rekordowe temperatury w kraju wyraźnie zwiększają zapotrzebowanie na prąd. Jednak pomimo upałów nie ma przerw w dostawach energii elektrycznej do odbiorców - przekazał rzecznik prasowy Polskich Sieci Elektroenergetycznych Maciej Wapiński."
+    },
+    {
+      "title": "Śmierć rodziców i ich dzieci na wakacjach w Turcji. Jest wyrok",
+      "link": "https://tvn24.pl/swiat/turcja-smierc-rodzicow-i-ich-dzieci-na-wakacjach-zapadl-wyrok-st9118959?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 08:25:44 GMT",
+      "description": "Para turystów z Niemiec i ich dwoje dzieci zmarło podczas urlopu w Turcji. Sąd w Stambule w piątek skazał w tej sprawie cztery osoby. Co wydarzyło się w stambulskim hotelu?",
+      "originalTitle": "Śmierć rodziców i ich dzieci na wakacjach w Turcji. Jest wyrok",
+      "originalDescription": "Para turystów z Niemiec i ich dwoje dzieci zmarło podczas urlopu w Turcji. Sąd w Stambule w piątek skazał w tej sprawie cztery osoby. Co wydarzyło się w stambulskim hotelu?"
+    },
+    {
+      "title": "Wskaźniki jedno, biznes drugie. Rzadkie zjawisko w polskiej gospodarce",
+      "link": "https://tvn24.pl/biznes/dlafirm/biec-raport-z-polskiej-gospodarki-przedsiebiorcy-bardziej-pesymistyczni-niz-dane-gus-st9119082?source=rss",
+      "pubDate": "Mon, 29 Jun 2026 08:20:31 GMT",
+      "description": "Przedsiębiorcy są mniej optymistyczni, niż wskaźniki gospodarcze Głównego Urzędu Statystycznego - oceniło Biuro Inwestycji i Cykli Ekonomicznych. Polski biznes obawia się wciąż podwyższonego ryzyka geopolitycznego.",
+      "originalTitle": "Wskaźniki jedno, biznes drugie. Rzadkie zjawisko w polskiej gospodarce",
+      "originalDescription": "Przedsiębiorcy są mniej optymistyczni, niż wskaźniki gospodarcze Głównego Urzędu Statystycznego - oceniło Biuro Inwestycji i Cykli Ekonomicznych. Polski biznes obawia się wciąż podwyższonego ryzyka geopolitycznego."
+    }
+  ]
 }
