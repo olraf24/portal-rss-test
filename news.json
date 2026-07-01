@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-01T11:08:55.196Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-01T12:24:04.635Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Gdzie jest burza? Aura popsuła się w kolejnych regionach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-srode-01-07-radar-opadow-i-burz-na-zywo-st9122177?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 04:30:40 GMT",
+      "description": "Gdzie jest burza? W środę 1.07 w części Polski występują burze. Towarzyszą im opady deszczu i silniejsze porywy wiatru, a miejscami - grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Aura popsuła się w kolejnych regionach",
+      "originalDescription": "Gdzie jest burza? W środę 1.07 w części Polski występują burze. Towarzyszą im opady deszczu i silniejsze porywy wiatru, a miejscami - grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Oświadczenie Dariusza Korneluka. \"Decyzje prokuratorów nie mogą być oceniane przez pryzmat bieżącego sporu politycznego\"",
+      "link": "https://tvn24.pl/polska/sprawa-dwoch-wiez-oswiadczenie-prokuratora-krajowego-dariusza-korneluka-st9122891?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 12:16:16 GMT",
+      "description": "Prokurator krajowy Dariusz Korneluk wydał w środę oświadczenie. Napisał między innymi, że \"niedopuszczalne jest personalne atakowanie prokuratora wyłącznie z powodu podjętej przez niego decyzji\". Zwrócił się \"w szczególności do osób i instytucji profesjonalnie zajmujących się stosowaniem prawa o zachowanie rozwagi przy formułowaniu publicznych opinii\".",
+      "originalTitle": "Oświadczenie Dariusza Korneluka. \"Decyzje prokuratorów nie mogą być oceniane przez pryzmat bieżącego sporu politycznego\"",
+      "originalDescription": "Prokurator krajowy Dariusz Korneluk wydał w środę oświadczenie. Napisał między innymi, że \"niedopuszczalne jest personalne atakowanie prokuratora wyłącznie z powodu podjętej przez niego decyzji\". Zwrócił się \"w szczególności do osób i instytucji profesjonalnie zajmujących się stosowaniem prawa o zachowanie rozwagi przy formułowaniu publicznych opinii\"."
+    },
+    {
+      "title": "Wielki zwrot firm. Znów potrzebują ludzi",
+      "link": "https://tvn24.pl/biznes/tech/sztuczna-inteligencja-nie-dala-rady-firmy-ponownie-zatrudniaja-ludzi-st9122826?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 12:13:40 GMT",
+      "description": "Firmy, które ograniczały zatrudnienie, tłumacząc to rozwojem sztucznej inteligencji, zaczynają zmieniać podejście. Przykłady Forda, Commonwealth Bank of Australia i IBM pokazują, że AI nie zawsze jest w stanie zastąpić doświadczenie ludzi, a błędne decyzje kadrowe mogą odbić się na jakości pracy i rozwoju biznesu.",
+      "originalTitle": "Wielki zwrot firm. Znów potrzebują ludzi",
+      "originalDescription": "Firmy, które ograniczały zatrudnienie, tłumacząc to rozwojem sztucznej inteligencji, zaczynają zmieniać podejście. Przykłady Forda, Commonwealth Bank of Australia i IBM pokazują, że AI nie zawsze jest w stanie zastąpić doświadczenie ludzi, a błędne decyzje kadrowe mogą odbić się na jakości pracy i rozwoju biznesu."
+    },
+    {
+      "title": "Agresywny pasażer wyciągnął scyzoryk. Ranna policjantka",
+      "link": "https://tvn24.pl/opole/kedzierzyn-kozle-agresywny-pasazer-wyciagnal-scyzoryk-ranna-policjantka-st9122978?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 12:10:35 GMT",
+      "description": "Na dworcu w Kędzierzynie-Koźlu (Opolskie) policjantka została zaatakowana scyzorykiem. Do incydentu doszło, gdy patrol legitymował dwóch pijanych mężczyzn wyproszonych z pociągu.",
+      "originalTitle": "Agresywny pasażer wyciągnął scyzoryk. Ranna policjantka",
+      "originalDescription": "Na dworcu w Kędzierzynie-Koźlu (Opolskie) policjantka została zaatakowana scyzorykiem. Do incydentu doszło, gdy patrol legitymował dwóch pijanych mężczyzn wyproszonych z pociągu."
+    },
+    {
+      "title": "Awantura o klimatyzację. \"Cena będzie nieproporcjonalnie rosła\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/klimatyzacja-instalowac-czy-nie-za-przeciw-oraz-ile-to-kosztuje-st9120923?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 12:07:15 GMT",
+      "description": "Rekordowe upały sprawiają, że klimatyzacja staje się dla wielu koniecznością. Urządzenie wyrasta na symbol statusu, wywołuje polityczne konflikty, a eksperci analizują, czy to remedium na skutki globalnego ocieplenia przy okazji nie dokłada nam do pieca.",
+      "originalTitle": "Awantura o klimatyzację. \"Cena będzie nieproporcjonalnie rosła\"",
+      "originalDescription": "Rekordowe upały sprawiają, że klimatyzacja staje się dla wielu koniecznością. Urządzenie wyrasta na symbol statusu, wywołuje polityczne konflikty, a eksperci analizują, czy to remedium na skutki globalnego ocieplenia przy okazji nie dokłada nam do pieca."
+    },
+    {
+      "title": "Wybrano nowego prezesa ZUS. Jest komunikat",
+      "link": "https://tvn24.pl/biznes/z-kraju/zus-liwiusz-laska-zostal-nowym-prezesem-zakladu-ubezpieczen-spolecznych-st9123006?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 11:57:25 GMT",
+      "description": "Premier Donald Tusk mianował Liwiusza Laskę na stanowisko prezesa Zakładu Ubezpieczeń Społecznych - poinformowano w środę. Laska objął funkcję po Zbigniewie Derdziuku, który został odwołany z powodu problemów zdrowotnych.",
+      "originalTitle": "Wybrano nowego prezesa ZUS. Jest komunikat",
+      "originalDescription": "Premier Donald Tusk mianował Liwiusza Laskę na stanowisko prezesa Zakładu Ubezpieczeń Społecznych - poinformowano w środę. Laska objął funkcję po Zbigniewie Derdziuku, który został odwołany z powodu problemów zdrowotnych."
+    },
+    {
+      "title": "Pijany nastolatek zabrał auto wujkowi, przejażdżkę zakończył po dachowaniu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostrow-mazowiecka-pijany-nastolatek-zabral-auto-wujkowi-uderzyl-w-ogrodzenie-i-dachowal-st9122919?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 11:55:26 GMT",
+      "description": "Pijany 16-latek zabrał wujkowi auto i wybrał się na przejażdżkę, którą zakończył po dachowaniu samochodu.",
+      "originalTitle": "Pijany nastolatek zabrał auto wujkowi, przejażdżkę zakończył po dachowaniu",
+      "originalDescription": "Pijany 16-latek zabrał wujkowi auto i wybrał się na przejażdżkę, którą zakończył po dachowaniu samochodu."
+    },
+    {
+      "title": "Auto wpadło do rowu, pasażer został śmiertelnie potrącony przez inny samochód",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/moscibrody-auto-wpadlo-do-rowu-jego-pasazer-zostal-potracony-przez-inny-pojazd-st9122906?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 11:51:25 GMT",
+      "description": "Policja wyjaśnia okoliczności tragicznego wypadku pod Siedlcami. Pasażer auta osobowego, które wpadło do rowu, został potrącony przez inny samochód. Jego życia nie udało się uratować.",
+      "originalTitle": "Auto wpadło do rowu, pasażer został śmiertelnie potrącony przez inny samochód",
+      "originalDescription": "Policja wyjaśnia okoliczności tragicznego wypadku pod Siedlcami. Pasażer auta osobowego, które wpadło do rowu, został potrącony przez inny samochód. Jego życia nie udało się uratować."
+    },
+    {
+      "title": "Burze, ulewy i grad. Tu alarmy IMGW mają trzeci stopień",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-ulewy-i-grad-w-srode-1-07-nawalnice-w-polsce-gdzie-trzeba-uwazac-aktualne-ostrzezenia-imgw-st9115734?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 06:57:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami i silnym deszczem. Obowiązują alarmy nawet trzeciego, najwyższego stopnia. Zjawiskom mogą towarzyszyć porywy wiatru nawet do 115 kilometrów na godzinę. Nad częścią Polski wciąż zalega gorące powietrze, są alarmy przed upałem.",
+      "originalTitle": "Burze, ulewy i grad. Tu alarmy IMGW mają trzeci stopień",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami i silnym deszczem. Obowiązują alarmy nawet trzeciego, najwyższego stopnia. Zjawiskom mogą towarzyszyć porywy wiatru nawet do 115 kilometrów na godzinę. Nad częścią Polski wciąż zalega gorące powietrze, są alarmy przed upałem."
+    },
+    {
+      "title": "Co z ustawą o rynku kryptowalut? Jest decyzja komisji finansów",
+      "link": "https://tvn24.pl/biznes/z-kraju/ustawa-o-rynku-kryptowalut-w-polsce-jest-decyzja-komisji-finansow-w-sprawie-prezydenckiego-weta-st9122950?source=rss",
+      "pubDate": "Wed, 01 Jul 2026 11:38:56 GMT",
+      "description": "Sejmowa Komisja Finansów Publicznych zarekomendowała odrzucenie prezydenckiego weta do ustawy o rynku kryptoaktywów i jej ponowne uchwalenie. Szef KPRM Zbigniew Bogucki ostrzegł jednak, że prezydent będzie wetował podobne przepisy, jeśli nie dojdzie do \"rozsądnego dialogu\".",
+      "originalTitle": "Co z ustawą o rynku kryptowalut? Jest decyzja komisji finansów",
+      "originalDescription": "Sejmowa Komisja Finansów Publicznych zarekomendowała odrzucenie prezydenckiego weta do ustawy o rynku kryptoaktywów i jej ponowne uchwalenie. Szef KPRM Zbigniew Bogucki ostrzegł jednak, że prezydent będzie wetował podobne przepisy, jeśli nie dojdzie do \"rozsądnego dialogu\"."
+    }
+  ]
 }
