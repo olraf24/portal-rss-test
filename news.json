@@ -1,15 +1,55 @@
 {
-  "lastUpdate": "2026-07-04T14:37:03.477Z",
+  "lastUpdate": "2026-07-04T16:01:37.632Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Ukraina zdecydowała o miejscu budowy Panteonu Narodowego",
+      "link": "https://tvn24.pl/swiat/ukraincy-buduja-panteon-narodowy-jest-miejsce-budowy-i-nowe-szczegoly-st9128349?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 15:51:07 GMT",
+      "description": "Panteon Narodowy Ukrainy powstanie na terenie Narodowego Rezerwatu Ławry Peczerskiej w Kijowie - poinformował Ukraiński Instytut Pamięci Narodowej. W połowie czerwca w kompleksie płonął klasztor po rosyjskim ataku.",
+      "originalTitle": "Ukraina zdecydowała o miejscu budowy Panteonu Narodowego",
+      "originalDescription": "Panteon Narodowy Ukrainy powstanie na terenie Narodowego Rezerwatu Ławry Peczerskiej w Kijowie - poinformował Ukraiński Instytut Pamięci Narodowej. W połowie czerwca w kompleksie płonął klasztor po rosyjskim ataku."
+    },
+    {
+      "title": "Grube deszczowe chmury nadciągają nad Polskę. Prognoza pogody",
+      "link": "https://tvn24.pl/tvnmeteo/polska/idzie-ochlodzenia-a-ponadto-grube-deszczowe-chmury-nadciagaja-nad-polske-prognoza-pogody-na-5-9-07-st9128375?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 15:42:55 GMT",
+      "description": "W nadchodzących dniach pogoda będzie daleka od tej, jaką kojarzymy z wakacjami. Czeka nas dalsze ochłodzenie. Nie zabraknie też opadów deszczu.",
+      "originalTitle": "Grube deszczowe chmury nadciągają nad Polskę. Prognoza pogody",
+      "originalDescription": "W nadchodzących dniach pogoda będzie daleka od tej, jaką kojarzymy z wakacjami. Czeka nas dalsze ochłodzenie. Nie zabraknie też opadów deszczu."
+    },
+    {
+      "title": "Wybił szybę i wszedł do budynku wojskowej uczelni. Ochrona zatrzymała obcokrajowca",
+      "link": "https://tvn24.pl/tvnwarszawa/rembertow/warszawa-wlamanie-na-terenie-wojskowej-uczelni-ochrona-zatrzymala-obcokrajowca-st9127891?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 10:40:34 GMT",
+      "description": "Kolumbijczyk wybił szybę w jednym z budynków Akademii Sztuki Wojennej i wszedł do środka. Został zatrzymany przez ochronę i przekazany policji. W sobotę sąd zdecydował o tymczasowym, trzymiesięcznym areszcie dla mężczyzny.",
+      "originalTitle": "Wybił szybę i wszedł do budynku wojskowej uczelni. Ochrona zatrzymała obcokrajowca",
+      "originalDescription": "Kolumbijczyk wybił szybę w jednym z budynków Akademii Sztuki Wojennej i wszedł do środka. Został zatrzymany przez ochronę i przekazany policji. W sobotę sąd zdecydował o tymczasowym, trzymiesięcznym areszcie dla mężczyzny."
+    },
+    {
+      "title": "Władysław Kosiniak-Kamysz złożył życzenia Amerykanom z okazji ich 250. rocznicy",
+      "link": "https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-zlozyl-zyczenia-amerykanom-z-okazji-250-rocznicy-niepodleglosci-st9128344?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 15:07:43 GMT",
+      "description": "250 lat temu Amerykanie ogłosili swoją niepodległość. Minister obrony narodowej Władysław Kosiniak-Kamysz dołączył do tych, którzy z tej okazji składają im życzenia. \"Łączą nas wspólne wartości, historia i odpowiedzialność za bezpieczeństwo\" - napisał w serwisie X.",
+      "originalTitle": "Władysław Kosiniak-Kamysz złożył życzenia Amerykanom z okazji ich 250. rocznicy",
+      "originalDescription": "250 lat temu Amerykanie ogłosili swoją niepodległość. Minister obrony narodowej Władysław Kosiniak-Kamysz dołączył do tych, którzy z tej okazji składają im życzenia. \"Łączą nas wspólne wartości, historia i odpowiedzialność za bezpieczeństwo\" - napisał w serwisie X."
+    },
+    {
+      "title": "Zadzwoniła \"lekarka\", powiedziała o \"zakażeniu wirusem ebola\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/oszustwo-zadzwonila-lekarka-powiedziala-o-zakazeniu-wirusem-ebola-st9128355?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 15:07:02 GMT",
+      "description": "Uwierzyła w historię o zakażeniu wirusem ebola osoby z rodziny. Chciała pomóc w zakupie \"specjalistycznej szczepionki\". Straciła 100 tysięcy złotych.",
+      "originalTitle": "Zadzwoniła \"lekarka\", powiedziała o \"zakażeniu wirusem ebola\"",
+      "originalDescription": "Uwierzyła w historię o zakażeniu wirusem ebola osoby z rodziny. Chciała pomóc w zakupie \"specjalistycznej szczepionki\". Straciła 100 tysięcy złotych."
+    },
+    {
       "title": "Polska jednostka wśród \"najpiękniejszych\" żaglowców. Parada z okazji 250-lecia USA",
       "link": "https://tvn24.pl/swiat/250-lecie-usa-polski-zaglowiec-dar-mlodziezy-na-paradzie-w-nowym-jorku-st9128286?source=rss",
       "pubDate": "Sat, 04 Jul 2026 14:29:08 GMT",
-      "description": "Takie rzeczy nie dzieją się co roku - relacjonował specjalny wysłannik \"Faktów\" TVN Piotr Kraśko na pokładzie Daru Młodzieży, w drodze na Międzynarodową Paradę Żaglowców w Nowym Jorku z okazji 250. urodzin Stanów Zjednoczonych. Dziennikarz mówił o nastrojach wśród załogi i symbolicznym wymiarze tego wydarzenia.",
+      "description": "Takie rzeczy nie dzieją się co roku - relacjonował specjalny wysłannik \"Faktów\" TVN Piotr Kraśko na pokładzie Daru Młodzieży, w drodze na Międzynarodową Paradę Żaglowców w Nowym Jorku z okazji 250. urodzin Stanów Zjednoczonych. Dziennikarz mówił o nastrojach wśród załogi i symbolicznym wymiarze tego wydarzenia. Rozmawiał też z kapitanem statku.",
       "originalTitle": "Polska jednostka wśród \"najpiękniejszych\" żaglowców. Parada z okazji 250-lecia USA",
-      "originalDescription": "Takie rzeczy nie dzieją się co roku - relacjonował specjalny wysłannik \"Faktów\" TVN Piotr Kraśko na pokładzie Daru Młodzieży, w drodze na Międzynarodową Paradę Żaglowców w Nowym Jorku z okazji 250. urodzin Stanów Zjednoczonych. Dziennikarz mówił o nastrojach wśród załogi i symbolicznym wymiarze tego wydarzenia."
+      "originalDescription": "Takie rzeczy nie dzieją się co roku - relacjonował specjalny wysłannik \"Faktów\" TVN Piotr Kraśko na pokładzie Daru Młodzieży, w drodze na Międzynarodową Paradę Żaglowców w Nowym Jorku z okazji 250. urodzin Stanów Zjednoczonych. Dziennikarz mówił o nastrojach wśród załogi i symbolicznym wymiarze tego wydarzenia. Rozmawiał też z kapitanem statku."
     },
     {
       "title": "Miał poranione stopy. Podejrzewają atak rekina",
@@ -42,46 +82,6 @@
       "description": "Donald Trump kolejny raz wypomina europejskim sojusznikom nielojalność. Sugeruje, że tak jak oni nie pomogli mu w Iranie, tak Stany Zjednoczone mogłyby nie pomóc im w obronie przed Rosją. Zaledwie kilka tygodni temu udzielił wypowiedzi, którą interpretowano jako co najmniej gotowość do wycofania Stanów z NATO. Takich ostrych słów było więcej. Jak je rozumieć? Czy to technika negocjacyjna? Ostrzeżenie? A może sygnał, że transatlantyckie gwarancje bezpieczeństwa przestają być oczywistością?",
       "originalTitle": "Donald Trump zmienia relacje z Europą. Przestał pytać o wydatki, teraz chce lojalności",
       "originalDescription": "Donald Trump kolejny raz wypomina europejskim sojusznikom nielojalność. Sugeruje, że tak jak oni nie pomogli mu w Iranie, tak Stany Zjednoczone mogłyby nie pomóc im w obronie przed Rosją. Zaledwie kilka tygodni temu udzielił wypowiedzi, którą interpretowano jako co najmniej gotowość do wycofania Stanów z NATO. Takich ostrych słów było więcej. Jak je rozumieć? Czy to technika negocjacyjna? Ostrzeżenie? A może sygnał, że transatlantyckie gwarancje bezpieczeństwa przestają być oczywistością?"
-    },
-    {
-      "title": "Ostrzeżenia IMGW. Niebezpieczne burze w części kraju",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-sobote-4-07-burze-mozliwy-grad-alarmy-imgw-w-dwoch-wojewodztwach-st9127590?source=rss",
-      "pubDate": "Sat, 04 Jul 2026 04:34:00 GMT",
-      "description": "IMGW wydał alarmy pierwszego stopnia. Synoptycy ostrzegają przed burzami, podczas których może mocno wiać. Spodziewane są też opady gradu.",
-      "originalTitle": "Ostrzeżenia IMGW. Niebezpieczne burze w części kraju",
-      "originalDescription": "IMGW wydał alarmy pierwszego stopnia. Synoptycy ostrzegają przed burzami, podczas których może mocno wiać. Spodziewane są też opady gradu."
-    },
-    {
-      "title": "Mieszkańcy dwóch miast kilka dni bez ciepłej wody",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-i-piastow-bez-cieplej-wody-przerwa-w-dostawach-potrwa-kilka-dni-st9128254?source=rss",
-      "pubDate": "Sat, 04 Jul 2026 13:05:45 GMT",
-      "description": "Mieszkańców Pruszkowa i Piastowa muszą się liczyć z przerwą w dostawach ciepłej wody. Powodem utrudnień są prace w lokalnej elektrociepłowni. Ich skutki odczuje kilkadziesiąt tysięcy osób.",
-      "originalTitle": "Mieszkańcy dwóch miast kilka dni bez ciepłej wody",
-      "originalDescription": "Mieszkańców Pruszkowa i Piastowa muszą się liczyć z przerwą w dostawach ciepłej wody. Powodem utrudnień są prace w lokalnej elektrociepłowni. Ich skutki odczuje kilkadziesiąt tysięcy osób."
-    },
-    {
-      "title": "Spór o płace w ZUS. \"Zakład może zostać sparaliżowany\"",
-      "link": "https://tvn24.pl/biznes/z-kraju/zus-trwa-referendum-strajkowe-zaklad-moze-zostac-sparalizowany-st9128247?source=rss",
-      "pubDate": "Sat, 04 Jul 2026 13:03:50 GMT",
-      "description": "Do 6 lipca trwa referendum strajkowe w Zakładzie Ubezpieczeń Społecznych. Uwzględniono jeden postulat - podwyżkę wynagrodzeń zasadniczych o 1200 złotych brutto. Frekwencja osiągnęła już 45 procent.",
-      "originalTitle": "Spór o płace w ZUS. \"Zakład może zostać sparaliżowany\"",
-      "originalDescription": "Do 6 lipca trwa referendum strajkowe w Zakładzie Ubezpieczeń Społecznych. Uwzględniono jeden postulat - podwyżkę wynagrodzeń zasadniczych o 1200 złotych brutto. Frekwencja osiągnęła już 45 procent."
-    },
-    {
-      "title": "Uratowali ją z drogi, po miesiącu zauważyli cielę ukryte w słomie",
-      "link": "https://tvn24.pl/lodz/lodz-lania-uratowana-w-miescie-zostala-mama-st9128246?source=rss",
-      "pubDate": "Sat, 04 Jul 2026 13:01:54 GMT",
-      "description": "Łania, czyli samica daniela, która pod koniec maja zabłąkała się na terenie zakładu energetycznego przy ulicy Rokicińskiej w Łodzi, została bezpiecznie odłowiona, a kilka tygodni później urodziła młode. Opiekunowie z Ośrodka Rehabilitacji Dzikich Zwierząt apelują, by nie zabierać z lasu samotnie leżących sarenek i jelonków.",
-      "originalTitle": "Uratowali ją z drogi, po miesiącu zauważyli cielę ukryte w słomie",
-      "originalDescription": "Łania, czyli samica daniela, która pod koniec maja zabłąkała się na terenie zakładu energetycznego przy ulicy Rokicińskiej w Łodzi, została bezpiecznie odłowiona, a kilka tygodni później urodziła młode. Opiekunowie z Ośrodka Rehabilitacji Dzikich Zwierząt apelują, by nie zabierać z lasu samotnie leżących sarenek i jelonków."
-    },
-    {
-      "title": "Wielokilometrowe korki na A6 i S3 pod Szczecinem",
-      "link": "https://tvn24.pl/szczecin/wielokilometrowe-korki-na-a6-i-s3-pod-szczecinem-st9128252?source=rss",
-      "pubDate": "Sat, 04 Jul 2026 12:55:33 GMT",
-      "description": "Na autostradzie A6 i drodze ekspresowej S3 w rejonie Szczecina tworzą się duże korki po kolizji trzech samochodów osobowych. Zatory sięgają kilku kilometrów w obu kierunkach.",
-      "originalTitle": "Wielokilometrowe korki na A6 i S3 pod Szczecinem",
-      "originalDescription": "Na autostradzie A6 i drodze ekspresowej S3 w rejonie Szczecina tworzą się duże korki po kolizji trzech samochodów osobowych. Zatory sięgają kilku kilometrów w obu kierunkach."
     }
   ]
 }
