@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-04T21:29:50.667Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-04T22:32:36.568Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Samochód zjechał z drogi i uderzył w drzewo. Wśród rannych dzieci",
+      "link": "https://tvn24.pl/bialystok/wnory-wandy-samochod-zjechal-z-drogi-i-uderzyl-w-drzewo-wsrod-rannych-dzieci-st9128527?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 20:18:58 GMT",
+      "description": "Doszło do wypadku w miejscowości Wnory-Wandy (woj. podlaskie). Samochód osobowy zjechał z drogi i uderzył w drzewo. Pojazdem kierowała kobieta. W środku znajdowało się dwoje dzieci. Cała trójka trafiła do szpitala.",
+      "originalTitle": "Samochód zjechał z drogi i uderzył w drzewo. Wśród rannych dzieci",
+      "originalDescription": "Doszło do wypadku w miejscowości Wnory-Wandy (woj. podlaskie). Samochód osobowy zjechał z drogi i uderzył w drzewo. Pojazdem kierowała kobieta. W środku znajdowało się dwoje dzieci. Cała trójka trafiła do szpitala."
+    },
+    {
+      "title": "Papież z Ameryki napisał list do Amerykanów",
+      "link": "https://tvn24.pl/swiat/papiez-leon-xiv-napisal-list-do-ameryki-z-okazji-250-lat-niepodleglosci-st9128510?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 19:58:46 GMT",
+      "description": "Leon XIV złożył gratulacje Amerykanom z okazji 250 lat niepodległości. Przypomniał, że jedną z zasad, które kierowały rozwojem USA, jest godność każdego ludzkiego życia - także imigrantów.",
+      "originalTitle": "Papież z Ameryki napisał list do Amerykanów",
+      "originalDescription": "Leon XIV złożył gratulacje Amerykanom z okazji 250 lat niepodległości. Przypomniał, że jedną z zasad, które kierowały rozwojem USA, jest godność każdego ludzkiego życia - także imigrantów."
+    },
+    {
+      "title": "Pożary pustoszą Portugalię. Są ranni, trwa walka z ogniem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-pustosza-portugalie-sa-ranni-trwa-walka-z-ogniem-st9128327?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 16:17:05 GMT",
+      "description": "Portugalscy strażacy od czwartku walczą z pożarami lasów i łąk. Na skutek żywiołu kilkanaście osób zostało rannych. Służby medyczne określiły stan dwóch z nich jako bardzo ciężki.",
+      "originalTitle": "Pożary pustoszą Portugalię. Są ranni, trwa walka z ogniem",
+      "originalDescription": "Portugalscy strażacy od czwartku walczą z pożarami lasów i łąk. Na skutek żywiołu kilkanaście osób zostało rannych. Służby medyczne określiły stan dwóch z nich jako bardzo ciężki."
+    },
+    {
+      "title": "\"Uroczystości w Waszyngtonie przejął jeden człowiek\"",
+      "link": "https://tvn24.pl/swiat/250-lat-niepodleglosci-usa-marcin-wrona-uroczystosci-w-waszyngtonie-przejal-jeden-czlowiek-przejal-je-donald-trump-st9128483?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 19:29:50 GMT",
+      "description": "Zawłaszczenie przez jedną stronę polityczną tego, co powinno być świętem wszystkich, jest trochę problemem - mówił w sobotę korespondent \"Faktów\" TVN Marcin Wrona o obchodach 250-lecia niepodległości USA. - Ten kraj pewnie nigdy nie był tak podzielony jak teraz - ocenił Piotr Kraśko, który jest w Nowym Jorku.",
+      "originalTitle": "\"Uroczystości w Waszyngtonie przejął jeden człowiek\"",
+      "originalDescription": "Zawłaszczenie przez jedną stronę polityczną tego, co powinno być świętem wszystkich, jest trochę problemem - mówił w sobotę korespondent \"Faktów\" TVN Marcin Wrona o obchodach 250-lecia niepodległości USA. - Ten kraj pewnie nigdy nie był tak podzielony jak teraz - ocenił Piotr Kraśko, który jest w Nowym Jorku."
+    },
+    {
+      "title": "Upały pokrzyżowały Amerykanom święto. Odwołano parady",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-swieto-niepodleglosci-upaly-pokrzyzowaly-amerykanom-swieto-odwolano-parady-st9128479?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 19:19:14 GMT",
+      "description": "Fala upałów nawiedziła Stany Zjednoczone i zakłóciła jedno z najważniejszych amerykańskich świąt - Dzień Niepodległości. Z powodu wysokiej temperatury odwołano parady między innymi w Waszyngtonie i Filadelfii.",
+      "originalTitle": "Upały pokrzyżowały Amerykanom święto. Odwołano parady",
+      "originalDescription": "Fala upałów nawiedziła Stany Zjednoczone i zakłóciła jedno z najważniejszych amerykańskich świąt - Dzień Niepodległości. Z powodu wysokiej temperatury odwołano parady między innymi w Waszyngtonie i Filadelfii."
+    },
+    {
+      "title": "\"Prezydentura Trumpa sprawiła, że ludzie są wkurzeni\"",
+      "link": "https://tvn24.pl/swiat/250-lat-usa-debata-w-tvn24-prezydentura-trumpa-sprawila-ze-ludzie-sa-wkurzeni-st9128460?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 18:35:52 GMT",
+      "description": "Stany Zjednoczone są niepodległe już 250 lat. Za oceanem trwają uroczystości, a u nas - w TVN24+ - debata. Czy American Dream wciąż jest aktualny? Według Amerykanów - nie. Skąd wynika ten pesymizm? O tym mówili nasi goście.",
+      "originalTitle": "\"Prezydentura Trumpa sprawiła, że ludzie są wkurzeni\"",
+      "originalDescription": "Stany Zjednoczone są niepodległe już 250 lat. Za oceanem trwają uroczystości, a u nas - w TVN24+ - debata. Czy American Dream wciąż jest aktualny? Według Amerykanów - nie. Skąd wynika ten pesymizm? O tym mówili nasi goście."
+    },
+    {
+      "title": "Pożar budynku wielorodzinnego w Wałbrzychu",
+      "link": "https://tvn24.pl/polska/pozar-budynku-wielorodzinnego-w-walbrzychu-st9128459?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 18:13:42 GMT",
+      "description": "Pożar wybuchł w sobotę w budynku wielorodzinnym w Wałbrzychu. Dyżurny z Komendy Wojewódzkiej Straży Pożarnej we Wrocławiu przekazał, że kilka osób podtruło się dymem. Na miejscu trwają działania strażaków.",
+      "originalTitle": "Pożar budynku wielorodzinnego w Wałbrzychu",
+      "originalDescription": "Pożar wybuchł w sobotę w budynku wielorodzinnym w Wałbrzychu. Dyżurny z Komendy Wojewódzkiej Straży Pożarnej we Wrocławiu przekazał, że kilka osób podtruło się dymem. Na miejscu trwają działania strażaków."
+    },
+    {
+      "title": "Supertajfun Bavi. \"Córki powiedziały mi, że to będzie coś strasznego\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/nadciaga-supertajfun-bavi-niszczycielski-wiatr-wladze-wprowadzily-stan-wyjatkowy-st9127737?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 08:42:21 GMT",
+      "description": "Mieszkańcy Guamu i Marianów Północnych, terytoriów zależnych USA, przygotowują się na nadejście supertajfunu Bavi. Towarzyszący żywiołowi wiatr jest bardzo silny, jego porywy przekraczają 300 kilometrów na godzinę.",
+      "originalTitle": "Supertajfun Bavi. \"Córki powiedziały mi, że to będzie coś strasznego\"",
+      "originalDescription": "Mieszkańcy Guamu i Marianów Północnych, terytoriów zależnych USA, przygotowują się na nadejście supertajfunu Bavi. Towarzyszący żywiołowi wiatr jest bardzo silny, jego porywy przekraczają 300 kilometrów na godzinę."
+    },
+    {
+      "title": "Ciało kobiety w mieszkaniu. Policja opublikowała zdjęcie poszukiwanego 65-latka",
+      "link": "https://tvn24.pl/kielce/cialo-kobiety-w-mieszkaniu-policja-opublikowala-zdjecie-poszukiwanego-65-latka-st9127488?source=rss",
+      "pubDate": "Fri, 03 Jul 2026 20:49:07 GMT",
+      "description": "Policjanci znaleźli w domu w Borkowie pod Kielcami ciało 64-letniej kobiety. Ze wstępnych ustaleń wynika, że do jej śmierci ktoś mógł się przyczynić. Funkcjonariusze szukają 65-letniego męża zmarłej - opublikowali jego zdjęcie.",
+      "originalTitle": "Ciało kobiety w mieszkaniu. Policja opublikowała zdjęcie poszukiwanego 65-latka",
+      "originalDescription": "Policjanci znaleźli w domu w Borkowie pod Kielcami ciało 64-letniej kobiety. Ze wstępnych ustaleń wynika, że do jej śmierci ktoś mógł się przyczynić. Funkcjonariusze szukają 65-letniego męża zmarłej - opublikowali jego zdjęcie."
+    },
+    {
+      "title": "Markery nowotworowe, d-dimery, przeciwciała IgG. Które badania naprawdę warto wykonywać?",
+      "link": "https://tvn24.pl/zdrowie/markery-nowotworowe-d-dimery-przeciwciala-igg-ktore-badania-naprawde-warto-wykonywac-st9124912?source=rss",
+      "pubDate": "Sat, 04 Jul 2026 16:16:48 GMT",
+      "description": "Lepiej zapobiegać, niż leczyć, ale nie na wszystko medycyna ma już gotowe rozwiązania. Czy mamy już test z krwi na raka? Czy warto badać markery nowotworowe, jeśli nic nam nie dolega? Czy oznaczanie d-dimerów bez wskazań ma sens? Zapytaliśmy specjalistów, bo tego typu testy są w pakietach oferowanych przez wiele prywatnych placówek.",
+      "originalTitle": "Markery nowotworowe, d-dimery, przeciwciała IgG. Które badania naprawdę warto wykonywać?",
+      "originalDescription": "Lepiej zapobiegać, niż leczyć, ale nie na wszystko medycyna ma już gotowe rozwiązania. Czy mamy już test z krwi na raka? Czy warto badać markery nowotworowe, jeśli nic nam nie dolega? Czy oznaczanie d-dimerów bez wskazań ma sens? Zapytaliśmy specjalistów, bo tego typu testy są w pakietach oferowanych przez wiele prywatnych placówek."
+    }
+  ]
 }
