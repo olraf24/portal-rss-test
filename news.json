@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-05T07:55:49.088Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-05T10:15:32.278Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Drogowcy rozpoczynają prace na Moście Siekierkowskim",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-drogowcy-rozpoczynaja-prace-na-moscie-siekierkowskim-st9128755?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 10:04:05 GMT",
+      "description": "Rusza remont drogi pieszo-rowerowej wzdłuż Mostu Siekierkowskiego. Na początek zamknięta zostanie nitka po północnej stronie przeprawy. Zmian w organizacji ruchu muszą także spodziewać się kierowcy.",
+      "originalTitle": "Drogowcy rozpoczynają prace na Moście Siekierkowskim",
+      "originalDescription": "Rusza remont drogi pieszo-rowerowej wzdłuż Mostu Siekierkowskiego. Na początek zamknięta zostanie nitka po północnej stronie przeprawy. Zmian w organizacji ruchu muszą także spodziewać się kierowcy."
+    },
+    {
+      "title": "Fragment elewacji spadł na ogródek restauracyjny. Dwie osoby ranne",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-fragment-elewacji-spadl-na-ogrodek-restauracyjny-dwie-osoby-ranne-st9128822?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 09:55:40 GMT",
+      "description": "Dwie osoby zostały poszkodowane po tym, jak z jednego z budynków w centrum Gdańska odpadł fragment elewacji. Na miejscu przez kilka godzin pracowali strażacy. Informację o sprawie otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Fragment elewacji spadł na ogródek restauracyjny. Dwie osoby ranne",
+      "originalDescription": "Dwie osoby zostały poszkodowane po tym, jak z jednego z budynków w centrum Gdańska odpadł fragment elewacji. Na miejscu przez kilka godzin pracowali strażacy. Informację o sprawie otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Po 35 latach zakwitła wyjątkowa agawa. W palmiarni musieli zdemontować dach",
+      "link": "https://tvn24.pl/wroclaw/walbrzych-wyjatkowe-zjawisko-w-palmiarni-agawy-zakwitly-po-raz-pierwszy-i-ostatni-st9128828?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 09:54:18 GMT",
+      "description": "Po 35 latach oczekiwania dwie agawy amerykańskie w Palmiarni Wałbrzych zakwitły po raz pierwszy i jedyny w swoim życiu. Rośliny wypuściły olbrzymie kwiatostany, a ich dalszy wzrost wymagał częściowego demontażu szklanego dachu.",
+      "originalTitle": "Po 35 latach zakwitła wyjątkowa agawa. W palmiarni musieli zdemontować dach",
+      "originalDescription": "Po 35 latach oczekiwania dwie agawy amerykańskie w Palmiarni Wałbrzych zakwitły po raz pierwszy i jedyny w swoim życiu. Rośliny wypuściły olbrzymie kwiatostany, a ich dalszy wzrost wymagał częściowego demontażu szklanego dachu."
+    },
+    {
+      "title": "Arogancki i pewny siebie, lubi blichtr. Kim jest doktor Emil Jędrzejewski?",
+      "link": "https://tvn24.pl/polska/afera-w-szpitalu-poludniowym-kim-jest-lekarz-emil-jedrzejewski-st9126983?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 09:43:25 GMT",
+      "description": "Wybitny chirurg, ale potrafi manipulować ludźmi. Charyzmatyczny, ale arogancki. Opinie o Emilu Jędrzejewskim są skrajne. Były ordynator z warszawskiego Szpitala Południowego, który ujawnił nieprawidłowości w placówce, odmówił nam rozmowy, ale poprosił o \"uczciwą sylwetkę\". Kim jest lekarz, który obraca się wśród bogatych Polaków?",
+      "originalTitle": "Arogancki i pewny siebie, lubi blichtr. Kim jest doktor Emil Jędrzejewski?",
+      "originalDescription": "Wybitny chirurg, ale potrafi manipulować ludźmi. Charyzmatyczny, ale arogancki. Opinie o Emilu Jędrzejewskim są skrajne. Były ordynator z warszawskiego Szpitala Południowego, który ujawnił nieprawidłowości w placówce, odmówił nam rozmowy, ale poprosił o \"uczciwą sylwetkę\". Kim jest lekarz, który obraca się wśród bogatych Polaków?"
+    },
+    {
+      "title": "Sąsiad, radny, lekarz, milioner. Kulisy kariery Dawida Kacprzyka",
+      "link": "https://tvn24.pl/polska/afera-w-szpitalu-poludniowym-kim-jest-lekarz-dawid-kacprzyk-st9124725?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 09:43:17 GMT",
+      "description": "W wieku 20 lat został radnym, w wieku 27 lat - lekarzem. Rok później był już milionerem. Jak wyglądała kariera Dawida Kacprzyka i jaki ma plan na obronę po tym, jak został twarzą jednej z największych afer obecnej władzy?",
+      "originalTitle": "Sąsiad, radny, lekarz, milioner. Kulisy kariery Dawida Kacprzyka",
+      "originalDescription": "W wieku 20 lat został radnym, w wieku 27 lat - lekarzem. Rok później był już milionerem. Jak wyglądała kariera Dawida Kacprzyka i jaki ma plan na obronę po tym, jak został twarzą jednej z największych afer obecnej władzy?"
+    },
+    {
+      "title": "Jest zgoda na nowy pomnik. Niedźwiedź Wojtek stanie na skwerze swojego imienia",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nowy-pomnik-w-srodmiesciu-niedzwiedz-wojtek-stanie-na-skwerze-swojego-imienia-st9128824?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 09:34:41 GMT",
+      "description": "Na Nowolipkach zbudowany zostanie pomnik Niedźwiedzia Wojtka. Śródmiejscy radni zdecydowali, że stanie na skwerze jego imienia w sąsiedztwie Parku Krasińskich i Komendy Stołecznej Policji. To kolejne jego upamiętnienie na terenie stolicy.",
+      "originalTitle": "Jest zgoda na nowy pomnik. Niedźwiedź Wojtek stanie na skwerze swojego imienia",
+      "originalDescription": "Na Nowolipkach zbudowany zostanie pomnik Niedźwiedzia Wojtka. Śródmiejscy radni zdecydowali, że stanie na skwerze jego imienia w sąsiedztwie Parku Krasińskich i Komendy Stołecznej Policji. To kolejne jego upamiętnienie na terenie stolicy."
+    },
+    {
+      "title": "Wpis Lewandowskiej i fala komentarzy. \"Ludziom wydaje się, że nie ma prawa czuć\"",
+      "link": "https://tvn24.pl/polska/wpis-anny-lewandowskiej-i-fala-komentarzy-psycholozka-komentuje-ludziom-wydaje-sie-ze-nie-ma-prawa-czuc-st9128744?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 09:27:48 GMT",
+      "description": "Z uwagi na to, że napisała to Anna Lewandowska, która jest symbolem statusu, sukcesu, pojawia się klasyczny mechanizm psychologiczny. To się nazywa błąd atrybucji - mówiła w TVN24 psycholożka Magdalena Chorzewska. - Ludzie, widząc taką osobę, zakładają, że nie powinna mieć żadnych problemów, już na pewno nie powinna przeżywać lęków - tłumaczyła.",
+      "originalTitle": "Wpis Lewandowskiej i fala komentarzy. \"Ludziom wydaje się, że nie ma prawa czuć\"",
+      "originalDescription": "Z uwagi na to, że napisała to Anna Lewandowska, która jest symbolem statusu, sukcesu, pojawia się klasyczny mechanizm psychologiczny. To się nazywa błąd atrybucji - mówiła w TVN24 psycholożka Magdalena Chorzewska. - Ludzie, widząc taką osobę, zakładają, że nie powinna mieć żadnych problemów, już na pewno nie powinna przeżywać lęków - tłumaczyła."
+    },
+    {
+      "title": "Silny wiatr, możliwe burze. Alarmy IMGW dla ośmiu województw",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-burze-i-silny-wiatr-prognoza-zagrozen-alarmy-imgw-moga-objac-wiekszosc-kraju-st9128576?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 04:42:46 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia przed silnym wiatrem. Lokalnie mogą pojawić się burze z drobnym gradem. Sprawdź, gdzie w niedzielę pogoda będzie groźna.",
+      "originalTitle": "Silny wiatr, możliwe burze. Alarmy IMGW dla ośmiu województw",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał ostrzeżenia przed silnym wiatrem. Lokalnie mogą pojawić się burze z drobnym gradem. Sprawdź, gdzie w niedzielę pogoda będzie groźna."
+    },
+    {
+      "title": "Irański polityk oskarża Europę. \"Barbarzyńska i dzika\"",
+      "link": "https://tvn24.pl/swiat/pogrzeb-w-iranie-bez-udzialu-europejskich-przywodcow-parlamentarzysta-nazwal-europe-barbarzynska-i-dzika-st9128531?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 08:52:34 GMT",
+      "description": "Irański parlamentarzysta Modżtaba Zarei poinformował, że europejscy liderzy zostali wykluczeni z ceremonii pogrzebowej byłego najwyższego duchowo-politycznego przywódcy kraju Alego Chameneiego. Nazwał przy tym Europę \"barbarzyńską i dziką\".",
+      "originalTitle": "Irański polityk oskarża Europę. \"Barbarzyńska i dzika\"",
+      "originalDescription": "Irański parlamentarzysta Modżtaba Zarei poinformował, że europejscy liderzy zostali wykluczeni z ceremonii pogrzebowej byłego najwyższego duchowo-politycznego przywódcy kraju Alego Chameneiego. Nazwał przy tym Europę \"barbarzyńską i dziką\"."
+    },
+    {
+      "title": "Tragiczny wypadek w hucie. Nie żyje 38-latek",
+      "link": "https://tvn24.pl/wroclaw/glogow-tragiczny-wypadek-w-hucie-nie-zyje-38-letni-pracownik-st9128795?source=rss",
+      "pubDate": "Sun, 05 Jul 2026 08:46:34 GMT",
+      "description": "38-letni pracownik Huty Miedzi Głogów II zginął w wypadku, do którego doszło w nocy trzeciego lipca podczas czyszczenia zbiornika na koncentrat miedzi. Okoliczności zdarzenia wyjaśni komisja.",
+      "originalTitle": "Tragiczny wypadek w hucie. Nie żyje 38-latek",
+      "originalDescription": "38-letni pracownik Huty Miedzi Głogów II zginął w wypadku, do którego doszło w nocy trzeciego lipca podczas czyszczenia zbiornika na koncentrat miedzi. Okoliczności zdarzenia wyjaśni komisja."
+    }
+  ]
 }
