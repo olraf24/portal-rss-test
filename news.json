@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-07T17:32:12.705Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-07T19:55:04.551Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Burze i wichury w Polsce. Ewakuacja obozu harcerskiego",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-we-wtorek-7-07-strazacy-interweniuja-st9132582?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 15:15:49 GMT",
+      "description": "Burze i wichury przechodzą we wtorek nad Polską. W Krynicy Morskiej zarządzono prewencyjną ewakuację obozu harcerskiego - w nocy Mierzeję Wiślaną mają nawiedzić silne podmuchy wiatru. Szkody zanotowano także na południu kraju.",
+      "originalTitle": "Burze i wichury w Polsce. Ewakuacja obozu harcerskiego",
+      "originalDescription": "Burze i wichury przechodzą we wtorek nad Polską. W Krynicy Morskiej zarządzono prewencyjną ewakuację obozu harcerskiego - w nocy Mierzeję Wiślaną mają nawiedzić silne podmuchy wiatru. Szkody zanotowano także na południu kraju."
+    },
+    {
+      "title": "USA zmieniają zdanie w sprawie sankcji na Iran",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-zmieniaja-zdanie-w-sprawie-sankcji-na-iran-st9132864?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 19:37:28 GMT",
+      "description": "Rząd USA cofnął licencję, która zawieszała sankcje na sprzedaż irańskiej ropy naftowej. Amerykanie zezwolili jednocześnie na dalsze kupowanie surowca z Iranu do 17 lipca pod pewnymi warunkami.",
+      "originalTitle": "USA zmieniają zdanie w sprawie sankcji na Iran",
+      "originalDescription": "Rząd USA cofnął licencję, która zawieszała sankcje na sprzedaż irańskiej ropy naftowej. Amerykanie zezwolili jednocześnie na dalsze kupowanie surowca z Iranu do 17 lipca pod pewnymi warunkami."
+    },
+    {
+      "title": "Rośnie kumulacja w Eurojackpot",
+      "link": "https://tvn24.pl/biznes/z-kraju/wyniki-losowania-eurojackpot-z-7-lipca-2026-wysoka-wygrana-w-polsce-kumulacja-rosnie-do-140-mln-zl-st9132847?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 19:25:36 GMT",
+      "description": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 140 milionów złotych. W Polsce najwyższa była wygrana czwartego stopnia. Oto wyniki losowania z 7 lipca 2026 roku.",
+      "originalTitle": "Rośnie kumulacja w Eurojackpot",
+      "originalDescription": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 140 milionów złotych. W Polsce najwyższa była wygrana czwartego stopnia. Oto wyniki losowania z 7 lipca 2026 roku."
+    },
+    {
+      "title": "Trump: to naprawdę wielka sprawa",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-to-naprawde-wielka-sprawa-toyota-przenosi-produkcje-z-meksyku-do-usa-st9132750?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 18:55:39 GMT",
+      "description": "Gigant motoryzacyjny przenosi część produkcji z Meksyku do Stanów Zjednoczonych. Zdaniem prezydenta USA Donalda Trumpa to dowód na skuteczność wprowadzonych przez niego ceł.",
+      "originalTitle": "Trump: to naprawdę wielka sprawa",
+      "originalDescription": "Gigant motoryzacyjny przenosi część produkcji z Meksyku do Stanów Zjednoczonych. Zdaniem prezydenta USA Donalda Trumpa to dowód na skuteczność wprowadzonych przez niego ceł."
+    },
+    {
+      "title": "Waldemar Żurek: wniosek o ekstradycję Zbigniewa Ziobry mamy gotowy",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-wniosek-o-ekstradycje-zbigniewa-ziobry-mamy-gotowy-st9132808?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 18:52:09 GMT",
+      "description": "Wniosek o ekstradycję z USA byłego ministra sprawiedliwości Zbigniewa Ziobry jest gotowy - przekazał w \"Kropce nad i\" w TVN24 prokurator generalny Waldemar Żurek. Ponadto - jak mówił - szykuje on pismo do władz amerykańskich z pytaniem, na podstawie jakiego dokumentu podróży Zbigniew Ziobro przebywa w Stanach Zjednoczonych.",
+      "originalTitle": "Waldemar Żurek: wniosek o ekstradycję Zbigniewa Ziobry mamy gotowy",
+      "originalDescription": "Wniosek o ekstradycję z USA byłego ministra sprawiedliwości Zbigniewa Ziobry jest gotowy - przekazał w \"Kropce nad i\" w TVN24 prokurator generalny Waldemar Żurek. Ponadto - jak mówił - szykuje on pismo do władz amerykańskich z pytaniem, na podstawie jakiego dokumentu podróży Zbigniew Ziobro przebywa w Stanach Zjednoczonych."
+    },
+    {
+      "title": "\"Jesienny\" niż niesie silne podmuchy. Tu groźnie będzie już w nocy",
+      "link": "https://tvn24.pl/tvnmeteo/polska/jesien-w-srodku-lata-ktoredy-przejda-wichury-i-opady-deszczu-radar-opadow-st9131846?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 11:11:33 GMT",
+      "description": "Silny wiatr pozostanie z nami w nocy i w środę. Nietypowy dla lata niż Bernadette ma w nadchodzących godzinach przynieść porywy o prędkości do 110 kilometrów na godzinę. Również temperatura odczuwalna będzie miejscami bardzo jesienna.",
+      "originalTitle": "\"Jesienny\" niż niesie silne podmuchy. Tu groźnie będzie już w nocy",
+      "originalDescription": "Silny wiatr pozostanie z nami w nocy i w środę. Nietypowy dla lata niż Bernadette ma w nadchodzących godzinach przynieść porywy o prędkości do 110 kilometrów na godzinę. Również temperatura odczuwalna będzie miejscami bardzo jesienna."
+    },
+    {
+      "title": "Marine Le Pen podjęła decyzję w sprawie wyborów prezydenckich",
+      "link": "https://tvn24.pl/swiat/marine-le-pen-podjela-decyzje-w-sprawie-wyborow-prezydenckich-st9132830?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 18:46:03 GMT",
+      "description": "Marine Le Pen ogłosiła, że zamierza ubiegać się o prezydenturę w wyborach w 2027 roku. We wtorek sąd skrócił jej zakaz ubiegania się o funkcje publiczne, umożliwiając liderce francuskiej skrajnej prawicy kandydowanie w następnych wyborach. Le Pen zapowiedziała też, że zwróci się do sądu kasacyjnego.",
+      "originalTitle": "Marine Le Pen podjęła decyzję w sprawie wyborów prezydenckich",
+      "originalDescription": "Marine Le Pen ogłosiła, że zamierza ubiegać się o prezydenturę w wyborach w 2027 roku. We wtorek sąd skrócił jej zakaz ubiegania się o funkcje publiczne, umożliwiając liderce francuskiej skrajnej prawicy kandydowanie w następnych wyborach. Le Pen zapowiedziała też, że zwróci się do sądu kasacyjnego."
+    },
+    {
+      "title": "Amerykański gwiazdor i reżyser z honorowym Złotym Lwem",
+      "link": "https://tvn24.pl/kultura-i-styl/amerykanski-gwiazdor-i-rezyser-z-honorowym-zlotym-lwem-st9132669?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 18:27:14 GMT",
+      "description": "George Clooney - hollywoodzki aktor i reżyser, zdobywca dwóch Oscarów, odbierze Honorowego Złotego Lwa podczas 83. Międzynarodowego Festiwalu Filmowego w Wenecji. - To artysta kompletny, charyzmatyczny, pełen pasji i oryginalny - podkreślił dyrektor festiwalu Alberto Barbera.",
+      "originalTitle": "Amerykański gwiazdor i reżyser z honorowym Złotym Lwem",
+      "originalDescription": "George Clooney - hollywoodzki aktor i reżyser, zdobywca dwóch Oscarów, odbierze Honorowego Złotego Lwa podczas 83. Międzynarodowego Festiwalu Filmowego w Wenecji. - To artysta kompletny, charyzmatyczny, pełen pasji i oryginalny - podkreślił dyrektor festiwalu Alberto Barbera."
+    },
+    {
+      "title": "Tomasz Siemoniak: wszystkie wskaźniki pokazują - bądźmy w alercie",
+      "link": "https://tvn24.pl/polska/tomasz-siemoniak-wszystkie-wskazniki-pokazuja-badzmy-w-alercie-st9132752?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 18:20:19 GMT",
+      "description": "To zagrożenie jest bardzo poważne i to nie tylko według naszych służb, bo służby sojusznicze też są w pełnym alercie - powiedział minister koordynator służb specjalnych Tomasz Siemoniak we wtorkowych \"Faktach po Faktach\". Minister odniósł się do możliwości wystąpienia rosyjskich działań prowokacyjnych w Polsce.",
+      "originalTitle": "Tomasz Siemoniak: wszystkie wskaźniki pokazują - bądźmy w alercie",
+      "originalDescription": "To zagrożenie jest bardzo poważne i to nie tylko według naszych służb, bo służby sojusznicze też są w pełnym alercie - powiedział minister koordynator służb specjalnych Tomasz Siemoniak we wtorkowych \"Faktach po Faktach\". Minister odniósł się do możliwości wystąpienia rosyjskich działań prowokacyjnych w Polsce."
+    },
+    {
+      "title": "Polacy w czołówce Europy. Tylko trzy kraje przed nami",
+      "link": "https://tvn24.pl/biznes/turystyka/wakacje-2026-polacy-naleza-do-scislej-europejskiej-czolowki-st9132575?source=rss",
+      "pubDate": "Tue, 07 Jul 2026 18:14:12 GMT",
+      "description": "Polska znalazła się na czwartym miejscu wśród państw Unii Europejskiej pod względem liczby podróży - wynika z raportu Banku Pekao. Autorzy analizy podkreślają, że to integralny element stylu życia Polaków i jeden z najbardziej widocznych przejawów rosnącej zamożności społeczeństwa.",
+      "originalTitle": "Polacy w czołówce Europy. Tylko trzy kraje przed nami",
+      "originalDescription": "Polska znalazła się na czwartym miejscu wśród państw Unii Europejskiej pod względem liczby podróży - wynika z raportu Banku Pekao. Autorzy analizy podkreślają, że to integralny element stylu życia Polaków i jeden z najbardziej widocznych przejawów rosnącej zamożności społeczeństwa."
+    }
+  ]
 }
