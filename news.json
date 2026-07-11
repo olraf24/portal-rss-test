@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-11T10:13:55.348Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-11T11:30:06.021Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Po napadzie na sklep przyszedł stawić się na dozór",
+      "link": "https://tvn24.pl/lublin/lublin-ukradl-piwo-grozil-ekspedientce-a-potem-sam-przyszedl-na-komisariat-st9138076?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 11:24:38 GMT",
+      "description": "Ukradł piwo, sterroryzował ekspedientkę, a potem sam przyszedł na komisariat. 34-letni mieszkaniec Lublina, poszukiwany za napad w sklepie, został zatrzymany, gdy stawił się na dozór w innej sprawie. Miał przy sobie skradzione piwa i pistolet na kulki. Usłyszał zarzut kradzieży rozbójniczej, za co grozi mu do 10 lat więzienia.",
+      "originalTitle": "Po napadzie na sklep przyszedł stawić się na dozór",
+      "originalDescription": "Ukradł piwo, sterroryzował ekspedientkę, a potem sam przyszedł na komisariat. 34-letni mieszkaniec Lublina, poszukiwany za napad w sklepie, został zatrzymany, gdy stawił się na dozór w innej sprawie. Miał przy sobie skradzione piwa i pistolet na kulki. Usłyszał zarzut kradzieży rozbójniczej, za co grozi mu do 10 lat więzienia."
+    },
+    {
+      "title": "Leciały na panieński, wyprowadzili je z samolotu. \"Panieński mi zj*****ś\"",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-piec-pasazerek-wyprowadzili-z-samolotu-do-chorwacji-na-wieczor-panienski-nie-polecialy-st9137411?source=rss",
+      "pubDate": "Fri, 10 Jul 2026 14:52:52 GMT",
+      "description": "Pięć pasażerek nie dotarło na wakacje w chorwackim Zadarze. Awanturowały się na pokładzie samolotu jeszcze przed jego startem. Interweniowali strażnicy graniczni.",
+      "originalTitle": "Leciały na panieński, wyprowadzili je z samolotu. \"Panieński mi zj*****ś\"",
+      "originalDescription": "Pięć pasażerek nie dotarło na wakacje w chorwackim Zadarze. Awanturowały się na pokładzie samolotu jeszcze przed jego startem. Interweniowali strażnicy graniczni."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi w dwóch województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-sobota-11-07-mapa-i-radar-burz-na-zywo-st9138224?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 11:07:31 GMT",
+      "description": "Gdzie jest burza? W sobotę 11.07 po południu zaczęło grzmieć w części Polski. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi w dwóch województwach",
+      "originalDescription": "Gdzie jest burza? W sobotę 11.07 po południu zaczęło grzmieć w części Polski. Wyładowaniom towarzyszą opady deszczu i silny wiatr. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Ewakuacja górników w Lubinie. Pod ziemią jest jeszcze jedna osoba",
+      "link": "https://tvn24.pl/wroclaw/lubin-wstrzas-w-zaglebiu-miedziowym-na-dolnym-slasku-ewakuacja-gornikow-st9138152?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 10:04:47 GMT",
+      "description": "W kopalni miedzi w Lubinie trwa wycofywanie górników z zagrożonego rejonu. Działania podjęto po tym, jak rano doszło do wstrząsu w Zagłębiu Miedziowym na Dolnym Śląsku. Dziewiętnastu górników jest już bezpiecznych, pod ziemią wciąż przebywa operator.",
+      "originalTitle": "Ewakuacja górników w Lubinie. Pod ziemią jest jeszcze jedna osoba",
+      "originalDescription": "W kopalni miedzi w Lubinie trwa wycofywanie górników z zagrożonego rejonu. Działania podjęto po tym, jak rano doszło do wstrząsu w Zagłębiu Miedziowym na Dolnym Śląsku. Dziewiętnastu górników jest już bezpiecznych, pod ziemią wciąż przebywa operator."
+    },
+    {
+      "title": "Wędrowali w górach, korzystając z AI. Musiał ratować ich TOPR",
+      "link": "https://tvn24.pl/tvnmeteo/polska/tatry-wedrowali-w-gorach-z-pomoca-ai-musial-ratowac-ich-topr-st9138125?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 10:35:01 GMT",
+      "description": "Turyści z Litwy wędrowali po Tatrach, korzystając z podpowiedzi sztucznej inteligencji. W pewnym momencie zboczyli ze szlaku i utknęli w ścianie skalnej w okolicach Niebieskiej Turni. Nie obyło się bez interwencji ratowników TOPR.",
+      "originalTitle": "Wędrowali w górach, korzystając z AI. Musiał ratować ich TOPR",
+      "originalDescription": "Turyści z Litwy wędrowali po Tatrach, korzystając z podpowiedzi sztucznej inteligencji. W pewnym momencie zboczyli ze szlaku i utknęli w ścianie skalnej w okolicach Niebieskiej Turni. Nie obyło się bez interwencji ratowników TOPR."
+    },
+    {
+      "title": "Znalazła torbę z pieniędzmi, miasto nie chciało jej oddać. Jest decyzja sądu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/znalazla-torbe-z-pieniedzmi-miasto-nie-chcialo-jej-oddac-jest-decyzja-sadu-st9138210?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 10:31:42 GMT",
+      "description": "Pracownica obsługi tramwaju wodnego znalazła siedem tysięcy dolarów w pozostawionej torbie. Pomimo tego, że nikt nie zgłosił się po zgubę, to władze Wenecji nie chciały przekazać pieniędzy znalazczyni. Spór zakończył sąd.",
+      "originalTitle": "Znalazła torbę z pieniędzmi, miasto nie chciało jej oddać. Jest decyzja sądu",
+      "originalDescription": "Pracownica obsługi tramwaju wodnego znalazła siedem tysięcy dolarów w pozostawionej torbie. Pomimo tego, że nikt nie zgłosił się po zgubę, to władze Wenecji nie chciały przekazać pieniędzy znalazczyni. Spór zakończył sąd."
+    },
+    {
+      "title": "Zanim Haalanda nazwano \"Potworem\". Dziewięć goli w meczu, na polskiej ziemi",
+      "link": "https://tvn24.pl/swiat/erling-haaland-potwor-z-norwegii-czy-doprowadzi-reprezentacje-do-finalu-mistrzostw-swiata-st9135335?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 09:54:42 GMT",
+      "description": "Dzisiaj na stadionach całego świata sieje postrach, inaczej nazwać tego nie można. Erling Haaland w trwającym mundialu trafił do siatki już siedem razy, a to imponujące osiągnięcie może i powinien jeszcze poprawić, bo reprezentacja Norwegii szykuje się do ćwierćfinału mistrzostw świata. Jak chłopak z małego Bryne został piłkarzem, z szacunkiem nazywanym \"Potworem\"?",
+      "originalTitle": "Zanim Haalanda nazwano \"Potworem\". Dziewięć goli w meczu, na polskiej ziemi",
+      "originalDescription": "Dzisiaj na stadionach całego świata sieje postrach, inaczej nazwać tego nie można. Erling Haaland w trwającym mundialu trafił do siatki już siedem razy, a to imponujące osiągnięcie może i powinien jeszcze poprawić, bo reprezentacja Norwegii szykuje się do ćwierćfinału mistrzostw świata. Jak chłopak z małego Bryne został piłkarzem, z szacunkiem nazywanym \"Potworem\"?"
+    },
+    {
+      "title": "Groził matce śmiercią, potem się zabarykadował. Z siekierą ruszył na policjantów",
+      "link": "https://tvn24.pl/lublin/lublin-38-latek-grozil-matce-z-siekiera-zabarykadowal-sie-w-mieszkaniu-interweniowali-kontrterrorysci-st9137964?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 09:44:25 GMT",
+      "description": "W jednym z mieszkań przy ulicy Mełgiewskiej w Lublinie 38-letni mężczyzna groził swojej matce, a następnie zabarykadował się w lokalu. Podczas interwencji ruszył na policjantów z siekierą i próbował ranić jednego z nich nożem. Agresor został zatrzymany przez policyjnych kontrterrorystów.",
+      "originalTitle": "Groził matce śmiercią, potem się zabarykadował. Z siekierą ruszył na policjantów",
+      "originalDescription": "W jednym z mieszkań przy ulicy Mełgiewskiej w Lublinie 38-letni mężczyzna groził swojej matce, a następnie zabarykadował się w lokalu. Podczas interwencji ruszył na policjantów z siekierą i próbował ranić jednego z nich nożem. Agresor został zatrzymany przez policyjnych kontrterrorystów."
+    },
+    {
+      "title": "Sportowe wyzwanie w Bydgoszczy. Zobacz, jak dziennikarze TVN24 poradzili sobie z kajakami",
+      "link": "https://tvn24.pl/25-lat-TVN24/urodziny-tvn24-sportowe-wyzwanie-zobacz-jak-poradzili-sobie-nasi-dziennikarze-st9138100?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 09:41:28 GMT",
+      "description": "TVN24 świętuje urodziny w Bydgoszczy. Miasto słynie z kajakarstwa. Sportowe wyzwanie podjęli nasi dziennikarze. Jak im poszło?",
+      "originalTitle": "Sportowe wyzwanie w Bydgoszczy. Zobacz, jak dziennikarze TVN24 poradzili sobie z kajakami",
+      "originalDescription": "TVN24 świętuje urodziny w Bydgoszczy. Miasto słynie z kajakarstwa. Sportowe wyzwanie podjęli nasi dziennikarze. Jak im poszło?"
+    },
+    {
+      "title": "\"Musimy żyć z dnia na dzień\". Kryzys w całym kraju",
+      "link": "https://tvn24.pl/biznes/ze-swiata/musimy-zyc-z-dnia-na-dzien-kryzys-w-calym-kraju-st9137860?source=rss",
+      "pubDate": "Sat, 11 Jul 2026 09:40:50 GMT",
+      "description": "Brak paliwa w elektrowniach doprowadził w piątek do awarii sieci energetycznej na Kubie. To drugi raz w tym tygodniu i czwarty w tym roku, kiedy cały kraj stracił dostęp do prądu.",
+      "originalTitle": "\"Musimy żyć z dnia na dzień\". Kryzys w całym kraju",
+      "originalDescription": "Brak paliwa w elektrowniach doprowadził w piątek do awarii sieci energetycznej na Kubie. To drugi raz w tym tygodniu i czwarty w tym roku, kiedy cały kraj stracił dostęp do prądu."
+    }
+  ]
 }
