@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-12T11:59:30.934Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-12T13:47:28.009Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Wielu ludzi tylko patrzy na ceny\". Osobliwa sytuacja w Korei Północnej",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wielu-ludzi-tylko-patrzy-na-ceny-osobliwa-sytuacja-w-korei-polnocnej-st9139106?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 13:25:20 GMT",
+      "description": "Na północnokoreańskich targowiskach pojawiło się najwięcej produktów od lat, ale ich wysokie ceny zniechęcają potencjalnych kupujących - informuje portal Daily NK. Podkreśla przy tym, że reżim Kim Dzong Una zmaga się obecnie z ogromnym wzrostem cen żywności.",
+      "originalTitle": "\"Wielu ludzi tylko patrzy na ceny\". Osobliwa sytuacja w Korei Północnej",
+      "originalDescription": "Na północnokoreańskich targowiskach pojawiło się najwięcej produktów od lat, ale ich wysokie ceny zniechęcają potencjalnych kupujących - informuje portal Daily NK. Podkreśla przy tym, że reżim Kim Dzong Una zmaga się obecnie z ogromnym wzrostem cen żywności."
+    },
+    {
+      "title": "Chcieli uśpić 30 białuch. Zwierzęta dostały drugą szansę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kanada-chcieli-uspic-30-bialuch-zwierzeta-dostaly-druga-szanse-st9139302?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 13:17:13 GMT",
+      "description": "Białuchy z Kanady, którym groziło uśpienie, znajdą nowy dom. Zwierzęta mają trafić do akwariów w Stanach Zjednoczonych i Hiszpanii. Jak wyjaśnili eksperci, akcja ich przeniesienia będzie skomplikowana.",
+      "originalTitle": "Chcieli uśpić 30 białuch. Zwierzęta dostały drugą szansę",
+      "originalDescription": "Białuchy z Kanady, którym groziło uśpienie, znajdą nowy dom. Zwierzęta mają trafić do akwariów w Stanach Zjednoczonych i Hiszpanii. Jak wyjaśnili eksperci, akcja ich przeniesienia będzie skomplikowana."
+    },
+    {
+      "title": "Mgła pełna życia. Czy jest tak groźna jak w \"Silent Hill\"?",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/mgla-pelna-zycia-czy-jest-tak-grozna-jak-w-silent-hill-st9112209?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 12:53:08 GMT",
+      "description": "Mgła tworzy niepowtarzalny klimat. Miłośnicy horrorów wiedzą, o czym piszę - ulice miasteczka Silent Hill byłyby znacznie mniej przerażające, gdyby nie słabiutka widzialność, za której zasłoną kryły się potworne istoty. Mgła bywa także źródłem zachwytu, gdy otula górskie szczyty. Chociaż może wydawać się, że wiemy o niej wszystko, najnowsze badania pokazują, że mgła wciąż ma swoje tajemnice. I kryje się w niej coś mniejszego niż Piramidogłowy, ale nie mniej zaskakującego.",
+      "originalTitle": "Mgła pełna życia. Czy jest tak groźna jak w \"Silent Hill\"?",
+      "originalDescription": "Mgła tworzy niepowtarzalny klimat. Miłośnicy horrorów wiedzą, o czym piszę - ulice miasteczka Silent Hill byłyby znacznie mniej przerażające, gdyby nie słabiutka widzialność, za której zasłoną kryły się potworne istoty. Mgła bywa także źródłem zachwytu, gdy otula górskie szczyty. Chociaż może wydawać się, że wiemy o niej wszystko, najnowsze badania pokazują, że mgła wciąż ma swoje tajemnice. I kryje się w niej coś mniejszego niż Piramidogłowy, ale nie mniej zaskakującego."
+    },
+    {
+      "title": "Spór o przekazanie pocisków Patriot. \"Karol Nawrocki nie był informowany\"",
+      "link": "https://tvn24.pl/polska/spor-o-przekazanie-pociskow-patriot-karol-nawrocki-nie-byl-informowany-st9139092?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 12:35:37 GMT",
+      "description": "Prezydent nie był informowany i nie był konsultowany bezpośrednio - powiedział w \"Kawie na ławę\" w TVN24 doradca głowy państwa Jarosław Margielski, pytany o sprawę przekazania Ukrainie przez Polskę pocisków do systemu Patriot. Posłanka KO Aleksandra Gajewska mówiła z kolei, że \"trzymanie Rosjan i ich armii jak najdalej od Polski nie jest akcją charytatywną\".",
+      "originalTitle": "Spór o przekazanie pocisków Patriot. \"Karol Nawrocki nie był informowany\"",
+      "originalDescription": "Prezydent nie był informowany i nie był konsultowany bezpośrednio - powiedział w \"Kawie na ławę\" w TVN24 doradca głowy państwa Jarosław Margielski, pytany o sprawę przekazania Ukrainie przez Polskę pocisków do systemu Patriot. Posłanka KO Aleksandra Gajewska mówiła z kolei, że \"trzymanie Rosjan i ich armii jak najdalej od Polski nie jest akcją charytatywną\"."
+    },
+    {
+      "title": "W tym roku wprowadzili euro. Bruksela uruchamia specjalną procedurę",
+      "link": "https://tvn24.pl/biznes/ze-swiata/w-tym-roku-wprowadzili-euro-bruksela-uruchamia-specjalna-procedure-st9139029?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 12:17:13 GMT",
+      "description": "Unia Europejska objęła Bułgarię procedurą nadmiernego deficytu. Przyjęto również zalecenia, które mają ustabilizować finanse kraju do 2029 roku.",
+      "originalTitle": "W tym roku wprowadzili euro. Bruksela uruchamia specjalną procedurę",
+      "originalDescription": "Unia Europejska objęła Bułgarię procedurą nadmiernego deficytu. Przyjęto również zalecenia, które mają ustabilizować finanse kraju do 2029 roku."
+    },
+    {
+      "title": "Rodzice Zełenskiego, 11 milionów dolarów i śledztwo antykorupcyjne. Co to za historia",
+      "link": "https://konkret24.tvn24.pl/swiat/rodzice-zelenskiego-11-milionow-dolarow-i-sledztwo-antykorupcyjne-co-to-za-historia-st9136281?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 11:46:40 GMT",
+      "description": "Ukraińskie służby antykorupcyjne odkryły na kontach rodziców Wołodymyra Zełenskiego 11 milionów dolarów - dowodzi materiał wideo stylizowany na reportaż telewizyjny. Ma miliony wyświetleń, a internauci bardzo się nim emocjonują. To kolejny przykład na to, jak działa rosyjska sieć \"Matrioszka\".",
+      "originalTitle": "Rodzice Zełenskiego, 11 milionów dolarów i śledztwo antykorupcyjne. Co to za historia",
+      "originalDescription": "Ukraińskie służby antykorupcyjne odkryły na kontach rodziców Wołodymyra Zełenskiego 11 milionów dolarów - dowodzi materiał wideo stylizowany na reportaż telewizyjny. Ma miliony wyświetleń, a internauci bardzo się nim emocjonują. To kolejny przykład na to, jak działa rosyjska sieć \"Matrioszka\"."
+    },
+    {
+      "title": "Mury dawnej synagogi i drobne przedmioty. Nowe odkrycia na cmentarzu",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-mury-dawnej-synagogi-i-drobne-przedmioty-odkrycia-na-okopowej-st9139276?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 11:46:23 GMT",
+      "description": "Archeolodzy pracujący na terenie cmentarza żydowskiego przy ulicy Okopowej odkrywają pod warstwami ziemi cenne znaleziska. Coraz wyraźniej wyłania się układ wnętrza synagogi i domów pogrzebowych zburzonych przez Niemców w 1943 roku. Co jakiś czas wykopują też drobne przedmioty.",
+      "originalTitle": "Mury dawnej synagogi i drobne przedmioty. Nowe odkrycia na cmentarzu",
+      "originalDescription": "Archeolodzy pracujący na terenie cmentarza żydowskiego przy ulicy Okopowej odkrywają pod warstwami ziemi cenne znaleziska. Coraz wyraźniej wyłania się układ wnętrza synagogi i domów pogrzebowych zburzonych przez Niemców w 1943 roku. Co jakiś czas wykopują też drobne przedmioty."
+    },
+    {
+      "title": "Wilczęta na spacerze z mamą. \"Nieoczekiwanie wkroczyły w sam kadr\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/wilczeta-na-spacerze-z-mama-nieoczekiwanie-wkroczyly-w-sam-kadr-st9139105?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 11:39:36 GMT",
+      "description": "Wilczęta wędrują już po lasach. Na Kontakt24 otrzymaliśmy nagranie, na którym widać młode drapieżniki przechadzające się w towarzystwie matki. Autor nagrania przyznał, że nie spodziewał się zaobserwować wilków w tym miejscu.",
+      "originalTitle": "Wilczęta na spacerze z mamą. \"Nieoczekiwanie wkroczyły w sam kadr\"",
+      "originalDescription": "Wilczęta wędrują już po lasach. Na Kontakt24 otrzymaliśmy nagranie, na którym widać młode drapieżniki przechadzające się w towarzystwie matki. Autor nagrania przyznał, że nie spodziewał się zaobserwować wilków w tym miejscu."
+    },
+    {
+      "title": "Zmiana na szczytach władzy w Ukrainie. Ogłoszono odejście Julii Swyrydenko",
+      "link": "https://tvn24.pl/swiat/dymisja-premier-ukrainy-julii-swyrydenko-wolodymyr-zelenski-o-szczegolach-st9139316?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 11:39:14 GMT",
+      "description": "Prezydent Wołodymyr Zełenski zapowiedział dymisję szefowej ukraińskiego rządu Julii Swyrydenko. Przekazał też, że zaproponował jej \"objęcie nowego, ważnego kierunku współpracy z kluczowym partnerem\". Wspomniał też o Polsce.",
+      "originalTitle": "Zmiana na szczytach władzy w Ukrainie. Ogłoszono odejście Julii Swyrydenko",
+      "originalDescription": "Prezydent Wołodymyr Zełenski zapowiedział dymisję szefowej ukraińskiego rządu Julii Swyrydenko. Przekazał też, że zaproponował jej \"objęcie nowego, ważnego kierunku współpracy z kluczowym partnerem\". Wspomniał też o Polsce."
+    },
+    {
+      "title": "Filtr, ale jaki? Jak chronić skórę dziecka przed słońcem",
+      "link": "https://tvn24.pl/polska/mamy-temat-w-tvn24-jak-chronic-dzieci-przed-poparzeniem-slonecznym-i-czerniakiem-st9139014?source=rss",
+      "pubDate": "Sun, 12 Jul 2026 11:30:24 GMT",
+      "description": "Filtry chemiczne, mineralne, a może odzież z filtrami UV? O tym, jak najskuteczniej chronić dziecięcą skórę przed słońcem mówiła w w podcaście \"Mamy temat\" TVN24 dermatolożka dr Dagmara Marańska. Lekarka ostrzega, że poparzenia słoneczne to prosta droga do nowotworów skóry. O ochronie skóry na antenie TVN24 rozmawiały autorki podcastu.",
+      "originalTitle": "Filtr, ale jaki? Jak chronić skórę dziecka przed słońcem",
+      "originalDescription": "Filtry chemiczne, mineralne, a może odzież z filtrami UV? O tym, jak najskuteczniej chronić dziecięcą skórę przed słońcem mówiła w w podcaście \"Mamy temat\" TVN24 dermatolożka dr Dagmara Marańska. Lekarka ostrzega, że poparzenia słoneczne to prosta droga do nowotworów skóry. O ochronie skóry na antenie TVN24 rozmawiały autorki podcastu."
+    }
+  ]
 }
