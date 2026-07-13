@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-13T17:11:51.397Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-13T18:55:20.506Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Gdzie jest burza? Burze wędrują nad krajem, może padać grad",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-13-07-mapa-i-radar-burz-na-zywo-st9140920?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 14:37:05 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 13.07 nad Polską pojawiły się wyładowania, miejscami silnie pada deszcz i grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Burze wędrują nad krajem, może padać grad",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 13.07 nad Polską pojawiły się wyładowania, miejscami silnie pada deszcz i grad. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Węgierski parlament przyjął poprawkę do konstytucji. Ultimatum dla prezydenta",
+      "link": "https://tvn24.pl/polska/wegierski-parlament-przyjal-poprawke-do-konstytucji-ultimatum-dla-prezydenta-st9141130?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 18:46:36 GMT",
+      "description": "Węgierski parlament przyjął poprawkę do konstytucji, która ma doprowadzić do usunięcia z funkcji prezydenta Tamasa Sulyoka. Jak zapowiadał premier Peter Magyar, jeżeli prezydent nie podpisze nowelizacji, \"będzie można wszcząć przeciwko niemu procedurę pozbawienia urzędu\".",
+      "originalTitle": "Węgierski parlament przyjął poprawkę do konstytucji. Ultimatum dla prezydenta",
+      "originalDescription": "Węgierski parlament przyjął poprawkę do konstytucji, która ma doprowadzić do usunięcia z funkcji prezydenta Tamasa Sulyoka. Jak zapowiadał premier Peter Magyar, jeżeli prezydent nie podpisze nowelizacji, \"będzie można wszcząć przeciwko niemu procedurę pozbawienia urzędu\"."
+    },
+    {
+      "title": "Pies przeszedł 140 kilometrów po tatrzańskich szlakach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/slowacja-pies-wedrowal-140-kilometrow-po-tatrzanskich-szlakach-st9141092?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 18:41:43 GMT",
+      "description": "Bezpański pies wędrował po Tatrach Wysokich. Jak przekazały słowackie media, od końca czerwca zwierzę mogło przejść co najmniej 140 kilometrów. W górach może znajdować się jeszcze jeden pies.",
+      "originalTitle": "Pies przeszedł 140 kilometrów po tatrzańskich szlakach",
+      "originalDescription": "Bezpański pies wędrował po Tatrach Wysokich. Jak przekazały słowackie media, od końca czerwca zwierzę mogło przejść co najmniej 140 kilometrów. W górach może znajdować się jeszcze jeden pies."
+    },
+    {
+      "title": "Czy Michał Kobosko czuje się \"żulikiem\"? \"To już nasi widzowie muszą ocenić\"",
+      "link": "https://tvn24.pl/polska/czy-michal-kobosko-czuje-sie-zulikiem-to-juz-nasi-widzowie-musza-ocenic-st9141099?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 18:30:43 GMT",
+      "description": "\"Żulikami\" ojciec Tadeusz Rydzyk chyba określa tych, którzy politycznie mu nie odpowiadają - ocenił w \"Faktach po Faktach\" w TVN24 europoseł Unii Centrum Michał Kobosko. Jak mówił, przykro mu, bo nie wie, w jakiej roli ojciec Rydzyk występuje na Jasnej Górze.",
+      "originalTitle": "Czy Michał Kobosko czuje się \"żulikiem\"? \"To już nasi widzowie muszą ocenić\"",
+      "originalDescription": "\"Żulikami\" ojciec Tadeusz Rydzyk chyba określa tych, którzy politycznie mu nie odpowiadają - ocenił w \"Faktach po Faktach\" w TVN24 europoseł Unii Centrum Michał Kobosko. Jak mówił, przykro mu, bo nie wie, w jakiej roli ojciec Rydzyk występuje na Jasnej Górze."
+    },
+    {
+      "title": "Ceny poszybowały. Przez El Nino",
+      "link": "https://tvn24.pl/biznes/handel/ceny-poszybowaly-przez-el-nino-st9140707?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 18:28:28 GMT",
+      "description": "Ceny kawy na światowych rynkach rosną. Wpływa na nie między innymi zjawisko El Nino - wynika z danych International Coffee Organization (ICO).",
+      "originalTitle": "Ceny poszybowały. Przez El Nino",
+      "originalDescription": "Ceny kawy na światowych rynkach rosną. Wpływa na nie między innymi zjawisko El Nino - wynika z danych International Coffee Organization (ICO)."
+    },
+    {
+      "title": "Gwiazdor z Hollywood w Białostockim Ośrodku Kultury",
+      "link": "https://tvn24.pl/bialystok/bialystok-gwiazda-kina-odwiedzila-centrum-kultury-st9141086?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 18:04:22 GMT",
+      "description": "Amerykański aktor Jesse Eisenberg odwiedził w sobotę Białostocki Ośrodek Kultury, zaskakując pracowników.",
+      "originalTitle": "Gwiazdor z Hollywood w Białostockim Ośrodku Kultury",
+      "originalDescription": "Amerykański aktor Jesse Eisenberg odwiedził w sobotę Białostocki Ośrodek Kultury, zaskakując pracowników."
+    },
+    {
+      "title": "\"Mają nieograniczony dostęp do naszych dzieci\". Bruksela szykuje zmiany",
+      "link": "https://tvn24.pl/biznes/tech/maja-nieograniczony-dostep-do-naszych-dzieci-bruksela-szykuje-zmiany-st9140834?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 17:54:35 GMT",
+      "description": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała prace nad przepisami, które mają skuteczniej chronić dzieci w internecie.",
+      "originalTitle": "\"Mają nieograniczony dostęp do naszych dzieci\". Bruksela szykuje zmiany",
+      "originalDescription": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała prace nad przepisami, które mają skuteczniej chronić dzieci w internecie."
+    },
+    {
+      "title": "Nieprawidłowości w prosektorium. Ruch Naczelnej Izby Lekarskiej",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-naczelna-izba-lekarska-wszczela-czynnosci-w-sprawie-patologa-ze-szpitala-poludniowego-st9141077?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 17:50:44 GMT",
+      "description": "Naczelna Izba Lekarska wszczęła czynności w sprawie patomorfologa z Warszawskiego Szpitala Południowego. Złożyła też w jego sprawie zawiadomienie do Naczelnego Rzecznika Odpowiedzialności Zawodowej.",
+      "originalTitle": "Nieprawidłowości w prosektorium. Ruch Naczelnej Izby Lekarskiej",
+      "originalDescription": "Naczelna Izba Lekarska wszczęła czynności w sprawie patomorfologa z Warszawskiego Szpitala Południowego. Złożyła też w jego sprawie zawiadomienie do Naczelnego Rzecznika Odpowiedzialności Zawodowej."
+    },
+    {
+      "title": "Premier Ukrainy Julia Swyrydenko złożyła rezygnację",
+      "link": "https://tvn24.pl/swiat/ukraina-premier-julia-swyrydenko-zlozyla-rezygnacje-st9141074?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 17:35:01 GMT",
+      "description": "Rada Najwyższa Ukrainy otrzymała oficjalną rezygnację Julii Swyrydenko ze stanowiska premiera - poinformował przewodniczący ukraińskiego parlamentu Rusłan Stefanczuk. Wniosek ma zostać rozpatrzony w tym tygodniu.",
+      "originalTitle": "Premier Ukrainy Julia Swyrydenko złożyła rezygnację",
+      "originalDescription": "Rada Najwyższa Ukrainy otrzymała oficjalną rezygnację Julii Swyrydenko ze stanowiska premiera - poinformował przewodniczący ukraińskiego parlamentu Rusłan Stefanczuk. Wniosek ma zostać rozpatrzony w tym tygodniu."
+    },
+    {
+      "title": "21-latek zginął podczas pościgu. Eksperci o zachowaniu policjantów",
+      "link": "https://tvn24.pl/wroclaw/walbrzych-21-latek-zginal-podczas-poscigu-eksperci-o-zachowaniu-policjantow-st9141072?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 17:34:51 GMT",
+      "description": "Po policyjnym pościgu w Wałbrzychu zginął młody motocyklista. Eksperci w \"Tak jest\" komentowali zachowanie zarówno funkcjonariuszy, jak i ściganego 21-latka. - Dla jego rodziny i dla policjanta jest to tragedia - zaznaczył Łukasz Byśkiniewicz, dziennikarz i kierowca rajdowy.",
+      "originalTitle": "21-latek zginął podczas pościgu. Eksperci o zachowaniu policjantów",
+      "originalDescription": "Po policyjnym pościgu w Wałbrzychu zginął młody motocyklista. Eksperci w \"Tak jest\" komentowali zachowanie zarówno funkcjonariuszy, jak i ściganego 21-latka. - Dla jego rodziny i dla policjanta jest to tragedia - zaznaczył Łukasz Byśkiniewicz, dziennikarz i kierowca rajdowy."
+    }
+  ]
 }
