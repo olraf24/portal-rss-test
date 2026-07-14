@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-14T02:28:34.049Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-14T05:14:57.692Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pięć tygodni w roku na zwolnieniach. Oto liderzy Europy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/piec-tygodni-w-roku-na-zwolnieniach-oto-liderzy-europy-st9141221?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 04:57:49 GMT",
+      "description": "Najwyższe wskaźniki nieobecności w pracy z powodu choroby w Unii Europejskiej są w Słowenii i Hiszpanii. Polska jest bliżej przeciwnego bieguna zestawienia.",
+      "originalTitle": "Pięć tygodni w roku na zwolnieniach. Oto liderzy Europy",
+      "originalDescription": "Najwyższe wskaźniki nieobecności w pracy z powodu choroby w Unii Europejskiej są w Słowenii i Hiszpanii. Polska jest bliżej przeciwnego bieguna zestawienia."
+    },
+    {
+      "title": "Reklama Muzeum Sztuki Nowoczesnej na zabytkowym budynku. \"Popełniliśmy błąd\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-reklama-muzeum-sztuki-nowoczesnej-na-zabytkowym-budynku-przy-alejach-jerozolimskich-placowka-przeprasza-st9140989?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 04:55:39 GMT",
+      "description": "Reklama najnowszej wystawy Muzeum Sztuki Nowoczesnej zawisła na budynku przy Alejach Jerozolimskich 42, wpisanym do gminnej ewidencji zabytków. Sytuacja oburzyła aktywistów, placówka przyznała się do błędu i przeprosiła. Baner został zdjęty.",
+      "originalTitle": "Reklama Muzeum Sztuki Nowoczesnej na zabytkowym budynku. \"Popełniliśmy błąd\"",
+      "originalDescription": "Reklama najnowszej wystawy Muzeum Sztuki Nowoczesnej zawisła na budynku przy Alejach Jerozolimskich 42, wpisanym do gminnej ewidencji zabytków. Sytuacja oburzyła aktywistów, placówka przyznała się do błędu i przeprosiła. Baner został zdjęty."
+    },
+    {
+      "title": "Pomarańczowe ostrzeżenia IMGW. Tu w nocy będzie groźnie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-ostrzezenia-imgw-poniedzialek-13-07-alarmy-maja-nawet-drugi-stopien-st9139702?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 04:39:02 GMT",
+      "description": "IMGW ostrzega przed silnym deszczem i burzami. W części kraju przez całą noc obowiązywać mają alarmy drugiego stopnia. Lokalnie może spaść nawet do 80 litrów deszczu na metr kwadratowy.",
+      "originalTitle": "Pomarańczowe ostrzeżenia IMGW. Tu w nocy będzie groźnie",
+      "originalDescription": "IMGW ostrzega przed silnym deszczem i burzami. W części kraju przez całą noc obowiązywać mają alarmy drugiego stopnia. Lokalnie może spaść nawet do 80 litrów deszczu na metr kwadratowy."
+    },
+    {
+      "title": "Byli prezesi Trybunału Konstytucyjnego spotkali się ze Zbigniewem Boguckim. \"Żadnej odpowiedzi\"",
+      "link": "https://tvn24.pl/polska/byli-prezesi-trybunalu-konstytucyjnego-spotkali-sie-ze-zbigniewem-boguckim-do-dzis-nie-maja-odpowiedzi-st9141198?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 04:45:44 GMT",
+      "description": "Byli prezesi Trybunału Konstytucyjnego: Marek Safjan, Jerzy Stępień i Andrzej Zoll spotkali się z Zbigniewem Boguckim i - jak poinformowali - pokazali szefowi Kancelarii Prezydenta \"drogi wyjścia z obecnej patowej sytuacji\" w Trybunale. Choć do spotkania doszło niemal miesiąc temu, nie mają odpowiedzi od Karola Nawrockiego.",
+      "originalTitle": "Byli prezesi Trybunału Konstytucyjnego spotkali się ze Zbigniewem Boguckim. \"Żadnej odpowiedzi\"",
+      "originalDescription": "Byli prezesi Trybunału Konstytucyjnego: Marek Safjan, Jerzy Stępień i Andrzej Zoll spotkali się z Zbigniewem Boguckim i - jak poinformowali - pokazali szefowi Kancelarii Prezydenta \"drogi wyjścia z obecnej patowej sytuacji\" w Trybunale. Choć do spotkania doszło niemal miesiąc temu, nie mają odpowiedzi od Karola Nawrockiego."
+    },
+    {
+      "title": "Wołodymyr Zełenski: zimą będziemy potrzebować stu pocisków Patriot miesięcznie",
+      "link": "https://tvn24.pl/swiat/spotkanie-koalicji-chetnych-w-paryzu-wolodymyr-zelenski-apeluje-o-pociski-do-systemow-patriot-st9141204?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 04:24:53 GMT",
+      "description": "Wołodymyr Zełenski ogłosił, że Ukraina musi już zacząć przygotowywać obronę powietrzną na zimę i będzie potrzebować miesięcznie stu pocisków do systemów Patriot.",
+      "originalTitle": "Wołodymyr Zełenski: zimą będziemy potrzebować stu pocisków Patriot miesięcznie",
+      "originalDescription": "Wołodymyr Zełenski ogłosił, że Ukraina musi już zacząć przygotowywać obronę powietrzną na zimę i będzie potrzebować miesięcznie stu pocisków do systemów Patriot."
+    },
+    {
+      "title": "Lech Wałęsa spotkał się w Budapeszcie z premierem Węgier Peterem Magyarem",
+      "link": "https://tvn24.pl/polska/lech-walesa-spotkal-sie-w-budapeszcie-z-premierem-wegier-peterem-magyarem-st9141206?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 04:03:50 GMT",
+      "description": "Węgierski parlament przegłosował poprawkę do konstytucji, która ma usunąć ze stanowiska prezydenta Tamasa Sulyoka. Tego samego dnia były prezydent Polski Lech Wałęsa spotkał się w Budapeszcie z premierem Węgier Peterem Magyarem.",
+      "originalTitle": "Lech Wałęsa spotkał się w Budapeszcie z premierem Węgier Peterem Magyarem",
+      "originalDescription": "Węgierski parlament przegłosował poprawkę do konstytucji, która ma usunąć ze stanowiska prezydenta Tamasa Sulyoka. Tego samego dnia były prezydent Polski Lech Wałęsa spotkał się w Budapeszcie z premierem Węgier Peterem Magyarem."
+    },
+    {
+      "title": "Polak zginął w słowackich Tatrach. Spadł z 200 metrów",
+      "link": "https://tvn24.pl/swiat/polak-zginal-w-slowackich-tatrach-spadl-z-200-metrow-w-rejonie-czarnego-szczytu-st9141212?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 03:48:17 GMT",
+      "description": "Turysta z Polski zginął w słowackich Tatrach po upadku w rejonie Czarnego Szczytu - poinformowali słowaccy ratownicy. Mężczyzna spadł z wysokości 200 metrów. Nie miał przy sobie odpowiednego sprzętu.",
+      "originalTitle": "Polak zginął w słowackich Tatrach. Spadł z 200 metrów",
+      "originalDescription": "Turysta z Polski zginął w słowackich Tatrach po upadku w rejonie Czarnego Szczytu - poinformowali słowaccy ratownicy. Mężczyzna spadł z wysokości 200 metrów. Nie miał przy sobie odpowiednego sprzętu."
+    },
+    {
+      "title": "Kolejny atak USA na Iran. Donald Trump zapowiada \"strzał prosto we frontowe drzwi\"",
+      "link": "https://tvn24.pl/swiat/kolejny-atak-usa-na-iran-tankowce-zea-ostrzelane-w-ciesninie-ormuz-st9141211?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 03:39:11 GMT",
+      "description": "USA przeprowadziły trzeci z rzędu atak na Iran. Wcześniej Donald Trump ogłosił powrót blokady morskiej na ten kraj. Iran z kolei zaatakował dwa tankowce należące do Zjednoczonych Emiratów Arabskich w cieśninie Ormuz.",
+      "originalTitle": "Kolejny atak USA na Iran. Donald Trump zapowiada \"strzał prosto we frontowe drzwi\"",
+      "originalDescription": "USA przeprowadziły trzeci z rzędu atak na Iran. Wcześniej Donald Trump ogłosił powrót blokady morskiej na ten kraj. Iran z kolei zaatakował dwa tankowce należące do Zjednoczonych Emiratów Arabskich w cieśninie Ormuz."
+    },
+    {
+      "title": "Atak na ukraińskie dzieci, odrzucony wniosek o ENA dla Zbigniewa Ziobry, Sam Neill nie żyje",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-we-wtorek-14-lipca-najwazniejsze-informacje-st9141209?source=rss",
+      "pubDate": "Tue, 14 Jul 2026 03:14:17 GMT",
+      "description": "Mężczyzna z Bielska-Białej został zatrzymany przez policję za wulgarny atak na pochodzące z Ukrainy dzieci. Sąd Okręgowy nie uwzględnił wniosku o wydanie europejskiego nakazu aresztowania dla Zbigniewa Ziobry. W Warszawie powstanie Centrum Europejskiej Agencji Kosmicznej (ESA). Oto sześć rzeczy, które warto wiedzieć we wtorek 14 lipca.",
+      "originalTitle": "Atak na ukraińskie dzieci, odrzucony wniosek o ENA dla Zbigniewa Ziobry, Sam Neill nie żyje",
+      "originalDescription": "Mężczyzna z Bielska-Białej został zatrzymany przez policję za wulgarny atak na pochodzące z Ukrainy dzieci. Sąd Okręgowy nie uwzględnił wniosku o wydanie europejskiego nakazu aresztowania dla Zbigniewa Ziobry. W Warszawie powstanie Centrum Europejskiej Agencji Kosmicznej (ESA). Oto sześć rzeczy, które warto wiedzieć we wtorek 14 lipca."
+    },
+    {
+      "title": "Płomienie buchały z wejścia na kilka metrów. Tragedia w barze w Bangkoku",
+      "link": "https://tvn24.pl/swiat/tajlandia-pozar-baru-w-bangkoku-plomienie-buchaly-z-wejscia-na-kilka-metrow-nagranie-st9141176?source=rss",
+      "pubDate": "Mon, 13 Jul 2026 20:51:44 GMT",
+      "description": "W tragicznym pożarze baru w Bangkoku zginęło co najmniej 28 osób. Na nagraniu widać, jak z wejścia buchają kłęby dymu, a zaraz potem ogromne płomienie. - To był wybuch - opisała kobieta, która stała tuż przy wejściu do lokalu.",
+      "originalTitle": "Płomienie buchały z wejścia na kilka metrów. Tragedia w barze w Bangkoku",
+      "originalDescription": "W tragicznym pożarze baru w Bangkoku zginęło co najmniej 28 osób. Na nagraniu widać, jak z wejścia buchają kłęby dymu, a zaraz potem ogromne płomienie. - To był wybuch - opisała kobieta, która stała tuż przy wejściu do lokalu."
+    }
+  ]
 }
