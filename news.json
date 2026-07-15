@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-15T20:32:26.793Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-15T22:00:16.333Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Mateusz Morawiecki o dalszych losach stowarzyszenia. Tusk zareagował",
+      "link": "https://tvn24.pl/polska/mateusz-morawiecki-reaguje-na-uchwale-pis-w-sprawie-stowarzyszen-st9144432?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 17:49:38 GMT",
+      "description": "Mateusz Morawiecki zabrał głos po przyjętej uchwale kierownictwa PiS. \"Mamy unikalną szansę zbudowania Wielkiej Polski, o jakiej marzyły pokolenia\" - napisał. Zapewnił, że \"taki jest i pozostanie\" cel działań Stowarzyszenia Rozwój Plus. Politycy PiS powiązani z organizacją byłego premiera komentują uchwałę w mediach społecznościowych. Na ich wpisy zareagował już rzecznik ugrupowania Rafał Bochenek. Sprawa doczekała się też komentarza premiera Donalda Tuska.",
+      "originalTitle": "Mateusz Morawiecki o dalszych losach stowarzyszenia. Tusk zareagował",
+      "originalDescription": "Mateusz Morawiecki zabrał głos po przyjętej uchwale kierownictwa PiS. \"Mamy unikalną szansę zbudowania Wielkiej Polski, o jakiej marzyły pokolenia\" - napisał. Zapewnił, że \"taki jest i pozostanie\" cel działań Stowarzyszenia Rozwój Plus. Politycy PiS powiązani z organizacją byłego premiera komentują uchwałę w mediach społecznościowych. Na ich wpisy zareagował już rzecznik ugrupowania Rafał Bochenek. Sprawa doczekała się też komentarza premiera Donalda Tuska."
+    },
+    {
+      "title": "Prace ekshumacyjne na Wołyniu. W Ostrówkach odnaleziono szczątki",
+      "link": "https://tvn24.pl/polska/prace-ekshumacyjne-na-wolyniu-ipn-odnaleziono-szczatki-jednej-osoby-w-ostrowkach-st9144510?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 20:30:57 GMT",
+      "description": "Odnaleziono szczątki jednej osoby podczas prac ekshumacyjnych na terenie dawnych wsi Ostrówki i Wola Ostrowiecka na Wołyniu - poinformował Instytut Pamięci Narodowej. Ministra kultury Marta Cienkowska powiedziała w \"Tak jest\" w TVN24, że teren poszukiwań został sprawdzony przez saperów. - To są bardzo niebezpieczne wyjazdy - podkreśliła.",
+      "originalTitle": "Prace ekshumacyjne na Wołyniu. W Ostrówkach odnaleziono szczątki",
+      "originalDescription": "Odnaleziono szczątki jednej osoby podczas prac ekshumacyjnych na terenie dawnych wsi Ostrówki i Wola Ostrowiecka na Wołyniu - poinformował Instytut Pamięci Narodowej. Ministra kultury Marta Cienkowska powiedziała w \"Tak jest\" w TVN24, że teren poszukiwań został sprawdzony przez saperów. - To są bardzo niebezpieczne wyjazdy - podkreśliła."
+    },
+    {
+      "title": "Toronto na szczycie niechlubnego rankingu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kanada-ponad-120-pozarow-w-jeden-dzien-dym-widoczny-z-kosmosu-st9143271?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 09:59:05 GMT",
+      "description": "Pożary szaleją w północno-zachodniej części kanadyjskiej prowincji Ontario. Sprawiły, że Toronto znalazło się na pierwszym miejscu światowego rankingu miast z najbardziej zanieczyszczonym powietrzem.",
+      "originalTitle": "Toronto na szczycie niechlubnego rankingu",
+      "originalDescription": "Pożary szaleją w północno-zachodniej części kanadyjskiej prowincji Ontario. Sprawiły, że Toronto znalazło się na pierwszym miejscu światowego rankingu miast z najbardziej zanieczyszczonym powietrzem."
+    },
+    {
+      "title": "\"Jechaliśmy po śmierć\". Pasażerowie rozbitego autobusu o podróży grozy",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-pasazerowie-rozbitego-autobusu-relacjonuja-podroz-grozy-st9144258?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 19:13:12 GMT",
+      "description": "Wstrząsające relacje pasażerów autobusu linii 186, który uderzył w tramwaj, kilkanaście samochodów i zatrzymał się dopiero w przejściu podziemnym. \"Jechaliśmy po śmierć\" - mówią. Reporterzy \"Uwagi!\" TVN rozmawiali z osobami, które nie mogły wydostać się z pędzącego pojazdu i przeżyły koszmar.",
+      "originalTitle": "\"Jechaliśmy po śmierć\". Pasażerowie rozbitego autobusu o podróży grozy",
+      "originalDescription": "Wstrząsające relacje pasażerów autobusu linii 186, który uderzył w tramwaj, kilkanaście samochodów i zatrzymał się dopiero w przejściu podziemnym. \"Jechaliśmy po śmierć\" - mówią. Reporterzy \"Uwagi!\" TVN rozmawiali z osobami, które nie mogły wydostać się z pędzącego pojazdu i przeżyły koszmar."
+    },
+    {
+      "title": "Donald Tusk spotkał się z parlamentarzystami. \"Mobilizujemy się\"",
+      "link": "https://tvn24.pl/polska/spotkanie-klubu-ko-z-premierem-donaldem-tuskiem-na-miejscu-waldemar-zurek-i-jolanta-sobieranska-grenda-st9144386?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 18:16:29 GMT",
+      "description": "Parlamentarzyści KO spotkali się z premierem Donaldem Tuskiem. Minister sportu i turystyki Jakub Rutnicki mówił po trwającym blisko trzy godziny spotkaniu o mobilizacji przed przyszłorocznymi wyborami parlamentarnymi.",
+      "originalTitle": "Donald Tusk spotkał się z parlamentarzystami. \"Mobilizujemy się\"",
+      "originalDescription": "Parlamentarzyści KO spotkali się z premierem Donaldem Tuskiem. Minister sportu i turystyki Jakub Rutnicki mówił po trwającym blisko trzy godziny spotkaniu o mobilizacji przed przyszłorocznymi wyborami parlamentarnymi."
+    },
+    {
+      "title": "Trzaskowski przyznaje, że w Szpitalu Południowym \"rzeczywiście pojawiały się nieprawidłowości\"",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/rafal-trzaskowski-o-raporcie-nik-w-sprawie-szpitala-poludniowego-st9144443?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 18:54:37 GMT",
+      "description": "Rzeczywiście pojawiały się tam nieprawidłowości, które już są w tej chwili naprawiane przez nowy zarząd - przyznał w \"Faktach po Faktach\" prezydent Warszawy Rafał Trzaskowski, odnosząc się do afery w Szpitalu Południowym. Skomentował też listę nieprawidłowości przedstawioną przez Najwyższą Izbę Kontroli.",
+      "originalTitle": "Trzaskowski przyznaje, że w Szpitalu Południowym \"rzeczywiście pojawiały się nieprawidłowości\"",
+      "originalDescription": "Rzeczywiście pojawiały się tam nieprawidłowości, które już są w tej chwili naprawiane przez nowy zarząd - przyznał w \"Faktach po Faktach\" prezydent Warszawy Rafał Trzaskowski, odnosząc się do afery w Szpitalu Południowym. Skomentował też listę nieprawidłowości przedstawioną przez Najwyższą Izbę Kontroli."
+    },
+    {
+      "title": "Ultimatum w PiS. Rafał Trzaskowski: ta partia się pogubiła",
+      "link": "https://tvn24.pl/polska/ultimatum-dla-czlonkow-stowarzyszen-w-pis-rafal-trzaskowski-ta-partia-kompletnie-sie-pogubila-st9144403?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 18:23:42 GMT",
+      "description": "Niektórzy politycy PiS-u się kompletnie pogubili, ścigając się na radykalizm - powiedział prezydent Warszawy Rafał Trzaskowski w \"Faktach po Faktach\" w TVN24, odnosząc się do uchwały zakazującej działalności stowarzyszeń w partii Jarosława Kaczyńskiego. Zdaniem Trzaskowskiego, Mateusz Morawiecki i Przemysław Czarnek mówią \"zupełnie innymi głosami\".",
+      "originalTitle": "Ultimatum w PiS. Rafał Trzaskowski: ta partia się pogubiła",
+      "originalDescription": "Niektórzy politycy PiS-u się kompletnie pogubili, ścigając się na radykalizm - powiedział prezydent Warszawy Rafał Trzaskowski w \"Faktach po Faktach\" w TVN24, odnosząc się do uchwały zakazującej działalności stowarzyszeń w partii Jarosława Kaczyńskiego. Zdaniem Trzaskowskiego, Mateusz Morawiecki i Przemysław Czarnek mówią \"zupełnie innymi głosami\"."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Burze i nieznośny skwar",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-upal-i-burze-ostrzezenia-nawet-drugiego-stopnia-st9142923?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 04:35:37 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami, podczas których wiatr może rozpędzać się do 75 kilometrów na godzinę. Obowiązują też alarmy przed upałem.",
+      "originalTitle": "Ostrzeżenia IMGW. Burze i nieznośny skwar",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami, podczas których wiatr może rozpędzać się do 75 kilometrów na godzinę. Obowiązują też alarmy przed upałem."
+    },
+    {
+      "title": "Sytuacja na stacji paliw \"opanowana\". Policja o tym, co było w aucie",
+      "link": "https://tvn24.pl/poznan/swarzedz-koniec-akcji-na-stacji-paliw-policja-otwiera-droge-ruszyly-pociagi-st9144289?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 16:20:44 GMT",
+      "description": "Jeden z kierowców na stacji paliw w Swarzędzu zauważył pod swoim samochodem \"dziwnie wyglądające kable\". Na miejsce wezwano policję. Ta zdecydowała o ewakuacji mieszkańców okolicznych budynków i zamknięciu drogi krajowej numer 92. Akcja trwała do godziny 19.",
+      "originalTitle": "Sytuacja na stacji paliw \"opanowana\". Policja o tym, co było w aucie",
+      "originalDescription": "Jeden z kierowców na stacji paliw w Swarzędzu zauważył pod swoim samochodem \"dziwnie wyglądające kable\". Na miejsce wezwano policję. Ta zdecydowała o ewakuacji mieszkańców okolicznych budynków i zamknięciu drogi krajowej numer 92. Akcja trwała do godziny 19."
+    },
+    {
+      "title": "Wołodymyr Zełenski o kandydacie na premiera. \"Jest najlepiej przygotowaną osobą\"",
+      "link": "https://tvn24.pl/swiat/kto-bedzie-nowym-premierem-ukrainy-wolodymyr-zelenski-serhij-korecki-jest-najlepiej-przygotowana-osoba-st9144282?source=rss",
+      "pubDate": "Wed, 15 Jul 2026 17:39:47 GMT",
+      "description": "Serhij Korecki jest prawdopodobnie najlepiej przygotowaną osobą do objęcia stanowiska premiera Ukrainy - oświadczył prezydent Ukrainy Wołodymyr Zełenski. Mówił też, co będzie priorytetem nowego szefa rządu. Korecki jest obecnie prezesem koncernu Naftohaz.",
+      "originalTitle": "Wołodymyr Zełenski o kandydacie na premiera. \"Jest najlepiej przygotowaną osobą\"",
+      "originalDescription": "Serhij Korecki jest prawdopodobnie najlepiej przygotowaną osobą do objęcia stanowiska premiera Ukrainy - oświadczył prezydent Ukrainy Wołodymyr Zełenski. Mówił też, co będzie priorytetem nowego szefa rządu. Korecki jest obecnie prezesem koncernu Naftohaz."
+    }
+  ]
 }
