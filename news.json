@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-17T21:22:09.493Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-17T22:21:44.263Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "USA rozpoczęły kolejną serię ataków na Iran",
+      "link": "https://tvn24.pl/swiat/wojna-na-bliskim-wschodzie-usa-rozpoczely-kolejna-serie-atakow-na-iran-st9147714?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 20:53:57 GMT",
+      "description": "Dowództwo Centralne USA (CENTCOM) poinformowało, że rozpoczęły się kolejne ataki na cele w Iranie. To siódma noc z rzędu takich uderzeń, odkąd prezydent USA Donald Trump zapowiedział wznowienie działań zbrojnych.",
+      "originalTitle": "USA rozpoczęły kolejną serię ataków na Iran",
+      "originalDescription": "Dowództwo Centralne USA (CENTCOM) poinformowało, że rozpoczęły się kolejne ataki na cele w Iranie. To siódma noc z rzędu takich uderzeń, odkąd prezydent USA Donald Trump zapowiedział wznowienie działań zbrojnych."
+    },
+    {
+      "title": "Uciekał przed policją, uderzył w latarnię. Funkcjonariusz ranny",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-policyjny-poscig-kierowca-uderzyl-w-latarnie-policjant-ranny-st9147709?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 20:45:45 GMT",
+      "description": "W piątek wieczorem na warszawskiej Ochocie policjanci w nieoznakowanym radiowozie prowadzili pościg za kierowcą auta osobowego. Doszło do zderzenia. Ranny policjant trafił do szpitala.",
+      "originalTitle": "Uciekał przed policją, uderzył w latarnię. Funkcjonariusz ranny",
+      "originalDescription": "W piątek wieczorem na warszawskiej Ochocie policjanci w nieoznakowanym radiowozie prowadzili pościg za kierowcą auta osobowego. Doszło do zderzenia. Ranny policjant trafił do szpitala."
+    },
+    {
+      "title": "\"Działanie socjotechniczne\". Włamano się na skrzynkę służbową żołnierza",
+      "link": "https://tvn24.pl/polska/wojska-obrony-cyberprzestrzeni-sluzbowa-skrzynka-jednego-z-zolnierzy-zostala-zaatakowana-st9147710?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 20:41:34 GMT",
+      "description": "Wykryto incydent - poinformowały w piątek Wojska Obrony Cyberprzestrzeni. Chodzi o nieuprawnione uzyskanie dostępu do służbowej skrzynki pocztowej jednego z żołnierzy. \"Do zdarzenia doszło w wyniku ukierunkowanego działania socjotechnicznego wobec pojedynczego użytkownika\" - czytamy. Wojsko uspokaja, że na zaatakowanej skrzynce pocztowej nie były przetwarzane informacje niejawne.",
+      "originalTitle": "\"Działanie socjotechniczne\". Włamano się na skrzynkę służbową żołnierza",
+      "originalDescription": "Wykryto incydent - poinformowały w piątek Wojska Obrony Cyberprzestrzeni. Chodzi o nieuprawnione uzyskanie dostępu do służbowej skrzynki pocztowej jednego z żołnierzy. \"Do zdarzenia doszło w wyniku ukierunkowanego działania socjotechnicznego wobec pojedynczego użytkownika\" - czytamy. Wojsko uspokaja, że na zaatakowanej skrzynce pocztowej nie były przetwarzane informacje niejawne."
+    },
+    {
+      "title": "Gdzie jest burza? Mocno pada i wieje w tych miejscach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-piatek-17-07-mapa-i-radar-burz-na-zywo-st9146880?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 11:37:33 GMT",
+      "description": "Gdzie jest burza? W piątek 17.07 w części kraju grzmi. Wyładowaniom towarzyszą silne opady deszczu i porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Mocno pada i wieje w tych miejscach",
+      "originalDescription": "Gdzie jest burza? W piątek 17.07 w części kraju grzmi. Wyładowaniom towarzyszą silne opady deszczu i porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Nie żyje aktorka Brenda Fricker. Była znana między innymi z roli w filmie \"Kevin sam w Nowym Jorku\"",
+      "link": "https://tvn24.pl/kultura-i-styl/brenda-fricker-nie-zyje-irlandzka-aktorka-byla-znana-miedzy-innymi-z-roli-w-filmie-kevin-sam-w-nowym-jorku-st9147675?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 20:15:04 GMT",
+      "description": "Brenda Fricker, laureatka Oscara za najlepszą rolę drugoplanową w filmie \"Moja lewa stopa\", zmarła w wieku 81 lat po długiej chorobie. Wśród polskiej publiczności rozpoznawalność przyniosła jej rola kobiety z gołębiami w filmie \"Kevin sam w Nowym Jorku\".",
+      "originalTitle": "Nie żyje aktorka Brenda Fricker. Była znana między innymi z roli w filmie \"Kevin sam w Nowym Jorku\"",
+      "originalDescription": "Brenda Fricker, laureatka Oscara za najlepszą rolę drugoplanową w filmie \"Moja lewa stopa\", zmarła w wieku 81 lat po długiej chorobie. Wśród polskiej publiczności rozpoznawalność przyniosła jej rola kobiety z gołębiami w filmie \"Kevin sam w Nowym Jorku\"."
+    },
+    {
+      "title": "Pożar budynku na Siekierkach. Jedna osoba zabrana do szpitala",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-pozar-na-siekierkach-jedna-osoba-w-szpitalu-st9147681?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 20:12:38 GMT",
+      "description": "W piątek wieczorem doszło do pożaru pustostanu na warszawskich Siekierkach. Ogień pojawił się na parterze poprzemysłowego budynku. Trzy osoby potrzebowały pomocy medycznej, jedna z nich trafiła do szpitala.",
+      "originalTitle": "Pożar budynku na Siekierkach. Jedna osoba zabrana do szpitala",
+      "originalDescription": "W piątek wieczorem doszło do pożaru pustostanu na warszawskich Siekierkach. Ogień pojawił się na parterze poprzemysłowego budynku. Trzy osoby potrzebowały pomocy medycznej, jedna z nich trafiła do szpitala."
+    },
+    {
+      "title": "Burze. Ostrzeżenia IMGW będą obowiązywać do rana",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-gdzie-pojawia-sie-dzis-ostrzezenia-imgw-przed-burzami-na-piatek-17-07-st9142923?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 05:40:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy przed pogodą, która będzie groźna w nocy i w sobotę rano. Synoptycy ostrzegają przed burzami z silnymi opadami i porywami wiatru. Sprawdź, gdzie aura będzie niebezpieczna.",
+      "originalTitle": "Burze. Ostrzeżenia IMGW będą obowiązywać do rana",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy przed pogodą, która będzie groźna w nocy i w sobotę rano. Synoptycy ostrzegają przed burzami z silnymi opadami i porywami wiatru. Sprawdź, gdzie aura będzie niebezpieczna."
+    },
+    {
+      "title": "Staranował radiowozy, przewoził żrące substancje. 24-latek zatrzymany",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/torun-kujawsko-pomorskie-poscig-za-ciezarowka-z-toksynami-kierowca-uciekl-do-lasu-zostal-zatrzymany-st9147321?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 14:34:04 GMT",
+      "description": "Policja zatrzymała 24-letniego kierowcę samochodu ciężarowego, który uciekł do lasu po pościgu niedaleko Torunia. Wcześniej uszkodził radiowozy. W kabinie ciężarówki, którą prowadził, były dokumenty na różne nazwiska i spora kwota gotówki, a na naczepie pojemniki ze żrącą substancją.",
+      "originalTitle": "Staranował radiowozy, przewoził żrące substancje. 24-latek zatrzymany",
+      "originalDescription": "Policja zatrzymała 24-letniego kierowcę samochodu ciężarowego, który uciekł do lasu po pościgu niedaleko Torunia. Wcześniej uszkodził radiowozy. W kabinie ciężarówki, którą prowadził, były dokumenty na różne nazwiska i spora kwota gotówki, a na naczepie pojemniki ze żrącą substancją."
+    },
+    {
+      "title": "Autem dostawczym wbił się w bariery. Nagranie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/dreglin-wypadek-na-trasie-s7-dostawczak-przewrocil-sie-na-bok-st9147627?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 19:53:14 GMT",
+      "description": "Na trasie S7 w miejscowości Dreglin (Mazowieckie) kierowca samochodu dostawczego wjechał w bariery ochronne. Pojazd przewrócił się na bok. Nagranie pokazujące moment groźnego zdarzenia otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Autem dostawczym wbił się w bariery. Nagranie",
+      "originalDescription": "Na trasie S7 w miejscowości Dreglin (Mazowieckie) kierowca samochodu dostawczego wjechał w bariery ochronne. Pojazd przewrócił się na bok. Nagranie pokazujące moment groźnego zdarzenia otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Żona ofiary Łukasza Żaka: niszczono grób mojego męża",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-wypadek-na-trasie-lazienkowskiej-uwaga-rozmawia-z-zona-ofiary-st9147589?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 19:18:18 GMT",
+      "description": "Łukasz Żak, pędząc ponad 200 kilometrów na godzinę na Trasie Łazienkowskiej, zabił jej męża, okaleczył ją i dwójkę jej dzieci. Dziś pani Ewelina mówi o zastraszaniu, niszczeniu grobu, bucie, arogancji i żartach skazanego sprawcy. Materiał programu \"Uwaga!\" TVN.",
+      "originalTitle": "Żona ofiary Łukasza Żaka: niszczono grób mojego męża",
+      "originalDescription": "Łukasz Żak, pędząc ponad 200 kilometrów na godzinę na Trasie Łazienkowskiej, zabił jej męża, okaleczył ją i dwójkę jej dzieci. Dziś pani Ewelina mówi o zastraszaniu, niszczeniu grobu, bucie, arogancji i żartach skazanego sprawcy. Materiał programu \"Uwaga!\" TVN."
+    }
+  ]
 }
