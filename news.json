@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-17T07:15:42.292Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-17T09:26:55.902Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "W katastrofie śmigłowca zginęło sześć osób. Śledczy o możliwych przyczynach",
+      "link": "https://tvn24.pl/swiat/nowy-jork-w-katastrofie-smiglowca-zginelo-szesc-osob-zderzenie-z-ptakami-mozliwa-przyczyna-st9146435?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 09:18:07 GMT",
+      "description": "Zderzenie z ptakami było prawdopodobną przyczyną katastrofy śmigłowca w Nowym Jorku w zeszłym roku - przekazali amerykańscy śledczy. Maszyna spadła do rzeki Hudson, zginęło sześć osób.",
+      "originalTitle": "W katastrofie śmigłowca zginęło sześć osób. Śledczy o możliwych przyczynach",
+      "originalDescription": "Zderzenie z ptakami było prawdopodobną przyczyną katastrofy śmigłowca w Nowym Jorku w zeszłym roku - przekazali amerykańscy śledczy. Maszyna spadła do rzeki Hudson, zginęło sześć osób."
+    },
+    {
+      "title": "Żabka zyska dużego udziałowca? \"Prowadzimy rozmowy\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/wlasciciel-7-eleven-rozwaza-zakup-akcji-zabki-prowadzimy-rozmowy-dotyczace-inwestycji-st9146445?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 09:13:38 GMT",
+      "description": "Japoński koncern detaliczny Seven & i Holdings - zarządca sieci 7-Eleven - potwierdził, że prowadzi rozmowy w sprawie inwestycji w Grupę Żabka. Zaznaczył jednak, że nie podjął jeszcze żadnej decyzji.",
+      "originalTitle": "Żabka zyska dużego udziałowca? \"Prowadzimy rozmowy\"",
+      "originalDescription": "Japoński koncern detaliczny Seven & i Holdings - zarządca sieci 7-Eleven - potwierdził, że prowadzi rozmowy w sprawie inwestycji w Grupę Żabka. Zaznaczył jednak, że nie podjął jeszcze żadnej decyzji."
+    },
+    {
+      "title": "Poseł miał wypadek. W Sejmie pojawił się z ręką na temblaku",
+      "link": "https://tvn24.pl/polska/posel-pawel-sliz-mial-wypadek-w-sejmie-pojawil-sie-z-reka-na-temblaku-st9146363?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:51:30 GMT",
+      "description": "Poseł Polski 2050 Paweł Śliz uległ wypadkowi - poinformował marszałek Sejmu Włodzimierz Czarzasty. Jedno z sejmowych głosowań zostało w związku z tym przesunięte. Śliz pojawił się w sali sejmowej z ręką na temblaku.",
+      "originalTitle": "Poseł miał wypadek. W Sejmie pojawił się z ręką na temblaku",
+      "originalDescription": "Poseł Polski 2050 Paweł Śliz uległ wypadkowi - poinformował marszałek Sejmu Włodzimierz Czarzasty. Jedno z sejmowych głosowań zostało w związku z tym przesunięte. Śliz pojawił się w sali sejmowej z ręką na temblaku."
+    },
+    {
+      "title": "Jest akt oskarżenia wobec Ukraińca Illii K. Pracował na zlecenie Rosji",
+      "link": "https://tvn24.pl/polska/jest-akt-oskarzenia-wobec-ukrainca-illii-k-pracowal-na-zlecenie-rosji-st9144832?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:39:00 GMT",
+      "description": "Do sądu trafił akt oskarżenia wobec 18-letniego obywatela Ukrainy Illii K. - poinformowała ABW. Miał realizować zadania na zlecenie Rosji. Jak przekazała prokuratura, planował też przelecieć dronem nad samochodem, w którym miał znajdować się prezydent.",
+      "originalTitle": "Jest akt oskarżenia wobec Ukraińca Illii K. Pracował na zlecenie Rosji",
+      "originalDescription": "Do sądu trafił akt oskarżenia wobec 18-letniego obywatela Ukrainy Illii K. - poinformowała ABW. Miał realizować zadania na zlecenie Rosji. Jak przekazała prokuratura, planował też przelecieć dronem nad samochodem, w którym miał znajdować się prezydent."
+    },
+    {
+      "title": "Ropa dalej drożeje. Niepokój o dostawy przybiera na sile",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-ropy-w-gore-w-piatek-17-lipca-rosna-obawy-o-zaklocenia-dostaw-st9146395?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:34:47 GMT",
+      "description": "Ceny ropy w Stanach Zjednoczonych w piątek podniosły się po raz kolejny. Na rynkach rosną obawy o ponowne zakłócenia dostaw po wzajemnych atakach sił amerykańskich i irańskich, które ograniczyły żeglugę w cieśninie Ormuz - donosi Bloomberg.",
+      "originalTitle": "Ropa dalej drożeje. Niepokój o dostawy przybiera na sile",
+      "originalDescription": "Ceny ropy w Stanach Zjednoczonych w piątek podniosły się po raz kolejny. Na rynkach rosną obawy o ponowne zakłócenia dostaw po wzajemnych atakach sił amerykańskich i irańskich, które ograniczyły żeglugę w cieśninie Ormuz - donosi Bloomberg."
+    },
+    {
+      "title": "Zatrzymali podejrzanego o atak na białoruską pływaczkę. Zarzuty i areszt",
+      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-zarzuty-i-areszt-za-atak-na-bialoruska-plywaczke-st9146323?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:33:32 GMT",
+      "description": "Policjanci zatrzymali podejrzanego o ataki na Dworcu Zachodnim w Warszawie. Wśród poszkodowanych była białoruska pływaczka i medalistka olimpijska Alaksandra Hierasimienia, która została uderzona pięścią w głowę. 27-latek przyznał się do winy. Został tymczasowo aresztowany na trzy miesiące.",
+      "originalTitle": "Zatrzymali podejrzanego o atak na białoruską pływaczkę. Zarzuty i areszt",
+      "originalDescription": "Policjanci zatrzymali podejrzanego o ataki na Dworcu Zachodnim w Warszawie. Wśród poszkodowanych była białoruska pływaczka i medalistka olimpijska Alaksandra Hierasimienia, która została uderzona pięścią w głowę. 27-latek przyznał się do winy. Został tymczasowo aresztowany na trzy miesiące."
+    },
+    {
+      "title": "\"Nawet to absolutne minimum praw to dla prezydenta zbyt wiele\"",
+      "link": "https://tvn24.pl/polska/weto-prezydenta-do-ustawy-o-statusie-osoby-najblizszej-komentarz-kph-st9146414?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:23:54 GMT",
+      "description": "\"Po raz kolejny głos strony społecznej okazał się dla rządzących nieistotny. Nie zamierzamy się z tym pogodzić\" - zapowiada Kampania Przeciw Homofobii w odpowiedzi na ostatnią decyzję prezydenta. Karol Nawrocki zawetował w piątek ustawę o statusie osoby najbliższej.",
+      "originalTitle": "\"Nawet to absolutne minimum praw to dla prezydenta zbyt wiele\"",
+      "originalDescription": "\"Po raz kolejny głos strony społecznej okazał się dla rządzących nieistotny. Nie zamierzamy się z tym pogodzić\" - zapowiada Kampania Przeciw Homofobii w odpowiedzi na ostatnią decyzję prezydenta. Karol Nawrocki zawetował w piątek ustawę o statusie osoby najbliższej."
+    },
+    {
+      "title": "Elon Musk poparł Marine Le Pen. Politycy jej partii nie są zadowoleni",
+      "link": "https://tvn24.pl/swiat/politycy-zjednoczenia-narodowego-niezadowoleni-z-wyrazenia-poparcia-marine-le-pen-przez-elona-muska-st9146149?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:23:09 GMT",
+      "description": "Największa francuska partia skrajnej prawicy nie jest zadowolona z poparcia ze strony Elona Muska. Gdy w środę miliarder nazwał kandydatkę na prezydenta Marine Le Pen \"ostatnią nadzieją Francji\", jej sojusznicy ze Zjednoczenia Narodowego szybko zbagatelizowali to poparcie, wyrażając obawy o oskarżenia wpływania w proces wyborczy.",
+      "originalTitle": "Elon Musk poparł Marine Le Pen. Politycy jej partii nie są zadowoleni",
+      "originalDescription": "Największa francuska partia skrajnej prawicy nie jest zadowolona z poparcia ze strony Elona Muska. Gdy w środę miliarder nazwał kandydatkę na prezydenta Marine Le Pen \"ostatnią nadzieją Francji\", jej sojusznicy ze Zjednoczenia Narodowego szybko zbagatelizowali to poparcie, wyrażając obawy o oskarżenia wpływania w proces wyborczy."
+    },
+    {
+      "title": "Ministra komentuje weto ustawy o statusie osoby najbliższej. \"Jak nie drzwiami, to oknem\"",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-zawetowal-ustawe-o-osobie-najblizszej-katarzyna-kotula-nie-zatrzyma-zmiany-spolecznej-st9146321?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:21:10 GMT",
+      "description": "Prezydent nie zatrzyma zmiany społecznej. Dzisiejsze weto nie jest blokadą, a opóźnieniem - powiedziała Katarzyna Kotula, reagując na weto prezydenta do ustawy o statusie osoby najbliższej. Decyzję Karola Nawrockiego skrytykował również szef MON i lider ludowców. \"Zamiast ułatwiać ludziom życie, wybrał politykę\" - ocenił Władysław Kosiniak-Kamysz.",
+      "originalTitle": "Ministra komentuje weto ustawy o statusie osoby najbliższej. \"Jak nie drzwiami, to oknem\"",
+      "originalDescription": "Prezydent nie zatrzyma zmiany społecznej. Dzisiejsze weto nie jest blokadą, a opóźnieniem - powiedziała Katarzyna Kotula, reagując na weto prezydenta do ustawy o statusie osoby najbliższej. Decyzję Karola Nawrockiego skrytykował również szef MON i lider ludowców. \"Zamiast ułatwiać ludziom życie, wybrał politykę\" - ocenił Władysław Kosiniak-Kamysz."
+    },
+    {
+      "title": "WHO alarmuje: to trzecia największa epidemia eboli w historii. Rozprzestrzenia się najszybciej od lat",
+      "link": "https://tvn24.pl/zdrowie/who-alarmuje-trzecia-najwieksza-epidemia-eboli-w-historii-wirus-rozprzestrzenia-sie-najszybciej-od-lat-st9146380?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 08:12:51 GMT",
+      "description": "Obecna epidemia eboli w Demokratycznej Republice Konga (DRK) rozwija się szybciej niż jakakolwiek wcześniejsza - alarmuje Światowa Organizacja Zdrowia. Ognisko wywołane przez szczep bundibugyo, na który nie ma jeszcze szczepionki ani skutecznej terapii, objęło kolejne prowincje kraju, a większość zgonów odnotowywana jest poza systemem opieki zdrowotnej.",
+      "originalTitle": "WHO alarmuje: to trzecia największa epidemia eboli w historii. Rozprzestrzenia się najszybciej od lat",
+      "originalDescription": "Obecna epidemia eboli w Demokratycznej Republice Konga (DRK) rozwija się szybciej niż jakakolwiek wcześniejsza - alarmuje Światowa Organizacja Zdrowia. Ognisko wywołane przez szczep bundibugyo, na który nie ma jeszcze szczepionki ani skutecznej terapii, objęło kolejne prowincje kraju, a większość zgonów odnotowywana jest poza systemem opieki zdrowotnej."
+    }
+  ]
 }
