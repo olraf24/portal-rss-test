@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-17T01:00:17.692Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-17T04:40:43.736Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ustawa o statusie osoby najbliższej. Mija termin dla prezydenta",
+      "link": "https://tvn24.pl/polska/ustawa-o-statusie-osoby-najblizszej-w-zwiazku-czeka-na-decyzje-prezydenta-karola-nawrockiego-st9146145?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 04:36:34 GMT",
+      "description": "Kilka milionów Polaków czeka na decyzję Karola Nawrockiego w sprawie ustawy o statusie osoby najbliższej w związku. Były rozmowy ostatniej szansy i kompromisowe wersje ustawy. Dezaprobatę dla tych przepisów prezydent wyrażał już wcześniej, czy zanosi się zatem na weto? Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Ustawa o statusie osoby najbliższej. Mija termin dla prezydenta",
+      "originalDescription": "Kilka milionów Polaków czeka na decyzję Karola Nawrockiego w sprawie ustawy o statusie osoby najbliższej w związku. Były rozmowy ostatniej szansy i kompromisowe wersje ustawy. Dezaprobatę dla tych przepisów prezydent wyrażał już wcześniej, czy zanosi się zatem na weto? Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Donald Trump wygłosił orędzie. Odtajnia dokumenty, oskarża Chiny i krytykuje media",
+      "link": "https://tvn24.pl/swiat/usa-donald-trump-oglosil-ujawnienie-materialow-na-temat-slabosci-infrastruktury-wyborczej-st9146160?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 03:36:00 GMT",
+      "description": "Donald Trump ogłosił w orędziu do narodu odtajnienie \"kluczowych materiałów wywiadowczych, które ujawniają szokujące słabości amerykańskiej infrastruktury wyborczej\". Prezydent USA oskarżył Chiny o ingerowanie w proces wyborczy w 2020 roku i ponownie zaapelował o przyjęcie ustawy \"Save America Act\".",
+      "originalTitle": "Donald Trump wygłosił orędzie. Odtajnia dokumenty, oskarża Chiny i krytykuje media",
+      "originalDescription": "Donald Trump ogłosił w orędziu do narodu odtajnienie \"kluczowych materiałów wywiadowczych, które ujawniają szokujące słabości amerykańskiej infrastruktury wyborczej\". Prezydent USA oskarżył Chiny o ingerowanie w proces wyborczy w 2020 roku i ponownie zaapelował o przyjęcie ustawy \"Save America Act\"."
+    },
+    {
+      "title": "Łukasz Żak skazany, ciąg dalszy sporu w PiS, mecz Lewandowskiego przełożony",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-piatek-17-lipca-najwazniejsze-informacje-st9146157?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 03:18:39 GMT",
+      "description": "Sprawca śmiertelnego wypadku na Trasie Łazienkowskiej Łukasz Żak został skazany na 20 lat więzienia. W PiS utrzymuje się spór wokół stowarzyszenia Mateusza Morawieckiego. Mecz Chicago Fire, w którym miał zadebiutować Robert Lewandowski, został przełożony. Oto pięć rzeczy, które warto wiedzieć w piątek 17 lipca.",
+      "originalTitle": "Łukasz Żak skazany, ciąg dalszy sporu w PiS, mecz Lewandowskiego przełożony",
+      "originalDescription": "Sprawca śmiertelnego wypadku na Trasie Łazienkowskiej Łukasz Żak został skazany na 20 lat więzienia. W PiS utrzymuje się spór wokół stowarzyszenia Mateusza Morawieckiego. Mecz Chicago Fire, w którym miał zadebiutować Robert Lewandowski, został przełożony. Oto pięć rzeczy, które warto wiedzieć w piątek 17 lipca."
+    },
+    {
+      "title": "Szósta noc ataków USA na Iran. Rzeczniczka Białego Domu: rozmowy wciąż trwają",
+      "link": "https://tvn24.pl/swiat/szosta-noc-atakow-usa-na-iran-rzeczniczka-bialego-domu-karoline-leavitt-rozmowy-wciaz-trwaja-st9146080?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 20:18:41 GMT",
+      "description": "Siły zbrojne USA poinformowały w czwartek o kolejnych uderzeniach na cele w Iranie. To już szósta noc ataków z rzędu. Rzeczniczka Białego Domu przekazała, że Iran wciąż prowadzi negocjacje z Amerykanami.",
+      "originalTitle": "Szósta noc ataków USA na Iran. Rzeczniczka Białego Domu: rozmowy wciąż trwają",
+      "originalDescription": "Siły zbrojne USA poinformowały w czwartek o kolejnych uderzeniach na cele w Iranie. To już szósta noc ataków z rzędu. Rzeczniczka Białego Domu przekazała, że Iran wciąż prowadzi negocjacje z Amerykanami."
+    },
+    {
+      "title": "\"Kara adekwatna do czynów\". Biegły o wyroku w procesie Łukasza Żaka",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/kara-adekwatna-do-czynow-biegly-o-wyroku-w-procesie-lukasza-zaka-st9146077?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 20:10:42 GMT",
+      "description": "Wielokrotnie było już mówione, że te wyroki i zakazy sądowe są nieskuteczne, bo kierowcy dalej jeżdżą, kolejne otrzymują - powiedział w \"Faktach po Faktach\" Wojciech Pasieczny, biegły sądowy do spraw rekonstrukcji wypadków drogowych, odnosząc się do wcześniejszych wyroków Łukasza Żaka, które były przez skazanego lekceważone. W czwartek Żak został skazany na 20 lat więzienia za spowodowanie wypadku na Trasie Łazienkowskiej.",
+      "originalTitle": "\"Kara adekwatna do czynów\". Biegły o wyroku w procesie Łukasza Żaka",
+      "originalDescription": "Wielokrotnie było już mówione, że te wyroki i zakazy sądowe są nieskuteczne, bo kierowcy dalej jeżdżą, kolejne otrzymują - powiedział w \"Faktach po Faktach\" Wojciech Pasieczny, biegły sądowy do spraw rekonstrukcji wypadków drogowych, odnosząc się do wcześniejszych wyroków Łukasza Żaka, które były przez skazanego lekceważone. W czwartek Żak został skazany na 20 lat więzienia za spowodowanie wypadku na Trasie Łazienkowskiej."
+    },
+    {
+      "title": "Ponad 800 pożarów. Trwa walka z ogniem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-w-kanadzie-ponad-800-pozarow-trwa-walka-z-ogniem-st9146071?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 19:55:22 GMT",
+      "description": "W Kanadzie szaleje ponad 800 pożarów, z którymi walczy tysiące strażaków. W czwartek jakość powietrza w Toronto była fatalna.",
+      "originalTitle": "Ponad 800 pożarów. Trwa walka z ogniem",
+      "originalDescription": "W Kanadzie szaleje ponad 800 pożarów, z którymi walczy tysiące strażaków. W czwartek jakość powietrza w Toronto była fatalna."
+    },
+    {
+      "title": "Wyroki TSUE w sprawie Polski. \"Przybliżają nas do przywracania praworządności\"",
+      "link": "https://tvn24.pl/polska/tsue-wydal-dwa-wyroki-i-opinie-minister-waldemar-zurek-przyblizaja-nas-do-przywracania-praworzadnosci-st9146123?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 19:40:00 GMT",
+      "description": "Kolejne decyzje Trybunału Sprawiedliwości Unii Europejskiej przybliżają nas do przywracania praworządności - ocenił minister sprawiedliwości Waldemar Żurek. Według niego \"już niedługo\" Sąd Najwyższy \"w końcu będzie Sądem Najwyższym\". Komentował dwa wyroki oraz opinię rzeczniczki generalnej TSUE.",
+      "originalTitle": "Wyroki TSUE w sprawie Polski. \"Przybliżają nas do przywracania praworządności\"",
+      "originalDescription": "Kolejne decyzje Trybunału Sprawiedliwości Unii Europejskiej przybliżają nas do przywracania praworządności - ocenił minister sprawiedliwości Waldemar Żurek. Według niego \"już niedługo\" Sąd Najwyższy \"w końcu będzie Sądem Najwyższym\". Komentował dwa wyroki oraz opinię rzeczniczki generalnej TSUE."
+    },
+    {
+      "title": "Argentyna oskarżyła Wielką Brytanię o \"wojskowe wtargnięcie\". Tuż po meczu na mundialu",
+      "link": "https://tvn24.pl/swiat/argentyna-oskarzyla-anglie-o-wojskowe-wtargniecie-chwile-po-wygranym-meczu-na-mundialu-st9146052?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 19:05:48 GMT",
+      "description": "Argentyna oskarżyła Wielką Brytanię o \"wojskowe wtargnięcie\" brytyjskiego okrętu na jej wody - wynika z komunikatu argentyńskiego resortu dyplomacji. Informację opublikowano tuż po wygranym meczu z Anglią w półfinale mundialu. Po zakończonej rozgrywce doszło też do incydentu na murawie. W tle jest trwający od lat spór o Falklandy.",
+      "originalTitle": "Argentyna oskarżyła Wielką Brytanię o \"wojskowe wtargnięcie\". Tuż po meczu na mundialu",
+      "originalDescription": "Argentyna oskarżyła Wielką Brytanię o \"wojskowe wtargnięcie\" brytyjskiego okrętu na jej wody - wynika z komunikatu argentyńskiego resortu dyplomacji. Informację opublikowano tuż po wygranym meczu z Anglią w półfinale mundialu. Po zakończonej rozgrywce doszło też do incydentu na murawie. W tle jest trwający od lat spór o Falklandy."
+    },
+    {
+      "title": "Zmiana przepisów wizowych. Obowiązywały od dekad",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-zmieniaja-przepisy-wizowe-obowiazywaly-od-dekad-st9146068?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 18:57:29 GMT",
+      "description": "Od września studenci będą mogli przebywać w Stanach Zjednoczonych maksymalnie cztery lata, natomiast korespondenci do 240 dni - wynika z rozporządzenia opublikowanego w dzienniku urzędowym. Władze USA uzasadniają zmianę zasad, które obowiązywały od dekad, koniecznością wzmocnienia kontroli i bezpieczeństwa narodowego.",
+      "originalTitle": "Zmiana przepisów wizowych. Obowiązywały od dekad",
+      "originalDescription": "Od września studenci będą mogli przebywać w Stanach Zjednoczonych maksymalnie cztery lata, natomiast korespondenci do 240 dni - wynika z rozporządzenia opublikowanego w dzienniku urzędowym. Władze USA uzasadniają zmianę zasad, które obowiązywały od dekad, koniecznością wzmocnienia kontroli i bezpieczeństwa narodowego."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Niebezpieczny skwar",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-niebezpieczny-skwar-st9142923?source=rss",
+      "pubDate": "Thu, 16 Jul 2026 04:42:30 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy pierwszego i drugiego stopnia. Synoptycy ostrzegają przed upałem, który może stanowić zagrożenie dla naszego zdrowia, a nawet życia.",
+      "originalTitle": "Ostrzeżenia IMGW. Niebezpieczny skwar",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał alarmy pierwszego i drugiego stopnia. Synoptycy ostrzegają przed upałem, który może stanowić zagrożenie dla naszego zdrowia, a nawet życia."
+    }
+  ]
 }
