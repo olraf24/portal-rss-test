@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-18T08:19:20.087Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-18T09:56:24.209Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Załamanie pogody. Wichura przeszła przez obóz harcerski",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-zalamanie-pogody-zerwana-czesc-dachu-polamane-drzewa-zalane-piwnice-ewakuacja-harcerzy-st9147394?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 14:49:35 GMT",
+      "description": "Burze, którym towarzyszyły przede wszystkim porywiste podmuchy wiatru, przechodziły w piątek przez Polskę. Informacje o szkodach napłynęły z województw lubuskiego, wielkopolskiego, dolnośląskiego i opolskiego. W Grójcu Wielkim prewencyjnie ewakuowano harcerzy.",
+      "originalTitle": "Załamanie pogody. Wichura przeszła przez obóz harcerski",
+      "originalDescription": "Burze, którym towarzyszyły przede wszystkim porywiste podmuchy wiatru, przechodziły w piątek przez Polskę. Informacje o szkodach napłynęły z województw lubuskiego, wielkopolskiego, dolnośląskiego i opolskiego. W Grójcu Wielkim prewencyjnie ewakuowano harcerzy."
+    },
+    {
+      "title": "Seria uderzeń. Ukraina zaatakowała obiekty w Rosji",
+      "link": "https://tvn24.pl/swiat/ukraina-zaatakowala-obiekty-w-rosji-ogromne-slupy-dymu-komunikat-wolodymyra-zelenskiego-st9147961?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 09:47:08 GMT",
+      "description": "Prezydent Wołodymyr Zełenski poinformował, że Ukraina zaatakowała między innymi dwa obiekty logistyczne oraz naftowy w Rosji. Opublikował nagrania, na których widać ogromne słupy dymu po uderzeniach.",
+      "originalTitle": "Seria uderzeń. Ukraina zaatakowała obiekty w Rosji",
+      "originalDescription": "Prezydent Wołodymyr Zełenski poinformował, że Ukraina zaatakowała między innymi dwa obiekty logistyczne oraz naftowy w Rosji. Opublikował nagrania, na których widać ogromne słupy dymu po uderzeniach."
+    },
+    {
+      "title": "Nowa trasa dla irackiej ropy. \"Ormuz stanie się kwestią drugorzędną\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/irak-podpisal-umowy-naftowe-z-zachodnimi-koncernami-powstanie-alternatywa-dla-ciesniny-ormuz-st9147901?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 09:34:32 GMT",
+      "description": "Irak zawarł w piątek szereg porozumień z zachodnimi koncernami energetycznymi, których celem jest rozwój wydobycia ropy i gazu oraz stworzenie alternatywnych szlaków eksportowych omijających cieśninę Ormuz - przekazał Reuters. Umowy podpisano podczas amerykańsko-irackiego szczytu biznesowego w Waszyngtonie.",
+      "originalTitle": "Nowa trasa dla irackiej ropy. \"Ormuz stanie się kwestią drugorzędną\"",
+      "originalDescription": "Irak zawarł w piątek szereg porozumień z zachodnimi koncernami energetycznymi, których celem jest rozwój wydobycia ropy i gazu oraz stworzenie alternatywnych szlaków eksportowych omijających cieśninę Ormuz - przekazał Reuters. Umowy podpisano podczas amerykańsko-irackiego szczytu biznesowego w Waszyngtonie."
+    },
+    {
+      "title": "Chiny. Trwała ewakuacja, zeszło osuwisko. Nie żyje osiem osób",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/osuwisko-w-chinach-ziemia-i-glazy-zeszly-zboczem-nie-zyje-osiem-osob-st9147888?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 09:33:19 GMT",
+      "description": "Osiem osób zginęło, a 34 pozostają zaginione po osuwisku w środkowych Chinach. Zbocze osunęło się na domy podczas prewencyjnej ewakuacji. Ratownicy wyciągali ludzi spod zwałów ziemi.",
+      "originalTitle": "Chiny. Trwała ewakuacja, zeszło osuwisko. Nie żyje osiem osób",
+      "originalDescription": "Osiem osób zginęło, a 34 pozostają zaginione po osuwisku w środkowych Chinach. Zbocze osunęło się na domy podczas prewencyjnej ewakuacji. Ratownicy wyciągali ludzi spod zwałów ziemi."
+    },
+    {
+      "title": "Zatrzymana kobieta zmarła w komendzie. Sprawę bada prokuratura",
+      "link": "https://tvn24.pl/lubuskie/gorzow-wielkopolski-zatrzymana-kobieta-zmarla-w-komendzie-sprawe-bada-prokuratura-st9147867?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 09:25:07 GMT",
+      "description": "Prokuratura oraz Biuro Spraw Wewnętrznych Policji bada śmierć 31-latki w Komendzie Miejskiej Policji w Gorzowie Wielkopolskim. Kobieta była reanimowana po tym, jak znaleziono ją bez oznak życia w policyjnym areszcie.",
+      "originalTitle": "Zatrzymana kobieta zmarła w komendzie. Sprawę bada prokuratura",
+      "originalDescription": "Prokuratura oraz Biuro Spraw Wewnętrznych Policji bada śmierć 31-latki w Komendzie Miejskiej Policji w Gorzowie Wielkopolskim. Kobieta była reanimowana po tym, jak znaleziono ją bez oznak życia w policyjnym areszcie."
+    },
+    {
+      "title": "Gdzie jest burza? Lokalnie opady są intensywne",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-sobote-18-07-mapa-i-radar-burz-na-zywo-st9147785?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 06:10:35 GMT",
+      "description": "Gdzie jest burza? W sobotę 18.07 w Polsce grzmi. Nie tylko się błyska, ale także mocno pada i wieje. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Lokalnie opady są intensywne",
+      "originalDescription": "Gdzie jest burza? W sobotę 18.07 w Polsce grzmi. Nie tylko się błyska, ale także mocno pada i wieje. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Puma widziana w Golowicach. \"Zagrożenie jest bezpośrednie\"",
+      "link": "https://tvn24.pl/wroclaw/golowice-jerzmanowa-gmina-ostrzega-przed-puma-st9147906?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 09:15:01 GMT",
+      "description": "Starosta głogowski poinformował, że puma, która wcześniej miała być widziana w gminie Pęcław, teraz została zauważona w Golowicach w gminie Jerzmanowa (woj. dolnośląskie). Zaapelował do mieszkańców o ostrożność i stosowanie się do poleceń służb.",
+      "originalTitle": "Puma widziana w Golowicach. \"Zagrożenie jest bezpośrednie\"",
+      "originalDescription": "Starosta głogowski poinformował, że puma, która wcześniej miała być widziana w gminie Pęcław, teraz została zauważona w Golowicach w gminie Jerzmanowa (woj. dolnośląskie). Zaapelował do mieszkańców o ostrożność i stosowanie się do poleceń służb."
+    },
+    {
+      "title": "Poznański Czerwiec był dla komunistów szokiem. Na powtórkę mieli gotowe scenariusze",
+      "link": "https://tvn24.pl/poznan/poznanski-czerwiec-byl-dla-komunistow-szokiem-na-powtorke-mieli-gotowe-scenariusze-st9114531?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 08:37:53 GMT",
+      "description": "\"Każdy prowokator czy szaleniec, który odważy się podnieść rękę przeciw władzy ludowej, niech będzie pewien, że mu tę rękę władza ludowa odrąbie\" - grzmiał po wydarzeniach Poznańskiego Czerwca 1956 roku premier Józef Cyrankiewicz. Wtedy zryw robotników był dla komunistów zaskoczeniem. Na ewentualną powtórkę przygotowano gotowe scenariusze.",
+      "originalTitle": "Poznański Czerwiec był dla komunistów szokiem. Na powtórkę mieli gotowe scenariusze",
+      "originalDescription": "\"Każdy prowokator czy szaleniec, który odważy się podnieść rękę przeciw władzy ludowej, niech będzie pewien, że mu tę rękę władza ludowa odrąbie\" - grzmiał po wydarzeniach Poznańskiego Czerwca 1956 roku premier Józef Cyrankiewicz. Wtedy zryw robotników był dla komunistów zaskoczeniem. Na ewentualną powtórkę przygotowano gotowe scenariusze."
+    },
+    {
+      "title": "Dziesiątki skarg na system kaucyjny",
+      "link": "https://tvn24.pl/biznes/z-kraju/system-kaucyjny-w-polsce-rosnie-liczba-skarg-na-zwrot-opakowan-st9147853?source=rss",
+      "pubDate": "Sat, 18 Jul 2026 08:22:09 GMT",
+      "description": "Rośnie liczba zgłoszeń dotyczących systemu kaucyjnego. Główny Inspektorat Ochrony Środowiska wskazał, że konsumenci najczęściej skarżą się na trudności ze zwrotem opakowań.",
+      "originalTitle": "Dziesiątki skarg na system kaucyjny",
+      "originalDescription": "Rośnie liczba zgłoszeń dotyczących systemu kaucyjnego. Główny Inspektorat Ochrony Środowiska wskazał, że konsumenci najczęściej skarżą się na trudności ze zwrotem opakowań."
+    },
+    {
+      "title": "Wykoleił się pociąg towarowy. Podnieśli wagony, część wciąż jest w rzece",
+      "link": "https://tvn24.pl/krakow/malopolska-wykoleil-sie-pociag-wagony-w-rzece-trwa-akcja-sluzb-st9147424?source=rss",
+      "pubDate": "Fri, 17 Jul 2026 15:28:07 GMT",
+      "description": "Wykolejenie pociągu towarowego w Małopolsce, na pograniczu miejscowości Łomnica-Zdrój i Wierchomla Wielka. Część wagonów zsunęła się do rzeki, trwa akcja służb. W sobotę rano PKP poinformowało, że dwa wagony zostały podniesione, a 17 przestawiono na boczny tor. Zostaną poddane oględzinom.",
+      "originalTitle": "Wykoleił się pociąg towarowy. Podnieśli wagony, część wciąż jest w rzece",
+      "originalDescription": "Wykolejenie pociągu towarowego w Małopolsce, na pograniczu miejscowości Łomnica-Zdrój i Wierchomla Wielka. Część wagonów zsunęła się do rzeki, trwa akcja służb. W sobotę rano PKP poinformowało, że dwa wagony zostały podniesione, a 17 przestawiono na boczny tor. Zostaną poddane oględzinom."
+    }
+  ]
 }
