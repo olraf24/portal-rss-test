@@ -1,8 +1,48 @@
 {
-  "lastUpdate": "2026-07-19T14:38:33.698Z",
+  "lastUpdate": "2026-07-19T15:57:55.389Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Gdzie jest burza? Pada nawalny deszcz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-niedziele-19-07-mapa-i-radar-burz-na-zywo-st9148869?source=rss",
+      "pubDate": "Sun, 19 Jul 2026 09:03:33 GMT",
+      "description": "Gdzie jest burza? W niedzielę 19.07 grzmi w wielu rejonach Polski. Wyładowaniom towarzyszą silne opady oraz porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Pada nawalny deszcz",
+      "originalDescription": "Gdzie jest burza? W niedzielę 19.07 grzmi w wielu rejonach Polski. Wyładowaniom towarzyszą silne opady oraz porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Burze i ulewy. IMGW wydał ostrzeżenia najwyższego stopnia",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-w-niedziele-19-07-tutaj-ostrzega-imgw-sa-alarmy-drugiego-stopnia-st9148704?source=rss",
+      "pubDate": "Sun, 19 Jul 2026 04:44:13 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia trzeciego, najwyższego stopnia przed burzami. W mocy są też alarmy pierwszego i drugiego stopnia. Sprawdź, gdzie należy uważać.",
+      "originalTitle": "Burze i ulewy. IMGW wydał ostrzeżenia najwyższego stopnia",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia trzeciego, najwyższego stopnia przed burzami. W mocy są też alarmy pierwszego i drugiego stopnia. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "Wstawił się za nastolatkiem z Ukrainy, został pobity. Sprawców szuka policja",
+      "link": "https://tvn24.pl/poznan/poznan-wstawil-sie-za-nastolatkiem-z-ukrainy-zostal-pobity-sprawcow-szuka-policja-st9149423?source=rss",
+      "pubDate": "Sun, 19 Jul 2026 15:24:23 GMT",
+      "description": "Policja szuka osób, które miały zaatakować 60-latka w Poznaniu. Mężczyzna wstawił się w tramwaju za pochodzącym z Ukrainy nastolatkiem, którego - według jego relacji - był zaczepiany. W efekcie został kilkukrotnie uderzony w twarz.",
+      "originalTitle": "Wstawił się za nastolatkiem z Ukrainy, został pobity. Sprawców szuka policja",
+      "originalDescription": "Policja szuka osób, które miały zaatakować 60-latka w Poznaniu. Mężczyzna wstawił się w tramwaju za pochodzącym z Ukrainy nastolatkiem, którego - według jego relacji - był zaczepiany. W efekcie został kilkukrotnie uderzony w twarz."
+    },
+    {
+      "title": "Ciężarówką ze żrącymi substancjami staranował radiowozy. Są zarzuty i areszt",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/torun-po-poscigu-za-ciezarowka-ze-zracymi-substancjami-kierowca-uslyszal-zarzuty-st9149129?source=rss",
+      "pubDate": "Sun, 19 Jul 2026 11:28:26 GMT",
+      "description": "Zarzuty niezatrzymania się do kontroli drogowej i czynnej napaści na funkcjonariuszy usłyszał 24-latek, który uciekał ciężarówką przed pościgiem niedaleko Torunia. Mężczyzna staranował radiowozy, następnie porzucił pojazd. Został zatrzymany na terenie województwa wielkopolskiego.",
+      "originalTitle": "Ciężarówką ze żrącymi substancjami staranował radiowozy. Są zarzuty i areszt",
+      "originalDescription": "Zarzuty niezatrzymania się do kontroli drogowej i czynnej napaści na funkcjonariuszy usłyszał 24-latek, który uciekał ciężarówką przed pościgiem niedaleko Torunia. Mężczyzna staranował radiowozy, następnie porzucił pojazd. Został zatrzymany na terenie województwa wielkopolskiego."
+    },
+    {
+      "title": "Matka zabrała do szpitala syna z gorączką, ojca zatrzymała policja",
+      "link": "https://tvn24.pl/kielce/sandomierz-ojciec-z-zarzutami-znecania-sie-nad-dziewieciomiesiecznym-dzieckiem-st9149414?source=rss",
+      "pubDate": "Sun, 19 Jul 2026 14:50:46 GMT",
+      "description": "Do aresztu trafił ojciec dziewięciomiesięcznego dziecka, u którego lekarz szpitala w Sandomierzu (woj. świętokrzyskiego) natrafił na ślady przemocy. 23-latek usłyszał zarzut znęcania się.",
+      "originalTitle": "Matka zabrała do szpitala syna z gorączką, ojca zatrzymała policja",
+      "originalDescription": "Do aresztu trafił ojciec dziewięciomiesięcznego dziecka, u którego lekarz szpitala w Sandomierzu (woj. świętokrzyskiego) natrafił na ślady przemocy. 23-latek usłyszał zarzut znęcania się."
+    },
     {
       "title": "Alert RCB w kolejnych powiatach",
       "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-w-niedziele-19-07-burze-z-gradem-i-silny-wiatr-mozliwe-przerwy-w-dostawie-pradu-st9148742?source=rss",
@@ -10,14 +50,6 @@
       "description": "Alert RCB. Rządowe Centrum Bezpieczeństwa (RCB) wysłało SMS-owy alert do osób przebywających na terenie kolejnego województwa. Eksperci ostrzegają przed burzami z gradem.",
       "originalTitle": "Alert RCB w kolejnych powiatach",
       "originalDescription": "Alert RCB. Rządowe Centrum Bezpieczeństwa (RCB) wysłało SMS-owy alert do osób przebywających na terenie kolejnego województwa. Eksperci ostrzegają przed burzami z gradem."
-    },
-    {
-      "title": "Burze w Polsce. Rondo pod wodą",
-      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-interwencje-strazakow-zalania-w-czesci-kraju-st9149394?source=rss",
-      "pubDate": "Sun, 19 Jul 2026 14:21:24 GMT",
-      "description": "Burze przechodzą nad Polską w niedzielę. Intensywne ulewy dały się we znaki mieszkańcom Białej Podlaskiej, gdzie deszcz spowodował zalanie jednego z miejskich rond.",
-      "originalTitle": "Burze w Polsce. Rondo pod wodą",
-      "originalDescription": "Burze przechodzą nad Polską w niedzielę. Intensywne ulewy dały się we znaki mieszkańcom Białej Podlaskiej, gdzie deszcz spowodował zalanie jednego z miejskich rond."
     },
     {
       "title": "Samochód z przyczepą potrącił pieszego",
@@ -31,9 +63,9 @@
       "title": "Niespodzianka na rynku mieszkań. Stolica liderem spadków",
       "link": "https://tvn24.pl/biznes/nieruchomosci/ceny-mieszkan-z-rynku-wtornego-spadly-w-warszawie-stolica-wyroznia-sie-na-tle-innych-miast-st9149360?source=rss",
       "pubDate": "Sun, 19 Jul 2026 13:49:42 GMT",
-      "description": "Stolica jako jedyna spośród największych miast odnotowała spadek cen mieszkań na rynku wtórnym - przekazał Polski Instytut Ekonomiczny. Eksperci zwrócili uwagę, że poprawiła się jednocześnie dostępność kredytów. Obecnie metr kwadratowy na rynku wtórnym w Warszawie kosztuje średnio o 4 tys. zł więcej, niż w sześciu pozostałych największych miastach w Polsce.",
+      "description": "Stolica jako jedyna spośród największych miast odnotowała spadek cen mieszkań na rynku wtórnym - przekazał Polski Instytut Ekonomiczny. Eksperci zwrócili uwagę, że poprawiła się jednocześnie dostępność kredytów. Obecnie metr kwadratowy na rynku wtórnym w Warszawie kosztuje średnio o cztery tysiące złotych więcej niż w sześciu pozostałych największych miastach w Polsce.",
       "originalTitle": "Niespodzianka na rynku mieszkań. Stolica liderem spadków",
-      "originalDescription": "Stolica jako jedyna spośród największych miast odnotowała spadek cen mieszkań na rynku wtórnym - przekazał Polski Instytut Ekonomiczny. Eksperci zwrócili uwagę, że poprawiła się jednocześnie dostępność kredytów. Obecnie metr kwadratowy na rynku wtórnym w Warszawie kosztuje średnio o 4 tys. zł więcej, niż w sześciu pozostałych największych miastach w Polsce."
+      "originalDescription": "Stolica jako jedyna spośród największych miast odnotowała spadek cen mieszkań na rynku wtórnym - przekazał Polski Instytut Ekonomiczny. Eksperci zwrócili uwagę, że poprawiła się jednocześnie dostępność kredytów. Obecnie metr kwadratowy na rynku wtórnym w Warszawie kosztuje średnio o cztery tysiące złotych więcej niż w sześciu pozostałych największych miastach w Polsce."
     },
     {
       "title": "Ryszard Terlecki zwrócił się do maślarzy. \"Muszę ich zmartwić\"",
@@ -50,38 +82,6 @@
       "description": "Neurotoksyny wytwarzane przez sinice mogą być znacznie groźniejsze, niż sądziliśmy. Nowe badanie donosi, że występują nie tylko w wodzie - wykryto je również w powietrzu, a nawet pustynnym pyle. Zdaniem badaczy znacznie zwiększa to ryzyko ekspozycji na groźne substancje, a co za tym idzie, wywoływane przez nie choroby.",
       "originalTitle": "Znaleźli toksyny sinic w powietrzu i pustynnym pyle",
       "originalDescription": "Neurotoksyny wytwarzane przez sinice mogą być znacznie groźniejsze, niż sądziliśmy. Nowe badanie donosi, że występują nie tylko w wodzie - wykryto je również w powietrzu, a nawet pustynnym pyle. Zdaniem badaczy znacznie zwiększa to ryzyko ekspozycji na groźne substancje, a co za tym idzie, wywoływane przez nie choroby."
-    },
-    {
-      "title": "Gigantyczny korek na A6. \"Z powodu kolizji i dużego natężenia ruchu\"",
-      "link": "https://tvn24.pl/szczecin/zachodniopomorskie-gigantyczny-korek-na-autostradzie-st9149348?source=rss",
-      "pubDate": "Sun, 19 Jul 2026 13:16:24 GMT",
-      "description": "Kilka kilometrów ma korek, w którym stoją kierowcy jadący autostradą A6 nad morze. Zatory są też na innych drogach w regionie. Drogowcy uspokajają jednak, że sytuacja się poprawia.",
-      "originalTitle": "Gigantyczny korek na A6. \"Z powodu kolizji i dużego natężenia ruchu\"",
-      "originalDescription": "Kilka kilometrów ma korek, w którym stoją kierowcy jadący autostradą A6 nad morze. Zatory są też na innych drogach w regionie. Drogowcy uspokajają jednak, że sytuacja się poprawia."
-    },
-    {
-      "title": "Jechał za blisko i doszło do wypadku. Motocyklista w szpitalu",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/machcino-plock-wypadek-na-lokalnej-drodze-motocyklista-w-szpitalu-utrudnienia-st9149329?source=rss",
-      "pubDate": "Sun, 19 Jul 2026 13:10:59 GMT",
-      "description": "Wypadek z udziałem motocyklisty na lokalnej drodze pod Płockiem. Jak ustaliła policja, przyczyną zdarzenia była zbyt mała odległość, dzieląca go od osobówki. Kierowca jednośladu trafił do szpitala.",
-      "originalTitle": "Jechał za blisko i doszło do wypadku. Motocyklista w szpitalu",
-      "originalDescription": "Wypadek z udziałem motocyklisty na lokalnej drodze pod Płockiem. Jak ustaliła policja, przyczyną zdarzenia była zbyt mała odległość, dzieląca go od osobówki. Kierowca jednośladu trafił do szpitala."
-    },
-    {
-      "title": "Gdzie jest burza? Może padać duży grad",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-niedziele-19-07-mapa-i-radar-burz-na-zywo-st9148869?source=rss",
-      "pubDate": "Sun, 19 Jul 2026 09:03:33 GMT",
-      "description": "Gdzie jest burza? W niedzielę 19.07 grzmi w wielu rejonach Polski. Wyładowaniom towarzyszą silne opady oraz porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
-      "originalTitle": "Gdzie jest burza? Może padać duży grad",
-      "originalDescription": "Gdzie jest burza? W niedzielę 19.07 grzmi w wielu rejonach Polski. Wyładowaniom towarzyszą silne opady oraz porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
-    },
-    {
-      "title": "Pożar samochodu na A4, jezdnia w stronę Rzeszowa zablokowana",
-      "link": "https://tvn24.pl/krakow/pozar-samochodu-na-autostradzie-a4-za-krakowem-malopolskie-st9149325?source=rss",
-      "pubDate": "Sun, 19 Jul 2026 12:52:06 GMT",
-      "description": "Na autostradzie A4 za Krakowem, koło Brzezia w powiecie wielickim, samochód stanął w płomieniach. Jezdnia w stronę Rzeszowa jest całkowicie zablokowana.",
-      "originalTitle": "Pożar samochodu na A4, jezdnia w stronę Rzeszowa zablokowana",
-      "originalDescription": "Na autostradzie A4 za Krakowem, koło Brzezia w powiecie wielickim, samochód stanął w płomieniach. Jezdnia w stronę Rzeszowa jest całkowicie zablokowana."
     }
   ]
 }
