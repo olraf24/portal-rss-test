@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-20T10:09:46.272Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-20T12:31:18.310Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pasażer miał zaatakować konduktora, bójka na peronie. Nagranie",
+      "link": "https://tvn24.pl/trojmiasto/wejherowo-pasazer-mial-zaatakowac-konduktora-bojka-na-peronie-nagranie-st9150371?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 12:24:05 GMT",
+      "description": "Na peronie w Wejherowie doszło do bójki z udziałem mężczyzny z obsługi pociągu oraz pasażera. Nagranie trafiło do sieci. Policja potwierdza otrzymanie zgłoszenia. Na miejscu funkcjonariusze zastali już tylko pasażera, który wcześniej miał być agresywny. Został usunięty z pociągu, bo miał zaatakować konduktora i grozić wybiciem szyby.",
+      "originalTitle": "Pasażer miał zaatakować konduktora, bójka na peronie. Nagranie",
+      "originalDescription": "Na peronie w Wejherowie doszło do bójki z udziałem mężczyzny z obsługi pociągu oraz pasażera. Nagranie trafiło do sieci. Policja potwierdza otrzymanie zgłoszenia. Na miejscu funkcjonariusze zastali już tylko pasażera, który wcześniej miał być agresywny. Został usunięty z pociągu, bo miał zaatakować konduktora i grozić wybiciem szyby."
+    },
+    {
+      "title": "Stronnicy Mateusza Morawieckiego się ugięli? \"Podaj nazwiska. Karty na stół!\"",
+      "link": "https://tvn24.pl/polska/konflikt-w-pis-stronnicy-mateusza-morawieckiego-sie-ugieli-waldemar-buda-podaj-nazwiska-karty-na-stol-st9149887?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 12:23:13 GMT",
+      "description": "Trwa wewnętrzny spór w Prawie i Sprawiedliwości. W poniedziałek politycy skoncentrowali się na dosienieniach o tym, że część stronników Mateusza Morawieckiego podpisała forsowaną przez władze partii deklarację o nieuczestnictwie w stowarzyszeniach. Sami sojusznicy byłego premiera zaprzeczają. \"Podaj nazwiska, będzie można łatwo potwierdzić. Karty na stół!\" - napisał poseł Sylwester Tułajew.",
+      "originalTitle": "Stronnicy Mateusza Morawieckiego się ugięli? \"Podaj nazwiska. Karty na stół!\"",
+      "originalDescription": "Trwa wewnętrzny spór w Prawie i Sprawiedliwości. W poniedziałek politycy skoncentrowali się na dosienieniach o tym, że część stronników Mateusza Morawieckiego podpisała forsowaną przez władze partii deklarację o nieuczestnictwie w stowarzyszeniach. Sami sojusznicy byłego premiera zaprzeczają. \"Podaj nazwiska, będzie można łatwo potwierdzić. Karty na stół!\" - napisał poseł Sylwester Tułajew."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi między innymi na Mazowszu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-20-07-mapa-i-radar-burz-na-zywo-st9150315?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 11:10:23 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 20.07 grzmi w wielu rejonach kraju. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi między innymi na Mazowszu",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 20.07 grzmi w wielu rejonach kraju. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Podróbki i niebezpieczne towary w ofercie. Chiński gigant z wysoką karą",
+      "link": "https://tvn24.pl/biznes/handel/aliexpress-podrobki-i-niebezpieczne-towary-w-ofercie-wysoka-kara-od-komisji-europejskiej-st9150406?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 12:14:53 GMT",
+      "description": "Platforma handlowa AliExpress została ukarana przez Komisję Europejską grzywną w wysokości 550 milionów euro. Decyzję podjęto z powodu niewystarczających działań serwisu w zakresie przeciwdziałania sprzedaży podrabianych oraz potencjalnie niebezpiecznych produktów - poinformowała w poniedziałek Komisja Europejska.",
+      "originalTitle": "Podróbki i niebezpieczne towary w ofercie. Chiński gigant z wysoką karą",
+      "originalDescription": "Platforma handlowa AliExpress została ukarana przez Komisję Europejską grzywną w wysokości 550 milionów euro. Decyzję podjęto z powodu niewystarczających działań serwisu w zakresie przeciwdziałania sprzedaży podrabianych oraz potencjalnie niebezpiecznych produktów - poinformowała w poniedziałek Komisja Europejska."
+    },
+    {
+      "title": "Gambit Magyara \"dzieli nawet jego obóz\"",
+      "link": "https://tvn24.pl/swiat/wegry-peter-magyar-poprosi-szachistke-judit-polgar-o-ubieganie-sie-o-stanowisko-prezydentki-kraju-st9150287?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 12:12:56 GMT",
+      "description": "Premier Węgier Peter Magyar oświadczył w niedzielę, że poprosi Judit Polgar o ubieganie się o stanowisko prezydentki kraju. Choć jest najbardziej utytułowaną szachistką w historii, krytycy zwracają uwagę na brak politycznego doświadczenia.",
+      "originalTitle": "Gambit Magyara \"dzieli nawet jego obóz\"",
+      "originalDescription": "Premier Węgier Peter Magyar oświadczył w niedzielę, że poprosi Judit Polgar o ubieganie się o stanowisko prezydentki kraju. Choć jest najbardziej utytułowaną szachistką w historii, krytycy zwracają uwagę na brak politycznego doświadczenia."
+    },
+    {
+      "title": "Wir nad Krynicą Morską. Niebezpiecznie na Bałtyku",
+      "link": "https://tvn24.pl/tvnmeteo/polska/wir-nad-krynica-morska-niebezpiecznie-na-baltyku-st9150281?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 12:11:08 GMT",
+      "description": "Lej kondensacyjny pojawił się w poniedziałek około południa nad Krynicą Morską. Nad Bałtykiem występują trudne warunki atmosferyczne - pada i silnie wieje. IMGW wydał ostrzeżenia przed sztormem.",
+      "originalTitle": "Wir nad Krynicą Morską. Niebezpiecznie na Bałtyku",
+      "originalDescription": "Lej kondensacyjny pojawił się w poniedziałek około południa nad Krynicą Morską. Nad Bałtykiem występują trudne warunki atmosferyczne - pada i silnie wieje. IMGW wydał ostrzeżenia przed sztormem."
+    },
+    {
+      "title": "Zasłabł za kierownicą, wjechał w bariery",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/a2-warszawa-lodz-kierowca-tira-zaslabl-za-kierownica-wjechal-w-bariery-st9150403?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 11:42:25 GMT",
+      "description": "Kolizja autostradzie A2 za Warszawą. Kierowca tira uderzył w bariery. W szczytowym momencie korek w stronę Łodzi miał kilka kilometrów.",
+      "originalTitle": "Zasłabł za kierownicą, wjechał w bariery",
+      "originalDescription": "Kolizja autostradzie A2 za Warszawą. Kierowca tira uderzył w bariery. W szczytowym momencie korek w stronę Łodzi miał kilka kilometrów."
+    },
+    {
+      "title": "Uderzyli skuterem wodnym w falochron. Trzy osoby uwięzione na gwiazdoblokach",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-rozbili-sie-skuterem-utkneli-na-gwiazdoblokach-st9150258?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 11:32:50 GMT",
+      "description": "Pływali skuterem wodnym po Zatoce Gdańskiej, rozbili się o falochron. Trzy osoby utknęły na gwiazdoblokach. Bezpiecznie ewakuowano ich na brzeg.",
+      "originalTitle": "Uderzyli skuterem wodnym w falochron. Trzy osoby uwięzione na gwiazdoblokach",
+      "originalDescription": "Pływali skuterem wodnym po Zatoce Gdańskiej, rozbili się o falochron. Trzy osoby utknęły na gwiazdoblokach. Bezpiecznie ewakuowano ich na brzeg."
+    },
+    {
+      "title": "Cztery rozporządzenia i duża ustawa. Resort zdrowia rusza z pakietem zmian",
+      "link": "https://tvn24.pl/zdrowie/rewolucja-w-ochronie-zdrowia-ministerstwo-zdrowia-zaostrzy-kontrole-czasu-pracy-lekarzy-i-przyjrzy-sie-harmonogramom-st9150346?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 11:24:48 GMT",
+      "description": "Resort zdrowia pracuje nad pakietem zmian, które mają usprawnić monitorowanie kolejek do świadczeń, zwiększyć kontrolę nad czasem pracy medyków i przyspieszyć rozwój centralnej e-rejestracji. Do konsultacji trafiły już dwa z czterech zapowiadanych projektów rozporządzeń. Równolegle resort przygotowuje ustawę przewidującą m.in. limit stawek godzinowych dla pracowników ochrony zdrowia.",
+      "originalTitle": "Cztery rozporządzenia i duża ustawa. Resort zdrowia rusza z pakietem zmian",
+      "originalDescription": "Resort zdrowia pracuje nad pakietem zmian, które mają usprawnić monitorowanie kolejek do świadczeń, zwiększyć kontrolę nad czasem pracy medyków i przyspieszyć rozwój centralnej e-rejestracji. Do konsultacji trafiły już dwa z czterech zapowiadanych projektów rozporządzeń. Równolegle resort przygotowuje ustawę przewidującą m.in. limit stawek godzinowych dla pracowników ochrony zdrowia."
+    },
+    {
+      "title": "\"Wesele\" na krakowskim rynku. \"Jestem zdegustowana biernością miasta\"",
+      "link": "https://tvn24.pl/krakow/krakow-najwieksze-wesele-na-rynku-urzednicy-rozwiazali-zgromadzenie-st9150292?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 11:23:19 GMT",
+      "description": "Około 200 osób bawiło się na \"największym weselu\", które odbyło się w tę niedzielę na krakowskim rynku. Zabawa trwała, póki urząd miasta nie rozwiązał zgromadzenia. Organizowane w tym miejscu imprezy cieszą się ogromną popularnością, ale budzą wątpliwości - prawne i etyczne.",
+      "originalTitle": "\"Wesele\" na krakowskim rynku. \"Jestem zdegustowana biernością miasta\"",
+      "originalDescription": "Około 200 osób bawiło się na \"największym weselu\", które odbyło się w tę niedzielę na krakowskim rynku. Zabawa trwała, póki urząd miasta nie rozwiązał zgromadzenia. Organizowane w tym miejscu imprezy cieszą się ogromną popularnością, ale budzą wątpliwości - prawne i etyczne."
+    }
+  ]
 }
