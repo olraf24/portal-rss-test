@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-21T00:04:31.316Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-21T03:55:54.037Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "USA zamknęły ponad dwa tysiące stron internetowych, które nielegalnie transmitowały mecze",
+      "link": "https://tvn24.pl/swiat/usa-operacja-czerwona-kartka-wladze-zamknely-ponad-dwa-tysiace-stron-nielegalnie-transmitujacych-mecze-mistrzostw-swiata-st9151262?source=rss",
+      "pubDate": "Tue, 21 Jul 2026 03:36:48 GMT",
+      "description": "Departament Sprawiedliwości USA poinformował, że zablokowano lub przejęto ponad dwa tysiące stron internetowych za nielegalne transmitowanie meczów mistrzostw świata. To część operacji \"Czerwona Kartka\".",
+      "originalTitle": "USA zamknęły ponad dwa tysiące stron internetowych, które nielegalnie transmitowały mecze",
+      "originalDescription": "Departament Sprawiedliwości USA poinformował, że zablokowano lub przejęto ponad dwa tysiące stron internetowych za nielegalne transmitowanie meczów mistrzostw świata. To część operacji \"Czerwona Kartka\"."
+    },
+    {
+      "title": "Dalszy ciąg sporu w PiS, nowy brytyjski premier, mistrzowska feta",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-we-wtorek-21-lipca-najwazniejsze-informacje-st9151263?source=rss",
+      "pubDate": "Tue, 21 Jul 2026 03:12:44 GMT",
+      "description": "Trwa wewnętrzny spór w Prawie i Sprawiedliwości. Andy Burnham został nowym premierem Wielkiej Brytanii. W Madrycie odbyła się mistrzowska feta piłkarskiej reprezentacji Hiszpanii. Oto sześć rzeczy, które warto wiedzieć we wtorek 21 lipca.",
+      "originalTitle": "Dalszy ciąg sporu w PiS, nowy brytyjski premier, mistrzowska feta",
+      "originalDescription": "Trwa wewnętrzny spór w Prawie i Sprawiedliwości. Andy Burnham został nowym premierem Wielkiej Brytanii. W Madrycie odbyła się mistrzowska feta piłkarskiej reprezentacji Hiszpanii. Oto sześć rzeczy, które warto wiedzieć we wtorek 21 lipca."
+    },
+    {
+      "title": "Kolejni amerykańscy żołnierze zginęli na Bliskim Wschodzie. Trump grozi Iranowi",
+      "link": "https://tvn24.pl/swiat/wojsko-usa-na-bliskim-wschodzie-zginelo-troje-zolnierzy-donald-trump-grozi-odwetem-st9151195?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 20:14:26 GMT",
+      "description": "W ubiegły weekend na Bliskim Wschodzie zginęło troje amerykańskich żołnierzy - przekazało Centralne Dowództwo USA. Prezydent Donald Trump zagroził w związku z tym odwetem. Od początku wojny z Iranem zginęło 17 żołnierzy Stanów Zjednoczonych.",
+      "originalTitle": "Kolejni amerykańscy żołnierze zginęli na Bliskim Wschodzie. Trump grozi Iranowi",
+      "originalDescription": "W ubiegły weekend na Bliskim Wschodzie zginęło troje amerykańskich żołnierzy - przekazało Centralne Dowództwo USA. Prezydent Donald Trump zagroził w związku z tym odwetem. Od początku wojny z Iranem zginęło 17 żołnierzy Stanów Zjednoczonych."
+    },
+    {
+      "title": "\"Akcja zastraszania\" dyplomatów w Iranie. Paryż grozi konsekwencjami",
+      "link": "https://tvn24.pl/swiat/francja-oburzona-na-iran-pracownicy-ambasady-w-teheranie-zostali-zatrzymani-przez-iranskie-sluzby-st9151154?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 19:49:06 GMT",
+      "description": "Dwaj pracownicy ambasady Francji, pomimo posiadania immunitetu dyplomatycznego, zostali w niedzielę zatrzymani i przesłuchani przez irańskie służby w Teheranie. Szef francuskiej dyplomacji Jean-Noel Barrot ocenił to jako \"zastraszanie\" i zapowiedział, że ta sytuacja \"nie może pozostać bez konsekwencji\".",
+      "originalTitle": "\"Akcja zastraszania\" dyplomatów w Iranie. Paryż grozi konsekwencjami",
+      "originalDescription": "Dwaj pracownicy ambasady Francji, pomimo posiadania immunitetu dyplomatycznego, zostali w niedzielę zatrzymani i przesłuchani przez irańskie służby w Teheranie. Szef francuskiej dyplomacji Jean-Noel Barrot ocenił to jako \"zastraszanie\" i zapowiedział, że ta sytuacja \"nie może pozostać bez konsekwencji\"."
+    },
+    {
+      "title": "Wiatr mocno się rozpędzi. Ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-i-silny-wiatr-ostrzezenia-imgw-w-poniedzialek-i-wtorek-20-21-07-st9149652?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 04:58:09 GMT",
+      "description": "IMGW ostrzega przed burzami i silnym wiatrem. Alarmy obowiązują w trzech województwach. Sprawdź, gdzie aura może być niebezpieczna.",
+      "originalTitle": "Wiatr mocno się rozpędzi. Ostrzeżenia IMGW",
+      "originalDescription": "IMGW ostrzega przed burzami i silnym wiatrem. Alarmy obowiązują w trzech województwach. Sprawdź, gdzie aura może być niebezpieczna."
+    },
+    {
+      "title": "Nawet 20 tysięcy euro premii dla pracowników. Jest jeden warunek",
+      "link": "https://tvn24.pl/biznes/tech/gigant-branzy-chipow-zaplaci-pracownikom-20-tysiecy-euro-premii-jest-jeden-warunek-st9151197?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 19:48:47 GMT",
+      "description": "Największy na świecie producent urządzeń wykorzystywanych do wytwarzania półprzewodników, ASML, zamierza zaoferować pracownikom premię o wartości 20 tysięcy euro - informuje Reuters. Zaznacza jednak, że należy spełnić jeden warunek.",
+      "originalTitle": "Nawet 20 tysięcy euro premii dla pracowników. Jest jeden warunek",
+      "originalDescription": "Największy na świecie producent urządzeń wykorzystywanych do wytwarzania półprzewodników, ASML, zamierza zaoferować pracownikom premię o wartości 20 tysięcy euro - informuje Reuters. Zaznacza jednak, że należy spełnić jeden warunek."
+    },
+    {
+      "title": "Kolejna fala upałów w Europie. Gorąco w Grecji i Macedonii Północnej",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kolejna-fala-upalow-w-europie-goraco-w-grecji-i-macedonii-polnocnej-st9150911?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 19:39:01 GMT",
+      "description": "Lato dla mieszkańców Grecji i Macedonii Północnej nie jest tym samym, co dla wypoczywających tam turystów. To okres śmiercionośnych upałów, suszy i mocnej wiary w to, że coroczne pożary nie pobiją kolejnych rekordów strawionych hektarów lasów.",
+      "originalTitle": "Kolejna fala upałów w Europie. Gorąco w Grecji i Macedonii Północnej",
+      "originalDescription": "Lato dla mieszkańców Grecji i Macedonii Północnej nie jest tym samym, co dla wypoczywających tam turystów. To okres śmiercionośnych upałów, suszy i mocnej wiary w to, że coroczne pożary nie pobiją kolejnych rekordów strawionych hektarów lasów."
+    },
+    {
+      "title": "Czarne chmury nad rynkiem cukru. Alarmujące prognozy",
+      "link": "https://tvn24.pl/biznes/handel/cukier-czarne-chmury-nad-rynkiem-produkcja-w-unii-europejskiej-mocno-w-dol-st9151180?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 19:27:52 GMT",
+      "description": "Produkcja cukru w Unii Europejskiej w sezonie 2026/2027 odnotuje spore spadki z powodu coraz mniejszej dostępności buraków cukrowych - poinformował Związek Producentów Cukru w Polsce. Wskazał także, że perspektywy dla krajowej produkcji \"są coraz mniej optymistyczne\".",
+      "originalTitle": "Czarne chmury nad rynkiem cukru. Alarmujące prognozy",
+      "originalDescription": "Produkcja cukru w Unii Europejskiej w sezonie 2026/2027 odnotuje spore spadki z powodu coraz mniejszej dostępności buraków cukrowych - poinformował Związek Producentów Cukru w Polsce. Wskazał także, że perspektywy dla krajowej produkcji \"są coraz mniej optymistyczne\"."
+    },
+    {
+      "title": "Gdzie jest burza? Tutaj wciąż grzmi",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-20-07-mapa-i-radar-burz-na-zywo-st9150315?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 11:10:23 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 20.07 w Polsce grzmi. Wyładowaniom towarzyszą opady deszczu i silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tutaj wciąż grzmi",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 20.07 w Polsce grzmi. Wyładowaniom towarzyszą opady deszczu i silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Mundial 2026. Przeżywali mecz tak, że trzy razy zatrzęsła się ziemia",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/mundial-2026-przezywali-mecz-tak-ze-trzy-razy-zatrzesla-sie-ziemia-st9151179?source=rss",
+      "pubDate": "Mon, 20 Jul 2026 19:00:22 GMT",
+      "description": "Hiszpańscy kibice reagowali niezwykle żywiołowo podczas niedzielnego finału mistrzostw świata w piłce nożnej. Ich emocje zarejestrowały nawet sejsmografy - na wskazaniach urządzeń widać trzy wyraźne momenty pobudzenia fanów.",
+      "originalTitle": "Mundial 2026. Przeżywali mecz tak, że trzy razy zatrzęsła się ziemia",
+      "originalDescription": "Hiszpańscy kibice reagowali niezwykle żywiołowo podczas niedzielnego finału mistrzostw świata w piłce nożnej. Ich emocje zarejestrowały nawet sejsmografy - na wskazaniach urządzeń widać trzy wyraźne momenty pobudzenia fanów."
+    }
+  ]
 }
