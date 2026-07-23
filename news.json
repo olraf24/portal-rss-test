@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-23T20:34:56.902Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-23T22:03:21.016Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rozpad PiS? Fiasko rozmów Jarosława Kaczyńskiego i Mateusza Morawieckiego. Relacja",
+      "link": "https://tvn24.pl/polska/rozpad-pis-fiasko-rozmow-jaroslawa-kaczynskiego-i-mateusza-morawieckiego-relacja-st9155290?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 10:19:28 GMT",
+      "description": "Mateusz Morawiecki spotkał się w czwartek po południu z Jarosławem Kaczyńskim. Mimo trzech godzin rozmów \"nie ma rozstrzygnięcia\" - poinformował po spotkaniu rzecznik PiS. Co teraz może się wydarzyć? Jakie są możliwe scenariusze? Co o rozłamie w PiS mówią politycy? Sytuację relacjonujemy w TVN24 i na tvn24.pl.",
+      "originalTitle": "Rozpad PiS? Fiasko rozmów Jarosława Kaczyńskiego i Mateusza Morawieckiego. Relacja",
+      "originalDescription": "Mateusz Morawiecki spotkał się w czwartek po południu z Jarosławem Kaczyńskim. Mimo trzech godzin rozmów \"nie ma rozstrzygnięcia\" - poinformował po spotkaniu rzecznik PiS. Co teraz może się wydarzyć? Jakie są możliwe scenariusze? Co o rozłamie w PiS mówią politycy? Sytuację relacjonujemy w TVN24 i na tvn24.pl."
+    },
+    {
+      "title": "Rzeczniczka Praw Obywatelskich: przygotujemy listę spraw dla prezydenta",
+      "link": "https://tvn24.pl/polska/rzecznik-praw-obywatelskich-sylwia-gregorczyk-abram-chce-spotkac-sie-z-prezydentem-karolem-nawrockim-st9156408?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 20:14:02 GMT",
+      "description": "Chciałabym się spotkać z prezydentem Karolem Nawrockim - powiedziała Rzeczniczka Praw Obywatelskich Sylwia Gregorczyk-Abram w \"Faktach po Faktach\". Wyjaśniła, że chce z nim porozmawiać, ponieważ prezydent decyduje także w kwestiach praw i wolności obywatelskich.",
+      "originalTitle": "Rzeczniczka Praw Obywatelskich: przygotujemy listę spraw dla prezydenta",
+      "originalDescription": "Chciałabym się spotkać z prezydentem Karolem Nawrockim - powiedziała Rzeczniczka Praw Obywatelskich Sylwia Gregorczyk-Abram w \"Faktach po Faktach\". Wyjaśniła, że chce z nim porozmawiać, ponieważ prezydent decyduje także w kwestiach praw i wolności obywatelskich."
+    },
+    {
+      "title": "Wiceszefowa MON o Patriotach i bazie USA w Polsce. \"Mogę ogłosić\"",
+      "link": "https://tvn24.pl/polska/wiceszefowa-mon-o-patriotach-i-bazie-usa-w-polsce-moge-oglosic-st9156495?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 20:10:02 GMT",
+      "description": "Zaproponowałam stronie amerykańskiej produkcję pocisków do systemów Patriot we współpracy z USA i Ukrainą - ogłosiła w czwartek w Waszyngtonie wiceministra obrony narodowej Magdalena Sobkowiak-Czarnecka. Poinformowała, że po stronie amerykańskiej powstał zespół do spraw stałej bazy wojskowej w Polsce.",
+      "originalTitle": "Wiceszefowa MON o Patriotach i bazie USA w Polsce. \"Mogę ogłosić\"",
+      "originalDescription": "Zaproponowałam stronie amerykańskiej produkcję pocisków do systemów Patriot we współpracy z USA i Ukrainą - ogłosiła w czwartek w Waszyngtonie wiceministra obrony narodowej Magdalena Sobkowiak-Czarnecka. Poinformowała, że po stronie amerykańskiej powstał zespół do spraw stałej bazy wojskowej w Polsce."
+    },
+    {
+      "title": "Burze. Tu wciąż są alarmy",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przed-silnymi-burzami-i-deszczem-st9151267?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 04:38:32 GMT",
+      "description": "W części kraju wciąż obowiązują alarmy pierwszego stopnia przed burzami, wydane przez Instytut Meteorologii i Gospodarki Wodnej. Sprawdź, gdzie należy uważać na niebezpieczną aurę.",
+      "originalTitle": "Burze. Tu wciąż są alarmy",
+      "originalDescription": "W części kraju wciąż obowiązują alarmy pierwszego stopnia przed burzami, wydane przez Instytut Meteorologii i Gospodarki Wodnej. Sprawdź, gdzie należy uważać na niebezpieczną aurę."
+    },
+    {
+      "title": "Powodzie po monsunowych ulewach. Nie żyje kilkadziesiąt osób",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pakistan-afganistan-indie-powodzie-po-monsunowych-ulewach-nie-zyje-kilkadziesiat-osob-st9156396?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 19:01:47 GMT",
+      "description": "Monsunowe ulewy doprowadziły do zabójczych powodzi w Azji Południowej. W Pakistanie, Afganistanie i Indiach zginęło łącznie ponad 80 osób. Ze skutkami żywiołu mierzą się setki tysięcy mieszkańców.",
+      "originalTitle": "Powodzie po monsunowych ulewach. Nie żyje kilkadziesiąt osób",
+      "originalDescription": "Monsunowe ulewy doprowadziły do zabójczych powodzi w Azji Południowej. W Pakistanie, Afganistanie i Indiach zginęło łącznie ponad 80 osób. Ze skutkami żywiołu mierzą się setki tysięcy mieszkańców."
+    },
+    {
+      "title": "Chcą być liderem w górnictwie. Sąsiad Polski ma ambitne plany",
+      "link": "https://tvn24.pl/biznes/ze-swiata/szwecja-chce-usprawnic-wydobycie-surowcow-naturalnych-chce-byc-liderem-st9156417?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 18:45:25 GMT",
+      "description": "Rząd Szwecji usprawni wydawanie pozwoleń na wydobycie surowców naturalnych - zapowiedziała tamtejsza minister do spraw energii i gospodarki Ebba Busch. Skandynawski kraj aspiruje do miana lidera w górnictwie, jednocześnie uniezależnienia Europy od Chin w kwestii dostępu do kopalin.",
+      "originalTitle": "Chcą być liderem w górnictwie. Sąsiad Polski ma ambitne plany",
+      "originalDescription": "Rząd Szwecji usprawni wydawanie pozwoleń na wydobycie surowców naturalnych - zapowiedziała tamtejsza minister do spraw energii i gospodarki Ebba Busch. Skandynawski kraj aspiruje do miana lidera w górnictwie, jednocześnie uniezależnienia Europy od Chin w kwestii dostępu do kopalin."
+    },
+    {
+      "title": "Gdzie jest burza? Tu wciąż się błyska",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-czwartek-23-07-grzmi-w-wielu-miejscach-kraju-st9155084?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 07:55:34 GMT",
+      "description": "Gdzie jest burza? W czwartek 23.07 grzmi. Wyładowaniom towarzyszą opady deszczu i silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu wciąż się błyska",
+      "originalDescription": "Gdzie jest burza? W czwartek 23.07 grzmi. Wyładowaniom towarzyszą opady deszczu i silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "PiS bez Mateusza Morawieckiego? Tobiasz Bocheński: bardzo prawdopodobne",
+      "link": "https://tvn24.pl/polska/pis-bez-mateusza-morawieckiego-tobiasz-bochenski-bardzo-prawdopodobne-st9156391?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 18:34:18 GMT",
+      "description": "Może Mateusz Morawiecki w tym wszystkim się zagubił. Jest jeszcze kilka godzin na refleksję, na którą liczę - mówił w \"Faktach po Faktach\" w TVN24 europoseł PiS Tobiasz Bocheński. Ocenił, że wariant PiS-u bez Morawieckiego \"jest bardzo prawdopodobny\".",
+      "originalTitle": "PiS bez Mateusza Morawieckiego? Tobiasz Bocheński: bardzo prawdopodobne",
+      "originalDescription": "Może Mateusz Morawiecki w tym wszystkim się zagubił. Jest jeszcze kilka godzin na refleksję, na którą liczę - mówił w \"Faktach po Faktach\" w TVN24 europoseł PiS Tobiasz Bocheński. Ocenił, że wariant PiS-u bez Morawieckiego \"jest bardzo prawdopodobny\"."
+    },
+    {
+      "title": "Nie widzieli żadnych obrażeń. 19-letnia Oliwia po wypadku zmarła w szpitalu. Dlaczego?",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/reportaz-uwagi-tvn-19-letnia-oliwia-po-wypadku-nie-miala-zadnych-obrazen-zmarla-w-szpitalu-dlaczego-st9156359?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 18:21:48 GMT",
+      "description": "Oliwia z wypadku wyszła bez szwanku. Nie miała nawet zdrapania, siniaka, kompletnie nic. Chcemy, żeby winni ponieśli konsekwencje - mówią rodzice zmarłej 19-latki. Dlaczego Oliwii nie udało się uratować? Reportaż \"Uwagi!\" TVN.",
+      "originalTitle": "Nie widzieli żadnych obrażeń. 19-letnia Oliwia po wypadku zmarła w szpitalu. Dlaczego?",
+      "originalDescription": "Oliwia z wypadku wyszła bez szwanku. Nie miała nawet zdrapania, siniaka, kompletnie nic. Chcemy, żeby winni ponieśli konsekwencje - mówią rodzice zmarłej 19-latki. Dlaczego Oliwii nie udało się uratować? Reportaż \"Uwagi!\" TVN."
+    },
+    {
+      "title": "Rozłam w Prawie i Sprawiedliwości. Prezydent Karol Nawrocki komentuje",
+      "link": "https://tvn24.pl/polska/rozlam-w-prawie-i-sprawiedliwosci-prezydent-karol-nawrocki-komentuje-st9156356?source=rss",
+      "pubDate": "Thu, 23 Jul 2026 18:04:27 GMT",
+      "description": "Prezydent Karol Nawrocki spotkał się w czwartek z mieszkańcami Dębicy. Był pytany przez dziennikarzy, czy będzie próbował łagodzić konflikt w PiS.",
+      "originalTitle": "Rozłam w Prawie i Sprawiedliwości. Prezydent Karol Nawrocki komentuje",
+      "originalDescription": "Prezydent Karol Nawrocki spotkał się w czwartek z mieszkańcami Dębicy. Był pytany przez dziennikarzy, czy będzie próbował łagodzić konflikt w PiS."
+    }
+  ]
 }
