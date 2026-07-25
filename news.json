@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-25T04:42:24.837Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-25T07:16:19.874Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nagły zwrot w sprawie Żabki. Właściciel 7-Eleven tłumaczy decyzję",
+      "link": "https://tvn24.pl/biznes/handel/zwrot-w-sprawie-grupy-zabka-jest-oswiadczenie-japonskiego-wlasciciela-7-eleven-st9158206?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 06:59:37 GMT",
+      "description": "Japoński koncern detaliczny Seven & i Holdings wycofał się z planów inwestycji w Grupę Żabka. Powodem tej decyzji był brak porozumienia w kwestii warunków finansowych transakcji.",
+      "originalTitle": "Nagły zwrot w sprawie Żabki. Właściciel 7-Eleven tłumaczy decyzję",
+      "originalDescription": "Japoński koncern detaliczny Seven & i Holdings wycofał się z planów inwestycji w Grupę Żabka. Powodem tej decyzji był brak porozumienia w kwestii warunków finansowych transakcji."
+    },
+    {
+      "title": "Rumuński myśliwiec zestrzelił drona. \"Nieuprawnione wtargnięcie\"",
+      "link": "https://tvn24.pl/swiat/rumunia-dron-wtargnal-w-przestrzen-powietrzna-zostal-zestrzelony-przez-mysliwiec-f-16-st9158204?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 06:56:14 GMT",
+      "description": "F-16 należący do rumuńskich sił zbrojnych zestrzelił drona, który wtargnął w przestrzeń powietrzną kraju - poinformowało ministerstwo obrony. To drugi taki incydent w ciągu dwóch dni.",
+      "originalTitle": "Rumuński myśliwiec zestrzelił drona. \"Nieuprawnione wtargnięcie\"",
+      "originalDescription": "F-16 należący do rumuńskich sił zbrojnych zestrzelił drona, który wtargnął w przestrzeń powietrzną kraju - poinformowało ministerstwo obrony. To drugi taki incydent w ciągu dwóch dni."
+    },
+    {
+      "title": "Ciężarówka z naczepą leży na boku. Utrudnienia na wyjeździe z Warszawy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ciezarowka-z-naczepa-lezy-na-boku-utrudnienia-na-wyjezdzie-z-warszawy-st9158167?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 06:28:44 GMT",
+      "description": "W nocy z piątku na sobotę na trasie S8 przewróciła się ciężarówka z naczepą. Jezdnia w kierunku Poznania jest zablokowana.",
+      "originalTitle": "Ciężarówka z naczepą leży na boku. Utrudnienia na wyjeździe z Warszawy",
+      "originalDescription": "W nocy z piątku na sobotę na trasie S8 przewróciła się ciężarówka z naczepą. Jezdnia w kierunku Poznania jest zablokowana."
+    },
+    {
+      "title": "Pożary trawią Francję. \"Jestem przerażona\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-trawia-francje-ponad-100-tysiecy-ewakuowanych-jestem-przerazona-st9158137?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 06:24:55 GMT",
+      "description": "W południowo-zachodniej Francji trwają dwa duże pożary lasów. Strawiły już ponad 20 tysięcy hektarów i wymusiły ewakuację ponad 140 tysięcy osób. W walce z ogniem pomagają żołnierze.",
+      "originalTitle": "Pożary trawią Francję. \"Jestem przerażona\"",
+      "originalDescription": "W południowo-zachodniej Francji trwają dwa duże pożary lasów. Strawiły już ponad 20 tysięcy hektarów i wymusiły ewakuację ponad 140 tysięcy osób. W walce z ogniem pomagają żołnierze."
+    },
+    {
+      "title": "Rola Jacka Sasina w sporze w PiS. Ludzie Morawieckiego obwiniają go o rozłam w partii",
+      "link": "https://tvn24.pl/polska/rola-jacka-sasina-w-sporze-w-pis-ludzie-mateusza-morawieckiego-obwiniaja-go-o-rozlam-w-partii-st9158093?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 05:27:54 GMT",
+      "description": "Jacek Sasin wydaje się nie być główną postacią w tym rozłamowym konflikcie, ale to pozór. To on uczestniczył w czwartkowym spotkaniu Jarosława Kaczyńskiego z Mateuszem Morawieckim i odegrał ważną rolę w ostatnich wydarzeniach. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Rola Jacka Sasina w sporze w PiS. Ludzie Morawieckiego obwiniają go o rozłam w partii",
+      "originalDescription": "Jacek Sasin wydaje się nie być główną postacią w tym rozłamowym konflikcie, ale to pozór. To on uczestniczył w czwartkowym spotkaniu Jarosława Kaczyńskiego z Mateuszem Morawieckim i odegrał ważną rolę w ostatnich wydarzeniach. Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Nie odszedł. Wrócił. To jeszcze nie koniec trudności",
+      "link": "https://tvn24.pl/zdrowie/jak-pomoc-po-probie-samobojczej-radzi-ekspertka-st9156324?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 05:16:26 GMT",
+      "description": "Jeśli już dojdzie do samobójstwa, to mamy żałobę. Ale nie mamy sposobu, jak przyjąć osobę, która jest po próbie i wraca do nas. To jest bardzo trudne. My wiemy, że ona od nas odeszła, ale jednak los sprawił, że wróciła. I teraz jedna i druga strona nie wie, co z tym zrobić - przyznaje w rozmowie z TVN24+ dr Halszka Witkowska, suicydolog.",
+      "originalTitle": "Nie odszedł. Wrócił. To jeszcze nie koniec trudności",
+      "originalDescription": "Jeśli już dojdzie do samobójstwa, to mamy żałobę. Ale nie mamy sposobu, jak przyjąć osobę, która jest po próbie i wraca do nas. To jest bardzo trudne. My wiemy, że ona od nas odeszła, ale jednak los sprawił, że wróciła. I teraz jedna i druga strona nie wie, co z tym zrobić - przyznaje w rozmowie z TVN24+ dr Halszka Witkowska, suicydolog."
+    },
+    {
+      "title": "\"W takich okolicznościach jeszcze programu nie zaczynałam\". Urodziny TVN24 w Kielcach",
+      "link": "https://tvn24.pl/25-lat-TVN24/kielce-trasa-z-okazji-25-urodzin-tvn24-st9158110?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 05:03:16 GMT",
+      "description": "Kielce to kolejny przystanek na urodzinowej trasie TVN24. - W takich okolicznościach jeszcze programu nie zaczynałam - powiedziała prowadząca program \"Polska i Świat\" Marta Kuligowska. Gospodarze kieleckiego etapu urodzin zjechali na tyrolce, a następnie spróbowali swoich sił w łucznictwie.",
+      "originalTitle": "\"W takich okolicznościach jeszcze programu nie zaczynałam\". Urodziny TVN24 w Kielcach",
+      "originalDescription": "Kielce to kolejny przystanek na urodzinowej trasie TVN24. - W takich okolicznościach jeszcze programu nie zaczynałam - powiedziała prowadząca program \"Polska i Świat\" Marta Kuligowska. Gospodarze kieleckiego etapu urodzin zjechali na tyrolce, a następnie spróbowali swoich sił w łucznictwie."
+    },
+    {
+      "title": "Trzecia kadencja \"będzie jeszcze lepsza\". Trump żartował i krytykował dziennikarzy",
+      "link": "https://tvn24.pl/swiat/usa-odbyla-sie-gala-korespondentow-przy-bialym-domu-donald-trump-skrytykowal-dziennikarzy-st9158107?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 04:58:46 GMT",
+      "description": "W Waszyngtonie odbyła się przełożona po kwietniowej próbie ataku gala Stowarzyszenia Korespondentów przy Białym Domu (WHCA). Donald Trump wygłosił na niej przemówienie, w którym żartował z \"trzeciej kadencji\", atakował z nazwiska krytycznych dziennikarzy, chwalił Secret Service i kpił z Joe Bidena.",
+      "originalTitle": "Trzecia kadencja \"będzie jeszcze lepsza\". Trump żartował i krytykował dziennikarzy",
+      "originalDescription": "W Waszyngtonie odbyła się przełożona po kwietniowej próbie ataku gala Stowarzyszenia Korespondentów przy Białym Domu (WHCA). Donald Trump wygłosił na niej przemówienie, w którym żartował z \"trzeciej kadencji\", atakował z nazwiska krytycznych dziennikarzy, chwalił Secret Service i kpił z Joe Bidena."
+    },
+    {
+      "title": "Burzowo i upalnie. Tutaj planuje ostrzegać IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-i-upal-prognoza-zagrozen-imgw-na-niedziele-i-poniedzialek-26-27-07-st9158121?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 04:50:20 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej opublikował prognozę zagrożeń na kolejne dni. Wynika z niej, że w niedzielę i poniedziałek możemy spodziewać się burz w wielu rejonach kraju. Poza tym jednego dnia miejscami zrobi się upalnie.",
+      "originalTitle": "Burzowo i upalnie. Tutaj planuje ostrzegać IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej opublikował prognozę zagrożeń na kolejne dni. Wynika z niej, że w niedzielę i poniedziałek możemy spodziewać się burz w wielu rejonach kraju. Poza tym jednego dnia miejscami zrobi się upalnie."
+    },
+    {
+      "title": "Rozłam w PiS, pożary w Hiszpanii i Francji, decyzje Nawrockiego w sprawie ustaw",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-sobote-25-lipca-najwazniejsze-informacje-st9158106?source=rss",
+      "pubDate": "Sat, 25 Jul 2026 04:16:55 GMT",
+      "description": "Ponad 40 polityków Prawa i Sprawiedliwości związanych z Mateuszem Morawieckim opuściło partię. Hiszpańscy i francuscy strażacy walczą z wielkimi pożarami. Prezydent Karol Nawrocki podpisał ustawę łańcuchową i skierował do Trybunału Konstytucyjnego ustawę o podatku od nadzwyczajnych zysków firm. Oto pięć rzeczy, które warto wiedzieć w sobotę 25 lipca.",
+      "originalTitle": "Rozłam w PiS, pożary w Hiszpanii i Francji, decyzje Nawrockiego w sprawie ustaw",
+      "originalDescription": "Ponad 40 polityków Prawa i Sprawiedliwości związanych z Mateuszem Morawieckim opuściło partię. Hiszpańscy i francuscy strażacy walczą z wielkimi pożarami. Prezydent Karol Nawrocki podpisał ustawę łańcuchową i skierował do Trybunału Konstytucyjnego ustawę o podatku od nadzwyczajnych zysków firm. Oto pięć rzeczy, które warto wiedzieć w sobotę 25 lipca."
+    }
+  ]
 }
