@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-26T06:05:11.019Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-26T08:56:56.895Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kłęby dymu nad Mokotowem",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-pozar-przy-raclawickiej-co-sie-palilo-na-mokotowie-st9159278?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 08:25:47 GMT",
+      "description": "W sobotę wieczorem na Mokotowie spłonął pustostan. Nikt nie został poszkodowany. Pożar wywołał duże zadymienie, widoczne z różnych części miasta.",
+      "originalTitle": "Kłęby dymu nad Mokotowem",
+      "originalDescription": "W sobotę wieczorem na Mokotowie spłonął pustostan. Nikt nie został poszkodowany. Pożar wywołał duże zadymienie, widoczne z różnych części miasta."
+    },
+    {
+      "title": "Wołodymyr Zełenski: rosyjskie zdjęcia satelitarne trafiają do Iranu",
+      "link": "https://tvn24.pl/swiat/wolodymyr-zelenski-rosja-przekazuje-iranowi-zdjecia-satelitarne-krajow-zatoki-perskiej-st9159138?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 08:21:40 GMT",
+      "description": "Ukraiński wywiad odnotował, że Rosja przekazała Iranowi dane z obserwacji satelitarnych na Bliskim Wschodzie - poinformował prezydent Wołodymyr Zełenski. Ma to umożliwiać Teheranowi przeprowadzanie uderzeń w regionie.",
+      "originalTitle": "Wołodymyr Zełenski: rosyjskie zdjęcia satelitarne trafiają do Iranu",
+      "originalDescription": "Ukraiński wywiad odnotował, że Rosja przekazała Iranowi dane z obserwacji satelitarnych na Bliskim Wschodzie - poinformował prezydent Wołodymyr Zełenski. Ma to umożliwiać Teheranowi przeprowadzanie uderzeń w regionie."
+    },
+    {
+      "title": "Uderzył w stos drewna, dachował, nie przeżył",
+      "link": "https://tvn24.pl/lublin/borowica-uderzyl-w-stos-drewna-i-dachowal-nie-przezyl-st9159293?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 08:18:41 GMT",
+      "description": "Tragiczny wypadek w Borowicy (Lubelskie). Kierujący samochodem osobowym 34-latek zjechał z drogi, uderzył w stos drewna i dachował. Pomimo podjętej reanimacji kierowca nie przeżył.",
+      "originalTitle": "Uderzył w stos drewna, dachował, nie przeżył",
+      "originalDescription": "Tragiczny wypadek w Borowicy (Lubelskie). Kierujący samochodem osobowym 34-latek zjechał z drogi, uderzył w stos drewna i dachował. Pomimo podjętej reanimacji kierowca nie przeżył."
+    },
+    {
+      "title": "Wyprzedził policjantów rowerem na podwójnej ciągłej",
+      "link": "https://tvn24.pl/wroclaw/gora-wyprzedzil-policjantow-rowerem-na-podwojnej-ciaglej-st9158855?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 08:00:42 GMT",
+      "description": "Na jednej z głównych ulic dolnośląskiej Góry, mężczyzna wyprzedził elektrycznym rowerem nieoznakowany radiowóz na podwójnej ciągłej.",
+      "originalTitle": "Wyprzedził policjantów rowerem na podwójnej ciągłej",
+      "originalDescription": "Na jednej z głównych ulic dolnośląskiej Góry, mężczyzna wyprzedził elektrycznym rowerem nieoznakowany radiowóz na podwójnej ciągłej."
+    },
+    {
+      "title": "Za 22-latką wydano list gończy. Kiedy ją znaleźli, przekonywała, że to nie ona",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-zatrzymali-22-latka-poszukiwana-listem-gonczym-st9158899?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 07:54:37 GMT",
+      "description": "Policjanci z podwarszawskiego Piaseczna natrafili na trop poszukiwanej listem gończym 22-latki skazanej za kradzież. Złożyli jej wizytę. W mieszkaniu znaleźli narkotyki.",
+      "originalTitle": "Za 22-latką wydano list gończy. Kiedy ją znaleźli, przekonywała, że to nie ona",
+      "originalDescription": "Policjanci z podwarszawskiego Piaseczna natrafili na trop poszukiwanej listem gończym 22-latki skazanej za kradzież. Złożyli jej wizytę. W mieszkaniu znaleźli narkotyki."
+    },
+    {
+      "title": "Kolejny rosyjski atak na Kijów. Pożary w kilku dzielnicach",
+      "link": "https://tvn24.pl/swiat/ukraina-kolejny-rosyjski-atak-na-kijow-pozary-w-kilku-dzielnicach-st9159181?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 04:51:04 GMT",
+      "description": "Rosja ostrzelała w nocy z soboty na niedzielę Kijów - poinformowały władze miasta. W kilku dzielnicach wybuchły pożary. Atak skomentował wicepremier Polski Władysław Kosiniak-Kamysz.",
+      "originalTitle": "Kolejny rosyjski atak na Kijów. Pożary w kilku dzielnicach",
+      "originalDescription": "Rosja ostrzelała w nocy z soboty na niedzielę Kijów - poinformowały władze miasta. W kilku dzielnicach wybuchły pożary. Atak skomentował wicepremier Polski Władysław Kosiniak-Kamysz."
+    },
+    {
+      "title": "Francja. Pożar w Żyrondzie postępuje. W nocy odbyły się kolejne ewakuacje",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/francja-pozar-w-zyrondzie-postepuje-w-nocy-odbyly-sie-kolejne-ewakuacje-st9159254?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 07:48:19 GMT",
+      "description": "Pożar we francuskiej Żyrondzie postępuje. W nocy władze ewakuowały kolejne dziesiątki tysięcy mieszkańców miejscowości, do których zbliża się ogień. W opanowaniu żywiołu pomagają mieszkańcy sąsiednich departamentów.",
+      "originalTitle": "Francja. Pożar w Żyrondzie postępuje. W nocy odbyły się kolejne ewakuacje",
+      "originalDescription": "Pożar we francuskiej Żyrondzie postępuje. W nocy władze ewakuowały kolejne dziesiątki tysięcy mieszkańców miejscowości, do których zbliża się ogień. W opanowaniu żywiołu pomagają mieszkańcy sąsiednich departamentów."
+    },
+    {
+      "title": "Sześciolatka zgubiła się w Sopocie. O pomoc poprosiła policjantów",
+      "link": "https://tvn24.pl/trojmiasto/sopot-zagubiona-szesciolatka-poprosila-o-pomoc-policjantow-st9159162?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 07:41:13 GMT",
+      "description": "Sześcioletnia dziewczynka zgubiła się w Sopocie po tym, jak oddaliła się od rodziców podczas zabawy. Gdy niedługo później spotkała patrolujących okolicę policjantów, nie spanikowała i oświadczyła funkcjonariuszom, że to właśnie ich szukała. Materiał Marzanny Zielińskiej dla \"Faktów\" TVN.",
+      "originalTitle": "Sześciolatka zgubiła się w Sopocie. O pomoc poprosiła policjantów",
+      "originalDescription": "Sześcioletnia dziewczynka zgubiła się w Sopocie po tym, jak oddaliła się od rodziców podczas zabawy. Gdy niedługo później spotkała patrolujących okolicę policjantów, nie spanikowała i oświadczyła funkcjonariuszom, że to właśnie ich szukała. Materiał Marzanny Zielińskiej dla \"Faktów\" TVN."
+    },
+    {
+      "title": "\"Spodnie śmierci\". Jak groźne mogą być?",
+      "link": "https://tvn24.pl/polska/dlugie-i-szerokie-nogawki-przyczyna-wypadkow-modne-spodnie-powoduja-upadki-i-kontuzje-st9159166?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 07:33:25 GMT",
+      "description": "Coraz więcej kobiet skarży się na popularne spodnie z bardzo długimi i szerokimi nogawkami. Jak relacjonują, modny fason często prowadzi do upadków i urazów. Ich relacje potwierdzają lekarze. Materiał \"Faktów\" TVN.",
+      "originalTitle": "\"Spodnie śmierci\". Jak groźne mogą być?",
+      "originalDescription": "Coraz więcej kobiet skarży się na popularne spodnie z bardzo długimi i szerokimi nogawkami. Jak relacjonują, modny fason często prowadzi do upadków i urazów. Ich relacje potwierdzają lekarze. Materiał \"Faktów\" TVN."
+    },
+    {
+      "title": "Tak pracują Europejczycy. Polska poniżej średniej",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/praca-tak-dlugo-pracuja-europejczycy-polska-ponizej-sredniej-st9159266?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 07:26:58 GMT",
+      "description": "Osoba, która w 2025 roku ukończy 15 lat, spędzi na rynku pracy w Polsce średnio 36 lat - podał Polski Instytut Ekonomiczny. To siódmy najniższy wynik wśród krajów Unii Europejskiej.",
+      "originalTitle": "Tak pracują Europejczycy. Polska poniżej średniej",
+      "originalDescription": "Osoba, która w 2025 roku ukończy 15 lat, spędzi na rynku pracy w Polsce średnio 36 lat - podał Polski Instytut Ekonomiczny. To siódmy najniższy wynik wśród krajów Unii Europejskiej."
+    }
+  ]
 }
