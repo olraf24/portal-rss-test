@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-26T23:28:27.384Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-27T01:11:24.598Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Jarosław Kaczyński \"bardzo niezadowolony\" ze słów Jacka Kurskiego. \"Ma być rozmowa i zakaz\"",
+      "link": "https://tvn24.pl/polska/ma-byc-zakaz-dla-jacka-kurskiego-jaroslaw-kaczynski-bardzo-niezadowolony-z-jego-slow-st9160005?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 19:55:14 GMT",
+      "description": "Jarosław Kaczyński jest bardzo niezadowolony ze słów Jacka Kurskiego o Mateuszu Morawieckim - wynika z informacji naszych dziennikarzy, które przekazali w programie \"W kuluarach\". - Ma być rozmowa i ma być nałożony zakaz dla Kurskiego na wypowiedzi medialne - powiedział Bartłomiej Ślak.",
+      "originalTitle": "Jarosław Kaczyński \"bardzo niezadowolony\" ze słów Jacka Kurskiego. \"Ma być rozmowa i zakaz\"",
+      "originalDescription": "Jarosław Kaczyński jest bardzo niezadowolony ze słów Jacka Kurskiego o Mateuszu Morawieckim - wynika z informacji naszych dziennikarzy, które przekazali w programie \"W kuluarach\". - Ma być rozmowa i ma być nałożony zakaz dla Kurskiego na wypowiedzi medialne - powiedział Bartłomiej Ślak."
+    },
+    {
+      "title": "Francja walczy w pożarami. \"Jesteśmy jak Dawid przeciwko Goliatowi\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/francja-walczy-w-pozarami-jestesmy-jak-dawid-przeciwko-goliatowi-st9159254?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 07:48:19 GMT",
+      "description": "Ogień szaleje w departamencie Żyronda na południowym zachodzie Francji. Żywioł pozostaje nieprzewidywalny i trudny do opanowania. Strażacy koncentrują się na ochronie domów, licząc na pojawienie się w pożarze słabego punktu.",
+      "originalTitle": "Francja walczy w pożarami. \"Jesteśmy jak Dawid przeciwko Goliatowi\"",
+      "originalDescription": "Ogień szaleje w departamencie Żyronda na południowym zachodzie Francji. Żywioł pozostaje nieprzewidywalny i trudny do opanowania. Strażacy koncentrują się na ochronie domów, licząc na pojawienie się w pożarze słabego punktu."
+    },
+    {
+      "title": "\"Po raz pierwszy w życiu widzę czarny alarm\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/po-raz-pierwszy-w-zyciu-widze-czarny-alarm-st9159930?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 19:36:47 GMT",
+      "description": "Francja zmaga się z pożarami. Do redakcji Kontaktu24 zgłosił się pan Paweł, który od kilkunastu lat mieszka w Arcachon we Francji i bierze udział w ewakuacji mieszkańców z półwyspu Cap Ferret.",
+      "originalTitle": "\"Po raz pierwszy w życiu widzę czarny alarm\"",
+      "originalDescription": "Francja zmaga się z pożarami. Do redakcji Kontaktu24 zgłosił się pan Paweł, który od kilkunastu lat mieszka w Arcachon we Francji i bierze udział w ewakuacji mieszkańców z półwyspu Cap Ferret."
+    },
+    {
+      "title": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-niedziela-26-07-radar-opadow-i-mapa-burz-na-zywo-st9159951?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 16:00:05 GMT",
+      "description": "Gdzie jest burza? W niedzielę 26.07 nad Polską pojawiają się burze. Wyładowaniom towarzyszą opady deszczu i silniejsze porywy wiatru. Aktualną sytuację pogodową relacjonujemy w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Wieczór głośny od grzmotów",
+      "originalDescription": "Gdzie jest burza? W niedzielę 26.07 nad Polską pojawiają się burze. Wyładowaniom towarzyszą opady deszczu i silniejsze porywy wiatru. Aktualną sytuację pogodową relacjonujemy w tvnmeteo.pl."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Tu noc może być groźna",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-w-polsce-ostrzezenia-imgw-w-niedziele-26-07-i-w-poniedzialek-27-07-tutaj-bedzie-groznie-st9158847?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 04:27:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami, którym towarzyszyć będą obfite opady deszczu i silny wiatr. Sprawdź, gdzie należy uważać.",
+      "originalTitle": "Ostrzeżenia IMGW. Tu noc może być groźna",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed burzami, którym towarzyszyć będą obfite opady deszczu i silny wiatr. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "Wypadek przy wyprzedzaniu. Trzy osoby w ciężkim stanie, wśród nich dziecko",
+      "link": "https://tvn24.pl/krakow/kliszow-wypadek-przy-wyprzedzaniu-trzy-osoby-w-ciezkim-stanie-wsrod-nich-dziecko-st9160003?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 18:57:11 GMT",
+      "description": "Pięć osób zostało poszkodowanych w wypadku, do którego doszło na DK78 w miejscowości Kliszów w województwie świętokrzyskim. Trzy z nich w stanie ciężkim trafiły do szpitala. Według wstępnych ustaleń do zdarzenia doszło podczas manewru wyprzedzania.",
+      "originalTitle": "Wypadek przy wyprzedzaniu. Trzy osoby w ciężkim stanie, wśród nich dziecko",
+      "originalDescription": "Pięć osób zostało poszkodowanych w wypadku, do którego doszło na DK78 w miejscowości Kliszów w województwie świętokrzyskim. Trzy z nich w stanie ciężkim trafiły do szpitala. Według wstępnych ustaleń do zdarzenia doszło podczas manewru wyprzedzania."
+    },
+    {
+      "title": "Karol Karski o słowach Jacka Kurskiego. \"Emocje powinny być wygaszone\"",
+      "link": "https://tvn24.pl/polska/burza-w-pis-karol-karski-o-slowach-jacka-kurskiego-st9159996?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 18:53:39 GMT",
+      "description": "Rzecznik dyscyplinarny PiS Karol Karski był gościem \"Faktów po Faktach\" TVN24. - W obu kierunkach pada wiele sformułowań, których nie powinno być - ocenił, komentując rozłam w PiS. Przyznał, że jednym z takich \"stwierdzeń\" są słowa Jacka Kurskiego pod adresem Mateusza Morawieckiego. Zdradził też, co \"swojego czasu\" Morawiecki miał powiedzieć Jarosławowi Kaczyńskiemu.",
+      "originalTitle": "Karol Karski o słowach Jacka Kurskiego. \"Emocje powinny być wygaszone\"",
+      "originalDescription": "Rzecznik dyscyplinarny PiS Karol Karski był gościem \"Faktów po Faktach\" TVN24. - W obu kierunkach pada wiele sformułowań, których nie powinno być - ocenił, komentując rozłam w PiS. Przyznał, że jednym z takich \"stwierdzeń\" są słowa Jacka Kurskiego pod adresem Mateusza Morawieckiego. Zdradził też, co \"swojego czasu\" Morawiecki miał powiedzieć Jarosławowi Kaczyńskiemu."
+    },
+    {
+      "title": "Jego historia poruszyła serca ludzi z całego świata, teraz ma powód do świętowania",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/japonia-makak-punch-jego-historia-poruszyla-serca-ludzi-z-calego-swiata-teraz-ma-powod-do-swietowania-st9159870?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 18:21:08 GMT",
+      "description": "Historia osieroconego makaka z japońskiego zoo, któremu pluszowy orangutan zastępował mamę, poruszyła ludzi na całym świecie. Zwierzak o imieniu Punch stał się gwiazdą, a teraz ma prawdziwy powód do tego, by świętować.",
+      "originalTitle": "Jego historia poruszyła serca ludzi z całego świata, teraz ma powód do świętowania",
+      "originalDescription": "Historia osieroconego makaka z japońskiego zoo, któremu pluszowy orangutan zastępował mamę, poruszyła ludzi na całym świecie. Zwierzak o imieniu Punch stał się gwiazdą, a teraz ma prawdziwy powód do tego, by świętować."
+    },
+    {
+      "title": "Domniemany sprawca ataku w Berlinie zastrzelony",
+      "link": "https://tvn24.pl/swiat/niemcy-podejrzany-o-zamach-w-berlinie-zastrzelony-st9159968?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 17:14:50 GMT",
+      "description": "Domniemany sprawca ataku podczas berlińskiej parady równości został zastrzelony - potwierdziła policja. Miał się on rzucić na funkcjonariuszy z bronią białą.",
+      "originalTitle": "Domniemany sprawca ataku w Berlinie zastrzelony",
+      "originalDescription": "Domniemany sprawca ataku podczas berlińskiej parady równości został zastrzelony - potwierdziła policja. Miał się on rzucić na funkcjonariuszy z bronią białą."
+    },
+    {
+      "title": "Hiszpania wciąż walczy z ogniem. \"Jesteśmy całkowicie otoczeni\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-hiszpania-wciaz-walczy-z-ogniem-jestesmy-calkowicie-otoczeni-st9159929?source=rss",
+      "pubDate": "Sun, 26 Jul 2026 15:16:45 GMT",
+      "description": "Hiszpańscy strażacy walczą z pożarami, które szaleją w części kraju. Gaszenie ognia utrudniają wysoka temperatura powietrza i silny wiatr. Żywioł zmusił do ewakuacji ponad 120 tysięcy osób.",
+      "originalTitle": "Hiszpania wciąż walczy z ogniem. \"Jesteśmy całkowicie otoczeni\"",
+      "originalDescription": "Hiszpańscy strażacy walczą z pożarami, które szaleją w części kraju. Gaszenie ognia utrudniają wysoka temperatura powietrza i silny wiatr. Żywioł zmusił do ewakuacji ponad 120 tysięcy osób."
+    }
+  ]
 }
