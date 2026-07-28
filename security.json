@@ -1,8 +1,38 @@
 {
-  "lastUpdate": "2026-07-28T04:08:29.707Z",
+  "lastUpdate": "2026-07-28T07:12:22.565Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Zełenski jedzie do Trumpa. Chce tarczy dla Ukrainy",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/zelenski-jedzie-do-trumpa-chce-tarczy-dla-ukrainy",
+      "pubDate": "Tue, 28 Jul 2026 08:58:19 +0200",
+      "description": "Prezydent Ukrainy Wołodymyr Zełenski oświadczył po przybyciu do Stanów Zjednoczonych we wtorek, że priorytetem w jego rozmowach z prezydentem Donaldem Trumpem będzie obrona przeciwrakietowa i strategiczna współpraca."
+    },
+    {
+      "title": "Freja najpóźniej do połowy 2027 roku",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/freja-najpozniej-do-polowy-2027-roku",
+      "pubDate": "Tue, 28 Jul 2026 07:59:44 +0200",
+      "description": "Ukraina oczekuje powstania prototypu europejskiego systemu antyrakietowego pod nazwą „Freja” najpóźniej do połowy 2027 roku – poinformował w poniedziałek Reuters, powołując się na rozmowy z przedstawicielami ukraińskich władz."
+    },
+    {
+      "title": "Wtorkowy przegląd mediów; Amerykańskie obietnice bez pokrycia; PGZ i BAE budują zaplecze amunicyjne",
+      "link": "https://defence24.pl/polityka-obronna/wtorkowy-przeglad-mediow-amerykanskie-obietnice-bez-pokrycia-pgz-i-bae-buduja-zaplecze-amunicyjne",
+      "pubDate": "Tue, 28 Jul 2026 07:23:17 +0200",
+      "description": "Codzienny przegląd mediów sektora bezpieczeństwa i obronności."
+    },
+    {
+      "title": "Dostaną broń laserową? Śmigłowce Marines do modernizacji",
+      "link": "https://defence24.pl/sily-zbrojne/dostana-bron-laserowa-smiglowce-marines-do-modernizacji",
+      "pubDate": "Tue, 28 Jul 2026 07:00:02 +0200",
+      "description": "Marynarka Wojenna podpisała z firmą Bell kontrakt na modernizację śmigłowców rodziny H-1 należących do Korpusu Piechoty Morskiej. Ma ona umożliwić wykorzystywanie przez te platformy nowych typów uzbrojenia i sensorów."
+    },
+    {
+      "title": "Systemy przeciwlotnicze dla Kuwejtu. Jest zgoda USA",
+      "link": "https://defence24.pl/sily-zbrojne/systemy-przeciwlotnicze-dla-kuwejtu-jest-zgoda-usa",
+      "pubDate": "Tue, 28 Jul 2026 06:30:02 +0200",
+      "description": "Kuwejt w ostatnich miesiącach podpisał umowy o wartości ponad 1,4 mld USD na dostawy systemów przeciwlotniczych NASAMS. Ich produkcja oraz dostawy realizowane będą we współpracy z USA."
+    },
     {
       "title": "Bundeswehra wzmacnia logistykę. Nawet 70 ton ładowności",
       "link": "https://defence24.pl/przemysl/bundeswehra-wzmacnia-logistyke-nawet-70-ton-ladownosci",
@@ -62,36 +92,6 @@
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ukrainskie-drony-zaatakowaly-port-w-rostowie-nad-donem",
       "pubDate": "Mon, 27 Jul 2026 14:45:24 +0200",
       "description": "W nocy z niedzieli na poniedziałek Siły Zbrojne Ukrainy przeprowadziły atak na port w Rostowie nad Donem w Rosji. Uderzenie objęło terminal eksportowy położony około 250 km od linii frontu, a także cele naftowe w obwodzie jarosławskim oraz w Republice Udmurckiej, oddalone o około 1300 km od granic Ukrainy."
-    },
-    {
-      "title": "Kolejne naruszenie przestrzeni powietrznej Rumunii. F-16 poderwane do przechwycenia drona",
-      "link": "https://defence24.pl/polityka-obronna/kolejne-naruszenie-przestrzeni-powietrznej-rumunii-f-16-poderwane-do-przechwycenia-drona",
-      "pubDate": "Mon, 27 Jul 2026 14:10:02 +0200",
-      "description": "Rumuńskie siły powietrzne poderwały dwa myśliwce F-16 po wykryciu obiektu powietrznego, najprawdopodobniej drona, we wschodniej części przestrzeni powietrznej kraju, w rejonie Suliny. To kolejny incydent w serii naruszeń związanych z wojną na Ukrainie."
-    },
-    {
-      "title": "Niemiecki minister pochwalił się dostawą artylerii na Ukrainę. Są wątpliwości",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/niemiecki-minister-pochwalil-sie-dostawa-artylerii-na-ukraine-sa-watpliwosci",
-      "pubDate": "Mon, 27 Jul 2026 13:54:48 +0200",
-      "description": "Niemiecki minister obrony Boris Pistorius miał pośrednio potwierdzić dostarczenie na Ukrainę pierwszych armatohaubic RCH 155. Ciągle jednak brak oficjalnego oświadczenia w tej sprawie przez stronę niemiecką czy ukraińską, o materiale zdjęciowym nie wspominając."
-    },
-    {
-      "title": "Marynarka Wojenna będzie strzelać z Hawajów. Jedziemy na manewry RIMPAC",
-      "link": "https://defence24.pl/sily-zbrojne/marynarka-wojenna-bedzie-strzelac-z-hawajow-jedziemy-na-manewry-rimpac",
-      "pubDate": "Mon, 27 Jul 2026 13:30:03 +0200",
-      "description": "Manewry RIMPAC (Rim of the Pacific) to największe na świecie cykliczne międzynarodowe ćwiczenia morskie, organizowane co dwa lata na Hawajach przez Marynarkę Wojenną Stanów Zjednoczonych (US Navy). Za dwa lata prawdopodobnie weźmie w nich udział Polska Marynarka Wojenna, ale już w bojowej formie."
-    },
-    {
-      "title": "“Ciężki specnaz” z gąsienicowymi miotaczami ognia",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ciezki-specnaz-z-gasienicowymi-miotaczami-ognia",
-      "pubDate": "Mon, 27 Jul 2026 13:13:59 +0200",
-      "description": "W Rosji organizuje się ciężkie jednostki specjalne z miotaczami ognia TOS-1A, których głównym zadaniem ma być zwalczanie centrów dowodzenia dronami oraz obiektów ufortyfikowanych."
-    },
-    {
-      "title": "USA o rosyjskich stratach na Ukrainie. „Nawet 5 tysięcy tygodniowo”",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/usa-o-rosyjskich-stratach-na-ukrainie-nawet-5-tysiecy-tygodniowo",
-      "pubDate": "Mon, 27 Jul 2026 13:02:28 +0200",
-      "description": "Wojna rosyjsko-ukraińska przyniosła już ponad dwa miliony ofiar. Ostatnio swoje dane w sprawie rosyjskich strat podali również Amerykanie."
     }
   ]
 }
