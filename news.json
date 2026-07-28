@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-28T12:19:45.665Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-28T14:58:58.322Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Miliardy na polskie innowacje. Resort pokazuje liczby",
+      "link": "https://tvn24.pl/biznes/z-kraju/fundusz-wsparcia-technologii-krytycznych-miliardy-na-polskie-innowacje-resort-pokazuje-liczby-st9162844?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:51:53 GMT",
+      "description": "W ramach Funduszu Wsparcia Technologii Krytycznych podpisano do tej pory 32 umowy o łącznej wartości 1,33 miliarda złotych - przekazało Ministerstwo Funduszy i Polityki Regionalnej. Budżet funduszu wynosi w sumie 3,8 miliarda złotych.",
+      "originalTitle": "Miliardy na polskie innowacje. Resort pokazuje liczby",
+      "originalDescription": "W ramach Funduszu Wsparcia Technologii Krytycznych podpisano do tej pory 32 umowy o łącznej wartości 1,33 miliarda złotych - przekazało Ministerstwo Funduszy i Polityki Regionalnej. Budżet funduszu wynosi w sumie 3,8 miliarda złotych."
+    },
+    {
+      "title": "Trzęsienie ziemi w Japonii było odczuwalne także poza granicami kraju",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-japonii-bylo-odczuwalne-takze-w-korei-poludniowej-st9162854?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:45:04 GMT",
+      "description": "Silne wstrząsy związane z trzęsieniem ziemi w Japonii można było odczuć także poza granicami kraju, a dokładniej w Korei Południowej. Zjawisko nie spowodowało strat, ale wywołało spore zamieszanie wśród mieszkańców.",
+      "originalTitle": "Trzęsienie ziemi w Japonii było odczuwalne także poza granicami kraju",
+      "originalDescription": "Silne wstrząsy związane z trzęsieniem ziemi w Japonii można było odczuć także poza granicami kraju, a dokładniej w Korei Południowej. Zjawisko nie spowodowało strat, ale wywołało spore zamieszanie wśród mieszkańców."
+    },
+    {
+      "title": "Pobicie i znieważenie na tle narodowościowym. Zatrzymani usłyszeli zarzuty po ataku we Wrocławiu",
+      "link": "https://tvn24.pl/wroclaw/pobicie-i-zniewazenie-na-tle-narodowosciowym-zatrzymani-uslyszeli-zarzuty-po-ataku-we-wroclawiu-st9162255?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 10:54:26 GMT",
+      "description": "Mężczyźni zatrzymani po brutalnym pobiciu obywateli Ukrainy we Wrocławiu zostali doprowadzeni do prokuratury. Usłyszeli już zarzuty.",
+      "originalTitle": "Pobicie i znieważenie na tle narodowościowym. Zatrzymani usłyszeli zarzuty po ataku we Wrocławiu",
+      "originalDescription": "Mężczyźni zatrzymani po brutalnym pobiciu obywateli Ukrainy we Wrocławiu zostali doprowadzeni do prokuratury. Usłyszeli już zarzuty."
+    },
+    {
+      "title": "Kontrole bez zapowiedzi. NFZ o szykowanych zmianach",
+      "link": "https://tvn24.pl/zdrowie/kontrole-bez-zapowiedzi-nowe-kompetencje-nfz-zmiany-w-ochronie-zdrowia-st9162876?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:38:21 GMT",
+      "description": "Zmiany prawne przygotowane przez Ministerstwo Zdrowia poszerzają również kompetencje Narodowego Funduszu Zdrowia. NFZ będzie mógł kontrolować placówki medyczne bez wcześniejszej zapowiedzi. Także te prywatne.",
+      "originalTitle": "Kontrole bez zapowiedzi. NFZ o szykowanych zmianach",
+      "originalDescription": "Zmiany prawne przygotowane przez Ministerstwo Zdrowia poszerzają również kompetencje Narodowego Funduszu Zdrowia. NFZ będzie mógł kontrolować placówki medyczne bez wcześniejszej zapowiedzi. Także te prywatne."
+    },
+    {
+      "title": "Putin o podziale Ukrainy. Rzecznik rządu i polskie MSZ reagują",
+      "link": "https://tvn24.pl/polska/msz-i-rzecznik-rzadu-dementuja-slowa-wladimira-putina-prymitywna-dezinformacja-st9162846?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:37:02 GMT",
+      "description": "Wypowiedzi zbrodniarza, który jest ścigany przez międzynarodowe trybunały, nawet nie powinny być komentowane - powiedział rzecznik rządu Adam Szłapka, pytany o słowa Władimira Putina, jakoby Polska planowała zajęcie części terytorium Ukrainy. Oświadczenie w tej sprawie wydało też polskie MSZ.",
+      "originalTitle": "Putin o podziale Ukrainy. Rzecznik rządu i polskie MSZ reagują",
+      "originalDescription": "Wypowiedzi zbrodniarza, który jest ścigany przez międzynarodowe trybunały, nawet nie powinny być komentowane - powiedział rzecznik rządu Adam Szłapka, pytany o słowa Władimira Putina, jakoby Polska planowała zajęcie części terytorium Ukrainy. Oświadczenie w tej sprawie wydało też polskie MSZ."
+    },
+    {
+      "title": "Nagła wolta PiS. \"Moment jest oczywisty\"",
+      "link": "https://tvn24.pl/polska/marcin-ociepa-kandydat-pis-u-na-wicemarszalka-sejmu-kim-jest-st9161884?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:29:06 GMT",
+      "description": "Bezkonfliktowy, starający się nie zaogniać konfliktów, nie jest typem \"politycznego awanturnika\". Marcin Ociepa, którego PiS chce uczynić wicemarszałkiem Sejmu, znalazł się w samym centrum politycznego sporu, który lada moment ma się skończyć rozwodem.",
+      "originalTitle": "Nagła wolta PiS. \"Moment jest oczywisty\"",
+      "originalDescription": "Bezkonfliktowy, starający się nie zaogniać konfliktów, nie jest typem \"politycznego awanturnika\". Marcin Ociepa, którego PiS chce uczynić wicemarszałkiem Sejmu, znalazł się w samym centrum politycznego sporu, który lada moment ma się skończyć rozwodem."
+    },
+    {
+      "title": "Wkrótce posiedzenie Komitetu Politycznego PiS. Jakie decyzje w sprawie \"harcerzy\"? Relacja",
+      "link": "https://tvn24.pl/polska/rozlam-w-pis-komitet-polityczny-spotkanie-ludzi-stowarzyszenia-rozwoj-plus-mateusza-morawieckiego-relacja-na-zywo-st9162816?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:20:19 GMT",
+      "description": "Najpierw posiedzenie Komitetu Politycznego, a później spotkanie ekipy Mateusza Morawieckiego. Już wkrótce zapadną kluczowe decyzje w sprawie PiS i frakcji \"harcerzy\". Rozłam w największej partii opozycyjnej relacjonujemy na bieżąco w tvn24.pl.",
+      "originalTitle": "Wkrótce posiedzenie Komitetu Politycznego PiS. Jakie decyzje w sprawie \"harcerzy\"? Relacja",
+      "originalDescription": "Najpierw posiedzenie Komitetu Politycznego, a później spotkanie ekipy Mateusza Morawieckiego. Już wkrótce zapadną kluczowe decyzje w sprawie PiS i frakcji \"harcerzy\". Rozłam w największej partii opozycyjnej relacjonujemy na bieżąco w tvn24.pl."
+    },
+    {
+      "title": "Spotkanie Donalda Trumpa i Wołodymyra Zełenskiego w Białym Domu",
+      "link": "https://tvn24.pl/swiat/usa-donald-trump-i-wolodymyr-zelenski-spotkanie-w-bialym-domu-st9162830?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:16:55 GMT",
+      "description": "Prezydent USA Donald Trump spotkał się w Białym Domu z prezydentem Ukrainy Wołodymyrem Zełenskim. W spotkaniu nie przewidziano udziału mediów. Później odbędzie się też rozmowa Trumpa z premierem Izraela Benjaminem Netanjahu. Politycy przyjechali do stolicy USA, by pożegnać zmarłego niedawno senatora Lindseya Grahama.",
+      "originalTitle": "Spotkanie Donalda Trumpa i Wołodymyra Zełenskiego w Białym Domu",
+      "originalDescription": "Prezydent USA Donald Trump spotkał się w Białym Domu z prezydentem Ukrainy Wołodymyrem Zełenskim. W spotkaniu nie przewidziano udziału mediów. Później odbędzie się też rozmowa Trumpa z premierem Izraela Benjaminem Netanjahu. Politycy przyjechali do stolicy USA, by pożegnać zmarłego niedawno senatora Lindseya Grahama."
+    },
+    {
+      "title": "Trzęsienie ziemi w Japonii. \"W telefonach zaczął buczeć alarm, pociąg się zatrzymał\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-japonii-w-telefonach-zaczal-buczec-alarm-pociag-sie-zatrzymal-st9161781?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 08:06:54 GMT",
+      "description": "Trzęsienie ziemi o magnitudzie 7,1 nawiedziło Japonię. Wstrząsy wystąpiły w prefekturze Kumamoto na wyspie Kiusiu. Na Kontakt24 otrzymaliśmy relację internauty. Jego córka przebywa w rejonie epicentrum zdarzenia.",
+      "originalTitle": "Trzęsienie ziemi w Japonii. \"W telefonach zaczął buczeć alarm, pociąg się zatrzymał\"",
+      "originalDescription": "Trzęsienie ziemi o magnitudzie 7,1 nawiedziło Japonię. Wstrząsy wystąpiły w prefekturze Kumamoto na wyspie Kiusiu. Na Kontakt24 otrzymaliśmy relację internauty. Jego córka przebywa w rejonie epicentrum zdarzenia."
+    },
+    {
+      "title": "Redukcja tysięcy etatów. Visa zapowiada cięcia",
+      "link": "https://tvn24.pl/biznes/ze-swiata/visa-zwolnienia-grupowe-lider-rynku-platnosci-zapowiada-redukcje-tysiecy-etatow-st9162811?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 14:08:39 GMT",
+      "description": "Firma Visa planuje redukcję zatrudnienia o siedem procent, co oznacza zwolnienie 2600 osób - przekazał Bloomberg. Jedną z przyczyn redukcji jest sztuczna inteligencja.",
+      "originalTitle": "Redukcja tysięcy etatów. Visa zapowiada cięcia",
+      "originalDescription": "Firma Visa planuje redukcję zatrudnienia o siedem procent, co oznacza zwolnienie 2600 osób - przekazał Bloomberg. Jedną z przyczyn redukcji jest sztuczna inteligencja."
+    }
+  ]
 }
