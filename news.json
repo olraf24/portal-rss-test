@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-29T17:46:33.848Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-29T19:15:25.820Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Polak zmarł w słowackich Tatrach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/slowacja-polak-zmarl-w-tatrach-wysokich-st9164865?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 19:08:35 GMT",
+      "description": "Turysta z Polski zmarł na szlaku w słowackich Tatrach. Do wypadku doszło na szlaku w rejonie Rysów. Mężczyzna zasłabł, a mimo natychmiastowego rozpoczęcia resuscytacji nie udało się go uratować.",
+      "originalTitle": "Polak zmarł w słowackich Tatrach",
+      "originalDescription": "Turysta z Polski zmarł na szlaku w słowackich Tatrach. Do wypadku doszło na szlaku w rejonie Rysów. Mężczyzna zasłabł, a mimo natychmiastowego rozpoczęcia resuscytacji nie udało się go uratować."
+    },
+    {
+      "title": "Grzywna za użycie sztucznej inteligencji. Sąd ukarał adwokata",
+      "link": "https://tvn24.pl/biznes/tech/hiszpania-grzywna-za-uzycie-sztucznej-inteligencji-sad-ukaral-adwokata-st9164729?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 18:56:14 GMT",
+      "description": "Hiszpański adwokat został ukarany grzywną 840 euro (około 3630 złotych) przez sąd na Wyspach Kanaryjskich. W przedstawionym przez niego piśmie procesowym miały znajdować się cytaty z nieistniejących sentencji Sądu Najwyższego i Trybunału Konstytucyjnego - podała agencja EFE. Prawnikowi miała podpowiedzieć je sztuczna inteligencja.",
+      "originalTitle": "Grzywna za użycie sztucznej inteligencji. Sąd ukarał adwokata",
+      "originalDescription": "Hiszpański adwokat został ukarany grzywną 840 euro (około 3630 złotych) przez sąd na Wyspach Kanaryjskich. W przedstawionym przez niego piśmie procesowym miały znajdować się cytaty z nieistniejących sentencji Sądu Najwyższego i Trybunału Konstytucyjnego - podała agencja EFE. Prawnikowi miała podpowiedzieć je sztuczna inteligencja."
+    },
+    {
+      "title": "\"Umiera Piękno\". Nagrała płytę o Powstaniu Warszawskim, zaśpiewa ją w plenerze",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/umiera-piekno-nagrala-plyte-o-powstaniu-warszawskim-zaspiewa-ja-w-plenerze-st9164810?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 18:33:46 GMT",
+      "description": "Poezja Powstania Warszawskiego - utwory Anny Świrszczyńskiej, ks. Jana Twardowskiego, Krystyny Krahelskiej - znajdą się w programie koncertu pt. \"Umiera Piękno\" Agi Zaryan. Wydarzenie przypominające 82. rocznicę wybuchu Powstania Warszawskiego odbędzie się 2 sierpnia w Amfiteatrze Wolskiego Centrum Kultury.",
+      "originalTitle": "\"Umiera Piękno\". Nagrała płytę o Powstaniu Warszawskim, zaśpiewa ją w plenerze",
+      "originalDescription": "Poezja Powstania Warszawskiego - utwory Anny Świrszczyńskiej, ks. Jana Twardowskiego, Krystyny Krahelskiej - znajdą się w programie koncertu pt. \"Umiera Piękno\" Agi Zaryan. Wydarzenie przypominające 82. rocznicę wybuchu Powstania Warszawskiego odbędzie się 2 sierpnia w Amfiteatrze Wolskiego Centrum Kultury."
+    },
+    {
+      "title": "Marcin Horała o \"problemie w PiS\": nie ma miejsca dla Mateusza Morawieckiego, a jest dla Jacka Kurskiego",
+      "link": "https://tvn24.pl/polska/rozlam-w-pis-i-nowy-klub-parlamentarny-rozwoj-plus-marcin-horala-o-jacku-kurskim-i-mateuszu-morawieckim-st9164790?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 18:27:12 GMT",
+      "description": "Pewna grupa sączyła do ucha prezesa błędne tezy, które skończyły się złymi kalkulacjami - powiedział w \"Faktach po Faktach\" w TVN24 członek stowarzyszenia Rozwój Plus Marcin Horała. Jego zdaniem \"sztandarową\" osobą pod tym względem był Jacek Kurski.",
+      "originalTitle": "Marcin Horała o \"problemie w PiS\": nie ma miejsca dla Mateusza Morawieckiego, a jest dla Jacka Kurskiego",
+      "originalDescription": "Pewna grupa sączyła do ucha prezesa błędne tezy, które skończyły się złymi kalkulacjami - powiedział w \"Faktach po Faktach\" w TVN24 członek stowarzyszenia Rozwój Plus Marcin Horała. Jego zdaniem \"sztandarową\" osobą pod tym względem był Jacek Kurski."
+    },
+    {
+      "title": "Grecja walczy z ogniem. Zginęło dwóch strażaków",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozar-na-greckiej-wyspie-ewakuuja-mieszkancow-st9163345?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 06:53:14 GMT",
+      "description": "Dwóch strażaków zginęło podczas gaszenia pożaru na greckiej Krecie. Ogień szaleje w okolicach miasta Retimno, a z uwagi na jego szybkie rozprzestrzenianie się konieczna była ewakuacja mieszkańców sześciu miejscowości. Walka z ogniem prowadzona jest także w innych częściach Grecji.",
+      "originalTitle": "Grecja walczy z ogniem. Zginęło dwóch strażaków",
+      "originalDescription": "Dwóch strażaków zginęło podczas gaszenia pożaru na greckiej Krecie. Ogień szaleje w okolicach miasta Retimno, a z uwagi na jego szybkie rozprzestrzenianie się konieczna była ewakuacja mieszkańców sześciu miejscowości. Walka z ogniem prowadzona jest także w innych częściach Grecji."
+    },
+    {
+      "title": "Magdalena Sobkowiak-Czarnecka o Donalda Tuska i Wołodymyra Zełenskiego liderów. \"Zaczyna to wszystko wracać do normy\"",
+      "link": "https://tvn24.pl/polska/spotkanie-donalda-tuska-i-wolodymyra-zelenskiego-magdalena-sobkowiak-czarnecka-zaczyna-to-wszystko-wracac-do-normy-st9164668?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 18:12:04 GMT",
+      "description": "Mam nadzieję, że ten najtrudniejszy moment w relacjach polsko-ukraińskich mamy już za sobą - powiedziała w \"Tak jest\" w TVN24 Magdalena Sobkowiak-Czarnecka, komentując spotkanie Donalda Tuska i Wołodymyra Zełenskiego. Mówiła o propozycji rządu w sprawie produkcji pocisków do systemów Patriot na terenie Polski, a także \"kolejnych konkretnych krokach\" dotyczących stałej bazy USA w Polsce.",
+      "originalTitle": "Magdalena Sobkowiak-Czarnecka o Donalda Tuska i Wołodymyra Zełenskiego liderów. \"Zaczyna to wszystko wracać do normy\"",
+      "originalDescription": "Mam nadzieję, że ten najtrudniejszy moment w relacjach polsko-ukraińskich mamy już za sobą - powiedziała w \"Tak jest\" w TVN24 Magdalena Sobkowiak-Czarnecka, komentując spotkanie Donalda Tuska i Wołodymyra Zełenskiego. Mówiła o propozycji rządu w sprawie produkcji pocisków do systemów Patriot na terenie Polski, a także \"kolejnych konkretnych krokach\" dotyczących stałej bazy USA w Polsce."
+    },
+    {
+      "title": "Obrażali nastoletniego Ukraińca, zostali usunięci z pociągu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-obrazali-nastoletniego-ukrainca-zostali-usunieci-z-pociagu-st9164671?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 17:47:40 GMT",
+      "description": "W pociągu relacji Warszawa-Tłuszcz dwóch mężczyzn obrażało nastolatka z Ukrainy. W jego obronie stanęli kierownik pociągu i dwóch świadków zdarzenia. Agresorów stanowczo odprawiono na peron.",
+      "originalTitle": "Obrażali nastoletniego Ukraińca, zostali usunięci z pociągu",
+      "originalDescription": "W pociągu relacji Warszawa-Tłuszcz dwóch mężczyzn obrażało nastolatka z Ukrainy. W jego obronie stanęli kierownik pociągu i dwóch świadków zdarzenia. Agresorów stanowczo odprawiono na peron."
+    },
+    {
+      "title": "JSW walczy o przetrwanie. \"Jesteśmy w sytuacji bardzo trudnej\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/jastrzebska-spolka-weglowa-walczy-o-przetrwanie-boguslaw-oleksy-jestesmy-w-bardzo-trudnej-sytuacji-st9164767?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 17:45:49 GMT",
+      "description": "Jastrzębska Spółka Węglowa kontynuuje działania celem zachowania płynności - poinformował prezes Bogusław Oleksy. Dodał jednak, że do końca roku konieczne jest zasilenie spółki pożyczką w wysokości dwóch miliardów złotych. - Bez tego domknięcie finansowania jest niemożliwe - ocenił.",
+      "originalTitle": "JSW walczy o przetrwanie. \"Jesteśmy w sytuacji bardzo trudnej\"",
+      "originalDescription": "Jastrzębska Spółka Węglowa kontynuuje działania celem zachowania płynności - poinformował prezes Bogusław Oleksy. Dodał jednak, że do końca roku konieczne jest zasilenie spółki pożyczką w wysokości dwóch miliardów złotych. - Bez tego domknięcie finansowania jest niemożliwe - ocenił."
+    },
+    {
+      "title": "Ogień trawi Europę Zachodnią. Polscy strażacy będą wspierać Hiszpanów",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-w-europie-francja-hiszpania-od-wielu-dni-walcza-z-ogniem-idzie-kolejna-fala-upalow-st9163736?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 10:49:35 GMT",
+      "description": "Polscy strażacy od soboty będą wspierać strażaków z Hiszpanii w walce z pożarami. Kraj od wielu dni mierzy się z rozległymi, niebezpiecznymi ogniskami żywiołu. Trudna sytuacja panuje także we Francji - w departamencie Żyronda od wielu dni trwa walka z ogniem.",
+      "originalTitle": "Ogień trawi Europę Zachodnią. Polscy strażacy będą wspierać Hiszpanów",
+      "originalDescription": "Polscy strażacy od soboty będą wspierać strażaków z Hiszpanii w walce z pożarami. Kraj od wielu dni mierzy się z rozległymi, niebezpiecznymi ogniskami żywiołu. Trudna sytuacja panuje także we Francji - w departamencie Żyronda od wielu dni trwa walka z ogniem."
+    },
+    {
+      "title": "Czy Wielką Brytanię stać na obietnice nowego premiera? Są wątpliwości",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wielka-brytania-andy-burnham-czy-kraj-stac-na-obietnice-nowego-premiera-wazny-think-tank-ma-watpliwosci-st9164536?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 16:53:00 GMT",
+      "description": "Żeby wywiązać się z obietnic złożonych Brytyjczykom, nowy premier Andy Burnham będzie musiał albo podnieść podatki, albo ograniczyć wydatki państwa - przekazał portal BBC, powołując się na ustalenia Krajowego Instytutu Badań Gospodarczych i Społecznych (NIESR).",
+      "originalTitle": "Czy Wielką Brytanię stać na obietnice nowego premiera? Są wątpliwości",
+      "originalDescription": "Żeby wywiązać się z obietnic złożonych Brytyjczykom, nowy premier Andy Burnham będzie musiał albo podnieść podatki, albo ograniczyć wydatki państwa - przekazał portal BBC, powołując się na ustalenia Krajowego Instytutu Badań Gospodarczych i Społecznych (NIESR)."
+    }
+  ]
 }
