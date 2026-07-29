@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-29T06:13:20.731Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-29T09:21:21.031Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nie żyje Kavinsky. Słynny francuski DJ miał 50 lat",
+      "link": "https://tvn24.pl/kultura-i-styl/kavinsky-nie-zyje-slynny-francuski-dj-mial-50-lat-st9163729?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 09:13:55 GMT",
+      "description": "Nie żyje Kavinsky - informują media. Ciało artysty, który sławę zyskał dzięki piosence \"Nightcall\", znaleziono we wtorek w jego domu. Słynny francuski DJ miał 50 lat.",
+      "originalTitle": "Nie żyje Kavinsky. Słynny francuski DJ miał 50 lat",
+      "originalDescription": "Nie żyje Kavinsky - informują media. Ciało artysty, który sławę zyskał dzięki piosence \"Nightcall\", znaleziono we wtorek w jego domu. Słynny francuski DJ miał 50 lat."
+    },
+    {
+      "title": "Rozłam w PiS. Mateusz Morawiecki zakłada nowy klub",
+      "link": "https://tvn24.pl/polska/rozlam-w-pis-zaskakujacy-zwrot-mateusz-morawiecki-zaklada-nowy-klub-relacja-na-zywo-st9163263?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 05:13:52 GMT",
+      "description": "Rozłam w PiS przybrał nieoczekiwany obrót. Komitet Polityczny jednak nie usunął z partii Mateusza Morawieckiego i jego ludzi, a zamiast tego skierował ich sprawy do rzecznika dyscyplinarnego. Mateusz Morawiecki ogłosił, że stworzy nowy klub parlamentarny. Śledź naszą relację na żywo w tvn24.pl.",
+      "originalTitle": "Rozłam w PiS. Mateusz Morawiecki zakłada nowy klub",
+      "originalDescription": "Rozłam w PiS przybrał nieoczekiwany obrót. Komitet Polityczny jednak nie usunął z partii Mateusza Morawieckiego i jego ludzi, a zamiast tego skierował ich sprawy do rzecznika dyscyplinarnego. Mateusz Morawiecki ogłosił, że stworzy nowy klub parlamentarny. Śledź naszą relację na żywo w tvn24.pl."
+    },
+    {
+      "title": "\"Jarku, ty już...\". Co Morawiecki powiedział Kaczyńskiemu?",
+      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-i-mateusz-morawiecki-co-byly-premier-powiedzial-prezesowi-przed-rozlamem-pis-st9163563?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 09:05:09 GMT",
+      "description": "Jarosław Kaczyński we wtorek zrelacjonował politykom swojej partii rozmowy z Mateuszem Morawieckim z ostatnich kilku miesięcy - wynika z informacji autorów \"Podcastu politycznego\". Prezes PiS miał przedstawić Morawieckiego jako \"emocjonalnego, niepanującego nad nerwami\". Były premier do Kaczyńskiego miał za to skierować słowa, które nie zostały zbyt dobrze odebrane.",
+      "originalTitle": "\"Jarku, ty już...\". Co Morawiecki powiedział Kaczyńskiemu?",
+      "originalDescription": "Jarosław Kaczyński we wtorek zrelacjonował politykom swojej partii rozmowy z Mateuszem Morawieckim z ostatnich kilku miesięcy - wynika z informacji autorów \"Podcastu politycznego\". Prezes PiS miał przedstawić Morawieckiego jako \"emocjonalnego, niepanującego nad nerwami\". Były premier do Kaczyńskiego miał za to skierować słowa, które nie zostały zbyt dobrze odebrane."
+    },
+    {
+      "title": "Tragedia na pasach. Z ogromną prędkością wjechał w pieszego i uciekł. Nagranie",
+      "link": "https://tvn24.pl/bialystok/suwalki-tragedia-na-pasach-kierowca-uciekl-apel-policji-st9161618?source=rss",
+      "pubDate": "Tue, 28 Jul 2026 06:06:28 GMT",
+      "description": "Śmiertelny wypadek na przejściu dla pieszych w Suwałkach. 31-letni mężczyzna został potrącony przez samochód osobowy. Kierowca uciekł, ale został już zidentyfikowany. szuka go policja.",
+      "originalTitle": "Tragedia na pasach. Z ogromną prędkością wjechał w pieszego i uciekł. Nagranie",
+      "originalDescription": "Śmiertelny wypadek na przejściu dla pieszych w Suwałkach. 31-letni mężczyzna został potrącony przez samochód osobowy. Kierowca uciekł, ale został już zidentyfikowany. szuka go policja."
+    },
+    {
+      "title": "\"Powiedzą, że to zamach\" na Trumpa? Nie powiedzą",
+      "link": "https://konkret24.tvn24.pl/swiat/powiedza-ze-to-zamach-na-trumpa-nie-powiedza-st9162401?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:48:30 GMT",
+      "description": "Miliony wyświetleń ma wideo, które miałoby przedstawiać moment upadku Donalda Trumpa przy wsiadaniu do samochodu. Internauci uznali je za dowód na pogarszającą się kondycję prezydenta USA. Sprawdziliśmy, co naprawdę pokazuje nagranie.",
+      "originalTitle": "\"Powiedzą, że to zamach\" na Trumpa? Nie powiedzą",
+      "originalDescription": "Miliony wyświetleń ma wideo, które miałoby przedstawiać moment upadku Donalda Trumpa przy wsiadaniu do samochodu. Internauci uznali je za dowód na pogarszającą się kondycję prezydenta USA. Sprawdziliśmy, co naprawdę pokazuje nagranie."
+    },
+    {
+      "title": "Mikrosen za kierownicą. Skutek zmęczenia czy objaw choroby?",
+      "link": "https://tvn24.pl/zdrowie/mikrosen-podczas-jazdy-kiedy-zmeczenie-moze-oznaczac-chorobe-st9162847?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:46:36 GMT",
+      "description": "Stanowi poważne zagrożenie szczególnie podczas prowadzenia samochodu. Choć mikrosen może być skutkiem zwykłego przemęczenia, bywa również objawem chorób metabolicznych, neurologicznych lub ogólnoustrojowych. Specjalista wyjaśnia, na co zwrócić uwagę i kiedy zgłosić się do lekarza.",
+      "originalTitle": "Mikrosen za kierownicą. Skutek zmęczenia czy objaw choroby?",
+      "originalDescription": "Stanowi poważne zagrożenie szczególnie podczas prowadzenia samochodu. Choć mikrosen może być skutkiem zwykłego przemęczenia, bywa również objawem chorób metabolicznych, neurologicznych lub ogólnoustrojowych. Specjalista wyjaśnia, na co zwrócić uwagę i kiedy zgłosić się do lekarza."
+    },
+    {
+      "title": "Dwa szczeniaki podrzucone na posesję",
+      "link": "https://tvn24.pl/rzeszow/krosno-dwa-szczeniaki-podrzucone-na-posesje-st9163362?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:39:44 GMT",
+      "description": "Policjanci szukają osoby, która porzuciła dwa psy na prywatnej posesji przy ulicy Grodzkiej w Krośnie. Obok zwierząt pozostawiono torbę ze smyczami, zabawkami i karmą. Policja prosi o kontakt osoby, które mają informacje w tej sprawie.",
+      "originalTitle": "Dwa szczeniaki podrzucone na posesję",
+      "originalDescription": "Policjanci szukają osoby, która porzuciła dwa psy na prywatnej posesji przy ulicy Grodzkiej w Krośnie. Obok zwierząt pozostawiono torbę ze smyczami, zabawkami i karmą. Policja prosi o kontakt osoby, które mają informacje w tej sprawie."
+    },
+    {
+      "title": "W studzience kanalizacyjnej znaleźli plecak pełen narkotyków",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-w-studzience-kanalizacyjnej-znalezli-plecak-pelen-narkotykow-st9163407?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:38:07 GMT",
+      "description": "Policjanci przeprowadzili nalot na jedno z podwórek przy Brzeskiej. W studzience kanalizacyjnej znaleźli plecak, a w nim ponad 430 zawiniątek z różnymi narkotykami. Teraz próbują namierzyć właściciela towaru.",
+      "originalTitle": "W studzience kanalizacyjnej znaleźli plecak pełen narkotyków",
+      "originalDescription": "Policjanci przeprowadzili nalot na jedno z podwórek przy Brzeskiej. W studzience kanalizacyjnej znaleźli plecak, a w nim ponad 430 zawiniątek z różnymi narkotykami. Teraz próbują namierzyć właściciela towaru."
+    },
+    {
+      "title": "Apple przebił historyczną granicę",
+      "link": "https://tvn24.pl/biznes/tech/apple-przebil-historyczna-granice-st9163613?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:37:24 GMT",
+      "description": "Apple po raz pierwszy w historii osiągnął wycenę przekraczającą pięć bilionów dolarów. Producent iPhone'ów jest dopiero drugą firmą, której udało się pokonać tę granicę.",
+      "originalTitle": "Apple przebił historyczną granicę",
+      "originalDescription": "Apple po raz pierwszy w historii osiągnął wycenę przekraczającą pięć bilionów dolarów. Producent iPhone'ów jest dopiero drugą firmą, której udało się pokonać tę granicę."
+    },
+    {
+      "title": "\"Nigdy wcześniej nie widziałem tak dramatycznej akcji ratunkowej\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-nigdy-wczesniej-nie-widzialem-tak-dramatycznej-akcji-ratunkowej-st9162380?source=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:29:43 GMT",
+      "description": "Chwile grozy przeżyły osoby odpoczywające na plaży Seabright w Kalifornii. W wyniku nagłej zmiany warunków wysokie fale porwały chłopca w głąb zatoki Monterrey. Na ratunek natychmiast ruszyli ratownicy, którzy w dramatycznych okolicznościach walczyli o jego życie.",
+      "originalTitle": "\"Nigdy wcześniej nie widziałem tak dramatycznej akcji ratunkowej\"",
+      "originalDescription": "Chwile grozy przeżyły osoby odpoczywające na plaży Seabright w Kalifornii. W wyniku nagłej zmiany warunków wysokie fale porwały chłopca w głąb zatoki Monterrey. Na ratunek natychmiast ruszyli ratownicy, którzy w dramatycznych okolicznościach walczyli o jego życie."
+    }
+  ]
 }
