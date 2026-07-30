@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-07-30T11:28:25.711Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-07-30T13:09:31.157Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Putin na was czeka\". Wyzywał pracowników z Ukrainy, stracił pracę i wakacje",
+      "link": "https://tvn24.pl/krakow/skawina-wyzywal-ukrainskich-pracownikow-na-budowie-zostal-zatrzymany-st9166161?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 13:02:31 GMT",
+      "description": "W sieci pojawił się kolejny film pokazujący agresję wobec Ukraińców. Na nagraniu widać, jak kierownik wyzywa pracowników. Ci powiadomili policję. 46-latek został zatrzymany w innym województwie, gdzie przebywał na wakacjach.",
+      "originalTitle": "\"Putin na was czeka\". Wyzywał pracowników z Ukrainy, stracił pracę i wakacje",
+      "originalDescription": "W sieci pojawił się kolejny film pokazujący agresję wobec Ukraińców. Na nagraniu widać, jak kierownik wyzywa pracowników. Ci powiadomili policję. 46-latek został zatrzymany w innym województwie, gdzie przebywał na wakacjach."
+    },
+    {
+      "title": "Zakazy parkowania i zamknięte ulice w czasie rocznicowych obchodów",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/82-rocznica-wybuchu-powstania-warszawskiego-lista-zamknietych-ulic-st9165782?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:59:12 GMT",
+      "description": "Rozpoczęły się uroczystości związane z obchodami 82. rocznicy wybuchu Powstania Warszawskiego. Przez kilka dni w wielu miejscach stolicy obowiązywać będą zakazy parkowania, a służby zamkną niektóre ulice. Straż miejska przedstawiła listę utrudnień.",
+      "originalTitle": "Zakazy parkowania i zamknięte ulice w czasie rocznicowych obchodów",
+      "originalDescription": "Rozpoczęły się uroczystości związane z obchodami 82. rocznicy wybuchu Powstania Warszawskiego. Przez kilka dni w wielu miejscach stolicy obowiązywać będą zakazy parkowania, a służby zamkną niektóre ulice. Straż miejska przedstawiła listę utrudnień."
+    },
+    {
+      "title": "Wybuch nad ranem. Prokurator: rakieta zawierała materiał wybuchowy w znacznej ilości",
+      "link": "https://tvn24.pl/lublin/tarnawa-kolonia-wybuch-obiektu-latajacego-w-lubelskiem-na-miejsce-jedzie-ekspert-z-ukrainy-st9165355?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 08:43:54 GMT",
+      "description": "Prokuratura ustala, co się stało nad ranem w Tarnawie-Kolonii (Lubelskie), gdzie przed godziną 4 nad ranem mieszkańcy usłyszeli głośny huk. Na pole spadł prawdopodobnie rosyjski pocisk CH-101, który zostawił po sobie potężny krater o średnicy około 10 metrów. Na miejsce jedzie ekspert z Ukrainy. Z ustaleń wynika, że rakieta zawierała materiał wybuchowy w znacznej ilości.",
+      "originalTitle": "Wybuch nad ranem. Prokurator: rakieta zawierała materiał wybuchowy w znacznej ilości",
+      "originalDescription": "Prokuratura ustala, co się stało nad ranem w Tarnawie-Kolonii (Lubelskie), gdzie przed godziną 4 nad ranem mieszkańcy usłyszeli głośny huk. Na pole spadł prawdopodobnie rosyjski pocisk CH-101, który zostawił po sobie potężny krater o średnicy około 10 metrów. Na miejsce jedzie ekspert z Ukrainy. Z ustaleń wynika, że rakieta zawierała materiał wybuchowy w znacznej ilości."
+    },
+    {
+      "title": "Sprawa pocisku na Lubelszczyźnie analizowana \"wspólnie z NATO\". MSZ zapowiada dalsze kroki",
+      "link": "https://tvn24.pl/polska/pocisk-spadl-w-okolicach-miejscowosci-tarnawa-kolonia-msz-o-dyplomatycznej-odpowiedzi-st9166127?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:52:23 GMT",
+      "description": "Dalsze kroki dyplomatyczne zostaną podjęte po ustaleniu szczegółów - przekazał rzecznik MSZ Maciej Wewiór. Komentował sprawę pocisku, który spadł na Lubelszczyźnie. Poinformował, że sprawa analizowana jest \"wspólnie z sojusznikami z NATO\".",
+      "originalTitle": "Sprawa pocisku na Lubelszczyźnie analizowana \"wspólnie z NATO\". MSZ zapowiada dalsze kroki",
+      "originalDescription": "Dalsze kroki dyplomatyczne zostaną podjęte po ustaleniu szczegółów - przekazał rzecznik MSZ Maciej Wewiór. Komentował sprawę pocisku, który spadł na Lubelszczyźnie. Poinformował, że sprawa analizowana jest \"wspólnie z sojusznikami z NATO\"."
+    },
+    {
+      "title": "Prezydent podpisał ustawę o zakazie telefonów w szkołach",
+      "link": "https://tvn24.pl/polska/prezydent-podpisal-ustawe-o-zakazie-telefonow-w-szkolach-st9166170?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:50:17 GMT",
+      "description": "Prezydent podpisał nowelizację, która zakazuje korzystania z telefonów komórkowych w szkołach i przedszkolach - przekazał rzecznik głowy państwa Rafał Leśkiewicz. Łącznie Karol Nawrocki podpisał w czwartek pięć ustaw.",
+      "originalTitle": "Prezydent podpisał ustawę o zakazie telefonów w szkołach",
+      "originalDescription": "Prezydent podpisał nowelizację, która zakazuje korzystania z telefonów komórkowych w szkołach i przedszkolach - przekazał rzecznik głowy państwa Rafał Leśkiewicz. Łącznie Karol Nawrocki podpisał w czwartek pięć ustaw."
+    },
+    {
+      "title": "Tyle kosztuje ochrona zdrowia. GUS podsumował",
+      "link": "https://tvn24.pl/zdrowie/ile-wydajemy-na-ochrone-zdrowia-gus-podsumowal-st9165765?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:48:39 GMT",
+      "description": "Blisko 272 miliardy złotych osiągnęły w 2025 roku publiczne bieżące wydatki na ochronę zdrowia. To o 21,6 miliardów więcej niż rok wcześniej - informuje Główny Urząd Statystyczny. Ile wyniosły wydatki prywatne?",
+      "originalTitle": "Tyle kosztuje ochrona zdrowia. GUS podsumował",
+      "originalDescription": "Blisko 272 miliardy złotych osiągnęły w 2025 roku publiczne bieżące wydatki na ochronę zdrowia. To o 21,6 miliardów więcej niż rok wcześniej - informuje Główny Urząd Statystyczny. Ile wyniosły wydatki prywatne?"
+    },
+    {
+      "title": "Co spadało na Polskę od początku wojny w Ukrainie",
+      "link": "https://tvn24.pl/polska/pocisk-nad-polska-co-spadalo-na-nasz-kraj-od-poczatku-wojny-w-ukrainie-st9165444?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:48:33 GMT",
+      "description": "W nocy ze środy na czwartek w okolicy miejscowości Tarnawa-Kolonia spadła rakieta. Przy okazji rosyjskich ataków na Ukrainę w ostatnich latach dochodziło już do podobnych naruszeń polskiej przestrzeni powietrznej. Co spadało na nasze terytorium?",
+      "originalTitle": "Co spadało na Polskę od początku wojny w Ukrainie",
+      "originalDescription": "W nocy ze środy na czwartek w okolicy miejscowości Tarnawa-Kolonia spadła rakieta. Przy okazji rosyjskich ataków na Ukrainę w ostatnich latach dochodziło już do podobnych naruszeń polskiej przestrzeni powietrznej. Co spadało na nasze terytorium?"
+    },
+    {
+      "title": "Wraz z upałem przyjdą burze. Gdzie będzie najgoręcej",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-wraz-z-upalem-przyjda-burze-gdzie-bedzie-najgorecej-st9165750?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:47:34 GMT",
+      "description": "W czwartek do Polski nadciągnął upał i nie zanosi się na to, by szybko nas opuścił. W najbliższych dniach termometry pokażą ponad 30 stopni w wielu rejonach kraju. Czekają nas też burze, w tym gwałtowne, niosące ulewy, grad i silne podmuchy.",
+      "originalTitle": "Wraz z upałem przyjdą burze. Gdzie będzie najgoręcej",
+      "originalDescription": "W czwartek do Polski nadciągnął upał i nie zanosi się na to, by szybko nas opuścił. W najbliższych dniach termometry pokażą ponad 30 stopni w wielu rejonach kraju. Czekają nas też burze, w tym gwałtowne, niosące ulewy, grad i silne podmuchy."
+    },
+    {
+      "title": "Test HPV HR zastąpi klasyczną cytologię. Nowe zasady od 1 sierpnia",
+      "link": "https://tvn24.pl/zdrowie/koniec-klasycznej-cytologii-na-nfz-od-1-sierpnia-zastapi-ja-test-hpv-hr-st9165650?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:43:31 GMT",
+      "description": "Badanie, które przez lata było podstawą profilaktyki raka szyjki macicy, znika z programu NFZ. Od 1 sierpnia przesiewowo będzie wykonywany test HPV HR, który szuka wirusa, zanim w komórkach pojawią się nieprawidłowości. Dlaczego jest skuteczniejszy i co oznacza dodatni wynik?",
+      "originalTitle": "Test HPV HR zastąpi klasyczną cytologię. Nowe zasady od 1 sierpnia",
+      "originalDescription": "Badanie, które przez lata było podstawą profilaktyki raka szyjki macicy, znika z programu NFZ. Od 1 sierpnia przesiewowo będzie wykonywany test HPV HR, który szuka wirusa, zanim w komórkach pojawią się nieprawidłowości. Dlaczego jest skuteczniejszy i co oznacza dodatni wynik?"
+    },
+    {
+      "title": "Pijana wracała z imprezy. Uszkodziła zaparkowane auta i motocykl. Uciekła",
+      "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-uderzyla-autem-w-zaparkowane-samochody-i-uciekla-st9166062?source=rss",
+      "pubDate": "Thu, 30 Jul 2026 12:43:29 GMT",
+      "description": "W nocy z soboty na niedzielę policjanci interweniowali na warszawskim Targówku. Ktoś uszkodził zaparkowane przy ulicy samochody i motocykl, następnie porzucił rozbite auto. Policyjny pies doprowadził funkcjonariuszy do mieszkania pijanej kobiety.",
+      "originalTitle": "Pijana wracała z imprezy. Uszkodziła zaparkowane auta i motocykl. Uciekła",
+      "originalDescription": "W nocy z soboty na niedzielę policjanci interweniowali na warszawskim Targówku. Ktoś uszkodził zaparkowane przy ulicy samochody i motocykl, następnie porzucił rozbite auto. Policyjny pies doprowadził funkcjonariuszy do mieszkania pijanej kobiety."
+    }
+  ]
 }
