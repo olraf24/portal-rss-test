@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-01T20:51:45.625Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-01T21:59:04.310Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ciało przed blokiem w Trzciance. Policjanci zaatakowani w trakcie interwencji",
+      "link": "https://tvn24.pl/poznan/cialo-przed-blokiem-w-trzciance-policjanci-zaatakowani-w-trakcie-interwencji-st9169676?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 20:16:22 GMT",
+      "description": "Policjanci postrzelili w trakcie interwencji mężczyznę, który zaatakował ich przedmiotem przypominającym maczetę w Trzciance (woj. wielkopolskie). Jeden z funkcjonariuszy został ranny. W okolicy miejsca zdarzenia - przed blokiem - znajdowało się ciało ojca napastnika.",
+      "originalTitle": "Ciało przed blokiem w Trzciance. Policjanci zaatakowani w trakcie interwencji",
+      "originalDescription": "Policjanci postrzelili w trakcie interwencji mężczyznę, który zaatakował ich przedmiotem przypominającym maczetę w Trzciance (woj. wielkopolskie). Jeden z funkcjonariuszy został ranny. W okolicy miejsca zdarzenia - przed blokiem - znajdowało się ciało ojca napastnika."
+    },
+    {
+      "title": "Sobotnie nawałnice. Mammatusy nad Białymstokiem, zerwane dachy w Wielkopolsce",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-w-polsce-sobotnie-nawalnice-wiatr-zrywal-dachy-w-wielkopolsce-st9169529?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 15:36:43 GMT",
+      "description": "Sobotnie burze przyniosły szkody. W Wielkopolsce wiatr zerwał dachy z kilkunastu budynków. Na Opolszczyźnie padał duży grad, a na Ziemi Lubuskiej doszło do podtopień. Na Kontakt24 otrzymaliśmy zdjęcia ciekawych chmur, które pojawiły się nad Białymstokiem.",
+      "originalTitle": "Sobotnie nawałnice. Mammatusy nad Białymstokiem, zerwane dachy w Wielkopolsce",
+      "originalDescription": "Sobotnie burze przyniosły szkody. W Wielkopolsce wiatr zerwał dachy z kilkunastu budynków. Na Opolszczyźnie padał duży grad, a na Ziemi Lubuskiej doszło do podtopień. Na Kontakt24 otrzymaliśmy zdjęcia ciekawych chmur, które pojawiły się nad Białymstokiem."
+    },
+    {
+      "title": "Gdzie jest burza? Silnie grzmi, pada grad",
+      "link": "https://tvn24.pl/tvnmeteo/pogoda/gdzie-jest-burza-burze-w-polsce-w-sobote-01-08-radar-i-mapa-burz-uwaga-na-opady-gradu-st9168790?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 05:29:44 GMT",
+      "description": "Gdzie jest burza? W sobotę 1.08 w Polsce grzmi. Wyładowaniom towarzyszą opady deszczu, miejscami gradu, a także silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Silnie grzmi, pada grad",
+      "originalDescription": "Gdzie jest burza? W sobotę 1.08 w Polsce grzmi. Wyładowaniom towarzyszą opady deszczu, miejscami gradu, a także silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Anna Przedpełska-Trzeciakowska walczyła w Powstaniu. Dziś mówi: mnie strasznie boli ta sprawa ukraińska",
+      "link": "https://tvn24.pl/polska/anna-przedpelska-trzeciakowska-walczyla-w-powstaniu-dzis-mowi-mnie-strasznie-boli-ta-sprawa-ukrainska-st9169634?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 19:36:15 GMT",
+      "description": "Myśmy razem umierali po prostu. Jędrek był tym cudownym dzieckiem - wspominała śmierć brata Anna Przedpełska-Trzeciakowska, uczestniczka Powstania Warszawskiego. W rozmowie z Katarzyną Kolendą-Zaleską w \"Faktach po Faktach\" mówiła o wydarzeniach z 1 sierpnia 1944 roku, ale nie tylko.",
+      "originalTitle": "Anna Przedpełska-Trzeciakowska walczyła w Powstaniu. Dziś mówi: mnie strasznie boli ta sprawa ukraińska",
+      "originalDescription": "Myśmy razem umierali po prostu. Jędrek był tym cudownym dzieckiem - wspominała śmierć brata Anna Przedpełska-Trzeciakowska, uczestniczka Powstania Warszawskiego. W rozmowie z Katarzyną Kolendą-Zaleską w \"Faktach po Faktach\" mówiła o wydarzeniach z 1 sierpnia 1944 roku, ale nie tylko."
+    },
+    {
+      "title": "Nocne burze, kolejne dni z upałem. IMGW ostrzega",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/upal-i-burze-w-polsce-1-08-ostrzezenia-imgw-przed-wysoka-temperatura-synoptycy-ostrzegaja-st9163262?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 05:21:00 GMT",
+      "description": "W sobotę Instytut Meteorologii i Gospodarki Wodnej ostrzega przed upałem i nocnymi burzami. Miejscami obowiązują alarmy najwyższego, trzeciego stopnia. Sprawdź, gdzie pogoda będzie szczególnie groźna.",
+      "originalTitle": "Nocne burze, kolejne dni z upałem. IMGW ostrzega",
+      "originalDescription": "W sobotę Instytut Meteorologii i Gospodarki Wodnej ostrzega przed upałem i nocnymi burzami. Miejscami obowiązują alarmy najwyższego, trzeciego stopnia. Sprawdź, gdzie pogoda będzie szczególnie groźna."
+    },
+    {
+      "title": "Superkomórka burzowa na Opolszczyźnie. Lało tak, że świata nie było widać",
+      "link": "https://tvn24.pl/tvnmeteo/polska/superkomorka-burzowa-na-opolszczyznie-lalo-tak-ze-swiata-nie-bylo-widac-wideo-st9169637?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 19:00:23 GMT",
+      "description": "W sobotę w Polsce przechodziły superkomórki burzowe z silnym deszczem i wiatrem. Nagranie z Opolszczyzny pokazuje, jak gwałtowne było nadejście żywiołu.",
+      "originalTitle": "Superkomórka burzowa na Opolszczyźnie. Lało tak, że świata nie było widać",
+      "originalDescription": "W sobotę w Polsce przechodziły superkomórki burzowe z silnym deszczem i wiatrem. Nagranie z Opolszczyzny pokazuje, jak gwałtowne było nadejście żywiołu."
+    },
+    {
+      "title": "\"Eksplozja\" w Moskwie. Są doniesienia o ofiarach",
+      "link": "https://tvn24.pl/swiat/eksplozja-w-moskwie-sa-doniesienia-o-ofiarach-st9169638?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 18:24:56 GMT",
+      "description": "Trzy osoby zginęły, a 15 zostało rannych w wyniku wybuchu w pobliżu restauracji w centrum Moskwy - poinformowały rosyjskie służby. Na miejscu zdarzenia pracują śledczy i ratownicy.",
+      "originalTitle": "\"Eksplozja\" w Moskwie. Są doniesienia o ofiarach",
+      "originalDescription": "Trzy osoby zginęły, a 15 zostało rannych w wyniku wybuchu w pobliżu restauracji w centrum Moskwy - poinformowały rosyjskie służby. Na miejscu zdarzenia pracują śledczy i ratownicy."
+    },
+    {
+      "title": "Kryzys migracyjny w Ceucie. Hiszpania instaluje specjalną barierę",
+      "link": "https://tvn24.pl/swiat/kryzys-migracyjny-w-ceucie-hiszpania-instaluje-specjalna-bariere-st9169614?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 18:11:13 GMT",
+      "description": "Hiszpania rozpoczęła instalowanie bariery na granicy morskiej między Ceutą a Marokiem. Jest to pokłosie kryzysu z ostatnich dni, w czasie których do hiszpańskiej eksklawy przybyło w niekontrolowany sposób około 60 tysięcy migrantów. W związku z kryzysem migracyjnym w Ceucie we wtorek odbędzie się nadzwyczajne posiedzenie unijnych ministrów.",
+      "originalTitle": "Kryzys migracyjny w Ceucie. Hiszpania instaluje specjalną barierę",
+      "originalDescription": "Hiszpania rozpoczęła instalowanie bariery na granicy morskiej między Ceutą a Marokiem. Jest to pokłosie kryzysu z ostatnich dni, w czasie których do hiszpańskiej eksklawy przybyło w niekontrolowany sposób około 60 tysięcy migrantów. W związku z kryzysem migracyjnym w Ceucie we wtorek odbędzie się nadzwyczajne posiedzenie unijnych ministrów."
+    },
+    {
+      "title": "Megapożar pod Atenami. \"Część naszej dzielnicy ocalała, ale reszta obróciła się w popiół\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/grecja-pozar-pod-atenami-na-drogach-leza-martwe-zwierzeta-wszystko-splonelo-st9169425?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 13:28:23 GMT",
+      "description": "W Grecji trwa kolejny dzień walki z ogniem. Największy pożar szaleje kilkadziesiąt kilometrów od Aten. Jest na tyle intensywny, że greckie media określają go mianem megapożaru. Polak przebywający w stolicy Grecji opisał, jaka sytuacja panuje w mieście.",
+      "originalTitle": "Megapożar pod Atenami. \"Część naszej dzielnicy ocalała, ale reszta obróciła się w popiół\"",
+      "originalDescription": "W Grecji trwa kolejny dzień walki z ogniem. Największy pożar szaleje kilkadziesiąt kilometrów od Aten. Jest na tyle intensywny, że greckie media określają go mianem megapożaru. Polak przebywający w stolicy Grecji opisał, jaka sytuacja panuje w mieście."
+    },
+    {
+      "title": "Koniec oględzin na miejscu upadku rakiety w Tarnawie-Kolonii. \"Obiekt odnaleziono\"",
+      "link": "https://tvn24.pl/lublin/koniec-ogledzin-na-miejscu-upadku-rakiety-w-tarnawie-kolonii-obiekt-odnaleziono-st9169506?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 14:23:38 GMT",
+      "description": "Powtórne oględziny w okolicach Tarnawy-Kolonii, gdzie w czwartek spadła rosyjska rakieta, zostały zakończone - podała Prokuratura Okręgowa w Lublinie. Śledczy wznowili w sobotę poszukiwania jednego z elementów pocisku, który z sukcesem \"odnaleziono i zabezpieczono\".",
+      "originalTitle": "Koniec oględzin na miejscu upadku rakiety w Tarnawie-Kolonii. \"Obiekt odnaleziono\"",
+      "originalDescription": "Powtórne oględziny w okolicach Tarnawy-Kolonii, gdzie w czwartek spadła rosyjska rakieta, zostały zakończone - podała Prokuratura Okręgowa w Lublinie. Śledczy wznowili w sobotę poszukiwania jednego z elementów pocisku, który z sukcesem \"odnaleziono i zabezpieczono\"."
+    }
+  ]
 }

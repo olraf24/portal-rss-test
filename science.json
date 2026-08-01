@@ -1,20 +1,8 @@
 {
-  "lastUpdate": "2026-08-01T20:51:46.407Z",
+  "lastUpdate": "2026-08-01T21:58:29.967Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
-    {
-      "title": "Podczas upałów woda to podstawa, jednak lepiej nawadniają mleko i soki owoce",
-      "link": "https://dzienniknaukowy.pl/podczas-upalow-woda-to-podstawa-jednak-lepiej-nawadniaja-mleko-i-soki-owoce",
-      "pubDate": "Thu, 30 Jul 2026 13:24:58 +0000",
-      "description": "Podczas upałów konieczne jest nawadnianie organizmu jakimkolwiek płynem. Woda to podstawa, jednak lepiej nawadniającymi płynami są mleko, sok pomarańczowy lub nawet herbata. Należy natomiast unikać słodkich napojów gazowanych."
-    },
-    {
-      "title": "Studenci Politechniki Białostockiej zbudowali rękawice pozwalające zrozumieć chorobę Parkinsona",
-      "link": "https://dzienniknaukowy.pl/studenci-politechniki-bialostockiej-zbudowali-rekawice-pozwalajace-zrozumiec-chorobe-parkinsona",
-      "pubDate": "Thu, 30 Jul 2026 13:11:41 +0000",
-      "description": "Trzy prototypy symulatorów drżenia rąk oraz bezpłatne warsztaty dla 200 uczniów z Podlaskiego – to efekt projektu studentów z Koła Naukowego Alios na Wydziale Mechanicznym Politechniki Białostockiej, którzy pomagają zrozumieć młodym ludziom problemy osób z chorobą Parkinsona"
-    },
     {
       "title": "Polscy badacze współtwórcami materiału świecącego m.in. pod wpływem ultradźwięków",
       "link": "https://dzienniknaukowy.pl/polscy-badacze-wspoltworcami-materialu-swiecacego-m-in-pod-wplywem-ultradzwiekow",
@@ -62,6 +50,18 @@
       "link": "https://dzienniknaukowy.pl/czym-jest-zapalenie-ucha-srodkowego-i-jak-sie-je-leczy",
       "pubDate": "Mon, 27 Jul 2026 09:28:00 +0000",
       "description": "Zapalenie ucha środkowego może przyjąć postać ostrą lub przewlekłą, przy czym obie formy choroby występują częściej u dzieci niż dorosłych. Chorobę rozpoznaje się na podstawie wywiadu, badania otoskopowego oraz badania słuchu, ale czasami wykonuje się również dodatkowe badania obrazowe. Zapalenie ucha środkowego zazwyczaj można wyleczyć metodami zachowawczymi, jednak zdarza się, że niezbędna jest interwencja chirurgiczna."
+    },
+    {
+      "title": "Fale terahercowe, modulacja i logika na jednej programowalnej powierzchni",
+      "link": "https://dzienniknaukowy.pl/fale-terahercowe-modulacja-i-logika-na-jednej-programowalnej-powierzchni",
+      "pubDate": "Thu, 23 Jul 2026 13:18:48 +0000",
+      "description": "Przyszłe sieci komunikacyjne będą potrzebowały elementów, które nie tylko przesyłają dane, lecz także wstępnie je przetwarzają. Badacze współpracujący z Centrum Doskonałości ENSEMLE3 w Warszawie zaprezentowali programowalną metapowierzchnię terahercową, która realizuje proste operacje logiczne i wielopoziomową modulację sygnału."
+    },
+    {
+      "title": "UMW rozwija unikatową terapię guzów litych z wykorzystaniem jonów wapnia",
+      "link": "https://dzienniknaukowy.pl/umw-rozwija-unikatowa-terapie-guzow-litych-z-wykorzystaniem-jonow-wapnia",
+      "pubDate": "Thu, 23 Jul 2026 12:57:54 +0000",
+      "description": "Uniwersytet Medyczny we Wrocławiu prowadzi wyjątkowe w skali kraju badania nad elektroporacją wapniową, czyli metodą, w której krótkie impulsy elektryczne pomagają wprowadzić jony wapnia do komórek nowotworowych. Zespół UMW, we współpracy z Uniwersyteckim Szpitalem Klinicznym we Wrocławiu, jako pierwszy w Polsce zastosował tę technikę u pacjentów z miejscowo zaawansowanym rakiem trzustki. Badania mogą poszerzyć możliwości leczenia guzów litych, zwłaszcza wtedy, gdy standardowe metody są nieskuteczne albo niemożliwe do zastosowania."
     }
   ]
 }
