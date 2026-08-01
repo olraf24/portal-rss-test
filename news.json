@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-01T18:04:51.297Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-01T19:43:18.005Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Gdzie jest burza? Silnie grzmi, pada grad",
+      "link": "https://tvn24.pl/tvnmeteo/pogoda/gdzie-jest-burza-burze-w-polsce-w-sobote-01-08-radar-i-mapa-burz-uwaga-na-opady-gradu-st9168790?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 05:29:44 GMT",
+      "description": "Gdzie jest burza? W sobotę 1.08 w Polsce grzmi. Wyładowaniom towarzyszą opady deszczu, miejscami gradu, a także silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Silnie grzmi, pada grad",
+      "originalDescription": "Gdzie jest burza? W sobotę 1.08 w Polsce grzmi. Wyładowaniom towarzyszą opady deszczu, miejscami gradu, a także silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Anna Przedpełska-Trzeciakowska walczyła w Powstaniu. Dziś mówi: mnie strasznie boli ta sprawa ukraińska",
+      "link": "https://tvn24.pl/polska/anna-przedpelska-trzeciakowska-walczyla-w-powstaniu-dzis-mowi-mnie-strasznie-boli-ta-sprawa-ukrainska-st9169634?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 19:36:15 GMT",
+      "description": "Myśmy razem umierali po prostu. Jędrek był tym cudownym dzieckiem - wspominała śmierć brata Anna Przedpełska-Trzeciakowska, uczestniczka Powstania Warszawskiego. W rozmowie z Katarzyną Kolendą-Zaleską w \"Faktach po Faktach\" mówiła o wydarzeniach z 1 sierpnia 1944 roku, ale nie tylko.",
+      "originalTitle": "Anna Przedpełska-Trzeciakowska walczyła w Powstaniu. Dziś mówi: mnie strasznie boli ta sprawa ukraińska",
+      "originalDescription": "Myśmy razem umierali po prostu. Jędrek był tym cudownym dzieckiem - wspominała śmierć brata Anna Przedpełska-Trzeciakowska, uczestniczka Powstania Warszawskiego. W rozmowie z Katarzyną Kolendą-Zaleską w \"Faktach po Faktach\" mówiła o wydarzeniach z 1 sierpnia 1944 roku, ale nie tylko."
+    },
+    {
+      "title": "Nocne burze, kolejne dni z upałem. IMGW ostrzega",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/upal-i-burze-w-polsce-1-08-ostrzezenia-imgw-przed-wysoka-temperatura-synoptycy-ostrzegaja-st9163262?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 05:21:00 GMT",
+      "description": "W sobotę Instytut Meteorologii i Gospodarki Wodnej ostrzega przed upałem i nocnymi burzami. Miejscami obowiązują alarmy najwyższego, trzeciego stopnia. Sprawdź, gdzie pogoda będzie szczególnie groźna.",
+      "originalTitle": "Nocne burze, kolejne dni z upałem. IMGW ostrzega",
+      "originalDescription": "W sobotę Instytut Meteorologii i Gospodarki Wodnej ostrzega przed upałem i nocnymi burzami. Miejscami obowiązują alarmy najwyższego, trzeciego stopnia. Sprawdź, gdzie pogoda będzie szczególnie groźna."
+    },
+    {
+      "title": "Superkomórka burzowa na Opolszczyźnie. Lało tak, że świata nie było widać",
+      "link": "https://tvn24.pl/tvnmeteo/polska/superkomorka-burzowa-na-opolszczyznie-lalo-tak-ze-swiata-nie-bylo-widac-wideo-st9169637?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 19:00:23 GMT",
+      "description": "W sobotę w Polsce przechodziły superkomórki burzowe z silnym deszczem i wiatrem. Nagranie z Opolszczyzny pokazuje, jak gwałtowne było nadejście żywiołu.",
+      "originalTitle": "Superkomórka burzowa na Opolszczyźnie. Lało tak, że świata nie było widać",
+      "originalDescription": "W sobotę w Polsce przechodziły superkomórki burzowe z silnym deszczem i wiatrem. Nagranie z Opolszczyzny pokazuje, jak gwałtowne było nadejście żywiołu."
+    },
+    {
+      "title": "Kryzys migracyjny w Ceucie. Hiszpania instaluje specjalną barierę",
+      "link": "https://tvn24.pl/swiat/kryzys-migracyjny-w-ceucie-hiszpania-instaluje-specjalna-bariere-st9169614?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 18:11:13 GMT",
+      "description": "Hiszpania rozpoczęła instalowanie bariery na granicy morskiej między Ceutą a Marokiem. Jest to pokłosie kryzysu z ostatnich dni, w czasie których do hiszpańskiej eksklawy przybyło w niekontrolowany sposób około 60 tysięcy migrantów. W związku z kryzysem migracyjnym w Ceucie we wtorek odbędzie się nadzwyczajne posiedzenie unijnych ministrów.",
+      "originalTitle": "Kryzys migracyjny w Ceucie. Hiszpania instaluje specjalną barierę",
+      "originalDescription": "Hiszpania rozpoczęła instalowanie bariery na granicy morskiej między Ceutą a Marokiem. Jest to pokłosie kryzysu z ostatnich dni, w czasie których do hiszpańskiej eksklawy przybyło w niekontrolowany sposób około 60 tysięcy migrantów. W związku z kryzysem migracyjnym w Ceucie we wtorek odbędzie się nadzwyczajne posiedzenie unijnych ministrów."
+    },
+    {
+      "title": "Megapożar pod Atenami. \"Część naszej dzielnicy ocalała, ale reszta obróciła się w popiół\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/grecja-pozar-pod-atenami-na-drogach-leza-martwe-zwierzeta-wszystko-splonelo-st9169425?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 13:28:23 GMT",
+      "description": "W Grecji trwa kolejny dzień walki z ogniem. Największy pożar szaleje kilkadziesiąt kilometrów od Aten. Jest na tyle intensywny, że greckie media określają go mianem megapożaru. Polak przebywający w stolicy Grecji opisał, jaka sytuacja panuje w mieście.",
+      "originalTitle": "Megapożar pod Atenami. \"Część naszej dzielnicy ocalała, ale reszta obróciła się w popiół\"",
+      "originalDescription": "W Grecji trwa kolejny dzień walki z ogniem. Największy pożar szaleje kilkadziesiąt kilometrów od Aten. Jest na tyle intensywny, że greckie media określają go mianem megapożaru. Polak przebywający w stolicy Grecji opisał, jaka sytuacja panuje w mieście."
+    },
+    {
+      "title": "Koniec oględzin na miejscu upadku rakiety w Tarnawie-Kolonii. \"Obiekt odnaleziono\"",
+      "link": "https://tvn24.pl/lublin/koniec-ogledzin-na-miejscu-upadku-rakiety-w-tarnawie-kolonii-obiekt-odnaleziono-st9169506?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 14:23:38 GMT",
+      "description": "Powtórne oględziny w okolicach Tarnawy-Kolonii, gdzie w czwartek spadła rosyjska rakieta, zostały zakończone - podała Prokuratura Okręgowa w Lublinie. Śledczy wznowili w sobotę poszukiwania jednego z elementów pocisku, który z sukcesem \"odnaleziono i zabezpieczono\".",
+      "originalTitle": "Koniec oględzin na miejscu upadku rakiety w Tarnawie-Kolonii. \"Obiekt odnaleziono\"",
+      "originalDescription": "Powtórne oględziny w okolicach Tarnawy-Kolonii, gdzie w czwartek spadła rosyjska rakieta, zostały zakończone - podała Prokuratura Okręgowa w Lublinie. Śledczy wznowili w sobotę poszukiwania jednego z elementów pocisku, który z sukcesem \"odnaleziono i zabezpieczono\"."
+    },
+    {
+      "title": "Rosyjski atak rakietowy na Kijów. \"Zabrakło pocisków do systemów Patriot\". 10 osób nie żyje",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-atak-na-kijow-zabraklo-pociskow-do-systemow-patriot-10-osob-nie-zyje-st9168750?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 04:45:16 GMT",
+      "description": "Co najmniej dziesięć osób zginęło w wyniku rosyjskiego ataku rakietowego na Kijów i okolice stolicy Ukrainy. Prezydent Wołodymyr Zełenski poinformował, że uszkodzona została ambasada Litwy. MSZ tego kraju zapowiedziało konsekwencje.",
+      "originalTitle": "Rosyjski atak rakietowy na Kijów. \"Zabrakło pocisków do systemów Patriot\". 10 osób nie żyje",
+      "originalDescription": "Co najmniej dziesięć osób zginęło w wyniku rosyjskiego ataku rakietowego na Kijów i okolice stolicy Ukrainy. Prezydent Wołodymyr Zełenski poinformował, że uszkodzona została ambasada Litwy. MSZ tego kraju zapowiedziało konsekwencje."
+    },
+    {
+      "title": "\"Niebezpieczny, może posiadać broń\". Wezwali policyjnych kontrterrorystów",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ostroleka-niebezpieczny-moze-posiadac-bron-zatrzymali-go-policyjni-kontrterrorysci-st9169594?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 16:14:36 GMT",
+      "description": "Policyjni kontrterroryści z Radomia i Olsztyna wzięli udział w zatrzymaniu 38-latka na jednej z posesji w powiecie ostrołęckim. Ma on do odbycia karę 7,5 roku więzienia. Z policyjnych ustaleń wynikało, że może posiadać broń palną.",
+      "originalTitle": "\"Niebezpieczny, może posiadać broń\". Wezwali policyjnych kontrterrorystów",
+      "originalDescription": "Policyjni kontrterroryści z Radomia i Olsztyna wzięli udział w zatrzymaniu 38-latka na jednej z posesji w powiecie ostrołęckim. Ma on do odbycia karę 7,5 roku więzienia. Z policyjnych ustaleń wynikało, że może posiadać broń palną."
+    },
+    {
+      "title": "\"Mój tata potrafi się rozpłakać. To mi imponuje\"",
+      "link": "https://tvn24.pl/temat/zdrowie-mezczyzn/jak-dorastaja-chlopcy-w-polsce-czego-sie-boja-jakie-maja-problemy-st9166676?source=rss",
+      "pubDate": "Sat, 01 Aug 2026 16:13:57 GMT",
+      "description": "\"Męskość? To bardzo gruba ściana między uczuciowością a jej brakiem\". \"Tworzymy takiego drugiego siebie i dążymy do czegoś, do czego dotrzeć nie możemy\". \"Chciałbym wcześniej mieć świadomość, że mam prawo być w czymś słaby\". \"Mój dziadek to definicja takiej toksycznej męskości, czyli człowiek, który boi się powiedzieć o swoim cierpieniu czy sięgnąć po pomoc\".",
+      "originalTitle": "\"Mój tata potrafi się rozpłakać. To mi imponuje\"",
+      "originalDescription": "\"Męskość? To bardzo gruba ściana między uczuciowością a jej brakiem\". \"Tworzymy takiego drugiego siebie i dążymy do czegoś, do czego dotrzeć nie możemy\". \"Chciałbym wcześniej mieć świadomość, że mam prawo być w czymś słaby\". \"Mój dziadek to definicja takiej toksycznej męskości, czyli człowiek, który boi się powiedzieć o swoim cierpieniu czy sięgnąć po pomoc\"."
+    }
+  ]
 }
