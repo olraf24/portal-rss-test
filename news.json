@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-04T06:26:47.713Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-04T09:21:06.113Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Karol Nawrocki ułaskawił \"Starucha\". Rzecznik prezydenta o powodach",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-ulaskawil-starucha-rzecznik-prezydenta-o-powodach-st9172634?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 09:05:44 GMT",
+      "description": "Prezydent podjął decyzję o ułaskawieniu po analizie pełnej dokumentacji - wyjaśnił Rafał Leśkiewicz, rzecznik Karola Nawrockiego, który komentował decyzję o ułaskawieniu Piotra \"Starucha\" Staruchowicza. Zdaniem Nawrockiego decyzja sądu w tej sprawie była \"niesprawiedliwa\" - relacjonował Leśkiewicz.",
+      "originalTitle": "Karol Nawrocki ułaskawił \"Starucha\". Rzecznik prezydenta o powodach",
+      "originalDescription": "Prezydent podjął decyzję o ułaskawieniu po analizie pełnej dokumentacji - wyjaśnił Rafał Leśkiewicz, rzecznik Karola Nawrockiego, który komentował decyzję o ułaskawieniu Piotra \"Starucha\" Staruchowicza. Zdaniem Nawrockiego decyzja sądu w tej sprawie była \"niesprawiedliwa\" - relacjonował Leśkiewicz."
+    },
+    {
+      "title": "Darmowa woda z kranu w restauracjach i barach. Mają być nowe przepisy",
+      "link": "https://tvn24.pl/biznes/prawo/darmowa-woda-dla-klientow-restauracji-barow-i-lokali-powstanie-osobna-ustawa-zapowiedz-ministerstwa-klimatu-i-srodowiska-st9172672?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 08:57:09 GMT",
+      "description": "Obowiązek nieodpłatnego udostępniania klientom wody z kranu, między innymi w restauracjach, ma trafić do osobnego projektu ustawy - przekazał rzecznik Ministerstwa Klimatu i Środowisk Marek Pogorzelski. Podkreślił, że resort nie rezygnuje z pomysłu, choć usunął go z procedowanego projektu ustawy o opakowaniach.",
+      "originalTitle": "Darmowa woda z kranu w restauracjach i barach. Mają być nowe przepisy",
+      "originalDescription": "Obowiązek nieodpłatnego udostępniania klientom wody z kranu, między innymi w restauracjach, ma trafić do osobnego projektu ustawy - przekazał rzecznik Ministerstwa Klimatu i Środowisk Marek Pogorzelski. Podkreślił, że resort nie rezygnuje z pomysłu, choć usunął go z procedowanego projektu ustawy o opakowaniach."
+    },
+    {
+      "title": "Żabka potwierdza atak hakerów. Wykradzione dane można kupić za pięć tysięcy euro",
+      "link": "https://tvn24.pl/biznes/tech/atak-hakerski-na-siec-sklepow-zabka-co-maja-zrobic-klienci-st9172240?source=rss",
+      "pubDate": "Mon, 03 Aug 2026 17:30:12 GMT",
+      "description": "Wyciekły dane osobowe pracowników, ich partnerów i prawdopodobnie klientów sieci sklepów Żabka. Sieć potwierdziła zdarzenie. Nieznana grupa hakerów ma chwalić się atakiem, a wykradzione dane oferują na sprzedaż za kilka tysięcy euro.",
+      "originalTitle": "Żabka potwierdza atak hakerów. Wykradzione dane można kupić za pięć tysięcy euro",
+      "originalDescription": "Wyciekły dane osobowe pracowników, ich partnerów i prawdopodobnie klientów sieci sklepów Żabka. Sieć potwierdziła zdarzenie. Nieznana grupa hakerów ma chwalić się atakiem, a wykradzione dane oferują na sprzedaż za kilka tysięcy euro."
+    },
+    {
+      "title": "\"Jedno pytanie nasuwa się na myśl: skąd oni wzięli tyle blokad?\"",
+      "link": "https://tvn24.pl/swiat/tatry-wysokie-dlugi-rzad-samochodow-na-polskich-tablicach-rejestracyjnych-z-blokadami-na-kolach-st9172529?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 08:37:39 GMT",
+      "description": "Długi rząd samochodów na polskich tablicach rejestracyjnych z blokadami na kołach - media społecznościowe obiegło nagranie zarejestrowane przy parkingu w słowackich Tatrach. I wywołało emocje nie tylko wśród Słowaków.",
+      "originalTitle": "\"Jedno pytanie nasuwa się na myśl: skąd oni wzięli tyle blokad?\"",
+      "originalDescription": "Długi rząd samochodów na polskich tablicach rejestracyjnych z blokadami na kołach - media społecznościowe obiegło nagranie zarejestrowane przy parkingu w słowackich Tatrach. I wywołało emocje nie tylko wśród Słowaków."
+    },
+    {
+      "title": "Przybyło czerwonych alarmów przed upałem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przed-upalami-alarmy-najwyzszego-stopnia-tu-bedzie-najgorecej-st9170791?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 04:37:13 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed upałem i burzami. Synoptycy wydali żółte, pomarańczowe i czerwone alarmy. Sprawdź szczegóły.",
+      "originalTitle": "Przybyło czerwonych alarmów przed upałem",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed upałem i burzami. Synoptycy wydali żółte, pomarańczowe i czerwone alarmy. Sprawdź szczegóły."
+    },
+    {
+      "title": "Piotr Pytel o ułaskawieniu. \"Zadzwonił do mnie mój przyjaciel\"",
+      "link": "https://tvn24.pl/polska/piotr-pytel-ulaskawiony-przez-karola-nawrockiego-rozmowa-z-reporterem-tvn24-o-planach-na-przyszlosc-st9172537?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 08:13:10 GMT",
+      "description": "Cały czas się aklimatyzuję i jednocześnie cieszę - powiedział w rozmowie z reporterem TVN24 Piotr Pytel, który został ułaskawiony przez Karola Nawrockiego. Dziękował prezydentowi \"za to, że podarował mu życie\". Wyjawił też, jak dowiedział się o jego decyzji. Ruch prezydenta komentował również pełnomocnik Pytla.",
+      "originalTitle": "Piotr Pytel o ułaskawieniu. \"Zadzwonił do mnie mój przyjaciel\"",
+      "originalDescription": "Cały czas się aklimatyzuję i jednocześnie cieszę - powiedział w rozmowie z reporterem TVN24 Piotr Pytel, który został ułaskawiony przez Karola Nawrockiego. Dziękował prezydentowi \"za to, że podarował mu życie\". Wyjawił też, jak dowiedział się o jego decyzji. Ruch prezydenta komentował również pełnomocnik Pytla."
+    },
+    {
+      "title": "Trump pod presją. Połowa stanów chce zablokować jego ruch",
+      "link": "https://tvn24.pl/biznes/ze-swiata/nowe-cla-trumpa-zaskarzone-25-stanow-zlozylo-pozew-st9172548?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 08:08:49 GMT",
+      "description": "Decyzja administracji Donalda Trumpa wywołała bunt w części Stanów Zjednoczonych. Do sądu trafił pozew kwestionujący nowe cła wobec 60 partnerów handlowych. W pozwie, do którego dotarło BBC, koalicja stanów rządzonych przez demokratów argumentuje, że decyzja administracji była \"arbitralna, kapryśna i sprzeczna z prawem\".",
+      "originalTitle": "Trump pod presją. Połowa stanów chce zablokować jego ruch",
+      "originalDescription": "Decyzja administracji Donalda Trumpa wywołała bunt w części Stanów Zjednoczonych. Do sądu trafił pozew kwestionujący nowe cła wobec 60 partnerów handlowych. W pozwie, do którego dotarło BBC, koalicja stanów rządzonych przez demokratów argumentuje, że decyzja administracji była \"arbitralna, kapryśna i sprzeczna z prawem\"."
+    },
+    {
+      "title": "Japonia zmaga się z problemem bezsenności. Pomóc mają specjalne skafandry, maski i kapsuły",
+      "link": "https://tvn24.pl/zdrowie/japonia-bezsennosc-ogolnokrajowym-problemem-rynek-przejmuja-kolejne-gadzety-poprawiajace-zasypianie-st9172401?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 07:35:24 GMT",
+      "description": "Japonia zmaga się z problemem bezsenności. Kraj słynący z etosu pracy, gdzie nawet premier deklaruje, że sypia zaledwie cztery godziny dziennie, zderza się z konsekwencjami zdrowotnymi tego stylu życia. Badania nad zasypianiem otworzyły w Azji nowy rynek wspomagaczy snu - oferowane są maski, opaski na oczy, czujniki chrapania i specjalne skafandry, które jak kokon mają utulić i pozwolić szybciej zasnąć.",
+      "originalTitle": "Japonia zmaga się z problemem bezsenności. Pomóc mają specjalne skafandry, maski i kapsuły",
+      "originalDescription": "Japonia zmaga się z problemem bezsenności. Kraj słynący z etosu pracy, gdzie nawet premier deklaruje, że sypia zaledwie cztery godziny dziennie, zderza się z konsekwencjami zdrowotnymi tego stylu życia. Badania nad zasypianiem otworzyły w Azji nowy rynek wspomagaczy snu - oferowane są maski, opaski na oczy, czujniki chrapania i specjalne skafandry, które jak kokon mają utulić i pozwolić szybciej zasnąć."
+    },
+    {
+      "title": "Kontrola drogowa i \"dynamiczne zatrzymanie\". Pasażer trafi do więzienia na 11 lat",
+      "link": "https://tvn24.pl/krakow/chrzanow-zatrzymali-mezczyzne-poszukiwanego-dwoma-listami-gonczymi-st9172501?source=rss",
+      "pubDate": "Tue, 04 Aug 2026 07:30:29 GMT",
+      "description": "Policjanci z Chrzanowa zatrzymali 45-latka poszukiwanego dwoma listami gończymi. Mężczyzna został skazany w sumie na 11 lat więzienia. Wpadł podczas podróży samochodem.",
+      "originalTitle": "Kontrola drogowa i \"dynamiczne zatrzymanie\". Pasażer trafi do więzienia na 11 lat",
+      "originalDescription": "Policjanci z Chrzanowa zatrzymali 45-latka poszukiwanego dwoma listami gończymi. Mężczyzna został skazany w sumie na 11 lat więzienia. Wpadł podczas podróży samochodem."
+    },
+    {
+      "title": "Traktor wjechał pod opadające rogatki, uderzył w niego pociąg. Nagranie",
+      "link": "https://tvn24.pl/trojmiasto/czarlin-traktor-wjechal-pod-opadajace-rogatki-uderzyl-w-niego-pociag-nagranie-st9171559?source=rss",
+      "pubDate": "Mon, 03 Aug 2026 13:49:20 GMT",
+      "description": "W Czarlinie (woj. pomorskie) traktor z przyczepą wjechał pod zamykające się rogatki na przejeździe kolejowym. W przyczepę uderzył pociąg relacji Bielsko-Biała - Gdynia. Zdarzenie widać na nagraniu opublikowanym przez kolejarzy. Pierwsze informacje i zdjęcia otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Traktor wjechał pod opadające rogatki, uderzył w niego pociąg. Nagranie",
+      "originalDescription": "W Czarlinie (woj. pomorskie) traktor z przyczepą wjechał pod zamykające się rogatki na przejeździe kolejowym. W przyczepę uderzył pociąg relacji Bielsko-Biała - Gdynia. Zdarzenie widać na nagraniu opublikowanym przez kolejarzy. Pierwsze informacje i zdjęcia otrzymaliśmy na Kontakt24."
+    }
+  ]
 }
