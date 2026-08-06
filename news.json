@@ -1,6 +1,85 @@
 {
-  "lastUpdate": "2026-08-05T22:58:04.106Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-06T00:04:39.043Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Powierzchnia Słońca z bliska. Takich zdjęć nigdy wcześniej nie wykonano",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/powierzchnia-slonca-z-bliska-teleskop-sloneczny-imienia-daniela-k-inouye-na-hawajach-wykonal-zdjecia-w-duzej-rozdzielczosci-st9175795?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 20:37:56 GMT",
+      "description": "Astronomowie wykonali zdjęcia powierzchni Słońca o najwyższej dotychczas uzyskanej rozdzielczości. Ujrzeli wiry gorącej plazmy, które - jak zwraca uwagę agencja Reuters - przypominają postimpresjonistyczne obrazy Vincenta van Gogha.",
+      "originalTitle": "Powierzchnia Słońca z bliska. Takich zdjęć nigdy wcześniej nie wykonano",
+      "originalDescription": "Astronomowie wykonali zdjęcia powierzchni Słońca o najwyższej dotychczas uzyskanej rozdzielczości. Ujrzeli wiry gorącej plazmy, które - jak zwraca uwagę agencja Reuters - przypominają postimpresjonistyczne obrazy Vincenta van Gogha."
+    },
+    {
+      "title": "Upały w Europie. Padają rekordy, brakuje wody",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/upaly-w-europie-padaja-rekordy-brakuje-wody-st9175736?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 20:03:07 GMT",
+      "description": "Europa jest kontynentem, który ociepla się najszybciej na świecie. Tego lata raz po raz nawiedzają ją upały oraz niszczycielskie pożary lasów. W środę niepokojące wieści płynęły nie tylko z południa, lecz także ze środkowej części Starego Kontynentu.",
+      "originalTitle": "Upały w Europie. Padają rekordy, brakuje wody",
+      "originalDescription": "Europa jest kontynentem, który ociepla się najszybciej na świecie. Tego lata raz po raz nawiedzają ją upały oraz niszczycielskie pożary lasów. W środę niepokojące wieści płynęły nie tylko z południa, lecz także ze środkowej części Starego Kontynentu."
+    },
+    {
+      "title": "Wielkie ochłodzenie, a potem powrót upału. Pogoda na weekend",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/wielkie-ochlodzenie-a-potem-powrot-upalu-pogoda-na-weekend-st9175775?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 19:48:44 GMT",
+      "description": "W Polsce trwa fala upałów, która nie daje wytchnienia od gorąca nawet w nocy. Do kraju zbliża się jednak front, który stopniowo będzie wypierał to zwrotnikowe powietrze.",
+      "originalTitle": "Wielkie ochłodzenie, a potem powrót upału. Pogoda na weekend",
+      "originalDescription": "W Polsce trwa fala upałów, która nie daje wytchnienia od gorąca nawet w nocy. Do kraju zbliża się jednak front, który stopniowo będzie wypierał to zwrotnikowe powietrze."
+    },
+    {
+      "title": "Dziś ważny termin w aplikacji mObywatel. Użytkownicy zgłaszają problemy",
+      "link": "https://tvn24.pl/biznes/z-kraju/dzis-wazny-termin-w-aplikacji-mobywatel-uzytkownicy-zglaszaja-problemy-5-sierpnia-2026-roku-st9174382?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 09:05:31 GMT",
+      "description": "W serwisie Downdetector pojawiają się setki zgłoszeń dotyczących problemów w działaniu rządowej aplikacji mObywatel. Dzisiaj upływa termin, w którym każdy użytkownik powinien zalogować się do serwisu w celu aktualizacji dokumentów.",
+      "originalTitle": "Dziś ważny termin w aplikacji mObywatel. Użytkownicy zgłaszają problemy",
+      "originalDescription": "W serwisie Downdetector pojawiają się setki zgłoszeń dotyczących problemów w działaniu rządowej aplikacji mObywatel. Dzisiaj upływa termin, w którym każdy użytkownik powinien zalogować się do serwisu w celu aktualizacji dokumentów."
+    },
+    {
+      "title": "Amerykanie przejmują plac budowy pierwszej polskiej elektrowni atomowej",
+      "link": "https://tvn24.pl/biznes/z-kraju/pierwsza-polska-elektrownia-atomowa-amerykanskie-firmy-przejmuja-plac-budowy-st9175752?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 19:37:39 GMT",
+      "description": "Za dziesięć lat ma rozpocząć się praca pierwszej polskiej elektrowni atomowej w Lubiatowie-Kopalinie na Pomorzu. Dziś odpowiedzialna za jej budowę amerykańska firma Bechtel oficjalnie przejęła plac budowy. Na miejscu był reporter \"Faktów\" TVN Jan Błaszkowski.",
+      "originalTitle": "Amerykanie przejmują plac budowy pierwszej polskiej elektrowni atomowej",
+      "originalDescription": "Za dziesięć lat ma rozpocząć się praca pierwszej polskiej elektrowni atomowej w Lubiatowie-Kopalinie na Pomorzu. Dziś odpowiedzialna za jej budowę amerykańska firma Bechtel oficjalnie przejęła plac budowy. Na miejscu był reporter \"Faktów\" TVN Jan Błaszkowski."
+    },
+    {
+      "title": "Gdzie jest burza? Silne opady deszczu i porywisty wiatr w kilku regionach kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-srode-05-08-radar-i-mapa-burz-uwaga-na-opady-gradu-st9175608?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 16:10:47 GMT",
+      "description": "Gdzie jest burza? W środę 5.08 w Polsce grzmi. Wyładowaniom towarzyszą silne opady deszczu oraz porywy wiatru. Śledź aktualną sytuację burzową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Silne opady deszczu i porywisty wiatr w kilku regionach kraju",
+      "originalDescription": "Gdzie jest burza? W środę 5.08 w Polsce grzmi. Wyładowaniom towarzyszą silne opady deszczu oraz porywy wiatru. Śledź aktualną sytuację burzową w tvnmeteo.pl."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Uwaga na nocne burze i powrót nieznośnego upału",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przed-upalami-i-burzami-alarmy-najwyzszego-stopnia-tu-bedzie-najgorecej-st9170791?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 04:32:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej nie przestaje ostrzegać przed upałem. Poza tym synoptycy spodziewają się burz. Sprawdź, na jak silne zjawiska się przygotować.",
+      "originalTitle": "Ostrzeżenia IMGW. Uwaga na nocne burze i powrót nieznośnego upału",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej nie przestaje ostrzegać przed upałem. Poza tym synoptycy spodziewają się burz. Sprawdź, na jak silne zjawiska się przygotować."
+    },
+    {
+      "title": "Wspólny front. Na czele prezes wielkiego banku",
+      "link": "https://tvn24.pl/biznes/tech/wspolny-front-na-czele-prezes-wielkiego-banku-st9175400?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 18:40:50 GMT",
+      "description": "Brak opisu"
+    },
+    {
+      "title": "Domański: nie zapadła decyzja, deklaracja nie padła",
+      "link": "https://tvn24.pl/biznes/z-kraju/andrzej-domanski-nie-zapadla-decyzja-deklaracja-nie-padla-minister-finansow-o-reformie-podatkowej-i-obnizce-cen-paliw-st9175688?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 18:08:09 GMT",
+      "description": "Pracujemy kompleksowo nad zmianami podatkowymi - zapewniał Andrzej Domański w programie \"Fakty po Faktach\" w TVN24. Minister finansów i gospodarki stwierdził jednak, że wpis szefowej resortu funduszy Katarzyny Pełczyńskiej-Nałęcz o \"sukcesie\" w sprawie podniesienia drugiego progu podatkowego to \"bezpodstawny tweet\". Dodał, że \"do końca sierpnia wszystko będzie jasne\".",
+      "originalTitle": "Domański: nie zapadła decyzja, deklaracja nie padła",
+      "originalDescription": "Pracujemy kompleksowo nad zmianami podatkowymi - zapewniał Andrzej Domański w programie \"Fakty po Faktach\" w TVN24. Minister finansów i gospodarki stwierdził jednak, że wpis szefowej resortu funduszy Katarzyny Pełczyńskiej-Nałęcz o \"sukcesie\" w sprawie podniesienia drugiego progu podatkowego to \"bezpodstawny tweet\". Dodał, że \"do końca sierpnia wszystko będzie jasne\"."
+    },
+    {
+      "title": "Kasacja PiS oddalona. Partia nie dostanie sześciu milionów złotych",
+      "link": "https://tvn24.pl/polska/kasacja-pis-oddalona-przez-nsa-partia-nie-dostanie-szesciu-milionow-zlotych-subwencji-st9175702?source=rss",
+      "pubDate": "Wed, 05 Aug 2026 18:05:02 GMT",
+      "description": "Prawo i Sprawiedliwość przegrało sprawę dotyczącą zmniejszenia subwencji. Naczelny Sąd Administracyjny oddalił kasację partii. W ubiegłym roku WSA w Warszawie orzekł, że minister finansów nie pozostaje w bezczynności, nie wypłacając PiS pieniędzy. Sprawa sięga kampanii wyborczej w 2023 roku i decyzji PKW.",
+      "originalTitle": "Kasacja PiS oddalona. Partia nie dostanie sześciu milionów złotych",
+      "originalDescription": "Prawo i Sprawiedliwość przegrało sprawę dotyczącą zmniejszenia subwencji. Naczelny Sąd Administracyjny oddalił kasację partii. W ubiegłym roku WSA w Warszawie orzekł, że minister finansów nie pozostaje w bezczynności, nie wypłacając PiS pieniędzy. Sprawa sięga kampanii wyborczej w 2023 roku i decyzji PKW."
+    }
+  ]
 }
