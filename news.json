@@ -1,8 +1,40 @@
 {
-  "lastUpdate": "2026-08-07T16:53:59.407Z",
+  "lastUpdate": "2026-08-07T17:49:13.284Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Ciężarówka zmiażdżyła samochód",
+      "link": "https://tvn24.pl/poznan/garbatka-zderzenie-dwoch-ciezarowek-i-osobowki-st9179812?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 17:42:24 GMT",
+      "description": "W Garbatce (woj. wielkopolskie) zderzyły się dwa samochody ciężarowe, w wypadku uczestniczyło też auto osobowe. Na zdjęciach z miejsca zdarzenia widać, że mniejszy samochód znalazł się w całości pod jedną z ciężarówek. Mimo to służby informują, że wszyscy uczestnicy wypadku opuścili pojazdy o własnych siłach.",
+      "originalTitle": "Ciężarówka zmiażdżyła samochód",
+      "originalDescription": "W Garbatce (woj. wielkopolskie) zderzyły się dwa samochody ciężarowe, w wypadku uczestniczyło też auto osobowe. Na zdjęciach z miejsca zdarzenia widać, że mniejszy samochód znalazł się w całości pod jedną z ciężarówek. Mimo to służby informują, że wszyscy uczestnicy wypadku opuścili pojazdy o własnych siłach."
+    },
+    {
+      "title": "Korea inwestuje od kołyski. Rośnie liczba kont maklerskich wśród dzieci",
+      "link": "https://tvn24.pl/biznes/ze-swiata/korea-poludniowa-coraz-wiecej-kont-inwestycyjnych-dla-dzieci-apetyt-na-akcje-rosnie-st9179408?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 17:39:54 GMT",
+      "description": "W Korei Południowej rośnie popularność kont inwestycyjnych otwieranych dla dzieci poniżej pierwszego roku życia. W ciągu roku liczba tego typu rachunków w największym domu maklerskim Mirae Asset Securities w kraju zwiększyła się niemal trzykrotnie, do 15 tysięcy - przekazała stacja CNBC.",
+      "originalTitle": "Korea inwestuje od kołyski. Rośnie liczba kont maklerskich wśród dzieci",
+      "originalDescription": "W Korei Południowej rośnie popularność kont inwestycyjnych otwieranych dla dzieci poniżej pierwszego roku życia. W ciągu roku liczba tego typu rachunków w największym domu maklerskim Mirae Asset Securities w kraju zwiększyła się niemal trzykrotnie, do 15 tysięcy - przekazała stacja CNBC."
+    },
+    {
+      "title": "Donald Trump: wyborcy są źli na republikanów, nie na mnie",
+      "link": "https://tvn24.pl/swiat/donald-trump-wyborcy-sa-zli-na-republikanow-nie-na-mnie-mam-swietna-zdolnosc-blokowania-jestem-swietnym-blokujacym-st9179559?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 17:32:57 GMT",
+      "description": "W USA jesienią odbędą się wybory uzupełniające do Kongresu. Prezydent Donald Trump ocenił, że wielu wyborców republikanów jest złych na swoich kongresmenów, ale nie na niego. Powiedział też, że gdyby demokraci przejęli Kongres, to on byłby \"świetnym blokującym\" wobec \"strasznych, komunistycznych rzeczy\".",
+      "originalTitle": "Donald Trump: wyborcy są źli na republikanów, nie na mnie",
+      "originalDescription": "W USA jesienią odbędą się wybory uzupełniające do Kongresu. Prezydent Donald Trump ocenił, że wielu wyborców republikanów jest złych na swoich kongresmenów, ale nie na niego. Powiedział też, że gdyby demokraci przejęli Kongres, to on byłby \"świetnym blokującym\" wobec \"strasznych, komunistycznych rzeczy\"."
+    },
+    {
+      "title": "Co tak naprawdę się dzieje z najwyższym przywódcą Iranu? Jego stan zdrowia ma być bardzo zły",
+      "link": "https://tvn24.pl/swiat/iran-modztaba-chamenei-ma-miec-powazne-problemy-ze-zdrowiem-nawet-prezydent-masud-pezeszkian-ma-bardzo-utrudnione-kontakty-z-najwyzszym-przywodca-st9179524?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 17:16:24 GMT",
+      "description": "Nawet prezydent Iranu Masud Pezeszkian - jak sam przyznał w jednym z przemówień - ma \"bardzo utrudnione\" kontakty z najwyższym przywódcą. Modżtaba Chamenei nie pokazuje się publicznie od wybuchu wojny. Irańskie emigranckie media piszą, że jego stan zdrowia jest krytyczny.",
+      "originalTitle": "Co tak naprawdę się dzieje z najwyższym przywódcą Iranu? Jego stan zdrowia ma być bardzo zły",
+      "originalDescription": "Nawet prezydent Iranu Masud Pezeszkian - jak sam przyznał w jednym z przemówień - ma \"bardzo utrudnione\" kontakty z najwyższym przywódcą. Modżtaba Chamenei nie pokazuje się publicznie od wybuchu wojny. Irańskie emigranckie media piszą, że jego stan zdrowia jest krytyczny."
+    },
     {
       "title": "Ataki na magazyny Wildberries. Firma chce otwierać nowe huby",
       "link": "https://tvn24.pl/biznes/ze-swiata/widlberries-chce-otwierac-nowe-huby-magazynowe-ukraina-zniszczyla-obiekty-firmy-st9179508?source=rss",
@@ -31,9 +63,9 @@
       "title": "Ponad 80 litrów deszczu na Podkarpaciu. Ulice Rzeszowa jak rzeki",
       "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-ponad-80-litrow-deszczu-na-podkarpaciu-ulice-rzeszowa-jak-rzeki-st9179425?source=rss",
       "pubDate": "Fri, 07 Aug 2026 16:05:47 GMT",
-      "description": "W nocy i w piątek przez Polskę przetoczył się front. Według informacji naszej synoptyk przyniósł obfite opady na południowym wschodzie kraju. Na Kontakt24 otrzymaliśmy nagranie pokazujące jedną z ulic w Rzeszowie po przejściu ulewy.",
+      "description": "W nocy i w piątek przez Polskę przetoczył się front z burzami. Według informacji naszej synoptyk przyniósł obfite opady na południowym wschodzie kraju. Na Kontakt24 otrzymaliśmy nagranie pokazujące jedną z ulic w Rzeszowie po przejściu ulewy.",
       "originalTitle": "Ponad 80 litrów deszczu na Podkarpaciu. Ulice Rzeszowa jak rzeki",
-      "originalDescription": "W nocy i w piątek przez Polskę przetoczył się front. Według informacji naszej synoptyk przyniósł obfite opady na południowym wschodzie kraju. Na Kontakt24 otrzymaliśmy nagranie pokazujące jedną z ulic w Rzeszowie po przejściu ulewy."
+      "originalDescription": "W nocy i w piątek przez Polskę przetoczył się front z burzami. Według informacji naszej synoptyk przyniósł obfite opady na południowym wschodzie kraju. Na Kontakt24 otrzymaliśmy nagranie pokazujące jedną z ulic w Rzeszowie po przejściu ulewy."
     },
     {
       "title": "Nie żyje William Orbit. Słynny producent muzyczny miał 69 lat",
@@ -50,38 +82,6 @@
       "description": "W piątek weszła w życie ustawa, która ma na celu usprawnienie rozpatrywania przez sądy tak zwanych spraw frankowych - poinformowało Ministerstwo Sprawiedliwości. W ramach nowego prawa wprowadzono szereg zmian proceduralnych.",
       "originalTitle": "Ułatwienia dla frankowiczów. Ustawa weszła w życie",
       "originalDescription": "W piątek weszła w życie ustawa, która ma na celu usprawnienie rozpatrywania przez sądy tak zwanych spraw frankowych - poinformowało Ministerstwo Sprawiedliwości. W ramach nowego prawa wprowadzono szereg zmian proceduralnych."
-    },
-    {
-      "title": "Finał urodzinowej trasy TVN24 w Warszawie. Jaka będzie pogoda",
-      "link": "https://tvn24.pl/tvnmeteo/polska/final-urodzinowej-trasy-tvn24-w-warszawie-jaka-bedzie-pogoda-st9179356?source=rss",
-      "pubDate": "Fri, 07 Aug 2026 15:18:13 GMT",
-      "description": "W najbliższą niedzielę, 9 sierpnia, odbędzie się finał urodzinowej trasy TVN24. Tego dnia spotkamy się z Wami pod Pałacem Kultury i Nauki w Warszawie. Jakiej pogody możemy się spodziewać?",
-      "originalTitle": "Finał urodzinowej trasy TVN24 w Warszawie. Jaka będzie pogoda",
-      "originalDescription": "W najbliższą niedzielę, 9 sierpnia, odbędzie się finał urodzinowej trasy TVN24. Tego dnia spotkamy się z Wami pod Pałacem Kultury i Nauki w Warszawie. Jakiej pogody możemy się spodziewać?"
-    },
-    {
-      "title": "Kierowcy odetchną z ulgą. \"Oczekujemy obniżek\"",
-      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-w-polsce-prognoza-analitykow-na-drugi-tydzien-sierpnia-oczekujemy-obnizek-st9179337?source=rss",
-      "pubDate": "Fri, 07 Aug 2026 15:06:20 GMT",
-      "description": "Ceny paliw na stacjach mogą w przyszłym tygodniu wyraźnie spaść. Analitycy prognozują obniżki benzyny nawet o 20 groszy na litrze i diesla o około 10 groszy, co jest efektem gwałtownego spadku cen paliw w hurcie po przecenie ropy na światowych rynkach.",
-      "originalTitle": "Kierowcy odetchną z ulgą. \"Oczekujemy obniżek\"",
-      "originalDescription": "Ceny paliw na stacjach mogą w przyszłym tygodniu wyraźnie spaść. Analitycy prognozują obniżki benzyny nawet o 20 groszy na litrze i diesla o około 10 groszy, co jest efektem gwałtownego spadku cen paliw w hurcie po przecenie ropy na światowych rynkach."
-    },
-    {
-      "title": "Cztery lata więzienia w zawieszeniu za książki o tematyce LGBT. Wydawca skazany",
-      "link": "https://tvn24.pl/swiat/rosja-kara-czterech-lat-wiezienia-dla-wydawcy-ksiazek-o-tematyce-lgbt-dmitrija-protopopowa-st9179280?source=rss",
-      "pubDate": "Fri, 07 Aug 2026 14:57:31 GMT",
-      "description": "Rosyjski sąd skazał wydawcę na cztery lata więzienia w zawieszeniu za sprzedaż książek poruszających tematykę osób LGBT - poinformowała propagandowa agencja TASS. To nie pierwszy przypadek narastających w Rosji represji związanych ze społecznością LGBT+.",
-      "originalTitle": "Cztery lata więzienia w zawieszeniu za książki o tematyce LGBT. Wydawca skazany",
-      "originalDescription": "Rosyjski sąd skazał wydawcę na cztery lata więzienia w zawieszeniu za sprzedaż książek poruszających tematykę osób LGBT - poinformowała propagandowa agencja TASS. To nie pierwszy przypadek narastających w Rosji represji związanych ze społecznością LGBT+."
-    },
-    {
-      "title": "Test na boreliozę po ukłuciu kleszcza. Nie rób go zbyt wcześnie",
-      "link": "https://tvn24.pl/zdrowie/test-na-borelioze-kiedy-go-wykonac-i-jak-interpretowac-wynik-st9179253?source=rss",
-      "pubDate": "Fri, 07 Aug 2026 14:50:07 GMT",
-      "description": "Liczba zachorowań na boreliozę rośnie z roku na rok. Jak upewnić się, że z urlopu nie wróciliśmy z tą groźną chorobą? O prawidłową diagnostykę zapytaliśmy dr n. med. Karolinę Pyziak-Kowalską, specjalistkę chorób zakaźnych. Ekspertka wyjaśnia też, czy warto wykonać test prywatnie i rozwiewa inne mity o chorobach przenoszonych przez kleszcze.",
-      "originalTitle": "Test na boreliozę po ukłuciu kleszcza. Nie rób go zbyt wcześnie",
-      "originalDescription": "Liczba zachorowań na boreliozę rośnie z roku na rok. Jak upewnić się, że z urlopu nie wróciliśmy z tą groźną chorobą? O prawidłową diagnostykę zapytaliśmy dr n. med. Karolinę Pyziak-Kowalską, specjalistkę chorób zakaźnych. Ekspertka wyjaśnia też, czy warto wykonać test prywatnie i rozwiewa inne mity o chorobach przenoszonych przez kleszcze."
     }
   ]
 }
