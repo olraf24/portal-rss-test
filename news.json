@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-07T10:51:16.123Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-07T11:44:25.650Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zmiany w ochronie zdrowia. Co przyniosły rozmowy Zespołu Trójstronnego?",
+      "link": "https://tvn24.pl/zdrowie/zmiany-w-ochronie-zdrowia-co-przyniosly-rozmowy-zespolu-trojstronnego-st9178827?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 11:32:01 GMT",
+      "description": "Niemal cztery godziny rozmów, wiele pytań i wniosek o wydłużenie czasu konsultacji społecznych. Czwartkowe obrady Trójstronnego Zespołu ds. Ochrony Zdrowia dotyczyły projektów ustaw i rozporządzeń, które mają wdrożyć zapowiadane zmiany w ochronie zdrowia. Chodzi m.in. o ograniczenie zarobków medyków.",
+      "originalTitle": "Zmiany w ochronie zdrowia. Co przyniosły rozmowy Zespołu Trójstronnego?",
+      "originalDescription": "Niemal cztery godziny rozmów, wiele pytań i wniosek o wydłużenie czasu konsultacji społecznych. Czwartkowe obrady Trójstronnego Zespołu ds. Ochrony Zdrowia dotyczyły projektów ustaw i rozporządzeń, które mają wdrożyć zapowiadane zmiany w ochronie zdrowia. Chodzi m.in. o ograniczenie zarobków medyków."
+    },
+    {
+      "title": "Bruksela reaguje na rosyjskie naloty. Nowe sankcje uderzają w ludzi Kremla",
+      "link": "https://tvn24.pl/biznes/ze-swiata/unia-europejska-naklada-nowe-sankcje-na-rosje-po-serii-atakow-na-ukraine-st9178826?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 11:31:37 GMT",
+      "description": "Unia Europejska nałożyła sankcje na pięć kolejnych osób związanych z rosyjskim przemysłem zbrojeniowym. Jak poinformowała szefowa unijnej dyplomacji Kaja Kallas, to odpowiedź na ostatnią falę rosyjskich ataków na Ukrainę.",
+      "originalTitle": "Bruksela reaguje na rosyjskie naloty. Nowe sankcje uderzają w ludzi Kremla",
+      "originalDescription": "Unia Europejska nałożyła sankcje na pięć kolejnych osób związanych z rosyjskim przemysłem zbrojeniowym. Jak poinformowała szefowa unijnej dyplomacji Kaja Kallas, to odpowiedź na ostatnią falę rosyjskich ataków na Ukrainę."
+    },
+    {
+      "title": "Samochód uderzył w żłobek. Ewakuowano 33 osoby",
+      "link": "https://tvn24.pl/lodz/kutno-samochod-uderzyl-w-zlobek-ewakuowano-33-osoby-st9178870?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 11:12:38 GMT",
+      "description": "74-letni kierujący samochodem osobowym stracił panowanie nad pojazdem i uderzył w budynek żłobka miejskiego w Kutnie. Nikomu nic się nie stało, ale ewakuowano 19 dzieci i 14 pracowników placówki.",
+      "originalTitle": "Samochód uderzył w żłobek. Ewakuowano 33 osoby",
+      "originalDescription": "74-letni kierujący samochodem osobowym stracił panowanie nad pojazdem i uderzył w budynek żłobka miejskiego w Kutnie. Nikomu nic się nie stało, ale ewakuowano 19 dzieci i 14 pracowników placówki."
+    },
+    {
+      "title": "Dolphin sparaliżował część Japonii",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tajfun-dolphin-sparalizowal-czesc-japonii-st9178789?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 11:11:01 GMT",
+      "description": "Tajfun Dolphin zbliżył się do Japonii. Żywioł niesie ulewny deszcz, silne podmuchy wiatru i wysokie fale na morzu. Linie lotnicze odwołały ponad pół tysiąca lotów, a władze wydały nakazy ewakuacji dla setek tysięcy mieszkańców.",
+      "originalTitle": "Dolphin sparaliżował część Japonii",
+      "originalDescription": "Tajfun Dolphin zbliżył się do Japonii. Żywioł niesie ulewny deszcz, silne podmuchy wiatru i wysokie fale na morzu. Linie lotnicze odwołały ponad pół tysiąca lotów, a władze wydały nakazy ewakuacji dla setek tysięcy mieszkańców."
+    },
+    {
+      "title": "Zwłoki partnera przewiozła wózkiem dziecięcym, ciało zakopała. Zbrodnia sprzed lat rozwiązana",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-zwloki-partnera-przewiozla-wozkiem-dzieciecym-cialo-zakopala-zbrodnia-sprzed-lat-rozwiazana-st9178340?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 11:02:21 GMT",
+      "description": "Jest tymczasowy areszt i zarzuty w śledztwie dotyczącym zabójstwa mężczyzny sprzed ponad 20 lat w Olsztynie. Zakopane szczątki odnaleziono w pobliżu rzeki Łyny. Zatrzymana to była partnerka ofiary.",
+      "originalTitle": "Zwłoki partnera przewiozła wózkiem dziecięcym, ciało zakopała. Zbrodnia sprzed lat rozwiązana",
+      "originalDescription": "Jest tymczasowy areszt i zarzuty w śledztwie dotyczącym zabójstwa mężczyzny sprzed ponad 20 lat w Olsztynie. Zakopane szczątki odnaleziono w pobliżu rzeki Łyny. Zatrzymana to była partnerka ofiary."
+    },
+    {
+      "title": "14-latek otworzył ogień w szkole, wcześniej zabił swoich dziadków. Nowe informacje",
+      "link": "https://tvn24.pl/swiat/tajlandia-14-latek-strzelal-w-szkole-wczesniej-zabil-swoich-dziadkow-ofiary-smiertelne-i-ranni-st9178102?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 04:28:05 GMT",
+      "description": "Uczeń otworzył ogień w szkole w Tajlandii. Policja poinformowała o najnowszych ustaleniach. 14-latek najpierw zabił swoich dziadków w ich domu, a później zastrzelił pięć osób w szkole. Jest reakcja rządu.",
+      "originalTitle": "14-latek otworzył ogień w szkole, wcześniej zabił swoich dziadków. Nowe informacje",
+      "originalDescription": "Uczeń otworzył ogień w szkole w Tajlandii. Policja poinformowała o najnowszych ustaleniach. 14-latek najpierw zabił swoich dziadków w ich domu, a później zastrzelił pięć osób w szkole. Jest reakcja rządu."
+    },
+    {
+      "title": "Utknął między wiaduktami. Kilkanaście godzin czekał na pomoc",
+      "link": "https://tvn24.pl/katowice/utknal-miedzy-wiaduktami-w-zabrzu-st9178606?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 10:47:17 GMT",
+      "description": "Kierowca z Turcji utknął między wiaduktami w Zabrzu. Jak poinformowała policja, mężczyzna zignorował znak ograniczający wysokość pojazdów.",
+      "originalTitle": "Utknął między wiaduktami. Kilkanaście godzin czekał na pomoc",
+      "originalDescription": "Kierowca z Turcji utknął między wiaduktami w Zabrzu. Jak poinformowała policja, mężczyzna zignorował znak ograniczający wysokość pojazdów."
+    },
+    {
+      "title": "Zamaskowany mężczyzna miał gonić byłego księcia Andrzeja. Nowe informacje",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-byly-ksiaze-kontra-stalker-zdal-sobie-sprawe-kim-jestem-st9178420?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 10:45:16 GMT",
+      "description": "Były brytyjski książę Andrew Mountbatten-Windsor złożył zeznania odnośnie do wydarzeń z maja tego roku, kiedy to - jak twierdzi - znalazł się twarzą w twarz z mężczyzną w kominiarce, który następnie biegł za jego samochodem. Sąd zajął się sprawą w czwartek. Domniemany sprawca nie został wpuszczony do budynku.",
+      "originalTitle": "Zamaskowany mężczyzna miał gonić byłego księcia Andrzeja. Nowe informacje",
+      "originalDescription": "Były brytyjski książę Andrew Mountbatten-Windsor złożył zeznania odnośnie do wydarzeń z maja tego roku, kiedy to - jak twierdzi - znalazł się twarzą w twarz z mężczyzną w kominiarce, który następnie biegł za jego samochodem. Sąd zajął się sprawą w czwartek. Domniemany sprawca nie został wpuszczony do budynku."
+    },
+    {
+      "title": "\"Projekt Czarnek skończony\"? Prezes PiS komentuje",
+      "link": "https://tvn24.pl/polska/co-z-przemyslawem-czarnkiem-czy-bedzie-zmiana-kandydata-pis-rzeczpospolita-decyzja-zapadla-jest-komentarz-kaczynskiego-st9178476?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 10:20:05 GMT",
+      "description": "Decyzja o zmianie kandydata na premiera w Prawie i Sprawiedliwości zapadła - przekazała w piątek \"Rzeczpospolita\", powołując się na rozmówców z partii. Zdaniem dziennika jest dwóch polityków, którzy mogą zastąpić Przemysława Czarnka. Jarosław Kaczyński skomentował te doniesienia.",
+      "originalTitle": "\"Projekt Czarnek skończony\"? Prezes PiS komentuje",
+      "originalDescription": "Decyzja o zmianie kandydata na premiera w Prawie i Sprawiedliwości zapadła - przekazała w piątek \"Rzeczpospolita\", powołując się na rozmówców z partii. Zdaniem dziennika jest dwóch polityków, którzy mogą zastąpić Przemysława Czarnka. Jarosław Kaczyński skomentował te doniesienia."
+    },
+    {
+      "title": "Tobiasz Bocheński i Krzysztof Bosak o \"deportacji Ukraińców\". \"I tak to przeprowadzimy\"",
+      "link": "https://tvn24.pl/polska/tobiasz-bochenski-i-krzysztof-bosak-o-pomysle-pis-w-sprawie-deportacji-ukraincow-st9178625?source=rss",
+      "pubDate": "Fri, 07 Aug 2026 10:36:37 GMT",
+      "description": "Pomysł PiS o \"deportacji Ukraińców\" bazuje na domniemaniu ignorancji wyborców - ocenił wicemarszałek Sejmu Krzysztof Bosak. Politykowi Konfederacji odpowiedział europoseł PiS Tobiasz Bocheński. \"Jeżeli będziecie chcieli z nami pracować - to świetnie, jeżeli nie - to i tak to przeprowadzimy\" - napisał.",
+      "originalTitle": "Tobiasz Bocheński i Krzysztof Bosak o \"deportacji Ukraińców\". \"I tak to przeprowadzimy\"",
+      "originalDescription": "Pomysł PiS o \"deportacji Ukraińców\" bazuje na domniemaniu ignorancji wyborców - ocenił wicemarszałek Sejmu Krzysztof Bosak. Politykowi Konfederacji odpowiedział europoseł PiS Tobiasz Bocheński. \"Jeżeli będziecie chcieli z nami pracować - to świetnie, jeżeli nie - to i tak to przeprowadzimy\" - napisał."
+    }
+  ]
 }
