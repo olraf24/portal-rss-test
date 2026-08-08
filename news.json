@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-08T15:57:20.184Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-08T16:39:52.580Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Stan zdrowia Joe Bidena pogorszył się",
+      "link": "https://tvn24.pl/swiat/usa-rak-joe-bidena-przerzucil-sie-dalej-hunter-biden-o-stanie-zdrowia-ojca-st9180845?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 16:28:37 GMT",
+      "description": "Rak prostaty byłego prezydenta USA Joe Bidena przerzucił się nie tylko na kości, ale też zaatakował inne części jego ciała - przekazał jego syn, Hunter Biden. - To bardzo bolesne i pod wieloma względami bardzo wyniszczające - przyznał.",
+      "originalTitle": "Stan zdrowia Joe Bidena pogorszył się",
+      "originalDescription": "Rak prostaty byłego prezydenta USA Joe Bidena przerzucił się nie tylko na kości, ale też zaatakował inne części jego ciała - przekazał jego syn, Hunter Biden. - To bardzo bolesne i pod wieloma względami bardzo wyniszczające - przyznał."
+    },
+    {
+      "title": "Zakopane. Łania z pokrywą śmietnika na szyi chodzi po ulicach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/zakopane-lania-z-pokrywa-smietnika-na-szyi-chodzi-po-ulicach-st9180828?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 16:12:18 GMT",
+      "description": "Od jakiegoś czasu po Zakopanem chodzi łania z zakleszczoną pokrywą śmietnika na szyi. Po konsultacji z lekarzem weterynarii straż miejska zdecydowała, co zrobić ze zwierzęciem.",
+      "originalTitle": "Zakopane. Łania z pokrywą śmietnika na szyi chodzi po ulicach",
+      "originalDescription": "Od jakiegoś czasu po Zakopanem chodzi łania z zakleszczoną pokrywą śmietnika na szyi. Po konsultacji z lekarzem weterynarii straż miejska zdecydowała, co zrobić ze zwierzęciem."
+    },
+    {
+      "title": "Szef MSZ odpowiedział Marii Zacharowej. \"Jak zawsze czas na fakty\"",
+      "link": "https://tvn24.pl/swiat/maciej-wewior-odpowiedzial-marii-zacharowej-chodzi-o-slowa-karola-nawrockiego-o-moskalach-st9180817?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 15:50:59 GMT",
+      "description": "My nie wysyłamy żołnierzy na front, gdzie długość życia wynosi około 30 minut, a nasi politycy spierają się ze sobą, nawet stojąc przy otwartych oknach - oświadczył rzecznik MSZ Maciej Wewiór. Zaapelował w ten sposób do swojej rosyjskiej odpowiedniczki, aby zamiast szukać winnych w Warszawie, spojrzała na Moskwę.",
+      "originalTitle": "Szef MSZ odpowiedział Marii Zacharowej. \"Jak zawsze czas na fakty\"",
+      "originalDescription": "My nie wysyłamy żołnierzy na front, gdzie długość życia wynosi około 30 minut, a nasi politycy spierają się ze sobą, nawet stojąc przy otwartych oknach - oświadczył rzecznik MSZ Maciej Wewiór. Zaapelował w ten sposób do swojej rosyjskiej odpowiedniczki, aby zamiast szukać winnych w Warszawie, spojrzała na Moskwę."
+    },
+    {
+      "title": "Węgry. Dzik zawędrował na stację metra",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wegry-dzik-zawedrowal-na-stacje-metra-w-budapeszcie-st9180816?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 15:17:18 GMT",
+      "description": "W sobotę po jednej ze stacji metra w Budapeszcie wędrował dzik. Wizyta w tym miejscu nie skończyła się jednak dla niego dobrze. Według węgierskich mediów zwierzęta są widywane w mieście coraz częściej.",
+      "originalTitle": "Węgry. Dzik zawędrował na stację metra",
+      "originalDescription": "W sobotę po jednej ze stacji metra w Budapeszcie wędrował dzik. Wizyta w tym miejscu nie skończyła się jednak dla niego dobrze. Według węgierskich mediów zwierzęta są widywane w mieście coraz częściej."
+    },
+    {
+      "title": "Brutalny atak na 16-latka. Lądował śmigłowiec LPR",
+      "link": "https://tvn24.pl/szczecin/goleniow-brutalny-atak-na-16-latka-ladowal-smiglowiec-lpr-st9180778?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 14:24:25 GMT",
+      "description": "Dwóch 17-latków zostało zatrzymanych po ataku na 16-letniego chłopaka w Goleniowie. Nastolatek trafił do szpitala śmigłowcem Lotniczego Pogotowia Ratunkowego. Policja i prokuratura wyjaśniają okoliczności zdarzenia.",
+      "originalTitle": "Brutalny atak na 16-latka. Lądował śmigłowiec LPR",
+      "originalDescription": "Dwóch 17-latków zostało zatrzymanych po ataku na 16-letniego chłopaka w Goleniowie. Nastolatek trafił do szpitala śmigłowcem Lotniczego Pogotowia Ratunkowego. Policja i prokuratura wyjaśniają okoliczności zdarzenia."
+    },
+    {
+      "title": "Zamknięta Wisłostrada i odcięte zjazdy. Ćwiczenia przed defiladą",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zolnierze-cwicza-przed-defilada-w-swieto-wojska-polskiego-w-weekend-przejeli-wislostrade-st9175994?source=rss",
+      "pubDate": "Thu, 06 Aug 2026 10:30:43 GMT",
+      "description": "W weekend żołnierze na Wisłostradzie ćwiczą przed defiladą z okazji Święta Wojska Polskiego. Oznacza to duże zmiany w organizacji ruchu. Wiele ulic zostało zamkniętych. Utrudnienia odczuwają też piesi i rowerzyści.",
+      "originalTitle": "Zamknięta Wisłostrada i odcięte zjazdy. Ćwiczenia przed defiladą",
+      "originalDescription": "W weekend żołnierze na Wisłostradzie ćwiczą przed defiladą z okazji Święta Wojska Polskiego. Oznacza to duże zmiany w organizacji ruchu. Wiele ulic zostało zamkniętych. Utrudnienia odczuwają też piesi i rowerzyści."
+    },
+    {
+      "title": "Nadciągnie burzowy front. Kiedy aura znów się poprawi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-nadciagnie-burzowy-front-kiedy-aura-znow-sie-poprawi-st9180751?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 14:13:37 GMT",
+      "description": "Wyż zapewni nam pogodny weekend. Początek kolejnego tygodnia przyniesie jednak kres sielskiej aury, bo przez Polskę przetoczy się front burzowy z ulewami. Kiedy nastąpi poprawa?",
+      "originalTitle": "Nadciągnie burzowy front. Kiedy aura znów się poprawi",
+      "originalDescription": "Wyż zapewni nam pogodny weekend. Początek kolejnego tygodnia przyniesie jednak kres sielskiej aury, bo przez Polskę przetoczy się front burzowy z ulewami. Kiedy nastąpi poprawa?"
+    },
+    {
+      "title": "Ich nazwiska znają wszyscy, a kryją się w parkach i zaułkach",
+      "link": "https://tvn24.pl/polska/nazwy-ulic-dlaczego-kobiet-jest-tak-malo-na-mapach-polskich-miast-st9114496?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 14:11:09 GMT",
+      "description": "Choć kobiety stanowią ponad połowę społeczeństwa, w nazwach polskich ulic wciąż są niemal niewidoczne. Jeśli już upamiętniane, to często w miejscach, których nazw prawie nikt nie używa. To opowieść o wymazywaniu kobiet i o osobach, które na różne sposoby prostują \"skrzywioną wizję świata\".",
+      "originalTitle": "Ich nazwiska znają wszyscy, a kryją się w parkach i zaułkach",
+      "originalDescription": "Choć kobiety stanowią ponad połowę społeczeństwa, w nazwach polskich ulic wciąż są niemal niewidoczne. Jeśli już upamiętniane, to często w miejscach, których nazw prawie nikt nie używa. To opowieść o wymazywaniu kobiet i o osobach, które na różne sposoby prostują \"skrzywioną wizję świata\"."
+    },
+    {
+      "title": "Świadek o akcji ratunkowej na jeziorze Seksty. Był na miejscu jednym z pierwszych",
+      "link": "https://tvn24.pl/olsztyn/mazury-swiadek-o-akcji-ratunkowej-na-jeziorze-seksty-warunki-byly-bardzo-ciezkie-st9180703?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 13:55:07 GMT",
+      "description": "Pan Marek był jedną z pierwszych osób, która podpłynęła do wywróconych łodzi uczestników obozu żeglarskiego na jeziorze Seksty. - Warunki były bardzo ciężkie. W taką pogodę wchodzimy bardziej pod koc, a nie na pokład - powiedział w rozmowie z TVN24.",
+      "originalTitle": "Świadek o akcji ratunkowej na jeziorze Seksty. Był na miejscu jednym z pierwszych",
+      "originalDescription": "Pan Marek był jedną z pierwszych osób, która podpłynęła do wywróconych łodzi uczestników obozu żeglarskiego na jeziorze Seksty. - Warunki były bardzo ciężkie. W taką pogodę wchodzimy bardziej pod koc, a nie na pokład - powiedział w rozmowie z TVN24."
+    },
+    {
+      "title": "Musk: to będzie największy budynek świata",
+      "link": "https://tvn24.pl/biznes/tech/musk-to-bedzie-najwiekszy-budynek-swiata-st9180723?source=rss",
+      "pubDate": "Sat, 08 Aug 2026 13:43:46 GMT",
+      "description": "Firmy Elona Muska - SpaceX i Tesla - wybrały Teksas na miejsce budowy ogromnej fabryki półprzewodników. Terafab ma dostarczać chipy wykorzystywane na Ziemi i w kosmosie.",
+      "originalTitle": "Musk: to będzie największy budynek świata",
+      "originalDescription": "Firmy Elona Muska - SpaceX i Tesla - wybrały Teksas na miejsce budowy ogromnej fabryki półprzewodników. Terafab ma dostarczać chipy wykorzystywane na Ziemi i w kosmosie."
+    }
+  ]
 }
