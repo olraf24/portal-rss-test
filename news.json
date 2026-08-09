@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-09T14:33:20.364Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-09T15:31:27.143Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Guano pingwinów maluje wyspy na różowo",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/guano-pingwinow-maluje-wyspy-na-rozowo-nasa-pokazala-zdjecia-st9177515?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 14:46:14 GMT",
+      "description": "Wyspy Danger na Antarktydzie widać z satelity w różowo-pomarańczowych odcieniach. Okazuje się, że kolor ten nie jest spowodowany obecnością minerałów w skałach, a barwę zawdzięcza swoim małym, uroczym mieszkańcom.",
+      "originalTitle": "Guano pingwinów maluje wyspy na różowo",
+      "originalDescription": "Wyspy Danger na Antarktydzie widać z satelity w różowo-pomarańczowych odcieniach. Okazuje się, że kolor ten nie jest spowodowany obecnością minerałów w skałach, a barwę zawdzięcza swoim małym, uroczym mieszkańcom."
+    },
+    {
+      "title": "Izrael nie wycofa sił ze Strefy Gazy. Benjamin Netanjahu odrzuca plan Donalda Trumpa",
+      "link": "https://tvn24.pl/swiat/benjamin-netanjahu-odrzuca-plan-donalda-trumpa-dla-strefy-gazy-st9181724?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 14:37:37 GMT",
+      "description": "Dopóki Hamas nie zostanie całkowicie rozbrojony, rząd Izraela nie wycofa wojsk ze Strefy Gazy - przekazał premier Benjamin Netanjahu. Tym samym odrzucił plan pokojowy forsowany przez Stany Zjednoczone.",
+      "originalTitle": "Izrael nie wycofa sił ze Strefy Gazy. Benjamin Netanjahu odrzuca plan Donalda Trumpa",
+      "originalDescription": "Dopóki Hamas nie zostanie całkowicie rozbrojony, rząd Izraela nie wycofa wojsk ze Strefy Gazy - przekazał premier Benjamin Netanjahu. Tym samym odrzucił plan pokojowy forsowany przez Stany Zjednoczone."
+    },
+    {
+      "title": "To był punkt zwrotny. \"Kim Dzong Un jeszcze nigdy nie miał tyle gotówki\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/to-byl-punkt-zwrotny-kim-dzong-un-jeszcze-nigdy-nie-mial-tyle-gotowki-st9181423?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 14:19:28 GMT",
+      "description": "22 miliardy dolarów w cztery lata - na tyle oszacowano zagraniczne przychody reżimu Kim Dzong Una. Kraj zarabia głównie na dostawach broni dla Rosji, handlu z Chinami i kradzieży kryptowalut. Tak Korea Północna rośnie w siłę i zamienia się w nuklearne mocarstwo.",
+      "originalTitle": "To był punkt zwrotny. \"Kim Dzong Un jeszcze nigdy nie miał tyle gotówki\"",
+      "originalDescription": "22 miliardy dolarów w cztery lata - na tyle oszacowano zagraniczne przychody reżimu Kim Dzong Una. Kraj zarabia głównie na dostawach broni dla Rosji, handlu z Chinami i kradzieży kryptowalut. Tak Korea Północna rośnie w siłę i zamienia się w nuklearne mocarstwo."
+    },
+    {
+      "title": "Finał trasy urodzinowej. \"Sto lat\" dla TVN24",
+      "link": "https://tvn24.pl/polska/final-trasy-urodzinowej-tvn24-jestesmy-stad-w-warszawie-relacja-i-zdjecia-st9180962?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 04:49:21 GMT",
+      "description": "W niedzielę, w czasie finału urodzinowej trasy TVN24 \"Jesteś stąd\", widzieliśmy się z wami przed Pałacem Kultury i Nauki w Warszawie. To tu nasi dziennikarze odbyli wiele wzruszających rozmów z widzami i gośćmi, zobaczyliście, jak robi się telewizję od kuchni i odśpiewaliście nam \"Sto lat\"! Bardzo wam dziękujemy. A jak wszystko wyglądało? Zobacz naszą relację z Warszawy.",
+      "originalTitle": "Finał trasy urodzinowej. \"Sto lat\" dla TVN24",
+      "originalDescription": "W niedzielę, w czasie finału urodzinowej trasy TVN24 \"Jesteś stąd\", widzieliśmy się z wami przed Pałacem Kultury i Nauki w Warszawie. To tu nasi dziennikarze odbyli wiele wzruszających rozmów z widzami i gośćmi, zobaczyliście, jak robi się telewizję od kuchni i odśpiewaliście nam \"Sto lat\"! Bardzo wam dziękujemy. A jak wszystko wyglądało? Zobacz naszą relację z Warszawy."
+    },
+    {
+      "title": "Alarmująco niski stan wody w Wiśle. \"Organizmy w rzece mają trudności z przeżyciem\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-organizmy-zyjace-w-wisle-maja-trudnosci-z-przezyciem-st9181728?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 14:04:51 GMT",
+      "description": "W niedzielę stacja Warszawa-Bulwary wciąż notowała alarmująco niski stan wody. Do odwołania obowiązują ostrzeżenia hydrologiczne dla wielu miejsc w kraju, w tym dla mazowieckiego odcinka Wisły.",
+      "originalTitle": "Alarmująco niski stan wody w Wiśle. \"Organizmy w rzece mają trudności z przeżyciem\"",
+      "originalDescription": "W niedzielę stacja Warszawa-Bulwary wciąż notowała alarmująco niski stan wody. Do odwołania obowiązują ostrzeżenia hydrologiczne dla wielu miejsc w kraju, w tym dla mazowieckiego odcinka Wisły."
+    },
+    {
+      "title": "Czteroletnia dziewczynka spadła z piątego piętra, sąsiedzi rozciągnęli koc",
+      "link": "https://tvn24.pl/bialystok/czteroletnia-dziewczynka-spadla-z-piatego-pietra-sasiedzi-rozciagneli-koc-st9181716?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 13:37:38 GMT",
+      "description": "Do niebezpiecznego zdarzenia doszło w niedzielę przy ulicy Sybiraków w Łomży. Czteroletnia dziewczynka zwisała po zewnętrznej stronie balkonu. Straciła siły i spadła, ale złapali ją w koc sąsiedzi. Trafiła do szpitala, była przytomna.",
+      "originalTitle": "Czteroletnia dziewczynka spadła z piątego piętra, sąsiedzi rozciągnęli koc",
+      "originalDescription": "Do niebezpiecznego zdarzenia doszło w niedzielę przy ulicy Sybiraków w Łomży. Czteroletnia dziewczynka zwisała po zewnętrznej stronie balkonu. Straciła siły i spadła, ale złapali ją w koc sąsiedzi. Trafiła do szpitala, była przytomna."
+    },
+    {
+      "title": "Upał rozleje się po Polsce. 14 województw z ostrzeżeniami IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-upaly-w-polsce-pomaranczowe-i-zolte-alerty-st9180388?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 04:22:00 GMT",
+      "description": "W niedzielę upał panuje tylko w części Polski, ale w poniedziałek rozleje się po kraju. Instytut Meteorologii i Gospodarki Wodnej wydał alarmy drugiego i pierwszego stopnia przed temperaturą przekraczającą 30 stopni Celsjusza w 14 województwach.",
+      "originalTitle": "Upał rozleje się po Polsce. 14 województw z ostrzeżeniami IMGW",
+      "originalDescription": "W niedzielę upał panuje tylko w części Polski, ale w poniedziałek rozleje się po kraju. Instytut Meteorologii i Gospodarki Wodnej wydał alarmy drugiego i pierwszego stopnia przed temperaturą przekraczającą 30 stopni Celsjusza w 14 województwach."
+    },
+    {
+      "title": "Pride of Poland w Janowie Podlaskim. Oto najlepszy koń",
+      "link": "https://tvn24.pl/biznes/z-kraju/pride-of-poland-w-janowie-podlaskim-oto-najlepszy-kon-st9181698?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 13:29:06 GMT",
+      "description": "Klacz Epiforana ze stadniny w Michałowie zdobyła tytuł najlepszego konia 48. Narodowego Pokazu Koni Arabskich Czystej Krwi w Janowie Podlaskim. W wydarzeniu zaprezentowano około 120 koni z państwowych i prywatnych stadnin.",
+      "originalTitle": "Pride of Poland w Janowie Podlaskim. Oto najlepszy koń",
+      "originalDescription": "Klacz Epiforana ze stadniny w Michałowie zdobyła tytuł najlepszego konia 48. Narodowego Pokazu Koni Arabskich Czystej Krwi w Janowie Podlaskim. W wydarzeniu zaprezentowano około 120 koni z państwowych i prywatnych stadnin."
+    },
+    {
+      "title": "Były prezes NBP o politycznym tabu. \"Wszyscy boją się na ten temat cokolwiek powiedzieć\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/byly-prezes-nbp-o-politycznym-tabu-wszyscy-boja-sie-na-ten-temat-cokolwiek-powiedziec-st9181263?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 12:53:56 GMT",
+      "description": "Temat przyjęcia euro stał się w Polsce politycznym tabu, a stanowisko społeczeństwa może zmienić dopiero poważny kryzys - uważa były prezes Narodowego Banku Polskiego Marek Belka.",
+      "originalTitle": "Były prezes NBP o politycznym tabu. \"Wszyscy boją się na ten temat cokolwiek powiedzieć\"",
+      "originalDescription": "Temat przyjęcia euro stał się w Polsce politycznym tabu, a stanowisko społeczeństwa może zmienić dopiero poważny kryzys - uważa były prezes Narodowego Banku Polskiego Marek Belka."
+    },
+    {
+      "title": "Tajfun Dolphin dotarł do Chin. Ponad milion ewakuowanych",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tajfun-dolphin-dotarl-do-chin-ponad-milion-ewakuowanych-st9181418?source=rss",
+      "pubDate": "Sun, 09 Aug 2026 12:52:16 GMT",
+      "description": "Tajfun Dolphin uderzył w Chiny. Potężny żywioł, który wcześniej przetoczył się przez Filipiny i Japonię, przyniósł do kraju ulewny deszcz oraz wiatr przekraczający 160 kilometrów na godzinę. Władze ewakuowały ponad milion osób.",
+      "originalTitle": "Tajfun Dolphin dotarł do Chin. Ponad milion ewakuowanych",
+      "originalDescription": "Tajfun Dolphin uderzył w Chiny. Potężny żywioł, który wcześniej przetoczył się przez Filipiny i Japonię, przyniósł do kraju ulewny deszcz oraz wiatr przekraczający 160 kilometrów na godzinę. Władze ewakuowały ponad milion osób."
+    }
+  ]
 }
