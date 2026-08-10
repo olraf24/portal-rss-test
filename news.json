@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-10T11:46:14.587Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-10T13:06:28.157Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Incydent z dronem. Nowe ustalenia",
+      "link": "https://tvn24.pl/biznes/ze-swiata/incydent-z-dronem-nowe-ustalenia-st9182947?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:58:17 GMT",
+      "description": "W zeszłym tygodniu doszło do incydentu z dronem na lotnisku w Lipsku. Z informacji tygodnika \"Die Zeit\" wynika, że bezzałogowiec celowo uderzył w skrzydło ukraińskiego samolotu.",
+      "originalTitle": "Incydent z dronem. Nowe ustalenia",
+      "originalDescription": "W zeszłym tygodniu doszło do incydentu z dronem na lotnisku w Lipsku. Z informacji tygodnika \"Die Zeit\" wynika, że bezzałogowiec celowo uderzył w skrzydło ukraińskiego samolotu."
+    },
+    {
+      "title": "ORP Wicher gotowy do chrztu i wodowania",
+      "link": "https://tvn24.pl/trojmiasto/gdynia-orp-wicher-gotowy-do-wodowania-tak-beda-wygladac-polskie-fregaty-st9182989?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:51:58 GMT",
+      "description": "W Gdyni zaprezentowano kadłub pierwszej fregaty budowanej w ramach programu \"Miecznik\". Ceremonia chrztu oraz nadania imienia okrętowi odbędzie się w środę z udziałem przedstawicieli władz państwowych i Marynarki Wojennej RP.",
+      "originalTitle": "ORP Wicher gotowy do chrztu i wodowania",
+      "originalDescription": "W Gdyni zaprezentowano kadłub pierwszej fregaty budowanej w ramach programu \"Miecznik\". Ceremonia chrztu oraz nadania imienia okrętowi odbędzie się w środę z udziałem przedstawicieli władz państwowych i Marynarki Wojennej RP."
+    },
+    {
+      "title": "Sylwetki Barbie i Kena pod lupą. Badanie pewną zmianę",
+      "link": "https://tvn24.pl/zdrowie/naukowcy-zbadali-figury-barbie-i-kena-jak-sie-zmienily-i-dlaczego-ma-to-znaczenie-st9182455?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:47:18 GMT",
+      "description": "Barbie i Ken przeszli wyraźną metamorfozę. Choć nadal prezentują wyjątkowo szczupłe sylwetki, proporcje ich ciał są dziś znacznie bliższe ludzkim niż w przypadku wcześniejszych modeli - wykazało badanie naukowców z University of New South Wales i University of Adelaide, opublikowane w czasopiśmie \"PLOS One\". Największe zmiany dotyczą stosunku obwodu talii do bioder oraz klatki piersiowej do talii.",
+      "originalTitle": "Sylwetki Barbie i Kena pod lupą. Badanie pewną zmianę",
+      "originalDescription": "Barbie i Ken przeszli wyraźną metamorfozę. Choć nadal prezentują wyjątkowo szczupłe sylwetki, proporcje ich ciał są dziś znacznie bliższe ludzkim niż w przypadku wcześniejszych modeli - wykazało badanie naukowców z University of New South Wales i University of Adelaide, opublikowane w czasopiśmie \"PLOS One\". Największe zmiany dotyczą stosunku obwodu talii do bioder oraz klatki piersiowej do talii."
+    },
+    {
+      "title": "Zderzenie aut w Alejach Jerozolimskich",
+      "link": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-zderzenie-aut-w-alejach-jerozolimskich-st9182965?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:36:48 GMT",
+      "description": "W poniedziałek koło południa doszło do zderzenia dwóch pojazdów w Alejach Jerozolimskich na wysokości ulicy Spisaka. Występowały utrudnienia w ruchu.",
+      "originalTitle": "Zderzenie aut w Alejach Jerozolimskich",
+      "originalDescription": "W poniedziałek koło południa doszło do zderzenia dwóch pojazdów w Alejach Jerozolimskich na wysokości ulicy Spisaka. Występowały utrudnienia w ruchu."
+    },
+    {
+      "title": "Łamała przepisy, inny kierowca ją nagrał. Stanęła przed sądem",
+      "link": "https://tvn24.pl/opole/piotrowka-wyprzedzala-na-przejsciach-i-skrzyzowaniach-slono-zaplacil-st9182921?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:36:16 GMT",
+      "description": "Kierująca Volkswagenem na drodze wojewódzkiej numer 426 dopuściła się serii niebezpiecznych wykroczeń. Stanęła za nie przed sądem. Została skazana na 2,7 tysiąca złotych grzywny. Do jej konta dopisano także 45 punktów karnych, a to oznacza stratę prawa jazdy.",
+      "originalTitle": "Łamała przepisy, inny kierowca ją nagrał. Stanęła przed sądem",
+      "originalDescription": "Kierująca Volkswagenem na drodze wojewódzkiej numer 426 dopuściła się serii niebezpiecznych wykroczeń. Stanęła za nie przed sądem. Została skazana na 2,7 tysiąca złotych grzywny. Do jej konta dopisano także 45 punktów karnych, a to oznacza stratę prawa jazdy."
+    },
+    {
+      "title": "Rosyjski pocisk wleciał w polską przestrzeń. Wiceministra komentuje",
+      "link": "https://tvn24.pl/biznes/z-kraju/wiceszefowa-ministerstwa-obrony-narodowej-o-systemie-ostrzegania-komentuje-incydent-z-rosyjskim-pociskiem-st9182090?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:34:16 GMT",
+      "description": "Wiceszefowa Ministerstwa Obrony Narodowej Magdalena Sobkowiak-Czarnecka skomentowała sytuację, gdy rosyjski pocisk wleciał w polską przestrzeń powietrzną. W rozmowie z Wirtualną Polską stwierdziła że \"system po stronie wojskowej zadziałał tak, jak miał zadziałać\".",
+      "originalTitle": "Rosyjski pocisk wleciał w polską przestrzeń. Wiceministra komentuje",
+      "originalDescription": "Wiceszefowa Ministerstwa Obrony Narodowej Magdalena Sobkowiak-Czarnecka skomentowała sytuację, gdy rosyjski pocisk wleciał w polską przestrzeń powietrzną. W rozmowie z Wirtualną Polską stwierdziła że \"system po stronie wojskowej zadziałał tak, jak miał zadziałać\"."
+    },
+    {
+      "title": "Erupcja Etny znów częściowo wstrzymała loty. \"Jesteśmy zdani całkowicie na siebie\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-katania-erupcja-etny-znow-wstrzymano-loty-jestesmy-zdani-calkowicie-na-siebie-st9182171?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 08:57:56 GMT",
+      "description": "W poniedziałek z powodu aktywności Etny na lotnisku w Katanii znów wstrzymano loty. Włoskie służby monitorujące wulkan wydały czerwony, najwyższy alarm w związku z emisją popiołu do przestrzeni powietrznej. Pasażerowie skarżą się na utrudnienia.",
+      "originalTitle": "Erupcja Etny znów częściowo wstrzymała loty. \"Jesteśmy zdani całkowicie na siebie\"",
+      "originalDescription": "W poniedziałek z powodu aktywności Etny na lotnisku w Katanii znów wstrzymano loty. Włoskie służby monitorujące wulkan wydały czerwony, najwyższy alarm w związku z emisją popiołu do przestrzeni powietrznej. Pasażerowie skarżą się na utrudnienia."
+    },
+    {
+      "title": "Alert RCB. \"Możliwe przerwy w dostawie prądu\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-10-11-08-burze-z-ulewami-i-silnym-wiatrem-mozliwe-przerwy-w-dostawie-pradu-st9182929?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:16:21 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa ostrzega przed burzami, które spodziewane są w poniedziałek i nocą. Zagrożeniem będą intensywne opady deszczu oraz silny wiatr. SMS-owy alert otrzymali odbiorcy czterech województw.",
+      "originalTitle": "Alert RCB. \"Możliwe przerwy w dostawie prądu\"",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega przed burzami, które spodziewane są w poniedziałek i nocą. Zagrożeniem będą intensywne opady deszczu oraz silny wiatr. SMS-owy alert otrzymali odbiorcy czterech województw."
+    },
+    {
+      "title": "Dyskusja o wieku emerytalnym. \"Taka jest brutalna prawda\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/wiceszef-ministerstwa-funduszy-w-radiu-zet-komentuje-kwestie-podniesienia-wieku-emerytalnego-st9182083?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:06:33 GMT",
+      "description": "Starzejemy się, mówiąc wprost, demografia leży. Taka jest brutalna prawda i należy o tym rozmawiać, a nie rozmowy ucinać - powiedział, nawiązując w Radiu Zet do pomysłu podwyższenia wieku emerytalnego, wiceminister funduszy i polityki regionalnej Jan Szyszko.",
+      "originalTitle": "Dyskusja o wieku emerytalnym. \"Taka jest brutalna prawda\"",
+      "originalDescription": "Starzejemy się, mówiąc wprost, demografia leży. Taka jest brutalna prawda i należy o tym rozmawiać, a nie rozmowy ucinać - powiedział, nawiązując w Radiu Zet do pomysłu podwyższenia wieku emerytalnego, wiceminister funduszy i polityki regionalnej Jan Szyszko."
+    },
+    {
+      "title": "Musieli zmienić przebieg inwestycji wartej fortunę. Z powodu Zgredka",
+      "link": "https://tvn24.pl/kultura-i-styl/wielka-brytania-musieli-zmienic-przebieg-inwestycji-wartej-fortune-z-powodu-zgredka-st9182620?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 12:05:16 GMT",
+      "description": "Mało brakowało, a węzeł energetyczny łączący Irlandię i Wielką Brytanię przebiegałby przez grób Zgredka, domowego skrzata z cyklu powieści o Harrym Potterze. Projektanci zmienili plany po protestach fanów tej fikcyjnej postaci - przekazał \"Independent\".",
+      "originalTitle": "Musieli zmienić przebieg inwestycji wartej fortunę. Z powodu Zgredka",
+      "originalDescription": "Mało brakowało, a węzeł energetyczny łączący Irlandię i Wielką Brytanię przebiegałby przez grób Zgredka, domowego skrzata z cyklu powieści o Harrym Potterze. Projektanci zmienili plany po protestach fanów tej fikcyjnej postaci - przekazał \"Independent\"."
+    }
+  ]
 }
