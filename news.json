@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-11T10:49:49.697Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-11T11:42:51.762Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Dziesiątki tysięcy za dostęp. Tak zarabia platforma Trumpa",
+      "link": "https://tvn24.pl/biznes/tech/dziesiatki-tysiecy-za-dostep-tak-zarabia-platforma-trumpa-st9183967?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 11:40:19 GMT",
+      "description": "Ponad 10 firm płaci nawet 100 tysięcy dolarów miesięcznie za szybszy dostęp do wpisów publikowanych w serwisie Donalda Trumpa - Truth Social - poinformował portal stacji BBC.",
+      "originalTitle": "Dziesiątki tysięcy za dostęp. Tak zarabia platforma Trumpa",
+      "originalDescription": "Ponad 10 firm płaci nawet 100 tysięcy dolarów miesięcznie za szybszy dostęp do wpisów publikowanych w serwisie Donalda Trumpa - Truth Social - poinformował portal stacji BBC."
+    },
+    {
+      "title": "\"Morze śmieci\". Weszli do wody pomimo ryzyka",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/morze-smieci-weszli-do-wody-pomimo-ryzyka-st9184123?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 11:35:40 GMT",
+      "description": "Monsun po raz kolejny dał się we znaki mieszkańcom Filipin. Intensywne opady deszczu miejscami naniosły mnóstwo odpadów. Lokalne media piszą o operacji na \"morzu śmieci\".",
+      "originalTitle": "\"Morze śmieci\". Weszli do wody pomimo ryzyka",
+      "originalDescription": "Monsun po raz kolejny dał się we znaki mieszkańcom Filipin. Intensywne opady deszczu miejscami naniosły mnóstwo odpadów. Lokalne media piszą o operacji na \"morzu śmieci\"."
+    },
+    {
+      "title": "Wjechał w wiatę z wózkami, uszkodził trzy auta",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/ursynow-wjechal-w-wiate-z-wozkami-uszkodzil-trzy-samochody-st9184153?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 11:32:13 GMT",
+      "description": "Na parkingu przy ulicy Ciszewskiego kierowca samochodu osobowego wjechał w wiatę na wózki sklepowe i uderzył w trzy zaparkowane pojazdy. Mężczyzna trafił do szpitala.",
+      "originalTitle": "Wjechał w wiatę z wózkami, uszkodził trzy auta",
+      "originalDescription": "Na parkingu przy ulicy Ciszewskiego kierowca samochodu osobowego wjechał w wiatę na wózki sklepowe i uderzył w trzy zaparkowane pojazdy. Mężczyzna trafił do szpitala."
+    },
+    {
+      "title": "Kiedy i gdzie oglądać zaćmienie Słońca w Polsce. Dokładne godziny",
+      "link": "https://tvn24.pl/tvnmeteo/polska/zacmienie-slonca-w-polsce-kiedy-i-gdzie-ogladac-lista-miast-z-godzinami-st9184271?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 11:29:42 GMT",
+      "description": "Częściowe zaćmienie Słońca w Polsce zbliża się wielkimi krokami. Już jutro, czyli w środę 12 sierpnia będziemy mogli zobaczyć, jak Księżyc powoli przysłania tarczę najbliższej gwiazdy Ziemi. Kiedy i gdzie należy spojrzeć w niebo?",
+      "originalTitle": "Kiedy i gdzie oglądać zaćmienie Słońca w Polsce. Dokładne godziny",
+      "originalDescription": "Częściowe zaćmienie Słońca w Polsce zbliża się wielkimi krokami. Już jutro, czyli w środę 12 sierpnia będziemy mogli zobaczyć, jak Księżyc powoli przysłania tarczę najbliższej gwiazdy Ziemi. Kiedy i gdzie należy spojrzeć w niebo?"
+    },
+    {
+      "title": "\"Nie pozwolimy traktować się inaczej niż pozostałych sędziów\". Pat w Trybunale Konstytucyjnym",
+      "link": "https://tvn24.pl/polska/anna-korwin-piotrowska-o-pracy-w-trybunale-konstytucyjnym-nie-pozwolimy-traktowac-sie-inaczej-st9182554?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 10:59:04 GMT",
+      "description": "Część nowych sędziów Trybunału Konstytucyjnego od ponad 120 dni czeka na przydział obowiązków. Zderzają się jednak z odmową na kilku szczeblach. Tymczasem ich sprawa w europejskim trybunale przeszła \"w kluczową fazę sporną\". Sędzia Anna Korwin-Piotrowska opowiada TVN24+ o szczegółach swojej pracy.",
+      "originalTitle": "\"Nie pozwolimy traktować się inaczej niż pozostałych sędziów\". Pat w Trybunale Konstytucyjnym",
+      "originalDescription": "Część nowych sędziów Trybunału Konstytucyjnego od ponad 120 dni czeka na przydział obowiązków. Zderzają się jednak z odmową na kilku szczeblach. Tymczasem ich sprawa w europejskim trybunale przeszła \"w kluczową fazę sporną\". Sędzia Anna Korwin-Piotrowska opowiada TVN24+ o szczegółach swojej pracy."
+    },
+    {
+      "title": "Resort zdrowia reaguje na weto prezydenta. Chodzi o pacjentów z HIV i WZW C",
+      "link": "https://tvn24.pl/zdrowie/resort-zdrowia-reaguje-na-weto-prezydenta-chodzi-o-pacjentow-z-hiv-i-wzw-c-st9183887?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 10:58:04 GMT",
+      "description": "Osoby żyjące z HIV, niezależnie od statusu ubezpieczeniowego, będą miały dostęp do wizyt lekarskich i leczenia antyretrowirusowego. NFZ pokryje też koszty leczenia chorych na przewlekłe wirusowe zapalenie wątroby typu C (HCV) w zakładach penitencjarnych. Przewiduje to projekt Ministerstwa Zdrowia. W ten sposób resort reaguje na wcześniejsze weto prezydenta.",
+      "originalTitle": "Resort zdrowia reaguje na weto prezydenta. Chodzi o pacjentów z HIV i WZW C",
+      "originalDescription": "Osoby żyjące z HIV, niezależnie od statusu ubezpieczeniowego, będą miały dostęp do wizyt lekarskich i leczenia antyretrowirusowego. NFZ pokryje też koszty leczenia chorych na przewlekłe wirusowe zapalenie wątroby typu C (HCV) w zakładach penitencjarnych. Przewiduje to projekt Ministerstwa Zdrowia. W ten sposób resort reaguje na wcześniejsze weto prezydenta."
+    },
+    {
+      "title": "Motocyklista uderzył w dwa auta, trafił do szpitala",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-wypadek-na-woronicza-motocyklista-w-szpitalu-st9184078?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 10:55:15 GMT",
+      "description": "Nieustąpienie pierwszeństwa przez kierowcę osobowej Toyoty było - według policji - przyczyną wypadku przy metrze Wierzbno. Motocyklista zderzył się tam z dwoma autami. Trafił do szpitala.",
+      "originalTitle": "Motocyklista uderzył w dwa auta, trafił do szpitala",
+      "originalDescription": "Nieustąpienie pierwszeństwa przez kierowcę osobowej Toyoty było - według policji - przyczyną wypadku przy metrze Wierzbno. Motocyklista zderzył się tam z dwoma autami. Trafił do szpitala."
+    },
+    {
+      "title": "Wniosek Marcina Romanowskiego odrzucony. Śledczy nie zgodzili się z obroną",
+      "link": "https://tvn24.pl/polska/wniosek-marcina-romanowskiego-odrzucony-stanowisko-prokuratury-krajowej-st9183703?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 08:38:35 GMT",
+      "description": "Wniosek byłego wiceministra sprawiedliwości Marcina Romanowskiego o uchylenie tymczasowego aresztowania został odrzucony - przekazała we wtorek Prokuratura Krajowa.",
+      "originalTitle": "Wniosek Marcina Romanowskiego odrzucony. Śledczy nie zgodzili się z obroną",
+      "originalDescription": "Wniosek byłego wiceministra sprawiedliwości Marcina Romanowskiego o uchylenie tymczasowego aresztowania został odrzucony - przekazała we wtorek Prokuratura Krajowa."
+    },
+    {
+      "title": "Kontrole w trakcie upałów. Tyle skarg wpłynęło do PIP",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/praca-w-upaly-panstwowa-inspekcja-pracy-przeprowadzila-kontrole-i-wykryla-nieprawidlowosci-st9184038?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 10:51:35 GMT",
+      "description": "Niezapewnienie napojów pracownikom, awarie klimatyzacji i wentylacji, przekroczenie dopuszczalnej temperatury w kabinach operatorów żurawi - te nieprawidłowości stwierdzano najczęściej w trakcie kontroli Państwowej Inspekcji Pracy podczas fali upałów.",
+      "originalTitle": "Kontrole w trakcie upałów. Tyle skarg wpłynęło do PIP",
+      "originalDescription": "Niezapewnienie napojów pracownikom, awarie klimatyzacji i wentylacji, przekroczenie dopuszczalnej temperatury w kabinach operatorów żurawi - te nieprawidłowości stwierdzano najczęściej w trakcie kontroli Państwowej Inspekcji Pracy podczas fali upałów."
+    },
+    {
+      "title": "Zmniejszyć zalew Siemianówka, żeby w Narwi było więcej wody? Mieszkańcy nie są przekonani",
+      "link": "https://tvn24.pl/bialystok/zalew-siemianowka-ratunkiem-dla-wysychajacej-narwi-mieszkancy-oburzeni-st9160442?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 10:47:25 GMT",
+      "description": "Niski poziom wody w Narwi skłania władze Narwiańskiego Parku Narodowego do szukania niestandardowych rozwiązań. Wśród nich jest częściowe osuszenie zalewu Siemianówka, który powstał ponad 40 lat temu po wysiedleniu setek mieszkańców okolicznych wsi. Wtedy mówiło się, że akwen wypełnił się łzami tych ludzi. Dziś nie kryją oburzenia. Mówią, że nie po to ponieśli taką cenę, aby zbiornik miał zostać opróżniony.",
+      "originalTitle": "Zmniejszyć zalew Siemianówka, żeby w Narwi było więcej wody? Mieszkańcy nie są przekonani",
+      "originalDescription": "Niski poziom wody w Narwi skłania władze Narwiańskiego Parku Narodowego do szukania niestandardowych rozwiązań. Wśród nich jest częściowe osuszenie zalewu Siemianówka, który powstał ponad 40 lat temu po wysiedleniu setek mieszkańców okolicznych wsi. Wtedy mówiło się, że akwen wypełnił się łzami tych ludzi. Dziś nie kryją oburzenia. Mówią, że nie po to ponieśli taką cenę, aby zbiornik miał zostać opróżniony."
+    }
+  ]
 }
