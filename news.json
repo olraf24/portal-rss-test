@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-11T15:59:44.459Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-11T17:06:57.747Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Surfer zaginął w okolicy Chałup. Trwają poszukiwania",
+      "link": "https://tvn24.pl/polska/surfer-zaginal-w-okolicy-chalup-trwaja-poszukiwania-na-zatoce-gdanskiej-st9184851?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 16:55:03 GMT",
+      "description": "Na Zatoce Gdańskiej w okolicy Chałup trwają poszukiwania zaginionego surfera - poinformował dyrektor Morskiej Służby Poszukiwania i Ratownictwa Sebastian Kluska. Wcześniej znaleziono deskę, na której pływał mężczyzna.",
+      "originalTitle": "Surfer zaginął w okolicy Chałup. Trwają poszukiwania",
+      "originalDescription": "Na Zatoce Gdańskiej w okolicy Chałup trwają poszukiwania zaginionego surfera - poinformował dyrektor Morskiej Służby Poszukiwania i Ratownictwa Sebastian Kluska. Wcześniej znaleziono deskę, na której pływał mężczyzna."
+    },
+    {
+      "title": "Prawie 600 skarg w niecały miesiąc. Są pierwsze efekty reformy PIP",
+      "link": "https://tvn24.pl/biznes/z-kraju/reforma-pip-podzielila-ekspertow-i-przedsiebiorcow-zagrozona-pewnosc-prawa-st9184137?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 16:38:20 GMT",
+      "description": "W niespełna miesiąc po zmianie przepisów do Państwowej Inspekcji Pracy trafiło 585 skarg na formę zatrudnienia. W 76 przypadkach inspektorzy nakazali pracodawcom zawarcie umowy o pracę. Przedsiębiorcy ostrzegają przed skutkami podważania legalnych form współpracy a eksperci przyznają, że definicja stosunku pracy pozostaje nieprecyzyjna.",
+      "originalTitle": "Prawie 600 skarg w niecały miesiąc. Są pierwsze efekty reformy PIP",
+      "originalDescription": "W niespełna miesiąc po zmianie przepisów do Państwowej Inspekcji Pracy trafiło 585 skarg na formę zatrudnienia. W 76 przypadkach inspektorzy nakazali pracodawcom zawarcie umowy o pracę. Przedsiębiorcy ostrzegają przed skutkami podważania legalnych form współpracy a eksperci przyznają, że definicja stosunku pracy pozostaje nieprecyzyjna."
+    },
+    {
+      "title": "Podziemne przejście pod granicą. Łotwa zaczyna operację \"Wilkołak\"",
+      "link": "https://tvn24.pl/swiat/lotwa-podziemne-przejscie-pod-granica-z-bialorusia-bylo-uzyte-przez-migrantow-st9184151?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 16:24:33 GMT",
+      "description": "Łotewskie służby okryły podziemny tunel pod granicą z Białorusią, za którego pomocą do kraju nielegalnie przedostała się grupa kilkunastu migrantów. W związku z incydentem rząd Łotwy ogłosił rozpoczęcie operacji \"Wilkołak\". - Straż graniczna zostanie wsparta przez wojsko - poinformował premier Andris Kulbergs.",
+      "originalTitle": "Podziemne przejście pod granicą. Łotwa zaczyna operację \"Wilkołak\"",
+      "originalDescription": "Łotewskie służby okryły podziemny tunel pod granicą z Białorusią, za którego pomocą do kraju nielegalnie przedostała się grupa kilkunastu migrantów. W związku z incydentem rząd Łotwy ogłosił rozpoczęcie operacji \"Wilkołak\". - Straż graniczna zostanie wsparta przez wojsko - poinformował premier Andris Kulbergs."
+    },
+    {
+      "title": "15-latek bez uprawnień, problem też z jego pojazdem",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-srodmiescie-15-latek-bez-uprawnien-problem-tez-z-jego-pojazdem-st9184741?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 16:24:00 GMT",
+      "description": "Policjanci zatrzymali 15-latka, który jechał elektrycznym motocyklem. Chłopak nie posiada wymaganych uprawnień, a pojazd nie ma homologacji i obowiązkowego ubezpieczenia. Wstępne oględziny wykazały, że ten jednoślad może osiągać prędkość blisko 100 kilometrów na godzinę.",
+      "originalTitle": "15-latek bez uprawnień, problem też z jego pojazdem",
+      "originalDescription": "Policjanci zatrzymali 15-latka, który jechał elektrycznym motocyklem. Chłopak nie posiada wymaganych uprawnień, a pojazd nie ma homologacji i obowiązkowego ubezpieczenia. Wstępne oględziny wykazały, że ten jednoślad może osiągać prędkość blisko 100 kilometrów na godzinę."
+    },
+    {
+      "title": "Odpady chemiczne wylali do wykopanego rowu. Cztery osoby zatrzymane",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/milecin-gmina-brwinow-odpady-chemiczne-wylali-do-wykopanego-rowu-cztery-osoby-zatrzymane-st9184840?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 16:23:08 GMT",
+      "description": "W Milęcinie (powiat pruszkowski) na terenie opuszczonych zabudowań gospodarstwa rolnego odpady chemiczne wylane zostały do wykopanego w hali rowy. W tej sprawie zatrzymano cztery osoby.",
+      "originalTitle": "Odpady chemiczne wylali do wykopanego rowu. Cztery osoby zatrzymane",
+      "originalDescription": "W Milęcinie (powiat pruszkowski) na terenie opuszczonych zabudowań gospodarstwa rolnego odpady chemiczne wylane zostały do wykopanego w hali rowy. W tej sprawie zatrzymano cztery osoby."
+    },
+    {
+      "title": "Wybuch Etny. Przedłuża się paraliż lotniska w Katanii. \"To był pechowy urlop\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wlochy-erupcja-etny-chaos-informacyjny-na-lotnisku-w-katanii-nie-wiem-jak-wrocimy-do-domu-st9183895?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 10:12:08 GMT",
+      "description": "Erupcja Etny paraliżuje ruch lotniczy nad Sycylią. Z powodu wzmożonej aktywności wulkanu samoloty nie będą lądować na lotnisku w Katanii i odlatywać z niego do godziny 11 w środę. Ponad 200 Polaków utknęło na wyspie. Niektórzy z nich skontaktowali się z nami i opisali chaos, jaki zapanował w porcie lotniczym.",
+      "originalTitle": "Wybuch Etny. Przedłuża się paraliż lotniska w Katanii. \"To był pechowy urlop\"",
+      "originalDescription": "Erupcja Etny paraliżuje ruch lotniczy nad Sycylią. Z powodu wzmożonej aktywności wulkanu samoloty nie będą lądować na lotnisku w Katanii i odlatywać z niego do godziny 11 w środę. Ponad 200 Polaków utknęło na wyspie. Niektórzy z nich skontaktowali się z nami i opisali chaos, jaki zapanował w porcie lotniczym."
+    },
+    {
+      "title": "Pierwszy kraj w tej części świata znosi karę śmierci",
+      "link": "https://tvn24.pl/swiat/liban-pierwszy-kraj-w-tej-czesci-swiata-znosi-kare-smierci-st9184772?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 15:47:30 GMT",
+      "description": "Dożywocie i ciężkie roboty zamiast egzekucji - parlament Libanu zniósł we wtorek karę śmierci. Szefowa dyplomacji UE składając gratulacje podkreśliła, że to pierwsze państwo regionu, które zdecydowało się na taki krok.",
+      "originalTitle": "Pierwszy kraj w tej części świata znosi karę śmierci",
+      "originalDescription": "Dożywocie i ciężkie roboty zamiast egzekucji - parlament Libanu zniósł we wtorek karę śmierci. Szefowa dyplomacji UE składając gratulacje podkreśliła, że to pierwsze państwo regionu, które zdecydowało się na taki krok."
+    },
+    {
+      "title": "Anna Konieczyńska odwołana z funkcji wiceprezes Karkonoskiej Agencji Rozwoju Regionalnego",
+      "link": "https://tvn24.pl/polska/pomoc-dla-powodzian-wiceprezes-karkonoskiej-agencji-rozwoju-regionalnego-anna-konieczynska-odwolana-st9184709?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 14:35:43 GMT",
+      "description": "Anna Konieczyńska została odwołana z funkcji wiceprezes Karkonoskiej Agencji Rozwoju Regionalnego - przekazał rzecznik dolnośląskiego Urzędu Marszałkowskiego Michał Nowakowski. To pokłosie nieprawidłowości w przyznawaniu pomocy dla powodzian. Konieczyńska określiła swoje odwołanie jako \"nagonkę\".",
+      "originalTitle": "Anna Konieczyńska odwołana z funkcji wiceprezes Karkonoskiej Agencji Rozwoju Regionalnego",
+      "originalDescription": "Anna Konieczyńska została odwołana z funkcji wiceprezes Karkonoskiej Agencji Rozwoju Regionalnego - przekazał rzecznik dolnośląskiego Urzędu Marszałkowskiego Michał Nowakowski. To pokłosie nieprawidłowości w przyznawaniu pomocy dla powodzian. Konieczyńska określiła swoje odwołanie jako \"nagonkę\"."
+    },
+    {
+      "title": "Sędzia był pijany, jechał autem. Zawieszenie i zarzut",
+      "link": "https://tvn24.pl/szczecin/gryfino-sedzia-byl-pijany-jechal-autem-zawieszenie-i-zarzut-st9182456?source=rss",
+      "pubDate": "Mon, 10 Aug 2026 10:10:22 GMT",
+      "description": "Sędzia zatrzymany przez policję w Gryfinie usłyszał zarzut prowadzenia samochodu w stanie nietrzeźwości. Sąd Najwyższy, na wniosek Prokuratury Krajowej, pozbawił go we wtorek immunitetu i zezwolił na pociągnięcie do odpowiedzialności karnej.",
+      "originalTitle": "Sędzia był pijany, jechał autem. Zawieszenie i zarzut",
+      "originalDescription": "Sędzia zatrzymany przez policję w Gryfinie usłyszał zarzut prowadzenia samochodu w stanie nietrzeźwości. Sąd Najwyższy, na wniosek Prokuratury Krajowej, pozbawił go we wtorek immunitetu i zezwolił na pociągnięcie do odpowiedzialności karnej."
+    },
+    {
+      "title": "Starlink wykluczył Polskę. Nie należy do krajów europejskich",
+      "link": "https://tvn24.pl/biznes/tech/starlink-wykluczyl-polske-nie-nalezy-do-krajow-europejskich-st9184655?source=rss",
+      "pubDate": "Tue, 11 Aug 2026 15:38:08 GMT",
+      "description": "Polska nie znalazła się na liście krajów tworzących wspólny, europejski region usługi Starlink Roam (\"W drodze\"). Dla polskich użytkowników oznacza to ograniczenia podczas zagranicznych podróży.",
+      "originalTitle": "Starlink wykluczył Polskę. Nie należy do krajów europejskich",
+      "originalDescription": "Polska nie znalazła się na liście krajów tworzących wspólny, europejski region usługi Starlink Roam (\"W drodze\"). Dla polskich użytkowników oznacza to ograniczenia podczas zagranicznych podróży."
+    }
+  ]
 }
