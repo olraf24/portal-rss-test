@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-08-12T11:21:41.407Z",
+  "lastUpdate": "2026-08-12T12:09:20.136Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Od czego zależy wysokość składek ZUS?",
+      "link": "https://dzienniknaukowy.pl/od-czego-zalezy-wysokosc-skladek-zus",
+      "pubDate": "Wed, 12 Aug 2026 12:09:01 +0000",
+      "description": "Składki ZUS spędzają sen z powiek wielu przedsiębiorcom, a także osobom, które dopiero zamierzają prowadzić działalność na własny rachunek. Wysokość składek oblicza się, mnożąc odpowiednią stawkę przez podstawę wymiaru składki. W tym artykule wyjaśniamy, ile wynoszą stawki ZUS, od czego zależy wysokość składek i kto może skorzystać z ulg."
+    },
     {
       "title": "Sniffing: Jak działa „podglądanie” ruchu sieciowego i jak się przed nim skutecznie chronić?",
       "link": "https://dzienniknaukowy.pl/sniffing-jak-dziala-podgladanie-ruchu-sieciowego-i-jak-sie-przed-nim-skutecznie-chronic",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-odkryli-mechanizm-regeneracji-paznokcia-i-kosci-palca",
       "pubDate": "Tue, 04 Aug 2026 13:23:11 +0000",
       "description": "Komórki macierzyste znajdujące się u nasady paznokcia mogą odgrywać kluczową rolę w regeneracji końcowej części palca po urazie. Naukowcy z Centrum Nowych Technologii Uniwersytetu Warszawskiego wykazali, że odpowiednia aktywacja jednego z podstawowych szlaków komunikacji między komórkami znacząco przyspiesza odbudowę paznokcia i kości oraz pozwala regenerować większe uszkodzenia niż dotychczas uznawano za możliwe."
-    },
-    {
-      "title": "Żywe probiotyki dla chorej skóry. PK z patentem na technologię mikrokapsułek dla nowej generacji kosmetyków",
-      "link": "https://dzienniknaukowy.pl/zywe-probiotyki-dla-chorej-skory-pk-z-patentem-na-technologie-mikrokapsulek-dla-nowej-generacji-kosmetykow",
-      "pubDate": "Tue, 04 Aug 2026 13:00:29 +0000",
-      "description": "Zespół badaczek Politechniki Krakowskiej opatentował technologię zamykania żywych kultur probiotycznych w mikrokapsułkach alginianowych o rozmiarach poniżej 100 µm. Wynalazek eliminuje jedną z głównych barier w tworzeniu kosmetyków probiotycznych – pozwala chronić bakterie przed działaniem konserwantów, zachowując ich aktywność aż do momentu aplikacji."
     }
   ]
 }
