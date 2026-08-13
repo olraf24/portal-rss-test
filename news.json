@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-13T04:13:35.536Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-13T05:57:08.853Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Burzliwa noc w Zabrzu. Atak pseudokibiców na pizzerię",
+      "link": "https://tvn24.pl/katowice/zabrze-atak-pseudokibicow-i-interwencja-policji-st9187269?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:50:21 GMT",
+      "description": "Grupa pseudokibiców zaatakowała gości pizzerii w centrum Zabrza. Lokalne media podają, że zaatakowani to kibice węgierskiego klubu, z którym Górnik Zabrze ma w czwartek rozegrać ważny mecz. Starcie wyglądało na tyle poważnie, że oprócz lokalnych patroli policji na miejsce został skierowany pluton alarmowy z Oddziału Prewencji Policji w Katowicach.",
+      "originalTitle": "Burzliwa noc w Zabrzu. Atak pseudokibiców na pizzerię",
+      "originalDescription": "Grupa pseudokibiców zaatakowała gości pizzerii w centrum Zabrza. Lokalne media podają, że zaatakowani to kibice węgierskiego klubu, z którym Górnik Zabrze ma w czwartek rozegrać ważny mecz. Starcie wyglądało na tyle poważnie, że oprócz lokalnych patroli policji na miejsce został skierowany pluton alarmowy z Oddziału Prewencji Policji w Katowicach."
+    },
+    {
+      "title": "Perseidy 2026. Za nami wyjątkowa \"noc spadających gwiazd\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/perseidy-2026-za-nami-wyjatkowa-noc-spadajacych-gwiazd-st9187231?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:36:53 GMT",
+      "description": "Częściowe zaćmienie Słońca nie było jedynym wyjątkowym zjawiskiem, jakie wystąpiło w środowy wieczór w Polsce. Kilka godzin po tym, jak Księżyc przysłonił część naszej najbliższej gwiazdy, na niebie pojawiły się Perseidy. Na Kontakt24 otrzymaliśmy wyjątkowe zdjęcia i nagrania.",
+      "originalTitle": "Perseidy 2026. Za nami wyjątkowa \"noc spadających gwiazd\"",
+      "originalDescription": "Częściowe zaćmienie Słońca nie było jedynym wyjątkowym zjawiskiem, jakie wystąpiło w środowy wieczór w Polsce. Kilka godzin po tym, jak Księżyc przysłonił część naszej najbliższej gwiazdy, na niebie pojawiły się Perseidy. Na Kontakt24 otrzymaliśmy wyjątkowe zdjęcia i nagrania."
+    },
+    {
+      "title": "Pomnik Matki Boskiej gotowy, liczby robią wrażenie. Główny inżynier zdradza szczegóły",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/pomnik-matki-boskiej-w-konotopiu-glowny-inzynier-zdradza-szczegoly-dotyczace-budowy-st9166917?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:25:23 GMT",
+      "description": "Pomnik Matki Boskiej Bolesnej w Konotopiu (woj. kujawsko-pomorskie) jest już gotowy. Budowa trwała półtora roku. Na 15 sierpnia zaplanowano uroczyste poświęcenie i otwarcie. Bartłomiej Niesłuchowski, główny inżynier sprawujący nadzór nad inwestycją, opowiedział o kulisach powstawania pomnika i o tym, co go wyróżnia.",
+      "originalTitle": "Pomnik Matki Boskiej gotowy, liczby robią wrażenie. Główny inżynier zdradza szczegóły",
+      "originalDescription": "Pomnik Matki Boskiej Bolesnej w Konotopiu (woj. kujawsko-pomorskie) jest już gotowy. Budowa trwała półtora roku. Na 15 sierpnia zaplanowano uroczyste poświęcenie i otwarcie. Bartłomiej Niesłuchowski, główny inżynier sprawujący nadzór nad inwestycją, opowiedział o kulisach powstawania pomnika i o tym, co go wyróżnia."
+    },
+    {
+      "title": "Boom w Polsce. Pękła psychologiczna granica",
+      "link": "https://tvn24.pl/biznes/z-kraju/boom-w-polsce-pekla-psychologiczna-granica-st9187215?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:17:12 GMT",
+      "description": "Koszty rosną, klienci są coraz bardziej ostrożni, a mimo to polska gastronomia rośnie. Liczba lokali osiągnęła rekordowy poziom, a przedsiębiorcy wciąż otwierają nowe punkty.",
+      "originalTitle": "Boom w Polsce. Pękła psychologiczna granica",
+      "originalDescription": "Koszty rosną, klienci są coraz bardziej ostrożni, a mimo to polska gastronomia rośnie. Liczba lokali osiągnęła rekordowy poziom, a przedsiębiorcy wciąż otwierają nowe punkty."
+    },
+    {
+      "title": "Zatrzymali po tym, jak wyszli z więzienia. Zostaną deportowani",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-zatrzymali-po-tym-jak-wyszli-z-wiezienia-zostana-deportowani-st9186433?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:05:31 GMT",
+      "description": "Trzej Kolumbijczycy, skazani w Polsce za bójki i pobicia, zostali zatrzymani tuż po tym, jak opuścili więzienne mury. Zostaną deportowani.",
+      "originalTitle": "Zatrzymali po tym, jak wyszli z więzienia. Zostaną deportowani",
+      "originalDescription": "Trzej Kolumbijczycy, skazani w Polsce za bójki i pobicia, zostali zatrzymani tuż po tym, jak opuścili więzienne mury. Zostaną deportowani."
+    },
+    {
+      "title": "Zamiana samolotu Donalda Trumpa. Izrael ostrzegał, CIA było sceptyczne",
+      "link": "https://tvn24.pl/swiat/zamiana-samolotu-donalda-trumpa-po-szczycie-w-turcji-izrael-ostrzegal-o-zagrozeniu-cia-bylo-sceptyczne-st9187183?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:04:00 GMT",
+      "description": "Izrael ostrzegał Donalda Trumpa przed zagrożeniem ze strony Iranu w drodze powrotnej ze szczytu NATO w Ankarze - przekazała gazeta \"Washington Post\". Choć amerykańskie służby oceniały tę informację jako mało wiarygodną, zdecydowano się na realizację planu awaryjnego i zmianę samolotu przez prezydenta USA.",
+      "originalTitle": "Zamiana samolotu Donalda Trumpa. Izrael ostrzegał, CIA było sceptyczne",
+      "originalDescription": "Izrael ostrzegał Donalda Trumpa przed zagrożeniem ze strony Iranu w drodze powrotnej ze szczytu NATO w Ankarze - przekazała gazeta \"Washington Post\". Choć amerykańskie służby oceniały tę informację jako mało wiarygodną, zdecydowano się na realizację planu awaryjnego i zmianę samolotu przez prezydenta USA."
+    },
+    {
+      "title": "Pokazał zaćmienie Słońca. \"To jest spełnienie marzeń\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/zacmienie-slonca-ptaki-uciekly-bo-wiedzialy-ze-zbliza-sie-cos-dziwnego-relacja-huberta-kijka-st9186667?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 04:47:24 GMT",
+      "description": "W Hiszpanii wystąpiło całkowite zaćmienie Słońca. To niezwykłe wydarzenie oglądał na miejscu reporter TVN24 BiS Hubert Kijek, który na żywo relacjonował, jak Księżyc zasłania najbliższą gwiazdę Ziemi.",
+      "originalTitle": "Pokazał zaćmienie Słońca. \"To jest spełnienie marzeń\"",
+      "originalDescription": "W Hiszpanii wystąpiło całkowite zaćmienie Słońca. To niezwykłe wydarzenie oglądał na miejscu reporter TVN24 BiS Hubert Kijek, który na żywo relacjonował, jak Księżyc zasłania najbliższą gwiazdę Ziemi."
+    },
+    {
+      "title": "Rośnie liczba ofiar trzęsienia ziemi. Ponad ćwierć tysiąca zabitych, pół tysiąca zaginionych",
+      "link": "https://tvn24.pl/swiat/kolumbia-36-godzin-pod-gruzami-uratowano-kobiete-nadal-poszukuja-pol-tysiaca-osob-st9187175?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 04:13:29 GMT",
+      "description": "W wyniku trzęsienia ziemi w Kolumbii zginęło 265 osób, a blisko pół tysiąca jest nadal zaginionych - przekazał prezydent tego kraju Abelardo De La Espriella. W środę ratownicy uratowali kobietę, która pod gruzami spędziła 36 godzin.",
+      "originalTitle": "Rośnie liczba ofiar trzęsienia ziemi. Ponad ćwierć tysiąca zabitych, pół tysiąca zaginionych",
+      "originalDescription": "W wyniku trzęsienia ziemi w Kolumbii zginęło 265 osób, a blisko pół tysiąca jest nadal zaginionych - przekazał prezydent tego kraju Abelardo De La Espriella. W środę ratownicy uratowali kobietę, która pod gruzami spędziła 36 godzin."
+    },
+    {
+      "title": "Ukraiński atak na Noworosyjsk. Trafione cztery rosyjskie okręty",
+      "link": "https://tvn24.pl/swiat/ukraina-atak-na-noworosyjsk-wolodymyr-zelenski-co-najmniej-cztery-okrety-rosji-trafione-st9187160?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 03:48:37 GMT",
+      "description": "Co najmniej cztery okręty rosyjskiej Floty Czarnomorskiej zostały trafione podczas skoordynowanego ataku ukraińskich sił na port w Noworosyjsku na Morzu Czarnym - poinformował Wołodymyr Zełenski. Prezydent Ukrainy wyjaśnił, że do operacji po raz pierwszy i w sposób skoordynowany zaangażowano rakiety, drony powietrzne dalekiego zasięgu oraz morskie.",
+      "originalTitle": "Ukraiński atak na Noworosyjsk. Trafione cztery rosyjskie okręty",
+      "originalDescription": "Co najmniej cztery okręty rosyjskiej Floty Czarnomorskiej zostały trafione podczas skoordynowanego ataku ukraińskich sił na port w Noworosyjsku na Morzu Czarnym - poinformował Wołodymyr Zełenski. Prezydent Ukrainy wyjaśnił, że do operacji po raz pierwszy i w sposób skoordynowany zaangażowano rakiety, drony powietrzne dalekiego zasięgu oraz morskie."
+    },
+    {
+      "title": "Pięć rzeczy, które warto dziś wiedzieć",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-13-sierpnia-najwazniejsze-informacje-st9187179?source=rss",
+      "pubDate": "Thu, 13 Aug 2026 03:18:06 GMT",
+      "description": "Prokuratura otrzymała z prorosyjskiego Naddniestrza list podpisany przez Marcina Romanowskiego. Iga Świątek wygrała z Ukrainką Eliną Switoliną w półfinale turnieju WTA 1000 w Toronto. Doszło do wycieku informacji o klientach platformy MyDr. Oto pięć rzeczy, które warto wiedzieć w czwartek 13 sierpnia.",
+      "originalTitle": "Pięć rzeczy, które warto dziś wiedzieć",
+      "originalDescription": "Prokuratura otrzymała z prorosyjskiego Naddniestrza list podpisany przez Marcina Romanowskiego. Iga Świątek wygrała z Ukrainką Eliną Switoliną w półfinale turnieju WTA 1000 w Toronto. Doszło do wycieku informacji o klientach platformy MyDr. Oto pięć rzeczy, które warto wiedzieć w czwartek 13 sierpnia."
+    }
+  ]
 }
