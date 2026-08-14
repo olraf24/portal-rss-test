@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-14T05:54:54.960Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-14T07:23:45.357Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Atak na system MyDr. Sieci medyczne komentują sprawę",
+      "link": "https://tvn24.pl/biznes/z-kraju/atak-na-system-mydr-sieci-medyczne-komentuja-sprawe-co-z-danymi-pacjentow-lux-med-enel-med-medicover-i-pzu-zdrowie-st9189254?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 07:07:31 GMT",
+      "description": "Największe prywatne sieci medyczne w Polsce analizują czy cyberatak na platformę MyDr objął dane ich pacjentów. Medicover poinformował, że korzystało z niej kilka placówek, natomiast enel-med wykorzystywał system do obsługi pacjentów w ramach Narodowego Funduszu Zdrowia. Lux Med zapewnił, że zakres danych objętych potencjalnym wyciekiem jest ograniczony, a PZU Zdrowie podkreśliło, że korzysta z własnego systemu.",
+      "originalTitle": "Atak na system MyDr. Sieci medyczne komentują sprawę",
+      "originalDescription": "Największe prywatne sieci medyczne w Polsce analizują czy cyberatak na platformę MyDr objął dane ich pacjentów. Medicover poinformował, że korzystało z niej kilka placówek, natomiast enel-med wykorzystywał system do obsługi pacjentów w ramach Narodowego Funduszu Zdrowia. Lux Med zapewnił, że zakres danych objętych potencjalnym wyciekiem jest ograniczony, a PZU Zdrowie podkreśliło, że korzysta z własnego systemu."
+    },
+    {
+      "title": "Tragiczny pożar wędzarni pod Płockiem",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/swierczyn-tragiczny-pozar-wedzarni-jedna-osoba-nie-zyje-st9189223?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 07:06:46 GMT",
+      "description": "Pod Płockiem wybuchł pożar na terenie zakładu należącego do producenta wędlin i mięs. Jedna osoba zginęła. Z ogniem walczyło kilkudziesięciu strażaków.",
+      "originalTitle": "Tragiczny pożar wędzarni pod Płockiem",
+      "originalDescription": "Pod Płockiem wybuchł pożar na terenie zakładu należącego do producenta wędlin i mięs. Jedna osoba zginęła. Z ogniem walczyło kilkudziesięciu strażaków."
+    },
+    {
+      "title": "Donald Tusk: słowa Igi Świątek ważą więcej niż tytuł",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-wpisie-igi-swiatek-wazy-wiecej-niz-tytul-st9189246?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 07:06:39 GMT",
+      "description": "Te słowa ważą więcej niż sam tytuł - oświadczył w mediach społecznościowych premier Donald Tusk, odnosząc się do wpisu Igi Świątek po wygranej w Toronto.",
+      "originalTitle": "Donald Tusk: słowa Igi Świątek ważą więcej niż tytuł",
+      "originalDescription": "Te słowa ważą więcej niż sam tytuł - oświadczył w mediach społecznościowych premier Donald Tusk, odnosząc się do wpisu Igi Świątek po wygranej w Toronto."
+    },
+    {
+      "title": "Trzęsienie ziemi w Kolumbii. \"Szansa na odnalezienie ocalałych maleje\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-kolumbii-szansa-na-odnalezienie-ocalalych-maleje-st9189200?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 06:57:53 GMT",
+      "description": "Ponad 280 osób zginęło wskutek trzęsienia ziemi w Kolumbii. Według służb maleje szansa na odnalezienie żywych pod gruzami. Mieszkańcy wspierają ratowników i ocalałych, ale w wielu mniejszych miejscowościach pomoc od państwa jest niewielka lub żadna.",
+      "originalTitle": "Trzęsienie ziemi w Kolumbii. \"Szansa na odnalezienie ocalałych maleje\"",
+      "originalDescription": "Ponad 280 osób zginęło wskutek trzęsienia ziemi w Kolumbii. Według służb maleje szansa na odnalezienie żywych pod gruzami. Mieszkańcy wspierają ratowników i ocalałych, ale w wielu mniejszych miejscowościach pomoc od państwa jest niewielka lub żadna."
+    },
+    {
+      "title": "\"Najbardziej amerykański sposób\". Tak Tesla wygasiła strajk",
+      "link": "https://tvn24.pl/biznes/ze-swiata/szwecja-najbardziej-amerykanski-sposob-tak-tesla-wygasila-strajk-zwiazkowcow-st9189197?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 05:53:05 GMT",
+      "description": "W Szwecji zakończył się trwający od niemal trzech lat spór związku zawodowego IF Metall z Teslą. Producent samochodów elektrycznych nie podpisał układu zbiorowego, lecz - jak twierdzi związek - \"wykupił\" strajkujących, oferując im satysfakcjonujące warunki odejścia.",
+      "originalTitle": "\"Najbardziej amerykański sposób\". Tak Tesla wygasiła strajk",
+      "originalDescription": "W Szwecji zakończył się trwający od niemal trzech lat spór związku zawodowego IF Metall z Teslą. Producent samochodów elektrycznych nie podpisał układu zbiorowego, lecz - jak twierdzi związek - \"wykupił\" strajkujących, oferując im satysfakcjonujące warunki odejścia."
+    },
+    {
+      "title": "Ostatnie pożegnanie Andrzeja Morozowskiego",
+      "link": "https://tvn24.pl/polska/pogrzeb-andrzeja-morozowskiego-data-i-miejsce-st9177723?source=rss",
+      "pubDate": "Thu, 06 Aug 2026 17:06:30 GMT",
+      "description": "Andrzej Morozowski, dziennikarz, mistrz rozmowy politycznej i nasz przyjaciel, odszedł po długiej walce z chorobą. Jego pożegnanie odbędzie się dziś na Powązkach Wojskowych w Warszawie. Transmisja uroczystości od godziny 10 w TVN24 i tvn24.pl.",
+      "originalTitle": "Ostatnie pożegnanie Andrzeja Morozowskiego",
+      "originalDescription": "Andrzej Morozowski, dziennikarz, mistrz rozmowy politycznej i nasz przyjaciel, odszedł po długiej walce z chorobą. Jego pożegnanie odbędzie się dziś na Powązkach Wojskowych w Warszawie. Transmisja uroczystości od godziny 10 w TVN24 i tvn24.pl."
+    },
+    {
+      "title": "Japonia. Rekordowe opady pod Tokio. Nie żyje sześć osób",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-rekordowe-opady-w-prefekturze-pod-tokio-sa-ofiary-smiertelne-st9189159?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 05:43:15 GMT",
+      "description": "Japońską prefekturę Chiba nawiedziły rekordowe opady. Wywołały powodzie błyskawiczne i osuwiska, w których zginęło sześć osób. Na największym międzynarodowym lotnisku pod Tokio utknęły tysiące podróżnych.",
+      "originalTitle": "Japonia. Rekordowe opady pod Tokio. Nie żyje sześć osób",
+      "originalDescription": "Japońską prefekturę Chiba nawiedziły rekordowe opady. Wywołały powodzie błyskawiczne i osuwiska, w których zginęło sześć osób. Na największym międzynarodowym lotnisku pod Tokio utknęły tysiące podróżnych."
+    },
+    {
+      "title": "Wielka porażka Moskwy na Bliskim Wschodzie? \"Diabeł tkwi w szczegółach\"",
+      "link": "https://tvn24.pl/swiat/syria-porozumienie-z-rosja-co-z-rosyjskimi-bazami-hmejmim-i-tartus-ekspert-st9187501?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 05:38:50 GMT",
+      "description": "Rosja traci pełną kontrolę nad dwoma bazami w Syrii - wynika z porozumienia zawartego przez Moskwę i Damaszek. Czy Rosjanie, mimo trwających dekadę wysiłków, właśnie po cichu ponieśli ogromną porażkę na Bliskim Wschodzie?",
+      "originalTitle": "Wielka porażka Moskwy na Bliskim Wschodzie? \"Diabeł tkwi w szczegółach\"",
+      "originalDescription": "Rosja traci pełną kontrolę nad dwoma bazami w Syrii - wynika z porozumienia zawartego przez Moskwę i Damaszek. Czy Rosjanie, mimo trwających dekadę wysiłków, właśnie po cichu ponieśli ogromną porażkę na Bliskim Wschodzie?"
+    },
+    {
+      "title": "Ukraiński atak na największy rosyjski port nad Bałtykiem",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-pozar-w-rosyjskim-porcie-ust-luga-st9189138?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 04:01:30 GMT",
+      "description": "W rosyjskim porcie Ust-Ługa wybuchł pożar po ataku ukraińskich dronów - przekazały lokalne władze. Położony w obwodzie leningradzkim, jest on największym rosyjskim portem przeładunkowym nad Bałtykiem.",
+      "originalTitle": "Ukraiński atak na największy rosyjski port nad Bałtykiem",
+      "originalDescription": "W rosyjskim porcie Ust-Ługa wybuchł pożar po ataku ukraińskich dronów - przekazały lokalne władze. Położony w obwodzie leningradzkim, jest on największym rosyjskim portem przeładunkowym nad Bałtykiem."
+    },
+    {
+      "title": "\"Bezduszność systemu\". Państwo daje, ubezpieczyciel chce zabrać",
+      "link": "https://tvn24.pl/polska/renty-komunikacyjne-bezdusznosc-systemu-panstwo-daje-ubezpieczyciel-chce-zabrac-st9167195?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 05:18:47 GMT",
+      "description": "Mężczyźnie od lat przykutemu do łóżka firma ubezpieczeniowa chce obniżyć wypłacaną rentę. Powód? Bo ZUS przyznał mu świadczenie wspierające. Wygląda na to, że pieniądze wypłacane przez państwo stają się argumentem dla ubezpieczycieli, mimo że nie ma przepisu, który wprost na to pozwala.",
+      "originalTitle": "\"Bezduszność systemu\". Państwo daje, ubezpieczyciel chce zabrać",
+      "originalDescription": "Mężczyźnie od lat przykutemu do łóżka firma ubezpieczeniowa chce obniżyć wypłacaną rentę. Powód? Bo ZUS przyznał mu świadczenie wspierające. Wygląda na to, że pieniądze wypłacane przez państwo stają się argumentem dla ubezpieczycieli, mimo że nie ma przepisu, który wprost na to pozwala."
+    }
+  ]
 }
