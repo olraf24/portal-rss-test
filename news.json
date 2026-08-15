@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-15T15:44:48.640Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-15T16:23:17.866Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ogromny pożar w zakładzie utylizacji odpadów. Apel do mieszkańców",
+      "link": "https://tvn24.pl/trojmiasto/ogromny-pozar-w-zakladzie-utylizacji-odpadow-apel-do-mieszkancow-st9191417?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 13:42:55 GMT",
+      "description": "Trwa walka z pożarem w zakładzie utylizacji odpadów w Chlewnicy w powiecie słupskim. Na miejscu pracuje 50 zastępów straży pożarnej. Władze gminy Potęgowo zaapelowały do mieszkańców o zamknięcie okien i drzwi oraz ograniczenie przebywania na zewnątrz.",
+      "originalTitle": "Ogromny pożar w zakładzie utylizacji odpadów. Apel do mieszkańców",
+      "originalDescription": "Trwa walka z pożarem w zakładzie utylizacji odpadów w Chlewnicy w powiecie słupskim. Na miejscu pracuje 50 zastępów straży pożarnej. Władze gminy Potęgowo zaapelowały do mieszkańców o zamknięcie okien i drzwi oraz ograniczenie przebywania na zewnątrz."
+    },
+    {
+      "title": "Nadchodzi diametralna zmiana pogody",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-weekend-nadchodzi-diametralna-zmiana-pogody-st9191401?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 15:38:56 GMT",
+      "description": "W kolejnych dniach odpoczniemy od upału. Pojawią się za to burze oraz opady deszczu, miejscami obfite. Sprawdź, w której części kraju można spodziewać się ulew.",
+      "originalTitle": "Nadchodzi diametralna zmiana pogody",
+      "originalDescription": "W kolejnych dniach odpoczniemy od upału. Pojawią się za to burze oraz opady deszczu, miejscami obfite. Sprawdź, w której części kraju można spodziewać się ulew."
+    },
+    {
+      "title": "Zapaliła się hałda odpadów, 10 zastępów w akcji",
+      "link": "https://tvn24.pl/szczecin/wardyn-gorny-pozar-w-zakladzie-gospodarki-odpadami-10-zastepow-strazy-pozarnej-w-akcji-st9191424?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 15:07:38 GMT",
+      "description": "Pożar wybuchł w sobotę przed południem. Ogień pojawił się na terenie zakładu zajmującego się utylizacją odpadów w Wardyniu Górnym w powiecie świdwińskim. Żywioł strawił hałdę odpadów. Dym widoczny był z daleka.",
+      "originalTitle": "Zapaliła się hałda odpadów, 10 zastępów w akcji",
+      "originalDescription": "Pożar wybuchł w sobotę przed południem. Ogień pojawił się na terenie zakładu zajmującego się utylizacją odpadów w Wardyniu Górnym w powiecie świdwińskim. Żywioł strawił hałdę odpadów. Dym widoczny był z daleka."
+    },
+    {
+      "title": "Astronomiczna prognoza przychodów Anthropic. Szansa na największy debiut giełdowy w historii",
+      "link": "https://tvn24.pl/biznes/tech/anthropic-astronomiczna-prognoza-przychodow-producenta-claude-jest-szansa-na-najwiekszy-debiut-gieldowy-w-historii-st9191431?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:48:44 GMT",
+      "description": "Producent chatbota Claude przygotowuje się do wejścia na giełdę. Firma Anthropic może przeprowadzić jedną z największych pierwszych ofert publicznych (IPO) w historii. Szacowane przychody spółki za dwa lata mają sięgać nawet 200 miliardów dolarów - przekazał Reuters.",
+      "originalTitle": "Astronomiczna prognoza przychodów Anthropic. Szansa na największy debiut giełdowy w historii",
+      "originalDescription": "Producent chatbota Claude przygotowuje się do wejścia na giełdę. Firma Anthropic może przeprowadzić jedną z największych pierwszych ofert publicznych (IPO) w historii. Szacowane przychody spółki za dwa lata mają sięgać nawet 200 miliardów dolarów - przekazał Reuters."
+    },
+    {
+      "title": "Jak poradzić sobie z prokrastynacją? Psycholożka podaje pięć sposobów",
+      "link": "https://tvn24.pl/zdrowie/prokrastynacja-piec-sposobow-od-psycholozki-jak-ja-pokonac-st9190229?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:45:53 GMT",
+      "description": "Odkładanie obowiązków nie zawsze wynika z lenistwa czy braku dobrej organizacji. Jego źródłem może być lęk przed porażką, utrwalony sposób działania, a niekiedy również kryzys psychiczny. - Zawsze coś się za nim kryje i zwykle warto się tym zaopiekować - mówi Katarzyna Kucewicz, psycholożka, i podaje pięć sposobów na poradzenie sobie z prokrastynacją.",
+      "originalTitle": "Jak poradzić sobie z prokrastynacją? Psycholożka podaje pięć sposobów",
+      "originalDescription": "Odkładanie obowiązków nie zawsze wynika z lenistwa czy braku dobrej organizacji. Jego źródłem może być lęk przed porażką, utrwalony sposób działania, a niekiedy również kryzys psychiczny. - Zawsze coś się za nim kryje i zwykle warto się tym zaopiekować - mówi Katarzyna Kucewicz, psycholożka, i podaje pięć sposobów na poradzenie sobie z prokrastynacją."
+    },
+    {
+      "title": "Wypłacił pieniądze z bankomatu i stracił orientację. Pomogli policjanci",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-wyplacil-pieniadze-z-bankomatu-i-stracil-orientacje-pomogli-policjanci-st9191458?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:38:43 GMT",
+      "description": "Starszy mężczyzna wypłacił pieniądze z bankomatu i stracił orientację w terenie. Nie wiedział, jak wrócić do domu. Pomogli mu policjanci. Podobnie jak innemu mężczyźnie z raną nogą i młodej kobiecie, która zemdlała.",
+      "originalTitle": "Wypłacił pieniądze z bankomatu i stracił orientację. Pomogli policjanci",
+      "originalDescription": "Starszy mężczyzna wypłacił pieniądze z bankomatu i stracił orientację w terenie. Nie wiedział, jak wrócić do domu. Pomogli mu policjanci. Podobnie jak innemu mężczyźnie z raną nogą i młodej kobiecie, która zemdlała."
+    },
+    {
+      "title": "Rita Ora zachwycona. \"Najlepszy koncert lata\" i karaoke",
+      "link": "https://tvn24.pl/kultura-i-styl/rita-ora-zachwycona-polskim-miastem-najlepszy-koncert-lata-i-karaoke-st9191384?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:38:15 GMT",
+      "description": "Poznański BitterSweet Festival trwa w najlepsze. Jedną z głównych gwiazd piątkowego wieczoru była Rita Ora. Wzruszona wokalistka była oczarowana tym, jak przyjęła ją publiczność. - To było najlepsze show tego lata - słyszymy na nagraniu, które Ora opublikowała w sobotę.",
+      "originalTitle": "Rita Ora zachwycona. \"Najlepszy koncert lata\" i karaoke",
+      "originalDescription": "Poznański BitterSweet Festival trwa w najlepsze. Jedną z głównych gwiazd piątkowego wieczoru była Rita Ora. Wzruszona wokalistka była oczarowana tym, jak przyjęła ją publiczność. - To było najlepsze show tego lata - słyszymy na nagraniu, które Ora opublikowała w sobotę."
+    },
+    {
+      "title": "Prezydent Korei Południowej do Kim Dzonga Una: zakończmy tę wojnę",
+      "link": "https://tvn24.pl/swiat/prezydent-korei-poludniowej-li-dze-mjung-do-kim-dzonga-una-zakonczmy-te-wojne-st9191425?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:32:28 GMT",
+      "description": "Li Dze Mjung, prezydent Korei Południowej, zaapelował o rozpoczęcie rozmów kończących stan wojny z Koreą Północną. Oba kraje od 1953 roku są formalnie w stanie rozejmu.",
+      "originalTitle": "Prezydent Korei Południowej do Kim Dzonga Una: zakończmy tę wojnę",
+      "originalDescription": "Li Dze Mjung, prezydent Korei Południowej, zaapelował o rozpoczęcie rozmów kończących stan wojny z Koreą Północną. Oba kraje od 1953 roku są formalnie w stanie rozejmu."
+    },
+    {
+      "title": "Burza tropikalna Lala zmierza na Hawaje. Może stać się huraganem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-tropikalna-lala-zmierza-na-hawaje-moze-stac-sie-huraganem-st9191112?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:24:44 GMT",
+      "description": "Władze Hawajów przygotowują mieszkańców na nadejście burzy tropikalnej Lala, która niesie silny wiatr, ulewne opady i poważne zagrożenie powodziami oraz osuwiskami.",
+      "originalTitle": "Burza tropikalna Lala zmierza na Hawaje. Może stać się huraganem",
+      "originalDescription": "Władze Hawajów przygotowują mieszkańców na nadejście burzy tropikalnej Lala, która niesie silny wiatr, ulewne opady i poważne zagrożenie powodziami oraz osuwiskami."
+    },
+    {
+      "title": "Skutki wojny w Iranie. Linie lotnicze pod kreską",
+      "link": "https://tvn24.pl/biznes/ze-swiata/skutki-wojny-w-iranie-linie-lotnicze-pod-kreska-st9191118?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 14:23:22 GMT",
+      "description": "Wzrost kosztów paliwa wywołany wojną USA z Iranem drenuje konta linii lotniczych. Jak przekazał wiceminister infrastruktury Piotr Malepszak, odnosząc się do polskiej spółki LOT, choć zwykle koszty paliwa nie przekraczają jednej czwartej wydatków przewoźnika, obecnie mogą sięgać nawet 40 procent.",
+      "originalTitle": "Skutki wojny w Iranie. Linie lotnicze pod kreską",
+      "originalDescription": "Wzrost kosztów paliwa wywołany wojną USA z Iranem drenuje konta linii lotniczych. Jak przekazał wiceminister infrastruktury Piotr Malepszak, odnosząc się do polskiej spółki LOT, choć zwykle koszty paliwa nie przekraczają jednej czwartej wydatków przewoźnika, obecnie mogą sięgać nawet 40 procent."
+    }
+  ]
 }
