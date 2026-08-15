@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-15T04:29:37.781Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-15T04:58:58.471Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Amerykański misjonarz uwolniony. Trump: czekamy, by powitać cię w domu",
+      "link": "https://tvn24.pl/swiat/porwany-w-nigrze-amerykanski-pilot-misjonarz-zostal-uwolniony-st9190574?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 04:41:22 GMT",
+      "description": "Prezydent USA Donald Trump poinformował o uwolnieniu amerykańskiego misjonarza Kevina Rideouta. Mężczyzna został porwany w Nigrze. Agencja Reutera przekazała, że w negocjacje zaangażowana była Libia.",
+      "originalTitle": "Amerykański misjonarz uwolniony. Trump: czekamy, by powitać cię w domu",
+      "originalDescription": "Prezydent USA Donald Trump poinformował o uwolnieniu amerykańskiego misjonarza Kevina Rideouta. Mężczyzna został porwany w Nigrze. Agencja Reutera przekazała, że w negocjacje zaangażowana była Libia."
+    },
+    {
+      "title": "Upał. Ostrzeżenia IMGW w niemal całej Polsce. Miejscami jest pomarańczowo",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-upal-w-mocy-pomaranczowe-i-zolte-ostrzezenia-imgw-st9187400?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 04:35:00 GMT",
+      "description": "Przed nami upalna sobota. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia w 15 województwach, a w części kraju mają one pomarańczowy kolor. Sprawdź, na jaką temperaturę się szykować.",
+      "originalTitle": "Upał. Ostrzeżenia IMGW w niemal całej Polsce. Miejscami jest pomarańczowo",
+      "originalDescription": "Przed nami upalna sobota. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia w 15 województwach, a w części kraju mają one pomarańczowy kolor. Sprawdź, na jaką temperaturę się szykować."
+    },
+    {
+      "title": "Przyjechał do komendy, by oznakować swój rower. Miał półtora promila",
+      "link": "https://tvn24.pl/polska/aleksandrow-kujawski-nietrzezwy-65-latek-przyjechal-do-komendy-oznakowac-rower-st9190575?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 04:31:06 GMT",
+      "description": "W Aleksandrowie Kujawskim do komendy policji przyjechał mężczyzna w celu oznakowania roweru. Okazało się, że był pod wpływem alkoholu. Rower zgodnie z życzeniem został oznakowany, ale o wymiarze kary dla 65-latka zdecyduje sąd.",
+      "originalTitle": "Przyjechał do komendy, by oznakować swój rower. Miał półtora promila",
+      "originalDescription": "W Aleksandrowie Kujawskim do komendy policji przyjechał mężczyzna w celu oznakowania roweru. Okazało się, że był pod wpływem alkoholu. Rower zgodnie z życzeniem został oznakowany, ale o wymiarze kary dla 65-latka zdecyduje sąd."
+    },
+    {
+      "title": "Sześć rzeczy, które warto dziś wiedzieć",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-w-sobote-15-sierpnia-najwazniejsze-informacje-st9190578?source=rss",
+      "pubDate": "Sat, 15 Aug 2026 04:17:10 GMT",
+      "description": "Na południu Chorwacji wybuchł ogromny pożar, wśród poszkodowanych są Polacy. W poniedziałek zaczną obowiązywać nowe maksymalne ceny paliw. Pożegnaliśmy naszego redakcyjnego przyjaciela Andrzeja Morozowskiego. Oto rzeczy, które warto wiedzieć w sobotę 15 sierpnia.",
+      "originalTitle": "Sześć rzeczy, które warto dziś wiedzieć",
+      "originalDescription": "Na południu Chorwacji wybuchł ogromny pożar, wśród poszkodowanych są Polacy. W poniedziałek zaczną obowiązywać nowe maksymalne ceny paliw. Pożegnaliśmy naszego redakcyjnego przyjaciela Andrzeja Morozowskiego. Oto rzeczy, które warto wiedzieć w sobotę 15 sierpnia."
+    },
+    {
+      "title": "Donald Trump: niedługo ogłoszę cieśninę Ormuz terytorium USA",
+      "link": "https://tvn24.pl/swiat/donald-trump-niedlugo-oglosze-ciesnine-ormuz-terytorium-usa-st9190560?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 20:22:59 GMT",
+      "description": "Prezydent USA Donald Trump zapowiedział, że \"niedługo ogłosi cieśninę Ormuz terytorium Stanów Zjednoczonych\".",
+      "originalTitle": "Donald Trump: niedługo ogłoszę cieśninę Ormuz terytorium USA",
+      "originalDescription": "Prezydent USA Donald Trump zapowiedział, że \"niedługo ogłosi cieśninę Ormuz terytorium Stanów Zjednoczonych\"."
+    },
+    {
+      "title": "Leciał tak nisko, że nie wykryło go radary. Dron rozbił się w Rumunii",
+      "link": "https://tvn24.pl/swiat/rumunia-dron-rozbil-sie-kolo-tulczy-blisko-granicy-z-ukraina-st9190551?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 20:09:02 GMT",
+      "description": "W Rumunii, w pobliżu granicy z Ukrainą, rozbił się w piątek dron nieznanego pochodzenia. To kolejny taki incydent naruszenia rumuńskiej przestrzeni powietrznej.",
+      "originalTitle": "Leciał tak nisko, że nie wykryło go radary. Dron rozbił się w Rumunii",
+      "originalDescription": "W Rumunii, w pobliżu granicy z Ukrainą, rozbił się w piątek dron nieznanego pochodzenia. To kolejny taki incydent naruszenia rumuńskiej przestrzeni powietrznej."
+    },
+    {
+      "title": "\"Wszystko działo się błyskawicznie\". Polak o ucieczce przed wielkim pożarem",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/pozary-w-chorwacji-polak-opowiedzial-o-ewakuacji-i-ucieczce-przed-ogniem-st9190545?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 19:59:46 GMT",
+      "description": "Nieopodal chorwackiego miasta Omisz na południu kraju wybuchł ogromny pożar. Ponad dwa tysiące ludzi zostało ewakuowanych. O tym, jak wyglądała ucieczka przed rozprzestrzeniającym się żywiołem, opowiadał na antenie TVN24 Dawid Kierczak.",
+      "originalTitle": "\"Wszystko działo się błyskawicznie\". Polak o ucieczce przed wielkim pożarem",
+      "originalDescription": "Nieopodal chorwackiego miasta Omisz na południu kraju wybuchł ogromny pożar. Ponad dwa tysiące ludzi zostało ewakuowanych. O tym, jak wyglądała ucieczka przed rozprzestrzeniającym się żywiołem, opowiadał na antenie TVN24 Dawid Kierczak."
+    },
+    {
+      "title": "Eurojackpot. Wyniki losowania",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-losowania-st9190540?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 19:48:47 GMT",
+      "description": "W piątkowym losowaniu Eurojackpot nie padła główna wygrana. W kolejnym do zdobycia będzie 90 milionów złotych. Oto wyniki losowania z 14 sierpnia 2026 roku.",
+      "originalTitle": "Eurojackpot. Wyniki losowania",
+      "originalDescription": "W piątkowym losowaniu Eurojackpot nie padła główna wygrana. W kolejnym do zdobycia będzie 90 milionów złotych. Oto wyniki losowania z 14 sierpnia 2026 roku."
+    },
+    {
+      "title": "Dowódca ORP Wicher: ten okręt daje nam nową zdolność",
+      "link": "https://tvn24.pl/polska/dowodca-orp-wicher-ten-okret-daje-nam-nowa-zdolnosc-st9190521?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 19:31:07 GMT",
+      "description": "Sensory, uzbrojenie i system dowodzenia - w tych trzech aspektach okręty z programu Miecznik będą z najwyższej światowej półki. - Fregata ORP Wicher to Mercedes wśród okrętów swojej klasy - ocenił komandor porucznik Grzegorz Galikowski, dowódca nowej jednostki.",
+      "originalTitle": "Dowódca ORP Wicher: ten okręt daje nam nową zdolność",
+      "originalDescription": "Sensory, uzbrojenie i system dowodzenia - w tych trzech aspektach okręty z programu Miecznik będą z najwyższej światowej półki. - Fregata ORP Wicher to Mercedes wśród okrętów swojej klasy - ocenił komandor porucznik Grzegorz Galikowski, dowódca nowej jednostki."
+    },
+    {
+      "title": "Skradziono dane setek tysięcy podatników. \"Działający w złym zamiarze sprawca\"",
+      "link": "https://tvn24.pl/biznes/tech/skradziono-dane-setek-tysiecy-podatnikow-dzialajacy-w-zlym-zamiarze-sprawca-st9190417?source=rss",
+      "pubDate": "Fri, 14 Aug 2026 19:27:38 GMT",
+      "description": "Wykradzione zostały dane podatników, zarówno prywatne, jak i służbowe - przekazał francuski resort finansów.",
+      "originalTitle": "Skradziono dane setek tysięcy podatników. \"Działający w złym zamiarze sprawca\"",
+      "originalDescription": "Wykradzione zostały dane podatników, zarówno prywatne, jak i służbowe - przekazał francuski resort finansów."
+    }
+  ]
 }
