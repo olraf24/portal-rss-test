@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-17T22:49:52.374Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-17T23:21:40.958Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Donald Trump o relacji z Kimem: rozumiem go, a on rozumie mnie",
+      "link": "https://tvn24.pl/swiat/donald-trump-o-relacji-z-kim-dzong-unem-rozumiem-go-a-on-rozumie-mnie-st9194119?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 20:57:30 GMT",
+      "description": "Donald Trump twierdzi, że dobrze dogaduje się z przywódcą Korei Północnej Kim Dzong Unem. Dzień wcześniej prezydent USA zadeklarował ograniczenie wspólnych ćwiczeń z Koreą Południową, wskazując na jego \"dobre relacje\" z północnokoreańskim dyktatorem.",
+      "originalTitle": "Donald Trump o relacji z Kimem: rozumiem go, a on rozumie mnie",
+      "originalDescription": "Donald Trump twierdzi, że dobrze dogaduje się z przywódcą Korei Północnej Kim Dzong Unem. Dzień wcześniej prezydent USA zadeklarował ograniczenie wspólnych ćwiczeń z Koreą Południową, wskazując na jego \"dobre relacje\" z północnokoreańskim dyktatorem."
+    },
+    {
+      "title": "Samolot z poszkodowanymi wylądował w Polsce. Pięć osób zabrano do szpitali",
+      "link": "https://tvn24.pl/swiat/wegry-wypadek-polskiego-autokaru-pierwsi-ranni-opuscili-wegierski-szpital-leca-do-polski-st9193824?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:38:58 GMT",
+      "description": "Specjalny samolot z poszkodowanymi w wypadku autokaru Polakami wylądował na lotnisku w Jasionce. 21 osób wróciło do kraju. Jak przekazała wojewoda podkarpacka Teresa Kubas-Hul, pięć osób przetransportowano do szpitali na terenie Rzeszowa.",
+      "originalTitle": "Samolot z poszkodowanymi wylądował w Polsce. Pięć osób zabrano do szpitali",
+      "originalDescription": "Specjalny samolot z poszkodowanymi w wypadku autokaru Polakami wylądował na lotnisku w Jasionce. 21 osób wróciło do kraju. Jak przekazała wojewoda podkarpacka Teresa Kubas-Hul, pięć osób przetransportowano do szpitali na terenie Rzeszowa."
+    },
+    {
+      "title": "Trump: oni mogą jednak sprawiać problemy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/trump-oni-moga-jednak-sprawiac-problemy-st9194099?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 19:47:35 GMT",
+      "description": "Prezydent Donald Trump stwierdził, że uznanie cieśniny Ormuz za terytorium USA to świetny pomysł. Według niego Iran chce dojść do porozumienia, ale nie takiego, jakie jest konieczne.",
+      "originalTitle": "Trump: oni mogą jednak sprawiać problemy",
+      "originalDescription": "Prezydent Donald Trump stwierdził, że uznanie cieśniny Ormuz za terytorium USA to świetny pomysł. Według niego Iran chce dojść do porozumienia, ale nie takiego, jakie jest konieczne."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi od Małopolski po Mazowsze",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-17-sierpnia-radar-i-mapa-burz-radar-i-mapa-opadow-na-zywo-st9193515?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 12:18:45 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi od Małopolski po Mazowsze",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl."
+    },
+    {
+      "title": "Wicepremier: zwrócę się do Mety o pilne wyjaśnienia",
+      "link": "https://tvn24.pl/biznes/tech/wicepremier-zwroce-sie-do-mety-o-pilne-wyjasnienia-st9194088?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 19:21:55 GMT",
+      "description": "O wyjaśnienia w sprawie przestrzegania przepisów DSA i eliminowania oszukańczych reklam zwróci się do koncernu Meta wicepremier i minister cyfryzacji Krzysztof Gawkowski. To reakcja na spór giganta technologicznego z szefem Inpostu Rafałem Brzoską.",
+      "originalTitle": "Wicepremier: zwrócę się do Mety o pilne wyjaśnienia",
+      "originalDescription": "O wyjaśnienia w sprawie przestrzegania przepisów DSA i eliminowania oszukańczych reklam zwróci się do koncernu Meta wicepremier i minister cyfryzacji Krzysztof Gawkowski. To reakcja na spór giganta technologicznego z szefem Inpostu Rafałem Brzoską."
+    },
+    {
+      "title": "Niepokój w całej branży. \"Na ten trend zaczyna reagować coraz więcej firm\"",
+      "link": "https://tvn24.pl/biznes/pieniadze/niepokoj-w-calej-branzy-na-ten-trend-zaczyna-reagowac-coraz-wiecej-firm-st9193036?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 19:05:45 GMT",
+      "description": "Rośnie liczba osób sięgających po leki na otyłość. Firmy spożywcze obawiają się stałego obniżenia popytu - podaje agencja Reuters. Branża próbuje zaadresować ten problem i wprowadza specjalne oferty.",
+      "originalTitle": "Niepokój w całej branży. \"Na ten trend zaczyna reagować coraz więcej firm\"",
+      "originalDescription": "Rośnie liczba osób sięgających po leki na otyłość. Firmy spożywcze obawiają się stałego obniżenia popytu - podaje agencja Reuters. Branża próbuje zaadresować ten problem i wprowadza specjalne oferty."
+    },
+    {
+      "title": "Alert RCB. \"Możliwe przerwy w dostawie prądu\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-ulewy-alert-rcb-w-poniedzialek-17-08-mozliwe-przerwy-w-dostawie-pradu-st9192881?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 08:24:32 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa ostrzega w poniedziałek przed burzami z ulewami i silnym wiatrem, które mogą spowodować przerwy w dostawie prądu. SMS-owy alert otrzymali odbiorcy kolejnych powiatów.",
+      "originalTitle": "Alert RCB. \"Możliwe przerwy w dostawie prądu\"",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega w poniedziałek przed burzami z ulewami i silnym wiatrem, które mogą spowodować przerwy w dostawie prądu. SMS-owy alert otrzymali odbiorcy kolejnych powiatów."
+    },
+    {
+      "title": "KNF nakłada dużą karę. Największy bank: nie zgadzamy się",
+      "link": "https://tvn24.pl/biznes/z-kraju/knf-naklada-duza-kare-najwiekszy-bank-nie-zgadzamy-sie-st9194070?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 18:53:54 GMT",
+      "description": "Komisja Nadzoru Finansowego nałożyła na PKO Bank Polski pięć kar o łącznej wartości 47,5 miliona złotych. Bank zapowiada skorzystanie z przysługujących mu środków prawnych.",
+      "originalTitle": "KNF nakłada dużą karę. Największy bank: nie zgadzamy się",
+      "originalDescription": "Komisja Nadzoru Finansowego nałożyła na PKO Bank Polski pięć kar o łącznej wartości 47,5 miliona złotych. Bank zapowiada skorzystanie z przysługujących mu środków prawnych."
+    },
+    {
+      "title": "Gdzie jest Marcin Romanowski? Tomasz Siemoniak: są poważne przesłanki",
+      "link": "https://tvn24.pl/polska/gdzie-jest-marcin-romanowski-tomasz-siemoniak-sa-powazne-przeslanki-st9194014?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 18:51:04 GMT",
+      "description": "Być może list Marcina Romanowskiego świadczy o tym, że gotów jest wsypać swoich mocodawców czy powiedzieć więcej - ocenił w \"Faktach po Faktach\" w TVN24 Tomasz Siemoniak. Ewentualne potwierdzenie pobytu byłego wiceministra sprawiedliwości w Naddniestrzu ocenił jako \"szalenie kłopotliwą informację\" oraz \"postawienie pod ogromnym znakiem zapytania\" PiS-u.",
+      "originalTitle": "Gdzie jest Marcin Romanowski? Tomasz Siemoniak: są poważne przesłanki",
+      "originalDescription": "Być może list Marcina Romanowskiego świadczy o tym, że gotów jest wsypać swoich mocodawców czy powiedzieć więcej - ocenił w \"Faktach po Faktach\" w TVN24 Tomasz Siemoniak. Ewentualne potwierdzenie pobytu byłego wiceministra sprawiedliwości w Naddniestrzu ocenił jako \"szalenie kłopotliwą informację\" oraz \"postawienie pod ogromnym znakiem zapytania\" PiS-u."
+    },
+    {
+      "title": "Nawałnice w Polsce. Zerwane dachy, uszkodzone domy, brak prądu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-przechodza-nad-polska-sa-zalania-bodzanow-i-glucholazy-pod-woda-uszkodzone-domy-w-gminie-rudziniec-nagrania-st9193846?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:51:19 GMT",
+      "description": "Poniedziałek w części kraju upływa pod znakiem silnych burz z intensywnymi opadami. Deszcz na Dolnym Śląsku i Opolszczyźnie zalewał drogi, ulicami płynęły potoki. Silny wiatr na Śląsku zerwał dachy z budynków. Są interwencje straży pożarnej oraz alarmy pogodowe.",
+      "originalTitle": "Nawałnice w Polsce. Zerwane dachy, uszkodzone domy, brak prądu",
+      "originalDescription": "Poniedziałek w części kraju upływa pod znakiem silnych burz z intensywnymi opadami. Deszcz na Dolnym Śląsku i Opolszczyźnie zalewał drogi, ulicami płynęły potoki. Silny wiatr na Śląsku zerwał dachy z budynków. Są interwencje straży pożarnej oraz alarmy pogodowe."
+    }
+  ]
 }
