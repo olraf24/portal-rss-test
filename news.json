@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-17T17:56:02.246Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-17T18:41:04.315Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Silny deszcz i burze. Tu ostrzeżenia IMGW mają pomarańczowy kolor",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-z-ulewami-ostrzezenia-imgw-sa-pomaranczowe-alarmy-st9192721?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 04:44:14 GMT",
+      "description": "W wielu województwach nadchodzące godziny będą trudne. Prognozowane są intensywne opady deszczu, a miejscami pojawią się burze. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego i drugiego stopnia.",
+      "originalTitle": "Silny deszcz i burze. Tu ostrzeżenia IMGW mają pomarańczowy kolor",
+      "originalDescription": "W wielu województwach nadchodzące godziny będą trudne. Prognozowane są intensywne opady deszczu, a miejscami pojawią się burze. Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia pierwszego i drugiego stopnia."
+    },
+    {
+      "title": "\"Fałszywa jesień\" w Anglii. To skutek upałów i suszy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/anglia-do-wielu-miejsc-dotarla-falszywa-jesien-to-skutek-upalow-i-suszy-st9194033?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 18:25:00 GMT",
+      "description": "Suche liście na ziemi, półnagie gałęzie drzew, a nawet roznoszący się zapach jabłek w karmelu. Do wielu miejsc w Anglii dotarła tak zwana fałszywa jesień. To skutek rekordowych upałów i suszy.",
+      "originalTitle": "\"Fałszywa jesień\" w Anglii. To skutek upałów i suszy",
+      "originalDescription": "Suche liście na ziemi, półnagie gałęzie drzew, a nawet roznoszący się zapach jabłek w karmelu. Do wielu miejsc w Anglii dotarła tak zwana fałszywa jesień. To skutek rekordowych upałów i suszy."
+    },
+    {
+      "title": "Gdzie jest burza? Grzmi od Małopolski po Mazowsze",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-17-sierpnia-radar-i-mapa-burz-radar-i-mapa-opadow-na-zywo-st9193515?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 12:18:45 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Grzmi od Małopolski po Mazowsze",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl."
+    },
+    {
+      "title": "Nawałnice w Polsce. Podtapia Dolny Śląsk i Opolszczyznę",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-przechodza-nad-polska-sa-zalania-bodzanow-i-glucholazy-pod-woda-nagrania-st9193846?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:51:19 GMT",
+      "description": "Poniedziałek w części kraju przynosi silne burze z intensywnymi opadami. Deszcz zalewa drogi, ulicami płyną potoki. Są interwencje straży pożarnej oraz alarmy pogodowe.",
+      "originalTitle": "Nawałnice w Polsce. Podtapia Dolny Śląsk i Opolszczyznę",
+      "originalDescription": "Poniedziałek w części kraju przynosi silne burze z intensywnymi opadami. Deszcz zalewa drogi, ulicami płyną potoki. Są interwencje straży pożarnej oraz alarmy pogodowe."
+    },
+    {
+      "title": "\"Europa stoi w obliczu narastającego zagrożenia\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/europa-stoi-w-obliczu-narastajacego-zagrozenia-st9193041?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 18:02:00 GMT",
+      "description": "Bruksela zapowiada nowe sankcje na Rosję. Liczba rosyjskich podmiotów objętych restrykcjami ma się zwiększyć o jedną trzecią.",
+      "originalTitle": "\"Europa stoi w obliczu narastającego zagrożenia\"",
+      "originalDescription": "Bruksela zapowiada nowe sankcje na Rosję. Liczba rosyjskich podmiotów objętych restrykcjami ma się zwiększyć o jedną trzecią."
+    },
+    {
+      "title": "Samolot z poszkodowanymi w wypadku autokaru wylądował w Polsce",
+      "link": "https://tvn24.pl/swiat/wegry-wypadek-polskiego-autokaru-pierwsi-ranni-opuscili-wegierski-szpital-leca-do-polski-st9193824?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:38:58 GMT",
+      "description": "Specjalny samolot z poszkodowanymi w wypadku autokaru Polakami wylądował na lotnisku w Jasionce. 21 osób wróciło do kraju.",
+      "originalTitle": "Samolot z poszkodowanymi w wypadku autokaru wylądował w Polsce",
+      "originalDescription": "Specjalny samolot z poszkodowanymi w wypadku autokaru Polakami wylądował na lotnisku w Jasionce. 21 osób wróciło do kraju."
+    },
+    {
+      "title": "Miliony na działalność instytutu na Węgrzech. Ile zarobił Marcin Romanowski?",
+      "link": "https://tvn24.pl/swiat/miliony-na-dzialalnosc-instytutu-na-wegrzech-ile-zarobil-marcin-romanowski-st9193821?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 17:46:42 GMT",
+      "description": "350 milionów forintów, czyli około cztery miliony złotych ze środków publicznych przekazano na utworzenie i działalność Polsko-Węgierskiego Instytutu Wolności - podaje portal śledczy Atlatszo. Na czele powołanej w 2025 roku placówki stanął wówczas były wiceminister sprawiedliwości Marcin Romanowski.",
+      "originalTitle": "Miliony na działalność instytutu na Węgrzech. Ile zarobił Marcin Romanowski?",
+      "originalDescription": "350 milionów forintów, czyli około cztery miliony złotych ze środków publicznych przekazano na utworzenie i działalność Polsko-Węgierskiego Instytutu Wolności - podaje portal śledczy Atlatszo. Na czele powołanej w 2025 roku placówki stanął wówczas były wiceminister sprawiedliwości Marcin Romanowski."
+    },
+    {
+      "title": "Partie mleka wycofywane. Wykryto toksynę",
+      "link": "https://tvn24.pl/biznes/z-kraju/partie-mleka-wycofywane-wykryto-toksyne-st9193703?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 17:27:58 GMT",
+      "description": "Wycofywane z obrotu są dwie partie mleka początkowego z powodu wykrycia toksyny - poinformował Główny Inspektorat Sanitarny. GIS apeluje, aby nie spożywać produktu.",
+      "originalTitle": "Partie mleka wycofywane. Wykryto toksynę",
+      "originalDescription": "Wycofywane z obrotu są dwie partie mleka początkowego z powodu wykrycia toksyny - poinformował Główny Inspektorat Sanitarny. GIS apeluje, aby nie spożywać produktu."
+    },
+    {
+      "title": "Katastrofa śmigłowca na wyspie Sifnos. Trzy osoby nie żyją",
+      "link": "https://tvn24.pl/swiat/grecja-katastrofa-smiglowca-na-wyspie-sifnos-trzy-osoby-nie-zyja-st9193973?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 17:23:43 GMT",
+      "description": "Trzy osoby zginęły w katastrofie śmigłowca na greckiej wyspie Sifnos na Morzu Egejskim - przekazała straż pożarna.",
+      "originalTitle": "Katastrofa śmigłowca na wyspie Sifnos. Trzy osoby nie żyją",
+      "originalDescription": "Trzy osoby zginęły w katastrofie śmigłowca na greckiej wyspie Sifnos na Morzu Egejskim - przekazała straż pożarna."
+    },
+    {
+      "title": "Kosztowny wynajem auta. Poseł znów komentuje",
+      "link": "https://tvn24.pl/biznes/z-kraju/kosztowny-wynajem-auta-posel-znow-komentuje-st9193839?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 16:38:22 GMT",
+      "description": "Wraca sprawa wynajmu samochodu za pieniądze podatników przez posła Adama Gomołę. Parlamentarzysta odpowiedział na publikacje w tej sprawie i zapewnił, że wszystko odbyło się prawidłowo, a \"wydatki zostały pozytywnie zweryfikowane przez Kancelarię Sejmu\".",
+      "originalTitle": "Kosztowny wynajem auta. Poseł znów komentuje",
+      "originalDescription": "Wraca sprawa wynajmu samochodu za pieniądze podatników przez posła Adama Gomołę. Parlamentarzysta odpowiedział na publikacje w tej sprawie i zapewnił, że wszystko odbyło się prawidłowo, a \"wydatki zostały pozytywnie zweryfikowane przez Kancelarię Sejmu\"."
+    }
+  ]
 }
