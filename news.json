@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-17T14:54:16.714Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-17T15:24:20.420Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Europejski Bank Centralny ostrzega. \"Poważne konsekwencje\"",
+      "link": "https://tvn24.pl/biznes/tech/europejski-bank-centralny-ostrzega-powazne-konsekwencje-st9193692?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:12:04 GMT",
+      "description": "Korekta wycen spółek technologicznych jest prawdopodobna i może uderzyć także w Europę - twierdzą analitycy Europejskiego Banku Centralnego.",
+      "originalTitle": "Europejski Bank Centralny ostrzega. \"Poważne konsekwencje\"",
+      "originalDescription": "Korekta wycen spółek technologicznych jest prawdopodobna i może uderzyć także w Europę - twierdzą analitycy Europejskiego Banku Centralnego."
+    },
+    {
+      "title": "Drzewo runęło na samochód",
+      "link": "https://tvn24.pl/wroclaw/jelenia-gora-drzewo-runelo-na-samochod-st9193791?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:05:53 GMT",
+      "description": "Drzewo przewróciło się na samochód osobowy na ulicy Matejki w Jeleniej Górze. Nikt nie odniósł obrażeń.",
+      "originalTitle": "Drzewo runęło na samochód",
+      "originalDescription": "Drzewo przewróciło się na samochód osobowy na ulicy Matejki w Jeleniej Górze. Nikt nie odniósł obrażeń."
+    },
+    {
+      "title": "Przywiązany do drzewa, zostawiony bez wody i jedzenia",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/chotomow-przywiazany-do-drzewa-zostawiony-bez-wody-i-jedzenia-st9193810?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:04:02 GMT",
+      "description": "Zostawił psa przywiązanego do drzewa, bez wody i jedzenia. Zauważył go przechodzień w Chotomowie i powiadomił policjantów. Ci znaleźli właściciela psa i postawili mu zarzuty.",
+      "originalTitle": "Przywiązany do drzewa, zostawiony bez wody i jedzenia",
+      "originalDescription": "Zostawił psa przywiązanego do drzewa, bez wody i jedzenia. Zauważył go przechodzień w Chotomowie i powiadomił policjantów. Ci znaleźli właściciela psa i postawili mu zarzuty."
+    },
+    {
+      "title": "Wypadek polskiego autokaru na Węgrzech. Policja wszczęła postępowanie przeciwko kierowcy",
+      "link": "https://tvn24.pl/swiat/wypadek-polskiego-autokaru-na-wegrzech-policja-wszczela-postepowanie-przeciwko-kierowcy-st9193066?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 10:36:20 GMT",
+      "description": "Węgierska policja wszczęła postępowanie przeciwko kierowcy autobusu z polskimi pielgrzymami, który uległ wypadkowi na autostradzie M3. We wtorek ma zostać doprowadzony przed sąd. Rzecznik prasowy prokuratury głównej regionu, w którym doszło do tragedii, przekazał, że zatrzymany został przesłuchany, ale nie złożył jeszcze wyjaśnień.",
+      "originalTitle": "Wypadek polskiego autokaru na Węgrzech. Policja wszczęła postępowanie przeciwko kierowcy",
+      "originalDescription": "Węgierska policja wszczęła postępowanie przeciwko kierowcy autobusu z polskimi pielgrzymami, który uległ wypadkowi na autostradzie M3. We wtorek ma zostać doprowadzony przed sąd. Rzecznik prasowy prokuratury głównej regionu, w którym doszło do tragedii, przekazał, że zatrzymany został przesłuchany, ale nie złożył jeszcze wyjaśnień."
+    },
+    {
+      "title": "\"Bóg, honor i ojczyzna\" i \"obrońcy Monte Cassino\". Prezydent kontra historia",
+      "link": "https://konkret24.tvn24.pl/polska/bog-honor-i-ojczyzna-i-obroncy-monte-cassino-prezydent-kontra-historia-st9192942?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:39:05 GMT",
+      "description": "Polscy żołnierze pod Monte Cassino i dewiza na wojskowych sztandarach - te historyczne tematy z wystąpienia Karola Nawrockiego wywołały komentarze po święcie Wojska Polskiego. Tłumaczymy dlaczego.",
+      "originalTitle": "\"Bóg, honor i ojczyzna\" i \"obrońcy Monte Cassino\". Prezydent kontra historia",
+      "originalDescription": "Polscy żołnierze pod Monte Cassino i dewiza na wojskowych sztandarach - te historyczne tematy z wystąpienia Karola Nawrockiego wywołały komentarze po święcie Wojska Polskiego. Tłumaczymy dlaczego."
+    },
+    {
+      "title": "Odporność buduje się przez kontakt z chorobą? Specjalista wyjaśnia",
+      "link": "https://tvn24.pl/zdrowie/odpornosc-buduje-sie-przez-kontakt-z-choroba-specjalista-rozwiewa-szkodliwy-mit-st9193747?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:36:45 GMT",
+      "description": "To jeden z najczęściej powtarzanych mitów i, jak podkreśla specjalista, bardzo szkodliwych. Chodzi o przekonanie, że kontakt z chorobą zakaźną w naturalny sposób wzmacnia odporność organizmu. \"To może prowadzić do ciężkich powikłań, a nawet śmierci\" - ostrzega lekarz.",
+      "originalTitle": "Odporność buduje się przez kontakt z chorobą? Specjalista wyjaśnia",
+      "originalDescription": "To jeden z najczęściej powtarzanych mitów i, jak podkreśla specjalista, bardzo szkodliwych. Chodzi o przekonanie, że kontakt z chorobą zakaźną w naturalny sposób wzmacnia odporność organizmu. \"To może prowadzić do ciężkich powikłań, a nawet śmierci\" - ostrzega lekarz."
+    },
+    {
+      "title": "Z Wisły wyłowiono ciało mężczyzny, apel policji",
+      "link": "https://tvn24.pl/lublin/kazimierz-dolny-lubelskie-z-wisly-wylowiono-cialo-mezczyzny-apel-policji-st9193740?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:25:32 GMT",
+      "description": "Ciało mężczyzny wyłowiono z Wisły w Kazimierzu Dolnym (Lubelskie). Policjanci ustalają jego tożsamość i wyjaśniają okoliczności śmierci.",
+      "originalTitle": "Z Wisły wyłowiono ciało mężczyzny, apel policji",
+      "originalDescription": "Ciało mężczyzny wyłowiono z Wisły w Kazimierzu Dolnym (Lubelskie). Policjanci ustalają jego tożsamość i wyjaśniają okoliczności śmierci."
+    },
+    {
+      "title": "Wartość giganta mocno w dół",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wartosc-giganta-mocno-w-dol-st9193261?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:22:14 GMT",
+      "description": "Shein może zostać wyceniony na około 25 miliardów dolarów podczas planowanego debiutu w Hongkongu - podał Reuters. To jedna czwarta wyceny z 2022 roku.",
+      "originalTitle": "Wartość giganta mocno w dół",
+      "originalDescription": "Shein może zostać wyceniony na około 25 miliardów dolarów podczas planowanego debiutu w Hongkongu - podał Reuters. To jedna czwarta wyceny z 2022 roku."
+    },
+    {
+      "title": "Ciągnęła za samochodem psa na łańcuchu",
+      "link": "https://tvn24.pl/krakow/nowy-targ-ciagnela-psa-za-samochodem-miala-blisko-3-promile-st9193726?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:21:51 GMT",
+      "description": "Kierująca Audi ciągnęła psa za samochodem przez około 400 metrów. Zwierzę odniosło poważne obrażenia. Kobieta, jak się okazało, była pijana.",
+      "originalTitle": "Ciągnęła za samochodem psa na łańcuchu",
+      "originalDescription": "Kierująca Audi ciągnęła psa za samochodem przez około 400 metrów. Zwierzę odniosło poważne obrażenia. Kobieta, jak się okazało, była pijana."
+    },
+    {
+      "title": "Gdzie jest burza? Może sypnąć gradem",
+      "link": "https://tvn24.pl/tvnmeteo/polska/gdzie-jest-burza-burze-w-polsce-w-poniedzialek-17-sierpnia-radar-i-mapa-burz-radar-i-mapa-opadow-na-zywo-st9193515?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 12:18:45 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Może sypnąć gradem",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl."
+    }
+  ]
 }
