@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-17T06:53:35.400Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-17T07:52:37.430Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Hawaje. Uszkodzone domy, zniszczone drogi. Powodzie błyskawiczne, jakich \"nie widzieliśmy nigdy wcześniej\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/hawaje-huragan-lala-uszkodzone-domy-zniszczone-drogi-powodzie-blyskawiczne-jakich-nie-widzielismy-nigdy-wczesniej-st9192755?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 07:02:09 GMT",
+      "description": "Hawaje mierzą się ze skutkami huraganu Lala. Żywioł uszkodził ponad 100 domów, zarówno w wyniku silnego wiatru, jak i powodzi błyskawicznych. Służby ratowały mieszkańców przed napierającą wodą. W najgorszym momencie prądu nie miało ponad 200 tysięcy odbiorców.",
+      "originalTitle": "Hawaje. Uszkodzone domy, zniszczone drogi. Powodzie błyskawiczne, jakich \"nie widzieliśmy nigdy wcześniej\"",
+      "originalDescription": "Hawaje mierzą się ze skutkami huraganu Lala. Żywioł uszkodził ponad 100 domów, zarówno w wyniku silnego wiatru, jak i powodzi błyskawicznych. Służby ratowały mieszkańców przed napierającą wodą. W najgorszym momencie prądu nie miało ponad 200 tysięcy odbiorców."
+    },
+    {
+      "title": "Atak Ukrainy na Rosję. Lokalne władze o ofiarach cywilnych",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-trafiony-magazyn-wildberries-pod-moskwa-rosyjskie-wladze-o-ofiarach-cywilnych-st9192760?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 07:01:49 GMT",
+      "description": "Co najmniej sześć osób zginęło, a cztery zostały ranne w wyniku ukraińskich ataków na obwód biełgorodzki - przekazały rosyjskie władze. Z kolei w nocnych atakach Rosji na wschodnią Ukrainę zginęły co najmniej cztery osoby. W niedzielę Ukraina zaatakowała też największy magazyn rosyjskiej platformy sprzedażowej Wildberries pod Moskwą. Na zdjęciach widać ogromny słup dymu wydobywający się z płonącego budynku.",
+      "originalTitle": "Atak Ukrainy na Rosję. Lokalne władze o ofiarach cywilnych",
+      "originalDescription": "Co najmniej sześć osób zginęło, a cztery zostały ranne w wyniku ukraińskich ataków na obwód biełgorodzki - przekazały rosyjskie władze. Z kolei w nocnych atakach Rosji na wschodnią Ukrainę zginęły co najmniej cztery osoby. W niedzielę Ukraina zaatakowała też największy magazyn rosyjskiej platformy sprzedażowej Wildberries pod Moskwą. Na zdjęciach widać ogromny słup dymu wydobywający się z płonącego budynku."
+    },
+    {
+      "title": "Wypadek autokaru na Węgrzech. Zidentyfikowano siedem ofiar",
+      "link": "https://tvn24.pl/rzeszow/wypadek-autokaru-na-wegrzech-zidentyfikowano-siedem-ofiar-st9192767?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 06:39:05 GMT",
+      "description": "Wojewoda podkarpacka Teresa Kubas-Hul powiedziała w poniedziałek rano, że zidentyfikowano siódmą śmiertelną ofiarę wypadku na Węgrzech. W katastrofie autobusu życie straciło 12 pielgrzymów. Rodziny ofiar mogą liczyć na miejscu na wsparcie psychologów.",
+      "originalTitle": "Wypadek autokaru na Węgrzech. Zidentyfikowano siedem ofiar",
+      "originalDescription": "Wojewoda podkarpacka Teresa Kubas-Hul powiedziała w poniedziałek rano, że zidentyfikowano siódmą śmiertelną ofiarę wypadku na Węgrzech. W katastrofie autobusu życie straciło 12 pielgrzymów. Rodziny ofiar mogą liczyć na miejscu na wsparcie psychologów."
+    },
+    {
+      "title": "Przełom po 26 latach. Akt oskarżenia za zabójstwo Anny i Marty",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-sprawa-zabojstwa-nastolatek-z-radzymina-do-sadu-trafil-akt-oskarzenia-koniec-sledztwa-po-blisko-26-latach-st9192487?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 06:31:08 GMT",
+      "description": "Do sądu trafił akt oskarżenia przeciwko mężczyznom podejrzanym o zabójstwo dwóch nastolatek z Radzymina. Tomasz T. i Krzysztof R. po 26 latach staną przed sądem. Mogą usłyszeć wyroki nawet dożywotniego pozbawienia wolności.",
+      "originalTitle": "Przełom po 26 latach. Akt oskarżenia za zabójstwo Anny i Marty",
+      "originalDescription": "Do sądu trafił akt oskarżenia przeciwko mężczyznom podejrzanym o zabójstwo dwóch nastolatek z Radzymina. Tomasz T. i Krzysztof R. po 26 latach staną przed sądem. Mogą usłyszeć wyroki nawet dożywotniego pozbawienia wolności."
+    },
+    {
+      "title": "Petru krytykuje obniżkę cen paliw: to marnowanie pieniędzy",
+      "link": "https://tvn24.pl/biznes/pieniadze/ryszard-petru-krytykuje-obnizke-cen-paliw-najwiecej-korzystaja-najbogatsi-st9192751?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 06:27:28 GMT",
+      "description": "Powrót programu \"Ceny Paliwa Niżej\" spotkał się w poniedziałek na antenie TVN24 w programie \"Jeden na Jeden\" z krytyką Ryszarda Petru. Poseł, wiceprzewodniczący klubu Centrum ocenił, że na obniżce VAT na paliwa najbardziej korzystają zamożniejsi kierowcy, a przy obecnych cenach ropy rządowe wsparcie nie jest potrzebne.",
+      "originalTitle": "Petru krytykuje obniżkę cen paliw: to marnowanie pieniędzy",
+      "originalDescription": "Powrót programu \"Ceny Paliwa Niżej\" spotkał się w poniedziałek na antenie TVN24 w programie \"Jeden na Jeden\" z krytyką Ryszarda Petru. Poseł, wiceprzewodniczący klubu Centrum ocenił, że na obniżce VAT na paliwa najbardziej korzystają zamożniejsi kierowcy, a przy obecnych cenach ropy rządowe wsparcie nie jest potrzebne."
+    },
+    {
+      "title": "Mało znana pasja Andrzeja Morozowskiego. \"Dostałem taki telefon...\"",
+      "link": "https://tvn24.pl/polska/andrzej-morozowski-lubil-przedwojenna-muzyke-jan-emil-mlynarski-poswiecil-jego-pamieci-odcinek-swojej-audycji-st9192513?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 05:59:32 GMT",
+      "description": "Najnowsze wydanie audycji \"Salon Ulica Dancing\" w radiowej Trójce jej twórca Jan Emil Młynarski poświęcił Andrzejowi Morozowskiemu. A ściślej: mało znanej pasji naszego znakomitego dziennikarza do muzyki z dwudziestolecia międzywojennego.",
+      "originalTitle": "Mało znana pasja Andrzeja Morozowskiego. \"Dostałem taki telefon...\"",
+      "originalDescription": "Najnowsze wydanie audycji \"Salon Ulica Dancing\" w radiowej Trójce jej twórca Jan Emil Młynarski poświęcił Andrzejowi Morozowskiemu. A ściślej: mało znanej pasji naszego znakomitego dziennikarza do muzyki z dwudziestolecia międzywojennego."
+    },
+    {
+      "title": "Ryszard Petru zapowiada trasę po Polsce. Chce promować swój nowy ruch",
+      "link": "https://tvn24.pl/polska/ryszard-petru-chce-promowac-nowy-ruch-przedstawil-postulaty-ruszy-w-trase-po-polsce-st9192737?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 05:56:05 GMT",
+      "description": "Żadnych nowych podatków, obniżka składki zdrowotnej, samoograniczenie państwa i propozycje, jak walczyć z tym leniwym państwem, które nam nie pomaga w wielu sprawach - tak poseł Ryszard Petru opisał w \"Jeden na jeden\" w TVN24 postulaty zakładanego przez siebie ruchu. Zapowiedział również, że ruszy w trasę po Polsce.",
+      "originalTitle": "Ryszard Petru zapowiada trasę po Polsce. Chce promować swój nowy ruch",
+      "originalDescription": "Żadnych nowych podatków, obniżka składki zdrowotnej, samoograniczenie państwa i propozycje, jak walczyć z tym leniwym państwem, które nam nie pomaga w wielu sprawach - tak poseł Ryszard Petru opisał w \"Jeden na jeden\" w TVN24 postulaty zakładanego przez siebie ruchu. Zapowiedział również, że ruszy w trasę po Polsce."
+    },
+    {
+      "title": "Nawet 60 litrów deszczu. Radar i mapa opadów",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/radar-i-mapa-opadow-na-zywo-zmiana-w-pogodzie-pogoda-w-poniedzialek-17-08-burze-z-ulewami-i-gradem-st9192511?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 05:38:00 GMT",
+      "description": "Po kilku słonecznych i spokojnych dniach w poniedziałek i nocą z poniedziałku na wtorek popada i zagrzmi. Wszystko za sprawą chłodnego frontu, który zaznacza swoją obecność w Polsce. Według naszego synoptyka w niektórych miejscach w 24 godziny może spaść nawet 60 litrów deszczu.",
+      "originalTitle": "Nawet 60 litrów deszczu. Radar i mapa opadów",
+      "originalDescription": "Po kilku słonecznych i spokojnych dniach w poniedziałek i nocą z poniedziałku na wtorek popada i zagrzmi. Wszystko za sprawą chłodnego frontu, który zaznacza swoją obecność w Polsce. Według naszego synoptyka w niektórych miejscach w 24 godziny może spaść nawet 60 litrów deszczu."
+    },
+    {
+      "title": "200 tysięcy osób bez prądu. Huragan uderzył w turystyczny raj.",
+      "link": "https://tvn24.pl/biznes/ze-swiata/hawaje-po-huraganie-lala-uszkodzone-domy-i-awarie-sieci-energetycznej-st9192725?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 05:33:53 GMT",
+      "description": "Huragan Lala, który przeszedł nad Hawajami, spowodował rozległe przerwy w dostawach energii, uszkodził domy i wywołał powodzie błyskawiczne. Choć żywioł osłabł do burzy tropikalnej, mieszkańcy i turyści na kilku wyspach archipelagu nadal pozostają objęci obostrzeniami.",
+      "originalTitle": "200 tysięcy osób bez prądu. Huragan uderzył w turystyczny raj.",
+      "originalDescription": "Huragan Lala, który przeszedł nad Hawajami, spowodował rozległe przerwy w dostawach energii, uszkodził domy i wywołał powodzie błyskawiczne. Choć żywioł osłabł do burzy tropikalnej, mieszkańcy i turyści na kilku wyspach archipelagu nadal pozostają objęci obostrzeniami."
+    },
+    {
+      "title": "Hayden Panettiere nie żyje. Aktorka miała 36 lat",
+      "link": "https://tvn24.pl/kultura-i-styl/hayden-panettiere-nie-zyje-aktorka-miala-36-lat-st9192738?source=rss",
+      "pubDate": "Mon, 17 Aug 2026 05:28:29 GMT",
+      "description": "Zmarła Hayden Panettiere, amerykańska aktorka znana między innymi z seriali \"Herosi\" oraz \"Nashville\". Miała 36 lat.",
+      "originalTitle": "Hayden Panettiere nie żyje. Aktorka miała 36 lat",
+      "originalDescription": "Zmarła Hayden Panettiere, amerykańska aktorka znana między innymi z seriali \"Herosi\" oraz \"Nashville\". Miała 36 lat."
+    }
+  ]
 }
