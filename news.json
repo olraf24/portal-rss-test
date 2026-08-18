@@ -1,8 +1,32 @@
 {
-  "lastUpdate": "2026-08-18T03:43:44.083Z",
+  "lastUpdate": "2026-08-18T04:34:47.064Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Silny deszcz i burze. Tu trzeba uważać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/burze-z-ulewami-ostrzezenia-imgw-sa-pomaranczowe-alarmy-st9192721?source=rss",
+      "pubDate": "Tue, 18 Aug 2026 04:20:51 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym deszczem z burzami. W części kraju obowiązują żółte alarmy. Sprawdź szczegóły.",
+      "originalTitle": "Silny deszcz i burze. Tu trzeba uważać",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed silnym deszczem z burzami. W części kraju obowiązują żółte alarmy. Sprawdź szczegóły."
+    },
+    {
+      "title": "Jak pomóc poszkodowanym i ich bliskim? Doktor Joanna Heidtman wyjaśnia",
+      "link": "https://tvn24.pl/polska/pomoc-psychologiczna-w-zwiazku-z-wypadkiem-autokaru-na-wegrzech-rozmowa-z-dr-joanna-heidtman-st9194149?source=rss",
+      "pubDate": "Tue, 18 Aug 2026 04:12:51 GMT",
+      "description": "Dla uczestników wypadku autokaru na Węgrzech najważniejsze jest teraz przywrócenie im przynajmniej minimum spokoju i poczucia bezpieczeństwa - powiedziała w \"Faktach po Faktach\" w TVN24 psycholożka i socjolożka dr Joanna Heidtman. Wskazała, że na ten moment pomoc psychologów i terapeutów będzie bardziej służyła rodzinom i bliskim poszkodowanych, \"żeby oni umieli udzielić tego wsparcia bliskim\".",
+      "originalTitle": "Jak pomóc poszkodowanym i ich bliskim? Doktor Joanna Heidtman wyjaśnia",
+      "originalDescription": "Dla uczestników wypadku autokaru na Węgrzech najważniejsze jest teraz przywrócenie im przynajmniej minimum spokoju i poczucia bezpieczeństwa - powiedziała w \"Faktach po Faktach\" w TVN24 psycholożka i socjolożka dr Joanna Heidtman. Wskazała, że na ten moment pomoc psychologów i terapeutów będzie bardziej służyła rodzinom i bliskim poszkodowanych, \"żeby oni umieli udzielić tego wsparcia bliskim\"."
+    },
+    {
+      "title": "Najgorszy wynik Trumpa w tej kadencji. Jest nowy sondaż",
+      "link": "https://tvn24.pl/swiat/najgorszy-wynik-trumpa-w-tej-kadencji-nowy-sondaz-reuters-ipsos-st9194150?source=rss",
+      "pubDate": "Tue, 18 Aug 2026 03:53:20 GMT",
+      "description": "Działalnia Donalda Trumpa pozytywnie ocenia 33 procent Amerykanów. To najniższy wynik w tej kadencji - wynika z najnowszego sondażu Reuters/Ipsos.",
+      "originalTitle": "Najgorszy wynik Trumpa w tej kadencji. Jest nowy sondaż",
+      "originalDescription": "Działalnia Donalda Trumpa pozytywnie ocenia 33 procent Amerykanów. To najniższy wynik w tej kadencji - wynika z najnowszego sondażu Reuters/Ipsos."
+    },
     {
       "title": "Wiele par rozchodzi się w porozumieniu. Inne latami trwają w \"rozwodowym piekle\"",
       "link": "https://tvn24.pl/polska/w-2025-roku-sady-orzekly-60-tysiecy-rozwodow-przyczyny-rozwodow-w-polsce-st9194120?source=rss",
@@ -58,30 +82,6 @@
       "description": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl.",
       "originalTitle": "Gdzie jest burza? Grzmi od Małopolski po Mazowsze",
       "originalDescription": "Gdzie jest burza? W poniedziałek 17.08 nad Polską pojawiają się wyładowania atmosferyczne. Towarzyszą im miejscami intensywne opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową na tvnmeteo.pl."
-    },
-    {
-      "title": "Wicepremier: zwrócę się do Mety o pilne wyjaśnienia",
-      "link": "https://tvn24.pl/biznes/tech/wicepremier-zwroce-sie-do-mety-o-pilne-wyjasnienia-st9194088?source=rss",
-      "pubDate": "Mon, 17 Aug 2026 19:21:55 GMT",
-      "description": "O wyjaśnienia w sprawie przestrzegania przepisów DSA i eliminowania oszukańczych reklam zwróci się do koncernu Meta wicepremier i minister cyfryzacji Krzysztof Gawkowski. To reakcja na spór giganta technologicznego z szefem Inpostu Rafałem Brzoską.",
-      "originalTitle": "Wicepremier: zwrócę się do Mety o pilne wyjaśnienia",
-      "originalDescription": "O wyjaśnienia w sprawie przestrzegania przepisów DSA i eliminowania oszukańczych reklam zwróci się do koncernu Meta wicepremier i minister cyfryzacji Krzysztof Gawkowski. To reakcja na spór giganta technologicznego z szefem Inpostu Rafałem Brzoską."
-    },
-    {
-      "title": "Niepokój w całej branży. \"Na ten trend zaczyna reagować coraz więcej firm\"",
-      "link": "https://tvn24.pl/biznes/pieniadze/niepokoj-w-calej-branzy-na-ten-trend-zaczyna-reagowac-coraz-wiecej-firm-st9193036?source=rss",
-      "pubDate": "Mon, 17 Aug 2026 19:05:45 GMT",
-      "description": "Rośnie liczba osób sięgających po leki na otyłość. Firmy spożywcze obawiają się stałego obniżenia popytu - podaje agencja Reuters. Branża próbuje zaadresować ten problem i wprowadza specjalne oferty.",
-      "originalTitle": "Niepokój w całej branży. \"Na ten trend zaczyna reagować coraz więcej firm\"",
-      "originalDescription": "Rośnie liczba osób sięgających po leki na otyłość. Firmy spożywcze obawiają się stałego obniżenia popytu - podaje agencja Reuters. Branża próbuje zaadresować ten problem i wprowadza specjalne oferty."
-    },
-    {
-      "title": "Alert RCB. \"Możliwe przerwy w dostawie prądu\"",
-      "link": "https://tvn24.pl/tvnmeteo/polska/burze-ulewy-alert-rcb-w-poniedzialek-17-08-mozliwe-przerwy-w-dostawie-pradu-st9192881?source=rss",
-      "pubDate": "Mon, 17 Aug 2026 08:24:32 GMT",
-      "description": "Rządowe Centrum Bezpieczeństwa ostrzega w poniedziałek przed burzami z ulewami i silnym wiatrem, które mogą spowodować przerwy w dostawie prądu. SMS-owy alert otrzymali odbiorcy kolejnych powiatów.",
-      "originalTitle": "Alert RCB. \"Możliwe przerwy w dostawie prądu\"",
-      "originalDescription": "Rządowe Centrum Bezpieczeństwa ostrzega w poniedziałek przed burzami z ulewami i silnym wiatrem, które mogą spowodować przerwy w dostawie prądu. SMS-owy alert otrzymali odbiorcy kolejnych powiatów."
     }
   ]
 }
