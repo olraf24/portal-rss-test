@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2026-08-18T10:26:38.419Z",
+  "lastUpdate": "2026-08-18T10:56:01.840Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Asystent AI na własnych dokumentach: skąd bierze się błąd i jak go wykryć",
+      "link": "https://dzienniknaukowy.pl/asystent-ai-na-wlasnych-dokumentach-skad-bierze-sie-blad-i-jak-go-wykryc",
+      "pubDate": "Tue, 18 Aug 2026 10:55:43 +0000",
+      "description": "Asystent AI odpowiadający na podstawie firmowych albo uczelnianych dokumentów bywa przedstawiany jako lekarstwo na zmyślanie. Odpowiedź pochodzi z konkretnego materiału, więc nie ma jej skąd wymyślić. W praktyce problem zostaje przesunięty o poziom wyżej i staje się trudniejszy do zauważenia. Odpowiedź brzmi wiarygodnie, cytuje prawdziwy dokument, a mimo to wnioskuje z niego coś, czego tam nie ma."
+    },
+    {
+      "title": "Prof. Sikorska: mechanizmy choroby Alzheimera czy Parkinsona podobne do chorób prionowych",
+      "link": "https://dzienniknaukowy.pl/prof-sikorska-mechanizmy-choroby-alzheimera-czy-parkinsona-podobne-do-chorob-prionowych",
+      "pubDate": "Tue, 18 Aug 2026 10:43:07 +0000",
+      "description": "Powszechne choroby neurodegeneracyjne, np. Alzheimera czy Parkinsona, choć nie są zakaźne w klasycznym rozumieniu tego słowa, to wykazują biologię podobną do chorób prionowych. Wskazuje na to coraz więcej dowodów naukowych - powiedziała badająca choroby prionowe prof. Beata Sikorska z Uniwersytetu Medycznego w Łodzi."
+    },
     {
       "title": "Naukowcy opracowali metodę, która pozwala lepiej zrozumieć decyzje modeli AI",
       "link": "https://dzienniknaukowy.pl/naukowcy-opracowali-metode-ktora-pozwala-lepiej-zrozumiec-decyzje-modeli-ai",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/koniec-lata-to-czas-na-przeglad-znamion-dlaczego-sprawdzona-klinika-dermatologii-powinna-byc-twoim-pierwszym-przystankiem-po-urlopie",
       "pubDate": "Tue, 11 Aug 2026 09:35:00 +0000",
       "description": "Złocista opalenizna, wspomnienie szumu fal i zasłużony odpoczynek – to najczęstsze pamiątki, jakie przywozimy z wakacyjnych wyjazdów. Niestety, skóra eksponowana na działanie promieniowania ultrafioletowego (UV) zapamiętuje znacznie więcej, niż nam się wydaje. Każda chwila spędzona na słońcu bez odpowiedniej ochrony, a tym bardziej każde poparzenie słoneczne, pozostawia trwały ślad w strukturach komórkowych. Przeczytaj i dowiedz się, dlaczego domowa samoobserwacja to za mało i jak nowoczesna medycyna chroni nasze życie."
-    },
-    {
-      "title": "Jak szybko technologia staje się zabytkiem &#8211; Muzeum Elektroniki pokazuje sprzęty „z minionej ery”",
-      "link": "https://dzienniknaukowy.pl/jak-szybko-technologia-staje-sie-zabytkiem-muzeum-elektroniki-pokazuje-sprzety-z-minionej-ery",
-      "pubDate": "Thu, 06 Aug 2026 08:46:44 +0000",
-      "description": "W dobie błyskawicznego postępu pojęcie „zabytku techniki” nabiera nowego znaczenia. Urządzenia, które jeszcze kilka lat temu były naszą codziennością, dziś trafiają do gablot. Ten technologiczny skok najlepiej widać na przykładzie elektroniki i telekomunikacji – ich historię prezentuje Muzeum Elektroniki."
-    },
-    {
-      "title": "Patent Politechniki Białostockiej: urządzenie poprawiające sprawność ruchową",
-      "link": "https://dzienniknaukowy.pl/patent-politechniki-bialostockiej-urzadzenie-poprawiajace-sprawnosc-ruchowa",
-      "pubDate": "Thu, 06 Aug 2026 08:28:58 +0000",
-      "description": "Co łączy matematyczny kształt tzw. „leniwej ósemki”, neurobiologię i pragnienie samodzielności osób starszych oraz z niepełnosprawnościami? Odpowiedzią może być projekt urządzenia terapeutycznego, którego koncepcja powstała w Politechnice Białostockiej"
     }
   ]
 }
