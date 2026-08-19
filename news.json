@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-19T21:23:55.253Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-19T21:50:40.679Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Co najmniej 100 osób zginęło w osuwisku ziemi w kopalni w Afryce",
+      "link": "https://tvn24.pl/swiat/republika-srodkowoafrykanska-co-najmniej-100-osob-zginelo-w-osuwisku-ziemi-w-kopalni-zlota-st9197397?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 20:22:31 GMT",
+      "description": "We wtorek w kopalni złota w Republice Środkowoafrykańskiej doszło do katastrofy, w której zginęło co najmniej 100 osób, a wielu innych zostało rannych.",
+      "originalTitle": "Co najmniej 100 osób zginęło w osuwisku ziemi w kopalni w Afryce",
+      "originalDescription": "We wtorek w kopalni złota w Republice Środkowoafrykańskiej doszło do katastrofy, w której zginęło co najmniej 100 osób, a wielu innych zostało rannych."
+    },
+    {
+      "title": "Katastrofa śmigłowca z turystami. Zginęło siedem osób",
+      "link": "https://tvn24.pl/swiat/kenia-katastrofa-smiglowca-z-turystami-wszyscy-zgineli-st9196224?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 13:16:10 GMT",
+      "description": "W pobliżu góry Ololokwe w środkowej części Kenii rozbił się śmigłowiec. Zginęło siedem osób: pilot i sześcioro turystów. Wśród nich był szef wywiadu Ekwadoru Michele Sensi-Contugi i jego żona Stephany Hollihan.",
+      "originalTitle": "Katastrofa śmigłowca z turystami. Zginęło siedem osób",
+      "originalDescription": "W pobliżu góry Ololokwe w środkowej części Kenii rozbił się śmigłowiec. Zginęło siedem osób: pilot i sześcioro turystów. Wśród nich był szef wywiadu Ekwadoru Michele Sensi-Contugi i jego żona Stephany Hollihan."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Nocą pogoda może być groźna. Co nas czeka za dnia?",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-noca-pogoda-moze-byc-grozna-co-nas-czeka-za-dnia-st9196531?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 11:48:44 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej zapowiada burze i upały. W kilku województwach synoptycy wydali ostrzeżenia drugiego stopnia. Dowiedz się, czy powinieneś przygotować się na zagrożenia ze strony pogody.",
+      "originalTitle": "Ostrzeżenia IMGW. Nocą pogoda może być groźna. Co nas czeka za dnia?",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej zapowiada burze i upały. W kilku województwach synoptycy wydali ostrzeżenia drugiego stopnia. Dowiedz się, czy powinieneś przygotować się na zagrożenia ze strony pogody."
+    },
+    {
+      "title": "Elektrownia jądrowa nie zostanie wyłączona. Magyar: byliśmy świadkami wspaniałej solidarności",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wegry-elektrownia-jadrowa-w-paksu-nie-zostanie-wylaczona-peter-magyar-bylismy-swiadkami-wspanialej-solidarnosci-st9197369?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 19:44:31 GMT",
+      "description": "Premier Węgier Peter Magyar przekazał, że elektrownia jądrowa Paksu uniknęła całkowitego wyłączenia, a dotychczas wyłączone turbiny mogą zacząć być uruchamiane już w niedzielę. Wcześniej niski poziom wody w Dunaju groził wstrzymaniem funkcjonowania siłowni.",
+      "originalTitle": "Elektrownia jądrowa nie zostanie wyłączona. Magyar: byliśmy świadkami wspaniałej solidarności",
+      "originalDescription": "Premier Węgier Peter Magyar przekazał, że elektrownia jądrowa Paksu uniknęła całkowitego wyłączenia, a dotychczas wyłączone turbiny mogą zacząć być uruchamiane już w niedzielę. Wcześniej niski poziom wody w Dunaju groził wstrzymaniem funkcjonowania siłowni."
+    },
+    {
+      "title": "Pieszy potrącony na A2, lądował śmigłowiec LPR",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/brwinow-a2-wypadek-na-a2-duze-utrudnienia-trasa-zablokowana-st9197362?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 19:33:17 GMT",
+      "description": "Wypadek na A2. Są utrudnienia w ruchu. Utworzył się korek w kierunku Poznania.",
+      "originalTitle": "Pieszy potrącony na A2, lądował śmigłowiec LPR",
+      "originalDescription": "Wypadek na A2. Są utrudnienia w ruchu. Utworzył się korek w kierunku Poznania."
+    },
+    {
+      "title": "\"Rośnie frustracja\" w Ukrainie. Co się dzieje w otoczeniu Wołodymyra Zełenskiego",
+      "link": "https://tvn24.pl/swiat/ukraina-rosnie-frustracja-wokol-wolodymyra-zelenskiego-co-chce-ugrac-mychajlo-fedorow-st9197327?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 18:55:16 GMT",
+      "description": "Mychajło Fedorow, były minister obrony Ukrainy, ma \"duże szanse\" na to, żeby zostać prezydentem - przekonywała w \"Faktach po Faktach\" TVN24 politolożka profesor Katarzyna Pisarska. Maleje jednocześnie prawdopodobieństwo reelekcji Zełenskiego. W Ukrainie - mówiła Pisarska - \"rośnie frustracja\".",
+      "originalTitle": "\"Rośnie frustracja\" w Ukrainie. Co się dzieje w otoczeniu Wołodymyra Zełenskiego",
+      "originalDescription": "Mychajło Fedorow, były minister obrony Ukrainy, ma \"duże szanse\" na to, żeby zostać prezydentem - przekonywała w \"Faktach po Faktach\" TVN24 politolożka profesor Katarzyna Pisarska. Maleje jednocześnie prawdopodobieństwo reelekcji Zełenskiego. W Ukrainie - mówiła Pisarska - \"rośnie frustracja\"."
+    },
+    {
+      "title": "W Portugalii znaleziono nowe stanowisko komara tygrysiego",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/komar-tygrysi-zadomowil-sie-w-portugalii-gdzie-w-portugalii-znajdziemy-komary-tygrysie-st9197318?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 18:48:11 GMT",
+      "description": "W kolejnym miejscu na północy Portugalii potwierdzono obecność komara tygrysiego, gatunku mogącego przenosić poważne choroby. Lokalne służby sanitarne uspokajają jednak, że przebadane osobniki nie stanowią zagrożenia epidemiologicznego.",
+      "originalTitle": "W Portugalii znaleziono nowe stanowisko komara tygrysiego",
+      "originalDescription": "W kolejnym miejscu na północy Portugalii potwierdzono obecność komara tygrysiego, gatunku mogącego przenosić poważne choroby. Lokalne służby sanitarne uspokajają jednak, że przebadane osobniki nie stanowią zagrożenia epidemiologicznego."
+    },
+    {
+      "title": "\"Lepiej dla niego by było nawet w polskim areszcie\". Generał Roman Polko o Marcinie Romanowskim",
+      "link": "https://tvn24.pl/polska/marcin-romanowski-w-naddniestrzu-general-roman-polko-komentuje-st9197283?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 18:44:05 GMT",
+      "description": "Dobrze by było, żeby człowiek, który mienił się patriotą, jednak nie współdziałał z KGB - powiedział w \"Faktach po Faktach\" w TVN24 generał Roman Polko. Komentował ucieczkę Marcina Romanowskiego do Naddniestrza i ocenił, które z posiadanych przez niego informacji byłyby najcenniejsze dla rosyjskich służb.",
+      "originalTitle": "\"Lepiej dla niego by było nawet w polskim areszcie\". Generał Roman Polko o Marcinie Romanowskim",
+      "originalDescription": "Dobrze by było, żeby człowiek, który mienił się patriotą, jednak nie współdziałał z KGB - powiedział w \"Faktach po Faktach\" w TVN24 generał Roman Polko. Komentował ucieczkę Marcina Romanowskiego do Naddniestrza i ocenił, które z posiadanych przez niego informacji byłyby najcenniejsze dla rosyjskich służb."
+    },
+    {
+      "title": "Morysin budzi się do życia. Przygotowują się do remontu",
+      "link": "https://tvn24.pl/tvnwarszawa/wilanow/morysin-budzi-sie-do-zycia-przygotowuja-sie-do-remontu-st9197290?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 18:39:49 GMT",
+      "description": "Dawniej był lasem łęgowym, potem został przekształcony w romantyczny park rodem z angielskiej wsi. Stanęła też charakterystyczna rotunda. W czasie wojny całość założenia popadła w ruinę. Ma się to zmienić. Na terenie Morysina zakończyły się badania archeologiczne.",
+      "originalTitle": "Morysin budzi się do życia. Przygotowują się do remontu",
+      "originalDescription": "Dawniej był lasem łęgowym, potem został przekształcony w romantyczny park rodem z angielskiej wsi. Stanęła też charakterystyczna rotunda. W czasie wojny całość założenia popadła w ruinę. Ma się to zmienić. Na terenie Morysina zakończyły się badania archeologiczne."
+    },
+    {
+      "title": "On odpowie za spowodowanie śmiertelnego wypadku i ucieczkę. Ona za ukrywanie go",
+      "link": "https://tvn24.pl/poznan/kalisz-on-odpowie-za-spowodowanie-smiertelnego-wypadku-i-ucieczke-ona-za-ukrywanie-go-st9197286?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 18:08:50 GMT",
+      "description": "38-latek odpowie za śmiertelne potrącenie kobiety i ucieczkę z miejsca wypadku. Poważne problemy ma też osoba, która miała go ukrywać po wypadku i pomagać w zacieraniu śladów.",
+      "originalTitle": "On odpowie za spowodowanie śmiertelnego wypadku i ucieczkę. Ona za ukrywanie go",
+      "originalDescription": "38-latek odpowie za śmiertelne potrącenie kobiety i ucieczkę z miejsca wypadku. Poważne problemy ma też osoba, która miała go ukrywać po wypadku i pomagać w zacieraniu śladów."
+    }
+  ]
 }
