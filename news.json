@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-19T06:54:31.456Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-19T07:37:29.633Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pociąg śmiertelnie potrącił rowerzystę",
+      "link": "https://tvn24.pl/krakow/raba-wyzna-wypadek-na-przejezdzie-kolejowym-nie-zyje-rowerzysta-st9195953?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:34:00 GMT",
+      "description": "Nie żyje 66-latek potrącony przez pociąg w Rabie Wyżnej. Ruch na torach został wstrzymany, policja ustala okoliczności zdarzenia.",
+      "originalTitle": "Pociąg śmiertelnie potrącił rowerzystę",
+      "originalDescription": "Nie żyje 66-latek potrącony przez pociąg w Rabie Wyżnej. Ruch na torach został wstrzymany, policja ustala okoliczności zdarzenia."
+    },
+    {
+      "title": "Karambol. Strażacy wycinali dach auta, by wydostać rannego",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/gluchy-s8-karambol-zderzenie-pieciu-aut-strazacy-wycinali-dach-samochodu-st9195917?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:31:59 GMT",
+      "description": "We wtorek wieczorem doszło do poważnego wypadku na trasie S8, na wysokości miejscowości Głuchy (Mazowieckie). Dwie osoby trafiły do szpitala po zderzeniu pięciu samochodów. Strażacy musieli rozciąć dach jednego z aut, by ewakuować rannego.",
+      "originalTitle": "Karambol. Strażacy wycinali dach auta, by wydostać rannego",
+      "originalDescription": "We wtorek wieczorem doszło do poważnego wypadku na trasie S8, na wysokości miejscowości Głuchy (Mazowieckie). Dwie osoby trafiły do szpitala po zderzeniu pięciu samochodów. Strażacy musieli rozciąć dach jednego z aut, by ewakuować rannego."
+    },
+    {
+      "title": "Patologie systemu gospodarki odpadami. Tak zatruwa się polską branżę śmieciową",
+      "link": "https://tvn24.pl/polska/patologie-systemu-gospodarki-odpadami-reporterzy-tvn24-i-tvn24-pl-sprawdzaja-jak-zatruwa-sie-polska-branze-smieciowa-st9188332?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:25:51 GMT",
+      "description": "Na papierze wszystko się zgadza, w rzeczywistości odpady często znikają tylko z dokumentów. Fikcyjny obrót śmieciami stał się ważnym elementem przestępczego procederu, którego skutki widać w całej Polsce: od nielegalnych składowisk po toksyny przedostające się do ziemi i płonące wysypiska. Fałszowanie dokumentów recyklingowych ujawnione przez \"Superwizjer\" TVN to kolejny przykład patologii, które od lat pokazujemy i opisujemy.",
+      "originalTitle": "Patologie systemu gospodarki odpadami. Tak zatruwa się polską branżę śmieciową",
+      "originalDescription": "Na papierze wszystko się zgadza, w rzeczywistości odpady często znikają tylko z dokumentów. Fikcyjny obrót śmieciami stał się ważnym elementem przestępczego procederu, którego skutki widać w całej Polsce: od nielegalnych składowisk po toksyny przedostające się do ziemi i płonące wysypiska. Fałszowanie dokumentów recyklingowych ujawnione przez \"Superwizjer\" TVN to kolejny przykład patologii, które od lat pokazujemy i opisujemy."
+    },
+    {
+      "title": "Trudna sytuacja szpitala w Miastku. Złożono wniosek o ogłoszenie upadłości",
+      "link": "https://tvn24.pl/trojmiasto/miastko-trudna-sytuacja-szpitala-zlozono-wniosek-o-ogloszenie-upadlosci-st9195896?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:22:20 GMT",
+      "description": "Burmistrz Miastka (woj. pomorskie) Jerzy Wójtowicz poinformował, że do sądu został złożony wniosek o ogłoszenie upadłości szpitala miejskiego. Zadłużenie placówki przekracza 40 milionów złotych.",
+      "originalTitle": "Trudna sytuacja szpitala w Miastku. Złożono wniosek o ogłoszenie upadłości",
+      "originalDescription": "Burmistrz Miastka (woj. pomorskie) Jerzy Wójtowicz poinformował, że do sądu został złożony wniosek o ogłoszenie upadłości szpitala miejskiego. Zadłużenie placówki przekracza 40 milionów złotych."
+    },
+    {
+      "title": "Pijany spowodował trzy kolizje. Nie miał prawa jazdy, zostanie deportowany",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pilawa-piaseczno-pijany-spowodowal-trzy-kolizje-nie-mial-prawa-jazdy-zostanie-deportowany-st9195864?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:21:45 GMT",
+      "description": "Policjanci z podwarszawskiego Piaseczna zatrzymali 33-latka, który będąc pod wpływem alkoholu doprowadził do trzech kolizji. Mężczyzna nie miał prawa jazdy i przebywał w Polsce nielegalnie.",
+      "originalTitle": "Pijany spowodował trzy kolizje. Nie miał prawa jazdy, zostanie deportowany",
+      "originalDescription": "Policjanci z podwarszawskiego Piaseczna zatrzymali 33-latka, który będąc pod wpływem alkoholu doprowadził do trzech kolizji. Mężczyzna nie miał prawa jazdy i przebywał w Polsce nielegalnie."
+    },
+    {
+      "title": "Kradzież i sprzedaż zwłok na czarnym rynku. Uniwersytet Harvarda zgadza się na milionową ugodę",
+      "link": "https://tvn24.pl/swiat/kradziez-i-sprzedaz-zwlok-na-czarnym-rynku-uniwersytet-harvarda-zgadza-sie-na-milionowa-ugode-st9195820?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:13:09 GMT",
+      "description": "53 miliony dolarów w ramach ugody - tyle Uniwersytet Harvarda zgodził się zapłacić rodzinom, które pozwały uczelnię o niewłaściwe obchodzenie się z ciałami ich bliskich przekazanych do celów naukowych. Według prokuratury części zwłok były wykradane z kostnicy, a następnie sprzedawane na czarnym rynku.",
+      "originalTitle": "Kradzież i sprzedaż zwłok na czarnym rynku. Uniwersytet Harvarda zgadza się na milionową ugodę",
+      "originalDescription": "53 miliony dolarów w ramach ugody - tyle Uniwersytet Harvarda zgodził się zapłacić rodzinom, które pozwały uczelnię o niewłaściwe obchodzenie się z ciałami ich bliskich przekazanych do celów naukowych. Według prokuratury części zwłok były wykradane z kostnicy, a następnie sprzedawane na czarnym rynku."
+    },
+    {
+      "title": "Nie żyje perkusista ZZ Top. Miał 77 lat",
+      "link": "https://tvn24.pl/kultura-i-styl/frank-beard-perkusista-zz-top-nie-zyje-muzyk-mial-77-lat-st9195812?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:05:58 GMT",
+      "description": "Zmarł Frank Beard, perkusista amerykańskiego zespołu ZZ Top. Informację o śmierci muzyka opublikowano na stronie internetowej grupy. Przekazano, że odszedł w poniedziałek.",
+      "originalTitle": "Nie żyje perkusista ZZ Top. Miał 77 lat",
+      "originalDescription": "Zmarł Frank Beard, perkusista amerykańskiego zespołu ZZ Top. Informację o śmierci muzyka opublikowano na stronie internetowej grupy. Przekazano, że odszedł w poniedziałek."
+    },
+    {
+      "title": "Kolizja z łosiem i zderzenie czterech aut",
+      "link": "https://tvn24.pl/krakow/lisia-gora-dwa-zdarzenia-na-drodze-kolizja-z-losiem-i-zderzenie-czterech-aut-st9195855?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 06:54:22 GMT",
+      "description": "W Lisiej Górze pod Tarnowem doszło do dwóch niebezpiecznych sytuacji na drodze. Najpierw dwa samochody zderzyły się z łosiem. Następnie, kilka kilometrów dalej, zderzyły się cztery samochody. W sumie pięć osób jest w szpitalach.",
+      "originalTitle": "Kolizja z łosiem i zderzenie czterech aut",
+      "originalDescription": "W Lisiej Górze pod Tarnowem doszło do dwóch niebezpiecznych sytuacji na drodze. Najpierw dwa samochody zderzyły się z łosiem. Następnie, kilka kilometrów dalej, zderzyły się cztery samochody. W sumie pięć osób jest w szpitalach."
+    },
+    {
+      "title": "Skażona woda w Połańcu. Komunikat sanepidu",
+      "link": "https://tvn24.pl/kielce/polaniec-bakterie-coli-w-wodzie-komunikat-sanepidu-st9195805?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 06:47:16 GMT",
+      "description": "W gminie Połaniec (woj. świętokrzyskie) sanepid wykrył bakterię coli w wodociągu. Obowiązuje całkowity zakaz spożywania wody, można używać jej tylko do spłukiwania toalet i mycia podłóg.",
+      "originalTitle": "Skażona woda w Połańcu. Komunikat sanepidu",
+      "originalDescription": "W gminie Połaniec (woj. świętokrzyskie) sanepid wykrył bakterię coli w wodociągu. Obowiązuje całkowity zakaz spożywania wody, można używać jej tylko do spłukiwania toalet i mycia podłóg."
+    },
+    {
+      "title": "Wątpliwości wokół samochodu posła Adama Gomoły. \"Nic się nie zgadza\"",
+      "link": "https://tvn24.pl/polska/watpliwosci-wokol-samochodu-posla-adama-gomoly-nic-sie-nie-zgadza-st9195743?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 06:43:54 GMT",
+      "description": "Ultimatum dla młodego posła Adama Gomoły. Wyjaśnień od niego oczekują Kancelaria Sejmu i zarząd Polski 2050. Chodzi o wynajem auta ze środków publicznych i pewne okoliczności, z których na razie poseł tłumaczyć się nie chce. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Wątpliwości wokół samochodu posła Adama Gomoły. \"Nic się nie zgadza\"",
+      "originalDescription": "Ultimatum dla młodego posła Adama Gomoły. Wyjaśnień od niego oczekują Kancelaria Sejmu i zarząd Polski 2050. Chodzi o wynajem auta ze środków publicznych i pewne okoliczności, z których na razie poseł tłumaczyć się nie chce. Materiał magazynu \"Polska i Świat\"."
+    }
+  ]
 }
