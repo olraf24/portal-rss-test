@@ -1,23 +1,63 @@
 {
-  "lastUpdate": "2026-08-19T08:36:37.992Z",
+  "lastUpdate": "2026-08-19T09:33:13.531Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
     {
+      "title": "Nie żyje siedmioletnia dziewczynka. Przygniótł ją drewniany element placu zabaw",
+      "link": "https://tvn24.pl/rzeszow/zagorz-nie-zyje-siedmioletnia-dziewczynka-przygniotl-ja-drewniany-element-placu-zabaw-st9195829?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 09:29:19 GMT",
+      "description": "Tragiczny wypadek na prywatnej posesji w Zagórzu na Podkarpaciu. Siedmioletnia dziewczynka upadła na trawę podczas zabawy na drewnianej konstrukcji placu zabaw. Chwilę później konstrukcja spadła na dziecko i je przygniotła. Mimo reanimacji dziewczynki nie udało się uratować.",
+      "originalTitle": "Nie żyje siedmioletnia dziewczynka. Przygniótł ją drewniany element placu zabaw",
+      "originalDescription": "Tragiczny wypadek na prywatnej posesji w Zagórzu na Podkarpaciu. Siedmioletnia dziewczynka upadła na trawę podczas zabawy na drewnianej konstrukcji placu zabaw. Chwilę później konstrukcja spadła na dziecko i je przygniotła. Mimo reanimacji dziewczynki nie udało się uratować."
+    },
+    {
+      "title": "Nie miała prawa jazdy, uderzyła autem w drzewo. Nie żyje jej czteroletnia córka",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/dabrowka-kierujaca-nie-miala-prawa-jazdy-uderzyla-autem-w-drzewo-dziewczynka-zmarla-w-szpitalu-st9196098?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 09:05:34 GMT",
+      "description": "Zmarła czteroletnia dziewczynka, która odniosła obrażenia w wypadku w miejscowości Dąbrówka (Mazowieckie). Do zdarzenia doszło 10 dni temu. Autem kierowała matka dziewczynki. Kobieta nie miała prawa jazdy.",
+      "originalTitle": "Nie miała prawa jazdy, uderzyła autem w drzewo. Nie żyje jej czteroletnia córka",
+      "originalDescription": "Zmarła czteroletnia dziewczynka, która odniosła obrażenia w wypadku w miejscowości Dąbrówka (Mazowieckie). Do zdarzenia doszło 10 dni temu. Autem kierowała matka dziewczynki. Kobieta nie miała prawa jazdy."
+    },
+    {
+      "title": "\"Przez całe życie walczyła o innych, o słabszych\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-magda-lucyan-wspomina-wande-traczyk-stawska-st9195909?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 08:56:56 GMT",
+      "description": "Za każdym razem, kiedy miała poczucie, że należy się odezwać, to się odzywała. Miała ogromną odwagę cywilną - wspominała Wandę Traczyk-Stawską, dziennikarka TVN24 Magda Łucyan. Uczestniczka Powstania Warszawskiego zmarła w wieku 99 lat.",
+      "originalTitle": "\"Przez całe życie walczyła o innych, o słabszych\"",
+      "originalDescription": "Za każdym razem, kiedy miała poczucie, że należy się odezwać, to się odzywała. Miała ogromną odwagę cywilną - wspominała Wandę Traczyk-Stawską, dziennikarka TVN24 Magda Łucyan. Uczestniczka Powstania Warszawskiego zmarła w wieku 99 lat."
+    },
+    {
+      "title": "AI uciekła podczas testów. Poważne konsekwencje incydentu",
+      "link": "https://tvn24.pl/biznes/tech/ai-uciekla-podczas-testow-powazne-konsekwencje-incydentu-st9195980?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 08:53:38 GMT",
+      "description": "Technologiczny gigant - OpenAI - wstrzymał trening modelu Astra i wzmacnia zabezpieczenia po tym, jak testowany agent AI włamał się do firmy Hugging Face - podała agencja Reuters.",
+      "originalTitle": "AI uciekła podczas testów. Poważne konsekwencje incydentu",
+      "originalDescription": "Technologiczny gigant - OpenAI - wstrzymał trening modelu Astra i wzmacnia zabezpieczenia po tym, jak testowany agent AI włamał się do firmy Hugging Face - podała agencja Reuters."
+    },
+    {
+      "title": "Obrońca Marcina Romanowskiego chce przesłuchania Donalda Tuska. Mówi o \"istotnym dowodzie\"",
+      "link": "https://tvn24.pl/polska/marcin-romanowski-w-naddniestrzu-mecenas-bartosz-lewandowski-zlozyl-wniosek-o-przesluchanie-donalda-tuska-st9196028?source=rss",
+      "pubDate": "Wed, 19 Aug 2026 08:53:08 GMT",
+      "description": "Mecenas Bartosz Lewandowski, pełnomocnik Marcina Romanowskiego, przekazał, że złożył wniosek o przesłuchanie premiera Donalda Tuska. Jak ocenił, wtorkowe oświadczenie szefa rządu dotyczące jego klienta stanowi \"nieocenione wsparcie\" i \"istotny dowód\" w sprawie byłego wiceministra sprawiedliwości.",
+      "originalTitle": "Obrońca Marcina Romanowskiego chce przesłuchania Donalda Tuska. Mówi o \"istotnym dowodzie\"",
+      "originalDescription": "Mecenas Bartosz Lewandowski, pełnomocnik Marcina Romanowskiego, przekazał, że złożył wniosek o przesłuchanie premiera Donalda Tuska. Jak ocenił, wtorkowe oświadczenie szefa rządu dotyczące jego klienta stanowi \"nieocenione wsparcie\" i \"istotny dowód\" w sprawie byłego wiceministra sprawiedliwości."
+    },
+    {
       "title": "Blackout w Moskwie. Przerwy w dostawie prądu i internetu",
       "link": "https://tvn24.pl/biznes/ze-swiata/blackout-w-moskwie-mieszkancy-bez-pradu-zaklocenia-w-metrze-brak-internetu-st9195914?source=rss",
       "pubDate": "Wed, 19 Aug 2026 08:22:28 GMT",
-      "description": "Rozległa awaria prądu miała sparaliżować część Moskwy. Rosyjskie media informują, że przyczyną mógł być pożar w jednej z elektrociepłowni.",
+      "description": "Brak prądu miał sparaliżować część Moskwy. Rosyjskie media informują, że przyczyną mógł być pożar w jednej z elektrociepłowni.",
       "originalTitle": "Blackout w Moskwie. Przerwy w dostawie prądu i internetu",
-      "originalDescription": "Rozległa awaria prądu miała sparaliżować część Moskwy. Rosyjskie media informują, że przyczyną mógł być pożar w jednej z elektrociepłowni."
+      "originalDescription": "Brak prądu miał sparaliżować część Moskwy. Rosyjskie media informują, że przyczyną mógł być pożar w jednej z elektrociepłowni."
     },
     {
       "title": "\"Żegnaj, Bohaterko\". Donald Tusk przywołał słowa Wandy Traczyk-Stawskiej",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/wanda-traczyk-stawska-nie-zyje-premier-donald-tusk-pozegnal-uczestniczke-powstania-warszawskiego-st9195982?source=rss",
       "pubDate": "Wed, 19 Aug 2026 08:13:10 GMT",
-      "description": "Premier Donald Tusk pożegnał zmarłą uczestniczkę Powstania Warszawskiego Wandę Traczyk-Stawską. Bohaterka powstańczego zrywu, działaczka społeczna i nauczycielka odeszła w wieku 99 lat.",
+      "description": "Premier Donald Tusk pożegnał zmarłą uczestniczkę Powstania Warszawskiego Wandę Traczyk-Stawską. Bohaterka powstańczego zrywu, działaczka społeczna i nauczycielka odeszła w wieku 99 lat. Wspomnieniami o niej podzielili się również inni politycy.",
       "originalTitle": "\"Żegnaj, Bohaterko\". Donald Tusk przywołał słowa Wandy Traczyk-Stawskiej",
-      "originalDescription": "Premier Donald Tusk pożegnał zmarłą uczestniczkę Powstania Warszawskiego Wandę Traczyk-Stawską. Bohaterka powstańczego zrywu, działaczka społeczna i nauczycielka odeszła w wieku 99 lat."
+      "originalDescription": "Premier Donald Tusk pożegnał zmarłą uczestniczkę Powstania Warszawskiego Wandę Traczyk-Stawską. Bohaterka powstańczego zrywu, działaczka społeczna i nauczycielka odeszła w wieku 99 lat. Wspomnieniami o niej podzielili się również inni politycy."
     },
     {
       "title": "Były minister obrony Ukrainy nagrał przemówienie. Mówi o kryzysie i wzywa do wyborów",
@@ -28,11 +68,11 @@
       "originalDescription": "Nie możemy pozwolić Putinowi decydować, kiedy Ukraińcy mogą wybierać swoje władze - powiedział były minister obrony Ukrainy Mychajło Fedorow w przemówieniu na YouTube. W jego ocenie kraj znalazł się w \"systemowym kryzysie zarządzania\"."
     },
     {
-      "title": "Dodatek do emerytury. Komunikat ZUS",
-      "link": "https://tvn24.pl/biznes/dla-seniora/dodatek-do-emerytury-komunikat-zus-st9195949?source=rss",
+      "title": "Dodatek do emerytury. Ważny komunikat ZUS",
+      "link": "https://tvn24.pl/biznes/dla-seniora/dodatek-do-emerytury-wazny-komunikat-zus-st9195949?source=rss",
       "pubDate": "Wed, 19 Aug 2026 07:48:23 GMT",
       "description": "14. emerytura - dodatkowe świadczenie - już niedługo trafi do emerytów i rencistów. Zakład Ubezpieczeń Społecznych podał terminy, kiedy będzie wypłacana \"czternastka\".",
-      "originalTitle": "Dodatek do emerytury. Komunikat ZUS",
+      "originalTitle": "Dodatek do emerytury. Ważny komunikat ZUS",
       "originalDescription": "14. emerytura - dodatkowe świadczenie - już niedługo trafi do emerytów i rencistów. Zakład Ubezpieczeń Społecznych podał terminy, kiedy będzie wypłacana \"czternastka\"."
     },
     {
@@ -42,46 +82,6 @@
       "description": "Boliwia zmaga się z atakiem zimy. Śnieg zasypał drogi, powodując poważne problemy z transportem. Zimowe warunki są kłopotem nie tylko dla ludzi, lecz także dla zwierząt - tysiące lam i owiec cierpi z powodu braku pożywienia.",
       "originalTitle": "Atak zimy w Boliwii. Tysiącom lam i owiec grozi głód",
       "originalDescription": "Boliwia zmaga się z atakiem zimy. Śnieg zasypał drogi, powodując poważne problemy z transportem. Zimowe warunki są kłopotem nie tylko dla ludzi, lecz także dla zwierząt - tysiące lam i owiec cierpi z powodu braku pożywienia."
-    },
-    {
-      "title": "Pociąg śmiertelnie potrącił rowerzystę",
-      "link": "https://tvn24.pl/krakow/raba-wyzna-wypadek-na-przejezdzie-kolejowym-nie-zyje-rowerzysta-st9195953?source=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:34:00 GMT",
-      "description": "Nie żyje 66-latek potrącony przez pociąg w Rabie Wyżnej. Ruch na torach został wstrzymany, policja ustala okoliczności zdarzenia.",
-      "originalTitle": "Pociąg śmiertelnie potrącił rowerzystę",
-      "originalDescription": "Nie żyje 66-latek potrącony przez pociąg w Rabie Wyżnej. Ruch na torach został wstrzymany, policja ustala okoliczności zdarzenia."
-    },
-    {
-      "title": "Karambol. Strażacy wycinali dach auta, by wydostać rannego",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/gluchy-s8-karambol-zderzenie-pieciu-aut-strazacy-wycinali-dach-samochodu-st9195917?source=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:31:59 GMT",
-      "description": "We wtorek wieczorem doszło do poważnego wypadku na trasie S8, na wysokości miejscowości Głuchy (Mazowieckie). Dwie osoby trafiły do szpitala po zderzeniu pięciu samochodów. Strażacy musieli rozciąć dach jednego z aut, by ewakuować rannego.",
-      "originalTitle": "Karambol. Strażacy wycinali dach auta, by wydostać rannego",
-      "originalDescription": "We wtorek wieczorem doszło do poważnego wypadku na trasie S8, na wysokości miejscowości Głuchy (Mazowieckie). Dwie osoby trafiły do szpitala po zderzeniu pięciu samochodów. Strażacy musieli rozciąć dach jednego z aut, by ewakuować rannego."
-    },
-    {
-      "title": "Patologie systemu gospodarki odpadami. Tak zatruwa się polską branżę śmieciową",
-      "link": "https://tvn24.pl/polska/patologie-systemu-gospodarki-odpadami-reporterzy-tvn24-i-tvn24-pl-sprawdzaja-jak-zatruwa-sie-polska-branze-smieciowa-st9188332?source=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:25:51 GMT",
-      "description": "Na papierze wszystko się zgadza, w rzeczywistości odpady często znikają tylko z dokumentów. Fikcyjny obrót śmieciami stał się ważnym elementem przestępczego procederu, którego skutki widać w całej Polsce: od nielegalnych składowisk po toksyny przedostające się do ziemi i płonące wysypiska. Fałszowanie dokumentów recyklingowych ujawnione przez \"Superwizjer\" TVN to kolejny przykład patologii, które od lat pokazujemy i opisujemy.",
-      "originalTitle": "Patologie systemu gospodarki odpadami. Tak zatruwa się polską branżę śmieciową",
-      "originalDescription": "Na papierze wszystko się zgadza, w rzeczywistości odpady często znikają tylko z dokumentów. Fikcyjny obrót śmieciami stał się ważnym elementem przestępczego procederu, którego skutki widać w całej Polsce: od nielegalnych składowisk po toksyny przedostające się do ziemi i płonące wysypiska. Fałszowanie dokumentów recyklingowych ujawnione przez \"Superwizjer\" TVN to kolejny przykład patologii, które od lat pokazujemy i opisujemy."
-    },
-    {
-      "title": "Trudna sytuacja szpitala w Miastku. Złożono wniosek o ogłoszenie upadłości",
-      "link": "https://tvn24.pl/trojmiasto/miastko-trudna-sytuacja-szpitala-zlozono-wniosek-o-ogloszenie-upadlosci-st9195896?source=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:22:20 GMT",
-      "description": "Burmistrz Miastka (woj. pomorskie) Jerzy Wójtowicz poinformował, że do sądu został złożony wniosek o ogłoszenie upadłości szpitala miejskiego. Zadłużenie placówki przekracza 40 milionów złotych.",
-      "originalTitle": "Trudna sytuacja szpitala w Miastku. Złożono wniosek o ogłoszenie upadłości",
-      "originalDescription": "Burmistrz Miastka (woj. pomorskie) Jerzy Wójtowicz poinformował, że do sądu został złożony wniosek o ogłoszenie upadłości szpitala miejskiego. Zadłużenie placówki przekracza 40 milionów złotych."
-    },
-    {
-      "title": "Pijany spowodował trzy kolizje. Nie miał prawa jazdy, zostanie deportowany",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/pilawa-piaseczno-pijany-spowodowal-trzy-kolizje-nie-mial-prawa-jazdy-zostanie-deportowany-st9195864?source=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:21:45 GMT",
-      "description": "Policjanci z podwarszawskiego Piaseczna zatrzymali 33-latka, który będąc pod wpływem alkoholu doprowadził do trzech kolizji. Mężczyzna nie miał prawa jazdy i przebywał w Polsce nielegalnie.",
-      "originalTitle": "Pijany spowodował trzy kolizje. Nie miał prawa jazdy, zostanie deportowany",
-      "originalDescription": "Policjanci z podwarszawskiego Piaseczna zatrzymali 33-latka, który będąc pod wpływem alkoholu doprowadził do trzech kolizji. Mężczyzna nie miał prawa jazdy i przebywał w Polsce nielegalnie."
     }
   ]
 }
