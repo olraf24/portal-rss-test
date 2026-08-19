@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2026-08-19T12:44:31.651Z",
+  "lastUpdate": "2026-08-19T13:42:31.617Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Cyfrowy ślad klienta &#8211; jak firmy wykorzystują dane do budowania relacji?",
+      "link": "https://dzienniknaukowy.pl/cyfrowy-slad-klienta-jak-firmy-wykorzystuja-dane-do-budowania-relacji",
+      "pubDate": "Wed, 19 Aug 2026 12:56:34 +0000",
+      "description": "Współczesna obsługa klienta opiera się na precyzyjnej analizie danych, które konsumenci pozostawiają w cyfrowym ekosystemie firmy. Przedsiębiorstwa odchodzą od powtarzalnych, anonimowych transakcji na rzecz budowania trwałych relacji w oparciu o wiedzę o indywidualnych potrzebach. Cyfrowe punkty styku pozwalają zbierać informacje, które podnoszą wartość życiową klienta (LTV) oraz optymalizują procesy operacyjne."
+    },
+    {
+      "title": "Polskie badania potwierdzają, że cechy molekularne raka piersi mogą się zmienić w trakcie terapii",
+      "link": "https://dzienniknaukowy.pl/polskie-badania-potwierdzaja-ze-cechy-molekularne-raka-piersi-moga-sie-zmienic-w-trakcie-terapii",
+      "pubDate": "Wed, 19 Aug 2026 12:46:47 +0000",
+      "description": "U około jednej trzeciej pacjentek z rakiem piersi cechy molekularne guza mogą ulec zmianie w trakcie leczenia prowadzonego przed operacją – wynika z polskiego badania opublikowanego w „Therapeutic Advances in Medical Oncology”. Chodzi o zmiany dotyczące białka HER2 na powierzchni komórek nowotworu."
+    },
     {
       "title": "Jak uratować komórkę, która zaczęła umierać?",
       "link": "https://dzienniknaukowy.pl/jak-uratowac-komorke-ktora-zaczela-umierac",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/od-czego-zalezy-wysokosc-skladek-zus",
       "pubDate": "Wed, 12 Aug 2026 12:09:01 +0000",
       "description": "Składki ZUS spędzają sen z powiek wielu przedsiębiorcom, a także osobom, które dopiero zamierzają prowadzić działalność na własny rachunek. Wysokość składek oblicza się, mnożąc odpowiednią stawkę przez podstawę wymiaru składki. W tym artykule wyjaśniamy, ile wynoszą stawki ZUS, od czego zależy wysokość składek i kto może skorzystać z ulg."
-    },
-    {
-      "title": "Sniffing: Jak działa „podglądanie” ruchu sieciowego i jak się przed nim skutecznie chronić?",
-      "link": "https://dzienniknaukowy.pl/sniffing-jak-dziala-podgladanie-ruchu-sieciowego-i-jak-sie-przed-nim-skutecznie-chronic",
-      "pubDate": "Tue, 11 Aug 2026 11:31:12 +0000",
-      "description": "Współczesna infrastruktura IT opiera się na nieustannym przepływie danych. Każda wiadomość, transakcja finansowa czy logowanie do panelu administracyjnego to pakiety danych przesyłane przez sieć. W tym cyfrowym ekosystemie istnieje jednak zjawisko, które jest stałym zagrożeniem dla prywatności i integralności informacji – jest nim sniffing. Warto zrozumieć mechanizmy jego działania, aby móc skutecznie zabezpieczyć infrastrukturę firmy przed nieautoryzowanym dostępem."
-    },
-    {
-      "title": "Wrocławscy naukowcy wiedzą, jak leczyć niegojące się rany",
-      "link": "https://dzienniknaukowy.pl/wroclawscy-naukowcy-wiedza-jak-leczyc-niegojace-sie-rany",
-      "pubDate": "Tue, 11 Aug 2026 11:24:29 +0000",
-      "description": "Niegojące się rany zakażone drobnoustrojami tworzącymi biofilm należą do najtrudniejszych problemów współczesnej medycyny. Dotyczą m.in. pacjentów z zespołem stopy cukrzycowej, owrzodzeniami żylnymi czy odleżynami. Ich leczenie bywa długotrwałe, kosztowne i obciążające zarówno dla pacjenta, jak i dla systemu ochrony zdrowia. Badania prowadzone przez naukowców z Uniwersytetu Medycznego we Wrocławiu pomogły uporządkować sposób postępowania z takimi ranami"
     }
   ]
 }
