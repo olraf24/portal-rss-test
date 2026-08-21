@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-21T03:49:28.779Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-21T04:37:06.348Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Teheran oskarża USA o stosowanie \"terroryzmu ekonomicznego\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/msz-iranu-usa-stosuja-terroryzm-ekonomiczny-st9199087?source=rss",
+      "pubDate": "Fri, 21 Aug 2026 03:41:00 GMT",
+      "description": "Irański resort dyplomacji oskarżył Stany Zjednoczone o \"terroryzm ekonomiczny\", argumentując, że sankcje tego kraju uderzają w zwykłych Irańczyków. Prezydent USA Donald Trump ogłosił wcześniej objęcie Iranu izolacją ekonomiczną i \"wojną gospodarczą\".",
+      "originalTitle": "Teheran oskarża USA o stosowanie \"terroryzmu ekonomicznego\"",
+      "originalDescription": "Irański resort dyplomacji oskarżył Stany Zjednoczone o \"terroryzm ekonomiczny\", argumentując, że sankcje tego kraju uderzają w zwykłych Irańczyków. Prezydent USA Donald Trump ogłosił wcześniej objęcie Iranu izolacją ekonomiczną i \"wojną gospodarczą\"."
+    },
+    {
+      "title": "Tarcza Wschód w budowie. W pracach na granicy pomagają żołnierze z Niemiec",
+      "link": "https://tvn24.pl/polska/w-ramach-budowy-tarczy-wschod-zolnierze-z-niemiec-pomagaja-w-umacnianiu-granicy-nato-st9199075?source=rss",
+      "pubDate": "Fri, 21 Aug 2026 03:29:00 GMT",
+      "description": "Tarcza Wschód - czyli plac budowy wielkiego systemu obrony. Przy okazji to sprawdzian współdziałania. W umacnianiu wschodniej granicy NATO pomagają Polsce żołnierze z Niemiec. Większość kosztów tej inwestycji pokrywa unijny program SAFE. Materiał magazynu \"Polska i Świat\".",
+      "originalTitle": "Tarcza Wschód w budowie. W pracach na granicy pomagają żołnierze z Niemiec",
+      "originalDescription": "Tarcza Wschód - czyli plac budowy wielkiego systemu obrony. Przy okazji to sprawdzian współdziałania. W umacnianiu wschodniej granicy NATO pomagają Polsce żołnierze z Niemiec. Większość kosztów tej inwestycji pokrywa unijny program SAFE. Materiał magazynu \"Polska i Świat\"."
+    },
+    {
+      "title": "Sześć rzeczy, które warto dziś wiedzieć",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-wiedziec-w-piatek-21-sierpnia-najwazniejsze-informacje-st9199083?source=rss",
+      "pubDate": "Fri, 21 Aug 2026 03:17:23 GMT",
+      "description": "Karol Nawrocki nie podpisał tak zwanej ustawy lex szarlatan. W związku z rosyjskimi atakami na Ukrainę swoje samoloty poderwała Polska, a do mieszkańców województwa lubelskiego i podkarpackiego wysłano alerty RCB. Donald Trump zapowiedział, że USA rozpoczną przeciwko Iranowi wojnę gospodarczą i izolację na niespotykaną dotąd skalę. Oto rzeczy, które warto wiedzieć w piątek 21 sierpnia.",
+      "originalTitle": "Sześć rzeczy, które warto dziś wiedzieć",
+      "originalDescription": "Karol Nawrocki nie podpisał tak zwanej ustawy lex szarlatan. W związku z rosyjskimi atakami na Ukrainę swoje samoloty poderwała Polska, a do mieszkańców województwa lubelskiego i podkarpackiego wysłano alerty RCB. Donald Trump zapowiedział, że USA rozpoczną przeciwko Iranowi wojnę gospodarczą i izolację na niespotykaną dotąd skalę. Oto rzeczy, które warto wiedzieć w piątek 21 sierpnia."
+    },
+    {
+      "title": "MSZ wezwało ambasadora Izraela. Chodzi o sprawę śmierci  wolontariusza Damiana Sobola",
+      "link": "https://tvn24.pl/polska/msz-wezwalo-ambasadora-izraela-chodzi-o-sprawe-smierci-wolontariusza-damiana-sobola-st9199058?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 20:56:51 GMT",
+      "description": "Do Ministerstwa Spraw Zagranicznych został wezwany ambasador Izraela w związku z decyzją o umorzeniu przez izraelskie władze wojskowe postępowania w sprawie ostrzału konwoju w Strefie Gazy. Zginął wówczas polski wolontariusz Damian Soból.",
+      "originalTitle": "MSZ wezwało ambasadora Izraela. Chodzi o sprawę śmierci  wolontariusza Damiana Sobola",
+      "originalDescription": "Do Ministerstwa Spraw Zagranicznych został wezwany ambasador Izraela w związku z decyzją o umorzeniu przez izraelskie władze wojskowe postępowania w sprawie ostrzału konwoju w Strefie Gazy. Zginął wówczas polski wolontariusz Damian Soból."
+    },
+    {
+      "title": "Finlandia podejrzewa rosyjski samolot o naruszenie przestrzeni powietrznej",
+      "link": "https://tvn24.pl/swiat/finlandia-podejrzewa-rosyjski-samolot-o-naruszenie-przestrzeni-powietrznej-st9199046?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 20:19:50 GMT",
+      "description": "Władze Finlandii podejrzewają, że przestrzeń powietrzna kraju została w czwartek naruszona przez rosyjski samolot - przekazał fiński minister obrony Antti Hakkanen. Według komunikatu resortu śledztwo w tej sprawie prowadzi straż graniczna.",
+      "originalTitle": "Finlandia podejrzewa rosyjski samolot o naruszenie przestrzeni powietrznej",
+      "originalDescription": "Władze Finlandii podejrzewają, że przestrzeń powietrzna kraju została w czwartek naruszona przez rosyjski samolot - przekazał fiński minister obrony Antti Hakkanen. Według komunikatu resortu śledztwo w tej sprawie prowadzi straż graniczna."
+    },
+    {
+      "title": "Wielki koszt, mały metraż",
+      "link": "https://tvn24.pl/biznes/ze-swiata/mikrokawalerki-w-paryzu-wysoka-cena-maly-metraz-program-fakty-o-swiecie-tvn24-bis-st9199011?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 20:00:08 GMT",
+      "description": "W centrum Paryża można wynająć mikroskopijne mieszkania urządzone w dawnych pokojach dla służby. - Dawniej problemem był przenikliwy chłód. Dziś to kolejne fale upałów, które zmieniają te maleńkie mieszkania w piekarniki - wynika z materiału CNN przedstawionego w programie \"Fakty o Świecie\" TVN24 BiŚ.",
+      "originalTitle": "Wielki koszt, mały metraż",
+      "originalDescription": "W centrum Paryża można wynająć mikroskopijne mieszkania urządzone w dawnych pokojach dla służby. - Dawniej problemem był przenikliwy chłód. Dziś to kolejne fale upałów, które zmieniają te maleńkie mieszkania w piekarniki - wynika z materiału CNN przedstawionego w programie \"Fakty o Świecie\" TVN24 BiŚ."
+    },
+    {
+      "title": "Burze i ulewy w Polsce. Uszkodzone dachy w Małopolsce, brak prądu na Podkarpaciu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/burze-ulewy-i-silny-wiatr-w-czwartek-20-08-myslenice-malopolska-polamane-drzewa-uszkodzone-dachy-skutki-nawalnic-st9198884?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 17:48:31 GMT",
+      "description": "Przez część Polski w czwartek przechodziły burze. Zjawiskom towarzyszyły ulewne opady oraz silne porywy wiatru. W Małopolsce strażacy interweniowali blisko 200 razy, a na Podkarpaciu są odbiorcy bez prądu.",
+      "originalTitle": "Burze i ulewy w Polsce. Uszkodzone dachy w Małopolsce, brak prądu na Podkarpaciu",
+      "originalDescription": "Przez część Polski w czwartek przechodziły burze. Zjawiskom towarzyszyły ulewne opady oraz silne porywy wiatru. W Małopolsce strażacy interweniowali blisko 200 razy, a na Podkarpaciu są odbiorcy bez prądu."
+    },
+    {
+      "title": "Różowe niebo nad Kielcami. Zdjęcia",
+      "link": "https://tvn24.pl/tvnmeteo/polska/rozowe-niebo-nad-kielcami-zdjecia-st9199010?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 19:50:20 GMT",
+      "description": "W czwartek w Kielcach na niebie można było zobaczyć niesamowite widoki. Zdjęcia chmur zabarwionych na różowo otrzymaliśmy na Kontakt24.",
+      "originalTitle": "Różowe niebo nad Kielcami. Zdjęcia",
+      "originalDescription": "W czwartek w Kielcach na niebie można było zobaczyć niesamowite widoki. Zdjęcia chmur zabarwionych na różowo otrzymaliśmy na Kontakt24."
+    },
+    {
+      "title": "Trwa budowa Tarczy Wschód. Pomagają Niemcy",
+      "link": "https://tvn24.pl/polska/tarcza-wschod-niemcy-pomagaja-polsce-w-budowie-fortyfikacji-na-granicy-z-rosja-st9198976?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 19:41:44 GMT",
+      "description": "Niemieccy saperzy pomagają polskim żołnierzom przy budowie Tarczy Wschód przy granicy z Rosją. Prace trwają obecnie na \"odcinkach newralgicznych, najbardziej narażonych na próby przekroczenia granicy\". Wojskowi podsumowali w czwartek dotychczasowe postępy.",
+      "originalTitle": "Trwa budowa Tarczy Wschód. Pomagają Niemcy",
+      "originalDescription": "Niemieccy saperzy pomagają polskim żołnierzom przy budowie Tarczy Wschód przy granicy z Rosją. Prace trwają obecnie na \"odcinkach newralgicznych, najbardziej narażonych na próby przekroczenia granicy\". Wojskowi podsumowali w czwartek dotychczasowe postępy."
+    },
+    {
+      "title": "Silne trzęsienie ziemi w Peru",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/silne-trzesienie-ziemi-w-peru-st9199023?source=rss",
+      "pubDate": "Thu, 20 Aug 2026 19:38:48 GMT",
+      "description": "W czwartek Peru nawiedziło trzęsienie ziemi. Według informacji Służby Geologicznej Stanów Zjednoczonych (USGS) miało magnitudę 6,7.",
+      "originalTitle": "Silne trzęsienie ziemi w Peru",
+      "originalDescription": "W czwartek Peru nawiedziło trzęsienie ziemi. Według informacji Służby Geologicznej Stanów Zjednoczonych (USGS) miało magnitudę 6,7."
+    }
+  ]
 }
