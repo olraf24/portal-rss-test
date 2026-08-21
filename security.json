@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-08-21T15:31:53.372Z",
+  "lastUpdate": "2026-08-21T16:33:04.795Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Łotwa skazuje dwóch rosyjskich agentów za sabotaż firmy związanej z sektorem obronnym",
+      "link": "https://defence24.pl/przemysl/lotwa-skazuje-dwoch-rosyjskich-agentow-za-sabotaz-firmy-zwiazanej-z-sektorem-obronnym",
+      "pubDate": "Fri, 21 Aug 2026 18:00:03 +0200",
+      "description": "Łotewski sąd skazał dwie osoby za udział w operacji sabotażowej wymierzonej w firmę PILOT Automotive Labs Europe, zajmującą się rozwojem bezzałogowych pojazdów. Według śledczych działania były inspirowane i koordynowane przez rosyjskie służby bezpieczeństwa."
+    },
     {
       "title": "Ukraina prosi Muska. Chcę użyć Starlinka do atakowania rosyjskich wyrzutni",
       "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ukraina-prosi-muska-chce-uzyc-starlinka-do-atakowania-rosyjskich-wyrzutni",
@@ -16,7 +22,7 @@
       "description": "Przez wiele lat rozwój przemysłu obronnego opierał się na prostym założeniu, że przewagę zdobywa ten, kto potrafi zbudować bardziej zaawansowaną platformę. Dotyczyło to samolotów, czołgów, okrętów, a dziś również bezzałogowych systemów latających – od tanich dronów FPV, przez wielowirnikowce i amunicję krążącą, po większe bezzałogowce rozpoznawcze i uderzeniowe. W praktyce jednak doświadczenia ostatnich lat pokazują, że w przypadku tanich dronów logika konkurencji uległa zasadniczej zmianie."
     },
     {
-      "title": "Rheinmetall pod lupą. Problemy z jakością i terminami",
+      "title": "Rheinmetall pod lupą. Problemy z jakości�� i terminami",
       "link": "https://defence24.pl/przemysl/rheinmetall-pod-lupa-problemy-z-jakoscia-i-terminami",
       "pubDate": "Fri, 21 Aug 2026 14:57:53 +0200",
       "description": "W Republice Federalnej Niemiec pojawił się raport o bardzo krytycznym wydźwięku w stosunku do dwóch programów prowadzonych przez największy niemiecki koncern zbrojeniowy Rheinmetall."
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/polityka-obronna/piatkowy-przeglad-mediow-co-z-polskim-systemem-obrony-powietrznej",
       "pubDate": "Fri, 21 Aug 2026 08:07:14 +0200",
       "description": "Codzienny przegląd mediów sektora bezpieczeństwa i obronności."
-    },
-    {
-      "title": "Służba wojskowa na wzór skandynawski? Wizyta Szefa Sztabu Generalnego WP w Finlandii",
-      "link": "https://defence24.pl/polityka-obronna/sluzba-wojskowa-na-wzor-skandynawski-wizyta-szefa-sztabu-generalnego-wp-w-finlandii",
-      "pubDate": "Fri, 21 Aug 2026 07:39:58 +0200",
-      "description": "Szef Sztabu Generalnego Wojska Polskiego gen. Wiesław Kukuła złożył wizytę w Finlandii, gdzie spotkał się z szefem obrony Finlandii gen. Janne Jaakkolą. Tematem rozmów były m.in. szkolenia rezerw osobowych."
     }
   ]
 }
