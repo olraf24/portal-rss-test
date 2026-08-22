@@ -1,8 +1,14 @@
 {
-  "lastUpdate": "2026-08-22T08:58:20.543Z",
+  "lastUpdate": "2026-08-22T09:34:13.825Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Ataki na Ukrainę: Pięć osób zginęło, dziesiątki rannych",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ataki-na-ukraine-piec-osob-zginelo-dziesiatki-rannych",
+      "pubDate": "Sat, 22 Aug 2026 11:06:35 +0200",
+      "description": "Co najmniej pięć osób zginęło, a 28 zostało rannych na skutek rosyjskich uderzeń na Ukrainę w ciągu ostatniej doby. Pociskami balistycznymi i dronami w godzinach nocnych atakowana była m.in. stolica kraju, Kijów – przekazały w sobotę rano władze."
+    },
     {
       "title": "Nowy model produkcji dronów: Od doskonałości do masowości [OPINIA]",
       "link": "https://defence24.pl/przemysl/nowy-model-produkcji-dronow-od-doskonalosci-do-masowosci-opinia",
@@ -86,12 +92,6 @@
       "link": "https://defence24.pl/przemysl/rheinmetall-pod-lupa-problemy-z-jakoscia-i-terminami",
       "pubDate": "Fri, 21 Aug 2026 14:57:53 +0200",
       "description": "W Republice Federalnej Niemiec pojawił się raport o bardzo krytycznym wydźwięku w stosunku do dwóch programów prowadzonych przez największy niemiecki koncern zbrojeniowy Rheinmetall."
-    },
-    {
-      "title": "Nie robot-żołnierz, a inteligentny partner. Nadchodzi era dronów lądowych",
-      "link": "https://defence24.pl/polityka-obronna/nie-robot-zolnierz-a-inteligentny-partner-nadchodzi-era-dronow-ladowych",
-      "pubDate": "Fri, 21 Aug 2026 14:30:02 +0200",
-      "description": "Robot nie ma zastąpić żołnierza – ma sprawić, by ten wracał z misji żywy. Doświadczenia z wojny w Ukrainie pokazują, że prawdziwym przełomem na froncie nie są fantastycznonaukowe roboty bojowe, lecz proste, odporne drony lądowe transportujące amunicję i ewakuujące rannych."
     }
   ]
 }
