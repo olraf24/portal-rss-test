@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-23T11:19:24.958Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-23T11:46:06.560Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pogoda na 16 dni: upał wróci na chwilę",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-upal-wroci-na-chwile-dlugoterminowa-prognoza-pogody-co-przyniesie-koniec-wakacji-st9201917?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 11:42:38 GMT",
+      "description": "Tomasz Wasilewski przebywa na urlopie, dlatego tym razem długoterminową 16-dniową prognozę pogody przygotował synoptyk tvnmeteo.pl Tomasz Wakszyński. Sprawdź, jaką temperaturę przyniesie końcówka sierpnia, a zarazem wakacji, a także początek września.",
+      "originalTitle": "Pogoda na 16 dni: upał wróci na chwilę",
+      "originalDescription": "Tomasz Wasilewski przebywa na urlopie, dlatego tym razem długoterminową 16-dniową prognozę pogody przygotował synoptyk tvnmeteo.pl Tomasz Wakszyński. Sprawdź, jaką temperaturę przyniesie końcówka sierpnia, a zarazem wakacji, a także początek września."
+    },
+    {
+      "title": "Premier Węgier o sytuacji w elektrowni jądrowej Paks: już wytwarzają energię",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wegry-kolejne-turbiny-wracaja-do-pracy-w-elektrowni-jadrowej-paks-st9202108?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 11:38:13 GMT",
+      "description": "Węgry zwiększają moc swojej największej elektrowni jądrowej. Jak podał premier Peter Magyar, obiekt stopniowo wraca do pełnej sprawności po problemach związanych z warunkami na Dunaju.",
+      "originalTitle": "Premier Węgier o sytuacji w elektrowni jądrowej Paks: już wytwarzają energię",
+      "originalDescription": "Węgry zwiększają moc swojej największej elektrowni jądrowej. Jak podał premier Peter Magyar, obiekt stopniowo wraca do pełnej sprawności po problemach związanych z warunkami na Dunaju."
+    },
+    {
+      "title": "Obrażał w internecie, nachodził w miejscu pracy, wysłał kwiaty. Odpowie za stalking",
+      "link": "https://tvn24.pl/lublin/parczew-obrazal-w-internecie-nachodzil-w-miejscu-pracy-wyslal-kwiaty-odpowie-za-stalking-st9202060?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 11:36:10 GMT",
+      "description": "Policjanci z Parczewa (Lubelskie) zatrzymali 36-latka, który uporczywie nękał 20-latkę. Z ustaleń wynika, że powodem było nieodwzajemnione uczucia, którym darzył kobietę. Pomimo odrzucenia, podejmował kolejne próby kontaktu. Wysyłał kwiaty, nachodził w miejscu pracy. Natomiast w internecie kierował wobec 20-latki groźby.",
+      "originalTitle": "Obrażał w internecie, nachodził w miejscu pracy, wysłał kwiaty. Odpowie za stalking",
+      "originalDescription": "Policjanci z Parczewa (Lubelskie) zatrzymali 36-latka, który uporczywie nękał 20-latkę. Z ustaleń wynika, że powodem było nieodwzajemnione uczucia, którym darzył kobietę. Pomimo odrzucenia, podejmował kolejne próby kontaktu. Wysyłał kwiaty, nachodził w miejscu pracy. Natomiast w internecie kierował wobec 20-latki groźby."
+    },
+    {
+      "title": "Irański cyberatak sparaliżował elektrownię. Obiekt stanął na cztery dni",
+      "link": "https://tvn24.pl/biznes/ze-swiata/cyberatak-na-elektrownie-w-wielkiej-brytanii-daily-telegraph-wskazuje-na-iran-st9202068?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 11:01:25 GMT",
+      "description": "Brytyjski \"Daily Telegraph\" poinformował o cyberataku na elektrownię, za którym mieli stać hakerzy powiązani z Iranem. Według gazety był to pierwszy przypadek skutecznego wyłączenia tego typu obiektu w Wielkiej Brytanii przez grupę związaną z irańskim reżimem.",
+      "originalTitle": "Irański cyberatak sparaliżował elektrownię. Obiekt stanął na cztery dni",
+      "originalDescription": "Brytyjski \"Daily Telegraph\" poinformował o cyberataku na elektrownię, za którym mieli stać hakerzy powiązani z Iranem. Według gazety był to pierwszy przypadek skutecznego wyłączenia tego typu obiektu w Wielkiej Brytanii przez grupę związaną z irańskim reżimem."
+    },
+    {
+      "title": "Donald Trump: Kanada chce korzyści wynikających z bycia jednym ze stanów, nie będąc nim",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-kanada-chce-korzysci-wynikajacych-z-bycia-jednym-ze-stanow-nie-bedac-nim-st9201699?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 04:56:30 GMT",
+      "description": "Koniec z tym - oświadczył Donald Trump, odnosząc się do odwetu handlowego ze strony Kanady. Premier tego kraju Mark Carney poinformował wcześniej, że od września zaczną obowiązywać cła odwetowe na USA.",
+      "originalTitle": "Donald Trump: Kanada chce korzyści wynikających z bycia jednym ze stanów, nie będąc nim",
+      "originalDescription": "Koniec z tym - oświadczył Donald Trump, odnosząc się do odwetu handlowego ze strony Kanady. Premier tego kraju Mark Carney poinformował wcześniej, że od września zaczną obowiązywać cła odwetowe na USA."
+    },
+    {
+      "title": "Dron patrolował przejazd kolejowy. \"Kierowcy ignorowali znak STOP\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-dron-kontrolowal-przejazd-kolejowy-st9201928?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 10:17:15 GMT",
+      "description": "Policjanci drogówki z Płońska użyli drona do kontrolowania kierowców na jednym z okolicznych przejazdów kolejowych. W miejscu tym w przeszłości doszło do trzech wypadków.",
+      "originalTitle": "Dron patrolował przejazd kolejowy. \"Kierowcy ignorowali znak STOP\"",
+      "originalDescription": "Policjanci drogówki z Płońska użyli drona do kontrolowania kierowców na jednym z okolicznych przejazdów kolejowych. W miejscu tym w przeszłości doszło do trzech wypadków."
+    },
+    {
+      "title": "Tragiczny wypadek na przejeździe kolejowym. Nie żyje mężczyzna",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolomin-smiertelny-wypadek-na-torach-nie-zyje-mezczyzna-st9201490?source=rss",
+      "pubDate": "Sat, 22 Aug 2026 13:05:32 GMT",
+      "description": "W sobotę w miejscowości Sitne niedaleko Wołomina doszło do tragicznego w skutkach wypadku. Pociąg potrącił mężczyznę, który zginął na miejscu. Policja pod nadzorem prokuratora wyjaśnia okoliczności zdarzenia. Według ustaleń TVN24, osoba, która zginęła, wjechała na przejazd na hulajnodze.",
+      "originalTitle": "Tragiczny wypadek na przejeździe kolejowym. Nie żyje mężczyzna",
+      "originalDescription": "W sobotę w miejscowości Sitne niedaleko Wołomina doszło do tragicznego w skutkach wypadku. Pociąg potrącił mężczyznę, który zginął na miejscu. Policja pod nadzorem prokuratora wyjaśnia okoliczności zdarzenia. Według ustaleń TVN24, osoba, która zginęła, wjechała na przejazd na hulajnodze."
+    },
+    {
+      "title": "Lipiec zaskoczył rynek. Ekspertka: drugi najlepszy od co najmniej ćwierćwiecza",
+      "link": "https://tvn24.pl/biznes/nieruchomosci/nowe-mieszkania-w-polsce-lipiec-z-jednym-z-najlepszych-wynikow-od-lat-st9202038?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 10:04:38 GMT",
+      "description": "Na rynku mieszkaniowym przybywa nowych lokali. Jak wynika z najnowszego raportu Otodom, deweloperzy i inwestorzy indywidualni oddali w lipcu do użytkowania wyjątkowo dużo mieszkań i domów, osiągając jeden z najlepszych wyników od wielu lat.",
+      "originalTitle": "Lipiec zaskoczył rynek. Ekspertka: drugi najlepszy od co najmniej ćwierćwiecza",
+      "originalDescription": "Na rynku mieszkaniowym przybywa nowych lokali. Jak wynika z najnowszego raportu Otodom, deweloperzy i inwestorzy indywidualni oddali w lipcu do użytkowania wyjątkowo dużo mieszkań i domów, osiągając jeden z najlepszych wyników od wielu lat."
+    },
+    {
+      "title": "Meksykanie produkowali na podlaskiej wsi metamfetaminę. Będzie dalszy ciąg procesu",
+      "link": "https://tvn24.pl/bialystok/orla-meksykanie-produkowali-na-podlaskiej-wsi-metamfetamine-bedzie-dalszy-ciag-procesu-st9201970?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 09:49:46 GMT",
+      "description": "Zarówno prokuratura, jak i obrońcy zaskarżyli nieprawomocny wyrok wobec czterech obywateli Meksyku skazanych za prowadzenie we wsi Orla na Podlasiu laboratorium metamfetaminy. Mężczyźni dostali kary od 10 do 11 lat więzienia. Prokuratura chciała od 15 do 17.",
+      "originalTitle": "Meksykanie produkowali na podlaskiej wsi metamfetaminę. Będzie dalszy ciąg procesu",
+      "originalDescription": "Zarówno prokuratura, jak i obrońcy zaskarżyli nieprawomocny wyrok wobec czterech obywateli Meksyku skazanych za prowadzenie we wsi Orla na Podlasiu laboratorium metamfetaminy. Mężczyźni dostali kary od 10 do 11 lat więzienia. Prokuratura chciała od 15 do 17."
+    },
+    {
+      "title": "USA, Nevada. Ogień zagraża setkom domów. Władze ogłosiły stan wyjątkowy",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-nevada-ogien-zagraza-setkom-domow-wladze-oglosily-stan-wyjatkowy-st9201905?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 09:34:32 GMT",
+      "description": "Na zboczu jednego ze wzgórz w rejonie miasta Reno w amerykańskim stanie Nevada w sobotę wybuchł pożar roślinności. Żywioł szybko się rozprzestrzenia, objął już powierzchnię przekraczającą cztery tysiące hektarów. Blisko znajdują się domy.",
+      "originalTitle": "USA, Nevada. Ogień zagraża setkom domów. Władze ogłosiły stan wyjątkowy",
+      "originalDescription": "Na zboczu jednego ze wzgórz w rejonie miasta Reno w amerykańskim stanie Nevada w sobotę wybuchł pożar roślinności. Żywioł szybko się rozprzestrzenia, objął już powierzchnię przekraczającą cztery tysiące hektarów. Blisko znajdują się domy."
+    }
+  ]
 }
