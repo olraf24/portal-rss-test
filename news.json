@@ -1,8 +1,56 @@
 {
-  "lastUpdate": "2026-08-23T07:32:48.295Z",
+  "lastUpdate": "2026-08-23T08:29:00.076Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Potrącenie pieszego pod Warszawą. Przechodził przez pasy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/janki-wypadek-na-przejsciu-dla-pieszych-st9201887?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 08:15:17 GMT",
+      "description": "W sobotę późnym wieczorem w Jankach pod Warszawą doszło do potrącenia pieszego. Poszkodowany mężczyzna został zabrany do szpitala.",
+      "originalTitle": "Potrącenie pieszego pod Warszawą. Przechodził przez pasy",
+      "originalDescription": "W sobotę późnym wieczorem w Jankach pod Warszawą doszło do potrącenia pieszego. Poszkodowany mężczyzna został zabrany do szpitala."
+    },
+    {
+      "title": "Od dziś ważna zmiana w urzędach stanu cywilnego. Przepisy weszły w życie",
+      "link": "https://tvn24.pl/polska/malzenstwa-jednoplciowe-zawarte-za-granica-23-sierpnia-2026-weszly-w-zycie-nowe-przepisy-st9201797?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 07:57:07 GMT",
+      "description": "Od niedzieli osoby pozostające w małżeństwach jednopłciowych zawartych za granicą będą mogły dokonać ich transkrypcji w każdym polskim Urzędzie Stanu Cywilnego.",
+      "originalTitle": "Od dziś ważna zmiana w urzędach stanu cywilnego. Przepisy weszły w życie",
+      "originalDescription": "Od niedzieli osoby pozostające w małżeństwach jednopłciowych zawartych za granicą będą mogły dokonać ich transkrypcji w każdym polskim Urzędzie Stanu Cywilnego."
+    },
+    {
+      "title": "Ruszyła druga edycja Igrzysk Robotów Humanoidalnych. Tak rywalizują maszyny",
+      "link": "https://tvn24.pl/biznes/ze-swiata/chiny-trwa-druga-edycja-igrzysk-robotow-humanoidalnych-nie-obylo-sie-bez-wpadek-st9201698?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 07:54:18 GMT",
+      "description": "Skok w dal, podnoszenie ciężarów, tenis stołowy czy przeciąganie liny - to kilka z konkurencji, w których od soboty w Pekinie rywalizuje ze sobą ponad dwa tysiące maszyn. Druga edycja Igrzysk Robotów Humanoidalnych jest testem dla nowych technologii i ich zastosowań. Chociaż padły już rekordy, nie obyło się też bez wpadek.",
+      "originalTitle": "Ruszyła druga edycja Igrzysk Robotów Humanoidalnych. Tak rywalizują maszyny",
+      "originalDescription": "Skok w dal, podnoszenie ciężarów, tenis stołowy czy przeciąganie liny - to kilka z konkurencji, w których od soboty w Pekinie rywalizuje ze sobą ponad dwa tysiące maszyn. Druga edycja Igrzysk Robotów Humanoidalnych jest testem dla nowych technologii i ich zastosowań. Chociaż padły już rekordy, nie obyło się też bez wpadek."
+    },
+    {
+      "title": "Auta wypadły z jezdni, sygnalizator ranił pieszych. Są zarzuty dla kierowcy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-zarzuty-po-wypadku-auta-wypadly-z-jezdni-sygnalizator-ranil-pieszych-st9199270?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 07:47:45 GMT",
+      "description": "Po dziewięciu miesiącach śledztwa prokuratura przedstawiła zarzuty w sprawie listopadowego wypadku w Pruszkowie. Zdaniem śledczych, spowodował go kierowca, który popełnił błąd podczas lewoskrętu. Poszkodowanych zostało kilka osób, jedna z nich zmarła szpitalu.",
+      "originalTitle": "Auta wypadły z jezdni, sygnalizator ranił pieszych. Są zarzuty dla kierowcy",
+      "originalDescription": "Po dziewięciu miesiącach śledztwa prokuratura przedstawiła zarzuty w sprawie listopadowego wypadku w Pruszkowie. Zdaniem śledczych, spowodował go kierowca, który popełnił błąd podczas lewoskrętu. Poszkodowanych zostało kilka osób, jedna z nich zmarła szpitalu."
+    },
+    {
+      "title": "Trzęsienie ziemi w Japonii. Jest wielu rannych",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-japonii-jest-wielu-rannych-st9201658?source=rss",
+      "pubDate": "Sat, 22 Aug 2026 19:25:57 GMT",
+      "description": "Prawie 40 osób zostało rannych po tym, jak Japonię nawiedziło silne trzęsienie ziemi o magnitudzie 5,9. Wstrząsy były odczuwalne również w Tokio, stolicy kraju, a w nadchodzących dniach możliwe są kolejne.",
+      "originalTitle": "Trzęsienie ziemi w Japonii. Jest wielu rannych",
+      "originalDescription": "Prawie 40 osób zostało rannych po tym, jak Japonię nawiedziło silne trzęsienie ziemi o magnitudzie 5,9. Wstrząsy były odczuwalne również w Tokio, stolicy kraju, a w nadchodzących dniach możliwe są kolejne."
+    },
+    {
+      "title": "Mieszkańców obudziły syreny. Sygnał włączono przez pomyłkę",
+      "link": "https://tvn24.pl/lublin/zamosc-dlaczego-wyly-syreny-st9201835?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 07:39:11 GMT",
+      "description": "W niedzielę około 7 rano mieszkańcy Zamościa (Lubelskie) usłyszeli, trwający kilka minut, sygnał alarmowy. Okazało się, że syreny zostały uruchomione w ramach zaplanowanych wcześniej ćwiczeń. Tyle że miał to być cichy alarm, a sygnał dźwiękowy włączony został omyłkowo.",
+      "originalTitle": "Mieszkańców obudziły syreny. Sygnał włączono przez pomyłkę",
+      "originalDescription": "W niedzielę około 7 rano mieszkańcy Zamościa (Lubelskie) usłyszeli, trwający kilka minut, sygnał alarmowy. Okazało się, że syreny zostały uruchomione w ramach zaplanowanych wcześniej ćwiczeń. Tyle że miał to być cichy alarm, a sygnał dźwiękowy włączony został omyłkowo."
+    },
     {
       "title": "Zakaz patostreamingu. Nowe przepisy wchodzą w życie",
       "link": "https://tvn24.pl/polska/zakaz-patostreamingu-nowe-przepisy-wchodza-w-zycie-st9201767?source=rss",
@@ -20,12 +68,12 @@
       "originalDescription": "Linie lotnicze Norwegian odwołały w niedzielę 72 loty, w tym do Krakowa, z powodu strajku kontrolerów ruchu lotniczego. Na pięć godzin zostało zamknięte największe lotnisko Norwegii - Oslo Gardermoen."
     },
     {
-      "title": "Wiatr zerwał dach obory na Podlasiu. 70 tysięcy odbiorców bez prądu",
+      "title": "Wichury i nawałnice na Podlasiu. Wciąż nie ma prądu",
       "link": "https://tvn24.pl/tvnmeteo/polska/skutki-piatkowych-burz-na-podlasiu-wiatr-zerwal-dach-obory-100-tysiecy-odbiorcow-bez-pradu-st9201481?source=rss",
       "pubDate": "Sat, 22 Aug 2026 13:32:15 GMT",
-      "description": "Piątkowe burze wyrządziły liczne szkody na Podlasiu. W jednej z miejscowości wiatr zerwał dach obory, a jej właściciel ze smutkiem opisywał poniesione straty. Około 70 tysięcy odbiorców w regionie pozostawało bez prądu.",
-      "originalTitle": "Wiatr zerwał dach obory na Podlasiu. 70 tysięcy odbiorców bez prądu",
-      "originalDescription": "Piątkowe burze wyrządziły liczne szkody na Podlasiu. W jednej z miejscowości wiatr zerwał dach obory, a jej właściciel ze smutkiem opisywał poniesione straty. Około 70 tysięcy odbiorców w regionie pozostawało bez prądu."
+      "description": "Piątkowe burze i sobotnie wichury wyrządziły liczne szkody na Podlasiu. W niedzielę wciąż kilkanaście tysięcy odbiorców nie miało prądu.",
+      "originalTitle": "Wichury i nawałnice na Podlasiu. Wciąż nie ma prądu",
+      "originalDescription": "Piątkowe burze i sobotnie wichury wyrządziły liczne szkody na Podlasiu. W niedzielę wciąż kilkanaście tysięcy odbiorców nie miało prądu."
     },
     {
       "title": "200 tysięcy złotych za recepty na leki opioidowe. Aresztowano kobietę",
@@ -34,54 +82,6 @@
       "description": "Policja z Krakowa aresztowała kobietę, która miała przekazać 200 tysięcy lekarzowi z Dolnego Śląska za wypisanie recept na leki opioidowe. Grozi jej do 12 lat pozbawienia wolności. Sama sprawa ma początek w 2024 roku, gdy w Krakowie dochodziło do tajemniczych zgonów młodych kobiet. O tym w materiale Marka Nowickiego.",
       "originalTitle": "200 tysięcy złotych za recepty na leki opioidowe. Aresztowano kobietę",
       "originalDescription": "Policja z Krakowa aresztowała kobietę, która miała przekazać 200 tysięcy lekarzowi z Dolnego Śląska za wypisanie recept na leki opioidowe. Grozi jej do 12 lat pozbawienia wolności. Sama sprawa ma początek w 2024 roku, gdy w Krakowie dochodziło do tajemniczych zgonów młodych kobiet. O tym w materiale Marka Nowickiego."
-    },
-    {
-      "title": "Ogromna wygrana w Lotto. Padła szóstka",
-      "link": "https://tvn24.pl/biznes/z-kraju/padla-wygrana-w-lotto-ponad-10-milionow-zlotych-wyniki-losowania-z-22-sierpnia-2026-st9201776?source=rss",
-      "pubDate": "Sun, 23 Aug 2026 06:50:57 GMT",
-      "description": "W sobotnim losowaniu Lotto padła główna wygrana o wartości ponad 10,5 miliona złotych. Z kolei w Lotto Plus żaden z graczy nie wytypował poprawnie wszystkich liczb. Oto wyniki losowania z 22 sierpnia 2026 roku.",
-      "originalTitle": "Ogromna wygrana w Lotto. Padła szóstka",
-      "originalDescription": "W sobotnim losowaniu Lotto padła główna wygrana o wartości ponad 10,5 miliona złotych. Z kolei w Lotto Plus żaden z graczy nie wytypował poprawnie wszystkich liczb. Oto wyniki losowania z 22 sierpnia 2026 roku."
-    },
-    {
-      "title": "Efekt morza. Tutaj w Polsce może dziś mocno padać",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/efekt-morza-pogoda-i-burze-w-niedziele-23-08-tutaj-w-polsce-moze-dzis-mocno-padac-st9201760?source=rss",
-      "pubDate": "Sun, 23 Aug 2026 06:31:44 GMT",
-      "description": "W niedzielę na Wybrzeżu spodziewane są dość ulewne opady, mogą wystąpić też burze. Czym jest efekt morza i czego można spodziewać się dziś w pogodzie w tym rejonie Polski? Tłumaczy to nasz synoptyk.",
-      "originalTitle": "Efekt morza. Tutaj w Polsce może dziś mocno padać",
-      "originalDescription": "W niedzielę na Wybrzeżu spodziewane są dość ulewne opady, mogą wystąpić też burze. Czym jest efekt morza i czego można spodziewać się dziś w pogodzie w tym rejonie Polski? Tłumaczy to nasz synoptyk."
-    },
-    {
-      "title": "Tragiczny wypadek w miejscowości Narkowy. Dwie osoby nie żyją",
-      "link": "https://tvn24.pl/trojmiasto/narkowy-tragiczny-wypadek-na-dk-91-dwie-osoby-nie-zyja-st9201750?source=rss",
-      "pubDate": "Sun, 23 Aug 2026 05:04:15 GMT",
-      "description": "Dwie osoby zginęły, a dwie trafiły do szpitala po zderzeniu dwóch samochodów osobowych w miejscowości Narkowy w województwie pomorskim - poinformował w TVN24 kapitan Konrad Majewski ze straży pożarnej w Tczewie. Droga krajowa numer 91 jest zablokowana.",
-      "originalTitle": "Tragiczny wypadek w miejscowości Narkowy. Dwie osoby nie żyją",
-      "originalDescription": "Dwie osoby zginęły, a dwie trafiły do szpitala po zderzeniu dwóch samochodów osobowych w miejscowości Narkowy w województwie pomorskim - poinformował w TVN24 kapitan Konrad Majewski ze straży pożarnej w Tczewie. Droga krajowa numer 91 jest zablokowana."
-    },
-    {
-      "title": "Ostrzeżenia IMGW. Burze z ulewami w niedzielę. Tu należy uważać",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-burze-z-ulewami-i-gradem-w-niedziele-23-08-efekt-morza-st9201747?source=rss",
-      "pubDate": "Sun, 23 Aug 2026 05:07:52 GMT",
-      "description": "W części kraju w niedzielę spodziewane są burze. Instytut Meteorologii i Gospodarki Wodnej wydał żółte alarmy dla kilku powiatów w dwóch województwach.",
-      "originalTitle": "Ostrzeżenia IMGW. Burze z ulewami w niedzielę. Tu należy uważać",
-      "originalDescription": "W części kraju w niedzielę spodziewane są burze. Instytut Meteorologii i Gospodarki Wodnej wydał żółte alarmy dla kilku powiatów w dwóch województwach."
-    },
-    {
-      "title": "Kanada zapowiada cła odwetowe na towary z USA. Premier podał termin",
-      "link": "https://tvn24.pl/biznes/ze-swiata/kanada-zapowiada-cla-odwetowe-na-towary-z-usa-premier-podal-termin-st9201699?source=rss",
-      "pubDate": "Sun, 23 Aug 2026 04:56:30 GMT",
-      "description": "Kanada nałoży od 8 września cła odwetowe na towary z USA - poinformował premier kraju Mark Carney. To reakcja na 50-procentowe cła wprowadzone przez prezydenta USA Donalda Trumpa, które weszły już w życie.",
-      "originalTitle": "Kanada zapowiada cła odwetowe na towary z USA. Premier podał termin",
-      "originalDescription": "Kanada nałoży od 8 września cła odwetowe na towary z USA - poinformował premier kraju Mark Carney. To reakcja na 50-procentowe cła wprowadzone przez prezydenta USA Donalda Trumpa, które weszły już w życie."
-    },
-    {
-      "title": "Pięć rzeczy, które warto dziś wiedzieć",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-niedziele-23-sierpnia-najwazniejsze-informacje-st9201697?source=rss",
-      "pubDate": "Sun, 23 Aug 2026 04:15:01 GMT",
-      "description": "Iga Świątek przegrała z Amerykanką Jessicą Pegulą w półfinale turnieju WTA 1000 w Cincinnati. Na drodze do Morskiego Oka protestowali przeciwnicy transportu konnego. W Krakowie doszło do potrącenia pieszych przez samochód, w wyniku czego dwie osoby nie żyją, a dziecko zostało ranne. Oto rzeczy, które warto wiedzieć w niedzielę 23 sierpnia.",
-      "originalTitle": "Pięć rzeczy, które warto dziś wiedzieć",
-      "originalDescription": "Iga Świątek przegrała z Amerykanką Jessicą Pegulą w półfinale turnieju WTA 1000 w Cincinnati. Na drodze do Morskiego Oka protestowali przeciwnicy transportu konnego. W Krakowie doszło do potrącenia pieszych przez samochód, w wyniku czego dwie osoby nie żyją, a dziecko zostało ranne. Oto rzeczy, które warto wiedzieć w niedzielę 23 sierpnia."
     }
   ]
 }
