@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-23T15:21:12.869Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-23T15:47:28.615Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Podróżowali po Dolinie Śmierci. Jeden z nich nie przeżył",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-podrozowali-po-dolinie-smierci-jeden-z-nich-nie-przezyl-st9202407?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 15:42:19 GMT",
+      "description": "Turysta z Francji zmarł w Dolinie Śmierci, gdy jego auto utknęło na odosobnionej drodze. Nie udało się uratować jego życia mimo podjętej akcji poszukiwawczej.",
+      "originalTitle": "Podróżowali po Dolinie Śmierci. Jeden z nich nie przeżył",
+      "originalDescription": "Turysta z Francji zmarł w Dolinie Śmierci, gdy jego auto utknęło na odosobnionej drodze. Nie udało się uratować jego życia mimo podjętej akcji poszukiwawczej."
+    },
+    {
+      "title": "16-latek na hulajnodze wjechał pod koła auta prowadzonego przez 17-latka",
+      "link": "https://tvn24.pl/poznan/koscielna-wies-16-latek-na-hulajnodze-wjechal-pod-kola-auta-prowadzonego-przez-17-latka-st9202404?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 15:07:30 GMT",
+      "description": "Do szpitala trafił 16-letni kierowca hulajnogi elektrycznej, który w Kościelnej Wsi (Wielkopolskie) zderzył się z 17-letnim kierowcą auta osobowego. Nastolatek jechał bez kasku i świateł.",
+      "originalTitle": "16-latek na hulajnodze wjechał pod koła auta prowadzonego przez 17-latka",
+      "originalDescription": "Do szpitala trafił 16-letni kierowca hulajnogi elektrycznej, który w Kościelnej Wsi (Wielkopolskie) zderzył się z 17-letnim kierowcą auta osobowego. Nastolatek jechał bez kasku i świateł."
+    },
+    {
+      "title": "15. edycja Międzynarodowego Festiwalu Filmowego Hommage à Kieślowski już wkrótce",
+      "link": "https://tvn24.pl/kultura-i-styl/15-edycja-miedzynarodowego-festiwalu-filmowego-hommage-a-kieslowski-juz-wkrotce-st9200724?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 15:01:23 GMT",
+      "description": "Podwójnie jubileuszowa, 15. już edycja Międzynarodowego Festiwalu Filmowego Hommage à Kieślowski, odbędzie się w dniach 27-30 sierpnia - jak zwykłe w Sokołowsku na Dolnym Śląsku. Festiwal został objęty Honorowym Patronatem Europejskiej Akademii Filmowej.",
+      "originalTitle": "15. edycja Międzynarodowego Festiwalu Filmowego Hommage à Kieślowski już wkrótce",
+      "originalDescription": "Podwójnie jubileuszowa, 15. już edycja Międzynarodowego Festiwalu Filmowego Hommage à Kieślowski, odbędzie się w dniach 27-30 sierpnia - jak zwykłe w Sokołowsku na Dolnym Śląsku. Festiwal został objęty Honorowym Patronatem Europejskiej Akademii Filmowej."
+    },
+    {
+      "title": "Ulewa uszkodziła Dziki Wodospad w Karpaczu",
+      "link": "https://tvn24.pl/tvnmeteo/polska/dolny-slask-ulewa-uszkodzila-dziki-wodospad-w-karpaczu-st9202378?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 14:26:37 GMT",
+      "description": "Ulewa uszkodziła zaporę przeciwrumowiskową na Łomnicy w Karpaczu. Obiekt, nazywany Dzikim Wodospadem, cieszy się dużą popularnością wśród turystów. Karkonoski Park Narodowy wyjaśnił, jak doszło do zniszczeń.",
+      "originalTitle": "Ulewa uszkodziła Dziki Wodospad w Karpaczu",
+      "originalDescription": "Ulewa uszkodziła zaporę przeciwrumowiskową na Łomnicy w Karpaczu. Obiekt, nazywany Dzikim Wodospadem, cieszy się dużą popularnością wśród turystów. Karkonoski Park Narodowy wyjaśnił, jak doszło do zniszczeń."
+    },
+    {
+      "title": "Auto wjechało w ogrodzenie. Kierowca miał ranę postrzałową. Zatrzymania",
+      "link": "https://tvn24.pl/bialystok/powiat-zambrowski-auto-wjechalo-w-ogrodzenie-kierowca-mial-rane-postrzalowa-st9202389?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 14:09:36 GMT",
+      "description": "Zaczęło się od zgłoszenia o samochodzie, który w nocy wjechał w ogrodzenie. Kiedy kierowca trafił do szpitala, wyszło na jaw, że ma ranę postrzałową. Policja zatrzymała dziewięć osób, w tym podejrzanego o usiłowanie zabójstwa.",
+      "originalTitle": "Auto wjechało w ogrodzenie. Kierowca miał ranę postrzałową. Zatrzymania",
+      "originalDescription": "Zaczęło się od zgłoszenia o samochodzie, który w nocy wjechał w ogrodzenie. Kiedy kierowca trafił do szpitala, wyszło na jaw, że ma ranę postrzałową. Policja zatrzymała dziewięć osób, w tym podejrzanego o usiłowanie zabójstwa."
+    },
+    {
+      "title": "Stanął na autostradzie, bo zabrakło mu paliwa. Kierowca pijany, auto kradzione",
+      "link": "https://tvn24.pl/lublin/biala-podlaska-zatrzymal-sie-na-autostradzie-bo-zabralo-mu-paliwa-wzywal-pomocy-st9202173?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 13:52:50 GMT",
+      "description": "Policjanci z Białej Podlaskiej (Lubelskie) dostali zgłoszenie, że na autostradzie A2 zatrzymał się kierowca, który macha do przejeżdżających aut i wzywa pomocy. Na miejscu okazało się, że 40-letniemu Białorusinowi skończyło się paliwo. Mężczyzna był pijany. Miał w organizmie ponad trzy promile alkoholu. Jakby tego było mało, podróżował kradzionym busem.",
+      "originalTitle": "Stanął na autostradzie, bo zabrakło mu paliwa. Kierowca pijany, auto kradzione",
+      "originalDescription": "Policjanci z Białej Podlaskiej (Lubelskie) dostali zgłoszenie, że na autostradzie A2 zatrzymał się kierowca, który macha do przejeżdżających aut i wzywa pomocy. Na miejscu okazało się, że 40-letniemu Białorusinowi skończyło się paliwo. Mężczyzna był pijany. Miał w organizmie ponad trzy promile alkoholu. Jakby tego było mało, podróżował kradzionym busem."
+    },
+    {
+      "title": "Nowy Jork wyprzedził San Francisco. Zmiana w branży technologicznej",
+      "link": "https://tvn24.pl/biznes/tech/sztuczna-inteligencja-tworzy-miejsca-pracy-i-zwieksza-popyt-na-biura-w-usa-nowy-jork-wyprzedzil-san-francisco-st9202337?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 13:46:30 GMT",
+      "description": "Liczba pracowników sektora technologicznego specjalizujących się w sztucznej inteligencji szybko rośnie, a wpływ tego trendu na regionalne rynki biurowe jest znaczący. Po raz pierwszy największą liczbę pracowników branży technologicznej skupia nowojorski rynek biurowy - podał portal CNBC powołując się na dane firmy CBRE.",
+      "originalTitle": "Nowy Jork wyprzedził San Francisco. Zmiana w branży technologicznej",
+      "originalDescription": "Liczba pracowników sektora technologicznego specjalizujących się w sztucznej inteligencji szybko rośnie, a wpływ tego trendu na regionalne rynki biurowe jest znaczący. Po raz pierwszy największą liczbę pracowników branży technologicznej skupia nowojorski rynek biurowy - podał portal CNBC powołując się na dane firmy CBRE."
+    },
+    {
+      "title": "36-latek zmarł po brutalnym ataku. Zatrzymani zwolnieni bez postawienia zarzutów",
+      "link": "https://tvn24.pl/krakow/krakow-kibic-hutnika-zmarl-po-brutalnym-ataku-nagranie-st9202030?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 11:01:50 GMT",
+      "description": "Krakowska policja zatrzymała dziewięć osób w związku ze zdarzeniem na osiedlu Willowym w Nowej Hucie. W nocy z czwartku na piątek śmierć poniósł tam 36-latek. Wszyscy zatrzymani zostali już zwolnieni, nikomu nie przedstawiono zarzutów.",
+      "originalTitle": "36-latek zmarł po brutalnym ataku. Zatrzymani zwolnieni bez postawienia zarzutów",
+      "originalDescription": "Krakowska policja zatrzymała dziewięć osób w związku ze zdarzeniem na osiedlu Willowym w Nowej Hucie. W nocy z czwartku na piątek śmierć poniósł tam 36-latek. Wszyscy zatrzymani zostali już zwolnieni, nikomu nie przedstawiono zarzutów."
+    },
+    {
+      "title": "Na pięciometrowym jachcie samotnie przepłynęła Atlantyk",
+      "link": "https://tvn24.pl/tvnwarszawa/bielany/edyta-krakowiak-samotnie-przeplynela-ocean-atlantycki-na-pieciometrowej-lodzi-jak-wspomina-rejs-st9177005?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 13:27:10 GMT",
+      "description": "Pochodzi z Warszawy, ma 29 lat i w 29 dni samotnie przepłynęła Ocean Atlantycki. Zrobiła to na pięciometrowym jachcie. - Trudności zaczęły pojawiać się w trzecim tygodniu żeglugi. Kiedy jedzenie przestawało już smakować. Kiedy widok codziennie był ten sam. Gdy brak drugiego człowieka zaczął doskwierać - opowiada TVN24+ Edyta Krakowiak. Jak radziła sobie wcześniej i co znalazła na środku oceanu?",
+      "originalTitle": "Na pięciometrowym jachcie samotnie przepłynęła Atlantyk",
+      "originalDescription": "Pochodzi z Warszawy, ma 29 lat i w 29 dni samotnie przepłynęła Ocean Atlantycki. Zrobiła to na pięciometrowym jachcie. - Trudności zaczęły pojawiać się w trzecim tygodniu żeglugi. Kiedy jedzenie przestawało już smakować. Kiedy widok codziennie był ten sam. Gdy brak drugiego człowieka zaczął doskwierać - opowiada TVN24+ Edyta Krakowiak. Jak radziła sobie wcześniej i co znalazła na środku oceanu?"
+    },
+    {
+      "title": "Wołodymyr Zełenski podpisał ustawę o utworzeniu Panteonu Narodowego",
+      "link": "https://tvn24.pl/swiat/ukraina-i-spor-o-upa-wolodymyr-zelenski-podpisal-ustawe-o-utworzeniu-panteonu-narodowego-st9202345?source=rss",
+      "pubDate": "Sun, 23 Aug 2026 13:16:47 GMT",
+      "description": "Ukraina ma utworzyć Panteon Narodowy - miejsce, w którym zostaną upamiętnieni ich bohaterowie. Ci, którzy \"dają dziś Ukraińcom natchnienie, aby byli silni\" - jak powiedział prezydent Wołodymyr Zełenski. Ustawa, którą podpisał, umożliwia umieszczenie tam między innymi dowódców UPA.",
+      "originalTitle": "Wołodymyr Zełenski podpisał ustawę o utworzeniu Panteonu Narodowego",
+      "originalDescription": "Ukraina ma utworzyć Panteon Narodowy - miejsce, w którym zostaną upamiętnieni ich bohaterowie. Ci, którzy \"dają dziś Ukraińcom natchnienie, aby byli silni\" - jak powiedział prezydent Wołodymyr Zełenski. Ustawa, którą podpisał, umożliwia umieszczenie tam między innymi dowódców UPA."
+    }
+  ]
 }
