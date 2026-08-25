@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2026-08-25T08:40:32.328Z",
+  "lastUpdate": "2026-08-25T09:33:51.619Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "MSPO 2026: Aerostaty z TCOM Unitronex do ochrony polskiego nieba",
+      "link": "https://defence24.pl/technologie/mspo-2026-aerostaty-z-tcom-unitronex-do-ochrony-polskiego-nieba",
+      "pubDate": "Tue, 25 Aug 2026 11:30:00 +0200",
+      "description": "TCOM Unitronex prezentuje podczas MSPO 2026 dwa typy aerostatów wyposażonych w podwieszane systemy obserwacyjne. Platformy te stanowią ekonomiczne rozwiązanie do prowadzenia rozpoznania powietrznego, w tym wykrywania nisko lecących celów powietrznych."
+    },
+    {
+      "title": "Rosja reaguje na ukraińskie ataki. Wzmocni ochronę infrastruktury krytycznej",
+      "link": "https://defence24.pl/polityka-obronna/rosja-reaguje-na-ukrainskie-ataki-wzmocni-ochrone-infrastruktury-krytycznej",
+      "pubDate": "Tue, 25 Aug 2026 11:26:10 +0200",
+      "description": "Przywódca Rosji Władimir Putin podpisał w poniedziałek dekret określający sposoby ochrony infrastruktury krytycznej podczas wojny z Ukrainą. Dokument zakłada m.in. przejęcie kontroli przez państwo nad obiektami lub instalacjami, jeśli – w ocenie władz – ich zabezpieczenie nie będzie wystarczające."
+    },
+    {
+      "title": "Przyszłość Pioruna. Co po historycznej umowie? [KOMENTARZ]",
+      "link": "https://defence24.pl/przemysl/przyszlosc-pioruna-co-po-historycznej-umowie-komentarz",
+      "pubDate": "Tue, 25 Aug 2026 10:58:56 +0200",
+      "description": "Podpisana wczoraj umowa na dostawy Przenośnych Przeciwlotniczych Zestawów Rakietowych Piorun to bardzo ważny krok na drodze do wzmacniania polskiego systemu obrony powietrznej, przemysłu obronnego, ale też systemu pozyskiwania sprzętu. Potencjał, jaki mają zestawy Piorun, powinien jednak być rozwijany zdecydowanie dalej."
+    },
     {
       "title": "Śmigłowce sił specjalnych nadal mają swoją rolę [OPINIA]",
       "link": "https://defence24.pl/sily-zbrojne/smiglowce-sil-specjalnych-nadal-maja-swoja-role-opinia",
@@ -74,24 +92,6 @@
       "link": "https://defence24.pl/sily-zbrojne/zmiana-na-czele-centrum-weterana",
       "pubDate": "Mon, 24 Aug 2026 18:10:34 +0200",
       "description": "Płk rez. Mariusz Pogonowski objął dziś obowiązki Dyrektora Centrum Weterana Działań poza Granicami Państwa."
-    },
-    {
-      "title": "Dwa lotniska czasowo zamknięte. Czeskie myśliwce operowały nad Polską",
-      "link": "https://defence24.pl/polityka-obronna/poderwane-mysliwce-zamkniete-lotniska-czeskie-samoloty-nad-polska",
-      "pubDate": "Mon, 24 Aug 2026 16:03:04 +0200",
-      "description": "Na kilkanaście minut zamknięto funkcjonowanie lotnisk cywilnych w Katowicach i Krakowie. Powodem była aktywność lotnictwa wojskowego."
-    },
-    {
-      "title": "Iran zagraża Europie? Patrioty wracają na strategiczną wyspę na Morzu Śródziemnym",
-      "link": "https://defence24.pl/geopolityka/iran-zagraza-europie-patrioty-wracaja-na-strategiczna-wyspe-na-morzu-srodziemnym",
-      "pubDate": "Mon, 24 Aug 2026 16:00:00 +0200",
-      "description": "Kreta należy od wieków do najbardziej strategicznych miejsc dla bezpieczeństwa całego Morza Śródziemnego. Greckie media sugerują, że tamtejsze siły zbrojne mają już drugi raz w tym roku przenieść właśnie na Kretę zestawy Patriot. Ich pojawienie się jest związane z zagrożeniami mogącymi płynąć z Bliskiego Wschodu."
-    },
-    {
-      "title": "Czeskie żmije znowu strzegą polskiego nieba. Powrót po wypadku",
-      "link": "https://defence24.pl/sily-zbrojne/czeskie-zmije-znowu-strzega-polskiego-nieba-powrot-po-wypadku",
-      "pubDate": "Mon, 24 Aug 2026 15:30:02 +0200",
-      "description": "Dwa śmigłowce bojowe AH-1Z Viper wróciły w poniedziałek do służby w Polsce – poinformowała czeska armia w serwisie X. Maszyny był uziemione po wypadku śmigłowca UH-1Y Venom, do którego doszło w lipcu w Czechach. W samych Czechach Vipery nie mają jeszcze zgody na latanie."
     }
   ]
 }
