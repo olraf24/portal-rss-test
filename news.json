@@ -1,8 +1,48 @@
 {
-  "lastUpdate": "2026-08-26T07:45:23.556Z",
+  "lastUpdate": "2026-08-26T08:42:08.890Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Premiera Wiedźmina 4 coraz bliżej. \"Najbardziej ambitna gra w naszej historii\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/cd-projekt-red-premiera-wiedzmina-4-zaplanowana-na-2028-rok-najbardziej-ambitna-gra-w-naszej-historii-st9206474?source=rss",
+      "pubDate": "Wed, 26 Aug 2026 08:13:48 GMT",
+      "description": "Premiera \"Wiedźmina 4\" została zaplanowana na 2028 rok - poinformował Michał Nowakowski, Joint CEO CD PROJEKT RED. Nad produkcją pracuje już ponad 500 osób. Wcześniej, bo w 2027 roku, na rynku gier zadebiutuje kolejny dodatek do \"Wiedźmina 3\" - \"Pieśni Przeszłości\".",
+      "originalTitle": "Premiera Wiedźmina 4 coraz bliżej. \"Najbardziej ambitna gra w naszej historii\"",
+      "originalDescription": "Premiera \"Wiedźmina 4\" została zaplanowana na 2028 rok - poinformował Michał Nowakowski, Joint CEO CD PROJEKT RED. Nad produkcją pracuje już ponad 500 osób. Wcześniej, bo w 2027 roku, na rynku gier zadebiutuje kolejny dodatek do \"Wiedźmina 3\" - \"Pieśni Przeszłości\"."
+    },
+    {
+      "title": "Znalazł rękojeść miecza i fragment szpili. \"Takie znaleziska są rzadkością\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/brwinow-znaleziska-pod-brwinowem-pochodza-z-epoki-brazu-trafia-do-muzeum-st9206443?source=rss",
+      "pubDate": "Wed, 26 Aug 2026 08:11:07 GMT",
+      "description": "W trakcie poszukiwań znalazł między innymi rękojeść miecza i zdobiony fragment szpili. Przedmioty te pochodzą sprzed około trzech tysięcy lat. \"Takie znaleziska są rzadkością w strefie mazowieckiej\" - zaznaczył konserwator zabytków.",
+      "originalTitle": "Znalazł rękojeść miecza i fragment szpili. \"Takie znaleziska są rzadkością\"",
+      "originalDescription": "W trakcie poszukiwań znalazł między innymi rękojeść miecza i zdobiony fragment szpili. Przedmioty te pochodzą sprzed około trzech tysięcy lat. \"Takie znaleziska są rzadkością w strefie mazowieckiej\" - zaznaczył konserwator zabytków."
+    },
+    {
+      "title": "Uwaga na gęste mgły. Ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/polska/pogoda-w-polsce-uwaga-na-geste-mgly-ostrzezenia-imgw-st9206308?source=rss",
+      "pubDate": "Wed, 26 Aug 2026 04:38:12 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstymi mgłami. W północnej części kraju obowiązują żółte alarmy meteorologiczne. Sprawdź szczegóły.",
+      "originalTitle": "Uwaga na gęste mgły. Ostrzeżenia IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstymi mgłami. W północnej części kraju obowiązują żółte alarmy meteorologiczne. Sprawdź szczegóły."
+    },
+    {
+      "title": "Ujawniono przyczynę śmierci Dolly Parton",
+      "link": "https://tvn24.pl/kultura-i-styl/dolly-parton-nie-zyje-rzecznik-artystki-o-przyczynach-smierci-st9206388?source=rss",
+      "pubDate": "Wed, 26 Aug 2026 07:48:56 GMT",
+      "description": "Dolly Parton, uwielbiana gwiazda country, zmarła we wtorek w wieku 80 lat. Rzecznik artystki przekazał, że cztery dni przed śmiercią została przyjęta do centrum onkologicznego w Nashville.",
+      "originalTitle": "Ujawniono przyczynę śmierci Dolly Parton",
+      "originalDescription": "Dolly Parton, uwielbiana gwiazda country, zmarła we wtorek w wieku 80 lat. Rzecznik artystki przekazał, że cztery dni przed śmiercią została przyjęta do centrum onkologicznego w Nashville."
+    },
+    {
+      "title": "Spory o perony na CPK. \"Nie przywiązywałbym się do oficjalnego terminu\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/cpk-ile-peronow-kolejowych-powstanie-w-ramach-centralnego-portu-komunikacyjnego-jaki-termin-realizacji-cpk-st9206487?source=rss",
+      "pubDate": "Wed, 26 Aug 2026 07:44:37 GMT",
+      "description": "Czy dyskusja na temat liczby peronów kolejowych spowolni start budowy CPK? Tak twierdzą niektórzy pracownicy firmy. - Opóźnień w budowie CPK nie będzie - zapewnia resort infrastruktury i należąca do CPK spółka Port Polska.",
+      "originalTitle": "Spory o perony na CPK. \"Nie przywiązywałbym się do oficjalnego terminu\"",
+      "originalDescription": "Czy dyskusja na temat liczby peronów kolejowych spowolni start budowy CPK? Tak twierdzą niektórzy pracownicy firmy. - Opóźnień w budowie CPK nie będzie - zapewnia resort infrastruktury i należąca do CPK spółka Port Polska."
+    },
     {
       "title": "Słony rachunek za weta prezydenta. Rzecznik Nawrockiego: nieudolna manipulacja",
       "link": "https://tvn24.pl/biznes/z-kraju/weta-prezydenta-karola-nawrockiego-moga-kosztowac-budzet-ponad-8-miliardow-zlotych-odpowiedz-rzecznika-prezydenta-rafala-leskiewicza-st9204729?source=rss",
@@ -42,46 +82,6 @@
       "description": "Prezydent Stanów Zjednoczonych Donald Trump ogłosił we wtorek, że \"ponownie rozważa\" przemianowanie jeziora Ontario na Jezioro Ameryki. Dzień wcześniej wdał się w ostrą dyskusję z premierem kanadyjskiej prowincji Ontario Douga Forda, który stwierdził, że amerykańska głowa państwa może \"pocałować go w d...\".",
       "originalTitle": "Trump chce zmienić nazwę jeziora Ontario. Pojedynek na słowa między sąsiadami",
       "originalDescription": "Prezydent Stanów Zjednoczonych Donald Trump ogłosił we wtorek, że \"ponownie rozważa\" przemianowanie jeziora Ontario na Jezioro Ameryki. Dzień wcześniej wdał się w ostrą dyskusję z premierem kanadyjskiej prowincji Ontario Douga Forda, który stwierdził, że amerykańska głowa państwa może \"pocałować go w d...\"."
-    },
-    {
-      "title": "Akcja na A2, zatrzymali \"szefa grupy przestępczej\"",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-policja-rozbila-litewska-szajke-zlodziei-aut-jej-szef-wpadl-podczas-akcji-na-autostradzie-a2-st9206363?source=rss",
-      "pubDate": "Wed, 26 Aug 2026 06:18:03 GMT",
-      "description": "Stołeczni policjanci z grupy \"Orzeł\" rozbili litewską grupę zajmującą się kradzieżami aut w Polsce i innych krajach Europy. Podczas akcji na autostradzie A2 zatrzymali mężczyznę podejrzanego o kierowanie grupą. Odzyskali dwa skradzione samochody.",
-      "originalTitle": "Akcja na A2, zatrzymali \"szefa grupy przestępczej\"",
-      "originalDescription": "Stołeczni policjanci z grupy \"Orzeł\" rozbili litewską grupę zajmującą się kradzieżami aut w Polsce i innych krajach Europy. Podczas akcji na autostradzie A2 zatrzymali mężczyznę podejrzanego o kierowanie grupą. Odzyskali dwa skradzione samochody."
-    },
-    {
-      "title": "Pytanie prowadzącego, śmiech Tomasza Treli. \"To jest tak samo wiarygodne...\"",
-      "link": "https://tvn24.pl/polska/tomasz-trela-w-jeden-na-jeden-o-spotkaniu-michala-moskala-z-przemyslawem-kralem-st9206350?source=rss",
-      "pubDate": "Wed, 26 Aug 2026 06:11:22 GMT",
-      "description": "On poleciał tam w moim przekonaniu w konkretnym celu. Po finansowanie dla PiS - mówił Tomasz Trela z Lewicy w \"Jeden na jeden\" w TVN24. Komentował najnowsze ustalenia o spotkaniu bliskiego współpracownika Jarosława Kaczyńskiego z prezesem Zondacrypto Przemysławem Kralem. Trela zapowiedział też, kiedy komisja do spraw Pegasusa pokaże końcowy raport.",
-      "originalTitle": "Pytanie prowadzącego, śmiech Tomasza Treli. \"To jest tak samo wiarygodne...\"",
-      "originalDescription": "On poleciał tam w moim przekonaniu w konkretnym celu. Po finansowanie dla PiS - mówił Tomasz Trela z Lewicy w \"Jeden na jeden\" w TVN24. Komentował najnowsze ustalenia o spotkaniu bliskiego współpracownika Jarosława Kaczyńskiego z prezesem Zondacrypto Przemysławem Kralem. Trela zapowiedział też, kiedy komisja do spraw Pegasusa pokaże końcowy raport."
-    },
-    {
-      "title": "Ogień koło Barcelony. 14 tysięcy osób ma zostać w domach",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/katalonia-ogien-pod-barcelona-14-tysiecy-osob-ma-zostac-w-domach-st9206322?source=rss",
-      "pubDate": "Wed, 26 Aug 2026 05:43:42 GMT",
-      "description": "Kilkuset strażaków walczy z pożarem roślinności w parku krajobrazowym Collserola pod Barceloną. Z powodu zagrożenia swoje domy musiało opuścić ponad 30 osób osób, a 14 tysięcy mieszkańców otrzymało nakaz pozostania w domach. Akcję gaśniczą utrudnia silny wiatr.",
-      "originalTitle": "Ogień koło Barcelony. 14 tysięcy osób ma zostać w domach",
-      "originalDescription": "Kilkuset strażaków walczy z pożarem roślinności w parku krajobrazowym Collserola pod Barceloną. Z powodu zagrożenia swoje domy musiało opuścić ponad 30 osób osób, a 14 tysięcy mieszkańców otrzymało nakaz pozostania w domach. Akcję gaśniczą utrudnia silny wiatr."
-    },
-    {
-      "title": "Był pijany, od 10 lat nie ma prawa jazdy",
-      "link": "https://tvn24.pl/tvnwarszawa/mokotow/mokotow-byl-pijany-od-10-lat-nie-ma-prawa-jazdy-st9206343?source=rss",
-      "pubDate": "Wed, 26 Aug 2026 05:43:36 GMT",
-      "description": "Ponad dwa promile alkoholu w organizmie miał 80-letni kierowca Toyoty, który uczestniczył w zdarzeniu drogowym na Mokotowie. Od 10 lat nie ma on prawa jazdy.",
-      "originalTitle": "Był pijany, od 10 lat nie ma prawa jazdy",
-      "originalDescription": "Ponad dwa promile alkoholu w organizmie miał 80-letni kierowca Toyoty, który uczestniczył w zdarzeniu drogowym na Mokotowie. Od 10 lat nie ma on prawa jazdy."
-    },
-    {
-      "title": "Warszawa będzie miała system antydronowy",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-miasto-kupi-system-antydronowy-st9206321?source=rss",
-      "pubDate": "Wed, 26 Aug 2026 05:35:58 GMT",
-      "description": "Jeszcze w tym roku Warszawa kupi system antydronowy, który obejmie zasięgiem centralną część miasta. Będzie on wsparciem dla służb we wczesnym wykrywaniu ewentualnych zagrożeń ze strony bezzałogowych statków powietrznych.",
-      "originalTitle": "Warszawa będzie miała system antydronowy",
-      "originalDescription": "Jeszcze w tym roku Warszawa kupi system antydronowy, który obejmie zasięgiem centralną część miasta. Będzie on wsparciem dla służb we wczesnym wykrywaniu ewentualnych zagrożeń ze strony bezzałogowych statków powietrznych."
     }
   ]
 }
