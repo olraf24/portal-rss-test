@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-30T09:47:26.423Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-08-30T14:42:26.608Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Przy lotnisku kontrolowali kierowców przewozu osób. Pięciu było w Polsce nielegalnie",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-przy-lotnisku-kontrolowali-kierowcow-przewozu-osob-pieciu-bylo-w-polsce-nielegalnie-st9213151?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 14:35:13 GMT",
+      "description": "Strażnicy graniczni i policjanci w rejonie warszawskiego Lotniska Chopina kontrolowali kierowców świadczących usługi przewozu osób z wykorzystaniem aplikacji mobilnych. Zatrzymali pięciu cudzoziemców, którzy przebywali w Polsce nielegalnie.",
+      "originalTitle": "Przy lotnisku kontrolowali kierowców przewozu osób. Pięciu było w Polsce nielegalnie",
+      "originalDescription": "Strażnicy graniczni i policjanci w rejonie warszawskiego Lotniska Chopina kontrolowali kierowców świadczących usługi przewozu osób z wykorzystaniem aplikacji mobilnych. Zatrzymali pięciu cudzoziemców, którzy przebywali w Polsce nielegalnie."
+    },
+    {
+      "title": "Nepal i Tybet. Zginęło ponad 700 osób. Żółty alarm w miejscu osuwiska",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/katastrofa-w-nepalu-i-tybecie-wzrosl-bilans-ofiar-jesli-ktos-teraz-zachoruje-to-chyba-bedzie-musial-umrzec-w-domu-st9206960?source=rss",
+      "pubDate": "Wed, 26 Aug 2026 11:52:02 GMT",
+      "description": "Ponad 700 osób zginęło wskutek osuwisk i powodzi, do których w środę doszło na granicy Nepalu i Tybetu. W rejonie trwa akcja poszukiwawcza, z każdą chwilą trudniejsza - nad Himalaje nadciągnęły opady deszczu, destabilizujące teren. Wydano alarmy meteorologiczne.",
+      "originalTitle": "Nepal i Tybet. Zginęło ponad 700 osób. Żółty alarm w miejscu osuwiska",
+      "originalDescription": "Ponad 700 osób zginęło wskutek osuwisk i powodzi, do których w środę doszło na granicy Nepalu i Tybetu. W rejonie trwa akcja poszukiwawcza, z każdą chwilą trudniejsza - nad Himalaje nadciągnęły opady deszczu, destabilizujące teren. Wydano alarmy meteorologiczne."
+    },
+    {
+      "title": "Przyjechały na wieczór panieński, jedna z kobiet została postrzelona",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-przyjechaly-na-wieczor-panienski-jedna-z-kobiet-zostala-postrzelona-st9213120?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 14:06:38 GMT",
+      "description": "Przyjechały do Trójmiasta na wieczór panieński. Chwilę po wyjściu z peronu na stacji Gdańsk-Żabianka jedna z kobiet została trafiona śrutem z wiatrówki. Policja ustala, kto strzelał i w jakich okolicznościach",
+      "originalTitle": "Przyjechały na wieczór panieński, jedna z kobiet została postrzelona",
+      "originalDescription": "Przyjechały do Trójmiasta na wieczór panieński. Chwilę po wyjściu z peronu na stacji Gdańsk-Żabianka jedna z kobiet została trafiona śrutem z wiatrówki. Policja ustala, kto strzelał i w jakich okolicznościach"
+    },
+    {
+      "title": "300 złotych na wyprawkę. Za chwilę upływa ważny termin",
+      "link": "https://tvn24.pl/biznes/z-kraju/program-dobry-start-31-sierpnia-2026-roku-uplywa-wazny-termin-dotyczacy-skladania-wnioskow-do-kiedy-i-jak-zlozyc-st9213117?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 13:40:51 GMT",
+      "description": "Rodzice i opiekunowie, którzy chcą otrzymać świadczenie z programu Dobry Start jeszcze we wrześniu, powinni złożyć wniosek najpóźniej do 31 sierpnia. Dokumenty przesłane po tym terminie będą rozpatrywane w ciągu dwóch miesięcy.",
+      "originalTitle": "300 złotych na wyprawkę. Za chwilę upływa ważny termin",
+      "originalDescription": "Rodzice i opiekunowie, którzy chcą otrzymać świadczenie z programu Dobry Start jeszcze we wrześniu, powinni złożyć wniosek najpóźniej do 31 sierpnia. Dokumenty przesłane po tym terminie będą rozpatrywane w ciągu dwóch miesięcy."
+    },
+    {
+      "title": "Zmasowany atak w Ukrainie, dwa alerty RCB w Polsce",
+      "link": "https://tvn24.pl/lublin/zmasowany-atak-w-ukrainie-dwa-alerty-rcb-w-polsce-st9213118?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 13:37:43 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa poinformowało o wysłaniu alertu RCB w zawiązku z atakami w zachodniej Ukrainie. Po chwili alert został odwołany.",
+      "originalTitle": "Zmasowany atak w Ukrainie, dwa alerty RCB w Polsce",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa poinformowało o wysłaniu alertu RCB w zawiązku z atakami w zachodniej Ukrainie. Po chwili alert został odwołany."
+    },
+    {
+      "title": "Radar i mapa opadów. Polska pod wpływem dwóch niżów. Tutaj możliwe są burze z ulewami",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/radar-i-mapa-opadow-pogoda-polska-pod-wplywem-dwoch-nizow-tutaj-mozliwe-sa-burze-z-ulewami-st9213085?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 13:36:36 GMT",
+      "description": "W poniedziałek Polska znajdzie się pod wpływem dwóch niżów, które mocno pogorszą pogodę. W części kraju prognozowane są burze, którym mogą towarzyszyć ulewy, silny wiatr oraz opady gradu.",
+      "originalTitle": "Radar i mapa opadów. Polska pod wpływem dwóch niżów. Tutaj możliwe są burze z ulewami",
+      "originalDescription": "W poniedziałek Polska znajdzie się pod wpływem dwóch niżów, które mocno pogorszą pogodę. W części kraju prognozowane są burze, którym mogą towarzyszyć ulewy, silny wiatr oraz opady gradu."
+    },
+    {
+      "title": "Potrącił 15-latka i uciekł. Zatrzymali mężczyznę, który miał siedzieć za kierownicą",
+      "link": "https://tvn24.pl/krakow/zadroze-potracil-15-latka-i-uciekl-zatrzymali-mezczyzne-ktory-mial-siedziec-za-kierownica-st9213098?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 13:30:10 GMT",
+      "description": "W podkrakowskim Zadrożu kierowca potrącił 15-latka i odjechał. Policjanci podejrzewają, że za kierownicą auta siedział 26-latek. Został on zatrzymany w niedzielę nad ranem.",
+      "originalTitle": "Potrącił 15-latka i uciekł. Zatrzymali mężczyznę, który miał siedzieć za kierownicą",
+      "originalDescription": "W podkrakowskim Zadrożu kierowca potrącił 15-latka i odjechał. Policjanci podejrzewają, że za kierownicą auta siedział 26-latek. Został on zatrzymany w niedzielę nad ranem."
+    },
+    {
+      "title": "Prom wywrócił się u wybrzeży Cypru Północnego. Na pokładzie było 270 osób",
+      "link": "https://tvn24.pl/swiat/prom-wywrocil-sie-u-wybrzezy-cypru-polnocnego-na-pokladzie-bylo-270-osob-st9212907?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 11:54:31 GMT",
+      "description": "Prom z 270 osobami na pokładzie wywrócił się po wypłynięciu z portu w Kirenii na terenie Cypru Północnego - przekazał dziennik \"Cyprus Mail\". Premier tego kraju przekazał, że zginęło siedem osób. Większość pasażerów została uratowana. Akcja ratunkowa wciąż trwa.",
+      "originalTitle": "Prom wywrócił się u wybrzeży Cypru Północnego. Na pokładzie było 270 osób",
+      "originalDescription": "Prom z 270 osobami na pokładzie wywrócił się po wypłynięciu z portu w Kirenii na terenie Cypru Północnego - przekazał dziennik \"Cyprus Mail\". Premier tego kraju przekazał, że zginęło siedem osób. Większość pasażerów została uratowana. Akcja ratunkowa wciąż trwa."
+    },
+    {
+      "title": "Sytuacja w Trybunale Konstytucyjnym. Siedmioro sędziów zabrało głos",
+      "link": "https://tvn24.pl/polska/sytuacja-w-trybunale-konstytucyjnym-siedmioro-sedziow-zabralo-glos-st9212886?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 13:02:18 GMT",
+      "description": "Siedmioro sędziów Trybunału Konstytucyjnego wystosowało oświadczenie, w którym podkreślają, że wypowiedzi \"osób pełniących wysokie funkcje publiczne\", nie mogą mieć wpływu na ich orzecznictwo. \"Zgodnie z rotą ślubowania, które złożyliśmy, obejmując urząd sędziowski, służymy tylko narodowi, jesteśmy niezawiśli\" - zapewniają.",
+      "originalTitle": "Sytuacja w Trybunale Konstytucyjnym. Siedmioro sędziów zabrało głos",
+      "originalDescription": "Siedmioro sędziów Trybunału Konstytucyjnego wystosowało oświadczenie, w którym podkreślają, że wypowiedzi \"osób pełniących wysokie funkcje publiczne\", nie mogą mieć wpływu na ich orzecznictwo. \"Zgodnie z rotą ślubowania, które złożyliśmy, obejmując urząd sędziowski, służymy tylko narodowi, jesteśmy niezawiśli\" - zapewniają."
+    },
+    {
+      "title": "Spadł z peronu pod pociąg i zginął. Policja prosi o pomoc w ustaleniu tożsamości mężczyzny",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/tluszcz-spadl-z-peronu-pod-pociag-i-zginal-policja-prosi-o-pomoc-w-ustaleniu-tozsamosci-mezczyzny-st9169813?source=rss",
+      "pubDate": "Sun, 30 Aug 2026 12:57:00 GMT",
+      "description": "Na stacji kolejowej w Tłuszczu (powiat wołomiński) zginął mężczyzna potrącony przez pociąg. Do wypadku doszło 1 sierpnia, ale do dziś nie udało się ustalić jego tożsamości.",
+      "originalTitle": "Spadł z peronu pod pociąg i zginął. Policja prosi o pomoc w ustaleniu tożsamości mężczyzny",
+      "originalDescription": "Na stacji kolejowej w Tłuszczu (powiat wołomiński) zginął mężczyzna potrącony przez pociąg. Do wypadku doszło 1 sierpnia, ale do dziś nie udało się ustalić jego tożsamości."
+    }
+  ]
 }
