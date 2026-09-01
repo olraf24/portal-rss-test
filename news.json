@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-08-31T22:31:57.131Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-01T01:41:23.914Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Fałszywy alarm w jednostce wojskowej. Służby o zatrzymaniach",
+      "link": "https://tvn24.pl/polska/elblag-falszywy-alarm-w-jednostce-wojskowej-sluzby-o-zatrzymaniach-st9214818?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 19:55:55 GMT",
+      "description": "Służby zatrzymały dwie osoby podejrzane o wywołanie fałszywego alarmu na terenie jednostki wojskowej - poinformowała Żandarmeria Wojskowa.",
+      "originalTitle": "Fałszywy alarm w jednostce wojskowej. Służby o zatrzymaniach",
+      "originalDescription": "Służby zatrzymały dwie osoby podejrzane o wywołanie fałszywego alarmu na terenie jednostki wojskowej - poinformowała Żandarmeria Wojskowa."
+    },
+    {
+      "title": "Niemcy przeciw \"normalizacji\" relacji z Rosją. Kontrowersje podczas obrad G20",
+      "link": "https://tvn24.pl/biznes/ze-swiata/kontrowersje-podczas-obrad-g20-wicekanclerz-niemiec-skrytykowal-obecnosc-ministra-finansow-rosji-st9214827?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 19:50:06 GMT",
+      "description": "Udział rosyjskiego ministra finansów Antona Siłuanowa w obradach G20 jest próbą normalizacji stosunków Stanów Zjednoczonych z Rosją - ocenił wicekanclerz Niemiec Lars Klingbeil. Polityk w trakcie wydarzenia zagroził bojkotem wspólnego zdjęcia, a podczas spotkania wezwał Rosję do zakończenia wojny przeciwko Ukrainie.",
+      "originalTitle": "Niemcy przeciw \"normalizacji\" relacji z Rosją. Kontrowersje podczas obrad G20",
+      "originalDescription": "Udział rosyjskiego ministra finansów Antona Siłuanowa w obradach G20 jest próbą normalizacji stosunków Stanów Zjednoczonych z Rosją - ocenił wicekanclerz Niemiec Lars Klingbeil. Polityk w trakcie wydarzenia zagroził bojkotem wspólnego zdjęcia, a podczas spotkania wezwał Rosję do zakończenia wojny przeciwko Ukrainie."
+    },
+    {
+      "title": "Gdzie jest burza? Tu wieczorem wciąż grzmi",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-31-08-mapa-i-radar-burz-na-zywo-st9213578?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 08:20:01 GMT",
+      "description": "Gdzie jest burza? W poniedziałek 31.08 nad Polską pojawiają się wyładowania atmosferyczne. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu wieczorem wciąż grzmi",
+      "originalDescription": "Gdzie jest burza? W poniedziałek 31.08 nad Polską pojawiają się wyładowania atmosferyczne. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Krzysztof Wyszkowski odznaczony Orderem Orła Białego",
+      "link": "https://tvn24.pl/polska/krzysztof-wyszkowski-odznaczony-orderem-orla-bialego-st9214845?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 19:30:00 GMT",
+      "description": "Prezydent odznaczył w poniedziałek Krzysztofa Wyszkowskiego Orderem Orła Białego. - To wojownik z całą pewnością wierny swoim ideałom - mówił Karol Nawrocki o działaczu opozycji antykomunistycznej w trakcie uroczystości.",
+      "originalTitle": "Krzysztof Wyszkowski odznaczony Orderem Orła Białego",
+      "originalDescription": "Prezydent odznaczył w poniedziałek Krzysztofa Wyszkowskiego Orderem Orła Białego. - To wojownik z całą pewnością wierny swoim ideałom - mówił Karol Nawrocki o działaczu opozycji antykomunistycznej w trakcie uroczystości."
+    },
+    {
+      "title": "CPN dobiega końca. Kierowcy ruszyli na stacje paliw",
+      "link": "https://tvn24.pl/biznes/z-kraju/program-cpn-dobiega-konca-kierowcy-ruszyli-na-stacje-paliw-st9214807?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 19:19:46 GMT",
+      "description": "Poniedziałek jest ostatnim dniem obowiązywania programu Ceny Paliwa Niżej. Po przywróceniu podstawowej stawki VAT benzyna może podrożeć 1 września o około 80 groszy na litrze, a olej napędowy - o blisko 70 groszy. W związku z wygasaniem programu na stacjach paliw w całym kraju zaczęły tworzyć się kolejki.",
+      "originalTitle": "CPN dobiega końca. Kierowcy ruszyli na stacje paliw",
+      "originalDescription": "Poniedziałek jest ostatnim dniem obowiązywania programu Ceny Paliwa Niżej. Po przywróceniu podstawowej stawki VAT benzyna może podrożeć 1 września o około 80 groszy na litrze, a olej napędowy - o blisko 70 groszy. W związku z wygasaniem programu na stacjach paliw w całym kraju zaczęły tworzyć się kolejki."
+    },
+    {
+      "title": "Edouard Balladur nie żyje",
+      "link": "https://tvn24.pl/swiat/edouard-balladur-nie-zyje-mial-97-lat-st9214800?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 19:00:42 GMT",
+      "description": "Edouard Balladur, były premier Francji, nie żyje. Miał 97 lat - przekazała francuska agencja AFP, powołując się na rodzinę polityka.",
+      "originalTitle": "Edouard Balladur nie żyje",
+      "originalDescription": "Edouard Balladur, były premier Francji, nie żyje. Miał 97 lat - przekazała francuska agencja AFP, powołując się na rodzinę polityka."
+    },
+    {
+      "title": "Mogą kupić, ale wolą wynajmować. Nowy trend wśród najbogatszych",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-bogaci-rezygnuja-z-zakupu-mieszkan-luksusowy-najem-bije-rekordy-st9214688?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 19:00:40 GMT",
+      "description": "Napływ zamożnych najemców winduje czynsze na Manhattanie do rekordowych poziomów - wynika z danych cytowanych przez CNBC. Coraz więcej osób, które bez trudu mogłyby kupić nieruchomość, wybiera wynajem ze względu na ograniczoną podaż luksusowych mieszkań, niepewność inwestycyjną oraz dodatkowe obciążenia podatkowe.",
+      "originalTitle": "Mogą kupić, ale wolą wynajmować. Nowy trend wśród najbogatszych",
+      "originalDescription": "Napływ zamożnych najemców winduje czynsze na Manhattanie do rekordowych poziomów - wynika z danych cytowanych przez CNBC. Coraz więcej osób, które bez trudu mogłyby kupić nieruchomość, wybiera wynajem ze względu na ograniczoną podaż luksusowych mieszkań, niepewność inwestycyjną oraz dodatkowe obciążenia podatkowe."
+    },
+    {
+      "title": "Tragedia na krakowskim Podgórzu. Młodzi rodzice nie żyją, osierocili małe dziecko. \"Mam rozerwane serce\"",
+      "link": "https://tvn24.pl/krakow/tragedia-na-krakowskim-podgorzu-mlodzi-rodzice-nie-zyja-osierocili-male-dziecko-mam-rozerwane-serce-st9214490?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:59:13 GMT",
+      "description": "W wypadku na krakowskim Podgórzu zginęła para, która osierociła ośmiomiesięcznego syna. - Mam rozerwane serce, nie wiem, czy to się kiedyś zagoi - mówi ojciec tragicznie zmarłej kobiety. Sprawie przyjrzeli się reporterzy \"Uwagi!\" TVN. Rozmawiali z bliskimi ofiar i rodzicami kierowcy.",
+      "originalTitle": "Tragedia na krakowskim Podgórzu. Młodzi rodzice nie żyją, osierocili małe dziecko. \"Mam rozerwane serce\"",
+      "originalDescription": "W wypadku na krakowskim Podgórzu zginęła para, która osierociła ośmiomiesięcznego syna. - Mam rozerwane serce, nie wiem, czy to się kiedyś zagoi - mówi ojciec tragicznie zmarłej kobiety. Sprawie przyjrzeli się reporterzy \"Uwagi!\" TVN. Rozmawiali z bliskimi ofiar i rodzicami kierowcy."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Burze w Polsce w nocy",
+      "link": "https://tvn24.pl/tvnmeteo/pogoda/ostrzezenia-imgw-pogoda-w-polsce-burze-i-upal-na-koniec-wakacji-st9212421?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 04:42:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wciąż ostrzega przed burzami. Alarmy mają obowiązywać do późnych godzin nocnych we wtorek.",
+      "originalTitle": "Ostrzeżenia IMGW. Burze w Polsce w nocy",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wciąż ostrzega przed burzami. Alarmy mają obowiązywać do późnych godzin nocnych we wtorek."
+    },
+    {
+      "title": "Kto zyska, a kto straci na aferze Zondacrypto? Profesor Dudek o jednym \"beneficjencie\"",
+      "link": "https://tvn24.pl/polska/kto-zyska-a-kto-straci-na-aferze-zondacrypto-profesor-dudek-o-jednym-beneficjencie-st9214699?source=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:54:16 GMT",
+      "description": "Może się okazać, że to Grzegorz Braun będzie beneficjentem tej afery - ocenił profesor Antoni Dudek w \"Kropce nad i\" w TVN24, oceniając konsekwencje sprawy Zondacrypto dla prawicowych partii. Oszacował też jej wpływ na przyszłoroczne wybory parlamentarne.",
+      "originalTitle": "Kto zyska, a kto straci na aferze Zondacrypto? Profesor Dudek o jednym \"beneficjencie\"",
+      "originalDescription": "Może się okazać, że to Grzegorz Braun będzie beneficjentem tej afery - ocenił profesor Antoni Dudek w \"Kropce nad i\" w TVN24, oceniając konsekwencje sprawy Zondacrypto dla prawicowych partii. Oszacował też jej wpływ na przyszłoroczne wybory parlamentarne."
+    }
+  ]
 }
