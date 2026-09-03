@@ -1,8 +1,56 @@
 {
-  "lastUpdate": "2026-09-03T01:17:35.809Z",
+  "lastUpdate": "2026-09-03T06:11:44.837Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Spotkanie z Putinem? Trump stawia warunek",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/spotkanie-z-putinem-trump-stawia-warunek",
+      "pubDate": "Thu, 03 Sep 2026 07:56:47 +0200",
+      "description": "Donald Trump oświadczył, że chce kolejnego szczytu z Władimirem Putinem, ale dopiero wtedy, gdy Rosja i Ukraina będą gotowe do zawarcia układu pokojowego."
+    },
+    {
+      "title": "Czwartkowy przegląd mediów; Czy Polska obroni sojuszników?; Polska buduje ciężki BWP",
+      "link": "https://defence24.pl/polityka-obronna/czwartkowy-przeglad-mediow-czy-polska-obroni-sojusznikow-polska-buduje-ciezki-bwp",
+      "pubDate": "Thu, 03 Sep 2026 07:35:20 +0200",
+      "description": "Codzienny przegląd mediów sektora bezpieczeństwa i obronności."
+    },
+    {
+      "title": "Direct Action na MSPO 2026",
+      "link": "https://defence24.pl/operacja-szpej/direct-action-na-mspo-2026",
+      "pubDate": "Thu, 03 Sep 2026 07:30:02 +0200",
+      "description": "Na tegorocznym Międzynarodowym Salonie Przemysłu Obronnego MSPO 2026, który odbędzie się w dniach 8–11 września w Kielcach, tradycyjnie obecna będzie marka Direct Action. Na jej stoisku będzie można zobaczyć najnowsze produkty, poznać nowoczesne rozwiązania przeznaczone dla wojska, jednostek specjalnych i służb mundurowych oraz wziąć udział w prezentacjach konfiguracji wyposażenia prowadzonych przez byłych operatorów Jednostki Wojskowej GROM."
+    },
+    {
+      "title": "Kongres broni amerykańskiej jednostki dronowej w Europie",
+      "link": "https://defence24.pl/sily-zbrojne/kongres-broni-amerykanskiej-jednostki-dronowej-w-europie",
+      "pubDate": "Thu, 03 Sep 2026 07:23:55 +0200",
+      "description": "Ponadpartyjna grupa amerykańskich parlamentarzystów zażądała wyjaśnienia decyzji o zakończeniu specjalizacji dronowej jednego z batalionów 173. Brygady Powietrznodesantowej stacjonującej w Europie. Jednostka licząca około 600 żołnierzy miała wdrażać doświadczenia z wojny na Ukrainie i samodzielnie budowała bezzałogowce."
+    },
+    {
+      "title": "Strzelanina między ukraińskimi służbami. Zełenski reaguje",
+      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/strzelanina-miedzy-ukrainskimi-sluzbami-zelenski-reaguje",
+      "pubDate": "Thu, 03 Sep 2026 07:07:54 +0200",
+      "description": "W Kijowie doszło do wymiany ognia pomiędzy funkcjonariuszami Służby Bezpieczeństwa Ukrainy a żołnierzami wywiadu wojskowego HUR. Trzech ludzi HUR zostało rannych, dwóch z nich ciężko. Prezydent Wołodymyr Zełenski zażądał wyjaśnienia sprawy i odwołał szefa jednego z kluczowych departamentów SBU."
+    },
+    {
+      "title": "Nowa potężna broń Turcji. Będą w stanie uderzyć na głębokie zaplecze",
+      "link": "https://defence24.pl/przemysl/nowa-potezna-bron-turcji-beda-w-stanie-uderzyc-na-glebokie-zaplecze",
+      "pubDate": "Thu, 03 Sep 2026 07:00:01 +0200",
+      "description": "Aselsan pracuje nad rodziną amunicji typu deep strike, służącej do uderzeń na głębokim zapleczu przeciwnika, 1 września Aselsan przeprowadził zakończoną sukcesem demonstrację na poligonie Konya Karapınar."
+    },
+    {
+      "title": "Elektrotim prezentuje system Aquila na MSPO. Cyfrowe wsparcie tarczy wschodniej i infrastruktury krytycznej",
+      "link": "https://defence24.pl/sily-zbrojne/elektrotim-prezentuje-system-aquila-na-mspo-cyfrowe-wsparcie-tarczy-wschodniej-i-infrastruktury-krytycznej",
+      "pubDate": "Thu, 03 Sep 2026 06:30:01 +0200",
+      "description": "Podczas targów MSPO w Kielcach, wrocławska spółka Elektrotim S.A. prezentuje Aquilę – autorską platformę zarządzania bezpieczeństwem (klasy PSIM). To rozwijane od 26 lat polskie rozwiązanie, które stanowi obecnie cyfrowe zaplecze zabezpieczeń polskiej granicy wschodniej, a także setek obiektów infrastruktury krytycznej. System może być rozwijany i stać się kluczowym elementem w integracji Tarczy Wschód, pokrywając obszar znacznie szerszy niż tylko pas graniczny."
+    },
+    {
+      "title": "Nowy karabin maszynowy po testach. Trafi na wojskowe śmigłowce w Turcji",
+      "link": "https://defence24.pl/przemysl/nowy-karabin-maszynowy-po-testach-trafi-na-wojskowe-smiglowce-w-turcji",
+      "pubDate": "Thu, 03 Sep 2026 06:00:01 +0200",
+      "description": "Turecka firma MKE pomyślnie zakończyła testy uniwersalnego karabinu maszynowego MMT-76 w konfiguracji dostosowanej do użycia jako broń pokładowa na śmigłowcu."
+    },
     {
       "title": "Kto wygra wielki kontrakt? US Army szuka gąsienicowych armatohaubic samobieżnych",
       "link": "https://defence24.pl/przemysl/kto-wygra-wielki-kontrakt-us-army-szuka-gasienicowych-armatohaubic-samobieznych",
@@ -44,54 +92,6 @@
       "link": "https://defence24.pl/geopolityka/sabotaz-i-dywersja-wymagaja-naszej-reakcji-opinia",
       "pubDate": "Wed, 02 Sep 2026 16:00:01 +0200",
       "description": "Kolejne możliwe akty dywersji i sabotażu w Polsce oraz Europie nakazują dziś ponowne podkreślenie z jednej strony stanu naszego bezpieczeństwa, a z drugiej wskazania na środki, jakie powinno się podjąć na rzecz usprawnienia systemowego podejścia do istniejących zagrożeń. Trzeba być pewnym, że na kontynencie europejskim jest państwo, które ma na swojej liście celów różne elementy naszej infrastruktury i nie tylko, a jest nim Rosja, posiadająca co więcej doświadczenie i wolę podejmowania ryzyka w tego rodzaju tajnych operacjach."
-    },
-    {
-      "title": "Polska i Kanada dla bezpieczeństwa Europy. Międzyrządowa konferencja na MSPO 2026",
-      "link": "https://defence24.pl/przemysl/polska-i-kanada-dla-bezpieczenstwa-europy-miedzyrzadowa-konferencja-na-mspo-2026",
-      "pubDate": "Wed, 02 Sep 2026 15:40:02 +0200",
-      "description": "Współpraca w zakresie obronności, kooperacja sektorów zbrojeniowych, perspektywy inicjatywy SAFE oraz budowa transatlantyckich łańcuchów dostaw to główne tematy konferencji „Lead Nation Conference: Canada as a Trusted Defence Partner: Delivering Capabilities, Industrial Strength, and Allied Security”. Wydarzenie odbędzie się 9 września podczas targów MSPO 2026. Organizatorem konferencji jest Rząd Kanady we współpracy z Defence24.pl."
-    },
-    {
-      "title": "Amerykański samolot zwiadowczy nad Polską. Leci tuż przy granicy z Rosją",
-      "link": "https://defence24.pl/polityka-obronna/amerykanski-samolot-zwiadowczy-nad-polska-leci-tuz-przy-granicy-z-rosja",
-      "pubDate": "Wed, 02 Sep 2026 15:21:07 +0200",
-      "description": "We środę 2 września w godzinach porannych, amerykański samolot zwiadowczy, Bombardier ARTEMIS II, wyruszył z bazy w rumuńskiej Konstancy i leciał nad Polską aż do obwodu królewieckiego. Jego celem jest rutynowa misja zwiadowcza, choć szczegóły pozostają nieznane. W pierwszej części dnia samolot krążył w pobliżu granicy."
-    },
-    {
-      "title": "UE zapowiada uderzenie w rosyjskie firmy zbrojeniowe",
-      "link": "https://defence24.pl/polityka-obronna/ue-zapowiada-uderzenie-w-rosyjskie-firmy-zbrojeniowe",
-      "pubDate": "Wed, 02 Sep 2026 15:03:00 +0200",
-      "description": "W Irlandii trwa spotkanie ministrów spraw zagranicznych krajów Unii Europejskiej. Jednym z głównych tematów rozmów są kolejne rosyjskie akty sabotażu w Europie. Niewykluczone, że w ramach retorsji Unia zdecyduje się na nowe kroki prawne wobec Kremla i tamtejszego przemysłu zbrojeniowego."
-    },
-    {
-      "title": "Rosja z kolejnymi samolotami. Produkcja przewyższa straty",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/rosja-z-kolejnymi-samolotami-produkcja-przewyzsza-straty",
-      "pubDate": "Wed, 02 Sep 2026 14:45:02 +0200",
-      "description": "Pod koniec sierpnia rosyjski przemysł dostarczył kolejną partię myśliwców Su-35S – poinformowała agencja TASS na bazie komunikatu United Aircraft Corporation, części Rostechu."
-    },
-    {
-      "title": "Spotkanie Putin-Erdoğan. W tle rozmowy o gospodarce i Ukrainie",
-      "link": "https://defence24.pl/geopolityka/spotkanie-putin-erdogan-w-tle-rozmowy-o-gospodarce-i-ukrainie",
-      "pubDate": "Wed, 02 Sep 2026 14:32:39 +0200",
-      "description": "Władimir Putin i Recep Tayyip Erdoğan spotkali się na marginesie szczytu Szanghajskiej Organizacji Współpracy. Obaj politycy skupili się głównie na sprawach gospodarczych, a Putin nazwał Turcję „uprzywilejowanym partnerem” Moskwy. Podczas wydarzenia Putin odniósł się również do kwestii wojny na Ukrainie."
-    },
-    {
-      "title": "Fedorow ogłosił budowę własnej firmy zbrojeniowej. Wspólnie z Palantirem",
-      "link": "https://defence24.pl/przemysl/fedorow-oglosil-budowe-wlasnej-firmy-zbrojeniowej-wspolnie-z-palantirem",
-      "pubDate": "Wed, 02 Sep 2026 14:15:01 +0200",
-      "description": "Były minister obrony Ukrainy Mychajło Fedorow ogłosił we wtorek budowę własnej firmy zajmującej się technologiami obronnymi. Pierwszym poważnym inwestorem będzie Alex Karp, prezes amerykańskiego giganta technologicznego Palantir, oferującego m.in. oprogramowanie dla wojska."
-    },
-    {
-      "title": "Domański: pieniądze na stałą bazę USA w Polsce się znajdą",
-      "link": "https://defence24.pl/polityka-obronna/domanski-pieniadze-na-stala-baze-usa-w-polsce-sie-znajda",
-      "pubDate": "Wed, 02 Sep 2026 14:00:01 +0200",
-      "description": "Jeśli zapadną decyzje polityczne, środki na konstrukcję stałej bazy wojsk USA w Polsce znajdą się w budżecie – powiedział PAP minister finansów RP Andrzej Domański. Zaznaczył, że bezpieczeństwo jest priorytetem, jeśli chodzi o budżet państwa."
-    },
-    {
-      "title": "Bałtowie budują swoją „Tarczę Wschód”. Połączy się z naszymi umocnieniami",
-      "link": "https://defence24.pl/polityka-obronna/baltowie-buduja-swoja-tarcze-wschod-polaczy-sie-z-naszymi-umocnieniami",
-      "pubDate": "Wed, 02 Sep 2026 13:45:00 +0200",
-      "description": "W regionie Balvi na północnym wschodzie Łotwy, przy granicy z Rosją, rozpoczęły się prace związane z budową Bałtyckiej Linii Obrony, czyli ciągu umocnień planowanych wzdłuż wschodnich granic krajów bałtyckich – poinformowała we wtorek łotewska Agencja Nieruchomości Państwowych."
     }
   ]
 }
