@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-05T17:09:58.803Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-05T19:16:32.941Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Recz. Silny wiatr na dożynkach. Cztery osoby ranne, w tym jedna ciężko",
+      "link": "https://tvn24.pl/tvnmeteo/polska/recz-zachodniopomorskie-silny-wiatr-na-dozynkach-cztery-osoby-ranne-w-tym-jedna-ciezko-st9223374?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 16:18:24 GMT",
+      "description": "W Reczu w województwie zachodniopomorskim cztery osoby zostały ranne po tym, jak w czasie obchodów dożynek gminnych zerwał się silny wiatr. Obrażenia jednej z osób są ciężkie.",
+      "originalTitle": "Recz. Silny wiatr na dożynkach. Cztery osoby ranne, w tym jedna ciężko",
+      "originalDescription": "W Reczu w województwie zachodniopomorskim cztery osoby zostały ranne po tym, jak w czasie obchodów dożynek gminnych zerwał się silny wiatr. Obrażenia jednej z osób są ciężkie."
+    },
+    {
+      "title": "Gdzie jest burza? Tu wciąż słychać grzmoty",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-pogoda-w-polsce-w-sobote-5-09-mapa-i-radar-wyladowan-st9223042?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 11:22:31 GMT",
+      "description": "Gdzie jest burza? W sobotę 5.09 są wieczorem jeszcze takie miejsca, gdzie słychać grzmoty. Burzom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu wciąż słychać grzmoty",
+      "originalDescription": "Gdzie jest burza? W sobotę 5.09 są wieczorem jeszcze takie miejsca, gdzie słychać grzmoty. Burzom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Kolejni zatrzymani w sprawie Zondacrypto, w tym urzędujący marszałek województwa",
+      "link": "https://tvn24.pl/polska/kolejna-osoba-zatrzymana-w-sprawie-zondacrypto-waldemar-zurek-trwaja-przeszukania-st9223425?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 18:03:07 GMT",
+      "description": "W śledztwie w sprawie Zondacrypto zatrzymany został Roman Ż. - poinformowała Prokuratura Krajowa. Wcześniej kolejne zatrzymanie potwierdził reporterowi \"Superwizjera\" Maciejowi Dudzie minister sprawiedliwości Waldemar Żurek. Dziennikarz wraz z Robertem Zielińskim z tvn24.pl dowiedzieli się, że zatrzymany został również marszałek województwa lubelskiego i były poseł PiS Jarosław S.",
+      "originalTitle": "Kolejni zatrzymani w sprawie Zondacrypto, w tym urzędujący marszałek województwa",
+      "originalDescription": "W śledztwie w sprawie Zondacrypto zatrzymany został Roman Ż. - poinformowała Prokuratura Krajowa. Wcześniej kolejne zatrzymanie potwierdził reporterowi \"Superwizjera\" Maciejowi Dudzie minister sprawiedliwości Waldemar Żurek. Dziennikarz wraz z Robertem Zielińskim z tvn24.pl dowiedzieli się, że zatrzymany został również marszałek województwa lubelskiego i były poseł PiS Jarosław S."
+    },
+    {
+      "title": "Wizyta przedstawicieli USA w Moskwie. Wołodymyr Zełenski: jesteśmy gotowi przestrzegać zawieszenia broni",
+      "link": "https://tvn24.pl/swiat/wizyta-przedstawicieli-usa-w-moskwie-wolodymyr-zelenski-jestesmy-gotowi-przestrzegac-zawieszenia-broni-st9223408?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 17:41:24 GMT",
+      "description": "Jesteśmy gotowi do poniedziałku przestrzegać zawieszenia broni w zakresie ataków powietrznych na miasta zaangażowane w proces negocjacyjny - poinformował prezydent Ukrainy Wołodymyr Zełenski. Zapowiedź ma związek z wizytą wysłanników prezydenta USA Donalda Trumpa w Moskwie, skąd mają przybyć do Kijowa.",
+      "originalTitle": "Wizyta przedstawicieli USA w Moskwie. Wołodymyr Zełenski: jesteśmy gotowi przestrzegać zawieszenia broni",
+      "originalDescription": "Jesteśmy gotowi do poniedziałku przestrzegać zawieszenia broni w zakresie ataków powietrznych na miasta zaangażowane w proces negocjacyjny - poinformował prezydent Ukrainy Wołodymyr Zełenski. Zapowiedź ma związek z wizytą wysłanników prezydenta USA Donalda Trumpa w Moskwie, skąd mają przybyć do Kijowa."
+    },
+    {
+      "title": "Kreml eskaluje napięcie. \"Tak działa rosyjska władza\"",
+      "link": "https://tvn24.pl/swiat/niemcy-incydenty-na-lotnisku-w-lipsku-kreml-eskaluje-napiecie-odpowiedz-zachodu-st9218974?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 16:52:05 GMT",
+      "description": "Drony na lotnisku w Lipsku, które miało być bezpieczną przystanią dla samolotów z Ukrainy, przerzuconych do Niemiec po wybuchu wojny, są dowodem, jak daleko może sięgnąć Rosja. Kreml eskaluje napięcie w państwach europejskich, a liczba aktów dywersji i sabotażu rośnie. - To forma prowokacji i testowania, na ile jesteśmy odporni, jak reagujemy - mówi Marek Menkiszak z Ośrodka Studiów Wschodnich.",
+      "originalTitle": "Kreml eskaluje napięcie. \"Tak działa rosyjska władza\"",
+      "originalDescription": "Drony na lotnisku w Lipsku, które miało być bezpieczną przystanią dla samolotów z Ukrainy, przerzuconych do Niemiec po wybuchu wojny, są dowodem, jak daleko może sięgnąć Rosja. Kreml eskaluje napięcie w państwach europejskich, a liczba aktów dywersji i sabotażu rośnie. - To forma prowokacji i testowania, na ile jesteśmy odporni, jak reagujemy - mówi Marek Menkiszak z Ośrodka Studiów Wschodnich."
+    },
+    {
+      "title": "Waldemar Żurek o \"niedopuszczalnej sytuacji\" wobec generała Piotra Pytla. Podjął kroki",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-o-niedopuszczalnej-sytuacji-wobec-generala-piotra-pytla-podjal-kroki-st9223371?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 16:10:37 GMT",
+      "description": "Sytuacja, w której znalazł się dzisiaj generał Piotr Pytel, jest niedopuszczalna - ocenił minister sprawiedliwości Waldemar Żurek. Jak ustaliło wcześniej tvn24.pl, generał został zatrzymany na lotnisku przez Straż Graniczną w związku z orzeczonym zakazem opuszczania kraju w śledztwie, które dwa lata temu prawomocnie umorzono.",
+      "originalTitle": "Waldemar Żurek o \"niedopuszczalnej sytuacji\" wobec generała Piotra Pytla. Podjął kroki",
+      "originalDescription": "Sytuacja, w której znalazł się dzisiaj generał Piotr Pytel, jest niedopuszczalna - ocenił minister sprawiedliwości Waldemar Żurek. Jak ustaliło wcześniej tvn24.pl, generał został zatrzymany na lotnisku przez Straż Graniczną w związku z orzeczonym zakazem opuszczania kraju w śledztwie, które dwa lata temu prawomocnie umorzono."
+    },
+    {
+      "title": "Ulicą płynęła woda, w ogródku zrobiło się biało. Nagranie",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ulica-plynela-woda-w-ogrodku-zrobilo-sie-bialo-nagranie-st9223350?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 16:00:02 GMT",
+      "description": "Sobota w niektórych regionach Polski jest burzowa. Gwałtowne pogorszenie pogody można zobaczyć na nagraniu z województwa warmińsko-mazurskiego.",
+      "originalTitle": "Ulicą płynęła woda, w ogródku zrobiło się biało. Nagranie",
+      "originalDescription": "Sobota w niektórych regionach Polski jest burzowa. Gwałtowne pogorszenie pogody można zobaczyć na nagraniu z województwa warmińsko-mazurskiego."
+    },
+    {
+      "title": "Wypadek polskiego autokaru z pielgrzymami na Węgrzech. \"Wszyscy są już dalej w drodze\"",
+      "link": "https://tvn24.pl/swiat/wypadek-polskiego-autokaru-z-pielgrzymami-na-wegrzech-wszyscy-sa-juz-dalej-w-drodze-st9223253?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 12:48:19 GMT",
+      "description": "Doszło do wypadku polskiego autokaru z pielgrzymami w Zalaloevoe w zachodniej części Węgier. Osiem osób odniosło lekkie obrażenia - poinformował rzecznik MSZ Maciej Wewiór. Jak przekazał, wszyscy pasażerowie są już w drodze do Polski.",
+      "originalTitle": "Wypadek polskiego autokaru z pielgrzymami na Węgrzech. \"Wszyscy są już dalej w drodze\"",
+      "originalDescription": "Doszło do wypadku polskiego autokaru z pielgrzymami w Zalaloevoe w zachodniej części Węgier. Osiem osób odniosło lekkie obrażenia - poinformował rzecznik MSZ Maciej Wewiór. Jak przekazał, wszyscy pasażerowie są już w drodze do Polski."
+    },
+    {
+      "title": "Upał powróci. Już wkrótce będzie nawet 30 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-upal-powroci-juz-wkrotce-bedzie-nawet-30-stopni-st9223279?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 14:44:54 GMT",
+      "description": "Końcówka weekendu będzie jeszcze chłodna, ale wraz z początkiem nowego tygodnia zacznie robić się coraz cieplej. Będą takie dni, kiedy temperatura sięgnie 30 stopni Celsjusza, ale pojawią się też nawałnice.",
+      "originalTitle": "Upał powróci. Już wkrótce będzie nawet 30 stopni",
+      "originalDescription": "Końcówka weekendu będzie jeszcze chłodna, ale wraz z początkiem nowego tygodnia zacznie robić się coraz cieplej. Będą takie dni, kiedy temperatura sięgnie 30 stopni Celsjusza, ale pojawią się też nawałnice."
+    },
+    {
+      "title": "Powietrzny atak Rosji na Ukrainę. Był alert RCB dla dwóch województw",
+      "link": "https://tvn24.pl/polska/powietrzny-atak-rosji-na-ukraine-byl-alert-rcb-dla-dwoch-wojewodztw-st9223296?source=rss",
+      "pubDate": "Sat, 05 Sep 2026 13:12:33 GMT",
+      "description": "W odpowiedzi na rosyjski atak powietrzny na Ukrainę Rządowe Centrum Bezpieczeństwa wysłało alert do mieszkańców województwa lubelskiego i podkarpackiego. \"Sytuacja jest monitorowana. W przestrzeni RP operuje polskie lotnictwo\" - poinformowano. Alert został już odwołany.",
+      "originalTitle": "Powietrzny atak Rosji na Ukrainę. Był alert RCB dla dwóch województw",
+      "originalDescription": "W odpowiedzi na rosyjski atak powietrzny na Ukrainę Rządowe Centrum Bezpieczeństwa wysłało alert do mieszkańców województwa lubelskiego i podkarpackiego. \"Sytuacja jest monitorowana. W przestrzeni RP operuje polskie lotnictwo\" - poinformowano. Alert został już odwołany."
+    }
+  ]
 }
