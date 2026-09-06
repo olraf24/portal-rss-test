@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-06T12:14:30.475Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-06T15:38:19.476Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Wypadek na drodze krajowej. Trzy osoby w szpitalu",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/golub-dobrzyn-wypadek-na-dk15-trzy-osoby-w-szpitalu-st9224184?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 15:05:19 GMT",
+      "description": "Na drodze krajowej numer 15 zderzyły się czołowo dwa samochody osobowe. Trzy osoby trafiły do szpitali, jedna z nich śmigłowcem Lotniczego Pogotowia Ratunkowego.",
+      "originalTitle": "Wypadek na drodze krajowej. Trzy osoby w szpitalu",
+      "originalDescription": "Na drodze krajowej numer 15 zderzyły się czołowo dwa samochody osobowe. Trzy osoby trafiły do szpitali, jedna z nich śmigłowcem Lotniczego Pogotowia Ratunkowego."
+    },
+    {
+      "title": "Wysłannicy Donalda Trumpa w Kijowie. Koniec pierwszej rundy rozmów",
+      "link": "https://tvn24.pl/swiat/rozmowy-w-kijowie-spotkanie-wolodymyra-zelenskiego-z-wyslannikami-donalda-trumpa-st9224085?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 12:42:22 GMT",
+      "description": "Jared Kushner i Steve Witkoff są w Kijowie, gdzie spotkali się z prezydentem Wołodymyrem Zełenskim. Właśnie zakończyła się pierwsza runda rozmów.",
+      "originalTitle": "Wysłannicy Donalda Trumpa w Kijowie. Koniec pierwszej rundy rozmów",
+      "originalDescription": "Jared Kushner i Steve Witkoff są w Kijowie, gdzie spotkali się z prezydentem Wołodymyrem Zełenskim. Właśnie zakończyła się pierwsza runda rozmów."
+    },
+    {
+      "title": "Roman Ż. doprowadzony do prokuratury. Minister sprawiedliwości: ma bardzo dużo do powiedzenia",
+      "link": "https://tvn24.pl/polska/sledztwo-w-sprawie-zondacrypto-roman-z-doprowadzony-do-prokuratury-st9223641?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 08:18:24 GMT",
+      "description": "Roman Ż. został doprowadzony do prokuratury krajowej w Katowicach. Chodzi o śledztwo dotyczące giełdy kryptowalut Zondacrypto. Minister sprawiedliwości Waldemar Żurek poinformował, że działania służb zostały przyspieszone w związku z pozyskaną przez funkcjonariuszy informacją o planach ucieczki Ż. do Chin.",
+      "originalTitle": "Roman Ż. doprowadzony do prokuratury. Minister sprawiedliwości: ma bardzo dużo do powiedzenia",
+      "originalDescription": "Roman Ż. został doprowadzony do prokuratury krajowej w Katowicach. Chodzi o śledztwo dotyczące giełdy kryptowalut Zondacrypto. Minister sprawiedliwości Waldemar Żurek poinformował, że działania służb zostały przyspieszone w związku z pozyskaną przez funkcjonariuszy informacją o planach ucieczki Ż. do Chin."
+    },
+    {
+      "title": "Pogoda na 16 dni: idzie do nas wrześniowy upał",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-idzie-do-nas-upal-prognoza-dlugoterminowa-tomasza-wasilewskiego-na-pierwsza-polowe-wrzesnia-st9224183?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 14:46:22 GMT",
+      "description": "Gorące powietrze wedrze się do centrum Europy. Długoterminowa prognoza pogody na 16 dni, przygotowana przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego, pokazuje, co czeka nas w kolejnych tygodniach września.",
+      "originalTitle": "Pogoda na 16 dni: idzie do nas wrześniowy upał",
+      "originalDescription": "Gorące powietrze wedrze się do centrum Europy. Długoterminowa prognoza pogody na 16 dni, przygotowana przez synoptyka i prezentera tvnmeteo.pl Tomasza Wasilewskiego, pokazuje, co czeka nas w kolejnych tygodniach września."
+    },
+    {
+      "title": "Katastrofa na Fogo. Autobus z dziećmi runął do wąwozu, co najmniej 25 osób nie żyje",
+      "link": "https://tvn24.pl/swiat/wyspy-zielonego-przyladka-katastrofa-na-fogo-autobus-z-dziecmi-runal-do-wawozu-st9224180?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 14:29:17 GMT",
+      "description": "Co najmniej 25 osób, głównie dzieci, zginęło w wypadku autobusu na wyspie Fogo w Republice Zielonego Przylądka. Prezydent kraju nazwał zdarzenie \"wielką katastrofą\".",
+      "originalTitle": "Katastrofa na Fogo. Autobus z dziećmi runął do wąwozu, co najmniej 25 osób nie żyje",
+      "originalDescription": "Co najmniej 25 osób, głównie dzieci, zginęło w wypadku autobusu na wyspie Fogo w Republice Zielonego Przylądka. Prezydent kraju nazwał zdarzenie \"wielką katastrofą\"."
+    },
+    {
+      "title": "Wulkan sparaliżował ruch lotniczy. Ponad 150 tysięcy osób uwięzionych na lotniskach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/indonezja-wulkan-anak-krakatau-sparalizowal-ruch-lotniczy-chca-zasiewac-chmury-by-zmyc-popiol-st9223588?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 08:37:25 GMT",
+      "description": "Erupcja wulkanu Anak Krakatau sparaliżowała ruch lotniczy w Indonezji. W niedzielne popołudnie już 150 tysięcy pasażerów utknęło w kraju, po tym jak rząd nakazał zawiesić loty. Władze próbują zasiewać chmury, by pozbyć się pyłu wulkanicznego.",
+      "originalTitle": "Wulkan sparaliżował ruch lotniczy. Ponad 150 tysięcy osób uwięzionych na lotniskach",
+      "originalDescription": "Erupcja wulkanu Anak Krakatau sparaliżowała ruch lotniczy w Indonezji. W niedzielne popołudnie już 150 tysięcy pasażerów utknęło w kraju, po tym jak rząd nakazał zawiesić loty. Władze próbują zasiewać chmury, by pozbyć się pyłu wulkanicznego."
+    },
+    {
+      "title": "Producent Jaguara planuje zwolnienia? Trudna sytuacja spółki",
+      "link": "https://tvn24.pl/biznes/moto/media-jaguar-land-rover-planuje-redukcje-czterech-tysiecy-etatow-st9224124?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 14:02:57 GMT",
+      "description": "Tysiącom pracowników brytyjskiej spółki Jaguar Land Rover grozi zwolnienie - donoszą media. Producent samochodów odnotował gwałtowny spadek zysków w minionym roku finansowym, co jest skutkiem niskiej sprzedaży, cyberataku oraz ceł prezydenta USA Donalda Trumpa.",
+      "originalTitle": "Producent Jaguara planuje zwolnienia? Trudna sytuacja spółki",
+      "originalDescription": "Tysiącom pracowników brytyjskiej spółki Jaguar Land Rover grozi zwolnienie - donoszą media. Producent samochodów odnotował gwałtowny spadek zysków w minionym roku finansowym, co jest skutkiem niskiej sprzedaży, cyberataku oraz ceł prezydenta USA Donalda Trumpa."
+    },
+    {
+      "title": "Tajfun Saudel. Lawina błotna zeszła na wioskę, są ofiary i zaginieni",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/chiny-tajfun-sprowadzil-smiertelna-lawine-blotna-st9224155?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:48:47 GMT",
+      "description": "Ulewny deszcz doprowadził do lawiny błotnej w prowincji Jiangxi w południowo-wschodnich Chinach. Zginęły trzy osoby, a dziewięć kolejnych wciąż jest poszukiwanych.",
+      "originalTitle": "Tajfun Saudel. Lawina błotna zeszła na wioskę, są ofiary i zaginieni",
+      "originalDescription": "Ulewny deszcz doprowadził do lawiny błotnej w prowincji Jiangxi w południowo-wschodnich Chinach. Zginęły trzy osoby, a dziewięć kolejnych wciąż jest poszukiwanych."
+    },
+    {
+      "title": "Zmiana w kontrolach EES. Co czeka podróżnych?",
+      "link": "https://tvn24.pl/biznes/turystyka/pelne-funkcjonowanie-systemu-ees-od-6-wrzesnia-koniec-elastycznych-procedur-na-granicach-st9224084?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:42:56 GMT",
+      "description": "Podróżujący do Unii Europejskiej mogą ponownie stanąć w kolejkach na granicach po tym, jak 6 września wygasną nadzwyczajne środki elastyczności unijnego systemu EES (Entry/Exit System). Według niektórych źródeł państwa członkowskie nie będą jednak egzekwowały kontroli biometrycznych - donosi \"The Guardian\".",
+      "originalTitle": "Zmiana w kontrolach EES. Co czeka podróżnych?",
+      "originalDescription": "Podróżujący do Unii Europejskiej mogą ponownie stanąć w kolejkach na granicach po tym, jak 6 września wygasną nadzwyczajne środki elastyczności unijnego systemu EES (Entry/Exit System). Według niektórych źródeł państwa członkowskie nie będą jednak egzekwowały kontroli biometrycznych - donosi \"The Guardian\"."
+    },
+    {
+      "title": "Pociągi metra z nowym oświetleniem",
+      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-pociagi-metra-z-nowym-oswietleniem-montowane-sa-lampy-led-st9224083?source=rss",
+      "pubDate": "Sun, 06 Sep 2026 13:26:19 GMT",
+      "description": "18 pociągów metra zyska nowe oświetlenie sufitowe. Montowane są w nich lampy ledowe, które dają lepsze światło i są energooszczędne. Pierwszy skład z wymienionym oświetleniem wyjechał już w trasę.",
+      "originalTitle": "Pociągi metra z nowym oświetleniem",
+      "originalDescription": "18 pociągów metra zyska nowe oświetlenie sufitowe. Montowane są w nich lampy ledowe, które dają lepsze światło i są energooszczędne. Pierwszy skład z wymienionym oświetleniem wyjechał już w trasę."
+    }
+  ]
 }
