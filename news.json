@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-07T00:42:27.547Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-07T05:43:38.164Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Karambol na Południowej Obwodnicy Warszawy, duże utrudnienia",
+      "link": "https://tvn24.pl/tvnwarszawa/wawer/karambol-na-poludniowej-obwodnicy-warszawy-duze-utrudnienia-st9224479?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 05:25:15 GMT",
+      "description": "Na wawerskim odcinku trasy S2 zderzyło się kilka pojazdów. Straż pożarna informuje, że nie ma osób rannych, ale są duże utrudnienia w ruchu.",
+      "originalTitle": "Karambol na Południowej Obwodnicy Warszawy, duże utrudnienia",
+      "originalDescription": "Na wawerskim odcinku trasy S2 zderzyło się kilka pojazdów. Straż pożarna informuje, że nie ma osób rannych, ale są duże utrudnienia w ruchu."
+    },
+    {
+      "title": "Boją się ceł, ale ich chcą. Kanadyjczycy wyrazili opinię",
+      "link": "https://tvn24.pl/biznes/ze-swiata/kanada-wprowadzi-cla-odwetowe-jaka-opinie-maja-kanadyjczycy-nowy-sondaz-st9224474?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 05:20:31 GMT",
+      "description": "Cła odwetowe Kanady na import wielu towarów z USA wejdą w życie we wtorek, co jest powodem do obaw dla większości Kanadyjczyków. Mimo tego 80 procent z nich popiera w różnym stopniu decyzję Ottawy o ich wprowadzeniu - wynika z opublikowanego w weekend sondażu.",
+      "originalTitle": "Boją się ceł, ale ich chcą. Kanadyjczycy wyrazili opinię",
+      "originalDescription": "Cła odwetowe Kanady na import wielu towarów z USA wejdą w życie we wtorek, co jest powodem do obaw dla większości Kanadyjczyków. Mimo tego 80 procent z nich popiera w różnym stopniu decyzję Ottawy o ich wprowadzeniu - wynika z opublikowanego w weekend sondażu."
+    },
+    {
+      "title": "Nowa nazwa dla Nowego Meksyku. Trump ma pomysł",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-chce-zmienic-nazwe-stanu-nowy-meksyk-zaproponowal-zmiane-st9224453?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 04:46:18 GMT",
+      "description": "Prezydent USA Donald Trump zaproponował kolejną zmianę nazwy geograficznej - na swoim profilu w serwisie Truth Social zamieścił mapę z przekreśloną nazwą stanu Nowy Meksyk. We wpisie zasugerował zmianę na \"Nowa Ameryka\". Lokalni politycy wyrazili sprzeciw.",
+      "originalTitle": "Nowa nazwa dla Nowego Meksyku. Trump ma pomysł",
+      "originalDescription": "Prezydent USA Donald Trump zaproponował kolejną zmianę nazwy geograficznej - na swoim profilu w serwisie Truth Social zamieścił mapę z przekreśloną nazwą stanu Nowy Meksyk. We wpisie zasugerował zmianę na \"Nowa Ameryka\". Lokalni politycy wyrazili sprzeciw."
+    },
+    {
+      "title": "Prognoza zagrożeń IMGW. Ma wrócić upał, ale w towarzystwie burz i ulew",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-upal-burze-i-silny-deszcz-tu-mozliwe-sa-ostrzezenia-imgw-st9224351?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 04:39:00 GMT",
+      "description": "IMGW opublikował prognozę zagrożeń na nadchodzące dni. Drugi tydzień września przyniesie nam chwilowy podmuch ciepła. Wydane mogą zostać ostrzeżenia przed upałami, ale spodziewane są także intensywne opady i burze.",
+      "originalTitle": "Prognoza zagrożeń IMGW. Ma wrócić upał, ale w towarzystwie burz i ulew",
+      "originalDescription": "IMGW opublikował prognozę zagrożeń na nadchodzące dni. Drugi tydzień września przyniesie nam chwilowy podmuch ciepła. Wydane mogą zostać ostrzeżenia przed upałami, ale spodziewane są także intensywne opady i burze."
+    },
+    {
+      "title": "Von der Leyen na Grenlandii. UE chce tam zwiększyć inwestycje",
+      "link": "https://tvn24.pl/swiat/von-der-leyen-na-grenlandii-ue-chce-tam-zwiekszyc-inwestycje-st9224432?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 04:35:42 GMT",
+      "description": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen ma w poniedziałek ogłosić zwiększenie inwestycji UE na Grenlandii oraz zacieśnienie więzi politycznych z duńskim terytorium arktycznym, które według Donalda Trumpa powinno należeć do Stanów Zjednoczonych.",
+      "originalTitle": "Von der Leyen na Grenlandii. UE chce tam zwiększyć inwestycje",
+      "originalDescription": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen ma w poniedziałek ogłosić zwiększenie inwestycji UE na Grenlandii oraz zacieśnienie więzi politycznych z duńskim terytorium arktycznym, które według Donalda Trumpa powinno należeć do Stanów Zjednoczonych."
+    },
+    {
+      "title": "Prawdziwa mapa skarbów. Chiny twierdzą, że ją stworzyły",
+      "link": "https://tvn24.pl/swiat/morze-poludniowochinskie-dokladna-mapa-ktora-maja-miec-tylko-chiny-st9213881?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 04:34:31 GMT",
+      "description": "Chiny twierdzą, że stworzyły pierwszą dokładną mapę dna Morza Południowochińskiego. To obszar o globalnym znaczeniu, którego znajomość była dotąd zaskakująco słaba. Dlatego efekt chińskich prac mógłby okazać się prawdziwą \"mapą skarbów\".",
+      "originalTitle": "Prawdziwa mapa skarbów. Chiny twierdzą, że ją stworzyły",
+      "originalDescription": "Chiny twierdzą, że stworzyły pierwszą dokładną mapę dna Morza Południowochińskiego. To obszar o globalnym znaczeniu, którego znajomość była dotąd zaskakująco słaba. Dlatego efekt chińskich prac mógłby okazać się prawdziwą \"mapą skarbów\"."
+    },
+    {
+      "title": "Najpierw w Moskwie, potem w Kijowie. \"Rosjanom powiedziano, że sankcje mogą być zniesione\"",
+      "link": "https://tvn24.pl/swiat/wyslannicy-donalda-trumpa-steve-witkoff-i-jared-kushner-byli-w-rosji-i-w-ukrainie-komentarze-st9224433?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 04:20:32 GMT",
+      "description": "Prezydent Zełenski stwierdził, że wojna będzie w zimie trwała, czyli nadzieje na szybkie zawieszenie broni raczej są niewielkie - ocenia efekty rozmów Steve'a Witkoffa i Jareda Kushnera w Moskwie i Kijowie Jerzy Marek Nowakowski, były ambasador na Łotwie i w Armenii. Rosną obawy o sytuację zimą w Ukrainie, a jednocześnie piętrzą się problemy w Rosji.",
+      "originalTitle": "Najpierw w Moskwie, potem w Kijowie. \"Rosjanom powiedziano, że sankcje mogą być zniesione\"",
+      "originalDescription": "Prezydent Zełenski stwierdził, że wojna będzie w zimie trwała, czyli nadzieje na szybkie zawieszenie broni raczej są niewielkie - ocenia efekty rozmów Steve'a Witkoffa i Jareda Kushnera w Moskwie i Kijowie Jerzy Marek Nowakowski, były ambasador na Łotwie i w Armenii. Rosną obawy o sytuację zimą w Ukrainie, a jednocześnie piętrzą się problemy w Rosji."
+    },
+    {
+      "title": "Szok albo euforia. Tak świat reaguje po zwycięstwie AfD",
+      "link": "https://tvn24.pl/swiat/szok-albo-euforia-tak-swiat-reaguje-po-zwyciestwie-afd-st9224425?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 04:15:41 GMT",
+      "description": "Jedni mówią o sygnale ostrzegawczym, inni o tragedii. Zwycięstwo Alternatywy dla Niemiec w wyborach regionalnych w Saksonii-Anhalcie komentują politycy na całym świecie. Viktor Orban zapowiada, że to dopiero początek, a Peter Fiala mówi o zagrożeniu dla demokracji.",
+      "originalTitle": "Szok albo euforia. Tak świat reaguje po zwycięstwie AfD",
+      "originalDescription": "Jedni mówią o sygnale ostrzegawczym, inni o tragedii. Zwycięstwo Alternatywy dla Niemiec w wyborach regionalnych w Saksonii-Anhalcie komentują politycy na całym świecie. Viktor Orban zapowiada, że to dopiero początek, a Peter Fiala mówi o zagrożeniu dla demokracji."
+    },
+    {
+      "title": "Zondacrypto a ludzie prawicy. Najważniejsze fakty z kryptoafery",
+      "link": "https://tvn24.pl/polska/zondacrypto-a-ludzie-prawicy-najwazniejsze-fakty-z-kryptoafery-st9224434?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 03:52:17 GMT",
+      "description": "Setki milionów złotych straciły osoby, które zainwestowały w kryptowaluty na giełdzie Zondacrypto. Zaufały, bo jej nazwa pojawiała się między innymi na wydarzeniach, w których uczestniczył prezydent Karol Nawrocki. Reporter \"Faktów\" TVN Michał Tracz-Koszela prześledził całą siatkę powiązań z politykami, którzy mieli zapewnić bezkarność i brak regulacji na rynku kryptowalut.",
+      "originalTitle": "Zondacrypto a ludzie prawicy. Najważniejsze fakty z kryptoafery",
+      "originalDescription": "Setki milionów złotych straciły osoby, które zainwestowały w kryptowaluty na giełdzie Zondacrypto. Zaufały, bo jej nazwa pojawiała się między innymi na wydarzeniach, w których uczestniczył prezydent Karol Nawrocki. Reporter \"Faktów\" TVN Michał Tracz-Koszela prześledził całą siatkę powiązań z politykami, którzy mieli zapewnić bezkarność i brak regulacji na rynku kryptowalut."
+    },
+    {
+      "title": "AfD wygrywa regionalne wybory, rozmowy w Kijowie, przesłuchanie w sprawie Zondacrypto",
+      "link": "https://tvn24.pl/swiat/piec-rzeczy-ktore-warto-wiedziec-w-poniedzialek-7-wrzesnia-2026-najwazniejsze-informacje-st9224418?source=rss",
+      "pubDate": "Mon, 07 Sep 2026 03:23:35 GMT",
+      "description": "Alternatywa dla Niemiec wyraźnie wygrała wybory regionalne w Saksonii-Anhalt. Do Kijowa na rozmowy z prezydentem Ukrainy przyjechali Jared Kushner i Steve Witkoff. Roman Ż. został przesłuchany w sprawie afery Zondacrypto. Zobacz, co jeszcze warto wiedzieć w poniedziałek 7 września.",
+      "originalTitle": "AfD wygrywa regionalne wybory, rozmowy w Kijowie, przesłuchanie w sprawie Zondacrypto",
+      "originalDescription": "Alternatywa dla Niemiec wyraźnie wygrała wybory regionalne w Saksonii-Anhalt. Do Kijowa na rozmowy z prezydentem Ukrainy przyjechali Jared Kushner i Steve Witkoff. Roman Ż. został przesłuchany w sprawie afery Zondacrypto. Zobacz, co jeszcze warto wiedzieć w poniedziałek 7 września."
+    }
+  ]
 }
