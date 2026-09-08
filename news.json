@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-08T16:04:49.770Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-08T19:29:54.903Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Zawiadomienie w sprawie Julii Przyłębskiej. Waldemar Żurek: to jest kryminał",
+      "link": "https://tvn24.pl/polska/zawiadomienie-do-prokuratury-w-sprawie-julii-przylebskiej-waldemar-zurek-to-jest-kryminal-st9227708?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 18:55:38 GMT",
+      "description": "Prokuratura naprawdę będzie bardzo poważnie podchodzić do tego śledztwa - zapowiedział minister sprawiedliwości Waldemar Żurek. W \"Kropce nad i\" w TVN24 komentował zawiadomienie Helsińskiej Fundacji Praw Człowieka w sprawie przypadków manipulowania składem orzekającym przez byłą prezes Trybunału Konstytucyjnego Julię Przyłębską.",
+      "originalTitle": "Zawiadomienie w sprawie Julii Przyłębskiej. Waldemar Żurek: to jest kryminał",
+      "originalDescription": "Prokuratura naprawdę będzie bardzo poważnie podchodzić do tego śledztwa - zapowiedział minister sprawiedliwości Waldemar Żurek. W \"Kropce nad i\" w TVN24 komentował zawiadomienie Helsińskiej Fundacji Praw Człowieka w sprawie przypadków manipulowania składem orzekającym przez byłą prezes Trybunału Konstytucyjnego Julię Przyłębską."
+    },
+    {
+      "title": "Zarabia lepiej niż Trump i wielu innych. Teraz dostanie podwyżkę",
+      "link": "https://tvn24.pl/biznes/ze-swiata/podwyzki-dla-rzadu-w-singapurze-premier-bedzie-zarabial-870-tysiecy-dolarow-wiecej-st9227654?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 18:55:27 GMT",
+      "description": "Rząd Singapuru zapowiedział, że podniesie roczne wynagrodzenia swoich ministrów i innych urzędników. Premier Lawrence Wong otrzyma podwyżkę w wysokości 1,4 miliona dolarów singapurskich (około 1,1 miliona dolarów).",
+      "originalTitle": "Zarabia lepiej niż Trump i wielu innych. Teraz dostanie podwyżkę",
+      "originalDescription": "Rząd Singapuru zapowiedział, że podniesie roczne wynagrodzenia swoich ministrów i innych urzędników. Premier Lawrence Wong otrzyma podwyżkę w wysokości 1,4 miliona dolarów singapurskich (około 1,1 miliona dolarów)."
+    },
+    {
+      "title": "Waldemar Żurek o słowach Zbigniewa Ziobry: nikt w to nie wierzy",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-o-slowach-zbigniewa-ziobry-nikt-w-to-nie-wierzy-st9227666?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 18:45:41 GMT",
+      "description": "Normalny człowiek poszedłby od razu siedzieć - powiedział minister sprawiedliwości Waldemar Żurek w \"Kropce nad i\" w TVN24. Komentował powiązania Zbigniewa Ziobry z Zondacrypto.",
+      "originalTitle": "Waldemar Żurek o słowach Zbigniewa Ziobry: nikt w to nie wierzy",
+      "originalDescription": "Normalny człowiek poszedłby od razu siedzieć - powiedział minister sprawiedliwości Waldemar Żurek w \"Kropce nad i\" w TVN24. Komentował powiązania Zbigniewa Ziobry z Zondacrypto."
+    },
+    {
+      "title": "Turcja. Pożar blisko popularnego kurortu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/turcja-pozar-blisko-popularnego-kurortu-st9227658?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 18:22:49 GMT",
+      "description": "Ogień szaleje na obrzeżach tureckiej Antalyi. Popularne wśród turystów miasto zmagało się we wtorek z przerwami w dostawach prądu i gęstym dymem spowijającym ulice. Konieczne były ewakuacje ludzi i zwierząt - na drodze płomieni znalazło się miejskie schronisko.",
+      "originalTitle": "Turcja. Pożar blisko popularnego kurortu",
+      "originalDescription": "Ogień szaleje na obrzeżach tureckiej Antalyi. Popularne wśród turystów miasto zmagało się we wtorek z przerwami w dostawach prądu i gęstym dymem spowijającym ulice. Konieczne były ewakuacje ludzi i zwierząt - na drodze płomieni znalazło się miejskie schronisko."
+    },
+    {
+      "title": "Piotr Niemczyk w areszcie. \"Odmówił wykonania kary\"",
+      "link": "https://tvn24.pl/polska/piotr-niemczyk-w-areszcie-odmowil-wykonania-kary-st9227640?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 17:54:31 GMT",
+      "description": "Piotr Niemczyk, działacz opozycji w PRL przebywa od wtorku w jednej z warszawskich placówek penitencjarnych - potwierdziła w rozmowie z tvn24.pl rzeczniczka prasowa Dyrektora Generalnego Służby Więziennej podpułkownik Arleta Pęconek.",
+      "originalTitle": "Piotr Niemczyk w areszcie. \"Odmówił wykonania kary\"",
+      "originalDescription": "Piotr Niemczyk, działacz opozycji w PRL przebywa od wtorku w jednej z warszawskich placówek penitencjarnych - potwierdziła w rozmowie z tvn24.pl rzeczniczka prasowa Dyrektora Generalnego Służby Więziennej podpułkownik Arleta Pęconek."
+    },
+    {
+      "title": "Andrzej Poczobut: nie czuję się bohaterem",
+      "link": "https://tvn24.pl/polska/andrzej-poczobut-nie-czuje-sie-bohaterem-ostatnia-rozmowa-przed-wyjazdem-na-bialorus-st9227334?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 17:50:25 GMT",
+      "description": "Historia Polski jest pełna bardzo pięknych, bohaterskich kart i tu na tym tle ta cała moja historia jest maleńka - powiedział Andrzej Poczobut w rozmowie z dziennikarzem \"Faktów\" TVN Piotrem Kraśką. Przed powrotem na Białoruś mówił o swoich planach czy odczuciach zaraz po tym, jak opuścił więzienie.",
+      "originalTitle": "Andrzej Poczobut: nie czuję się bohaterem",
+      "originalDescription": "Historia Polski jest pełna bardzo pięknych, bohaterskich kart i tu na tym tle ta cała moja historia jest maleńka - powiedział Andrzej Poczobut w rozmowie z dziennikarzem \"Faktów\" TVN Piotrem Kraśką. Przed powrotem na Białoruś mówił o swoich planach czy odczuciach zaraz po tym, jak opuścił więzienie."
+    },
+    {
+      "title": "Awaria na lotniskach w Wielkiej Brytanii i Irlandii. \"Wszystko zamarło\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zaklocenia-na-lotniskach-w-wielkiej-brytanii-i-irlandii-awaria-na-lotniskach-heathrow-gatwick-manchester-i-stansted-problemy-z-kontrola-ruchu-st9227488?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 14:54:32 GMT",
+      "description": "Część odlotów z głównych brytyjskich lotnisk została zakłócona we wtorek po tym, jak operator kontroli ruchu lotniczego National Air Traffc Services doświadczył problemów technicznych. Wśród lotnisk dotkniętych ograniczeniami i opóźnieniami znalazły się Heathrow, Gatwick, Manchester i Stansted. O zakłóceniach poinformował również port w irlandzkim Dublinie. Według platformy Flightradar24 odwołano 625 lotów w Wielkiej Brytanii.",
+      "originalTitle": "Awaria na lotniskach w Wielkiej Brytanii i Irlandii. \"Wszystko zamarło\"",
+      "originalDescription": "Część odlotów z głównych brytyjskich lotnisk została zakłócona we wtorek po tym, jak operator kontroli ruchu lotniczego National Air Traffc Services doświadczył problemów technicznych. Wśród lotnisk dotkniętych ograniczeniami i opóźnieniami znalazły się Heathrow, Gatwick, Manchester i Stansted. O zakłóceniach poinformował również port w irlandzkim Dublinie. Według platformy Flightradar24 odwołano 625 lotów w Wielkiej Brytanii."
+    },
+    {
+      "title": "Bartosz Wieliński o powrocie Andrzeja Poczobuta na Białoruś: nie będzie robić problemów",
+      "link": "https://tvn24.pl/polska/bartosz-wielinski-o-powrocie-andrzeja-poczobuta-na-bialorus-nie-bedzie-robic-problemow-st9227580?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 17:36:18 GMT",
+      "description": "Już jest postacią europejską, wielkiego formatu i ma europejskie zadania, więc musi je wykonywać - powiedział o Andrzeju Poczobucie w \"Tak jest\" w TVN24 Bartosz Wieliński z \"Gazety Wyborczej\". Mówił o tym, co Poczobut będzie robił na Białorusi, a także o tym, że nie może tam \"zapuszczać korzeni\".",
+      "originalTitle": "Bartosz Wieliński o powrocie Andrzeja Poczobuta na Białoruś: nie będzie robić problemów",
+      "originalDescription": "Już jest postacią europejską, wielkiego formatu i ma europejskie zadania, więc musi je wykonywać - powiedział o Andrzeju Poczobucie w \"Tak jest\" w TVN24 Bartosz Wieliński z \"Gazety Wyborczej\". Mówił o tym, co Poczobut będzie robił na Białorusi, a także o tym, że nie może tam \"zapuszczać korzeni\"."
+    },
+    {
+      "title": "Wybory w Krakowie bez Konfederacji. \"Ostateczna odpowiedzialność spoczywa na prezesie\"",
+      "link": "https://tvn24.pl/polska/wybory-w-krakowie-bez-konfederacji-dzialaczka-nowej-nadziei-o-odpowiedzialnosci-slawomira-mentzena-st9227582?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 17:23:46 GMT",
+      "description": "Być może strukturom lokalnym było potrzebne po prostu silniejsze wsparcie - powiedziała Anna Świergocka z Nowej Nadziei w \"Tak jest\" w TVN24, odnosząc się do odrzucenia kandydatury Bartosza Bocheńczaka w wyborach na prezydenta Krakowa.",
+      "originalTitle": "Wybory w Krakowie bez Konfederacji. \"Ostateczna odpowiedzialność spoczywa na prezesie\"",
+      "originalDescription": "Być może strukturom lokalnym było potrzebne po prostu silniejsze wsparcie - powiedziała Anna Świergocka z Nowej Nadziei w \"Tak jest\" w TVN24, odnosząc się do odrzucenia kandydatury Bartosza Bocheńczaka w wyborach na prezydenta Krakowa."
+    },
+    {
+      "title": "Nowe sankcje USA. Obejmą wszystkie irańskie linie lotnicze",
+      "link": "https://tvn24.pl/biznes/ze-swiata/sankcje-usa-na-wszystkie-iranskie-linie-lotnicze-obejma-tez-firmy-z-innych-krajow-st9227616?source=rss",
+      "pubDate": "Tue, 08 Sep 2026 17:22:57 GMT",
+      "description": "Administracja prezydenta USA Donalda Trumpa ogłosiła we wtorek nałożenie sankcji na wszystkie irańskie linie lotnicze oraz wspierające je podmioty ze Zjednoczonych Emiratów Arabskich, Omanu, Turcji i Malezji.",
+      "originalTitle": "Nowe sankcje USA. Obejmą wszystkie irańskie linie lotnicze",
+      "originalDescription": "Administracja prezydenta USA Donalda Trumpa ogłosiła we wtorek nałożenie sankcji na wszystkie irańskie linie lotnicze oraz wspierające je podmioty ze Zjednoczonych Emiratów Arabskich, Omanu, Turcji i Malezji."
+    }
+  ]
 }
