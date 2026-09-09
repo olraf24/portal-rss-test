@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-09T09:34:59.866Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-09T14:11:45.663Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Incydent podczas targów obronnych w Kielcach. Ktoś rozlał nieznaną substancję",
+      "link": "https://tvn24.pl/kielce/kielce-kolejny-incydent-podczas-targow-obronnych-trwaja-dzialania-sluzb-st9229327?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:57:25 GMT",
+      "description": "Ktoś rozlał nieznaną ciecz podczas odbywającego się w Kielcach Międzynarodowego Salonu Przemysłu Obronnego. O incydencie poinformowano służby.",
+      "originalTitle": "Incydent podczas targów obronnych w Kielcach. Ktoś rozlał nieznaną substancję",
+      "originalDescription": "Ktoś rozlał nieznaną ciecz podczas odbywającego się w Kielcach Międzynarodowego Salonu Przemysłu Obronnego. O incydencie poinformowano służby."
+    },
+    {
+      "title": "Wynieśli kobietę z płonącego mieszkania, trafiła do szpitala",
+      "link": "https://tvn24.pl/katowice/zabrze-wyniesli-kobiete-z-plonacego-mieszkania-trafila-do-szpitala-st9229197?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:54:06 GMT",
+      "description": "Strażacy wynieśli z płonącego mieszkania nieprzytomną kobietę, która porusza się na wózku inwalidzkim. Śmigłowiec Lotniczego Pogotowia Ratunkowego przetransportował ją do Centrum Leczenia Oparzeń w Siemianowicach Śląskich.",
+      "originalTitle": "Wynieśli kobietę z płonącego mieszkania, trafiła do szpitala",
+      "originalDescription": "Strażacy wynieśli z płonącego mieszkania nieprzytomną kobietę, która porusza się na wózku inwalidzkim. Śmigłowiec Lotniczego Pogotowia Ratunkowego przetransportował ją do Centrum Leczenia Oparzeń w Siemianowicach Śląskich."
+    },
+    {
+      "title": "Wjechał betoniarką w pociąg. Wiemy, jak się tłumaczył",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sokolniki-suche-katastrofa-kolejowa-jak-tlumaczyl-sie-kierowca-st9229246?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:53:35 GMT",
+      "description": "Mamy potwierdzenie, że w momencie zdarzenia sygnalizacja na przejeździe była sprawna - powiedział na antenie TVN24 wiceminister infrastruktury Piotr Malepszak. Zdradził też, jak tłumaczył się kierowca ciężarówki, który wjechał w pociąg w Sokolnikach Suchych. Wskutek wykolejenia się składu kilka osób zostało poważnie rannych, a życia jednej z pasażerek nie udało się uratować.",
+      "originalTitle": "Wjechał betoniarką w pociąg. Wiemy, jak się tłumaczył",
+      "originalDescription": "Mamy potwierdzenie, że w momencie zdarzenia sygnalizacja na przejeździe była sprawna - powiedział na antenie TVN24 wiceminister infrastruktury Piotr Malepszak. Zdradził też, jak tłumaczył się kierowca ciężarówki, który wjechał w pociąg w Sokolnikach Suchych. Wskutek wykolejenia się składu kilka osób zostało poważnie rannych, a życia jednej z pasażerek nie udało się uratować."
+    },
+    {
+      "title": "Tragiczny wypadek w skupie złomu. Nie żyje 21-latek",
+      "link": "https://tvn24.pl/poznan/wronki-smierc-w-skupie-zlomu-zginal-21-latek-st9229284?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:46:34 GMT",
+      "description": "Tragiczny wypadek w skupie złomu we Wronkach (Wielkopolska). Nie żyje 21-letni mężczyzna. Na miejscu pracują policjanci pod nadzorem prokuratora.",
+      "originalTitle": "Tragiczny wypadek w skupie złomu. Nie żyje 21-latek",
+      "originalDescription": "Tragiczny wypadek w skupie złomu we Wronkach (Wielkopolska). Nie żyje 21-letni mężczyzna. Na miejscu pracują policjanci pod nadzorem prokuratora."
+    },
+    {
+      "title": "Według śledczych za śmierć 13-letniej Wiktorii odpowiada jej 15-letni kolega. Sprawą zajął się sąd",
+      "link": "https://tvn24.pl/poznan/nowy-tomysl-wedlug-sledczych-za-smierc-13-letniej-wiktorii-odpowiada-jej-15-letni-kolega-sprawa-zajal-sie-sad-st9227495?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:42:48 GMT",
+      "description": "13-letnia Wiktoria z okolic Nowego Tomyśla zmarła w marcu 2025 roku i początkowo przyjęto, że sama odebrała sobie życie. Nastąpił jednak zwrot w sprawie. Prokuratura uważa, że dziewczyna została zamordowana, a samobójstwo było upozorowane. Miał to zrobić jej kolega, obecnie 15-letni Aleksander S.",
+      "originalTitle": "Według śledczych za śmierć 13-letniej Wiktorii odpowiada jej 15-letni kolega. Sprawą zajął się sąd",
+      "originalDescription": "13-letnia Wiktoria z okolic Nowego Tomyśla zmarła w marcu 2025 roku i początkowo przyjęto, że sama odebrała sobie życie. Nastąpił jednak zwrot w sprawie. Prokuratura uważa, że dziewczyna została zamordowana, a samobójstwo było upozorowane. Miał to zrobić jej kolega, obecnie 15-letni Aleksander S."
+    },
+    {
+      "title": "Japonia. Osuwisko zeszło na auta blisko słynnego szczytu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/japonia-osuwisko-zeszlo-na-auta-blisko-slynnego-szczytu-st9229141?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:27:53 GMT",
+      "description": "Osuwisko zeszło w pobliżu jednej z dróg na górę Fudżi, uszkadzając zaparkowane tam samochody. W środę nad słynnym japońskim szczytem wystąpiły intensywne opady deszczu, które naruszyły zbocze. Kraj od kilku dni zmaga się z ulewami, a ulice niektórych miast zamieniły się w potoki.",
+      "originalTitle": "Japonia. Osuwisko zeszło na auta blisko słynnego szczytu",
+      "originalDescription": "Osuwisko zeszło w pobliżu jednej z dróg na górę Fudżi, uszkadzając zaparkowane tam samochody. W środę nad słynnym japońskim szczytem wystąpiły intensywne opady deszczu, które naruszyły zbocze. Kraj od kilku dni zmaga się z ulewami, a ulice niektórych miast zamieniły się w potoki."
+    },
+    {
+      "title": "Na lotnisku dowiedzieli się, że nigdzie nie polecą",
+      "link": "https://tvn24.pl/katowice/katowice-na-lotnisku-dowiedzieli-sie-ze-nigdzie-nie-poleca-st9229080?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:20:23 GMT",
+      "description": "Dwoje podróżnych miało lecieć na wakacje w Egipcie i w Macedonii. Na katowickim lotnisku zgłosili się do kontroli granicznej i dowiedzieli się, że zostaną jednak w Polsce.",
+      "originalTitle": "Na lotnisku dowiedzieli się, że nigdzie nie polecą",
+      "originalDescription": "Dwoje podróżnych miało lecieć na wakacje w Egipcie i w Macedonii. Na katowickim lotnisku zgłosili się do kontroli granicznej i dowiedzieli się, że zostaną jednak w Polsce."
+    },
+    {
+      "title": "Wierzymy na słowo. Niepokojące wyniki, drastyczne różnice",
+      "link": "https://tvn24.pl/biznes/tech/wierzymy-na-slowo-niepokojace-wyniki-drastyczne-roznice-st9229207?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:16:15 GMT",
+      "description": "Okazuje się, że na ogół bezkrytycznie wierzymy w to, co przeczytamy w internecie. Mniej niż jedna trzecia obywateli krajów Unii Europejskiej weryfikuje informacje - wynika z danych urzędu statystycznego Eurostat.",
+      "originalTitle": "Wierzymy na słowo. Niepokojące wyniki, drastyczne różnice",
+      "originalDescription": "Okazuje się, że na ogół bezkrytycznie wierzymy w to, co przeczytamy w internecie. Mniej niż jedna trzecia obywateli krajów Unii Europejskiej weryfikuje informacje - wynika z danych urzędu statystycznego Eurostat."
+    },
+    {
+      "title": "Prokuratura o przebiegu katastrofy: kierowca betoniarki wjechał w pociąg",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sokolniki-suche-ustalenia-prokuratury-po-katastrofie-pociagu-st9229149?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:13:57 GMT",
+      "description": "Dwie osoby podróżowały w pierwszym wagonie za lokomotywą, dwie pasażerki. Jedna z nich niestety zmarła - poinformował po południu Robert Czerwiński z Prokuratury Okręgowej w Radomiu. Wiadomo, że samochód ciężarowy wjechał w jadący pociąg. Śledczy badają, dlaczego kierowca nie zatrzymał się przed przejazdem.",
+      "originalTitle": "Prokuratura o przebiegu katastrofy: kierowca betoniarki wjechał w pociąg",
+      "originalDescription": "Dwie osoby podróżowały w pierwszym wagonie za lokomotywą, dwie pasażerki. Jedna z nich niestety zmarła - poinformował po południu Robert Czerwiński z Prokuratury Okręgowej w Radomiu. Wiadomo, że samochód ciężarowy wjechał w jadący pociąg. Śledczy badają, dlaczego kierowca nie zatrzymał się przed przejazdem."
+    },
+    {
+      "title": "Donald Tusk o zderzeniu pociągu. Zapowiada \"radykalne zaostrzenie przepisów\"",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-wykolejeniu-pociagu-na-mazowszu-zapowiada-radykalne-zaostrzenie-przepisow-st9229152?source=rss",
+      "pubDate": "Wed, 09 Sep 2026 13:12:47 GMT",
+      "description": "Ani złe zdarzenia, ani perswazja nie pomagały, więc musimy zaostrzyć przepisy dla tych, którzy to łamią - zapowiedział premier Donald Tusk, komentując zderzenie pociągu i ciężarówki w Sokolnikach Suchych. W wyniku wypadku jedna osoba zmarła.",
+      "originalTitle": "Donald Tusk o zderzeniu pociągu. Zapowiada \"radykalne zaostrzenie przepisów\"",
+      "originalDescription": "Ani złe zdarzenia, ani perswazja nie pomagały, więc musimy zaostrzyć przepisy dla tych, którzy to łamią - zapowiedział premier Donald Tusk, komentując zderzenie pociągu i ciężarówki w Sokolnikach Suchych. W wyniku wypadku jedna osoba zmarła."
+    }
+  ]
 }
