@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-11T06:25:27.291Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-11T11:41:29.748Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Święto kynologii w Tychach. Psy z całego świata walczą o miano najlepszych",
+      "link": "https://tvn24.pl/katowice/w-tychach-trwaja-mistrzostwa-psow-uzytkowych-sluzby-wybiora-przyszlych-adeptow-st9231899?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 11:39:40 GMT",
+      "description": "146 przewodników z czworonogami bierze udział w Mistrzostwach Psów Użytkowych w Tychach. To spośród prezentowanych na zawodach zwierząt służby wybierają przyszłych \"pracowników\".",
+      "originalTitle": "Święto kynologii w Tychach. Psy z całego świata walczą o miano najlepszych",
+      "originalDescription": "146 przewodników z czworonogami bierze udział w Mistrzostwach Psów Użytkowych w Tychach. To spośród prezentowanych na zawodach zwierząt służby wybierają przyszłych \"pracowników\"."
+    },
+    {
+      "title": "Złe wieści dla kierowców. \"Potężny i permanentny drenaż portfeli\"",
+      "link": "https://tvn24.pl/biznes/moto/ceny-paliw-na-14-20-wrzesnia-prognoza-analitykow-biura-refleks-i-portalu-e-petrol-pl-ile-kosztuje-benzyna-olej-napedowy-i-autogaz-st9232347?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 11:38:53 GMT",
+      "description": "Najnowsza prognoza cen paliw na stacjach przynosi kolejne bolesne wiadomości dla kierowców. Paliwa bez wyjątku będą drożeć - ocenili analitycy portalu e-petrol.pl. Z kolei analitycy Refleksu spodziewają się stabilizacji cen benzyn i jedynie niewielkich podwyżek cen diesla.",
+      "originalTitle": "Złe wieści dla kierowców. \"Potężny i permanentny drenaż portfeli\"",
+      "originalDescription": "Najnowsza prognoza cen paliw na stacjach przynosi kolejne bolesne wiadomości dla kierowców. Paliwa bez wyjątku będą drożeć - ocenili analitycy portalu e-petrol.pl. Z kolei analitycy Refleksu spodziewają się stabilizacji cen benzyn i jedynie niewielkich podwyżek cen diesla."
+    },
+    {
+      "title": "13-latka zepchnięta z balkonu na siódmym piętrze przez byłego chłopaka",
+      "link": "https://tvn24.pl/swiat/wlochy-13-letnia-aurora-tili-zepchnieta-z-balkonu-na-siodmym-pietrze-przez-bylego-chlopaka-st9232129?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 11:32:04 GMT",
+      "description": "Historia 13-letniej Aurory Tili, która zginęła w 2024 roku zepchnięta z siódmego piętra przez byłego chłopaka, wstrząsnęła Włochami. Teraz wróciła na czołówki portali po tym, jak sąd apelacyjny zmniejszył karę dla sprawcy.",
+      "originalTitle": "13-latka zepchnięta z balkonu na siódmym piętrze przez byłego chłopaka",
+      "originalDescription": "Historia 13-letniej Aurory Tili, która zginęła w 2024 roku zepchnięta z siódmego piętra przez byłego chłopaka, wstrząsnęła Włochami. Teraz wróciła na czołówki portali po tym, jak sąd apelacyjny zmniejszył karę dla sprawcy."
+    },
+    {
+      "title": "Spał na przystanku, stracił portfel i telefon. Wszystko nagrała kamera",
+      "link": "https://tvn24.pl/bialystok/kradziez-na-przystanku-w-bialymstoku-ofiara-spala-st9232405?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 11:26:26 GMT",
+      "description": "Policjanci z Białegostoku zatrzymali 47-latka, który miał okraść mężczyznę śpiącego na przystanku. Całą sytuację zarejestrowała kamera miejskiego monitoringu. Dzięki nagraniom udało się szybko ustalić tożsamość złodzieja.",
+      "originalTitle": "Spał na przystanku, stracił portfel i telefon. Wszystko nagrała kamera",
+      "originalDescription": "Policjanci z Białegostoku zatrzymali 47-latka, który miał okraść mężczyznę śpiącego na przystanku. Całą sytuację zarejestrowała kamera miejskiego monitoringu. Dzięki nagraniom udało się szybko ustalić tożsamość złodzieja."
+    },
+    {
+      "title": "Pokłosie katastrofy. Ważna zapowiedź ministra",
+      "link": "https://tvn24.pl/biznes/z-kraju/poklosie-katastrofy-wazna-zapowiedz-ministra-st9232497?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 11:12:28 GMT",
+      "description": "Minister infrastruktury Dariusz Klimczak przekazał, że rząd będzie intensywnie pracował nad inwestycjami poprawiającymi bezpieczeństwo na przejazdach drogowo-kolejowych. Chodzi między innymi o montowanie dodatkowych urządzeń.",
+      "originalTitle": "Pokłosie katastrofy. Ważna zapowiedź ministra",
+      "originalDescription": "Minister infrastruktury Dariusz Klimczak przekazał, że rząd będzie intensywnie pracował nad inwestycjami poprawiającymi bezpieczeństwo na przejazdach drogowo-kolejowych. Chodzi między innymi o montowanie dodatkowych urządzeń."
+    },
+    {
+      "title": "Te napoje mogą mieć związek z rakiem żołądka. Badanie trwało dekady",
+      "link": "https://tvn24.pl/zdrowie/slodkie-napoje-a-ryzyko-raka-zoladka-co-wykazalo-nowe-badanie-st9232435?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 11:06:48 GMT",
+      "description": "Regularne picie napojów słodzonych cukrem może wiązać się z wyższym ryzykiem raka żołądka - wynika z wieloletniej analizy danych medycznych ponad stu tysięcy osób. U uczestników sięgających po co najmniej jedną porcję dziennie ryzyko było niemal dwuipółkrotnie wyższe niż u pijących je rzadziej niż raz w miesiącu.",
+      "originalTitle": "Te napoje mogą mieć związek z rakiem żołądka. Badanie trwało dekady",
+      "originalDescription": "Regularne picie napojów słodzonych cukrem może wiązać się z wyższym ryzykiem raka żołądka - wynika z wieloletniej analizy danych medycznych ponad stu tysięcy osób. U uczestników sięgających po co najmniej jedną porcję dziennie ryzyko było niemal dwuipółkrotnie wyższe niż u pijących je rzadziej niż raz w miesiącu."
+    },
+    {
+      "title": "Autobus utknął pod rogatką, w środku krzyk i płacz dzieci",
+      "link": "https://tvn24.pl/lodz/w-lodzi-autobus-utknal-na-przejezdzie-stanowisko-mpk-i-pkp-plk-st9231964?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:59:05 GMT",
+      "description": "Skrajną nieodpowiedzialnością wykazał się 47-letni kierowca autobusu Miejskiego Przedsiębiorstwa Komunikacyjnego w Łodzi, który wjechał na przejazd kolejowy przy ulicy Edwarda pomimo czerwonego światła. Pojazd z przerażonymi pasażerami zablokowały opuszczające się rogatki. Nagranie trafiło do sieci, a przewoźnik podjął radykalne kroki wobec pracownika z 30-letnim stażem.",
+      "originalTitle": "Autobus utknął pod rogatką, w środku krzyk i płacz dzieci",
+      "originalDescription": "Skrajną nieodpowiedzialnością wykazał się 47-letni kierowca autobusu Miejskiego Przedsiębiorstwa Komunikacyjnego w Łodzi, który wjechał na przejazd kolejowy przy ulicy Edwarda pomimo czerwonego światła. Pojazd z przerażonymi pasażerami zablokowały opuszczające się rogatki. Nagranie trafiło do sieci, a przewoźnik podjął radykalne kroki wobec pracownika z 30-letnim stażem."
+    },
+    {
+      "title": "Antoni Macierewicz z pistoletem do farby. \"Tak nie wygląda uczczenie pamięci ofiar\"",
+      "link": "https://tvn24.pl/polska/antoni-macierewicz-z-pistoletem-do-farby-piotr-swierczek-tak-nie-wyglada-uczczenie-pamieci-ofiar-st9232203?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:47:47 GMT",
+      "description": "Jak się przez kilkanaście lat okłamywało społeczeństwo w zakresie przyczyn katastrofy smoleńskiej, to niestety trzeba się z tym zmierzyć - powiedział reporter \"Czarno na białym\" Piotr Świerczek w TVN24, komentując incydent z udziałem Antoniego Macierewicza w trakcie obchodów miesięcznicy smoleńskiej w Warszawie. Jak podkreślił, nie podobają mu się również \"gesty\" i \"prowokacyjne napisy\" na wieńcach.",
+      "originalTitle": "Antoni Macierewicz z pistoletem do farby. \"Tak nie wygląda uczczenie pamięci ofiar\"",
+      "originalDescription": "Jak się przez kilkanaście lat okłamywało społeczeństwo w zakresie przyczyn katastrofy smoleńskiej, to niestety trzeba się z tym zmierzyć - powiedział reporter \"Czarno na białym\" Piotr Świerczek w TVN24, komentując incydent z udziałem Antoniego Macierewicza w trakcie obchodów miesięcznicy smoleńskiej w Warszawie. Jak podkreślił, nie podobają mu się również \"gesty\" i \"prowokacyjne napisy\" na wieńcach."
+    },
+    {
+      "title": "Nie zatrzymał się, wjechał przed lokomotywę",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/olszynka-grochowska-nie-zatrzymal-sie-wjechal-przed-lokomotywe-st9232263?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:46:53 GMT",
+      "description": "Na przejeździe kolejowym w Olszynce Grochowskiej kierowca ciężarówki doprowadził do kolizji z lokomotywą. Na szczęście nikt nie został ranny.",
+      "originalTitle": "Nie zatrzymał się, wjechał przed lokomotywę",
+      "originalDescription": "Na przejeździe kolejowym w Olszynce Grochowskiej kierowca ciężarówki doprowadził do kolizji z lokomotywą. Na szczęście nikt nie został ranny."
+    },
+    {
+      "title": "Odszedł z giganta i alarmuje. \"Zaistnieje ryzyko, że wszyscy możemy wyginąć\"",
+      "link": "https://tvn24.pl/biznes/tech/byly-badacz-openai-i-anthropic-ostrzega-szybki-rozwoj-ai-moze-zagrozic-ludziom-st9232368?source=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:43:28 GMT",
+      "description": "Sztuczna inteligencja może w przyszłości zagrozić ludzkości - ostrzega Jacob Coxon, były pracownik Anthropic i OpenAI. Jego zdaniem twórcy tej technologii czują presję, by wyprzedzić konkurencję, mimo obaw o bezpieczeństwo. W rozmowie z CNN wskazał na szybkie tempo postępu AI.",
+      "originalTitle": "Odszedł z giganta i alarmuje. \"Zaistnieje ryzyko, że wszyscy możemy wyginąć\"",
+      "originalDescription": "Sztuczna inteligencja może w przyszłości zagrozić ludzkości - ostrzega Jacob Coxon, były pracownik Anthropic i OpenAI. Jego zdaniem twórcy tej technologii czują presję, by wyprzedzić konkurencję, mimo obaw o bezpieczeństwo. W rozmowie z CNN wskazał na szybkie tempo postępu AI."
+    }
+  ]
 }
