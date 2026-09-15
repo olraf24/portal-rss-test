@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2026-09-15T06:27:31.674Z",
+  "lastUpdate": "2026-09-15T12:00:37.272Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "A jednak się kręcą! Cząsteczkowe silniki wirują w świetle słońca",
+      "link": "https://dzienniknaukowy.pl/a-jednak-sie-kreca-czasteczkowe-silniki-wiruja-w-swietle-slonca",
+      "pubDate": "Tue, 15 Sep 2026 10:09:54 +0000",
+      "description": "Naukowcy, w tym dr Wojciech Danowski z UW, opracowali nową rodzinę maszyn molekularnych, które potrafią wyjątkowo sprawnie przetwarzać energię zwykłego światła słonecznego na jednokierunkowy ruch obrotowy. Syntetyczne silniczki, składające się zaledwie z kilkunastu atomów, pod względem wydajności pobiły już rozwiązania stworzone przez naturę."
+    },
+    {
+      "title": "Lodowe obiekty z okolic Neptuna mogłyby zasilić atmosferę Marsa",
+      "link": "https://dzienniknaukowy.pl/lodowe-obiekty-z-okolic-neptuna-moglyby-zasilic-atmosfere-marsa",
+      "pubDate": "Tue, 15 Sep 2026 09:58:08 +0000",
+      "description": "Bardzo rzadką obecnie atmosferę na Marsie można by zagęścić, dostarczając do niej lodowe obiekty z rubieży Układu Słonecznego, a wraz z nimi wodę, gazy, amoniak. Podróż takich obiektów trwałaby jednak setki lat. Naukowcy z CBK PAN wyliczyli, jak dużej zmiany prędkości wymagałoby skierowanie ich na trajektorie zderzeniowe z Marsem."
+    },
+    {
+      "title": "System widzi przeszkodę, człowiek interpretuje sytuację. Gdzie przebiega granica automatyzacji bezpieczeństwa?",
+      "link": "https://dzienniknaukowy.pl/system-widzi-przeszkode-czlowiek-interpretuje-sytuacje-gdzie-przebiega-granica-automatyzacji-bezpieczenstwa",
+      "pubDate": "Tue, 15 Sep 2026 09:12:00 +0000",
+      "description": "Prowadząc samochód, obserwujesz otoczenie i stale oceniasz intencje innych uczestników ruchu. Nowoczesna elektronika wspiera ten proces, skanując przestrzeń za pomocą kamer oraz czujników. Urządzenia szybko dostrzegają obiekty na drodze, ale nie rozumieją intencji pieszego ani specyfiki sytuacji. Świadomość różnic między działaniem algorytmu a ludzkim osądem ułatwia bezpieczne podróżowanie."
+    },
     {
       "title": "Bakterie jelitowe też mają jet lag",
       "link": "https://dzienniknaukowy.pl/bakterie-jelitowe-tez-maja-jet-lag",
@@ -44,24 +62,6 @@
       "link": "https://dzienniknaukowy.pl/naukowcy-jedzmy-powoli-i-nie-do-woli",
       "pubDate": "Tue, 08 Sep 2026 11:58:55 +0000",
       "description": "Uważne i powolne jedzenie wspiera wydzielanie hormonów sytości, poprawia odpowiedź insulinową i pomaga kontrolować apetyt. Dbajmy o tzw. higienę jedzenia, przeznaczmy na posiłek minimum 20 minut, w tym czasie odłóżmy telefon i nie zjadajmy z talerza wszystkiego - radzi prof. Wojciech Kolanowski."
-    },
-    {
-      "title": "Studenci stworzyli aplikację pomagającą znaleźć współlokatora i mieszkanie",
-      "link": "https://dzienniknaukowy.pl/studenci-stworzyli-aplikacje-pomagajaca-znalezc-wspollokatora-i-mieszkanie",
-      "pubDate": "Tue, 08 Sep 2026 11:46:23 +0000",
-      "description": "Pomaga znaleźć współlokatorów i mieszkanie pasujące do budżetu, lokalizacji, stylu życia i charakteru użytkownika – to zadanie aplikacji, stworzonej przez studentów uczelni w Wrocławia. Narzędzie działa już w stolicy Dolnego Śląska. Jego twórcy pracują nad wdrożeniem go w innych miastach akademickich."
-    },
-    {
-      "title": "Jak nauka dzieli się wiedzą: dlaczego format dokumentu ma znaczenie",
-      "link": "https://dzienniknaukowy.pl/jak-nauka-dzieli-sie-wiedza-dlaczego-format-dokumentu-ma-znaczenie",
-      "pubDate": "Tue, 08 Sep 2026 10:00:00 +0000",
-      "description": "Nauka opiera się na przepływie wiedzy. Odkrycie ma wartość dopiero wtedy, gdy zostaje opisane, udostępnione i podjęte przez innych badaczy, którzy mogą je sprawdzić, rozwinąć lub zakwestionować. Ten obieg informacji, od laboratorium, przez publikację, po kolejne badania, jest samym sercem metody naukowej. W epoce cyfrowej odbywa się on niemal wyłącznie za pośrednictwem dokumentów elektronicznych, a to oznacza, że format, w jakim zapisujemy i przekazujemy wiedzę, przestaje być drobnym szczegółem technicznym"
-    },
-    {
-      "title": "Muzykologiczne odkrycie: Polsko-litewski szlachcic wynalazcą strun z metalowym oplotem",
-      "link": "https://dzienniknaukowy.pl/muzykologiczne-odkrycie-polsko-litewski-szlachcic-wynalazca-strun-z-metalowym-oplotem",
-      "pubDate": "Thu, 03 Sep 2026 13:23:02 +0000",
-      "description": "Od skrzypiec Vivaldiego przez fortepian Chopina po gitary Metalliki – struny oplecione metalowym drutem od ponad 300 lat zapewniają niskie brzmienia instrumentom strunowym. Naukowe śledztwo dr Emily Peppers z UW wykazało, że wynalazcą takich strun jest Olbrycht Górecki – polsko-litewski szlachcic związany z dworem Bogusława Radziwiłła."
     }
   ]
 }
