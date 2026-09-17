@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-16T23:09:24.372Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-17T01:36:55.045Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Piotr Kuczyński: w grudniu Fed znów podniesie stopy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/piotr-kuczynski-w-grudniu-fed-znow-podniesie-stopy-st9240895?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 21:08:19 GMT",
+      "description": "Mianując w maju Kevina Warsha na szefa amerykańskiego banku centralnego, Donald Trump oczekiwał obniżek stóp procentowych i osłabienia dolara. Cztery miesiące później koszt pieniądza idzie w górę, a dolar się umacnia. - Podwyższając stopy procentowe, Fed nie obniży cen ropy - przypomniał w TVN24 BiS Piotr Kuczyński, analityk Domu Inwestycyjnego Xelion.",
+      "originalTitle": "Piotr Kuczyński: w grudniu Fed znów podniesie stopy",
+      "originalDescription": "Mianując w maju Kevina Warsha na szefa amerykańskiego banku centralnego, Donald Trump oczekiwał obniżek stóp procentowych i osłabienia dolara. Cztery miesiące później koszt pieniądza idzie w górę, a dolar się umacnia. - Podwyższając stopy procentowe, Fed nie obniży cen ropy - przypomniał w TVN24 BiS Piotr Kuczyński, analityk Domu Inwestycyjnego Xelion."
+    },
+    {
+      "title": "Orlen szuka ropy na całym świecie. Ekspert wskazuje największy problem",
+      "link": "https://tvn24.pl/biznes/rynki/problemy-z-dostawami-saudyjskiej-ropy-orlen-szuka-surowca-na-calym-swiecie-st9240632?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 20:04:16 GMT",
+      "description": "Rosnące ceny ropy i problemy z dostawami z Arabii Saudyjskiej stawiają rynek paliw w trudnej sytuacji, a szczególnie dotyczy to oleju napędowego. Zdaniem Dawida Czopka z Polaris FIZ, Orlen intensywnie poszukuje alternatywnych źródeł surowca wszędzie, gdzie to możliwe, jednak szybkie zastąpienie niemal połowy dotychczasowych dostaw może być wyzwaniem.",
+      "originalTitle": "Orlen szuka ropy na całym świecie. Ekspert wskazuje największy problem",
+      "originalDescription": "Rosnące ceny ropy i problemy z dostawami z Arabii Saudyjskiej stawiają rynek paliw w trudnej sytuacji, a szczególnie dotyczy to oleju napędowego. Zdaniem Dawida Czopka z Polaris FIZ, Orlen intensywnie poszukuje alternatywnych źródeł surowca wszędzie, gdzie to możliwe, jednak szybkie zastąpienie niemal połowy dotychczasowych dostaw może być wyzwaniem."
+    },
+    {
+      "title": "Noc z deszczem i burzami. Ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ulewy-i-burze-zalamanie-pogody-w-polsce-ostrzezenia-imgw-st9238859?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 04:33:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed groźną pogodą w nocy. W części kraju spodziewane są ulewy, a miejscami będą im towarzyszyć burze. Sprawdź, gdzie może być niebezpiecznie.",
+      "originalTitle": "Noc z deszczem i burzami. Ostrzeżenia IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed groźną pogodą w nocy. W części kraju spodziewane są ulewy, a miejscami będą im towarzyszyć burze. Sprawdź, gdzie może być niebezpiecznie."
+    },
+    {
+      "title": "Szymon Hołownia mówił o wejściu do rządu. Katarzyna Pełczyńska-Nałęcz odpowiada",
+      "link": "https://tvn24.pl/polska/szymon-holownia-mowil-o-wejsciu-do-rzadu-katarzyna-pelczynska-nalecz-odpowiada-st9240784?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 19:08:12 GMT",
+      "description": "Fakty są takie, jakie są. Paweł Śliz szefem klubu. W rządzie wszystko bez zmian - zapewniała ministra Katarzyna Pełczyńska-Nałęcz w \"Kropce nad i\" na antenie TVN24. Wypowiedzi wicemarszałka Sejmu Szymona Hołowni o jego planach wejścia do rządu i objęcia fotela przewodniczącego klubu Polski 2050 określiła jako \"sprzeczne przecieki\".",
+      "originalTitle": "Szymon Hołownia mówił o wejściu do rządu. Katarzyna Pełczyńska-Nałęcz odpowiada",
+      "originalDescription": "Fakty są takie, jakie są. Paweł Śliz szefem klubu. W rządzie wszystko bez zmian - zapewniała ministra Katarzyna Pełczyńska-Nałęcz w \"Kropce nad i\" na antenie TVN24. Wypowiedzi wicemarszałka Sejmu Szymona Hołowni o jego planach wejścia do rządu i objęcia fotela przewodniczącego klubu Polski 2050 określiła jako \"sprzeczne przecieki\"."
+    },
+    {
+      "title": "Ukraina ponownie apeluje o zawieszenie broni w sektorze energetycznym",
+      "link": "https://tvn24.pl/biznes/ze-swiata/ukraina-do-rosji-przedstawcie-liste-obiektow-objetych-zawieszeniem-broni-st9240740?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 19:04:38 GMT",
+      "description": "Ukraina oczekuje od Rosji konkretnych działań w sprawie zawieszenia broni w sektorze energetycznym. Rzecznik ukraińskiego MSZ Heorhij Tychyj podkreślił w środę, że Moskwa powinna uczestniczyć w uzgadnianiu warunków rozejmu i wskazać obiekty, które miałyby zostać objęte ochroną.",
+      "originalTitle": "Ukraina ponownie apeluje o zawieszenie broni w sektorze energetycznym",
+      "originalDescription": "Ukraina oczekuje od Rosji konkretnych działań w sprawie zawieszenia broni w sektorze energetycznym. Rzecznik ukraińskiego MSZ Heorhij Tychyj podkreślił w środę, że Moskwa powinna uczestniczyć w uzgadnianiu warunków rozejmu i wskazać obiekty, które miałyby zostać objęte ochroną."
+    },
+    {
+      "title": "Gdzie jest burza? Tu wieczorem słychać grzmoty",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-srode-16-09-mapa-i-radar-burz-st9240359?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 13:40:47 GMT",
+      "description": "Gdzie jest burza? W środę 16.09 w części kraju grzmi. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tu wieczorem słychać grzmoty",
+      "originalDescription": "Gdzie jest burza? W środę 16.09 w części kraju grzmi. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Co, jeśli prezydent nie podpisze ustawy? \"Będzie odpowiedzialny za wysokie ceny paliw\"",
+      "link": "https://tvn24.pl/polska/co-jesli-prezydent-nie-podpisze-ustawy-bedzie-odpowiedzialny-za-wysokie-ceny-paliw-st9240770?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 18:25:09 GMT",
+      "description": "Ludzką rzeczą jest błądzić, ale głupotą jest trwać w tym błędzie i mam nadzieję, że pan prezydent w tym błędzie nie będzie trwał - powiedział w \"Faktach po Faktach\" w TVN24 rzecznik rządu Adam Szłapka. Odniósł się do projektu ustawy o podatku od nadzwyczajnych zysków koncernów paliwowych. Mówił też, że resort finansów pracuje nad kolejną ustawą w sprawie rynku kryptowalut.",
+      "originalTitle": "Co, jeśli prezydent nie podpisze ustawy? \"Będzie odpowiedzialny za wysokie ceny paliw\"",
+      "originalDescription": "Ludzką rzeczą jest błądzić, ale głupotą jest trwać w tym błędzie i mam nadzieję, że pan prezydent w tym błędzie nie będzie trwał - powiedział w \"Faktach po Faktach\" w TVN24 rzecznik rządu Adam Szłapka. Odniósł się do projektu ustawy o podatku od nadzwyczajnych zysków koncernów paliwowych. Mówił też, że resort finansów pracuje nad kolejną ustawą w sprawie rynku kryptowalut."
+    },
+    {
+      "title": "Pierwsza taka podwyżka stóp procentowych od lat",
+      "link": "https://tvn24.pl/biznes/ze-swiata/pierwsza-taka-podwyzka-stop-procentowych-od-lat-st9240786?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 18:15:16 GMT",
+      "description": "Rezerwa Federalna podwyższyła w środę referencyjną stopę procentową o 25 punktów bazowych do przedziału 3,75-4 proc. Pierwsza podwyżka kosztu pieniądza w Stanach Zjednoczonych od trzech lat wynika z rosnącej od miesięcy inflacji, napędzanej między innymi przez drożejące paliwa.",
+      "originalTitle": "Pierwsza taka podwyżka stóp procentowych od lat",
+      "originalDescription": "Rezerwa Federalna podwyższyła w środę referencyjną stopę procentową o 25 punktów bazowych do przedziału 3,75-4 proc. Pierwsza podwyżka kosztu pieniądza w Stanach Zjednoczonych od trzech lat wynika z rosnącej od miesięcy inflacji, napędzanej między innymi przez drożejące paliwa."
+    },
+    {
+      "title": "Trybunał Stanu dla Zbigniewa Ziobry. W Sejmie złożono poprawiony wniosek",
+      "link": "https://tvn24.pl/polska/trybunal-stanu-dla-zbigniewa-ziobry-w-sejmie-zlozono-poprawiony-wniosek-st9240755?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 18:10:56 GMT",
+      "description": "W Sejmie złożone zostało uzupełnienie wstępnego wniosku o postawienie byłego ministra sprawiedliwości Zbigniewa Ziobry przed Trybunałem Stanu - przekazała Polska Agencja Prasowa. Według reprezentanta wnioskodawców, z treści dokumentu usunięto jeden z zarzutów.",
+      "originalTitle": "Trybunał Stanu dla Zbigniewa Ziobry. W Sejmie złożono poprawiony wniosek",
+      "originalDescription": "W Sejmie złożone zostało uzupełnienie wstępnego wniosku o postawienie byłego ministra sprawiedliwości Zbigniewa Ziobry przed Trybunałem Stanu - przekazała Polska Agencja Prasowa. Według reprezentanta wnioskodawców, z treści dokumentu usunięto jeden z zarzutów."
+    },
+    {
+      "title": "Sprawa immunitetu Łukasza Mejzy. Jest rekomendacja komisji",
+      "link": "https://tvn24.pl/polska/lukasz-mejza-przed-komisja-regulaminowa-sejmu-jest-rekomendacja-uchylenia-immunitetu-st9240729?source=rss",
+      "pubDate": "Wed, 16 Sep 2026 17:51:18 GMT",
+      "description": "Sejmowa komisja regulaminowa zarekomendowała w środę wyrażenie zgody na uchylenie immunitetu niezrzeszonemu posłowi Łukaszowi Mejzie. Sam parlamentarzysta zapewnił, że dobrowolnie zrezygnuje z immunitetu, ale nie teraz, a \"w czasie, który uzna za stosowny\".",
+      "originalTitle": "Sprawa immunitetu Łukasza Mejzy. Jest rekomendacja komisji",
+      "originalDescription": "Sejmowa komisja regulaminowa zarekomendowała w środę wyrażenie zgody na uchylenie immunitetu niezrzeszonemu posłowi Łukaszowi Mejzie. Sam parlamentarzysta zapewnił, że dobrowolnie zrezygnuje z immunitetu, ale nie teraz, a \"w czasie, który uzna za stosowny\"."
+    }
+  ]
 }
