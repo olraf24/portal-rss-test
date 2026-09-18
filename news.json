@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-18T15:55:23.997Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-18T18:54:47.491Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Marcin Kierwiński: budujemy system ostrzegania od zera",
+      "link": "https://tvn24.pl/polska/system-ostrzegania-w-polsce-marcin-kierwinski-budujemy-go-od-zera-st9244845?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 18:41:55 GMT",
+      "description": "Jesteśmy w procesie poprawiania systemu ostrzegania. Zrobiliśmy wiele, żeby pracował lepiej, niż trzy lata temu - powiedział w \"Faktach po Faktach\" w TVN24 szef MSWiA Marcin Kierwiński. Mówił między innymi o planach wprowadzenia systemu Cell Broadcast. Według niego możliwe, że stanie się to w sierpniu przyszłego roku.",
+      "originalTitle": "Marcin Kierwiński: budujemy system ostrzegania od zera",
+      "originalDescription": "Jesteśmy w procesie poprawiania systemu ostrzegania. Zrobiliśmy wiele, żeby pracował lepiej, niż trzy lata temu - powiedział w \"Faktach po Faktach\" w TVN24 szef MSWiA Marcin Kierwiński. Mówił między innymi o planach wprowadzenia systemu Cell Broadcast. Według niego możliwe, że stanie się to w sierpniu przyszłego roku."
+    },
+    {
+      "title": "Chcą wprowadzić \"wyłącznik\" AI. \"Stawka jest zbyt wysoka\"",
+      "link": "https://tvn24.pl/biznes/tech/usa-gavin-newsom-wzywa-do-wprowadzenia-wylacznika-ai-stawka-jest-zbyt-wysoka-st9244857?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 18:35:45 GMT",
+      "description": "Rozporządzenie, podpisane w piątek przez gubernatora amerykańskiego stanu Kalifornia Gavina Newsoma, to pierwszy krok do uregulowania ryzyk związanych z szybkim rozwojem sztucznej inteligencji. Wśród proponowanych rozwiązań jest wymóg stworzenia \"wyłącznika\" dla zaawansowanych modeli AI.",
+      "originalTitle": "Chcą wprowadzić \"wyłącznik\" AI. \"Stawka jest zbyt wysoka\"",
+      "originalDescription": "Rozporządzenie, podpisane w piątek przez gubernatora amerykańskiego stanu Kalifornia Gavina Newsoma, to pierwszy krok do uregulowania ryzyk związanych z szybkim rozwojem sztucznej inteligencji. Wśród proponowanych rozwiązań jest wymóg stworzenia \"wyłącznika\" dla zaawansowanych modeli AI."
+    },
+    {
+      "title": "Ludzie TV Republika w służbie szefa Zondacrypto",
+      "link": "https://tvn24.pl/fakty-artykuly/ludzie-tv-republika-w-sluzbie-przemyslawa-krala-szefa-zondacrypto-st9244853?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 18:11:51 GMT",
+      "description": "Oto ludzie, którzy nazywają siebie dziennikarzami i szkalują prawdziwych dziennikarzy. Na potwierdzenie najnowszych ustaleń są przelewy, są zeznania i jest korespondencja. To materiał o ludziach medialnej przybudówki PiS-u w służbie Przemysława Krala.",
+      "originalTitle": "Ludzie TV Republika w służbie szefa Zondacrypto",
+      "originalDescription": "Oto ludzie, którzy nazywają siebie dziennikarzami i szkalują prawdziwych dziennikarzy. Na potwierdzenie najnowszych ustaleń są przelewy, są zeznania i jest korespondencja. To materiał o ludziach medialnej przybudówki PiS-u w służbie Przemysława Krala."
+    },
+    {
+      "title": "Na autostradzie wysiadł z auta, zginął pod kołami ciężarówki",
+      "link": "https://tvn24.pl/krakow/krakow-na-autostradzie-wysiadl-z-auta-zginal-pod-kolami-ciezarowki-st9244809?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:52:45 GMT",
+      "description": "Nie żyje 73-letni pasażer auta osobowego. Na autostradzie A4 w Krakowie, gdy utworzył się korek, wysiadł on z samochodu i wpadł pod koła ciężarówki.",
+      "originalTitle": "Na autostradzie wysiadł z auta, zginął pod kołami ciężarówki",
+      "originalDescription": "Nie żyje 73-letni pasażer auta osobowego. Na autostradzie A4 w Krakowie, gdy utworzył się korek, wysiadł on z samochodu i wpadł pod koła ciężarówki."
+    },
+    {
+      "title": "Dron trafił elektrownię atomową. \"Niedopuszczalne\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rosja-dron-trafil-elektrownie-atomowa-w-kursku-rafael-grossi-wszelkie-ataki-na-obiekty-nuklearne-sa-niedopuszczalne-st9244779?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:39:26 GMT",
+      "description": "Dron trafił w wieżę chłodniczą reaktora Kurskiej Elektrowni Atomowej w Rosji, przekazała Międzynarodowa Agencja Energii Atomowej (MAEA). Do zdarzenia doszło w czwartek rano.",
+      "originalTitle": "Dron trafił elektrownię atomową. \"Niedopuszczalne\"",
+      "originalDescription": "Dron trafił w wieżę chłodniczą reaktora Kurskiej Elektrowni Atomowej w Rosji, przekazała Międzynarodowa Agencja Energii Atomowej (MAEA). Do zdarzenia doszło w czwartek rano."
+    },
+    {
+      "title": "Tony narkotyków, pięć lat procesu, ponad 30 skazanych",
+      "link": "https://tvn24.pl/poznan/poznan-wyroki-za-przemyt-i-handel-narkotykami-wsrod-skazanych-pseudokibice-st9243320?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 12:40:36 GMT",
+      "description": "Ponad 30 osób usłyszało wyroki za przemyt i handel narkotykami. Chodzi łącznie o około 3,6 tony narkotyków. Wszystkich skazano na kary więzienia od dwóch do ośmiu lat i czterech miesięcy. Wyrok nie jest prawomocny.",
+      "originalTitle": "Tony narkotyków, pięć lat procesu, ponad 30 skazanych",
+      "originalDescription": "Ponad 30 osób usłyszało wyroki za przemyt i handel narkotykami. Chodzi łącznie o około 3,6 tony narkotyków. Wszystkich skazano na kary więzienia od dwóch do ośmiu lat i czterech miesięcy. Wyrok nie jest prawomocny."
+    },
+    {
+      "title": "Syn uciekał, matka z mandatem",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/problem-z-hulajnogami-elektrycznymi-syn-uciekal-matka-z-mandatem-st9244790?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:26:06 GMT",
+      "description": "Chcieli go zatrzymać do kontroli, bo jechał hulajnogą elektryczną po drodze krajowej. Zaczął uciekać. Okazało się, że to 14-latek. Jego hulajnoga była odblokowana. Policjanci wezwali matkę chłopaka i wręczyli jej mandat w wysokości trzech tysięcy złotych.",
+      "originalTitle": "Syn uciekał, matka z mandatem",
+      "originalDescription": "Chcieli go zatrzymać do kontroli, bo jechał hulajnogą elektryczną po drodze krajowej. Zaczął uciekać. Okazało się, że to 14-latek. Jego hulajnoga była odblokowana. Policjanci wezwali matkę chłopaka i wręczyli jej mandat w wysokości trzech tysięcy złotych."
+    },
+    {
+      "title": "Prezydent złożył do Sejmu własny projekt ustawy obniżającej ceny paliw",
+      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-zlozyl-do-sejmu-wlasna-propozycje-obnizki-cen-paliw-co-zaklada-projekt-paliwo-kosztuje-normalnie-st9244740?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:25:26 GMT",
+      "description": "Prezydencki projekt ustawy obniżającej ceny paliw, który trafił dziś do Sejmu, zakłada między innymi możliwość administracyjnego ograniczenia marż rafineryjnych czy importowych i czasowe zwolnienie sprzedaży paliw z podatku od sprzedaży detalicznej. Analitycy ostrzegają, że wdrożenie ustawy może być niekorzystne dla polskich koncernów paliwowych.",
+      "originalTitle": "Prezydent złożył do Sejmu własny projekt ustawy obniżającej ceny paliw",
+      "originalDescription": "Prezydencki projekt ustawy obniżającej ceny paliw, który trafił dziś do Sejmu, zakłada między innymi możliwość administracyjnego ograniczenia marż rafineryjnych czy importowych i czasowe zwolnienie sprzedaży paliw z podatku od sprzedaży detalicznej. Analitycy ostrzegają, że wdrożenie ustawy może być niekorzystne dla polskich koncernów paliwowych."
+    },
+    {
+      "title": "Marcin Przydacz o wizycie Karola Nawrockiego w USA. W sprawie stałej bazy zostały do omówienia \"szczegóły\"",
+      "link": "https://tvn24.pl/swiat/plan-wizyty-karola-nawrockiego-w-usa-marcin-przydacz-w-sprawie-stalej-bazy-armii-usa-w-polsce-zostaly-do-omowienia-szczegoly-st9244729?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:24:56 GMT",
+      "description": "Karol Nawrocki udaje się wraz z małżonką z kilkudniową wizytą do USA. Prezydencki minister Marcin Przydacz przybliżył plan spotkań, a także zapewnił, że decyzja o stworzeniu stałej bazy armii USA w Polsce \"w zasadzie już zapadła\". Dodał, że prezydent Donald Trump nieprzypadkowo pisał o tej sprawie 17 września.",
+      "originalTitle": "Marcin Przydacz o wizycie Karola Nawrockiego w USA. W sprawie stałej bazy zostały do omówienia \"szczegóły\"",
+      "originalDescription": "Karol Nawrocki udaje się wraz z małżonką z kilkudniową wizytą do USA. Prezydencki minister Marcin Przydacz przybliżył plan spotkań, a także zapewnił, że decyzja o stworzeniu stałej bazy armii USA w Polsce \"w zasadzie już zapadła\". Dodał, że prezydent Donald Trump nieprzypadkowo pisał o tej sprawie 17 września."
+    },
+    {
+      "title": "Indonezja. Przeszukują wrak promu. \"Oni wciąż mogą tam być\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/indonezja-przeszukuja-wrak-promu-rodziny-licza-na-cud-st9244756?source=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:22:44 GMT",
+      "description": "Do dziewięciu wzrosła liczba ofiar wywrócenia się promu u wybrzeży Indonezji. Jak podały lokalne media, akcję utrudniają wzburzone fale, przez które ratownicy nie mogą dotrzeć do ponad stu zaginionych.",
+      "originalTitle": "Indonezja. Przeszukują wrak promu. \"Oni wciąż mogą tam być\"",
+      "originalDescription": "Do dziewięciu wzrosła liczba ofiar wywrócenia się promu u wybrzeży Indonezji. Jak podały lokalne media, akcję utrudniają wzburzone fale, przez które ratownicy nie mogą dotrzeć do ponad stu zaginionych."
+    }
+  ]
 }
