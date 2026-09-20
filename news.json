@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-20T17:59:37.077Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-20T20:43:36.239Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Utraciliśmy moment\". Bartłomiej Sienkiewicz o zmianach w Trybunale Konstytucyjnym",
+      "link": "https://tvn24.pl/polska/bartlomiej-sienkiewicz-utracilismy-najlepszy-moment-na-zmiany-w-trybunale-konstytucyjnym-st9246666?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 19:57:55 GMT",
+      "description": "Zdaniem europosła KO Bartłomieja Sienkiewicza należy naprawić Trybunał Konstytucyjny, ale najlepszy moment na to został \"bezpowrotnie utracony\". Były minister spraw wewnętrznych mówił również, jak Zachód powinien reagować na agresywne działania Rosji.",
+      "originalTitle": "\"Utraciliśmy moment\". Bartłomiej Sienkiewicz o zmianach w Trybunale Konstytucyjnym",
+      "originalDescription": "Zdaniem europosła KO Bartłomieja Sienkiewicza należy naprawić Trybunał Konstytucyjny, ale najlepszy moment na to został \"bezpowrotnie utracony\". Były minister spraw wewnętrznych mówił również, jak Zachód powinien reagować na agresywne działania Rosji."
+    },
+    {
+      "title": "Partia Władimira Putina wygrała \"wybory\"",
+      "link": "https://tvn24.pl/swiat/rosja-partia-jedna-rosja-wygrala-wybory-do-dumy-panstwowej-st9246654?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 19:16:58 GMT",
+      "description": "W Rosji odbyły się \"wybory\" do Dumy Państwowej bez udziału opozycji - startowały jedynie partie wierne Kremlowi. Wygrała partia władzy - Jedna Rosja Władimira Putina.",
+      "originalTitle": "Partia Władimira Putina wygrała \"wybory\"",
+      "originalDescription": "W Rosji odbyły się \"wybory\" do Dumy Państwowej bez udziału opozycji - startowały jedynie partie wierne Kremlowi. Wygrała partia władzy - Jedna Rosja Władimira Putina."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Silny wiatr w wielu regionach kraju",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przed-silnym-wiatrem-alarmy-w-wiekszosci-polski-st9245783?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 04:43:16 GMT",
+      "description": "IMGW wciąż ostrzega przed silnym wiatrem w znacznej części Polski. Miejscami wydano alarmy nawet drugiego stopnia. Będą takie regiony, gdzie niebezpieczne porywy mają nam towarzyszyć do poniedziałkowego południa.",
+      "originalTitle": "Ostrzeżenia IMGW. Silny wiatr w wielu regionach kraju",
+      "originalDescription": "IMGW wciąż ostrzega przed silnym wiatrem w znacznej części Polski. Miejscami wydano alarmy nawet drugiego stopnia. Będą takie regiony, gdzie niebezpieczne porywy mają nam towarzyszyć do poniedziałkowego południa."
+    },
+    {
+      "title": "Radar burz i opadów. Czego spodziewać się w pogodzie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/deszcz-i-burze-w-polsce-tu-ma-padac-w-niedziele-i-poniedzialek-zobacz-radar-i-mape-opadow-st9245680?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 05:56:00 GMT",
+      "description": "Opady, które wędrowały przez Polskę w niedzielę, będą towarzyszyć nam także w nocy z niedzieli na poniedziałek. Nie ustaną też silne porywy wiatru. Nasz synoptyk przekazał, czego dokładnie spodziewać się do godzin porannych w pogodzie. Sprawdź, na co się przygotować.",
+      "originalTitle": "Radar burz i opadów. Czego spodziewać się w pogodzie",
+      "originalDescription": "Opady, które wędrowały przez Polskę w niedzielę, będą towarzyszyć nam także w nocy z niedzieli na poniedziałek. Nie ustaną też silne porywy wiatru. Nasz synoptyk przekazał, czego dokładnie spodziewać się do godzin porannych w pogodzie. Sprawdź, na co się przygotować."
+    },
+    {
+      "title": "Gdzie jest burza? Tutaj wciąż mocno pada",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/gdzie-jest-burza-burze-w-polsce-w-niedziele-20-09-mapa-i-radar-burz-st9246473?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 14:06:49 GMT",
+      "description": "Gdzie jest burza? W niedzielę 20.09 w części kraju pojawiają się burze. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl.",
+      "originalTitle": "Gdzie jest burza? Tutaj wciąż mocno pada",
+      "originalDescription": "Gdzie jest burza? W niedzielę 20.09 w części kraju pojawiają się burze. Wyładowaniom towarzyszą opady deszczu oraz silne porywy wiatru. Śledź aktualną sytuację pogodową w tvnmeteo.pl."
+    },
+    {
+      "title": "Strzały w Małopolsce. Dwie osoby ranne, domniemany sprawca zatrzymany",
+      "link": "https://tvn24.pl/krakow/bukowno-strzaly-w-malopolsce-dwie-osoby-ranne-st9246632?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 18:05:07 GMT",
+      "description": "W miejscowości Bukowno w Małopolsce doszło do strzelaniny. Policja przekazała, że dwie osoby zostały ranne. Zatrzymano 52-latka.",
+      "originalTitle": "Strzały w Małopolsce. Dwie osoby ranne, domniemany sprawca zatrzymany",
+      "originalDescription": "W miejscowości Bukowno w Małopolsce doszło do strzelaniny. Policja przekazała, że dwie osoby zostały ranne. Zatrzymano 52-latka."
+    },
+    {
+      "title": "10 martwych lwów na terenie rezerwatu. Jest dochodzenie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/10-martwych-lwow-na-terenie-rezerwatu-w-tanzanii-jest-dochodzenie-st9246570?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 17:12:42 GMT",
+      "description": "W tym tygodniu na terenie rezerwatu przyrody Ngorongoro w Tanzanii znaleziono dziesięć martwych lwów. Władze mają wstępne ustalenia, co mogło doprowadzić do śmierci zwierząt. Wszczęto dochodzenie.",
+      "originalTitle": "10 martwych lwów na terenie rezerwatu. Jest dochodzenie",
+      "originalDescription": "W tym tygodniu na terenie rezerwatu przyrody Ngorongoro w Tanzanii znaleziono dziesięć martwych lwów. Władze mają wstępne ustalenia, co mogło doprowadzić do śmierci zwierząt. Wszczęto dochodzenie."
+    },
+    {
+      "title": "Exit poll: AfD wygrywa w Meklemburgii-Pomorzu Przednim",
+      "link": "https://tvn24.pl/swiat/niemcy-afd-wygrywa-w-meklemburgii-pomorzu-przednim-wyniki-wyborow-st9246560?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 16:12:18 GMT",
+      "description": "Skrajnie prawicowa AfD wygrała w niedzielę wybory lokalne w północno-wschodnim kraju związkowym Meklemburgia-Pomorze Przednie - wskazują wyniki exit poll. Drugie miejsce zdobyła SPD. Natomiast w Berlinie najwięcej głosów zdobyła Lewica.",
+      "originalTitle": "Exit poll: AfD wygrywa w Meklemburgii-Pomorzu Przednim",
+      "originalDescription": "Skrajnie prawicowa AfD wygrała w niedzielę wybory lokalne w północno-wschodnim kraju związkowym Meklemburgia-Pomorze Przednie - wskazują wyniki exit poll. Drugie miejsce zdobyła SPD. Natomiast w Berlinie najwięcej głosów zdobyła Lewica."
+    },
+    {
+      "title": "Jeden słoik, kilka krajów. Co z tym miodem?",
+      "link": "https://tvn24.pl/polska/miod-z-czterech-krajow-w-jednym-sloiku-co-kupujemy-i-co-mozna-wyczytac-z-etykiet-st9243433?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 15:59:28 GMT",
+      "description": "Co kryje się w słoiku miodu? Przez lata etykiety opatrzone były lakoniczną informacją o pochodzeniu jego zawartości. Dziś zdradzają znacznie więcej i niejednokrotnie zaskakują klientów, bo okazuje się, że wiele produktów na sklepowych półkach to mieszanki miodów z kilku odległych zakątków świata. Pszczelarze przekonują, że to wciąż za mało. Trwają prace nad stworzeniem Bazy Polskich Miodów.",
+      "originalTitle": "Jeden słoik, kilka krajów. Co z tym miodem?",
+      "originalDescription": "Co kryje się w słoiku miodu? Przez lata etykiety opatrzone były lakoniczną informacją o pochodzeniu jego zawartości. Dziś zdradzają znacznie więcej i niejednokrotnie zaskakują klientów, bo okazuje się, że wiele produktów na sklepowych półkach to mieszanki miodów z kilku odległych zakątków świata. Pszczelarze przekonują, że to wciąż za mało. Trwają prace nad stworzeniem Bazy Polskich Miodów."
+    },
+    {
+      "title": "USA. Wspinali się na szczyt, nagle rozszalała się burza. Nie żyje 19-latek",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-wspinali-sie-na-szczyt-nagle-rozszalala-sie-burza-nie-zyje-19-latek-st9246504?source=rss",
+      "pubDate": "Sun, 20 Sep 2026 15:36:45 GMT",
+      "description": "Jedna osoba zginęła, a kilka zostało rannych w wyniku uderzenia pioruna w rejonie góry Timpanogos w stanie Utah w USA. W chwili znacznego pogorszenia pogody grupa turystów schowała się w małej metalowej szopie.",
+      "originalTitle": "USA. Wspinali się na szczyt, nagle rozszalała się burza. Nie żyje 19-latek",
+      "originalDescription": "Jedna osoba zginęła, a kilka zostało rannych w wyniku uderzenia pioruna w rejonie góry Timpanogos w stanie Utah w USA. W chwili znacznego pogorszenia pogody grupa turystów schowała się w małej metalowej szopie."
+    }
+  ]
 }
