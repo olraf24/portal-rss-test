@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-21T19:05:06.248Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-21T22:43:38.311Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Poseł Konfederacji o prorosyjskości \"wszystkich\" partii w Niemczech. A Braun? \"Moim zdaniem nie\"",
+      "link": "https://tvn24.pl/swiat/michal-wawer-posel-konfederacji-kazda-partia-niemiecka-jest-prorosyjska-ale-grzegorz-braun-nie-jest-st9248341?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 21:37:50 GMT",
+      "description": "Nie rozumiem państwa postawy, bo część z państwa członków flirtuje z AfD - mówił w \"Kropce nad i\" Ryszard Petru, poseł Unii Centrum, zwracając się do polityka Konfederacji Michała Wawra przy okazji dyskusji o wyborach w Niemczech. Wawer ocenił, że wszystkie niemieckie partie są prorosyjskie. Pytany jednak o prorosyjskość Grzegorza Brauna, zaprzeczył.",
+      "originalTitle": "Poseł Konfederacji o prorosyjskości \"wszystkich\" partii w Niemczech. A Braun? \"Moim zdaniem nie\"",
+      "originalDescription": "Nie rozumiem państwa postawy, bo część z państwa członków flirtuje z AfD - mówił w \"Kropce nad i\" Ryszard Petru, poseł Unii Centrum, zwracając się do polityka Konfederacji Michała Wawra przy okazji dyskusji o wyborach w Niemczech. Wawer ocenił, że wszystkie niemieckie partie są prorosyjskie. Pytany jednak o prorosyjskość Grzegorza Brauna, zaprzeczył."
+    },
+    {
+      "title": "Atak na Ukrainę. Polskie lotnictwo poderwane, alert RCB",
+      "link": "https://tvn24.pl/polska/atak-na-ukraine-polskie-lotnictwo-poderwane-alert-rcb-st9248344?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:38:15 GMT",
+      "description": "W związku z atakiem Rosji na Ukrainę prewencyjnie poderwano polskie lotnictwo - przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Mieszkańcy województwa lubelskiego otrzymali alert RCB. Działania te zostały już zakończone.",
+      "originalTitle": "Atak na Ukrainę. Polskie lotnictwo poderwane, alert RCB",
+      "originalDescription": "W związku z atakiem Rosji na Ukrainę prewencyjnie poderwano polskie lotnictwo - przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Mieszkańcy województwa lubelskiego otrzymali alert RCB. Działania te zostały już zakończone."
+    },
+    {
+      "title": "Paraliż na lotniskach. Awaria łącza i przecięty kabel",
+      "link": "https://tvn24.pl/biznes/ze-swiata/paraliz-na-lotniskach-awaria-lacza-i-przeciety-kabel-st9248365?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 20:02:52 GMT",
+      "description": "Ponad tysiąc lotów do i z Nowego Jorku, Filadelfii oraz Bostonu zostało opóźnionych lub przekierowanych - przekazała Federalna Administracja Lotnictwa (FAA). Ruch lotniczy jest już stopniowo przywracany.",
+      "originalTitle": "Paraliż na lotniskach. Awaria łącza i przecięty kabel",
+      "originalDescription": "Ponad tysiąc lotów do i z Nowego Jorku, Filadelfii oraz Bostonu zostało opóźnionych lub przekierowanych - przekazała Federalna Administracja Lotnictwa (FAA). Ruch lotniczy jest już stopniowo przywracany."
+    },
+    {
+      "title": "\"Najpoważniejszy problem społeczny\". Wygrali wybory i zapowiadają nacjonalizację",
+      "link": "https://tvn24.pl/biznes/ze-swiata/najpowazniejszy-problem-spoleczny-wygrali-wybory-i-zapowiadaja-nacjonalizacje-st9246802?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:48:52 GMT",
+      "description": "Skrajne lewicowe ugrupowanie Die Linke wygrało wybory samorządowe w Berlinie. Jego lokalna liderka Elif Eralp planuje nacjonalizację 220 tysięcy mieszkań, by ograniczyć koszty najmu w niemieckiej stolicy.",
+      "originalTitle": "\"Najpoważniejszy problem społeczny\". Wygrali wybory i zapowiadają nacjonalizację",
+      "originalDescription": "Skrajne lewicowe ugrupowanie Die Linke wygrało wybory samorządowe w Berlinie. Jego lokalna liderka Elif Eralp planuje nacjonalizację 220 tysięcy mieszkań, by ograniczyć koszty najmu w niemieckiej stolicy."
+    },
+    {
+      "title": "Ostrzeżenia IMGW przed silnym deszczem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-przed-silnym-deszczem-alarmy-na-poludniu-kraju-st9248336?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:35:41 GMT",
+      "description": "IMGW wydał ostrzeżenia meteorologiczne. We wtorek w Tatrach przez cały dzień mają utrzymać się intensywne opady deszczu. Miejscami spodziewane są sumy rzędu 60 litrów na metr kwadratowy.",
+      "originalTitle": "Ostrzeżenia IMGW przed silnym deszczem",
+      "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. We wtorek w Tatrach przez cały dzień mają utrzymać się intensywne opady deszczu. Miejscami spodziewane są sumy rzędu 60 litrów na metr kwadratowy."
+    },
+    {
+      "title": "Stanowi prokuratorzy generalni zgodzili się na ugodę z Paramount w sprawie fuzji z Warner Bros. Discovery",
+      "link": "https://tvn24.pl/biznes/ze-swiata/stanowi-prokuratorzy-generalni-zgodzili-sie-na-ugode-z-paramount-w-sprawie-fuzji-z-warner-bros-discovery-st9248334?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:29:35 GMT",
+      "description": "Prokuratorzy generalni z 12 stanów zawarli ugodę, która otwiera drogę do sfinalizowania fuzji Paramount i Warner Bros. Discovery.",
+      "originalTitle": "Stanowi prokuratorzy generalni zgodzili się na ugodę z Paramount w sprawie fuzji z Warner Bros. Discovery",
+      "originalDescription": "Prokuratorzy generalni z 12 stanów zawarli ugodę, która otwiera drogę do sfinalizowania fuzji Paramount i Warner Bros. Discovery."
+    },
+    {
+      "title": "230 litrów bimbru. Trafiał do lokalnego sklepu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plonsk-kolorowy-bimber-trafial-z-przydomowej-produkcji-do-lokalnego-sklepu-st9248267?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:28:24 GMT",
+      "description": "Plastikowe butelki z alkoholem o różnych barwach znaleźli w domu 45-latka policjanci z Płońska (Mazowieckie). Bimber trafiał do sprzedaży w jednym ze sklepów. Policja znalazła łącznie 230 litrów wyrobu.",
+      "originalTitle": "230 litrów bimbru. Trafiał do lokalnego sklepu",
+      "originalDescription": "Plastikowe butelki z alkoholem o różnych barwach znaleźli w domu 45-latka policjanci z Płońska (Mazowieckie). Bimber trafiał do sprzedaży w jednym ze sklepów. Policja znalazła łącznie 230 litrów wyrobu."
+    },
+    {
+      "title": "Kryzys się rozleje. \"Wysokie ceny zostaną\"",
+      "link": "https://tvn24.pl/biznes/rynki/kryzys-sie-rozleje-wysokie-ceny-zostana-st9247462?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:01:06 GMT",
+      "description": "Konflikty w Iranie i w Ukrainie przyczyniają się do światowego deficytu oleju napędowego - przekazała agencja Reuters. Zdaniem analityków to nie koniec kłopotów, a trudna sytuacja na rynku potrwa dłużej.",
+      "originalTitle": "Kryzys się rozleje. \"Wysokie ceny zostaną\"",
+      "originalDescription": "Konflikty w Iranie i w Ukrainie przyczyniają się do światowego deficytu oleju napędowego - przekazała agencja Reuters. Zdaniem analityków to nie koniec kłopotów, a trudna sytuacja na rynku potrwa dłużej."
+    },
+    {
+      "title": "Spotkanie Władysława Kosiniaka-Kamysza w Pentagonie \"w innym terminie\". Komunikat MON",
+      "link": "https://tvn24.pl/swiat/spotkanie-wladyslawa-kosiniaka-kamysza-w-pentagonie-w-innym-terminie-komunikat-mon-st9248293?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 18:50:29 GMT",
+      "description": "Spotkanie szefa MON Władysława Kosiniaka-Kamysza w Pentagonie nie odbędzie się w planowanym terminie. Jak podał MON, związane jest to z \"pilną prośbą\" Amerykanów. Do Waszyngtonu mają na razie polecieć wiceministrowie Magdalena Sobkowiak-Czarnecka i Paweł Zalewski. Wiceministra przekazała w \"Tak jest\" w TVN24 nową informację w sprawie Patriotów.",
+      "originalTitle": "Spotkanie Władysława Kosiniaka-Kamysza w Pentagonie \"w innym terminie\". Komunikat MON",
+      "originalDescription": "Spotkanie szefa MON Władysława Kosiniaka-Kamysza w Pentagonie nie odbędzie się w planowanym terminie. Jak podał MON, związane jest to z \"pilną prośbą\" Amerykanów. Do Waszyngtonu mają na razie polecieć wiceministrowie Magdalena Sobkowiak-Czarnecka i Paweł Zalewski. Wiceministra przekazała w \"Tak jest\" w TVN24 nową informację w sprawie Patriotów."
+    },
+    {
+      "title": "Tramwaj wykoleił się i uderzył w słupki",
+      "link": "https://tvn24.pl/tvnwarszawa/zoliborz/warszawa-tramwaj-wykoleil-sie-na-placu-inwalidow-st9248290?source=rss",
+      "pubDate": "Mon, 21 Sep 2026 18:39:02 GMT",
+      "description": "Przy Placu Inwalidów wykoleił się tramwaj. Później w okolicy ulicy Międzyparkowej samochód zablokował torowisko. Były utrudnienia w kursowaniu trzech linii: 6, 15 i 18.",
+      "originalTitle": "Tramwaj wykoleił się i uderzył w słupki",
+      "originalDescription": "Przy Placu Inwalidów wykoleił się tramwaj. Później w okolicy ulicy Międzyparkowej samochód zablokował torowisko. Były utrudnienia w kursowaniu trzech linii: 6, 15 i 18."
+    }
+  ]
 }
