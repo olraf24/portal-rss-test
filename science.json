@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2026-09-21T06:47:55.196Z",
+  "lastUpdate": "2026-09-21T13:39:41.153Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Kiedy katalog papierowy nadal ma przewagę nad prezentacją online",
+      "link": "https://dzienniknaukowy.pl/kiedy-katalog-papierowy-nadal-ma-przewage-nad-prezentacja-online",
+      "pubDate": "Mon, 21 Sep 2026 10:50:53 +0000",
+      "description": "W wielu branżach materiały cyfrowe stały się dziś podstawowym narzędziem prezentacji oferty, ponieważ można je szybko aktualizować, wysyłać i udostępniać klientom. Jednak dobrze przygotowany katalog może być szczególnie przydatny, gdy liczy się swobodne porównywanie produktów, bezpośrednia interakcja z materiałami fizycznymi oraz możliwość pozostawienia dokumentu u klienta po spotkaniu. W praktyce nawet proste usługi, takie jak ksero, mogą nadal wspierać sprzedaż, obsługę klienta i prezentację oferty, gdy ekran nie jest najwygodniejszym nośnikiem informacji."
+    },
+    {
+      "title": "Wędrując po górach można pomóc archeologom szukać stanowisk z epoki kamienia",
+      "link": "https://dzienniknaukowy.pl/wedrujac-po-gorach-mozna-pomoc-archeologom-szukac-stanowisk-z-epoki-kamienia",
+      "pubDate": "Mon, 21 Sep 2026 10:29:01 +0000",
+      "description": "Podczas wędrówek po polskich górach warto spoglądać na nietypowe kamienie, a jeśli takie znajdziemy zgłosić je archeologom. W ten sposób pomożemy im szukać stanowisk z epoki kamienia. Dr Janusz Budziszewski wskazał, że kamyk powinien być wyraźnie inny od otaczających go w danym miejscu okruchów skał."
+    },
+    {
+      "title": "Odpady oczyszczą jeziora, a potem nakarmią rośliny. Polska technologia zmienia problem w rozwiązanie",
+      "link": "https://dzienniknaukowy.pl/odpady-oczyszcza-jeziora-a-potem-nakarmia-rosliny-polska-technologia-zmienia-problem-w-rozwiazanie",
+      "pubDate": "Mon, 21 Sep 2026 10:14:39 +0000",
+      "description": "Technologię, która jednocześnie oczyszcza jeziora, daje drugie życie odpadom i zamienia wodne zanieczyszczenia w nawóz dla rolnictwa opracowali naukowcy Politechniki Krakowskiej. Wraz z partnerami z Polski, Niemiec i Litwy stworzyli inteligentne materiały na bazie odpadowych zeolitów i sorbentów, które wychwytują z wody związki azotu i fosforu, odpowiedzialne za eutrofizację. Po recyklingu można je przekształcić w nawóz do roślin z kontrolowanym tempem uwalniania składników pokarmowych."
+    },
     {
       "title": "Rodzaje USG. Co można zbadać za pomocą ultrasonografii?",
       "link": "https://dzienniknaukowy.pl/rodzaje-usg-co-mozna-zbadac-za-pomoca-ultrasonografii",
@@ -44,24 +62,6 @@
       "link": "https://dzienniknaukowy.pl/lodowe-obiekty-z-okolic-neptuna-moglyby-zasilic-atmosfere-marsa",
       "pubDate": "Tue, 15 Sep 2026 09:58:08 +0000",
       "description": "Bardzo rzadką obecnie atmosferę na Marsie można by zagęścić, dostarczając do niej lodowe obiekty z rubieży Układu Słonecznego, a wraz z nimi wodę, gazy, amoniak. Podróż takich obiektów trwałaby jednak setki lat. Naukowcy z CBK PAN wyliczyli, jak dużej zmiany prędkości wymagałoby skierowanie ich na trajektorie zderzeniowe z Marsem."
-    },
-    {
-      "title": "System widzi przeszkodę, człowiek interpretuje sytuację. Gdzie przebiega granica automatyzacji bezpieczeństwa?",
-      "link": "https://dzienniknaukowy.pl/system-widzi-przeszkode-czlowiek-interpretuje-sytuacje-gdzie-przebiega-granica-automatyzacji-bezpieczenstwa",
-      "pubDate": "Tue, 15 Sep 2026 09:12:00 +0000",
-      "description": "Prowadząc samochód, obserwujesz otoczenie i stale oceniasz intencje innych uczestników ruchu. Nowoczesna elektronika wspiera ten proces, skanując przestrzeń za pomocą kamer oraz czujników. Urządzenia szybko dostrzegają obiekty na drodze, ale nie rozumieją intencji pieszego ani specyfiki sytuacji. Świadomość różnic między działaniem algorytmu a ludzkim osądem ułatwia bezpieczne podróżowanie."
-    },
-    {
-      "title": "Bakterie jelitowe też mają jet lag",
-      "link": "https://dzienniknaukowy.pl/bakterie-jelitowe-tez-maja-jet-lag",
-      "pubDate": "Fri, 11 Sep 2026 12:05:36 +0000",
-      "description": "Problemy ze snem, zmęczenie i dolegliwości trawienne po dalekiej podróży mogą wynikać nie tylko z rozregulowania zegara biologicznego człowieka. Jet lag zaburza również rytmy dobowe mikroorganizmów żyjących w jelitach - wykazali naukowcy z Uniwersytetu Medycznego we Wrocławiu."
-    },
-    {
-      "title": "Jak sprawdzić termometr przy minus 268 st. C? Polacy mierzą temperaturę światłem",
-      "link": "https://dzienniknaukowy.pl/jak-sprawdzic-termometr-przy-minus-268-st-c-polacy-mierza-temperature-swiatlem",
-      "pubDate": "Fri, 11 Sep 2026 11:56:21 +0000",
-      "description": "Fizycy z UMK w Toruniu zmierzyli temperaturę wodoru od 4,9 do 7,8 K, odczytując ją z poszerzenia linii widmowej wywołanego ruchem cząsteczek. Metoda nie wymaga kalibracji względem innego termometru, a ten sam pomiar pozwolił także wyznaczyć ciśnienie i sprawdzić przewidywania elektrodynamiki kwantowej."
     }
   ]
 }
