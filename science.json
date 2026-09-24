@@ -1,67 +1,7 @@
 {
-  "lastUpdate": "2026-09-24T03:24:37.268Z",
+  "lastUpdate": "2026-09-24T08:40:13.938Z",
   "enhancedWithGroq": false,
+  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": [
-    {
-      "title": "Mniejsza ilość białka może spowolnić proces starzenia u myszy",
-      "link": "https://dzienniknaukowy.pl/mniejsza-ilosc-bialka-moze-spowolnic-proces-starzenia-u-myszy",
-      "pubDate": "Wed, 23 Sep 2026 12:19:14 +0000",
-      "description": "Możliwość przesyłania coraz większej ilości danych, w wysokiej jakości i w krótkim czasie – jest jednym z najważniejszych współczesnych wyzwań technologii komunikacyjnych. Prof. Józef Modelski z Politechniki Warszawskiej dodaje jeszcze: niezawodność, bezpieczeństwo i możliwe małe zużycie energii."
-    },
-    {
-      "title": "Niewydolność serca: czas na profilaktykę",
-      "link": "https://dzienniknaukowy.pl/niewydolnosc-serca-czas-na-profilaktyke",
-      "pubDate": "Wed, 23 Sep 2026 11:56:28 +0000",
-      "description": "Niewydolność serca dotyka już ponad 60 milionów ludzi na świecie i należy do najczęstszych przyczyn hospitalizacji osób po 65. roku życia. Choć kojarzona jest głównie z zaawansowaną chorobą kardiologiczną, rozwija się przez wiele lat, często bezobjawowo. Eksperci przekonują, że właśnie dlatego kluczowe znaczenie ma profilaktyka podejmowana na długo przed pojawieniem się pierwszych symptomów."
-    },
-    {
-      "title": "Co dzieje się w Twoim organizmie? 10 ciekawostek o zdrowiu",
-      "link": "https://dzienniknaukowy.pl/co-dzieje-sie-w-twoim-organizmie-10-ciekawostek-o-zdrowiu",
-      "pubDate": "Wed, 23 Sep 2026 10:21:00 +0000",
-      "description": "Organizm człowieka każdego dnia wykonuje tysiące procesów, z których większości nawet nie zauważamy. Układ odpornościowy nieustannie reaguje na otoczenie, serce pracuje bez przerwy, a jelita zamieszkują miliardy mikroorganizmów. Niektóre mechanizmy zachodzące w ciele są na tyle interesujące, że mogą zmienić sposób, w jaki patrzymy na zdrowie i codzienne nawyki. Poznaj 10 ciekawostek o zdrowiu, które pokazują, jak niezwykłym systemem jest ludzki organizm."
-    },
-    {
-      "title": "Naukowcy zbadali białka bakterii osób z chorobą Parkinsona i Alzheimera",
-      "link": "https://dzienniknaukowy.pl/naukowcy-zbadali-bialka-bakterii-osob-z-choroba-parkinsona-i-alzheimera",
-      "pubDate": "Tue, 22 Sep 2026 10:49:34 +0000",
-      "description": "Bakterie obecne w ludzkich jelitach mogą produkować białka, które wyglądają bliźniaczo podobnie do tych, które prowokują rozwój chorób takich jak choroba Parkinsona czy Alzheimera – wykazały analizy naukowców z Politechniki Wrocławskiej. Wyniki te rzucają światło na jeden z możliwych scenariuszy rozwoju chorób neurodegeneracyjnych."
-    },
-    {
-      "title": "Prawdy i mity o miodzie",
-      "link": "https://dzienniknaukowy.pl/prawdy-i-mity-o-miodzie",
-      "pubDate": "Tue, 22 Sep 2026 10:37:18 +0000",
-      "description": "Miód lipowy, rzepakowy, wielokwiatowy, a może „leśny”? W sklepach i na targach wybór jest coraz większy, a wokół produktów pszczelich narasta wiele mitów i nieprawd. O tym, czy skrystalizowany miód jest gorszy od płynnego, czy miód się psuje oraz dlaczego propolis to jeden z najbardziej interesujących produktów pszczelich opowiada prof. Paweł Migdał z Instytutu Hodowli Zwierząt Uniwersytetu Przyrodniczego we Wrocławiu."
-    },
-    {
-      "title": "Cichy lokator z lasu. Dlaczego borelioza wciąż wymyka się medycynie?",
-      "link": "https://dzienniknaukowy.pl/cichy-lokator-z-lasu-dlaczego-borelioza-wciaz-wymyka-sie-medycynie",
-      "pubDate": "Tue, 22 Sep 2026 09:54:00 +0000",
-      "description": "Spacer po szeleszczącym pod nogami leśnym runie, popołudnie w miejskim parku albo po prostu koszenie trawnika we własnym ogródku – dla większości z nas to synonim relaksu. Jednak w cieniu tych codziennych przyjemności kryje się miniaturowy drapieżnik. Kleszcz nie posiada wzroku, ale bezbłędnie wyczuwa dwutlenek węgla, ciepło i zapach potu. Wraz z jego ukąszeniem do naszego krwiobiegu może trafić Borrelia burgdorferi – podstępna bakteria, która od lat budzi ogromne emocje i rodzi dziesiątki medycznych mitów."
-    },
-    {
-      "title": "Twarda woda w zbiorniku opryskiwacza – jak pH i jony wapnia obniżają skuteczność zabiegu?",
-      "link": "https://dzienniknaukowy.pl/twarda-woda-w-zbiorniku-opryskiwacza-jak-ph-i-jony-wapnia-obnizaja-skutecznosc-zabiegu",
-      "pubDate": "Tue, 22 Sep 2026 09:06:00 +0000",
-      "description": "Dobór odpowiedniej wody do oprysków oraz precyzyjna kontrola twardości i pH cieczy roboczej decydują o realnej skuteczności środków ochrony roślin i nawozów dolistnych. Zignorowanie tych parametrów prowadzi do częściowej lub całkowitej utraty działania substancji czynnych, wytrącania osadów, uszkodzeń sprzętu i spadku plonu."
-    },
-    {
-      "title": "Kiedy katalog papierowy nadal ma przewagę nad prezentacją online",
-      "link": "https://dzienniknaukowy.pl/kiedy-katalog-papierowy-nadal-ma-przewage-nad-prezentacja-online",
-      "pubDate": "Mon, 21 Sep 2026 10:50:53 +0000",
-      "description": "W wielu branżach materiały cyfrowe stały się dziś podstawowym narzędziem prezentacji oferty, ponieważ można je szybko aktualizować, wysyłać i udostępniać klientom. Jednak dobrze przygotowany katalog może być szczególnie przydatny, gdy liczy się swobodne porównywanie produktów, bezpośrednia interakcja z materiałami fizycznymi oraz możliwość pozostawienia dokumentu u klienta po spotkaniu. W praktyce nawet proste usługi, takie jak ksero, mogą nadal wspierać sprzedaż, obsługę klienta i prezentację oferty, gdy ekran nie jest najwygodniejszym nośnikiem informacji."
-    },
-    {
-      "title": "Wędrując po górach można pomóc archeologom szukać stanowisk z epoki kamienia",
-      "link": "https://dzienniknaukowy.pl/wedrujac-po-gorach-mozna-pomoc-archeologom-szukac-stanowisk-z-epoki-kamienia",
-      "pubDate": "Mon, 21 Sep 2026 10:29:01 +0000",
-      "description": "Podczas wędrówek po polskich górach warto spoglądać na nietypowe kamienie, a jeśli takie znajdziemy zgłosić je archeologom. W ten sposób pomożemy im szukać stanowisk z epoki kamienia. Dr Janusz Budziszewski wskazał, że kamyk powinien być wyraźnie inny od otaczających go w danym miejscu okruchów skał."
-    },
-    {
-      "title": "Odpady oczyszczą jeziora, a potem nakarmią rośliny. Polska technologia zmienia problem w rozwiązanie",
-      "link": "https://dzienniknaukowy.pl/odpady-oczyszcza-jeziora-a-potem-nakarmia-rosliny-polska-technologia-zmienia-problem-w-rozwiazanie",
-      "pubDate": "Mon, 21 Sep 2026 10:14:39 +0000",
-      "description": "Technologię, która jednocześnie oczyszcza jeziora, daje drugie życie odpadom i zamienia wodne zanieczyszczenia w nawóz dla rolnictwa opracowali naukowcy Politechniki Krakowskiej. Wraz z partnerami z Polski, Niemiec i Litwy stworzyli inteligentne materiały na bazie odpadowych zeolitów i sorbentów, które wychwytują z wody związki azotu i fosforu, odpowiedzialne za eutrofizację. Po recyklingu można je przekształcić w nawóz do roślin z kontrolowanym tempem uwalniania składników pokarmowych."
-    }
-  ]
+  "articles": []
 }

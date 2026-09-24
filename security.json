@@ -1,8 +1,56 @@
 {
-  "lastUpdate": "2026-09-24T03:24:36.674Z",
+  "lastUpdate": "2026-09-24T08:40:04.295Z",
   "enhancedWithGroq": false,
   "source": "Defence24.pl",
   "articles": [
+    {
+      "title": "Nowy Jork: Ukraińsko-fińska umowa ws. dronów",
+      "link": "https://defence24.pl/przemysl/nowy-jork-ukrainsko-finska-umowa-ws-dronow",
+      "pubDate": "Thu, 24 Sep 2026 08:41:49 +0200",
+      "description": "Ukraina i Finlandia podpisały w Nowym Jorku tzw. umowę dronową (Drone Deal) – przekazał w środę prezydent Wołodymyr Zełenski. Zadeklarował, że Ukraina jest gotowa dzielić się rozwiązaniami, które pomagają chronić życie."
+    },
+    {
+      "title": "Xi Jinping w USA: „MAGA” i odrodzenie Chin mogą iść w parze",
+      "link": "https://defence24.pl/geopolityka/xi-jinping-w-usa-maga-i-odrodzenie-chin-moga-isc-w-parze",
+      "pubDate": "Thu, 24 Sep 2026 07:22:39 +0200",
+      "description": "Wielkie odrodzenie narodu chińskiego i cel uczynienia Ameryki znów wielką mogą iść w parze – powiedział chiński przywódca Xi Jinping, cytowany w czwartek przez państwowe media. Xi w środę wieczorem przybył do Waszyngtonu, gdzie na lotnisku osobiście powitał go prezydent USA Donald Trump, co stanowiło odstępstwo od protokołu."
+    },
+    {
+      "title": "Nowe procedury dla polskich myśliwców",
+      "link": "https://defence24.pl/sily-zbrojne/nowe-procedury-dla-polskich-mysliwcow",
+      "pubDate": "Thu, 24 Sep 2026 07:05:55 +0200",
+      "description": "Polskie wojsko chce skrócić czas potrzebny na reakcję w przypadku wtargnięcia niezidentyfikowanego obiektu w przestrzeń powietrzną. Z zapowiedzi Cezarego Tomczyka w TVN24 wynika, że w określonych sytuacjach decyzja o użyciu uzbrojenia będzie mogła zostać podjęta na podstawie danych radarowych, bez konieczności wcześniejszego podejścia pilota na odległość umożliwiającą identyfikację wzrokową."
+    },
+    {
+      "title": "Amerykanie przyspieszają produkcję Patriotów. Pomoże samochodowy gigant",
+      "link": "https://defence24.pl/przemysl/amerykanie-przyspieszaja-produkcje-patriotow-pomoze-samochodowy-gigant",
+      "pubDate": "Thu, 24 Sep 2026 07:00:01 +0200",
+      "description": "Pentagon zażądał od amerykańskich koncernów przedstawienia planów radykalnego zwiększenia produkcji kluczowych systemów uzbrojenia. Przemysł miał wskazać możliwości skrócenia terminów dostaw, rozbudowy zakładów i uruchomienia dodatkowych linii produkcyjnych."
+    },
+    {
+      "title": "Czwartkowy przegląd mediów; Rosja i Chiny grają o świat; Nowe zasady dla myśliwców",
+      "link": "https://defence24.pl/polityka-obronna/czwartkowy-przeglad-mediow-rosja-i-chiny-graja-o-swiat-nowe-zasady-dla-mysliwcow",
+      "pubDate": "Thu, 24 Sep 2026 06:58:38 +0200",
+      "description": "Codzienny przegląd mediów sektora bezpieczeństwa i obronności."
+    },
+    {
+      "title": "Brytyjski zestaw przeciwlotniczy na fińskim podwoziu. Postęp czy krok wstecz? [KOMENTARZ]",
+      "link": "https://defence24.pl/przemysl/brytyjski-zestaw-przeciwlotniczy-na-finskim-podwoziu-postep-czy-krok-wstecz-komentarz",
+      "pubDate": "Thu, 24 Sep 2026 06:30:04 +0200",
+      "description": "Koncern Thales zaprezentował po raz pierwszy system przeciwlotniczy RapidRanger osadzony na fińskim transporterze opancerzonym Patria 6x6. Jego zdolności jednak wydają się krokiem wstecz względem zestawów Stormer HVM, które używa obecnie brytyjska armia."
+    },
+    {
+      "title": "Czy Francja obroni Europę? Paryż planuje inwestycje do 2050 roku",
+      "link": "https://defence24.pl/sily-zbrojne/czy-francja-obroni-europe-paryz-planuje-inwestycje-do-2050-roku",
+      "pubDate": "Thu, 24 Sep 2026 06:00:01 +0200",
+      "description": "Francja coraz częściej pozycjonuje się jako państwo, które ma wziąć większą odpowiedzialność za bezpieczeństwo Europy. Nowy dokument francuskiego Haut-Commissariat à la Stratégie et au Plan pokazuje jednak skalę problemu. Obecny model armii jest kompletny, ale w przypadku długotrwałej wojny o wysokiej intensywności szybko napotkałby znaczne ograniczenia. Paryż potrzebuje żołnierzy, większych zapasów uzbrojenia, silniejszego krajowego przemysłu oraz inwestycji w drony, robotyzację i sztuczną inteligencję."
+    },
+    {
+      "title": "Brytyjski samolot zwiadowczy nad Polską. Ważna misja przy granicy z Rosją",
+      "link": "https://defence24.pl/polityka-obronna/brytyjski-samolot-zwiadowczy-nad-polska-wazna-misja-przy-granicy-z-rosja",
+      "pubDate": "Thu, 24 Sep 2026 05:30:01 +0200",
+      "description": "W środę, 23 września, nad Polską po raz kolejny pojawił się brytyjski samolot zwiadowczy, P-8A Poseidon. Leciał przy granicy z Rosją (obwód królewiecki) i Białorusią, prowadząc rozpoznanie. Do Rzeszowa natomiast przyleciały trzy ciekawe, wojskowe maszyny – dwie amerykańskie i jedna kanadyjska."
+    },
     {
       "title": "Nawrocki: Polska będzie głosem regionu Europy Środkowej w formacie G20",
       "link": "https://defence24.pl/geopolityka/nawrocki-polska-bedzie-glosem-regionu-europy-srodkowej-w-formacie-g20",
@@ -16,7 +64,7 @@
       "description": "Rosja wykazuje się tą samą imperialną pychą, która w przeszłości prowadziła do niewyobrażalnych cierpień oraz tragedii dwóch wojen światowych – podkreślił prezydent Karol Nawrocki podczas debaty generalnej 81. sesji Zgromadzenia Ogólnego ONZ. Wezwał do stanowczej odpowiedzi na rosyjskie prowokacje."
     },
     {
-      "title": "Wiceszef MON wprost o zagrożeniu dla Polski. Mówi o „czarnym scenariuszu���",
+      "title": "Wiceszef MON wprost o zagrożeniu dla Polski. Mówi o „czarnym scenariuszu”",
       "link": "https://defence24.pl/polityka-obronna/wiceszef-mon-wprost-o-zagrozeniu-dla-polski-mowi-o-czarnym-scenariuszu",
       "pubDate": "Wed, 23 Sep 2026 20:30:22 +0200",
       "description": "W wywiadzie opublikowanym w Wirtualnej Polsce w środę, 23 września, wiceminister obrony narodowej wypowiedział się na temat zagrożenia dla wschodniej flanki, które płynie z Rosji. Cezary Tomczyk mówił o możliwych scenariuszach, a także ocenił przygotowanie polskiego lotnictwa do potencjalnych wyzwań."
@@ -37,61 +85,13 @@
       "title": "Stan podwyższonej gotowości na granicy. Minister przedstawił plan ewakuacji ludności",
       "link": "https://defence24.pl/polityka-obronna/stan-podwyzszonej-gotowosci-na-granicy-minister-przedstawil-plan-ewakuacji-ludnosci",
       "pubDate": "Wed, 23 Sep 2026 19:42:21 +0200",
-      "description": "We wtorek, 22 września, przy przejściu granicznym w Dorohusku, odbyła się konferencja prasowa, w której udział wziął szef MSWiA, Marcin Kierwiński, a także minister obrony narodowej, Władysław Kosiniak-Kamysz. Politycy poinformowali o postawieniu sze��ciu przejść granicznych w stan podwyższonej gotowości, a także opowiedzieli o nowoprzyjętych procedurach ewakuacyjnych."
+      "description": "We wtorek, 22 września, przy przejściu granicznym w Dorohusku, odbyła się konferencja prasowa, w której udział wziął szef MSWiA, Marcin Kierwiński, a także minister obrony narodowej, Władysław Kosiniak-Kamysz. Politycy poinformowali o postawieniu sześciu przejść granicznych w stan podwyższonej gotowości, a także opowiedzieli o nowoprzyjętych procedurach ewakuacyjnych."
     },
     {
       "title": "Samolot węgierskich sił powietrznych wleciał do Polski",
       "link": "https://defence24.pl/geopolityka/samolot-wegierskich-sil-powietrznych-wlecial-do-polski",
       "pubDate": "Wed, 23 Sep 2026 19:30:04 +0200",
       "description": "W środę, 23 września, do Polski wleciał samolot węgierskich sił powietrznych – Airbus A319-112. Wylądował w Warszawie, skąd po niedługim czasie wrócił do swojego kraju. Cel przylotu nie został oficjalnie przedstawiony, jednak mamy dwie bardzo prawdopodobne hipotezy."
-    },
-    {
-      "title": "Polska zbroi się w Korei. Koniunktura czy współpraca na dekady?",
-      "link": "https://defence24.pl/polityka-obronna/polska-zbroi-sie-w-korei-koniunktura-czy-wspolpraca-na-dekady",
-      "pubDate": "Wed, 23 Sep 2026 19:00:02 +0200",
-      "description": "Polska kupuje w Korei Południowej uzbrojenie za dziesiątki miliardów złotych. Czy ta relacja jest czysto merkantylna, czy też możemy spodziewać się coraz silniejszych więzi między rządami w Seulu i Warszawie? Czy Koreańczycy mogliby pomóc Polsce w budowie narodowego systemu odstraszania?"
-    },
-    {
-      "title": "Ukraiński dron zabił dowódcę rosyjskiego 8. pułku artylerii",
-      "link": "https://defence24.pl/wojna-na-ukrainie-raport-specjalny-defence24/ukrainski-dron-zabil-dowodce-rosyjskiego-8-pulku-artylerii",
-      "pubDate": "Wed, 23 Sep 2026 18:40:20 +0200",
-      "description": "Ukraiński dron zabił pułkownika Aleksandra Isajewa, dowódcę rosyjskiego 8. pułku artylerii. Do ataku miało dojść 19 września w obwodzie chersońskim. Informację przekazał ukraiński projekt „Księga katów narodu ukraińskiego”."
-    },
-    {
-      "title": "Sikorski ujawnił, co ma w plecaku ewakuacyjnym. Zacharowa sugeruje, co powinien dopakować",
-      "link": "https://defence24.pl/geopolityka/sikorski-ujawnil-co-ma-w-plecaku-ewakuacyjnym-zacharowa-sugeruje-co-powinien-dopakowac",
-      "pubDate": "Wed, 23 Sep 2026 18:00:00 +0200",
-      "description": "We wtorek, 22 września, minister spraw zagranicznych Radosław Sikorski ujawnił w wywiadzie część zawartości swojego plecaka ewakuacyjnego. Jego wypowiedź natychmiast skomentowała ostro Maria Zacharowa, rzeczniczka rosyjskiego MSZ."
-    },
-    {
-      "title": "Służby poszukują niezidentyfikowanego obiektu latającego",
-      "link": "https://defence24.pl/sily-zbrojne/sluzby-poszukuja-niezidentyfikowanego-obiektu-latajacego",
-      "pubDate": "Wed, 23 Sep 2026 17:50:05 +0200",
-      "description": "Jak donoszą media, służby poszukują niezidentyfikowanego obiektu latającego w okolicach Malborka, który widoczny był na radarach po czym zniknął."
-    },
-    {
-      "title": "Japonia rozważa wykorzystanie humanoidalnych robotów w siłach zbrojnych",
-      "link": "https://defence24.pl/polityka-obronna/japonia-rozwaza-wykorzystanie-humanoidalnych-robotow-w-silach-zbrojnych",
-      "pubDate": "Wed, 23 Sep 2026 17:48:24 +0200",
-      "description": "Japonia zamierza zbadać możliwość wykorzystania humanoidalnych robotów wyposażonych w sztuczną inteligencję w Japońskich Siłach Samoobrony. Powodem są między innymi problemy z pozyskiwaniem nowych żołnierzy. Według informacji Japan Today, powołującego się na źródła w japońskim rządzie oraz rządzącej Partii Liberalno-Demokratycznej, roboty mogłyby w przyszłości przejmować część zadań wykonywanych obecnie przez personel. Japończycy koncentrują się przede wszystkim na zadaniach wykonywanych w warunkach pozabojowych, takich jak patrolowanie baz wojskowych, transport wyposażenia czy wsparcie logistyczne."
-    },
-    {
-      "title": "Dron znaleziony pod bazą w Niemczech mógł być wyposażony w materiały wybuchowe",
-      "link": "https://defence24.pl/polityka-obronna/dron-znaleziony-pod-baza-w-niemczech-mogl-byc-wyposazony-w-materialy-wybuchowe",
-      "pubDate": "Wed, 23 Sep 2026 17:42:51 +0200",
-      "description": "Wrak drona znalezionego w pobliżu niemieckiej bazy lotniczej Wunstorf może mieć znacznie poważniejszy charakter, niż początkowo zakładano. Według informacji „Süddeutsche Zeitung” w pobliżu miejsca rozbicia bezzałogowca znaleziono podejrzaną substancję, która może być materiałem wybuchowym. Badania kryminalistyczne w tej sprawie nadal trwają."
-    },
-    {
-      "title": "Katastrofa samolotu szkoleniowego. Maszyna rozbiła się w Walii",
-      "link": "https://defence24.pl/sily-zbrojne/katastrofa-samolotu-szkoleniowego-maszyna-rozbila-sie-w-walii",
-      "pubDate": "Wed, 23 Sep 2026 17:25:01 +0200",
-      "description": "W Walii doszło do katastrofy lotniczej z udziałem samolotu szkoleniowego Królewskich Sił Powietrznych. Wszystko wskazuje na to, że maszyna doświadczyła poważnej awarii technicznej."
-    },
-    {
-      "title": "Przyszły hit eksportowy? Pierwszy seryjny KF-21 w służbie",
-      "link": "https://defence24.pl/przemysl/przyszly-hit-eksportowy-pierwszy-seryjny-kf-21-w-sluzbie",
-      "pubDate": "Wed, 23 Sep 2026 17:10:01 +0200",
-      "description": "Siły Powietrzne Republiki Korei odebrały pierwszy z krajowej produkcji myśliwców KF-21 Boramae – poinformowała DAPA (Defense Acquisition Program Administration). Tym samym rozpoczyna się wdrażanie tego typu do służby operacyjnej."
     }
   ]
 }
