@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "2026-09-24T08:40:13.938Z",
+  "lastUpdate": "2026-09-24T14:02:46.632Z",
   "enhancedWithGroq": false,
-  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": []
+  "articles": [
+    {
+      "title": "Urlop brany raz albo dwa razy do roku to za mało dla organizmu",
+      "link": "https://dzienniknaukowy.pl/urlop-brany-raz-albo-dwa-razy-do-roku-to-za-malo-dla-organizmu",
+      "pubDate": "Thu, 24 Sep 2026 11:28:30 +0000",
+      "description": "Urlop brany tradycyjnie, raz albo dwa razy do roku, to za mało dla prawidłowego funkcjonowania organizmu. Brak systematycznej regeneracji może prowadzić m.in. do wypalenia zawodowego - powiedziała PAP psycholożka z Uniwersytetu SWPS Aleksandra Penza. Wskazała też na elementy dobrego wypoczynku."
+    },
+    {
+      "title": "Rzeki pogłębiły tatrzańskie doliny, a lodowce nadały im chakterystyczny wygląd",
+      "link": "https://dzienniknaukowy.pl/rzeki-poglebily-tatrzanskie-doliny-a-lodowce-nadaly-im-chakterystyczny-wyglad",
+      "pubDate": "Thu, 24 Sep 2026 11:14:47 +0000",
+      "description": "Naukowcy z Polski i USA badają ewolucję Tatr. Za pogłębianie dolin po północnej stronie Tatr odpowiadały przede wszystkim rzeki - twierdzą - zaś lodowce przekształciły istniejącą rzeźbę terenu, nadając jej charakterystyczny wygląd. Ustalili to po analizach osadów z tatrzańskich jaskiń."
+    },
+    {
+      "title": "Specjalistyczny sprzęt medyczny – jak wybrać, na co zwrócić uwagę i dlaczego jakość ma znaczenie",
+      "link": "https://dzienniknaukowy.pl/specjalistyczny-sprzet-medyczny-jak-wybrac-na-co-zwrocic-uwage-i-dlaczego-jakosc-ma-znaczenie",
+      "pubDate": "Thu, 24 Sep 2026 10:30:00 +0000",
+      "description": "Każdego dnia w szpitalach, przychodniach i gabinetach lekarskich zapada wiele decyzji, od których zależy zdrowie pacjentów. Część z nich dotyczy diagnostyki i leczenia, ale sporo sprowadza się do czegoś bardziej przyziemnego: czy dostępne urządzenia działają tak, jak powinny. Właśnie dlatego dobrze dobrany specjalistyczny sprzęt medyczny bywa jednym z najważniejszych elementów codziennej pracy placówki. To nie tylko narzędzia, ale realne wsparcie dla personelu i bezpieczeństwo dla osób, które trafiają pod jego opiekę."
+    },
+    {
+      "title": "Szyfrowany komunikator w firmie: dlaczego samo E2EE to za mało?",
+      "link": "https://dzienniknaukowy.pl/szyfrowany-komunikator-w-firmie-dlaczego-samo-e2ee-to-za-malo",
+      "pubDate": "Thu, 24 Sep 2026 09:44:00 +0000",
+      "description": "Jak wybrać bezpieczny komunikator biznesowy? Sprawdź znaczenie E2EE, zarządzania użytkownikami, prywatności i kontroli dostępu w firmie."
+    },
+    {
+      "title": "Mniejsza ilość białka może spowolnić proces starzenia u myszy",
+      "link": "https://dzienniknaukowy.pl/mniejsza-ilosc-bialka-moze-spowolnic-proces-starzenia-u-myszy",
+      "pubDate": "Wed, 23 Sep 2026 12:19:14 +0000",
+      "description": "Możliwość przesyłania coraz większej ilości danych, w wysokiej jakości i w krótkim czasie – jest jednym z najważniejszych współczesnych wyzwań technologii komunikacyjnych. Prof. Józef Modelski z Politechniki Warszawskiej dodaje jeszcze: niezawodność, bezpieczeństwo i możliwe małe zużycie energii."
+    },
+    {
+      "title": "Niewydolność serca: czas na profilaktykę",
+      "link": "https://dzienniknaukowy.pl/niewydolnosc-serca-czas-na-profilaktyke",
+      "pubDate": "Wed, 23 Sep 2026 11:56:28 +0000",
+      "description": "Niewydolność serca dotyka już ponad 60 milionów ludzi na świecie i należy do najczęstszych przyczyn hospitalizacji osób po 65. roku życia. Choć kojarzona jest głównie z zaawansowaną chorobą kardiologiczną, rozwija się przez wiele lat, często bezobjawowo. Eksperci przekonują, że właśnie dlatego kluczowe znaczenie ma profilaktyka podejmowana na długo przed pojawieniem się pierwszych symptomów."
+    },
+    {
+      "title": "Co dzieje się w Twoim organizmie? 10 ciekawostek o zdrowiu",
+      "link": "https://dzienniknaukowy.pl/co-dzieje-sie-w-twoim-organizmie-10-ciekawostek-o-zdrowiu",
+      "pubDate": "Wed, 23 Sep 2026 10:21:00 +0000",
+      "description": "Organizm człowieka każdego dnia wykonuje tysiące procesów, z których większości nawet nie zauważamy. Układ odpornościowy nieustannie reaguje na otoczenie, serce pracuje bez przerwy, a jelita zamieszkują miliardy mikroorganizmów. Niektóre mechanizmy zachodzące w ciele są na tyle interesujące, że mogą zmienić sposób, w jaki patrzymy na zdrowie i codzienne nawyki. Poznaj 10 ciekawostek o zdrowiu, które pokazują, jak niezwykłym systemem jest ludzki organizm."
+    },
+    {
+      "title": "Naukowcy zbadali białka bakterii osób z chorobą Parkinsona i Alzheimera",
+      "link": "https://dzienniknaukowy.pl/naukowcy-zbadali-bialka-bakterii-osob-z-choroba-parkinsona-i-alzheimera",
+      "pubDate": "Tue, 22 Sep 2026 10:49:34 +0000",
+      "description": "Bakterie obecne w ludzkich jelitach mogą produkować białka, które wyglądają bliźniaczo podobnie do tych, które prowokują rozwój chorób takich jak choroba Parkinsona czy Alzheimera – wykazały analizy naukowców z Politechniki Wrocławskiej. Wyniki te rzucają światło na jeden z możliwych scenariuszy rozwoju chorób neurodegeneracyjnych."
+    },
+    {
+      "title": "Prawdy i mity o miodzie",
+      "link": "https://dzienniknaukowy.pl/prawdy-i-mity-o-miodzie",
+      "pubDate": "Tue, 22 Sep 2026 10:37:18 +0000",
+      "description": "Miód lipowy, rzepakowy, wielokwiatowy, a może „leśny”? W sklepach i na targach wybór jest coraz większy, a wokół produktów pszczelich narasta wiele mitów i nieprawd. O tym, czy skrystalizowany miód jest gorszy od płynnego, czy miód się psuje oraz dlaczego propolis to jeden z najbardziej interesujących produktów pszczelich opowiada prof. Paweł Migdał z Instytutu Hodowli Zwierząt Uniwersytetu Przyrodniczego we Wrocławiu."
+    },
+    {
+      "title": "Cichy lokator z lasu. Dlaczego borelioza wciąż wymyka się medycynie?",
+      "link": "https://dzienniknaukowy.pl/cichy-lokator-z-lasu-dlaczego-borelioza-wciaz-wymyka-sie-medycynie",
+      "pubDate": "Tue, 22 Sep 2026 09:54:00 +0000",
+      "description": "Spacer po szeleszczącym pod nogami leśnym runie, popołudnie w miejskim parku albo po prostu koszenie trawnika we własnym ogródku – dla większości z nas to synonim relaksu. Jednak w cieniu tych codziennych przyjemności kryje się miniaturowy drapieżnik. Kleszcz nie posiada wzroku, ale bezbłędnie wyczuwa dwutlenek węgla, ciepło i zapach potu. Wraz z jego ukąszeniem do naszego krwiobiegu może trafić Borrelia burgdorferi – podstępna bakteria, która od lat budzi ogromne emocje i rodzi dziesiątki medycznych mitów."
+    }
+  ]
 }
