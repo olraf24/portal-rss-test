@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-09-29T23:52:42.025Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-09-30T04:15:24.407Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Alert RCB w związku z rosyjskim atakiem na Ukrainę",
+      "link": "https://tvn24.pl/polska/alert-rcb-w-zwiazku-z-rosyjskim-atakiem-na-ukraine-st9261692?source=rss",
+      "pubDate": "Wed, 30 Sep 2026 04:10:28 GMT",
+      "description": "Do mieszkańców w województwach podkarpackim i lubelskim wysłano alert RCB. Jest to spowodowane rosyjskim atakiem na Ukrainę.",
+      "originalTitle": "Alert RCB w związku z rosyjskim atakiem na Ukrainę",
+      "originalDescription": "Do mieszkańców w województwach podkarpackim i lubelskim wysłano alert RCB. Jest to spowodowane rosyjskim atakiem na Ukrainę."
+    },
+    {
+      "title": "Estońskie służby: Rosja stoi za podpaleniem spółki zbrojeniowej Milrem",
+      "link": "https://tvn24.pl/swiat/estonia-kontrwywiad-za-podpaleniem-spolki-zbrojeniowej-milrem-stoja-rosyjskie-sluzby-st9261680?source=rss",
+      "pubDate": "Wed, 30 Sep 2026 03:27:00 GMT",
+      "description": "Estoński kontrwywiad KAPO oraz rząd Estonii oświadczyły, że podpalenie obiektu spółki zbrojeniowej Milrem w Tallinnie było aktem dywersji zleconym przez służby specjalne Rosji. W reakcji estońskie MSZ wezwało charge d'affaires Rosji i zapowiedziało zaostrzenie sankcji.",
+      "originalTitle": "Estońskie służby: Rosja stoi za podpaleniem spółki zbrojeniowej Milrem",
+      "originalDescription": "Estoński kontrwywiad KAPO oraz rząd Estonii oświadczyły, że podpalenie obiektu spółki zbrojeniowej Milrem w Tallinnie było aktem dywersji zleconym przez służby specjalne Rosji. W reakcji estońskie MSZ wezwało charge d'affaires Rosji i zapowiedziało zaostrzenie sankcji."
+    },
+    {
+      "title": "Była urzędniczka: mój mąż był koordynatorem, nie było konfliktu interesów",
+      "link": "https://tvn24.pl/polska/kolejne-wyjasnienia-karoliny-s-11-rozprawa-w-procesie-st9261600?source=rss",
+      "pubDate": "Wed, 30 Sep 2026 03:24:35 GMT",
+      "description": "Oskarżona Karolina Ś. odpowiadała we wtorek przed sądem na pytania o swoją rolę w przyznawaniu dotacji z Funduszu Sprawiedliwości. Mówiła o słynnych \"spotkaniach wtorkowych\" nagranych po zmianie władzy przez Tomasza Mraza. Oraz o swojej osobistej relacji z przedstawicielem Fundacji Profeto, która dostała z Funduszu rekordową dotację.",
+      "originalTitle": "Była urzędniczka: mój mąż był koordynatorem, nie było konfliktu interesów",
+      "originalDescription": "Oskarżona Karolina Ś. odpowiadała we wtorek przed sądem na pytania o swoją rolę w przyznawaniu dotacji z Funduszu Sprawiedliwości. Mówiła o słynnych \"spotkaniach wtorkowych\" nagranych po zmianie władzy przez Tomasza Mraza. Oraz o swojej osobistej relacji z przedstawicielem Fundacji Profeto, która dostała z Funduszu rekordową dotację."
+    },
+    {
+      "title": "Sąd o działaniach RPD, kolejne \"nie\" Nawrockiego, Pentagon o stałej bazie USA w Polsce",
+      "link": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-30-wrzesnia-2026-roku-st9261688?source=rss",
+      "pubDate": "Wed, 30 Sep 2026 03:10:00 GMT",
+      "description": "TVN24 dotarła do uzasadnienia decyzji sądu do sprawy odebrania dzieci z Białołęki po interwencji Rzeczniczki Praw Dziecka. Karol Nawrocki przekazał Donaldowi Tuskowi negatywne stanowisko w sprawie powołania na funkcję Komendanta Służby Ochrony Państwa. Wiceszef Pentagonu poinformował o trwających pracach nad oceną możliwości utworzenia stałej bazy sił zbrojnych USA w Polsce. Zobacz, co jeszcze warto wiedzieć w środę 30 września.",
+      "originalTitle": "Sąd o działaniach RPD, kolejne \"nie\" Nawrockiego, Pentagon o stałej bazie USA w Polsce",
+      "originalDescription": "TVN24 dotarła do uzasadnienia decyzji sądu do sprawy odebrania dzieci z Białołęki po interwencji Rzeczniczki Praw Dziecka. Karol Nawrocki przekazał Donaldowi Tuskowi negatywne stanowisko w sprawie powołania na funkcję Komendanta Służby Ochrony Państwa. Wiceszef Pentagonu poinformował o trwających pracach nad oceną możliwości utworzenia stałej bazy sił zbrojnych USA w Polsce. Zobacz, co jeszcze warto wiedzieć w środę 30 września."
+    },
+    {
+      "title": "Stała baza USA w Polsce. Głos z Pentagonu",
+      "link": "https://tvn24.pl/swiat/stala-baza-usa-w-polsce-glos-z-pentagonu-st9261649?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 19:56:55 GMT",
+      "description": "Wiceszef Pentagonu Elbridge Colby poinformował, że trwają prace nad oceną możliwości utworzenia stałej bazy sił zbrojnych USA w Polsce. \"Robimy to na poziomie dwustronnym, prowadząc rozmowy techniczne\" - przekazał.",
+      "originalTitle": "Stała baza USA w Polsce. Głos z Pentagonu",
+      "originalDescription": "Wiceszef Pentagonu Elbridge Colby poinformował, że trwają prace nad oceną możliwości utworzenia stałej bazy sił zbrojnych USA w Polsce. \"Robimy to na poziomie dwustronnym, prowadząc rozmowy techniczne\" - przekazał."
+    },
+    {
+      "title": "To ma obniżyć ceny paliw. USA interweniują na rynku ropy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-chca-obnizyc-ceny-na-stacjach-paliw-jest-interwencja-administracji-donalda-trumpa-st9261655?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 19:49:06 GMT",
+      "description": "Stany Zjednoczone uwolnią 40 milionów baryłek ropy naftowej z rezerwy strategicznej w celu obniżenia cen paliw - ogłosił we wtorek amerykański sekretarz energii Chris Wright.",
+      "originalTitle": "To ma obniżyć ceny paliw. USA interweniują na rynku ropy",
+      "originalDescription": "Stany Zjednoczone uwolnią 40 milionów baryłek ropy naftowej z rezerwy strategicznej w celu obniżenia cen paliw - ogłosił we wtorek amerykański sekretarz energii Chris Wright."
+    },
+    {
+      "title": "Przełom po głośnej eksmisji. Władze w Hiszpanii przyjęły pakiet mieszkaniowy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/hiszpania-przelom-po-glosnej-eksmisji-wladze-przyjely-pakiet-mieszkaniowy-st9261648?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 19:38:05 GMT",
+      "description": "Hiszpański rząd przyjął pakiet regulacji, który przewiduje między innymi zamrożenie umów najmu, zakaz spekulacyjnych zakupów nieruchomości, a także zaostrzenie regulacji najmu krótkoterminowego - ogłosił we wtorek minister spraw społecznych Pablo Bustinduy.",
+      "originalTitle": "Przełom po głośnej eksmisji. Władze w Hiszpanii przyjęły pakiet mieszkaniowy",
+      "originalDescription": "Hiszpański rząd przyjął pakiet regulacji, który przewiduje między innymi zamrożenie umów najmu, zakaz spekulacyjnych zakupów nieruchomości, a także zaostrzenie regulacji najmu krótkoterminowego - ogłosił we wtorek minister spraw społecznych Pablo Bustinduy."
+    },
+    {
+      "title": "Uderzył po raz drugi. Zalane ulice i zniszczone budynki",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/huragan-polo-szaleje-w-meksyku-gdy-przechodzil-przez-kraj-zatrzesla-sie-ziemia-st9257979?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 06:23:00 GMT",
+      "description": "Huragan Polo po raz drugi uderzył w Meksyk, niosąc niszczycielski wiatr i doprowadzając do powodzi. Wcześniej przetaczał się przez Półwysep Kalifornijski, a w tym samym czasie doszło do trzęsienia ziemi.",
+      "originalTitle": "Uderzył po raz drugi. Zalane ulice i zniszczone budynki",
+      "originalDescription": "Huragan Polo po raz drugi uderzył w Meksyk, niosąc niszczycielski wiatr i doprowadzając do powodzi. Wcześniej przetaczał się przez Półwysep Kalifornijski, a w tym samym czasie doszło do trzęsienia ziemi."
+    },
+    {
+      "title": "Duża wygrana w Polsce. Wtorkowe losowanie w Eurojackpot",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-29-wrzesnia-2026-oto-liczby-i-wygrane-z-ostatniego-losowania-st9261599?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 19:08:40 GMT",
+      "description": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 460 milionów złotych. W Polsce najwyższa była wygrana trzeciego stopnia przekraczająca milion złotych. Oto wyniki losowania z 29 września 2026 roku.",
+      "originalTitle": "Duża wygrana w Polsce. Wtorkowe losowanie w Eurojackpot",
+      "originalDescription": "We wtorkowym losowaniu Eurojackpot nie padła główna wygrana. Kumulacja rośnie do 460 milionów złotych. W Polsce najwyższa była wygrana trzeciego stopnia przekraczająca milion złotych. Oto wyniki losowania z 29 września 2026 roku."
+    },
+    {
+      "title": "Sąd o sprawie dzieci z Białołęki. Mamy uzasadnienie decyzji",
+      "link": "https://tvn24.pl/polska/sprawa-dzieci-z-bialoleki-mamy-uzasadnienie-sadu-rodzinnego-st9261460?source=rss",
+      "pubDate": "Tue, 29 Sep 2026 19:07:27 GMT",
+      "description": "Sąd zdecydował, że nie było przesłanek uzasadniających umieszczenie dzieci w pieczy zastępczej - mówi Mariusz Jabłoński, rzecznik Sądu Okręgowego Warszawa-Praga, komentując sprawę odebrania dzieci z Białołęki. TVN24 dotarła do uzasadnienia decyzji sądu. W dokumencie mowa jest między innymi o niepokoju związanym z osobistym zaangażowaniem w sytuację rzeczniczki praw dziecka Moniki Horny-Cieślak. Materiał Anny Wilczyńskiej z magazynu \"Polska i Świat\".",
+      "originalTitle": "Sąd o sprawie dzieci z Białołęki. Mamy uzasadnienie decyzji",
+      "originalDescription": "Sąd zdecydował, że nie było przesłanek uzasadniających umieszczenie dzieci w pieczy zastępczej - mówi Mariusz Jabłoński, rzecznik Sądu Okręgowego Warszawa-Praga, komentując sprawę odebrania dzieci z Białołęki. TVN24 dotarła do uzasadnienia decyzji sądu. W dokumencie mowa jest między innymi o niepokoju związanym z osobistym zaangażowaniem w sytuację rzeczniczki praw dziecka Moniki Horny-Cieślak. Materiał Anny Wilczyńskiej z magazynu \"Polska i Świat\"."
+    }
+  ]
 }
