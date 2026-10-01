@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-01T00:41:10.186Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-01T06:53:52.519Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "80 lat współpracy Polski i USA. \"Niezwykle ważny moment\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/80-lat-wspolpracy-polski-i-usa-niezwykle-wazny-moment-st9263797?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:38:06 GMT",
+      "description": "To dla Polski ogromna szansa. Cieszymy się, że jesteśmy już tak blisko celu - powiedział Theodore Garrish z amerykańskiego Departamentu Energii. Skomentował w ten sposób prace nad pierwszą elektrownią jądrową w Polsce.",
+      "originalTitle": "80 lat współpracy Polski i USA. \"Niezwykle ważny moment\"",
+      "originalDescription": "To dla Polski ogromna szansa. Cieszymy się, że jesteśmy już tak blisko celu - powiedział Theodore Garrish z amerykańskiego Departamentu Energii. Skomentował w ten sposób prace nad pierwszą elektrownią jądrową w Polsce."
+    },
+    {
+      "title": "Jaki status w aferze Zondacrypto ma Przemysław Kral? Waldemar Żurek odpowiada",
+      "link": "https://tvn24.pl/polska/waldemar-zurek-o-statusie-przemyslawa-krala-w-aferze-zondacrypto-st9263839?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:31:12 GMT",
+      "description": "Status Przemysława Krala w aferze Zondacrypto będzie weryfikował sąd. Nie jest świadkiem koronnym - powiedział w \"Rozmowie Piaseckiego\" w TVN24 Waldemar Żurek. Minister sprawiedliwości zapowiedział, że w tej sprawie \"znacząco\" może się powiększyć liczba osób z zarzutami.",
+      "originalTitle": "Jaki status w aferze Zondacrypto ma Przemysław Kral? Waldemar Żurek odpowiada",
+      "originalDescription": "Status Przemysława Krala w aferze Zondacrypto będzie weryfikował sąd. Nie jest świadkiem koronnym - powiedział w \"Rozmowie Piaseckiego\" w TVN24 Waldemar Żurek. Minister sprawiedliwości zapowiedział, że w tej sprawie \"znacząco\" może się powiększyć liczba osób z zarzutami."
+    },
+    {
+      "title": "Sprzątają po \"epizodzie śródziemnomorskim\". Napędziła go anomalia",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/ulewy-we-francji-sprzataja-po-epizodzie-srodziemnomorskim-napedzila-go-anomalia-st9263806?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:26:28 GMT",
+      "description": "Opady deszczu w czwartek rano wciąż nawiedzały południowo-wschodnią Francję, ale \"epizod śródziemnomorski\" powoli dobiega końca. Lokalne władze ostrzegają, że w czwartek w wielu regionach sytuacja pozostaje trudna - intensywny deszcz uszkodził niektóre drogi i budynki.",
+      "originalTitle": "Sprzątają po \"epizodzie śródziemnomorskim\". Napędziła go anomalia",
+      "originalDescription": "Opady deszczu w czwartek rano wciąż nawiedzały południowo-wschodnią Francję, ale \"epizod śródziemnomorski\" powoli dobiega końca. Lokalne władze ostrzegają, że w czwartek w wielu regionach sytuacja pozostaje trudna - intensywny deszcz uszkodził niektóre drogi i budynki."
+    },
+    {
+      "title": "Potrącił pieszą i uciekł. Tak tłumaczył się policji",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/otwock-potracil-piesza-i-uciekl-bo-nie-mial-prawa-jazdy-st9263468?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:22:29 GMT",
+      "description": "Policjanci z Otwocka (Mazowieckie) zatrzymali 19-latka podejrzanego o potrącenie pieszej. Mężczyzna nie sprawdził, czy kobieta jest ranna i uciekł. Policji tłumaczył, że spanikował, bo nie miał prawa jazdy. Został aresztowany.",
+      "originalTitle": "Potrącił pieszą i uciekł. Tak tłumaczył się policji",
+      "originalDescription": "Policjanci z Otwocka (Mazowieckie) zatrzymali 19-latka podejrzanego o potrącenie pieszej. Mężczyzna nie sprawdził, czy kobieta jest ranna i uciekł. Policji tłumaczył, że spanikował, bo nie miał prawa jazdy. Został aresztowany."
+    },
+    {
+      "title": "Chiński trop na uczelniach. Brytyjski kontrwywiad ostrzega",
+      "link": "https://tvn24.pl/swiat/wielka-brytania-chinski-trop-na-uczelniach-kontrwywiad-ostrzega-st9263783?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:10:37 GMT",
+      "description": "Według brytyjskiego kontrwywiadu ponad 100 naukowców w kraju nieświadomie pomagało Chinom zwiększać zdolności szpiegowskie. MI5 ostrzegł brytyjskie uniwersytety przed współpracą z chińską instytucją badawczą, która - jego zdaniem - służy jako przykrywka do prowadzenia działań szpiegowskich.",
+      "originalTitle": "Chiński trop na uczelniach. Brytyjski kontrwywiad ostrzega",
+      "originalDescription": "Według brytyjskiego kontrwywiadu ponad 100 naukowców w kraju nieświadomie pomagało Chinom zwiększać zdolności szpiegowskie. MI5 ostrzegł brytyjskie uniwersytety przed współpracą z chińską instytucją badawczą, która - jego zdaniem - służy jako przykrywka do prowadzenia działań szpiegowskich."
+    },
+    {
+      "title": "Jeden przyłożył do gardła nóż, drugi groził przedmiotem przypominającym broń",
+      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-rozboj-z-uzyciem-broni-i-pozbawienie-wolnosci-trzech-mezczyzn-zatrzymanych-st9263819?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:05:45 GMT",
+      "description": "Policjanci zatrzymali 25-, 47- i 51-latka podejrzanych o dokonanie rozboju z użyciem broni palnej i pozbawienie wolności mężczyzny. Napastnicy bili po twarzy i całym ciele pokrzywdzonego, a jeden z nich przyłożył do gardła ofiary nóż.",
+      "originalTitle": "Jeden przyłożył do gardła nóż, drugi groził przedmiotem przypominającym broń",
+      "originalDescription": "Policjanci zatrzymali 25-, 47- i 51-latka podejrzanych o dokonanie rozboju z użyciem broni palnej i pozbawienie wolności mężczyzny. Napastnicy bili po twarzy i całym ciele pokrzywdzonego, a jeden z nich przyłożył do gardła ofiary nóż."
+    },
+    {
+      "title": "50-latka przewieziona do szpitala po nieudanej egzekucji",
+      "link": "https://tvn24.pl/swiat/usa-christa-pike-przewieziona-do-szpitala-po-nieudanej-egzekucji-st9263827?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 06:03:53 GMT",
+      "description": "50-letnia Christa Pike, skazana w Tennessee (USA) na karę śmierci, została przewieziona do szpitala po tym, jak jej serce nadal biło po podaniu dwóch zastrzyków, które miały spowodować śmierć - poinformował adwokat kobiety.",
+      "originalTitle": "50-latka przewieziona do szpitala po nieudanej egzekucji",
+      "originalDescription": "50-letnia Christa Pike, skazana w Tennessee (USA) na karę śmierci, została przewieziona do szpitala po tym, jak jej serce nadal biło po podaniu dwóch zastrzyków, które miały spowodować śmierć - poinformował adwokat kobiety."
+    },
+    {
+      "title": "Polska podzielona. \"Ukryty podatek\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/polska-podzielona-ukryty-podatek-st9263835?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:59:35 GMT",
+      "description": "Aż 70 procent polskich gmin się wyludniło od 2004 roku - podano w raporcie Polskiego Instytutu Ekonomicznego (PIE), który opisano w \"Rzeczpospolitej\". Depopulacja przekłada się na finanse i \"stopniowo ogranicza zdolność samorządów do tworzenia własnych wpływów budżetowych\".",
+      "originalTitle": "Polska podzielona. \"Ukryty podatek\"",
+      "originalDescription": "Aż 70 procent polskich gmin się wyludniło od 2004 roku - podano w raporcie Polskiego Instytutu Ekonomicznego (PIE), który opisano w \"Rzeczpospolitej\". Depopulacja przekłada się na finanse i \"stopniowo ogranicza zdolność samorządów do tworzenia własnych wpływów budżetowych\"."
+    },
+    {
+      "title": "Poziom wody spadł, firmy zanotowały milionowe straty",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/susza-na-renie-poziom-wody-spadl-firmy-zanotowaly-milionowe-straty-st9263433?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:41:51 GMT",
+      "description": "W Niemczech wciąż brakuje opadów. Długotrwała susza po raz kolejny w tym roku daje się we znaki na rzece Ren, której stan w niektórych miejscach spadł do niebezpiecznie niskich wartości.",
+      "originalTitle": "Poziom wody spadł, firmy zanotowały milionowe straty",
+      "originalDescription": "W Niemczech wciąż brakuje opadów. Długotrwała susza po raz kolejny w tym roku daje się we znaki na rzece Ren, której stan w niektórych miejscach spadł do niebezpiecznie niskich wartości."
+    },
+    {
+      "title": "\"Ocalił życie 174 osób\". Kim jest ranny pilot Smit Machchhar?",
+      "link": "https://tvn24.pl/swiat/atak-na-pilota-w-samolocie-do-izraela-kim-jest-ranny-smit-machchhar-st9263794?source=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:37:10 GMT",
+      "description": "Indyjski pilot Smit Machchhar został okrzyknięty bohaterem po tym, jak zapobiegł katastrofie samolotu linii flydubai lecącego do Izraela. Na pokładzie maszyny został brutalnie zaatakowany przez drugiego pilota, który próbował przejąć stery maszyny. Ranny pilot mimo to zdołał otworzyć drzwi do kokpitu, co pozwoliło innym osobom obezwładnić napastnika.",
+      "originalTitle": "\"Ocalił życie 174 osób\". Kim jest ranny pilot Smit Machchhar?",
+      "originalDescription": "Indyjski pilot Smit Machchhar został okrzyknięty bohaterem po tym, jak zapobiegł katastrofie samolotu linii flydubai lecącego do Izraela. Na pokładzie maszyny został brutalnie zaatakowany przez drugiego pilota, który próbował przejąć stery maszyny. Ranny pilot mimo to zdołał otworzyć drzwi do kokpitu, co pozwoliło innym osobom obezwładnić napastnika."
+    }
+  ]
 }
