@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-09T19:16:27.807Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-09T23:24:29.956Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Alert RCB w związku z rosyjskimi atakami na Ukrainę",
+      "link": "https://tvn24.pl/polska/alert-rcb-w-zwiazku-z-rosyjskimi-atakami-na-ukraine-st9279321?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 22:27:53 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa, w związku z rosyjskimi atakami na Ukrainę, wysłało alert do mieszkańców województwa podkarpackiego i lubelskiego. \"W przestrzeni RP operuje polskie lotnictwo\" - poinformowano.",
+      "originalTitle": "Alert RCB w związku z rosyjskimi atakami na Ukrainę",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa, w związku z rosyjskimi atakami na Ukrainę, wysłało alert do mieszkańców województwa podkarpackiego i lubelskiego. \"W przestrzeni RP operuje polskie lotnictwo\" - poinformowano."
+    },
+    {
+      "title": "Wołodymyr Zełenski: Rosja odwdzięczy się za diesel dalszym terrorem i podstępem",
+      "link": "https://tvn24.pl/swiat/usa-kupi-diesla-od-rosji-wolodymyr-zelenski-rosja-odwdzieczy-sie-terrorem-st9279286?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 20:36:25 GMT",
+      "description": "Prezydent Ukrainy skrytykował ostatnie posunięcia państw Zachodu, które łagodzą sankcje nałożone na Rosję. Odniósł się także do porozumienia o zakupie rosyjskiego oleju napędowego, jakie zawarł Donald Trump z Władimirem Putinem. Wołodymyr Zełenski ocenił, że Kreml \"odwdzięczy\" się terrorem.",
+      "originalTitle": "Wołodymyr Zełenski: Rosja odwdzięczy się za diesel dalszym terrorem i podstępem",
+      "originalDescription": "Prezydent Ukrainy skrytykował ostatnie posunięcia państw Zachodu, które łagodzą sankcje nałożone na Rosję. Odniósł się także do porozumienia o zakupie rosyjskiego oleju napędowego, jakie zawarł Donald Trump z Władimirem Putinem. Wołodymyr Zełenski ocenił, że Kreml \"odwdzięczy\" się terrorem."
+    },
+    {
+      "title": "Silne trzęsienie ziemi w Panamie. Zniszczone budynki i drogi, wstrzymane loty",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-panamie-wydano-alert-przed-tsunami-st9279208?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 18:23:45 GMT",
+      "description": "Trzęsienie ziemi nawiedziło Panamę. Wstrząsy miały magnitudę 7,7, a epicentrum znajdowało się w prowincji Herrera. Lokalne media informowały o zniszczeniach budynków i infrastruktury.",
+      "originalTitle": "Silne trzęsienie ziemi w Panamie. Zniszczone budynki i drogi, wstrzymane loty",
+      "originalDescription": "Trzęsienie ziemi nawiedziło Panamę. Wstrząsy miały magnitudę 7,7, a epicentrum znajdowało się w prowincji Herrera. Lokalne media informowały o zniszczeniach budynków i infrastruktury."
+    },
+    {
+      "title": "Kumulacja powyżej 500 milionów. Dwie wysokie wygrane w Eurojackpot",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-9-pazdziernika-2026-oto-liczby-i-wygrane-z-ostatniego-losowania-st9279259?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 19:46:15 GMT",
+      "description": "W piątkowym losowaniu Eurojackpot żadnemu z graczy nie udało się wytypować poprawnie wszystkich liczb. Kumulacja pozostaje na niezmienionym poziomie i wyniesie 520 milionów złotych. Oto wyniki losowania z 9 października 2026 roku.",
+      "originalTitle": "Kumulacja powyżej 500 milionów. Dwie wysokie wygrane w Eurojackpot",
+      "originalDescription": "W piątkowym losowaniu Eurojackpot żadnemu z graczy nie udało się wytypować poprawnie wszystkich liczb. Kumulacja pozostaje na niezmienionym poziomie i wyniesie 520 milionów złotych. Oto wyniki losowania z 9 października 2026 roku."
+    },
+    {
+      "title": "Ostatnie godziny przed uderzeniem huraganu. \"Spadajcie stamtąd\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/huragan-isaias-coraz-blizej-musimy-po-prostu-byc-przygotowani-na-najgorsze-st9278139?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 13:18:22 GMT",
+      "description": "Południowy wschód Stanów Zjednoczonych przygotowuje się na uderzenie huraganu Isaias. Żywioł za kilka godzin ma dotrzeć do wybrzeży Florydy. Władze apelują do mieszkańców, by nie lekceważyli burzy.",
+      "originalTitle": "Ostatnie godziny przed uderzeniem huraganu. \"Spadajcie stamtąd\"",
+      "originalDescription": "Południowy wschód Stanów Zjednoczonych przygotowuje się na uderzenie huraganu Isaias. Żywioł za kilka godzin ma dotrzeć do wybrzeży Florydy. Władze apelują do mieszkańców, by nie lekceważyli burzy."
+    },
+    {
+      "title": "Donald Trump dogadał się z Władimirem Putinem. Na rynek mają trafić miliony ton rosyjskiego oleju napędowego",
+      "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-dogadal-sie-z-wladimirem-putinem-na-rynek-maja-trafic-miliony-ton-rosyjskiego-oleju-napedowego-st9279251?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 19:23:20 GMT",
+      "description": "Prezydent USA Donald Trump poinformował w piątek, że Rosja zgodziła się niezwłocznie dostarczyć na rynek amerykański i globalny ponad 300 tysięcy ton oleju napędowego. Miał to być wynik \"niezwykle udanej\" rozmowy z przywódcą Rosji Władimirem Putinem.",
+      "originalTitle": "Donald Trump dogadał się z Władimirem Putinem. Na rynek mają trafić miliony ton rosyjskiego oleju napędowego",
+      "originalDescription": "Prezydent USA Donald Trump poinformował w piątek, że Rosja zgodziła się niezwłocznie dostarczyć na rynek amerykański i globalny ponad 300 tysięcy ton oleju napędowego. Miał to być wynik \"niezwykle udanej\" rozmowy z przywódcą Rosji Władimirem Putinem."
+    },
+    {
+      "title": "Ogromny wyciek danych w Danii. Haker ujawnił szczegóły",
+      "link": "https://tvn24.pl/biznes/tech/ogromny-wyciek-danych-w-danii-haker-ujawnil-szczegoly-st9279101?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 19:03:43 GMT",
+      "description": "Haker włamał się do duńskiego rejestru ludności za pomocą banalnie prostego hasła - przekazała gazeta \"Politiken\", która skontaktowała się z cyberprzestępcą. W ten sposób miał pozyskać dane ponad ośmiu milionów osób.",
+      "originalTitle": "Ogromny wyciek danych w Danii. Haker ujawnił szczegóły",
+      "originalDescription": "Haker włamał się do duńskiego rejestru ludności za pomocą banalnie prostego hasła - przekazała gazeta \"Politiken\", która skontaktowała się z cyberprzestępcą. W ten sposób miał pozyskać dane ponad ośmiu milionów osób."
+    },
+    {
+      "title": "\"Piramidalne nieporozumienie\". Zgorzelski o rozmowie Kosiniaka-Kamysza z Trumpem",
+      "link": "https://tvn24.pl/polska/piotr-zgorzelski-o-rozmowie-wladyslawa-kosiniaka-kamysza-z-donaldem-trumpem-st9279238?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 18:59:45 GMT",
+      "description": "Bazy \"były tematem, ale może nie głównym\", a Donald Trump nie namawiał Władysława Kosiniaka-Kamysza do wejścia w koalicję z prawicą. O czym jeszcze rozmawiali politycy? Według wicemarszałka Sejmu Piotra Zgorzelskiego, który był gościem \"Faktów po Faktach\" w TVN24, to tajemnica.",
+      "originalTitle": "\"Piramidalne nieporozumienie\". Zgorzelski o rozmowie Kosiniaka-Kamysza z Trumpem",
+      "originalDescription": "Bazy \"były tematem, ale może nie głównym\", a Donald Trump nie namawiał Władysława Kosiniaka-Kamysza do wejścia w koalicję z prawicą. O czym jeszcze rozmawiali politycy? Według wicemarszałka Sejmu Piotra Zgorzelskiego, który był gościem \"Faktów po Faktach\" w TVN24, to tajemnica."
+    },
+    {
+      "title": "Szef policji: na filmie 15-latka widać, jak w pewnym momencie uświadamia sobie, co zrobił",
+      "link": "https://tvn24.pl/polska/szef-policji-marek-boron-o-nagraniu-z-kamery-15-latka-ktory-zaatakowal-pracownikow-szkoly-w-leszczydole-nowinach-st9279205?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 18:45:12 GMT",
+      "description": "Widzimy dziecko pogubione, opuszczone, które potrzebuje pomocy realnej - tak komendant główny policji Marek Boroń opisał nagranie sprawcy ataku na szkołę pod Wyszkowem. Jak mówił w \"Faktach po Faktach\" w TVN24, mamy problem z \"brakiem relacji i miłości\".",
+      "originalTitle": "Szef policji: na filmie 15-latka widać, jak w pewnym momencie uświadamia sobie, co zrobił",
+      "originalDescription": "Widzimy dziecko pogubione, opuszczone, które potrzebuje pomocy realnej - tak komendant główny policji Marek Boroń opisał nagranie sprawcy ataku na szkołę pod Wyszkowem. Jak mówił w \"Faktach po Faktach\" w TVN24, mamy problem z \"brakiem relacji i miłości\"."
+    },
+    {
+      "title": "Chiny stawiają granice AI. Nowe wytyczne Pekinu",
+      "link": "https://tvn24.pl/biznes/tech/chiny-chca-kontrolowac-rozwoj-ai-nowe-wytyczne-dla-technologii-st9278811?source=rss",
+      "pubDate": "Fri, 09 Oct 2026 18:42:23 GMT",
+      "description": "Chiny zapowiadają większy nadzór nad rozwojem zaawansowanych technologii. Sztuczna inteligencja ma pozostać \"bezpieczna, niezawodna i podlegająca kontroli\" - wynika z wytycznych opublikowanych w piątek.",
+      "originalTitle": "Chiny stawiają granice AI. Nowe wytyczne Pekinu",
+      "originalDescription": "Chiny zapowiadają większy nadzór nad rozwojem zaawansowanych technologii. Sztuczna inteligencja ma pozostać \"bezpieczna, niezawodna i podlegająca kontroli\" - wynika z wytycznych opublikowanych w piątek."
+    }
+  ]
 }
