@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-13T01:53:05.956Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-13T09:01:11.215Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Nowotwory przed 50. rokiem życia. Które występują częściej?",
+      "link": "https://tvn24.pl/zdrowie/siedem-typow-raka-coraz-czestszych-przed-50-rokiem-zycia-st9282882?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:54:13 GMT",
+      "description": "Eksperci analizujący dane onkologiczne z Anglii, Stanów Zjednoczonych i Holandii stwierdzili znaczący wzrost liczby nowotworów diagnozowanych przed 50. rokiem życia. W Anglii dotyczy to siedmiu typów raka, w USA - pięciu, a w Holandii - czterech. Czy w Polsce obserwuje się równie niepokojący trend?",
+      "originalTitle": "Nowotwory przed 50. rokiem życia. Które występują częściej?",
+      "originalDescription": "Eksperci analizujący dane onkologiczne z Anglii, Stanów Zjednoczonych i Holandii stwierdzili znaczący wzrost liczby nowotworów diagnozowanych przed 50. rokiem życia. W Anglii dotyczy to siedmiu typów raka, w USA - pięciu, a w Holandii - czterech. Czy w Polsce obserwuje się równie niepokojący trend?"
+    },
+    {
+      "title": "Bruksela nalega. \"Polska jest ostatnim już państwem w Unii Europejskiej\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/bruksela-nalega-polska-jest-ostatnim-juz-panstwem-w-unii-europejskiej-st9283624?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:52:58 GMT",
+      "description": "Unijny Akt o usługach cyfrowych (DSA) wciąż nie został implementowany w Polsce. Komisja Europejska wzywa do jak najszybszego wdrożenia przepisów - przekazał wicepremier i minister cyfryzacji Krzysztof Gawkowski.",
+      "originalTitle": "Bruksela nalega. \"Polska jest ostatnim już państwem w Unii Europejskiej\"",
+      "originalDescription": "Unijny Akt o usługach cyfrowych (DSA) wciąż nie został implementowany w Polsce. Komisja Europejska wzywa do jak najszybszego wdrożenia przepisów - przekazał wicepremier i minister cyfryzacji Krzysztof Gawkowski."
+    },
+    {
+      "title": "Miał nawoływać do zabójstwa Donalda Tuska i Włodzimierza Czarzastego. Został zatrzymany",
+      "link": "https://tvn24.pl/polska/mial-nawolywac-do-zabojstwa-donalda-tuska-i-wlodzimierza-czarzastego-zostal-zatrzymany-st9283674?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:49:11 GMT",
+      "description": "Policja zatrzymała 46-letniego mężczyznę, który miał w internecie nawoływać do zabójstwa przedstawicieli polskich władz, w tym premiera i marszałka Sejmu - przekazał rzecznik rządu Adam Szłapka.",
+      "originalTitle": "Miał nawoływać do zabójstwa Donalda Tuska i Włodzimierza Czarzastego. Został zatrzymany",
+      "originalDescription": "Policja zatrzymała 46-letniego mężczyznę, który miał w internecie nawoływać do zabójstwa przedstawicieli polskich władz, w tym premiera i marszałka Sejmu - przekazał rzecznik rządu Adam Szłapka."
+    },
+    {
+      "title": "Cztery osoby nie żyją. Tragedia w mieszkaniu w Kielcach",
+      "link": "https://tvn24.pl/kielce/kielce-cztery-ciala-w-jednym-z-mieszkan-st9283628?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:21:17 GMT",
+      "description": "Cztery osoby zostały znalezione martwe na kieleckim osiedlu Pod Dalnią. Ciało mężczyzny było przy balkonie, a w lokalu kolejne trzy osoby. - Wstępnie można powiedzieć, że najbardziej prawdopodobną wersją jawi się potrójne zabójstwo i na końcu samobójstwo - informuje prokurator.",
+      "originalTitle": "Cztery osoby nie żyją. Tragedia w mieszkaniu w Kielcach",
+      "originalDescription": "Cztery osoby zostały znalezione martwe na kieleckim osiedlu Pod Dalnią. Ciało mężczyzny było przy balkonie, a w lokalu kolejne trzy osoby. - Wstępnie można powiedzieć, że najbardziej prawdopodobną wersją jawi się potrójne zabójstwo i na końcu samobójstwo - informuje prokurator."
+    },
+    {
+      "title": "Karol Nawrocki o partii Grzegorza Brauna: należy ją traktować jako obecną",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-o-partii-grzegorza-brauna-nalezy-ja-traktowac-jako-obecna-st9283375?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:43:04 GMT",
+      "description": "Jeśli pan premier chce wrócić do porozumienia w sprawie ambasadorów, które nadal leży na stole, jestem gotów - powiedział Karol Nawrocki w wywiadzie dla \"Rzeczpospolitej\". Zaznaczył jednak, że \"nie jest gotów\" rozmawiać o tym z szefem MSZ Radosławem Sikorskim. Prezydent mówił też między innymi o pakcie senackim na prawicy i środowisku Grzegorza Brauna.",
+      "originalTitle": "Karol Nawrocki o partii Grzegorza Brauna: należy ją traktować jako obecną",
+      "originalDescription": "Jeśli pan premier chce wrócić do porozumienia w sprawie ambasadorów, które nadal leży na stole, jestem gotów - powiedział Karol Nawrocki w wywiadzie dla \"Rzeczpospolitej\". Zaznaczył jednak, że \"nie jest gotów\" rozmawiać o tym z szefem MSZ Radosławem Sikorskim. Prezydent mówił też między innymi o pakcie senackim na prawicy i środowisku Grzegorza Brauna."
+    },
+    {
+      "title": "Odwołany alert RCB dla mieszkańców województwa lubelskiego. \"Brak zagrożenia na terenie Polski\"",
+      "link": "https://tvn24.pl/polska/odwolany-alert-rcb-dla-mieszkancow-wojewodztwa-lubelskiego-brak-zagrozenia-na-terenie-polski-st9283593?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:04:01 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa wysłało alert do mieszkańców województwa lubelskiego w związku z rosyjskimi atakami na Ukrainę. O godzinie 10.38 alert został odwołany.",
+      "originalTitle": "Odwołany alert RCB dla mieszkańców województwa lubelskiego. \"Brak zagrożenia na terenie Polski\"",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa wysłało alert do mieszkańców województwa lubelskiego w związku z rosyjskimi atakami na Ukrainę. O godzinie 10.38 alert został odwołany."
+    },
+    {
+      "title": "Tak Trump zareagował po przyznaniu pokojowego Nobla. Ostra odpowiedź laureatki",
+      "link": "https://tvn24.pl/swiat/usa-laureatka-pokojowej-nagrody-nobla-uderza-w-administracje-trumpa-chodzi-o-sankcje-na-mtk-st9283440?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:35:04 GMT",
+      "description": "Szkodliwe i okrutne - laureatka Pokojowej Nagrody Nobla Navanethem \"Navi\" Pillay ostro skrytykowała administrację USA za nałożenie sankcji na Międzynarodowy Trybunał Karny krótko po przyznaniu jej nagrody. Sam Donald Trump mówił wcześniej, że \"nie zapomni tego\" Norwegii.",
+      "originalTitle": "Tak Trump zareagował po przyznaniu pokojowego Nobla. Ostra odpowiedź laureatki",
+      "originalDescription": "Szkodliwe i okrutne - laureatka Pokojowej Nagrody Nobla Navanethem \"Navi\" Pillay ostro skrytykowała administrację USA za nałożenie sankcji na Międzynarodowy Trybunał Karny krótko po przyznaniu jej nagrody. Sam Donald Trump mówił wcześniej, że \"nie zapomni tego\" Norwegii."
+    },
+    {
+      "title": "Wspólne oświadczenie 29 państw w sprawie Iranu. \"Potępiamy w najostrzejszych słowach...\"",
+      "link": "https://tvn24.pl/swiat/zachodnie-panstwa-potepily-iran-za-kampanie-zamachow-i-atakow-hybrydowych-wspolne-oswiadczenie-st9283294?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:18:10 GMT",
+      "description": "Stany Zjednoczone, Wielka Brytania i 27 innych państw potępiło we wspólnym oświadczeniu kampanię zamachów i ataków hybrydowych Iranu. Teheran tego samego dnia odrzucił oskarżenia o odpowiedzialność za incydent w bazie RAF Fairford i nazywał go \"operacją pod fałszywą flagą\".",
+      "originalTitle": "Wspólne oświadczenie 29 państw w sprawie Iranu. \"Potępiamy w najostrzejszych słowach...\"",
+      "originalDescription": "Stany Zjednoczone, Wielka Brytania i 27 innych państw potępiło we wspólnym oświadczeniu kampanię zamachów i ataków hybrydowych Iranu. Teheran tego samego dnia odrzucił oskarżenia o odpowiedzialność za incydent w bazie RAF Fairford i nazywał go \"operacją pod fałszywą flagą\"."
+    },
+    {
+      "title": "AI coraz sprytniejsza. Próbuje się kopiować",
+      "link": "https://tvn24.pl/biznes/tech/ai-coraz-sprytniejsza-probuje-sie-kopiowac-st9283578?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:17:08 GMT",
+      "description": "Sztuczna inteligencja może wkrótce nauczyć się kopiować na inne urządzenia podłączone do internetu - na przykład telewizory czy sprzęty domowe. W testach modele potrafiły wykonać część potrzebnych do tego zadań, ale miały trudności z przeprowadzeniem całego procesu bez pomocy - opisała agencja Reuters.",
+      "originalTitle": "AI coraz sprytniejsza. Próbuje się kopiować",
+      "originalDescription": "Sztuczna inteligencja może wkrótce nauczyć się kopiować na inne urządzenia podłączone do internetu - na przykład telewizory czy sprzęty domowe. W testach modele potrafiły wykonać część potrzebnych do tego zadań, ale miały trudności z przeprowadzeniem całego procesu bez pomocy - opisała agencja Reuters."
+    },
+    {
+      "title": "Trzecie zatrzymanie w sprawie pożaru stacji Starlinków",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-trzecie-zatrzymanie-w-sprawie-pozaru-stacji-starlinkow-st9283592?source=rss",
+      "pubDate": "Tue, 13 Oct 2026 08:16:05 GMT",
+      "description": "Policja zatrzymała trzecią osobę mogącą mieć związek z podpaleniem stacji bazowej Starlinków w Woli Krobowskiej. Według polskiej policji, sprawcy działali na zlecenie obcych służb.",
+      "originalTitle": "Trzecie zatrzymanie w sprawie pożaru stacji Starlinków",
+      "originalDescription": "Policja zatrzymała trzecią osobę mogącą mieć związek z podpaleniem stacji bazowej Starlinków w Woli Krobowskiej. Według polskiej policji, sprawcy działali na zlecenie obcych służb."
+    }
+  ]
 }
