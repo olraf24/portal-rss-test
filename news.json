@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-15T01:39:59.797Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-15T07:01:21.984Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Ponad 162 tysiące kontroli w szkołach, 187 osób zatrzymanych",
+      "link": "https://tvn24.pl/polska/ponad-162-tysiace-kontroli-w-szkolach-187-osob-zatrzymanych-st9287809?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 06:54:51 GMT",
+      "description": "Od piątku policjanci przeprowadzili ponad 162 tysiące kontroli w szkołach i zatrzymali 187 osób. Akcja ma związek z ubiegłotygodniowymi atakami w dwóch mazowieckich szkołach.",
+      "originalTitle": "Ponad 162 tysiące kontroli w szkołach, 187 osób zatrzymanych",
+      "originalDescription": "Od piątku policjanci przeprowadzili ponad 162 tysiące kontroli w szkołach i zatrzymali 187 osób. Akcja ma związek z ubiegłotygodniowymi atakami w dwóch mazowieckich szkołach."
+    },
+    {
+      "title": "Karol Nawrocki w siedzibie TK. Igor Tuleya: na ślubowanie się spóźnił",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-w-siedzibie-tk-igor-tuleya-na-slubowanie-sie-spoznil-st9287757?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 06:53:19 GMT",
+      "description": "Trudno mi tłumaczyć tę sytuację i ten ruch pana prezydenta - powiedział sędzia Igor Tuleya w TVN24, komentując wizytę prezydenta Karola Nawrockiego w Trybunale Konstytucyjnym. Jak podkreślił, ciężko mu \"pogodzić się z tym, że ktoś, kto powinien być strażnikiem konstytucji tę konstytucję łamie\".",
+      "originalTitle": "Karol Nawrocki w siedzibie TK. Igor Tuleya: na ślubowanie się spóźnił",
+      "originalDescription": "Trudno mi tłumaczyć tę sytuację i ten ruch pana prezydenta - powiedział sędzia Igor Tuleya w TVN24, komentując wizytę prezydenta Karola Nawrockiego w Trybunale Konstytucyjnym. Jak podkreślił, ciężko mu \"pogodzić się z tym, że ktoś, kto powinien być strażnikiem konstytucji tę konstytucję łamie\"."
+    },
+    {
+      "title": "Problemy ze Starlinkami w Ukrainie. Ograniczenia zakłóciły wojskowe misje",
+      "link": "https://tvn24.pl/biznes/tech/ograniczenia-starlinka-w-ukrainie-radoslaw-sikorski-zwrocil-sie-do-elona-muska-st9285798?source=rss",
+      "pubDate": "Wed, 14 Oct 2026 08:21:18 GMT",
+      "description": "W nocy z wtorku na środę w Ukrainie ograniczono działanie terminali Starlink - przekazał były doradca resortu obrony Serhij Sternenko. Problemy z łącznością miały zakłócić przebieg części wojskowych misji. Do sprawy odniósł się też minister spraw zagranicznych Polski Radosław Sikorski, na co zareagował Elon Musk.",
+      "originalTitle": "Problemy ze Starlinkami w Ukrainie. Ograniczenia zakłóciły wojskowe misje",
+      "originalDescription": "W nocy z wtorku na środę w Ukrainie ograniczono działanie terminali Starlink - przekazał były doradca resortu obrony Serhij Sternenko. Problemy z łącznością miały zakłócić przebieg części wojskowych misji. Do sprawy odniósł się też minister spraw zagranicznych Polski Radosław Sikorski, na co zareagował Elon Musk."
+    },
+    {
+      "title": "Zderzenie auta osobowego i ciężarówki. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/krzyzanowice-zderzenie-auta-osobowego-i-ciezarowki-jedna-osoba-nie-zyje-st9287704?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 06:17:35 GMT",
+      "description": "W Krzyżanowicach pod Radomiem doszło do tragicznego w skutkach wypadku. W wyniku zderzenia z ciężarówką na miejscu zginął kierowca auta osobowego. Droga pomiędzy Radomiem a Ostrowcem Świętokrzyskim jest zablokowana.",
+      "originalTitle": "Zderzenie auta osobowego i ciężarówki. Jedna osoba nie żyje",
+      "originalDescription": "W Krzyżanowicach pod Radomiem doszło do tragicznego w skutkach wypadku. W wyniku zderzenia z ciężarówką na miejscu zginął kierowca auta osobowego. Droga pomiędzy Radomiem a Ostrowcem Świętokrzyskim jest zablokowana."
+    },
+    {
+      "title": "Turcja. Załamanie pogody w Stambule. Nie żyje 14-latek",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/turcja-zalamanie-pogody-w-stambule-nie-zyje-14-latek-st9287690?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 06:12:00 GMT",
+      "description": "Przez Stambuł przeszły potężne ulewy. W wyniku gwałtownej pogody zginęły dwie osoby. Jedną z nich jest 14-latek. Opady doprowadziły do zalań wielu domów, a także sporych utrudnień na ulicach i lotniskach.",
+      "originalTitle": "Turcja. Załamanie pogody w Stambule. Nie żyje 14-latek",
+      "originalDescription": "Przez Stambuł przeszły potężne ulewy. W wyniku gwałtownej pogody zginęły dwie osoby. Jedną z nich jest 14-latek. Opady doprowadziły do zalań wielu domów, a także sporych utrudnień na ulicach i lotniskach."
+    },
+    {
+      "title": "Ukraina wznowi ataki na rosyjskie rafinerie. Zapowiedź Wołodymyra Zełenskiego",
+      "link": "https://tvn24.pl/swiat/ukraina-wznowi-ataki-na-rosyjskie-rafinerie-zapowiedz-wolodymyra-zelenskiego-st9287692?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 06:11:07 GMT",
+      "description": "Zakaz został zniesiony. Mamy dość - powiedział Wołodymyr Zełenski w wywiadzie dla \"Financial Times\", zapowiadając wznowienie ataków na rosyjskie rafinerie. Jak przekonywał, Ukraina przez trzy dni nie uderzała w obiekty energetyczne, aby spełnić życzenie Waszyngtonu.",
+      "originalTitle": "Ukraina wznowi ataki na rosyjskie rafinerie. Zapowiedź Wołodymyra Zełenskiego",
+      "originalDescription": "Zakaz został zniesiony. Mamy dość - powiedział Wołodymyr Zełenski w wywiadzie dla \"Financial Times\", zapowiadając wznowienie ataków na rosyjskie rafinerie. Jak przekonywał, Ukraina przez trzy dni nie uderzała w obiekty energetyczne, aby spełnić życzenie Waszyngtonu."
+    },
+    {
+      "title": "Amerykanie mają nowy plan. Europa powiedziała \"nie\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/media-usa-chca-odmrozenia-czesci-rosyjskich-aktywow-przez-panstwa-europejskie-st9287699?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 06:09:20 GMT",
+      "description": "USA zaproponowały krajom europejskim odmrożenie części rosyjskich aktywów, by wznowić rozmowy pokojowe w sprawie Ukrainy - podaje \"Financial Times\".",
+      "originalTitle": "Amerykanie mają nowy plan. Europa powiedziała \"nie\"",
+      "originalDescription": "USA zaproponowały krajom europejskim odmrożenie części rosyjskich aktywów, by wznowić rozmowy pokojowe w sprawie Ukrainy - podaje \"Financial Times\"."
+    },
+    {
+      "title": "Dwie kobiety zginęły na przejściu dla pieszych",
+      "link": "https://tvn24.pl/bialystok/bialystok-dwie-kobiety-potracone-na-przejsciu-dla-pieszych-obie-nie-zyja-st9287694?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 05:42:42 GMT",
+      "description": "W Białymstoku kierująca samochodem osobowym potrąciła na przejściu dla pieszych dwie kobiety. Obie zginęły.",
+      "originalTitle": "Dwie kobiety zginęły na przejściu dla pieszych",
+      "originalDescription": "W Białymstoku kierująca samochodem osobowym potrąciła na przejściu dla pieszych dwie kobiety. Obie zginęły."
+    },
+    {
+      "title": "Musk: za ograniczanie Starshieldów odpowiada Donald Trump. Media o reakcji Białego Domu",
+      "link": "https://tvn24.pl/biznes/ze-swiata/media-bialy-dom-zaprzecza-slowom-elona-muska-o-ograniczeniu-systemu-starshield-w-ukrainie-st9287559?source=rss",
+      "pubDate": "Wed, 14 Oct 2026 19:47:58 GMT",
+      "description": "Decyzje dotyczące ograniczeń w działaniu i sposobu wykorzystywania systemów Starshield należą do amerykańskich sił zbrojnych, a ostatecznie do prezydenta Donalda Trumpa - oświadczył Elon Musk. Odniósł się w ten sposób do doniesień, że ograniczenie działania tej technologii w Ukrainie miało zakłócić część operacji wojskowych. Administracja Trumpa zaprzecza i zapowiada reakcję - donosi portal Axios.",
+      "originalTitle": "Musk: za ograniczanie Starshieldów odpowiada Donald Trump. Media o reakcji Białego Domu",
+      "originalDescription": "Decyzje dotyczące ograniczeń w działaniu i sposobu wykorzystywania systemów Starshield należą do amerykańskich sił zbrojnych, a ostatecznie do prezydenta Donalda Trumpa - oświadczył Elon Musk. Odniósł się w ten sposób do doniesień, że ograniczenie działania tej technologii w Ukrainie miało zakłócić część operacji wojskowych. Administracja Trumpa zaprzecza i zapowiada reakcję - donosi portal Axios."
+    },
+    {
+      "title": "Rosjanie wciąż dostają setki tysięcy wiz. \"To niepojęte\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/rosjanie-dostaja-setki-tysiecy-wiz-do-unii-europejskiej-premier-finlandii-krytykuje-inne-panstwa-st9287660?source=rss",
+      "pubDate": "Thu, 15 Oct 2026 05:33:30 GMT",
+      "description": "Premier Finlandii ostro krytykuje państwa Unii Europejskiej, które wciąż wydają Rosjanom wizy turystyczne. - W ubiegłym roku Rosjanie mogli otrzymać w sumie nawet 800 tysięcy wiz - podał.",
+      "originalTitle": "Rosjanie wciąż dostają setki tysięcy wiz. \"To niepojęte\"",
+      "originalDescription": "Premier Finlandii ostro krytykuje państwa Unii Europejskiej, które wciąż wydają Rosjanom wizy turystyczne. - W ubiegłym roku Rosjanie mogli otrzymać w sumie nawet 800 tysięcy wiz - podał."
+    }
+  ]
 }
