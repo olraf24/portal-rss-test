@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-16T20:33:37.044Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-16T23:16:17.903Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Katarzyna Pełczyńska-Nałęcz o sytuacji w Trybunale Konstytucyjnym: obie strony mają za uszami",
+      "link": "https://tvn24.pl/polska/katarzyna-pelczynska-nalecz-proponuje-reset-w-trybunale-konstytucyjnym-obie-strony-maja-za-uszami-st9291626?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 19:55:16 GMT",
+      "description": "Katarzyna Pełczyńska-Nałęcz, przewodnicząca Polski 2050, uważa, że należy zrobić \"reset\" w Trybunale Konstytucyjnym, gdzie trwa obecnie \"wojna\", w której ścierają się \"dwie strony\" - PiS i KO. Tak mówiła w programie \"#BezKitu\" w TVN24.",
+      "originalTitle": "Katarzyna Pełczyńska-Nałęcz o sytuacji w Trybunale Konstytucyjnym: obie strony mają za uszami",
+      "originalDescription": "Katarzyna Pełczyńska-Nałęcz, przewodnicząca Polski 2050, uważa, że należy zrobić \"reset\" w Trybunale Konstytucyjnym, gdzie trwa obecnie \"wojna\", w której ścierają się \"dwie strony\" - PiS i KO. Tak mówiła w programie \"#BezKitu\" w TVN24."
+    },
+    {
+      "title": "Wysoka wygrana w Eurojackpot w Polsce",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-16-pazdziernika-2026-oto-liczby-i-wygrane-z-ostatniego-losowania-st9291634?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 19:46:53 GMT",
+      "description": "W piątek w Eurojackpot nikomu nie udało się wytypować poprawnie wszystkich liczb. Kumulacja wzrosła więc do 80 milionów złotych. W Polsce jeden z graczy trafił wygraną trzeciego stopnia i otrzyma ponad 1,1 miliona złotych. Oto wyniki i wygrane z ostatniego losowania.",
+      "originalTitle": "Wysoka wygrana w Eurojackpot w Polsce",
+      "originalDescription": "W piątek w Eurojackpot nikomu nie udało się wytypować poprawnie wszystkich liczb. Kumulacja wzrosła więc do 80 milionów złotych. W Polsce jeden z graczy trafił wygraną trzeciego stopnia i otrzyma ponad 1,1 miliona złotych. Oto wyniki i wygrane z ostatniego losowania."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Tutaj noc i poranek będą mgliste",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-tutaj-noc-i-poranek-beda-mgliste-st9290882?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 12:44:16 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstą mgłą w nocy i w sobotni poranek. Synoptycy wydali alarmy w ośmiu województwach. Sprawdź, gdzie przygotować się na trudne warunki na drogach.",
+      "originalTitle": "Ostrzeżenia IMGW. Tutaj noc i poranek będą mgliste",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej ostrzega przed gęstą mgłą w nocy i w sobotni poranek. Synoptycy wydali alarmy w ośmiu województwach. Sprawdź, gdzie przygotować się na trudne warunki na drogach."
+    },
+    {
+      "title": "System ETS2 zrewidowany. Tusk: to jest dobry początek",
+      "link": "https://tvn24.pl/biznes/z-kraju/zmiany-w-ets2-donald-tusk-mamy-te-zapisy-o-ktore-na-tym-etapie-mi-chodzilo-st9291595?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 19:21:06 GMT",
+      "description": "Premier Donald Tusk powiedział w piątek, że podczas unijnego szczytu Polsce udało się doprowadzić do rewizji systemu ETS2 pod kątem jego skutków społecznych i gospodarczych. - Wybiliśmy ETS2 jeden ząb trzonowy i siekacz, ale to dopiero początek - dodał.",
+      "originalTitle": "System ETS2 zrewidowany. Tusk: to jest dobry początek",
+      "originalDescription": "Premier Donald Tusk powiedział w piątek, że podczas unijnego szczytu Polsce udało się doprowadzić do rewizji systemu ETS2 pod kątem jego skutków społecznych i gospodarczych. - Wybiliśmy ETS2 jeden ząb trzonowy i siekacz, ale to dopiero początek - dodał."
+    },
+    {
+      "title": "\"Jeszcze przed Wigilią\". Donald Tusk: można się spodziewać eskalacji ze strony Rosji",
+      "link": "https://tvn24.pl/polska/donald-tusk-jeszcze-przed-wigilia-mozna-sie-spodziewac-eskalacji-ze-strony-rosji-st9291623?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 19:14:08 GMT",
+      "description": "Zima będzie bardzo trudna. Rosja będzie testowała naszą reakcję - powiedział premier Donald Tusk. Ocenił, że \"jeszcze przed Wigilią\" można \"spodziewać się jakiejś eskalacji\" ze strony Kremla.",
+      "originalTitle": "\"Jeszcze przed Wigilią\". Donald Tusk: można się spodziewać eskalacji ze strony Rosji",
+      "originalDescription": "Zima będzie bardzo trudna. Rosja będzie testowała naszą reakcję - powiedział premier Donald Tusk. Ocenił, że \"jeszcze przed Wigilią\" można \"spodziewać się jakiejś eskalacji\" ze strony Kremla."
+    },
+    {
+      "title": "Donald Tusk o Trybunale Konstytucyjnym i \"otwartej wojnie\". \"Myśmy byli bardzo cierpliwi\"",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-trybunale-konstytucyjnym-i-otwartej-wojnie-mysmy-byli-bardzo-cierpliwi-st9291565?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 19:06:32 GMT",
+      "description": "Nie chciałem jakiejś takiej otwartej wojny. Trybunał to jest Trybunał, więc czekaliśmy, aż będą mijały kadencje - powiedział premier Donald Tusk w rozmowie z dziennikarzami. Nawiązał też do protestów przed Trybunałem Konstytucyjnym, gdzie \"zbierają się nieduże grupy, ale dość agresywne\".",
+      "originalTitle": "Donald Tusk o Trybunale Konstytucyjnym i \"otwartej wojnie\". \"Myśmy byli bardzo cierpliwi\"",
+      "originalDescription": "Nie chciałem jakiejś takiej otwartej wojny. Trybunał to jest Trybunał, więc czekaliśmy, aż będą mijały kadencje - powiedział premier Donald Tusk w rozmowie z dziennikarzami. Nawiązał też do protestów przed Trybunałem Konstytucyjnym, gdzie \"zbierają się nieduże grupy, ale dość agresywne\"."
+    },
+    {
+      "title": "Prognoza na zimę dla USA. Co przyniesie El Nino",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/prognoza-na-zime-dla-usa-co-przyniesie-el-nino-st9291496?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 18:35:00 GMT",
+      "description": "Amerykańska Narodowa Administracja do spraw Oceanów i Atmosfery opublikowała prognozę na zimę. Wynika z niej, że duży wpływ na pogodę w Stanach Zjednoczonych będzie miało zjawisko El Nino. W niektórych rejonach kraju przyniesie ono burze i ulewy, a w innych - warunki suchsze niż zwykle.",
+      "originalTitle": "Prognoza na zimę dla USA. Co przyniesie El Nino",
+      "originalDescription": "Amerykańska Narodowa Administracja do spraw Oceanów i Atmosfery opublikowała prognozę na zimę. Wynika z niej, że duży wpływ na pogodę w Stanach Zjednoczonych będzie miało zjawisko El Nino. W niektórych rejonach kraju przyniesie ono burze i ulewy, a w innych - warunki suchsze niż zwykle."
+    },
+    {
+      "title": "Cezary Tomczyk z apelem do \"panów z PiS-u\"",
+      "link": "https://tvn24.pl/polska/cezary-tomczyk-z-apelem-do-panow-z-pis-u-st9291558?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 18:33:00 GMT",
+      "description": "Ktoś, kto idzie na pokojową manifestację, nie ma ze sobą noża - skomentował wiceszef MON Cezary Tomczyk. Nawiązał do tego, że przy mężczyźnie wracającym z protestu przed Trybunałem Konstytucyjnym znaleziono nóż. Tomczyk zwrócił się też do \"panów z PiS-u\" w związku z wpisem posła Kazimierza Smolińskiego, który zapowiedział rozliczenie \"funkcjonariuszy służb\".",
+      "originalTitle": "Cezary Tomczyk z apelem do \"panów z PiS-u\"",
+      "originalDescription": "Ktoś, kto idzie na pokojową manifestację, nie ma ze sobą noża - skomentował wiceszef MON Cezary Tomczyk. Nawiązał do tego, że przy mężczyźnie wracającym z protestu przed Trybunałem Konstytucyjnym znaleziono nóż. Tomczyk zwrócił się też do \"panów z PiS-u\" w związku z wpisem posła Kazimierza Smolińskiego, który zapowiedział rozliczenie \"funkcjonariuszy służb\"."
+    },
+    {
+      "title": "Papież Leon XIV odprawił mszę w szpitalu. Nowy komunikat o stanie zdrowia",
+      "link": "https://tvn24.pl/swiat/papiez-leon-xiv-odprawil-msze-w-szpitalu-nowy-komunikat-o-stanie-zdrowia-st9291593?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 18:33:00 GMT",
+      "description": "Stan zdrowia papieża Leona XIV stale się poprawia - poinformowali jego lekarze. Watykan opublikował pierwsze zdjęcia papieża po operacji - z mszy, którą odprawił w sali w Poliklinice Gemelli.",
+      "originalTitle": "Papież Leon XIV odprawił mszę w szpitalu. Nowy komunikat o stanie zdrowia",
+      "originalDescription": "Stan zdrowia papieża Leona XIV stale się poprawia - poinformowali jego lekarze. Watykan opublikował pierwsze zdjęcia papieża po operacji - z mszy, którą odprawił w sali w Poliklinice Gemelli."
+    },
+    {
+      "title": "Zwolnienia w Makro. Jest porozumienie ze związkowcami",
+      "link": "https://tvn24.pl/biznes/pieniadze/zwolnienia-w-makro-jest-porozumienie-ze-zwiazkowcami-st9291180?source=rss",
+      "pubDate": "Fri, 16 Oct 2026 18:27:49 GMT",
+      "description": "Makro Cash and Carry osiągnęło porozumienie z organizacjami związkowymi w sprawie warunków planowanej redukcji zatrudnienia - poinformowała spółka w piątek. Według wcześniejszych informacji przekazanych przez związkowców zmiany mogą objąć do 250 stanowisk pracy.",
+      "originalTitle": "Zwolnienia w Makro. Jest porozumienie ze związkowcami",
+      "originalDescription": "Makro Cash and Carry osiągnęło porozumienie z organizacjami związkowymi w sprawie warunków planowanej redukcji zatrudnienia - poinformowała spółka w piątek. Według wcześniejszych informacji przekazanych przez związkowców zmiany mogą objąć do 250 stanowisk pracy."
+    }
+  ]
 }
