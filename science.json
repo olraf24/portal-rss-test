@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2026-10-19T07:21:51.834Z",
+  "lastUpdate": "2026-10-19T14:51:49.776Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Molekularny zegar neuronu. Tempo działania NMDA decyduje o przepływie informacji",
+      "link": "https://dzienniknaukowy.pl/molekularny-zegar-neuronu-tempo-dzialania-nmda-decyduje-o-przeplywie-informacji",
+      "pubDate": "Mon, 19 Oct 2026 11:53:06 +0000",
+      "description": "W mózgu liczy się nie tylko to, czy sygnał dotrze do komórki nerwowej, ale także jak długo pozostanie otwarta jego chemiczna brama. Zespół kierowany przez dr. Mehdiego Borjkhaniego z ICTER wykazał w modelu komputerowym, że zarówno zbyt szybkie, jak i zbyt wolne wyłączanie receptora NMDA może rozregulować pracę neuronu. Co ważne, prowadzą do tego dwa odmienne mechanizmy."
+    },
+    {
+      "title": "Niejednoznaczne emocjonalnie słowa dłużej przyciągają uwagę",
+      "link": "https://dzienniknaukowy.pl/niejednoznaczne-emocjonalnie-slowa-dluzej-przyciagaja-uwage",
+      "pubDate": "Mon, 19 Oct 2026 11:36:56 +0000",
+      "description": "Słowa o niejednoznacznym ładunku emocjonalnym częściej i dłużej przyciągają uwagę niż słowa jednoznaczne – wynika z badań psychologów z Uniwersytetu Warszawskiego. W niektórych warunkach badani również szybciej i trafniej wykonywali zadanie pamięciowe."
+    },
     {
       "title": "Uszkodzenie bariery krew–mózg może zostawiać ślady we krwi",
       "link": "https://dzienniknaukowy.pl/uszkodzenie-bariery-krew-mozg-moze-zostawiac-slady-we-krwi",
@@ -34,12 +46,6 @@
       "description": "Plastik jest dziś obecny niemal wszędzie. Jego najmniejsze cząstki trafiają do wody, żywności i powietrza, a naukowcy wykrywają je również w ludzkiej krwi. Zespół z udziałem naukowców Uniwersytetu Medycznego we Wrocławiu zbadał, jak nanoplastiki polistyrenowe wpływają na komórki odpornościowe człowieka. Już po godzinie kontaktu zaobserwowano zaburzenia pracy mitochondriów i uruchomienie reakcji stresowej. Wyniki pomagają wyjaśnić, jak nanoplastiki mogą oddziaływać na organizm, ale nie pozwalają jeszcze określić, czy obserwowane zmiany zwiększają ryzyko konkretnych chorób."
     },
     {
-      "title": "Elastyczny harmonogram karmienia 2-miesięcznego dziecka: Prosty przewodnik dla mam",
-      "link": "https://dzienniknaukowy.pl/elastyczny-harmonogram-karmienia-2-miesiecznego-dziecka-prosty-przewodnik-dla-mam",
-      "pubDate": "Wed, 14 Oct 2026 09:56:00 +0000",
-      "description": "Dla młodej mamy ustalenie, jak często i ile powinno jeść niemowlę, bywa wyzwaniem. Przejrzysty harmonogram karmienia 2-miesięcznego dziecka pomaga monitorować posiłki malucha i natychmiast zauważyć wszelkie zmiany w jego nawykach. Nowoczesna niania elektroniczna z kamerą pozwala dostrzec pierwsze sygnały głodu, powiadomi o mokrej pieluszce lub zasygnalizuje, że maluszek jest gotowy do snu. Harmonogram karmienia 2-miesięcznego dziecka powinien być elastyczny i dostosowany do jego indywidualnych sygnałów głodu."
-    },
-    {
       "title": "Jak monitorować Messenger dziecka: 7 metod i czego każda z nich nie pokazuje",
       "link": "https://dzienniknaukowy.pl/jak-monitorowac-messenger-dziecka-7-metod-i-czego-kazda-z-nich-nie-pokazuje",
       "pubDate": "Tue, 13 Oct 2026 10:42:10 +0000",
@@ -56,12 +62,6 @@
       "link": "https://dzienniknaukowy.pl/mozg-na-krawedzi-chaosu-co-utrzymuje-nasze-widzenie-pod-kontrola",
       "pubDate": "Tue, 13 Oct 2026 09:55:14 +0000",
       "description": "To, co widzimy, wydaje się stabilne, choć aktywność neuronów jest pełna nieregularnych zmian. Zespół kierowany przez dr. Mehdi Borjkhani wykazał za pomocą minimalnego modelu pierwotnej kory wzrokowej, że dwa naturalne mechanizmy sprzężenia zwrotnego mogą ograniczyć chaos i zmniejszyć zmienność aktywności neuronowej aż o 93 proc. Wyniki wskazują, w jaki sposób mózg może zachować elastyczność, a jednocześnie niezawodnie przetwarzać informacje wzrokowe."
-    },
-    {
-      "title": "Zbadano, dlaczego Amerykanie żyją krócej niż mieszkańcy innych bogatych krajów",
-      "link": "https://dzienniknaukowy.pl/zbadano-dlaczego-amerykanie-zyja-krocej-niz-mieszkancy-innych-bogatych-krajow",
-      "pubDate": "Mon, 12 Oct 2026 15:25:26 +0000",
-      "description": "Długość życia w USA od dziesięcioleci coraz bardziej odstaje od innych państw o wysokich dochodach. Przyczyniają się do tego zgony z powodu przedawkowania narkotyków, samobójstw i zabójstw, ale w ostatnich latach także nadciśnienia, chorób wątroby, zaburzeń metabolicznych i chorób neurologicznych - informuje „The Milbank Quarterly\"."
     }
   ]
 }
