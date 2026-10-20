@@ -1,8 +1,20 @@
 {
-  "lastUpdate": "2026-10-20T09:10:09.581Z",
+  "lastUpdate": "2026-10-20T14:25:11.124Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Czarne dziury pomogły skalibrować detektor fal grawitacyjnych",
+      "link": "https://dzienniknaukowy.pl/czarne-dziury-pomogly-skalibrowac-detektor-fal-grawitacyjnych",
+      "pubDate": "Tue, 20 Oct 2026 14:11:28 +0000",
+      "description": "Dwa silne sygnały ze zderzeń czarnych dziur pozwoliły ustalić, jak źle skalibrowany detektor LIGO Hanford w stanie Waszyngton w USA zniekształcał dane. Dzięki temu można było wykorzystać jego zapis i czterdziestokrotnie zmniejszyć obszar poszukiwań jednego ze źródeł. Po raz pierwszy kalibracja astrofizyczna dostarczyła informacji pozwalających skutecznie skorygować odpowiedź detektora."
+    },
+    {
+      "title": "Największy polski słownik — przedwojenny „Słownik Warszawski” — w dostępie online",
+      "link": "https://dzienniknaukowy.pl/najwiekszy-polski-slownik-przedwojenny-slownik-warszawski-w-dostepie-online",
+      "pubDate": "Tue, 20 Oct 2026 13:44:49 +0000",
+      "description": "Wydany blisko sto lat temu największy polski słownik - „Słownik Warszawski” - liczy prawie 7700 stron i ma ponad 260 tys. haseł. Cyfryzacji i przełożenia go na język współczesnych baz danych podjął się oddolnie dr Mirosław Koziarski. Online udostępnionych jest już ok. 86 tys. zdigitalizowanych haseł."
+    },
     {
       "title": "Molekularny zegar neuronu. Tempo działania NMDA decyduje o przepływie informacji",
       "link": "https://dzienniknaukowy.pl/molekularny-zegar-neuronu-tempo-dzialania-nmda-decyduje-o-przeplywie-informacji",
@@ -50,18 +62,6 @@
       "link": "https://dzienniknaukowy.pl/jak-monitorowac-messenger-dziecka-7-metod-i-czego-kazda-z-nich-nie-pokazuje",
       "pubDate": "Tue, 13 Oct 2026 10:42:10 +0000",
       "description": "Jeśli szukasz sposobu, żeby zobaczyć, co dziecko pisze na Messengerze, prawdopodobnie już próbowałeś sprawdzić historię w telefonie albo poczytać o aplikacjach kontroli rodzicielskiej i trafiłeś na ścianę, bo większość czatów jest dziś szyfrowana end to end. Nikt poza rozmówcami, nawet Meta, nie widzi treści w transmisji, więc żadna aplikacja monitorująca sam ruch sieciowy tego nie pokaże, bez względu na to, ile kosztuje czy jak dobrze jest reklamowana."
-    },
-    {
-      "title": "Czy świecące bakterie mogą dostarczać światło w reaktorze produkującym wodór?",
-      "link": "https://dzienniknaukowy.pl/czy-swiecace-bakterie-moga-dostarczac-swiatlo-w-reaktorze-produkujacym-wodor",
-      "pubDate": "Tue, 13 Oct 2026 10:09:41 +0000",
-      "description": "Fotokatalityczna produkcja wodoru wymaga doprowadzenia światła do materiału prowadzącego reakcję. Zespół z Uniwersytetu Gdańskiego i IFJ PAN sprawdził, czy jego źródłem mogą być świecące bakterie umieszczone wewnątrz reaktora."
-    },
-    {
-      "title": "Mózg na krawędzi chaosu. Co utrzymuje nasze widzenie pod kontrolą?",
-      "link": "https://dzienniknaukowy.pl/mozg-na-krawedzi-chaosu-co-utrzymuje-nasze-widzenie-pod-kontrola",
-      "pubDate": "Tue, 13 Oct 2026 09:55:14 +0000",
-      "description": "To, co widzimy, wydaje się stabilne, choć aktywność neuronów jest pełna nieregularnych zmian. Zespół kierowany przez dr. Mehdi Borjkhani wykazał za pomocą minimalnego modelu pierwotnej kory wzrokowej, że dwa naturalne mechanizmy sprzężenia zwrotnego mogą ograniczyć chaos i zmniejszyć zmienność aktywności neuronowej aż o 93 proc. Wyniki wskazują, w jaki sposób mózg może zachować elastyczność, a jednocześnie niezawodnie przetwarzać informacje wzrokowe."
     }
   ]
 }

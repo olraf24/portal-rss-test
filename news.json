@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-20T09:10:08.480Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-20T14:25:46.066Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Awaria Google Cloud. Banki i sądy zgłaszają problemy",
+      "link": "https://tvn24.pl/biznes/tech/awaria-google-cloud-problemy-bankow-firm-kurierskich-i-sadow-st9296869?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 14:19:58 GMT",
+      "description": "Awaria Google Cloud zakłóciła działanie usług internetowych wykorzystywanych między innymi przez banki, firmy kurierskie i brytyjski wymiar sprawiedliwości. Problemy zgłaszały takie firmy jak Revolut, Halifax i DPD. Google poinformował, że przyczyną był incydent związany z zasilaniem. Koncern przekazał również, że usługi są stopniowo przywracane.",
+      "originalTitle": "Awaria Google Cloud. Banki i sądy zgłaszają problemy",
+      "originalDescription": "Awaria Google Cloud zakłóciła działanie usług internetowych wykorzystywanych między innymi przez banki, firmy kurierskie i brytyjski wymiar sprawiedliwości. Problemy zgłaszały takie firmy jak Revolut, Halifax i DPD. Google poinformował, że przyczyną był incydent związany z zasilaniem. Koncern przekazał również, że usługi są stopniowo przywracane."
+    },
+    {
+      "title": "Maciej Berek w Trybunale Konstytucyjnym. \"Słynne drzwi jednak otwarte\"",
+      "link": "https://tvn24.pl/polska/maciej-berek-w-trybunale-konstytucyjnym-slynne-drzwi-jednak-otwarte-st9296812?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 14:17:36 GMT",
+      "description": "Sędzia Trybunału Konstytucyjnego Maciej Berek pokazał w internecie zdjęcia z wnętrza instytucji. Widać na nich, jak razem z sędzią TK Magdaleną Bentkowską pozują na tle korytarza sędziowskiego. To nawiązanie do wydarzeń z ubiegłego tygodnia, gdy prezes Bogdan Święczkowski nie wpuścił tam Berka, mimo złożenia przez niego ślubowania.",
+      "originalTitle": "Maciej Berek w Trybunale Konstytucyjnym. \"Słynne drzwi jednak otwarte\"",
+      "originalDescription": "Sędzia Trybunału Konstytucyjnego Maciej Berek pokazał w internecie zdjęcia z wnętrza instytucji. Widać na nich, jak razem z sędzią TK Magdaleną Bentkowską pozują na tle korytarza sędziowskiego. To nawiązanie do wydarzeń z ubiegłego tygodnia, gdy prezes Bogdan Święczkowski nie wpuścił tam Berka, mimo złożenia przez niego ślubowania."
+    },
+    {
+      "title": "Były funkcjonariusz SOP pozostanie w areszcie. Jest podejrzany o zabójstwo córki",
+      "link": "https://tvn24.pl/trojmiasto/byly-funkcjonariusz-sop-pozostanie-w-areszcie-jest-podejrzany-o-zabojstwo-corki-st9296221?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 14:10:24 GMT",
+      "description": "Były funkcjonariusz Służby Ochrony Państwa, podejrzany o zabójstwo czteroletniej córki i atak na pozostałych członków rodziny w Ustce, pozostanie w areszcie przez kolejne trzy miesiące. Prokuratura czeka na opinię psychiatryczną, która ma być gotowa do końca października.",
+      "originalTitle": "Były funkcjonariusz SOP pozostanie w areszcie. Jest podejrzany o zabójstwo córki",
+      "originalDescription": "Były funkcjonariusz Służby Ochrony Państwa, podejrzany o zabójstwo czteroletniej córki i atak na pozostałych członków rodziny w Ustce, pozostanie w areszcie przez kolejne trzy miesiące. Prokuratura czeka na opinię psychiatryczną, która ma być gotowa do końca października."
+    },
+    {
+      "title": "Od kilku dni słyszeli szczekanie, mieszkanie było zamknięte. Sąsiedzi wezwali policję",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-od-kilku-dni-slyszeli-szczekanie-mieszkanie-bylo-zamkniete-sasiedzi-wezwali-policje-st9296862?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 14:03:11 GMT",
+      "description": "Od kilku dni słyszeli szczekanie psa, ale mieszkanie w jednym bloków w Płocku było zamknięte. W końcu sąsiedzi wezwali policjantów. Ci, przy pomocy strażaków, weszli przez okno i wynieśli psa.",
+      "originalTitle": "Od kilku dni słyszeli szczekanie, mieszkanie było zamknięte. Sąsiedzi wezwali policję",
+      "originalDescription": "Od kilku dni słyszeli szczekanie psa, ale mieszkanie w jednym bloków w Płocku było zamknięte. W końcu sąsiedzi wezwali policjantów. Ci, przy pomocy strażaków, weszli przez okno i wynieśli psa."
+    },
+    {
+      "title": "Christina Applegate o stanie zdrowia. \"Wracam do punktu wyjścia\"",
+      "link": "https://tvn24.pl/kultura-i-styl/christina-applegate-o-stanie-zdrowia-wracam-do-punktu-wyjscia-st9296868?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:58:44 GMT",
+      "description": "Aktorka Christina Applegate podzieliła się we wtorek zaskakującymi informacjami na temat swojego zdrowia. Po pięciu latach okazało się, że diagnoza o stwardnieniu rozsianym była błędna. - Wcale nie czuję się lepiej. Pod pewnymi względami moja sytuacja się pogorszyła - wyznała.",
+      "originalTitle": "Christina Applegate o stanie zdrowia. \"Wracam do punktu wyjścia\"",
+      "originalDescription": "Aktorka Christina Applegate podzieliła się we wtorek zaskakującymi informacjami na temat swojego zdrowia. Po pięciu latach okazało się, że diagnoza o stwardnieniu rozsianym była błędna. - Wcale nie czuję się lepiej. Pod pewnymi względami moja sytuacja się pogorszyła - wyznała."
+    },
+    {
+      "title": "Rząd przyjął zmiany w 800 plus",
+      "link": "https://tvn24.pl/biznes/z-kraju/rzad-przyjal-zmiany-w-800-plus-st9296143?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 10:58:19 GMT",
+      "description": "Zgodnie z zapowiedzią premiera Donalda Tuska, rząd przyjął zmiany w programie 800 plus. Nowelizacja odchodzi od wymogu cyklicznego składania wniosku o przyznanie świadczenia. Od przyszłego roku wymóg ten będzie obowiązywał tylko raz.",
+      "originalTitle": "Rząd przyjął zmiany w 800 plus",
+      "originalDescription": "Zgodnie z zapowiedzią premiera Donalda Tuska, rząd przyjął zmiany w programie 800 plus. Nowelizacja odchodzi od wymogu cyklicznego składania wniosku o przyznanie świadczenia. Od przyszłego roku wymóg ten będzie obowiązywał tylko raz."
+    },
+    {
+      "title": "Zatrzymał się, po czym ruszył. Wjechał prosto w pieszą",
+      "link": "https://tvn24.pl/lubuskie/zielona-gora-kobieta-potracona-na-pasach-zaczal-hamowac-nagle-ruszyl-st9296757?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:56:07 GMT",
+      "description": "W Zielonej Górze starsza kobieta przechodząca przez przejście dla pieszych została potrącona przez samochód. 75-latka mogła być przekonana, że kierowca ją widzi, bo wyraźnie hamował. Ten jednak nie zatrzymał się przed pasami i uderzył w seniorkę.",
+      "originalTitle": "Zatrzymał się, po czym ruszył. Wjechał prosto w pieszą",
+      "originalDescription": "W Zielonej Górze starsza kobieta przechodząca przez przejście dla pieszych została potrącona przez samochód. 75-latka mogła być przekonana, że kierowca ją widzi, bo wyraźnie hamował. Ten jednak nie zatrzymał się przed pasami i uderzył w seniorkę."
+    },
+    {
+      "title": "Apple musi zmienić praktyki w Polsce. Jest decyzja UOKiK",
+      "link": "https://tvn24.pl/biznes/z-kraju/uokik-zobowiazal-apple-do-zmiany-praktyk-w-polsce-st9296641?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:55:38 GMT",
+      "description": "Twórcy aplikacji mobilnych w Polsce będą mogli konkurować na urządzeniach Apple na uczciwych zasadach. Natomiast konsumenci będą lepiej informowani o tym, jak przetwarzane są ich dane - wynika z decyzji Urzędu Ochrony Konkurencji i Konsumentów, zobowiązującej Apple do zmiany praktyk.",
+      "originalTitle": "Apple musi zmienić praktyki w Polsce. Jest decyzja UOKiK",
+      "originalDescription": "Twórcy aplikacji mobilnych w Polsce będą mogli konkurować na urządzeniach Apple na uczciwych zasadach. Natomiast konsumenci będą lepiej informowani o tym, jak przetwarzane są ich dane - wynika z decyzji Urzędu Ochrony Konkurencji i Konsumentów, zobowiązującej Apple do zmiany praktyk."
+    },
+    {
+      "title": "\"Brak zagrożenia na terenie Polski\". Alert RCB odwołany",
+      "link": "https://tvn24.pl/polska/brak-zagrozenia-na-terenie-polski-alert-rcb-odwolany-st9296311?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 11:30:21 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa wysłało po południu alert, w którym ostrzega mieszkańców 10 powiatów województwa podkarpackiego o \"zagrożeniu atakiem z powietrza\". Po 20 minutach został odwołany.",
+      "originalTitle": "\"Brak zagrożenia na terenie Polski\". Alert RCB odwołany",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa wysłało po południu alert, w którym ostrzega mieszkańców 10 powiatów województwa podkarpackiego o \"zagrożeniu atakiem z powietrza\". Po 20 minutach został odwołany."
+    },
+    {
+      "title": "Były krakowski urzędnik poszukiwany przez policję",
+      "link": "https://tvn24.pl/krakow/krakow-jan-tajster-poszukiwany-przez-policje-wydano-list-gonczy-st9296351?source=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:43:33 GMT",
+      "description": "Były krakowski urzędnik Jan Tajster jest poszukiwany przez policję. Były dyrektor Zarządu Cmentarzy Komunalnych oraz Zarządu Dróg ma trafić do więzienia po wyroku skazującym go między innymi za łapówki. Sąd wydał za nim list gończy, ponieważ mężczyzna nie stawił się w zakładzie karnym.",
+      "originalTitle": "Były krakowski urzędnik poszukiwany przez policję",
+      "originalDescription": "Były krakowski urzędnik Jan Tajster jest poszukiwany przez policję. Były dyrektor Zarządu Cmentarzy Komunalnych oraz Zarządu Dróg ma trafić do więzienia po wyroku skazującym go między innymi za łapówki. Sąd wydał za nim list gończy, ponieważ mężczyzna nie stawił się w zakładzie karnym."
+    }
+  ]
 }
