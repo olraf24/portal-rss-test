@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-21T05:44:50.112Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-21T11:16:07.587Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Pentagon wesprze produkcje czipów. \"Bardzo, bardzo duża inwestycja\"",
+      "link": "https://tvn24.pl/biznes/tech/donald-trump-zapowiada-inwestycje-w-polprzewodniki-pentagon-przeznaczy-1-5-miliarda-dolarow-st9298114?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 11:11:18 GMT",
+      "description": "Pentagon zainwestuje 1,5 miliarda dolarów w produkcję zaawansowanych półprzewodników w Karolinie Północnej - ogłosił prezydent USA Donald Trump podczas wiecu wyborczego w tym stanie.",
+      "originalTitle": "Pentagon wesprze produkcje czipów. \"Bardzo, bardzo duża inwestycja\"",
+      "originalDescription": "Pentagon zainwestuje 1,5 miliarda dolarów w produkcję zaawansowanych półprzewodników w Karolinie Północnej - ogłosił prezydent USA Donald Trump podczas wiecu wyborczego w tym stanie."
+    },
+    {
+      "title": "Śmierć strażaków w Nisku. Są wstępne wyniki sekcji",
+      "link": "https://tvn24.pl/rzeszow/nisko-smierc-strazakow-w-pozarze-sa-wstepne-wyniki-sekcji-st9298268?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:57:55 GMT",
+      "description": "Są wstępne wyniki sekcji zwłok dwóch strażaków, którzy zginęli w czasie gaszenia pożaru magazynu i sklepu z częściami do ciągników rolniczych w Nisku (Podkarpackie). Prokuratura zleciła jeszcze dodatkowe badania.",
+      "originalTitle": "Śmierć strażaków w Nisku. Są wstępne wyniki sekcji",
+      "originalDescription": "Są wstępne wyniki sekcji zwłok dwóch strażaków, którzy zginęli w czasie gaszenia pożaru magazynu i sklepu z częściami do ciągników rolniczych w Nisku (Podkarpackie). Prokuratura zleciła jeszcze dodatkowe badania."
+    },
+    {
+      "title": "Maksimum roju Orionidów 2026. Kiedy i jak obserwować meteory?",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/maksimum-roju-orionidow-2026-kiedy-i-jak-obserwowac-meteory-st9298133?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:53:14 GMT",
+      "description": "Zbliża się maksimum roju Orionidów. Te szybko mknące po niebie meteory związane są ze słynną kometą Halleya. Czy jednak pogoda będzie sprzyjała nam podczas obserwacji?",
+      "originalTitle": "Maksimum roju Orionidów 2026. Kiedy i jak obserwować meteory?",
+      "originalDescription": "Zbliża się maksimum roju Orionidów. Te szybko mknące po niebie meteory związane są ze słynną kometą Halleya. Czy jednak pogoda będzie sprzyjała nam podczas obserwacji?"
+    },
+    {
+      "title": "Po katastrofie kolejowej w Sokolnikach Suchych zmarł kierowca ciężarówki",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sokolniki-suche-katastrofa-kolejowa-zmarl-kierowca-ciezarowki-st9298141?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:48:02 GMT",
+      "description": "Nie żyje kierowca samochodu ciężarowego, który 9 września wjechał pod pociąg na przejeździe kolejowym w Sokolnikach Suchych (Mazowieckie). W konsekwencji zderzenia doszło do wykolejenia składu. Zginęła pasażerka, kilka osób zostało rannych.",
+      "originalTitle": "Po katastrofie kolejowej w Sokolnikach Suchych zmarł kierowca ciężarówki",
+      "originalDescription": "Nie żyje kierowca samochodu ciężarowego, który 9 września wjechał pod pociąg na przejeździe kolejowym w Sokolnikach Suchych (Mazowieckie). W konsekwencji zderzenia doszło do wykolejenia składu. Zginęła pasażerka, kilka osób zostało rannych."
+    },
+    {
+      "title": "Niepokój o zdrowie znanej aktorki. Odpowiedziała nagraniem",
+      "link": "https://tvn24.pl/zdrowie/glenn-close-przeszla-operacje-na-czym-polega-endoprotezoplastyka-czyli-wymiana-stawu-biodrowego-st9298115?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:45:58 GMT",
+      "description": "Zdjęcie Glenn Close podpierającej się laską podczas festiwalu filmowego zaniepokoiło jej fanów. Trzy dni potem amerykańska aktorka opublikowała w mediach społecznościowych nagranie, w którym wyjaśniła, co jej dolega.",
+      "originalTitle": "Niepokój o zdrowie znanej aktorki. Odpowiedziała nagraniem",
+      "originalDescription": "Zdjęcie Glenn Close podpierającej się laską podczas festiwalu filmowego zaniepokoiło jej fanów. Trzy dni potem amerykańska aktorka opublikowała w mediach społecznościowych nagranie, w którym wyjaśniła, co jej dolega."
+    },
+    {
+      "title": "Ceny paliw. Tyle zapłacimy za tankowanie w czwartek",
+      "link": "https://tvn24.pl/biznes/pieniadze/ceny-paliw-stawki-na-czwartek-22-pazdziernika-benzyna-i-diesel-pb95-pb98-on-st9297763?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:43:08 GMT",
+      "description": "Zgodnie z opublikowanym w środę obwieszczeniem ministra energii w sprawie maksymalnych cen paliw, w czwartek na stacjach benzyna będzie tańsza, a olej napędowy droższy niż w środę.",
+      "originalTitle": "Ceny paliw. Tyle zapłacimy za tankowanie w czwartek",
+      "originalDescription": "Zgodnie z opublikowanym w środę obwieszczeniem ministra energii w sprawie maksymalnych cen paliw, w czwartek na stacjach benzyna będzie tańsza, a olej napędowy droższy niż w środę."
+    },
+    {
+      "title": "Trump chce, by firmy płaciły \"dywidendę\" za centra danych",
+      "link": "https://tvn24.pl/biznes/tech/usa-donald-trump-ma-pomysl-na-centra-danych-firmy-maja-dzielic-sie-zyskami-z-mieszkancami-st9298149?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:15:29 GMT",
+      "description": "Donald Trump uważa, że firmy budujące centra danych powinny dzielić się korzyściami z tych inwestycji z lokalnymi społecznościami. Prezydent USA stwierdził również, że duże centra danych powinny produkować własną energię, a jej nadwyżki przekazywać mieszkańcom lub do sieci energetycznej.",
+      "originalTitle": "Trump chce, by firmy płaciły \"dywidendę\" za centra danych",
+      "originalDescription": "Donald Trump uważa, że firmy budujące centra danych powinny dzielić się korzyściami z tych inwestycji z lokalnymi społecznościami. Prezydent USA stwierdził również, że duże centra danych powinny produkować własną energię, a jej nadwyżki przekazywać mieszkańcom lub do sieci energetycznej."
+    },
+    {
+      "title": "Kierowca potrącił łosia, auto wylądowało w polu. Zginął pasażer",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/kodlutowo-kierowca-bmw-potracil-losia-zginal-pasazer-st9298158?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:14:00 GMT",
+      "description": "Nie żyje 24-letni mężczyzna, a trzy osoby trafiły do szpitala. To bilans wypadku, do którego doszło w Kodłutowie (Mazowieckie). Kierowane przez 19-latka BMW potrąciło łosia, po czym zjechało z jezdni.",
+      "originalTitle": "Kierowca potrącił łosia, auto wylądowało w polu. Zginął pasażer",
+      "originalDescription": "Nie żyje 24-letni mężczyzna, a trzy osoby trafiły do szpitala. To bilans wypadku, do którego doszło w Kodłutowie (Mazowieckie). Kierowane przez 19-latka BMW potrąciło łosia, po czym zjechało z jezdni."
+    },
+    {
+      "title": "Auto zostawił na wysepce ronda, odszedł i wpadł do rowu. Miał cztery promile",
+      "link": "https://tvn24.pl/katowice/myszkow-auto-zostawil-na-wysepce-ronda-odszedl-i-wpadl-do-rowu-mial-cztery-promile-st9298078?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:10:14 GMT",
+      "description": "Zostawił samochód na rondzie, odszedł i wpadł do rowu melioracyjnego. Tam znaleźli go policjanci. 44-latek miał cztery promile alkoholu i sądowy zakaz prowadzenia pojazdów.",
+      "originalTitle": "Auto zostawił na wysepce ronda, odszedł i wpadł do rowu. Miał cztery promile",
+      "originalDescription": "Zostawił samochód na rondzie, odszedł i wpadł do rowu melioracyjnego. Tam znaleźli go policjanci. 44-latek miał cztery promile alkoholu i sądowy zakaz prowadzenia pojazdów."
+    },
+    {
+      "title": "Władimir Putin uwolnił amerykańskiego nauczyciela. Na prośbę Donalda Trumpa",
+      "link": "https://tvn24.pl/swiat/wladimir-putin-uwolnil-amerykanskiego-nauczyciela-na-prosbe-donalda-trumpa-st9298191?source=rss",
+      "pubDate": "Wed, 21 Oct 2026 10:04:08 GMT",
+      "description": "Emerytowany nauczyciel Stephen Hubbard, obywatel USA został uwolniony z rosyjskiego więzienia. Donald Trump przekazał, że w zeszłym tygodniu poprosił o to Władimira Putina w rozmowie telefonicznej. \"Stany Zjednoczone nie musiały oferować niczego w zamian\" - podkreślił. Hubbard został oskarżony przez Rosję o udział w walkach po stronie Ukrainy jako najemnik. Jego siostra stanowczo temu zaprzeczyła.",
+      "originalTitle": "Władimir Putin uwolnił amerykańskiego nauczyciela. Na prośbę Donalda Trumpa",
+      "originalDescription": "Emerytowany nauczyciel Stephen Hubbard, obywatel USA został uwolniony z rosyjskiego więzienia. Donald Trump przekazał, że w zeszłym tygodniu poprosił o to Władimira Putina w rozmowie telefonicznej. \"Stany Zjednoczone nie musiały oferować niczego w zamian\" - podkreślił. Hubbard został oskarżony przez Rosję o udział w walkach po stronie Ukrainy jako najemnik. Jego siostra stanowczo temu zaprzeczyła."
+    }
+  ]
 }
