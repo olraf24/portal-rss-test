@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-22T03:30:39.005Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-22T09:11:33.523Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Puste półki, braki paliwa, zamknięte szkoły. Eskalacja protestów",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-protesty-w-neapolu-wywolaly-paraliz-brakuje-zywnosci-i-paliwa-st9299765?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 06:28:42 GMT",
+      "description": "Sytuacja w Neapolu pogarsza się w wyniku protestu transportowców na południu Włoch przeciwko wysokim cenom paliw. W wielu sklepach brakuje żywności, a na stacjach benzynowych paliwa. Kłopoty miały dotknąć także północną część Kalabrii.",
+      "originalTitle": "Puste półki, braki paliwa, zamknięte szkoły. Eskalacja protestów",
+      "originalDescription": "Sytuacja w Neapolu pogarsza się w wyniku protestu transportowców na południu Włoch przeciwko wysokim cenom paliw. W wielu sklepach brakuje żywności, a na stacjach benzynowych paliwa. Kłopoty miały dotknąć także północną część Kalabrii."
+    },
+    {
+      "title": "Cztery zdania, które sygnalizują samotność. Wskazali je polscy naukowcy",
+      "link": "https://tvn24.pl/zdrowie/cztery-zdania-ktore-sygnalizuja-samotnosc-nowa-skala-pomiaru-samotnosci-st9298266?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 09:02:54 GMT",
+      "description": "Światowa Organizacja Zdrowia (WHO) określa ją mianem współczesnej epidemii. Samotność oznacza rozbieżność między relacjami, jakich człowiek potrzebuje, a tymi, które rzeczywiście ma. Wpływa na zdrowie psychiczne i fizyczne. Jej skalę pomoże ocenić nowa skala opracowana przez polskich naukowców.",
+      "originalTitle": "Cztery zdania, które sygnalizują samotność. Wskazali je polscy naukowcy",
+      "originalDescription": "Światowa Organizacja Zdrowia (WHO) określa ją mianem współczesnej epidemii. Samotność oznacza rozbieżność między relacjami, jakich człowiek potrzebuje, a tymi, które rzeczywiście ma. Wpływa na zdrowie psychiczne i fizyczne. Jej skalę pomoże ocenić nowa skala opracowana przez polskich naukowców."
+    },
+    {
+      "title": "Satelity, biznes i cyfryzacja. Kluczowe punkty po rozmowach Tuska z premierem Indii",
+      "link": "https://tvn24.pl/swiat/premier-donald-tusk-w-indiach-wspolne-oswiadczenie-z-narenda-modim-st9299897?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:56:34 GMT",
+      "description": "To największa tego typu wizyta w historii naszych relacji - powiedział podczas pobytu w Nowym Delhi premier Donald Tusk, który do stolicy Indii przyleciał z przedstawicielami polskich firm. Szef polskiego rządu spotkał się ze swoim indyjskim odpowiednikiem Narendrą Modim. Politycy mówili między innymi o relacjach biznesowych.",
+      "originalTitle": "Satelity, biznes i cyfryzacja. Kluczowe punkty po rozmowach Tuska z premierem Indii",
+      "originalDescription": "To największa tego typu wizyta w historii naszych relacji - powiedział podczas pobytu w Nowym Delhi premier Donald Tusk, który do stolicy Indii przyleciał z przedstawicielami polskich firm. Szef polskiego rządu spotkał się ze swoim indyjskim odpowiednikiem Narendrą Modim. Politycy mówili między innymi o relacjach biznesowych."
+    },
+    {
+      "title": "W sobotę wprowadził się do matki, w niedzielę już nie żyła. 38-latek podejrzany o zabójstwo",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pultusk-w-sobote-wprowadzil-sie-do-matki-w-niedziele-juz-nie-zyla-syn-podejrzany-o-zabojstwo-st9299963?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:53:50 GMT",
+      "description": "Policjanci z Pułtuska zatrzymali jedną osobę w sprawie zabójstwa 64-latki. To syn kobiety. Mężczyzna usłyszał zarzut i trafił do aresztu.",
+      "originalTitle": "W sobotę wprowadził się do matki, w niedzielę już nie żyła. 38-latek podejrzany o zabójstwo",
+      "originalDescription": "Policjanci z Pułtuska zatrzymali jedną osobę w sprawie zabójstwa 64-latki. To syn kobiety. Mężczyzna usłyszał zarzut i trafił do aresztu."
+    },
+    {
+      "title": "Groził sąsiadom, zaatakował policjantów. 38-latek usłyszał zarzuty",
+      "link": "https://tvn24.pl/opole/opole-grozil-sasiadom-zaatakowal-policjantow-38-latek-uslyszal-zarzuty-st9299830?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:44:08 GMT",
+      "description": "Awantura między sąsiadami w jednym z bloków w Opolu zakończyła się zatrzymaniem 38-latka. Mężczyzna miał grozić mieszkańcom, a podczas interwencji zaatakować policjanta i wyrzucić przez okno doniczkę z konopiami indyjskimi. Usłyszał cztery zarzuty.",
+      "originalTitle": "Groził sąsiadom, zaatakował policjantów. 38-latek usłyszał zarzuty",
+      "originalDescription": "Awantura między sąsiadami w jednym z bloków w Opolu zakończyła się zatrzymaniem 38-latka. Mężczyzna miał grozić mieszkańcom, a podczas interwencji zaatakować policjanta i wyrzucić przez okno doniczkę z konopiami indyjskimi. Usłyszał cztery zarzuty."
+    },
+    {
+      "title": "Meta chce zatrzymać Zuckerberga. \"Krytycznie ważne\"",
+      "link": "https://tvn24.pl/biznes/tech/mark-zuckerberg-zostanie-w-kalifornii-meta-zaoferuje-mu-nowe-akcje-st9299942?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:42:24 GMT",
+      "description": "Meta uzgodniła z Markiem Zuckerbergiem, że pozostanie on mieszkańcem Kalifornii przez osiem lat. Porozumienie ma ograniczyć ryzyko, że propozycja jednorazowego podatku od majątku najbogatszych zmusi go do sprzedaży akcji dających mu kontrolę nad spółką.",
+      "originalTitle": "Meta chce zatrzymać Zuckerberga. \"Krytycznie ważne\"",
+      "originalDescription": "Meta uzgodniła z Markiem Zuckerbergiem, że pozostanie on mieszkańcem Kalifornii przez osiem lat. Porozumienie ma ograniczyć ryzyko, że propozycja jednorazowego podatku od majątku najbogatszych zmusi go do sprzedaży akcji dających mu kontrolę nad spółką."
+    },
+    {
+      "title": "Znaleziono obiekt przypominający drona. Żandarmeria wykluczyła zagrożenie",
+      "link": "https://tvn24.pl/rzeszow/lubaczow-znaleziono-obiekt-przypominajacy-drona-zandarmeria-wykluczyla-zagrozenie-st9299909?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:37:43 GMT",
+      "description": "Przedmiot przypominający bezzałogowy statek powietrzny znaleziono w środę na terenie niezamieszkałej posesji w Lubaczowie na Podkarpaciu. Żandarmeria Wojskowa poinformowała, że wykluczono zagrożenia radiologiczne, biologiczne i chemiczne oraz obecność materiałów wybuchowych.",
+      "originalTitle": "Znaleziono obiekt przypominający drona. Żandarmeria wykluczyła zagrożenie",
+      "originalDescription": "Przedmiot przypominający bezzałogowy statek powietrzny znaleziono w środę na terenie niezamieszkałej posesji w Lubaczowie na Podkarpaciu. Żandarmeria Wojskowa poinformowała, że wykluczono zagrożenia radiologiczne, biologiczne i chemiczne oraz obecność materiałów wybuchowych."
+    },
+    {
+      "title": "Czy to on będzie nowym Jamesem Bondem? Zostało trzech kandydatów",
+      "link": "https://tvn24.pl/kultura-i-styl/czy-jacob-elordi-bedzie-nowym-jamesem-bondem-zostalo-trzech-kandydatow-st9299652?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:37:41 GMT",
+      "description": "Jeśli wierzyć informacjom amerykańskich krytyków - Jordana Ruimy'ego i Jeffa Sneidera - nowy James Bond został już wybrany. Ma nim być gwiazdor \"Wichrowych wzgórz\" - Jacob Elordi. Na ostatnim etapie castingów pozostało trzech kandydatów. Za głównego rywala Elordiego uważany jest Jack Lowden. Trzeci kandydat jest nieznany.",
+      "originalTitle": "Czy to on będzie nowym Jamesem Bondem? Zostało trzech kandydatów",
+      "originalDescription": "Jeśli wierzyć informacjom amerykańskich krytyków - Jordana Ruimy'ego i Jeffa Sneidera - nowy James Bond został już wybrany. Ma nim być gwiazdor \"Wichrowych wzgórz\" - Jacob Elordi. Na ostatnim etapie castingów pozostało trzech kandydatów. Za głównego rywala Elordiego uważany jest Jack Lowden. Trzeci kandydat jest nieznany."
+    },
+    {
+      "title": "Ukraińskie wojsko o największej liczbie strat po stronie rosyjskiej",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-wojsko-o-najwiekszej-liczbie-strat-po-stronie-rosyjskiej-st9299971?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:17:21 GMT",
+      "description": "W ciągu ostatniej doby ukraińskie wojsko wyeliminowało 2250 rosyjskich żołnierzy. To najwyższa dobowa liczba strat w personelu wojskowym Rosji od początku pełnoskalowej rosyjskiej inwazji na Ukrainę - przekazał Sztab Generalny Sił Zbrojnych Ukrainy.",
+      "originalTitle": "Ukraińskie wojsko o największej liczbie strat po stronie rosyjskiej",
+      "originalDescription": "W ciągu ostatniej doby ukraińskie wojsko wyeliminowało 2250 rosyjskich żołnierzy. To najwyższa dobowa liczba strat w personelu wojskowym Rosji od początku pełnoskalowej rosyjskiej inwazji na Ukrainę - przekazał Sztab Generalny Sił Zbrojnych Ukrainy."
+    },
+    {
+      "title": "Tajfun Champi. Fale mogą mieć 11 metrów. Alarmy od Tajwanu po Japonię",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tajfun-champi-odwolal-loty-i-zagraza-manewrom-wojskowym-st9299819?source=rss",
+      "pubDate": "Thu, 22 Oct 2026 08:10:39 GMT",
+      "description": "Tajfun Champi zbliża się do Tajwanu i Japonii. Przed nadejściem żywiołu niektóre linie lotnicze zdecydowały się na odwołanie części lotów. Pogoda może być niebezpieczna także dla uczestników trwających w regionie manewrów wojskowych.",
+      "originalTitle": "Tajfun Champi. Fale mogą mieć 11 metrów. Alarmy od Tajwanu po Japonię",
+      "originalDescription": "Tajfun Champi zbliża się do Tajwanu i Japonii. Przed nadejściem żywiołu niektóre linie lotnicze zdecydowały się na odwołanie części lotów. Pogoda może być niebezpieczna także dla uczestników trwających w regionie manewrów wojskowych."
+    }
+  ]
 }
