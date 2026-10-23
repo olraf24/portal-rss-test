@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-23T01:14:33.285Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-23T06:18:28.755Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Rosja coraz bardziej ryzykuje. Zapytaliśmy europejskie służby, jak daleko się posunie",
+      "link": "https://tvn24.pl/swiat/czy-rosja-zaatakuje-nato-co-mowia-nam-europejskie-sluzby-st9289998?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 05:49:31 GMT",
+      "description": "Rosja coraz mniej przejmuje się ukrywaniem swojego udziału w operacjach wymierzonych w państwa Zachodu. Moskwa staje się brutalniejsza i jest gotowa podejmować coraz większe ryzyko - ostrzegają nasi rozmówcy ze służb specjalnych kilku krajów. Nasze źródło w wywiadzie jednego z nich wskazuje, że zakończenie lub zamrożenie wojny w Ukrainie mogłoby przyspieszyć gotowość Rosji do ewentualnego konfliktu z NATO.",
+      "originalTitle": "Rosja coraz bardziej ryzykuje. Zapytaliśmy europejskie służby, jak daleko się posunie",
+      "originalDescription": "Rosja coraz mniej przejmuje się ukrywaniem swojego udziału w operacjach wymierzonych w państwa Zachodu. Moskwa staje się brutalniejsza i jest gotowa podejmować coraz większe ryzyko - ostrzegają nasi rozmówcy ze służb specjalnych kilku krajów. Nasze źródło w wywiadzie jednego z nich wskazuje, że zakończenie lub zamrożenie wojny w Ukrainie mogłoby przyspieszyć gotowość Rosji do ewentualnego konfliktu z NATO."
+    },
+    {
+      "title": "Przeskoczył ogrodzenie schroniska, by zabrać psa na spacer. Grozi mu surowa kara",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-chcial-zabrac-psa-ze-schroniska-na-spacer-odpowie-za-kradziez-z-wlamaniem-st9299850?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 05:39:41 GMT",
+      "description": "Policjanci z warszawskich Włoch zatrzymali mężczyznę podejrzanego o kradzież psa ze Schroniska na Paluchu. 51-latek twierdził, że chciał wyprowadzić go na spacer, ale nie dostał na to zgody od dyrekcji. Grozi mu kara więzienia.",
+      "originalTitle": "Przeskoczył ogrodzenie schroniska, by zabrać psa na spacer. Grozi mu surowa kara",
+      "originalDescription": "Policjanci z warszawskich Włoch zatrzymali mężczyznę podejrzanego o kradzież psa ze Schroniska na Paluchu. 51-latek twierdził, że chciał wyprowadzić go na spacer, ale nie dostał na to zgody od dyrekcji. Grozi mu kara więzienia."
+    },
+    {
+      "title": "Nie zatrzymał się do kontroli, uciekał i miał trzy promile. Wyrok w trybie przyspieszonym",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ucieczka-przed-policja-promile-i-wyrok-w-trybie-przyspieszonym-st9301381?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 05:26:16 GMT",
+      "description": "Przekroczył dozwoloną prędkość i nie zatrzymał się do kontroli, próbując uciekać przed policjantami. Funkcjonariusze z Piaseczna zatrzymali mężczyznę, który prowadził pod wpływem alkoholu. Po wytrzeźwieniu z celi trafił prosto na salę sądową. Wyrok dzięki trybowi przyspieszonemu zapadł w ciągu 48 godzin.",
+      "originalTitle": "Nie zatrzymał się do kontroli, uciekał i miał trzy promile. Wyrok w trybie przyspieszonym",
+      "originalDescription": "Przekroczył dozwoloną prędkość i nie zatrzymał się do kontroli, próbując uciekać przed policjantami. Funkcjonariusze z Piaseczna zatrzymali mężczyznę, który prowadził pod wpływem alkoholu. Po wytrzeźwieniu z celi trafił prosto na salę sądową. Wyrok dzięki trybowi przyspieszonemu zapadł w ciągu 48 godzin."
+    },
+    {
+      "title": "Brakuje podstawowych produktów. \"Nie dajemy już rady\", \"tak się nie da żyć\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-puste-polki-w-sklepach-brakuje-warzyw-owocow-i-wody-efekt-strajkow-st9301524?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 05:12:43 GMT",
+      "description": "Puste półki w sklepach ostatni raz Włosi widzieli w czasie pandemii. Teraz w wielu miejscach na południu Włoch brakuje podstawowych produktów, między innymi warzyw i owoców. Materiał Jakuba Loski dla magazynu \"Fakty o świecie\".",
+      "originalTitle": "Brakuje podstawowych produktów. \"Nie dajemy już rady\", \"tak się nie da żyć\"",
+      "originalDescription": "Puste półki w sklepach ostatni raz Włosi widzieli w czasie pandemii. Teraz w wielu miejscach na południu Włoch brakuje podstawowych produktów, między innymi warzyw i owoców. Materiał Jakuba Loski dla magazynu \"Fakty o świecie\"."
+    },
+    {
+      "title": "Trzęsienie ziemi w Tybecie. 16 osób nie żyje",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/trzesienie-ziemi-w-tybecie-16-osob-nie-zyje-st9301661?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 04:56:39 GMT",
+      "description": "W czwartkowym trzęsieniu ziemi w północnej części Tybetu zginęło co najmniej 16 osób, a 54 zostały ranne. Trwa akcja ratunkowa, do której zmobilizowano 1600 ratowników.",
+      "originalTitle": "Trzęsienie ziemi w Tybecie. 16 osób nie żyje",
+      "originalDescription": "W czwartkowym trzęsieniu ziemi w północnej części Tybetu zginęło co najmniej 16 osób, a 54 zostały ranne. Trwa akcja ratunkowa, do której zmobilizowano 1600 ratowników."
+    },
+    {
+      "title": "Ustawa praworządnościowa przyjęta. Ma uporządkować status sędziów",
+      "link": "https://tvn24.pl/polska/sejm-uchwalil-ustawe-praworzadnosciowa-ma-uporzadkowac-status-sedziow-powolanych-w-latach-2018-2026-st9301623?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 04:41:36 GMT",
+      "description": "Sejm uchwalił tak zwaną ustawę praworządnościową mającą uporządkować status sędziów \"nieprawidłowo powołanych\" w latach 2018-2026. Chodzi o uregulowanie skutków odnoszących się do powołań uchwał upolitycznionej Krajowej Rady Sądownictwa.",
+      "originalTitle": "Ustawa praworządnościowa przyjęta. Ma uporządkować status sędziów",
+      "originalDescription": "Sejm uchwalił tak zwaną ustawę praworządnościową mającą uporządkować status sędziów \"nieprawidłowo powołanych\" w latach 2018-2026. Chodzi o uregulowanie skutków odnoszących się do powołań uchwał upolitycznionej Krajowej Rady Sądownictwa."
+    },
+    {
+      "title": "Alerty RCB w związku z rosyjskim atakiem na Ukrainę",
+      "link": "https://tvn24.pl/polska/alert-rcb-w-zwiazku-z-rosyjskim-atakiem-na-ukraine-st9301632?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 02:22:35 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa ogłosiło alerty dla województwa lubelskiego i podkarpackiego w związku z rosyjskim atakiem powietrznym na terenie Ukrainy. \"Operuje polskie lotnictwo\" - poinformowano.",
+      "originalTitle": "Alerty RCB w związku z rosyjskim atakiem na Ukrainę",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa ogłosiło alerty dla województwa lubelskiego i podkarpackiego w związku z rosyjskim atakiem powietrznym na terenie Ukrainy. \"Operuje polskie lotnictwo\" - poinformowano."
+    },
+    {
+      "title": "Ogromna wygrana w Lotto. Kumulacja rozbita",
+      "link": "https://tvn24.pl/biznes/pieniadze/lotto-i-lotto-plus-wyniki-z-22-pazdziernika-2026-jakie-liczby-padly-w-trakcie-losowania-st9301641?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 04:31:00 GMT",
+      "description": "W czwartkowym losowaniu Lotto padła główna wygrana. Do gracza, który poprawnie wytypował wszystkie sześć liczb trafi ponad 20 milionów złotych. Oto wyniki losowania Lotto i Lotto Plus z 22 października 2026 roku.",
+      "originalTitle": "Ogromna wygrana w Lotto. Kumulacja rozbita",
+      "originalDescription": "W czwartkowym losowaniu Lotto padła główna wygrana. Do gracza, który poprawnie wytypował wszystkie sześć liczb trafi ponad 20 milionów złotych. Oto wyniki losowania Lotto i Lotto Plus z 22 października 2026 roku."
+    },
+    {
+      "title": "Zmiana czasu na zimowy 2026. O której godzinie przestawiamy zegarki?",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/zmiana-czasu-na-zimowy-2026-kiedy-przestawiamy-zegarki-st9301548?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 04:18:44 GMT",
+      "description": "Zmiana czasu z letniego na zimowy 2026 tuż-tuż. W ostatni weekend października przestawimy wskazówki zegarków o godzinę do tyłu. Choć pośpimy dłużej, to zmiana czasu może mieć wpływ na nasze samopoczucie. Ci, którzy będą pracować w nocy ze zmianą czasu, jeśli są zatrudnieni na etacie, zarobią wiecej.",
+      "originalTitle": "Zmiana czasu na zimowy 2026. O której godzinie przestawiamy zegarki?",
+      "originalDescription": "Zmiana czasu z letniego na zimowy 2026 tuż-tuż. W ostatni weekend października przestawimy wskazówki zegarków o godzinę do tyłu. Choć pośpimy dłużej, to zmiana czasu może mieć wpływ na nasze samopoczucie. Ci, którzy będą pracować w nocy ze zmianą czasu, jeśli są zatrudnieni na etacie, zarobią wiecej."
+    },
+    {
+      "title": "Chodząca platforma nad polskim morzem. Tak wyglądają przygotowania do budowy elektrowni atomowej",
+      "link": "https://tvn24.pl/biznes/z-kraju/przygotowania-do-budowy-pierwszej-elektrowni-atomowej-w-polsce-material-faktow-tvn-st9301629?source=rss",
+      "pubDate": "Fri, 23 Oct 2026 03:57:32 GMT",
+      "description": "Pierwsza polska elektrownia atomowa jest dopiero w budowie. Reporter \"Faktów\" TVN Jan Błaszkowski mógł z bliska przyglądać się budowie tak zwanej wyspy jądrowej. Elektrownia powstaje nad samym morzem w gminie Choczewo - ma mieć trzy reaktory amerykańskiej produkcji i zapewniać 15 procent krajowego zapotrzebowania na energię.",
+      "originalTitle": "Chodząca platforma nad polskim morzem. Tak wyglądają przygotowania do budowy elektrowni atomowej",
+      "originalDescription": "Pierwsza polska elektrownia atomowa jest dopiero w budowie. Reporter \"Faktów\" TVN Jan Błaszkowski mógł z bliska przyglądać się budowie tak zwanej wyspy jądrowej. Elektrownia powstaje nad samym morzem w gminie Choczewo - ma mieć trzy reaktory amerykańskiej produkcji i zapewniać 15 procent krajowego zapotrzebowania na energię."
+    }
+  ]
 }
