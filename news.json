@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-25T13:34:20.974Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-25T17:25:37.116Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Silny wiatr. Tu wciąż obowiązują ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/polska/ostrzezenia-imgw-przed-silnym-wiatrem-dla-siedmiu-wojewodztw-st9304259?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 08:25:00 GMT",
+      "description": "IMGW wydał ostrzeżenia meteorologiczne. W niedzielę po południu w siedmiu województwach nadal obowiązują alarmy przed silnym wiatrem. Miejscami groźnie będzie także w poniedziałek.",
+      "originalTitle": "Silny wiatr. Tu wciąż obowiązują ostrzeżenia IMGW",
+      "originalDescription": "IMGW wydał ostrzeżenia meteorologiczne. W niedzielę po południu w siedmiu województwach nadal obowiązują alarmy przed silnym wiatrem. Miejscami groźnie będzie także w poniedziałek."
+    },
+    {
+      "title": "Swiatłana Cichanouska zachęca UE do sięgnięcia po kij. \"Łukaszenka bardzo boi się sankcji\"",
+      "link": "https://tvn24.pl/polska/swiatlana-cichanouska-zacheca-ue-do-siegniecia-po-kij-na-bialorus-lukaszenka-bardzo-boi-sie-sankcji-st9305090?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 15:49:54 GMT",
+      "description": "Bez wolnej i demokratycznej Białorusi nie będzie gwarancji bezpieczeństwa dla całej Europy, Łukaszenka będzie robił to, co chce Rosja - powiedziała liderka białoruskiej opozycji Swiatłana Cichanouska. - Zachęcamy do stosowania metody kija i marchewki. Europejczycy wybierają marchewkę, ale Łukaszenka bardzo boi się sankcji - mówiła.",
+      "originalTitle": "Swiatłana Cichanouska zachęca UE do sięgnięcia po kij. \"Łukaszenka bardzo boi się sankcji\"",
+      "originalDescription": "Bez wolnej i demokratycznej Białorusi nie będzie gwarancji bezpieczeństwa dla całej Europy, Łukaszenka będzie robił to, co chce Rosja - powiedziała liderka białoruskiej opozycji Swiatłana Cichanouska. - Zachęcamy do stosowania metody kija i marchewki. Europejczycy wybierają marchewkę, ale Łukaszenka bardzo boi się sankcji - mówiła."
+    },
+    {
+      "title": "Obywatel Chin zatrzymany na lotnisku. Przyleciał z Mediolanu, szukali go Niemcy",
+      "link": "https://tvn24.pl/tvnwarszawa/wlochy/lotnisko-chopina-szukali-go-niemcy-zostal-zatrzymany-na-lotnisku-st9305104?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 15:47:01 GMT",
+      "description": "54-letni obywatel Chin poszukiwany Europejskim Nakazem Aresztowania został zatrzymany na Lotnisku Chopina.",
+      "originalTitle": "Obywatel Chin zatrzymany na lotnisku. Przyleciał z Mediolanu, szukali go Niemcy",
+      "originalDescription": "54-letni obywatel Chin poszukiwany Europejskim Nakazem Aresztowania został zatrzymany na Lotnisku Chopina."
+    },
+    {
+      "title": "Woda cofnęła się w Świnoujściu. Odsłoniła sporo plaży",
+      "link": "https://tvn24.pl/tvnmeteo/polska/woda-cofnela-sie-w-swinoujsciu-odslonila-sporo-plazy-zdjecia-st9305082?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 15:39:16 GMT",
+      "description": "Bałtyk cofnął się w Świnoujściu, ukazując zazwyczaj zalany fragment plaży. W niedzielę na Wybrzeżu silnie wiało, a na morzu obowiązywały alarmy przed silnym sztormem.",
+      "originalTitle": "Woda cofnęła się w Świnoujściu. Odsłoniła sporo plaży",
+      "originalDescription": "Bałtyk cofnął się w Świnoujściu, ukazując zazwyczaj zalany fragment plaży. W niedzielę na Wybrzeżu silnie wiało, a na morzu obowiązywały alarmy przed silnym sztormem."
+    },
+    {
+      "title": "Niezwykła akcja ukraińskiego wojska. Żywność i zabawki przyleciały dronami",
+      "link": "https://tvn24.pl/swiat/ukraina-zywnosc-i-zabawki-przyleciala-dronami-st9305083?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 15:29:50 GMT",
+      "description": "Za pomocą dronów ukraińscy żołnierze dostarczyli żywność i zabawki dla dzieci w Ołeszkach na południu Ukrainy. Mieszkańcy relacjonują, że w okupowanym przez Rosjan mieście od tygodni panuje głód.",
+      "originalTitle": "Niezwykła akcja ukraińskiego wojska. Żywność i zabawki przyleciały dronami",
+      "originalDescription": "Za pomocą dronów ukraińscy żołnierze dostarczyli żywność i zabawki dla dzieci w Ołeszkach na południu Ukrainy. Mieszkańcy relacjonują, że w okupowanym przez Rosjan mieście od tygodni panuje głód."
+    },
+    {
+      "title": "Jedna firma na całą Europę. Trwa spór o \"EU Inc\"",
+      "link": "https://tvn24.pl/biznes/dlafirm/jedna-firma-na-cala-europe-trwa-spor-o-eu-inc-st9304977?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 14:44:12 GMT",
+      "description": "Kraje Wspólnoty zrezygnowały z części założeń projektu nowej struktury prawnej dla przedsiębiorstw, które chciałyby operować w kilku państwach Unii Europejskiej jednocześnie - poinformował \"Financial Times\". Dobrowolny status prawny, nazywany potocznie \"EU Inc\", stanowi element szerszych starań Brukseli na rzecz wyeliminowania różnic regulacyjnych wewnątrz UE.",
+      "originalTitle": "Jedna firma na całą Europę. Trwa spór o \"EU Inc\"",
+      "originalDescription": "Kraje Wspólnoty zrezygnowały z części założeń projektu nowej struktury prawnej dla przedsiębiorstw, które chciałyby operować w kilku państwach Unii Europejskiej jednocześnie - poinformował \"Financial Times\". Dobrowolny status prawny, nazywany potocznie \"EU Inc\", stanowi element szerszych starań Brukseli na rzecz wyeliminowania różnic regulacyjnych wewnątrz UE."
+    },
+    {
+      "title": "Zderzenie w Alei Niepodległości, jedno auto dachowało",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-zderzenie-w-alei-niepodleglosci-jedno-auto-dachowalo-st9305055?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 14:43:46 GMT",
+      "description": "W niedzielę w godzinach popołudniowych w Alei Niepodległości, w okolicy stacji metra Racławicka, zderzyły się dwa pojazdy osobowe. Są utrudnienia w ruchu. Autobusy zostały skierowane na objazdy.",
+      "originalTitle": "Zderzenie w Alei Niepodległości, jedno auto dachowało",
+      "originalDescription": "W niedzielę w godzinach popołudniowych w Alei Niepodległości, w okolicy stacji metra Racławicka, zderzyły się dwa pojazdy osobowe. Są utrudnienia w ruchu. Autobusy zostały skierowane na objazdy."
+    },
+    {
+      "title": "Chmury mieniły się barwami tęczy. Zdjęcia",
+      "link": "https://tvn24.pl/tvnmeteo/polska/chmury-mienily-sie-barwami-teczy-zdjecia-iryzacja-jak-powstaje-to-zjawisko-st9304955?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 14:41:31 GMT",
+      "description": "W niedzielę na chmurach w Małopolsce pojawiły się tęczowe barwy. Można to zobaczyć na zdjęciach. Sprawdź, jak nazywa się to zjawisko i jak powstało.",
+      "originalTitle": "Chmury mieniły się barwami tęczy. Zdjęcia",
+      "originalDescription": "W niedzielę na chmurach w Małopolsce pojawiły się tęczowe barwy. Można to zobaczyć na zdjęciach. Sprawdź, jak nazywa się to zjawisko i jak powstało."
+    },
+    {
+      "title": "\"Z Kasią zawsze mieliśmy inne ustawienia fabryczne\". Szymon Hołownia z refleksją na niedzielę",
+      "link": "https://tvn24.pl/polska/szymon-holownia-z-refleksja-o-wyrzuceniu-katarzyny-pelczynskiej-nalecz-z-polski-2050-inne-ustawienia-fabryczne-st9305004?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 14:35:42 GMT",
+      "description": "Szef klubu Polski 2050 Szymon Hołownia przekonuje, że wyrzucenie Katarzyny Pełczyńskiej-Nałęcz z partii jest \"naturalną konsekwencją\" jej własnych decyzji. Zarzucił jej, że chciała wyprowadzić Polskę 2050 z koalicji rządzącej \"jednoosobowo\". Napisał też, że \"wojna\" z Tuskiem, Nawrockim, PSL i Lewicą to \"idiotyzm\".",
+      "originalTitle": "\"Z Kasią zawsze mieliśmy inne ustawienia fabryczne\". Szymon Hołownia z refleksją na niedzielę",
+      "originalDescription": "Szef klubu Polski 2050 Szymon Hołownia przekonuje, że wyrzucenie Katarzyny Pełczyńskiej-Nałęcz z partii jest \"naturalną konsekwencją\" jej własnych decyzji. Zarzucił jej, że chciała wyprowadzić Polskę 2050 z koalicji rządzącej \"jednoosobowo\". Napisał też, że \"wojna\" z Tuskiem, Nawrockim, PSL i Lewicą to \"idiotyzm\"."
+    },
+    {
+      "title": "Spór o Starlinka. Musk: ukraińskie wojsko złamało warunki",
+      "link": "https://tvn24.pl/biznes/ze-swiata/spor-o-starlinka-elon-musk-ukrainskie-wojsko-zlamalo-warunki-st9305003?source=rss",
+      "pubDate": "Sun, 25 Oct 2026 14:26:29 GMT",
+      "description": "Ukraina poinformowała, że system satelitarny Starlink oraz jego wojskowa wersja Starshield są już w pełni sprawne po ponad tygodniu ograniczeń - przekazał Reuters. Kilka godzin później szef SpaceX Elon Musk zarzucił ukraińskim siłom zbrojnym naruszenie regulaminu usługi.",
+      "originalTitle": "Spór o Starlinka. Musk: ukraińskie wojsko złamało warunki",
+      "originalDescription": "Ukraina poinformowała, że system satelitarny Starlink oraz jego wojskowa wersja Starshield są już w pełni sprawne po ponad tygodniu ograniczeń - przekazał Reuters. Kilka godzin później szef SpaceX Elon Musk zarzucił ukraińskim siłom zbrojnym naruszenie regulaminu usługi."
+    }
+  ]
 }
