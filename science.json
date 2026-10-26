@@ -1,8 +1,26 @@
 {
-  "lastUpdate": "2026-10-26T12:20:41.549Z",
+  "lastUpdate": "2026-10-26T18:47:47.890Z",
   "enhancedWithGroq": false,
   "source": "DziennikNaukowy.pl",
   "articles": [
+    {
+      "title": "Mieszanki minerałów &#8211; jak wybrać dobry kompleks dla sportowca",
+      "link": "https://dzienniknaukowy.pl/mieszanki-mineralow-jak-wybrac-dobry-kompleks-dla-sportowca",
+      "pubDate": "Mon, 26 Oct 2026 13:52:08 +0000",
+      "description": "Mieszanki minerałów to preparaty łączące w jednej kapsułce lub tabletce kilka kluczowych pierwiastków, takich jak magnez, cynk, wapń, potas czy selen. Tego typu kompleksy uzupełniają codzienną dietę osób aktywnych fizycznie, u których zapotrzebowanie na składniki mineralne bywa wyższe niż u przeciętnego konsumenta. W poradniku wyjaśniamy, jak rozpoznać dobrze skomponowany preparat, na które formy chemiczne zwrócić uwagę oraz w jakich sytuacjach taka suplementacja realnie wspiera organizm sportowca."
+    },
+    {
+      "title": "Humor może przynieść ulgę w depresji, ale jego stosowanie w leczeniu wymaga ostrożności",
+      "link": "https://dzienniknaukowy.pl/humor-moze-przyniesc-ulge-w-depresji-ale-jego-stosowanie-w-leczeniu-wymaga-ostroznosci",
+      "pubDate": "Mon, 26 Oct 2026 13:45:20 +0000",
+      "description": "Humor może być jednym z elementów terapii depresji. Jego stosowanie w procesie leczenia wymaga jednak dużej ostrożności. Musi być dopasowany do etapu leczenia i aktualnych możliwości osoby, zarówno emocjonalnych, jak i poznawczych - pokazuje analiza dr Anny Branieckiej z Uniwersytetu SWPS."
+    },
+    {
+      "title": "„Cyberstrażnik&#8221; na szynach. Polacy stworzyli system ochrony dla pociągów, tramwajów i metra",
+      "link": "https://dzienniknaukowy.pl/cyberstraznik-na-szynach-polacy-stworzyli-system-ochrony-dla-pociagow-tramwajow-i-metra",
+      "pubDate": "Mon, 26 Oct 2026 13:28:05 +0000",
+      "description": "Zaawansowany system monitorowania i ochrony cyberbezpieczeństwa dla transportu szynowego powstał w Polsce. RailGuard Sentinel (RGS) to wspólne dzieło naukowców Politechniki Krakowskiej i specjalistów firmy Public Transport Service (PTS). Monitoruje w czasie rzeczywistym zagrożenia dla pojazdów szynowych – lokomotyw, zespołów trakcyjnych, tramwajów, metra. Chroni pokładowe sieci IT/OT przed atakami, wykrywa anomalie i podatności na cyberzagrożenia. Skuteczną ochronę systemów krytycznych zapewnia bez ingerencji w ich pracę."
+    },
     {
       "title": "Polacy wyznaczają światowe standardy w leczeniu hipotermii",
       "link": "https://dzienniknaukowy.pl/polacy-wyznaczaja-swiatowe-standardy-w-leczeniu-hipotermii",
@@ -44,24 +62,6 @@
       "link": "https://dzienniknaukowy.pl/najwiekszy-polski-slownik-przedwojenny-slownik-warszawski-w-dostepie-online",
       "pubDate": "Tue, 20 Oct 2026 13:44:49 +0000",
       "description": "Wydany blisko sto lat temu największy polski słownik - „Słownik Warszawski” - liczy prawie 7700 stron i ma ponad 260 tys. haseł. Cyfryzacji i przełożenia go na język współczesnych baz danych podjął się oddolnie dr Mirosław Koziarski. Online udostępnionych jest już ok. 86 tys. zdigitalizowanych haseł."
-    },
-    {
-      "title": "Molekularny zegar neuronu. Tempo działania NMDA decyduje o przepływie informacji",
-      "link": "https://dzienniknaukowy.pl/molekularny-zegar-neuronu-tempo-dzialania-nmda-decyduje-o-przeplywie-informacji",
-      "pubDate": "Mon, 19 Oct 2026 11:53:06 +0000",
-      "description": "W mózgu liczy się nie tylko to, czy sygnał dotrze do komórki nerwowej, ale także jak długo pozostanie otwarta jego chemiczna brama. Zespół kierowany przez dr. Mehdiego Borjkhaniego z ICTER wykazał w modelu komputerowym, że zarówno zbyt szybkie, jak i zbyt wolne wyłączanie receptora NMDA może rozregulować pracę neuronu. Co ważne, prowadzą do tego dwa odmienne mechanizmy."
-    },
-    {
-      "title": "Niejednoznaczne emocjonalnie słowa dłużej przyciągają uwagę",
-      "link": "https://dzienniknaukowy.pl/niejednoznaczne-emocjonalnie-slowa-dluzej-przyciagaja-uwage",
-      "pubDate": "Mon, 19 Oct 2026 11:36:56 +0000",
-      "description": "Słowa o niejednoznacznym ładunku emocjonalnym częściej i dłużej przyciągają uwagę niż słowa jednoznaczne – wynika z badań psychologów z Uniwersytetu Warszawskiego. W niektórych warunkach badani również szybciej i trafniej wykonywali zadanie pamięciowe."
-    },
-    {
-      "title": "Uszkodzenie bariery krew–mózg może zostawiać ślady we krwi",
-      "link": "https://dzienniknaukowy.pl/uszkodzenie-bariery-krew-mozg-moze-zostawiac-slady-we-krwi",
-      "pubDate": "Thu, 15 Oct 2026 12:28:40 +0000",
-      "description": "Zespół badaczy z udziałem naukowców Uniwersytetu Medycznego we Wrocławiu przeanalizował światowe badania metabolomiczne i wskazał grupę związków chemicznych, które mogą pełnić rolę biomarkerów uszkodzenia bariery krew–mózg. W przyszłości mogą one pomóc w opracowaniu badania krwi pozwalającego wcześniej wykrywać uszkodzenie bariery krew–mózg i monitorować przebieg chorób neurologicznych. Zanim będzie to możliwe, potrzebne są dalsze badania."
     }
   ]
 }
