@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-10-28T04:16:49.883Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-10-28T10:44:09.451Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Taksówką potrącił 16-letniego rowerzystę. Nagranie",
+      "link": "https://tvn24.pl/trojmiasto/elblag-rowerzysta-jechal-sciezka-gdy-nagle-pojawilo-sie-taxi-nagranie-niepokoi-st9309519?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:36:22 GMT",
+      "description": "Na ulicy Teatralnej w Elblągu taksówkarz potrącił 16-letniego rowerzystę, który prawidłowo przejeżdżał drogą rowerową przy przejściu dla pieszych. Sprawę zbadała policja.",
+      "originalTitle": "Taksówką potrącił 16-letniego rowerzystę. Nagranie",
+      "originalDescription": "Na ulicy Teatralnej w Elblągu taksówkarz potrącił 16-letniego rowerzystę, który prawidłowo przejeżdżał drogą rowerową przy przejściu dla pieszych. Sprawę zbadała policja."
+    },
+    {
+      "title": "Rzadkie zjawisko na giełdzie. Wall Street wysyła ważny sygnał",
+      "link": "https://tvn24.pl/biznes/tech/niepokoj-wokol-ai-na-wall-street-inwestorzy-przenosza-pieniadze-st9309422?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:35:02 GMT",
+      "description": "Na Wall Street pojawił się nietypowy sygnał. 22 października indeks S&P 500 spadł o 1,2 procent, podczas gdy jego równo ważona wersja zyskała 0,5 procent. CNN wiąże tę rozbieżność z rosnącymi obawami inwestorów o skalę zadłużenia i wydatków firm rozwijających sztuczną inteligencję.",
+      "originalTitle": "Rzadkie zjawisko na giełdzie. Wall Street wysyła ważny sygnał",
+      "originalDescription": "Na Wall Street pojawił się nietypowy sygnał. 22 października indeks S&P 500 spadł o 1,2 procent, podczas gdy jego równo ważona wersja zyskała 0,5 procent. CNN wiąże tę rozbieżność z rosnącymi obawami inwestorów o skalę zadłużenia i wydatków firm rozwijających sztuczną inteligencję."
+    },
+    {
+      "title": "Wojskowy \"Żbik\" wjechał pod pociąg. Pięciu żołnierzy było w środku",
+      "link": "https://tvn24.pl/rzeszow/zbydniow-wojskowy-pojazd-wjechal-pod-pociag-towarowy-pieciu-zolnierzy-bylo-w-srodku-st9309603?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:30:56 GMT",
+      "description": "Do niebezpiecznej i zaskakującej sytuacji doszło na niestrzeżonym przejeździe kolejowym w Zbydniowie na Podkarpaciu. Kierowca wojskowego transportera zatrzymał pojazd przed torami, a chwilę później ruszył wprost pod przejeżdżający pociąg towarowy.",
+      "originalTitle": "Wojskowy \"Żbik\" wjechał pod pociąg. Pięciu żołnierzy było w środku",
+      "originalDescription": "Do niebezpiecznej i zaskakującej sytuacji doszło na niestrzeżonym przejeździe kolejowym w Zbydniowie na Podkarpaciu. Kierowca wojskowego transportera zatrzymał pojazd przed torami, a chwilę później ruszył wprost pod przejeżdżający pociąg towarowy."
+    },
+    {
+      "title": "Morderca uciekł przez płot więzienia. Służby publikują nagranie i zdjęcia",
+      "link": "https://tvn24.pl/swiat/tennessee-skazany-na-dozywocie-za-zabojstwo-28-latek-uciekl-z-wiezienia-nagranie-i-zdjecia-st9309461?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:27:23 GMT",
+      "description": "28-letni mężczyzna skazany na dożywocie za zabójstwo sforsował ogrodzenie więzienia w Tennessee i uciekł skradzionym samochodem. Władze wydały za nim list gończy i wyznaczyły nagrodę za pomoc w schwytaniu zbiega. To kolejny z incydentów, który ma związek z Departamentem Więziennictwa w tym stanie - zauważają media.",
+      "originalTitle": "Morderca uciekł przez płot więzienia. Służby publikują nagranie i zdjęcia",
+      "originalDescription": "28-letni mężczyzna skazany na dożywocie za zabójstwo sforsował ogrodzenie więzienia w Tennessee i uciekł skradzionym samochodem. Władze wydały za nim list gończy i wyznaczyły nagrodę za pomoc w schwytaniu zbiega. To kolejny z incydentów, który ma związek z Departamentem Więziennictwa w tym stanie - zauważają media."
+    },
+    {
+      "title": "Łukasz Gibała odwołał kolejnego dyrektora",
+      "link": "https://tvn24.pl/krakow/lukasz-gibala-odwolal-dyrektora-zarzadu-drog-miasta-krakowa-st9309462?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:06:46 GMT",
+      "description": "Dyrektor Zarządu Dróg Miasta Krakowa Jarosław Tabor stracił stanowisko. To kolejna decyzja kadrowa nowego prezydenta miasta Łukasza Gibały.",
+      "originalTitle": "Łukasz Gibała odwołał kolejnego dyrektora",
+      "originalDescription": "Dyrektor Zarządu Dróg Miasta Krakowa Jarosław Tabor stracił stanowisko. To kolejna decyzja kadrowa nowego prezydenta miasta Łukasza Gibały."
+    },
+    {
+      "title": "Prezydent chce poszerzenia granic miasta. Mieszkańcy: nie oddamy naszej gminy",
+      "link": "https://tvn24.pl/olsztyn/olsztyn-prezydent-chce-poszerzyc-granice-miasta-stanowczy-sprzeciw-gmin-st9307342?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 06:46:51 GMT",
+      "description": "Prezydent Olsztyna chce poszerzenia granic administracyjnych o tereny dwóch sąsiednich gmin: Dywity i Stawiguda. Miasto tłumaczy to chęcią rozwoju. - Jeśli Olsztyn nie będzie rósł i zwiększał swojej siły, w przyszłości może stracić funkcję stolicy regionu - mówi Patryk Pulikowski, rzecznik prasowy prezydenta. Zgoła odmienne nastroje panują w gminach, których wójtowie stanowczo sprzeciwiają się jakimkolwiek zmianom. I protestują na dzisiejszej sesji rady miasta.",
+      "originalTitle": "Prezydent chce poszerzenia granic miasta. Mieszkańcy: nie oddamy naszej gminy",
+      "originalDescription": "Prezydent Olsztyna chce poszerzenia granic administracyjnych o tereny dwóch sąsiednich gmin: Dywity i Stawiguda. Miasto tłumaczy to chęcią rozwoju. - Jeśli Olsztyn nie będzie rósł i zwiększał swojej siły, w przyszłości może stracić funkcję stolicy regionu - mówi Patryk Pulikowski, rzecznik prasowy prezydenta. Zgoła odmienne nastroje panują w gminach, których wójtowie stanowczo sprzeciwiają się jakimkolwiek zmianom. I protestują na dzisiejszej sesji rady miasta."
+    },
+    {
+      "title": "Pożar siarki przewożonej w wagonie",
+      "link": "https://tvn24.pl/lodz/stare-kozuby-pozar-siarki-przewozonej-w-wagonie-st9309619?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:02:57 GMT",
+      "description": "Zapalił się granulat siarki przewożony w jednym z wagonów pociągu towarowego. Pożar wybuchł w na stacji kolejowej w miejscowości Stare Kozuby pod Łaskiem.",
+      "originalTitle": "Pożar siarki przewożonej w wagonie",
+      "originalDescription": "Zapalił się granulat siarki przewożony w jednym z wagonów pociągu towarowego. Pożar wybuchł w na stacji kolejowej w miejscowości Stare Kozuby pod Łaskiem."
+    },
+    {
+      "title": "Rockman żąda odszkodowania po wiecu Trumpa. \"Pieniądze i transakcje to coś, co rozumiesz\"",
+      "link": "https://tvn24.pl/kultura-i-styl/muzyka-neil-young-zada-10-milionow-dolarow-za-uzycie-piosenki-na-wiecu-trumpa-st9309609?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:02:11 GMT",
+      "description": "Legendarny muzyk rockowy Neil Young pozywa komitet wspierający Donalda Trumpa, żądając 10 milionów dolarów za wykorzystanie podczas wiecu w Ohio jego wielkiego hitu \"Rockin' in the Free World\" - informują amerykańskie media. \"Pieniądze i transakcje to coś, co rozumiesz\" - pisze do prezydenta znany muzyk.",
+      "originalTitle": "Rockman żąda odszkodowania po wiecu Trumpa. \"Pieniądze i transakcje to coś, co rozumiesz\"",
+      "originalDescription": "Legendarny muzyk rockowy Neil Young pozywa komitet wspierający Donalda Trumpa, żądając 10 milionów dolarów za wykorzystanie podczas wiecu w Ohio jego wielkiego hitu \"Rockin' in the Free World\" - informują amerykańskie media. \"Pieniądze i transakcje to coś, co rozumiesz\" - pisze do prezydenta znany muzyk."
+    },
+    {
+      "title": "Samochodem po cmentarnych schodach. Nagranie obiegło sieć",
+      "link": "https://tvn24.pl/olsztyn/elblag-samochodem-po-cmentarnych-schodach-szukaja-kierowcy-st9309393?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 09:59:03 GMT",
+      "description": "Niecodzienna sytuacja na jednym z cmentarzy w Elblągu. W sieci pojawiło się nagranie, na którym widać, jak samochód zjeżdża po schodach cmentarnej alejki. Sprawę wyjaśnia policja.",
+      "originalTitle": "Samochodem po cmentarnych schodach. Nagranie obiegło sieć",
+      "originalDescription": "Niecodzienna sytuacja na jednym z cmentarzy w Elblągu. W sieci pojawiło się nagranie, na którym widać, jak samochód zjeżdża po schodach cmentarnej alejki. Sprawę wyjaśnia policja."
+    },
+    {
+      "title": "Atak Rosji na Ukrainę. Odwołano alert RCB",
+      "link": "https://tvn24.pl/polska/rosja-atakuje-ukraine-alert-rcb-dla-czesci-wojewodztwa-lubelskiego-odwolany-st9309493?source=rss",
+      "pubDate": "Wed, 28 Oct 2026 09:22:40 GMT",
+      "description": "W związku z rosyjskim atakiem na Ukrainę do mieszkańców części województwa lubelskiego został wysłany alert Rządowego Centrum Bezpieczeństwa. Ostrzeżenie zostało odwołane kilkadziesiąt minut później.",
+      "originalTitle": "Atak Rosji na Ukrainę. Odwołano alert RCB",
+      "originalDescription": "W związku z rosyjskim atakiem na Ukrainę do mieszkańców części województwa lubelskiego został wysłany alert Rządowego Centrum Bezpieczeństwa. Ostrzeżenie zostało odwołane kilkadziesiąt minut później."
+    }
+  ]
 }
