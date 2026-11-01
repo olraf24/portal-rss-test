@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-01T20:13:37.750Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-01T23:46:20.682Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Czy jest ślusarz?\". Reporter TVN24 o kulisach wydarzeń przed Trybunałem Konstytucyjnym",
+      "link": "https://tvn24.pl/polska/czy-jest-slusarz-co-sie-stalo-przed-trybunalem-konstytucyjnym-st9317295?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:39:22 GMT",
+      "description": "Były poszukiwania ślusarza i forsowanie bramy przy użyciu szlifierki. O kulisach wejścia odwołanego prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego na teren siedziby TK w programie \"W kuluarach\" mówił dziennikarz TVN24+ Marcin Złotkowski, który był na miejscu.",
+      "originalTitle": "\"Czy jest ślusarz?\". Reporter TVN24 o kulisach wydarzeń przed Trybunałem Konstytucyjnym",
+      "originalDescription": "Były poszukiwania ślusarza i forsowanie bramy przy użyciu szlifierki. O kulisach wejścia odwołanego prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego na teren siedziby TK w programie \"W kuluarach\" mówił dziennikarz TVN24+ Marcin Złotkowski, który był na miejscu."
+    },
+    {
+      "title": "Katastrofa samolotu na Florydzie",
+      "link": "https://tvn24.pl/swiat/katastrofa-samolotu-na-florydzie-na-pokladzie-bylo-dziewiec-osob-st9317305?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:01:39 GMT",
+      "description": "Samolot z dziewięcioma osobami na pokładzie rozbił się w hrabstwie Palm Beach na Florydzie - poinformowała Federalna Administracja Lotnictwa. Na pokładzie było dziewięć osób.",
+      "originalTitle": "Katastrofa samolotu na Florydzie",
+      "originalDescription": "Samolot z dziewięcioma osobami na pokładzie rozbił się w hrabstwie Palm Beach na Florydzie - poinformowała Federalna Administracja Lotnictwa. Na pokładzie było dziewięć osób."
+    },
+    {
+      "title": "Exit poll: pierwsza kobieta wybrana prezydentką Bułgarii",
+      "link": "https://tvn24.pl/swiat/bulgaria-wybrala-prezydentke-st9317296?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 20:59:05 GMT",
+      "description": "Sondaże exit poll z wyborów prezydenckich w Bułgarii dają zwycięstwo Ilianie Jotowej, która dotychczas pełniła obowiązki głowy państwa. Jest z tej samej opcji politycznej co rząd.",
+      "originalTitle": "Exit poll: pierwsza kobieta wybrana prezydentką Bułgarii",
+      "originalDescription": "Sondaże exit poll z wyborów prezydenckich w Bułgarii dają zwycięstwo Ilianie Jotowej, która dotychczas pełniła obowiązki głowy państwa. Jest z tej samej opcji politycznej co rząd."
+    },
+    {
+      "title": "Interwencja wobec męża Danuty Holeckiej. Wyjaśnienie policji i głos z MSWiA",
+      "link": "https://tvn24.pl/tvnwarszawa/ursynow/ursynow-interwencja-policjantow-wobec-meza-danuty-holeckiej-jest-oswiadczenie-st9317241?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 19:42:21 GMT",
+      "description": "Przy jednym z warszawskich cmentarzy funkcjonariusze zatrzymali męża Danuty Holeckiej. Policja wyjaśniła, dlaczego użyto wobec niego kajdanek, a głos zabrała też rzeczniczka prasowa MSWiA.",
+      "originalTitle": "Interwencja wobec męża Danuty Holeckiej. Wyjaśnienie policji i głos z MSWiA",
+      "originalDescription": "Przy jednym z warszawskich cmentarzy funkcjonariusze zatrzymali męża Danuty Holeckiej. Policja wyjaśniła, dlaczego użyto wobec niego kajdanek, a głos zabrała też rzeczniczka prasowa MSWiA."
+    },
+    {
+      "title": "Co wydarzyło się w Trybunale Konstytucyjnym i wokół niego. Najważniejsze fakty",
+      "link": "https://tvn24.pl/polska/co-wydarzylo-sie-w-trybunale-konstytucyjnym-i-wokol-niego-najwazniejsze-informacje-st9317148?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 19:35:00 GMT",
+      "description": "W piątek wieczorem sędzia Trybunału Konstytucyjnego Anna Korwin-Piotrowska zarządziła przerwę w czynnościach służbowych prezesa TK. Tak zaczęła się seria wydarzeń wokół Trybunału, w które w ostatnich dniach zaangażowały się najważniejsze osoby w państwie. Oto najważniejsze informacje.",
+      "originalTitle": "Co wydarzyło się w Trybunale Konstytucyjnym i wokół niego. Najważniejsze fakty",
+      "originalDescription": "W piątek wieczorem sędzia Trybunału Konstytucyjnego Anna Korwin-Piotrowska zarządziła przerwę w czynnościach służbowych prezesa TK. Tak zaczęła się seria wydarzeń wokół Trybunału, w które w ostatnich dniach zaangażowały się najważniejsze osoby w państwie. Oto najważniejsze informacje."
+    },
+    {
+      "title": "Anna Korwin-Piotrowska o ustawie regulującej Trybunał Konstytucyjny: te przepisy są ułomne",
+      "link": "https://tvn24.pl/polska/anna-korwin-piotrowska-o-ustawie-regulujacej-trybunal-konstytucyjny-te-przepisy-sa-ulomne-st9317228?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 18:42:49 GMT",
+      "description": "Te przepisy są ułomne i wprost nie regulują takich sytuacji, ale z nich można wywieść podstawę prawną - tłumaczyła w \"Faktach po Faktach\" TVN24 sędzia TK Anna Korwin-Piotrowska, która w piątek ogłosiła, że przejęła kierowanie Trybunałem Konstytucyjnym. Opisała też szczegółowo, jak wyglądało jej spotkanie z prezydentem Karolem Nawrockim i jego wejście do TK.",
+      "originalTitle": "Anna Korwin-Piotrowska o ustawie regulującej Trybunał Konstytucyjny: te przepisy są ułomne",
+      "originalDescription": "Te przepisy są ułomne i wprost nie regulują takich sytuacji, ale z nich można wywieść podstawę prawną - tłumaczyła w \"Faktach po Faktach\" TVN24 sędzia TK Anna Korwin-Piotrowska, która w piątek ogłosiła, że przejęła kierowanie Trybunałem Konstytucyjnym. Opisała też szczegółowo, jak wyglądało jej spotkanie z prezydentem Karolem Nawrockim i jego wejście do TK."
+    },
+    {
+      "title": "Prawniczy węzeł gordyjski. Opinie ekspertów o zamieszaniu wokół TK",
+      "link": "https://tvn24.pl/polska/sytuacja-trybunalu-konstytucyjnego-takie-sa-stanowiska-ekspertow-st9316422?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 03:41:16 GMT",
+      "description": "Czy odsunięcie prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego od obowiązków jest zgodne z prawem czy nie? W sprawie decyzji, po której kierownictwo w TK przejęła sędzia Anna Korwin-Piotrowska, eksperci są bardzo podzieleni. Poniżej przedstawiamy kilkanaście opinii sędziów, konstytucjonalistów oraz byłych prezesów trybunału.",
+      "originalTitle": "Prawniczy węzeł gordyjski. Opinie ekspertów o zamieszaniu wokół TK",
+      "originalDescription": "Czy odsunięcie prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego od obowiązków jest zgodne z prawem czy nie? W sprawie decyzji, po której kierownictwo w TK przejęła sędzia Anna Korwin-Piotrowska, eksperci są bardzo podzieleni. Poniżej przedstawiamy kilkanaście opinii sędziów, konstytucjonalistów oraz byłych prezesów trybunału."
+    },
+    {
+      "title": "Polska pod szarą zasłoną. Kiedy chmury nam odpuszczą? Prognoza pogody",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/polska-pod-szara-zaslona-kiedy-chmury-nam-odpuszcza-prognoza-pogody-st9317157?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 18:00:00 GMT",
+      "description": "Wyż, który steruje pogodą w Polsce, uwięził nad krajem sporą porcję wilgoci. Skutkuje to tworzeniem się niskich chmur i ponurą, chłodną aurą. Na horyzoncie widać jednak pewną zmianę.",
+      "originalTitle": "Polska pod szarą zasłoną. Kiedy chmury nam odpuszczą? Prognoza pogody",
+      "originalDescription": "Wyż, który steruje pogodą w Polsce, uwięził nad krajem sporą porcję wilgoci. Skutkuje to tworzeniem się niskich chmur i ponurą, chłodną aurą. Na horyzoncie widać jednak pewną zmianę."
+    },
+    {
+      "title": "Byli prezesi Trybunału Konstytucyjnego o kryzysie: nie istnieje inna droga. Jest też drugi list",
+      "link": "https://tvn24.pl/polska/kryzys-w-trybunale-konstytucyjnym-oswiadczenie-bylych-prezesow-st9316506?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 07:35:22 GMT",
+      "description": "Prezydent Karol Nawrocki podjął \"bezpośrednią próbę naruszenia autonomii sądu konstytucyjnego\" - ocenili byli prezesi Trybunału Konstytucyjnego. We wspólnym oświadczeniu napisali, że \"nie istnieje inna droga pozwalająca na zakończenia kryzysu konstytucyjnego i przywrócenie społeczeństwu Trybunału Konstytucyjnego\". Z kolei była prezes Julia Przyłębska i kilkoro sędziów TK w stanie spoczynku wyrazili w oświadczeniu \"jednoznaczny i kategoryczny sprzeciw\" wobec wydarzeń z piątku na sobotę.",
+      "originalTitle": "Byli prezesi Trybunału Konstytucyjnego o kryzysie: nie istnieje inna droga. Jest też drugi list",
+      "originalDescription": "Prezydent Karol Nawrocki podjął \"bezpośrednią próbę naruszenia autonomii sądu konstytucyjnego\" - ocenili byli prezesi Trybunału Konstytucyjnego. We wspólnym oświadczeniu napisali, że \"nie istnieje inna droga pozwalająca na zakończenia kryzysu konstytucyjnego i przywrócenie społeczeństwu Trybunału Konstytucyjnego\". Z kolei była prezes Julia Przyłębska i kilkoro sędziów TK w stanie spoczynku wyrazili w oświadczeniu \"jednoznaczny i kategoryczny sprzeciw\" wobec wydarzeń z piątku na sobotę."
+    },
+    {
+      "title": "Kancelaria prezydenta chce zawiadomić prokuraturę. W związku z \"naruszeniem nietykalności Karola Nawrockiego\"",
+      "link": "https://tvn24.pl/polska/kancelaria-prezydenta-chce-zawiadomic-prokurature-w-zwiazku-z-naruszeniem-nietykalnosci-karola-nawrockiego-st9317195?source=rss",
+      "pubDate": "Sun, 01 Nov 2026 16:29:11 GMT",
+      "description": "Kancelaria prezydenta podejmie działania związane ze złożeniem zawiadomień do prokuratury wobec Anny Korwin-Piotrowskiej, Macieja Berka i Krystiana Markiewicza w związku z m.in. naruszeniem nietykalności prezydenta Karola Nawrockiego - zapowiedział rzecznik głowy państwa Rafał Leśkiewicz.",
+      "originalTitle": "Kancelaria prezydenta chce zawiadomić prokuraturę. W związku z \"naruszeniem nietykalności Karola Nawrockiego\"",
+      "originalDescription": "Kancelaria prezydenta podejmie działania związane ze złożeniem zawiadomień do prokuratury wobec Anny Korwin-Piotrowskiej, Macieja Berka i Krystiana Markiewicza w związku z m.in. naruszeniem nietykalności prezydenta Karola Nawrockiego - zapowiedział rzecznik głowy państwa Rafał Leśkiewicz."
+    }
+  ]
 }
