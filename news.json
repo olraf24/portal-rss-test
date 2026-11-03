@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-03T03:36:04.945Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-03T11:39:32.744Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Proces 18-letniego Ukraińca odroczony. Jest oskarżony o sabotaż na zlecenie rosyjskich służb",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-proces-18-letniego-ukrainca-odroczony-jest-oskarzony-o-sabotaz-na-zlecenie-rosyjskich-sluzb-st9319591?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 11:27:03 GMT",
+      "description": "Proces 18-latka oskarżonego o dywersję i sabotaż na rzecz obcego wywiadu, który miał się rozpocząć we Wrocławiu, został odroczony do 16 grudnia. Powodem jest brak obrońcy. Ukrainiec - jak uznała prokuratura - wykonywał zadania na zlecenie rosyjskich służb i podsycał napięcia między Polakami a Ukraińcami.",
+      "originalTitle": "Proces 18-letniego Ukraińca odroczony. Jest oskarżony o sabotaż na zlecenie rosyjskich służb",
+      "originalDescription": "Proces 18-latka oskarżonego o dywersję i sabotaż na rzecz obcego wywiadu, który miał się rozpocząć we Wrocławiu, został odroczony do 16 grudnia. Powodem jest brak obrońcy. Ukrainiec - jak uznała prokuratura - wykonywał zadania na zlecenie rosyjskich służb i podsycał napięcia między Polakami a Ukraińcami."
+    },
+    {
+      "title": "Upoważnienie od Bogdana Święczkowskiego dla Stanisława Piotrowicza. \"Wątpliwości na pierwszy rzut oka\"",
+      "link": "https://tvn24.pl/polska/trybunal-konstytucyjny-bogdan-swieczkowski-wyznaczyl-stanislawa-piotrowicza-na-swojego-zastepce-komentarz-dariusza-mazura-st9319643?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 11:25:56 GMT",
+      "description": "Mamy najważniejszy sąd w kraju i nikt nie wie o tym, że pan Święczkowski w zaciszu swojego gabinetu udzielił upoważnienia do zastępowania siebie - mówił w TVN24 wiceminister sprawiedliwości Dariusz Mazur. Komentował dokument, według którego jeszcze w kwietniu Bogdan Święczkowski wyznaczył zastępcę w razie swojej nieobecności.",
+      "originalTitle": "Upoważnienie od Bogdana Święczkowskiego dla Stanisława Piotrowicza. \"Wątpliwości na pierwszy rzut oka\"",
+      "originalDescription": "Mamy najważniejszy sąd w kraju i nikt nie wie o tym, że pan Święczkowski w zaciszu swojego gabinetu udzielił upoważnienia do zastępowania siebie - mówił w TVN24 wiceminister sprawiedliwości Dariusz Mazur. Komentował dokument, według którego jeszcze w kwietniu Bogdan Święczkowski wyznaczył zastępcę w razie swojej nieobecności."
+    },
+    {
+      "title": "Media: premier podpisze wniosek prezydenta w sprawie NBP",
+      "link": "https://tvn24.pl/biznes/z-kraju/media-premier-podpisze-wniosek-prezydenta-w-sprawie-skladu-zarzadu-nbp-st9319781?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 11:14:02 GMT",
+      "description": "Premier Donald Tusk ma złożyć kontrasygnatę pod postanowieniem prezydenta o powołaniu czterech nowych członków zarządu Narodowego Banki Polskiego: Marty Kightley, Ludwika Koteckiego, Przemysława Litwiniuka oraz Marcina Zarzeckiego - podało Radio Eska. Pozwoli to uniknąć potencjalnego paraliżu kluczowych funkcji banku centralnego.",
+      "originalTitle": "Media: premier podpisze wniosek prezydenta w sprawie NBP",
+      "originalDescription": "Premier Donald Tusk ma złożyć kontrasygnatę pod postanowieniem prezydenta o powołaniu czterech nowych członków zarządu Narodowego Banki Polskiego: Marty Kightley, Ludwika Koteckiego, Przemysława Litwiniuka oraz Marcina Zarzeckiego - podało Radio Eska. Pozwoli to uniknąć potencjalnego paraliżu kluczowych funkcji banku centralnego."
+    },
+    {
+      "title": "Dwa alarmy w samolotach, nieplanowane lądowanie w Modlinie",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/nieplanowane-ladowanie-w-modlinie-lotnisko-zamkniete-st9319460?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 09:13:19 GMT",
+      "description": "Na lotnisku Warszawa-Modlin nieplanowo lądował samolot z Londynu w związku z informacją o ładunku wybuchowym na pokładzie. Port lotniczy został zamknięty na blisko dwie godziny. Pirotechnicy sprawdzali na lotnisku Chopina także maszynę lecącą z Kopenhagi do Warszawy.",
+      "originalTitle": "Dwa alarmy w samolotach, nieplanowane lądowanie w Modlinie",
+      "originalDescription": "Na lotnisku Warszawa-Modlin nieplanowo lądował samolot z Londynu w związku z informacją o ładunku wybuchowym na pokładzie. Port lotniczy został zamknięty na blisko dwie godziny. Pirotechnicy sprawdzali na lotnisku Chopina także maszynę lecącą z Kopenhagi do Warszawy."
+    },
+    {
+      "title": "Teleskop NASA ma spłonąć w atmosferze. Gdzie mogą spaść szczątki?",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/teleskop-nasa-ma-splonac-w-atmosferze-gdzie-moga-spasc-szczatki-st9319617?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 10:57:47 GMT",
+      "description": "W środę, prawie 22 lata po wyniesieniu na orbitę, obserwatorium kosmiczne NASA Swift ponownie wejdzie w ziemską atmosferę. Przez ponad dwie dekady badało ono potężne rozbłyski gamma. Niektóre części teleskopu mogą dotrzeć do powierzchni Ziemi.",
+      "originalTitle": "Teleskop NASA ma spłonąć w atmosferze. Gdzie mogą spaść szczątki?",
+      "originalDescription": "W środę, prawie 22 lata po wyniesieniu na orbitę, obserwatorium kosmiczne NASA Swift ponownie wejdzie w ziemską atmosferę. Przez ponad dwie dekady badało ono potężne rozbłyski gamma. Niektóre części teleskopu mogą dotrzeć do powierzchni Ziemi."
+    },
+    {
+      "title": "Biegał z siekierą, groził sąsiadom, że ich zabije",
+      "link": "https://tvn24.pl/szczecin/debno-grozil-ze-pozabija-sasiadow-i-podpali-budynki-trafil-do-aresztu-st9319764?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 10:55:50 GMT",
+      "description": "42-letni mieszkaniec Dębna w powiecie myśliborskim biegał z siekierą i groził sąsiadom, że ich zabije. Zatrzymali go policjanci. Mężczyzna był pijany. Sąd zdecydował już o jego aresztowaniu na trzy miesiące.",
+      "originalTitle": "Biegał z siekierą, groził sąsiadom, że ich zabije",
+      "originalDescription": "42-letni mieszkaniec Dębna w powiecie myśliborskim biegał z siekierą i groził sąsiadom, że ich zabije. Zatrzymali go policjanci. Mężczyzna był pijany. Sąd zdecydował już o jego aresztowaniu na trzy miesiące."
+    },
+    {
+      "title": "Ceny paliw w środę. Ile zapłacimy za tankowanie?",
+      "link": "https://tvn24.pl/biznes/pieniadze/ceny-paliw-w-polsce-4-listopada-2026-ile-kierowcy-zaplaca-za-litr-pb95-pb98-oraz-on-st9319408?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 10:43:07 GMT",
+      "description": "W środę, 4 listopada, benzyna oraz olej napędowy będą tańsze niż dzień wcześniej - wynika z najnowszego obwieszczenia ministra energii.",
+      "originalTitle": "Ceny paliw w środę. Ile zapłacimy za tankowanie?",
+      "originalDescription": "W środę, 4 listopada, benzyna oraz olej napędowy będą tańsze niż dzień wcześniej - wynika z najnowszego obwieszczenia ministra energii."
+    },
+    {
+      "title": "Sikorski: polska dyplomacja wytrzyma bez wiceministrów z kancelarii Dudy",
+      "link": "https://tvn24.pl/polska/krzysztof-szczerski-jakub-kumoch-i-pawel-soloch-rezygnuja-z-funkcji-ambasadorow-radoslaw-sikorski-komentuje-st9319491?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 10:39:52 GMT",
+      "description": "Polska dyplomacja wytrzyma porzucenie pracy przez trzech byłych wiceministrów z kancelarii prezydenta Andrzeja Dudy - napisał szef MSZ Radosław Sikorski. Skomentował w ten sposób niedawne rezygnacje trzech ambasadorów w związku z wydarzeniami wokół Trybunału Konstytucyjnego.",
+      "originalTitle": "Sikorski: polska dyplomacja wytrzyma bez wiceministrów z kancelarii Dudy",
+      "originalDescription": "Polska dyplomacja wytrzyma porzucenie pracy przez trzech byłych wiceministrów z kancelarii prezydenta Andrzeja Dudy - napisał szef MSZ Radosław Sikorski. Skomentował w ten sposób niedawne rezygnacje trzech ambasadorów w związku z wydarzeniami wokół Trybunału Konstytucyjnego."
+    },
+    {
+      "title": "Bus potrącił pieszą na chodniku. Policja: chciał uniknąć zderzenia z innym autem",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-bus-potracil-piesza-na-chodniku-policja-chcial-uniknac-zderzenia-z-innym-autem-st9319577?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 10:38:29 GMT",
+      "description": "Samochód dostawczy potrącił kobietę stojącą przed przejściem dla pieszych. Według policji, jego kierowca próbował uniknąć zderzenia z innym autem. Piesza została ranna i trafiła do szpitala.",
+      "originalTitle": "Bus potrącił pieszą na chodniku. Policja: chciał uniknąć zderzenia z innym autem",
+      "originalDescription": "Samochód dostawczy potrącił kobietę stojącą przed przejściem dla pieszych. Według policji, jego kierowca próbował uniknąć zderzenia z innym autem. Piesza została ranna i trafiła do szpitala."
+    },
+    {
+      "title": "Tak jeszcze nie było. Cztery dni bez handlu z rzędu",
+      "link": "https://tvn24.pl/biznes/handel/tak-jeszcze-nie-bylo-cztery-dni-bez-handlu-z-rzedu-st9319387?source=rss",
+      "pubDate": "Tue, 03 Nov 2026 10:24:03 GMT",
+      "description": "Sklepy w grudniu w tym roku będą zamknięte przez cztery dni z rzędu. To pierwszy tak długi okres bez handlu. Podobna sytuacja kolejny raz może mieć miejsce dopiero w 2037 roku.",
+      "originalTitle": "Tak jeszcze nie było. Cztery dni bez handlu z rzędu",
+      "originalDescription": "Sklepy w grudniu w tym roku będą zamknięte przez cztery dni z rzędu. To pierwszy tak długi okres bez handlu. Podobna sytuacja kolejny raz może mieć miejsce dopiero w 2037 roku."
+    }
+  ]
 }
