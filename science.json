@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "2026-11-08T13:48:01.434Z",
+  "lastUpdate": "2026-11-08T18:40:11.257Z",
   "enhancedWithGroq": false,
-  "error": "Request timeout",
   "source": "DziennikNaukowy.pl",
-  "articles": []
+  "articles": [
+    {
+      "title": "Raport: Polacy są przewlekle zmęczeni, co czwarty śpi maksymalnie 6 godz. na dobę",
+      "link": "https://www.dzienniknaukowy.pl/raport-polacy-sa-przewlekle-zmeczeni-co-czwarty-spi-maksymalnie-6-godz-na-dobe",
+      "pubDate": "Wed, 04 Nov 2026 10:52:10 +0000",
+      "description": "Blisko 80 proc. Polaków odczuwa przewlekłe zmęczenie. Co czwarty nie przesypia więcej niż sześć godzin na dobę - wynika z raportu PZU Zdrowie."
+    },
+    {
+      "title": "Mikroskop nie tylko patrzy. Może zmieniać badaną reakcję",
+      "link": "https://www.dzienniknaukowy.pl/mikroskop-nie-tylko-patrzy-moze-zmieniac-badana-reakcje",
+      "pubDate": "Wed, 04 Nov 2026 10:43:52 +0000",
+      "description": "Ta sama reakcja prowadziła do powstania kostek tlenku miedzi pokrytych złotem albo pustych złotych pudełek — zależnie od wiązki użytej do obserwacji. Polscy badacze pokazali, że mikroskop może nie tylko rejestrować przemiany, lecz także zmieniać chemię próbki."
+    },
+    {
+      "title": "Balneologia – co warto wiedzieć o leczeniu wodami leczniczymi",
+      "link": "https://www.dzienniknaukowy.pl/balneologia-co-warto-wiedziec-o-leczeniu-wodami-leczniczymi",
+      "pubDate": "Tue, 03 Nov 2026 12:05:28 +0000",
+      "description": "Balneologia, czyli leczenie wodami leczniczymi, to jedna z najstarszych dziedzin medycyny uzdrowiskowej, wykorzystująca naturalne surowce do celów terapeutycznych. Opiera się na właściwościach fizykochemicznych wód mineralnych i peloidów, takich jak borowina. Kuracje te mogą stanowić wsparcie w leczeniu schorzeń narządu ruchu, chorób skóry czy dolegliwości układu krążenia. Właściwie dobrane zabiegi balneologiczne powinny być zawsze konsultowane ze specjalistą."
+    },
+    {
+      "title": "Wielkość źrenicy może sygnalizować, jak skutecznie działa nasza pamięć",
+      "link": "https://www.dzienniknaukowy.pl/wielkosc-zrenicy-moze-sygnalizowac-jak-skutecznie-dziala-nasza-pamiec",
+      "pubDate": "Tue, 03 Nov 2026 11:27:07 +0000",
+      "description": "Nawet niewielkie zmiany wielkości źrenic mogą sygnalizować, jak skutecznie działają procesy pamięciowe w naszych mózgach - wykazali polscy badacze. To ustalenie może w przyszłości otworzyć drogę do prostych, nieinwazyjnych metod monitorowania pracy pamięci."
+    },
+    {
+      "title": "Jak budować zaufanie do marki w branży zdrowotnej? Rola ekspertów i rzetelnej komunikacji",
+      "link": "https://www.dzienniknaukowy.pl/jak-budowac-zaufanie-do-marki-w-branzy-zdrowotnej-rola-ekspertow-i-rzetelnej-komunikacji",
+      "pubDate": "Tue, 03 Nov 2026 09:49:00 +0000",
+      "description": "Zaufanie do marki w branży zdrowotnej budują przede wszystkim eksperci, wiarygodne źródła informacji i przejrzysta komunikacja. Klienci oraz pacjenci oczekują nie tylko skutecznych produktów i usług, ale również dowodów potwierdzających kompetencje firmy. Dlatego marki medyczne powinny łączyć wiedzę naukową z edukacją i otwartym dialogiem z odbiorcami."
+    },
+    {
+      "title": "Polskie torfowisko świadectwem antropocenu",
+      "link": "https://www.dzienniknaukowy.pl/polskie-torfowisko-swiadectwem-antropocenu",
+      "pubDate": "Tue, 03 Nov 2026 09:30:00 +0000",
+      "description": "Żyjemy w nowej epoce geologicznej, antropocenie – przekonują naukowcy. Prof. Barbara Fiałkiewicz-Kozieł przyznała, że niepodważalnych dowodów na nadejście epoki człowieka dostarczają osady z wielu miejsc na świecie, w tym z torfowiska pod Śnieżką."
+    },
+    {
+      "title": "Magnez na straży wzroku. Model ICTER wyznacza okno ochrony siatkówki",
+      "link": "https://www.dzienniknaukowy.pl/magnez-na-strazy-wzroku-model-icter-wyznacza-okno-ochrony-siatkowki",
+      "pubDate": "Mon, 02 Nov 2026 12:00:41 +0000",
+      "description": "Komórki, które przekazują obraz z oka do mózgu, mogą ginąć, gdy zostaną przeciążone wapniem. Naukowcy pod kierunkiem dr. Mehdiego Borjkhaniego z ICTER pokazali w modelu komputerowym, że magnez potrafi ograniczyć ten niebezpieczny napływ, a jednocześnie nie wyłączać sygnału wzrokowego. Jest jednak warunek: znaczenie ma zarówno stężenie magnezu, jak i moment interwencji."
+    },
+    {
+      "title": "Współczesna diagnostyka laboratoryjna choroby Alzheimera: Od płynu mózgowo-rdzeniowego do biomarkerów osoczowych",
+      "link": "https://www.dzienniknaukowy.pl/wspolczesna-diagnostyka-laboratoryjna-choroby-alzheimera-od-plynu-mozgowo-rdzeniowego-do-biomarkerow-osoczowych",
+      "pubDate": "Mon, 02 Nov 2026 11:43:10 +0000",
+      "description": "Choroba Alzheimera (AD, Alzheimer’s Disease) stanowi główną przyczynę otępienia na świecie. Charakteryzuje się długim okresem bezobjawowym, w którym dochodzi do podstępnego odkładania się blaszek amyloidowych oraz kłębków neurofibrylarnych w tkance mózgowej. Przez dekady diagnostyka AD opierała się głównie na ocenie klinicznej oraz badaniach obrazowych, a diagnostyka laboratoryjna ograniczała się do badania płynu mózgowo-rdzeniowego (PMR). Wstąpienie ultraczułych technik analitycznych umożliwiło rewolucję w postaci osoczowych biomarkerów AD."
+    },
+    {
+      "title": "Ponad 82 tys. dni pomiarów stanów Wisły. Unikalna baza pokazuje, jak rzeka zmieniała się przez 225 lat",
+      "link": "https://www.dzienniknaukowy.pl/ponad-82-tys-dni-pomiarow-stanow-wisly-unikalna-baza-pokazuje-jak-rzeka-zmieniala-sie-przez-225-lat",
+      "pubDate": "Mon, 02 Nov 2026 11:34:56 +0000",
+      "description": "Ponad 82 tys. dobowych pomiarów poziomu wody w Wiśle w Warszawie z lat 1799-2024 zebrali i ujednolicili naukowcy z IGiPZ PAN oraz SGGW. Utworzony przez nich ciąg danych dla dużej rzeki to unikat w skali europejskiej. Zbiór pokazuje, jak stan rzeki zmieniał się od końcówki małej epoki lodowej po współczesne ocieplenie klimatu."
+    },
+    {
+      "title": "Zakola u mężczyzn – dlaczego powstają i jak można je zamaskować?",
+      "link": "https://www.dzienniknaukowy.pl/zakola-u-mezczyzn-dlaczego-powstaja-i-jak-mozna-je-zamaskowac",
+      "pubDate": "Mon, 02 Nov 2026 10:10:00 +0000",
+      "description": "Zakola potrafią zepsuć humor przy każdym spojrzeniu w lustro, choć ma je prawie każdy dorosły mężczyzna: w badaniach populacyjnych recesję w okolicy skroni stwierdza się u ponad 98 procent badanych. Sama ich obecność nie jest więc rozpoznaniem choroby, a pytanie, które ma znaczenie, brzmi inaczej: czy linia włosów cofa się dalej. Poniżej poradnik, jak to sprawdzić i co z tym zrobić, od rzeczy działających od zaraz do zabiegów."
+    }
+  ]
 }
