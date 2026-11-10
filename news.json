@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-10T11:31:11.465Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-10T19:23:24.681Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Komendant wojewódzki o bohaterskich policjantach. \"Jesteśmy z nich bardzo dumni\"",
+      "link": "https://tvn24.pl/krakow/krakow-komendant-wojewodzki-o-bohaterskich-policjantach-jestesmy-z-nich-bardzo-dumni-st9333023?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 19:02:43 GMT",
+      "description": "Starsi posterunkowi Jakub Kulik i Artur Morański dochodzą do zdrowia po tym jak powstrzymali zamachowca na krakowskim rynku. Komendant wojewódzki nadkomisarz Artur Bednarek powiedział w programie \"Tak jest\", że ich przełożeni starają się wesprzeć rodziny bohaterów – finansowo, psychologicznie, a także w każdej innej formie. Policja, we współpracy z innymi służbami i władzami, zamierza też przeanalizować, w jaki sposób jeszcze bardziej zabezpieczyć krakowski rynek.",
+      "originalTitle": "Komendant wojewódzki o bohaterskich policjantach. \"Jesteśmy z nich bardzo dumni\"",
+      "originalDescription": "Starsi posterunkowi Jakub Kulik i Artur Morański dochodzą do zdrowia po tym jak powstrzymali zamachowca na krakowskim rynku. Komendant wojewódzki nadkomisarz Artur Bednarek powiedział w programie \"Tak jest\", że ich przełożeni starają się wesprzeć rodziny bohaterów – finansowo, psychologicznie, a także w każdej innej formie. Policja, we współpracy z innymi służbami i władzami, zamierza też przeanalizować, w jaki sposób jeszcze bardziej zabezpieczyć krakowski rynek."
+    },
+    {
+      "title": "Sakiewicz nawołuje do bojkotu RTV EURO AGD. Organizacje przedsiębiorców zabierają głos",
+      "link": "https://tvn24.pl/biznes/z-kraju/rtv-euro-agd-wstrzymalo-reklamy-w-tv-republika-organizacje-przedsiebiorcow-zabieraja-glos-st9332990?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 19:01:09 GMT",
+      "description": "\"Wyrażamy solidarność z firmą RTV EURO AGD, która podjęła decyzję o wstrzymaniu emisji reklam w Telewizji Republika w związku ze sposobem relacjonowania przez tę stację tragicznych wydarzeń w Krakowie 7 listopada 2026\" - oświadczyło we wtorek pięć organizacji reprezentujących przedsiębiorców.",
+      "originalTitle": "Sakiewicz nawołuje do bojkotu RTV EURO AGD. Organizacje przedsiębiorców zabierają głos",
+      "originalDescription": "\"Wyrażamy solidarność z firmą RTV EURO AGD, która podjęła decyzję o wstrzymaniu emisji reklam w Telewizji Republika w związku ze sposobem relacjonowania przez tę stację tragicznych wydarzeń w Krakowie 7 listopada 2026\" - oświadczyło we wtorek pięć organizacji reprezentujących przedsiębiorców."
+    },
+    {
+      "title": "Tutaj śnieg może padać nawet do rana. Ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/uwaga-na-pogode-pojawia-sie-opady-marznace-geste-mgly-a-na-dodatek-silnie-powieje-ostrzezenia-imgw-st9330553?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 05:45:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed opadami śniegu. Alarmy obowiązują w czterech województwach, a miejscami może sypać do godzin porannych. Sprawdź, gdzie spodziewać się trudnych warunków.",
+      "originalTitle": "Tutaj śnieg może padać nawet do rana. Ostrzeżenia IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed opadami śniegu. Alarmy obowiązują w czterech województwach, a miejscami może sypać do godzin porannych. Sprawdź, gdzie spodziewać się trudnych warunków."
+    },
+    {
+      "title": "\"Początek nowej ery\". Donald Tusk o decyzji w sprawie Trybunału Konstytucyjnego",
+      "link": "https://tvn24.pl/polska/premier-donald-tusk-o-decyzji-w-sprawie-trybunalu-konstytucyjnego-st9331844?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 11:51:22 GMT",
+      "description": "Po raz pierwszy od lat będę miał okazję podjąć decyzję o publikacji uchwały Trybunału Konstytucyjnego - zapowiedział we wtorek premier Donald Tusk. Jeszcze tego samego dnia uchwała Zgromadzenia Ogólnego Sędziów TK o zmianach w Regulaminie Trybunału została opublikowana na stronach Monitora Polskiego.",
+      "originalTitle": "\"Początek nowej ery\". Donald Tusk o decyzji w sprawie Trybunału Konstytucyjnego",
+      "originalDescription": "Po raz pierwszy od lat będę miał okazję podjąć decyzję o publikacji uchwały Trybunału Konstytucyjnego - zapowiedział we wtorek premier Donald Tusk. Jeszcze tego samego dnia uchwała Zgromadzenia Ogólnego Sędziów TK o zmianach w Regulaminie Trybunału została opublikowana na stronach Monitora Polskiego."
+    },
+    {
+      "title": "Jest śledztwo w sprawie dotyczącej posła Michała Kołodziejczaka",
+      "link": "https://tvn24.pl/polska/jest-sledztwo-w-sprawie-dotyczacej-posla-michala-kolodziejczaka-st9332950?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:39:58 GMT",
+      "description": "Jak dowiedziała się Polska Agencja Prasowa, Prokuratura Okręgowa w Warszawie już dwa tygodnie temu wszczęła śledztwo w sprawie zmuszania do określonego zachowania i udzielania środków odurzających przez posła i byłego wiceministra rolnictwa Michała Kołodziejczaka.",
+      "originalTitle": "Jest śledztwo w sprawie dotyczącej posła Michała Kołodziejczaka",
+      "originalDescription": "Jak dowiedziała się Polska Agencja Prasowa, Prokuratura Okręgowa w Warszawie już dwa tygodnie temu wszczęła śledztwo w sprawie zmuszania do określonego zachowania i udzielania środków odurzających przez posła i byłego wiceministra rolnictwa Michała Kołodziejczaka."
+    },
+    {
+      "title": "Myślała, że bierze udział w akcji służb. Wyrzuciła przez okno kosmetyczkę z pieniędzmi",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-oszukiwali-na-legende-trzy-osoby-zatrzymane-st9332972?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:32:41 GMT",
+      "description": "Seniorka z Targówka myślała, że bierze udział w akcji służb, dlatego przekazała pieniądze i biżuterię o wartości 23 tysięcy złotych w ręce oszustów. Kilka dni później mieszkanka Tomaszowa Mazowieckiego straciła 70 tysięcy złotych. Policja zatrzymała trzech mężczyzn podejrzanych o oszustwa metodą \"na legendę\".",
+      "originalTitle": "Myślała, że bierze udział w akcji służb. Wyrzuciła przez okno kosmetyczkę z pieniędzmi",
+      "originalDescription": "Seniorka z Targówka myślała, że bierze udział w akcji służb, dlatego przekazała pieniądze i biżuterię o wartości 23 tysięcy złotych w ręce oszustów. Kilka dni później mieszkanka Tomaszowa Mazowieckiego straciła 70 tysięcy złotych. Policja zatrzymała trzech mężczyzn podejrzanych o oszustwa metodą \"na legendę\"."
+    },
+    {
+      "title": "Wdarł się do toalety dla uczniów. Groził też, że wysadzi dom",
+      "link": "https://tvn24.pl/lublin/komarow-podlaski-wdarl-sie-do-toalety-dla-uczniow-grozil-tez-ze-wysadzi-dom-st9332755?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:17:22 GMT",
+      "description": "Do 10 lat więzienia grozi 51-letniemu Robertowi K., który w Komarówce Podlaskiej (Lubelskie) wtargnął do szkolnej toalety przeznaczonej dla małoletnich uczniów. Mężczyzna odpowie też za uporczywe łamanie zakazu zbliżania się do swojej siostry oraz kierowanie gróźb karalnych wobec jeszcze innej osoby.",
+      "originalTitle": "Wdarł się do toalety dla uczniów. Groził też, że wysadzi dom",
+      "originalDescription": "Do 10 lat więzienia grozi 51-letniemu Robertowi K., który w Komarówce Podlaskiej (Lubelskie) wtargnął do szkolnej toalety przeznaczonej dla małoletnich uczniów. Mężczyzna odpowie też za uporczywe łamanie zakazu zbliżania się do swojej siostry oraz kierowanie gróźb karalnych wobec jeszcze innej osoby."
+    },
+    {
+      "title": "Tomasz Sakiewicz pytał \"gdzie jest policja\". Policjant stał za nim",
+      "link": "https://tvn24.pl/polska/tomasz-sakiewicz-po-zamachu-w-krakowie-pytal-gdzie-jest-policja-policjant-stal-za-nim-st9332905?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:11:11 GMT",
+      "description": "Kiedy w Krakowie ginęli ludzie, kiedy trwała walka o życie osób postrzelonych przez zamachowca, PiS-owska telewizyjna przybudówka siała odrażającą propagandę. Jej pracownicy ze swoim szefem Tomaszem Sakiewiczem na czele kłamali, podawali nieprawdziwy kontekst i szczuli, robiąc wszystko, by pokazać, czym nie jest rzetelna informacja i czym nie są dziennikarskie standardy. Materiał reportera Tomasza Pupca.",
+      "originalTitle": "Tomasz Sakiewicz pytał \"gdzie jest policja\". Policjant stał za nim",
+      "originalDescription": "Kiedy w Krakowie ginęli ludzie, kiedy trwała walka o życie osób postrzelonych przez zamachowca, PiS-owska telewizyjna przybudówka siała odrażającą propagandę. Jej pracownicy ze swoim szefem Tomaszem Sakiewiczem na czele kłamali, podawali nieprawdziwy kontekst i szczuli, robiąc wszystko, by pokazać, czym nie jest rzetelna informacja i czym nie są dziennikarskie standardy. Materiał reportera Tomasza Pupca."
+    },
+    {
+      "title": "Biało w Ciechanowie, sypnęło w Warszawie. Pierwszy śnieg na zdjęciach i nagraniach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/spadl-pierwszy-snieg-wasze-zdjecia-i-filmy-st9331458?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 09:53:45 GMT",
+      "description": "We wtorek 10 listopada w wielu rejonach Polski pojawił się pierwszy w tym sezonie śnieg na nizinach. Dość sporo białego puchu spadło na północnym Mazowszu. W nocy biało może zrobić się w kolejnych miejscach.",
+      "originalTitle": "Biało w Ciechanowie, sypnęło w Warszawie. Pierwszy śnieg na zdjęciach i nagraniach",
+      "originalDescription": "We wtorek 10 listopada w wielu rejonach Polski pojawił się pierwszy w tym sezonie śnieg na nizinach. Dość sporo białego puchu spadło na północnym Mazowszu. W nocy biało może zrobić się w kolejnych miejscach."
+    },
+    {
+      "title": "Nvidia pod presją. Microsoft wyprzedza giganta",
+      "link": "https://tvn24.pl/biznes/tech/nvidia-pod-presja-microsoft-wyprzedza-giganta-st9332913?source=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:06:33 GMT",
+      "description": "Akcje Nvidii tracą na giełdzie kolejny dzień, po doniesieniach o relacji prezesa firmy Jensena Huanga z chińską bizneswoman podejrzewaną o szpiegostwo na rzecz Pekinu. W ciągu zaledwie dwóch sesji wartość rynkowa technologicznego giganta może skurczyć się o ponad 470 miliardów dolarów - podał Reuters.",
+      "originalTitle": "Nvidia pod presją. Microsoft wyprzedza giganta",
+      "originalDescription": "Akcje Nvidii tracą na giełdzie kolejny dzień, po doniesieniach o relacji prezesa firmy Jensena Huanga z chińską bizneswoman podejrzewaną o szpiegostwo na rzecz Pekinu. W ciągu zaledwie dwóch sesji wartość rynkowa technologicznego giganta może skurczyć się o ponad 470 miliardów dolarów - podał Reuters."
+    }
+  ]
 }
