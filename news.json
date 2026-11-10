@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-09T20:56:53.139Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-10T03:18:51.089Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Tiry zderzyły się na drodze krajowej. Towar na jezdni, przejazd zablokowany",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sielice-sochaczew-dk50-wypadek-zderzenie-tirow-objazdy-st9331086?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 22:05:07 GMT",
+      "description": "W poniedziałek wieczorem pod Sochaczewem (Mazowieckie) zderzyły się dwa tiry. Droga krajowa numer 50 jest zablokowana w obu kierunkach.",
+      "originalTitle": "Tiry zderzyły się na drodze krajowej. Towar na jezdni, przejazd zablokowany",
+      "originalDescription": "W poniedziałek wieczorem pod Sochaczewem (Mazowieckie) zderzyły się dwa tiry. Droga krajowa numer 50 jest zablokowana w obu kierunkach."
+    },
+    {
+      "title": "Alert RCB dla mieszkańców Lubelszczyzny i Podlasia odwołany",
+      "link": "https://tvn24.pl/polska/alert-rcb-dla-mieszkancow-lubelszczyzny-i-podlasia-st9331063?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 21:19:27 GMT",
+      "description": "Rządowe Centrum Bezpieczeństwa odwołało alert, który wieczorem został wysłany do niektórych powiatów województw lubelskiego i podlaskiego. \"Zakończył się atak powietrzny na Ukrainę. Brak zagrożenia na terenie Polski\" - napisano.",
+      "originalTitle": "Alert RCB dla mieszkańców Lubelszczyzny i Podlasia odwołany",
+      "originalDescription": "Rządowe Centrum Bezpieczeństwa odwołało alert, który wieczorem został wysłany do niektórych powiatów województw lubelskiego i podlaskiego. \"Zakończył się atak powietrzny na Ukrainę. Brak zagrożenia na terenie Polski\" - napisano."
+    },
+    {
+      "title": "Prezydent Krakowa: nie pozwolimy, żeby ten zamachowiec nas złamał",
+      "link": "https://tvn24.pl/polska/zamach-w-krakowie-lukasz-gibala-nie-pozwolimy-zeby-ten-zamachowiec-nas-zlamal-zapowiada-zmiany-st9331074?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 21:37:04 GMT",
+      "description": "Nie pozwolimy, żeby ten zamachowiec nas złamał - powiedział prezydent Krakowa Łukasz Gibała. Zapowiedział zwiększenie bezpieczeństwa w mieście. - Ustaliliśmy, że miasto przeznaczy dodatkową pulę pieniędzy na zwiększenie liczby patroli w centrum miasta - przekazał.",
+      "originalTitle": "Prezydent Krakowa: nie pozwolimy, żeby ten zamachowiec nas złamał",
+      "originalDescription": "Nie pozwolimy, żeby ten zamachowiec nas złamał - powiedział prezydent Krakowa Łukasz Gibała. Zapowiedział zwiększenie bezpieczeństwa w mieście. - Ustaliliśmy, że miasto przeznaczy dodatkową pulę pieniędzy na zwiększenie liczby patroli w centrum miasta - przekazał."
+    },
+    {
+      "title": "Dowód przy zakupach. Ważna zmiana w przepisach",
+      "link": "https://tvn24.pl/biznes/pieniadze/dowod-przy-zakupach-wazna-zmiana-w-przepisach-st9330624?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:44:13 GMT",
+      "description": "Sprzedaż towarów o wysokiej wartości będzie od przyszłego roku przebiegała w bardziej kontrolowany sposób. 10 lipca 2027 roku wejdą w życie przepisy, na mocy których przy zakupie drogich przedmiotów klienci będą zobowiązani do okazania dowodu tożsamości.",
+      "originalTitle": "Dowód przy zakupach. Ważna zmiana w przepisach",
+      "originalDescription": "Sprzedaż towarów o wysokiej wartości będzie od przyszłego roku przebiegała w bardziej kontrolowany sposób. 10 lipca 2027 roku wejdą w życie przepisy, na mocy których przy zakupie drogich przedmiotów klienci będą zobowiązani do okazania dowodu tożsamości."
+    },
+    {
+      "title": "Uwaga na pogodę! Pojawią się opady marznące, gęste mgły, a na dodatek silnie powieje. Ostrzeżenia IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/uwaga-na-pogode-pojawia-sie-opady-marznace-geste-mgly-a-na-dodatek-silnie-powieje-ostrzezenia-imgw-st9330553?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:06:19 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed groźną pogodą. We wtorek o poranku w części kraju na drogach może zrobić się ślisko i mgliście. W ciągu dnia spodziewane są porywy silnego wiatru. Sprawdź, gdzie należy uważać.",
+      "originalTitle": "Uwaga na pogodę! Pojawią się opady marznące, gęste mgły, a na dodatek silnie powieje. Ostrzeżenia IMGW",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej (IMGW) ostrzega przed groźną pogodą. We wtorek o poranku w części kraju na drogach może zrobić się ślisko i mgliście. W ciągu dnia spodziewane są porywy silnego wiatru. Sprawdź, gdzie należy uważać."
+    },
+    {
+      "title": "Popularna sieć wprowadza nową aplikację. W 16 miastach",
+      "link": "https://tvn24.pl/biznes/z-kraju/popularna-siec-wprowadza-nowa-aplikacje-w-16-miastach-st9330611?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:19:37 GMT",
+      "description": "Sieć Biedronka uruchamia aplikację Biek do zakupów online - podano w komunikacie. Narzędzie będzie dostępne w 16 miastach. Konkurenci też rozwijają własne aplikacje.",
+      "originalTitle": "Popularna sieć wprowadza nową aplikację. W 16 miastach",
+      "originalDescription": "Sieć Biedronka uruchamia aplikację Biek do zakupów online - podano w komunikacie. Narzędzie będzie dostępne w 16 miastach. Konkurenci też rozwijają własne aplikacje."
+    },
+    {
+      "title": "Bruna uderzyła w Portugalię. Na horyzoncie widać kolejne zagrożenie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/polak-uratowany-na-maderze-jego-jacht-zniosly-silne-fale-st9329327?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 06:33:20 GMT",
+      "description": "Burza Bruna w ostatnich dniach wyrządziła szkody na Maderze oraz w kontynentalnej części Portugalii. W sobotę u wybrzeży wyspy uratowano polskiego żeglarza. Końca groźnej pogody nie widać, bo do kraju zbliża się kolejny niż.",
+      "originalTitle": "Bruna uderzyła w Portugalię. Na horyzoncie widać kolejne zagrożenie",
+      "originalDescription": "Burza Bruna w ostatnich dniach wyrządziła szkody na Maderze oraz w kontynentalnej części Portugalii. W sobotę u wybrzeży wyspy uratowano polskiego żeglarza. Końca groźnej pogody nie widać, bo do kraju zbliża się kolejny niż."
+    },
+    {
+      "title": "Kryzys w Rosji. Nowe ograniczenia",
+      "link": "https://tvn24.pl/biznes/ze-swiata/kryzys-w-rosji-nowe-ograniczenia-st9330914?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:06:09 GMT",
+      "description": "Rosnieft wprowadził ograniczenia sprzedaży paliwa na stacjach benzynowych w całym kraju - poinformował niezależny portal Meduza. Największy rosyjski koncern naftowy miał podjąć decyzję w reakcji na ukraińskie ataki na rafinerie.",
+      "originalTitle": "Kryzys w Rosji. Nowe ograniczenia",
+      "originalDescription": "Rosnieft wprowadził ograniczenia sprzedaży paliwa na stacjach benzynowych w całym kraju - poinformował niezależny portal Meduza. Największy rosyjski koncern naftowy miał podjąć decyzję w reakcji na ukraińskie ataki na rafinerie."
+    },
+    {
+      "title": "Marsz Ciszy przeszedł ulicami Krakowa. Zagrano \"Sound of Silence\"",
+      "link": "https://tvn24.pl/krakow/marsz-ciszy-przeszedl-ulicami-krakowa-zagrano-sound-of-silence-st9330923?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:03:51 GMT",
+      "description": "W Krakowie zakończył się Marsz Ciszy dla uczczenia pamięci ofiar sobotniego zamachu. Zginęło w nim sześć osób, a 15 - nie licząc sprawcy - zostało rannych. W marszu wzięli udział prezydent Karol Nawrocki, premier Donald Tusk i prezydent Krakowa Łukasz Gibała. Na Rynku Głównym hejnalista zagrał utwór \"Sound of Silence\".",
+      "originalTitle": "Marsz Ciszy przeszedł ulicami Krakowa. Zagrano \"Sound of Silence\"",
+      "originalDescription": "W Krakowie zakończył się Marsz Ciszy dla uczczenia pamięci ofiar sobotniego zamachu. Zginęło w nim sześć osób, a 15 - nie licząc sprawcy - zostało rannych. W marszu wzięli udział prezydent Karol Nawrocki, premier Donald Tusk i prezydent Krakowa Łukasz Gibała. Na Rynku Głównym hejnalista zagrał utwór \"Sound of Silence\"."
+    },
+    {
+      "title": "Radar opadów. Tutaj może spaść deszcz ze śniegiem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/radar-i-mapa-opadow-pogoda-w-polsce-we-wtorek-10-11-tutaj-moze-spasc-deszcz-ze-sniegiem-st9330871?source=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:39:53 GMT",
+      "description": "Pogoda w Polsce się pogorszy i to już nad ranem we wtorek. Do naszego kraju zmierzają opady. Będzie padał deszcz, ale przejściowo pojawi się deszcz ze śniegiem oraz mokry śnieg. Dodatkowym utrudnieniem mogą być marznące mgły.",
+      "originalTitle": "Radar opadów. Tutaj może spaść deszcz ze śniegiem",
+      "originalDescription": "Pogoda w Polsce się pogorszy i to już nad ranem we wtorek. Do naszego kraju zmierzają opady. Będzie padał deszcz, ale przejściowo pojawi się deszcz ze śniegiem oraz mokry śnieg. Dodatkowym utrudnieniem mogą być marznące mgły."
+    }
+  ]
 }
