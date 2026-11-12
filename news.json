@@ -1,8 +1,32 @@
 {
-  "lastUpdate": "2026-11-12T18:42:34.202Z",
+  "lastUpdate": "2026-11-12T23:58:42.415Z",
   "enhancedWithGroq": true,
   "groqApiKeyExists": true,
   "articles": [
+    {
+      "title": "Wielka awaria Microsoftu. Outlook nie działa",
+      "link": "https://tvn24.pl/biznes/ze-swiata/awaria-microsoft-365-i-outlooka-dotknela-tysiace-uzytkownikow-st9336650?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 20:47:07 GMT",
+      "description": "Awaria Outlooka dała się we znaki użytkownikom w wielu krajach. Są także problemy z dostępem do usług Microsoft 365, np. Teams czy Copilota - podał serwis Downdetector.com, monitorujący awarie systemów informatycznych. Awarię potwierdził Microsoft, który poinformował o podejmowanych działaniach.",
+      "originalTitle": "Wielka awaria Microsoftu. Outlook nie działa",
+      "originalDescription": "Awaria Outlooka dała się we znaki użytkownikom w wielu krajach. Są także problemy z dostępem do usług Microsoft 365, np. Teams czy Copilota - podał serwis Downdetector.com, monitorujący awarie systemów informatycznych. Awarię potwierdził Microsoft, który poinformował o podejmowanych działaniach."
+    },
+    {
+      "title": "Ukraina zaatakowała rosyjski okręt rakietowy na Morzu Bałtyckim. Jest reakcja jednego z sojuszników",
+      "link": "https://tvn24.pl/swiat/morze-baltyckie-ukraina-zaatakowala-rosyjski-okret-rakietowy-naro-forminsk-reakcja-jednego-z-sojusznikow-st9336684?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 21:55:47 GMT",
+      "description": "Wojsko Finlandii potwierdziło, że w środę odnotowało atak na rosyjski okręt na Morzu Bałtyckim. BBC zwraca uwagę, że atak to \"prawdopodobnie pierwszy przypadek, w którym ukraińskie drony uderzyły w rosyjską jednostkę na wodach Bałtyku dostępnych dla cywilnej żeglugi\".",
+      "originalTitle": "Ukraina zaatakowała rosyjski okręt rakietowy na Morzu Bałtyckim. Jest reakcja jednego z sojuszników",
+      "originalDescription": "Wojsko Finlandii potwierdziło, że w środę odnotowało atak na rosyjski okręt na Morzu Bałtyckim. BBC zwraca uwagę, że atak to \"prawdopodobnie pierwszy przypadek, w którym ukraińskie drony uderzyły w rosyjską jednostkę na wodach Bałtyku dostępnych dla cywilnej żeglugi\"."
+    },
+    {
+      "title": "Prezydent Ukrainy Wołodymyr Zełenski spotkał się z Donaldem Tuskiem. \"Jak Polska może pomóc\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/prezydent-ukrainy-wolodymyr-zelenski-spotkal-sie-z-donaldem-tuskiem-jak-polska-moze-pomoc-st9336612?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 21:19:28 GMT",
+      "description": "Prezydent Wołodymyr Zełenski poinformował w czwartek, że spotkał się w Dublinie z premierem Polski Donaldem Tuskiem. Rozmawiali między innymi o wsparciu Polski w przygotowaniach do zimy, a także o rozszerzeniu połączeń na potrzeby dostaw paliwa na Ukrainę.",
+      "originalTitle": "Prezydent Ukrainy Wołodymyr Zełenski spotkał się z Donaldem Tuskiem. \"Jak Polska może pomóc\"",
+      "originalDescription": "Prezydent Wołodymyr Zełenski poinformował w czwartek, że spotkał się w Dublinie z premierem Polski Donaldem Tuskiem. Rozmawiali między innymi o wsparciu Polski w przygotowaniach do zimy, a także o rozszerzeniu połączeń na potrzeby dostaw paliwa na Ukrainę."
+    },
     {
       "title": "Zaproszenie od Karola Nawrockiego dla klubów parlamentarnych. W sprawie \"uzdrowienia\" TK",
       "link": "https://tvn24.pl/polska/karol-nawrocki-zaprosil-przedstawicieli-klubow-parlamentarnych-na-rozmowe-o-sytuacji-wokol-trybunalu-konstytucyjnego-st9336238?source=rss",
@@ -12,76 +36,52 @@
       "originalDescription": "Wszystkie reprezentowane w Sejmie środowiska polityczne otrzymają zaproszenie do Pałacu Prezydenckiego na konsultacje w sprawie Trybunału Konstytucyjnego - zapowiedział w czwartek rzecznik prezydenta Rafał Leśkiewicz. Do planowanych na poniedziałek rozmów został wyznaczony szef prezydenckiej kancelarii Zbigniew Bogucki."
     },
     {
-      "title": "Zamach z perspektywy dyspozytorki. \"Trudno było wszystkie osoby jednocześnie zlokalizować\"",
-      "link": "https://tvn24.pl/krakow/zamach-z-perspektywy-dyspozytorki-trudno-bylo-wszystkie-osoby-jednoczesnie-zlokalizowac-st9336476?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 18:28:33 GMT",
-      "description": "Dyspozytorzy i ratownicy przechodzą szkolenia jak zachowywać się na wydarzeniach z dużą liczbą osób poszkodowanych. Sobotni zamach w Krakowie jednak wyszedł poza ramy scenariuszy. - Poszkodowanych nie mieliśmy w jednym miejscu - mówiła w programie \"Tak jest\" Maria Zajączkowska z dyspozytorni medycznej Małopolskiego Urzędu Wojewódzkiego.",
-      "originalTitle": "Zamach z perspektywy dyspozytorki. \"Trudno było wszystkie osoby jednocześnie zlokalizować\"",
-      "originalDescription": "Dyspozytorzy i ratownicy przechodzą szkolenia jak zachowywać się na wydarzeniach z dużą liczbą osób poszkodowanych. Sobotni zamach w Krakowie jednak wyszedł poza ramy scenariuszy. - Poszkodowanych nie mieliśmy w jednym miejscu - mówiła w programie \"Tak jest\" Maria Zajączkowska z dyspozytorni medycznej Małopolskiego Urzędu Wojewódzkiego."
+      "title": "Sprawa kawalerki Jerzego Ż. Prokuratura chce przesłuchać prezydenta Karola Nawrockiego",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-sprawa-kawalerki-jerzego-z-prokuratura-chce-przesluchac-prezydenta-st9336628?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 20:39:01 GMT",
+      "description": "Gdańska prokuratura zamierza przesłuchać prezydenta Karola Nawrockiego w sprawie przejęcia przez niego mieszkania od Jerzego Ż. Do prezydenckiej kancelarii wpłynęło pismo w tej sprawie. Głowa państwa ma złożyć zeznania w charakterze świadka.",
+      "originalTitle": "Sprawa kawalerki Jerzego Ż. Prokuratura chce przesłuchać prezydenta Karola Nawrockiego",
+      "originalDescription": "Gdańska prokuratura zamierza przesłuchać prezydenta Karola Nawrockiego w sprawie przejęcia przez niego mieszkania od Jerzego Ż. Do prezydenckiej kancelarii wpłynęło pismo w tej sprawie. Głowa państwa ma złożyć zeznania w charakterze świadka."
     },
     {
-      "title": "Pomieszczą ponad 200 samochodów. Przy stacji metra Lazurowa powstaną trzy parkingi",
-      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-przy-stacji-metra-lazurowa-powstana-trzy-parkingi-beda-dzialaly-w-systemie-p-r-szczegoly-st9336475?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 18:16:53 GMT",
-      "description": "Przy nowej stacji metra linii M2 Lazurowa powstaną trzy parkingi przesiadkowe. Zmieści się na nich w sumie 240 samochodów.",
-      "originalTitle": "Pomieszczą ponad 200 samochodów. Przy stacji metra Lazurowa powstaną trzy parkingi",
-      "originalDescription": "Przy nowej stacji metra linii M2 Lazurowa powstaną trzy parkingi przesiadkowe. Zmieści się na nich w sumie 240 samochodów."
+      "title": "Wspólna lista prawicy do Sejmu? Poseł Konfederacji: w PiS się miotają od ściany do ściany",
+      "link": "https://tvn24.pl/polska/wspolna-lista-prawicy-do-sejmu-michal-wawer-o-zapowiedzi-jaroslawa-kaczynskieg-st9336568?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 20:09:55 GMT",
+      "description": "Jak na razie to są tylko takie hasełka rzucone do kamery, a nie było nigdy żadnej poważnej próby budowania takiej listy - powiedział w \"Kropce nad i\" poseł Konfederacji Michał Wawer. Jego zdaniem \"nie ma takiego planu\", aby ugrupowanie startowało w wyborach parlamentarnych na jednej liście z PiS i partią Brauna, jak chciałby Jarosław Kaczyński. Magdalena Biejat z Lewicy przyznała, że nie dziwią jej słowa prezesa PiS.",
+      "originalTitle": "Wspólna lista prawicy do Sejmu? Poseł Konfederacji: w PiS się miotają od ściany do ściany",
+      "originalDescription": "Jak na razie to są tylko takie hasełka rzucone do kamery, a nie było nigdy żadnej poważnej próby budowania takiej listy - powiedział w \"Kropce nad i\" poseł Konfederacji Michał Wawer. Jego zdaniem \"nie ma takiego planu\", aby ugrupowanie startowało w wyborach parlamentarnych na jednej liście z PiS i partią Brauna, jak chciałby Jarosław Kaczyński. Magdalena Biejat z Lewicy przyznała, że nie dziwią jej słowa prezesa PiS."
     },
     {
-      "title": "Cztery lata temu uderzyła w niego NASA. Teraz zbada go Hera",
-      "link": "https://tvn24.pl/tvnmeteo/nauka/cztery-lata-temu-uderzyla-w-niego-nasa-teraz-zbada-go-hera-st9336400?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 18:03:40 GMT",
-      "description": "Europejska sonda Hera rozpoczęła szczegółowe badania planetoidy Didymos i jej niewielkiego księżyca - Dimorphosa. W 2022 roku w drugi z obiektów celowo uderzyła sonda NASA. Teraz naukowcy z Europejskiej Agencji Kosmicznej chcą zbadać, co dokładnie wtedy się stało.",
-      "originalTitle": "Cztery lata temu uderzyła w niego NASA. Teraz zbada go Hera",
-      "originalDescription": "Europejska sonda Hera rozpoczęła szczegółowe badania planetoidy Didymos i jej niewielkiego księżyca - Dimorphosa. W 2022 roku w drugi z obiektów celowo uderzyła sonda NASA. Teraz naukowcy z Europejskiej Agencji Kosmicznej chcą zbadać, co dokładnie wtedy się stało."
+      "title": "Ostrzeżenia IMGW. Intensywne opady deszczu, śnieg, silny wiatr",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-ostrzezenia-imgw-intensywne-opady-deszczu-snieg-silny-wiatr-st9335689?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 14:06:34 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał żółte alarmy dla części Polski. Na południu pojawią się intensywne opady deszczu, a także śniegu. Z kolei na północy powieje silny wiatr. Sprawdź, gdzie należy uważać.",
+      "originalTitle": "Ostrzeżenia IMGW. Intensywne opady deszczu, śnieg, silny wiatr",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał żółte alarmy dla części Polski. Na południu pojawią się intensywne opady deszczu, a także śniegu. Z kolei na północy powieje silny wiatr. Sprawdź, gdzie należy uważać."
     },
     {
-      "title": "Dwa miliony złotych dzięki akcji \"Solidarni z Krakowem\". \"Była potrzeba, aby działać wspólnie\"",
-      "link": "https://tvn24.pl/polska/zbiorka-solidarni-z-krakowem-prezeska-fundacji-tvn-zuzanna-lewandowska-byla-potrzeba-aby-dzialac-wspolnie-st9336023?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 17:53:09 GMT",
-      "description": "Chciałabym przekazać najgłębsze wyrazy wdzięczności dla wszystkich, którzy tak hojnie zareagowali na naszą akcję \"Solidarni z Krakowem\" - powiedziała prezeska Fundacji TVN Zuzanna Lewandowska. Poinformowała, że na pomoc poszkodowanym i ich rodzinom udało się zebrać kwotę dwóch milionów złotych, a zbiórka nadal trwa. Wiceprezydentka Krakowa Elżbieta Kois-Żurek mówiła o reakcji miasta na pomoc.",
-      "originalTitle": "Dwa miliony złotych dzięki akcji \"Solidarni z Krakowem\". \"Była potrzeba, aby działać wspólnie\"",
-      "originalDescription": "Chciałabym przekazać najgłębsze wyrazy wdzięczności dla wszystkich, którzy tak hojnie zareagowali na naszą akcję \"Solidarni z Krakowem\" - powiedziała prezeska Fundacji TVN Zuzanna Lewandowska. Poinformowała, że na pomoc poszkodowanym i ich rodzinom udało się zebrać kwotę dwóch milionów złotych, a zbiórka nadal trwa. Wiceprezydentka Krakowa Elżbieta Kois-Żurek mówiła o reakcji miasta na pomoc."
+      "title": "\"Ich postawa jest przykładem\". Bohaterowie z Krakowa docenieni przez nowojorskich policjantów",
+      "link": "https://tvn24.pl/polska/ich-postawa-jest-przykladem-bohaterowie-z-krakowa-docenieni-przez-nowojorskich-policjantow-list-do-redakcji-tvn24-pl-st9336561?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 19:57:45 GMT",
+      "description": "Policjanci ze stowarzyszenia nowojorskich funkcjonariuszy polskiego pochodzenia \"Pulaski\" przekazali redakcji tvn24.pl list, w którym wyrazili \"najgłębszy szacunek i uznanie dla niezwykłego bohaterstwa, jakim wykazali się\" starsi posterunkowi Jakub Kulik oraz Artur Morański, którzy w sobotę powstrzymali zamachowca z Krakowa. \"Ich odwaga, profesjonalizm oraz błyskawiczna reakcja w obliczu niewyobrażalnego zagrożenia niewątpliwie przyczyniły się do uratowania ludzkiego życia\" - zaznaczyli.",
+      "originalTitle": "\"Ich postawa jest przykładem\". Bohaterowie z Krakowa docenieni przez nowojorskich policjantów",
+      "originalDescription": "Policjanci ze stowarzyszenia nowojorskich funkcjonariuszy polskiego pochodzenia \"Pulaski\" przekazali redakcji tvn24.pl list, w którym wyrazili \"najgłębszy szacunek i uznanie dla niezwykłego bohaterstwa, jakim wykazali się\" starsi posterunkowi Jakub Kulik oraz Artur Morański, którzy w sobotę powstrzymali zamachowca z Krakowa. \"Ich odwaga, profesjonalizm oraz błyskawiczna reakcja w obliczu niewyobrażalnego zagrożenia niewątpliwie przyczyniły się do uratowania ludzkiego życia\" - zaznaczyli."
     },
     {
-      "title": "On zaprojektował banknoty, ona brała udział w wojnie udając mężczyznę. Ich dom został zabytkiem",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-willa-przy-mysliwieckiej-wpisana-do-rejestru-zabytkow-to-dom-wybitnych-artystow-st9336273?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 17:29:26 GMT",
-      "description": "Willa przy ulicy Myśliwieckiej została wybudowana około 1925 roku. To dom Zygmunta Kamińskiego i Zofii Trzcińskiej-Kamińskiej, który współtworzy warszawską Kolonię Profesorską. Budynek właśnie został wpisany do rejestru zabytków.",
-      "originalTitle": "On zaprojektował banknoty, ona brała udział w wojnie udając mężczyznę. Ich dom został zabytkiem",
-      "originalDescription": "Willa przy ulicy Myśliwieckiej została wybudowana około 1925 roku. To dom Zygmunta Kamińskiego i Zofii Trzcińskiej-Kamińskiej, który współtworzy warszawską Kolonię Profesorską. Budynek właśnie został wpisany do rejestru zabytków."
+      "title": "Radar opadów. Front atmosferyczny wkroczy do Polski. Tu spadnie deszcz, a nawet śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-piate-13-11-radar-opadow-front-atmosferyczny-wkroczy-do-polski-tu-spadnie-deszcz-a-nawet-snieg-st9336490?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 19:21:32 GMT",
+      "description": "Tej nocy w części kraju pogoda mocno się pogorszy. Do Polski wkroczy strefa wielkoskalowych opadów deszczu, a momentami będzie sypać śnieg. Podobna aura spodziewana jest w piątek. Gdzie szczególnie warto uważać na trudne warunki pogodowe? Można sprawdzić to na mapach.",
+      "originalTitle": "Radar opadów. Front atmosferyczny wkroczy do Polski. Tu spadnie deszcz, a nawet śnieg",
+      "originalDescription": "Tej nocy w części kraju pogoda mocno się pogorszy. Do Polski wkroczy strefa wielkoskalowych opadów deszczu, a momentami będzie sypać śnieg. Podobna aura spodziewana jest w piątek. Gdzie szczególnie warto uważać na trudne warunki pogodowe? Można sprawdzić to na mapach."
     },
     {
-      "title": "\"Trzeba coś zrobić, chociaż jesteśmy daleko\". Wsparcie nowojorskich strażaków dla Krakowa",
-      "link": "https://tvn24.pl/polska/trzeba-cos-zrobic-chociaz-jestesmy-daleko-wsparcie-nowojorskich-strazakow-dla-krakowa-st9336281?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 17:15:35 GMT",
-      "description": "Dramat, który rozegrał się w Krakowie, jednoczy Polaków, ale nie tylko tych, którzy są blisko. W pomoc zaangażowali się również strażacy polskiego pochodzenia z Nowego Jorku, którzy przyłączyli się do zbiórki Fundacji TVN \"Solidarni z Krakowem\". Materiał Katarzyny Czupryńskiej-Chabros dla \"Faktów po południu\".",
-      "originalTitle": "\"Trzeba coś zrobić, chociaż jesteśmy daleko\". Wsparcie nowojorskich strażaków dla Krakowa",
-      "originalDescription": "Dramat, który rozegrał się w Krakowie, jednoczy Polaków, ale nie tylko tych, którzy są blisko. W pomoc zaangażowali się również strażacy polskiego pochodzenia z Nowego Jorku, którzy przyłączyli się do zbiórki Fundacji TVN \"Solidarni z Krakowem\". Materiał Katarzyny Czupryńskiej-Chabros dla \"Faktów po południu\"."
-    },
-    {
-      "title": "Marsz Milczenia przeszedł przez Chodzież. Uczcili pamięć tragicznej zmarłej Izabeli",
-      "link": "https://tvn24.pl/poznan/chodziez-marsz-milczenia-ku-pamieci-artystki-izabeli-woznej-st9336396?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 17:14:14 GMT",
-      "description": "Tłum mieszkańców Chodzieży i okolicznych miejscowości uczcił pamięć Izabeli Woźnej, artystki, która zginęła w zamachu w Krakowie. - To jest ostatnia rzecz, jaką możemy dla niej zrobić - mówił jeden z uczestników marszu milczenia.",
-      "originalTitle": "Marsz Milczenia przeszedł przez Chodzież. Uczcili pamięć tragicznej zmarłej Izabeli",
-      "originalDescription": "Tłum mieszkańców Chodzieży i okolicznych miejscowości uczcił pamięć Izabeli Woźnej, artystki, która zginęła w zamachu w Krakowie. - To jest ostatnia rzecz, jaką możemy dla niej zrobić - mówił jeden z uczestników marszu milczenia."
-    },
-    {
-      "title": "Reprymenda dla Pete'a Hegsetha przy Grobie Nieznanego Żołnierza. Wartownik przypomniał o \"szacunku\"",
-      "link": "https://tvn24.pl/swiat/waszyngton-reprymenda-dla-pete-a-hegsetha-przy-grobie-nieznanego-zolnierza-w-arlington-st9335267?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 10:37:09 GMT",
-      "description": "Rozmowy, śmiech, a następnie głośna reprymenda od wartownika w galowym mundurze dla sekretarza obrony USA Pete'a Hegsetha i osób mu towarzyszących. To obrazek zarejestrowany podczas środowych uroczystości przy Grobie Nieznanego Żołnierza pod Waszyngtonem. W czwartek po południu odniósł się do niego sam Hegseth, zamieszczając zdjęcia.",
-      "originalTitle": "Reprymenda dla Pete'a Hegsetha przy Grobie Nieznanego Żołnierza. Wartownik przypomniał o \"szacunku\"",
-      "originalDescription": "Rozmowy, śmiech, a następnie głośna reprymenda od wartownika w galowym mundurze dla sekretarza obrony USA Pete'a Hegsetha i osób mu towarzyszących. To obrazek zarejestrowany podczas środowych uroczystości przy Grobie Nieznanego Żołnierza pod Waszyngtonem. W czwartek po południu odniósł się do niego sam Hegseth, zamieszczając zdjęcia."
-    },
-    {
-      "title": "Donald Tusk o zapowiedzi Jarosława Kaczyńskiego. Tak ocenia słowa o \"jednej wielkiej liście\"",
-      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-zapowiada-jedna-wielka-liste-komentarz-donalda-tuska-st9336262?source=rss",
-      "pubDate": "Thu, 12 Nov 2026 17:01:32 GMT",
-      "description": "Dobrze, że Jarosław Kaczyński już nie ukrywa, iż nie widzi istotnych różnic między Grzegorzem Braunem a sobą - ocenił premier Donald Tusk. Komentował tak zapowiedź prezesa PiS o \"jednej wielkiej liście\" prawicy w przyszłorocznych wyborach parlamentarnych. Skrytykował też niedawną wypowiedź Kaczyńskiego o \"rozlewie krwi\", którą określił jako \"radykalnie nieodpowiedzialną\".",
-      "originalTitle": "Donald Tusk o zapowiedzi Jarosława Kaczyńskiego. Tak ocenia słowa o \"jednej wielkiej liście\"",
-      "originalDescription": "Dobrze, że Jarosław Kaczyński już nie ukrywa, iż nie widzi istotnych różnic między Grzegorzem Braunem a sobą - ocenił premier Donald Tusk. Komentował tak zapowiedź prezesa PiS o \"jednej wielkiej liście\" prawicy w przyszłorocznych wyborach parlamentarnych. Skrytykował też niedawną wypowiedź Kaczyńskiego o \"rozlewie krwi\", którą określił jako \"radykalnie nieodpowiedzialną\"."
+      "title": "Wjechał na torowisko tramwajowe i utknął",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-wjechal-na-torowisko-i-utknal-wyciagaly-go-sluzby-st9336558?source=rss",
+      "pubDate": "Thu, 12 Nov 2026 19:17:33 GMT",
+      "description": "Kierowca auta w pobliżu Głównego Urzędu Statystycznego w Warszawie wjechał na torowisko tramwajowe. Nie był w stanie sam usunąć go z torów. Samochód musiały wyciągnąć służby.",
+      "originalTitle": "Wjechał na torowisko tramwajowe i utknął",
+      "originalDescription": "Kierowca auta w pobliżu Głównego Urzędu Statystycznego w Warszawie wjechał na torowisko tramwajowe. Nie był w stanie sam usunąć go z torów. Samochód musiały wyciągnąć służby."
     }
   ]
 }
