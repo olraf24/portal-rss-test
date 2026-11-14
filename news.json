@@ -1,6 +1,85 @@
 {
-  "lastUpdate": "2026-11-14T15:35:11.651Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-14T20:27:17.744Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Kolejne weto prezydenta. Profesor Andrzej Zoll: bardzo szkodliwe",
+      "link": "https://tvn24.pl/polska/kolejne-weto-karola-nawrockiego-byly-prezes-tk-andrzej-zoll-prezydent-chce-sie-stac-trzecia-izba-parlamentu-st9339486?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 19:05:03 GMT",
+      "description": "Prezydent stał się, a w każdym razie chce się stać trzecią izbą parlamentu - powiedział profesor Andrzej Zoll w \"Faktach po Faktach\" w TVN24, komentując weto prezydenta do ustawy o bezpieczeństwie w internecie. Były prezes Trybunału Konstytucyjnego mówił też o \"jawnym łamaniu konstytucji\" przez głowę państwa w kwestii tego organu oraz komentował pomysł ludowców na \"reset konstytucyjny\".",
+      "originalTitle": "Kolejne weto prezydenta. Profesor Andrzej Zoll: bardzo szkodliwe",
+      "originalDescription": "Prezydent stał się, a w każdym razie chce się stać trzecią izbą parlamentu - powiedział profesor Andrzej Zoll w \"Faktach po Faktach\" w TVN24, komentując weto prezydenta do ustawy o bezpieczeństwie w internecie. Były prezes Trybunału Konstytucyjnego mówił też o \"jawnym łamaniu konstytucji\" przez głowę państwa w kwestii tego organu oraz komentował pomysł ludowców na \"reset konstytucyjny\"."
+    },
+    {
+      "title": "Wypadek na Połczyńskiej. Dwie osoby są w szpitalu",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-zderzenie-dwoch-samochodow-na-ulicy-polczynskiej-dwie-osoby-w-szpitalu-st9339485?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 18:19:52 GMT",
+      "description": "Na skrzyżowaniu ulicy Powstańców Śląskich z ulicami Połczyńską i Dźwigową w Warszawie zderzyły się dwa samochody. Cztery osoby wymagały pomocy medycznej, dwie z nich trafiły do szpitala.",
+      "originalTitle": "Wypadek na Połczyńskiej. Dwie osoby są w szpitalu",
+      "originalDescription": "Na skrzyżowaniu ulicy Powstańców Śląskich z ulicami Połczyńską i Dźwigową w Warszawie zderzyły się dwa samochody. Cztery osoby wymagały pomocy medycznej, dwie z nich trafiły do szpitala."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Tu może być niebezpiecznie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-tu-noc-moze-byc-niebezpieczna-st9339052?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 18:13:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju w nadchodzących godzinach sporym zagrożeniem będzie silny wiatr. Sprawdź, gdzie uważać.",
+      "originalTitle": "Ostrzeżenia IMGW. Tu może być niebezpiecznie",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W części kraju w nadchodzących godzinach sporym zagrożeniem będzie silny wiatr. Sprawdź, gdzie uważać."
+    },
+    {
+      "title": "\"Ten ból jest bólem nas wszystkich\". Pochowali ofiary zamachu",
+      "link": "https://tvn24.pl/krakow/krasnik-sedziszow-malopolski-pogrzeby-ofiar-zamachu-w-krakowie-st9339450?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 17:48:27 GMT",
+      "description": "W Sędziszowie Małopolskim i Kraśniku odbyły się w sobotę pogrzeby osób, które zginęły tydzień temu w strzelaninie w Krakowie.",
+      "originalTitle": "\"Ten ból jest bólem nas wszystkich\". Pochowali ofiary zamachu",
+      "originalDescription": "W Sędziszowie Małopolskim i Kraśniku odbyły się w sobotę pogrzeby osób, które zginęły tydzień temu w strzelaninie w Krakowie."
+    },
+    {
+      "title": "Paraliż ruchu lotniczego w USA. Sekretarz transportu o jednej z przyczyn",
+      "link": "https://tvn24.pl/swiat/paraliz-ruchu-lotniczego-w-usa-sekretarz-transportu-o-jednej-z-przyczyn-wskazuje-na-prace-modernizacyjne-i-wymiane-przewodow-st9339447?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 17:33:18 GMT",
+      "description": "Sekretarz transportu USA wykluczył wstępnie cyberatak w związku z ogólnokrajowym paraliżem lotniczym. Wskazał, że jedną z przyczyn mogły być prowadzone w tym czasie prace modernizacyjne, w tym wymiana przewodu, która mogła doprowadzić do przeciążenia systemów.",
+      "originalTitle": "Paraliż ruchu lotniczego w USA. Sekretarz transportu o jednej z przyczyn",
+      "originalDescription": "Sekretarz transportu USA wykluczył wstępnie cyberatak w związku z ogólnokrajowym paraliżem lotniczym. Wskazał, że jedną z przyczyn mogły być prowadzone w tym czasie prace modernizacyjne, w tym wymiana przewodu, która mogła doprowadzić do przeciążenia systemów."
+    },
+    {
+      "title": "Biały Dom: Donald Trump spotka się z Xi i Władimirem Putinem w Shenzhen. Kreml potwierdza",
+      "link": "https://tvn24.pl/swiat/bialy-dom-donald-trump-spotka-sie-z-xi-jinpingiem-i-wladimierem-putinem-w-czwartek-w-shenzhen-st9338638?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 06:54:44 GMT",
+      "description": "Donald Trump weźmie udział w czwartek w spotkaniu trójstronnym z Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen - podał Biały Dom. Informację o dacie rozmów potwierdził również Kreml. Wśród tematów dyskusji prezydenta USA z przywódcami Rosji i Chin ma być między innymi redukcja zbrojeń nuklearnych.",
+      "originalTitle": "Biały Dom: Donald Trump spotka się z Xi i Władimirem Putinem w Shenzhen. Kreml potwierdza",
+      "originalDescription": "Donald Trump weźmie udział w czwartek w spotkaniu trójstronnym z Władimirem Putinem i Xi Jinpingiem podczas wizyty w chińskim Shenzhen - podał Biały Dom. Informację o dacie rozmów potwierdził również Kreml. Wśród tematów dyskusji prezydenta USA z przywódcami Rosji i Chin ma być między innymi redukcja zbrojeń nuklearnych."
+    },
+    {
+      "title": "Czeka nas przeplatanka frontów. Jaką pogodę nam przyniosą",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-pogody-czeka-nas-przeplatanka-frontow-jaka-aure-nam-przyniosa-st9339390?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 16:05:19 GMT",
+      "description": "Koniec weekendu zapowiada się stosunkowo pogodnie. Już na początku kolejnego tygodnia aurę w Polsce zaczną jednak kształtować niże z frontami - raz chłodnymi, raz ciepłymi. Oznacza to powrót chmur i opadów deszczu, miejscami także silne podmuchy wiatru.",
+      "originalTitle": "Czeka nas przeplatanka frontów. Jaką pogodę nam przyniosą",
+      "originalDescription": "Koniec weekendu zapowiada się stosunkowo pogodnie. Już na początku kolejnego tygodnia aurę w Polsce zaczną jednak kształtować niże z frontami - raz chłodnymi, raz ciepłymi. Oznacza to powrót chmur i opadów deszczu, miejscami także silne podmuchy wiatru."
+    },
+    {
+      "title": "\"Kraków teraz WSB\". Policja bada sprawę napisu przed gdańskim Uniwersytetem WSB Merito",
+      "link": "https://tvn24.pl/trojmiasto/krakow-teraz-wsb-policja-bada-sprawe-napisu-przed-gdanskim-uniwersytetem-st9339400?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 15:47:54 GMT",
+      "description": "Brak opisu"
+    },
+    {
+      "title": "\"Zupełnie siebie nie poznawałam\". Miały być coraz lepsze. Zaczęły znikać",
+      "link": "https://tvn24.pl/polska/ciemna-strona-sportu-kornelia-lesiewicz-i-anna-matuszewicz-o-zdrowiu-presji-i-zaburzeniach-odzywiania-st9337512?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 15:15:40 GMT",
+      "description": "Przy 185 centymetrach wzrostu ważyłam 60 kilogramów. Okresu nie miałam w zasadzie przez dwa lata - opowiada Anna Matuszewicz, rekordzistka Polski w skoku w dal. Kornelia Lesiewicz, jedna z najbardziej utalentowanych polskich biegaczek, w wieku 23 lat zakończyła karierę. - Nie chciałam tracić młodości na coś, co zamiast frajdy zaczęło mi sprawiać ból - tłumaczy. Opowiadają nam o stronie wyczynowego sportu, której nie widać na podium.",
+      "originalTitle": "\"Zupełnie siebie nie poznawałam\". Miały być coraz lepsze. Zaczęły znikać",
+      "originalDescription": "Przy 185 centymetrach wzrostu ważyłam 60 kilogramów. Okresu nie miałam w zasadzie przez dwa lata - opowiada Anna Matuszewicz, rekordzistka Polski w skoku w dal. Kornelia Lesiewicz, jedna z najbardziej utalentowanych polskich biegaczek, w wieku 23 lat zakończyła karierę. - Nie chciałam tracić młodości na coś, co zamiast frajdy zaczęło mi sprawiać ból - tłumaczy. Opowiadają nam o stronie wyczynowego sportu, której nie widać na podium."
+    },
+    {
+      "title": "Zalewa ich raz po raz. Teraz grożą im kilkunastometrowe fale",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kalifornia-zalewa-ich-raz-po-raz-teraz-groza-im-kilkunastometrowe-fale-st9339357?source=rss",
+      "pubDate": "Sat, 14 Nov 2026 15:12:20 GMT",
+      "description": "Kalifornia szykuje się na nadejście potężnej burzy. Synoptycy prognozują ulewy i nawet kilkunastometrowe fale, które mogą doprowadzić do podtopień. Służby meteorologiczne ostrzegły, że na horyzoncie widać już kolejne niebezpieczne zjawiska.",
+      "originalTitle": "Zalewa ich raz po raz. Teraz grożą im kilkunastometrowe fale",
+      "originalDescription": "Kalifornia szykuje się na nadejście potężnej burzy. Synoptycy prognozują ulewy i nawet kilkunastometrowe fale, które mogą doprowadzić do podtopień. Służby meteorologiczne ostrzegły, że na horyzoncie widać już kolejne niebezpieczne zjawiska."
+    }
+  ]
 }
