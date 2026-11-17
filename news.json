@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-17T00:56:55.106Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-17T08:55:45.222Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Most Krymski trafiony, Radosław Sikorski udostępnił zdjęcie. \"Wow\"",
+      "link": "https://tvn24.pl/swiat/most-krymski-trafiony-radoslaw-sikorski-udostepnil-zdjecie-wow-st9342234?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:09:16 GMT",
+      "description": "Ukraina drugi raz w ciągu doby zaatakowała kluczowy dla armii Putina Most Krymski. Ruch na przeprawie został wstrzymany. Jest komunikat Rosji.",
+      "originalTitle": "Most Krymski trafiony, Radosław Sikorski udostępnił zdjęcie. \"Wow\"",
+      "originalDescription": "Ukraina drugi raz w ciągu doby zaatakowała kluczowy dla armii Putina Most Krymski. Ruch na przeprawie został wstrzymany. Jest komunikat Rosji."
+    },
+    {
+      "title": "Zderzenie pociągów w Pradze. Są poszkodowani",
+      "link": "https://tvn24.pl/swiat/czechy-dwa-pociagi-pasazerskie-zderzyly-sie-przy-dworcu-glownym-w-pradze-st9342360?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 08:37:33 GMT",
+      "description": "Co najmniej 15 osób zostało rannych po tym, jak w czeskiej Pradze zderzyły się dwa pociągi osobowe. Są utrudnienia w ruchu.",
+      "originalTitle": "Zderzenie pociągów w Pradze. Są poszkodowani",
+      "originalDescription": "Co najmniej 15 osób zostało rannych po tym, jak w czeskiej Pradze zderzyły się dwa pociągi osobowe. Są utrudnienia w ruchu."
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Wieje i będzie wiało",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-tu-ma-powrocic-silny-wiatr-st9340525?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 08:30:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne przed silnym wiatrem w trzech województwach. Pogoda ma być groźna także w kolejnych dniach. Sprawdź, gdzie mieć się na baczności.",
+      "originalTitle": "Ostrzeżenia IMGW. Wieje i będzie wiało",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne przed silnym wiatrem w trzech województwach. Pogoda ma być groźna także w kolejnych dniach. Sprawdź, gdzie mieć się na baczności."
+    },
+    {
+      "title": "Nocne poszukiwania w Tatrach. Turystka odnaleziona",
+      "link": "https://tvn24.pl/krakow/tatry-ratownicy-odnalezli-zaginiona-turystke-st9342340?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 08:26:18 GMT",
+      "description": "Ratownikom Tatrzańskiego Ochotniczego Pogotowia Ratunkowego udało się odnaleźć kobietę, która nie wróciła do schroniska z samotnej wyprawy w góry. Turystka jest w ciężkim stanie.",
+      "originalTitle": "Nocne poszukiwania w Tatrach. Turystka odnaleziona",
+      "originalDescription": "Ratownikom Tatrzańskiego Ochotniczego Pogotowia Ratunkowego udało się odnaleźć kobietę, która nie wróciła do schroniska z samotnej wyprawy w góry. Turystka jest w ciężkim stanie."
+    },
+    {
+      "title": "Pierwszy w pełni autonomiczny cyberatak. Rosyjskojęzyczni hakerzy stworzyli nowego agenta AI",
+      "link": "https://tvn24.pl/biznes/tech/pierwszy-w-pelni-autonomiczny-cyberatak-rosyjskojezyczni-hakerzy-stworzyli-nowego-agenta-ai-st9342308?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 08:05:38 GMT",
+      "description": "Rosyjskojęzyczni hakerzy stworzyli agenta sztucznej inteligencji, który przeprowadził prawdopodobnie pierwszy w historii w pełni zautomatyzowany cyberatak - przekazał portal Politico, powołując się na ustalenia Google.",
+      "originalTitle": "Pierwszy w pełni autonomiczny cyberatak. Rosyjskojęzyczni hakerzy stworzyli nowego agenta AI",
+      "originalDescription": "Rosyjskojęzyczni hakerzy stworzyli agenta sztucznej inteligencji, który przeprowadził prawdopodobnie pierwszy w historii w pełni zautomatyzowany cyberatak - przekazał portal Politico, powołując się na ustalenia Google."
+    },
+    {
+      "title": "Następna stacja: raczej nie metro. Ważna decyzja Gibały",
+      "link": "https://tvn24.pl/krakow/krakow-miasto-oddala-sie-od-budowy-metra-st9342307?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:43:40 GMT",
+      "description": "W krakowskim urzędzie miasta zostanie zlikwidowany referat do spraw metra. Wiceprezydent Karol Wałachowski w lokalnych mediach potwierdził, że miasto \"wycofuje się z tego projektu\".",
+      "originalTitle": "Następna stacja: raczej nie metro. Ważna decyzja Gibały",
+      "originalDescription": "W krakowskim urzędzie miasta zostanie zlikwidowany referat do spraw metra. Wiceprezydent Karol Wałachowski w lokalnych mediach potwierdził, że miasto \"wycofuje się z tego projektu\"."
+    },
+    {
+      "title": "Wiózł czworo młodych pasażerów, dwie nastolatki nie żyją. Ustalenia prokuratury",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/makolin-wypadek-dwie-nastolatki-nie-zyja-ustalenia-prokuratury-st9342276?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:40:39 GMT",
+      "description": "Jest akt oskarżenia przeciwko Marcelowi S., podejrzanemu o spowodowanie wypadku w Mąkolinie (Mazowieckie). Zmarły wówczas dwie dziewczyny: 14-latka na miejscu zdarzenia, 15-latka w szpitalu. Prokuratura ustaliła, że podejrzany mógł znacznie przekroczyć dozwoloną prędkość.",
+      "originalTitle": "Wiózł czworo młodych pasażerów, dwie nastolatki nie żyją. Ustalenia prokuratury",
+      "originalDescription": "Jest akt oskarżenia przeciwko Marcelowi S., podejrzanemu o spowodowanie wypadku w Mąkolinie (Mazowieckie). Zmarły wówczas dwie dziewczyny: 14-latka na miejscu zdarzenia, 15-latka w szpitalu. Prokuratura ustaliła, że podejrzany mógł znacznie przekroczyć dozwoloną prędkość."
+    },
+    {
+      "title": "Zakończyła związek, przemoc trwała dalej",
+      "link": "https://tvn24.pl/katowice/jastrzebie-zdroj-zakonczyla-zwiazek-przemoc-trwala-dalej-st9342289?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:22:40 GMT",
+      "description": "60-latek trafił do aresztu z powodu przemocy w stosunku do byłej partnerki. Kilka dni temu miał ją \"dusić, bić pięściami po głowie i ciele oraz grozić pozbawieniem życia\".",
+      "originalTitle": "Zakończyła związek, przemoc trwała dalej",
+      "originalDescription": "60-latek trafił do aresztu z powodu przemocy w stosunku do byłej partnerki. Kilka dni temu miał ją \"dusić, bić pięściami po głowie i ciele oraz grozić pozbawieniem życia\"."
+    },
+    {
+      "title": "Nawet 12 tysięcy euro za jeden kurs. Staną przed sądem za nielegalny przewóz migrantów",
+      "link": "https://tvn24.pl/lodz/nawet-12-tysiecy-euro-za-jeden-kurs-szesciu-polakow-oskarzonych-o-nielegalny-przewoz-migrantow-st9342041?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:15:04 GMT",
+      "description": "Bieszczadzcy pogranicznicy zatrzymali sześć osób, które miały być zaangażowane w proceder nielegalnego przewożenia migrantów przez granicę. Pasażerowie byli transportowani z granicy bośniacko-chorwackiej na teren Unii Europejskiej. Na jednym kursie kierowca mógł zarobić nawet 12 tysięcy euro.",
+      "originalTitle": "Nawet 12 tysięcy euro za jeden kurs. Staną przed sądem za nielegalny przewóz migrantów",
+      "originalDescription": "Bieszczadzcy pogranicznicy zatrzymali sześć osób, które miały być zaangażowane w proceder nielegalnego przewożenia migrantów przez granicę. Pasażerowie byli transportowani z granicy bośniacko-chorwackiej na teren Unii Europejskiej. Na jednym kursie kierowca mógł zarobić nawet 12 tysięcy euro."
+    },
+    {
+      "title": "Zamrożenie rachunków Trybunału Konstytucyjnego. Klimczak o Glapińskim: dolewa oliwy do ognia",
+      "link": "https://tvn24.pl/biznes/z-kraju/zamrozenie-rachunkow-trybunalu-konstytucyjnego-klimczak-o-glapinskim-dolewa-oliwy-do-ognia-st9342271?source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:06:03 GMT",
+      "description": "Od osób, które piastują tego typu funkcje, oczekuje się stabilizowania sytuacji w Polsce, a pan Glapiński swoim działaniem dolewa oliwy do ognia - powiedział Dariusz Klimczak w \"Rozmowie Piaseckiego\" na antenie TVN24. Minister infrastruktury mówił między innymi o wstrzymaniu płatności Trybunału Konstytucyjnego i szansach na postawienie prezesa Narodowego Banku Polskiego Adama Glapińskiego przed Trybunałem Stanu.",
+      "originalTitle": "Zamrożenie rachunków Trybunału Konstytucyjnego. Klimczak o Glapińskim: dolewa oliwy do ognia",
+      "originalDescription": "Od osób, które piastują tego typu funkcje, oczekuje się stabilizowania sytuacji w Polsce, a pan Glapiński swoim działaniem dolewa oliwy do ognia - powiedział Dariusz Klimczak w \"Rozmowie Piaseckiego\" na antenie TVN24. Minister infrastruktury mówił między innymi o wstrzymaniu płatności Trybunału Konstytucyjnego i szansach na postawienie prezesa Narodowego Banku Polskiego Adama Glapińskiego przed Trybunałem Stanu."
+    }
+  ]
 }
