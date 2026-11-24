@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-23T17:55:13.058Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-24T03:51:42.766Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "\"Krótkotrwałe naruszenie polskiej przestrzeni\". Alert RCB i komunikat wojska",
+      "link": "https://tvn24.pl/polska/alert-rcb-w-wojewodztwie-lubelskim-ostrzezenie-dowodztwa-operacyjnego-st9354055?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 22:05:07 GMT",
+      "description": "Doszło do krótkotrwałego naruszenia polskiej przestrzeni powietrznej przez rosyjski bezzałogowy statek powietrzny - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych (DORSZ). Rządowe Centrum Bezpieczeństwo ogłosiło alert dla województwa lubelskiego - po godzinie został odwołany.",
+      "originalTitle": "\"Krótkotrwałe naruszenie polskiej przestrzeni\". Alert RCB i komunikat wojska",
+      "originalDescription": "Doszło do krótkotrwałego naruszenia polskiej przestrzeni powietrznej przez rosyjski bezzałogowy statek powietrzny - poinformowało Dowództwo Operacyjne Rodzajów Sił Zbrojnych (DORSZ). Rządowe Centrum Bezpieczeństwo ogłosiło alert dla województwa lubelskiego - po godzinie został odwołany."
+    },
+    {
+      "title": "Huang ma złożyć wyjaśnienia przed komisją",
+      "link": "https://tvn24.pl/biznes/ze-swiata/huang-na-zlozyc-wyjasnienia-przed-komisja-st9353982?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:59:40 GMT",
+      "description": "3 grudnia Jensen Huang ma stanąć przed senacką komisją bankowości. Wysłuchanie dotyczy kontroli eksportu zaawansowanych układów AI. Szereg republikanów krytykuje przywrócenie Huanga na szefa firmy.",
+      "originalTitle": "Huang ma złożyć wyjaśnienia przed komisją",
+      "originalDescription": "3 grudnia Jensen Huang ma stanąć przed senacką komisją bankowości. Wysłuchanie dotyczy kontroli eksportu zaawansowanych układów AI. Szereg republikanów krytykuje przywrócenie Huanga na szefa firmy."
+    },
+    {
+      "title": "Powrót \"króla\". Tak przywitali go pracownicy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/powrot-krola-tak-przywitali-go-pracownicy-st9354016?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:53:31 GMT",
+      "description": "Pracownicy z radością witają powrót Jensena Huanga do siedziby głównej firmy Nvidia - napisał portal stacji CNN. W sieci pojawiły się nagrania z tego wydarzenia.",
+      "originalTitle": "Powrót \"króla\". Tak przywitali go pracownicy",
+      "originalDescription": "Pracownicy z radością witają powrót Jensena Huanga do siedziby głównej firmy Nvidia - napisał portal stacji CNN. W sieci pojawiły się nagrania z tego wydarzenia."
+    },
+    {
+      "title": "Śmiertelne potrącenie na autostradzie A2. Nie żyje mężczyzna",
+      "link": "https://tvn24.pl/lodz/smiertelne-potracenie-na-trasie-a2-nie-zyje-mezczyzna-st9354008?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:36:09 GMT",
+      "description": "Na autostradzie A2 w miejscowości Wierzbowa (województwo łódzkie) mężczyzna został śmiertelnie potrącony przez samochód. Z ustaleń śledczych wynika, że 53-latek wszedł na jezdnię \"prosto pod nadjeżdżający pojazd\".",
+      "originalTitle": "Śmiertelne potrącenie na autostradzie A2. Nie żyje mężczyzna",
+      "originalDescription": "Na autostradzie A2 w miejscowości Wierzbowa (województwo łódzkie) mężczyzna został śmiertelnie potrącony przez samochód. Z ustaleń śledczych wynika, że 53-latek wszedł na jezdnię \"prosto pod nadjeżdżający pojazd\"."
+    },
+    {
+      "title": "Reakcja opozycji na działania Rosji. Antoni Dudek: interesuje ich jedno",
+      "link": "https://tvn24.pl/polska/reakcja-opozycji-na-dzialania-rosji-antoni-dudek-interesuje-ich-jedno-st9353967?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:34:17 GMT",
+      "description": "Oni będą robić wszystko, żeby to zagrożenie bagatelizować - powiedział w \"Kropce nad i\" w TVN24 profesor Antoni Dudek, pytany o działania polityków opozycji w związku z rosyjską eskalacją.",
+      "originalTitle": "Reakcja opozycji na działania Rosji. Antoni Dudek: interesuje ich jedno",
+      "originalDescription": "Oni będą robić wszystko, żeby to zagrożenie bagatelizować - powiedział w \"Kropce nad i\" w TVN24 profesor Antoni Dudek, pytany o działania polityków opozycji w związku z rosyjską eskalacją."
+    },
+    {
+      "title": "Zmiany w handlu akcjami. Nowy plan rządu",
+      "link": "https://tvn24.pl/biznes/pieniadze/zmiany-w-handlu-akcjami-nowy-plan-rzadu-st9353728?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:24:07 GMT",
+      "description": "Rada Ministrów pracuje nad projektem ustawy umożliwiającej handlowanie ułamkami akcji - wynika z informacji opublikowanej w wykazie prac legislacyjnych rządu.",
+      "originalTitle": "Zmiany w handlu akcjami. Nowy plan rządu",
+      "originalDescription": "Rada Ministrów pracuje nad projektem ustawy umożliwiającej handlowanie ułamkami akcji - wynika z informacji opublikowanej w wykazie prac legislacyjnych rządu."
+    },
+    {
+      "title": "Do Hiszpanii płynie lodowate powietrze. W górach dosypie śniegu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/do-hiszpanii-plynie-lodowate-powietrze-w-gorach-dosypie-sniegu-st9353940?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:17:23 GMT",
+      "description": "Ostatni tydzień listopada przyniesie chłód mieszkańcom Hiszpanii. Temperatura obniżyła się już w poniedziałek, a w kolejnych dniach ma spaść jeszcze bardziej. W wielu pasmach górskich na obszarze kraju dosypie śniegu.",
+      "originalTitle": "Do Hiszpanii płynie lodowate powietrze. W górach dosypie śniegu",
+      "originalDescription": "Ostatni tydzień listopada przyniesie chłód mieszkańcom Hiszpanii. Temperatura obniżyła się już w poniedziałek, a w kolejnych dniach ma spaść jeszcze bardziej. W wielu pasmach górskich na obszarze kraju dosypie śniegu."
+    },
+    {
+      "title": "Nowa pozycja na rachunkach za prąd. Zmiany już w grudniu",
+      "link": "https://tvn24.pl/biznes/pieniadze/nowa-pozycja-na-rachunkach-za-prad-zmiany-juz-w-grudniu-st9353540?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:10:22 GMT",
+      "description": "Zmiany w opłacie abonamentowej. Wyższy rachunek zapłacą przede wszystkim prosumenci, jednak będzie to wzrost maksymalnie o kilka złotych miesięcznie. Dla niektórych zmiana może oznaczać mniejsze koszty.",
+      "originalTitle": "Nowa pozycja na rachunkach za prąd. Zmiany już w grudniu",
+      "originalDescription": "Zmiany w opłacie abonamentowej. Wyższy rachunek zapłacą przede wszystkim prosumenci, jednak będzie to wzrost maksymalnie o kilka złotych miesięcznie. Dla niektórych zmiana może oznaczać mniejsze koszty."
+    },
+    {
+      "title": "Atak na rafinerię. Zakład wstrzymał pracę",
+      "link": "https://tvn24.pl/biznes/ze-swiata/atak-na-rafinerie-zaklad-wstrzymal-prace-st9353909?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 20:02:04 GMT",
+      "description": "Rafineria w Nowoszachtyńsku na południu Rosji wstrzymała działalność po zmasowanym ukraińskim ataku powietrznym - podał portal RBK-Ukraina, przy czym powołał się na wpis gubernatora obwodu rostowskiego Jurija Sliusara.",
+      "originalTitle": "Atak na rafinerię. Zakład wstrzymał pracę",
+      "originalDescription": "Rafineria w Nowoszachtyńsku na południu Rosji wstrzymała działalność po zmasowanym ukraińskim ataku powietrznym - podał portal RBK-Ukraina, przy czym powołał się na wpis gubernatora obwodu rostowskiego Jurija Sliusara."
+    },
+    {
+      "title": "Chaos na kolei. Kilkaset odwołanych połączeń",
+      "link": "https://tvn24.pl/biznes/ze-swiata/chaos-na-kolei-kilkaset-odwolanych-polaczen-st9353899?source=rss",
+      "pubDate": "Mon, 23 Nov 2026 19:49:11 GMT",
+      "description": "Trwający od poniedziałkowego poranka strajk maszynistów w Portugalii doprowadził do odwołania kilkuset połączeń kolejowych w całym kraju. Protest ma potrwać do piątku.",
+      "originalTitle": "Chaos na kolei. Kilkaset odwołanych połączeń",
+      "originalDescription": "Trwający od poniedziałkowego poranka strajk maszynistów w Portugalii doprowadził do odwołania kilkuset połączeń kolejowych w całym kraju. Protest ma potrwać do piątku."
+    }
+  ]
 }
