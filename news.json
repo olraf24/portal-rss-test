@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-25T07:13:33.836Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-25T18:05:57.778Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Po zamachu w Krakowie. Miasto pomoże poszkodowanym przedsiębiorcom",
+      "link": "https://tvn24.pl/krakow/krakow-miasto-pomoze-przedsiebiorcom-poszkodowanym-przez-skutki-ataku-st9357630?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 17:26:20 GMT",
+      "description": "Przedsiębiorcy prowadzący działalność na Rynku Głównym będą mogli zawiesić płatności lub otrzymają zwrot należności za okres, w którym nie mogli pracować z powodu ograniczeń wprowadzonych po zamachu z 7 listopada. Z pomocy miasta będą mogli skorzystać restauratorzy, fiakrzy, handlarze czy uliczni artyści.",
+      "originalTitle": "Po zamachu w Krakowie. Miasto pomoże poszkodowanym przedsiębiorcom",
+      "originalDescription": "Przedsiębiorcy prowadzący działalność na Rynku Głównym będą mogli zawiesić płatności lub otrzymają zwrot należności za okres, w którym nie mogli pracować z powodu ograniczeń wprowadzonych po zamachu z 7 listopada. Z pomocy miasta będą mogli skorzystać restauratorzy, fiakrzy, handlarze czy uliczni artyści."
+    },
+    {
+      "title": "Cyberatak na polską firmę medyczną. Wyłączono jedną z usług",
+      "link": "https://tvn24.pl/biznes/tech/cyberatak-na-firme-medyczna-dreryk-oprogramowanie-medyczne-padlo-celem-hakerow-st9357635?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 17:22:11 GMT",
+      "description": "Polska firma drEryk, dostarczająca oprogramowanie dla gabinetów lekarskich i placówek medycznych, padła ofiarą cyberataku - przekazała spółka w komunikacie. Zapewnia, że \"szczegółowa analiza dotycząca incydentu jest w toku\".",
+      "originalTitle": "Cyberatak na polską firmę medyczną. Wyłączono jedną z usług",
+      "originalDescription": "Polska firma drEryk, dostarczająca oprogramowanie dla gabinetów lekarskich i placówek medycznych, padła ofiarą cyberataku - przekazała spółka w komunikacie. Zapewnia, że \"szczegółowa analiza dotycząca incydentu jest w toku\"."
+    },
+    {
+      "title": "Szklanka na drogach. Ostrzeżenia IMGW w sześciu województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/niebezpieczne-oblodzenia-na-drogach-ostrzezenia-imgw-st9352390?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 05:26:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W nocy w części kraju zrobi się ślisko. Sprawdź, gdzie trzeba szykować się na trudne warunki.",
+      "originalTitle": "Szklanka na drogach. Ostrzeżenia IMGW w sześciu województwach",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W nocy w części kraju zrobi się ślisko. Sprawdź, gdzie trzeba szykować się na trudne warunki."
+    },
+    {
+      "title": "Nadchodzi Black Friday. Sklepy czeka \"test odporności\"",
+      "link": "https://tvn24.pl/biznes/handel/nadchodzi-black-friday-2026-test-odpornosci-sklepow-st9357373?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:53:21 GMT",
+      "description": "Trwający okres wyprzedaży z okazji Black Friday zwiększa ryzyko cyberataków. Sztuczna inteligencja sprawia, że ataki są szybsze i skuteczniejsze, a sektor handlu detalicznego należy do najsłabiej chronionych - podaje Reuters.",
+      "originalTitle": "Nadchodzi Black Friday. Sklepy czeka \"test odporności\"",
+      "originalDescription": "Trwający okres wyprzedaży z okazji Black Friday zwiększa ryzyko cyberataków. Sztuczna inteligencja sprawia, że ataki są szybsze i skuteczniejsze, a sektor handlu detalicznego należy do najsłabiej chronionych - podaje Reuters."
+    },
+    {
+      "title": "Ciężarówka w rowie na trasie S7",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/unierzyz-ciezarowka-w-rowie-utrudnienia-na-s7-st9357596?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:44:03 GMT",
+      "description": "W miejscowości Unierzyż pod Mławą (Mazowieckie) kierujący ciężarówką wjechał do rowu. Policja poinformowała o utrudnieniach na trasie S7 w kierunku Warszawy.",
+      "originalTitle": "Ciężarówka w rowie na trasie S7",
+      "originalDescription": "W miejscowości Unierzyż pod Mławą (Mazowieckie) kierujący ciężarówką wjechał do rowu. Policja poinformowała o utrudnieniach na trasie S7 w kierunku Warszawy."
+    },
+    {
+      "title": "Ponad 19 kilogramów narkotyków. Akcja elbląskich policjantów",
+      "link": "https://tvn24.pl/olsztyn/elblag-policjanci-zarekwirowali-ponad-19-kilogramow-narkotykow-st9357589?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:30:18 GMT",
+      "description": "Policjanci kryminalni z Elbląga zatrzymali dwóch mężczyzn w wieku 20 i 27 lat, którzy w garażu wytwarzali znaczne ilości amfetaminy oraz marihuany. Grozi im kara pozbawienia wolności do 20 lat.",
+      "originalTitle": "Ponad 19 kilogramów narkotyków. Akcja elbląskich policjantów",
+      "originalDescription": "Policjanci kryminalni z Elbląga zatrzymali dwóch mężczyzn w wieku 20 i 27 lat, którzy w garażu wytwarzali znaczne ilości amfetaminy oraz marihuany. Grozi im kara pozbawienia wolności do 20 lat."
+    },
+    {
+      "title": "CBA weszło do spółek Skarbu Państwa i Państwowej Komisji Wyborczej. W tle śledztwo korupcyjne",
+      "link": "https://tvn24.pl/biznes/z-kraju/cba-przeszukalo-siedziby-enei-totalizatora-sportowego-i-pkw-st9357564?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:14:53 GMT",
+      "description": "Centralne Biuro Antykorupcyjne przeszukało między innymi siedziby Enei, Totalizatora Sportowego i Państwowej Komisji Wyborczej w związku ze śledztwem dotyczącym płatnej protekcji i korupcji.",
+      "originalTitle": "CBA weszło do spółek Skarbu Państwa i Państwowej Komisji Wyborczej. W tle śledztwo korupcyjne",
+      "originalDescription": "Centralne Biuro Antykorupcyjne przeszukało między innymi siedziby Enei, Totalizatora Sportowego i Państwowej Komisji Wyborczej w związku ze śledztwem dotyczącym płatnej protekcji i korupcji."
+    },
+    {
+      "title": "Zalążek trąby powietrznej w Wielkopolsce. Lej kondensacyjny powstał, choć nie powinien",
+      "link": "https://tvn24.pl/tvnmeteo/polska/zalazek-traby-powietrznej-w-wielkopolsce-lej-kondensacyjny-powstal-choc-nie-powinien-st9357508?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:14:27 GMT",
+      "description": "Lej kondensacyjny pojawił się we wtorek nad Wrześnią w województwie wielkopolskim. Według naszej synoptyk warunki nie sprzyjały uformowaniu się tego zjawiska. Dlaczego mimo to powstało?",
+      "originalTitle": "Zalążek trąby powietrznej w Wielkopolsce. Lej kondensacyjny powstał, choć nie powinien",
+      "originalDescription": "Lej kondensacyjny pojawił się we wtorek nad Wrześnią w województwie wielkopolskim. Według naszej synoptyk warunki nie sprzyjały uformowaniu się tego zjawiska. Dlaczego mimo to powstało?"
+    },
+    {
+      "title": "Anna Korwin-Piotrowska i Bogdan Święczkowski domagają się dostępu do kont Trybunału Konstytucyjnego",
+      "link": "https://tvn24.pl/biznes/z-kraju/anna-korwin-piotrowska-pisze-do-prezesa-nbp-wezwanie-o-przywrocenie-obslugi-rachunkow-tk-st9357262?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 14:11:44 GMT",
+      "description": "Sędzia Anna Korwin-Piotrowska chce przywrócenia możliwości obsługi rachunków bankowych Trybunału Konstytucyjnego. We wtorkowym liście do prezesa Narodowego Banku Polskiego, do którego dotarła TVN24, wyznaczyła termin trzech dni na odpowiedź. Dzień wcześniej pismo do banku centralnego wysłał także pełnomocnik Bogdana Święczkowskiego.",
+      "originalTitle": "Anna Korwin-Piotrowska i Bogdan Święczkowski domagają się dostępu do kont Trybunału Konstytucyjnego",
+      "originalDescription": "Sędzia Anna Korwin-Piotrowska chce przywrócenia możliwości obsługi rachunków bankowych Trybunału Konstytucyjnego. We wtorkowym liście do prezesa Narodowego Banku Polskiego, do którego dotarła TVN24, wyznaczyła termin trzech dni na odpowiedź. Dzień wcześniej pismo do banku centralnego wysłał także pełnomocnik Bogdana Święczkowskiego."
+    },
+    {
+      "title": "Zgłoszenie dotyczyło pożaru. Znaleźli kilogram narkotyków",
+      "link": "https://tvn24.pl/trojmiasto/gdynia-policjanci-pojechali-w-sprawie-pozaru-wrocili-z-kilogramem-narkotykow-st9357531?source=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:01:56 GMT",
+      "description": "Interwencja policjantów z Gdyni miała dotyczyć ognia, a zakończyła się zatrzymaniem 40-latka, który w mieszkaniu miał kokainę i amfetaminę. Mężczyzna został aresztowany na trzy miesiące.",
+      "originalTitle": "Zgłoszenie dotyczyło pożaru. Znaleźli kilogram narkotyków",
+      "originalDescription": "Interwencja policjantów z Gdyni miała dotyczyć ognia, a zakończyła się zatrzymaniem 40-latka, który w mieszkaniu miał kokainę i amfetaminę. Mężczyzna został aresztowany na trzy miesiące."
+    }
+  ]
 }
