@@ -1,6 +1,87 @@
 {
-  "lastUpdate": "2026-11-27T02:40:04.708Z",
-  "enhancedWithGroq": false,
-  "error": "HTTP 403",
-  "articles": []
+  "lastUpdate": "2026-11-27T11:48:57.278Z",
+  "enhancedWithGroq": true,
+  "groqApiKeyExists": true,
+  "articles": [
+    {
+      "title": "Prezydent zdecydował w sprawie podatków",
+      "link": "https://tvn24.pl/biznes/z-kraju/prezydent-karol-nawrocki-ustawe-podnoszaca-progi-podatkowe-st9356538?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 11:43:55 GMT",
+      "description": "Prezydent Karol Nawrocki zawetował ustawę, która podnosi pierwszy próg podatkowy do 130 tysięcy złotych oraz wprowadza drugi próg do 150 tysięcy złotych i nową stawkę podatkową.",
+      "originalTitle": "Prezydent zdecydował w sprawie podatków",
+      "originalDescription": "Prezydent Karol Nawrocki zawetował ustawę, która podnosi pierwszy próg podatkowy do 130 tysięcy złotych oraz wprowadza drugi próg do 150 tysięcy złotych i nową stawkę podatkową."
+    },
+    {
+      "title": "Kobiety żyją dłużej. Jeden wskaźnik wypada lepiej u mężczyzn",
+      "link": "https://tvn24.pl/zdrowie/od-czego-zalezy-jak-dlugo-zyjemy-w-zdrowiu-sam-wiek-to-nie-wszystko-st9360656?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 11:38:52 GMT",
+      "description": "Różnice w długości życia kobiet i mężczyzn to nie tylko kwestia biologii. Znaczenie mają również styl życia, miejsce zamieszkania i poziom wykształcenia. Najnowsze dane pokazują, że szanse na długie życie w dobrym zdrowiu są w Polsce nierówne i zależą od znacznie większej liczby czynników, niż mogłoby się wydawać.",
+      "originalTitle": "Kobiety żyją dłużej. Jeden wskaźnik wypada lepiej u mężczyzn",
+      "originalDescription": "Różnice w długości życia kobiet i mężczyzn to nie tylko kwestia biologii. Znaczenie mają również styl życia, miejsce zamieszkania i poziom wykształcenia. Najnowsze dane pokazują, że szanse na długie życie w dobrym zdrowiu są w Polsce nierówne i zależą od znacznie większej liczby czynników, niż mogłoby się wydawać."
+    },
+    {
+      "title": "Atrapy narkotyków i specjalne walizki. Policja będzie edukować rodziców",
+      "link": "https://tvn24.pl/trojmiasto/pomorze-atrapy-narkotykow-i-specjalne-walizki-policja-bedzie-edukowac-rodzicow-st9359519?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 11:27:44 GMT",
+      "description": "Z pozoru zwykła zapalniczka może służyć do zażywania substancji psychoaktywnych, a przedmiot przypominający kalkulator może być wagą do ich porcjowania. Pomorscy policjanci, którzy otrzymali 14 nowych walizek edukacyjnych, będą pokazywać takie przykłady rodzicom, nauczycielom i wychowawcom.",
+      "originalTitle": "Atrapy narkotyków i specjalne walizki. Policja będzie edukować rodziców",
+      "originalDescription": "Z pozoru zwykła zapalniczka może służyć do zażywania substancji psychoaktywnych, a przedmiot przypominający kalkulator może być wagą do ich porcjowania. Pomorscy policjanci, którzy otrzymali 14 nowych walizek edukacyjnych, będą pokazywać takie przykłady rodzicom, nauczycielom i wychowawcom."
+    },
+    {
+      "title": "Obowiązują alerty IMGW. Jak długo będzie padał śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/obowiazuja-alerty-imgw-jak-dlugo-bedzie-padal-snieg-mapa-st9352390?source=rss",
+      "pubDate": "Thu, 26 Nov 2026 05:48:00 GMT",
+      "description": "Instytut Meteorologii i Gospodarki Wodnej wydał alerty. W czterech województwach wciąż intensywnie pada śnieg.",
+      "originalTitle": "Obowiązują alerty IMGW. Jak długo będzie padał śnieg",
+      "originalDescription": "Instytut Meteorologii i Gospodarki Wodnej wydał alerty. W czterech województwach wciąż intensywnie pada śnieg."
+    },
+    {
+      "title": "Antoni Macierewicz na konferencji prokuratury w sprawie katastrofy smoleńskiej",
+      "link": "https://tvn24.pl/polska/antoni-macierewicz-na-konferencji-prokuratury-w-sprawie-katastrofy-smolenskiej-st9360514?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 10:21:16 GMT",
+      "description": "Poseł PiS Antoni Macierewicz przyszedł na konferencję Prokuratury Krajowej, która przedstawiła opinię w sprawie śledztwa smoleńskiego. Pod koniec spotkania z dziennikarzami były szef MON podszedł do mikrofonu i zakłócał wypowiedź prokuratora Przemysława Nowaka. Prokurator najpierw zwracał uwagę Macierewiczowi, ostatecznie wyszedł z sali.",
+      "originalTitle": "Antoni Macierewicz na konferencji prokuratury w sprawie katastrofy smoleńskiej",
+      "originalDescription": "Poseł PiS Antoni Macierewicz przyszedł na konferencję Prokuratury Krajowej, która przedstawiła opinię w sprawie śledztwa smoleńskiego. Pod koniec spotkania z dziennikarzami były szef MON podszedł do mikrofonu i zakłócał wypowiedź prokuratora Przemysława Nowaka. Prokurator najpierw zwracał uwagę Macierewiczowi, ostatecznie wyszedł z sali."
+    },
+    {
+      "title": "Uszkodzone auto stało na torach. Właściciel nie chciał powiedzieć, kto kierował",
+      "link": "https://tvn24.pl/rzeszow/boguchwala-na-torach-stalo-uszkodzone-auto-w-srodku-nikogo-nie-bylo-st9360672?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 11:01:38 GMT",
+      "description": "Uszkodzone Audi stało na torach kolejowych w Boguchwale na Podkarpaciu. W środku nikogo nie było. Policjanci ustalili właściciela pojazdu, ale ten odmówił wskazania kierowcy. Ostatecznie został ukarany wysokim mandatem.",
+      "originalTitle": "Uszkodzone auto stało na torach. Właściciel nie chciał powiedzieć, kto kierował",
+      "originalDescription": "Uszkodzone Audi stało na torach kolejowych w Boguchwale na Podkarpaciu. W środku nikogo nie było. Policjanci ustalili właściciela pojazdu, ale ten odmówił wskazania kierowcy. Ostatecznie został ukarany wysokim mandatem."
+    },
+    {
+      "title": "Tusk o raporcie w sprawie Smoleńska. \"Nigdy nie było żadnego sporu\"",
+      "link": "https://tvn24.pl/polska/raport-miedzynarodowych-bieglych-w-sprawie-katastrofy-smolenskiej-komentarz-donalda-tuska-st9360535?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 10:53:07 GMT",
+      "description": "Przyczyny zostały precyzyjnie ustalone przez komisję tuż po katastrofie smoleńskiej, a zostały zakwestionowane z czysto politycznych względów - ocenił premier Donald Tusk. W piątek prokuratura opublikowała wnioski z pracy 22 międzynarodowych biegłych.",
+      "originalTitle": "Tusk o raporcie w sprawie Smoleńska. \"Nigdy nie było żadnego sporu\"",
+      "originalDescription": "Przyczyny zostały precyzyjnie ustalone przez komisję tuż po katastrofie smoleńskiej, a zostały zakwestionowane z czysto politycznych względów - ocenił premier Donald Tusk. W piątek prokuratura opublikowała wnioski z pracy 22 międzynarodowych biegłych."
+    },
+    {
+      "title": "127 km/h na Trasie Łazienkowskiej. Trzy mandaty dla kierowcy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-127-km-h-na-trasie-lazienkowskiej-trzy-mandaty-dla-kierowcy-st9360447?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 10:52:58 GMT",
+      "description": "Kierowca Audi jechał Trasą Łazienkowską w Warszawie ponad dwa razy szybciej, niż pozwalało ograniczenie. Policjanci zatrzymali go i ukarali za trzy wykroczenia.",
+      "originalTitle": "127 km/h na Trasie Łazienkowskiej. Trzy mandaty dla kierowcy",
+      "originalDescription": "Kierowca Audi jechał Trasą Łazienkowską w Warszawie ponad dwa razy szybciej, niż pozwalało ograniczenie. Policjanci zatrzymali go i ukarali za trzy wykroczenia."
+    },
+    {
+      "title": "Wtargnęli do rezydencji Kate i Williama. Ujawniono, co próbowali ukraść",
+      "link": "https://tvn24.pl/swiat/kate-i-william-dwoch-mezczyzn-wtargnelo-do-ich-rezydencji-ujawniono-co-probowali-ukrasc-st9360314?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 10:52:08 GMT",
+      "description": "Dwóch mężczyzn, którym postawiono zarzut wtargnięcia do rezydencji księcia i księżnej Walii, stanęło przed sądem. Zostali oskarżeni o próbę kradzieży spinek do mankietów oraz zegara. Media piszą, że w chwili ujęcia byli boso.",
+      "originalTitle": "Wtargnęli do rezydencji Kate i Williama. Ujawniono, co próbowali ukraść",
+      "originalDescription": "Dwóch mężczyzn, którym postawiono zarzut wtargnięcia do rezydencji księcia i księżnej Walii, stanęło przed sądem. Zostali oskarżeni o próbę kradzieży spinek do mankietów oraz zegara. Media piszą, że w chwili ujęcia byli boso."
+    },
+    {
+      "title": "Kojima na spotkaniu z CD Projekt Red. Padły słowa o wymianie doświadczeń",
+      "link": "https://tvn24.pl/biznes/tech/hideo-kojima-odwiedzil-cd-projekt-red-w-warszawie-czy-szykuje-sie-wspolpraca-st9360547?source=rss",
+      "pubDate": "Fri, 27 Nov 2026 10:50:45 GMT",
+      "description": "Hideo Kojima wraz z członkami Kojima Productions odwiedził Warszawę i spotkał się z przedstawicielami CD Projekt Red. Rozmowy dotyczyły doświadczeń związanych z produkcją gier, ale żadna ze stron nie zapowiedziała oficjalnej współpracy. Uwagę fanów przyciągnęły również zdjęcia ze stolicy.",
+      "originalTitle": "Kojima na spotkaniu z CD Projekt Red. Padły słowa o wymianie doświadczeń",
+      "originalDescription": "Hideo Kojima wraz z członkami Kojima Productions odwiedził Warszawę i spotkał się z przedstawicielami CD Projekt Red. Rozmowy dotyczyły doświadczeń związanych z produkcją gier, ale żadna ze stron nie zapowiedziała oficjalnej współpracy. Uwagę fanów przyciągnęły również zdjęcia ze stolicy."
+    }
+  ]
 }
